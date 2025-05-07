@@ -1,6 +1,6 @@
 ---
 title: The Importance of Delivering Working Software Every Iteration
-description: 'Discover 6 surprising insights about Agile Product Management that can transform your approach! Watch now for essential tips. #agile #productmanagement'
+description: "Discover 6 surprising insights about Agile Product Management that can transform your approach! Watch now for essential tips. #agile #productmanagement"
 date: 2024-06-26T06:45:00Z
 weight: 355
 ResourceId: 3-LDBJppxvo
@@ -16,43 +16,42 @@ preview: https://i.ytimg.com/vi/3-LDBJppxvo/maxresdefault.jpg
 duration: 56
 isShort: true
 aliases:
-- /resources/3-LDBJppxvo
-- /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
-- /resources/videos/the-importance-of-delivering-working-software-every-iteration
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+  - /resources/3-LDBJppxvo
+  - /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
+  - /resources/videos/the-importance-of-delivering-working-software-every-iteration
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
 aliasesArchive:
-- /resources/videos/the-importance-of-delivering-working-software-every-iteration
-- /resources/the-importance-of-delivering-working-software-every-iteration
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
-- the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
+  - /resources/videos/the-importance-of-delivering-working-software-every-iteration
+  - /resources/the-importance-of-delivering-working-software-every-iteration
+  - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+  - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+  - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+  - the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
-- Working Software
-- Product Delivery
-- Agile Strategy
-- Value Delivery
-- Operational Practices
-- Customer Feedback Loops
-- Product Validation
-- Agile Planning
-- MVP
-- Empirical Process Control
-- Pragmatic Thinking
-- Agile Frameworks
-- Agile Product Management
-- Deployment Frequency
+  - Software Development
+  - Working Software
+  - Product Delivery
+  - Agile Strategy
+  - Value Delivery
+  - Operational Practices
+  - Customer Feedback Loops
+  - Product Validation
+  - Agile Planning
+  - Empirical Process Control
+  - Pragmatic Thinking
+  - Agile Frameworks
+  - Agile Product Management
+  - Deployment Frequency
 resourceTypes:
-- video
+  - video
 layout: video
 categories:
-- Product Development
-
+  - Product Development
 ---
+
 In the ever-evolving world of Agile, the ability to deliver [working software]({{< ref "/tags/working-software" >}}) to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.
 
 ## **Why Delivering Working Software Matters**
@@ -70,11 +69,10 @@ One of the core principles of Agile is to **close feedback loops** as quickly as
 Until your product is in the hands of actual users, everything you've built is just a hypothesis. The sooner you can validate these hypotheses, the better.
 
 - **Real-World Testing:** Early delivery allows your team to test the product in real-world scenarios. This feedback is invaluable and helps you to:
-    - Identify what works and what doesn't
-    
-    - Understand user behavior and preferences
-    
-    - Make data-driven decisions for future iterations
+
+  - Identify what works and what doesn't
+  - Understand user behavior and preferences
+  - Make data-driven decisions for future iterations
 
 - **Course Correction:** If the product isn't meeting expectations, you can pivot or adjust your strategy before investing too much time and resources into a flawed approach.
 
