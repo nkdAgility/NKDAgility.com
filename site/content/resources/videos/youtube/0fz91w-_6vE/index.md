@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Value in DevOps: My Role as a Consultant in Driving Change and Overcoming Bottlenecks'
-description: 'Discover the core of DevOps consulting: identifying bottlenecks, optimising workflows, and fostering a culture of continuous improvement. Join the conversation!'
+description: Explains how a DevOps consultant identifies and resolves technical and process bottlenecks, driving continuous improvement and value delivery within organisations.
 date: 2023-05-02T07:00:00Z
 weight: 330
 ResourceId: 0fz91w-_6vE
@@ -39,6 +39,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
+Watermarks:
+  description: 2025-05-07T13:12:49Z
 
 ---
 In my journey as a [DevOps]({{< ref "/categories/devops" >}}) consultant, I often find myself reflecting on the core of my role. The question, "What is my primary role in a DevOps consulting gig?" is not as straightforward as it may seem. The answer is deeply intertwined with the context of each unique engagement. It hinges on where the customer currently stands, what they aim to achieve, and the specific challenges they face.

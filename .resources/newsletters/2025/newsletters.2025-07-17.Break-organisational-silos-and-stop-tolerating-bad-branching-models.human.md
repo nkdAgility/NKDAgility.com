@@ -1,6 +1,6 @@
 ---
 title: Break organisational silos and stop tolerating bad branching models
-description: Explains how technical leaders can break down organisational silos and enforce better branching, team structures, and architecture for faster, safer software delivery.
+description: Explains how technical leaders can break down organisational silos and enforce better branching, team structures, and architecture to improve software delivery flow.
 ResourceId: AORP41zLNTi
 ResourceImport: false
 date: 2025-07-17
@@ -25,6 +25,8 @@ tags:
 - Product Delivery
 - Software Development
 - Value Delivery
+Watermarks:
+  description: 2025-05-07T12:48:55Z
 
 ---
 Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.

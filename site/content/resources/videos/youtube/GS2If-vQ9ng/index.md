@@ -1,6 +1,6 @@
 ---
 title: Agile Training versus Agile Consulting
-description: "Discover the key differences between agile training and coaching with Martin Hinshelwood. Elevate your team's performance with Naked Agility! #Agile #Scrum #Shorts"
+description: Compares Agile training, which builds broad organisational knowledge, with Agile consulting, which delivers targeted solutions to specific business challenges.
 date: 2023-09-07T07:00:08Z
 weight: 1000
 ResourceId: GS2If-vQ9ng
@@ -31,6 +31,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:09:37Z
 
 ---
 ## Why Both Are Hard-Hitting but in Different Ways

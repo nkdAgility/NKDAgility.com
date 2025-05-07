@@ -37,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:02:12Z
 
 ---
 When I find myself in discussions about Caman versus [Scrum]({{< ref "/categories/scrum" >}}), I often notice a common thread: a misunderstanding of what Caman truly represents. It’s crucial to clarify that Caman is not merely another framework to pit against Scrum; rather, it’s a versatile strategy that can be applied across various systems and processes. 

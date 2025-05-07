@@ -1,6 +1,6 @@
 ---
 title: 2024 Learning journeys and extending the learning process
-description: Join our acclaimed immersive learning classes! Enjoy a 20% discount on all courses until April 2024. Elevate your skills with hands-on training!
+description: Discover immersive, outcome-focused Scrum and Agile training with flexible learning journeys, real-world assignments, and reflective sessions for continuous improvement.
 ResourceId: -wdSJlbQQbK
 ResourceImport: true
 ResourceType: newsletters
@@ -23,6 +23,8 @@ categories:
 tags:
 - Continuous Learning
 - Pragmatic Thinking
+Watermarks:
+  description: 2025-05-07T13:07:17Z
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) gaining high acclaim not only from the students but also from their managers and leaders:

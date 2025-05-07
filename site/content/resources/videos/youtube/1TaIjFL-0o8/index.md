@@ -1,6 +1,6 @@
 ---
 title: "Unlocking the Scrum Master's Potential: Embracing Broader Responsibilities for Agile Success"
-description: Unlock the true potential of your Scrum Master role! Discover how to broaden your impact and foster agility within your organisation.
+description: Explores how Scrum Masters can expand their impact by embracing wider organisational responsibilities, challenging outdated practices, and fostering agile team growth.
 date: 2023-04-27T07:00:00Z
 weight: 640
 ResourceId: 1TaIjFL-0o8
@@ -42,6 +42,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:12:59Z
 
 ---
 In my experience teaching the Professional [Scrum]({{< ref "/categories/scrum" >}}) Master II (PSM2) course, I've encountered a recurring theme that resonates deeply with participants: the epiphanies that emerge during our discussions. While there are several insights that attendees gain, the most common epiphany often revolves around the role of the [Scrum Master]({{< ref "/tags/scrum-master" >}}) and the broader implications of their responsibilities.

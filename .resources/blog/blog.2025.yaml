@@ -1,6 +1,6 @@
 - FrontMatter:
     title: The Definition of Done is a Commitment to Quality
-    description: Explains why a clear, shared Definition of Done is essential in Scrum for ensuring quality, transparency, and releasable increments, with practical steps for implementation.
+    description: Defines the Definition of Done in Scrum as a clear, shared standard for quality, ensuring increments are releasable, transparent, and continuously improved by the team.
     ResourceId: TwYNSm1pZOS
     ResourceImport: false
     ResourceType: blog
@@ -30,6 +30,8 @@
     - Increment
     - Empirical Process Control
     - Organisational Agility
+    Watermarks:
+      description: 2025-05-07T12:48:53Z
   BodyContent: |
     Every Scrum Team must explicitly define what “Done” means. Without it, you are not doing Scrum. Let’s be clear: if your product increment cannot be shipped, tested, and validated at least every 30 days, you’re missing the point. Scrum is a social technology for adaptive solutions, and the Definition of Done (DoD) is the core commitment to quality that enables reliable, transparent, and releasable increments.
 
@@ -146,6 +148,8 @@
     - Product Delivery
     - Systems Thinking
     - Team Performance
+    Watermarks:
+      description: 2025-05-07T12:48:54Z
   BodyContent: |
     Capacity planning is not about filling calendars or counting resource hours. It is about flow, system constraints, and predictability. And importantly, what we are talking about here applies even within environments of strict budgets, immovable deadlines, and rigorous accountabilities. Lean approaches do not discard discipline; they reframe how we achieve predictability, accountability, and sustainable delivery by focusing on the system, not just the parts. These ideas align directly with the Scrum ethos of empirical process control and the Kanban strategy of observing and managing work-in-progress limits to enhance value delivery.
 
@@ -319,6 +323,8 @@
     - GitHub
     - Market Adaptability
     - Technical Excellence
+    Watermarks:
+      description: 2025-05-07T12:48:56Z
   BodyContent: |
     In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.
 
@@ -391,7 +397,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-14-why-topic-branches-drive-high-quality-delivery
 - FrontMatter:
     title: Stop Building Silos. Start Building Systems
-    description: Highlights the risks of fragmented automation and tool silos, advocating for unified engineering systems and platform engineering to enable secure, scalable, and efficient delivery.
+    description: Explains how fragmented automation and tool silos harm software delivery, and advocates for unified engineering systems and platform engineering to enable reliable, scalable DevOps.
     ResourceId: zLhc3UKUWOj
     ResourceImport: false
     ResourceType: blog
@@ -426,6 +432,8 @@
     - Value Delivery
     - Azure Pipelines
     - Azure DevOps
+    Watermarks:
+      description: 2025-05-07T12:48:58Z
   BodyContent: |
     You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system—you have a liability.
 
@@ -509,7 +517,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-07-07-stop-building-silos-start-building-systems
 - FrontMatter:
     title: 'Human and AI Agency in Adaptive Systems: Strategy Before Optimisation'
-    description: Explores the distinct roles of human and AI agency in adaptive systems, emphasising human-led strategy and adaptation, with AI focused on tactical optimisation within set boundaries.
+    description: Explores the distinct roles of human and AI agency in adaptive systems, emphasising human-led strategy and accountability versus AI-driven tactical optimisation.
     ResourceId: ffJaR9AaTl7
     ResourceImport: false
     ResourceType: blog
@@ -534,6 +542,8 @@
     - Organisational Physics
     - Decision Making
     - Sociotechnical Systems
+    Watermarks:
+      description: 2025-05-07T12:48:59Z
   BodyContent: |
     Human agency is not optional in adaptive systems. It is not something to "blend" with AI or to automate away. It is the only thing that defines strategy, sets purpose, and drives meaningful adaptation. AI has a role, but that role is tactical optimisation within boundaries defined by humans.
 
@@ -613,7 +623,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-30-human-and-ai-agency-in-adaptive-systems
 - FrontMatter:
     title: Stop Writing Business Logic in Stored Procedures
-    description: Explains why business logic should not be written in SQL stored procedures, detailing maintainability, testing, and scalability issues, and advocates gradual refactoring.
+    description: Explains why business logic should not be written in stored procedures, highlighting testability, maintainability, scalability, and strategies for gradual code refactoring.
     ResourceId: utAzlIGxj7O
     ResourceImport: false
     ResourceType: blog
@@ -636,6 +646,8 @@
     - Pragmatic Thinking
     - Technical Debt
     - Continuous Improvement
+    Watermarks:
+      description: 2025-05-07T12:49:00Z
   BodyContent: |
     Over the years, I've encountered many companies that have maintained their business logic in stored procedures, but the practice of doing so has died out, for good reasons ill hilight below. However, many codebases have been around for 10+ years, and may still have large amounts of business logic in them.
 
@@ -705,7 +717,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-23-stop-writing-business-logic-in-stored-procedures
 - FrontMatter:
     title: How Lack of Agency is Killing Your DevOps Initiatives
-    description: DevOps fails without developer operational agency. True DevOps requires developers to control deployments, telemetry, and production feedback for real agility and learning.
+    description: Explores how lacking developer control over production, telemetry, and deployments undermines DevOps, leading to fragile automation and failed continuous delivery.
     ResourceId: AgIU1SK-3pE
     ResourceImport: false
     ResourceType: blog
@@ -727,6 +739,8 @@
     - Operational Practices
     - Value Delivery
     - Self Organisation
+    Watermarks:
+      description: 2025-05-07T12:49:01Z
   BodyContent: |
     [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  
     **DevOps is agency.** It is the union of people, process, and products to enable continuous delivery of value to our end users.
@@ -788,7 +802,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-16-how-lack-of-agency-is-killing-your-devops-initatives
 - FrontMatter:
     title: Resilience is Part of the Product, Not an Afterthought
-    description: Resilience must be designed into products from the start, not added later. Build for failure, measure, and improve to ensure reliability, rapid recovery, and business continuity.
+    description: Resilience must be designed into products from the start, not added later. Build systems to detect, contain, and recover from failures, making resilience a core feature.
     ResourceId: EtzHUfsWjsD
     ResourceImport: false
     ResourceType: blog
@@ -812,6 +826,8 @@
     - Operational Practices
     - Software Development
     - Site Reliability Engineering
+    Watermarks:
+      description: 2025-05-07T12:49:03Z
   BodyContent: |
     Resilience is not a nice-to-have. It is not a department. It is not something you bolt on later if you get around to it. Resilience is part of the product. If you are serious about delivering value, you design resilience deliberately from day one. Any other approach is just gambling with your business, and is adding to your [technical debt]({{< ref "/tags/technical-debt" >}}).
 
@@ -869,7 +885,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-09-resilience-is-part-of-the-product-not-an-afterthought
 - FrontMatter:
     title: The Missing Lever in Agile Transformations
-    description: Explores why agile transformations fail without fostering human and system agency, highlighting Agentic Agility and evidence-based management as keys to lasting change.
+    description: Most agile transformations fail by neglecting agency—empowering people and systems to adapt—making true agility possible through autonomy, evidence, and continuous learning.
     ResourceId: RevK05qtZD7
     ResourceImport: false
     ResourceType: blog
@@ -900,6 +916,8 @@
     - Self Organisation
     - Market Adaptability
     - Social Technologies
+    Watermarks:
+      description: 2025-05-07T12:49:04Z
   BodyContent: |
     Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.
 
@@ -959,7 +977,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-06-02-the-missing-lever-in-agile-transformations
 - FrontMatter:
     title: How to Build for Business Resilience and Continuity
-    description: Learn practical steps to design resilient business systems, including observability, decoupling, routine deployments, team empowerment, and rapid recovery from failure.
+    description: Learn key strategies for building business resilience and continuity, including observability, system decoupling, routine deployments, team empowerment, and rapid recovery.
     ResourceId: VThLnxVapgJ
     ResourceImport: false
     ResourceType: blog
@@ -982,6 +1000,8 @@
     - Technical Excellence
     - Software Development
     - Technical Mastery
+    Watermarks:
+      description: 2025-05-07T12:49:05Z
   BodyContent: |
     Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it—**upfront, consistently, and aggressively**.
 
@@ -1066,7 +1086,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-26-how-to-build-for-business-resilience-and-continuity
 - FrontMatter:
     title: Robots and AI Are Not Taking Our Jobs They Are Giving Us Our Dignity Back
-    description: Explores how robots and AI automate repetitive work, challenging outdated job structures and enabling humans to focus on creativity, problem-solving, and dignity.
+    description: Explores how robots and AI automate repetitive work, challenging outdated job structures and enabling humans to focus on creativity, problem-solving, and meaningful tasks.
     ResourceId: F0yVBj8Tx8H
     ResourceImport: false
     ResourceType: blog
@@ -1081,6 +1101,8 @@
     categories:
     - Uncategorized
     tags: []
+    Watermarks:
+      description: 2025-05-07T12:49:06Z
   BodyContent: |
     The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.
 
@@ -1144,7 +1166,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-19-robots-and-ai-are-not-taking-our-jobs
 - FrontMatter:
     title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
-    description: Explores how poor engineering, product decisions, and leadership create fragile systems, stressing that true resilience requires rigorous, real-world testing and discipline.
+    description: Explores how poor engineering, shallow product thinking, and organisational denial lead to fragile systems, stressing that true resilience requires rigorous, real-world testing.
     ResourceId: LGGuvRq4g7p
     ResourceImport: false
     ResourceType: blog
@@ -1163,6 +1185,8 @@
     - Technical Mastery
     - Pragmatic Thinking
     - Site Reliability Engineering
+    Watermarks:
+      description: 2025-05-07T12:49:09Z
   BodyContent: |
     Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.
 
@@ -1241,7 +1265,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-05-12-fragile-by-design-the-cost-of-pretending-to-be-resilient
 - FrontMatter:
     title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie'
-    description: Explains why true Scrum requires real team agency, not just self-management in name, and how lacking decision-making power undermines accountability and Agile outcomes.
+    description: Explains why true Scrum requires real team agency, not just self-management in name, and how lacking agency leads to ineffective, ritualistic Agile practices.
     ResourceId: uwJYNXG7yIu
     ResourceImport: false
     date: 2025-05-01T09:00:00Z
@@ -1274,6 +1298,8 @@
     - Software Development
     - Pragmatic Thinking
     - Agile Values and Principles
+    Watermarks:
+      description: 2025-05-07T12:49:11Z
   BodyContent: |
     [Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.
 
@@ -1412,6 +1438,8 @@
     - Operational Practices
     - Product Delivery
     - Agile Strategy
+    Watermarks:
+      description: 2025-05-07T12:49:17Z
   BodyContent: |
     The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that [Scrum]({{< ref "/categories/scrum" >}}) Teams build on a solid foundation, aligning technical execution with [strategic goals]({{< ref "/tags/strategic-goals" >}}).
 
@@ -1505,7 +1533,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-17-your-evolving-definition-of-done
 - FrontMatter:
     title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
-    description: Effective Scrum Masters combine technical, business, and organisational expertise to coach teams, support Product Owners, and drive lasting Agile change within organisations.
+    description: Scrum Masters are most effective when they combine leadership skills with technical, business, and organisational mastery to support teams, Product Owners, and change.
     ResourceId: dQjKsWR5qfn
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1547,6 +1575,8 @@
     - Value Delivery
     - Agile Product Management
     - Working Software
+    Watermarks:
+      description: 2025-05-07T12:49:18Z
   BodyContent: |
     [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The [Scrum]({{< ref "/categories/scrum" >}}) Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
 
@@ -1693,6 +1723,8 @@
     - Pragmatic Thinking
     - Team Performance
     - Agile Transformation
+    Watermarks:
+      description: 2025-05-07T12:49:19Z
   BodyContent: |
     [Scrum]({{< ref "/categories/scrum" >}}) is built on self-management, yet accountability cannot exist without authority. If Scrum Masters and Product Owners are held responsible for outcomes, how much control should they have? Too much, and teams lose autonomy. Too little, and they become ineffective. This article explores the nuanced balance of [leadership]({{< ref "/categories/leadership" >}}), authority, and control in Scrum—how influence must be complemented by decisive action to enable true agility.
 
@@ -1746,7 +1778,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-12-balance-of-leadership-and-control-in-scrum
 - FrontMatter:
     title: Why Measuring Individual Cycle Time is Killing Your Flow (And What to Do Instead)
-    description: Measuring individual cycle time in Kanban misleads improvement efforts. Focus on system-wide flow, bottlenecks, and process efficiency to boost delivery and teamwork.
+    description: Measuring individual cycle time in Kanban misleads teams, hides real bottlenecks, and harms flow. Focus on system-wide metrics like PCE, WIP, and throughput instead.
     ResourceId: KHEPBWiFDKJ
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1790,6 +1822,8 @@
     - Agile Frameworks
     - Throughput
     - Continuous Improvement
+    Watermarks:
+      description: 2025-05-07T12:49:20Z
   BodyContent: |
     Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
 
@@ -1860,7 +1894,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-03-03-measuring-individual-cycle-time-is-killing-your-flow
 - FrontMatter:
     title: Stop Hiding Behind Complexity and Start Delivering Continuously
-    description: Continuous delivery is achievable for any software system, regardless of complexity, by investing in automation, code quality, and process improvement to enable rapid, reliable releases.
+    description: Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement—not technical barriers.
     ResourceId: 7hEAycZIn8w
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1905,6 +1939,8 @@
     - Engineering Excellence
     - Product Development
     preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
+    Watermarks:
+      description: 2025-05-07T12:49:30Z
   BodyContent: |
     Every organisation says their software is 'too complex' for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref "/tags/azure-devops" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.
 
@@ -2048,6 +2084,8 @@
     - Leadership
     preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
     marketing: []
+    Watermarks:
+      description: 2025-05-07T12:49:37Z
   BodyContent: |
     Would you ever hire a **Junior CISO** or a **Junior Financial Director**? Of course not. These positions, by definition, require demonstrated mastery of their respective domains, alongside the authority and responsibility to enact meaningful change. The same should be true of a [Scrum]({{< ref "/categories/scrum" >}}) Master. The idea of a “junior” [Scrum Master]({{< ref "/tags/scrum-master" >}}) is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the [Scrum Team]({{< ref "/tags/scrum-team" >}}) as a practitioner who has already demonstrated [technical mastery]({{< ref "/tags/technical-mastery" >}}), business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**
 
@@ -2160,6 +2198,8 @@
     - DevOps
     preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
     marketing: []
+    Watermarks:
+      description: 2025-05-07T12:49:38Z
   BodyContent: |
     Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.
 
@@ -2287,7 +2327,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-06-testing-in-production-maximises-quality-and-value
 - FrontMatter:
     title: Without Delivery, There Is No Value
-    description: Value in software is only realised through delivery. Frequent releases validate assumptions, reduce risk, and enable rapid feedback, while delays increase costs and missed opportunities.
+    description: Value in software is only realised through delivery. Frequent releases validate assumptions, reduce risk, and enable rapid feedback, adaptation, and continuous improvement.
     ResourceId: UfdnQrxv5iF
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2328,6 +2368,8 @@
     - Scrum
     preview: 2025-02-10-without-delivery-no-value.jpg
     marketing: []
+    Watermarks:
+      description: 2025-05-07T12:49:40Z
   BodyContent: |
     Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.
 
@@ -2428,6 +2470,8 @@
     - Product Development
     preview: 2025-02-06-stop-promoting-branches.jpg
     marketing: []
+    Watermarks:
+      description: 2025-05-07T12:49:50Z
   BodyContent: |
     The traditional Dev → Test → Staging → Production model is flawed, leading to unnecessary complexity and reinforcing outdated software delivery patterns. This breakdown explains why branch promotion is a failure mode, why [GitHub]({{< ref "/tags/github" >}}) Flow and Release Flow are reasonable alternatives, and why Git Flow belongs in the bin.
 
@@ -2584,6 +2628,8 @@
     - Scrum
     - Engineering Excellence
     preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
+    Watermarks:
+      description: 2025-05-07T12:49:51Z
   BodyContent: |
     As a social technology, [Scrum]({{< ref "/categories/scrum" >}}) has remained steadfast in its ethos for over 32 years, enabling teams to generate value through adaptive solutions to complex problems. Yet, a subtle distinction in its guidance often trips up practitioners - Scrum **explicitly** mandates a **Done [Increment]({{< ref "/tags/increment" >}})** but **implicitly** mandates **Delivery**. This distinction, though subtle, holds profound implications in a modern context where [DevOps]({{< ref "/categories/devops" >}}) has reshaped the landscape of software delivery.
 
@@ -2661,7 +2707,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-02-03-delivery-as-the-ultimate-measure-of-progress
 - FrontMatter:
     title: The Scrum Master is accountable for Delivery
-    description: Explains how the Scrum Master is accountable for enabling effective product delivery, fostering team effectiveness, and ensuring each sprint produces a usable increment.
+    description: Explains how the Scrum Master is accountable for enabling effective product delivery, fostering team success, and ensuring each sprint produces a usable, valuable increment.
     ResourceId: yMnia2DLI6q
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2710,6 +2756,8 @@
     - Product Development
     - Technical Leadership
     preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
+    Watermarks:
+      description: 2025-05-07T12:49:52Z
   BodyContent: |
     Ultimately, the [Scrum]({{< ref "/categories/scrum" >}}) Master is accountable for the [Scrum Team]({{< ref "/tags/scrum-team" >}})'s success. This includes [product delivery]({{< ref "/tags/product-delivery" >}}), product success, Sprint outcomes, the team's ability, and ensuring the team has the resources, skills, and ethos needed to succeed. While the entire Scrum Team shares accountability for delivery, the [Scrum Master]({{< ref "/tags/scrum-master" >}})’s role is to create the conditions for effective delivery and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). Delivery is the minimum bar for effectiveness—without it, the team cannot measure or realise value. Without delivery, there is no [increment]({{< ref "/tags/increment" >}}), no feedback, and no way to empirically assess value. A Scrum Team that delivers without value is ineffective but still functional. A Scrum Team that fails to deliver anything cannot be considered effective under any measure.
 
@@ -2785,7 +2833,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2025\2025-01-30-the-scrum-master-is-accountable-for-delivery
 - FrontMatter:
     title: Why Handoffs Are Killing Your Agility
-    description: Excessive handoffs in software development create delays, reduce quality, and harm team morale. Learn how eliminating handoffs boosts agility and value delivery.
+    description: Excessive handoffs in software development create delays, reduce quality, and harm team morale. Learn how eliminating handoffs boosts agility, flow, and value delivery.
     ResourceId: pDvDdIEi9sj
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2825,6 +2873,8 @@
     - Lean
     - Engineering Excellence
     preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
+    Watermarks:
+      description: 2025-05-07T12:50:01Z
   BodyContent: |
     Many organisations attempt to adopt [Lean]({{< ref "/categories/lean" >}}) practices without fully understanding their implications in [software development]({{< ref "/tags/software-development" >}}). This often leads to excessive handoffs, which fragment communication and reduce agility.
 
@@ -2948,6 +2998,8 @@
     - Product Management
     - Engineering Excellence
     preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
+    Watermarks:
+      description: 2025-05-07T12:50:03Z
   BodyContent: |
     In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in [Scrum]({{< ref "/categories/scrum" >}}), the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective—a north star guiding your path, not a litmus test of quality.
 

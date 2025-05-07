@@ -1,6 +1,6 @@
 ---
 title: 'Part 2: Common Mistakes that Scrum Masters Make'
-description: "Discover common pitfalls for newbie Scrum Masters in part 2 of Martin Hinshelwood's 60-second insights. Elevate your agile journey with Naked Agility! #scrum #agile"
+description: Explains why Scrum Masters should avoid taking on administrative tasks, highlighting the importance of focusing on team effectiveness rather than acting as a team secretary.
 date: 2023-07-07T14:00:33Z
 weight: 790
 ResourceId: WTd-8mOlFfQ
@@ -40,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:10:57Z
 
 ---
 ## Escaping the Administrative Vortex: Insights for [Scrum]({{< ref "/categories/scrum" >}}) Masters - Part 2

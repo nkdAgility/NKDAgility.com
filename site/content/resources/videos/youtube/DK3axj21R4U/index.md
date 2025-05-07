@@ -1,6 +1,6 @@
 ---
 title: fortnite
-description: Join the battle in Fortnite! Discover epic gameplay, strategies, and thrilling moments as players compete to be the last one standing.
+description: Watch Fortnite gameplay on YouTube, featuring in-game action, strategies, and highlights from the popular online battle royale video game.
 date: 2020-10-23T21:26:57Z
 weight: 1000
 ResourceId: DK3axj21R4U
@@ -33,6 +33,8 @@ resourceTypes:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:15:25Z
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=DK3axj21R4U)

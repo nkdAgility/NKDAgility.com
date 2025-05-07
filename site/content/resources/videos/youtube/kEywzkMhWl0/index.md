@@ -1,6 +1,6 @@
 ---
 title: One critical skill for a Scrum Master and why?
-description: 'Discover the one essential skill every Scrum Master must master for success in Agile! Join Martin Hinshelwood in this quick, insightful #shorts video.'
+description: Teaching is the key skill for Scrum Masters, enabling teams to understand Agile principles, embrace change, and achieve deeper engagement and lasting transformation.
 date: 2023-04-25T07:00:15Z
 weight: 665
 ResourceId: kEywzkMhWl0
@@ -40,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:13:02Z
 
 ---
 **1 critical skill for a [Scrum]({{< ref "/categories/scrum" >}}) Master and why?**

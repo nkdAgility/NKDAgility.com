@@ -1,6 +1,6 @@
 ---
 title: 'The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility'
-description: Discover how to enhance your organization's agility and market responsiveness. Learn to pivot swiftly and seize opportunities faster than competitors.
+description: Explores why true organisational agility means building custom processes to respond quickly to market changes, not just adopting popular frameworks or hybrid models.
 ResourceId: Jz5uZMzPiRx
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -38,6 +38,8 @@ tags:
 categories:
 - Uncategorized
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:09:38Z
 
 ---
 As I sit here, sipping my morning cup of tea, I ponder the current state of [organisational agility]({{< ref "/tags/organisational-agility" >}}). I've been in this game long enough to have seen the rise and fall of various methodologies, each promising to be the silver bullet that will solve all of an organisation's woes. I was initially an ALM consultant, then [DevOps]({{< ref "/categories/devops" >}}). But, as I've often found, the reality is far from the promise.

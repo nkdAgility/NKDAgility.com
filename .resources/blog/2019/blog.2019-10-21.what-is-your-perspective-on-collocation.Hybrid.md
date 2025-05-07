@@ -1,6 +1,6 @@
 ---
 title: What is your perspective on collocation?
-description: Explore the debate on collocation in Scrum teams. Discover insights from Martin Hinshelwood on optimizing team communication and performance.
+description: Explores the benefits and challenges of collocation in Scrum teams, comparing face-to-face collaboration with remote work, and offering practical advice for team setup.
 ResourceId: AcwMGmMo7iU
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -34,6 +34,8 @@ categories:
 - Scrum
 - Product Development
 preview: 1026661500-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:16:03Z
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

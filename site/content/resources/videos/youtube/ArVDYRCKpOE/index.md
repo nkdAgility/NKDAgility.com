@@ -1,6 +1,6 @@
 ---
 title: 'Quotes: Fake it until you make it'
-description: 'Explore the pros and cons of "fake it until you make it" in Agile with Martin Hinshelwood. Discover insights for inspired, high-performing teams! #agile #scrum'
+description: Explores when "fake it till you make it" works or fails in Agile teams, stressing the need for real expertise, coaching, and continuous learning over mere pretence.
 date: 2023-10-11T15:00:13Z
 weight: 1000
 ResourceId: ArVDYRCKpOE
@@ -33,6 +33,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:08:52Z
 
 ---
 ## Navigating its Limits in Agile Work Environments 

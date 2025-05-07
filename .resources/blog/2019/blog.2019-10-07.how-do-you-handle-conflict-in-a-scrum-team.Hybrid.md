@@ -1,6 +1,6 @@
 ---
 title: How do you handle conflict in a Scrum Team?
-description: Discover effective strategies for resolving conflicts in Scrum teams. Learn from expert Martin Hinshelwood on fostering collaboration and team harmony.
+description: Guidance on resolving conflict in Scrum Teams, including facilitation techniques, escalation steps, and the Scrum Master's role in fostering healthy team dynamics.
 ResourceId: xIWBb8Cy_Rv
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -40,6 +40,8 @@ categories:
 - Scrum
 - Technical Leadership
 preview: 1061204442-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:16:07Z
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

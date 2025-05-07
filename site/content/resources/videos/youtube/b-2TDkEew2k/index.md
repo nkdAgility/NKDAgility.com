@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Agile: The Power of "Just Enough and No More" for Optimal Efficiency'
-description: Discover how the mantra "just enough and no more" can transform your agile practices. Learn to optimise processes, enhance productivity, and deliver value effectively.
+description: Explores how applying the "just enough and no more" principle in agile practices boosts efficiency, reduces waste, and helps teams focus on delivering real value.
 date: 2023-12-05T11:00:27Z
 weight: 690
 ResourceId: b-2TDkEew2k
@@ -41,6 +41,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:07:15Z
 
 ---
 I often find myself reflecting on a conversation I had with Ken Schwaber many years ago. He shared a simple yet profound mantra that has stuck with me ever since: "Just enough and no more." This phrase resonates deeply within the agile community, and I believe it holds the key to understanding how we can optimise our processes and deliver value effectively.

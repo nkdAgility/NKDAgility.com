@@ -1,6 +1,6 @@
 ---
 title: Kalabule or a Professional at Agile in Africa
-description: Explore the call for professionalism in Africa's software industry. Join Martin Hinshelwood as he challenges the 'kalabule' mindset and promotes agile values.
+description: Explores the contrast between unprofessional "kalabule" practices and true professionalism in Agile software development, emphasising core values and industry standards.
 ResourceId: yUp0v2lyPX6
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,8 @@ tags:
 categories:
 - Uncategorized
 preview: clip_image001-2-2.png
+Watermarks:
+  description: 2025-05-07T13:16:40Z
 
 ---
 I have been honoured by being asked to speak at [Agile in Africa](http://agileinafrica.com/) today on the topic of [Kalabule or a Professional at Agile in Africa](http://agileinafrica.com/speaker/martin-hinshelwood/). I was a little disappointed when Nana asked me, as I had already booked a customer on those dates in Houston, Texas. Nana asked if I could do remote, so I could attend anyway :). This is my second presentation at Agile In Africa, and it sounds like this years event is just as awesome as the last.

@@ -27,6 +27,8 @@ categories:
 - Scrum
 tags:
 - Value Delivery
+Watermarks:
+  description: 2025-05-07T12:57:53Z
 
 ---
 Value-based Prioritization: Focus on delivering value to the stakeholders. The [product backlog]({{< ref "/tags/product-backlog" >}}) is prioritized based on the value it delivers, and the [Scrum]({{< ref "/categories/scrum" >}}) team works on the highest-priority items first.

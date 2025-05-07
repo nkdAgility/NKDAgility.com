@@ -1,6 +1,6 @@
 ---
 title: Sprint Planning Event
-description: Explains how effective Sprint Planning sets clear goals, creates a Sprint Backlog, and helps Scrum Teams communicate plans to engage and gain support from stakeholders.
+description: Explains how Sprint Planning defines goals, plans work, and improves team-stakeholder communication to ensure clarity, transparency, and effective support in Scrum.
 ResourceId: v_AGzuOgZ0g
 ResourceImport: false
 ResourceType: practices
@@ -48,6 +48,8 @@ tags:
 - Software Development
 - Agile Product Management
 - Product Delivery
+Watermarks:
+  description: 2025-05-07T12:58:20Z
 
 ---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.

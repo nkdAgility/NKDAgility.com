@@ -1,6 +1,6 @@
 ---
 title: 'Change is easier with a friend: Buy 1, Get 1 FREE!'
-description: Kickstart 2024 with our Scrum training! Enrol in January and get a friend FREE. Elevate your Agile skills and boost team performance today!
+description: Buy one Scrum training course and get a second free for a friend or colleague. Offer includes Agile, Scrum Master, and Product Owner classes. Limited time only.
 ResourceId: ZHJtz2t0uTU
 ResourceImport: true
 ResourceType: newsletters
@@ -22,6 +22,8 @@ aliasesArchive:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:06:28Z
 
 ---
 **Kickstart 2024 with Our Unmissable [Scrum]({{< ref "/categories/scrum" >}}) Training Offer: Buy 1, Get 1 FREE!**

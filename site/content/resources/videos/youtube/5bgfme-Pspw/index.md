@@ -1,6 +1,6 @@
 ---
 title: Momentum
-description: "Discover the power of momentum in product development and organisational culture with Martin Hinshelwood. Boost your agile team's performance today! #agile #scrum"
+description: Explains how momentum—team movement with clear direction—drives success in Agile product delivery, fostering collaboration, progress, and high performance.
 date: 2023-05-16T07:00:02Z
 weight: 1000
 ResourceId: 5bgfme-Pspw
@@ -32,6 +32,8 @@ resourceTypes:
 layout: video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:12:27Z
 
 ---
 **Momentum**

@@ -1,6 +1,6 @@
 ---
 title: In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?
-description: Discover how a Product Owner can effectively manage Sprint Planning across multiple Scrum teams in a Nexus. Enhance your Agile practices today!
+description: Explains how a Product Owner can manage Sprint Planning across multiple Scrum teams in Nexus by delegating, using area or team owners, and maintaining clear communication.
 ResourceId: As4R5dKsJtU
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -42,6 +42,8 @@ categories:
 - Scrum
 - Product Development
 preview: 146713119-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:16:08Z
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

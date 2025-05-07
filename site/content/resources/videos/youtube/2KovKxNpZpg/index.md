@@ -1,6 +1,6 @@
 ---
 title: 'Beyond the Rituals: Embracing the Core Principles of Scrum for True Agile Success'
-description: Discover the true essence of Scrum by focusing on its core principles—empiricism, transparency, and value delivery. Transform your agile practices today!
+description: Explores how focusing on Scrum’s core principles—empiricism, transparency, and value delivery—leads to true agile success, beyond just following rituals or practices.
 date: 2023-04-28T09:30:00Z
 weight: 640
 ResourceId: 2KovKxNpZpg
@@ -44,6 +44,8 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:12:52Z
 
 ---
 In my journey through the world of [Scrum]({{< ref "/categories/scrum" >}}), I've often found myself frustrated by a recurring theme: the overwhelming focus on the mechanics of Scrum rather than its underlying principles. It seems that many people and organisations are quick to declare, “You’re not doing Scrum if you’re not standing up!” This fixation on rituals and practices is not only misguided but also distracts us from what truly matters in agile methodologies.

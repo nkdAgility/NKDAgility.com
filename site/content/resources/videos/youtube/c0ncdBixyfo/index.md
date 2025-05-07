@@ -1,6 +1,6 @@
 ---
 title: What is the one thing that no Agile team can survive?
-description: Discover how contempt for leadership can cripple agile teams. Learn to foster a positive culture and boost productivity in this insightful video!
+description: Explores how a culture of contempt undermines Agile teams, its causes, impact on morale and productivity, and practical steps leaders can take to build a positive, inclusive culture.
 date: 2023-10-17T11:00:23Z
 weight: 665
 ResourceId: c0ncdBixyfo
@@ -39,6 +39,8 @@ resourceTypes:
 categories:
 - Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:41Z
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

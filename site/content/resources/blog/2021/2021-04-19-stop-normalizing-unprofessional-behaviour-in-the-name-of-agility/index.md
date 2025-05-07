@@ -1,6 +1,6 @@
 ---
 title: Stop normalizing unprofessional behaviour in the name of agility
-description: Discover why unprofessional behavior undermines agility in Scrum. Learn to uphold professionalism for true agile success and better team dynamics.
+description: Highlights the importance of professionalism in agile teams, warning against excusing unprofessional behaviour as agility and stressing ethical, competent practices for true agility.
 ResourceId: mqbD3iIhRg4
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -29,6 +29,8 @@ tags:
 categories:
 - Scrum
 preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:14:57Z
 
 ---
 In [Scrum]({{< ref "/categories/scrum" >}}) Events across the world, I hear repeated the phrase "that's how agile works" when describing behaviours that are both unprofessional and the very opposite of an agile mindset. These behaviours will inhibit agility and are a result of a lack of understanding of the underlying principles.

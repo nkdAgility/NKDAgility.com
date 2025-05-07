@@ -1,6 +1,6 @@
 ---
 title: 'Unpacking the Scrum Master Myth: Why Servant Leadership is Key to Team Success'
-description: Discover the true essence of a Scrum Master as a servant leader. Uncover common misconceptions and learn how to empower your team for success!
+description: Explains why the Scrum Master is a servant leader, not an authority figure, and how this approach empowers teams, encourages autonomy, and dispels common misconceptions.
 date: 2023-06-21T11:00:52Z
 weight: 640
 ResourceId: zs0q_zz8-JY
@@ -43,6 +43,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:11:23Z
 
 ---
 When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one of the most persistent misconceptions I encounter is the belief that a [Scrum Master]({{< ref "/tags/scrum-master" >}}) is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 

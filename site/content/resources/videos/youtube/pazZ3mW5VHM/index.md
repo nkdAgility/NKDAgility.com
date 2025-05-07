@@ -1,6 +1,6 @@
 ---
 title: Most Common Thing You Hear in a PSPO Course?
-description: "Discover Simon Reindl's impact on Agile in this insightful short! Join Martin Hinshelwood as he highlights key figures in Scrum and Agile. #Agile #Scrum"
+description: Many Product Owners in PSPO courses feel a lack of control or influence. This highlights the need for greater empowerment, accountability, and active engagement in their role.
 date: 2023-07-06T14:33:51Z
 weight: 1000
 ResourceId: pazZ3mW5VHM
@@ -37,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:10:59Z
 
 ---
 ## Common Comments from the PSPO Course

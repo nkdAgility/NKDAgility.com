@@ -1,6 +1,6 @@
 ---
 title: 'The Fallacy of Equating Agility with Speed: What Agile Really Means'
-description: Explains why Agile is about prioritising valuable work and adapting to change, not just working faster, and how true agility helps avoid building the wrong product.
+description: Explains why Agile is not about speed but about prioritising valuable work, adapting to feedback, and avoiding wasted effort to deliver products that truly meet user needs.
 date: 2024-07-11T06:45:01Z
 weight: 840
 ResourceId: b3HFBlCcomk
@@ -41,6 +41,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:02:38Z
 
 ---
 In the world of Agile, there’s a common misconception that agility equals speed. However, this idea is as much of an oxymoron as the concept of an "agile project manager." The truth is, Agile isn’t about rushing through tasks or speeding up processes; it's about spending your time wisely on valuable endeavors. Let’s dive deeper into what agility truly means and why it’s not about doing things faster, but doing the right things.

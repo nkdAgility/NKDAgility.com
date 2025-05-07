@@ -1,6 +1,6 @@
 ---
 title: 'Quotes: In the past the man has been first; in the future the system must be first. Frederick Winslow Taylor'
-description: "Explore Frederick Taylor's insight on prioritising systems over individuals in management. Join Martin Hinshelwood as he unpacks this shift in thinking. #shorts"
+description: Explores the shift from people to systems in work, the impact on Agile practices, and the importance of balancing efficient systems with human collaboration.
 date: 2023-10-12T11:00:15Z
 weight: 1000
 ResourceId: KX1xViey_BA
@@ -38,6 +38,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:08:49Z
 
 ---
 ## People, Systems, and Finding the Balance 

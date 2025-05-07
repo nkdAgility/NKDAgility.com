@@ -1,6 +1,6 @@
 ---
 title: Access denied for orchestration plan on Build
-description: Troubleshoot TFS build errors with expert tips on resolving access denied issues for orchestration plans. Enhance your build system's performance today!
+description: Explains how to resolve TFS build errors caused by missing write permissions for the Project Collection Build Service on orchestration plans, including permission setup steps.
 ResourceId: l331AonWBuN
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -40,6 +40,8 @@ tags:
 categories:
 - Uncategorized
 preview: clip_image004-4-4.png
+Watermarks:
+  description: 2025-05-07T13:16:54Z
 
 ---
 I was trying to setup a Build Agent within one of my current customers. They do over 1 million builds a year through Team City and I need to demonstrate that the new TFS build system is awesome before they will consider it. So it never instils confidence when you get an error…

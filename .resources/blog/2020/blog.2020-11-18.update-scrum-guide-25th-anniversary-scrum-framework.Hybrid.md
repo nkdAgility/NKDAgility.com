@@ -1,6 +1,6 @@
 ---
 title: Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework
-description: Discover the latest updates to the Scrum Guide on its 25th anniversary, simplifying Scrum for better team management and accountability. Read more!
+description: Summarises key changes in the 2020 Scrum Guide, including simplified language, self-managing teams, and new commitments for goals, backlog, and definition of done.
 ResourceId: 7CqdvOa9t4c
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -36,6 +36,8 @@ categories:
 - Scrum
 - Product Development
 preview: naked-Agility-Scrum-Framework-3-2.jpg
+Watermarks:
+  description: 2025-05-07T13:15:23Z
 
 ---
 It has been 25 years since [Scrum]({{< ref "/categories/scrum" >}}) was first created by Ken Schwaber and Jeff Sutherland and it has gone through many revisions. The last major revision was in 2017 and this update represents a simplification for 2020.

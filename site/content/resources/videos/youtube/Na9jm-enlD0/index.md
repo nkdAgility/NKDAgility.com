@@ -1,6 +1,6 @@
 ---
 title: Where is consensus valuable and where does it kill great product development?
-description: "Explore the balance of consensus in product development! Discover when it fuels progress and when it stifles innovation. Join Martin for insights! \U0001F680"
+description: Explores when consensus helps or hinders product development, highlighting the need to balance collaboration, leadership, trust, and timely decision-making.
 date: 2023-09-25T07:00:08Z
 weight: 840
 ResourceId: Na9jm-enlD0
@@ -38,6 +38,8 @@ categories:
 - Product Management
 - Product Development
 - Leadership
+Watermarks:
+  description: 2025-05-07T13:09:20Z
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

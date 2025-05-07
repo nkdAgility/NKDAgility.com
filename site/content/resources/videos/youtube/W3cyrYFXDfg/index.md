@@ -1,6 +1,6 @@
 ---
 title: 'Agile Leadership: Empowering Managers with the Right Skills'
-description: Discover why training is essential for managers transitioning to agile leaders in a complex world. Join Martin Hinshelwood for insights on thriving teams!
+description: Explores how agile leadership and evidence-based management training help managers develop servant leadership skills, delegate effectively, and make data-driven decisions.
 date: 2023-11-29T07:00:23Z
 weight: 610
 ResourceId: W3cyrYFXDfg
@@ -44,6 +44,8 @@ categories:
 - Leadership
 - Technical Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:07:25Z
 
 ---
 In today's fast-paced business world, managers are expected to not only manage but also lead. This shift can be daunting, especially when there’s little to no training or guidance provided. Most managers are left to figure out how to become leaders on their own. While some exceptional individuals thrive in this environment, many would benefit from a bit of help. That’s where agile [leadership]({{< ref "/categories/leadership" >}}) training comes into play.

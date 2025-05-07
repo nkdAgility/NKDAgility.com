@@ -38,6 +38,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:02:05Z
 
 ---
 When I first encountered Caman, I was struck by its simplicity and effectiveness. It’s a framework that resonates deeply with my experiences in agile environments, and I believe it can transform the way teams operate. Today, I want to share the three core principles of Caman that have made a significant impact on my approach to workflow management.

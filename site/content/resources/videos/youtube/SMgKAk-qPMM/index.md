@@ -1,6 +1,6 @@
 ---
 title: 'Temperance in Agile: Why Less is More'
-description: "Master the art of balance in Agile with our video on Temperance! Discover how moderation maximises efficiency and elevates your Agile practices. \U0001F31F"
+description: Explores how practising moderation in Agile—by keeping backlogs lean, limiting work in progress, and focusing on value—boosts team efficiency and reduces waste.
 date: 2023-12-05T07:00:10Z
 weight: 1000
 ResourceId: SMgKAk-qPMM
@@ -44,6 +44,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:07:16Z
 
 ---
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.

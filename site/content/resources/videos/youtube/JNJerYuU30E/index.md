@@ -1,6 +1,6 @@
 ---
 title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
-description: Discover how Geronimo Pascualo, a pioneer in the agile community, inspires growth through mentorship, collaboration, and knowledge sharing. Join the journey!
+description: Highlights the impact of Jernimo Palacios on agile practices through mentorship, knowledge sharing, and community building, emphasising collaboration and continuous improvement.
 date: 2023-05-04T07:00:07Z
 weight: 1000
 ResourceId: JNJerYuU30E
@@ -40,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:12:44Z
 
 ---
 When I reflect on my journey in the agile community, one name stands out prominently: Jernimo Palacios. As a Spanish Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer (PST), Geronimo has been a beacon of inspiration and knowledge for many of us navigating the complexities of agile practices. His influence on my understanding of Scrum and the broader agile landscape cannot be overstated.

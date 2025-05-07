@@ -1,6 +1,6 @@
 ---
 title: Sprint Goal is an Immediate Tactical Goal
-description: Discover how to define effective Sprint Goals as tactical steps towards your Product Goal, enhancing value delivery and user engagement in Agile projects.
+description: Explains how the Sprint Goal serves as an immediate tactical objective in Scrum, guiding teams toward strategic Product Goals and maximising value through focused outcomes.
 ResourceId: sLRE2HdkUCS
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -39,6 +39,8 @@ categories:
 - Product Development
 - Scrum
 preview: naked-agility-hypothesis-driven-2-2.jpg
+Watermarks:
+  description: 2025-05-07T13:15:05Z
 
 ---
 In the [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) we talk about the [Intermediate Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) and I likened that to the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) in the [2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide). If we also think of each Sprint as a tactical move towards fulfilling that [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) then the [Sprint Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal) becomes an Intermediate Tactical Goal that moves us towards our current Intermediate Strategic Goal.

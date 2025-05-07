@@ -1,6 +1,6 @@
 ---
 title: Are there any Scrum courses that teach you how to scale Scrum?
-description: "Unlock the secrets to scaling Scrum! \U0001F680 Join Martin as he shares strategies to overcome challenges and enhance your Scrum journey. Don't miss out! \U0001F31F"
+description: Learn how to scale Scrum by tailoring frameworks to your organisation, focusing on dependency management, alignment, and iterative improvement for effective agile delivery.
 date: 2023-10-18T07:00:23Z
 weight: 640
 ResourceId: vubnDXYXiL0
@@ -38,6 +38,8 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:08:40Z
 
 ---
 # Tailoring [Scrum]({{< ref "/categories/scrum" >}}) to Scale: Building Your Own Framework for Success

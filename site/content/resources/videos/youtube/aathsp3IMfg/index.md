@@ -1,6 +1,6 @@
 ---
 title: When is an APS course appropriate for a scrum team?
-description: 'Join Martin Hinshelwood as he shares his vision of the perfect agile consulting week, highlighting the power of inspired teams in #agile and #scrum.'
+description: Explains when an Applied Professional Scrum (APS) course benefits Scrum teams, helping identify and remove ineffective practices to improve authentic Agile delivery.
 date: 2023-04-11T07:00:00Z
 weight: 1000
 ResourceId: aathsp3IMfg
@@ -37,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:13:16Z
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your [Scrum]({{< ref "/categories/scrum" >}}) Journey

@@ -1,6 +1,6 @@
 ---
 title: Why Are a Scrum Team Better Served by an Agile Consultant than a Professional Coach?
-description: Discover why a scrum team benefits more from an agile consultant than a professional coach in this insightful video with Martin Hinshelwood.
+description: Explains why Scrum teams benefit more from Agile consultants than professional coaches, focusing on the need for technical guidance, mentoring, and practical expertise.
 date: 2023-06-26T07:00:07Z
 weight: 305
 ResourceId: LkphLIbmjkI
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:11:17Z
 
 ---
 ## Limits of Professional [Coaching]({{< ref "/tags/coaching" >}})

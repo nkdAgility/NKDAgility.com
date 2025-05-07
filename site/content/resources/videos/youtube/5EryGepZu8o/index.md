@@ -1,6 +1,6 @@
 ---
 title: If you could teach just one thing about Scrum, what would it be?
-description: "Unlock Scrum's true potential! Discover how empiricism and complexity empower teams and drive success in this insightful video. #Scrum #Agile"
+description: The most important aspect of Scrum is empiricism—using transparency, inspection, and adaptation to navigate complexity and drive effective product development.
 date: 2023-02-27T07:00:01Z
 weight: 665
 ResourceId: 5EryGepZu8o
@@ -41,6 +41,8 @@ resourceTypes:
 layout: video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:13:56Z
 
 ---
 If you could teach just one thing about [Scrum]({{< ref "/categories/scrum" >}}), what would it be?

@@ -1,6 +1,6 @@
 ---
 title: A view into the PSM Training from Scrum.org
-description: Explore the PSM Training from Scrum.org in this insightful video, showcasing key concepts and practices to enhance your Scrum mastery.
+description: Overview of the Scrum.org Professional Scrum Master (PSM) training, including key concepts, course structure, and what to expect from the certification process.
 date: 2021-07-24T07:58:47Z
 weight: 1000
 ResourceId: qnWVeumTKcE
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:14:53Z
 
 ---
  [Watch on Youtube](https://www.youtube.com/watch?v=qnWVeumTKcE)

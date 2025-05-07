@@ -1,6 +1,6 @@
 ---
 title: The Importance of Batch to Optimise Flow
-description: Learn how breaking large tasks into smaller batches improves workflow, delivery speed, and predictability, using hands-on exercises based on queuing theory principles.
+description: Explains how breaking large tasks into smaller batches improves workflow, predictability, and delivery speed, using hands-on exercises based on queuing theory principles.
 ResourceId: kwS9oPiz-Ny
 ResourceImport: false
 ResourceType: workshops
@@ -31,6 +31,8 @@ tags:
 - Operational Practices
 - Lean Principles
 - Lean Thinking
+Watermarks:
+  description: 2025-05-07T12:58:27Z
 
 ---
 ## Duration

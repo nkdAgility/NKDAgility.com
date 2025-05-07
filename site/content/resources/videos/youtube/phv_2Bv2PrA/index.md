@@ -1,6 +1,6 @@
 ---
 title: 'Navigating Complexity: Why Agile Practices Are Essential for Modern Product Development'
-description: Discover how Agile practices can transform your product development in a complex world. Learn to adapt, mitigate risks, and deliver value incrementally.
+description: Explains how agile practices help teams manage complexity, adapt to change, and deliver value faster in modern product development, compared to traditional methods.
 date: 2022-10-07T10:41:41Z
 weight: 480
 ResourceId: phv_2Bv2PrA
@@ -44,6 +44,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:14:43Z
 
 ---
 Agile is fundamentally about shortening the time it takes to deliver products to users and learning from that process. As I reflect on my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Scrum.org and a [Kanban]({{< ref "/categories/kanban" >}}) trainer with Pro Kanban, I can’t help but notice how traditional management practices, which were born during the Industrial Revolution, no longer fit the modern landscape of work. 

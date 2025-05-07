@@ -1,6 +1,6 @@
 ---
 title: 'Rethinking Backlog Management: Why a Flat Structure Boosts Agility and Value Delivery'
-description: Rethink your backlog management! Discover why a flat structure boosts agility and value delivery in your Scrum and Kanban practices.
+description: Explains how using a flat backlog structure—rather than a hierarchy—improves agility, prioritisation, and value delivery in Scrum and Kanban teams.
 date: 2024-03-26T10:56:26Z
 weight: 640
 ResourceId: ZBb8OZ0I6qA
@@ -47,6 +47,8 @@ categories:
 - Product Development
 - Product Management
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:05:23Z
 
 ---
 In my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and [Kanban]({{< ref "/categories/kanban" >}}) coach, I've often encountered a common misconception: the belief that a hierarchy is essential for effective backlog management. Today, I want to share my insights on why this approach can be detrimental and how we can rethink our backlogs to enhance our agility and focus on delivering value.

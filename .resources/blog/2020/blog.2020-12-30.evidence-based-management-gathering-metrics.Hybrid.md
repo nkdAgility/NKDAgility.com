@@ -1,6 +1,6 @@
 ---
 title: 'Evidence-based Management: Gathering the metrics'
-description: Discover how to effectively gather metrics for Evidence-based Management in software organizations to enhance value delivery and drive agile success.
+description: Explains how to gather key metrics for evidence-based management in software organisations, focusing on value delivery, time to market, and ability to innovate.
 ResourceId: mK5twHwVcIg
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -49,6 +49,8 @@ categories:
 - Product Development
 - Scrum
 preview: naked-agility-evidence-based-management-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:15:07Z
 
 ---
 Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and I have a number of customers that are fretting on what to collect and from where. Here I try to create an understanding of the 'what' that we need to collect.

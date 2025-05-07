@@ -1,6 +1,6 @@
 ---
 title: 'Maximise Your Virtual Classroom Experience: Essential Tech Tips for Scrum Training'
-description: Unlock the secrets to effective virtual classrooms! Discover how Microsoft Teams and Mural can enhance your learning experience in my latest blog post.
+description: Practical tech tips for using Microsoft Teams and Mural to improve collaboration, engagement, and learning in live virtual Scrum training sessions.
 date: 2020-05-02T16:34:05Z
 weight: 1000
 ResourceId: _bjNHN4PI9s
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:15:45Z
 
 ---
 Welcome to my blog! Today, I want to share my experiences and insights from running live virtual classrooms, particularly focusing on the technologies that enhance our learning environment. As a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Naked Agility, I’ve had the opportunity to facilitate numerous classes, and I’ve learned a thing or two about making the most of our digital tools. 

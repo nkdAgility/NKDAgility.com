@@ -1,6 +1,6 @@
 ---
 title: Most Common Thing You Hear in a PSM 1 Course?
-description: 'Discover the most common insights from delegates in a PSM 1 course with Martin Hinshelwood. Join us for a quick dive into Scrum training! #shorts #agile'
+description: Explores the common challenge in PSM 1 courses of balancing real-world pressures with maintaining honesty, transparency, and moral integrity in Agile and Scrum practices.
 date: 2023-06-28T11:00:24Z
 weight: 1000
 ResourceId: h5TG3MbP0QY
@@ -35,6 +35,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:11:11Z
 
 ---
 ## "But in the Real World..."

@@ -1,6 +1,6 @@
 ---
 title: 'Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback and Engagement'
-description: Combat the "famine" in Agile with essential feedback strategies! Discover how engagement boosts team morale and product success in this insightful guide.
+description: Explores the impact of lacking feedback and engagement in Agile teams, highlighting risks and offering strategies to boost stakeholder involvement and team motivation.
 date: 2023-11-08T06:45:00Z
 weight: 1000
 ResourceId: ARhXjid0zSE
@@ -44,6 +44,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:01Z
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement—particularly with stakeholders and, crucially, with your [product owner]({{< ref "/tags/product-owner" >}}).

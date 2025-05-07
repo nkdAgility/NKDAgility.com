@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Agile Success: Embrace Continuous Forecasting and Transform Your Training Experience'
-description: Unlock the secrets of Agile training! Join me as I explore innovative learning methods, continuous forecasting, and interactive virtual classes.
+description: Explore practical strategies for Agile training, including virtual class setups, continuous forecasting, and using metrics to improve planning, learning, and team outcomes.
 date: 2020-05-21T05:26:17Z
 weight: 1000
 ResourceId: HjyUeuf1IEw
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:15:43Z
 
 ---
 As I sit here in my office, I’m excited to share some insights from my recent experiences in the world of Agile training and the innovative approaches we’re adopting to enhance our learning environments. This week, I want to delve into a couple of key topics: the new training programme I’ve launched and the concept of continuous [forecasting]({{< ref "/tags/forecasting" >}}), which I discussed with Daniel Vacanti during our recent Professional [Scrum]({{< ref "/categories/scrum" >}}) with [Kanban]({{< ref "/categories/kanban" >}}) class.

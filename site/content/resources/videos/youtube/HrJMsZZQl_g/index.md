@@ -1,6 +1,6 @@
 ---
 title: When is an APS course appropriate for a scrum team?
-description: "Discover when the APS course is ideal for Scrum teams and how it tailors Scrum practices to your organisation's unique needs. \U0001F4DA\U0001F680"
+description: Explains when an Applied Professional Scrum (APS) course benefits Scrum teams, helping them identify and remove ineffective practices to improve Agile performance.
 date: 2023-10-12T08:32:45Z
 weight: 750
 ResourceId: HrJMsZZQl_g
@@ -37,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:50Z
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your [Scrum]({{< ref "/categories/scrum" >}}) Journey

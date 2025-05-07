@@ -1,6 +1,6 @@
 ---
 title: One thing an Agile Coach MUST do to be successful?
-description: 'Discover the key to success for agile coaches! Martin Hinshelwood shares essential insights for thriving in agile consulting. #Agile #Coaching #Scrum'
+description: Agile Coaches must deeply understand their team's tools, practices, and technologies to effectively guide, challenge, and help teams improve and reach their goals.
 date: 2023-08-31T07:00:17Z
 weight: 665
 ResourceId: g1GBes-dVzE
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:09:45Z
 
 ---
 ## Why a Deep Understanding is Non-Negotiable

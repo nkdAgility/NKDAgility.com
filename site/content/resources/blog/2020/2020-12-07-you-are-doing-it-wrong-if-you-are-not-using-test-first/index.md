@@ -1,6 +1,6 @@
 ---
 title: You are doing it wrong if you are not using test first
-description: Unlock the power of Test First principles in software development. Learn how TDD and ATDD can enhance quality, reduce bugs, and meet customer needs effectively.
+description: Explains how adopting test-first practices in software development improves quality, reduces bugs, and enables confident continuous delivery by validating requirements early.
 ResourceId: yqHaiUlMNTP
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -44,6 +44,8 @@ categories:
 - Product Development
 - Engineering Excellence
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:15:17Z
 
 ---
 Many teams are struggling with delivering modern software because they are not building with Test First Principals. Test First gives us the assurance that we have built the correct thing, that what we built is what the customer asked for and that when we change things we don’t break anything inadvertently.

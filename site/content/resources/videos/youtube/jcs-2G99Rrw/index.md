@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Azure DevOps: Avoiding Common Pitfalls for Agile Success'
-description: Unlock the secrets to optimising Azure DevOps! Discover common pitfalls and expert insights to enhance your agile practices and boost team productivity.
+description: Learn how to avoid common mistakes in Azure DevOps, improve agile workflows, maintain traceability, and simplify processes for better team productivity and project success.
 date: 2024-04-09T08:00:20Z
 weight: 690
 ResourceId: jcs-2G99Rrw
@@ -38,6 +38,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:05:18Z
 
 ---
 I work with many enterprise organisations that utilise Azure [DevOps]({{< ref "/categories/devops" >}}), and I often encounter practices that either diminish the effectiveness of its features or, in some cases, break them entirely. Recently, I had the opportunity to speak with Dan Helm, the principal product manager for [Azure DevOps]({{< ref "/tags/azure-devops" >}}), about the top issues that users face. Today, I want to share those insights with you, drawing from my extensive experience as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and Microsoft MVP in [GitHub]({{< ref "/tags/github" >}}) and Azure DevOps.

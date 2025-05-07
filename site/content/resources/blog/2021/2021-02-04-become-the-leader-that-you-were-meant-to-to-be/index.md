@@ -1,6 +1,6 @@
 ---
 title: Become the leader that you were meant to to be
-description: Unlock your leadership potential! Discover how to inspire and lead effectively in modern organizations. Become the leader you were meant to be!
+description: Explores the shift from traditional management to leadership focused on inspiration, effectiveness, and servant leadership, with insights for Scrum Masters and modern organisations.
 ResourceId: -Oo9b3G-8Zw
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -28,6 +28,8 @@ tags: []
 categories:
 - Leadership
 preview: image-2-2.png
+Watermarks:
+  description: 2025-05-07T13:15:00Z
 
 ---
 [Leadership]({{< ref "/categories/leadership" >}}) is not about control, but about inspiring those around you.

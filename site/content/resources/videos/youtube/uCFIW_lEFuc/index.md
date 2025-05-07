@@ -1,6 +1,6 @@
 ---
 title: 'Conquering Sloth in Agile: 6 Signs Your Team Might Be Stalling'
-description: Uncover the hidden signs of sloth in Agile practices. Learn how to empower your team, deliver value, and embrace true agility in your projects!
+description: Learn to spot six key signs of sloth in Agile teams, including missed deliveries, ignored feedback, rigid processes, and lack of adaptation, to improve true agility.
 date: 2023-10-20T16:01:48Z
 weight: 355
 ResourceId: uCFIW_lEFuc
@@ -50,6 +50,8 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:08:32Z
 
 ---
 One of the seven deadly sins of Agile is sloth, and I’ve seen it manifest in various ways across teams, organisations, and [leadership]({{< ref "/categories/leadership" >}}). It’s a pervasive issue that often goes unnoticed, yet it can severely hinder our progress towards true agility. 

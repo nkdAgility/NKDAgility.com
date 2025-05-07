@@ -1,6 +1,6 @@
 ---
 title: Kanban Guide
-description: Explains Kanban as a visual, pull-based method for optimising workflow, managing work in progress, and continuously improving value delivery in any organisation.
+description: Explains Kanban as a visual, pull-based method for optimising workflow, value delivery, and continuous improvement using defined practices, metrics, and flow theory.
 ResourceId: uD_5MdHKu1Q
 ResourceImport: false
 ResourceType: guides
@@ -38,6 +38,8 @@ tags:
 - Throughput
 - Lean Principles
 - Lean Thinking
+Watermarks:
+  description: 2025-05-07T12:58:12Z
 
 ---
 December 2020

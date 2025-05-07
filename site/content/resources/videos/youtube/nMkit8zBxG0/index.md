@@ -1,6 +1,6 @@
 ---
 title: What is Sprint Planning?
-description: Discover the essentials of sprint planning in Scrum! Join Martin Hinshelwood as he explains its importance and effective strategies for your team.
+description: Sprint planning is a collaborative session where teams define and align on goals, tasks, and priorities for the next sprint, ensuring clarity and focus for effective delivery.
 date: 2023-05-24T14:00:36Z
 weight: 690
 ResourceId: nMkit8zBxG0
@@ -40,6 +40,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:12:13Z
 
 ---
 ## Setting the Tone for Success

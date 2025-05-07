@@ -1,6 +1,6 @@
 ---
 title: Can the Definition of Done change per Sprint?
-description: Explore how the Definition of Done can evolve in Scrum. Learn to enhance quality without compromising standards in your agile development process.
+description: The Definition of Done can evolve to improve quality but should not be weakened or vary per backlog item. Consistency ensures transparency and reliable product increments.
 ResourceId: LdmZbBlwgM-
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -46,6 +46,8 @@ categories:
 - Product Development
 - Engineering Excellence
 preview: 20190906_152025-2-2.gif
+Watermarks:
+  description: 2025-05-07T13:16:06Z
 
 ---
 I was asked this question today and I think there is a clear answer, however it may change depending on the context of the question.

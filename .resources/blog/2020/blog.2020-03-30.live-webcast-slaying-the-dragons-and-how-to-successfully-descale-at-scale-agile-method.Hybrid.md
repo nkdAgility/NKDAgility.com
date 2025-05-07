@@ -1,6 +1,6 @@
 ---
 title: Slaying the Dragons and How to Successfully Descale at Scale
-description: Discover how to effectively scale agile practices in your organization. Learn the secrets of successful companies and transform your software delivery!
+description: Explores why most organisations struggle to scale agile practices, highlighting key principles and strategies used by rare, successful companies to achieve real transformation.
 ResourceId: PLxBb5FqtO-
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -31,6 +31,8 @@ tags: []
 categories:
 - Uncategorized
 preview: 2020-03-27_21-36-13-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:15:57Z
 
 ---
 Many organisations don't really want to change how they do business and believe that they can continue in the way they always have while still getting better at delivering software.

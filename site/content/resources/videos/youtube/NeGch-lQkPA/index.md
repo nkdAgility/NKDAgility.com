@@ -1,6 +1,6 @@
 ---
 title: Overview of 'applying flow metrics for Scrum' course.
-description: Unlock Scrum's potential with Kanban! Discover how flow metrics can enhance planning, execution, and retrospectives for better team performance.
+description: Learn how to use Kanban flow metrics in Scrum to improve value delivery, track progress, identify bottlenecks, and drive continuous improvement in agile teams.
 date: 2024-02-19T07:00:09Z
 weight: 665
 ResourceId: NeGch-lQkPA
@@ -48,6 +48,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:05:42Z
 
 ---
 ### Applying Flow Metrics for [Scrum]({{< ref "/categories/scrum" >}}): Enhancing [Value Delivery]({{< ref "/tags/value-delivery" >}}) with [Kanban]({{< ref "/categories/kanban" >}})

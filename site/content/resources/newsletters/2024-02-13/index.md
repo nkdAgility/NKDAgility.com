@@ -1,6 +1,6 @@
 ---
 title: Agile Kata and a whole lot more with facilitation, backlog management, and evidence based management!
-description: Join our immersive Agile training this year! Explore PSPO, PSM, and PAL classes, plus new Skills and Agile Kata courses. Enrol now for 20% off!
+description: Explore upcoming Agile and Scrum training covering Agile Kata, facilitation, backlog management, and evidence-based management to boost team performance and leadership skills.
 ResourceId: hz-iCoxHxxa
 ResourceImport: true
 ResourceType: newsletters
@@ -23,6 +23,8 @@ categories:
 - Uncategorized
 tags:
 - Software Development
+Watermarks:
+  description: 2025-05-07T13:05:48Z
 
 ---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from [Scrum]({{< ref "/categories/scrum" >}}).org as well as the new Agile Kata class and we have them all.

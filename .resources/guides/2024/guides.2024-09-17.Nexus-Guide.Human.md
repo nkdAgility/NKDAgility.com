@@ -1,6 +1,6 @@
 ---
 title: Nexus Guide
-description: Explains how the Nexus framework extends Scrum to coordinate multiple teams, manage dependencies, and deliver integrated product increments in scaled agile environments.
+description: Explains the Nexus framework for scaling Scrum with multiple teams, detailing roles, events, and artefacts to coordinate product delivery and manage cross-team dependencies.
 ResourceId: iC8MlA3TE7S
 ResourceImport: false
 ResourceType: guides
@@ -56,6 +56,8 @@ tags:
 - Product Backlog
 - Scrum Team
 - Agile Transformation
+Watermarks:
+  description: 2025-05-07T12:58:25Z
 
 ---
 The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus

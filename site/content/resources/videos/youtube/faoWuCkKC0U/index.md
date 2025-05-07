@@ -1,6 +1,6 @@
 ---
 title: Reasons to do a PSPO-A Course in 60 Seconds
-description: 'Discover why the Advanced PSPO-A course is a game-changer for your career in just 60 seconds! Join Martin Hinshelwood for insights. #Agile #Scrum #Shorts'
+description: Discover how the PSPO-A course helps product managers and owners master Agile and Scrum, boost collaboration, and drive effective product management in any organisation.
 date: 2023-07-11T14:00:32Z
 weight: 1000
 ResourceId: faoWuCkKC0U
@@ -34,6 +34,8 @@ resourceTypes:
 categories:
 - Product Development
 - Product Management
+Watermarks:
+  description: 2025-05-07T13:10:53Z
 
 ---
 ## Step Up Your Game with the PSPO-A Course

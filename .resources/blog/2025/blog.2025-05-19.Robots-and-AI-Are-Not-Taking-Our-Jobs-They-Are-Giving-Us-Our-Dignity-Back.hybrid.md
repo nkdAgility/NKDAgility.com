@@ -1,6 +1,6 @@
 ---
 title: Robots and AI Are Not Taking Our Jobs They Are Giving Us Our Dignity Back
-description: Explores how robots and AI automate repetitive work, challenging outdated job structures and enabling humans to focus on creativity, problem-solving, and dignity.
+description: Explores how robots and AI automate repetitive work, challenging outdated job structures and enabling humans to focus on creativity, problem-solving, and meaningful tasks.
 ResourceId: F0yVBj8Tx8H
 ResourceImport: false
 ResourceType: blog
@@ -15,6 +15,8 @@ aliasesArchive:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T12:49:06Z
 
 ---
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.

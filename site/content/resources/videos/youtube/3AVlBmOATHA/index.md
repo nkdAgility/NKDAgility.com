@@ -1,6 +1,6 @@
 ---
 title: How would you help organizations pitch the opportunity of agile internally?
-description: Discover how to effectively pitch agile within your organisation and inspire teams to embrace its transformative potential for continuous improvement.
+description: Learn how to build a compelling business case for agile adoption by aligning benefits with key metrics, stakeholder goals, and inclusive change management strategies.
 date: 2023-02-08T07:15:00Z
 weight: 665
 ResourceId: 3AVlBmOATHA
@@ -39,6 +39,8 @@ layout: video
 categories:
 - Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:14:11Z
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

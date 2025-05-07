@@ -1,6 +1,6 @@
 ---
 title: What is a product backlog?
-description: 'Discover the essentials of a product backlog! Learn how it helps agile teams prioritise tasks for successful product development with Martin Hinshelwood. #shorts'
+description: A product backlog is a prioritised list of features, tasks, or improvements that guides Agile teams in planning, collaboration, and delivering product value efficiently.
 date: 2023-05-18T07:00:16Z
 weight: 1000
 ResourceId: _Eer3X3Z_LE
@@ -34,6 +34,8 @@ resourceTypes:
 layout: video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:12:22Z
 
 ---
 **What is a [product backlog]({{< ref "/tags/product-backlog" >}})?**

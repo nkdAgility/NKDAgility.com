@@ -1,6 +1,6 @@
 ---
 title: What is the best application of Scrum in the world?
-description: "Discover the world's best Scrum application! Join Martin Hinshelwood as he shares inspiring case studies that transformed agile teams. #Scrum #Agile #Shorts"
+description: Highlights how Microsoft’s Azure DevOps team used Scrum to transform their workflow, cut build times from 20 hours to 3.5 minutes, and deliver greater customer value.
 date: 2023-05-26T07:00:16Z
 weight: 630
 ResourceId: mkgE6prwlj4
@@ -38,6 +38,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:12:10Z
 
 ---
 ## Spotlight on Outstanding [Scrum]({{< ref "/categories/scrum" >}}) Application

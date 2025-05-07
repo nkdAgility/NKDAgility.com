@@ -1,6 +1,6 @@
 ---
 title: 'Navigating My Most Memorable Challenge as an Agile Consultant: Lessons in Readiness and Engagement'
-description: Discover the lessons from my toughest day as an agile consultant. Learn why readiness and engagement are crucial for successful change in organisations.
+description: A personal account highlighting the importance of organisational readiness, engagement, and listening for successful agile consulting and meaningful change in teams.
 date: 2023-04-04T07:00:16Z
 weight: 1000
 ResourceId: sKYVNHcf1jg
@@ -36,6 +36,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:13:23Z
 
 ---
 Reflecting on My Worst Day as an Agile Consultant

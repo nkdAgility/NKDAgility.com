@@ -1,6 +1,6 @@
 ---
 title: The Tyranny of Taylorism and how to detect Agile BS
-description: Explore the impact of Taylorism on modern management and learn to identify Agile BS. Join Martin Hinshelwood in redefining workplace practices for success.
+description: Explores the origins of Taylorism in modern management, its impact on workplace practices, and how to identify ineffective or superficial Agile adoption in organisations.
 ResourceId: IDMjGi5C8lS
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -31,6 +31,8 @@ tags: []
 categories:
 - Uncategorized
 preview: 2020-03-27_21-31-11-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:15:56Z
 
 ---
 ​

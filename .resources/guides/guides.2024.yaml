@@ -1,4 +1,554 @@
 - FrontMatter:
+    title: Detecting Agile BS
+    description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
+    ResourceId: Tt8SPr3xJER
+    ResourceImport: false
+    ResourceType: guides
+    ResourceContentOrigin: Human
+    resourceTypes: guide
+    layout: guide
+    image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
+    references:
+    - title: DIB Guide - Detecting Agile BS
+      url: https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF
+    - title: Defense Innovation Board Ten Commandments of Software
+      url: https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF
+    - title: Defense Innovation Board Metrics for Software Development
+      url: https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF
+    - title: Defense Innovation Board Do’s and Don’ts for Software
+      url: https://media.defense.gov/2018/Oct/09/2002049593/-1/-1/0/DIB_DOS_DONTS_SOFTWARE_2018.10.05.PDF
+    videos:
+    - title: stackconf 2021 | The Tyranny of Taylorism and how to spot Agile BS
+      embed: https://www.youtube.com/embed/OJ-7YVekG2s
+    - title: 'stackconf online 2020 | Agile Evolution: An Enterprise transformation that shows that you can too'
+      embed: https://www.youtube.com/embed/6D7ZC5Yq8rU
+    - title: 'Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps'
+      embed: https://www.youtube.com/embed/5bgcpPqcGlw
+    date: 2024-09-17
+    weight: 360
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Detecting Agile BS and how it can help you in your Agile journey!
+      title: Detecting Agile BS
+    aliases:
+    - /Guides/Detecting-Agile-BS.html
+    - /learn/agile-delivery-kit/guides/detecting-agile-bs
+    - /resources/Tt8SPr3xJER
+    aliasesArchive:
+    - /Guides/Detecting-Agile-BS.html
+    - /learn/agile-delivery-kit/guides/detecting-agile-bs
+    categories:
+    - Product Development
+    - Engineering Excellence
+    tags:
+    - Software Development
+    - Operational Practices
+    - Product Delivery
+    Watermarks:
+      description: 2025-05-07T12:58:02Z
+  BodyContent: |
+    Agile is a buzzword of [software development]({{< ref "/tags/software-development" >}}), and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-[scrum]({{< ref "/categories/scrum" >}})-fall”).
+
+    ![Detecting Agile BS](https://nkdagility.com/wp-content/uploads/2020/12/image-2.png){: .responsiveImage}
+
+    ## Principles, Values, and Tools
+
+    Experts and devotees profess certain key “values” to characterize the culture and approach of
+    agile development. In its work, the DIB has developed its own guiding maxims that roughly map
+    to these true agile values:
+
+    | Agile value                                           | DIB maxim                                                                                             |
+    | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+    | Individuals and interactions over processes and tools | “[Competence]({{< ref "/tags/competence" >}}) trumps process”                                                                           |
+    | [Working software]({{< ref "/tags/working-software" >}}) over comprehensive documentation     | “Minimize time from program launch to deployment of simplest useful functionality”                    |
+    | Customer collaboration over contract negotiation      | “Adopt a DevSecOps culture for software systems”                                                      |
+    | Responding to change over following a plan            | “Software programs should start small, be iterative, and build on success ‒ or be terminated quickly” |
+
+    {: .table .table-striped .table-bordered .d-none .d-md-block}
+
+    Key flags that a project is not really agile:
+
+    - Nobody on the software development team is talking with and observing the users of the software in action; we mean the actual users of the actual code.1 (The Program Executive Office (PEO) does not count as an actual user, nor does the commanding officer, unless she uses the code.)
+    - Continuous feedback from users to the development team (bug reports, users assessments) is not available. Talking once at the beginning of a program to verify requirements doesn’t count!
+    - Meeting requirements is treated as more important than getting something useful into the field as quickly as possible.
+    - Stakeholders (development, test, ops, security, contracting, contractors, end-users, etc.)2 are acting more-or-less autonomously (e.g. ‘it’s not my job.’)
+    - End users of the software are missing-in-action throughout development; at a minimum, they should be present during Release Planning and User Acceptance Testing.
+    - DevSecOps culture is lacking if manual processes are tolerated when such processes can and should be automated (e.g. [automated testing]({{< ref "/tags/automated-testing" >}}), [continuous integration]({{< ref "/tags/continuous-integration" >}}), [continuous delivery]({{< ref "/tags/continuous-delivery" >}})).
+
+    Some current, common tools in use by teams using agile development (these will change as better tools become available):
+
+    - Git, ClearCase, or Subversion – version control system for tracking changes to source code. Git is the de-facto open-source standard for modern software development.
+    - [Azure Repos]({{< ref "/tags/azure-repos" >}}), BitBucket, [GitHub]({{< ref "/tags/github" >}}) – repository hosting sites. Also provide issues tracking, continuous integration “apps” and other productivity tools. Widely used by the open-source community.
+    - [Azure Pipelines]({{< ref "/tags/azure-pipelines" >}}), Jenkins, Circle CI, Travis CI – continuous integration service used to build and test BitBucket and GitHub software projects
+    - Chef, Ansible, or Puppet – software for writing [system configuration]({{< ref "/tags/system-configuration" >}}) “recipes” and streamlining the task of configuring and maintaining a collection of servers
+    - Docker – a computer program that performs operating-system-level virtualization, also known as “containerization”
+    - Kubernetes or Docker Swarm – for container orchestration
+    - [Azure Boards]({{< ref "/tags/azure-boards" >}}), GitHub, Jira, Pivotal Tracker – issues reporting, tracking, and management
+
+    Graphical version:
+
+    ![DIB DevSecOps Technology Stack](https://nkdagility.com/wp-content/uploads/2020/12/image-1-768x428.png){: .responsiveImage}
+
+    ## Questions to Ask
+
+    - How do you test your code? (Wrong answers: “we have a testing organization”, “OT&E is responsible for testing”)
+      Advanced version: what tool suite are you using for unit tests, regression testing, functional tests, security scans, and deployment certification?
+    - How automated are your development, testing, security, and deployment pipelines?
+      Advanced version: what tool suite are you using for continuous integration (CI), continuous deployment (CD), regression testing, program documentation; is your infrastructure defined by code?
+    - Who are your users and how are you interacting with them?
+      Advanced version: what mechanisms are you using to get direct feedback from your users? What tool suite are you using for issue reporting and tracking? How do you allocate issues to programming teams? How to you inform users that their issues are being addressed and/or have been resolved?
+    - What is your (current and future) [cycle time]({{< ref "/tags/cycle-time" >}}) for releases to your users?
+      Advanced version: what software platforms to you support? Are you using containers? What configuration management tools do you use?
+
+    ## Questions for Program Management
+
+    - How many programmers are part of the organizations that own the budget and milestones for the program? (Wrong answers: “we don’t know,” “zero,” “it depends on how you define a programmer”)
+    - What are your management metrics for development and operations; how are they used to inform priorities, detect problems; how often are they accessed and used by [leadership]({{< ref "/categories/leadership" >}})?
+    - What have you learned in your past three sprint cycles and what did you do about it? (Wrong answers: “what’s a sprint cycle?,” “we are waiting to get approval from management”)
+    - Who are the users that you deliver value to each sprint cycle? Can we talk to them? (Wrong answers: “we don’t directly deploy our code to users”)
+
+    ## Questions for Customers and Users
+
+    - How do you communicate with the developers? Did they observe your relevant teams working and ask questions that indicated a deep understanding of your needs? When is the last time they sat with you and talked about features you would like to see implemented?
+    - How do you send in suggestions for new features or report issues or bugs in the code? What type of feedback do you get to your requests/reports? Are you ever asked to try prototypes of new software features and observed using them?
+    - What is the time it takes for a requested feature to show up in the application?
+
+    ## Questions for Program Leadership
+
+    - Are teams delivering working software to at least some subset of real users every iteration (including the first) and gathering feedback? (alt: every two weeks)
+    - Is there a product charter that lays out the mission and [strategic goals]({{< ref "/tags/strategic-goals" >}})? Do all members of the team understand both, and are they able to see how their work contributes to both?
+    - Is feedback from users turned into concrete work items for sprint teams on timelines shorter than one month?
+    - Are teams empowered to change the requirements based on user feedback?
+    - Are teams empowered to change their process based on what they learn?
+    - Is the full ecosystem of your project agile? (Agile programming teams followed by linear, bureaucratic deployment is a failure.)
+
+    More information on some of the features of DoD software programs are included in Appendix A [DIB Ten Commandments on Software](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF), Appendix B [DIB Metrics for Software Development](https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF),
+    and Appendix C [DIB Do’s and Don’ts of Software](https://media.defense.gov/2018/Oct/09/2002049593/-1/-1/0/DIB_DOS_DONTS_SOFTWARE_2018.10.05.PDF).
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\detecting-agile-bs\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\detecting-agile-bs
+- FrontMatter:
+    title: Kanban Guide for Scrum Teams
+    description: Explains how Scrum Teams can use Kanban practices to optimise workflow, track flow metrics, and enhance transparency, efficiency, and continuous improvement in product delivery.
+    ResourceId: Z3HzXH_nmmz
+    ResourceImport: false
+    ResourceType: guides
+    ResourceContentOrigin: Human
+    resourceTypes: guide
+    layout: guide
+    aliases:
+    - /guides/Kanban-Guide-for-Scrum-Teams.html
+    - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+    - /resources/Z3HzXH_nmmz
+    aliasesArchive:
+    - /guides/Kanban-Guide-for-Scrum-Teams.html
+    - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+    references:
+    - title: The Kanban Guide for Scrum Teams on Scrum.org
+      url: https://scrum.org/resources/kanban-guide-scrum-teams
+    - title: Work can flow across the Sprint boundary
+      url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
+    - title: No Estimates and is it advisable for a Scrum Team to adopt it?
+      url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
+    recommendedContent:
+    - collection: practices
+      path: _practices/service-level-expectation-sle.md
+    date: 2024-09-17
+    weight: 840
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
+      title: Kanban Guide for Scrum Teams
+    categories:
+    - Product Development
+    tags:
+    - Software Development
+    - Flow Efficiency
+    - Operational Practices
+    - Metrics and Learning
+    - Transparency
+    - Value Delivery
+    - Agile Frameworks
+    - Empirical Process Control
+    - Throughput
+    - Cycle Time
+    - Scrum Team
+    - Pragmatic Thinking
+    - Team Performance
+    - Agile Product Management
+    Watermarks:
+      description: 2025-05-07T12:58:08Z
+  BodyContent: |
+    The flow-based perspective of [Kanban]({{< ref "/categories/kanban" >}}) can enhance and complement the [Scrum]({{< ref "/categories/scrum" >}}) framework and its implementation. Teams can add complementary Kanban practices whether they are just starting to use Scrum or have been using it all along. The Kanban Guide for Scrum Teams is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind The Kanban Guide for Scrum Teams. It is their shared belief that professional [product development]({{< ref "/categories/product-development" >}}) practitioners can benefit from the application of Kanban together with Scrum.
+    {: .lead}
+
+    ### Relation to the Scrum Guide
+
+    This guide does not replace or discount any part of The Scrum Guide. It is designed to enhance and expand the practices of Scrum. This guide assumes the reader is operating a process using the Scrum framework. Therefore, The Scrum Guide applies in its entirety.
+
+    ## Definition of Kanban
+
+    Kanban (n): a strategy for optimizing the flow of value through a process that uses a visual, work-in-progress limited pull system.
+
+    ## Kanban with Scrum Theory
+
+    ### Flow and Empiricism
+
+    Central to the definition of Kanban is the concept of flow. Flow is the movement of value throughout the product development system. Kanban optimizes flow by improving the overall efficiency, effectiveness, and predictability of a process. Optimizing flow in a Scrum context requires defining what flow means in Scrum. Scrum is founded on [empirical process control]({{< ref "/tags/empirical-process-control" >}}) theory, or empiricism. Key to empirical process control is the frequency of the [transparency]({{< ref "/tags/transparency" >}}), inspection, and adaptation cycle – which we can also describe as the [cycle time]({{< ref "/tags/cycle-time" >}}) through the feedback loop. When Kanban practices are applied to Scrum, they provide a focus on improving the flow through the feedback loop; optimizing transparency and the frequency of inspection and adaptation for both the product and the process.
+
+    ### The Basic Metrics of Flow
+
+    The four basic metrics of flow that Scrum Teams using Kanban need to track are as follows:
+
+    - **Work in Progress (WIP)**: The number of work items started but not finished. Note the difference between the WIP metric and the policies a [Scrum Team]({{< ref "/tags/scrum-team" >}}) uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.
+    - **Cycle Time**: The amount of elapsed time between when a work item starts and when a work item finishes.
+    - **Work Item Age**: The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
+    - **[Throughput]({{< ref "/tags/throughput" >}})**: The number of work items finished per unit of time.
+
+    ### Little’s Law – The Key to Governing Flow
+
+    A key tenet governing flow theory is Little’s Law, which is a guideline that establishes the following relationship:
+
+    ![Littles Law](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-littles-law.jpg)
+
+    Little’s Law reveals that in general, for a given process with a given throughput, the more things that you work on at any given time (on average), the longer it is going to take to finish those things (on average). If cycle times are too long, the first action Scrum Teams should consider is lowering WIP. Most of the other elements of Kanban are built upon the relationship between WIP and cycle time. Little’s Law also shows us how flow theory relies on empiricism by using flow metrics and data to gain transparency into the historical flow and then using that data to inform flow inspection and adaptation experiments.
+
+    ## Kanban Practices
+
+    Scrum Teams can achieve flow optimization by using the following four practices:
+
+    - Visualization of the workflow
+    - Limiting Work in Progress (WIP)
+    - Active management of work items in progress
+    - Inspecting and adapting the team’s definition of “Workflow”
+
+    ### Definition of “Workflow”
+
+    The four Kanban practices are enabled by the Scrum Team’s Definition of Workflow. This definition represents the Scrum Team members’ explicit understanding of what their policies are for following the Kanban practices. This shared understanding improves transparency and enables self-management. Note that the scope of the Definition of Workflow may span beyond the Sprint and the Sprint Backlog. For instance, a Scrum Team‘s Definition of Workflow may encompass flow inside and/or outside of the Sprint. Creating and adapting the Definition of Workflow is the accountability of the relevant roles on the Scrum Team as described in the Scrum Guide. No one outside of the Scrum Team should tell the Scrum Team how to define their Workflow.
+
+    ### Visualization of the Workflow – the Kanban Board
+
+    Visualization using the Kanban board is the way the Scrum Team makes its Workflow transparent. The board’s configuration should prompt the right conversations at the right time and proactively suggest opportunities for improvement. Visualization should include the following:
+
+    - Defined points at which the Scrum Team considers work to have started and to have finished.
+    - A definition of the work items – the individual units of value (stakeholder value, knowledge value, process improvement value) that are flowing through the Scrum Team’s system (most likely [Product Backlog]({{< ref "/tags/product-backlog" >}}) items (PBIs)).
+    - A definition of the workflow states that the work items flow through from start to finish (of which there must be at least one active state).
+    - Explicit policies about how work flows through each state (which may include items from a Scrum Team’s [Definition of Done]({{< ref "/tags/definition-of-done" >}}) and pull policies between stages).
+    - Policies for limiting Work in Progress (WIP).
+
+    ### Limiting Work in Progress (WIP)
+
+    Work in Progress (WIP) refers to the work items the Scrum Team has started but has not yet finished. Scrum Teams using Kanban must explicitly limit the number of these work items in progress. A Scrum Team can explicitly limit WIP however they see fit but should stick to that limit once established. The primary effect of limiting WIP is that it creates a pull system. It is called a pull system because the team starts work (i.e. pulls) on an item only when it is clear that it has the capacity to do so. When the WIP drops below the defined limit, that is the signal to start new work. Note this is different from a push system, which demands that work starts on an item whenever it is requested. Limiting WIP helps flow and improves the Scrum Team’s self-management, focus, commitment, and collaboration.
+
+    ### Active Management of Work Items in Progress
+
+    Limiting WIP is necessary to achieve flow, but it alone is not sufficient. The third practice to establish flow is the active management of work items in progress. Within the Sprint, this management by the Scrum Team can take several forms, including but not limited to the following:
+
+    - Making sure that work items are only pulled into the Workflow at about the same rate that they leave the Workflow.
+    - Ensuring work items aren’t left to age unnecessarily.
+    - Responding quickly to blocked or queued work items as well those that are exceeding the team’s expected Cycle Time levels (See Service Level Expectation – SLE).
+
+    ### Service Level Expectation (SLE)
+
+    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team’s Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations. The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team’s historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
+
+    ### Inspect and Adapt the Definition of “Workflow”
+
+    The Scrum Team uses the existing Scrum events to inspect and adapt its Definition of Workflow, thereby helping to improve empiricism and optimizing the value the Scrum Team delivers. The following are aspects of the Definition of Workflow the Scrum Team might adopt:
+
+    - **Visualization policies** – for example, Workflow states – either changing the actual Workflow or bringing more transparency to an area in which the team wants to inspect and adapt.
+    - **How-we-work policies** – these can directly address an impediment. For example, adjusting WIP limits and SLEs or changing the batch size (how often items are pulled between states) can have a dramatic impact.
+
+    ## Flow-Based Events
+
+    Kanban in a Scrum context does not require any additional events to those outlined in The Scrum Guide. However, using a flow-based perspective and metrics in Scrum’s events strengthens Scrum’s empirical approach.
+
+    ### The Sprint
+
+    The Kanban complementary practices don’t invalidate the need for Scrum’s Sprint. The Sprint and its events provide opportunities for inspection and adaptation of both product and process. It’s a common misconception that teams can only deliver value once per Sprint. In fact, they must deliver value at least once per Sprint. Teams using Scrum with Kanban use the Sprint and its events as a feedback improvement loop by collaboratively inspecting and adapting their Definition of Workflow and flow metrics. Kanban practices can help Scrum Teams improve flow and create an environment where decisions are made just-in-time throughout the Sprint based on inspection and adaptation. In this environment, Scrum Teams rely on the Sprint Goal and close collaboration within the Scrum Team to optimize the value delivered in the Sprint
+
+    ### Sprint Planning
+
+    A flow-based Sprint Planning meeting uses flow metrics as an aid for developing the Sprint Backlog. Reviewing historical throughput can help a Scrum Team understand their capacity for the next Sprint.
+
+    ### [Daily Scrum]({{< ref "/tags/daily-scrum" >}})
+
+    A flow-based Daily Scrum focuses the Developers on doing everything they can to maintain consistent flow. While the goal of the Daily Scrum remains the same as outlined in The Scrum Guide, the meeting itself takes place around the Kanban board and focuses on where flow is lacking and on what actions the Developers can take to get it back. Additional things to consider during a flow-based Daily Scrum include the following:
+    What work items are blocked and what can be done to get them unblocked?
+    What work is flowing slower than expected? What is the Work Item Age of each item in progress? What work items have violated or are about to violate their SLE and what can the Scrum Team do to get that work completed?
+    Are there any factors not represented on the board that may impact our ability to complete work today?
+    Have we learned anything new that might change what the Scrum Team has planned to work on next?
+    Have we broken our WIP limit? And what can we do to ensure we can complete the work in progress?
+
+    ### [Sprint Review]({{< ref "/tags/sprint-review" >}})
+
+    The Scrum Guide provides an outline of the Sprint Review. Inspecting Kanban flow metrics as part of the review can create opportunities for new conversations about monitoring progress towards the Product Goal. Reviewing Throughput can provide additional information when the [Product Owner]({{< ref "/tags/product-owner" >}}) discusses likely delivery dates.
+
+    ### Sprint Retrospective
+
+    A flow-based Sprint Retrospective adds the inspection of flow metrics and analytics to help determine what improvements the Scrum Team can make to its processes. The Scrum Team using Kanban also inspects and adapts the Definition of Workflow to optimize the flow in the next Sprint. Using a cumulative flow diagram to visualize a Scrum Team’s WIP, approximate average Cycle Time and average Throughput can be valuable. In addition to the Sprint Retrospective, the Scrum Team should consider taking advantage of process inspection and adaptation opportunities as they emerge throughout the Sprint. Similarly, changes to a Scrum Team’s Definition of Workflow may happen at any time. Because these changes will have a material impact on how the Scrum Team performs, changes made during the regular cadence provided by the Sprint Retrospective event will reduce complexity and improve focus, commitment and transparency.
+
+    ### [Increment]({{< ref "/tags/increment" >}})
+
+    Scrum requires the team to create (at minimum) a valuable, useful Increment every Sprint. Scrum’s empiricism encourages the creation of multiple valuable increments during the Sprint to enable fast inspect and adapt feedback loops. Kanban helps manage the flow of these feedback loops more explicitly and allows the Scrum Team to identify bottlenecks, constraints, and impediments to enable this faster, more [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value
+    Check our blog for more details
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\kanban-guide-for-scrum-teams\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\kanban-guide-for-scrum-teams
+- FrontMatter:
+    title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
+    description: Explains how evidence-based portfolio management helps organisations extend agile practices beyond teams, enabling greater responsiveness and improved business outcomes.
+    ResourceId: KD08D48Weks
+    ResourceImport: false
+    ResourceType: guides
+    ResourceContentOrigin: Human
+    resourceTypes: guide
+    layout: guide
+    date: 2024-09-17
+    weight: 1000
+    creator: Martin Hinshelwood
+    aliases:
+    - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
+    - /resources/KD08D48Weks
+    aliasesArchive:
+    - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes and how it can help you in your Agile journey!
+      title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
+    categories:
+    - Uncategorized
+    tags:
+    - Business Agility
+    Watermarks:
+      description: 2025-05-07T12:58:06Z
+  BodyContent: |
+    Organizations who seek to improve their competitiveness by being more responsive to change often turn to agile approaches to improve their responsiveness. While many organizations have reaped the rewards of agility at the team level, their traditional management practices impede deeper change that would enable true [business agility]({{< ref "/tags/business-agility" >}}). Agile principles and practices must spread beyond the [Scrum]({{< ref "/categories/scrum" >}}) Team in order for organizations to achieve the dramatic improvement that they seek in their business results.
+
+    Read: [Investing for Business Agility: Using evidence-based portfolio management to achieve better business outcomes](https://scrum.org/resources/investing-business-agility)
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-portfolio-management\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-portfolio-management
+- FrontMatter:
+    title: Nexus Guide
+    description: Explains the Nexus framework for scaling Scrum with multiple teams, detailing roles, events, and artefacts to coordinate product delivery and manage cross-team dependencies.
+    ResourceId: iC8MlA3TE7S
+    ResourceImport: false
+    ResourceType: guides
+    ResourceContentOrigin: Human
+    resourceTypes: guide
+    layout: guide
+    aliases:
+    - guides/Nexus-Framework/
+    - guides/Nexus-Framework.html
+    - /learn/agile-delivery-kit/guides/nexus-framework
+    - /resources/iC8MlA3TE7S
+    aliasesArchive:
+    - guides/Nexus-Framework/
+    - guides/Nexus-Framework.html
+    - /learn/agile-delivery-kit/guides/nexus-framework
+    references:
+    - title: The 2020 Scrum Guide
+      url: https://scrumguides.org/scrum-guide.html
+    - title: The Nexus Guide
+      url: https://www.scrum.org/resources/online-nexus-guide
+    recommendedContent:
+    - collection: practices
+      path: _practices/definition-of-done-dod.md
+    - collection: practices
+      path: _practices/definition-of-ready-dor.md
+    videos:
+    - title: Overview of The Scrum Framework with Martin Hinshelwood
+      embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+    date: 2024-09-17
+    weight: 750
+    creator: Martin Hinshelwood
+    card:
+      button:
+        content: Learn More
+      content: Discover more about Nexus Guide and how it can help you in your Agile journey!
+      title: Nexus Guide
+    categories:
+    - Scrum
+    - Product Development
+    tags:
+    - Professional Scrum
+    - Agile Frameworks
+    - Scaling
+    - Software Development
+    - Increment
+    - Product Delivery
+    - Empirical Process Control
+    - Social Technologies
+    - Transparency
+    - Value Delivery
+    - Large Scale Agility
+    - Working Software
+    - Product Backlog
+    - Scrum Team
+    - Agile Transformation
+    Watermarks:
+      description: 2025-05-07T12:58:25Z
+  BodyContent: |
+    The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus
+
+    January 2021
+
+    # Purpose of the Nexus Guide
+
+    [Product delivery]({{< ref "/tags/product-delivery" >}}) is complex, and the integration of [product development]({{< ref "/categories/product-development" >}}) work into a valuable product requires coordinating many diverse activities. Nexus is a framework for developing and sustaining scaled product delivery initiatives. It builds upon Scrum, extending it only where absolutely necessary to minimize and manage dependencies between multiple Scrum Teams while promoting empiricism and the [Scrum Values]({{< ref "/tags/scrum-values" >}}).
+
+    The Nexus framework inherits the purpose and intent of the Scrum framework as documented in the [Scrum Guide](../_guides/scrum-guide.md) Scaled Scrum is still Scrum. Nexus does not change the core design or ideas of Scrum, or leave out elements, or negate the rules of Scrum. Doing so covers up problems and limits the benefits of Scrum, potentially even rendering it useless.
+
+    This Guide contains the definition of Nexus. Each element of the framework serves a specific purpose that is essential to help teams and organizations scale the benefits of Scrum with multiple teams working together.
+
+    As organizations use Nexus, they typically discover complementary patterns, processes, and practices that help them in their application of the Nexus framework. As with Scrum, such tactics vary widely and are described elsewhere.
+
+    ![The Nexus Framework](../../assets/images/nexus-framework.png)
+
+    # Nexus Definition
+
+    A Nexus is a group of approximately three to nine Scrum Teams that work together to deliver a single product; it is a connection between people and things. A Nexus has a single [Product Owner]({{< ref "/tags/product-owner" >}}) who manages a single [Product Backlog]({{< ref "/tags/product-backlog" >}}) from which the Scrum Teams work.
+
+    The Nexus framework defines the accountabilities, events, and artifacts that bind and weave together the work of the Scrum Teams in a Nexus. Nexus builds upon Scrum's foundation, and its parts will be familiar to those who have used Scrum. It minimally extends the Scrum framework only where absolutely necessary to enable multiple teams to work from a single Product Backlog to build an Integrated [Increment]({{< ref "/tags/increment" >}}) that meets a goal.
+
+    # Nexus Theory
+
+    At its heart, Nexus seeks to preserve and enhance Scrum's foundational bottom-up intelligence and empiricism while enabling a group of Scrum Teams to deliver more value than can be achieved by a single team. The goal of Nexus is to scale the value that a group of Scrum Teams, working on a single product, is able to deliver. It does this by reducing the complexity that those teams encounter as they collaborate to deliver an integrated, valuable, useful product Increment at least once every Sprint.
+
+    The Nexus Framework helps teams solve common scaling challenges like reducing cross-team dependencies, preserving team self-management and [transparency]({{< ref "/tags/transparency" >}}), and ensuring accountability. Nexus helps to make transparent dependencies. These dependencies are often caused by mismatches related to:
+
+    1.  **Product structure:** The degree to which different concerns are independently separated in the product will greatly affect the complexity of creating an integrated product release.
+    2.  **Communication structure:** The way that people communicate within and between teams affects their ability to get work done; delays in communication and feedback reduce the flow of work.
+
+    Nexus provides opportunities to change the process, product structure, and communication structure to reduce or remove these dependencies.
+
+    While often counterintuitive, scaling the value that is delivered does not always require adding more people. Increasing the number of people and the size of a product increases complexity and dependencies, the need for collaboration, and the number of communication pathways involved in making decisions. Scaling-down, reducing the number of people who work on something, can be an important practice in delivering more value.
+
+    # The Nexus Framework
+
+    Nexus builds upon Scrum by enhancing the foundational elements of Scrum in ways that help solve the dependency and collaboration challenges of cross-team work. Nexus (see Figure 1) reveals an empirical process that closely mirrors Scrum.
+
+    Nexus extends Scrum in the following ways:
+
+    - **Accountabilities**: The Nexus Integration Team ensures that the Nexus delivers a valuable, useful Integrated Increment at least once every Sprint. The Nexus Integration Team consists of the Product Owner, a [Scrum Master]({{< ref "/tags/scrum-master" >}}), and Nexus Integration Team Members.
+    - **Events**: Events are appended to, placed around, or replace regular Scrum events to augment them. As modified, they serve both the overall effort of all Scrum Teams in the Nexus, and each individual team. A Nexus Sprint Goal is the objective for the Sprint.
+    - **Artifacts**: All Scrum Teams use the same, single Product Backlog. As the Product Backlog items are refined and made ready, indicators of which team will most likely do the work inside a Sprint are made transparent. A Nexus Sprint Backlog exists to assist with transparency during the Sprint. The Integrated Increment represents the current sum of all integrated work completed by a Nexus.
+
+    Figure 1: The Nexus Framework
+
+    # Accountabilities in Nexus
+
+    A Nexus consists of Scrum Teams that work together toward a Product Goal. The Scrum framework defines three specific sets of accountabilities within a [Scrum Team]({{< ref "/tags/scrum-team" >}}): the Developers, the Product Owner, and the Scrum Master. These accountabilities are prescribed in the Scrum Guide. In Nexus, an additional accountability is introduced, the Nexus Integration Team.
+
+    ## Nexus Integration Team 
+
+    The Nexus Integration Team is accountable for ensuring that a done Integrated Increment (the combined work completed by a Nexus) is produced at least once a Sprint. It provides the focus that makes possible the accountability of multiple Scrum Teams to come together to create valuable, useful Increments, as prescribed in Scrum.
+
+    While Scrum Teams address integration issues within the Nexus, the Nexus Integration Team provides a focal point of integration for the Nexus. Integration includes addressing technical and non-technical cross-functional team constraints that may impede a Nexus' ability to deliver a constantly Integrated Increment. It should use bottom-up intelligence from within the Nexus to achieve resolution.
+
+    The Product Owner, a Scrum Master, and the appropriate members from the Scrum Teams belong to the Nexus Integration Team. Appropriate members are the people with the necessary skills and knowledge to help resolve the issues the Nexus faces at any point in time. Composition of the Nexus Integration Team may change over time to reflect the current needs of a Nexus. Common activities the Nexus Integration Team might perform include [coaching]({{< ref "/tags/coaching" >}}), consulting, and highlighting awareness of dependencies and cross-team issues.
+
+    The Nexus Integration Team consists of:
+
+    - **The Product Owner:** A Nexus works off a single Product Backlog, and as described in Scrum, a Product Backlog has a single Product Owner who has the final say on its contents. The Product Owner is accountable for maximizing the value of the product and the work performed and integrated by the Scrum Teams in a Nexus. The Product Owner is also accountable for effective Product Backlog management. How this is done may vary widely across organizations, Nexuses, Scrum Teams, and individuals.
+    - **A Scrum Master:** The Scrum Master in the Nexus Integration Team is accountable for ensuring the Nexus framework is understood and enacted as described in the Nexus Guide. This Scrum Master may also be a Scrum Master in one or more of the Scrum Teams in the Nexus.
+    - **One or more\*\***Nexus Integration Team Members:\*\* The Nexus Integration Team often consists of Scrum Team members who help the Scrum Teams to adopt tools and practices that contribute to the Scrum Teams' ability to deliver a valuable and useful Integrated Increment that frequently meets the [Definition of Done]({{< ref "/tags/definition-of-done" >}}).
+
+    The Nexus Integration Team is responsible for coaching and guiding the Scrum Teams to acquire, implement, and learn practices and tools that improve their ability to produce a valuable, useful Increment.
+
+    Membership in the Nexus Integration Team takes precedence over individual Scrum Team membership. As long as their Nexus Integration Team responsibility is satisfied, they can work as team members of their respective Scrum Teams. This preference helps ensure that the work to resolve issues affecting multiple teams has priority.
+
+    ## Nexus Events  
+
+    Nexus adds to or extends the events defined by Scrum. The duration of Nexus events is guided by the length of the corresponding events in the Scrum Guide. They are timeboxed in addition to their corresponding Scrum events.
+
+    At scale, it may not be practical for all members of the Nexus to participate to share information or to come to an agreement. Except where noted, Nexus events are attended by whichever members of the Nexus are needed to achieve the intended outcome of the event most effectively.
+
+    Nexus events consist of:
+
+    ## The Sprint
+
+    A Sprint in Nexus is the same as in Scrum. The Scrum Teams in a Nexus produce a single Integrated Increment.
+
+    ## Cross-Team Refinement
+
+    Cross-Team Refinement of the Product Backlog reduces or eliminates cross-team dependencies within a Nexus. The Product Backlog must be decomposed so that dependencies are transparent, identified across teams, and removed or minimized. Product Backlog items pass through different levels of decomposition from very large and vague requests to actionable work that a single Scrum Team could deliver inside a Sprint.
+
+    Cross-Team Refinement of the Product Backlog at scale serves a dual purpose:
+
+    - It helps the Scrum Teams forecast which team will deliver which Product Backlog items.
+    - It identifies dependencies across those teams.
+
+    Cross-Team Refinement is ongoing. The frequency, duration, and attendance of Cross-Team Refinement varies to optimize these two purposes.
+
+    Where needed, each Scrum Team will continue their own refinement in order for the Product Backlog items to be ready for selection in a Nexus Sprint Planning event. An adequately refined Product Backlog will minimize the emergence of new dependencies during Nexus Sprint Planning.
+
+    ## Nexus Sprint Planning
+
+    The purpose of Nexus Sprint Planning is to coordinate the activities of all Scrum Teams within a Nexus for a single Sprint. Appropriate representatives from each Scrum Team and the Product Owner meet to plan the Sprint.
+
+    The result of Nexus Sprint Planning is:
+
+    - a Nexus Sprint Goal that aligns with the Product Goal and describes the purpose that will be achieved by the Nexus during the Sprint
+    - a Sprint Goal for each Scrum Team that aligns with the Nexus Sprint Goal
+    - a single Nexus Sprint Backlog that represents the work of the Nexus toward the Nexus Sprint Goal and makes cross-team dependencies transparent
+    - A Sprint Backlog for each Scrum Team, which makes transparent the work they will do in support of the Nexus Sprint Goal
+
+    ## Nexus [Daily Scrum]({{< ref "/tags/daily-scrum" >}})
+
+    The purpose of the Nexus Daily Scrum is to identify any integration issues and inspect progress toward the Nexus Sprint Goal. Appropriate representatives from the Scrum Teams attend the Nexus Daily Scrum, inspect the current state of the integrated Increment, and identify integration issues and newly discovered cross-team dependencies or impacts. Each Scrum Team's Daily Scrum complements the Nexus Daily Scrum by creating plans for the day, focused primarily on addressing the integration issues raised during the Nexus Daily Scrum.
+
+    The Nexus Daily Scrum is not the only time Scrum Teams in the Nexus are allowed to adjust their plan. Cross-team communication can occur throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint's work.
+
+    ## Nexus [Sprint Review]({{< ref "/tags/sprint-review" >}})
+
+    The Nexus Sprint Review is held at the end of the Sprint to provide feedback on the done Integrated Increment that the Nexus has built over the Sprint and determine future adaptations.
+
+    Since the entire Integrated Increment is the focus for capturing feedback from stakeholders, a Nexus Sprint Review replaces individual Scrum Team Sprint Reviews. During the event, the Nexus presents the results of their work to key stakeholders and progress toward the Product Goal is discussed, although it may not be possible to show all completed work in detail. Based on this information, attendees collaborate on what the Nexus should do to address the feedback. The Product Backlog may be adjusted to reflect these discussions.
+
+    ## Nexus Sprint Retrospective
+
+    The purpose of the Nexus Sprint Retrospective is to plan ways to increase quality and effectiveness across the whole Nexus. The Nexus inspects how the last Sprint went with regards to individuals, teams, interactions, processes, tools, and its Definition of Done. In addition to individual team improvements, the Scrum Teams' Sprint Retrospectives complement the Nexus Sprint Retrospective by using bottom-up intelligence to focus on issues that affect the Nexus as a whole.
+
+    The Nexus Sprint Retrospective concludes the Sprint.
+
+    # Nexus Artifacts and Commitments
+
+    Artifacts represent work or value, and are designed to maximize transparency, as described in the Scrum Guide. The Nexus Integration Team works with the Scrum Teams within a Nexus to ensure that transparency is achieved across all artifacts and that the state of the Integrated Increment is widely understood.
+
+    Nexus extends Scrum with the following artifacts, and each artifact contains a commitment, as indicated below. These commitments exist to reinforce empiricism and the Scrum value for the Nexus and its stakeholders.
+
+    ## Product Backlog
+
+    There is a single Product Backlog that contains a list of what is needed to improve the product for the entire Nexus and all of its Scrum Teams. At scale, the Product Backlog must be understood at a level where dependencies can be detected and minimized. The Product Owner is accountable for the Product Backlog, including its content, availability, and ordering.
+
+    ### Commitment: Product Goal
+
+    The _commitment_ for the Product Backlog is the **Product Goal**. The Product Goal, which describes the future state of the product and serves as a long-term goal of the Nexus.
+
+    ## Nexus Sprint Backlog
+
+    A Nexus Sprint Backlog is the composite of the Nexus Sprint Goal and Product Backlog items from the Sprint Backlogs of the individual Scrum Teams. It is used to highlight dependencies and the flow of work during the Sprint. The Nexus Sprint Backlog is updated throughout the Sprint as more is learned. It should have enough detail that the Nexus can inspect their progress in the Nexus Daily Scrum.
+
+    ### Commitment: Nexus Sprint Goal
+
+    The _commitment_ for the Nexus Sprint Backlog is the **Nexus Sprint Goal**. The Nexus Sprint Goal is a single objective for the Nexus. It is the sum of all the work and Sprint Goals of the Scrum Teams within the Nexus. It creates coherence and focus for the Nexus for the Sprint by encouraging the Scrum Teams to work together rather than on separate initiatives. The Nexus Sprint Goal is created at the Nexus Sprint Planning event and added to the Nexus Sprint Backlog. As Scrum Teams work during the Sprint, they keep the Nexus Sprint Goal in mind. The Nexus should demonstrate the valuable and useful functionality that is done to achieve the Nexus Sprint Goal at the Nexus Sprint Review in order to receive stakeholder feedback.
+
+    ## Integrated Increment
+
+    The Integrated Increment represents the current sum of all integrated work completed by a Nexus toward the Product Goal. The Integrated Increment is inspected at the Nexus Sprint Review, but may be delivered to stakeholders before the end of the Sprint. The Integrated Increment must meet the Definition of Done.
+
+    ### Commitment: Definition of Done
+
+    The _commitment_ for the Integrated Increment is the **Definition of Done,** which defines the state of the integrated work when it meets the quality and measures required for the product. The Increment is done only when integrated, valuable, and usable. The Nexus Integration Team is responsible for a Definition of Done that can be applied to the Integrated Increment developed each Sprint. All Scrum Teams within the Nexus must define and adhere to this Definition of Done. Individual Scrum Teams self-manage to achieve this state. They may choose to apply a more stringent Definition of Done within their own teams, but cannot apply less rigorous criteria than agreed for the Integrated Increment.
+
+    Decisions made based on the state of artifacts are only as effective as the level of artifact transparency. Incomplete or partial information will lead to incorrect or flawed decisions. The impact of those decisions can be magnified at the scale of Nexus.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\nexus-framework\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\nexus-framework
+- FrontMatter:
     title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
     description: A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.
     ResourceId: ltc7lzhy14U
@@ -52,6 +602,8 @@
     - Enterprise Agility
     - Common Goals
     - Continuous Improvement
+    Watermarks:
+      description: 2025-05-07T12:57:55Z
   BodyContent: |
     # The Evidence-Based Management Guide: Improving [Value Delivery]({{< ref "/tags/value-delivery" >}}) under Conditions of Uncertainty
 
@@ -364,136 +916,8 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-management-guide\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-management-guide
 - FrontMatter:
-    title: Detecting Agile BS
-    description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
-    ResourceId: Tt8SPr3xJER
-    ResourceImport: false
-    ResourceType: guides
-    ResourceContentOrigin: Human
-    resourceTypes: guide
-    layout: guide
-    image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
-    references:
-    - title: DIB Guide - Detecting Agile BS
-      url: https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF
-    - title: Defense Innovation Board Ten Commandments of Software
-      url: https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF
-    - title: Defense Innovation Board Metrics for Software Development
-      url: https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF
-    - title: Defense Innovation Board Do’s and Don’ts for Software
-      url: https://media.defense.gov/2018/Oct/09/2002049593/-1/-1/0/DIB_DOS_DONTS_SOFTWARE_2018.10.05.PDF
-    videos:
-    - title: stackconf 2021 | The Tyranny of Taylorism and how to spot Agile BS
-      embed: https://www.youtube.com/embed/OJ-7YVekG2s
-    - title: 'stackconf online 2020 | Agile Evolution: An Enterprise transformation that shows that you can too'
-      embed: https://www.youtube.com/embed/6D7ZC5Yq8rU
-    - title: 'Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps'
-      embed: https://www.youtube.com/embed/5bgcpPqcGlw
-    date: 2024-09-17
-    weight: 360
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Detecting Agile BS and how it can help you in your Agile journey!
-      title: Detecting Agile BS
-    aliases:
-    - /Guides/Detecting-Agile-BS.html
-    - /learn/agile-delivery-kit/guides/detecting-agile-bs
-    - /resources/Tt8SPr3xJER
-    aliasesArchive:
-    - /Guides/Detecting-Agile-BS.html
-    - /learn/agile-delivery-kit/guides/detecting-agile-bs
-    categories:
-    - Product Development
-    - Engineering Excellence
-    tags:
-    - Software Development
-    - Operational Practices
-    - Product Delivery
-  BodyContent: |
-    Agile is a buzzword of [software development]({{< ref "/tags/software-development" >}}), and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-[scrum]({{< ref "/categories/scrum" >}})-fall”).
-
-    ![Detecting Agile BS](https://nkdagility.com/wp-content/uploads/2020/12/image-2.png){: .responsiveImage}
-
-    ## Principles, Values, and Tools
-
-    Experts and devotees profess certain key “values” to characterize the culture and approach of
-    agile development. In its work, the DIB has developed its own guiding maxims that roughly map
-    to these true agile values:
-
-    | Agile value                                           | DIB maxim                                                                                             |
-    | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-    | Individuals and interactions over processes and tools | “[Competence]({{< ref "/tags/competence" >}}) trumps process”                                                                           |
-    | [Working software]({{< ref "/tags/working-software" >}}) over comprehensive documentation     | “Minimize time from program launch to deployment of simplest useful functionality”                    |
-    | Customer collaboration over contract negotiation      | “Adopt a DevSecOps culture for software systems”                                                      |
-    | Responding to change over following a plan            | “Software programs should start small, be iterative, and build on success ‒ or be terminated quickly” |
-
-    {: .table .table-striped .table-bordered .d-none .d-md-block}
-
-    Key flags that a project is not really agile:
-
-    - Nobody on the software development team is talking with and observing the users of the software in action; we mean the actual users of the actual code.1 (The Program Executive Office (PEO) does not count as an actual user, nor does the commanding officer, unless she uses the code.)
-    - Continuous feedback from users to the development team (bug reports, users assessments) is not available. Talking once at the beginning of a program to verify requirements doesn’t count!
-    - Meeting requirements is treated as more important than getting something useful into the field as quickly as possible.
-    - Stakeholders (development, test, ops, security, contracting, contractors, end-users, etc.)2 are acting more-or-less autonomously (e.g. ‘it’s not my job.’)
-    - End users of the software are missing-in-action throughout development; at a minimum, they should be present during Release Planning and User Acceptance Testing.
-    - DevSecOps culture is lacking if manual processes are tolerated when such processes can and should be automated (e.g. [automated testing]({{< ref "/tags/automated-testing" >}}), [continuous integration]({{< ref "/tags/continuous-integration" >}}), [continuous delivery]({{< ref "/tags/continuous-delivery" >}})).
-
-    Some current, common tools in use by teams using agile development (these will change as better tools become available):
-
-    - Git, ClearCase, or Subversion – version control system for tracking changes to source code. Git is the de-facto open-source standard for modern software development.
-    - [Azure Repos]({{< ref "/tags/azure-repos" >}}), BitBucket, [GitHub]({{< ref "/tags/github" >}}) – repository hosting sites. Also provide issues tracking, continuous integration “apps” and other productivity tools. Widely used by the open-source community.
-    - [Azure Pipelines]({{< ref "/tags/azure-pipelines" >}}), Jenkins, Circle CI, Travis CI – continuous integration service used to build and test BitBucket and GitHub software projects
-    - Chef, Ansible, or Puppet – software for writing [system configuration]({{< ref "/tags/system-configuration" >}}) “recipes” and streamlining the task of configuring and maintaining a collection of servers
-    - Docker – a computer program that performs operating-system-level virtualization, also known as “containerization”
-    - Kubernetes or Docker Swarm – for container orchestration
-    - [Azure Boards]({{< ref "/tags/azure-boards" >}}), GitHub, Jira, Pivotal Tracker – issues reporting, tracking, and management
-
-    Graphical version:
-
-    ![DIB DevSecOps Technology Stack](https://nkdagility.com/wp-content/uploads/2020/12/image-1-768x428.png){: .responsiveImage}
-
-    ## Questions to Ask
-
-    - How do you test your code? (Wrong answers: “we have a testing organization”, “OT&E is responsible for testing”)
-      Advanced version: what tool suite are you using for unit tests, regression testing, functional tests, security scans, and deployment certification?
-    - How automated are your development, testing, security, and deployment pipelines?
-      Advanced version: what tool suite are you using for continuous integration (CI), continuous deployment (CD), regression testing, program documentation; is your infrastructure defined by code?
-    - Who are your users and how are you interacting with them?
-      Advanced version: what mechanisms are you using to get direct feedback from your users? What tool suite are you using for issue reporting and tracking? How do you allocate issues to programming teams? How to you inform users that their issues are being addressed and/or have been resolved?
-    - What is your (current and future) [cycle time]({{< ref "/tags/cycle-time" >}}) for releases to your users?
-      Advanced version: what software platforms to you support? Are you using containers? What configuration management tools do you use?
-
-    ## Questions for Program Management
-
-    - How many programmers are part of the organizations that own the budget and milestones for the program? (Wrong answers: “we don’t know,” “zero,” “it depends on how you define a programmer”)
-    - What are your management metrics for development and operations; how are they used to inform priorities, detect problems; how often are they accessed and used by [leadership]({{< ref "/categories/leadership" >}})?
-    - What have you learned in your past three sprint cycles and what did you do about it? (Wrong answers: “what’s a sprint cycle?,” “we are waiting to get approval from management”)
-    - Who are the users that you deliver value to each sprint cycle? Can we talk to them? (Wrong answers: “we don’t directly deploy our code to users”)
-
-    ## Questions for Customers and Users
-
-    - How do you communicate with the developers? Did they observe your relevant teams working and ask questions that indicated a deep understanding of your needs? When is the last time they sat with you and talked about features you would like to see implemented?
-    - How do you send in suggestions for new features or report issues or bugs in the code? What type of feedback do you get to your requests/reports? Are you ever asked to try prototypes of new software features and observed using them?
-    - What is the time it takes for a requested feature to show up in the application?
-
-    ## Questions for Program Leadership
-
-    - Are teams delivering working software to at least some subset of real users every iteration (including the first) and gathering feedback? (alt: every two weeks)
-    - Is there a product charter that lays out the mission and [strategic goals]({{< ref "/tags/strategic-goals" >}})? Do all members of the team understand both, and are they able to see how their work contributes to both?
-    - Is feedback from users turned into concrete work items for sprint teams on timelines shorter than one month?
-    - Are teams empowered to change the requirements based on user feedback?
-    - Are teams empowered to change their process based on what they learn?
-    - Is the full ecosystem of your project agile? (Agile programming teams followed by linear, bureaucratic deployment is a failure.)
-
-    More information on some of the features of DoD software programs are included in Appendix A [DIB Ten Commandments on Software](https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF), Appendix B [DIB Metrics for Software Development](https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF),
-    and Appendix C [DIB Do’s and Don’ts of Software](https://media.defense.gov/2018/Oct/09/2002049593/-1/-1/0/DIB_DOS_DONTS_SOFTWARE_2018.10.05.PDF).
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\detecting-agile-bs\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\detecting-agile-bs
-- FrontMatter:
     title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
-    description: Explains how Evidence-Based Management uses empirical data, goal setting, and experiments to help organisations improve value delivery and adapt under uncertainty.
+    description: Evidence-Based Management (EBM) guides organisations to improve value delivery under uncertainty by using empirical goals, measurement, and continuous experimentation.
     ResourceId: Rv0ZjvwYVy5
     ResourceImport: false
     ResourceType: guides
@@ -549,6 +973,8 @@
     - Business Agility
     - Organisational Agility
     - Agile Philosophy
+    Watermarks:
+      description: 2025-05-07T12:58:05Z
   BodyContent: |
     Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty. It provides a framework for organizations to improve their ability to deliver value in an uncertain world, seeking a path toward [strategic goals]({{< ref "/tags/strategic-goals" >}}). Using intentional [experimentation]({{< ref "/tags/experimentation" >}}) and evidence (measures), EBM enables organizations to systematically improve their performance over time and refine their goals based on better information
     By measuring current conditions, setting performance goals, forming small experiments for improvement that can be run quickly, measuring the effect of the experiment, and inspecting and adapting goals and next steps, EBM helps organizations to take into account the best available evidence to help them make decisions on ways to improve.
@@ -766,276 +1192,8 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-management-guide-2020\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-management-guide-2020
 - FrontMatter:
-    title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
-    description: Explains how evidence-based portfolio management helps organisations extend agile practices beyond teams, enabling greater responsiveness and improved business outcomes.
-    ResourceId: KD08D48Weks
-    ResourceImport: false
-    ResourceType: guides
-    ResourceContentOrigin: Human
-    resourceTypes: guide
-    layout: guide
-    date: 2024-09-17
-    weight: 1000
-    creator: Martin Hinshelwood
-    aliases:
-    - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
-    - /resources/KD08D48Weks
-    aliasesArchive:
-    - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes and how it can help you in your Agile journey!
-      title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
-    categories:
-    - Uncategorized
-    tags:
-    - Business Agility
-  BodyContent: |
-    Organizations who seek to improve their competitiveness by being more responsive to change often turn to agile approaches to improve their responsiveness. While many organizations have reaped the rewards of agility at the team level, their traditional management practices impede deeper change that would enable true [business agility]({{< ref "/tags/business-agility" >}}). Agile principles and practices must spread beyond the [Scrum]({{< ref "/categories/scrum" >}}) Team in order for organizations to achieve the dramatic improvement that they seek in their business results.
-
-    Read: [Investing for Business Agility: Using evidence-based portfolio management to achieve better business outcomes](https://scrum.org/resources/investing-business-agility)
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-portfolio-management\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\evidence-based-portfolio-management
-- FrontMatter:
-    title: Kanban Guide for Scrum Teams
-    description: Explains how Scrum Teams can use Kanban practices to optimise workflow, track flow metrics, and enhance transparency, efficiency, and continuous improvement in product delivery.
-    ResourceId: Z3HzXH_nmmz
-    ResourceImport: false
-    ResourceType: guides
-    ResourceContentOrigin: Human
-    resourceTypes: guide
-    layout: guide
-    aliases:
-    - /guides/Kanban-Guide-for-Scrum-Teams.html
-    - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
-    - /resources/Z3HzXH_nmmz
-    aliasesArchive:
-    - /guides/Kanban-Guide-for-Scrum-Teams.html
-    - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
-    references:
-    - title: The Kanban Guide for Scrum Teams on Scrum.org
-      url: https://scrum.org/resources/kanban-guide-scrum-teams
-    - title: Work can flow across the Sprint boundary
-      url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
-    - title: No Estimates and is it advisable for a Scrum Team to adopt it?
-      url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
-    recommendedContent:
-    - collection: practices
-      path: _practices/service-level-expectation-sle.md
-    date: 2024-09-17
-    weight: 840
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Kanban Guide for Scrum Teams and how it can help you in your Agile journey!
-      title: Kanban Guide for Scrum Teams
-    categories:
-    - Product Development
-    tags:
-    - Software Development
-    - Flow Efficiency
-    - Operational Practices
-    - Metrics and Learning
-    - Transparency
-    - Value Delivery
-    - Agile Frameworks
-    - Empirical Process Control
-    - Throughput
-    - Cycle Time
-    - Scrum Team
-    - Pragmatic Thinking
-    - Team Performance
-    - Agile Product Management
-  BodyContent: |
-    The flow-based perspective of [Kanban]({{< ref "/categories/kanban" >}}) can enhance and complement the [Scrum]({{< ref "/categories/scrum" >}}) framework and its implementation. Teams can add complementary Kanban practices whether they are just starting to use Scrum or have been using it all along. The Kanban Guide for Scrum Teams is the result of a collaboration between members of the Scrum.org community and leaders of the Kanban community. Together, they stand behind The Kanban Guide for Scrum Teams. It is their shared belief that professional [product development]({{< ref "/categories/product-development" >}}) practitioners can benefit from the application of Kanban together with Scrum.
-    {: .lead}
-
-    ### Relation to the Scrum Guide
-
-    This guide does not replace or discount any part of The Scrum Guide. It is designed to enhance and expand the practices of Scrum. This guide assumes the reader is operating a process using the Scrum framework. Therefore, The Scrum Guide applies in its entirety.
-
-    ## Definition of Kanban
-
-    Kanban (n): a strategy for optimizing the flow of value through a process that uses a visual, work-in-progress limited pull system.
-
-    ## Kanban with Scrum Theory
-
-    ### Flow and Empiricism
-
-    Central to the definition of Kanban is the concept of flow. Flow is the movement of value throughout the product development system. Kanban optimizes flow by improving the overall efficiency, effectiveness, and predictability of a process. Optimizing flow in a Scrum context requires defining what flow means in Scrum. Scrum is founded on [empirical process control]({{< ref "/tags/empirical-process-control" >}}) theory, or empiricism. Key to empirical process control is the frequency of the [transparency]({{< ref "/tags/transparency" >}}), inspection, and adaptation cycle – which we can also describe as the [cycle time]({{< ref "/tags/cycle-time" >}}) through the feedback loop. When Kanban practices are applied to Scrum, they provide a focus on improving the flow through the feedback loop; optimizing transparency and the frequency of inspection and adaptation for both the product and the process.
-
-    ### The Basic Metrics of Flow
-
-    The four basic metrics of flow that Scrum Teams using Kanban need to track are as follows:
-
-    - **Work in Progress (WIP)**: The number of work items started but not finished. Note the difference between the WIP metric and the policies a [Scrum Team]({{< ref "/tags/scrum-team" >}}) uses to limit WIP. The team can use the WIP metric to provide transparency about their progress towards reducing their WIP and improving their flow.
-    - **Cycle Time**: The amount of elapsed time between when a work item starts and when a work item finishes.
-    - **Work Item Age**: The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
-    - **[Throughput]({{< ref "/tags/throughput" >}})**: The number of work items finished per unit of time.
-
-    ### Little’s Law – The Key to Governing Flow
-
-    A key tenet governing flow theory is Little’s Law, which is a guideline that establishes the following relationship:
-
-    ![Littles Law](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-littles-law.jpg)
-
-    Little’s Law reveals that in general, for a given process with a given throughput, the more things that you work on at any given time (on average), the longer it is going to take to finish those things (on average). If cycle times are too long, the first action Scrum Teams should consider is lowering WIP. Most of the other elements of Kanban are built upon the relationship between WIP and cycle time. Little’s Law also shows us how flow theory relies on empiricism by using flow metrics and data to gain transparency into the historical flow and then using that data to inform flow inspection and adaptation experiments.
-
-    ## Kanban Practices
-
-    Scrum Teams can achieve flow optimization by using the following four practices:
-
-    - Visualization of the workflow
-    - Limiting Work in Progress (WIP)
-    - Active management of work items in progress
-    - Inspecting and adapting the team’s definition of “Workflow”
-
-    ### Definition of “Workflow”
-
-    The four Kanban practices are enabled by the Scrum Team’s Definition of Workflow. This definition represents the Scrum Team members’ explicit understanding of what their policies are for following the Kanban practices. This shared understanding improves transparency and enables self-management. Note that the scope of the Definition of Workflow may span beyond the Sprint and the Sprint Backlog. For instance, a Scrum Team‘s Definition of Workflow may encompass flow inside and/or outside of the Sprint. Creating and adapting the Definition of Workflow is the accountability of the relevant roles on the Scrum Team as described in the Scrum Guide. No one outside of the Scrum Team should tell the Scrum Team how to define their Workflow.
-
-    ### Visualization of the Workflow – the Kanban Board
-
-    Visualization using the Kanban board is the way the Scrum Team makes its Workflow transparent. The board’s configuration should prompt the right conversations at the right time and proactively suggest opportunities for improvement. Visualization should include the following:
-
-    - Defined points at which the Scrum Team considers work to have started and to have finished.
-    - A definition of the work items – the individual units of value (stakeholder value, knowledge value, process improvement value) that are flowing through the Scrum Team’s system (most likely [Product Backlog]({{< ref "/tags/product-backlog" >}}) items (PBIs)).
-    - A definition of the workflow states that the work items flow through from start to finish (of which there must be at least one active state).
-    - Explicit policies about how work flows through each state (which may include items from a Scrum Team’s [Definition of Done]({{< ref "/tags/definition-of-done" >}}) and pull policies between stages).
-    - Policies for limiting Work in Progress (WIP).
-
-    ### Limiting Work in Progress (WIP)
-
-    Work in Progress (WIP) refers to the work items the Scrum Team has started but has not yet finished. Scrum Teams using Kanban must explicitly limit the number of these work items in progress. A Scrum Team can explicitly limit WIP however they see fit but should stick to that limit once established. The primary effect of limiting WIP is that it creates a pull system. It is called a pull system because the team starts work (i.e. pulls) on an item only when it is clear that it has the capacity to do so. When the WIP drops below the defined limit, that is the signal to start new work. Note this is different from a push system, which demands that work starts on an item whenever it is requested. Limiting WIP helps flow and improves the Scrum Team’s self-management, focus, commitment, and collaboration.
-
-    ### Active Management of Work Items in Progress
-
-    Limiting WIP is necessary to achieve flow, but it alone is not sufficient. The third practice to establish flow is the active management of work items in progress. Within the Sprint, this management by the Scrum Team can take several forms, including but not limited to the following:
-
-    - Making sure that work items are only pulled into the Workflow at about the same rate that they leave the Workflow.
-    - Ensuring work items aren’t left to age unnecessarily.
-    - Responding quickly to blocked or queued work items as well those that are exceeding the team’s expected Cycle Time levels (See Service Level Expectation – SLE).
-
-    ### Service Level Expectation (SLE)
-
-    A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team’s Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations. The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team’s historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
-
-    ### Inspect and Adapt the Definition of “Workflow”
-
-    The Scrum Team uses the existing Scrum events to inspect and adapt its Definition of Workflow, thereby helping to improve empiricism and optimizing the value the Scrum Team delivers. The following are aspects of the Definition of Workflow the Scrum Team might adopt:
-
-    - **Visualization policies** – for example, Workflow states – either changing the actual Workflow or bringing more transparency to an area in which the team wants to inspect and adapt.
-    - **How-we-work policies** – these can directly address an impediment. For example, adjusting WIP limits and SLEs or changing the batch size (how often items are pulled between states) can have a dramatic impact.
-
-    ## Flow-Based Events
-
-    Kanban in a Scrum context does not require any additional events to those outlined in The Scrum Guide. However, using a flow-based perspective and metrics in Scrum’s events strengthens Scrum’s empirical approach.
-
-    ### The Sprint
-
-    The Kanban complementary practices don’t invalidate the need for Scrum’s Sprint. The Sprint and its events provide opportunities for inspection and adaptation of both product and process. It’s a common misconception that teams can only deliver value once per Sprint. In fact, they must deliver value at least once per Sprint. Teams using Scrum with Kanban use the Sprint and its events as a feedback improvement loop by collaboratively inspecting and adapting their Definition of Workflow and flow metrics. Kanban practices can help Scrum Teams improve flow and create an environment where decisions are made just-in-time throughout the Sprint based on inspection and adaptation. In this environment, Scrum Teams rely on the Sprint Goal and close collaboration within the Scrum Team to optimize the value delivered in the Sprint
-
-    ### Sprint Planning
-
-    A flow-based Sprint Planning meeting uses flow metrics as an aid for developing the Sprint Backlog. Reviewing historical throughput can help a Scrum Team understand their capacity for the next Sprint.
-
-    ### [Daily Scrum]({{< ref "/tags/daily-scrum" >}})
-
-    A flow-based Daily Scrum focuses the Developers on doing everything they can to maintain consistent flow. While the goal of the Daily Scrum remains the same as outlined in The Scrum Guide, the meeting itself takes place around the Kanban board and focuses on where flow is lacking and on what actions the Developers can take to get it back. Additional things to consider during a flow-based Daily Scrum include the following:
-    What work items are blocked and what can be done to get them unblocked?
-    What work is flowing slower than expected? What is the Work Item Age of each item in progress? What work items have violated or are about to violate their SLE and what can the Scrum Team do to get that work completed?
-    Are there any factors not represented on the board that may impact our ability to complete work today?
-    Have we learned anything new that might change what the Scrum Team has planned to work on next?
-    Have we broken our WIP limit? And what can we do to ensure we can complete the work in progress?
-
-    ### [Sprint Review]({{< ref "/tags/sprint-review" >}})
-
-    The Scrum Guide provides an outline of the Sprint Review. Inspecting Kanban flow metrics as part of the review can create opportunities for new conversations about monitoring progress towards the Product Goal. Reviewing Throughput can provide additional information when the [Product Owner]({{< ref "/tags/product-owner" >}}) discusses likely delivery dates.
-
-    ### Sprint Retrospective
-
-    A flow-based Sprint Retrospective adds the inspection of flow metrics and analytics to help determine what improvements the Scrum Team can make to its processes. The Scrum Team using Kanban also inspects and adapts the Definition of Workflow to optimize the flow in the next Sprint. Using a cumulative flow diagram to visualize a Scrum Team’s WIP, approximate average Cycle Time and average Throughput can be valuable. In addition to the Sprint Retrospective, the Scrum Team should consider taking advantage of process inspection and adaptation opportunities as they emerge throughout the Sprint. Similarly, changes to a Scrum Team’s Definition of Workflow may happen at any time. Because these changes will have a material impact on how the Scrum Team performs, changes made during the regular cadence provided by the Sprint Retrospective event will reduce complexity and improve focus, commitment and transparency.
-
-    ### [Increment]({{< ref "/tags/increment" >}})
-
-    Scrum requires the team to create (at minimum) a valuable, useful Increment every Sprint. Scrum’s empiricism encourages the creation of multiple valuable increments during the Sprint to enable fast inspect and adapt feedback loops. Kanban helps manage the flow of these feedback loops more explicitly and allows the Scrum Team to identify bottlenecks, constraints, and impediments to enable this faster, more [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value
-    Check our blog for more details
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\kanban-guide-for-scrum-teams\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\kanban-guide-for-scrum-teams
-- FrontMatter:
-    title: Manifesto for Agile Software Development
-    description: Outlines core Agile values and principles for software development, emphasising collaboration, adaptability, working software, customer focus, and continuous improvement.
-    ResourceId: poyC7fUGitC
-    ResourceImport: false
-    ResourceType: guides
-    ResourceContentOrigin: Human
-    resourceTypes: guide
-    layout: guide
-    aliases:
-    - guides/manifesto-for-agile-software-developmen/
-    - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
-    - /resources/poyC7fUGitC
-    aliasesArchive:
-    - guides/manifesto-for-agile-software-developmen/
-    - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
-    references:
-    - title: Manifesto for Agile Software Development
-      url: https://agilemanifesto.org/
-    recommendedContent: 
-    date: 2024-09-17
-    weight: 505
-    creator: Martin Hinshelwood
-    card:
-      button:
-        content: Learn More
-      content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
-      title: Manifesto for Agile Software Development
-    categories:
-    - Product Development
-    tags:
-    - Agile Values and Principles
-    - Agile Philosophy
-    - Agile Transformation
-    - Software Development
-    - Value Delivery
-    - Working Software
-    - Agile Frameworks
-    - Agile Planning
-    - Organisational Agility
-    - Product Delivery
-  BodyContent: |
-    We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
-
-    - **Individuals and interactions** over _processes and tools_
-    - **[Working software]({{< ref "/tags/working-software" >}})** over _comprehensive documentation_
-    - **Customer collaboration** over _contract negotiation_
-    - **Responding to change** over _following a plan_
-
-    That is, while there is value in the items on the right, we value the items on the left more.
-
-    ## Principles behind the Agile Manifesto
-
-    We follow these principles:
-
-    - Our highest priority is to satisfy the customer through early and [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of valuable software.
-    - Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
-    - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
-    - Business people and developers must work together daily throughout the project.
-    - Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
-    - The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
-    - Working software is the primary measure of progress.
-    - Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
-    - Continuous attention to [technical excellence]({{< ref "/tags/technical-excellence" >}}) and good design enhances agility.
-    - Simplicity--the art of maximizing the amount of work not done--is essential.
-    - The best architectures, requirements, and designs emerge from self-organizing teams.
-    - At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\manifesto-for-agile-software-development\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\manifesto-for-agile-software-development
-- FrontMatter:
     title: Kanban Guide
-    description: Explains Kanban as a visual, pull-based method for optimising workflow, managing work in progress, and continuously improving value delivery in any organisation.
+    description: Explains Kanban as a visual, pull-based method for optimising workflow, value delivery, and continuous improvement using defined practices, metrics, and flow theory.
     ResourceId: uD_5MdHKu1Q
     ResourceImport: false
     ResourceType: guides
@@ -1073,6 +1231,8 @@
     - Throughput
     - Lean Principles
     - Lean Thinking
+    Watermarks:
+      description: 2025-05-07T12:58:12Z
   BodyContent: |
     December 2020
 
@@ -1193,7 +1353,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\kanban-guide
 - FrontMatter:
     title: The Scrum Guide
-    description: Summarises Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value through adaptive, transparent, and iterative work.
+    description: A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.
     ResourceId: 59gcHh1fYtC
     ResourceImport: false
     ResourceType: guides
@@ -1271,6 +1431,8 @@
     - Product Delivery
     - Team Performance
     - Sprint Review
+    Watermarks:
+      description: 2025-05-07T12:58:15Z
   BodyContent: |
     The [Scrum]({{< ref "/categories/scrum" >}}) Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.
     {: .lead}
@@ -1556,218 +1718,74 @@
   FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\scrum-guide\index.md
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\scrum-guide
 - FrontMatter:
-    title: Nexus Guide
-    description: Explains how the Nexus framework extends Scrum to coordinate multiple teams, manage dependencies, and deliver integrated product increments in scaled agile environments.
-    ResourceId: iC8MlA3TE7S
+    title: Manifesto for Agile Software Development
+    description: Outlines core Agile values and principles for software development, emphasising collaboration, adaptability, working software, customer focus, and continuous improvement.
+    ResourceId: poyC7fUGitC
     ResourceImport: false
     ResourceType: guides
     ResourceContentOrigin: Human
     resourceTypes: guide
     layout: guide
     aliases:
-    - guides/Nexus-Framework/
-    - guides/Nexus-Framework.html
-    - /learn/agile-delivery-kit/guides/nexus-framework
-    - /resources/iC8MlA3TE7S
+    - guides/manifesto-for-agile-software-developmen/
+    - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
+    - /resources/poyC7fUGitC
     aliasesArchive:
-    - guides/Nexus-Framework/
-    - guides/Nexus-Framework.html
-    - /learn/agile-delivery-kit/guides/nexus-framework
+    - guides/manifesto-for-agile-software-developmen/
+    - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
     references:
-    - title: The 2020 Scrum Guide
-      url: https://scrumguides.org/scrum-guide.html
-    - title: The Nexus Guide
-      url: https://www.scrum.org/resources/online-nexus-guide
-    recommendedContent:
-    - collection: practices
-      path: _practices/definition-of-done-dod.md
-    - collection: practices
-      path: _practices/definition-of-ready-dor.md
-    videos:
-    - title: Overview of The Scrum Framework with Martin Hinshelwood
-      embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+    - title: Manifesto for Agile Software Development
+      url: https://agilemanifesto.org/
+    recommendedContent: 
     date: 2024-09-17
-    weight: 750
+    weight: 505
     creator: Martin Hinshelwood
     card:
       button:
         content: Learn More
-      content: Discover more about Nexus Guide and how it can help you in your Agile journey!
-      title: Nexus Guide
+      content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
+      title: Manifesto for Agile Software Development
     categories:
-    - Scrum
     - Product Development
     tags:
-    - Professional Scrum
-    - Agile Frameworks
-    - Scaling
-    - Software Development
-    - Increment
-    - Product Delivery
-    - Empirical Process Control
-    - Social Technologies
-    - Transparency
-    - Value Delivery
-    - Large Scale Agility
-    - Working Software
-    - Product Backlog
-    - Scrum Team
+    - Agile Values and Principles
+    - Agile Philosophy
     - Agile Transformation
+    - Software Development
+    - Value Delivery
+    - Working Software
+    - Agile Frameworks
+    - Agile Planning
+    - Organisational Agility
+    - Product Delivery
+    Watermarks:
+      description: 2025-05-07T12:58:11Z
   BodyContent: |
-    The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus
-
-    January 2021
-
-    # Purpose of the Nexus Guide
-
-    [Product delivery]({{< ref "/tags/product-delivery" >}}) is complex, and the integration of [product development]({{< ref "/categories/product-development" >}}) work into a valuable product requires coordinating many diverse activities. Nexus is a framework for developing and sustaining scaled product delivery initiatives. It builds upon Scrum, extending it only where absolutely necessary to minimize and manage dependencies between multiple Scrum Teams while promoting empiricism and the [Scrum Values]({{< ref "/tags/scrum-values" >}}).
-
-    The Nexus framework inherits the purpose and intent of the Scrum framework as documented in the [Scrum Guide](../_guides/scrum-guide.md) Scaled Scrum is still Scrum. Nexus does not change the core design or ideas of Scrum, or leave out elements, or negate the rules of Scrum. Doing so covers up problems and limits the benefits of Scrum, potentially even rendering it useless.
-
-    This Guide contains the definition of Nexus. Each element of the framework serves a specific purpose that is essential to help teams and organizations scale the benefits of Scrum with multiple teams working together.
-
-    As organizations use Nexus, they typically discover complementary patterns, processes, and practices that help them in their application of the Nexus framework. As with Scrum, such tactics vary widely and are described elsewhere.
-
-    ![The Nexus Framework](../../assets/images/nexus-framework.png)
-
-    # Nexus Definition
-
-    A Nexus is a group of approximately three to nine Scrum Teams that work together to deliver a single product; it is a connection between people and things. A Nexus has a single [Product Owner]({{< ref "/tags/product-owner" >}}) who manages a single [Product Backlog]({{< ref "/tags/product-backlog" >}}) from which the Scrum Teams work.
-
-    The Nexus framework defines the accountabilities, events, and artifacts that bind and weave together the work of the Scrum Teams in a Nexus. Nexus builds upon Scrum's foundation, and its parts will be familiar to those who have used Scrum. It minimally extends the Scrum framework only where absolutely necessary to enable multiple teams to work from a single Product Backlog to build an Integrated [Increment]({{< ref "/tags/increment" >}}) that meets a goal.
-
-    # Nexus Theory
-
-    At its heart, Nexus seeks to preserve and enhance Scrum's foundational bottom-up intelligence and empiricism while enabling a group of Scrum Teams to deliver more value than can be achieved by a single team. The goal of Nexus is to scale the value that a group of Scrum Teams, working on a single product, is able to deliver. It does this by reducing the complexity that those teams encounter as they collaborate to deliver an integrated, valuable, useful product Increment at least once every Sprint.
-
-    The Nexus Framework helps teams solve common scaling challenges like reducing cross-team dependencies, preserving team self-management and [transparency]({{< ref "/tags/transparency" >}}), and ensuring accountability. Nexus helps to make transparent dependencies. These dependencies are often caused by mismatches related to:
-
-    1.  **Product structure:** The degree to which different concerns are independently separated in the product will greatly affect the complexity of creating an integrated product release.
-    2.  **Communication structure:** The way that people communicate within and between teams affects their ability to get work done; delays in communication and feedback reduce the flow of work.
-
-    Nexus provides opportunities to change the process, product structure, and communication structure to reduce or remove these dependencies.
-
-    While often counterintuitive, scaling the value that is delivered does not always require adding more people. Increasing the number of people and the size of a product increases complexity and dependencies, the need for collaboration, and the number of communication pathways involved in making decisions. Scaling-down, reducing the number of people who work on something, can be an important practice in delivering more value.
-
-    # The Nexus Framework
-
-    Nexus builds upon Scrum by enhancing the foundational elements of Scrum in ways that help solve the dependency and collaboration challenges of cross-team work. Nexus (see Figure 1) reveals an empirical process that closely mirrors Scrum.
-
-    Nexus extends Scrum in the following ways:
-
-    - **Accountabilities**: The Nexus Integration Team ensures that the Nexus delivers a valuable, useful Integrated Increment at least once every Sprint. The Nexus Integration Team consists of the Product Owner, a [Scrum Master]({{< ref "/tags/scrum-master" >}}), and Nexus Integration Team Members.
-    - **Events**: Events are appended to, placed around, or replace regular Scrum events to augment them. As modified, they serve both the overall effort of all Scrum Teams in the Nexus, and each individual team. A Nexus Sprint Goal is the objective for the Sprint.
-    - **Artifacts**: All Scrum Teams use the same, single Product Backlog. As the Product Backlog items are refined and made ready, indicators of which team will most likely do the work inside a Sprint are made transparent. A Nexus Sprint Backlog exists to assist with transparency during the Sprint. The Integrated Increment represents the current sum of all integrated work completed by a Nexus.
-
-    Figure 1: The Nexus Framework
-
-    # Accountabilities in Nexus
-
-    A Nexus consists of Scrum Teams that work together toward a Product Goal. The Scrum framework defines three specific sets of accountabilities within a [Scrum Team]({{< ref "/tags/scrum-team" >}}): the Developers, the Product Owner, and the Scrum Master. These accountabilities are prescribed in the Scrum Guide. In Nexus, an additional accountability is introduced, the Nexus Integration Team.
-
-    ## Nexus Integration Team 
-
-    The Nexus Integration Team is accountable for ensuring that a done Integrated Increment (the combined work completed by a Nexus) is produced at least once a Sprint. It provides the focus that makes possible the accountability of multiple Scrum Teams to come together to create valuable, useful Increments, as prescribed in Scrum.
-
-    While Scrum Teams address integration issues within the Nexus, the Nexus Integration Team provides a focal point of integration for the Nexus. Integration includes addressing technical and non-technical cross-functional team constraints that may impede a Nexus' ability to deliver a constantly Integrated Increment. It should use bottom-up intelligence from within the Nexus to achieve resolution.
-
-    The Product Owner, a Scrum Master, and the appropriate members from the Scrum Teams belong to the Nexus Integration Team. Appropriate members are the people with the necessary skills and knowledge to help resolve the issues the Nexus faces at any point in time. Composition of the Nexus Integration Team may change over time to reflect the current needs of a Nexus. Common activities the Nexus Integration Team might perform include [coaching]({{< ref "/tags/coaching" >}}), consulting, and highlighting awareness of dependencies and cross-team issues.
-
-    The Nexus Integration Team consists of:
-
-    - **The Product Owner:** A Nexus works off a single Product Backlog, and as described in Scrum, a Product Backlog has a single Product Owner who has the final say on its contents. The Product Owner is accountable for maximizing the value of the product and the work performed and integrated by the Scrum Teams in a Nexus. The Product Owner is also accountable for effective Product Backlog management. How this is done may vary widely across organizations, Nexuses, Scrum Teams, and individuals.
-    - **A Scrum Master:** The Scrum Master in the Nexus Integration Team is accountable for ensuring the Nexus framework is understood and enacted as described in the Nexus Guide. This Scrum Master may also be a Scrum Master in one or more of the Scrum Teams in the Nexus.
-    - **One or more\*\***Nexus Integration Team Members:\*\* The Nexus Integration Team often consists of Scrum Team members who help the Scrum Teams to adopt tools and practices that contribute to the Scrum Teams' ability to deliver a valuable and useful Integrated Increment that frequently meets the [Definition of Done]({{< ref "/tags/definition-of-done" >}}).
-
-    The Nexus Integration Team is responsible for coaching and guiding the Scrum Teams to acquire, implement, and learn practices and tools that improve their ability to produce a valuable, useful Increment.
-
-    Membership in the Nexus Integration Team takes precedence over individual Scrum Team membership. As long as their Nexus Integration Team responsibility is satisfied, they can work as team members of their respective Scrum Teams. This preference helps ensure that the work to resolve issues affecting multiple teams has priority.
-
-    ## Nexus Events  
-
-    Nexus adds to or extends the events defined by Scrum. The duration of Nexus events is guided by the length of the corresponding events in the Scrum Guide. They are timeboxed in addition to their corresponding Scrum events.
-
-    At scale, it may not be practical for all members of the Nexus to participate to share information or to come to an agreement. Except where noted, Nexus events are attended by whichever members of the Nexus are needed to achieve the intended outcome of the event most effectively.
-
-    Nexus events consist of:
-
-    ## The Sprint
-
-    A Sprint in Nexus is the same as in Scrum. The Scrum Teams in a Nexus produce a single Integrated Increment.
-
-    ## Cross-Team Refinement
-
-    Cross-Team Refinement of the Product Backlog reduces or eliminates cross-team dependencies within a Nexus. The Product Backlog must be decomposed so that dependencies are transparent, identified across teams, and removed or minimized. Product Backlog items pass through different levels of decomposition from very large and vague requests to actionable work that a single Scrum Team could deliver inside a Sprint.
-
-    Cross-Team Refinement of the Product Backlog at scale serves a dual purpose:
-
-    - It helps the Scrum Teams forecast which team will deliver which Product Backlog items.
-    - It identifies dependencies across those teams.
-
-    Cross-Team Refinement is ongoing. The frequency, duration, and attendance of Cross-Team Refinement varies to optimize these two purposes.
-
-    Where needed, each Scrum Team will continue their own refinement in order for the Product Backlog items to be ready for selection in a Nexus Sprint Planning event. An adequately refined Product Backlog will minimize the emergence of new dependencies during Nexus Sprint Planning.
-
-    ## Nexus Sprint Planning
-
-    The purpose of Nexus Sprint Planning is to coordinate the activities of all Scrum Teams within a Nexus for a single Sprint. Appropriate representatives from each Scrum Team and the Product Owner meet to plan the Sprint.
-
-    The result of Nexus Sprint Planning is:
-
-    - a Nexus Sprint Goal that aligns with the Product Goal and describes the purpose that will be achieved by the Nexus during the Sprint
-    - a Sprint Goal for each Scrum Team that aligns with the Nexus Sprint Goal
-    - a single Nexus Sprint Backlog that represents the work of the Nexus toward the Nexus Sprint Goal and makes cross-team dependencies transparent
-    - A Sprint Backlog for each Scrum Team, which makes transparent the work they will do in support of the Nexus Sprint Goal
-
-    ## Nexus [Daily Scrum]({{< ref "/tags/daily-scrum" >}})
-
-    The purpose of the Nexus Daily Scrum is to identify any integration issues and inspect progress toward the Nexus Sprint Goal. Appropriate representatives from the Scrum Teams attend the Nexus Daily Scrum, inspect the current state of the integrated Increment, and identify integration issues and newly discovered cross-team dependencies or impacts. Each Scrum Team's Daily Scrum complements the Nexus Daily Scrum by creating plans for the day, focused primarily on addressing the integration issues raised during the Nexus Daily Scrum.
-
-    The Nexus Daily Scrum is not the only time Scrum Teams in the Nexus are allowed to adjust their plan. Cross-team communication can occur throughout the day for more detailed discussions about adapting or re-planning the rest of the Sprint's work.
-
-    ## Nexus [Sprint Review]({{< ref "/tags/sprint-review" >}})
-
-    The Nexus Sprint Review is held at the end of the Sprint to provide feedback on the done Integrated Increment that the Nexus has built over the Sprint and determine future adaptations.
-
-    Since the entire Integrated Increment is the focus for capturing feedback from stakeholders, a Nexus Sprint Review replaces individual Scrum Team Sprint Reviews. During the event, the Nexus presents the results of their work to key stakeholders and progress toward the Product Goal is discussed, although it may not be possible to show all completed work in detail. Based on this information, attendees collaborate on what the Nexus should do to address the feedback. The Product Backlog may be adjusted to reflect these discussions.
-
-    ## Nexus Sprint Retrospective
-
-    The purpose of the Nexus Sprint Retrospective is to plan ways to increase quality and effectiveness across the whole Nexus. The Nexus inspects how the last Sprint went with regards to individuals, teams, interactions, processes, tools, and its Definition of Done. In addition to individual team improvements, the Scrum Teams' Sprint Retrospectives complement the Nexus Sprint Retrospective by using bottom-up intelligence to focus on issues that affect the Nexus as a whole.
-
-    The Nexus Sprint Retrospective concludes the Sprint.
-
-    # Nexus Artifacts and Commitments
-
-    Artifacts represent work or value, and are designed to maximize transparency, as described in the Scrum Guide. The Nexus Integration Team works with the Scrum Teams within a Nexus to ensure that transparency is achieved across all artifacts and that the state of the Integrated Increment is widely understood.
-
-    Nexus extends Scrum with the following artifacts, and each artifact contains a commitment, as indicated below. These commitments exist to reinforce empiricism and the Scrum value for the Nexus and its stakeholders.
-
-    ## Product Backlog
-
-    There is a single Product Backlog that contains a list of what is needed to improve the product for the entire Nexus and all of its Scrum Teams. At scale, the Product Backlog must be understood at a level where dependencies can be detected and minimized. The Product Owner is accountable for the Product Backlog, including its content, availability, and ordering.
-
-    ### Commitment: Product Goal
-
-    The _commitment_ for the Product Backlog is the **Product Goal**. The Product Goal, which describes the future state of the product and serves as a long-term goal of the Nexus.
-
-    ## Nexus Sprint Backlog
-
-    A Nexus Sprint Backlog is the composite of the Nexus Sprint Goal and Product Backlog items from the Sprint Backlogs of the individual Scrum Teams. It is used to highlight dependencies and the flow of work during the Sprint. The Nexus Sprint Backlog is updated throughout the Sprint as more is learned. It should have enough detail that the Nexus can inspect their progress in the Nexus Daily Scrum.
-
-    ### Commitment: Nexus Sprint Goal
-
-    The _commitment_ for the Nexus Sprint Backlog is the **Nexus Sprint Goal**. The Nexus Sprint Goal is a single objective for the Nexus. It is the sum of all the work and Sprint Goals of the Scrum Teams within the Nexus. It creates coherence and focus for the Nexus for the Sprint by encouraging the Scrum Teams to work together rather than on separate initiatives. The Nexus Sprint Goal is created at the Nexus Sprint Planning event and added to the Nexus Sprint Backlog. As Scrum Teams work during the Sprint, they keep the Nexus Sprint Goal in mind. The Nexus should demonstrate the valuable and useful functionality that is done to achieve the Nexus Sprint Goal at the Nexus Sprint Review in order to receive stakeholder feedback.
-
-    ## Integrated Increment
-
-    The Integrated Increment represents the current sum of all integrated work completed by a Nexus toward the Product Goal. The Integrated Increment is inspected at the Nexus Sprint Review, but may be delivered to stakeholders before the end of the Sprint. The Integrated Increment must meet the Definition of Done.
-
-    ### Commitment: Definition of Done
-
-    The _commitment_ for the Integrated Increment is the **Definition of Done,** which defines the state of the integrated work when it meets the quality and measures required for the product. The Increment is done only when integrated, valuable, and usable. The Nexus Integration Team is responsible for a Definition of Done that can be applied to the Integrated Increment developed each Sprint. All Scrum Teams within the Nexus must define and adhere to this Definition of Done. Individual Scrum Teams self-manage to achieve this state. They may choose to apply a more stringent Definition of Done within their own teams, but cannot apply less rigorous criteria than agreed for the Integrated Increment.
-
-    Decisions made based on the state of artifacts are only as effective as the level of artifact transparency. Incomplete or partial information will lead to incorrect or flawed decisions. The impact of those decisions can be magnified at the scale of Nexus.
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\nexus-framework\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\nexus-framework
+    We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
+
+    - **Individuals and interactions** over _processes and tools_
+    - **[Working software]({{< ref "/tags/working-software" >}})** over _comprehensive documentation_
+    - **Customer collaboration** over _contract negotiation_
+    - **Responding to change** over _following a plan_
+
+    That is, while there is value in the items on the right, we value the items on the left more.
+
+    ## Principles behind the Agile Manifesto
+
+    We follow these principles:
+
+    - Our highest priority is to satisfy the customer through early and [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of valuable software.
+    - Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+    - Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+    - Business people and developers must work together daily throughout the project.
+    - Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+    - The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+    - Working software is the primary measure of progress.
+    - Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+    - Continuous attention to [technical excellence]({{< ref "/tags/technical-excellence" >}}) and good design enhances agility.
+    - Simplicity--the art of maximizing the amount of work not done--is essential.
+    - The best architectures, requirements, and designs emerge from self-organizing teams.
+    - At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\manifesto-for-agile-software-development\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides\manifesto-for-agile-software-development
 

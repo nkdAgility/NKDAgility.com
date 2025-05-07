@@ -1,6 +1,6 @@
 ---
 title: The majority of Scrum Masters are not fit for their position
-description: Most Scrum Masters lack essential Scrum knowledge and skills, with only 3% fully meeting role expectations, highlighting a widespread competency gap in agile teams.
+description: Most Scrum Masters lack essential Scrum knowledge, with only 39% meeting core standards. Poor competency threatens team success and highlights the need for better training.
 ResourceId: nTipEJck6ez
 date: 2024-06-03T14:44:00Z
 weight: 705
@@ -42,6 +42,8 @@ platform_signal:
     top_job_title: Product Owner
     top_location: Dallas-Fort Worth Metroplex
     top_industry: IT Services and IT Consulting
+Watermarks:
+  description: 2025-05-07T13:02:52Z
 
 ---
 🚨 The majority of Scrum Masters are not fit for their position! 🚨

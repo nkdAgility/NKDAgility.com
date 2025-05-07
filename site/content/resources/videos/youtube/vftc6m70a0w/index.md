@@ -1,6 +1,6 @@
 ---
 title: 'Embracing Chastity in Agile: Why Taking Your Time is Key to True Transformation'
-description: Discover the overlooked virtue of chastity in agility. Learn how to implement changes thoughtfully for true organisational transformation.
+description: Explores the importance of patience in agile adoption, highlighting inclusive decision-making, stakeholder engagement, and thoughtful organisational change for lasting impact.
 date: 2023-12-04T08:39:06Z
 weight: 800
 ResourceId: vftc6m70a0w
@@ -33,6 +33,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:07:19Z
 
 ---
 In the realm of agility, one of the seven virtues that often gets overlooked is chastity. Now, before you raise an eyebrow, let me clarify: in our agile context, chastity is all about taking your time. It’s about resisting the urge to rush into the implementation of agile practices without fully understanding the implications of those changes within your organisation.

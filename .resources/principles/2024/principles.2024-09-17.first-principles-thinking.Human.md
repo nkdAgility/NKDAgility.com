@@ -1,6 +1,6 @@
 ---
 title: First Principles Thinking
-description: Explains the basics of first principles thinking, a problem-solving approach that breaks issues down to fundamental truths for clearer understanding and innovation.
+description: Explains the basics of first principles thinking, a problem-solving approach that breaks down complex issues into fundamental elements for deeper understanding.
 ResourceId: q6gClR4HS5c
 ResourceImport: false
 ResourceType: principles
@@ -25,6 +25,8 @@ card:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T12:57:52Z
 
 ---
 Coming soon!

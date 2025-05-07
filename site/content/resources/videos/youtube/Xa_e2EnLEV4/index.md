@@ -1,6 +1,6 @@
 ---
 title: 3 best ways to wreck Kanban. Sweep problems under the rug.
-description: Discover the top 3 pitfalls that sabotage Kanban adoption. Learn why ignoring problems can derail your team's success and how to confront them effectively!
+description: Ignoring problems in Kanban leads to workflow blockages, technical debt, and crises. Learn why prompt issue resolution and transparency are vital for effective Kanban.
 date: 2024-03-04T07:00:13Z
 weight: 1000
 ResourceId: Xa_e2EnLEV4
@@ -41,6 +41,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:05:30Z
 
 ---
 ### The Danger of Ignoring Problems in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy
