@@ -1,6 +1,6 @@
 ---
 title: What is the most interesting outcome you have achieved as an agile consultant?
-description: Discover the fascinating outcomes of agile consulting with Martin Hinshelwood as he shares insights on navigating complexity in project management.
+description: Real-world examples of agile consulting outcomes, highlighting both challenges and successes in agile transformation, DevOps adoption, and holistic Scrum training.
 date: 2023-03-20T07:00:20Z
 weight: 590
 ResourceId: zoAhqsEqShs
@@ -35,6 +35,8 @@ resourceTypes:
 categories:
 - Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:13:37Z
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

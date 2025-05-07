@@ -1,6 +1,6 @@
 ---
 title: Overview of 'applying metrics for predictability' Kanban course.
-description: "Unlock your team's potential! Discover how to enhance predictability in delivery using Kanban metrics in this insightful course overview. \U0001F680\U0001F4CA #Kanban #Agile"
+description: Learn how to use Kanban metrics like cycle time and throughput to improve team predictability, make accurate forecasts, and deliver consistent project outcomes.
 date: 2024-02-20T07:00:27Z
 weight: 1000
 ResourceId: gjrvSJWE0Gk
@@ -39,6 +39,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:05:41Z
 
 ---
 ### Enhancing Team Predictability with [Kanban]({{< ref "/categories/kanban" >}}): The "Applying Metrics for Predictability" Course

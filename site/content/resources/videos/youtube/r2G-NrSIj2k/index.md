@@ -1,6 +1,6 @@
 ---
 title: Code Reviews for Quality Assurance
-description: Reimagine code reviews with Martin Hinshelwood! Discover how automation and a shift-left approach enhance quality and speed in software development.
+description: Explores modern code review practices, emphasising automation, pre-reviewed code, and shift-left strategies to improve software quality, speed, and team collaboration.
 date: 2024-11-27T06:00:25Z
 weight: 255
 ResourceId: r2G-NrSIj2k
@@ -34,6 +34,8 @@ resourceTypes:
 categories:
 - Engineering Excellence
 - DevOps
+Watermarks:
+  description: 2025-05-07T12:57:02Z
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

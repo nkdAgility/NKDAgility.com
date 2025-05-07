@@ -1,6 +1,6 @@
 ---
 title: VSTS Sync Migration Tool Update and Bugfix
-description: Discover the latest updates and bug fixes for the VSTS Sync Migration Tool, enhancing your TFS and VSTS experience. Streamline your project migrations today!
+description: VSTS Sync Migration Tool adds new features and bug fixes for bulk work item updates, project migration, query transfer, and improved notifications for TFS and VSTS users.
 ResourceId: QO9MQIxxcoy
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -31,6 +31,8 @@ tags: []
 categories:
 - Uncategorized
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
+Watermarks:
+  description: 2025-05-07T13:16:35Z
 
 ---
 The [VSTS Sync Migration tools](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) have been updated with new features and bug fixes for common issues reported by users.

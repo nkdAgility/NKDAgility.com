@@ -1,6 +1,6 @@
 ---
 title: 'Mastering the Art of Scaling Agile: Strategies to Maintain Agility Across Multiple Teams'
-description: Unlock the secrets to scaling agile effectively! Discover tailored strategies to maintain agility across multiple teams and navigate complexities with ease.
+description: Learn effective strategies for scaling agile across multiple teams, managing dependencies, avoiding common pitfalls, and maintaining agility as your organisation grows.
 date: 2025-02-26T06:00:08Z
 weight: 630
 ResourceId: 8lUeIYEGg7k
@@ -41,6 +41,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T12:49:25Z
 
 ---
 Agile works exceptionally well when it’s just one team, doesn’t it? The simplicity of interactions, the fluidity of communication, and the ability to pivot quickly are all hallmarks of a well-functioning agile team. However, what happens when you scale up to ten or more teams? Suddenly, those straightforward interactions become a tangled web of dependencies, and before you know it, everything slows down to a crawl. Does this scenario resonate with you?

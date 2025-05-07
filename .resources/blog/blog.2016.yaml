@@ -1,6 +1,6 @@
 - FrontMatter:
     title: Kalabule or a Professional at Agile in Africa
-    description: Explore the call for professionalism in Africa's software industry. Join Martin Hinshelwood as he challenges the 'kalabule' mindset and promotes agile values.
+    description: Explores the contrast between unprofessional "kalabule" practices and true professionalism in Agile software development, emphasising core values and industry standards.
     ResourceId: yUp0v2lyPX6
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -28,6 +28,8 @@
     categories:
     - Uncategorized
     preview: clip_image001-2-2.png
+    Watermarks:
+      description: 2025-05-07T13:16:40Z
   BodyContent: |
     I have been honoured by being asked to speak at [Agile in Africa](http://agileinafrica.com/) today on the topic of [Kalabule or a Professional at Agile in Africa](http://agileinafrica.com/speaker/martin-hinshelwood/). I was a little disappointed when Nana asked me, as I had already booked a customer on those dates in Houston, Texas. Nana asked if I could do remote, so I could attend anyway :). This is my second presentation at Agile In Africa, and it sounds like this years event is just as awesome as the last.
 
@@ -65,7 +67,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2016\2016-10-27-kalabule-or-a-professional-at-agile-in-africa
 - FrontMatter:
     title: VSTS Sync Migration Tools
-    description: Discover VSTS Sync Migration Tools for seamless data migration from TFS to VSTS. Simplify your transition and enhance your DevOps processes today!
+    description: Open-source tools for migrating work items, test plans, teams, and project structures between TFS and VSTS, supporting consolidation and flexible data transfer.
     ResourceId: UjyqYjINUfp
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -92,6 +94,8 @@
     categories:
     - Uncategorized
     preview: image_thumb-1-1.png
+    Watermarks:
+      description: 2025-05-07T13:16:41Z
   BodyContent: |
     I have been working with a number of customers in the last year that want to move to VSTS. While many of them want to do the full Collection import, many do not.
 
@@ -118,7 +122,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2016\2016-10-26-vsts-sync-migration-tools
 - FrontMatter:
     title: Scaling Professional Scrum with Visual Studio Team Services
-    description: Discover how to scale Professional Scrum using Visual Studio Team Services. Learn strategies for effective team collaboration and automation in your projects.
+    description: Explains how to scale Professional Scrum across multiple teams using Visual Studio Team Services, covering automation, Nexus integration, and practical setup guidance.
     ResourceId: pErrcS8DxcQ
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -152,6 +156,8 @@
     - Scrum
     - Product Development
     preview: Scalled-Professional-Scrum-1280-2-2.jpg
+    Watermarks:
+      description: 2025-05-07T13:16:43Z
   BodyContent: |
     Last week I was teaching a Professional [Scrum]({{< ref "/categories/scrum" >}}) Foundations in Farnborough and I had to make sure that I got a hotel with awesome internet access. As well as teaching the class I Have two additional tasks for the week. The first was to have the honour of talking on ScrumPulse, Scrum.org's webcast, and the second was to talk at the prestigious Dutch ALM Meetup.
 
@@ -191,7 +197,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2016\2016-07-06-scaling-professional-scrum-visual-studio-team-services
 - FrontMatter:
     title: Open-source with VSTS or TFS and Github for better DevOps
-    description: Discover how to sync your code between VSTS and GitHub for seamless DevOps. Leverage open-source benefits while maximizing VSTS capabilities. Learn more!
+    description: Learn how to automate code synchronisation between VSTS/TFS and GitHub, enabling seamless DevOps workflows for open-source projects with flexible configuration options.
     ResourceId: LWHiaHn3CWF
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -229,6 +235,8 @@
     categories:
     - DevOps
     preview: nakedalm-experts-visual-studio-alm-14-14.png
+    Watermarks:
+      description: 2025-05-07T13:16:44Z
   BodyContent: |
     I have had quite a few requests from folks that want to use the full capabilities of VSTS or TFS but really need to have the code published in [Github]({{< ref "/tags/github" >}}) as it is Open-Source. Well I build a few Open-Source projects and I want to have my cake and eat it too.. I want to be able to use the full power of VSTS to reduce the friction of doing Agility and [DevOps]({{< ref "/categories/devops" >}}), but I want to publish the code and output to Github for public consumption. As Github really is the only place to store OSS software we need to figure out how to handle that.
 
@@ -350,7 +358,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2016\2016-05-10-open-source-vsts-tfs-github-better-devops
 - FrontMatter:
     title: Migrating from Codeplex to Github
-    description: Learn how to successfully migrate your projects from Codeplex to GitHub with practical tips and tools. Streamline your workflow and embrace open source!
+    description: Step-by-step guide to migrating a Codeplex repository to GitHub, covering tool limitations, using Git-TF for code and history, and converting wiki pages to Markdown.
     ResourceId: kgtNo8tGkjS
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -383,6 +391,8 @@
     categories:
     - Uncategorized
     preview: clip_image001-1-1.png
+    Watermarks:
+      description: 2025-05-07T13:16:45Z
   BodyContent: |
     I have a repository on Codeplex that was the result of the code that I had to write to move my blog from GeeksWithBlogs many moons ago over to Wordpress. This was a very difficult process and recently quite a few of my friends have had to go through it as well. Since GeeksWithBlogs has been sold to 'the man' many bugs have crept into the system and features are sparse. With the most recent request for access I decided it was time to ditch Codeplex and move to [Github]({{< ref "/tags/github" >}}). If you have not seen the writing on the wall yet the only Open Source host of any note is GitHub. All my private repositories are in VSTS ([http://tfs.visualstudio.com](http://tfs.visualstudio.com)) but anything Open Source will be moved to GitHub.
 
@@ -449,7 +459,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2016\2016-03-02-migrating-codeplex-github
 - FrontMatter:
     title: Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup
-    description: Learn how to map Windows special folders to OneDrive for Business for seamless backup and access across devices. Keep your files safe and synced effortlessly!
+    description: Learn how to sync Windows special folders like Documents and Desktop to OneDrive for Business, ensuring automatic cloud backup and easy access across all your devices.
     ResourceId: mKq16PgA7Ks
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -483,6 +493,8 @@
     categories:
     - Uncategorized
     preview: clip_image001-1-1.png
+    Watermarks:
+      description: 2025-05-07T13:16:48Z
   BodyContent: |
     Do you worry that you will lose files on your computer? Well you should! At any time your harddrive can fail, or your house could be hit by a meteor, or stolen. I keep everything on my computer encrypted with BitLocker and can remote wipe any of my data, however I want to be able to access it from anywhere. Everything needs to be in at least two locations to be called a backup, a local separate disk is only partial backup and realis on being at home to backup leading to stale data. That means that the only viable place to securely store your data is the cloud.
 
@@ -516,7 +528,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2016\2016-02-10-mapping-windows-special-folders-onedrive-business-ultimate-backup
 - FrontMatter:
     title: Moving OneDrive for Business files to a different drive
-    description: Learn how to efficiently move your OneDrive for Business files to a new drive, freeing up space and ensuring seamless access. Follow these easy steps!
+    description: Step-by-step guide to moving OneDrive for Business files to a different drive in Windows without re-downloading, freeing up space and preserving file sync and settings.
     ResourceId: qgSgXAu_d6a
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -549,6 +561,8 @@
     categories:
     - Uncategorized
     preview: clip_image001-1-1-1.png
+    Watermarks:
+      description: 2025-05-07T13:16:49Z
   BodyContent: |
     I recent ran into a problem where my OneDrive files were taking up too much space on my main drive and preventing [Windows]({{< ref "/tags/windows" >}}) 10 updates on the Insider Program. This works for both OneDrive consumer application and the new OnDrive for Business beta application.
 
@@ -601,7 +615,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2016\2016-02-03-moving-onedrive-business-files-different-drive
 - FrontMatter:
     title: Agile in Africa 2016
-    description: Join the Agile in Africa 2016 event in Accra, Ghana, and discover how to enhance development practices while connecting with industry experts. Sign up now!
+    description: Agile in Africa 2016 brought together experts in Accra, Ghana to promote genuine Agile practices, share knowledge, and support local development initiatives.
     ResourceId: YQ8HMmx0-kz
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -632,6 +646,8 @@
     categories:
     - Uncategorized
     preview: clip_image001-1-2-2.jpg
+    Watermarks:
+      description: 2025-05-07T13:16:50Z
   BodyContent: |
     When someone comes to you with an opportunity in the developing world you better have a good reason to say no. For the last few years Nana Abana had been trying to achieve the impossible, conduct a high profile Agile event in West Africa. It's not just the holding of the event that seemed impossible, but getting together a group of people that can really bring agility to Africa. Up until now many of the endeavours  into agility in west africa have been pushed by sharlotons that are intent only in profiting from Africa and not improving development practices. Making money and not helping people. It is posible to do both, but you will need to invest up front to get there.
 
@@ -672,7 +688,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2016\2016-01-27-agile-africa-2016
 - FrontMatter:
     title: Branch Policies for TFVC
-    description: Explore effective branch policies for TFVC to streamline your development process. Learn how to implement checks and improve code quality with ease!
+    description: Explains how to apply and manage branch policies in TFVC using regular expressions, enabling code reviews, branch locks, and work item requirements across multiple branches.
     ResourceId: _26VFOA-vCe
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -706,6 +722,8 @@
     categories:
     - Uncategorized
     preview: image-2-2-2.png
+    Watermarks:
+      description: 2025-05-07T13:16:51Z
   BodyContent: |
     I have been working with a large customer in Norway that is moving to TFS whole sale and also needs to continue using a server based source control system for the time being. It would be awesome for them to be able to move to Git, however the codebase is currently incompatible. Work is ongoing to remove this issue, and many components will be able to move as soon as we can add Git repositories to a TFVC Team Project (in TFS 2015 Update 1). SO in the mean time we need a way to apply policies to particular branches.
 
@@ -747,7 +765,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2016\2016-01-13-branch-policies-tfvc
 - FrontMatter:
     title: Professional Scrum Courses for 2016 in Oslo, Norway
-    description: Join our Professional Scrum courses in Oslo and Kongsberg to master Agile practices and elevate your Scrum skills. Enroll now for a successful 2016!
+    description: Details 2016 Professional Scrum Master and Developer courses in Oslo and Kongsberg, covering advanced Scrum, coaching, DevOps, and Agile practices for teams and organisations.
     ResourceId: gS7et381AGm
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -783,6 +801,8 @@
     categories:
     - Scrum
     preview: clip_image001-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:16:52Z
   BodyContent: |
     Just before the end of the year I taught my [first Professional Scrum Master course in Norway](http://nkdagility.com/training/courses/professional-scrum-master/) and it was a resounding success. We had 30 students from some of the largest and most successful companies in Norway. The feedback was incredible and I had an awesome time teaching it.
 

@@ -1,6 +1,6 @@
 ---
 title: Hiring a Professional Product Owner
-description: Discover the essential qualities of a Professional Product Owner. Learn how to maximize product value and enhance team collaboration for success.
+description: Explains the key accountabilities, skills, and behaviours required for a Scrum Product Owner, including hiring trends, role requirements, and practical job specifications.
 ResourceId: Stln5As7Fof
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -54,6 +54,8 @@ categories:
 - Product Management
 - Scrum
 preview: image-3-3.png
+Watermarks:
+  description: 2025-05-07T13:14:56Z
 
 ---
 One of my customers is asking me about the accountabilities of a [Product Owner]({{< ref "/tags/product-owner" >}}) and how they break down. While I had seen many things around the [Scrum]({{< ref "/categories/scrum" >}}) Master for my post on [Hiring a Professional Scrum Master](https://nkdagility.com/blog/hiring-a-professional-scrum-master/), this was a little bit more of a discovery session, which is why I asked some of my trusted colleagues at Scrum.org to help out.

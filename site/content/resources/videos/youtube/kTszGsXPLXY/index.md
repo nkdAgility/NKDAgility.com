@@ -1,6 +1,6 @@
 ---
 title: Getting started with Kanban.
-description: Discover how to effortlessly launch a Kanban pilot in your organisation, tackle common challenges, and leverage metrics for workflow improvement!
+description: Learn how to launch a Kanban pilot, define workflows, use metrics like cycle time and throughput, and foster continuous improvement for better team productivity.
 date: 2024-02-14T07:00:19Z
 weight: 1000
 ResourceId: kTszGsXPLXY
@@ -43,6 +43,8 @@ resourceTypes:
 categories:
 - Product Development
 - Kanban
+Watermarks:
+  description: 2025-05-07T13:05:46Z
 
 ---
 ### Getting Started with [Kanban]({{< ref "/categories/kanban" >}}): A Guide to Initiating Your First Kanban Pilot

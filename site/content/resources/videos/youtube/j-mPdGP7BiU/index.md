@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Product Development: From Assumptions to Hypotheses'
-description: Unlock the power of assumptions in product development! Learn to identify, validate, and test assumptions for data-driven decisions. A must-watch for product teams!
+description: Learn to identify, prioritise, and test assumptions in product development by turning them into hypotheses, managing experimentation costs, and making data-driven decisions.
 date: 2024-08-10T07:00:32Z
 weight: 1000
 ResourceId: j-mPdGP7BiU
@@ -40,6 +40,8 @@ resourceTypes:
 categories:
 - Product Development
 - Product Management
+Watermarks:
+  description: 2025-05-07T13:02:14Z
 
 ---
 In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.

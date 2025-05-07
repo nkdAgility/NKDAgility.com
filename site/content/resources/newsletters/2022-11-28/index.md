@@ -1,6 +1,6 @@
 ---
 title: Futureproof Yourself With Skills, Capabilities And Certifications That Companies Care About
-description: Unlock your agility potential! Upskill with our Scrum courses to thrive in today's complex market and stand out as a valuable asset. Join us now!
+description: Learn which skills, capabilities, and certifications make you stand out to employers, boost your agility, and stay competitive in today’s fast-changing job market.
 ResourceId: Kn3i3yGquon
 ResourceImport: true
 ResourceType: newsletters
@@ -22,6 +22,8 @@ aliasesArchive:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:14:40Z
 
 ---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.

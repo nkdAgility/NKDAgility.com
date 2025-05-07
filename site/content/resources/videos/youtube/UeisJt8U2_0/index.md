@@ -1,6 +1,6 @@
 ---
 title: 7 Harbingers of the Agile Apocalypse - Plague
-description: "Explore the parallels between ancient myths and today's agile challenges as Martin tackles the plague of incompetent coaches. Join the journey! \U0001F32C️\U0001F412"
+description: Explores the widespread issue of incompetent Agile coaches and Scrum Masters, its impact on teams and organisations, and practical steps to restore true Agile values.
 date: 2023-10-20T07:00:23Z
 weight: 640
 ResourceId: UeisJt8U2_0
@@ -40,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:08:34Z
 
 ---
 # Navigating the Plague of Incompetence in Agile [Coaching]({{< ref "/tags/coaching" >}}) 🚧

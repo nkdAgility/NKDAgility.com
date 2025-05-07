@@ -1,6 +1,6 @@
 ---
 title: You can't stop the signal! But you can ignore it!
-description: Explore how Agile and Scrum illuminate challenges in teams and organizations, fostering a culture of continuous improvement and responsiveness to critical signals.
+description: Explores why teams ignore clear signals from Agile and Scrum, highlighting how culture and fear hinder continuous improvement and effective problem-solving in organisations.
 ResourceId: KHNSdDjr5K_
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -47,6 +47,8 @@ tags:
 - Empirical Process Control
 - Software Development
 - Sociotechnical Systems
+Watermarks:
+  description: 2025-05-07T13:05:16Z
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and [Scrum]({{< ref "/categories/scrum" >}}) (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

@@ -1,6 +1,6 @@
 ---
 title: Why do you prefer agile consulting over agile coaching?
-description: Discover why Martin Hinshelwood prefers agile consulting over coaching in this insightful video, exploring the benefits of short-term engagements for agile teams.
+description: Explains why agile consulting is preferred over coaching, focusing on empowering internal leadership, fostering self-reliant teams, and enabling sustainable organisational change.
 date: 2023-03-14T07:00:05Z
 weight: 665
 ResourceId: FJjiCodxyK4
@@ -33,6 +33,8 @@ resourceTypes:
 - video
 categories:
 - Leadership
+Watermarks:
+  description: 2025-05-07T13:13:42Z
 
 ---
 **Why do you prefer agile consulting over agile [coaching]({{< ref "/tags/coaching" >}})?**

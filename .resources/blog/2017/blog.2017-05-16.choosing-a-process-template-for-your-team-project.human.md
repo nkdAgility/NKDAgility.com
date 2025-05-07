@@ -1,6 +1,6 @@
 ---
 title: Choosing a Process Template for your Team Project
-description: Discover the best process template for your agile team project. Learn why the Scrum template minimizes friction and enhances your development workflow.
+description: Guidance on selecting the best process template for team projects in TFS or VSTS, highlighting why the Scrum template reduces friction for agile teams over Agile or CMMI.
 ResourceId: dGSGEOYRJAo
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -31,6 +31,8 @@ categories:
 - Scrum
 - Product Development
 preview: IC749984-1-1.png
+Watermarks:
+  description: 2025-05-07T13:16:38Z
 
 ---
 Over the years I have had many discussions about Agile vs [Scrum]({{< ref "/categories/scrum" >}}) process templates with both TFS and VSTS and migrated many Team Projects from Agile or CMMI templates to the Scrum Template.

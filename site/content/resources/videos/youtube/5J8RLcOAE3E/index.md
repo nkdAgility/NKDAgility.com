@@ -1,6 +1,6 @@
 ---
 title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments"
-description: Discover how to enhance continuous delivery in complex environments with audience-based strategies, testing in production, and a commitment to improvement.
+description: Explores why fixed best practices don't suit complex continuous delivery, highlighting adaptive approaches like audience-based delivery, testing in production, and ongoing improvement.
 date: 2025-01-23T06:30:03Z
 weight: 255
 ResourceId: 5J8RLcOAE3E
@@ -46,6 +46,8 @@ categories:
 - Engineering Excellence
 - Product Development
 - DevOps
+Watermarks:
+  description: 2025-05-07T12:49:55Z
 
 ---
 I often find myself in discussions about the best practices for enabling [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) within teams. It’s a question that comes up frequently, and I want to address it head-on: there are no best practices in complex environments. Best practices are a concept that applies to simple tasks in straightforward situations where a procedure can be followed consistently to achieve the same results. However, the world we operate in is anything but simple.

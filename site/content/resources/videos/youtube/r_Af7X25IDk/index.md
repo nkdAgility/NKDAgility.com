@@ -1,6 +1,6 @@
 ---
 title: 'Navigating Agile Transformation: Empowering Teams for Success in a Rapidly Changing Landscape'
-description: Unlock the secrets to effective Agile leadership! Discover how to empower teams, focus on value, and embrace change in a fast-paced world.
+description: Explores effective Agile transformation by empowering teams, improving collaboration, focusing on value delivery, and fostering continuous improvement in fast-changing environments.
 date: 2020-04-17T18:57:11Z
 weight: 590
 ResourceId: r_Af7X25IDk
@@ -46,6 +46,8 @@ categories:
 - Leadership
 - Technical Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:15:47Z
 
 ---
 In my journey through the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I've often found myself reflecting on the profound changes that have swept through our industries over the past decade and a half. Today, I want to share some insights from my recent presentation on leading Agile change, particularly in the context of the challenges we face in adapting to a rapidly evolving landscape.

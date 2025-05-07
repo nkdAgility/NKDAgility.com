@@ -1,6 +1,6 @@
 ---
 title: Why have you decided to go all in on immersive learning experiences?
-description: "Discover how immersive learning transforms training into a journey of engagement and growth with Martin! Embrace a new way to learn. \U0001F331\U0001F4DA"
+description: Explores how immersive learning boosts engagement, retention, and understanding through hands-on practice, community support, and continuous, interactive learning.
 date: 2023-07-10T07:00:18Z
 weight: 1000
 ResourceId: qEaiA_m8Vyg
@@ -32,6 +32,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:10:56Z
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

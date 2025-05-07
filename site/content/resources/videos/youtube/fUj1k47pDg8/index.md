@@ -1,6 +1,6 @@
 ---
 title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
-description: Unlock the secrets to effective product development! Discover how to challenge assumptions and enhance user understanding in our PPD V course.
+description: Learn how to identify and challenge assumptions in product development, avoid the feature factory trap, and use discovery, experimentation, and validation to meet real user needs.
 date: 2024-08-13T07:14:40Z
 weight: 680
 ResourceId: fUj1k47pDg8
@@ -36,6 +36,8 @@ resourceTypes:
 categories:
 - Product Development
 - Product Management
+Watermarks:
+  description: 2025-05-07T13:02:11Z
 
 ---
 Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in [product development]({{< ref "/categories/product-development" >}}). As I’ve observed in various organisations, there’s often a heavy focus on delivery—specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.

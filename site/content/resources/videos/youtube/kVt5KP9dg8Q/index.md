@@ -1,6 +1,6 @@
 ---
 title: 'Detecting Agile BS: Lessons from the Department of Defense'
-description: "Is your development ecosystem truly Agile? Discover insights from the DoD and learn to eliminate bottlenecks for seamless, innovative delivery! \U0001F680"
+description: Explores why true organisational agility needs more than Agile development, highlighting the importance of continuous delivery, quality, and removing bureaucratic barriers.
 date: 2024-08-02T06:45:02Z
 weight: 360
 ResourceId: kVt5KP9dg8Q
@@ -44,6 +44,8 @@ resourceTypes:
 categories:
 - Product Development
 - Engineering Excellence
+Watermarks:
+  description: 2025-05-07T13:02:19Z
 
 ---
 In the realm of Agile, there's a common trap that many organizations fall into: the belief that implementing Agile development practices is enough to achieve true agility. However, as the Department of Defense's "Detecting Agile BS" guide reveals, Agile development alone isn't sufficient if the rest of the system operates in a traditional, bureaucratic manner. This blog post delves into the insights provided by the guide, exploring why a fully Agile ecosystem is essential and offering practical advice for organizations striving to eliminate Agile BS.

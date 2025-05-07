@@ -1,6 +1,6 @@
 ---
 title: 'Redefining the Scrum Master: From Misconceptions to Empowering Leadership'
-description: Discover the true essence of a Scrum Master beyond tool management. Learn how to empower teams and embrace continuous growth in your Agile journey!
+description: Explores common misconceptions about the Scrum Master role, highlighting the shift from tool admin to empowering leader who fosters team autonomy, growth, and self-organisation.
 date: 2023-05-12T14:00:02Z
 weight: 610
 ResourceId: 3YBrq-cle_w
@@ -45,6 +45,8 @@ categories:
 - Scrum
 - Product Development
 - Technical Leadership
+Watermarks:
+  description: 2025-05-07T13:12:30Z
 
 ---
 As I reflect on my journey through the world of [Scrum]({{< ref "/categories/scrum" >}}), one of the most profound challenges I've encountered is the way we perceive the role of the [Scrum Master]({{< ref "/tags/scrum-master" >}}). This was particularly highlighted during my experience with the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master II (PSM-2) class. It’s a transformative experience that forces us to confront and reassess our assumptions about what it means to be a Scrum Master.

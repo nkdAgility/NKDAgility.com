@@ -1,6 +1,6 @@
 ---
 title: The Importance of Batch to Optimise Flow
-description: Join our 60-minute workshop to discover how breaking down large Backlog Items into smaller pieces enhances delivery and flow. Explore queuing theory in action!
+description: Explains how breaking large tasks into smaller batches improves workflow, predictability, and delivery speed, using hands-on exercises based on queuing theory principles.
 ResourceId: kwS9oPiz-Ny
 ResourceImport: false
 ResourceType: workshops
@@ -31,6 +31,8 @@ tags:
 - Operational Practices
 - Lean Principles
 - Lean Thinking
+Watermarks:
+  description: 2025-05-07T12:58:27Z
 
 ---
 ## Duration

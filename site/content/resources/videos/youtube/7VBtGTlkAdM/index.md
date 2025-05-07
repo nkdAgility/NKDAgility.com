@@ -1,6 +1,6 @@
 ---
 title: 1 thing that sinks a consulting engagement before it starts gaining traction?
-description: 'Discover the key factor that can derail your consulting engagement before it even begins. Join Martin Hinshelwood for essential insights! #agile #consulting #shorts'
+description: Overly detailed consulting contracts can hinder project success by limiting flexibility; focus on outcomes and value to adapt to changing client needs and product goals.
 date: 2023-08-19T07:00:06Z
 weight: 1000
 ResourceId: 7VBtGTlkAdM
@@ -34,6 +34,8 @@ resourceTypes:
 layout: video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:10:07Z
 
 ---
 ## The Double-Edged Sword of Consulting Contracts

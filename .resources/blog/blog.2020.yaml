@@ -1,6 +1,6 @@
 - FrontMatter:
     title: 'Evidence-based Management: Gathering the metrics'
-    description: Discover how to effectively gather metrics for Evidence-based Management in software organizations to enhance value delivery and drive agile success.
+    description: Explains how to gather key metrics for evidence-based management in software organisations, focusing on value delivery, time to market, and ability to innovate.
     ResourceId: mK5twHwVcIg
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -49,6 +49,8 @@
     - Product Development
     - Scrum
     preview: naked-agility-evidence-based-management-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:07Z
   BodyContent: |
     Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and I have a number of customers that are fretting on what to collect and from where. Here I try to create an understanding of the 'what' that we need to collect.
 
@@ -131,7 +133,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-30-evidence-based-management-gathering-metrics
 - FrontMatter:
     title: There is no place like production
-    description: Discover why real user feedback in production is essential for delivering value. Learn to validate assumptions and enhance product success effectively.
+    description: Validating product value requires releasing features to real users in production, gathering feedback, and measuring usage, satisfaction, and business impact for improvement.
     ResourceId: KUJ7jHOGqP7
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -171,6 +173,8 @@
     - Product Development
     - Product Management
     preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:08Z
   BodyContent: |
     Value is such a subjective thing that we will often be wrong, and there is no way around that wrongness. In order to minimise the wrongness and maximise the amount of value that we deliver we need to have a clear understanding of what our users need, how they are using the product, and validate our new value as soon as we can. Without validation we only have assumptions and assumptions can be dangerous.
 
@@ -207,7 +211,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-28-there-is-no-place-like-production
 - FrontMatter:
     title: Product Goal is an Intermediate Strategic Goal
-    description: Discover how to set effective product goals as intermediate strategic goals to enhance agility and drive successful outcomes in your organization.
+    description: Explains how product goals serve as intermediate strategic goals, guiding agile organisations through uncertainty using experimentation, outcomes, and data-driven discovery.
     ResourceId: PjYSLMnBHhI
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -252,6 +256,8 @@
     - Product Development
     - Leadership
     preview: naked-agility-hypothesis-driven-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:10Z
   BodyContent: |
     The [Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) describes not only a [Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) but also an [Intermediate Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) that is needed to evaluate and adapt your progress towards your intended visions of your product.
 
@@ -288,7 +294,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-21-product-goal-is-an-intermediate-strategic-goal
 - FrontMatter:
     title: If your backlog is not refined then you are doing it wrong
-    description: Ensure your Scrum team's success by refining your Product Backlog. Discover effective strategies to enhance clarity and quality in Sprint Planning.
+    description: Explains why regular backlog refinement is essential in Scrum, how to make backlog items ready for Sprint Planning, and ways to measure effective refinement.
     ResourceId: 4ukwclfJlXy
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -337,6 +343,8 @@
     - Product Development
     - Product Management
     preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:11Z
   BodyContent: |
     Most [Scrum Teams](/the-2020-scrum-guide/#scrum-team) that I encounter don’t do refinement of their [Product Backlog](/the-2020-scrum-guide/#product-backlog) and try to work on things that they don’t understand correctly. However, if you get to the Sprint Planning event and your backlog is not ready, then you are doing it wrong. If what you build is not of good quality then you should [read about Defenition of Done](/blog/getting-started-definition-done-dod/).
 
@@ -389,7 +397,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-17-backlog-not-refined-wrong
 - FrontMatter:
     title: Getting started with a Definition of Done (DoD)
-    description: Learn how to establish a robust Definition of Done (DoD) for your Scrum team to ensure quality and transparency in software delivery. Start improving today!
+    description: Explains how to create, apply, and improve a Definition of Done (DoD) in Scrum to ensure software quality, transparency, and consistent delivery of working increments.
     ResourceId: z18IcQhlD7I
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -440,6 +448,8 @@
     - Engineering Excellence
     - Product Development
     preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:15Z
   BodyContent: |
     In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD).
 
@@ -510,7 +520,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-14-getting-started-definition-done-dod
 - FrontMatter:
     title: A better way than staggered iterations for delivery
-    description: Discover a superior approach to delivery that enhances agility and reduces technical debt. Learn how to implement effective cross-functional teams today!
+    description: Explains why staggered iterations harm software delivery, increasing technical debt, and recommends cross-functional teams, test-first, and working software each sprint.
     ResourceId: DOMFzBBMzfq
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -555,6 +565,8 @@
     - Scrum
     - Product Development
     preview: staggered-iterations-for-delivery1-2-2.png
+    Watermarks:
+      description: 2025-05-07T13:15:16Z
   BodyContent: |
     There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more [technical debt]({{< ref "/tags/technical-debt" >}}) and lower quality software.
 
@@ -610,7 +622,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-10-a-better-way-than-staggered-iterations-for-delivery
 - FrontMatter:
     title: You are doing it wrong if you are not using test first
-    description: Unlock the power of Test First principles in software development. Learn how TDD and ATDD can enhance quality, reduce bugs, and meet customer needs effectively.
+    description: Explains how adopting test-first practices in software development improves quality, reduces bugs, and enables confident continuous delivery by validating requirements early.
     ResourceId: yqHaiUlMNTP
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -654,6 +666,8 @@
     - Product Development
     - Engineering Excellence
     preview: nkdAgility-PSD-Krakow-0-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:17Z
   BodyContent: |
     Many teams are struggling with delivering modern software because they are not building with Test First Principals. Test First gives us the assurance that we have built the correct thing, that what we built is what the customer asked for and that when we change things we don’t break anything inadvertently.
 
@@ -732,7 +746,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-07-you-are-doing-it-wrong-if-you-are-not-using-test-first
 - FrontMatter:
     title: Professional Scrum teams build software that works
-    description: Discover how Professional Scrum Teams can deliver high-quality software that works. Learn to enhance accountability and trust in your development process.
+    description: Professional Scrum Teams prioritise software quality, accountability, and continuous improvement, ensuring each release is reliable, defect-free, and delivers real value.
     ResourceId: vCeqzJIgF1F
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -780,6 +794,8 @@
     - Engineering Excellence
     - Product Development
     preview: nkdAgility-PSD-Krakow-02-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:18Z
   BodyContent: |
     I am always surprised at the number of teams that release undone work to production. I understand that one may need a few sprints, or many if you inherited something nasty, to pay back that debt, but if it's more then you are not a [Professional Scrum Team](/blog/scrum-tapas-importance-professionalism/). The sheer amount of software that I have that is buggy, slow, or just not finished makes me think that there are few professional [Scrum Teams](/the-2020-scrum-guide/#scrum-team) out there!
 
@@ -834,7 +850,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-12-03-professional-scrum-teams-build-software-works
 - FrontMatter:
     title: The Sprint Goal is a commitment for the Sprint Backlog
-    description: Discover the importance of the Sprint Goal in Scrum. Learn how it fosters team focus and transparency, driving valuable outcomes in your projects.
+    description: Explains how the Sprint Goal guides Scrum teams by providing a clear, shared objective for each Sprint, ensuring focus, transparency, and alignment with the Product Goal.
     ResourceId: 99LDtXqmRu5
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -867,6 +883,8 @@
     - Scrum
     - Product Development
     preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:20Z
   BodyContent: |
     In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress during a Sprint.
 
@@ -894,7 +912,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-11-27-the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 - FrontMatter:
     title: Release planning and predictable delivery
-    description: Master release planning and achieve predictable delivery in agile environments. Discover strategies to enhance quality and streamline your software development process.
+    description: Explores how agile teams can achieve predictable software delivery through quality focus, effective release planning, and continuous improvement, despite inherent uncertainty.
     ResourceId: 2cOXevMnGb_
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -938,6 +956,8 @@
     - Scrum
     - Engineering Excellence
     preview: nkdAgility-habits-16x9-1280-2-2.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:21Z
   BodyContent: |
     Many organisations wrestle with the seeming incompatibility between agile and [release management]({{< ref "/tags/release-management" >}}), and they struggle with release planning and predictable delivery.
 
@@ -1022,7 +1042,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-11-24-release-planning-and-predictable-delivery
 - FrontMatter:
     title: The Product Goal is a commitment for the Product Backlog
-    description: Discover the importance of the Product Goal in Scrum. Learn how it drives focus and transparency for your team’s success. Is your Product Goal defined?
+    description: Defines the Product Goal as a clear, measurable objective in the Product Backlog that guides Scrum Teams, ensuring focus, transparency, and alignment with long-term value.
     ResourceId: sVDzuTFDLSJ
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1058,6 +1078,8 @@
     - Product Development
     - Product Management
     preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:22Z
   BodyContent: |
     In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff introduces the idea of the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal). The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress.
 
@@ -1084,7 +1106,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-11-23-the-product-goal-is-a-commitment-for-the-product-backlog
 - FrontMatter:
     title: Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework
-    description: Discover the latest updates to the Scrum Guide on its 25th anniversary, simplifying Scrum for better team management and accountability. Read more!
+    description: Summarises key changes in the 2020 Scrum Guide, including simplified language, self-managing teams, and new commitments for goals, backlog, and definition of done.
     ResourceId: 7CqdvOa9t4c
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1120,6 +1142,8 @@
     - Scrum
     - Product Development
     preview: naked-Agility-Scrum-Framework-3-2.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:23Z
   BodyContent: |
     It has been 25 years since [Scrum]({{< ref "/categories/scrum" >}}) was first created by Ken Schwaber and Jeff Sutherland and it has gone through many revisions. The last major revision was in 2017 and this update represents a simplification for 2020.
 
@@ -1150,7 +1174,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-11-18-update-scrum-guide-25th-anniversary-scrum-framework
 - FrontMatter:
     title: Online is the new co-located
-    description: Explore how online participation redefines co-location in agile practices. Embrace video engagement for effective communication and collaboration in virtual events.
+    description: Explores how advances in technology have redefined co-location, emphasising the importance of video presence for effective online communication and team engagement.
     ResourceId: QnZVgaG90q_
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1180,6 +1204,8 @@
     categories:
     - Uncategorized
     preview: image-21-3-3.png
+    Watermarks:
+      description: 2025-05-07T13:15:24Z
   BodyContent: |
     In light of the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/) and the last 20 years of technological progress, we need to [re-define co-location](https://nkdagility.com/blog/what-is-your-perspective-on-collocation/) as we no longer need to be in the same room as each other to get the [80% of communication that is non-verbal](https://journals.lww.com/thehearingjournal/Fulltext/2016/05000/The_Art_of_Nonverbal_Communication_in_Practice.5.aspx). If we are participating in an online event, we should try our best to keep our cameras on so that we can all read those non-verbal queues.
 
@@ -1352,7 +1378,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-11-16-online-is-the-new-co-located
 - FrontMatter:
     title: 'Evolution not Transformation: This is the Inevitability of change'
-    description: Discover why true agility is an evolution, not a transformation. Embrace continuous change to thrive in today's fast-paced business landscape.
+    description: Change in organisations is a continuous, evolutionary process driven by experimentation and adaptation, not a one-time transformation or fixed end state.
     ResourceId: WvUOpSMqawD
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1400,6 +1426,8 @@
     - Technical Leadership
     - Product Development
     preview: image-15-5-4.png
+    Watermarks:
+      description: 2025-05-07T13:15:28Z
   BodyContent: |
     There is no such thing as an [Agile Transformation]({{< ref "/tags/agile-transformation" >}}), [Digital Transformation]({{< ref "/tags/digital-transformation" >}}), [DevOps]({{< ref "/categories/devops" >}}) Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).
 
@@ -1562,7 +1590,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-07-13-evolution-not-transformation-this-is-the-inevitability-of-change
 - FrontMatter:
     title: The fallacy of the rejected backlog item
-    description: Explore the fallacy of rejecting backlog items in Scrum. Understand the impact on development and learn how to enhance collaboration and transparency.
+    description: Explains why rejecting individual backlog items at Sprint Review is a misconception, highlighting Scrum’s focus on learning, collaboration, and delivering a complete increment.
     ResourceId: Ewu5coIz9qm
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1606,6 +1634,8 @@
     - Scrum
     - Product Management
     preview: nkdAgility-backlog-item-approve-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:29Z
   BodyContent: |
     There is a frustrating misunderstanding of reality when one thinks that the [Product Owner]({{< ref "/tags/product-owner" >}}) can reject a single story at the [Sprint Review]({{< ref "/tags/sprint-review" >}}). This is the fallacy of the rejected backlog item and the misguided belief that this backlog item can just be left out of this delivery. That backlog item that was chosen by the Development Team at the Sprint Planning event to help them achieve the Sprint Goal. The Sprint Goal that created focus and has the entire Development Team working in the same area of the codebase.
 
@@ -1679,7 +1709,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-07-13-the-fallacy-of-the-rejected-backlog-item
 - FrontMatter:
     title: Luddites have no place in the modern organisation
-    description: Discover why Luddites hinder modern organizations and learn how to foster a culture of agility and innovation. Embrace change for a thriving workplace!
+    description: Explores how resistance to change and outdated mindsets hinder organisational agility, stressing the need for adaptable, forward-thinking teams in modern business.
     ResourceId: dyxqF7lrHmn
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1709,6 +1739,8 @@
     categories:
     - Leadership
     preview: image-3-3-3.png
+    Watermarks:
+      description: 2025-05-07T13:15:31Z
   BodyContent: |
     In our [Professional Agile Leadership training](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-training/), we talk about changing your organisations hiring practices to hire more of the right sort of people to create the company that you want, not the company that you have. Hire the right people also implies that you will have to, within your cultural constraints, de-hire the wrong people.
 
@@ -1775,7 +1807,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-07-06-luddites-have-no-place-in-the-modern-organisation
 - FrontMatter:
     title: Many organisations are lured to SAFe by the song of the Sirens
-    description: Discover why many organizations fall for the allure of SAFe, risking true agility for a rigid framework. Learn to embrace evolution over imitation.
+    description: Explores how organisations adopt SAFe for agility but risk rigid bureaucracy, highlighting the need for genuine business evolution over prescriptive frameworks.
     ResourceId: kmQceaX7e-O
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1803,6 +1835,8 @@
     categories:
     - Uncategorized
     preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:32Z
   BodyContent: |
     These Sirens take advantage of the lack of understanding of what [business agility]({{< ref "/tags/business-agility" >}}) is trying to change and lures unsuspecting C-suite executives into parting with their cash for what is effectively someone else's business process. They are changing their entire organisation, not because of a business challenge, but because they are told to.
 
@@ -1881,7 +1915,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-07-01-many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - FrontMatter:
     title: Configuring Microsoft Teams for Live Virtual Training
-    description: Master Microsoft Teams for Live Virtual Training with expert tips on setup and configuration to enhance your students' learning experience. Get started now!
+    description: Step-by-step guide to setting up Microsoft Teams for live virtual training, covering Azure AD, Microsoft 365, guest access, external identities, and class experience tips.
     ResourceId: Xc0Lh3NbXfK
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -1910,6 +1944,8 @@
     tags:
     - System Configuration
     - Install and Configuration
+    Watermarks:
+      description: 2025-05-07T13:15:35Z
   BodyContent: |
     Like most tools, if you want to run successful training in Microsoft Teams you need to do some homework and some configuration before your class. You can just jump in and wing it, but that will not provide a good experience for your students. Currently, I have run more than 6 Live Virtual Training in Microsoft Teams and in a few hours, my 7th will start. I have also recently had to set up Microsoft Teams for my good friend and colleague [Russell Miller](https://nkdagility.com/training/trainers/russell-miller/) so that he can also run classes on the platform.
 
@@ -2076,7 +2112,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-06-22-configuring-microsoft-teams-for-live-virtual-training
 - FrontMatter:
     title: Delivering Live Virtual Classes in Microsoft Teams and Mural
-    description: Discover how to effectively deliver live virtual classes using Microsoft Teams and Mural, enhancing engagement and collaboration in your Scrum training.
+    description: Guidance on running live virtual Scrum classes using Microsoft Teams and Mural, focusing on tech setup, safe collaboration, self-organising teams, and effective facilitation.
     ResourceId: fyJ8PxhOEZz
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2113,6 +2149,8 @@
     - Scrum Team
     - Social Technologies
     - Team Performance
+    Watermarks:
+      description: 2025-05-07T13:15:36Z
   BodyContent: |
     With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.
 
@@ -2327,7 +2365,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-06-21-delivering-live-virtual-classes-in-microsoft-teams-and-mural
 - FrontMatter:
     title: Live Virtual Classroom's and the new normal
-    description: Explore the shift to Live Virtual Classrooms and discover how they enhance learning experiences, making training more accessible and effective in the new normal.
+    description: Explores how live virtual classrooms have become effective alternatives to in-person training, highlighting benefits, challenges, and the shift to remote learning as the new normal.
     ResourceId: wS3GaFbyzDv
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2361,6 +2399,8 @@
     categories:
     - Uncategorized
     preview: image-1-1-1.png
+    Watermarks:
+      description: 2025-05-07T13:15:37Z
   BodyContent: |
     With the change in business model in the current crisis, many training organizations have had to do the unthinkable and move to Live Virtual training options. Existing wisdom was that training online, just as running teams virtually would be a disaster and reduce the student's experience.
 
@@ -2412,7 +2452,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-06-18-live-virtual-classrooms-and-the-new-normal
 - FrontMatter:
     title: Live Site Culture & Site Reliability Engineering
-    description: Explore how Live Site Culture and Site Reliability Engineering drive agility and DevOps practices, enabling rapid delivery and enhanced customer satisfaction.
+    description: Explores how agile teams use DevOps and Site Reliability Engineering to deliver high-quality software rapidly, with insights from Microsoft’s Azure DevOps team practices.
     ResourceId: c_gS0nlQD9E
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2448,6 +2488,8 @@
     - Frequent Releases
     - Deployment Frequency
     - Software Development
+    Watermarks:
+      description: 2025-05-07T13:15:38Z
   BodyContent: |
     As more and more organisations move towards a higher degree of agility, they inevitably also move towards [DevOps]({{< ref "/categories/devops" >}}) practices like [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) to facilitate shortening the feedback loops.
 
@@ -2489,7 +2531,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-06-17-live-site-culture-site-reliability-engineering
 - FrontMatter:
     title: The Tyranny of Taylorism and how to detect Agile BS
-    description: Explore the impact of Taylorism on modern management and learn to identify Agile BS. Join Martin Hinshelwood in redefining workplace practices for success.
+    description: Explores the origins of Taylorism in modern management, its impact on workplace practices, and how to identify ineffective or superficial Agile adoption in organisations.
     ResourceId: IDMjGi5C8lS
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2520,6 +2562,8 @@
     categories:
     - Uncategorized
     preview: 2020-03-27_21-31-11-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:56Z
   BodyContent: |
     ​
 
@@ -2546,7 +2590,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-04-01-live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - FrontMatter:
     title: Slaying the Dragons and How to Successfully Descale at Scale
-    description: Discover how to effectively scale agile practices in your organization. Learn the secrets of successful companies and transform your software delivery!
+    description: Explores why most organisations struggle to scale agile practices, highlighting key principles and strategies used by rare, successful companies to achieve real transformation.
     ResourceId: PLxBb5FqtO-
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2577,6 +2621,8 @@
     categories:
     - Uncategorized
     preview: 2020-03-27_21-36-13-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:57Z
   BodyContent: |
     Many organisations don't really want to change how they do business and believe that they can continue in the way they always have while still getting better at delivering software.
 
@@ -2595,7 +2641,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2020\2020-03-30-live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 - FrontMatter:
     title: 'Live Webcast: Q&amp;A with Martin Hinshelwood on 27th March 2020'
-    description: Join Martin Hinshelwood for a live Q&A on incorporating UX into Scrum teams. Discover insights and strategies to enhance your agile practices!
+    description: Martin Hinshelwood answers questions on integrating UX into Scrum teams, sharing practical advice from his experience teaching Professional Scrum with UX.
     ResourceId: s7bwajkP-HP
     ResourceType: blog
     ResourceContentOrigin: Hybrid
@@ -2628,6 +2674,8 @@
     categories:
     - Uncategorized
     preview: 2020-03-27_21-33-56-1-1.jpg
+    Watermarks:
+      description: 2025-05-07T13:15:58Z
   BodyContent: |
     After my last webcast I received a question from a good friend of mine about how to incorporate UX into a [Scrum]({{< ref "/categories/scrum" >}}) Team. Since I have been teaching the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with UX class I thought I would share the gist of what might be a good place to start.
 

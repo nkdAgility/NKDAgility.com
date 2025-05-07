@@ -1,6 +1,6 @@
 ---
 title: 'September 2023 NKDAgility: Empower Your Learning Journey with Our Referral Programme'
-description: Join our Referral Programme! Share your unique code, earn credits for future classes, and help others save 20% on their course fees. It's a win-win!
+description: Earn credits towards future training by referring others to NKDAgility courses. Referrals get a 20% discount; you receive up to 100% credit for your next class.
 ResourceId: TJDLWyX3cZt
 ResourceImport: true
 ResourceType: newsletters
@@ -22,6 +22,8 @@ aliasesArchive:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:09:50Z
 
 ---
 Greetings,

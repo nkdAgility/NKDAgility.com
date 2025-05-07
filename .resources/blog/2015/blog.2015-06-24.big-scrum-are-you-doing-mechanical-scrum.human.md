@@ -1,6 +1,6 @@
 ---
 title: 'Big Scrum: Are you doing mechanical Scrum'
-description: Explore the pitfalls of mechanical Scrum and discover how to achieve true agility with Professional Scrum for enhanced productivity and team effectiveness.
+description: Explores the difference between mechanical and Professional Scrum, highlighting the importance of values, principles, and technical excellence for effective Agile teams.
 ResourceId: 8wFtoutYII0
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -35,6 +35,8 @@ categories:
 - Scrum
 - Product Development
 preview: clip_image001-1-1.png
+Watermarks:
+  description: 2025-05-07T13:16:57Z
 
 ---
 Last month I created an article for NDC Magazine on [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}). The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional [Scrum Team]({{< ref "/tags/scrum-team" >}}), why we need it, and how we can scale it.

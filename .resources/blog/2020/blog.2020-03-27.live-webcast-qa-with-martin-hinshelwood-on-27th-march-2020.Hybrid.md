@@ -1,6 +1,6 @@
 ---
 title: 'Live Webcast: Q&amp;A with Martin Hinshelwood on 27th March 2020'
-description: Join Martin Hinshelwood for a live Q&A on incorporating UX into Scrum teams. Discover insights and strategies to enhance your agile practices!
+description: Martin Hinshelwood answers questions on integrating UX into Scrum teams, sharing practical advice from his experience teaching Professional Scrum with UX.
 ResourceId: s7bwajkP-HP
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -33,6 +33,8 @@ tags: []
 categories:
 - Uncategorized
 preview: 2020-03-27_21-33-56-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:15:58Z
 
 ---
 After my last webcast I received a question from a good friend of mine about how to incorporate UX into a [Scrum]({{< ref "/categories/scrum" >}}) Team. Since I have been teaching the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with UX class I thought I would share the gist of what might be a good place to start.

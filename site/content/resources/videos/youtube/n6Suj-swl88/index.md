@@ -1,6 +1,6 @@
 ---
 title: Who Should Lead the Sprint Review? Unpacking the Role of the Product Owner in Agile Success
-description: Discover who should lead the Sprint Review and why it’s crucial for Agile success. Maximise value and enhance your product backlog with expert insights!
+description: Explains why the Product Owner should lead Sprint Reviews in Agile, detailing their role in maximising value, gathering feedback, and updating the product backlog.
 date: 2023-09-06T07:00:15Z
 weight: 665
 ResourceId: n6Suj-swl88
@@ -48,6 +48,8 @@ categories:
 - Scrum
 - Product Development
 - Product Management
+Watermarks:
+  description: 2025-05-07T13:09:39Z
 
 ---
 The [Sprint Review]({{< ref "/tags/sprint-review" >}}): Who Should Lead and Why It Matters

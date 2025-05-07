@@ -1,6 +1,6 @@
 ---
 title: What is a sprint goal?
-description: "Unlock the secrets of sprint planning! Discover common pitfalls in agility and learn to empower your team for swift market responses. \U0001F680\U0001F4C8"
+description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
 date: 2023-05-25T14:00:20Z
 weight: 840
 ResourceId: JVZzJZ5q0Hw
@@ -42,6 +42,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:12:11Z
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

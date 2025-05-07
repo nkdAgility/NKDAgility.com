@@ -1,6 +1,6 @@
 ---
 title: Worst Contribution from a Product Owner that You Know Of
-description: 'Discover the worst product owner performance ever witnessed! Join Martin Hinshelwood as he shares valuable lessons from poor practices. #agile #scrum #shorts'
+description: A real-world example of a product owner undermining their Scrum team during a sprint review, highlighting the importance of support, accountability, and collaboration.
 date: 2023-06-06T11:00:34Z
 weight: 1000
 ResourceId: ekUL1oIMeAc
@@ -35,6 +35,8 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:11:50Z
 
 ---
 ## [Product Owner]({{< ref "/tags/product-owner" >}})'s Misstep

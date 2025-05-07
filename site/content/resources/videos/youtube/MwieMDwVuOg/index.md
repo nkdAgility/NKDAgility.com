@@ -1,6 +1,6 @@
 ---
 title: 'Scaling Smart: How to Build Sustainable Growth Without the Chaos'
-description: Discover how to scale your organisation smartly and sustainably. Learn the key principles of NE agility for delivering real value without the chaos.
+description: Learn how to achieve sustainable, resilient organisational growth by focusing on simplification, value delivery, and effective agile practices—avoiding chaos as you scale.
 date: 2025-02-19T07:25:02Z
 weight: 750
 ResourceId: MwieMDwVuOg
@@ -44,6 +44,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T12:49:35Z
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) isn't just about moving fast; it's about moving smart and sustainably. I've seen it time and again: organisations rush to scale without laying the right foundations, and what do they end up with? A bigger mess. It’s crucial to understand that while agile methodologies provide a pathway to scale, simply picking a framework and running with it isn’t the answer.

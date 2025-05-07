@@ -1,6 +1,6 @@
 ---
 title: "Embracing Process Improvement: How Understanding Scrum Transformed a Developer's Mindset"
-description: Discover how embracing Scrum can transform your team's workflow. Learn from Dave Fresh's journey and unlock the power of process awareness for better collaboration!
+description: Explores how learning Scrum and process improvement can shift developer mindsets, boost collaboration, and enhance software delivery in Agile teams.
 date: 2017-07-27T19:14:11Z
 weight: 1000
 ResourceId: F8a6gtXxLe0
@@ -36,6 +36,8 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:16:31Z
 
 ---
 As I reflect on my journey in the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I can't help but think about the transformative power of understanding the processes that underpin our work. Recently, I had the pleasure of speaking with Dave Fresh, a developer at Health Grades, who shared his initial resistance to a Scrum course. His story resonated with me, as it highlights a common misconception many professionals have about stepping away from their daily tasks to focus on process improvement.

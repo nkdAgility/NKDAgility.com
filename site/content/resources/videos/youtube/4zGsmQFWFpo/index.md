@@ -1,6 +1,6 @@
 ---
 title: 'Focusing Beyond "Agile": Building True Capability in Organizations'
-description: "Refocus your organisation! Discover how to build competence and value by improving hiring practices and fostering effective leadership. \U0001F331\U0001F4BC #LifelongLearning"
+description: Explores why building organisational capability, competence, and continuous learning is more effective than focusing solely on Agile roles, frameworks, or labels.
 date: 2024-10-11T06:45:00Z
 weight: 400
 ResourceId: 4zGsmQFWFpo
@@ -41,6 +41,8 @@ layout: video
 categories:
 - Leadership
 - Technical Leadership
+Watermarks:
+  description: 2025-05-07T12:57:33Z
 
 ---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆

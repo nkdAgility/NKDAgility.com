@@ -1,6 +1,6 @@
 ---
 title: How does scrum help leadership teams pick the most valuable work to focus on?
-description: Discover how Scrum empowers leadership teams to prioritise valuable work in complex environments, enhancing customer focus and organisational efficiency.
+description: Scrum highlights issues and provides feedback for leadership teams but does not select valuable work; leaders must set priorities and use scrum to validate decisions.
 date: 2023-02-10T07:15:02Z
 weight: 665
 ResourceId: bpBhREVX85o
@@ -33,6 +33,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:14:09Z
 
 ---
 How does [scrum]({{< ref "/categories/scrum" >}}) help [leadership]({{< ref "/categories/leadership" >}}) teams pick the most valuable work to focus on?

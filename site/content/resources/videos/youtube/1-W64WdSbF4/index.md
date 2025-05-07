@@ -1,6 +1,6 @@
 ---
 title: 'Free Workshop 04: Introduction to Sprint Reviews [Review & Retrospective]'
-description: Join Martin Hinshelwood for a free 90-minute workshop on running effective Sprint Reviews. Learn to gather feedback and plan your next steps!
+description: Covers key concepts of Sprint Reviews, interactive workshop delivery using Teams and Mural, technical challenges faced, participant feedback, and retrospective insights.
 date: 2021-09-18T13:32:34Z
 weight: 240
 ResourceId: 1-W64WdSbF4
@@ -48,6 +48,8 @@ categories:
 - Scrum
 - Product Management
 - Technical Leadership
+Watermarks:
+  description: 2025-05-07T13:14:51Z
 
 ---
 This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the [Sprint Review]({{< ref "/tags/sprint-review" >}}) and its empirical nature. I used a combination of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}), Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!

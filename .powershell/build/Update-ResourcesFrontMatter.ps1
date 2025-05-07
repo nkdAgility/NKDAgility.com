@@ -13,7 +13,11 @@ $ResourceCatalogue = @{}
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\engineering-notes" -YearsBack 1
+$descriptionDateWatermark = [DateTime]::Parse("2025-05-07T12:36:48Z")
+
+Start-TokenServer
+
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -26,9 +30,6 @@ $Counter = 0
 $TotalItems = $hugoMarkdownQueue.Count
 while ($hugoMarkdownQueue.Count -gt 0) {
    
-   
-    
-
     $hugoMarkdown = $hugoMarkdownQueue.Dequeue()
     $Counter++
     $PercentComplete = ($Counter / $TotalItems) * 100
@@ -40,13 +41,36 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
     #=================description=================
 
+    # if ( -not $hugoMarkdown.FrontMatter.abstract -or $hugoMarkdown.FrontMatter.abstract -match "no specific details provided") {
+    #     # Generate a new description using OpenAI
+    #     $abstractPromptText = Get-Prompt -PromptName "content-abstract.md" -Parameters @{
+    #         title   = $hugoMarkdown.FrontMatter.Title
+    #         content = $hugoMarkdown.BodyContent
+    #     }
+    #     $abstract = Get-OpenAIResponse -Prompt $abstractPromptText
+    #     # Update the description in the front matter
+    #     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'abstract' -fieldValue $abstract -addAfter 'title'
+    # }
 
-    if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided") {
+    if (-not $hugoMarkdown.FrontMatter.date) {
+        $date = Get-Date -Format "yyyy-MM-ddT09:00:00Z"
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $date -addAfter 'title'
+    }
+
+    # Safely handle missing descriptionUpdate
+    $descUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.Description
+    $descUpdateDate = if ($descUpdateString) { [DateTime]::Parse($descUpdateString) } else { [DateTime]::MinValue }
+    if (-not $hugoMarkdown.FrontMatter.description -or $descUpdateDate -lt $descriptionDateWatermark) {
         # Generate a new description using OpenAI
-        $prompt = "Generate a concise, engaging description of no more than 160 characters for the following resource: '$($videoData.snippet.title)'. The Resource details are: '$($hugoMarkdown.BodyContent)'"
-        $description = Get-OpenAIResponse -Prompt $prompt
+        $promptText = Get-Prompt -PromptName "content-description.md" -Parameters @{
+            title    = $hugoMarkdown.FrontMatter.Title
+            abstract = "none"
+            content  = $hugoMarkdown.BodyContent
+        }
+        $description = Get-OpenAIResponse -Prompt $promptText
         # Update the description in the front matter
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.description' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
     }
 
     #=================ResourceId=================
@@ -193,7 +217,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
     # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
     #-----------------Categories-------------------
-    $categoryClassification = Get-ClassificationsForType -updateMissing -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
+    $categoryClassification = Get-ClassificationsForType -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
     $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $categoryClassification | Select-Object -First 3
     $categories = $categoryClassificationOrdered | ForEach-Object { $_.category }
     if ($categories.Count -eq 0) {
@@ -202,7 +226,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
     #-----------------Tags-------------------
-    $tagClassification = Get-ClassificationsForType -updateMissing -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+    $tagClassification = Get-ClassificationsForType -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $tagClassification | Select-Object -First 15
     $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
     Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite

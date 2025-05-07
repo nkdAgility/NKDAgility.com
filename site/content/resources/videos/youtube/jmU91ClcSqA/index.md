@@ -1,6 +1,6 @@
 ---
 title: What is Project Management?
-description: 'Discover the essence of project management in this short video! Learn how it evolved from manufacturing to enhance teamwork and efficiency. #agile #scrum'
+description: Explains project management’s origins, key tools like the Gantt chart, and its evolution into a vital method for planning and delivering work in today’s business world.
 date: 2023-05-22T07:00:14Z
 weight: 1000
 ResourceId: jmU91ClcSqA
@@ -33,6 +33,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:12:19Z
 
 ---
 ## Unpacking [Project Management]({{< ref "/tags/project-management" >}})

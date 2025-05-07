@@ -1,6 +1,6 @@
 ---
 title: The Missing Lever in Agile Transformations
-description: 'Unlock true transformation with Agentic Agility: cultivate agency in people and systems for genuine adaptability, resilience, and empowered outcomes.'
+description: Most agile transformations fail by neglecting agency—empowering people and systems to adapt—making true agility possible through autonomy, evidence, and continuous learning.
 ResourceId: RevK05qtZD7
 ResourceImport: false
 ResourceType: blog
@@ -31,6 +31,8 @@ tags:
 - Self Organisation
 - Market Adaptability
 - Social Technologies
+Watermarks:
+  description: 2025-05-07T12:49:04Z
 
 ---
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.

@@ -1,6 +1,6 @@
 ---
 title: Seasons Greetings & Upcoming Professional Scrum training classes
-description: Exciting news for 2023! Naked Agility expands with new trainers, a growing community, and enhanced training classes. Join us for a transformative experience!
+description: Get updates on new trainers, expanded Scrum training classes, community growth, and upcoming professional development opportunities for Scrum Masters, teams, and managers.
 ResourceId: Tx-0zZJ1biI
 ResourceImport: true
 ResourceType: newsletters
@@ -22,6 +22,8 @@ aliasesArchive:
 categories:
 - Scrum
 tags: []
+Watermarks:
+  description: 2025-05-07T13:14:39Z
 
 ---
 \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]

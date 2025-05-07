@@ -1,6 +1,6 @@
 ---
 title: 'Big Scrum: All you need and not enough'
-description: "Explore the challenges of scaling Scrum in 'Big Scrum: All you need and not enough.' Discover essential practices for achieving agility at scale."
+description: Explores how to scale Scrum effectively by applying agile values, fostering professional teams, and adapting processes to fit unique organisational needs for large-scale agility.
 ResourceId: yCJ5ERuJHUU
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -37,6 +37,8 @@ tags:
 categories:
 - Scrum
 preview: clip_image003-3-3.png
+Watermarks:
+  description: 2025-05-07T13:16:56Z
 
 ---
 I was in Norway for NDC Oslo 2015 and I was there to talk about "Big [Scrum]({{< ref "/categories/scrum" >}}): All you need and not enough" which is a kind of oxymoron as it really is enough, you just need to apply the values and principals at scale. I tried to cover what for me is a total 100% requirement for Scale.

@@ -1,6 +1,6 @@
 ---
 title: 'Embrace the Chaos: Transforming Scrum Learning Through Experience and Minecraft'
-description: Unlock the power of Scrum in our Applying Professional Scrum class! Experience chaos, learn through action, and transform your agile approach today.
+description: Discover how hands-on Scrum training using Minecraft helps learners experience project chaos, apply agile principles, and gain practical insights into effective teamwork.
 date: 2023-01-09T12:36:53Z
 weight: 1000
 ResourceId: vI2LBfMkPuk
@@ -39,6 +39,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:14:35Z
 
 ---
 As I reflect on my experiences delivering the Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) class, I can confidently say it’s my favourite course to teach. The reason? It consistently sparks some of the most profound epiphanies for my students. 

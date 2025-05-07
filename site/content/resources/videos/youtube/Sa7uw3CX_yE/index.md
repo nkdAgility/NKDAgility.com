@@ -1,6 +1,6 @@
 ---
 title: 'Beyond the Agile Illusion: Embracing True Agility in a World of Taylorism'
-description: Discover the truth behind agile practices! Are organisations genuinely agile or just paying lip service? Explore transparency, feedback, and true collaboration.
+description: Explores the difference between true agility and superficial agile practices, highlighting the impact of Taylorism and offering steps to foster genuine agile culture.
 date: 2020-07-21T18:00:53Z
 weight: 1000
 ResourceId: Sa7uw3CX_yE
@@ -33,6 +33,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:15:27Z
 
 ---
 As I reflect on my recent experiences with agile practices and the challenges that many organisations face, I find myself drawn to the concept of [transparency]({{< ref "/tags/transparency" >}}) and the importance of understanding what it truly means to be agile. In a world where 81% of development teams claim to be agile, it’s crucial to ask ourselves: are we genuinely embracing the principles of agility, or are we merely paying lip service to the idea?

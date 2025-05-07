@@ -1,6 +1,6 @@
 ---
 title: How do you think Agile is evolving since its inception in 2001?
-description: "Discover the evolution of Agile since 2001, its challenges, and the future of work in dynamic environments. Join Martin on this insightful journey! \U0001F310\U0001F680"
+description: Explores how Agile has shifted from top-down management to decentralised decision-making, highlighting ongoing challenges and the move towards true organisational agility.
 date: 2023-02-15T07:00:07Z
 weight: 665
 ResourceId: QgPlMxGNIzs
@@ -39,6 +39,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:14:05Z
 
 ---
 How do you think Agile is evolving since its inception in 2001?

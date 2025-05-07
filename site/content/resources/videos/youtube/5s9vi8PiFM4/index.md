@@ -1,6 +1,6 @@
 ---
 title: 1 thing you wish you knew at the start of your Scrum journey?
-description: 'Discover the key insight Martin Hinshelwood wishes he had at the start of his Scrum journey. Elevate your Agile experience with Naked Agility! #Scrum #Agile'
+description: Learn why combining Lean principles with Scrum from the start boosts team efficiency, collaboration, and insight, leading to a more successful and informed Agile journey.
 date: 2023-08-04T07:00:03Z
 weight: 1000
 ResourceId: 5s9vi8PiFM4
@@ -33,6 +33,8 @@ resourceTypes:
 layout: video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:10:24Z
 
 ---
 ## The Missing Piece in My Initial [Scrum]({{< ref "/categories/scrum" >}}) Journey

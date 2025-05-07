@@ -1,6 +1,6 @@
 ---
 title: 'Empowering Agile Teams: The Transformative Power of Teaching the "Why"'
-description: Unlock the power of Agile! Discover how teaching the "why" behind Scrum practices fosters understanding, collaboration, and lasting improvement in your team.
+description: Explores how teaching the reasons behind Agile practices boosts team engagement, collaboration, and continuous improvement, helping teams adapt and thrive with Scrum.
 date: 2023-04-27T07:00:31Z
 weight: 1000
 ResourceId: xuNNZnCNVWs
@@ -44,6 +44,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:12:58Z
 
 ---
 As a [Scrum]({{< ref "/categories/scrum" >}}) Master, I’ve come to realise that one of the most critical skills in my toolkit is the ability to teach effectively. But it’s not just about imparting knowledge; it’s about fostering understanding. In my experience, people are often resistant to change unless they grasp the underlying reasons for it. They need to see the value in what they’re being asked to do. 

@@ -1,6 +1,6 @@
 ---
 title: Discipline versus motivation?
-description: "Discover the key difference between discipline and motivation in high-performance teams with Martin Hinshelwood. Unlock your team's potential! #shorts #agile"
+description: Explores the roles of discipline and motivation in Agile and Scrum, highlighting how both drive successful Agile transformation and sustained team performance.
 date: 2023-05-15T07:00:21Z
 weight: 790
 ResourceId: sidTi_uSsdc
@@ -31,6 +31,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:12:29Z
 
 ---
 **Discipline versus motivation?**

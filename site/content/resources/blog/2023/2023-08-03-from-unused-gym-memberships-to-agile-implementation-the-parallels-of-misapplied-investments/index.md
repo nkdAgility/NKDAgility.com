@@ -1,6 +1,6 @@
 ---
 title: From Unused Gym Memberships to Agile Implementation The Parallels of Misapplied Investments
-description: Explore the parallels between unused gym memberships and agile implementation. Discover how commitment and consistent effort drive true transformation in both realms.
+description: Explores how superficial adoption of agile in software development mirrors unused gym memberships, highlighting the need for genuine commitment and effective implementation.
 ResourceId: mzVDd2JFtHO
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -30,6 +30,8 @@ tags:
 categories:
 - Product Development
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:10:27Z
 
 ---
 In [software development]({{< ref "/tags/software-development" >}}), an increasingly prevalent phenomenon is the adoption of agile methodologies, akin to individuals embarking on fitness journeys through gym memberships. However, a striking parallel between the two realms can be drawn – the misuse and under-utilization of the tools at disposal. The essence of this analogy reflects a more fundamental notion: the gap between intention and implementation.

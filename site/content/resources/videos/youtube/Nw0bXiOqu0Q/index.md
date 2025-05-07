@@ -1,6 +1,6 @@
 ---
 title: Why are recessions a great time for organizations to evaluate the opportunity of agile?
-description: Discover why recessions spark a shift towards agile methodologies, enabling organisations to adapt and thrive in turbulent times. Join Martin Hinshelwood!
+description: Explains why recessions are ideal for organisations to adopt agile, highlighting adaptability, rapid learning, and customer-focused growth in uncertain times.
 date: 2023-02-09T07:15:02Z
 weight: 590
 ResourceId: Nw0bXiOqu0Q
@@ -43,6 +43,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:14:10Z
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

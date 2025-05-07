@@ -1,6 +1,6 @@
 ---
 title: 7 Harbingers of the Agile apocalypse - Organizational Structure
-description: "Uncover the \"Antichrist of Agile\" as Martin Hinshelwood explores how traditional structures hinder agility and the path to self-organisation. \U0001F504\U0001F6AB"
+description: Explores how rigid, hierarchical structures hinder organisational agility and offers practical strategies for shifting to decentralised, empowered, agile teams.
 date: 2023-10-19T11:00:06Z
 weight: 1000
 ResourceId: 56hWAHhbrvs
@@ -44,6 +44,8 @@ resourceTypes:
 layout: video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:38Z
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

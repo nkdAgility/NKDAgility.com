@@ -1,6 +1,6 @@
 ---
 title: 'Quotes: Less is More. True or False?'
-description: "Explore the truth behind \"Less is More\" with Martin Hinshelwood's insights on #agile. Discover how simplicity can drive team success! #shorts #scrum"
+description: Explores how applying 'less is more' in Agile boosts productivity and quality by focusing on high-value tasks, reducing waste, and streamlining team workflows.
 date: 2023-10-14T07:00:13Z
 weight: 1000
 ResourceId: V88FjP9f7_0
@@ -44,6 +44,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:45Z
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

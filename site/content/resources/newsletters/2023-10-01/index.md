@@ -1,6 +1,6 @@
 ---
 title: 'Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood'
-description: "Join Dr. Joanna Płaskonka & Martin Hinshelwood for an exclusive 18-minute webcast on Agile Leadership & Transformation. Sign up now! \U0001F31F"
+description: Learn practical Agile leadership and transformation strategies from Dr. Joanna Płaskonka and Martin Hinshelwood, including expert insights, Q&A, and actionable guidance.
 ResourceId: 9YRzr3RR2Da
 ResourceImport: true
 ResourceType: newsletters
@@ -24,6 +24,8 @@ tags:
 - Agile Transformation
 - Agile Leadership
 - Organisational Agility
+Watermarks:
+  description: 2025-05-07T13:09:07Z
 
 ---
 **🌟 Exclusive Webcast #2: "Agile [Leadership]({{< ref "/categories/leadership" >}}) & [Agile Transformation]({{< ref "/tags/agile-transformation" >}})" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

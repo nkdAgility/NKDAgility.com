@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Sustainable Scaling: Overcoming Product Development Challenges with Naked Agility'
-description: Unlock the secrets to sustainable product development scaling! Discover how to overcome challenges and foster a thriving team culture with Naked Agility.
+description: Learn how to overcome scaling challenges in product development by reducing technical debt, improving team alignment, and building sustainable, growth-ready systems.
 date: 2025-02-28T06:00:27Z
 weight: 355
 ResourceId: bYqzpA0697Y
@@ -39,6 +39,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T12:49:21Z
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [product development]({{< ref "/categories/product-development" >}}) is a challenge that many organisations face, and I can tell you from experience that it’s never as simple as just adding more people to the mix. At Naked Agility, we’ve learned that true scaling involves creating systems that allow teams to expand seamlessly without sacrificing speed or quality. 

@@ -1,6 +1,6 @@
 ---
 title: 'Mastering the Art of Scaling Scrum: Insights from the Scaled Professional Scrum Course'
-description: Unlock the secrets to scaling Scrum effectively! Discover insights from the Scaled Professional Scrum course and equip your team to overcome common challenges.
+description: Learn practical strategies for overcoming common challenges in scaling Scrum, based on hands-on insights from the Scaled Professional Scrum course and the Nexus framework.
 date: 2022-08-23T16:53:08Z
 weight: 640
 ResourceId: sBBKKlfwlrA
@@ -40,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:14:47Z
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}): Overcoming Challenges with the Scaled [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Course

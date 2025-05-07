@@ -1,6 +1,6 @@
 ---
 title: What should you do if your Sprint Review delivers harsh, scathing feedback?
-description: "Master Sprint reviews with confidence! Learn to turn harsh feedback into actionable insights and align with stakeholders for product success. \U0001F680"
+description: Learn how Agile teams can handle harsh Sprint Review feedback by analysing root causes, engaging stakeholders, and deciding whether to halt, pivot, or persevere.
 date: 2023-09-08T07:00:07Z
 weight: 750
 ResourceId: LpiLOBG7WgI
@@ -44,6 +44,8 @@ categories:
 - Product Development
 - Scrum
 - Product Management
+Watermarks:
+  description: 2025-05-07T13:09:36Z
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

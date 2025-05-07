@@ -1,6 +1,6 @@
 ---
 title: Why Handoffs Are Killing Your Agility
-description: Explore the detrimental impact of handoffs in software development and discover strategies to eliminate them for better agility.
+description: Excessive handoffs in software development create delays, reduce quality, and harm team morale. Learn how eliminating handoffs boosts agility, flow, and value delivery.
 ResourceId: pDvDdIEi9sj
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -40,6 +40,8 @@ categories:
 - Lean
 - Engineering Excellence
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
+Watermarks:
+  description: 2025-05-07T12:50:01Z
 
 ---
 Many organisations attempt to adopt [Lean]({{< ref "/categories/lean" >}}) practices without fully understanding their implications in [software development]({{< ref "/tags/software-development" >}}). This often leads to excessive handoffs, which fragment communication and reduce agility.

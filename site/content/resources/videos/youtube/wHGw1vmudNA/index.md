@@ -1,6 +1,6 @@
 ---
 title: 7 harbingers of the Agile apocalypse- War
-description: "Explore how internal 'wars' in organisations mirror Norse Ragnarök, revealing paths to innovation or downfall. Join Martin to navigate these conflicts! \U0001F6E1️⚔️"
+description: Explores how unmanaged conflict in agile teams can escalate from healthy debate to destructive division, and offers strategies for resolving disputes and fostering collaboration.
 date: 2023-10-19T13:00:46Z
 weight: 610
 ResourceId: wHGw1vmudNA
@@ -41,6 +41,8 @@ resourceTypes:
 categories:
 - Technical Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:37Z
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

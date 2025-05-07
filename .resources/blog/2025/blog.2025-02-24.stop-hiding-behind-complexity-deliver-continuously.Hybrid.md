@@ -1,6 +1,6 @@
 ---
 title: Stop Hiding Behind Complexity and Start Delivering Continuously
-description: Unlock continuous delivery for any software, regardless of complexity. Invest in fixing technical debt and automate processes for faster, reliable releases.
+description: Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement—not technical barriers.
 ResourceId: 7hEAycZIn8w
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -45,6 +45,8 @@ categories:
 - Engineering Excellence
 - Product Development
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
+Watermarks:
+  description: 2025-05-07T12:49:30Z
 
 ---
 Every organisation says their software is 'too complex' for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref "/tags/azure-devops" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.

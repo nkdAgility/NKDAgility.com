@@ -1,6 +1,6 @@
 ---
 title: Code Reviews for Quality Assurance
-description: Discover how to integrate quality from the start in software development with Martin Hinshelwood. Embrace shifting left for better products and reduced technical debt!
+description: Explores code review practices for quality assurance, highlighting automation, pull requests, and early defect detection to ensure high-quality, reliable software delivery.
 date: 2024-11-20T07:00:26Z
 weight: 380
 ResourceId: s4h2K62V_d0
@@ -38,6 +38,8 @@ resourceTypes:
 - video
 categories:
 - Engineering Excellence
+Watermarks:
+  description: 2025-05-07T12:57:15Z
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

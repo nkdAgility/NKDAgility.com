@@ -1,6 +1,6 @@
 ---
 title: Getting started with a modern source control system and DevOps
-description: Discover how to choose a modern source control system that enhances your DevOps practices and supports your software development lifecycle effectively.
+description: Learn key practices for adopting modern source control and DevOps, including automation, release pipelines, and team collaboration to improve software delivery quality.
 ResourceId: bkiQSbbO78R
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -39,6 +39,8 @@ categories:
 - Engineering Excellence
 - DevOps
 preview: excellence-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:16:25Z
 
 ---
 There are a number of things that you have to think about when selecting a [modern source control]({{< ref "/tags/modern-source-control" >}}) system. Some of that is purely about code, but modern source control systems are about way more than code. They are about your entire application lifecycle and supporting [DevOps]({{< ref "/categories/devops" >}}) practices, they are about the metadata that you use to understand and manage your development processes and deliver great software. The tools you choose should compliment the professional people and practices that you use.

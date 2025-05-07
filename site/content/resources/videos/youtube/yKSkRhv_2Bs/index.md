@@ -1,6 +1,6 @@
 ---
 title: Reasons to do an APS Course in 60 Seconds
-description: 'Discover why an APS course is a game-changer for your career in just 60 seconds! Join Martin Hinshelwood and unlock your agile potential. #shorts #agile'
+description: Discover how an APS (Agile Professional Scrum) course helps teams start, refresh, or align their Scrum practices for improved collaboration and effective Agile delivery.
 date: 2023-07-10T14:30:31Z
 weight: 690
 ResourceId: yKSkRhv_2Bs
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:10:55Z
 
 ---
 ## Unlock the Full Potential of [Scrum]({{< ref "/categories/scrum" >}}) with APS Courses

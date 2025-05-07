@@ -1,6 +1,6 @@
 ---
 title: No go zone for Agile consultants
-description: 'Discover common pitfalls for new agile consultants and learn how to excel in your role with expert insights from Martin Hinshelwood. #Agile #Consulting #Shorts'
+description: Explores the broader role of Agile consultants beyond coaching, highlighting the need for teaching, leadership, and driving real organisational change for client success.
 date: 2023-05-10T09:30:14Z
 weight: 665
 ResourceId: ZnXrAarX1Wg
@@ -33,6 +33,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:12:33Z
 
 ---
 **No go zone for Agile consultants**

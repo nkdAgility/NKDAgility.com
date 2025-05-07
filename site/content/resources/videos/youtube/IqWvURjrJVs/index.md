@@ -1,6 +1,6 @@
 ---
 title: Znaczenie znajomości terenu
-description: "Discover how understanding terrain enhances agility through Poland's unique mushroom foraging sport. Join us in exploring agile principles! \U0001F344✨"
+description: Explores how knowledge of terrain, using mushroom picking as an example, can teach agility and adaptability in agile teams and project management environments.
 date: 2023-08-10T14:45:00Z
 weight: 1000
 ResourceId: IqWvURjrJVs
@@ -35,6 +35,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:10:16Z
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?

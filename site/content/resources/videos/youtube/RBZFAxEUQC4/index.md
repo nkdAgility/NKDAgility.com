@@ -1,6 +1,6 @@
 ---
 title: '7 deadly sins of Agile: Lust'
-description: "Discover why 'lust' for quick agile solutions can hinder transformation. Learn to tailor agile practices to your unique needs! \U0001F680\U0001F504 #Agile #Transformation"
+description: Explores why Agile transformation requires genuine commitment and adaptation, warning against quick fixes and emphasising the need for a tailored, organisation-specific approach.
 date: 2023-10-12T07:00:12Z
 weight: 1000
 ResourceId: RBZFAxEUQC4
@@ -38,6 +38,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:08:51Z
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

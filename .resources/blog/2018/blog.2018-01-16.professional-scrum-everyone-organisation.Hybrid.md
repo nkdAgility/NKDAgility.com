@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum is for everyone in your organisation
-description: Discover how Professional Scrum can empower everyone in your organization to enhance collaboration, drive value, and embrace agile transformation.
+description: Explains how involving everyone in Professional Scrum training fosters organisational agility, breaks down silos, and empowers teams to drive meaningful change together.
 ResourceId: Cr7wjIJ8Uvb
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -48,6 +48,8 @@ categories:
 - Scrum
 - Product Development
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
+Watermarks:
+  description: 2025-05-07T13:16:21Z
 
 ---
 Recently I worked with a new customer in Denver to help them move towards a greater degree of [Scrum]({{< ref "/categories/scrum" >}}) in their [software development]({{< ref "/tags/software-development" >}}). The idea that Scrum is for everyone in your organisation is kind of new, but it reflects the modern understanding of the way people work, and the rejection of Taylorism and command and control. You [cant use someone else approaches to get to agility](https://nkdagility.com/organisational-change-create-path/), but you can learn from it.

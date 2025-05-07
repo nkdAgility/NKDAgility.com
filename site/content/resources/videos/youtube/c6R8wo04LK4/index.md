@@ -1,6 +1,6 @@
 ---
 title: Hardest Part of Adopting Scrum?
-description: 'Discover the toughest challenge in adopting Scrum as Martin Hinshelwood shares insights in this engaging short video. #Scrum #Agile #Shorts'
+description: Overcoming the belief in quick fixes is the hardest part of Scrum adoption; true success requires mindset change, continuous learning, and organisational adaptability.
 date: 2023-06-17T11:00:32Z
 weight: 1000
 ResourceId: c6R8wo04LK4
@@ -31,6 +31,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:11:31Z
 
 ---
 ## Debunking the "Magic" Myth

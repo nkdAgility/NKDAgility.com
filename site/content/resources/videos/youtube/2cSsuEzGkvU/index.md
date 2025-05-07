@@ -1,6 +1,6 @@
 ---
 title: 'Empathy in Agile: Building Trust and Stronger Relationships for Success'
-description: Discover how empathy and respect can transform your agile practices. Learn to build trust within teams, with leadership, and towards customers for lasting success.
+description: Explores how empathy, trust, and respect strengthen agile teams, improve collaboration, reduce bias, and foster continuous improvement in organisations and with customers.
 date: 2023-12-12T11:00:04Z
 weight: 1000
 ResourceId: 2cSsuEzGkvU
@@ -43,6 +43,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:07:02Z
 
 ---
 In my journey through the world of agility, I've come to realise that the foundation of successful agile practices lies not just in frameworks or methodologies, but in the relationships we cultivate. Bringing modesty and respect for others into our conversations is paramount. It’s about building trust—trust that extends beyond our immediate teams to encompass the entire organisation and even our customers.

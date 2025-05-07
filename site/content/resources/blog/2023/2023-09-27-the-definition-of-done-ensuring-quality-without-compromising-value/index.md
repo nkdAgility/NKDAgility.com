@@ -1,6 +1,6 @@
 ---
 title: 'The Definition of Done: Ensuring Quality without Compromising Value'
-description: Discover the importance of the Definition of Done in agile practices. Ensure quality and transparency in your projects with insights from NKDAgility. Learn more!
+description: Explains how to maintain clear, measurable quality standards with the Definition of Done, while avoiding confusion with acceptance criteria and preserving product value.
 ResourceId: DcwDyX1ZGUP
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -39,6 +39,8 @@ categories:
 - Scrum
 - Engineering Excellence
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:09:18Z
 
 ---
 The [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD) is a sacrosanct measure of quality, ensuring that every piece of work meets the standards necessary for release. On the other hand, acceptance criteria focus on the work's content. Merging the two can risk the integrity of a working, usable product. This article delves into the nuances of maintaining the sanctity of the DoD while ensuring the delivery of valuable increments.

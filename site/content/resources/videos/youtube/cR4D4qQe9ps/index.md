@@ -1,6 +1,6 @@
 ---
 title: '#1 tip for a new Scrum Master'
-description: 'Unlock your potential as a Scrum Master! Join Martin Hinshelwood for his top tip to thrive with your new Agile team. #Scrum #Agile #Shorts'
+description: New Scrum Masters should start by thoroughly reading the Scrum Guide to understand Scrum principles, roles, and practices, forming a strong foundation for Agile success.
 date: 2023-05-17T07:00:14Z
 weight: 690
 ResourceId: cR4D4qQe9ps
@@ -41,6 +41,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:12:24Z
 
 ---
 **#1 tip for a new [Scrum]({{< ref "/categories/scrum" >}}) Master**

@@ -1,6 +1,6 @@
 ---
 title: Worst agile advice you've ever heard?
-description: 'Discover the worst agile advice ever! Join Martin Hinshelwood as he highlights the pitfalls of focusing on agile mechanics over core values. #agile #scrum #shorts'
+description: Highlights why rigid rules in Agile and Scrum, like mandatory stand-ups, undermine flexibility and inclusivity, stressing the importance of adapting to team needs.
 date: 2023-05-09T09:30:04Z
 weight: 690
 ResourceId: L6opxb0FYcU
@@ -40,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:12:36Z
 
 ---
 **Worst agile advice you've ever heard?**
