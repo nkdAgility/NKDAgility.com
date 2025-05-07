@@ -5,8 +5,5 @@ creator: Martin Hinshelwood
 id: "49741"
 type: customers
 slug: epic-games
-tags:
-  - featured
-  - homepage
 preview: Epic-Games-logo-tight.png
 ---

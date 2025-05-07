@@ -5,7 +5,5 @@ creator: Martin Hinshelwood
 id: "45362"
 type: customers
 slug: boeing
-tags:
-  - homepage
 preview: Boeing.jpg
 ---

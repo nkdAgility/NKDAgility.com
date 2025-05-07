@@ -5,7 +5,5 @@ creator: Martin Hinshelwood
 id: "11807"
 type: customers
 slug: schlumberger
-tags:
-  - homepage
 preview: nkdagility-customer-schlumberger-200x75.png
 ---
