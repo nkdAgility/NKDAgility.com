@@ -4,6 +4,7 @@ abstract: A framework is a structured approach that provides guidelines, princip
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+weight: 380
 trustpilot: false
 description: A structured approach that provides guidelines and rules but allows flexibility in implementation (e.g., Scrum, SAFe, ITIL).
 Instructions: |-

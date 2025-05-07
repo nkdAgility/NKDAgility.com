@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 655
 description: Scaling agile beyond teams to drive enterprise-wide transformation and innovation.
 Instructions: |-
   **Use this category only for discussions on Large Scale Agility.**  

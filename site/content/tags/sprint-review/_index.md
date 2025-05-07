@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 1000
 description: Inspecting and adapting the increment to ensure transparency and stakeholder feedback.
 Instructions: |-
   **Use this category only for discussions on Sprint Review.**  

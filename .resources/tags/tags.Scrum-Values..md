@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 405
 description: Commitment, courage, focus, openness, and respect as the foundation of Scrum.
 Instructions: |-
   **Use this category only for discussions on Scrum Values.**  

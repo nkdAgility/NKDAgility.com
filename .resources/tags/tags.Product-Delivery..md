@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 345
 description: The process of delivering usable working software products to customers, including planning, development, testing, and deployment.
 Instructions: |-
   **Use this category only for discussions on Product Delivery.**  

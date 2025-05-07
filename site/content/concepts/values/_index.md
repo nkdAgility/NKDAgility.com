@@ -4,6 +4,7 @@ abstract: Value refers to the core beliefs and principles that influence the beh
 ClassificationType: concepts
 ClassificationContentOrigin: hybrid
 date: 2025-04-09T14:00:00
+weight: 455
 trustpilot: false
 description: Values represents the deeply held beliefs that shape decision-making, culture, and behaviours within organisations, especially in Agile, DevOps, and Lean contexts.
 Instructions: |-

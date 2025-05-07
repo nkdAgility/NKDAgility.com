@@ -4,6 +4,7 @@ abstract: Kanban is a change management strategy that focuses on improving workf
 ClassificationType: categories
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 330
 ResourceId: _O7H5eH902L
 description: A strategy for making work observable, managing flow, and continuously improving value delivery. Specifically Kanban as outlined in the Kanban Guide.
 Instructions: |-

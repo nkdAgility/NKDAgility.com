@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 565
 description: Achieving excellence in software craftsmanship, architecture, and engineering practices.
 Instructions: |-
   **Use this category only for discussions on Technical Mastery.**  

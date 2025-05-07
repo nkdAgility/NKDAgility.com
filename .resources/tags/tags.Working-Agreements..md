@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 440
 description: Establishing team norms and collaboration principles for effective teamwork.
 Instructions: |-
   **Use this category only for discussions on Working Agreements.**  

@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 200
 description: 'The foundation of Agile: clean code, automation, and test-first development.'
 Instructions: |-
   **Use this category only for discussions on Engineering Practices.**  

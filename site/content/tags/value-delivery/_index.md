@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 400
 description: Strategies for iterative and continuous value delivery to customers.
 Instructions: |-
   **Use this category only for discussions on Value Delivery.**  

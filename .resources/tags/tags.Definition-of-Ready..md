@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 295
 description: Ensuring backlog items meet a clear, actionable standard before sprint planning.
 Instructions: |-
   **Use this category only for discussions on Definition of Ready.**  

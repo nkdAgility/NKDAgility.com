@@ -41,8 +41,8 @@
         {{ $paginator := .Paginate $sortedPages 150 }}
         {{ range $paginator.Pages }}
           <div class="col-xl-4 p-2">
-            {{- if or (eq .Type "tags") (eq .Type "categories") }}
-              {{- partial "page-sections/sections-taxonomies-card.html" (dict "site" .Site "context" . "subTypes" "resources") }}
+            {{- if or (eq .Type "tags") (eq .Type "categories") (eq .Type "concepts") }}
+              {{- partial "components/cards/taxonomy.html" (dict "site" .Site "context" . "subTypes" "resources") }}
             {{- else }}
               {{- $title := .Title }}
               {{- $description := .Description }}

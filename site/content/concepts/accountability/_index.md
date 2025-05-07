@@ -4,6 +4,7 @@ abstract: 'Accountability is a structural concept that delineates who is answera
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-10T09:00:00
+weight: 535
 trustpilot: false
 description: Accountability is a structural concept describing who is answerable for outcomes in a system of work. It defines ownership for results, not activity.
 Instructions: |-

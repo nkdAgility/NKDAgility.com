@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 500
 description: Scaling agility beyond teams to drive organisational responsiveness and adaptability.
 Instructions: |-
   **Use this category only for discussions on Enterprise Agility.**  

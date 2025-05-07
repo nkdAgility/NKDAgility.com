@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 1000
 description: Tightening the loop between delivery and learning to ensure products meet real needs.
 Instructions: |-
   **Use this category only for discussions on Customer Feedback Loops.**  

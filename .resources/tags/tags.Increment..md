@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-05-05T10:17:24Z
+weight: 250
 description: Delivering working, valuable software at the end of each iteration, ensuring value is incrementally added to the product.
 Instructions: |-
   **Use this category only for discussions on Increment.**  

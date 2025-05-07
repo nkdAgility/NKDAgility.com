@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 1000
 description: An approach to understanding and managing organisations, systems, and uncertainty using complexity science, emergence, and nonlinear dynamics. Incudes but not limited to Cynefin and Stacy.
 Instructions: |-
   **Use this category only for discussions on Complexity Thinking.**  

@@ -4,6 +4,7 @@ abstract: A principle is a fundamental, actionable belief or guiding rule that s
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+weight: 565
 trustpilot: false
 description: A principle is a fundamental, actionable belief or guiding rule that shapes decision-making and team behaviour in an organisation.
 Instructions: |-

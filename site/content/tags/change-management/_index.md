@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 730
 description: Helping organisations shift mindsets and processes without falling into transformation theatre.
 Instructions: |-
   **Use this category only for discussions on Change Management.**  

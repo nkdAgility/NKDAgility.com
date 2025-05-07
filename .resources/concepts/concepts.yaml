@@ -4,6 +4,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: hybrid
     date: 2025-04-09T14:00:00
+    weight: 455
     trustpilot: false
     description: Values represents the deeply held beliefs that shape decision-making, culture, and behaviours within organisations, especially in Agile, DevOps, and Lean contexts.
     Instructions: |-
@@ -71,6 +72,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     date: 2025-04-09T14:00:00
+    weight: 525
     trustpilot: false
     description: A tool is a mechanism, technique, or software used to implement or support methods and practices within Agile, Lean, DevOps, or similar methodologies.
     Instructions: |-
@@ -120,6 +122,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     date: 2025-04-09T14:00:00
+    weight: 480
     trustpilot: false
     description: A tenet is a specific guiding rule or doctrine that reinforces a broader philosophy, offering clear direction for decision-making and team behaviour.
     Instructions: |-
@@ -175,6 +178,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     date: 2025-04-09T14:00:00
+    weight: 560
     trustpilot: false
     description: Strategy is a high-level approach that defines how an organisation will achieve its goals, aligning resources, methods, and actions to achieve a shared vision.
     Instructions: |-
@@ -225,6 +229,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     date: 2025-04-09T14:00:00
+    weight: 565
     trustpilot: false
     description: A principle is a fundamental, actionable belief or guiding rule that shapes decision-making and team behaviour in an organisation.
     Instructions: |-
@@ -274,6 +279,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     date: 2025-04-09T14:00:00
+    weight: 350
     trustpilot: false
     description: A practice is a commonly used technique, habit, or routine that helps teams consistently achieve goals, improve performance, and enhance collaboration within Agile, DevOps, and Lean environments.
     Instructions: |-
@@ -326,6 +332,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: human
     date: 2025-04-09T14:00:00
+    weight: 580
     trustpilot: false
     description: Philosophy defines the guiding principles and beliefs that shape methodologies and influence decision-making within Agile, DevOps, Lean, and related fields.
     Instructions: |-
@@ -378,6 +385,7 @@
     title: Observability
     abstract: Observability is the practice of gaining comprehensive insights into systems and processes, enabling teams to understand work flows and value delivery. It transcends traditional monitoring by offering a holistic view of system behaviour, which allows teams to identify patterns, diagnose issues, and make informed decisions based on real-time data. This capability is essential for fostering transparency and collaboration within teams and across organisational silos. By implementing observability, organisations can improve their ability to deliver value predictably and sustainably, supporting continuous improvement through learning and adaptation. It encompasses not only technical telemetry but also signals reflecting team dynamics, product experiences, and alignment with strategic goals, thus providing a complete view of performance that includes both human and technical factors. When integrated into daily practices, observability cultivates a feedback-rich environment that enhances decision-making and strengthens delivery capabilities. It represents a cultural shift that empowers teams to take ownership of their processes and outcomes, aligning with Lean and Agile principles focused on understanding flow and eliminating waste. By embedding observability into the organisational framework, teams can create a resilient environment that leverages data-driven insights, ultimately leading to improved products, stronger teams, and more strategic business outcomes.
     date: 2025-04-09T14:00:00
+    weight: 310
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     trustpilot: false
@@ -426,6 +434,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     date: 2025-04-09T14:00:00
+    weight: 475
     trustpilot: false
     description: A model is a conceptual framework used to represent, understand, and analyse complex systems or problems, aiding decision-making and improving organisational performance.
     Instructions: |-
@@ -470,6 +479,7 @@
     title: Method
     abstract: Method refers to a structured, step-by-step approach employed to achieve specific objectives within a system, distinguishing itself from frameworks that provide broader guidelines. In Agile, Lean, and DevOps environments, methods are vital for guiding teams through systematic processes that enhance collaborative work, value delivery, and continuous improvement. They are utilised to optimise workflows, manage iterative development, and measure progress effectively. For example, the Scrum method outlines a sequence of events such as Sprint Planning and Daily Scrum to facilitate work in short cycles, while the Kanban method aids in visualising workflows and limiting work in progress. Methods ensure consistency and predictability in outcomes by breaking down complex processes into manageable tasks, allowing teams to execute with precision and adapt to real-time feedback. In Lean, methods focus on eliminating waste to maximise value delivery, whereas in DevOps, practices like Continuous Integration and Continuous Delivery enable rapid and reliable software releases. It is crucial to differentiate methods from frameworks, which provide structural foundations, and practices, which are individual techniques within broader methods. By adhering to structured methods, teams can enhance efficiency, ensure alignment, and consistently deliver value, empowering them to be proactive and adaptable in problem-solving, ultimately leading to improved performance and outcomes. Methods are flexible and can be tailored to fit the unique context of a team or project, allowing for continuous refinement while maintaining a clear path toward goal achievement.
     date: 2025-04-09T14:00:00
+    weight: 365
     description: A method is a structured procedure or technique employed to achieve specific goals, often involving a series of defined steps or actions to solve problems or implement solutions.
     Instructions: |-
       **Use this category only for discussions on Method.**  
@@ -529,6 +539,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     date: 2025-04-09T14:00:00
+    weight: 380
     trustpilot: false
     description: A structured approach that provides guidelines and rules but allows flexibility in implementation (e.g., Scrum, SAFe, ITIL).
     Instructions: |-
@@ -578,6 +589,7 @@
     ClassificationContentOrigin: AI
     trustpilot: false
     date: 2025-04-10T10:30:00Z
+    weight: 695
     description: A structured field of study and practice characterised by consistent principles, methodologies, and standards.
     Instructions: |-
       **Use this category only for discussions on Discipline.**  
@@ -619,6 +631,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     date: 2025-04-09T14:00:00
+    weight: 345
     trustpilot: false
     description: A Capability is a persistent, cross-cutting competence that enables teams or organisations to deliver value predictably, sustainably, and adaptively. Capabilities are not one-off techniques or transient tools; they are cultivated over time and embedded into the way of working.
     Instructions: |-
@@ -671,6 +684,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: human
     date: 2025-03-21T13:59:46Z
+    weight: 385
     trustpilot: false
     description: An artifact is a defined, inspectable representation of work that supports transparency, empirical decision-making, and continuous improvement in agile systems.
     Instructions: |-
@@ -714,6 +728,7 @@
     ClassificationType: concepts
     ClassificationContentOrigin: AI
     date: 2025-04-10T09:00:00
+    weight: 535
     trustpilot: false
     description: Accountability is a structural concept describing who is answerable for outcomes in a system of work. It defines ownership for results, not activity.
     Instructions: |-

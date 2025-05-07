@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 560
 description: Drive change with Agile Leadership. Foster adaptability, empower teams, and create a culture of continuous improvement.
 Instructions: |-
   **Use this category only for discussions on Agile Leadership.**  

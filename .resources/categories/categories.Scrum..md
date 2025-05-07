@@ -5,6 +5,7 @@ ClassificationType: categories
 ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-03-04T10:00:00
+weight: 470
 ResourceId: peNS32Lw-sn
 aliases:
 - /resources/methods/scrum-framework/

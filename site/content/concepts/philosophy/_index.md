@@ -4,6 +4,7 @@ abstract: The Philosophy category encompasses the foundational beliefs that unde
 ClassificationType: concepts
 ClassificationContentOrigin: human
 date: 2025-04-09T14:00:00
+weight: 580
 trustpilot: false
 description: Philosophy defines the guiding principles and beliefs that shape methodologies and influence decision-making within Agile, DevOps, Lean, and related fields.
 Instructions: |-

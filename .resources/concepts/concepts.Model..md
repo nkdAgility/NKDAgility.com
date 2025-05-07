@@ -4,6 +4,7 @@ abstract: A model is a conceptual representation that aids teams in understandin
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+weight: 475
 trustpilot: false
 description: A model is a conceptual framework used to represent, understand, and analyse complex systems or problems, aiding decision-making and improving organisational performance.
 Instructions: |-

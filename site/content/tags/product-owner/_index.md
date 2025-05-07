@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 1000
 description: The Product Owner is an accountability in Scrum, responsible for maximising product value through effective backlog management and stakeholder alignment.
 Instructions: |-
   **Use this category only for discussions on the Product Owner as an accountability.**  

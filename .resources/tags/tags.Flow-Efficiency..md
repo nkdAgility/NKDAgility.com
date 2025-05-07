@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 270
 description: Optimising the throughput of work across the value stream to improve speed and reduce bottlenecks.
 Instructions: |-
   **Use this category only for discussions on Flow Efficiency.**  
