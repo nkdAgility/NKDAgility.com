@@ -5,8 +5,6 @@ creator: Martin Hinshelwood
 id: "12008"
 type: customers
 slug: ghana-police-service
-tags:
-  - homepage
 preview: ghana-police-service.jpg
 customer-industries: Government
 ---

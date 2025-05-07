@@ -5,7 +5,5 @@ creator: Martin Hinshelwood
 id: "38426"
 type: customers
 slug: capita
-tags:
-  - homepage
 preview: nkdagility-customer-capita.png
 ---

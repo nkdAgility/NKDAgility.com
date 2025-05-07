@@ -5,7 +5,5 @@ creator: Martin Hinshelwood
 id: "45381"
 type: customers
 slug: jack-links
-tags:
-  - homepage
 preview: Jack_links_logo.png
 ---
