@@ -45,8 +45,6 @@ Overall I wanted to:
 
 Automation without traceability is irresponsible. This system deliberately blends machine suggestions with deterministic validation and penalty logic to ensure reliable, explainable outcomes.
 
-### Data Information Architecture
-
 While I started with just a dump of my 19 years of categories and tags, over that time I had moved from a web developer through DevOps and Scrum to a process consultant. As you can imagine, the context of the taxonomies and their intent changed a lot over time. I needed to really think about what I wanted for each, and the new classification system relies on three interconnected layers:
 
 - **Concepts** → High-level thematic anchors that describe foundational ideas (e.g., Philosophy, Practices, Methods, Values, Strategy). These are used to "classify the classifications."
@@ -57,25 +55,11 @@ By combining these, I created a multi-level structure that improves searchabilit
 
 The AI assigns tags, categories, and concepts to all the content items using "instructions" embedded in the classification pages.
 
-### Technical Architecture
-
 I'm a Windows user and have been for years, so I wrote all of the scripting in PowerShell. For me, this is the most flexible as it’s native, and anything I can’t do in PowerShell I can use C#. I do have some calls out to Python, but that’s another post. Iterating over a bunch of Markdown files with YAML front matter is a trivial experience, but I have built up a bunch of helper modules over the last 6 months that do a lot of the heavy lifting — so much so that it can take minutes to build new scripts for specific one-time tasks. For example, if I want to get a list of all my content resources pre-parsed into an ordered front matter hashtable and the content, then all I need to do is call `$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 1` and I have a ready-to-iterate collection.
-
-| Component                                | Function                                                                             |
-| ---------------------------------------- | ------------------------------------------------------------------------------------ |
-| `ClassificationHelpers.ps1`              | PowerShell orchestration: scanning posts, building prompts, managing runs.           |
-| `OpenAI.ps1`                             | Connects to OpenAI, prepares structured prompts, parses structured responses.        |
-| `LoggingHelper.ps1`                      | Records all inputs, outputs, penalties, and decisions for transparency.              |
-| `Update-ResourcesFrontMatter.ps1`        | Updates resource front matter with classification metadata.                          |
-| `Update-ClassisificationFrontMatter.ps1` | Updates classification-specific front matter.                                        |
-| Hugo Page Bundle                         | Stores classification data (`data.index.categories.json`) alongside each `index.md`. |
-| Checksum Validation                      | Applies deterministic rules to penalise weak, inconsistent, or low-signal results.   |
-
-The two main entry points are `Update-ResourcesFrontMatter.ps1`, which updates the bulk of the posts, and `Update-ClassisificationFrontMatter.ps1`, which focuses on the classification pages.
 
 I also have a batch version, and all of my code is in GitHub where it can be versioned, branched, and reviewed with a PR.
 
-### How it Works
+## How it Works
 
 I created a JSON cache format to reliably store the results from OpenAI. This design gives me a structured, reusable data layer that feeds the rest of the system with clean, consistent inputs. Initially, I tried creating a prompt with a list of all 160 tags and categories and asking the AI to select them, but that created a bunch of junk.
 
@@ -114,7 +98,7 @@ AI here has **no editorial authority**. It supplies **probabilistic suggestions*
 
 This reflects the ethos outlined in [Human and AI Agency in Adaptive Systems](https://preview.nkdagility.com/resources/ffJaR9AaTl7): **humans set direction and own accountability; AI optimises within defined boundaries**.
 
-### Technical Strengths
+## Technical Strengths
 
 I've been very impressed with the capability, and I’ve also learned valuable lessons about where AI shines and where human judgment is indispensable. Every classification has a clear reason for being attached to the content that’s reviewable and transparent. I even use the reasoning on the site.
 
@@ -131,6 +115,6 @@ I've been very impressed with the capability, and I’ve also learned valuable l
 - Add a human review loop to feed corrections back into system tuning.
 - Build a site-wide dashboard showing confidence trends, penalty patterns, and overall classification health.
 
-### Closing Thoughts
+## Closing Thoughts
 
 Bringing AI into this system has been transformative, and if you’re considering similar work, my advice is simple: don’t delegate accountability — use AI to amplify your judgment. By combining automation with careful oversight, I’ve turned a massive manual maintenance burden into a scalable, transparent process. This work has not only improved the quality and consistency of my site, but it has also deepened my own understanding of how to use AI responsibly: as a partner in execution, not as a substitute for accountability. I’m excited about where this will go next and how it can push the boundaries of what’s possible in content management.
