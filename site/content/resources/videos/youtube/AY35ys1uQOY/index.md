@@ -19,7 +19,6 @@ isShort: true
 aliases:
 - /resources/AY35ys1uQOY
 - /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
-- /resources/videos/how-do-you-know-if-you-ve-got-a-great-sprint-goal
 aliasesArchive:
 - /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/how-do-you-know-if-youve-got-a-great-sprint-goal

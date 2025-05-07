@@ -17,7 +17,6 @@ aliases:
 - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey-nY4tmtGKO6I
 - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey
-- /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-master-s-journey
 aliasesArchive:
 - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-

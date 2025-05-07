@@ -20,7 +20,6 @@ aliases:
 - /resources/NeGch-lQkPA
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
 aliasesArchive:
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
 - /resources/overview-of-applying-flow-metrics-for-scrum-course

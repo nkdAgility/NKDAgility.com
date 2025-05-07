@@ -20,7 +20,6 @@ aliases:
 - /resources/kTszGsXPLXY
 - /resources/videos/getting-started-with-kanban
 - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
-- /resources/videos/getting-started-with-kanban.
 aliasesArchive:
 - /resources/videos/getting-started-with-kanban-
 - /resources/getting-started-with-kanban

@@ -10,11 +10,11 @@ ResourceImport: true
 ResourceImportSource: Youtube
 videoId: pQyifHyTkWo
 url: /resources/videos/:slug
-slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+slug: navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
 layout: video
 aliases:
 - /resources/pQyifHyTkWo
-- /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+- /resources/videos/navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
 - /resources/videos/3-from-monolith-to-microservices-making-the-transition-smooth
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
@@ -23,6 +23,8 @@ aliasesArchive:
 - /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 - unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 - /resources/videos/3-from-monolith-to-microservices-making-the-transition-smooth
+- /resources/videos/navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
+- navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
 preview: https://i.ytimg.com/vi/pQyifHyTkWo/maxresdefault.jpg
 duration: 120
 isShort: false

@@ -20,7 +20,6 @@ aliases:
 - /resources/M4ap4uNzptg
 - /resources/videos/unlocking-agiles-core-questioning-to-create-value
 - /resources/videos/agile-is-failing-organizations
-- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
 aliasesArchive:
 - /resources/videos/unlocking-agiles-core-questioning-to-create-value
 - /resources/unlocking-agiles-core-questioning-to-create-value

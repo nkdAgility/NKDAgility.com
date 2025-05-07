@@ -16,7 +16,6 @@ aliases:
 - /resources/uvU_ATou6QY
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner
-- /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliasesArchive:
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-

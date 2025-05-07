@@ -12,7 +12,7 @@ $refreshData = $false
 
 $videoUpdateLimit = 50
 $maxYoutubeSearchResults = 1000
-$maxYoutubeDataAgeHours = 300
+$maxYoutubeDataAgeHours = 30
 
 $captionsManafestUpdateLimit = 50
 $captionsDownloadLimit = 25
@@ -70,6 +70,9 @@ else {
 }
 
 
+
+
+
 $videoUpdateCount = 0
 $captionsManafestUpdateCount = 0
 $captionsDownloadCount = 0
@@ -87,7 +90,7 @@ foreach ($video in $videoData.Videos) {
     $videoId = $video.contentDetails.videoId
     # Create the directory named after the video ID
     $videoDir = Join-Path $outputDir $videoId
-    if ($video.status.privacyStatus -ne "public") {
+    if ($video.status.privacyStatus -in @("private", "unlisted")) {    
         Write-Host "  $($video.status.privacyStatus) Video: Skipping & Cleaning" -ForegroundColor Yellow
         if (Test-Path $videoDir) {
             Remove-Item -Path $videoDir -Recurse -Force

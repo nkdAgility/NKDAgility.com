@@ -21,7 +21,6 @@ aliases:
 - /resources/videos/worst-agile-advice-youve-ever-heard-L6opxb0FYcU
 - /resources/videos/worst-agile-advice-youve-ever-heard
 - /resources/videos/worst-agile-advice-heard
-- /resources/videos/worst-agile-advice-you-ve-ever-heard
 aliasesArchive:
 - /resources/videos/worst-agile-advice-youve-ever-heard
 - /resources/worst-agile-advice-youve-ever-heard

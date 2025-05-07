@@ -20,7 +20,6 @@ aliases:
 - /resources/ZisAuhrOhcY
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
-- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
 aliasesArchive:
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients

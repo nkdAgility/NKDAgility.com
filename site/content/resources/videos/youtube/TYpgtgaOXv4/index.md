@@ -20,7 +20,6 @@ aliases:
 - /resources/TYpgtgaOXv4
 - /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
-- /resources/videos/the-importance-of-product-backlog-management-in-today-s-agile-landscape
 aliasesArchive:
 - /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape

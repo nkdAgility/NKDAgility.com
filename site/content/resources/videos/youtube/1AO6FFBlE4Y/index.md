@@ -15,7 +15,6 @@ aliases:
 - /resources/1AO6FFBlE4Y
 - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 - /resources/videos/the-high-cost-of-poor-quality-code
-- /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
 aliasesArchive:
 - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 - /resources/videos/the-high-cost-of-poor-quality-code-

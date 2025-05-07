@@ -16,7 +16,6 @@ aliases:
 - /resources/6L2r8YrehWc
 - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
 - /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
-- /resources/videos/why-the-scrum-master-s-true-power-lies-in-influence-not-authority
 aliasesArchive:
 - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
 - /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-

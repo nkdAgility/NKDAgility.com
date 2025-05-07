@@ -16,7 +16,6 @@ aliases:
 - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
 - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
 - /resources/videos/kanban-principles
-- /resources/videos/transform-your-team-s-efficiency-the-three-core-principles-of-caman-workflow-management
 aliasesArchive:
 - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
 - /resources/videos/kanban-principles

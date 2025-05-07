@@ -11,14 +11,14 @@ ResourceImportSource: Youtube
 videoId: cEvTqpcClmE
 source: internal
 url: /resources/videos/:slug
-slug: 5-tools-that-scrum-masters-love-part-1
+slug: unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
 layout: video
 preview: https://i.ytimg.com/vi/cEvTqpcClmE/maxresdefault.jpg
 duration: 91
 isShort: false
 aliases:
 - /resources/cEvTqpcClmE
-- /resources/videos/5-tools-that-scrum-masters-love-part-1
+- /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
 - /resources/videos/4-automating-legacy-systems-the-fastest-way-to-unlock-efficiency
 aliasesArchive:
 - /resources/videos/-tools-that-scrum-masters-love-part-
@@ -27,6 +27,8 @@ aliasesArchive:
 - 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
 - /resources/videos/4-automating-legacy-systems-the-fastest-way-to-unlock-efficiency
 - 5-tools-that-scrum-masters-love-part-1
+- /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
+- unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
 sitemap:
   filename: sitemap.xml
   priority: 0.6

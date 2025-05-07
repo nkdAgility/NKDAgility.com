@@ -20,7 +20,6 @@ aliases:
 - /resources/kORUKHu-64A
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-

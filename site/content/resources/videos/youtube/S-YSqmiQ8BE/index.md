@@ -11,14 +11,14 @@ ResourceImportSource: Youtube
 videoId: S-YSqmiQ8BE
 source: internal
 url: /resources/videos/:slug
-slug: the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+slug: navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 layout: video
 preview: https://i.ytimg.com/vi/S-YSqmiQ8BE/maxresdefault.jpg
 duration: 93
 isShort: false
 aliases:
 - /resources/S-YSqmiQ8BE
-- /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+- /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 - /resources/videos/2-balancing-innovation-with-stability-the-ctos-challenge
 aliasesArchive:
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
@@ -27,6 +27,8 @@ aliasesArchive:
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
 - the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
 - /resources/videos/2-balancing-innovation-with-stability-the-ctos-challenge
+- /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
+- navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6
