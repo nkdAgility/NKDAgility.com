@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 220
 description: Align development with business goals using Behaviour Driven Development (BDD). Improve collaboration and create clear, testable requirements.
 Instructions: |-
   **Use this category only for discussions on Behaviour Driven Development.**  

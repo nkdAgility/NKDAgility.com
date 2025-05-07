@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 630
 description: Visualising workflows to identify inefficiencies and optimise value delivery.
 Instructions: |-
   **Use this category only for discussions on Value Stream Mapping.**  

@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 1000
 description: Applying Lean principles to rapidly test and validate business ideas with minimal risk.
 Instructions: |-
   **Use this category only for discussions on Lean Startup.**  

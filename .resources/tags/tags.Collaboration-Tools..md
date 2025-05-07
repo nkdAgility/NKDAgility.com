@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 660
 description: Platforms that remove friction in communication and coordination, supporting Agile teams.
 Instructions: |-
   **Use this category only for discussions on Collaboration Tools.**  

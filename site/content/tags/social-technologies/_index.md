@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-03-19T10:17:24Z
+weight: 530
 description: Social technologies are systems of thought that shape collaboration, decision-making, and adaptability. Rooted in self-organisation and continuous learning, they enable organisations to evolve, innovate, and create sustainable value.
 Instructions: |-
   **Use this category only for discussions on Social Technologies.**  

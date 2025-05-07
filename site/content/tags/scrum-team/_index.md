@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 575
 description: The Scrum Team is a defined accountability within Scrum, composed of a Scrum Master, Product Owner, and Developers working together toward a shared Product Goal.
 Instructions: |-
   **Use this tag only for content specifically about the Scrum Team as an accountability in the Scrum framework.**  

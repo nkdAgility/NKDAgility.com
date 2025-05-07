@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-04-11T06:00:00
+weight: 1000
 description: Measuring the time from work initiation to customer delivery, helping teams monitor workflow efficiency and improve value delivery.
 Instructions: |-
   **Use this category only for discussions on Lead Time.**  

@@ -4,6 +4,7 @@ abstract: A tenet is a specific, actionable guiding rule or doctrine that reinfo
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+weight: 480
 trustpilot: false
 description: A tenet is a specific guiding rule or doctrine that reinforces a broader philosophy, offering clear direction for decision-making and team behaviour.
 Instructions: |-

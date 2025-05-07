@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: Hybrid
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 725
 description: Professional Scrum is a disciplined ethos of empiricism, accountability, and continuous improvement that transcends the Scrum framework.
 Instructions: |-
   **Use this tag only for content that reflects the ethos of Professional Scrum.**  

@@ -7,6 +7,7 @@ ClassificationType: tags
 ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-05-05T09:00:00Z
+weight: 125
 description: Getting Started with the Definition of Done (DoD). Every team should define what is required, what criteria must be met, for a product increment to be considered releasable.
 Instructions: |-
   **Use this category only for discussions on Definition of Done.**  

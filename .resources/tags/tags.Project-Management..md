@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 890
 description: Coordinating people, processes, and tools to achieve project goals across various methodologies and contexts.
 Instructions: |-
   **Use this category for discussions related to Project Management across all methodologies.**  

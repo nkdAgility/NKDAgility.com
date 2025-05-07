@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 635
 description: Optimising how often software is deployed to enhance feedback loops and value delivery.
 Instructions: |-
   **Use this category only for discussions on Deployment Frequency.**  

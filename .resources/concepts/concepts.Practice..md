@@ -4,6 +4,7 @@ abstract: Practice refers to the consistent and repeatable techniques or habits 
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+weight: 350
 trustpilot: false
 description: A practice is a commonly used technique, habit, or routine that helps teams consistently achieve goals, improve performance, and enhance collaboration within Agile, DevOps, and Lean environments.
 Instructions: |-

@@ -4,6 +4,7 @@ abstract: A tool is a mechanism, technique, or software that assists teams in ef
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+weight: 525
 trustpilot: false
 description: A tool is a mechanism, technique, or software used to implement or support methods and practices within Agile, Lean, DevOps, or similar methodologies.
 Instructions: |-

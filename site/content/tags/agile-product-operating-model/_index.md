@@ -5,6 +5,7 @@ ResourceId: cBWi9iKD1Sa
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-21T09:30:34Z
+weight: 365
 description: Transform your organisation with the Agile Product Operating Model, blending agile practices and product management to deliver consistent, customer-focused value.
 Instructions: |-
   **Use this category only for discussions on Agile Product Operating Model.**  

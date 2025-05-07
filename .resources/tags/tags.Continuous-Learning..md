@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 705
 description: Fostering a growth mindset and knowledge sharing for sustained team improvement.
 Instructions: |-
   **Use this category only for discussions on Continuous Learning.**  

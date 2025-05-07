@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 385
 description: Using experimentation and validated learning to drive product decisions.
 Instructions: |-
   **Use this category only for discussions on Hypothesis Driven Development.**  

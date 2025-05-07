@@ -4,6 +4,7 @@ abstract: Capability refers to a persistent competence that enables teams or org
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+weight: 345
 trustpilot: false
 description: A Capability is a persistent, cross-cutting competence that enables teams or organisations to deliver value predictably, sustainably, and adaptively. Capabilities are not one-off techniques or transient tools; they are cultivated over time and embedded into the way of working.
 Instructions: |-

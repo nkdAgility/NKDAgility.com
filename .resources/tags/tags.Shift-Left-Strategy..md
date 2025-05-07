@@ -4,6 +4,7 @@ abstract: The Shift-Left Strategy is a proactive approach in modern software dev
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-17T14:46:11Z
+weight: 175
 trustpilot: false
 description: A **Shift-Left Strategy** brings testing, security, and compliance earlier in development, reducing defects, accelerating feedback, and improving quality for faster, more reliable delivery.
 Instructions: |-

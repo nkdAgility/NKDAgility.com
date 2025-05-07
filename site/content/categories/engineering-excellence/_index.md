@@ -5,6 +5,7 @@ ClassificationType: categories
 ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 195
 description: Promoting high standards in software craftsmanship and development practices.
 Instructions: |-
   **Use this category only for discussions on Engineering Excellence.**  

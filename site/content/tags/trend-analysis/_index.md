@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 660
 description: Identifying patterns and shifts to inform strategic decision-making.
 Instructions: |-
   **Use this category only for discussions on Trend Analysis.**  

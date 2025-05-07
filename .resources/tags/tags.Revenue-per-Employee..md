@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 585
 description: A financial observability metric showing how much revenue is generated per employee, used to inspect workforce efficiency and strategic alignment over time.
 Instructions: |-
   **Use this tag for content focused on Revenue per Employee as a financial observability metric.**  

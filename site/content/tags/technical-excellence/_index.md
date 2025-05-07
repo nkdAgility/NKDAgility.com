@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 305
 description: Technical Excellence encompasses engineering practices and methodologies that enhance agility, improve code quality, and enable continuous delivery.
 Instructions: |-
   **Use this category only for discussions on Technical Excellence.**  

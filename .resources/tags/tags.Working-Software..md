@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 420
 description: Working software is the tangible, functional output produced during a Sprint, representing a concrete artifact that delivers value to customers.
 Instructions: |-
   **Use this category only for discussions on Working Software.**  

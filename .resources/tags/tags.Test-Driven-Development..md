@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 640
 description: Driving software design through automated tests for better quality.
 Instructions: |-
   **Use this category only for discussions on Test Driven Development.**  

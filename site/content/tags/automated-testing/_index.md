@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 1000
 description: Ensure software quality and reliability with Automated Testing. Detect issues early, reduce manual effort, and accelerate delivery.
 Instructions: |-
   **Use this category only for discussions on Automated Testing.**  

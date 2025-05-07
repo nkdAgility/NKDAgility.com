@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 1000
 description: Measuring and enhancing customer happiness to ensure product-market fit.
 Instructions: |-
   **Use this category only for discussions on Customer Satisfaction.**  

@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 205
 description: Managing the development, maintenance, and governance of software applications throughout their lifecycle.
 Instructions: |-
   **Use this category only for discussions on Application Lifecycle Management.**  

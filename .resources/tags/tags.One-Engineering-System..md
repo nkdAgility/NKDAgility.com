@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 205
 ResourceId: 6z97VZamnQQ
 description: One Engineering System (1ES) is a strategic standardised, integrated framework designed to streamline software development by unifying tools, processes, and practices across teams. It provides a consistent, scalable foundation that supports high-quality, efficient, and secure software delivery.
 Instructions: |-

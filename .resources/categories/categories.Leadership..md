@@ -5,6 +5,7 @@ ClassificationType: categories
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 470
 description: Leadership is about driving organisational agility, fostering accountability, and enabling teams to deliver value continuously. Effective leaders challenge the status quo, inspire collaboration, and guide teams through complex transformations with clarity and purpose. In this category, explore strategies for cultivating adaptive leadership, enhancing decision-making, and building resilient, high-performing teams in the ever-evolving landscape of modern business.
 Instructions: |-
   **Use this category only for discussions on Leadership.**  

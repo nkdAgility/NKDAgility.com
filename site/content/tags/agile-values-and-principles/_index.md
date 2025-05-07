@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 360
 description: Understand and apply Agile Values and Principles based on first principles. Build a foundation for true agility and continuous value delivery
 Instructions: |-
   **Use this category only for discussions on Agile Values and Principles.**  

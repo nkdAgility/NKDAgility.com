@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 385
 description: Ensuring openness and visibility in agile processes to build trust and accountability.
 Instructions: |-
   **Use this category only for discussions on Transparency.**  
