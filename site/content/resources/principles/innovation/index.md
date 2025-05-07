@@ -1,6 +1,6 @@
 ---
 title: Innovation
-description: Explore the concept of innovation, including its definition, importance, and impact on progress across industries and society. Content will be available soon.
+description: Explore the concept of innovation, including its definition, importance, and impact on progress across industries. Content will be available soon.
 ResourceId: 31Zki4xCtFO
 ResourceImport: false
 ResourceType: principles
@@ -25,6 +25,8 @@ card:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T12:57:46Z
 
 ---
 Coming soon!

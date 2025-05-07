@@ -40,6 +40,8 @@ resourceTypes:
 layout: video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T12:58:31Z
 
 ---
 ## **What Is Traditional Management?**

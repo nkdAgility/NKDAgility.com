@@ -13,6 +13,8 @@ $ResourceCatalogue = @{}
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
+$descriptionDateWatermark = [DateTime]::Parse("2025-05-07T12:36:48Z")
+
 Start-TokenServer
 
 $hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 1
@@ -50,7 +52,15 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     #     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'abstract' -fieldValue $abstract -addAfter 'title'
     # }
 
-    if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided") {
+    if (-not $hugoMarkdown.FrontMatter.date) {
+        $date = Get-Date -Format "yyyy-MM-ddT09:00:00Z"
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $date -addAfter 'title'
+    }
+
+    # Safely handle missing descriptionUpdate
+    $descUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.Description
+    $descUpdateDate = if ($descUpdateString) { [DateTime]::Parse($descUpdateString) } else { [DateTime]::MinValue }
+    if (-not $hugoMarkdown.FrontMatter.description -or $descUpdateDate -lt $descriptionDateWatermark) {
         # Generate a new description using OpenAI
         $promptText = Get-Prompt -PromptName "content-description.md" -Parameters @{
             title    = $hugoMarkdown.FrontMatter.Title
@@ -60,6 +70,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         $description = Get-OpenAIResponse -Prompt $promptText
         # Update the description in the front matter
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.description' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
     }
 
     #=================ResourceId=================

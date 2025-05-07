@@ -1,6 +1,6 @@
 ---
 title: 'The Power of Kaizen: Continuous Improvement in Scrum and Beyond'
-description: Explains how Kaizen’s continuous improvement principles enhance Scrum and Agile teams, with practical tips for applying small, measurable changes to boost workflow and collaboration.
+description: Explains how Kaizen’s continuous improvement principles enhance Scrum and Agile teams, with practical tips for retrospectives, workflow optimisation, and team culture.
 date: 2024-08-25T22:00:34Z
 weight: 430
 ResourceId: pVPzgsemxEY
@@ -46,6 +46,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:00:54Z
 
 ---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}), Agile, and [Kanban]({{< ref "/categories/kanban" >}}), we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.

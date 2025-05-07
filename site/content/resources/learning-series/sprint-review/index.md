@@ -1,6 +1,6 @@
 ---
 title: The Sprint Review
-description: Overview of the Sprint Review, its purpose in Agile development, and what teams typically discuss and demonstrate during this key Scrum event.
+description: Overview of the Sprint Review, its purpose in Agile development, key activities, and how teams assess progress and gather feedback at the end of each sprint.
 ResourceId: 9omxdDJCVDL
 ResourceImport: false
 ResourceType: learning-series
@@ -39,6 +39,8 @@ aliases:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T12:58:17Z
 
 ---
 Comming soon

@@ -1,6 +1,6 @@
 ---
 title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
-description: Explores how poor engineering, product decisions, and leadership create fragile systems, stressing that true resilience requires rigorous, real-world testing and discipline.
+description: Explores how poor engineering, shallow product thinking, and organisational denial lead to fragile systems, stressing that true resilience requires rigorous, real-world testing.
 ResourceId: LGGuvRq4g7p
 ResourceImport: false
 ResourceType: blog
@@ -19,6 +19,8 @@ tags:
 - Technical Mastery
 - Pragmatic Thinking
 - Site Reliability Engineering
+Watermarks:
+  description: 2025-05-07T12:49:09Z
 
 ---
 Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.

@@ -1,6 +1,6 @@
 ---
 title: Why Resilience Demands More Than Survival
-description: True organisational resilience means improving technical health—like automated testing, CI/CD, and observability—beyond just surviving incidents or following Agile rituals.
+description: True organisational resilience means improving technical health—like testing, automation, and architecture—beyond just surviving incidents or following Agile rituals.
 ResourceId: X2BzJPMloRw
 ResourceImport: false
 date: 2025-06-12
@@ -21,6 +21,8 @@ tags:
 - Technical Excellence
 - Technical Mastery
 - Pragmatic Thinking
+Watermarks:
+  description: 2025-05-07T12:49:02Z
 
 ---
 In resilient organisations, resilience is not about bouncing back; it is about bouncing forward. Teams that survive chaos but leave behind technical debt are not resilient — they are brittle.

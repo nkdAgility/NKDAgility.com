@@ -1,6 +1,6 @@
 ---
 title: Resilience is Part of the Product, Not an Afterthought
-description: Resilience must be designed into products from the start, not added later. Build for failure, measure, and improve to ensure reliability, rapid recovery, and business continuity.
+description: Resilience must be designed into products from the start, not added later. Build systems to detect, contain, and recover from failures, making resilience a core feature.
 ResourceId: EtzHUfsWjsD
 ResourceImport: false
 ResourceType: blog
@@ -24,6 +24,8 @@ tags:
 - Operational Practices
 - Software Development
 - Site Reliability Engineering
+Watermarks:
+  description: 2025-05-07T12:49:03Z
 
 ---
 Resilience is not a nice-to-have. It is not a department. It is not something you bolt on later if you get around to it. Resilience is part of the product. If you are serious about delivering value, you design resilience deliberately from day one. Any other approach is just gambling with your business, and is adding to your [technical debt]({{< ref "/tags/technical-debt" >}}).

@@ -1,6 +1,6 @@
 ---
 title: 'Transforming Technical Debt: Unlocking Innovation and Value Through Quality Product Delivery'
-description: Technical debt limits innovation and value delivery. Proactively managing it enables higher product quality, faster delivery, improved morale, and greater organisational agility.
+description: Explores how managing technical debt enables faster delivery, higher product quality, and greater innovation, highlighting strategies for continuous improvement and value.
 date: 2024-11-21T17:01:52Z
 weight: 280
 ResourceId: FFrTLuRhyVo
@@ -36,6 +36,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T12:57:09Z
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.

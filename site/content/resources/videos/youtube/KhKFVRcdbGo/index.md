@@ -1,6 +1,6 @@
 ---
 title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
-description: Learn how system optimisation and transparent metrics can drive engineering excellence, improve organisational culture, and maximise value through informed, iterative change.
+description: Explores how understanding and optimising organisational systems can drive engineering excellence, improve value delivery, and foster a culture of technical leadership.
 date: 2024-12-21T06:00:00Z
 weight: 305
 ResourceId: KhKFVRcdbGo
@@ -33,6 +33,8 @@ resourceTypes:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T12:56:35Z
 
 ---
 Creating a culture of [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.

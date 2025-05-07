@@ -36,6 +36,8 @@ sitemap:
 categories:
 - Engineering Excellence
 - Product Development
+Watermarks:
+  description: 2025-05-07T12:49:54Z
 
 ---
 One of the questions I often encounter as a delivery manager is how to balance speed and stability, especially when we're under pressure from tight deadlines. However, I would argue that there's a fundamental issue with the premise of this question: why are we under such tight deadlines in the first place? More often than not, these deadlines exist because stakeholders lack confidence in our ability to meet them. This is the absurdity of deadlines.

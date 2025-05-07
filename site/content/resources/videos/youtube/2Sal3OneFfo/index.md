@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
+Watermarks:
+  description: 2025-05-07T12:58:37Z
 
 ---
 When it comes to migrating to Azure [DevOps]({{< ref "/categories/devops" >}}), I often find myself reflecting on the myriad of services we offer to make this transition as seamless as possible. Having been in the trenches of DevOps for quite some time, I understand the challenges that come with moving projects, especially when it involves merging work items and ensuring that nothing gets lost in the process. 

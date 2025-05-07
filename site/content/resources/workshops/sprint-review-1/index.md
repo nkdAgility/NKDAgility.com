@@ -2,7 +2,7 @@
 title: 'Sprint Review #1'
 resourceTypes: workshop
 layout: workshop
-description: Step-by-step guide for running a Sprint Review workshop using Liberating Structures to inspect the increment, gather feedback, and update the Product Backlog collaboratively.
+description: Guides a 160-minute Sprint Review workshop using Liberating Structures to inspect product progress, gather feedback, and plan next steps for Scrum teams and stakeholders.
 ResourceId: 8gWwC3tvV_f
 ResourceImport: false
 ResourceType: workshops
@@ -60,6 +60,8 @@ tags:
 - Team Collaboration
 - Value Delivery
 - Agile Transformation
+Watermarks:
+  description: 2025-05-07T12:57:58Z
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

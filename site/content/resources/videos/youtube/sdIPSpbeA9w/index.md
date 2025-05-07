@@ -41,6 +41,8 @@ resourceTypes:
 categories:
 - Engineering Excellence
 - DevOps
+Watermarks:
+  description: 2025-05-07T12:56:39Z
 
 ---
 Automation is a game changer in the world of [software development]({{< ref "/tags/software-development" >}}). It’s not just about making things faster; it’s about creating a more standardised and efficient process. However, I must admit, I have a bit of a love-hate relationship with the term "efficiency." While it certainly fits the context, it can sometimes overshadow the human element that is so crucial in our field. 

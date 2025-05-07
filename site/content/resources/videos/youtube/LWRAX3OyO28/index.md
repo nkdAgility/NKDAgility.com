@@ -46,6 +46,8 @@ categories:
 - DevOps
 - Engineering Excellence
 - Product Development
+Watermarks:
+  description: 2025-05-07T12:56:52Z
 
 ---
 If you're venturing into the realm of [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the [DevOps]({{< ref "/categories/devops" >}}) framework. 

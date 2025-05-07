@@ -1,6 +1,6 @@
 ---
 title: Definition of Done
-description: Explains the Definition of Done in agile projects, outlining its purpose, key steps, and how to determine when work is truly complete within a team.
+description: Explains the Definition of Done, its purpose, key steps, and how to assess when work is complete in agile projects, including practical exercises and takeaways.
 ResourceId: IgRDk1wrh65
 ResourceImport: false
 ResourceType: workshops
@@ -27,6 +27,8 @@ card:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T12:58:00Z
 
 ---
 # What is the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD)

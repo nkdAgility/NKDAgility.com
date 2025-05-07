@@ -1,6 +1,6 @@
 ---
 title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success'
-description: Explains how simplifying complex software and committing to ongoing improvement enables organisations to achieve continuous delivery, resilience, and faster feature releases.
+description: Explains how simplifying complex software and committing to change enables continuous delivery, highlighting the need for cultural shift, resilience, and ongoing improvement.
 date: 2025-02-27T07:00:10Z
 weight: 255
 ResourceId: DsvMKLto30o
@@ -45,6 +45,8 @@ categories:
 - Engineering Excellence
 - Product Development
 - DevOps
+Watermarks:
+  description: 2025-05-07T12:49:24Z
 
 ---
 I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter—they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.

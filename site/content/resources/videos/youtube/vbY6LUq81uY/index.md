@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist'
-description: Learn how to fund product development by thinking like a venture capitalist—assess risk, run small experiments, validate ideas, and balance data with creative vision.
+description: Learn how to fund product development by thinking like a venture capitalist—run small experiments, validate ideas, manage risk, and balance data with creative vision.
 date: 2024-12-10T06:30:00Z
 weight: 840
 ResourceId: vbY6LUq81uY
@@ -39,6 +39,8 @@ resourceTypes:
 categories:
 - Product Development
 - Product Management
+Watermarks:
+  description: 2025-05-07T12:56:48Z
 
 ---
 Building products is an exhilarating journey into the unknown. Every time I sit down with a team to write code, I’m reminded that we’re embarking on a venture that has never been done before. If we weren’t, we wouldn’t be coding; we’d simply be purchasing a ready-made solution. This inherent uncertainty is what gives software engineering its unique character, and it’s also why we experience such a high degree of variance in our projects.

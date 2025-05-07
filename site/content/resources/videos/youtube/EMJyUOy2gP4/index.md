@@ -1,6 +1,6 @@
 ---
 title: 'The Problem with Incompetent Scrum Masters: Why Lack of Skills in Team Context Results in Poor ROI'
-description: Incompetent Scrum Masters reduce ROI by lacking team context and key skills. Learn how competence impacts delivery, quality, and how to measure Scrum Master effectiveness.
+description: Incompetent Scrum Masters reduce team performance and ROI by lacking key skills. Learn how to measure their impact using innovation, usage, and delivery metrics.
 date: 2024-10-22T07:00:08Z
 weight: 250
 ResourceId: EMJyUOy2gP4
@@ -50,6 +50,8 @@ categories:
 - Scrum
 - Product Development
 - Product Management
+Watermarks:
+  description: 2025-05-07T12:57:27Z
 
 ---
 When organizations invest in [Scrum]({{< ref "/categories/scrum" >}}) Masters, they expect results. Yet, too often, they find that the promised returns aren't realized. Why is that? It boils down to a lack of [competence]({{< ref "/tags/competence" >}}) within the [Scrum Master]({{< ref "/tags/scrum-master" >}})'s role—particularly in understanding the context of the team, the [product owner]({{< ref "/tags/product-owner" >}}), and the organizational structure. Without this, the return on investment (ROI) diminishes. Let's dive into why having a skilled Scrum Master is crucial and how to measure their impact effectively.

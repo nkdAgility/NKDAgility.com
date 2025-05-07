@@ -38,6 +38,8 @@ categories:
 - Engineering Excellence
 - DevOps
 - Product Development
+Watermarks:
+  description: 2025-05-07T12:57:05Z
 
 ---
 # Shift Left: Building Quality and Security From the Start

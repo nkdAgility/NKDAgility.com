@@ -93,11 +93,28 @@ function Update-Field {
         [switch]$Overwrite
     )
 
-    # Check if the field already exists
-    if ($frontMatter.Contains($fieldName)) {
-        if ($Overwrite -or ([string]::IsNullOrEmpty($frontMatter[$fieldName]))) {
-            # Overwrite the existing value
-            $frontMatter[$fieldName] = $fieldValue
+    # Split dotted path
+    $parts = $fieldName -split '\.'
+    $current = $frontMatter
+
+    # Walk through all but the last part
+    for ($i = 0; $i -lt $parts.Length - 1; $i++) {
+        $part = $parts[$i]
+        if (-not $current.Contains($part)) {
+            $current[$part] = [ordered]@{}
+        }
+        elseif (-not ($current[$part] -is [System.Collections.IDictionary])) {
+            throw "Cannot create nested property. '$part' already exists and is not a dictionary."
+        }
+        $current = $current[$part]
+    }
+
+    $finalKey = $parts[-1]
+
+    # Check if the final field exists at the leaf
+    if ($current.Contains($finalKey)) {
+        if ($Overwrite -or ([string]::IsNullOrEmpty($current[$finalKey]))) {
+            $current[$finalKey] = $fieldValue
             Write-Debug "$fieldName overwritten"
         }
         else {
@@ -106,28 +123,11 @@ function Update-Field {
         return
     }
 
-    # Determine the position to insert the new field
-    if ($addAfter -and $frontMatter.Contains($addAfter)) {
-        $index = $frontMatter.Keys.IndexOf($addAfter) + 1
-    }
-    elseif ($addBefore -and $frontMatter.Contains($addBefore)) {
-        $index = $frontMatter.Keys.IndexOf($addBefore)
-    }
-    else {
-        $index = $null
-    }
-
-    # Insert or add the field
-    if ($index -ne $null) {
-        $frontMatter.Insert($index, $fieldName, $fieldValue)
-    }
-    else {
-        $frontMatter[$fieldName] = $fieldValue
-    }
-
+    # Insert or add the final field
+    $current[$finalKey] = $fieldValue
     Write-Debug "$fieldName added"
-    return 
 }
+
 
 function Update-HashtableList {
     param (

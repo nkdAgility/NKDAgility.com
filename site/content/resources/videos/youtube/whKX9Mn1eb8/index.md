@@ -40,6 +40,8 @@ categories:
 - Product Development
 - Engineering Excellence
 - DevOps
+Watermarks:
+  description: 2025-05-07T12:57:07Z
 
 ---
 In my journey through the world of software engineering, I've come to realise that having a high-quality, usable, and working product delivered on a regular cadence is nothing short of a superpower for both teams and organisations. This principle is at the heart of delivering real value, and it’s something I’m passionate about sharing.

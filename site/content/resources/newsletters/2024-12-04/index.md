@@ -1,6 +1,6 @@
 ---
 title: 'Working from Paradise: A Quick Update'
-description: Notice of temporary work location change to Cancun, Mexico, with meetings now on Eastern Standard Time. Availability and support remain unchanged; contact details stay the same.
+description: Working remotely from Cancun until 23 Jan 2025; available as usual, but now on EST. Meeting times may shift due to time zone change. Contact details remain unchanged.
 ResourceId: I3QFLrCOXnN
 ResourceImport: false
 ResourceType: newsletters
@@ -16,6 +16,8 @@ aliases:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T12:56:49Z
 
 ---
 Dear Valued Clients,

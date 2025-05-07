@@ -44,6 +44,8 @@ categories:
 - Product Management
 - Engineering Excellence
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
+Watermarks:
+  description: 2025-05-07T12:50:03Z
 
 ---
 In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in [Scrum]({{< ref "/categories/scrum" >}}), the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective—a north star guiding your path, not a litmus test of quality.

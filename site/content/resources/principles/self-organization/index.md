@@ -25,6 +25,8 @@ card:
 categories:
 - Scrum
 tags: []
+Watermarks:
+  description: 2025-05-07T12:57:51Z
 
 ---
 Self-Organization: [Scrum]({{< ref "/categories/scrum" >}}) teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the [Scrum Master]({{< ref "/tags/scrum-master" >}}) helps to facilitate and guide the process

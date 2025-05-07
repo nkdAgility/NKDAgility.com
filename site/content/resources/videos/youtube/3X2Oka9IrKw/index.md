@@ -1,6 +1,6 @@
 ---
 title: 'Scaling Teams: How to Foster Innovation Without Falling into Bureaucracy'
-description: Explores how to scale teams effectively by promoting innovation and agility, avoiding bureaucracy, and fostering empowered teams, streamlined processes, and clear communication.
+description: Explores how organisations can scale teams to boost innovation while avoiding bureaucracy, focusing on empowerment, streamlined processes, and agile communication.
 date: 2025-02-27T11:00:09Z
 weight: 630
 ResourceId: 3X2Oka9IrKw
@@ -37,6 +37,8 @@ resourceTypes:
 layout: video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T12:49:22Z
 
 ---
 When I think about [scaling]({{< ref "/tags/scaling" >}}) teams, I often hear the sentiment that more teams should equate to more innovation. It seems logical, doesn’t it? However, in my experience, the reality is often quite different. Instead of fostering creativity and agility, scaling can lead to a quagmire of processes, endless meetings, and frustrating bottlenecks. Before you know it, you’re drowning in bureaucracy, and the very essence of innovation is stifled.

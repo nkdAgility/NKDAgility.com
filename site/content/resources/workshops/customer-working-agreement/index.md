@@ -1,6 +1,6 @@
 ---
 title: Customer Working Agreement
-description: Defines a collaborative process for establishing a Statement of Work and agreed agility level, outlining customer and provider responsibilities for successful project delivery.
+description: Defines a collaborative workshop to create a Statement of Work and clarify customer and provider responsibilities, agility level, and key commitments for project success.
 ResourceId: hjlKdneL4t8
 ResourceImport: false
 ResourceType: workshops
@@ -29,6 +29,8 @@ categories:
 - Product Development
 - Scrum
 tags: []
+Watermarks:
+  description: 2025-05-07T12:58:01Z
 
 ---
 ## Customer Working Agreement
