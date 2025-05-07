@@ -7,6 +7,7 @@
 {{- end }}
 <div class="m-2 card sectioncards m-3 shadow text-start flex-fill flex-grow-1 small border-0 h-100 position-relative">
   <div class="card-body p-4 px-20">
+    <span class="badge text-bg-secondary"><i class="fa-regular fa-tag"></i> {{ title $context.Type }}</span>
     <h3 class="ttl-nkdagility h5 text-start" title="{{- $context.Page.Title }}">
       {{- if $context.Page.Params.card }}
         {{- $context.Page.Params.card.title }}
