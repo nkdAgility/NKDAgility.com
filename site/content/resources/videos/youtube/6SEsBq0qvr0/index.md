@@ -1,17 +1,16 @@
 ---
-title: 9  Definition of Done vs  Acceptance Criteria
-description: Learn how to upgrade legacy .NET and ASP.NET MVC projects to SDK-style for easier builds, modern tooling, and future readiness, including tips for class libraries and web apps.
+title: 'Acceptance Criteria vs Definition of Done: Why Getting This Right Builds Trust and Delivers Quality Faster'
+description: Stop confusing acceptance criteria with definition of done—learn the crucial difference to boost quality, speed, and trust in your agile delivery.
 date: 2025-07-02T06:45:00Z
 videoId: 6SEsBq0qvr0
 ResourceId: 6SEsBq0qvr0
-ResourceType: video
+ResourceType: videos
 ResourceImport: true
 ResourceImportSource: Youtube
 source: youtube
 url: /resources/videos/:slug
 slug: 9-definition-of-done-vs-acceptance-criteria
 layout: video
-canonicalUrl: https://www.youtube.com/watch?v=6SEsBq0qvr0
 aliases:
 - /resources/6SEsBq0qvr0
 - /resources/videos/9-definition-of-done-vs-acceptance-criteria
@@ -25,37 +24,62 @@ resourceTypes:
 isShort: false
 sitemap:
   filename: sitemap.xml
-  priority: 0.4
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T19:18:41Z
+ResourceContentOrigin: ai
+categories:
+- Product Development
+- Engineering Excellence
+- Scrum
+tags:
+- Software Development
+- Product Delivery
+- Definition of Done
+- Operational Practices
+- Pragmatic Thinking
+- Agile Frameworks
+- Agile Planning
+- Value Delivery
+weight: 220
 
 ---
- 🧾 Definition of Done vs. Acceptance Criteria — Know the Difference
-🎥 Episode 9 of 10 — Just Released
+I see this confusion time and again: teams muddling up acceptance criteria with the definition of done. It’s a subtle distinction, but one that, if ignored, leads to missed expectations, hidden risks, and ultimately, broken trust between teams and stakeholders. Let’s be clear—one defines quality, the other defines scope. If you want to move fast without cutting corners, you need to get this right.
 
-📍 One defines quality. The other defines scope.
+Acceptance Criteria: The Specifics
 
-Confusing the two? That’s a recipe for:
-⚠️ Missed expectations
-⚠️ Hidden risks
-⚠️ Broken trust
+Acceptance criteria are the specific, testable conditions that a particular backlog item must satisfy. They answer the question: “Did we meet this specific need?” or “Did we cover this particular case?” Think of them as the checklist for a single story or feature. They’re unique to each item and help the team and stakeholders agree on what “done” looks like for that piece of work.
 
-Let’s break it down:
-🟦 Acceptance Criteria = Per item.
-→ “Did we meet this specific need?”
-🟩 Definition of Done = Org-wide standard.
-→ “Is this increment ready for production?”
+- They clarify intent and remove ambiguity.
+- They help the team know when to stop working on a story.
+- They provide a basis for acceptance testing.
 
-DoD applies to everything.
-✅ Security
-✅ Testing
-✅ Telemetry
-✅ Deployment readiness
-✅ Compliance
-Not optional. Not negotiable. Not story-specific.
+But—and this is crucial—acceptance criteria are not the same as the definition of done.
 
-At NKD Agility, we help teams clear up this confusion—so they can move fast without cutting corners, and customers get reliable, consistent outcomes.
+Definition of Done: The Quality Baseline
 
-📈 Still mixing up Acceptance Criteria and Done? Visit https://www.nkdagility.com
+The definition of done is your organisation’s quality baseline. It’s the minimum standard that every increment, every story, every feature must meet before it can be considered complete. This is not negotiable, not optional, and certainly not story-specific.
 
-👇 Tap to watch now. Follow for the final episode in the 10-part series.
-#DefinitionOfDone #AcceptanceCriteria #AgileDelivery #SoftwareQuality 
- [Watch on Youtube](https://www.youtube.com/watch?v=6SEsBq0qvr0)
+- Security checks? Done.
+- Telemetry and monitoring? Done.
+- Automated tests passing? Done.
+- Deployment readiness? Done.
+- Regulatory compliance? Done.
+
+The definition of done is the safety net that ensures every piece of work meets your organisation’s standards, regardless of who worked on it or what the feature is. It’s about consistency, reliability, and trust.
+
+Why the Distinction Matters
+
+When teams confuse acceptance criteria with the definition of done, corners get cut. Maybe a story passes its acceptance criteria, but skips security checks or forgets about deployment readiness. That’s how technical debt creeps in, and how trust with customers and stakeholders erodes.
+
+I’ve seen teams deliver features that “work” according to their acceptance criteria, only to find out later that they’re not secure, not compliant, or not ready for production. That’s not agility—that’s chaos.
+
+Building Clarity That Scales
+
+If you’re still mixing up acceptance criteria and the definition of done, it’s time to build clarity that scales. Here’s my advice:
+
+- Make your definition of done visible and explicit. Post it on the wall, put it in your tools, and review it regularly.
+- Treat acceptance criteria as the contract for each backlog item, but never as a substitute for organisational quality.
+- Inspect and adapt both regularly. As your organisation grows, your definition of done will evolve. So will your acceptance criteria.
+
+In summary, acceptance criteria define scope; the definition of done defines quality. Both are essential, but they serve very different purposes. Get this right, and you’ll move faster, deliver better, and build trust that lasts.
