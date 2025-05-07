@@ -50,17 +50,17 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     #     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'abstract' -fieldValue $abstract -addAfter 'title'
     # }
 
-    # if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided") {
-    # Generate a new description using OpenAI
-    $promptText = Get-Prompt -PromptName "content-description.md" -Parameters @{
-        title    = $hugoMarkdown.FrontMatter.Title
-        abstract = "none"
-        content  = $hugoMarkdown.BodyContent
+    if (-not $hugoMarkdown.FrontMatter.description -or $hugoMarkdown.FrontMatter.description -match "no specific details provided") {
+        # Generate a new description using OpenAI
+        $promptText = Get-Prompt -PromptName "content-description.md" -Parameters @{
+            title    = $hugoMarkdown.FrontMatter.Title
+            abstract = "none"
+            content  = $hugoMarkdown.BodyContent
+        }
+        $description = Get-OpenAIResponse -Prompt $promptText
+        # Update the description in the front matter
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
     }
-    $description = Get-OpenAIResponse -Prompt $promptText
-    # Update the description in the front matter
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
-    #}
 
     #=================ResourceId=================
     $ResourceId = $null;
