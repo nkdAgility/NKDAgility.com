@@ -55,7 +55,12 @@
                 {{- if $dataItem }}
                   <!-- Ensure the taxonomy exists in the data -->
                   {{- $score = ($dataItem.final_score | default 0) }}
-                  {{- $reason = ($dataItem.reasoning | default "none") }}
+                  {{- $reason := "none" }}
+                  {{- with $dataItem.reasoning_summery }}
+                    {{- $reason = . }}
+                  {{- else if $dataItem.reasoning }}
+                    {{- $reason = $dataItem.reasoning }}
+                  {{- end }}
                 {{- end }}
               {{- end }}
               {{- if .Params.card }}
