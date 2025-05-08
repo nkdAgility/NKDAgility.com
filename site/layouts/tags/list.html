@@ -58,8 +58,10 @@
                   {{- $reason := "none" }}
                   {{- with $dataItem.reasoning_summery }}
                     {{- $reason = . }}
-                  {{- else if $dataItem.reasoning }}
-                    {{- $reason = $dataItem.reasoning }}
+                  {{- else }}
+                    {{- with $dataItem.reasoning }}
+                      {{- $reason = . }}
+                    {{- end }}
                   {{- end }}
                 {{- end }}
               {{- end }}
