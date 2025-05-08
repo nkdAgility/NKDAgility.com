@@ -21,7 +21,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from infrequent releases to a model of continuous delivery, highlighting the importance of rapid feedback loops and data-driven decision-making. It explicitly mentions the need for high deployment frequencies and the role of metrics in adapting to market changes, which aligns well with the core themes of the category. The depth of discussion is substantial, providing insights into how feedback mechanisms can drive continuous improvement and the significance of evidence-based management principles in Agile and DevOps practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how Azure DevOps shifted to continuous delivery, emphasising rapid feedback, frequent deployments, and data-driven decisions. It clearly connects these practices to Agile and DevOps principles, offering detailed insights into how feedback and metrics support ongoing improvement and adaptability."
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -54,7 +55,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the need for rapid response to market changes and the shift from traditional long release cycles to continuous delivery, which aligns with the principles of decentralisation and agility in organisational design. However, it does not explicitly mention BetaCodex or its foundational theories, and while it touches on human-centric approaches through user feedback, it lacks depth in discussing leadership dynamics or adaptive cultures. Overall, it reflects some core themes but does not fully engage with the BetaCodex category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content highlights the importance of agility and quick adaptation in response to market demands, echoing some key BetaCodex themes like decentralisation and continuous improvement. However, it doesn’t directly reference BetaCodex principles or delve deeply into leadership or cultural transformation, so it only partially fits the category rather than fully embodying it."
   },
   "Kanban": {
     "category": "Kanban",
@@ -75,7 +77,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the transformation of Azure DevOps towards continuous delivery, which is a core principle of DevOps. It discusses the importance of shortening feedback loops, embracing continuous delivery, and leveraging data—all of which align closely with DevOps philosophies. The depth of discussion is substantial, providing specific examples and actionable takeaways that reflect the cultural and procedural shifts necessary for effective DevOps implementation. However, while it does mention DevOps explicitly, the content could benefit from a more direct exploration of shared accountability and cross-functional collaboration, which are also key aspects of the DevOps philosophy.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is well-suited to the DevOps category, as it delves into Azure DevOps’ shift towards continuous delivery and highlights key DevOps principles like rapid feedback and data-driven improvement. While it thoroughly covers process and culture changes, a deeper focus on shared responsibility and teamwork would further strengthen its alignment with core DevOps values."
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -96,7 +99,8 @@
     "non_ai_confidence": 10,
     "final_score": 92.0,
     "reasoning": "The content explicitly discusses the need for organisations to respond swiftly to market changes and highlights the transformation of Azure DevOps from infrequent releases to a model of continuous delivery. It aligns closely with the core themes of market adaptability, particularly in relation to Agile and DevOps practices. The depth of discussion is substantial, providing specific examples and insights into how shortening feedback loops and increasing deployment frequency can enhance responsiveness to market demands.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it clearly explores how organisations can boost their adaptability to market changes. By detailing Azure DevOps’ shift to continuous delivery and emphasising Agile and DevOps principles, it offers concrete examples and insights into improving responsiveness, making it highly relevant to the theme of market adaptability."
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -108,7 +112,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Azure DevOps towards continuous delivery, which aligns with the Agile Product Operating Model's emphasis on responsiveness and customer-centric value. However, it primarily focuses on the operational aspects of continuous delivery rather than explicitly addressing the principles of the Agile Product Operating Model or product management practices. While it mentions key concepts like feedback loops and value creation, it lacks a detailed exploration of the APOM framework itself, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores how Azure DevOps supports continuous delivery, touching on themes like feedback and value creation that are relevant to Agile Product Operating Models. However, it doesn’t directly address APOM principles or delve into product management practices, so while related, it doesn’t fully fit the category. The connection is present but not comprehensive, leading to only moderate confidence in the classification."
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -132,7 +137,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the transformation of Azure DevOps from infrequent releases to a model of continuous delivery, which directly aligns with the principles of iterative development and maximising customer value. It highlights the importance of rapid feedback loops, adapting to market changes, and the necessity of high deployment frequencies to enhance customer satisfaction. The depth of discussion on continuous delivery practices and the impact of Agile methodologies on value delivery further supports a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores Azure DevOps’ shift to continuous delivery. It clearly connects this transformation to Agile principles, emphasising rapid feedback, adaptability, and frequent deployments—all of which are central to delivering ongoing customer value. The detailed focus on these practices demonstrates a deep alignment with the category’s core themes."
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -144,7 +150,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content provides a detailed discussion on the evolution of Azure DevOps from TFS, highlighting the shift from infrequent releases to a model of continuous delivery. It explicitly mentions Azure DevOps multiple times and discusses its impact on deployment frequency and responsiveness to market changes, which aligns well with the core themes of Azure DevOps. The depth of the discussion is significant, as it covers historical context, challenges faced, and the importance of rapid deployment cycles, making it a primary focus of the content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Azure DevOps category. It thoroughly explores Azure DevOps, tracing its development from TFS and emphasising key concepts like continuous delivery and deployment agility. By addressing both historical context and practical impacts, the discussion clearly centres on Azure DevOps, making it highly relevant to the category."
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -156,7 +163,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from infrequent releases to a model of continuous delivery, which aligns with the principles of Continuous Integration and Continuous Delivery (CI/CD). It highlights the importance of shortening feedback loops and adapting to market changes, which are key aspects of technical excellence. However, while it touches on these topics, the focus is more on the organisational change and market responsiveness rather than deep technical practices or methodologies. Therefore, while there is a strong alignment with the category, the depth of technical discussion is somewhat limited.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category as it explores Azure DevOps’ shift towards continuous delivery, reflecting core CI/CD principles and the drive for technical excellence. However, the emphasis is more on organisational adaptation and market agility than on detailed technical methods, so while relevant, it doesn’t delve deeply into technical practices."
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -168,7 +176,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps from lengthy release cycles to continuous delivery, which directly relates to flow efficiency. It highlights the importance of lead time, feedback loops, and the ability to respond quickly to market changes, all of which are core themes of flow efficiency. The depth of discussion is substantial, providing specific strategies and takeaways that align with optimising throughput and minimising bottlenecks. Overall, the content is highly relevant to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how Azure DevOps evolved to support continuous delivery, focusing on key aspects like lead time, feedback, and rapid market response. The discussion offers practical strategies for improving throughput and reducing bottlenecks, making it highly relevant to flow efficiency."
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -189,7 +198,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from a lengthy release cycle to continuous delivery, which aligns with key themes of Application Lifecycle Management, particularly in terms of deployment and maintenance. It mentions the importance of feedback loops and continuous delivery, which are crucial for effective application governance. However, while it touches on relevant practices, it lacks detailed exploration of all lifecycle stages and specific tools or frameworks, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Application Lifecycle Management category as it highlights Azure DevOps’ shift to continuous delivery and the role of feedback loops—both central to deployment and maintenance. However, it doesn’t cover every stage of the lifecycle or delve into specific tools, so while relevant, it’s not fully comprehensive for the category."
   },
   "Lean": {
     "category": "Lean",
@@ -213,7 +223,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps towards a more agile approach, highlighting the importance of responsiveness and adaptability in a fast-paced market. It aligns well with the core themes of business agility, such as the need for continuous delivery, rapid feedback loops, and the ability to respond to customer needs and market changes. The depth of discussion is substantial, providing specific strategies and takeaways that organisations can implement to enhance their agility. Overall, the content is a strong fit for the Business Agility category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Business Agility category, as it explores how Azure DevOps can help organisations become more agile. It covers key aspects like continuous delivery, rapid feedback, and adapting to market changes, offering practical strategies and insights. The discussion is detailed and actionable, making it highly relevant for those seeking to improve their business agility."
   },
   "Personal": {
     "category": "Personal",
@@ -246,7 +257,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps' product delivery process, focusing on continuous delivery, feedback loops, and the importance of agility in responding to market changes. It provides detailed insights into the shift from a lengthy release cycle to a rapid deployment frequency, aligning well with the core themes of product delivery. The depth of discussion is significant, offering practical takeaways that enhance understanding of effective product delivery methodologies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the product delivery category, as it thoroughly explores Azure DevOps’ evolution towards faster, more agile release cycles. By highlighting continuous delivery and feedback mechanisms, it offers practical insights into improving product delivery processes, making it highly relevant for those interested in effective delivery strategies."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -267,7 +279,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps towards a more agile approach, highlighting the importance of continuous delivery, rapid feedback loops, and adaptability to market changes. It aligns well with the core themes of organisational agility, such as enhancing responsiveness and fostering a culture of agility. The depth of discussion is substantial, providing specific strategies and takeaways that organisations can implement to improve their agility. Overall, the content is a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the organisational agility category, as it clearly explores how Azure DevOps supports agile practices. It covers key aspects like continuous delivery and rapid feedback, offering practical strategies that organisations can adopt. The discussion is detailed and directly addresses how to boost adaptability and responsiveness, making it highly relevant to the theme."
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -315,7 +328,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps towards continuous delivery, which aligns closely with the principles of Enterprise Agility. It highlights the importance of responsiveness to market changes, the need for rapid feedback loops, and the cultural shift required to embrace agility at an organisational level. The depth of discussion includes specific strategies and takeaways that support the broader implications of agility on organisational performance, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Enterprise Agility category, as it explores how Azure DevOps enables continuous delivery and supports agile practices. It addresses organisational culture, adaptability, and the need for quick feedback, all of which are central to enterprise-level agility. The discussion also offers practical strategies, reinforcing its relevance to organisations aiming to become more agile."
   },
   "Leadership": {
     "category": "Leadership",
@@ -336,7 +350,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Azure DevOps towards continuous delivery, which aligns with the principles of social technologies, particularly in fostering collaboration and enhancing decision-making through rapid feedback loops. It mentions key concepts such as embracing continuous delivery and maximising value creation, which are relevant to the category. However, while it touches on these themes, the focus is more on technical processes and outcomes rather than the underlying social frameworks that drive collaboration and collective intelligence within teams. The depth of discussion on social technologies is moderate, as it lacks detailed exploration of team dynamics or specific methodologies that promote self-organisation and transparency.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content partially fits the category, as it highlights how Azure DevOps supports collaboration and rapid feedback—key aspects of social technologies. However, its main emphasis is on technical processes and outcomes, rather than deeply exploring the social frameworks or team dynamics that underpin collective intelligence and self-organisation. As such, it only moderately addresses the core themes of the category."
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -396,7 +411,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content explicitly discusses lead time in the context of Azure DevOps, highlighting its importance in responding to market changes and customer needs. It provides a clear narrative on how reducing lead time from a two-year cycle to continuous delivery significantly improved responsiveness and agility. The discussion aligns well with the core themes of Lead Time, including its impact on business agility and customer satisfaction. However, while the content is rich in examples and strategies related to lead time, it does not delve deeply into specific techniques for measuring lead time or the relationship between lead time and cycle time, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Lead Time category, as it clearly explores how reducing lead time in Azure DevOps enhances business agility and customer satisfaction. It uses practical examples to illustrate the benefits of shorter delivery cycles, though it doesn’t go into detail about measurement methods or compare lead time with cycle time. Overall, it effectively addresses the main themes of Lead Time in a business context."
   },
   "Team Motivation": {
     "category": "Team Motivation",
@@ -468,7 +484,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from long release cycles to continuous delivery, which aligns with customer retention strategies by emphasising the importance of quick feedback loops and responsiveness to customer needs. It highlights how continuous delivery can enhance user engagement and satisfaction, which are key aspects of customer retention. However, while the content touches on relevant themes, it does not delve deeply into specific customer retention techniques or metrics, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores how moving to continuous delivery in Azure DevOps supports customer retention by enabling faster feedback and greater responsiveness. While it clearly connects these practices to improved user satisfaction, it doesn’t go into detail about specific retention methods or metrics, so the fit is strong but not exhaustive."
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -480,7 +497,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps from infrequent releases to a model of continuous delivery, highlighting the importance of rapid deployment and feedback loops. It aligns well with the principles of Continuous Delivery and Continuous Deployment, providing detailed insights into strategies for incremental improvements and the role of data in enhancing release frequency. The depth of discussion on best practices and the cultural shift required for frequent releases further supports a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Delivery and Continuous Deployment category. It thoroughly explores Azure DevOps’ shift to more frequent releases, emphasising rapid deployment, feedback, and best practices. The discussion of incremental improvements and cultural changes demonstrates a clear alignment with the core principles of this category."
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -513,7 +531,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from long release cycles to continuous delivery, which aligns closely with the principles of working software. It highlights the importance of rapid feedback loops, continuous delivery, and responsiveness to customer needs, all of which are key aspects of delivering functional software. However, while it touches on these themes, it does not delve deeply into specific metrics or case studies of working software, which slightly lowers the depth score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category as it explores Azure DevOps’ shift towards continuous delivery, emphasising rapid feedback and adaptability—core elements of working software. While it effectively covers these principles, it lacks detailed examples or metrics, making its alignment strong but not deeply comprehensive."
   },
   "Release Management": {
     "category": "Release Management",
@@ -525,7 +544,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps' release processes, highlighting the shift from long release cycles to continuous delivery. It directly mentions key aspects of release management, such as feedback loops, continuous delivery, and the importance of adapting to market changes. The depth of discussion is substantial, providing insights into strategies for effective release management, including the use of data and telemetry. Overall, the content aligns well with the core themes of release management, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the release management category, as it thoroughly explores how Azure DevOps' release processes have evolved. It covers essential topics like continuous delivery, feedback loops, and adapting to market needs, offering practical strategies and insights. The detailed discussion demonstrates a clear focus on release management principles, making it highly relevant to the category."
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -537,7 +557,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from a lengthy release cycle to a continuous delivery model, which aligns with the principles of organisational change and agility. It explicitly mentions the need for organisations to adapt to market demands and highlights strategies such as embracing continuous delivery and leveraging data for decision-making. However, while it provides valuable insights and takeaways, the focus remains more on the technical aspects of deployment rather than a comprehensive exploration of change management frameworks or leadership roles in driving change.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to organisational change and agility, as it explores how Azure DevOps shifted to continuous delivery and the resulting need for organisations to adapt quickly. While it offers practical strategies and insights, its primary emphasis is on technical deployment rather than deeply examining change management frameworks or leadership’s role in transformation."
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -549,7 +570,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses the transformation of Azure DevOps towards continuous delivery, highlighting the importance of feedback loops and adaptability, which are core principles of Continuous Learning. It provides specific techniques for enhancing agility, such as embracing continuous delivery and utilising data for decision-making. The depth of discussion is substantial, with practical takeaways that align well with the category's focus on growth mindset and knowledge sharing. However, while it touches on Continuous Learning, it does not explicitly frame the discussion within the context of team dynamics or collaboration, which slightly lowers the overall confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content aligns well with the Continuous Learning category, as it explores how Azure DevOps can evolve through feedback loops and adaptability—key aspects of ongoing learning. It offers practical advice on agility and data-driven decisions, supporting a growth mindset. However, it doesn’t directly address team collaboration, which is often central to this category, so the fit isn’t perfect but still strong."
   },
   "Evidence Based Leadership": {
     "category": "Evidence Based Leadership",
@@ -573,7 +595,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps from a lengthy release cycle to a continuous delivery model, which aligns closely with the principles of digital transformation. It highlights the strategic adoption of modern digital technologies to enhance business agility and operational efficiency. The detailed account of the shift in deployment frequency and the emphasis on continuous feedback loops demonstrate a strong alignment with the core themes of the category. Additionally, the practical takeaways provided offer depth in discussing strategies for implementing digital transformation initiatives, making it a primary focus of the content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the digital transformation category, as it explores Azure DevOps’ shift to continuous delivery—a hallmark of modern digital practices. By detailing the adoption of new technologies and processes to boost agility and efficiency, it clearly illustrates digital transformation in action, offering practical insights and strategies relevant to the category."
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -618,7 +641,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from a lengthy release cycle to a model that embraces continuous delivery and rapid feedback loops. It explicitly mentions the importance of testing ideas in real-time and gathering data to inform decisions, which aligns well with the core themes of experimentation. The depth of discussion includes practical takeaways that emphasise hypothesis-driven approaches, such as starting small and utilising data for performance assessment. However, while experimentation is a significant focus, the content also touches on broader Agile principles, which slightly dilutes its primary focus on experimentation.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the experimentation category, as it highlights Azure DevOps’ shift towards continuous delivery and rapid feedback, emphasising real-time testing and data-driven decision-making. While it also references broader Agile concepts, the main focus remains on practical experimentation strategies and hypothesis-driven development."
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -642,7 +666,8 @@
     "non_ai_confidence": 30,
     "final_score": 78.0,
     "reasoning": "The content discusses the transformation of Azure DevOps and highlights the importance of customer feedback in the context of continuous delivery and rapid deployment cycles. It explicitly mentions gathering feedback on beta releases and the challenges faced due to long release cycles, which aligns well with the core themes of customer feedback loops. The depth of discussion includes practical takeaways on embracing continuous delivery and utilising data for decision-making, indicating a strong focus on integrating customer feedback into product development. However, while the content is relevant, it does not delve deeply into specific techniques for gathering feedback or detailed case studies, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the customer feedback loops category, as it explores how Azure DevOps leverages customer input to improve continuous delivery and deployment. While it effectively highlights the value of feedback and its impact on product development, it doesn’t go into detail about specific feedback-gathering methods or provide in-depth case studies, making its alignment strong but not exhaustive."
   },
   "Estimation": {
     "category": "Estimation",
@@ -672,7 +697,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from a lengthy release cycle to a continuous delivery model, which aligns well with the core themes of trend analysis in Agile and DevOps. It explicitly mentions the impact of deployment frequency on organisational agility and responsiveness, showcasing a clear understanding of how trends in software delivery can influence strategic decision-making. The depth of discussion is substantial, providing insights into practical approaches and key takeaways that organisations can implement. Overall, the content effectively explores the implications of emerging trends in DevOps practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how Azure DevOps’ shift to continuous delivery reflects broader trends in Agile and DevOps. It highlights the strategic benefits of increased deployment frequency and offers practical insights, making it highly relevant for those interested in trend analysis and evolving software delivery practices."
   },
   "Product Management": {
     "category": "Product Management",
@@ -684,7 +710,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of rapid deployment cycles and continuous delivery in product management, aligning well with the strategic aspects of responding to market changes and customer feedback. It provides a detailed example of Azure DevOps' transition from infrequent releases to a high-frequency deployment model, illustrating key product management principles such as adapting to market demands and validating ideas through user engagement. The depth of discussion on these topics supports a high confidence score, as it directly relates to the methodologies and frameworks guiding product managers.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how rapid deployment and continuous delivery are crucial for effective product management. By highlighting Azure DevOps’ shift to frequent releases, it clearly demonstrates how adapting to market needs and engaging users are central to modern product management strategies. The detailed example reinforces the relevance to the field."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -726,7 +753,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from a lengthy release cycle to continuous delivery, which aligns with the principles of Large Scale Agility. It highlights the importance of responsiveness to market changes and the need for cross-team collaboration to enhance agility. However, it primarily focuses on the specific case of Azure DevOps rather than broader frameworks or strategies for scaling Agile across an organisation, which limits its depth in the context of large-scale Agile practices.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores how Azure DevOps adopted continuous delivery to improve agility and responsiveness—key aspects of Large Scale Agility. However, its focus is mainly on a single case rather than offering broader insights or strategies for scaling Agile across organisations, which somewhat narrows its relevance to the category."
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -738,7 +766,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from infrequent releases to a model of continuous delivery, which aligns with the principles of engineering excellence, particularly in terms of continuous integration and delivery practices. It highlights the importance of rapid feedback loops and adapting to market changes, which are key aspects of engineering excellence. However, while it touches on these themes, the discussion lacks detailed exploration of specific coding standards, quality assurance practices, or metrics for assessing engineering performance, which slightly lowers the depth and alignment scores.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is relevant to the category as it explores Azure DevOps’ shift towards continuous delivery, emphasising rapid feedback and adaptability—core elements of engineering excellence. However, it doesn’t delve deeply into specific coding standards or quality metrics, so while it fits the category, it could be strengthened with more detailed examples of engineering best practices."
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -750,7 +779,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Azure DevOps in terms of agility and responsiveness to market changes, which aligns with product strategy principles. It highlights the importance of continuous delivery, customer feedback, and adapting to market demands, all of which are key aspects of product strategy. However, while it touches on these themes, it primarily focuses on implementation and operational aspects rather than a comprehensive strategic framework, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to product strategy as it explores how Azure DevOps adapts to market shifts through agility, continuous delivery, and customer feedback. While it addresses important strategic themes, its main emphasis is on practical implementation and operations rather than outlining a full strategic approach, making the fit with the category partial but relevant."
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -780,7 +810,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps from a lengthy release cycle to continuous delivery, which aligns closely with Agile principles. It highlights key Agile practices such as embracing continuous delivery, rapid iteration, and the importance of feedback loops. The depth of discussion includes practical takeaways that reflect Agile methodologies, although it does not delve deeply into specific frameworks like Scrum or Kanban. Overall, the content is primarily focused on Agile transformation, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Agile category, as it explores Azure DevOps’ shift to continuous delivery and highlights core Agile values like rapid iteration and feedback. While it doesn’t focus on specific frameworks, it offers practical insights into Agile transformation, making it highly relevant for those interested in Agile practices and principles."
   },
   "Operational Practices": {
     "category": "Operational Practices",
@@ -792,7 +823,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps from a lengthy release cycle to continuous delivery, which directly relates to operational practices aimed at enhancing efficiency and delivery speed. It provides detailed insights into techniques such as embracing continuous delivery, starting small, utilising data, and maintaining a tight release frequency, all of which align closely with the core themes of operational efficiency in Agile and DevOps frameworks. The depth of discussion is substantial, offering practical takeaways that organisations can implement to improve their operational practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how Azure DevOps shifted to continuous delivery, highlighting practical strategies like starting small and using data to boost efficiency. The discussion is detailed and actionable, making it highly relevant for those interested in operational improvements within Agile and DevOps environments."
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -825,7 +857,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from a lengthy release cycle to continuous delivery, which aligns closely with Agile principles of adaptability and continuous value delivery. It explicitly mentions strategies for enhancing agility, such as embracing continuous delivery, starting small, and utilising data for decision-making. The depth of discussion is significant, providing detailed insights into the benefits of these strategies and their impact on organisational responsiveness. Overall, the content is a strong fit for the Agile Strategy category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the Agile Strategy category, as it explores how Azure DevOps shifted to continuous delivery, reflecting core Agile values like adaptability and ongoing improvement. It offers practical advice—such as starting with small changes and leveraging data—to boost agility, and provides meaningful insights into how these approaches enhance organisational responsiveness."
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -837,7 +870,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the transformation of Azure DevOps towards continuous delivery, which aligns with key topics in Engineering Practices, particularly CI/CD. However, it primarily focuses on the broader concept of agility and market responsiveness rather than delving deeply into specific engineering methodologies or practices. While it mentions continuous delivery and the importance of feedback loops, it lacks detailed exploration of clean code, TDD, or automation, which are central to the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on continuous delivery and feedback loops, which are relevant to Engineering Practices, especially CI/CD. However, its main emphasis is on agility and adapting to market needs, rather than providing in-depth insights into core engineering methods like clean code, TDD, or automation. As such, it only partially fits the category, lacking detailed discussion of foundational engineering practices."
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -849,7 +883,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the transformation of Azure DevOps in terms of agility and responsiveness, which aligns with the core themes of strategic goals. It highlights the importance of continuous delivery and adapting to market changes, reflecting the need for long-term objectives that enhance business agility. However, while it touches on strategic concepts, it primarily focuses on operational tactics and specific practices rather than explicitly defining or articulating long-term strategic goals.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to strategic goals by emphasising agility and adaptability in Azure DevOps, which are essential for long-term business success. However, the main focus is on practical methods and operational improvements, rather than clearly outlining or defining overarching strategic objectives."
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -888,7 +923,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the transformation of Azure DevOps in terms of agility and responsiveness to market changes, which aligns with entrepreneurial principles of innovation and value creation. It explicitly mentions strategies like continuous delivery and rapid testing, which are crucial for entrepreneurs. However, while it touches on these themes, the primary focus is on operational practices rather than the broader entrepreneurial mindset or ecosystem, leading to a high but not perfect confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content closely relates to entrepreneurship by highlighting innovation and adaptability—key entrepreneurial traits—through Azure DevOps practices like continuous delivery and rapid testing. However, its main emphasis is on operational methods rather than the wider entrepreneurial mindset or ecosystem, so while it’s highly relevant, it doesn’t fully embody the category."
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -930,7 +966,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from a lengthy release cycle to continuous delivery, highlighting the importance of quick feedback loops and responsiveness to market changes. While it does mention aspects of innovation, such as embracing continuous delivery and utilising data for decision-making, the primary focus is more on agility and operational efficiency rather than a deep exploration of innovation mechanisms or metrics. The discussion lacks detailed examples of innovation practices or strategies specifically aimed at enhancing organisational innovation capacity, which limits its alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content mainly explores how Azure DevOps improved agility and operational efficiency by shifting to continuous delivery and faster feedback. While it briefly touches on innovation, it doesn’t delve into specific innovation strategies or practices. Therefore, it’s better suited to categories focused on agility or operations rather than one centred on organisational innovation."
   },
   "Accountability": {
     "category": "Accountability",
@@ -1032,7 +1069,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses continuous delivery, highlighting its importance in shortening feedback loops and enhancing agility. It provides a detailed narrative of Azure DevOps' transformation, illustrating the shift from long release cycles to continuous delivery practices. The key takeaways emphasise principles such as embracing continuous delivery, starting small, and utilising data, which align closely with the core themes of the category. The depth of discussion is substantial, offering insights into the cultural shift required for successful implementation.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores continuous delivery and its impact on agility and feedback cycles. By detailing Azure DevOps’ journey and emphasising practical principles like starting small and leveraging data, it offers valuable insights into both the technical and cultural aspects of adopting continuous delivery practices."
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1083,7 +1121,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Azure DevOps in terms of decision-making processes, particularly in relation to feedback loops and continuous delivery. It highlights the importance of data and telemetry in guiding decisions, which aligns with evidence-based management principles. However, while it touches on decision-making, the focus is more on the transformation and practices rather than a structured discussion of decision-making methodologies, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category because it explores how Azure DevOps leverages data and feedback to inform decisions, reflecting evidence-based management. While it doesn’t delve deeply into formal decision-making frameworks, it clearly connects transformation practices with improved decision processes, making it a relevant, though not perfect, match."
   },
   "Software Development": {
     "category": "Software Development",
@@ -1095,7 +1134,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the transformation of Azure DevOps from a lengthy release cycle to a continuous delivery model, which aligns closely with key Software Development topics such as Continuous Integration and Continuous Deployment (CI/CD) practices. It explicitly mentions concepts like embracing continuous delivery, rapid testing, and the importance of feedback loops, which are central to modern software development methodologies. The depth of discussion is substantial, providing specific examples and actionable takeaways that reflect best practices in software development. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Software Development category, as it explores Azure DevOps’ shift to continuous delivery, highlighting essential practices like CI/CD, rapid testing, and feedback loops. The discussion is detailed and practical, offering clear examples and insights that are highly relevant to modern software development methodologies."
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -1260,7 +1300,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps' deployment frequency, detailing the shift from a two-year release cycle to 880,000 deployments. It aligns well with the core themes of the category, emphasising the importance of frequent releases and the impact on feedback loops. The depth of discussion is substantial, providing actionable insights and strategies for enhancing deployment frequency, such as embracing continuous delivery and leveraging data. Overall, the content is highly relevant and focused on the optimisation of deployment intervals.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how Azure DevOps improved its deployment frequency, moving from infrequent releases to a high-volume deployment model. It highlights key strategies and the benefits of frequent releases, offering practical insights that directly support the optimisation of deployment practices."
   },
   "Strategy": {
     "category": "Strategy",
@@ -1272,7 +1313,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the transformation of Azure DevOps in terms of strategic agility and continuous delivery, which aligns well with the Strategy category. It explicitly mentions key strategic concepts such as embracing continuous delivery, utilising data for decision-making, and maximising value creation. The depth of discussion is substantial, providing actionable insights and takeaways that reflect a strong understanding of strategic alignment within Agile frameworks. Overall, the content is focused on strategic approaches to enhance agility and responsiveness in a competitive market.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Strategy category, as it explores how Azure DevOps can drive strategic agility and continuous delivery. It highlights important concepts like data-driven decision-making and value creation, offering practical insights that align with Agile strategies. The discussion is thorough and clearly focused on enhancing organisational responsiveness and competitiveness through strategic approaches."
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1563,7 +1605,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps from a lengthy release cycle to continuous delivery, which aligns closely with the principles of Agile product development and iterative processes. It highlights the importance of customer feedback loops, minimising risk through small feature testing, and the role of data in decision-making. The depth of discussion is substantial, providing actionable insights and key takeaways that reflect continuous improvement practices. Overall, the content is highly relevant to product development methodologies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the product development methodologies category. It clearly explores Azure DevOps’ shift to continuous delivery, emphasising Agile principles like rapid iteration, customer feedback, and data-driven decisions. The discussion is detailed and practical, offering valuable insights into continuous improvement and risk reduction, which are central to modern product development practices."
   },
   "Project Management": {
     "category": "Project Management",
@@ -1623,7 +1666,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the transformation of Azure DevOps from lengthy release cycles to continuous delivery, which directly relates to Time to Market. It highlights the importance of lead time and the impact of rapid deployment on customer satisfaction and competitive advantage. The depth of discussion includes specific strategies for improving Time to Market, such as embracing continuous delivery and leveraging data for decision-making. Overall, the content aligns well with the core themes of the category, providing a detailed exploration of how organisations can optimise their processes to enhance agility and responsiveness.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Time to Market category, as it explores how shifting to continuous delivery in Azure DevOps shortens release cycles. It clearly connects faster lead times and rapid deployment to improved customer satisfaction and competitiveness, offering practical strategies for organisations aiming to boost agility and responsiveness."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -1647,7 +1691,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from long release cycles to continuous delivery, which directly relates to the concept of Current Value by emphasising the importance of real-time feedback and responsiveness to customer needs. It mentions key aspects such as gathering data, utilising telemetry, and maximising value creation, which align well with the core themes of Current Value in Evidence-Based Management. However, while it provides practical insights and examples, the depth of discussion on specific metrics or indicators used to measure Current Value is somewhat limited, preventing a higher score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Current Value category, as it highlights how Azure DevOps shifted to continuous delivery to better respond to customer needs and maximise value. It covers relevant practices like using telemetry and real-time feedback, though it could delve deeper into specific metrics for measuring value. Overall, it aligns well with the core themes of Current Value in Evidence-Based Management."
   },
   "Agnostic Agile": {
     "category": "Agnostic Agile",
@@ -1720,7 +1765,8 @@
     "non_ai_confidence": null,
     "final_score": 84.0,
     "reasoning": "The content extensively discusses principles related to agile methodologies, specifically emphasizing continuous improvement, adaptability, and value delivery. It cites the importance of shortening feedback loops and continuous delivery, which align strongly with the core themes of the 'Principle' category. The primary focus is on actionable approaches and decisions that influence team behavior and decision-making in response to market demands, demonstrating a clear understanding of principles in practice. Although there are mentions of specific practices, which could lead to a lower score, the overarching emphasis is on actionable principles driving the transformation within the DevOps context.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Principle' category, as it centres on agile values like adaptability, continuous improvement, and delivering value. The discussion highlights how these principles guide team actions and decision-making, especially in response to changing market needs. While some practices are mentioned, the main focus remains on the underlying principles that shape effective DevOps transformation."
   },
   "Tool": {
     "resourceId": "_gyzx59-AJk",
@@ -1811,7 +1857,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content primarily discusses the practice of Continuous Delivery and its implications for improving team agility and responsiveness. It includes direct mentions of actionable techniques such as 'Embrace Continuous Delivery' and emphasizes smaller iterative releases, all of which align with key topics under the Practice category. The depth of the discussion offers several strategic takeaways that are specific to enhancing team performance and value delivery. While tools and software are mentioned in context, the focus remains on practices rather than tool-specific details.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Practice category, as it centres on Continuous Delivery and its impact on team agility. The discussion highlights actionable methods and strategic insights for improving workflows, focusing on iterative releases and value delivery. While tools are referenced, the emphasis remains on practical approaches rather than specific technologies, making it relevant for those seeking to enhance their delivery practices."
   },
   "Method": {
     "resourceId": "_gyzx59-AJk",
@@ -1863,7 +1910,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content discusses several actionable principles relevant to the tenets of Agile and DevOps, such as continuous delivery and the importance of feedback loops. The author provides specific recommendations to enhance organizational agility and responsiveness, aligning well with the category's focus on actionable guiding rules. However, it lacks explicit references to established tenets and seems more narrative-driven than formulaic in terms of tenet application, leading to a high but not perfect confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the category, as it offers practical advice rooted in Agile and DevOps practices like continuous delivery and feedback loops. While it effectively guides organisations towards greater agility, it doesn’t directly cite established tenets, making it more narrative than strictly formulaic. Overall, it’s a strong fit, though not a perfect match."
   },
   "Capability": {
     "resourceId": "_gyzx59-AJk",
@@ -1876,7 +1924,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content discusses the transformation of Azure DevOps from a long release cycle to continuous delivery, highlighting the endurance and development of capabilities that enhance business agility. It emphasizes the importance of responsiveness and continuous improvement, both of which align well with the characteristics of capabilities. However, while the content does address capability development explicitly, it leans heavily on tools and processes, which diminishes its score. Overall, it provides substantial insight into how capabilities can empower an organization, but also includes elements that could be classified as transient techniques.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category as it explores how Azure DevOps evolved to support continuous delivery, focusing on building lasting capabilities that drive business agility and responsiveness. While it does touch on tools and processes, the main emphasis is on developing enduring organisational strengths, making it a strong example of capability-focused content."
   },
   "Service Level Expectation": {
     "resourceId": "_gyzx59-AJk",

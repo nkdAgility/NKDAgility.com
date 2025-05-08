@@ -138,7 +138,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses code reviews and the shift-left approach, which are relevant to ensuring software quality and functionality. However, while it touches on aspects of working software, such as automated checks and faster delivery, it does not explicitly focus on the broader themes of working software delivery or customer value. The depth of discussion on working software principles is moderate, primarily centred around code review practices rather than a comprehensive exploration of working software as defined in Agile and Scrum.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores code review practices and the shift-left approach, which are important for software quality. However, it doesn’t fully address the wider concepts of working software delivery or customer value, focusing instead on specific quality assurance methods rather than the broader Agile or Scrum principles related to delivering functional software."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -363,7 +364,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of code reviews in improving code quality, which is a key aspect of software craftsmanship and quality assurance. It aligns well with the principles of best practices in coding standards and the role of automation in enhancing development efficiency. The depth of discussion is significant, as it covers various techniques and practices related to code reviews, including the shift towards pre-reviewing code and the automation of pull requests. Overall, the content strongly supports the category of Engineering Excellence.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Engineering Excellence category, as it thoroughly explores how code reviews contribute to higher code quality and better development practices. By addressing both manual and automated review techniques, it highlights best practices and the evolving role of automation, making it highly relevant to software craftsmanship and quality assurance."
   },
   "Throughput": {
     "category": "Throughput",
@@ -948,7 +950,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content primarily discusses code reviews, which are a crucial aspect of modern source control practices. It explicitly mentions pull requests and the importance of automated checks, aligning well with the category's focus on collaboration workflows and code review processes. The depth of discussion is significant, as it explores different schools of thought on code reviews and their impact on code quality, indicating a thorough understanding of the topic. Overall, the content is highly relevant to modern source control, though it could benefit from more detailed exploration of specific version control methodologies.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into code reviews and pull requests—key elements of modern source control. It highlights collaborative workflows and automated checks, demonstrating a solid grasp of current practices. While it thoroughly covers code review philosophies, adding more detail on specific version control methods could enhance its relevance even further."
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1461,7 +1464,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses the concept of 'pre-reviewed code' and how it can lead to faster delivery, which directly relates to the Time to Market category. It mentions the importance of automation in reducing bottlenecks and enhancing the speed of the development process, aligning with the core themes of Time to Market. The depth of discussion is significant, as it provides specific strategies and best practices for improving the code review process to accelerate delivery. However, while it touches on Time to Market, the primary focus is on code reviews rather than a comprehensive exploration of Time to Market metrics or strategies.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Time to Market category because it explores how pre-reviewed code and automation can speed up delivery. While its main focus is on improving the code review process, the discussion clearly connects these improvements to reducing bottlenecks and accelerating release cycles, which are key aspects of Time to Market. However, it doesn’t cover the full range of Time to Market strategies or metrics."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -1571,7 +1575,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content discusses automation in code reviews and specifically mentions tools such as SonarQube/SonarCloud and GitHub Actions or Azure DevOps Pipelines, which directly aligns with the category of Tools. While the content also covers methods of code reviews and the shift-left approach, it effectively highlights how these tools can automate processes and improve workflows. The discussion includes best practices for tool integration, which aligns well with the category's focus, thus providing a comprehensive understanding of how these tools facilitate team performance and value delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Tools category because it centres on how platforms like SonarQube and GitHub Actions streamline code reviews. By focusing on automation, integration, and best practices, it clearly demonstrates how these tools enhance workflows and support team efficiency, making it highly relevant to the category."
   },
   "Values": {
     "resourceId": "r2G-NrSIj2k",
@@ -1649,7 +1654,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content focuses on the practice of code reviews and specifically discusses actionable techniques like automated validation and the shift-left approach to enhance the code review process. There's a clear focus on improving team performance through consistent, repeatable actions that streamline development, which aligns well with the category 'Practice'. The depth of discussion around best practices and specific techniques contributes to a high confidence score, though the primary topic may veer slightly towards tools and automation, preventing a perfect score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong match for the 'Practice' category, as it centres on effective code review methods and highlights actionable strategies like automated validation and shift-left approaches. The emphasis on improving team workflows and sharing best practices makes it highly relevant, even though it briefly touches on tools and automation. Overall, it clearly fits the intended category."
   },
   "Method": {
     "resourceId": "r2G-NrSIj2k",
@@ -1662,7 +1668,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content discusses a specific method for conducting code reviews, emphasizing the shift-left approach and automated validation. It outlines structured practices and procedures for improving code quality and speeding up delivery through automated checks. The discussion is detailed, providing specific practices and tools to implement this method, aligning well with the key topics of structured procedures. While it does touch on broader concepts like collaboration and overall quality, the primary focus is on the procedural methods of code review, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on structured code review procedures, highlighting shift-left practices and automated validation. It offers clear, actionable steps and tools, focusing on improving code quality and delivery speed. While it briefly mentions broader themes, its main emphasis is on detailed, procedural methods, making it highly relevant."
   },
   "Model": {
     "resourceId": "r2G-NrSIj2k",

@@ -117,7 +117,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the concept of technical debt, its implications, and practical strategies for managing it within a software development context. It highlights real-world examples, such as the Azure DevOps team's experience, demonstrating how pragmatic thinking is applied to solve complex problems related to quality and efficiency. The discussion aligns well with the core themes of pragmatic thinking, including practical problem-solving strategies and the importance of adaptability in decision-making processes. The depth of the discussion is significant, providing detailed insights into the consequences of technical debt and the necessity of continuous improvement, which are crucial in Agile and DevOps environments.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into technical debt with practical examples and actionable strategies. By referencing real-world scenarios like the Azure DevOps team, it demonstrates pragmatic thinking and adaptability—key aspects of the category. The discussion’s depth and focus on continuous improvement further reinforce its relevance to Agile and DevOps practices."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -405,7 +406,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content provides a thorough exploration of technical debt, its implications on software quality, and the importance of managing it within the software development lifecycle. It discusses the deliberate and unintentional aspects of technical debt, linking it to broader software engineering practices such as quality assurance and architectural decisions. The depth of discussion is significant, with examples illustrating the impact of technical debt on product development and maintenance, aligning closely with key topics in software development methodologies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves deeply into technical debt and its effects on software quality. It covers both intentional and accidental debt, connects these concepts to software engineering practices, and uses examples to highlight their real-world impact. The discussion is comprehensive and clearly relevant to software development methodologies."
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -471,7 +473,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses technical debt and its implications on quality and efficiency, which are relevant to operational practices. However, while it touches on the importance of maintaining quality and managing technical debt, it lacks a direct focus on specific operational practices or methodologies like Agile, DevOps, or Lean. The discussion is more about the consequences of technical debt rather than providing actionable strategies or techniques for operational efficiency. Therefore, while it aligns conceptually with the category, the depth and direct mentions are limited.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to operational practices by highlighting the impact of technical debt on quality and efficiency. However, it doesn’t delve into specific methodologies or offer concrete strategies for improving operations. Instead, it broadly addresses the consequences of technical debt, making its connection to the category more conceptual than practical or detailed."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -732,7 +735,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses technical debt, its implications on software quality, and the importance of maintaining high standards in software development. It aligns closely with the principles of software craftsmanship, particularly in how it addresses the need for continuous refactoring and architectural decisions to manage technical debt effectively. The depth of discussion is significant, providing detailed examples and insights into the consequences of poor quality and technical debt, as well as strategies for improvement, such as the circuit breaker pattern. Overall, the content is a strong fit for the 'Technical Mastery' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the 'Technical Mastery' category, as it delves deeply into managing technical debt and maintaining software quality. It highlights best practices, such as continuous refactoring and architectural choices, and offers practical examples and strategies. The focus on improving code quality and long-term maintainability clearly demonstrates advanced technical understanding and craftsmanship."
   },
   "Transparency": {
     "category": "Transparency",
@@ -798,7 +802,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses technical debt, its implications on software quality, and the importance of maintaining high standards in engineering practices. It aligns well with the core themes of Engineering Excellence, particularly in terms of technical debt management, quality assurance, and the continuous improvement of engineering processes. The depth of discussion is significant, providing detailed examples and insights into how technical debt affects product quality and development efficiency, as well as strategies for addressing it. Overall, the content is a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Engineering Excellence category, as it delves into technical debt, its impact on software quality, and the need for robust engineering standards. By offering practical examples and strategies for managing technical debt, it clearly supports continuous improvement and quality assurance within engineering teams."
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -831,7 +836,8 @@
     "non_ai_confidence": 20,
     "final_score": 92.0,
     "reasoning": "The content extensively discusses the concept of technical debt, including its definition, types (intentional vs. unintentional), and the implications of poor quality versus technical debt. It provides a detailed exploration of how technical debt accumulates, the trade-offs involved in making design decisions, and the long-term impacts on product quality and development velocity. The author also shares practical examples and strategies for managing and remediating technical debt, aligning closely with the key topics outlined in the category definition. Overall, the content is a primary focus on technical debt, demonstrating a high level of detail and conceptual alignment.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the technical debt category, as it thoroughly explores what technical debt is, its various forms, and the consequences for software projects. The discussion includes practical examples and management strategies, clearly aligning with the category’s focus on understanding and addressing technical debt in development."
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -987,7 +993,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses technical debt, its implications on quality, and the importance of maintaining high standards in software development. It aligns well with the principles of clean code and continuous integration, as it highlights the need for refactoring and architectural decisions to manage technical debt effectively. The depth of discussion is significant, providing examples and insights into how technical debt can impact development cycles and product quality, which are core themes of engineering practices. However, while it touches on related concepts, it does not explicitly mention all key topics such as TDD or CI/CD, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the engineering practices category, as it delves into technical debt, its effects on software quality, and the necessity of refactoring. The discussion reflects core engineering principles, though it doesn’t cover every related topic in depth. Overall, it provides valuable insights into maintaining high standards in development, making it relevant to the category."
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1143,7 +1150,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses technical debt extensively, highlighting its implications on quality and efficiency in software development. It touches on the importance of architectural decisions and continuous improvement, which aligns with the principles of Technical Excellence. However, while it provides valuable insights, the focus is more on the consequences of technical debt rather than specific engineering practices or methodologies that enhance agility. The depth of discussion on actionable practices like refactoring and the circuit breaker pattern is present but not exhaustive, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Technical Excellence category as it delves into technical debt and its impact on software quality and team efficiency. While it references some engineering practices, the main emphasis is on understanding and addressing technical debt rather than detailing specific agile methodologies. The discussion supports continuous improvement, making it relevant, though not exclusively focused on actionable techniques."
   },
   "Lean": {
     "category": "Lean",
@@ -1368,7 +1376,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses continuous improvement in the context of managing technical debt and maintaining product quality. It highlights the importance of regular refactoring and proactive management of technical debt, which aligns with the principles of continuous improvement. However, while it touches on these themes, the primary focus is on technical debt and quality rather than a broader discussion of continuous improvement practices. The depth of discussion on continuous improvement is moderate, as it is integrated into the narrative but not extensively elaborated upon.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it addresses continuous improvement through the lens of technical debt management and product quality. While it doesn’t deeply explore all aspects of continuous improvement, it effectively connects regular refactoring and proactive debt management to ongoing enhancement, making it a suitable, though not comprehensive, fit for the category."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1428,7 +1437,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses technical debt and its implications on product quality and development processes, which aligns well with product development methodologies. It highlights the importance of continuous improvement and the impact of long release cycles on product quality, both of which are key themes in product development. The depth of discussion on managing technical debt and the distinction between technical debt and poor quality further supports its relevance to the category. However, while it touches on product development, it does not explicitly mention Agile or other specific methodologies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the product development category, as it explores how technical debt affects product quality and the development process. It emphasises continuous improvement and the challenges of long release cycles—core concerns in product development—even though it doesn’t directly reference specific methodologies like Agile."
   },
   "Project Management": {
     "category": "Project Management",

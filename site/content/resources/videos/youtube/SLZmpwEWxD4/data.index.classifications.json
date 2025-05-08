@@ -141,7 +141,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of visualizing work within a Kanban strategy, which is relevant to Agile practices. However, it primarily focuses on visualization techniques and team alignment rather than directly addressing the delivery of functional software or its quality. While it touches on aspects of working software, such as accountability and transparency, it lacks a comprehensive exploration of software quality, customer feedback, or iterative development, which are core themes of the 'Working Software' category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns more with Agile team practices than the 'Working Software' category. While it highlights visualisation and team alignment—important for workflow transparency—it doesn’t directly address delivering functional software, quality, or customer feedback. Its focus is on process visibility rather than the iterative development or outcomes central to 'Working Software'."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -222,7 +223,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of visualising work in a Kanban strategy, which directly relates to transparency in Agile processes. It highlights the need for clear communication and shared understanding among team members, emphasising that without a common understanding of the system, collaboration suffers. The analogy of board games illustrates the necessity of agreeing on rules, which aligns with the core themes of transparency. The content also suggests practical steps, such as workshops to define workflows, which further supports the promotion of transparency. However, while it touches on transparency, it does not delve deeply into the broader implications or challenges of maintaining transparency in Agile environments, which slightly limits its depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the transparency category, as it focuses on how visualising work in Kanban enhances openness and shared understanding within Agile teams. By using relatable analogies and suggesting practical steps, it effectively highlights the value of clear communication, though it could explore the wider challenges of transparency in more depth."
   },
   "Definition of Done": {
     "category": "Definition of Done",
@@ -270,7 +272,8 @@
     "non_ai_confidence": 50,
     "final_score": 78.0,
     "reasoning": "The content primarily focuses on the implementation of a Kanban strategy, discussing the importance of visualising work and establishing a shared understanding among team members. It aligns well with the core themes of strategic alignment and optimisation of delivery processes within Agile frameworks. The depth of discussion is significant, as it provides practical advice on creating a visual board and defining workflows, which are essential for effective strategy execution in Agile environments.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into Kanban strategy implementation and highlights key Agile principles like visualising work and fostering team alignment. Its practical guidance on setting up boards and workflows directly supports strategic delivery and process optimisation, making it highly relevant."
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -294,7 +297,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content primarily focuses on the implementation of a Kanban strategy, discussing the importance of visualising work and establishing a shared understanding among team members. It directly mentions Kanban, which is a specific Agile framework, and explores its principles and practical applications. The depth of discussion is significant, as it provides insights into creating a visual board and the necessity of defining rules for the system. However, while it touches on Scrum briefly, the main emphasis remains on Kanban, which aligns well with the category of Agile Frameworks.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Agile Frameworks category, as it centres on Kanban—a recognised Agile methodology. It delves into Kanban’s principles, practical use, and the value of visualising work, offering actionable insights. Although Scrum is mentioned, the primary focus remains on Kanban, making the classification appropriate."
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -306,7 +310,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of visualising work within a Kanban strategy, which indirectly touches on team collaboration by highlighting the need for shared understanding and agreement on processes. It mentions the necessity of team discussions to align on how the system works, which aligns with the category's focus on communication and shared ownership. However, the primary focus is on Kanban implementation rather than explicit team collaboration techniques, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to the category because it highlights how visualising work in Kanban encourages team discussions and shared understanding, both of which are key aspects of collaboration. While the main emphasis is on Kanban practices rather than direct collaboration methods, the need for team agreement and communication is clearly present, making the fit reasonable but not absolute."
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -366,7 +371,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the implementation of a Kanban strategy, which is a key aspect of Agile methodologies in software development. It discusses the importance of visualising work, defining workflows, and ensuring team alignment, all of which are crucial for effective software development practices. The mention of tools like Azure DevOps and Jira further solidifies its relevance to the software development category. The depth of discussion is substantial, providing insights into team dynamics and the necessity of a shared understanding of processes, which aligns well with the core themes of software development methodologies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the software development category, as it explores Kanban—a core Agile methodology—highlighting workflow visualisation, team alignment, and process clarity. References to tools like Azure DevOps and Jira, along with practical insights into team practices, reinforce its relevance to software development methodologies and collaborative project management."
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -720,7 +726,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of visualizing work within a Kanban strategy, which is a key Agile framework. It explicitly mentions Agile and Scrum, indicating a direct connection to Agile principles. The discussion aligns well with the core themes of Agile transformation, such as improving collaboration, accountability, and transparency. However, while it provides practical steps and insights, it does not delve deeply into broader change management strategies or leadership roles, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Agile transformation category, as it focuses on visualising work in a Kanban context and references Agile and Scrum directly. It highlights essential Agile themes like collaboration and transparency. However, it doesn’t extensively cover wider change management or leadership aspects, so its scope is somewhat focused rather than comprehensive."
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -768,7 +775,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the practical application of visualisation techniques within a Kanban strategy, which directly enhances operational efficiency. It discusses the importance of clarity, accountability, and transparency in workflows, aligning well with the core themes of operational practices. The depth of discussion is significant, providing detailed steps for creating a Kanban system and emphasising the need for team alignment, which are crucial for optimising processes. Overall, the content is highly relevant to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how visualisation techniques in Kanban can improve operational efficiency. It highlights key aspects like clarity, accountability, and transparency, and offers practical steps for implementation. The focus on team alignment and process optimisation further reinforces its relevance to operational practices."
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -858,7 +866,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of visualizing work within a Kanban strategy, which is a key aspect of Agile Planning. It directly mentions Agile and Scrum, aligning with the principles of Agile Planning, particularly in terms of team alignment and workflow definition. The depth of discussion includes practical steps for creating a Kanban system and emphasizes the need for team collaboration and shared understanding, which are crucial for effective Agile Planning. However, while it touches on Agile principles, it primarily focuses on Kanban without delving deeply into broader Agile Planning methodologies.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Agile Planning category because it explores how visualising work through Kanban supports team alignment and workflow clarity—core Agile principles. While it centres on Kanban rather than the full spectrum of Agile Planning methods, its focus on collaboration and practical implementation aligns well with Agile Planning objectives."
   },
   "Accountability": {
     "category": "Accountability",
@@ -1086,7 +1095,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content primarily discusses the importance of visualising work within a Kanban strategy, which directly relates to flow efficiency by emphasising the need to see and manage work in progress. It mentions the challenges of team alignment on system understanding, which is crucial for optimising flow. However, while it touches on flow metrics and the need for a defined workflow, it lacks detailed exploration of specific flow efficiency techniques or metrics, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the category as it highlights how visualising work in a Kanban system supports flow efficiency and team alignment. While it references flow metrics and workflow clarity, it doesn’t delve deeply into specific flow efficiency methods or detailed metrics, making the fit strong but not exhaustive."
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1098,7 +1108,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content primarily focuses on the importance of visualizing work within a Kanban strategy, which is a key aspect of Agile methodologies relevant to product delivery. It discusses how visualization aids in clarity, accountability, and transparency, all of which are crucial for effective product delivery. The content also touches on team alignment and workflow definition, which are essential for successful product delivery processes. However, while it aligns well with the category, it does not delve deeply into all aspects of product delivery, such as deployment strategies or metrics for measuring performance, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category as it highlights how visualising work in Kanban supports clarity, accountability, and transparency—core elements of effective product delivery. It also addresses team alignment and workflow definition. However, it doesn’t cover every facet of product delivery, like deployment or performance metrics, so the fit isn’t absolute."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1197,7 +1208,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the visualisation aspect of Kanban, discussing the importance of creating a shared understanding of the workflow and the need for a 'rule book' to define how the system operates. It explicitly mentions Kanban strategy multiple times and aligns well with key Kanban principles such as visualisation of work processes and the need for team agreement on workflow. The depth of discussion is substantial, providing practical advice on implementing Kanban boards and workshops, although it briefly touches on Scrum, which slightly detracts from its overall alignment with pure Kanban principles.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Kanban category, as it centres on visualising workflows and establishing clear team agreements—core Kanban principles. While it briefly references Scrum, the main focus remains on practical Kanban strategies, such as creating rule books and running workshops, making it highly relevant for those interested in Kanban implementation."
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1209,7 +1221,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of visualising work within a Kanban strategy, which directly relates to value delivery by enhancing clarity, accountability, and transparency. It aligns well with the principles of iterative development and the role of cross-functional teams in delivering value. The depth of discussion on creating a shared visualization and defining workflows indicates a strong focus on practices that enhance customer satisfaction and business agility. However, while it touches on value delivery, it does not delve deeply into metrics or continuous delivery practices, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it explores how visualising work in Kanban supports value delivery by improving clarity and team collaboration. It highlights the benefits of shared workflows and transparency, which are key to agile practices. However, it doesn’t go into detail about metrics or continuous delivery, so while relevant, it doesn’t cover every aspect of value delivery."
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1341,7 +1354,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of visualising work within a Kanban strategy, which touches on collaboration and transparency—key aspects of social technologies. However, while it mentions team dynamics and alignment, the primary focus is on technical practices and tools rather than a deep exploration of social frameworks or methodologies that promote collaboration and decision-making. The discussion lacks extensive detail on the underlying social technologies principles, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to social technologies by highlighting how visualising work in Kanban supports team collaboration and transparency. However, its main emphasis is on technical tools and practices, rather than deeply exploring social frameworks or collaborative methodologies. As a result, while it touches on relevant themes, it doesn’t fully align with the core aspects of social technologies."
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1407,7 +1421,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of alignment within teams, particularly in the context of visualising workflows in Kanban. It highlights the need for shared understanding and clear definitions of workflows, which are essential for achieving common goals. The emphasis on collaboration and defining rules aligns well with the principles of Common Goals in Agile and DevOps. However, while it touches on these themes, the primary focus is on visualization techniques rather than a comprehensive exploration of Common Goals, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Common Goals category as it explores how team alignment and shared understanding—key aspects of common goals—are fostered through visualising workflows in Kanban. While it effectively highlights collaboration and clarity, its main emphasis is on visualisation methods rather than an in-depth analysis of common goals, making the fit appropriate but not exhaustive."
   },
   "Competence": {
     "category": "Competence",
@@ -1455,7 +1470,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of visualising work within a Kanban strategy, which is a key aspect of Agile product development. It directly mentions Agile and Scrum principles, emphasising the need for team alignment and collaboration, which are crucial for effective product development. The depth of discussion is significant, covering practical steps for implementing a Kanban system, the importance of defining workflows, and the role of workshops in fostering team collaboration. Overall, the content aligns well with the core themes of product development, particularly in the context of iterative processes and customer-centric approaches.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the product development category, as it delves into Kanban strategies within Agile frameworks. It highlights practical steps, team collaboration, and workflow visualisation—core elements of iterative, customer-focused product development. The discussion’s depth and relevance to Agile principles further reinforce its suitability for this category."
   },
   "Liberating Structures": {
     "category": "Liberating Structures",
@@ -1612,7 +1628,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content primarily discusses the principle of visualization as a foundational practice in Kanban and Scrum frameworks, aligning closely with principles like transparency, self-management, and continuous improvement. It explicitly mentions the importance of defining workflows and ensuring team alignment, which are actionable principles guiding decision-making and collaborative efforts in Agile practices. However, while the focus on these principles is clear, there is significant mention of tools and practices without a detailed exploration of the underlying principles, resulting in a moderately high but not perfect confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on the principle of visualisation within Kanban and Scrum, highlighting its role in transparency and team alignment. While it references tools and practices, the main emphasis remains on actionable Agile principles, making it relevant—though a deeper dive into the principles themselves would strengthen the alignment further."
   },
   "Tool": {
     "resourceId": "SLZmpwEWxD4",
@@ -1625,7 +1642,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content provides a detailed discussion on the importance of visualization in a Kanban strategy, focusing on how tools like Azure DevOps and Jira facilitate this process. It explicitly mentions these tools multiple times, discussing their features and benefits in the context of improving team productivity, accountability, and transparency in workflows. The content also aligns strongly with the category by describing best practices for using these tools and integrating them into the team's processes, fulfilling the key topics expected under the category of 'Tool.' Overall, the primary focus is on the tools' role in enhancing Agile practices, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Tool' category, as it centres on how platforms like Azure DevOps and Jira support Kanban visualisation. It highlights their features, benefits, and best practices, showing how these tools drive productivity and transparency in Agile workflows. The discussion is tool-focused and practical, making the classification highly appropriate."
   },
   "Values": {
     "resourceId": "SLZmpwEWxD4",
@@ -1703,7 +1721,8 @@
     "non_ai_confidence": null,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses actionable techniques related to Kanban practices, focusing on visualizing work, mapping workflows, and ensuring team alignment—all of which directly tie into the core concepts of 'Practice'. It also provides a step-by-step approach to implementing these techniques in a team setting, fulfilling the depth requirement. The use of relatable analogies and recommendations for workshops enhances its usefulness and engagement, further solidifying its alignment with the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly belongs in the 'Practice' category, as it offers practical guidance on Kanban methods, including workflow visualisation and team coordination. Its step-by-step instructions and real-world examples make it highly actionable and relevant for those seeking to apply these techniques, ensuring it meets the criteria for depth and practical application."
   },
   "Method": {
     "resourceId": "SLZmpwEWxD4",
@@ -1716,7 +1735,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content provides a detailed step-by-step approach to implementing a Kanban strategy, including specific procedures for visualizing workflows and defining team rules. It directly discusses the Kanban method and outlines structured steps, contributing to the content's alignment with the 'Method' category. The depth of discussion regarding the process, challenges of implementation, and collaborative elements further supports its strong alignment. Additionally, the emphasis on workshop facilitation and flow metrics reflects a thorough exploration of the method, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Method' category, as it thoroughly explains how to implement a Kanban strategy with practical steps and guidance. It covers workflow visualisation, team collaboration, and key metrics, all of which are central to understanding and applying the method. The detailed, process-focused approach and attention to challenges make it a strong example of method-oriented content."
   },
   "Model": {
     "resourceId": "SLZmpwEWxD4",
@@ -1729,7 +1749,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content focuses heavily on the concept of visualization within the context of a Kanban strategy, which aligns well with the idea of using models to manage workflows and improve processes in Agile environments. Direct mentions of Kanban, visualization, and the importance of defined workflows support the 'Model' category. However, while it discusses these concepts in detail, the content does not delve deeply into the theories behind those models or frameworks, leading to a score that acknowledges its relevance but indicates it's not entirely exhaustive in its discussion of models.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the 'Model' category, as it explores how visualisation and Kanban strategies help manage workflows in Agile settings. It references key elements like defined workflows and visual tools, which are central to models in this context. However, it doesn’t fully explore the underlying theories or frameworks, so while relevant, it isn’t a comprehensive discussion of models."
   },
   "Framework": {
     "resourceId": "SLZmpwEWxD4",
@@ -1742,7 +1763,8 @@
     "non_ai_confidence": null,
     "final_score": 77.0,
     "reasoning": "The content focuses extensively on visualizing work in the context of Kanban, clearly outlining its relevance within the Agile framework. It discusses essential principles of Kanban, providing insight into implementation strategies and the importance of alignment in teams. The depth of discussion is quite significant as it offers step-by-step processes for defining workflows and emphasizes the need for alignment, reflecting core themes of frameworks. However, while it focuses on Kanban principles, it occasionally drifts into personal opinions and promotional aspects regarding training, which slightly detracts from its alignment with the category's strict guidelines.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores Kanban within the Agile framework, detailing key principles and practical steps for implementation. While it occasionally includes personal views and promotional elements, its primary focus remains on explaining and applying Kanban concepts, making it highly relevant to the topic."
   },
   "Tenet": {
     "resourceId": "SLZmpwEWxD4",
@@ -1755,7 +1777,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content focuses primarily on the actionable practices associated with Kanban, emphasizing the importance of visualizing work, defining workflows, and maintaining team alignment. It discusses specific steps to create a shared visualization system, which aligns well with the tenets of Kanban and Agile practices. Although it touches on broader themes such as accountability and transparency, these are presented in the context of actionable rules and practices, thus fitting within the 'Tenet' category. The depth of discussion includes practical steps and insights that guide teams, enhancing the overall alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Tenet' category, as it centres on practical Kanban principles and offers clear steps for teams to follow. While it mentions broader concepts like accountability, these are directly linked to actionable Kanban practices, ensuring the focus remains on guiding rules and methods. The detailed advice supports teams in applying these tenets effectively within Agile environments."
   },
   "Capability": {
     "resourceId": "SLZmpwEWxD4",

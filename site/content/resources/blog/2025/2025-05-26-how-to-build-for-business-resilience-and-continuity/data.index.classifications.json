@@ -33,7 +33,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content directly discusses multiple core facets of Engineering Excellence, including explicit best practices (e.g., CI/CD, SRE, monitoring, decoupling, chaos engineering), metrics (SLOs, MTTR, Deployment Frequency), and rigorous adherence to software craftsmanship principles. There are direct references to frameworks and roles tied closely to engineering quality (DevOps, SRE, Evidence-Based Management), and the entire discourse is directed toward software practitioners and technical leadership. Numerous actionable and technical recommendations are given rather than surface-level platitudes, showcasing substantial depth and practical utility. While 'Engineering Excellence' as a phrase isn't named repeatedly, it's strongly referenced via category-defining frameworks and themes. The only small deduction in 'mentions' is due to lack of repeated literal category name usage. The audience, signal-to-noise, and intent are all highly relevant, as the article is oriented toward technical engineers and leads, focusing nearly exclusively on engineering practices for resilience and quality. No penalties are necessary, as all advice is up-to-date and supportive of the category. The final weighted confidence score accurately reflects a near-perfect categorical fit, with only a slight discount for not using the exact category term repeatedly.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the category, as it thoroughly explores key engineering practices, frameworks, and metrics relevant to technical teams. It offers actionable, in-depth advice for engineers and leaders, focusing on quality and resilience. While the exact category name isn’t used often, the substance and intent clearly align with the category’s core themes, making it highly relevant and valuable for its intended audience."
   },
   "Technical Leadership": {
     "resourceId": "VThLnxVapgJ",
@@ -51,7 +52,8 @@
     "ai_penalty_details": "none",
     "final_score": 75.0,
     "reasoning": "The content is focused on building business resilience, emphasizing technical strategies like observability, decoupling systems, routine deployments, empowerment of teams, failure recovery, and adoption of DevOps/SRE/EBM principles—all highly relevant to technical leaders driving reliable systems. The alignment to the category 'Technical Leadership' is quite strong: it addresses how to guide teams, foster operational discipline, and implement robust engineering practices. However, there are only light, implicit connections to core leadership topics like mentoring, facilitation of agile ceremonies, or direct leadership philosophy—the bulk is system- and process-focused. 'Empower teams to act without hierarchy paralysis' touches on servant leadership and decentralization, while team training and pre-delegation reference leadership approaches, but these are not the main themes. The audience is largely technical leaders—architects, leads, SREs—but also includes influencers in DevOps or system reliability. Surface-level mentions of practices like incident management hint at leadership, but most narrative energy is spent on technical system design, culture, and process over explicit discussion of leading people. There is minimal off-topic content, with strong signal throughout, but since direct and repeated reference to 'technical leadership' or explicit coaching/mentoring themes is limited, the 'Direct Mentions' and 'Depth' scores are moderated. No outdated advice or contradictions to the category are present. Overall, the content is of high relevance and utility to a technical leadership audience, but could be more explicit about team dynamics, leadership strategies, and agile facilitation to achieve a higher confidence.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the 'Technical Leadership' category, as it addresses strategies and practices essential for building resilient systems—key concerns for technical leaders. While it focuses more on technical processes than direct leadership or mentoring, it still provides valuable insights for those guiding teams and shaping engineering culture. More explicit discussion of leadership techniques would strengthen its fit."
   },
   "Leadership": {
     "resourceId": "VThLnxVapgJ",
@@ -123,7 +125,8 @@
     "ai_penalty_details": "none",
     "final_score": 95.0,
     "reasoning": "The content makes several explicit references to DevOps, particularly in tying business resilience to 'DevOps in action' and describing it as 'the union of people, process, and products to enable continuous delivery of value.' It also cites Azure DevOps and directly references the practices of DevOps teams at Microsoft. Conceptually, the piece perfectly aligns with core DevOps themes: it emphasizes automation, continuous delivery, observability, shared accountability, feedback loops, on-call operations, and cross-functional collaboration. The depth of discussion is high; there is substantial elaboration on practical patterns (observability, decoupling, circuit breakers, chaos engineering, CI/CD) and strategic cultural principles (empowering teams, eliminating hierarchy bottlenecks, shifting left on quality and security). The narrative moves beyond superficial mentions, providing concrete examples (Azure DevOps outage) and extrapolating key lessons. The content is aimed at both practitioners and leaders interested in adopting DevOps philosophies, evidenced by its focus on system engineering, empowerment, and organisational change. The signal-to-noise ratio is excellent; nearly every section relates directly to DevOps core values and implementation, with minimal tangential material. No penalty is warranted as the content is up to date, aligns positively with the DevOps framework, and lacks obsolete or contradictory advice. The exceptionally high confidence score is justified by explicit and in-depth integration of DevOps principles throughout.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the DevOps category. It thoroughly explores DevOps principles, offering practical examples and strategic insights, and directly references key practices and tools. The discussion is detailed and relevant, making it valuable for both practitioners and leaders interested in DevOps adoption. The focus remains consistently on core DevOps themes, ensuring strong alignment with the category."
   },
   "Kanban": {
     "resourceId": "VThLnxVapgJ",
@@ -159,7 +162,8 @@
     "ai_penalty_details": "none",
     "final_score": 87.0,
     "reasoning": "The content does not directly mention 'Product Development' as a term, hence a moderate score for Direct Mentions. However, it is strongly conceptually aligned: it addresses continuous improvement, iterative delivery (Continuous Delivery, feature toggles, automated rollbacks), customer-centric resilience, and risk minimization—core to Product Development. The discussion goes well beneath the surface with detailed, actionable practices (observability, decoupling, deployment, empowered teams, SRE/DevOps). The audience is technical/product leaders (practitioner/strategist), matching the category, though slightly weighted toward resilience/ops. The signal is high, with minimal filler or tangents. The only area of note is some content focuses on operational resilience, but these are always interwoven with product delivery and improvement discussions, so penalty is unnecessary. The reasoning is reflected in the final confidence: the lack of explicit Product Development naming keeps it out of the 90+ range, but the strong depth, alignment, and intent mark it as a highly relevant resource.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "While the content doesn’t explicitly use the term ‘Product Development’, it thoroughly explores key concepts like continuous improvement, iterative delivery, and customer-focused resilience—all central to the field. Its actionable advice and technical depth make it highly relevant for product and technical leaders, even if some emphasis leans towards operational resilience rather than pure product development."
   },
   "Company as a Product": {
     "resourceId": "VThLnxVapgJ",
@@ -339,7 +343,8 @@
     "ai_penalty_details": "none",
     "final_score": 77.0,
     "reasoning": "The content covers a broad spectrum of business resilience and continuity topics rooted in DevOps and SRE, including observability, decoupling, empowerment, and disaster recovery. Deployment Frequency is directly mentioned several times—including in a list of key survival metrics like MTTR and customer satisfaction—and receives a dedicated checklist item: 'Treat Deployments as Routine, Not Special.' This section overtly advocates for continuous delivery (CD) to make deployments frequent, safe, and predictable, using automation and feature toggles. Other supporting references include automation of rollbacks and cultural advice discouraging 'deployment day fear.' However, while the article strongly aligns with conceptual and practical themes of Deployment Frequency, it situates these within the larger context of resilience instead of focusing in-depth on deployment frequency optimization strategies, metrics, or case studies. Some best practices related to release frequency are discussed, but only one direct, detailed paragraph addresses the topic as a primary concern, with the rest serving more as adjacent evidence (e.g., reliability, team empowerment, CI/CD as enabling disciplines). The intended audience is technical leaders and practitioners, in strong overlap with the category's audience. The signal-to-noise ratio is slightly diluted by broader resilience factors, but is restored by the clear pragmatic focus. No penalties are required as the content is neither outdated nor critical of Deployment Frequency.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Deployment Frequency category because it directly addresses the topic, highlighting its importance through dedicated sections and practical advice. While the main focus is broader business resilience, deployment frequency is treated as a key metric and best practice, making the content relevant for technical leaders interested in improving release processes. The coverage is clear, pragmatic, and well-aligned with the category’s audience."
   },
   "Remote Working": {
     "resourceId": "VThLnxVapgJ",
@@ -393,7 +398,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "This content, while titled for 'Resilience and Continuity,' includes multiple explicit, positive references to Continuous Delivery (CD), both directly and contextually (e.g., 'Implement Continuous Delivery so that deployments happen safely, frequently, and predictably', 'the daily discipline of CI/CD, Infrastructure as Code'). There is discussion of related practices—automation, deployments as routine, rollbacks—that strongly align with core continuous delivery principles, though the overarching theme is a broader focus on business/system resilience. The depth is solid, with real-world Azure DevOps examples that illustrate decoupling and deployment routines. Intent is to inform and persuade a technical/practitioner audience, making it suitable for Continuous Delivery practitioners, though the content is somewhat diluted by broader resilience topics (observability, chaos engineering, SRE, empowerment). The signal-to-noise ratio remains high given frequent, substantial anchor points on CD, but is not perfect due to inclusion of several purely resilience/security/ops concepts. There are no outdated references, satirical tones, or negative postures requiring penalty. Final confidence is moderately high: the article is appropriate for the Continuous Delivery category in a DevOps context, with the caveat that CD is one of several key pillars rather than the singular focus.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Continuous Delivery category, as it consistently highlights CD principles and practices, using clear examples and actionable advice. While it also covers broader resilience and operational topics, the frequent, in-depth references to CD ensure it remains highly relevant for practitioners interested in deployment automation and DevOps workflows."
   },
   "Market Adaptability": {
     "resourceId": "VThLnxVapgJ",
@@ -411,7 +417,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content has multiple explicit mentions of DevOps, Continuous Delivery, Site Reliability Engineering, and Evidence-Based Management, as well as discussions about real-world agile practices (e.g., empowered teams, decentralised decision-making, circuit breaker pattern, incident response). While the primary framing is 'business resilience and continuity,' the strategies and examples provided—particularly the Azure DevOps outage and resulting engineering adaptations—align closely with Market Adaptability: enabling organisations to swiftly respond to changing circumstances and competitive pressures. The checklist's focus on decoupling, continuous delivery, chaos engineering, and evidence-based metrics demonstrates alignment with agile and lean methodologies, supporting rapid adaptation. The content is in-depth, featuring substantial exploration and practical guidance, not just surface-level mentions. The main intent is educative and prescriptive for a technical and strategic audience interested in resilient/ adaptable systems. Some sections—like observability and telemetry—while broadly relevant, focus on resilience more than direct market shifts, slightly lowering the signal-to-noise ratio. No penalties were applied; content is current and supportive of the category's framing. The final confidence score is justified by strong conceptual alignment, actionable examples, deep coverage of relevant practices, and repeated references to DevOps, SRE, and continuous improvement.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Market Adaptability category. It goes beyond theory, offering practical guidance and real-world examples—like the Azure DevOps outage—to show how organisations can adapt quickly to change. The focus on DevOps, SRE, and agile practices demonstrates a clear intent to help technical leaders build resilient, responsive systems, making it highly relevant for those seeking to improve adaptability."
   },
   "Miscellaneous": {
     "resourceId": "VThLnxVapgJ",
@@ -465,7 +472,8 @@
     "ai_penalty_details": "none",
     "final_score": 79.0,
     "reasoning": "The content largely focuses on building business resilience and continuity via technical and process-oriented practices. While there are direct references to change management (especially in the closing SRE section and a tag hyperlink), such mentions are brief. The piece is conceptually aligned with change management in the sense that it advocates for systemic change, empowerment, and continuous improvement—all vital to lasting change, especially in Agile/DevOps environments. However, change management is a secondary theme rather than the explicit core subject; most concrete examples and checklists are about technical system design and operational practices. The audience (technical leaders, resilient system architects, DevOps/SRE practitioners) aligns well with the category. The discussion goes deeper than superficial mentions, examining leadership empowerment, team autonomy, and philosophical shifts needed for true resilience, which are related to change management, though not labeled as such throughout. The signal-to-noise ratio is high, given the lack of tangential material. No penalties are appropriate: the information is current, positive, and not satirical. The final score reflects moderate confidence due to strong overlap with change management principles and audiences, but limited direct and explicit focus.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the change management category, as it explores themes like systemic change, leadership empowerment, and continuous improvement—key aspects of change management. However, its main emphasis is on technical and operational resilience, with change management serving as a supporting theme rather than the primary focus. The target audience and depth of discussion align well with the category."
   },
   "Coaching": {
     "resourceId": "VThLnxVapgJ",
@@ -711,7 +719,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The content explicitly references Site Reliability Engineering (SRE) by name multiple times, including tagging and dedicating an entire section to its role in business resilience. It discusses many key SRE principles such as SLOs, monitoring, circuit breaker patterns, incident management, automation, chaos engineering, and capacity for rapid recovery. The content provides detailed explanations, actionable checklists, and concrete real-world examples (e.g., Azure DevOps outages and circuit breaker adoption), indicating high conceptual alignment and substantial depth. The main intent is directly aligned with SRE: applying engineering practices to improve reliability, continuity, and recovery in production systems. The target audience is clearly practitioners responsible for system reliability and business continuity, and the content stays highly focused (high signal-to-noise). There are no off-topic diversions, no signs of outdated practices, and the tone is earnest and supportive rather than critical of SRE. Minor deduction in 'intent' and 'audience' scores reflects slight broadening to related practices (e.g., Evidence-Based Management), but the core thread remains tightly coupled to SRE, ensuring high overall confidence. No penalties were necessary as there are no outdated practices or contradictory tones present.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the SRE category, as it thoroughly explores core SRE concepts like SLOs, monitoring, and incident management, with practical examples and actionable advice. Its focus is clearly on applying engineering methods to boost system reliability and business continuity, making it highly relevant for SRE practitioners. The discussion remains on-topic and current, ensuring strong alignment with the intended category."
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -1005,7 +1014,8 @@
     "non_ai_confidence": 0,
     "final_score": 75.0,
     "reasoning": "The content discusses the importance of treating deployments as routine and implementing Continuous Delivery (CD), which aligns well with the principles of Frequent Releases. It mentions strategies for automating the release process and highlights the need for frequent and predictable deployments. However, while it touches on these topics, the primary focus is on business resilience and system design rather than a dedicated exploration of frequent releases. Therefore, while there is significant relevant content, it is not the main focus, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Frequent Releases category because it covers the value of routine deployments and Continuous Delivery, both of which support frequent, predictable releases. However, its main emphasis is on business resilience and system design, not frequent releases specifically. So, while it’s a good fit, it’s not a perfect match for the category."
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -1065,7 +1075,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses several key engineering practices such as Continuous Delivery (CD), the importance of decoupling systems, and the principles of resilience in system design. It explicitly mentions CI/CD and automation, which are core themes of the Engineering Practices category. The depth of discussion is substantial, providing actionable insights and a checklist for building resilient systems, which aligns well with the principles of Agile development. However, while it touches on relevant topics, it does not delve deeply into concepts like Test-Driven Development or Clean Code, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Engineering Practices category, as it covers essential topics like Continuous Delivery, system decoupling, and resilience. It offers practical advice and aligns with Agile principles. While it doesn’t explore areas like Test-Driven Development or Clean Code in depth, its focus on CI/CD and automation makes it highly relevant to engineering best practices."
   },
   "Liberating Structures": {
     "category": "Liberating Structures",
@@ -1101,7 +1112,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses several key aspects of product delivery, particularly focusing on continuous delivery (CD), the importance of resilience in systems design, and the role of DevOps in ensuring effective product delivery. It provides actionable insights and methodologies that align well with the core themes of product delivery, such as planning, deployment, and the integration of cross-functional teams. The depth of discussion on practices like chaos engineering and metrics for measuring performance further supports its relevance to the category. However, while it touches on product delivery, the primary focus is on resilience and system design, which slightly detracts from a full alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to product delivery as it covers continuous delivery, DevOps practices, and cross-functional collaboration—key elements in delivering products effectively. However, its main emphasis is on resilience and system design, making it more about building robust systems than strictly about product delivery processes. While related, the focus slightly shifts away from the core of the category."
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -1185,7 +1197,8 @@
     "non_ai_confidence": 0,
     "final_score": 75.0,
     "reasoning": "The content discusses Evidence-Based Management (EBM) and its application in building business resilience, which aligns well with the principles of Evidence-Based Leadership. It mentions metrics like Mean Time to Recovery (MTTR) and Deployment Frequency, which are key performance indicators relevant to leadership decisions. The depth of discussion on how these metrics inform resilience strategies indicates a strong connection to the category, although the primary focus is on operational practices rather than leadership itself.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Evidence-Based Leadership category, as it explores how data-driven metrics like MTTR and Deployment Frequency can guide strategic decisions. While the main emphasis is on operational resilience, the discussion clearly links these practices to informed leadership, demonstrating how evidence supports effective management."
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
@@ -1257,7 +1270,8 @@
     "non_ai_confidence": 10,
     "final_score": 85.0,
     "reasoning": "The content explicitly mentions Evidence-Based Management (EBM) and discusses its application in the context of business resilience. It aligns well with the core themes of EBM, particularly in the emphasis on metrics like Mean Time to Recovery (MTTR) and Deployment Frequency, which are crucial for data-informed decision-making. The depth of discussion is significant, as it provides actionable insights and a pragmatic approach to implementing EBM principles in organisational practices. Overall, the content is focused on EBM, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Evidence-Based Management category, as it directly addresses EBM concepts and their practical use in business resilience. By highlighting key metrics and offering actionable guidance, it demonstrates a clear understanding of EBM principles and their application within organisations."
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -1269,7 +1283,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of metrics such as Mean Time to Recovery (MTTR) and Deployment Frequency, which are directly related to the category of Metrics and Learning. It also touches on Evidence-Based Management principles, emphasising the role of metrics in decision-making and continuous improvement. The depth of discussion is substantial, providing actionable insights and a pragmatic checklist for building resilience, which aligns well with the core themes of the category. However, while metrics are mentioned, the primary focus is on resilience and system design, which slightly detracts from a full alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the Metrics and Learning category, as it highlights key metrics like MTTR and Deployment Frequency, and explores how evidence-based management supports continuous improvement. While the main emphasis is on resilience and system design, the actionable insights and focus on measurement make it a strong, though not perfect, fit for this category."
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1365,7 +1380,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses practical strategies for enhancing operational resilience and continuity, which aligns closely with the core themes of operational practices. It covers techniques such as decoupling systems, implementing continuous delivery, and empowering teams, all of which are relevant to improving operational efficiency. The depth of discussion is significant, providing actionable insights and examples, particularly in the context of DevOps and SRE principles. The content is not merely theoretical; it offers concrete practices that organisations can adopt to enhance their operational capabilities.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it offers practical, actionable strategies to boost operational resilience and efficiency. By focusing on real-world techniques like system decoupling and continuous delivery, and grounding its advice in DevOps and SRE principles, it provides valuable guidance that organisations can readily apply to improve their operational practices."
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -1413,7 +1429,8 @@
     "non_ai_confidence": 10,
     "final_score": 75.0,
     "reasoning": "The content discusses several key aspects of deployment strategies, including Continuous Delivery (CD) and feature toggles, which are directly relevant to the category. It also touches on the importance of treating deployments as routine and the need for automation in rollbacks, indicating a strong alignment with deployment methodologies. However, the primary focus of the content is on business resilience and system design rather than a detailed exploration of deployment strategies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it covers essential deployment strategies like Continuous Delivery and feature toggles, and highlights the value of automation and routine deployments. While it aligns well with deployment methodologies, its main emphasis is on broader topics such as business resilience and system design, making the fit good but not perfect."
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1509,7 +1526,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses several key aspects of Technical Excellence, including Continuous Delivery (CD), decoupling systems, and the importance of resilience in system design. It explicitly mentions CI/CD and how it relates to deployment practices, which aligns well with the core themes of the category. The depth of discussion is significant, providing detailed insights into practices that enhance software quality and maintainability. However, while it touches on technical excellence, the primary focus is on business resilience rather than a direct exploration of engineering practices, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content aligns with the Technical Excellence category as it covers essential practices like Continuous Delivery, system decoupling, and resilience—key elements in building robust software. While it offers valuable insights into these areas, its main emphasis is on business resilience rather than a deep dive into engineering methods, making the fit good but not perfect."
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1653,7 +1671,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses various aspects of software development, particularly focusing on resilience, continuous delivery, and DevOps practices. It explicitly mentions concepts like Continuous Delivery (CD), chaos engineering, and the importance of decoupling systems, which are all relevant to software engineering methodologies. The depth of discussion is significant, providing actionable insights and a checklist for building resilient systems, which aligns well with the core themes of software development. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the software development category, as it explores key topics like resilience, continuous delivery, and DevOps. By addressing practical strategies and offering actionable advice, it demonstrates a deep understanding of software engineering practices. The inclusion of specific methodologies and a checklist further reinforces its relevance, making it highly suitable for this classification."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1821,7 +1840,8 @@
     "non_ai_confidence": 10,
     "final_score": 75.0,
     "reasoning": "The content discusses several aspects relevant to Release Management, particularly in the context of Continuous Delivery (CD) and the importance of treating deployments as routine. It mentions the need for automation in rollbacks and the significance of empowering teams to act swiftly during crises, which aligns with the coordination and risk management aspects of release processes. However, while it touches on these topics, the primary focus is more on business resilience and system design rather than a comprehensive exploration of release management strategies and practices. Therefore, while it is relevant, it does not fully meet the criteria for a primary focus on Release Management.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content touches on key elements of Release Management, such as automation and team empowerment during deployments, which are important for effective release processes. However, its main emphasis is on broader themes like business resilience and system design, rather than a deep dive into release management itself. As a result, it’s relevant but not primarily focused on Release Management."
   },
   "Cycle Time": {
     "category": "Cycle Time",
@@ -1845,7 +1865,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses principles of software architecture and engineering practices, particularly focusing on resilience, decoupling systems, and continuous delivery. It directly mentions concepts like DevOps, chaos engineering, and the importance of monitoring, which align closely with the core themes of Technical Mastery. The depth of discussion is significant, providing actionable insights and a pragmatic checklist for achieving business resilience through technical excellence. Overall, the content is highly relevant to the category, with a strong emphasis on technical practices and methodologies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Technical Mastery category, as it delves into key software engineering concepts like resilience, system decoupling, and continuous delivery. By referencing DevOps, chaos engineering, and monitoring, it demonstrates a strong focus on advanced technical practices, offering practical advice and in-depth insights that align perfectly with the category’s core themes."
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
@@ -1857,7 +1878,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of building resilient systems through continuous practices such as monitoring, decoupling systems, and empowering teams, which aligns well with the principles of Continuous Improvement. It mentions concepts like Continuous Delivery and Evidence-Based Management, indicating a commitment to ongoing enhancement and data-driven decision-making. However, while it touches on these themes, the primary focus is on resilience rather than a broader discussion of Continuous Improvement, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with the Continuous Improvement category as it highlights ongoing practices like monitoring, decoupling, and team empowerment, all of which support iterative enhancement. References to Continuous Delivery and data-driven management further reinforce this fit, though the main emphasis on resilience means it only partially covers the broader scope of Continuous Improvement."
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1881,7 +1903,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses several key aspects of value delivery, particularly in the context of DevOps and continuous delivery. It explicitly mentions Continuous Delivery (CD) and Evidence-Based Management (EBM), which are directly related to delivering value to customers. The principles of resilience and the importance of empowering teams align well with the core themes of iterative development and customer satisfaction. However, while the content is rich in detail regarding system design and operational practices, it does not delve deeply into measuring customer value or aligning product development with customer feedback, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the value delivery category, as it covers DevOps, Continuous Delivery, and Evidence-Based Management—core concepts in delivering value to customers. It also highlights team empowerment and resilience. However, it could be improved by focusing more on how customer value is measured and how feedback shapes product development."
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -2049,7 +2072,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses practical strategies for building business resilience, which aligns closely with the core themes of Pragmatic Thinking. It provides actionable insights on system design, decision-making, and the importance of resilience in complex environments, particularly within the context of DevOps and Agile practices. The depth of discussion is significant, with detailed examples and a pragmatic checklist that emphasises real-world applications. The content also highlights the necessity of adaptability and critical thinking in crisis situations, further reinforcing its alignment with the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Pragmatic Thinking category, as it offers practical advice and real-world examples on building business resilience. Its focus on actionable strategies, adaptability, and critical thinking—especially within DevOps and Agile contexts—demonstrates a clear emphasis on applying pragmatic approaches to complex challenges."
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -2097,7 +2121,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses decision-making in the context of building business resilience, particularly emphasising the importance of pragmatic decision-making and decentralised authority. It aligns well with the core themes of structured decision-making, especially through the mention of Evidence-Based Management (EBM) and metrics that guide decisions. However, while it touches on these topics, the depth of discussion on structured methodologies and frameworks for decision-making is somewhat limited, focusing more on practical advice and anecdotal experiences rather than a comprehensive exploration of decision-making frameworks.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores decision-making within business resilience, highlighting pragmatic approaches and decentralised authority. While it references Evidence-Based Management and relevant metrics, the focus is more on practical guidance than in-depth analysis of structured decision-making frameworks. Thus, it aligns with the category, though with a more applied than theoretical emphasis."
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -2122,7 +2147,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content discusses various principles that align with business resilience and continuity, offering actionable insights on how to build resilient systems. The direct mentions include important principles like empowerment of teams, continuous delivery, and the emphasis on operational excellence. The alignment with the core themes of the category is strong due to the focus on pragmatic decision-making and methodologies that promote resilience, such as decentralization and chaos engineering. The content also goes into considerable depth, providing detailed strategies and examples illustrating these principles in action, particularly in the context of DevOps and site reliability engineering. Overall, while the principles are not labeled explicitly as such, they are central to the content's theme, justifying a robust confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content clearly fits the category, as it explores key principles and practical strategies for business resilience and continuity. By highlighting team empowerment, continuous delivery, and operational excellence—especially within DevOps and site reliability—it demonstrates a strong alignment with the category’s core themes, offering actionable guidance and relevant examples throughout."
   },
   "Tool": {
     "resourceId": "VThLnxVapgJ",
@@ -2187,7 +2213,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content strongly discusses the notion of discipline in the context of business resilience. It emphasizes the need for structured approaches and consistent methodologies, especially through the application of DevOps practices and concepts like Continuous Delivery and Site Reliability Engineering. It highlights the importance of systematic design, governance, and ongoing learning to achieve resilience, which closely aligns with the definition of 'Discipline.' The discussion of specific principles and practices related to resilience demonstrates a deep commitment to these ideas. However, while it encompasses several key themes of the discipline category, the focus tends more towards practical applications rather than a comprehensive exploration of the discipline as a standalone concept, slightly detracting from full alignment.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the 'Discipline' category as it explores structured approaches and consistent methodologies for business resilience, particularly through DevOps and related practices. While it effectively demonstrates disciplined thinking in practical contexts, its emphasis on application over theoretical exploration means it only partially aligns with the category’s full scope."
   },
   "Artifact": {
     "resourceId": "VThLnxVapgJ",
@@ -2213,7 +2240,8 @@
     "non_ai_confidence": null,
     "final_score": 80.0,
     "reasoning": "The content discusses observability extensively, particularly emphasizing its role in business resilience and continuity. It defines observability through its recommendation of embedding telemetry at various levels and advocates monitoring leading indicators as part of observability efforts. This is consistent with the key topics of observability, such as the principle of understanding system states through collected data. The depth of discussion is substantial, with specific practices for implementing observability and the impact on system design. While it primarily focuses on resilience, observability is a critical aspect of that focus, justifying a high confidence score within that context.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the observability category, as it thoroughly explores how observability supports business resilience. It covers key observability concepts, like embedding telemetry and monitoring leading indicators, and offers practical guidance. The discussion goes beyond surface-level mentions, making observability central to the content’s message and relevance."
   },
   "Practice": {
     "resourceId": "VThLnxVapgJ",
@@ -2226,7 +2254,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content discusses actionable techniques such as embedding telemetry, decoupling systems, treating deployments as routine, and empowering teams — which are all practices aligned with improving team effectiveness and resilience. The detailed checklist format provides clear, repeatable actions that teams can implement. While 'DevOps' and 'Site Reliability Engineering' are mentioned, they are framed in the context of practices rather than mere frameworks. The focus is on practical implementations rather than philosophical discussions, reflecting a strong alignment with the 'Practice' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Practice' category, as it offers practical steps and actionable advice for teams to enhance effectiveness and resilience. The checklist format makes the guidance easy to follow and apply, focusing on real-world implementation rather than abstract theory. While DevOps and SRE are referenced, the emphasis remains on hands-on techniques rather than just discussing frameworks."
   },
   "Method": {
     "resourceId": "VThLnxVapgJ",
@@ -2239,7 +2268,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content provides detailed steps and methodologies for achieving business resilience and continuity. It discusses specific methods like telemetry, decoupling systems, continuous delivery, and incident management with clear procedural recommendations. These practices align closely with structured approaches related to Agile, DevOps, and resilience frameworks. Although the content tangentially touches on broader philosophies of resilience, the primary focus remains on actionable methods. Therefore, it scores high in both direct mentions and depth of discussion while maintaining a strong conceptual alignment with the 'Method' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Method' category because it offers clear, actionable steps and techniques for building business resilience. It goes beyond general concepts, providing practical guidance and structured approaches that align with established frameworks like Agile and DevOps, making it highly relevant for those seeking methodological advice."
   },
   "Strategy": {
     "resourceId": "VThLnxVapgJ",
@@ -2252,7 +2282,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content discusses building business resilience, which closely ties to organizational strategy. It emphasizes the importance of intelligent systems design and strategic decision-making for ensuring business continuity. Key concepts such as empowering teams, decentralizing decision-making, and integrating practices like DevOps and Evidence-Based Management align well with strategic planning and achieving organizational goals. Although it focuses on practical actions rather than high-level strategy discussions, it frames these actions within a strategic context, which contributes to a solid alignment with the 'Strategy' category. The depth of discussion covers several dimensions of strategic resilience, enhancing the overall score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the 'Strategy' category, as it explores how intelligent systems design and empowered teams contribute to business resilience. By linking practical actions like DevOps and Evidence-Based Management to broader organisational goals, it frames operational improvements within a strategic context, making it highly relevant for discussions on organisational strategy and long-term planning."
   },
   "Model": {
     "resourceId": "VThLnxVapgJ",
@@ -2291,7 +2322,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content aligns strongly with the 'Tenet' category by providing actionable guidelines on building business resilience through specific practices. It discusses decentralised decision-making, continuous improvement, and evidence-based metrics, which are core tenets relevant to Agile and DevOps. The depth of discussion is significant, covering various tenets directly linked to operational practices that help teams navigate crises, ensuring both preparedness and resilience. While it emphasizes implementing structured approaches and methodologies, it does not stray into philosophical discussions, maintaining strong relevance to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Tenet' category, as it offers practical guidance on fostering business resilience through key principles like decentralised decision-making and continuous improvement. Its focus on actionable strategies and operational practices, rather than abstract theory, makes it highly relevant to Agile and DevOps tenets."
   },
   "Capability": {
     "resourceId": "VThLnxVapgJ",
@@ -2304,7 +2336,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses various strategies and practices related to building business resilience, which aligns well with the concept of developing and embedding capabilities within teams and organizations. Although it leans heavily on specific practices and actions like incident management and system design, the overarching theme advocates for cultivating enduring competencies that enhance organizational performance and adaptability. Terms like 'empower teams,' 'decentralize decision-making,' and 'design for recovery' reflect an understanding of capabilities necessary for resilience. However, there is a risk of focusing too much on isolated practices and techniques rather than discussing systemic capabilities in an abstract sense, hence not achieving a perfect score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on building organisational resilience through developing key capabilities within teams. While it highlights specific practices like incident management and system design, the main focus is on fostering skills and mindsets that support adaptability and long-term performance, aligning well with the category’s intent."
   },
   "Service Level Expectation": {
     "resourceId": "VThLnxVapgJ",

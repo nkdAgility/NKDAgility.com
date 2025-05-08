@@ -36,7 +36,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses Azure DevOps and mentions the product backlog in the context of work item hierarchy and management. However, while it touches on the concept of the product backlog, the primary focus is on the issues users face with Azure DevOps rather than a comprehensive exploration of backlog management techniques or practices. The discussion lacks depth in terms of backlog refinement, prioritisation, and the role of the Product Owner, which are key aspects of the Product Backlog category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content briefly references the product backlog within Azure DevOps but mainly centres on user challenges with the platform. It doesn’t delve into essential backlog management topics like refinement, prioritisation, or the Product Owner’s responsibilities. Therefore, it doesn’t fully align with the Product Backlog category, as it lacks the depth and focus expected for that classification."
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -348,7 +349,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on Azure DevOps, a tool integral to software development, particularly in Agile environments. It discusses common pitfalls and best practices, aligning well with the Software Development category. The author’s background as a Scrum and Kanban trainer adds credibility and depth to the discussion, providing insights into Agile methodologies and their application in real-world scenarios. The content also touches on the evolution of Azure DevOps, reflecting on its design intent and how it supports the software development lifecycle, which further strengthens its relevance to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Software Development category, as it centres on Azure DevOps—a key tool in Agile software projects. The discussion of best practices, common mistakes, and the author’s expertise in Scrum and Kanban all reinforce its relevance, offering practical insights into real-world software development and lifecycle management."
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -468,7 +470,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses Azure DevOps extensively, including its transition to Agile and the importance of work item hierarchy, which aligns with Azure Boards' functionalities. However, while Azure Boards is a significant aspect of Azure DevOps, the content does not focus exclusively on Azure Boards, leading to a lower confidence score. The discussion touches on issues and best practices related to work items, which is relevant, but it lacks a comprehensive exploration of Azure Boards as a standalone topic.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content covers Azure DevOps with references to Agile practices and work item hierarchies, which are relevant to Azure Boards. However, since the discussion isn’t centred solely on Azure Boards and instead addresses broader DevOps themes, it only partially fits the category. The mention of work items is pertinent, but the focus isn’t deep enough on Azure Boards specifically."
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -522,7 +525,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses common pitfalls and issues encountered in Azure DevOps, particularly focusing on a specific problem related to work item hierarchy. While it does mention troubleshooting aspects, such as identifying issues that frustrate the Azure DevOps team, the primary focus is more on the features and historical context of Azure DevOps rather than a systematic approach to diagnosing and resolving technical issues. The depth of discussion on troubleshooting techniques is limited, which affects the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores Azure DevOps features and historical context, with only brief references to troubleshooting challenges. Since it doesn’t provide a structured or in-depth approach to diagnosing and resolving technical issues, it doesn’t fully align with a troubleshooting-focused category. The emphasis is more on general discussion than on practical problem-solving guidance."
   },
   "Increment": {
     "category": "Increment",
@@ -699,7 +703,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses Azure DevOps in the context of Agile practices, highlighting common pitfalls that can hinder Agile success. It mentions the shift to Agile methodologies and the importance of adhering to Agile principles, which aligns with the core themes of Agile transformation. However, while it touches on Agile concepts, the primary focus is on the tool itself rather than a comprehensive discussion of Agile transformation strategies or methodologies, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to Agile transformation by addressing how Azure DevOps can support or hinder Agile practices. While it references Agile principles and common challenges, the main emphasis is on the tool’s role rather than offering in-depth Agile transformation strategies, making it a partial but not complete fit for the category."
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -795,7 +800,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses Azure DevOps, which is an Agile Planning Tool, and highlights its features, common pitfalls, and the importance of adhering to Agile principles. It provides a detailed examination of issues related to backlog management, work item types, and traceability, which are all relevant to Agile planning. However, while it focuses on Azure DevOps, it does not delve deeply into broader Agile planning methodologies or tools beyond this specific platform, which slightly limits its overall alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Agile Planning Tools category as it explores Azure DevOps’ features, challenges, and best practices in Agile planning. While it offers valuable insights into backlog management and traceability within Azure DevOps, it doesn’t extensively cover other Agile tools or methodologies, making its focus somewhat narrow but still fitting for the category."
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -969,7 +975,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content primarily focuses on practical issues and common pitfalls in using Azure DevOps within Agile frameworks, which directly relates to operational practices. It discusses specific operational challenges, such as misuse of work item types and the importance of traceability, which are crucial for enhancing operational efficiency. The depth of discussion is significant, providing detailed examples and insights that align well with the key topics of the category, such as process optimisation and continuous improvement. Overall, the content is highly relevant and offers actionable strategies for improving operational practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into real-world challenges and best practices when using Azure DevOps in Agile environments. By highlighting common mistakes and offering practical solutions, it directly supports process optimisation and continuous improvement—core aspects of operational excellence. The detailed examples and actionable advice make it especially relevant for those aiming to enhance operational workflows."
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -1062,7 +1069,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content discusses Azure DevOps in the context of Agile methodologies and product delivery, highlighting the transition from traditional delivery schedules to Agile sprints. It provides insights into the challenges faced by teams using Azure DevOps, which directly relates to the methodologies and practices of delivering software products. The depth of discussion includes specific issues that affect product delivery, such as work item hierarchy, which is crucial for effective planning and execution. Overall, the content aligns well with the core themes of product delivery, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the product delivery category, as it explores how Azure DevOps supports Agile practices and addresses real-world challenges teams face during software delivery. By focusing on issues like work item hierarchy and the shift to sprints, it clearly relates to the processes and methodologies central to effective product delivery."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1074,7 +1082,8 @@
     "non_ai_confidence": 30,
     "final_score": 72.0,
     "reasoning": "The content discusses Azure DevOps in the context of Agile practices, highlighting the importance of adhering to agile principles and addressing common pitfalls that can hinder effective product management. While it does mention Agile methodologies and their application, the primary focus is on the tool itself rather than a comprehensive exploration of Agile Product Management concepts. The depth of discussion on Agile principles is moderate, but it lacks extensive detail on key topics such as the role of the Product Owner or stakeholder engagement.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on Agile methodologies within Azure DevOps, but its main emphasis is on using the tool rather than deeply exploring Agile Product Management. While it references agile principles and some challenges, it doesn’t thoroughly cover essential topics like the Product Owner’s role or stakeholder involvement, making it only a partial fit for the Agile Product Management category."
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1185,7 +1194,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses Azure DevOps and its alignment with agile methodologies, highlighting common pitfalls that can hinder organisational agility. While it mentions agile principles and practices, the primary focus is on specific issues within Azure DevOps rather than a broader exploration of organisational agility strategies or cultural shifts. The depth of discussion on agility is moderate, but it lacks comprehensive insights into leadership roles, cross-functional teams, or continuous improvement strategies, which are key topics in the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on agile principles in the context of Azure DevOps, mainly addressing practical challenges rather than offering a thorough exploration of organisational agility. It doesn’t delve deeply into broader themes like leadership, team dynamics, or ongoing improvement, so it only partially fits the organisational agility category."
   },
   "Personal": {
     "category": "Personal",
@@ -1407,7 +1417,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses Azure DevOps in the context of Agile practices, highlighting common pitfalls and best practices for optimising its use. While it does mention Agile principles and the importance of traceability, the primary focus is on technical implementation and specific issues within Azure DevOps rather than broader product development methodologies. The discussion is relevant but lacks depth in exploring iterative learning and customer feedback integration, which are key aspects of product development.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is mainly centred on the technical use of Azure DevOps within Agile frameworks, focusing on practical challenges and solutions. While it touches on Agile principles, it doesn’t deeply explore core product development themes like iterative learning or customer feedback. Therefore, it’s more about tool implementation than comprehensive product development methodology."
   },
   "Liberating Structures": {
     "category": "Liberating Structures",
@@ -1564,7 +1575,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content primarily discusses how to optimize the use of Azure DevOps by addressing common pitfalls, emphasizing principles related to agile methodologies such as traceability, collaboration, and simplicity in processes. It explains actionable insights based on principles guiding team behavior in an agile context, showing a strong alignment with the category of 'Principle'. However, while principles are referenced, the deeper exploration of these principles is somewhat limited, resulting in a slightly lower score for depth. Overall, it maintains a consistent and focused discussion on the practical application of Agile principles.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the 'Principle' category, as it centres on applying agile values like traceability and collaboration within Azure DevOps. While it references these guiding principles and offers practical advice, it doesn’t delve deeply into their theoretical foundations. The focus remains on actionable guidance, making it a good, though not deeply analytical, fit for this category."
   },
   "Tool": {
     "resourceId": "jcs-2G99Rrw",
@@ -1577,7 +1589,8 @@
     "non_ai_confidence": null,
     "final_score": 87.0,
     "reasoning": "The content provides a thorough explanation of Azure DevOps as a specific tool within agile frameworks, discussing its design, common pitfalls, and best practices for usage. It deeply engages with how Azure DevOps facilitates agile practices, covering its functionality and integration within agile methodologies. The author's extensive experience enhances the depth of the discussion, presenting a comprehensive view of the tool's application and effectiveness. The content is focused primarily on Azure DevOps as a mechanism that supports agile workflows, making it highly relevant for the 'Tool' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the 'Tool' category because it centres on Azure DevOps, detailing its features, common challenges, and best practices within agile environments. The discussion highlights how the tool supports agile workflows, and the author’s expertise adds valuable insights, making the content especially relevant for those interested in practical tool application."
   },
   "Values": {
     "resourceId": "jcs-2G99Rrw",

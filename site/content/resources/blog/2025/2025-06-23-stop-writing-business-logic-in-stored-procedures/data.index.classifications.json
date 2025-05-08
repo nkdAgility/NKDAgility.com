@@ -141,7 +141,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "Direct mentions are strong—the text references 'engineering practices,' 'engineering excellence,' 'modern engineering discipline,' and themes of software craftsmanship explicitly. Conceptual alignment is extremely high as the piece argues for refactoring legacy patterns to enable CI/CD, testability, and maintainability—the core tenets of engineering excellence as defined. Depth is robust: the author explores why business logic in stored procedures violates engineering excellence through analysis, real-world examples, and practical strategy (gradual refactoring, CI/CD, technical debt reduction). The purpose is squarely focused on advocating for better software development practices, showing clear intent fit. While the technical level occasionally references executive decisions ('you don’t need permission'), the primary audience is clearly engineers and technical practitioners. Almost every section is rich with actionable, relevant content; tangential parts (e.g., referencing Azure DevOps) are used only for reinforcing the main point, so the signal-to-noise ratio is very good. The content is not outdated, satirical, or critical of the engineering excellence concept—no penalties apply. The overall confidence is proportional: it is very high because every element (from explicit calls to 'engineering excellence' to detailed best practices) is present, but slightly less than perfect because the direct audience alignment could be sharpened, and signal has minor generalizations.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the category, as it directly addresses engineering excellence by discussing best practices, refactoring, and modern software development principles. The focus is on actionable strategies for engineers, with clear examples and practical advice. While there are minor generalisations and occasional references to broader audiences, the core message and depth make it highly relevant and valuable for technical practitioners."
   },
   "Hybrid Agile": {
     "category": "Hybrid Agile",
@@ -243,7 +244,8 @@
     "ai_penalty_details": "none",
     "final_score": 72.0,
     "reasoning": "The content directly discusses the inadequacies of storing business logic in SQL stored procedures, repeatedly highlighting their incompatibility with modern testing methodologies—particularly the inability to perform unit testing, lack of fast feedback, and challenges to CI/CD integration. There are explicit, if indirect, references to automated testing throughout (e.g., testability, unit tests, feedback loops, CI/CD, and modern engineering discipline). The alignment is strong: the call to refactor logic out of stored procedures is framed as a means of enabling testable, maintainable, and automatable code, which is central to automated testing philosophies. However, automated testing is more an underpinning rationale for the argument rather than the core subject. There are few mentions of specific tools or automated testing frameworks, and no in-depth, prescriptive guidance for automated testing itself; the deepest dives are into why stored procedures hinder testing, rather than direct methodologies or best practices for automation. The content is clearly intended for technical readers (primarily software engineers and engineering leaders aligned with modern development practices). While the signal-to-noise ratio remains high, a portion of the content is persuasive narrative about architecture choices, not detailed automated testing discussions, accounting for fractional deduction in that dimension. Overall, the content is closely aligned with principles behind Automated Testing, but it serves an architectural/engineering best practices agenda rather than providing direct expertise, practices, or tooling specifics for automated testing.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content strongly relates to automated testing by emphasising how storing business logic in SQL procedures impedes testability, rapid feedback, and CI/CD adoption. While it advocates for practices that enable automation, its main focus is on architectural choices rather than offering direct guidance or tools for automated testing itself. Thus, it aligns with automated testing principles, but isn’t a hands-on resource for automation."
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -303,7 +305,8 @@
     "ai_penalty_details": "none",
     "final_score": 78.0,
     "reasoning": "Direct mentions of 'Continuous Improvement' are minimal—the term itself never appears, nor its synonyms directly, which keeps the 'mentions' score low. However, conceptually, the core advocacy centers on ongoing, incremental refactoring of legacy systems: urging not a wholesale rewrite but steady, stepwise improvement as part of daily engineering practice. The Azure DevOps example explicitly references a multi-year, empirical improvement journey. The discussion of modernizing codebases, reducing technical debt by refactoring as you go, and integrating these practices into regular delivery cycles closely aligns with continuous improvement principles. Arguments are based on lessons learned, testability, and data-driven outcomes, which boosts conceptual alignment and depth. However, the main thrust is advocating for clean architecture, maintainability, and testability, with many supporting arguments focused on why stored procedures are problematic—not all of which directly address continuous improvement per se. The audience (developers, engineering leaders) matches well with those managing technical practices, and the content is tightly focused on advocacy for sustained process change, minimizing off-topic noise. The absence of explicit continuous improvement language keeps the confidence from being higher, but the alignment of purpose and actionable incrementalism justifies a solid score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "While the content doesn’t use the term 'Continuous Improvement' directly, it strongly supports the concept by promoting ongoing, incremental enhancements to legacy systems. The focus on regular refactoring, reducing technical debt, and integrating improvements into daily workflows aligns well with continuous improvement principles, making the content a good fit for this category despite the lack of explicit terminology."
   },
   "Test Automation": {
     "resourceId": "utAzlIGxj7O",
@@ -525,7 +528,8 @@
     "ai_penalty_details": "mentions (-0.4): The category 'Operational Practices' is not named directly and only referenced by implication; intent (-0.5): The tone mixes best practices with negative critique and is partially polemical; audience (-0.1): The guidance is general for practitioners but could be more narrowly targeted toward operational leads/practitioners.",
     "final_score": 79.0,
     "reasoning": "The content provides actionable guidance in refactoring operational workflows—specifically, moving business logic out of stored procedures, which aligns strongly with process improvement, CI/CD adoption, and technical debt reduction, all of which fit the core of 'Operational Practices.' Several points (testability, automation, continuous delivery, maintainability) map directly to operational optimization. Concrete recommendations ('refactor when touching', 'thin wrapper', 'pay as you go strategy') and explicit description of benefits (testability, observability, reducing runtime cost) show conceptual depth, not just theoretical argument. However, the category is never directly named; references to Agile, Lean, or DevOps are only lightly implied, not explicit. The narrative assumes a practitioner audience but could more overtly target those responsible for operational processes, and some polemic/critical tones slightly dilute intent, as the content positions itself partly against legacy practices rather than neutrally focused on operational betterment. There are minor deductive penalties for lack of direct category mention and partial mixing of intent. Overall, the content is focused, evidence-based, and largely congruent with practical operational improvement, justifying a high (but not maximal) confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content clearly fits the 'Operational Practices' category, as it offers practical advice on improving workflows, reducing technical debt, and enhancing testability and automation. While it doesn’t explicitly name the category or related frameworks, its actionable recommendations and focus on process optimisation make it highly relevant for professionals aiming to refine operational processes. Minor tone and targeting issues slightly reduce confidence, but overall alignment is strong."
   },
   "Deployment Frequency": {
     "resourceId": "utAzlIGxj7O",
@@ -735,7 +739,8 @@
     "ai_penalty_details": "none",
     "final_score": 78.0,
     "reasoning": "Direct Mentions (2.6): The phrase 'Pragmatic Thinking' is never explicitly mentioned. Terms like Agile, Scrum, or DevOps receive indirect reference (e.g., Azure DevOps, CI/CD, and continuous delivery practices), but there are no explicit category call-outs, resulting in a low score. Conceptual Alignment (8.8): The content strongly aligns with pragmatic thinking, focusing on actionable approaches for improving code maintainability and testability, supporting CI/CD, and refactoring as part of a modernization strategy—key elements of practical, real-world problem-solving within complex engineering environments. Depth of Discussion (7.9): The discussion goes well beyond surface-level advice by explaining practical motivations for moving away from stored procedures, providing reasoning grounded in real-world engineering pain points, and outlining a stepwise strategy to reduce technical debt. However, while the case for change is robust, there aren’t detailed Agile/Scrum transformation case studies or multiple layered techniques explored. Intent (8.0): The main intent is to inform and persuade technical teams to adopt modern, pragmatic, and maintainable engineering practices. The content is not theoretical or critical of pragmatic thinking, instead providing actionable advice to drive better outcomes. Audience Alignment (8.1): The content is targeted at experienced developers, engineers, and teams maintaining legacy codebases in operational settings—closely matching the DevOps/Agile practitioner audience for this category, though not framing the discussion exclusively through those lenses. Signal-to-Noise Ratio (7.6): Most of the content is highly focused on relevant, practical advice. Some narrative repetition and broad motivational statements slightly detract from its tightness but do not introduce substantial off-topic material. No penalties were required, as the content is modern, positive in tone, and accurate in technical framing. Overall, the confidence score is high as the content meaningfully embodies pragmatic thinking, especially around continuous improvement and real-world, incremental problem-solving in engineering contexts, but lacks direct category mention and some depth that would warrant a perfect score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category well due to its strong focus on practical, actionable strategies for improving code maintainability and supporting modern engineering practices. While it doesn’t explicitly mention “Pragmatic Thinking” or related methodologies, its real-world advice and clear intent to guide technical teams align closely with the category’s aims, making it highly relevant for experienced practitioners."
   },
   "Technical Mastery": {
     "resourceId": "utAzlIGxj7O",
@@ -753,7 +758,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content provides a thorough, practical critique of using stored procedures for business logic, tightly aligning with the principles of Technical Mastery. It explicitly discusses refactoring, maintainability, testability, and modern engineering practices—core elements of software craftsmanship. The main ideas cover technical debt reduction, CI/CD, separation of concerns, and best practices in software design, all key criteria for this category. Direct mentions of 'engineering excellence,' 'technical debt,' 'continuous delivery,' and other supporting terminology are frequent, if not of the exact phrase 'Technical Mastery.' The argumentation is detailed and concrete, providing multiple examples, action steps, and justifications, going far beyond a superficial treatment of the topic. Intent is firmly on technical improvement for practitioners, not management, business, or non-technical audiences. The signal-to-noise ratio is very high, with minimal tangential content or filler, and no satire or outdated advice. There are no penalties since the viewpoint is modern, constructive, and advocacy-based without sarcasm or contradiction. The audience (engineers and technical leads) matches perfectly with the intended focus of the category. The confidence score is high, as nearly every scoring dimension is close to maximum, with slight variance to avoid identical scores.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Technical Mastery category. It offers in-depth, actionable insights on software engineering best practices, focusing on maintainability, refactoring, and modern development workflows. The discussion is highly relevant for technical professionals, with clear examples and practical advice, making it valuable for those aiming to enhance their engineering skills."
   },
   "Team Motivation": {
     "resourceId": "utAzlIGxj7O",
@@ -1221,7 +1227,8 @@
     "non_ai_confidence": 0,
     "final_score": 75.0,
     "reasoning": "The content discusses the importance of refactoring business logic out of stored procedures into testable code, which aligns with the Shift-Left Strategy by emphasising early integration of testing and maintainability in the development process. It highlights the benefits of improved testing, faster feedback loops, and reduced technical debt, which are core themes of the Shift-Left approach. However, while it touches on these principles, the primary focus is on the drawbacks of stored procedures rather than a comprehensive exploration of Shift-Left practices, leading to a slightly lower confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category because it explores how moving business logic from stored procedures to testable code supports early testing and maintainability—key aspects of the Shift-Left Strategy. While it mainly critiques stored procedures, it still connects to Shift-Left principles by highlighting benefits like improved testing and faster feedback, though it doesn’t cover the full breadth of the approach."
   },
   "Liberating Structures": {
     "category": "Liberating Structures",
@@ -1719,7 +1726,8 @@
     "non_ai_confidence": 10,
     "final_score": 92.0,
     "reasoning": "The content explicitly discusses the drawbacks of using stored procedures for business logic and advocates for refactoring towards more testable and maintainable code. It aligns closely with the principles of Technical Excellence by emphasising the importance of testability, CI/CD practices, and modular architecture. The depth of discussion is significant, providing detailed reasons why stored procedures hinder engineering practices and outlining a clear strategy for improvement. Overall, the content is a strong fit for the category, focusing on high-level engineering practices that enhance software quality.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the Technical Excellence category. It thoughtfully critiques the use of stored procedures for business logic, highlighting their impact on testability and maintainability. By recommending refactoring and modern engineering practices, it demonstrates a clear commitment to improving software quality and aligns well with the principles of technical excellence."
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1971,7 +1979,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of refactoring business logic from stored procedures to more maintainable code, which aligns with the principles of iterative development and incremental delivery. It highlights the benefits of this approach, such as improved testability, maintainability, and faster feedback loops, which are key aspects of delivering value to customers. The discussion is detailed, providing specific reasons why stored procedures hinder value delivery and outlining a strategy for gradual improvement. However, while it touches on CI/CD practices, it does not explicitly discuss broader Agile or DevOps methodologies, which slightly limits its alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores how moving business logic from stored procedures to maintainable code supports iterative development and faster value delivery. It clearly explains the benefits, like better testability and maintainability, though it doesn’t delve deeply into wider Agile or DevOps practices, which would strengthen its alignment further."
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -2067,7 +2076,8 @@
     "non_ai_confidence": 20,
     "final_score": 85.0,
     "reasoning": "The content primarily focuses on the drawbacks of using stored procedures for business logic, which directly relates to the concept of technical debt. It discusses the implications of maintaining such practices, highlighting issues like testability, CI/CD integration, and maintainability, all of which are key aspects of technical debt. The author advocates for refactoring as a strategy to reduce this debt, aligning well with the category's core themes. The depth of discussion is substantial, providing detailed reasons and a clear strategy for remediation, thus justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the technical debt category, as it thoroughly explores the challenges of using stored procedures for business logic. It addresses key issues like maintainability, testing, and CI/CD integration, all central to technical debt. The author also suggests refactoring as a solution, making the discussion both relevant and actionable for this category."
   },
   "Sensemaking": {
     "category": "Sensemaking",
@@ -2115,7 +2125,8 @@
     "non_ai_confidence": 10,
     "final_score": 92.0,
     "reasoning": "The content primarily focuses on the engineering practice of refactoring business logic out of stored procedures into more maintainable and testable code. It discusses the importance of testability, CI/CD integration, and separation of concerns, which are all key themes in engineering practices. The depth of discussion is significant, providing detailed reasoning and examples of why stored procedures are detrimental to modern engineering practices. The content aligns closely with the principles of clean code and automation, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the engineering practices category, as it delves into refactoring business logic for better maintainability and testability. It highlights essential engineering themes like CI/CD, separation of concerns, and clean code, offering detailed examples and reasoning. The focus on automation and modern development principles further reinforces its relevance to engineering best practices."
   },
   "Cell Structure Design": {
     "category": "Cell Structure Design",
@@ -2140,7 +2151,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content discusses the principles of software engineering, particularly around maintaining business logic outside of SQL stored procedures. It emphasizes actionable change (refactoring) and provides a reasoning framework that aligns with principles of Continuous Improvement and Value Delivery by focusing on producing maintainable, testable code. However, it does not explicitly reference Agile, Lean, or DevOps principles nor does it deeply explore foundational beliefs that shape decision-making within these frameworks, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with the category as it focuses on improving software maintainability and testability, which supports continuous improvement and value delivery. However, it doesn’t directly reference Agile, Lean, or DevOps principles, nor does it delve into the core beliefs that guide these methodologies, so its fit is partial rather than complete."
   },
   "Tool": {
     "resourceId": "utAzlIGxj7O",
@@ -2244,7 +2256,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content extensively discusses the practice of refactoring business logic out of SQL stored procedures into more maintainable and testable code. It provides actionable recommendations such as 'stop creating new business logic in stored procedures' and emphasizes the importance of progressive refactoring, making it closely aligned with improvement techniques in software engineering practices. The depth of discussion around the disadvantages of stored procedures and the rationale for moving towards a better engineering discipline indicates a clear focus on actionable practices, earning a high confidence in classification.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content clearly fits the category, as it offers practical advice on improving software engineering practices by moving business logic out of stored procedures. It highlights the benefits of maintainability and testability, and provides concrete steps for progressive refactoring, making it highly relevant to those seeking actionable improvement techniques in software development."
   },
   "Method": {
     "resourceId": "utAzlIGxj7O",
@@ -2257,7 +2270,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content focuses on a methodical approach to refactoring business logic away from stored procedures into testable, maintainable application code. It details specific practices and strategies for implementing this change, emphasizing gradual improvement and the benefits of such a method over time. It discusses practical steps and the rationale behind avoiding stored procedures in favor of better engineering practices, aligning well with the key topics of structured methods in software development.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a great fit for the category, as it clearly outlines practical strategies for moving business logic from stored procedures into application code. It highlights the advantages of this approach, such as improved testability and maintainability, and offers actionable steps, making it highly relevant to discussions on structured software development methods."
   },
   "Strategy": {
     "resourceId": "utAzlIGxj7O",
@@ -2309,7 +2323,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content discusses actionable practices for refactoring business logic from SQL stored procedures into application code, which is a prescriptive approach aligned with the core tenets of modern software development methodologies. It mentions strategies like 'refactor when touching existing stored procedures' and emphasizes continuous improvement and maintainability, relating to principles in Agile and DevOps. The article presents a clear methodology to enhance efficiency and quality in software engineering, therefore fitting well within the 'Tenet' category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the 'Tenet' category as it outlines clear, actionable guidelines for improving software development by moving business logic from SQL stored procedures to application code. Its focus on continuous improvement, maintainability, and alignment with Agile and DevOps principles makes it a strong example of a foundational practice in modern engineering."
   },
   "Capability": {
     "resourceId": "utAzlIGxj7O",

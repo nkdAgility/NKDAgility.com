@@ -30,7 +30,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the use of feature flags as a strategy to facilitate continuous delivery, which directly relates to optimising deployment frequency. It highlights the importance of deploying features incrementally and gathering feedback, aligning well with Agile and DevOps principles. The depth of discussion on telemetry and user engagement further supports the category focus, demonstrating a clear understanding of how deployment frequency impacts product development and customer feedback loops.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how feature flags support continuous delivery and frequent deployments. It connects these practices to Agile and DevOps methodologies, emphasising incremental releases and feedback collection. The discussion on telemetry and user engagement further reinforces its relevance to optimising deployment frequency and improving product outcomes."
   },
   "Throughput": {
     "category": "Throughput",
@@ -126,7 +127,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the practical application of feature flags in the context of continuous delivery, which is a key aspect of Agile and DevOps practices. It provides a detailed explanation of how feature flags can be used to manage the deployment of new features, monitor performance, and gather user feedback, demonstrating a strong alignment with pragmatic problem-solving strategies. The depth of discussion is significant, as it covers various stages of feature deployment and the importance of telemetry in decision-making. Overall, the content is highly relevant to the category of Pragmatic Thinking.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Pragmatic Thinking category, as it focuses on real-world use of feature flags within continuous delivery. It clearly explains how these tools help manage deployments, monitor outcomes, and collect feedback, all of which are practical strategies for solving common challenges in Agile and DevOps environments. The discussion is thorough and directly addresses hands-on problem-solving."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -300,7 +302,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses Continuous Delivery, particularly through the lens of feature flags and incremental releases. It provides a clear definition of Continuous Delivery and illustrates its principles with a real-world example from Azure DevOps. The discussion on feedback and monitoring aligns well with the core themes of Continuous Delivery, emphasising the importance of user engagement and continuous improvement. The depth of the discussion is substantial, covering various aspects of the practice, including the role of automation and the cultural implications of Continuous Delivery. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the category, as it thoroughly explores Continuous Delivery using practical examples and clear definitions. It covers key principles like feature flags, automation, and feedback loops, demonstrating a deep understanding of the topic. The discussion is both relevant and comprehensive, making it highly suitable for this classification."
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -426,7 +429,8 @@
     "non_ai_confidence": 20,
     "final_score": 92.0,
     "reasoning": "The content extensively discusses the practice of using feature flags as a technique for implementing continuous delivery in software development. It provides detailed examples of how feature flags are used in real-world scenarios, particularly within the Azure DevOps team, which aligns closely with the core themes of the Software Development category. The discussion includes aspects of deployment strategies, user feedback mechanisms, and telemetry analysis, all of which are integral to modern software development practices. The depth of the discussion is significant, covering both the theoretical and practical implications of feature flags in the development lifecycle.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Software Development category, as it thoroughly explores feature flags—a key tool in modern development workflows. By highlighting real-world applications, deployment strategies, and feedback mechanisms, it demonstrates both the theory and practice of continuous delivery, making it highly relevant for professionals in this field."
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -456,7 +460,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the use of feature flags in software development, which indirectly relates to customer feedback loops by highlighting how telemetry and user feedback are used to assess feature performance and user satisfaction. However, the primary focus is on the technical implementation of feature flags rather than a structured exploration of customer feedback integration practices. While there are mentions of gathering feedback and engaging with users, the depth of discussion on systematic feedback loops is limited.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores the technical side of feature flags in software development, with only brief references to user feedback and telemetry. While it acknowledges the role of customer input in evaluating features, it doesn’t delve deeply into structured feedback processes, making it only loosely connected to the customer feedback loop category."
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -522,7 +527,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the concept of continuous delivery and the use of feature flags, which are directly related to the delivery of functional software. It highlights the importance of incremental delivery, user feedback, and real-world examples, particularly with Azure DevOps, demonstrating a strong alignment with the core themes of working software. The depth of discussion is significant, providing detailed insights into the processes and benefits of using feature flags, thus reinforcing the focus on delivering high-quality software that meets user needs.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it thoroughly explores continuous delivery and feature flags—key aspects of delivering functional software. By emphasising incremental delivery, user feedback, and practical examples with Azure DevOps, it clearly demonstrates how these practices contribute to producing high-quality, user-focused software. The detailed insights further strengthen its relevance to the theme of working software."
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -564,7 +570,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the use of feature flags in software development, which directly relates to customer retention by emphasising the importance of user feedback and engagement. It highlights how incremental delivery and continuous monitoring can enhance user experience and satisfaction, aligning well with the core themes of customer retention. The depth of discussion on feedback mechanisms and user engagement strategies further supports a strong alignment with the category, although it does not explicitly focus on broader customer retention strategies.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the customer retention category, as it explores how feature flags can boost user engagement and satisfaction. By focusing on feedback loops and continuous improvement, it demonstrates practical ways to keep users happy, even if it doesn’t cover every aspect of retention strategy."
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -597,7 +604,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the use of feature flags as a method for incremental delivery and gathering user feedback, which aligns with the core themes of experimentation in Agile workflows. It explicitly mentions the importance of feedback and the iterative process of testing features, which are key aspects of hypothesis-driven approaches. However, while it touches on experimentation, it does not delve deeply into specific experimental techniques or methodologies, which slightly limits the depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category, as it highlights how feature flags support incremental delivery and user feedback—central to experimentation in Agile environments. While it clearly connects to hypothesis-driven development, it doesn’t explore detailed experimental methods, so its coverage is somewhat broad rather than deeply technical."
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -705,7 +713,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the use of feature flags as a means to facilitate continuous delivery and incremental releases, which aligns closely with the principles of Frequent Releases. It provides a detailed exploration of how feature flags enable teams to deploy features gradually, gather user feedback, and adapt based on performance metrics. The real-world example of Azure DevOps illustrates the practical application of these concepts, enhancing the depth of the discussion. Overall, the content is highly relevant and focused on the category, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it clearly explains how feature flags support frequent releases by allowing teams to roll out changes incrementally and respond to user feedback. The inclusion of a real-world example, like Azure DevOps, further demonstrates practical application, making the discussion both relevant and insightful for the topic."
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -780,7 +789,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the use of feature flags in the context of continuous delivery, which aligns with technical mastery principles such as improving code quality and maintainability through incremental delivery. However, while it touches on important aspects of software craftsmanship, such as feedback loops and user engagement, it lacks a deeper exploration of best practices in software design or architecture. The focus is primarily on the feature flag technique rather than a broader discussion of technical excellence.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores feature flags within continuous delivery, highlighting their role in enhancing code quality and supporting incremental changes. While it addresses key elements like feedback and user involvement, it mainly centres on the practical use of feature flags rather than delving into wider software design or architectural best practices."
   },
   "Transparency": {
     "category": "Transparency",
@@ -822,7 +832,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the use of feature flags in software development, which indirectly relates to continuous learning through the emphasis on feedback and adaptation. However, while it touches on the importance of feedback loops and incremental delivery, it lacks a direct focus on the broader principles of continuous learning, such as fostering a growth mindset or techniques for knowledge sharing among team members. The discussion is more centred on delivery practices rather than a comprehensive exploration of continuous learning principles.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores feature flags and their role in software delivery, highlighting feedback and adaptability. While these aspects can support learning, the discussion doesn’t directly address continuous learning principles like cultivating a growth mindset or sharing knowledge within teams. Therefore, it aligns more with delivery practices than with the core themes of continuous learning."
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -855,7 +866,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the practice of feature flags as a critical component of continuous delivery, which directly aligns with the principles of software craftsmanship and quality assurance. It provides detailed insights into how feature flags facilitate the deployment of new features while maintaining system stability and gathering user feedback, showcasing best practices in coding standards and testing methodologies. The depth of discussion on telemetry and user engagement further supports the promotion of high standards in engineering processes, making it a strong fit for the category of Engineering Excellence.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for Engineering Excellence, as it thoroughly explores feature flags within continuous delivery. It highlights how these practices support robust coding standards, quality assurance, and user feedback, all of which are hallmarks of high-quality engineering. The focus on telemetry and best practices further demonstrates a commitment to maintaining and improving engineering standards."
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -918,7 +930,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the use of feature flags as a deployment strategy, which is a key topic under the category of Deployment Strategies. It discusses how feature flags facilitate continuous delivery and incremental deployment, aligning well with the core themes of the category. The depth of discussion is substantial, providing a real-world example and detailing the process of feature flag implementation, which enhances the understanding of deployment methodologies. However, while the content is rich in examples and insights, it could benefit from a broader discussion on other deployment strategies to achieve a perfect score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Deployment Strategies category, as it centres on feature flags—a widely used deployment approach. By illustrating how feature flags support continuous delivery and gradual rollouts, it clearly aligns with the category’s focus. The inclusion of practical examples further clarifies the methodology, though a wider look at alternative strategies would make the coverage even more comprehensive."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -990,7 +1003,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the use of feature flags in software development, which directly relates to validating product features through user feedback and iterative testing. It highlights the importance of gathering user insights during the development process, particularly through private and public previews, which aligns well with the core themes of product validation. The depth of discussion on feedback mechanisms and the iterative nature of feature deployment further supports its relevance to the category. However, while it touches on product validation, the primary focus is on feature flags and continuous delivery, which slightly detracts from a full alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it explores how feature flags support product validation by enabling user feedback and iterative testing. While it effectively covers feedback mechanisms and previews, its main emphasis is on feature flag implementation and continuous delivery, making product validation a secondary focus rather than the central theme."
   },
   "Release Management": {
     "category": "Release Management",
@@ -1002,7 +1016,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the use of feature flags in the context of continuous delivery, which is a key aspect of release management. It explicitly mentions incremental delivery and the importance of feedback loops, aligning well with the core themes of release management. The depth of discussion is substantial, providing a real-world example and detailing the stages of feature deployment, which enhances its relevance to the category. However, while it focuses on continuous delivery, it does not cover broader release management strategies or risk management, which slightly lowers the overall confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the release management category, as it delves into feature flags and their role in continuous delivery—central elements of release management. It offers practical examples and explains deployment stages, making it highly relevant, though it doesn’t address all aspects like risk management."
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1056,7 +1071,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content primarily focuses on the practice of continuous delivery through the use of feature flags, which aligns closely with the principles of CI/CD and automation in Agile engineering practices. It discusses the incremental delivery of features, the importance of feedback, and continuous monitoring, all of which are key aspects of high-quality software engineering. However, while it provides a detailed exploration of feature flags and their benefits, it does not delve deeply into other core topics such as clean code or TDD, which slightly limits its overall alignment with the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on continuous delivery and the use of feature flags—key elements of CI/CD and Agile automation. It highlights incremental releases, feedback loops, and monitoring, all vital to modern software engineering. However, it doesn’t extensively cover other core practices like clean code or TDD, so its alignment, while solid, isn’t fully comprehensive."
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1098,7 +1114,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the use of feature flags within the context of Azure DevOps, providing specific examples of how the Azure DevOps team implements these practices for continuous delivery. It directly mentions Azure DevOps multiple times and explains its functionalities in detail, particularly in relation to CI/CD processes. The depth of discussion is high, as it covers the entire lifecycle of feature flags, from development to user feedback, and how this aligns with agile practices. Overall, the content is highly relevant to Azure DevOps, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the Azure DevOps category, as it thoroughly explores how feature flags are used within Azure DevOps. It offers detailed examples and insights into their role in CI/CD and agile workflows, demonstrating a deep understanding of the platform’s capabilities and practices. The frequent, in-depth references to Azure DevOps make it highly relevant for anyone interested in this topic."
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1131,7 +1148,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the use of feature flags as a strategy for continuous delivery, which directly relates to market adaptability by enabling organisations to respond quickly to user feedback and performance data. It highlights the importance of telemetry and customer engagement in refining features, aligning well with the principles of Agile and DevOps. The depth of discussion on how feature flags facilitate gradual feature rollouts and the iterative process of gathering feedback demonstrates a strong understanding of market adaptability practices.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a great fit for the market adaptability category, as it explores how feature flags empower organisations to swiftly adjust to user needs and feedback. By emphasising continuous delivery, telemetry, and customer engagement, it clearly aligns with Agile and DevOps principles, showcasing how iterative rollouts support rapid adaptation in dynamic markets."
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1155,7 +1173,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the use of feature flags in software development, which aligns with the principles of organisational agility by promoting incremental delivery and responsiveness to user feedback. However, it primarily focuses on a specific practice rather than a broader discussion of organisational agility strategies or cultural shifts. While it touches on aspects of continuous improvement and user engagement, it lacks a comprehensive exploration of agile methodologies or leadership roles in fostering agility.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content centres on feature flags in software development, highlighting their role in enabling incremental delivery and quick responses to feedback—key aspects of organisational agility. However, it mainly addresses a specific technical practice rather than offering a broader perspective on agile strategies, cultural change, or leadership’s role in driving organisational agility."
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1176,7 +1195,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the use of feature flags in software development, particularly in the context of continuous delivery. It highlights the importance of telemetry and feedback loops, which are crucial for evidence-based decision-making and iterative learning. The detailed explanation of how telemetry data is used to assess feature performance and user engagement aligns well with the core themes of metrics and learning. The depth of discussion regarding the process of monitoring and adjusting features based on user feedback and performance metrics further supports a high confidence score in this category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how feature flags, telemetry, and feedback loops drive evidence-based decisions and iterative learning in software development. The focus on using metrics to monitor, assess, and refine features demonstrates a clear alignment with the themes of measurement and continuous improvement."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1209,7 +1229,8 @@
     "non_ai_confidence": 50,
     "final_score": 78.0,
     "reasoning": "The content discusses continuous delivery and the use of feature flags, which are relevant to DevOps principles. It highlights the importance of feedback loops and incremental delivery, aligning with the core themes of collaboration and automation in DevOps. However, it lacks a broader discussion on the cultural shifts and shared accountability aspects of DevOps, which limits its depth. Overall, while it touches on key DevOps concepts, it does not fully encompass the philosophy, resulting in a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the DevOps category as it covers essential practices like continuous delivery and feature flags, both central to DevOps workflows. It effectively addresses technical aspects such as automation and feedback loops. However, it doesn’t fully explore the cultural or collaborative dimensions of DevOps, so while relevant, it doesn’t capture the complete philosophy of the field."
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1221,7 +1242,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the practice of Continuous Delivery and the use of feature flags, which are essential components of technical excellence in software development. It discusses how feature flags facilitate incremental feature deployment, allowing teams to gather telemetry and feedback, which aligns well with the principles of agile methodologies and continuous improvement. The depth of the discussion is significant, providing detailed examples and insights into the process, which enhances the overall understanding of technical excellence in the context of software delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into Continuous Delivery and feature flags—key aspects of technical excellence in software development. By highlighting how these practices support incremental releases and feedback collection, it clearly aligns with agile and continuous improvement principles, offering valuable, in-depth insights for professionals aiming to enhance their delivery processes."
   },
   "Lean": {
     "category": "Lean",
@@ -1242,7 +1264,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the practice of using feature flags as a strategy for continuous delivery, which directly aligns with the principles of iterative development and incremental delivery. It highlights how feature flags allow for gradual feature rollout, customer feedback, and telemetry analysis, all of which are crucial for maximising customer value and aligning product development with user needs. The depth of discussion is significant, providing detailed examples and insights into the process, which enhances the overall understanding of value delivery in a software development context.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how feature flags support continuous delivery and iterative development. By detailing gradual rollouts, feedback loops, and telemetry, it clearly demonstrates how these practices maximise customer value and align product development with user needs, making it highly relevant and insightful for the topic."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1326,7 +1349,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the practice of using feature flags as a key strategy for continuous delivery, which is a core aspect of product delivery methodologies. It provides detailed insights into how feature flags facilitate iterative development, testing, and deployment, aligning well with the category's focus on delivering usable software products. The depth of discussion on telemetry, user feedback, and the gradual rollout of features demonstrates a strong understanding of the product delivery process, making it a primary focus rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it thoroughly explores how feature flags support continuous delivery—a central theme in product delivery. By highlighting their role in iterative development, testing, and gradual rollouts, it clearly demonstrates a deep understanding of delivering software products effectively, rather than just mentioning the topic in passing."
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1455,7 +1479,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the use of feature flags as a method for continuous delivery, which aligns closely with the principles of Continuous Improvement. It highlights the importance of incremental releases, user feedback, and continuous monitoring, all of which are key aspects of the category. The depth of discussion is significant, providing a real-world example and detailing the process of feature deployment and feedback collection. However, while it strongly aligns with Continuous Improvement, it does not explicitly mention the term 'Continuous Improvement' itself, which slightly lowers the direct mentions score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Improvement category, as it thoroughly explores feature flags in continuous delivery, emphasising incremental releases, user feedback, and ongoing monitoring. While it doesn’t directly use the term ‘Continuous Improvement’, its focus and practical examples clearly demonstrate the core principles of the category in action."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1515,7 +1540,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the use of feature flags in the context of continuous delivery, which aligns closely with key topics in product development such as iterative and incremental development processes, customer feedback loops, and continuous improvement practices. It provides a detailed exploration of how feature flags facilitate incremental releases and the importance of user feedback, demonstrating a strong understanding of Agile principles. The depth of discussion is significant, with real-world examples and a clear emphasis on the product development lifecycle, making it a primary focus rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores feature flags within continuous delivery, highlighting their role in iterative development and customer feedback. The discussion is detailed, with practical examples and a clear focus on Agile and product development practices, making these themes central rather than incidental to the content."
   },
   "Project Management": {
     "category": "Project Management",
@@ -1575,7 +1601,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the use of feature flags to facilitate continuous delivery, which is closely related to the concept of Time to Market. It highlights the importance of incremental delivery and user feedback, both of which are crucial for optimising the speed of delivering value. However, while it touches on the theme of Time to Market, it does not provide specific metrics or detailed strategies for improving Time to Market, which slightly limits its depth of discussion. Overall, the content aligns well with the category, but it is not the primary focus, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content is relevant to the Time to Market category as it explores how feature flags support faster, incremental releases and enable user feedback—key factors in speeding up value delivery. However, it doesn’t delve into specific metrics or in-depth strategies for improving Time to Market, so while it fits the category, it isn’t a comprehensive treatment of the topic."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -1685,7 +1712,8 @@
     "non_ai_confidence": null,
     "final_score": 81.0,
     "reasoning": "The content primarily centers around the concept of feature flags as a tool that supports continuous delivery in software development. It explicitly discusses how feature flags facilitate incremental releases, user feedback, and the deployment process within the context of Azure DevOps, which is a tool used in Agile and DevOps environments. The details provided about the implementation and benefits of feature flags demonstrate a good depth of discussion on a specific tool related to Agile practices. This aligns well with the category of 'Tool' as it focuses on the practical application and integration of this mechanism in real-world scenarios.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Tool' category because it thoroughly explores feature flags as a practical mechanism within Azure DevOps. It highlights their role in supporting continuous delivery, incremental releases, and user feedback, all of which are key aspects of Agile and DevOps practices. The discussion is focused on real-world application, making it highly relevant to this category."
   },
   "Values": {
     "resourceId": "YVrGU0oZmc0",
@@ -1763,7 +1791,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the practice of using feature flags as a technique to facilitate continuous delivery in software development. It details various stages of delivery, including development, internal testing, private preview, and public preview, which align with the actionable techniques that enhance team performance. The depth of the discussion on how feature flags improve the process and foster real-time feedback is significant, making it a strong candidate for the 'Practice' category. While it deviates slightly into discussing tools (like Azure DevOps), it maintains a clear focus on the consistent, repeatable actions that contribute to effective delivery, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the 'Practice' category because it focuses on actionable methods—specifically, using feature flags—to improve software delivery. It walks through practical steps and real-world scenarios, emphasising repeatable techniques that teams can adopt, rather than just discussing tools or theory. This practical orientation makes it highly relevant to the category."
   },
   "Method": {
     "resourceId": "YVrGU0oZmc0",
@@ -1776,7 +1805,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content discusses the practical application of feature flags as a method for achieving continuous delivery in software development. It provides a detailed, step-by-step exploration of using feature flags, including phases such as 'Development Phase', 'Internal Testing', 'Private Preview', and 'Public Preview'. These descriptions align well with the structured procedural approach emphasized in the 'Method' category. The content also dives into the importance of feedback and adaptation, illustrating the iterative nature of the method. However, the content does not explicitly mention some core terms of formalized methods like Scrum or Kanban, hence the confidence score is slightly lower.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content clearly fits the 'Method' category, as it outlines a structured, step-by-step approach to using feature flags for continuous delivery. It walks through each phase of the process and highlights the importance of feedback and iteration, demonstrating a methodical framework, even though it doesn’t reference formal methodologies like Scrum or Kanban."
   },
   "Model": {
     "resourceId": "YVrGU0oZmc0",

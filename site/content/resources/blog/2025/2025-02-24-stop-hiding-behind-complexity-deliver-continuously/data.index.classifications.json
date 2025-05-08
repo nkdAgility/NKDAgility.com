@@ -21,7 +21,8 @@
     "non_ai_confidence": 50,
     "final_score": 92.0,
     "reasoning": "The content extensively discusses the principles of continuous delivery, automation, and the cultural shifts necessary for effective DevOps implementation. It highlights the importance of investing in fixing technical debt, the role of automation in minimising errors, and the need for a culture of continuous improvement, all of which align closely with the core themes of DevOps. The depth of discussion is significant, providing detailed examples from Microsoft and Starbucks, and addressing common misconceptions about complexity in software delivery. Overall, the content is a strong fit for the DevOps category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the DevOps category, as it thoroughly explores key DevOps concepts like continuous delivery, automation, and cultural transformation. By offering practical examples and addressing common challenges, it demonstrates a deep understanding of DevOps principles and their real-world application, making it highly relevant for this category."
   },
   "Scrum": {
     "category": "Scrum",
@@ -75,7 +76,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, which are relevant to product management. However, it primarily focuses on technical implementation and operational challenges rather than the strategic alignment of customer needs and business objectives. While it touches on metrics and the importance of responding to market demands, it lacks a deeper exploration of product management methodologies or frameworks, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores technical aspects of continuous delivery and software development, with some mention of metrics and market responsiveness. However, it doesn’t delve deeply into product management strategies or frameworks, so while it’s somewhat relevant, it doesn’t fully align with the core focus of product management."
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -171,7 +173,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content is significantly aligned with the Digital Transformation category, though it rarely uses that exact label ('digital transformation'); instead, it strongly emphasizes practical themes central to digital transformation, such as automating delivery pipelines, fostering a culture of continuous improvement, addressing organisational resistance, investing in modernisation, and leveraging frameworks/metrics for operational enhancement. Case studies (Azure DevOps, Starbucks, Microsoft) reinforce alignment, and detailed strategies are discussed around changing technical and organisational practices, which is tightly linked to digital transformation initiatives at enterprise level. The depth is substantial—the explanation is nuanced, covering measurement, change management, and systemic shifts, all of which mirror digital transformation frameworks. The primary focus is on software and delivery, not digital transformation at the whole-organisation level (hence moderate scores for mentions and audience), but the purpose and coverage map well to strategic, tech-enabled business transformation. Minimal content is off-topic and nearly all discussion is relevant to the core; score adjustments per instructions ensure a non-flat rating profile.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits well within the Digital Transformation category, even though it doesn’t always use that exact term. It thoroughly explores key aspects like automation, cultural change, and modernisation—core elements of digital transformation. Real-world examples and practical strategies further strengthen its relevance, making it highly suitable for audiences interested in tech-driven organisational change."
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -207,7 +210,8 @@
     "non_ai_confidence": 30,
     "final_score": 82.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, particularly in the context of Azure DevOps. While it touches on aspects of the application lifecycle, such as deployment and maintenance, it primarily focuses on overcoming complexity and improving delivery speed rather than providing a comprehensive view of Application Lifecycle Management. The mention of metrics and practices aligns with ALM principles, but the depth of discussion is more centred on continuous delivery rather than the entire lifecycle management process.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content mainly explores continuous delivery and how it streamlines software development, especially with Azure DevOps. While it references some application lifecycle elements, its main emphasis is on simplifying processes and accelerating delivery, rather than covering the full scope of Application Lifecycle Management. Therefore, it aligns more closely with continuous delivery than comprehensive lifecycle management."
   },
   "Accountability": {
     "category": "Accountability",
@@ -255,7 +259,8 @@
     "non_ai_confidence": 30,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of metrics in the context of continuous delivery, specifically highlighting key metrics such as Time to Build, Time to Self-Test, Time to Deploy, and Time to Learn. It aligns well with the core themes of the category by emphasising evidence-based decision-making and the iterative learning cycle. The depth of discussion is significant, providing detailed insights into how these metrics can enhance team performance and organisational culture, thus fostering continuous improvement.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how key metrics drive continuous delivery and improvement. By focusing on evidence-based decisions and iterative learning, it offers valuable insights into boosting team performance and shaping a positive organisational culture. The detailed discussion clearly supports the core themes of the category."
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -267,7 +272,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses Azure DevOps, highlighting its role in enabling continuous delivery and transformation within organisations. It provides specific examples of how Microsoft and other companies have leveraged Azure DevOps to overcome complexity and improve delivery cycles. The discussion aligns well with the core themes of Azure DevOps, including CI/CD practices, automation, and metrics for measuring development efficiency. The depth of the content is significant, offering detailed insights into practices and methodologies associated with Azure DevOps, thus justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Azure DevOps category, as it thoroughly explores how Azure DevOps supports continuous delivery and organisational transformation. By sharing real-world examples and focusing on CI/CD, automation, and performance metrics, it clearly aligns with the key themes and practices central to Azure DevOps."
   },
   "Asynchronous Development": {
     "resourceId": "7hEAycZIn8w",
@@ -363,7 +369,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content is strongly aligned with the core of Market Adaptability. Explicit mentions of adapting to market forces, the need to respond quickly to market changes and business opportunities, and strategies to enable rapid and reliable delivery (continuous delivery, DevOps, Agile metrics, feature flags, feedback loops) are pervasive throughout the article. The alignment with the category definition is near-perfect: the article uses Azure DevOps and Starbucks as case studies demonstrating successful market adaptability, focusing heavily on DevOps, Agile practices (trunk-based development, shift-left), and metrics that serve to improve responsiveness to market demands. Depth is high, as the explanation moves beyond surface-level mentions to discuss exactly how evolutionary improvements (automation, quality, technical debt reduction, feedback loop shortening) facilitate faster value delivery. The purpose is to convince and guide organizations in adopting these practices precisely to improve responsiveness and adaptability, showing clear audience targeting towards technical leaders, engineering managers, and business decision-makers who control software delivery. The content is dense, with minimal tangential or filler material, maintaining a high signal-to-noise ratio. No penalties are applied as there is no outdated or contradictory material—examples are recent and positive (Azure DevOps, Starbucks, Microsoft's Developer Division, 2018 industry metrics). Scoring is differentiated across dimensions, reflecting slightly fewer explicit category mentions compared to the depth and alignment, with intent only fractionally less strong due to its polemical style, but not critically so. The final confidence score appropriately reflects the evidence that this material is an excellent and direct fit for Market Adaptability.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Market Adaptability category. It thoroughly explores how organisations can respond quickly to market changes, using real-world examples and practical strategies like DevOps and Agile. The article is targeted at decision-makers, offering actionable guidance with strong alignment to the category’s core themes, making its classification highly appropriate."
   },
   "Estimation": {
     "resourceId": "7hEAycZIn8w",
@@ -543,7 +550,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, which are relevant to Agile principles. However, it primarily focuses on technical aspects and organisational challenges rather than explicitly addressing Agile product management concepts such as the role of the Product Owner, backlog prioritisation, or stakeholder engagement. While it touches on themes of responsiveness to market demands and customer feedback, it lacks a direct focus on Agile methodologies and practices in product management.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to Agile principles by exploring continuous delivery and evolving development practices, but its main emphasis is on technical and organisational issues. It doesn’t directly address core Agile product management topics like Product Owner responsibilities, backlog management, or stakeholder collaboration, so it only partially fits the Agile product management category."
   },
   "Self Organisation": {
     "resourceId": "7hEAycZIn8w",
@@ -627,7 +635,8 @@
     "ai_penalty_details": "none",
     "final_score": 99.0,
     "reasoning": "This content directly and repeatedly references Continuous Delivery both by name and abbreviation (CD), dedicating nearly every paragraph to explaining its principles, practical implementation, and strategic value. It offers a comprehensive conceptual alignment: definitions, benefits, required mindsets, automation, trunk-based development, feature flags, shift-left testing, iteration, and metric-driven improvement are thoroughly discussed using specific industry examples (Azure DevOps, Starbucks, Microsoft Developer Division). The depth far exceeds a surface-level overview—detailed case studies, explicit tool/practice recommendations, measurable business impacts, and actionable advice are all included. The core intent is entirely focused on advocating for, demystifying, and enabling Continuous Delivery. The audience is practitioners, technical leads, and organizational decision-makers seeking transformation, closely matching the category’s focus. Signal-to-noise is exceptionally high: almost all segments reinforce the core message, with occasional but purposeful business context. No evidence of outdated practices, criticism, or misalignment. Final confidence is thus extremely high and justified by evidence across all scoring dimensions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Continuous Delivery category. It thoroughly explores CD concepts, practical steps, and real-world examples, offering actionable guidance for practitioners and leaders. The focus remains consistently on enabling and advocating for Continuous Delivery, with clear, relevant details and no off-topic or outdated information. The depth and clarity make it highly valuable for its intended audience."
   },
   "Minimum Viable Product": {
     "category": "MVP",
@@ -723,7 +732,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses continuous delivery and the evolution of software development practices, particularly focusing on Azure DevOps and its methodologies. It mentions trunk-based development, automation, and metrics related to deployment and feedback loops, which are all relevant to modern source control practices. However, while it touches on these topics, the primary focus is more on continuous delivery and organisational change rather than on version control systems or specific source control methodologies. Therefore, while it aligns well with the category, it does not do so exclusively.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is closely related to the category, as it covers key aspects like automation, deployment metrics, and modern development workflows, all of which are integral to source control practices. However, its main emphasis is on continuous delivery and organisational transformation, rather than delving deeply into source control systems themselves. So, while relevant, it isn’t exclusively focused on the category."
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -765,7 +775,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content discusses the importance of continuous delivery and the need for organisations to adapt quickly to market demands, which aligns with the principles of business agility. It highlights the role of investment in overcoming complexity and improving delivery processes, reflecting a culture of innovation and adaptability. However, while it touches on relevant themes, it primarily focuses on technical practices and metrics rather than a comprehensive exploration of business agility principles.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content relates to business agility by emphasising the need for organisations to adapt swiftly and invest in improving delivery processes. While it highlights innovation and adaptability, its main focus is on technical practices and metrics, rather than offering a broad view of business agility as a whole."
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -795,7 +806,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content is a textbook discussion of operational practices within Agile, DevOps, and Lean frameworks. There are extensive direct references to operational efficiency techniques: continuous delivery, automation, technical debt reduction, iterative improvement, metric selection (Velocity, Time to Build, Deploy, Learn), workflow management, and case examples from Azure DevOps and Starbucks. The main themes are deeply aligned—process optimisation (automation, trunk-based development, shift-left testing), strategies for continuous improvement, metric-driven decision-making, bottleneck reduction and clear emphasis on delivery excellence. The depth is substantial: real-world examples, detailed breakdowns of metrics, case studies of transformation from Microsoft and Starbucks, and practical, actionable guidance. The tone and intent are highly supportive and informative, aimed at practitioners, engineering leaders, and technical managers (audience alignment), with little to no extraneous material (high signal-to-noise). There are no deductions for outdated or contradictory content—the post is modern, relevant, and prescriptive rather than satirical or critical of operational best practices. Weighting applied to each score provides a confidence value that reflects the overwhelming evidence: this content directly and expertly fits within the 'Operational Practices' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Operational Practices' category. It thoroughly explores Agile, DevOps, and Lean methods, focusing on process optimisation, automation, and continuous improvement. With real-world examples and actionable advice, it’s highly relevant for practitioners and leaders seeking to enhance operational efficiency, making it both practical and directly aligned with the category’s intent."
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -819,7 +831,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the principles of continuous delivery and the necessary cultural and structural shifts required for organisations to adapt to market demands. It highlights the importance of investment in processes, automation, and metrics, which are all key aspects of organisational agility. The depth of discussion on how companies like Microsoft and Starbucks have successfully transformed their delivery processes further supports its alignment with the category. The content does not merely mention agility but delves into actionable strategies and real-world examples, demonstrating a strong focus on enhancing organisational adaptability.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the organisational agility category, as it goes beyond surface-level mentions and provides in-depth analysis of continuous delivery, cultural change, and process improvement. By including practical strategies and real-world examples from leading companies, it clearly demonstrates how organisations can become more adaptable and responsive to market needs."
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -843,7 +856,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the principles of continuous delivery, which is closely related to flow efficiency. It highlights the importance of optimising work throughput, eliminating bottlenecks, and improving delivery speed through various strategies such as automation, trunk-based development, and measuring key metrics. The depth of discussion on metrics like time to build, time to deploy, and time to learn further supports its alignment with flow efficiency concepts. Overall, the content is primarily focused on enhancing flow efficiency in software delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the flow efficiency category, as it delves into continuous delivery practices aimed at streamlining work processes. By emphasising strategies like automation and trunk-based development, and focusing on key performance metrics, it clearly centres on improving throughput and reducing delays—core aspects of flow efficiency in software delivery."
   },
   "Test Driven Development": {
     "resourceId": "7hEAycZIn8w",
@@ -987,7 +1001,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content mentions Evidence-Based Management explicitly, referencing the EBM guide and detailing its four Key Value Areas: Current Value, Unrealised Value, Time to Market, and Ability to Innovate. Multiple concrete EBM-aligned metrics are discussed, such as Time to Build, Time to Self-Test, Time to Deploy, and Time to Learn, and the content encourages data-driven, empirical approaches to choosing and evaluating metrics. The article's conceptual alignment is high—it transcends generic Agile or DevOps commentary and ties the value of continuous delivery directly to outcome and value-driven measurement, which is the core of EBM. The depth of discussion is substantial, especially in sections breaking down both EBM concepts and the necessary transformation for outcome-based management, using real-world Microsoft case studies and practical measurement strategies. The intent is closely matched: the main thesis focuses on transitioning from excuses and technical blockers to empirically managed, continuous delivery for business value. The audience appears to be both decision-makers and practitioners—a direct match to those the EBM framework addresses. Almost all content is relevant, with minimal filler; sections focus on actionable, measured improvement and outcome management rather than discussing frameworks in the abstract. There are no outdated practices, no critique or satire, and recommendations are explicitly supported by modern EBM sources. Scores differ slightly among dimensions to reflect a very minor lag in direct mentions compared to alignment, and that the primary theme is not exclusively EBM (it is continuous delivery as a case study for EBM principles). Overall, the content is a strong exemplar for the Evidence Based Management category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Evidence-Based Management category. It not only references EBM and its key value areas directly but also provides practical, metric-driven examples and real-world case studies. The focus on empirical measurement and actionable improvement aligns perfectly with EBM principles, making it highly relevant for both decision-makers and practitioners interested in outcome-based management."
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -999,7 +1014,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses continuous delivery and the importance of automation and iterative processes, which are related to experimentation. However, it lacks a direct focus on hypothesis-driven experimentation and does not provide detailed techniques or case studies specifically about testing ideas or validating assumptions within Agile workflows. While it mentions the need for rapid feedback and learning from user interactions, it does not delve deeply into the systematic testing of ideas or the integration of experimentation into Agile processes.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on themes like automation and rapid feedback, which are relevant to experimentation. However, it doesn’t directly address hypothesis-driven testing or provide concrete examples of experimenting within Agile workflows. As such, it only loosely fits the category, lacking a clear focus on structured experimentation or validation of ideas in Agile contexts."
   },
   "Strategic Goals": {
     "category": "Strategic Goals",
@@ -1053,7 +1069,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses practical strategies for overcoming complexity in software delivery, particularly through the lens of continuous delivery and DevOps practices. It provides real-world examples from Microsoft and Starbucks, illustrating how organisations can adapt and improve their processes. The emphasis on actionable steps, such as automation and iterative improvement, aligns closely with the core themes of pragmatic thinking. The depth of discussion is significant, covering various techniques and metrics that support effective decision-making in complex environments.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it focuses on real-world approaches to managing complexity in software delivery. By highlighting continuous delivery, DevOps, and practical examples from major organisations, it offers actionable advice and proven techniques. The discussion is thorough and centres on pragmatic solutions, making it highly relevant for those seeking effective, experience-based strategies."
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1113,7 +1130,8 @@
     "ai_penalty_details": "none",
     "final_score": 98.0,
     "reasoning": "The content is a comprehensive discussion of software engineering methodologies and practices, specifically focused on continuous delivery, automation, technical debt, metrics relevant to software development life cycles, DevOps, trunk-based development, feature flags, and measurement strategies such as Evidence-Based Management. These topics are not only directly mentioned but deeply explored with real-world examples (Azure DevOps, Starbucks, Microsoft), case studies, actionable recommendations, and metrics tracking. Almost all segments intentionally address the target audience of practitioners, technical leaders, and teams seeking to improve their SDLC processes. The main themes perfectly align with Software Development as defined, including explicit reference to SDLC, code quality assurance, Agile, DevOps, CI/CD, and continuous improvement. Depth is high: concepts like shift-left, feature flags, and the evolution of delivery timelines are discussed beyond superficial mention. Intent is constructive and informative, aiming to support practitioners and organizational improvement. Audience fit is almost perfect as it speaks directly to software developers and engineering leaders. The content is exceptionally focused, with minimal off-topic material (signal to noise ratio is high). No penalties are applicable: the tone is constructive, not critical or satirical, and referenced practices are current. The confidence score reflects the strong weighting and comprehensive, focused alignment across all dimensions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Software Development category. It thoroughly explores key engineering practices like continuous delivery, DevOps, and metrics, offering practical insights and real-world examples. The discussion is tailored for practitioners and technical leaders, maintaining a strong focus on SDLC improvement, making it highly relevant and valuable for its intended audience."
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1203,7 +1221,8 @@
     "ai_penalty_details": "none",
     "final_score": 83.0,
     "reasoning": "The content does not frequently or explicitly mention 'Evidence Based Leadership' as a direct phrase (mentions score: 3.4), but it aligns well with the principles of evidence-based management and leadership. It references the Evidence-Based Management (EBM) guide, discusses the use of specific metrics (four Key Value Areas/KVAs from EBM, and specific DevOps workflow metrics), and provides examples (Microsoft Azure DevOps, Starbucks) to demonstrate empirical improvements tied to leadership decisions, organizational will, and investments. The conceptual alignment (8.8) is strong as the main message is about using data, metrics, and measured outcomes to drive continuous improvement at the leadership level rather than relying on intuition or excuses. The depth (8.5) is high, with a thorough exploration of how organizational (especially leadership) decisions enable or block delivery, with extended discussions of metrics, process optimization, and case studies. Intent (7.3) is solid—the purpose is to convince leaders/organizations to adopt a data- and evidence-driven approach, though it is not solely a treatise on evidence-based leadership. Audience alignment (8.6) scores high as the piece targets organizational and technical leaders, emphasizing systemic action, investment, and change management. Signal-to-noise (8.9) is also very high since the majority of the content is focused, with little off-topic or filler material. This results in an overall confidence of 82.63 when applying the formula and weights. No penalties are applied: the content is current, does not contradict the category, nor include satirical or outdated elements. Examples from the content include highlighting how Microsoft's leadership transformed release cycles using metrics and KPIs, the value of feature flags and feedback loops (both evidence-based tools), and the stress on organizational will rather than technical excuses—all tying back to core evidence-based leadership concepts, even if the explicit labeling is sparse.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "While the content rarely uses the exact term 'Evidence Based Leadership', it strongly embodies its principles. It focuses on data-driven decision-making, leadership accountability, and the use of metrics to drive improvement, with relevant case studies and practical examples. The target audience and intent align well, making it a strong fit for the category despite limited explicit labelling."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -1233,7 +1252,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The content tightly aligns with the Deployment Frequency category as defined. Direct mentions of deployment frequency per se are present through the focus on continuous delivery and frequent, reliable releases. Key case studies (Azure DevOps, Starbucks, Microsoft) are used to emphasize real-world successful shifts from rare, large releases to frequent, automated deployments, precisely matching the core category focus. Core concepts—automation, technical debt reduction, trunk-based development, use of feature flags, and CI/CD—are discussed in depth as direct strategies for achieving high deployment frequency. The metrics section identifies and relates relevant deployment metrics (including time to deploy, time to learn), providing actionable, measurable ways to improve frequency and responding to the definition's call for metric awareness. The intent is highly relevant and positive, advocating for optimized deployment intervals as a business necessity and practical imperative, not merely as a technical detail. The audience is clearly technical and strategic leaders in Agile and DevOps contexts—the audience most interested in deployment frequency optimization. Some brief coverage of peripheral metrics (EBM Key Value Areas) slightly dilutes the focus, but the overall content remains highly targeted (reflected in the slightly lower signal-to-noise score). There are no penalties: the content is modern, constructive, and frames deployment frequency as central to continuous improvement and business responsiveness, with no undertones of criticism or outdated practice.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Deployment Frequency category. It thoroughly explores strategies and real-world examples of increasing deployment rates, focusing on automation, CI/CD, and technical debt reduction. The discussion is practical and metric-driven, targeting technical leaders aiming to optimise release cycles. While there’s minor mention of related metrics, the main emphasis remains on frequent, reliable deployments."
   },
   "Customer Feedback Loops": {
     "category": "Customer Feedback Loops",
@@ -1257,7 +1277,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses continuous delivery, emphasising its importance in delivering value to customers. It provides concrete examples from Microsoft and Starbucks, illustrating how organisations can overcome complexity to achieve rapid delivery of features. The discussion aligns well with key topics such as CI/CD practices, the role of automation, and the importance of measuring velocity and customer value. The depth of the analysis, including specific metrics and strategies for improvement, further supports its strong alignment with the Value Delivery category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Value Delivery category, as it thoroughly explores how continuous delivery practices help organisations deliver customer value efficiently. By referencing real-world examples and discussing metrics, automation, and improvement strategies, it clearly demonstrates how teams can overcome challenges to accelerate feature delivery and maximise impact for end users."
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1293,7 +1314,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses continuous delivery and the importance of addressing complexity, which indirectly relates to the ability to innovate. It mentions metrics like 'Time to Learn' and 'Time to Deploy', which are relevant to assessing innovation capability. However, the primary focus is on overcoming complexity and improving delivery processes rather than a direct exploration of innovation mechanisms or practices. While there are references to organisational will and investment in innovation, the depth of discussion on innovation strategies and frameworks is limited, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores how managing complexity and refining delivery processes can support innovation, referencing relevant metrics like 'Time to Learn' and 'Time to Deploy'. While it touches on organisational factors and investment in innovation, it doesn’t delve deeply into innovation strategies or frameworks, making its fit with the innovation category somewhat indirect but still relevant."
   },
   "Technical Mastery": {
     "resourceId": "7hEAycZIn8w",
@@ -1311,7 +1333,8 @@
     "ai_penalty_details": "none",
     "final_score": 98.0,
     "reasoning": "The content repeatedly, directly, and explicitly discusses core principles and practices of software craftsmanship, architecture, and engineering excellence. It mentions concepts such as continuous delivery, technical debt, automation, trunk-based development, feature flags, shift-left, metrics for code quality and delivery, and DevOps. Real technology transformations (Microsoft Azure DevOps, Starbucks) and detailed process improvements are presented as case studies. The depth is substantial; it moves beyond mere advocacy and drills into how to execute technical mastery (automation, metrics, agile principles, code quality, testing, technical debt management, etc.), including actionable advice and success measures. The primary audience is software engineers, technical leads, and architects—fully aligned to the category—with language and examples targeting practitioners and technical decision-makers. The signal-to-noise ratio is extremely high: virtually all of the content is on-topic, exploring the nuances, challenges, and solutions for achieving technical mastery and engineering excellence. No penalties are assessed: the tone is aligned, examples are current, and the practices advocated are modern and recognized as best practice. The confidence score reflects near-perfect alignment with the Technical Mastery classification, only slightly less than full marks as the piece occasionally references business landscape and leadership motivation—but always in the context of enabling or justifying technical change.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Technical Mastery category. It thoroughly explores advanced engineering practices, offering actionable insights and real-world case studies. The focus is on practical techniques and metrics for software excellence, targeting technical professionals. While business context is mentioned, it always supports technical objectives, ensuring the content remains highly relevant and valuable to its intended audience."
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -1335,7 +1358,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses Continuous Delivery (CD) and its principles, which are central to Engineering Practices. It highlights the importance of automation, clean code, and continuous improvement, aligning well with Agile methodologies. The depth of discussion on metrics and practices like Trunk-Based Development and Shift-Left testing further supports its relevance to the category. While it does touch on organisational challenges, the primary focus remains on engineering practices, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Engineering Practices category, as it delves deeply into Continuous Delivery and related Agile methodologies. The emphasis on automation, code quality, and continuous improvement, along with detailed discussion of practices like Trunk-Based Development, clearly aligns with core engineering principles, making the classification highly appropriate. Organisational aspects are secondary to the technical focus."
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1371,7 +1395,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses Continuous Delivery (CD) and its implementation, highlighting engineering practices such as automation, trunk-based development, and shift-left testing. It aligns closely with the principles of Technical Excellence by addressing methodologies that enhance agility and quality in software development. The depth of discussion is significant, providing detailed examples and metrics that illustrate the impact of these practices on team performance and project success.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Technical Excellence category, as it delves into key engineering practices like automation and trunk-based development. By exploring how these methods improve agility and software quality, and supporting the discussion with concrete examples and metrics, it clearly demonstrates a focus on elevating technical standards within development teams."
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -1383,7 +1408,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses continuous delivery and the importance of team investment in overcoming complexity, which indirectly relates to team performance. However, it primarily focuses on technical processes and organisational challenges rather than specific strategies for enhancing team dynamics or collaboration. While it mentions metrics and the role of teams in improving delivery, it lacks detailed exploration of team dynamics, leadership roles, or conflict resolution strategies that are central to the 'Team Performance' category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on how teams contribute to continuous delivery and addresses organisational hurdles, but it mainly centres on technical workflows rather than directly exploring team dynamics or collaboration. As it doesn’t delve into leadership, conflict resolution, or specific methods to boost team performance, it only loosely aligns with the 'Team Performance' category."
   },
   "Coaching": {
     "category": "Coaching",
@@ -1449,7 +1475,8 @@
     "ai_penalty_details": "none",
     "final_score": 84.0,
     "reasoning": "The content explicitly mentions 'technical debt' multiple times—most notably in describing how unchecked debt leads to high bug rates, significant rework, and release delays—making its presence clear but not pervasive (hence a 6.5 for direct mentions). Conceptual alignment is strong: managing and remediating technical debt is framed as essential to enabling continuous delivery, with examples of systemic underinvestment, the impact of shortcuts, and the need for sustained process and codebase improvements. The case study of Azure DevOps deeply explores how technical debt was eliminated and the outcomes of this work in terms of velocity. The text details strategies for modernization, automation, and incremental remediation, aligning with best practices for managing technical debt without becoming purely a 'how-to' guide—depth is high (8.6) but some sections devote space to velocity/trunk-based development or measurement frameworks not strictly about debt. The primary intent is to motivate technical leaders and teams to tackle technical debt as the path to delivering continuously, making the purpose highly aligned, though subordinate to the overall theme of continuous delivery (8.1). Audience fit scores well—engineers, architects, and technical decision-makers—although executives or business leaders are addressed in sections (8.4). Signal-to-noise is strong, with the majority of discussion referencing improvement tactics and only a few tangential examples (such as Starbucks/Windows planning horizons or frameworks like EBM) justifiable in context (8.3). No penalties were applied: the content is current, not undermining, and references relevant contemporary practices. Overall, the confidence is high (83.53), reflecting a substantial, though not dominant, focus on technical debt as both an obstacle and a call to action in the pursuit of continuous delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the technical debt category. It discusses technical debt directly and in depth, using real-world examples and strategies for remediation. While it also covers related topics like delivery velocity, the main message encourages technical leaders to address technical debt as key to continuous delivery, making it highly relevant for engineers and decision-makers."
   },
   "Windows": {
     "category": "Windows",
@@ -1521,7 +1548,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the challenges and strategies related to continuous delivery in software development, highlighting the need for organisational investment and cultural shifts. While it touches on the interplay between technology and organisational structures, it primarily focuses on technical practices and examples from specific companies, which limits its depth in exploring sociotechnical interactions. The mention of organisational will and the impact of leadership decisions indicates some alignment with sociotechnical principles, but the overall emphasis remains on technical solutions rather than a comprehensive exploration of sociotechnical systems.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly centres on technical aspects of continuous delivery, using company examples to illustrate its points. While it briefly acknowledges organisational factors and leadership influence, it doesn’t deeply explore the broader sociotechnical dynamics. As a result, it only partially fits the sociotechnical category, with its primary focus remaining on technical practices rather than holistic system interactions."
   },
   "Lean": {
     "category": "Lean",
@@ -1845,7 +1873,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content focuses extensively on continuous delivery, automation, technical debt, and cultural transformation at scale—all highly relevant to technical leadership, particularly in agile and DevOps settings. While 'technical leadership' is not directly named, there is a strong implicit alignment through themes of influencing teams, driving investment in quality and automation, and adopting best practices across organizations. Specific techniques (e.g., trunk-based development, feature flags, metrics/KVAs, shift-left testing) align with the notion of guiding teams via technical expertise and best practices. However, the content seldom addresses the principles of servant leadership, explicit coaching or mentoring, or facilitation of agile ceremonies. The target audience seems to be technical managers, engineering leads, or senior practitioners—matching the expected audience well. Most discussion is relevant, with minimal digression, and there is significant real-world depth, especially with the Microsoft and Azure DevOps case study. The main area of docked points is for not explicitly referencing 'technical leadership' or directly discussing team facilitation or coaching roles—the leadership element is implied but not foregrounded. No penalties were required as the practices and recommendations are current and positive in tone. The confidence score reflects strong conceptual alignment and depth but tempers for the indirectness of the linkage to 'technical leadership' as defined.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the technical leadership category, as it explores key themes like automation, technical debt, and cultural change—core concerns for leaders in agile and DevOps environments. While it doesn’t explicitly mention 'technical leadership' or coaching, its focus on guiding teams and driving best practices clearly aligns with the responsibilities of technical leaders."
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1857,7 +1886,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses continuous delivery and automation, which are relevant to platform engineering, but it primarily focuses on the challenges and solutions related to software delivery rather than the design and construction of internal platforms. While it mentions Azure DevOps, it does not delve deeply into the principles of platform engineering or Internal Developer Platforms (IDPs). The discussion lacks a strong emphasis on enhancing developer productivity through platform solutions, which is a core theme of platform engineering.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on automation and delivery tools like Azure DevOps, which are adjacent to platform engineering. However, it mainly addresses software delivery challenges rather than the core aspects of platform engineering, such as building internal platforms or boosting developer productivity through platform solutions. As such, it only partially aligns with the platform engineering category."
   },
   "Product Backlog": {
     "resourceId": "7hEAycZIn8w",
@@ -1887,7 +1917,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the Shift-Left concept explicitly, particularly in the context of embedding quality assurance throughout the development process. It aligns with the core themes of the Shift-Left Strategy by advocating for early testing and continuous integration, which are essential for improving software quality and reducing defects. However, while it touches on these principles, the overall focus is more on continuous delivery and organisational change rather than a deep exploration of Shift-Left practices alone. Therefore, while it is relevant, it does not dominate the discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Shift-Left Strategy as it highlights the importance of early testing and integrating quality assurance throughout development. However, its main emphasis is on continuous delivery and organisational transformation, rather than a detailed examination of Shift-Left practices. As a result, while the topic is addressed, it does not form the central focus of the discussion."
   },
   "Continuous Improvement": {
     "resourceId": "7hEAycZIn8w",
@@ -1905,7 +1936,8 @@
     "ai_penalty_details": "none",
     "final_score": 87.0,
     "reasoning": "The content discusses the challenges and strategies of achieving continuous delivery and ties that to ongoing, incremental change in engineering practices and organizational culture. 'Continuous improvement' is directly referenced (e.g., 'embed a culture of continuous improvement') and its principles are demonstrated through examples (notably Azure DevOps' journey). The text outlines empirical measurement (EBM metrics), process changes, automation, elimination of technical debt, and fostering a culture of experimentation and learning. Techniques such as Trunk-Based Development, Shift-Left, automation, measuring and shortening feedback cycles, and hypothesis-driven testing are all methods aligned with continuous improvement. The discussion includes detailed case studies (Microsoft/Azure DevOps), practical frameworks (EBM, Kaizen-like incremental iterations), and stresses incremental, measurable advancement. The audience is clearly software development professionals, managers, and leaders interested in business agility and organizational improvement, matching the intended category. There is a small deduction for 'mentions' as 'continuous improvement' is not as frequently named as 'continuous delivery,' but it is substantively present, and its concepts deeply inform the content. All other dimensions are very strong, especially alignment, depth, and technical intent. No penalties were applied, as the content is current, supportive of continuous improvement, and not satirical or critical of the approach.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'continuous improvement' category. It explores practical strategies and real-world examples that illustrate ongoing, incremental enhancements in engineering and organisational culture. The discussion covers relevant frameworks, metrics, and techniques, making it highly relevant for professionals seeking to foster continuous improvement within their teams or organisations."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1935,7 +1967,8 @@
     "ai_penalty_details": "none",
     "final_score": 71.0,
     "reasoning": "While the content is primarily about breaking through organizational blockers to enable continuous delivery, there is significant indirect emphasis on competence themes: continuous improvement, skill development, and the willingness to confront and overcome technical challenges are explicit throughout. Examples such as Azure DevOps and Microsoft Developer Division focus on deliberate practice, automation, mastery of complex systems, and an organizational refusal to accept skill or technical debt as fixed obstacles. References to 'lack of skills', 'continuous improvement', and the need for 'deliberate effort' and 'learning' show strong conceptual alignment with the Competence category. However, the content's main focus is on cultural and process change rather than on competence or skill development per se; direct mentions of competence as a term are absent, and discussion of explicit techniques for skill-building is limited. The intent is mostly aligned but has a moderately broader purpose—it seeks to inspire change in delivery practices, with competence framed as a necessary enabler but not the sole focus. The target audience is technical leadership and practitioners, matching the Competence category but also extending to organizational decision-makers. The content is dense and well-substantiated, but some portions stray into process details and case study narrative, reducing the signal-to-noise ratio slightly. No penalties are warranted: the content is modern, fact-based, and does not contradict the framing. Overall, the content demonstrates a strong indirect fit, but because competence is a supporting pillar rather than the main subject, confidence is moderate to strong but not at the maximum.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content aligns well with the Competence category, as it highlights the importance of continuous improvement, skill development, and overcoming technical challenges. However, competence is presented more as a supporting factor within broader discussions on cultural and process change, rather than being the central focus. This makes the fit strong but not absolute, with the main emphasis on enabling delivery through organisational transformation."
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1989,7 +2022,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses continuous delivery, automation, and the importance of addressing technical debt, which are all critical aspects of product development methodologies. It provides detailed examples from Microsoft and Starbucks, illustrating the iterative processes and customer feedback integration necessary for successful product delivery. The focus on metrics for measuring velocity and the emphasis on continuous improvement further align with the core themes of product development. Overall, the content is deeply rooted in product development practices, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the product development category, as it delves into key practices like continuous delivery, automation, and managing technical debt. By referencing real-world examples and highlighting the use of metrics and customer feedback, it clearly demonstrates the iterative and improvement-focused nature of effective product development."
   },
   "GitHub": {
     "resourceId": "7hEAycZIn8w",
@@ -2049,7 +2083,8 @@
     "non_ai_confidence": 30,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the concept of continuous delivery, which is closely related to Time to Market. It highlights the importance of reducing release cycles and improving delivery speed, directly addressing the core themes of Time to Market. The metrics mentioned, such as Time to Deploy and Time to Learn, are explicitly linked to the efficiency of delivering value to customers. The depth of discussion is significant, providing detailed strategies and examples from Microsoft and Starbucks, which illustrate successful improvements in Time to Market. Overall, the content aligns well with the category, focusing on how organisations can optimise their processes to enhance delivery speed and customer satisfaction.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the Time to Market category, as it explores how continuous delivery practices help organisations speed up release cycles and deliver value to customers more efficiently. By referencing specific metrics and real-world examples, it demonstrates practical strategies for improving delivery speed, making it highly relevant to the category’s focus on optimising process efficiency."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -2061,7 +2096,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of continuous delivery and the need for organisations to invest in fixing technical debt, which indirectly relates to the concept of Unrealised Value. However, while it mentions the potential for increased feature delivery and the need to adapt to market demands, it does not explicitly focus on identifying or measuring untapped opportunities or unrealised value in a structured manner. The discussion is more centred on overcoming complexity and improving processes rather than exploring the indicators or strategies specifically tied to Unrealised Value as defined in the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on themes like continuous delivery and addressing technical debt, which can influence unrealised value. However, it doesn’t directly explore how to identify or measure untapped opportunities. The main focus is on process improvement rather than specifically examining unrealised value, so it only loosely fits the category."
   },
   "Current Value": {
     "category": "Current Value",
@@ -2073,7 +2109,8 @@
     "non_ai_confidence": 20,
     "final_score": 85.0,
     "reasoning": "The content discusses the importance of continuous delivery and its impact on delivering value to customers, which aligns with the concept of Current Value. It mentions metrics related to measuring velocity and the importance of feedback loops, which are crucial for assessing Current Value. The content also references the four Key Value Areas defined by Evidence-Based Management, including Current Value, indicating a strong alignment with the category. However, while it provides substantial detail on continuous delivery and its benefits, the primary focus is on the processes and practices rather than a direct, in-depth exploration of Current Value itself, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the Current Value category because it highlights how continuous delivery practices help deliver value to customers and references relevant metrics and feedback loops. While it touches on the four Key Value Areas, including Current Value, its main emphasis is on delivery processes rather than a deep dive into Current Value, making the alignment solid but not perfect."
   },
   "Agnostic Agile": {
     "category": "Agnostic Agile",
@@ -2146,7 +2183,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content primarily focuses on the principles of continuous delivery and related practices, such as automation, continuous improvement, and value delivery. It discusses the principles guiding decision-making in software development, especially in relation to Agile and DevOps practices. It emphasizes actionable insights on how to overcome complexity and foster a culture of improvement and responsiveness to market needs, which aligns with the definition of actionable principles. The depth of discussions on specific methods, metrics, and practices adds to its relevance, although it strays into tactical advice at times, which slightly reduces its classification strength.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the category as it centres on continuous delivery principles, automation, and fostering a culture of improvement—key aspects of actionable principles in software development. While it occasionally delves into tactical advice, its main focus remains on guiding decision-making and promoting best practices, making it a strong fit overall."
   },
   "Tool": {
     "resourceId": "7hEAycZIn8w",
@@ -2159,7 +2197,8 @@
     "non_ai_confidence": null,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on Azure DevOps as a tool for achieving continuous delivery and discusses its functionality and positive outcomes related to software deployment. It effectively integrates discussions of the tool's impact on Agile methodologies and references specific practices that can be implemented with Azure DevOps. The details provided about automation, continuous integration, and metrics reflect meaningful depth in discussing how tools like Azure DevOps enhance team collaboration and workflows. This aligns closely with the category definition of focusing on tools that support Agile, Lean, and DevOps practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on Azure DevOps and its role in supporting Agile and DevOps practices. It highlights how the tool streamlines software delivery, improves collaboration, and enables automation, all of which are key aspects of the category. The discussion of specific features and their impact on workflows further reinforces its relevance."
   },
   "Values": {
     "resourceId": "7hEAycZIn8w",
@@ -2237,7 +2276,8 @@
     "non_ai_confidence": null,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on continuous delivery as a practice, discussing actionable techniques such as automation, trunk-based development, feature flags, and shifting testing left in the development process. It emphasizes the importance of consistent, repeatable actions to overcome obstacles and improve software delivery speed. The insights are detailed and provide a roadmap for teams looking to implement continuous delivery effectively. However, while related to broader practices, the primary focus is still on the strategy surrounding continuous delivery rather than narrower practices like pair programming or retrospectives.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the continuous delivery category, as it centres on practical strategies and tools—like automation and feature flags—that enable teams to deliver software reliably and efficiently. The discussion is strategic and actionable, offering clear guidance for implementing continuous delivery, rather than focusing on unrelated or narrower development practices."
   },
   "Method": {
     "resourceId": "7hEAycZIn8w",
@@ -2250,7 +2290,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content extensively discusses specific methodologies related to achieving continuous delivery, including practices such as automation, trunk-based development, and the use of feature flags. These aspects align well with the structured, step-by-step procedures characteristic of the 'Method' category. While the content mentions organizations and examples to illustrate these methods, it primarily focuses on how to implement continuous delivery through systematic approaches. The depth of discussion is substantial, providing detailed and actionable insights, which strongly supports a high confidence score in the 'Method' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Method' category because it centres on practical steps and techniques for implementing continuous delivery. By detailing approaches like automation and trunk-based development, it offers clear, actionable guidance. While examples are included, the main emphasis is on systematic procedures, making it highly relevant to those seeking methodological insights."
   },
   "Model": {
     "resourceId": "7hEAycZIn8w",
@@ -2289,7 +2330,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content explicitly discusses the principles of continuous delivery, emphasizing specific tenets such as 'automate everything', 'shift-left', and 'iterate over pain' that guide the software development process. It articulates actionable strategies underlining DevOps practices, showcasing core tenets like continuous improvement, adaptability, and a feedback-driven approach. The depth of discussion includes successful case studies and specific practices that align closely with the tenets outlined in Agile, Lean, and DevOps methodologies, which supports a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly aligns with the category, as it delves into continuous delivery principles and highlights key DevOps strategies like automation, early testing, and iterative improvement. By referencing actionable practices and real-world examples, it demonstrates a strong connection to Agile, Lean, and DevOps methodologies, making it a highly relevant and confident fit for this classification."
   },
   "Capability": {
     "resourceId": "7hEAycZIn8w",
@@ -2302,7 +2344,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content focuses heavily on continuous delivery and emphasizes the importance of investment, automation, and cultural change as capabilities that organizations need to develop over time. It discusses the evolution of processes within organizations like Microsoft to enhance their delivery capabilities, illustrating key strategies for building these capabilities such as automation, trunk-based development, and continuous improvement. Key metrics are also introduced that align with assessing these capabilities within teams and their workflows. However, while it provides substantial insights into the development and importance of these capabilities, it is also somewhat operational and includes mentions of tools like Azure DevOps, which distract from the purely 'Capable' focus. Therefore, it demonstrates strong alignment and depth in capability but has residual elements that make it slightly less focused, warranting a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the 'Capable' category, as it explores how organisations can build and enhance delivery capabilities through investment, automation, and cultural change. It uses real-world examples and discusses relevant metrics, though occasional references to specific tools make it slightly less focused. Overall, it provides valuable insights into developing capability, supporting a strong—if not perfect—fit for the category."
   },
   "Service Level Expectation": {
     "resourceId": "7hEAycZIn8w",

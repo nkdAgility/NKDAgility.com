@@ -72,7 +72,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of data in Kanban implementation, criticising the use of vanity metrics and advocating for the collection of specific, actionable data. It aligns well with the principles of Evidence-Based Leadership by emphasising data-driven decision-making and the need for transparency and inspection. However, while it touches on leadership implications, it primarily focuses on technical aspects of Kanban rather than broader leadership strategies, which slightly limits its depth in the context of leadership practices.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it highlights the value of data-driven decision-making in Kanban, echoing Evidence-Based Leadership principles. While it mainly addresses technical aspects and the pitfalls of vanity metrics, it also hints at leadership by promoting transparency and informed choices. However, its primary focus on Kanban mechanics means it only partially covers broader leadership themes."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -156,7 +157,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of data in decision-making processes, particularly in the context of Kanban implementation. It critiques the use of vanity metrics and emphasises the need for actionable data to optimise processes. However, while it touches on decision-making, it primarily focuses on the pitfalls of poor metric selection rather than providing a structured approach to decision-making itself. The discussion lacks depth in terms of frameworks or methodologies for decision-making, which limits its alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly highlights the drawbacks of relying on superficial metrics and stresses the value of meaningful data in process improvement, especially within Kanban. While it references decision-making, its main focus is on metric selection rather than offering a comprehensive decision-making framework, making it only partially relevant to the category."
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -297,7 +299,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content primarily focuses on Kanban, an Agile framework, discussing its implementation and the importance of metrics in optimising workflow. It directly mentions Kanban multiple times and provides detailed insights into key metrics relevant to its practice. The discussion aligns well with the principles of Agile frameworks, particularly in promoting continuous improvement and responsiveness to change. However, while it is in-depth regarding Kanban, it does not explore other Agile frameworks or provide a comparative analysis, which slightly limits its overall depth in the broader Agile context.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Agile frameworks category, as it centres on Kanban—an Agile methodology—highlighting its implementation and the role of metrics in workflow optimisation. While it offers valuable, practical insights into Kanban, it doesn’t cover other Agile frameworks, so its scope is somewhat specialised rather than broadly comparative within Agile practices."
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -339,7 +342,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of data in measuring Cycle Time, explicitly mentioning how to calculate it using start and end dates. It aligns well with the core themes of Cycle Time, particularly in the context of Agile and DevOps, by emphasising the need for accurate metrics to optimise workflow. However, while it provides a good level of detail, the primary focus is somewhat diluted by the critique of vanity metrics and the broader discussion on Kanban strategy, which slightly detracts from a concentrated exploration of Cycle Time itself.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Cycle Time category as it explains how to measure Cycle Time using specific data points and highlights its significance in Agile and DevOps practices. While it touches on related topics like vanity metrics and Kanban strategy, the main discussion remains centred on understanding and improving Cycle Time, making it a suitable fit for the category."
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -393,7 +397,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses throughput as a key metric in Kanban, detailing its significance in measuring the number of completed items over a set period. It aligns well with the core themes of the category by focusing on the importance of metrics in optimising workflow and improving team performance. The depth of discussion is substantial, providing actionable insights on how to leverage throughput alongside other metrics like cycle time and WIP to enhance efficiency. Overall, the content is primarily focused on throughput, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the category, as it centres on throughput in Kanban, highlighting its value in tracking completed work and optimising team performance. It offers practical advice on using throughput with related metrics, demonstrating a clear focus on workflow improvement—making it highly relevant to the category’s core themes."
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -585,7 +590,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses practical strategies for implementing Kanban effectively, focusing on the importance of using the right metrics to drive improvements. It aligns well with the core themes of pragmatic thinking by emphasising real-world applications of data analysis in project management. The depth of discussion is substantial, providing specific metrics and actionable insights, which supports a high confidence score. However, it lacks a broader context of Agile or Scrum frameworks, which slightly lowers the overall alignment.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it offers actionable advice on applying Kanban with a focus on meaningful metrics. Its emphasis on practical data use in project management demonstrates pragmatic thinking. While it provides detailed insights and useful examples, it could be even stronger with more references to other Agile methodologies. Overall, it effectively supports the category’s intent."
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -768,7 +774,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on optimising Kanban practices by emphasising the importance of using the right metrics to enhance operational efficiency. It discusses specific metrics such as Work in Progress (WIP), Cycle Time, Throughput, and Work Item Age, which are directly related to improving workflow management and reducing bottlenecks. The depth of discussion is substantial, providing actionable insights and strategies for continuous improvement, aligning well with the core themes of operational practices in Agile methodologies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into optimising Kanban workflows by highlighting key metrics like WIP, Cycle Time, and Throughput. The discussion offers practical advice for improving efficiency and managing bottlenecks, making it highly relevant to operational practices within Agile frameworks."
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -1074,7 +1081,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of data in optimising flow efficiency within a Kanban strategy, explicitly mentioning metrics like cycle time and work item age, which are crucial for measuring flow efficiency. It critiques the use of vanity metrics and emphasises the need for actionable data to enhance throughput. However, while it aligns well with the core themes of flow efficiency, the depth of discussion could be more comprehensive, particularly in exploring strategies for eliminating bottlenecks or optimising WIP limits.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the flow efficiency category, as it highlights the role of key metrics like cycle time and work item age in Kanban. It also stresses the value of actionable data over vanity metrics. However, it could be stronger by delving deeper into practical strategies for removing bottlenecks or managing WIP limits to further optimise flow."
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1182,7 +1190,8 @@
     "non_ai_confidence": 30,
     "final_score": 78.0,
     "reasoning": "The content explicitly discusses Kanban principles, particularly the importance of data and metrics in optimising flow and improving processes. It critiques common pitfalls in Kanban implementation, such as the misuse of vanity metrics, which aligns with the core themes of the Kanban methodology. The depth of discussion is significant, as it provides specific metrics relevant to Kanban and emphasises the need for transparency and continuous improvement. However, the tone is somewhat critical and focuses on what not to do, which slightly detracts from a more balanced exploration of Kanban practices.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Kanban category, as it delves into key Kanban principles like leveraging data and metrics to enhance workflow. It thoughtfully addresses common mistakes, such as relying on vanity metrics, and highlights the importance of transparency and ongoing improvement. While the tone is somewhat critical, the discussion remains relevant and insightful for those interested in effective Kanban practices."
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -1440,7 +1449,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content focuses on improving Kanban strategies, which is a key aspect of Agile product development. It discusses the importance of using the right metrics to drive continuous improvement, aligning well with the principles of iterative learning and customer feedback integration. The depth of discussion on metrics like WIP, cycle time, and throughput indicates a strong understanding of how to optimise product delivery processes. However, while it is relevant to product development, it does not explicitly mention broader product strategy alignment or cross-functional team roles, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the category as it delves into enhancing Kanban practices within Agile product development, emphasising the use of metrics for ongoing improvement. While it thoroughly covers process optimisation, it doesn’t directly address wider product strategy or cross-team collaboration, which would strengthen its fit. Overall, it demonstrates a solid grasp of iterative delivery and continuous learning."
   },
   "Liberating Structures": {
     "category": "Liberating Structures",
@@ -1512,7 +1522,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of using proper metrics in Kanban, specifically focusing on actionable insights that drive continuous improvement. It directly mentions key metrics such as Work in Progress (WIP), Cycle Time, Throughput, and Work Item Age, which are relevant to assessing Current Value. The discussion aligns well with the core themes of Current Value in Evidence-Based Management, as it emphasises the need for real-time data analysis to enhance workflow and decision-making. However, while it provides substantial detail on metrics, it does not explicitly connect these metrics to customer satisfaction or revenue impact, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Current Value category, as it highlights how Kanban metrics like WIP, Cycle Time, and Throughput support continuous improvement and informed decision-making. While it thoroughly covers relevant metrics, it could be stronger by directly linking these measures to customer satisfaction or financial outcomes."
   },
   "Company as a Product": {
     "category": "Company as a Product",
@@ -1610,7 +1621,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content primarily discusses metrics in the context of Kanban rather than specific tools. While it mentions tools like JIRA and Azure DevOps as capable of collecting data, the majority of the content focuses on conceptual pitfalls and metrics related to Kanban. The direct mention of tools is limited and not the main emphasis. Conceptually, it aligns somewhat with the category by discussing how tools can aid in data analysis, but the depth is focused more on methodology than on tool functionality or comparative analysis.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is more about Kanban metrics and their conceptual application than about specific tools. While tools like JIRA and Azure DevOps are briefly mentioned as means to gather data, the main focus is on understanding and interpreting Kanban metrics, not on the features or comparison of the tools themselves. Therefore, it only loosely fits the tools category, with its emphasis lying more on methodology."
   },
   "Values": {
     "resourceId": "S4zWfPiLAmc",
@@ -1688,7 +1700,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content strongly focuses on actionable practices for effectively applying Kanban, specifically emphasizing the importance of key metrics and how to leverage them for continuous improvement. It discusses specific techniques such as avoiding vanity metrics and using relevant data like WIP, cycle time, and throughput to enhance workflow, which aligns well with the category of Practice. The discussion is detailed, providing clear actions teams can take to improve their Kanban implementation. This high level of detail and focus on actionable practices justifies a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Practice category, as it offers clear, actionable advice on using Kanban effectively. It highlights essential metrics and practical techniques, guiding teams on how to improve their workflow. The detailed focus on real-world application and continuous improvement makes it highly relevant for those seeking hands-on guidance."
   },
   "Method": {
     "resourceId": "S4zWfPiLAmc",
@@ -1701,7 +1714,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content discusses specific metrics and actionable insights that enhance the Kanban method. It emphasizes structured procedures such as tracking Work in Progress (WIP), Cycle Time, Throughput, and Work Item Age, aligning closely with the procedural focus of methods. The depth of discussion regarding leveraging data for continuous improvement and avoiding vanity metrics shows a strong alignment with the 'Method' category. However, it does not extensively cover the broader philosophies or practices outside specific metrics, justifying a high but not maximum confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Method' category because it focuses on practical metrics and structured processes that directly support the Kanban approach. By highlighting how to use data for ongoing improvement and avoid superficial measures, it demonstrates a clear procedural emphasis, though it doesn’t delve into wider philosophies or practices beyond these methods."
   },
   "Model": {
     "resourceId": "S4zWfPiLAmc",
@@ -1740,7 +1754,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content focuses on actionable insights for implementing Kanban effectively, emphasizing key metrics that enhance workflow and continuous improvement. It discusses specific practices, such as avoiding vanity metrics and focusing on essential metrics like WIP, cycle time, and throughput, which aligns well with principles of Kanban. Therefore, it largely conforms to the Tenet category, providing a strong discussion on how metrics guide decision-making in a tangible way, while also maintaining a clear connection to the guiding principles of Kanban.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a great fit for the Tenet category, as it offers practical advice on using Kanban metrics to drive improvement. By highlighting important measures like WIP, cycle time, and throughput, and warning against less useful metrics, it clearly connects everyday practices to Kanban’s core principles, showing how metrics can guide effective decision-making and continuous progress."
   },
   "Capability": {
     "resourceId": "S4zWfPiLAmc",

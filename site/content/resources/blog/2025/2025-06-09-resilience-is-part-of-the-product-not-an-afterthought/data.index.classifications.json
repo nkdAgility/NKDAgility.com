@@ -15,7 +15,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "This content discusses the concept of resilience as a core, first-class feature of product development and systems engineering. Although explicit mentions of 'DevOps' are minimal (including a direct reference to the Azure DevOps engineering team), the entire piece foregrounds principles strongly associated with DevOps philosophy—such as shared responsibility (engineering teams owning the lifecycle), automation (feature flags, deployment rings, automated deployments), observability, rapid feedback, continuous improvement, and breaking down traditional silos between dev and ops. The alignment is high due to repeated emphasis on cultural and process shifts central to DevOps, including risk containment, data-driven improvement, and treating incidents as learning opportunities rather than assigning blame. The discussion is thoughtful and substantial, not just surface-level; it offers specific strategies, mindset shifts, and engineering tactics used by recognized teams. The intent and audience are both well aligned, targeting technical decision-makers and engineering practitioners interested in modern, value-driven approaches rather than classic siloed ops or heroism culture. Signal-to-noise is high; nearly the entire content is focused on actionable, relevant advice and foundational DevOps concepts, with little digression. The slight deduction on 'Direct Mentions' (2.8/10) reflects infrequent explicit naming of 'DevOps.' No penalties were required, as the content is timely and positive toward DevOps ethos. The final confidence score of 79.5 accurately reflects strong but not absolute alignment to the DevOps category: while most themes and advice fit squarely within DevOps philosophy, the direct naming is limited and some readers may interpret the primary focus as resilience engineering—a subset of, but not exclusive to, DevOps.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the DevOps category. While it rarely uses the term 'DevOps' directly, it thoroughly explores key DevOps principles like shared responsibility, automation, observability, and continuous improvement. The advice is practical and relevant for technical leaders, aligning closely with DevOps culture and practices, even though the main focus is on resilience engineering within that context."
   },
   "Leadership": {
     "resourceId": "EtzHUfsWjsD",
@@ -99,7 +100,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "The content very strongly aligns with the 'Engineering Excellence' category, delivering a detailed and practical discussion about designing resilience into software products. Direct mentions of 'engineering', 'engineering culture', 'telemetry', 'feature flags', 'code review', 'architecture', and 'continuous improvement' are present throughout, though the specific phrase 'engineering excellence' is not used, which affects the direct mentions score slightly. The conceptual alignment is extremely high as the main thesis is about embedding resilience—via best practices, process discipline, and engineering ownership—into software delivery. The depth is also outstanding: the content goes well beyond superficial advice, providing arguments, anti-patterns (hero culture), and concrete technical practices (telemetry, circuit breakers, progressive delivery, automated deployments, safe deployment rings, and measurement strategies). The intent is overtly prescriptive and motivational for software engineers, advocating for practices that are textbook definitions of engineering excellence. Audience targeting clearly matches engineering practitioners and leaders, rather than generalists or executives. Signal-to-noise is excellent: the content is highly focused, actionable, and contains almost no off-topic filler. No penalties were necessary as the tone is constructive, in alignment with the category, and all practices cited are current and relevant. The score is high but not perfect due to the lack of explicit naming of 'engineering excellence' and small areas where details could be further technical.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Engineering Excellence' category. It thoroughly explores how to build resilient software through best practices, technical strategies, and a strong engineering culture. While it doesn’t use the exact phrase 'engineering excellence', its focus, depth, and actionable advice make it highly relevant for engineering professionals seeking to improve their craft."
   },
   "Product Development": {
     "resourceId": "EtzHUfsWjsD",
@@ -117,7 +119,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content repeatedly emphasizes that resilience must be 'designed, built, and continuously improved,' explicitly referencing practices core to product development, such as embedding resilience into the product definition, architecture, and engineering culture. References to DevOps, safe deployment rings, telemetry, continuous improvement, and customer-centric metrics demonstrate a strong conceptual alignment with product development methodologies (Agile, Lean, iterative learning). The discussion is thorough, applying real-world examples (Microsoft Azure DevOps teams), and spans from high-level principles down to actionable practices (feature flags, observability, rapid roll-forward, progressive delivery). The primary audience appears to be engineering leaders, product teams, and practitioners targeted by the product development category. The content’s purpose is to inform and advocate for integrating resilience into the product lifecycle—not as an afterthought, but as a core, ongoing responsibility—making the intent and signal-to-noise ratio very strong. Although it does not mention 'product development' with the exact term frequently (hence a moderate 'Direct Mentions' score), nearly all discussion reinforces iterative, risk-mitigating, evidence-based, and customer-focused delivery of value, providing high scores in alignment and depth. No penalties were necessary; there is no outdatedness or contradiction.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the product development category, as it focuses on embedding resilience into every stage of the product lifecycle. It references key methodologies like DevOps and Agile, and provides practical examples and strategies relevant to engineering teams. The discussion is aimed at product and engineering leaders, making it highly relevant and actionable for those involved in building and improving products."
   },
   "Product Management": {
     "resourceId": "EtzHUfsWjsD",
@@ -153,7 +156,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content focuses on the necessity of designing resilience into products from the outset, advocating for its treatment as a first-class aspect of system design and engineering culture. While it does not directly mention 'Technical Leadership' or related terms (low 'mentions' score), the article is conceptually well aligned: it addresses themes such as technical debt management, engineering culture, ownership, learning from incidents, and practices like DevOps and automated deployments. It offers a detailed rationale for these practices and practical steps for teams to implement resilience, which boosts depth and alignment. The intent and audience focus on practitioner-level technical leaders, engineers, and those shaping engineering processes — but the perspective is more product/engineering-team-centric than explicitly about leadership behaviors, resulting in only moderately high scores for alignment, depth, and intent. The guidance, while actionable, is less focused on specific team dynamics, facilitation of agile practices, or servant leadership. There are no off-topic or outdated statements, and no penalties apply. The SNR is strong: the article does not deviate or contain filler. Accordingly, the confidence reflects substantial but not complete fit with 'Technical Leadership' as defined, justified by the content's clear focus on engineering and ownership but indirect emphasis on explicit leadership themes.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with 'Technical Leadership' by emphasising engineering culture, ownership, and resilience in system design. While it doesn’t directly discuss leadership behaviours, it provides actionable guidance relevant to technical leaders and teams. Its focus is more on engineering practices than explicit leadership, making it a strong, though not perfect, fit for the category. The article is clear, relevant, and free from off-topic material."
   },
   "System Configuration": {
     "resourceId": "EtzHUfsWjsD",
@@ -189,7 +193,8 @@
     "ai_penalty_details": "none",
     "final_score": 77.0,
     "reasoning": "The content frequently emphasizes 'continuous improvement' directly and conceptually (e.g., 'improve relentlessly,' 'measure it, and improve relentlessly,' 'continuously improved'). It aligns well with the category's philosophy of ongoing, empirical improvement and learning, particularly in engineering resilient products. The content provides actionable practices (telemetry, observability, learning from incidents), advocates for a culture of reflection, and references empirical measurement, all core to Continuous Improvement. The depth is solid, with practical steps and real-world case references (e.g., Microsoft Azure DevOps), but it is not an exhaustive treatise or case study, so depth is good but not maximal. The main intent is to persuade teams to embrace resilience as an ongoing process, which fits Continuous Improvement, though resilience is the dominant framing rather than CI itself. The audience is technical practitioners/engineering leaders—consistent with those who champion continuous improvement, though perhaps slightly narrower than the broadest CI audience (hence audience scoring slightly higher, but not maxed). Signal is high, as the content remains focused and contains little filler; nearly all points reinforce the main improvement message. No penalties were needed as tone, currency, and alignment are strong. Overall, the confidence reflects substantively strong fit, but since CI is not the only focus—resilience as a system property is the overt theme—confidence is just beneath the highest tier.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong match for the Continuous Improvement category, as it consistently promotes ongoing learning and empirical enhancement, especially in engineering resilient systems. It offers practical advice and real-world examples, targeting technical leaders. While resilience is the main theme, the emphasis on iterative improvement and actionable steps aligns closely with the category’s core principles."
   },
   "Market Share": {
     "resourceId": "EtzHUfsWjsD",
@@ -315,7 +320,8 @@
     "ai_penalty_details": "none",
     "final_score": 73.0,
     "reasoning": "The content does not explicitly or frequently mention 'Continuous Delivery' by name (mentions: 2.3), focusing instead on 'resilience' as a product quality. However, there is strong conceptual overlap: the content describes integrating resilience into every stage of the product lifecycle, including build, test, release, and run, emphasizing practices like telemetry, feature flags, automated deployments, progressive delivery, and rapid rollback—all highly characteristic of Continuous Delivery (alignment: 8.7). The depth of discussion is substantial, with real-world examples (e.g., Azure DevOps), exploration of culture, process, and technical measures (depth: 8.9). The primary intent is to inform and persuade product teams and engineers to treat resilience as integral—a purpose adjacent to, but not exclusively occupied by, Continuous Delivery (intent: 8.0). The audience seems to be technical engineering teams responsible for delivery and operations (audience: 7.4): closely aligned, but inclusive of those interested in resilience more broadly. The signal-to-noise ratio is high (signal: 8.2), as nearly all content is relevant to software delivery; only slight dilution occurs where resilience is discussed generally rather than strictly regarding delivery practices. No outdated or contradictory information is present, and no penalties are applied. Overall, while not exclusively a Continuous Delivery treatise, the content thoroughly explores highly aligned concepts with strong relevance to practitioners, resulting in a solid (but not perfect) confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "While the content doesn’t focus solely on Continuous Delivery, it thoroughly covers related practices—like automated deployments, feature flags, and rapid rollback—making it highly relevant to the category. Its main aim is to encourage teams to embed resilience throughout the delivery lifecycle, which closely aligns with Continuous Delivery principles, even if the term itself isn’t the central theme."
   },
   "Agile Philosophy": {
     "resourceId": "EtzHUfsWjsD",
@@ -387,7 +393,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content explicitly connects resilience to technical mastery topics such as system design, code review, architecture, engineering culture, and technical debt. Direct mentions of related terms like 'technical debt', 'DevOps', 'engineering', and concepts such as 'Definition of Done' support a high direct mention score. The entire piece is conceptually centered on building resilience as a technical feature, strongly matching the category's focus on engineering best practices and software craftsmanship. The discussion is thorough, covering principles, methodologies, practical examples (e.g., Azure DevOps teams, telemetry, circuit breakers), and actionable steps. The intent is clearly to inform and advocate for technical excellence in software engineering by making resilience a core part of the dev process, directly fitting the category's purpose. The audience is technical (software engineers, architects), with occasional references to the business risk but always from a technical engineering perspective. The signal-to-noise ratio is very high; nearly every paragraph references actionable technical practices and none is tangential or filler. No outdated or contradictory material is present, so no penalties are applied. The final confidence score reflects the very strong fit across all assessed dimensions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the category, as it thoroughly explores resilience within the context of software engineering best practices. It directly addresses technical concepts like system design, technical debt, and DevOps, providing actionable advice and examples. The focus remains on technical excellence, making it highly relevant for engineers and architects seeking to enhance resilience in their development processes."
   },
   "Deployment Frequency": {
     "resourceId": "EtzHUfsWjsD",
@@ -441,7 +448,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content clearly emphasizes engineering resilience as a core responsibility and feature, aligning strongly with the spirit of Engineering Practices, particularly around building for failure, continuous improvement, and integrating resilience into the Definition of Done, code reviews, and architecture—directly referencing foundational Agile engineering values. \n\nWhile key practices like CI/CD, test-driven development, and pair programming are not explicitly mentioned by name, several related practices (automated deployments, feature flags, telemetry, instrumentation, rapid roll-forward, progressive delivery, and safe deployment rings) are discussed in detail, showing high conceptual alignment and depth. There is a strong implication of clean code and automated processes, even if not called by those labels.\n\nThe main intent is to shift engineering culture and product development practices toward resilience, targeting technical teams and software engineers (audience alignment is strong), with clear actionable advice and some reference to real-world engineering teams (Azure DevOps case). Signal-to-noise ratio is high: there is almost no unrelated or off-topic material, and the narrative is focused, practical, and motivational.\n\nDirect mentions (4.4) are lower than other dimensions due to no explicit naming of 'Engineering Practices' or all its constituent recognized terms; instead, the theme is delivered through example and argument. There are no out-of-date practices or negative/contradictory tones; no penalties apply. Overall, the confidence reflects strong alignment, depth, intent, and technical focus, slightly offset by the lack of literal, repeated keyword mentions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Engineering Practices category. It thoroughly explores resilience as a core engineering value, offering practical guidance and aligning with Agile principles. While it doesn’t name every standard practice, it covers related concepts in depth, targets the right audience, and maintains a focused, actionable tone—demonstrating clear relevance and intent."
   },
   "Backlog Refinement": {
     "resourceId": "EtzHUfsWjsD",
@@ -603,7 +611,8 @@
     "ai_penalty_details": "none",
     "final_score": 75.0,
     "reasoning": "The content focuses on resilience as a core engineering and product concern, advocating for integrating resilience into product architecture from the start. There are frequent references to continuous improvement, ownership culture, telemetry, observability, and DevOps practices (explicitly via the Microsoft Azure DevOps case study), all of which are conceptually aligned with the core principles of Market Adaptability. Section topics such as rapid roll-forward, safe deployment, and using incidents as system feedback are key tenets in organizations striving for agility and responsiveness to market or operational shifts. However, the document rarely uses the explicit term 'Market Adaptability' or directly names adaptability as a goal; rather, it focuses on resilience as a means to ensure value delivery and system robustness. The alignment is strong, especially since DevOps, feedback loops, and adaptive architecture are central, but the direct mention is low, and explicit discussion of organizational market response or competitive dynamics is implied rather than stated. The depth is good, exploring concrete steps and cultural principles. The audience is clearly engineering and technical decision-makers—matching the target. Very little filler or tangential content is present: most paragraphs remain on-topic. Total confidence reflects strong conceptual alignment and depth, balanced by weak explicit naming, which prevents a higher score consistent with the strict category definition.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores resilience in engineering and product development—key aspects of Market Adaptability. While it doesn’t often use the term 'Market Adaptability' directly, it covers related practices like DevOps, feedback loops, and adaptive architecture, all crucial for responding to change. The focus and depth make it highly relevant for technical leaders seeking to enhance adaptability."
   },
   "Lean Principles": {
     "resourceId": "EtzHUfsWjsD",
@@ -639,7 +648,8 @@
     "ai_penalty_details": "none",
     "final_score": 76.0,
     "reasoning": "The content is a focused argument that resilience should be engineered into products from the outset and not be dependent on individual heroics or after-the-fact efforts. It references system behaviors, risk containment, engineering practices (observability, telemetry, deployment rings), and team-wide ownership of delivery and incidents. This aligns conceptually with Team Performance, particularly around the systemic view of delivery quality, learning from incidents, and the impact of team roles and system behaviors. However, 'team performance' is never directly mentioned (Direct Mentions: 3.55) and most references are implicit—though examples like Azure DevOps teams owning resilience do reinforce the connection. The depth is solid: the article moves beyond platitudes into specific systemic practices, though the focus remains mostly on a principle (resilience) rather than a detailed breakdown of performance metrics or patterns in delivery capability. Intent and audience scores are high because the article clearly targets practitioners concerned with the mechanics of delivery and system improvement, not individual or HR evaluation. The signal-to-noise ratio is strong as almost the entire article focuses on organizational and technical system behaviors (as opposed to tangential motivational content). No penalty adjustments are needed. Overall, the confidence value is weighted by strong alignment and depth, slightly lowered by the lighter direct mention and modest focus on delivery metrics vs. resilience as a practice. The final confidence is justified in the mid-upper range, indicating strong but not category-defining alignment.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Team Performance category because it explores how resilience should be built into systems through collective engineering practices, not left to individual effort. While it doesn’t explicitly mention “team performance” often, it clearly addresses how teams collaborate, share ownership, and improve delivery quality—key aspects of team effectiveness in technical environments. The focus is practical and relevant for practitioners."
   },
   "Strategic Goals": {
     "resourceId": "EtzHUfsWjsD",
@@ -675,7 +685,8 @@
     "ai_penalty_details": "none",
     "final_score": 76.0,
     "reasoning": "The content directly discusses the need to measure, observe, and continuously improve resilience within software products, aligning well with core principles of 'Metrics and Learning'. Phrases such as 'telemetry', 'measured customer experience directly', 'alerts to detect real-world impact', and 'incidents as feedback' indicate a strong orientation toward metric-driven, evidence-based improvement. The description and recommendations involve collecting data, building feedback loops, and emphasizing continuous improvement—key elements of the category. However, the primary focus remains on resilience as a product feature, not on metrics theory or frameworks per se, making direct mention and in-depth exploration of metrics somewhat limited compared to deep dives or case studies dedicated solely to metrics and learning. Minor broader references (e.g., to engineering culture and team ownership) slightly lower focus but remain generally relevant. The audience is clearly technical teams and decision-makers in Agile/DevOps environments, with actionable advice. There is little-to-no outdated content or contradicting tone to warrant penalties. The confidence score is weighted more by strong alignment, depth, intent, and signal-to-noise ratio, but less so by the frequency of direct category mentions.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the 'Metrics and Learning' category because it emphasises using data, telemetry, and feedback loops to improve software resilience. While the main focus is on resilience, the approach relies on metric-driven insights and continuous learning, which are central to the category. The advice is practical for technical teams, though it doesn’t deeply explore metrics theory. Overall, it aligns well with the category’s intent."
   },
   "Lean Thinking": {
     "resourceId": "EtzHUfsWjsD",
@@ -1203,7 +1214,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of resilience as a core feature of product design, aligning closely with the principles of Technical Excellence. It emphasises the need for deliberate engineering practices, such as telemetry, observability, and risk containment, which are essential for maintaining high-quality software. The depth of discussion on integrating resilience into the engineering culture and processes reflects a strong understanding of how technical excellence can enhance product quality and team collaboration. However, while it touches on related concepts, it does not explicitly mention TDD or CI/CD, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Technical Excellence category, as it highlights how resilience is integral to robust product design. By focusing on engineering practices like telemetry and risk management, it demonstrates a clear commitment to quality and reliability. While it doesn’t directly address TDD or CI/CD, its emphasis on embedding resilience into engineering culture aligns well with technical excellence principles."
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1347,7 +1359,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content strongly emphasises the importance of designing resilience into products from the outset, which aligns well with pragmatic thinking in Agile and DevOps contexts. It discusses practical strategies for building resilience, such as telemetry, observability, and risk containment, which are essential for navigating complexity in project management. The depth of discussion is significant, providing concrete steps and real-world applications, particularly referencing Microsoft’s approach to resilience. The content is focused on practical problem-solving and the integration of resilience into the product lifecycle, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it highlights practical ways to embed resilience into products, drawing on real-world examples and actionable strategies. Its focus on tools like telemetry and observability, along with references to industry practices, demonstrates a clear, pragmatic approach to managing complexity—key aspects valued in Agile and DevOps environments."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1515,7 +1528,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content focuses heavily on the concept of resilience as a core feature of product design, which aligns with operational practices in terms of continuous improvement and process optimisation. It discusses practical steps for building resilience, such as telemetry, observability, and risk containment, which are essential for enhancing operational efficiency. The depth of discussion is significant, providing detailed strategies and examples from Microsoft’s Azure DevOps teams, indicating a strong alignment with the category's focus on practical application within Agile and DevOps frameworks.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it delves into resilience as a key aspect of product design and links it directly to operational excellence. By highlighting actionable strategies like telemetry and risk management, and referencing real-world Agile and DevOps practices, it offers practical, in-depth insights that align well with the category’s emphasis on continuous improvement and process optimisation."
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1761,7 +1775,8 @@
     "ai_penalty_details": "none",
     "final_score": 83.0,
     "reasoning": "The content thoroughly emphasizes resilience as an engineering concern and embeds the principle that reliability must be designed into the product from inception, aligning closely with Site Reliability Engineering (SRE) values. Key SRE concepts—such as observing systems, incident management, and continuous improvement—are highlighted through practical examples and case studies (e.g., Microsoft Azure DevOps). The article explicitly rejects hero-based cultures in favor of engineered solutions and system ownership, reinforcing core SRE cultural aims. There is substantial conceptual alignment (‘resilience as system design’, ‘built-in telemetry’, ‘incidents are system signals’, ‘progressive delivery’, ‘feature flags’, ‘circuit breakers’) mapped to SRE best practices (automated delivery, observability, blameless post-mortems). However, explicit direct mentions of SRE, its terminology (like SLO/SLI/SLA), or attribution to SRE frameworks are limited, accounting for a lower 'Direct Mentions' score. Depth, audience fit, and relevance to practitioners or technical leads are high, given prescriptive checklists and references to engineering workflows. No dimension was penalized, as there are no outdated practices or negative framings. The confidence score reflects strong but not complete certainty, grounded by the lack of SRE-specific language and nomenclature.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly aligns with the SRE category, focusing on resilience as a core engineering principle and advocating for system-based solutions over individual heroics. It covers key SRE practices like observability, incident management, and continuous improvement, though it lacks frequent direct references to SRE terminology. Its practical guidance and cultural alignment make it highly relevant for SRE practitioners and technical leads."
   },
   "Estimation": {
     "category": "Estimation",
@@ -1833,7 +1848,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of resilience as a core feature in product design and delivery, aligning well with the principles of product delivery. It emphasises the integration of resilience into the entire product lifecycle, from ideation to deployment, which is a key aspect of effective product delivery methodologies. The depth of discussion on practical steps to build resilience and the emphasis on continuous improvement further supports its relevance to the category. However, while it touches on deployment and engineering practices, it does not explicitly cover all aspects of product delivery, such as Agile methodologies or cross-functional team dynamics, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the product delivery category, as it highlights the role of resilience throughout the product lifecycle and offers practical guidance for embedding it into design and deployment. While it doesn’t address every facet of product delivery, such as Agile or team collaboration, its focus on resilience as a delivery principle makes it highly relevant."
   },
   "Hybrid Agile": {
     "category": "Hybrid Agile",
@@ -1989,7 +2005,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of resilience as a core feature of product design, which aligns with the principles of iterative development and continuous delivery of value to customers. It emphasises the need for resilience to be integrated into the product from the start, which reflects a strong understanding of customer value and the necessity of continuous improvement. The depth of discussion is significant, providing practical steps and insights into how resilience can enhance customer satisfaction and business agility. However, while it touches on value delivery, it does not explicitly mention Agile or DevOps frameworks, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category, as it highlights how embedding resilience in product design supports ongoing value delivery and customer satisfaction. While it doesn’t directly reference Agile or DevOps, its focus on continuous improvement and practical strategies aligns well with these methodologies, making it relevant for discussions on iterative development and business agility."
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -2025,7 +2042,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of resilience in product design, emphasising the need for intentionality and ownership, which aligns with the ethos of Professional Scrum. It highlights accountability and the need for continuous improvement, reflecting Scrum values. However, it does not explicitly mention Scrum or its roles, which limits the direct mentions score. The depth of discussion on resilience as a core feature and its integration into the development process provides a strong connection to the principles of technical excellence and evidence-based management, contributing to a higher overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the Professional Scrum category, as it explores key themes like resilience, accountability, and continuous improvement—core aspects of Scrum values. While it doesn’t directly reference Scrum or its specific roles, the focus on intentional design and ownership strongly reflects Scrum principles, making it a relevant and insightful fit for this category."
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -2097,7 +2115,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of resilience in software design and engineering, aligning closely with software development practices. It explicitly mentions concepts such as system design, architecture, and continuous improvement, which are core themes in software development. The depth of discussion is significant, providing practical steps and insights into integrating resilience into the development lifecycle, thus demonstrating a strong focus on methodologies relevant to software engineering.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the software development category, as it delves into key topics like system design, architecture, and ongoing improvement. By offering practical advice on building resilience into software, it clearly addresses core concerns of software engineering and development methodologies."
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -2146,7 +2165,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content focuses on the principle of designing resilience as a core feature of products, aligning well with principles of Continuous Improvement and Value Delivery. It discusses actionable steps for building resilience, illustrating how teams should embed it in their practices. There are multiple explicit mentions of resilience linked to decision-making in product development, though some segments focus more on values related to resilience rather than strictly on the actionable principles guiding the approach. Overall, the depth of discussion regarding building resilience and its importance gives a strong alignment, though the focus isn’t solely on principles but rather on practical applications.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how resilience should be integrated into product development. It not only highlights the importance of resilience but also provides practical steps and decision-making guidance, aligning well with Continuous Improvement and Value Delivery. While some parts touch on related values, the main emphasis remains on actionable strategies for embedding resilience."
   },
   "Tool": {
     "resourceId": "EtzHUfsWjsD",
@@ -2237,7 +2257,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content discusses resilience as a core feature of product design, emphasizing the importance of design, measurement, and continuous improvement. It directly mentions 'observability' as a necessary capability to understand system behavior. The discussion aligns well with observability principles by focusing on telemetry and measuring experiences. The depth provided regarding how observability fits into resilience is substantial, showing how it intersects with team practices and product engineering. However, while observability is a key point, the primary focus is on resilience rather than observability itself, affecting the overall alignment score slightly.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the observability category because it highlights how observability supports resilience in product design, particularly through measurement and understanding system behaviour. While observability is not the sole focus, its role in enabling teams to monitor and improve experiences is clearly articulated, making the content a good fit for the category, though with a slight emphasis on resilience."
   },
   "Practice": {
     "resourceId": "ResilienceProduct2023",
@@ -2263,7 +2284,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content discusses how to systematically design for resilience in product development, outlining specific steps such as instrumenting systems, building for isolation, and treating incidents as feedback. These aspects align with methodical approaches within Agile contexts, demonstrating structured procedures for implementing resilience. However, while there is a strong focus on practical steps, the discussion remains somewhat general and does not delve deeply into specific methods like Scrum or Kanban, which limits its alignment with the strict definition of the 'Method' category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content aligns with the 'Method' category as it presents a structured approach to building resilience in product development, detailing actionable steps. However, it doesn’t reference established frameworks like Scrum or Kanban, so while it’s methodical, it lacks the specificity typically expected for this category. This makes its fit partial rather than complete."
   },
   "Strategy": {
     "resourceId": "EtzHUfsWjsD",
@@ -2328,7 +2350,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content provides an extensive discussion on the importance of resilience as a fundamental capability in product design and organizational culture. It emphasizes the need to integrate resilience into engineering practices, which aligns well with the concept of Capability as a long-term investment in organizational competencies. While it does delve into specific practices and measures related to resilience, it emphasizes their role in cultivating a resilient organization, thus reflecting a strong alignment with the core themes of the Capability category. The focus on treating resilience as a part of the product definition and architecture highlights its systemic impact rather than transient practices.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a great fit for the Capability category because it highlights resilience as a core, long-term organisational strength. By discussing how resilience should be embedded in product design and culture, it goes beyond short-term tactics and focuses on building lasting competencies. This systemic approach aligns perfectly with the idea of Capability as an ongoing investment in organisational excellence."
   },
   "Service Level Expectation": {
     "resourceId": "EtzHUfsWjsD",

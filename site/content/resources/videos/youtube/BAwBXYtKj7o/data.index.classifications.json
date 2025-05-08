@@ -141,7 +141,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of automated testing in delivering high-quality software, which aligns well with the principles of working software. It highlights the role of automated testing in reducing human error, ensuring fast feedback, and maintaining software quality, all of which are crucial for meeting customer needs. The depth of discussion on test strategies and the emphasis on continuous delivery further support its relevance to the category. However, while it touches on key aspects of working software, it does not explicitly frame these discussions within Agile or Scrum contexts, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how automated testing supports the delivery of reliable, high-quality software—key to meeting user needs. It covers benefits like reducing errors and enabling quick feedback. While it doesn’t directly reference Agile or Scrum, its focus on test strategies and continuous delivery clearly aligns with the principles of working software."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -372,7 +373,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of automated testing, its role in reducing human error, and the need for fast-running unit tests, which are all key aspects of engineering excellence. It aligns well with the principles of software craftsmanship and quality assurance, emphasising continuous improvement in testing methodologies and the impact of automation on development efficiency. The depth of discussion is significant, providing detailed insights into test strategies and the importance of maintaining a robust test infrastructure, which further supports the category's focus.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the category, as it thoroughly explores automated testing and its benefits for software quality and development efficiency. By highlighting best practices, continuous improvement, and robust test strategies, it demonstrates a strong alignment with engineering excellence and quality assurance principles. The detailed insights reinforce its relevance to the category."
   },
   "Throughput": {
     "category": "Throughput",
@@ -417,7 +419,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of automated testing in software engineering, highlighting its role in reducing human error, providing fast feedback, and improving software quality. It covers various aspects such as the need for unit tests, the impact of test infrastructure, and the shift from long-running tests to faster ones. The discussion aligns well with the core themes of automated testing, including methodologies, best practices, and the significance of automation in the development process. The depth of the discussion is substantial, providing detailed insights into the implementation and benefits of automated testing, thus justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the automated testing category, as it thoroughly explores its benefits, methodologies, and best practices. By addressing topics like unit tests, test infrastructure, and the move towards faster feedback, it demonstrates a strong focus on automation’s role in improving software quality, making it highly relevant to the category."
   },
   "Site Reliability Engineering": {
     "category": "Site Reliability Engineering",
@@ -585,7 +588,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses practical problem-solving strategies related to automated testing within a DevOps context, highlighting the importance of reducing human error and improving efficiency. It aligns well with the core themes of Pragmatic Thinking by providing real-world applications of testing strategies, emphasising adaptability in testing approaches, and illustrating the impact of automation on software quality. The depth of discussion is substantial, covering various aspects of test automation and its implications for project management and delivery, thus supporting a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Pragmatic Thinking category, as it explores real-world solutions for automated testing in DevOps. It demonstrates adaptability, focuses on reducing errors, and highlights efficiency gains. The discussion is thorough, covering both technical and project management perspectives, which aligns well with the category’s emphasis on practical, adaptable approaches to problem-solving."
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -630,7 +634,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses technical debt management and its impact on software delivery, particularly in the context of a transition to continuous delivery. While it mentions continuous delivery and provides a case study of the Azure DevOps team, the primary focus is on technical debt rather than the principles and practices of continuous delivery itself. The discussion on how managing technical debt can enhance delivery speed and quality aligns with the category, but it lacks a comprehensive exploration of continuous delivery practices, automation, and cultural aspects.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on continuous delivery by highlighting how managing technical debt can improve delivery speed and quality, using the Azure DevOps team as an example. However, it mainly centres on technical debt rather than delving into the core practices, automation, or cultural elements of continuous delivery, so it only partially fits the category."
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -726,7 +731,8 @@
     "non_ai_confidence": 20,
     "final_score": 92.0,
     "reasoning": "The content provides a comprehensive discussion on technical debt, including its definition, types (intentional and unintentional), and real-world examples illustrating its impact on development velocity and product quality. It also discusses strategies for prioritising technical debt remediation and the importance of managing it effectively to enhance long-term value delivery. The depth of the discussion is significant, with detailed examples and a clear narrative on the consequences of neglecting technical debt, which aligns well with the key topics outlined in the category definition.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores technical debt—covering its definition, types, and real-world implications. The discussion includes practical examples and strategies for managing and prioritising technical debt, demonstrating a clear understanding of its impact on development and product quality. The depth and relevance of the content align well with the category’s focus."
   },
   "Scrum Values": {
     "category": "Scrum Values",
@@ -768,7 +774,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses technical debt management, which is crucial for improving operational efficiency in software development. It highlights the importance of addressing technical debt to enhance delivery speed and product quality, aligning well with operational practices. The depth of discussion includes specific examples and metrics related to the Azure DevOps team's experience, demonstrating a practical application of strategies to optimise processes and improve performance. However, while it is focused on operational practices, it does not explicitly mention Agile, DevOps, or Lean methodologies in a structured way, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores technical debt management and its impact on operational efficiency in software development. By sharing practical examples and metrics, it demonstrates real-world strategies for process optimisation. While it doesn’t directly reference Agile, DevOps, or Lean, its focus on improving delivery and quality aligns closely with operational best practices."
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -831,7 +838,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses technical debt management, which is a crucial aspect of technical leadership, particularly in agile environments. It highlights the importance of making informed architectural decisions and the consequences of neglecting technical debt. However, while it touches on the role of teams in managing technical debt, it lacks a broader discussion on mentoring, coaching, or specific agile practices that would enhance its alignment with the category of Technical Leadership. The depth of discussion is somewhat limited to examples and consequences rather than strategies for leading teams through these challenges.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to technical leadership as it addresses managing technical debt—a key responsibility for leaders in agile settings. However, it mainly focuses on the impact and examples of technical debt, without delving into leadership strategies, mentoring, or coaching. For stronger alignment, it would benefit from exploring how leaders guide teams in addressing technical debt and fostering best practices."
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -924,7 +932,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content provides a thorough exploration of technical debt, its implications, and the importance of managing it effectively within software development. It discusses the concept of technical debt in detail, including its causes, consequences, and the necessity of prioritising its repayment to enhance product delivery. The examples provided, particularly regarding the Azure DevOps team, illustrate the practical impact of managing technical debt on software quality and team performance. This aligns closely with the core themes of Technical Mastery, focusing on best practices, principles of clean code, and the role of continuous improvement in software engineering. The depth of discussion is significant, offering insights into both known and unknown technical debt, and how addressing these issues can lead to improved outcomes in software delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the Technical Mastery category, as it delves into the concept of technical debt, its effects, and strategies for managing it. By highlighting real-world examples and best practices, it demonstrates a strong focus on software engineering principles, clean code, and continuous improvement—key aspects of technical excellence."
   },
   "Release Management": {
     "category": "Release Management",
@@ -1092,7 +1101,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of automated testing in the context of delivering quality software products, which aligns well with the core themes of product delivery. It addresses methodologies like TDD and the need for fast-running tests, which are crucial for effective deployment and quality assurance. However, while it touches on relevant topics, it lacks a broader discussion on the entire product delivery process, such as planning and cross-functional team roles, which slightly limits its depth in the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the product delivery category, as it highlights how automated testing and methodologies like TDD contribute to software quality and deployment. However, it mainly focuses on testing practices and doesn’t cover the full spectrum of product delivery, such as planning or team collaboration, so its coverage of the category is somewhat limited."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1209,7 +1219,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses automated testing, its importance in software engineering, and its role in enhancing code quality and reliability, which aligns closely with the principles of Technical Excellence. It provides detailed insights into Test-Driven Development (TDD), the need for fast-running unit tests, and the impact of test infrastructure on software delivery. The discussion is rich in technical detail and directly addresses engineering practices that improve agility and quality in software development, fulfilling the criteria for this category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Technical Excellence category, as it delves into automated testing and Test-Driven Development, highlighting their significance in improving code quality and reliability. The detailed focus on engineering practices and test infrastructure clearly demonstrates how these approaches contribute to higher standards and agility in software development."
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1386,7 +1397,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses technical debt management and its impact on software delivery, which indirectly relates to Continuous Improvement through the lens of enhancing processes and product quality. However, it lacks a direct focus on Continuous Improvement principles, such as empirical evidence or a structured approach to fostering a culture of experimentation. While it highlights the benefits of addressing technical debt, it does not delve deeply into strategies or frameworks that support Continuous Improvement, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on technical debt and its effects on software delivery, which can influence process improvement. However, it doesn’t directly address Continuous Improvement principles or provide concrete strategies for fostering ongoing enhancement. As a result, while there’s some relevance, the connection to the category isn’t strong or explicit."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1410,7 +1422,8 @@
     "non_ai_confidence": 30,
     "final_score": 72.0,
     "reasoning": "The content discusses technical debt management and its implications for software quality, which indirectly relates to competence through the lens of making informed decisions and improving team capabilities. However, while it touches on the importance of addressing technical debt to enhance delivery and quality, it does not explicitly focus on continuous learning or skill development, which are core themes of competence. The depth of discussion on competence is limited, primarily revolving around the consequences of poor decisions rather than strategies for fostering a culture of competence.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores technical debt and its impact on software quality, highlighting the importance of informed decision-making. While it hints at competence by referencing team capabilities, it doesn’t directly address continuous learning or skill development. As such, it only loosely connects to the competence category, lacking a focused discussion on nurturing or measuring competence within teams."
   },
   "One Engineering System": {
     "category": "One Engineering System",

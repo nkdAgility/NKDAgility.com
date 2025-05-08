@@ -33,7 +33,8 @@
     "ai_penalty_details": "none",
     "final_score": 90.0,
     "reasoning": "The content provides an in-depth critique of poor engineering practices and failures in designing for resilience, directly referencing 'engineering' and advocating for rigorous software development discipline. While it does not explicitly use the phrase 'engineering excellence,' it repeatedly discusses bad engineering versus sound engineering, the necessity of thorough testing, and engineering for failure, all of which align extremely closely with the category. The article covers root causes from technical debt (neglected dependencies like Active Directory) to the value of true operational discipline (like repeated disaster recovery exercises at Rackspace), hitting on several key topics from the category's scope. The discussion is deep, drawing on multiple real-world failures and contrasting these with best practices that epitomize engineering excellence (systematic, painful, real testing, and refusal to accept surface-level success metrics). The author explicitly ties the notion of resilience to product and engineering craftsmanship, emphasizing that real resilience can only be 'built' through engineering, not process theater. Audience targeting is technical (CTOs, senior engineers, tech leads), though there's some overlap with leadership/product roles. It is highly relevant and focused with only minor tangents woven in as storytelling and context, not filler. No outdated practices or contradictory tones are present, thus no penalties were applied. The slightly lower score for 'mentions' reflects the indirect reference to the category name but frequent invocation of its core concepts. Overall, the weighting formula results in a high confidence score that accurately reflects near-complete overlap of the content's message and the meaning of 'Engineering Excellence.'",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly fits the 'Engineering Excellence' category. It thoroughly critiques poor engineering and highlights best practices, such as rigorous testing and resilience, which are central to the category. While it doesn’t use the exact term, its focus on technical discipline and real-world examples makes it highly relevant for technical leaders and engineers seeking excellence."
   },
   "Technical Leadership": {
     "resourceId": "LGGuvRq4g7p",
@@ -51,7 +52,8 @@
     "ai_penalty_details": "none",
     "final_score": 77.0,
     "reasoning": "The content focuses on the imperative of building real system resilience versus the danger of claiming resilience without action. It addresses leadership failures, organization-wide blind spots, and the necessity of engineering discipline for operational survivability—all clearly within the scope of technical leadership. Examples such as disaster recovery exercises at Merrill Lynch and the practices at Rackspace directly illustrate leadership behavior shaping engineering culture and outcomes. The narrative also critically examines poor leadership in crisis (Heathrow, Oracle), linking top-level decisions to technical failures. However, direct use of the term 'technical leadership' is minimal (one mention of 'leadership' with reference to product leadership but never the phrase 'technical leadership'); this limits the Direct Mentions dimension. Conceptual Alignment is very high: the text relentlessly analyzes leadership’s role in fostering resilience, tying in responsibility and systemic thinking essential for technical leaders. Depth is solid, with multiple real-world cases and layered arguments, but it focuses primarily on the leadership-culture-resilience linkage and doesn’t deeply cover topics like coaching, agile ceremonies, metrics, or specific technical-leadership frameworks, hence not a perfect score. Intent is highly aligned, aiming to inform and challenge leaders to act on resilience. The Audience Alignment is slightly marked down because, while targeting CTOs and technology executives, it implicitly addresses a broader operational and engineering audience, not exclusively technical leadership practitioners. Signal-to-noise is strong—almost all paragraphs are relevant, with minor digressions (e.g., a brief personal anecdote) integrated into the main thesis. No penalties were applied as the content is current, not satirical, and directly supports the intended category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content strongly fits the technical leadership category, as it explores how leadership decisions directly impact system resilience and engineering culture. Real-world examples highlight both effective and poor leadership, illustrating the consequences for technical teams. While explicit references to \"technical leadership\" are limited, the analysis and intent are highly relevant for leaders aiming to foster resilient, responsible engineering practices."
   },
   "Leadership": {
     "resourceId": "LGGuvRq4g7p",
@@ -147,7 +149,8 @@
     "ai_penalty_details": "none",
     "final_score": 77.0,
     "reasoning": "The content directly considers resilience as a 'product capability' and critiques superficial or naïve approaches to product continuity and system survivability. It aligns well with Product Development insofar as it urges leaders and teams to build iterative, tested resilience into products from the ground up, referencing failures that stem from poor product thinking, lack of intentional design for failure, and leadership not prioritizing genuine operational survivability. Depth is high, with concrete real-world examples, a firsthand account, and comparison between failure cases and an exemplary case (Rackspace) where recurring testing and iteration built true resilience—clearly reflecting principles of iterative learning and continuous improvement. The main intent is to drive home the necessity of iterating, risk management, and system design choices—resonant with Product Development best practices. Direct mentions of 'product', 'roadmap', and 'product leadership' are present, but the text does not explicitly discuss Product Development process models, methodologies (e.g., Agile, Lean), or customer feedback cycles; these are more implied than directly addressed. Audience is fitting for product managers, CTOs, and organizational leaders interested in the product reliability and strategic risk minimization—though it slightly skews toward engineering leadership. Signal-to-noise is very high, with the entire text reinforcing the necessity of designing for resilience as a deliberate, iterated product development activity. No penalties are applied, as the content is current and not satirical or undermining; instead, it is constructively critical of failures. The lower score for direct mentions and slightly lower intent/purpose fit reflect the fact that, while deeply relevant, the piece is more about a specific product attribute (resilience as capability) than a general exploration of product development methodology. Overall, the confidence score proportionately reflects strong alignment but less explicit methodological focus.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Product Development category well, as it emphasises the importance of building resilience into products through intentional design, iteration, and risk management. While it doesn’t delve deeply into specific methodologies, it offers practical insights and real-world examples relevant to product leaders, making it highly valuable for those focused on product reliability and improvement."
   },
   "Company as a Product": {
     "resourceId": "LGGuvRq4g7p",
@@ -561,7 +564,8 @@
     "ai_penalty_details": "none",
     "final_score": 71.0,
     "reasoning": "The content provides a thorough critique of failures in system resilience across high-profile technical outages (e.g., Spain's grid, Oracle's cloud, Heathrow Airport), emphasizing the need for proactive engineering to test and iterate on disaster recovery and system robustness. It offers in-depth, concrete descriptions of systemic failure causes (e.g., lack of failover, fake success metrics) and contrasts them with positive examples (Rackspace) to illustrate productive, technical approaches to resilience. However, it does not directly or explicitly discuss 'troubleshooting' as defined (identification and resolution of issues) except by implication; most references are to building resilient systems, learning from failure, and prevention rather than specific troubleshooting processes or methodologies. Thus, the content aligns with the troubleshooting mindset and audience (engineers, technical leaders), and the discussion is substantial, especially in case-based diagnostics, but the explicit category fit is moderate—troubleshooting is a critical underlying theme but not the central overt topic. No penalties are warranted; the examples and recommendations are relevant and current.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns moderately with the troubleshooting category. While it doesn’t focus directly on step-by-step issue identification and resolution, it thoroughly analyses system failures and highlights the importance of resilience and proactive engineering. The discussion is relevant for technical audiences interested in troubleshooting mindsets, but the main emphasis is on prevention and learning from failure rather than explicit troubleshooting methods."
   },
   "Test First Development": {
     "resourceId": "LGGuvRq4g7p",
@@ -681,7 +685,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content provides a thorough critique on failures of resilience in production systems, directly referencing principles and challenges core to Site Reliability Engineering (SRE), such as engineering for failure, disaster recovery, observability, incident response, and the organizational/cultural aspects of operational reliability. While 'SRE' and related explicit terms (SLOs, SLIs, SLAs, monitoring, automation) are not directly named, the substance unmistakably overlaps with SRE values and philosophy. The depth is strong, using real-world postmortems and organizational examples to dig beneath surface practices—this is in the spirit of SRE. The intent is squarely to advocate for building and testing real resilience (engineering for failure), which is foundational to SRE. The audience is technical leadership, likely SREs or those shaping production-critical architectures. Some minor deduction in 'mentions' as the text never names 'Site Reliability Engineering' or directly references Google's SRE framework, and a slight drop in 'signal' since several paragraphs deliver organizational criticism or anecdotal context that, while illustrative, are not always focused strictly on SRE practices. However, no outdated or derogatory tone penalties apply. Final confidence reflects very strong alignment with the SRE category, despite lack of explicit SRE terminology.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content strongly aligns with the SRE category, as it delves into core principles like resilience, incident response, and operational reliability, using real-world examples. While it doesn’t explicitly mention SRE terms, its focus and depth clearly target SRE values and practices, making it highly relevant for technical leaders and those involved in production system reliability."
   },
   "Portfolio Management": {
     "resourceId": "LGGuvRq4g7p",
@@ -1083,7 +1088,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content is deeply relevant to Engineering Practices, focusing on themes like system resilience, failure assumptions, operational discipline, and disaster recovery within engineering contexts. It uses concrete industry examples to highlight consequences of bad engineering and the necessity of iterated, testable practices. However, it does not make direct, explicit mention of signature Agile engineering practices (e.g., TDD, Clean Code, CI/CD, pair programming), and fundamental terms like 'automation' or 'test-first' do not appear verbatim. The discussion is conceptually well-aligned—emphasizing the need to build, design, and repeatedly test resilience (correlating with test-driven and automation mindsets)—and offers detailed depth on technical failure analysis and operational rigor. The primary intent is to advise engineering leaders and practitioners on rethinking resilience as an engineering outcome, not as a box-ticking exercise. While the technical audience is well-targeted (CTOs, engineering leaders, practitioners), general leadership and organisational culture are also addressed, slightly diluting the tight focus expected for Engineering Practices. The writing is sharp and purpose-driven, though a small percentage is devoted to organizational/leadership analysis and criticism, lowering the signal-to-noise ratio marginally. No outdated or contradictory practices are referenced, and the tone is critical but ultimately supportive of sound engineering. Final confidence is high, but not maximal, due to few direct references to core Agile practice nomenclature and a wider, somewhat cross-disciplinary audience.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content strongly aligns with Engineering Practices, as it explores system resilience, failure analysis, and operational discipline using real-world examples. While it doesn’t explicitly reference core Agile terms or practices, its focus on iterative testing and robust engineering makes it highly relevant. The inclusion of leadership and organisational themes broadens its scope slightly, but the technical depth and intent remain clear and valuable."
   },
   "Liberating Structures": {
     "category": "Liberating Structures",
@@ -1107,7 +1113,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses the concept of resilience within systems, highlighting the interconnectedness of various components and the importance of understanding systemic failures. It mentions specific case studies (Spain, Portugal, Oracle, Heathrow) that illustrate the consequences of poor systems design and organisational blindness, which aligns with the principles of Systems Thinking. However, while it touches on these themes, the primary focus is on resilience and failure rather than a comprehensive exploration of Systems Thinking methodologies or frameworks. The depth of discussion on Systems Thinking principles is moderate, as it does not delve deeply into techniques or tools specific to Systems Thinking, leading to a slightly lower score in depth and alignment.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to Systems Thinking by exploring how interconnected components and organisational factors contribute to resilience and failure. While it uses relevant examples to illustrate these points, it doesn’t deeply examine Systems Thinking methods or frameworks, focusing more on resilience than on specific systems approaches. Thus, it fits the category, but with only moderate depth and alignment."
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1527,7 +1534,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of resilience in system design, which aligns with the principles of Technical Excellence. It highlights the need for engineering practices that anticipate failure and ensure operational survivability, connecting to concepts like modular architecture and emergent design. However, while it touches on these themes, it does not explicitly mention practices like TDD or CI/CD, which are central to the category. The depth of discussion is substantial, providing real-world examples and insights into organisational failures and successes, but it lacks a direct focus on the broader engineering practices that define Technical Excellence.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Technical Excellence category as it explores resilience in system design and its role in robust engineering. While it doesn’t directly address core practices like TDD or CI/CD, it effectively connects resilience to key technical principles and offers practical insights, making it relevant to the category, though not fully comprehensive."
   },
   "Agile Strategy": {
     "category": "Agile Strategy",
@@ -1863,7 +1871,8 @@
     "non_ai_confidence": 0,
     "final_score": 85.0,
     "reasoning": "The content discusses the importance of resilience in system design, emphasising engineering practices that prevent catastrophic failures. It directly addresses principles of software craftsmanship by highlighting the need for systems to be designed with failure in mind, which aligns with best practices in software architecture. The depth of discussion is significant, as it provides real-world examples and insights into organisational failures and successes, demonstrating a strong understanding of the technical aspects of resilience. However, while it touches on technical mastery, it also delves into organisational culture and leadership, which slightly detracts from its primary focus on technical practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores resilience in system design and highlights key engineering practices that prevent failures. While it also touches on organisational culture and leadership, the main emphasis remains on technical principles and real-world examples, demonstrating a solid grasp of software craftsmanship and best practices in architecture."
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
@@ -1875,7 +1884,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of resilience in systems and organisations, highlighting the need for continuous testing and iteration to build true resilience. It mentions the concept of learning from failures and adapting processes, which aligns with the principles of Continuous Improvement. However, while it touches on these themes, the primary focus is more on resilience and operational effectiveness rather than a dedicated discussion on Continuous Improvement practices. The depth of discussion on resilience and the examples provided contribute to a strong alignment, but the lack of explicit focus on Continuous Improvement as a standalone topic slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores resilience in systems and organisations, emphasising ongoing testing, learning from failures, and adapting processes. While these ideas overlap with Continuous Improvement, the main emphasis is on resilience rather than a direct, in-depth discussion of Continuous Improvement methods, making the fit partial but not complete."
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1887,7 +1897,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the concept of resilience in systems, which aligns with complexity thinking by addressing the non-linear dynamics and emergent behaviours in complex adaptive systems. It highlights the importance of understanding failure and the need for organisations to adapt and learn from it, which resonates with the principles of complexity science. However, while it touches on these themes, it does not explicitly reference complexity frameworks or theories, leading to a slightly lower confidence score in terms of direct mentions and depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it explores resilience within systems, a key aspect of complexity thinking. It addresses how organisations adapt to failure and highlights emergent behaviours typical of complex adaptive systems. However, it doesn’t directly reference specific complexity frameworks or theories, which slightly limits its alignment with the category’s core concepts."
   },
   "Value Delivery": {
     "category": "Value Delivery",
@@ -2067,7 +2078,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of resilience in systems, emphasising practical problem-solving strategies and real-world applications of resilience principles. It provides detailed examples of failures due to poor engineering and organisational blindness, aligning well with the core themes of pragmatic thinking. The depth of discussion is significant, as it explores the necessity of testing systems under real conditions and iterating over failures to build resilience, which is a practical approach to navigating complexity in project management. However, while it touches on Agile and DevOps indirectly, it does not explicitly mention these frameworks, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores resilience through practical examples and real-world problem-solving, highlighting the value of learning from failures. Its focus on iterative improvement and system testing aligns with pragmatic approaches to complexity. While it doesn’t directly reference Agile or DevOps, its emphasis on practical application and organisational learning supports its relevance."
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
