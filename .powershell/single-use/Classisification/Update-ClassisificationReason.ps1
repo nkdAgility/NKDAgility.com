@@ -25,7 +25,7 @@ foreach ($hugoMarkdownObject in $hugoMarkdownObjects) {
     foreach ($key in $cachedData.Keys) {
         $classification = $cachedData[$key]
         
-        if ([string]::IsNullOrWhiteSpace($classification.reasoningSummary)) {
+        if ([string]::IsNullOrWhiteSpace($classification.reasoningSummary) -and $classification.final_score -gt 70) {
             $length = $classification.reasoning.Length
             $reasonLengths += $length
             Write-DebugLog "[{key}] Reason length: {Length}" -PropertyValues $key, $length
