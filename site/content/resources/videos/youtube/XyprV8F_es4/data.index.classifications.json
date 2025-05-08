@@ -375,12 +375,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "XyprV8F_es4",
     "category": "Accountability",
-    "calculated_at": "2025-02-20T19:43:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership roles and organizational challenges, with only indirect references to teamwork and performance; accountability is not the primary focus.",
+    "calculated_at": "2025-05-01T18:45:33",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses leadership in the context of driving cultural and organizational change but does not focus on accountability as a structural mechanism. While it highlights the importance of setting a clear vision and reducing silos for collaboration, it lacks explicit discussions around ownership of outcomes, role-specific accountabilities, and how these impact performance and adaptation in work systems. Consequently, accountability is mentioned only implicitly, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1668,7 +1677,7 @@
   "Service Level Expectation": {
     "resourceId": "XyprV8F_es4",
     "category": "Service Level Expectation",
-    "calculated_at": "2025-05-06T22:31:13",
+    "calculated_at": "2025-05-06T20:54:17",
     "ai_confidence": 5.4,
     "ai_mentions": 0.2,
     "ai_alignment": 0.6,
