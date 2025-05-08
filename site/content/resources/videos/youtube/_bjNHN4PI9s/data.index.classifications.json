@@ -1281,7 +1281,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1688,6 +1688,24 @@
     "non_ai_confidence": null,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on the use of specific tools (Microsoft Teams and Mural) to facilitate virtual Scrum training, which does not align with the Capability category. While there are mentions of enhancing learning experiences, it lacks discussions on enduring competencies or strategies for developing capabilities within teams or organizations. The emphasis is much more on technology than any systemic capability development.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_bjNHN4PI9s",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:11",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0.2,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses exclusively on technical guidance for virtual classroom tools (Microsoft Teams and Mural) in the context of Scrum training. There are no explicit or implicit references to Service Level Expectation (SLE), its Agile/Kanban/Scrum context, calculation, application, or improvement. The main ideas are about improving participant confidence and technical fluency, not delivery predictability, cycle times, or any SLE-related concepts. The audience (practitioners and Scrum learners) only loosely overlaps with the SLE category, but the intent and themes are not related. All scores are minimal except for slight non-zero values for audience alignment and signal, since the content is generally relevant to Scrum practitioners but completely off-topic for SLE.",
     "level": "Ignored"
   }
 }

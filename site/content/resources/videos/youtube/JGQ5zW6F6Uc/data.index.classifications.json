@@ -1374,7 +1374,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1768,6 +1768,24 @@
     "non_ai_confidence": null,
     "final_score": 27.0,
     "reasoning": "The content primarily focuses on the role of the Product Owner and how to support them when they are ineffective. Although it touches on the importance of collaboration and maintaining team performance, it centers on specific roles and their challenges rather than discussing capabilities as enduring competencies. The mention of building relationships and understanding roles hints at broader capabilities but lacks depth and a primary focus on the cultivation of capabilities within the organisational culture and processes.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "JGQ5zW6F6Uc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:43",
+    "ai_confidence": 2.27,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.5,
+    "ai_intent": 1.2,
+    "ai_audience": 4.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused exclusively on strategies to address an ineffective Product Owner within Agile and Scrum teams. There are no direct mentions, definitions, or discussions of Service Level Expectation (SLE), nor is there any reference to related concepts such as cycle time analysis, SLE calculation, or the use of SLE for flow predictability. The overall conceptual alignment is extremely low; SLE is not addressed explicitly or implicitly. The audience (Scrum practitioners) does overlap with the typical SLE category, slightly raising the audience score, but the content's intent is entirely on team roles and dynamics, not flow metrics or delivery forecasts. The signal-to-noise ratio is poor relative to the requested category, as virtually none of the material pertains to SLE. No penalties were applied since there is no outdated or contradictory framing. The very low scores and resulting confidence accurately reflect the disconnect between the content subject and the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

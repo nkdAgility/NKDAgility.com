@@ -252,12 +252,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "IcmNR--u-kg",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T20:00:44",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and its impact on skills development, without a clear focus on accountability or team dynamics in Agile.",
+    "calculated_at": "2025-05-02T04:20:01",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses immersive learning and training methodologies without directly addressing accountability or its implications in work systems. While there are elements related to team development and coaching, these do not explicitly relate to outcome ownership or defined accountabilities in a structured work environment.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -780,12 +789,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "IcmNR--u-kg",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T20:02:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning and its impact on skills development, without a clear focus on Agile, Scrum, or DevOps strategies.",
+    "calculated_at": "2025-05-02T04:20:18",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.3,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "While the content discusses immersive learning and its benefits for team skill development, it largely focuses on training delivery methods rather than strategic discussions related to organizational goals or alignment. The content touches on concepts of adaptability and feedback loops, which could be related to strategic thinking, but it lacks a clear connection to overarching objectives and planning. The emphasis is more on operational training methods rather than strategy as a high-level guiding framework.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1353,7 +1371,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1747,6 +1765,24 @@
     "non_ai_confidence": null,
     "final_score": 38.0,
     "reasoning": "The content discusses immersive learning and its application in workplace training, highlighting feedback loops and real-world application. However, it primarily focuses on the method of training rather than on principles and methodologies that define the discipline of Agile, DevOps, or similar frameworks. Although there is a brief mention of Agile and Scrum at the end, the depth of discussion on these themes is limited, lacking sufficient exploration of the systemic application or maturation of these disciplines.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "IcmNR--u-kg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 1.0,
+    "ai_audience": 0.5,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on immersive learning methods, experiential training, and coaching in workplace contexts. While agile and scrum are mentioned in passing, they are not discussed in relation to Service Level Expectation (SLE), nor is SLE named, defined, explained, or applied. Key topics such as SLE definition, calculation with historical data, probability/range components, or the role of SLE in transparency and predictability are wholly absent. No authoritative references or use cases about SLE within Kanban, Scrum, or Agile practice are present. The intent is team capability development, not process forecasting or measurement. The audience (agile coaches, scrum practitioners, DevOps teams) overlaps partially with SLE's, but the content's themes and purpose are unrelated. Therefore, the confidence score is extremely low, reflecting only a nominal overlap owing to the vague mentions of agile, scrum, and continuous improvement, none of which specifically or directly relate to Service Level Expectation.",
     "level": "Ignored"
   }
 }

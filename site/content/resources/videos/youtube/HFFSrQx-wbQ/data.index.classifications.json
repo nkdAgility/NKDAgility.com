@@ -1341,7 +1341,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1736,5 +1736,23 @@
     "final_score": 68.0,
     "reasoning": "The content emphasizes the importance of fostering flexibility and adaptability in Agile teams, which aligns well with the category of Capability. It discusses the need to overcome rigidity in processes and tools, highlighting a culture of continuous improvement and experimentation. However, the primary focus seems to be on mindset and team dynamics rather than on developing systematic capabilities integrated into organizational strategies. The depth, while significant, does not fully explore the characteristics or measurement of capabilities in a structured way, hence the score reflects a moderate confidence.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "HFFSrQx-wbQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:40",
+    "ai_confidence": 7.93,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content primarily discusses flexibility, continuous improvement, and overcoming rigidity within Agile teams. There are no direct or indirect references to Service Level Expectation (SLE); SLE is neither mentioned nor conceptually explored. There is a generalized mention of continuous improvement and retrospectives, but these are standard Agile practices with no explicit or implicit tie to the calculation, application, or benefits of SLE as per definition. The intent is focused on team morale and openness to change, targeting Agile practitioners, but not specifically those seeking understanding of SLE. The audience may overlap slightly, but the subject matter is too broad and generic. Signal-to-noise is low with respect to SLE, as the discussion never addresses forecasting, predictability, elapsed time, probability, or authoritative sources associated with SLE. No penalties are applied, as the tone is appropriate and content is not outdated or critical of foundational Agile principles. The resulting confidence score, just under 8, is proportionate to content that neither mentions nor aligns substantially with SLE.",
+    "level": "Ignored"
   }
 }

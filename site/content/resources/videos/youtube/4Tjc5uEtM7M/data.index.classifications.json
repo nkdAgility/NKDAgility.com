@@ -1305,7 +1305,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:42:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1699,6 +1699,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content primarily focuses on the migration process to Azure DevOps and the need for expertise. While there are allusions to the importance of training internal teams (which hints at building capability), the detailed discussion revolves around the specific challenges and techniques of migration rather than on developing enduring capabilities within the organization. The mention of training suggests some alignment with the capability theme, but the overall emphasis on immediate operational aspects and tools detracts from a strong classification in this category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "4Tjc5uEtM7M",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:42",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.5,
+    "ai_audience": 1.7,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a practical guide focused on Azure DevOps migration, discussing challenges, expert recommendations, training, and common pitfalls in enterprise migration initiatives. Nowhere does it mention or allude to Service Level Expectation (SLE) as defined in the context of Agile, Scrum, or Kanban. There are no direct references, calculations, applications, or improvements of SLE, nor any discussion of cycle times, forecasts, or probabilistic completion timeframes within Agile frameworks. The main audience is IT managers, DevOps professionals, and teams dealing with tooling migration, not specifically teams interested in SLE for Kanban/Scrum practices. The signal-to-noise ratio is low for the SLE category, and conceptual alignment is extremely limited—there is no overlap with SLE's intended scope. All dimension scores are kept distinct per calibration safeguards, but remain minimal, resulting in a very low confidence score because the content is almost entirely unrelated to the 'Service Level Expectation' category.",
     "level": "Ignored"
   }
 }

@@ -1377,7 +1377,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1771,6 +1771,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses practices related to Agile, specifically focusing on backlog management, sprint planning, and feature prioritization. While these practices aim to improve team effectiveness and agility, they are framed as techniques rather than as enduring capabilities that are integrated into organizational culture. The main focus remains on addressing the overcommitment and inefficiencies in teams, which aligns only partially with the core theme of developing systemic capabilities. The discussion does reference some aspects of value delivery and organizational goals, but it lacks a deeper exploration of how these practices evolve into lasting capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2ASLFX2i9_g",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:43",
+    "ai_confidence": 7.45,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The provided content focuses entirely on the pitfalls of 'gluttony' in Agile—specifically overpopulated backlogs, overloaded sprints, and excessive product features. At no point does the piece mention, define, or even allude to Service Level Expectation (SLE) within an Agile, Scrum, or Kanban context. There are no references to SLE's probability-based cycle time forecasts, use of historical data, transparency around delivery timelines, or its role in continuous improvement. While some touchpoints bear indirect relation—such as maintaining realistic sprint goals and avoiding overcommitment—they do not discuss or analyze SLE as defined. The intended audience (Agile practitioners) does overlap modestly, but the main themes, depth, and explicit focus are unrelated to SLE. Therefore, minimal scores are given across all dimensions, with confidence very low and no penalties applied.",
     "level": "Ignored"
   }
 }

@@ -182,7 +182,7 @@
   "Change Management": {
     "resourceId": "Windows",
     "category": "Change Management",
-    "calculated_at": "2025-05-06T20:41:47",
+    "calculated_at": "2025-05-06T11:54:45",
     "ai_confidence": 27.175,
     "ai_mentions": 0.9,
     "ai_alignment": 2.7,
@@ -200,7 +200,7 @@
   "Technical Debt": {
     "resourceId": "Windows",
     "category": "Technical Debt",
-    "calculated_at": "2025-05-06T20:41:47",
+    "calculated_at": "2025-05-06T11:54:31",
     "ai_confidence": 8.6,
     "ai_mentions": 0.6,
     "ai_alignment": 1.7,
@@ -218,7 +218,7 @@
   "Agile Transformation": {
     "resourceId": "Windows",
     "category": "Agile Transformation",
-    "calculated_at": "2025-05-06T20:41:47",
+    "calculated_at": "2025-05-06T11:54:33",
     "ai_confidence": 34.824,
     "ai_mentions": 2.1,
     "ai_alignment": 3.6,
@@ -236,7 +236,7 @@
   "Coaching": {
     "resourceId": "Windows",
     "category": "Coaching",
-    "calculated_at": "2025-05-06T20:41:47",
+    "calculated_at": "2025-05-06T11:54:33",
     "ai_confidence": 12.014,
     "ai_mentions": 0.3,
     "ai_alignment": 1.2,
@@ -254,7 +254,7 @@
   "Technical Excellence": {
     "resourceId": "Windows",
     "category": "Technical Excellence",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:39",
     "ai_confidence": 57.73,
     "ai_mentions": 2.2,
     "ai_alignment": 5.7,
@@ -272,7 +272,7 @@
   "Azure Repos": {
     "resourceId": "Windows",
     "category": "Azure Repos",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:38",
     "ai_confidence": 6.34,
     "ai_mentions": 0.2,
     "ai_alignment": 0.5,
@@ -290,7 +290,7 @@
   "Business Agility": {
     "resourceId": "Windows",
     "category": "Business Agility",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:38",
     "ai_confidence": 43.175,
     "ai_mentions": 2.3,
     "ai_alignment": 5.1,
@@ -308,7 +308,7 @@
   "Azure DevOps": {
     "resourceId": "Windows",
     "category": "Azure DevOps",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:38",
     "ai_confidence": 28.1,
     "ai_mentions": 1.2,
     "ai_alignment": 2.9,
@@ -326,7 +326,7 @@
   "Deployment Frequency": {
     "resourceId": "Windows",
     "category": "Deployment Frequency",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:39",
     "ai_confidence": 26.59,
     "ai_mentions": 1.5,
     "ai_alignment": 3.8,
@@ -344,7 +344,7 @@
   "Complexity Thinking": {
     "resourceId": "Windows",
     "category": "Complexity Thinking",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:38",
     "ai_confidence": 15.846,
     "ai_mentions": 1.9,
     "ai_alignment": 2.8,
@@ -362,7 +362,7 @@
   "Minimum Viable Product": {
     "resourceId": "Windows",
     "category": "Minimum Viable Product",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:39",
     "ai_confidence": 7.1,
     "ai_mentions": 0.2,
     "ai_alignment": 0.7,
@@ -380,7 +380,7 @@
   "Azure Boards": {
     "resourceId": "Windows",
     "category": "Azure Boards",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:44",
     "ai_confidence": 12.95,
     "ai_mentions": 0.4,
     "ai_alignment": 1.0,
@@ -398,7 +398,7 @@
   "Kanban": {
     "resourceId": "Windows",
     "category": "Kanban",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:44",
     "ai_confidence": 6.733,
     "ai_mentions": 0.1,
     "ai_alignment": 0.4,
@@ -416,7 +416,7 @@
   "System Configuration": {
     "resourceId": "Windows",
     "category": "System Configuration",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:43",
     "ai_confidence": 71.85,
     "ai_mentions": 6.2,
     "ai_alignment": 8.7,
@@ -434,7 +434,7 @@
   "Scrum": {
     "resourceId": "Windows",
     "category": "Scrum",
-    "calculated_at": "2025-05-06T20:41:48",
+    "calculated_at": "2025-05-06T11:54:43",
     "ai_confidence": 11.288,
     "ai_mentions": 0.1,
     "ai_alignment": 0.7,
@@ -447,6 +447,24 @@
     "ai_penalty_details": "none",
     "final_score": 11.0,
     "reasoning": "Direct Mentions (0.1): The content does not mention 'Scrum' or any of its concepts, terms, or roles at all. The closest reference is to agile and DevOps practices, neither of which are synonymous with Scrum or exclusive to it.\nConceptual Alignment (0.7): The content is centered around the Windows operating system, not the Scrum framework. While there are some allusions to agile terminology (e.g., 'agile,' 'iterations,' 'feedback loops'), these are general and not tied to Scrum-specific principles or practices. At best, the topic is peripherally adjacent to agile project environments.\nDepth of Discussion (0.9): There is no substantive exploration of Scrum concepts, principles, or practices. Scrum is never mentioned and its key roles, events, or artifacts are entirely absent. The focus is exclusively on operating system management and its potential to support agile/DevOps workflows.\nIntent / Purpose Fit (0.8): The main purpose is to inform about Windows installation, configuration, and its importance in agile/DevOps organizational practices—not about Scrum. Its intent is tangential at best to the Scrum category.\nAudience Alignment (4.0): The content is targeted at IT professionals, system administrators, or development team members who work with Windows. This audience may overlap with Scrum practitioners in some organizations, but the content is not tailored for Scrum-specific audiences.\nSignal-to-Noise Ratio (0.6): Nearly all of the discussion is focused on Windows OS features, not on Scrum or its application. Scrum is not the central, secondary, or even tertiary subject in the content; virtually all content is off-topic for the category.\nLevel: Tertiary—the association is very weak, and only exists via indirect implications of agile-adjacent practices.\nNo penalties are applied because the content is not outdated or critical; it simply is not in scope for the Scrum category by the stated classification definition. The final confidence (11.288) properly reflects that this is almost entirely irrelevant for direct categorization under Scrum.",
+    "level": "Ignored"
+  },
+  "Scrum Master": {
+    "resourceId": "Windows",
+    "category": "Scrum Master",
+    "calculated_at": "2025-05-06T21:14:54",
+    "ai_confidence": 4.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.4,
+    "ai_intent": 0.3,
+    "ai_audience": 2.0,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is entirely focused on the Windows operating system, discussing its role in installation, configuration, troubleshooting, and its support for productivity in technical and agile work environments. Nowhere in the content is the Scrum Master role referenced, either directly or indirectly; the term does not appear, nor do any of the core responsibilities associated with that Scrum accountability. Thematic alignment to Scrum Master is extremely weak, at best tangential (mentions of supporting teams or agile practices are generic and framed around the OS, not the accountability). Depth is minimal, as there is no exploration of Scrum Master responsibilities, system impact, or role distinctions. The intent is to inform about Windows features and benefits, not Scrum Master duties. While a technical audience might include Scrum Masters, the target is broadly IT/engineering professionals, so the audience score is slightly higher; signal-to-noise is very low, as the content is off-topic for the 'Scrum Master' category. No penalty deductions are warranted as there is no outdated or contradicting tone. Overall, this content has virtually zero direct relevance or fitness for the 'Scrum Master' category.",
     "level": "Ignored"
   }
 }

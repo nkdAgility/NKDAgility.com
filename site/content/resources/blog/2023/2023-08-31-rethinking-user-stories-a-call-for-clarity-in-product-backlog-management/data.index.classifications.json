@@ -855,12 +855,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "E2aOGiRDnuG",
     "category": "Accountability",
-    "calculated_at": "2025-02-11T18:25:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the terminology and structure of product backlog management rather than accountability within Agile teams.",
+    "calculated_at": "2025-05-01T18:46:00",
+    "ai_confidence": 5.0,
+    "ai_mentions": 2,
+    "ai_alignment": 0.65,
+    "ai_depth": 0.45,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 5.0,
+    "reasoning": "The content discusses the terminology and clarity in product backlog management, specifically critiquing 'User Stories' and advocating for 'Product Backlog Items'. While it touches on concepts of clarity and communication, which relate to accountability, it primarily focuses on terminology and does not delve deeply into accountability structures or outcome ownership within work systems. It does mention roles like Product Owner in relation to clarity, which adds some relevance, but it lacks thorough discussion on how accountability shapes behavior or performance in a work system.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1362,7 +1371,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1494,15 +1503,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "E2aOGiRDnuG",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:29:18",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:46:20",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the terminology used in product development, specifically critiquing 'User Stories' and advocating for 'Product Backlog Items'. While it touches on themes of communication and clarity, it does not directly discuss Liberating Structures or their facilitation techniques. The discussion lacks depth regarding group dynamics or collaborative methods, which are central to the Liberating Structures category.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "While the content discusses Agile and product backlog management, it does not explicitly reference any Liberating Structures or provide specific facilitation techniques relevant to the category. The focus is on critique and suggestion regarding user stories versus product backlog items, which does not align with the facilitation methods outlined in the category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1757,5 +1772,23 @@
     "final_score": 45.0,
     "reasoning": "The content focuses on the terminology of 'User Stories' and suggests adopting 'Product Backlog Items' for clearer communication in product development. While it indirectly addresses Agile principles by discussing methodologies, such as Scrum and the implications of terminology in development processes, it does not delve deeply into the systemic application or maturation of disciplines like Agile or Lean. The primary focus is more on communication and terminology rather than a structured discussion of discipline as defined, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "E2aOGiRDnuG",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:46",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.0,
+    "ai_audience": 4.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses exclusively on the terminology and rationale for using 'Product Backlog Items' instead of 'User Stories' in product backlog management. There are no direct or indirect references to Service Level Expectation (SLE), nor to its calculation, definition, purpose, or use within Agile, Scrum, or Kanban contexts. There is no discussion of elapsed times, probabilities, cycle time analysis, or any other key SLE concepts. The main intent is language clarity, not delivery forecasting, predictability, or flow metrics. Although the intended audience (Agile practitioners and Scrum teams) overlaps with SLE audiences, the lack of SLE topic coverage results in very low alignment and depth scores. There is no outdated or contradictory information, so no penalties are warranted. The confidence score is extremely low as the content is wholly unrelated to SLE.",
+    "level": "Ignored"
   }
 }

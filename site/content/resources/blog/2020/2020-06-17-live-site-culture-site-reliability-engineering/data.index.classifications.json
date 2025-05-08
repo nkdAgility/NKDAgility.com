@@ -1356,7 +1356,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1763,6 +1763,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses agility and DevOps practices in the context of organizational change, which aligns partially with the notion of capability, but it mainly focuses on specific examples and practices rather than a broad discussion of enduring capabilities. The depth of the discussion related to sustaining quality and operational needs reflects a concern for capabilities, yet lacks detailed strategies or frameworks for developing systemic capabilities within teams.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "c_gS0nlQD9E",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 1.88,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0.5,
+    "ai_audience": 0.4,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.0,
+    "ai_penalty_details": "depth penalized (-1) for referencing outdated practices (describes a 2018 model in a rapidly evolving field) and acknowledging that team practices have changed since; other dimensions not eligible or already at minimum values.",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on Live Site Culture and Site Reliability Engineering within the context of DevOps and Agile practices. Nowhere is Service Level Expectation (SLE) mentioned directly, nor are SLE concepts such as forecasting elapsed time, probability ranges, or SLE usage as defined by the category guideline. While there is generic discussion of agility, feedback loops, sprint cycles, and accelerated delivery, these are not specifically tied to defining, calculating, or applying SLE within Scrum or Kanban frameworks. The closest related topics (cycle time, deployment frequency) are discussed only in broad DevOps/continuous delivery terms and not within the SLE conceptual framework. The audience (engineering/DevOps practitioners) is somewhat adjacent to the SLE audience, but the match is tenuous since SLE is not referenced and the main purpose is to showcase a specific team's model for agility rather than explain or analyze SLE. A penalty is applied for referencing a 2018 organizational snapshot in a field where best practices develop quickly, reinforcing that the discussion is point-in-time and possibly outdated. As a result, very low scores are warranted across all dimensions, reflecting almost no substantial fit with the SLE category.",
     "level": "Ignored"
   }
 }

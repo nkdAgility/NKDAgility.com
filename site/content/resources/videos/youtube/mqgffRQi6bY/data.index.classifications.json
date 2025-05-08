@@ -1299,7 +1299,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1693,6 +1693,24 @@
     "non_ai_confidence": null,
     "final_score": 20.0,
     "reasoning": "The content critiques the use of LEGO as a tool for Scrum training, focusing on the oversimplification of complex realities in software development. While it mentions the importance of understanding complexity and suggests fostering a more realistic approach to training, it does not explicitly discuss the enduring competencies or capabilities that empower teams. The emphasis is more on tools and metaphors rather than cultivating systemic capabilities within an organization. Thus, while there are brief mentions of complexity and training alignment, they do not thoroughly address the Capability category's core themes.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "mqgffRQi6bY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:47",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 3.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content critiques the use of Lego in Scrum training, focusing on how Lego oversimplifies the complexity of real-world software development. It discusses issues with metaphors, realism, and effective training exercises, with an audience clearly interested in Scrum practices. However, at no point does the content mention Service Level Expectation (SLE), its calculation, its purpose, or use within Agile contexts. Cycle time, lead time, probability forecasts, or SLE establishment are entirely absent. The discussion, while relevant to Scrum, never crosses into the definition, application, or improvement of SLE in any way. Therefore, zero points are awarded for direct mentions. Conceptual alignment, depth, and signal are all very low due to lack of any SLE reference, scoring just above minimum due to some relevance to Scrum training complexity. Intent is slightly higher as the content does align with a practitioner audience, but again, the main intent is critique of a training method, not advancing SLE. The audience is moderately aligned as Scrum trainers might be interested in SLE, but the content does not address SLE topics. Signal is very low since content is on-topic for its actual focus but unrelated to SLE. No penalties were applied as the content is not outdated or satirical and doesn't contradict the SLE category (it simply ignores it). The overall confidence is extremely low and accurately reflects the near-total absence of SLE discussion.",
     "level": "Ignored"
   }
 }

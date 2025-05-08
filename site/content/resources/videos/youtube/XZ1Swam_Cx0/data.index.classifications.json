@@ -1269,7 +1269,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1663,6 +1663,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the negative impact of fake agilists on the Agile methodologies, emphasizing the importance of real-world experience over certification. While it mentions the concepts of leadership and team dynamics, it does not provide a thorough exploration of capabilities as defined, such as strategies for developing enduring competencies or the relationship between capabilities and continuous improvement. The discussion is more centered on consequences and personal experiences rather than the cultivation of capabilities, leading to a low confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "XZ1Swam_Cx0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:42",
+    "ai_confidence": 3.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.0,
+    "ai_intent": 3.1,
+    "ai_audience": 7.2,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.4,
+    "ai_penalty_details": "alignment: -0.7 for strong critical tone undermining category's framing; depth: -1.0 for lack of substantive discussion and zero actual SLE content; intent: -0.7 for off-purpose, largely critical and not directly addressing SLE",
+    "final_score": 3.0,
+    "reasoning": "The content does not mention 'Service Level Expectation' (SLE) directly, nor is there any reference to its calculation, purpose, or associated practices within Agile, Scrum, or Kanban. The main theme is a critical commentary on 'fake agilists' and the value of experience over certification, which is tangential to SLE and does not align with the key topics or category intent. No section covers flow metrics, cycle time, or predictability in terms of service level expectations. While the audience overlaps (practitioners, Agile/Scrum/DevOps professionals), the discussion is generic and not targeted at those interested in SLE methodology. None of the discussion addresses SLE, its relevance, or its practices, and there are no references to authoritative sources or examples. The content is largely off-topic for SLE, with only minimal theoretical overlap via audience. Several penalty points were applied: critical tone that could undermine category framing, no substantive depth on SLE, and intent focused on credential skepticism rather than on Agile improvements related to SLE. As a result, all core dimensions are low or zero, with proportionate deduction. The overall confidence is very low, reflecting near-total irrelevance.",
     "level": "Ignored"
   }
 }

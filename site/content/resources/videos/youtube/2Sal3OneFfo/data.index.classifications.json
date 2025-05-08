@@ -1278,7 +1278,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1672,6 +1672,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the migration process to Azure DevOps, discussing tools and immediate techniques rather than enduring capabilities. While there is a brief mention of enhanced collaboration and productivity, it lacks depth in discussing systemic capabilities that contribute to long-term organizational growth in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2Sal3OneFfo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:42",
+    "ai_confidence": 2.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 0.3,
+    "ai_audience": 0.4,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on technical and process aspects of migrating to Azure DevOps, including tools, planning, and execution tips. There is zero direct mention or reference to Service Level Expectation (SLE), nor does it discuss any SLE-related concepts such as forecasting delivery timelines, probability-based completion ranges, or application of SLE within Agile, Scrum, or Kanban frameworks. The alignment with the SLE category is extremely low; at best, there is a tangential link to workflow process improvement, but nothing directly or indirectly addresses SLE, its calculation, application, or value. The audience is practitioners of DevOps migration — not specifically Agile, Scrum, or Kanban teams interested in flow predictability or SLE. The signal-to-noise ratio, for SLE purposes, is poor due to a complete lack of topic relevance. Scores reflect the bare minimum possible for a highly unrelated piece of content.",
     "level": "Ignored"
   }
 }

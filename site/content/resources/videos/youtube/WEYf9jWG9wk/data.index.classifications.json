@@ -1401,7 +1401,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:40:02",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1796,5 +1796,23 @@
     "final_score": 72.0,
     "reasoning": "The content focuses on how adopting smaller features and a culture of experimentation enhances software development, directly discussing capabilities such as flexibility, customer-centric development, and the iterative learning process. While it does mention practical approaches and examples of experimentation, it primarily revolves around a mindset shift rather than detailing enduring capabilities cultivated within an organization. It provides substantial depth regarding the benefits and impacts of these practices, aligning well with the themes of capability development but remains slightly more tactical than strategic.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "WEYf9jWG9wk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:41",
+    "ai_confidence": 18.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.7,
+    "ai_intent": 3.1,
+    "ai_audience": 5.0,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on improving software delivery by adopting small experiments and frequent feedback, but never directly references Service Level Expectation (SLE) as a concept. The ideas of smaller features, faster delivery, experimentation, and continuous learning are generally aligned with Agile and Kanban values, which relate peripherally to concepts underlying SLE, such as predictability and cycle time. However, at no point does the article mention SLE, its calculation, its probability/range basis, its specific connection to workflow predictability, or any authoritative Kanban/Scrum source material. There is modest conceptual overlap in that faster cycle times and smaller work items can influence SLEs, but none of these links are drawn or discussed — no SLE definitions, applications, or explicit advice. The audience (practitioners of software/product development) loosely matches the target for SLE guidance, but the focus is entirely on changing team attitudes and delivery cadence, not on establishing, using, or improving an SLE. The signal-to-noise ratio is adequate, but most of the signal is about product strategy and experimentation rather than explicit flow predictability or measurement. Thus, the overall confidence the content fits specifically under 'Service Level Expectation' is very low.",
+    "level": "Ignored"
   }
 }

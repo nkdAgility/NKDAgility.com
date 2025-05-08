@@ -1275,7 +1275,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1682,6 +1682,24 @@
     "non_ai_confidence": null,
     "final_score": 14.0,
     "reasoning": "The content primarily focuses on the practical steps to migrate projects from Codeplex to GitHub, discussing tools and methods rather than on enduring competencies or capabilities that support organizational value delivery. There are minimal mentions of systemic capabilities, and the discussion lacks depth on how these processes enhance business agility, team dynamics, or continuous improvement practices.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:10",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 0.0,
+    "ai_signal": 0.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is a detailed, step-by-step guide for migrating source code and wikis from Codeplex to GitHub. At no point does it mention Service Level Expectation (SLE), discuss workflow predictability, reference historical cycle times, or address any Agile, Scrum, or Kanban concepts related to SLE. There are no direct or indirect mentions, nor any alignment in purpose, audience, or content depth with the SLE category. As a result, all scoring dimensions are zero, and the calculated confidence score is 0.0, precisely reflecting the absence of any relevant material.",
     "level": "Ignored"
   }
 }

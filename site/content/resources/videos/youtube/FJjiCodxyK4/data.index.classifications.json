@@ -1377,7 +1377,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1772,5 +1772,23 @@
     "final_score": 42.0,
     "reasoning": "The content discusses Agile Consulting versus Agile Coaching, focusing on the importance of internal leadership and sustainable change. While it mentions concepts like empowering teams and enduring change, it primarily revolves around the roles of Agile Consultants and Coaches rather than a detailed exploration of capabilities within Agile contexts. The discussion is also somewhat superficial regarding the core themes of capabilities, falling short of a deep dive into development and measurement. Overall, the content touches on Capability but is not its primary focus.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "FJjiCodxyK4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.2,
+    "ai_audience": 2.1,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on the distinctions between agile consulting and agile coaching, with an emphasis on leadership, mindset, internal transformation, and building self-sufficiency in organizations. Nowhere does it mention, discuss, or even allude to Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban contexts. There are no direct references to SLE, nor are there discussions of forecasting cycle times, elapsed days with probability, or improvements to flow metrics in a way that targets SLE. The main ideas center on consultancy philosophy, organizational change, and coaching models rather than delivery metrics or forecasting techniques. The only marginal relevance is that 'continuous improvement' is mentioned in a general sense, but not in relation to SLE concepts. The intended audience is similar—agile practitioners, leaders, teams—which slightly raises the audience score. Signal-to-noise is low for SLE due to dense off-topic content. No penalties were needed as there is no evidence of outdated references or negative tone toward the category, but the confidence score remains extremely low because the content simply does not fit the Service Level Expectation category by definition.",
+    "level": "Ignored"
   }
 }

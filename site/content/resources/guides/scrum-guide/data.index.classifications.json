@@ -1389,7 +1389,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:41:26",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
@@ -1783,6 +1783,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "While the content touches on the capabilities associated with Scrum, such as fostering team autonomy and adaptability, the primary focus is on roles, rules, and definitions within the Scrum framework. The discussion of Scrum Masters and Product Owners does not delve into the enduring competencies that empower organizations in a sustainable manner, which is crucial for the Capability category. Therefore, the content aligns only marginally with the Capability theme.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "59gcHh1fYtC",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:46",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 1.1,
+    "ai_audience": 8.1,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is the official Scrum Guide and comprehensively describes the Scrum framework, its values, events, artifacts, and roles. Nowhere in the content is Service Level Expectation (SLE) explicitly mentioned, nor is there any indirect discussion or explanation of SLE concepts (such as forecasting cycle time with probability, or using historical data to project a delivery window). While predictability and adaptation are described at a generic level, none of this is tied to SLE as defined in Kanban, Scrum with Kanban, or in any recognized SLE authoritative context. There are mentions of forecasting, cadence, and the roles of transparency and inspection, but these are in the context of team process and not as formulas or policies like SLE. No mention of how to calculate or apply SLE, no reference to elapsed time ranges with probabilities, and no reference to Daniel Vacanti, Reinertsen, or the Kanban Guide for Scrum Teams is present. The intent and audience align with Scrum practitioners, but the main topic is unrelated to SLE. Therefore, the Direct Mentions, Alignment, and Depth scores are all zero, with small nonzero scores for Intent (being informative in a related domain), Audience (Scrum teams, relevant), and Signal (high focus, even though irrelevant to SLE). No penalties are needed, and the final confidence is correctly calculated as zero.",
     "level": "Ignored"
   }
 }

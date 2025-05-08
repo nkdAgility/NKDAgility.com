@@ -1251,7 +1251,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1658,6 +1658,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "While the content discusses scaling agility and mentions key practices, its primary focus is on Scrum roles and techniques rather than on enduring capabilities. The insights provided are more about transient practices and metrics in scaling processes, lacking an emphasis on cultivating systemic capabilities within teams or organizations.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "OCJuDfc-gnc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 8.26,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 0.8,
+    "ai_audience": 3.1,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on scaling agility, Scrum, Nexus, metrics, virtual training, and cross-cultural experience in Agile and DevOps. Nowhere does it mention Service Level Expectation (SLE) directly, nor does it address SLE's definition, components, calculation, or specific application. While 'metrics that matter' are mentioned, there is no direct or implied reference to SLE, nor are its unique aspects (elapsed time range, probability, use in flow, predictability, etc.) discussed or alluded to. The audience is generally aligned (practitioners in agile/Scrum/Kanban), but the content is not relevant to SLE; its signal-to-noise ratio on SLE is very low. No penalties were applied since the content is current and non-critical. The final confidence score is very low and reflects that this content is not a fit for the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

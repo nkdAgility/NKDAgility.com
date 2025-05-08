@@ -1395,7 +1395,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 67.0,
     "ai_mentions": 15.0,
@@ -1790,5 +1790,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the importance of optimising systems and addressing technical debt, which are integral to developing capabilities within an organisation. It highlights how these practices can enhance productivity and innovation, aligning with the category's focus on enduring competencies. However, it primarily revolves around practical issues of system optimisation and does not deeply delve into the broader concept of capabilities or strategies for embedding them, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "zqMzD1PXq4s",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:29",
+    "ai_confidence": 2.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.5,
+    "ai_intent": 2.7,
+    "ai_audience": 5.5,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on increasing productivity, reducing technical debt, the value of system optimisation, and examples from organisations like Microsoft/Azure DevOps. Nowhere is Service Level Expectation (SLE) mentioned or alluded to, either directly or through the discussion of its components (elapsed time ranges, probability, or using SLE as a forecast of cycle time within Agile/Kanban/Scrum frameworks). While the article alludes to improving delivery cadence and removing system bottlenecks, it does so from a general engineering and technical leadership standpoint rather than within the SLE context. The audience overlaps somewhat (engineering leaders, Agile practitioners), but the main concepts and depth of discussion are not about SLE or its application. There are no outdated or penalty-worthy elements present. The very low confidence score reflects a near-total absence of SLE-aligned content, well below the required conceptual and definitional relevance for this classification.",
+    "level": "Ignored"
   }
 }

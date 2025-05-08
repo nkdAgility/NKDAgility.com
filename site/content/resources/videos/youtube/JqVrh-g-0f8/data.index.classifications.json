@@ -1347,7 +1347,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1742,5 +1742,23 @@
     "final_score": 88.0,
     "reasoning": "The content directly focuses on the concept of the product backlog, which is a key artifact in Agile and Scrum practices. It discusses the characteristics of both a poor and an ideal product backlog, which relates to the purpose and role of artifacts in facilitating transparency and effective team coordination. The content provides substantial detail regarding what constitutes a good product backlog and why it is essential for successful project management, aligning closely with the definition and characteristics of artifacts. However, it does not delve deeply into best practices or the evolution of such artifacts, which slightly lowers its depth score. Overall, this article provides a focused examination of the product backlog as an artifact, justifying a high confidence score.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "JqVrh-g-0f8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:00",
+    "ai_confidence": 5.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.2,
+    "ai_intent": 1.4,
+    "ai_audience": 0.6,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content exclusively discusses characteristics of effective and ineffective product backlogs within Agile and Scrum settings. There is no direct or indirect reference to Service Level Expectation (SLE), nor is there discussion relating to forecasting cycle time, elapsed time ranges, probabilities, or the transparency of time-based expectations for work completion. The themes and tips center on backlog ordering, clarity, prioritization, and team understanding. While addressed to an Agile audience, there is zero alignment with the purpose or substance of the SLE classification. All dimension scores are very low: there are no direct mentions (0.0); minimal conceptual overlap due to both being in an Agile context, but no SLE relevance (1.9); surface-level, non-SLE depth (1.2); intent is not SLE-focused (1.4); audience is similar but non-specific (0.6); and almost all content is off-topic for SLE (0.7). No penalties are applied since there is no outdatedness or contradiction, simply a lack of relevance. Final confidence is extremely low and proportional to the lack of fit.",
+    "level": "Ignored"
   }
 }

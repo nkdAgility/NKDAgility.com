@@ -1326,7 +1326,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1720,6 +1720,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "While the content discusses the Scrum Master's role and their importance in facilitating team dynamics and organizational change, it primarily focuses on specific roles and functions of Scrum Masters rather than a broader discussion on enduring capabilities. The content mentions elements of team fit, relationship-building, and navigating organizational impediments, but these are tied to the individual role rather than systemic capabilities. The discussion lacks the depth necessary to critically evaluate capabilities as long-term strategies that enhance organizational performance, making 'Capability' a secondary theme in this context.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "rHFhR3o849k",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content focuses entirely on the attributes, influence, and impact of Scrum Masters within teams and organizations. While the article is relevant to Agile and Scrum practitioners, there are no direct or indirect mentions of Service Level Expectation (SLE), nor any coverage of its definition, calculation, or practical application. The discussion centers on team dynamics, relationship-building, and organizational change – all separate from the core themes of SLE. None of the key topics listed in the category’s scope are addressed, and there is no mention of cycle time analysis, elapsed time forecasting, or probability-based delivery prediction as defined for SLE. The only minor, indirect overlap is that effective Scrum Masters may, in principle, foster conditions where predictability (a generalized Agile concept) improves, but the text never links this to SLE specifically. The audience alignment score is marginally higher since both the article and SLE guidance target Agile practitioners, but the content signal for SLE is almost nonexistent.",
     "level": "Ignored"
   }
 }

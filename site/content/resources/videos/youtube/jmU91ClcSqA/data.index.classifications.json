@@ -243,12 +243,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "jmU91ClcSqA",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the history and evolution of project management tools, with no focus on accountability or Agile concepts.",
+    "calculated_at": "2025-05-02T04:20:27",
+    "ai_confidence": 1.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses project management in a historical context and emphasizes tools like Gantt charts. While it briefly touches on Agile and Scrum, it does not specifically address accountability in work systems, roles, or outcome ownership, which are central to the 'Accountability' category. Instead, it focuses on general project management practices and their evolution.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -723,12 +732,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "jmU91ClcSqA",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:25:21",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the historical context and evolution of project management, without a central emphasis on strategy within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-02T04:20:09",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the definition and historical context of project management rather than on strategic discussions. While it briefly touches on the importance of evolving practices to meet modern business needs, it does not engage with strategic frameworks or alignment of objectives that would be necessary for a strong connection to the 'Strategy' category. As such, the direct mentions are low, while alignment with strategic themes is minimal, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1257,7 +1275,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1389,15 +1407,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "jmU91ClcSqA",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:03:11",
-    "ai_confidence": 5.0,
+    "calculated_at": "2025-05-02T04:20:10",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 5.0,
-    "reasoning": "The content primarily focuses on the history and evolution of project management, with no direct mention of Liberating Structures or their principles. While it touches on Agile and Scrum, it does not discuss facilitation techniques or group dynamics related to Liberating Structures, leading to a very low confidence score.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the history and evolution of project management, with a focus on traditional tools like the Gantt chart. While it mentions Agile and Scrum, it does not explore Liberating Structures or any specific facilitation techniques related to team interactions. There are no direct mentions of Liberating Structures, and the discussion lacks alignment and depth regarding the key topics associated with this category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1651,6 +1675,24 @@
     "non_ai_confidence": null,
     "final_score": 38.0,
     "reasoning": "The content discusses project management and its historical evolution but mainly focuses on specific tools and techniques (like Gantt charts) rather than delving into the structured principles and methodologies characteristic of a discipline. Although Agile and Scrum are mentioned, they are not explored in the depth necessary to classify the content as primarily about discipline. The primary focus is on project management as a process and its tools rather than the broader principles or governance structures that would align it more closely with the discipline category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "jmU91ClcSqA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:04",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is an introductory overview of the history and evolution of project management, with emphasis on traditional methods (such as the Gantt chart) and a general reference to Agile and Scrum courses. There is no mention—explicit or indirect—of Service Level Expectation (SLE) or its concepts as defined in the given category. No discussion of cycle/cadence forecasting, probability ranges, or Kanban/Scrum SLE metrics is present. The thematic focus is historical background and basic principles, not work item flow, predictability, or Agile delivery metrics. Audience might partially overlap (Agile practitioners), but there is no substantive intent, focus, or direct content relevant to SLE. Signal-to-noise is low regarding the SLE category; dimension scores are lowest for direct mentions (none), alignment, depth, and signal, with marginally higher scores for intent and audience due to the Agile reference. No penalties were applied, as there is no outdated information or contradicting tone.",
     "level": "Ignored"
   }
 }

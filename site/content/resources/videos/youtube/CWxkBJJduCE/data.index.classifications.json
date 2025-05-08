@@ -1320,7 +1320,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:41:20",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
@@ -1714,6 +1714,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses TDD and pair programming, both of which can relate to enhancing capabilities in software development. However, the main focus is on specific practices and techniques rather than on enduring competencies that empower teams or organizations at a systemic level. While there is some mention of building sustainable architectures and improving team skill sets, it lacks a comprehensive exploration of how these methods embed capabilities within organizational processes. The discussion is more about immediate practices than about long-term organizational capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:41",
+    "ai_confidence": 2.895,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 4.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is entirely focused on the benefits and practices of test-driven development (TDD) and pair programming in improving software architecture and team productivity. There are no direct mentions or even implicit references to Service Level Expectation (SLE), its calculation, application, or impact on Agile, Scrum, or Kanban workflows. No discussion of cycle time ranges, probability, or any flow metrics tied to SLE concepts is present. The alignment and depth are very low because the article never touches upon SLE, sticking only to developer-focused process improvements. The intent is to advocate for quality and maintainability through specific XP/Agile practices, not to inform readers about SLE or its value. The content is, however, targeted to a technical practitioner audience, which loosely overlaps with SLE's intended audience, but the signal is low for the specific category in question. The very low confidence score accurately reflects near-total absence of relevant category signals.",
     "level": "Ignored"
   }
 }

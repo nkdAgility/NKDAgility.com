@@ -1374,7 +1374,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1506,15 +1506,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "XdzGxK1Yzyc",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:00:53",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:11",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Product Owner within Agile and Scrum frameworks, discussing responsibilities and strategic importance. However, it does not mention Liberating Structures or their facilitation techniques, nor does it explore themes of inclusive engagement or collaborative decision-making that are central to Liberating Structures. The discussion is more aligned with traditional Agile roles rather than the principles of Liberating Structures, leading to a low confidence score.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the role of a Product Owner in Agile and Scrum, discussing accountability, value maximization, and alignment within teams. There are no direct mentions of Liberating Structures or specific facilitation techniques. Although some themes related to team dynamics and alignment appear, the depth of discussion is shallow and does not provide practical examples or methods from the Liberating Structures toolkit.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1769,5 +1775,23 @@
     "final_score": 48.0,
     "reasoning": "The content primarily focuses on the role of a Product Owner in the context of Agile and Scrum methodologies. While it discusses responsibilities and values related to these disciplines, it lacks a deeper exploration of the principles, governance, and continuous improvement aspects that define 'Discipline' as outlined. The detailed explanation of the Product Owner's role does not explicitly establish a connection to the systemic application or maturation of a discipline; therefore, the confidence score reflects a moderate alignment with the category 'Discipline'.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "XdzGxK1Yzyc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 1,
+    "ai_signal": 1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses exclusively on the Product Owner role in Scrum and Agile, exploring accountabilities, value maximization, alignment, and leadership responsibilities. There is no mention or reference to Service Level Expectation (SLE), its definition, calculation, or application. The material addresses topics such as vision, strategy, and product direction but does not discuss workflow predictability, elapsed time forecasts, or Kanban/Scrum flow metrics as required for SLE. No direct, indirect, or tangential references to SLE are present, nor does the content address related audience concerns. Scores for all SLE dimensions remain at zero except a minimum value of 1 for audience and signal, as the audience may partially overlap and the content is focused (though off-topic). No penalties are applied, and the confidence score appropriately reflects the absence of content relevant to the SLE category.",
+    "level": "Ignored"
   }
 }

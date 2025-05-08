@@ -1341,7 +1341,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1735,6 +1735,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the distinction between the roles of a Scrum Master and an Agile Coach. While it hints at the importance of experience and knowledge in implementing Agile practices, it does not explicitly discuss the enduring competencies or capabilities that empower teams. The mention of 'embedding Agile practices' suggests some conceptual alignment with capability, but the focus remains on the roles and their differences rather than a deep exploration of capabilities themselves. Overall, the content lacks a strong emphasis on capability as defined in the classification criteria.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "54-Zw2A7zEM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:53",
+    "ai_confidence": 2.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 8.1,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content exclusively focuses on comparing the roles and experience differentiation between a Scrum Master and an Agile Coach. Nowhere does it directly reference, mention, or imply the concept of Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban frameworks. There are some vague allusions to the application of agile practices, but none specifically pertain to SLE calculation, definition, or relevant use cases. The depth, alignment, and intent scores are therefore extremely low, as the material is not topically related except in the broad sense that SLE sometimes sits under Agile, but isn't addressed here at all. The audience (agile practitioners, organizational leaders) is consistent with those who might be interested in SLE, so the audience score is higher, and the signal is moderate because the content is focused and not noisy—but off-topic for this strict category. No penalties were applied, as the content is current and not adversarial. The overall confidence is appropriately very low for valid classification under 'Service Level Expectation.'",
     "level": "Ignored"
   }
 }

@@ -1359,7 +1359,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1767,5 +1767,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the evolution of Agile and emphasizes the importance of developing organizational agile capabilities rather than just implementing Agile practices within teams. It highlights the need for leadership involvement and a shift from traditional management styles, which aligns well with the category of Capability. The exploration of creating environments that facilitate adaptability and responsiveness further strengthens its relevance. However, while the themes of capability development and organizational performance are present, there is also a significant focus on Agile roles and frameworks, which detracts from the depth solely focused on capability.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "QgPlMxGNIzs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 2.63,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 2.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is a general discussion about the evolution of Agile since 2001, focusing on shifts in hierarchy, leadership, agile values, and organization culture. It does not directly mention Service Level Expectation (SLE) or any of its key components such as cycle time ranges, probabilities, or predictability forecasts in the Kanban/Scrum context. There are no explanations, calculations, or references to SLE practices or authoritative sources about SLE. While the audience overlaps somewhat (agile practitioners), the main purpose is not aligned with SLE, and mentions are almost non-existent. The content’s signal-to-noise ratio is low for this category because SLE is not addressed. No penalty deductions apply as the content is neither outdated nor critical of the category. The very low confidence score appropriately reflects the fact that the article is nearly unrelated to Service Level Expectation, despite being agile-themed.",
+    "level": "Ignored"
   }
 }

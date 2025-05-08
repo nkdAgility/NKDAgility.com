@@ -1296,7 +1296,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1690,6 +1690,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily discusses the importance of language and transparency in Agile environments but does not explicitly define or explore the concept of capabilities. While there is a slight conceptual overlap with Agile practices, the focus is very limited and does not delve into the enduring competencies that enable teams to deliver value. Therefore, the confidence score reflects minimal relevance to the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "pGqagcI_q5y",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:35",
+    "ai_confidence": 9.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 2.0,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is a general podcast episode description focused on the importance of language, transparency, and communication in the agile context. Nowhere does it directly mention 'Service Level Expectation' (SLE), nor does it implicitly refer to the calculation, definition, application, or improvement of SLE within Agile, Scrum, or Kanban. There is zero reference to SLE-associated topics such as cycle time forecasts, probabilities, or authoritative SLE sources. Though the audience is agile practitioners (which slightly raises the audience score), the discussion is off-topic with regards to SLE, and the signal-to-noise is very low for this category. As such, the confidence score reflects only an extremely remote chance that an SLE discussion might be present, but there is no direct or indirect evidence to justify classification under this category.",
     "level": "Ignored"
   }
 }

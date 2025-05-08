@@ -1320,7 +1320,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1714,6 +1714,24 @@
     "non_ai_confidence": null,
     "final_score": 20.0,
     "reasoning": "The content discusses the integration of DevOps and Agile, emphasizing their synergies and perspectives rather than focusing on the enduring competencies or capabilities that empower organizations. While it touches on themes of cooperation and strengths, it does not provide a substantive discussion on capabilities themselves, which diminishes the relevance to the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Gtp9wjkPFPA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:54",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.9,
+    "ai_intent": 1.3,
+    "ai_audience": 3.6,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content discusses the integration of DevOps and Agile, focusing on their philosophies and complementary strengths. There is no explicit or implicit mention of Service Level Expectation (SLE), its calculation, purpose, or role in Agile/Kanban/Scrum. None of the SLE key topics (cycle time forecasts, probabilities, transparency of delivery timelines, or references to authoritative SLE sources) are present. The content is broadly suitable for Agile/DevOps beginners or enthusiasts but not specifically practitioners interested in SLE. The signal-to-noise ratio is low for the SLE category, as the content is entirely focused on synergies between DevOps and Agile at a high level. No penalties were applied, as there are no obsolete references or contradictory framing. The confidence score is very low, accurately reflecting the complete lack of alignment with the SLE category.",
     "level": "Ignored"
   }
 }

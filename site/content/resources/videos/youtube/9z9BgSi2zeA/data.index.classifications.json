@@ -1332,7 +1332,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1727,5 +1727,23 @@
     "final_score": 47.0,
     "reasoning": "The content discusses the characteristics and traits necessary for hiring an Agile coach, emphasizing the importance of bridging the gap between technical teams and leadership, which speaks to the role of developing enduring capabilities within organizations. However, the primary focus is on roles and the hiring aspect rather than an in-depth exploration of capabilities as defined in the category guidelines. While it mentions how an Agile coach can drive transformation and align practices with business outcomes, it is more about specific roles rather than systemic capabilities cultivated over time. This results in a moderate confidence score, as it partially aligns with the category but lacks depth in discussing capability development itself.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "9z9BgSi2zeA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:37",
+    "ai_confidence": 1.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.8,
+    "ai_audience": 1.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content focuses entirely on hiring Agile coaches, emphasizing traits such as technical understanding, leadership engagement, business acumen, and cultural fit. Nowhere does it directly or indirectly mention Service Level Expectation (SLE), its definition, calculation, or application. There is no reference to SLE as a delivery forecasting tool, probability-based time range, or associated improvement practices. The main ideas, depth, and purpose center on the competencies needed in Agile coaching rather than team delivery metrics or workflow predictability. There are no audience mismatches or outdated practices, so no penalties are applied. The very low confidence reflects the near-complete absence of SLE-relevant concepts; any vague alignment (e.g., vaguely impacting delivery) is incidental rather than intentional and is not explored or named. These factors justify a very low confidence score.",
+    "level": "Ignored"
   }
 }

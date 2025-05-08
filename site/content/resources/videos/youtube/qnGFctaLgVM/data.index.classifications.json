@@ -249,12 +249,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "qnGFctaLgVM",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T19:00:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Russell's qualifications and experience as a trainer, rather than discussing accountability within Agile teams.",
+    "calculated_at": "2025-05-01T18:45:44",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.03,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content briefly discusses Russell's role as a Professional Scrum Trainer and mentions Product Ownership but does not focus on accountability as a mechanism in work systems. It lacks explicit discussions on outcomes, structural accountability, or the influence of defined accountabilities on performance, which are core themes of the accountability category. The content predominantly promotes Russell's course without delving into how accountability shapes behavior in a work environment.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -735,12 +744,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "qnGFctaLgVM",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T19:01:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the qualifications and experiences of a trainer rather than strategic approaches within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-01T18:45:50",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on promoting Russell as a trainer for a PSPO course, detailing his experience and the value he brings to Product Ownership. While it touches on concepts like 'value maximization' and 'strategies that enhance the product,' it does not explicitly discuss high-level strategy formation or alignment with organisational goals as outlined in the category definition. The mentions of strategy are more anecdotal and do not contribute to a robust discussion of strategic frameworks or decision-making. Overall, the content lacks deep engagement with the core themes of strategy.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1281,7 +1299,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:57:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1413,15 +1431,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "qnGFctaLgVM",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:33:59",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:45",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on promoting Russell as a Professional Scrum Trainer and does not mention Liberating Structures or discuss facilitation techniques. While it touches on themes relevant to Agile and product ownership, it lacks any direct references to the principles or methods of Liberating Structures, resulting in a low confidence score.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses Russell's qualifications and teachings in relation to Product Ownership and the PSPO course but does not mention or incorporate any specific Liberating Structures. While it alludes to engagement and learning strategies, it lacks explicit discussion or application of techniques that fall under the Liberating Structures category. The focus is primarily on an individual's background and philosophy rather than structured facilitation methods.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1675,6 +1699,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content discusses Russell's qualifications and philosophy regarding his PSPO course, which is related to Product Ownership and Agile practices. However, it strongly focuses on his personal expertise and the benefits of the course rather than on the structured principles, methodologies, and shared standards that define a discipline. The mention of principles like 'value maximization' shows some alignment, but the depth of discussion is limited and lacks a systemic view of the discipline of Agile. Therefore, while it includes some relevant themes, it does not sufficiently concentrate on the definition and characteristics of a discipline as outlined in the provided category description.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "qnGFctaLgVM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:49",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.2,
+    "ai_intent": 0.1,
+    "ai_audience": 0.8,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a promotional testimonial and endorsement for a Professional Scrum Product Owner (PSPO) course and the trainer, Russell. There is no direct mention or reference to Service Level Expectation (SLE) or its core concepts such as forecasting cycle time, probability ranges, or related Agile metrics. The alignment is almost nonexistent, as the themes are centered on teaching, mentorship, product ownership, and professional experience, not on quantifying or improving lead time predictability. The depth and intent also score extremely low, as there is zero substantive or even tangential discussion of SLE practices, calculations, or application. Audience alignment is slightly higher only because practitioners interested in PSPO topics might overlap with those interested in SLE, but there is no targeted SLE content here. The signal-to-noise ratio is very low for the SLE category, as all content is unrelated to SLE and is instead product or instructor promotion. Therefore, confidence is extremely low and proportionate to the total lack of relevance.",
     "level": "Ignored"
   }
 }

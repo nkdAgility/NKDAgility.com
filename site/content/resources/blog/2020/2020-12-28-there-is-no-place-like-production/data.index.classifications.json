@@ -1362,7 +1362,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:32",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
@@ -1769,6 +1769,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses the importance of real user feedback and validation of features in production, which touches on capabilities related to understanding user needs and delivering value effectively. However, it lacks a deep exploration of how these practices become integrated capabilities within an organization. While there are mentions of measuring value and recognizing indicators, the focus remains on tools and techniques rather than enduring competencies that embody the concept of capability in an organizational context.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "KUJ7jHOGqP7",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:13",
+    "ai_confidence": 4.22,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.4,
+    "ai_intent": 0.8,
+    "ai_audience": 0.5,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "There are no explicit or even indirect references to Service Level Expectation (SLE) or its calculation, purpose, or application. The content is focused entirely on the value of production releases, real user feedback, validation, and business impacts of timely delivery, but never mentions or aligns with the specific concepts of SLE, such as cycle time forecasting, probability-based time ranges, continuous improvement driven by SLE, transparency of delivery timelines, or any of the authoritative sources listed. The closest tangentially related idea is the urgency of delivering value to production quickly, but this is framed in terms of value realization and organizational finance, not in terms of forecasting work item flow or measurable predictability improvements for Agile teams. No Agile, Scrum, or Kanban SLE terminology or methodology is present. Therefore, all dimension scores are extremely low, with only minimal points given for vague tangential alignment (emphasis on 'getting work into production') and a technical/practitioner audience. No penalties are necessary as the content is neither outdated nor satirical.",
     "level": "Ignored"
   }
 }

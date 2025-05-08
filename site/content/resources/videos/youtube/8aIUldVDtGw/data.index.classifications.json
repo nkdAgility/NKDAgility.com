@@ -1371,7 +1371,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:05",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1766,5 +1766,23 @@
     "final_score": 48.0,
     "reasoning": "The content discusses the importance of focusing on finishing tasks, which aligns with enhancing team effectiveness—a key aspect of developing capabilities. However, much of the discussion revolves around roles (like the Product Owner) and practices rather than the enduring competencies themselves. Some strategies for limiting work in progress are mentioned, but the overall depth regarding capability development is limited, leaning more towards practices and immediate productivity concerns.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "8aIUldVDtGw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:18",
+    "ai_confidence": 11.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.3,
+    "ai_intent": 1.8,
+    "ai_audience": 2.5,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content thoroughly discusses the value of limiting work in progress, finishing work before starting new tasks, and reducing cycle time, all of which are important topics in Lean, Scrum, and Kanban. However, the post never directly mentions Service Level Expectation (SLE), nor does it discuss SLE's definition, calculation, probabilistic forecasting, or its use for improving transparency or predictability as per the category definition and scoring dimensions. Cycle time is referenced, but only as a generic flow metric, not in relation to SLE. The closest conceptual alignments are the mentions of predictability, cumulative flow diagrams, and reducing cycle time by limiting WIP, which are foundational for SLE but do not cross the threshold into a true SLE discussion. The focus is on general productivity, WIP limits, and business value—relevant to Agile and Lean, but not specifically targeted to SLE as defined. Therefore, the scores across all six dimensions are quite low, especially for direct mention, intent, and depth. No penalties were necessary as the content is not outdated nor satirical. Overall, the content is unlikely to fit under the SLE category according to the strict instructions.",
+    "level": "Ignored"
   }
 }

@@ -1359,7 +1359,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1753,6 +1753,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content primarily critiques the reliance on burndown charts and emphasizes a flexible approach to Sprint planning. While it discusses the importance of adapting planning based on product development uncertainties, it does not explicitly mention broader concepts of capability development or integration into organizational processes. The discussion focuses more on practices and the practical side of Sprint planning without delving into how these practices reflect enduring competencies or alignment with continuous improvement. Thus, it's only loosely related to capability, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "BtHASX2lgGo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:26",
+    "ai_confidence": 8.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.7,
+    "ai_audience": 2.2,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on critiquing burndown charts and proposing a more flexible, just-in-time approach to Sprint planning. There is no explicit or implicit mention of Service Level Expectation (SLE), nor does the material discuss SLE's definition, calculation, or application. Key discussion points such as minimal upfront planning, daily reassessment, and flow are adjacent to Agile delivery, but none are rooted in the precise concept of SLE as defined. The discussion touches lightly on cycle time through the theme of continuous flow, but never relates it to SLE or references SLE-related frameworks, calculations, or benefits. The intended audience is Agile practitioners, which minimally overlaps with the SLE category's audience, but the topic is off-focus for SLE. The signal-to-noise ratio is low for SLE purposes, as the content is relevant to broader Agile practices but not to SLE specifically. Overall, there is a negligible fit for the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

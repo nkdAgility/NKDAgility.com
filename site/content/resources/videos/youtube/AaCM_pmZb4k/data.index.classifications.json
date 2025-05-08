@@ -861,12 +861,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "AaCM_pmZb4k",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T09:48:46",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses hierarchies of competence versus control, focusing on organisational structures rather than accountability within Agile teams.",
+    "calculated_at": "2025-05-02T04:20:42",
+    "ai_confidence": 3.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.4,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "While the content discusses hierarchies of competence and control and touches on leadership dynamics, it does not explicitly address accountability as a foundational mechanism in work systems. The mention of leadership emerging based on competence implies some degree of accountability, but it is not the primary focus. The discussion remains more theoretical and does not deeply explore how accountability shapes behavior, performance, or outcome ownership in a structured work environment.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1374,7 +1383,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T16:05:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1470,15 +1479,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "AaCM_pmZb4k",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:44:41",
-    "ai_confidence": 32.0,
+    "calculated_at": "2025-05-02T04:20:52",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 10,
-    "final_score": 32.0,
-    "reasoning": "The content discusses hierarchies of competence versus control, focusing on organisational structures and decision-making processes. While it touches on themes of empowerment and agility, it does not explicitly mention Liberating Structures or their specific techniques. The alignment with the core themes is moderate, as it hints at the need for more inclusive and dynamic leadership, but lacks depth in discussing facilitation techniques or their applications. Overall, the content is more about organisational theory than about Liberating Structures specifically.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses hierarchies of competence vs control but does not specifically reference Liberating Structures or any facilitation techniques. It engages with concepts related to organizational structure and dynamics, which are loosely connected to the principles of engagement and adaptability in teams. However, there is no direct mention or actionable guidance related to actual Liberating Structures methods, thus resulting in a very low confidence score for this category.",
     "level": "Ignored"
   },
   "Current Value": {
@@ -1769,5 +1784,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses hierarchies of competence versus control and emphasizes the importance of competence-driven organizational structures. While it does touch upon themes related to Agile principles by advocating for flexibility and competence in leadership, it lacks deeper exploration of methodologies or structured principles directly associated with the concept of 'Discipline'. The discussion is insightful and detailed but mostly centers on organizational structures rather than formal disciplines like Agile or Lean, which limits its direct alignment with the category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "AaCM_pmZb4k",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:58",
+    "ai_confidence": 2.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.2,
+    "ai_audience": 0.4,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on organizational theory, specifically contrasting 'hierarchies of competence' versus 'hierarchies of control.' It discusses empowerment models, agile mindsets, and the drawbacks of top-down control. There are no direct or indirect references to Service Level Expectation (SLE) as a forecast of throughput or cycle time, nor discussion on elapsed time ranges, probabilities, or metrics for predictability as required by the SLE definition. The closest it comes to SLE topics is a tangential mention of 'shorter feedback loops,' but there is no discussion of measurement, cycle time, historical forecasting, or any authoritative references related to SLE. The primary audience appears to be organizational leaders or coaches considering management philosophy, not practitioners interested in service metrics or workflow predictability. All dimensions are scored at or near zero, with slightly higher (but still extremely low) scores for alignment and audience due to the organizational agility context. No penalties for outdatedness or contradiction are applied. Overall, the confidence is extremely low, as the content is not relevant to the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

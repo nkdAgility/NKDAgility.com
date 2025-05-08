@@ -1332,7 +1332,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
@@ -1739,6 +1739,24 @@
     "non_ai_confidence": null,
     "final_score": 20.0,
     "reasoning": "The content primarily focuses on new Release Management tools from Microsoft, emphasizing their functionalities and features rather than discussing the enduring competencies that would constitute 'Capability'. While there are references to orchestration and integration, which could relate to capabilities, the discussion is primarily centered around tools and techniques, which do not align with the category's definition of systemic capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "akntzjbRQe2",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:13",
+    "ai_confidence": 1.52,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 3.4,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused entirely on Microsoft's new Release Management tools and their features, targeting technology practitioners and DevOps teams. Nowhere does the content mention or discuss Service Level Expectations (SLE), nor does it touch on related Agile concepts such as cycle time analysis, probability-based delivery forecasts, or Kanban/Scrum flow metrics. There is no conceptual alignment with SLE principles; instead, it discusses tooling, integration choices, and deployment pipelines. The depth and intent regarding SLE are essentially absent, and any accidental overlap is minimal and indirect at best. Signal-to-noise is low for this category, as the entire piece is off-topic concerning SLE. No penalties have been applied since the content does not contradict or undermine SLE, nor is it outdated, but its relevance to 'Service Level Expectation' is extremely minimal, resulting in a low confidence score.",
     "level": "Ignored"
   }
 }

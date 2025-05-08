@@ -1344,7 +1344,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1738,6 +1738,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on the journey to becoming a Scrum Master, emphasizing certifications and skills development rather than discussing capabilities as enduring competencies. While it mentions concepts related to skills and knowledge application, the emphasis on roles and certifications detracts from the core theme of capability. The discussion around learning and experience is relevant but does not address the broader organizational capabilities aspect and lacks depth in systemic capability development.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "DWOh_hRJ1uo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.4,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is entirely focused on giving advice for becoming a Scrum Master, especially beyond software engineering. It covers certification, skills development, validated learning, and training courses within Scrum and Agile contexts. However, nowhere in the text does it mention or discuss Service Level Expectation (SLE), its definition, calculation, or application. There are no references to cycle time estimates, probabilities, or forecast ranges, and no discussion of improving predictability or transparency via SLE. The topic of Service Level Expectation is neither directly nor indirectly addressed, and the content never mentions it by name or concept. The audience (aspiring Scrum Masters) and references (Scrum, Agile, continuous improvement) are thematically close to SLE's domain, but the actual content is irrelevant to SLE. Minimal scores are provided except for audience, where a slightly higher score reflects some topical adjacency to Agile practitioners. No penalties were required, as the tone is not outdated or critical. The low confidence score accurately reflects the total absence of relevant SLE content.",
     "level": "Ignored"
   }
 }

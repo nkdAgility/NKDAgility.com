@@ -1395,7 +1395,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:40:45",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1539,15 +1539,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "XhPHa1RXrWo",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-10T17:12:55",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:32",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the history and evolution of Agile methodologies, focusing on the impact of Taylorism and the Agile Manifesto. While it touches on themes of collaboration and adaptability, it does not explicitly mention Liberating Structures or delve into specific facilitation techniques. The discussion lacks depth regarding the principles and applications of Liberating Structures, leading to a low confidence score in this category.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the history and principles of Agile without explicitly referencing any specific Liberating Structures or facilitation techniques. While it touches on themes relevant to improving team dynamics and engagement, it does not provide practical methods or frameworks characteristic of Liberating Structures. The reference to Agile roles and practices lacks a direct connection to the facilitative methods intended for that category.",
     "level": "Ignored"
   },
   "Hybrid Agile": {
@@ -1790,5 +1796,23 @@
     "final_score": 75.0,
     "reasoning": "The content discusses Agile extensively, its historical context and evolution, highlighting both its principles and challenges. It aligns well with the core themes of Discipline, specifically the continuous improvement and adaptability central to Agile methodologies. While it does incorporate some tools and practices related to Agile, these are contextualized within a discussion on deep-rooted principles and the importance of competence in applying these methodologies effectively. The focus on the evolution of Agile reinforces the systemic application aspects of the discipline, contributing positively to the overall confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "XhPHa1RXrWo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:39",
+    "ai_confidence": 6.82,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 1.2,
+    "ai_audience": 1.4,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content provides a high-level historical perspective on Agile, its origins, core principles, and the challenges of maintaining agility and competence in organizations. Nowhere in the material is Service Level Expectation (SLE) directly mentioned, defined, or discussed, nor is there any discussion of cycle time, elapsed days, probability ranges, or any of the SLE mechanics or applications as described in the classification definition. All discussions regarding Agile ceremonies, practices, and transformation remain at a broad level, focusing on values, human connection, competence, and historical context. There is no content targeting the technical or practitioner audience specifically interested in SLE, nor an exploration of SLE's purpose, calculation, or use case. While some minor alignment could be inferred to the theme of continuous improvement or managing expectations, this is generic and indirectly related, not satisfying the alignment or depth dimensions beyond a token level. All six dimensions score extremely low, with zero for Direct Mentions and signal only modestly above the minimum for its lack of extraneous tangents. The final confidence score of 6.82 reflects an extremely weak, non-substantive match to the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

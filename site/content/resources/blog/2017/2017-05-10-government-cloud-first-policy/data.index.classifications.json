@@ -1299,7 +1299,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:50",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1706,6 +1706,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "While the content mentions the UK Government's Cloud First policy and discusses its importance for public sector agencies, it does not primarily focus on the concept of 'capability' as defined in the classification criteria. The discussion is more about policy and the adoption of cloud solutions rather than on enduring competencies or the integration of capabilities into organizational processes. The mentions of business agility and digital transformation suggest some alignment with capability, but they are secondary to the discussion about cloud policies and their implications. Overall, the content does not have a deep exploration of capabilities in terms of their development or measurement, limiting its strict relevance to the category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:20",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 1,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content discusses government cloud adoption policies, with a focus on the UK's and US's Cloud First directives, and considers the benefits and attitudinal barriers to cloud adoption in the public sector. Nowhere in the content is 'Service Level Expectation' (SLE) or related key topics mentioned, such as the calculation of SLE, its usage in Agile, Scrum, Kanban, or its role in workflow predictability. There are no references to SLE, cycle time measurements in an Agile context, or sources tied to SLE. The topic and intended audience do not align with the narrowly scoped SLE category: this targets a broad IT/government sector, not Agile practitioners seeking SLE guidance. There also is no tangential or passing mention of SLE. Audience is scored just above zero because both government IT practitioners and Agile teams may overlap in a very general sense, and signal rises slightly above absolute zero because of professional tone, but there is no substantial or thematic intersection. No penalties are applied as the content is neither outdated nor critical of SLE (it's simply unrelated). The low overall confidence score accurately reflects complete lack of relevance to the specified SLE classification.",
     "level": "Ignored"
   }
 }

@@ -1365,7 +1365,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1773,5 +1773,23 @@
     "final_score": 42.0,
     "reasoning": "The content discusses differences between agile and waterfall methodologies, focusing on agile's adaptability and customer collaboration, which can be related to organizational capabilities. However, it primarily emphasizes methodologies rather than the cultivation of enduring capabilities or the systemic integration of competencies. While there are references to teams and their roles in a collaborative context, it lacks a deep exploration of how these elements contribute to an organization's overall capabilities or a structured approach to developing them over time.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "BE6E5tV8130",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:03",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 2.1,
+    "ai_intent": 1.6,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is a general and thorough comparison between agile product development and waterfall project management. It describes various agile principles (iteration, continuous improvement, incremental delivery) but does not mention Service Level Expectation (SLE) by term or concept, nor does it reference its calculation, application, or purpose within Agile, Scrum, or Kanban. There are no direct or indirect references to SLE's elapsed time range, probability-focused forecasts, or the use of historical cycle time data. The intent is broad education on agile vs. waterfall, not analysis or guidance around SLE. The depth and audience are somewhat relevant since an agile audience might encounter SLE, but there is no content focus, mention, or substantial alignment. The confidence score reflects only a negligible alignment where continuous improvement and cycle time could, in theory, be stepping stones to an SLE discussion, but are not addressed here.",
+    "level": "Ignored"
   }
 }

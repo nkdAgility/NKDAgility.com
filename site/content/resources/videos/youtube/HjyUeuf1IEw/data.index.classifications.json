@@ -1251,7 +1251,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1659,5 +1659,23 @@
     "final_score": 45.0,
     "reasoning": "The content includes discussions about Agile training and the concept of continuous forecasting, suggesting a focus on adaptive planning, which aligns with capability development. However, the depth of discussion primarily revolves around training methods and tools rather than exploring capabilities as enduring competencies. There’s a notable mention of concepts like dynamic planning and metrics, but they are framed more as techniques rather than deeply embedded capabilities, limiting the overall alignment with the Capability category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "HjyUeuf1IEw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:08",
+    "ai_confidence": 19.33,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.1,
+    "ai_audience": 5.8,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content does not directly mention Service Level Expectation (SLE), nor does it discuss or define SLE as used in Agile, Scrum, or Kanban practices. The focus is instead on Agile training, continuous forecasting, virtual class logistics, and general metric usage (e.g., throughput, cycle time, Monte Carlo simulations). While Daniel Vacanti, a known authority on SLE, is referenced in context of continuous forecasting, the content does not actually cover the SLE concept, its calculation, application, or improvement. Further, the metrics and forecasting practices mentioned are commonly used in Agile but are not directly tied to SLE here, and there is no discussion of SLE's defining attributes (elapsed time range, probability, etc.) or its purpose/role in improving predictability or managing stakeholder expectations. For these reasons, direct mentions and conceptual alignment scores are low, as are depth and intent, since SLE is not the main focus and only tangentially approached. However, the audience (Agile practitioners) is loosely aligned, and the content is reasonably well-focused on metrics (signal), but all SLE cues are indirect or absent. No outdated information or penalties were identified.",
+    "level": "Ignored"
   }
 }

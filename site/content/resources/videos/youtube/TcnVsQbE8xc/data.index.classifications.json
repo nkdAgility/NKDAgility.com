@@ -1362,7 +1362,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1756,6 +1756,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses the PSM II course's benefits and skills for Scrum Masters. While it mentions improving team effectiveness and organizational agility, the primary focus is on learning roles and tools rather than developing enduring capabilities. It briefly touches on aspects of capability, such as fostering high-performing teams and feedback loops, but lacks a detailed examination of how these capabilities are built or integrated into the organization over time.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "TcnVsQbE8xc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 2.73,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.7,
+    "ai_audience": 2.2,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content promotes the PSM II (Professional Scrum Master II) course and highlights various benefits such as advanced Scrum mastery, actionable facilitation techniques, feedback loops, automation, and career growth. Nowhere in the title, description, or main text is 'Service Level Expectation' (SLE) mentioned directly, nor do any of the key topics—definition, calculation, or usage of SLE—appear. The closest related phrases (like 'continuous improvement') are common Agile concepts and not uniquely tied to SLE. Thus, the direct mention score is near zero; conceptual alignment and depth are very low, as SLE is not discussed in any form. The content's intent is simply to promote the PSM II course to practicing Scrum Masters (hence a slightly higher audience score), but this is not the audience for SLE as a technical topic—there is no material targeting teams seeking to understand or improve SLEs in Kanban or Scrum. Signal-to-noise is mostly noise from the SLE perspective, with small relevance only by virtue of continuous improvement references. No penalties are warranted since there is no outdated or satirical tone. The final confidence score is very low, reflecting the complete lack of alignment with the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

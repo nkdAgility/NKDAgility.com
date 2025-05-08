@@ -876,12 +876,21 @@
     "level": "Primary"
   },
   "Accountability": {
+    "resourceId": "Juonckoiyx0",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T05:41:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses stakeholder engagement during Sprint reviews, rather than focusing on accountability or ownership within the Scrum team.",
+    "calculated_at": "2025-05-01T18:45:58",
+    "ai_confidence": 5.0,
+    "ai_mentions": 5,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.3,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 5.0,
+    "reasoning": "The content discusses stakeholder engagement primarily, which can relate to accountability in the context of ensuring outcomes align with stakeholder expectations. However, it lacks a direct focus on structural accountabilities or explicitly defined roles regarding outcome ownership. The discussion hinges on how to engage stakeholders rather than on the accountability mechanisms within Scrum or Agile frameworks, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1380,7 +1389,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:57:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1512,15 +1521,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "Juonckoiyx0",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:26:54",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses stakeholder engagement in the context of Scrum Sprint reviews, which is a specific Agile practice. While it touches on themes of collaboration and communication, it does not explicitly mention Liberating Structures or their techniques. The focus is more on traditional engagement strategies rather than the facilitation techniques that characterise Liberating Structures. Therefore, while there is some conceptual alignment, the lack of direct mention and depth regarding Liberating Structures leads to a low confidence score.",
+    "calculated_at": "2025-05-01T18:45:39",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.15,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on stakeholder engagement during Sprint reviews in the context of Scrum, and does not reference any specific Liberating Structures or facilitation techniques. Although principles such as engagement and communication are discussed, they do not connect to the defined methods within the Liberating Structures toolkit. There's no mention of concepts like 1-2-4-All or Troika Consulting, which are essential for a stronger alignment with the category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1775,5 +1790,23 @@
     "final_score": 45.0,
     "reasoning": "The content discusses elements of stakeholder engagement within a Scrum framework, which relates to Agile methodologies, a core discipline. However, it primarily focuses on techniques for engagement rather than the underlying principles or systemic application of discipline in Agile. The depth of discussion remains within practical strategies without exploring broader governance structures, ethical considerations, or continuous learning aspects that characterize a discipline. The references to engagement strategies and stakeholder needs are relevant but illustrate a more tactical approach than a comprehensive view of Discipline as a category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Juonckoiyx0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:43",
+    "ai_confidence": 2.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.7,
+    "ai_audience": 0.4,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is fully focused on stakeholder engagement during Scrum Sprint reviews, offering practical advice about communication, value demonstration, and participation. There are no direct mentions of Service Level Expectation (SLE) or its concepts—no forecast of cycle time, probability ranges, calculation methods, historical flow analysis, or references to SLE literature. None of the sections touch on Agile metrics, Kanban theory, or anything specific to SLE as defined in the classification scope. There is passing mention of 'transparency' and 'continuous improvement,' but these are general Agile themes, not linked to SLE or its operationalization. Audience alignment is low because the advice is more for Scrum practitioners seeking better reviews rather than those interested in flow metrics or predictive delivery. The overall signal for SLE is almost nonexistent, with no obsolete or negative framing requiring penalties. The confidence score is appropriately very low, reflecting an almost complete lack of fit with the 'Service Level Expectation' category.",
+    "level": "Ignored"
   }
 }

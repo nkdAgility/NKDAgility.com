@@ -1377,7 +1377,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:11",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
@@ -1772,5 +1772,23 @@
     "final_score": 55.0,
     "reasoning": "The content discusses Agile methodologies and emphasizes team empowerment and backlog management, which are essential for Agile practices. However, it primarily focuses on concepts and practices rather than specific tools or their functionalities. While it mentions the backlog as a 'dynamic, evolving tool,' the discussion lacks detail on actual tools used in these processes, such as software applications or specific mechanisms that would qualify as tools in the context of Agile, Lean, or DevOps.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "qRHzl4PieKA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:58",
+    "ai_confidence": 2.84,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 0.4,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content centers around empowering Agile teams to update requirements and respond to user feedback, focusing on backlog management, team empowerment, and value delivery. Nowhere in the text is Service Level Expectation (SLE) or its calculation, definition, or application mentioned directly or even alluded to. Discussions of cycle time, lead time, or forecasted delivery timeframes do not appear, nor are there references to the probability-based forecasting or flow metrics that are central to SLE. The main purpose is to educate practitioners and Scrum Masters about embracing adaptability and value maximization, not about delivery predictability through SLE. The target audience overlaps partially with SLE-relevant roles, but the content is not tailored to SLE-specific interests. All mentions, concepts, and practical advice are unrelated to the SLE category as defined. Given this strong misalignment and absence of even indirect SLE references, scores are at the lowest range, resulting in a very low confidence score for categorization under Service Level Expectation.",
+    "level": "Ignored"
   }
 }

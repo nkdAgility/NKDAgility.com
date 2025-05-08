@@ -1287,7 +1287,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1682,5 +1682,23 @@
     "final_score": 55.0,
     "reasoning": "The content discusses the historical perspective on systems and their role in Agile methodologies, reflecting on the balance between systems and people. While it mentions the importance of systems and touches on continuous evaluation and empowering people, it does not explicitly focus on the enduring capabilities required for teams to deliver value sustainably. The discussion hints at capability-related themes but lacks a strong emphasis or detailed exploration that aligns with the fundamental characteristics of capability as defined in the guidelines.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "KX1xViey_BA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:40",
+    "ai_confidence": 6.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.9,
+    "ai_intent": 2.0,
+    "ai_audience": 1.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) explicitly or implicitly. It focuses on the shift from prioritizing individuals to systems using a historical lens (Frederick Taylor's philosophy) and then relates this to a modern Agile context, emphasizing the balance between systems and people. There are references to Agile principles and the importance of systems not hindering people, but no discussion of SLE, its calculation, application, or its function in team predictability or flow. No part of the content addresses SLE's purpose, components, or use within Kanban/Scrum, nor is there any discussion of cycle time, probability, or delivery forecasts. The audience alignment is weak because the subject is general Agile/organizational philosophy, not practitioners specifically dealing with SLE. Most of the content is off-topic regarding SLE, resulting in a very low signal-to-noise score. No penalties were necessary as the content does not criticize, undermine, or present obsolete practices.",
+    "level": "Ignored"
   }
 }

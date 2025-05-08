@@ -1266,7 +1266,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1661,5 +1661,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of team collaboration and minimizing friction in scaling efforts, which relates to organizational capability. It highlights pitfalls that can undermine effective scaling, such as dependencies and misalignment, indicating an understanding of how collective competencies impact delivery. However, the discussion does not deeply engage with the broader concepts of cultivating capabilities over time or embedding them into organizational culture, resulting in a confidence score reflecting moderate alignment with the 'Capability' category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "bHwgZ_Cx99U",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:10",
+    "ai_confidence": 4.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.9,
+    "ai_depth": 1.0,
+    "ai_intent": 0.8,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is focused on the challenges of scaling Agile teams, emphasizing organizational friction, dependencies, team structure, and collaboration. Nowhere in the article is Service Level Expectation (SLE) directly mentioned or alluded to. There are no references to SLE calculation, cycle time analysis in the context of SLE, or any of the key SLE topics outlined in the classification definition. All discussion about delivery speed or coordination is generic and high-level, not specific to SLE or the techniques used to forecast or manage work delivery against probabilistic timeframes. The audience may overlap somewhat, as some Agile practitioners interested in SLE might read this, but the purpose, details, and main message are unrelated. The signal-to-noise is low for SLE, as 100% of the content is devoted to scaling teams and removing coordination friction, not anything related to forecasted delivery times with probabilistic ranges. Therefore, each scoring dimension is extremely low-to-zero, resulting in an appropriately minuscule confidence score.",
+    "level": "Ignored"
   }
 }

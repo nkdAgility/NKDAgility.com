@@ -1332,7 +1332,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1727,5 +1727,23 @@
     "final_score": 42.0,
     "reasoning": "The content discusses the role of a Scrum Master with a focus on servant leadership and empowering teams, which is somewhat related to the aspect of capabilities in fostering a culture of collaboration and autonomy. However, the primary focus is on the roles and misconceptions associated with Scrum Masters rather than on capabilities as enduring competencies. While the importance of facilitation and autonomy supports the idea of building team capabilities, the discussion does not center around the broader, systemic development of capabilities or their integration into organizational culture and processes. Therefore, although there are mentions of empowerment and facilitation that touch on capabilities, the overall emphasis on roles and misconceptions detracts from a full alignment with the Capability category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "zs0q_zz8-JY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:56",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.4,
+    "ai_audience": 0.7,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses entirely on the role of the Scrum Master as a servant leader, clarifying common misconceptions about authority, facilitation, and the purpose of the Scrum Master. It does not mention Service Level Expectation (SLE) directly or indirectly, nor does it discuss its calculation, definition, or application within the context of Agile, Scrum, or Kanban methods. None of the key SLE topics (such as cycle time ranges, probability, or predictability measures) are referenced. The intended audience is likely Agile or Scrum practitioners, which aligns with the target audience of SLE content, albeit very weakly and only because there is overlap in community. However, there is no explicit or implicit signal relating to SLE. Due to these severe mismatches, the confidence score is at the absolute minimum, reflecting only the faintest possible conceptual or audience overlap and otherwise strict exclusion based on the category's definition and criteria.",
+    "level": "Ignored"
   }
 }

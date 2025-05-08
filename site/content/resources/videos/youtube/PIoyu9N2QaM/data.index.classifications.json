@@ -1332,7 +1332,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1726,6 +1726,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily discusses roles and accountabilities of Scrum Masters rather than focusing on enduring capabilities within teams and organizations. While there are elements that pertain to the professional approach and effectiveness of Scrum Masters, the majority of the text centers around the distinction between 'newbie' and 'professional' roles, which does not align with the category of Capability as defined. The brief mentions of effectiveness and productivity do not constitute a detailed discussion on developing or embedding capabilities within an organization.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "PIoyu9N2QaM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:01",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 0.4,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused entirely on differences in Scrum Master professionalism and does not mention or reference Service Level Expectation (SLE), either directly or conceptually. There is no discussion of cycle time, forecast ranges, probability, transparency of work item flow, or the Kanban/Agile theory relating to SLE. None of the SLE key topics or purposes are addressed. The only minor alignment is the general Agile/Scrum practitioner audience overlap, but the relevance is extremely weak. The tiny scores reflect that while the target audience and terminology incidentally overlap with SLE stakeholders, there is essentially no substance relating to the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

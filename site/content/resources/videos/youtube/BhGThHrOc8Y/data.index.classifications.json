@@ -1332,7 +1332,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1727,5 +1727,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the essence of DevOps as a mindset rather than merely focusing on tools, which aligns with the concept of capability. It emphasizes the importance of principles that enhance collaboration and product quality, reflecting on how these ideas can improve team performance—a key aspect of capabilities. However, the references to specific tools and a lack of detailed strategies for developing capabilities results in a lower confidence score, but overall, the primary focus on the underlying concepts of DevOps contributes significantly to the classification.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "BhGThHrOc8Y",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.5,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively discusses the concepts, ideas, and philosophies underpinning DevOps, specifically distinguishing it from tooling and advocating for a focus on principles over products. There are no direct or indirect references to Service Level Expectation (SLE) or any of its defining elements (such as probabilistic forecasts for cycle time, SLE calculation using historical data, transparency of SLE for team and stakeholder, etc.). The closest it comes to relevant territory is in allusions to collaboration, Agile, and continuous improvement, but these mentions are generic and not framed in terms of SLE or its application within Agile, Scrum, or Kanban workflows. The audience could partially overlap with those interested in SLE (e.g., Agile/Scrum practitioners), but the entire discussion is off-scope. As such, the confidence score is appropriately very low, heavily weighted by the complete absence of SLE mentions or exploration.",
+    "level": "Ignored"
   }
 }

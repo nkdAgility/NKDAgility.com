@@ -1374,7 +1374,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1769,5 +1769,23 @@
     "final_score": 45.0,
     "reasoning": "While the content discusses the importance of feedback and stakeholder engagement within Agile practices, it focuses heavily on roles and responsibilities like the product owner's role and specific strategies for feedback, which are not aligned with the core themes of 'Capability'. The discussion, while relevant, does not delve deeply into developing enduring competencies or embedding capabilities within teams; instead, it highlights practices and isolated techniques for improving engagement and feedback loops, which are transient rather than systemic capabilities.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ARhXjid0zSE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:36",
+    "ai_confidence": 5.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.6,
+    "ai_intent": 2.5,
+    "ai_audience": 4.2,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on issues of feedback, stakeholder engagement, and team morale within Agile/Scrum contexts. There are zero direct or indirect mentions of Service Level Expectation (SLE) as a concept, term, or practice; the content does not touch on forecasting delivery time, measuring elapsed work time, probability estimates, SLE calculation methods, or any transparency mechanisms involving flow metrics. Its core themes are conceptually adjacent—engagement and feedback are important for good Agile outcomes—but they do not overlap with the definition, calculation, or application of SLE. The intent is to inform about engagement strategies; audience is fellow Agile/Scrum practitioners, which is somewhat consistent with SLE-related content, but the focus is off-topic regarding SLE. Some signal exists for Agile practice broadly, but none for the SLE subdomain. Scores are lowest for mentions (0.0) and depth (1.6), as there is absolutely no SLE coverage or detailed exploration. Alignment, intent, and signal scores are very low, while audience is somewhat higher because the text does address the same professional group. No penalties are applied, as the content isn't outdated nor does it undermine the SLE framing—it is simply unrelated. The resulting confidence score (5.7) accurately reflects almost total lack of category relevance.",
+    "level": "Ignored"
   }
 }

@@ -1377,7 +1377,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1509,15 +1509,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "hFjoIf3KPeI",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:22:07",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the role of Scrum Masters and Agile coaches in motivating teams, discussing techniques and strategies for engagement and productivity. While it touches on themes of collaboration and team dynamics, it does not explicitly mention Liberating Structures or their specific techniques. The discussion lacks depth regarding the principles and philosophy of Liberating Structures, leading to a low confidence score.",
+    "calculated_at": "2025-05-01T18:45:50",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses motivating Scrum teams and outlines several techniques relevant to Agile coaching, but it does not mention specific Liberating Structures or how they can be integrated into Agile practices. While it touches on the importance of engagement and team dynamics, it lacks a focus on the distinct facilitation methods characteristic of Liberating Structures, which would require a deeper exploration of those specific techniques.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1771,6 +1777,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content briefly discusses the role of Scrum Masters and Agile coaches in motivating teams, which is relevant to Agile as a discipline. However, the primary focus is on motivational techniques rather than on the systematic principles or methodologies that define the discipline of Agile itself. While it touches on some aspects of continuous improvement and stakeholder engagement, it lacks a deeper exploration of the organizational principles and systemic application associated with Agile, DevOps, or Lean, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "hFjoIf3KPeI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:52",
+    "ai_confidence": 6.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.4,
+    "ai_audience": 3.6,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "This content focuses exclusively on strategies for motivating Scrum teams and does not mention Service Level Expectation (SLE) directly or indirectly. There are no explicit or implicit references to calculating, applying, or improving SLE, nor discussion of related concepts such as cycle time ranges or probability-based forecasts within Agile, Scrum, or Kanban contexts. The main ideas emphasize team morale, stakeholder engagement, continuous improvement from a motivation perspective, and practical coaching approaches, none of which pertain to SLE as defined by the classification criteria. The target audience (Scrum Masters, Agile coaches) aligns with the SLE audience, marginally increasing audience and signal scores. However, the content's intent, depth, and conceptual alignment with the SLE category are minimal, yielding low but nonzero scores in those dimensions mainly due to shared context (Agile coaching). Thus, confidence is extremely low, reflecting a near-total lack of SLE relevance while recognizing very slight contextual overlap in audience focus.",
     "level": "Ignored"
   }
 }

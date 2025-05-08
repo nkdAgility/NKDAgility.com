@@ -1308,7 +1308,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1715,6 +1715,24 @@
     "non_ai_confidence": null,
     "final_score": 15.0,
     "reasoning": "The content primarily focuses on implementing branch policies in TFVC, which pertains to specific technical practices rather than discussing enduring capabilities or organizational competencies. Terms related to capability are absent, and the content does not delve into how these practices could contribute to developing systemic capabilities or enhance organizational performance.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_26VFOA-vCe",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:13",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.0,
+    "ai_audience": 0.4,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses exclusively on technical implementation and configuration of branch policies for TFVC, such as code review, branch locking, and work item association. Nowhere in the title, description, or main body is there any discussion, explanation, mention, or analytical treatment of Service Level Expectation (SLE) as defined in the Agile, Scrum, or Kanban context. There are no keywords, phrases, metrics, or frameworks related to SLE: no talk of cycle time ranges, probability, predictability, SLE calculation, or reference to authoritative SLE sources. The audience and purpose are aligned with technical practitioners but not with the transparency, predictability, or flow optimization focus of SLE. The signal-to-noise ratio is low for the SLE topic, as 100% of the content relates to TFVC branching and policy management. Thus, it scores minimal to zero on all dimensions, especially Direct Mentions (0) and Intent (0). No penalties are necessary as the content is neither obsolete nor dismissive of SLE, but rather entirely off-topic.",
     "level": "Ignored"
   }
 }

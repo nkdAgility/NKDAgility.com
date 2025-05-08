@@ -1377,7 +1377,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1772,5 +1772,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the implications of judgment in Agile environments and how to create a healthier atmosphere that fosters collaboration, which touches on the idea of developing capabilities such as open dialogue, adaptive metrics, and a focus on learning. However, the primary focus is not on the enduring competencies that characterize Capability, but rather on addressing specific challenges and establishing practices that support a healthy culture in Agile. The discussion lacks depth on defining capabilities itself, making it seem secondary rather than a core exploration.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "uRqsRNq-XRY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:36",
+    "ai_confidence": 11.65,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.9,
+    "ai_intent": 1.8,
+    "ai_audience": 2.3,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content makes no direct mention of Service Level Expectation (SLE) in any form, nor does it discuss or imply its definition, calculation, or application. The focus is on team dynamics within Agile, the negative effects of judgment, and the importance of healthy metrics and continuous improvement—but all these remain general, without reference to SLE or its key characteristics such as cycle time forecasts, probability-based elapsed days, or explicit Kanban/Scrum process predictability. The closest relevant mention is the idea of 'adaptive metrics,' which could theoretically include SLE, but the text never specifies SLE or any details unique to it. Depth of discussion and alignment are minimal, as is audience fit, since the content addresses generic Agile practitioners rather than those specifically interested in SLE as a forecast tool in Agile/Kanban/Scrum. No parts are outdated or critical regarding SLE, so no penalties were applied. Overall, the confidence score is extremely low, reflecting a near-total absence of direct or indirect SLE content.",
+    "level": "Ignored"
   }
 }

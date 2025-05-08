@@ -1320,7 +1320,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1714,6 +1714,24 @@
     "non_ai_confidence": null,
     "final_score": 22.0,
     "reasoning": "The content mentions the Agile 2023 event and discusses various workshops and training opportunities. However, it primarily focuses on events, coaching, and social networking rather than on 'capabilities' as enduring competencies that empower organizations. There's also a brief mention of Scrum classes, but the overall content lacks a substantial discussion of how these training sessions develop lasting capabilities within teams or organizations. The connection to the category is minimal, and the discussions seem more oriented towards immediate learning opportunities rather than systematic capability development.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "x0sJSqJhVRG",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:54",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is a general announcement and promotional overview for the Agile 2023 Scotland event, with no mention—direct or indirect—of Service Level Expectation (SLE) or its related components. It does not discuss any of the required key topics, such as SLE definition, calculation, or relevance within Agile, Scrum, or Kanban. The text targets a broad Agile practitioner audience but is not intended as a detailed or targeted resource on SLE. As such, all scoring dimensions receive a 0, resulting in a confidence score of 0.",
     "level": "Ignored"
   }
 }

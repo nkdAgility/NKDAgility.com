@@ -273,12 +273,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "pU57BrP94-8",
     "category": "Strategy",
-    "calculated_at": "2025-02-12T03:27:12",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and coaching rather than strategic approaches within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-02T04:19:58",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses immersive learning as a training method within the context of Scrum. While it touches on collaborative learning and real-world application, it does not explicitly focus on strategic discussions related to organizational goals or alignment. The core themes of the content are more about practical learning methods rather than high-level strategic planning or decision-making. Therefore, the confidence score reflects a weaker alignment with the Strategy category.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -870,12 +879,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "pU57BrP94-8",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T03:28:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and coaching rather than accountability within Agile teams.",
+    "calculated_at": "2025-05-02T04:19:55",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses immersive learning in Agile contexts, particularly in relation to Scrum. However, it lacks a direct focus on accountability as defined by the category. It touches on learning experiences and collaboration but does not clarify roles or outcome ownership within those structures. There is minimal mention of how accountability influences performance or alignment, which is crucial for this classification.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1371,7 +1389,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1503,15 +1521,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "pU57BrP94-8",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:48:26",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses immersive learning in the context of Agile training, particularly Scrum, without explicitly mentioning Liberating Structures or their specific techniques. While it touches on collaboration and shared experiences, which are relevant to the principles of Liberating Structures, the focus remains on immersive learning rather than the facilitation techniques themselves. The depth of discussion on Liberating Structures is minimal, leading to a low confidence score.",
+    "calculated_at": "2025-05-02T04:20:14",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses on immersive learning in the context of Scrum training, but it does not mention any specific Liberating Structures or how they could be integrated into the learning process. While it discusses collaborative techniques and learning methods that may enhance engagement, it does so without specifically referencing Liberating Structures or their facilitation techniques. Hence, the primary focus is on immersive learning rather than the category of Liberating Structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1766,5 +1790,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses immersive learning in the context of Scrum training, which relates to Agile methodologies. However, it primarily focuses on tools and techniques for enhancing training rather than exploring the underlying principles, methodologies, and governance structures of a discipline. While it touches on collaborative learning and iterative processes, it lacks depth in discussing systemic applications of disciplines like Agile, thus the overall confidence score reflects a moderate alignment with the 'Discipline' category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "pU57BrP94-8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:58",
+    "ai_confidence": 1.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on the benefits, structure, and application of immersive learning in the context of Scrum and Agile training. There are zero direct mentions of Service Level Expectation (SLE)—not in concept, calculation, or application. The text provides no discussion of elapsed time ranges, probabilities, cycle time analysis, or workflow predictability as defined for SLE. While it targets Scrum practitioners and does reference Agile learning and feedback loops, these are generic and not related to SLE or its supporting practices. This leads to extremely low scores across all scoring dimensions, with none rising above a minimal fraction. No penalties were applied because the content is neither outdated nor antagonistic, but the subject matter is completely off-topic according to the strict definition.",
+    "level": "Ignored"
   }
 }

@@ -1293,7 +1293,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1687,6 +1687,24 @@
     "non_ai_confidence": null,
     "final_score": 33.0,
     "reasoning": "The content touches on financial awareness in relation to employee motivation, emphasizing the significance of understanding costs within an organization. However, it fails to dive deep into the principles and methodologies of disciplines like Agile, DevOps, or Lean, instead discussing financial literacy and personal motivation. Although it mentions Agile indirectly through a personal experience as a Scrum trainer, it does not align strongly with the core themes of Discipline and is more focused on financial and motivational aspects.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "f8q2fBkUez0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:45",
+    "ai_confidence": 3.51,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 0.6,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content discusses the relationship between financial awareness and motivation within agile teams, with references to Scrum, Sprints, and operational costs. However, Service Level Expectation (SLE) is neither mentioned nor alluded to directly or indirectly. There is no discussion of forecasting completion times, cycle time data, probability ranges, or other component concepts of SLE. The primary focus is on improving business outcomes via financial literacy and empowering employees with cost awareness—not on agile delivery predictability or flow metrics. No elements, examples, or terminology specific to SLE's definition or calculation are present. The target audience (leaders and employees in agile organizations) slightly overlaps with SLE's, but the purpose, content depth, and alignment are not relevant to SLE. The confidence score is very low, reflecting almost no signal for the category and only the faintest peripheral agile context.",
     "level": "Ignored"
   }
 }

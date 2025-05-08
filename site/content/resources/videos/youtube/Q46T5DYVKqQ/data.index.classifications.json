@@ -264,12 +264,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Q46T5DYVKqQ",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T19:16:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses empiricism and data-driven decision-making, with no clear focus on accountability or team dynamics.",
+    "calculated_at": "2025-05-01T18:45:59",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses empiricism and data-driven decision-making within an agile context, emphasizing the importance of data and informed decisions, which aligns with some principles of accountability. However, it does not explicitly mention ownership of outcomes or roles such as Product Owner or Scrum Master, and it focuses more on the decision-making process than on structural accountability in work systems.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1356,7 +1365,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1488,15 +1497,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "Q46T5DYVKqQ",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:38:34",
-    "ai_confidence": 25.0,
+    "calculated_at": "2025-05-01T18:45:55",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content primarily discusses the concept of empiricism and its application in agile methodologies, focusing on data-driven decision-making. While it touches on themes of continuous improvement and informed decision-making, it does not explicitly mention Liberating Structures or their specific techniques. The discussion lacks depth regarding facilitation techniques or group dynamics, which are central to the Liberating Structures category. Therefore, the content is only tangentially related to the category.",
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the importance of data-driven decision-making within the agile framework but does not specifically address Liberating Structures. While it touches on concepts related to continuous improvement and making informed decisions based on data, it lacks explicit references to any specific Liberating Structures methods or their integration into team interactions. The focus is primarily on empiricism rather than facilitating engagement or collaboration using defined structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1751,5 +1766,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the principles of empiricism and its relevance to agile methodologies, aligning with the themes of disciplined decision-making and continuous improvement. However, while it touches on the importance of data-driven decisions and the scientific cycle of experimentation, it lacks deeper engagement with the governance structures, ethical considerations, or the systemic maturation of disciplines beyond the agile context. Therefore, while the core themes are present and substantial, the specific application to broader disciplinary frameworks is limited.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Q46T5DYVKqQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 12.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 2.2,
+    "ai_audience": 3.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses extensively on empiricism, data-driven continuous improvement, and agile decision-making but makes no direct or indirect reference to Service Level Expectation (SLE) as defined. There are no explicit mentions (score: 0.2) nor any sign of SLE-related key topics such as cycle time forecasts, SLE calculation, probability bounds, or Kanban/Scrum metric analysis (alignment: 1.2, depth: 1.1). The intent centers on general agile empiricism and its benefits, not the SLE concept (intent: 2.2). The audience is broadly agile practitioners, overlapping with SLE's, but only incidentally (audience: 3.0). Signal-to-noise is relatively high for agile, but none is on SLE specifics (signal: 3.5). No outdatedness or adversarial intent is present, so no penalties applied. The very low confidence reflects that although the target audience is correct and the purpose is generally relevant, there is no substantive link to SLE.",
+    "level": "Ignored"
   }
 }

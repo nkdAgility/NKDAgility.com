@@ -1374,7 +1374,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1768,6 +1768,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content briefly mentions Agile methodologies and insights into product management, which align with the concept of enhancing capability but primarily focuses on promoting a course. It lacks a thorough discussion on enduring capabilities and does not delve into integration within organizational culture or the ongoing development of competencies. The focus remains on roles (Product Managers and Product Owners) and learning rather than organizational capabilities themselves.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "faoWuCkKC0U",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.2,
+    "ai_intent": 0.5,
+    "ai_audience": 0.4,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on promoting the PSPO-A course for product managers and product owners, emphasizing Agile and Scrum in product management. There is no mention, reference, or discussion of Service Level Expectation (SLE), nor are cycle time, flow metrics, or related predictive/time forecast concepts covered. The intent is to advertise the value and relevance of the course without exploring or even tangentially referencing SLE principles or practices. The minimal scores across all dimensions reflect only the extremely remote possibility that SLE could be included in the course curriculum, which is not evident in the text provided. Therefore, the confidence score is very low and proportionate to the near-absence of any SLE relevance.",
     "level": "Ignored"
   }
 }

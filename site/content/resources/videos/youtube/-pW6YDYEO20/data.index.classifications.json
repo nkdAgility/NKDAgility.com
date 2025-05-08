@@ -915,12 +915,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "-pW6YDYEO20",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:21:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the traits of unskilled Scrum Masters and their impact on team effectiveness, rather than focusing on the strategic alignment or optimization of Agile processes.",
+    "calculated_at": "2025-05-02T04:20:34",
+    "ai_confidence": 2.0,
+    "ai_mentions": 2,
+    "ai_alignment": 35,
+    "ai_depth": 20,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the traits of unskilled Scrum Masters, focusing heavily on operational characteristics rather than strategic considerations. While it mentions the role of Scrum Masters and touches upon the importance of fostering team effectiveness, it does not directly engage with strategic planning or alignment with overarching organizational goals. This indicates a minimal mention of strategy and a stronger emphasis on the tactical aspects of Scrum practice.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1335,7 +1344,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1467,15 +1476,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "-pW6YDYEO20",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:30:11",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily discusses the traits of unskilled Scrum Masters and their impact on Agile teams, focusing on the negative aspects of micromanagement and the importance of facilitation. While it touches on the role of a Scrum Master as a facilitator, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The discussion aligns somewhat with the principles of enhancing collaboration and self-organisation, but lacks depth and direct references to Liberating Structures, resulting in a low confidence score.",
+    "calculated_at": "2025-05-02T04:20:46",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the traits of unskilled Scrum Masters, focusing on misconceptions and the importance of facilitation rather than explicitly referencing Liberating Structures or specific techniques. While it touches on the role of a Scrum Master as a facilitator, it does not discuss any Liberating Structures methods or how they could improve team interactions. The content lacks depth in discussing integration with Liberating Structures and does not provide specific use cases or techniques that fall under that category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1729,6 +1744,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on the traits of unskilled Scrum Masters, discussing common misconceptions and contrasting poor behaviors with effective Scrum Master qualities. While it mentions Scrum, which is a part of the Agile discipline, it lacks a broader discussion of discipline as a structured field of study and practice. The analysis is centered around individual traits rather than the systemic application and evolution of Scrum or Agile as disciplines. Therefore, while there are references to relevant concepts, they do not delve into the principles or methodologies governing the discipline comprehensively.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "-pW6YDYEO20",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:03",
+    "ai_confidence": 2.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 0.4,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on the behavioral traits and common misconceptions of unskilled Scrum Masters, emphasizing facilitation over micromanagement and rejecting the role of boss or allocator of work. Nowhere in the content is Service Level Expectation (SLE) mentioned, nor are there any references to its calculation, usage, or relevance in Agile, Scrum, or Kanban contexts. There is no mention or discussion of cycle time, elapsed time forecasting, or how to improve predictability and transparency using SLE. The content does not target audiences concerned with SLE (e.g., teams or stakeholders focused on delivery timelines or flow metrics), but rather those learning about effective behaviors in Scrum Mastery. The core ideas and themes are unrelated to SLE, and the signal-to-noise ratio for this category is extremely low. No penalties were required, as the tone and information are modern and not critical of the concept itself, but there is negligible alignment or depth regarding SLE. The confidence score is therefore exceptionally low in accordance with the explicit weighting formula and provided evidence.",
     "level": "Ignored"
   }
 }

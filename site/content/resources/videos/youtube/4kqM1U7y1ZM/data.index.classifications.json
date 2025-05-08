@@ -1359,7 +1359,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1754,5 +1754,23 @@
     "final_score": 72.0,
     "reasoning": "The content significantly discusses actionable principles related to Agile and Scrum, such as establishing continuous delivery, clarifying value, integrating feedback, and empowering team members. These directly relate to the guiding rules that influence team behavior and decision-making. There are multiple mentions of the principles that guide the operations of a Scrum team, showing depth in discussing how to apply these principles effectively. However, while principles are touched upon extensively, the content also emphasizes strategies and outcomes, which somewhat influences the final confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "4kqM1U7y1ZM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:53",
+    "ai_confidence": 7.3,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "There is no direct mention or discussion of Service Level Expectation (SLE) anywhere in the content, nor any of its synonyms or related terminology as defined in the classification guidelines. The article instead focuses on strategies for empowering Scrum teams, achieving continuous delivery, clarifying value, and building feedback loops — all relevant to Agile and Scrum, but none specifically tied to SLE. The content does not reference calculation, transparency, probability ranges, cycle time analysis, or improvement methods specific to SLE. There is a minor, tangential alignment in its emphasis on continuous delivery and feedback loops, which are underlying themes in many Kanban and Scrum practices, but with no SLE conceptual connection. The level of depth, intent, or signal dedicated to SLE is near zero. The audience is loosely aligned (Scrum practitioners) but the content offers no actionable or conceptual SLE value for them. Therefore, all dimension scores are low, and no penalties for outdated practice or contradictory tone apply. The low confidence score accurately reflects the complete absence of SLE-specific content.",
+    "level": "Ignored"
   }
 }

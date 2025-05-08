@@ -1347,7 +1347,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1742,5 +1742,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses the importance of a holistic approach to Scrum adoption, which aligns with the concept of developing enduring capabilities within teams and organizations. It emphasizes the need for cultural shifts and continuous improvement, indicating a focus on capability rather than merely discussing Scrum roles or tools.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "dT1_zHfzto0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:44",
+    "ai_confidence": 2.69,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.6,
+    "ai_audience": 4.4,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content discusses challenges with Scrum adoption and ways to improve organisational success with Scrum. Nowhere does it directly mention Service Level Expectation (SLE), its definition, calculation, or its application in Agile, Scrum, or Kanban. While adjacent concepts such as continuous improvement and cadence are mentioned, these are much broader than SLE and are not explicitly or implicitly tied to it. There is no reference to cycle time ranges, probabilities, or any metrics that define SLE. The alignment score is very low, as the content’s main ideas focus on mindset, organisational transformation, and the broader themes of Agile success/failure, not SLE at all. Depth is slightly higher than alignment since the discussion is nuanced for its intended topic, but not on SLE. Intent is only minimally relevant, as it encourages best practices for Scrum, not SLE. The audience is somewhat adjacent (Agile practitioners), but not clearly targeting those who need SLE guidance. Signal is higher, since the content is focused and relevant to its own theme, but since it isn’t even tangentially about SLE, it boosts the overall score only a little. No penalties are applied; content is current and not satirical. Final confidence is low and proportionate to the lack of evidence for SLE relevance.",
+    "level": "Ignored"
   }
 }

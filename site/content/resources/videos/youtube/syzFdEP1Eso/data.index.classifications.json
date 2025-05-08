@@ -1329,7 +1329,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1724,5 +1724,23 @@
     "final_score": 45.0,
     "reasoning": "The content discusses the Definition of Done (DoD) within Scrum, which is more focused on specific practices and outputs than on cultivating enduring capabilities. While there are mentions of quality assurance and team alignment that relate to capabilities, the primary focus is on the definition and usage of the DoD itself as a tool or technique, rather than a discussion on broader, systemic capabilities embedded in organizational culture or processes.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "syzFdEP1Eso",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:43",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 1,
+    "ai_signal": 1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is entirely focused on the Definition of Done (DoD) in Scrum, using analogies and examples from both a bakery and software development to illustrate DoD concepts. There are no direct or indirect mentions of Service Level Expectation (SLE), and none of the key topics or components of SLE (such as calculating elapsed time with probability, cycle times, managing predictability, or providing forecasts for work item completion) are addressed. The intent, alignment, and discussion depth are all exclusively centered on quality standards and team alignment related to DoD, not on flow metrics or expectations around delivery timelines intrinsic to SLE. The only small alignment is in audience (agile practitioners), but even this is irrelevant as the signal is entirely about DoD, not SLE. Therefore, confidence is zero.",
+    "level": "Ignored"
   }
 }

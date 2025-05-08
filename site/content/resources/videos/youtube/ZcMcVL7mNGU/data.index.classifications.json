@@ -1383,7 +1383,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1778,5 +1778,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the importance of aligning teams and fostering collaboration within an organization for successful agile product management. It emphasizes the need for a common goal and effective communication, which are essential characteristics of capabilities in an organizational context. However, while it mentions tools and techniques such as Evidence-Based Management and Hypothesis-Driven Engineering, these could be seen as more transient practices rather than enduring capabilities. Overall, the discussion aligns well with the essence of capabilities, though it also delves into techniques that slightly detract from its focus on systemic capability building.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ZcMcVL7mNGU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:00",
+    "ai_confidence": 3.87,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 0.6,
+    "ai_audience": 8.1,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on agile transformation, organisational alignment, and practices such as evidence-based management and hypothesis-driven engineering. Nowhere does it directly mention, define, or discuss Service Level Expectation (SLE), nor does it cover topics like SLE calculation, the relationship between SLE and cycle time, or any core SLE-specific guidance. While 'evidence-based management' and 'metrics' are referenced, these are not in the context of SLE. The primary audience (agile/lean practitioners, product managers, organisational leaders) does overlap with the category's, so the audience alignment is high, but all other dimensions are very low. The content is relevant to agile delivery at large but contains little to no signal on SLE specifically.",
+    "level": "Ignored"
   }
 }

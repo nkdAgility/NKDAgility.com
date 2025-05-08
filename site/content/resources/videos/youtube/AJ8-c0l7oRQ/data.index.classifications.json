@@ -1287,7 +1287,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1681,6 +1681,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses the use of tools in Scrum training, particularly critiquing Lego and advocating for Minecraft as a more appropriate choice. While it briefly touches on the importance of tools and experiences in conveying Scrum complexities, it predominantly focuses on the specific roles of these tools rather than broader capabilities or organizational competencies. The discussion does not delve into the characteristics of capabilities, strategies for embedding capabilities, or their role in enhancing business agility, which are key themes in the capability category. Thus, while there are mentions related to training techniques and experiences, they do not develop into a comprehensive discussion on capability itself.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "AJ8-c0l7oRQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:46",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 2.5,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on comparing the merits of using Lego versus Minecraft as facilitation tools in Scrum training, with emphasis on realism, the experience of complexity, and audience engagement. At no point does the content reference, define, or discuss Service Level Expectation (SLE), its calculation, purpose, or use within Agile, Scrum, or Kanban frameworks. The main ideas are about training tool efficacy, not flow metrics or predictability. While the audience may overlap (Scrum trainers or practitioners), and there are minor general thematic overlaps (e.g., complexity in Scrum environments), there is zero direct mention of SLE or indirect alignment with SLE’s definition or application. The content does not address cycle time, elapsed time, forecast, or any SLE-related metrics. As such, all dimensions are scored very low, with the lowest possible value given for Direct Mentions, and slightly higher but still very low for relatedness in depth, alignment, and signal. No penalties are required, as there are no outdated practices or contradictory tone. Overall, the confidence score is extremely low, reflecting the complete absence of SLE-relevant discussion.",
     "level": "Ignored"
   }
 }

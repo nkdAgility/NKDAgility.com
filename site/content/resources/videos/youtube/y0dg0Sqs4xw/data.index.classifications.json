@@ -1359,7 +1359,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1767,5 +1767,23 @@
     "final_score": 42.0,
     "reasoning": "The content discusses mistakes made by rookie agile consultants and emphasizes the importance of understanding the deeper purpose behind Agile methodologies like Scrum. While it recognizes the need for capabilities in effectively implementing these frameworks, it mainly focuses on practices and procedural adherence rather than on cultivating enduring competencies within organizations. Therefore, although aspects of capability are touched upon, they do not constitute the primary focus, resulting in a low confidence score overall.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "y0dg0Sqs4xw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 0.7,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "There are no direct mentions of Service Level Expectation (SLE) or explicit reference to the concept, scoring 0 for Direct Mentions. In terms of Conceptual Alignment, the content focuses on rookie agile consultant mistakes related to dogmatism, understanding context, and empiricism within Scrum, but never discusses SLE, its calculation, or its purpose. There are passing general references to improving with data and reflection—core agile practices—but these are generic and do not relate directly to SLE, resulting in a very low alignment score (0.3). The Depth of Discussion is similarly shallow: SLE is not explored even tangentially. The Intent/Purpose Fit is nearly nil, as the purpose is to caution against rote process-following and promote agile coaching maturity, not to discuss SLE in any specific sense. While the Audience Alignment is marginally higher (0.7), since the technical context and audience overlap with those interested in SLE (agile practitioners, consultants, coaches), the topic itself does not serve their SLE-related needs. The Signal-to-Noise Ratio is very low (0.5) with no relevant SLE content—most of the discussion centers on agile consulting mistakes, context sensitivity, and promotion of agile services. As a whole, the confidence score is extremely low (1.7), reflecting that the content is wholly outside the category’s strict core; no penalties were necessary, and the very limited overlap in potential audience does not offset the total absence of SLE relevance. Final score per weighting formula: ((0.0*1.5)+(0.3*2.5)+(0.2*2.5)+(0.2*1.5)+(0.7*1.0)+(0.5*1.0))*10=1.7",
+    "level": "Ignored"
   }
 }

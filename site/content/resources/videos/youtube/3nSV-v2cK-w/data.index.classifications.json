@@ -1317,7 +1317,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1712,5 +1712,23 @@
     "final_score": 55.0,
     "reasoning": "The content emphasizes collaboration, adaptability, and value delivery, all of which are key concepts related to organizational capability. However, the focus is more on team dynamics and experiences rather than on systematically developing capabilities or understanding their long-term integration within organizational culture. The discussion touches on practices like retrospectives and empowerment, which link to capabilities but lack depth in exploring how these contribute to enduring organizational competencies.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "3nSV-v2cK-w",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 8.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 1.5,
+    "ai_audience": 3.4,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content, while embracing Agile and Scrum principles and providing motivational guidance for teams, never mentions Service Level Expectation (SLE) directly or indirectly. There is no discussion of core SLE concepts such as forecasting elapsed time, cycle time, setting or calculating SLE, or probability ranges. The focus is on mindset, collaboration, embracing change, and general continuous improvement—topics that, while thematically adjacent to predictability and delivery, do not address SLE's definition, calculation, or application. The intended audience is Agile practitioners, which has some overlap with the SLE category's audience. However, due to the absence of any SLE reference or conceptual alignment, the overall confidence in this being appropriate for the 'Service Level Expectation' category is extremely low.",
+    "level": "Ignored"
   }
 }

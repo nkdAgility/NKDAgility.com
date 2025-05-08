@@ -391,7 +391,7 @@
   },
   "Shift Left Strategy": {
     "resourceId": "AORP41zLNTi",
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-05-01T12:35:06",
     "ai_confidence": 32.0,
     "ai_mentions": 100.0,
@@ -2206,19 +2206,19 @@
   "Service Level Expectation": {
     "resourceId": "AORP41zLNTi",
     "category": "Service Level Expectation",
-    "calculated_at": "2025-05-07T10:47:08",
-    "ai_confidence": 2.8,
+    "calculated_at": "2025-05-06T20:54:02",
+    "ai_confidence": 2.786,
     "ai_mentions": 0.2,
-    "ai_alignment": 0.8,
-    "ai_depth": 0.7,
-    "ai_intent": 0.5,
-    "ai_audience": 0.3,
-    "ai_signal": 0.4,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 0.7,
+    "ai_signal": 0.6,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
     "final_score": 3.0,
-    "reasoning": "The content focuses on technical leadership, breaking organisational silos, and improving software delivery through better branching models and architectural practices. There is no direct mention of Service Level Expectation (SLE), nor any discussion of its definition, calculation, or application within Agile, Scrum, or Kanban frameworks. The main themes are about system design, team structure, and delivery practices, not SLE or its related metrics. The closest related topic is 'flow', but it is discussed in a general sense, not in the context of SLE. The audience (technical leaders, CTOs, development managers) could overlap with those interested in SLE, but the content does not address SLE concepts, intent, or practices. Therefore, the confidence score is extremely low, reflecting only a minimal, tangential alignment due to the general focus on delivery flow.",
+    "reasoning": "The content focuses on leadership, organisational silos, system and architectural design, and technical leadership in Agile environments. It addresses delivery practices in general, such as trunk-based development, CI/CD, team design, and the role of leadership in enabling flow. However, there is no explicit or implied discussion of Service Level Expectation (SLE), nor any mention of SLE concepts such as forecasted elapsed days, probabilities, or historical cycle time data. There are no references to SLE in Kanban, Scrum, or Agile. The closest connection is a cursory mention of 'maximise flow' and 'adaptability,' which do not directly tie into SLE as expressly defined. The content, although aimed at technical leaders in an Agile context, is not targeted to SLE-specific guidance, calculation, or usage. Therefore, confidence is very low across all dimensions, as the content does not align with the scope or intent of the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

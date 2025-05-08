@@ -114,12 +114,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "2KovKxNpZpg",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T10:21:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-05-02T04:20:48",
+    "ai_confidence": 8.0,
+    "ai_mentions": 3,
+    "ai_alignment": 30,
+    "ai_depth": 25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 8.0,
+    "reasoning": "The content discusses the principles of Scrum, including transparency and value delivery, which are closely related to accountability. It highlights the importance of understanding who is responsible for outcomes and emphasizes the need for open dialogue and prioritization of value delivery. However, the focus is primarily on Scrum mechanics and principles rather than explicitly defined accountabilities within a structured framework. This results in a moderate confidence score reflecting these aspects.",
     "level": "Ignored"
   },
   "Windows": {
@@ -909,12 +918,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "2KovKxNpZpg",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:21:37",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the principles of Scrum rather than strategic approaches or frameworks, making it less relevant to the Strategy category.",
+    "calculated_at": "2025-05-02T04:20:23",
+    "ai_confidence": 4.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses Scrum's core principles and emphasizes the importance of focusing on value delivery, empiricism, and transparency. However, it primarily focuses on the mechanics and principles of Scrum rather than on strategic planning or alignment with organizational goals. While there are mentions of delivering value and improving processes, these concepts are not explicitly tied to high-level strategic frameworks or decision-making, making the relevance to the Strategy category more tangential than direct.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1323,7 +1341,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1455,15 +1473,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "2KovKxNpZpg",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:24:38",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:21:04",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum principles and practices, discussing the importance of empiricism, transparency, and value delivery. While it touches on themes of collaboration and engagement, it does not explicitly mention Liberating Structures or their techniques. The discussion lacks depth regarding facilitation methods or group dynamics, which are central to the Liberating Structures category. Therefore, the content does not align well with the category.",
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the core principles of Scrum rather than specific Liberating Structures. While it touches on concepts related to engagement and teamwork, it does not mention any specific facilitation techniques from the Liberating Structures toolkit. The focus is on Scrum principles like empiricism and transparency, rather than on structuring team interactions using Liberating Structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1718,5 +1742,23 @@
     "final_score": 76.0,
     "reasoning": "The content discusses Scrum extensively, with a strong emphasis on its core principles like empiricism and transparency. However, it primarily focuses on Scrum as a set of practices rather than providing a broader context of discipline as defined. While it encourages continuous learning and improvement, which are core components of a discipline, it lacks detailed exploration of governance structures or ethical considerations. The discussion is quite detailed, yet it stays rooted in practice rather than examining the evolution or interplay of disciplines in an organisational context.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2KovKxNpZpg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:57",
+    "ai_confidence": 6.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.9,
+    "ai_intent": 0.3,
+    "ai_audience": 2.1,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content does not directly reference Service Level Expectation (SLE) or its calculation, application, or role within Agile, Scrum, or Kanban. Instead, it focuses broadly on the principles of Scrum, such as empiricism, transparency, and value delivery, and argues against ritualistic adherence to mechanics. There are no explicit or implicit mentions of SLE, nor any discussion of cycle time, probability-based delivery forecasting, or flow metrics as related to SLE. The intended audience is Agile or Scrum practitioners, which overlaps with the SLE audience marginally, but the topic is unrelated. The signal is primarily about principles and philosophy, not metrics, delivery projection, or SLE. Confidence is minimal and reflects a very low, accidental fit.",
+    "level": "Ignored"
   }
 }

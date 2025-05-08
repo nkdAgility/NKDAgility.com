@@ -258,12 +258,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "8gAWNn2RQgU",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T19:08:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Joanna's competence and communication skills rather than on accountability within Agile teams.",
+    "calculated_at": "2025-05-01T18:45:48",
+    "ai_confidence": 3.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses the role of Joanna as a Scrum trainer, focusing on her expertise in Scrum and Agile principles. While it mentions roles like Scrum Master and Product Owner, it primarily promotes Joanna's training without emphasizing accountability as a structural construct in work systems. The mention of 'transparent decision-making' hints at accountability, but it lacks depth and primary focus on outcome ownership, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -756,12 +765,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "8gAWNn2RQgU",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T19:09:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on Joanna's qualifications and communication skills as a trainer, rather than discussing strategic approaches within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-01T18:46:01",
+    "ai_confidence": 3.0,
+    "ai_mentions": 3,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on Joanna's expertise in Agile and Scrum training, discussing methodologies and techniques without aligning them with higher-level strategic objectives. While there are mentions of concepts like 'strategic mapping' and 'Agile leadership', these are not elaborated in the context of broader strategic planning or alignment with organizational goals. This limits the depth and relevance in terms of Strategy as defined, resulting in a low to moderate confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1314,7 +1332,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1446,15 +1464,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "8gAWNn2RQgU",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:36:12",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on promoting Joanna as a Scrum trainer and her expertise in Agile methodologies. While it discusses Agile principles and training techniques, it does not mention or align with the specific facilitation techniques of Liberating Structures. The discussion is centred around traditional Agile training and Scrum practices without reference to the core themes of Liberating Structures, such as inclusive engagement or specific techniques like 1-2-4-All or Troika Consulting. Therefore, the confidence score reflects a very low alignment with the category.",
+    "calculated_at": "2025-05-01T18:45:50",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on Joanna's role as an Agile trainer and does not reference specific Liberating Structures. While it discusses Scrum principles and techniques, it lacks explicit mention of any Liberating Structures methods, their integration, or their application in specific scenarios. The discussion is mostly about training and Agile philosophy rather than the strategic facilitation methods associated with Liberating Structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1709,5 +1733,23 @@
     "final_score": 47.0,
     "reasoning": "The content focuses on Joanna's skills and teaching methods in the context of Agile and Scrum, which relates to the Discipline category. However, it primarily emphasizes individual practice and guidance rather than discussing the underlying principles, methodologies, and systemic applications related to professional fields like Agile, DevOps, and Lean. The mentions of Agile leadership, continuous improvement, and feedback loops indicate relevance to disciplines, yet the depth centers more on Joanna's effectiveness as a trainer rather than a structured discussion on the discipline of Agile itself. Therefore, while there is alignment with key aspects of the Discipline category, the overall focus remains on personal attributes and training rather than an exploration of the broader systemic applications of those disciplines.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "8gAWNn2RQgU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 3.86,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.3,
+    "ai_intent": 0.8,
+    "ai_audience": 2.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is a promotional profile for a Scrum trainer, focusing on the qualities and breadth of her Agile/Scrum teaching. There is extensive discussion of Agile training, Scrum ceremonies, empiricism, and continuous improvement, but at no point is 'Service Level Expectation' (SLE) or its concepts (cycle time forecasts, probability ranges, flow issues, or SLE transparency) mentioned directly or even alluded to. The alignment and depth scores are slightly above minimum as the content promotes good Agile practices, but none are detailed in the explicit SLE context. Audience and signal are marginally higher, since the target audience overlaps with practitioners who might be interested in SLE, and the content is generally Agile-relevant, but it remains mostly signal around instructor capability and class experience. No penalties applied, as there is no outdated content or negative framing. The low confidence accurately reflects the almost complete lack of SLE relevance.",
+    "level": "Ignored"
   }
 }

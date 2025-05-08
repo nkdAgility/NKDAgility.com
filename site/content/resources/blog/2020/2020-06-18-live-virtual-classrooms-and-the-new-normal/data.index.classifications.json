@@ -1347,7 +1347,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1754,6 +1754,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses the shift to Live Virtual Classrooms and their effectiveness, touching on aspects of Agile such as team dynamics and training methods. However, it does not explicitly outline actionable tenets or guiding rules related to Agile, Lean, or DevOps methodologies. The mention of Scrum is more focused on personal experience rather than providing a detailed exploration of Agile tenets. The content lacks depth in discussing any specific guiding principles, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "wS3GaFbyzDv",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.1,
+    "ai_intent": 0.2,
+    "ai_audience": 1.0,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses exclusively on the transition from in-person to live virtual classrooms in training, emphasizing benefits, techniques, and experiences associated with virtual learning environments. There is no mention of Service Level Expectation (SLE), nor any discussion of Agile, Scrum, Kanban forecasting, or related metrics. No terms related to SLE, cycle time, probability in delivery, or any SLE calculation or improvement are present. The alignment and depth scores are extremely low due to the content being entirely outside the intended category, although it incidentally references Scrum and Agile in the context of training, not SLE. The audience is loosely adjacent (some overlap with agile practitioners), but this is incidental and not central to the topic. There is no mention, conceptual overlap, or intent matching SLE as described in the classification definition. Therefore, the confidence score is 0.",
     "level": "Ignored"
   }
 }

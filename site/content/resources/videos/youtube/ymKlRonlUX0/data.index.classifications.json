@@ -1335,7 +1335,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1729,6 +1729,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily critiques burndown charts and promotes an empirical approach to Agile, which hints at the theme of capability through advocacy for adaptability and flow of value. However, it largely focuses on the limitations of a specific tool rather than discussing enduring competencies or strategies for developing capabilities within teams or organizations. The emphasis on better practices does suggest an engagement with improving team dynamics, but it lacks a thorough exploration of cultivating systemic capabilities as per the category definition.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ymKlRonlUX0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:32",
+    "ai_confidence": 5.43,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.4,
+    "ai_intent": 4.1,
+    "ai_audience": 7.0,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content does not directly mention Service Level Expectation (SLE) at any point, nor does it discuss its definition, calculation, or use within Agile, Scrum, or Kanban frameworks. The focus is exclusively on critiquing burndown charts and advocating for empirical, flow-based practices over fixed planning. While the article aligns with the broader paradigm shift from traditional metrics to flow-based Agile methods (where SLE is relevant), it never references SLE, cycle time probability, elapsed time ranges, or Kanban Guide/SLE best practices. Depth and alignment are thus very limited. The intended audience is Agile/Scrum practitioners and leaders, aligning with the SLE audience, and the writing is mostly focused and relevant to the critique of traditional metrics (strong signal-to-noise). No penalties were necessary, as the content is current and not satirical or critical of SLE. Confidence is low, reflecting only minimal conceptual adjacency and some overlap in practice focus, but no direct or significant SLE discussion.",
     "level": "Ignored"
   }
 }

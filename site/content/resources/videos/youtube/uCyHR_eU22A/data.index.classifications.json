@@ -1356,7 +1356,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1488,15 +1488,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "uCyHR_eU22A",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T11:54:26",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:26",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on selecting items for the Sprint backlog within the Scrum framework, discussing Agile planning and team collaboration. However, it does not mention Liberating Structures or their specific techniques, nor does it delve into the principles or philosophy behind them. While there is a slight alignment with the themes of collaboration and decision-making, the overall discussion lacks depth and direct relevance to Liberating Structures, leading to a low confidence score.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the selection of items for the sprint backlog within the Scrum framework. While it mentions collaboration and team effort, it does not reference any specific Liberating Structures or facilitation techniques. The discussion is focused more on Scrum practices and principles rather than on the Liberating Structures toolkit, thus failing to meet the category requirements.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1750,6 +1756,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses selecting items for a Sprint backlog in an Agile context, which reflects on Agile practices. However, it primarily centers around specific processes and practices of Scrum rather than the broader principles or frameworks that characterize disciplines like Agile itself. While there are mentions of collaboration and strategic selection which touch upon the discipline's aspects, the content lacks depth on the principles guiding these practices and does not explore the systemic application of Agile as a discipline. Therefore, the confidence score reflects that while there is relevance, the primary focus is on methodologies rather than the broader category of discipline.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "uCyHR_eU22A",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:55",
+    "ai_confidence": 8.38,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 1.2,
+    "ai_audience": 1.5,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content exclusively discusses the process of selecting items for the Sprint Backlog in Scrum, focusing on value, collaboration, and pragmatic planning. There are zero direct mentions of Service Level Expectation (SLE) or related terminology, nor any conceptual alignment to calculating or applying SLE as defined in agile, Scrum, or Kanban practices. The depth is minimal regarding SLE, as the discussion centers entirely on selection strategy, stakeholder input, and the mechanics of backlog refinement—none of which address metrics, forecasts, or flow expectations characteristic of SLE. The intent of the content is to guide practitioners on backlog selection, not on service predictability or delivery timing, signifying a significant misalignment in purpose. While the target audience (Agile practitioners, product owners, developers) theoretically overlaps with the intended SLE audience, the actual subject matter is irrelevant to SLE knowledge or application. Signal-to-noise is low: all content is focused, but none on the specified category. Calibration against the scoring rubric results in a very low confidence score, reflecting the near-complete absence of relevant signals for the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

@@ -1344,7 +1344,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1738,6 +1738,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses the process of creating a sprint goal within a Scrum team, emphasizing collaboration and value delivery. While it relates to Agile methodologies, it primarily focuses on the tactical aspects of sprint goal creation rather than explicitly stating actionable tenets. The mentions of collaboration and strategic context align conceptually with the category, but the discussion lacks depth on specific guiding rules or doctrines that shape decisions, which diminishes the overall confidence in the category relevance.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GJSBFyoHk8E",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:03",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.0,
+    "ai_intent": 0.3,
+    "ai_audience": 0.4,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively discusses the process of creating Sprint Goals within Scrum teams, focusing on aligning with strategic and tactical directions, backlog refinement, and stakeholder value. There is no mention—direct or indirect—of Service Level Expectation (SLE), its definition, calculation, or application as defined for the category. The discussion does not touch on predictability of delivery timelines, historical cycle time data, or any concepts or metrics related to SLE. The main intent and audience are aligned with general Scrum practitioners but not specifically with those seeking knowledge around SLE. Given the strict exclusions outlined, the content is almost wholly irrelevant to SLE, warranting the lowest possible scores across all dimensions, with only minimal credit where Scrum framework or audience tangentially overlaps with SLE contexts.",
     "level": "Ignored"
   }
 }

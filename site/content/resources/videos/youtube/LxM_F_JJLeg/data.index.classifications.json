@@ -1371,7 +1371,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1766,5 +1766,23 @@
     "final_score": 74.0,
     "reasoning": "The content critically discusses systemic issues in Agile environments and speaks to the importance of measurement systems, culture, and continuous improvement, all of which align with the principles underlying the category of Discipline. It touches on the evolution and impact of these principles within organizations, highlighting a structured approach to professional conduct in Agile. However, while it mentions Agile as a discipline, it focuses heavily on specific challenges and metrics rather than a broader systemic application or governance structures within the discipline itself, slightly limiting its depth of discussion.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "LxM_F_JJLeg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 9.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 5.3,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is focused on systemic issues in agile environments, particularly relating to how measurement systems (such as metrics used for developer evaluation) affect team behavior and culture. It advocates for systemic change over blaming individuals and reiterates the importance of continuous improvement—a topic somewhat tangentially related to SLE in terms of broader agile practices. However, at no point does the content explicitly mention Service Level Expectation (SLE), nor does it discuss its definition, calculation, use, or associated probability/time range concepts integral to the category. There is zero direct discussion of SLE, nor indirect application of its principles beyond very general advocacy for better measurement and continuous improvement. The alignment score is low as the main ideas revolve around organizational measurement and systems thinking, not the SLE construct itself. Depth is minimal with respect to SLE, as all discussion remains at a high level and never delves into flow metrics, probabilities, or work item predictability. The intent score is low, as the piece does not aim to inform or support readers on SLE; rather, it addresses transformation through systemic change. The intended audience does overlap somewhat with those interested in SLE (agile practitioners, coaches), raising that subscore slightly. However, the signal-to-noise ratio is low for SLE-specific relevance. No penalties are applied as there is no outdated or contradictory content. The final confidence score of 9.1 accurately reflects that almost none of the expected signals for SLE are present.",
+    "level": "Ignored"
   }
 }

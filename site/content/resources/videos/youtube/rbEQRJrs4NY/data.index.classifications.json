@@ -1266,7 +1266,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
@@ -1660,6 +1660,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the importance of user feedback in product development, which while valuable, does not directly explore the concept of 'capabilities' as defined in the Capability category. It briefly touches upon validation and iteration, which can contribute to capabilities development, but lacks a systemic view on enduring competencies or their integration in organisational culture. The discussion is too oriented towards the immediate practice of gathering feedback rather than long-term capability building.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "rbEQRJrs4NY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:16",
+    "ai_confidence": 3.65,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 1.0,
+    "ai_audience": 5.2,
+    "ai_signal": 4.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses entirely on the importance of user feedback in product development, validating assumptions, and iterating early based on market needs. There is no direct or indirect mention of Service Level Expectation (SLE), nor any discussion of forecasting time-to-completion, cycle times, or probability-based delivery expectations as defined in Agile, Scrum, or Kanban frameworks. The alignment, depth, and direct mention scores are very low, as the topic is unrelated to SLE, except for a weak overlap in being potentially useful to Agile practitioners. The intended audience (product developers) may also overlap somewhat with those using SLE, but the signal-to-noise ratio reflects that nearly all the content is off-scope. No penalties were applied because the article is neither outdated, critical, nor referencing obsolete practices—it is simply not relevant to this category. Overall, the confidence score is very low and proportional to the near-total absence of SLE-specific content.",
     "level": "Ignored"
   }
 }

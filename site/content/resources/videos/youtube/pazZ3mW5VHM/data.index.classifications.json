@@ -1293,7 +1293,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1687,6 +1687,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily discusses the experiences and challenges of Product Owners, with a focus on their feelings of empowerment and accountability. While there are mentions of the Product Owner role and the importance of competence, it lacks a direct discussion on capabilities as defined in the classification. The content does briefly touch on the concept of empowerment, which aligns with capabilities, but it does so in an isolated manner without sufficient depth or detailed exploration of how to cultivate or assess capabilities within organizations. The emphasis is on roles and personal introspection rather than systemic capability development.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "pazZ3mW5VHM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:53",
+    "ai_confidence": 3.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.4,
+    "ai_depth": 3.2,
+    "ai_intent": 4.1,
+    "ai_audience": 5.3,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "This content centers on observations about the experience of Product Owners in PSPO courses, focusing on their sense of empowerment, influence, and organizational role. At no point does it directly mention or reference Service Level Expectation (SLE) or discuss its concepts such as elapsed time ranges, probability for completion, or agile predictability metrics tied to SLE. The main ideas align with broader themes of accountability and empowerment in Scrum, not the calculation or application of SLE as defined. There is some tangential relevance for Product Owners who might use SLE for greater transparency and control, but this is not discussed at any substantive level. The content offers reflective and motivational guidance rather than technical or procedural detail on SLE or its role in Agile frameworks. All scoring is therefore low, with a slightly higher signal and audience score since it targets Agile practitioners (including those who might care about SLE). No penalties were required as the content does not contradict, undermine, or reference obsolete practices.",
     "level": "Ignored"
   }
 }

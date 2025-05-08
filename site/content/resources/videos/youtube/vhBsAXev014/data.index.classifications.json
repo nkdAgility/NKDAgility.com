@@ -1377,7 +1377,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:24",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1772,5 +1772,23 @@
     "final_score": 55.0,
     "reasoning": "The content touches on aspects of capabilities, such as effective communication and alignment, which are critical for navigating chaos in agile transformations. However, it largely focuses on issues related to chaos and communication breakdowns rather than deeply exploring the enduring competencies that form the basis of capabilities. While it does hint at the need for clarity, vision, and aligning incentives, these themes are secondary to the discussion of chaos rather than a primary exploration of capabilities as defined in the category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "vhBsAXev014",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:38",
+    "ai_confidence": 6.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.5,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is a motivational and high-level analysis of chaos in agile transformations, focusing on themes like the importance of vision, communication, and alignment. There are extended discussions about agility principles, autonomy, and the dangers of traditional approaches, but there is absolutely no direct mention or even indirect discussion of Service Level Expectation (SLE), its definition, calculation, application, or supporting metrics. The text does not reference cycle time analysis, SLE probabilistic forecasting, or practices described in the Kanban Guide for Scrum Teams, nor does it mention related experts or specific flow metrics. Mentions and alignment receive very low scores, as the topic does not overlap with SLE except for a broad shared interest in agile improvement. Depth is minimal since SLE is not discussed. Intent is slightly higher than zero as the article aims to support agile teams, a tangential connection. Audience fit and signal are also slightly above minimum: the audience is agile practitioners (modestly relevant to SLE), and while the content is focused on its stated topic, it never addresses SLE or metrics. No penalties were applied as the material is neither outdated nor critical of SLE. The confidence score is very low as there is no material fit for direct classification under Service Level Expectation.",
+    "level": "Ignored"
   }
 }

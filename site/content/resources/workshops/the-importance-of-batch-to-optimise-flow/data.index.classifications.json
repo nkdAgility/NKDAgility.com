@@ -870,12 +870,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "kwS9oPiz-Ny",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T14:16:52",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on optimising flow through batch processing in a Scrum context, without a clear emphasis on accountability or team ownership.",
+    "calculated_at": "2025-05-01T18:45:31",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on optimizing flow through breaking down large tasks and the implications of batch size in a Scrum context. While it does mention Scrum, it does not explicitly discuss accountability or roles associated with outcome ownership. The connection to accountability is minimal and indirect, as the main theme revolves around improving flow and efficiency rather than clearly defined accountabilities and ownership in work systems.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1389,7 +1398,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:02",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
@@ -1533,15 +1542,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "kwS9oPiz-Ny",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-10T17:19:01",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on a workshop aimed at optimising flow through batch processing, which is related to Agile methodologies. However, it does not explicitly mention Liberating Structures or any specific techniques associated with it. While there is some conceptual alignment with the principles of enhancing collaboration and decision-making, the depth of discussion on Liberating Structures is minimal, and the content lacks direct references to the core techniques or philosophy of Liberating Structures.",
+    "calculated_at": "2025-05-01T18:45:21",
+    "ai_confidence": 2.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "While the content focuses on using a workshop format to explore concepts related to batch size and flow in a Scrum context, it does not directly reference any specific Liberating Structures nor does it emphasize facilitation techniques associated with them. The workshop seems to be an illustration of process improvement rather than a structured method in the Liberating Structures toolkit. Thus, it has a brief mention of facilitation (0.2), a moderate conceptual alignment to the idea of improving interactions in teams (0.3), and a generally low depth of discussion on Liberating Structures specifically (0.2).",
     "level": "Ignored"
   },
   "Hybrid Agile": {
@@ -1784,5 +1799,23 @@
     "final_score": 82.0,
     "reasoning": "The content discusses actionable techniques involved in optimizing delivery by breaking down large backlog items into smaller pieces, which aligns closely with the core themes of 'Practice.' It explicitly mentions facilitating a workshop focused on these practices, indicating a strong direct mention. The strategies outlined, including the facilitation steps and exercises involving batch sizes and queuing theory, suggest a deep level of engagement with methods to improve team performance. However, while it provides good insights into techniques for delivery optimization, it does deviate slightly from the specific practices listed in the category description, such as not detailing Agile estimating techniques or retrospectives specifically. Therefore, the overall confidence is high but not maximum.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "kwS9oPiz-Ny",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:40",
+    "ai_confidence": 21.985,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.3,
+    "ai_intent": 2.2,
+    "ai_audience": 6.3,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content never directly mentions SLE, Service Level Expectation, nor does it reference its calculation, probabilities, or agile-specific meaning. The main theme is the effect of batch size reduction for flow optimization, with references to predictability, but without explicit linkage to SLE, its definition, or the core SLE mechanisms (historical cycle time analysis, elapsed time range, probabilities, etc.). The focus is on flow and predictability at a general level, not on SLE as a forecast tool in Agile/Kanban. The main purpose is to educate teams (audience: practitioners) on batch size and flow, broadly relevant but not specific to SLE. There are no outdated or contradicting elements, so no penalties are applied. Overall, only a tangential fit; the confidence score remains low.",
+    "level": "Ignored"
   }
 }

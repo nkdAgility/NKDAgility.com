@@ -1317,7 +1317,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1711,6 +1711,24 @@
     "non_ai_confidence": null,
     "final_score": 12.0,
     "reasoning": "The content primarily focuses on promoting Scrum training courses with a promotional offer. Though it mentions elevating Agile skills and boosting team performance, there is no substantial discussion on the definition, characteristics, or enduring competencies related to capabilities in Agile or DevOps contexts. It lacks depth in exploring the concepts of capability development, measurement, and assessment, which are central to the category. Overall, the content is more marketing-oriented rather than focused on capability enhancement.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ZHJtz2t0uTU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:26",
+    "ai_confidence": 1.14,
+    "ai_mentions": 0.6,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 2.1,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "There are no direct mentions of Service Level Expectation (SLE) or any synonyms in this content. The content is purely promotional, advertising Scrum training offers and course discounts, with no discussion of SLE concepts, calculation, application, or purpose. There is no reference to Agile flow metrics, predictability, transparency, or continuous improvement in the context of SLE. The audience (Scrum practitioners) could theoretically overlap with SLE-relevant audiences, but this is incidental. No part of the text aligns conceptually or in intent with the classification definition of 'Service Level Expectation.' Scores are minimal to reflect an extremely low relevance, yielding a proportional confidence score close to zero.",
     "level": "Ignored"
   }
 }

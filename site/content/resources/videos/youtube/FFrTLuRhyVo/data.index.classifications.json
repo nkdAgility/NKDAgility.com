@@ -765,12 +765,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "FFrTLuRhyVo",
     "category": "Accountability",
-    "calculated_at": "2025-02-13T19:47:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses technical debt and product delivery rather than accountability within Agile teams.",
+    "calculated_at": "2025-05-01T18:45:34",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses the importance of addressing technical debt and fostering a culture of quality in product delivery, which indirectly relates to accountability. However, it does not explicitly mention accountability or relate to the defined outcome ownership in work systems. It emphasizes maintaining quality and enhancing value delivery, but lacks depth on how those aspects tie back to structural accountabilities or roles like Scrum Master or Product Owner. Hence, the confidence score reflects a moderate conceptual alignment but low direct mentions, leading to a final score of 0.32.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1347,7 +1356,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:38:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1551,15 +1560,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "FFrTLuRhyVo",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-10T17:02:55",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:26",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on technical debt and quality product delivery, with no direct mention of Liberating Structures or facilitation techniques. While it touches on themes of team collaboration and improvement, it does not align with the core principles of Liberating Structures, which emphasise inclusive engagement and specific facilitation methods. The depth of discussion is also limited, as it does not explore any techniques or frameworks related to Liberating Structures.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses technical debt and its impact on product delivery and team morale. It does not mention any specific Liberating Structures or facilitation techniques, nor does it directly address how these structures can be integrated into team processes. The themes of engagement and continuous improvement are present but are not framed within the context of Liberating Structures or methods that promote collaborative interactions, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Open Space Agile": {
@@ -1742,5 +1757,23 @@
     "final_score": 78.0,
     "reasoning": "The content focuses significantly on managing technical debt, which ties directly into practices for improving team performance and product quality. Key actionable techniques are outlined, such as regularly assessing technical debt, prioritizing refactoring, and fostering a culture of quality, aligning with the core themes of the 'Practice' category. The depth of discussion on these techniques demonstrates a practical approach toward enhancing effectiveness and continuous improvement for teams. However, while it does discuss actionable practices, the exploration of the underlying principles of quality and debt management does not delve deeply into the specific practices laid out in the provided key topics, hence the score is less than perfect.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "FFrTLuRhyVo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:38",
+    "ai_confidence": 4.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 1.2,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is focused on technical debt, its impacts, and strategies for managing and reducing it within Agile teams. There is no explicit use or mention of Service Level Expectation (SLE) anywhere in the text, nor are there indirect references to its calculation, definition, or practical application. The discussion is aligned with Agile and continuous improvement but never references SLE, its probabilistic forecasting of delivery times, transparency requirements, or its role per Kanban/Scrum guidance. The primary audience—Agile practitioners and stakeholders—matches, but only superficially. The signal-to-noise ratio is low regarding the SLE category, as all discourse is relevant to technical debt, not SLE. No penalties applied since there are no outdated or contradictory statements. Final confidence is very low because the only slight alignment comes from the general Agile context, not from any actual engagement with the category's subject matter.",
+    "level": "Ignored"
   }
 }

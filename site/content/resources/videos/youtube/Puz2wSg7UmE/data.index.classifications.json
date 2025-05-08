@@ -1380,7 +1380,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
@@ -1775,5 +1775,23 @@
     "final_score": 92.0,
     "reasoning": "The content primarily discusses organizational capability and specifically focuses on the ability to innovate, which aligns well with the notion of capability in an Agile context. It provides a detailed examination of how to measure this capability using evidence-based management, listing clear metrics, and emphasizes the importance of innovation as a core capability. The depth of the discussion is strong, explaining various metrics and their significance in fostering an environment of continuous improvement and adaptation. The discussion remains focused on enduring organizational competencies rather than transient tools or roles, which accurately fits the definition of 'Capability'.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Puz2wSg7UmE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:21",
+    "ai_confidence": 5.03,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 0.9,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content titled 'How to Measure Your Organization's Ability to Improve Value Through Innovation' focuses almost entirely on Evidence-Based Management (EBM) and organizational innovation metrics, such as active branches, technical debt, innovation rate, and complexity overhead. Nowhere in the title, description, or main body is Service Level Expectation (SLE) mentioned explicitly or even indirectly; the key concepts of SLE as defined in Agile/Scrum/Kanban practice are not discussed. The content never references elapsed time ranges, probabilities, historic flow data, or SLE’s core predictive/forecasting function. None of the key sources authoritative on SLE are cited, nor are the category's signature phrases or techniques alluded to. While the broader themes of continuous improvement and value delivery are present, they are framed through EBM and innovation, not through SLE. The (very minimal) scores given primarily reflect an extremely faint, tangential relevance in audience and intent for those interested in improvement via Agile—however, there is no substantive or conceptual alignment, direct mention, or depth regarding Service Level Expectation. The confidence score, at just over 5, accurately signals a negligible fit with the SLE category per the strict definition.",
+    "level": "Ignored"
   }
 }

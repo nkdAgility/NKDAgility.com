@@ -1284,7 +1284,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:49",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1691,6 +1691,24 @@
     "non_ai_confidence": null,
     "final_score": 15.0,
     "reasoning": "The content discusses professionalism in the context of Scrum teams, but it primarily emphasizes the need for professionalism rather than defining or exploring capabilities as enduring competencies. Mentions of Scrum are present, but there is no substantial elaboration on how professionalism relates to the development of capabilities within teams or organizations. The focus remains on team performance and values, lacking a clear exploration of capabilities as described in the category criteria.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "sdlfWR5wHx7",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:16",
+    "ai_confidence": 2.64,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.4,
+    "ai_audience": 0.6,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.6,
+    "ai_penalty_details": "mentions -0.2 (no reference to SLE); alignment -0.3 (themes do not match SLE scope); depth -0.3 (no substantive exploration of SLE); intent -0.2 (content purpose unrelated to SLE); audience -0.2 (focus is on general professionalism not SLE practitioners); signal -0.3 (high off-topic ratio)",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on professionalism and engineering excellence within Scrum teams—neither the term 'Service Level Expectation' (SLE) nor its essential concepts (definition, calculation, application) are mentioned or implied. Instead, the discussion centers on team maturity and adherence to general best practices. There are no direct or indirect references to SLE, its metrics, or its use cases as framed by Kanban or Scrum methodologies, nor is the audience oriented specifically toward SLE or flow metrics practitioners. The majority of the content is off-topic in relation to the SLE category, justifying significant deductions for misalignment, superficial treatment, and lack of intent correspondence. Thus, the resulting low confidence reflects that this resource is unsuitable for classification under Service Level Expectation.",
     "level": "Ignored"
   }
 }

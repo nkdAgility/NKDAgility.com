@@ -1299,7 +1299,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1693,6 +1693,24 @@
     "non_ai_confidence": null,
     "final_score": 20.0,
     "reasoning": "The content primarily focuses on promoting a Scrum Master training course rather than discussing capabilities in-depth. There is a brief mention of improving outcomes, which can loosely relate to capability, but it lacks direct discussion of what capabilities are, how they develop, or their impact on organizational performance. Overall, the content does not substantively address the key themes associated with the category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Bi4ToMME8Xs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:43",
+    "ai_confidence": 2.96,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.4,
+    "ai_intent": 3.1,
+    "ai_audience": 4.0,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is a promotional description for advanced Scrum Master training and does not mention Service Level Expectation (SLE) at all. The discussion is limited to suggesting Scrum and Agile practices may improve outcomes, but there is no direct or implied focus on SLE concepts such as cycle time forecasting, elapsed time ranges, probabilities, or transparency for stakeholders, as defined in the classification scope. There is no depth of discussion on SLE, nor are any key topics, usage or calculation of SLE addressed. The main intent is to attract potential learners or buyers for the course, likely Scrum practitioners or organizations, which loosely aligns with the audience for SLE, but the signal is very low due to the absence of any substantive SLE content. No penalties applied because the content does not contradict, satirize, or undermine the category nor cite outdated practices. The final score is appropriately low, reflecting the lack of any relevant SLE material.",
     "level": "Ignored"
   }
 }

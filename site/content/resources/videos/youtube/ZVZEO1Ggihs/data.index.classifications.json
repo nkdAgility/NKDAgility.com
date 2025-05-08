@@ -1278,7 +1278,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1673,5 +1673,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses the importance of leadership in scaling organizations, focusing on creating an empowered culture and decentralizing decision-making, which aligns with developing capabilities within teams. It directly mentions key aspects of capability such as team empowerment and addressing bottlenecks, though it primarily centers on leadership rather than systemic capability in an Agile or DevOps context. The discussion is somewhat detailed, providing insights into how to cultivate an environment for sustainable growth, which contributes to a moderate depth of discussion related to capability, but still leans heavily towards leadership concepts.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ZVZEO1Ggihs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:09",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.4,
+    "ai_intent": 0.4,
+    "ai_audience": 0.5,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on leadership approaches for sustainable scaling, such as empowering teams, eliminating bottlenecks, and decentralizing decision-making. It does not reference Service Level Expectation (SLE) by name or concept, nor does it address any key aspects of SLE—such as cycle time forecasting, probability ranges, or Kanban/Agile frameworks related to SLE. The intended audience (leaders and executives) partially overlaps with SLE's audience in Agile contexts, but the single-minded focus on leadership and organizational behaviors provides almost no direct or indirect alignment with the SLE category. There is no depth of discussion about SLE, nor intent to inform or explore related practices. All scores are very low reflecting minimal relevance and absence of mentions. No penalties were applied, as the article is not outdated or satirical, it is simply unrelated.",
+    "level": "Ignored"
   }
 }

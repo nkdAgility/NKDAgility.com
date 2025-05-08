@@ -1308,7 +1308,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1703,5 +1703,23 @@
     "final_score": 42.0,
     "reasoning": "While the content discusses immersive learning and the role of peer feedback, which are valuable in a training context, it primarily focuses on the processes and benefits of peer feedback rather than on enduring capabilities that organizations can cultivate over time. The content touches on continuous improvement, but lacks a detailed exploration of how these practices contribute to broader capabilities within teams and organizations. It emphasizes immediate, practical benefits rather than systemic or long-term capabilities, and does not provide sufficient depth on developing or measuring enduring competencies.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "yQlrN2OviCU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:18",
+    "ai_confidence": 6.34,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.6,
+    "ai_intent": 0.7,
+    "ai_audience": 1.4,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is centered around immersive learning and peer feedback within Scrum training scenarios, emphasizing hands-on assignments, peer review, and continuous improvement. There is no direct mention of Service Level Expectation (SLE) or any discussion of its calculation, definition, application, or improvement in Agile, Scrum, or Kanban contexts, which are the required boundaries of the category. The closest thematic overlap is the generic reference to 'continuous improvement,' a concept SLE supports, but the text does not connect this to SLE, cycle time, elapsed days, probability forecasts, or flow analysis. No SLE-specific artifacts, terms, or intentions are present, and none of the authoritative sources or SLE-related practices are referenced. The main audience and language are aligned with Scrum practitioners, which marginally overlaps, and the content's signal is relatively high in focusing on its core (immersive learning, feedback), but not on SLE. No penalty deduction is necessary, as the content is not outdated or contrary in tone; it's simply irrelevant to SLE. The confidence score is extremely low, reflecting the near-total lack of alignment with the strict classification definition for Service Level Expectation.",
+    "level": "Ignored"
   }
 }

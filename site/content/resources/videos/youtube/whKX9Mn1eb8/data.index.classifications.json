@@ -1314,7 +1314,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:36:57",
     "ai_confidence": 92.0,
     "ai_mentions": 18,
@@ -1709,5 +1709,23 @@
     "final_score": 45.0,
     "reasoning": "The content primarily discusses the shift-left approach in software development, which emphasizes integrating quality assurance early in the development process. While it touches on benefits such as improved quality, faster delivery, and team collaboration, it lacks a strong focus on capabilities as enduring competencies that empower teams over time. The conversation about QA practices is framed more around techniques and efficiencies rather than cultivating systemic capabilities that align with the provided definition of the category 'Capability.' As a result, the content aligns moderately with the theme, but does not deeply dive into the nurturing and embedding of capabilities within an organization.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "whKX9Mn1eb8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:38",
+    "ai_confidence": 9.15,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.1,
+    "ai_audience": 0.6,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on the 'shift-left' approach to quality assurance in software development, advocating for early QA integration, continuous feedback, and collaboration during the development lifecycle. Nowhere does the text directly or indirectly mention, define, or analyze Service Level Expectation (SLE) within Agile, Scrum, or Kanban contexts. There is no discussion of SLE calculation, transparency, elapsed time ranges, probabilities, or linkage to delivery predictability by SLE definition. The audience (software practitioners and team leads) does partially overlap, which justifies a slightly higher audience alignment score, but otherwise the entire content lacks both the keywords and the conceptual scope required for this specific category. No penalties were necessary as the content is neither outdated nor in contradiction with the SLE concept; it's simply unrelated. The confidence, calculated per the formula, reflects the very weak direct and indirect connection to the SLE category.",
+    "level": "Ignored"
   }
 }

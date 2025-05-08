@@ -855,12 +855,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "ZQZeM20TO4c",
     "category": "Accountability",
-    "calculated_at": "2025-02-11T21:42:15",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile leadership and traditional management, focusing on empowerment and decision-making rather than accountability within teams.",
+    "calculated_at": "2025-05-02T04:20:24",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the differences between traditional management and Agile leadership, which indirectly touches on accountability through the lens of decision-making and empowerment. However, it does not explicitly delve into structural accountabilities or role-specific responsibilities within agile frameworks, making accountability a secondary focus rather than a primary one. There are mentions of Agile Leaders as agents of change, but a detailed exploration of accountability as defined by the category is lacking.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1353,7 +1362,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1485,15 +1494,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "ZQZeM20TO4c",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:21:36",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:33",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the differences between agile leadership and traditional management, focusing on the roles and responsibilities of leaders rather than on Liberating Structures. While it touches on themes of empowerment and open communication, which are relevant to the principles of Liberating Structures, it does not explicitly mention any specific techniques or provide a detailed exploration of facilitation methods. Therefore, the confidence score reflects a low alignment with the category.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "While the content discusses the differences between agile leaders and traditional managers, it does not mention any specific Liberating Structures or facilitation techniques. It focuses on general agile leadership concepts and does not directly align with the toolkit or methodologies associated with Liberating Structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1748,5 +1763,23 @@
     "final_score": 42.0,
     "reasoning": "The content discusses the differences between an Agile Leader and a traditional manager, highlighting principles of Agile management that align with the Discipline category. While it discusses Agile concepts and leadership styles, it does not provide in-depth exploration of the broader principles, methodologies, and governance structures that define the discipline. Thus, the content shows some connection to the discipline but lacks comprehensive detail and discussion on the systemic application of Agile as a field.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ZQZeM20TO4c",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 2.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.2,
+    "ai_audience": 0.4,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is exclusively focused on contrasting agile leadership with traditional management styles. There are no explicit or implicit mentions of Service Level Expectation (SLE) or related concepts such as cycle time, flow metrics, probability-based forecasts, or workflow predictability. The main ideas and themes are about leadership, empowerment, and adaptability in an agile context, which are conceptually removed from the specific definition or calculation of SLE. Any potential audience overlap with SLE (e.g., agile practitioners) is incidental and not targeted. The discussion is broad and introductory, lacking any depth or analytical discussion of SLE or its applications. No penalties were applied, as the tone is neutral and current. Overall, the confidence score is extremely low, reflecting weak conceptual alignment, negligible direct relevance, and the absence of even superficial SLE references.",
+    "level": "Ignored"
   }
 }

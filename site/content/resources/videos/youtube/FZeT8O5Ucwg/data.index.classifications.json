@@ -1341,7 +1341,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1749,5 +1749,23 @@
     "final_score": 55.0,
     "reasoning": "The content discusses various elements of Agile practices, focusing on the tension between claimed and actual agility within organizations. While it touches on cultural aspects and the importance of retrospectives, which are related to capability development, it primarily revolves around roles, practices, and cultural barriers rather than a systematic exploration of enduring capabilities. Thus, while it highlights some relevant topics, it falls short of deeply addressing the core themes of capability in a structured manner.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "FZeT8O5Ucwg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:09",
+    "ai_confidence": 12.45,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.9,
+    "ai_intent": 2.0,
+    "ai_audience": 4.2,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content centers on distinguishing genuine Agile practices from superficial implementations, focusing primarily on iteration length, backlog prioritization, retrospectives, cultural resistance, and process history. Nowhere does it mention or allude to the concept of Service Level Expectation (SLE), nor does it discuss the calculation, application, or purpose of SLE as defined in Agile, Kanban, or Scrum methodologies. Although the author references predictability (e.g., fast feedback, delivering working software), these are general Agile goals not tied explicitly to SLE concepts such as an elapsed time range with probability, cycle time analysis, or forecast transparency. There is no discussion about making quantitative forecasts for item completion, managing stakeholder timelines via SLE, or referencing authoritative SLE sources. The targeted audience (Scrum practitioners) loosely matches, but the content provides almost no signal regarding the SLE category, yielding very low scores for direct mentions, conceptual alignment, and depth. Consequently, the confidence score is minimal and proportional to the lack of relevant evidence.",
+    "level": "Ignored"
   }
 }

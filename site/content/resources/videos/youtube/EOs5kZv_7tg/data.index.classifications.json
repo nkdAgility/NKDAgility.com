@@ -1359,7 +1359,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1753,6 +1753,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily highlights Johanna's teaching qualities and the dynamics of her classes, lacking a strong focus on actionable principles that guide decision-making in Agile or Lean. There are some implicit references to agile practices, but the content does not directly discuss any specific principles nor does it provide in-depth analysis of how those principles shape decision-making or team behavior.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "EOs5kZv_7tg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:53",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 1.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content centers entirely on the teaching style, experience, and impact of Johanna as an instructor for Professional Agile Leadership courses. While it mentions Agile, Scrum, leadership, Lean, and DevOps, there is absolutely no reference—explicit or implicit—to Service Level Expectation (SLE), its calculation, application, or related practices. It does not mention forecast predictability, workflow cycle time analysis, SLE-derived metrics, or Kanban/Scrum SLE theory. Even the extended description and call-to-action remain general to Agile leadership training. Audience alignment and signal scores are slightly above zero only because the audience discussed overlaps with the category's likely readers, but there is no relevant content on SLE. No penalties for tone or outdatedness, as there are simply no signals related to SLE at all. Confidence score is proportionate to the complete absence of SLE content.",
     "level": "Ignored"
   }
 }

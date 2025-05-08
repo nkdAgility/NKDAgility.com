@@ -1386,7 +1386,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:01",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1781,5 +1781,23 @@
     "final_score": 78.0,
     "reasoning": "The content is heavily focused on Evidence-Based Management (EBM), which emphasizes data-driven decision-making—aligning closely with the principle of Empiricism. The blog post discusses how to gather and analyze data, making informed choices grounded in evidence, which directly connects to actionable principles of Agile frameworks. The mention of four key value areas serves as an actionable framework for principle-guided decision-making. While it may touch on values like customer satisfaction, the primary focus remains on how to implement these principles in practice, reflecting a deep discussion warranted by the category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "S0h_7ayLpsE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:39",
+    "ai_confidence": 7.07,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0.5,
+    "ai_audience": 2.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses entirely on Evidence-Based Management (EBM) in Agile and Scrum contexts, specifically discussing how to use data-driven practices to improve decision-making and product outcomes. There are thorough discussions of metrics such as lead time, cycle time, and time to market, but these are all discussed as general EBM metrics. Nowhere is Service Level Expectation (SLE) mentioned (either by acronym or definition), nor are the principles of SLE as described in Kanban, Scrum, or the Kanban Guide for Scrum Teams presented. There is a moderate alignment in terms of referencing flow metrics and concepts related to predictability and continuous improvement, but these are non-specific and do not directly reference or explain the SLE technique, its probability bands, its calculation, or its use in Agile forecasting. The intent and audience are both generally compatible with SLE—targeting Scrum Masters, Product Owners, and Agile professionals—but the content never actually addresses SLE. The signal-to-noise is very low for the SLE category since discussion of metrics is limited to general EBM value areas. Therefore, the confidence is extremely low, reflecting near-total absence of relevant SLE content, but not absolute zero since there is passing overlap on high-level Agile concepts.",
+    "level": "Ignored"
   }
 }

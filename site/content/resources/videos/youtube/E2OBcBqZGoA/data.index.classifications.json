@@ -1377,7 +1377,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1509,15 +1509,21 @@
     "level": "Secondary"
   },
   "Liberating Structures": {
+    "resourceId": "E2OBcBqZGoA",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:05:02",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses decentralisation and team engagement, which are relevant to the principles of Liberating Structures, but it does not explicitly mention any specific techniques or the core philosophy behind Liberating Structures. While it touches on themes of collaboration and empowerment, it lacks depth in discussing facilitation techniques or their applications, resulting in a low confidence score.",
+    "calculated_at": "2025-05-01T18:45:30",
+    "ai_confidence": 2.0,
+    "ai_mentions": 2,
+    "ai_alignment": 20,
+    "ai_depth": 5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses decentralisation and team engagement which indirectly relates to concepts of collaboration and involvement, vital in Liberating Structures. However, it lacks the specific mention or application of actual Liberating Structures techniques and doesn't focus on facilitation methods. The discussion is primarily about general principles of decentralisation and engagement rather than concrete structures, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1772,5 +1778,23 @@
     "final_score": 47.0,
     "reasoning": "The content primarily discusses decentralization and team engagement as strategies for maximizing value within organizations, which touches on principles of Agile and Lean methodologies. However, it lacks a structured focus on the systemic application, continuous learning, or governance aspects that are crucial for aligning with the 'Discipline' category. The discussions are broad and do not delve deeply into the core definitions, principles, or methodologies that shape professional disciplines.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "E2OBcBqZGoA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:51",
+    "ai_confidence": 12.87,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 2.7,
+    "ai_audience": 2.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on decentralisation, team engagement, and maximising value in organisations. It discusses agile organisational traits loosely, but does not mention Service Level Expectation (SLE), its definition, calculation, or applications within Agile, Scrum, or Kanban. There are no references or hints to specific SLE concepts, metrics, or related authoritative sources. The alignment and depth scores are very low because the discussion never approaches the SLE topic; likewise, the signal-to-noise remains low as all SLE-relevant content is entirely absent. Minimal intent and audience fit is credited because the work might interest agile practitioners in general, but would not target those seeking SLE-specific guidance. The confidence calculation reflects this almost complete lack of relevance.",
+    "level": "Ignored"
   }
 }

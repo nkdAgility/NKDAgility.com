@@ -1311,7 +1311,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1705,6 +1705,24 @@
     "non_ai_confidence": null,
     "final_score": 40.0,
     "reasoning": "The content discusses the role of a Scrum Master and focuses on the services they provide; however, it primarily emphasizes roles and administrative tasks rather than systemic organizational capabilities. While there are elements related to enhancing team effectiveness and empowering responsibilities, these are not deeply explored as enduring capabilities or integrated into organizational culture. Thus, while there is some mention of capabilities, it is not the primary focus of the content.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "QGXlCm_B5zA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 2.866,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 4.3,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "There are zero direct mentions of Service Level Expectation (SLE), either as a term or a concept—the content focuses exclusively on the role evolution and primary responsibilities of Scrum Masters and does not discuss flow metrics, cycle time, SLE calculation, or SLE application within Agile frameworks. The alignment and depth are minimal, as none of the major topics relate to SLE; the content's main theme is personal and role-based development. The intent is to inform Scrum Masters about broad behaviors and services, not about SLE processes or metrics, earning only a low fit. The audience partially overlaps with those interested in SLE (Scrum practitioners, Agile professionals), but the topic is not targeted toward SLE users or stakeholders. Signal-to-noise ratio is very low concerning SLE, as the entire post focuses on unrelated aspects (team empowerment, product owner relationships, overcoming organizational impediments). All scores are kept fractionally distinct and low per calibration guidelines. No penalties are warranted, as there is no evidence of outdated information or negative tone toward SLE; the subject is simply not covered. The resulting confidence score (2.866/100) correctly reflects a near-total absence of SLE relevance.",
     "level": "Ignored"
   }
 }

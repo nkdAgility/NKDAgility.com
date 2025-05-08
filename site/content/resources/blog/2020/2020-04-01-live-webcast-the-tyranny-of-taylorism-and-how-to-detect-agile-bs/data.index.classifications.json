@@ -1311,7 +1311,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
@@ -1718,6 +1718,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses historical management practices and critiques current Agile implementations, but it does not focus on enduring capabilities, strategies for embedding capabilities, or enhancing organizational performance in a systematic way. While it touches on the concept of changing workplace practices, it lacks a thorough examination of capability development or its relationship to continuous improvement in Agile or DevOps contexts.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "IDMjGi5C8lS",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 4.85,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.5,
+    "ai_audience": 0.9,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the historical context of management (Taylorism), its lingering effects on modern organizations, and the gap between claimed and actual Agile practice. There are no direct mentions, definitions, or discussions of Service Level Expectation (SLE) or its calculation/application in Agile, Scrum, or Kanban. While 'feedback loops' are mentioned, and there is criticism of current management practices, these references are too general and unspecific to SLE. The content’s main purpose is to critique outdated management mindsets and promote Agile authenticity, not to inform about SLE. The target audience (Agile practitioners, managers) overlaps, but the information is not SLE-specific; signal-to-noise ratio is low regarding SLE. No penalties are required, as there is no evidence of obsolete practices or tone contradicting the category. The resulting confidence is very low, as the piece does not meaningfully address SLE in any capacity.",
     "level": "Ignored"
   }
 }

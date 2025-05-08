@@ -1263,7 +1263,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1657,6 +1657,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses the impact of fake agilists on Agile teams, emphasizing the importance of genuine expertise and continuous learning, which slightly aligns with the Capability category. However, it predominantly focuses on the consequences of poor leadership and the pitfalls rather than discussing capabilities as competencies that enhance team effectiveness. The references to fostering a culture of learning and delivering value get closer to capability but remain secondary to the main concern about fake agilists, limiting the overall depth and primary focus on the capability theme.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "T07AK-1FAK4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:40",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 0.3,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on the dangers of 'fake agilists' and how to foster authentic Agile leadership and continuous improvement. There is no explicit mention of Service Level Expectation (SLE), nor is there an implied discussion about cycle time, delivery forecasting, or the technical application of SLE. The closest relevant topic is a general reference to continuous improvement, which is a principle SLE supports, but this connection is not explicit or substantial. The depth, intent, and audience alignment are minimal, as the content is not technical or process-focused but instead discusses Agile culture and leadership at a broad level. There is negligible signal related to SLE, and the entire focus lies elsewhere, justifying the very low confidence score.",
     "level": "Ignored"
   }
 }

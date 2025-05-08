@@ -1374,7 +1374,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1506,15 +1506,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "Ys0dWfKVSeA",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:10:04",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum, discussing its principles, roles, and processes without any direct mention of Liberating Structures or their techniques. While it touches on themes of collaboration and reflection, which are relevant to group dynamics, it does not delve into specific Liberating Structures methods or their applications. The discussion remains centred on Scrum as a methodology rather than exploring facilitation techniques that enhance participation and creativity in groups, which is the essence of Liberating Structures.",
+    "calculated_at": "2025-05-01T18:45:42",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses Scrum as a methodology and focuses on its principles, roles, and processes without referencing specific Liberating Structures or facilitation techniques. Although it highlights aspects of team collaboration and feedback, it does not directly address or integrate any of the 30+ methods from the Liberating Structures toolkit, nor provides in-depth discussions on how to use these methods in practice. Therefore, the alignment with the category is minimal.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1768,6 +1774,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content focuses extensively on Scrum as a methodology, discussing its principles, iterative nature, and role in revealing organizational challenges. However, it primarily emphasizes the application of the Scrum framework rather than the broader concepts of Discipline as defined in your classification. While there are mentions of continuous learning and improvement, the depth is more about Scrum practices than a systemic view of professional disciplines. Therefore, while there is some alignment with the discipline category, the content does not thoroughly address the underlying principles and governance structures that guide the evolution and systemic application of disciplines. This leads to a relatively low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Ys0dWfKVSeA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:42",
+    "ai_confidence": 7.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.6,
+    "ai_audience": 2.5,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content thoroughly explores Scrum as a framework for surfacing organizational impediments and supporting continuous improvement. It discusses aspects like transparency, inspection, adaptation, and iterative delivery—concepts related to flow and process optimization. However, there is no direct mention or explicit reference to Service Level Expectation (SLE) or its calculation, nor a discussion of cycle time ranges or probabilistic forecasting as defined in the SLE context. The primary focus is on Scrum’s role as a mirror to reveal problems rather than on quantitative flow forecasting or SLE establishment. A practitioner interested in SLE would find little to no relevant information here about the category. As such, conceptual alignment and depth with respect to SLE are minimal, but the overall general agile audience is compatible. Scores reflect near absence of SLE focus, with only faint indirect relevance due to broader Scrum inspection and adaptation themes.",
     "level": "Ignored"
   }
 }

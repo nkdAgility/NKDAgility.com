@@ -264,12 +264,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "wjYFdWaWfOA",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T07:25:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content is primarily focused on the role and responsibilities of a Scrum Master in Agile project management, rather than directly discussing accountability or team dynamics related to ownership and responsibility.",
+    "calculated_at": "2025-05-02T04:20:08",
+    "ai_confidence": 7.0,
+    "ai_mentions": 12,
+    "ai_alignment": 30,
+    "ai_depth": 28,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 7.0,
+    "reasoning": "The content discusses the role of the Scrum Master in the context of Agile and mentions team dynamics and collaboration, but it lacks a focused examination of accountability as a structural mechanism. While the Scrum Master is an essential role related to accountability, the content primarily emphasizes facilitation, guidance, and team effectiveness rather than clearly defined outcome ownership or accountability itself. The mention of the Product Owner and the implication of organizational responsibility provide some relevance, but the primary discussion revolves around the Scrum Master's operational impact rather than establishing a framework of accountability. Therefore, while the subject is relevant and mentioned, it does not delve deeply into the concept of accountability as defined in the category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1338,7 +1347,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1470,15 +1479,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "wjYFdWaWfOA",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:02:22",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:50",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master within Agile methodologies, discussing their responsibilities and the contexts in which they operate. While it touches on themes of facilitation and team effectiveness, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The discussion lacks depth regarding the principles and applications of Liberating Structures, leading to a low confidence score in this category.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the role of a Scrum Master in Agile settings, lacking specific discussions or mentions of Liberating Structures as facilitation techniques. The themes of Scrum and Agile practices are present, but there is insufficient detail on using Liberating Structures methods or their integration, thus failing to meet the requirements for meaningful engagement with this category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1733,5 +1748,23 @@
     "final_score": 65.0,
     "reasoning": "The content focuses on the role of a Scrum Master within Agile frameworks, touching on Agile, DevOps, and organizational change. While it mentions these disciplines, the primary focus is more on the roles and interactions rather than a deep exploration of the underlying principles and governance structures that define the concept of discipline. The discussion lacks detailed engagement with continuous learning and improvement as core components, which affects its alignment with the 'Discipline' category. Overall, it provides a valuable insight into the role but doesn't delve deeply into the systemic application of the discipline.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "wjYFdWaWfOA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 7.45,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.0,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) directly or even allude to its core concepts. Instead, it focuses extensively on the general functions, skills, and contexts in which a Scrum Master operates in Agile environments. There is no discussion of forecasting, cycle time analysis, elapsed time ranges, probability, or any other key attributes tied to SLE. The closest overlap is the mention of guiding teams to more effective practices, which is tangential at best. There are no references to authoritative sources on SLE nor any treatment of predictability metrics or delivery forecasts. The lack of direct mention (0/10) and weak indirect conceptual alignment (1.6/10) result in very low depth, intent, and signal scores, with only a slightly higher audience score for potentially overlapping Agile practitioners. No penalty was necessary as the content is not outdated or oppositional, only off-topic. The resulting confidence is very low, reflecting negligible relevance to the SLE category.",
+    "level": "Ignored"
   }
 }

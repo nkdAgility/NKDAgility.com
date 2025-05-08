@@ -1353,7 +1353,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:40",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1747,6 +1747,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily promotes an APS course centered around Scrum practices, focusing on roles, training, and the basics of Scrum methodology. While it mentions improvement and foundational learning, it lacks a clear emphasis on enduring competencies that form part of an organization’s capability. There are some references to alignment and integrating Scrum into organizational frameworks, but these points do not comprehensively address the development or embedding of core capabilities as outlined in the category definition.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "yKSkRhv_2Bs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.5,
+    "ai_intent": 1.2,
+    "ai_audience": 1.4,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "There are no direct or indirect references to Service Level Expectation (SLE) or any of its core components such as cycle time ranges with a probability, predictability, or its use within Agile, Scrum, or Kanban. All mentions strictly pertain to the value of taking an APS course, with general language about learning, tuning up Scrum practices, and mastering Scrum, but nothing related to SLE's definition, calculation, application, or improvement. The content is entirely focused on promoting an Agile Professional Scrum course, targeting new learners or experienced practitioners seeking to improve Scrum understanding, not on process predictability or delivery metrics. There is no signal of SLE concepts, terminology, or guidance. Thus, all scoring dimensions are extremely low, reflecting only the minimal possible alignment by virtue of the broad Agile context.",
     "level": "Ignored"
   }
 }

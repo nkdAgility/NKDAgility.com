@@ -114,12 +114,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "DNCDdWjYis8",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T10:21:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Scrum Masters and common misconceptions associated with it, rather than focusing on the theme of accountability within Agile teams.",
+    "calculated_at": "2025-05-02T04:20:50",
+    "ai_confidence": 7.0,
+    "ai_mentions": 12,
+    "ai_alignment": 28,
+    "ai_depth": 24,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 7.0,
+    "reasoning": "The content focuses on the role of the Scrum Master, emphasizing facilitation and empowering self-organizing teams, which aligns with the principles of accountability in modern work systems. It highlights the importance of autonomy and outcome ownership, key components of accountability. However, while accountability is a central theme, the content does not explicitly delve into the nuances of structural accountabilities or the implications of role-specific outcomes in detail, making it a secondary focus rather than the primary theme.",
     "level": "Ignored"
   },
   "Windows": {
@@ -912,12 +921,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "DNCDdWjYis8",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:21:41",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the role and responsibilities of Scrum Masters, without substantial discussion on strategic planning, alignment, or execution within Agile frameworks.",
+    "calculated_at": "2025-05-02T04:20:39",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the role of a Scrum Master in the context of facilitating team autonomy and support, touching upon concepts of leadership and team dynamics which relate to strategy. However, the focus is heavily on operational roles and practices rather than explicitly connecting these discussions to high-level organizational strategy or alignment with broad goals. While there are references to empowerment and collaboration, the lack of strategic planning or alignment with organizational objectives limits the depth and relevance to the category of 'Strategy.'",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1329,7 +1347,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1461,16 +1479,22 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "DNCDdWjYis8",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:26:12",
-    "ai_confidence": 67.0,
-    "ai_mentions": 3,
-    "ai_alignment": 75.0,
-    "ai_depth": 65.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses the role of a Scrum Master in a way that aligns with the principles of Liberating Structures, particularly in promoting facilitation, self-organisation, and collaboration. It mentions the importance of empowering teams and fostering autonomy, which are key themes in Liberating Structures. However, while it touches on relevant concepts, it does not explicitly reference specific Liberating Structures techniques or provide in-depth discussion on their applications, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "calculated_at": "2025-05-02T04:20:46",
+    "ai_confidence": 3.0,
+    "ai_mentions": 2,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.3,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses the role of a Scrum Master and emphasizes facilitation and empowerment, which resonates with some principles of Liberating Structures. However, it does not provide specific Liberating Structures methods or detailed examples of their application in practice, limiting its alignment with the category. The discussions on facilitation are somewhat relevant but are not comprehensive or focused enough on the specific techniques associated with Liberating Structures.",
+    "level": "Ignored"
   },
   "Time to Market": {
     "category": "Time to Market",
@@ -1724,5 +1748,23 @@
     "final_score": 43.0,
     "reasoning": "The content discusses the role of a Scrum Master and their impact on team dynamics, emphasizing principles such as autonomy, facilitation, and continuous learning. While these ideas align with the broader principles of Agile, the focus is primarily on the specific role within the Scrum framework rather than an overarching discussion on the discipline itself as defined in the category. Therefore, while it does align with some core themes, it is more about practices and roles than a systemic exploration of discipline, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "DNCDdWjYis8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:00",
+    "ai_confidence": 6.74,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.4,
+    "ai_intent": 0.1,
+    "ai_audience": 3.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content exclusively centers on redefining the Scrum Master role, focusing on empowerment, facilitation, and fostering self-organisation, with no mention—direct or indirect—of Service Level Expectation (SLE). There is no discussion of forecasting cycle time, defining SLE ranges or associated probabilities, or the use of SLE in improving predictability or managing stakeholder expectations. Concepts like flow metrics, lead/cycle time, or SLE calculations are absent. There are minor thematic overlaps in promoting continuous improvement and transparency, but these are presented outside the SLE context. The audience does align moderately (as Scrum Masters are likely to use SLE concepts), but all other dimensions score very low due to lack of relevance. No penalties were applied, as the content is neither outdated nor satirical. The confidence score proportionally reflects a near-complete lack of fit, with only a negligible tie-in based on broad Agile practices.",
+    "level": "Ignored"
   }
 }

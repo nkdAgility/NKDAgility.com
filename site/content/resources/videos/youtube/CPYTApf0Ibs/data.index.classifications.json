@@ -1392,7 +1392,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1787,5 +1787,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the importance of a shared understanding of product vision and strategic goals, emphasizing how this understanding contributes to overall capabilities in agility and decision-making within teams. While it does touch on how to communicate and reinforce these concepts (which aligns with developing capabilities), it largely focuses on the roles and daily practices necessary to ensure alignment with these goals, falling slightly short of being a primary discussion on capabilities themselves. Thus, it indicates a moderate level of alignment with the capability theme.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "CPYTApf0Ibs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:59",
+    "ai_confidence": 6.52,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.3,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused entirely on the importance of a shared product vision, strategic goals, and team alignment in the context of Agile transformation. There is no mention—direct or implied—of Service Level Expectation (SLE), its calculation, its role in predictability or flow, or any key concepts from the SLE classification definition. While the target audience (Agile practitioners, leaders) overlaps somewhat, and the content briefly touches on continuous improvement as an Agile value, there are no references to cycle time, elapsed work item time, or the forecasting aspects of SLE. There are also no references to authoritative SLE sources or relevant Agile metrics. Virtually all content, examples, and recommendations revolve around communication, leadership, and vision alignment, with no signal relevant to SLE. Scores are low across all dimensions, corresponding to an extremely weak and almost non-existent fit (the slight non-zero audience alignment reflects some overlap in general Agile audience, but not SLE-specific). There was no outdated information or critical tone requiring penalty.",
+    "level": "Ignored"
   }
 }

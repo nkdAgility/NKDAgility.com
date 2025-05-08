@@ -1374,7 +1374,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1506,15 +1506,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "B12n_52H48U",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:21:21",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:32",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a product owner in Agile project management, discussing decision-making, team engagement, and adaptability. While it touches on themes relevant to Agile methodologies, it does not explicitly mention or discuss Liberating Structures or their principles. The discussion lacks depth regarding facilitation techniques or group dynamics, which are central to the Liberating Structures category. Therefore, the content does not align well with the category.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses Agile methodology and decision-making but does not mention any specific Liberating Structures or their application. It lacks a focus on facilitation techniques and does not explore how to improve engagement or collaboration in team settings, which are core themes of Liberating Structures. Overall, while Agile principles are present, they are treated in a general context without connection to the Liberating Structures framework.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1769,5 +1775,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses Agile principles and practices extensively, emphasizing the role of a product owner and decision-making in a fast-paced environment. While it does mention Agile methodologies, the discussion is primarily focused on practical decision-making and the mindset of adaptability rather than a systemic exploration of discipline itself. It touches on continuous improvement and feedback loops, which are important in Agile, but lacks a deeper engagement with the formal structures and principles defining a discipline, resulting in a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "B12n_52H48U",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:51",
+    "ai_confidence": 7.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 6.1,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The provided content focuses on high-level product management and the role of a product owner in Agile environments. While it discusses concepts such as continuous improvement and embracing change (ideas conceptually adjacent to Agile practices), there are no explicit mentions of Service Level Expectation (SLE), nor are its calculation, application, or purpose in the context of Agile/Scrum/Kanban addressed. The content is instead centered on decision-making, leadership, feedback, and strategic pivots within the Agile/product management space. No references are made to SLE components, its function in workflow forecasting, or authoritative sources on SLE. Thus, the direct mention, alignment, depth, and intent scores are very low, and the small positive values in audience and signal reflect that the target audience—Agile practitioners—could be similar to those interested in SLE; however, the focus remains off-topic for this precise category. No penalties are required as the content is not outdated or satirical, merely unrelated.",
+    "level": "Ignored"
   }
 }

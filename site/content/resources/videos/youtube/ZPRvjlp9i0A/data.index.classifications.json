@@ -1251,7 +1251,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1658,6 +1658,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "While the content provides insights on roles and responsibilities of Product Owners and Project Managers within a Scrum framework, it primarily focuses on distinguishing these roles rather than discussing the underlying capabilities that empower teams and organizations. The mention of Scrum's impact on organizational structure and leadership styles is relevant, but the content lacks depth on specific capabilities being developed or how they enhance performance. The discussion on continuous improvement and agile practices is somewhat aligned, but the primary focus remains on individual roles rather than systemic capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ZPRvjlp9i0A",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:13",
+    "ai_confidence": 5.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 1.5,
+    "ai_audience": 8.0,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is focused on clarifying the distinctions between Product Owners and Project Managers in Scrum and on providing advice concerning Scrum and agile organizational shifts, with additional discussion about evolving from story points to flow metrics and Kanban principles. However, at no point is Service Level Expectation (SLE) directly mentioned nor are its core concepts—such as forecasting time to completion using a probability-based range, defining or calculating SLE, or applying SLE in workflow optimization—explicitly covered. There is a very weak indirect association in the section discussing the transition from story points to flow metrics, mentioning monitoring how quickly items move through the system and continuous improvement, but this does not reach the level of SLE definition or usage as required by the category. The target audience (agile practitioners, Scrum teams) aligns, and the signal:noise ratio remains high due to the content's focus, but only a slight conceptual overlap with SLE is present. Therefore, each score reflects very low coverage in direct mentions, weaker but non-zero conceptual alignment and depth due to tangential references to flow metrics/optimizing flow, mid-low intent (not about SLE), with high audience and signal scores due to alignment and focused delivery, justifying the low confidence score.",
     "level": "Ignored"
   }
 }

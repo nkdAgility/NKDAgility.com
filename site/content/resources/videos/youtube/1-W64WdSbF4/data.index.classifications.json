@@ -1356,7 +1356,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:30",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1763,6 +1763,24 @@
     "non_ai_confidence": null,
     "final_score": 20.0,
     "reasoning": "The content primarily focuses on the logistics and execution of a specific workshop about Sprint Reviews, discussing technical issues and feedback. It lacks discussion on the inherent capabilities within Agile or DevOps contexts and does not address capability development or embedding practices. Instead, it centers on operational aspects, making capability a minor, if not secondary, point.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "1-W64WdSbF4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 1.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 1.2,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) directly or indirectly. It focuses on running Sprint Reviews and logistical details around workshop technology, participant experience, and retrospective insights specific to session delivery. There are no references to SLE concepts such as forecasting cycle time, probability-based timeframes, or continuous improvement mechanisms tied to work item completion. The target audience is general Agile practitioners interested in Sprint Review ceremonies, not those seeking guidance on SLE within Agile/Kanban frameworks. The only minor alignment is a generic reference to feedback, improvement, and retrospectives, but this is far removed from SLE's specific purpose. Signal-to-noise ratio remains low for the SLE category. No penalties were warranted.",
     "level": "Ignored"
   }
 }

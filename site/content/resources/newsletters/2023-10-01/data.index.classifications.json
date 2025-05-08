@@ -1359,7 +1359,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1753,6 +1753,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on an exclusive webcast about Agile leadership and transformation, which is relevant to capability but does not explicitly discuss capabilities themselves. While it mentions transformational strategies and leadership's role in Agile transformations, these aspects are more about roles and outputs rather than enduring capabilities. The depth of discussion is minimal, primarily promoting the event rather than providing in-depth exploration of capabilities as specified in the criteria.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "9YRzr3RR2Da",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 1.0,
+    "ai_audience": 6.2,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "This webcast promotion is focused exclusively on Agile leadership and transformation, targeting executives and organizational leaders who may be interested in these topics. Nowhere in the title, description, or promoted material is Service Level Expectation (SLE) directly named or discussed. There are no allusions to forecasting cycle times, elapsed time ranges, probabilities, or empirical SLE practices within Agile, Scrum, or Kanban. Content depth is minimal and only outlines high-level topics in Agile transformation and leadership with no direct conceptual overlap with SLE. The audience aligns in that it's aimed at Agile practitioners and leaders, but signal-to-noise is poor due to the lack of relevant content; the vast majority is promotional or describes leadership/transformational strategies without mention of metrics or workflow predictability. No penalties apply since the content isn't outdated or satirical, but it is simply irrelevant to SLE.",
     "level": "Ignored"
   }
 }

@@ -1371,7 +1371,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1765,6 +1765,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses flow metrics and their integration with Scrum to enhance team performance; however, it primarily focuses on tools and techniques rather than the enduring competencies required for sustainable value delivery. While there are overlapping themes related to capabilities, such as continuous improvement and enhancing value delivery, the discussion mostly revolves around specific practices and metrics, which detracts from a direct focus on capability as an integrated organizational strength.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "NeGch-lQkPA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:11",
+    "ai_confidence": 14.67,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 6.8,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content is an overview of a course that focuses on 'applying flow metrics' to Scrum. It discusses integration of Kanban metrics—such as cycle time, lead time, throughput, and WIP limits—into Scrum events. While it covers concepts related to flow, value delivery, and improvement, Service Level Expectation (SLE) is not directly mentioned nor is its definition or core application explored. There is no explicit calculation or use of SLE as a forecast of elapsed time and probability, nor coverage of SLE-specific guidance per Agile or Kanban literature. Signal-to-noise is penalized due to general agile promotional content. Audience alignment is reasonable since practitioners are targeted. However, the main purpose and depth are not focused on SLE but on general flow metrics, keeping the confidence score low and all dimensions except audience in the lower range.",
     "level": "Ignored"
   }
 }

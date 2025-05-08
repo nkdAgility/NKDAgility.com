@@ -1383,7 +1383,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:08",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
@@ -1777,6 +1777,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses evaluating direction and adapting processes at individual, team, and organizational levels. While it touches on some relevant concepts like feedback and retrospectives that relate to capabilities, it predominantly focuses on roles and specific actions rather than the cultivation of enduring capabilities as defined in the 'Capability' category. The mention of practices like retrospectives indicates a minor alignment with the Capability theme, but overall it lacks depth in discussing systemic capabilities and their broader impact.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "17qTGonSsbM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:25",
+    "ai_confidence": 6.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 0.5,
+    "ai_audience": 2.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content consistently discusses the importance of evaluating direction, adaptability, and change in Agile and Scrum environments, with an explicit emphasis on retrospectives, feedback, and course-correction. It gives practical advice for developers, product owners, and organizations on staying flexible and checking progress. However, nowhere in the title, description, or body is 'Service Level Expectation' (SLE) mentioned explicitly, nor is any reference made to cycle time forecasts, SLE calculation, SLE transparency, or the probability-based delivery windows that define the SLE category as per instructions. There are general references to Scrum practices like retrospectives and continual improvement, but these are not framed in terms of SLE or its application. The audience (Agile practitioners, Scrum teams) aligns partly, as does the improvement-focused intent, but the mismatch in topic precludes a strong score for any dimension. There is some general alignment with continuous improvement, but nothing conceptually, technically, or methodologically about SLE itself.",
     "level": "Ignored"
   }
 }

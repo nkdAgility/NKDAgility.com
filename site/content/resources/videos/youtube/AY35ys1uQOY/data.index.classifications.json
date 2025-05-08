@@ -1338,7 +1338,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1732,6 +1732,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content focuses primarily on crafting effective sprint goals within the Scrum framework, which aligns more with specific practices than with the broader concept of organizational capabilities. While it touches on engagement and excitement—which could be partially related to team dynamics and collaboration—it lacks a discussion on how these practices develop enduring capabilities within the organization over time. Therefore, the mentions of capability-related themes are secondary, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "AY35ys1uQOY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 2.2,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.4,
+    "ai_audience": 3.0,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on the qualities of a great Sprint Goal in Scrum, emphasizing team excitement, alignment, and stakeholder engagement. There is no direct mention of Service Level Expectation (SLE) or discussion of metrics, forecasts, or flow-based measures as defined in the SLE category. No components of SLE such as elapsed time, probability, historical cycle time analysis, or transparency of workflow predictability are addressed. The intent is about inspiring teams to craft engaging Sprint Goals, not about cycle times or flow metrics. The audience (Agile/Scrum practitioners) overlaps partially, but the entire discussion is off-topic for SLE. Scores are low in all dimensions with only minimal relevance due to indirect applicability to Agile teams in general. No penalties are applied since there is no outdated or contradicting content.",
     "level": "Ignored"
   }
 }

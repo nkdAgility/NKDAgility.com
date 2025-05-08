@@ -1335,7 +1335,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1742,6 +1742,24 @@
     "non_ai_confidence": null,
     "final_score": 27.0,
     "reasoning": "The content provides a broad overview of the importance of agility and introduces concepts related to empirical approaches versus traditional methods. However, the primary focus is not on the enduring competencies or capabilities that empower organizations. There are only brief mentions of agility and the Scrum framework, but they do not go deeply into the characteristics of capabilities, their development, or their strategic impact, which are central to the Capability category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "-D7_0lz9GU6",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 2.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.0,
+    "ai_intent": 2.5,
+    "ai_audience": 6.5,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "There are no direct mentions of Service Level Expectation (SLE) in the content. The main focus is on agility, the Scrum framework, and the differences between traditional and empirical approaches, with supporting material for those learning or practicing Agile/Scrum. While there is some conceptual overlap in discussing empirical approaches and predictability under Scrum or Kanban, the content never references, explains, or applies SLE, nor does it discuss cycle time forecasts, elapsed time ranges, or probabilities as defined under SLE. The depth is minimal because SLE is not addressed explicitly or implicitly, and the intent is not to support or explore SLE but rather broader Agile topics and community activities. The audience is partially aligned, as it includes Agile practitioners, Scrum Masters, Developers, and Managers, but the lack of SLE focus lowers overall category relevance. The signal-to-noise ratio is low for this category because none of the content supports the key SLE topics. No penalties were necessary as the content is current and not satirical or critical. The final confidence score properly reflects the lack of category fit.",
     "level": "Ignored"
   }
 }

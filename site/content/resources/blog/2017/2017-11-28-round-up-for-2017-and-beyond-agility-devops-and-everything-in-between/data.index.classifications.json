@@ -1338,7 +1338,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1745,6 +1745,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content briefly touches on aspects of professional training and workshops, which could relate to capability development. However, it mainly focuses on personal experiences at various conferences and training sessions. There are no explicit mentions of enduring competencies or strategic development of capabilities within organizations, and the content lacks depth in discussing the systemic integration of capabilities defined in the category of Capability. Therefore, while there is a minor connection, it does not align closely with the main focus of the category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "J0HjcdNvqGW",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:10",
+    "ai_confidence": 2.92,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 4.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is a personal retrospective and roundup of conference talks and training events in 2017, focusing broadly on Agile, DevOps, Scrum, and professional development. There are no explicit or implicit references to Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban contexts. No mention is made of SLE terminology, nor is there any discussion relating to forecasting cycle time, calculating or applying SLE, nor any analysis, guidance, or actionable insight around SLE. The main intent is to summarize conferences and promote training, not to educate or discuss SLE principles, their calculation, or relevance for workflow predictability. While the audience may overlap slightly with those interested in SLE, the content itself is entirely off-topic for the category, with a high signal-to-noise ratio only because it stays focused on events and training, not digressions, though all off-topic for the SLE category. No penalties were applied as the content is not outdated or critical. The extremely low scores on mentions, alignment, depth, and intent strongly justify a confidence score close to zero.",
     "level": "Ignored"
   }
 }

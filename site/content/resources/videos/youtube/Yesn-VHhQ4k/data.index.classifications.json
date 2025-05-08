@@ -1368,7 +1368,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:26",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1776,5 +1776,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses Agile principles but focuses mainly on concepts related to values and the nature of complex versus complicated work rather than the enduring, systemic capabilities that organizations build over time. While it touches upon the need for adaptability and continuous improvement, it lacks a direct exploration of how these concepts translate into lasting capabilities within teams or organizations, ultimately making capability a secondary rather than primary focus.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Yesn-VHhQ4k",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.3,
+    "ai_intent": 0.1,
+    "ai_audience": 2.3,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content discusses Agile at a high-level, focusing on values, principles, and the distinction between complicated and complex work. There are no direct mentions or indirect references to Service Level Expectation (SLE), nor to its calculation, purpose, or use in Agile, Scrum, or Kanban environments. The content does not cover any flow metrics, cycle time analysis, SLE probabilities, or the use of historical data for forecasting. The depth is minimal regarding SLE, as it is entirely absent. The intent and purpose are misaligned with the SLE category, focusing instead on paradigm, mindset, and cultural elements of Agile. The audience is broadly Agile practitioners, but there is no target toward those seeking information about SLE. There is little signal relevant to Service Level Expectation, and the noise is high for the scope of this category.",
+    "level": "Ignored"
   }
 }

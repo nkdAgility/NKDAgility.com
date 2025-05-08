@@ -1386,7 +1386,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1781,5 +1781,23 @@
     "final_score": 82.0,
     "reasoning": "The content primarily discusses immersive learning as a strategy for fostering capability within organizations, specifically in the context of product management. It focuses on how this learning approach drives application of knowledge, engages teams, and fosters continuous improvement, aligning strongly with the concept of developing enduring capabilities. It provides examples, emphasizes conversations, and addresses organizational change as a long-term goal, fitting well within the capabilities category. However, while robust in addressing capability development, it occasionally strays towards specific techniques and tools used in the learning process, which are not the primary focus of the 'Capability' category.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "KAqCTOIB4hk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:48",
+    "ai_confidence": 2.97,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 2.2,
+    "ai_audience": 6.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on immersive learning approaches and their impact on product management, particularly through outcome-based assignments and reflective practices. There are no explicit or implicit references to Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban frameworks. While the article mentions flow metrics and continuous improvement, these are not discussed in the context of SLE calculation or application. There is no guidance, mention, or even indirect allusion to SLE concepts such as cycle time ranges, probability, or Kanban/Scrum delivery forecast mechanisms. The intent and signal heavily center on learning methodologies, not service level forecasting. The only area with some overlap is the general audience (practitioners in product management and Agile settings), warranting a higher score there, but all other areas remain low as the content does not meet the classification definition.",
+    "level": "Ignored"
   }
 }

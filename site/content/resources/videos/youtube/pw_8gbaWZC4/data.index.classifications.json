@@ -1374,7 +1374,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:16",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
@@ -1769,5 +1769,23 @@
     "final_score": 62.0,
     "reasoning": "The content primarily focuses on Candan strategies and their role in continuous improvement and transparency, which are important aspects of capability. It discusses the importance of flow metrics and how they contribute to identifying inefficiencies and driving systemic improvements, aligning well with the core themes of developing capabilities over time. However, while it touches on the conceptual framework of capability, the discussion veers into specific practices and tools that may not entirely fit within the enduring capability framework, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "pw_8gbaWZC4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:07",
+    "ai_confidence": 17.628,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 2.5,
+    "ai_intent": 2.7,
+    "ai_audience": 6.4,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content discusses Candan strategies (likely intended to mean Kanban) for continuous improvement, transparency, and particularly the role of flow metrics in illuminating workflow problems. While these areas overlap conceptually with the general territory in which Service Level Expectation (SLE) is found, the content does not directly mention, explain, or apply SLE specifically. There are no explicit references to SLE’s definition, calculation, probabilistic cycle time ranges, or best practices for establishing SLEs within Agile, Scrum, or Kanban frameworks. The depth is moderate regarding flow metrics and continuous improvement but remains generic regarding SLE; SLE is never explicitly referenced, nor is its usage or calculation described. The intent is focused on transparency and continuous improvement using flow metrics, relevant for an Agile/Scrum/Kanban practitioner audience. However, the signal to noise ratio is diminished because SLE, as defined in the category (with references to Daniel Vacanti, the Kanban Guide, probabilistic forecasting, etc.), is never addressed directly or substantively. Scores reflect minimal direct relevance for the 'Service Level Expectation' category.",
+    "level": "Ignored"
   }
 }

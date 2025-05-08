@@ -1332,7 +1332,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:52",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1739,6 +1739,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily discusses details about Professional Scrum courses, their schedules, and what they cover, rather than focusing on capabilities as outlined in the definition provided. While it mentions skills that support Scrum roles, such as 'Coaching Stance' and 'Active Listening,' this is more about the tools and techniques for Scrum roles rather than discussing capabilities in a systemic context. The focus remains on transient training rather than fostering enduring competencies, leading to a low confidence score for alignment with the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "gS7et381AGm",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:13",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The provided content is a promotional description of Scrum courses offered in 2016 in Norway. It discusses course logistics, audience, teaching topics, and technologies covered (e.g., TFS, VSTS, DevOps, Agile practices), but nowhere does it mention or allude to the concept of Service Level Expectation (SLE). There is no explicit or implicit discussion regarding SLE's definition, calculation, application, or its role in Agile, Scrum, or Kanban. The content does not reference any principles or sources related to SLE. Accordingly, all dimensions receive a score near zero, except for minimal points in 'audience' and 'signal' for marginal relevance to Scrum practitioners, but not specifically to the SLE topic.",
     "level": "Ignored"
   }
 }

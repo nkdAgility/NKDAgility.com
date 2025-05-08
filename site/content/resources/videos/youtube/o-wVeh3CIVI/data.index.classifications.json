@@ -258,12 +258,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "o-wVeh3CIVI",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the mechanics and purpose of Scrum without addressing accountability or team dynamics related to ownership.",
+    "calculated_at": "2025-05-02T04:20:08",
+    "ai_confidence": 3.0,
+    "ai_mentions": 2,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.3,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses Scrum as an agile framework, mentioning roles like Scrum Master and Product Owner, which are relevant to accountability. However, the primary focus is on explaining the Scrum framework rather than explicitly discussing accountability as a structural construct that shapes behavior or influences performance. While there are brief mentions of roles and complexity, there is limited depth in addressing how accountability is defined or its impact, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -762,12 +771,21 @@
     "level": "Secondary"
   },
   "Strategy": {
+    "resourceId": "o-wVeh3CIVI",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:25:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content is primarily focused on explaining what Scrum is and its role in managing complex tasks, without a clear discussion on strategic approaches or alignment with Agile strategy.",
+    "calculated_at": "2025-05-02T04:20:11",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the Scrum framework, detailing its mechanics and purpose in managing complex tasks. While it does mention aspects like shared goals and team organization, it lacks a direct focus on higher-level strategic alignment or decision-making that characterizes discussions of strategy. Therefore, the relevance to the 'Strategy' category is minimal, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1314,7 +1332,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1446,15 +1464,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "o-wVeh3CIVI",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:03:57",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum, an Agile framework, and does not explicitly mention Liberating Structures or discuss its principles, techniques, or applications. While it touches on themes of collaboration and complexity, these are not directly tied to the core concepts of Liberating Structures. The discussion lacks depth regarding facilitation techniques or group dynamics, leading to a low confidence score.",
+    "calculated_at": "2025-05-02T04:20:37",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content is primarily focused on explaining Scrum as an Agile framework, providing a high-level overview of its nature and uses within complex task management. However, it does not mention Liberating Structures, nor does it delve into specific facilitation techniques or methods associated with Liberating Structures. The discussion remains centered on Scrum principles without linking to how Liberating Structures could be integrated within that framework or any of its practices.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1708,6 +1732,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content discusses Scrum as an agile framework, primarily focusing on descriptive elements and how it operates within complexity. However, it lacks substantial discussion on the principles, methodologies, or governance structures that define the discipline of Scrum itself. While Scrum is mentioned as a guiding principle, the content remains largely practical and tool-oriented, failing to delve into the systemic application or maturation of Scrum as a discipline. Therefore, while the term 'Scrum' appears repeatedly, its evaluation through the lens of 'Discipline' is limited.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "o-wVeh3CIVI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.1,
+    "ai_audience": 1.0,
+    "ai_signal": 0.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is an introductory overview of Scrum, focusing on its nature as a social technology for organizing teams to tackle complex, novel work. There are no direct or indirect references to Service Level Expectation (SLE), its calculation, purpose, or use within Agile, Scrum, or Kanban. The scope is entirely on describing Scrum's general purpose and consulting offerings. No SLE-related keywords, discussion of cycle time ranges, probabilities, or continuous flow metrics appear anywhere. The audience is broadly Agile practitioners, but the discussion is not even tangential to the SLE category. Thus, each dimension is scored at or near the minimum, and the confidence score accurately reflects a complete non-fit for the SLE classification.",
     "level": "Ignored"
   }
 }

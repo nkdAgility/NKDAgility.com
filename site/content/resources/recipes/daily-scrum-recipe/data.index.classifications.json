@@ -1383,7 +1383,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1777,6 +1777,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on the Daily Scrum event, detailing its structure and practices. While there are mentions of teamwork and collaboration that could align with developing capabilities, the emphasis is on the specifics of the Scrum process rather than on enduring competencies or systemic capability within the organization. The discussion lacks depth on how to cultivate or integrate capabilities into the organizational culture and processes, which is essential for a higher confidence score in the Capability category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "M4qDhvrXwp-",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:43",
+    "ai_confidence": 11.038,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.9,
+    "ai_intent": 1.1,
+    "ai_audience": 3.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on maximizing the effectiveness of the Daily Scrum, discussing facilitation techniques, visualizations like Work Item Aging Graphs, and the importance of transparency and actionable planning within Scrum. There is mention of cycle time percentiles (50th, 70th, 85th, 95th) in the context of visualizing Work Item Aging, but Service Level Expectation (SLE) is never directly mentioned, and the probabilistic forecasting concept at the heart of SLE is not discussed. The primary focus of the content is on daily team collaboration, visualization, and flow management within the context of a single Sprint. While there is loose thematic relation (given the mention of aging graphs and flow metrics), all references are generic, lacking any explicit or substantive discussion of SLE's definition, calculation, application, or improvement as per Agile, Scrum, or Kanban. There is no guidance provided regarding how to establish, calculate, interpret, or leverage SLEs (e.g., '85% of items completed in 8 days'), nor do the visuals or facilitation options connect these metrics to predictability or stakeholder expectation management in the SLE sense. Audience fit is marginally higher because Scrum teams and practitioners are the intended readers, but the text's actual mapping to SLE objectives is extremely limited. No penalty deductions were necessary as the content is not satirical, critical, or outdated—it's simply out of scope for SLE.",
     "level": "Ignored"
   }
 }

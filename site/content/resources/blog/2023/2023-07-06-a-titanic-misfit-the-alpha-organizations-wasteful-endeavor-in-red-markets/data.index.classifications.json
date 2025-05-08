@@ -1344,7 +1344,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1739,5 +1739,23 @@
     "final_score": 42.0,
     "reasoning": "The content primarily critiques Alpha organizations' inability to adapt and innovate in fast-paced red markets, emphasizing their lack of capabilities in contrast to more agile Beta organizations. While it briefly mentions some aspects of capability, such as wasted human potential and bureaucratic decision-making, it mainly focuses on waste and inefficiency rather than providing a detailed discussion on the development or measurement of capabilities. Overall, the brief mention of capabilities and the understanding of the differences between Alpha and Beta organizations anchors the content within the realm of capability, but it lacks depth and a substantive focus on developing enduring competencies.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "jW4sFDdDkvn",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:55",
+    "ai_confidence": 2.83,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 1.5,
+    "ai_audience": 3.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on contrasting 'Alpha' (traditional, hierarchical) and 'Beta' (agile, decentralized) organizational models in fast-paced markets, emphasizing wastefulness and lack of adaptability of Alpha models. Although there are references to agility and some terminology overlapping with agile theory, there is no direct or indirect mention of Service Level Expectation (SLE) or related concepts like cycle time ranges, probabilities, or Kanban/Scrum-specific terms. The discussion stays at a broad organizational and cultural level, never addressing SLE's definition, calculation, application, or improvement. The intended audience seems to be organizational leaders or strategists interested in market adaptation, not practitioners specifically focused on SLE techniques. Signal-to-noise is low for this category: the content is relevant to agile transformation generally but entirely off-topic with respect to SLE. All scores are appropriately low and differentiated, and no penalty deductions are needed since there are no outdated/contradictory/critical references to SLE at all.",
+    "level": "Ignored"
   }
 }

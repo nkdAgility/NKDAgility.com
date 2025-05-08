@@ -249,12 +249,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "GS2If-vQ9ng",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T18:29:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, with no clear focus on accountability or team dynamics.",
+    "calculated_at": "2025-05-01T18:45:45",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses primarily on distinguishing between Agile training and consulting, with an emphasis on knowledge dissemination and targeted improvements. While it hints at concepts important in Agile frameworks, such as skill-building and tailored solutions, it does not directly address accountability as a structural concept or outcome ownership, which is central to the category of Accountability. The brief mention of common vocabulary and understanding contributes somewhat, but overall, accountability is more of a secondary aspect rather than a primary focus.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -738,12 +747,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "GS2If-vQ9ng",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T18:31:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the differences between Agile training and consulting, without a clear focus on strategic approaches within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-01T18:45:56",
+    "ai_confidence": 3.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 8,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content focuses primarily on the differences between Agile training and consulting. While it addresses the concepts of training and consulting in Agile practices, it lacks a direct discussion about strategic alignment, decision-making, or high-level planning towards organizational goals. The mention of improving team performance is somewhat relevant, but it does not connect deeply with strategic concepts. The focus is more on operational training and consulting methods rather than a high-level strategy discussion, resulting in a low confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1287,7 +1305,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1419,15 +1437,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "GS2If-vQ9ng",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:23:49",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:42",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the differences between Agile training and consulting, without any direct mention of Liberating Structures or their principles. While it touches on aspects of Agile methodologies, it does not align with the core themes of Liberating Structures, such as facilitation techniques or enhancing group dynamics. The depth of discussion is limited to the comparison of training and consulting, lacking any detailed exploration of Liberating Structures or their applications.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses Agile training and consulting without mentioning or aligning with specific Liberating Structures or their application in team interactions. The mention of Agile seems generic and does not provide details on facilitation techniques or their use in collaborative settings.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1681,6 +1705,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses Agile training and consulting, providing a basic understanding of each but largely focuses on the distinctions rather than the broader principles and frameworks that define the discipline of Agile. While it mentions some characteristics of Agile practice, it lacks deeper insights into the systematic application of Agile as a discipline and does not address governance, ethical considerations, or the evolution of Agile methodologies. Thus, it shows some alignment to the category but not enough depth or direct focus on the core themes of Discipline.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GS2If-vQ9ng",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:43",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0,
+    "ai_intent": 0.3,
+    "ai_audience": 3.1,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses entirely on differentiating Agile training and Agile consulting, with an emphasis on how each delivers value and targets different needs within an organization. Nowhere does it directly mention Service Level Expectation (SLE) or any of its defining characteristics (e.g., forecasting delivery timeframes, use of historical cycle time, probability-based ranges). It does not touch on SLE's purpose, its calculation, its relationship to Agile, Scrum, or Kanban workflow metrics, or any authoritative SLE-related sources. The only slight alignment is that the audience (Agile practitioners) would be the same group for which SLE discussions are relevant, and a small amount of signal is present in the general relevance to Agile improvement, but otherwise, there is an absence of both direct and indirect reference to the SLE concept. No penalties are necessary as the tone, intent, and references are not outdated or critical, just unrelated.",
     "level": "Ignored"
   }
 }

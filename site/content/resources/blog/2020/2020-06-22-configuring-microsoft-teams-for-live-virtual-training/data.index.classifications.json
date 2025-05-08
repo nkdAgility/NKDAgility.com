@@ -1278,7 +1278,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1685,6 +1685,24 @@
     "non_ai_confidence": null,
     "final_score": 12.0,
     "reasoning": "The content focuses primarily on the configuration and setup of Microsoft Teams for live virtual training. It lacks a discussion on enduring competencies or capabilities that empower teams and organizations, which is the core focus of the 'Capability' category. While tools and techniques related to Microsoft Teams are mentioned, there are no discussions about developing or embedding organizational capabilities, enhancing business agility, or continuous improvement practices. Thus, it only briefly touches on a tangential aspect of capability without being a primary focus.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is exclusively focused on providing practical guidance for configuring Microsoft Teams as a platform for live virtual training sessions. Nowhere in the content is Service Level Expectation (SLE), its calculation, application, or any related Agile, Scrum, or Kanban practices discussed or even mentioned. There is no discussion or hint of SLE as a concept or practice, nor any analysis applicable to its use in Agile, Scrum, Kanban, or any other context. The audience is technical trainers and Scrum.org Professional Scrum Trainers, but all content is solely about technical platform setup with no reference to Agile flow metrics or SLE. There are no penalties, as the content is not outdated or critical, but the scores are at minimum since this is completely outside the intended classification category.",
     "level": "Ignored"
   }
 }

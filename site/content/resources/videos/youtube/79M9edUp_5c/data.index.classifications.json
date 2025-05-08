@@ -249,12 +249,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "79M9edUp_5c",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T18:00:23",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a focus on accountability or team dynamics.",
+    "calculated_at": "2025-05-01T18:45:28",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses primarily on asynchronous communication and its benefits, without directly addressing accountability as a mechanism in work systems. While flexibility and improved collaboration in asynchronous environments may indirectly support accountability, the core themes of accountability, such as outcome ownership or role-specific responsibilities, are not discussed. Thus, the alignment and depth of discussion regarding accountability are quite low.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -738,12 +747,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "79M9edUp_5c",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T18:01:45",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses asynchronous communication and its benefits for collaboration, without a clear focus on Agile, Scrum, or DevOps strategies.",
+    "calculated_at": "2025-05-01T18:45:33",
+    "ai_confidence": 3.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "While the content discusses the benefits of asynchronous communication and its impact on collaboration and productivity, it does not explicitly link these discussions to overarching organizational strategy or strategic alignment. The focus is primarily on communication practices rather than strategic planning or decision-making. There is minimal depth regarding strategic integration, hence the lower confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1284,7 +1302,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
@@ -1416,15 +1434,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "79M9edUp_5c",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:12:42",
-    "ai_confidence": 25.0,
+    "calculated_at": "2025-05-01T18:45:34",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content discusses asynchronous communication and its benefits for collaboration and productivity, but it does not explicitly mention Liberating Structures or their specific techniques. While there are elements of inclusivity and enhanced collaboration that align with the principles of Liberating Structures, the focus is primarily on asynchronous communication rather than on facilitation techniques or group dynamics as defined by the category. The depth of discussion on Liberating Structures is minimal, leading to a low confidence score.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses asynchronous communication and its benefits for collaboration but does not mention or align with specific Liberating Structures or facilitation techniques. While it touches on enhancing productivity and collaboration, it lacks direct relevance to the principles of Liberating Structures and fails to provide any detail on how such structures might be integrated into discussions or practices. Therefore, the confidence in aligning with the 'Liberating Structures' category is low.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1678,6 +1702,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses asynchronous communication techniques without delving into the underlying principles, methodologies, or governance structures associated with disciplines like Agile or Lean. While it addresses some aspects of efficiency and productivity, it does not provide detailed insights into the systematic application or maturation of a discipline, leading to a low confidence score for the category of Discipline.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "79M9edUp_5c",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:45",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.3,
+    "ai_audience": 1.2,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is focused exclusively on the concept, benefits, and recommendations for asynchronous communication in a professional team setting. At no point does the article mention or allude to Service Level Expectation (SLE), nor does it discuss related concepts such as forecasting delivery times, cycle time analysis, or workflow measurement within Agile, Scrum, or Kanban paradigms. There are no direct references or even tangential connections to SLE, and the discussion remains strictly within communication practices rather than metrics or delivery predictability frameworks. The scoring reflects a complete absence of direct mentions, extremely poor alignment to SLE content, and only minimal peripheral audience overlap (as both target team effectiveness as a broad theme). There are no penalties, as the content is not outdated or oppositional. As a result, the confidence score is appropriately at zero.",
     "level": "Ignored"
   }
 }

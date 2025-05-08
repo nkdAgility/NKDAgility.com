@@ -135,12 +135,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "Zegnsk2Nl0Y",
     "category": "Strategy",
-    "calculated_at": "2025-02-12T14:44:18",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses tools preferred by Scrum Masters without a clear focus on strategic approaches or alignment within Agile frameworks.",
+    "calculated_at": "2025-05-01T18:45:34",
+    "ai_confidence": 4.0,
+    "ai_mentions": 4,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses Azure DevOps as a tool to facilitate Scrum processes, focusing on its features and benefits for Scrum Masters and agile teams. While it touches on themes like team empowerment and collaboration that could align with broader strategic objectives, the discussion is operational rather than strategic. It does not adequately address high-level strategic planning or alignment with organizational goals, making it a secondary rather than primary focus on strategy.",
     "level": "Ignored"
   },
   "Agile Planning Tools": {
@@ -255,12 +264,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Zegnsk2Nl0Y",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T14:44:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum tools and their functionalities without addressing accountability or team dynamics.",
+    "calculated_at": "2025-05-01T18:45:29",
+    "ai_confidence": 6.0,
+    "ai_mentions": 6,
+    "ai_alignment": 7,
+    "ai_depth": 5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 6.0,
+    "reasoning": "The content discusses Azure DevOps primarily in the context of improving practices for Scrum Masters and teams, touching on concepts like team empowerment and enhanced visibility. While it does address aspects of accountability through ownership of work and supporting team collaboration, it does not deeply explore the concept of accountability as a structural construct within agile methodologies. The focus is more on the tool's features rather than a thorough exploration of accountability roles or the implications of defined accountabilities in work systems, hence the moderately high score reflecting partial but not primary focus.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
@@ -1290,7 +1308,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1422,15 +1440,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "Zegnsk2Nl0Y",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:08:17",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:34",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Azure DevOps as a tool for Scrum Masters and Agile teams, discussing its features and benefits without any direct mention of Liberating Structures or their principles. While it touches on themes of collaboration and team empowerment, these concepts are not explored in the context of Liberating Structures, which specifically emphasises facilitation techniques and group dynamics. The discussion lacks depth regarding the core themes of Liberating Structures, resulting in a low confidence score.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses Azure DevOps as a tool for Scrum Masters without any references to specific Liberating Structures methods or their integration. Although it touches on team empowerment and collaboration, it does not provide detailed discussions on facilitation techniques or how to implement Liberating Structures in agile practices. The focus is on tool usage rather than the category's core themes.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1684,6 +1708,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on Azure DevOps as a tool for Agile and Scrum, discussing its features and benefits in practical terms. While it indirectly references Agile principles and the role of Scrum Masters, the discussion remains tool-centric and lacks a deep examination of the underlying principles of discipline related to Agile as a structured field of study. Therefore, while there are mentions of discipline-related concepts, the depth and conceptual alignment do not sufficiently satisfy the requirements for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Zegnsk2Nl0Y",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:42",
+    "ai_confidence": 6.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 1.2,
+    "ai_audience": 1.8,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses benefits of Azure DevOps for Scrum Masters, including workflow simplification, team visibility, collaboration, and feedback loops. There is no direct or indirect mention of Service Level Expectation (SLE), its definition, calculation, or application. None of the key topics (SLE, cycle time probabilities, making SLEs transparent, etc.) appear. The closest related terms, like 'real-time insights' and 'monitoring project health,' are generic and do not reference SLE or its Kanban/Agile context. The audience is somewhat aligned (Scrum Masters, Agile teams), but the content is off-topic regarding SLE. Thus, all scoring dimensions are very low, with zero for direct mentions and only a minor score for audience due to contextual overlap.",
     "level": "Ignored"
   }
 }

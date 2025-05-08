@@ -1308,7 +1308,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1715,6 +1715,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on a training workshop for Scrum Masters, emphasizing skills and roles rather than the enduring competencies or systemic capabilities necessary for organizations. Although it touches on some aspects of community building and ongoing support which could foster capability, the primary emphasis is on roles and educational outputs rather than the cultivation of capabilities within an organizational context.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "5ZRMBfV9zpI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 5.04,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.4,
+    "ai_intent": 1.1,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on promoting a Scrum Master training workshop, reflecting on its structure, benefits, community support, and the value of Scrum education. There are no direct mentions of Service Level Expectation (SLE), nor any conceptual or practical exploration of its definition, calculation, or role within Agile, Scrum, or Kanban. Concepts like transparency and continuous improvement are mentioned, but only in the general sense of Scrum principles, with no tie to SLE or its application. The main purpose is to encourage participation in training, not to inform or analyze SLE. The audience is Scrum practitioners and aspiring Scrum Masters, which partially aligns with the potential SLE audience but only incidentally. Signal-to-noise is low regarding SLE, as all discussion is off-topic for this category. No penalties are necessary, as there are no outdated or undermining elements. Confidence is extremely low, reflecting the near-total absence of SLE relevance.",
     "level": "Ignored"
   }
 }

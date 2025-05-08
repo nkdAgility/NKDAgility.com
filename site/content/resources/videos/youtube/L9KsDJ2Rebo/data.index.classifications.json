@@ -1302,7 +1302,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1696,6 +1696,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses learning techniques in Agile and Scrum with a focus on spaced learning, but primarily emphasizes training methods rather than enduring capabilities. While it mentions engagement and application of knowledge, these ideas do not fully align with the core themes of capabilities as they focus more on techniques than on long-term competencies integrated into organizational culture.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "L9KsDJ2Rebo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:57",
+    "ai_confidence": 2.71,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.4,
+    "ai_audience": 0.8,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content does not directly mention or discuss Service Level Expectation (SLE) in any explicit form, nor does it address its calculation, application, or improvement within Agile, Scrum, or Kanban frameworks. The focus is entirely on learning approaches—contrasting spaced learning versus traditional, immersive training methods in Agile/Scrum contexts. While the audience overlaps (Agile practitioners and trainers), and there is a tangential connection to improving real-world application (which is a general Agile principle), none of the discussion covers SLE’s definition, metrics, predictive value, or ties to transparency in delivery. Scores are therefore extremely low in all dimensions except audience and signal (which is somewhat on topic in Agile training but not SLE). No penalties applied as tone and relevance are neutral, but the overall confidence that this content fits the SLE category is extremely low.",
     "level": "Ignored"
   }
 }

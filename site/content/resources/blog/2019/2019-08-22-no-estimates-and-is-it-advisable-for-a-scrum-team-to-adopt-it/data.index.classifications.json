@@ -1353,7 +1353,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1760,6 +1760,24 @@
     "non_ai_confidence": null,
     "final_score": 36.0,
     "reasoning": "The content primarily addresses the topic of estimation practices within Scrum teams and the potential adoption of the No Estimation approach. It briefly touches on the idea of teams optimizing their processes through better communication and maturing their understanding over time; however, the focus is substantially on specific techniques and transitions rather than cultivating enduring capabilities. There are mentions of metrics that teams should adopt, which aligns with the theme of continuous improvement. Overall, it covers elements relevant to capability but lacks a comprehensive exploration of how these practices integrate into a sustainable framework within an organizational culture.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Lv1CLfk5cPM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:15",
+    "ai_confidence": 18.622,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.5,
+    "ai_intent": 2.3,
+    "ai_audience": 6.5,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on NoEstimates in Scrum, discussing the value (or lack thereof) of estimation, and proposes moving towards flow-based metrics like Cycle Time, Throughput, WIP, and Work Item Aging for mature teams. While 'Kanban Guide for Scrum Teams' and Daniel Vacanti are referenced—both authoritative SLE sources—there are no direct mentions or discussions of Service Level Expectation (SLE). Cycle time and predictability are mentioned, but only in the context of general flow optimization, not SLE's explicit formulation, calculation, or use. No discussion is present regarding the SLE's definition, time range, associated probability, or its role in transparency or stakeholder management. The closest relevance is the indirect link to predictability and Kanban metrics, but this does not suffice per the strict classification definition. The scoring reflects one passing reference to authors/sources associated with SLE, minimal conceptual alignment, some audience overlap, some technical discussion, but negligible direct discussion or intent related to SLE. No penalties for outdatedness or contradictory tone were triggered.",
     "level": "Ignored"
   }
 }

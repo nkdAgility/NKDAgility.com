@@ -1359,7 +1359,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1767,5 +1767,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses the failures of agile transformations due to misalignment between decision-making and implementation, which touches on the need for organizational capabilities such as collaboration, inclusion of expert insights, and decision-making processes. It emphasizes the importance of including team members in the transformation process, highlighting a capability that fosters engagement and greater success. However, it primarily focuses on challenges and solutions rather than deeply exploring the enduring competencies necessary for sustainable value delivery, which slightly limits its depth in this specific capability context.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "8nQ0VJ1CdqU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 2.83,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 0.4,
+    "ai_audience": 2.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is a broad discussion about why agile transformations fail, focusing on organizational decision-making, inclusion, leadership, and the effectiveness of top-down vs. co-created change. There is no direct mention of Service Level Expectation (SLE); the term never appears, nor are its defining elements (such as probabilistic forecasting of delivery timelines, SLE calculation, or use in Kanban/Scrum) discussed. The closest relevant concepts are general improvements to 'flow' and references to continuous improvement, which remain abstract and disconnected from SLE as defined. The content is aimed at agile practitioners and leaders (modest audience alignment) and has a somewhat focused signal but is off-topic regarding SLE. No obsolete practices or critical tone are detected, so no penalties apply. All considered, there is almost no evidence of relevance to SLE, resulting in a very low confidence score.",
+    "level": "Ignored"
   }
 }

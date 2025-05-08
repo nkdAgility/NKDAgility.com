@@ -1356,7 +1356,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1763,6 +1763,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content primarily discusses the process of refining a Product Backlog in Scrum, which focuses on tools and techniques rather than enduring capabilities. It briefly touches on how proper refinement can help the Scrum team perform better, but it doesn't delve into broader themes of capability development or the systemic impact on organizational culture. Overall, the primary discussions are centered around Scrum roles and the refinement process rather than the cultivation of capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "4ukwclfJlXy",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:04",
+    "ai_confidence": 2.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 1.5,
+    "ai_audience": 5.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on the importance of Product Backlog Refinement within Scrum, detailing practices, events, and the meaning of a 'Ready Backlog.' There is no direct or indirect mention of Service Level Expectation (SLE), nor any reference to cycle time ranges, probabilities, historical data use, or Kanban/Scrum SLE definitions. The main ideas, intent, and depth are about increasing delivery predictability via backlog clarity and sprint planning readiness, but these are not framed in terms of SLE or its associated metrics. Audience alignment is scored higher, as it targets Scrum practitioners—the same population that would use SLE—but even so, the signal-to-noise ratio is low relative to the SLE topic. No penalties are necessary, as the content is neither outdated nor critical. The extremely low confidence score correctly reflects the near-absence of SLE-relevant material.",
     "level": "Ignored"
   }
 }

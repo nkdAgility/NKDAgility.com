@@ -1353,7 +1353,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:32",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1760,6 +1760,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on the role of the Sprint Goal and the Product Owner in the context of Agile practices. While it touches upon definitions and roles related to strategic and tactical goals in Scrum, it lacks a deeper exploration of enduring capabilities that teams and organizations can cultivate. It mentions effective goal setting and value maximization, but does not sufficiently discuss the broader, systemic capabilities that enhance organizational performance and agility, nor does it provide strategies for developing such capabilities over time. The content has relevance but does not fit the 'Capability' category as a primary focus.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "sLRE2HdkUCS",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:11",
+    "ai_confidence": 3.56,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 0.2,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content does not explicitly mention Service Level Expectation (SLE) or its associated topics such as cycle time ranges, probabilities, or predictability guarantees. Its main focus is on the role and purpose of the Sprint Goal as a tactical objective within Scrum, along with advice for Product Owners on hypothesis-driven development and Lean UX/Canvas techniques. While the audience (Scrum practitioners, Product Owners) partially overlaps with the usual SLE audience, the content is entirely oriented toward planning and value delivery—not forecasting workflow delivery times. There are no references to SLE calculation, improvement, application, or transparency for stakeholders. No penalties were required, as the tone and content are neutral and contemporary, but the exceedingly low scores in all relevant dimensions accurately reflect that this is off-category content with only the most indirect, conceptual overlap: both are Agile/Scrum-related, but this piece is not SLE-focused.",
     "level": "Ignored"
   }
 }

@@ -1293,7 +1293,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1687,6 +1687,24 @@
     "non_ai_confidence": null,
     "final_score": 20.0,
     "reasoning": "The content primarily focuses on the importance of language and transparency in Agile; while it briefly mentions topics relevant to capability like precision and accuracy, it does so in a superficial manner. There is no in-depth discussion on capabilities, their definition, or their role within teams and organizations. Therefore, it receives a low confidence score overall.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "SfjZtlimOCu",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:46",
+    "ai_confidence": 3.922,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 7.3,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is a podcast announcement focusing on the importance of language and transparency in Agile. There is no explicit or implicit mention of Service Level Expectation (SLE), nor are there any discussions covering the calculation, definition, application, or improvement of SLE as described in the classification definition. The alignment and depth scores are low, as the central topic is transparency and precise language within Agile practices, not SLE or related flow metrics. The audience likely overlaps with those interested in SLE (Agile coaches, consultants, Scrum practitioners), yielding higher scores in 'audience' and 'signal' factors, but this does not compensate for the total lack of SLE-specific content or intent. No penalties were warranted because the content is not outdated or contradictory—it simply does not discuss the classification topic. The resulting confidence is accordingly very low.",
     "level": "Ignored"
   }
 }

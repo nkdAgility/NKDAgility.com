@@ -264,12 +264,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "pyk0CfSobzM",
     "category": "Strategy",
-    "calculated_at": "2025-02-12T03:23:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses Scrum estimation techniques and the challenges of predicting delivery timelines, rather than focusing on strategic alignment or broader strategic concepts within Agile frameworks.",
+    "calculated_at": "2025-05-02T04:20:49",
+    "ai_confidence": 3.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.28,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses Scrum practices, specifically the estimation process within a Sprint, without tying these discussions to broader strategic alignments or organizational goals. While there are mentions of uncertainties and a general discussion about Agile strategies, the focus remains on operational practices rather than high-level strategic planning or decision-making. Therefore, while there are some references to strategic thinking in Agile, they are secondary to the primary emphasis on Scrum methods, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -861,12 +870,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "pyk0CfSobzM",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T03:25:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses estimation in Scrum and the challenges associated with predicting delivery timelines, rather than focusing on accountability or team ownership.",
+    "calculated_at": "2025-05-02T04:20:02",
+    "ai_confidence": 4.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses Scrum team dynamics and estimation processes, touching upon roles such as the product owner. However, the primary focus is on estimation and the uncertainties involved rather than specific accountabilities or outcome ownership. It briefly mentions 'product owner' in the context of team understanding but lacks a detailed exploration of accountability structures within Scrum. Overall, while there are relevant mentions, accountability is not the main focus, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1350,7 +1368,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1482,15 +1500,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "pyk0CfSobzM",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T11:50:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 15.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum estimation techniques and does not mention Liberating Structures or their principles. While it discusses Agile methodologies, it does not align with the core themes of Liberating Structures, such as facilitation techniques or enhancing group dynamics. The depth of discussion is limited to Scrum practices without any reference to collaborative or participatory methods that are central to Liberating Structures.",
+    "calculated_at": "2025-05-02T04:20:39",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.15,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses Scrum estimation practices and does not mention any specific Liberating Structures or their integration into Scrum processes. While it touches on Agile methodologies, it lacks any reference to the facilitation techniques associated with Liberating Structures. Therefore, it does not align well with the category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1745,5 +1769,23 @@
     "final_score": 55.0,
     "reasoning": "The content focuses on the specific methodologies and practices of Scrum, particularly around Sprint estimation. While it provides some discussion on understanding principles related to product backlog and team dynamics, it does not thoroughly analyze the broader systemic implications of discipline as a structured field. The primary focus remains on Scrum-related techniques and practices rather than delving into the principles and evolution that define the category of Discipline as outlined. Therefore, the confidence score reflects moderate relevance rather than strong alignment.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "pyk0CfSobzM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:03",
+    "ai_confidence": 10.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on the challenges of estimation in Scrum, specifically emphasizing uncertainty in creative work and the limitations of traditional estimation methods. However, it makes no explicit reference to Service Level Expectation (SLE); terms like 'SLE,' 'service level expectation,' or its key features (time range, probability, historical cycle time, flow metrics, Kanban practices) are entirely absent. The discussion does not mention or imply the calculation, application, or improvement of SLE in Agile, Scrum, or Kanban contexts. Instead, the author frames estimation as inherently unreliable in creative contexts, and offers general advice to approach Sprint planning with flexibility. The audience (Agile enthusiasts and Scrum teams) overlaps somewhat, but the article's main intent is to question estimation and encourage adaptation rather than to directly address or teach about SLE. Therefore, there is only a minimal, indirect conceptual overlap (the theme of uncertainty), but no substantive engagement with the SLE category. No penalties were applied, as the article does not reference obsolete practices or contradict the category's framing.",
+    "level": "Ignored"
   }
 }

@@ -1374,7 +1374,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1769,5 +1769,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the development of leadership capabilities in managers transitioning to agile roles, emphasizing the importance of training and continuous improvement. It aligns with the definition of capability by focusing on how these training programs cultivate enduring competencies among leaders. However, the content primarily revolves around specific training programs and skills rather than overarching systemic capabilities within the organization, which affects its depth and direct mentions related to capability as a broad theme.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "W3cyrYFXDfg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:36",
+    "ai_confidence": 3.68,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 0.5,
+    "ai_audience": 0.9,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is centered on agile leadership development and evidence-based management training, aiming to improve leadership skills for managers transitioning to agile. Nowhere in the content is Service Level Expectation (SLE) directly mentioned or alluded to, nor are its defining components (elapsed time ranges, probability, Kanban flow, etc.) or applications discussed. While there is some generic discussion of measurement, metrics, and evidence-based approaches, these are discussed in the context of business outcomes, not SLE or Kanban/Scrum flow metrics. The main audience is well-aligned in terms of agile practitioners/managers, but the intent, depth, and alignment with SLE are very minimal or absent. Thus, all scores remain extremely low, with slight variation to reflect that metrics are tangentially referenced. No penalties are necessary as there is no outdated or contradictory content. Confidence is extremely low, reflecting that this content does not pertain to Service Level Expectation in definition, calculation, or practice.",
+    "level": "Ignored"
   }
 }

@@ -855,12 +855,21 @@
     "level": "Tertiary"
   },
   "Accountability": {
+    "resourceId": "GIq3LZUnWx4",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T07:15:40",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the concept of value in relation to the role of Product Owners, without a clear focus on accountability or team dynamics.",
+    "calculated_at": "2025-05-02T04:20:35",
+    "ai_confidence": 6.0,
+    "ai_mentions": 2,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 6.0,
+    "reasoning": "The content primarily focuses on the role of Product Owners in defining and demonstrating value, which is closely tied to accountability in a Scrum environment. It explicitly mentions Product Owners and their responsibilities regarding value, aligning with accountability's emphasis on role-specific accountabilities. However, while value ownership is touched upon, the discussion lacks a deeper dive into the structural aspects of accountability and its impact on performance and alignment in work systems, thus the confidence score is moderately high but not maximal.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1356,7 +1365,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1488,15 +1497,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "GIq3LZUnWx4",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:08:26",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:19",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of Product Owners in defining and communicating value within Scrum environments. While it touches on themes of collaboration and leadership, it does not explicitly mention Liberating Structures or discuss facilitation techniques that enhance group dynamics. The discussion lacks depth regarding the principles or specific methods associated with Liberating Structures, leading to a low confidence score.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the PSPO course and focuses on the concept of 'value' in Scrum without mentioning or incorporating any specific Liberating Structures, such as methods for engagement or facilitation techniques relevant to team interactions. Therefore, while it relates to Scrum, it does not meet the requirements for the Liberating Structures category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1750,6 +1765,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content focuses primarily on the role of a Product Owner and the concept of value within Scrum frameworks, mentioning leadership and decision-making. While it addresses principles relevant to product management, it does not engage deeply with the systematic application of a discipline or the evolution of such practices in a broader organizational context. Consequently, it reflects some alignment with the category of Discipline, but lacks comprehensive exploration of its core tenets.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GIq3LZUnWx4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:55",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.2,
+    "ai_audience": 2.0,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is entirely focused on the concept of 'value' as the core lesson of the PSPO course, going into various definitions and personal reflections on value for Product Owners. There is no mention—direct, indirect, or implied—of Service Level Expectation (SLE), its calculation, use, or any related Agile/Kanban flow metric. The discussion remains tightly scoped to leadership, value delivery, and organisational definitions, none of which connects to SLE. Therefore, all dimensions related to the target category (mentions, alignment, depth, intent, signal) score nearly zero, except a small value for audience as it is at least somewhat relevant to Agile practitioners. No penalty is applied, as there is no outdated or contradicting content. The confidence score is correctly at the absolute minimum, given the complete lack of SLE relevance.",
     "level": "Ignored"
   }
 }

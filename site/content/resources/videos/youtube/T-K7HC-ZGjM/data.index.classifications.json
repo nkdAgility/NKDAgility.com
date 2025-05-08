@@ -261,12 +261,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "T-K7HC-ZGjM",
     "category": "Strategy",
-    "calculated_at": "2025-02-12T01:22:57",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a Sprint backlog and its components within the Scrum framework, without a clear focus on strategic alignment or optimisation techniques.",
+    "calculated_at": "2025-05-02T04:20:30",
+    "ai_confidence": 4.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 20,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the Sprint Backlog as a specific element of Scrum, focusing on its components and the agile methodology. Although it touches on flexibility and alignment with goals, it lacks a broader strategic context. The direct discussion of 'setting teams up for success' and 'balancing priorities' hints at strategic thoughts but does not fully develop those into a strategic decision-making framework or align them with overarching organizational goals.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -861,12 +870,21 @@
     "level": "Primary"
   },
   "Accountability": {
+    "resourceId": "T-K7HC-ZGjM",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T01:24:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the Sprint backlog and its components, focusing on Scrum roles and events rather than accountability or team ownership.",
+    "calculated_at": "2025-05-02T04:20:10",
+    "ai_confidence": 4.0,
+    "ai_mentions": 5,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses the Sprint Backlog in Scrum and emphasizes its role in setting goals and ensuring team success, which hints at accountability concerning outcome ownership. However, the primary focus is on Sprint processes rather than explicitly discussing accountability mechanisms, roles, or their impacts on performance in a structured way. This leads to moderate confidence in the connection to accountability.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1350,7 +1368,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1482,15 +1500,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "T-K7HC-ZGjM",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T11:55:53",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:07",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the concept of the Sprint Backlog within the Scrum framework, discussing its components and importance in Agile practices. However, it does not mention Liberating Structures or any related facilitation techniques. The discussion lacks alignment with the core themes of Liberating Structures, such as enhancing participation or collaboration. The depth of discussion is also limited to Scrum-specific elements without exploring the broader implications of group dynamics or facilitation methods.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.3,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the Sprint Backlog within the Scrum framework and does not mention or align with any specific Liberating Structures methods. It discusses Scrum roles and planning but does not provide insights into facilitation techniques or how to enhance engagement and collaboration using Liberating Structures. While it touches on themes of flexibility and team success, these concepts are not tied back to the use or implementation of Liberating Structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1744,6 +1768,24 @@
     "non_ai_confidence": null,
     "final_score": 23.0,
     "reasoning": "While the content discusses the Sprint Backlog within Scrum, it primarily focuses on specific tools and practices rather than the underlying principles of the discipline of Agile or Scrum itself. The discussion is more about how to implement the Sprint Backlog effectively without delving into the principles, methodologies, or governance structures that define the discipline of Agile. This makes it less aligned with the broader category of Discipline, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "T-K7HC-ZGjM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:58",
+    "ai_confidence": 2.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 2.0,
+    "ai_audience": 4.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content exclusively focuses on the Sprint Backlog and its practical application in Scrum. There are no direct or indirect mentions of Service Level Expectation (SLE), its calculation, definition, or usage in Agile, Scrum, or Kanban contexts. The discussion instead centers on the components, use, and flexibility of the Sprint Backlog, Sprint Goal, and general Agile principles. No part of the content relates to forecasts of cycle time, elapsed days, or SLE-specific metrics or concepts. The audience consists of Scrum and Agile practitioners, which somewhat overlaps with those interested in SLE, but the subject matter is completely unrelated. As such, all scores are extremely low. No penalties were needed, as there are no outdated or undermining elements present. The resulting confidence score reflects extremely low relevance to the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

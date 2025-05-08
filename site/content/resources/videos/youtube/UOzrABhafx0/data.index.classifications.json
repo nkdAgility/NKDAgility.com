@@ -1332,7 +1332,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1726,6 +1726,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "While the content discusses techniques related to backlog management, it primarily focuses on the course's structure and practical skills, rather than enduring capabilities that enhance organizational and team performance. The discussion briefly mentions the importance of backlog management in achieving alignment with business goals, but lacks a deeper exploration of how these practices contribute to long-term capability development within Agile frameworks.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "UOzrABhafx0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:35",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 1.3,
+    "ai_audience": 3.3,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is entirely about product backlog management within Agile and Scrum, focusing on practical skills, course features, and techniques for refining and ordering backlog items. At no point does it mention or discuss Service Level Expectation (SLE) by name or concept. Cycle time, elapsed days, probability, or SLE calculation do not appear, nor is there any reference to SLE's role in predictability, transparency, or flow issues. The closest tangential relevance is the general focus on Agile techniques, which is weak alignment at best, and the target audience is similar (Agile practitioners), but the content is fully outside the strict classification boundaries. There are no outdated or critical tones to penalize. As a result, all scoring dimensions are very low except audience and signal, which have minimal points because the readers are likely practitioners interested in flow, but the actual content is almost entirely off-topic.",
     "level": "Ignored"
   }
 }

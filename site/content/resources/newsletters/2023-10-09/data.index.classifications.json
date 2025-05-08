@@ -1347,7 +1347,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1741,6 +1741,24 @@
     "non_ai_confidence": null,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on a specific course about Scrum's Product Backlog Management and includes elements related to roles and training techniques. While it does mention aspects like stakeholder engagement and decision-making, which can hint at broader capabilities, the emphasis is on tangible training offerings, roles, and individual practices rather than cultivating enduring organizational capabilities. Therefore, it scores low in the alignment and depth categories. The overarching focus on a training product confirms the low confidence in the Capability category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2G_gVI5phMC",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:44",
+    "ai_confidence": 2.36,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 3.2,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused entirely on promoting a Scrum.org Product Backlog Management course. There are no explicit mentions of Service Level Expectation (SLE), nor are any related concepts such as cycle time ranges, probabilities, or forecasting delivery times within Agile, Scrum, or Kanban theories directly discussed. The closest connections are general references to data-driven decision-making and stakeholder communication, but these are common themes in Scrum content and not tied in any way to SLEs. The audience alignment and signal scores are slightly higher because the content is clearly targeting Scrum practitioners who might eventually be interested in SLE concepts, but the material itself does not address SLE in any form. There is no depth on SLE, no calculation or analysis, and no intent to cover that category; thus, the confidence score is extremely low and entirely warranted.",
     "level": "Ignored"
   }
 }

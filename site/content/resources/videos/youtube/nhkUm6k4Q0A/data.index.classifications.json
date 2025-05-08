@@ -1362,7 +1362,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1757,5 +1757,23 @@
     "final_score": 65.0,
     "reasoning": "The content primarily focuses on the role of an Agile coach and the importance of being agnostic in choosing frameworks, which indirectly relates to the development of capabilities within teams. It discusses how understanding underlying principles and fostering an environment for experimentation can embed these capabilities in teams. However, since the focus is more on coaching roles and methods (such as promoting flexibility and guiding teams) rather than explicitly defining or assessing capabilities as a primary focus, the confidence score is moderate. The depth of discussion does outline processes that contribute to organizational capability but lacks a direct, sustained examination of 'capabilities' as enduring competencies across multiple contexts.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "nhkUm6k4Q0A",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:43",
+    "ai_confidence": 11.58,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 1.5,
+    "ai_intent": 0.8,
+    "ai_audience": 2.5,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "There are zero direct mentions of Service Level Expectation (SLE) or any discussion specifically focused on its definition, calculation, application, or improvement within Agile, Scrum, or Kanban frameworks. The content is an article about agnostic Agile coaching, emphasizing flexibility between frameworks (Scrum, Kanban, Lean, XP), understanding underlying principles, and enabling teams to choose practices that fit their context. While SLE as a concept would fit under a Kanban or Scrum topic, no part of the content references flow metrics, cycle time, probabilistic forecasts, delivery predictability, or SLE's role in them. Approaches such as continuous improvement and transparency are referenced, but only in the broadest Agile sense—not specifically linked to SLE. The intended audience (coaches and practitioners) matches the category, but the lack of topic specificity means very little signal is relevant to SLE. Thus, all scores are near the minimum, and the final confidence is low, accurately reflecting the evidence.",
+    "level": "Ignored"
   }
 }

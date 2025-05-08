@@ -307,7 +307,7 @@
   },
   "Shift Left Strategy": {
     "resourceId": "nTipEJck6ez",
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-05-05T11:31:13",
     "ai_confidence": 22.5,
     "ai_mentions": 0.0,
@@ -3021,6 +3021,24 @@
     "ai_penalty_details": "intent: The tone actively contradicts the category’s framing by being critical of Scrum Masters.",
     "final_score": 25.0,
     "reasoning": "The content explicitly mentions Scrum Masters but does not reference 'Hybrid Agile' directly, resulting in a low score for Direct Mentions (1.0). The main ideas focus on the incompetence of Scrum Masters rather than the principles of Hybrid Agile, leading to a low score for Conceptual Alignment (2.0). The discussion lacks depth regarding Hybrid Agile practices, focusing instead on criticism of Scrum Masters (2.0). The intent of the content is critical rather than supportive of Agile practices, which warrants a penalty (1.0). The audience appears to be practitioners, but the tone is not aligned with promoting Hybrid Agile (2.0). The content is somewhat focused, but the critical nature detracts from its relevance (2.0). After applying a penalty for intent, the final confidence score is calculated as 25.0.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "nTipEJck6ez",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:08",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.1,
+    "ai_intent": 0.5,
+    "ai_audience": 0.2,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a critique of Scrum Masters' competence, centered on their skills, experience, and adherence to the Scrum Guide. It contains no explicit references to Service Level Expectation (SLE) or related concepts, such as cycle time forecasting, elapsed time ranges, or probability associated with completion. None of the main ideas, intent, or examples are about SLE, its definition, calculation, or application. Even tangential references, such as continuous improvement, are only used in the context of general competence, not process predictability metrics like SLE. The audience is Scrum practitioners and leadership, but the material's complete lack of SLE discussion makes it almost entirely irrelevant to the category except for a faint connection via Agile practices. Thus, all scores are very low, and the resulting confidence is extremely minimal with no penalties applied, as the content is modern and not sarcastic.",
     "level": "Ignored"
   }
 }

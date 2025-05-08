@@ -1329,7 +1329,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1723,6 +1723,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content initially discusses the incompetence of Agile coaches, hinting at the importance of capabilities within coaching roles. However, it primarily focuses on individuals and their shortcomings rather than enduring competencies or systemic capabilities. There are some mentions of the need for ongoing education and fostering a mindset aligned with Agile values, which touches upon capability development, yet these are overshadowed by the critique of current practices. Discussions about roles and isolated practices weaken its alignment with the Capability category. Overall, while there are elements related to Capability, they are not the main focus of the content.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "UeisJt8U2_0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:41",
+    "ai_confidence": 5.4,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0.4,
+    "ai_audience": 2.3,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is a critical commentary on incompetence among Agile coaches and Scrum Masters, referencing general Agile, Scrum, and DevOps principles, with a call for more qualified practitioners. However, there is no direct or indirect mention of Service Level Expectation (SLE), nor any discussion of its definition, calculation, use in predictability, or associated metrics. While the piece does touch on continuous improvement and the need for proper application of Agile practices, these are at the motivational and cultural level—not in relation to or even with allusion to SLE as a concept. The intended audience (Agile practitioners and leaders) marginally overlaps with that for SLE content, but the bulk and focus are not at all aligned with the SLE category. Therefore, all dimension scores are very low, especially for direct mentions, depth, and signal-to-noise. No penalties were applied, as the content is not outdated, nor satirical or directly critical of SLE; it just has no meaningful connection to the SLE category.",
     "level": "Ignored"
   }
 }

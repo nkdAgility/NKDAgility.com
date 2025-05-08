@@ -1377,7 +1377,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1772,5 +1772,23 @@
     "final_score": 73.0,
     "reasoning": "The content discusses the evolution of DevOps and highlights several aspects that align with the concept of capability, particularly in relation to culture, collaboration, and automation. It addresses the need for a cultural shift, system thinking, and the significance of continuous learning, which are essential elements in cultivating enduring capabilities within organizations. However, while the discussions about the challenges and systemic approaches provide a solid foundation, the overall primary focus leans more towards personal experience and narrative rather than a concentrated examination of enduring organizational capabilities as stipulated in the category definition.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "icX4XpolVLE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:03",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 2.2,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The provided content focuses on the evolution and cultural, technical, and learning challenges in DevOps, including continuous improvement, automation, collaboration, and systems thinking. However, there is no mention—explicit or implicit—of Service Level Expectation (SLE) in the Agile, Scrum, or Kanban sense, nor of its definition, calculation, application, or improvement. While some DevOps practices tangentially touch on predictability and feedback, the content does not address forecasting cycle times, assigning probability-based time ranges to work completion, or transparency of time expectations—all core aspects of SLE. The audience might be interested in related agile/lean topics, but the piece remains distinctly DevOps-focused, not SLE-specific. Depth, intent, and signal-to-noise are minimal as relates specifically to SLE. No penalties were applied, as the content is not outdated or satirical. Consequently, the confidence is quite low and proportional to the almost complete lack of SLE relevance.",
+    "level": "Ignored"
   }
 }

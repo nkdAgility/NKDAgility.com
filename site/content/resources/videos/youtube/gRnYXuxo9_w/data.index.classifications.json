@@ -117,12 +117,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "gRnYXuxo9_w",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on the concept of openness in Scrum rather than discussing accountability or ownership in teams.",
+    "calculated_at": "2025-05-02T04:20:43",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.45,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content focuses on openness and transparency within Scrum, which indirectly relates to accountability but does not explicitly discuss outcome ownership or clarify roles related to accountability, such as the Product Owner or Scrum Master. Although transparency is a critical interpersonal aspect that can influence accountability, the primary focus is more on trust and communication rather than on structural accountabilities themselves. Therefore, while there is some alignment, it is not strong enough to rate higher.",
     "level": "Ignored"
   },
   "Windows": {
@@ -924,12 +933,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "gRnYXuxo9_w",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:21:39",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the concept of openness as a value in Scrum, focusing on team dynamics and collaboration, rather than on strategic approaches or frameworks within Agile, Scrum, or DevOps.",
+    "calculated_at": "2025-05-02T04:20:24",
+    "ai_confidence": 2.0,
+    "ai_mentions": 2,
+    "ai_alignment": 30,
+    "ai_depth": 20,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses primarily on openness and transparency within Scrum, discussing the importance of trust and communication. While it touches on aspects that could relate to team alignment and communication strategies, it does not address strategic planning or high-level organizational goals. Instead, it centers on the operational and cultural aspects of Scrum, with limited direct discussion of broader strategic implications. Therefore, while there are mentions of important concepts, they are not tied back to a high-level strategic framework, justifying a low confidence score.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1344,7 +1362,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1476,15 +1494,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "gRnYXuxo9_w",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:25:27",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the principles of openness and transparency within Scrum, which are important for team dynamics but does not explicitly mention or discuss Liberating Structures or their specific techniques. While there is some conceptual alignment with the idea of fostering collaboration and trust, the depth of discussion is limited to Scrum practices without integrating the broader framework of Liberating Structures. Therefore, the confidence score reflects a low direct mention and depth, with moderate alignment to the category's themes.",
+    "calculated_at": "2025-05-02T04:20:39",
+    "ai_confidence": 1.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content focuses primarily on the concept of openness and transparency within Scrum, discussing its importance for trust and team dynamics. However, it does not mention or discuss any specific Liberating Structures or their application. The discussion aligns only marginally with the core themes of facilitating team interactions using structured methods, and the depth of detail regarding Liberating Structures is virtually absent. Overall, the content does not fit within the required criteria for the category and only briefly touches on principles relevant to the broader Agile context without specific reference to facilitation techniques.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1738,6 +1762,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the principles of openness and transparency within the Scrum framework. While it aligns with some aspects of professional conduct in a specific context, it does not sufficiently delve into the broader systemic application and maturation of disciplines like Agile, DevOps, or Lean. The mention of Scrum values and their importance offers minimal direct discussion of governance, continuous improvement, or comprehensive exploration of discipline as defined in the category description. Overall, it lacks depth in relation to the category of discipline, focusing more on practical aspects rather than the structured study of professional methodologies.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "gRnYXuxo9_w",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:57",
+    "ai_confidence": 5.04,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.6,
+    "ai_audience": 2.2,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on the value of openness and transparency in Scrum, exploring trust, clear communication, accessibility of information, and emotional openness. Nowhere does it mention, allude to, or apply the term 'Service Level Expectation (SLE)' as defined in the context of Agile, Scrum, or Kanban. There's no discussion of forecasting, elapsed time ranges, probabilities, use of historical data, or any quantitative analysis related to SLE. The audience is Scrum practitioners, which partially overlaps with the SLE category, but the discussion is thematically and informationally distant from SLE. While transparency is discussed, this refers to interpersonal and process transparency, not SLE metrics. The scores are all very low to reflect the near-total lack of direct or indirect connection, with minor points for audience overlap and general relevance to process improvement in Scrum. The confidence score is proportionally very low as there is no substantive evidence linking this content to Service Level Expectation as a concept.",
     "level": "Ignored"
   }
 }

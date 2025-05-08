@@ -1632,7 +1632,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:38",
     "ai_confidence": 32.0,
     "ai_mentions": 5,
@@ -2027,5 +2027,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses continuous delivery and the importance of cultural commitment to change, which aligns with the concept of capability to some extent. It emphasizes the need for organisations to invest in capabilities like agile processes and continuous improvement practices. However, much of the focus is on delivering faster and not deeply examining the aspects of enduring competencies or a systematic approach to capability development. The score reflects a moderate confidence in its relevance to the capability category, as it touches on some relevant themes but primarily centers around practices and tools.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "DsvMKLto30o",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:06",
+    "ai_confidence": 6.77,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 2.7,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on transforming organizational complexity into continuous delivery capability, emphasizing themes such as modernization, technical debt reduction, and organizational will. Nowhere in the title, description, or body is Service Level Expectation (SLE) defined, referenced, or discussed, nor are related SLE concepts (elapsed time range, probability, historical calculation, etc.) present either explicitly or implicitly. While there is some minor thematic adjacency, such as continuous improvement and responsiveness, the core ideas revolve entirely around legacy modernization, delivery pipelines, application lifecycle management, and cultural change. The audience is adjacent (engineering and leadership stakeholders in software delivery), but not specifically SLE practitioners. The content does not drift into irrelevant tangents, thus the signal score is higher, but direct category relevance is virtually absent. No penalties applied, as there is neither outdated information nor negative or undermining tone related to SLE.",
+    "level": "Ignored"
   }
 }

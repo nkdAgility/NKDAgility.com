@@ -1368,7 +1368,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1762,6 +1762,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses the limitations of traditional hierarchical structures and promotes a transition towards more agile and decentralized organizational frameworks. It provides strategies and actions to enhance agility and empower teams, aligning with the principles of capability development. However, the primary focus is more on the issues with roles and structures than on enduring capabilities as defined. The discussion lacks extensive detail on specific capabilities themselves, which affects the depth score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "56hWAHhbrvs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:45",
+    "ai_confidence": 3.14,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.4,
+    "ai_intent": 4.3,
+    "ai_audience": 5.2,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses almost exclusively on organizational structure and its influence on Agile adoption, with no direct or indirect reference to Service Level Expectation (SLE). The primary topics are transparency, team empowerment, leadership models, and transitioning from hierarchical to decentralized structures. There is significant discussion on organizational decentralization and fostering agility, but absolutely no mention of forecasting, cycle time analysis, time ranges with associated probabilities, or predictability as it relates to SLE. The content’s main intent is to guide leaders and practitioners toward more effective agile organizations by dismantling hierarchical obstacles, potentially relevant for an overlapping audience but not aligning to SLE-specific interests or learning objectives. Overall, any alignment with SLE is tangential at best, as the principles discussed (empowerment, decentralization) may create environments where SLE practices can be introduced, but the article neither defines, calculates, nor applies the concept of SLE in any way. Thus, confidence in the fit is very low, and all scores reflect minimal or no alignment, with a slightly higher audience score due to the Agile practitioner focus.",
     "level": "Ignored"
   }
 }

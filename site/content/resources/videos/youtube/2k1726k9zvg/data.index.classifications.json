@@ -1338,7 +1338,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1732,6 +1732,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content discusses the role of the Scrum Master, particularly focusing on accountability and value creation. While it does mention some aspects related to continuous improvement and team effectiveness, these concepts are presented more in the context of roles and responsibilities rather than as enduring capabilities cultivated within an organization. The primary focus remains on differentiating between novice and experienced Scrum Masters rather than examining the broader concept of capabilities in Agile, thus it doesn't align well with the core themes of the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2k1726k9zvg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 9.95,
+    "ai_mentions": 0.05,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.15,
+    "ai_audience": 7.35,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is a reflection on the nature of being a Scrum Master, exploring the differences between 'newbie' and 'professional' and focusing on topics such as accountability, value creation, continuous improvement, and team facilitation. Nowhere in the content is Service Level Expectation (SLE) directly mentioned or described, nor are concepts like elapsed time ranges, probability, or delivery forecast discussed. The text does briefly reference continuous improvement, but not in relation to SLE or any quantitative forecasting practices. There is no direct audience misalignment, as this post is for Scrum practitioners—which overlaps with the SLE-related audience—but the content is almost entirely unrelated to SLE by definition, calculation, or use in a Scrum or Kanban context. The signal-to-noise ratio is moderately high because the content remains focused on professional development themes with little unrelated filler. Therefore, each of the core SLE dimensions (mentions, alignment, depth, and intent) justifiably receive extremely low scores, with marginally higher values for audience and signal due to the context and professionalism of the post. No penalties were applied, as there is no outdated practice or negative tone regarding SLE, simply irrelevance. The calculated confidence score of 9.95 accurately reflects the near-total absence of SLE relevance.",
     "level": "Ignored"
   }
 }

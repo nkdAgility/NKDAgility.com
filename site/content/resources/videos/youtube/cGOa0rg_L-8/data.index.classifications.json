@@ -1380,7 +1380,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
@@ -1775,5 +1775,23 @@
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the importance of transforming organizational capabilities to achieve true agility, emphasizing the integration of Agile practices and automation into deployment processes. It explains how fragmented systems can undermine Agile efforts, highlighting continuous improvement and feedback loops that are key components of capabilities. However, while it touches on the importance of capabilities, much of the focus is on immediate practices and tools like automation and CI/CD, which may dilute its primary focus on enduring competencies.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "cGOa0rg_L-8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:57",
+    "ai_confidence": 8.47,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.8,
+    "ai_depth": 0.9,
+    "ai_intent": 1.7,
+    "ai_audience": 2.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses extensively on practical aspects of making an Agile project ecosystem more efficient, discussing topics such as automation, CI/CD, feedback loops, and maximizing stakeholder value. However, there are zero direct mentions or even indirect references to Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban. None of the themes, recommendations, or terminology connect to the definition, calculation, reporting, or improvement of SLE. Cycle time, lead time, and flow efficiency are implied but SLE itself is not addressed in any context. The target audience of agile practitioners and teams is somewhat aligned with those who would care about SLE, but the entire piece lacks content on SLE's two-part structure (time range with probability), use of historical data, or its specific function in forecast and process improvement. There is some conceptual closeness insofar as predictability, stakeholder value, and flow are discussed, but not through the lens of SLE theory or language. As a result, the confidence score is extremely low.",
+    "level": "Ignored"
   }
 }

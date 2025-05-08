@@ -117,12 +117,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "dKyRYit_4xO",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content focuses on the roles of product owners and product managers within Agile, rather than discussing accountability or team dynamics in the context of Agile methodologies.",
+    "calculated_at": "2025-05-02T04:20:24",
+    "ai_confidence": 4.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 30,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses the role of the Product Owner, a key position in accountability frameworks like Scrum, but it primarily focuses on whether strong product owners make product managers obsolete. While there is some mention of accountability related to roles, it does not deeply explore the impacts of clear accountability structures or outcome ownership. The discussion is more about role comparison than about how accountability operates in agile work systems, leading to a moderate confidence score.",
     "level": "Ignored"
   },
   "Windows": {
@@ -894,12 +903,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "dKyRYit_4xO",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:21:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses the roles of product ownership and product management within Agile, but does not focus on strategic alignment, optimization, or execution of strategy in Agile, Scrum, or DevOps contexts.",
+    "calculated_at": "2025-05-02T04:20:50",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 10,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the roles of product owners and product managers within Agile frameworks, particularly Scrum. While it touches on discussions surrounding organizational roles, it does not clearly align with strategic planning or high-level organizational goals. The focus is more on the operational aspects of product development and team roles, lacking a substantive exploration of how these roles connect to broader strategic objectives. Thus, the confidence in the 'Strategy' category is low.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1302,7 +1320,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
@@ -1434,15 +1452,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "dKyRYit_4xO",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:29:21",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:22",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the roles of product owners and product managers within the context of Agile and Scrum, without any mention or exploration of Liberating Structures or their facilitation techniques. While it touches on Agile principles, it does not align with the core themes of Liberating Structures, which focus on enhancing participation and collaboration through specific techniques. The discussion lacks depth regarding any facilitation methods, resulting in a very low confidence score.",
+    "ai_alignment": 0.05,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content focuses on the discussion of product ownership and product management within the context of Agile but does not mention Liberating Structures or any specific facilitation techniques. While there may be overlap in ideas about collaboration inherent in Agile, the content does not align with the key topics of Liberating Structures such as specific methods or applications. Therefore, it receives a very low confidence score.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1696,6 +1720,24 @@
     "non_ai_confidence": null,
     "final_score": 33.0,
     "reasoning": "The content centers around an Agile-related discussion, specifically examining the roles of product owners versus product managers. While it touches on the concept of Agile, which is related to the field of Discipline, the primary focus is on individual roles rather than the principles, methodologies, and systemic application of Agile as a discipline. The mention of Agile does not delve into the deeper characteristics or frameworks that align with the category of Discipline, and the discussion does not provide comprehensive insights into the evolution or governance structures within this field.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "dKyRYit_4xO",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:01",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.0,
+    "ai_intent": 0.2,
+    "ai_audience": 0.3,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is entirely focused on the roles and distinctions between product owners and product managers, discussing their responsibilities and the relevance of those roles in Agile and Scrum environments. There is no explicit or implicit mention of Service Level Expectation (SLE), nor is there discussion related to its definition, calculation, application, or improvement. The intent and audience partially overlap with the general Agile community, but the subject matter does not address any SLE-related topic, resulting in a very low alignment score. All mentions of Agile, Scrum, and consulting are unrelated to SLE, so the signal-to-noise is extremely low for this category. No penalties were applied, as the content isn't outdated or critical of SLE specifically. The confidence score reflects the near-total lack of relevant content per the strict definition.",
     "level": "Ignored"
   }
 }

@@ -1368,7 +1368,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1762,6 +1762,24 @@
     "non_ai_confidence": null,
     "final_score": 38.0,
     "reasoning": "The content discusses delivering value and meeting client needs rather than focusing strictly on the statement of work (SoW). While it indirectly aligns with the concept of enabling capabilities in an adaptive and value-driven manner, it does not explicitly define or explore the characteristics of capabilities themselves. The discussion on the importance of understanding client needs and relationships does touch on themes related to capability but does not delve into their development or measurement, leading to a lower confidence score overall.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "MutnPwNzyXM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:56",
+    "ai_confidence": 2.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 2.3,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) at all, nor does it discuss its definition, calculation, or application within Agile, Scrum, or Kanban frameworks. Instead, the focus is on the limitations of formal contracts (such as Statements of Work and SLAs) and the importance of delivering genuine value and meeting client needs through flexible, trust-based consulting relationships. While there are passing references to agile, Scrum, and DevOps in terms of conversational context and audience, there is no conceptual or thematic alignment with SLE as specifically defined in the category. The audience may overlap somewhat, as agile practitioners may read this, but the discussion is broader and not technical. Nearly all of the content is signal for topics of consulting value and client relationships, but it's fully irrelevant to SLE. No penalties were applied, as there is no evidence of obsolete practices or undermining of SLE—the content simply does not touch the topic. The very low confidence score reflects minimal to no fit with the SLE category.",
     "level": "Ignored"
   }
 }

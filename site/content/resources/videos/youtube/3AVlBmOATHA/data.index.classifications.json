@@ -1359,7 +1359,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:24",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1767,5 +1767,23 @@
     "final_score": 55.0,
     "reasoning": "The content discusses the importance of pitching Agile to stakeholders and highlights the significance of metrics and outcomes, which aligns with the discussion on developing capabilities. However, it primarily focuses on the tactical execution of Agile rather than deeply exploring enduring competencies or how to embed capabilities within the organization's culture and processes. While the content does discuss aspects indicative of capability, such as aligning Agile with business objectives, it extends into practices and approaches that do not strictly adhere to the established definition of enduring capabilities. Hence, the confidence score is moderately low.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "3AVlBmOATHA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 5.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.9,
+    "ai_depth": 1.8,
+    "ai_intent": 4.1,
+    "ai_audience": 6.5,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on strategies for pitching Agile adoption within organizations, targeting both leadership and teams ('managing up and down'). The main scope is on change management approaches, business case development, identifying relevant metrics, and the value propositions of Agile practices. While there is significant discussion about metrics (e.g., velocity, sprint burndown, OKRs, NPS), none are connected specifically to Service Level Expectation (SLE). There are no direct or indirect references to SLE or its relevant concepts (e.g., forecasting cycle time ranges with probabilities as per Agile/Kanban/Scrum guidelines). The discussion of metrics remains generic or refers to cycle- or flow-related measures only in the context of broad Agile benefits (e.g., 'time to market', 'continuous delivery', 'short production cycles') and without mention or accurate application of SLE as defined. The intended audience (organizational decision-makers, Agile champions) slightly aligns with the SLE topic, but only at a superficial level. No sections discuss the definition, calculation, application, or improvement of SLE, nor do they mention SLE's two-part nature (time range and probability), or authoritative sources. The signal-to-noise ratio is moderate—while the content remains on Agile adoption, nothing is directly or even peripherally relevant to SLE under the strict classification. No penalties are required as the content is current and not satirical or critical. Confidence is low, reflecting the complete omission of SLE while acknowledging some general metric-related discussion.",
+    "level": "Ignored"
   }
 }

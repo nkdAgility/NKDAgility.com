@@ -1368,7 +1368,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:32",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1776,5 +1776,23 @@
     "final_score": 55.0,
     "reasoning": "The content primarily discusses the historical context and negative implications of Taylorism and traditional command-and-control management practices on worker engagement and autonomy. It touches on the need for new approaches, such as Agile, that empower individuals and teams, indicating an understanding of capability in enhancing organizational performance and employee satisfaction. However, while it implies the development of capabilities for better outcomes, it does not provide concrete strategies or detailed examples of capabilities within Agile, Scrum, Lean, or DevOps frameworks. The focus is more on historical critique rather than on actionable capability development, placing its alignment and depth at a moderate level.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "wYwQygBrmgx",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:11",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 2.3,
+    "ai_intent": 0.7,
+    "ai_audience": 2.1,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is a critical historical analysis of Taylorism, its influence on management theory, and its alleged negative effects on innovation and employee engagement. While there is substantial discussion about Agile, Scrum, Lean, and Kanban as better alternatives and brief mentions of evidence-based management and the Scrum/Kanban Guides (found in resource recommendations), there is zero direct or indirect reference to Service Level Expectation (SLE), its definition, calculation, or application. The article does not discuss flow metrics, cycle times, probability, or performance forecasting in the agile context at all. Its intent is philosophical and polemical, not technical or educational regarding SLE or similar concepts. The audience is practitioners interested in management history and agile transformation, which marginally overlaps with the SLE target audience, but the content itself provides no signal or value for SLE understanding. Therefore, all scores are extremely low and the overall confidence reflects near-certain irrelevance to the SLE category.",
+    "level": "Ignored"
   }
 }

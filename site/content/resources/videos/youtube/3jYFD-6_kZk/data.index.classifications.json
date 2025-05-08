@@ -1311,7 +1311,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1705,6 +1705,24 @@
     "non_ai_confidence": null,
     "final_score": 10.0,
     "reasoning": "The content primarily focuses on practical aspects of Azure DevOps data migration, including specific challenges and best practices. It does not engage with philosophical discussions or theoretical foundations related to Agile, DevOps, or Lean methodologies. The content lacks mentions of the 'why' or 'what' behind the practices, limiting its relevance to the philosophy category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "3jYFD-6_kZk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:55",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 6.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is entirely focused on Azure DevOps migration strategies, common pitfalls, backup procedures, identity alignment, process template changes, and cleaning up legacy data. Nowhere in the title, summary, or body is 'Service Level Expectation' (SLE) mentioned, nor is there a discussion of its definition, calculation, purpose, nor its use in Agile, Kanban, or Scrum contexts. Discussions of process and workflow improvement are oriented toward technical migration best practices — not cycle/cadence forecasting, transparency, or stakeholder predictability as defined by SLE. The audience might include practitioners who use SLEs in other contexts, but none of the advice here pertains to SLE or its conceptual equivalents. Therefore, the scores are extremely low for all dimensions except a slightly higher score for audience and signal, since the content is at least aimed at technical teams and is focused (albeit on a different topic). No penalties were warranted, as the content was not outdated nor dismissive, but its fit is extremely weak for the category.",
     "level": "Ignored"
   }
 }

@@ -1362,7 +1362,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1756,6 +1756,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses flexibility and adaptation within Scrum practices, which touches on the concept of capabilities. However, it primarily focuses on agile practices and advice, lacking a deep exploration of enduring competencies or systematic approaches to developing capabilities. While it mentions the importance of aligning strategies with organizational contexts, it does not delve into how to cultivate these capabilities sustainably.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "YUlpnyN2IeI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:01",
+    "ai_confidence": 6.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 2.3,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is broadly about Scrum advice, focusing on the importance of flexibility over dogma, pragmatic adaptation of Agile principles, and continuous improvement. Nowhere in the text is Service Level Expectation (SLE) mentioned directly, nor are any of its components (cycle time forecasting, probability of work completion timeframe) or guiding sources alluded to. While the target audience overlaps with those interested in SLE (i.e., Scrum practitioners), the material is too general, confined to cultural and methodological mindsets without addressing any metric or process akin to SLE. The depth and alignment with SLE are extremely minimal; at best, there is a tangential gesture toward continuous improvement and transparency, but nothing specifically relating to SLE. On all scoring dimensions, the content falls under minimal or incidental overlap rather than direct relevance.",
     "level": "Ignored"
   }
 }

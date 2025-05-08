@@ -111,12 +111,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "y2TObrUi3m0",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T10:21:34",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses principles versus tools in Agile but does not address accountability or team dynamics directly.",
+    "calculated_at": "2025-05-02T04:20:45",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "While the content emphasizes the importance of principles in Agile methodologies, it does not directly discuss accountability, which is a fundamental aspect of ownership in work systems. The primary focus on decision-making and consistency does not adequately address the structural aspects of accountability or its implications for roles such as Product Owners or Scrum Masters. Although the principles mentioned provide a framework for decision-making, they do not lead to a clear understanding of outcome ownership, and the discussion lacks depth on how accountability shapes behavior or impacts performance in Agile teams.",
     "level": "Ignored"
   },
   "Windows": {
@@ -1338,7 +1347,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:12",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1470,15 +1479,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "y2TObrUi3m0",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:20:52",
-    "ai_confidence": 25.0,
+    "calculated_at": "2025-05-02T04:20:40",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 30.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content discusses Agile principles and the importance of focusing on foundational concepts rather than tools. However, it does not explicitly mention Liberating Structures or any specific techniques associated with them. While there is some conceptual alignment regarding collaboration and decision-making, the depth of discussion on Liberating Structures is minimal, leading to a low confidence score.",
+    "ai_alignment": 0.15,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content does not mention Liberating Structures or specific facilitation techniques. Instead, it focuses on Agile principles and their significance in decision-making, which does not align with the key topics of Liberating Structures. There is a very minimal conceptual overlap regarding improving team dynamics, but it lacks depth and explicit references to any Liberating Structures methods or practices.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1733,5 +1748,23 @@
     "final_score": 82.0,
     "reasoning": "The content robustly discusses the core principles of Agile, emphasizing the importance of foundational principles over tools, aligning well with the category of Discipline. It explores how these principles impact decision-making, consistency, and long-term success, which are essential characteristics of a discipline. The depth of discussion is significant as it encourages reflection on key principles and their application in practice. The emphasis on principles reflects a strong connection to the systemic application and maturation of professional fields, warranting a high confidence score.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "y2TObrUi3m0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 7.37,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 0.7,
+    "ai_audience": 1.2,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on the importance of Agile principles over tools but does not mention Service Level Expectation (SLE) explicitly or implicitly. None of the key SLE topics—such as calculating SLE, its definition, application within Agile or Kanban, or references to its role in predictability—are discussed. The content targets Agile practitioners, aligning weakly with the possible audience for SLE, but the substance is unrelated. There is brief mention of 'continuous improvement' as a principle, but this is general Agile/Lean philosophy and not specifically about SLE as defined in the category. Thus, the confidence rating is extremely low, reflecting minimal to no relevance.",
+    "level": "Ignored"
   }
 }

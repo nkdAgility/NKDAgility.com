@@ -1359,7 +1359,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1753,6 +1753,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on the role of the Product Owner in Agile, discussing responsibilities, influences, and the importance of community and practical learning. While it touches upon aspects of capability development through immersive learning and collaboration, it mainly emphasizes roles and responsibilities rather than the enduring competencies that empower teams and organizations. The discussions around the Product Owner and practical experiences are significant but do not sufficiently align with the notion of Capability as defined, resulting in a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "vQBYdfLwJ3g",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:57",
+    "ai_confidence": 5.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.5,
+    "ai_audience": 5.3,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content centers on the Product Owner role and immersive learning within Agile organizations, emphasizing leadership, ownership, and collaborative practice. Nowhere in the title, description, or main body is Service Level Expectation (SLE) directly referenced or even alluded to, nor are its associated concepts (cycle time ranges, probabilities, Kanban metrics, etc.) discussed. The closest thematic overlap is the broad context of Agile practice and some mentions of Scrum and DevOps, but all discussion is focused on professional development, empowerment, and the evolution of the Product Owner role. Therefore, the score for direct mentions is 0.0, and both conceptual alignment (0.3) and depth (0.2) are close to zero, as the content neither discusses nor approaches the SLE concept. The intent is only slightly above zero (0.5) since there is a very remote, tangential relevance to Agile-based improvement, but no targeted alignment with SLE as a practice or tool. The audience is Agile practitioners (5.3), which aligns with the expected SLE audience, so a moderate score is given in that dimension. Signal to noise is relatively high (7.4), as the content is focused and relevant for its stated topic, but that focus is not on SLE. No penalties are applied as the content is neither outdated nor contradictory. The confidence score is thus extremely low (5.6), representing a virtual absence of evidence for SLE content.",
     "level": "Ignored"
   }
 }

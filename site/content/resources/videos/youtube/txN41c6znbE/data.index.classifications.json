@@ -1389,7 +1389,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:38:59",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1784,5 +1784,23 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the importance of competence and capability within Agile frameworks, addressing systemic issues of skill gaps and the need for continuous learning and improvement. It emphasizes how competence influences the effectiveness of Agile roles, particularly Scrum Masters. While leadership roles are referenced, the core focus is on capabilities enabling teams to deliver value and adapt, aligning with the given category definition. The depth of discussion illustrates how capability impacts team dynamics and organizational culture, supporting a higher confidence score. However, references to specific roles slightly veer from the pure capabilities context, preventing a perfect score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "txN41c6znbE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:48",
+    "ai_confidence": 6.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.0,
+    "ai_intent": 0.7,
+    "ai_audience": 1.2,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content thoroughly discusses the competence crisis within Agile, focusing on hiring practices, continuous learning, and the critical role of capable Scrum Masters. Nowhere does it reference or explain the concept of Service Level Expectation (SLE) as defined for Agile, Scrum, or Kanban. There are no direct mentions of SLE, nor indirect allusions to its calculation, purpose, or practical application (such as elapsed time forecasting or probability-based measurements). The alignment and depth scores are both low, as the main ideas center exclusively on people, leadership, training, and improvement culture, with no material related to flow metrics, cycle time, or workflows. The intended audience (Agile practitioners, leaders, and organizational decision-makers) somewhat matches the SLE target group, but exclusively in a general Agile context—not regarding workflow predictability. The signal-to-noise ratio is moderately low, as the content is focused on an orthogonal topic. As such, the overall confidence that this fits under 'Service Level Expectation' is extremely low and does not meet the category’s direct or thematic criteria.",
+    "level": "Ignored"
   }
 }

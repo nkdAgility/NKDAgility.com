@@ -1386,7 +1386,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1781,5 +1781,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the importance of patience and trust within Agile organizations, aligning with the capability theme as it explores how these virtues contribute to team dynamics and organizational performance. It emphasizes the need to cultivate these attributes over time, integrating them into the organizational culture, which reflects the enduring nature of capabilities. However, while it touches on relevant points, it primarily focuses on the soft skills of trust and patience, rather than providing a comprehensive treatment of broader capabilities in Agile or DevOps contexts. Hence, the score reflects a significant but not comprehensive alignment with the 'Capability' category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "9VHasQBlQc8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:35",
+    "ai_confidence": 3.48,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 0.6,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses entirely on themes of patience, trust, and psychological safety in Agile and Scrum environments, with emphasis on team dynamics, leadership, retrospectives, and building a non-blame culture. There are no direct or indirect mentions of Service Level Expectation (SLE), nor any related concepts such as forecasting cycle time, elapsed days, probability-based delivery expectations, or techniques to make delivery timelines predictable. None of the guidance, tips, or case examples involve SLE or related metrics; instead, the content orbits around general Agile values, culture, team improvement, and consulting. While the audience (Agile practitioners, leaders, coaches) overlaps somewhat with those interested in SLE, the main topics, purpose, and details are wholly distinct from the SLE category's definition. No penalties were applied as the content is recent and non-critical, but there is almost no alignment on any scoring dimension except for mild audience overlap.",
+    "level": "Ignored"
   }
 }

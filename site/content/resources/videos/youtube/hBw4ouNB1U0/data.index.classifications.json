@@ -1380,7 +1380,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
@@ -1775,5 +1775,23 @@
     "final_score": 64.0,
     "reasoning": "The content primarily focuses on continuous improvement through metrics and visualisation, which aligns with the broader concepts of capability by discussing how these tools aid in optimizing workflows and enhancing performance. However, it does not explicitly define capabilities or deeply explore organizational capabilities in a broader context. Many aspects are related to tools and practices rather than solely fostering enduring competencies, placing more emphasis on techniques rather than systemic capability development.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "hBw4ouNB1U0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:52",
+    "ai_confidence": 11.35,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.0,
+    "ai_intent": 1.5,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on continuous improvement, metrics, and workflow visualisation, specifically within the context of 'Caman' (likely a misspelling or novel term for Kanban). However, there is no direct mention of Service Level Expectation (SLE), nor any concepts clearly tied to SLE as defined in Agile, Scrum, or Kanban practices. Key SLE components—like cycle time distributions, probability ranges, SLE transparency, or SLE vs Sprint length—are absent. The discussion is oriented toward generic process improvement and visual management, which only mildly overlaps with the target category's intended audience. The signal-to-noise ratio is low: while the tone and goals target practitioners interested in improvement, little is relevant to SLE specifically. No outdated or contradictory information warrants penalties. Thus, the confidence score is low, reflecting minimal yet nonzero indirect alignment.",
+    "level": "Ignored"
   }
 }

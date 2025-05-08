@@ -1344,7 +1344,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1739,5 +1739,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses the principle of temperance and its application within Agile practices. While it reinforces the importance of balance and efficiency in managing backlogs and planning, it does not explicitly frame these discussions in terms of capabilities as defined by the category. The content gives practical advice and examples on how to apply temperance, suggesting a conceptual alignment with the idea of cultivating effective practices within Agile teams. However, it primarily centers on implementation advice rather than developing enduring competencies or how these practices could be embedded in the organizational culture. This results in a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "SMgKAk-qPMM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:32",
+    "ai_confidence": 8.74,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.6,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content primarily focuses on temperance, moderation, backlog management, refinement, agile team size, and maximizing work 'not done' as per Agile principles. There is no direct or even implied reference to Service Level Expectation (SLE); neither the acronym nor the concept is mentioned or discussed. Core SLE ideas such as summarizing cycle times into probabilistic forecasts, setting elapsed time expectations, or using SLE as a transparency and improvement tool are completely absent. The only remotely adjacent topic is WIP limits, but they are discussed in terms of general efficiency, not with respect to establishing or managing SLE. The audience is Agile teams and practitioners (mildly related), but the major themes, depth, intent, and discussion are unrelated to SLE as specifically framed in the strict classification. The signal-to-noise ratio is also low for SLE, with 100% of discussion being about other Agile virtues and practical team principles. As such, the confidence score is extremely low, reflecting that the content is not suited for the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

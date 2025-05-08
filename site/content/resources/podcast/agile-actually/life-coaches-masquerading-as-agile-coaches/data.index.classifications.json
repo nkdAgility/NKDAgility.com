@@ -1308,7 +1308,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
@@ -1702,6 +1702,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the controversy surrounding life coaches presenting as agile coaches, without a direct discussion of principles related to Agile, Lean, or DevOps. While it briefly touches on the qualifications of agile coaches, it does not delve into actionable principles that guide decision-making or behaviors within these frameworks.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "lcekkOc8X02",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:58",
+    "ai_confidence": 1.64,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.3,
+    "ai_audience": 0.6,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "There is no explicit mention of Service Level Expectation (SLE) or any of its core themes such as definition, calculation, usage, or relevance within Agile, Scrum, or Kanban. The content is focused entirely on a debate regarding life coaches branding themselves as Agile coaches, discussing the controversy and background of the podcast hosts. While the subject is related to Agile and Scrum, it does not address flow metrics, SLE implementation, or any tangential topics connected to SLE. The only slight alignment is that the target audience overlaps (Agile practitioners, coaches), but there is no relevant discussion that would provide a signal for SLE classification. The very low scores across all dimensions reflect a lack of fit according to the strict instructions.",
     "level": "Ignored"
   }
 }

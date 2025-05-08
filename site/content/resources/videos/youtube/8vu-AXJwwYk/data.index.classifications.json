@@ -1362,7 +1362,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:26",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1769,6 +1769,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "While the content discusses the role of consultants and their impact on organisations, it primarily focuses on the consultant's duties, challenges faced, and the swift changes they can introduce. The discussions about cultural shifts and organisational challenges show some alignment with capability but mainly center around the consultant's perspective rather than an in-depth exploration of enduring organisational capabilities. Thus, while there are relevant touches on capability, they are secondary and lack sufficient depth to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "8vu-AXJwwYk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:00",
+    "ai_confidence": 4.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.2,
+    "ai_intent": 1.6,
+    "ai_audience": 5.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on organisational consulting in the context of agile transformation, the role and value of a consultant, differences between consulting and coaching, and offers practical anecdotes regarding bringing about change in organisations. Nowhere does the piece mention Service Level Expectation (SLE) or related concepts such as forecasting cycle time ranges with associated probabilities, calculating SLEs, or using SLEs to improve predictability or transparency within Kanban, Scrum, or Agile practices. There is no reference, direct or indirect, to SLE methodologies, terminology, or key thought leaders such as Daniel Vacanti or the Kanban Guide. The closest thematic overlap is the mention of \"continuous delivery\" and \"agile transformation,\" but these are too broad and lack the specificity regarding SLE to warrant a strong confidence rating. No penalties are applied since the content is neither outdated nor satirical, and the tone does not contradict the category. The audience partially aligns (agile practitioners and leaders), but the core substance is wholly unrelated to SLE. Therefore, the final confidence is very low and accurately reflects the absence of relevant material.",
     "level": "Ignored"
   }
 }

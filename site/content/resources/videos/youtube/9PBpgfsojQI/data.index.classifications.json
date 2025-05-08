@@ -1362,7 +1362,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T16:08:00",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1770,5 +1770,23 @@
     "final_score": 68.0,
     "reasoning": "The content discusses the importance of organizational capability development and the need for effective employee practices, which aligns with the themes of the capability category. It addresses the necessity of having a coherent strategy, investing in people, and employing development frameworks like Scrum, which are indicative of building capabilities. However, it focuses heavily on immediate strategies and practices rather than a deeper exploration of enduring competencies, so the confidence score reflects a moderate alignment rather than a strong one.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "9PBpgfsojQI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 4.59,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.5,
+    "ai_audience": 0.6,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on strategies for thriving in a challenging year, emphasizing business strategy, leadership, product ownership, and investing in Agile methods like Scrum and Kanban. It mentions Agile, Scrum, Kanban, and continuous improvement at a general level but never references Service Level Expectation (SLE) explicitly or implicitly. There is no discussion of forecasting delivery times, using cycle time data, probability ranges, establishing, or improving SLE, nor any reference to Daniel Vacanti, Reinertsen, or the Kanban Guide. Mentions of flow, delivery, and improvement do not cross the threshold for conceptual alignment with SLE. The main audience (Agile leaders and teams) overlaps somewhat with the SLE audience, but the absence of any references to SLE or its components severely limits audience alignment. The signal-to-noise ratio is low for this category since the discussion is broad and more focused on general business agility and leadership than specific flow metrics. No penalties were necessary as there is no outdated content or active contradiction, but the overall fit is extremely weak for the targeted category.",
+    "level": "Ignored"
   }
 }

@@ -1359,7 +1359,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1753,6 +1753,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the Scrum Master's role, which falls outside the Capability category's focus on enduring competencies. While it does touch on some ideas around team empowerment and evolving from a basic to advanced Scrum Master role, these discussions are primarily about roles and responsibilities rather than the cultivation of systemic capabilities. The emphasis on debunking myths about the Scrum Master role indicates a tendency towards role-specific discussions rather than broader organizational capabilities or strategies for embedding capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "4fHBoSvTrrM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:58",
+    "ai_confidence": 2.305,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.6,
+    "ai_intent": 0.7,
+    "ai_audience": 3.2,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on challenging assumptions about the Scrum Master role as explored in a PSM II course. There are no direct mentions or discussions of Service Level Expectation (SLE), nor are there references to its calculation, application, or relevance to Agile metrics. Key points revolve around misconceptions about Scrum Masters, their evolving responsibilities, and course takeaways concerning leadership and team facilitation. There is not even a tangential discussion about flow metrics, lead time, or predictability, and no content about KPIs with associated probabilities or time ranges, as SLE requires. The only slight alignment comes from the general context of advanced Scrum topics that may indirectly relate to flow optimization, but this is not covered here. Thus, all six scoring dimensions are appropriately low, with the audience score slightly higher only because advanced practitioners might expect SLE in a PSM II context—though here it is absent. No penalties were needed as the content is not outdated or contradictory.",
     "level": "Ignored"
   }
 }

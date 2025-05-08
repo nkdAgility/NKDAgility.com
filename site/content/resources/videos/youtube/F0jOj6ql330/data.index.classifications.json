@@ -1308,7 +1308,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:43",
     "ai_confidence": 12.0,
     "ai_mentions": 5.0,
@@ -1702,6 +1702,24 @@
     "non_ai_confidence": null,
     "final_score": 27.0,
     "reasoning": "The content focuses on the personal satisfaction of Scrum developers rather than the concept of capabilities in an organizational context. Although there are mentions of passion and meaningful work, these discussions lack depth about enduring competencies or how such aspects contribute to business agility or organizational performance. The primary focus pertains to individual experience rather than systemic capabilities, ultimately resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "F0jOj6ql330",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:54",
+    "ai_confidence": 2.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 2.0,
+    "ai_audience": 2.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on the personal rewards, meaning, and satisfaction of being a Scrum developer, centering themes like purpose, impact, and the intrinsic motivation for meaningful work. There is no mention—direct or indirect—of Service Level Expectation (SLE) as a metric, concept, or practice within Agile, Scrum, or Kanban. The main ideas revolve around developer motivation and the emotional aspects of team contribution, without any reference to workflow predictability, elapsed time ranges, probability, forecasting delivery, or quantitative improvement. The target audience (Scrum developers and those interested in Agile philosophy) overlaps slightly with SLE's, but only in a broad sense. The content is focused, but this focus is entirely unrelated to SLE definitions, calculation, application, or improvement, thus scores are lowest in Direct Mentions, Conceptual Alignment, and Depth of Discussion. No penalties were applied since the content is up-to-date, respectful, and neither satirical nor undermining. The extremely low confidence score accurately reflects the complete absence of SLE discussion.",
     "level": "Ignored"
   }
 }

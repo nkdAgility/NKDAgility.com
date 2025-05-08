@@ -1365,7 +1365,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
@@ -1759,6 +1759,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content briefly mentions DevOps and its role in delivering solutions, presenting it as a mechanism that enhances capabilities. However, the primary focus is on the processes and tools of DevOps rather than on enduring competencies or strategies for developing capabilities. The discussion lacks depth and does not delve into how capabilities are cultivated or assessed within teams and organizations.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2AJ2JHdMRCc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:54",
+    "ai_confidence": 3.26,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.4,
+    "ai_intent": 0.7,
+    "ai_audience": 7.5,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses entirely on DevOps as a critical practice in modern software engineering. There are no direct references to Service Level Expectation (SLE), nor does the text delve into Agile-specific metrics, cycle time, or delivery forecasts with probabilities or ranges as defined by SLE. While the audience (Agile and Scrum practitioners) and short mention of Scrum could make the content theoretically suitable for SLE-related education, the actual discussion never addresses any SLE concepts, calculations, transparency practices, or continuous improvement mechanisms described in the category definition. The only slight alignment is the general emphasis on speed, delivery, and iterative improvement, which are tangential to SLE but not substantively connected. No penalties were needed, as the tone is appropriate and the content is not outdated or critical. Therefore, confidence in this content fitting the 'Service Level Expectation' category is extremely low and consists solely of minor thematic overlap with the intended audience and delivery context.",
     "level": "Ignored"
   }
 }

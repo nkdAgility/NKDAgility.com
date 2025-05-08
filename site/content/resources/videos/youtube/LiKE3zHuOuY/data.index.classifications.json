@@ -1329,7 +1329,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:03",
     "ai_confidence": 25.0,
     "ai_mentions": 10.0,
@@ -1723,6 +1723,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "While the content discusses Scrum's role within a DevOps environment, focusing primarily on the methods and strategies they share, it emphasizes particular practices rather than the broader concept of capability development. It lacks an explicit discussion on enduring competencies, integration into organizational culture, or strategies for embedding these capabilities, which are central to the category of Capability. The content is more about the interplay of frameworks rather than cultivating long-term capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "LiKE3zHuOuY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:04",
+    "ai_confidence": 2.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.6,
+    "ai_intent": 2.8,
+    "ai_audience": 4.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The evaluated content focuses on the interplay between Scrum and DevOps, highlighting their synergy to enhance software delivery. There is no mention of Service Level Expectation (SLE)—not directly nor indirectly. The main ideas revolve around adoption of Scrum strategies within a DevOps context, efficiency, collaboration, and software engineering excellence, which are outside the strict scope of SLE as defined. There is no discussion of forecasting cycle times, elapsed time ranges with probabilities, nor any references to SLE in Agile, Scrum, or Kanban. While the content's audience (software practitioners) could overlap with those interested in SLE, the material does not target SLE concepts in any meaningful way. The signal-to-noise ratio is moderate since the content is generally relevant to process improvement, but not to SLE specifically. No penalties are applied since there's no outdated or contradictory practice. The very low scores in direct mentions, alignment, and depth reflect the near-total absence of SLE content, resulting in a proportionately low overall confidence score.",
     "level": "Ignored"
   }
 }

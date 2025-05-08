@@ -1368,7 +1368,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1500,15 +1500,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "cFVvgI3Girg",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:55:08",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the evolution of the Product Owner role and leadership in Agile environments, but it does not explicitly mention Liberating Structures or their specific techniques. While there are themes of collaboration and creating a thriving culture, which align with the principles of Liberating Structures, the focus is primarily on leadership and accountability rather than on facilitation techniques or group dynamics. The depth of discussion on Liberating Structures is minimal, leading to a low confidence score.",
+    "calculated_at": "2025-05-02T04:19:59",
+    "ai_confidence": 1.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content discusses the evolution of the Product Owner role in Agile and aspects of leadership, but it does not mention any specific Liberating Structures or facilitation techniques. The alignment with the core themes of the category is minimal, as it primarily focuses on leadership without integrating discussions of participatory techniques. Depth is limited, as there is no detailed exploration of Liberating Structures or how they could be utilized in the context of Agile practices.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1763,5 +1769,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the evolution of the Product Owner role within Agile frameworks and highlights leadership aspects, aligning with principles of discipline in Agile. However, while it touches on themes of accountability and creating systems, it lacks a deeper focus on overarching principles that guide discipline as defined, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "cFVvgI3Girg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 5.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 1.9,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on the evolution of the Product Owner role into broader Agile leadership, citing topics like accountability, team empowerment, leadership development, and organisational culture. It references Agile, Scrum, DevOps, and product management contexts, targeting an audience of Agile practitioners and leaders. However, it makes no direct mention or implied discussion of Service Level Expectation (SLE), its definition, calculation, use, or any associated metrics. Core SLE topics such as cycle time analysis, probability-based forecasting, or transparency of lead time are entirely absent. The content is somewhat aligned with the general Agile audience and continuous improvement philosophy but is off-topic for SLE specifically. The low confidence score reflects the near-total lack of overlap with the precise scope of 'Service Level Expectation' as defined.",
+    "level": "Ignored"
   }
 }

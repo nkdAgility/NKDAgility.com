@@ -1281,7 +1281,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:44:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1675,6 +1675,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily discusses data integrity in the context of DevOps migrations, focusing on the practical aspects of migration processes and strategies. While it somewhat touches on the importance of enabling teams to work effectively and mentions the need for communication and readiness, it does not deeply engage with the concept of organisational capabilities as defined in the category. The core themes of capability development and systematic improvement are only lightly addressed, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "hWyF6CbcbQ8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:45",
+    "ai_confidence": 2.89,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 2.0,
+    "ai_intent": 3.1,
+    "ai_audience": 7.5,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) at all—there are no explicit references, implicit mentions, or topical connections to SLE as defined within Agile, Scrum, or Kanban practices. The focus is entirely on data integrity during DevOps migrations, specifically addressing approaches for full or selective migration, tools and processes, risk management, and team communication. The conceptual alignment is extremely low, as SLE is neither referenced nor relevant to the main ideas or practical guidance provided. Although concepts such as flexibility, fidelity, and process improvement are discussed, these align with migration best practices, not SLE in any direct or indirect manner. Depth of discussion is moderate but devoted to the migration topic only. The intent serves practitioners or leaders responsible for DevOps migrations (technical audience alignment is relatively high), but not those seeking information about SLE. The signal-to-noise ratio is low for SLE relevance because the content is focused, but its topic area is misaligned. There are no penalties because the content is neither outdated nor contrarian, but—per strict calibration—it fully falls outside the SLE category scope. Therefore, the overall confidence that this piece belongs in the Service Level Expectation category is very low.",
     "level": "Ignored"
   }
 }

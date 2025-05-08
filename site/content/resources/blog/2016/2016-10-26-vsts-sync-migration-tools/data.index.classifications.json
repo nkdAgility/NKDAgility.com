@@ -1296,7 +1296,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1703,6 +1703,24 @@
     "non_ai_confidence": null,
     "final_score": 15.0,
     "reasoning": "The content primarily focuses on a migration tool—VSTS Sync Migration Tools—which is a means of transferring data rather than discussing enduring competencies or capabilities. There are no explicit mentions of capabilities, and the discussion leans towards tools and processes, which are excluded from this category. The content does mention improving DevOps processes, but it lacks substantial depth on capabilities themselves, making it a secondary focus at best.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:20",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.3,
+    "ai_audience": 1.6,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content discusses VSTS Sync Migration Tools for data migration between TFS/VSTS with a focus on work item, test plan, teams, and area/iteration path migration. There is no mention of Service Level Expectation (SLE) by name or concept. None of the topics—definition, calculation, transparency, cycle time analysis, or SLE's role in Agile teams—appear anywhere in the content. The main audience is practitioners dealing with VSTS/TFS migrations, not Agile teams concerned with forecasting or Kanban/Scrum process improvement. Any tangential connection to service levels pertains to tooling reliability, not Agile SLE. Thus, the confidence score is appropriately set to 0 and all dimensions are similarly at the lowest possible fractions above zero to preserve calibration requirements.",
     "level": "Ignored"
   }
 }

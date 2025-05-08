@@ -1380,7 +1380,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
@@ -1775,5 +1775,23 @@
     "final_score": 76.0,
     "reasoning": "The content discusses technical excellence in Agile development, focusing on its role in delivering quality products and mitigating risks. It aligns well with the topic of capability by detailing how cultivating technical excellence over time enhances the ability of teams to deliver value consistently. The discussion of the Azure DevOps transformation illustrates an example of capability development, showing a measurable improvement in performance due to enhanced processes. While it briefly touches on practices like the Definition of Done, the overall emphasis is on building enduring capabilities that support continuous improvement and organizational performance, aligning well with the key themes of the category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "JTYCRehkN5U",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:05",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 0.2,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on technical excellence, Definition of Done, and risk mitigation in Agile and Scrum environments, prioritizing product quality and continuous improvement. There is no mention or discussion of Service Level Expectation (SLE); core concepts such as SLE calculation, elapsed time/probability, or its use in forecasting cycle times are not covered. While the intended audience partially overlaps with SLE interest groups (Agile practitioners), the content is not aligned with SLE's key themes or purposes. There is no direct or indirect signal regarding SLE application or definition. Therefore, the low scores across all dimensions reflect an almost complete absence of relevant material for classifying this under the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

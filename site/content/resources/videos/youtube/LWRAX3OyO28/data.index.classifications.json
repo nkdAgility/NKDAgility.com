@@ -1392,7 +1392,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:43",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
@@ -1787,5 +1787,23 @@
     "final_score": 45.0,
     "reasoning": "While the content discusses the benefits of automation within the continuous delivery framework, it primarily focuses on tools and processes rather than enduring capabilities. The discussion does touch on improving reliability and risk mitigation, indicating some alignment with the capability category, but these points are secondary to the overall emphasis on automation and efficiency. The depth of discussion on organizational competencies and how they enhance business agility is limited, leading to a moderate score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "LWRAX3OyO28",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:32",
+    "ai_confidence": 1.3,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.7,
+    "ai_intent": 1.3,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content focuses entirely on the value of continuous delivery and automation in software development, with examples from Microsoft and others. There is no direct mention of Service Level Expectation (SLE), nor are related concepts like forecasted cycle times, probability-based delivery ranges, or explicit Agile/Scrum/Kanban forecasting techniques discussed. While the content addresses predictability and reliability in software delivery, these are presented as outcomes of automation and CI/CD practices rather than SLE-specific practices. There are no explicit or implicit references to the calculation, application, or analysis of SLE as defined in Agile, Scrum, or Kanban frameworks. The intended audience (practitioners interested in automation and delivery) partially overlaps with the SLE audience, but the signal-to-noise ratio for the SLE category is extremely low due to the absence of relevant discussion. No penalties were necessary as the content is neither outdated nor actively contradicts the SLE framing; it is just irrelevant to SLE. The final low confidence score appropriately reflects the near-total lack of connection between the content and the category.",
+    "level": "Ignored"
   }
 }

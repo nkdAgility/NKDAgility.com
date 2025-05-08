@@ -1326,7 +1326,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1720,6 +1720,24 @@
     "non_ai_confidence": null,
     "final_score": 30.0,
     "reasoning": "The content primarily discusses user understanding and the importance of data-driven decision-making in software development. While these topics are somewhat related to capabilities, they do not focus on the enduring competencies of teams or organizations. Instead, it touches on practices that are more situational and tactic-oriented, lacking in-depth discussion of capabilities as sustained organizational qualities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "YGyx4i3-4ss",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:50",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "This content does not mention Service Level Expectation (SLE) or any related terminology at all (Direct Mentions: 0.0). Its main focus is on understanding user needs, differentiating feedback from true requirements, making data-driven decisions, avoiding reactionary development, and fostering collaboration. None of these topics are part of the SLE classification per the provided definition, nor is there any discussion of cycle time, elapsed time ranges, probabilities, or delivery forecasting. The conceptual alignment is extremely thin (0.6) as the only tangential connection is the mention of strategic planning and collaboration, which are generally valued in agile teams but do not pertain to SLE specifically. Depth is rated slightly higher (0.8) solely due to the thoroughness in those non-SLE areas, but not in the SLE context. Intent is primarily focused on user insights and development quality, not SLE (0.7). Audience fit is minimally present as the topics could be relevant to agile team members, but there's no direct focus on roles concerned with SLE (1.2). Signal-to-noise is low (0.9) because nearly all content is off-scope. There are no penalties applied as there are no outdated references or contradictory tones. The calculated confidence score using the required formula reflects the vanishingly small relevance of this content to the target category.",
     "level": "Ignored"
   }
 }

@@ -1308,7 +1308,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1703,5 +1703,23 @@
     "final_score": 45.0,
     "reasoning": "The content primarily discusses the negative impacts of a project management mindset in the role of a Product Owner, which indirectly touches on the importance of capabilities like empowerment, collaboration, and a value-driven approach. However, it focuses more on roles and behaviors rather than deeply exploring capabilities as enduring competencies that enhance team effectiveness. The depth of discussion around strategies to combat the agile bandit suggests an engagement with capability development, but it lacks a robust exploration of how to embed these capabilities systematically within teams.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "21k6OgxeKjo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:28",
+    "ai_confidence": 7.5,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.7,
+    "ai_intent": 1.2,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses agile team dynamics, focusing on the problems caused by Product Owners who act as traditional project managers (the so-called 'agile bandit'). It emphasizes the importance of value delivery, team empowerment, and collaboration over task or timeline obsession. However, there is no mention—direct or indirect—of Service Level Expectation (SLE), its definition, calculation, probabilistic forecasting, application in flow management, or any of the specified topical boundaries for this category. No references are made to SLE, cycle time, or Kanban/Scrum flow metrics, nor are any SLE-related practices, examples, or calculations present. The audience (Agile practitioners) and general intent (improving Agile practices) are only tangentially aligned, but the core content is too generic and unrelated to SLE's specificity. As such, the confidence score is extremely low, barely above zero due strictly to the possibility that an Agile practitioner interested in SLE might read this, but there is no substantive connection on any scoring dimension.",
+    "level": "Ignored"
   }
 }

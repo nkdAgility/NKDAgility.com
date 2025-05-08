@@ -1284,7 +1284,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:03:45",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
@@ -1679,5 +1679,23 @@
     "final_score": 45.0,
     "reasoning": "The content addresses aspects of quality and technical debt, discussing strategies like code reviews and refactoring, which are aligned with developing capabilities in a team. However, it primarily revolves around practical techniques and tools rather than enduring competencies and cultural integration, which are central to the 'Capability' category. As such, the discussion feels secondary to the main focus of improving code quality and addressing incompetence rather than building systemic organizational capabilities.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "FquWl26Uc8Y",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:39",
+    "ai_confidence": 2.753,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 0.3,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses almost exclusively on technical debt, code quality, and related practices such as code reviews and automated testing. It does not mention Service Level Expectation (SLE) directly or indirectly, nor does it discuss any of the core aspects of the SLE definition such as cycle time forecasts, elapsed time ranges, probability, or predictability of delivery. There is no reference to Agile, Scrum, or Kanban metrics around forecasting or workflow transparency tied to SLE. The intent and audience are primarily developers aiming to improve technical outcomes, not teams tracking or improving SLEs. No relevant authorities or explicit SLE concepts are cited or discussed. For these reasons, all dimension scores are very low, resulting in a minimal confidence score and clear justification for exclusion from the SLE classification.",
+    "level": "Ignored"
   }
 }

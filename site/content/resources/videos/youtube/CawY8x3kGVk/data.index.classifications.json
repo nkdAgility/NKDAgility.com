@@ -1383,7 +1383,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:24",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1777,6 +1777,24 @@
     "non_ai_confidence": null,
     "final_score": 27.0,
     "reasoning": "While the content discusses some aspects of Scrum and emphasizes principles like autonomy and empowerment which hint towards team capabilities, it primarily focuses on debunking myths related to micromanagement rather than thoroughly exploring the concept of capabilities themselves. Direct mentions of 'capabilities' are absent, and the discussion lacks a systematic approach to how capabilities can be developed or assessed. Thus, the alignment and depth are low, resulting in a low confidence score for the Capability category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "CawY8x3kGVk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:38",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0.3,
+    "ai_audience": 0.6,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on debunking the myth that Scrum is inherently micromanaging and argues for team autonomy, empiricism, and trust in developers. There is no explicit mention or discussion of Service Level Expectation (SLE), nor are cycle time forecasting, elapsed time probabilities, or related SLE concepts addressed. All references to Scrum practices, empiricism, or technical debt do not pertain to SLE. Thus, both direct mention and conceptual alignment are minimal. The target audience (Agile/Scrum practitioners) somewhat aligns, but since SLE is neither a topic nor a subtopic, both depth and relevance scores are very low. No penalties were applied as the content doesn't critique the SLE concept and is not outdated, but the confidence score remains extremely low due to absence of SLE coverage.",
     "level": "Ignored"
   }
 }

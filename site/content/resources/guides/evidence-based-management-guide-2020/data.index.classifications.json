@@ -1389,7 +1389,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1784,5 +1784,23 @@
     "final_score": 78.0,
     "reasoning": "The content focuses heavily on Evidence-Based Management (EBM), particularly in its emphasis on organizational capabilities and systematic approaches to improving those capabilities over time. Key terms such as strategic goals, intermediate goals, immediate tactical goals, and the concept of 'Unrealized Value' indicate a strong alignment with the definition and characteristics of capabilities. The discussion about measuring current and unrealized value, time-to-market, and ability to innovate supports the idea of enduring competencies that enhance organizational performance. However, while the content provides depth in these discussions, some sections could be interpreted as touching on tools and processes rather than exclusively on capabilities, which slightly dilutes its focus. Overall, the content aligns well with the capability category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Rv0ZjvwYVy5",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:44",
+    "ai_confidence": 6.71,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.2,
+    "ai_audience": 1.1,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content, 'The Evidence-Based Management Guide', does not directly mention Service Level Expectation (SLE) at any point. Although it discusses Agile, Scrum, Kanban, and metrics relevant to organizational improvement (such as cycle time, lead time, Time-to-Market, and responsiveness), there is no explicit or implicit reference to SLE or its definition, calculation, application, or improvement within Agile frameworks. The entire discussion is focused on broader evidence-based management principles and metrics for value delivery, but SLE's unique features—such as forecasting cycle time as an elapsed range with a probability, using historical data to define predictability, and making the forecast visible to teams and stakeholders—are entirely absent. Key topics like establishing initial SLEs, their relationship to Sprint length, or their role in predictability and continuous improvement are not touched. Therefore, all six scoring dimensions are given very low scores, reflecting only minimal conceptual or audience overlap as the content targets Agile practitioners looking to improve delivery via empirical data. No penalties are applied since there are no outdated practices or satirical intent. This results in a low confidence score that accurately represents the near-complete lack of relevance to the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

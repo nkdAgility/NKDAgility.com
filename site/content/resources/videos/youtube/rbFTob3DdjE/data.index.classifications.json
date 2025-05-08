@@ -258,12 +258,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "rbFTob3DdjE",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T18:17:20",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses digital whiteboards and their use in Agile collaboration, without a focus on accountability or team ownership.",
+    "calculated_at": "2025-05-01T18:45:42",
+    "ai_confidence": 5.0,
+    "ai_mentions": 2,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.43,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 5.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards to enhance collaboration within agile teams, which touches upon aspects of accountability in terms of engagement and follow-up. However, it does not explicitly discuss the foundational mechanisms of accountability or clearly define roles related to outcome ownership. The brief mention of reinforcing accountability in follow-up actions contributes positively but does not deepen the discussion sufficiently to fully align with the category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -765,12 +774,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "rbFTob3DdjE",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T18:19:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of digital whiteboards in Agile collaboration, without a focus on strategic approaches or alignment with Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-01T18:45:33",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the use of digital whiteboards as tools for enhancing team collaboration in an Agile context. While it mentions engagement and alignment as benefits, it does not focus on strategic planning or decision-making, which are key aspects of the 'Strategy' category. The discussion is more centered around operational tactics and the functionalities of specific tools rather than how these tools align with broader organisational goals or strategies. Therefore, the confidence score reflects a moderate level of relevance to strategy without it being the primary focus.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1317,7 +1335,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:32",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1449,15 +1467,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "rbFTob3DdjE",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:17:26",
-    "ai_confidence": 32.0,
-    "ai_mentions": 100.0,
-    "ai_alignment": 25.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the use of digital whiteboards in enhancing collaboration and engagement within Agile teams, which aligns with the principles of Liberating Structures. However, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The focus is primarily on the tools rather than the facilitation methods themselves, leading to a lower confidence score despite some relevant themes.",
+    "calculated_at": "2025-05-01T18:45:50",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content primarily focuses on the use of digital whiteboards in Agile collaboration. While it mentions aspects of engagement and participation, which can relate to Liberating Structures, it does not explicitly discuss any specific Liberating Structures or how they integrate with Scrum or Agile practices. The discussion lacks depth regarding facilitation techniques or a structured approach typical of Liberating Structures. Therefore, while there are relevant themes present, the content does not align closely enough with the specific framework to warrant a high confidence score.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1712,5 +1736,23 @@
     "final_score": 42.0,
     "reasoning": "The content centers around the practical use of digital whiteboards within Agile practices, specifically in Scrum environments. While it discusses the principles of collaboration and engagement, it primarily operates at a tool-level and practical recommendation since it does not delve deeply into structured methodologies, shared principles, or the systemic aspect of discipline. The discussion does reference Agile and Scrum, but it lacks a detailed exploration of the evolving nature of disciplines or their governance, minimizing its alignment with the broader category of Discipline.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "rbFTob3DdjE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:48",
+    "ai_confidence": 3.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 1.0,
+    "ai_audience": 7.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content exclusively discusses the use of digital whiteboards in Agile and Scrum contexts, focusing on collaboration, engagement, and facilitation techniques. There are no direct mentions or references to Service Level Expectation (SLE), its definition, calculation, usage, or role in Agile, Scrum, or Kanban practices. Conceptual alignment is extremely weak, with some minimal overlap only in its relevance to Agile teams, but not to SLE specifically. Depth and intent are very low because the subject matter is about facilitation tools, not process predictability or flow metrics. The only dimension with a moderate score is Audience, as it targets Scrum Masters and Agile practitioners, who may also use SLE, but nothing in the content links digital whiteboards to SLE concepts. Signal-to-noise ratio is low due to the comprehensive focus on a topic unrelated to SLE. No penalties were applied as the content is not outdated, critical, or satirical. The final score reflects the negligible relevance of this content to the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

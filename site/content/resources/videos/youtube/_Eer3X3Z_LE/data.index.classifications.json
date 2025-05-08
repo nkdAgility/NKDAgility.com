@@ -252,12 +252,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "_Eer3X3Z_LE",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T07:25:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a product backlog and its characteristics, without a clear focus on accountability or team ownership.",
+    "calculated_at": "2025-05-02T04:20:44",
+    "ai_confidence": 4.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content primarily discusses the concept of a product backlog within Agile and Scrum methodologies. While it briefly mentions the importance of understanding and prioritization, which are related to accountability, it does not explicitly address accountability as a structural element in work systems. There is only a single mention of roles but lacks depth on outcome ownership or the nuances of accountability versus responsibility and authority. Thus, the relevance to the Accountability category is low.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -753,12 +762,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "_Eer3X3Z_LE",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:25:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of a product backlog, which is more related to Scrum practices rather than strategic planning or execution within Agile frameworks.",
+    "calculated_at": "2025-05-02T04:20:48",
+    "ai_confidence": 2.0,
+    "ai_mentions": 10,
+    "ai_alignment": 15,
+    "ai_depth": 15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on defining a product backlog within the context of agile and Scrum frameworks. While the topic is important for project management and agile practices, it does not engage with high-level strategic themes such as aligning team goals with organizational strategy or strategic decision-making. The discussion leans more toward operational details about task prioritization and practical aspects of maintaining a product backlog, which does not align closely with the core themes of strategic planning and execution outlined in the Strategy category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1299,7 +1317,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1431,15 +1449,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "_Eer3X3Z_LE",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:04:43",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on explaining the concept of a product backlog within Agile and Scrum frameworks. While it touches on collaboration and creativity, it does not explicitly mention or discuss Liberating Structures or their principles. The discussion lacks depth regarding facilitation techniques or group dynamics, which are central to the Liberating Structures category.",
+    "calculated_at": "2025-05-02T04:20:26",
+    "ai_confidence": 1.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the concept of a product backlog within Agile and Scrum frameworks, but it does not mention or apply any specific Liberating Structures techniques. While it touches on collaboration and aims to foster engagement, it does not detail any methods from the Liberating Structures toolkit. Thus, the mention of liberating structures is absent, and its conceptual alignment and depth of discussion are minimal.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1693,6 +1717,24 @@
     "non_ai_confidence": null,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on explaining the concept of a product backlog within Agile methodologies. While it includes terms related to Agile and Scrum, it does not deeply engage with the principles or structured practices that characterize the notion of a discipline. The discussion is more about tools and techniques related to backlog management rather than an exploration of the governance, ethical considerations, or evolutionary aspects of the Agile discipline itself. Therefore, while it makes some mentions of relevant concepts, the focus is inadequate for a strong alignment with the category of Discipline.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_Eer3X3Z_LE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.7,
+    "ai_intent": 2.2,
+    "ai_audience": 4.1,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is entirely focused on explaining and clarifying the concept, purpose, and best practices for product backlogs in the context of Agile and Scrum. There are no direct or indirect references to Service Level Expectation (SLE), its definition, calculation, or application. It does not mention any of the key topics related to SLE, such as elapsed time ranges, probabilities, or flow metrics. The main intent is foundational backlog education for beginners, not SLE analysis or improvement. While the content is well-aligned with Agile audiences, none of its substance addresses SLE itself. Thus, the confidence that this content fits under the category 'Service Level Expectation' is almost negligible.",
     "level": "Ignored"
   }
 }

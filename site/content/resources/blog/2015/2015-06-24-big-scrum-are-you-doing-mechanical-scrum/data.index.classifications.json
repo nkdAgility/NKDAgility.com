@@ -1341,7 +1341,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:53",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1748,6 +1748,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses Scrum practices and emphasizes the need for values and principles, but it primarily focuses on Scrum roles and processes rather than on the broader concept of enduring capabilities. While there are mentions of improving effectiveness and Agile principles, the depth lacks a thorough exploration of capabilities as systemic competencies within an organization.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "8wFtoutYII0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:16",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.7,
+    "ai_intent": 1.2,
+    "ai_audience": 6.1,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is focused on the concept of 'mechanical Scrum' versus 'Professional Scrum,' examining the pitfalls of superficial Scrum implementations and advocating for the adoption of Scrum values and technical excellence. Throughout the excerpt, there is no explicit mention of Service Level Expectation (SLE) nor any indirect discussion of its definition, calculation, or its role in Agile, Scrum, or Kanban processes. The closest thematic overlaps involve productivity, effectiveness, and team performance, but these are addressed in very general terms and do not reference predictability, flow metrics, cycle time analysis, or the forecast of work item completion that are core to SLE. There is also no sign of discussion about historical data analysis, probability/evidence-based forecasting, or team/stakeholder transparency around delivery timelines as defined by SLE. Thus, this content does not fit the scope or purpose of the SLE category. The audience is Scrum practitioners and organizations seeking to improve Scrum, giving a moderate audience score, and the signal-to-noise ratio is low-to-moderate due to tangential relevance. No penalties were applied as the content is neither outdated nor overtly contrary, but it remains almost completely unrelated to Service Level Expectation.",
     "level": "Ignored"
   }
 }

@@ -1311,7 +1311,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 12.0,
     "ai_mentions": 0.0,
@@ -1705,6 +1705,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the skills and strategies for product owners to enhance understanding within their teams, which pertains to individual competencies rather than the broader organizational capabilities outlined in the 'Capability' category. Although it references aspects of team dynamics and communication that could contribute to capabilities, it lacks a direct discussion on enduring competencies or organizational practices. The depth of discussion is also limited to personal skills without connecting them to long-term organizational capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "M5U-Pdn_ZrE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:34",
+    "ai_confidence": 5.46,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 1.8,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is focused exclusively on techniques for improving team understanding and communication in the context of product ownership. There are zero mentions of Service Level Expectation (SLE), its calculation, its use in Agile/Scrum/Kanban, or any of its key concepts such as cycle time analysis, probability ranges, or predictability of work delivery. The conceptual alignment to SLE is negligible, as the discussion is about interpersonal skills and clarity, not metric-driven workflow predictability. The depth dimension is very low regarding SLE—there is simply no exploration, definition, or application of SLE or its associated practices. The audience (product owners, Agile practitioners) has marginal overlap with typical SLE audiences, so the score is slightly higher there. The intent is off-purpose with respect to SLE: while it is informative for product owners, it is not intended to inform about SLE. The signal-to-noise ratio is scored above 1 because the content is not off-topic or filler generally; it just fails to address SLE. Overall, the confidence is extremely low, reflecting that nothing in this content pertains to defining, calculating, or applying Service Level Expectation in Agile contexts.",
     "level": "Ignored"
   }
 }

@@ -1383,7 +1383,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1777,6 +1777,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses identifying the proper implementation of agile methodologies rather than focusing on the development of enduring capabilities. While there are mentions of agile principles and values, the discussion is largely centered on tools and practices rather than fostering systemic capabilities within teams and organizations. The emphasis on tools and processes detracts from the overall focus on capability, which is about embedding competencies into organizational culture and systems, thus resulting in a lower confidence score. The depth of discussion about capabilities as long-term competencies is limited, focusing more on distinguishing agile from non-agile practices.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Tt8SPr3xJER",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:40",
+    "ai_confidence": 4.83,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.5,
+    "ai_intent": 0.7,
+    "ai_audience": 0.3,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) directly—there are neither explicit wordings nor underlying references to SLE as defined in Agile, Scrum, or Kanban contexts. While there are a few passing references to 'cycle time' and questions about how long features take to appear after being requested, the material fails to tie these to the formal SLE concept, its definition, calculation, or application. The main theme is about spotting genuine Agile practices versus waterfall/spiral mislabeling, targeted at DoD program executives, not practitioners focusing on SLE. Depth is low, as any discussion of delivery timelines is anecdotal and indirect, lacking quantitative treatment, probability, or workflow forecasting as required for SLE. The intent is only marginally related to SLE; mention of timing is a small part of a larger checklist for agile authenticity. The audience is partially relevant (executives/program managers) but not closely aligned to those seeking specific guidance about SLE. Signal-to-noise ratio is low with the content being broad and multidimensional, with very little relevant to the SLE category. There are no outdated references or negative tones justifying penalties. Overall, the text only lightly brushes against SLE-adjacent ideas and does not satisfy classification in this category.",
     "level": "Ignored"
   }
 }

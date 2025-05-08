@@ -1356,7 +1356,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1751,5 +1751,23 @@
     "final_score": 45.0,
     "reasoning": "While the content discusses a course aimed at developing Scrum capabilities for teams, it primarily focuses on the training aspects and the immediate benefits of the APS course, rather than providing a deep exploration of enduring competencies or systematic capability development. There are mentions of organizational change and creating a backlog for improvement, which relate to capability, but these discussions are framed more around tools and roles than on the sustainable, systemic nature of capabilities. Overall, the content does touch on related areas but lacks a primary focus and depth in the context of the Capability classification.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "rPxverzgPz0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 0.9,
+    "ai_audience": 3.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a recommendation and overview of the APS (Agile Practitioner Series) course targeted at newbie Scrum teams. At no point does it directly reference Service Level Expectation (SLE) or discuss related core concepts such as forecasting work item completion times, SLE calculation, or continuous improvement based on SLE metrics. There is no language referencing historical cycle time data, probabilities, or explicit transparency around delivery timelines. The content focuses instead on organizational change, learning Scrum basics, and the emotional/structural benefits of the course. While the audience is broadly similar (Scrum/Agile practitioners), none of the main themes or details touch on SLE in any recognized form. Thus, scores are very low across all key dimensions; only a minimal score is given for faint conceptual overlap in the context of continuous improvement and transparency, which are generalized agile themes but not discussed through the SLE lens. No penalties are needed, as there are no outdated/contradictory references.",
+    "level": "Ignored"
   }
 }

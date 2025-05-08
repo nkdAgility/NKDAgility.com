@@ -1323,7 +1323,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1730,6 +1730,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content mentions scaling agile practices but does not directly discuss the characteristics, strategies, or importance of capabilities as defined in the category. While it suggests a need for change in business practices, the focus is more on the illusion of scaled agile rather than on cultivating enduring capabilities. The content's emphasis on transformational aspects hints at capability but lacks depth in concrete discussions or examples related to capability development. Overall, the treatment of the topic is more superficial, leading to a lower confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "PLxBb5FqtO-",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 2.1,
+    "ai_audience": 5.4,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content centers on general strategies for scaling agile practices and organizational transformation for software delivery. Nowhere does it directly mention, define, or analyze Service Level Expectation (SLE), nor does it reference concepts tightly related to SLE such as its calculation, forecast ranges, or use for delivery predictability. The themes are broad and focused on organizational change and scaled agile, not Kanban-specific flow metrics. While the target audience (Agile practitioners and leaders) overlaps with that of SLE material, and there is a remote, tangential alignment on the topic of improving software delivery, the absence of direct SLE discussion or any mention of SLE-specific methodologies scores very low across all key dimensions. There are no penalties applied since the material is not outdated and does not contradict the SLE framing—it's simply unrelated.",
     "level": "Ignored"
   }
 }

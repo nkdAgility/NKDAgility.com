@@ -1353,7 +1353,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1748,5 +1748,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses the importance of shifting focus from output to outcomes, which aligns with the concept of capabilities in Agile. It emphasizes fostering psychological safety and meaningful metrics, indicating a deeper understanding of capability development within teams. However, it primarily revolves around the mindset and cultural aspects rather than systematically embedding capabilities or providing detailed strategies for their cultivation, which slightly limits its depth of discussion. Thus, while it touches on significant themes related to capabilities, it does not make those themes the central focus, leading to a moderately high confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "UFCwbq00CEQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:29",
+    "ai_confidence": 12.31,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.8,
+    "ai_intent": 1.5,
+    "ai_audience": 2.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses primarily on the drawbacks of using estimates in Agile environments, the dangers of fixating on estimation metrics, and the cultural benefits of prioritizing value and psychological safety. Nowhere does the content directly mention Service Level Expectation (SLE), nor does it discuss its definition, calculation, or application within Agile, Scrum, or Kanban. There are no references to time-based forecasts, probability ranges, or guidance for establishing delivery predictability as defined by SLE. The intended audience for the article (Agile practitioners and teams) coincides somewhat with the SLE audience, but the relevance is tangential rather than direct. The discussion of 'meaningful metrics' remains high-level and does not point toward SLE or similar flow metrics; instead, it references customer satisfaction and impact, which are distinctly not SLE. With almost no direct signal or explicit conceptual overlap, the content does not fit the SLE category aside from a distant relevance through the general critique of estimation-focused practices. Therefore, the dimension scores are all low, and the resulting confidence is appropriately minimal.",
+    "level": "Ignored"
   }
 }

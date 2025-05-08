@@ -1356,7 +1356,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1750,6 +1750,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content discusses understanding the purpose of Scrum and how it transforms the effectiveness of teamwork, which touches on the broader theme of capability as it relates to Agile frameworks. However, it primarily focuses on Scrum roles, events, and epiphanies rather than on defining enduring competencies or strategies for embedding capability within organizations. The discussion lacks depth in terms of capabilities as cultivated competencies and does not emphasize continuous improvement practices in a strategic context. The references to Scrum elements and individual experiences suggest an understanding of the framework but do not align closely with the core attributes of the 'Capability' classification.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "klBiNFvxuy0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:07",
+    "ai_confidence": 6.75,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.25,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content primarily explores common epiphanies in Scrum courses, focusing on empiricism, the importance of Scrum values, and understanding the purpose behind Scrum events and artefacts. There is no direct mention or explicit reference to Service Level Expectation (SLE), its definition, calculation, use, or improvement within an Agile, Scrum, or Kanban context. While the target audience overlaps slightly with practitioners who might benefit from SLE discussions, the main themes are conceptual (framework understanding, values, and practices) rather than process metrics or SLE-specific guidance. Depth of discussion concerning SLE is absent, and although continuous improvement is generally referenced, it is not in the context of flow metrics or forecasting work item completion times. Thus, the confidence score is appropriately low and reflects the lack of substantive or even tangential SLE content in this resource.",
     "level": "Ignored"
   }
 }

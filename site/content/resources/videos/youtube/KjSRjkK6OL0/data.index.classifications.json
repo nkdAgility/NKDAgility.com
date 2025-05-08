@@ -1278,7 +1278,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 10.0,
     "ai_mentions": 0.0,
@@ -1672,6 +1672,24 @@
     "non_ai_confidence": null,
     "final_score": 15.0,
     "reasoning": "The content primarily discusses the roles and behaviors of an ineffective Scrum Master, focusing on isolated practices rather than enduring capabilities. While it touches on issues of collaboration and team dynamics, these are framed around the failings of a specific role rather than exploring capabilities as a systemic aspect of Agile practice. It does not provide a discussion about the cultivation or measurement of capabilities, which is central to the requested category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "KjSRjkK6OL0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.7,
+    "ai_audience": 2.0,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) explicitly or implicitly. The primary focus is on describing ineffective behaviors of a Scrum Master—such as excessive reporting, mismanaging Daily Scrum, and poor facilitation of business-developer interactions—with no reference to cycle time, SLE calculations, or forecasting. Conceptual alignment is extremely low, with a faint indirect nod to Agile values but nothing concerning SLE itself or its use in Scrum, Kanban, or Agile delivery. Depth, intent, and purpose are similarly minimal: the intent is to educate on Scrum Master anti-patterns, not SLE. The audience is likely Scrum practitioners or Agile learners, which is somewhat adjacent but still much broader than those primarily concerned with SLE as a technical concept. The signal-to-noise ratio is also low for this category, as all information is irrelevant to SLE. There is no evidence for penalties (such as outdated practices or satirical tone). The very low final confidence score is appropriate, given the content contains no SLE relevance; the slightly higher audience score reflects minor overlap of general Agile/Scrum interests.",
     "level": "Ignored"
   }
 }

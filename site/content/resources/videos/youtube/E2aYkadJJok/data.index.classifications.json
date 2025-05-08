@@ -1308,7 +1308,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1702,6 +1702,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on promoting the use of a Kanban board as a tool for visualizing workflows, which aligns more with techniques and practices rather than enduring capabilities. While there are mentions of enhancing collaboration and identifying bottlenecks, these concepts are presented in a way that emphasizes immediate, tactical actions rather than the deeper, systemic capabilities that foster sustained improvement. Therefore, the discussion lacks the necessary depth and conceptual alignment with the category of Capability, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "E2aYkadJJok",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:02",
+    "ai_confidence": 9.91,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 2.6,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on practical advice for designing and adapting a Kanban board to visualize workflows, identify bottlenecks, and enhance collaboration. There is no explicit mention or direct reference to Service Level Expectation (SLE), its calculation, probability-based forecasts, or its use in Agile/Kanban predictability and transparency. While it discusses general Kanban concepts such as flow, continuous improvement, limiting work in progress, and bottleneck detection—some of which are adjacent to SLE—the content does not address any component of SLE as defined in the category scope (elapsed time range, probabilities, using historical data, etc.). The audience is likely Kanban practitioners or teams (fitting the audience in broad strokes), but there is no indication that SLE or its analytical application is the main theme or intent. The signal-to-noise ratio is moderate: the content stays on topic with Kanban visualization but is not relevant to SLE. No penalties were applied, as it is up-to-date and lacks critical or undermining tone. The low confidence score reflects the complete absence of SLE-related discussion or terminology.",
     "level": "Ignored"
   }
 }

@@ -1365,7 +1365,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1760,5 +1760,23 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the detrimental effects of judgment in Agile, relating it to foundational principles such as fostering collaboration and encouraging open dialogue. It mentions the need to focus on outcomes rather than outputs, aligning with the principle of Value Delivery. However, the discussion primarily focuses on the negative implications of judgment rather than outlining specific guiding principles of Agile directly. The conversation around adapting metrics to support a positive culture reflects Continuous Improvement, but it lacks a deeper exploration of core Agile principles, resulting in a somewhat lower confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "xk11NhTA_V8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:40",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.8,
+    "ai_intent": 1.4,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on the negative effects of judgment within Agile teams, using metrics like velocity, bug counts, and code volume as examples. While it touches on issues with using metrics in Agile, there is no mention—direct or indirect—of Service Level Expectation (SLE), its definition, calculation, or application within Agile, Scrum, or Kanban. The discussion remains centered on team culture, the dangers of weaponizing metrics, and strategies for fostering dialogue and supportive environments. The audience is Agile practitioners and teams, which partially aligns, but the lack of any SLE discussion or reference means the content falls almost completely outside the scoped category. The very low scores reflect that the content neither discusses nor implies SLE by definition, process, or practical application.",
+    "level": "Ignored"
   }
 }

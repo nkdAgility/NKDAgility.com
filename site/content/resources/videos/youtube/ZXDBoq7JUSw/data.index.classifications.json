@@ -246,12 +246,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "ZXDBoq7JUSw",
     "category": "Strategy",
-    "calculated_at": "2025-02-11T21:26:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal development and continuous learning rather than strategic approaches within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-02T04:20:11",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses professional development and the importance of enhancing skills in an ongoing capacity. However, it primarily focuses on personal growth and agile practices rather than on a strategic framework that aligns with organizational goals. While aspects of continuous learning might support broader strategic objectives, the content does not directly connect these ideas to high-level organizational strategy or planning, thus aligning only tangentially with the category.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -795,12 +804,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "ZXDBoq7JUSw",
     "category": "Accountability",
-    "calculated_at": "2025-02-11T21:28:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on personal development and continuous learning rather than team dynamics or ownership in Agile methodologies.",
+    "calculated_at": "2025-05-02T04:20:16",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content emphasizes personal skill enhancement and continuous learning without focusing on accountability as a structural mechanism in work systems. While it mentions professionalism in roles, it does not discuss explicit accountability, outcome ownership, or role-specific accountabilities related to Scrum or Agile frameworks.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1260,7 +1278,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:38",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1392,15 +1410,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "ZXDBoq7JUSw",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:50:48",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on enhancing personal skills and professionalism within Agile and Scrum contexts, but it does not explicitly mention or discuss Liberating Structures or their principles. While there is a general theme of continuous learning and improvement, it lacks the specific facilitation techniques and collaborative aspects central to Liberating Structures. Therefore, the confidence score reflects minimal relevance to the category.",
+    "calculated_at": "2025-05-02T04:20:13",
+    "ai_confidence": 2.0,
+    "ai_mentions": 2,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the importance of continuously enhancing skills and professionalism within the Agile and Scrum contexts but does not mention or focus specifically on Liberating Structures or any of its specific techniques. The direct mentions of Agile and Scrum are present, but the core principles and methods associated with Liberating Structures are absent. There is minimal alignment and depth in relation to the category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1654,6 +1678,24 @@
     "non_ai_confidence": null,
     "final_score": 38.0,
     "reasoning": "The content discusses the importance of continuous learning and professionalism, which are core themes of discipline; however, it primarily focuses on general motivation and skill enhancement rather than a structured examination of Agile, DevOps, or Lean disciplines. The connection to 'Agile' is made, but it lacks specific insights into principles or methodologies that form the foundational aspects of a discipline.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ZXDBoq7JUSw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:47",
+    "ai_confidence": 4.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.6,
+    "ai_intent": 1.2,
+    "ai_audience": 0.9,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on personal and professional growth within Agile and Scrum contexts, emphasizing continuous learning, professionalism, and passion for the craft. While it encourages engagement with Scrum and Agile practices generally, there is no mention of Service Level Expectation (SLE), nor are there references to its calculation, definition, or application. The themes remain at the level of mindset, personal development, and generic Agile values, without reference to workflow metrics, predictability, or any of the technical SLE concepts. The audience alignment is slightly present as it targets Agile practitioners, but with no technical detail relevant to SLE. No penalties were necessary as the tone is positive and content is up to date. Confidence is low because the content does not fit the SLE definition or scope.",
     "level": "Ignored"
   }
 }

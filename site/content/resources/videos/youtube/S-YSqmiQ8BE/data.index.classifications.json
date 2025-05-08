@@ -1788,7 +1788,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-29T14:08:51",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
@@ -2029,5 +2029,23 @@
     "final_score": 45.0,
     "reasoning": "The content mentions concepts related to balancing stability and innovation, which touches on the idea of organisational capabilities. It discusses assessing current states and the importance of gradual changes to modernise effectively, reflecting an understanding of capabilities. However, it primarily focuses on the dilemma of managing legacy systems rather than deeply exploring enduring competencies or embedding capabilities within teams and organisations as defined in the 'Capability' category. The depth of discussion on the development of capabilities and their strategic role within the organisation is limited, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "S-YSqmiQ8BE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:14",
+    "ai_confidence": 2.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.3,
+    "ai_intent": 0.6,
+    "ai_audience": 0.3,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on managing legacy systems and balancing stability with innovation during modernisation efforts. It employs concepts such as technical debt, operational complexity, incremental improvement, and engineering best practices, but does not mention Service Level Expectation (SLE), cycle time, lead time, or any Kanban/Agile-specific flow metrics. There is no discussion or even an implicit reference to SLE calculation, transparency, probability ranges, or its application within Agile, Scrum, or Kanban frameworks. The intended audience appears to be managers and leaders dealing with large systems, not specifically Agile practitioners or teams focused on flow metrics. Minimal alignment exists due to the mention of gradual improvement and sustainability, but these are generic engineering principles, not SLE-related concepts. As such, scores are extremely low across all dimensions, with no penalties applied since there is no outdated or contradictory tone.",
+    "level": "Ignored"
   }
 }

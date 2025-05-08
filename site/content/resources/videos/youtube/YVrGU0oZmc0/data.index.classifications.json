@@ -1434,7 +1434,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
@@ -1828,6 +1828,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content focuses primarily on the use of feature flags in software development, emphasizing practices for incremental delivery and feedback mechanisms. While it touches on the concept of organizational capabilities, the emphasis is on tools and techniques rather than enduring competencies. It lacks a detailed discussion on how these practices integrate into organizational culture and processes, thus falling short of fully aligning with the category of 'Capability.' The mention of user feedback and adaptation hints at continuous improvement, but it does not dive deeply into capability development or assessment.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "YVrGU0oZmc0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:30",
+    "ai_confidence": 2.433,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.7,
+    "ai_intent": 0.8,
+    "ai_audience": 2.1,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses entirely on feature flags as a tool to facilitate continuous and incremental delivery in software development. It discusses real-world applications, user feedback, and incrementally releasing changes but never names, defines, or references Service Level Expectation (SLE) explicitly or implicitly. There are no overt connections between the main ideas and SLE’s definition, calculation, or application within Agile, Scrum, or Kanban contexts. The piece targets practitioners interested in modern delivery practices, which only partially aligns with the likely SLE-interested audience. The discussion is detailed, but its depth applies solely to feature flag deployment cycles, not SLE or its core concepts (elapsed time ranges, probability, etc.). The signal-to-noise ratio is low for SLE, as all relevant substance is about feature flag strategies rather than service-level forecasting. No penalties were applied, as the content is current, factual, and not critical or satirical. The overall low confidence score accurately reflects the near absence of relevant SLE content.",
     "level": "Ignored"
   }
 }

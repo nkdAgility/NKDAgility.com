@@ -1368,7 +1368,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1500,15 +1500,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "FNFV4mp-0pg",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:31:51",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the role of a Scrum Master in facilitating team dynamics and avoiding micromanagement, which aligns with the principles of Liberating Structures. However, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The focus is primarily on Scrum and Agile methodologies rather than on the broader facilitation techniques that Liberating Structures encompass. Therefore, while there is some conceptual alignment, the lack of direct mentions and depth in discussing Liberating Structures results in a low confidence score.",
+    "calculated_at": "2025-05-02T04:20:30",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.6,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses the role of a Scrum Master and emphasizes facilitation over micromanagement, which aligns with some core principles of engaging team interactions. However, it does not specifically mention Liberating Structures or detail any particular methods from the toolkit, nor does it focus primarily on facilitation structures. Instead, it tends to discuss general Scrum roles and the philosophy behind them, which falls outside the scope of the 'Liberating Structures' category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1763,5 +1769,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the role of a Scrum Master within the Agile framework, particularly focusing on the principles of facilitation and support rather than micromanagement. This aligns partially with the key themes of discipline, particularly the importance of shared principles and the continuous improvement mindset. However, while it touches on Agile methodologies, the discussion does not delve deeply into broader governance structures, ethical considerations, or the evolution of disciplines, which limits its depth. Therefore, while there are references to the discipline of Agile, the content primarily focuses on the nuances of Scrum, leading to a moderate confidence level.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "FNFV4mp-0pg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:04",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "There are zero direct mentions of Service Level Expectation (SLE) or any of its defining attributes in this content. The focus is entirely on the role and mindset of a Scrum Master, specifically in contrast to micromanagement, with themes around facilitation, empowerment, and effectiveness. There is a negligible and very indirect conceptual alignment because both SLE and Scrum Master practices fall under the overall Agile umbrella, but there is no discussion of SLE itself, its calculation, use, or purpose. Depth, intent, and signal scores are very low as the material does not address or even tangentially reference SLE; all discussion centers on leadership style and team dynamics. While the intended audience overlaps somewhat with those interested in SLE (Agile teams, Scrum practitioners), there is no specific relevance for those seeking SLE content. No penalties were applied, as the content is not outdated or contradicting SLE, but its complete lack of topical relevance justifies the extremely low overall score.",
+    "level": "Ignored"
   }
 }

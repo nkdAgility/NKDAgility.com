@@ -1386,7 +1386,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1780,6 +1780,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses challenges in adopting DevOps practices, focusing on risk management and feedback loops rather than building enduring capabilities. While there is some mention of adaptability and continuous improvement which relates to capability development, the primary focus remains on issues faced during DevOps adoption, including managing risks. The discussion lacks detailed exploration of how organizational capabilities can be developed or embedded over time, thus it does not significantly align with the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "swHtVLD9690",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:51",
+    "ai_confidence": 1.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.9,
+    "ai_depth": 1.2,
+    "ai_intent": 2.1,
+    "ai_audience": 4.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content, while exploring DevOps challenges, risk management, and the importance of feedback loops, does not mention Service Level Expectation (SLE) directly or even allude to its definition, calculation, or application. None of the key topics specific to SLE—such as forecasting cycle time, probability ranges, or transparency for stakeholders in Agile, Scrum, or Kanban contexts—are present. While the article discusses predictability and continuous improvement, these are approached from a general DevOps and feedback orientation and never connected to SLE, either conceptually or in practice. The audience is tangentially overlapping (practitioners in DevOps, which sometimes overlap with Agile/Scrum teams), but the focus remains firmly on broader DevOps risk and feedback management. The signal-to-noise ratio is low for this category, as the content stays on topic for DevOps-adoption issues but irrelevant for SLE. Given these factors, the confidence that this fits under 'Service Level Expectation' is negligible, reflected in the very low confidence score.",
     "level": "Ignored"
   }
 }

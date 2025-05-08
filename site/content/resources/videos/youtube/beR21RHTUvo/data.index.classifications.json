@@ -1332,7 +1332,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1726,6 +1726,24 @@
     "non_ai_confidence": null,
     "final_score": 22.0,
     "reasoning": "While the content discusses Agile practices and the pitfalls of story points, it primarily focuses on challenges and issues rather than on building or understanding capabilities. The discussion on flow metrics at the end hints at a more capability-based approach, but it is not the main focus. The content fails to meet the primary focus requirement for the Capability category, and the aspects of capabilities are superficially covered.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "beR21RHTUvo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:29",
+    "ai_confidence": 7.83,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.15,
+    "ai_depth": 1.75,
+    "ai_intent": 1.9,
+    "ai_audience": 0.92,
+    "ai_signal": 1.11,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses extensively on the pitfalls of story points in Agile and advocates for a shift to 'flow metrics' such as cycle time, throughput, and work item aging. However, the piece does not directly mention or discuss Service Level Expectation (SLE) at any point; 'SLE' and its concepts (elapsed time range with probability, usage to set delivery expectations, or references to relevant Kanban/Scrum authorities on SLE) are completely absent. While flow metrics are discussed, their relationship to SLE is not made explicit – for example, there is no linkage of cycle time percentiles to SLE, no discussion of setting expectations for delivery time via an SLE, and no guidance or analytic comparison involving SLE practices. The intent is to inform Agile practitioners and teams, which is somewhat adjacent to the SLE audience, but the signal-to-noise ratio is low due to a predominant focus on story points and only general references to flow measurement. Because there are no direct mentions and only the broadest conceptual overlap, all scores are near the lower end, and the formula yields a very low confidence score, which is proportionate to the weak fit.",
     "level": "Ignored"
   }
 }

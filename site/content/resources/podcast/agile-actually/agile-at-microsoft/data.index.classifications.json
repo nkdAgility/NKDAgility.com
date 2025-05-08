@@ -1317,7 +1317,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1711,6 +1711,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content focuses primarily on the importance of language and transparency in an agile context rather than on enduring capabilities. While it touches on themes relevant to Agile, such as the significance of communication, it does not directly discuss the concept of capability, its characteristics, or its development within teams and organizations. The confidence score reflects minimal direct mention, limited conceptual alignment, and shallow depth regarding the core themes of capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "U_pzYjx6qk6",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:00",
+    "ai_confidence": 4.95,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 0.8,
+    "ai_intent": 1.5,
+    "ai_audience": 6.2,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on language, transparency, and agile coaching, with general mentions of agile, scrum, devops, and product delivery. Nowhere does it explicitly reference Service Level Expectation (SLE), nor are there indirect references to its calculation, application, or associated terminology. The main theme is about communication and terminology within Agile, not about forecasting, metrics, or SLE concepts. While the audience could overlap with those seeking SLE guidance, the discussion is too high-level and unrelated to SLE topic scope. There is no signal of expert discussion of cycle time, probability, or agile metrics, and the content is devoid of any relevant deep dive. Accordingly, all dimension scores are extremely low, with audience being the only slightly higher due to general agile focus. No penalties were necessary as the content is neither outdated nor satirical.",
     "level": "Ignored"
   }
 }

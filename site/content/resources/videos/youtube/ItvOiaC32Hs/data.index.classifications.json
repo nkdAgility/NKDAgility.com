@@ -1365,7 +1365,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1760,5 +1760,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the chaos factor in Agile teams and offers strategies for alignment and communication, which touches on the concept of capability indirectly. However, the primary focus is on identifying chaos and addressing communication issues rather than on cultivating enduring competencies or integrating those into organizational processes. The mention of clear goals and fostering communication represents some alignment with capability development, but the content lacks depth in discussing how these strategies contribute to long-term capabilities within the organization.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ItvOiaC32Hs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:36",
+    "ai_confidence": 8.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 6.5,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content does not reference Service Level Expectation (SLE) either directly or indirectly. There are no mentions of SLE, its calculation, its role in Agile, Scrum, or Kanban, or any of its key attributes like cycle time ranges, probabilities, or measurement practices. The main themes are team alignment, communication, and reduction of chaos in Agile teams—important Agile topics, but unrelated to SLE as defined. The content audience (Agile team members, leaders) slightly overlaps with SLE’s potential audience, which accounts for the modest score in 'audience' and 'signal', but lacking SLE-specific discussion, all other scores are kept near-minimum, as per the calibration safeguards. The low confidence score (8.2 out of 100) accurately reflects a negligible connection to the category.",
+    "level": "Ignored"
   }
 }

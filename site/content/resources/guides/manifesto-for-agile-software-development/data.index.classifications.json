@@ -1383,7 +1383,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1777,6 +1777,24 @@
     "non_ai_confidence": null,
     "final_score": 30.0,
     "reasoning": "The content from the 'Manifesto for Agile Software Development' primarily presents values and principles of Agile, which does touch on capabilities such as collaboration, responding to change, and building effective teams. However, it lacks a direct focus on the enduring competencies that empower organizations to deliver value in a sustainable manner. The discussion does not delve into how these principles cultivate capabilities over time or integrate them into organizational culture. Overall, while some of the principles can relate to capability concepts, the content is not explicitly centered on 'Capability' as defined, hence the score reflects a secondary mention rather than a primary discussion.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "poyC7fUGitC",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:47",
+    "ai_confidence": 4.76,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 1.2,
+    "ai_audience": 0.8,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The Manifesto for Agile Software Development does not explicitly mention Service Level Expectation (SLE) or use any related terminology. The content focuses on broad agile values and principles, such as customer collaboration, frequent delivery, and reflection on practices, rather than detailed flow metrics or predictability forecasts characteristic of SLE. Conceptual alignment is very weak; while there is a tangential emphasis on delivering working software frequently and continuous improvement, none of the principles reference the calculation, implementation, or transparency aspects of SLE as defined in Agile, Scrum, or Kanban. Depth is extremely limited; the content does not analyze cycle time, elapsed time ranges, or probabilities associated with delivery forecasting. The intent is general guidance and inspiration, not technical guidance on SLE. While the intended audience overlaps somewhat (Agile practitioners), the signal-to-noise ratio is low for SLE relevance, and almost all content is outside scope. No penalties were necessary as the content is not outdated or critical, simply irrelevant to the category definition. The low confidence score proportionally reflects the almost total lack of direct or indirect SLE content.",
     "level": "Ignored"
   }
 }

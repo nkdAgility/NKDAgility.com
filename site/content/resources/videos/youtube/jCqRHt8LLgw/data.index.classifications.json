@@ -1251,7 +1251,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1658,6 +1658,24 @@
     "non_ai_confidence": null,
     "final_score": 37.0,
     "reasoning": "The content primarily discusses agile practices, focusing on specific tools and techniques, such as story points and team sizes, rather than the enduring capabilities that empower teams and organizations. While there are mentions of improving performance and adapting to new methods (which could be seen as related to capabilities), the overall emphasis is on immediate practices rather than long-term capability development or integration into organizational culture. The content briefly touches on concepts that can contribute to capability, such as improved decision-making and adaptability, but it lacks a thorough exploration of capability development or measurement as defined by the category. Hence, the final score balances a lower confidence in direct alignment with the concept of capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "jCqRHt8LLgw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:09",
+    "ai_confidence": 7.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.35,
+    "ai_intent": 0.3,
+    "ai_audience": 2.0,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on rethinking story points, team sizes, and emergent architecture in the context of Agile practices. It discusses estimation techniques (story points), throughput, cycle time, team sizing philosophies, and architecture adaptability, but nowhere does it reference or directly discuss Service Level Expectation (SLE) or its definition, calculation, or application as outlined in the category criteria. There are no explicit or implicit references to SLE, no discussion of cycle time percentiles, probability-based delivery forecasts, or key SLE concepts. While throughput and cycle time are mentioned, these are only in the context of alternatives to story points for measuring productivity, without linking to SLE or its agile/Kanban origins. The depth and alignment are extremely low due to lack of any mention, exploration, or intent around SLE. The only dimension slightly higher is audience (2.0) since the content is at least aimed at agile practitioners, which overlaps with the SLE category's audience. All other scores are near-zero due to irrelevance. No penalties are required as the tone is not critical, nor is the content outdated or contradictory. The extremely low confidence score accurately reflects the lack of fit—including after double-checking for even indirect allusion to SLE as defined.",
     "level": "Ignored"
   }
 }

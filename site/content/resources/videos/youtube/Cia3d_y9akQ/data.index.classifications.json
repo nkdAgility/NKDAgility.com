@@ -1356,7 +1356,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:34:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1751,5 +1751,23 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the Scrum Master role, touching on various misconceptions and the importance of understanding core principles rather than merely adhering to mechanical practices. It outlines key areas of focus for Scrum Masters and emphasizes continuous improvement, which aligns well with the category 'Practice'. However, the discussion is more about the role and philosophy behind Scrum rather than specific actionable techniques or habits. Therefore, the content does not strictly fit into 'Practice' but overlaps sufficiently to warrant a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Cia3d_y9akQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:45",
+    "ai_confidence": 2.82,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 2.5,
+    "ai_audience": 4.1,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is an in-depth discussion of the Scrum Master role, common misconceptions, and the philosophy behind effective Scrum practices. There is no direct or indirect mention of Service Level Expectation (SLE), nor any reference to the concept, its calculation, or its application in Agile, Scrum, or Kanban practices. The main intent is to clarify the Scrum Master's responsibilities and encourage a principle-driven approach, not to discuss SLE or delivery predictability metrics. The audience alignment and signal-to-noise scores are slightly higher due to the general Agile/Scrum practitioner focus, but relevance to SLE is extremely low, with no explicit or conceptual overlap. Therefore, the confidence that this content fits under 'Service Level Expectation' is very low, as reflected in the scoring.",
+    "level": "Ignored"
   }
 }

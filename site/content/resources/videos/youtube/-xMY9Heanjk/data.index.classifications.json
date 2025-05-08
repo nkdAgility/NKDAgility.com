@@ -1365,7 +1365,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1773,5 +1773,23 @@
     "final_score": 54.0,
     "reasoning": "The content discusses the challenges of new Scrum teams, focusing on their lack of understanding of core Agile principles and the importance of mastering these foundational elements to become effective teams. Although it touches upon the capability aspect in terms of developing team competencies and how to transition from novice to mastery, it primarily emphasizes tools and practices (like user stories, planning poker) rather than developing enduring capabilities integrated into organizational culture and processes. Thus, while there is some relevant information, it does not maintain a primary focus on capability as defined in the category description.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "-xMY9Heanjk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:09",
+    "ai_confidence": 7.3,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 0.9,
+    "ai_audience": 1.2,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content makes no direct mention of Service Level Expectation (SLE) or its key components (elapsed time range, probability, calculation using cycle time, etc.). There are zero explicit references to SLE or its core concepts. The closest related themes are broad discussions of Scrum, empirical process control, transparency, and improvement, but all are treated generally to Scrum and Agile team formation rather than specifically to the definition or application of SLE. The discussion centers on challenges of joining new Scrum teams, working through misconceptions, and focusing on empiricism, not on service predictability or forecasting delivery timeframes. The target audience (Scrum practitioners, Agile coaches) slightly overlaps with those for SLE, but the topic is not aligned in substance. The content is almost entirely on-topic for its advertised purpose but not for SLE. No penalties are applied, as the content is neither outdated nor satirical, and it does not contradict Agile principles. The extremely low scores across all dimensions (with some slight increases in intent, audience, and signal due to partial overlap in audience and clarity of content) yield a final confidence far below the threshold, accurately reflecting that this content does not fit the 'Service Level Expectation' category.",
+    "level": "Ignored"
   }
 }

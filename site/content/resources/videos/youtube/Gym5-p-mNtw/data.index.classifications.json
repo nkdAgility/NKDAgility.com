@@ -1401,7 +1401,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
@@ -1796,5 +1796,23 @@
     "final_score": 75.0,
     "reasoning": "The content discusses principles related to value delivery, continuous improvement, and customer collaboration through the lens of DORA metrics and waste in processes. It emphasizes the importance of identifying waste to maximize ROI, which aligns with actionable principles in Agile. However, while principles are present, the content leans towards metrics and specific improvement techniques rather than a direct discussion of principles themselves.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Gym5-p-mNtw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:36",
+    "ai_confidence": 5.332,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.6,
+    "ai_intent": 0.7,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on identifying and reducing waste in organisations by leveraging Agile metrics, specifically DORA metrics such as Innovation Rate, Product Index, Usage Index, and Version Adoption. There are no direct mentions of Service Level Expectation (SLE), its calculation, definition, or role in Agile/Kanban/Scrum practices. The thematic focus is on ROI improvement via engineering excellence, Agile feedback loops, and data-driven decision making using metrics—but none are SLE or directly mapped to the SLE concept. The depth of discussion about metrics is substantial, but entirely off-topic regarding SLE. The intended audience is Agile practitioners and leaders, somewhat matching the SLE category's audience, but with a different informational need. The content stays on its defined topic (waste/ROI/DORA), thus the signal-to-noise ratio is not extremely low, yet little relevance exists for SLE. No penalties applied, as the content is not outdated or critical of SLE; it simply does not address it. Final confidence is very low, appropriately reflecting minimal connection.",
+    "level": "Ignored"
   }
 }

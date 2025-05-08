@@ -1266,7 +1266,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1661,5 +1661,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses themes of organisational efficiency and governance, which are indirectly related to capabilities. The focus on integration and cross-functional collaboration aligns with the idea of developing enduring organisational competencies, but it primarily explores the pitfalls of local optimisation without delving deeply into the concept of capabilities themselves. The discussion hints at building a culture that supports lasting improvement, yet lacks a strong, explicit connection to measuring or assessing capabilities as outlined in the category definition.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ACZWkkvKEnw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:16",
+    "ai_confidence": 5.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.7,
+    "ai_intent": 1.5,
+    "ai_audience": 7.0,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on organisational governance, pitfalls of local optimisation, and strategies for holistic improvement. There is no mention—direct or indirect—of Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban. Key SLE-specific concepts like forecasting cycle time, probability-based delivery ranges, transparency of work item completion times, or references to authoritative SLE sources are entirely absent. While the content briefly touches on the need for transparency and integration, these aspects are presented strictly in the context of governance rather than SLE practices. The closest overlap is the general encouragement of transparency and cross-functional collaboration, which are tangentially relevant to Agile teams but not specific to SLE. The audience (organizational leaders, Agile practitioners) has some overlap, resulting in a higher audience alignment score, but all other dimensions score low due to lack of relevance and direct reference. No penalties were needed as the content does not contradict or misrepresent SLE.",
+    "level": "Ignored"
   }
 }

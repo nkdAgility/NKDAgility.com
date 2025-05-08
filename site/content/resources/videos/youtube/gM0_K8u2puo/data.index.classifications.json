@@ -1266,7 +1266,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1660,6 +1660,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses the importance of frequent product releases and adaptability in the market, which are related to organizational capabilities. However, it primarily focuses on practical strategies and outcomes of product delivery rather than on cultivating enduring competencies or integrating capabilities into organizational culture. There is some mention of how teams can engage better and adapt quickly, but the discussion lacks depth regarding the foundational elements of capabilities in a systemic context. Overall, it aligns partially but is primarily centered on tools and strategies rather than the broader category of Capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "gM0_K8u2puo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:26",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.7,
+    "ai_audience": 0.4,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on the benefits of frequent product releases and user feedback loops as strategies for achieving market leadership. Nowhere in the title, description, or body is 'Service Level Expectation' (SLE) mentioned directly or indirectly, nor is there discussion of SLE's definition, calculation, intent, or use within Agile/Scrum/Kanban practices. While it references agility, frequent releases, and responsiveness—concepts somewhat adjacent to flow metrics—the content stops far short of aligning with the specific SLE topic. It does not mention elapsed time ranges, probabilities, lead/cycle time calculations, or any SLE-specific tools, practices, or outcomes. The audience appears more business/leadership oriented than process/practitioner focused, and the signal-to-noise ratio is low for SLE relevance. There are no penalty deductions, as the content is not outdated or critical; it is simply off-topic for SLE. The confidence score reflects the near-total absence of category relevance, with low fractional points awarded for minor conceptual proximity due to its general agile tone.",
     "level": "Ignored"
   }
 }

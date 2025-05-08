@@ -249,12 +249,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "eykcZoUdVO8",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T19:44:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on influential figures in Agile and their personal impact rather than discussing accountability within teams.",
+    "calculated_at": "2025-05-02T04:20:34",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.3,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the influence of an individual in the Agile space rather than discussing accountability as a structural mechanism in work systems. While the mention of Agile and Scrum indicates some relevant context, it lacks direct discussion on roles associated with accountability, distinct accountability concepts, or how accountability influences performance and outcomes in the AGILE context. The depth of accountability-related discussion is minimal.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -744,12 +753,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "eykcZoUdVO8",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T19:45:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on influential figures in Agile rather than discussing strategic approaches or frameworks.",
+    "calculated_at": "2025-05-02T04:20:02",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on an influential individual in the Agile community, discussing personal insights rather than strategic discussions. Although it mentions Agile concepts and the significance of facilitation and communication, it lacks direct discussion on strategic alignment, planning, or decision-making related to organizational goals. The themes are more operational and personal rather than meeting the high-level criteria of strategic discussions.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1305,7 +1323,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1437,15 +1455,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "eykcZoUdVO8",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:47:38",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on influential figures in Agile, particularly Simon Randell, and discusses his facilitation skills and communication style. While there are mentions of facilitation, the content does not explicitly reference Liberating Structures or their specific techniques. The discussion lacks depth regarding the principles or applications of Liberating Structures, and the overall focus remains on Agile as a broader topic rather than the specific facilitation techniques that characterise Liberating Structures.",
+    "calculated_at": "2025-05-02T04:20:03",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses primarily on a personal reflection about an influential figure in Agile, without specific discussions or structures related to Liberating Structures. While there are elements of facilitation mentioned, they do not connect to specific Liberating Structures or their application in team settings.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1699,6 +1723,24 @@
     "non_ai_confidence": null,
     "final_score": 30.0,
     "reasoning": "The content discusses influential figures in Agile, focusing on an individual's impact rather than the overarching principles or methodologies of the discipline itself. While Agile is mentioned, and the content hints at elements of learning and emulation associated with discipline, it primarily centers around personal insights and storytelling rather than a structured discussion about Agile as a discipline. The exploration lacks enough depth regarding the systemic application and evolution of Agile principles in organizational contexts, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "eykcZoUdVO8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:47",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 3.1,
+    "ai_audience": 3.3,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a personal reflection and tribute focused on an influential individual within the Agile community (Simon Randell). There are no direct mentions, definitions, or applications of Service Level Expectation (SLE); the term does not appear, nor are its concepts (calculation, probability, cycle time analysis, transparency, Kanban/Scrum linkage) discussed. The primary themes are inspiration, facilitation skills, and the influence of individuals in the adoption and culture of Agile—not the technical or process-driven aspects that SLE covers. Alignment and depth remain very low because while Agile is referenced, there is zero substantive overlap with SLE as strictly defined. The intent is tangential at best; the content's purpose is motivational, not informative regarding SLE. Audience alignment and signal are minimal, as the piece targets general Agile practitioners but contains no relevant SLE knowledge or actionable guidance. There are no outdated references or negative tone, so no penalties are applied. The final low confidence score reflects the near-total absence of SLE-related content.",
     "level": "Ignored"
   }
 }

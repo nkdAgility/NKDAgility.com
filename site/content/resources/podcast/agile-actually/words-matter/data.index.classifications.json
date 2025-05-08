@@ -1305,7 +1305,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1699,6 +1699,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content focuses on the role of language and transparency in Agile, which are indirectly related to capabilities in fostering understanding and communication. However, the discussion does not directly address the specific enduring competencies or strategies for developing capabilities as defined in the category. The emphasis on language and its importance in Agile lacks the depth and breadth to effectively classify it as a discussion on capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Z1FuzHOIZD5",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 2.4,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 2.2,
+    "ai_audience": 4.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on the importance of language and transparency in Agile, but there are no direct or indirect mentions of Service Level Expectation (SLE), its calculation, application, or use in Agile, Scrum, or Kanban practices. There is no discussion or exploration of SLE-related concepts such as cycle time, probability, historical data, or delivery forecasting. The intent and audience are somewhat aligned with those who might also benefit from SLE knowledge (Agile practitioners, coaches, stakeholders), but the actual content does not address SLE in any way. The signal-to-noise ratio is low regarding SLE-specific content as the bulk of discussion targets general Agile values and language use. No penalties were applied, as there is no outdated or contradictory information. Confidence is extremely low because the content does not touch on the SLE category per the strict classification definition.",
     "level": "Ignored"
   }
 }

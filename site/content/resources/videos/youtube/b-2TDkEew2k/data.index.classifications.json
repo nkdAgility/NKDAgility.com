@@ -1365,7 +1365,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1760,5 +1760,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the 'just enough and no more' philosophy which relates to efficiency and maximizing value in Agile practices, indicating a conceptual alignment with capabilities. However, it primarily focuses on specific practices, such as backlog management and team composition, rather than enduring competencies or systemic capabilities. The mention of continuous improvement does add depth, but overall, it lacks a strong emphasis on developing and embedding capabilities over time within an organizational context.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "b-2TDkEew2k",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:29",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.4,
+    "ai_intent": 1.0,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on the 'just enough and no more' philosophy in Agile, illustrating its application to backlog management, team size, refinement, and planning. Nowhere does it mention, reference, or discuss Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban. There are no direct or indirect references to forecasting delivery timelines, elapsed time ranges, probabilities, or the practices, metrics, or sources that constitute accurate SLE discourse. The concept of continuous improvement is noted, but in general agile terms, not in the context of SLE. The audience is generic agile practitioners, not SLE-specific stakeholders. Thus, all scores are very low, with 0 for direct mentions and scores barely above the floor for conceptual alignment or depth, simply because there is some overlap in the value of continuous improvement and process optimization, but these are generic agile values, not SLE-specific. No penalties were required since the tone is not outdated nor critical. The overall confidence score appropriately reflects that the content is highly unlikely to be about SLE by any reasonable standard.",
+    "level": "Ignored"
   }
 }

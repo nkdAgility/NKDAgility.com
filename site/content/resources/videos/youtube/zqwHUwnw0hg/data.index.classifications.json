@@ -1350,7 +1350,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1757,6 +1757,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the roles and responsibilities of a Scrum Master rather than on the enduring competencies or capabilities that empower organizations. Although it mentions the need for alignment with organizational objectives and hints at the role of Scrum Masters in fostering team effectiveness, it largely discusses how Scrum Masters should operate rather than the broader topic of capabilities that support sustainable value delivery. Therefore, while there are some relevant points, the primary emphasis on roles limits the overall confidence in alignment with the Capability category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "zqwHUwnw0hg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 2.07,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 0.5,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content describes the curriculum and learning objectives of a Professional Scrum Master course, focusing on empiricism, Scrum theory, team effectiveness, and the role of the Scrum Master. There are no direct mentions of Service Level Expectation (SLE) or its calculation, purpose, or Agile/ Kanban context. The main ideas are only very vaguely related in the sense that Scrum Masters may support effective delivery and continuous improvement, but none of the explicit SLE topics or applications are present. Depth of discussion is also very low, as SLE is not discussed at all, with the bulk of the content instead covering Scrum roles, pillars, and general Agile concepts. The intent and purpose are about promoting Scrum Master learning, not SLE. The audience is broadly aligned to Agile practitioners, but not specifically SLE stakeholders. The signal-to-noise ratio is low due to the marketing sections and the broad rather than focused content. No penalties for criticism or outdatedness were necessary. Overall, there is no substantial connection to SLE, leading to a very low confidence score.",
     "level": "Ignored"
   }
 }

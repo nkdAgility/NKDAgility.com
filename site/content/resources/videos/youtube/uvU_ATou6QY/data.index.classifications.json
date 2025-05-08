@@ -1335,7 +1335,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:32",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1467,15 +1467,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "uvU_ATou6QY",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:14:17",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:29",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role and responsibilities of a product owner, discussing signs of failure and ownership in product management. There are no direct mentions of Liberating Structures or facilitation techniques. While some principles of collaboration and decision-making are implied, they do not align with the core themes of Liberating Structures. The depth of discussion is centred on individual accountability rather than group dynamics or facilitation methods, leading to a low confidence score.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content centers around the role and responsibilities of a Product Owner without any reference to Liberating Structures. It discusses signs of failure and how to take ownership, but does not explore specific facilitation techniques or methods related to Liberating Structures, nor does it relate to collaborative structures, decision-making, or engagement techniques that are part of the Liberating Structures framework.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1729,6 +1735,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses the role of a product owner and signs of failing in that role. While it aligns conceptually with the idea of ownership and decision-making, it primarily focuses on practical signs of failure and corrective actions rather than on a structured exploration of the discipline itself. There are no explicit mentions of underlying principles or methodologies associated with disciplines like Agile, which would enhance its alignment with the 'Discipline' category. Additionally, the depth of discussion is mostly practical advice, lacking a more extensive exploration of systemic or theoretical principles.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "uvU_ATou6QY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:45",
+    "ai_confidence": 10.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 2.3,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "There are zero direct mentions of Service Level Expectation (SLE) or any of its defining concepts in the content. The article focuses entirely on the responsibilities and pitfalls of a product owner—discussing value delivery, ownership, vision, influencing direction, and decision making in the context of Agile—but does not mention SLE, nor does it allude to its calculation, application, or relevance within Scrum or Kanban frameworks. The closest related topic is 'inconsistent delivery', but this is discussed in terms of general delivery consistency and control, not in relation to cycle time forecasting, elapsed days, or probabilities. Metrics are referenced (e.g., burndown charts, vanity metrics), but not SLE, its components, or any of the authoritative sources named. No part of the discussion addresses SLE's use to improve predictability, manage expectations, or continuous improvement in the Kanban/Scrum sense. The audience is Agile practitioners but not those seeking information on SLE. As such, the content is almost entirely unrelated to the category as defined, justifying a very low confidence score, all dimensions scored at minimal or base values, and no penalties applied.",
     "level": "Ignored"
   }
 }

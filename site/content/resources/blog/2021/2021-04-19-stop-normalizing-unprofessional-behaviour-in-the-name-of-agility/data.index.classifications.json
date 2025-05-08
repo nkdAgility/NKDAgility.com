@@ -1365,7 +1365,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:31",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
@@ -1772,6 +1772,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content primarily discusses the importance of professionalism and ethical behavior in Scrum, which indirectly relates to capability by arguing that professionalism is necessary for agile practices to function effectively. However, it does not provide a thorough exploration of capabilities or strategies for developing them, and much of the focus is on criticizing unprofessional behavior rather than outlining enduring competencies. The discussion is more centered around the implications of behavior in the context of agile rather than on building organizational capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "mqbD3iIhRg4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:07",
+    "ai_confidence": 3.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 0.9,
+    "ai_audience": 7.0,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) explicitly or implicitly at any point. There is no discussion of SLE, its calculation, its use in Kanban or Scrum, nor any exploration of related metrics (cycle time, lead time) in a way that is directly tied to SLE as defined in the classification. The focus is on professionalism and ethical behavior within Agile teams, calling out problematic cultural practices and misunderstandings that undermine agility. While the audience is relevant (Agile/Scrum practitioners), and much of the content is topical for those audiences, the intent, alignment, and depth specifically regarding SLE are extremely low. No penalties are applied since the article is current and not antagonistic, but the confidence score remains extremely low due to the absence of any SLE discussion.",
     "level": "Ignored"
   }
 }

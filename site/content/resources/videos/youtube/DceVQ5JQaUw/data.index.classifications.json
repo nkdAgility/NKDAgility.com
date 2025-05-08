@@ -1341,7 +1341,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1473,15 +1473,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "DceVQ5JQaUw",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:23:48",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses the importance of dialogue and challenging assumptions in the context of agile consulting, which aligns with the principles of fostering engagement and psychological safety. However, it does not explicitly mention Liberating Structures or specific techniques associated with them. The focus is more on the role of consultants and the necessity of difficult conversations rather than on facilitation techniques or group dynamics as defined by Liberating Structures.",
+    "calculated_at": "2025-05-02T04:20:24",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the role of agile consultants and the importance of difficult conversations in driving transformation. However, it does not directly mention Liberating Structures or any specific facilitation techniques. The alignment is somewhat present as it touches on concepts of engagement and dialogue in teams, which are relevant to Liberating Structures, but lacks detail or examples of how these structures can be implemented. Thus, the overall focus on Liberating Structures is minimal and does not fulfill the classification criteria sufficiently.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1736,5 +1742,23 @@
     "final_score": 48.0,
     "reasoning": "The content discusses the role of agile consultants in facilitating change, focusing on the importance of dialogue and challenging the status quo. While it touches on principles of Agility and the importance of engagement, it lacks a broader discussion on the characteristics and governance of disciplines as a whole. Direct mentions of discipline-related concepts are present, but the content primarily emphasizes interpersonal dynamics and transformation rather than a systematic exploration of the Agile discipline itself.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "DceVQ5JQaUw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:57",
+    "ai_confidence": 4.32,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 3.3,
+    "ai_audience": 6.1,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the value of open dialogue and embracing difficult conversations with agile consultants to foster organizational transformation. There are no direct mentions of Service Level Expectation (SLE), nor is there an exploration of its definition, calculation, application, or role within Agile, Scrum, or Kanban frameworks. While the piece does address continuous improvement and the importance of challenging existing practices (concepts generally adjacent to Agile principles), it never references SLE terminology or closely related concepts such as cycle time with respect to probabilistic forecasting. The audience (agile practitioners, consultants, stakeholders) aligns broadly with those who might use SLEs, but the content is off-topic regarding the strict scope of Service Level Expectation. The main signal is relevant to transformation in agile, but not to SLE-specific concerns. Therefore, the confidence score is very low due to missing core alignment and explicit reference required by the classification.",
+    "level": "Ignored"
   }
 }

@@ -1314,7 +1314,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1709,5 +1709,23 @@
     "final_score": 42.0,
     "reasoning": "The content discusses the role of a Scrum Master and the importance of Scrum values and principles, which indirectly relates to the concept of capability in fostering team effectiveness. However, it primarily focuses on roles, responsibilities, and learning strategies rather than an in-depth exploration of systemic capabilities or their integration into the organizational culture. Therefore, while there are mentions of continuous learning and collaborative environments that contribute to capability development, the primary focus is on roles and practices rather than the enduring competencies that align with the Capability category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "nY4tmtGKO6I",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:36",
+    "ai_confidence": 4.83,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.4,
+    "ai_audience": 6.5,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "There are no direct mentions of Service Level Expectation (SLE) in the content. The text is focused on the perspective and practices of a Scrum Master guiding new teams, with emphasis on Scrum values, empiricism, continuous learning, team development, and the agile mindset. There is no discussion of SLE's definition, calculation, or application, nor references to cycle time data, elapsed time ranges, or probability—a necessary prerequisite. The closest aligned areas are the references to continuous improvement and predictability as generic principles, but these are high-level themes rather than direct or detailed treatises on SLE. The depth and conceptual alignment are minimal, as SLE is not introduced or analyzed. The audience is Scrum practitioners and teams, which does overlap with the intended audience for SLE guidance, but all relevant signals for the SLE category are otherwise absent. Therefore, the confidence score is extremely low and appropriate for clear non-fit.",
+    "level": "Ignored"
   }
 }

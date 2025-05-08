@@ -1371,7 +1371,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1766,5 +1766,23 @@
     "final_score": 52.0,
     "reasoning": "The content provides personal insights into a journey transitioning from traditional project management to Agile and DevOps, discussing the role of people and processes rather than tools. However, while it touches on themes related to capability, such as organizational issues and the empowerment of teams, it mainly focuses on personal experiences and the adoption of Agile and Scrum practices rather than a deeper exploration of 'Capacities' as enduring competencies within teams or organizations. The depth of discussion regarding capability is present but lacks the comprehensive strategic insight expected for a higher confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "4FTEJ4tDQqU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 5.21,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 2.0,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is a personal narrative describing a career journey from developer to Agile advocate, focusing broadly on experiences with Agile, Scrum, DevOps, and project management. At no point is Service Level Expectation (SLE) mentioned or alluded to, nor is there discussion of its definition, calculation, application, or relevance within Agile or Kanban. There is no exploration of SLE-related concepts such as cycle time probabilities, elapsed days, or guiding stakeholder expectations through SLE forecasts. The only alignment is tangential in referencing Agile, Scrum, and flow, but never at the level of granularity or specificity required for the Service Level Expectation category. The audience is practitioners in Agile, but with no SLE focus, so a minimal score is given for audience alignment. Signal-to-noise ratio is extremely low for SLE relevance, as the content is focused almost entirely on broader Agile and DevOps experiences. No penalties were applied since the content is not outdated or satirical; it is simply not relevant for the SLE category.",
+    "level": "Ignored"
   }
 }

@@ -1266,7 +1266,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1660,6 +1660,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses the role of the Scrum Master and the misconception of a 'junior Scrum Master,' focusing primarily on roles rather than capabilities. While it touches upon the importance of experience and competence, it does not delve into the broader characteristics of capabilities as defined in the category. The conversation is largely about roles and the skills required to fulfill them, rather than cultivating enduring organizational competencies or systemic capacity. This weak alignment results in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_Hd8NZeiwFA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:09",
+    "ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is focused exclusively on demystifying the concept of a 'junior Scrum Master' and explaining the qualifications and experience needed for the Scrum Master role. There is no direct or indirect mention of Service Level Expectation (SLE), its calculation, application, or relevance within Agile, Scrum, or Kanban practices. The core themes are professional development, team leadership, and Scrum Master competency. No SLE key topics are addressed, nor does the article reference delivery forecasting, cycle time, historical data analysis, or flow metrics relating to SLE. As the material does not touch upon the SLE category in any regard, all core dimension scores except audience/signal (which minimally reflect that this is at least tangentially in the Agile/Scrum practitioner sphere) are set to 0.",
     "level": "Ignored"
   }
 }

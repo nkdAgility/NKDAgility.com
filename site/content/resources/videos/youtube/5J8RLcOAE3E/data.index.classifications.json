@@ -1410,7 +1410,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:41",
     "ai_confidence": 62.0,
     "ai_mentions": 12,
@@ -1805,5 +1805,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses effective practices for continuous delivery but lacks a strong focus on enduring capabilities that are integrated and cultivated over time. While it touches on the need for adaptability and continuous improvement, it emphasizes specific practices rather than the broader competency development aligned with the capability category. Thus, it has moderate alignment and depth, but only brief mentions of capability-related concepts.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "5J8RLcOAE3E",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:29",
+    "ai_confidence": 5.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.9,
+    "ai_audience": 2.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content does not directly mention Service Level Expectation (SLE) or engage with its definition, calculation, or application within Agile, Scrum, or Kanban. The text discusses continuous delivery practices, audience-based delivery, testing in production, continuous improvement, and system resilience—but none of these are addressed in relation to SLE. There are references to teams (e.g., Microsoft Windows, Azure DevOps), improvement cycles, and delivery timelines, but these are described without reference to SLE or to flow metrics in that context. The content is well-targeted for practitioners in software delivery and improvement, which offers some minor audience alignment, but the primary focus is not on SLE, and signal-to-noise is low regarding the defined category. No penalties were needed as there are no outdated nor contradictory statements related to SLE, just a lack of relevant topic coverage. The final confidence score is extremely low, reflecting a near-total absence of direct or indirect association with Service Level Expectation.",
+    "level": "Ignored"
   }
 }

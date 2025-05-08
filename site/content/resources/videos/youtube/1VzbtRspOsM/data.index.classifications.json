@@ -1380,7 +1380,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1775,5 +1775,23 @@
     "final_score": 73.0,
     "reasoning": "The content discusses the concept of capabilities primarily through the lens of the PAL-E class, emphasizing how it helps aspiring agile leaders develop enduring leadership skills and foster agile thinking within their organizations. It mentions the challenges leaders face in implementing agile principles and details how practical assignments, peer feedback, and a collaborative learning environment can enhance these capabilities. While some content touches on roles and specific practices, the primary focus remains on developing systemic capabilities over time through immersive learning, aligning well with the capabilities category. However, there are brief mentions of isolated practices that could detract slightly from the depth of capability discussion.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "1VzbtRspOsM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:39",
+    "ai_confidence": 7.9,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.6,
+    "ai_audience": 3.4,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "There is no direct mention of Service Level Expectation (SLE) or its components (elapsed time range, probability, cycle time forecasts, etc.) in the content. The entire focus is on immersive learning for agile leadership development, with a practical, collaborative learning approach (PAL-E class). Although the content targets agile leaders (who would also be the audience for SLE discussions), it does not discuss SLE, flow metrics, or any explicitly related concepts. No detailed concepts or practices around SLE are referenced; discussion centers on delegation, accountability, and value delivery. Thus, while there is general conceptual adjacency to agile and Scrum practices, it falls far outside the strict category scope and directly fails the inclusion/exclusion criteria. All scores are minimal to reflect this, except 'audience,' which is slightly higher as the readership overlaps in community.",
+    "level": "Ignored"
   }
 }

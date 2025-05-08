@@ -1347,7 +1347,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:20",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1741,6 +1741,24 @@
     "non_ai_confidence": null,
     "final_score": 20.0,
     "reasoning": "The content provides a discussion on the Definition of Done, which relates to the Agile framework and emphasizes the importance of quality delivery. However, it primarily focuses on a specific artefact (the Definition of Done) rather than the broader concept of capabilities as an enduring competency. While it briefly touches on themes of team effectiveness and quality, it mostly discusses roles and processes without elaborating on how capabilities can be embedded or developed within organizations over time.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "APZNdMokZVo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:44",
+    "ai_confidence": 3.71,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 0.5,
+    "ai_audience": 4.3,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is focused entirely on the Definition of Done (DoD) in Agile/Scrum, discussing its importance for quality, transparency, risk mitigation, and effectiveness. There are zero direct mentions of Service Level Expectation (SLE), its calculation, or applications. The themes, examples, and structure relate only to DoD; SLE is not even indirectly referenced. Thus, the Direct Mentions score is near zero. Alignment and Depth are both very low, scoring only for the faint conceptual overlap with predictability/transparency principles—general Agile values that are not exclusive to SLE. The Intent/Purpose Fit is low because the main goal is to teach and advocate for strong DoDs, not SLEs. Audience Alignment and Signal-to-Noise are scored moderately since the audience could overlap (Agile practitioners), but the content does not diverge into off-topic tangents. No penalties are applied since the content is neither obsolete nor critical of SLE—it is simply off-topic. The extremely low overall confidence reflects the lack of any substantive or even passing reference to SLE, in complete accordance with the strict definition and exclusions for this category.",
     "level": "Ignored"
   }
 }

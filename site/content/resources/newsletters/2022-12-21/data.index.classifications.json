@@ -1305,7 +1305,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:28",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1712,6 +1712,24 @@
     "non_ai_confidence": null,
     "final_score": 15.0,
     "reasoning": "The content primarily focuses on promoting training classes and introducing new trainers, with insufficient emphasis on discussing capabilities as enduring competencies that contribute to value delivery. While there are mentions of skills improvement and community growth, these are not framed within the context of cultivating capabilities that align with organizational culture and processes. Therefore, it lacks depth in exploring how these elements enhance business agility or organizational performance.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Tx-0zZJ1biI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:07",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 1.0,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is an announcement for upcoming Scrum training classes and organizational updates for a training company. It describes trainers, training opportunities, a practitioners' community, and ways to join classes or access resources. Nowhere in the content is Service Level Expectation (SLE) mentioned, defined, or discussed, explicitly or implicitly. There is no discussion of SLE calculation, use in Agile/Kanban/Scrum, or any related cycle/flow time measures as per the category definition. The intent is to inform about offerings rather than provide SLE-related education or guidance. The only slight score for 'audience' and 'signal' reflects that the general audience (Agile/Scrum practitioners) would overlap, but no part of the content focuses on, or meaningfully addresses, SLE.",
     "level": "Ignored"
   }
 }

@@ -1362,7 +1362,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
@@ -1756,6 +1756,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content briefly discusses value-based prioritization, which relates to delivering value to stakeholders. However, it does not delve into the broader concept of capabilities within Agile or DevOps contexts, nor does it explore how prioritization contributes to enduring competencies or organizational capabilities. The focus on Scrum team roles and prioritization techniques detracts from a discussion centered on capability development, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "HzW0lKldLP9",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:46",
+    "ai_confidence": 4.92,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.1,
+    "ai_intent": 0.2,
+    "ai_audience": 6.5,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content titled 'Value-based Prioritization' focuses solely on prioritizing backlog items based on value delivery to stakeholders. There is no direct or indirect mention of Service Level Expectation (SLE), its calculation, definition, or application. The discussion is surface-level regarding value delivery and does not reference flow metrics, probabilities, or Agile/Kanban-specific SLE practices. Thus, direct mentions (0.0), alignment (0.3), depth (0.1), and intent (0.2) are extremely low as the content neither discusses nor aligns with SLE. The target audience (6.5) and signal-to-noise (6.9) scores reflect that while the content is relevant and focused for Agile teams or practitioners (the right audience for SLE), the actual content does not address SLE. No penalties are applied since there is no evidence of outdatedness or contradiction, just lack of relevance. Overall, the confidence score is extremely low and proportionate to the evidence.",
     "level": "Ignored"
   }
 }

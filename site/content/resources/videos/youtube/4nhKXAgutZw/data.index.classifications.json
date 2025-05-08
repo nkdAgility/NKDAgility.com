@@ -1362,7 +1362,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1757,5 +1757,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the importance of kindness in Agile, highlighting how compassion and empathy influence team and customer interactions. While it aligns with some Agile principles like customer collaboration and respect for people, it primarily focuses on kindness as a virtue rather than explicitly actionable principles from Agile, Lean, or DevOps frameworks. However, it does suggest practices that could be interpreted as related to principles, such as fostering communication and understanding within teams and with customers. The content engages deeply with these concepts but lacks a direct discussion of specific actionable principles defining decision-making and team behaviour.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "4nhKXAgutZw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:35",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.9,
+    "ai_audience": 3.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused on kindness, empathy, and psychological safety within Agile teams and customer interactions. There are zero direct mentions or references to Service Level Expectation (SLE), cycle time, flow metrics, or related predictive delivery topics. The conceptual alignment is extremely weak; while the article targets an Agile audience, it centers entirely on virtues, cultural values, and soft skills rather than metrics, forecasting, or any of the technical aspects that define SLE. The depth of discussion on SLE is entirely absent, with no discussion on its definition, purpose, calculation, or application. Since the main purpose is unrelated to SLE, intent and signal are very low. Audience is not a complete mismatch (since it's Agile practitioners), but the topic is off-scope with respect to SLE. No penalties apply as the content is not outdated, misleading, or critical of SLE—rather, it's simply irrelevant. Confidence is low since none of the category’s scoring criteria are substantially addressed.",
+    "level": "Ignored"
   }
 }

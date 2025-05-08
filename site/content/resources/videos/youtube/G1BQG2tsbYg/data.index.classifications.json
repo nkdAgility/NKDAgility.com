@@ -1389,7 +1389,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:41:39",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1784,5 +1784,23 @@
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of predictability in business through Agile principles extensively, highlighting key elements such as systems optimization, alignment of business goals, and the role of Agile methodologies in fostering adaptability and collaboration. While it mentions capabilities in relation to Agile, it primarily focuses on predictability and operational strategies rather than explicitly defining or exploring the concept of capability as a standalone topic. The depth of discussion about agile's role in performing capabilities and supporting change gives it a strong connection to the category, but the primary focus remains on achieving predictability rather than detailing capability as an enduring competency.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "G1BQG2tsbYg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:39",
+    "ai_confidence": 19.98,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.1,
+    "ai_intent": 3.6,
+    "ai_audience": 3.9,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content provides a broad discussion on how Agile principles can drive predictability in business environments, targeting both practitioners and business leaders. However, there are no explicit or implicit references to Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban frameworks. The article does not mention related SLE practices, such as forecasting cycle time with probabilistic ranges, SLE transparency, calculation methods, or using SLE for process improvement or stakeholder communication. Although there is a strong emphasis on predictability and Agile concepts, these discussions remain high-level and conceptual—without delving into process metrics, flow metrics, or advanced predictability mechanisms like SLE. The alignment, depth, and signal-to-noise scores are modest due to the generic focus on predictability and process improvement, but with no direct or substantial exploration of SLE or associated methodologies. No penalties were applied as the content does not contradict, satirize, or present outdated or counter-expert perspectives, but it falls outside the strict thematic focus for the SLE category.",
+    "level": "Ignored"
   }
 }

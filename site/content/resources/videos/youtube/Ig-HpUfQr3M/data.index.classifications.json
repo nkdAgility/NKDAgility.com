@@ -1398,7 +1398,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1793,5 +1793,23 @@
     "final_score": 55.0,
     "reasoning": "The content discusses hypothesis-driven engineering, which implies a capability to conduct experiments and adapt based on outcomes. However, it primarily focuses on specific practices and examples rather than a deep exploration of capabilities as enduring competencies integrated into organizational culture. While it relates to decision-making and learning, it lacks the broader strategic development of capabilities across teams and organizations.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Ig-HpUfQr3M",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:29",
+    "ai_confidence": 2.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 2.1,
+    "ai_intent": 2.3,
+    "ai_audience": 4.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on hypothesis-driven engineering and value-focused product investment strategy, with no direct mention or reference to Service Level Expectation (SLE). There is no discussion of SLE components—elapsed time range, probability, or forecasting delivery using SLE principles. The main ideas revolve around experimentation, ROI, and minimising waste, aligning with Lean and Agile philosophies, but none explicitly touch on the calculation, application, or transparency of SLEs as defined in the category. The content targets Agile and product leaders (reasonably aligned with the SLE audience), and is on-topic for Agile practice more broadly, but signal-to-noise for SLE is very low: even indirect alignment (e.g., predictability of delivery, flow forecasting) is absent. Therefore, there is no basis for a higher confidence score. No penalties were required, as the tone is positive and content is not outdated, but the category fit is minimal overall.",
+    "level": "Ignored"
   }
 }

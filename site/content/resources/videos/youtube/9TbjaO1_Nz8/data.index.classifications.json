@@ -264,12 +264,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "9TbjaO1_Nz8",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T07:25:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses product management and leadership for entrepreneurs, lacking a clear focus on accountability as defined in Agile contexts.",
+    "calculated_at": "2025-05-02T04:20:41",
+    "ai_confidence": 3.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 12,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses the PSPO course and its importance for product management, emphasizing value delivery and communication of vision. However, it primarily focuses on the role of the entrepreneur and general product management principles rather than specifically addressing accountability as a mechanism in work systems. The mentions of roles (like Product Owner) are present but do not delve deeply into their accountabilities in the context described for this category. Overall, while relevant concepts are briefly touched upon, the lack of detailed exploration of accountability frameworks leads to a lower confidence score.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1368,7 +1377,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1500,15 +1509,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "9TbjaO1_Nz8",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:06:56",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:39",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on product management and the importance of value in startups, with no direct mention of Liberating Structures or their techniques. While it discusses communication and team dynamics, it does not align with the core themes of Liberating Structures, which are facilitation techniques aimed at enhancing participation and collaboration. The depth of discussion is also limited to product management principles rather than exploring any specific Liberating Structures methods or their applications.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses on product management and the benefits of the PSPO course for entrepreneurs. It briefly touches on engaging with teams and customers but does not mention specific Liberating Structures or facilitation techniques. The absence of directly applicable methods and the overall emphasis on general product management principles leads to a low alignment with the Liberating Structures category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1762,6 +1777,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses product management and emphasizes the importance of value, which relates to professional practices. However, it focuses primarily on practical advice for entrepreneurs without deeply exploring the principles or methodologies that characterize a discipline. The explicit mentions of Scrum and the PSPO course indicate some connection to the Agile discipline, but the primary focus is more on entrepreneurship and product management strategies rather than a systematic exploration of discipline itself.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "9TbjaO1_Nz8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:56",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 2.1,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses entirely on product management and value—core PSPO concepts—without mentioning Service Level Expectation (SLE) or anything related, such as predicting delivery times, cycle time analysis, or transparency via SLE metrics. No part of the content addresses SLE definition, calculation, purpose, or practice. While the audience (startup founders interested in Scrum) might overlap, the content does not mention or imply SLE in any way. Minor scores reflect the broad audience match and a single brief mention of 'agile' and 'scrum' in an invitation to connect, but nothing in substance; hence all major dimensions are close to zero. There is no outdated or contradictory material, so no penalties apply. Final confidence is extremely low to reflect nearly nonexistent SLE relevance.",
     "level": "Ignored"
   }
 }

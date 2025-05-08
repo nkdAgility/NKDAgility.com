@@ -1377,7 +1377,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:03",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1771,6 +1771,24 @@
     "non_ai_confidence": null,
     "final_score": 30.0,
     "reasoning": "The content focuses primarily on various training classes and workshops rather than discussing capabilities in a meaningful or systemic way. While some elements, like 'Evidence Based Management', hint at improving organizational capabilities, the overall emphasis is more on specific training offerings and roles within Agile frameworks, lacking in-depth exploration of capabilities as enduring competencies.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "hz-iCoxHxxa",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:14",
+    "ai_confidence": 2.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.9,
+    "ai_audience": 4.2,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is a promotional announcement for a series of Agile and Scrum training classes, highlighting topics like Agile Kata, facilitation, backlog management, evidence-based management, and other Agile practices. Nowhere in the text is Service Level Expectation (SLE) explicitly named or referenced. There is also no discussion, definition, application, or analysis of SLE concepts within the content. The closest related concepts—such as empirical management, experimentation, and continuous improvement—are discussed at a high level, but there is no direct or indirect address of the calculation, usage, or importance of SLE in Kanban, Scrum, or Agile frameworks. The content mainly targets practitioners (e.g., Scrum Masters, Product Owners) but is only relevant to SLE as far as their general interest in Agile; nothing is focused on SLE itself. Most of the content is about logistical details, course features, and promotional calls to action. Scoring reflects a near-complete lack of direct mention, conceptual alignment, or depth related to SLE, with only the audience aspect scoring higher due to the general Agile practitioner focus. No penalties applied, as the content is current and not contradictory.",
     "level": "Ignored"
   }
 }

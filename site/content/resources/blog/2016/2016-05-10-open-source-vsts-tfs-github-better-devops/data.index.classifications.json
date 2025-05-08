@@ -1329,7 +1329,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:51",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1736,6 +1736,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the technical implementation of synchronizing code between VSTS and GitHub. While it mentions the use of VSTS 'capabilities,' the discussion is largely centered on specific tools and techniques rather than a deeper exploration of enduring competencies or strategies for developing capabilities within teams or organizations. The alignment with the category of Capability is tenuous, as it mainly highlights configurations and practices without addressing how they contribute to sustainable organizational capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "LWHiaHn3CWF",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:10",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.1,
+    "ai_intent": 0.1,
+    "ai_audience": 0.5,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "Throughout the provided content, there is no direct or indirect mention of 'Service Level Expectation' (SLE) or any of its core components as defined in the given classification. The material focuses strictly on the technical steps for synchronizing code between VSTS (now Azure DevOps), TFS, and GitHub, including automation and configuration tips. No section discusses SLE concepts such as forecasting elapsed work item time, probability ranges, predictability, or transparency of delivery timelines. The terminology, workflow topics, and practical advice are about setting up DevOps tooling for code synchronization, not Agile flow metrics. The only minor potential overlap is a passing mention of 'agile practices,' but this is generic and does not touch SLE as a discipline, calculation, or concern. The audience is technical (DevOps/agile practitioners), but the content does not address their SLE-related needs at all. Therefore, all relevant dimensions (mentions, alignment, depth, intent, signal) score near zero, with a slightly higher audience alignment as a technical post. The final confidence (0.2) accurately reflects an almost total absence of relevant signal.",
     "level": "Ignored"
   }
 }

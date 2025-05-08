@@ -108,12 +108,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "WVNiLx3QHLg",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content discusses competence-based hierarchies and leadership, with no direct focus on accountability, team dynamics, or Agile principles related to ownership and responsibility.",
+    "calculated_at": "2025-05-02T04:20:44",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content primarily focuses on competence-based hierarchies in decision-making and leadership rather than directly discussing accountability in work systems. While it mentions roles such as Scrum Master and Product Owner, it does not delve into defined accountabilities or how they influence performance and delivery. The concepts related to empowering teams and deferring to competence could loosely tie to accountability, but the primary focus remains on personal development and leadership without a clear emphasis on outcome ownership.",
     "level": "Ignored"
   },
   "Windows": {
@@ -903,12 +912,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "WVNiLx3QHLg",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:21:31",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "The content primarily discusses competence-based hierarchies in leadership and decision-making, with no explicit focus on Agile, Scrum, or DevOps strategies.",
+    "calculated_at": "2025-05-02T04:20:40",
+    "ai_confidence": 5.0,
+    "ai_mentions": 8,
+    "ai_alignment": 26,
+    "ai_depth": 14,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 5.0,
+    "reasoning": "The content discusses the concept of competence-based hierarchies, emphasizing how deferring to competence can enhance decision-making within teams, which relates to strategic leadership and alignment with organizational goals. However, it primarily focuses on the operational aspect of leveraging expertise rather than explicitly discussing strategic frameworks or high-level alignment with overarching objectives, which limits its overall strategic depth.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1317,7 +1335,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:12",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1449,15 +1467,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "WVNiLx3QHLg",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:19:58",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses competence-based hierarchies and leadership approaches rather than Liberating Structures. While it touches on themes of empowerment and decision-making, it does not explicitly mention any Liberating Structures techniques or principles. The focus is more on hierarchical competence rather than inclusive engagement or facilitation methods, leading to a low confidence score.",
+    "calculated_at": "2025-05-02T04:20:18",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.05,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses on competence-based hierarchies and leadership without specifically discussing Liberating Structures or their applications. While it mentions Agile and Scrum, it does not delve into the facilitation methods or the interactive techniques characteristic of Liberating Structures, leading to low relevance and alignment with the category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1712,5 +1736,23 @@
     "final_score": 52.0,
     "reasoning": "The content discusses competence-based hierarchies, which aligns with principles of Agile and team empowerment, a core theme in the Discipline category. However, it lacks a direct focus on structured methodologies or standards characteristic of a discipline, leading to a moderate confidence score. The mention of Agile is brief, serving as a contextual backdrop rather than a focal point. Thus, the depth of discussion around the core themes is limited.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "WVNiLx3QHLg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 2.3,
+    "ai_audience": 3.0,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "There are no direct mentions or references to Service Level Expectation (SLE) or its defining components (elapsed time range, probability, cycle time forecast) anywhere in the content. The piece revolves around the benefits of competence-based hierarchies within teams, especially in Agile and Scrum contexts, but never relates those themes to SLE or its calculation, intent, or usage. None of the SLE-specific key topics are addressed; discussion remains entirely on leadership, decision-making, and team dynamics. While the post targets an Agile/Scrum audience, the signal-to-noise ratio is low for SLE relevance because #Agile and #Scrum are used as hashtags rather than as a support for SLE-related discourse. Therefore, confidence is extremely low for this content fitting under 'Service Level Expectation.'",
+    "level": "Ignored"
   }
 }

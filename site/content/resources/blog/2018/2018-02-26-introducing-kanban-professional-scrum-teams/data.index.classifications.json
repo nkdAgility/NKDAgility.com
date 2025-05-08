@@ -1341,7 +1341,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1748,6 +1748,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses the integration of Kanban within the Scrum framework, focusing heavily on roles, training, and individual practices rather than systemic capabilities that enhance organizational performance over time. While it mentions some aspects aligned with the 'Capability' category, such as flow efficiency and metrics, these are presented within the context of specific training and tools rather than as enduring organizational competencies. Therefore, the confidence score reflects a low but noticeable alignment with the capability focus.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "CucU7DN-fJ7",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:16",
+    "ai_confidence": 14.58,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.2,
+    "ai_intent": 1.6,
+    "ai_audience": 7.2,
+    "ai_signal": 9.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses the integration of Kanban practices into Scrum and the availability of a related training class. Key Kanban and Scrum concepts are addressed, with discussion of metrics such as WIP, Cycle Time, and Throughput, but there is no explicit mention of Service Level Expectation (SLE). The closest related topics are cycle time and flow, but SLE itself, as strictly defined in the classification (forecasting completion time with probability), is not touched upon. There is no discussion of establishing, calculating, or applying SLEs, nor is there mention of their purpose or role within Agile, Scrum, or Kanban frameworks. While Daniel Vacanti—a prominent expert associated with SLE—is referenced, this connection remains indirect. The intended audience (practitioners interested in Kanban, Scrum, and related training) aligns broadly with the SLE category, but the content’s main topics and depth are insufficient for a higher score. Most of the content’s signal is on actionable Kanban/Scrum practices and training, not SLE.",
     "level": "Ignored"
   }
 }

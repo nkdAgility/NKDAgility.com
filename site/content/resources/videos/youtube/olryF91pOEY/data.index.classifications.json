@@ -1365,7 +1365,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1760,5 +1760,23 @@
     "final_score": 47.0,
     "reasoning": "The content discusses the benefits of running an Applying Professional Scrum workshop, which could enhance team effectiveness and contribute to building capabilities within an organization. However, it primarily focuses on workshops as tools rather than the enduring competencies themselves. While there are mentions of collective learning and the transformation of team dynamics, the discussion remains primarily focused on the workshop format rather than explicitly outlining how these contribute to long-term, sustainable capabilities. Therefore, the direct mentions and alignment with the core themes of Capability are limited, and the depth of discussion is not fully focused on the concept of capability in the context of Agile and DevOps.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "olryF91pOEY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 2.85,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.5,
+    "ai_depth": 0.9,
+    "ai_intent": 3.3,
+    "ai_audience": 8.0,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is focused entirely on the value and experience of attending an Applying Professional Scrum workshop. There are in-depth discussions about organizational learning, agile principles, the benefits of collective team exercises, and improving Scrum practice adoption. However, nowhere does the article mention or allude to Service Level Expectation (SLE), its calculation, usage, or conceptual role within Agile, Scrum, or Kanban. There are no direct or indirect references to cycle time forecasting, time/probability ranges, or metrics-based service expectations, nor is there mention of SLE-related terms or scenarios such as transparency for stakeholders on delivery timelines. The article's intent is skill alignment and general Scrum adoption, not the exploration or advancement of SLE concepts. The only overlaps are at a very generic level (overall Scrum/Agile improvement, continuous learning). Therefore, except for the target audience alignment (Agile practitioners), all scores are low, especially for mentions and depth. No penalties are needed, as the content is modern and not critical of SLE, but its confidence as SLE-related content is extremely low.",
+    "level": "Ignored"
   }
 }

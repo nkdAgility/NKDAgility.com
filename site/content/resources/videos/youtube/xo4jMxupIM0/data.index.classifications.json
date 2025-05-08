@@ -1371,7 +1371,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:19",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1766,5 +1766,23 @@
     "final_score": 45.0,
     "reasoning": "The content discusses the concept of double-loop learning and its application in the context of Scrum, emphasizing the importance of reflection, collaboration, and continuous improvement, which aligns with the idea of developing capabilities. However, it primarily focuses on Scrum roles and practices, rather than providing a broader perspective on enduring competencies or systemic improvement. This alignment is present but not the primary focus, leading to a mid-range confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "xo4jMxupIM0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:38",
+    "ai_confidence": 4.94,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 1.3,
+    "ai_intent": 0.3,
+    "ai_audience": 0.1,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "This content focuses on the value of double-loop learning for Scrum Masters, emphasizing immersive learning, collaboration, and iterative improvement in Scrum practices. There is no mention—explicit or implicit—of Service Level Expectation (SLE), nor are related concepts such as cycle time, flow metrics, or delivery forecast intervals discussed in the context of Agile metrics. Key phrases and examples all relate to learning processes, assumption-challenging, and group dynamics, with no references to the definition, calculation, or use of SLE in Scrum or Kanban. Thus, the alignment, depth, and relevance scores are extremely low and proportionate to the negligible connection to the SLE category, per the strict classification scope.",
+    "level": "Ignored"
   }
 }

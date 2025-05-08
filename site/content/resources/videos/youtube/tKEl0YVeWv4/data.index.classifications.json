@@ -1368,7 +1368,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:41",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
@@ -1762,6 +1762,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses automation in software development, focusing on its critical role in enhancing efficiency, which aligns with capabilities to some extent. However, the primary focus on automation as a tool rather than an enduring capability means it lacks the depth and systemic perspective required by the Capability category. It mentions the necessity of automation and its impact but does not delve into the characteristics or strategies for building long-term organizational capabilities or how these relate to Agile or DevOps principles in a substantial way.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "tKEl0YVeWv4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:32",
+    "ai_confidence": 3.3,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.4,
+    "ai_audience": 0.8,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "This content is entirely about the benefits of automation in software development, emphasizing automated deployments, error reduction, and rapid delivery. At no point does it explicitly mention Service Level Expectation (SLE), nor does it discuss SLE concepts such as forecasting cycle time, establishing elapsed time ranges with probabilities, or using SLE for transparency or predictability within Agile, Scrum, or Kanban frameworks. There are some indirect, surface-level alignments in terms of improving speed and predictability, but these are presented through the lens of automation and not SLE. The audience is likely practitioners or technical leaders, partially matching SLE's audience, but the content focus is misaligned. No penalties were required, and the very low score reflects the overwhelming lack of fit with the strict SLE category definition.",
     "level": "Ignored"
   }
 }

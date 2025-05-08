@@ -1326,7 +1326,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1734,5 +1734,23 @@
     "final_score": 55.0,
     "reasoning": "The content emphasizes the concept of evolving organizations and embracing change through continuous experimentation, which aligns with the theme of cultivating capabilities. However, while it discusses agility and the need for organizations to adapt, it does so in a way that is more focused on the journey and philosophy rather than providing specific strategies or deep insights into developing and embedding enduring capabilities, leading to a moderate score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:11",
+    "ai_confidence": 6.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.6,
+    "ai_intent": 1.1,
+    "ai_audience": 2.2,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is a high-level, motivational essay about embracing change and evolving management practices in organizations, particularly via agile/experimentation thinking. There are no direct mentions of Service Level Expectation (SLE) in the text ('mentions' = 0.0). Conceptually, while agile and Scrum are referenced, there is no discussion aligned to SLE's explicit meaning: the concept, its calculation, its Kanban/Scrum/Kanban Guide context, or use of historical cycle time, elapsed time with probability, etc. ('alignment' = 1.0). Similarly, the depth is minimal regarding SLE; all references are generic agile practices and change management, with no substantial exploration of service level forecasting, metrics, or SLE topics ('depth' = 0.6). The author’s intent is to encourage change and modern leadership, but none of this is in the service of teaching, applying, or exploring SLE ('intent' = 1.1). The audience may include agile practitioners, and while that overlaps with the potential audience for SLE discussions, this content is not targeting teams focused on flow, metrics, or predictability specifically ('audience' = 2.2). The signal-to-noise score reflects some relevance to modern agile management but is mostly off-topic for SLE ('signal' = 1.8). No penalties are applied as the content is current and not critical, just irrelevant. Each dimension is scored to reflect the extremely low but not impossible chance that some broad agile practitioners might extrapolate towards SLE concerns, although that is not present in the text.",
+    "level": "Ignored"
   }
 }

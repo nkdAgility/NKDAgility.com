@@ -1374,7 +1374,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:46:28",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1769,5 +1769,23 @@
     "final_score": 45.0,
     "reasoning": "While the content discusses the importance of visualization, it primarily focuses on practical tools and methods rather than the enduring competencies that underpin capability. Visualization is presented as a technique rather than a cultivated capability within an organization. The discussion on alignment is relevant but is overshadowed by the emphasis on tools and specific practices, which don't fully embody the concept of Capability as defined.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "SLZmpwEWxD4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:07",
+    "ai_confidence": 17.94,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.1,
+    "ai_intent": 2.0,
+    "ai_audience": 7.3,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "This content thoroughly discusses the visualization of work and the establishment of Kanban practices, emphasizing alignment, clarity, and the value of visualization tools like Azure DevOps and Jira. However, there is no explicit or implicit discussion of Service Level Expectation (SLE). The closest related topic is a brief mention of 'flow metrics,' but these are referenced only in a general context and not in connection with SLE or its definition, calculation, or application. There are no references to forecasts, elapsed time ranges with probabilities, or to SLE-specific usage as articulated in the classification criteria. The intent is to inform practitioners about Kanban visualization and workflow alignment, not SLE development or analysis. The target audience (technical/practitioner) is reasonably aligned with the SLE category, but the actual content focus falls outside the SLE scope. There are no penalties required since the content is neither outdated nor critical of the category. Low scores on 'mentions', 'alignment', 'depth', 'intent', and 'signal', and a moderately high score on 'audience' yield a low overall confidence score, which is proportionate to the evidence.",
+    "level": "Ignored"
   }
 }

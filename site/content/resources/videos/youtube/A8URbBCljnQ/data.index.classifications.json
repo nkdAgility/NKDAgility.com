@@ -1356,7 +1356,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1763,6 +1763,24 @@
     "non_ai_confidence": null,
     "final_score": 40.0,
     "reasoning": "The content touches on aspects of team dynamics and the delivery of value, which are relevant to the concept of capability. However, it primarily focuses on practices related to remote work, team communication, and integration of UX, rather than a deep exploration of enduring competencies or strategies for embedding capabilities within organizations. The discussion lacks a thorough evaluation of how these elements contribute to the overall capability framework in Agile contexts.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "A8URbBCljnQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:15",
+    "ai_confidence": 2.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.2,
+    "ai_intent": 0.1,
+    "ai_audience": 0.7,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "There are no direct mentions of Service Level Expectation (SLE) in the content, nor are its components—cycle time ranges, probability percentages, or references to SLE calculation—present. Themes such as Agile, Scrum, collaboration, value delivery, and process improvement are discussed, but not in the specific context of SLE or its application within Agile, Scrum, or Kanban frameworks. Depth of discussion is surface-level with regard to SLE, as the concept is not even alluded to indirectly. The intent is focused on remote work, team dynamics, gamification, and UX integration. The audience is Agile practitioners, but the signal-to-noise ratio is low for SLE due to lack of relevance. No penalties are applied as there is no outdated information or contradictory tone. The resulting confidence score is low and correctly reflects the almost total absence of alignment with the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

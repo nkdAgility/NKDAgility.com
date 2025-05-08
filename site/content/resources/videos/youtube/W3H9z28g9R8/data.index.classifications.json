@@ -1383,7 +1383,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1778,5 +1778,23 @@
     "final_score": 62.0,
     "reasoning": "The content primarily discusses the challenges faced by Agile organizations due to resource scarcity, using the metaphor of famine. It emphasizes the need for empowerment, trust, and strategies to overcome these challenges, which are indirectly linked to developing capabilities within teams. There are explicit mentions of strategies for empowerment and fostering an environment of trust, which align with enhancing capabilities. However, the discussion focuses more on the struggles (like lack of resources) rather than the capabilities themselves, and it doesn't deeply explore how to measure or assess these capabilities. Thus, while there is notable relevance and alignment, the depth of discussion on true 'capabilities' falls short of being fully aligned with the category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "W3H9z28g9R8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:42",
+    "ai_confidence": 7.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 2.1,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on the metaphor of 'famine' in Agile organizations—primarily resource scarcity (tools, trust, training, financial support)—and its effects on teams. Nowhere does it mention, define, or apply Service Level Expectation (SLE), nor does it reference the concept, its calculation, or its use within Agile, Scrum, or Kanban. The main themes concern organizational empowerment, budget flexibility, team trust, and resource allocation. There are general nods to predictability and continuous improvement in an abstract sense, but not specifically tied to SLE. The audience is Agile practitioners, overlapping with SLE's intended audience, but the topic is entirely unrelated to SLE. No penalties were applied as the tone and sources are neither outdated nor contradictory—the content is simply off-topic for Service Level Expectation. Thus, confidence is extremely low and appropriately reflects minimal (almost nonexistent) alignment with the category definition.",
+    "level": "Ignored"
   }
 }

@@ -1323,7 +1323,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:46:55",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1717,6 +1717,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on specific practices related to managing workflow in Kanban, such as monitoring WIP and preventing bottlenecks. While the importance of active management is discussed, the core of the content is centered around transient techniques rather than building enduring capabilities. It lacks comprehensive discussion on how these practices integrate into an organizational culture or contribute to sustainable capabilities, which are central to the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "u56sOCe6G0A",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:07",
+    "ai_confidence": 5.73,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 0.7,
+    "ai_audience": 1.0,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content provides a practical guide to active workflow management in Kanban, focusing on topics such as monitoring Work in Progress (WIP), identifying aging and blocked work items, preventing bottlenecks, and optimizing flow. However, there are no direct references to Service Level Expectation (SLE), its definition, calculation, application, or improvement as outlined in the category definition. None of the key SLE-related terminology (elapsed time range, probability, forecasting delivery, transparency for stakeholders, etc.) or authoritative sources are mentioned. The alignment and depth scores are low because, while concepts such as active management and workflow optimization are tangentially related to SLE as they support general Kanban maturity, the core topic—SLE as a time-based performance forecast—does not appear. The intended audience (Kanban practitioners) is somewhat aligned, but the signal-to-noise ratio is modest since the content is focused on general Kanban practices rather than the specifics of SLE. No penalties are applied as the content is not outdated nor does it contradict the category, but the lack of SLE-specific substance keeps all scores firmly in the low range. The confidence score is proportionate, reflecting a near-total absence of SLE relevance beyond implicit support for healthy flow.",
     "level": "Ignored"
   }
 }

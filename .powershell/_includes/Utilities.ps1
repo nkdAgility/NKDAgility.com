@@ -20,4 +20,10 @@ function ConvertTo-CamelCase {
     return $camelCase
 }
 
+function Convert-UnixTimestamp {
+    param([long]$Timestamp)
+    return ([datetime]'1970-01-01 00:00:00Z').AddSeconds($Timestamp)
+}
+
+
 Write-Debug "Utilities.ps1 loaded"

@@ -1380,7 +1380,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1775,5 +1775,23 @@
     "final_score": 67.0,
     "reasoning": "The content provides a comprehensive examination of the Nexus framework, which builds directly upon the principles of Scrum. It explains how Nexus integrates disciplines of Agile and Scrum practices for scaling and managing multiple teams effectively, which is central to discussions about discipline. The depth of discussion on accountabilities, events, and artifacts shows significant alignment with the evolution of these practices as they apply to organizational performance. However, while the content aligns well with the category, it occasionally delves into practical applications without enough focus on the broader principles that govern these methodologies, preventing it from achieving a perfect score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "iC8MlA3TE7S",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:43",
+    "ai_confidence": 2.43,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.9,
+    "ai_depth": 1.3,
+    "ai_intent": 0.6,
+    "ai_audience": 5.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content, the 'Nexus Guide,' discusses the purpose, structure, events, and artifacts of the Nexus framework for scaling Scrum. Nowhere does it directly mention 'Service Level Expectation' (SLE), nor does it address SLE-related concepts such as calculating or applying SLE, forecasting cycle times with a probability, or managing predictability via SLE. While the content does reference topics about transparency, Sprint lengths, and flow, these are discussed only in the context of Nexus and Scrum processes, not in relation to SLE. There is no discussion or calculation of forecasted delivery timelines as a probability-based range, which is core to SLE. The ideas, depth, and intent are heavily tilted toward guiding teams on Nexus use, not SLE application or education. The audience is partially relevant (Scrum/Agile practitioners), but since SLE is completely omitted, the match is minor and only because both topics target similar roles. The signal-to-noise ratio is very low for the SLE category, as virtually none of the content addresses it. Confidence is extremely low, just above zero, only acknowledging distant contextual overlap in audience, but no substantive relevance to Service Level Expectation.",
+    "level": "Ignored"
   }
 }

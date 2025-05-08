@@ -1362,7 +1362,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1756,6 +1756,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses the myth of governance in Scrum but mainly focuses on roles and frameworks within Scrum rather than directly addressing capabilities. While it touches on the importance of governance in product development, it does not convey enduring competencies or strategies for developing capabilities within teams. The content's emphasis is more on the practical aspects of governance rather than cultivating systemic capabilities, leading to a lower alignment and depth of discussion regarding capability as defined in the category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:46",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 1.0,
+    "ai_audience": 0.3,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.5,
+    "ai_penalty_details": "Mentions (-0.3): No direct or indirect reference to SLE. Alignment (-0.2): Slightly penalized for focusing solely on governance rather than workflow or predictability concepts aligned with SLE. Depth (-0.3): Deducted due to complete absence of discussion on SLE calculation, use, or improvement. Audience (-0.2): Target audience is Agile practitioners, but content relevance for SLE-focused audience is minimal. Signal (-0.5): Nearly all content is off-topic in regards to SLE; high ratio of unrelated governance-focused material.",
+    "final_score": 4.0,
+    "reasoning": "The content is a myth-busting article addressing governance misconceptions in Scrum. At no point is Service Level Expectation (SLE) mentioned, referenced, or alluded to either explicitly or through discussion of related concepts (forecasting throughput, cycle time analysis, or predictability in work item completion). The central themes revolve around compliance, regulatory standards, organizational policies, and balancing these with Scrum's Agile principles. None of the key SLE topics or exclusions (such as SLA focus or generic cycle/lead time topics) are addressed; the discussion is consistently anchored in governance. The intent, depth, and audience are not misaligned with Agile practitioners, but strong divergence from the SLE scope leads to very low scores across all dimensions. Penalties were applied for lack of mention, depth, and significant off-topic content. The resulting confidence score properly reflects an essentially irrelevant classification for the SLE category.",
     "level": "Ignored"
   }
 }

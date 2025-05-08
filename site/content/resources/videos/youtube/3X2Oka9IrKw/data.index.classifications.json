@@ -1632,7 +1632,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -2027,5 +2027,23 @@
     "final_score": 72.0,
     "reasoning": "The content discusses the need to balance scaling teams with maintaining innovation and agility. It explains how embedding adaptability into the organization aligns with capability development. While it does not focus specifically on defining capabilities or providing examples from Agile or DevOps frameworks, it emphasizes fostering a culture that supports capabilities through empowerment, streamlined processes, and enhanced communication. Overall, the content fits well within the capability discussion by exploring systemic issues and approaches rather than just isolated practices.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "3X2Oka9IrKw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:05",
+    "ai_confidence": 6.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.3,
+    "ai_intent": 1.6,
+    "ai_audience": 0.9,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses team scaling and maintaining agility without succumbing to bureaucracy. It emphasizes empowering teams, streamlining processes, and enhancing communication to foster innovation during growth. Nowhere does the content directly mention Service Level Expectation (SLE), nor does it explore concepts that are exclusive to SLE, such as forecasting cycle time with a probability, making predictions transparent, or referencing SLE-related literature. While there is a very general thematic overlap around agility and reducing bottlenecks, these are broad agile principles that do not pertain specifically to SLE’s definition, calculation, or application. Audience alignment is only loosely related, since both target agile practitioners, but the angle is generalized and not aimed at those explicitly concerned with SLEs. Signal-to-noise ratio is low for the SLE category since nearly all the content is about agility at scale, not service level predictions or expectations. No penalties were needed, as the content isn't outdated nor does it contradict the category. Overall, this content is almost wholly unrelated to 'Service Level Expectation' per the strict classification, resulting in a very low confidence score.",
+    "level": "Ignored"
   }
 }

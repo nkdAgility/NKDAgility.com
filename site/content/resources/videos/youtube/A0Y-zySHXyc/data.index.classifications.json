@@ -1368,7 +1368,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1762,6 +1762,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses issues related to accountability and collaboration between developers and Product Owners, which touches on the importance of these aspects in enabling effective teamwork. However, it falls short of providing a clear focus on cultivating enduring capabilities within teams or organizations. The primary discussions revolve around roles and interpersonal dynamics rather than systemic capability development. While accountability and ownership are mentioned, they are not elaborated upon in a way that aligns with long-term capability cultivation.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "A0Y-zySHXyc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:47",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 1.1,
+    "ai_audience": 1.9,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) at all, nor does it discuss concepts like cycle time ranges, probability, SLE calculations, or any of the associated SLE best practices outlined in the definition. Its main focus is on the relationship dynamics, authority, and accountability between developers and Product Owners, with recommendations for improving respect and communication. There is no content about forecasting delivery timeframes, using historical data, or Kanban/Scrum flow metrics as required for SLE classification. Some terms like 'transparency' and 'ownership' are loosely related to agile best practices in general, but there is no conceptual or direct alignment with SLE. As such, all scores are extremely low, with the highest scoring dimensions being signal and audience due to some overlap with an Agile practitioner audience, but this is still tangential. There are no penalties for outdated or critical tone. The final confidence reflects near-zero likelihood that this content fits the SLE category.",
     "level": "Ignored"
   }
 }

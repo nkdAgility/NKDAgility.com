@@ -1353,7 +1353,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 62.0,
     "ai_mentions": 15.0,
@@ -1760,6 +1760,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content provides some indirect references to improving the speed of delivering value through a Definition of Done (DoD) in Scrum. While it mentions the importance of producing working software within set periods (e.g., every 30 days) and touches on quality measures that could impact delivery speed, it does not focus on Time to Market as a primary theme. Consequently, the discussion lacks a detailed exploration of metrics or specific strategies for improving Time to Market, leading to a low confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "z18IcQhlD7I",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:04",
+    "ai_confidence": 2.55,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 3.7,
+    "ai_intent": 2.6,
+    "ai_audience": 3.3,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is entirely focused on Definition of Done (DoD) practices in Scrum, with no explicit or implicit reference to Service Level Expectation (SLE) or its core concepts. There are no direct mentions of SLE or any related terminology. Conceptual alignment is very weak: while the post addresses predictability and quality in Scrum, it does so exclusively from the lens of DoD standards, not service forecasting or probability-based timeframes. Depth of discussion is moderate overall, but the explored topic is DoD rather than SLE. The intent is purely to inform and guide practitioners on establishing an effective DoD, not on cycle time or SLE calculations. While the audience overlaps with SLE's (Scrum practitioners), this is only tangential. Signal-to-noise ratio is decent, in that the content is focused—but not focused on SLE at all. No penalties were needed as the post is neither outdated nor antagonistic to SLE, but it is thoroughly out-of-scope. Confidence is very low, reflecting only a minimal incidental overlap in Agile delivery concerns (e.g., transparency, predictability), but not in a way that relates specifically to SLE.",
     "level": "Ignored"
   }
 }

@@ -252,12 +252,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "cR4D4qQe9ps",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T07:25:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of understanding the Scrum Guide for new Scrum Masters, but does not focus on accountability in team dynamics or ownership within Agile methodologies.",
+    "calculated_at": "2025-05-02T04:20:18",
+    "ai_confidence": 4.0,
+    "ai_mentions": 10,
+    "ai_alignment": 28,
+    "ai_depth": 25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "While the content primarily focuses on the role of the Scrum Master and emphasizes the importance of understanding the Scrum Guide, it does not strongly address accountability as a foundational mechanism in modern work systems. Instead, it leans more towards personal development and task orientation (reading the Scrum Guide) without explicitly discussing the ownership of outcomes. The mention of the Scrum Master's role and the need to empower the team does hint at accountability, but it remains indirect and lacks the depth or focus that would be necessary to score higher in this category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1314,7 +1323,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1446,15 +1455,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "cR4D4qQe9ps",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:06:15",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 5.0,
-    "ai_depth": 2.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of understanding the Scrum Guide. While it touches on collaboration and team dynamics, it does not explicitly mention Liberating Structures or discuss any of the specific techniques or principles associated with them. The discussion is centred around traditional Scrum practices rather than the facilitation techniques that Liberating Structures promote.",
+    "calculated_at": "2025-05-02T04:20:15",
+    "ai_confidence": 1.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily focuses on understanding the Scrum Guide and the foundational aspects of being a Scrum Master. It lacks any specific mention or application of Liberating Structures, and it does not discuss any facilitation techniques or methods associated with Liberating Structures, nor does it provide detail on integrating them into team interactions. The focus is more on Scrum principles rather than any structured interaction methods.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1700,12 +1715,12 @@
   "Model": {
     "resourceId": "cR4D4qQe9ps",
     "category": "Model",
-    "calculated_at": "2025-05-05T07:47:25",
+    "calculated_at": "2025-05-02T20:29:08",
     "ai_confidence": 2.0,
     "ai_mentions": 3,
     "ai_alignment": 10,
     "ai_depth": 15,
-    "ai_intent": null,
+    "ai_intent": 0,
     "ai_audience": 0,
     "ai_signal": 0,
     "ai_penalties_applied": false,
@@ -1713,6 +1728,24 @@
     "ai_penalty_details": null,
     "final_score": 2.0,
     "reasoning": "The content primarily focuses on the role of a Scrum Master and the importance of understanding the Scrum Guide, rather than discussing models or frameworks that inform decision-making or enhance organizational agility. While Scrum is a framework, it is not examined in the context of models, as required by the 'Model' category. Therefore, the direct mentions of Scrum yield a low score in terms of relevance to the model category, leading to a very low overall confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "cR4D4qQe9ps",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.8,
+    "ai_audience": 1.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) at all, nor does it cover any core SLE topics such as cycle time, elapsed time ranges with probability, SLE calculation, or transparency aspects described in the classification definition. The primary focus is on encouraging new Scrum Masters to read and understand the Scrum Guide, emphasizing foundational knowledge, roles, empiricism, and effective practices, but there are no direct or indirect references to SLE or related flow metrics. The target audience (new Scrum Masters) slightly overlaps with the SLE audience, but only tangentially. Signal-to-noise is very low for SLE since all content is about Scrum basics, not metrics or workflow predictability. Therefore, the confidence score is extremely low, reflecting the near total absence of relevant SLE content.",
     "level": "Ignored"
   }
 }

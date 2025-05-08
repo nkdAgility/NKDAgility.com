@@ -258,12 +258,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "HRq1a_8gAJF",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T23:05:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the rise of remote work and its impact on training and consulting, without a focus on accountability or team dynamics.",
+    "calculated_at": "2025-05-02T04:20:37",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.3,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses remote work and its impact on agile training and consulting, with references to Scrum roles. However, it does not explicitly delve into the concept of accountability as a mechanism in work systems. The primary focus is more on the implications of remote work rather than on clear accountabilities, outcome ownership, or structural constructs related to accountability in Agile. Key topics of accountability are barely touched upon, resulting in low confidence.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -756,12 +765,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "HRq1a_8gAJF",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:07:19",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the impact of remote work on training and consulting in Agile, without a clear focus on strategic approaches within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-02T04:20:11",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.4,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses remote work and its impact on agile training and consulting, but does not directly address strategic frameworks or decision-making processes related to organizational goals. While it touches on agile practices and consulting, it lacks a clear focus on strategic alignment or high-level decision-making that the category requires. There is minimal direct mention of strategy, and the conceptual alignment is weak as it primarily revolves around operational and practical aspects of agile rather than overarching strategic discussions.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1320,7 +1338,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:06",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1452,15 +1470,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "HRq1a_8gAJF",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T11:51:31",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:29",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the future of remote work and its impact on agile training and consulting, without any direct mention of Liberating Structures or their techniques. While it touches on themes relevant to Agile methodologies, it does not align with the core principles or specific techniques of Liberating Structures. The discussion lacks depth regarding facilitation techniques or group dynamics, leading to a low confidence score.",
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the impact of remote work on agile training and consulting without mentioning Liberating Structures or specific facilitation techniques. It focuses on Scrum roles and Agile coaching but lacks any reference to the methods or integration of Liberating Structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1714,6 +1738,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content mentions Agile and discusses its implications in the context of remote work, which aligns with the broader themes of Discipline. However, it primarily focuses on the impact of remote work on training and consulting without deeply exploring the foundational principles or methodologies of Agile or other disciplines. Therefore, while there is some conceptual alignment and brief mentions, the depth of the discussion does not effectively address the complexities and structured study associated with the concept of Discipline.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "HRq1a_8gAJF",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:04",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0.2,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The provided content centers on the future of remote work and its influence on agile coaching, consulting, and training. There is no mention—direct or indirect—of Service Level Expectation (SLE), its calculation, usage, or any related concepts such as cycle time analysis with probability ranges, transparency in delivery forecasting, or the Kanban and Scrum practices around SLE. All discussions remain at a general agile and remote work level without touching on SLE or its intended conceptual audience. Consequently, the content does not fit the classification definition or any key topics, leading to minimal non-zero scores only on audience and signal for being tangentially agile-relevant.",
     "level": "Ignored"
   }
 }

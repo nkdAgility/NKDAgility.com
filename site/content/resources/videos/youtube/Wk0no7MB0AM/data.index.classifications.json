@@ -1317,7 +1317,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1711,6 +1711,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily discusses the role of the Scrum Master and strategies for managing team conflict, focusing on specific practices rather than enduring capabilities or systemic frameworks. While it does touch on the importance of fostering collaboration (which vaguely aligns with capability), the overall emphasis is on roles and conflict management techniques without deepening the concept of capabilities as defined. The presence of isolation of practices distracts from a comprehensive discussion on capability development.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Wk0no7MB0AM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:43",
+    "ai_confidence": 2.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.15,
+    "ai_intent": 2.2,
+    "ai_audience": 5.0,
+    "ai_signal": 2.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content, 'Navigating Team Conflict: How Scrum Masters Can Prevent 'War' in Agile Projects,' focuses exclusively on the identification and management of team conflicts in an Agile context, specifically the escalating dynamics that Scrum Masters need to address. There is no explicit mention of Service Level Expectation (SLE), nor is there any discussion of its definition, calculation, application, or its use within Kanban, Scrum, or Agile practices. The central concepts are team dynamics, conflict resolution, communication strategies, and Scrum Master responsibilities—none of which align with SLE or its key topics. The audience (Scrum Masters and Agile practitioners) does sometimes overlap with those interested in SLE, hence a moderate score there, but the intent, direct references, and conceptual alignment are all extremely low or zero. There are no penalties, as the content is recent and relevant to Agile practices, just not to SLE in any way. Consequently, the confidence that this content fits under the 'Service Level Expectation' category is nearly zero, exactly as the scoring formula renders.",
     "level": "Ignored"
   }
 }

@@ -1272,7 +1272,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1666,6 +1666,24 @@
     "non_ai_confidence": null,
     "final_score": 15.0,
     "reasoning": "The content primarily discusses a promotional offer and encourages professional development through learning. While it hints at themes of growth and skill enhancement, it does not explicitly mention or deeply explore the concept of capability as defined in the category. The focus is more on individual learning and opportunities rather than on enduring competencies or systemic capability development, leading to a very low confidence score in the category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ypVIcgSEvMc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:56",
+    "ai_confidence": 2.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 4.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a promotional message highlighting a 30% discount for alumni, encouraging further learning in Agile, DevOps, and Scrum. Nowhere in the title, description, or body is Service Level Expectation (SLE) mentioned directly or indirectly. There is no discussion of SLE's definition, calculation, application, or relevance to Agile, Scrum, or Kanban frameworks. While the audience (agile practitioners and learners) overlaps with SLE's typical target audience, all content is focused on learning opportunities and promotions, not service delivery predictability or metrics. There are passing references to Agile and Scrum, but none to SLE or related cycle time forecasting concepts. The content is thus almost entirely out of scope for the SLE category, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

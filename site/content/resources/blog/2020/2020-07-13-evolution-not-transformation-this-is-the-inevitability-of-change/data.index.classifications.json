@@ -1356,7 +1356,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1764,5 +1764,23 @@
     "final_score": 76.0,
     "reasoning": "The content focuses on the idea of continuous evolution in organizations rather than fixed transformations, emphasizing the development of enduring capabilities. It discusses how organizations can grow and adapt in a dynamic environment, which aligns with the themes of capability development and organizational agility. The depth of discussion around nurturing these capabilities and the analogy of orienteering further support this alignment. However, while the content touches on the importance of internal growth and leadership in fostering these capabilities, it does not provide extensive examples or measurable outcomes, which slightly limits the depth of the analysis.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "WvUOpSMqawD",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:11",
+    "ai_confidence": 3.19,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.5,
+    "ai_intent": 2.3,
+    "ai_audience": 4.7,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is a broad, philosophical reflection on evolutionary change in agile organizations, contrasting evolution with transformation. Nowhere does it explicitly reference Service Level Expectation (SLE), its definition, calculation, or its function in agile or kanban contexts. Key SLE topics such as cycle time ranges with probabilities, establishing or improving SLE, or references to authoritative sources are completely absent. While the piece references agility, experimentation, teams, and feedback, these are high-level agile concepts rather than specifics on SLE. There is no discussion of flow metrics, transparency around delivery timelines, or continuous improvement through quantified metrics like SLE. The audience is broadly agile leaders and practitioners, but the signal-to-noise ratio is low for the purposes of SLE, as all examples and metaphors (like orienteering) remain conceptual and not metric-focused. No penalties are warranted, as there are no outdated practices or direct misalignments, but the content does not meet any direct requirements for the SLE category. The low confidence score reflects a very weak, highly tangential fit, primarily based on broad agile relevance rather than SLE relevance.",
+    "level": "Ignored"
   }
 }

@@ -264,12 +264,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "5s9vi8PiFM4",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T19:52:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum and Lean methodologies without a clear focus on accountability or team ownership.",
+    "calculated_at": "2025-05-02T04:20:06",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses a personal journey in Scrum and the integration of lean principles, which indirectly relates to the idea of accountability in the context of owning outcomes. However, it lacks direct mentions of accountability roles like Product Owner or Scrum Master and does not explore structural accountabilities or their impact on performance. The overall focus is more on personal insights rather than a detailed discussion of accountability as defined in the category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1368,7 +1377,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1500,15 +1509,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "5s9vi8PiFM4",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:50:01",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the relationship between Scrum and Lean methodologies, discussing personal insights and experiences rather than Liberating Structures. While it touches on collaboration and efficiency, it does not explicitly mention or explore any specific Liberating Structures techniques or principles. The discussion lacks depth regarding the facilitation techniques that enhance participation and creativity within groups, which are central to the category of Liberating Structures.",
+    "calculated_at": "2025-05-02T04:20:04",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the relationship between Scrum and Lean principles, discussing personal insights about Scrum experiences. There is no mention of Liberating Structures or any specific facilitation techniques. While it touches on themes relevant to Agile and collaboration, it does not align with the key aspects of Liberating Structures such as facilitating engagement or self-organization in teams.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1763,5 +1778,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the relationship between Scrum and Lean, emphasizing the importance of understanding Lean principles within a Scrum journey. It outlines the impact of this blend on professional practice and success, which aligns with the core themes of the Discipline category, such as the evolution of methodologies and the application of shared principles. However, the content primarily focuses on experiences rather than a structured discussion of Discipline as a systemic application, hence the moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "5s9vi8PiFM4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:47",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content reflects a personal account of realizing the importance of Lean principles in a Scrum journey, focusing on synergy between Scrum and Lean. It does not mention Service Level Expectation (SLE) at all, nor discuss its definition, calculation, or application. There are no references to cycle time probability forecasts, flow metrics, or any SLE-specific topics listed in the category scope. While the piece is relevant to Agile practitioners (audience alignment), and touches on data-driven insights (alignment/depth), these are only in a very general way without any concrete tie to SLE. No penalties were necessary, as the content does not contradict or satirize the category; it simply fails to address it. The low confidence score reflects the near-total absence of SLE-related content.",
+    "level": "Ignored"
   }
 }

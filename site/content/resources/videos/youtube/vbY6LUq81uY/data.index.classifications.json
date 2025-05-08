@@ -1398,7 +1398,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1792,6 +1792,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses funding and product development from an entrepreneurial perspective, focusing on risk, iteration, and experimentation. While there are mentions of concepts like 'hypothesis-driven engineering' and 'proof of concept,' these do not fully align with the core aspects of capabilities in Agile or DevOps contexts. The discussion lacks depth in terms of how these practices integrate into enduring capabilities or how they enhance overall organizational performance. Thus, while there are some relevant concepts, the primary focus is more on practices rather than on enduring competencies or systematic capability development.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "vbY6LUq81uY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:29",
+    "ai_confidence": 2.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.0,
+    "ai_intent": 2.8,
+    "ai_audience": 5.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on product funding strategies, using a venture capitalist mindset, and the importance of experimentation, iteration, and risk management in product development. There are no explicit or implicit mentions of Service Level Expectation (SLE), nor any discussion of its components such as cycle time ranges, probability, predictability in delivery, or Agile/Kanban/Scrum-specific workflow forecasting. The main concepts, such as MVPs, hypothesis-driven engineering, budgeting, and stakeholder buy-in, do not overlap with the definition, calculation, or application of SLE as mandated by the classification instructions. While the audience (product teams, engineers) could potentially overlap with those interested in SLE, the content is off-topic with respect to the SLE category, and the 'signal' is diluted by the strong focus on venture investing and budget control rather than Agile delivery metrics. No penalties are applied because there are no outdated or undermining elements, but the scores remain low due to a clear lack of alignment. The final confidence score appropriately reflects that this content does not fit under 'Service Level Expectation.'",
     "level": "Ignored"
   }
 }

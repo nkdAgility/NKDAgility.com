@@ -1335,7 +1335,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1729,6 +1729,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses product backlog management, which is relevant to Agile practices, but it primarily focuses on the processes and techniques involved rather than the enduring capabilities that empower teams to deliver value. While there are mentions of transparency, team involvement, and regular refinement—which are aspects that could contribute to capabilities—the overall emphasis is on practical management tactics rather than cultivating systemic capability within the organization.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "TYpgtgaOXv4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:33",
+    "ai_confidence": 9.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 1.0,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is entirely focused on the practices, pitfalls, and improvement of product backlog management in Agile and Scrum. At no point does it mention, define, or discuss Service Level Expectation (SLE), nor does it refer to the calculation, purpose, or application of SLE as defined in the scope. There are no references to cycle time ranges with probabilities, no mention of SLE transparency, and no discussions that directly tie product backlog management to SLE as a predictive, flow-oriented metric. While the audience (Agile practitioners) slightly overlaps with that of SLE-related materials, the topic and depth remain firmly rooted in backlog management only. The signal-to-noise ratio is low for SLE because none of the substantive content pertains to the category. The final confidence score (0.9 on a 0–100 scale) correctly reflects an almost complete absence of relevance to Service Level Expectation.",
     "level": "Ignored"
   }
 }

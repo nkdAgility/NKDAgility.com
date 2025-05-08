@@ -1344,7 +1344,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1751,6 +1751,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content refers to the Definition of Done (DoD) within the context of Scrum which predominantly focuses on specific roles, processes, and the product's quality standards rather than discussing the broader enduring competencies of capabilities in Agile and DevOps. While it mentions the importance of reviewing and improving the DoD, it does not elaborate on systemic capabilities or their development within the organization. The discussion primarily centers around the DoD as a procedural aspect rather than an enduring organizational capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "LdmZbBlwgM-",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:09",
+    "ai_confidence": 2.92,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.7,
+    "ai_intent": 2.2,
+    "ai_audience": 2.8,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content exclusively discusses whether and how the Definition of Done (DoD) can change from Sprint to Sprint in Scrum. There are no direct mentions of Service Level Expectation (SLE), nor does the content discuss forecasting delivery timelines, calculating elapsed time/probability, or any of the specific SLE topics outlined in the definition and key topics. The conceptual focus is on maintaining consistency and transparency in the DoD, quality improvement, and responsible handling of DoD modifications—not on SLE or related flow predictability concepts. The intended audience (Scrum practitioners, Product Owners, stakeholders) somewhat overlaps with those interested in SLE, but that alone is insufficient. Depth is present in the discussion about DoD, but not in relation to SLE. There is minimal signal relevant to SLE, and all signal is tangential at best (for example, some mentions of transparency, but not in the SLE context). No penalties were applicable, as the content is not outdated and does not contradict the framing. Thus, the very low confidence reflects that this content should not be classified in the SLE category.",
     "level": "Ignored"
   }
 }

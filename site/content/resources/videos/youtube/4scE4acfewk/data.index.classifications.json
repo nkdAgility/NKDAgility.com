@@ -1383,7 +1383,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1777,6 +1777,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses humility as a virtue that fosters collaboration and trust within Agile teams, which touches on key aspects of team dynamics and capabilities. However, the primary focus is more on the role of humility in interpersonal relationships rather than the systematic development of capabilities within organizations. The depth of discussion on how humility directly connects to the cultivation and enhancement of enduring competencies is limited, resulting in a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "4scE4acfewk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:34",
+    "ai_confidence": 2.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.7,
+    "ai_audience": 0.25,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) or any of its concepts explicitly or implicitly. It focuses entirely on the virtue of humility in Agile teams, covering topics such as collaboration, feedback, cognitive bias, data-driven decision-making, and personal experiences, but never references SLE, its calculation, definition, or role in workflow predictability. The main themes and purpose of the article are about fostering humility and leveraging it for team success, which does not align at all with the definition or scope of the SLE category. No content is off-topic since all discussion relates to humility in Agile, but none is relevant to SLE, resulting in very low scores across all measured dimensions. No penalties are necessary as the tone is appropriate and there are no outdated references. The derived confidence score of 2.25 accurately reflects the total lack of intersection with the category.",
     "level": "Ignored"
   }
 }

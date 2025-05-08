@@ -1359,7 +1359,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1753,6 +1753,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content primarily focuses on personal experiences in consulting and how they enhance training in Agile and Scrum. While there are mentions of Agile and Scrum principles, the discussion largely revolves around teaching methodologies and personal anecdotes rather than the development of enduring competencies or capabilities within teams or organizations. It does not provide a substantial exploration of capabilities in a systematic way, which limits its alignment with the 'Capability' category. Therefore, while there are relevant themes, the depth and focus on capabilities do not meet the category's requirement to warrant a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "AwkxZ9RS_0g",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:57",
+    "ai_confidence": 4.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content extensively discusses the intersection of consulting experience and effective Agile/Scrum training but does not reference, mention, or analyze Service Level Expectation (SLE) in any form. There are no direct or indirect references to the concept, calculation, or application of SLE, nor to its role within Agile or Kanban practice. The closest thematic overlap is a general focus on real-world Agile experiences, but this remains entirely disconnected from the specifics of SLE. Scores are correspondingly near zero across most dimensions, with slightly higher audience and signal scores due to its relevance to Agile/Scrum practitioners and trainers, but with no material tie to SLE. No penalties were applied as tone and topical currency are appropriate. Final confidence score accurately reflects the total lack of SLE-related content.",
     "level": "Ignored"
   }
 }

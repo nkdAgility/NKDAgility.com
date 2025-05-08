@@ -1347,7 +1347,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:42",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1754,6 +1754,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses the role of the Scrum Master in addressing impediments, focusing on specific responsibilities rather than the broader topic of capability development within teams. While it touches upon empowering the team and promoting self-sufficiency, which aligns with the notion of capabilities, the emphasis is on a role and accountabilities rather than cultivating an enduring capability. The discussion on skills and learning is relevant but remains secondary to the focus on impediments and the Scrum Master's responsibilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:12",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 5.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "This content focuses exclusively on the Scrum Master's role in removing impediments and the concept of team self-sufficiency in Scrum environments. There are no direct mentions or even indirect conceptual connections to Service Level Expectation (SLE), its definition, calculation, or application within Agile, Scrum, or Kanban frameworks. The text does not touch upon cycle time analysis, probability-based forecasting, delivery timeline predictability, or any references to established SLE sources. No information is outdated or contradictory, so no penalties are applied. The only partial scores are in audience alignment and signal-to-noise, since the content still targets Scrum practitioners, albeit with no direct SLE relevance. Therefore, the confidence score must be 0, in line with category guidelines.",
     "level": "Ignored"
   }
 }

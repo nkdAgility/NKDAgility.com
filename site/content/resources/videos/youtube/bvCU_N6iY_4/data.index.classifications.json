@@ -1326,7 +1326,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1733,6 +1733,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "While the content emphasizes community engagement and dynamic discussions relevant to business agility, it primarily focuses on the mechanics of meetings and the benefits of participation rather than delving into the deeper competencies that define organizational capabilities. The role of capabilities in enhancing agility is only loosely referenced, with minimal direct mentions of how these capabilities can be developed or assessed within teams. The discussion lacks substantial depth on the enduring competencies that empower teams, resulting in a low confidence score in terms of real alignment with the capability category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "bvCU_N6iY_4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 3.08,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 1.5,
+    "ai_intent": 1.5,
+    "ai_audience": 4.3,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content describes a recurring discussion event focused broadly on business agility, using Lean Coffee as a facilitation method. There are no explicit or implicit mentions of Service Level Expectation (SLE), nor discussion of its definition, calculation, application, or relevance within Agile, Scrum, or Kanban contexts. Key terms and themes are instead about community, discussion format, learning, and real-world relevance in general agile practice. No evidence indicates SLE is a topic or focal point for these sessions. The intent is community engagement and exchange on agile topics at large, making the category fit extremely poor. Audience overlap is partial (agile practitioners), but the material is not targeted at SLE-specific interests, and the overall signal-to-noise ratio is low for the SLE category. No penalties were applied as there is no outdated or contradictory content; the issue is simple irrelevance.",
     "level": "Ignored"
   }
 }

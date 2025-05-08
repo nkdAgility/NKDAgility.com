@@ -1389,7 +1389,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:37:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1784,5 +1784,23 @@
     "final_score": 45.0,
     "reasoning": "The content discusses the competence crisis among Scrum Masters, which is tangentially related to the capability of individuals in agile environments. However, the primary focus is on discussing roles and the deficiencies therein rather than on the development of enduring capabilities as defined in the category. While there are mentions of skills and the importance of understanding the context and practices, the depth of discussion centers more on the challenges facing Scrum Masters rather than a thorough exploration of the capability itself. Additionally, the expected output overlaps with roles and training issues rather than systemic capabilities.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GJFklM1U5Pc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:47",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.6,
+    "ai_intent": 0.2,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is an in-depth exploration of the competency issues facing Scrum Masters and ways to elevate the role’s standards. There are zero direct or indirect mentions of Service Level Expectation (SLE), nor is there any discussion of flow metrics, cycle time, or prediction of delivery timeframes using probability or historical data. The main themes—competence, experience, contextual understanding, and organizational change—do not conceptually align with the definition, calculation, or use of SLE in Agile/Kanban/Scrum frameworks. The audience is practitioners of Scrum and Agile, which very broadly overlaps with SLE’s target, but the specific focus is not shared. There’s no off-topic noise, but this is because the content is too far afield from SLE to generate relevant ‘signal.’ Scores reflect near-absence in all dimensions. No penalties were warranted, as the content is current and not satirical or critical of SLE. The overall confidence score is justifiably extremely low: there is almost no evidence for classification under this category.",
+    "level": "Ignored"
   }
 }

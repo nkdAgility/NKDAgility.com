@@ -1305,7 +1305,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:27",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1712,6 +1712,24 @@
     "non_ai_confidence": null,
     "final_score": 30.0,
     "reasoning": "The content discusses the practical application of Scrum, focusing on roles, sprints, and student experiences. While it touches on learning and understanding Scrum, which hints at developing capabilities, it primarily emphasizes the teaching methodology and the chaos of scrum execution rather than discussing capability development in depth. Therefore, it does not align well with the core themes of capability as defined.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "vI2LBfMkPuk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:03",
+    "ai_confidence": 6.667,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 2.5,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused on an experiential Scrum training approach that uses chaos and discovery through games like Minecraft to teach students about Scrum values and practices. At no point does the text directly mention Service Level Expectation (SLE), reference its calculation, discuss forecasted cycle time ranges, probabilities, or tie the class experience to SLE concepts or related flow metrics. The closest thematic overlap is general discussion about managing chaos, learning structured approaches, and improving the students' understanding of Scrum—however, none of this directly connects to the SLE topic as defined. The audience alignment is partially correct, as the course targets Scrum practitioners, but the content itself is much more an overview or reflection on teaching philosophy than an in-depth, technical guide about SLE. The signal-to-noise ratio is low regarding SLE relevance, as essentially none of the content focuses on it, with the entire narrative being about experiential learning in Scrum more broadly. Thus, confidence is extremely low, and sub-scores reflect the lack of relevance and direct mention.",
     "level": "Ignored"
   }
 }

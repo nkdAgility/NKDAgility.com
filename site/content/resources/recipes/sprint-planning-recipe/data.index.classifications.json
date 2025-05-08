@@ -1356,7 +1356,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:05",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1750,6 +1750,24 @@
     "non_ai_confidence": null,
     "final_score": 22.0,
     "reasoning": "The content primarily focuses on the process and steps involved in Sprint Planning, discussing roles, artefacts, and the structure of the event rather than enduring capabilities that teams develop over time. It briefly mentions aspects of collaboration and clarity of goals, which relate loosely to capability, but lacks a detailed exploration of any enduring competencies or strategies for developing systemic capabilities within organizations.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "D1dSEM9ni3C",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:43",
+    "ai_confidence": 7.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.7,
+    "ai_intent": 0.9,
+    "ai_audience": 4.9,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "There are no direct mentions or references to Service Level Expectation (SLE), either by name or by definition, throughout the content. The main focus is Sprint Planning within Scrum, discussing goals, backlog selection, and workshop facilitation. While there is a brief mention of reviewing throughput and using a Monte Carlo forecast, which are related to flow metrics, these are not explicitly tied to SLE or its formal calculation, transparency, or application within Agile, Scrum, or Kanban frameworks. There is also no citation of SLE authoritative sources. The audience is Scrum practitioners, which somewhat overlaps with the SLE category, but the discussion is not aligned with SLE as defined. The content is highly focused on sprint planning practices, without much signal relevant to SLE, resulting in extremely low scores on most dimensions except for a modest audience overlap. No penalties were required. The overall confidence score (7.0) reflects a strong lack of direct relevance to Service Level Expectation.",
     "level": "Ignored"
   }
 }

@@ -1386,7 +1386,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:23",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1781,5 +1781,23 @@
     "final_score": 73.0,
     "reasoning": "The content discusses the importance of 'continuous learning', which aligns with the principles of continuous improvement and adaptability. It emphasizes creating a learning culture and fostering an environment that values knowledge application. The discussion includes actionable strategies for leaders to motivate teams and adapt to change, consistent with the principles outlined in frameworks like Agile. However, while it touches on relevant principles, the focus is primarily on training and individual experiences rather than a deep exploration of core principles themselves.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_2ZH7vbKu7Y",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:44",
+    "ai_confidence": 2.11,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.2,
+    "ai_intent": 0.6,
+    "ai_audience": 6.0,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on the importance of training, continuous learning, and building a supportive environment for team growth. There is no mention, discussion, or application of Service Level Expectation (SLE) as a concept, nor does it reference SLE in any context related to Agile, Scrum, Kanban, or flow metrics. While the audience arguably overlaps with Agile practitioners, the material neither introduces the SLE term nor explores its calculation, benefits, or management. There is minor indirect overlap with topics like continuous improvement, but these are presented as generic leadership advice rather than within any SLE framework. Therefore, scoring on all relevant SLE dimensions is extremely low except for partial audience alignment and moderate signal to noise due to clear focus, but not on SLE. No penalties are applied as the content is not outdated or critical.",
+    "level": "Ignored"
   }
 }

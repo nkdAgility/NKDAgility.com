@@ -1377,7 +1377,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1771,6 +1771,24 @@
     "non_ai_confidence": null,
     "final_score": 26.0,
     "reasoning": "The content discusses the role and responsibilities of a Product Owner, which primarily focuses on tasks and accountabilities rather than on the broader concept of capability. Although there are mentions of strategic thinking and value maximization, these discussions do not directly align with the enduring competencies that empower teams or organizations, as specified in the Capability category. The emphasis on individual responsibilities and tools falls into the strictly excluded areas, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2_CowcUpzAA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:39",
+    "ai_confidence": 2.062,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 4.0,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "There are no explicit or even implicit references to Service Level Expectation (SLE) within the provided content. The entirety of the article discusses the broad, strategic, and tactical responsibilities of the Product Owner in Scrum, focusing on backlog management, prioritization, value maximization, and professional growth. There is no mention of forecasting delivery times, calculating cycle times for probabilistic delivery, or using flow metrics as required by the SLE category. The intent is focused on role clarification, training, and value delivery, not on SLE. The only possible minor alignment emerges from tangential references to predictability and value, but these are not linked to SLE by name, method, or process. The audience (Product Owners in Agile/Scrum environments) is broadly similar to SLE's, hence a higher score there, but the discussion is essentially unrelated to SLE, reflecting the low confidence score.",
     "level": "Ignored"
   }
 }

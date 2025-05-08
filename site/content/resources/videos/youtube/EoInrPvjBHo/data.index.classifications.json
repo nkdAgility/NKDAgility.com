@@ -1359,7 +1359,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1754,5 +1754,23 @@
     "final_score": 42.0,
     "reasoning": "The content focuses mainly on the role of a Product Owner and the pitfalls of micromanagement, labeled as 'Agile Banditry.' While it does touch on concepts of team empowerment, engagement, and enabling capabilities within the team, it is more centered around the responsibilities of the Product Owner rather than the broader, lasting capabilities of the organization. It briefly addresses how capabilities can enhance team dynamics but lacks a detailed discussion on developing or measuring capabilities in a systematic way. Overall, capability is a secondary topic in this content.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "EoInrPvjBHo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:26",
+    "ai_confidence": 3.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 0.2,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on avoiding rigid product ownership within Agile frameworks and empowering teams, centering on themes like autonomy, engagement, and the Product Owner's role. There is no mention—direct or indirect—of Service Level Expectation (SLE), its calculation, communication, or use within Agile, Scrum, or Kanban. Key SLE topics (cycle time forecasts, probability ranges, continuous improvement via SLE) do not appear. The concepts discussed (team empowerment, vision, value, and anti-patterns like Gantt charting in Agile) are relevant only to general Agile product ownership, not SLE. Accordingly, the scores for direct mentions are nearly zero, conceptual alignment and depth are very low, and audience/signal reflect an almost complete lack of relevance to an SLE-seeking audience. No penalties were required, as the content does not reference outdated ideas or contradict the category definition; it is simply off-topic for the SLE classification.",
+    "level": "Ignored"
   }
 }

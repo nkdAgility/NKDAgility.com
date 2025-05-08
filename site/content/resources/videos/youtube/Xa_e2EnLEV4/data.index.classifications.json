@@ -1344,7 +1344,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:46:36",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1738,6 +1738,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily discusses the pitfalls of ignoring problems in a Kanban strategy rather than focusing on developing enduring capabilities that empower teams. While it touches on problem identification and addressing issues, which is important for capabilities, it does not elaborate on cultivating or embedding capabilities into organizational culture or processes. The emphasis is more on avoiding transient mistakes rather than on enhancing sustainable abilities or practices. Overall, the connection to the 'Capability' category is minimal and lacks the depth required for a higher confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Xa_e2EnLEV4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:10",
+    "ai_confidence": 12.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.2,
+    "ai_intent": 2.5,
+    "ai_audience": 3.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content discusses pitfalls in Kanban adoption, specifically the dangers of ignoring problems and emphasizes the importance of transparency, regular maintenance, and proactive problem solving. However, it makes zero direct or indirect reference to Service Level Expectation (SLE). There is no mention of cycle time forecasting, probability-based time ranges, or the use of historical flow metrics as part of SLE calculation, nor are there references to established SLE guidance, Kanban for Scrum Teams, or authoritative sources. While the audience is broadly aligned with people interested in improving Kanban processes, none of the main ideas or actionable guidance pertains directly to SLE as defined—discussions center on culture, transparency, and discipline, not delivery forecast or flow predictability tied to SLE. The content also remains at a general process/behavioral level rather than analytical or metric-driven. Small scores are assigned for audience and some slight conceptual proximity due to themes of transparency and improvement, but all core SLE criteria are absent. Therefore, confidence in fit is very low and proportionate to the surface-level thematic overlap rather than any direct SLE discussion.",
     "level": "Ignored"
   }
 }

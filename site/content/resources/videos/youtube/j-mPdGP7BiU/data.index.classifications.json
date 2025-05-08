@@ -1344,7 +1344,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1738,6 +1738,24 @@
     "non_ai_confidence": null,
     "final_score": 33.0,
     "reasoning": "The content primarily focuses on product development, emphasizing the identification and validation of assumptions and hypotheses. While it touches upon critical thinking and structured decision-making, which could contribute to enhancing team capability, it lacks a thorough discussion on enduring competencies or the integration of capabilities within organizational processes. Thus, while some alignment exists, the main focus on product-specific techniques rather than overarching capabilities leads to a low confidence score in the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "j-mPdGP7BiU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:50",
+    "ai_confidence": 4.94,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.8,
+    "ai_audience": 1.5,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on managing assumptions, testing hypotheses, prioritizing learning, and using experimentation/data in product development. At no point does it refer to Service Level Expectation (SLE) directly or indirectly: there are no mentions of cycle time ranges, probabilities for delivery, or any Kanban/Scrum SLE-specific content. The main concepts—assumptions, hypotheses, experimentation, learning—are adjacent to agile product practices, but they do not overlap or address the definition, calculation, application, or improvement of SLE in any framework. No deduction penalties were warranted, as the content is not outdated nor satirical or critical. Scores are nearly at minimum for all dimensions, with a minor uptick in 'intent' and 'audience' since the audience (product teams) might overlap with SLE consumers, and the message is at least process-improving in intent, but overall the topic is not relevant to SLE.",
     "level": "Ignored"
   }
 }

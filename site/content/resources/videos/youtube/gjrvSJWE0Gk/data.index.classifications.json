@@ -1359,7 +1359,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:02",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1754,5 +1754,23 @@
     "final_score": 45.0,
     "reasoning": "The content discusses the course's focus on using metrics to improve predictability in delivery, which indirectly relates to the development of capabilities within teams. However, the primary focus is on tools and techniques rather than on enduring competencies and organizational capabilities. Additionally, while it mentions how improving predictability can enhance team performance and stakeholder confidence, it lacks a comprehensive exploration of the capability development process itself. Hence, while there are relevant elements, they do not fully align with the core themes of the Capability category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "gjrvSJWE0Gk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:11",
+    "ai_confidence": 16.94,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.9,
+    "ai_depth": 2.7,
+    "ai_intent": 2.5,
+    "ai_audience": 4.3,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses broadly on predictability in Kanban and the application of metrics like cycle time, lead time, and throughput for forecasting and flow improvement. However, there is no explicit mention of Service Level Expectation (SLE), either by name or as a distinct concept. The main ideas—metrics, forecasting, predictability—are related to SLE’s underlying purpose but do not specifically address SLE's definition, calculation, or unique role as outlined in the classification definition. There is substantial discussion of Kanban metrics for predictability but not at the level of direct SLE application (e.g., cycle time ranges with probabilities, setting initial SLEs, or referencing authoritative SLE sources). The target audience (teams and practitioners interested in Kanban predictability) partially overlaps with the intended audience for SLE. The signal-to-noise ratio is moderate, with most content staying on predictability, but the absence of SLE-specific focus reduces relevance. No outdated practices or negative tone were found, so no penalties were applied. Overall, while the topic is adjacent to SLE, it does not directly cover or analyze SLE, resulting in a low confidence score.",
+    "level": "Ignored"
   }
 }

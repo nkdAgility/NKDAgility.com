@@ -1320,7 +1320,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:02:55",
     "ai_confidence": 87.0,
     "ai_mentions": 90.0,
@@ -1714,6 +1714,24 @@
     "non_ai_confidence": null,
     "final_score": 37.0,
     "reasoning": "The content focuses on code review practices and automation, primarily discussing tools and processes rather than the enduring competencies that support organizational capabilities. While it mentions aspects of enhancing quality and collaboration within teams, it lacks a deep exploration of capability development and integration into organizational culture. The discussion on 'shift-left' practices and automated checks hints at improving capabilities but does not articulate strategies for cultivating enduring competencies required for sustainability and adaptability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:38",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.2,
+    "ai_intent": 3.0,
+    "ai_audience": 6.0,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses entirely on best practices for code reviews and the benefits of automation and shift-left strategies to improve software quality and delivery speed. There are no direct mentions, references, or discussion of Service Level Expectation (SLE), including its definition, measurement, or application within Agile, Scrum, or Kanban contexts. The themes align loosely with predictability and delivery speed but do not address SLE specifically or in concept. No SLE calculation, usage, or stakeholder transparency is discussed. The main audience (developers and quality advocates) somewhat overlaps with those interested in SLE, but all substantive material is about code review practice, not SLE. There is no off-topic satire or outdatedness, so no penalties are applied. The very low confidence score reflects the total absence of SLE-related content.",
     "level": "Ignored"
   }
 }

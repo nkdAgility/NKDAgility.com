@@ -1368,7 +1368,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:04",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1762,6 +1762,24 @@
     "non_ai_confidence": null,
     "final_score": 34.0,
     "reasoning": "While the content highlights the important contributions of Product Owners in Agile contexts, it primarily focuses on their roles and individual actions rather than discussing capabilities as enduring competencies that empower organizations. The discussions around cultural transformation and feedback loops touch on broader themes of capability but remain situated in specific practices and roles rather than a systemic exploration of capabilities. Therefore, the confidence score reflects limited focus and depth on the core theme of capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2IuL2Qvvbfk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:54",
+    "ai_confidence": 7.417,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.1,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses the impact of Product Owners in driving Agile transformation at Microsoft, focusing on visionary leadership, shortened feedback cycles, and cultural change. However, there is no direct mention or explicit discussion of Service Level Expectation (SLE), its calculation, use, or improvement in the context of Agile, Scrum, or Kanban. The core concepts covered—shorter feedback loops, iteration cycles, agile mindset—are adjacent to topics like cycle time or flow but do not connect specifically to SLE as defined. The audience is primarily Agile practitioners and leaders, which marginally intersects with the intended audience for SLE-related content, but the intent and substance do not match. There is virtually no relevant signal for SLE and very low conceptual alignment, depth, or direct references. No penalties were applied as the content does not contain outdated or critical tone, but the confidence is nearly minimal due to lack of category relevance.",
     "level": "Ignored"
   }
 }

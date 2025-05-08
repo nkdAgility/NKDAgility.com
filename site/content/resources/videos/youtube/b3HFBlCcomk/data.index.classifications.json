@@ -1389,7 +1389,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:11",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1784,5 +1784,23 @@
     "final_score": 42.0,
     "reasoning": "The content discusses Agile's focus on delivering value rather than speed, which relates to the broader concept of capability in an Agile context; however, it primarily emphasizes misconceptions about speed rather than deeply exploring capabilities themselves. The discussion of bureaucracy and the iterative process hint at capability development but lacks depth and direct focus on enduring competencies, strategies for embedding capabilities, or assessment measures. As such, it does not comprehensively engage with the core themes of the capability category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "b3HFBlCcomk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:01",
+    "ai_confidence": 7.302,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.7,
+    "ai_intent": 1.8,
+    "ai_audience": 1.2,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on correcting misconceptions about Agile, particularly that it is not about speed but about value, adaptability, and building the right product. There is no direct mention of Service Level Expectation (SLE), nor are any of its key topics addressed (definition, calculation, transparency, probabilistic forecasting, or improvements of SLE within Agile, Scrum, or Kanban contexts). Discussion of cycle time, lead time, or flow metrics is absent, and there is no reference to authoritative SLE sources. While the target audience overlaps some with SLE (practitioners of Agile), the intent and depth are focused on value-centric agility, not delivery predictability or flow metrics fundamental to SLE. Therefore, all scores remain extremely low and no penalty was applied. The confidence reflects a minimal, nearly negligible fit due to a general Agile context but total lack of direct or indirect SLE content.",
+    "level": "Ignored"
   }
 }

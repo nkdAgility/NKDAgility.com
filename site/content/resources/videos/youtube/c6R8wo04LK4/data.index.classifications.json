@@ -1302,7 +1302,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1697,5 +1697,23 @@
     "final_score": 45.0,
     "reasoning": "The content discusses the challenges of adopting Scrum and emphasizes the need for a cultural shift towards continuous learning and adaptability. However, it primarily focuses on the misperceptions surrounding Scrum rather than the capabilities of teams and organizations. Although it touches upon some core themes of the Capability category, it does not provide specific strategies for development or detailed discussions on enhancing organizational capabilities, which lowers the overall confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "c6R8wo04LK4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 6.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.2,
+    "ai_audience": 4.8,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on the struggles teams face with adopting Scrum, specifically the myths of 'magic' solutions and the need for genuine cultural shift, but it never mentions Service Level Expectation (SLE) directly or indirectly. There is no reference to SLE terminology, calculation, application, or improvement, nor any discussion of cycle time, flow, or the predictability metrics defined in the category. The main intent is to address mindset and culture, not to inform or analyze SLE as a Scrum or Kanban practice. The target audience overlaps somewhat with SLE (practitioners interested in Scrum), but all substantive content is unrelated to SLE. Signal-to-noise is high since it is focused on Scrum adoption; however, this focus is not relevant to the Service Level Expectation category. No penalties were needed, as the tone is appropriate and nothing is obsolete, but the content is almost entirely outside the scope.",
+    "level": "Ignored"
   }
 }

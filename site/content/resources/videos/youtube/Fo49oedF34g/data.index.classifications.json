@@ -249,12 +249,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Fo49oedF34g",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T19:36:22",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile leadership and consultancy services without a clear focus on accountability or team dynamics.",
+    "calculated_at": "2025-05-02T04:20:10",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses agile leadership versus traditional management, touching upon themes relevant to team dynamics and collaboration in agile settings. However, it does not explicitly address accountability structures or the roles related to accountability such as Product Owner or Scrum Master. The primary focus is on leadership styles rather than on the mechanisms of accountability itself, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -735,12 +744,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "Fo49oedF34g",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T19:37:50",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses agile leadership and the benefits of agile methodologies, without a clear focus on strategic approaches or alignment within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-02T04:20:07",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 10,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses agile leadership in contrast to traditional management, but it does not explicitly focus on strategic planning or alignment with organizational goals. While there are mentions of team potential and high-performance teams, these topics are not directly tied to strategic frameworks or decision-making processes. The depth of discussion remains superficial and centered on agile methodologies rather than high-level strategic considerations.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1281,7 +1299,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:37",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1413,15 +1431,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "Fo49oedF34g",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:45:47",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on agile leadership and traditional management, with a strong emphasis on Scrum and Agile methodologies. There are no direct mentions of Liberating Structures or their specific techniques. While it touches on themes of collaboration and team dynamics, it does not delve into the principles or applications of Liberating Structures, resulting in a low confidence score.",
+    "calculated_at": "2025-05-02T04:20:01",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on differences between agile leadership and traditional management without discussing specific Liberating Structures or their application. While it mentions agile, it does not delve into the facilitation methods pertinent to Liberating Structures, thus lacking substantial alignment and depth related to the category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1675,6 +1699,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses agile leadership in relation to traditional management, focusing on the positive impacts of agile methodologies. However, while it touches upon the principles of Agile, it primarily emphasizes tools and consulting services without a detailed examination of how these methodologies function as structured disciplines. The direct mentions of agility and Scrum do not sufficiently qualify as discussions of discipline as defined, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Fo49oedF34g",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:57",
+    "ai_confidence": 1.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 0.3,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is focused on the difference between agile leadership and traditional management, with no mention—direct or indirect—of Service Level Expectation (SLE) or its calculation, purpose, or use in Kanban, Scrum, or Agile frameworks. The entire content is promotional and exploratory regarding team culture, agile coaching, and leadership, without any discussion of workflow predictability, metrics, or flow forecasting. There is no reference to SLE, cycle time, lead time, or relevant analysis. While the audience (agile practitioners) partially overlaps with that of SLE-related content, the topics are entirely misaligned. Therefore, all dimension scores are near or at the minimum, and the final confidence score is extremely low.",
     "level": "Ignored"
   }
 }

@@ -1353,7 +1353,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1760,6 +1760,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content primarily focuses on the concept of co-location and online participation in Agile practices, emphasizing the importance of video engagement and presence. However, while it touches on the nuances of communication and team dynamics, it lacks a comprehensive discussion of broader capabilities that empower teams in an Agile context. The key themes of capability development and measurement are not explicitly addressed, yielding a relatively low alignment with the category. The depth of discussion suggests considerations of team interaction, yet these remain secondary to the discussion of co-location.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "QnZVgaG90q_",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:10",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.4,
+    "ai_audience": 0.2,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content thoroughly discusses co-location in agile, redefining it for online contexts and emphasizing transparent video-based communication. Nowhere in the content are Service Level Expectations (SLE), cycle time forecasts, probability ranges, or delivery predictability mentioned or hinted at. There is no discussion of flow metrics, SLE calculation, or their place in agile, Scrum, or Kanban, nor any relevant authoritative citations. The intent is to guide effective remote collaboration, not time-based forecasting of work item completion. The audience is general agile practitioners interested in virtual engagement, not specifically those seeking SLE advice. As such, there are no direct mentions, minimal conceptual overlap, and negligible depth, intent, or audience fit. The resulting confidence score is extremely low because none of the category's criteria are met.",
     "level": "Ignored"
   }
 }

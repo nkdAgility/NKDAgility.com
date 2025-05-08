@@ -1386,7 +1386,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:01:03",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1781,5 +1781,23 @@
     "final_score": 72.0,
     "reasoning": "The content predominantly focuses on building competencies within a team to enhance their effectiveness in delivering high-quality products. It discusses the importance of competence, collaboration, and understanding core Agile and DevOps philosophies that feed into developing and embedding capability within teams. Although the content lacks more explicit discussions about characteristics and assessments of capabilities as outlined in the criteria, it covers essential aspects like continuous improvement and the relationship between competencies and organizational success, which aligns with the Capability category well. The depth of discussion around competence across different roles and activities indicates a strong connection to the category, but it is slightly overshadowed by the emphasis on practices rather than capabilities themselves.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "quFj6dy5M7E",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:35",
+    "ai_confidence": 5.82,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.9,
+    "ai_intent": 0.6,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "There are no direct mentions or references to Service Level Expectation (SLE) in the content. The content focuses on building high-performance teams, competence, product development mindset, Agile and related frameworks, and the importance of continuous improvement and collaboration. While the piece is tangentially related to agile delivery practices, it never discusses (explicitly or implicitly) the definition, calculation, application, or improvement of SLE as per the classification's strict requirements. Topics such as cycle time, SLAs, or flow metrics are also not discussed, nor are any of the key aspects of SLE such as probability-based time ranges, transparency for stakeholders, or references to authoritative SLE sources. The intent, depth, and audience are generally relevant to agile practitioners but not to the SLE-specific category. As such, the overall confidence score must remain very low, reflecting negligible fit with the category.",
+    "level": "Ignored"
   }
 }

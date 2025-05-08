@@ -1296,7 +1296,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:19",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1691,5 +1691,23 @@
     "final_score": 88.0,
     "reasoning": "The content provides a detailed guide on migrating projects using Azure DevOps migration tools, including installation, setup, configuration, and execution. It directly mentions specific tools and techniques relevant to the migration process which are vital for Agile and DevOps practices. The focus on addressing common issues and providing clear instructions aligns well with the category's emphasis on tools that facilitate workflows and improve team collaboration. The depth of technical details throughout the migration process supports a high confidence score.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Qt1Ywu_KLrc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:40",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.5,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is strictly focused on the technical process of migrating projects in Azure DevOps, including tools, setup, file configuration, and troubleshooting common issues. There is no direct mention of Service Level Expectation (SLE) or any discussion of its definition, purpose, calculation, components, or application within Agile, Scrum, or Kanban frameworks. Concepts such as forecasted delivery times, probability ranges, flow efficiency, or cycle time in relation to SLE are entirely absent. The audience appears to be technical practitioners interested in DevOps migration rather than Agile teams concerned with SLE transparency or predictability. Any distant conceptual overlap (such as efficiency in migration) is negligible and not framed in SLE terms. Therefore, the confidence score is virtually zero, strictly following the scope and exclusion criteria.",
+    "level": "Ignored"
   }
 }

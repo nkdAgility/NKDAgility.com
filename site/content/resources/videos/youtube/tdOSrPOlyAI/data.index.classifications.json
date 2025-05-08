@@ -1374,7 +1374,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:01:49",
     "ai_confidence": 78.0,
     "ai_mentions": 85.0,
@@ -1768,6 +1768,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content primarily focuses on practical aspects and techniques of 'naked agility', detailing steps for improving engineering practices and addressing technical debt. While it briefly touches on concepts like transparency and a culture of quality that have philosophical implications, it lacks a deeper exploration of the foundational beliefs behind these practices, which are more aligned with the philosophy category. Therefore, it does not meet the strong requirements for a high confidence score in Philosophy.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "tdOSrPOlyAI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:36",
+    "ai_confidence": 4.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.7,
+    "ai_intent": 0.3,
+    "ai_audience": 0.6,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on themes such as engineering excellence, fostering quality, technical leadership, managing technical debt, and continuous improvement. While these are all important topics in Agile and modern software practice, there are no direct mentions of Service Level Expectation (SLE), its definition, calculation, or its role within Agile, Scrum, or Kanban. The closest related theme is 'transparency' and 'continuous improvement,' which are indirectly aligned with the purpose of SLE but are discussed at a general level and not tied explicitly or conceptually to SLE practices, metrics, or application. Depth and intent are minimal due to the absence of any SLE discussion; audience alignment is also weak, as there is no indication that this content is targeting Kanban/Scrum practitioners specifically interested in SLE. The signal-to-noise ratio is low for this category because the overwhelming majority of the discussion is off-topic with respect to SLE. No outdated practices or contradictions were found, so no penalties apply. The low confidence reflects the almost complete absence of SLE relevance.",
     "level": "Ignored"
   }
 }

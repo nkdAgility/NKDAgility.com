@@ -1350,7 +1350,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T16:10:19",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1757,6 +1757,24 @@
     "non_ai_confidence": null,
     "final_score": 22.0,
     "reasoning": "The content focuses primarily on the roles and responsibilities of the Product Owner within the Scrum framework, discussing accountabilities and necessary qualities. While there are brief mentions of developing competencies and maximizing product value—elements tangentially related to capability—it primarily serves as an overview of a position rather than a deep exploration of lasting organizational capabilities. The discussion lacks sufficient depth on the nature of enduring competencies or embedding them into organizational culture, which is essential for a strong alignment with the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Stln5As7Fof",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0,
+    "ai_intent": 0.2,
+    "ai_audience": 0.2,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses entirely on the role, accountabilities, and hiring of a Professional Product Owner within Scrum and Agile teams. There are no explicit or implicit mentions of Service Level Expectation (SLE)—not by term, concept, purpose, or supporting practices. Core SLE topics such as cycle time forecasting, probability-based delivery ranges, or flow predictability are absent. The content is about team roles, stakeholder management, product value, and relevant job skills. Intent, alignment, and audience match with Agile practitioners but never intersect with SLE as defined. All scoring dimensions are set at or virtually zero to reflect a near-total absence of connection to Service Level Expectation. No penalties are applied, as the content is neither outdated nor contradictory. There are also no references to cycle time, lead time, or relevant Kanban/Scrum metrics that would indirectly invoke SLE. Consequently, the system returns the minimum confidence score.",
     "level": "Ignored"
   }
 }

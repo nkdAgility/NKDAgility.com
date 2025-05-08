@@ -1347,7 +1347,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:33",
     "ai_confidence": 82.0,
     "ai_mentions": 15,
@@ -1754,6 +1754,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses the Test First principles and methodologies such as TDD and ATDD, focusing on their importance in software development and quality assurance. However, it primarily revolves around tools and approaches rather than the overarching concept of Capability as defined in the category. The discussions touch on how these methods can improve quality and delivery, but do not deeply explore systematic capability development or integration within organizational processes. The mention of specific roles and techniques detracts from a primary focus on cultivating enduring capabilities in teams and organizations.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "yqHaiUlMNTP",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:04",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 2.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content exclusively discusses 'Test First' practices, including TDD and ATDD, and their impact on software quality and feedback loops. There is not a single direct mention or implied reference to Service Level Expectation (SLE) or its unique characteristics (e.g., forecasting cycle time in Agile/Kanban, probability-based ranges for delivery, SLE transparency, or continuous improvement mechanisms tied to SLE). The alignment score is extremely low as the core ideas are unrelated to SLE and instead center on validation, test quality, and developer professionalism. Depth is low, since there is no exploration of SLE concepts. Intent and audience both sit well outside the SLE scope—they address practitioners but for a different purpose and body of knowledge. All key topics and use-cases outlined in the SLE definition are absent, and there is some mild alignment on predictability and managing customer expectations, but not in the context of workflow timing or SLE practices. The confidence is very low and proportionate to the complete lack of relevance.",
     "level": "Ignored"
   }
 }

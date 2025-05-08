@@ -1380,7 +1380,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:26",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1774,6 +1774,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses the negative impact of a culture of contempt on Agile teams, focusing on issues of leadership and teamwork rather than on the enduring competencies or capabilities that empower organizations. While it touches on teamwork, communication, and inclusion—all relevant to capabilities—these concepts are not explored in depth nor framed as enduring systemic capabilities. Thus, it lacks a primary focus on capability as defined by the category, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "c0ncdBixyfo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:45",
+    "ai_confidence": 2.38,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 1.5,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused on addressing the problem of contempt for leadership in Agile and Scrum teams, its effects on morale and productivity, and strategies for positive organizational culture. There is no mention or discussion—direct or indirect—of Service Level Expectation (SLE), its calculation, its use in workflow management, or its role in Agile, Scrum, or Kanban frameworks. The content does not reference cycle time, forecasting, probability-based delivery predictions, or any concepts explicit to SLE. Its intent is organizational health and leadership engagement, not metrics or expectations around work item flow or predictability. The audience is broadly Agile practitioners or leaders, but not specifically those seeking insight on SLE. The only minimal alignment comes from its general relevance to Agile teams (hence small nonzero scores in alignment, audience, and signal), but these are weak and do not indicate substantial fit. No penalties applied, as there is no outdated practice or overt criticism of SLE itself.",
     "level": "Ignored"
   }
 }

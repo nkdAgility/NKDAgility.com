@@ -858,12 +858,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "v1sMbKpQndU",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T00:12:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the coaching stance of a Scrum Master and the importance of listening and understanding team dynamics, rather than focusing on accountability or ownership within teams.",
+    "calculated_at": "2025-05-01T18:45:33",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the role of a Scrum Master and Agile coaching, focusing on influence, team dynamics, and personal development. While it touches upon leadership and guiding teams towards self-organization, it lacks explicit focus on accountability, outcome ownership, or structural accountabilities within Agile frameworks. The content mainly emphasizes coaching strategies and team collaboration without addressing accountability as a foundational mechanism.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1350,7 +1359,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:32",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1482,15 +1491,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "v1sMbKpQndU",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:18:13",
-    "ai_confidence": 32.0,
-    "ai_mentions": 0,
-    "ai_alignment": 40.0,
-    "ai_depth": 25.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content discusses Agile coaching and the role of Scrum Masters, focusing on collaboration and team dynamics, which are relevant to the principles of Liberating Structures. However, it does not explicitly mention Liberating Structures or specific techniques associated with them. The discussion is more centred on Agile methodologies rather than the facilitation techniques that Liberating Structures encompass. While there is some alignment in terms of fostering collaboration and self-organisation, the depth of discussion on Liberating Structures is minimal, leading to a low confidence score.",
+    "calculated_at": "2025-05-01T18:45:34",
+    "ai_confidence": 2.0,
+    "ai_mentions": 2,
+    "ai_alignment": 5,
+    "ai_depth": 10,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the role and responsibilities of Scrum Masters and Agile coaching rather than specific techniques or methods from the Liberating Structures toolkit. Although there are a few mentions of facilitation and team dynamics relevant to Agile practices, there is no direct reference to any specific Liberating Structures or their application. The content does align with the general themes of enhancing team collaboration and engagement prevalent in Liberating Structures but does so in a broader context, lacking detailed discussions on the specific facilitation methods.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1745,5 +1760,23 @@
     "final_score": 78.0,
     "reasoning": "The content mainly focuses on the roles and practices of Scrum Masters and Agile coaching. While it touches on principles like continuous improvement, adaptability, and collaboration, it lacks a deeper exploration of how these concepts form a structured discipline as defined by the category. The mention of Agile principles is limited and does not adequately discuss governance, ethical considerations, or the maturation of the discipline, downplaying its relevance to the overarching topic of 'Discipline'.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "v1sMbKpQndU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 1.15,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.6,
+    "ai_audience": 2.5,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "There are zero direct mentions of Service Level Expectation (SLE) or its defined components anywhere in the content. The material focuses on Agile coaching, Scrum Master influence, respect, leadership without authority, and continuous improvement, but never refers to SLE specifically or tangentially (such as forecasting cycle times or establishing probabilistic commitments regarding work items). Conceptual alignment and depth are minimal, as nothing suggested approaches the SLE definition (no mention of elapsed day ranges, probabilities, SLE calculation, or making SLE transparent). The intent is fully about effective coaching and team leadership. The audience (Scrum Masters and Agile practitioners) is tangentially appropriate for SLE content, but without any SLE discussion, this contributes little weight. Signal-to-noise is low for SLE, since 100% of the text is on other Agile themes. Therefore, the confidence score is extremely low, clearly warranting near-absolute exclusion under this category.",
+    "level": "Ignored"
   }
 }

@@ -843,12 +843,21 @@
     "level": "Tertiary"
   },
   "Accountability": {
+    "resourceId": "-xrtaW5NlP0",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T12:35:27",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the Kanban approach and its application in various industries, without a clear focus on accountability or team dynamics.",
+    "calculated_at": "2025-05-01T18:45:56",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the use of Kanban in creative industries, discussing workflow management and task prioritization but does not explicitly address accountability or outcome ownership. While it touches on themes of efficiency and collective decision-making, these are not tied to structurally defined accountabilities or roles such as in Scrum or Agile systems. The content lacks a deep exploration of how clearly defined accountabilities influence performance, making its relevance to the category minimal.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1350,7 +1359,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:35",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1482,15 +1491,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "-xrtaW5NlP0",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:33:14",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Kanban as a methodology for enhancing creativity in various industries, particularly in creative sectors. While it discusses aspects of collaboration and decision-making, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The discussion lacks depth regarding the principles and philosophy of Liberating Structures, and it does not provide any case studies or integration with other frameworks that are central to the category. Therefore, the content does not align well with the category of Liberating Structures.",
+    "calculated_at": "2025-05-01T18:46:00",
+    "ai_confidence": 2.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses Kanban and its applications in creative industries without specifically addressing Liberating Structures or their facilitation techniques. Although it briefly touches on collective decision-making and task prioritization, which are relevant to team facilitation, it lacks a direct focus on Liberating Structures, making its relevance to that category very tenuous.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1744,6 +1759,24 @@
     "non_ai_confidence": null,
     "final_score": 38.0,
     "reasoning": "The content discusses Kanban as a method within creative industries, focusing on its application rather than the underlying principles and standards that would classify it as part of a structured discipline. While it touches upon how Kanban can enhance creative workflows, it does not delve deeply into the systemic application or maturation of the discipline of Kanban itself, as outlined in the category description. It lightly refers to concepts of efficiency and visibility, but the primary focus is on tool usage and practical implementation rather than the evolution or governance of the discipline.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "-xrtaW5NlP0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:49",
+    "ai_confidence": 14.37,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 5.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on the benefits of Kanban for creative industries, emphasizing themes like mapping workflow, managing cycle times, and promoting continuous improvement. However, there is not a single direct mention of Service Level Expectation (SLE), nor is the concept described, calculated, or applied in an explicit manner. Discussions of cycle time and lead time are present, but without directly relating them to SLE or its core components (elapsed time range and probability within Agile, Scrum, or Kanban theory). While there is some alignment in that predictability and efficiency are discussed, these are general Kanban practices, not SLE-specific. The depth of discussion remains surface-level regarding the actual SLE concept. The intended audience (creative professionals and teams considering Kanban) is broadly aligned with Agile practitioners, but the lack of SLE-specific focus diminishes direct relevancy. The signal-to-noise ratio is moderate—much of the piece is focused on workflow improvement, but off-topic for SLE classification. No penalties were applied since the content is current, not satirical, and does not contradict the expected framing. The very low scores in direct mention, conceptual alignment, and depth appropriately pull the weighted confidence score down.",
     "level": "Ignored"
   }
 }

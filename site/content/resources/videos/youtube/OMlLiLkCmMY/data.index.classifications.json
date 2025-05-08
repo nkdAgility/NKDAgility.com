@@ -1323,7 +1323,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1717,6 +1717,24 @@
     "non_ai_confidence": null,
     "final_score": 37.0,
     "reasoning": "The content discusses the importance of engagement and participation in organisational change, which touches on aspects of team capabilities. However, it focuses more on strategies for involvement and communication rather than explicitly defining or exploring enduring competencies. Therefore, while it mentions some capabilities indirectly (e.g., empowerment through participation), it lacks a deep exploration of capabilities in a systemic way, which reduces its alignment with the category of Capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "OMlLiLkCmMY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:33",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 1.0,
+    "ai_audience": 0.2,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses entirely on strategies for engaging teams through organisational change, emphasizing topics such as goal alignment, crafting narratives, empowerment, communication, and feedback loops. There is no mention, direct or indirect, of Service Level Expectation (SLE) or related practices from Agile, Scrum, or Kanban frameworks. No references are made to SLE definitions, calculation, or applications, nor are concepts like cycle time, elapsed time range, forecast probabilities, or continuous improvement through flow metrics discussed. The intended audience is leaders or change practitioners rather than Agile or Kanban teams specifically working with SLE, and the discussion does not align with the purpose or technical detail of the SLE category. Slight scoring differentiation across dimensions reflects minimal alignment or mention. No penalties apply, as the tone is neutral and the content is not outdated. The extremely low confidence score is justified as the content is almost entirely outside the scope of 'Service Level Expectation.'",
     "level": "Ignored"
   }
 }

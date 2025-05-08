@@ -1371,7 +1371,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1766,5 +1766,23 @@
     "final_score": 82.0,
     "reasoning": "The content directly addresses common myths about Scrum, providing a detailed explanation of its principles, such as empiricism, planning, and self-management. It emphasizes actionable insights and challenges misconceptions that can hinder Agile practices. The depth of discussion is significant as it not only debunks myths but ties back to how Scrum principles should be understood and implemented. The content stays focused on how these principles influence team behavior and decision-making within the Scrum framework.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "4YixczaREUw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:00",
+    "ai_confidence": 6.05,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 7.0,
+    "ai_signal": 7.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on debunking misconceptions about Scrum, discussing myths around meetings, story points, micromanagement, planning, and governance. There are no direct mentions, references, or discussions regarding Service Level Expectation (SLE), its calculation, benefits, or role in Agile, Scrum, or Kanban frameworks. None of the primary or secondary topics relates to the definition, application, or improvement of SLE. The main purpose is to inform and guide Scrum practitioners and organizational leaders, which loosely aligns the audience and overall tone with the category, but the content itself does not support, mention, or elaborate on SLE in any substantive way. Thus, the scores for mentions, alignment, depth, and intent are extremely low, while audience alignment and signal scores are higher due to relevance to general Agile/Scrum practitioners. No penalties apply since the content is not outdated, critical, or satirical toward SLE. The final confidence score is very low and proportionate to the total lack of relevance to Service Level Expectation.",
+    "level": "Ignored"
   }
 }

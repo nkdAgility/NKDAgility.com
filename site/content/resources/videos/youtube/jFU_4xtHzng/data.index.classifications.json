@@ -1374,7 +1374,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:20",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1768,6 +1768,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses the format of training specifically in the context of Scrum and agile learning environments, which is quite focused on a particular method rather than the broader concept of capabilities. Although it mentions aspects related to continuous learning and resource efficiency, these concepts are related to transient practices and structures of training formats rather than enduring competencies that empower teams and organizations as defined in the capability category. Therefore, while there is some mention of efficiency and continuous improvement, the primary focus remains on the training design rather than fostering systemic capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "jFU_4xtHzng",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 4.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.9,
+    "ai_intent": 0.3,
+    "ai_audience": 1.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on training delivery formats in agile contexts, especially contrasting four half-days with two full days and their impact on learning retention, flow efficiency, and continuous improvement. However, there are zero direct mentions or even indirect references to Service Level Expectation (SLE). All core terms (SLE, elapsed time, probability, Kanban SLE definition) are absent. While 'flow efficiency' and 'continuous improvement' are discussed, these are not tied back to SLE in any conceptual, definitional, or analytic manner. The main audience (agile practitioners, coaches) technically overlaps with the SLE target, but the subject remains strictly about training methodology, not delivery forecasting or flow predictability. Depth is minimal relative to SLE—discussion is thorough for training design, but not at all for SLE. The intent is to guide training choices, not to define, calculate, or apply the SLE concept in agile practices. Thus, virtually all the signal is off-topic for the SLE category. No penalties were applied, as there are no outdated or contradictory elements, just a lack of relevant content. The resulting low confidence score accurately reflects the near-total absence of SLE-relevant material.",
     "level": "Ignored"
   }
 }

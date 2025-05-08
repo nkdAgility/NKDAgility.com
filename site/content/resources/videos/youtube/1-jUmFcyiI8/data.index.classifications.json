@@ -1503,7 +1503,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:41",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1898,5 +1898,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of deployment frequency and related metrics, which are significantly linked to the concept of capabilities in software delivery. However, it primarily focuses on tools and metrics rather than on cultivating enduring competencies. While it touches on the role of learning and collaboration, it does not deeply delve into the systemic development of capabilities within teams. Therefore, while there is a relevant alignment, it remains secondary to the discussion of practices and metrics.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "1-jUmFcyiI8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:29",
+    "ai_confidence": 1.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 0.2,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on deployment frequency, stability, and time to learn within software delivery—key DevOps metrics and agile principles. However, it never directly mentions Service Level Expectation (SLE) or discusses its definition, calculation, or application. There are no explicit references to cycle time forecasts, probability-based ranges, nor to established Kanban, Scrum, or SLE-specific best practices. Discussion of business alignment, delivery pipelines, and managing stakeholder expectations is present, but it does not tie these to SLE theory or framework usage. The audience is delivery managers and teams, which would overlap with SLE topics, but the content is far removed from explaining, teaching, or using SLE as defined. The only extremely minor conceptual overlap is in references to flow, predictability, and customer expectations, but these are handled in a general sense without the SLE construct. As such, the confidence is very low and no penalty is necessary; the content is not off-putting or outdated, it simply is off-scope.",
+    "level": "Ignored"
   }
 }

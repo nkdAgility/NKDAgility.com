@@ -1353,7 +1353,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:40:31",
     "ai_confidence": 12.0,
     "ai_mentions": 0,
@@ -1748,5 +1748,23 @@
     "final_score": 58.0,
     "reasoning": "The content provides a comprehensive overview of Kanban as a method for optimizing workflow, including its principles and practices. However, it primarily focuses on tools and techniques related to Kanban without extensively discussing the underlying principles that govern the discipline. While there are references to continuous improvement and foundational theories, the depth and focus on the broad concept of 'Discipline' as a structured field are limited, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "uD_5MdHKu1Q",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:46",
+    "ai_confidence": 93.342,
+    "ai_mentions": 9.4,
+    "ai_alignment": 9.7,
+    "ai_depth": 9.8,
+    "ai_intent": 9.6,
+    "ai_audience": 9.3,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 93.0,
+    "reasoning": "The Kanban Guide includes an explicit, well-developed section on Service Level Expectation (SLE), stating its definition, dual components (elapsed time and probability), how it is calculated based on historical cycle time, its visualization on the Kanban board, and how to handle the absence of historical data. SLE is also connected to core Kanban practices, made an explicit requirement of the Definition of Workflow, and highlighted as a minimum expectation in transparent board display. The content further aligns with the category by referencing authoritative sources (Daniel Vacanti), framing SLE as crucial for predictability, and using terminology precisely as defined in Kanban, Agile, and Scrum contexts. Direct mentions are high, both by naming and through detailed explanation. Depth is extensive, including prescriptive guidance and practical application advice. The main audience is clearly practitioners and Agile team members, perfectly matching expectations. The discussion is focused, with little extraneous material around the SLE concept. No penalties are applied, as the material is current, authoritative, and supportive. The confidence score reflects overwhelming alignment in all critical dimensions, only adjusted very slightly to reflect brief digressions into broader Kanban history and metrics.",
+    "level": "Primary"
   }
 }

@@ -1389,7 +1389,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:41",
     "ai_confidence": 72.0,
     "ai_mentions": 15,
@@ -1784,5 +1784,23 @@
     "final_score": 48.0,
     "reasoning": "The content primarily focuses on automation as a means to improve the development process, which is not strictly aligned with the concept of enduring capabilities that enhance team performance over time. While it mentions empowering developers and improving processes, it does so in the context of tools and techniques (automation) rather than discussing the broader organizational capabilities. The discussion touches on aspects like team dynamics and improved quality, but these are secondary to the main focus on automation. Therefore, it does not fully meet the criteria for the 'Capability' category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "VkhIXCsoSJw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:32",
+    "ai_confidence": 5.99,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.25,
+    "ai_depth": 1.12,
+    "ai_intent": 1.1,
+    "ai_audience": 1.15,
+    "ai_signal": 1.06,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses overwhelmingly on the role of automation in quality assurance, testing, deployment, feedback cycles, and team/customer confidence within software development and DevOps contexts. While there are brief mentions of 'cycle time' and delivery flow, at no point does the content mention Service Level Expectation (SLE) directly or reference its concepts, calculations, or Agile-specific usage. Discussions of 'cycle time' are generic and not tied to SLE definitions in Agile, Scrum, or Kanban. The main ideas, depth, and audience are all adjacent to but not aligned with the topic of SLE. No outdated practices, satire, or critical tone are present, so no penalties are applied. Overall, the content is fundamentally off-topic for the SLE category, warranting a very low confidence score.",
+    "level": "Ignored"
   }
 }

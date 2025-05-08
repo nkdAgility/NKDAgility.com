@@ -1374,7 +1374,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:15",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1768,6 +1768,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses the importance of taking time to implement agile changes thoughtfully, touching on concepts like stakeholder engagement and inclusivity. However, it mainly focuses on individual practices and tools rather than enduring capabilities that enhance organizational performance over time. Thus, while it values thoughtful implementation, it does not primarily focus on the systemic and lasting capabilities that are a requirement for the classification of Capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "vftc6m70a0w",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:33",
+    "ai_confidence": 7.55,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 0.7,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "This content makes no explicit mention or discussion of Service Level Expectation (SLE) as defined for Agile, Scrum, or Kanban. It focuses on the metaphorical concept of 'chastity' in agility, meaning taking a thoughtful, slow approach to implementing agile change. While there is discussion around concepts like workplace democratization and stakeholder engagement, these are not directly related to SLE, nor do they touch on cycle time forecasting, probability ranges, or the visibility of delivery timelines—core elements of the SLE category. The only minor alignment is very high-level, as SLE is about predictability and transparency (values consistent with taking time and thoroughness), but no language, examples, or methods concerning SLE are present. The audience is agile practitioners, which has a slight overlap with SLE's audience, but the article is much more about mindset and transformation than about delivery metrics or process predictability. Signal is low due to absence of technical or SLE-specific content. Therefore, a very low confidence score is appropriate.",
     "level": "Ignored"
   }
 }

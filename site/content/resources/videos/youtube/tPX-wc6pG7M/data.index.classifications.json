@@ -270,12 +270,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "tPX-wc6pG7M",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T17:43:53",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses engagement and management practices rather than accountability or ownership within Agile teams.",
+    "calculated_at": "2025-05-01T18:45:22",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content touches on themes of decentralisation and engagement in teams, which indirectly relate to accountability in the context of empowering individuals and encouraging ownership of work. However, it lacks an explicit focus on accountability as a structural construct or outcome ownership specific to roles like Product Owners or Scrum Masters. The core discussion is more about engagement and autonomy rather than clearly defined accountabilities, which diminishes its relevance to the category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1374,7 +1383,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1506,16 +1515,22 @@
     "level": "Secondary"
   },
   "Liberating Structures": {
+    "resourceId": "tPX-wc6pG7M",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:05:52",
-    "ai_confidence": 67.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 50.0,
-    "non_ai_confidence": 0,
-    "final_score": 67.0,
-    "reasoning": "The content discusses themes of engagement, decentralisation, and inclusivity, which align with the principles of Liberating Structures. However, it does not explicitly mention any specific Liberating Structures techniques or their applications. The discussion is primarily focused on general organisational effectiveness and Agile principles rather than on the facilitation techniques themselves. While it touches on concepts that resonate with the philosophy of Liberating Structures, it lacks depth in exploring specific methods or case studies related to them.",
-    "level": "Secondary"
+    "calculated_at": "2025-05-01T18:45:31",
+    "ai_confidence": 2.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses engagement and decentralization, which are relevant themes in Liberating Structures, but does not specifically mention or explore any actual Liberating Structures techniques. It touches on core concepts like team empowerment and collaboration but lacks depth in discussing specific facilitation methods or use cases related to Liberating Structures.",
+    "level": "Ignored"
   },
   "Time to Market": {
     "category": "Time to Market",
@@ -1769,5 +1784,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses concepts aligned with engagement, decentralisation, and empowering teams, which are relevant to Agile principles. It mentions 'principles over rules,' highlighting the importance of shared principles in guiding team behavior, aligning with the idea of discipline. However, the overall focus is more on engagement and organizational structure rather than a comprehensive analysis of discipline as a structured field of study and practice. While several key aspects of discipline are touched upon, the depth specifically applied to the systemic aspect of disciplines like Agile is not fully explored.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "tPX-wc6pG7M",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:52",
+    "ai_confidence": 4.61,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.8,
+    "ai_depth": 2.1,
+    "ai_intent": 2.3,
+    "ai_audience": 5.4,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content is focused on organisational engagement, decentralisation, and leadership principles in Agile teams. There is no direct or implicit reference to Service Level Expectation (SLE) as defined in the classification (such as forecasting delivery timelines, probability-based time ranges, or explicit Agile flow metrics). The main concepts, examples, and guidance revolve around engagement, autonomy, and building a collaborative environment but do not touch upon SLE or its calculation/application in Agile, Scrum, or Kanban. The only partial alignment comes from the generic Agile context, but this is tangential and does not address SLE directly. The intended audience is agile leaders and teams, which partially overlaps, but the content's purpose and substance do not pertain to SLE. All evaluation dimensions are scored low, resulting in a low overall confidence score.",
+    "level": "Ignored"
   }
 }

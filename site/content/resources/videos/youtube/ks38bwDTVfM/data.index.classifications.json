@@ -1371,7 +1371,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1765,6 +1765,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "While the content discusses strategies that can improve team performance, it focuses heavily on Scrum roles and practices rather than the enduring competencies that constitute the category of Capability. The strategies mentioned are practical tools rather than cultivated capabilities that align with the core themes of Capability, which emphasizes development over time, integration into culture, and systemic impact.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ks38bwDTVfM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:40",
+    "ai_confidence": 4.29,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.5,
+    "ai_audience": 0.6,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is focused on three core Agile practices: establishing a Definition of Done, avoiding overcommitting, and prioritizing refinement for better Sprint outcomes. There is no explicit or implicit mention of Service Level Expectation (SLE), nor is there any discussion of its definition, calculation, application, or improvement within an Agile, Scrum, or Kanban context. The only mild conceptual similarity is the brief mention of 'lead time,' but it is used in a generic sense and not tied to SLE theory or metrics. Therefore, the alignment and depth scores are very low, as the content neither addresses SLE directly nor explores its concepts. The intent is tangential to the category, with the focus on general productivity/team practices. Audience alignment and signal/noise ratio are both slightly higher since the article targets Agile/Scrum practitioners, which overlaps with the typical SLE audience, but not specifically for this purpose. No penalties are applied as the content is current and neutral in tone. The low confidence score accurately reflects the almost total absence of SLE-related content.",
     "level": "Ignored"
   }
 }

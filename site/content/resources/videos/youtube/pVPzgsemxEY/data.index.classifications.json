@@ -1347,7 +1347,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1742,5 +1742,23 @@
     "final_score": 78.0,
     "reasoning": "The content focuses heavily on the concept of Kaizen as a means of continuous improvement within Scrum and emphasizes its role in fostering an ongoing mindset geared towards enhancing processes. It thoroughly discusses the characteristics of Kaizen that align closely with capabilities, such as adaptability, system optimization, and the emphasis on incremental improvements. The blog post provides a good level of detail on how to apply these concepts within Scrum, indicating a deep understanding of their implications for team dynamics and organization performance. Though it mentions roles and outputs within Scrum, the primary focus remains on developing the capability of continuous improvement rather than on isolated practices or transient tools.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "pVPzgsemxEY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:49",
+    "ai_confidence": 9.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.6,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "This content is a detailed exploration of Kaizen (continuous improvement) within Scrum and Kanban contexts. Nowhere does it mention, define, calculate, or discuss Service Level Expectation (SLE) by name or concept. There are a few tangential references to cycle times and process measurement, but these are set firmly within the context of Kaizen, not SLE. The main themes are improvement, retrospectives, and workflow optimization—SLE is neither cited nor used as an example. The audience is Scrum and Kanban practitioners, somewhat overlapping with the SLE audience, but the focus is not on forecasting, elapsed time, or probability as in SLE. There is a minuscule theoretical link via references to cycle time, so nonzero micro-scores are given for mentions, alignment, and depth, with slightly higher marks for intent, audience, and signal because the general themes and audience are related to process improvement. No penalties were applied; the content is neither outdated nor oppositional. The resulting confidence is extremely low, as SLE is not meaningfully addressed.",
+    "level": "Ignored"
   }
 }

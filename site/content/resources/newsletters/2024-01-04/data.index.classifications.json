@@ -1350,7 +1350,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1744,6 +1744,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily promotes Scrum training courses and emphasizes learning roles and artefacts rather than discussing enduring capabilities that empower teams. While it does mention the term 'mastering Scrum' and acknowledges the importance of agile principles, it focuses heavily on the specifics of training and individual skill acquisition rather than embedding capabilities within an organisational culture, which is a core aspect of the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Knb7n17SqYe",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:32",
+    "ai_confidence": 3.66,
+    "ai_mentions": 0.4,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.2,
+    "ai_intent": 0.5,
+    "ai_audience": 8.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The provided content is promotional material for Scrum and Agile training courses by NKDAgility. Nowhere in the title, description, or content is 'Service Level Expectation' (SLE) explicitly mentioned, nor are any key components of SLE as per the definition (such as calculation using cycle time, the time-probability duo, or agile-specific SLE concepts) discussed. The content focuses on the value of Scrum mastery, continuous improvement, and offers class schedules, audiences, and discounts. The closest conceptual alignment is indirect, with mentions of continuous improvement and Agile, but this is far too general for classification as 'Service Level Expectation' under the strict guidelines. The audience (Agilists, Scrum Masters, Product Owners) matches, but the actual substance regarding SLE is almost totally absent, leading to a very low confidence score. No penalties were applied as there's no evidence of outdated practices or critical tone against the category.",
     "level": "Ignored"
   }
 }

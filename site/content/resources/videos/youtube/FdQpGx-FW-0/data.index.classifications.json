@@ -1383,7 +1383,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1778,5 +1778,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the pitfalls of rigid methodologies and emphasizes a principles-based approach to agile transformation, which aligns with the concept of developing capabilities within organizations. It mentions themes of autonomy, adaptability, and fostering a learning environment, key elements of capability. However, the focus is more on criticism of prescriptive methods rather than a comprehensive discussion on capabilities themselves, which limits its depth and direct mention, resulting in a moderately high but not overwhelming confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "FdQpGx-FW-0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:41",
+    "ai_confidence": 7.17,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 2.1,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content provides a general discussion about Agile principles, pitfalls of prescriptive frameworks, and the importance of adaptability, transparency, and principle-driven methods. Nowhere does it directly reference Service Level Expectation (SLE); there are no mentions (direct or indirect) of SLE, its calculation, definition, application, or its function as a forecasted time range with a probability percentage. While topics like data accessibility and transparency are discussed, they are not framed within the context of SLE or Agile flow metrics. The overall content is markedly about cultural and mindset shifts in Agile, not the specific technical forecasts or metrics underlying SLE. The target audience (Agile practitioners interested in culture and transformation) somewhat overlaps with the SLE audience, but the lack of technical detail and explicit reference means only a limited alignment. All scoring dimensions reflect a near absence of SLE relevancy, and no penalties were applied because the content is not outdated, nor critical of SLE. The very low confidence score is appropriate because less than 10% of content and intent intersects even tangentially with the concept of SLE as defined.",
+    "level": "Ignored"
   }
 }

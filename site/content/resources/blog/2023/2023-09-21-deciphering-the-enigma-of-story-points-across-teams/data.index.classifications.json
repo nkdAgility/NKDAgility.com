@@ -843,12 +843,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "LKp5S7_4Kbw",
     "category": "Accountability",
-    "calculated_at": "2025-02-11T18:14:13",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the use of Story Points and metrics for team performance, without a clear focus on accountability or team ownership principles.",
+    "calculated_at": "2025-05-01T18:45:49",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses the use of Story Points in agile teams, focusing on how to effectively measure and enhance performance and value delivery. While it touches on aspects related to accountability—particularly in terms of performance metrics—it primarily centers around the subjective nature of Story Points rather than on clearly defined roles or outcome ownership in a structured accountability context. The mention of team performance metrics supports accountability discussion, but it does not explicitly address how accountability shapes behaviors or ownership of outcomes within a team structure.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1374,7 +1383,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:32",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1506,15 +1515,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "LKp5S7_4Kbw",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:15:52",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the use of Story Points in Agile teams, discussing their subjective nature and suggesting alternative metrics for performance evaluation. While it touches on team discussions and collaboration, it does not explicitly mention or align with the principles or techniques of Liberating Structures. The discussion lacks depth regarding facilitation techniques or group dynamics, which are central to the Liberating Structures category. Therefore, the confidence score reflects a minimal connection to the category.",
+    "calculated_at": "2025-05-01T18:45:36",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on discussing Story Points as metrics in agile teams, which does not explicitly mention any Liberating Structures or their facilitation techniques. While there is a brief reference to tools that can aid in team discussions, such as Planning Poker, the overall discussion lacks direct engagement with specific methods from the Liberating Structures toolkit. Thus, it does not meet the criteria for deeper alignment, direct mention, or in-depth discussion related to Liberating Structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1768,6 +1783,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "While the content discusses concepts relevant to Agile principles, it primarily focuses on the practical application of Story Points and metrics, rather than the systemic principles and methodologies that define a discipline. The mention of Agile frameworks aligns somewhat with the category, but the depth of discussion lacks a broader exploration of discipline as a structured field of study and professional standards.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "LKp5S7_4Kbw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:48",
+    "ai_confidence": 6.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.9,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is focused primarily on story points, throughput, and value delivery in agile teams. Nowhere is Service Level Expectation (SLE) directly mentioned or referenced, nor is its definition, calculation, or application discussed. The themes align somewhat with related flow metrics—cycle time, throughput, and forecasting are mentioned—but SLE itself is strictly outside the direct and even tangential discussion. No guidance on SLE establishment, transparency, probability, or authoritative references is present. The content’s audience (agile practitioners) and topic (team metrics and improvement) slightly overlap with those interested in SLE, but all other aspects—intent, depth, and main focus—remain outside the SLE category according to the strict definition. There is virtually no signal for SLE, so the overall confidence is extremely low and penalization is not applicable.",
     "level": "Ignored"
   }
 }

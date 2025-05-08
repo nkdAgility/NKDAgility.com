@@ -1368,7 +1368,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:44",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1762,6 +1762,24 @@
     "non_ai_confidence": null,
     "final_score": 28.0,
     "reasoning": "The content primarily focuses on the assessment phase in consulting, discussing the Scrum Master's perspective on traditional assessment methods versus a more engaged, adaptive approach. While it touches on continuous assessment and adaption, it does not center on the enduring competencies that define capability. The emphasis is more on the process and roles rather than the deeper structural capabilities that empower teams, leading to a low confidence score in aligning fully with the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GmLW6wNcI6k",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:00",
+    "ai_confidence": 2.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 1.4,
+    "ai_audience": 3.2,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content extensively discusses the assessment phase in agile consulting. It emphasizes continuous assessment, the value of hands-on engagement, and minimizing upfront analysis. However, it makes no direct mention of Service Level Expectation (SLE), nor does it discuss related metrics like cycle time, elapsed days, or probabilities as defined for SLE. The content is about agile consulting and assessment approaches—relevant to Scrum and agile teams—but completely lacks any reference to SLE calculation, definition, transparency, or its application in Kanban or Scrum frameworks. There is no discussion of establishing or using SLEs, and no examples, calculations, or even terminology overlap. The audience is generally practitioners interested in agile improvement, which is superficially related, but the main purpose and focus are misaligned with the SLE category. The signal-to-noise ratio is low for this category, as most content is off-topic regarding SLE. No penalties have been applied, as the tone is positive and current. The score is just above absolute minimum due to the faint connection in audience and intention toward improvement in agile, but otherwise, this content does not fit the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

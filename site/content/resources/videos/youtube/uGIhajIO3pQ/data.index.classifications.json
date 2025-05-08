@@ -1266,7 +1266,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1660,6 +1660,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content does touch upon Agile methodologies and community learning, which are related to the theme of capability. However, it primarily focuses on promoting an event and discussing the community aspect rather than delving deeply into the enduring competencies or systemic capabilities that empower organizations. The mentions related to community interaction and collaboration suggest a faint alignment with capability development, but the depth and primary focus are lacking, leading to a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "uGIhajIO3pQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:00",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is a promotional overview for Agile Scotland 2023, focusing on the value of community, collaboration, and engagement within the Scottish agile community. Nowhere does the content reference Service Level Expectation (SLE) either directly by name or concept. There is no discussion of SLE definitions, calculation, application, probability, or related practices from Agile, Scrum, or Kanban theory. The audience could include agile practitioners, so a nonzero audience score is given, but the absence of any relevant SLE concepts or mentions means all other scores are at the minimum. Overall, the confidence for fitting this into the 'Service Level Expectation' category is 0.",
     "level": "Ignored"
   }
 }

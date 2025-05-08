@@ -1290,7 +1290,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1685,5 +1685,23 @@
     "final_score": 62.0,
     "reasoning": "The content discusses the importance of combining theory with experience in Scrum to develop critical thinking skills, which aligns with the capability to enhance business agility and team performance. While it discusses concepts related to learning and improvement, the focus is more on various roles and practices within Scrum rather than directly on enduring competencies or systemic capabilities. Therefore, the alignment and depth are present but somewhat limited.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "BmlTZwGAcMU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:17",
+    "ai_confidence": 4.261,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.6,
+    "ai_intent": 1.5,
+    "ai_audience": 6.1,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content discusses immersive learning in Scrum, the importance of theory combined with experience, and provides examples such as Daily Scrum, Definition of Done, and continuous improvement. Nowhere does it directly mention Service Level Expectation (SLE), nor does it discuss its calculation, application, or use in Agile, Scrum, or Kanban. The intent is focused on educational methods and improving practitioner understanding, not on the predictability or flow metrics SLE facilitates. While the audience overlaps (Scrum practitioners, trainers), the conceptual alignment, depth, and direct signal for SLE are almost nonexistent. Signal-to-noise and audience alignment are higher because the content is focused and relevant to Scrum practitioners, but on a different topic. The sum of this yields a very low confidence score for the SLE category.",
+    "level": "Ignored"
   }
 }

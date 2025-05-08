@@ -1386,7 +1386,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1781,5 +1781,23 @@
     "final_score": 75.0,
     "reasoning": "The content primarily discusses the importance of investing in capabilities such as employee training and organizational processes during economic downturns. It highlights the value of building a resilient organization through empowerment, continuous improvement, and a culture of learning, which aligns well with the concept of capability. While some discussion touches on related practices and examples, the focus remains on the enduring competencies needed for organizations to adapt and thrive, warranting a high confidence score. However, the treatment of specific roles or isolated techniques may slightly detract from a perfect alignment with the 'Capability' category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "wiEH7vsfrSE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:02",
+    "ai_confidence": 4.36,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.5,
+    "ai_intent": 0.2,
+    "ai_audience": 2.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is focused on business resilience during recessions, emphasizing the value of investing in people, processes, and effectiveness (often through agile, Kanban, and continuous improvement mindsets) rather than cost-cutting. While there are references to Kanban and general agile practices, there are no direct or indirect mentions of Service Level Expectation (SLE), nor is SLE's definition, calculation, or application discussed. The article does not address SLE components such as elapsed time range and probability, SLE's role in improving predictability, or authoritative sources on SLE. The target audience (practitioners, agile leaders, executives) aligns only tangentially, as the piece is better suited to general business managers considering agile as one possible crisis strategy. The signal-to-noise ratio is low for SLE, as the discussion centers on organizational change, not Kanban metrics. Depth and conceptual alignment for SLE are minimal. Therefore, the confidence score appropriately reflects that this content does not meaningfully match the Service Level Expectation category.",
+    "level": "Ignored"
   }
 }

@@ -1368,7 +1368,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1763,5 +1763,23 @@
     "final_score": 45.0,
     "reasoning": "The content discusses Agile apprenticeships and the importance of ongoing learning and mentorship, which are related to developing team capabilities. However, it primarily focuses on roles (Scrum Master, mentor) and practices (coffee chats, consultations) rather than the enduring competencies that define capabilities as per the provided classification. It lacks a deeper exploration of how these apprenticeships contribute to organizational capability and systemic improvement, resulting in a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "vHNwcfbNOR8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 2.3,
+    "ai_audience": 5.5,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) directly or indirectly. The discussion is exclusively focused on the concept of Agile apprenticeships, mentorships, and methods for continuous learning within the Agile community. It is tailored to practitioners interested in professional growth, community building, and knowledge sharing in Agile, Scrum, and related practices, but there is no exploration of delivery predictability, historical cycle time analysis, SLE calculation, or use of SLE concepts. There is slight audience overlap due to the Agile/Scrum focus, but the intent and main subject matter are entirely unrelated to SLE. No penalties were necessary, as the content is not outdated or critical; it is simply out of scope for the 'Service Level Expectation' category.",
+    "level": "Ignored"
   }
 }

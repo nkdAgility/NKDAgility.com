@@ -1269,7 +1269,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1663,6 +1663,24 @@
     "non_ai_confidence": null,
     "final_score": 36.0,
     "reasoning": "The content discusses governance and its impact on agility and innovation, highlighting the need for streamlined processes and the potential pitfalls of over-governance. However, it primarily focuses on the implications of governance rather than directly addressing the enduring competencies or capabilities that empower teams and organizations. While it touches on the importance of balance and process review, it does not thoroughly explore the cultivation or integration of capabilities as defined in the Capability category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "yvIanYh3bcQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:15",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.3,
+    "ai_audience": 2.2,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on governance—specifically lean governance, compliance practices, and how to optimize organisational processes. Nowhere is Service Level Expectation (SLE) mentioned either directly or by concept: there are no references to forecasting work item delivery times, SLE definitions, use of cycle time data to predict flow, or any relationships to Kanban or Scrum SLE practices. The main audience is practitioners interested in governance, not necessarily agile delivery teams or those seeking SLE guidance. There is very minimal, if any, incidental alignment via generic mentions of 'transparency', 'efficiency', or 'DevOps'; however, none support the SLE concept. The signal is quite focused (high signal-to-noise), but the topic is off-scope. Thus, all scoring dimensions are extremely low, and the calculated confidence just above absolute zero, reflecting that this content does not fit under the Service Level Expectation category.",
     "level": "Ignored"
   }
 }

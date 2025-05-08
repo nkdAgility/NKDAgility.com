@@ -1353,7 +1353,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1748,5 +1748,23 @@
     "final_score": 47.0,
     "reasoning": "The content discusses evidence-based management, which touches on improving decision-making and team dynamics through data. However, it primarily focuses on the use of metrics and decision-making strategies, rather than developing enduring capabilities. While it mentions ongoing learning and adaptation, it lacks a detailed exploration of how these practices translate into systemic capabilities within an organization. The treatment of metrics and evidence-based approaches, though relevant, tends to lean more towards tactical implementation rather than the cultivation of capabilities as defined in the category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Nf6XCdhSUMw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:45",
+    "ai_confidence": 14.57,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 2.3,
+    "ai_intent": 2.8,
+    "ai_audience": 4.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content discusses evidence-based management, metrics, and data-driven improvement within Agile and organizational contexts but makes no mention—explicit or implicit—of Service Level Expectation (SLE) or its defining features (cycle time ranges, probability, forecasts, Kanban or Scrum SLE practice). The content talks about general principles of selecting metrics, measuring with purpose, and informed decision-making, which are partially conceptually adjacent (e.g., continuous improvement), but does not directly or indirectly address SLE, its calculation, use in forecasting, or team transparency concerns. Audience overlap exists: it's aimed at Agile practitioners and leaders, but the material remains generic regarding metrics. The signal-to-noise ratio is moderate, as most discussion centers on general evidence-based management rather than SLE specifics. No penalties were warranted as the material is not outdated, satirical, or critical. The low confidence reflects the lack of direct connection to Service Level Expectation as a concept or practice.",
+    "level": "Ignored"
   }
 }

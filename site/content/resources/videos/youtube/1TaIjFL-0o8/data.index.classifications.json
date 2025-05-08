@@ -1362,7 +1362,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1494,15 +1494,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "1TaIjFL-0o8",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:28:26",
-    "ai_confidence": 32.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 40.0,
-    "ai_depth": 20.0,
-    "non_ai_confidence": 0,
-    "final_score": 32.0,
-    "reasoning": "The content primarily focuses on the role of the Scrum Master within Agile frameworks, discussing accountability and the importance of questioning established practices. While it touches on facilitation and engagement, it does not explicitly mention Liberating Structures or delve into specific techniques associated with them. The discussion aligns somewhat with the principles of enhancing collaboration and participation, but lacks depth in exploring Liberating Structures as a distinct category.",
+    "calculated_at": "2025-05-02T04:20:15",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on the role and responsibilities of the Scrum Master within Agile frameworks, rather than discussing Liberating Structures specifically. There are no direct mentions of Liberating Structures methods or their implementation. While the text touches upon facilitation and engagement, it lacks detailed exploration of any specific Liberating Structures or their application in Scrum or team interactions, thus not meeting the category's criteria for primary focus and depth.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1757,5 +1763,23 @@
     "final_score": 56.0,
     "reasoning": "The content discusses the role of a Scrum Master in depth, emphasizing their broader responsibilities and influence within the organization. This aligns with the principles of professional conduct and decision-making discussed within the 'Discipline' category. However, the focus is heavily on the Scrum Master's role and the Agile framework, which may drift away from systemic perspectives and the evolution of disciplines. While there are allusions to accountability and organizational influence, the overall emphasis remains primarily on specific Agile practices rather than discussing the systematic application and maturation of the discipline as a whole.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "1TaIjFL-0o8",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:01",
+    "ai_confidence": 9.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.5,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) directly, nor does it address its definition, calculation, application, or theoretical discussion as specified in the category definition. There are zero explicit mentions of SLE and no implicit references to related SLE concepts (cycle time, probability, prediction, flow efficiency) within an Agile, Scrum, or Kanban context. The main focus is on expanding Scrum Master responsibilities, challenging organizational norms, and fostering effective team and organizational relationships—none of which overlap with the required depth or conceptual boundaries for SLE. The intent is developmental and relevant to Scrum practitioners, but it is only tangentially related to agile process improvement and does not involve SLE. No signs of intentional satire, outdated content, or contradictions were found. Therefore, all dimension scores are appropriately low, with the highest being in audience alignment due to the shared practitioner audience. The weighted formula produces a very low confidence, reflecting the lack of category fit.",
+    "level": "Ignored"
   }
 }

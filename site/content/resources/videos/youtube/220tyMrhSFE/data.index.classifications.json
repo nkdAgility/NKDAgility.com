@@ -1323,7 +1323,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1718,5 +1718,23 @@
     "final_score": 72.0,
     "reasoning": "The content discusses several actionable principles related to DevOps, such as understanding the current state, streamlining practices, fostering ownership, and maintaining compliance while embracing flexibility and adaptability. These areas align closely with key principles of DevOps, particularly in how they guide teams to better engage with their processes. The discussion of continuous improvement and customer collaboration is present, giving the content a strong connection to actionable principles. However, while specific principles are mentioned, the focus sometimes shifts to practical steps, which diminishes the depth of discussion on the foundational principles themselves.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "220tyMrhSFE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:52",
+    "ai_confidence": 11.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.6,
+    "ai_intent": 0.8,
+    "ai_audience": 4.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on the 'three core principles of Caman Workflow Management'—clarity (defining and visualising workflow), active management, and continuous improvement. Nowhere does it directly reference Service Level Expectation (SLE) or use terms related to its definition, calculation, or application. While some related agile and Kanban-adjacent concepts such as transparency, workflow visualisation, and improvement are discussed, these remain at a process/practice level and never connect to SLE as a forecast metric or delivery predictor. There are no discussions on elapsed time ranges, probabilities, or historical cycle time analysis. The target audience is practitioners interested in workflow efficiency, which partially overlaps with the SLE audience, but the lack of SLE-specific content and measurement greatly limits conceptual alignment, depth, and intent. Signal-to-noise ratio suffers because much of the content is generic advice. Thus, the overall confidence is very low, well below the threshold for categorization under Service Level Expectation.",
+    "level": "Ignored"
   }
 }

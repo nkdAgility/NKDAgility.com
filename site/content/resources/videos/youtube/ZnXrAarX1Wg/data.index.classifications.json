@@ -270,12 +270,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "ZnXrAarX1Wg",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T14:40:03",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the role of Agile consultants and their responsibilities, without a clear focus on accountability within Agile teams.",
+    "calculated_at": "2025-05-02T04:20:29",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the role of Agile consultants and how they should approach their clients. While it touches on the need for consultants to guide and suggest changes, it does not clearly define accountability structures or roles within Agile frameworks. The mention of coaching and leadership does not equate to a thorough discussion of accountability as it pertains to outcome ownership in work systems. Hence, the overall confidence score is low due to the lack of direct focus on accountability as a primary theme.",
     "level": "Ignored"
   },
   "Continuous Delivery": {
@@ -1350,7 +1359,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1482,15 +1491,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "ZnXrAarX1Wg",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:11:24",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:37",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the role of Agile consultants and their responsibilities, with no direct mention of Liberating Structures or its techniques. While it touches on themes of collaboration and change, it does not delve into specific facilitation methods or the principles of Liberating Structures. The discussion is more aligned with general Agile practices rather than the specific facilitation techniques that characterise Liberating Structures.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses Agile consulting and the role of Agile Consultants but does not mention any specific Liberating Structures or delve into facilitation techniques. It lacks direct references to the category, has minimal conceptual alignment with core themes, and provides very little depth related to Liberating Structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1744,6 +1759,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "While the content discusses the role of an Agile consultant, it focuses primarily on practical aspects of coaching, mentoring, and guiding within organizations without delving into the systemic principles that characterize the discipline of Agile itself. The mention of being more than just a coach highlights an understanding of professional practice but lacks a comprehensive exploration of the underlying principles or methodologies representative of the discipline. Thus, although some alignment exists, the content does not engage deeply enough with the broader discussion of discipline as defined in the context provided.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "ZnXrAarX1Wg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:58",
+    "ai_confidence": 2.41,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 0.3,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "This content is focused on the mindset, pitfalls, and role of Agile consultants, emphasizing the differences between coaching, teaching, and consulting within Agile transformations. There is no direct mention or even a passing reference to Service Level Expectation (SLE), nor does the content discuss SLE-related practices, forecasting, or metrics. While the themes are centered in Agile and Scrum, all substantive topics (consultancy ethics, coaching, continuous improvement, organizational change) remain general and disconnected from the explicit subject of SLE as defined. The only score above zero in each dimension reflects a faint conceptual connection—since Agile consultants might, in theory, discuss flow metrics like SLE in their work—but this is pure inference and not supported by the actual content, which misses any SLE terminology, calculation, or discussion of delivery predictability. The final confidence score is extremely low and appropriate given the absence of any SLE references or discussion.",
     "level": "Ignored"
   }
 }

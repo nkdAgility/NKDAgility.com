@@ -1374,7 +1374,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1769,5 +1769,23 @@
     "final_score": 85.0,
     "reasoning": "The content directly discusses core Agile principles such as delivering value, adapting to change, and encouraging continuous improvement. It critiques the mechanical application of Agile rituals, emphasizing the need for teams to focus on outcomes rather than mere compliance with processes. The emphasis on human judgment in complex systems also ties into core Agile principles like adaptability and respect for individuals, thereby aligning well with the category. The depth of discussion is strong, with clear examples and explanations, although it could provide even more explicit rules or frameworks that further emphasize the principles aspect.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "XZVixdVy-PQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:25",
+    "ai_confidence": 6.54,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content does not directly mention Service Level Expectation (SLE), nor does it allude to concepts specific to SLE as outlined in Agile, Scrum, or Kanban guidance. There are no discussions of cycle time ranges, probabilities, or forecasting delivery timeframes. The text focuses exclusively on philosophical aspects of Agile, rituals versus outcomes, and general improvement themes. While the intended audience (Agile practitioners or organizations) could potentially overlap with those interested in SLE, none of the content addresses SLE concepts, its calculation, application, or improvement. There is no reference to flow metrics in a way that connects to SLE, nor is there any reference to Kanban/Scrum original sources as required by the strict inclusion criteria. All scores are very low, reflecting a negligible direct or indirect fit.",
+    "level": "Ignored"
   }
 }

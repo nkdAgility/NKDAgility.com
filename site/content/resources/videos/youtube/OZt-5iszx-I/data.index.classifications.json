@@ -1371,7 +1371,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1766,5 +1766,23 @@
     "final_score": 62.0,
     "reasoning": "The content primarily discusses the role of user feedback in Agile development and how to effectively integrate it into the workflow. While this speaks to enhancing capabilities in terms of responsiveness and continuous improvement, the emphasis on user feedback as a tool and method (rather than the development of enduring competencies or systematic capabilities) detracts from a strong alignment with the 'Capability' category. Furthermore, there is significant focus on practices and activities rather than the cultivation and embedding of capabilities within the organizational culture and processes. Although the application of Agile principles aligns with some characteristics of capability, the main focus remains on actionable work stemming from user feedback, rather than cultivating organizational competencies.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "OZt-5iszx-I",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:02",
+    "ai_confidence": 16.43,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 2.3,
+    "ai_audience": 5.2,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on the importance of responding rapidly to user feedback within Agile and Scrum teams. While it discusses the concept of minimizing the time between receiving feedback and implementing changes, it does not mention Service Level Expectation (SLE) directly or indirectly using any terminology specific to SLE. There is no discussion of SLE's definition, formal calculation using historical cycle times, probabilities, or any reference to establishing, displaying, or leveraging SLE, nor does it cite relevant frameworks or authoritative sources connected to SLE. The primary audience overlaps somewhat with those interested in SLE (Agile practitioners, Product Owners), but the principal message and actionable advice stay centered on shortening feedback loops and maximizing value—not on quantifying or forecasting workflow time via SLE. Signal-to-noise ratio is moderate: while the article is clear and on topic for continuous improvement, it never enters the explicit or even implicit territory of SLE as defined. Overall, the content’s alignment and depth regarding SLE are extremely minimal, resulting in a low confidence classification.",
+    "level": "Ignored"
   }
 }

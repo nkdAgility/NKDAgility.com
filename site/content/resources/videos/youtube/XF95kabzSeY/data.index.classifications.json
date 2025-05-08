@@ -1287,7 +1287,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1681,6 +1681,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content focuses primarily on the role of a Product Owner and emphasizes communication, vision, and engagement, which are more closely tied to roles and responsibilities than to enduring capabilities. Although there are mentions of 'defining success' and 'delivering value', these discussions do not delve deeply into how capabilities are built, measured, or related to organizational culture. The content does not sufficiently address the development of capabilities within teams or their impact on business agility, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "XF95kabzSeY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:35",
+    "ai_confidence": 6.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 10.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is a motivational and practical guide for Product Owners, focusing on articulating product vision, engaging teams, and delivering value. There are no explicit or implicit mentions of Service Level Expectation (SLE), nor of its definition, calculation, or usage in Agile, Scrum, or Kanban. There is no discussion of forecasted delivery timeframes, probability ranges, or flow metrics as defined by SLE. The audience (Product Owners/practitioners) overlaps with those who could care about SLE, but the focus is entirely different: vision, communication, and value delivery. Thus, there is a very low conceptual alignment and almost no depth or intent fit for the SLE category. Signal is low due to some general relevance to Agile practice, but no actual SLE content. No penalties are applied as the content is neither outdated nor negative toward SLE. The exceptionally low confidence score reflects the total lack of direct or relevant SLE material.",
     "level": "Ignored"
   }
 }

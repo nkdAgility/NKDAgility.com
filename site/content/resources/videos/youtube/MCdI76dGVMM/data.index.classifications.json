@@ -249,12 +249,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "MCdI76dGVMM",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T19:56:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the challenges of professionalism in becoming a Scrum Master, without a clear focus on accountability or team dynamics.",
+    "calculated_at": "2025-05-02T04:20:06",
+    "ai_confidence": 3.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses the role of a Scrum Master and touches on professionalism but lacks a clear focus on accountability as defined in the category. While it mentions the importance of professionalism in relation to Scrum, it does not explicitly address outcome ownership or the structural accountabilities that influence performance in work systems. Therefore, the content has some relevance but is not primarily focused on accountability.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -744,12 +753,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "MCdI76dGVMM",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T19:58:00",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the challenges of becoming a professional Scrum Master, focusing on personal development and understanding rather than strategic approaches within Agile frameworks.",
+    "calculated_at": "2025-05-02T04:20:16",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 15,
+    "ai_depth": 5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses the journey to professionalism within the framework of Scrum, which while connected to professional development, doesn't discuss strategic planning or decision-making tied to organizational goals. It emphasizes individual growth and understanding of Scrum methodologies rather than aligning team goals or broader organizational strategies.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1290,7 +1308,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1422,15 +1440,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "MCdI76dGVMM",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:52:36",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:06",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the challenges of becoming a professional Scrum Master, focusing on professionalism and mastery within the Scrum framework. There are no direct mentions of Liberating Structures or their techniques, and the discussion does not align with the core themes of facilitation techniques or group dynamics. The depth of discussion is also limited to personal insights on professionalism rather than exploring collaborative methods or practices associated with Liberating Structures.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the journey of becoming a professional Scrum Master, focusing on professionalism and theoretical understanding, without mentioning any specific Liberating Structures or facilitation techniques. Therefore, it aligns very low with the category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1685,5 +1709,23 @@
     "final_score": 75.0,
     "reasoning": "The content discusses the journey of becoming a professional Scrum Master with a strong emphasis on professionalism, continuous learning, and an understanding of the underlying principles of Scrum. It addresses the systemic application of methodologies in Agile, touching upon ethical considerations and shared principles that guide professional conduct. However, while it aligns well with the thematic elements of discipline, it primarily focuses on personal development and challenges rather than a broader systemic view of discipline as requested. Hence, it receives a high confidence score but falls short of being fully aligned with the specified category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "MCdI76dGVMM",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 2.84,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 1.0,
+    "ai_intent": 0.7,
+    "ai_audience": 8.1,
+    "ai_signal": 3.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is centered entirely around the challenges of achieving professionalism as a Scrum Master, focusing on mindset, theory, and dedication to the Scrum framework. Nowhere does it mention, explain, or even allude to Service Level Expectation (SLE), nor does it discuss any quantifiable flow metric, forecast, or probability-based expectation relevant to work item completion. There is no reference to SLE terminology, calculation, application, or improvement. Depth covers only professional attitude and the philosophical foundations of Scrum mastery, not delivery predictability, cycle time, or statistical flow analysis. As such, the only minor scoring in direct mention and conceptual alignment is a token minimum, and audience fit is only somewhat relevant because the overall topic is Scrum-related. Signal is low, as the entirety of the discussion is unrelated noise for the strict SLE category. There are no penalties applied because the content does not reference obsolete or critical stances regarding SLE; it is simply off-topic for this classification.",
+    "level": "Ignored"
   }
 }

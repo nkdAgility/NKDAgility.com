@@ -1353,7 +1353,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:17",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1748,5 +1748,23 @@
     "final_score": 73.0,
     "reasoning": "The content discusses enhancing team effectiveness and continuous improvement through the application of Scrum, focusing on building capability rather than merely using tools or techniques. It explicitly mentions the importance of growing capability to implement Scrum effectively, which aligns with the key themes of the Capability category. However, while it delves into the need for understanding foundational Scrum principles, it does not deeply cover ongoing cultivation of capabilities within the organizational culture, which affects the overall alignment score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "WAc9JUyPY5M",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 4.38,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.7,
+    "ai_audience": 6.9,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is a promotional and informational newsletter for Scrum-focused training, podcasts, and resources. At no point does it mention 'Service Level Expectation' (SLE), nor does it discuss its definition, calculation, or application. The content focuses on the value of implementing Scrum and related courses, mentioning continuous improvement, transparency, and empiricism, but these are general agile concepts and not specific to SLE. The audience (Scrum practitioners, managers, and teams) is broadly agile/Scrum-aligned, which is why the audience and signal scores are higher, but the rest of the dimensions remain extremely low due to the lack of SLE-related material. No penalties are applied as the material is up-to-date and does not contradict the category; it simply omits it.",
+    "level": "Ignored"
   }
 }

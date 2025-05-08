@@ -1320,7 +1320,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:18",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1714,6 +1714,24 @@
     "non_ai_confidence": null,
     "final_score": 36.0,
     "reasoning": "The content primarily discusses the role of an Agile coach, focusing on the responsibilities and qualities needed for this role. While it touches upon aspects of teaching, mentoring, and inspiring as essential components, it does not delve deeply into the concept of capabilities as defined in the category. The discussions on Agile principles and transformation hint at capability development but do not provide sufficient depth or systemic approaches. Overall, it lacks a primary focus on the Capability category, leading to a moderate confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "sxXzOFn7iZI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:35",
+    "ai_confidence": 8.36,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 0.7,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused entirely on hiring Agile coaches and what qualities to look for, such as mentoring, teaching, and inspiring Agile teams. Key Agile concepts such as Scrum, Kanban, and continuous improvement are referenced, but Service Level Expectation (SLE) is never directly mentioned or alluded to. There is no discussion of SLE definition, calculation, usage, or how it would be established or practically applied in Agile, Scrum, or Kanban frameworks. The content does target an Agile-practitioner audience, but it is not aligned to the category; its main themes never address forecast ranges, probability, or cycle time metrics in the context of SLE. Therefore, all scores are extremely low, and the confidence score proportionally reflects that this content is almost entirely irrelevant to the SLE category.",
     "level": "Ignored"
   }
 }

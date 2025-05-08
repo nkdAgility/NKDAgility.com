@@ -255,12 +255,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "5bgfme-Pspw",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T07:25:30",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the concept of momentum in product delivery and team alignment rather than accountability in the context of ownership and team dynamics.",
+    "calculated_at": "2025-05-02T04:20:16",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.4,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses the concept of 'momentum' in product development and highlights the importance of direction and team movement towards shared goals. However, it does not explicitly address accountability or outcome ownership in a structured way. While it touches on aspects of teamwork and direction which could imply accountability, it lacks direct mentions or detailed discussion of roles like Product Owner or Scrum Master, or how accountability as a structural construct shapes behavior. Thus, the primary focus remains on momentum rather than accountability itself.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1347,7 +1356,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1479,15 +1488,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "5bgfme-Pspw",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:07:39",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:11",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses the concept of momentum in product development and Agile methodologies, but it does not explicitly mention Liberating Structures or any of its specific techniques. While there is a general alignment with themes of collaboration and team dynamics, the discussion lacks depth and does not provide detailed insights into Liberating Structures or their applications. The focus remains on Agile and Scrum without addressing the facilitation techniques that characterise Liberating Structures.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the concept of momentum in product development and organizational culture without mentioning any specific Liberating Structures or facilitation techniques. Although it relates to Agile and Scrum, it does not directly address the key themes or methods established within the Liberating Structures category, leading to a very low confidence score.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1741,6 +1756,24 @@
     "non_ai_confidence": null,
     "final_score": 30.0,
     "reasoning": "The content primarily focuses on the concept of momentum in agile team dynamics and product delivery. While it touches on related themes of Agile and Scrum, it does not explicitly mention the principles, methodologies, or systemic applications characteristic of a discipline. There is also limited depth in discussing how these relate to the broader concept of discipline, leading to a score reflecting low alignment.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "5bgfme-Pspw",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:55",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 2.3,
+    "ai_audience": 5.3,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses entirely on the general concept of momentum within agile teams, organizational change, and product delivery. Nowhere does it mention Service Level Expectation (SLE), its definition, calculation, or application; there are also no references to cycle time, probability, or Kanban/Scrum SLE-related practices. The main idea is about keeping teams inspired and moving in the same direction, with a heavy emphasis on motivational coaching, agile transformation, and consultancy services, rather than workflow predictability or metrics. The target audience of agile practitioners partially aligns (audience: 5.3), but the absence of direct or conceptual overlap keeps other dimension scores well below mid-range. Signal-to-noise is moderate as the content stays broadly relevant to agile teams, but is off-topic for SLE. No penalties were required as the content is not outdated or contrary in tone. Overall, confidence (2.6) is very low and directly proportionate to the near absence of SLE-related substance.",
     "level": "Ignored"
   }
 }

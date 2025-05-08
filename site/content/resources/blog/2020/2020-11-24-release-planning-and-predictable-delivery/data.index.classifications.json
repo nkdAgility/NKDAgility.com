@@ -1356,7 +1356,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:34",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
@@ -1764,5 +1764,23 @@
     "final_score": 55.0,
     "reasoning": "The content primarily discusses strategies for release planning and achieving predictable delivery in agile environments. While it touches on aspects of capability through discussions about improving estimations, backlogs, and technical debt, it mainly focuses on practices and tools rather than deeper organizational competencies. The mention of cultural shifts and practices suggests some alignment with the Capability category but lacks in-depth discussion or a comprehensive examination of how to develop and embed capabilities. Therefore, it barely aligns with the category of Capability, but it does not meet the strict criteria to be classified fully within it.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2cOXevMnGb_",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:07",
+    "ai_confidence": 10.3,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 3.3,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) directly or indirectly. There are no references to the concept, its calculation, components, or application within Agile, Scrum, or Kanban frameworks as defined by the classification. While the article discusses agile predictability, forecasting, release planning, and improving delivery, none of the approaches or terms are specific to SLE. The discussion focuses on general challenges and strategies for predictability (e.g., backlog refinement, quality, technical debt) but does not describe or analyze SLE as a forecasted time range with a probability, nor does it reference authoritative sources connected to SLE. The intent and audience are adjacent but too broad and do not focus on the main purpose defined for the SLE category. Most content is thematically related to agile delivery but the signal-to-noise about SLE is essentially zero. No penalties are applied as the content is not outdated or critical, but the confidence is extremely low, reflecting only a tangential alignment in broader themes of predictability, not in direct SLE discussion.",
+    "level": "Ignored"
   }
 }

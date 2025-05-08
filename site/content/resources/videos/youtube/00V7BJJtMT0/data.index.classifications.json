@@ -1332,7 +1332,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T16:07:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1727,5 +1727,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses the relationship between Agile and DevOps, highlighting their shared goal of delivering value to customers and creating value for organizations. It emphasizes enduring competencies such as empirical process control and systems thinking, which align with the concept of capabilities. However, it also includes discussions about tools and roles, which detracts from its focus on enduring capabilities. While it covers some key aspects of capabilities in a cohesive manner, the presence of more general content on platforms and practices leads to a moderately high but not complete alignment with the 'Capability' category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "00V7BJJtMT0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.0,
+    "ai_intent": 2.5,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a high-level overview comparing DevOps and Agile, focusing on principles, culture, and collaboration. There are zero direct mentions of Service Level Expectation (SLE) by name or concept. There is no discussion of cycle time ranges, probabilistic forecasting, or any of the unique features or uses of SLE in Agile, Scrum, or Kanban contexts. The closest the content gets is vaguely referring to continuous improvement and delivery flow, but these are both generic Agile/DevOps themes and lack any connection to the SLE concept. There are no concrete metrics, definitions, or analyses aligning with SLE. The intent is to clarify general differences and synergies between Agile and DevOps, not to inform or deepen understanding of SLE. The audience seems to be general practitioners or those new to Agile/DevOps; while practitioners could also be SLE users, the match is accidental and not by targeting. Virtually all of the content is on-topic for its stated purpose, but off-topic for SLE. No penalties were applied as there are no outdated or critical elements. Overall, the final confidence score of 1.7 reflects an extremely low relevance to the SLE category.",
+    "level": "Ignored"
   }
 }

@@ -1377,7 +1377,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1771,6 +1771,24 @@
     "non_ai_confidence": null,
     "final_score": 37.0,
     "reasoning": "The content primarily discusses a specific training course (PAL-EBM) focused on metrics and their effective use in organizations. While it touches on aspects relevant to capability, such as the importance of transparency and making data-driven decisions, it does not deeply engage with the enduring nature of capabilities or provide a rich exploration of how these metrics contribute to systemic organizational competencies. Metrics are treated as tools rather than as integrated capabilities. The content emphasizes roles and practices rather than developing capabilities over time within an organizational culture. Therefore, the score reflects a moderate alignment but acknowledges that capability is not the primary focus.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "m2Z4UV4OQlI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:19",
+    "ai_confidence": 11.84,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 0.9,
+    "ai_audience": 6.9,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is entirely focused on the PAL-EBM course and the benefits of evidence-based management and effective metrics for organizational leadership. Although metrics, measurement, transparency, empirical data, and learning from negative metric patterns (e.g., Microsoft's stack ranking) are discussed extensively, there is no mention—explicit or implied—of Service Level Expectation (SLE) as defined in Agile, Scrum, or Kanban practices. SLE, with its focus on cycle time ranges and associated probabilities for work items, is not referenced, described, or analyzed. None of the key SLE topics (historical cycle time, SLE probability ranges, relation to sprint length, calculation of SLE, etc.) appear in the text. The audience is broadly correct (agile leaders, managers), but the content's main purpose, alignment, and depth are not focused on SLE—metrics are discussed at a general level, not under the SLE concept. Signal-to-noise is low for SLE. As a result, scores for mentions, alignment, depth, intent, and signal are minimal. No penalties applied as the content is current and non-contradictory.",
     "level": "Ignored"
   }
 }

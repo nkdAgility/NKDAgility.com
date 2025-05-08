@@ -264,12 +264,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "L6opxb0FYcU",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on bad advice within Scrum and promotes flexibility and inclusivity rather than discussing accountability or ownership among teams.",
+    "calculated_at": "2025-05-02T04:20:14",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content touches upon Scrum and the roles of Scrum Masters but lacks a clear focus on the concept of accountability and its structural implications in work systems. While it mentions different perspectives and critiques rigid adherence to rules, it does not deeply delve into outcome ownership or explicit accountabilities. The discussion is more about attitudes towards Agile practices rather than the foundational mechanisms of accountability as defined in the category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -780,12 +789,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "L6opxb0FYcU",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T07:25:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on misconceptions and bad practices in Agile and Scrum, rather than on strategic development or alignment of teams.",
+    "calculated_at": "2025-05-02T04:20:47",
+    "ai_confidence": 3.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 10,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses specific aspects of Agile and Scrum methodologies rather than focusing on high-level strategic alignment or planning. While it mentions the importance of flexibility and adapting processes, which touches on some strategic thinking, the overall focus is on critiquing a specific Scrum practice and providing advice, rather than discussing strategy in an organizational context. Therefore, it does not meet the criteria for being classified strongly under the Strategy category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1353,7 +1371,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:11",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1485,15 +1503,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "L6opxb0FYcU",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:12:52",
-    "ai_confidence": 12.0,
-    "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily discusses Agile and Scrum practices, focusing on the negative aspects of rigid adherence to rules rather than exploring Liberating Structures or their facilitation techniques. While it touches on inclusivity, it does not explicitly mention or align with the core principles or specific techniques of Liberating Structures, resulting in a low confidence score.",
+    "calculated_at": "2025-05-02T04:20:38",
+    "ai_confidence": 2.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses on criticizing certain Agile advice within a Scrum context but does not discuss any specific Liberating Structures or their application. While it touches on Agile principles such as flexibility and team dynamics, it lacks detailed exploration of facilitation methods or how Liberating Structures can improve team interactions. Overall, the primary focus is on Agile values rather than structured facilitation techniques.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1747,6 +1771,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily discusses specific Agile practices and the importance of flexibility over rigid adherence to rules. While Agile and Scrum are mentioned, the focus is more on anecdotal critiques of advice rather than a systematic exploration of discipline principles. The connection to discipline in terms of codified knowledge or governance structures is weak, leading to a low confidence score. However, it does reference aspects of Agile philosophy that relate to the overall discipline, justifying a score above the minimum.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "L6opxb0FYcU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 2.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 1.8,
+    "ai_audience": 3.5,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused on dispelling a specific misconception about daily stand-ups in Scrum, emphasizing inclusivity, flexibility, and adaptation in Agile teams. There are no direct mentions or implied references to Service Level Expectation (SLE), its calculation, application, or relevance to Agile, Scrum, or Kanban practices. The primary audience is Agile practitioners and leaders, which slightly overlaps with the SLE category, but any link is indirect and generalized. The discussion is shallow regarding SLE—there is no exploration of flow metrics, cycle times, or delivery predictability. The signal-to-noise ratio for SLE is very low, as most content is about Agile mindset and core values, not SLE. Therefore, the confidence score is extremely low but above zero, reflecting negligible alignment but not completely off-topic for Agile-related concerns.",
     "level": "Ignored"
   }
 }

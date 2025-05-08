@@ -1365,7 +1365,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1497,15 +1497,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "7R9_bYOswhk",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:56:00",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:23",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the Professional Agile Leadership Essentials course and the evolution of Scrum Masters into leadership roles. While it touches on themes relevant to Agile and leadership, it does not explicitly mention or discuss Liberating Structures or their principles. The discussion lacks depth regarding facilitation techniques or group dynamics, which are central to the Liberating Structures category. Overall, the content is more aligned with general Agile leadership rather than the specific facilitation techniques of Liberating Structures.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses the Professional Agile Leadership - Essentials course for Scrum Masters, focusing on leadership evolution and perspectives rather than specific Liberating Structures. There are no direct mentions or detailed discussions about any particular Liberating Structures techniques or their integration into Agile practices, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1760,5 +1766,23 @@
     "final_score": 50.0,
     "reasoning": "The content discusses the Professional Agile Leadership - Essentials course and its role in the development of Scrum Masters, highlighting aspects of leadership within Agile practices. While it broadly touches upon the evolution and maturation of Scrum Masters into leadership roles, it lacks direct discussion on the core principles, methodologies, and standards that constitute the Discipline category. It focuses more on personal development and practical insights rather than the systemic and structured principles necessary to fully align with 'Discipline' as defined in the category's context.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "7R9_bYOswhk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:53",
+    "ai_confidence": 1.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.8,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 2.7,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content is focused on advocating for the Professional Agile Leadership - Essentials course as a development pathway for Scrum Masters. There is no direct mention of Service Level Expectation (SLE), nor is there any conceptual or practical discussion of SLE's definition, calculation, use, or impact within Agile, Scrum, or Kanban frameworks. The closest topical overlaps are broad references to Agile, Scrum, and leadership—but these do not touch on SLE or indirectly support its definition, application, or value. The depth and intent are weak fits, as the material is promotional and career-focused rather than informational or analytical regarding SLE. Audience alignment and signal are marginally higher only insofar as Scrum practitioners occasionally are the target audience of SLE-focused content, but in this case, the content addresses leadership growth and not flow metrics. No penalties have been applied since the content is current and neutral in tone. Overall, there is almost no confidence this content belongs under 'Service Level Expectation.'",
+    "level": "Ignored"
   }
 }

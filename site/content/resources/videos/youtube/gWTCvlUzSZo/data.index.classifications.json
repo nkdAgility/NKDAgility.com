@@ -249,12 +249,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "gWTCvlUzSZo",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T18:08:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses the importance of camera quality for engagement rather than accountability or team dynamics.",
+    "calculated_at": "2025-05-01T18:45:36",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses on the importance of visual engagement and communication tools for Scrum Masters, primarily discussing the benefits of using a good camera to enhance team interactions. While it indirectly relates to the Scrum Master's role, it does not address explicit accountabilities or the concept of outcome ownership. The discussion lacks a clear connection to accountability as a structural construct in the work environment, making it tangential rather than central to the category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -744,12 +753,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "gWTCvlUzSZo",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T18:10:32",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of camera quality for Scrum Masters in engaging with their teams, rather than focusing on strategic approaches within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-01T18:45:38",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses practical tools and techniques for engagement in a Scrum context without relating to high-level strategies or aligning actions with organizational goals. It focuses on operational aspects rather than strategic planning or decision-making, leading to a low confidence score in the Strategy category.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1290,7 +1308,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:32",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1422,15 +1440,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "gWTCvlUzSZo",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:15:08",
-    "ai_confidence": 25.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 30.0,
-    "ai_depth": 40.0,
-    "non_ai_confidence": 0,
-    "final_score": 25.0,
-    "reasoning": "The content discusses the role of visual engagement in Scrum Master interactions, which touches on facilitation techniques but does not explicitly mention Liberating Structures or their specific methods. While it aligns with the theme of enhancing team collaboration and creating a safe space, it lacks depth in discussing the principles or specific techniques of Liberating Structures. The focus is primarily on the use of cameras rather than on the facilitation methods themselves.",
+    "calculated_at": "2025-05-01T18:45:29",
+    "ai_confidence": 3.0,
+    "ai_mentions": 1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses the importance of visual engagement for Scrum Masters, focusing on the use of cameras to enhance communication and team interactions. However, it does not reference specific Liberating Structures methods or how they can be integrated into Scrum practices. While it aligns somewhat with the theme of improving engagement, it lacks details on facilitation techniques and does not directly mention any Liberating Structures, resulting in a low confidence score for alignment and depth.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1684,6 +1708,24 @@
     "non_ai_confidence": null,
     "final_score": 15.0,
     "reasoning": "The content discusses the role of a Scrum Master and the importance of tools (specifically cameras) in effective engagement. However, it focuses primarily on the practical use of a camera rather than discussing the underlying principles, methodologies, or systemic application of a discipline. While it does touch on aspects of team dynamics and facilitation, it lacks a substantial focus on the broader topics of discipline as defined, such as continuous improvement or governance structures. Therefore, the overall alignment with the category 'Discipline' is low, reflected in the low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "gWTCvlUzSZo",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:46",
+    "ai_confidence": 3.13,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.3,
+    "ai_audience": 0.6,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on the benefits of using a high-quality camera for enhancing team interaction, engagement, and communication in Scrum settings. It provides practical tips for Scrum Masters about virtual presence and facilitation, but there are no references—direct or indirect—to Service Level Expectation (SLE), its calculation, use, purpose, or any related agile flow metrics. There is no mention of SLE by name, nor is there any exploration of its concepts, metrics, or its role in workflow predictability, cycle times, or Kanban/Scrum theory. While the audience is Scrum Masters (which overlaps with SLE audiences), and the context is agile practices, all the substance is about virtual communication tools, not service level prediction or improvement. The very low scores across all dimensions reflect near-zero connection to the SLE category, and no penalties were needed since there is no contradiction or outdated references—just total thematic misalignment.",
     "level": "Ignored"
   }
 }

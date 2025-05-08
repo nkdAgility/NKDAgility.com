@@ -1278,7 +1278,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1672,6 +1672,24 @@
     "non_ai_confidence": null,
     "final_score": 20.0,
     "reasoning": "The content primarily discusses moral obligations and integrity in the context of Scrum training, without a focus on the enduring competencies or capabilities that define the 'Capability' category. While it touches upon Agile principles and their application to real-world scenarios, it fails to explore capability development, assessment, or integration into organizational culture. The references to honesty and moral responsibility are more about individual accountability than about organizational capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "h5TG3MbP0QY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 6.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.7,
+    "ai_intent": 0.9,
+    "ai_audience": 3.2,
+    "ai_signal": 1.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content centers on the theme of honesty, moral integrity, and transparency in Scrum practice, particularly within the context of PSM 1 (Professional Scrum Master) training courses. There is a strong emphasis on delivering truthful expectations to customers about timelines and costs, and a critique of making misleading upfront promises. However, the text never directly references 'Service Level Expectation' (SLE) by name, nor does it discuss the SLE concept, formulas, calculation, or Agile/Kanban interpretations of SLE. While the emphasis on transparency and not overpromising could be thematically adjacent to the purpose of SLE, there is no substantive mention or discussion of SLE as a tool, its components (elapsed time range, probability), or its use within Agile, Scrum, or Kanban frameworks. The main audience (Agile/Scrum practitioners and students) loosely matches that of SLE guidance content, but the lack of specificity and direct connection to SLE reduces both alignment and signal-to-noise. As a result, all scoring dimensions are low and penalties are not required because the tone is constructive and the content is not outdated or critical of the core concept; it simply isn’t on topic for SLE.",
     "level": "Ignored"
   }
 }

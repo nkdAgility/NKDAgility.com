@@ -1314,7 +1314,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:10",
     "ai_confidence": 42.0,
     "ai_mentions": 10.0,
@@ -1709,5 +1709,23 @@
     "final_score": 62.0,
     "reasoning": "The content primarily discusses Agile practices, specifically the dangers of special Sprints, and emphasizes fostering an Agile mindset that prioritizes deliverable products. While it touches on concepts of continuous improvement and accountability, which are integral to capabilities, the overall focus leans more towards critique of practices rather than a detailed exploration of capabilities themselves. There is a decent level of detail provided, which enhances understanding, but the direct alignment with the 'Capability' category is moderate, leading to a score of 0.62.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "uvZ9TGbMtnU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:29",
+    "ai_confidence": 2.51,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 3.3,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is focused on dispelling the misconception of 'special Sprints' in Agile and promoting continuous improvement, accountability, and the delivery of usable products at the end of each Sprint. However, there is no mention of Service Level Expectation (SLE) or its calculation, application, probability, or its role in Agile frameworks. The article does touch on concepts like continuous improvement and predictability, which are tangentially related to SLE, but never refers to or applies the specific SLE concept or terminology, nor discusses time forecasts, cycle times, or probabilities in delivery. The intended audience appears to be Agile practitioners, which matches the SLE category, but the lack of any explicit SLE reference (direct or implied) results in very low scores in all but audience and signal. The confidence score reflects a near-total absence of SLE relevance, barely above zero due to mild conceptual adjacency through Agile improvement themes.",
+    "level": "Ignored"
   }
 }

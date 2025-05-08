@@ -261,12 +261,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "qXsjLuss22Y",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T23:13:51",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the relationship between Sprint goals and product vision, without a clear focus on accountability or team ownership.",
+    "calculated_at": "2025-05-02T04:20:07",
+    "ai_confidence": 4.0,
+    "ai_mentions": 5,
+    "ai_alignment": 25,
+    "ai_depth": 15,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses the role of the sprint goal within the Scrum framework, primarily focusing on its tactical implications rather than explicit accountability structures or roles. While it mentions how the sprint goal relates to team alignment and progress towards broader objectives, it does not directly address ownership of outcomes or the mechanics of accountability as outlined in the category definition. The discussion is more about goal-setting and immediate tasks within Scrum than about accountability itself.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1344,7 +1353,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:07",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1476,15 +1485,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "qXsjLuss22Y",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T11:53:43",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:18",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the concept of a sprint goal within the Scrum framework, discussing its tactical nature and importance in guiding team efforts. However, it does not mention Liberating Structures or any related facilitation techniques. The discussion is centred around Scrum principles rather than the inclusive engagement and collaborative techniques that define Liberating Structures. Therefore, while there is a slight conceptual alignment in terms of enhancing team collaboration, the lack of direct mentions and depth regarding Liberating Structures results in a low confidence score.",
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses primarily on explaining the concept of a sprint goal within the Scrum framework without discussing any specific Liberating Structures or facilitation techniques. While it touches upon teamwork and goal-setting, it does not integrate or mention the specific methods or principles of Liberating Structures as defined in the classification criteria.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1739,5 +1754,23 @@
     "final_score": 42.0,
     "reasoning": "The content primarily focuses on 'sprint goals' within the context of Scrum, emphasizing tactical aspects rather than the broader principles or methodologies that characterize the discipline of Scrum itself. While the term 'Scrum' is mentioned, which is related to Agile discipline, the discussion does not delve into governance, ethical considerations, or the evolution of Scrum as a discipline. The content lacks depth regarding shared principles and the systemic application of Agile as a discipline, leading to a lower confidence score despite multiple mentions of Scrum and its components.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "qXsjLuss22Y",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:55",
+    "ai_confidence": 0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.0,
+    "ai_intent": 0.2,
+    "ai_audience": 2.8,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "This content provides an in-depth discussion of sprint goals within Scrum, focusing on their tactical value, distinction from product goals, and the importance of obtaining actionable feedback. There are no explicit or implicit references to Service Level Expectation (SLE), nor is there any mention of cycle time, elapsed time ranges, probabilities, or the concept of forecasting delivery using historical data. The main audience of the content (Scrum practitioners and Agile learners) overlaps somewhat with the audience for SLE discussions, but the subject matter is entirely centered around sprint goals. There is no overlap in key concepts, methodology, or terminology as defined in the SLE category. Thus, the confidence score—in line with all scoring dimensions and proportional calibration—lands at 0, with no penalties needed.",
+    "level": "Ignored"
   }
 }

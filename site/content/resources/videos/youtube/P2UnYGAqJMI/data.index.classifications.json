@@ -1314,7 +1314,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1708,6 +1708,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses the pitfalls of relying on burndown charts, emphasizing the need for flexible planning and continuous flow—key aspects of Agile capabilities. However, it primarily focuses on critiquing specific Agile practices rather than providing a thorough exploration of capabilities as enduring competencies. While the notion of continuous flow hints at capability, the main emphasis is on process critique rather than developing or integrating capabilities within teams or organizations.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "P2UnYGAqJMI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:28",
+    "ai_confidence": 6.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.8,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content does not mention 'Service Level Expectation' or 'SLE' directly, nor does it discuss its calculation, definition, or application in Agile, Scrum, or Kanban frameworks. The primary focus is a critique of burndown charts, advocating instead for minimal up-front planning and a continuous flow approach. While the concept of 'continuous flow' is relevant in Kanban, the specific concept of SLE as a forecasted delivery time with an associated probability is not addressed at all. There are no references to cycle time analysis, historical data usage for forecast ranges, or the use of SLE for inspection/adaptation. The core intent and main ideas do not directly align with SLE—they center around Agile planning practices, the drawbacks of burndown charts, and promoting adaptive, flow-focused team behaviors. The potential audience (practitioners, Agile teams) partially overlaps with SLE-targeted materials, but the actual topic isn’t on SLE. The content is focused and signal-heavy regarding its critique and alternative proposals, but none of this is about SLE as defined in the guidelines. Therefore, all six dimensions are very low, and no penalty for outdated/contradictory practices was needed. The very low confidence score (6.4) reflects that this content is almost entirely irrelevant under the strict definition.",
     "level": "Ignored"
   }
 }

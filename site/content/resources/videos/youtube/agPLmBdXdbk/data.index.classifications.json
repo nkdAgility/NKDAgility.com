@@ -111,12 +111,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "agPLmBdXdbk",
     "category": "Accountability",
-    "calculated_at": "2025-02-18T10:21:35",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the trait of tenacity in an Agile Consultant, without a clear focus on accountability, team dynamics, or ownership.",
+    "calculated_at": "2025-05-02T04:20:40",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.15,
+    "ai_depth": 0.07,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses tenacity as a crucial trait for Agile consultants but does not focus on accountability, outcome ownership, or any structural constructs related to accountability in work systems. The primary theme here is personal resilience rather than the accountability framework in Agile methodologies. Therefore, both the direct mentions and the conceptual alignment are very weak, leading to a low confidence score in this category.",
     "level": "Ignored"
   },
   "Windows": {
@@ -894,12 +903,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "agPLmBdXdbk",
     "category": "Strategy",
-    "calculated_at": "2025-02-18T10:21:36",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content focuses on the personal trait of tenacity in an Agile Consultant, rather than strategic approaches or frameworks related to Agile, Scrum, or DevOps.",
+    "calculated_at": "2025-05-02T04:20:44",
+    "ai_confidence": 2.0,
+    "ai_mentions": 5,
+    "ai_alignment": 10,
+    "ai_depth": 5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the trait of tenacity in Agile consultants, focusing on personal attributes and perseverance rather than explicitly strategic considerations. It briefly hints at aligning with organizational needs, but it lacks a deep exploration of strategic frameworks, decision-making, or organizational alignment, making the discussion peripheral to the 'Strategy' category.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1305,7 +1323,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:13",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1437,15 +1455,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "agPLmBdXdbk",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:23:04",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:47",
+    "ai_confidence": 0.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the traits of an Agile Consultant, specifically highlighting tenacity as a key quality. There are no direct mentions of Liberating Structures or their techniques, nor does it discuss the principles or applications of these facilitation methods. While it touches on themes relevant to Agile, it does not align with the core concepts of Liberating Structures, such as enhancing participation or collaboration within groups. The depth of discussion is limited to personal traits rather than group dynamics or facilitation techniques, resulting in a low confidence score.",
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 0.0,
+    "reasoning": "The content primarily discusses the traits of an Agile Consultant with a focus on tenacity, but it does not mention or align with specific Liberating Structures or techniques. There is no detail provided on facilitation methods or their integration into Agile practices, making it largely unrelated to the Liberating Structures category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1699,6 +1723,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content discusses the essential trait of tenacity for an Agile Consultant, which touches on personal qualities needed in the Agile field. However, it lacks a substantial focus on the principles, methodologies, or systemic application of Agile as a discipline. The discussion is more motivational and personal than academic or structural regarding Agile practices, leading to a low confidence score in the 'Discipline' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "agPLmBdXdbk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:57",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.9,
+    "ai_audience": 2.2,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is focused entirely on the 'must have trait' for an Agile consultant, namely tenacity, and does not mention Service Level Expectation (SLE) at all, either explicitly or implicitly. It does not discuss the definition, calculation, or application of SLE, nor reference Kanban, Scrum, or Agile frameworks' SLE concepts. Alignment and depth scores are extremely low as the topic is adjacent to Agile but not specifically about SLE. Intent is slightly higher because the general audience is Agile practitioners, which might theoretically intersect with SLE-related topics, but there is no relevant content in this piece. The audience is Agile coaches and consultants rather than SLE stakeholders. Signal is low due to the high focus on personal traits rather than process metrics. No penalties for outdated/critical content. Overall, there is virtually no basis for classifying this content under SLE.",
     "level": "Ignored"
   }
 }

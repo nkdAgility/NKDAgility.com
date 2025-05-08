@@ -1323,7 +1323,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1718,5 +1718,23 @@
     "final_score": 54.0,
     "reasoning": "While the content discusses the importance of limiting work in progress (WIP) within the Kanban framework, it primarily focuses on specific practices and techniques rather than on the broader concept of organizational capabilities. The discussion touches on enhancing team focus and sustainable work pace, which relates to team capabilities, but the overall content lacks a thorough exploration of developing or embedding capabilities within an organization. The mention of personal experiences and advice offers some depth but remains too procedural and focused on tactical implementations rather than strategic capability building.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "XFN4iXYLE3U",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:55",
+    "ai_confidence": 7.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.5,
+    "ai_intent": 0.4,
+    "ai_audience": 1.2,
+    "ai_signal": 0.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused entirely on limiting work in progress (WIP) within Kanban and to a lesser degree, Scrum, providing definitions, best practices, personal anecdotes, and practical guidance, but it does not mention or discuss Service Level Expectation (SLE) at all, either explicitly or implicitly. There is no reference to SLE's definition, calculation, time ranges with probabilities, correlation with cycle time/lead time for forecasting purposes, or its use for improving predictability and transparency. While the themes of predictability, flow, and improvement are present, they are not developed specifically in the context of SLE as per the classification definition. No content directly targets SLE practitioners seeking to understand or apply the concept. Thus, all scores are at the extreme low end, with only minor points awarded for audience and peripheral conceptual overlap.",
+    "level": "Ignored"
   }
 }

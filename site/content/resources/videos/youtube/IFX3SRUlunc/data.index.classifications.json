@@ -267,12 +267,21 @@
     "level": "Primary"
   },
   "Accountability": {
+    "resourceId": "IFX3SRUlunc",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T17:52:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses lean product development and decision-making rather than accountability within Agile teams.",
+    "calculated_at": "2025-05-01T18:45:40",
+    "ai_confidence": 3.0,
+    "ai_mentions": 10,
+    "ai_alignment": 25,
+    "ai_depth": 25,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses lean product development and decision-making, which relates tangentially to accountability but primarily focuses on improving processes rather than explicitly addressing outcome ownership or structural accountabilities. While it mentions product ownership, it lacks a thorough exploration of how accountability shapes performance and alignment in work systems, thus not aligning closely with the key topics of the accountability category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1371,7 +1380,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:30",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1503,15 +1512,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "IFX3SRUlunc",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:07:33",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:36",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on lean product development and decision-making processes, with no direct mention of Liberating Structures or their techniques. While it discusses collaboration and value creation, it does not align with the core themes of Liberating Structures, which emphasise facilitation techniques and group dynamics. The depth of discussion is also limited to lean methodologies without exploring the principles or applications of Liberating Structures.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses lean product development and its impact on decision-making rather than focusing on Liberating Structures. While there may be some tangential relation to facilitation in team environments, there are no explicit mentions of any specific Liberating Structures or how to implement them in collaborative sessions. The focus is on a methodology rather than facilitation techniques, keeping it outside the category's criteria.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1766,5 +1781,23 @@
     "final_score": 55.0,
     "reasoning": "The content discusses lean product development as a methodology and mindset, touching on principles such as decision-making, risk minimization, and value creation. However, it primarily focuses on practical applications and tools rather than on the structured principles and systemic frameworks that define a discipline. While it aligns with some core themes of the category, it does not deeply delve into the systematic evolution or governance of the discipline itself.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "IFX3SRUlunc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:42",
+    "ai_confidence": 1.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.4,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on lean product development, with an emphasis on decision-making, risk minimization, value creation, and related workshop discussion topics. There are zero direct references to Service Level Expectation (SLE), nor is there any discussion of SLE-related concepts such as forecasted delivery time, cycle time, probability ranges, or transparency of delivery for stakeholders in an Agile, Scrum, or Kanban context. The primary audience is product managers and owners interested in lean practices, not specifically teams managing SLEs. Consequently, the content lacks alignment with the SLE category both in its main ideas and its intended audience. All scoring dimensions are near their minimums, with some minimal acknowledgment that process predictability and improvement are generally discussed, but not in relation to SLE. No penalties were assessed, as the content is neither outdated nor does it contradict SLE in tone; it is simply unrelated. The resulting confidence score is very low, accurately reflecting the absence of SLE-specific discussion.",
+    "level": "Ignored"
   }
 }

@@ -1371,7 +1371,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1766,5 +1766,23 @@
     "final_score": 67.0,
     "reasoning": "The content discusses aspects of organisational capability, highlighting the importance of effectively executing to provide business value, which is aligned with the Capability category. However, while it includes mentions of metrics and decision-making processes, it lacks substantial depth in exploring how to develop or embed capabilities over time within teams and organizations, as it focuses more on evidence-based management as a method rather than on capabilities per se.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "MCkSBdzRK_c",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:22",
+    "ai_confidence": 6.63,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.45,
+    "ai_intent": 0.2,
+    "ai_audience": 2.1,
+    "ai_signal": 0.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content centers on evidence-based management with a focus on metrics, value delivery, and innovation within organizations. There is no explicit mention or discussion of Service Level Expectation (SLE) as defined in the category; SLE is neither named nor referred to through synonyms. While the article discusses metrics and time-to-market, it does so in a general business value and agility context, not in relation to SLE's specific Agile/Kanban meaning. There is no discussion of SLE calculation, application, or its role in transparency or predictability. The intended audience (business leaders and managers interested in evidence-based management) loosely overlaps with SLE's target Agile practitioners, but without direct relevance. The article contains no off-topic signals but also delivers no focused SLE content, resulting in a very low signal-to-noise ratio for this category. No penalties were necessary, as the post does not reference outdated material or contradict the SLE category.",
+    "level": "Ignored"
   }
 }

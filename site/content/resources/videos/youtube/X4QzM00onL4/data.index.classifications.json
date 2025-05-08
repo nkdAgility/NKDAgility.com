@@ -1341,7 +1341,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1736,5 +1736,23 @@
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of alignment within Agile teams, which aligns well with the principle of Continuous Improvement and Respect for People. It emphasizes the shared vision, collaboration, and open communication as foundational principles that guide teams in their decision-making processes. There are several actionable recommendations provided, such as establishing clear goals and encouraging regular check-ins, substantiating the content's focus on principles over abstract values. While it doesn't explicitly detail broader Agile principles like Empiricism or Customer Collaboration, it does showcase a strong link to actionable frameworks within Agile. Hence, it has a relatively high confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "X4QzM00onL4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:40",
+    "ai_confidence": 8.767,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.6,
+    "ai_intent": 0.2,
+    "ai_audience": 2.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is fully focused on team alignment, collaboration, goal-setting, and combating chaos within Agile teams. Nowhere in the title, description, or main body is Service Level Expectation (SLE) directly mentioned, defined, or discussed. There are passing references to Kanban and Scrum at a categorical level, but the concrete concepts and technicalities of SLE, such as probability ranges, cycle time analysis, calculation methods, or its specific purpose for predictability and flow, are wholly absent. The focus is entirely elsewhere. The audience loosely overlaps with those who would use SLE (Agile practitioners/team members), but the content’s main purpose and subject matter are misaligned with the SLE category. Scores are low and only above zero where alignment with Agile practitioner audiences and work visualization tools are mentioned, but these are not specific or direct enough for the SLE category. No penalties are warranted since the content is current and not satirical or critical.",
+    "level": "Ignored"
   }
 }

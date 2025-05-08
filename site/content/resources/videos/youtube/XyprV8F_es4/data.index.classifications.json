@@ -375,12 +375,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "XyprV8F_es4",
     "category": "Accountability",
-    "calculated_at": "2025-02-20T19:43:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses leadership roles and organizational challenges, with only indirect references to teamwork and performance; accountability is not the primary focus.",
+    "calculated_at": "2025-05-01T18:45:33",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.35,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses leadership in the context of driving cultural and organizational change but does not focus on accountability as a structural mechanism. While it highlights the importance of setting a clear vision and reducing silos for collaboration, it lacks explicit discussions around ownership of outcomes, role-specific accountabilities, and how these impact performance and adaptation in work systems. Consequently, accountability is mentioned only implicitly, leading to a low confidence score.",
     "level": "Ignored"
   },
   "Mentoring": {
@@ -1269,7 +1278,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:40",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1664,5 +1673,23 @@
     "final_score": 54.0,
     "reasoning": "The content discusses the role of leadership in driving cultural change within Agile frameworks, emphasizing actionable aspects such as setting a clear vision, fostering collaboration, and continuous improvement. While 'values' like purpose and collaboration are touched upon, the focus remains on how these principles influence decision-making and behavior in an Agile context, particularly around self-management and adaptability. The depth of specific actionable steps and concepts related to improvement and collaboration further aligns with the principle category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "XyprV8F_es4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:17",
+    "ai_confidence": 5.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.3,
+    "ai_audience": 2.2,
+    "ai_signal": 1.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on leadership practices in driving cultural change for agile success, with subtopics around vision-setting, automation, architecture, continuous learning, and cross-team collaboration. There are no direct or indirect references to Service Level Expectation (SLE), nor does the content mention the calculation, application, or improvement of SLE in any Agile, Scrum, or Kanban context. The alignment with SLE is minimal: while the article touches on fostering agility and continuous improvement, there is no discussion of forecasting work item completion, cycle time distributions, or probabilistic delivery ranges—the substantive core of SLE discussion. The intended audience (organizational leaders) might overlap slightly with SLE stakeholders, but the content is general-purpose and lacks any connection to the specific SLE practices, making the signal-to-noise ratio low for this category. No penalties were needed as there is no obsolete information or negative tone, but every score is close to the minimal possible values due to near-total absence of SLE content, reflecting extremely low confidence for the 'Service Level Expectation' category.",
+    "level": "Ignored"
   }
 }

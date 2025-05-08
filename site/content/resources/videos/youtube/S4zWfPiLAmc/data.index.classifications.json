@@ -1359,7 +1359,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:46:42",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1753,6 +1753,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "While the content mentions various metrics applicable to Kanban practices, it primarily focuses on tools and techniques for measurement rather than discussing the enduring capabilities that empower teams. The content provides actionable insights but does not delve into how these metrics create long-term value or align with organisational capabilities as per the defined category requirements.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "S4zWfPiLAmc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:10",
+    "ai_confidence": 8.1,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.9,
+    "ai_intent": 0.9,
+    "ai_audience": 2.5,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is centered on improving Kanban practices by rejecting vanity metrics and focusing on core operational data such as WIP, cycle time, throughput, and work item age. While it identifies the importance of forecasting and predictability using Kanban metrics—which are related concepts to SLE—it never once directly mentions 'Service Level Expectation,' nor does it reference the two-component structure of SLE (elapsed time + probability) or its unique role in Agile/Scrum/Kanban. There is no reference to guidance from Kanban Guide for Scrum Teams or authoritative experts like Daniel Vacanti. Rather, the content is about using better metrics for general improvement, not specifically about SLE as defined. Therefore, direct mentions (0.1), conceptual alignment (1.5), depth (1.9), and intent (0.9) are all extremely low. Audience and signal are slightly higher (2.5 and 1.7, respectively) because the article does target Kanban practitioners and strives for signal, but relevance to the actual SLE category definition is highly tenuous. There are no outdated practices, critical tone, or other factors resulting in penalties. The confidence score of 8.1 out of 100 reflects that this content does not meaningfully fit under 'Service Level Expectation.'",
     "level": "Ignored"
   }
 }

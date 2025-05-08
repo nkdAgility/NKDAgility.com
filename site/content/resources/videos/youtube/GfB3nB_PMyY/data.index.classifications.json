@@ -1278,7 +1278,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1673,5 +1673,23 @@
     "final_score": 65.0,
     "reasoning": "The content focuses on immersive learning as a training method for Scrum practitioners, discussing how it enhances skills and prepares individuals for real-world application. While it does touch on the learning capabilities of teams, it primarily emphasizes training methods rather than the broader concept of enduring competencies within organizations. The discussion of practical application and industry experience aligns with the notion of developing capabilities, but the emphasis on training roles and experiences detracts from a more systemic view of capabilities as defined in the category. Therefore, the content shows a good alignment but lacks a deeper exploration of capabilities as integral to organizational culture and processes.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GfB3nB_PMyY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:16",
+    "ai_confidence": 5.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 1.5,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "This content is focused on immersive learning for Scrum and Agile practitioners, providing practical experience and instructor insights. Nowhere in the title, description, or full article is Service Level Expectation (SLE) mentioned directly or referenced conceptually — there are no discussions of cycle times, probabilities, elapsed time forecasts, or delivery predictability as defined in the SLE context. While the target audience (Scrum Masters, Agile Coaches, etc.) does overlap with those interested in SLE, the actual content does not touch on its application, importance, definition, or calculation. The closest it comes is general references to sprint planning and workflow, but without any tie-in to flow metrics or SLE theory. Scores are lowest for mentions (0.0), alignment (1.0), and depth (0.7), reflecting total absence or only the most tangential overlap. Intent (1.2), audience (1.5), and signal (0.9) are slightly higher to recognize the practitioner context, but since the content is almost entirely unrelated to SLE, the calculated confidence score is extremely low and proportionate to the classified evidence.",
+    "level": "Ignored"
   }
 }

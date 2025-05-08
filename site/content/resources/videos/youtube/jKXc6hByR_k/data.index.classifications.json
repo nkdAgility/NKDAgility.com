@@ -1377,7 +1377,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:00:42",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1772,5 +1772,23 @@
     "final_score": 54.0,
     "reasoning": "The content discusses ways to maximise ROI in software development by focusing on key aspects such as quality, expertise, and investment in assets. While it mentions the importance of investing in quality and fostering technical expertise, which relate to the concept of capabilities, the primary focus is on maximizing ROI rather than on the enduring competencies that empower teams. The treatment of capabilities is somewhat superficial, lacking deep exploration of how these capabilities are cultivated or embedded in the organizational culture, resulting in a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "jKXc6hByR_k",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:29",
+    "ai_confidence": 7.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on maximising ROI in software development through quality, expertise, and organisational practices. It gives high-level guidance about improving software quality and value, conducting reviews, fostering expertise, and connecting business and technical domains. However, there is not a single explicit mention of Service Level Expectation (SLE), nor are its concepts—such as forecasting cycle time ranges, explicit probability for delivery, or any Kanban/Scrum SLE mechanics—discussed even implicitly. There are no references to SLE authorities or practices; all improvement advice is generic and not tied to Agile, Scrum, or Kanban measurement frameworks. Audience targeting and relevance to practitioners is tangentially present (general software teams, leadership), but none of the actionable tips relate to SLE identification, calculation, or transparency. Therefore, confidence for this category is extremely low and only nonzero because of a slight conceptual overlap with continuous improvement themes, not SLE itself.",
+    "level": "Ignored"
   }
 }

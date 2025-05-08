@@ -258,12 +258,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "HcoTwjPnLC0",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T23:29:24",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the distinction between the roles of a product owner and an agile project manager, without a clear focus on accountability or team dynamics.",
+    "calculated_at": "2025-05-02T04:20:04",
+    "ai_confidence": 7.0,
+    "ai_mentions": 10,
+    "ai_alignment": 30,
+    "ai_depth": 40,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 7.0,
+    "reasoning": "The content discusses the roles of a Product Owner and Agile Project Manager, highlighting the distinct accountabilities tied to these roles. It mentions the importance of maximizing value and focuses on the structural differences between the two positions. However, while the notion of accountability is present, the content does not delve deeply into how these roles contribute to overall accountability in the context of Agile processes. The discussion on task versus outcome ownership is brief, which affects the depth score, but the role-specific accountabilities discussed provide good alignment with the category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -756,12 +765,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "HcoTwjPnLC0",
     "category": "Strategy",
-    "calculated_at": "2025-02-17T23:30:48",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the roles and responsibilities of a Product Owner versus an Agile Project Manager, without a clear focus on strategic approaches or alignment within Agile frameworks.",
+    "calculated_at": "2025-05-02T04:20:06",
+    "ai_confidence": 3.0,
+    "ai_mentions": 5,
+    "ai_alignment": 20,
+    "ai_depth": 7,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses the distinctions between a Product Owner and an Agile Project Manager, focusing primarily on the roles and responsibilities within Agile frameworks, rather than high-level strategic alignment or planning. While there are mentions of objectives and focuses related to projects and products, the content does not engage with broader strategic themes such as organizational goals, alignment, or high-level decision-making. The discussion is more operational and tactical regarding role definitions rather than strategic in nature, leading to a lower confidence score.",
     "level": "Ignored"
   },
   "Operational Practices": {
@@ -1326,7 +1344,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:08",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1458,15 +1476,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "HcoTwjPnLC0",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T11:58:44",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:07",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on distinguishing between the roles of a Product Owner and an Agile Project Manager within the Agile framework. While it touches on Agile principles, it does not mention or discuss Liberating Structures or their facilitation techniques. The discussion lacks alignment with the core themes of Liberating Structures, such as enhancing participation or collaboration. Additionally, the depth of discussion is limited to role definitions without exploring any facilitation methods or their applications.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily focuses on defining the differences between the roles of a Product Owner and an Agile Project Manager. While it touches on Agile concepts, it does not explicitly mention any Liberating Structures or how they might be integrated into Agile practices. Therefore, there is minimal direct mention, poor alignment with core themes of Liberating Structures, and a lack of depth regarding facilitation techniques or engagement strategies.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1720,6 +1744,24 @@
     "non_ai_confidence": null,
     "final_score": 38.0,
     "reasoning": "The content discusses the roles of a Product Owner and an Agile Project Manager within the Agile framework. While it mentions Agile and tries to clarify the roles, it primarily focuses on specific responsibilities rather than on broader principles, methodologies, or a systemic application of discipline as defined. This results in a lower alignment with the category of Discipline, though there is a moderate level of direct mention and some depth in discussing the roles.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "HcoTwjPnLC0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 9.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.2,
+    "ai_audience": 0.2,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content exclusively discusses differences between the Product Owner and Agile Project Manager roles, focusing on perspective, objectives, and responsibility within Agile and Scrum teams. At no point are Service Level Expectations (SLE) referenced directly or indirectly. There are no definitions, calculations, or applications of SLE, nor is there any discussion about flow metrics, predictability, or cycle times in the context of SLE. No tangential mention or conceptual link exists between the main content and SLE. The audience is Agile practitioners, but the signal-to-noise ratio for SLE is extremely low, as the topic never arises. As such, all scoring dimensions are at or near their minimum due to the complete absence of content relevant to the Service Level Expectation category. No penalties were necessary as the content is not outdated or sarcastic.",
     "level": "Ignored"
   }
 }

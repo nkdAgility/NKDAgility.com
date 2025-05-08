@@ -1335,7 +1335,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1742,6 +1742,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content primarily focuses on the Scaled Professional Scrum course, addressing specific roles, techniques, and challenges associated with scaling Scrum. While it touches on overarching themes related to capabilities, such as team dynamics and support for ongoing learning, it lacks an explicit discussion on the long-term development of capabilities or their integration into organizational culture. Concepts like the Nexus framework and practical techniques are mentioned but are more about tools for scaling rather than the cultivation of systemic capability within teams and organizations.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "sBBKKlfwlrA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:03",
+    "ai_confidence": 6.36,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 0.4,
+    "ai_audience": 2.0,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on challenges and practices relating to scaling Scrum through the Scaled Professional Scrum (SPS) course. It describes the course, its learning approach, core agile concepts for scaling teams, the Nexus framework, and supporting tools. However, there are no direct mentions or explicit references to Service Level Expectation (SLE), nor are any core SLE topics (cycle time ranges, probabilities, SLE calculation, transparency about delivery times, or links to Kanban's SLE guidance) explored. There is no discussion of metrics, forecasting, or flow—the main themes relate to cross-team dependencies, transparency, self-management, and adoption hurdles in scaling Scrum. The intent, focus, and audience are centered on agile/scrum practitioners seeking practical guidance and certification for scaling frameworks, not practitioners investigating, applying, or explaining SLE. Thus, all scores are close to minimum; direct mentions, conceptual alignment, depth, and signal are all very low but slightly above zero due to minimal thematic overlap (e.g., both deal with transparency). Audience alignment is higher but still low, as SLE's typical audience overlaps somewhat with Scrum scaling practitioners. All values have been made distinct and proportional, and there are no penalties for outdatedness or critical/satirical tone. The final confidence is very low because the inclusion in the SLE category is unwarranted.",
     "level": "Ignored"
   }
 }

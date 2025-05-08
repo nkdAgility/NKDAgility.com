@@ -1368,7 +1368,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:50:12",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1762,6 +1762,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "While the content focuses on the role of a Product Owner and emphasizes the importance of marketing a product vision, it primarily discusses techniques and practices rather than enduring capabilities. The direct mention of capabilities is low, and while the content aligns somewhat with the concept of fostering team engagement and stakeholder alignment, it does not provide a deep exploration of how these practices become integrated capabilities that enhance organizational performance over time.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Fgla_Oox_sE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:31",
+    "ai_confidence": 1.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is entirely focused on the importance of marketing as a Product Owner, stakeholder engagement, and effective communication of product vision. There are no explicit or implicit mentions of Service Level Expectation (SLE), its definition, calculation, application, or any associated practices in Agile, Scrum, or Kanban frameworks. None of the key topics such as cycle time data, SLE probability ranges, workflow forecasting, or continuous improvement via SLE are discussed or even hinted. The main audience is agile practitioners (Product Owners), which partially aligns with the target demographic of SLE discussions, but the topic focus is entirely unrelated. The only possible association is the broad context of Agile, but that is not enough to meet the strict inclusion requirements. No penalties are necessary as the content is not outdated or critical of the concept.",
     "level": "Ignored"
   }
 }

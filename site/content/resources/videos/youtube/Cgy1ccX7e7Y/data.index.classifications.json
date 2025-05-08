@@ -1359,7 +1359,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:26",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1767,5 +1767,23 @@
     "final_score": 82.0,
     "reasoning": "The content discusses the transformation of organizations into agile entities, emphasizing the need for developing capabilities to adapt to both opportunities and threats. Key themes, such as cultivating a flexible mindset, fostering a resilient culture, and the dichotomy between traditional and agile structures, align well with the definition and characteristics of capability. The depth of discussion is substantial as it explores the process of shifting from a rigid to a responsive structure, but there are sections that focus more on the consultant's role rather than solely the capabilities themselves, preventing a perfect score.",
     "level": "Primary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Cgy1ccX7e7Y",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 7.56,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.5,
+    "ai_intent": 0.9,
+    "ai_audience": 2.3,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content does not mention 'Service Level Expectation' or SLE at all, nor does it directly or indirectly discuss its calculation, definition, or application. The focus is on the outcomes and organizational impacts of agile consulting, with themes of adaptability, resilience, agility, and organizational transformation. While these are thematically adjacent to Agile and Scrum practices, there is no discussion of SLE, cycle times, probabilities, ranges, or workflow analytics as defined in the SLE scope. The intended audience—agile practitioners, consultants, and organizations—overlaps with the SLE category in a general sense, so a slightly higher score in audience relevance is given. However, the signal-to-noise ratio is low for SLE, as the entire piece is focused on cultural and structural agility and not flow metrics or SLE-specific cadences. No penalties were applied since there is nothing obsolete or contradictory; it is simply out of scope for SLE.",
+    "level": "Ignored"
   }
 }

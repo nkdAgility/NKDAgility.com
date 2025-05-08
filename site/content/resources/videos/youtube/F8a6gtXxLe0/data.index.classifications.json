@@ -1257,7 +1257,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1665,5 +1665,23 @@
     "final_score": 67.0,
     "reasoning": "The content addresses the importance of understanding processes in Scrum and how it can shape team dynamics and collaboration, suggesting it is a competency that teams should develop over time. However, the focus is more on Scrum practices and individual experiences rather than a systematic discussion on capabilities as enduring competencies. Thus, while it aligns with the themes of enabling team effectiveness, it does not extensively cover how to develop and integrate these capabilities into organizational culture, leading to a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "F8a6gtXxLe0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:13",
+    "ai_confidence": 16.72,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.7,
+    "ai_intent": 2.4,
+    "ai_audience": 7.2,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content centers on a developer's transformation in understanding Scrum and the value of process awareness. Nowhere does it mention Service Level Expectation (SLE) or discuss anything directly aligning with its definition, calculation, or application. There are no explicit references to SLE or its characteristic concepts (e.g., elapsed time range, probability, establishing SLEs, or their role in predictability). While there are vague thematic overlaps such as managing expectations, process awareness, and improving delivery, these are general Agile principles rather than targeted SLE concepts. The targeted audience (Agile practitioners) matches, and the content maintains reasonable focus, so those scores are higher; all other categories are very low due to the lack of SLE substance. No penalties were needed. The overall confidence that this content fits the 'Service Level Expectation' category is very low and reflects only a tangential connection to process improvement within Agile/Scrum.",
+    "level": "Ignored"
   }
 }

@@ -258,12 +258,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "tUC5TainG2E",
     "category": "Strategy",
-    "calculated_at": "2025-02-12T01:15:10",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses personal experiences and relationships in becoming a Scrum training provider, rather than focusing on strategic approaches within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-02T04:20:37",
+    "ai_confidence": 4.0,
+    "ai_mentions": 5,
+    "ai_alignment": 3,
+    "ai_depth": 2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses personal journey and expertise as a Scrum training supplier for Microsoft, focusing heavily on relationships and networking. While it speaks to aspects of building a reputation and the importance of consistent value delivery, it lacks a direct strategic framework or high-level planning discussion. Mentions of Agile and Scrum methods are present, but without a clear tie to overarching organizational strategies, which limits the alignment with true strategic discussions. The depth is also limited as it primarily shares personal experiences rather than exploring strategic decision-making or planning.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -831,12 +840,21 @@
     "level": "Tertiary"
   },
   "Accountability": {
+    "resourceId": "tUC5TainG2E",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T01:16:54",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses personal relationships and expertise in Scrum training rather than accountability within Agile teams.",
+    "calculated_at": "2025-05-02T04:20:17",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses relationships and expertise in the context of Scrum training, but it largely focuses on personal experiences and client relationships, rather than structural accountability or clearly defined outcome ownership within work systems. Key topics of accountability such as role-specific responsibilities or performance influence are absent, leading to a low confidence score for this category.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1320,7 +1338,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:10",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1452,15 +1470,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "tUC5TainG2E",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:12:06",
-    "ai_confidence": 12.0,
-    "ai_mentions": 10.0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the author's journey and relationships in becoming a preferred Scrum training supplier for Microsoft. While it mentions Agile and Scrum, it does not explicitly discuss Liberating Structures or their principles, techniques, or applications. The discussion lacks depth regarding facilitation techniques or group dynamics, which are central to the category of Liberating Structures. Overall, the content is more about personal experience and expertise in Scrum rather than the facilitation methods that enhance participation and collaboration.",
+    "calculated_at": "2025-05-02T04:20:58",
+    "ai_confidence": 1.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily focuses on the author's personal journey and relationships in becoming a preferred Scrum training supplier, without discussing specific Liberating Structures or their application. While it touches on Agile and Scrum, it does not provide details on facilitation techniques or methods tied to Liberating Structures. Therefore, it doesn't meet the criteria for the category.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1715,5 +1739,23 @@
     "final_score": 48.0,
     "reasoning": "The content discusses the author's journey to becoming a preferred Scrum training supplier, which heavily emphasizes relationships, expertise, and Agile methodologies. However, while it references Agile and Scrum, the focus is more on personal achievements and relationships rather than a structured exploration of the discipline itself or its core principles. The core themes of systematic application and the maturation of disciplines are not thoroughly examined, leading to a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "tUC5TainG2E",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 3.06,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 0.1,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses entirely on Martin Hinshelwood's journey to becoming a preferred Scrum trainer for Microsoft. While it mentions Agile and Scrum, there is no explicit or even implicit reference to Service Level Expectation (SLE) as either a concept or a practice. There are no mentions of key SLE topics such as elapsed time ranges, probabilities, flow metrics, or any application or explanation of SLE within Agile, Scrum, or Kanban. The audience is more general (aspiring trainers or Agile practitioners interested in his career story), not specifically seeking SLE knowledge. Signal is low due to no substantive or tangential discussion on SLE, and there is no depth, calculation, use, or improvement of SLE addressed. No penalty points were applied since the content is neither outdated nor critical or satirical of the category; it simply does not pertain to it.",
+    "level": "Ignored"
   }
 }

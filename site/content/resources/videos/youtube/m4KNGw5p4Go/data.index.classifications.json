@@ -1383,7 +1383,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:08",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1778,5 +1778,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses several strategies for enhancing product development through experimentation, collaboration, and value creation, which aligns well with the concepts of capabilities. While it emphasizes techniques and immediate actions, there is a strong undercurrent of developing enduring competencies such as agility, collaboration, and effective decision-making based on data. However, it lacks a direct focus on the broader concept of organizational capabilities as enduring values and structures and instead leans more towards specific practices, diminishing its stronger alignment with the Capability category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "m4KNGw5p4Go",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:48",
+    "ai_confidence": 6.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.7,
+    "ai_audience": 8.1,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on product development, experimentation, reducing waste, collaboration, and agility but never mentions Service Level Expectation (SLE) nor discusses its definition, calculation, or use in Agile, Scrum, or Kanban. There is no reference to SLE core concepts such as cycle time forecasts, probability-based targets, or managing workflow predictability. The core ideas and depth are not aligned with the SLE category, earning near-zero for mentions, alignment, and depth. The intent deviates from SLE and is not supportive of the category's purpose. While the intended audience (product managers, Agile practitioners) may somewhat overlap with those interested in SLE, and the content is generally focused and relevant to product improvement (not off-topic), these do not compensate for the lack of direct or indirect SLE content. No penalties were applied since the content is not outdated or contradictory, just unrelated.",
+    "level": "Ignored"
   }
 }

@@ -1254,7 +1254,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:48",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1661,6 +1661,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content emphasizes personal growth, health, and perspective but does not focus on enduring competencies or organizational capabilities. While it briefly touches on the importance of the environment for creativity and innovation, it lacks a thorough discussion on how these insights could be integrated into an organization's cultural capabilities. The main emphasis is on individual and interpersonal aspects rather than systemic or sustainable capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "DWL0PLkFazs",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:13",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0.1,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content makes no mention of Service Level Expectation (SLE) or any related concepts, terms, or frameworks from Agile, Scrum, or Kanban. Instead, it is focused entirely on personal well-being, leadership, innovation, and perspective in the technology sector. There is no discussion of workflow, cycle time, delivery metrics, or predictability mechanisms that would align with the scope of SLE. No reference is made to SLE calculations, use, or application, nor to any Agile-derived methods or authorities relevant to SLE. While the audience might partly overlap with Agile practitioners due to the general tech and leadership theme, there is nothing in the content that is even tangentially relevant to the SLE category under the provided strict definition. Signal-to-noise and audience alignment were given the lowest nonzero values possible only to reflect slight meta-overlap (tech/leadership), but the absence of any explicit or implicit SLE content leads to a confidence score of zero.",
     "level": "Ignored"
   }
 }

@@ -252,12 +252,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "Ce5pFwG5IAY",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T18:25:49",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses liberating structures and their application in Scrum events, without a focus on accountability or team ownership.",
+    "calculated_at": "2025-05-01T18:45:38",
+    "ai_confidence": 4.0,
+    "ai_mentions": 10,
+    "ai_alignment": 20,
+    "ai_depth": 30,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content centers on tools for Scrum Masters and emphasizes enhancing teamwork and meeting effectiveness, but it lacks a focus on accountability as defined by the category. While Scrum Masters play roles that involve accountability, the discussion does not explicitly address outcome ownership or the structural elements of accountability within the Scrum framework. The main themes are more about processes and techniques for facilitation rather than clarifying responsibilities or ownership of outcomes, leading to a lower overall confidence score in relation to the accountability category.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1305,7 +1314,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:32",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1437,16 +1446,22 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "Ce5pFwG5IAY",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:19:44",
-    "ai_confidence": 92.0,
+    "calculated_at": "2025-05-01T18:45:42",
+    "ai_confidence": 9.0,
     "ai_mentions": 18,
     "ai_alignment": 36,
-    "ai_depth": 38,
-    "non_ai_confidence": 20,
-    "final_score": 92.0,
-    "reasoning": "The content explicitly discusses Liberating Structures as a transformative approach for Scrum Masters, detailing their purpose and application in enhancing team dynamics and meeting effectiveness. It provides a thorough exploration of how these structures can be integrated into Scrum practices, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, covering various aspects of implementation and the benefits of using these techniques, which justifies a high confidence score.",
-    "level": "Primary"
+    "ai_depth": 35,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 9.0,
+    "reasoning": "The content directly discusses Liberating Structures, detailing their relevance for Scrum Masters and providing specific strategies for implementation. It emphasizes how these structures improve team dynamics and engagement in Scrum meetings, aligning closely with the key topics of the category, such as specific methods and their use in team settings. The depth of discussion is substantial, covering identification of meeting objectives, selection of appropriate structures, and facilitation tips. Overall, the content is highly relevant and deeply engages with the practices and benefits of Liberating Structures.",
+    "level": "Ignored"
   },
   "Time to Market": {
     "category": "Time to Market",
@@ -1699,6 +1714,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily discusses specific tools used by Scrum Masters, which aligns more with techniques than with the broader principles and methodologies that define the category of Discipline. While there are mentions of Scrum and Agile frameworks, the focus is on tool usage and meeting facilitation, rather than a systemic view of how these practices relate to the maturation of the Agile discipline as a whole. Thus, while there is some acknowledgment of the context of discipline in Agile, it does not depthfully cover the underlying principles or continuous improvement aspects expected in that category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Ce5pFwG5IAY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:51",
+    "ai_confidence": 2.382,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.6,
+    "ai_audience": 3.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses exclusively on 'Liberating Structures' as tools for Scrum Masters and improving team meetings. Nowhere in the title, description, or body is Service Level Expectation (SLE) mentioned, directly or indirectly. There are no discussions or references to SLE's definition, calculation, application, or improvement within Agile, Scrum, or Kanban frameworks, nor are any related metrics or authoritative sources cited. The core intent is to inform Scrum practitioners about meeting facilitation techniques, not to address or analyze SLE. Audiences partially overlap since both involve Scrum/agile teams, but the thematic alignment is minimal. The signal-to-noise ratio is low for the SLE category, as the content is highly focused—but entirely off-topic for SLE by definition. No penalty for outdatedness or contradictory tone is warranted. The low scores across most dimensions and the final confidence score reflect the fact that this content does not pertain to Service Level Expectation in any meaningful way.",
     "level": "Ignored"
   }
 }

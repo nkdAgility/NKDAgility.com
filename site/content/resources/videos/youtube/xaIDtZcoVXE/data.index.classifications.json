@@ -1377,7 +1377,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:06",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1772,5 +1772,23 @@
     "final_score": 68.0,
     "reasoning": "The content focuses on improving 'Time to Market', which aligns with the overarching theme of enhancing organizational capabilities to deliver value efficiently. It discusses concepts like Lead Time, Cycle Time, and continuous improvement, which are related to capabilities in Agile contexts. However, while some aspects mention organizational capability, the primary focus appears to be on metrics and processes rather than the enduring competencies necessary for sustained capability development.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "xaIDtZcoVXE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:21",
+    "ai_confidence": 14.72,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.0,
+    "ai_intent": 2.0,
+    "ai_audience": 5.5,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content thoroughly discusses Time to Market and related Agile flow metrics such as lead time, cycle time, time to learn, and time to fix. However, it does not directly reference Service Level Expectation (SLE), nor does it discuss SLE's definition, calculation, or application within Agile, Scrum, or Kanban frameworks. The main intent is clearly aligned toward practitioners interested in improving speed and delivery, but without any explicit or even implicit mention of SLE or the two-part SLE construct (elapsed time plus probability). While the target audience overlaps with SLE (Agile practitioners, Scrum teams), the focus is exclusively on broader metrics and process improvement strategies. The discussion is relatively deep for those metrics—but wholly misaligned regarding SLE itself. Therefore, confidence is very low, despite the technical audience and some relevant themes.",
+    "level": "Ignored"
   }
 }

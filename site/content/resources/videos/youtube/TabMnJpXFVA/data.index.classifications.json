@@ -1323,7 +1323,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:19",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1718,5 +1718,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses how immersive training and DevOps methodologies can transform learning experiences, emphasizing the importance of aligning training with the needs of organizations and individuals. It highlights the significance of practices surrounding tools, which aligns with the core themes of capability development. However, while it touches upon value delivery and improved outcomes, the primary focus remains on training methods rather than systemic capabilities in Agile or DevOps contexts, leading to a moderately high confidence score.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "TabMnJpXFVA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:02",
+    "ai_confidence": 2.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.1,
+    "ai_intent": 0.7,
+    "ai_audience": 3.2,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on transforming training approaches through immersive learning, double-loop learning, and the adoption of agile methodologies including DevOps, Scrum, and Kanban. However, nowhere in the content is Service Level Expectation (SLE) explicitly mentioned or even implied; there is no discussion about SLE's definition, calculation, use in forecasting or flow, or its supporting role in predictability. While Scrum and Kanban are referenced, they are mentioned in a general context about improving training and organisational learning, not in relation to SLE or flow metrics. Concepts like value delivery, continuous improvement, and helping organisations improve are present, but none of these are specifically tied to Service Level Expectation as defined for Agile, Scrum, or Kanban teams. As a result, all dimension scores are extremely low, with the only nonzero values attributed to minor audience overlap (the content does reference Agile practitioners) and a trace hint at relevant themes, but with no substantive conceptual or technical overlap with the SLE category.",
+    "level": "Ignored"
   }
 }

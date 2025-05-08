@@ -391,7 +391,7 @@
   },
   "Shift Left Strategy": {
     "resourceId": "X2BzJPMloRw",
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-05-01T13:00:46",
     "ai_confidence": 55.0,
     "ai_mentions": 2,
@@ -2206,19 +2206,19 @@
   "Service Level Expectation": {
     "resourceId": "X2BzJPMloRw",
     "category": "Service Level Expectation",
-    "calculated_at": "2025-05-07T10:50:27",
-    "ai_confidence": 1.7,
-    "ai_mentions": 0.2,
-    "ai_alignment": 0.5,
-    "ai_depth": 0.3,
-    "ai_intent": 0.5,
-    "ai_audience": 0.1,
-    "ai_signal": 0.1,
+    "calculated_at": "2025-05-06T20:54:06",
+    "ai_confidence": 2.65,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.4,
+    "ai_intent": 1.3,
+    "ai_audience": 4.6,
+    "ai_signal": 2.1,
     "ai_penalties_applied": false,
     "ai_penalty_points": 0,
     "ai_penalty_details": "none",
-    "final_score": 2.0,
-    "reasoning": "The content focuses on organisational resilience, technical health, and leadership within Agile contexts, but does not mention Service Level Expectation (SLE) directly or indirectly. There are no references to SLE's definition, calculation, application, or improvement, nor any discussion of cycle time ranges, probabilities, or delivery predictability as defined by SLE. The main themes are engineering discipline, technical practices, and authentic Agile delivery, not SLE or its use in Kanban or Scrum. The audience is broadly Agile practitioners and leaders, but not specifically those seeking SLE guidance. The signal-to-noise ratio is low for the SLE category, as the content is entirely off-topic for this classification. No penalties were applied, as the content is not outdated or satirical, but the confidence score is extremely low due to the lack of any SLE relevance.",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on resilience, technical health, engineering discipline, and sustainable delivery in Agile contexts. However, there are no direct mentions or discussions of Service Level Expectation (SLE) as defined in the classification guidance. The article emphasizes empirical delivery, sustainable throughput, batch sizes, CI/CD, and team accountability, but does not reference or discuss SLE’s definition, calculation, or application. Concepts like cycle time, delivery predictability, or measurable delivery forecasts are present by implication, but not in the specific SLE framing. It is possible an Agile practitioner audience would overlap, hence the slightly higher audience alignment. Signal-to-noise is low given the lack of relevant SLE correlation. No penalties applied, as the content is current and does not undermine or criticize the SLE concept directly. The overall confidence score is very low, appropriately reflecting the absence of SLE-relevant material.",
     "level": "Ignored"
   }
 }

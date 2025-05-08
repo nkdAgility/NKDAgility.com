@@ -834,12 +834,21 @@
     "level": "Tertiary"
   },
   "Accountability": {
+    "resourceId": "Xs-gf093GbI",
     "category": "Accountability",
-    "calculated_at": "2025-02-11T22:48:07",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the importance of a product vision and its role in providing direction and alignment, rather than focusing on accountability within Agile teams.",
+    "calculated_at": "2025-05-02T04:20:41",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content discusses the importance of a product vision in providing direction and alignment, which relates to accountability, but it does not explicitly mention accountability or defined roles within work systems. The focus is on vision rather than on accountability structures or specific roles like Product Owner or Scrum Master. Therefore, it aligns conceptually but lacks direct mentions and depth regarding accountability.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1314,7 +1323,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:09",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1446,15 +1455,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "Xs-gf093GbI",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:05:28",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:35",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the importance of a product vision within Agile and Scrum contexts, but it does not mention or discuss Liberating Structures or their facilitation techniques. While it touches on themes of alignment and collaboration, these are not explored through the lens of Liberating Structures, which diminishes the relevance to the category.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on product vision in Agile and Scrum contexts, discussing the importance of having a clear direction for a product. However, it lacks any specific mention or application of Liberating Structures methods or techniques. The discussion does touch on themes of alignment and collaboration, which are relevant to Liberating Structures, but it does not provide practical examples or depth relating to the facilitation methods themselves, resulting in a very low confidence score.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1708,6 +1723,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content mentions Agile and Scrum in the context of product vision, which aligns it somewhat with the Discipline category. However, it primarily focuses on the importance of having a product vision for alignment and direction rather than discussing the underlying principles or methodologies of the disciplines like Agile or Scrum in depth. The discussion lacks detailed exploration of how these principles guide professional conduct or decision-making, which is essential for a higher confidence score in the Discipline category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "Xs-gf093GbI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:05",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.1,
+    "ai_audience": 0.2,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content exclusively focuses on the concept of product vision within Agile and Scrum, emphasizing alignment, direction, and purpose for teams. There is no mention, explicit or implicit, of Service Level Expectation (SLE), nor are any of the category’s required topics discussed (such as forecasting work item completion time, SLE calculation, or its practical application). The intent, audience, and signal only marginally coincide with the target category via general Agile relevance, but not specifically with the concept of SLE. Therefore, a confidence score of 0 is warranted, as there is no substantive connection to 'Service Level Expectation' by definition.",
     "level": "Ignored"
   }
 }

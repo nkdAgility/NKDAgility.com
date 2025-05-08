@@ -1341,7 +1341,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:21",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1736,5 +1736,23 @@
     "final_score": 52.0,
     "reasoning": "The content primarily focuses on communication issues within Agile teams, discussing the detrimental effects of silence on team dynamics and value delivery. While it touches on relevant themes such as fostering communication and the role of trust, it mostly addresses isolated practices rather than discussing enduring competencies or capabilities in a broader sense. Therefore, while there are mentions of communication as a capability, the emphasis is more on specific problems and solutions rather than on integrating capabilities into organizational culture.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "WpsGLkTXalE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:44",
+    "ai_confidence": 2.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.6,
+    "ai_audience": 0.8,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on the negative impact of silence in Agile teams, highlighting issues of communication, accountability, team trust, transparency, value delivery, and continuous improvement. While these are all relevant to Agile practices generally, there are no direct or indirect references to Service Level Expectation (SLE), its calculation, application, or role in predictability, nor does it mention key components like elapsed time range, probability, or the mathematical/analytic foundations specified in the SLE definition. The text does not touch on forecast metrics, time to completion, or reference any authoritative SLE sources. It is aimed at Agile practitioners and team leads (audience alignment is slightly higher as the target overlaps), and signal-to-noise is moderate since most content is about Agile team culture and trust. Scoring is accordingly very low on direct mentions, conceptual alignment, and depth. No penalties were required as the content is current and not satirical or critical of SLE.",
+    "level": "Ignored"
   }
 }

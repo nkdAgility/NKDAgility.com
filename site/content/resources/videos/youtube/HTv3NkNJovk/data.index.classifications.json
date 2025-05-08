@@ -1368,7 +1368,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:25",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1776,5 +1776,23 @@
     "final_score": 76.0,
     "reasoning": "The content primarily discusses Agile leadership, particularly contrasting Satya Nadella's leadership at Microsoft with Steve Jobs' at Apple. While it talks about the 'innovation and Agile capabilities' and how Nadella fostered a culture that enabled those capabilities within Microsoft, the focus is more on leadership styles and organizational dynamics rather than a direct exploration of capability itself. The discussions are relevant to the concept of capability but not comprehensive enough to fully classify the content under that category. It provides a clear examination of how the leadership style connects with developing organizational capabilities, especially in the context of Agile, but it keeps a broader lens on leadership rather than drilling down deeply into capability as an enduring systemic quality. Thus, the content meets the focus on capability but does not dive into its nuances fully, leading to a high confidence score, but not the maximum.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "HTv3NkNJovk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:09",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.3,
+    "ai_audience": 2.0,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses exclusively on comparing agile leadership styles of Satya Nadella and Steve Jobs, drawing lessons about organizational innovation, leadership behavior, and agility. Nowhere does the article directly reference Service Level Expectation (SLE) by name or describe its definition, calculation, practical application, or improvement, nor does it touch on the technical aspects of Kanban, Scrum, or Agile predictability that SLE addresses. It briefly alludes to metrics and data, but not in the SLE context or terminology. Therefore, there are no direct mentions (0.0), extremely minimal alignment or depth regarding the SLE concept (0.3 and 0.2, respectively), and the overall intent and signal-to-noise for SLE are effectively zero. The audience is somewhat aligned because they are agile practitioners, but only loosely relevant for SLE (2.0). No penalties are applied since the tone is not critical or outdated, but the content does not approach the bounds of the SLE category in any substantial way.",
+    "level": "Ignored"
   }
 }

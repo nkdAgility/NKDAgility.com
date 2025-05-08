@@ -1383,7 +1383,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:13",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1778,5 +1778,23 @@
     "final_score": 65.0,
     "reasoning": "The content discusses the importance of a shared understanding of product vision and strategic goals as essential for fostering agility, which aligns with the category of capability. It emphasizes the development of team alignment, ownership, and adaptability, which are key aspects of capabilities. However, the focus is more on responsibility and practical steps rather than deeper insights into systemic capabilities or their measurement, hence the score reflects a moderate alignment but does not fully delve into the nuances of capabilities.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "2tlzlsgovy0",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:02",
+    "ai_confidence": 3.47,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 0.8,
+    "ai_audience": 0.5,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses entirely on the importance of product vision, team alignment, and empowerment within Agile teams. There are no direct or indirect references to Service Level Expectation (SLE), its calculation, application, or improvement. The content never mentions SLE, nor any of its key components like cycle time probabilities, elapsed time forecasts, or related Kanban/Scrum flow metrics. Its main ideas center on high-level alignment, context-sharing, and empowerment practices, none of which align with the technical or procedural topic of SLE. The depth of discussion is substantial on leadership and empowerment, but completely unrelated to the scope of SLE. The intended audience (Agile leaders/teams) partially overlaps with SLE's, but in a different context. The signal-to-noise ratio for SLE is extremely low since the entire article is off-topic concerning SLE. Therefore, scores are minimal across all dimensions, and no penalties were needed since there was no outdated or contradictory material.",
+    "level": "Ignored"
   }
 }

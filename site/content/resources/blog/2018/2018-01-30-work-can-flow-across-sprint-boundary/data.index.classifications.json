@@ -1347,7 +1347,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:47",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1754,6 +1754,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses Scrum processes and how work can flow across Sprint boundaries, which contributes to team efficiency and delivery of value. However, it focuses predominantly on Scrum practices and techniques rather than on enduring capabilities as defined in the Capability category. It mentions aspects that relate to continuous delivery and transparency but lacks a deeper exploration of the competencies needed to sustain these practices over time or how they become embedded in organizational culture. Overall, while there are elements that touch upon capabilities, they are secondary to the emphasis on specific Scrum roles and techniques.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "a7UMLdZeVYq",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:16",
+    "ai_confidence": 16.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.9,
+    "ai_intent": 1.5,
+    "ai_audience": 7.5,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content discusses the concept of allowing work to flow across Sprint boundaries in Scrum and references the Kanban Guide for Scrum Teams, but there is no explicit mention or direct discussion of Service Level Expectation (SLE). There are no substantive passages addressing SLE’s definition, calculation, or application. Flow, transparency, and continuous delivery are discussed generally, but always from the perspective of Scrum workflow flexibility rather than SLE’s predictive timeframes or measurement concepts. Audience alignment is relatively high as the piece is aimed at Scrum and Kanban practitioners, but the signal-to-noise ratio is moderate due to detailed process descriptions relevant to flow rather than SLE specifically. Overall, confidence in this content fitting the SLE category is very low.",
     "level": "Ignored"
   }
 }

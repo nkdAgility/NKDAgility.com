@@ -261,12 +261,21 @@
     "level": "Secondary"
   },
   "Accountability": {
+    "resourceId": "GdoDhtTM-Rn",
     "category": "Accountability",
-    "calculated_at": "2025-02-17T17:56:17",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily focuses on product ownership and lean product development, with no clear discussion on accountability or team dynamics.",
+    "calculated_at": "2025-05-01T18:45:27",
+    "ai_confidence": 4.0,
+    "ai_mentions": 5,
+    "ai_alignment": 0.25,
+    "ai_depth": 0.4,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content focuses on a webcast about Product Ownership and Lean Product Development, which implies an understanding of roles like the Product Owner that relate to accountability. However, the primary discussion does not delve deeply into accountability as a foundational mechanism in work systems. The direct mentions of Product Ownership (5 instances) indicate some awareness of role-specific accountabilities, but the overall depth does not provide significant detail on how these accountabilities shape behavior or influence performance. The content's main purpose is to promote a training event rather than to discuss the critical themes of accountability itself, leading to a moderate confidence score based on the dimensions evaluated.",
     "level": "Ignored"
   },
   "Release Management": {
@@ -1341,7 +1350,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:31",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1473,15 +1482,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "GdoDhtTM-Rn",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:09:12",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:25",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, with no direct mention of Liberating Structures or its techniques. While it discusses collaboration and insights, it does not align with the core themes of Liberating Structures, which are specific facilitation techniques aimed at enhancing group dynamics. The depth of discussion is limited to the event's promotional aspects, lacking any detailed exploration of the principles or applications of Liberating Structures.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content focuses primarily on product ownership and lean product development, with no direct mention of Liberating Structures or specific facilitation techniques associated with it. While it discusses concepts applicable to agile contexts, it lacks any detailed discussion on how to use Liberating Structures specifically. Therefore, it shows minimal alignment with the category and does not meet the criteria for high confidence.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1735,6 +1750,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on a webcast about Product Ownership and Lean Product Development, mentioning lean principles and providing insights from experts. However, it does not delve deeply into the structured methodology of disciplines or their principles. While it touches upon 'Lean' as part of a broader discussion, there isn't a comprehensive exploration of governance structures, continuous improvement, or the evolution of these disciplines. Therefore, while it references elements related to the category, it lacks the depth and overarching discussion required for a strong alignment with 'Discipline.'",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GdoDhtTM-Rn",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:42",
+    "ai_confidence": 4.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.2,
+    "ai_intent": 0.2,
+    "ai_audience": 10.0,
+    "ai_signal": 9.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content does not reference 'Service Level Expectation' (SLE) directly or indirectly. There is no explicit mention of SLE or any discussion focused on its calculation, purpose, or relevance within Agile, Scrum, or Kanban frameworks. The webcast centers on product ownership and lean product development at a high level, with some tangential relevance since SLE is sometimes used in lean/agile circles, but there is no discussion or reference to SLE or its core concepts (e.g., elapsed time ranges with probability, flow metrics in context of SLE, or improving predictability through SLE). While the audience matches practitioners in agile and lean environments (hence high scores for audience and signal), the lack of any SLE-specific content results in minimal scores across mentions, alignment, depth, and intent. No penalties are warranted as the content is current and not critical of SLE, but it also falls outside the clear scope required for confident classification under this category.",
     "level": "Ignored"
   }
 }

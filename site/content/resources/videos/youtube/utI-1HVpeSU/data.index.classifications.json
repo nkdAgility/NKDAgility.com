@@ -1308,7 +1308,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:26",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1702,6 +1702,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses leadership styles within the Agile framework but does not focus on capability as defined. While it touches on team empowerment and decision-making, it lacks a deep exploration of enduring competencies or the integration of these leadership styles into organizational culture, which are core to the concept of capabilities. Instead, it emphasizes roles and practices rather than systemic capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "utI-1HVpeSU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:48",
+    "ai_confidence": 3.61,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.6,
+    "ai_intent": 3.0,
+    "ai_audience": 7.2,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is entirely focused on leadership styles (dictatorship vs democracy) within the Agile framework. There is no mention or discussion, direct or otherwise, of Service Level Expectation (SLE), its calculation, or its application. Direct mentions score zero as SLE is not named or referenced. Conceptual alignment and depth are both very low because the central ideas focus on leadership, team empowerment, and decision-making rather than anything to do with forecasting cycle times, probability, or SLE purpose. The intent is marginally relevant as it concerns Agile effectiveness, which could tangentially relate to predictability or flow, but there is no explicit fit to SLE. The audience is relatively well-aligned (Agile practitioners/leaders), so that score is higher. Signal-to-noise is moderate: most content is on-topic for Agile leadership, but it's not relevant for SLE. No penalties are applied: the content is current, not critical or satirical about SLE, and does not reference obsolete practices. The final low confidence score reflects the almost complete absence of qualifying features for this category.",
     "level": "Ignored"
   }
 }

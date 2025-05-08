@@ -246,12 +246,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "3XsOseKG57g",
     "category": "Strategy",
-    "calculated_at": "2025-02-12T11:20:28",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of a specific training format rather than strategic approaches within Agile, Scrum, or DevOps frameworks.",
+    "calculated_at": "2025-05-02T04:20:44",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.05,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily discusses the benefits and structure of a specific training format, focusing on the experiences of participants rather than strategic alignment with organizational goals or higher-level planning. It lacks direct mentions of strategy and does not align with the core themes of strategic planning, decision-making, or long-term vision. The discussion is more about operational details rather than a high-level strategic approach.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -804,12 +813,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "3XsOseKG57g",
     "category": "Accountability",
-    "calculated_at": "2025-02-12T11:22:09",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses the benefits of a four-day training format rather than accountability in Agile teams.",
+    "calculated_at": "2025-05-02T04:20:35",
+    "ai_confidence": 1.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content discusses a training format focusing on participant experiences and learning benefits but does not address accountability or related roles within a work system. There are no mentions of outcome ownership, accountability structures, or any of the key concepts outlined in the category. The discussion is centered around training methodologies rather than accountability in a work context.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1275,7 +1293,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:10",
     "ai_confidence": 5.0,
     "ai_mentions": 0,
@@ -1407,15 +1425,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "3XsOseKG57g",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T12:10:38",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:33",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 15.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on the benefits of a specific training format rather than discussing Liberating Structures or their principles. While it touches on aspects of participant engagement and reflection, it does not explicitly mention any Liberating Structures techniques or their applications. The discussion lacks depth regarding the core themes of Liberating Structures, such as facilitation techniques or group dynamics.",
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content discusses training formats but does not reference any specific Liberating Structures or their application. It focuses on general training experiences and participant preferences rather than facilitation techniques or engagement methods specific to Liberating Structures.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1669,6 +1693,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily discusses the 4-day training format and its appeal for learners without addressing any principles, methodologies, or standards that define a discipline. There are no direct mentions of Disciplines such as Agile, DevOps, or Lean, and the focus on training structure does not delve into systemic applications or governance within a discipline.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "3XsOseKG57g",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:58",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 2.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content is entirely focused on learner preferences and the benefits of a 4-day training format for Scrum-related classes. It does not mention Service Level Expectation (SLE), nor does it reference any of its aspects, such as calculation, definition, application, or improvement within Agile, Scrum, or Kanban contexts. There are no conceptual or thematic links to SLE, nor is there any discussion of metrics, elapsed time ranges, probabilities, or related forecasting models. While the overall audience may overlap with Scrum practitioners (hence a score above 2 for audience and signal), the entire discussion is strictly about training experience and scheduling, not about work item predictability, SLE transparency, or continuous improvement by use of SLE. All other scores are 0, resulting in 0 confidence.",
     "level": "Ignored"
   }
 }

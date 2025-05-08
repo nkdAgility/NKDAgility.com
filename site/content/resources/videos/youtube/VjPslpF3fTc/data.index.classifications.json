@@ -255,12 +255,21 @@
     "level": "Ignored"
   },
   "Strategy": {
+    "resourceId": "VjPslpF3fTc",
     "category": "Strategy",
-    "calculated_at": "2025-02-11T23:54:56",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not focus on Agile, Scrum, or DevOps strategies.",
+    "calculated_at": "2025-05-02T04:19:56",
+    "ai_confidence": 3.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.5,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 3.0,
+    "reasoning": "The content primarily discusses immersive learning for experienced professionals in Agile methodologies. While it touches on concepts that could relate to strategic enhancements in professional development, it does not explicitly address high-level strategic discussions or alignments. Instead, it focuses more on the practical implications and benefits of immersive learning and its impact on skill enhancement, which falls outside of the strict definition of 'strategy' as a guiding framework.",
     "level": "Ignored"
   },
   "Ability to Innovate": {
@@ -813,12 +822,21 @@
     "level": "Ignored"
   },
   "Accountability": {
+    "resourceId": "VjPslpF3fTc",
     "category": "Accountability",
-    "calculated_at": "2025-02-11T23:56:25",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content primarily discusses immersive learning experiences and does not focus on accountability, team dynamics, or ownership in Agile methodologies.",
+    "calculated_at": "2025-05-02T04:20:36",
+    "ai_confidence": 2.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content discusses immersive learning for experienced Agile practitioners, focusing on skill enhancement rather than accountability in work systems. Although it touches on Agile methodologies, it primarily emphasizes professional development and the learning experience rather than addressing explicit accountabilities, roles, or outcomes within a work system. The concepts of accountability are not directly mentioned, and there is limited depth in discussing how accountability shapes behavior or influences performance in Agile frameworks.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1290,7 +1308,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:38",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1422,15 +1440,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "VjPslpF3fTc",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:53:27",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-02T04:20:15",
+    "ai_confidence": 1.0,
     "ai_mentions": 0,
-    "ai_alignment": 20.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on immersive learning for experienced Agile practitioners, discussing concepts like double-loop learning and practical assignments. However, it does not mention Liberating Structures or their specific techniques, nor does it align closely with the core themes of facilitation techniques or group dynamics. The discussion is more centred on individual learning experiences rather than collective engagement or decision-making processes typical of Liberating Structures.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 1.0,
+    "reasoning": "The content primarily discusses immersive learning for experienced Agile practitioners without any explicit mention of Liberating Structures or their specific facilitation techniques. While it touches on concepts like double-loop learning and practical applications, these do not align directly with the Liberating Structures framework or its methods. Therefore, the overall relevance to the Liberating Structures category is minimal.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1685,5 +1709,23 @@
     "final_score": 62.0,
     "reasoning": "The content focuses on the transformation brought by immersive learning for experienced Agile practitioners, discussing how such learning impacts their professional growth and understanding of Agile principles. While it discusses Agile and mentions principles related to professional development, it mainly emphasizes experiential learning rather than the systemic application and maturation of disciplines. Additionally, it touches on concepts like double-loop learning, which aligns somewhat with the theme of continuous improvement but does not delve deeply into the broader governance, ethical considerations, or evolution of disciplines as required for high confidence in this category.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "VjPslpF3fTc",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:50",
+    "ai_confidence": 2.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 3.1,
+    "ai_intent": 2.7,
+    "ai_audience": 3.9,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on the impact of immersive learning for experienced Agile practitioners, emphasizing learning methods, skill enhancement, and professional development. There are zero direct mentions of Service Level Expectation (SLE), nor indirect references to its concepts, definitions, calculations, or use in Agile, Scrum, or Kanban. The alignment is very low, as immersive learning is not part of SLE's definition, application, or improvement within Agile processes. The depth concerning SLE is effectively non-existent—the discussion centers around adult learning, double-loop learning, bringing questions from experience, practical assignments, and making use of prior experience, but not about workflow predictability, forecasting, or transparency in delivery timelines. The only nod toward Agile, Scrum, or DevOps is suggestive (inviting viewers to further explore), but does not reference SLE or related flow metrics. Audience alignment is somewhat higher, as the piece is targeted at experienced Agile practitioners (slight overlap with the SLE audience, but only at the practitioner level, not specific to SLE). The signal-to-noise ratio is quite low for SLE, as the entire content is off-topic under the defined classification, containing general experiential content with no SLE-related information. There are no penalties, as the content is neither outdated nor contradictory, just irrelevant. The resulting confidence score is extremely low due to no topical overlap and strictly missing all inclusion criteria specified.",
+    "level": "Ignored"
   }
 }

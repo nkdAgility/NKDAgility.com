@@ -1371,7 +1371,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:47:14",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1765,6 +1765,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses transitioning to Kanban and emphasizes gradual improvement and data-driven changes, which aligns somewhat with the principles of developing capabilities. However, it primarily focuses on the transition process and specific practices rather than a deep exploration of capabilities as enduring competencies that embed into organizational culture. The mentions of continuous improvement suggest a loose connection, but there is minimal depth regarding the strategic development of long-term capabilities.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "IU_1dJw7xk4",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:11",
+    "ai_confidence": 18.325,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.5,
+    "ai_intent": 2.4,
+    "ai_audience": 5.3,
+    "ai_signal": 5.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content discusses transitioning from traditional project management to Kanban, emphasizing workflow visualization, gradual change, and the use of metrics like cycle time. However, there is no direct mention of Service Level Expectation (SLE) by name or by its key components (elapsed time range with probability, e.g., '85% within 8 days'), nor any discussion of SLE’s role in predictability, stakeholder transparency, or Kanban/Scrum best practices concerning SLE. The closest the text comes is in referencing the collection and analysis of cycle time and workflow metrics—yet these are generalized flow metrics discussions, not about SLE specifically. The article targets practitioners interested in Kanban, matching the audience somewhat, but remains focused on adoption and incremental improvement, not on the core concepts, calculation, or application of SLE. Discussion depth on SLE itself is absent, with no authoritative sources on SLE cited. Thus, the confidence score is low, driven up only slightly by tangential audience and relevance to flow-related topics.",
     "level": "Ignored"
   }
 }

@@ -1356,7 +1356,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:37",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1763,6 +1763,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content briefly mentions the need for the right people in an organization and discusses cultural constraints in transitioning to an agile model. However, it primarily focuses on the concept of 'Luddites' and resistance to change, rather than delving deeply into capabilities as enduring competencies. The discussion is superficial in terms of capability development methods and lacks in-depth examples or strategies specifically related to enhancing organizational capabilities. Consequently, while capability is acknowledged, it is not the primary focus, resulting in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "dyxqF7lrHmn",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:14",
+    "ai_confidence": 1.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 1.0,
+    "reasoning": "The content centers completely on cultural resistance to agile change, the impact of 'Luddites', and fostering organizational agility. Nowhere is Service Level Expectation (SLE) mentioned, defined, referenced, or even alluded to explicitly or indirectly. No discussion of forecasting workflow completion, cycle time analysis, probability ranges, or Kanban/Scrum theory regarding SLE occurs. The material is instead high-level cultural commentary with leadership anecdotes and references to agile transformation at Microsoft, without any focused process or metrics discussion. There is negligible overlap with the intended audience for SLE, though a general agile practitioner audience is lightly addressed. Due to the virtual absence of relevant content, scores for direct mentions, alignment, depth, and signal are minimal. No penalties are required since the content is neither outdated nor satirical/critical toward the SLE concept.",
     "level": "Ignored"
   }
 }

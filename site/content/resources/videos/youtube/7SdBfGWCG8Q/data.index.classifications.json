@@ -1317,7 +1317,7 @@
     "level": "Tertiary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:04",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1711,6 +1711,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content primarily focuses on relationship building within the context of immersive learning in Scrum. While it indirectly addresses capabilities by suggesting that relationships and collaborative learning can enhance the practice of Scrum, it mainly discusses interpersonal dynamics rather than the enduring competencies and systemic capabilities discussed in the 'Capability' category. Direct mentions of capability are low, and the overall alignment with the core themes of the category is weak.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "7SdBfGWCG8Q",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:18",
+    "ai_confidence": 10.0,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.1,
+    "ai_intent": 1.2,
+    "ai_audience": 3.9,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content centers on immersive learning and the value of relationship-building in Scrum training. It does not mention or discuss Service Level Expectation (SLE) directly or indirectly. There are no explanations, calculations, or references to SLE, nor to any core SLE concepts such as cycle time ranges, probabilities, or flow forecasting. The article remains tightly focused on team dynamics and educational techniques rather than on any Agile or Kanban metric frameworks. The only marginal theme possibly in scope is the mention of 'continuous improvement,' but this is generic and not linked specifically to SLE concepts or purposes. Audience alignment receives a slightly higher score due to targeting Scrum practitioners, but otherwise, every scoring dimension is extremely low as this content is wholly irrelevant to the Service Level Expectation topic.",
     "level": "Ignored"
   }
 }

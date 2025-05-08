@@ -1320,7 +1320,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:20",
     "ai_confidence": 5.0,
     "ai_mentions": 10.0,
@@ -1714,6 +1714,24 @@
     "non_ai_confidence": null,
     "final_score": 32.0,
     "reasoning": "The content discusses immersive training courses and focuses on the training experience rather than capabilities as defined in the category. While there is mention of enhancing the Agile journey and unlocking value, the primary focus remains on the training format and delivery methods. There are references to engagement and participant interaction, which relate to learning but do not directly align with developing organizational capabilities as specified in the category definition. The content lacks a deeper exploration of capabilities in a systematic way, diminishing its relevance to the category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "wa4A_KQ-YGg",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:59",
+    "ai_confidence": 2.25,
+    "ai_mentions": 0.15,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.25,
+    "ai_intent": 0.5,
+    "ai_audience": 4.05,
+    "ai_signal": 3.35,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on immersive training approaches within Agile and Scrum learning environments, specifically discussing course format innovations like flipped learning and real-world assignments. There are no mentions—direct or indirect—of Service Level Expectation (SLE), its definition, calculation, application, or relevance within Agile, Scrum, or Kanban frameworks. None of the main themes, examples, or advice provided connect to the SLE concept as defined in the category. While the audience and domain (Agile/Scrum practitioners) broadly overlap, the actual topical content is entirely distinct from SLE. Consequently, scores are minimal for mentions, alignment, depth, and intent. Audience and signal are somewhat higher—since the learners could potentially be interested in SLE in other contexts—but the actual content is off-topic with respect to the defined category. The rigorous exclusion rules further preclude inclusion, as no SLE discussion is present in any form.",
     "level": "Ignored"
   }
 }

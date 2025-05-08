@@ -1368,7 +1368,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:41",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1762,6 +1762,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content focuses primarily on the role and challenges faced by Product Owners in a PSPO course context. While there are incidental mentions of empowerment and responsibility, the main emphasis is on the roles, sentiments, and influence related to Product Ownership rather than on enduring capabilities that empower organizations systematically. The discussion lacks depth concerning the development or strategic embedding of capabilities within teams or organizations, which is crucial for a higher confidence score in this category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "CdYwLGrArZU",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:56",
+    "ai_confidence": 2.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.8,
+    "ai_intent": 2.4,
+    "ai_audience": 4.0,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The provided content discusses themes around the Product Owner role, challenges with empowerment, and navigating organizational influence within Agile and Scrum teams. There are no explicit or implicit mentions of Service Level Expectation (SLE) or its components, calculation, application, or any related discussion. Key focus is on the sentiment of lacking control and suggestions for increasing Product Owner influence, with no direct or indirect tie to flow metrics, cycle times, or predictability as tied to SLE. Audience alignment is moderate since both topics pertain to Agile practitioners, but the specific audience here is Product Owners seeking empowerment, not those interested in SLE concepts. Signal-to-noise ratio is moderate because while the message is focused and relevant for its stated audience, it is entirely irrelevant to SLE. No penalty adjustments are warranted as the content isn't outdated or critical; it's simply unrelated. Therefore, the confidence score is extremely low, properly reflecting the total absence of category relevance.",
     "level": "Ignored"
   }
 }

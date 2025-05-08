@@ -1383,7 +1383,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:37:35",
     "ai_confidence": 32.0,
     "ai_mentions": 15.0,
@@ -1778,5 +1778,23 @@
     "final_score": 65.0,
     "reasoning": "The content emphasizes the importance of building a culture of quality and engineering excellence, which aligns with the concept of capability as it relates to sustainable and enduring competencies. It discusses the factors that contribute to this culture and reflects on failures in organizations that have shifted away from a focus on quality, which ties into the definition of capabilities. However, the discussion veers towards individual roles and specific organizational actions, which detracts from a pure focus on capabilities as outlined in the classification criteria. The examples mentioned, while relevant in some contexts, do not provide a robust framework for assessing capabilities within teams or organizations, and thus the depth of discussion is moderate.",
     "level": "Secondary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "IZ-FlBbGaSY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:38",
+    "ai_confidence": 2.54,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 1.2,
+    "ai_intent": 1.1,
+    "ai_audience": 2.3,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content does not mention Service Level Expectation (SLE) explicitly or implicitly. There is no discussion on the forecast of cycle time, probability ranges, or using SLEs within Agile, Scrum, or Kanban contexts; the article revolves around building a culture of quality, engineering excellence, technical leadership, and CI/CD practices. The closest connections are generic mentions of continuous improvement and Agile frameworks, but none are tied to SLE. The audience is generally aligned with practitioners in Agile/software engineering, but not specifically those focused on SLE topics. Depth, purpose, and focus all remain unrelated to SLE, resulting in a very low confidence score.",
+    "level": "Ignored"
   }
 }

@@ -1371,7 +1371,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:43",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1765,6 +1765,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "The content discusses the role of Agile consultants and coaching in teams' development, hinting at the importance of understanding capabilities. However, it primarily focuses on roles and the differences between coaching and consulting rather than directly discussing capabilities as defined in the context provided. It lacks a thorough exploration of capabilities themselves and how to cultivate them within organizations, resulting in a low score for depth and alignment with the category of Capability.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "LkphLIbmjkI",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:53",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.9,
+    "ai_intent": 2.5,
+    "ai_audience": 4.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content never directly references Service Level Expectation (SLE) or any core elements defined in the category’s scope. There is no mention of SLE, its calculation, or its use in Agile, Scrum, or Kanban practices. The discussion is focused on comparing the value provided by an Agile consultant versus a professional coach, particularly highlighting teaching, mentoring, and technical depth. While the audience alignment receives a moderate score since it is aimed at Agile practitioners, possibly overlapping with those interested in SLE, none of the content’s main ideas, intent, or depth directly or even indirectly pertain to SLE. There is a complete absence of relevant terminology, examples, or exploration in relation to the defined category. The signal-to-noise ratio is low for this category, as nearly all of the substantive content is off-topic for SLE. No penalties were necessary, as the tone and references are not outdated or contradictory—merely irrelevant to Service Level Expectation. The scoring and final confidence accurately reflect that this content does not fit under the 'Service Level Expectation' category.",
     "level": "Ignored"
   }
 }

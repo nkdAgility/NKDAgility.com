@@ -1377,7 +1377,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T14:45:10",
     "ai_confidence": 42.0,
     "ai_mentions": 15.0,
@@ -1771,6 +1771,24 @@
     "non_ai_confidence": null,
     "final_score": 22.0,
     "reasoning": "The content primarily discusses the practices and techniques of Agile product management, focusing on specific processes such as shorter release cycles and continuous feedback. While it mentions the shift in mindset and strategic advantages associated with Agile, the main narrative is still about how product management is executed rather than exploring the underlying philosophical principles that guide these practices. The discussion does touch upon the broader impact on market responsiveness and customer satisfaction, which aligns somewhat with philosophical considerations, but it predominantly remains procedural and tactical. Therefore, the overall alignment with the philosophy category is weak, reflected in a low confidence score.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_FtFqnZHCjk",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:58",
+    "ai_confidence": 10.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.2,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is a comparative overview of traditional vs. Agile product management, with emphasis on shorter delivery cycles, feedback loops, and continuous delivery. However, there is no mention (direct or indirect) of Service Level Expectation (SLE), nor any discussion of its definition, calculation, probability/range components, or application within Agile, Scrum, or Kanban. While some foundational Agile concepts such as cycle time, continuous integration, and delivery cadence are present, these are not connected to SLE in any way and do not address its specific theory or usage. The intent and audience are Agile/product practitioners, but the topic focus is on general Agile transformation and quality practices rather than SLE. There is no signal of noise or off-topic discussion, but the entire content remains unrelated to the SLE category as defined, resulting in a very low confidence score.",
     "level": "Ignored"
   }
 }

@@ -1335,7 +1335,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:22",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1730,5 +1730,23 @@
     "final_score": 45.0,
     "reasoning": "The content discusses team dynamics and conflict resolution within an Agile context, which relates to the cultivation of capabilities such as open communication and collaboration that enhance team performance. However, the primary focus is on conflict management and roles rather than a comprehensive exploration of organizational capabilities. Thus, while it touches on relevant topics, it does not illustrate capabilities in-depth or as a primary theme.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GGtb7Yg8gHY",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:36",
+    "ai_confidence": 5.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.2,
+    "ai_intent": 0.3,
+    "ai_audience": 5.2,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content exclusively addresses conflict resolution and healthy team communication within Agile contexts, focusing on team dynamics, de-escalation strategies, and the importance of collaborative culture. There is no explicit mention or implicit discussion of Service Level Expectation (SLE), its calculation, application, or any related concepts within Agile, Scrum, or Kanban. None of the SLE key topics (elapsed time, probability, workflow predictability, cycle time analysis, etc.) are mentioned or indirectly referenced. The intent is supportive of Agile teams but unrelated to SLE, though the audience overlap is partial since both target Agile practitioners. Signal-to-noise ratio is modestly scored due to the focused and relevant treatment of team conflict but not on SLE. No penalties applied, as there's neither outdated advice nor contradictory tone, but all core dimensions receive minimal scores due to complete absence of category relevance.",
+    "level": "Ignored"
   }
 }

@@ -1299,7 +1299,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T13:43:23",
     "ai_confidence": 32.0,
     "ai_mentions": 10.0,
@@ -1693,6 +1693,24 @@
     "non_ai_confidence": null,
     "final_score": 15.0,
     "reasoning": "The content focuses on the technical aspects of migrating from TFS to Azure DevOps, addressing specific compatibility issues, customizations, and the importance of the codebase. While it touches on challenges and considerations in the migration process, it does not engage with the concept of capabilities as enduring competencies that enhance organizational performance. It lacks a comprehensive discussion on how to develop or embed capabilities related to Agile or DevOps contexts, instead delivering practical tips for a technical migration, which falls outside the scope of the 'Capability' category.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "qpo4Ru1VVZE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:54:44",
+    "ai_confidence": 0,
+    "ai_mentions": 0,
+    "ai_alignment": 0,
+    "ai_depth": 0,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The content focuses exclusively on the migration from TFS (Team Foundation Server) to Azure DevOps, covering topics such as compatibility, customisations, codebase safety, on-premises components, and strategies for addressing migration challenges. There is absolutely no mention—explicit or implicit—of Service Level Expectation (SLE), nor of any related Agile, Scrum, or Kanban forecasting concepts. The content instead targets IT professionals concerned with migration logistics, not process improvement or predictability measures like SLE. There are zero direct or indirect references to SLE calculation, application, transparency, or intent to inform about flow predictability. Accordingly, every scoring dimension is assessed as zero, as the content is entirely unrelated to the defined category.",
     "level": "Ignored"
   }
 }

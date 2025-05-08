@@ -1338,7 +1338,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:29",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1745,6 +1745,24 @@
     "non_ai_confidence": null,
     "final_score": 35.0,
     "reasoning": "While the content discusses the role of a Scrum Product Owner and their impact on team dynamics, it primarily focuses on the specifics of the role, practices, and course details, which detracts from a broader discussion on organizational capabilities. The content touches on themes of continuous improvement and community support, but these are framed within the context of role-oriented training rather than a comprehensive exploration of capabilities as enduring competencies. Thus, while there are elements related to capability, they do not constitute the primary focus.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "6SSgETsq8IQ",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:10",
+    "ai_confidence": 8.16,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.2,
+    "ai_intent": 0.1,
+    "ai_audience": 0.2,
+    "ai_signal": 0.18,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is a promotional and reflective overview of a Professional Scrum Product Owner course, highlighting course experiences, ongoing support, and the value of the Product Owner role. There is no direct mention of Service Level Expectation (SLE) or any related concept, such as the calculation of cycle time ranges, probabilities of completion, or the use of SLE in managing predictability within Agile/Scrum/Kanban practices. The content focuses on general agile product management, value maximization, course pedagogy, and ongoing community support. While the audience (Scrum practitioners) aligns tangentially, the content does not address the definition, application, or improvement of SLE. No points were deducted for penalties, as the content is not outdated or satirical; however, the extremely low scores across all dimensions reflect its inapplicability to the SLE category.",
     "level": "Ignored"
   }
 }

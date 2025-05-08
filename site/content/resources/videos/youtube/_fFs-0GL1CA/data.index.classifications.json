@@ -1326,7 +1326,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:21",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1721,5 +1721,23 @@
     "final_score": 47.0,
     "reasoning": "While the content discusses Agile certifications and highlights the importance of validated learning and continuous improvement, it does so primarily in the context of career advancement rather than focusing on the actionable principles themselves. The explicit mentions of continuous learning score positively, but the discussion lacks a deep exploration of Agile principles like self-management, empiricism, and respect for people. Thus, it’s better aligned with a broader career development theme, which places it at a moderate confidence level for the 'Principle' category.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "_fFs-0GL1CA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:06",
+    "ai_confidence": 3.97,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.2,
+    "ai_intent": 0.3,
+    "ai_audience": 2.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content exclusively addresses Agile and Scrum certifications, the value of validated learning, and career advancement. There are no direct mentions or references to Service Level Expectation (SLE), nor any conceptual alignment with the category definition: SLE as a forecast for work item completion time, its calculation, application within Agile/Kanban/Scrum, or use in improving process predictability. Discussions are limited to personal experience, certification processes, and general benefits of continuous learning in Agile, with the target audience being individual practitioners seeking credential validation rather than teams or stakeholders focused on SLE-related practices. The absence of SLE-specific discussion, direct mentions, or related flow metrics ensures minimal alignment. Minimal scores were provided for audience and signal due to a generic Agile focus, but overall, relevance to the SLE category is extremely low.",
+    "level": "Ignored"
   }
 }

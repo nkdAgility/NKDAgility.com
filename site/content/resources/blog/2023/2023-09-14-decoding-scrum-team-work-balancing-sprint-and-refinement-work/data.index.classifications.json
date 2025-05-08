@@ -852,12 +852,21 @@
     "level": "Primary"
   },
   "Accountability": {
+    "resourceId": "RCMVmNzZDfV",
     "category": "Accountability",
-    "calculated_at": "2025-02-11T18:17:55",
-    "ai_confidence": 0,
-    "non_ai_confidence": 0,
-    "final_score": 0.0,
-    "reasoning": "Content heavily discusses Scrum roles and events.",
+    "calculated_at": "2025-05-01T18:45:46",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 4.0,
+    "reasoning": "The content discusses the structure of Scrum work, differentiating between Sprint Work and Refinement, which provides some alignment with the themes of accountability in terms of managing roles and responsibilities. However, it does not explicitly dive into who owns the outcomes or the specific accountabilities tied to these roles; it primarily focuses on work types and efficiency strategies without a strong emphasis on accountability as a foundational mechanism. Therefore, while relevant aspects are present, the discussion lacks direct mention of accountability which lowers the confidence score.",
     "level": "Ignored"
   },
   "Minimum Viable Product": {
@@ -1350,7 +1359,7 @@
     "level": "Primary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:52:33",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1482,15 +1491,21 @@
     "level": "Ignored"
   },
   "Liberating Structures": {
+    "resourceId": "RCMVmNzZDfV",
     "category": "Liberating Structures",
-    "calculated_at": "2025-04-11T10:20:32",
-    "ai_confidence": 12.0,
+    "calculated_at": "2025-05-01T18:45:35",
+    "ai_confidence": 2.0,
     "ai_mentions": 0,
-    "ai_alignment": 10.0,
-    "ai_depth": 10.0,
-    "non_ai_confidence": 0,
-    "final_score": 12.0,
-    "reasoning": "The content primarily focuses on Scrum methodologies, specifically the balance between Sprint and Refinement work. It does not mention Liberating Structures or discuss facilitation techniques aimed at enhancing participation or collaboration. While it touches on team dynamics, it does not align with the core themes of Liberating Structures, which are about inclusive engagement and shared control. The depth of discussion is also limited to Scrum practices without any reference to the principles or techniques of Liberating Structures.",
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0,
+    "ai_audience": 0,
+    "ai_signal": 0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": null,
+    "final_score": 2.0,
+    "reasoning": "The content primarily focuses on balancing Sprint and Refinement work within Scrum, discussing aspects of Scrum operations but does not mention any specific Liberating Structures or techniques. The discussion is more generalized Agile content rather than being centered on the facilitation methods outlined in the Liberating Structures category. It does not align with the key topics of improving engagement, decision-making, or using Liberating Structures to enhance team interactions.",
     "level": "Ignored"
   },
   "Time to Market": {
@@ -1745,5 +1760,23 @@
     "final_score": 42.0,
     "reasoning": "The content primarily focuses on practical aspects of Scrum methodology, emphasizing Sprint and Refinement work within Scrum teams. While it discusses strategies to manage these tasks effectively, it lacks a deeper exploration of the overarching principles, methodologies, and systemic application required for a comprehensive discussion on Discipline. The mention of Agile principles is superficial and does not delve into the evolution or influence on organizational performance.",
     "level": "Tertiary"
+  },
+  "Service Level Expectation": {
+    "resourceId": "RCMVmNzZDfV",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:51",
+    "ai_confidence": 4.83,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 0.9,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on balancing Sprint and Refinement work in Scrum, discussing the practical strategies to visualize and manage this balance using tools like Azure DevOps. There is no direct mention of Service Level Expectation (SLE), nor any reference to its calculation, use, or purpose as defined in Agile, Scrum, or Kanban. Key SLE concepts—such as elapsed time ranges, probability, or its role in predictability and continuous improvement—are entirely absent. The content aligns only weakly in audience (Scrum practitioners) but is otherwise misaligned with the strict scope: it's not about forecasting delivery timelines, SLE analysis, or SLE-driven adaptation. Thus, scores are extremely low across all dimensions, with a total confidence appropriately reflecting the near-total absence of SLE relevance.",
+    "level": "Ignored"
   }
 }

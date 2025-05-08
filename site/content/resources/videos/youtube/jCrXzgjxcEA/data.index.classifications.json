@@ -1377,7 +1377,7 @@
     "level": "Secondary"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-03-17T15:46:16",
     "ai_confidence": 12.0,
     "ai_mentions": 10.0,
@@ -1771,6 +1771,24 @@
     "non_ai_confidence": null,
     "final_score": 25.0,
     "reasoning": "The content primarily focuses on the use and setup of Azure DevOps as a tool for implementing a Caman strategy. While it discusses the establishment of shared rules and some aspects of team collaboration, which can be tangentially related to capabilities, the main emphasis is on the technical setup and functionalities of Azure DevOps. There is a lack of deep exploration into the enduring competencies and systemic capabilities as defined in the category. The discussion does not significantly delve into enhancing business agility or continuous improvement practices, leading to a low confidence score overall.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "jCrXzgjxcEA",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:55:06",
+    "ai_confidence": 14.292,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 2.0,
+    "ai_audience": 4.2,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses predominantly on implementing and optimising a 'Caman strategy' with Azure DevOps, emphasising the visualisation and management of workflows, creation of shared rules, and customisation of boards. While Agile and Kanban concepts are referenced, there is no direct mention of Service Level Expectation (SLE), nor are its components (elapsed time range and probability) discussed. The only tangential mentions involve lead time and cycle time explanations, but these do not connect to SLE or reference forecasting delivery timelines with a probabilistic range as the category requires. The core ideas align only superficially, as they deal more broadly with workflow visualisation and process optimisation but not with SLE's definition, calculation, or value in Scrum/Kanban teams. The intended audience—team practitioners improving workflow visibility—is somewhat aligned with SLE topics, but the actual content does not deliver on those specifics. Therefore, depth and alignment remain low. The overall confidence that this fits the 'Service Level Expectation' category is very low.",
     "level": "Ignored"
   }
 }

@@ -1254,7 +1254,7 @@
     "level": "Ignored"
   },
   "Shift Left Strategy": {
-    "category": "Shift-Left Strategy",
+    "category": "Shift Left Strategy",
     "calculated_at": "2025-04-10T15:54:39",
     "ai_confidence": 15.0,
     "ai_mentions": 10.0,
@@ -1661,6 +1661,24 @@
     "non_ai_confidence": null,
     "final_score": 18.0,
     "reasoning": "The content largely focuses on inviting questions about DevOps and Agility without addressing enduring capabilities or discussing how to cultivate them. It lacks explicit references to capabilities, does not delve into any of the core themes related to capabilities, and provides very minimal detail that could connect to the category. Thus, while it mentions relevant areas (DevOps, Agility), it does not align with the capabilities framework as defined.",
+    "level": "Ignored"
+  },
+  "Service Level Expectation": {
+    "resourceId": "GwrubbUKBSE",
+    "category": "Service Level Expectation",
+    "calculated_at": "2025-05-06T20:56:15",
+    "ai_confidence": 3.43,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 2.2,
+    "ai_audience": 7.4,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is a general announcement for an AMA (Ask Me Anything) session with a Scrum Trainer, focusing broadly on DevOps and Agility. There are no explicit mentions of Service Level Expectation (SLE) or related terminology. Conceptual alignment and depth are minimal—while the host is a Scrum expert, and SLE may theoretically be discussed, nothing in the description or title suggests SLE will be a focus. The intent is general information and Q&A, not SLE-specific. The audience (Agile/DevOps practitioners) somewhat aligns with the likely audience for SLE content, but the content itself is not focused on, nor does it evidence, SLE knowledge transfer. The signal-to-noise ratio is low, as 'anything' could be discussed. No penalties are applied as there are no signs of outdated or undermining tone. The very low confidence reflects the lack of direct or indirect SLE content.",
     "level": "Ignored"
   }
 }
