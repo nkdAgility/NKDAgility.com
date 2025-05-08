@@ -32,7 +32,7 @@ sitemap:
   priority: 0.5
 
 outputs:
-  home: [html, json, rss]
+  home: [html, json, rss, search]
   section: [html, rss]
   taxonomy: [html]
   term: [html, rss]
@@ -50,6 +50,11 @@ outputFormats:
   json:
     mediaType: "application/json"
     baseName: "pages"
+  search:
+    mediaType: "application/json"
+    baseName: "search"
+    isPlainText: true
+    notAlternative: true
   coursesJson:
     baseName: "courses"
     mediaType: "application/json"
