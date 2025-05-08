@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 320
 description: 'The Agile ideal: teams with all the skills needed to deliver end-to-end value.'
 Instructions: |-
   **Use this category only for discussions on Cross Functional Teams.**  

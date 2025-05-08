@@ -1,6 +1,6 @@
 ---
 title: The Scrum Master is accountable for Delivery
-description: The Scrum Master is accountable for delivery, ensuring every Scrum Team produces a usable increment every sprint while fostering effectiveness and value delivery.
+description: Explains how the Scrum Master is accountable for enabling effective product delivery, fostering team success, and ensuring each sprint produces a usable, valuable increment.
 ResourceId: yMnia2DLI6q
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -49,6 +49,8 @@ categories:
 - Product Development
 - Technical Leadership
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
+Watermarks:
+  description: 2025-05-07T12:49:52Z
 
 ---
 Ultimately, the [Scrum]({{< ref "/categories/scrum" >}}) Master is accountable for the [Scrum Team]({{< ref "/tags/scrum-team" >}})'s success. This includes [product delivery]({{< ref "/tags/product-delivery" >}}), product success, Sprint outcomes, the team's ability, and ensuring the team has the resources, skills, and ethos needed to succeed. While the entire Scrum Team shares accountability for delivery, the [Scrum Master]({{< ref "/tags/scrum-master" >}})’s role is to create the conditions for effective delivery and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). Delivery is the minimum bar for effectiveness—without it, the team cannot measure or realise value. Without delivery, there is no [increment]({{< ref "/tags/increment" >}}), no feedback, and no way to empirically assess value. A Scrum Team that delivers without value is ineffective but still functional. A Scrum Team that fails to deliver anything cannot be considered effective under any measure.

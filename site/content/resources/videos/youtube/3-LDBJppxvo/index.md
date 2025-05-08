@@ -1,6 +1,6 @@
 ---
 title: The Importance of Delivering Working Software Every Iteration
-description: 'Discover 6 surprising insights about Agile Product Management that can transform your approach! Watch now for essential tips. #agile #productmanagement'
+description: Explains why delivering working software to users every iteration is vital in Agile, highlighting feedback, value, and practical steps for continuous improvement and success.
 date: 2024-06-26T06:45:00Z
 weight: 355
 ResourceId: 3-LDBJppxvo
@@ -51,6 +51,8 @@ resourceTypes:
 layout: video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:02:47Z
 
 ---
 In the ever-evolving world of Agile, the ability to deliver [working software]({{< ref "/tags/working-software" >}}) to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.
@@ -70,11 +72,10 @@ One of the core principles of Agile is to **close feedback loops** as quickly as
 Until your product is in the hands of actual users, everything you've built is just a hypothesis. The sooner you can validate these hypotheses, the better.
 
 - **Real-World Testing:** Early delivery allows your team to test the product in real-world scenarios. This feedback is invaluable and helps you to:
-    - Identify what works and what doesn't
-    
-    - Understand user behavior and preferences
-    
-    - Make data-driven decisions for future iterations
+
+  - Identify what works and what doesn't
+  - Understand user behavior and preferences
+  - Make data-driven decisions for future iterations
 
 - **Course Correction:** If the product isn't meeting expectations, you can pivot or adjust your strategy before investing too much time and resources into a flawed approach.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your Workflow for Maximum Efficiency'
-description: Unlock your team's potential by mastering Kanban! Discover how defining and visualising your workflow can boost clarity, alignment, and efficiency.
+description: Learn how to define and visualise workflows in Kanban to boost team clarity, alignment, and efficiency, with practical steps for stable processes and effective task management.
 date: 2024-02-27T07:00:31Z
 weight: 1000
 ResourceId: sbr8NkJSLPU
@@ -36,6 +36,8 @@ resourceTypes:
 - video
 categories:
 - Kanban
+Watermarks:
+  description: 2025-05-07T13:05:34Z
 
 ---
 One of the core practices of [Kanban]({{< ref "/categories/kanban" >}}) that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 

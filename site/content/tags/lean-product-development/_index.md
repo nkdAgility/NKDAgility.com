@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 410
 description: Minimising waste while maximising learning in product creation.
 Instructions: |-
   **Use this category only for discussions on Lean Product Development.**  

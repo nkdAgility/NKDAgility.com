@@ -1,6 +1,6 @@
 ---
 title: 'Agile Scotland 2023: Why does this matter to you and why should people come to the event?'
-description: Join Martin Hinshelwood as he highlights why Agile Scotland 2023 is a must-attend event for anyone in Scotland's agile community!
+description: Explore how Agile 2023 in Scotland brings together tech professionals to share insights, foster collaboration, and highlight Agile’s impact on the local tech community.
 date: 2023-06-28T07:00:21Z
 weight: 1000
 ResourceId: uGIhajIO3pQ
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:11:13Z
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

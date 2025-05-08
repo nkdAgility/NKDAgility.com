@@ -1,6 +1,6 @@
 ---
 title: What does a poor scrum team look, act and feel like?
-description: Discover the signs of a struggling Scrum team and learn how to harness the full potential of the Scrum framework for better productivity and success.
+description: Explores signs of a poor scrum team, including autocratic leadership, dysfunctional product ownership, lack of trust, and organisational barriers to high performance.
 date: 2023-01-27T07:00:16Z
 weight: 690
 ResourceId: irSqFAJNJ9c
@@ -36,6 +36,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:14:24Z
 
 ---
 Sure, there are poor practices that impact **[scrum]({{< ref "/categories/scrum" >}}) teams**, but I tend to focus on the outcomes to determine whether a **[scrum team]({{< ref "/tags/scrum-team" >}})** is failing or progressing.

@@ -1,6 +1,6 @@
 ---
 title: What is your favourite DevOps consulting outcome?
-description: Join Martin Hinshelwood as he shares his favourite DevOps consulting outcome, highlighting the transformative power of agile practices in diverse industries.
+description: A complex software project unified 80+ teams across 9 countries by adopting Azure DevOps, streamlining processes, and achieving a single engineering system.
 date: 2023-04-18T07:00:08Z
 weight: 390
 ResourceId: N58DvsSx4U8
@@ -37,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - DevOps
+Watermarks:
+  description: 2025-05-07T13:13:12Z
 
 ---
 ## A Journey to [DevOps]({{< ref "/categories/devops" >}}) Success

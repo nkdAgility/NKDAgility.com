@@ -1,6 +1,6 @@
 ---
 title: What is Kanban?
-description: Unlock the power of Kanban! Discover how to optimise workflows, visualise processes, and drive continuous improvement in this essential guide.
+description: Explains Kanban as a flexible strategy for visualising, analysing, and improving workflows, enabling continuous improvement and efficiency across any team or process.
 date: 2024-02-12T07:00:11Z
 weight: 1000
 ResourceId: LMmKDlcIvWs
@@ -36,6 +36,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:05:53Z
 
 ---
 ### Demystifying [Kanban]({{< ref "/categories/kanban" >}}): A Strategy for [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})

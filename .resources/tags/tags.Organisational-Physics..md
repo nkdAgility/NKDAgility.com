@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 535
 description: Organisational Physics is a conceptual model that uses systems thinking to analyse and influence the dynamics within organisations, focusing on the interplay between people, processes, and technology.
 Instructions: |-
   **Use this category only for discussions on Organisational Physics.**  

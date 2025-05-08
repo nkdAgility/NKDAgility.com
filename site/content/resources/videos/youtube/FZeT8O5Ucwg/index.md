@@ -1,6 +1,6 @@
 ---
 title: 'Unmasking Agile: How to Spot Genuine Practices Amidst the Myths'
-description: Discover the truth behind agile practices! Uncover why most teams struggle with genuine agility and learn how to foster a culture of innovation and responsiveness.
+description: Learn how to identify authentic agile practices, spot common myths, and understand cultural barriers that hinder true agility in modern software development teams.
 date: 2020-03-18T13:56:05Z
 weight: 1000
 ResourceId: FZeT8O5Ucwg
@@ -40,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:16:02Z
 
 ---
 In my journey as a [Scrum]({{< ref "/categories/scrum" >}}) trainer, I’ve often encountered a startling statistic: according to Forrester Research, around 81% of development shops claim to be agile. However, the reality is that many of these organisations are not being entirely truthful about their practices. This disconnect raises an important question: how can we discern genuine agility from mere lip service? 

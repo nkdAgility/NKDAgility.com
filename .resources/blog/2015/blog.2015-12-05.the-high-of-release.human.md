@@ -1,6 +1,6 @@
 ---
 title: The High of Release
-description: Explore the new web-based Release Management tools from Microsoft, designed to enhance DevOps and streamline your release pipelines for engineering excellence.
+description: Overview of Microsoft’s new web-based Release Management tools for building flexible, integrated DevOps pipelines in VSTS and TFS, supporting diverse deployment options.
 ResourceId: akntzjbRQe2
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,8 @@ tags:
 categories:
 - DevOps
 preview: 2016-01-04_15-52-31-1-1.png
+Watermarks:
+  description: 2025-05-07T13:16:55Z
 
 ---
 Just a week or so ago I was at Microsoft Future Decoded event in London to talk about the new [Release Management]({{< ref "/tags/release-management" >}}) tools that will be made available at [Connect()](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/) and that might make it in to TFS 2015 Update 2. Here is hoping! The focus of the track was on [DevOps]({{< ref "/categories/devops" >}}) and the focus of my session was on both Build and Release.

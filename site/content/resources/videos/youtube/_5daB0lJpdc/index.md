@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmatism'
-description: Uncover the truth about agile certifications! Join Martin as he challenges perceptions and reveals their impact on learning and growth in the agile world.
+description: Explores the dangers of dogmatism in Agile, highlighting the need for flexibility, pragmatism, and people-focused adaptation over rigid rule-following in teams.
 date: 2023-12-28T08:40:54Z
 weight: 1000
 ResourceId: _5daB0lJpdc
@@ -19,7 +19,6 @@ aliases:
 - /resources/_5daB0lJpdc
 - /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/videos/5-ghosts-of-agile-past-certification
-- /resources/videos/introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
 aliasesArchive:
 - /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
@@ -41,6 +40,8 @@ resourceTypes:
 layout: video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:06:46Z
 
 ---
 In the world of Agile, one ghost that haunts us is dogma. If you've been in Agile long enough, you've probably encountered those dogmatic individuals who cling to a rigid set of beliefs, refusing to adapt or consider the actual data, feedback, or experiences of the people around them. These folks? They need to be shown the door 🚪. Agile is about flexibility, adaptation, and collaboration—dogma has no place here.

@@ -1,6 +1,6 @@
 ---
 title: Professional Product Discovery and Validation Skills (PPDV) with a friend in September!
-description: "\U0001F680 Last chance! Join our Product Validation Workshop with Dr. Joanna Plaskonka. Only 5 days left for a 50% member discount! Book now! \U0001F39F️"
+description: Learn practical skills in product discovery, validation, and customer-centric development to create successful products, with expert-led training and team collaboration strategies.
 ResourceId: bvPDNFJju4h
 ResourceImport: true
 ResourceType: newsletters
@@ -24,6 +24,8 @@ categories:
 tags:
 - Product Validation
 - Product Discovery
+Watermarks:
+  description: 2025-05-07T12:58:42Z
 
 ---
 **Dear Innovators and Product Enthusiasts,**

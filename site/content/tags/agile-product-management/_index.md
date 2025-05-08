@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 815
 description: Maximise product value with Agile Product Management. Align strategy, customer needs, and continuous delivery.
 Instructions: |-
   **Use this category only for discussions on Agile Product Management.**  

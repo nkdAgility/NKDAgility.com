@@ -1,6 +1,6 @@
 ---
 title: Government Cloud First policy
-description: Explore the UK Government's Cloud First policy and its impact on public sector cloud adoption. Discover how cloud solutions drive business agility and digital transformation.
+description: Explains the UK Government Cloud First policy, its mandate for public cloud adoption in central government, and challenges faced by public sector organisations.
 ResourceId: 6VDaSknKBPu
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,8 @@ tags: []
 categories:
 - Uncategorized
 preview: government-cloud-640x400-1-1.png
+Watermarks:
+  description: 2025-05-07T13:16:39Z
 
 ---
 Why is it that while there is a Government Cloud First policy there are so much fear of cloud in the public sector? I have been working with a number of government and local council agencies in the UK and I found that they are still trying to decide if cloud is a good idea.

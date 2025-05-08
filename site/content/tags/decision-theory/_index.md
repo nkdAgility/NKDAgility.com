@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 720
 description: Decision-making in uncertain environments using heuristics, probability, and behavioural economics.
 Instructions: |-
   **Use this category only for discussions on Decision Theory.**  

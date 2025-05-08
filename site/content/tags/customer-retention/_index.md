@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 1000
 description: Strategies to keep users engaged and reduce churn through continuous value delivery.
 Instructions: |-
   **Use this category only for discussions on Customer Retention.**  

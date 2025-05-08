@@ -1,6 +1,6 @@
 ---
 title: Online is the new co-located
-description: Explore how online participation redefines co-location in agile practices. Embrace video engagement for effective communication and collaboration in virtual events.
+description: Explores how advances in technology have redefined co-location, emphasising the importance of video presence for effective online communication and team engagement.
 ResourceId: QnZVgaG90q_
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -30,6 +30,8 @@ tags:
 categories:
 - Uncategorized
 preview: image-21-3-3.png
+Watermarks:
+  description: 2025-05-07T13:15:24Z
 
 ---
 In light of the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/) and the last 20 years of technological progress, we need to [re-define co-location](https://nkdagility.com/blog/what-is-your-perspective-on-collocation/) as we no longer need to be in the same room as each other to get the [80% of communication that is non-verbal](https://journals.lww.com/thehearingjournal/Fulltext/2016/05000/The_Art_of_Nonverbal_Communication_in_Practice.5.aspx). If we are participating in an online event, we should try our best to keep our cameras on so that we can all read those non-verbal queues.

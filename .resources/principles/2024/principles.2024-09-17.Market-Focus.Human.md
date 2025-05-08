@@ -1,6 +1,6 @@
 ---
 title: Market Focus
-description: Update the work based on market and user feedback on timelines shorter than one month
+description: Explains how to adjust projects quickly in response to user feedback, focusing on implementing changes within timelines of less than one month.
 ResourceId: T6DrE9pN0ds
 ResourceImport: false
 ResourceType: principles
@@ -25,6 +25,8 @@ card:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T12:57:49Z
 
 ---
 Update the work based on user feedback on timelines shorter than one month

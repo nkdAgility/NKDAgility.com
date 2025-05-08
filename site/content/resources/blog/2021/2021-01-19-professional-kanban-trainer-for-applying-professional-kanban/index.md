@@ -1,6 +1,6 @@
 ---
 title: Professional Kanban Trainer for Applying Professional Kanban
-description: Become a certified Professional Kanban Trainer with expert guidance from Martin Hinshelwood. Learn to optimize value flow and enhance your Scrum practices!
+description: Learn about becoming a Professional Kanban Trainer, the Applying Professional Kanban course, certification process, and key Kanban principles for effective workflow management.
 ResourceId: ZQi3U9gnXj3
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -29,6 +29,8 @@ tags:
 categories:
 - Kanban
 preview: applying-professional-kanban-background-logo-2-2.jpg
+Watermarks:
+  description: 2025-05-07T13:15:02Z
 
 ---
 The [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) only contains the minimum necessary to create an e**mpirical process control system for managing risk**. The new [Kanban Guide](https://nkdagility.com/the-kanban-guide/) reflects the minimum that you need to do to create a **strategy for optimizing the flow of value through a visual, pull-based system**.

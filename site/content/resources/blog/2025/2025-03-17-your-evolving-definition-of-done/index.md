@@ -1,6 +1,6 @@
 ---
 title: Your Evolving Definition of Done
-description: Evolve your Definition of Done (DoD) to align with organisational goals, ensuring quality and strategic value in every product increment.
+description: Explains how the Definition of Done evolves in Scrum, aligning team practices with organisational standards to ensure consistent quality, compliance, and business value delivery.
 ResourceId: 5wIEg7lD_Xd
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -36,6 +36,8 @@ tags:
 - Operational Practices
 - Product Delivery
 - Agile Strategy
+Watermarks:
+  description: 2025-05-07T12:49:17Z
 
 ---
 The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that [Scrum]({{< ref "/categories/scrum" >}}) Teams build on a solid foundation, aligning technical execution with [strategic goals]({{< ref "/tags/strategic-goals" >}}).

@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 690
 description: Fostering innovation, risk-taking, and value-driven decision-making in business.
 Instructions: |-
   **Use this category only for discussions on Entrepreneurship.**  

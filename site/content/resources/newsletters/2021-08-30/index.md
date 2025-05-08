@@ -1,6 +1,6 @@
 ---
 title: Training Schedule 2021 Q4/2022 Q1
-description: Transform your training with engaging live-virtual workshops! Join us for free sessions on agility, Scrum, and more, enhancing knowledge retention and collaboration.
+description: Overview of live virtual training methods, free workshop recordings, schedule updates, and new coaching and retraining programmes for Q4 2021 and Q1 2022.
 ResourceId: 7oAVt27r_UY
 ResourceImport: true
 ResourceType: newsletters
@@ -22,6 +22,8 @@ aliasesArchive:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:14:52Z
 
 ---
 I have been working on perfecting my techniques by incorporating [Liberating Structures]({{< ref "/tags/liberating-structures" >}}), Training from the Back of the Room, and Organization and Relationship Systems [Coaching]({{< ref "/tags/coaching" >}}) into my deliveries. I have found, along with many other trainers, that live-virtual delivery of classes can be more powerful, and more engaging.

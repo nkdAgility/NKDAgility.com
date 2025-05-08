@@ -4,6 +4,7 @@ abstract: "The Scrum Master is a pivotal role within the Scrum framework, servin
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-25T07:35:53Z
+weight: 160
 trustpilot: false
 description: The Scrum Master is an accountability in Scrum, responsible for enabling the effectiveness of the Scrum Team and fostering continuous improvement across the organisation.
 Instructions: |-

@@ -1,6 +1,6 @@
 ---
 title: How Hard is it to Transition from Being a Developer to a Scrum developer?
-description: 'Join Martin Hinshelwood in this #shorts video as he explores the challenges of transitioning from a traditional developer to a scrum developer.'
+description: Explores the challenges and skills needed to shift from traditional development to Scrum, focusing on continuous learning, Agile practices, and adapting to new workflows.
 date: 2023-06-22T11:00:25Z
 weight: 405
 ResourceId: cv5IIVUgack
@@ -35,6 +35,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:11:21Z
 
 ---
 ## From Developer to [Scrum]({{< ref "/categories/scrum" >}}) Developer: A Journey of [Continuous Learning]({{< ref "/tags/continuous-learning" >}})

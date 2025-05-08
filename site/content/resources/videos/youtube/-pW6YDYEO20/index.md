@@ -1,6 +1,6 @@
 ---
 title: Worst trait in unskilled scrum masters?
-description: "Discover the worst trait in unskilled Scrum Masters! Martin Hinshelwood reveals why it's a critical no-go zone for effective Agile teams. #Scrum #Agile"
+description: Highlights the most damaging traits of unskilled Scrum Masters, such as micromanagement and bossiness, and contrasts them with effective, facilitative Scrum leadership.
 date: 2023-04-26T07:00:00Z
 weight: 690
 ResourceId: -pW6YDYEO20
@@ -34,6 +34,8 @@ resourceTypes:
 layout: video
 categories:
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:13:01Z
 
 ---
 **Worst trait in unskilled [scrum]({{< ref "/categories/scrum" >}}) masters?**

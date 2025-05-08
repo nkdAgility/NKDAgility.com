@@ -1,6 +1,6 @@
 ---
 title: "Signs You're Failing as a Product Owner: How to Take Control and Deliver Real Value"
-description: Discover the key signs of a failing product owner and learn how to take ownership for delivering real value. Are you truly owning your product?
+description: Learn key signs of failing as a product owner, including poor product quality, lack of vision, and inconsistent delivery, plus practical steps to regain control and deliver value.
 date: 2023-09-22T07:00:32Z
 weight: 1000
 ResourceId: uvU_ATou6QY
@@ -16,7 +16,6 @@ aliases:
 - /resources/uvU_ATou6QY
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner
-- /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliasesArchive:
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/what-does-failure-look-like-as-a-product-owner-
@@ -39,6 +38,8 @@ resourceTypes:
 categories:
 - Product Development
 - Product Management
+Watermarks:
+  description: 2025-05-07T13:09:21Z
 
 ---
 As a [product owner]({{< ref "/tags/product-owner" >}}), I often reflect on what failure truly looks like in our role. It’s a topic that resonates deeply with me, and I believe it’s essential for anyone in this position to understand the signs of a failing product owner. 

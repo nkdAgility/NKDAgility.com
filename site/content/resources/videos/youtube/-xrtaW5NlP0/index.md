@@ -1,6 +1,6 @@
 ---
 title: Why is Kanban such a popular approach for people in creative industries?
-description: Discover why Kanban thrives in creative industries, tackling complexity and enhancing visibility. Join Martin Hinshelwood for insights on this agile approach!
+description: Explains how Kanban helps creative teams organise workflows, reduce chaos, prioritise tasks, and improve efficiency without stifling creativity, using real-world examples.
 date: 2023-08-25T07:00:00Z
 weight: 1000
 ResourceId: -xrtaW5NlP0
@@ -35,6 +35,8 @@ resourceTypes:
 layout: video
 categories:
 - Kanban
+Watermarks:
+  description: 2025-05-07T13:09:51Z
 
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  

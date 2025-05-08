@@ -1,6 +1,6 @@
 ---
 title: Product Goal is an Intermediate Strategic Goal
-description: Discover how to set effective product goals as intermediate strategic goals to enhance agility and drive successful outcomes in your organization.
+description: Explains how product goals serve as intermediate strategic goals, guiding agile organisations through uncertainty using experimentation, outcomes, and data-driven discovery.
 ResourceId: PjYSLMnBHhI
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -45,6 +45,8 @@ categories:
 - Product Development
 - Leadership
 preview: naked-agility-hypothesis-driven-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:15:10Z
 
 ---
 The [Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) describes not only a [Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) but also an [Intermediate Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) that is needed to evaluate and adapt your progress towards your intended visions of your product.

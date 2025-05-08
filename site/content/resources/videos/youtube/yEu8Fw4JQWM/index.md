@@ -1,6 +1,6 @@
 ---
 title: In WIP, less is more.  Why?
-description: "Unlock productivity with 'Less is More' in Agile! Discover how minimalism transforms workflows and boosts efficiency. Watch now! \U0001F680"
+description: Limiting work in progress boosts productivity by reducing multitasking, context switching, and bottlenecks, helping teams focus, finish tasks, and deliver faster results.
 date: 2023-05-09T07:00:19Z
 weight: 840
 ResourceId: yEu8Fw4JQWM
@@ -19,7 +19,6 @@ isShort: false
 aliases:
 - /resources/yEu8Fw4JQWM
 - /resources/videos/in-wip-less-is-more-why
-- /resources/videos/in-wip-less-is-more.-why
 aliasesArchive:
 - /resources/videos/in-wip-less-is-more-why
 - /resources/in-wip-less-is-more-why
@@ -40,6 +39,8 @@ resourceTypes:
 categories:
 - Kanban
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:12:37Z
 
 ---
 ## Why Less is Always More When It Comes to WIP

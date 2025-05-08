@@ -1,6 +1,6 @@
 ---
 title: '7 deadly sins of Agile: Pride'
-description: "Explore the dual nature of pride in Agile! Learn to harness it wisely while avoiding costly pitfalls. Join Martin for insights on data-driven success. \U0001F4CA\U0001F6AB"
+description: Explores how unchecked pride can harm Agile teams, stressing data-driven decisions, learning from failure, and balancing confidence with humility for real customer value.
 date: 2023-10-13T07:00:05Z
 weight: 1000
 ResourceId: BDFrmCV_c68
@@ -38,6 +38,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:48Z
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

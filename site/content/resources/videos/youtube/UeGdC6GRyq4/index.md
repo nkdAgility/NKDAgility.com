@@ -1,6 +1,6 @@
 ---
 title: Under employed - 30% upfront, balance when you are employed
-description: Struggling to find your dream job? Discover NKD Agility's unique pricing for the under employed—30% upfront, balance upon employment. Watch now!
+description: 'Explains a pay-later training programme for the underemployed: pay 30% upfront, with the balance due only after securing suitable employment and career advancement.'
 date: 2023-06-14T07:00:18Z
 weight: 1000
 ResourceId: UeGdC6GRyq4
@@ -37,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:11:39Z
 
 ---
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 

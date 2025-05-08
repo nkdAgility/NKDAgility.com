@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Legacy System Dilemma: Balancing Stability and Innovation for Modernisation Success'
-description: Struggling with legacy systems? Discover how to balance stability and innovation for effective modernisation. Let’s navigate this journey together!
+description: Learn how to modernise legacy systems by balancing stability and innovation, managing technical debt, and adopting gradual, sustainable improvements for long-term success.
 date: 2025-04-14T06:00:33Z
 weight: 480
 ResourceId: S-YSqmiQ8BE
@@ -11,14 +11,14 @@ ResourceImportSource: Youtube
 videoId: S-YSqmiQ8BE
 source: internal
 url: /resources/videos/:slug
-slug: the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+slug: navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 layout: video
 preview: https://i.ytimg.com/vi/S-YSqmiQ8BE/maxresdefault.jpg
 duration: 93
 isShort: false
 aliases:
 - /resources/S-YSqmiQ8BE
-- /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+- /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 - /resources/videos/2-balancing-innovation-with-stability-the-ctos-challenge
 aliasesArchive:
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
@@ -27,6 +27,8 @@ aliasesArchive:
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
 - the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
 - /resources/videos/2-balancing-innovation-with-stability-the-ctos-challenge
+- /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
+- navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -35,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T12:49:14Z
 
 ---
 Modern legacy systems present a unique challenge for many organisations. It’s a delicate balancing act between maintaining what works and embracing the need for innovation. I’ve seen firsthand how this struggle can manifest in various ways, and I want to share some insights that might help you navigate this complex landscape.

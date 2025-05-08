@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 695
 description: Enable Business Agility to rapidly adapt, innovate, and deliver value in an ever-changing market.
 Instructions: |-
   **Use this category only for discussions on Business Agility.**  

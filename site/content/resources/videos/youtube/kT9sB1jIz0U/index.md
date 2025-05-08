@@ -1,6 +1,6 @@
 ---
 title: 'Embracing Hierarchies of Competence: How Respect and Expertise Transform Workplaces'
-description: Discover how hierarchies of competence can transform your workplace by fostering respect, collaboration, and continuous learning. Embrace expertise for better outcomes!
+description: Explores how valuing expertise and respect over authority fosters collaboration, continuous learning, and better outcomes in modern workplaces through competence-based hierarchies.
 date: 2023-05-03T09:30:09Z
 weight: 690
 ResourceId: kT9sB1jIz0U
@@ -35,6 +35,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:12:45Z
 
 ---
 I’ve always had a deep appreciation for hierarchies of [competence]({{< ref "/tags/competence" >}}). Unlike traditional hierarchies that often revolve around control and authority, these structures are rooted in respect and recognition of individual capabilities. This distinction is crucial, especially in today’s fast-paced work environments where collaboration and expertise are paramount.

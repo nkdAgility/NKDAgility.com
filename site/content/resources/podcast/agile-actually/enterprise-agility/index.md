@@ -1,6 +1,6 @@
 ---
 title: Enterprise Agility
-description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
+description: This podcast discusses how precise language and transparency support effective communication and decision-making in agile teams, with insights from experienced agile coaches.
 ResourceId: SOXXjw2lnAK
 ResourceImport: false
 ResourceType: podcast
@@ -16,6 +16,8 @@ slug: enterprise-agility
 aliases:
 - /resources/SOXXjw2lnAK
 tags: []
+Watermarks:
+  description: 2025-05-07T13:06:15Z
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

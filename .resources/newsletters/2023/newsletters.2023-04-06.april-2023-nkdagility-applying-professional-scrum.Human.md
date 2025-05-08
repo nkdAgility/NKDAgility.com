@@ -1,6 +1,6 @@
 ---
 title: 'April 2023 NKDAgility: Applying Professional Scrum'
-description: Unlock your Scrum potential! Join our Applying Professional Scrum course to enhance your team's effectiveness and drive continuous improvement.
+description: Learn how to effectively apply Professional Scrum, overcome common implementation challenges, and improve team performance with practical agile insights and training.
 ResourceId: WAc9JUyPY5M
 ResourceImport: true
 ResourceType: newsletters
@@ -27,6 +27,8 @@ tags:
 - Pragmatic Thinking
 - Empirical Process Control
 - Professional Scrum
+Watermarks:
+  description: 2025-05-07T13:13:21Z
 
 ---
 Learning about [scrum]({{< ref "/categories/scrum" >}}) is important, but growing your capability to deploy and implement scrum effectively is way more important.

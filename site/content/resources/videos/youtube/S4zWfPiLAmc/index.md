@@ -1,6 +1,6 @@
 ---
 title: 3 best ways to wreck Kanban. Use vanity metrics.
-description: Unlock Kanban success by ditching vanity metrics! Discover actionable insights to enhance your workflow and drive continuous improvement. Watch now!
+description: Learn how to avoid common Kanban mistakes by focusing on actionable metrics like WIP, cycle time, and throughput instead of vanity metrics for better workflow efficiency.
 date: 2024-02-29T07:00:09Z
 weight: 840
 ResourceId: S4zWfPiLAmc
@@ -20,7 +20,6 @@ aliases:
 - /resources/S4zWfPiLAmc
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
-- /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
@@ -45,6 +44,8 @@ resourceTypes:
 categories:
 - Kanban
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:05:32Z
 
 ---
 ### Avoiding Common Mistakes in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy

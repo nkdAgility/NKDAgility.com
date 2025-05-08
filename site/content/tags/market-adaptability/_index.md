@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 1000
 description: Enhancing an organisation’s ability to respond to market shifts and competitive pressures.
 Instructions: |-
   **Use this category only for discussions on Market Adaptability.**  

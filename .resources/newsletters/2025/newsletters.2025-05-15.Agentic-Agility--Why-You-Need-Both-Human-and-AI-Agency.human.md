@@ -1,6 +1,6 @@
 ---
 title: 'Agentic Agility: Why You Need Both Human and AI Agency'
-description: Discover how **agentic agility** combines human and AI agency for effective decision-making, driving measurable value and enhancing team performance.
+description: Explore how combining human decision-making with AI-driven automation boosts team accountability, agility, and measurable value in modern organisations.
 ResourceId: OQOqFl5-FAi
 ResourceImport: false
 date: 2025-05-15
@@ -19,6 +19,8 @@ tags:
 - Artificial Intelligence
 - Value Delivery
 - Digital Transformation
+Watermarks:
+  description: 2025-05-07T12:49:07Z
 
 ---
 Agility today is not about ceremonies or frameworks. It is about **agentic agility** — the deliberate interaction between human agency (people making meaningful, accountable decisions) and AI agency (systems that can act and adapt on their own).

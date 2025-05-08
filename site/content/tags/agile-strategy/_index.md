@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 425
 description: Drive long-term success with Agile Strategy. Align vision, execution, and adaptability to deliver continuous value.
 Instructions: |-
   **Use this category only for discussions on Agile Strategy.**  

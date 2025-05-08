@@ -1,6 +1,6 @@
 ---
 title: 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
-description: Discover key strategies for thriving in 2023's challenges as Martin Hinshelwood explores the essentials for successful Agile leadership and adaptation.
+description: 'Guidance for 2023: Succeed by clarifying strategy, boosting product development, investing in people, and using agile methods to gain competitive advantage and improve performance.'
 date: 2023-02-13T22:00:04Z
 weight: 540
 ResourceId: 9PBpgfsojQI
@@ -19,7 +19,6 @@ isShort: false
 aliases:
 - /resources/9PBpgfsojQI
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
-- /resources/videos/2023-is-predicted-to-be-a-very-tough-year.-what-do-you-think-will-be-needed-to-win-and-improve
 aliasesArchive:
 - /resources/videos/-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
@@ -38,6 +37,8 @@ resourceTypes:
 categories:
 - Product Development
 - Product Management
+Watermarks:
+  description: 2025-05-07T13:14:06Z
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?

@@ -1,6 +1,6 @@
 - FrontMatter:
     title: Access denied for orchestration plan on Build
-    description: Troubleshoot TFS build errors with expert tips on resolving access denied issues for orchestration plans. Enhance your build system's performance today!
+    description: Explains how to resolve TFS build errors caused by missing write permissions for the Project Collection Build Service on orchestration plans, including permission setup steps.
     ResourceId: l331AonWBuN
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -40,6 +40,8 @@
     categories:
     - Uncategorized
     preview: clip_image004-4-4.png
+    Watermarks:
+      description: 2025-05-07T13:16:54Z
   BodyContent: |
     I was trying to setup a Build Agent within one of my current customers. They do over 1 million builds a year through Team City and I need to demonstrate that the new TFS build system is awesome before they will consider it. So it never instils confidence when you get an error…
 
@@ -99,7 +101,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-12-16-access-denied-orchestration-plan-build
 - FrontMatter:
     title: The High of Release
-    description: Explore the new web-based Release Management tools from Microsoft, designed to enhance DevOps and streamline your release pipelines for engineering excellence.
+    description: Overview of Microsoft’s new web-based Release Management tools for building flexible, integrated DevOps pipelines in VSTS and TFS, supporting diverse deployment options.
     ResourceId: akntzjbRQe2
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -128,6 +130,8 @@
     categories:
     - DevOps
     preview: 2016-01-04_15-52-31-1-1.png
+    Watermarks:
+      description: 2025-05-07T13:16:55Z
   BodyContent: |
     Just a week or so ago I was at Microsoft Future Decoded event in London to talk about the new [Release Management]({{< ref "/tags/release-management" >}}) tools that will be made available at [Connect()](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/) and that might make it in to TFS 2015 Update 2. Here is hoping! The focus of the track was on [DevOps]({{< ref "/categories/devops" >}}) and the focus of my session was on both Build and Release.
 
@@ -146,7 +150,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-12-05-the-high-of-release
 - FrontMatter:
     title: 'Big Scrum: All you need and not enough'
-    description: "Explore the challenges of scaling Scrum in 'Big Scrum: All you need and not enough.' Discover essential practices for achieving agility at scale."
+    description: Explores how to scale Scrum effectively by applying agile values, fostering professional teams, and adapting processes to fit unique organisational needs for large-scale agility.
     ResourceId: yCJ5ERuJHUU
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -183,6 +187,8 @@
     categories:
     - Scrum
     preview: clip_image003-3-3.png
+    Watermarks:
+      description: 2025-05-07T13:16:56Z
   BodyContent: |
     I was in Norway for NDC Oslo 2015 and I was there to talk about "Big [Scrum]({{< ref "/categories/scrum" >}}): All you need and not enough" which is a kind of oxymoron as it really is enough, you just need to apply the values and principals at scale. I tried to cover what for me is a total 100% requirement for Scale.
 
@@ -212,7 +218,7 @@
   FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2015\2015-07-01-big-scrum-all-you-need-and-not-enough
 - FrontMatter:
     title: 'Big Scrum: Are you doing mechanical Scrum'
-    description: Explore the pitfalls of mechanical Scrum and discover how to achieve true agility with Professional Scrum for enhanced productivity and team effectiveness.
+    description: Explores the difference between mechanical and Professional Scrum, highlighting the importance of values, principles, and technical excellence for effective Agile teams.
     ResourceId: 8wFtoutYII0
     ResourceType: blog
     ResourceContentOrigin: Human
@@ -247,6 +253,8 @@
     - Scrum
     - Product Development
     preview: clip_image001-1-1.png
+    Watermarks:
+      description: 2025-05-07T13:16:57Z
   BodyContent: |
     Last month I created an article for NDC Magazine on [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}). The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional [Scrum Team]({{< ref "/tags/scrum-team" >}}), why we need it, and how we can scale it.
 

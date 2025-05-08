@@ -2,7 +2,7 @@
 title: 'Sprint Review #1'
 resourceTypes: workshop
 layout: workshop
-description: The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review.
+description: Guides a 160-minute Sprint Review workshop using Liberating Structures to inspect product progress, gather feedback, and plan next steps for Scrum teams and stakeholders.
 ResourceId: 8gWwC3tvV_f
 ResourceImport: false
 ResourceType: workshops
@@ -60,6 +60,8 @@ tags:
 - Team Collaboration
 - Value Delivery
 - Agile Transformation
+Watermarks:
+  description: 2025-05-07T12:57:58Z
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

@@ -1,6 +1,6 @@
 ---
 title: What is a product vision, and why does it matter?
-description: Discover the power of a strong product vision! Join Martin Hinshelwood as he explores its importance in agile and scrum for successful product development.
+description: A product vision defines the shared direction and purpose for a team, aligning efforts and ensuring everyone understands the goals and their role in achieving them.
 date: 2023-05-17T14:00:17Z
 weight: 1000
 ResourceId: Xs-gf093GbI
@@ -33,6 +33,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:12:23Z
 
 ---
 ## The essence of a Product is 'The Vision'

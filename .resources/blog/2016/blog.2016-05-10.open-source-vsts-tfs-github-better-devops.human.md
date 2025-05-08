@@ -1,6 +1,6 @@
 ---
 title: Open-source with VSTS or TFS and Github for better DevOps
-description: Discover how to sync your code between VSTS and GitHub for seamless DevOps. Leverage open-source benefits while maximizing VSTS capabilities. Learn more!
+description: Learn how to automate code synchronisation between VSTS/TFS and GitHub, enabling seamless DevOps workflows for open-source projects with flexible configuration options.
 ResourceId: LWHiaHn3CWF
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -38,6 +38,8 @@ tags:
 categories:
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-14-14.png
+Watermarks:
+  description: 2025-05-07T13:16:44Z
 
 ---
 I have had quite a few requests from folks that want to use the full capabilities of VSTS or TFS but really need to have the code published in [Github]({{< ref "/tags/github" >}}) as it is Open-Source. Well I build a few Open-Source projects and I want to have my cake and eat it too.. I want to be able to use the full power of VSTS to reduce the friction of doing Agility and [DevOps]({{< ref "/categories/devops" >}}), but I want to publish the code and output to Github for public consumption. As Github really is the only place to store OSS software we need to figure out how to handle that.

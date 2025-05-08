@@ -6,6 +6,7 @@ ClassificationContentOrigin: AI
 CrossLinkingInContent: false
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 1000
 description: Just some personal thoughts and experiences.
 Instructions: |-
   **Use this category only for discussions on Personal.**  

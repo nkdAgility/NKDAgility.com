@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Agile Landscape: Understanding the Key Differences Between Product Owners and Project Managers'
-description: Discover the key differences between Product Owners and Project Managers in Scrum, and learn how to enhance your organisation's agility and value delivery.
+description: Explains the key differences between Product Owners and Project Managers in Scrum, and how agile roles, team structures, and metrics impact organisational effectiveness.
 date: 2020-04-14T19:09:07Z
 weight: 1000
 ResourceId: ZPRvjlp9i0A
@@ -36,6 +36,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:15:48Z
 
 ---
 As I sit here reflecting on my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and consultant, I can't help but think about the profound changes we've all experienced in recent times. The COVID-19 pandemic has forced many of us to adapt, and while I miss travelling the globe for training sessions, I've found new ways to connect and share knowledge online. Today, I want to dive into some pressing questions that have come up during my recent sessions, particularly around the roles within Scrum and how they impact organisations.

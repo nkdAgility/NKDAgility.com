@@ -1,6 +1,6 @@
 ---
 title: In what circumstances is agile consulting appropriate?
-description: Discover when to engage an agile consultant to enhance your team's collaboration and creativity in this insightful video with Martin Hinshelwood.
+description: Explains when agile consulting is best used, highlighting its role in building internal leadership, rapid problem-solving, and sustainable organisational transformation.
 date: 2023-01-06T04:52:40Z
 weight: 640
 ResourceId: rX258aqTf_w
@@ -35,6 +35,8 @@ resourceTypes:
 categories:
 - Product Development
 - Leadership
+Watermarks:
+  description: 2025-05-07T13:14:36Z
 
 ---
 In what circumstances is agile consulting appropriate?

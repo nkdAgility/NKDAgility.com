@@ -1,6 +1,6 @@
 ---
 title: 'Quotes: "I estimate that 75% of those organisations using Scrum will not succeed in getting the benefits that they hope for from it." - Ken Schwaber'
-description: "Discover why 75% of organisations struggle with Scrum success, as Martin Hinshelwood unpacks Ken Schwaber's insights in this engaging short video! #Scrum #Agile"
+description: Most organisations fail to achieve Scrum’s promised benefits due to focusing on team processes over holistic, organisation-wide change and an agile mindset.
 date: 2023-10-06T07:00:16Z
 weight: 690
 ResourceId: dT1_zHfzto0
@@ -21,7 +21,6 @@ aliases:
 - /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber-dT1_zHfzto0
 - /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
-- /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it.-ken-schwaber
 aliasesArchive:
 - /resources/videos/quotes-i-estimate-that-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/videos/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
@@ -41,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:09:00Z
 
 ---
 ## The Reality of [Scrum]({{< ref "/categories/scrum" >}}) Adoption 🤔  

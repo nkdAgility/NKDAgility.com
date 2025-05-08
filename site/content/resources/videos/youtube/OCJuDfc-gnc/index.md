@@ -1,6 +1,6 @@
 ---
 title: 'Scaling Agility: Navigating the Dragons of Change in the Future of Work'
-description: Join me tonight at the Future of Work meetup to explore "Scaling Dragons" in agility. Discover key practices, metrics, and insights for large-scale teams!
+description: Explores practical strategies for scaling agile practices, key metrics, virtual training adaptations, and global insights to navigate change in the evolving future of work.
 date: 2020-03-25T16:17:15Z
 weight: 1000
 ResourceId: OCJuDfc-gnc
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:16:01Z
 
 ---
 As I sit down to write this, I’m reminded of the ever-evolving landscape of work and how we, as agile practitioners, must adapt to the changes around us. Tonight, I’ll be hosting a meetup in collaboration with the British Computer Society, where I’ll delve into the intriguing topic of "[Scaling]({{< ref "/tags/scaling" >}}) Dragons." This isn’t just a whimsical title; it encapsulates the dual nature of scaling agility—what can propel us forward and what could potentially derail our efforts.

@@ -1,6 +1,6 @@
 ---
 title: Getting started with a Definition of Done (DoD)
-description: Learn how to establish a robust Definition of Done (DoD) for your Scrum team to ensure quality and transparency in software delivery. Start improving today!
+description: Explains how to create, apply, and improve a Definition of Done (DoD) in Scrum to ensure software quality, transparency, and consistent delivery of working increments.
 ResourceId: z18IcQhlD7I
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -51,6 +51,8 @@ categories:
 - Engineering Excellence
 - Product Development
 preview: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
+Watermarks:
+  description: 2025-05-07T13:15:15Z
 
 ---
 In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD).

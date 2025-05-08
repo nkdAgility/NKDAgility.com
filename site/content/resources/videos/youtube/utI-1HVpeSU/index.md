@@ -1,6 +1,6 @@
 ---
 title: 'Quotes: Dictatorship vs Democracy'
-description: "Explore the debate: Is a dictator or democracy better for product development? Join Martin Hinshelwood's insights in this engaging short! #agile #scrum"
+description: Compares dictatorship and democracy in Agile leadership, highlighting the need to balance clear direction with team collaboration for better decisions and engagement.
 date: 2023-10-15T07:00:31Z
 weight: 1000
 ResourceId: utI-1HVpeSU
@@ -31,6 +31,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:08:44Z
 
 ---
 ## Democracy vs. Dictatorship in Agile [Leadership]({{< ref "/categories/leadership" >}}): Finding the Middle Ground 

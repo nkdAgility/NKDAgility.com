@@ -1,6 +1,6 @@
 ---
 title: How does Naked Agility select associate Scrum Trainers?
-description: Discover how Naked Agility selects top Scrum trainers with rigorous standards to ensure expert guidance in mastering the Scrum framework.
+description: Naked Agility selects associate Scrum Trainers based on real-world agile experience, co-training, and proven ability to teach, coach, and solve complex team challenges.
 date: 2023-01-04T14:35:57Z
 weight: 505
 ResourceId: uJaBPyixNlc
@@ -38,6 +38,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:14:37Z
 
 ---
 How does Naked Agility select associate [Scrum]({{< ref "/categories/scrum" >}}) Trainers?

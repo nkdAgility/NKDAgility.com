@@ -1,6 +1,6 @@
 ---
 title: How does a Scrum team estimate what can be delivered in a Sprint?
-description: "Master Sprint estimation in Scrum! Join Martin as he navigates the challenges of creative tasks and effective planning. Perfect for agile enthusiasts! \U0001F680"
+description: Scrum teams estimate Sprint deliverables by assessing the size and complexity of backlog items, focusing on shared understanding rather than predicting exact timeframes.
 date: 2023-06-01T07:00:31Z
 weight: 790
 ResourceId: pyk0CfSobzM
@@ -35,6 +35,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:11:58Z
 
 ---
 ## Navigating the Uncertainties of Sprint Estimations in [Scrum]({{< ref "/categories/scrum" >}}) Teams

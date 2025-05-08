@@ -1,6 +1,6 @@
 ---
 title: 'The Pitfalls of Agile Burndowns: Stop Being Agile Bandits'
-description: 'Discover the 4th kind of Agile bandit with Martin Hinshelwood! Uncover insights on burndown charts and enhance your Agile journey. #Agile #Scrum #Shorts'
+description: Explains why relying on Agile burndown charts leads to over-planning and false progress, and advocates for minimal, adaptive planning and continuous value delivery.
 date: 2024-01-09T11:00:51Z
 weight: 1000
 ResourceId: P2UnYGAqJMI
@@ -42,6 +42,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:06:31Z
 
 ---
 Agile teams often use burndown charts to track progress throughout a sprint. It seems like a solid approach—after all, it’s a visual indicator of how much work remains. But let me be clear: **burndowns are Agile banditry**! In fact, relying too heavily on burndowns could lead your team down a treacherous path of excessive upfront planning and false security. Let’s explore why burndowns aren’t the hero of Agile, and how embracing a continuous flow mindset can lead to real value.

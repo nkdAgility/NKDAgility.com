@@ -1,6 +1,6 @@
 ---
 title: 'Before You Call Yourself an Agile Coach: The Importance of Real Experience'
-description: 'Discover the first of 5 essential achievements to become an #AgileCoach with Martin Hinshelwood. Elevate your coaching journey today! #shorts #agile'
+description: Real-world experience with teams is essential for Agile coaches, providing credibility, empathy, and practical insight needed to effectively guide and earn team trust.
 date: 2023-11-13T11:00:29Z
 weight: 790
 ResourceId: Po58JnxjX7M
@@ -40,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:07:55Z
 
 ---
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.

@@ -1,6 +1,6 @@
 ---
 title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Past'
-description: Explore the balance between pragmatism and dogmatism in Agile. Discover real stories that highlight the importance of flexibility for effective team management!
+description: Explores how routine Agile questions can hinder team progress, stressing the importance of focusing on value delivery, goal alignment, and managing task bottlenecks.
 date: 2024-01-03T07:00:13Z
 weight: 640
 ResourceId: JzAbvkFxVzs
@@ -41,6 +41,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:06:42Z
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily [Scrum]({{< ref "/categories/scrum" >}}) or retrospective sessions:

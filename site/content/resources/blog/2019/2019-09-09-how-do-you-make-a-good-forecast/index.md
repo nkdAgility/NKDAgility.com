@@ -1,6 +1,6 @@
 ---
 title: How do you make a good Forecast?
-description: Learn how to create accurate forecasts in agile projects with expert insights from Martin Hinshelwood. Enhance predictability and budget planning effectively!
+description: Explains how to create reliable forecasts in agile projects by using flow metrics like cycle time and throughput, and shifting from project-based to team-based budgeting.
 ResourceId: fm9Rt6R7JZz
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -38,6 +38,8 @@ categories:
 - Product Management
 - Product Development
 preview: 993957510-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:16:12Z
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

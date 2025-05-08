@@ -1,6 +1,6 @@
 ---
 title: 'May 2023 NKDAgility: Leveling up giveaway of Professional Scrum'
-description: Future-proof your career with NKD Agility! Join our community, explore training opportunities, and compete for a chance to win a Scrum course.
+description: Explore how to future-proof your career with Agile and Scrum, plus details on a giveaway for Professional Scrum training to help you advance your skills in 2023.
 ResourceId: 6h1D_YPjPuU
 ResourceImport: true
 ResourceType: newsletters
@@ -21,6 +21,8 @@ aliasesArchive:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-07T13:13:08Z
 
 ---
 The world is spinning faster than ever, with more players than ever.

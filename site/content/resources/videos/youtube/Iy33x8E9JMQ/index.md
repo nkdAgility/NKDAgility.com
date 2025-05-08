@@ -1,6 +1,6 @@
 ---
 title: Dogma versus Empiricism in a consulting engagement
-description: 'Explore the clash between dogma and empiricism in Agile consulting. Learn how to navigate challenges for a more effective team dynamic! #Agile #Scrum #Consulting'
+description: Explores why rigid dogma hinders consulting, emphasising the value of empirical, flexible, and empathetic approaches for effective problem-solving and continuous learning.
 date: 2023-08-11T07:00:08Z
 weight: 1000
 ResourceId: Iy33x8E9JMQ
@@ -32,6 +32,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:10:14Z
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements

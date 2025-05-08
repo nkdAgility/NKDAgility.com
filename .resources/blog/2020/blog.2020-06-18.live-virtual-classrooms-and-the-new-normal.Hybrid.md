@@ -1,6 +1,6 @@
 ---
 title: Live Virtual Classroom's and the new normal
-description: Explore the shift to Live Virtual Classrooms and discover how they enhance learning experiences, making training more accessible and effective in the new normal.
+description: Explores how live virtual classrooms have become effective alternatives to in-person training, highlighting benefits, challenges, and the shift to remote learning as the new normal.
 ResourceId: wS3GaFbyzDv
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -34,6 +34,8 @@ tags:
 categories:
 - Uncategorized
 preview: image-1-1-1.png
+Watermarks:
+  description: 2025-05-07T13:15:37Z
 
 ---
 With the change in business model in the current crisis, many training organizations have had to do the unthinkable and move to Live Virtual training options. Existing wisdom was that training online, just as running teams virtually would be a disaster and reduce the student's experience.

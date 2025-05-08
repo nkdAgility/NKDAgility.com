@@ -1,6 +1,6 @@
 ---
 title: 'Transform Your Team with Flipped Learning: Unlocking Agility at Naked Agility Limited'
-description: Unlock your team's potential with Naked Agility's innovative flipped learning approach. Discover engaging training that fosters growth and collaboration!
+description: Discover how flipped learning at Naked Agility Limited combines self-study and interactive workshops to build agile, people-first teams and support continuous improvement.
 date: 2022-09-09T14:17:04Z
 weight: 790
 ResourceId: vY0hXTm-wgk
@@ -35,6 +35,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:14:45Z
 
 ---
 At Naked Agility Limited, we are passionate about fostering an environment where individuals and teams can evolve, integrate, and continuously improve. Our approach to training is designed to reflect this ethos, and I want to share how we do it.

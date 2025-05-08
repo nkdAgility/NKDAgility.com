@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 145
 description: Managing and reducing technical debt to maintain sustainable development velocity.
 Instructions: |-
   **Use this category only for discussions on Technical Debt.**  

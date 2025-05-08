@@ -1,6 +1,6 @@
 ---
 title: How Lack of Agency is Killing Your DevOps Initiatives
-description: DevOps is about empowering developers with operational agency, enabling true continuous delivery and real feedback from production. Don't automate fragility!
+description: Explores how lacking developer control over production, telemetry, and deployments undermines DevOps, leading to fragile automation and failed continuous delivery.
 ResourceId: AgIU1SK-3pE
 ResourceImport: false
 ResourceType: blog
@@ -22,6 +22,8 @@ tags:
 - Operational Practices
 - Value Delivery
 - Self Organisation
+Watermarks:
+  description: 2025-05-07T12:49:01Z
 
 ---
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  

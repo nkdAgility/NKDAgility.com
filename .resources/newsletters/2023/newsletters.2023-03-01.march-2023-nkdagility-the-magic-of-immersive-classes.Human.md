@@ -1,6 +1,6 @@
 ---
 title: 'March 2023 NKDAgility: The magic of immersive classes'
-description: Transform your learning with our Immersion Program! Engage in real-world applications over 8 weeks, enhancing skills through practical experience and collaboration.
+description: Immersion programmes extend learning beyond the classroom, combining real-world practice, retrospectives, and expert guidance for deeper, more effective skill development.
 ResourceId: Y8ySIcajwoP
 ResourceImport: true
 ResourceType: newsletters
@@ -24,6 +24,8 @@ categories:
 tags:
 - Continuous Learning
 - Pragmatic Thinking
+Watermarks:
+  description: 2025-05-07T13:13:53Z
 
 ---
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.

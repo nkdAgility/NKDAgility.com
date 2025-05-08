@@ -1,6 +1,6 @@
 ---
 title: Self-Organization
-description: Self Organizing teams have the autonomy to determine how to achieve their goals
+description: Explains how Scrum teams manage their own work, make collaborative decisions, and rely on a Scrum Master for guidance and process support.
 ResourceId: eyXbQF80i4R
 ResourceImport: false
 ResourceType: principles
@@ -25,6 +25,8 @@ card:
 categories:
 - Scrum
 tags: []
+Watermarks:
+  description: 2025-05-07T12:57:51Z
 
 ---
 Self-Organization: [Scrum]({{< ref "/categories/scrum" >}}) teams are self-organizing, which means they have the autonomy to determine how to achieve their goals. The team members collaborate and make decisions together, and the [Scrum Master]({{< ref "/tags/scrum-master" >}}) helps to facilitate and guide the process

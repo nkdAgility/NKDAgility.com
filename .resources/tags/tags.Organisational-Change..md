@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 540
 description: Driving transformation efforts to enable agility and resilience.
 Instructions: |-
   **Use this category only for discussions on Organisational Change.**  

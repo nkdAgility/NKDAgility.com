@@ -1,6 +1,6 @@
 ---
 title: Why Cost-Cutting During Recessions Is Counterproductive
-description: Discover how to recession-proof your business by investing in people and processes. Learn Kanban strategies to boost effectiveness and thrive, not just survive!
+description: Cutting costs during recessions can harm long-term business success. Investing in people, agility, and continuous improvement builds resilience and drives future growth.
 date: 2024-07-04T06:45:04Z
 weight: 840
 ResourceId: wiEH7vsfrSE
@@ -43,6 +43,8 @@ resourceTypes:
 categories:
 - Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:02:41Z
 
 ---
 In times of economic uncertainty, whether it's a recession, market instability, or a downturn, organizations often resort to cost-cutting as a knee-jerk reaction. The common belief is that by reducing expenses, companies can safeguard their financial stability. However, this approach is not only short-sighted but also counterproductive. In this blog post, I’ll explore why cutting costs, particularly in areas like agile [coaching]({{< ref "/tags/coaching" >}}), training, and [business agility]({{< ref "/tags/business-agility" >}}), can actually disadvantage your organization in the long run. I'll also share insights on how to navigate economic downturns effectively, ensuring your business emerges stronger on the other side.

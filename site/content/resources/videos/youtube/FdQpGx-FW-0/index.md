@@ -1,6 +1,6 @@
 ---
 title: 7 harbingers of the Agile apocalypse - Judgement
-description: "Unlock the essence of Agile! \U0001F680 Join Martin as he explores core principles, pitfalls of prescriptive methods, and what truly motivates today's workforce."
+description: Explores how rigid, judgmental Agile practices stifle creativity and innovation, and advocates for principle-driven, adaptable approaches to foster true business agility.
 date: 2023-10-20T11:00:13Z
 weight: 665
 ResourceId: FdQpGx-FW-0
@@ -46,6 +46,8 @@ resourceTypes:
 categories:
 - Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:33Z
 
 ---
 # Escaping the Judgment Trap in [Agile Transformation]({{< ref "/tags/agile-transformation" >}}) 🚀

@@ -1,6 +1,6 @@
 ---
 title: Ethics in Agile
-description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
+description: Explores the role of precise language and transparency in Agile, highlighting why word choice and context are crucial for ethical communication in Agile teams.
 ResourceId: hWrztsvRPAi
 ResourceImport: false
 ResourceType: podcast
@@ -16,6 +16,8 @@ slug: ethics-in-agile
 aliases:
 - /resources/hWrztsvRPAi
 tags: []
+Watermarks:
+  description: 2025-05-07T13:08:21Z
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

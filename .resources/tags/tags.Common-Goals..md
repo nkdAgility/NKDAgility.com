@@ -4,6 +4,7 @@ abstract: Common Goals are a foundational principle for effective delivery withi
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-21T14:45:01Z
+weight: 350
 description: Common Goals are a first principle of effective delivery. They align strategy with execution, enabling every decision, every Sprint, and every line of code to serve a shared purpose. Without them, you don’t have a system—you have disconnected activity.
 Instructions: |-
   **Use this category only for discussions on Common Goals.**  

@@ -1,6 +1,6 @@
 ---
 title: 'The Key to Being an Effective Agile Coach: Understanding the Team’s Context'
-description: 'Discover the fifth essential achievement for aspiring #AgileCoaches with Martin Hinshelwood. Elevate your skills and empower teams to thrive!'
+description: Effective Agile coaching relies on understanding your team's unique context and domain, enabling tailored guidance, empathy, and practical solutions for real-world challenges.
 date: 2023-11-17T11:00:55Z
 weight: 665
 ResourceId: s_kWkDCbp9Y
@@ -20,7 +20,6 @@ aliases:
 - /resources/s_kWkDCbp9Y
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
-- /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-team-s-context
 aliasesArchive:
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
 - /resources/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
@@ -37,6 +36,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:07:45Z
 
 ---
 Becoming an Agile coach isn’t just about knowing Agile practices. It’s about understanding the context in which your team operates and having the experience to back it up. In this post, I’ll explore why having domain knowledge is essential for Agile coaches, how it impacts your effectiveness, and what you can do to deepen your understanding. Let's dive into it! 🚀

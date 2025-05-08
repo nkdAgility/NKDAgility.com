@@ -1,6 +1,6 @@
 ---
 title: 'Challenging the Tyranny of Taylorism: Embracing True Agility in the Workplace'
-description: Explore the tyranny of Taylorism and uncover agile BS in our latest session. Join the conversation on fostering creativity and true agility in the workplace!
+description: Explores how outdated Taylorist management limits creativity and true agility, offering ways to spot and overcome ineffective agile practices for better teamwork and innovation.
 date: 2020-06-24T17:48:17Z
 weight: 1000
 ResourceId: 56nUC8jR2v8
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:15:33Z
 
 ---
 As I sit down to write this, I’m reminded of the importance of community and shared learning in our journey towards agility. In just a few minutes, I’ll be joining the Future of Scotland meetup group for a session that I’m particularly passionate about: “The Tyranny of Taylorism and Detecting Agile BS.” If you’re reading this before 7 p.m. British Summer Time, there’s still time to join us! You can find the link in the comments below.

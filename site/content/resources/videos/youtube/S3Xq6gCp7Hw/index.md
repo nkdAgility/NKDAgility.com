@@ -1,6 +1,6 @@
 ---
 title: How much of an impact can a strong, skilled product owner have?
-description: Discover the vital role of a skilled product owner in driving team success and customer value, as Martin Hinshelwood shares insights on agile collaboration.
+description: A skilled product owner drives teams to build valuable solutions, anticipate customer needs, and deliver features that create real business impact—not just more features.
 date: 2023-01-30T07:30:06Z
 weight: 590
 ResourceId: S3Xq6gCp7Hw
@@ -40,6 +40,8 @@ resourceTypes:
 categories:
 - Product Management
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:14:23Z
 
 ---
 In my opinion, it’s the whole ball game.

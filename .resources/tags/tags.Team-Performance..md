@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 350
 description: Team performance is a systemic indicator of how well a team consistently delivers value, reflecting its collaborative and technical delivery capability over time.
 Instructions: |-
   **Use this tag for content focused on delivery capability at the team level.**  

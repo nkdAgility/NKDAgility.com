@@ -4,6 +4,7 @@ abstract: An artifact is a formal, inspectable output that signifies work and pr
 ClassificationType: concepts
 ClassificationContentOrigin: human
 date: 2025-03-21T13:59:46Z
+weight: 385
 trustpilot: false
 description: An artifact is a defined, inspectable representation of work that supports transparency, empirical decision-making, and continuous improvement in agile systems.
 Instructions: |-

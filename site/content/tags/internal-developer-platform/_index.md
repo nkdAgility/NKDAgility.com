@@ -4,6 +4,7 @@ abstract: An Internal Developer Platform (IDP) is a unified environment designed
 ClassificationType: tags
 ClassificationContentOrigin: AI
 date: 2025-02-24T13:04:45Z
+weight: 670
 description: An Internal Developer Platform streamlines development processes, enabling teams to build, test, and deploy applications efficiently within a controlled environment.
 Instructions: |-
   **Use this category only for discussions on Internal Developer Platform.**  

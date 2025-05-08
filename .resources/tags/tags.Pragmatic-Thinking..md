@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 450
 description: Applying practical, experience-based problem-solving in complex environments.
 Instructions: |-
   **Use this category only for discussions on Pragmatic Thinking.**  

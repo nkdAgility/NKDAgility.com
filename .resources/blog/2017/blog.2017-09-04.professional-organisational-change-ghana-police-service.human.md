@@ -1,6 +1,6 @@
 ---
 title: Professional Organisational Change at the Ghana Police Service
-description: Explore the Ghana Police Service's transformative journey towards a world-class organization, embracing agile practices for lasting change and public trust.
+description: Explores the Ghana Police Service’s shift to a modern, professional model using servant leadership, agile frameworks, and strategic change to restore public trust and effectiveness.
 ResourceId: yv8bhGf1MfF
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -42,6 +42,8 @@ categories:
 - Leadership
 - Scrum
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
+Watermarks:
+  description: 2025-05-07T13:16:28Z
 
 ---
 The [Ghana Police Service](http://police.gov.gh/) is in trouble. Over the last few last few decades each new Police organisation and government has tried in various ways to carry out some change but most changes have been ad-hoc, temporary, not robust enough or strategic. The old problems return to haunt new administrations and many police officers and the Public have lost hope.

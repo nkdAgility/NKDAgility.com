@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum Training for the Ghana Police Service
-description: Join the Ghana Police Service in pioneering Scrum training for effective organizational change. Discover agile practices that empower officers to innovate!
+description: Professional Scrum training introduced Ghana Police officers to Agile methods, using hands-on sprints to support organisational change and collaboration in policing.
 ResourceId: ozXMaDX0lvp
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -37,6 +37,8 @@ categories:
 - Scrum
 - Product Development
 preview: clip_image006_thumb-3-3.jpg
+Watermarks:
+  description: 2025-05-07T13:16:27Z
 
 ---
 Last time I talked about the Ghana Police Service (GPS) I was talking about [Professional Organisational Change](https://nkdagility.com/professional-organisational-change-ghana-police-service/) and the approach the Inspector General of Police (IGP) is taking; using [Scrum]({{< ref "/categories/scrum" >}}) to incrementally make changes to the organisation. While Nana Abban and the IGP have been focusing on the big picture, I have been in Ghana to start the grass roots adoption of Scrum with two [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Foundations (PSF) classes, the first ever run in Ghana.

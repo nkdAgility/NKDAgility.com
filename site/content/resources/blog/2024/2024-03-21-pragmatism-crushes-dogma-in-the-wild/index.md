@@ -1,6 +1,6 @@
 ---
 title: Pragmatism crushes Dogma in the wild
-description: Discover how pragmatism triumphs over dogma in Scrum through real-world challenges in Minecraft, fostering adaptability and resilience in product development.
+description: Explores how practical use of Scrum fosters adaptability and resilience in teams, highlighting the value of flexibility over rigid rules in complex product development.
 ResourceId: mkdhLrKu8sh
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -43,6 +43,8 @@ tags:
 - Scrum Master
 - Agile Philosophy
 - Market Adaptability
+Watermarks:
+  description: 2025-05-07T13:05:24Z
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of [Scrum]({{< ref "/categories/scrum" >}}). This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

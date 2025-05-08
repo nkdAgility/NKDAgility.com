@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundations Class and PSM I Assessment'
-description: Unlock your Agile potential with insights on the Professional Scrum Foundations class and PSM I assessment. Learn practical Scrum skills and boost your career!
+description: Learn what to expect from the Professional Scrum Foundations class, key Scrum concepts, hands-on learning, and tips to prepare for the PSM I assessment.
 date: 2020-05-28T05:34:33Z
 weight: 1000
 ResourceId: pP8AnHBZEXc
@@ -36,6 +36,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:15:42Z
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share my insights on the Professional [Scrum]({{< ref "/categories/scrum" >}}) Foundations (PSF) class and the PSM I assessment. As someone deeply entrenched in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I’ve had the privilege of teaching this class numerous times, and I can confidently say it’s one of my favourites. 

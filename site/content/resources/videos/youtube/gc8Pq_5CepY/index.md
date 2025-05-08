@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Scrum: Key Insights on Definition of Done, Spikes, and Managing Ad Hoc Work'
-description: Join me as I tackle your burning Scrum questions! Discover key insights on productivity, managing ad hoc work, and the nuances of Definition of Done vs. acceptance criteria.
+description: 'Explains key Scrum concepts: distinguishing Definition of Done from acceptance criteria, using spikes vs. refinement, and strategies for managing ad hoc work in sprints.'
 date: 2020-06-04T05:33:42Z
 weight: 1000
 ResourceId: gc8Pq_5CepY
@@ -37,6 +37,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:15:40Z
 
 ---
 Hello everyone, and welcome back to my office hours! Today, I’m excited to dive into some of the questions that have come up over the past week. As always, I host this event every Wednesday at 6 p.m. UK time, where I gather interesting queries and do my best to provide insightful answers. So, let’s get started!

@@ -1,6 +1,6 @@
 ---
 title: Why Is It So Important that Senior Leadership Teams are Engaged During an Agile Consulting Engagement?
-description: Discover why senior leadership engagement is crucial for successful agile transformations. Join Martin Hinshelwood as he shares key insights!
+description: Active senior leadership engagement is essential for successful Agile transformation, enabling systemic change, faster adaptation, and organisation-wide alignment.
 date: 2023-06-23T07:00:11Z
 weight: 455
 ResourceId: ItnQxg3Q4Fc
@@ -46,6 +46,8 @@ resourceTypes:
 categories:
 - Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:11:20Z
 
 ---
 ## Why Senior [Leadership]({{< ref "/categories/leadership" >}}) is Non-Negotiable in an Agile Consulting Journey

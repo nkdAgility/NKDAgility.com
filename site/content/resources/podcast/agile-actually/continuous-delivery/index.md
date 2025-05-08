@@ -1,6 +1,6 @@
 ---
 title: Continuous Delivery
-description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
+description: This podcast discusses the role of precise language and transparency in Agile, highlighting how word choice impacts communication, delivery, and team effectiveness.
 ResourceId: pGqagcI_q5y
 ResourceImport: false
 ResourceType: podcast
@@ -16,6 +16,8 @@ slug: continuous-delivery
 aliases:
 - /resources/pGqagcI_q5y
 tags: []
+Watermarks:
+  description: 2025-05-07T13:07:37Z
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

@@ -1,6 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 3.
-description: "Uncover the truth behind Scrum myths! Join Martin as he debunks misconceptions about micromanagement and developer autonomy. \U0001F4A1\U0001F3C3 #Scrum #Agile"
+description: Explores the myth that Scrum leads to micromanagement, clarifying that true Scrum empowers teams with autonomy, collaboration, and trust, not top-down control.
 date: 2023-10-25T07:00:09Z
 weight: 330
 ResourceId: CawY8x3kGVk
@@ -20,7 +20,6 @@ aliases:
 - /resources/CawY8x3kGVk
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-micromanagement-developer-autonomy-and-more
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-3.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-
@@ -44,6 +43,8 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:08:24Z
 
 ---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Micromanagement: Dispelling the Myth 🚀

@@ -1,6 +1,6 @@
 ---
 title: 5 tools that Scrum Masters love. Part 1
-description: "Discover the top 5 tools that Scrum Masters love in this engaging short! Boost your team's agility and performance with expert insights from NKD Agility. #Scrum #Agile"
+description: Discover how Scrum Masters use liberating structures to boost team engagement, improve meetings, and drive effective collaboration in Agile and Scrum environments.
 date: 2023-09-14T07:00:08Z
 weight: 840
 ResourceId: Ce5pFwG5IAY
@@ -19,7 +19,6 @@ isShort: true
 aliases:
 - /resources/Ce5pFwG5IAY
 - /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love.-part-1
 aliasesArchive:
 - /resources/videos/-tools-that-scrum-masters-love-part-
 - /resources/videos/5-tools-that-scrum-masters-love-part-1
@@ -40,6 +39,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:09:31Z
 
 ---
 **[Scrum]({{< ref "/categories/scrum" >}}) Masters: Unlocking the Power of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) 🚀** 

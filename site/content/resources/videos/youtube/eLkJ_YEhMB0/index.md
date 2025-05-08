@@ -1,6 +1,6 @@
 ---
 title: Overcoming the Ghost of Agile Certifications
-description: "Transform your Agile Scrum meetings from routine to value-driven! Discover strategies to boost productivity and avoid the ghosts of Agile past. \U0001F31F"
+description: Explores the limits of Agile certifications, emphasising real-world experience, continuous learning, and team validation over credentials for true professional growth.
 date: 2024-01-02T07:00:20Z
 weight: 790
 ResourceId: eLkJ_YEhMB0
@@ -36,6 +36,8 @@ resourceTypes:
 - video
 categories:
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:06:43Z
 
 ---
 In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and [Scrum]({{< ref "/categories/scrum" >}}) space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.

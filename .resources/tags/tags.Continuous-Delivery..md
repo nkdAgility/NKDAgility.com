@@ -4,6 +4,7 @@ abstract: Continuous Delivery is a software delivery practice that focuses on pr
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-21T13:37:32Z
+weight: 295
 trustpilot: false
 description: Continuous Delivery is the practice of frequently delivering small increments of valuable product directly to real users, enabling rapid feedback, validation, and continuous improvement from the very first iteration.
 Instructions: |-

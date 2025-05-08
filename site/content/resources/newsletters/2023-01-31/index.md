@@ -1,6 +1,6 @@
 ---
 title: 'February 2023 NKDAgility: How much of an impact can a strong, skilled product owner have?'
-description: Navigate economic uncertainty with strong product ownership. Discover how skilled product owners can drive value and competitive advantage in your organisation.
+description: Explores how a skilled product owner drives value, aligns teams with strategy, and boosts product success during economic uncertainty and organisational change.
 ResourceId: Kofi3sgOhDX
 ResourceImport: true
 ResourceType: newsletters
@@ -23,6 +23,8 @@ categories:
 - Product Management
 - Product Development
 tags: []
+Watermarks:
+  description: 2025-05-07T13:14:20Z
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

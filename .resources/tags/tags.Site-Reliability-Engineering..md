@@ -6,6 +6,7 @@ ClassificationContentOrigin: AI
 trustpilot: false
 ResourceId: K0i7PIZARDw
 date: 2025-05-05T10:17:24Z
+weight: 175
 description: Applying software engineering principles to ensure scalable and reliable systems.
 aliases:
 - /learn/agile-delivery-kit/practices/site-reliability-engineering-sre

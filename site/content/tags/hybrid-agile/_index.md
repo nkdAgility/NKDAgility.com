@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-04-10T10:45:00Z
+weight: 1000
 description: A critical lens on attempts to combine project management with agile delivery approaches.
 Instructions: |-
   **Use this category only for discussions on Hybrid Agile.**  

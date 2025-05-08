@@ -1,6 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 2.
-description: "Uncover the truth about story points in Scrum! Join Martin as he debunks myths and reveals their true purpose as a tool for team conversation. \U0001F680\U0001F4CA"
+description: Explains why story points are often misunderstood in Scrum, clarifies their intended use, and offers practical advice for more effective Agile estimation and team collaboration.
 date: 2023-10-24T11:00:39Z
 weight: 1000
 ResourceId: l3NhlbM2gKM
@@ -19,7 +19,6 @@ isShort: false
 aliases:
 - /resources/l3NhlbM2gKM
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2-
@@ -38,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:26Z
 
 ---
 # Unraveling the Story Point Myth in [Scrum]({{< ref "/categories/scrum" >}}): A Path to Clarity 🚀

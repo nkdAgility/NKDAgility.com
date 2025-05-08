@@ -1,6 +1,6 @@
 ---
 title: 'Navigating Agile Learning: Embrace Change and Community in Uncertain Times'
-description: Join us for insights on adapting Scrum with Kanban in a virtual world. Discover flexibility, flow, and community support in uncertain times!
+description: Explores adapting agile learning to remote environments, emphasising flexibility, flow, gamification, and community support during uncertain times.
 date: 2020-04-01T16:26:05Z
 weight: 1000
 ResourceId: xaLNCbr9o3Y
@@ -34,6 +34,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:15:55Z
 
 ---
 As I sit down to write this post, I can't help but reflect on the current state of our world. With the ongoing pandemic, many of us find ourselves confined to our homes, grappling with the challenges of remote work and social distancing. It's a strange time, but it also presents an opportunity for growth and learning. Recently, I had the pleasure of chatting with Daniel Vacanti, a prominent figure in the [Kanban]({{< ref "/categories/kanban" >}}) community, about our upcoming Professional [Scrum]({{< ref "/categories/scrum" >}}) with Kanban class. I wanted to share some insights from our conversation and how they relate to the broader context of agile practices.

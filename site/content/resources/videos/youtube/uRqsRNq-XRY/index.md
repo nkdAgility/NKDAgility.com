@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Judgment Trap: How to Foster a Healthy Agile Environment'
-description: Discover how to break free from the "judgment trap" in Agile. Learn to foster collaboration, innovation, and a healthier team environment today!
+description: Explores how judgment in Agile teams harms morale and innovation, and offers practical steps to create a supportive, collaborative, and growth-focused Agile environment.
 date: 2023-11-09T06:45:04Z
 weight: 455
 ResourceId: uRqsRNq-XRY
@@ -37,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:07:59Z
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call the "judgment trap." This is one of the seven signs of the agile apocalypse, and it’s something that can derail even the most well-intentioned teams. Today, I want to share my thoughts on how judgment manifests in Agile environments and how we can navigate this challenge to foster a healthier, more productive atmosphere.

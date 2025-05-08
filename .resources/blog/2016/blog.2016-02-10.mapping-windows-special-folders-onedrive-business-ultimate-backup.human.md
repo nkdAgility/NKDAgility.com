@@ -1,6 +1,6 @@
 ---
 title: Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup
-description: Learn how to map Windows special folders to OneDrive for Business for seamless backup and access across devices. Keep your files safe and synced effortlessly!
+description: Learn how to sync Windows special folders like Documents and Desktop to OneDrive for Business, ensuring automatic cloud backup and easy access across all your devices.
 ResourceId: mKq16PgA7Ks
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -34,6 +34,8 @@ tags:
 categories:
 - Uncategorized
 preview: clip_image001-1-1.png
+Watermarks:
+  description: 2025-05-07T13:16:48Z
 
 ---
 Do you worry that you will lose files on your computer? Well you should! At any time your harddrive can fail, or your house could be hit by a meteor, or stolen. I keep everything on my computer encrypted with BitLocker and can remote wipe any of my data, however I want to be able to access it from anywhere. Everything needs to be in at least two locations to be called a backup, a local separate disk is only partial backup and realis on being at home to backup leading to stale data. That means that the only viable place to securely store your data is the cloud.

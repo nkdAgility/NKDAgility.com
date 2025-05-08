@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Product Backlog Management: Insights from the New Scrum.org Course'
-description: Discover Scrum.org's new Product Backlog Management course with Martin Hinshelwood and learn to master backlog refinement for effective product goals!
+description: Learn practical skills for effective product backlog management, including item creation, prioritisation, breakdown, and alignment with business goals to boost Agile team success.
 date: 2023-11-30T07:00:11Z
 weight: 1000
 ResourceId: UOzrABhafx0
@@ -20,7 +20,6 @@ aliases:
 - /resources/UOzrABhafx0
 - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum.org-course
 aliasesArchive:
 - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
@@ -46,6 +45,8 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:07:23Z
 
 ---
 In today's fast-paced Agile environments, effective [product backlog]({{< ref "/tags/product-backlog" >}}) management is key to ensuring teams stay focused, aligned, and efficient. [Scrum]({{< ref "/categories/scrum" >}}).org has recently launched a new **Product Backlog Management** course, and it’s shaping up to be an exciting addition to their offerings. Having worked with countless teams and seen firsthand how backlog mismanagement can derail progress, this course offers practical, actionable skills that every [Scrum team]({{< ref "/tags/scrum-team" >}}) can benefit from.

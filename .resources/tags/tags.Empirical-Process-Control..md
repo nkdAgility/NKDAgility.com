@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 640
 description: Adapting based on evidence, not assumptions, through inspection and transparency.
 Instructions: |-
   **Use this category only for discussions on Empirical Process Control.**  

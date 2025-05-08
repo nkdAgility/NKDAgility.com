@@ -1,6 +1,6 @@
 ---
 title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
-description: "Uncover the truth behind burndown charts in Agile! Join Martin from NKDAgility as he debunks myths and explores better alternatives. \U0001F4CA\U0001F4A1"
+description: Explores why burndown charts can limit Agile teams, highlighting the drawbacks of fixed planning and advocating for adaptability, empirical work, and value flow.
 date: 2024-01-01T07:00:20Z
 weight: 1000
 ResourceId: ymKlRonlUX0
@@ -40,6 +40,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:06:44Z
 
 ---
 Have you ever felt something was off with burndown charts? I know I have. There's always been this nagging feeling that something wasn't quite right. Over the years, people have revered these charts as the ultimate tool for monitoring a team’s progress. But I’ve come to realize that this couldn’t be further from the truth.

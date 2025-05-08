@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking the Power of Caman: Why It’s the Perfect Companion to Scrum for Process Optimisation'
-description: Discover how Caman complements Scrum and enhances process transparency. Unlock optimisation opportunities and elevate your workflow insights today!
+description: Explains how Caman complements Scrum by providing transparency and insights to optimise workflows, identify bottlenecks, and improve processes across any industry.
 date: 2024-08-13T07:04:49Z
 weight: 1000
 ResourceId: Qko_93YAV70
@@ -17,7 +17,6 @@ aliases:
 - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
 - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
 - /resources/videos/kanban-vs-scrum
-- /resources/videos/unlocking-the-power-of-caman-why-it-s-the-perfect-companion-to-scrum-for-process-optimisation
 aliasesArchive:
 - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation
 - /resources/videos/kanban-vs-scrum
@@ -37,6 +36,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:02:12Z
 
 ---
 When I find myself in discussions about Caman versus [Scrum]({{< ref "/categories/scrum" >}}), I often notice a common thread: a misunderstanding of what Caman truly represents. It’s crucial to clarify that Caman is not merely another framework to pit against Scrum; rather, it’s a versatile strategy that can be applied across various systems and processes. 

@@ -1,6 +1,6 @@
 ---
 title: What is Scrum?
-description: 'Discover Scrum, an agile framework that empowers product development teams to tackle complex challenges. Join Martin Hinshelwood for insights! #Scrum #Agile'
+description: Scrum is a framework that helps teams organise and adapt to complex, changing tasks by enabling collaboration and shared goals in uncertain environments.
 date: 2023-05-19T07:00:31Z
 weight: 1000
 ResourceId: o-wVeh3CIVI
@@ -36,6 +36,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:12:20Z
 
 ---
 **What is [Scrum]({{< ref "/categories/scrum" >}})?**

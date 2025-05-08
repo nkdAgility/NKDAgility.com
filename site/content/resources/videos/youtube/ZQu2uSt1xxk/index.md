@@ -1,6 +1,6 @@
 ---
 title: Overview of Applying Professional Kanban course.
-description: Unlock your team's potential with our "Applying Professional Kanban" course! Learn key principles, tools, and techniques for continuous improvement.
+description: Learn how to implement Kanban in any workflow, use key metrics and visualisations, and drive continuous improvement for better project management and value delivery.
 date: 2024-02-21T07:00:11Z
 weight: 1000
 ResourceId: ZQu2uSt1xxk
@@ -20,7 +20,6 @@ aliases:
 - /resources/ZQu2uSt1xxk
 - /resources/videos/overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course-1
-- /resources/videos/overview-of-applying-professional-kanban-course.
 aliasesArchive:
 - /resources/videos/overview-of-applying-professional-kanban-course-
 - /resources/overview-of-applying-professional-kanban-course
@@ -40,6 +39,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:05:40Z
 
 ---
 ### Understanding and Applying [Kanban]({{< ref "/categories/kanban" >}}): The Professional Kanban Course

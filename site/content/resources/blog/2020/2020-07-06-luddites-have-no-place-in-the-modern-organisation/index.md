@@ -1,6 +1,6 @@
 ---
 title: Luddites have no place in the modern organisation
-description: Discover why Luddites hinder modern organizations and learn how to foster a culture of agility and innovation. Embrace change for a thriving workplace!
+description: Explores how resistance to change and outdated mindsets hinder organisational agility, stressing the need for adaptable, forward-thinking teams in modern business.
 ResourceId: dyxqF7lrHmn
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -30,6 +30,8 @@ tags:
 categories:
 - Leadership
 preview: image-3-3-3.png
+Watermarks:
+  description: 2025-05-07T13:15:31Z
 
 ---
 In our [Professional Agile Leadership training](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-training/), we talk about changing your organisations hiring practices to hire more of the right sort of people to create the company that you want, not the company that you have. Hire the right people also implies that you will have to, within your cultural constraints, de-hire the wrong people.

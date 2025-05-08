@@ -1,6 +1,6 @@
 ---
 title: Agile Alchemy
-description: Join Simon Reindl and Martin Hinshelwood in this podcast as they discuss the vital role of language and transparency in the agile world. Tune in for insights!
+description: This podcast discusses why precise language and transparency are essential in agile practices, highlighting how word choice impacts communication and team effectiveness.
 ResourceId: i2XYfDpX46l
 ResourceImport: false
 ResourceType: podcast
@@ -16,6 +16,8 @@ slug: agile-alchemy
 aliases:
 - /resources/i2XYfDpX46l
 tags: []
+Watermarks:
+  description: 2025-05-07T13:06:50Z
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

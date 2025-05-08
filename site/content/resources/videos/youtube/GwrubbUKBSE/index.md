@@ -1,6 +1,6 @@
 ---
 title: 30th March 2020 - Office Hours \ Ask Me Anything
-description: Join Martin, a Scrum Trainer and Microsoft MVP, for an engaging AMA on DevOps and Agility. Ask your questions live or submit them privately!
+description: Open Q&A session with Martin, covering DevOps, Agile, Scrum, and Azure DevOps. Submit questions publicly or privately and get expert answers from an industry professional.
 date: 2020-04-10T18:32:34Z
 weight: 1000
 ResourceId: GwrubbUKBSE
@@ -33,9 +33,11 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:15:52Z
 
 ---
- Bring your questions on any topic from [DevOps]({{< ref "/categories/devops" >}}) to Agility and Martin will do his best to answer them. Martin is a Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer with Scrum.org and a Microsoft MVP in [Azure DevOps]({{< ref "/tags/azure-devops" >}}). Ask him anything!
+ Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!
 
 If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask 
  [Watch on Youtube](https://www.youtube.com/watch?v=GwrubbUKBSE)

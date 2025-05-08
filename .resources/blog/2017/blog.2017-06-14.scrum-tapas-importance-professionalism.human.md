@@ -1,6 +1,6 @@
 ---
 title: 'Scrum Tapas: The Importance of Professionalism'
-description: Explore the significance of professionalism in software teams with Scrum Tapas. Discover how to elevate your team's performance and embrace engineering excellence.
+description: Explores why professionalism and adherence to engineering excellence are essential for effective Scrum teams, highlighting common pitfalls of amateur software development.
 ResourceId: sdlfWR5wHx7
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -31,6 +31,8 @@ tags: []
 categories:
 - Uncategorized
 preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
+Watermarks:
+  description: 2025-05-07T13:16:36Z
 
 ---
 I believe that to create great software you need to have Professional Teams and not just amateur Teams. However most software teams are amateurs that don't follow the rules, don’t subscribe to [engineering excellence]({{< ref "/categories/engineering-excellence" >}}), and don't follow the values and principals

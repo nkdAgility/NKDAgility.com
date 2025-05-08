@@ -1,6 +1,6 @@
 ---
 title: No Estimates and is it advisable for a Scrum Team to adopt it?
-description: Explore the pros and cons of adopting No Estimates for Scrum Teams. Discover how to optimize your workflow and enhance team communication effectively.
+description: Explores whether Scrum Teams should adopt No Estimates, comparing estimation methods, team maturity, and metrics like cycle time, throughput, WIP, and work item ageing.
 ResourceId: Lv1CLfk5cPM
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -33,6 +33,8 @@ categories:
 - Product Development
 - Scrum
 preview: iStock-847664136-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:16:14Z
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

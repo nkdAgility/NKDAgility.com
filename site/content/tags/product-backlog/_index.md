@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-05-05T10:17:24Z
+weight: 415
 description: Strategies and techniques for effective backlog management and refinement.
 Instructions: |-
   **Use this category only for discussions on Product Backlog.**  

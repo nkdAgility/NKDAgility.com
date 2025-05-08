@@ -1,6 +1,6 @@
 ---
 title: Deciphering the Enigma of Story Points Across Teams
-description: Explore how to effectively use Story Points in agile teams. Discover better metrics for performance and value delivery to enhance your team's success.
+description: Explains why Story Points are subjective and unsuitable for comparing teams, and highlights objective metrics like throughput and value for measuring and improving team performance.
 ResourceId: LKp5S7_4Kbw
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -36,6 +36,8 @@ categories:
 - Product Development
 - Product Management
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
+Watermarks:
+  description: 2025-05-07T13:09:25Z
 
 ---
 Over the past decade, a recurring query has been echoing in my ears: "How can we normalise Story Points across teams so that we can look across and maybe compare teams?" It's high time we address this.

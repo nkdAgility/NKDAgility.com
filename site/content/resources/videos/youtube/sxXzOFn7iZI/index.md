@@ -1,6 +1,6 @@
 ---
 title: 'Hiring an Agile Coach: What You Need to Know'
-description: 'Discover 5 key factors to consider before hiring an #AgileCoach in Part 3 of our series with Martin Hinshelwood. #Agile #Scrum #ProjectManagement'
+description: Learn what to look for when hiring an Agile coach, including key qualities like teaching, mentoring, and inspiring teams to adopt Agile practices and drive transformation.
 date: 2023-11-22T11:00:46Z
 weight: 565
 ResourceId: sxXzOFn7iZI
@@ -43,6 +43,8 @@ resourceTypes:
 categories:
 - Technical Leadership
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:07:38Z
 
 ---
 When it comes to hiring an Agile coach, there are a few key things to consider. It's not just about finding someone who can coach individuals or teams. The role of an Agile coach is far more comprehensive than that. You need someone who can **teach, mentor, and inspire** people in your organization to greatness, helping them embrace Agile principles and adopt the practices that drive success.

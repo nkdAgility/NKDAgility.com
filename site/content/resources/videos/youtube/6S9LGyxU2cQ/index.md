@@ -1,6 +1,6 @@
 ---
 title: "Unlocking Agility: How EPS Immersive Learning Transforms Your Team's Performance"
-description: Unlock your team's potential with our EPS immersive learning experience! Discover how structured feedback and coaching can enhance agility and effectiveness.
+description: Discover how EPS immersive learning boosts team agility with structured feedback, coaching, and tailored sessions, driving continuous improvement in real-world settings.
 date: 2023-08-16T07:00:03Z
 weight: 640
 ResourceId: 6S9LGyxU2cQ
@@ -15,7 +15,6 @@ aliases:
 - /resources/6S9LGyxU2cQ
 - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
-- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-team-s-performance
 aliasesArchive:
 - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
@@ -43,6 +42,8 @@ resourceTypes:
 categories:
 - Product Development
 - Scrum
+Watermarks:
+  description: 2025-05-07T13:10:11Z
 
 ---
 When it comes to enhancing your team's agility, the question often arises: is the EPS immersive learning experience akin to having a hands-on [Scrum]({{< ref "/categories/scrum" >}}) coach? My answer? Not quite, but it’s pretty close. Let me explain why I believe this immersive approach can be a game-changer for your organisation.

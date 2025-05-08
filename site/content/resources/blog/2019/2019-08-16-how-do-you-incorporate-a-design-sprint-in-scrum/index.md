@@ -1,6 +1,6 @@
 ---
 title: How do you incorporate a Design Sprint in Scrum?
-description: Discover how to effectively integrate Design Sprints into Scrum. Learn key strategies for collaboration and refinement to enhance your product development process.
+description: Explains how to integrate Design Sprint activities within Scrum by embedding design and UX work into regular sprints and backlog refinement, avoiding separate design sprints.
 ResourceId: MHeGFYrasBx
 ResourceType: blog
 ResourceContentOrigin: Hybrid
@@ -34,6 +34,8 @@ categories:
 - Scrum
 - Product Development
 preview: 1130646316-1-1-1.jpg
+Watermarks:
+  description: 2025-05-07T13:16:15Z
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

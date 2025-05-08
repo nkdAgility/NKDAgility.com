@@ -1,6 +1,6 @@
 ---
 title: Security by Design Building Secure Software
-description: Learn to embed security from the start in software development. Join Martin Hinshelwood as he explores shifting left for resilient, secure software.
+description: Explains how integrating security and quality early in software development—using practices like TDD, pair programming, and continuous feedback—builds robust, reliable systems.
 date: 2024-11-26T13:35:33Z
 weight: 355
 ResourceId: NgoP5W5y7Gs
@@ -38,6 +38,8 @@ categories:
 - Engineering Excellence
 - DevOps
 - Product Development
+Watermarks:
+  description: 2025-05-07T12:57:05Z
 
 ---
 # Shift Left: Building Quality and Security From the Start

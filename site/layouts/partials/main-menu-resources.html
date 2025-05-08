@@ -78,7 +78,6 @@
               <h5>Categories</h5>
               <div class="columns-3">
                 {{ range $category, $pages := .Site.Taxonomies.categories }}
-                  
                   <div class="d-flex align-items-center">
                     <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
                       <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
@@ -90,21 +89,34 @@
               </div>
               <hr />
             </div>
-            {{/*  <div class="m-1 small">
+            <div class="m-1 small">
               <h6>Tags</h6>
               <div class="columns-4">
-                {{ range $category, $pages := .Site.Taxonomies.tags }}
+                {{ $tags := slice }}
+                {{ range $name, $pages := .Site.Taxonomies.tags }}
+                  {{ $count := len (where $pages "Draft" "!=" true) }}
+                  {{ $tags = $tags | append (dict "name" $name "count" $count "pages" $pages "page" .Page) }}
+                {{ end }}
+
+                {{ $sorted := sort $tags "page.Weight" "asc" }}
+                {{ range first 20 $sorted }}
                   <div class="d-flex align-items-center">
-                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
-                      <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
+                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .name }}">
+                      <a href="{{ .page.Permalink }}" title="{{ .page.Title }} - {{ .page.Description }}">{{ .page.Title }}</a>
                     </span>
-                    {{- $count :=  len (where $pages "Draft" "!=" true) }}
-                    <span class="ms-1">({{ $count }})</span>
+                    <span class="ms-1">({{ .count }}){{- if ne hugo.Environment "production" }}[W:{{ .page.Weight }}]{{ end }}</span>
                   </div>
                 {{ end }}
+                <br />
+              </div>
+              <br />
+              <div class="d-flex align-items-center">
+                <span class="text-truncate d-inline-block" style="max-width: 100%;" title="">
+                  <a href="/resources/tags/" title="">There are {{ len ($tags) }} more Tags...</a>
+                </span>
               </div>
               <hr />
-            </div>  */}}
+            </div>
           </div>
         </div>
       </div>

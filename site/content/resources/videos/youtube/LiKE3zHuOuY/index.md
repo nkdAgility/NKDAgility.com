@@ -1,6 +1,6 @@
 ---
 title: How Much of An Impact can Scrum Have in a DevOps Environment?
-description: Discover how scrum enhances DevOps for seamless software delivery in this insightful short with Martin Hinshelwood. Transform your team's performance!
+description: Explores how integrating Scrum with DevOps boosts software delivery by improving collaboration, automation, speed, and product quality in modern development teams.
 date: 2023-06-15T14:45:02Z
 weight: 350
 ResourceId: LiKE3zHuOuY
@@ -32,6 +32,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:11:36Z
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}}) in a [DevOps]({{< ref "/categories/devops" >}}) World: A Game Changer!

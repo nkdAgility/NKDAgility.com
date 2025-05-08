@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 420
 description: Applying Lean principles to reduce waste and improve efficiency in workflows.
 Instructions: |-
   **Use this category only for discussions on Lean Thinking.**  

@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
+weight: 310
 description: Managing source control with Azure Repos for modern software development.
 Instructions: |-
   **Use this category only for discussions on Azure Repos.**  

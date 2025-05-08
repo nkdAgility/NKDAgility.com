@@ -1,6 +1,6 @@
 ---
 title: Sprint Planning Recipe
-description: Master Sprint Planning with this guide! Learn to craft effective goals, select backlog items, and create actionable plans for successful sprints.
+description: Step-by-step guide to effective Sprint Planning in Scrum, covering goal setting, backlog selection, team capacity, actionable plans, and clear communication with stakeholders.
 ResourceId: D1dSEM9ni3C
 ResourceImport: false
 ResourceType: recipes
@@ -50,6 +50,8 @@ tags:
 - Agile Frameworks
 - Agile Planning Tools
 - Team Performance
+Watermarks:
+  description: 2025-05-07T12:57:48Z
 
 ---
 The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire [Scrum]({{< ref "/categories/scrum" >}}) Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the [Scrum Team]({{< ref "/tags/scrum-team" >}}) has going in, the shorter it will be. That is, if the [Product Backlog]({{< ref "/tags/product-backlog" >}}) is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.

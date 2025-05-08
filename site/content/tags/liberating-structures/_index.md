@@ -2,6 +2,7 @@
 title: Liberating Structures
 abstract: Liberating Structures are a modular toolkit of facilitation techniques used to structure team interactions, promote equal participation, and improve collaboration. Designed as plug-and-play alternatives to conventional meeting formats, each structure provides a clear pattern for group engagement, making them easy to learn and adapt. In Agile, Lean, and DevOps contexts, they support team self-organisation by enabling rapid idea generation, shared understanding, and collective decision-making. When applied intentionally, these methods enhance team effectiveness and help build a culture of trust and psychological safety—without requiring major changes to existing workflows.
 date: 2025-04-14T14:50:18Z
+weight: 455
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false

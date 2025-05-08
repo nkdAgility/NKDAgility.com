@@ -1,6 +1,6 @@
 ---
 title: What do people love most about the 4-day training format?
-description: Discover why learners love the immersive 4-day training format! Join Martin Hinshelwood as he shares insights on enhancing your Scrum journey.
+description: The 4-day training format offers shorter, well-paced sessions with breaks, allowing participants to absorb content, reflect, and return with deeper understanding and questions.
 date: 2023-05-11T12:00:02Z
 weight: 1000
 ResourceId: 3XsOseKG57g
@@ -34,6 +34,8 @@ resourceTypes:
 layout: video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:12:32Z
 
 ---
 ## The Magic of the 4-Day Training Format!

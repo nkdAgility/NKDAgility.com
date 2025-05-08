@@ -5,6 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+weight: 445
 description: Apply Systems Thinking to understand complexity, improve decision-making, and drive sustainable organisational change.
 Instructions: |-
   **Use this category only for discussions on Systems Thinking.**  

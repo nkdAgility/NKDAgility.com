@@ -1,6 +1,6 @@
 ---
 title: Best Scrum advice you ever received?
-description: "Unlock Scrum's true potential! Embrace flexibility over dogma with expert insights from Martin. Discover adaptive practices for effective project management. \U0001F680"
+description: Emphasises the importance of flexibility and pragmatism in Scrum, encouraging teams to adapt frameworks to their context rather than rigidly following prescribed rules.
 date: 2023-06-05T07:00:20Z
 weight: 690
 ResourceId: YUlpnyN2IeI
@@ -44,6 +44,8 @@ resourceTypes:
 categories:
 - Scrum
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:11:53Z
 
 ---
 ## The Golden Nugget of [Scrum]({{< ref "/categories/scrum" >}}) Advice I've Ever Received

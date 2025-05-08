@@ -1,6 +1,6 @@
 ---
 title: The Power of Technical Excellence in Agile Development
-description: Unlock the secrets of Agile success! Discover how prioritising technical excellence over speed can transform your software development and deliver exceptional value.
+description: Explores how technical excellence in Agile development reduces risk, prevents technical debt, and boosts product quality and delivery speed through strong engineering standards.
 date: 2024-06-27T06:45:00Z
 weight: 150
 ResourceId: JTYCRehkN5U
@@ -49,6 +49,8 @@ categories:
 - Engineering Excellence
 - Product Development
 - Technical Leadership
+Watermarks:
+  description: 2025-05-07T13:02:46Z
 
 ---
 In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As [Scrum]({{< ref "/categories/scrum" >}}) and Agile practitioners, we often discuss the importance of [technical excellence]({{< ref "/tags/technical-excellence" >}}), but it's more than just a concept—it's the cornerstone of risk mitigation and successful [product delivery]({{< ref "/tags/product-delivery" >}}). Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.

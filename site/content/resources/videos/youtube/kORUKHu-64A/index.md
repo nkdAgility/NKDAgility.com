@@ -1,6 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 5.
-description: "Uncover the truth about Scrum governance! Join Martin as he debunks myths and reveals the balance between flexibility and compliance in product development. \U0001F680"
+description: Explains why Scrum does not mean a lack of governance, highlighting the need for regulatory compliance and internal standards while maintaining Agile flexibility.
 date: 2023-10-26T07:00:29Z
 weight: 690
 ResourceId: kORUKHu-64A
@@ -20,7 +20,6 @@ aliases:
 - /resources/kORUKHu-64A
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-
@@ -40,6 +39,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:20Z
 
 ---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Governance: Navigating the Balance for Agile Success 🚀

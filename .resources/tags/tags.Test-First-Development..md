@@ -4,6 +4,7 @@ abstract: Test First Development is a contemporary engineering practice that emp
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-25T07:40:33Z
+weight: 240
 trustpilot: false
 description: Test First is a practice that defines success before implementation. It supports manual and automated testing, with a strong preference for automation to improve flow and quality.
 Instructions: |-

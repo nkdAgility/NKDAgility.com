@@ -1,6 +1,6 @@
 ---
 title: "Quotes: You can't connect the dots looking forward; you can only connect them looking backwards. Steve Jobs"
-description: "Explore Steve Jobs' insight on connecting the dots in product development with Martin Hinshelwood. Discover the power of agile with Naked Agility! #shorts"
+description: Explores how reflecting on past experiences, as Steve Jobs advised, guides Agile teams in making informed, adaptive decisions and continuous improvements.
 date: 2023-10-13T11:00:40Z
 weight: 1000
 ResourceId: hj31XHbmWbA
@@ -21,7 +21,6 @@ aliases:
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
-- /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
 aliasesArchive:
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 - /resources/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
@@ -38,6 +37,8 @@ resourceTypes:
 - video
 categories:
 - Product Development
+Watermarks:
+  description: 2025-05-07T13:08:47Z
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

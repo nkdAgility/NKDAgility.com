@@ -4,6 +4,7 @@ abstract: 'Evidence-Based Management (EBM) is a strategic approach designed to e
 ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-21T14:44:46Z
+weight: 255
 trustpilot: false
 ResourceId: dN0v6E1KsNd
 description: Evidence-Based Management (EBM) is a strategy for improving an organisation’s ability to deliver value by making decisions based on evidence, not opinion. It enables data-informed investment in agility, innovation, and outcomes rather than output.

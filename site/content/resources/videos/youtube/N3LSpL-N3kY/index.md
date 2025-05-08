@@ -1,6 +1,6 @@
 ---
 title: 2-day PSPO Versus 8-week PSPO
-description: 'Discover the key differences between the 2-day and 8-week PSPO courses in this short video with Martin Hinshelwood. Elevate your Scrum journey! #PSPO #Scrum'
+description: Compares 2-day and 8-week Product Owner courses, highlighting differences in learning pace, depth, practical application, and how each suits different learning styles.
 date: 2023-06-07T07:00:14Z
 weight: 1000
 ResourceId: N3LSpL-N3kY
@@ -32,6 +32,8 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-07T13:11:48Z
 
 ---
 ## The [Product Owner]({{< ref "/tags/product-owner" >}}) Journey

@@ -1,6 +1,6 @@
 ---
 title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
-description: Navigate the complexities of software development with insights on technical leadership and Agile principles. Discover how to turn challenges into opportunities!
+description: Explores how Agile principles, technical leadership, and engineering excellence help teams manage unpredictability, adapt to change, and deliver quality software projects.
 date: 2024-12-02T06:00:00Z
 weight: 220
 ResourceId: h3J11t10A0g
@@ -37,6 +37,8 @@ categories:
 - Product Development
 - Engineering Excellence
 - Technical Leadership
+Watermarks:
+  description: 2025-05-07T12:56:57Z
 
 ---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in [software development]({{< ref "/tags/software-development" >}}).
