@@ -3,6 +3,7 @@
 . ./.powershell/_includes/OpenAI.ps1
 . ./.powershell/_includes/PromptManager.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
+. ./.powershell/_includes/Utilities.ps1
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
@@ -103,7 +104,8 @@ function Update-ClassificationsForHugoMarkdownList {
                             continue
                         }
                         $newEntry = $null
-                        $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson
+                        $calculatedAt = (Convert-UnixTimestamp $rawAiBatchResult.response.body.created).ToUniversalTime().ToString("s")
+                        $newEntry = Get-ConfidenceFromAIResponse -AIResponseJson $aiResponseJson -CalculatedDate $calculatedAt
                         if ($newEntry -eq $null) {
                             $countOfBatchResultsThatAreBad++
                             $countOfResultsThatAreBad++
@@ -139,10 +141,16 @@ function Update-ClassificationsForHugoMarkdownList {
                         # Get items from the cache
                         $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
                         if ($cachedData.ContainsKey($newEntry.category)) {
+                            $cutoff = (Get-Date).Date.AddDays(-1)
                             $oldEntry = $cachedData.($newEntry.category)
-                            if ([System.DateTimeOffset]$oldEntry.calculated_at -gt $newEntry.calculated_at) {
+                            if ($oldEntry.ai_confidence -eq $newEntry.ai_confidence) {
                                 $cachedData[$newEntry.category] = $newEntry
                             }
+                            else {
+                                if ([System.DateTimeOffset]$oldEntry.calculated_at -lt [System.DateTimeOffset]$newEntry.calculated_at) {
+                                    $cachedData[$newEntry.category] = $newEntry
+                                }
+                            } 
                         }
                         else {
                             $cachedData.Add($newEntry.category, $newEntry )
@@ -169,10 +177,12 @@ function Update-ClassificationsForHugoMarkdownList {
                     }                
                     
                     ## Clean up
-                    $inputFile = Join-Path $CacheFolder $batch.inputFile
-                    if (Test-Path $inputFile) {
-                        Remove-Item $inputFile -Force
-                    }
+                    if ($batch.inputFile) {
+                        $inputFile = Join-Path $CacheFolder $batch.inputFile
+                        if (Test-Path $inputFile) {
+                            Remove-Item $inputFile -Force
+                        }
+                    }                   
                     if (Test-Path $batchJsonlOutout) {
                         Remove-Item $batchJsonlOutout -Force
                     }
@@ -580,7 +590,8 @@ function Get-ComputedLevel {
 
 function Get-ConfidenceFromAIResponse {
     param (
-        [string]$AIResponseJson
+        [string]$AIResponseJson,
+        [string]$CalculatedDate = (Get-Date).ToUniversalTime().ToString("s")
     )
     $responceOK = $true
     try {
@@ -591,7 +602,6 @@ function Get-ConfidenceFromAIResponse {
         $AIResponse = $AIResponseJson | ConvertFrom-Json -ErrorAction Stop
     }
     catch {
-
         Write-ErrorLog "Error parsing AI response.. Skipping. Error: $_"
         Write-ErrorLog "AI Response Json: {AIResponseJson}" -PropertyValues $AIResponseJson
         $AIResponse = $null
@@ -601,45 +611,32 @@ function Get-ConfidenceFromAIResponse {
     if ($responceOK) {
         $aiConfidence = if ($AIResponse.PSObject.Properties["confidence"]) { $AIResponse.confidence } else { 0 }
         if ($aiConfidence -le 1 -and $aiConfidence -gt 0) {
-            $aiConfidence = [math]::Round($aiConfidence * 10)
+            $aiConfidence = $aiConfidence * 10
         }
-        $aiMentions = if ($AIResponse.PSObject.Properties["mentions"]) { $AIResponse.mentions } else { 0 }
-        $aiAlignment = if ($AIResponse.PSObject.Properties["alignment"]) { $AIResponse.alignment } else { 0 }
-        $aiDepth = if ($AIResponse.PSObject.Properties["depth"]) { $AIResponse.depth } else { 0 }
-        $aiIntent = if ($AIResponse.PSObject.Properties["intent"]) { $AIResponse.intent } else { 0 }
-        $aiaudience = if ($AIResponse.PSObject.Properties["audience"]) { $AIResponse.audience } else { 0 }
-        $aisignal = if ($AIResponse.PSObject.Properties["signal"]) { $AIResponse.signal } else { 0 }
-        $aipenalties_applied = if ($AIResponse.PSObject.Properties["penalties_applied"]) { $AIResponse.penalties_applied } else { $false }
-        $aitotal_penalty_points = if ($AIResponse.PSObject.Properties["total_penalty_points"]) { $AIResponse.total_penalty_points } else { 0 }
-        $aipenalty_details = if ($AIResponse.PSObject.Properties["penalty_details"]) { $AIResponse.penalty_details } else { $null }
-        # Detect if confidence is a float in the 0-1 range
-       
-        $category = if ($AIResponse.PSObject.Properties["category"]) { $AIResponse.category } else { "unknown" }
-        $resourceId = if ($AIResponse.PSObject.Properties["resourceId"]) { $AIResponse.resourceId } else { "unknown" }
+        $finalScore = Get-ComputedConfidence -aiConfidence $aiConfidence -nonAiConfidence 0
+    
+        return [PSCustomObject]@{
+            "resourceId"           = if ($AIResponse.PSObject.Properties["resourceId"]) { $AIResponse.resourceId } else { "unknown" }
+            "category"             = if ($AIResponse.PSObject.Properties["category"]) { $AIResponse.category } else { "unknown" }
+            "calculated_at"        = $CalculatedDate
+            "ai_confidence"        = $aiConfidence
+            "ai_mentions"          = if ($AIResponse.PSObject.Properties["mentions"]) { $AIResponse.mentions } else { 0 }
+            "ai_alignment"         = if ($AIResponse.PSObject.Properties["alignment"]) { $AIResponse.alignment } else { 0 }
+            "ai_depth"             = if ($AIResponse.PSObject.Properties["depth"]) { $AIResponse.depth } else { 0 }
+            "ai_intent"            = if ($AIResponse.PSObject.Properties["intent"]) { $AIResponse.intent } else { 0 }
+            "ai_audience"          = if ($AIResponse.PSObject.Properties["audience"]) { $AIResponse.audience } else { 0 }
+            "ai_signal"            = if ($AIResponse.PSObject.Properties["signal"]) { $AIResponse.signal } else { 0 }
+            "ai_penalties_applied" = if ($AIResponse.PSObject.Properties["penalties_applied"]) { $AIResponse.penalties_applied } else { $false }
+            "ai_penalty_points"    = if ($AIResponse.PSObject.Properties["total_penalty_points"]) { $AIResponse.total_penalty_points } else { 0 }
+            "ai_penalty_details"   = if ($AIResponse.PSObject.Properties["penalty_details"]) { $AIResponse.penalty_details } else { $null }
+            "final_score"          = $finalScore
+            "reasoning"            = $AIResponse.reasoning
+            "reasoning_summery"    = if ($AIResponse.PSObject.Properties["reasoning_summery"]) { $AIResponse.reasoning_summery } else { $null }
+            "level"                = Get-ComputedLevel -confidence $finalScore
+        }
     }
     else {
         return $null;
-    }
-    
-    $finalScore = Get-ComputedConfidence -aiConfidence $aiConfidence -nonAiConfidence 0
-
-    return [PSCustomObject]@{
-        "resourceId"           = $resourceId
-        "category"             = $category
-        "calculated_at"        = if ($responceOK) { (Get-Date).ToUniversalTime().ToString("s") } else { (Get-Date).AddDays(-365).ToUniversalTime().ToString("s") }
-        "ai_confidence"        = $aiConfidence
-        "ai_mentions"          = $aiMentions
-        "ai_alignment"         = $aiAlignment
-        "ai_depth"             = $aiDepth
-        "ai_intent"            = $aiIntent
-        "ai_audience"          = $aiaudience
-        "ai_signal"            = $aisignal
-        "ai_penalties_applied" = $aipenalties_applied
-        "ai_penalty_points"    = $aitotal_penalty_points
-        "ai_penalty_details"   = $aipenalty_details
-        "final_score"          = $finalScore
-        "reasoning"            = $AIResponse.reasoning
-        "level"                = Get-ComputedLevel -confidence $finalScore
     }
 }
 
