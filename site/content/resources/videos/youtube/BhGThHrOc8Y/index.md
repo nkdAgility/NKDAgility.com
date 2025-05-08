@@ -16,7 +16,6 @@ aliases:
 - /resources/BhGThHrOc8Y
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
-- /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
 aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-

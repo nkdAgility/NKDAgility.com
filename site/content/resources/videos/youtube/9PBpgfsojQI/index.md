@@ -19,7 +19,6 @@ isShort: false
 aliases:
 - /resources/9PBpgfsojQI
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
-- /resources/videos/2023-is-predicted-to-be-a-very-tough-year.-what-do-you-think-will-be-needed-to-win-and-improve
 aliasesArchive:
 - /resources/videos/-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve

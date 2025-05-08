@@ -19,7 +19,6 @@ aliases:
 - /resources/_5daB0lJpdc
 - /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/videos/5-ghosts-of-agile-past-certification
-- /resources/videos/introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
 aliasesArchive:
 - /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism

@@ -16,7 +16,6 @@ aliases:
 - /resources/gEJhbET3nqs
 - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
 - /resources/videos/professional-agile-leadership-essentials-overview
-- /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum.org-s-essentials-workshop
 aliasesArchive:
 - /resources/videos/professional-agile-leadership-essentials-overview
 - /resources/professional-agile-leadership-essentials-overview

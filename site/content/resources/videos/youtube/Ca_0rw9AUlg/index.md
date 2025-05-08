@@ -20,7 +20,6 @@ aliases:
 - /resources/Ca_0rw9AUlg
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
-- /resources/videos/there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 aliasesArchive:
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 - /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture

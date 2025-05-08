@@ -17,7 +17,6 @@ aliases:
 - /resources/5J8RLcOAE3E
 - /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
 aliasesArchive:
 - /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 - /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems

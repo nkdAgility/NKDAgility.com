@@ -20,7 +20,6 @@ aliases:
 - /resources/EoInrPvjBHo
 - /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
-- /resources/videos/how-to-overcome-agile-banditry-a-product-owner-s-journey
 aliasesArchive:
 - /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/how-to-overcome-agile-banditry-a-product-owners-journey

@@ -20,7 +20,6 @@ aliases:
 - /resources/sXmXT_MDXTo
 - /resources/videos/devops-elevating-your-organizations-performance-through-bespoke-solutions
 - /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
-- /resources/videos/devops-elevating-your-organization-s-performance-through-bespoke-solutions
 aliasesArchive:
 - /resources/videos/devops-elevating-your-organizations-performance-through-bespoke-solutions
 - /resources/devops-elevating-your-organizations-performance-through-bespoke-solutions

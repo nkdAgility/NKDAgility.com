@@ -4,47 +4,40 @@ $env:GOOGLE_QUOTA_OK = $true
 function Get-YoutubeChannelVideos {
     param (
         [string]$channelId,
-        [string]$token, #  AccessToken 
+        [string]$token, # AccessToken
         [int]$maxResults = 50
     )
 
     if (-not $token) {
-        Write-Error "Token is required. Provide either an API Key or Access Token based on AuthType."
+        Write-Error "Token is required."
         return
     }
 
-    Write-Debug "Fetching video list for channel: $channelId using $authType"
+    Write-Debug "Fetching video list for channel: $channelId"
 
-    $searchDate = Get-Date -Format "yyyy-MM-ddTHH:mm:ss" # ISO 8601 timestamp
-    $uploadsPlaylistId = $null
-    $allVideosData = @()
-    $nextPageToken = $null
-    $page = 1
+    $searchDate = Get-Date -Format "yyyy-MM-ddTHH:mm:ss"
+    $headers = @{ Authorization = "Bearer $token" }
 
-    # Step 1: Retrieve the channel's uploads playlist ID
+    # Step 1: Retrieve uploads playlist ID
     try {
-        $channelApiUrl = "https://www.googleapis.com/youtube/v3/channels?part=snippet,contentDetails,statistics&id=$channelId"
-        $headers = @{ Authorization = "Bearer $token" }
-        $channelResponse = Invoke-RestMethod -Uri $channelApiUrl -Headers $headers -Method Get
+        $channelApiUrl = "https://www.googleapis.com/youtube/v3/channels?part=contentDetails&id=$channelId"
+        $channelResponse = Invoke-RestMethod -Uri $channelApiUrl -Headers $headers
         $uploadsPlaylistId = $channelResponse.items[0].contentDetails.relatedPlaylists.uploads
-        Write-Debug "Uploads playlist ID retrieved: $uploadsPlaylistId"
     }
     catch {
         Write-Error "Failed to fetch uploads playlist ID: $($_.Exception.Message)"
         return
     }
 
-    # Step 2: Retrieve all videos from the uploads playlist
+    # Step 2: Get videos from uploads playlist
+    $allVideosData = @()
+    $nextPageToken = $null
     do {
         try {
             $playlistApiUrl = "https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails,status&playlistId=$uploadsPlaylistId&maxResults=$maxResults&pageToken=$nextPageToken"
-            $headers = @{ Authorization = "Bearer $token" }
-        
-            $playlistResponse = Invoke-RestMethod -Uri $playlistApiUrl -Headers $headers -Method Get
-            Write-Debug "  Parsing Page $page with $($playlistResponse.items.Count) videos"
+            $playlistResponse = Invoke-RestMethod -Uri $playlistApiUrl -Headers $headers
             $allVideosData += $playlistResponse.items
             $nextPageToken = $playlistResponse.nextPageToken
-            $page++
         }
         catch {
             Write-Error "Failed to fetch playlist items: $($_.Exception.Message)"
@@ -54,12 +47,46 @@ function Get-YoutubeChannelVideos {
 
     Write-Debug "Retrieved $($allVideosData.Count) videos from uploads playlist."
 
-    # Return an object containing the search date and basic video list
+    # Step 3: Filter potential scheduled videos (private + published within last 90 days)
+    $cutoffDate = (Get-Date).AddDays(-90)
+    $potentialScheduled = $allVideosData | Where-Object {
+        $_.status.privacyStatus -eq "private" -and
+        [datetime]$_.snippet.publishedAt -gt $cutoffDate
+    }
+
+    if ($potentialScheduled.Count -gt 0) {
+        $videoIds = $potentialScheduled | ForEach-Object { $_.contentDetails.videoId } | Select-Object -Unique
+
+        # Step 4: Query Videos API in batches (50 per request)
+        $batchSize = 50
+        for ($i = 0; $i -lt $videoIds.Count; $i += $batchSize) {
+            $batchIds = $videoIds[$i..([Math]::Min($i + $batchSize - 1, $videoIds.Count - 1))] -join ","
+            try {
+                $videosApiUrl = "https://www.googleapis.com/youtube/v3/videos?part=status&id=$batchIds"
+                $videosResponse = Invoke-RestMethod -Uri $videosApiUrl -Headers $headers
+                foreach ($video in $videosResponse.items) {
+                    $target = $allVideosData | Where-Object { $_.contentDetails.videoId -eq $video.id }
+                    if ($video.status.PSObject.Properties.Name -contains 'publishAt') {
+                        $target.status | Add-Member -MemberType NoteProperty -Name scheduledPublishAt -Value $video.status.publishAt
+                        $target.status.privacyStatus = "scheduled"
+                    }
+                }
+            }
+            catch {
+                Write-Error "Failed to fetch detailed video data: $($_.Exception.Message)"
+                continue
+            }
+        }
+    }
+
+    # Return enriched original data
     return @{
         SearchDate = $searchDate
         Videos     = $allVideosData
     }
 }
+
+
 
 
 # Function to test if a file is older than a specified number of hours

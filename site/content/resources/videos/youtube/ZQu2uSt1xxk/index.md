@@ -20,7 +20,6 @@ aliases:
 - /resources/ZQu2uSt1xxk
 - /resources/videos/overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course-1
-- /resources/videos/overview-of-applying-professional-kanban-course.
 aliasesArchive:
 - /resources/videos/overview-of-applying-professional-kanban-course-
 - /resources/overview-of-applying-professional-kanban-course

@@ -16,7 +16,6 @@ canonicalUrl: https://www.youtube.com/watch?v=qnWVeumTKcE
 aliases:
 - /resources/qnWVeumTKcE
 - /resources/videos/a-view-into-the-psm-training-from-scrum-org
-- /resources/videos/a-view-into-the-psm-training-from-scrum.org
 aliasesArchive:
 - /resources/videos/a-view-into-the-psm-training-from-scrum-org
 - /resources/a-view-into-the-psm-training-from-scrum-org
@@ -38,4 +37,5 @@ Watermarks:
   description: 2025-05-07T13:14:53Z
 
 ---
+  
  [Watch on Youtube](https://www.youtube.com/watch?v=qnWVeumTKcE)

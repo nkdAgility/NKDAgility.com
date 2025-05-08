@@ -17,7 +17,6 @@ aliases:
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition
 - /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
-- /resources/videos/mastering-cloud-migration-how-to-leverage-microsoft-s-tool-for-a-seamless-transition
 aliasesArchive:
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition
 - /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1

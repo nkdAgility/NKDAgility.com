@@ -20,7 +20,6 @@ aliases:
 - /resources/Ys0dWfKVSeA
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - /resources/videos/scrum-the-mirror-to-organizational-challenges
-- /resources/videos/scrum-doesn-t-solve-problems-it-reveals-them.-how-and-why-is-that-valuable
 aliasesArchive:
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2

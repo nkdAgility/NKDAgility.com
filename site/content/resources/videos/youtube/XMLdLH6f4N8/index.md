@@ -16,7 +16,6 @@ aliases:
 - /resources/XMLdLH6f4N8
 - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
-- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/nkdagility-healthgrades-interview-katherine-maddox
