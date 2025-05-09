@@ -31,6 +31,15 @@ platform_signal:
     reactions_top_job_title: Scrum Master
     comments_top_job_title: Agile Coach
     reposts_top_job_title: Product Owner
+  - platform: Reddit
+    post_url: https://www.reddit.com/r/scrum/comments/1doza6j/the_majority_of_scrum_masters_are_not_fit_for/
+    post_date: 2024-06-03T13:44:00Z
+    performance:
+      impressions: 30000
+      members_reached: 20147
+      reactions: 86
+      comments: 91
+      reposts: 0
 Watermarks:
   description: 2025-05-07T13:02:52Z
 ---
