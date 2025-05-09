@@ -51,7 +51,7 @@
       {{ with .Params.platform_signal }}
         {{ range $index, $item := . }}
           <li class="nav-item" role="presentation">
-            <button class="nav-link {{ if eq $index 0 }}active{{ end }}" id="signal-tab" data-bs-toggle="tab" data-bs-target="#{{ .platform }}" type="button" role="tab" aria-controls="signals" aria-selected="{{ if eq $index 0 }}true{{ else }}false{{ end }}">{{ .platform }}</button>
+            <button class="nav-link {{ if eq $index 0 }}active{{ end }}" id="signals-tab" data-bs-toggle="tab" data-bs-target="#{{ .platform }}" type="button" role="tab" aria-controls="signals" aria-selected="{{ if eq $index 0 }}true{{ else }}false{{ end }}">{{ .platform }}</button>
           </li>
         {{ end }}
       {{ end }}
