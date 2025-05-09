@@ -84,7 +84,8 @@
     "non_ai_confidence": 50,
     "final_score": 72.0,
     "reasoning": "The content primarily focuses on the technical aspects of migrating projects within Azure DevOps, which is a tool associated with DevOps practices. However, it lacks a broader discussion on the DevOps philosophy, principles, and cultural shifts. While it mentions tools and processes relevant to DevOps, it does not delve into the collaborative and continuous improvement aspects that are central to the DevOps ethos. Therefore, while it is relevant, it does not fully align with the core themes of the DevOps category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is mainly about the technical steps for moving projects in Azure DevOps, focusing on tools and processes rather than the wider DevOps culture or principles. While it’s related to DevOps in terms of tooling, it doesn’t address the collaborative or continuous improvement aspects that define the category, so it only partially fits."
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -150,7 +151,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content primarily focuses on the technical steps involved in migrating projects using Azure DevOps tools, which includes installation, configuration, and execution of migration processes. While it touches on aspects of operational practices, such as managing workflows and addressing common issues during migration, it lacks a broader discussion on strategies for enhancing operational efficiency or continuous improvement within Agile or DevOps frameworks. The depth of discussion is more procedural than strategic, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is mainly about the practical steps for migrating projects with Azure DevOps tools, detailing setup and troubleshooting. While it mentions some operational practices, it doesn’t delve into broader strategies for improving efficiency or continuous improvement in Agile or DevOps contexts. The focus is more on procedures than on strategic approaches, which limits its fit for categories centred on operational excellence."
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -162,7 +164,8 @@
     "non_ai_confidence": 30,
     "final_score": 92.0,
     "reasoning": "The content provides a comprehensive step-by-step guide on installing and configuring Azure DevOps migration tools, including detailed instructions on using command-line tools, handling exceptions, and setting up configurations. It explicitly discusses installation procedures, configuration best practices, and troubleshooting common issues, aligning closely with the key topics of the 'Install and Configuration' category. The depth of discussion is significant, covering various aspects of the installation and configuration process, which supports a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly belongs in the 'Install and Configuration' category, as it thoroughly walks users through setting up Azure DevOps migration tools. It covers installation steps, configuration details, and troubleshooting tips, making it highly relevant for anyone looking to install or configure these tools. The detailed guidance and practical advice further reinforce its fit for this category."
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -306,7 +309,8 @@
     "non_ai_confidence": 50,
     "final_score": 72.0,
     "reasoning": "The content discusses the installation and configuration of Azure DevOps tools specifically for Windows environments, including references to using Chocolatey and Winget, which are package managers for Windows. It also addresses troubleshooting issues related to command prompts in Windows. However, the primary focus is on Azure DevOps migration rather than Windows itself, which slightly reduces the confidence score. The depth of discussion regarding Windows-specific tools and configurations is substantial, but the overall emphasis on Azure DevOps migration limits its alignment with the Windows category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "While the content covers several Windows-specific tools and setup steps, its main emphasis is on Azure DevOps migration. The discussion of Windows environments and package managers is thorough, but these details serve the broader context of DevOps migration rather than focusing solely on Windows topics, making the fit with the Windows category less direct."
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -336,7 +340,8 @@
     "non_ai_confidence": 20,
     "final_score": 92.0,
     "reasoning": "The content is a detailed step-by-step guide focused on migrating projects using Azure DevOps tools. It explicitly discusses the installation and configuration of Azure DevOps migration tools, the process of setting up a migration, and troubleshooting common issues. The content aligns closely with the key topics of Azure DevOps, particularly in the context of CI/CD and project management. The depth of discussion is significant, providing technical details and practical advice, which reinforces its primary focus on Azure DevOps.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Azure DevOps category, as it thoroughly covers the migration process using Azure DevOps tools. It walks readers through installation, configuration, and troubleshooting, offering practical, technical guidance. The focus on project migration, CI/CD, and project management clearly aligns with the core themes of Azure DevOps."
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -912,7 +917,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content provides a detailed guide on migrating projects within Azure DevOps, which is a crucial aspect of software development practices, particularly in the context of CI/CD and project management. It discusses specific tools, commands, and configurations necessary for successful migration, aligning well with the core themes of software development methodologies and practices. The depth of discussion is substantial, covering various steps and common issues, although it does include some personal experiences that slightly detract from its objectivity as a purely methodological guide.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is well-suited to the software development methodologies and practices category, as it thoroughly explains the process of migrating projects in Azure DevOps. It covers essential tools, commands, and configurations, offering practical guidance. While it includes some personal anecdotes, the main focus remains on actionable steps and common challenges relevant to development workflows."
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1044,7 +1050,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content primarily focuses on the process of configuring Azure DevOps migration tools, which aligns well with the category of System Configuration. It discusses installation, initial configuration, and adjustments needed for successful migration, demonstrating a clear understanding of configuration management. The depth of discussion is substantial, providing step-by-step instructions and addressing common issues, which enhances its relevance to the category. However, while it is focused on configuration, it does not delve deeply into broader system optimisation strategies or security considerations, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the System Configuration category, as it guides users through setting up and adjusting Azure DevOps migration tools. The detailed, step-by-step instructions and troubleshooting tips clearly demonstrate configuration management, even though broader topics like optimisation or security are not covered in depth."
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -1128,7 +1135,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content provides a practical, step-by-step guide for migrating projects within Azure DevOps, which aligns with pragmatic thinking by focusing on real-world applications and problem-solving strategies. It discusses common issues and solutions encountered during the migration process, demonstrating adaptability and experience-based decision-making. However, while it touches on relevant themes, the primary focus is on the technical execution of migration rather than a broader discussion of Agile or Scrum principles, which slightly limits its alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it offers a hands-on, solution-oriented guide to Azure DevOps project migration, showcasing practical problem-solving and adaptability. While it doesn’t delve deeply into Agile or Scrum methodologies, its emphasis on real-world challenges and actionable steps reflects a pragmatic approach, making it relevant for those seeking applied guidance rather than theoretical discussion."
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -1612,7 +1620,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content provides a detailed, step-by-step guide on the Azure DevOps migration process, effectively outlining the methodical procedures necessary for a successful project transfer. It includes specific instructions for setting up migration tools, configuring migration files, connecting projects, and executing the migration, all of which are aligned with the structured procedures defined within the 'Method' category. Each aspect of the guide is presented in a clear, procedural format, directly addressing the key topics associated with methods in the context of migration. There are a sufficient number of direct mentions related to methodological steps, which reinforces the primary focus of the content on the method itself.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Method' category, as it walks readers through the Azure DevOps migration process in a structured, step-by-step manner. The guide focuses on practical instructions and procedural details, ensuring users can follow along easily. Its emphasis on clear, actionable steps and methodical organisation makes it an excellent example of method-focused content."
   },
   "Model": {
     "resourceId": "Qt1Ywu_KLrc",
@@ -1690,7 +1699,8 @@
     "non_ai_confidence": null,
     "final_score": 88.0,
     "reasoning": "The content provides a detailed guide on migrating projects using Azure DevOps migration tools, including installation, setup, configuration, and execution. It directly mentions specific tools and techniques relevant to the migration process which are vital for Agile and DevOps practices. The focus on addressing common issues and providing clear instructions aligns well with the category's emphasis on tools that facilitate workflows and improve team collaboration. The depth of technical details throughout the migration process supports a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it offers a comprehensive, step-by-step guide on using Azure DevOps migration tools. By covering installation, setup, and troubleshooting, it directly supports Agile and DevOps workflows, helping teams collaborate more effectively. The technical depth and practical focus make it highly relevant for those seeking to optimise project migration processes."
   },
   "Service Level Expectation": {
     "resourceId": "Qt1Ywu_KLrc",

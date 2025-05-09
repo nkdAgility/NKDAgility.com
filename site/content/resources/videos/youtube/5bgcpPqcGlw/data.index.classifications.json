@@ -9,7 +9,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the practices and principles of Site Reliability Engineering (SRE) within the context of Azure DevOps, which aligns closely with the DevOps philosophy. It discusses key elements such as automation, incident response, and cross-functional teams, all of which are core to effective DevOps implementation. The depth of discussion is substantial, providing detailed insights into how these practices enhance reliability and agility, thus reinforcing the DevOps ethos. The content does not merely mention DevOps but integrates its principles throughout the narrative, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the DevOps category, as it thoroughly explores Site Reliability Engineering within Azure DevOps. It delves into essential DevOps themes like automation, incident management, and collaborative teams, offering detailed insights. The consistent integration of DevOps principles throughout the discussion clearly demonstrates its relevance to the category."
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -33,7 +34,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses principles of site reliability engineering, automation, and continuous improvement, which are core themes of engineering excellence. It highlights best practices in transparency, telemetry, and collaboration within engineering teams, aligning well with the category's focus on high standards in software craftsmanship. The depth of discussion is significant, providing detailed insights into how the Azure DevOps team implements these practices to enhance their engineering processes and deliver quality software. Overall, the content is a strong fit for the 'Engineering Excellence' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the 'Engineering Excellence' category, as it delves into key topics like site reliability engineering, automation, and ongoing improvement. It also covers best practices in transparency and teamwork, offering valuable insights into how high standards are maintained within engineering teams to deliver quality software."
   },
   "Leadership": {
     "category": "Leadership",
@@ -87,7 +89,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of telemetry data collection and its role in monitoring system performance, which aligns with the core themes of metrics and learning. It also highlights the significance of incident response and continuous improvement, showcasing a structured approach to learning from past mistakes. However, while metrics are mentioned, the overall focus leans more towards site reliability engineering practices rather than a deep exploration of metrics and learning principles. The discussion is substantial but not exhaustive, leading to a high confidence score without reaching the maximum.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it covers telemetry and data collection, which are central to metrics and learning. It also touches on incident response and ongoing improvement, reflecting a learning-oriented mindset. However, the main emphasis is on site reliability engineering rather than an in-depth analysis of metrics and learning, so while relevant, it doesn’t fully explore the category’s core principles."
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -297,7 +300,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses several key aspects of engineering practices, particularly in the context of site reliability engineering (SRE) and Agile methodologies. It explicitly mentions automation, incident response, and continuous improvement, which are core themes of engineering practices. The depth of discussion is substantial, providing insights into how the Azure DevOps team implements these practices effectively. However, while it aligns well with the category, the primary focus is on SRE rather than strictly Agile engineering practices, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the engineering practices category, as it explores essential topics like automation, incident response, and continuous improvement within an SRE and Agile context. While the main emphasis is on SRE, the discussion still highlights relevant engineering methodologies, making it suitable for this classification, though with a slight caveat regarding its primary focus."
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -339,7 +343,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses site reliability engineering (SRE) within the context of software development, particularly focusing on practices that enhance system reliability and operational efficiency. It aligns well with key topics such as continuous integration, automation, and agile methodologies, demonstrating a strong conceptual alignment with the Software Development category. The depth of discussion is substantial, providing detailed insights into practices adopted by the Azure DevOps team, which further supports the primary focus on software development processes.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Software Development category, as it delves into site reliability engineering and highlights practices like automation and continuous integration. By referencing real-world examples from the Azure DevOps team, it offers practical insights into improving system reliability and operational workflows—core concerns in modern software development."
   },
   "Coaching": {
     "category": "Coaching",
@@ -384,7 +389,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses various aspects of team performance, particularly in the context of the Azure DevOps team. It highlights the importance of transparency, automation, and cross-functional teams, which are all relevant to enhancing team dynamics and collaboration. The mention of incident response and continuous improvement practices aligns well with the category's focus. However, while the content touches on these themes, it primarily centres around site reliability engineering rather than a direct exploration of team performance strategies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to team performance by addressing transparency, automation, and collaboration within the Azure DevOps team. While it references key elements like incident response and continuous improvement, its main focus is on site reliability engineering rather than directly exploring team performance strategies, making the fit somewhat indirect."
   },
   "Lean": {
     "category": "Lean",
@@ -444,7 +450,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the transformation of Microsoft from a waterfall organisation to one that embraces continuous delivery, which aligns with the concept of digital transformation. However, while it touches on aspects of agility and operational efficiency, the primary focus is on site reliability engineering and specific practices within Azure DevOps rather than a broader strategic discussion on digital transformation. The depth of discussion on digital transformation themes is limited, as it primarily revolves around operational practices rather than comprehensive strategies or case studies.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores Microsoft’s shift towards continuous delivery and site reliability engineering within Azure DevOps. While it briefly mentions digital transformation, the main emphasis is on operational improvements and specific engineering practices, rather than a broad or strategic analysis of digital transformation as a whole."
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -465,7 +472,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses various practices related to site reliability engineering and the importance of continuous improvement, which aligns with the principles of Continuous Learning. However, while it touches on learning from past mistakes and fostering a culture of improvement, it does not explicitly focus on the broader themes of knowledge sharing or growth mindset within teams. The depth of discussion on Continuous Learning concepts is moderate, but the primary focus remains on site reliability rather than a comprehensive exploration of Continuous Learning.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly centres on site reliability engineering and highlights the value of learning from past experiences and ongoing improvement. While it does reference aspects of Continuous Learning, such as reflecting on mistakes, it doesn’t delve deeply into wider themes like team knowledge sharing or cultivating a growth mindset. Therefore, its alignment with the Continuous Learning category is present but not particularly strong."
   },
   "Organisational Physics": {
     "category": "Organisational Physics",
@@ -501,7 +509,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the Azure DevOps team's practices and methodologies, providing detailed insights into their approach to site reliability engineering. It covers key elements such as transparency, telemetry, automation, and incident response, all of which are integral to Azure DevOps. The depth of discussion is significant, with practical examples and lessons learned, aligning well with the core themes of Azure DevOps. Overall, the content maintains a strong focus on Azure DevOps while also addressing broader site reliability concepts.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Azure DevOps category, as it delves into the team's specific practices and strategies around site reliability engineering. It highlights essential aspects like transparency, automation, and incident management, all within the Azure DevOps context, and offers practical examples and insights that reinforce its relevance to the category."
   },
   "Technical Mastery": {
     "category": "Technical Mastery",
@@ -513,7 +522,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses various aspects of site reliability engineering and the practices of the Azure DevOps team, which align with the principles of technical mastery. It explicitly mentions the importance of automation, incident response, and continuous improvement, which are key elements of high-quality software development. However, while it touches on these topics, the depth of technical detail could be enhanced, and some sections veer towards operational aspects rather than pure engineering practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the technical mastery category, as it covers core practices like automation, incident response, and ongoing improvement—hallmarks of strong engineering. While it could delve deeper into technical specifics, its focus on these foundational principles demonstrates a clear alignment with high-quality software development, even if some parts lean more towards operations."
   },
   "Lean Product Development": {
     "category": "Lean Product Development",
@@ -825,7 +835,8 @@
     "non_ai_confidence": 10,
     "final_score": 75.0,
     "reasoning": "The content discusses concepts of site reliability, continuous delivery, and the integration of Teams, Operations, and Engineering within Microsoft, which closely aligns with enterprise agility principles. While it focuses on specific practices within Azure DevOps, it does address larger themes of organisational structure and creating a culture of responsiveness and adaptability. However, it also includes significant detail about individual team practices and technical aspects that may not directly align with the broader organisational agility framework.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to enterprise agility as it explores how site reliability, continuous delivery, and cross-team collaboration foster adaptability within organisations. While it delves into specific Azure DevOps practices, the overarching focus on organisational structure and culture supports its fit within the enterprise agility category, even if some technical details are more narrowly focused."
   },
   "Product Backlog": {
     "category": "Product Backlog",
@@ -1281,7 +1292,8 @@
     "non_ai_confidence": 10,
     "final_score": 80.0,
     "reasoning": "The content primarily discusses strategies and practices related to deployment frequency, particularly in the context of the Azure DevOps team's practices, automation, and continuous delivery. It highlights the importance of rapid iterations and effective feedback loops, while also examining historical instances, such as the Knight Capital Group case, to illustrate the consequences of deployment issues. The ties to Agile and DevOps methodologies and mentions of metrics and best practices further reinforce its relevance to the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into deployment frequency, automation, and continuous delivery—core aspects of Agile and DevOps. By referencing real-world examples and best practices, it effectively illustrates the impact of deployment strategies and the value of rapid feedback, making it highly relevant to discussions on modern software delivery methodologies."
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -1374,7 +1386,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses Continuous Improvement in the context of incident response and post-incident reviews, highlighting the importance of learning from past mistakes and implementing improvements. However, while it touches on relevant themes, such as automation and cross-functional teams, the primary focus is on site reliability engineering and practices rather than a comprehensive exploration of Continuous Improvement principles. Therefore, while there is a significant connection, it does not fully align with the category's core themes.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to Continuous Improvement by emphasising learning from incidents and making enhancements. However, its main focus is on site reliability engineering practices rather than a thorough exploration of Continuous Improvement as a discipline. While there’s overlap, it doesn’t fully address the broader principles or methodologies central to the category."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1398,7 +1411,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of site reliability engineering and the practices of the Azure DevOps team, which align with the principles of competence in Agile and DevOps. It highlights continuous improvement, transparency, and the necessity of skill development through automation and incident response. However, while competence is a significant theme, the focus is more on operational practices rather than a deep exploration of competence as a foundational principle, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with the category as it explores how the Azure DevOps team applies site reliability engineering practices, reflecting key Agile and DevOps competencies like continuous improvement and transparency. While it touches on skill development and operational excellence, the main emphasis is on practical processes rather than an in-depth analysis of competence itself."
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1461,7 +1475,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content discusses principles related to site reliability engineering (SRE) within the context of Agile and DevOps practices, particularly focusing on elements such as transparency, automation, incident response, and continuous improvement. It emphasizes actionable principles that guide decision-making and team behavior, aligning well with the definition of principles as foundational beliefs that shape workflow and processes. However, while it covers various key elements related to principles, the focus leans more towards practices and strategies rather than deeply analyzing the specific principles themselves.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it explores foundational beliefs and guiding concepts within site reliability engineering, especially in Agile and DevOps contexts. While it touches on practical aspects like automation and incident response, its main focus is on the principles that inform these actions, making it a suitable fit, though it could delve deeper into the principles themselves."
   },
   "Project Management": {
     "resourceId": "5bgcpPqcGlw",
@@ -1500,7 +1515,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content discusses the Azure DevOps team's practices and tools related to site reliability engineering. It explicitly mentions automation, telemetry, and incident response, all of which are vital tools in the context of Agile and DevOps frameworks. The focus is on how these tools enhance team performance and support continuous improvement. While the primary focus is on practices rather than just the tools themselves, the in-depth discussion of their application and effectiveness aligns well with the category's themes.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a great fit for the category, as it explores how the Azure DevOps team leverages automation, telemetry, and incident response within site reliability engineering. By highlighting both the tools and their practical impact on team performance and continuous improvement, it clearly aligns with the core themes of Agile and DevOps practices."
   },
   "Liberating Structures": {
     "resourceId": "5bgcpPqcGlw",
@@ -1552,7 +1568,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content effectively discusses the principles and practices of Site Reliability Engineering (SRE) within the context of Azure DevOps, demonstrating a clear focus on the structured methodologies that outline professional conduct in software development and operations. The mention of key aspects such as incident management, transparency, automation, and continuous improvement reflects a systemic application of discipline principles relevant to organisational performance. However, it primarily revolves around tools and practices without diving deeply into the foundational principles inherent to the discipline, which lowers the overall alignment score slightly.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the category as it explores Site Reliability Engineering (SRE) practices in Azure DevOps, highlighting essential topics like incident management and automation. While it covers practical tools and methods, it doesn’t delve deeply into the core theoretical principles of the discipline, which slightly limits its fit. Overall, it demonstrates a strong, though not exhaustive, connection to the category."
   },
   "Artifact": {
     "resourceId": "5bgcpPqcGlw",
@@ -1578,7 +1595,8 @@
     "non_ai_confidence": null,
     "final_score": 83.0,
     "reasoning": "The content discusses site reliability engineering and emphasizes the importance of telemetry and data collection for monitoring system performance and user interactions. This aligns well with observability principles, focusing on understanding and measuring system states. The mention of transparency and incident response also indicates a commitment to improvements driven by insights gained from observability practices. However, while it covers essential elements related to observability, it lacks a more detailed exploration of specific observability tools or technologies, slightly limiting the depth score. Thus, the content clearly aligns with observability practices, providing valuable insights that pertain directly to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the observability category as it highlights the role of telemetry and data collection in monitoring systems and user behaviour. It demonstrates a clear understanding of observability principles, such as transparency and incident response, even though it doesn’t delve into specific tools. Overall, it offers relevant insights that align well with the category’s focus."
   },
   "Time to Market": {
     "resourceId": "5bgcpPqcGlw",
@@ -1604,7 +1622,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content discusses various aspects of site reliability engineering and how it integrates with agile development practices, which aligns with product development frameworks. Key topics such as continuous improvement, automation, and cross-functional teams are highlighted, showing a clear connection to product development methodologies. Although the primary focus is on site reliability rather than pure product development, it maintains a strong emphasis on practices that directly impact the product delivery lifecycle.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category because it explores how site reliability engineering complements agile product development. By focusing on continuous improvement, automation, and teamwork, it highlights practices that are essential to delivering and maintaining high-quality products, even though its main lens is reliability rather than traditional product development."
   },
   "Practice": {
     "resourceId": "5bgcpPqcGlw",
@@ -1617,7 +1636,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content primarily focuses on key practices related to Site Reliability Engineering (SRE), which directly align with the category of 'Practice.' It discusses actionable techniques such as automation, incident response, and telemetry, showing depth and a thorough understanding of how these practices contribute to a culture of continuous improvement and team performance. While it emphasizes the importance of reliability and agility in software development, the content does not stray from discussing consistent, repeatable actions that teams can adopt, thus supporting strong alignment with the Practice category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the 'Practice' category because it centres on actionable SRE techniques like automation and incident response. It offers practical guidance that teams can consistently apply, demonstrating a clear understanding of how these methods drive improvement and reliability. The focus remains on repeatable actions rather than theory, making it highly relevant to the Practice category."
   },
   "Company as a Product": {
     "resourceId": "5bgcpPqcGlw",
@@ -1643,7 +1663,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content discusses specific practices related to site reliability engineering (SRE) and how the Azure DevOps team implements these practices effectively. Key elements such as automation, incident response, transparency, and telemetry are directly related to methodical approaches in agile practices. The insights are structured around processes that enhance team performance and reliability, fitting well within the 'Method' category as they outline actionable steps and procedures. However, the content also touches on broader transformations at Microsoft and general philosophies, slightly detracting from a strict 'method' focus, which is why the confidence score is not higher.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly fits the 'Method' category because it outlines concrete SRE practices and procedures used by the Azure DevOps team, such as automation and incident response. While it also references broader organisational changes and philosophies, the primary focus remains on actionable methods that improve reliability and team performance. This justifies its classification, though some general context slightly reduces confidence."
   },
   "Unrealised Value": {
     "resourceId": "5bgcpPqcGlw",
@@ -1760,7 +1781,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content discusses the development and integration of capabilities essential for enhancing reliability and agility within the Azure DevOps team. It includes practices like transparency, automation, and incident response, which are indicative of enduring capabilities cultivated over time. While it does touch on foundational elements, such as roles and tools, these are framed within the larger context of cultivating a dependable and responsive culture. Overall, the primary focus is on how these practices contribute to ongoing capability enhancement in a team setting.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on building lasting capabilities within the Azure DevOps team. By highlighting practices like transparency, automation, and incident response, it demonstrates a focus on continuous improvement and team resilience, rather than just basic tools or roles. The emphasis is clearly on fostering a culture of reliability and agility over time."
   },
   "Service Level Expectation": {
     "resourceId": "5bgcpPqcGlw",

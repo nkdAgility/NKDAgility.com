@@ -93,7 +93,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content primarily discusses the importance of delivering usable working products within Agile frameworks, which aligns closely with product management principles. It addresses customer feedback, stakeholder engagement, and the need for continuous delivery, all of which are key aspects of product management. However, while it touches on these themes, the focus is more on Agile practices and technical implementation rather than a comprehensive exploration of product management strategies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to product management as it highlights delivering usable products, engaging stakeholders, and incorporating feedback—core product management concerns. However, its main emphasis is on Agile methods and technical execution, rather than a deep dive into product management strategy, making the fit relevant but not comprehensive."
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -144,7 +145,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of delivering a usable working product, which is a core aspect of working software. It aligns well with Agile principles, emphasising continuous delivery, feedback loops, and the need for functional software that meets user requirements. The depth of discussion is significant, covering various aspects such as bug fixing, automation, and the balance between documentation and functionality, all of which are crucial for ensuring high-quality software delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the category, as it focuses on delivering functional, usable software—a key Agile principle. It thoughtfully explores topics like bug fixing, automation, and prioritising working products over excessive documentation, all of which are essential for maintaining high-quality, user-focused software."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -345,7 +347,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content primarily focuses on the importance of delivering a usable working product within Agile practices, which aligns with the core themes of Engineering Practices. It discusses automation, feedback loops, and the need for continuous delivery, all of which are key aspects of Agile methodologies. However, while it touches on these topics, it does not delve deeply into specific engineering practices like TDD or CI/CD, which slightly lowers the depth score. Overall, the content is relevant and provides a strong argument for Agile principles, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Engineering Practices category, as it highlights essential Agile concepts like automation, feedback loops, and continuous delivery. While it doesn’t explore specific techniques such as TDD or CI/CD in detail, its focus on delivering usable products and embracing Agile principles makes it highly relevant to the category."
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -552,7 +555,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of delivering usable working products, which aligns closely with the concept of Increment in Agile. It highlights the need for continuous delivery of shippable increments, emphasises feedback loops, and addresses the significance of quality in increments. The depth of discussion on these topics is substantial, providing insights into best practices and the relationship between increments and stakeholder value. Overall, the content is highly relevant to the Increment category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Increment category, as it thoroughly explores the delivery of usable products, continuous improvement, and the value of feedback. It also delves into quality considerations and best practices, making it highly relevant for anyone interested in understanding how increments contribute to stakeholder value in Agile environments."
   },
   "Windows": {
     "category": "Windows",
@@ -606,7 +610,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of delivering usable working products and highlights the role of continuous feedback loops and automation in Agile practices. While it does not explicitly mention 'deployment frequency,' it aligns well with the core themes of optimising deployment intervals and enhancing value delivery. The depth of discussion on feedback loops and the need for iterative development supports the category, but the primary focus is more on product usability rather than deployment frequency itself.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with the category as it explores Agile principles like feedback loops and automation, which are closely linked to optimising deployment frequency. Although it doesn’t directly address deployment intervals, its emphasis on iterative development and value delivery supports the theme, making it a relevant fit, even if the main focus is on product usability."
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -729,7 +734,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content explicitly discusses Agile principles, particularly the importance of delivering usable working products and maintaining feedback loops, which are core to Agile transformation. It aligns well with Agile methodologies and practices, emphasising iterative development and responsiveness to market demands. However, while it provides substantial insights into Agile practices, it lacks a broader discussion on change management strategies and leadership roles, which are also critical aspects of Agile transformation.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Agile category, as it focuses on key Agile principles like delivering working products and fostering feedback loops. It clearly addresses iterative development and adaptability, which are central to Agile. However, it doesn’t cover wider change management or leadership topics that are also important in a full Agile transformation."
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -780,7 +786,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the importance of delivering a usable working product within Agile practices, which directly relates to operational efficiency. It discusses techniques such as continuous feedback loops, the necessity of automation, and the minimisation of documentation, all of which are key aspects of operational practices in Agile. The depth of discussion is substantial, providing practical insights and strategies for improving product delivery and reducing waste, aligning well with the core themes of the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how Agile methods enhance operational efficiency. By highlighting practices like continuous feedback, automation, and streamlined documentation, it offers practical advice for improving product delivery and minimising waste—key concerns in operational practices. The discussion is detailed and directly supports the category’s main themes."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1134,7 +1141,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of delivering usable working products and the role of continuous feedback loops in Agile practices, which directly aligns with the principles of market adaptability. It highlights the need for organisations to respond swiftly to market demands and emphasises iterative development, automation, and collaboration, all of which are crucial for enhancing market adaptability. The depth of discussion on these topics is significant, providing practical insights and a clear connection to the category's core themes.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the market adaptability category, as it thoroughly explores how Agile practices—like iterative development, automation, and ongoing feedback—help organisations quickly respond to changing market needs. The discussion is practical and clearly demonstrates how these methods support adaptability, making the connection to the category both relevant and well-supported."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1194,7 +1202,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of delivering a usable working product, which is a core principle of value delivery in Agile. It highlights the significance of continuous feedback loops and iterative development, aligning well with the category's themes. The depth of discussion is substantial, providing insights into practices that enhance customer satisfaction and business agility, such as automation and minimising documentation. Overall, the content is highly relevant to the Value Delivery category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Value Delivery category, as it focuses on producing usable products, emphasises iterative development, and highlights the role of feedback in improving outcomes. The discussion covers practical methods like automation and streamlined documentation, all of which are central to delivering value efficiently and enhancing customer satisfaction."
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1218,7 +1227,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of delivering usable working products and continuous feedback loops, which are key principles of Agile methodologies that enhance organisational agility. It emphasises the need for adaptability in response to market demands and customer feedback, aligning well with the core themes of the category. However, while it touches on these concepts, it does not delve deeply into the broader organisational strategies or cultural shifts necessary for agility, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with the category as it highlights Agile principles like delivering usable products and embracing feedback, both crucial for organisational agility. However, it mainly focuses on practical aspects rather than exploring wider strategic or cultural changes, so its coverage of the topic is somewhat limited."
   },
   "Personal": {
     "category": "Personal",
@@ -1452,7 +1462,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of delivering usable working products within Agile practices, which is a core aspect of product development. It highlights key themes such as feedback loops, iterative development, and the minimisation of risks, aligning well with the principles of Agile product development. The depth of discussion is substantial, providing detailed insights into how to effectively implement these practices, thus reinforcing its relevance to the category. Overall, the content is highly focused on product development methodologies and practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the product development category, as it thoroughly explores Agile principles like iterative delivery, feedback loops, and risk reduction. Its detailed discussion on implementing these practices demonstrates a clear focus on effective product development methodologies, making it highly relevant to the topic."
   },
   "Open Space Agile": {
     "category": "Open Space Agile",
@@ -1524,7 +1535,8 @@
     "non_ai_confidence": 30,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of delivering usable working products in Agile practices, which directly relates to the concept of Time to Market. It emphasises the need for continuous delivery, feedback loops, and automation, all of which are crucial for reducing the time taken to bring products to market. The mention of market demands and the need for swift, adaptive development further aligns with the core themes of Time to Market. However, while the content is rich in discussing Agile practices, it does not delve deeply into specific metrics or case studies related to Time to Market, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Time to Market category, as it highlights how Agile practices—like continuous delivery and rapid feedback—help speed up product releases. While it clearly connects Agile methods to faster market delivery, it doesn’t provide detailed metrics or real-world examples, so its depth on the topic is somewhat limited."
   },
   "Company as a Product": {
     "category": "Company as a Product",
@@ -1700,7 +1712,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content focuses on actionable techniques for agile practices, particularly on delivering usable products and improving feedback loops. It discusses the importance of continuous delivery and automation, aligning well with the 'Practice' category. The explicit mention of various practices related to Agile suggests a strong primary focus, while the depth of discussion around these practices provides substantial insights. The only drawback is that while it touches on practices, it does not delve into specific methodologies or structured practices like TDD or Kanban, which slightly modifies its alignment.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a great fit for the 'Practice' category, as it centres on practical agile techniques, such as continuous delivery and automation, and highlights the value of effective feedback loops. While it doesn’t explore detailed methodologies like TDD or Kanban, its focus on actionable strategies and real-world application makes it highly relevant for those interested in agile practices."
   },
   "Method": {
     "resourceId": "UnSs37BlBV7",
@@ -1752,7 +1765,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content primarily discusses actionable guidelines related to the Agile practice of delivering usable working products, emphasizing concepts like feedback loops and automation. It provides specific recommendations that align with Agile tenets, such as the focus on delivering shippable increments, continuous improvement through feedback, and the value of adaptability. The depth of the discussion around these concepts makes it a strong candidate for the 'Tenet' category, but it occasionally drifts into general advice, preventing a perfect score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is well-suited to the 'Tenet' category because it centres on core Agile principles, such as delivering usable products, embracing feedback, and fostering adaptability. While it sometimes touches on broader advice, its main focus remains on foundational Agile values and practices, making it a strong fit for this classification."
   },
   "Capability": {
     "resourceId": "UnSs37BlBV7",
