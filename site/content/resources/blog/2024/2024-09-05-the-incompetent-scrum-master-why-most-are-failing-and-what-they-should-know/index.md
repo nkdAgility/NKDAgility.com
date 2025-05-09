@@ -40,6 +40,8 @@ categories:
   - Scrum
   - Technical Leadership
   - Product Development
+sameAs:
+  - https://www.reddit.com/r/scrum/comments/1f9jjqn/the_age_of_the_incompitent_scrum_master/
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 Watermarks:
   description: 2025-05-07T12:58:35Z
