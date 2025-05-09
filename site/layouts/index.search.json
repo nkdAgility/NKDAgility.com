@@ -82,6 +82,7 @@
         "categories"  $categories
         "concepts"    $concepts
         "tags"        $tags
+        "content"     ($page.Content | jsonify)
       ) }}
     {{- end }}
   {{- end }}
