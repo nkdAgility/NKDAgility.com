@@ -330,7 +330,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the implementation of branch policies in TFVC, which is a crucial aspect of version control systems in software development. It provides detailed insights into the challenges faced when transitioning from TFVC to Git, the need for effective branch management, and the specific policies that can be applied to ensure code quality and compliance. The depth of discussion on policies such as branch locking, code reviews, and work item requirements demonstrates a strong alignment with best practices in software development, particularly in the context of collaborative development and code quality assurance.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is well-suited to the category as it thoroughly explores branch policy implementation within TFVC, highlighting its importance in software development. It addresses challenges in migrating to Git and emphasises best practices like code reviews and branch management, all of which are essential for maintaining code quality and effective team collaboration."
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -1008,7 +1009,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses branch policies in TFVC, which is a key aspect of Azure Repos. It explicitly mentions the need for policies in a TFVC context and explores the implementation of these policies in detail. The discussion aligns well with the core themes of Azure Repos, particularly in source control management and collaboration features. The depth of the discussion is significant, providing specific examples of policies and their intended use, which enhances the overall relevance to Azure Repos.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Azure Repos category, as it delves into branch policies within TFVC—a central feature of Azure Repos. By detailing policy implementation and providing practical examples, it directly addresses source control and collaboration, which are core to Azure Repos. The thorough exploration further reinforces its relevance to the category."
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1188,7 +1190,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content primarily discusses the implementation of branch policies within Team Foundation Server (TFS), which is part of the Azure DevOps suite. It provides specific details about the challenges faced when transitioning from TFVC to Git, and outlines various policies that can be applied to branches, demonstrating a clear focus on Azure DevOps functionalities. While it does not explicitly mention Azure DevOps frequently, the context and depth of the discussion align well with the category's core themes, particularly in relation to CI/CD practices and project management within Azure DevOps. The content is detailed and offers practical insights, which enhances its relevance to the Azure DevOps category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Azure DevOps category, as it delves into branch policy implementation within TFS—a key Azure DevOps component. It addresses migration challenges, policy options, and practical usage, all of which are central to Azure DevOps workflows and project management, even if the platform isn’t named directly throughout."
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1455,7 +1458,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content focuses on the implementation of branch policies in TFVC, which is a specific tool relevant to Agile practices. It discusses how these policies can be applied to streamline development processes, thus aligning closely with the category of 'Tool'. The mention of specific policies like Branch Lock and Code Review shows that the discussion is centered around practical applications of the tool. Additionally, the content provides insights into how to improve code quality using the tool, demonstrating both the functionality and aspects of effectiveness in relation to team workflows. However, while the content is extensive, it could benefit from more detail regarding comparative analyses with other tools or deeper insights into integration within Agile frameworks, hence a slightly lower score in depth. Overall, it meets the primary focus of the category well.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Tool' category, as it centres on using TFVC branch policies to enhance development workflows. By highlighting practical features like Branch Lock and Code Review, it demonstrates how the tool supports Agile practices and code quality. While it could offer more comparative or integrative insights, its focus on real-world application makes it relevant to the category."
   },
   "Liberating Structures": {
     "resourceId": "Branch-Policies-for-TFVC",
@@ -1598,7 +1602,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content primarily discusses how to implement branch policies in TFVC, detailing specific procedures such as using check-in policies and the regex model for evaluating branches. It has direct mentions of existing policies and methods for managing branches effectively, which aligns well with the category. While the discussion focuses on a specific tool (TFVC) rather than the broader structured procedural approaches typical of recognized methods, the detail provided about implementing policies and their purposes gives it relevance to the category. Thus, the confidence score reflects a good alignment with methods, though it's somewhat tool-centric.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explains how to set up and use branch policies in TFVC, including practical steps and policy examples. While it centres on a specific tool, the focus on structured procedures and policy implementation aligns well with the category’s intent. The detailed guidance demonstrates clear relevance, even if it’s not a broad, tool-agnostic overview."
   },
   "Unrealised Value": {
     "resourceId": "_26VFOA-vCe",

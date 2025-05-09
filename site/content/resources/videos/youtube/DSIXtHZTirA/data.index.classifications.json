@@ -21,7 +21,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses various aspects of performance engineering and the importance of testing in production, which aligns with the principles of experimentation in Agile workflows. It highlights the need for hypothesis-driven approaches, such as using feature flags and collecting user feedback to validate assumptions about new features. The depth of discussion on techniques like audience-based deployment and telemetry collection indicates a strong focus on experimentation. However, while experimentation is a significant theme, the content also delves into broader performance engineering concepts, which slightly dilutes its primary focus on experimentation.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the experimentation category, as it emphasises hypothesis-driven development, feature flag usage, and user feedback collection—core elements of experimentation. While it also covers broader performance engineering topics, the main discussion centres on validating assumptions and iterative testing, which are fundamental to experimentation in Agile environments."
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -96,7 +97,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses performance engineering and its impact on user satisfaction and business goals, which aligns with product management principles. However, it primarily focuses on technical implementation details and testing strategies rather than the strategic aspects of product management. While it mentions the importance of understanding customer needs and gathering feedback, these points are not the primary focus of the discussion. The depth of discussion on product management concepts is limited, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on product management by referencing user satisfaction and business objectives, but its main emphasis is on technical execution and testing. While it acknowledges the value of customer insights, the discussion doesn’t delve deeply into product management strategies, making it only a partial fit for the category."
   },
   "Agile Leadership": {
     "category": "Agile Leadership",
@@ -150,7 +152,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of performance engineering, user experience, and the iterative process of delivering software that meets customer needs. It highlights best practices for ensuring software quality and functionality, particularly through real user feedback and testing in production. The depth of discussion on continuous delivery and audience-based rollouts aligns closely with the core themes of working software, demonstrating a strong focus on delivering functional, high-quality software that meets user expectations.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it thoroughly explores how performance engineering and user feedback contribute to delivering reliable, high-quality software. By emphasising best practices, continuous delivery, and real-world testing, it clearly aligns with the goal of ensuring software works well for users and meets their needs."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -210,7 +213,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of integrating customer feedback into the product development process, particularly through the use of feature flags and telemetry to gather insights from users. It highlights the iterative nature of development and the need for real user feedback to improve product performance and user experience. While it does not explicitly label these practices as 'customer feedback loops,' the core themes of collecting, analysing, and acting on customer feedback are prevalent throughout the discussion. The depth of the examples provided, particularly the case study of Azure DevOps, further supports the alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content clearly aligns with the category, as it focuses on gathering and leveraging customer feedback to enhance product development. By emphasising tools like feature flags and telemetry, it demonstrates how real user insights drive iterative improvements, even if the term 'customer feedback loops' isn’t directly used. The detailed examples reinforce its relevance to the topic."
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -321,7 +325,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of performance engineering and its direct impact on user satisfaction, which aligns well with the principles of customer satisfaction. It highlights the need for understanding customer needs through feedback and telemetry, and it describes a process for enhancing user experience through iterative testing and deployment. However, while customer satisfaction is a significant theme, the primary focus is more on technical implementation and performance rather than a holistic view of customer satisfaction strategies. Therefore, the confidence score reflects a strong alignment with the category but acknowledges that it is not the sole focus.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores how performance engineering influences user satisfaction, emphasising the use of feedback and telemetry to improve experiences. While it touches on customer satisfaction, its main emphasis is on technical processes and performance improvements rather than broader customer satisfaction strategies. As such, it fits the category, but customer satisfaction isn’t its exclusive focus."
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -372,7 +377,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses performance engineering, testing in production, and continuous delivery, which are all integral aspects of software development practices. It provides detailed insights into methodologies for improving software performance and user experience, aligning closely with the core themes of the Software Development category. The depth of discussion is significant, as it includes specific examples and a narrative around Azure DevOps practices, demonstrating a thorough understanding of the subject matter.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Software Development category, as it delves into key practices like performance engineering, production testing, and continuous delivery. By offering practical examples and focusing on Azure DevOps, it clearly demonstrates expertise and relevance to software development methodologies and user experience improvement."
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -789,7 +795,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses various aspects of engineering excellence and technical leadership, which aligns with operational practices aimed at improving efficiency and quality. It mentions shifting left in testing and integrating user experience and security, which are relevant to process optimisation and continuous improvement. However, while it touches on these topics, the primary focus seems to be on promoting NKD Agility's services rather than providing in-depth operational strategies or metrics, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content broadly covers engineering excellence and technical leadership, touching on process optimisation and continuous improvement through practices like early testing and integrating user experience. However, its main emphasis is on showcasing NKD Agility’s offerings rather than delivering detailed operational strategies, making its fit for the category somewhat limited."
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -852,7 +859,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of technical leadership and engineering excellence, which aligns well with the principles of guiding teams and fostering a culture of quality. It mentions the need for teams to build skills and capabilities, which reflects mentoring and coaching aspects. However, while it touches on relevant topics like technical debt and quality culture, it lacks detailed exploration of agile methodologies and specific leadership strategies, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category, as it highlights the value of technical leadership and nurturing engineering excellence. It covers key themes like team development and quality culture, which are central to effective leadership. However, it could be strengthened by delving deeper into agile practices and offering more concrete leadership techniques."
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1116,7 +1124,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses methodologies and practices related to product delivery, particularly focusing on performance engineering, testing in production, and audience-based deployment strategies. It aligns well with key topics such as the importance of iterative development, effective testing, and the role of cross-functional teams. The depth of discussion is significant, providing detailed examples and insights into how to enhance product delivery through real user feedback and telemetry. Overall, the content is highly relevant to the category of Product Delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Product Delivery category, as it delves into practical approaches like performance engineering, production testing, and targeted deployments. It highlights iterative development and teamwork, offering concrete examples and insights on improving delivery through user feedback and data. The discussion is thorough and directly addresses core aspects of effective product delivery."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1188,7 +1197,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses performance engineering and testing in production, with a significant focus on Azure DevOps practices, particularly in relation to continuous delivery and audience-based rollouts. While Azure DevOps is mentioned explicitly and is a key part of the narrative, the primary focus is on performance engineering rather than a comprehensive exploration of Azure DevOps functionalities. The depth of discussion on Azure DevOps is moderate, as it provides insights into specific practices but lacks a broader overview of the suite's services or methodologies.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is best classified under performance engineering, as it centres on testing and optimisation strategies in production environments. While Azure DevOps is referenced and plays a supporting role, the main emphasis is on performance practices rather than an in-depth look at Azure DevOps itself. Therefore, it doesn’t fully align with an Azure DevOps-focused category."
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1221,7 +1231,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses performance engineering and its impact on user satisfaction, which aligns with the principles of iterative development and continuous delivery. It highlights the importance of getting feedback from real users and adapting features based on their needs, which is a key aspect of value delivery. The depth of discussion on testing in production and audience-based rollouts further supports its relevance to the category. However, while it touches on value delivery, it does not explicitly frame the entire narrative within the context of Agile or DevOps methodologies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it explores performance engineering, user feedback, and adapting features to meet user needs—all central to value delivery. While it doesn’t explicitly reference Agile or DevOps, its focus on iterative improvement and real-world testing aligns well with these practices, making it relevant, though not a perfect match."
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1401,7 +1412,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content explicitly discusses the concept of shifting left in various contexts, including testing, security, and user experience, which aligns closely with the core themes of the Shift-Left Strategy. It provides a detailed exploration of how these elements should be integrated early in the development process to enhance quality and reduce costs associated with poor products. The depth of discussion is significant, as it not only mentions shifting left but also elaborates on the importance of building a culture of quality and technical leadership within teams. Overall, the content is highly relevant and focused on the Shift-Left Strategy.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Shift-Left Strategy category, as it thoroughly explores how incorporating practices like testing, security, and user experience early in development can improve quality and reduce costs. The discussion goes beyond surface-level mentions, emphasising the importance of fostering a quality-focused culture and technical leadership, which are central to the shift-left approach."
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
@@ -1437,7 +1449,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of building skills and capabilities within teams to achieve engineering excellence, which aligns well with the concept of competence. It mentions the need for continuous improvement and transparency in dealing with technical debt, indicating a focus on quality and professionalism. However, while competence is a significant theme, the content primarily revolves around performance engineering and technical leadership, which slightly dilutes its focus on competence as a standalone topic.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on competence by highlighting skill development and continuous improvement within teams, which are key aspects of professional capability. However, its main emphasis is on performance engineering and technical leadership, making competence more of a supporting theme rather than the central focus. Thus, while relevant, the content only partially fits the competence category."
   },
   "One Engineering System": {
     "category": "One Engineering System",

@@ -126,7 +126,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the concept of 'shifting left' in software development, which aligns with digital transformation by emphasising the integration of modern practices to enhance quality and efficiency. However, while it touches on transformation and organisational change, it primarily focuses on software engineering techniques rather than broader strategic adoption of digital technologies across an organisation. The case study of Azure DevOps illustrates a successful transformation, but the overall discussion lacks depth in exploring the strategic implications of digital transformation as defined in the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores software engineering practices like 'shifting left', using Azure DevOps as an example. While it mentions digital transformation and organisational change, its primary focus is on technical methods rather than the wider strategic adoption of digital technologies, so it only partially fits the digital transformation category."
   },
   "Working Software": {
     "category": "Working Software",
@@ -138,7 +139,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the concept of 'shifting left' in software development, which aligns with the principles of delivering high-quality, functional software. It emphasises the importance of integrating quality and security from the start, which is a key aspect of working software. However, while it touches on relevant practices and benefits, it does not delve deeply into specific Agile or Scrum frameworks, nor does it provide extensive metrics or case studies directly related to working software delivery.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it highlights the value of embedding quality and security early in the development process, which supports the goal of delivering robust, functional software. However, it doesn’t go into detail about Agile or Scrum methodologies, nor does it offer in-depth examples or metrics specifically tied to working software outcomes."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -330,7 +332,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of integrating security into the software development process, which aligns with the principles of clean code and automation. It emphasises the need for refactoring to eliminate vulnerabilities and promotes a proactive approach to security, resonating with the themes of Test-Driven Development and Continuous Integration. The depth of discussion on tools like SonarQube and GitHub's security features further supports its relevance to engineering practices, although it does not explicitly mention Agile methodologies.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it highlights how embedding security into software development supports clean code and automation. By focusing on refactoring and proactive security, it aligns well with engineering best practices like Test-Driven Development and Continuous Integration, even though Agile methods aren’t directly referenced. The mention of tools such as SonarQube and GitHub’s security features further reinforces its relevance."
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -351,7 +354,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the concept of 'Security by Design' within the context of software development, emphasising the importance of integrating security practices throughout the development lifecycle. It mentions methodologies like 'shifting left' and references tools such as SonarQube and GitHub for code analysis, which are directly related to best practices in software engineering. The depth of discussion is significant, covering various aspects of security, team responsibilities, and practical examples, making it a strong fit for the Software Development category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Software Development category, as it thoroughly explores 'Security by Design' and its integration into the development process. By referencing industry tools and methodologies, and providing practical examples, it clearly addresses best practices and responsibilities relevant to software engineering professionals."
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -363,7 +367,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of integrating security into the software development process from the outset, aligning closely with the principles of software craftsmanship and quality assurance. It highlights best practices such as 'shifting left' and the need for continuous improvement in coding standards to prevent vulnerabilities. The depth of discussion on tools like SonarQube and GitHub's security features further supports the focus on engineering excellence, making it a primary topic rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores embedding security within software development, emphasising best practices and continuous improvement. The detailed discussion of tools and methodologies demonstrates a clear focus on engineering excellence, making security integration a central theme rather than a peripheral topic."
   },
   "Throughput": {
     "category": "Throughput",
@@ -489,7 +494,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses the concept of 'shifting left' in software development, which aligns with the principles of Test First Development, particularly through the mention of Test-Driven Development (TDD). However, the primary focus is on embedding quality and security from the start rather than explicitly detailing Test First Development practices. While TDD is mentioned, the overall discussion lacks depth in exploring the full scope of Test First Development principles, such as success criteria and collaboration among roles. Therefore, while there is some relevant content, it does not fully meet the criteria for a strong alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content touches on Test First Development by referencing TDD and the idea of 'shifting left', but its main emphasis is on early integration of quality and security. It doesn’t delve deeply into Test First Development practices or principles, so while there’s some overlap, it doesn’t fully fit the category."
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -570,7 +576,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content discusses practical strategies for integrating security into the software development process, emphasising the importance of shifting security considerations left in the development lifecycle. It aligns well with the core themes of pragmatic thinking by providing real-world applications of DevOps principles, such as the red-blue team exercises, and highlights the necessity of collaboration among team members to address security issues proactively. The depth of discussion is substantial, covering various tools and techniques that developers can use to prevent vulnerabilities, thus demonstrating a strong alignment with pragmatic problem-solving in complex environments.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it offers actionable advice on embedding security within software development. By focusing on real-world DevOps practices and team collaboration, it demonstrates pragmatic problem-solving. The discussion of tools and proactive strategies further reinforces its relevance to those seeking practical, effective approaches in complex development settings."
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -897,7 +904,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of integrating security into the software development process from the outset, aligning closely with the principles of software craftsmanship and engineering excellence. It highlights best practices such as 'shifting left' and the need for continuous refactoring to prevent vulnerabilities, which are core themes of Technical Mastery. The depth of discussion is significant, covering practical tools and methodologies that enhance code quality and security, thus justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Technical Mastery category, as it thoroughly explores how embedding security early in development supports software craftsmanship. It covers practical strategies like 'shifting left' and ongoing refactoring, demonstrating a deep understanding of tools and methods that improve both code quality and security. This comprehensive approach clearly aligns with the principles of technical excellence."
   },
   "Release Management": {
     "category": "Release Management",
@@ -1059,7 +1067,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the 'shift left' principle, which is closely related to product delivery methodologies, particularly in integrating quality assurance early in the development process. It highlights the importance of team accountability, iterative practices like Test-Driven Development (TDD), and continuous feedback loops, all of which are key aspects of effective product delivery. The depth of discussion on tools and techniques further supports its relevance to the category, making it a primary focus rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the product delivery category, as it delves into the 'shift left' approach and its impact on development workflows. By emphasising early quality assurance, team responsibility, and iterative methods like TDD, it clearly centres on practices that drive successful product delivery, rather than treating them as side topics."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1131,7 +1140,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses Azure DevOps in the context of security practices, specifically mentioning its tools and functionalities related to security validation and threat protection. While the primary focus is on security by design, it aligns well with Azure DevOps principles and practices, particularly in the context of CI/CD and team collaboration. The depth of discussion includes specific examples of Azure DevOps tools and their integration into security processes, which enhances the relevance to the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how Azure DevOps supports security practices within CI/CD workflows. By highlighting specific tools and their integration for security validation and threat protection, it demonstrates practical alignment with Azure DevOps principles, especially around secure development and team collaboration."
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1170,7 +1180,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of integrating security into the software development process, which aligns with the principles of Technical Excellence. It mentions practices like 'shifting left' and the need for refactoring to prevent vulnerabilities, which are relevant to engineering methodologies. However, while it touches on these topics, the focus is more on security practices rather than a comprehensive exploration of broader technical excellence principles such as TDD or CI/CD. The depth of discussion on specific methodologies is somewhat limited, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Technical Excellence category because it highlights the integration of security within software development, referencing practices like 'shifting left' and refactoring. While it addresses key engineering methods, its primary focus is on security rather than a full exploration of technical excellence topics, making the fit appropriate but not exhaustive."
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1332,7 +1343,8 @@
     "non_ai_confidence": 10,
     "final_score": 92.0,
     "reasoning": "The content explicitly discusses the Shift-Left Strategy, detailing its principles, benefits, and practical techniques for integrating quality and security early in the software development lifecycle. It provides a comprehensive overview of the concept, including real-world examples and specific methodologies like Test-Driven Development and Continuous Feedback Loops, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, covering various aspects of the strategy and its impact on software quality and team dynamics.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it thoroughly explores the Shift-Left Strategy by outlining its key concepts, advantages, and actionable methods. By including practical examples and established practices like Test-Driven Development, it clearly demonstrates how early integration of quality and security can benefit software projects, making it highly relevant and insightful for the intended topic."
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
@@ -1344,7 +1356,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the concept of 'shifting left' in software development, which aligns with Continuous Improvement principles by emphasising early quality assurance and proactive problem-solving. However, while it touches on themes of team empowerment and iterative processes, it primarily focuses on specific practices and tools rather than a broader discussion of Continuous Improvement as a philosophy. The depth of discussion on Continuous Improvement concepts is limited, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores 'shifting left' in software development, highlighting early quality checks and proactive issue resolution. While it briefly mentions team empowerment and iterative work, its main focus is on practical methods and tools rather than a comprehensive look at Continuous Improvement as a philosophy, so it only partially fits the category."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1368,7 +1381,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the concept of 'shifting left' in software development, which aligns with the principles of competence by emphasising the importance of embedding quality and security from the start. It highlights the need for continuous learning and skill development, particularly through practices like Test-Driven Development (TDD) and pair programming. However, while competence is a significant theme, the primary focus is more on processes and practices rather than a deep exploration of competence itself, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category because it explores how early integration of quality and security in software development supports competence, especially through methods like TDD and pair programming. While it touches on skill development and learning, the main emphasis is on development processes rather than an in-depth analysis of competence, making it a reasonably good, but not perfect, match."
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1404,7 +1418,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the 'shift left' approach in software development, which aligns closely with product development methodologies. It covers principles such as integrating quality and security early in the development process, which is a key aspect of Agile practices. The depth of discussion on techniques like Test-Driven Development (TDD) and Continuous Feedback Loops further supports its relevance to product development. However, while it touches on important themes, it does not explicitly frame these within a broader product development strategy, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the product development category, as it delves into practices like 'shift left', TDD, and continuous feedback—core elements of modern development methodologies. While it thoroughly covers these techniques, it could be more explicit in connecting them to overarching product development strategies, which would strengthen its alignment even further."
   },
   "Project Management": {
     "category": "Project Management",
@@ -1561,7 +1576,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content primarily focuses on the principle of 'shifting left' in software development, discussing how quality, security, and reliability should be integrated from the beginning of the development cycle. It discusses  principles like empowering teams, continuous improvement, and value delivery, which are core themes in Agile and DevOps methodologies. Additionally, the article provides insights and actionable advice on implementing these principles, with substantial depth in describing tools and techniques like Test-Driven Development (TDD) and Continuous Feedback Loops. This aligns well with the definition of principles as actionable guidelines that influence team behaviors and decision-making.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores foundational principles in software development, such as early integration of quality and security. It offers practical advice and highlights key Agile and DevOps concepts, making it highly relevant for those seeking actionable guidelines to shape team practices and decision-making."
   },
   "Tool": {
     "resourceId": "NgoP5W5y7Gs",
@@ -1652,7 +1668,8 @@
     "non_ai_confidence": null,
     "final_score": 87.0,
     "reasoning": "The content discusses several actionable techniques that enhance software development practices, particularly focusing on the 'shift left' approach. It explicitly mentions practices such as Test-Driven Development (TDD) and Pair Programming, which are directly aligned with the category 'Practice.' The discussion dives into their implementation and benefits, providing a depth of insights that can help teams improve their effectiveness. However, while the primary focus is on actionable practices, there could be a slightly increased emphasis on organizational culture rather than just individual practices, which prevents a perfect score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Practice' category, as it explores hands-on methods like TDD and Pair Programming that directly improve software development. The discussion is practical and insightful, offering clear guidance for teams. While there’s some mention of broader organisational culture, the main emphasis remains on actionable practices, making it highly relevant to this category."
   },
   "Method": {
     "resourceId": "NgoP5W5y7Gs",
@@ -1665,7 +1682,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content discusses methods like 'shifting left' which is a structured approach to integrating quality and security in software development from the outset. It provides specific procedures such as Test-Driven Development (TDD) and Pair Programming, which are concrete methods for achieving better software quality. While the piece touches on broader principles and cultural changes, the primary focus is on actionable methods, making it a strong fit for the 'Method' category, albeit with some broader implications woven in.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the 'Method' category, as it centres on practical techniques like Test-Driven Development and Pair Programming to enhance software quality. While it briefly mentions overarching principles and cultural shifts, its main emphasis is on clear, actionable steps that teams can implement, making it a strong example of method-focused guidance."
   },
   "Model": {
     "resourceId": "NgoP5W5y7Gs",

@@ -18,7 +18,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses hypothesis-driven engineering, which aligns closely with MVP principles, particularly in terms of testing ideas with minimal resources and iterating based on user feedback. It provides a real-world example from Azure DevOps that illustrates the importance of validating assumptions before committing significant resources, which is a core aspect of MVP development. However, while the MVP concept is central to the discussion, it is not explicitly labelled as such, leading to a slightly lower confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the MVP category, as it explores hypothesis-driven engineering and the value of testing ideas early with minimal investment—key MVP principles. The Azure DevOps example reinforces the importance of validating assumptions before scaling. While the term \"MVP\" isn’t directly used, the underlying approach and mindset clearly align with MVP methodology."
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -120,7 +121,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content discusses practical strategies for maximising product value through hypothesis-driven engineering, which aligns well with pragmatic thinking. It provides a real-world example from Azure DevOps, illustrating the application of Agile principles in a complex environment. The emphasis on learning from failure and adapting based on customer feedback further supports the core themes of adaptability and practical problem-solving. However, while the content is rich in practical application, it could delve deeper into specific Agile or Scrum methodologies to enhance its alignment.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it focuses on actionable strategies and real-world examples that highlight practical problem-solving and adaptability. By showcasing how hypothesis-driven engineering and customer feedback drive value, it embodies pragmatic thinking, even though it could expand further on specific Agile or Scrum techniques for a more comprehensive match."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -153,7 +155,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses hypothesis-driven engineering, which is a method that fosters innovation by encouraging experimentation and learning from failures. It explicitly mentions the importance of running small experiments and measuring progress, aligning well with the core themes of innovation capability. The real-world example from Azure DevOps illustrates successful innovation practices and the need for rapid testing and validation, further enhancing the depth of discussion. However, while innovation is a primary focus, the content does not delve deeply into metrics for assessing innovation capability or specific strategies for enhancing organisational innovation capacity, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the innovation capability category, as it highlights the value of experimentation, learning from failure, and rapid testing—key aspects of fostering innovation. The Azure DevOps example reinforces these points. However, it doesn’t explore detailed metrics or concrete strategies for measuring or boosting innovation within organisations."
   },
   "Strategy": {
     "category": "Strategy",
@@ -165,7 +168,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses strategic allocation of resources and the importance of hypothesis-driven engineering, which aligns well with Agile principles. It provides a detailed approach to maximising product value through strategic experimentation and learning from failures, reflecting a strong understanding of strategic alignment and continuous improvement. However, while it touches on Agile concepts, it does not delve deeply into specific Agile frameworks like Scrum or DevOps, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with the category as it emphasises resource allocation, hypothesis-driven engineering, and learning from failure—all key Agile principles. While it effectively covers strategic alignment and continuous improvement, it doesn’t explore specific Agile frameworks in depth, which slightly limits its fit. Overall, it demonstrates a solid grasp of Agile concepts, though not at the framework-specific level."
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -186,7 +190,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses strategic allocation of resources to maximise value, which aligns with portfolio management principles. It mentions managing product investments and the importance of aligning efforts with desired outcomes, reflecting strategic alignment. However, while it touches on aspects of portfolio management, such as resource allocation and learning from failures, it primarily focuses on hypothesis-driven engineering and product development rather than a comprehensive portfolio management framework. Therefore, while relevant, it does not delve deeply into all aspects of portfolio management, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to portfolio management by addressing resource allocation and aligning product investments with strategic goals. However, its main emphasis is on hypothesis-driven engineering and product development, rather than providing a full overview of portfolio management practices. As such, it’s relevant but doesn’t comprehensively cover the entire category."
   },
   "Scrum Master": {
     "category": "Scrum Master",
@@ -255,7 +260,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses hypothesis-driven engineering, which aligns closely with Evidence-Based Management principles, particularly in terms of empirical decision-making and maximising value through data-informed strategies. It provides a detailed approach to managing product investments, emphasising the importance of measuring progress and learning from experiments. However, while it touches on key EBM concepts, it does not explicitly frame the discussion within the broader context of Evidence-Based Management, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the category, as it explores hypothesis-driven engineering—a method rooted in empirical decision-making and value maximisation, both central to Evidence-Based Management. While it effectively covers measurement and learning from experiments, it doesn’t directly reference the wider EBM framework, which slightly limits its fit."
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -540,7 +546,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses hypothesis-driven engineering, which aligns with Lean Startup principles, particularly in terms of running small experiments and learning from customer feedback. However, while it touches on key concepts like experimentation and learning from failure, it does not explicitly mention the Lean Startup methodology or the Build-Measure-Learn feedback loop. The depth of discussion on Lean principles is moderate, focusing more on practical application rather than theoretical underpinnings, which slightly limits its alignment with the core themes of the Lean Startup category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores hypothesis-driven engineering, a core aspect of Lean Startup thinking, by emphasising experimentation and learning from feedback. However, it doesn’t directly reference Lean Startup or its signature Build-Measure-Learn cycle, focusing more on practical application than on the methodology itself. This makes its alignment with the Lean Startup category relevant but not comprehensive."
   },
   "Asynchronous Development": {
     "category": "Asynchronous Development",
@@ -561,7 +568,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses hypothesis-driven engineering, detailing the process of identifying ideas, defining outcomes, running small experiments, and measuring progress, which aligns closely with the core themes of experimentation in Agile workflows. It provides a real-world example from Azure DevOps that illustrates the application of these concepts, demonstrating both the value of experimentation and the lessons learned from failures. The depth of discussion is substantial, covering multiple aspects of experimentation, including the importance of customer feedback and the need for rapid testing. Overall, the content is highly relevant to the category of Experimentation.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Experimentation category, as it thoroughly explores hypothesis-driven engineering and the iterative process of testing ideas. By sharing a practical Azure DevOps example, it highlights the importance of rapid experimentation, learning from outcomes, and incorporating customer feedback—key elements that define effective experimentation in Agile environments."
   },
   "Revenue per Employee": {
     "category": "Revenue per Employee",
@@ -642,7 +650,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses hypothesis-driven engineering practices, detailing the process of formulating hypotheses, conducting experiments, and learning from outcomes. It provides a clear structure for how to implement these practices and includes a real-world example that illustrates the principles of hypothesis-driven development. The depth of discussion is substantial, covering multiple aspects of the methodology, including the importance of measuring progress and learning from failures, which aligns closely with the core themes of the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the category, as it thoroughly explores hypothesis-driven engineering. It outlines the steps involved, emphasises experimentation, measurement, and learning from results. The inclusion of a practical example and detailed guidance demonstrates a deep understanding of the methodology, making it highly relevant to the category’s focus on structured, evidence-based development practices."
   },
   "Value Stream Mapping": {
     "category": "Value Stream Mapping",
@@ -663,7 +672,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses hypothesis-driven engineering, which aligns with product discovery methodologies by emphasising the importance of validating ideas through experimentation and customer feedback. It provides a detailed approach to identifying product features and measuring outcomes, which are core themes of product discovery. However, while it touches on these concepts, it does not explicitly focus on user research techniques or collaborative frameworks, leading to a slightly lower confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category as it explores hypothesis-driven engineering, a key aspect of product discovery, by highlighting the value of testing ideas and using feedback to guide development. While it covers essential principles like experimentation and outcome measurement, it doesn’t delve deeply into user research methods or teamwork practices, which slightly limits its alignment with the category."
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -819,7 +829,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses hypothesis-driven engineering practices, which aligns with the principles of continuous improvement and quality assurance in software development. However, it primarily focuses on product management and decision-making rather than specific engineering practices or coding standards. While it touches on technical debt and the importance of learning from experiments, the depth of discussion on engineering excellence is limited, making it a secondary focus rather than a primary one.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on engineering topics like technical debt and learning from experiments, but its main emphasis is on product management and decision-making. While it relates to continuous improvement, it doesn’t delve deeply into engineering practices or coding standards, so it only partially fits the engineering excellence category. The technical aspects are present but not the central focus."
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -876,7 +887,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses hypothesis-driven engineering, which aligns with evidence-based practices by emphasising data-driven decision-making and experimentation. It provides a detailed example from Azure DevOps, illustrating the application of these principles in a real-world context. The focus on measuring progress and learning from failures further supports the category's themes. However, while it touches on leadership implications, it does not explicitly centre on leadership decisions or organisational improvements, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores hypothesis-driven engineering, highlighting the importance of data, experimentation, and learning from outcomes—key aspects of evidence-based practice. The Azure DevOps example grounds these ideas in reality. While it briefly mentions leadership, the main emphasis is on technical processes rather than organisational or leadership strategies, making the fit strong but not absolute."
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -906,7 +918,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses hypothesis-driven engineering practices, which are integral to product management. It highlights the importance of aligning product development with customer needs and business objectives, showcasing techniques for prioritising investments based on value. The discussion includes examples from Microsoft, illustrating the strategic decision-making process in product management. The depth of the analysis, including the evaluation of outcomes and learning from failures, aligns well with the core themes of product management, thus justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the product management category, as it delves into hypothesis-driven engineering and strategic decision-making—key aspects of the field. By focusing on aligning development with customer and business goals, and using real-world examples, it clearly demonstrates core product management principles and practices, making the classification highly appropriate."
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1053,7 +1066,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses hypothesis-driven engineering, which aligns with operational practices by emphasising experimentation, resource allocation, and learning from failures. However, it primarily focuses on product management and value maximisation rather than specific operational efficiency techniques or methodologies like Agile, DevOps, or Lean. The depth of discussion on operational practices is moderate, as it provides a real-world example but lacks detailed strategies or metrics for operational improvement.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on operational practices by highlighting the importance of experimentation and learning from failure, which are relevant to operations. However, its main focus is on product management and maximising value, rather than delving into specific operational methodologies or detailed efficiency strategies. As such, it only partially fits the operational practices category."
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1077,7 +1091,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses decision-making processes in the context of product development and investment strategies, particularly through the lens of hypothesis-driven engineering. It highlights the importance of making informed choices based on data and outcomes, which aligns with decision theory principles. However, while it touches on relevant themes, the discussion is more focused on practical applications and specific examples rather than a deep exploration of decision theory concepts. Therefore, the confidence score reflects a moderate alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to decision theory as it explores how data-driven choices are made in product development and investment, using hypothesis-driven engineering as an example. While it references decision-making principles, the focus is more on practical application than on theoretical analysis, so the fit with the category is moderate rather than strong."
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1098,7 +1113,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses hypothesis-driven engineering practices, which align with the principles of Agile methodologies and the importance of data-driven decision-making. It highlights the need for organisations to adapt quickly to market demands and customer feedback, particularly through the example of Microsoft's Azure DevOps team. However, while it touches on relevant themes, the discussion lacks depth in exploring specific strategies or methodologies that enhance market adaptability, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores how hypothesis-driven engineering supports Agile and data-informed approaches, emphasising the value of rapid adaptation to customer needs. While it references real-world examples like Microsoft’s Azure DevOps team, it could be strengthened by delving deeper into concrete strategies for improving market responsiveness."
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1110,7 +1126,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the concept of hypothesis-driven engineering and its implications for product development, which touches on the interplay between technology and organisational decision-making. However, while it mentions team dynamics and decision-making processes, it lacks a comprehensive exploration of sociotechnical systems as a primary focus. The examples provided, particularly regarding Microsoft, illustrate some sociotechnical interactions but do not delve deeply into the broader implications of organisational culture or structure on technology adoption. Overall, the content aligns with the category but does not fully meet the depth or breadth required for a higher confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content relates to the category by addressing how engineering approaches influence both technology and organisational choices, highlighting some sociotechnical interactions. However, it doesn’t thoroughly examine the wider organisational or cultural factors that shape technology use, so its fit is partial rather than comprehensive."
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1122,7 +1139,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses hypothesis-driven engineering practices, which align closely with agile methodologies that promote flexibility and responsiveness. It highlights the importance of adapting to customer feedback and learning from experiments, which are key aspects of organisational agility. The depth of discussion is substantial, providing a detailed example from Microsoft that illustrates the shift from traditional project management to a more agile approach. However, while the content is primarily focused on these themes, it does not explicitly mention 'organisational agility' as a term, which slightly lowers the direct mentions score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the organisational agility category, as it explores how hypothesis-driven engineering and adapting to feedback foster agile practices within organisations. The detailed Microsoft example effectively illustrates the transition from rigid project management to a more flexible, learning-oriented approach, even though the term 'organisational agility' isn’t directly used."
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1143,7 +1161,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of data and metrics in decision-making, particularly through the lens of hypothesis-driven engineering. It explicitly mentions the need for measuring progress towards goals and the iterative learning process involved in product development. The example of the Azure DevOps team illustrates the application of metrics in a real-world scenario, showcasing both successes and failures in learning from experiments. The depth of discussion is significant, as it covers various aspects of metrics, including their role in resource allocation and the impact of learning on future decisions. Overall, the content aligns well with the core themes of the 'Metrics and Learning' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Metrics and Learning' category, as it explores how data and metrics guide decision-making and iterative improvement in product development. By highlighting real-world examples and discussing the impact of measurement on learning and resource allocation, it demonstrates a strong focus on using metrics to drive continuous learning and better outcomes."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1155,7 +1174,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses the concept of hypothesis-driven engineering, which aligns closely with Agile principles of iterative development and customer feedback. It highlights the role of the product owner in decision-making and resource allocation, reflecting Agile practices. The depth of discussion on how to measure progress and the importance of learning from experiments further supports its relevance to Agile Product Management. However, while it touches on Agile concepts, it does not explicitly mention Agile methodologies or frameworks like Scrum, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for Agile Product Management as it explores hypothesis-driven engineering, iterative development, and the value of customer feedback—all core Agile principles. It also addresses the product owner's responsibilities and the importance of learning from experiments, reinforcing its relevance, even though it doesn’t directly reference specific Agile frameworks."
   },
   "Install and Configuration": {
     "category": "Install and Configuration",
@@ -1263,7 +1283,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses hypothesis-driven engineering practices, which align with the principles of business agility by emphasising the need for organisations to adapt and innovate based on customer feedback and market conditions. It highlights the importance of measuring outcomes and learning from experiments, which are key aspects of fostering a culture of agility. However, while the content touches on these themes, it does not delve deeply into the broader principles of business agility or provide extensive detail on strategies for fostering agility within organisations, leading to a high confidence score but not a perfect one.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the business agility category, as it focuses on hypothesis-driven engineering and the value of adapting based on feedback—core aspects of agility. While it clearly supports agile thinking and continuous improvement, it doesn’t fully explore the wider principles or detailed strategies of business agility, so it’s relevant but not exhaustive."
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1293,7 +1314,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses hypothesis-driven engineering, which aligns with product delivery methodologies by emphasising iterative development, experimentation, and customer feedback. It provides a detailed example from Azure DevOps, illustrating the importance of cross-functional collaboration and learning from failures, which are key aspects of effective product delivery. However, while it touches on relevant themes, it does not delve deeply into specific practices like Agile methodologies or CI/CD, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores hypothesis-driven engineering within product delivery, highlighting iterative development, experimentation, and the value of learning from failure. The Azure DevOps example reinforces the importance of collaboration. However, it doesn’t go in-depth on specific frameworks like Agile or CI/CD, so the fit is good but not perfect."
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1353,7 +1375,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses leadership in the context of product management and decision-making, particularly through the lens of hypothesis-driven engineering. It highlights the role of leaders, such as the product unit manager, in allocating resources and making strategic decisions that impact the organisation's direction. The discussion includes elements of fostering collaboration among teams and learning from failures, which aligns with the core themes of leadership in Agile and DevOps. However, while leadership is a significant focus, the content also delves into technical aspects of product development and specific practices, which slightly detracts from its primary alignment with the leadership category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the leadership category, as it centres on how leaders guide product management and decision-making, especially using hypothesis-driven approaches. It also explores resource allocation, team collaboration, and learning from failure—key leadership themes. While some technical details are present, the main emphasis remains on leadership within Agile and DevOps contexts."
   },
   "Social Technologies": {
     "category": "Social Technologies",
@@ -1636,7 +1659,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the principle of hypothesis-driven engineering, emphasizing its role in maximizing product value and minimizing waste, which aligns well with principles in Agile and Lean methodologies. It provides actionable insights on how to implement these principles, such as making data-driven decisions, running small experiments, and adapting based on customer feedback. However, while it focuses on actionable principles, it does not explicitly mention other core principles like self-management or continuous improvement, leading to a slightly lower alignment score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the category as it explores hypothesis-driven engineering, a key aspect of Agile and Lean practices. It offers practical advice on data-driven decisions and iterative experimentation. However, it doesn’t cover all core principles, such as self-management or ongoing improvement, so its alignment isn’t complete."
   },
   "Tool": {
     "resourceId": "Ig-HpUfQr3M",
@@ -1740,7 +1764,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content explicitly discusses hypothesis-driven engineering practices, outlining a structured method for product development that includes identifying ideas, defining outcomes, conducting experiments, and measuring progress. This aligns closely with the key topics under 'Method,' particularly in its focus on a step-by-step approach to achieving goals in development. While there may be broader implications and lessons tied to business strategy, the primary focus remains a clear procedure that fits the methodical criteria outlined, thus warranting a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Method' category, as it clearly details a systematic, step-by-step approach to product development using hypothesis-driven engineering. Its emphasis on structured processes and measurable outcomes aligns perfectly with the core aspects of methodological guidance, making the classification highly appropriate."
   },
   "Model": {
     "resourceId": "Ig-HpUfQr3M",

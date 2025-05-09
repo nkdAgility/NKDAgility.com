@@ -150,7 +150,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses DevOps practices that contribute to the delivery of high-quality software, emphasising the importance of understanding current processes and streamlining them for better outcomes. However, while it touches on aspects of working software, such as quality and delivery frequency, it does not explicitly focus on the characteristics of working software as defined in Agile and Scrum frameworks. The discussion is more about DevOps principles and practices rather than a direct exploration of working software itself.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns more with DevOps principles, focusing on process improvement and efficient software delivery. While it mentions quality and delivery frequency, it doesn’t directly address the specific attributes of working software as outlined in Agile or Scrum. Therefore, it’s better suited to discussions about DevOps practices rather than the core characteristics of working software."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -276,7 +277,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses various aspects of DevOps, including the importance of understanding the current state, streamlining practices, and aligning tools with organisational goals. It touches on strategic alignment and continuous improvement, which are core themes of the Strategy category. However, while it provides practical steps and examples, the focus is more on operational practices rather than a deep exploration of strategic frameworks within Agile, Scrum, or DevOps. Therefore, the confidence score reflects a strong but not exclusive alignment with the Strategy category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the Strategy category as it explores how DevOps practices can be strategically integrated to support organisational goals and continuous improvement. While it offers practical advice, its main emphasis is on aligning operations with broader objectives, making it a strong fit for Strategy, though not exclusively focused on high-level frameworks."
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -378,7 +380,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses various aspects of DevOps practices, touching on engineering quality, continuous delivery, and the importance of understanding current practices to improve future outcomes. However, while it mentions some principles of engineering excellence, such as quality maintenance and the need for cohesive product development, the primary focus is on the bespoke nature of DevOps services and the challenges faced by organisations. The depth of discussion on specific engineering practices is moderate, but it lacks a comprehensive exploration of established best practices in software craftsmanship.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns somewhat with the category, as it references engineering quality and continuous delivery within DevOps. However, its main emphasis is on the unique challenges and tailored nature of DevOps services, rather than a thorough exploration of established engineering best practices. As such, it only partially fits, offering some relevant insights but lacking comprehensive coverage."
   },
   "Throughput": {
     "category": "Throughput",
@@ -516,7 +519,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses various aspects of DevOps and touches on the importance of frequent delivery and quality in software releases. It highlights the need for higher quality, more frequent delivery, and the challenges organisations face in achieving this. However, while it mentions release processes and tools, the primary focus is on broader DevOps practices rather than a dedicated exploration of frequent releases. The discussion lacks specific metrics, case studies, or detailed strategies directly related to frequent releases, which limits its alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content broadly covers DevOps principles, including the value of frequent and high-quality software delivery. However, it doesn’t delve deeply into the specifics of frequent releases, such as detailed strategies, metrics, or real-world examples. As a result, while related, it doesn’t fully align with a category focused specifically on frequent release practices."
   },
   "Estimation": {
     "category": "Estimation",
@@ -588,7 +592,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses practical strategies for implementing DevOps, emphasising the importance of understanding the current state, streamlining processes, and making informed decisions. It provides real-world examples and case studies that illustrate the application of DevOps principles, aligning closely with the core themes of pragmatic thinking. The depth of discussion on overcoming compliance misconceptions and enhancing team ownership further supports its relevance to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it offers actionable DevOps strategies, real-world examples, and practical advice. By focusing on process improvement, decision-making, and team ownership, it clearly demonstrates pragmatic thinking and addresses common challenges, making it highly relevant."
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -600,7 +605,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of frequent deliveries and the role of DevOps in achieving this, particularly through ownership and streamlined processes. It mentions strategies for enhancing deployment frequency, such as automation and controlled deployments, which align well with the core themes of the category. However, while deployment frequency is a significant aspect, the content also covers broader DevOps practices and compliance issues, which slightly detracts from its primary focus on deployment frequency.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it highlights how DevOps practices, like automation and process ownership, can boost deployment frequency. While it does touch on wider DevOps topics and compliance, its main emphasis remains on strategies to deliver software more often, making it relevant to the category’s core focus."
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -768,7 +774,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses various operational practices within the context of DevOps, including the importance of understanding the current state, streamlining processes, and implementing automation. It provides detailed examples and practical steps for enhancing operational efficiency, aligning closely with the core themes of the category. The depth of discussion on evaluating and improving practices, as well as addressing compliance misconceptions, further supports a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly belongs in the DevOps category, as it thoroughly explores operational practices, process optimisation, and automation. The practical examples and actionable steps demonstrate a strong focus on improving efficiency and addressing common challenges, making it highly relevant to professionals interested in DevOps methodologies."
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -930,7 +937,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses DevOps practices and their impact on software development, touching on aspects like tooling, compliance, and ownership. However, while it aligns with some principles of technical mastery, such as streamlining processes and improving quality, it primarily focuses on organisational strategies rather than deep technical craftsmanship or engineering practices. The discussion lacks detailed exploration of software design principles or clean code practices, which are central to the Technical Mastery category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores organisational strategies within DevOps, such as tooling and compliance, rather than delving into the core aspects of technical mastery like software design or clean coding. While it touches on process improvements, it doesn’t provide the in-depth technical focus required for the Technical Mastery category, making it a better fit elsewhere."
   },
   "Release Management": {
     "category": "Release Management",
@@ -1101,7 +1109,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses various aspects of DevOps, which is closely related to product delivery, particularly in terms of deployment practices, quality assurance, and the integration of development and operations. It highlights the importance of understanding current practices, improving delivery processes, and maintaining quality, which aligns well with the core themes of product delivery. However, the primary focus is on DevOps rather than a comprehensive exploration of product delivery methodologies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores DevOps, focusing on deployment, quality assurance, and bridging development with operations. While these topics are highly relevant to product delivery, the emphasis remains on DevOps practices rather than a broad overview of product delivery as a whole. Therefore, it fits the category, but with some reservations due to its narrower focus."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1146,7 +1155,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses various aspects of DevOps and its impact on organisational performance, which aligns with the principles of market adaptability. It highlights the importance of understanding current practices, identifying waste, and improving delivery processes, all of which contribute to an organisation's ability to respond to market changes. The mention of continuous delivery, feedback loops, and the need for collaboration between teams further supports the alignment with market adaptability. However, while the content is rich in detail regarding DevOps practices, it does not explicitly focus on broader market adaptability strategies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the market adaptability category, as it explores how DevOps practices help organisations respond to change. By emphasising process improvement, collaboration, and continuous delivery, it shows how teams can better adapt to shifting market demands. However, it mainly focuses on DevOps rather than wider market adaptability strategies, so the fit isn’t perfect."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1221,7 +1231,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses various aspects of DevOps practices, touching on the importance of understanding current engineering capabilities and the need for high-quality delivery. However, while it mentions some technical practices, such as automatic deployments and the importance of quality assurance, the focus is more on the challenges and observations rather than a deep exploration of specific engineering methodologies or principles that enhance agility. The discussion lacks a structured approach to the core themes of Technical Excellence, resulting in a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content references DevOps and touches on technical practices like automated deployments and quality assurance. However, it mainly highlights challenges and general observations rather than delving into specific engineering methods or principles that drive Technical Excellence. As a result, it only partially aligns with the category, lacking a focused or structured exploration of the core topic."
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1254,7 +1265,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses various aspects of DevOps, touching on the interplay between technology and organisational structures, such as team dynamics and the impact of organisational culture on technology adoption. However, while it mentions some sociotechnical principles, the primary focus remains on technical practices and tools rather than a comprehensive exploration of sociotechnical systems. The depth of discussion on the integration of social and technical aspects is limited, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores DevOps from a technical perspective, with only brief references to sociotechnical concepts like team dynamics and organisational culture. While it acknowledges the influence of social factors, the main emphasis is on technical tools and practices, rather than a thorough analysis of sociotechnical systems. As a result, it only partially fits the sociotechnical category."
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -1621,7 +1633,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content discusses various tools and their role in optimizing DevOps practices, especially in the context of streamlining workflows and assessing compliance. It includes mentions of tool rationalization and automated processes, indicating a focus on how tools can facilitate improvements in software delivery. However, while tools are mentioned, the content primarily emphasizes methodologies and principles of DevOps rather than providing an in-depth exploration of specific tools. Thus, while it aligns well with the category, it does not fully engage with the category's core focus on tools to the extent required for a higher confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content touches on tools within DevOps, highlighting their part in workflow optimisation and compliance. However, its main emphasis is on DevOps methodologies and principles rather than a deep dive into specific tools. While relevant to the category, it doesn’t fully centre on tools themselves, making the fit appropriate but not comprehensive."
   },
   "Values": {
     "resourceId": "sXmXT_MDXTo",
@@ -1712,7 +1725,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content provides a structured exploration of practical steps for implementing DevOps, discussing specific procedures such as conducting a State of DevOps Report, evaluating and streamlining current practices, and detailing methods to enhance ownership and quality. It directly addresses DevOps as a method for optimizing software delivery and includes actionable recommendations. However, while the primary focus is on methods, it also discusses compliance and tool usage, which detract slightly from its alignment strictly as a procedural discussion under the category of 'Method'.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content largely fits the 'Method' category, as it outlines clear, actionable steps for implementing DevOps and improving software delivery. While it does touch on related topics like compliance and tools, the main emphasis remains on practical procedures and recommendations, making it a strong example of method-focused content."
   },
   "Model": {
     "resourceId": "sXmXT_MDXTo",
@@ -1777,7 +1791,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content discusses actionable steps and principles related to DevOps, including understanding the current state, streamlining practices, and fostering ownership among teams. It references core principles such as continuous improvement and customer collaboration, highlighting how these principles can influence decision-making and team behavior. The content provides practical insights and examples, showing a good level of depth regarding the principles of DevOps, which demonstrates strong alignment with the category. However, while 'Principles' are mentioned, they are not the primary focus throughout, slightly reducing the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the DevOps Principles category, as it explores key concepts like continuous improvement, team ownership, and customer collaboration. It offers practical advice and examples, demonstrating a solid grasp of DevOps values. While principles are referenced rather than being the sole focus, the discussion still provides meaningful insights into how these principles shape effective DevOps practices."
   },
   "Service Level Expectation": {
     "resourceId": "sXmXT_MDXTo",

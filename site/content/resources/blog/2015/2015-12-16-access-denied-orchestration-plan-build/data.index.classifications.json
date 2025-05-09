@@ -18,7 +18,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses issues related to setting up a build agent and permissions within a build system, which are relevant to platform engineering. However, it primarily focuses on troubleshooting specific errors rather than providing a comprehensive discussion on platform engineering principles or practices. While it touches on aspects of internal developer platforms and automation, the depth of discussion is limited to a specific case without broader insights into enhancing developer productivity or standardisation of tools.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to platform engineering as it addresses build agent setup and permissions, which are common concerns in the field. However, the focus is mainly on resolving a particular technical issue rather than exploring broader platform engineering concepts or best practices, so its fit with the category is somewhat limited."
   },
   "Evidence Based Management": {
     "category": "Evidence Based Management",
@@ -156,7 +157,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content primarily discusses a specific technical issue related to build permissions in TFS, which is relevant to Continuous Integration practices. However, while it touches on the importance of permissions and configuration in build systems, it lacks a broader discussion on engineering methodologies or principles that enhance agility and technical excellence. The focus is more on troubleshooting rather than on the overarching themes of technical excellence, such as TDD or CI/CD practices. Therefore, while it is relevant, it does not fully align with the category's core themes.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content centres on troubleshooting a build permission issue in TFS, which is relevant to Continuous Integration. However, it doesn’t delve into broader engineering methodologies or principles that drive technical excellence, such as TDD or CI/CD best practices. Its focus is more on resolving a specific problem than on discussing overarching themes, so it only partially fits the category."
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -225,7 +227,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content provides a detailed account of a specific issue encountered while setting up a Build Agent in Azure DevOps (formerly TFS). It discusses permissions related to the Project Build Service and Project Collection Build Service, which are integral to Azure DevOps' build system. The mention of specific error messages and troubleshooting steps indicates a strong focus on Azure DevOps functionalities. The content aligns well with the key topics of Azure DevOps, particularly in the context of CI/CD and team workflows, while also providing practical insights into resolving common issues. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is highly relevant to the Azure DevOps category, as it delves into troubleshooting build agent setup and permissions—core aspects of Azure DevOps workflows. By addressing specific error messages and practical solutions, it offers valuable, actionable insights for users managing CI/CD pipelines, making it a strong fit for this classification."
   },
   "Personal": {
     "category": "Personal",
@@ -306,7 +309,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content primarily discusses a specific technical issue related to permissions in a build system, which aligns with the category of Technical Mastery. It provides insights into troubleshooting and resolving a common problem in software engineering practices, particularly in the context of build systems and permissions management. However, while it touches on important aspects of software craftsmanship, such as the need for proper configuration and understanding of build definitions, it lacks a broader discussion on best practices or methodologies that would elevate it to a higher confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Technical Mastery category as it delves into a technical challenge involving permissions within a build system. It demonstrates problem-solving and technical insight relevant to software engineering, though it doesn’t extend into broader best practices or methodologies that would further strengthen its classification."
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -420,7 +424,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses a specific issue related to permissions in a build system, which is relevant to operational practices in a DevOps context. It provides practical steps to resolve a common problem encountered during build configuration, aligning with the themes of process optimisation and continuous improvement. However, while it touches on operational efficiency, the focus is more on troubleshooting rather than broader operational strategies or metrics, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it addresses a real-world permissions issue within a build system, which is a common concern in DevOps operations. It offers actionable advice for resolving the problem, supporting process improvement. However, its focus is on troubleshooting a specific scenario rather than exploring wider operational strategies, so it only partially aligns with the broader category themes."
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -522,7 +527,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content provides a detailed account of troubleshooting a build agent setup within a software development context, specifically focusing on permissions related to Team Foundation Server (TFS). It discusses the implications of user permissions on the build process, which aligns closely with best practices in CI/CD and version control systems. The depth of the discussion is significant, as it includes specific error messages, troubleshooting steps, and configuration details, demonstrating a strong understanding of the software development lifecycle and practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it thoroughly explores troubleshooting build agent permissions in a TFS environment. It delves into error analysis, configuration, and best practices in CI/CD, showing a clear grasp of software development workflows and version control. The detailed approach highlights practical expertise relevant to professionals managing build and deployment pipelines."
   },
   "Agile Values and Principles": {
     "category": "Agile Values and Principles",
@@ -552,7 +558,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content primarily discusses issues related to setting up a build agent in TFS, focusing on permissions and configuration for build definitions. It directly mentions the build system and orchestration plans, which are relevant to modern source control practices. However, while it touches on aspects of version control and build processes, it lacks a broader discussion on methodologies or best practices in version control systems. The depth of the discussion is moderate, providing specific troubleshooting steps but not delving into overarching strategies or principles of modern source control.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it addresses practical challenges in configuring build agents within TFS, which is closely tied to source control workflows. While it offers useful troubleshooting advice, it doesn’t explore broader methodologies or best practices in version control, focusing instead on specific technical steps."
   },
   "Empirical Process Control": {
     "category": "Empirical Process Control",
@@ -702,7 +709,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses a real-world problem encountered while setting up a Build Agent, detailing the steps taken to diagnose and resolve permission issues within a TFS build system. It demonstrates practical problem-solving strategies and the application of experience-based knowledge in a complex environment, aligning well with the core themes of Pragmatic Thinking. The depth of discussion includes specific actions taken to address the issue, showcasing adaptability and critical thinking. However, while it is focused on a practical issue, it does not explicitly mention Agile, Scrum, or DevOps frameworks, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Pragmatic Thinking category, as it highlights hands-on troubleshooting and adaptive problem-solving in a technical setting. The detailed approach to resolving build agent permission issues showcases critical thinking and practical expertise, even though it doesn’t directly reference Agile, Scrum, or DevOps methodologies."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -894,7 +902,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses issues related to setting up a Build Agent and permissions within the Azure DevOps build system, specifically mentioning orchestration plans and build definitions. It provides detailed insights into troubleshooting access permissions, which is a core aspect of managing Azure Pipelines. The discussion is focused on practical implementation and configuration, aligning well with the key topics of Azure Pipelines, such as CI/CD practices and build management. The depth of the discussion is substantial, as it includes specific steps and considerations for resolving the issue, thus justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Azure Pipelines category, as it centres on configuring build agents and managing permissions within Azure DevOps. The discussion offers practical troubleshooting steps and detailed guidance, directly relating to CI/CD workflows and build management. Its focus on real-world implementation and problem-solving makes it highly relevant to users working with Azure Pipelines."
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -960,7 +969,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content primarily focuses on troubleshooting and configuring a build agent within a TFS (Team Foundation Server) environment, which directly relates to system configuration. It discusses specific permissions required for the build services, the configuration of build definitions, and the steps to resolve access issues, all of which are key aspects of system configuration. The depth of detail provided about the configuration process and the troubleshooting steps taken indicates a strong alignment with the category's core themes. The content does not deviate into unrelated topics, maintaining a clear focus on the technical aspects of system setup and configuration.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the system configuration category, as it centres on setting up and troubleshooting a TFS build agent. It covers permissions, build definitions, and resolving access issues—core elements of configuring and maintaining systems. The discussion remains technical and focused, without straying into unrelated areas, making it highly relevant to system configuration."
   },
   "Product Strategy": {
     "category": "Product Strategy",
@@ -1020,7 +1030,8 @@
     "non_ai_confidence": 50,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses a specific issue related to permissions in a build system that operates within a Windows environment, specifically referencing TFS (Team Foundation Server) and Visual Studio. It provides detailed troubleshooting steps and insights into configuration settings, which align well with the core themes of the Windows category. The direct mentions of Windows-related tools and the context of managing builds in a Windows server environment contribute to a high confidence score. However, while the content is focused on Windows, it does not delve deeply into broader Windows OS topics such as installation or system updates, which slightly lowers the depth score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Windows category, as it centres on troubleshooting permissions within a Windows-based build system using TFS and Visual Studio. The discussion is highly relevant to Windows server environments, though it doesn’t cover broader OS topics like installation or updates. Overall, its focus on Windows tools and configuration makes it well-suited to this category."
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1077,7 +1088,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content provides a detailed account of a specific issue encountered while setting up a Build Agent, including error messages and the steps taken to diagnose and resolve the problem. It explicitly discusses the troubleshooting process, including identifying permission issues and the necessary configurations to rectify them. The depth of discussion is significant, as it outlines both the symptoms of the problem and the resolution steps, aligning well with the core themes of the Troubleshooting category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Troubleshooting category because it walks through a real-world problem, shares the error details, and clearly explains the steps taken to identify and fix the issue. The focus on diagnosing and resolving technical challenges matches the core purpose of troubleshooting discussions."
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1203,7 +1215,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses issues related to permissions and build configurations within the context of TFS (Team Foundation Server), which is closely related to Azure Repos. It explicitly mentions the 'Project Collection Build Service' and 'Project Build Service', which are integral to Azure DevOps and its build system. The discussion aligns well with the category's focus on source control management and CI/CD processes. The depth of the discussion is significant, providing detailed steps to resolve a specific issue, which enhances its relevance to Azure Repos. However, it does not delve deeply into broader Azure Repos functionalities or best practices, which slightly lowers the alignment score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on permissions and build configurations within TFS, directly relating to Azure Repos and its CI/CD processes. By referencing key services and offering detailed troubleshooting steps, it demonstrates practical relevance, even though it doesn’t cover broader Azure Repos features or best practices."
   },
   "Forecasting": {
     "category": "Forecasting",
@@ -1458,7 +1471,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content specifically discusses troubleshooting issues related to TFS (Team Foundation Server) build systems, which directly aligns with the category of 'Tool' as it focuses on resolving access issues and optimizing the use of a build tool. It elaborates on the functionality and configuration of TFS in practical applications, discussing permissions and environmental setup which are essential aspects of using such tools. The depth of technical discussion, including specific error messages and resolution paths, indicates a thorough examination, justifying a high confidence score. The content primarily revolves around the tool's usage, making it a strong candidate for this classification.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the 'Tool' category, as it centres on resolving technical issues with TFS build systems. It delves into configuration, permissions, and troubleshooting, all of which are key aspects of using and optimising a software tool. The detailed technical discussion further supports its classification as tool-related content."
   },
   "Liberating Structures": {
     "resourceId": "l331AonWBuN",

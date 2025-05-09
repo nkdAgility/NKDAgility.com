@@ -69,7 +69,8 @@
     "ai_penalty_details": "none",
     "final_score": 75.0,
     "reasoning": "Direct Mentions (1.7): The article never explicitly refers to 'Organisational Physics' or systems thinking by name and makes no mention of specific frameworks or theories under this category. Conceptual Alignment (7.1): The content frequently addresses organisational structure (silos), the impact of processes (handoffs), and advocates for holistic approaches (cross-functional teams, flow, organisational hygiene), which all connect to the systems thinking principles central to Organisational Physics. However, references are slightly implicit and framed through Agile/Lean rather than explicit organisational system analysis. Depth (7.3): The discussion is more than superficial, exploring root causes (historical context, scientific management), interacting systemic issues (WIP, technical debt, morale), and holistic solutions (eliminating cruft, shift-left, continuous delivery), but it rarely uses formal systems language or analytic mapping typical in the field. Intent (7.8): The main purpose is to help organisations improve performance by changing structural and process dynamics, which aligns with the category. The intent is supportive and practical, though not overtly theorising from an Organisational Physics perspective. Audience (8.4): The writing targets business and technical leaders, Scrum Masters, and organisational practitioners—the core audience for Organisational Physics discussions. Signal (7.9): The entire piece is focused on organisational change via reducing handoffs, with little off-topic digression; nearly all content supports analysis or solutions at a system/organisational level, though the concluding engagement prompt is slightly tangential. No penalties applied: The content is current, supportive of the framing, and does not reference outdated movements or actively undermine Organisational Physics. Final score: The confidence is appropriate because while the piece substantively aligns with Organisational Physics by analysing interplay between structure, culture, and process, it is articulated primarily through Agile/Lean language and does not employ explicit systems theory vocabulary or frameworks, placing it near but not fully within the core definitional scope.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "While the article doesn’t explicitly mention 'Organisational Physics' or use formal systems thinking terminology, it strongly aligns with the category by exploring how organisational structures, processes, and culture interact. Its focus on holistic improvement and systemic issues fits the intent and audience, though the framing is more Agile/Lean than classic systems theory, placing it adjacent to but not squarely within the category."
   },
   "Coaching": {
     "category": "Coaching",
@@ -225,7 +226,8 @@
     "non_ai_confidence": 30,
     "final_score": 82.0,
     "reasoning": "The content discusses the negative impact of handoffs on agility and efficiency, aligning closely with Lean principles of minimising waste and maximising value delivery. It provides detailed insights into how handoffs introduce inefficiencies and suggests strategies for eliminating them, such as creating cross-functional teams and adopting continuous delivery practices. The emphasis on organisational hygiene and the need for a Lean-Agile mindset further supports its relevance to Lean Product Development. Overall, the content is a strong fit for the category, with a primary focus on Lean principles.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for Lean Product Development, as it explores how handoffs can hinder agility and efficiency—key Lean concerns. It offers practical advice, like forming cross-functional teams and using continuous delivery, to reduce waste. The focus on organisational practices and a Lean-Agile mindset further reinforces its alignment with Lean principles."
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -324,7 +326,8 @@
     "non_ai_confidence": 30,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the strategic implications of handoffs in Agile environments, discussing how they hinder agility and proposing solutions that align with Agile principles. It provides a detailed analysis of the costs associated with handoffs and offers actionable strategies for eliminating them, which directly relates to optimising delivery processes and enhancing team performance. The depth of discussion on cross-functional teams, continuous delivery practices, and minimising work in progress further solidifies its alignment with the Strategy category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Strategy category, as it delves into the impact of handoffs on Agile teams and explores ways to address them. By analysing the challenges and offering practical solutions, it supports process optimisation and improved team outcomes—key aspects of strategic thinking in Agile delivery. The focus on cross-functional teams and continuous delivery further reinforces its strategic relevance."
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -354,7 +357,8 @@
     "ai_penalty_details": "none",
     "final_score": 87.0,
     "reasoning": "The content directly references key Agile frameworks, most explicitly Scrum (with a link to the category), Lean, and principles from the Agile Manifesto (explicitly cited in references). The discussion centers around reducing handoffs to enhance agility, a central theme in many Agile frameworks (particularly Scrum and Lean). It references practices such as cross-functional teams, Continuous Delivery, Test-Driven Development, backlog refinement, and 'shift-left' strategies—each of which is tied directly to Agile methods. The depth is substantial: it provides explanations, root causes, concrete recommendations, and supporting references to thought leaders and primary sources (e.g., Scrum Guide, Agile Manifesto). The core intent is to illustrate how anti-patterns (like handoffs) impede the successful implementation of Agile frameworks and how to transition to practices encouraged by Agile methodologies. The audience (software teams, agile practitioners, and organisational leaders) aligns squarely with the category's focus. Almost all of the content is relevant, with only brief mentions of DevOps, collaboration tools, and automation that are nonetheless contextualized within Agile framework adoption—hence, high but not perfect signal. No penalties apply: the writing is contemporary, not satirical or critical of the category, and there are no references to obsolete or misaligned practices. Final confidence reflects strong conceptual and practical fit, deep treatment of the subject within the Agile Frameworks category, and explicit accuracy concerning the scoring dimensions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Agile Frameworks category. It thoroughly explores Agile principles, referencing Scrum, Lean, and the Agile Manifesto, and discusses practices like cross-functional teams and backlog refinement. The focus on reducing handoffs and improving agility is central to Agile, and the recommendations are well-supported and relevant for Agile practitioners and teams."
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -396,7 +400,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content discusses the negative impact of handoffs on cycle time, explicitly stating that each handoff introduces delays and increases cycle time. It aligns with the core themes of cycle time by addressing how inefficiencies and organisational silos contribute to longer delivery timelines. However, while cycle time is a significant aspect of the discussion, the primary focus is on handoffs and their implications rather than a comprehensive exploration of cycle time itself, which slightly lowers the overall confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is relevant to the category because it highlights how handoffs can extend cycle time, linking organisational inefficiencies directly to delivery delays. While the main emphasis is on handoffs rather than a full analysis of cycle time, the discussion clearly connects these concepts, making it a suitable—though not exhaustive—fit for the category."
   },
   "Engineering Practices": {
     "category": "Engineering Practices",
@@ -408,7 +413,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the negative impact of handoffs on Agile practices and highlights the importance of cross-functional teams, automation, and continuous delivery, which are core engineering practices. It provides detailed insights into how to eliminate handoffs and improve collaboration, aligning well with the principles of Agile development. However, while it touches on relevant practices, the focus on handoffs as an anti-pattern somewhat diverts from a direct discussion of clean code, TDD, and CI/CD, leading to a slightly lower confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category as it explores key Agile engineering practices like cross-functional teams, automation, and continuous delivery. While its main focus is on minimising handoffs—a recognised Agile anti-pattern—it still aligns with core principles of effective software development. However, it doesn’t delve deeply into topics like clean code, TDD, or CI/CD, which slightly reduces its direct relevance."
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -435,7 +441,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "This content is directly and specifically about software development practices, with a primary focus on organisational structures, process optimisation, and technical frameworks like Lean, Agile, Scrum, DevOps, Continuous Delivery, and TDD. The term 'software development' is explicitly mentioned multiple times, alongside related key terms (Agility, DevOps, SDLC-aligned practices), fulfilling high criteria in Direct Mentions. The Conceptual Alignment is very strong, as the piece analyzes how various anti-patterns (handoffs, silos) undermine core software engineering methodologies and how to resolve them through recognized best practices. Depth is excellent: the article goes beyond surface advice, discussing specific techniques (cross-functional teams, automation, shift-left, backlog refinement, minimising WIP), referencing foundational literature, and linking practices to broader software quality and flow objectives. The intent is overtly aligned, aiming to inform and improve software development outcomes for practitioner and management audiences. Audience Alignment is strong — the advice is specifically targeted to software professionals, team leads, and organisational change agents, not general business managers. Signal-to-Noise is very high: nearly all content is tightly focused on actionable, relevant ideas underpinned by industry-accepted frameworks, with minimal digression and strong supporting examples. There are no evident penalties: the content references modern practices, current methodologies, and respected sources, with no satire, outdated ideas, or contradiction of the category's framing. The final confidence score is thus extremely high, reflecting near-perfect fit in every dimension.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the software development category. It thoroughly explores key methodologies like Agile and DevOps, addresses common organisational challenges, and offers actionable solutions grounded in industry best practices. The focus is clearly on improving software development processes for practitioners and leaders, making it highly relevant and valuable for its intended audience."
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -687,7 +694,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content directly addresses pragmatic strategies for enhancing agility by eliminating handoffs, frequenting references to Lean, Agile, Scrum, and DevOps frameworks. While the term 'Pragmatic Thinking' isn't explicitly repeated, all practical, experience-based methods discussed are the embodiment of the category. The content aligns strongly with the definition: it recommends specific actionable steps (cross-functional teams, continuous delivery, minimising WIP, backlog refinement, shifting left, organisational hygiene), and ties these directly to observed problems and real-world scenarios. The article remains tightly focused on practical, evidence-backed interventions rather than abstract theory, provides deep and nuanced exploration of problem causes and solutions, and includes actionable advice for practitioners and leaders in technical teams. This reflects advanced engagement with the core audience (Agile/DevOps practitioners, managers, and change agents). No penalty is applied—the tone is constructive, evidence-based, and current, with references dating no further than Scrum Guide 2020. The final weighted confidence accurately reflects the article’s unwavering practical focus and relevance to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it offers practical, experience-based advice rooted in Lean, Agile, Scrum, and DevOps. It avoids theory in favour of actionable steps, directly addressing real-world challenges and solutions. The focus on evidence-backed interventions and current references makes it highly relevant for practitioners and leaders seeking pragmatic, effective strategies."
   },
   "Deployment Frequency": {
     "resourceId": "pDvDdIEi9sj",
@@ -753,7 +761,8 @@
     "ai_penalty_details": "none",
     "final_score": 76.0,
     "reasoning": "The content centers on eliminating handoffs to improve agility in software development. Continuous Delivery is directly mentioned as a recommended practice and is discussed in the context of automating testing, deployment, and reducing manual intervention (Direct Mentions: 6.4/10). There is strong conceptual alignment: the text highlights CD as a primary solution to problems caused by siloed teams and manual handoffs, referencing automation, rapid feedback, and improving quality (Alignment: 8.3/10). The exploration of CD is substantial but not the article's sole focus—the primary theme is agility and flow, with CD discussed as a key technique among several (Depth: 7.7/10). The content's intent is to inform teams how to improve agility via technical and cultural changes, with CD promoted as a crucial enabler of faster, higher-quality delivery (Intent: 8.2/10). The article is tailored for practitioners—team leads, developers, and managers working on technical process improvement—matching the likely audience for CD content (Audience: 7.6/10). While relevance is high, parts of the article discuss more general agile or lean concepts (e.g., cross-functional teams, backlog refinement, work-in-progress), resulting in a small deduction for Signal (Signal: 7.3/10). No penalties are applied—the content is current, supports the value of the category, and makes no outdated or critical references. Overall, the confidence score is high due to strong alignment and depth on CD, but not perfect because the main thrust is broader than Continuous Delivery alone.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Delivery category, as it discusses CD in depth—highlighting its role in reducing handoffs, increasing automation, and improving agility. While the main focus is broader, covering general agile practices, Continuous Delivery is presented as a key solution, making the alignment and relevance to the category clear for practitioners seeking process improvements."
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -807,7 +816,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content's primary focus is on the negative impact of handoffs in agile software development and the adoption of practices that eliminate them. Direct mentions of 'team motivation' are limited; however, one section directly discusses decreased morale, autonomy, mastery, and purpose (citing Daniel Pink), which strongly aligns with team motivation theory. The bulk of the article is oriented toward process improvement, team structure (cross-functional teams), flow, and collaboration—all highly relevant to the psychological and social aspects covered by the Team Motivation category. Depth is established through detailed examples of costs (including morale), solutions, references to authoritative frameworks (Scrum Guide, Agile Manifesto), and practical strategies like 'shift left' and collaborative refinement—demonstrating a more than superficial exploration. The intent is educational and supportive, aligned with practitioners seeking to improve both delivery and team environments. The audience clearly comprises agile practitioners and leaders interested in high-performing, collaborative teams. Signal is somewhat diluted by several process/technical prescriptions (automation, test-first, specific tools) but is generally focused on practices linked to motivation and engagement. No penalties are applied as the content uses current references and does not undermine the category framing. Final confidence reflects strong conceptual and thematic alignment, with moderate directness and a clear connection to the core audience, but reduced slightly due to an emphasis on process engineering in addition to motivational aspects.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Team Motivation category because it explores how reducing handoffs in agile teams can boost morale, autonomy, and engagement—key elements of motivation. While it also covers process improvements, the discussion ties these changes directly to team well-being and performance, making it highly relevant for agile practitioners focused on fostering motivated, collaborative teams."
   },
   "Team Performance": {
     "category": "Team Performance",
@@ -852,7 +862,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content directly references Lean in the opening and explicitly contrasts handoffs as an anti-pattern to Lean, Agile, and DevOps. It dives deep into Lean-associated ideas: minimising waste (with handoffs framed as wasteful), maximising value delivery, reducing cycle time, and organisational hygiene to avoid non-value-adding cruft. Common Lean principles—optimising flow, minimising WIP, and advocating for cross-functional teams—are thoroughly discussed. The solutions and recommendations (cross-functional teams, flow optimisation, automation, 'shift left', and continuous improvement) reflect Lean philosophy, though many are also common in Agile and DevOps, which slightly dilutes the focus from pure Lean principles. The audience aligns well: practitioners and leaders seeking process efficiency in software development, which fits Lean’s intended audience. The bulk of the content is highly relevant, though there are slight tangents referencing Agile, DevOps, and classical management (Scientific Management), and some time is spent on team morale and motivation. While depth and conceptual alignment are high, slightly less weight is given to direct, repeated mentions of Lean itself, and some techniques are discussed more under the Agile/DevOps umbrella. The article is timely and references modern practices without any contradictions of the Lean framing, so no penalties are warranted. Final confidence is high, reflecting strong conceptual and practical alignment with Lean Principles but accounting for multidisciplinarity and focus not being entirely exclusive to Lean.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Lean Principles category. It thoroughly explores Lean concepts like minimising waste, optimising flow, and reducing cycle time, while offering practical solutions rooted in Lean thinking. Although it occasionally references Agile and DevOps, the main focus remains on Lean, making it highly relevant for those interested in process efficiency and continuous improvement."
   },
   "Agile Transformation": {
     "resourceId": "pDvDdIEi9sj",
@@ -870,7 +881,8 @@
     "ai_penalty_details": "none",
     "final_score": 86.0,
     "reasoning": "The content delves deeply into challenges that inhibit Agile Transformation, specifically handoffs and their impact on agility. The piece addresses Lean and Agile principles, referencing core values (Agile Manifesto, Scrum Guide), and prescribes organizational changes such as cross-functional teams, reducing WIP, and shift-left strategies — all central to Agile Transformation initiatives. There are direct mentions of 'Agile,' 'Lean,' and the Agile Manifesto, but 'Agile Transformation' as a phrase is not prominently used, slightly lowering the 'mentions' score. Conceptual alignment is very high, as the text consistently correlates eliminating handoffs, changing team structure, and modern engineering practices to realizing true agility — all relevant to transformation. The discussion is in-depth, providing explanations, examples, and actionable recommendations across multiple levels (team, process, culture). Intent and audience are closely aligned with leaders, coaches, and practitioners involved in transformation efforts, aiming to effect meaningful change. Signal is strong, though there is minor digression detailing technical debt, morale, and historical context — relevant but not always tightly focused on the transformation dimension itself. References to current frameworks (Scrum Guide 2020, Agile Manifesto) and modern authors support the content's relevance, so no penalties for outdatedness. The overall confidence is high because the content extensively addresses mindset, process evolution, and practical strategies — all core Agile Transformation concerns — though it stops just short of naming 'agile transformation' as the central theme or using explicit transformation case studies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly aligns with the Agile Transformation category, as it explores key barriers to agility and offers practical, principle-based solutions rooted in Lean and Agile thinking. While the term 'Agile Transformation' isn’t used directly, the focus on mindset shifts, team structure, and process improvements makes it highly relevant for those leading or supporting transformation efforts. The discussion is thorough, actionable, and well-supported by current frameworks."
   },
   "Technical Debt": {
     "resourceId": "pDvDdIEi9sj",
@@ -936,7 +948,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "This content is a precise match for 'Operational Practices'. It directly addresses process optimization in Agile, Lean, and DevOps by focusing on the elimination of handoffs—a quintessential operational bottleneck. 'Handoffs' are repeatedly discussed as an anti-pattern, with detailed exploration of their detrimental effects on cycle time, quality, WIP, and morale, fully aligning with the category. The solutions are concrete, practical, and thoroughly discussed: cross-functional teams, continuous delivery, test-first practices (TDD/BDD/ATDD), minimization of WIP, backlog refinement, and organizational 'hygiene' to keep processes lean. The intent is unambiguously to inform and equip practitioners (developers, managers, teams) to improve operational performance. The intended audience is clearly practitioners and technical leaders in Agile/DevOps settings. Nearly all content is on-topic, with references and tips to deepen operational excellence. There are no outdated or contradictory elements to warrant penalties. Calibration safeguards: Scores vary subtly, with depth slightly under perfect due to 'organisational hygiene' being mentioned but not deeply explored in method. The overall confidence is extremely high, as virtually every paragraph is focused and action-oriented for operational improvement.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for 'Operational Practices' as it thoroughly explores how to optimise processes in Agile, Lean, and DevOps environments. It highlights handoffs as a key issue, offers actionable solutions, and is clearly aimed at practitioners seeking to enhance operational efficiency. The advice is practical and well-aligned with the category, making it highly relevant for technical teams and leaders."
   },
   "Backlog Refinement": {
     "resourceId": "pDvDdIEi9sj",
@@ -1149,7 +1162,8 @@
     "ai_penalty_details": "none",
     "final_score": 89.0,
     "reasoning": "The content delivers a deep, practical exploration of the technical costs of handoffs in software development and provides a robust set of engineering-focused solutions, including cross-functional teams, continuous delivery, test-first approaches, minimising WIP, and shift-left strategies. Discussion directly addresses software craftsmanship, quality, maintainability, and DevOps principles, strongly aligning with the Technical Mastery category. References to modern engineering practices, automated pipelines, and TDD/BDD/ATDD further reinforce this alignment. Direct naming of 'engineering practices', 'continuous delivery', 'technical debt', and 'DevOps' is explicit and frequent, although 'technical mastery' itself is not explicitly named (hence, the mentions score is not at the maximum). The content avoids business agility, generic team management, or non-technical agility topics, maintaining a strong technical signal-to-noise ratio. The target audience is clearly technical practitioners, though the tone is broad enough that some non-engineering roles could also find it accessible. All discussions are focused on improving technical excellence and software engineering outcomes, with a minor presence of motivational themes (e.g., references to Daniel Pink's Drive) that do not detract from substantial technical depth. No outdated practices, contradictions, or penalties were identified. The final confidence score is high and proportionate to the evidence.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Technical Mastery category, as it thoroughly explores advanced engineering practices and solutions in software development. It focuses on technical quality, maintainability, and DevOps, with clear references to modern methodologies. The discussion is aimed at technical practitioners, ensuring a high level of technical depth and relevance."
   },
   "Release Management": {
     "category": "Release Management",
@@ -1311,7 +1325,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content is centrally aligned with Enterprise Agility principles, focusing on overcoming organisational impediments (handoffs, silos, legacy structures) that inhibit agility across teams. There are direct, though not frequent, mentions of 'agility' and its impact at an organisational level, notably with calls to restructure teams (cross-functional), apply Lean/Agile/DevOps principles holistically, and to periodically remove organisational cruft in pursuit of business agility. The article discusses core mechanisms of enterprise agility, such as shifting left, optimising for flow, minimising work in progress, and prioritising value delivery over bureaucratic process. The guidance extends clearly beyond team-level and is addressed to leaders and change agents within the organisation (i.e., decision-makers concerned with broader enterprise outcomes). The discussion is in-depth, covering practical strategies and cultural shifts required for agility to thrive across the business. No obsolete practices or critical/satirical tones were detected, so no penalties were applied. The only restraint lowering the direct mention score is the infrequent explicit use of 'enterprise agility' as a term, but the concepts and level of discourse make the intent and audience highly relevant.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Enterprise Agility category. It addresses organisational barriers to agility, offers practical strategies for cross-functional collaboration, and targets leaders aiming for business-wide transformation. While explicit mentions of 'enterprise agility' are limited, the focus and depth clearly align with the category’s intent and audience."
   },
   "Lean": {
     "category": "Lean",
@@ -1359,7 +1374,8 @@
     "non_ai_confidence": 30,
     "final_score": 78.0,
     "reasoning": "The content discusses the negative impact of handoffs on agility and emphasises the importance of cross-functional teams, which aligns well with Agile principles. It provides detailed strategies for eliminating handoffs and enhancing collaboration, reflecting a strong understanding of Agile Product Management practices. However, while it touches on Agile concepts, it does not explicitly mention the role of the Product Owner or prioritisation techniques, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Agile Product Management category, as it explores how reducing handoffs and fostering cross-functional teams can boost agility—key Agile principles. While it offers practical advice on collaboration, it doesn’t directly address the Product Owner’s responsibilities or prioritisation methods, which are also central to Agile Product Management."
   },
   "Systems Thinking": {
     "resourceId": "pDvDdIEi9sj",
@@ -1413,7 +1429,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content directly discusses key aspects of Market Adaptability including the detrimental impact of handoffs on agility, value delivery, and responsiveness to market changes. It explicitly references Lean, Agile, and DevOps principles and anti-patterns, aligning deeply with the category's primary methodologies. There is thorough coverage of the challenges and costs of handoffs, solutions for eliminating them, and the benefits of cross-functional teams and continuous delivery. Examples and actionable strategies are abundant, indicating strong depth. The main intent is highly aligned, aiming to inform and support practitioners in improving adaptability, with an audience clearly targeting technical and strategic roles (developers, product owners, team leads, engineering managers). The signal-to-noise ratio is very high—nearly all sections are on-topic, actionable, and insightful, with almost no filler or tangential digressions. No penalties were applied as the content is current, positive in tone, and highly relevant.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Market Adaptability category. It thoroughly explores how handoffs hinder agility and value delivery, referencing Lean, Agile, and DevOps principles. The discussion is practical and insightful, offering actionable strategies and examples. Its focus on improving adaptability for technical and strategic audiences makes it highly relevant, with clear, on-topic information and no unnecessary content."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1434,7 +1451,8 @@
     "non_ai_confidence": 30,
     "final_score": 82.0,
     "reasoning": "The content discusses the negative impact of handoffs in software development and promotes practices that align with DevOps principles, such as cross-functional teams and automation. While it does not explicitly mention 'DevOps' frequently, it aligns well with the core themes of collaboration, flow efficiency, and shared accountability. The depth of discussion on eliminating handoffs and fostering collaboration indicates a strong connection to DevOps philosophy, though it primarily focuses on Agile practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the DevOps category, as it highlights the importance of reducing handoffs, encouraging collaboration, and improving workflow efficiency—all central to DevOps. Even though it leans on Agile practices, its emphasis on shared responsibility and automation closely aligns with DevOps principles, making the classification appropriate."
   },
   "Azure DevOps": {
     "resourceId": "pDvDdIEi9sj",
@@ -1470,7 +1488,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "This content is strongly aligned with the Business Agility category. While the article does not repeatedly mention the exact phrase 'business agility', it is heavily focused on the core principles, such as enabling organisations to adapt, deliver value rapidly, and eliminating organisational barriers to flow (e.g., handoffs, silos). The discussion extends into topics crucial for business agility like cross-functional teams, automation, continuous delivery, shift-left strategies, organisational hygiene, and minimising WIP. The author references key agile, lean, and DevOps practices as means to achieve greater agility, and explicitly frames handoffs as antithetical to agility, reinforcing the conceptual fit. There is original analysis, practical strategies, multiple examples, and connections to leadership and team structure—a sign of substantial depth. The intended audience (software leaders, engineers, agile coaches, organisational change agents) fits perfectly with those interested in business agility. Nearly all content is relevant, practical, and focused, with little off-topic discussion or filler. References to Daniel Pink and foundational agile texts strengthen the topical depth. There are no outdated practices, and the tone is supportive of the category, not critical or satirical, so no penalties were warranted. Although the direct mention of 'business agility' could be stronger, every other dimension is robustly covered, resulting in a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Business Agility category. It thoroughly explores how organisations can become more adaptive and responsive, discussing practical strategies like cross-functional teams, automation, and lean practices. The article is insightful, relevant, and aimed at professionals seeking to enhance agility, making it highly suitable for this category despite not frequently using the exact term."
   },
   "Kanban": {
     "category": "Kanban",
@@ -1494,7 +1513,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the negative impact of handoffs on value delivery in Agile environments, discussing how they introduce waste and reduce agility. It aligns well with key topics such as the role of cross-functional teams, continuous delivery practices, and the importance of optimising for flow. The depth of discussion is substantial, providing detailed insights into the costs of handoffs and strategies for eliminating them, which directly ties back to enhancing customer value and business agility.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how handoffs hinder value delivery in Agile settings. By highlighting the drawbacks of handoffs and offering strategies to minimise them, it directly addresses core Agile principles like cross-functional teamwork and flow optimisation, making it highly relevant for those interested in improving business agility and customer outcomes."
   },
   "Technical Excellence": {
     "resourceId": "pDvDdIEi9sj",
@@ -1512,7 +1532,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content deeply explores the impact of handoffs on software agility, frequently referencing high-level engineering practices central to technical excellence, such as TDD, CI/CD, cross-functional teams, automation, 'shift left,' and end-to-end ownership. Although the phrase 'technical excellence' is not directly mentioned, the narrative consistently connects these practices to quality, maintainability, and long-term engineering health. The discussion goes beyond tool or process recommendations, contextualizing these methods as enablers of high-performing teams and superior delivery outcomes. Audience targeting aligns with practitioners and leaders seeking to improve engineering practices, and the signal-to-noise ratio is high given the content's focus. There are no outdated practices or penalties required. Minor deductions in 'mentions' occur due to the lack of explicit use of the term 'technical excellence,' but 'alignment,' 'depth,' 'intent,' 'audience,' and 'signal' scores are all strong, justifying a confidence score in the low 80s.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'technical excellence' category. It thoroughly discusses advanced engineering practices and their role in improving software quality and team performance, even though it doesn’t use the exact term. The focus is clear and relevant for professionals aiming to enhance engineering standards, making it highly suitable for this classification."
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1542,7 +1563,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the negative impact of handoffs on software development, highlighting the importance of cross-functional teams and collaboration, which aligns with sociotechnical principles. However, while it touches on organisational structures and team dynamics, it primarily focuses on the technical aspects of eliminating handoffs without deeply exploring the broader sociotechnical interactions or organisational culture. Thus, while relevant, it does not fully meet the criteria for a primary focus on sociotechnical systems.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content addresses how reducing handoffs can benefit software development, referencing teamwork and collaboration. While it mentions some sociotechnical elements, its main emphasis is on technical improvements rather than a comprehensive exploration of sociotechnical systems or organisational culture. Therefore, it only partially fits the sociotechnical category."
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -1575,7 +1597,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses the negative impact of handoffs on agility and efficiency, which aligns with the principles of Value Stream Management by highlighting waste and the need for optimising flow. However, it primarily focuses on the concept of handoffs rather than a comprehensive exploration of Value Stream Management itself. While it touches on related themes, such as cross-functional teams and continuous improvement, it does not delve deeply into the broader strategies or metrics associated with Value Stream Management.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to Value Stream Management by addressing how handoffs can hinder agility and efficiency, which are key concerns in optimising value streams. However, it mainly centres on handoffs rather than providing a thorough overview of Value Stream Management practices, strategies, or metrics, so its fit with the category is partial rather than comprehensive."
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -1665,7 +1688,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the negative impact of handoffs on collaboration and agility, which aligns with the principles of social technologies. It emphasises the importance of cross-functional teams and continuous improvement, reflecting key themes of the category. However, while it touches on collaboration and organisational culture, the primary focus is on the technical aspects of eliminating handoffs rather than a broader discussion of social technologies as frameworks for collaboration and decision-making.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category because it highlights how reducing handoffs can enhance collaboration and agility—core aspects of social technologies. While it mainly addresses technical solutions, it still connects to broader themes like teamwork and organisational culture, making it a suitable, though not perfect, fit for the category."
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1707,7 +1731,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the concept of eliminating handoffs and mentions 'shift left' as part of a broader strategy to improve agility and quality in software development. However, while it touches on the importance of integrating quality and feedback earlier in the process, the primary focus is on the negative impacts of handoffs rather than a detailed exploration of the Shift-Left Strategy itself. The discussion lacks depth in terms of specific techniques or tools that support a Shift-Left approach, which affects the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content briefly references the Shift-Left Strategy within the context of reducing handoffs, highlighting its role in boosting agility and quality. However, it doesn’t delve into the strategy’s core principles, methods, or tools. As a result, while related, the discussion doesn’t provide enough detail to be a strong fit for the Shift-Left Strategy category."
   },
   "Continuous Improvement": {
     "resourceId": "pDvDdIEi9sj",
@@ -1725,7 +1750,8 @@
     "ai_penalty_details": "none",
     "final_score": 87.0,
     "reasoning": "The content deeply explores how eliminating handoffs contributes to greater business agility, reduced cycle times, higher quality, and team effectiveness—all aligned to the practical philosophies of Continuous Improvement. While the phrase 'Continuous Improvement' is never directly mentioned, several references to Lean, Agile, and improvement strategies, as well as cited frameworks (e.g., Test-First, WIP limits, shift-left, organizational hygiene), show strong conceptual alignment. The piece provides tangible advice, thorough analysis of underlying problems, and references empirical evidence and established literature (Scrum Guide, Agile Manifesto, etc.), satisfying a high depth of discussion. The main intent is highly consistent with fostering a culture of continuous reflection and adaptation through empirical insight and proactive action—hallmarks of Continuous Improvement. The target audience appears to be practitioners and organizational leaders interested in Lean, Agile, and improving delivery processes, well matched for this category. Signal to noise is high, with a sustained focus on eliminating handoffs, but it diverges a bit into the anti-pattern of handoffs themselves more than the overt theme of Continuous Improvement, so a small deduction is reflected there. No penalties are warranted as the content is current, non-satirical, and highly constructive. The confidence score reflects very strong category fit, slightly tempered by indirect (rather than named) mentions and some focus given specifically to antipatterns rather than continuous improvement itself.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Improvement category. It thoroughly discusses how reducing handoffs enhances agility, quality, and team performance, referencing Lean and Agile principles. While it doesn’t explicitly use the term 'Continuous Improvement', its focus on practical strategies and empirical evidence clearly supports the theme, making it highly relevant for practitioners seeking to optimise delivery processes."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1797,7 +1823,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content is a deep exploration of how handoffs negatively impact agile product development, focusing on organisational practices, Lean and Agile principles, feedback loops, and cross-functional teams—core themes of the Product Development category. It directly references Lean, Agile, DevOps, Scrum, Product Owner roles, continuous delivery, test-first practices, backlog refinement, value delivery, technical debt, and evidence-backed strategies for reducing handoffs, all of which are key to effective product development. The term 'Product Development' is explicitly mentioned near the end (product development flow), and the overall focus is consistently on improving the product development lifecycle through iterative learning, minimising risk, customer feedback, and continuous improvement. The discussion is substantial, detailed, and thoroughly targets practitioners and strategists seeking to optimise development outcomes. There is minimal unrelated content or filler, and the tone never contradicts but wholly supports the category intent. No penalties were required, as the practices referenced are current and recommended and the tone is constructive.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Product Development category. It thoroughly examines how handoffs affect agile teams, referencing Lean, Agile, and DevOps principles, and offers practical strategies for improvement. The focus on feedback loops, cross-functional teams, and continuous delivery aligns perfectly with the category, making it highly relevant for practitioners aiming to optimise product development processes."
   },
   "Project Management": {
     "resourceId": "pDvDdIEi9sj",
@@ -1815,7 +1842,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content focuses on reducing handoffs in software development to improve agility, discussing hidden costs (context loss, cycle time, quality, morale), and corrective strategies such as cross-functional teams, automation, continuous delivery, backlog refinement, and a 'shift left' approach. There is clear conceptual alignment with project management principles, especially in discussions of value delivery, organisational structure, process improvement, and lifecycle phases (planning, execution, monitoring). Though explicit use of 'project management' terminology is minimal (low mentions score), the discussion covers practical techniques, roles (team, product owner, scrum), and governance issues relevant to project management—particularly under modern, agile and hybrid frameworks. The intent aims to advance team and organisational agility, squarely relevant for practitioners or managers concerned with project delivery. Audience alignment is strong for project managers, technical leads, or agile coaches. The depth is substantial, with analytical discussion of causes/effects and actionable advice—not just surface-level. Some coverage overlaps with product/engineering management, and although the 'project management' category is not directly named, its themes and challenges permeate the piece. Overall signal is good, though some tangential references (eg. DevOps, Lean, technical practices) are present. No penalties were applied; the tone is positive, current, and methodologically inclusive.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the project management category. It explores practical strategies and challenges in software delivery, focusing on improving team agility and value delivery—core concerns for project managers. While not heavy on explicit project management terms, its themes, actionable advice, and audience alignment make it highly relevant for professionals in this field."
   },
   "Hybrid Agile": {
     "category": "Hybrid Agile",
@@ -1827,7 +1855,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the concept of 'hybrid Agile' as a problematic blend of Agile practices and traditional management, highlighting the inefficiencies and silos that arise from such an approach. It provides a critical examination of handoffs and their negative impact on agility, which aligns with the category's focus on the challenges of Hybrid Agile. However, while it touches on relevant themes, the primary focus is on handoffs rather than a comprehensive exploration of Hybrid Agile itself, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it critiques the pitfalls of combining Agile with traditional management, particularly emphasising how handoffs can undermine true agility. While it addresses key issues relevant to Hybrid Agile, its main focus is on the challenges of handoffs rather than offering a broad analysis of Hybrid Agile as a whole. This makes it a partial but relevant match for the category."
   },
   "Scaling": {
     "resourceId": "pDvDdIEi9sj",
@@ -1875,7 +1904,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the negative impact of handoffs on agility and cycle time, which are directly related to Time to Market. It highlights how handoffs introduce delays and inefficiencies, ultimately affecting the speed of delivering value. The depth of discussion includes specific strategies for eliminating handoffs and optimising processes, which aligns well with the category's focus on improving Time to Market. However, while the content is relevant, it does not explicitly frame the discussion around Time to Market metrics or provide a comprehensive exploration of the concept, leading to a slightly lower confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Time to Market category because it explores how handoffs can slow down delivery and reduce agility—both key factors in getting products to market quickly. While it offers practical strategies to address these issues, it doesn’t directly reference Time to Market metrics or provide an in-depth analysis of the concept, which slightly limits its fit."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -1972,7 +2002,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content discusses principles of effective collaboration and value delivery within Agile, Lean, and DevOps frameworks by focusing on the negative impact of handoffs on agility. It emphasizes the necessity of cross-functional teams, continuous improvement, and a shift-left strategy, showcasing a strong alignment with actionable principles. The depth of the discussion provides specific strategies for eliminating handoffs while emphasizing the importance of value delivery and self-management. This detailed exposition directly connects to principles rather than merely stating values, justifying a high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it goes beyond listing values and delves into actionable principles within Agile, Lean, and DevOps. By highlighting the drawbacks of handoffs and advocating for cross-functional teams and continuous improvement, it offers practical strategies that align closely with the core principles, making the classification highly appropriate."
   },
   "Tool": {
     "resourceId": "pDvDdIEi9sj",
@@ -2063,7 +2094,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content extensively discusses the negative impacts of handoffs in software development and emphasizes practices to eliminate them. It proposes actionable techniques such as creating cross-functional teams, adopting continuous delivery practices, leveraging test-first development, and minimizing work in progress — all of which are directly related to improving team effectiveness and collaboration. The primary focus on eliminating handoffs and the specific practices suggested align well with the 'Practice' category. The content discusses these points in considerable depth, providing both context and details on the implications of handoffs and how to mitigate them with concrete practices.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Practice' category, as it delves into practical strategies for reducing handoffs in software development. By offering detailed, actionable methods—like cross-functional teams and continuous delivery—it directly supports team effectiveness and collaboration, making its classification as 'Practice' both relevant and well-justified."
   },
   "Method": {
     "resourceId": "pDvDdIEi9sj",
@@ -2076,7 +2108,8 @@
     "non_ai_confidence": null,
     "final_score": 84.0,
     "reasoning": "The content focuses on the negative impact of handoffs in software development and emphasizes a structured approach to eliminating them, which aligns well with the category 'Method'. It discusses various specific methods like creating cross-functional teams, adopting Continuous Delivery practices, leveraging Test-First Development, and minimizing Work in Progress—all of which represent structured procedures aimed at enhancing agility. The mention of strategies and actionable steps provides clear procedural guidance, making the methods and solutions presented the primary focus of the text. However, it does touch on philosophical aspects of Agile and Lean that could dilute its strict classification as a method, resulting in a high confidence score rather than a perfect one.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Method' category, as it centres on practical steps and structured approaches to reduce handoffs in software development. By outlining specific techniques and actionable strategies, it provides clear procedural guidance, even though it briefly references broader Agile and Lean philosophies. Overall, its focus remains on methods and solutions."
   },
   "Model": {
     "resourceId": "pDvDdIEi9sj",
@@ -2115,7 +2148,8 @@
     "non_ai_confidence": null,
     "final_score": 84.0,
     "reasoning": "The content discusses the detrimental effects of handoffs in Agile environments and emphasizes strategies such as creating cross-functional teams, adopting continuous delivery practices, and minimizing work in progress, which directly align with actionable tenets in Agile and Lean methodologies. It meets the criteria for a primary focus on specific, actionable guidelines relevant to organizational decision-making and behaviors, demonstrating both conceptual alignment and depth of discussion about improving agility through concrete practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the category, as it explores practical ways to reduce handoffs in Agile settings—like forming cross-functional teams and using continuous delivery. These are actionable strategies rooted in Agile and Lean principles, offering concrete guidance for organisations aiming to boost agility and improve workflows."
   },
   "Capability": {
     "resourceId": "pDvDdIEi9sj",

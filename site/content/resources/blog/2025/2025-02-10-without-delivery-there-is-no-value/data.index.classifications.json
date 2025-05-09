@@ -9,7 +9,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of delivery in validating assumptions and transforming them into value, which aligns with hypothesis-driven development principles. It emphasises the need for frequent releases and feedback loops to test hypotheses, although it primarily focuses on delivery rather than explicitly formulating and testing hypotheses. The depth of discussion on the consequences of delayed delivery and the benefits of rapid validation supports a strong alignment with the category, but it lacks detailed exploration of specific hypothesis formulation and experimentation methods.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category as it highlights how delivery enables the validation of assumptions and the creation of value, which are key aspects of hypothesis-driven development. While it centres more on the delivery process than on explicit hypothesis formulation or experimentation, its emphasis on rapid feedback and learning demonstrates a clear connection to the category’s core principles."
   },
   "Experimentation": {
     "resourceId": "UfdnQrxv5iF",
@@ -120,7 +121,8 @@
     "ai_penalty_details": "none",
     "final_score": 73.0,
     "reasoning": "Direct mentions of 'Evidence Based Leadership' are absent; the content rarely uses the explicit phrase or category and instead focuses on empirical practices within delivery and Agile. However, the conceptual alignment is strong: the article relies heavily on metrics (DORA, Standish Group CHAOS Report, KPIs like Lead Time and CFR), evidence (Windows 8/10/11 case study), and the importance of data-driven feedback loops. The depth of discussion is high, giving detailed examples, clearly connecting rapid delivery to validated learning, value realization, and risk reduction, all core to evidence-based thinking—though primarily from an agility and delivery standpoint. The intent is to advocate for empirical approaches and using evidence to drive delivery decisions—highly relevant, though not always framed as ‘leadership’ per se, but rather at the intersection of team, organizational, and leadership concerns. The article’s main audience appears to be practitioners, scrum masters, and tech leads, but this naturally overlaps with those in leadership roles in Agile and digital environments. The signal-to-noise ratio is fairly high; most paragraphs are on topic, tightly focused on validating hypotheses with delivery and feedback. No penalty was applied as there is no outdated or contradicting material. The overall confidence is reduced only by the lack of explicit labeling and direct leadership frame, but remains high given the sustained evidence-based approach and references to leadership-related outcomes.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "While the article doesn’t explicitly use the term ‘Evidence Based Leadership’, it strongly aligns with the category by emphasising data-driven decision-making, empirical feedback, and validated learning. Its focus on metrics, case studies, and practical examples makes it highly relevant for leaders and practitioners aiming to apply evidence-based approaches, even if the leadership angle is more implicit than direct."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -210,7 +212,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content repeatedly and explicitly references the concept of working software, especially in the context of Agile and Scrum. For example, it asks, 'Are teams delivering working software to at least some subset of real users every iteration (including the first) and gathering feedback?' and discusses the importance of delivering a usable, working increment at the end of every sprint. The main theme is tightly aligned with the 'Working Software' category, emphasizing frequent delivery of usable output, validation through feedback, and links to both value and business outcomes. The discussion is deep and substantial: it examines the difference in project success rates with frequent versus infrequent delivery, cites industry reports (CHAOS, DORA), analyzes case studies (Windows 8/10/11), discusses metrics (Lead Time, CFR, MTTR), and repeatedly hammers home both the theory and practice of iterative delivery. The primary intent is to encourage and teach best practices around achieving working software as deliverable artifacts, not just as principles, ensuring strong intent and purpose fit. The audience is practitioners and stakeholders in Agile/Scrum/DevOps organizations, matching the profile for this category, though occasional references could resonate with executives as well. Signal-to-noise is high, with minimal tangential discussion and no significant filler content. The only slight reason for not full scores are (a) not every single paragraph is solely focused on the artifact of working software (some are more about value or metrics), (b) slightly less direct naming or explicit repetition of 'working software' itself than is theoretically possible. Otherwise, the content sets a clear example for this category. No penalties were applied, as the content is modern, non-satirical, and highly aligned.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Working Software' category. It centres on the delivery of usable software in Agile and Scrum contexts, highlighting frequent releases, feedback loops, and real-world validation. The discussion is practical and evidence-based, aimed at practitioners, and consistently reinforces the importance of delivering working increments, making it highly relevant to the category."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -222,7 +225,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of delivery in validating assumptions and making informed decisions based on empirical evidence. It highlights the role of frequent releases in decision-making processes, emphasising the need for feedback loops and adaptation based on real-world data. The mention of metrics like DORA and the Standish Group’s CHAOS Report supports the evidence-based approach to decision-making. The depth of discussion on the costs of delayed delivery and the risks associated with untested assumptions further aligns with the principles of structured decision-making.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the category, as it focuses on how regular delivery and feedback loops support evidence-based decision-making. By referencing industry metrics and discussing the risks of delayed releases, it demonstrates a strong alignment with structured, data-driven approaches to making informed choices and adapting strategies."
   },
   "Self Organisation": {
     "category": "Self Organisation",
@@ -255,7 +259,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content strongly emphasises the importance of delivery in realising value, which aligns closely with Lean principles of minimising waste and maximising learning. It discusses the significance of frequent releases, customer feedback, and the risks associated with delayed delivery, all of which are core themes in Lean Product Development. The depth of discussion is substantial, providing examples and metrics that illustrate the benefits of Lean practices in product development. Overall, the content is highly relevant and detailed, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the category, as it thoroughly explores Lean Product Development concepts like reducing waste, encouraging frequent releases, and leveraging customer feedback. By highlighting the risks of delayed delivery and supporting its points with practical examples and metrics, it clearly demonstrates the value of Lean principles in product development."
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -276,7 +281,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in validating assumptions and gathering customer feedback, which aligns closely with the core themes of customer feedback loops. It highlights the necessity of frequent releases for obtaining user insights and adapting based on that feedback. The depth of discussion on the consequences of delayed delivery and the benefits of iterative processes further supports its relevance to the category. However, while it strongly emphasises feedback mechanisms, it does not delve deeply into specific techniques for gathering feedback or tools, which slightly limits its alignment score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the customer feedback loops category, as it focuses on how delivery impacts the ability to validate assumptions and gather user insights. It highlights the value of frequent releases and adapting based on feedback, though it doesn’t go into detail about specific feedback methods or tools. Overall, its emphasis on iterative improvement and learning from customers makes it highly relevant to the category."
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -297,7 +303,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of delivery in Agile processes, linking it directly to transparency. It highlights how frequent releases enable inspection and adaptation, which are core principles of transparency in Agile. The depth of discussion is significant, providing examples and metrics that illustrate the impact of transparency on value realisation and team dynamics. Overall, the content aligns closely with the key themes of transparency, making it a strong candidate for this category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the transparency category, as it clearly connects Agile delivery practices to transparency. By emphasising frequent releases and their role in enabling inspection and adaptation, it demonstrates how transparency supports value realisation and effective teamwork. The detailed examples and metrics further reinforce its relevance to the theme."
   },
   "Definition of Done": {
     "resourceId": "UfdnQrxv5iF",
@@ -360,7 +367,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in Agile and Scrum frameworks, emphasising how frequent releases validate assumptions and realise value. It aligns well with strategic themes such as the integration of feedback loops, the role of leadership in fostering a strategic mindset, and the adaptation of strategies based on user feedback. The depth of discussion is significant, providing detailed examples and metrics that support the strategic approach to delivery, making it a primary focus rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores delivery within Agile and Scrum, highlighting its strategic significance. It covers key aspects like feedback integration, leadership’s influence, and adapting strategies based on user input, all supported by concrete examples and metrics. The focus on these elements demonstrates a clear alignment with the category’s core themes."
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -390,7 +398,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content directly references Agile frameworks such as Scrum and uses authoritative sources like the Standish Group CHAOS Report and DORA metrics to compare Agile and traditional (e.g., Waterfall) approaches. The discussion is conceptually well aligned with the category, focusing on frequent delivery, feedback loops, and the empirical validation core to Agile. It highlights Agile principles like transparency, adaptation, and empiricism, quoting from recognized Agile manifestos and US DOD guidance ('Detecting Agile BS'). There are explicit mentions and in-depth exploration of why frameworks such as Scrum emphasize frequent releases and the resultant organizational impact, supported by both real-world (Windows 8, 10, 11) and hypothetical examples. The primary intent is educational, aiming to inform teams/practitioners/decision-makers about the criticality of delivery within Agile. Audience targeting is toward technically literate roles (e.g., teams and leaders contemplating Agile adoption/improvement), matching the category's audience. Slightly lower scores for signal and mentions reflect that while Agile frameworks are the backbone and explicitly referenced, the bulk of the content pivots around value-delivery practices rather than comparing multiple frameworks or dissecting their unique principles at length. Nonetheless, discussion always anchors back to the frameworks' rationale and outcomes, with little irrelevant material or technical filler. No penalties were necessary: the content is current, supportive rather than critical of Agile, and fully aligns with the specified scope.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores Agile frameworks like Scrum, referencing respected sources and real-world examples. It educates a technical audience on Agile principles, focusing on delivery and feedback, and consistently ties discussions back to Agile’s core values and practices. While it centres on value delivery, it remains anchored in Agile concepts, making it highly relevant and appropriate."
   },
   "Team Collaboration": {
     "category": "Team Collaboration",
@@ -402,7 +411,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of delivery in Agile and Scrum, highlighting how frequent releases facilitate team feedback and adaptation. However, while it touches on team dynamics and the need for collaboration, it primarily focuses on the delivery process and its implications rather than explicitly exploring team collaboration techniques or dynamics. The discussion on team empowerment and feedback loops indicates some alignment with the category, but the depth of exploration on collaboration itself is limited.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly centres on Agile and Scrum delivery processes, emphasising frequent releases and feedback. While it briefly mentions team dynamics and empowerment, it doesn’t delve deeply into collaboration methods or team interactions, so it only partially aligns with the team collaboration category."
   },
   "Customer Satisfaction": {
     "resourceId": "UfdnQrxv5iF",
@@ -462,7 +472,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content primarily focuses on the importance of delivery in Agile practices, discussing how frequent releases validate assumptions and create value. It aligns well with key topics such as Continuous Integration and Continuous Delivery (CI/CD) and the principles of Agile, emphasising the need for feedback loops and adaptation. However, while it touches on Agile methodologies, it does not delve deeply into specific engineering practices like TDD or clean code, which slightly lowers the depth score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Agile category, as it highlights the value of frequent delivery and feedback loops central to Agile and CI/CD. While it effectively covers the importance of validating assumptions and adapting, it doesn’t explore detailed engineering techniques like TDD or clean code, making its focus broader rather than deeply technical."
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -489,7 +500,8 @@
     "ai_penalty_details": "none",
     "final_score": 98.0,
     "reasoning": "The content provides a comprehensive, detailed, and highly focused exploration of frequent delivery as a central principle of modern software development. Direct mentions of core software development topics are present throughout, including Agile, Scrum, SDLC practices, DevOps, releases, feedback loops, and metrics such as DORA and CFR. The main argument—'Without Delivery, There Is No Value'—is deeply grounded in the software development lifecycle, with references to real-world cases (e.g., Windows 8/10/11) and actionable guidance on continuous delivery, releases, and value realization. The discussion goes far beyond superficial mentions, analyzing risk, cost of delay, and the empirical process of delivery in software. The intended audience is clearly practitioners and leaders within technical, software-focused teams, aligning closely with the specified audience. The content is dense with relevant information, best practices, and frameworks, featuring little to no filler or unrelated topics. There are no signs of outdated information, satire, or contradiction of the category's framing. Scores are varied across dimensions (e.g., mentions are slightly lower than conceptual alignment due to focus on concepts over repeated keywording), and the signal-to-noise ratio is very high. The resulting confidence score accurately reflects exceptionally strong fit to the Software Development category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Software Development category. It thoroughly explores key industry concepts like Agile, DevOps, and delivery metrics, offering practical insights and real-world examples. The discussion is tailored for technical professionals, focusing on best practices and frameworks without digressing into unrelated topics, ensuring high relevance and value for its intended audience."
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -501,7 +513,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in software development, emphasising the need for frequent releases and feedback loops, which aligns closely with the principles of engineering excellence. It highlights best practices in Agile and Scrum methodologies, focusing on how these practices contribute to realising value and improving engineering processes. The depth of discussion on metrics like DORA and the consequences of delayed delivery further supports its relevance to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into key aspects of engineering excellence such as frequent delivery, feedback loops, and the use of Agile and Scrum practices. By exploring metrics like DORA and the impact of delayed releases, it clearly demonstrates how these approaches drive value and enhance engineering processes."
   },
   "Throughput": {
     "category": "Throughput",
@@ -513,7 +526,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of delivery in realising value and highlights the risks associated with delayed releases. While it touches on concepts related to throughput, such as the need for frequent releases and the impact of delivery on value, it does not explicitly define or calculate throughput as a metric. The focus is more on the philosophical implications of delivery rather than a detailed analysis of throughput as a delivery metric. Therefore, while there is some alignment with the category, it is not the primary focus.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns somewhat with the category, as it addresses how delivery timing affects value and mentions the benefits of frequent releases. However, it doesn’t directly define or measure throughput as a metric. Instead, it takes a broader, more conceptual approach to delivery, making throughput a secondary rather than central theme."
   },
   "Azure Pipelines": {
     "category": "Azure Pipelines",
@@ -573,7 +587,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of delivery and frequent releases in Agile and Scrum, which indirectly relates to the Product Owner's role in maximising product value. However, it lacks direct mentions of the Product Owner's responsibilities, techniques for backlog management, or stakeholder engagement, which are crucial for a higher confidence score. The focus is more on general Agile principles and the consequences of delayed delivery rather than the specific duties and strategies of a Product Owner.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly covers Agile and Scrum delivery practices, touching on themes relevant to Product Owners. However, it doesn’t directly address their specific responsibilities, such as backlog management or stakeholder collaboration. As a result, while there’s some indirect relevance, the content doesn’t strongly fit the Product Owner category."
   },
   "Change Management": {
     "category": "Change Management",
@@ -618,7 +633,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in validating product assumptions and realising value, aligning closely with the core themes of Product Validation. It highlights methodologies such as frequent releases, user feedback, and iterative testing, which are central to validating product ideas. The depth of discussion is significant, providing detailed examples and metrics that support the argument for frequent validation through delivery. Overall, the content is highly relevant to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Product Validation category, as it focuses on how delivery practices—like frequent releases and iterative testing—help confirm product assumptions and drive value. By emphasising user feedback and providing concrete examples and metrics, it clearly demonstrates the essential role of delivery in validating product ideas."
   },
   "Azure Boards": {
     "category": "Azure Boards",
@@ -702,7 +718,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The content consistently centers on the notion that value is only realized when usable increments of working software are delivered. Direct use of 'increment', explanations regarding its role in Scrum and Agile, and detailed discussions of practices (like frequent releases, customer feedback, and adaptation) align perfectly with the Increment category. Direct references include phrases such as 'Delivering a usable, working increment at the end of every Sprint' and several explicit connections to Scrum/Agile methodology. The depth of discussion is high, illustrated via industry data (DORA, Standish), real-world case studies (Windows 8 vs. Windows 11), and best practices for iteration feedback. Intent is strongly aligned, aiming to inform practitioners of the significance of increment-based delivery. The target audience consists of Agile/Scrum practitioners and technical teams, matching the category's typical audience; however, since there's also general product leadership framing, the audience score is a fraction lower. The signal-to-noise ratio is very high, with only brief tangential references (e.g., broader product strategy), but these always serve the main argument about increments. No penalties applied because the content is up-to-date, authoritative, and supports the Increment framing.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Increment category, as it thoroughly explores the importance of delivering usable increments in Agile and Scrum. It uses clear examples, industry data, and real-world cases to highlight best practices, making it highly relevant for practitioners. While there are minor references to broader strategy, the focus remains on increment-based delivery, ensuring strong alignment with the category."
   },
   "Windows": {
     "category": "Windows",
@@ -738,7 +755,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in realising value, which directly relates to Lead Time as it emphasises the time taken from initiation to delivery. It mentions Lead Time for Changes (LT) and its impact on competitiveness, aligning well with the core themes of Lead Time as an observability metric. The depth of discussion is significant, covering the costs of delayed delivery and the benefits of frequent releases, which are crucial for optimising Lead Time. Overall, the content is highly relevant and provides a thorough exploration of Lead Time, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Lead Time category, as it thoroughly explores how delivery speed impacts value and competitiveness. By highlighting Lead Time for Changes and discussing the effects of delays and frequent releases, it clearly addresses key aspects of Lead Time as an observability metric. The detailed analysis makes it highly relevant to the topic."
   },
   "Pragmatic Thinking": {
     "resourceId": "UfdnQrxv5iF",
@@ -756,7 +774,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content thoroughly embodies the essence of Pragmatic Thinking within Agile, Scrum, and DevOps contexts. It is primarily focused on practical, evidence-based application, discussing the necessity of frequent delivery to convert assumptions into measurable value. It avoids abstract theorizing, instead citing real-world data (Standish Group CHAOS Report, DORA metrics), historical business cases (Windows 8/10/11), and operational pitfalls of over-planning versus rapid, incremental deliverables. The depth is high—several paragraphs analyze process trade-offs, feedback incorporation, opportunity costs, and concrete Agile/Scrum practices. Audience targeting is on practitioners, leaders, and teams engaged in Agile/DevOps, closely matching the category's audience. There are explicit references to Scrum, Agile, DevOps, DORA metrics, and case studies, strongly aligning with Pragmatic Thinking. Nearly the entire content is highly focused and relevant, with minimal to no filler; signal-to-noise is exemplary. Minor fractional reductions reflect that while the term 'pragmatic thinking' is not directly named, all discussions remain applied and practical. No outdated or contrarian tone is present. The final score reflects superior alignment and practical focus, consistent with the category definition.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Pragmatic Thinking category, as it centres on actionable, real-world Agile, Scrum, and DevOps practices. It uses concrete examples, data, and case studies to illustrate practical approaches, avoiding abstract theory. The focus is on delivering measurable value and learning through iteration, making it highly relevant for practitioners and leaders seeking applied, evidence-based guidance."
   },
   "Deployment Frequency": {
     "resourceId": "UfdnQrxv5iF",
@@ -774,7 +793,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "This content's core argument and structure revolve around the fundamental principle that value in software is only realised through frequent delivery, which aligns exactly with the concept of 'Deployment Frequency.' Direct mentions: The author repeatedly stresses the necessity and strategic value of frequent releases, using terms such as 'frequent delivery,' 'frequent releases,' and referencing DORA's deployment-related metrics (Lead Time for Changes, Change Failure Rate). Conceptual alignment: The entire narrative ties the act of rapid, incremental delivery directly to value realisation, feedback loops, and agile/DevOps best practices, including a direct critique of waterfall cycles and slow delivery. Depth: The piece deeply explores why frequent deployment is critical, referencing empirical reports (Standish, DORA), giving concrete examples (Windows 8 case), and breaking down metrics (lead time, MTTR), as well as consequences of slow vs. fast delivery. Intent: The primary intent is clearly to explain and advocate for optimising deployment frequency, not just as a technical best practice but as a business imperative. Audience: The content addresses both practitioners and decision-makers in agile/DevOps contexts, using terminology and examples relevant to their domains. Signal: The vast majority of the content is laser-focused on the category's key themes, with minimal digression. No penalties were applied as the content is current, supportive, and thoroughly positive toward the principle of increasing deployment frequency.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Deployment Frequency' category. It consistently emphasises the importance of frequent software releases, directly referencing relevant metrics and best practices. The discussion is thorough, using concrete examples and industry reports, and is clearly aimed at both technical and business audiences interested in optimising deployment practices."
   },
   "Continuous Integration": {
     "category": "Continuous Integration",
@@ -798,7 +818,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in Agile methodologies, emphasising how frequent releases validate assumptions and realise value. It aligns closely with Agile principles, particularly in terms of continuous value delivery, adaptability, and the integration of Agile practices into strategic planning. The depth of discussion is significant, providing detailed examples and metrics that illustrate the impact of delivery on organisational success. Overall, the content is a strong fit for the Agile Strategy category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Agile Strategy category, as it thoroughly explores how regular delivery cycles in Agile help validate ideas and deliver value. It connects these practices to broader strategic goals, using clear examples and metrics to show their organisational impact. The focus on adaptability and continuous improvement further reinforces its relevance to Agile Strategy."
   },
   "Continuous Delivery": {
     "category": "Continuous Delivery",
@@ -810,7 +831,8 @@
     "non_ai_confidence": 10,
     "final_score": 92.0,
     "reasoning": "The content extensively discusses the importance of delivery in software development, emphasising how frequent releases validate assumptions and realise value. It aligns closely with the principles of Continuous Delivery by highlighting the role of rapid feedback, the necessity of incremental improvements, and the cultural aspects of delivering working software. The depth of discussion is significant, providing detailed examples and metrics that support the arguments made. Overall, the content is a strong fit for the Continuous Delivery category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the Continuous Delivery category, as it thoroughly explores how frequent software releases help validate ideas and deliver value. It covers key aspects like rapid feedback, incremental progress, and the cultural mindset needed for effective delivery, all supported by practical examples and metrics. The depth and focus make it highly relevant to Continuous Delivery."
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -876,7 +898,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in Agile and Scrum, highlighting how frequent releases enhance team performance through feedback loops and adaptation. It directly addresses team dynamics by emphasising the need for teams to deliver working software and gather user feedback, which aligns with the core themes of the 'Team Performance' category. The depth of discussion is significant, providing examples and metrics that illustrate the impact of delivery on team effectiveness and overall productivity.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Team Performance' category, as it focuses on how regular delivery in Agile and Scrum boosts team effectiveness. By exploring feedback loops, adaptation, and the value of delivering working software, it clearly addresses team dynamics and productivity, making it highly relevant to the category."
   },
   "Behaviour Driven Development": {
     "category": "Behaviour Driven Development",
@@ -912,7 +935,8 @@
     "ai_penalty_details": "none",
     "final_score": 84.0,
     "reasoning": "The content directly discusses principles that are closely aligned to Lean, such as minimising waste (emphasis on the cost of delay), maximising value (realising value through frequent delivery), continuous improvement (validated learning through feedback), and eliminating non-value-adding activities (waiting to deliver is framed as wasteful). However, 'Lean' as a term and its specific core concepts (Muda, Value Stream Mapping, 5S) are not directly mentioned; instead, the focus is on Agile, Scrum, and DevOps practices that overlap heavily with Lean but remain distinct in branding. The text thoroughly discusses the rationale behind rapid incremental delivery, uses both industry research and real-world case studies (Windows 8/10/11 releases), and targets a practitioner or strategic audience involved in organizational delivery, which matches Lean’s typical stakeholders. Signal is high, as nearly all content is focused and relevant. The confidence score reflects strong conceptual and practical alignment with Lean Principles through real-world examples and argumentation, even though explicit 'Lean' terminology and tools are only implied.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is highly relevant to the Lean category because it explores key Lean principles like minimising waste, maximising value, and continuous improvement, even though it doesn’t use Lean-specific terms. By focusing on rapid delivery and real-world examples, it effectively addresses Lean’s core ideas, making it a strong fit for the category despite the emphasis on Agile and DevOps practices."
   },
   "Agile Transformation": {
     "resourceId": "UfdnQrxv5iF",
@@ -930,7 +954,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content repeatedly references Agile principles and compares Agile practices (like frequent delivery and feedback loops) to traditional waterfall approaches, including data from Standish Group and DORA metrics with industry examples (Windows 8/10/11). Direct references to Scrum and Agile, feedback cycles, and delivery validation are foregrounded. While the term 'Agile Transformation' itself is not directly and repeatedly named, the entire piece focuses on why Agile (as a philosophy and methodology) requires frequent release/delivery for value realization—a central, defining challenge in many Agile transformations. It addresses key transformation challenges: shifting mindset from assumption to empiricism, emphasizing organizational adaptability, measuring improvement with industry metrics, and learning from failure (case study: Microsoft). The depth is strong, connecting delivery frequency to cultural/organizational change, and offers actionable criteria and narrative examples targeted at practitioners, product leaders, and decision-makers invested in (or considering) transformation initiatives. The signal/noise ratio is high; there is little irrelevant or off-topic content. The only notable shortfall is that the discussion focuses tightly on delivery and feedback, not covering the entire breadth of Agile transformation topics (leadership roles, explicit change management frameworks, readiness assessment, etc.), thus some audience and depth marks are reserved. No penalties are warranted, as examples and references are current and tone is instructive, not critical or satirical.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Agile Transformation category. It thoroughly explores Agile principles, delivery frequency, and feedback cycles, using industry data and real-world examples. While it doesn’t cover every aspect of transformation, its focus on mindset shifts and organisational change makes it highly relevant for practitioners and leaders considering or undergoing Agile transformation."
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -990,7 +1015,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content directly addresses the importance of frequent delivery, a central operational practice in Agile, DevOps, and Lean methodologies. It repeatedly references operational concepts such as delivery, value realisation through release, feedback loops, metrics like Lead Time for Changes and Change Failure Rate, and contrasts between traditional vs. Agile approaches. There are clear references to best practices (e.g., frequent releases, rapid feedback, use of DORA metrics), and actionable recommendations are provided. The main intent is to educate readers—likely operational practitioners or technical leaders—on practical delivery-focused process optimization. Concrete, real-world consequences (e.g., Windows 8 case) and data (CHAOS Report stats, DORA metrics) deepen the operational focus. Audience alignment is strong: the text addresses practitioners interested in improving delivery, efficiency, and feedback cycles. The signal-to-noise ratio is high with little tangential discussion or unrelated content. No evidence of outdated practices or contradictory tone, so no penalties. Overall, the detailed, example-rich, and actionable nature of the discussion closely matches the core theme and audience of 'Operational Practices.'",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Operational Practices' category. It focuses on practical delivery methods, highlights key metrics, and offers actionable advice for improving processes. The discussion is tailored to practitioners aiming to enhance efficiency and feedback cycles, using real-world examples and data to reinforce its points. The content is clear, relevant, and directly addresses operational optimisation."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1059,7 +1085,8 @@
     "ai_penalty_details": "none",
     "final_score": 77.0,
     "reasoning": "The content is focused on the importance of frequent delivery in software development as a way to maximize value, validate assumptions, and minimize waste and risk. It draws from agile concepts (e.g., sprints, frequent releases, feedback loops, Scrum ceremonies) and industry benchmarks (such as DORA metrics and the Standish Group's CHAOS Report) that are relevant to technical leaders managing agile teams. The discussion refers to enabling transparency, validation, adaptation, empowerment of teams, and alignment with business value—ideas which are highly relevant to technical leadership, especially in agile or DevOps contexts. There are references to management of value, cost of delay, and iterative release models, which are areas where technical leaders are responsible for setting direction and culture. However, the article does not directly mention 'technical leadership' or explicitly address coaching, mentoring, or servant leadership as such; it is more prescriptive about delivery as a practice than about leading teams through those practices. The presumed audience includes practitioners, scrum masters, technical leads, and others influencing delivery cadence, aligning with but not exclusively limited to the technical leadership cohort. Although depth is strong (real-world examples, metrics, recommendations) and the discussion is well-connected to the concerns of technical leaders, the lack of direct mention and a stronger focus on delivery principles (over explicit team leadership dynamics) slightly reduces the direct fit score. No penalties were warranted as the content is current and supportive of best practices.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the technical leadership category, as it explores agile delivery, value maximisation, and risk reduction—key concerns for technical leaders. While it doesn’t explicitly discuss leadership roles or coaching, its focus on delivery practices, metrics, and team empowerment is highly relevant for those guiding agile teams, making it a strong, though not perfect, fit."
   },
   "Product Discovery": {
     "resourceId": "UfdnQrxv5iF",
@@ -1089,7 +1116,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content strongly emphasises the importance of delivery in validating assumptions and creating value, which aligns closely with Lean Startup principles. It discusses the necessity of frequent releases and feedback loops, echoing the Build-Measure-Learn cycle. The mention of the cost of delayed delivery and the risks associated with untested assumptions further reinforces its relevance to Lean Startup methodology. However, while it touches on key Lean concepts, it primarily focuses on Agile practices, which slightly detracts from its classification as strictly Lean Startup content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content aligns well with Lean Startup principles, highlighting the value of rapid delivery, testing assumptions, and learning from feedback—core aspects of the methodology. While it also references Agile practices, its main focus on validating ideas through frequent releases and feedback loops makes it a strong fit for the Lean Startup category, even if not exclusively so."
   },
   "Agile Planning": {
     "category": "Agile Planning",
@@ -1155,7 +1183,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of delivery in software development, emphasising frequent releases and their role in validating assumptions and realising value. It aligns well with deployment strategies by highlighting the risks of delayed delivery and the benefits of iterative releases, which are core themes in deployment methodologies. However, while it touches on these strategies, it does not delve deeply into specific deployment techniques like Blue-Green Deployments or Canary Releases, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the deployment strategies category, as it highlights the value of frequent releases and the risks of delayed delivery—key aspects of effective deployment. While it doesn’t explore specific techniques in depth, its focus on iterative releases and validation aligns well with the core principles of deployment methodologies."
   },
   "Scrum Team": {
     "resourceId": "UfdnQrxv5iF",
@@ -1236,7 +1265,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in the Agile context, emphasising how value is realised through frequent releases and feedback loops. It aligns closely with Agile principles, particularly around customer collaboration, continuous improvement, and adaptability. The depth of discussion is significant, providing detailed examples and metrics that illustrate the impact of Agile philosophy on value delivery. While it references specific practices, the overarching theme remains firmly rooted in the Agile mindset.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Agile category, as it thoroughly explores how Agile delivery practices drive value through regular releases and feedback. It highlights key Agile principles like customer collaboration and adaptability, using concrete examples and metrics to show their impact. The focus remains on the Agile mindset, making it highly relevant to the category."
   },
   "Modern Source Control": {
     "category": "Modern Source Control",
@@ -1329,7 +1359,8 @@
     "ai_penalty_details": "none",
     "final_score": 71.0,
     "reasoning": "The content is focused primarily on the importance of frequent delivery in Agile and DevOps contexts, emphasizing the validation of assumptions, shortening feedback loops, and the risks of delayed releases. These are cornerstone practices that strongly support Continuous Learning, but the narrative rarely name-drops the term or explicitly discusses ongoing knowledge sharing, growth mindsets, or cultural learning practices. The content heavily aligns with empirical learning through delivery and feedback, with supporting data (e.g., CHAOS Report, DORA metrics) and robust case studies (e.g., Windows 8/10/11 evolution), evidencing strong conceptual ties to iterative learning. The depth is notable in exploring feedback loops, team empowerment, and adaptation, but it doesn't engage deeply with broader continuous learning frameworks, knowledge sharing techniques, or personal/team growth mindsets. Its primary intent is to guide Agile practitioners and DevOps teams on the value of frequent delivery and feedback for adaptability—benefiting the same audience as the category. The signal-to-noise ratio is high, with minimal filler, and the messaging stays clearly within the Agile/Lean/DevOps landscape. However, lower marks in direct mentions and slightly limited exploration of explicit 'continuous learning' constructs prevent this from reaching a very high confidence score. No penalties were needed: the information is current and constructive.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category because it thoroughly explores how frequent delivery and feedback loops in Agile and DevOps foster empirical learning and adaptability—key aspects of continuous learning. While it doesn’t explicitly discuss knowledge sharing or growth mindsets, its focus on iterative improvement and real-world examples makes it highly relevant for practitioners aiming to enhance learning through delivery practices."
   },
   "Decision Theory": {
     "resourceId": "UfdnQrxv5iF",
@@ -1398,7 +1429,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in realising value, which aligns closely with the principles of Flow Efficiency. It highlights the need for frequent releases to validate assumptions and mitigate risks, directly addressing the optimisation of work throughput. The discussion on metrics like Lead Time and Change Failure Rate further supports its relevance to Flow Efficiency. The depth of analysis regarding the costs of delayed delivery and the benefits of iterative processes demonstrates a strong focus on enhancing speed and minimising bottlenecks, making it a primary focus of the content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Flow Efficiency category, as it emphasises the value of frequent delivery, risk reduction, and iterative processes. By focusing on metrics like Lead Time and Change Failure Rate, it clearly addresses optimising throughput and minimising bottlenecks, which are central to Flow Efficiency principles."
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1476,7 +1508,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content provides a focused and in-depth discussion directly aligned with market adaptability as defined. It explicitly references Agile, Scrum, and DevOps (via DORA metrics), and explains how frequent delivery, short feedback loops, and releasing increments enable organisations to respond rapidly to market shifts. The Windows 8/10/11 case study exemplifies real-world consequences of poor adaptability and the benefits of iterative, adaptive approaches. There are several direct and indirect mentions of adaptability concepts, but not always using the term 'market adaptability' verbatim, which results in a high but not perfect 'mentions' score. The core message is about leveraging Agile/DevOps/Lean techniques to maximise value by reducing time-to-market and validating assumptions, which shows strong conceptual alignment and depth. The intent is clearly supportive of the category: to persuade practitioners and strategists to adopt market-adaptive practices. The intended audience likely includes technical leaders, product managers, and strategists, matching the category. The signal-to-noise ratio is high as the entire article is focused on principles essential to market adaptability, with well-used examples and no filler. There was no evidence of outdated information, critical/satirical tone, or contradiction of the category, so no penalties were applied. The final confidence score reflects strong, multifaceted evidence with nearly maximal alignment to 'Market Adaptability.'",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly fits the 'Market Adaptability' category. It thoroughly explores how Agile, Scrum, and DevOps practices help organisations respond quickly to market changes, using real-world examples to illustrate both challenges and benefits. The discussion is clear, relevant, and aimed at professionals seeking to enhance adaptability, making it highly aligned with the category’s intent and audience."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1533,7 +1566,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content is heavily focused on the importance of delivery and frequent releases as mechanisms for value realisation, supporting Agile and Scrum principles throughout. These topics are strongly aligned with Business Agility, particularly as they relate to adaptability, fast feedback, and reducing time-to-market—key aspects highlighted in the category’s definition. The content references empirical research (DORA, CHAOS Report), provides clear case studies (Microsoft/Windows), and explores metrics such as Lead Time and Change Failure Rate, which are foundational for measuring and improving business agility. While 'business agility' is not directly mentioned by name (leading to a lower but not zero Mentions score), the conceptual fit is unmistakable, and the discussion goes well beyond superficial treatment—deeply examining not only why frequent delivery matters, but how failure to adapt leads to negative business consequences. The intent directly supports the principles of the category, speaking both to executive and team-level audiences with practical and strategic implications, though most examples speak from a practitioner standpoint (audience alignment slightly reduced). There's very little off-topic content, and all sections reinforce the need for organisational adaptability and rapid validation. No evidence of outdated or contradictory statements is present. Therefore, a strong but not perfect confidence aligns with the weighted scoring.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Business Agility category. It thoroughly explores how frequent delivery and adaptability drive value, referencing key Agile principles, empirical studies, and real-world examples. While the term 'business agility' isn’t explicitly used, the discussion clearly supports the category’s core themes, offering both strategic and practical insights relevant to a broad professional audience."
   },
   "Kanban": {
     "category": "Kanban",
@@ -1617,7 +1651,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in validating assumptions and realising value, which aligns closely with the core themes of metrics and learning. It highlights the role of feedback loops, the significance of frequent releases, and the impact of metrics like Lead Time for Changes and Change Failure Rate on team performance. The depth of discussion is substantial, providing detailed examples and case studies, such as the Windows 8 scenario, to illustrate the consequences of delayed delivery and the benefits of iterative processes. Overall, the content is a strong fit for the category, focusing on evidence-based decision-making and continuous improvement.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the category, as it thoroughly explores how delivery practices support learning and improvement. By emphasising feedback loops, frequent releases, and key metrics, it demonstrates how teams can validate assumptions and drive value. The use of real-world examples, like Windows 8, further illustrates the importance of evidence-based decisions and continuous iteration."
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1650,7 +1685,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of delivery in realising value, aligning closely with the principles of Value Stream Management. It highlights the need for frequent releases, feedback loops, and the minimisation of waste, which are core themes of the category. The depth of discussion is significant, providing examples and metrics that support the argument for optimising value flow. However, while it touches on Agile practices, it does not delve deeply into specific Value Stream Management techniques or metrics, which slightly lowers the overall confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Value Stream Management category, as it focuses on how effective delivery drives value, emphasising frequent releases, feedback, and waste reduction. While it references Agile methods, its main emphasis is on optimising value flow—central to Value Stream Management—even though it doesn’t explore specific techniques or metrics in depth."
   },
   "Evidence Based Management": {
     "resourceId": "UfdnQrxv5iF",
@@ -1668,7 +1704,8 @@
     "ai_penalty_details": "none",
     "final_score": 89.0,
     "reasoning": "Direct Mentions (6.8): The content does not explicitly reference 'Evidence Based Management' or EBM by name, but it repeatedly discusses concepts integral to it such as 'unrealised value', 'cost of delay', 'feedback', and data-driven decision-making. References to DORA metrics, the CHAOS Report, and concrete measurement of outcomes show indirect but recurring ties to EBM principles. Conceptual Alignment (9.15): The piece is deeply anchored in evidenced reasoning—arguing for frequent delivery based on empirical validation, customer feedback, outcome measurement, unrealised value, and opportunity cost. These are central EBM topics (Current Value, Time to Market, Unrealised Value, Outcome Management, Empirical Decision-Making). Depth (9.05): The article goes well beyond superficial treatment. It substantiates its theme with data (e.g., DORA, CHAOS Report), a real-world case (Windows 8/10/11), hypothetical scenarios, and a clear mapping between delivery frequency and realised value. This demonstrates thorough exploration of EBM-aligned issues. Intent (8.6): The main purpose is completely aligned—the author aims to inform and persuade on maximising value via empirical delivery practices, which is core to EBM. Audience (8.7): The language appeals to practitioners and decision-makers concerned with value, delivery, and empiricism—matching EBM's typical stakeholders (management, product leads, transformation specialists). Signal-to-Noise (8.2): Content remains highly focused on why and how delivery frequency ties to maximising value based on evidence, with almost no digressions. Small points are lost due to use of some general Agile/Scrum references without always anchoring them directly to metrics or evidence. No penalties applied, as the content is current, supportive, non-contradictory, and up-to-date. The final confidence is high (88.86), weighted to reflect strong but not explicit EBM mention, very strong conceptual match, and deep, outcome-oriented analysis.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "Although the content doesn’t directly mention 'Evidence Based Management' (EBM) by name, it thoroughly explores EBM principles like empirical decision-making, value measurement, and outcome management. The use of data, real-world examples, and focus on maximising value through evidence-based delivery strongly align it with EBM, making it a great fit for the category despite the lack of explicit references."
   },
   "Platform Engineering": {
     "category": "Platform Engineering",
@@ -1695,7 +1732,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "Direct Mentions (2.6): The content does not explicitly reference 'Agile Product Operating Model' (APOM) by name, nor does it specifically use product operating model language. It repeatedly mentions Agile, Scrum, frequent delivery, feedback loops, and DevOps metrics, but makes no direct mention of APOM or closely related terms such as 'product model', 'product organisational structure', or 'APOM principles.'\n\nConceptual Alignment (8.2): The main content is highly aligned with APOM principles—namely, the shift from output to outcome, unlocking value through delivery, emphasising continuous and frequent releases, measuring realised value (via DORA metrics, cost of delay, etc.), and using feedback loops. The critique of waterfall and advocacy for iterative releases reflect the APOM's product-centric, empiricism-aligned mindset. However, the content frames its arguments through the lens of Agile and Scrum, rather than explicitly as a product operating model.\n\nDepth of Discussion (7.9): The article explores the importance of delivery in depth, citing real-world examples (Windows 8/10/11), industry studies (CHAOS Report, DORA metrics), and implications of frequent vs. infrequent delivery. However, it does not detail organisational structure, governance, incentive systems, or product management roles—elements core to a full APOM discussion—so while depth is strong on delivery/value realisation, it's narrower than a holistic APOM piece.\n\nIntent/Purpose Fit (8.7): The purpose is to persuade and educate teams/leaders about the central importance of frequent delivery to realise value—matching the spirit of APOM, although not explicitly framed as such. The advocacy for outcome-based validation, empiricism, and abandonement of assumptions sits well with APOM purposes.\n\nAudience Alignment (8.0): The content targets product teams, Agile practitioners, and organisational leaders interested in value delivery, feedback, and optimisation—an audience overlapping substantially with APOM's primary audience, though perhaps missing the higher-level strategic/executive operational framing APOM might have.\n\nSignal-to-Noise Ratio (8.1): The content is focused and tightly relevant to iterative delivery and its impact on value, with minimal digression. Case studies and statistics bolster the points made; the message is clear and consistently drives toward value realisation through frequent incremental delivery.\n\nNo penalties were applied: The content is current, advocates for modern Agile/DevOps practices, and contains no obsolete or critical/satirical content.\n\nOverall, this piece scores high on conceptual alignment and intent but drops on direct mentions and somewhat on overall depth since it is focused on just one key aspect (delivery for value realisation) rather than the breadth of APOM topics or its explicit framework language. This justifies a confidence score of 73.67, reflecting reliable but not definitive coverage of the 'Agile Product Operating Model' category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "While the content strongly aligns with Agile Product Operating Model (APOM) principles—emphasising value delivery, frequent releases, and outcome-based validation—it doesn’t explicitly reference APOM or cover its full organisational scope. The focus is on delivery rather than the broader operating model, making it relevant but not a comprehensive fit for the APOM category."
   },
   "Beta Codex": {
     "category": "Beta Codex",
@@ -1755,7 +1793,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content discusses the importance of delivery in the context of Agile and Scrum, highlighting key principles such as frequent releases, feedback loops, and the risks of delayed delivery. It explicitly mentions Scrum as a framework that supports these practices, aligning well with the core themes of the category. However, while it touches on Scrum principles, the focus is more on delivery and value realisation rather than a comprehensive exploration of Scrum roles, events, or artifacts, which slightly lowers the depth score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the category as it explores how Agile and Scrum practices support effective delivery, emphasising frequent releases and feedback. While it references Scrum and its principles, the main focus is on delivery and value rather than an in-depth look at Scrum’s specific roles or events, making it relevant but not exhaustive for the category."
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1785,7 +1824,8 @@
     "ai_penalty_details": "none",
     "final_score": 84.0,
     "reasoning": "The content never directly names 'Continuous Improvement' but deeply embeds its principles: the repeated focus on validating assumptions through frequent delivery, leveraging feedback loops, incremental value delivery, and empiricism are core CI concepts. It cites frameworks (Scrum, Agile, DORA metrics) fully aligned with Continuous Improvement, and references real-world evidence (e.g., Windows 8/Windows 11) illustrating the costs of not iterating/learning continuously. The primary audience (Agile practitioners, leaders, and teams in software or business agility contexts) matches the CI category. The signal-to-noise ratio is very high—nearly all text pushes the thesis that frequent, incremental change (and learning from it) is essential, which is at the heart of Continuous Improvement. Slight deductions on 'mentions' because the specific term is absent, and on 'intent' because the piece, while wholly aligned, puts slightly more stress on delivery as a vehicle for value (rather than on CI itself as a formal goal). Depth is strong, with historical examples and metric references, but stops short of detailing specific CI tools/rituals (PDCA, Kaizen, etc.), hence not a perfect 10. No tone or content penalties apply, as the material is current, supportive, and constructive. Confidence is high but not maximal, precisely reflecting the slightly indirect focus.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly aligns with the Continuous Improvement category, even though it doesn’t use the term directly. It emphasises iterative delivery, feedback loops, and learning—core CI principles—while referencing relevant frameworks and real-world examples. The focus is on fostering ongoing progress, making it highly suitable for audiences interested in Continuous Improvement, despite not detailing specific CI tools or rituals."
   },
   "Common Goals": {
     "resourceId": "UfdnQrxv5iF",
@@ -1869,7 +1909,8 @@
     "ai_penalty_details": "none",
     "final_score": 98.0,
     "reasoning": "The content thoroughly discusses the necessity of delivery and frequent, iterative releases as foundational to realising value in product development, directly aligning with category principles. It references core Agile and Lean concepts (feedback loops, risk minimisation, DevOps/DORA metrics, incremental delivery) and supports these with both industry research (Standish Group, DORA, US DOD) and real-world case studies (Windows 8/10/11). The depth is high, as the arguments move beyond surface mentions to explore why and how frequent delivery is embedded within Agile product development practices, including opportunity costs and adaptation. Audience targeting is toward practitioners, teams, and organisational leaders making decisions about product delivery approaches, which is ideal for Product Development. There are numerous direct mentions of Agile, Scrum, DevOps, feedback, increments, and associated practices. Very little of the content could be considered filler or off-topic, maintaining strong signal focus. No penalties were applied, as there is no outdated information, misinterpretation, or negative/irrelevant framing. The overall confidence score reflects the comprehensive, focused, and highly relevant nature of the discussion to the Product Development category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Product Development category. It goes beyond basic concepts, offering in-depth analysis of iterative delivery, Agile and Lean principles, and real-world examples. The discussion is highly relevant for practitioners and leaders, with strong focus and up-to-date references, making it both practical and insightful for those involved in product delivery decisions."
   },
   "Project Management": {
     "resourceId": "UfdnQrxv5iF",
@@ -1887,7 +1928,8 @@
     "ai_penalty_details": "none",
     "final_score": 78.0,
     "reasoning": "The content focuses extensively on the importance of frequent delivery to realise value in software projects, aligning closely with project management best practices, especially Agile. It discusses planning, delivery, adaptation, risk mitigation, feedback loops, and concrete metrics (DORA, CHAOS Report) that are central to project execution and monitoring. Concepts such as value realisation, cost of delay, stakeholder feedback, and lessons learned are all discussed with depth, using real-world examples like Windows 8/10/11 to illustrate points. However, explicit, direct mentions of 'project management' as a term or broad category are limited; most of the language refers specifically to agile, Scrum, delivery, and release practices, rather than the full spectrum of project management roles, governance, or planning processes. The intent and target audience are practitioners involved in modern software delivery—likely project and product managers, scrum masters, and leads—though executives and classic PMs may find less direct relevance because the view is heavily tilted toward agile teams and delivery cycles. The signal-to-noise ratio is high: nearly all paragraphs serve to reinforce the main thesis about delivery's value, with little digression. No penalties were necessary: the content is modern, not satirical or undermining, and the examples and statistics are still relevant. Overall, while it strongly and deeply aligns with project management (especially agile), it does not explicitly cover traditional topics like long-term scoping, PM roles, or detailed governance structures, which affects the mentions and audience scores. The final confidence score reflects strong conceptual and practical alignment, substantial depth, and excellent relevance, but falls short of perfect due to limited mention of the wider project management framework.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is highly relevant to project management, particularly within Agile contexts, as it explores delivery, adaptation, and value realisation using practical examples and metrics. While it doesn’t explicitly address traditional project management roles or governance, its focus on delivery practices and feedback loops makes it valuable for practitioners involved in modern software projects."
   },
   "Hybrid Agile": {
     "category": "Hybrid Agile",
@@ -1947,7 +1989,8 @@
     "non_ai_confidence": 30,
     "final_score": 92.0,
     "reasoning": "The content extensively discusses the importance of delivery in realising value, which is a core aspect of Time to Market. It highlights the costs associated with delayed delivery and the benefits of frequent releases, aligning closely with the category's focus on optimising processes to enhance customer satisfaction and competitive advantage. The depth of discussion is significant, providing metrics and examples that illustrate the impact of Time to Market on business agility and customer feedback. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Time to Market category, as it thoroughly explores how delivery speed influences value creation. By addressing the costs of delays and the advantages of frequent releases, it clearly aligns with optimising processes for better customer outcomes and competitiveness. The use of metrics and examples further reinforces its relevance, making it highly suitable for this category."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -1959,7 +2002,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the concept of unrealised value, particularly in the context of delivery and Agile methodologies. It highlights how assumptions about value remain untested until delivery occurs, which aligns closely with the definition of unrealised value. The discussion on the costs associated with delayed delivery and the importance of frequent releases provides a strong conceptual alignment with the category. Additionally, the depth of the discussion is significant, as it includes examples, metrics, and a case study (Windows 8) that illustrate the consequences of not realising value. Overall, the content is primarily focused on the theme of unrealised value, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the \"unrealised value\" category, as it thoroughly explores how value remains hypothetical until delivery, especially within Agile frameworks. By discussing the risks and costs of delayed releases, and providing concrete examples and metrics, it clearly demonstrates the impact of unrealised value, making the classification highly appropriate."
   },
   "Current Value": {
     "category": "Current Value",
@@ -1971,7 +2015,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of delivery in realising value, aligning closely with the concept of Current Value in Evidence-Based Management. It highlights how value is only realised through delivery and provides metrics and examples (like DORA metrics) that illustrate the impact of frequent releases on customer satisfaction and performance. The depth of discussion is significant, with detailed explanations of the costs associated with delayed delivery and the benefits of iterative releases. However, while it strongly aligns with the themes of Current Value, it does not delve deeply into specific metrics or techniques for gathering Current Value data, which slightly lowers the overall confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Current Value category, as it thoroughly explores how delivery practices impact value realisation. It uses relevant examples and metrics to illustrate its points, though it doesn’t go deeply into specific data-gathering techniques. Overall, the discussion aligns well with the category, but a lack of detail on measurement methods slightly limits its completeness."
   },
   "Agnostic Agile": {
     "category": "Agnostic Agile",
@@ -2044,7 +2089,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content heavily discusses the principle of value delivery, emphasizing the importance of frequent delivery and the risks associated with delayed releases. It directly addresses how delivery underpins decision-making about value realization in Agile practices, aligning well with key principles like Continuous Improvement and Value Delivery. The depth of the discussion reflects a thorough exploration of actionable principles in software delivery, making it a strong contender for the Principles category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Principles category because it thoroughly explores value delivery and its impact on Agile decision-making. By focusing on frequent delivery and its role in realising value, it clearly aligns with core Agile principles like Continuous Improvement, making it highly relevant for anyone seeking to understand foundational software delivery concepts."
   },
   "Tool": {
     "resourceId": "UfdnQrxv5iF",
@@ -2135,7 +2181,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of frequent delivery as a practice for realizing value in software development. It emphasizes actionable techniques that align with key topics in the 'Practice' category, such as feedback loops, incremental releases, and risk mitigation through agile methodologies. The discussion on delivery transforming assumptions into validated outcomes highlights the core principles of practices aimed at improving team effectiveness and collaboration. While some parts discuss broader concepts and outcomes, the focus remains strongly on practical implications of delivering software iteratively, making it a well-aligned piece with actionable insights.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Practice' category, as it centres on actionable methods like frequent delivery, feedback loops, and incremental releases. The discussion is grounded in practical steps that teams can take to improve effectiveness and collaboration, rather than just theory, making it highly relevant for those seeking to apply proven techniques in software development."
   },
   "Method": {
     "resourceId": "UfdnQrxv5iF",
@@ -2148,7 +2195,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content primarily argues for the importance of frequent delivery in realizing value, which aligns closely with Agile methods that emphasize iterative and incremental development practices. It discusses principles that support structured approaches like Scrum and Lean, but it primarily centers on the impact of delivery rather than detailing specific step-by-step procedures that define these methods. While it references some methodological insights, it lacks a more comprehensive breakdown of structured processes, leading to a high confidence score but not a maximum.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits well within the Agile category, as it highlights the value of frequent delivery and iterative progress—core Agile principles. While it references structured approaches like Scrum and Lean, it focuses more on the benefits and philosophy of delivery rather than outlining detailed methodologies, making it a strong but not exhaustive match for the category."
   },
   "Model": {
     "resourceId": "UfdnQrxv5iF",
@@ -2174,7 +2222,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content primarily discusses the critical role of frequent delivery in Agile methodologies and highlights frameworks like Scrum and Agile as essential for validating assumptions through iterative releases. It provides numerous examples and insights into the implications of delivery in Agile contexts, demonstrating a good conceptual alignment with the Framework category by emphasizing inspection and adaptation principles. However, it lacks a deeper discussion on specific framework implementations or comparisons, resulting in a moderately high confidence score. It focuses on principles rather than explicitly outlining methodologies or practices for adaptation, which slightly limits its depth.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the Framework category as it explores the importance of frequent delivery and iterative validation in Agile, referencing frameworks like Scrum. While it effectively covers key principles such as inspection and adaptation, it doesn’t delve deeply into specific framework implementations or detailed comparisons, focusing more on overarching concepts than practical methodologies."
   },
   "Tenet": {
     "resourceId": "UfdnQrxv5iF",
@@ -2187,7 +2236,8 @@
     "non_ai_confidence": null,
     "final_score": 88.0,
     "reasoning": "The content focuses extensively on the importance of delivery in Agile methodologies, highlighting actionable principles such as frequent release and feedback loops that align directly with key tenets of Agile. It discusses how delivery validates assumptions and maximizes value, clearly linking the ideas presented to the principles of Agile. The depth of discussion about specific outcomes, risks of delay, and examples like Microsoft's Windows 8 provides a comprehensive insight into the tenet of frequent delivery, thus justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Agile category, as it thoroughly explores delivery principles central to Agile practices. By emphasising frequent releases, feedback loops, and real-world examples, it clearly demonstrates how these concepts underpin Agile’s core values, making the classification highly appropriate."
   },
   "Capability": {
     "resourceId": "UfdnQrxv5iF",

@@ -9,7 +9,8 @@
     "non_ai_confidence": 50,
     "final_score": 92.0,
     "reasoning": "The content extensively discusses Kanban principles, particularly focusing on optimising flow and the importance of system-wide metrics over individual performance. It directly mentions Kanban multiple times and aligns well with key topics such as Work in Progress (WIP) limits, Process Cycle Efficiency (PCE), and the overall goal of improving system flow. The depth of discussion is significant, providing detailed insights into how individual metrics can distort team dynamics and hinder overall efficiency, which is central to Kanban methodology.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Kanban category, as it delves deeply into core Kanban concepts like flow optimisation, WIP limits, and system-wide metrics. By highlighting the drawbacks of focusing on individual performance, it reinforces Kanban’s emphasis on team efficiency and process improvement, making it highly relevant to the topic."
   },
   "DevOps": {
     "category": "DevOps",
@@ -99,7 +100,8 @@
     "non_ai_confidence": 50,
     "final_score": 82.0,
     "reasoning": "The content discusses throughput explicitly in the context of improving flow and system efficiency, highlighting its importance alongside Process Cycle Efficiency (PCE). It provides a clear understanding of how throughput relates to overall system performance and the pitfalls of focusing on individual metrics. However, while throughput is mentioned and discussed, the primary focus is on individual cycle time and its implications, which slightly detracts from a deeper exploration of throughput as a standalone metric.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content touches on throughput and its role in system efficiency, linking it to broader performance metrics like Process Cycle Efficiency. While it acknowledges throughput’s significance, the main emphasis is on individual cycle time, so the discussion doesn’t fully centre on throughput as an independent topic. This makes the fit with the throughput category partial rather than complete."
   },
   "Strategy": {
     "category": "Strategy",
@@ -111,7 +113,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the strategic implications of measuring individual cycle time within the Kanban framework, emphasising the importance of optimising system flow over individual productivity. It aligns well with key topics such as the development of a value-driven approach, techniques for optimising delivery, and continuous improvement practices. The depth of discussion is substantial, providing detailed insights into how individual metrics can distort team dynamics and hinder overall performance, thus reinforcing the strategic focus on system improvement.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoughtfully explores how focusing on individual cycle times in Kanban can impact team effectiveness and system flow. By highlighting the value of system-wide optimisation over individual metrics, it supports key themes like value-driven delivery and continuous improvement, offering practical insights relevant to strategic process enhancement."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -231,7 +234,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of optimising systems rather than focusing on individual productivity, which aligns closely with Systems Thinking principles. It highlights interconnectedness, such as dependencies and bottlenecks, and critiques linear approaches to measuring performance. The depth of discussion is substantial, covering various aspects of system flow and efficiency, while also referencing key concepts like Process Cycle Efficiency (PCE) and Work in Progress (WIP). Overall, the content strongly supports the Systems Thinking category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Systems Thinking category, as it emphasises optimising entire systems over individual efforts. It explores how elements like dependencies and bottlenecks impact overall performance, and references concepts such as PCE and WIP. The discussion moves beyond linear productivity, highlighting the interconnected nature of processes—key aspects of Systems Thinking."
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -243,7 +247,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the importance of measuring system-level metrics over individual metrics in Kanban, which aligns closely with the core themes of the 'Metrics and Learning' category. It discusses various metrics such as Process Cycle Efficiency (PCE), Work in Progress (WIP), and throughput, providing a detailed analysis of how these metrics can drive continuous improvement in workflows. The depth of discussion is significant, as it not only critiques the measurement of individual cycle times but also suggests alternative metrics that foster a better understanding of system performance. Overall, the content is well-aligned with the principles of evidence-based decision-making and continuous improvement methodologies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Metrics and Learning' category, as it explores how system-level metrics like PCE, WIP, and throughput can enhance workflow understanding and drive improvement. By emphasising evidence-based decision-making and critiquing individual metrics, it supports continuous learning and aligns with the category’s focus on using data to optimise processes."
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -285,7 +290,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content directly addresses principles core to Lean Product Development, such as focusing on flow efficiency, identifying and eliminating systemic bottlenecks, and discouraging wasteful measurement practices (e.g., measuring individual cycle time). Instead, it promotes measuring at the process/system level, which aligns well with Lean's emphasis on system optimization and waste reduction. It discusses concepts like Process Cycle Efficiency, WIP limits, throughput, bottlenecks, and blockers, all of which are tools and techniques relevant to Lean Product Development. While the primary explicit framework referenced is Kanban (not Lean by name), Kanban's application as described is consistent with Lean principles, tying the content closely to the category's conceptual core. Depth is strong—the discussion moves past surface-level arguments, offering actionable alternative metrics and reasoning. The audience is practitioners looking to improve team and system metrics, aligned with those seeking Lean Product Development guidance. There is little noise or off-topic content, as the message remains focused throughout. However, direct mentions of 'Lean Product Development' itself or explicit references to Lean are limited, slightly lowering the score on direct mentions. No penalties are applied since the content is recent, constructive, and fully in the spirit of Lean thinking.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Lean Product Development category. It explores key Lean concepts like system-level measurement, waste reduction, and flow efficiency, using Kanban as a practical example. While it doesn’t frequently name Lean directly, its focus and actionable advice align closely with Lean principles, making it highly relevant for practitioners seeking to optimise product development processes."
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -345,7 +351,8 @@
     "ai_penalty_details": "none",
     "final_score": 85.0,
     "reasoning": "The content deeply explores system-level metrics in Kanban, emphasizing Process Cycle Efficiency and end-to-end flow as crucial to organizational performance and adaptability. Though 'market adaptability' is not mentioned verbatim, the article thoroughly aligns with the core meaning of the category by advocating for data-driven, Lean/Agile-inspired optimizations that enhance business responsiveness and remove systemic barriers to delivery. It clearly advises against siloed, individual-focused measurement in favor of continuous improvement, bottleneck identification, and flow efficiency—core levers for market adaptability. The target audience (managers, team leads, process improvement specialists) fits the category's practitioner/strategy demographic. Although the article never directly names 'market adaptability,' it fully anchors its advice in principles that heighten adaptive capacity. Depth is high, with practical, nuanced arguments and actionable advice. The content is tightly focused; off-topic material is minimal. The confidence score reflects the very strong conceptual fit, moderate direct category signaling, and high clarity, focus, and audience alignment.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly fits the category, as it offers in-depth, practical guidance on using Kanban metrics to drive organisational adaptability and responsiveness. While it doesn’t use the term ‘market adaptability’ directly, its focus on flow efficiency, continuous improvement, and breaking down silos clearly supports adaptive business practices, making it highly relevant for strategy-focused professionals."
   },
   "Estimation": {
     "resourceId": "KHEPBWiFDKJ",
@@ -555,7 +562,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the importance of optimising flow within a system rather than focusing on individual productivity, which aligns closely with Lean Thinking principles. It mentions Kanban, Process Cycle Efficiency, and the need to eliminate bottlenecks, all of which are key concepts in Lean. The depth of discussion is substantial, providing insights into how individual metrics can distort behaviour and hinder system efficiency, which is a critical aspect of Lean philosophy. However, while it aligns well with Lean principles, it does not explicitly cover all key topics such as waste identification or continuous improvement, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Lean Thinking category, as it explores system-wide flow optimisation, Kanban, and bottleneck elimination—core Lean concepts. While it doesn’t cover every Lean topic, such as waste identification or continuous improvement, its focus on how individual metrics can impact overall efficiency demonstrates a solid understanding of Lean principles."
   },
   "Product Backlog": {
     "resourceId": "KHEPBWiFDKJ",
@@ -783,7 +791,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content explicitly critiques the use of individual cycle time and extensively advocates for proper Kanban-based operational metrics, such as Process Cycle Efficiency (PCE), throughput, WIP, and bottleneck identification. Direct mentions of concepts like Kanban, process optimisation, flow efficiency, and system-level improvement are widespread and core to the argument, scoring very high for Direct Mentions (9.4). Conceptual Alignment is nearly perfect (9.9) as every main point aligns with the Operational Practices category — all advice centers on practical application of Lean and Agile principles to optimise workflows and avoid local optimisation traps. Depth of Discussion is substantial (9.7); the article provides not only rebuttals to a common mispractice (individual measurement) but offers an array of alternative metrics and improvement practices. The Intent/Purpose is highly targeted and supportive of best-practice operational improvement with actionable recommendations (9.8). Audience Alignment (9.2) is high, targeted at practitioners, managers, and those responsible for team and system efficacy rather than individual performance. Signal-to-Noise Ratio is also high (9.5): the content is focused with minimal digression, almost all body text delivering relevant, insightful, and practical advice for improving operational workflows. No penalties apply; there is no outdated information or contrary/frivolous tone present. This results in a very high final confidence that the content belongs squarely under the 'Operational Practices' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Operational Practices' category. It thoroughly discusses Kanban, process optimisation, and system-level metrics, offering actionable advice rooted in Lean and Agile principles. The focus is on improving team and workflow efficiency, not individual performance, making it highly relevant for practitioners seeking to enhance operational effectiveness."
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -831,7 +840,8 @@
     "non_ai_confidence": 20,
     "final_score": 92.0,
     "reasoning": "The content explicitly discusses the importance of optimising flow within a system rather than focusing on individual productivity, which aligns closely with the principles of Flow Efficiency. It addresses key topics such as Work in Progress (WIP), bottlenecks, and the overall system's throughput, providing a detailed analysis of how measuring individual cycle time can lead to inefficiencies. The depth of discussion is substantial, covering various aspects of flow efficiency, including metrics and systemic improvements, which reinforces its primary focus on the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Flow Efficiency category, as it centres on optimising system-wide processes rather than individual output. It thoroughly explores concepts like WIP, bottlenecks, and throughput, highlighting how focusing on the whole system leads to better results. The discussion is detailed and clearly prioritises flow efficiency principles, making it highly relevant to the category."
   },
   "Test Driven Development": {
     "resourceId": "KHEPBWiFDKJ",
@@ -861,7 +871,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the implications of measuring individual cycle time and its negative impact on system flow, which aligns closely with the category of Cycle Time. It provides a detailed critique of individual metrics versus system efficiency, emphasising the importance of understanding cycle time in the context of overall workflow. The depth of discussion is substantial, covering various aspects such as Process Cycle Efficiency, Work in Progress, and the relationship between individual metrics and systemic performance. However, while it focuses on cycle time, it also touches on related concepts like throughput and lead time, which slightly dilutes the primary focus.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is best suited to the Cycle Time category, as it centres on how measuring individual cycle times can affect overall system flow. While it briefly mentions related concepts like throughput and lead time, the main discussion revolves around the impact of individual versus system-wide metrics on process efficiency, making Cycle Time the most appropriate fit."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -945,7 +956,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "The content directly references and applies Lean Principles by addressing core topics like process cycle efficiency, bottleneck identification, waste reduction, and shifting focus from individual productivity to system flow—which aligns with the foundational ideas of Lean. Tools and concepts such as Kanban, Work In Progress (WIP) limits, Process Cycle Efficiency (PCE), throughput, and systemic blockers are explored, all of which are prominent in Lean discussions. The text repeatedly discourages local optimisation (individual metrics), favouring system-wide efficiency, echoing Lean's central paradigm. Depth is strong—examples, quotes, and anti-patterns are explained, and the recommendation to measure organizational, not personal, effectiveness is clear. Intent is deeply supportive, as it encourages practitioners to understand and apply Lean Principles to improve workflow and outcomes. The audience is spot-on for Lean (teams, process owners, Kanban/Lean practitioners), and signal is high with minimal off-topic material (the brief final consultation offer is relevant and not distracting). No outdated practices, negative tone, or critical contradiction is present. Overall, the content is a strong real-world application and advocacy for Lean Principles, earning a very high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Lean Principles category. It thoroughly explores key Lean concepts like process efficiency, waste reduction, and system-wide optimisation, using practical tools and examples. The focus is on improving organisational flow rather than individual metrics, which aligns perfectly with Lean thinking. The material is relevant, supportive, and highly applicable for Lean practitioners, making it a strong match for this category."
   },
   "Increment": {
     "resourceId": "KHEPBWiFDKJ",
@@ -981,7 +993,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content strongly aligns with the Evidence Based Management (EBM) category as defined. It repeatedly criticises the measurement of individual cycle time in favour of system-level, data-driven metrics such as Process Cycle Efficiency (PCE), throughput, Work in Progress (WIP), and lead time—key empirical metrics that directly match EBM's focus areas (Current Value, Time to Market, Empirical Decision-Making, Outcome Management). The article offers practical alternatives grounded in evidence and throughput analysis, reinforcing the necessity of improving systems rather than individuals. Direct mentions of 'evidence-based management' as a phrase are lacking (lowering the 'mentions' score), but the core conceptual thrust (alignment) is high. The depth is strong, with illustrative examples and discussion on the nature of metrics, incentives, and system-wide improvement. The intended audience (Kanban and agile practitioners seeking meaningful improvement) is highly similar to that of EBM frameworks, and the signal-to-noise ratio is high—most paragraphs are relevant, with minimal tangential material. No penalties are applied; the content is timely, accurate, and the tone supports EBM principles. The confidence score reflects high relevance and substance, slightly reduced by the lack of explicit category naming and modestly by the somewhat niche (Kanban-centric) context.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Evidence Based Management category. It emphasises system-level, data-driven metrics over individual measures, aligning with EBM’s focus on empirical decision-making and outcome management. While it doesn’t explicitly mention EBM, its practical, example-driven approach and relevance to agile practitioners make it highly suitable for this category."
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1047,7 +1060,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content thoroughly critiques the common mistake of measuring individual cycle time in Kanban, advocating for system-level, practical metrics like Process Cycle Efficiency, throughput, WIP, and blockers. It directly references the limitations of theoretical or individual-focused approaches and presents case-based, experience-driven advice sourced from practitioners like Nigel Thurlow. The piece is clearly aimed at Agile/DevOps practitioners and project managers interested in actionable process improvement (audience alignment is high). Depth is substantial, exploring both problems and solutions with clear, pragmatic steps and warnings about unintended consequences. While 'pragmatic thinking' as a phrase is not overtly used, the entire argument embodies pragmatic, experience-based reasoning, making the conceptual alignment and depth scores particularly strong. There is very little extraneous or off-topic material, save a short call to action at the end, which keeps the signal-to-noise ratio high. No penalties are applied: the content is current, non-satirical, and strongly supports the intended framing.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it offers practical, experience-based advice for Agile and DevOps professionals. It critiques common misconceptions, recommends actionable metrics, and draws on real-world expertise. The discussion is focused, relevant, and provides clear guidance, making it highly valuable for those seeking pragmatic process improvement. The content is well-aligned with the intended audience and purpose."
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1107,7 +1121,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "The content is strongly anchored in the Software Development category, with multiple direct references to Kanban, cycle time, flow efficiency, bottlenecks, throughput, and other process improvement terms central to SDLC methodologies and agile practices. The conceptual alignment is extremely high, as the core argument (measuring system-wide, not individual, flow) is rooted in modern agile/Lean software engineering best practices. The depth of discussion is substantial: the article explains the conceptual problems with individual cycle time, outlines unintended consequences, gives actionable advice on relevant metrics (lead time, WIP limits, PCE, throughput), and contextualizes recommendations using authoritative sources like Nigel Thurlow. The intent is directly educative for software engineering practitioners and teams seeking to improve how they measure and manage work. The audience is a technical and methodological one—software teams using Kanban/agile approaches. The content's focus is tight; even anecdotes and examples directly support the thesis. There are no penalties for outdated info, tone, or irrelevant digressions. The only deduction from a perfect score is a slightly lower direct-mention score, as the phrase 'software development' itself is not present; otherwise, coverage is complete and highly relevant. This results in a very high overall confidence that the content fits the Software Development category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Software Development category. It thoroughly explores agile and Kanban concepts, focusing on process improvement and relevant metrics. The discussion is tailored to software teams, offering practical advice and referencing industry experts, making it highly relevant and valuable for practitioners in this field."
   },
   "Value Stream Management": {
     "category": "Value Stream Management",
@@ -1119,7 +1134,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the importance of optimising flow within a system rather than focusing on individual productivity, which aligns closely with the principles of Value Stream Management. It addresses key concepts such as Process Cycle Efficiency, Work in Progress limits, and the identification of bottlenecks, all of which are relevant to enhancing value flow. The depth of discussion is substantial, providing insights into how to measure and improve system performance, although it does not explicitly mention Value Stream Management as a term. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores system-wide flow optimisation and key metrics like Process Cycle Efficiency and Work in Progress limits. By focusing on bottlenecks and overall performance, it aligns well with Value Stream Management principles, even if the term isn’t directly used. The detailed discussion demonstrates clear relevance and depth, supporting a high confidence in its classification."
   },
   "Enterprise Agility": {
     "resourceId": "KHEPBWiFDKJ",
@@ -1311,7 +1327,8 @@
     "ai_penalty_details": "none",
     "final_score": 73.0,
     "reasoning": "The content primarily addresses the Kanban methodology, specifically critiquing the measurement of individual cycle time and advocating for a focus on systemic flow, Process Cycle Efficiency, and related team metrics. These topics are important in agile environments and lean practices, closely tying into team productivity, systemic improvement, and the avoidance of detrimental individual incentives. There are several implicit links to technical leadership: the guidance to focus on system metrics rather than individual performance requires leadership advocacy and cultural change within teams. The post discusses collaboration, blockers, WIP, incentives, and optimizing for team outcomes—all relevant to a technical leader's remit. However, the article does not explicitly mention 'technical leadership,' nor does it use language directly targeting leaders or managers (e.g., 'as a team lead you should...'). The main audience could be Kanban practitioners or agile coaches, rather than specifically technical leaders. Discussion depth is solid regarding flow metrics, but it only tangentially addresses leadership aspects (such as influencing team behavior or enabling continuous improvement culture) rather than making them the focal point. It does not address servant leadership, mentoring, agile ceremonies, or direct team guidance practices in depth. No penalties applied, as the practices discussed are modern and align with current Kanban/agile thinking. Therefore, the overall confidence reflects solid relevance to technical leadership in practice, but lacks explicit focus or comprehensive depth in the core leadership behaviors and responsibilities.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is highly relevant to technical leadership as it explores team metrics, systemic improvement, and the impact of incentives on collaboration—key concerns for leaders. However, it doesn’t directly address leadership roles or responsibilities, instead focusing on Kanban practices and team productivity. While it supports leadership goals, it’s more suited to practitioners or coaches than explicitly targeting technical leaders."
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -1401,7 +1418,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of optimising team performance through system-level metrics rather than individual metrics, which aligns with the core themes of team dynamics and collaboration. It highlights the negative impact of measuring individual cycle times on teamwork and system flow, which is relevant to enhancing team performance. However, while it touches on team collaboration and systemic improvement, it lacks detailed exploration of specific agile practices or methodologies, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it focuses on improving team performance by emphasising system-level metrics over individual ones. It clearly addresses how measuring individuals can harm collaboration and overall flow, which is central to team dynamics. However, it doesn’t delve deeply into specific agile methods, so its coverage of agile practices is somewhat limited."
   },
   "Technical Mastery": {
     "resourceId": "KHEPBWiFDKJ",
@@ -1419,7 +1437,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content focuses on distinguishing proper technical practices for measuring and improving software delivery workflow using Kanban. It directly critiques simplistic or misleading metrics (individual cycle time) and promotes process-based, system-oriented metrics such as Process Cycle Efficiency, WIP, throughput, and bottleneck identification—all of which align strongly to software craftsmanship and technical engineering excellence. The explanations include concrete examples (e.g., effects of misapplied measurement, why to track queues and blockers) and cite thought leaders such as Nigel Thurlow, emphasizing systems thinking and process optimization. The article avoids project management generalities and team dynamics outside the technical flow context. \n\nDirect Mentions is moderate, since there are no explicit references to 'Technical Mastery' by name, though the themes map cleanly to best practices. Conceptual Alignment, Depth, Audience, and Signal scores are all high; the main audience is practitioners aiming to improve software delivery processes through technical metrics. Intent is very strong, though not a perfect 10, as the primary focus is correcting a common mistake rather than purely instructing on best-in-class architecture or coding. There are no outdated techniques or penalties necessary—the article reflects current Kanban and flow-based engineering thinking. The overall score reflects its strong fit with the category, weighted by its practical and systemic guidance on high-quality technical software delivery metrics.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into technical best practices for measuring and enhancing software delivery using Kanban. It critiques common metric pitfalls, advocates for system-focused measures, and references industry experts, making it highly relevant for practitioners seeking to elevate technical processes and engineering excellence. The focus remains on technical flow, not general project management."
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -1467,7 +1486,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content primarily discusses the implications of measuring individual cycle time within the context of Kanban, which relates to engineering practices by emphasising system optimisation over individual productivity. It aligns with Agile principles by advocating for a focus on flow, collaboration, and systemic improvements rather than individual metrics. However, while it touches on relevant themes, it does not delve deeply into specific engineering practices like TDD or CI/CD, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores how measuring individual cycle time in Kanban connects to engineering practices, particularly by highlighting the importance of system-wide optimisation and collaboration. While it aligns with Agile values, it doesn’t go into detail on specific engineering techniques, making its relevance broad but not deeply technical."
   },
   "Frequent Releases": {
     "category": "Frequent Releases",
@@ -1611,7 +1631,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the importance of optimising system flow over individual productivity, which aligns well with the principles of value delivery. It highlights the significance of measuring metrics that enhance overall system efficiency, such as Process Cycle Efficiency and customer lead time, which are crucial for delivering value to customers. The depth of discussion on systemic improvements and the negative impacts of focusing on individual metrics further supports its relevance to the category. However, while it touches on value delivery concepts, it does not explicitly frame them within Agile or Scrum methodologies, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the value delivery category, as it emphasises improving system-wide efficiency and measuring metrics that directly impact customer outcomes. While it doesn’t specifically reference Agile or Scrum, its focus on holistic process improvements and customer-centric measures clearly aligns with value delivery principles."
   },
   "Acceptance Test Driven Development": {
     "resourceId": "KHEPBWiFDKJ",
@@ -1659,7 +1680,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of optimising system flow over individual productivity, which aligns with the principles of empirical process control. It emphasises transparency in measuring system performance rather than individual metrics, and it highlights the need for adaptation based on observed evidence of bottlenecks and inefficiencies. However, while it touches on key concepts, it does not delve deeply into the theoretical foundations or case studies specific to empirical process control, which slightly lowers the depth score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the category as it focuses on optimising overall system performance and highlights the value of transparency and adaptation—core aspects of empirical process control. However, it remains fairly high-level and doesn’t explore detailed theory or specific examples, which limits its depth within the category."
   },
   "Customer Satisfaction": {
     "resourceId": "KHEPBWiFDKJ",
@@ -1725,7 +1747,8 @@
     "ai_penalty_details": "none",
     "final_score": 83.0,
     "reasoning": "The content has frequent, explicit mentions of Kanban—a core Agile framework—both as a named methodology and in discussion. The entire article is centered around best practices for Kanban, and by implication, Agile frameworks that promote flow-based thinking. The conceptual alignment is high: the piece focuses on why systemic, Agile-style metrics are better than individual ones, referencing key Agile and Lean flow concepts (WIP, throughput, blockers, etc.) and quoting Kanban thought leader Nigel Thurlow. The depth of discussion is substantial, moving beyond superficial descriptions to discuss practical, systemic implications and cite key Agile measurement principles. The author's primary intent is educational, in line with the Agile Frameworks category’s goal of improving value delivery and responsiveness. The audience, given the terminology and references (WIP, Process Cycle Efficiency, Kanban Method), is well-matched to Agile practitioners, coaches, or managers. The signal-to-noise ratio is very high: there are no tangents or irrelevant filler, and every section ties back to systemic improvement in Kanban. No penalties are applied, as the content is up-to-date, does not undermine the framework, and is not critical in a satirical or hostile way; in fact, it reinforces essential Agile values. The only dimension with slightly lower marks is direct mentions, as while Kanban is discussed throughout, there are very few references to other Agile frameworks or the term 'Agile frameworks' directly, keeping the directness modest. Final confidence is high and proportionate to the evidence.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Agile Frameworks category. It thoroughly explores Kanban, a key Agile methodology, focusing on practical applications and systemic metrics. The discussion is detailed, relevant, and educational, targeting Agile practitioners. While it centres on Kanban rather than a broad range of frameworks, its alignment with Agile principles and value delivery is clear and strong."
   },
   "Organisational Change": {
     "category": "Organisational Change",
@@ -1749,7 +1772,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content discusses the importance of optimising system flow over individual productivity, which aligns with Lean principles. It mentions Kanban, Process Cycle Efficiency, and the need to eliminate bottlenecks, all of which are key Lean concepts. The depth of discussion is substantial, providing insights into how measuring individual cycle time can lead to inefficiencies and poor behaviours, thus reinforcing the Lean focus on systemic improvement. However, while Lean principles are central, the content primarily revolves around Kanban, which may slightly dilute its classification as strictly Lean.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the Lean category as it emphasises improving overall system flow, a core Lean principle. It explores concepts like Kanban, Process Cycle Efficiency, and bottleneck elimination, all central to Lean thinking. While Kanban is highlighted, the discussion remains rooted in Lean’s focus on systemic improvement rather than individual productivity, making the classification appropriate."
   },
   "Artificial Intelligence": {
     "category": "Artificial Intelligence",
@@ -1833,7 +1857,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the implications of measuring individual cycle time on decision-making within a Kanban system, highlighting how it can lead to poor choices and behaviours that detract from overall system efficiency. While it touches on decision-making principles, such as focusing on system improvement rather than individual metrics, the primary focus is on the critique of individual productivity measures rather than a structured decision-making framework. The discussion lacks depth in terms of evidence-based methodologies and frameworks for decision-making, which are central to the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly critiques the use of individual cycle time metrics in Kanban, emphasising their negative impact on system-wide efficiency. While it briefly mentions decision-making, it doesn’t delve into structured frameworks or methodologies, so it doesn’t fully align with the decision-making category. The focus remains on productivity measurement rather than comprehensive decision-making processes."
   },
   "Install and Configuration": {
     "resourceId": "KHEPBWiFDKJ",
@@ -1881,7 +1906,8 @@
     "ai_penalty_details": "none",
     "final_score": 73.0,
     "reasoning": "The content focuses on measurement practices in Kanban, strongly emphasizing the importance of using metrics and process-level data (e.g., Process Cycle Efficiency, Work in Progress, bottlenecks) to drive system improvement, aligning with evidence-based approaches to leadership and management. Concepts like measuring the right things, using data to inform action, and diagnosing systemic versus individual performance all reflect evidence-based leadership principles even if the explicit phrase is not frequently used. The depth is strong: the discussion goes beyond surface points, explaining unintended consequences, collaborative dynamics, and offering clear alternatives grounded in empirical reasoning. The intent is to promote best practices for team and system improvement using relevant metrics, overlapping with the Evidence Based Leadership audience, but slightly more towards process managers or practitioners rather than executive leaders. Mentions are low because the explicit category term is never directly referenced, and the language consistently uses process and metric terms instead of 'evidence-based leadership.' There are no off-topic tangents; while the entire piece is relevant, the framing leans slightly towards process improvement, not leadership development per se. No penalties apply, as nothing is outdated or contrary to the category. Overall, the confidence is strong due to deep conceptual alignment and relevant depth, even with lighter explicit mention.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the Evidence Based Leadership category, as it highlights the use of metrics and data-driven practices to guide improvement. While it focuses more on process and team management than executive leadership, the emphasis on empirical reasoning and informed decision-making fits the category’s principles, even if the specific term isn’t used. The discussion is thorough and relevant, supporting best practices in leadership through evidence."
   },
   "Shift Left Strategy": {
     "category": "Shift Left Strategy",
@@ -1911,7 +1937,8 @@
     "ai_penalty_details": "none",
     "final_score": 87.0,
     "reasoning": "The content does not directly use the phrase 'Continuous Improvement' frequently, but it is conceptually focused on the core tenets: ongoing, systemic optimization, reflection, and evidence-driven change ('improving the system', 'optimising flow', empirical metrics like PCE and WIP). There is explicit alignment with Lean and Agile philosophies, referencing Kanban, bottleneck elimination, and the dangers of local optimization over system improvement—all critical themes of Continuous Improvement. The discussion is in-depth, explaining not only what not to do (measuring individuals) but providing alternative, system-wide, data-driven metrics and justifying these recommendations with quotes and scenario analysis. The intended audience is practitioners or leaders responsible for metrics and process outcomes, which aligns closely with the target audience for business agility and continuous improvement discussions. The content is focused throughout, with minimal off-topic filler and all points reinforcing the argument for measuring and improving the whole workflow. No penalties are warranted: the advice is current, supports the principles of Continuous Improvement, and avoids outdated or satirical tones. The overall confidence is high due to the strong conceptual and depth scores, slightly reduced due to the lack of repeated explicit category naming.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Improvement category. While it doesn’t repeatedly use the exact term, it thoroughly explores key principles like systemic optimisation, data-driven change, and Lean/Agile practices. The advice is practical, relevant, and aimed at professionals seeking to enhance processes, making it highly suitable for audiences interested in ongoing improvement."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -2001,7 +2028,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "The content directly discusses Kanban, flow efficiency, process cycle efficiency, and system-level optimisation—all central to modern product development methodologies. The main thrust is correcting a common misunderstanding (measuring individuals rather than systems) and shifting the focus toward practices that improve whole-system flow, aligning tightly with iterative learning, customer value, and system optimisation as per the category definition. There are explicit calls to focus on throughput, customer lead time, and continuous improvement, referencing established thought leaders and best practices. While 'Product Development' isn't named verbatim, its components (delivery, outcomes, Kanban, risk mitigation via metrics) are fundamentally explored. The discussion is thorough (systemic analysis, misuse of metrics, desired behaviour, best practices), well-targeted at practitioners and product/process managers, and dense with relevant substance, maintaining high focus throughout. No evidence of outdated concepts or off-topic tangents.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores key product development concepts like Kanban, flow efficiency, and system-level optimisation. It corrects common misconceptions, emphasises best practices, and aligns with iterative learning and customer value, making it highly relevant for practitioners focused on improving product delivery and outcomes."
   },
   "GitHub": {
     "resourceId": "KHEPBWiFDKJ",
@@ -2037,7 +2065,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content centers on improving Kanban system flow by correctly measuring team and process metrics instead of focusing on individual performance. The discussion critiques measurement approaches that are antithetical to effective project management and advocates for system-level optimization, bottleneck identification, and continuous improvement—all core project management principles. Kanban, WIP limits, Process Cycle Efficiency, throughput, and metrics selection are explored at depth, demonstrating conceptual alignment and detail beyond surface mention. The content's intent is closely aligned with supporting practitioners in achieving project delivery goals. The audience is mainly teams and practitioners active in agile or Kanban-based environments; while it does not address executives or traditional PMs explicitly, it is highly relevant for modern project management roles. The signal-to-noise ratio is strong, as almost all content is focused on systemic improvement strategies. There are no significant outdated references or critical/satirical tones warranting penalty deductions. The confidence score is high, though slightly below perfect due to the primary focus on Kanban/agile teams and not the full spectrum of project management methods or audiences.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the project management category, as it thoroughly discusses Kanban system flow, team metrics, and continuous improvement—key project management concepts. Its focus on practical strategies for agile teams makes it highly relevant for practitioners, even though it doesn’t cover all project management audiences or methods. The discussion is clear, detailed, and directly supports effective project delivery."
   },
   "Hybrid Agile": {
     "category": "Hybrid Agile",
@@ -2061,7 +2090,8 @@
     "non_ai_confidence": 20,
     "final_score": 75.0,
     "reasoning": "The content discusses the concept of cycle time and its implications on flow efficiency, which is relevant to Time to Market. It mentions 'customer lead time (time to market)' explicitly, indicating a direct mention of the category. The discussion aligns with the core themes of optimising processes to improve delivery speed, although it primarily focuses on individual versus system metrics rather than broader Time to Market strategies. The depth of discussion is moderate, providing insights into how measuring individual cycle time can hinder overall system efficiency, which indirectly relates to Time to Market improvements. However, the primary focus is on individual metrics rather than a comprehensive exploration of Time to Market as a whole.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Time to Market category because it explores how cycle time and flow efficiency impact delivery speed. By highlighting the relationship between individual metrics and overall system performance, it offers insights into process optimisation that affect how quickly products reach customers, even if it doesn’t cover the full breadth of Time to Market strategies."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -2158,7 +2188,8 @@
     "non_ai_confidence": null,
     "final_score": 87.0,
     "reasoning": "The content focuses extensively on the principles of Kanban, specifically emphasizing the importance of system flow over individual performance metrics. It discusses how measuring individual cycle time undermines collaboration and promotes local optimization instead of system improvement, which aligns with the principle of Continuous Improvement and Value Delivery. The author repeatedly showcases actionable insights and reasoning behind the principles that guide effective Kanban implementation, detailing how to better measure and improve systemic flow. This depth and focus on actionable principles, rather than mere values or abstract concepts, supports a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category as it delves into practical Kanban principles, highlighting the significance of system-wide flow and continuous improvement. By critiquing individual metrics and advocating for actionable, system-focused strategies, it offers clear, applicable guidance for effective Kanban use, rather than just discussing abstract ideas."
   },
   "Tool": {
     "resourceId": "KHEPBWiFDKJ",
@@ -2210,7 +2241,8 @@
     "non_ai_confidence": null,
     "final_score": 73.0,
     "reasoning": "The content primarily discusses the concept of flow optimization within the context of Kanban, focusing on systemic improvements rather than individual measures. It aligns well with discipline principles by emphasizing the importance of understanding and improving organizational processes through shared methodologies, and it critiques the common practice of measuring individual performance. However, while it highlights the idea of systemic thinking associated with Kanban—an Agile discipline—it primarily centers on tools and practices rather than delving into overarching principles or the evolution of the discipline itself. Thus, it ranks highly for mentions and alignment but with moderate depth as it doesn't fully engage with concepts like governance structures or the evolution of methodologies within a broader context.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores flow optimisation in Kanban, emphasising systemic improvements and shared methodologies—key aspects of the discipline. While it strongly aligns with Kanban principles and critiques individual performance metrics, it focuses more on practical tools than on broader governance or the evolution of the discipline, offering solid but not comprehensive coverage of the category."
   },
   "Artifact": {
     "resourceId": "KHEPBWiFDKJ",
@@ -2249,7 +2281,8 @@
     "non_ai_confidence": null,
     "final_score": 80.0,
     "reasoning": "The content is primarily focused on improving Kanban practices by emphasizing the importance of system flow over individual productivity metrics. It directly discusses actionable techniques like tracking total WIP, identifying bottlenecks, and optimizing for system flow, which aligns well with the category of Practice. The depth of discussion explains systemic issues in Kanban and offers specific recommendations for measurement, showcasing a strong alignment with core topics of the Practice category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content clearly fits the Practice category, as it offers practical advice on enhancing Kanban systems. By focusing on system flow, tracking WIP, and addressing bottlenecks, it provides actionable steps and insights. The discussion goes beyond theory, delivering concrete recommendations that help teams improve their processes, which is central to the Practice category."
   },
   "Method": {
     "resourceId": "KHEPBWiFDKJ",
@@ -2262,7 +2295,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the Kanban method and its procedures for optimizing flow within a system, aligning well with the 'Method' category. It explicitly mentions key practices within Kanban, such as measuring Process Cycle Efficiency (PCE), monitoring Work in Progress (WIP), and identifying bottlenecks. These discussions reflect a structured approach to improving workflows, consistent with methods and procedural frameworks. The depth of the discussion offers specific suggestions on metrics to measure and behaviors to encourage, further supporting the high confidence score. Although there are elements of broader philosophy about individual versus system measurement, the focus remains on actionable methods, justifying a strong alignment with the 'Method' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Method' category, as it centres on the Kanban approach and its practical steps for workflow optimisation. By detailing specific practices like tracking PCE, managing WIP, and addressing bottlenecks, it demonstrates a structured, actionable methodology. While some broader ideas are mentioned, the main emphasis is on concrete methods, making the classification highly appropriate."
   },
   "Model": {
     "resourceId": "KHEPBWiFDKJ",
@@ -2275,7 +2309,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content discusses the inefficiencies of measuring individual cycle time and emphasizes the importance of Process Cycle Efficiency (PCE) in the context of Kanban. It provides a detailed analysis of how to optimize flow in a system rather than focusing on individual productivity, aligning closely with the themes of models in Agile and Lean contexts. The document also implies a framework for understanding flow and improvement in a system, which fits the category well. However, while it is focused on these models, it does not directly cite widely recognized frameworks like the Cynefin Framework or Lean Startup principles, leading to slightly lower alignment and depth scores.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores process optimisation and flow within Agile and Lean models, particularly through the lens of Kanban and Process Cycle Efficiency. While it doesn’t reference major frameworks by name, its focus on system-level improvement and modelling aligns well with the category’s intent, making it relevant and insightful for those interested in process models."
   },
   "Framework": {
     "resourceId": "KHEPBWiFDKJ",
@@ -2288,7 +2323,8 @@
     "non_ai_confidence": null,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the Kanban framework and its principles, focusing on the implications of measuring individual cycle time versus improving system flow. There are numerous explicit mentions of Kanban, Process Cycle Efficiency (PCE), and how these concepts influence workflow in a Kanban system. The discussion aligns well with core themes of the Framework category, emphasizing the importance of understanding systemic improvements over individual metrics, which reflects an understanding of Agile philosophy. However, while the content is rich in details about specific metrics and their effects, it does not deeply explore alternative frameworks or broader implementation strategies beyond Kanban, slightly limiting its conceptual breadth. Overall, the content directly engages with the category's themes while maintaining a high level of relevance.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Framework category, as it centres on Kanban principles and key metrics like Process Cycle Efficiency. The discussion highlights how these concepts shape workflow and system improvement, aligning closely with Agile philosophies. While it doesn’t delve into other frameworks, its focus on Kanban’s systemic approach makes it highly relevant to the category."
   },
   "Tenet": {
     "resourceId": "KHEPBWiFDKJ",
@@ -2301,7 +2337,8 @@
     "non_ai_confidence": null,
     "final_score": 84.0,
     "reasoning": "The content explicitly discusses the concept of 'flow efficiency over resource efficiency' in the context of Kanban, which directly aligns with key topics of the 'Tenet' category. It emphasizes actionable principles within the Kanban methodology, outlining specific metrics and decisions that enhance system flow rather than individual performance. The depth of the discussion is significant, detailing consequences of measuring individual cycle time and providing actionable strategies to optimize workflow. Given the comprehensive analysis and focus on implementation, the confidence score reflects a strong alignment with the Tenet criteria.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Tenet category, as it thoroughly explores core Kanban principles—specifically prioritising flow efficiency over resource efficiency. It offers practical guidance and detailed analysis, focusing on system-wide improvements rather than individual metrics, which is central to the Tenet theme. The depth and actionable insights further reinforce its fit within this category."
   },
   "Capability": {
     "resourceId": "KHEPBWiFDKJ",

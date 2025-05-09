@@ -81,7 +81,8 @@
     "non_ai_confidence": 50,
     "final_score": 92.0,
     "reasoning": "The content explicitly discusses Lead Time as a critical observability metric, directly linking it to the principles of observability in software systems. It provides a detailed explanation of how Lead Time contributes to system telemetry and operational feedback loops, aligning well with the core themes of observability. The depth of discussion is substantial, covering its role in Agile, Lean, and DevOps environments, and explaining its importance in optimising flow and value delivery. Overall, the content is highly relevant and focused on observability, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the observability category, as it thoroughly explores Lead Time as a key metric within this domain. It clearly connects Lead Time to system monitoring and feedback, and discusses its significance in Agile, Lean, and DevOps contexts. The detailed analysis demonstrates a deep understanding of observability principles, making the classification highly appropriate."
   },
   "Model": {
     "category": "Model",
@@ -93,7 +94,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses Lead Time as a metric within Agile, Lean, and DevOps contexts, which aligns with the category's focus on models that inform decision-making and enhance organisational agility. It provides a detailed explanation of Lead Time's role in monitoring workflow efficiency and improving value delivery, which reflects a conceptual understanding of flow and value delivery in Kanban. However, while it touches on the importance of Lead Time, it does not delve deeply into specific models or frameworks like the Cynefin Framework or the Three Ways of DevOps, which would strengthen its alignment with the category. Therefore, the confidence score reflects a strong but not complete alignment.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category well as it explores Lead Time—a key metric in Agile, Lean, and DevOps—and explains its impact on workflow efficiency and value delivery. While it clearly demonstrates an understanding of flow and organisational agility, it doesn’t go in-depth into specific models or frameworks, which would further solidify its fit. Overall, it aligns strongly but not completely with the category’s focus."
   },
   "Tenet": {
     "category": "Tenet",
@@ -117,7 +119,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses Lead Time as a critical metric in Agile, Lean, and DevOps environments, linking it to principles such as continuous improvement and value delivery. It explicitly mentions how Lead Time contributes to operational feedback loops and empirical decision-making, which aligns well with the core themes of the category. The depth of discussion is substantial, providing insights into how Lead Time functions as a diagnostic tool for optimising flow and enhancing responsiveness. However, while it touches on principles, the primary focus is on the metric itself rather than a broader discussion of principles.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores Lead Time within Agile, Lean, and DevOps contexts, highlighting its role in feedback loops and decision-making. While the main emphasis is on the metric, the discussion effectively connects it to key principles like continuous improvement and value delivery, offering valuable insights into its practical application."
   },
   "Practice": {
     "category": "Practice",
@@ -129,7 +132,8 @@
     "non_ai_confidence": 30,
     "final_score": 72.0,
     "reasoning": "The content discusses Lead Time as a metric related to workflow efficiency and value delivery, which aligns with the core themes of the Practice category. It provides a detailed explanation of how Lead Time functions within Kanban systems and its importance in Agile, Lean, and DevOps environments, indicating a strong conceptual alignment. However, while it touches on actionable insights, it lacks specific techniques or practices that teams can implement, which slightly reduces the depth of discussion. Overall, the content is primarily focused on the concept of Lead Time, making it relevant to the Practice category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the Practice category because it explores Lead Time as a key metric for workflow efficiency and value delivery. It clearly explains the concept’s relevance in Agile, Lean, and DevOps contexts, though it doesn’t delve into specific implementation techniques. Overall, its focus on understanding and applying Lead Time aligns closely with the category’s intent."
   },
   "Method": {
     "category": "Method",
@@ -195,7 +199,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The content is an in-depth exploration of Lead Time as an observability metric directly tied to Agile, DevOps, and Lean practices—central to the Metrics and Learning category. \n\n- **Direct Mentions (8.6):** While the terms 'metrics', 'observability metric', and specific references to Cycle Time and Throughput are frequent, the exact phrase 'Metrics and Learning' is not directly used; all mentions are highly relevant but fall short of maximal frequency.\n\n- **Conceptual Alignment (9.5):** The piece directly aligns with the intent of using data and metrics (Lead Time) to enable feedback, learning, and continuous improvement in Agile/DevOps environments. The focus on workflow efficiency, real-time dashboards, and empirical decision-making is a model fit for the category’s definition.\n\n- **Depth of Discussion (9.3):** The content moves beyond definitions, covering systemic impact, relationships to other metrics (Cycle Time, Throughput), diagnostic usage, feedback loops, and organisational implications, although it doesn’t quite explore varied frameworks or specific case studies.\n\n- **Intent/Purpose Fit (9.2):** The purpose is clearly to inform practitioners on how Lead Time metrics drive learning and improvement—not just description but advocating for data-driven ways of working.\n\n- **Audience Alignment (8.7):** The target audience appears to be technical practitioners and process leads in Agile/DevOps/Lean settings, though not exclusively executives; terminology and framing are strongly aligned with the expected audience.\n\n- **Signal-to-Noise Ratio (8.8):** The narrative is highly focused and relevant throughout, with negligible fluff or tangents.\n\nNo penalty deductions were applied as the content is up-to-date (uses current thinking and terms like observability, telemetry, Agile, DevOps) and supports, rather than undermines, the principles of the category. Overall, the confidence score rightly falls in the low-90s, reflecting a primary and nearly textbook illustration of Metrics and Learning in action.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Metrics and Learning category. It thoroughly explores Lead Time as a key metric in Agile and DevOps, showing how it supports feedback, learning, and continuous improvement. The discussion is practical and data-driven, aimed at technical practitioners, and stays focused on how metrics drive better workflows and decision-making. While it doesn’t use the exact category name, its alignment is clear and strong."
   },
   "Self Organisation": {
     "resourceId": "Lead Time",
@@ -231,7 +236,8 @@
     "ai_penalty_details": "none",
     "final_score": 72.0,
     "reasoning": "The content provides a detailed explanation of Lead Time, focusing on its role as a flow metric in Kanban, Agile, Lean, and DevOps environments. It explores Lead Time as a means to monitor workflow efficiency, diagnose bottlenecks, and foster continuous improvement through data-driven feedback. These concepts are closely tied to product delivery, efficiency, and performance, which are adjacent and sometimes overlapping with Product Management. However, the piece does not directly mention 'Product Management' or explicitly address its strategic responsibilities, such as aligning customer needs with business goals, managing stakeholder interests, or product portfolio decisions. Instead, the focus is mostly on workflow observability and process optimization at the team or system level. The content does appeal to audiences involved in delivery, process optimization, and empirical improvement efforts—areas of concern for Product Managers—yet it does not discuss product management frameworks or theories directly. \n\nScoring Justifications:\n- Mentions: 'Product management' is not explicitly referenced; only tangential topics like Agile, Lean, and delivery are mentioned. (2.8)\n- Alignment: The metric is important for delivery, which impacts product management, but the framing is more operational and less strategic/product-focused. (8.2)\n- Depth: The discussion is substantive for Lead Time and its context, but does not extend to broader strategic product management practices. (7.9)\n- Intent: The content aims to inform and support delivery optimization, which is somewhat relevant to product managers though not the central intent. (7.3)\n- Audience: Likely targets Agile practitioners, team leads, and those interested in delivery efficiency; overlaps with, but does not focus on, product managers and strategists. (7.8)\n- Signal: The content stays highly on-topic with respect to defining and exploring Lead Time; very little filler. (8.1)\n\nNo penalty points are applied: the information is current and accurately framed, with no criticism or outdated practices. \n\nOverall, this resource is 'Secondary'—it is valuable context for Product Managers, especially those overseeing delivery teams, but does not center on core product management methodologies, frameworks, or strategy.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content thoroughly explains Lead Time as a flow metric within Agile and Lean practices, focusing on workflow efficiency and process improvement. While these topics are relevant to product managers, the article does not directly address product management strategy or responsibilities, making it more of a useful supplementary resource than a core product management reference."
   },
   "Agile Philosophy": {
     "resourceId": "Lead Time",
@@ -285,7 +291,8 @@
     "ai_penalty_details": "none",
     "final_score": 73.0,
     "reasoning": "The content discusses Lead Time as an observability metric in Agile and Lean contexts. There are several explicit references to visibility and transparency: phrases like 'providing external visibility,' 'performance transparency,' and 'dashboards and monitoring tools often surface Lead Time' connect the metric to transparency practices. For 'Direct Mentions' (6.1), the term transparency is referenced explicitly but is not the core focus. 'Conceptual Alignment' (8.2) receives a strong score as the content clearly describes how Lead Time increases visibility and informs decision-making—key transparency concepts. 'Depth of Discussion' (6.9) acknowledges that, while the piece discusses the role of Lead Time as a transparency mechanism, its main focus is still the metric itself, not transparency philosophy or practices. For 'Intent' (7.1), the content is informative, with a purpose aligned toward increasing visibility, though primarily through the lens of measurement rather than transparency for its own sake. 'Audience Alignment' (7.6) is strong: it targets Agile and DevOps practitioners who are the main audience for transparency practices but also appeals to metrics/operations roles. For 'Signal-to-Noise' (7.4), the content is focused with little filler, but the central topic remains about Lead Time as a metric rather than transparency as such. No penalties were required, as the content is current, objective, and aligned with established Agile and observability practices. The overall confidence reflects a Secondary level: transparency is a strong secondary theme enabled by Lead Time, but not the primary topic.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it clearly links Lead Time to transparency by highlighting how the metric enhances visibility and informs decision-making in Agile and Lean environments. While transparency isn’t the main focus, it’s a strong secondary theme, with explicit references and practical examples. The discussion is relevant for practitioners interested in transparency, though the primary emphasis remains on Lead Time as a metric."
   },
   "Scrum Team": {
     "resourceId": "Lead Time",
@@ -663,7 +670,8 @@
     "ai_penalty_details": "none",
     "final_score": 98.0,
     "reasoning": "This content provides a textbook example of the \"Lead Time\" category. It directly and repeatedly names 'Lead Time' (9.6/10), including in title, opening sentence, and section summaries. The conceptual alignment is perfect (10.0/10): all main ideas not only match but also reinforce the official definition, and clarify the distinction between Lead Time and Cycle Time. The depth score is very high (9.8/10) due to specific elaborations: the metric's role in Kanban and observability, differentiation from Cycle Time, impact on workflow efficiency and value delivery, applications within Agile/Lean, and references to telemetry, dashboards, and continuous improvement. Intent/purpose is maximally aligned (10/10): the article is clearly designed to inform and guide relevant stakeholders regarding Lead Time. Audience fit is just slightly less than perfect (9.5/10); although it targets primarily technical/process-oriented audiences, the explanations are accessible enough for other organizational roles. Signal-to-noise is also highly focused (9.7/10): all content is central to core Lead Time topics, with no significant digressions or unrelated metrics. No penalty points have been warranted, as the information is current and the tone is supportive and accurate. Thus, the calculated confidence score of 98.04 reflects an extremely strong, primary fit for the \"Lead Time\" category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the \"Lead Time\" category. It consistently focuses on Lead Time, thoroughly explains its definition, applications, and distinctions from related metrics. The article is clear, detailed, and highly relevant for its intended audience, making it a strong example of content that both informs and guides stakeholders about Lead Time."
   },
   "Increment": {
     "resourceId": "Lead Time",
@@ -771,7 +779,8 @@
     "ai_penalty_details": "none",
     "final_score": 72.0,
     "reasoning": "The content introduces and thoroughly discusses Lead Time as an observability metric, emphasizing its role in providing teams with actionable data and system telemetry. Direct mentions of 'decision making' are limited (explicitly referenced only as 'empirical decision-making'), resulting in a moderate score for Direct Mentions. However, the Conceptual Alignment is strong: the metric is framed as a diagnostic tool for data-informed adjustments, responsiveness, and performance transparency, clearly aligning with evidence-based management principles and feedback loops outlined in the category definition. The Depth of Discussion is robust, exploring how Lead Time interacts with other metrics (Cycle Time, Throughput), Agile/Lean/DevOps relevance, and continuous improvement processes—though it doesn't elaborate with frameworks or case studies. The Intent is supportive and informative for operational improvement but centers more on metric explanation than on structured decision processes, hence a slightly lower intent score. Audience Alignment is high, clearly targeting practitioners and teams working in technical, Agile, and DevOps contexts. Signal-to-Noise is also high: the content is densely focused on the metric’s relevance and practical application. No penalties for outdatedness or undermining tone were applicable, as all information is current and supportive. The confidence score reflects strong but not complete coverage of the 'Decision Making' category, as the focus remains primarily on measurement and operational feedback rather than deep dives into structured decision frameworks or empirical prioritization.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the 'Decision Making' category well, as it highlights Lead Time as a valuable metric for guiding data-driven improvements and operational transparency. While explicit references to decision-making are limited, the discussion strongly supports evidence-based management and feedback loops. The focus is practical and relevant for Agile and DevOps teams, though it centres more on measurement than on formal decision frameworks."
   },
   "Collaboration Tools": {
     "resourceId": "Lead Time",
@@ -807,7 +816,8 @@
     "ai_penalty_details": "none",
     "final_score": 86.0,
     "reasoning": "The content deeply explores Lead Time as an observability metric within Agile, Lean, and DevOps environments, emphasizing workflow efficiency, delivery responsiveness, and continuous improvement—key principles central to Business Agility. Although the phrase 'business agility' is not directly mentioned, the thematic alignment is strong: the content addresses how shorter lead times drive responsiveness to market needs and organizational resilience. The depth is substantial, covering distinctions (Lead Time vs. Cycle Time), system telemetry, and operational feedback loops. Intent is informative and focused on enabling better business outcomes. The audience is practitioners and leaders interested in workflow optimization and agile practices, aligning well with the category's typical readership. Some points are taken off in 'mentions' and 'signal' due to the lack of direct category reference and a narrower focus on the metric rather than the broad spectrum of business agility topics. No penalties are applied, as the content is current, neutral, and on-topic.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Business Agility category, as it thoroughly examines Lead Time—a key metric for workflow efficiency and responsiveness in Agile, Lean, and DevOps contexts. While it doesn’t explicitly mention 'business agility', its focus on improving delivery and adaptability aligns well with the category’s core themes, making it highly relevant for practitioners seeking to enhance organisational agility."
   },
   "Organisational Agility": {
     "resourceId": "Lead Time",
@@ -825,7 +835,8 @@
     "ai_penalty_details": "none",
     "final_score": 84.0,
     "reasoning": "The content provides a focused, in-depth discussion about Lead Time as an observability metric, especially its role within Agile, Lean, and DevOps environments. There are direct references to Agile methodologies, continuous improvement, responsiveness to market needs, and organisational resilience—themes squarely within Organisational Agility. The main ideas and supporting details (e.g., discussion of feedback loops, performance transparency, and empirical decision-making) strongly align with the intent of the category. While the term 'organisational agility' is not named directly, the content frames Lead Time as an enabler of the very capabilities the category defines. The depth is solid, with practical connections to system health, decision-making, and adaptability, though a broader exploration (e.g., leadership, culture, case studies) would have pushed the depth score higher. The intended audience (teams leveraging metrics in Agile/DevOps cultures) matches the organizational focus, and most of the discussion is relevant—though some space is spent on technical nuances of related metrics, slightly lowering the signal-to-noise score. No outdated practices or category-negative tone observed. Overall, the confidence score reflects high alignment and depth, with minor deductions for limited direct category naming.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Organisational Agility category. It thoroughly explores Lead Time as a key metric in Agile and DevOps contexts, highlighting its impact on adaptability, feedback, and decision-making. While it doesn’t use the term ‘organisational agility’ directly, the discussion clearly supports the category’s themes, making it highly relevant for teams focused on improving organisational responsiveness."
   },
   "Backlog Refinement": {
     "resourceId": "Lead Time",
@@ -915,7 +926,8 @@
     "ai_penalty_details": "none",
     "final_score": 84.0,
     "reasoning": "The content provides a detailed exploration of Lead Time as a metric central to flow-based systems, frequently referencing its use within Kanban and elaborating on its role in visualizing and optimizing system performance. Direct mentions of Kanban are present and accurate, though not pervasive (appearing as one solid reference rather than throughout). The conceptual alignment with Kanban is strong: the discussion emphasizes flow, observability, and continuous improvement—all core Kanban tenets. The depth is high, as the explanation compares Lead Time with Cycle Time, places these in the context of broader flow metrics, and highlights their relevance in enabling feedback loops and systemic improvements. The intent is clearly to inform about a Kanban-related metric rather than just generically describing Lead Time. The audience alignment is well-suited for Kanban practitioners, though the content is also relevant to those in Agile/Lean/DevOps. The signal-to-noise ratio is high: nearly all content is on-topic, though brief references to other frameworks slightly dilute the Kanban focus. No penalties apply, as the content is up-to-date and its tone supportive. Overall, the confidence reflects a strong, but not absolute, fit for the Kanban category due to the slightly broader context (mentioning Agile/Lean/DevOps) and limited repetition of the Kanban term.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Kanban category. It thoroughly explains Lead Time within the context of Kanban, focusing on flow, observability, and continuous improvement—key Kanban principles. While it briefly references related frameworks, its main intent and depth clearly serve Kanban practitioners, making it highly relevant and informative for this audience."
   },
   "Empirical Process Control": {
     "resourceId": "Lead Time",
@@ -933,7 +945,8 @@
     "ai_penalty_details": "none",
     "final_score": 78.0,
     "reasoning": "The content discusses 'Lead Time' in the context of Agile and Lean environments, explicitly referencing Kanban and concepts central to empirical process control such as observability, feedback loops, transparency, and continuous improvement. These ideas are conceptually aligned with the category, and the depth of discussion is above average: it explores the difference between Lead Time and Cycle Time, discusses systems telemetry, and highlights the strategic importance of Lead Time in fostering performance management. The main intent is supportive and informative, aimed at Agile practitioners and teams interested in process optimization. However, the direct mention of 'Empirical Process Control' by name is lacking—although phrases like 'empirical decision-making,' 'feedback loops,' and 'transparency' are present, which fits the definition's spirit but not its explicit wording. The content is tightly focused with minor tangential elaboration (e.g., DevOps is referenced but this does not dilute relevance). No outdated practices or contradictions are present. Final confidence score is proportionate given the strong conceptual, depth, and intent fit, penalized slightly only by the light referencing of the explicit category terminology.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores key concepts like Lead Time, feedback loops, and transparency within Agile and Lean frameworks. While it doesn’t explicitly name 'Empirical Process Control', it clearly addresses its principles, making it highly relevant for practitioners focused on process optimisation and continuous improvement. The discussion is detailed and supportive, with only minor tangential references."
   },
   "Agile Leadership": {
     "resourceId": "Lead Time",
@@ -987,7 +1000,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content discusses Lead Time as a key metric in Agile, Lean, and DevOps contexts, directly relating to market adaptability by emphasizing responsiveness, feedback loops, and organizational resilience—core category criteria. The content thoroughly explains how Lead Time supports empirical adaptation and decision-making, referencing Kanban, Cycle Time, continuous improvement, and flow optimization. It avoids tangential management topics, staying focused on metrics that inform adaptability. While it does not use the precise phrase 'market adaptability,' it frequently links Lead Time to responsiveness and adaptability outcomes, directly mentioning Lean, Agile, and DevOps—reinforcing alignment. The target audience appears to be technical/operational practitioners, closely aligned to the category’s intended readership. Minor deductions for not addressing explicit case studies or cross-functional collaboration are offset by the detailed and relevant exploration. Overall, the high confidence accurately reflects depth, focus, and intent toward market adaptability enhancement.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it clearly connects Lead Time to adaptability and responsiveness in Agile, Lean, and DevOps settings. It focuses on how this metric drives improvement and decision-making, aligning well with the category’s goals. While it doesn’t use the exact term ‘market adaptability’ or include case studies, its depth and relevance make it highly suitable for technical and operational audiences."
   },
   "Daily Scrum": {
     "resourceId": "Lead Time",
@@ -1023,7 +1037,8 @@
     "ai_penalty_details": "none",
     "final_score": 78.0,
     "reasoning": "The content explains Lead Time as a flow-based observability metric central to workflow efficiency and value delivery—key components of Value Stream Management. The conceptual alignment is strong, as Lead Time is a foundational metric in mapping and analyzing value streams. Depth is moderately high due to explanations of how Lead Time facilitates improved delivery, system health, and continuous improvement, though the discussion remains focused solely on this metric and does not delve into broader value stream practices or methodologies. The intent is to inform about a crucial value stream metric, closely matching the category's purpose. The intended audience (delivery, Agile/Lean/DevOps practitioners) fits well within the scope of Value Stream Management. Some content is dedicated to related concepts (e.g., Cycle Time, Throughput) but maintains high relevance (signal). The score is not maximal because there is no direct mention of 'Value Stream Management', nor a comprehensive exploration of full value stream practices, mapping techniques, or direct organizational alignment; the focus is specific to a metric, not the discipline as a whole. No penalties were necessary as the material is current, methodologically aligned, and not contradictory.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it clearly explains Lead Time—a core metric in Value Stream Management—and its role in improving workflow efficiency and value delivery. While it doesn’t cover the full breadth of value stream practices, its focus on a foundational metric is highly relevant for practitioners interested in optimising delivery and system health."
   },
   "Technical Leadership": {
     "resourceId": "Lead Time",
@@ -1041,7 +1056,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content centers on Lead Time as a metric to monitor workflow efficiency, closely relating to Agile and DevOps contexts, both of which are common in technical leadership discussions. There is strong conceptual alignment: the text discusses using metrics and feedback loops to enhance team performance, topics directly referenced in the category scope. There is mention of system telemetry, responsiveness, continuous improvement, and data-driven decision-making—all relevant for technical leaders. However, the content does not directly mention or focus on technical leadership or its specific principles: it does not explicitly cover servant leadership, coaching, agile ceremonies, mentoring, or specific team dynamic scenarios. The main depth is in explaining the metric rather than technical leadership per se, though audience fit is high as practitioners and technical leads would benefit. Signal is good, though some of the content is generic around observability or metrics rather than leadership. No penalties were warranted, as the content is not outdated or contradictory; it is entirely supportive of agile practices. The final score reflects a moderate-to-high, but not perfect, fit—instructive for a technical leadership audience, but not solely or robustly about technical leadership topics.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is highly relevant for technical leaders, as it explores metrics and feedback loops that support team performance and continuous improvement. While it doesn’t delve deeply into core leadership principles or practices, its focus on workflow efficiency and data-driven decision-making makes it valuable for those in technical leadership roles. Overall, it’s a strong, though not exclusive, fit for the category."
   },
   "Time to Market": {
     "resourceId": "Lead Time",
@@ -1059,7 +1075,8 @@
     "ai_penalty_details": "none",
     "final_score": 87.0,
     "reasoning": "The content offers a detailed explanation of Lead Time as it relates to workflow observability, system health, and continuous improvement. While it never uses the phrase 'Time to Market' directly, it thoroughly covers core associated metrics, their purpose, and relevance in Agile, Lean, and DevOps environments. The discussion firmly aligns with the category's conceptual focus, especially through highlighting Lead Time's role in accelerating value delivery and responding to market needs—core to reducing Time to Market. The discussion is deep (differentiating Lead Time from Cycle Time and relating it to throughput, bottlenecks, and organizational responsiveness) and targets an audience interested in process optimization and evidence-based management. Intent and signal remain slightly below perfect because the focus is metric-centric rather than overtly centered on company-wide Time to Market strategy, and does not explore broader organizational strategies or cross-functional methods for reducing Time to Market, but instead stays mostly at the metric level. No penalties are warranted; the content is modern, relevant, and supportive of category goals. The confidence score is high but not maximal, reflecting the primary focus on Lead Time as a metric with very strong but not exclusive coverage of the Time to Market theme.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category well, as it explores Lead Time in depth and connects it to key concepts like workflow efficiency and value delivery—central to reducing Time to Market. While it doesn’t explicitly discuss broader organisational strategies, its focus on metrics and process improvement is highly relevant for those aiming to optimise Time to Market in Agile and DevOps contexts."
   },
   "Lean Product Development": {
     "resourceId": "Lead Time",
@@ -1077,7 +1094,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content centers around the metric 'Lead Time', which is highly relevant to Lean, Agile, and DevOps environments focused on continuous improvement and value delivery. 'Lean' and related terms are directly referenced multiple times, and Lead Time is described in the context of efficiency, flow, and reduction of waste—core principles of Lean Product Development—meeting strong conceptual alignment. The discussion is in-depth, exploring how Lead Time works, its importance for flow, improvement, and actionability within product development systems. However, the piece is moderately targeted at practitioners of Lean, Agile, and DevOps generally rather than specifically or exclusively Lean Product Development, so audience and intent receive slightly lower marks. Signal is strong, but some discussion refers to broader observability and delivery system metrics, not only Lean practices, introducing minor noise. No penalties are required, as there are no outdated notions or contradictory tones. Final confidence reflects a strong, though not absolute, fit for the Lean Product Development category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Lean Product Development category, as it thoroughly discusses Lead Time—a key Lean metric—within the context of efficiency, flow, and waste reduction. While it also touches on Agile and DevOps, its focus on Lean principles and terminology makes it highly relevant, though not exclusively targeted at Lean Product Development practitioners."
   },
   "One Engineering System": {
     "resourceId": "Lead Time",
@@ -1131,7 +1149,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content provides an in-depth explanation of Lead Time as a metric, positioning it within the broader context of workflow efficiency and value delivery—topics relevant to project management methodologies, particularly Agile, Lean, and DevOps. Although 'Project Management' as an explicit phrase is not mentioned, the content aligns conceptually with project management principles such as delivery predictability, flow optimization, monitoring, and continuous improvement. The discussion goes beyond mere definitions, exploring the practical application and strategic significance of Lead Time for teams. The intent centers on using metrics for system improvement, which matches a project management audience focused on execution and delivery outcomes. The content maintains strong topical focus, addressing practitioners including project managers and teams seeking to optimize delivery. Because the focus is on a specific metric rather than comprehensive project management processes or lifecycle discussions, depth is moderately high but not maximal. No outdated references or contradictory tone were detected; thus, no penalties were applied. The final confidence score reflects that while the content is a strong fit, it is most relevant to project management through its application in Agile/Lean contexts rather than as a general or all-encompassing project management resource.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the project management category, as it explores Lead Time in depth and connects it to key principles like workflow efficiency and value delivery. While it doesn’t cover the full project management lifecycle, its focus on metrics and improvement aligns well with Agile and Lean practices, making it highly relevant for project managers and teams aiming to optimise delivery."
   },
   "Sensemaking": {
     "resourceId": "Lead Time",
@@ -1167,7 +1186,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content is deeply aligned with the 'Team Performance' category. It explicitly discusses Lead Time as a key system-level, team-focused metric for delivery capability, reflecting core category themes such as flow, throughput, and team-driven improvement. Direct mentions of teams, delivery metrics, and system observability appear prominently throughout (e.g., 'helping teams monitor workflow efficiency', 'enables teams to correlate systemic delays', 'empowers teams to optimise flow'). The depth is strong, covering both definition, value, comparison to related metrics (Cycle Time, Throughput), and practical implications. Intent is highly aligned: the whole purpose is to inform teams and practitioners about monitoring/improving delivery capabilities. The primary audience (Agile, Lean, DevOps teams) matches the category's practitioner focus. The signal-to-noise ratio is excellent; there is minimal off-topic content, and no outdated or critical/satirical tone is present, so no penalties apply. Minor deductions in 'mentions' (not every paragraph directly says 'team performance') and 'audience' (possible appeal to system architects as well as teams) maintain calibration without producing identical scores. Overall, the confidence score is high and precisely weighted toward strong team performance relevance.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the 'Team Performance' category. It centres on Lead Time as a key metric for teams, exploring its definition, value, and practical use in improving delivery. The focus is on helping teams monitor and optimise their workflow, making it highly relevant for Agile, Lean, and DevOps practitioners. While it may also interest system architects, its primary intent and audience are clearly team-oriented."
   },
   "Platform Engineering": {
     "resourceId": "Lead Time",
@@ -1365,7 +1385,8 @@
     "ai_penalty_details": "none",
     "final_score": 86.0,
     "reasoning": "The content provides a thorough discussion of Lead Time as a key metric for monitoring workflow efficiency and value delivery, aligning well with 'Evidence Based Management.' It directly addresses empirical decision-making for process improvement, referencing observability, telemetry, and data-informed adjustments—core EBM practices. While 'Evidence Based Management' is not directly named, the text uses aligned terminology: 'empirical decision-making,' 'value delivery,' and 'continuous improvement.' The discussion dives into how Lead Time affects delivery predictability, performance, and responsiveness, hitting the 'Time to Market' and 'Outcome Management' topics from EBM. The depth is strong, connecting Lead Time to related metrics (Cycle Time, Throughput), practices (Agile, Lean, DevOps), and system health monitoring. The audience is moderately well-aligned, aimed at practitioners and teams/professionals interested in data-driven improvement. The main signal is strong, although some tangential background on Kanban and observability marginally dilutes the focus. No content is outdated, no contradictory tone, and all points are relevant to EBM criteria, resulting in a high but not perfect confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the 'Evidence Based Management' category well, as it explores Lead Time in the context of data-driven process improvement and value delivery. It uses terminology and concepts central to EBM, such as empirical decision-making and continuous improvement, and connects Lead Time to related metrics and practices. While it briefly touches on related topics, its main focus remains highly relevant to EBM principles."
   },
   "Product Development": {
     "resourceId": "Lead Time",
@@ -1383,7 +1404,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content gives a thorough and detailed explanation of Lead Time as a metric central to iterative delivery, workflow efficiency, and value optimisation. There are multiple explicit references to Agile, Lean, and DevOps, directly tying the metric to continuous improvement and feedback-driven product delivery—all core tenets of Product Development. The description goes beyond superficial definition, covering the operational flow, feedback mechanisms, and its diagnostic role in maximising outcomes, aligning tightly with the category's focus on delivering value via iterative methodologies. The intended audience is clearly product teams, leaders, and practitioners focused on improving delivery and outcomes. Most of the material is highly focused with minimal filler and directly relevant to product development methodology. Although the term 'Product Development' itself is not stated explicitly and the emphasis is on the metric within these practices, the conceptual and audience alignment are extremely strong. No outdated or contradictory information is present. The confidence score is high due to this close alignment, comprehensive coverage, and clear intent.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Product Development category. It thoroughly explains Lead Time in the context of Agile, Lean, and DevOps, highlighting its importance for iterative delivery and continuous improvement. The focus on workflow efficiency, feedback, and value aligns perfectly with product teams aiming to optimise outcomes, making it highly relevant and well-targeted for this audience."
   },
   "Trend Analysis": {
     "resourceId": "Lead Time",
@@ -1401,7 +1423,8 @@
     "ai_penalty_details": "none",
     "final_score": 83.0,
     "reasoning": "The content is a deep dive into Lead Time as an observability metric within Agile, Lean, and DevOps contexts, focusing on its role in measuring and improving workflow efficiency. While the term 'Trend Analysis' is not directly mentioned (low score for direct mentions), the main body discusses how observing Lead Time over time can reveal patterns, systemic delays, bottlenecks, and provide empirical data for decision-making—all key aspects of trend analysis as defined for this category. The piece conceptualizes Lead Time as a tool for identifying trends in delivery performance, which is aligned with the category, but does not fully explore broader market or methodological trends, so the depth is less than maximum. The intent is informative and supports strategic improvement, closely matching the category's purpose. The target audience is practitioners and decision-makers interested in Agile and DevOps metrics, aligning well with the expected audience. The content stays focused with minimal digression. No penalties were applied as the content is current, not critical or satirical, and references established, relevant practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category as it explores how tracking Lead Time over periods helps identify patterns and bottlenecks, which are central to trend analysis. While it doesn’t explicitly mention “Trend Analysis,” it demonstrates how monitoring this metric supports data-driven decisions and workflow improvements—key aims of the category. The focus on Agile and DevOps practitioners also matches the intended audience."
   },
   "Agile Frameworks": {
     "resourceId": "Lead Time",
@@ -1563,7 +1586,8 @@
     "ai_penalty_details": "none",
     "final_score": 73.0,
     "reasoning": "The content primarily discusses the metric 'Lead Time' within the context of workflow efficiency, value delivery, and operational improvements. While it explicitly references Agile, Lean, DevOps, and the importance of continuous improvement, it does not directly mention core engineering practices such as clean code, TDD, CI/CD, refactoring, automation, or pair programming. Conceptual alignment is moderately strong because monitoring Lead Time contributes to engineering efficiency and adaptability, which are outcomes sought by good engineering practices. The depth is above average, exploring the concept and its implications, but it does not delve into specific methodologies or code-level practices. The intent aligns with the improvement and measurement culture of engineering, though the main focus is on workflow metrics rather than direct technical practices. The audience appears to be Agile and technical practitioners interested in delivery metrics and system telemetry, which is proximate to the intended audience for engineering practices. The signal-to-noise ratio is strong, as the content is focused and relevant to improving work systems in Agile teams. No penalties apply, as the discussion is current and does not contradict the category. The overall confidence score reflects that while the topic supports engineering practices contextually, it falls short of explicitly discussing core practices as defined in the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category to a moderate extent. It centres on 'Lead Time' and its role in workflow efficiency and continuous improvement, which are important to engineering practices. However, it doesn’t directly address core engineering techniques like TDD or CI/CD. The discussion is relevant and insightful for Agile and technical audiences, but lacks explicit coverage of foundational engineering methods."
   },
   "Organisational Culture": {
     "resourceId": "Lead Time",
@@ -1599,7 +1623,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content provides a thorough discussion of Lead Time as a metric used to measure delivery efficiency, especially relating to Kanban and Agile environments. It mentions Agile, Kanban, and continuous improvement, establishing a conceptual link with Agile Planning by focusing on how teams can respond and adapt based on empirical measurement. However, it does not directly discuss Agile Planning processes, such as backlog refinement, user stories, or sprint planning, and primarily centers on metrics and observability. Audience alignment is strong—targeting practitioners, technical leaders, and those invested in iterative improvement methodologies—while the signal remains focused on actionable metrics for performance. The depth is substantial for Lead Time as a metric but less so for Agile Planning specifically. No penalties are applied, as the text aligns with up-to-date Agile and Lean practices and maintains a constructive, informative tone. The confidence score is moderate to high, reflecting solid relevance but stops short of being a dedicated exploration of Agile Planning per se.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited for those interested in Agile and Lean practices, offering a detailed look at Lead Time as a performance metric. While it effectively connects to Agile concepts and continuous improvement, it doesn’t directly address Agile Planning activities like backlog refinement or sprint planning. Overall, it’s informative for practitioners but is more focused on metrics than on planning processes themselves."
   },
   "Organisational Psychology": {
     "resourceId": "Lead Time",
@@ -1653,7 +1678,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content explicitly mentions DevOps as an environment where Lead Time is an important metric and highlights key themes closely aligned with the DevOps philosophy: observability, feedback loops, continuous improvement, and value delivery. The discussion of Lead Time as a cornerstone metric, together with references to data-driven decision-making and system performance, maps well to DevOps principles. While Agile and Lean are also discussed, the content maintains strong relevance to DevOps practitioners and strategists by emphasizing cross-cutting themes such as flow efficiency, transparency, and operational feedback. The depth of explanation is substantial, going beyond basic definition to explore use cases, system telemetry, and improvements. The intent is informative and supportive of DevOps goals. Some relevance extends to adjacent methodologies (Agile/Lean/Kanban), hence slightly moderating the directness and intent scores; however, the overall focus and audience are very much in line with DevOps interests. No penalties are needed as the content is current, objective, and well-aligned. The overall confidence reflects strong, but not exclusive, categorization under DevOps.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the DevOps category, as it centres on key DevOps concepts like lead time, observability, and feedback loops. While it touches on Agile and Lean, its main focus is on metrics and practices that drive DevOps outcomes, such as continuous improvement and value delivery. The depth and practical orientation make it highly relevant for DevOps professionals, even though it also appeals to related methodologies."
   },
   "Complexity Thinking": {
     "resourceId": "Lead Time",
@@ -1743,7 +1769,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content provides an in-depth explanation of Lead Time as a metric central to Agile, Lean, and DevOps practices, all of which are strong contexts for Social Technologies. While the term 'Social Technologies' is not directly mentioned (scoring lower on 'Direct Mentions'), the discussion aligns conceptually: Lead Time is framed as a diagnostic tool that empowers teams, fosters continuous improvement, and promotes transparency and empirical decision-making—all core to the Social Technologies category. The depth of the piece is substantial, elaborating on how Lead Time interacts with team dynamics, operational feedback loops, and value delivery. Intent and audience are well-matched, targeting readers interested in Agile/Lean/DevOps improvement, though the focus remains on the metric rather than broader social frameworks, keeping these scores slightly lower. The content is focused (high signal), and penalties were not applied because it references current practices and does not contradict the category’s framing. The final confidence score is strong but not maximal, reflecting substantial, but not direct or exhaustive, fit with the Social Technologies category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Social Technologies category well, as it explores Lead Time within Agile, Lean, and DevOps—areas closely linked to social collaboration and team empowerment. While it doesn’t explicitly mention ‘Social Technologies’, it highlights practices that foster transparency, feedback, and continuous improvement, all of which are central to the category. The focus is clear and relevant, making it a strong, though not perfect, match."
   },
   "Product Delivery": {
     "resourceId": "Lead Time",
@@ -1761,7 +1788,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content directly discusses 'Lead Time' as a metric used to measure the duration from work initiation to delivery, explicitly referencing workflows from initiation to customer, which is fundamental to 'Product Delivery.' There are several explicit mentions of terms core to the Product Delivery category, such as Kanban, Agile, DevOps, Cycle Time, feedback loops, deployment, value delivery, and continuous improvement. The concepts closely align with delivery process optimization, efficiency measurement, and team practices for successful delivery. The discussion dives well beyond surface-level by comparing Lead Time and Cycle Time, referencing operational dashboards, observability ecosystems, and the use of these metrics for empirical decision-making and continuous process improvement. The intent is clearly aligned with helping practitioners understand and improve the delivery lifecycle, not just providing theoretical info about metrics. The audience is appropriately targeted: professionals and teams engaged in technical delivery, process optimization, or management. The content is nearly all focused on delivery, with high signal and minimal extraneous information. No penalty is applied, as the content is current, uncritical, and aligns strongly with the Product Delivery definition. The slight deduction from perfect is due to the focus primarily being on the metric (Lead Time) rather than the holistic set of delivery methodologies or all phases of delivery—though it regularly connects the metric back to those phases and their optimization.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Product Delivery category, as it thoroughly explores Lead Time—a key delivery metric—within the context of Agile, DevOps, and continuous improvement. It’s tailored for professionals aiming to optimise delivery processes, offering practical insights and clear connections to delivery workflows, efficiency, and team practices, rather than just theoretical discussion."
   },
   "Portfolio Management": {
     "resourceId": "Lead Time",
@@ -1815,7 +1843,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content centers on Lead Time as a metric and discusses its importance in Agile, Lean, and DevOps environments, focusing on continuous improvement, feedback loops, and delivery responsiveness. These themes conceptually align with Agile Product Management, especially as they pertain to value delivery and iterative improvement. However, there are only occasional, indirect mentions of Agile Product Management itself, and the discussion is more about operational/team-level observability than the holistic product management process (e.g., product backlog, stakeholder engagement, product vision). The depth is moderate, providing good explanation of Lead Time and related metrics but not delving into product owner responsibilities or prioritization strategies. The intended audience seems to be practitioners dealing with Agile delivery systems, which partially overlaps with the target audience for Agile Product Management. Most of the content is relevant and focused on continuous value delivery, but it stops short of directly addressing the core practices of Agile Product Management. No penalties were applied as the practices described are current and supportive of Agile philosophies.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is closely related to Agile Product Management, as it highlights key metrics like Lead Time and their role in driving continuous improvement and value delivery. While it doesn’t directly address core product management practices, it’s highly relevant for Agile teams focused on delivery and responsiveness, making it a good fit for the category, though not a comprehensive match."
   },
   "Product Strategy": {
     "resourceId": "Lead Time",
@@ -1905,7 +1934,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content extensively discusses Lead Time as a metric directly relevant to Flow Efficiency, as defined by Lean, Agile, and DevOps methodologies. It explicitly connects Lead Time to key topics like work throughput, bottleneck visibility, Kanban, Cycle Time, continuous improvement, and operational feedback loops. The main focus is on how monitoring Lead Time enhances performance and informs process improvements, which is fundamentally aligned with the Flow Efficiency category. The discussion moves beyond basic definitions, explaining the impact of Lead Time on value delivery, system health, and responsiveness, providing clear depth. The target audience appears to be practitioners and teams in technical and Agile/DevOps contexts, matching the expected readership. There is very little extraneous content and no off-topic digressions. No penalties were applied, as there are no signs of outdated information, negativity, or contradiction to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Flow Efficiency category, as it thoroughly explores Lead Time and its significance within Lean, Agile, and DevOps practices. It clearly links Lead Time to process improvement, system health, and value delivery, offering practical insights for technical teams. The discussion is focused, relevant, and tailored to practitioners, making it highly appropriate for this classification."
   },
   "Remote Working": {
     "resourceId": "Lead Time",
@@ -2103,7 +2133,8 @@
     "ai_penalty_details": "none",
     "final_score": 89.0,
     "reasoning": "The content provides a focused and detailed discussion of Lead Time, a core metric in Lean Thinking and Kanban, both explicitly mentioned. It addresses ‘flow’, ‘cycle time’, and ‘value delivery’, central Lean concepts, and links them to broader Lean, Agile, and DevOps strategies. The content explores the practical application of Lead Time in enabling continuous improvement, process transparency, and efficient value streams, demonstrating strong alignment with Lean Thinking principles. While it is rich in conceptual depth and relevance, it does not exhaustively cover the full Lean toolkit (e.g., waste types, 5S, Value Stream Mapping), and its focus leans toward metrics within Lean rather than Lean culture or leadership. There are no outdated references or contradicting tones; the audience is practitioners and teams engaged in process improvement and delivery. The signal-to-noise ratio is high, with nearly all content relevant to the Lean Thinking context. The confidence score reflects strong but not perfect coverage, docking slightly for not including some Lean subtopics, but overall the content is exemplary in illustrating core Lean measurement practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Lean Thinking category, as it clearly explains key Lean metrics like Lead Time and their practical use in process improvement. While it doesn’t cover every Lean tool or aspect, it effectively targets practitioners interested in metrics and continuous improvement, making it highly relevant and valuable for those focused on Lean measurement and flow."
   },
   "Agile Planning Tools": {
     "resourceId": "Lead Time",
@@ -2157,7 +2188,8 @@
     "ai_penalty_details": "none",
     "final_score": 72.0,
     "reasoning": "The content primarily focuses on Lead Time as a metric, repeatedly explaining its definition, importance, and use cases in Agile, Lean, and DevOps environments. Cycle Time is directly mentioned as a related but distinct metric, specifically noting that Lead Time includes Cycle Time and adds further context (start-to-delivery vs. active system time). Alignment is strong because Cycle Time is accurately referenced and its relationship with Lead Time clarified, though Lead Time remains the main theme. Depth is above average due to discussion of Lead Time's applications, impact, and implementation, but direct, deep exploration of Cycle Time is limited. The intent is informative, aimed at practitioners and technical leaders, and there is meaningful conceptual overlap with the Cycle Time category. The audience and signal-to-noise ratio are both solid, given the content's focus on workflow metrics and process improvement in Agile/DevOps. However, because Cycle Time is not the central focus—Lead Time is—mention, depth, and intent all fall short of a perfect score. No penalties were applied as the information is current, technically accurate, and neutral in tone.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is best suited to the Lead Time category, as it centres on defining and applying Lead Time in Agile and DevOps contexts. While Cycle Time is referenced and its relationship to Lead Time is clarified, the main emphasis remains on Lead Time. The discussion is informative and relevant for practitioners, but Cycle Time is not explored in depth, making it a secondary rather than primary focus."
   },
   "Software Development": {
     "resourceId": "Lead Time",
@@ -2175,7 +2207,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content provides a thorough exploration of Lead Time as an observability metric within the software delivery process. It directly references foundational Software Development practices (e.g., Agile, Lean, DevOps, Kanban, delivery systems, continuous improvement). The discussion moves beyond definitions to discuss the role of Lead Time in operational feedback loops, team decision-making, and diagnosing system performance. The explanation of Cycle Time and Throughput as complementary metrics deepens the conceptual alignment, solidifying its relevance to workflow efficiency—a key Software Development concern. The audience is clearly practitioners interested in optimizing software delivery and system performance. There are no outdated references or undermining tones, and all points remain tightly focused on software engineering considerations, without digression into general business management. Minor deductions in mentions and signal-to-noise reflect that while 'Software Development' as a phrase is not repeatedly named, its frameworks and principles are deeply embedded and discussed throughout. The final confidence score of 93.7 is proportionate, given the direct, well-aligned, and in-depth coverage tailored for technical, methodological practitioners.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Software Development category, as it delves into key metrics like Lead Time, Cycle Time, and Throughput within established frameworks such as Agile, Lean, and DevOps. The discussion is technical, focused on workflow efficiency and system performance, and clearly targets practitioners aiming to optimise software delivery processes. The alignment with software engineering principles is evident throughout."
   },
   "Evidence Based Leadership": {
     "resourceId": "Lead Time",
@@ -2193,7 +2226,8 @@
     "ai_penalty_details": "none",
     "final_score": 75.0,
     "reasoning": "The content thoroughly discusses Lead Time as a key metric for workflow efficiency and system health, making strong connections to the principles of using empirical data and observability for organisational improvement. It highlights the use of metrics (Lead Time, Cycle Time, Throughput) to inform operational decision-making and continuous improvement, aligning conceptually with evidence-based leadership. However, while the content is deeply rooted in empirical measurement and improvements, it never explicitly references 'evidence-based leadership,' nor does it discuss leadership decision-making or leadership roles directly—it is implied that leaders/teams leverage these measurements but not directly stated. The main audience seems to be Agile, Lean, or DevOps practitioners, including leaders, but the piece does not restrict itself strictly to leadership contexts. The discussion is focused, relevant, and technically thorough with few digressions or off-topic elements, but the directness to evidence-based leadership is implied rather than explicit; hence, the moderate-to-high scores across dimensions, and no penalties are applied.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content effectively explores how metrics like Lead Time support workflow efficiency and organisational improvement, closely aligning with evidence-based practices. While it doesn’t directly address leadership or explicitly mention 'evidence-based leadership,' it clearly supports data-driven decision-making relevant to leaders and teams, making it a strong, if somewhat implicit, fit for the category."
   },
   "Agile Transformation": {
     "resourceId": "Lead Time",
@@ -2211,7 +2245,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content focuses on Lead Time as a critical metric closely associated with Kanban and Agile/Lean practices. While it references Agile and continuous improvement (both highly relevant to Agile transformation), the discussion centers mainly on the metric's operational usage—how it helps with workflow efficiency, feedback loops, and system diagnostics. The depth score reflects a thorough exploration of Lead Time within delivery systems, but there’s limited direct discussion connecting this metric to broad Agile transformation strategies (e.g., cultural shifts, leadership, or change management). The mentions score is moderate; Agile and Lean are explicitly mentioned, but 'Agile Transformation' itself is not. The conceptual alignment is solid because Lead Time is crucial in enabling and measuring iterative delivery and improvement, but the main purpose is informative about the metric not transformative initiatives. The audience alignment is strong; practitioners interested in Agile, Lean, and DevOps system health would find this valuable. The signal-to-noise ratio is high as the content is focused and relevant throughout. No penalties apply as the content is current and supportive of the Agile framework.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to categories focused on Agile, Lean, and DevOps practices, as it thoroughly explains Lead Time’s role in workflow efficiency and system diagnostics. However, it doesn’t directly address broader Agile transformation themes like cultural change or leadership. It’s highly relevant for practitioners seeking to optimise delivery processes, but less so for those looking for guidance on transformative Agile initiatives."
   },
   "Test First Development": {
     "resourceId": "Lead Time",
@@ -2247,7 +2282,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content provides an in-depth discussion of Lead Time as an operational metric within Agile, Lean, and DevOps contexts. 'Operational Practices' terminology is directly referenced through phrases such as 'workflow efficiency,' 'operational feedback loops,' and explicit mentions of 'Kanban,' 'continuous improvement,' and 'optimise flow.' The themes and examples are highly conceptually aligned: the use of Lead Time as a diagnostic tool for improving delivery, measurement of operational efficiency, and focus on practical optimization fit directly within the category's definition. The discussion is detailed, examining Lead Time's distinctions from Cycle Time and exploring its use in decision-making, system observability, and organizational adaptation. The audience is technical teams or operational leaders in Agile, Lean, or DevOps settings, precisely matching the category. The content is focused, with minimal digression and a strong signal-to-noise ratio. No outdated information or negative tone is present. Slight differentiation in scoring reflects that while there is strong relevance, other operational metrics are only briefly mentioned for context. Overall, the confidence score is justifiably high as the content thoroughly exemplifies the purpose and practices described by 'Operational Practices.'",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Operational Practices' category. It clearly explains Lead Time within Agile, Lean, and DevOps, using relevant terminology and practical examples. The focus on workflow efficiency, feedback loops, and continuous improvement directly aligns with the category, making it highly relevant for technical teams and operational leaders seeking to optimise delivery processes."
   },
   "Sociotechnical Systems": {
     "resourceId": "Lead Time",
@@ -2319,7 +2355,8 @@
     "ai_penalty_details": "none",
     "final_score": 84.0,
     "reasoning": "The content provides a comprehensive overview of Lead Time, explicitly referencing its importance in Lean, Agile, and DevOps settings, and directly connecting it to concepts like ‘flow’, ‘waste reduction’, continuous improvement, and value delivery—key tenets of Lean Principles. It explains the metric’s relation to process optimization and systemic feedback, referencing its use in Kanban (a Lean tool) and its role in diagnosing inefficiencies and driving empirically informed improvements. While the category 'Lean Principles' is directly named, the primary focus is on Lead Time as a metric, rather than on Lean philosophy broadly, so the Direct Mentions and Conceptual Alignment scores are high but not maximal. The discussion is moderately deep, detailing both use and implications, yet does not deeply explore other Lean tools or cultural aspects, justifying a very strong but not perfect Depth score. The content's intent, audience focus (practitioners, teams), and tight topical signal are all clear and relevant, thus earning high scores across those dimensions. No penalties are required as the content is current, on-topic, and not critical or satirical. The final confidence is high, reflecting close alignment with Lean Principles, as Lead Time is a core measure in Lean, even though the scope is intentionally metric-focused.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Lean Principles category, as it thoroughly explains Lead Time’s significance within Lean, Agile, and DevOps contexts. It clearly links the metric to key Lean concepts like flow and waste reduction, making it highly relevant, though its focus is more on the metric itself than on Lean philosophy as a whole. The discussion is detailed and practical, making it valuable for practitioners."
   },
   "Definition of Done": {
     "resourceId": "Lead Time",
@@ -2355,7 +2392,8 @@
     "ai_penalty_details": "none",
     "final_score": 89.0,
     "reasoning": "The content provides an in-depth practical explanation of Lead Time in the context of workflow monitoring, especially as applied within Agile, Lean, and DevOps environments. It directly addresses pragmatic metrics for continuous improvement and efficiency, core to the category. The content does not merely define Lead Time; it discusses its value as a diagnostic and feedback tool for optimization, demonstrating strong conceptual alignment. Examples such as correlation to bottlenecks, operational feedback loops, and adjustments based on telemetry show a clear, practical, experience-based application. Audience targeting is appropriate for practitioners seeking actionable strategies. While direct explicit reference to 'Pragmatic Thinking' as a term is limited (hence, a moderate mentions score), and there is minimal explicit case study content, both depth and alignment are very strong. The content is current, focused, and highly relevant—no penalties were needed. The confidence score reflects these strengths, especially in conceptual alignment and depth of discussion.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category because it goes beyond just defining Lead Time—it offers practical insights and real-world applications within Agile, Lean, and DevOps. By focusing on actionable metrics and optimisation strategies, it provides valuable guidance for practitioners. The discussion is current, relevant, and deeply aligned with the category’s goals, even if explicit terminology or case studies are limited."
   },
   "Employee Engagement": {
     "resourceId": "Lead Time",
@@ -2517,7 +2555,8 @@
     "ai_penalty_details": "none",
     "final_score": 85.0,
     "reasoning": "The content directly mentions Lean as one of the environments where Lead Time is important, but explicit references to Lean-specific terminology or fundamental principles are limited (mentions: 6.6). Conceptually, the entire discussion aligns well with Lean's core focus on value delivery, waste reduction (via flow and bottlenecks), and continuous improvement, but it does not go deeply into classic Lean tools or frameworks (alignment: 8.2). Depth is strong: the metrics, processes, effect on efficiency, and improvement cycles are discussed with reference to observability, Kanban, and implications for system response (depth: 8.3). The content's intent is clearly to inform and improve processes for practitioners and teams concerned with workflow efficiency, matching the Lean worldview; however, it remains broad in targeting Agile and DevOps as well (intent: 8.1). Audience is primarily practitioners and technical teams working on delivery and efficiency, matching the expected Lean audience, though with slight dilution due to Agile/DevOps overlap (audience: 7.6). The signal is high, with minimal off-topic discussion; however, the explicit Lean content is only a portion of the whole discussion, as considerable focus is given to metrics/observability in general (signal: 7.4). No penalties were applied, as content is current, aligned and constructive. The confidence score is 84.75, reflecting strong but not exclusive relevance to the Lean category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Lean category, as it emphasises value delivery, waste reduction, and continuous improvement—core Lean principles. While it references Lean directly and discusses related practices like Kanban, it also covers broader Agile and DevOps topics, making its Lean focus substantial but not exclusive. The discussion is practical and relevant for teams aiming to optimise workflow efficiency."
   },
   "Psychological Safety": {
     "resourceId": "Lead Time",
@@ -2553,7 +2592,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content specifically discusses Lead Time as a technical, flow-based metric central to Kanban and DevOps practices. There is a strong alignment with Technical Mastery in its focus on system observability, operational metrics, and data-driven improvement of delivery pipelines. The description explores Lead Time's distinctions from Cycle Time, its role in diagnostic feedback loops, and its contribution to system performance, going beyond superficial mention. However, explicit discussions of code quality, engineering craftsmanship, or principles of software design are limited, which slightly lowers the 'depth' and 'direct mentions' scores. The main intent is to inform technical teams about workflow metrics, aligning the audience with practitioners of software engineering and delivery. The signal-to-noise ratio is high, with all examples and explanations tightly focused on the subject. No outdated or critical/satirical tone is present. Therefore, the final confidence reflects solid (but not perfect) fit: the piece supports and relates to Technical Mastery through the lens of delivery excellence and continuous improvement, but does not address the complete breadth of best practices or code-level technical detail expected at the very top end of the scale.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Technical Mastery category, as it delves into Lead Time—a key metric in Kanban and DevOps—highlighting its value for system observability and process improvement. While it doesn’t cover all aspects of code quality or software design, its focus on operational metrics and delivery performance makes it highly relevant for technical teams aiming to optimise their workflows."
   },
   "Common Goals": {
     "resourceId": "Lead Time",
@@ -2697,7 +2737,8 @@
     "ai_penalty_details": "none",
     "final_score": 85.0,
     "reasoning": "The content is highly relevant to Continuous Improvement, referencing it explicitly in the context of Agile and Lean practices. The discussion of Lead Time as an empirical, observable metric directly supports data-driven decision-making and ongoing adaptation—core principles of Continuous Improvement. While not an exhaustive treatise on CI methodologies, the content clearly positions Lead Time as a vital tool for identifying process bottlenecks, enabling feedback loops, and informing incremental workflow adjustments. The focus is practitioner-oriented, targeting Agile and Lean teams who benefit from these insights. The signal remains strong, with limited off-topic material. Minor deductions for depth and intent are given because the text, while thorough, centers on a single metric and doesn't explore broader CI frameworks or a diversity of empirical strategies. However, its alignment and audience match are very strong, supporting a high—but not perfect—confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Improvement category, as it clearly links Lead Time to Agile and Lean practices. It highlights how tracking this metric helps teams identify bottlenecks and make data-driven adjustments, which are key aspects of ongoing improvement. While it focuses mainly on one metric rather than a range of CI methods, its relevance and practical orientation for practitioners are evident."
   },
   "Organisational Physics": {
     "resourceId": "Lead Time",
@@ -2823,7 +2864,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content centers on 'Lead Time' as a key observability metric relevant to tracking workflow efficiency, system health, and continuous improvement—topics integral to Engineering Excellence. Direct mentions of the category are implicit rather than explicit; while the term 'Engineering Excellence' is not named, references to software delivery performance, flow metrics, process transparency, and optimization closely align with its principles. The conceptual alignment and depth are very high: the text thoroughly explains Lead Time's role in Kanban, Agile, Lean, and DevOps contexts, linking it to organizational resilience, delivery predictability, and continuous improvement. The intent is educative and supportive, perfectly fitting the category’s scope. The audience is technical—teams focused on development practices and process enhancement. The focus is almost entirely relevant, free of filler or off-topic discussion. No penalties were applied as the content is current, non-satirical, and directly supportive of best practices. The confidence score reflects near-maximum alignment, with slight reductions for the indirect nature of category mentions and minimal explicit reference to software craftsmanship in a broader sense.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores Lead Time as a key metric for workflow efficiency and continuous improvement—core aspects of Engineering Excellence. While the category isn’t named outright, the discussion clearly targets technical teams aiming to enhance development practices, making the alignment both relevant and highly supportive of best practices."
   },
   "Deployment Strategies": {
     "resourceId": "Lead Time",
@@ -2859,7 +2901,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content directly references value delivery both in explicit wording (e.g., 'improve value delivery', 'optimise flow, accelerate value delivery') and through conceptual alignment with Value Delivery as defined (monitoring workflow efficiency, impact on customer responsiveness, continuous improvement). It explores Lead Time thoroughly, including its relationship to other key metrics, system health, and feedback loops, exemplifying depth. The intent consistently supports Value Delivery goals, targeting practitioners in Agile, Lean, and DevOps, matching the defined audience. The signal is consistently focused on how Lead Time contributes to iterative, empirical improvement for value, with negligible off-topic content. There is no evidence of outdated practices, criticism, or misalignment requiring penalties. The scores vary modestly due to a slightly less explicit audience targeting and occasional emphasis on metrics over broader value frameworks, but overall, the final confidence score robustly reflects strong and multi-dimensional evidence of fit.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Value Delivery category. It consistently discusses how Lead Time impacts value delivery, workflow efficiency, and customer responsiveness, aligning well with the category’s focus. The material is aimed at Agile, Lean, and DevOps practitioners, and maintains a clear, relevant emphasis on continuous improvement and value-driven outcomes throughout."
   },
   "Market Share": {
     "resourceId": "Lead Time",

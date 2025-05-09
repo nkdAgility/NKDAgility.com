@@ -7,7 +7,7 @@
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;
-$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-05-01T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
+$watermarkAgeLimit = (New-TimeSpan -Start (Get-Date "2025-02-01T09:00:00") -End (Get-Date)).Days # Wattermark for calculation algorythem Change.
 $watermarkScoreLimit = 10
 $watermarkCount = 50
 
@@ -495,7 +495,7 @@ function Update-MissingClassificationsLive {
     )
     $prompts = Get-PromptsForHugoMarkdown -hugoMarkdown $hugoMarkdown -catalog $catalog
     $cachedData = Get-ClassificationsFromCache -hugoMarkdown $hugoMarkdown
-    Write-InformationLog "Updating {count} missing classifications for {resourceId}" -PropertyValues $prompts.count, $hugoMarkdown.FrontMatter.ResourceId
+    Write-DebugLog "Updating {count} missing classifications for {resourceId}" -PropertyValues $prompts.count, $hugoMarkdown.FrontMatter.ResourceId
     $count = 0;
     foreach ($prompt in $prompts) {
         $count++

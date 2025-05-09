@@ -1,0 +1,90 @@
+{{- $.Scratch.Set "search" (slice) -}}
+{{- $sections := slice "resources" "concepts" "categories" "tags" }}
+
+{{- range $sections }}
+  {{- $sectionPage := $.Site.GetPage "section" . }}
+  {{- if $sectionPage }}
+    {{- range $sectionPage.RegularPagesRecursive }}
+      {{- $page := . }}
+
+      {{- $categories := slice }}
+      {{- $concepts := slice }}
+      {{- $tags := slice }}
+      {{- $data := dict }}
+
+      {{- with $page.Resources.GetMatch "data.index.classifications.json" }}
+        {{- $data = . | transform.Unmarshal }}
+      {{- end }}
+
+      {{- $categoryNames := $page.Params.categories | default slice }}
+      {{- $conceptNames := $page.Params.concepts | default slice }}
+      {{- $tagNames := $page.Params.tags | default slice }}
+
+      {{- range $categoryNames }}
+        {{- $name := . }}
+        {{- $item := index $data $name }}
+        {{- if $item }}
+          {{- $categories = $categories | append (dict
+            "name" $name
+            "score" ($item.final_score | default 0)
+            "reason" (cond (isset $item "reasoning_summary") $item.reasoning_summary $item.reasoning)
+          ) }}
+        {{- end }}
+      {{- end }}
+
+      {{- range $conceptNames }}
+        {{- $name := . }}
+        {{- $item := index $data $name }}
+        {{- if $item }}
+          {{- $concepts = $concepts | append (dict
+            "name" $name
+            "score" ($item.final_score | default 0)
+            "reason" (cond (isset $item "reasoning_summary") $item.reasoning_summary $item.reasoning)
+          ) }}
+        {{- end }}
+      {{- end }}
+
+      {{- range $tagNames }}
+        {{- $name := . }}
+        {{- $item := index $data $name }}
+        {{- if $item }}
+          {{- $tags = $tags | append (dict
+            "name" $name
+            "score" ($item.final_score | default 0)
+            "reason" (cond (isset $item "reasoning_summary") $item.reasoning_summary $item.reasoning)
+          ) }}
+        {{- end }}
+      {{- end }}
+
+      {{- $.Scratch.Set "allKeywords" (slice) }}
+      {{- range $categoryNames }}{{ $.Scratch.Set "allKeywords" ($.Scratch.Get "allKeywords" | append .) }}{{- end }}
+      {{- range $conceptNames }}{{ $.Scratch.Set "allKeywords" ($.Scratch.Get "allKeywords" | append .) }}{{- end }}
+      {{- range $tagNames }}{{ $.Scratch.Set "allKeywords" ($.Scratch.Get "allKeywords" | append .) }}{{- end }}
+      {{- $keywords := $.Scratch.Get "allKeywords" }}
+
+      {{- $recordType := "Resource" }}
+      {{- $recordKind := $page.Type }}
+      {{- $recordId := $page.Params.resourceId | default $page.Title }}
+      {{- if $page.Params.ClassificationType }}
+        {{- $recordType = "Categorisation" }}
+        {{- $recordKind = $page.Params.ClassificationType }}
+      {{- end }}
+
+      {{- $.Scratch.Add "search" (dict
+        "title"       $page.Title
+        "recordType"  $recordType
+        "recordKind"  $recordKind
+        "recordId"    $recordId
+        "url"         $page.Permalink
+        "description" $page.Params.description
+        "date"        ($page.Date.Format "2006-01-02")
+        "keywords"    $keywords
+        "categories"  $categories
+        "concepts"    $concepts
+        "tags"        $tags
+      ) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- $.Scratch.Get "search" | jsonify }}

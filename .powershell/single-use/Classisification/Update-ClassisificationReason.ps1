@@ -25,10 +25,20 @@ foreach ($hugoMarkdownObject in $hugoMarkdownObjects) {
     foreach ($key in $cachedData.Keys) {
         $classification = $cachedData[$key]
         
-        if ([string]::IsNullOrWhiteSpace($classification.reasoningSummary) -and $classification.final_score -gt 70) {
+        if ([string]::IsNullOrWhiteSpace($classification.reasoning_summary) -and $classification.final_score -gt 70) {
             $length = $classification.reasoning.Length
             $reasonLengths += $length
             Write-DebugLog "[{key}] Reason length: {Length}" -PropertyValues $key, $length
+            if ($length -gt 500) {
+                $promptText = Get-Prompt -PromptName "classification-analysis-reasoning-summery-fix.md" -Parameters @{
+                    reasoning = $classification.reasoning
+                }
+                $reasoningSummary = Get-OpenAIResponse -Prompt $promptText
+        
+                $classification.reasoning_summary = $reasoningSummary
+                Set-ClassificationsFromCache -hugoMarkdown $hugoMarkdownObject -cachedData $cachedData
+            }
+
         }
         else {
             Write-DebugLog "[{key}] No reasoning or summary present"  -PropertyValues $key, $length

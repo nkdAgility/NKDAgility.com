@@ -93,7 +93,8 @@
     "non_ai_confidence": 50,
     "final_score": 78.0,
     "reasoning": "The content explicitly discusses remote working as a practice, aligning well with the category's focus on actionable techniques that enhance team performance. It provides a detailed exploration of how remote working can improve collaboration, employee satisfaction, and productivity, which are core themes of the Practice category. The depth of discussion includes the systemic nature of remote working and its alignment with agile methodologies and lean principles, indicating a strong understanding of the topic. However, while it is comprehensive, it does not delve into specific practices like pair programming or retrospectives, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Practice category, as it thoroughly explores remote working as a method to boost team effectiveness. It covers key aspects like collaboration, satisfaction, and productivity, and connects remote work to agile and lean approaches. While it doesn’t focus on specific practices, its broad, actionable insights make it relevant to the category’s emphasis on improving team performance."
   },
   "Philosophy": {
     "category": "Philosophy",
@@ -231,7 +232,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content discusses remote working practices in agile teams, with clear links to principles such as autonomy, trust, accountability, and ownership. However, the term 'self-organisation' is not directly used nor are its frameworks (e.g., Scrum) explicitly named—leading to a modest score for direct mentions (4.6). Conceptual alignment is strong (8.3) since the piece emphasizes empowering teams, value delivery, resilience, and collaboration—core tenets of self-organisation. Depth of discussion (7.8) is solid: while surface-level points are present, the content goes deeper into topics like feedback loops, ownership, and engagement, but it does not include explicit case studies or structured frameworks. The intent/purpose (8.0) aligns, as the content aims to inform those interested in agile remote teams, intersecting meaningfully with self-organisation objectives, though the central focus is on remote work rather than self-organisation alone. Audience alignment (8.1) is high as the tone and material are suitable for agile practitioners, team leads, and those responsible for enabling remote or distributed agile teams. Signal-to-noise (7.9) is strong: the majority of the content is relevant—little to no filler—but a small portion discusses broader remote work benefits that are tangential to self-organisation specifically. No penalties were applied, as the content is up-to-date, constructive, and not satirical or off-message. This qualifies as a Secondary resource for the Self Organisation category: it robustly supports self-organisation but does not exist solely to discuss it, and lacks granular theory, frameworks, or multiple deep examples. The final confidence of 73.75 accurately reflects its position as a strong but not primary fit.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit as a secondary resource for the Self Organisation category. While it doesn’t focus exclusively on self-organisation or reference its frameworks directly, it strongly supports key concepts like autonomy, trust, and team empowerment within agile remote work. The discussion is relevant and insightful for agile practitioners, though its main emphasis is on remote work rather than self-organisation alone."
   },
   "Agile Product Management": {
     "resourceId": "Remote Working",
@@ -303,7 +305,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content focuses on the practices and value of remote working for teams, especially those leveraging agile and lean principles. It strongly references concepts integral to product development such as iterative development, customer feedback loops, minimisation of waste, fostering innovation, and distributed agile teams. These clearly align with the 'Product Development' classification definition. However, while these themes are directly relevant, the core subject is remote working itself—not explicitly a deep dive into product development methodologies or lifecycle management. \n\n- Mentions (6.7): The content does not use the exact phrase 'product development' but refers to closely related concepts such as 'agile methodologies', 'iterative development', 'delivering value', and 'lean principles'. Plenty of key phrases are present, but explicit direct mentions are limited.\n- Alignment (8.6): The conceptual focus on enabling agile teams, continuous feedback, and lean practices matches the definition, though it revolves around a supporting practice (remote work) rather than the core product development process itself.\n- Depth (7.9): The discussion meaningfully explores the impact and practices of remote work on agile development, feedback loops, and value delivery but does not provide exhaustive examples or deeply technical methodology coverage.\n- Intent (7.6): The intent is to describe how remote working supports effective, value delivery in distributed agile teams, which fits the purpose of product development but is not solely or entirely about that purpose.\n- Audience (7.4): The audience is likely practitioners and leaders interested in team effectiveness in a product delivery context, but it could also apply to non-product or broader remote team settings.\n- Signal (8.3): The content is focused and stays on relevant, aligned themes throughout, with little filler or tangential material.\n\nNo penalties were applied: the content is current, accurate, and has a supportive tone.\n\nExplicit calculation: confidence = ((6.7*1.5) + (8.6*2.5) + (7.9*2.5) + (7.6*1.5) + (7.4*1.0) + (8.3*1.0))*10 = 82.23. This score reflects strong secondary alignment (the practice is highly relevant to, but not solely focused on, product development), with solid but not perfect depth and direct reference.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Product Development' category, as it explores how remote working practices support agile and lean teams, iterative development, and value delivery. While the main focus is on remote work, the discussion is highly relevant to product development processes, making it suitable for this classification, though not exclusively centred on core methodologies."
   },
   "Agile Philosophy": {
     "resourceId": "Remote Working",
@@ -627,7 +630,8 @@
     "ai_penalty_details": "none",
     "final_score": 75.0,
     "reasoning": "The content centers on remote working as a practice that enables distributed and remote agile teams. Direct mentions of product delivery are absent—discussion revolves around effective team collaboration and leveraging agile and lean principles in a remote context, rather than explicitly focusing on the end-to-end delivery process itself. However, the piece conceptually aligns with core product delivery ideals by referencing agile methodologies, iterative development, feedback loops, and value delivery. Depth is moderate; the article discusses strategic themes (communication, feedback, trust, adaptability) but does not detail specific processes (e.g., CI/CD, deployment, release management, metrics) typical of product delivery. The intent is closely aligned for practitioners and leaders seeking to improve outcomes in distributed teams, and the audience appears to be technical managers and agile practitioners, matching the product delivery domain. There is minimal off-topic or filler content; most elements support the role of remote work in facilitating agile product outcomes. No penalty was applied, as the content is current, supportive, and not satirical or critical. Overall, this resource is best characterized as 'Secondary' to Product Delivery: it supports effective delivery but is not wholly about delivery methodology itself.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit as a 'Secondary' resource for Product Delivery. While it doesn’t delve into specific delivery processes, it effectively explores how remote work practices and agile principles support distributed teams in delivering value. The focus on communication, feedback, and adaptability is highly relevant for technical managers and agile practitioners aiming to enhance product outcomes."
   },
   "Trend Analysis": {
     "resourceId": "Remote Working",
@@ -699,7 +703,8 @@
     "ai_penalty_details": "none",
     "final_score": 84.0,
     "reasoning": "The content thoroughly describes remote working and its enablers, consistently linking them to agile teams, adaptability, and responsiveness to market changes. It details mechanisms such as trust, digital collaboration, continuous feedback, and alignment with agile and lean principles, which directly support business agility as defined in the classification. However, while 'agility' and its concepts are referenced and exemplified, the strict category phrase 'Business Agility' is not explicitly and repeatedly named, slightly lowering the Direct Mentions score. Depth is high due to the nuanced exploration of practices, impacts, and value delivery. Audience alignment is strong, targeting practitioners and leaders interested in agile responsiveness, though not strictly at the executive/strategist level, justifying a score fractionally below perfect. Signal-to-noise ratio is high, with very minimal filler content. No penalties were required as the material is timely, supportive, and thematically consistent with business agility.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Business Agility category, as it explores how remote working practices enhance adaptability and responsiveness—core aspects of business agility. It offers detailed examples and practical mechanisms, making it valuable for agile practitioners and leaders, even though the exact term 'Business Agility' isn’t used frequently. The discussion is focused, relevant, and well-aligned with the intended audience."
   },
   "Organisational Agility": {
     "resourceId": "Remote Working",
@@ -717,7 +722,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content strongly aligns with 'Organisational Agility' by directly addressing how remote working contributes to agility through flexible practices, rapid responses to market changes, iterative development, team empowerment, and leveraging agile and lean principles. It makes several implicit and explicit connections to agile teams, adaptability, feedback loops, and value delivery, without drifting off-topic or introducing rigid/traditional structures. 'Remote working' as a theme targets practitioners, managers, and leaders involved in agile transformations. Mentions of 'agile methodologies,' 'resilience,' and 'agility' are present, but explicit references to 'Organisational Agility' as a term are moderate, hence the non-maximum mention score. The discussion is thorough and multi-faceted, but depth does not extend to detailed case studies, frameworks, or metrics, which slightly tempers the depth score. Intent and signal-to-noise ratio are both high; the content stays consistently relevant and purposeful. No penalties apply, as the content does not contradict the category and references current, progressive practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for 'Organisational Agility' as it explores how remote working enhances flexibility, responsiveness, and team empowerment—core aspects of agility. It references agile principles and practices, remains focused and relevant, and targets those involved in agile transformations, though it stops short of deep dives into frameworks or case studies."
   },
   "Backlog Refinement": {
     "resourceId": "Remote Working",
@@ -933,7 +939,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The content focuses on practices and strategies central to Market Adaptability, such as leveraging remote work to respond to market changes and emphasizing agility, continuous feedback loops, and alignment with agile and lean principles. It directly references how remote working affects an organisation's ability to remain responsive, resilient, and competitive. Agile and lean methodologies are explicitly integrated, supporting a strong conceptual alignment and depth of discussion. The main intent is to inform on enabling distributed agile teams, fitting the category audience of business and technology professionals seeking adaptability strategies. While it does not mention 'Market Adaptability' by name, it thoroughly explores its core themes. The signal-to-noise ratio is high, given consistent topical focus. No penalties were needed as the advice is current and not contradictory. The final score strongly reflects the evidence provided.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Market Adaptability category. It explores how remote work and agile, lean methodologies help organisations stay responsive and competitive. The discussion is relevant for professionals seeking strategies to boost adaptability, with clear, focused insights on enabling distributed agile teams. Even without using the exact term, the content thoroughly addresses the core themes of market adaptability."
   },
   "Daily Scrum": {
     "resourceId": "Remote Working",
@@ -1095,7 +1102,8 @@
     "ai_penalty_details": "none",
     "final_score": 75.0,
     "reasoning": "The content thoroughly discusses remote working as a systemic practice shaping how agile teams deliver value. It outlines the role of remote work in fostering team effectiveness (alignment: 8.5), such as enabling collaboration, maintaining productivity, contributing to feedback loops, and supporting agile/lean practices. It addresses factors like communication, accountability, resilience, engagement, and adaptability at the team level, showing moderate depth (7.9). Direct explicit mention of 'team performance' as such is limited (mentions: 3.7); instead, the text focuses on enabling effective team operations in remote contexts. The content’s main intent (7.2) is to inform teams and organizations about the operational frameworks for distributed work, which is relevant though slightly generalized. The target audience (8.1) is closely aligned with practitioners and leaders interested in team delivery capability. Signal-to-noise (8.3) is high — the discussion is concise and remains on systemic, team-level impacts rather than diverging into individual performance or unrelated motivational themes. No outdated or tone-related penalties apply. The confidence score reflects solid conceptual and practical alignment with 'Team Performance,' though it stops short of exploring performance metrics or system behaviors in detail, preventing a higher score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Team Performance' category, as it explores how remote work shapes team effectiveness, collaboration, and agile practices. While it doesn’t deeply analyse performance metrics, it provides valuable insights into team-level dynamics and operational frameworks, making it highly relevant for practitioners focused on improving team delivery in distributed environments."
   },
   "Platform Engineering": {
     "resourceId": "Remote Working",
@@ -1401,7 +1409,8 @@
     "ai_penalty_details": "none",
     "final_score": 83.0,
     "reasoning": "The content explicitly discusses how remote working practices can foster team engagement, trust, accountability, and ownership—core elements of team motivation. Terms such as 'enhance employee satisfaction', 'fostering a culture of trust', 'empowers teams', and 'enhancing their engagement and motivation' map directly to the category. However, the article does not mention 'team motivation' by name, nor does it delve into structured frameworks or models for motivation, so the direct mentions score is moderate. The conceptual alignment and depth scores are strong; motivation and engagement are shown as outcomes of remote work practices, and the content explains how those outcomes are achieved in an agile context. The intent is mostly aligned with supporting teams in agile environments, though a portion addresses technical aspects of distributed work. The target audience likely includes agile practitioners, managers, and teams—well-matched to the category. Signal-to-noise is high; almost all content is highly relevant, with minimal digression. No penalties are applied, as the tone is positive, contemporary, and consistent with modern agile thinking. The final confidence reflects that while not solely or most explicitly a motivation treatise, the coverage and substance relative to the classification meaning is significant.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it clearly links remote working practices to key drivers of team motivation like engagement, trust, and ownership. While it doesn’t use the term ‘team motivation’ directly or reference formal models, its focus and examples make the connection clear for agile teams. The relevance and intent are well aligned, making it highly suitable for audiences interested in team motivation."
   },
   "Metrics and Learning": {
     "resourceId": "Remote Working",
@@ -1473,7 +1482,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "Direct mentions of 'organisational culture' are minimal; the closest explicit reference is to 'a culture of trust and accountability.' However, the content is conceptually aligned: it discusses how remote working models foster trust, accountability, engagement, collaboration, and agility, which correspond closely with organisational culture’s influence on agility and responsiveness. The main ideas also cover how culture enables remote teams to thrive, emphasizing leadership, employee engagement, and cultural support for agile practices. Depth is above average, with clear links to culture’s impact on motivation, continuous improvement, and adaptability, but the discussion is somewhat focused on remote logistics rather than culture alone. The primary intent is informative for practitioners and leaders engaging in remote agile work, aligning with the category audience. Some content (such as tooling or process references) is tangential, reducing the focus fractionally. There are no penalties, as the material is current, not satirical or dismissive, and does not reference obsolete practices. The final score appropriately reflects strong conceptual alignment and audience fit but is moderated by less direct cultural focus and only moderate explicit mentions.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category well, as it explores how remote working models shape trust, accountability, and engagement—key aspects of organisational culture. While explicit references to 'organisational culture' are limited, the discussion clearly links culture to agility and team success. The focus is slightly diluted by some process details, but overall, it offers valuable insights for leaders aiming to foster a strong culture in remote agile environments."
   },
   "Agile Planning": {
     "resourceId": "Remote Working",
@@ -1635,7 +1645,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content explicitly addresses remote working as a practice that enables teams to collaborate and deliver value remotely, which aligns closely with the principles of Social Technologies. While the term 'social technologies' is not directly mentioned, the text deeply explores key concepts such as fostering collaboration, leveraging digital collaboration tools, building a culture of trust, and supporting agile/lean methodologies. It discusses continuous feedback loops (“continuous communication and feedback loops, which are vital for iterative development”), value delivery, and adaptation—core elements from the Social Technologies classification. The focus remains on organisational benefits like responding to change, resilience, and optimising value delivery. The content targets practitioners and leaders interested in modern team practices (audience alignment is high), and the bulk of the discussion is directly relevant to the category, with minimal off-topic material. No penalty deductions are warranted: the content is current, supportive, and not satirical or critical. The confidence score faithfully reflects strong alignment in conceptual focus, depth, intent, and audience, with only a slightly lower score on direct mentions due to the absence of explicit category naming.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Social Technologies category. It thoroughly explores how remote working supports collaboration, trust, and agile practices—key aspects of social technologies—even though it doesn’t use the term directly. The discussion is highly relevant for practitioners and leaders, focusing on organisational benefits and modern team dynamics, making it well-aligned with the category’s intent and audience."
   },
   "Application Lifecycle Management": {
     "resourceId": "Remote Working",
@@ -1761,7 +1772,8 @@
     "ai_penalty_details": "none",
     "final_score": 90.0,
     "reasoning": "The content directly and repeatedly refers to 'Remote Working' both in the title and opening line, establishing a strong explicit connection (high 'mentions' score). The conceptual alignment is very strong: the definition and elaboration of remote working are clearly tailored to Agile team contexts, referencing team collaboration, distributed environments, and practices that align with Agile and lean methodologies. While not listing tools or specific Agile ceremonies, it substantializes how remote work intersects with Agile values (communication, feedback loops, resilience, iterative development), earning a high score for depth. The intent is to inform and support practitioners in remote Agile team setups, as indicated by phrases like 'enabling teams to collaborate', 'respond swiftly', and 'adapt to this model', which match the category’s audience and goals. The target audience is Agile practitioners and teams, though the text uses broad language suitable even for executives; this yields a strong, but slightly lower, audience score. The content is highly focused, with little to no off-topic filler, though it is somewhat general and lacks concrete named practices or detailed case studies—resulting in a slightly lower depth and signal score. There are no deductions required: the content is current, constructive, and fits the positive, solutions-based framing of the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it clearly centres on remote working within Agile teams. It explains how remote work aligns with Agile principles, focusing on collaboration and adaptability. While it doesn’t delve into specific tools or detailed examples, it effectively addresses the needs of Agile practitioners, making it relevant and informative for its intended audience."
   },
   "Product Owner": {
     "resourceId": "Remote Working",
@@ -2103,7 +2115,8 @@
     "ai_penalty_details": "none",
     "final_score": 76.0,
     "reasoning": "The content centers on remote working practices primarily in the context of enabling distributed agile teams. There is indirect mention and strong conceptual alignment with software development: references to agile methodologies, iterative development, lean principles, and continuous communication all connect to software engineering practices. However, while the content references these concepts, it does not go deep into specific software development practices, frameworks, or tools such as SDLC processes, coding standards, or CI/CD. The discussion is fairly substantial and purposefully focused on effective teamwork and agile delivery, which aligns with the intent and target audience of software development practitioners and managers. The signal-to-noise ratio is fairly high, with little off-topic content, although some material is generally applicable to other fields (e.g., general team engagement or productivity) and not solely to software development. No penalties are applied, as the material is current, supportive, and not critical or satirical. The confidence reflects the strong, but not absolute, fit: the topic of remote working is adjacent to software development, with the content making clear connections to agile, lean, and distributed team practices specific to the field.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it discusses remote working within the context of agile and lean software development. While it doesn’t delve into technical details or specific tools, its focus on distributed teamwork, agile delivery, and communication is highly relevant to software practitioners and managers. The material is purposeful and well-aligned, though some points could apply to other industries."
   },
   "Hypothesis Driven Development": {
     "resourceId": "Remote Working",
@@ -2229,7 +2242,8 @@
     "ai_penalty_details": "none",
     "final_score": 85.0,
     "reasoning": "The content provides a practical overview of remote working within the context of agile and lean teams, explicitly describing it as a practice and discussing approaches that directly affect operational efficiency. Conceptual alignment is high, as the main ideas focus on distributed teams, digital tools, collaboration, and iteratively improving communication—all aligned with Operational Practices. The depth is substantial, linking remote work to agile, lean, and continuous feedback without drifting into shallow or unrelated commentary. The primary intent is to inform practitioners seeking to enable distributed teams, matching the target audience of organizational operations or agile coaches. Signal-to-noise ratio is strong, as all content is relevant and focused. However, explicit references to named operational methodologies (like Kanban or DevOps) are implied rather than direct, affecting the 'mentions' score. No part is outdated or contradictory, so there are no penalties. The overall score is proportionate, reflecting strong but not perfect confidence due to a lack of highly specific process optimization examples or detailed step-by-step practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the Operational Practices category, as it offers a focused, practical discussion on remote work within agile and lean teams. It addresses collaboration, digital tools, and continuous improvement, all of which are central to operational efficiency. While it could include more explicit references to specific methodologies, its relevance and depth make it highly suitable for practitioners in this area."
   },
   "Sociotechnical Systems": {
     "resourceId": "Remote Working",
@@ -2247,7 +2261,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content does not explicitly mention 'Sociotechnical Systems' or its terminology, resulting in a low score for direct mentions. However, the piece thoroughly addresses the interaction between technology (digital collaboration tools), organisational structures (team dynamics, culture, trust), and agile/lean principles, aligning strongly with the core conceptual meaning. The depth is reasonably substantial, covering both social (culture, trust, engagement) and technical (tools, distributed processes) sides, with some nuance to the challenges and adaptation required. The primary purpose is highly aligned—supporting effective software delivery through remote working, which inherently deals with the social and technical interplay. The audience is primarily agile practitioners, leaders, or managers seeking to optimise distributed team performance, matching with the category’s typical audience. The content is focused with few digressions, yielding a high signal-to-noise ratio. No penalties were applied, as the content references current practices and maintains a neutral, informative tone. The final confidence score reflects strong conceptual and practical alignment, reduced only by the lack of explicit 'sociotechnical' framing.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "While the content doesn’t directly use 'Sociotechnical Systems' terminology, it clearly explores the interplay between technology, organisational structures, and team culture—key aspects of the category. Its focus on remote collaboration, agile practices, and team dynamics makes it highly relevant for those interested in sociotechnical approaches, even if the explicit language is missing."
   },
   "Open Space Agile": {
     "resourceId": "Remote Working",
@@ -2319,7 +2334,8 @@
     "ai_penalty_details": "none",
     "final_score": 86.0,
     "reasoning": "The content directly addresses practical techniques and cultural aspects crucial to enabling distributed Agile teams, aligning closely with the core of Pragmatic Thinking. It offers real-world strategies such as leveraging digital tools and fostering accountability and continuous feedback, which are key topics listed in the category definition. The content also references the integration of agile and lean principles and supports evidence-based practices for productivity and collaboration. There is a moderate score for direct mentions since the term 'Pragmatic Thinking' is not explicitly cited, but its themes are woven throughout. The discussion extends beyond surface-level, describing systemic benefits, cultural impact, and iterative development, thus indicating depth. Intent is highly aligned, aiming to support effective practice under real-world constraints. The audience is primarily agile practitioners and team leads—matching the typical consumers of this content category. Signal-to-noise is high, with nearly all of the content directly relevant and little extraneous material. No penalties were applied as the content is current, supportive, and consistent with the category's ethos.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores actionable methods and cultural factors essential for distributed Agile teams. It delves into practical strategies, references agile and lean principles, and targets practitioners seeking effective, real-world solutions. The discussion is focused and relevant, offering depth and clear value without unnecessary information."
   },
   "System Configuration": {
     "resourceId": "Remote Working",
@@ -2697,7 +2713,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The content directly discusses best practices for enabling remote agile teams, repeatedly references collaboration (both in explicit wording and in concept), and focuses on topics such as digital collaboration tools, trust, accountability, communication, and shared ownership—all core aspects of the 'Team Collaboration' category. It clearly targets practitioners involved in Agile, Scrum, or DevOps teams, making audience alignment strong. Depth is substantial, moving past surface tips to discuss systemic impacts, iterative development, and team dynamics. The discussion is well-focused, with little off-topic content; however, a small fraction of the material addresses peripheral benefits (like tapping into broader talent pools), slightly lowering the Signal-to-Noise score. No penalties are needed: the tone is supportive, current, and solidly within scope. The final confidence score reflects the strong and multi-dimensional fit, supported by examples throughout the text.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Team Collaboration' category, as it thoroughly explores how remote agile teams can work effectively together. It highlights key collaboration themes like communication, trust, and shared ownership, and is clearly aimed at Agile, Scrum, or DevOps practitioners. While a minor portion touches on related benefits, the main focus remains on team dynamics and collaborative practices."
   },
   "Hybrid Agile": {
     "resourceId": "Remote Working",
@@ -2823,7 +2840,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content explicitly references value delivery in remote teams, including phrases such as 'deliver value from various locations' and 'the focus on delivering value remains paramount.' This provides a strong direct mention but not at the highest frequency. Conceptual alignment is high: the description discusses how remote work enables Agile practices (iterative development, lean principles, feedback loops, minimising waste, resource optimisation), and how it improves responsiveness to customer needs, which are core elements of value delivery. The depth is solid; the content covers not only the mechanism (remote working) but also its broader implications for delivering value, team engagement, agility, and sustainability—though it stops short of specific value delivery frameworks or metrics. The intent is to inform and support best practices for enabling value delivery in distributed Agile teams, fitting the category's purpose closely but not exclusively. The target audience (practitioners, team leads, Agile professionals) matches the category, emphasizing effective outcomes for customers and organisations. The signal-to-noise ratio is high; with little off-topic content. No penalties were warranted as the material is current, supportive of value delivery, and not contradictory or satirical. Final confidence is calculated per formula and calibrated to avoid score ties, reflecting strong but not absolute direct relevance.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the value delivery category, as it directly discusses how remote teams can maintain and enhance value delivery through Agile practices. It highlights key concepts like responsiveness, resource optimisation, and team engagement, all of which are central to value delivery. While it doesn’t delve into specific frameworks, its focus and relevance make it highly suitable for practitioners interested in effective value outcomes."
   },
   "Market Share": {
     "resourceId": "Remote Working",

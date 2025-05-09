@@ -141,7 +141,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content is a detailed, practical guide to upgrading legacy .NET and ASP.NET MVC projects to SDK-style, with a strong focus on modernising engineering practices. It directly addresses best practices in codebase maintenance, build automation, CI/CD integration, and technical debt reduction—core themes of Engineering Excellence. While the term 'engineering excellence' is not explicitly named, the entire discussion is conceptually and practically aligned with the category, emphasising quality, maintainability, and future readiness. The depth is high, with step-by-step instructions, tool recommendations, and troubleshooting advice. The intent is clearly to inform and empower engineers to improve their development processes. The audience is technical (developers, engineering teams), and the content is highly focused with minimal off-topic material. No penalties are applied, as the advice is current, constructive, and fully in line with the category's framing. The confidence score reflects the strong alignment, depth, and relevance, with a slight deduction in 'mentions' due to the lack of explicit category naming.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Engineering Excellence category. It offers in-depth, actionable guidance on modernising .NET projects, focusing on best practices, maintainability, and process improvement. The technical depth and practical advice directly support engineering teams aiming for higher quality and efficiency, even though the category name isn’t explicitly mentioned."
   },
   "Technical Leadership": {
     "resourceId": "2mdv7QE2nIt",
@@ -447,7 +448,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content is a detailed, experience-driven guide to upgrading legacy .NET and ASP.NET MVC projects to SDK-style, with a strong focus on practical, real-world problem-solving. It directly references 'pragmatic reality' and repeatedly emphasises practical decision-making, trade-offs, and actionable steps, which aligns closely with the Pragmatic Thinking category. The main ideas are about navigating complexity, applying lessons learned, and making evidence-based, context-sensitive choices (e.g., when to convert, when to leave legacy code as-is). The depth is high, with step-by-step instructions, tool recommendations, and troubleshooting advice. The intent is to inform and empower practitioners facing similar challenges, matching the category's audience. The signal-to-noise ratio is strong, with minimal filler and a clear focus on actionable guidance. There are no outdated practices or contradictory tones; the advice is current and constructive. No penalties were applied. The confidence score is high due to the strong conceptual alignment, depth, and practical focus, with only a slightly lower score for direct mentions (as 'pragmatic thinking' is referenced more in spirit and language than as a formal term).",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Pragmatic Thinking category. It offers hands-on, experience-based advice for upgrading legacy .NET projects, focusing on real-world challenges and practical solutions. The guide is clear, actionable, and tailored for professionals seeking effective, context-aware strategies, making it highly relevant for this category."
   },
   "Software Development": {
     "resourceId": "2mdv7QE2nIt",
@@ -465,7 +467,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content is a comprehensive, technical guide focused on upgrading legacy .NET and ASP.NET MVC projects to SDK-style, which is a highly relevant and current software engineering practice. Direct mentions of software development concepts are frequent and explicit, including references to CI/CD, version control migration (TFVC to Git), code quality tools, build systems, and project structure modernisation. The conceptual alignment is extremely strong, as the entire discussion revolves around improving software engineering outcomes through modern methodologies and tooling. The depth is substantial, with step-by-step instructions, code snippets, troubleshooting advice, and nuanced recommendations for different project types (class libraries vs. web apps). The intent is clearly to inform and support practitioners in adopting best practices for maintainable, future-ready software systems. The audience is technical, targeting software engineers, architects, and DevOps professionals. The signal-to-noise ratio is high, with minimal digression and a strong focus on actionable guidance. No penalties are warranted, as the content is up-to-date, methodologically sound, and not critical or satirical. The final confidence score reflects the strong, multi-dimensional fit with the Software Development category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Software Development category. It offers in-depth, practical guidance on modernising .NET projects, directly addressing current engineering practices and tools. The technical focus, actionable steps, and clear targeting of software professionals make it highly relevant and valuable for its intended audience."
   },
   "Continuous Delivery": {
     "resourceId": "2mdv7QE2nIt",
@@ -735,7 +738,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content is a detailed, technical guide on converting legacy .NET and ASP.NET MVC projects to SDK-style, with a strong focus on modernising build systems, improving maintainability, and enabling modern tooling. While it does not directly mention 'Engineering Practices' by name, it repeatedly references and advocates for core engineering practices such as automation (using tools like try-convert and .NET Upgrade Assistant), clean code (simpler project files, maintainability), CI/CD integration, and test-first development (explicitly recommending thorough testing and not skipping CI). The discussion is deep, with step-by-step instructions, practical recommendations, and troubleshooting tips, showing substantial depth beyond surface-level mentions. The intent is clearly to inform and support practitioners in adopting better engineering practices, and the audience is technical (developers, engineers, DevOps). The content is highly focused, with minimal off-topic material, and all examples and advice are directly relevant to improving engineering practices in the context of Agile software development. No penalties were applied, as the content is current, constructive, and fully aligned with the category definition.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content thoroughly supports the 'Engineering Practices' category by guiding developers through modernising .NET projects with practical steps, automation tools, and best practices. It emphasises maintainability, CI/CD, and testing, all of which are core engineering principles. The advice is actionable and tailored for technical audiences, making it highly relevant and well-aligned with the category’s intent."
   },
   "Customer Feedback Loops": {
     "resourceId": "2mdv7QE2nIt",
@@ -771,7 +775,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content provides a detailed, practical guide for upgrading legacy .NET and ASP.NET MVC projects to SDK-style, with a strong focus on resolving common technical issues encountered during the process. Direct mentions of 'troubleshooting' are limited, but the content is rich in actionable advice for diagnosing and fixing build, debugging, and integration problems (e.g., handling 'RunCommand not set' errors, debugging configuration, symbol loading, and known limitations). The 'Debugging Survival Guide' section is explicitly troubleshooting-focused, and the overall tone is pragmatic, targeting technical practitioners facing real-world migration challenges. The depth is high, with step-by-step instructions, tool recommendations, and nuanced discussion of edge cases. The intent is clearly to help readers identify and resolve migration and compatibility issues, aligning well with the category. The audience is technical (developers, DevOps engineers), and the content is focused with minimal off-topic material. No penalties were applied, as the content is current and supportive. The confidence score reflects strong alignment and depth, with slightly lower scores for direct mentions and signal due to some general upgrade advocacy and context-setting.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the troubleshooting category. It offers in-depth, practical guidance for resolving technical issues during .NET and ASP.NET MVC project upgrades. While not every section is labelled as troubleshooting, the advice is hands-on, targeting real-world migration problems, and is clearly aimed at helping technical professionals overcome specific challenges. The focus and depth make it highly relevant for this audience."
   },
   "Agile Leadership": {
     "resourceId": "2mdv7QE2nIt",
@@ -915,7 +920,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content is a comprehensive, step-by-step guide focused on converting legacy .NET and ASP.NET MVC projects to SDK-style, which is a core installation and configuration activity. It provides explicit instructions, code snippets, tool recommendations (e.g., try-convert, .NET Upgrade Assistant), and troubleshooting tips for both class libraries and web apps. The main themes are deeply aligned with the category: project setup, configuration best practices, integration with modern build and CI/CD systems, and addressing compatibility and migration issues. The audience is clearly technical practitioners responsible for maintaining and upgrading engineering systems. The content is highly focused, with minimal off-topic material, and avoids theoretical or strategic digressions. There are no outdated practices or contradictory tones; the advice is current and pragmatic. The only minor deduction in 'mentions' is due to the lack of explicit use of the phrase 'install and configuration', but the conceptual and practical coverage is extremely strong. The final confidence score reflects the high degree of fit across all dimensions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent match for the category, as it offers clear, actionable guidance on upgrading .NET and ASP.NET MVC projects—key installation and configuration tasks. It’s practical, up-to-date, and tailored for technical professionals, covering tools, troubleshooting, and best practices without unnecessary digressions. While it doesn’t use the exact category phrase, its focus and relevance are unmistakable."
   },
   "Automated Testing": {
     "resourceId": "2mdv7QE2nIt",
@@ -1149,7 +1155,8 @@
     "ai_penalty_details": "none",
     "final_score": 75.0,
     "reasoning": "The content provides a detailed, practical guide to upgrading legacy .NET and ASP.NET MVC projects to SDK-style, with a strong focus on modernising engineering systems for maintainability and future readiness. While 'technical excellence' is not directly named, the narrative repeatedly emphasises principles that underpin technical excellence: simplifying build systems, enabling modern CI/CD, improving code quality, and supporting maintainability. The discussion is conceptually well-aligned, especially in its rationale for why these upgrades matter (e.g., 'make your engineering system simpler, more maintainable, and ready for what’s next'). The depth is solid, with step-by-step instructions, caveats, and recommendations for both class libraries and web apps, though it is somewhat tool- and process-focused at times. The intent is to help practitioners achieve a higher standard of engineering practice, but the primary framing is around migration and modernisation rather than an explicit treatise on technical excellence. The audience is clearly technical practitioners and engineering teams, matching the category. The signal-to-noise ratio is high, with most content directly relevant, though some sections (e.g., detailed debugging tips) are more tactical. No penalties are applied, as the content is current, constructive, and not critical of the concept. Overall, the confidence score reflects strong conceptual alignment and depth, with minor deductions for lack of explicit category naming and a slightly more practical than theoretical focus.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category well, as it offers a thorough, practical guide to modernising .NET projects, emphasising principles like maintainability and code quality that underpin technical excellence. While it doesn’t explicitly label itself as such, its focus on best practices and future readiness aligns closely with the category’s intent, making it highly relevant for technical teams aiming to improve their engineering standards."
   },
   "Transparency": {
     "resourceId": "2mdv7QE2nIt",
@@ -1617,7 +1624,8 @@
     "ai_penalty_details": "none",
     "final_score": 87.0,
     "reasoning": "The content provides a detailed, step-by-step guide for upgrading legacy .NET and ASP.NET MVC projects to SDK-style, with a strong focus on practical application and process improvement. It directly addresses operational efficiency by streamlining build processes, improving maintainability, and enabling modern tooling and CI/CD integration—core concerns of Operational Practices. While the term 'operational practices' is not explicitly mentioned, the content is conceptually aligned, offering actionable strategies, best practices, and troubleshooting tips for practitioners. The depth is substantial, covering both class library and web app scenarios, including limitations and pragmatic recommendations. The intent is clearly to inform and support technical teams in improving their engineering workflows. The audience is technical practitioners (developers, DevOps engineers) responsible for maintaining and modernising .NET applications, which matches the category's target. The content is focused, with minimal off-topic material, and maintains a high signal-to-noise ratio. No penalties were applied, as the content is current, practical, and not critical or satirical. The confidence score reflects strong alignment and depth, with slightly lower scores for direct mentions and audience targeting due to the lack of explicit category naming and a focus on a technical rather than process-agnostic audience.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it offers clear, actionable guidance for modernising .NET projects—directly supporting operational efficiency and best practices. While it doesn’t use the term ‘operational practices’ explicitly, its practical focus and relevance to technical teams make it highly suitable for practitioners aiming to improve workflows and maintainability."
   },
   "Sensemaking": {
     "resourceId": "2mdv7QE2nIt",
@@ -1743,7 +1751,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content is a highly detailed, practical guide focused on upgrading legacy .NET and ASP.NET MVC projects to SDK-style, with a strong emphasis on engineering practices, code quality, maintainability, and modern tooling. It directly addresses best practices in software design (project structure, dependency management), the use of modern build systems, and the integration of CI/CD pipelines. The discussion is deep, covering both class libraries and web apps, with step-by-step instructions, tool recommendations, and troubleshooting advice. The main intent is to help practitioners achieve technical excellence and future readiness, aligning perfectly with the 'Technical Mastery' category. The audience is clearly technical (developers, engineers, architects), and the content is focused with minimal off-topic material. Direct mentions of 'engineering practices', 'maintainability', 'code quality tools', and 'build systems' are frequent, though the exact phrase 'Technical Mastery' is not used, resulting in a slightly lower score for direct mentions. No penalties are applied as the content is current, accurate, and supportive of the category's framing. The final confidence score reflects the strong conceptual alignment, depth, and technical focus of the content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Technical Mastery' category, as it offers in-depth, practical guidance on modernising .NET projects. It targets a technical audience, emphasises best engineering practices, and covers advanced topics like build systems and CI/CD. While it doesn’t use the exact category name, its focus on technical excellence and future-proofing aligns perfectly with the category’s intent."
   },
   "Organisational Culture": {
     "resourceId": "2mdv7QE2nIt",
@@ -2283,7 +2292,8 @@
     "ai_penalty_details": "Mentions dimension penalised by 0.8 points: the term 'Application Lifecycle Management' is not directly named, and while ALM concepts are present, explicit reference is lacking.",
     "final_score": 82.0,
     "reasoning": "The content provides a detailed, practical guide to upgrading legacy .NET and ASP.NET MVC projects to SDK-style, focusing on modernising build systems, improving maintainability, and preparing for future development. These are core concerns of Application Lifecycle Management (ALM), particularly in the context of maintenance, upgrade, and tooling. The discussion covers best practices, tools (e.g., try-convert, MSBuild SDKs), and process recommendations, all of which are highly relevant to ALM. However, the content does not explicitly mention 'Application Lifecycle Management' or use ALM-specific terminology, which slightly reduces the directness of the fit. The depth is strong, with step-by-step instructions, troubleshooting, and strategic recommendations. The intent is to inform and guide practitioners responsible for application maintenance and evolution, aligning well with the ALM audience. The signal-to-noise ratio is high, with minimal tangential content. A penalty was applied to the 'Mentions' dimension due to the lack of explicit ALM references, but no other penalties were necessary. Overall, the content is a strong fit for the category, with a high confidence score reflecting its practical alignment with ALM principles.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Application Lifecycle Management category, as it offers in-depth, actionable guidance on modernising .NET projects—key aspects of ALM. While it doesn’t use ALM-specific terms, its focus on maintenance, upgrades, and tooling directly supports ALM goals, making it highly relevant for practitioners in this field."
   },
   "Daily Scrum": {
     "resourceId": "2mdv7QE2nIt",
@@ -2715,7 +2725,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content is a detailed, practical guide to upgrading legacy .NET and ASP.NET MVC projects to SDK-style, with a strong focus on project structure, build configuration, and integration with modern tooling. Direct mentions of 'configuration' are present but not dominant; however, the conceptual alignment is very high, as the entire process revolves around system setup, integration, and ongoing maintainability—core aspects of system configuration. The depth is substantial, with step-by-step instructions, tool recommendations, troubleshooting, and best practices for both class libraries and web apps. The intent is clearly to inform and support practitioners in configuring and modernising their systems. The audience is technical (developers, DevOps, system integrators), matching the category. The signal-to-noise ratio is high, with minimal tangential content. No penalties are applied, as the content is current, practical, and not critical or satirical. The final confidence score reflects strong alignment and depth, with slightly lower marks for direct mentions and signal due to some focus on migration rather than pure configuration.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the configuration category. It offers in-depth, practical guidance on modernising .NET projects, focusing on system setup, integration, and maintainability—key aspects of configuration. While migration is a theme, the advice directly supports configuring systems, making it highly relevant for technical audiences seeking actionable configuration insights."
   },
   "Continuous Improvement": {
     "resourceId": "2mdv7QE2nIt",

@@ -27,7 +27,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the benefits of continuous delivery and automation, which are closely tied to deployment frequency. It provides specific examples, such as the Azure DevOps team's improvement in feature delivery rates, illustrating the impact of optimising deployment intervals. The emphasis on faster feedback loops and reduced risk aligns well with the core themes of the category. However, while deployment frequency is a significant focus, the content also delves into broader aspects of continuous delivery and automation, which slightly dilutes its primary focus on deployment frequency.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the category, as it highlights how continuous delivery and automation directly influence deployment frequency. By sharing real-world examples and focusing on faster feedback and reduced risk, it addresses key aspects of the category. While it does touch on broader topics, the main emphasis remains on how deployment frequency benefits from these practices."
   },
   "Throughput": {
     "category": "Throughput",
@@ -81,7 +82,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of automation in the context of continuous delivery and DevOps, highlighting how automation enhances consistency, reliability, and risk reduction. However, while it touches on automated testing and its role in speeding up feedback loops, it does not delve deeply into specific test automation frameworks, best practices, or types of automated tests. The primary focus is on continuous delivery rather than test automation itself, which limits the overall alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores automation within continuous delivery and DevOps, emphasising its benefits for consistency and risk management. While it briefly mentions automated testing, it doesn’t provide detailed insights into test automation frameworks or practices. As a result, the focus is broader than test automation specifically, making it only partially relevant to that category."
   },
   "Windows": {
     "category": "Windows",
@@ -123,7 +125,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the practical implications of continuous delivery and automation within the DevOps framework, providing real-world examples such as Night Capital Group and Azure DevOps. It highlights the importance of reducing risk and increasing efficiency through automation, which aligns well with the core themes of pragmatic thinking. The depth of discussion is significant, as it covers various aspects of continuous delivery and its impact on project management, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the category, as it explores how continuous delivery and automation are applied in real-world DevOps scenarios. By referencing practical examples and focusing on risk reduction and efficiency, it clearly demonstrates pragmatic thinking and offers valuable insights into project management within this context."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -483,7 +486,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the role of automation in continuous delivery, which is a key operational practice within the DevOps framework. It highlights specific benefits such as consistency, risk mitigation, and the importance of automated checks, aligning well with the core themes of operational efficiency and continuous improvement. The depth of discussion is significant, providing real-world examples and metrics that illustrate the impact of these practices on organisational performance.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how automation enhances continuous delivery within DevOps. By detailing benefits like improved consistency and reduced risk, and supporting these points with practical examples and metrics, it clearly aligns with the themes of operational efficiency and ongoing improvement."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -735,7 +739,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content primarily focuses on the principles and practices of continuous delivery and automation within the DevOps framework, which aligns closely with the core themes of Technical Mastery. It discusses the importance of automation in improving software delivery processes, risk mitigation, and maintaining software quality, all of which are key aspects of software craftsmanship. The depth of discussion is substantial, providing real-world examples and insights into how automation transforms software development. However, while it touches on technical excellence, it does not delve deeply into broader software design principles or clean code practices, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Technical Mastery category, as it explores continuous delivery and automation in the DevOps context. It highlights how automation enhances software delivery, reduces risk, and upholds quality—central to technical excellence. While it doesn’t extensively cover broader design or clean code principles, its focus on practical automation aligns well with the category’s core themes."
   },
   "Transparency": {
     "category": "Transparency",
@@ -810,7 +815,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on continuous delivery and automation within software development, which are key aspects of engineering excellence. It discusses the benefits of automation, risk reduction, and the importance of feedback loops, aligning well with the principles of software craftsmanship and best practices in coding standards. The depth of discussion is substantial, providing examples and metrics that illustrate the impact of these practices on engineering performance. Overall, the content strongly supports the category of Engineering Excellence.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Engineering Excellence category, as it delves into continuous delivery and automation—core elements of high-quality software development. By highlighting benefits like risk reduction and effective feedback, and backing up points with examples and metrics, it clearly demonstrates best practices and a commitment to superior engineering standards."
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -822,7 +828,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses continuous delivery and automation within the context of software development, highlighting the transformation it brings to processes and operational efficiency. While it does not explicitly mention 'digital transformation', it aligns with the core themes of leveraging digital tools for business agility and innovation. The depth of discussion on automation and its impact on organisational processes contributes positively, but the lack of direct references to broader digital transformation strategies and case studies limits the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category, as it explores how automation and continuous delivery drive efficiency and agility in software development—key aspects of digital transformation. However, it doesn’t directly address wider digital transformation strategies or provide case studies, which slightly limits its alignment with the broader category."
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -873,7 +880,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content primarily focuses on continuous delivery, which is a key aspect of deployment strategies. It discusses the importance of automation in deployment processes, risk mitigation, and the benefits of rapid feedback loops, all of which align closely with the core themes of the category. However, while it provides substantial insights into continuous delivery, it lacks detailed discussions on specific deployment methodologies like Blue-Green Deployments or Canary Releases, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the deployment strategies category, as it highlights continuous delivery, automation, and risk management—central themes in deployment. While it offers valuable insights into these areas, it doesn’t delve into specific methodologies such as Blue-Green or Canary deployments, which would have provided greater depth. Overall, it aligns with the category but could be more comprehensive."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -954,7 +962,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content extensively discusses continuous delivery, which is a key aspect of release management. It highlights the importance of automation, risk mitigation, and rapid feedback loops, all of which are integral to effective release processes. The examples provided, such as the Azure DevOps transformation, illustrate practical applications of release management strategies. However, while the focus is strong, it does not delve deeply into broader release management topics like version control or stakeholder coordination, which slightly limits the depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the release management category, as it centres on continuous delivery and its role in streamlining releases through automation and feedback. Real-world examples reinforce its relevance. However, it doesn’t cover the full spectrum of release management, such as versioning or stakeholder involvement, so its coverage is somewhat focused rather than comprehensive."
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1005,7 +1014,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on continuous delivery and automation, which are key aspects of engineering practices in Agile development. It discusses the importance of automation in reducing errors, enhancing reliability, and improving feedback loops, aligning well with the principles of CI/CD and automation. The depth of discussion is substantial, providing real-world examples and insights into the transformation brought by these practices. However, while it touches on related themes, it does not delve deeply into other core topics like TDD or clean code, which slightly lowers the overall confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on continuous delivery and automation—core elements of Agile engineering. It highlights how automation boosts reliability and speeds up feedback, using practical examples. While it doesn’t explore topics like TDD or clean code in depth, its focus on CI/CD and automation makes it highly relevant."
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1077,7 +1087,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses continuous delivery and automation within DevOps, highlighting how these practices enhance speed and reduce risk, which aligns with the principles of flow efficiency. It provides specific examples, such as the Azure DevOps team's improvement in feature delivery and the importance of shortening feedback loops, which directly relate to optimising throughput. However, while flow efficiency is a significant theme, the primary focus is on continuous delivery and automation rather than flow efficiency itself, leading to a slightly lower confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category, as it explores how continuous delivery and automation in DevOps contribute to flow efficiency by speeding up delivery and minimising risk. Real-world examples, like the Azure DevOps team, illustrate these benefits. However, since the main emphasis is on continuous delivery rather than flow efficiency specifically, the alignment isn’t perfect but still relevant."
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1089,7 +1100,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses continuous delivery and automation within the context of DevOps, highlighting how these practices enhance responsiveness to market demands and reduce risk. It provides specific examples, such as the Azure DevOps team and the Night Capital Group, illustrating the impact of faster feedback loops and automated processes on business agility. While the primary focus is on continuous delivery, it aligns well with the principles of market adaptability by emphasising the importance of quick responses to changes and customer needs.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how continuous delivery and automation in DevOps help organisations quickly adapt to market changes. By referencing real-world examples, it demonstrates how faster feedback and automated workflows boost business agility and responsiveness, which are key aspects of market adaptability. The focus on rapid response to customer needs further reinforces its relevance."
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1134,7 +1146,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of automation and continuous delivery in reducing risk and increasing effectiveness, which aligns with the core themes of metrics and learning. It provides specific examples, such as the Azure DevOps team's improvement in feature delivery and the impact of faster feedback loops. However, while it touches on metrics indirectly, it does not delve deeply into the collection and analysis of performance data or feedback mechanisms, which slightly limits its depth in the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it highlights how automation and continuous delivery contribute to better outcomes, referencing real-world improvements and the value of rapid feedback. While it aligns with the themes of metrics and learning, it doesn’t explore the detailed processes of gathering or analysing performance data, so its fit is solid but not comprehensive."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1179,7 +1192,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on Continuous Delivery and its role in enhancing software development through automation, which aligns closely with the principles of Technical Excellence. It discusses the benefits of automation, risk reduction, and the importance of feedback loops, all of which are key themes in the category. The depth of discussion is substantial, providing specific examples and metrics that illustrate the impact of these practices on efficiency and reliability. Overall, the content is a strong fit for the category, with a high confidence score reflecting its comprehensive treatment of the topic.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the Technical Excellence category, as it delves into how Continuous Delivery and automation drive improvements in software development. By highlighting risk reduction, feedback loops, and measurable outcomes, it clearly demonstrates the core principles of technical excellence, making it highly relevant and well-suited to this category."
   },
   "Lean": {
     "category": "Lean",
@@ -1200,7 +1214,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses continuous delivery and its benefits within the context of DevOps, highlighting how automation enhances reliability and reduces risk, which aligns closely with the principles of value delivery. It provides specific examples and metrics that illustrate the impact of these practices on customer satisfaction and business agility, demonstrating a strong alignment with the core themes of the category. The depth of discussion is significant, as it covers various aspects of continuous delivery, including feedback loops and risk management, making it a primary focus of the content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores continuous delivery in DevOps, emphasising automation, reliability, and risk reduction. By offering concrete examples and metrics, it clearly demonstrates how these practices drive value delivery, customer satisfaction, and business agility—key themes of the category. The detailed discussion ensures the topic remains central throughout."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1284,7 +1299,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses continuous delivery and its role in product delivery, particularly within a DevOps context. It highlights the importance of automation, risk reduction, and faster feedback loops, which are core themes of product delivery methodologies. The depth of discussion is significant, providing examples and metrics that illustrate the impact of continuous delivery on software development efficiency. Overall, the content aligns closely with the principles of product delivery, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the product delivery category, as it thoroughly explores continuous delivery within a DevOps framework. It covers key aspects like automation, risk management, and rapid feedback, all of which are central to effective product delivery. The inclusion of practical examples and metrics further strengthens its relevance to the topic."
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1643,7 +1659,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content primarily discusses the impacts of continuous delivery and automation on software development, mentioning the importance of tools used within the DevOps framework like Azure DevOps. However, while the content does address how automation improves processes, it lacks a detailed exploration of specific tools or best practices associated with tool implementation. The insights on the effectiveness of automation and case studies provide a good conceptual alignment with the category, but it falls short in depth when it comes to specific tool functionalities and comparative analysis. Hence, the overall confidence is relatively high but not maximized.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the category as it explores how automation and continuous delivery influence software development, referencing relevant DevOps tools. However, it doesn’t delve deeply into specific tool features or best practices, nor does it offer comparative analysis. While the conceptual fit is strong, a more detailed examination of tool implementation would strengthen its categorisation."
   },
   "Values": {
     "resourceId": "LWRAX3OyO28",
@@ -1721,7 +1738,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content primarily focuses on continuous delivery as a practice, discussing its automation benefits and how it improves software delivery processes. Direct mentions of consistent and repeatable actions, such as automated checks and rapid feedback loops, align well with the 'Practice' category. The content provides detailed explanations of how automation impacts software delivery and team effectiveness, demonstrating a thorough understanding of actionable techniques. While some discussions lean toward examples and outcomes, the emphasis remains on continuous delivery as a practice, hence the high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Practice' category because it centres on continuous delivery as an actionable approach, highlighting automation, repeatable processes, and rapid feedback. The discussion goes beyond theory, offering practical insights into how these methods enhance software delivery and team performance, making it highly relevant to those seeking to understand or implement effective practices."
   },
   "Method": {
     "resourceId": "LWRAX3OyO28",

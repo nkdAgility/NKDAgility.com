@@ -129,7 +129,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the migration from TFS to Azure DevOps, highlighting the benefits of enhanced agility and efficiency, which aligns with the themes of digital transformation. However, while it touches on the strategic use of digital tools, the focus is primarily on the migration process itself rather than broader digital transformation strategies or cultural impacts. The depth of discussion on change management and organisational culture is limited, which affects the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly covers the technical aspects of moving from TFS to Azure DevOps, emphasising improved agility and efficiency. While it relates to digital transformation by showcasing the adoption of modern tools, it doesn’t deeply explore wider organisational or cultural changes, making its fit with the digital transformation category partial rather than comprehensive."
   },
   "Working Software": {
     "category": "Working Software",
@@ -204,7 +205,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content primarily focuses on the migration from TFS to Azure DevOps, which is closely related to Azure Repos as it discusses the transition to a modern source control system. It mentions Azure DevOps multiple times, highlighting its features and benefits, which aligns with the core themes of Azure Repos. However, while it touches on aspects of source control and collaboration, it lacks in-depth discussion specifically about Azure Repos functionalities, such as branching strategies or pull requests, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it centres on moving from TFS to Azure DevOps, directly relating to Azure Repos and modern source control practices. While it highlights Azure DevOps features and benefits, it doesn’t delve deeply into specific Azure Repos functionalities like branching or pull requests, making the fit good but not perfect."
   },
   "Transparency": {
     "category": "Transparency",
@@ -348,7 +350,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the migration from TFS to Azure DevOps, which is a significant aspect of software development practices, particularly in the context of version control and project management. It explicitly mentions tools and services related to Azure DevOps, aligning well with the core themes of software development methodologies and practices. The depth of discussion is substantial, covering various aspects of the migration process, including validation and service offerings, which indicates a thorough understanding of the subject matter.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on moving from TFS to Azure DevOps—a key topic in software development. It delves into relevant tools, services, and migration steps, demonstrating a solid grasp of both version control and project management practices. The detailed discussion highlights practical considerations, making it highly relevant to professionals in this field."
   },
   "Engineering Excellence": {
     "category": "Engineering Excellence",
@@ -561,7 +564,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses practical migration strategies from TFS to Azure DevOps, highlighting real-world applications of tools and services that facilitate this process. It mentions specific challenges and considerations in the migration, such as compatibility issues and the need for validation, which aligns with pragmatic problem-solving in complex environments. However, while it touches on Agile and Scrum in the context of process changes, the primary focus is on migration services rather than a broader discussion of pragmatic thinking principles.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on hands-on migration strategies from TFS to Azure DevOps, addressing real-world challenges and solutions. While it briefly references Agile and Scrum, its main emphasis is on practical migration tools and considerations, making it relevant for those seeking actionable guidance in complex technical transitions."
   },
   "Deployment Frequency": {
     "category": "Deployment Frequency",
@@ -1026,7 +1030,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, detailing specific tools and services that facilitate this transition. It discusses the installation and configuration aspects of the migration tools, including validation requirements and potential issues that may arise during the process. The depth of discussion is significant, as it covers both the managed services offered and the intricacies of the migration, aligning well with the key topics of the category. However, while the content is rich in practical guidance, it could benefit from more structured step-by-step instructions to enhance clarity.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores the migration from TFS to Azure DevOps, highlighting relevant tools, services, and common challenges. Its practical focus and detailed discussion align well with the category’s themes, though adding clearer step-by-step instructions could further improve its usefulness."
   },
   "Flow Efficiency": {
     "category": "Flow Efficiency",
@@ -1047,7 +1052,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content primarily focuses on the migration process from TFS to Azure DevOps, which is a critical aspect of product delivery. It discusses methodologies, tools, and best practices for ensuring a smooth transition, aligning well with the core themes of product delivery. However, while it touches on important elements like validation and testing, the depth of discussion on broader product delivery concepts such as Agile methodologies or cross-functional teams is limited, which slightly reduces the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the product delivery category, as it centres on migrating from TFS to Azure DevOps—a key process in delivering software products. It covers practical steps, tools, and best practices for a successful transition. However, it offers less detail on wider product delivery themes like Agile or team collaboration, which slightly narrows its fit within the broader category."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1104,7 +1110,8 @@
     "non_ai_confidence": 50,
     "final_score": 82.0,
     "reasoning": "The content primarily focuses on the migration from TFS to Azure DevOps, which is a key aspect of DevOps practices. It discusses the importance of collaboration, automation, and the need for continuous improvement during the migration process. The mention of tools and strategies for a seamless transition aligns well with the DevOps philosophy of integrating people, processes, and technology. Additionally, the content provides detailed insights into common issues, validation processes, and the significance of post-migration testing, demonstrating a deep understanding of the DevOps principles. Overall, the content is highly relevant to the DevOps category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the DevOps category, as it centres on migrating from TFS to Azure DevOps—a core DevOps activity. It highlights collaboration, automation, and continuous improvement, all of which are fundamental DevOps principles. The discussion of tools, strategies, and post-migration validation further reinforces its relevance to DevOps practices."
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1116,7 +1123,8 @@
     "non_ai_confidence": 20,
     "final_score": 85.0,
     "reasoning": "The content primarily focuses on the migration from TFS to Azure DevOps, discussing specific tools and services related to Azure DevOps. It explicitly mentions Azure DevOps multiple times and provides detailed insights into the migration process, including validation and managed services. The discussion aligns well with the core themes of Azure DevOps, particularly in the context of CI/CD and project management. The depth of the discussion is substantial, covering various aspects of the migration process, which reinforces the high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Azure DevOps category, as it centres on migrating from TFS to Azure DevOps. It delves into relevant tools, services, and migration steps, offering detailed guidance and practical insights. The repeated references to Azure DevOps and its core functionalities, such as CI/CD and project management, make the classification highly appropriate."
   },
   "Business Agility": {
     "category": "Business Agility",
@@ -1553,7 +1561,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content is heavily focused on the migration process from TFS to Azure DevOps, specifically discussing the tools used for migration, such as the Azure DevOps Migration Tools and the Data Migration Tool. The article thoroughly evaluates challenges and best practices involved in this transition, offering practical examples and a step-by-step approach to using these tools effectively. The emphasis is clearly on how these tools can facilitate workflows and improve collaboration during the migration process, aligning well with the specified category of 'Tool'. However, while the tools are a primary focus, some content is dedicated to general migration strategies, slightly detracting from a full alignment with the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the 'Tool' category as it centres on the practical use of migration tools for moving from TFS to Azure DevOps. It details tool features, usage steps, and real-world examples, making tools the main focus. While some general migration strategies are mentioned, the primary emphasis remains on how these tools support and streamline the migration process."
   },
   "Values": {
     "resourceId": "Wvdh1lJfcLM",
@@ -1644,7 +1653,8 @@
     "non_ai_confidence": null,
     "final_score": 77.0,
     "reasoning": "The content provides a detailed step-by-step approach to migrating from TFS to Azure DevOps, outlining specific methods, tools, and practices necessary for a successful transition. It discusses the two-pronged approach to migration, including targeted migration and managed import services. The structured order of operations for a smooth migration process is also elaborated upon, demonstrating a clear procedural focus aligned with the category 'Method'. Despite its heavy focus on practical advice and strategies, it remains primarily centered on the methods employed during the migration process.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Method' category because it systematically explains the procedures and strategies for migrating from TFS to Azure DevOps. By detailing specific steps, tools, and approaches, it focuses on the practical methods required for a successful migration, rather than just offering general advice or background information."
   },
   "Model": {
     "resourceId": "Wvdh1lJfcLM",

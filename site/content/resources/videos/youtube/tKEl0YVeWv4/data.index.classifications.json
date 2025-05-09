@@ -27,7 +27,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the role of automation in software development, particularly in relation to deployment processes. It highlights how automation can enhance deployment frequency by enabling faster and more reliable releases, which aligns well with Agile and DevOps principles. The examples provided, such as the Knight Capital Group and Facebook's deployment strategies, illustrate the importance of frequent deployments and the risks associated with manual processes. However, while the content is rich in detail about automation, it does not explicitly focus on deployment frequency as a primary topic, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the category, as it explores how automation impacts software deployment, using real-world examples to show its benefits and risks. While it covers deployment frequency and its alignment with Agile and DevOps, the main emphasis is on automation rather than frequency itself, making the match strong but not perfect."
   },
   "Throughput": {
     "category": "Throughput",
@@ -117,7 +118,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the practical applications of automation in software development, particularly within the context of Agile and DevOps. It highlights real-world examples, such as the Knight Capital Group incident, to illustrate the risks of manual processes and the benefits of automation. The emphasis on building quality in and the importance of rapid deployment aligns well with pragmatic thinking principles. The depth of discussion on automation strategies and their impact on efficiency and risk management further supports a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how automation enhances software development, especially in Agile and DevOps settings. By referencing real incidents and focusing on practical benefits like improved quality and faster deployment, it clearly demonstrates pragmatic approaches to efficiency and risk reduction, making the classification highly appropriate."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -285,7 +287,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content primarily focuses on automation in software development, which is a crucial aspect of Continuous Delivery. It discusses automated deployments, the reduction of human error, and the importance of building quality into processes, all of which align with Continuous Delivery principles. However, while it touches on these themes, it does not explicitly frame the discussion within the broader context of Continuous Delivery practices or principles, which slightly lowers the confidence score. The depth of discussion is substantial, providing real-world examples and cautionary tales that illustrate the importance of automation in the delivery process.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Delivery category, as it highlights key aspects like automation, minimising manual errors, and embedding quality into workflows. While it doesn’t always directly reference Continuous Delivery principles, its focus and practical examples clearly align with the core goals and practices of the field."
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -324,7 +327,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses automation extensively, which is a key component of Continuous Integration (CI). It highlights the importance of automated testing and deployment, which are critical practices in CI. However, while it touches on CI principles, it does not explicitly define CI or delve deeply into its best practices or tools. The examples provided, such as Azure DevOps and Facebook's deployment strategies, illustrate CI concepts but do not focus solely on CI as a primary topic. Therefore, while there is a strong connection to CI, the content lacks a comprehensive exploration of the category, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content strongly relates to Continuous Integration by emphasising automation, testing, and deployment—core aspects of CI. However, it doesn’t provide an in-depth explanation of CI itself or thoroughly cover its best practices and tools. While relevant examples are included, the focus isn’t exclusively on CI, so the fit is good but not complete."
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -363,7 +367,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the importance of automation in software development, particularly focusing on automated testing and deployment. It highlights how automation can prevent issues that arise from manual processes, using specific examples like Knight Capital Group and CloudStrike to illustrate the consequences of inadequate automated testing. The discussion aligns well with key topics in the category, such as the role of automated testing in Agile and DevOps, the impact of automation on software quality, and the need for continuous integration practices. The depth of the discussion is significant, providing detailed examples and insights into how automation can enhance reliability and efficiency in software delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores automation in software development, especially automated testing and deployment. By referencing real-world examples and discussing best practices like continuous integration, it clearly demonstrates how automation improves software quality and reliability, making it highly relevant to the topic."
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -468,7 +473,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the role of automation in enhancing operational efficiency within software development, aligning closely with the core themes of operational practices. It discusses specific techniques such as automated deployments and the importance of consistency, which are key to optimising processes. The depth of discussion is substantial, providing real-world examples and cautionary tales that illustrate the consequences of neglecting automation. Overall, the content is highly relevant to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how automation improves operational efficiency in software development. By highlighting practical techniques like automated deployments and emphasising consistency, it addresses essential operational practices. The inclusion of real-world examples further reinforces its relevance and depth within this topic area."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -660,7 +666,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses automation in software development, highlighting its importance for seamless deployments and rapid iterations. While it touches on aspects related to frequent releases, such as automated deployments and the need for quick responses to user demands, it does not explicitly focus on the principles of frequent releases or provide in-depth strategies for implementing them. The primary emphasis is on automation rather than the broader context of frequent releases, which limits its alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores automation in software development, emphasising its role in streamlining deployments and enabling faster iterations. Although it mentions elements relevant to frequent releases, its core focus remains on automation rather than directly addressing the principles or strategies behind frequent releases, making it only partially aligned with that category."
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -729,7 +736,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of automation in software development, which aligns with technical mastery principles such as improving code quality and maintainability, and the role of DevOps in enhancing technical delivery. It provides specific examples of automated deployments and the consequences of neglecting automation, demonstrating a good depth of discussion. However, while it touches on relevant topics, it does not delve deeply into best practices or methodologies, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it explores how automation supports technical mastery in software development, highlighting benefits like improved code quality and maintainability. It uses clear examples to illustrate its points, though it could be strengthened by a deeper dive into best practices or methodologies. Overall, it effectively connects automation with technical delivery and DevOps principles."
   },
   "Transparency": {
     "category": "Transparency",
@@ -798,7 +806,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the role of automation in software development, highlighting its importance in enhancing efficiency, reducing errors, and ensuring quality. It directly addresses best practices in automated testing and deployment, which are core themes of engineering excellence. The depth of discussion is significant, providing detailed examples and case studies that illustrate the impact of automation on engineering processes. Overall, the content aligns well with the principles of software craftsmanship and continuous improvement in engineering practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how automation improves software development. By focusing on best practices in testing and deployment, and offering concrete examples, it clearly demonstrates key aspects of engineering excellence and continuous improvement. The detailed discussion supports its relevance to software craftsmanship and professional standards."
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -999,7 +1008,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content primarily focuses on the importance of automation in software development, which aligns closely with the Engineering Practices category. It discusses automated deployments, the reduction of human error through automation, and the necessity of building quality into processes, all of which are key aspects of Agile engineering practices. The depth of discussion is substantial, providing real-world examples and insights into the consequences of neglecting automation. However, while automation is a significant topic within engineering practices, the content does not explicitly cover other core themes such as TDD or CI/CD, which slightly lowers the overall confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Engineering Practices category, as it highlights how automation enhances software development by reducing errors and embedding quality into workflows. The discussion is practical and insightful, though it doesn’t delve into all core engineering themes like TDD or CI/CD, which slightly limits its scope within the category."
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1041,7 +1051,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses automation extensively, with specific references to Azure DevOps as an example of effective automation practices. However, while Azure DevOps is mentioned, the primary focus is on automation in general rather than a deep dive into Azure DevOps functionalities or best practices. The discussion includes relevant examples and anecdotes but lacks a comprehensive exploration of Azure DevOps services or methodologies, which limits the overall depth of the content in relation to the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on automation and uses Azure DevOps as an illustrative example, but its main emphasis is on automation concepts rather than a thorough examination of Azure DevOps itself. While relevant references are made, the discussion doesn’t delve deeply into Azure DevOps features or methodologies, so it only partially aligns with the category’s focus."
   },
   "Decision Theory": {
     "category": "Decision Theory",
@@ -1074,7 +1085,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses automation extensively, highlighting its role in enhancing responsiveness and reliability in software development. It aligns well with the principles of Agile and DevOps, particularly in terms of continuous deployment and feedback loops. The examples provided, such as the Knight Capital Group and Facebook's deployment strategies, illustrate the importance of automation in adapting to market demands and mitigating risks. However, while the content is rich in detail about automation, it does not explicitly focus on broader market adaptability strategies beyond the context of automation, which slightly limits its overall alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores automation’s impact on software development, especially within Agile and DevOps frameworks. By referencing real-world cases, it effectively demonstrates how automation boosts responsiveness and reliability. However, its focus is mainly on automation, with less emphasis on wider market adaptability strategies, which narrows its overall scope."
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1146,7 +1158,8 @@
     "non_ai_confidence": 30,
     "final_score": 78.0,
     "reasoning": "The content primarily focuses on automation within software development, which is a key aspect of the DevOps philosophy. It discusses the importance of automated deployments, consistency, and the necessity of building quality into processes, all of which align with DevOps principles. However, while it touches on these themes, it does not explicitly discuss broader DevOps concepts such as collaboration, shared accountability, or cultural shifts, which slightly limits its depth of discussion. Overall, the content is relevant to DevOps, but it is more focused on automation as a tool rather than the holistic DevOps philosophy.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to DevOps as it highlights automation in software development—a core DevOps practice. However, it mainly addresses technical aspects like deployment and process quality, without delving into broader DevOps themes such as team collaboration or cultural change. So, while it fits the category, its focus is narrower than the full scope of DevOps."
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1158,7 +1171,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses automation in software development, particularly focusing on automated testing and deployment, which are key aspects of Continuous Integration and Continuous Delivery (CI/CD) practices. It provides detailed examples, such as the Knight Capital Group incident and Facebook's deployment strategies, illustrating the importance of automation in ensuring code quality and reliability. The discussion aligns well with the principles of Technical Excellence, emphasising the need for high-quality engineering practices that enhance agility and responsiveness to changing requirements. The depth of the discussion is significant, as it covers both theoretical aspects and practical implications of automation in software development.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Technical Excellence category, as it thoroughly explores automation in software development, highlighting its role in CI/CD and code quality. By referencing real-world examples and best practices, it demonstrates how automation supports high engineering standards and adaptability, which are central to Technical Excellence."
   },
   "Lean": {
     "category": "Lean",
@@ -1179,7 +1193,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses automation in software development, particularly in the context of continuous integration and deployment, which aligns with value delivery principles. However, while it touches on the importance of automation for improving efficiency and reducing risks, it lacks a direct focus on customer value measurement or iterative delivery strategies. The examples provided illustrate the consequences of poor automation but do not delve deeply into methodologies for maximising customer value or aligning product development with customer needs.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category to some extent, as it highlights how automation supports efficient software delivery and risk reduction—key aspects of value delivery. However, it doesn’t directly address measuring customer value or iterative delivery methods, and it doesn’t explore how automation aligns with customer needs or maximises value from the user’s perspective."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1263,7 +1278,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses automation in the context of software development, particularly focusing on automated testing, deployment, and the importance of building quality into products. It aligns well with key topics under the Product Delivery category, such as CI/CD practices and the role of automation in enhancing delivery efficiency. The depth of discussion is significant, providing detailed examples and case studies that illustrate the impact of automation on product delivery. However, while it is highly relevant, the primary focus is on automation rather than the broader methodologies and practices of product delivery, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Product Delivery category, as it delves into automation within software development—covering automated testing, deployment, and quality assurance. While its main emphasis is on automation, these practices are central to efficient product delivery, making the classification appropriate, though the focus is somewhat narrower than the full scope of the category."
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1509,7 +1525,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses automation in software development, highlighting its role in improving efficiency and reducing errors, which indirectly relates to Time to Market. However, it does not explicitly mention Time to Market or its associated metrics. The discussion on rapid deployment and the importance of getting products to customers quickly aligns with the core themes of the category, but the depth of discussion primarily focuses on automation rather than a comprehensive exploration of Time to Market strategies or metrics.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores automation in software development, emphasising its benefits for efficiency and error reduction. While these points are relevant to Time to Market, the content doesn’t directly address Time to Market concepts or metrics. Its focus is more on automation than on strategies or measurements specifically aimed at accelerating product delivery to customers."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -1619,7 +1636,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content focuses significantly on the importance and benefits of automation in software development, which aligns with the 'Tool' category. However, while it discusses the impacts of automation and its necessity in different contexts, it lacks detailed mentions of specific tools or applications that facilitate this automation (like JIRA, Azure DevOps) and does not delve deeply into their integration or comparative analysis. The discussion about automated deployments and production is relevant, but it is somewhat generalized. Therefore, the confidence score reflects a good alignment with the 'Tool' category, but there is room for improvement in detailing specific tools and their functionalities.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content broadly addresses automation in software development, which suits the 'Tool' category. However, it remains quite general, lacking references to particular tools or in-depth discussion of their features and integration. While the topic is relevant, including more concrete examples or tool comparisons would strengthen its fit within this category."
   },
   "Values": {
     "resourceId": "tKEl0YVeWv4",

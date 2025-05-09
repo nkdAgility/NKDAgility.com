@@ -51,7 +51,8 @@
     "ai_penalty_details": "none",
     "final_score": 84.0,
     "reasoning": "The content addresses key challenges in fragmented engineering and stresses the need for unified, iteratively improved delivery systems—core to modern product development. It discusses the negative impact of siloed tooling on product delivery, emphasizing the need for practices that align with product development principles like platform engineering, DevOps, continuous improvement, risk mitigation, feedback loops, and engineering boundaries to enable flow and delivery. The description of Platform Engineering and One Engineering System demonstrates concrete alignment with the category, illustrating the intersection between strategy, discovery, continuous learning, and delivery. However, the primary frame is still slightly more technical/engineering practice-focused rather than a pure product development strategy discussion, which slightly lowers the 'Signal' and 'Mentions' scores. There are no outdated practices or critical/satirical tones to incur penalties. The content targets an audience interested in engineering and delivery systems—very relevant to product development practitioners and strategists. Examples such as the role of platform constraints and boundary-setting for Agile teams support product delivery improvement. The confidence score reflects substantial (but not absolute) alignment, depth, intentionality, and audience targeting for Product Development, with minor dilution due to operational/DevOps focus.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is highly relevant to Product Development, as it explores how unified engineering systems and platform practices can enhance delivery and collaboration. While it leans towards technical and operational aspects, it still addresses strategic themes like continuous improvement and feedback loops, making it valuable for both engineering and product development professionals. The focus is more practical than purely strategic, but overall alignment is strong."
   },
   "Technical Leadership": {
     "resourceId": "zLhc3UKUWOj",
@@ -69,7 +70,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content thoroughly explores the problems with fragmented automation and presents clear, actionable strategies for building unified delivery systems through Platform Engineering, DevOps, and One Engineering System (1ES). While 'Technical Leadership' is not mentioned by name, all principles—guiding teams with technical expertise, aligning technical outcomes with business needs, orchestrating the adoption of best practices, and clarifying agile self-management boundaries—are deeply embedded throughout. The content addresses leaders and practitioners responsible for engineering excellence, system consolidation, and fostering learning and feedback loops, which are key elements described in the classification. It dives deep into team autonomy within constraints, technical decision-making regarding tooling and process, and emphasizes the role of leadership in enabling consistency, security, and flow. Signal-to-noise remains high, with little extraneous commentary, and the audience is very well matched. No penalties are applied as the information is current and the tone is constructive.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly aligns with the 'Technical Leadership' category. It addresses leaders and practitioners, focusing on guiding teams, aligning technical and business goals, and driving best practices. The discussion of system unification, team autonomy, and leadership’s role in enabling consistency and learning clearly demonstrates the principles of effective technical leadership."
   },
   "Product Management": {
     "resourceId": "zLhc3UKUWOj",
@@ -123,7 +125,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "This content explicitly positions DevOps as the primary philosophical and practical framework for modern software delivery, directly referencing the term 'DevOps' multiple times and distinguishing its ethos from mere tooling or automation. The main themes — eliminating silos, enabling flow, amplifying feedback loops, fostering continuous learning, accountability, and culture change — align tightly with the category definition. The depth of discussion is significant: the author details common anti-patterns (disconnected automation, fragmented pipelines), then delves into platform engineering and One Engineering System (1ES) as extensions of DevOps principles, offering concrete examples and actionable strategies. The intent clearly centers on advancing DevOps understanding and implementation, using strong opinionated advocacy and guidance for practitioners and technical leaders. The audience — engineering leaders, platform teams, DevOps practitioners — precisely matches the category's target. Relevance is exceptionally high: nearly every section advances key DevOps concepts, with minimal tangential or off-topic content. No penalties are applicable; the content is up-to-date, not critical of DevOps itself, and corroborates its framing. The final confidence reflects strong direct and conceptual alignment, deep exploration, high signal ratio, and accurate audience targeting.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the DevOps category. It thoroughly explores DevOps principles, directly addresses common challenges, and provides actionable guidance for practitioners and leaders. The discussion is focused, relevant, and tailored to the intended audience, making it highly valuable for those seeking to deepen their understanding or improve their DevOps practices."
   },
   "Leadership": {
     "resourceId": "zLhc3UKUWOj",
@@ -159,7 +162,8 @@
     "ai_penalty_details": "none",
     "final_score": 98.0,
     "reasoning": "The content is heavily focused on diagnosing and remedying fragmented engineering practices, explicitly positioning itself as an argument for Engineering Excellence. The term 'engineering excellence' is directly mentioned more than once, and the piece frames optimal delivery systems, platform engineering, DevOps ethos, and the One Engineering System (1ES) as solutions for achieving engineering excellence. The thematic alignment is extremely strong, discussing foundational topics such as CI/CD, internal developer platforms, standardization, automated quality gates, reduction of technical debt, and metrics for delivery. The depth is notable; the discussion is not surface-level but intricately explores how disparate automations, tool fragmentation, and lack of visibility undermine not just delivery but engineering culture—backed by real-world practices like Azure Pipelines, IaC, guarded pipelines, and platform engineering strategies. The main purpose is clearly to educate and persuade an audience of technical leaders, senior engineers, or platform teams on how to promote best practices in software delivery (audience alignment is very high). The signal-to-noise ratio is excellent, with nearly every paragraph contributing directly to the theme, reinforced by tightly connected examples and prescriptive advice (e.g., 'one build system,' 'governed self-service'). No sections are satirical or critical of the core concept; if anything, the tone strongly champions the principles and best practices defined in the category scope. Content is up to date, reflecting modern engineering trends and Microsoft 1ES as best practice. No penalties are warranted—there is no outdated advice or opposition to the framing. Scores are differentiated by small decimal fractions to avoid ties; for example, audience alignment, while still high, is minutely less than depth/alignment since the discussion occasionally references organizational structures, though this is always directly connected to engineering practices. The computed confidence, 97.9, matches the intensity and relevance of the evidence.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Engineering Excellence category. It thoroughly explores best practices, modern tools, and cultural shifts needed for high-performing engineering teams. The discussion is detailed, practical, and directly targets technical leaders, making it highly relevant and educational for its intended audience."
   },
   "Hybrid Agile": {
     "resourceId": "zLhc3UKUWOj",
@@ -213,7 +217,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content directly references 'continuous delivery' (in text and linked tags), and deeply explores key principles: reliable delivery, the need for consistency, automation, pipeline standardization, fast feedback, and team enablement. It critiques fragmented delivery practices and strongly promotes unified systems (such as One Engineering System), citing tools and real-world DevOps strategies, all core to continuous delivery. Examples of poor and ideal automation, risks of siloed/manual releases, and detailed discussion of how 1ES and Platform Engineering align with continuous delivery demonstrate high conceptual alignment and depth. The piece targets an engineering and leadership audience responsible for software delivery, mapping closely to the expected category audience. It occasionally broadens to platform engineering and DevOps mindset, but always relates these back to enabling continuous delivery outcomes (flow, speed, safety, resilience). The overall focus remains strongly on how to deliver software continuously and safely at scale. There is minimal irrelevant content or filler. No deductions were warranted: the content is current, authoritative, constructive, and dedicated to the topic.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the continuous delivery category. It thoroughly covers essential principles, tools, and real-world strategies, always linking back to how they enable reliable, safe, and scalable software delivery. The discussion is focused, relevant, and tailored to engineering leaders, with minimal off-topic material, making it highly appropriate for this classification."
   },
   "Lean Thinking": {
     "resourceId": "zLhc3UKUWOj",
@@ -333,7 +338,8 @@
     "ai_penalty_details": "none",
     "final_score": 77.0,
     "reasoning": "Direct mentions of 'continuous improvement' are minimal; the content does not use the phrase explicitly, instead centering language on related DevOps concepts (e.g., continuous delivery, continuous learning, feedback, flow) and engineering excellence. The conceptual alignment is strong: the article argues that fragmented, tribal automation undermines team learning, safety, and quality, and positively advocates for building systems that provide clarity, consistency, and rapid feedback—all core to continuous improvement as defined. It thoroughly explores the consequences of anti-patterns (silos, fragmentation), and gives strategic recommendations (consolidating around platform engineering, standardizing processes) that foster incremental and sustainable advancement (alignment and depth scores are high). The purpose is strongly aligned: the piece seeks to inform and persuade engineering leaders and practitioners towards systems and mindsets conducive to ongoing process and quality enhancement. While not written in the language of pure Agile/Lean, the article references the philosophies' core values (learning, system constraints, flow), and the audience is technical but could span engineering management (thus, a slight demotion from perfect audience fit). The content is focused, practical, and avoids filler, but the explicit absence of direct reference to 'continuous improvement' and lack of canonical frameworks (PDCA, Kaizen, etc.) creates some signal dilution, slightly reducing the signal-to-noise and mentions scores. No penalty is applied as the content is current, positively framed, and does not contradict the category. The final confidence score reflects strong—but not maximal—evidence of the content fitting the 'Continuous Improvement' category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content aligns well with the 'Continuous Improvement' category, focusing on DevOps practices that foster ongoing learning, feedback, and quality enhancement. While it doesn’t use the term directly or reference classic frameworks, its emphasis on breaking down silos and promoting standardisation clearly supports continuous improvement principles, making it a strong, though not perfect, fit for the category."
   },
   "Test Automation": {
     "resourceId": "zLhc3UKUWOj",
@@ -387,7 +393,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content's primary focus is on dismantling fragmented automation in favor of systematized, platform-driven delivery via One Engineering System (1ES) and DevOps principles. It describes pitfalls of disconnected build/test/deploy processes and highlights unified tooling such as Azure Pipelines. CI concepts are present, particularly in discussions around automation, unified pipelines, removing manual gates, and promoting consistency. Azure Pipelines and concepts like 'one build system', 'one deployment path', and automated testing are explicitly discussed—these are core CI topics. However, there is only indirect, infrequent explicit reference to 'Continuous Integration' (the phrase does not appear), and much discussion centers on broader DevOps, platform engineering, and delivery strategy. The conceptual alignment is strong, but depth specifically about CI (principles, best practices, implementations, testing strategy within CI, case studies of CI) is moderate: the focus is more holistic. The audience is technical, targeting technical leads and practitioners, matching the category, but there is some broadening toward platform engineering strategy and organizational alignment. The signal is solid, with limited off-topic discussion or filler, but the strongest material pertains to system unification and developer experience through platforms—not solely CI. No penalties are applied as the material is current, neutral-to-advocative, and adheres to category framing. Overall, the confidence is above average but not maximal, as CI is a substantiated sub-theme rather than the main/sole subject.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content aligns well with the category, as it explores key Continuous Integration (CI) concepts like automation, unified pipelines, and Azure Pipelines. However, its main emphasis is on broader DevOps and platform engineering strategies, with CI being a significant but not exclusive focus. The technical depth and audience fit are strong, though the discussion extends beyond CI to encompass overall system unification and delivery practices."
   },
   "System Configuration": {
     "resourceId": "zLhc3UKUWOj",
@@ -405,7 +412,8 @@
     "ai_penalty_details": "none",
     "final_score": 78.0,
     "reasoning": "The content centers around system coherence, particularly with the integration of automation tools, platform engineering, DevOps practices, and standardization—closely aligning with system configuration concepts, especially in relation to setup, maintenance, and best practices. Direct mentions of 'system configuration' or the term are minimal, as the discussion focuses more on broader delivery systems and platform engineering; hence, a below-median score for mentions. The main ideas—unifying pipelines, controlling tooling sprawl, applying governance, and adopting practices like Infrastructure as Code, templates, and compliance automation—fit well with the core meaning of system configuration. There is substantial discussion on techniques, trade-offs, audience needs (engineers, DevOps, platform builders), and operational practices, but the depth doesn’t dive into low-level configuration management (like specific automation tools or config scripts), so the depth score is strong though not perfect. The intent is highly relevant: to encourage adoption of standardized, manageable, and secure delivery systems—a key aspect of system configuration. The audience is technical practitioners (devs, DevOps, platform engineers), matching the category's target. The signal score is slightly lower as some content strays toward process philosophy, Agile, and engineering culture, but remains mostly on-topic. No penalties apply since the content is current and frames system configuration and integration positively, without irony or outdated references.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the system configuration category, as it discusses unifying delivery pipelines, standardising tooling, and applying governance—all central to system configuration. While it doesn’t delve into low-level technical details, its focus on best practices and operational strategies makes it highly relevant for technical practitioners in this space."
   },
   "Self Organisation": {
     "resourceId": "zLhc3UKUWOj",
@@ -477,7 +485,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content focuses on the necessity for connected, standardized, and observable systems in engineering, with heavy emphasis on DevOps and Platform Engineering principles. Though the term 'competence' is not directly and frequently mentioned, the core themes are tightly aligned: the importance of building reliable delivery processes, enabling continuous learning/feedback, and fostering engineering excellence through well-defined practices and automation. It extensively contrasts chaos/fragmentation with systematic approaches that empower skill and quality outcomes — all foundational to competence in Agile/DevOps. The depth is notable in its prescription of practices (Platform Engineering, 1ES, CI/CD, standardization) that foster real team capability and progress. Intent is highly aligned: the message guides the reader toward elevating delivery ability and professional standards. The target audience is engineering orgs, practitioners, and tech leads, which match the category's audience. While content briefly references Scrum/Agile, it's clearly centered on delivery excellence — not team dynamics or generic process/tool comparisons. Some language focuses more on systems and flow than individuals' skill building, slightly lowering depth and signal-to-noise scores, but nearly all content is relevant. No penalties apply; the tone is constructive and current. The overall confidence reflects significant but not maximal fit: explicit competence references are rare, but alignment, depth, and intent are strong.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content strongly fits the category, as it centres on building engineering competence through standardisation, automation, and best practices in DevOps and Platform Engineering. While it doesn’t frequently mention 'competence' directly, its focus on delivery excellence, continuous improvement, and professional standards makes it highly relevant for engineering teams aiming to enhance their capabilities."
   },
   "Scaling": {
     "resourceId": "zLhc3UKUWOj",
@@ -549,7 +558,8 @@
     "ai_penalty_details": "none",
     "final_score": 85.0,
     "reasoning": "This article is strongly aligned with the Flow Efficiency category. It repeatedly references the importance of seamless work throughput, the dangers of fragmented toolchains, and how platform engineering and unified delivery systems like One Engineering System (1ES) help create clarity and enable teams to move quickly and safely. The theme of 'optimising for flow' is explicitly stated at the outset and conclusion. There is a deep discussion of related Lean/Agile principles, reduction of handoffs, elimination of bottlenecks (fragmentation, inconsistent pipelines), and leveraging tools (Azure Pipelines, Platform Engineering) to create a system that fuels continuous delivery. The mention of DevOps is appropriately framed around feedback, flow, and learning, all directly adjacent to flow efficiency. The article also discusses the effect on cognitive load and delivery speed, which are key impacts of flow efficiency. Direct references to 'flow' are present but not excessive, keeping the mentions dimension in an upper-mid range. The discussion is mainly at the practitioner and engineering leadership level (matching the audience). There is little off-topic filler; nearly all content returns to the theme of system-thinking, standardisation, and optimising throughput. Overall, the depth is strong, with actionable detail (examples of bad practice, prescriptions, tool choices), but it does not go so far as to present empirical metrics (e.g., cycle time stats) or deeply detailed case studies, which modestly limits perfect scores. There are no signals of outdated practices or negative tone toward the Flow Efficiency philosophy, so no penalties apply. The final confidence reflects the high, but not absolute, strength of thematic fit, depth, and focus.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This article is a strong fit for the Flow Efficiency category. It consistently focuses on improving work throughput, reducing fragmentation, and leveraging unified systems to streamline delivery. The discussion is practical and relevant for engineering leaders, with clear links to Lean/Agile principles and actionable advice, though it stops short of providing detailed metrics or case studies. Overall, the content is highly relevant and well-aligned with the category."
   },
   "Operational Practices": {
     "resourceId": "zLhc3UKUWOj",
@@ -567,7 +577,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content deeply and explicitly addresses operational efficiency at both conceptual and practical levels, directly referencing techniques like platform engineering, DevOps principles, standardisation, and process consolidation, all of which are at the core of Operational Practices. Numerous operational methodologies (e.g., DevOps, One Engineering System, Platform Engineering, CI/CD, Internal Developer Platforms) are not only mentioned but also thoroughly discussed with consideration for their implementation and impact on workflow, automation, and scaling. The focus is on real-world process improvements and strategies to eliminate inefficiencies (see: 'Consolidate. Standardise. Enable.' section), and it discusses best practices such as common deployments, unified toolchains, automated testing, compliance, and cognitive load reduction. Although the content is passionate and sometimes opinionated, it always orients toward practical, actionable recommendations directly relevant to operations-focused practitioners (the intended audience for this category). There is very little off-topic content; most paragraphs reinforce the operational improvement message, yielding a high signal-to-noise ratio. Since there is no reference to outdated practices or contradictions to core operational principles and no satirical/critical tone against operational excellence, no penalties are applied. The score reflects extremely high alignment, conceptual depth, clarity, and intent, and the confidence properly weights these dimensions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Operational Practices category. It thoroughly explores key operational strategies like DevOps, platform engineering, and process standardisation, offering practical advice and real-world examples. The focus remains on actionable improvements and best practices, making it highly relevant and valuable for operations professionals. The discussion is clear, in-depth, and consistently aligned with operational excellence."
   },
   "Deployment Frequency": {
     "resourceId": "zLhc3UKUWOj",
@@ -621,7 +632,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content deeply explores the move from fragmented engineering practices to unified systems by adopting DevOps and platform engineering, which aligns strongly with Social Technologies principles. It directly discusses themes like collaboration, team autonomy within engineered constraints, and the use of shared systems to optimise value delivery—central to the category definition. DevOps is framed as more than tooling; it's presented as a social methodology promoting feedback, flow, and learning, supporting the classification. Platform engineering and One Engineering System (1ES) are discussed as organisational strategies that encapsulate self-organisation, transparency, and adaptive, continuous improvement—all characteristics of Social Technologies. There are explicit examples of how internal developer platforms foster collective intelligence and emergent problem-solving. While the text references category-aligned frameworks and terms (DevOps, self-management, platform engineering), explicit mention of 'social technologies' as a phrase is lower, but the conceptual fit is extremely high. The intended audience (engineering leaders, DevOps practitioners, platform engineers, and team leads) matches the Social Technologies audience. The signal-to-noise ratio is excellent, with nearly all content tightly focused on systemising collaboration and organisational agility. No penalties were applied as the material is current, constructive, and thoroughly engages with modern best practices in Agile, DevOps, and social frameworks. Small variations in dimension scores reflect the slightly lower frequency of explicit category mentions versus the depth and alignment.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Social Technologies category, as it thoroughly examines how DevOps and platform engineering foster collaboration, team autonomy, and continuous improvement. It highlights the shift towards unified systems and collective intelligence, directly addressing the core principles of Social Technologies, even if the term itself is used sparingly. The focus and relevance for the target audience are clear and well-aligned."
   },
   "Forecasting": {
     "resourceId": "zLhc3UKUWOj",
@@ -657,7 +669,8 @@
     "ai_penalty_details": "none",
     "final_score": 89.0,
     "reasoning": "The content strongly aligns with the category of Transparency in Agile/DevOps environments, albeit through implicit discussion rather than repeated, direct mentions of the word 'transparency.' The text focuses on the risks of fragmented, opaque delivery pipelines and the resulting chaos and lack of visibility, criticising 'black-box' practices and advocating for systems that are 'observable,' 'changeable,' and empower teams 'through clarity, not confusion.' These attributes are core aspects of transparency as defined by the classification. The article champions the creation of unified systems (like 1ES and platform engineering) that enable visibility, consistency, and shared understanding—a fundamental requirement for transparency in Agile teams. Arguments about removing silos, increasing visibility, and surfacing issues early further strengthen the conceptual alignment and depth scores. The primary audience consists of practitioners and technical leads working in Agile/DevOps environments, aligning well with the target audience for transparency topics. The intent is practical and supportive, offering concrete strategies to increase visibility and reduce opaqueness. Minimal space is wasted on tangential topics, keeping the signal-to-noise ratio high. The only modest weakness is that 'transparency' is not always directly referred to by name; concepts like visibility, observability, shared understanding, and the avoidance of 'black-box' practices are substituted instead, explaining the slightly lower direct mention score. No penalties are necessary, as the content is current, constructive, and completely in keeping with the spirit of Transparency in Agile/DevOps.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Transparency category in Agile/DevOps. It highlights the dangers of hidden processes and promotes clarity, visibility, and shared understanding—core aspects of transparency. While it doesn’t always use the term directly, its focus on openness, observability, and breaking down silos makes it highly relevant for practitioners aiming to foster transparent practices."
   },
   "Mentoring": {
     "resourceId": "zLhc3UKUWOj",
@@ -801,7 +814,8 @@
     "ai_penalty_details": "none",
     "final_score": 98.0,
     "reasoning": "The content extensively embodies Pragmatic Thinking, focusing on actionable strategies to solve fragmentation in DevOps and Agile environments. Direct mentions of 'platform engineering,' 'DevOps,' 'One Engineering System (1ES),' and references to real-world DevOps tools (Azure Pipelines, TeamCity, Octopus Deploy) ground the discussion in practical application. The explicit critique of common pitfalls (manual processes, tribal knowledge, tool silos) and the prescriptive guidance on building unified systems provide exceptional conceptual alignment. Depth is high: the discussion explores not only what to do ('Consolidate. Standardise. Enable.') but why fragmented automation fails and how to empower teams within engineered constraints. The intent is clearly to inform and guide practitioners towards effective, scalable, and pragmatic engineering practices—targeting technical audiences making real-world decisions. Very little content is tangential or filler, with the majority directly addressing the challenges and solutions at the heart of pragmatic thinking. No penalties were warranted as the discussion references modern practices (e.g., platform engineering, IDPs, Microsoft's 1ES) and maintains a constructive, non-critical tone. The confidence score is just below the absolute maximum, reflecting rare depth, actionable advice, and alignment with both the spirit and key topics of the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Pragmatic Thinking category, as it offers actionable advice and real-world examples focused on solving fragmentation in DevOps and Agile settings. It directly addresses common challenges, provides practical solutions, and is tailored for technical professionals seeking effective, scalable practices. The discussion is highly relevant, insightful, and avoids unnecessary tangents."
   },
   "Technical Mastery": {
     "resourceId": "zLhc3UKUWOj",
@@ -819,7 +833,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content is a direct, in-depth critique of poor technical practices (siloed, fragmented automation) and passionately advocates for engineering excellence through unified systems, platform engineering, and DevOps. It repeatedly references core Technical Mastery themes such as consistent, observable, and resilient systems; best practices in CI/CD; the dangers of technical debt; and the ethos of software craftsmanship. Explicit terminology ('engineering excellence', 'DevOps', 'platform engineering', 'one engineering system') is referenced frequently and meaningfully, justifying a very high Direct Mentions score. The entire thrust of the article is to showcase what technical mastery looks like in modern software teams—and what happens when these principles are ignored—representing near-perfect Conceptual Alignment and Depth. The writing is directed at practitioners and engineering leaders (not business or generic audiences), and every section stays tightly focused on the improvement of engineering systems, not on unrelated project management or business agility. There is no notable outdated content, tone remains earnest and constructive, and no dimension warrants penalization. The scores are differentiated with small variations (e.g., depth vs. mentions vs. intent) to avoid scoring ties. The weighted computation produces an overall confidence rating that reflects a strong, well-evidenced fit for the 'Technical Mastery' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Technical Mastery' category. It thoroughly critiques poor engineering practices and strongly promotes unified, resilient systems, referencing key concepts like DevOps and platform engineering. The focus is clearly on technical excellence, with language and examples tailored to engineering professionals, making its alignment with the category both direct and comprehensive."
   },
   "Team Motivation": {
     "resourceId": "zLhc3UKUWOj",
@@ -921,7 +936,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of continuous learning within the context of DevOps, emphasising feedback loops, flow, and learning as essential components of the development process. It aligns well with the principles of Continuous Learning by highlighting the need for a unified system that fosters knowledge sharing and adaptability. The depth of discussion on how to improve team performance through structured systems and practices further supports its relevance to the category. However, while it touches on key aspects of Continuous Learning, it primarily focuses on the technical implementation of systems rather than broader discussions on growth mindset or cultural aspects, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Continuous Learning category, as it explores how feedback loops and structured systems in DevOps support ongoing knowledge sharing and adaptability. While it mainly addresses technical practices rather than broader cultural or mindset topics, its focus on improving team performance through learning processes makes it relevant to the category."
   },
   "Customer Satisfaction": {
     "category": "Customer Satisfaction",
@@ -981,7 +997,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of a cohesive delivery system and the role of DevOps and Platform Engineering in enabling continuous delivery. It highlights the need for consistent automation and feedback loops, which are essential for frequent releases. The depth of discussion on how to achieve a streamlined process and the emphasis on reducing friction aligns well with the principles of frequent releases. However, while it touches on the topic, it does not explicitly focus on release frequency metrics or case studies, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category, as it explores how DevOps and Platform Engineering support continuous delivery through automation and feedback, both crucial for frequent releases. While it doesn’t delve into specific release metrics or examples, its focus on streamlining processes and reducing friction aligns well with the core principles of frequent releases."
   },
   "Metrics and Learning": {
     "category": "Metrics and Learning",
@@ -993,7 +1010,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of feedback loops, flow, and continuous learning within the context of DevOps, which aligns well with the core themes of the 'Metrics and Learning' category. It explicitly mentions the need for amplifying feedback loops and fostering learning, which are key aspects of evidence-based decision-making. The depth of discussion is substantial, as it elaborates on the implications of fragmentation in automation and the necessity of a unified engineering system to enhance performance and learning. However, while it touches on metrics indirectly, it does not delve deeply into specific techniques for collecting and analysing performance data, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Metrics and Learning' category, as it explores feedback loops, flow, and continuous learning—central themes for this area. While it doesn’t go into detail about specific metrics or data analysis methods, its focus on fostering learning and improving systems through feedback aligns well with the category’s intent."
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -1029,7 +1047,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the importance of cohesive systems and processes in enhancing team performance, particularly through the lens of DevOps and Platform Engineering. It directly addresses how fragmentation and disconnection in automation can hinder a team's ability to deliver effectively, which aligns well with the core themes of team performance. The depth of discussion is substantial, covering various aspects of how structured systems can improve delivery capability and reduce cognitive load for teams. However, while it focuses on team dynamics and systemic constraints, it does not delve deeply into specific delivery metrics or long-term performance trends, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the team performance category, as it explores how unified systems and processes—especially in DevOps and Platform Engineering—can boost team effectiveness. It highlights the impact of fragmented automation on delivery, focusing on team dynamics and systemic challenges, though it doesn’t deeply analyse specific performance metrics or long-term trends."
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1041,7 +1060,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of cohesive systems in software delivery, touching on concepts like DevOps, automation, and platform engineering, which are relevant to Application Lifecycle Management. It highlights the need for a unified approach to development and deployment, aligning with the lifecycle stages of conception, development, and deployment. However, while it mentions governance and compliance, it lacks detailed exploration of metrics, KPIs, and change management processes, which are crucial for a comprehensive understanding of ALM.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Application Lifecycle Management category, as it covers key aspects like DevOps, automation, and platform engineering, all of which are central to managing software from conception to deployment. However, it doesn’t delve deeply into metrics, KPIs, or change management, so it offers a broad overview rather than a detailed ALM analysis."
   },
   "Agnostic Agile": {
     "category": "Agnostic Agile",
@@ -1107,7 +1127,8 @@
     "non_ai_confidence": 20,
     "final_score": 85.0,
     "reasoning": "The content extensively discusses Azure DevOps, particularly focusing on Azure Pipelines and its role in creating a unified engineering system. It aligns well with the core themes of Azure DevOps, such as CI/CD, team collaboration, and the importance of a cohesive toolchain. The depth of discussion is significant, providing insights into how Azure DevOps tools can be leveraged to improve delivery processes. However, while it mentions Azure DevOps tools, the broader context of DevOps principles and platform engineering slightly dilutes the primary focus on Azure DevOps itself.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Azure DevOps category, as it delves deeply into Azure Pipelines and highlights how Azure DevOps tools enhance engineering workflows. While it touches on broader DevOps concepts, the main emphasis remains on Azure DevOps features and their practical impact, making it highly relevant to the category."
   },
   "Hypothesis Driven Development": {
     "category": "Hypothesis Driven Development",
@@ -1143,7 +1164,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of creating a unified engineering system that empowers teams, which aligns with the concept of agency in Agile practices. It highlights the need for autonomy within defined constraints, reflecting the balance between self-management and accountability. The mention of self-management and the role of Platform Engineering in enabling teams to operate effectively indicates a strong connection to agentic agility. However, while the content touches on these themes, it primarily focuses on technical strategies and tooling rather than deeply exploring the philosophical underpinnings of agency, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it explores how unified engineering systems and platform engineering can enhance team autonomy and self-management—key aspects of agentic agility. While it effectively connects technical strategies to these themes, it leans more towards practical implementation than a deep dive into the philosophy of agency."
   },
   "Lean Startup": {
     "category": "Lean Startup",
@@ -1299,7 +1321,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of systems thinking in the context of DevOps and Platform Engineering, highlighting how fragmented systems can lead to dysfunction within organisations. It explicitly mentions the need for a unified approach to engineering systems, which aligns with the principles of organisational dynamics and systems thinking. The depth of discussion on feedback loops, flow, and the role of structured systems in enabling team autonomy further supports its relevance to the category. However, while it touches on organisational behaviour, the primary focus is more on technical processes than on broader organisational dynamics, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it explores how systems thinking applies to DevOps and Platform Engineering, emphasising the impact of unified systems on organisational effectiveness. While it mainly addresses technical processes, it also considers how these influence team autonomy and organisational behaviour, making it relevant—though the technical focus slightly tempers its alignment with broader organisational dynamics."
   },
   "Systems Thinking": {
     "category": "Systems Thinking",
@@ -1335,7 +1358,8 @@
     "non_ai_confidence": 20,
     "final_score": 85.0,
     "reasoning": "The content discusses Azure Pipelines explicitly multiple times, highlighting its role in creating a unified delivery system and its capabilities in CI/CD. It aligns well with the core themes of Azure Pipelines, such as automation, integration, and deployment strategies. The depth of discussion is substantial, covering the importance of standardisation and the implications of using Azure Pipelines within a broader platform engineering context. Overall, the content is focused on Azure Pipelines and its significance in optimising delivery processes.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Azure Pipelines category, as it centres on how Azure Pipelines streamlines delivery through automation and integration. It explores key aspects like CI/CD, standardisation, and platform engineering, making it highly relevant for anyone interested in optimising deployment workflows with Azure Pipelines."
   },
   "Market Share": {
     "category": "Market Share",
@@ -1407,7 +1431,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses Internal Developer Platforms (IDPs) as a key component of Platform Engineering, detailing their role in streamlining development processes and enhancing developer experiences. It provides a thorough exploration of how IDPs can reduce cognitive load, automate security checks, and unify tools for better collaboration. The depth of discussion is significant, covering the architecture and benefits of IDPs, while also aligning closely with the core themes of the category. The content does not stray into unrelated topics, maintaining a strong focus on IDPs throughout.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on Internal Developer Platforms within Platform Engineering. It thoroughly explores how IDPs improve development workflows, reduce complexity, and foster collaboration, all of which are core to the category. The discussion remains focused and relevant, offering detailed insights without diverging into unrelated areas."
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1455,7 +1480,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of creating a unified engineering system and the role of Platform Engineering in achieving alignment and flow within teams. It highlights the need for consistency and shared objectives to enhance delivery and reduce fragmentation, which aligns with the principles of Common Goals in Agile and DevOps. However, while it touches on these themes, the primary focus is more on the technical aspects of engineering systems rather than explicitly discussing Common Goals as a foundational principle. Therefore, the confidence score reflects a strong but not complete alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the Common Goals category, as it emphasises the value of shared objectives and team alignment within engineering practices. While it mainly explores technical strategies for unifying systems, the underlying message supports the importance of collective direction and collaboration, which are central to Common Goals—even if not addressed as the main theme."
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1545,7 +1571,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of cohesive systems and DevOps practices in enhancing delivery speed and quality, which aligns well with the principles of market adaptability. It explicitly mentions the need for feedback loops, flow, and learning, all of which are crucial for responding to market changes. The depth of discussion on Platform Engineering and the One Engineering System (1ES) provides a comprehensive view of how to implement these strategies effectively. However, while it touches on adaptability, it does not delve deeply into specific case studies or broader strategies beyond the technical aspects, which slightly limits its overall alignment with the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the category as it highlights how cohesive systems and DevOps practices support market adaptability, focusing on feedback, flow, and learning. While it offers strong technical insights into Platform Engineering and 1ES, it could be strengthened by including broader strategies or real-world examples to fully capture the scope of market adaptability."
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1605,7 +1632,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of cohesive systems and practices in engineering, which aligns with the principles of Enterprise Agility. It highlights the need for a unified approach to DevOps and platform engineering, emphasising the role of organisational structures and strategies in fostering agility. The mention of self-management within defined constraints reflects an understanding of how agility can be implemented at an organisational level. However, while it touches on key themes, the primary focus is on technical practices rather than broader organisational agility, which slightly limits its alignment.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to Enterprise Agility as it explores how unified systems and practices, like DevOps and platform engineering, support agile ways of working. It also considers organisational structures and self-management. However, its main emphasis is on technical methods rather than the wider organisational transformation, so it only partially fits the category."
   },
   "Estimation": {
     "category": "Estimation",
@@ -1653,7 +1681,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of cohesive systems and practices that enhance delivery and responsiveness, aligning well with the principles of organisational agility. It highlights the need for a unified approach to engineering and DevOps, which fosters adaptability and continuous improvement. The mention of self-management within defined constraints reflects an understanding of agile principles. However, while it touches on agility, the primary focus is on technical practices and tooling rather than broader organisational strategies, which slightly limits its depth in the context of organisational agility.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to organisational agility as it explores how unified engineering and DevOps practices can boost adaptability and continuous improvement. While it demonstrates an understanding of agile principles, its main emphasis is on technical methods and tools, rather than wider organisational strategies, which means it only partially addresses the full scope of organisational agility."
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1665,7 +1694,8 @@
     "non_ai_confidence": 30,
     "final_score": 92.0,
     "reasoning": "The content explicitly discusses the One Engineering System (1ES) as a framework for improving software delivery and integration across teams. It provides a detailed exploration of how 1ES can be implemented through Platform Engineering, highlighting its principles, benefits, and the importance of standardisation in engineering practices. The discussion aligns closely with the core themes of the category, including the integration of tools and processes, best practices for implementation, and the impact on software quality and delivery timelines. The depth of the content is significant, offering concrete examples and a clear argument for the necessity of a unified engineering system, which supports a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores the One Engineering System (1ES) and its role in enhancing software delivery through Platform Engineering. It covers key principles, benefits, and the value of standardisation, offering practical examples and insights that align well with the category’s focus on integration, best practices, and improved software outcomes."
   },
   "Experimentation": {
     "category": "Experimentation",
@@ -1713,7 +1743,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of cohesive engineering practices, particularly in the context of DevOps and Platform Engineering. It highlights how fragmentation in automation can lead to chaos and inefficiency, which directly ties into the principles of Technical Excellence. The discussion on creating a unified engineering system (1ES) and the emphasis on consistency, feedback loops, and enabling flow aligns well with the core themes of the category. The depth of the content is significant, providing detailed insights into how these practices can improve software delivery and quality, thus supporting a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Technical Excellence category, as it explores how unified engineering practices and consistent automation enhance software quality and delivery. By addressing the risks of fragmented systems and emphasising feedback and flow, it clearly aligns with the core principles of technical excellence in engineering."
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1737,7 +1768,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of cohesive systems in product delivery, particularly through the lens of DevOps and Platform Engineering. It highlights the detrimental effects of fragmentation on delivery speed and quality, aligning closely with the core themes of product delivery methodologies. The depth of discussion on feedback loops, continuous delivery, and the role of cross-functional teams further supports its relevance to the category. Overall, the content is highly focused on improving product delivery processes, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how integrated systems and practices like DevOps and Platform Engineering enhance product delivery. By addressing issues such as fragmentation, feedback loops, and the value of cross-functional teams, it clearly aligns with key product delivery methodologies and demonstrates a deep understanding of process improvement."
   },
   "Software Development": {
     "category": "Software Development",
@@ -1749,7 +1781,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses concepts central to software development, particularly focusing on DevOps, platform engineering, and the importance of cohesive systems in the software delivery process. It directly mentions practices like CI/CD, the significance of feedback loops, and the need for standardisation in deployment processes, which are all key topics in software development. The depth of discussion is substantial, providing detailed insights into how to improve software delivery and engineering practices, thus aligning well with the category's core themes.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the software development category, as it delves into essential topics like DevOps, platform engineering, and software delivery optimisation. By addressing practices such as CI/CD and the value of feedback loops, it demonstrates a clear focus on improving engineering workflows, which are central to this field."
   },
   "Acceptance Test Driven Development": {
     "category": "Acceptance Test Driven Development",
@@ -1845,7 +1878,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of reducing fragmentation in delivery systems, which directly relates to improving Time to Market. It highlights how disconnected automation and inconsistent processes can slow down delivery, thus impacting the speed at which value is delivered to customers. The mention of Platform Engineering and One Engineering System (1ES) as strategies to enhance developer experiences and streamline operations aligns well with the core themes of Time to Market. However, while the content provides substantial insights into the challenges and strategies for improving delivery speed, it does not delve deeply into specific metrics or case studies related to Time to Market, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Time to Market category, as it explores how reducing fragmentation and improving automation can accelerate delivery. It also references strategies like Platform Engineering and 1ES to streamline processes. However, it lacks detailed metrics or case studies, so while relevant, it could be more comprehensive in demonstrating direct impact on Time to Market."
   },
   "Agile Transformation": {
     "category": "Agile Transformation",
@@ -1869,7 +1903,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of cohesive systems in software delivery, highlighting the interplay between technology (e.g., automation tools, DevOps practices) and organisational structures (e.g., team dynamics, self-management within defined constraints). It addresses how fragmentation can hinder performance and emphasises the need for a unified approach to engineering systems, which aligns well with sociotechnical principles. The depth of discussion on the implications of these systems for team effectiveness and delivery speed further supports a strong alignment with the category, though it does focus more on technical aspects than on the social dimensions.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the sociotechnical category, as it explores how technology and organisational structures interact in software delivery. By examining the impact of system cohesion and fragmentation on team performance, it highlights key sociotechnical principles, even though it leans slightly more towards technical aspects than social ones."
   },
   "Troubleshooting": {
     "category": "Troubleshooting",
@@ -1893,7 +1928,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of cohesive systems and strategies in engineering, particularly through the lens of DevOps and Platform Engineering. It highlights how fragmented automation can hinder delivery and emphasizes the need for a unified approach to enhance operational efficiency and agility. The mention of concepts like 'One Engineering System (1ES)' and the focus on improving developer experiences align well with digital transformation themes. However, while it touches on digital tools and methodologies, it lacks explicit case studies or metrics for measuring success, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it explores how unified engineering systems and strategies, such as DevOps and Platform Engineering, drive digital transformation. It effectively addresses the challenges of fragmented automation and the benefits of cohesive approaches for operational efficiency. While it aligns with digital transformation themes, it could be strengthened with concrete examples or measurable outcomes."
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -1929,7 +1965,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of cohesive automation and delivery systems, which aligns with release management principles. It highlights the need for consistent deployment processes, risk management, and the role of DevOps in facilitating continuous delivery. The mention of tools like Azure Pipelines and the concept of One Engineering System (1ES) further supports the focus on effective release management strategies. However, while it touches on key aspects, it does not delve deeply into specific release planning or scheduling practices, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the release management category, as it explores how automation, delivery systems, and DevOps practices contribute to reliable deployments and risk control. References to tools and frameworks like Azure Pipelines and 1ES reinforce its relevance, though it doesn’t go into detail about release planning or scheduling, making its coverage broad but not deeply specialised."
   },
   "Deployment Strategies": {
     "category": "Deployment Strategies",
@@ -1941,7 +1978,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of a cohesive deployment strategy through the lens of Platform Engineering and One Engineering System (1ES). It highlights the risks of fragmentation in deployment processes and advocates for standardisation and automation, which aligns with key topics in deployment strategies. However, while it touches on relevant concepts like continuous delivery and infrastructure as code, it does not delve deeply into specific methodologies such as blue-green deployments or canary releases, which slightly limits the depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is well-suited to the deployment strategies category, as it explores the value of unified deployment processes and the role of standardisation and automation. While it references important concepts like continuous delivery, it doesn’t go into detail on specific deployment techniques, making its coverage broad but not deeply technical."
   },
   "Professional Scrum": {
     "category": "Professional Scrum",
@@ -1965,7 +2003,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the importance of cohesive systems in delivering value through DevOps and Platform Engineering. It discusses the negative impacts of fragmentation on delivery speed and quality, aligning well with the principles of iterative development and continuous delivery. The depth of discussion on strategies for improving developer experiences and enabling flow indicates a strong alignment with value delivery practices. However, while it mentions value delivery concepts, it does not delve deeply into specific methodologies or metrics for measuring customer value, which slightly lowers the overall confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category as it highlights how cohesive systems in DevOps and Platform Engineering enhance value delivery by reducing fragmentation and improving developer experience. While it effectively addresses strategies for enabling flow and continuous delivery, it doesn’t explore detailed methodologies or metrics for measuring customer value, which limits its depth in that area."
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -2049,7 +2088,8 @@
     "non_ai_confidence": 20,
     "final_score": 92.0,
     "reasoning": "The content explicitly discusses Platform Engineering as a strategy and its role in creating Internal Developer Platforms (IDPs). It aligns closely with the core themes of enhancing developer productivity, automation in the application lifecycle, and the integration of DevOps practices. The depth of discussion is substantial, providing detailed insights into how Platform Engineering can improve developer experiences and streamline operations. The content also addresses the importance of standardisation and self-service capabilities, which are key aspects of Platform Engineering. Overall, the content is highly relevant and focused on the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores Platform Engineering, focusing on strategies like Internal Developer Platforms and their impact on developer productivity. It covers essential themes such as automation, DevOps integration, standardisation, and self-service, all of which are central to Platform Engineering, making the discussion highly relevant and insightful for this topic."
   },
   "Technical Debt": {
     "category": "Technical Debt",
@@ -2109,7 +2149,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the importance of cohesive engineering practices, particularly in the context of DevOps and Platform Engineering. It highlights the need for consistent automation strategies, the dangers of fragmentation, and the principles of continuous delivery, which align closely with the core themes of Engineering Practices. The depth of discussion on creating a unified engineering system (1ES) and the emphasis on feedback, flow, and learning further supports its relevance to the category. However, while it touches on automation and CI/CD, it does not delve deeply into specific methodologies like TDD or clean code principles, which slightly lowers the overall confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Engineering Practices category, as it explores key themes like unified engineering systems, automation, and continuous delivery. While it doesn’t go into detail on specific methodologies such as TDD or clean code, its focus on cohesive processes and the importance of feedback and learning clearly aligns with the core principles of engineering best practices."
   },
   "Cell Structure Design": {
     "category": "Cell Structure Design",
@@ -2134,7 +2175,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content thoroughly discusses principles related to DevOps and Platform Engineering, focusing on actionable guidance such as enabling feedback, flow, and continuous learning. It emphasizes self-management within defined constraints, which aligns with the principles of Agile and Lean. Additionally, it confronts fragmentation and promotes systems thinking. There are multiple direct mentions of principles and significant depth in discussing how these principles should be enacted in practice, leading to a high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves deeply into DevOps and Platform Engineering principles. It offers practical advice on fostering feedback, flow, and continuous learning, while also highlighting self-management and systems thinking. The discussion is grounded in Agile and Lean methodologies, with clear, actionable insights, making its alignment with the category very clear."
   },
   "Tool": {
     "resourceId": "zLhc3UKUWOj",
@@ -2147,7 +2189,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content extensively discusses tools such as Azure Pipelines and emphasizes the importance of using cohesive systems and platforms in DevOps practices. It directly mentions the functionalities of various tools and stresses the integration of these tools within an engineering strategy. The discussion of platform engineering and its impact on workflows demonstrates a strong alignment with the key topics for the 'Tool' category, such as best practices and comparative analysis. The depth of discussion around automating processes and creating a unified delivery system contributes to a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Tool' category, as it focuses on the use and integration of platforms like Azure Pipelines within DevOps. It highlights how these tools streamline workflows, automate processes, and support engineering strategies, offering insights into best practices and comparative analysis. The emphasis on platform engineering and system cohesion further reinforces its relevance to this category."
   },
   "Accountability": {
     "resourceId": "zLhc3UKUWOj",
@@ -2160,7 +2203,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content discusses accountability indirectly by emphasizing the importance of clearly defined systems and constraints for self-management within teams. It highlights how a lack of structure leads to chaos and inefficiency, suggesting that establishing clarity in systems enhances flow and improves outcomes. The mention of team autonomy within defined boundaries relates to accountability in ensuring outcomes are achieved. However, it does not explicitly mention roles or specific accountabilities like the Product Owner or Scrum Master, which slightly limits its direct relevance to the category. Overall, accountability is an important theme but is treated more as a support concept than a primary focus.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content touches on accountability by stressing the need for clear systems and boundaries in team self-management, linking structure to better outcomes. While it highlights how defined frameworks support accountability, it doesn’t directly address specific roles or explicit accountabilities, making accountability more of a supporting theme than the main focus."
   },
   "Values": {
     "resourceId": "zLhc3UKUWOj",
@@ -2199,7 +2243,8 @@
     "non_ai_confidence": null,
     "final_score": 76.0,
     "reasoning": "The content discusses the importance of cohesive systems and methodologies within the context of DevOps and Platform Engineering. It emphasizes the systemic nature of discipline in engineering practices, particularly highlighting the need for structured processes and shared principles to avoid fragmentation and chaos in delivery. The discussion of 'One Engineering System' aligns well with the evolution and maturation of professional disciplines. However, while the topic of discipline is fundamental, most of the content is focused on practices and tools rather than deep exploration of the principles themselves, thus warranting a high but not maximal confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how unified systems and disciplined methodologies underpin effective DevOps and Platform Engineering. While it mainly addresses practical approaches and tools, it clearly connects these to the broader need for structured, cohesive engineering practices, supporting the category’s focus even if it doesn’t delve deeply into underlying principles."
   },
   "Artifact": {
     "resourceId": "zLhc3UKUWOj",
@@ -2225,7 +2270,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of visibility in DevOps and the need to eliminate fragmentation to enable a cohesive and observable system. It emphasizes how better practices such as Platform Engineering and One Engineering System can lead to a more observable environment. These themes align well with the principles of observability, particularly in fostering clarity and reducing chaos in delivery processes. However, while observability is a significant theme, the discussion is intertwined with broader topics of DevOps and engineering practices, making it not the primary focus. Hence, the scores reflect strong mentions and alignment with observability principles but not exclusively centered on observability itself.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on observability by highlighting the need for visibility and cohesion in DevOps, referencing practices like Platform Engineering. While observability is clearly relevant, the main focus is broader, covering general engineering and DevOps improvements. Therefore, it fits the category well but isn’t solely dedicated to observability, reflecting its strong but not exclusive alignment with the topic."
   },
   "Practice": {
     "resourceId": "zLhc3UKUWOj",
@@ -2264,7 +2310,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of integrating systems and aligning teams through platform engineering and the One Engineering System. It explicitly mentions strategy in a high-level context, particularly the concept of Platform Engineering as a foundational strategic approach to enhance development practices and systems. The text connects operational practices, such as DevOps and continuous delivery, to a larger strategy, outlining how these elements tie back to organizational goals. However, while it has significant depth regarding implementation and examples, the primary focus on specific technologies and practices slightly dilutes its abstraction as a purely strategic discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the strategy category, as it explores how platform engineering and system integration support broader organisational goals. While it delves into practical examples and technologies, the main emphasis remains on strategic alignment and the foundational role of these practices in shaping development and operational approaches. The discussion effectively links technical initiatives to high-level business objectives."
   },
   "Model": {
     "resourceId": "zLhc3UKUWOj",
@@ -2277,7 +2324,8 @@
     "non_ai_confidence": null,
     "final_score": 73.0,
     "reasoning": "The content provides a detailed discussion on the necessity of creating cohesive systems over fragmented engineering practices, which aligns well with the concept of models in decision-making. It emphasizes the importance of a unified delivery platform (1ES) and Platform Engineering, suggesting frameworks that enhance flow and create observable systems. Direct mentions of models are present, highlighting how a structured approach can eliminate chaos and improve delivery processes. While the content is primarily focused on the implications of a holistic engineering strategy, it does not delve deeply into specific conceptual models like the Cynefin Framework or Lean Startup principles, which limits its depth of discussion regarding model application in Agile or DevOps contexts.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content fits the category as it highlights the value of unified systems and structured approaches in engineering, referencing models in decision-making and delivery. However, it doesn’t explore specific conceptual models in depth, such as Cynefin or Lean Startup, so its alignment with detailed model application in Agile or DevOps is limited. Overall, it supports the category but lacks comprehensive model analysis."
   },
   "Framework": {
     "resourceId": "zLhc3UKUWOj",
@@ -2303,7 +2351,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content extensively discusses the principles of DevOps and Platform Engineering, emphasizing concepts like feedback loops, flow, and the importance of standardized systems. It aligns well with the category 'Tenet' as it outlines practical, actionable approaches for streamlining processes and overcoming fragmentation in dev environments. The direct mentions of DevOps principles and the emphasis on building a unified engineering system demonstrates a clear understanding of the actionable tenets that support organizational performance. While it primarily focuses on the specifics of implementing these tenets, the discussion maintains depth, demonstrating how to create a coherent system that empowers teams while outlining the consequences of fragmentation.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Tenet' category, as it clearly outlines actionable principles and best practices in DevOps and Platform Engineering. By focusing on feedback loops, standardisation, and unified systems, it provides practical guidance for improving processes and overcoming fragmentation, which are core aspects of tenets that drive organisational success."
   },
   "Capability": {
     "resourceId": "zLhc3UKUWOj",
@@ -2316,7 +2365,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of system design and integration, which are crucial components of capability in a DevOps context. It emphasizes the need for a unified engineering system and the cultivation of developer experiences that enhance productivity and safety, which aligns well with the core themes of developing and embedding capabilities within teams. However, while capability is an underlying theme, the content leans toward discussing tools and frameworks, which detracts somewhat from its primary focus on enduring competencies.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it highlights system design and integration—key aspects of capability in DevOps. It also touches on improving developer experience and productivity. However, the emphasis on tools and frameworks shifts the focus slightly away from long-term competencies, making the fit less direct but still generally appropriate."
   },
   "Service Level Expectation": {
     "resourceId": "zLhc3UKUWOj",

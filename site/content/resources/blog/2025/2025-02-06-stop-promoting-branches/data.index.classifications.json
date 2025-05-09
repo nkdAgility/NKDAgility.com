@@ -327,7 +327,8 @@
     "non_ai_confidence": 50,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the flaws of traditional branch promotion models and advocates for alternative strategies like GitHub Flow and Release Flow, which directly relate to Agile delivery processes. It provides a detailed analysis of how these strategies can optimise delivery and enhance team performance, aligning well with the core themes of the Strategy category. The depth of discussion is significant, as it covers various aspects of branching strategies and their impact on agility, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Strategy category because it explores different branching models and their influence on Agile delivery. By comparing traditional and modern approaches, it highlights how strategic choices in workflow can boost team effectiveness and delivery speed. The analysis goes beyond surface-level details, offering valuable insights into optimising development processes."
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -420,7 +421,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the flaws of traditional branch promotion models and advocates for modern practices like GitHub Flow and Release Flow, which are closely aligned with Agile engineering principles. It explicitly mentions continuous integration and delivery, automation, and the importance of maintaining clean and efficient workflows. The depth of discussion is substantial, providing detailed comparisons and recommendations, which supports a high confidence score in the category of Engineering Practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Engineering Practices category, as it thoroughly explores modern workflow models, such as GitHub Flow and Release Flow, and connects them to Agile principles. It highlights key engineering concepts like automation, continuous integration, and workflow efficiency, offering detailed analysis and practical recommendations that align well with best practices in software development."
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -447,7 +449,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "This content is a deep, methodical exploration of software development branching models and deployment practices, directly targeting core Software Development practices. It repeatedly references key SDLC strategies (GitHub Flow, Git Flow, Release Flow), and thoroughly critiques outdated approaches (branch promotion, reverse integration) while advocating for modern alternatives strongly aligned with industry best practices (continuous integration/delivery, mainline development, feature flags). The tone is occasionally critical and strongly opinionated—calling some models 'bloated' or 'relics'—but it remains focused on the efficacy and risks of specific methodologies within the software development life cycle, not straying into satire or outright undermining software engineering principles. Discussion of GitHub, CI/CD, trunk-based practice, environment management, automated testing, and DevOps affords tremendous depth and conceptual alignment. The main purpose is to inform and persuade practitioners (developers, engineering leads, DevOps engineers) with practical, actionable advice; the audience is clearly technical and tightly matched to the category. There is extremely little off-topic content or filler; the entire piece is focused and relevant. No penalties apply, as definitions, practices, and references are current and reinforced by examples and explanations, not outdated or satirical. Final confidence reflects near-total alignment with the Software Development category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an in-depth, practical analysis of software development branching and deployment models, aimed at technical professionals. It thoroughly examines industry-standard practices, critiques outdated methods, and advocates for modern approaches, all while maintaining a focused, informative tone. The discussion is highly relevant to software development, making it an excellent fit for the category."
   },
   "Engineering Excellence": {
     "resourceId": "x7ra7pQCDX5",
@@ -465,7 +468,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "The content offers an in-depth critique of outdated branching practices, favoring flow models (GitHub Flow, Release Flow) directly connected to engineering excellence. There are frequent, explicit references to continuous integration, continuous delivery, automation, quality, and engineering best practices—for example, emphasizing 'continuous deployment', 'automated tests', and 'engineering practices.' The discussion dissects technical debt-inducing behaviors (e.g., reverse integration, complex branching) and explains why streamlined branching improves release reliability and business agility. The depth exceeds superficial advice, including concrete suggestions for implementation, comparisons with legacy models, and the business/engineering impacts of these branch strategies. The purpose is highly aligned: to educate software engineers and engineering teams on best practices that promote higher standards in development. The target audience is clearly technical, focusing on practitioners and teams seeking to adopt better engineering processes. The content remains tightly relevant without digressions or off-topic sections, resulting in a high signal-to-noise ratio. No penalties apply—the tone and information are current and not undermine the category. Overall, the weighted confidence aligns with a near-maximum fit for Engineering Excellence.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Engineering Excellence category. It thoroughly analyses modern branching strategies, directly linking them to best practices like continuous integration and delivery. The discussion is technical, practical, and aimed at helping engineering teams improve quality and agility, making it highly relevant for professionals seeking to elevate their development processes."
   },
   "Throughput": {
     "category": "Throughput",
@@ -630,7 +634,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the flaws of traditional branch promotion models and advocates for continuous delivery practices, specifically highlighting GitHub Flow and Release Flow as effective strategies for frequent releases. It aligns well with the principles of Continuous Delivery and Continuous Deployment, emphasising the importance of delivering value quickly and efficiently. The depth of discussion on alternative branching strategies and their impact on release frequency supports a strong alignment with the category, although it could benefit from more explicit metrics or case studies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the Continuous Delivery and Continuous Deployment category, as it explores the limitations of older branching models and promotes modern approaches like GitHub Flow and Release Flow. By focusing on frequent, efficient releases and improved workflows, it clearly aligns with the core principles of delivering value rapidly, even though it could be strengthened with more concrete examples or data."
   },
   "Estimation": {
     "category": "Estimation",
@@ -714,7 +719,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content directly addresses practical, experience-based strategies for software delivery within Agile and DevOps frameworks. It critiques outdated branching models, explains their pitfalls from a real-world perspective, and makes actionable recommendations aligned with continuous delivery, mainline development, and evidence-driven techniques. Concrete scenarios (reverse integration problems, hotfixes, supporting multiple versions) illustrate challenges and pragmatic solutions, fitting the category's emphasis on adaptability, application of theory, and navigating complexity. While the term 'Pragmatic Thinking' isn't explicitly mentioned (hence a lower 'mentions' score), the conceptual alignment, depth, and intent are very high: the article’s sole purpose is to push for practical, streamlined methods over theoretical or traditional models. The target audience—technical practitioners in Agile/DevOps contexts—is clear throughout. The discussion is focused with minimal off-topic content. The confidence score reflects minimal explicit category naming but strong practical and conceptual fit, detailed analysis, and relevance to practitioners.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it offers hands-on advice for software delivery in Agile and DevOps settings. It critiques old practices, highlights real-world issues, and suggests practical, evidence-based solutions. The focus is on helping practitioners navigate complexity with adaptable, effective methods, making it highly relevant—even though the category name isn’t directly mentioned."
   },
   "Deployment Frequency": {
     "resourceId": "x7ra7pQCDX5",
@@ -732,7 +738,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "This content directly critiques traditional branch promotion models and advocates for branching strategies (GitHub Flow, Release Flow) that explicitly improve deployment frequency—a core tenet of Agile and DevOps. 'Deployment frequency' is not named directly, but phrases like 'delay deployment,' 'fast turnarounds,' 'deployed immediately,' and 'code is always deployable' unambiguously reference the concept. The overall argument frames slow and complex branching as a barrier to rapid, reliable releasing. There's substantial depth, with practical examples, analysis of various models, and specific discussion of continuous integration, automation, and feedback loops. The content’s primary intent is to drive teams toward practices that maximize deployment frequency and value delivery, making the fit very strong. The audience is highly aligned with DevOps/Agile technical practitioners and leaders. Signal remains high as the discourse largely avoids tangents, focusing squarely on deployment practice impact. While the tone is somewhat opinionated, it supports the category’s framing without criticism or outdated advice. There are no penalties, and the confidence score reflects a near-direct category fit despite not using the explicit term.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it clearly addresses how branching strategies impact deployment frequency—a key Agile and DevOps concern. By discussing practical models and emphasising rapid, reliable releases, it speaks directly to technical practitioners aiming to improve delivery speed. The focus remains on deployment practices, making the alignment with the category both relevant and robust."
   },
   "Continuous Integration": {
     "resourceId": "x7ra7pQCDX5",
@@ -750,7 +757,8 @@
     "ai_penalty_details": "none",
     "final_score": 87.0,
     "reasoning": "The content makes direct and purposeful reference to Continuous Integration (CI), especially in contrasting it with dysfunctional branch promotion models and advocating for mainline development practices (e.g., GitHub Flow, Release Flow), which are explicitly tied to CI principles. While the primary focus is on branching strategies and deployment flows, these are repeatedly framed in relation to CI and its associated practices (e.g., integrating into 'main' constantly, immediate deployment, automated tests, minimizing merge conflicts). The depth is substantial, giving detailed descriptions, scenarios (failure cases, alternative flows), explanations of why certain anti-patterns work against CI, and case studies/real-world examples (e.g., Microsoft Release Flow). The main intent is to inform and persuade practitioners to align with CI/CD best practices and avoid legacy approaches, meeting the category's purpose and audience. Most of the content is relevant and detailed, though a small portion discusses continuous delivery and deployment; however, these are tightly woven with CI and serve to support the overall narrative. There are no indications of outdated advice or tone that contradicts CI. Thus, while not every paragraph is about the full breadth of CI (many are about branching, deployment, and team practices), the overall focus, audience fit, depth, and alignment are all very strong, yielding a high—but not perfect—confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is highly relevant to the Continuous Integration (CI) category, as it consistently frames branching strategies and deployment flows in relation to CI principles. It offers detailed explanations, real-world examples, and practical advice, making it valuable for practitioners seeking to align with CI best practices. While some sections touch on related topics like continuous delivery, these are closely connected and enhance the overall discussion."
   },
   "Agile Strategy": {
     "resourceId": "x7ra7pQCDX5",
@@ -768,7 +776,8 @@
     "ai_penalty_details": "mentions penalized (content never states 'Agile Strategy' or explicitly links its critiques/solutions to Agile at the strategic/organizational level, but references to agility and value delivery qualified for partial score); none others",
     "final_score": 72.0,
     "reasoning": "The content substantively critiques traditional branch-based deployment models and advocates for practices (GitHub Flow, Release Flow, trunk-based development) that support faster, more reliable, and value-driven software delivery. The argument is tightly aligned with Agile principles: eliminating bottlenecks, supporting continuous integration and deployment, reducing hand-offs, and focusing on value delivery are all well-established Agile aims. Throughout, the text uses language such as 'kills agility', 'start delivering value', and ties deployment practices to organizational effectiveness and adaptability—matching the core Agile Strategy themes. \n\nHowever, there are no explicit references to Agile Strategy as a concept, nor does the content directly discuss company-wide vision or formal strategic planning (hence, a low score on direct mentions and a slightly moderated score on depth and intent). The target audience seems to be technical leaders, senior engineers, and dev leads—those who are influential in process/strategy choices, but not necessarily C-level strategists. The content is highly focused, with very little tangential or off-topic material. \n\nA 1-point deduction is applied to 'mentions' for the absence of direct mention or explicitly tying recommendations into an Agile strategy framework. The overall confidence is high because the essence and advocacy directly support Agile Strategy dimensions (adaptability, value delivery, organizational alignment)—the discussion is system-level rather than purely technical/process. Final confidence reflects this mix: the fit is very strong, with the only significant gap being lack of explicit labeling or top-level strategic vocabulary.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content strongly aligns with Agile Strategy by promoting practices that enhance adaptability, value delivery, and organisational alignment—key Agile themes. While it doesn’t explicitly reference Agile Strategy or strategic planning, its focus on system-level improvements and value-driven delivery makes it highly relevant for technical leaders shaping process and strategy. The main gap is the lack of direct strategic terminology."
   },
   "Continuous Delivery": {
     "resourceId": "x7ra7pQCDX5",
@@ -786,7 +795,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "This content very explicitly addresses Continuous Delivery—directly referencing the term several times, analyzing its core practices, and contrasting anti-patterns (e.g., branch promotion, Git Flow) with modern, recommended CD approaches (GitHub Flow, Release Flow). Alignment is extremely high, as the entire message focuses on optimizing delivery pipelines to match Continuous Delivery principles: fast iteration, automation, minimizing risk, reducing friction, and decoupling deployment from release. The depth is substantial: it doesn't just mention CD, but analyzes concrete techniques (feature flags, deployment strategies, ramifications of various branching models), and includes arguments for why and how teams should transition away from outdated patterns. The intent is clearly focused on informing practitioners about how to better practice Continuous Delivery by rethinking their model. The audience is software practitioners, engineers, and technical leads—the main target audience for CD discussions. The signal-to-noise ratio is very high; virtually all content is laser-focused on CD practices (with only minor tangents such as historical context about branching models, which remain relevant). No penalties were required: the content is current, not satirical, and does not undermine the definition (it advocates for CD best practices). The final confidence score, heavily weighted by high scores in alignment, depth, and intent, accurately reflects that this content is a model example of the Continuous Delivery category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Continuous Delivery category. It thoroughly explores CD principles, compares outdated and modern practices, and offers actionable advice for practitioners. The focus is clear and relevant, providing deep insights into optimising delivery pipelines. Its detailed analysis and practical recommendations make it highly valuable for engineers and technical leads interested in Continuous Delivery."
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -957,7 +967,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content extensively critiques outdated branching strategies and advocates for operationally efficient alternatives such as GitHub Flow and Release Flow, aligning directly with established operational practices in Agile, Lean, and DevOps contexts. It details process optimization, elimination of wasteful practices (e.g., reverse integration, branch-by-customer), and emphasizes continuous integration, automation, and rapid delivery, all of which are key operational practices. The discussion provides deep, practical guidance on improving software delivery processes, targeting practitioners and technical audiences seeking to enhance delivery speed and reduce complexity, with rich, relevant examples and actionable recommendations. Mentions of 'operational practices' are implicit, referencing improvement of delivery pipelines, value delivery, and process efficiency, but the exact phrase is not directly and repeatedly named, resulting in a slightly lower score for direct mentions. There are no outdated or obsolete recommendations, nor is the tone satirical or critical of the concept itself; all points reinforce the intended audience and practical application focus. The content is almost entirely focused, with minimal digression. As a result, the confidence score is very high, reflecting strong alignment and comprehensive coverage.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly fits the category, as it thoroughly explores modern operational practices in software delivery, advocating for efficient workflows like GitHub Flow. It offers practical advice, clear examples, and actionable steps aimed at improving process efficiency, making it highly relevant for practitioners seeking to optimise delivery pipelines—even though explicit terminology is used sparingly."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1023,7 +1034,8 @@
     "ai_penalty_details": "none",
     "final_score": 72.0,
     "reasoning": "The content directly addresses technical software delivery practices (branch strategies, continuous integration/delivery, deployment patterns) but does not explicitly mention 'technical leadership,' nor does it directly discuss agile leadership, team guidance, coaching, or other categories specified in the definition. However, the author's argument centers around process improvement, agility, reducing friction in engineering teams, and advocating for practices (e.g., GitHub Flow, Release Flow) that drive productivity and innovation—key concerns of technical leaders. There is clear value for a technical leader as the intended audience, as the advice urges teams to adopt better branch practices and modern delivery techniques. Depth is solid in terms of technical detail, but discussion of actual leadership actions (mentoring, facilitating ceremonies, handling team dynamics) is only implied. Some alignment with DevOps practices and continuous improvement is present, but the majority of the article remains focused on workflow mechanics over people or leadership strategies. There are no penalties—nothing outdated or undermining, the tone is assertive but not satirical. Final confidence reflects that while highly relevant for technical leaders, the content falls short of discussing leadership skills, roles, or influence directly, thus missing the highest confidence threshold for the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is highly relevant for technical leaders, as it explores software delivery practices that impact team productivity and agility. While it doesn’t explicitly discuss leadership skills or roles, its focus on process improvement and advocating for modern workflows aligns with the interests of technical leadership, making it a strong, though not perfect, fit for the category."
   },
   "Product Discovery": {
     "category": "Product Discovery",
@@ -1107,7 +1119,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the flaws of traditional branch promotion models and advocates for modern deployment strategies like GitHub Flow and Release Flow. It discusses the implications of these strategies on deployment speed and risk management, aligning well with the core themes of deployment methodologies. The depth of discussion is substantial, providing detailed insights into how these strategies can enhance continuous delivery and integration, while also addressing the risks associated with outdated practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the deployment methodologies category, as it thoroughly explores the limitations of older branch promotion models and highlights the benefits of modern approaches like GitHub Flow. The discussion is detailed, offering practical insights into how these strategies improve deployment speed and risk management, which are central to the topic."
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1134,7 +1147,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "This content centers around software engineering best practices, with a critical analysis of branching models and a push toward modern continuous integration and delivery paradigms. Direct mentions of key technical mastery concepts—such as continuous integration, continuous delivery, GitHub Flow, Release Flow, trunk/mainline development, feature flags, automated testing, and engineering practices—are frequent and explicit. The depth is substantial: the article doesn't just mention practices, it investigates their limitations and the engineering rationale behind alternatives. Conceptually, the piece is perfectly aligned with the pursuit of technical mastery in software delivery, discussing the rationale for newer practices, the pitfalls of outdated approaches (e.g., Git Flow, environment=branch mapping, reverse integration), and the trade-offs of supporting multiple live versions. The intent is strongly prescriptive and transformative for the technical practitioner—audience targeting is optimally aligned, eschewing business/management noise, focusing on technical engineers interested in improving their software delivery craft. The content is focused and highly on-topic throughout, yielding a very high signal-to-noise ratio. No penalties are merited: the advice is current, tone is serious and prescriptive (not satirical or critical of modern practices), and there are no references to obsolete or deprecated concepts being endorsed. The final weighted confidence reflects this clear, thorough, strongly aligned content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the category, as it thoroughly explores advanced software engineering practices like continuous integration and delivery. It critically examines traditional and modern workflows, offering actionable insights for technical practitioners. The focus remains technical and practical throughout, making it highly relevant for those seeking to deepen their expertise in software delivery."
   },
   "Release Management": {
     "category": "Release Management",
@@ -1146,7 +1160,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the flaws of traditional branch promotion models and advocates for modern release strategies like GitHub Flow and Release Flow. It discusses the implications of these models on software delivery, emphasising continuous integration and delivery, which are core aspects of release management. The depth of discussion is significant, providing detailed insights into the risks associated with outdated practices and the benefits of adopting more efficient workflows. Overall, the content aligns closely with the key topics of release management, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the release management category, as it explores the limitations of older branch promotion models and highlights the advantages of modern approaches like GitHub Flow. By focusing on continuous integration, delivery, and workflow improvements, it offers valuable insights into effective release strategies, making it highly relevant to the topic."
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1191,7 +1206,8 @@
     "non_ai_confidence": 10,
     "final_score": 92.0,
     "reasoning": "The content primarily focuses on modern branching strategies in source control, specifically critiquing traditional branch promotion models and advocating for GitHub Flow and Release Flow. It discusses the implications of these strategies on continuous integration and delivery, conflict resolution, and the overall efficiency of code management. The depth of discussion is substantial, providing detailed explanations of the flaws in outdated practices and the benefits of modern approaches, thus aligning closely with the core themes of the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it thoroughly explores contemporary branching strategies in source control. By contrasting traditional and modern approaches, it highlights their impact on integration, delivery, and conflict management, offering clear insights into best practices for efficient code workflows."
   },
   "Agile Planning Tools": {
     "category": "Agile Planning Tools",
@@ -1332,7 +1348,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on optimising the software delivery process by critiquing traditional branch promotion models and advocating for more efficient alternatives like GitHub Flow and Release Flow. It discusses the negative impacts of bottlenecks caused by outdated practices and highlights strategies for improving flow efficiency, such as continuous integration and delivery. The depth of discussion is substantial, providing detailed explanations of how to eliminate inefficiencies and enhance throughput, aligning closely with the principles of Flow Efficiency.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Flow Efficiency category, as it thoroughly examines how to streamline software delivery by moving away from traditional branching models. It clearly explains the drawbacks of old practices and offers actionable strategies—like adopting modern workflows and continuous integration—to boost efficiency and reduce bottlenecks, making it highly relevant to improving flow in development processes."
   },
   "Product Delivery": {
     "category": "Product Delivery",
@@ -1410,7 +1427,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "The content directly addresses key Market Adaptability drivers by critiquing traditional branching and environment models (branch promotion) and advocating for practices like continuous delivery, GitHub Flow, Release Flow, and trunk-based development. While the term 'Market Adaptability' is not explicitly stated, the principles—rapid feedback, agility in deployment, reducing friction and risk, enabling faster value delivery—are deeply embedded. Each section substantiates not just the how, but the why: branching practices that slow or complicate release cycles diminish an organization's ability to adapt quickly to market or customer needs. The writing targets practitioners and DevOps/Agile-aware leaders, aligning strongly with the intended audience. Signal-to-noise is high: critiques of old models are tightly linked to proposing concrete, modern alternatives focused on adaptability. Depth is ensured through example flows, anti-patterns (Git Flow, branch-by-customer), the psychological burden of complexity, and case references (e.g., Microsoft's adaptation for Azure DevOps). No content is satirical or misaligned, and the advice is current (continuous delivery, feature flags, trunk/mainline workflows). Thus, the confidence score is correspondingly high, only slightly tempered due to the absence of the explicit phrase 'market adaptability' but maintaining strong conceptual and practical fit.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Market Adaptability category. It critiques outdated branching models and champions modern practices that boost agility and rapid delivery—key to adapting quickly to market changes. The advice is practical, well-targeted, and substantiated with examples, making it highly relevant for practitioners aiming to improve organisational responsiveness."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1431,7 +1449,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the flaws of traditional branching models in software delivery, advocating for continuous integration and delivery practices that align closely with DevOps principles. It discusses the importance of flow efficiency, automation, and reducing complexity, which are core themes of DevOps. The depth of discussion is significant, providing detailed alternatives like GitHub Flow and Release Flow, and emphasising the need for collaboration and shared accountability among teams. Overall, the content is highly relevant to the DevOps category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the DevOps category, as it thoroughly explores the limitations of traditional branching models and champions modern practices like continuous integration and delivery. By highlighting automation, flow efficiency, and team collaboration, it aligns closely with DevOps principles and offers practical alternatives, making it highly relevant for professionals in this field."
   },
   "Azure DevOps": {
     "resourceId": "x7ra7pQCDX5",
@@ -1488,7 +1507,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the flaws of traditional branch promotion models and advocates for continuous delivery practices, which directly aligns with the principles of iterative development and maximising customer value. It discusses the impact of branching strategies on agility and value delivery, providing detailed alternatives like GitHub Flow and Release Flow. The depth of discussion on how these practices enhance delivery speed and reduce complexity further supports its strong alignment with the Value Delivery category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Value Delivery category, as it explores how different branching strategies influence development speed and customer value. By comparing traditional and modern approaches, it highlights ways to improve agility and streamline delivery, making it highly relevant to teams focused on maximising value through efficient processes."
   },
   "Technical Excellence": {
     "resourceId": "x7ra7pQCDX5",
@@ -1506,7 +1526,8 @@
     "ai_penalty_details": "none",
     "final_score": 85.0,
     "reasoning": "The content directly addresses advanced software engineering practices relating to source control and delivery models, such as GitHub Flow, Release Flow, and the flaws of traditional branch/environment promotion (e.g., Dev → Test → Staging → Prod). It thoroughly explores how alternative branching models like GitHub Flow and Release Flow better support modern CI/CD, continuous deployment, and team agility, all of which are key elements in technical excellence.\nDirect mentions (6.7) are present but not with the explicit use of the phrase 'technical excellence'—however, terms like 'continuous integration,' 'continuous delivery,' 'engineering practices,' and references to 'delivering value' and 'agility' are highly aligned conceptually. \nConceptual alignment (8.7) is very strong: the article consistently frames branching practices in terms of their impact on agility, quality, and risk, addressing core technical-excellence themes. The depth of discussion (8.8) is substantial; the piece moves beyond tool comparisons to diagnose systemic problems (e.g., organizational dysfunction, cognitive load) and relates branching strategies to higher-order outcomes like maintainability, risk reduction, and optimized deployment.\nThe intent (8.3) is highly relevant—educating practitioners on how to achieve engineering excellence via better workflow models; the audience (8.9) is technical (engineers, teams, technical leads); signal-to-noise (8.5) is high, given the clear focus on engineering outcomes and concise critique of poor practices. \nNo penalties are warranted: the criticism of outdated models (e.g., Git Flow) serves to advocate progress toward technical excellence, not undermine it. The final confidence (85.168) reflects the strong, consistent alignment, thoroughness, and targeting of key technical excellence principles, with a minor reduction for not naming the category explicitly.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the technical excellence category. It thoroughly analyses modern branching models and their impact on agility, quality, and risk, directly supporting engineering best practices. The discussion is in-depth and highly relevant for technical audiences, clearly linking workflow choices to improved outcomes, even though the term 'technical excellence' isn’t used verbatim."
   },
   "Organisational Agility": {
     "resourceId": "x7ra7pQCDX5",
@@ -1524,7 +1545,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "This content thoroughly critiques traditional branch-promotion-based delivery models and advocates for practices that directly foster Organisational Agility (such as continuous integration, GitHub Flow, and Release Flow). There are multiple strong references to agile principles—eliminating bottlenecks, enabling rapid value delivery, reducing risk through automation and mainline development, and minimizing cognitive and process overhead. The main purpose is clearly to guide organizations toward more adaptive and responsive software delivery frameworks, central to the category definition. While the term 'organisational agility' itself or closely related terms are not named verbatim very frequently (hence a slightly lower direct mentions score), the conceptual alignment and depth are very high, with detailed practical critique and prescriptions for transformation. The audience is mainly practitioners, technical leads, and decision-makers seeking to modernize organizational software practices. Content is highly focused; nearly all discussion is on models that hinder or foster agility, with minimal off-topic material. No penalties applied, as the arguments are current, not satirical or critical of agility, and focus on structural/cultural transformation, not just speed or surface-level change. The resulting confidence is above 90, reflecting deep and detailed relevance to Organisational Agility.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Organisational Agility category. It offers a detailed critique of traditional delivery models and promotes agile practices like continuous integration, focusing on reducing bottlenecks and enabling rapid, adaptive delivery. The discussion is practical and aimed at helping organisations transform their software processes, making it highly relevant for those seeking greater agility."
   },
   "Personal": {
     "category": "Personal",
@@ -1733,7 +1755,8 @@
     "ai_penalty_details": "mentions penalized by 0.7 points due to the direct term 'Continuous Improvement' not being mentioned, only adjacent concepts discussed.",
     "final_score": 79.0,
     "reasoning": "This content provides a deep, process-focused critique and guidance on software branching strategies. It is highly aligned with Continuous Improvement principles—calling for evidence-based reflection, eliminating waste, adapting processes for better outcomes, and promoting faster feedback. Topics such as enabled automation, faster delivery, and decoupling deployment from release demonstrate foundational Lean/Agile thinking. However, the explicit phrase 'Continuous Improvement' and related frameworks (e.g., Kaizen, PDCA) are not directly referenced, leading to a lower 'Direct Mentions' score. The concepts strongly match the category, as the discussion continually urges iterative evaluation and evolution of engineering practices to increase responsiveness, reduce complexity, and foster a learning organization. The depth is substantial, including detailed process analysis and direct actionable suggestions. The target audience (engineering/process leads and technical practitioners) is similar but may drift slightly towards the hands-on implementer more than strategists or executives, justifying a fractional reduction in 'Audience Alignment.' Some filler (e.g., harsh criticisms of Git Flow) slightly reduces signal, but most content is highly relevant. Penalties applied to 'mentions' for lack of explicit terminology. No evidence of outdatedness or inversion of category purpose. Thus, the confidence score is solidly high, but not maximal, due to indirectness in explicit category language.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content thoroughly explores software branching strategies through a lens of continuous improvement, offering actionable advice and process analysis rooted in Lean/Agile principles. While it doesn’t directly reference terms like 'Continuous Improvement' or related frameworks, its focus on iterative enhancement and evidence-based reflection makes it a strong fit for the category, especially for technical practitioners seeking practical guidance."
   },
   "Common Goals": {
     "resourceId": "x7ra7pQCDX5",
@@ -1817,7 +1840,8 @@
     "ai_penalty_details": "none",
     "final_score": 95.0,
     "reasoning": "The content directly critiques traditional branch promotion models and advocates for modern, iterative approaches (e.g., GitHub Flow, Release Flow) that are closely aligned with agile, lean product development, and continuous delivery—core to the Product Development category. It repeatedly references continuous integration, continuous delivery, value delivery, risk reduction, feedback acceleration, and strategies that focus on aligning delivery with business value, which fits the category definition. The article is extensively detailed, covering rationale, anti-patterns, supporting evidence, and practical alternatives, all within the context of product development methodologies, not just technical implementation. The intent is clearly to improve how teams develop and deliver valuable products, targeting practitioners, engineers, and leaders who influence product delivery processes. The focus remains tightly on process, value, and outcomes over technical minutiae, with little digression. No evidence of outdated practices, contradictions, or critical/satirical framing against the category exists—though Git Flow is criticized, this is done as an advocacy for modern, customer-centric approaches. Therefore, the confidence score is very high: the only slight deduction is due to a slight technical tilt (branching, Git specifics), which may be a bit less relevant for strategy/executive audiences, hence audience gets a slightly lower score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Product Development category. It thoughtfully critiques older branching models and champions modern, agile-aligned workflows, focusing on delivering business value and improving team processes. The discussion centres on practical strategies for product delivery, making it highly relevant for practitioners and leaders aiming to optimise product development outcomes."
   },
   "Project Management": {
     "resourceId": "x7ra7pQCDX5",
@@ -1835,7 +1859,8 @@
     "ai_penalty_details": "mentions (-0.7): The tone is somewhat critical and dismissive (e.g., 'Git Flow is a bloated relic', 'belongs in the past') which undermines neutral knowledge sharing expected in the category's framing.",
     "final_score": 74.0,
     "reasoning": "The content is an in-depth critique of traditional branch promotion models and an exposé on modern branching strategies like GitHub Flow and Release Flow. It references core software delivery processes that intersect with project management—such as deployment pipelines, environment management, and release coordination. Its strongest alignment with the Project Management category is in its practical focus on improving delivery flow, reducing risk, and enhancing team agility—topics relevant to modern (especially agile or DevOps-influenced) project management practices. The intent is to drive a mindset change towards more effective and faster project/software delivery, which fits the category's emphasis on delivering value, managing risk, and adapting to organizational project complexity. However, direct references to 'project management' are lacking, so the Direct Mentions score is low, especially after a penalty due to the dismissive tone about established practices (e.g., 'Git Flow needs to die!'). The Depth and Alignment scores are high: the content deeply examines branching models, their failures, and better alternatives with reasoning and examples. Audience Alignment is high as the post targets practitioners and decision-makers responsible for choosing engineering and process strategies—an audience overlapped with that of project management. The Signal-to-Noise ratio is solid; the majority of content is focused and minimal filler, though slightly diluted because it stays at a technical-process level more than project management strategy. A penalty was applied only to the Mentions dimension for the somewhat polemical tone, as it may detract from objective, inclusive discussion characteristic of the Project Management category. The final confidence score reflects strong conceptual and depth ties to project management practices (particularly agile and DevOps project contexts), even if Project Management is not named outright.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Project Management category because it explores how modern branching strategies can improve software delivery, risk management, and team agility—core concerns in project management, especially within agile and DevOps contexts. While it doesn’t explicitly mention project management, its practical focus and relevance to project delivery processes make it a strong conceptual match for the category."
   },
   "Hybrid Agile": {
     "category": "Hybrid Agile",
@@ -1877,7 +1902,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content provides a deep and detailed exploration of branching strategies in software development with a strong focus on GitHub-specific practices, especially GitHub Flow and its alternatives. GitHub is directly and repeatedly mentioned in critical areas (Direct Mentions: 9.6). The conceptual alignment is very strong (Alignment: 9.8), as the article explicitly differentiates, advocates, and describes methods such as GitHub Flow and Release Flow, and positions them in contrast with legacy models like Git Flow. The piece discusses not just what but why teams should shift to these GitHub-centric practices and elaborates on the rationale in terms of deployment, continuous delivery, and risk management (Depth: 9.7). The intent is well-matched—the main purpose is to inform and persuade technical teams about effective, modern branching models, with GitHub as the core example and reference point (Intent: 9.7). Audience alignment is high (9.2), targeting technical professionals, developers, and DevOps practitioners using or considering GitHub practices. The signal-to-noise ratio is excellent (9.5), as nearly all discussion is directly relevant to the reasons for choosing GitHub Flow and Release Flow, with extensive comparative analysis. No penalties are applied, as the content is up to date, not satirical or critical of GitHub, and doesn't advocate obsolete practices. Overall, the final score is just below perfect due to a few brief mentions of related alternatives and side topics, ensuring balance while reflecting the extremely high confidence for strict inclusion under the GitHub category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the GitHub category. It thoroughly explores branching strategies with a strong emphasis on GitHub Flow and related practices, directly referencing GitHub throughout. The article is tailored for technical professionals, offering in-depth comparisons and clear advocacy for GitHub-centric workflows, making it highly relevant and well-aligned with the category’s focus."
   },
   "Time to Market": {
     "category": "Time to Market",
@@ -1889,7 +1915,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the inefficiencies of traditional branch promotion models and advocates for alternatives like GitHub Flow and Release Flow, which directly relate to improving Time to Market. It highlights how these models can accelerate delivery and reduce complexity, aligning well with the core themes of Time to Market. The depth of discussion is substantial, providing detailed insights into the drawbacks of existing practices and the benefits of proposed solutions, thus supporting the primary focus on optimising delivery processes.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Time to Market category, as it explores how alternative branching models can speed up software delivery and simplify workflows. By comparing traditional and modern approaches, it offers practical insights into reducing delays and improving efficiency, which are central to optimising time to market."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -1986,7 +2013,8 @@
     "non_ai_confidence": null,
     "final_score": 89.0,
     "reasoning": "The content thoroughly discusses actionable principles related to software delivery models, focusing on efficiency and value delivery by critiquing branch promotion strategies. It highlights alternatives such as GitHub Flow and Release Flow, demonstrating how these models improve continuous delivery and promote self-management by allowing teams to make decisions that optimize their workflow. The depth of detail provided on specific practices and their implications aligns closely with the category of 'Principle', covering themes such as continuous improvement and value delivery. Overall, the content shows a strong emphasis on actionable guiding rules that shape team behavior around effective branching strategies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the 'Principle' category because it explores foundational guidelines for software delivery, analysing different branching strategies and their impact on team efficiency and value delivery. By comparing models like GitHub Flow and Release Flow, it offers clear, actionable advice that helps teams refine their processes, aligning well with the core themes of continuous improvement and effective workflow management."
   },
   "Tool": {
     "resourceId": "x7ra7pQCDX5",
@@ -1999,7 +2027,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content provides a thorough discussion on various branching models and their implications on software delivery, specifically focusing on GitHub Flow and Release Flow as tools for continuous delivery. It explains how these models facilitate workflows and enhance team collaboration while emphasizing the flaws of traditional branch promotion strategies. The discussion aligns well with the core themes of the 'Tool' category, providing insight into tool functionality, comparative analysis, and best practices, indicating a strong fit overall.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Tool' category, as it explores different branching models like GitHub Flow and Release Flow, highlighting how they support continuous delivery and team collaboration. By comparing these tools and discussing their practical benefits and drawbacks, the content offers valuable insights into tool usage and best practices."
   },
   "Values": {
     "resourceId": "x7ra7pQCDX5",
@@ -2077,7 +2106,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content focuses significantly on the practices related to branch management in software development, specifically addressing how traditional models hinder agility and introducing alternative models like GitHub Flow and Release Flow. It discusses the pitfalls of the branch promotion model and explains actionable techniques that enhance team performance and value delivery, aligning well with the core themes of continuous improvement and effective collaboration. However, while the mentions and depth provide strong support for the classification, the primary focus is somewhat less on general practices and more on critiquing branching strategies rather than offering a broad range of actionable practices, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category as it delves into branch management strategies in software development, highlighting both challenges and improvements. It discusses alternative workflows and practical techniques that foster team collaboration and continuous improvement, though its focus is more on critiquing specific models than covering a wide array of general practices."
   },
   "Method": {
     "resourceId": "x7ra7pQCDX5",
@@ -2090,7 +2120,8 @@
     "non_ai_confidence": null,
     "final_score": 85.0,
     "reasoning": "The content provides a detailed examination of various branching models in software development, particularly focusing on GitHub Flow and Release Flow. It presents a structured critique of the traditional branch promotion strategy while offering clear alternative methods that enhance continuous delivery. The text covers different methods explicitly, defining step-by-step procedures for integrating code into production and discusses the implications of using outdated methods. While some discussions touch on broader principles, the primary focus remains on procedural methods to improve software delivery efficiency, making it highly relevant to the 'Method' category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Method' category, as it systematically explores and compares different branching strategies in software development. By outlining step-by-step procedures and critiquing traditional approaches, it provides practical guidance on improving delivery workflows, keeping the focus on actionable methods rather than abstract concepts."
   },
   "Model": {
     "resourceId": "x7ra7pQCDX5",
@@ -2103,7 +2134,8 @@
     "non_ai_confidence": null,
     "final_score": 88.0,
     "reasoning": "The content focuses extensively on different software delivery models, particularly critiquing branch promotion as a strategy and advocating alternatives like GitHub Flow and Release Flow. It discusses how these models influence software delivery and decision-making within Agile environments, demonstrating a clear understanding of the importance of models in streamlining and improving organizational processes. The detailed analysis of issues arising from traditional models and the proposed solutions reflects a strong alignment with the intended category, both in its direct mentions of models and the conceptual depth provided. Overall, the content firmly addresses how specific models can inform methodologies that enhance organizational agility.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly examines various software delivery models, critiques traditional approaches, and suggests modern alternatives. By analysing their impact on Agile practices and organisational decision-making, it clearly demonstrates how adopting the right models can drive process improvement and agility."
   },
   "Framework": {
     "resourceId": "x7ra7pQCDX5",
@@ -2129,7 +2161,8 @@
     "non_ai_confidence": null,
     "final_score": 88.0,
     "reasoning": "The content focuses extensively on the flaws of the traditional branch promotion model and presents actionable recommendations for implementing alternative strategies like GitHub Flow and Release Flow. It emphasizes the core principles of Agile and DevOps, particularly around continuous delivery and integration, which are key tenets in these methodologies. The discussion on the failures of specific models and the promotion of simpler, more efficient practices aligns closely with the actionable criteria associated with tenets, providing a well-rounded exploration of specific guiding rules that organizations can implement to improve their software delivery process.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it not only critiques existing branch promotion models but also offers practical alternatives rooted in Agile and DevOps principles. By highlighting actionable strategies and core methodologies, it provides clear guidance that organisations can adopt to enhance their software delivery processes."
   },
   "Capability": {
     "resourceId": "x7ra7pQCDX5",

@@ -30,7 +30,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of automation in improving deployment frequency, particularly through the Azure DevOps team's transition from infrequent to more frequent releases. It highlights strategies such as reducing cycle time, enhancing testing infrastructure, and automating processes, which are all directly related to optimising deployment intervals. The depth of discussion includes specific examples and metrics that illustrate the impact of these changes on deployment frequency and team confidence, aligning well with the core themes of the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it clearly explores how automation can boost deployment frequency. By detailing the Azure DevOps team's journey, including practical strategies and measurable outcomes, it demonstrates a direct link between process improvements and more frequent, reliable releases—making it highly relevant to the topic."
   },
   "Throughput": {
     "category": "Throughput",
@@ -87,7 +88,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses automated testing as a crucial aspect of the development process, highlighting its importance in reducing cycle times and improving feedback loops. It aligns well with the principles of test automation, particularly in the context of CI/CD and the transformation of testing strategies. The depth of discussion is substantial, detailing specific practices and outcomes related to automation, although it does not delve deeply into specific frameworks or tools. Overall, the content is primarily focused on test automation, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the test automation category, as it thoroughly explores the role of automated testing in development. It emphasises how automation streamlines processes and enhances feedback, which are core aspects of test automation. While it doesn’t focus on particular tools, its detailed discussion of practices and outcomes clearly aligns with the category’s principles."
   },
   "Windows": {
     "category": "Windows",
@@ -126,7 +128,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses practical applications of automation in development processes, aligning well with pragmatic thinking principles. It highlights real-world examples, such as the Azure DevOps team's transformation, and addresses practical problem-solving strategies, particularly in the context of Agile and DevOps. The depth of discussion on automation, technical debt, and empowering developers showcases a strong focus on experience-based problem-solving, making it a primary focus rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the category, as it centres on real-world automation in development, using concrete examples like the Azure DevOps team. It emphasises hands-on problem-solving and practical strategies within Agile and DevOps, highlighting technical debt and developer empowerment. The focus is clearly on applying pragmatic thinking to address genuine challenges, rather than just mentioning it in passing."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -297,7 +300,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses automation in testing, deployment, and quality assurance, which are key components of Continuous Delivery. It highlights the importance of reducing cycle time and improving feedback loops, aligning well with the principles of Continuous Delivery. The depth of discussion on the Azure DevOps team's transformation and the emphasis on continuous improvement and automation further support a strong alignment with the category. Overall, the content is focused on Continuous Delivery practices, making it a primary focus rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Delivery category, as it centres on automating testing, deployment, and quality assurance. It also emphasises reducing cycle times and enhancing feedback, which are core Continuous Delivery principles. The detailed discussion of the Azure DevOps team's journey and focus on ongoing improvement further reinforce its relevance to this category."
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -339,7 +343,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses automation extensively, particularly in the context of automated testing and deployment, which are key components of Continuous Integration. However, while it touches on CI principles, it does not explicitly focus on CI as a primary topic, instead framing it within a broader discussion on automation and development processes. The depth of discussion on CI-related practices is moderate, but the overall emphasis is more on automation in general rather than a dedicated exploration of CI.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly explores automation within development workflows, mentioning automated testing and deployment—important aspects of Continuous Integration (CI). However, CI is not the central focus; instead, it’s discussed as part of a wider look at automation. As such, while CI is relevant, the content doesn’t fit squarely into the CI category due to its broader emphasis."
   },
   "Lean Principles": {
     "category": "Lean Principles",
@@ -378,7 +383,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses automated testing as a crucial aspect of the development process, highlighting its importance in ensuring code quality and efficiency. It aligns well with the core themes of the category, particularly in the context of Agile and DevOps environments. The depth of discussion is substantial, detailing the transformation of testing strategies and the impact on feedback loops. However, while it covers automated testing extensively, it also touches on broader automation practices, which slightly detracts from its focus solely on automated testing.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the automated testing category, as it thoroughly explores the role and benefits of automated testing within development workflows. While it briefly mentions other automation practices, its main emphasis remains on how automated testing enhances code quality and supports Agile and DevOps processes, making it highly relevant to the category."
   },
   "Definition of Ready": {
     "category": "Definition of Ready",
@@ -498,7 +504,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses automation in the development process, which is crucial for delivering working software. It highlights automated testing, deployment, and validation as essential practices that contribute to software quality and functionality. However, while it touches on the importance of quality and customer confidence, it does not explicitly focus on the delivery of functional software or provide detailed metrics for assessing software effectiveness, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with the category as it explores automation’s role in ensuring software quality through testing and deployment. While it underscores practices that support reliable software, it doesn’t directly address the delivery of functional software or offer specific effectiveness metrics, making its fit somewhat indirect."
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -585,7 +592,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses automation in the context of software development, with specific references to Azure DevOps and its practices. However, while it touches on automated testing and deployment, it lacks a focused discussion on Azure Pipelines specifically. The mention of Azure DevOps is relevant, but the content does not delve deeply into the configuration or management of pipelines, nor does it provide detailed insights into CI/CD practices using Azure Pipelines. Therefore, while there is some alignment with the category, it is not the primary focus.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content relates to automation in software development and mentions Azure DevOps, but it doesn’t concentrate on Azure Pipelines or provide in-depth guidance on configuring or managing them. While there’s some overlap with the category, the main focus isn’t on Azure Pipelines or detailed CI/CD practices, so it only partially fits."
   },
   "Lean Thinking": {
     "category": "Lean Thinking",
@@ -669,7 +677,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses automation as a key enabler for frequent releases, particularly through automated deployment and testing. It highlights the Azure DevOps team's transition from biannual to weekly releases, which directly aligns with the principles of frequent releases. However, while the topic of frequent releases is present, it is not the primary focus, as the content primarily centres on automation and quality improvement rather than the broader strategies and metrics associated with frequent releases.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on frequent releases by showing how automation supports more regular deployments, using the Azure DevOps team's shift to weekly releases as an example. However, its main emphasis is on automation and quality, not on the wider practices or measurement of frequent releases, so it only partially fits the category."
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -738,7 +747,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses automation in software development, focusing on automated testing, deployment, and validation, which are key practices in software craftsmanship. It also addresses technical debt management and the importance of quality, aligning well with the principles of Technical Mastery. The depth of discussion is significant, providing detailed examples and strategies, particularly regarding the Azure DevOps team's transformation. Overall, the content is highly relevant to the category, with a strong emphasis on technical practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Technical Mastery category, as it delves into essential software development practices like automation, testing, and deployment. It also covers managing technical debt and maintaining quality, all of which are central to technical excellence. The detailed examples and focus on real-world transformation further reinforce its relevance to this category."
   },
   "Transparency": {
     "category": "Transparency",
@@ -768,7 +778,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses Cycle Time explicitly, particularly in the context of the Azure DevOps team's efforts to reduce their cycle time from idea to deployment. It aligns well with the core themes of the category by detailing the importance of Cycle Time in improving workflow efficiency and team performance. The depth of discussion is significant, as it provides specific examples of how the team transformed their testing strategy to achieve a substantial reduction in feedback loops, which directly relates to Cycle Time. However, the primary focus is on automation rather than Cycle Time itself, which slightly lowers the overall confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category because it directly addresses Cycle Time, using real-world examples from the Azure DevOps team to illustrate its impact on workflow and team performance. While automation is a key focus, the discussion consistently ties back to how these changes improve Cycle Time, making the content relevant and insightful for those interested in this topic."
   },
   "Continuous Learning": {
     "category": "Continuous Learning",
@@ -810,7 +821,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of automation in software development, particularly in relation to testing and deployment processes. It highlights best practices in coding standards, technical debt management, and the role of automation in enhancing development efficiency, all of which are core themes of Engineering Excellence. The depth of discussion is significant, providing detailed examples from the Azure DevOps team, illustrating the transformation of their testing infrastructure and the impact on team confidence and product quality. Overall, the content aligns closely with the principles of software craftsmanship and continuous improvement in engineering processes.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the Engineering Excellence category, as it delves into how automation improves software development, especially in testing and deployment. By sharing practical examples and best practices, it demonstrates a strong focus on quality, efficiency, and continuous improvement—key aspects of engineering excellence. The detailed insights from real-world teams further reinforce its relevance to this category."
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -822,7 +834,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses automation in the development process, which is a component of digital transformation, but it primarily focuses on technical practices rather than strategic adoption of digital technologies for broader business transformation. While it mentions the importance of automation and its impact on development efficiency, it lacks a comprehensive exploration of how these practices contribute to overall business agility or cultural change within the organisation. The examples provided, such as the Azure DevOps team's transition, illustrate specific instances of automation but do not delve into the strategic implications or broader organisational transformation, which are key aspects of digital transformation.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly addresses technical automation in development, highlighting efficiency gains but not exploring the wider organisational or strategic impacts typical of digital transformation. While it offers practical examples, it doesn’t connect these practices to broader business agility or cultural shifts, which are essential for true digital transformation. Therefore, it only partially fits the category."
   },
   "System Configuration": {
     "category": "System Configuration",
@@ -846,7 +859,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses technical debt in the context of the Azure DevOps team's challenges with poor-quality code and a problematic testing infrastructure. It highlights the need to confront technical debt and provides a specific example of how they transformed their testing strategy to improve efficiency. However, while technical debt is a significant part of the discussion, the primary focus of the content is on automation and its benefits, which somewhat dilutes the emphasis on technical debt management. Therefore, while there is a strong mention and relevant alignment, the overall depth of discussion on technical debt is not as comprehensive as it could be.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content touches on technical debt by sharing the Azure DevOps team's struggles and improvements, but its main emphasis is on automation and its advantages. While technical debt is addressed with relevant examples, the discussion doesn’t delve deeply into managing it, making the fit with the technical debt category partial rather than complete."
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -1044,7 +1058,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the role of automation in enhancing operational efficiency, particularly within the context of Agile and DevOps practices. It directly mentions key operational practices such as automated testing, deployment, and validation, which are crucial for streamlining processes and reducing bottlenecks. The depth of discussion is significant, providing detailed examples of how automation transformed the Azure DevOps team's workflow, thereby aligning closely with the core themes of operational practices. The focus on continuous delivery and quality improvement further solidifies its relevance to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the operational practices category, as it thoroughly explores how automation improves efficiency in Agile and DevOps environments. By highlighting automated testing, deployment, and validation, it clearly demonstrates how these practices streamline workflows and support continuous delivery, making it highly relevant to operational excellence."
   },
   "Azure DevOps": {
     "category": "Azure DevOps",
@@ -1077,7 +1092,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses various aspects of flow efficiency, particularly in the context of automation and reducing cycle times. It explicitly mentions the importance of optimising testing processes and reducing feedback loops, which are key elements of flow efficiency. The depth of discussion is significant, detailing the Azure DevOps team's journey to improve their testing infrastructure and the impact on their delivery speed. However, while flow efficiency is a primary focus, there are also broader themes of confidence and customer engagement that slightly dilute the focus.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the flow efficiency category, as it centres on optimising processes, reducing cycle times, and improving testing workflows—core aspects of flow efficiency. While it also touches on related themes like confidence and customer engagement, the main emphasis remains on enhancing delivery speed and process effectiveness through automation."
   },
   "Market Adaptability": {
     "category": "Market Adaptability",
@@ -1089,7 +1105,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of automation and continuous feedback loops in the context of Agile and DevOps practices, which are essential for market adaptability. It highlights how the Azure DevOps team improved their delivery speed and quality through automation, thus enhancing their responsiveness to market demands. The depth of discussion on reducing cycle times and improving testing infrastructure aligns well with the principles of Lean and Agile methodologies. However, while the content is rich in examples and insights, it could further elaborate on broader strategies for market adaptability beyond the specific case study.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores how automation and feedback loops drive agility and adaptability in software delivery. By detailing the Azure DevOps team's improvements, it clearly links technical practices to market responsiveness, though it could expand on strategies beyond the case study for a broader perspective."
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1137,7 +1154,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of automation and feedback loops in the context of software development, particularly in relation to the Azure DevOps team. It highlights the role of metrics, such as cycle time and testing efficiency, in improving team performance and product quality. However, while it touches on relevant themes, the primary focus is on automation and confidence rather than a deep exploration of metrics and learning principles. The discussion lacks a structured analysis of metrics and their impact on decision-making, which is essential for a higher confidence score in this category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content touches on metrics and learning within software development, referencing cycle time and testing efficiency. However, its main emphasis is on automation and building confidence, rather than a thorough analysis of metrics or learning strategies. As such, it only partially fits the category, lacking the depth and structured evaluation expected for a strong classification here."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1167,7 +1185,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on automation within the development process, which is a key principle of DevOps. It discusses automated testing, deployment, and validation, all of which align with the DevOps ethos of continuous delivery and shared accountability. The mention of the Azure DevOps team further reinforces the connection to DevOps practices. However, while the content is rich in detail about automation, it does not extensively cover other core DevOps themes such as collaboration, cultural shifts, or the integration of quality and security practices early in the development lifecycle, which slightly limits its overall alignment.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the DevOps category due to its emphasis on automation in development, including testing and deployment, which are central to DevOps practices. The reference to Azure DevOps further supports this. However, it doesn’t fully address broader DevOps themes like team collaboration or cultural change, so its alignment is somewhat focused rather than comprehensive."
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1179,7 +1198,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses automation in software development, focusing on the importance of automated testing and deployment, which aligns well with the principles of Technical Excellence. It provides a detailed account of the Azure DevOps team's journey towards improving their testing infrastructure and reducing cycle times, showcasing the impact of these practices on team confidence and product quality. However, while it touches on key topics like CI/CD and technical debt, it lacks a structured exploration of broader engineering methodologies and principles, which slightly limits its depth of discussion.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the Technical Excellence category as it highlights the team's efforts to enhance automated testing and deployment, demonstrating clear improvements in workflow and product quality. While it effectively showcases practical advancements, it doesn’t delve deeply into wider engineering methodologies, making its focus more on applied practices than on comprehensive technical frameworks."
   },
   "Lean": {
     "category": "Lean",
@@ -1203,7 +1223,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses automation and its role in enhancing the development process, which directly ties into the principles of iterative development and continuous delivery. It highlights the importance of reducing cycle time and improving customer confidence through effective practices, aligning well with the core themes of value delivery. The depth of discussion is significant, providing detailed examples and insights into how automation can lead to better value delivery, although it could benefit from a more explicit focus on customer value measurement techniques.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how automation supports iterative development and continuous delivery. By emphasising reduced cycle times and increased customer confidence, it clearly aligns with value delivery principles. While it could further detail customer value measurement, its practical insights and examples make it highly relevant."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1398,7 +1419,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses automation in the development process, particularly focusing on automated testing, deployment, and validation, which aligns with the Shift-Left Strategy's emphasis on integrating testing early in the software lifecycle. The mention of reducing cycle time and improving feedback loops further supports this alignment. However, while the content touches on key aspects of the Shift-Left Strategy, it does not explicitly frame these practices within the broader context of Shift-Left principles, which slightly limits its depth of discussion. Overall, the content is relevant and provides substantial insights into how automation can facilitate a Shift-Left approach.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category, as it highlights how automation supports early testing and faster feedback—core elements of the Shift-Left Strategy. While it doesn’t explicitly connect every point to Shift-Left principles, it clearly demonstrates how automated processes can help teams adopt this approach and improve development efficiency."
   },
   "Continuous Improvement": {
     "category": "Continuous Improvement",
@@ -1470,7 +1492,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content extensively discusses automation in the context of product development, particularly focusing on how it enhances testing, deployment, and quality assurance. It aligns well with key topics such as iterative development processes and customer feedback loops, showcasing a clear understanding of Agile principles. The depth of discussion is significant, providing detailed examples and strategies that illustrate the importance of automation in improving product delivery and quality. However, while it touches on product development, the primary focus is on automation techniques, which slightly detracts from a pure product development classification.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it delves into automation’s role within product development, highlighting its impact on testing, deployment, and quality assurance. The discussion demonstrates a solid grasp of Agile practices and iterative improvement, though the emphasis on automation techniques means it’s not exclusively about product development itself. Overall, it effectively connects automation to key product development themes."
   },
   "Project Management": {
     "category": "Project Management",
@@ -1640,7 +1663,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content discusses the concept of automation extensively, which is a crucial mechanism in software development. While it mentions Azure DevOps, which is a specific tool, the primary focus is on the automation practices rather than a detailed exploration of specific tool functionalities or their integration within Agile frameworks. The content aligns reasonably with the 'Tool' category because it highlights how automation facilitates workflows and improves team collaboration, particularly in the context of DevOps. However, it lacks detailed mentions of specific tools and their comparative analysis, which limits the depth of discussion on tools specifically. Therefore, it receives a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the 'Tool' category as it centres on automation’s role in software development, referencing Azure DevOps to illustrate its points. However, it doesn’t delve deeply into specific tool features or compare different tools, so while it’s relevant, it doesn’t fully explore the category’s potential. The focus remains on general automation practices rather than detailed tool analysis, justifying a moderate confidence score."
   },
   "Values": {
     "resourceId": "VkhIXCsoSJw",
@@ -1718,7 +1742,8 @@
     "non_ai_confidence": null,
     "final_score": 72.0,
     "reasoning": "The content primarily discusses practices related to automation, particularly in testing and deployment, which directly aligns with the category of 'Practice.' It mentions automated testing and deployment as essential practices, showcasing specific techniques to enhance team performance. The depth of detail regarding the Azure DevOps team's transformation provides actionable insights but lacks further discussion on everyday team practices like stand-ups or retrospectives. Therefore, while well-aligned, the content does not explore the category comprehensively across various practice dimensions.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Practice' category, as it focuses on automation techniques in testing and deployment—key elements of effective team practices. While it offers valuable, actionable insights, it mainly centres on these specific areas and doesn’t cover the full range of everyday team practices, such as stand-ups or retrospectives."
   },
   "Method": {
     "resourceId": "VkhIXCsoSJw",

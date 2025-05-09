@@ -27,7 +27,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The article is deeply aligned with the 'Experimentation' category, providing detailed analysis of hypothesis-driven deployment practices (e.g., audience-based/ring-based deployment, real-time feedback loops, feature flags, progressive rollouts, and telemetry-driven releases) specifically within Agile and DevOps workflows. It discusses systematic idea testing, learning from telemetry, and the iterative refinement of software in production environments—not just in theory, but through explicit case studies such as Microsoft's Azure DevOps and Windows Insider programs. There are multiple direct mentions of concepts like experimentation, feedback loops, incremental feature release, and lessons learned from production experimentation, but explicit use of the exact term 'experimentation' is less frequent; the content refers more specifically to methods and principles of experimentation in Agile rather than constant use of the term. The depth of discussion is high, with concrete strategies, challenges, cultural implications, and technical implementation details, targeting audiences involved in Agile, CI/CD, and product delivery. The text is focused, relevant, and practical, with minimal tangents. No penalties were required as there are no outdated practices referenced and the tone is supportive of experimentation in Agile. The confidence score is high due to this strong match, minorly reduced due to less repetitive use of the explicit phrase 'experimentation' but strongly compensated by conceptual and thematic coverage throughout.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Experimentation' category. It thoroughly explores real-world experimentation methods in Agile and DevOps, such as feature flags and progressive rollouts, using concrete examples. While the term 'experimentation' isn’t overused, the article’s focus on iterative testing, feedback, and learning clearly aligns with the category’s intent."
   },
   "Entrepreneurship": {
     "resourceId": "_ncZFfeCrnS",
@@ -192,7 +193,8 @@
     "ai_penalty_details": "none",
     "final_score": 85.0,
     "reasoning": "The content does not mention 'Digital Transformation' directly by name but strongly aligns with the concept. The main theme centers around transformative practices in software deployment—specifically audience-based and ring-based deployment strategies that have revolutionized how enterprise organizations like Microsoft deliver and operate software. These are positioned as paradigm shifts in business operations, highlighted through organizational change, cultural challenges, metrics, automation, feedback loops, and real-world case studies. The narrative ties these modern practices to outcomes like improved agility, business value, reduced waste, and innovation, which are central to Digital Transformation. The depth of discussion is high: specific examples include Microsoft's transformation journey, details of technical and cultural shifts, progressive rollout, observability, change management, and feedback loops. The intent is educational and strategic, targeting technical leads, engineering managers, and transformation influencers—aligning more with practitioner/strategist audiences, but slightly less so than pure executive/board-level transformation strategy. Nearly all content is on-topic with minimal digressions, resulting in high signal-to-noise. No content is outdated or critical of digital transformation as a concept, and all framing is constructive and forward-looking. The lack of category name dropping modestly lowers the 'mentions' score, but overall, this is a strong fit under 'Digital Transformation.'",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for 'Digital Transformation' as it explores modern deployment strategies that have reshaped enterprise software delivery. It discusses both technical and cultural shifts, using real-world examples like Microsoft, and focuses on outcomes such as agility and innovation. While the term isn’t explicitly used, the themes and audience clearly align with digital transformation principles."
   },
   "Working Software": {
     "resourceId": "_ncZFfeCrnS",
@@ -210,7 +212,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content provides a thorough, practical exploration of audience-based (ring-based) deployment within Agile/DevOps frameworks, explicitly referencing the goal of maximizing product quality and value delivery through continuous feedback and progressive rollout. Companies like Microsoft and real teams (Azure DevOps, Windows) are cited as examples where working, usable software increments are the delivered result of these practices. The main points repeatedly center on enabling fast feedback from real users, minimizing risk in live deployments, and ensuring the software meets customer needs—core to the 'Working Software' category definition. Numerous concrete strategies (feature flags, telemetry, progressive delivery, automated halts) are described, demonstrating depth well beyond superficial mentions. The intended audience is clearly technical practitioners (DevOps engineers, software teams), exactly matching the canonical audience for 'Working Software.' Slight deductions in 'mentions' and 'intent' stem from a strong (but not exhaustive) focus on the *mechanisms* (deployment, feedback) rather than the explicit phrase 'working software,' though the connection is clear throughout. There is no outdated information, contradiction, or satire that would trigger penalties. Overall, the content robustly integrates all six scoring dimensions, with especially high marks on alignment, depth, and audience fit.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Working Software' category. It thoroughly explains how audience-based deployment supports Agile/DevOps goals, using real-world examples and detailed strategies. The focus on delivering usable software, gathering feedback, and reducing risk aligns closely with the category’s intent, and the technical depth matches the needs of practitioners. While it doesn’t always use the exact term, the connection is clear and well-supported."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -360,7 +363,8 @@
     "non_ai_confidence": 50,
     "final_score": 82.0,
     "reasoning": "The content extensively discusses the strategic shift towards audience-based deployment within Agile and DevOps frameworks, highlighting its benefits for team performance and delivery optimisation. It provides detailed insights into techniques for implementing this strategy, such as feature flags and progressive delivery, aligning well with the core themes of the Strategy category. The depth of discussion is significant, with practical examples from Microsoft’s transformation, making it a primary focus rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Strategy category, as it thoroughly explores how audience-based deployment can drive Agile and DevOps success. It not only outlines the strategic advantages but also delves into practical methods and real-world examples, making strategic considerations the central theme rather than a side note."
   },
   "Ability to Innovate": {
     "category": "Ability to Innovate",
@@ -372,7 +376,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses innovative practices in software deployment, particularly audience-based deployment, which enhances feedback loops and accelerates innovation. It provides detailed examples from Microsoft, illustrating how their approach fosters a culture of innovation and continuous improvement. The discussion on metrics, such as telemetry and feedback mechanisms, aligns well with the core themes of the category. However, while innovation is a significant focus, the content also delves into general DevOps practices, which slightly detracts from its primary alignment with the 'Ability to Innovate' category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Ability to Innovate' category, as it highlights how audience-based deployment and feedback mechanisms drive innovation and continuous improvement. While it touches on broader DevOps practices, the main emphasis remains on fostering a culture of innovation through practical examples and effective use of metrics."
   },
   "Agile Frameworks": {
     "resourceId": "_ncZFfeCrnS",
@@ -462,7 +467,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses modern software engineering practices, particularly focusing on audience-based deployment, which aligns with principles of Continuous Integration and Continuous Delivery (CI/CD). It highlights the importance of real-time feedback, progressive rollouts, and automation, all of which are core to Agile engineering practices. The depth of discussion is significant, providing detailed strategies and examples from Microsoft’s transformation, which enhances its relevance to the category. However, while it touches on key topics like automation and feedback loops, it does not delve deeply into concepts like Test-Driven Development or Clean Code, which slightly lowers the overall alignment score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores modern software engineering practices like audience-based deployment, real-time feedback, and automation—key aspects of CI/CD and Agile. While it doesn’t cover every engineering concept in depth, its detailed strategies and real-world examples make it highly relevant for those interested in contemporary software delivery methods."
   },
   "Portfolio Management": {
     "category": "Portfolio Management",
@@ -483,7 +489,8 @@
     "non_ai_confidence": 20,
     "final_score": 92.0,
     "reasoning": "The content extensively discusses modern software deployment strategies, particularly audience-based deployment, which is a key aspect of software development practices. It aligns well with core themes such as CI/CD, DevOps, and the importance of real-time feedback in the software development lifecycle. The depth of discussion is significant, providing detailed insights into methodologies, challenges, and strategies for effective software delivery, making it a strong fit for the Software Development category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great match for the Software Development category, as it delves into advanced deployment methods like audience-based releases. It covers essential topics such as CI/CD, DevOps, and real-time feedback, all of which are central to modern software practices. The detailed exploration of strategies and challenges further reinforces its relevance to professionals in this field."
   },
   "Engineering Excellence": {
     "resourceId": "_ncZFfeCrnS",
@@ -501,7 +508,8 @@
     "ai_penalty_details": "none",
     "final_score": 98.0,
     "reasoning": "The content explicitly addresses core principles of Engineering Excellence throughout, citing real-world examples (Microsoft, Azure DevOps, Windows) and delving into best practices (ring-based/audience-based deployment, continuous delivery, progressive rollout, feature flags, observability, automation). Direct mention of related core concepts (CI/CD, quality assurance, metrics, technical debt, team autonomy, shift-left, continuous improvement) is frequent, showing high direct mention and conceptual alignment. The depth is substantial, with technical explanations, lessons learned, and concrete strategies for implementation discussed in detail—significantly exceeding surface-level treatment. The intent is strongly supportive and educational, aiming to persuade technical audiences to adopt these engineering practices, with callouts to practitioner challenges (technical and cultural), showing clear fit for the category. The audience is technical—software engineers, team leads, and technical decision-makers—directly matching the category’s intended recipients. Nearly all the content remains focused on software craftsmanship and process excellence, with minimal digression or off-topic material. There is no evidence of outdated information, undermining tone, or misalignment, so no penalties are required. The final confidence score is proportionately high based on the dominance and quality of relevant engineering excellence themes.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Engineering Excellence category. It thoroughly explores key principles, best practices, and real-world examples, offering actionable insights for technical audiences. The focus remains on software quality, process improvement, and team autonomy, with clear, in-depth explanations and practical guidance, making it highly relevant and valuable for engineers and technical leaders."
   },
   "Throughput": {
     "category": "Throughput",
@@ -777,7 +785,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The content robustly discusses audience-based (ring-based) deployment, which has a direct and substantial relationship to Deployment Frequency. While the term 'deployment frequency' is not constantly reiterated, the core concepts—faster and more frequent releases, shortening feedback loops, embracing CI/CD, case studies on Microsoft, Azure DevOps, and Windows—demonstrate exceptional conceptual alignment. The depth is high; detailed strategies, pain points, lessons learned, and progressive rollout best practices are explored, including direct references to moving from infrequent (every two years) to highly frequent (every three weeks or less) releases. The content's purpose is to educate practitioners on optimizing deployments for business value and feedback speed, which is tightly aligned with the category intent. The tone is practical and forward-looking, not outdated or critical of the overall principle, so no penalties apply. The audience is clearly DevOps practitioners and technical leaders, which matches the intended audience for the category. The only minor deduction in 'mentions' is due to deployment frequency not being the explicit repeated term; otherwise, the content is highly focused, relevant, and thorough. The final confidence accurately represents the strong alignment of this material with the category and weights heavily the deep, practical exploration of frequent, reliable deployment practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the category, as it thoroughly explores strategies and real-world examples of increasing deployment frequency through audience-based rollouts. It’s highly relevant for DevOps professionals, offering practical insights and best practices that directly support the goal of more frequent, reliable releases—even if the exact term isn’t constantly repeated. The depth and focus make it a strong match."
   },
   "Continuous Integration": {
     "resourceId": "_ncZFfeCrnS",
@@ -813,7 +822,8 @@
     "ai_penalty_details": "none",
     "final_score": 83.0,
     "reasoning": "The content is deeply focused on strategies that align with Agile principles at a strategic level, such as the shift from traditional deployment to audience-based (ring-based) deployments, continuous value delivery, adaptability, and customer-centric feedback. Multiple case studies (e.g., Microsoft Azure DevOps, Windows) reinforce conceptual alignment, depth, and illustrate leadership roles in fostering organizational agility. Although the phrase 'Agile Strategy' is not directly and frequently mentioned (slightly lowering the mentions score), virtually every core theme—strategic planning, adaptability, enterprise-scale practices, progressive delivery, and cultural transformation—matches the key topics of the Agile Strategy category. The intent is to inform and inspire change at both technical and cultural/organizational levels, targeting leaders and strategists in addition to practitioners. The depth is significant—the discussion moves far beyond implementation details to strategic benefits, business rationale, and long-term value, with minimal off-topic content. No penalties are applied as the content is not outdated nor contradictory. The final score reflects that while explicit mentions are a little sparse, the conceptual and strategic richness places the content well within Agile Strategy.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the Agile Strategy category. It explores strategic approaches like audience-based deployments, continuous value delivery, and adaptability, all core to Agile at an organisational level. Real-world case studies and a focus on leadership and cultural change further reinforce its relevance, making it highly valuable for leaders and strategists aiming to drive Agile transformation."
   },
   "Continuous Delivery": {
     "resourceId": "_ncZFfeCrnS",
@@ -831,7 +841,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content thoroughly discusses strategies and benefits directly related to Continuous Delivery, specifically focusing on production testing, audience-based (ring-based) deployment, and the transformation at Microsoft with Azure DevOps and Windows. The phrase 'continuous delivery' and its principles are referenced multiple times both explicitly and conceptually: the content critiques traditional release environments in favor of progressive, automated, incremental deployment. It provides in-depth examples (e.g., Azure DevOps, Windows Insider Program) and draws lessons learned, making the discussion deep and substantial. The intent is highly educational and aligns directly with practitioners and strategists interested in advancing Continuous Delivery. The main audience is technical (engineers, DevOps, team leads), matching the category's target. Signal-to-noise is very high—nearly all the discussion is core to the category, aside from incidental asides or anecdotal background. No penalties are applied as the content is current, forward-looking, and does not contradict the category framing in any way.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Continuous Delivery category. It offers practical insights, real-world examples, and clear explanations of key principles, making it highly relevant for technical professionals. The focus on modern deployment strategies and transformation stories ensures the discussion is both educational and directly aligned with the interests of engineers and DevOps teams."
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -924,7 +935,8 @@
     "ai_penalty_details": "none",
     "final_score": 77.0,
     "reasoning": "The content provides a detailed account of audience-based (ring-based) deployment and its role in accelerating feedback, reducing waste, and maximizing value. These concepts align well with core Lean Principles—minimizing non-value-adding activities (such as maintaining multiple testing environments), shortening feedback loops, and continuous improvement. The discussion covers real-world case studies from Microsoft and Azure DevOps, offering depth and practical applicability, which resonates with Lean's focus on iterative learning and process optimization. Signals such as the call to eliminate waste, focus on end-user value, and organizational transformation show strong conceptual overlap with Lean. However, explicit and direct mentions of 'Lean' or standard Lean vocabulary (such as 'Muda', 'Kaizen', '5S') are minimal to non-existent, making the 'Direct Mentions' score notably lower. The primary framing is in DevOps/continuous delivery rather than Lean, but the alignment in method and philosophy is substantial. Minor deductions are reflected in slightly lower scores for direct mention and signal since Lean as a category is not foregrounded nor named, but the depth, intent, and audience fit are high. There are no penalties for outdated content or for subversive/critical tone.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content strongly aligns with Lean Principles through its focus on reducing waste, accelerating feedback, and driving continuous improvement, even though it doesn’t explicitly use Lean terminology. Its practical examples and emphasis on value delivery make it highly relevant to Lean, but the lack of direct Lean references slightly lowers its fit for the category. Overall, it’s a solid match in spirit and methodology."
   },
   "Agile Transformation": {
     "resourceId": "_ncZFfeCrnS",
@@ -1002,7 +1014,8 @@
     "ai_penalty_details": "none",
     "final_score": 98.0,
     "reasoning": "The content directly addresses operational practices central to Agile, DevOps, and Lean frameworks. Terms like 'ring-based deployment', 'audience-based deployment', 'continuous delivery', and 'progressive rollout strategies' are not only mentioned repeatedly but also explored in depth with practical, context-rich examples from Microsoft and Azure DevOps teams. Explicit references to metrics, automation, rapid feedback cycles, reducing waste, and eliminating the inefficiencies of traditional pipelines precisely match the core definition of 'Operational Practices.' The purpose is clearly to inform, inspire, and guide practitioners (software engineers, DevOps teams, technical managers) in optimizing delivery processes, thus aligning tightly with the intended audience and operational improvement goals. Detailed breakdowns of deployment models, telemetry usage, and organizational culture shifts further enrich the discussion, showing substantial depth and real-world applicability. The signal-to-noise ratio is extremely high, with nearly all content being relevant, actionable, and focused on best practices, avoiding unrelated theory or business strategies. No penalties were applied, as there are no signs of outdated information, contradictions, or an off-tone approach. The final confidence score is proportionately high due to strong performance across all dimensions, minor fractional differences respecting the safeguards.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Operational Practices' category. It thoroughly explores key Agile, DevOps, and Lean concepts with practical examples, focusing on deployment strategies, automation, and feedback loops. The discussion is highly relevant and actionable for practitioners, offering real-world insights without unnecessary theory, making it both informative and directly applicable."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -1068,7 +1081,8 @@
     "ai_penalty_details": "none",
     "final_score": 73.0,
     "reasoning": "While the content never directly or repeatedly mentions the term 'Technical Leadership' (hence a low Direct Mentions score), it is heavily aligned conceptually with the category: it addresses technical decision-making, team process transformation, risk management, and aligning technical practices (like audience-based deployment, progressive rollout, and feature flags) with business objectives and customer needs. The discussion of Microsoft's transition and its lessons—such as enabling team autonomy, fostering a production-first mindset, and embedding continuous improvement—are all central themes in technical leadership. There is substantive depth, including actionable strategies, case study analysis, and practical steps for teams and organizations, hence a high but not maximal Depth of Discussion score. The audience is technical practitioners and leaders (evidenced by references to DevOps teams, engineers, and those overseeing complex software delivery), so Audience Alignment scores high. The signal-to-noise ratio is strong; almost all content is relevant, with minimal filler or digressions. The main area lacking is explicit terminology (Direct Mentions) and a more pointed treatment of aspects like mentoring/coaching or agile ceremony facilitation, which are mentioned only implicitly. No penalties were needed, as the practices described are current and the tone is serious and aligned. The overall confidence score reflects strong conceptual and practical alignment with Technical Leadership, but is tempered by the lack of explicit reference and some secondary focus areas.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "Although the content doesn’t frequently use the term 'Technical Leadership', it thoroughly explores key leadership themes—like technical decision-making, team autonomy, and aligning engineering practices with business goals. Its practical strategies and case study focus make it highly relevant for technical leaders, even if some aspects (like mentoring) are only touched on indirectly."
   },
   "Product Discovery": {
     "resourceId": "_ncZFfeCrnS",
@@ -1161,7 +1175,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses various deployment strategies, particularly audience-based deployment, which aligns closely with the methodologies of deploying software into production. It provides detailed insights into progressive rollouts, feature flags, and the importance of real-time observability, all of which are key topics under the category. The depth of discussion is significant, with practical examples from Microsoft’s deployment practices, making it a primary focus rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores deployment strategies like audience-based rollouts and feature flags. It offers practical insights and real-world examples, particularly from Microsoft, highlighting best practices and the importance of observability. The detailed focus on these deployment methodologies makes it highly relevant and central to the category."
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1188,7 +1203,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content provides an in-depth exploration of audience-based (ring-based) deployment, analyzing its purpose, strategies, and impact on quality, value delivery, and engineering practices. Direct references to continuous delivery, DevOps, CI/CD, progressive rollout, feature flags, observability, and technical best practices strongly signal alignment with the principles of Technical Mastery. Mentions of clean code and explicit 'technical mastery' phrasing are less direct (hence only 7.2 on mentions), but terms like 'software engineering', 'DevOps', 'architecture', 'testing', and 'continuous improvement' are threaded throughout. The discussion goes far beyond surface, explaining the evolution at Microsoft, best practice lessons, branching strategies, feedback loops, and implementation specifics in technical depth, resulting in a near-max depth score. The intent is highly relevant, seeking to educate and guide technical teams on modern software delivery and quality management—very strong intent fit. The audience is clearly technical: software engineers, DevOps practitioners, engineering leads. There’s no off-topic drift, and nearly all content reinforces technical best practices (high signal-to-noise). No outdated methods are promoted; the practices discussed (e.g., observability, progressive rollouts) are current and reputable, and the tone is earnest and instructive (not satirical or undermining). No penalties were required. The final weighted confidence is thus very high and proportionate to the clarity, technical specificity, and sustained focus of the piece.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Technical Mastery category. It thoroughly explores advanced deployment strategies, referencing modern engineering practices like DevOps, CI/CD, and observability. The discussion is technically deep, aimed at a knowledgeable audience, and consistently reinforces best practices, making it highly relevant and up-to-date for technical professionals."
   },
   "Release Management": {
     "category": "Release Management",
@@ -1200,7 +1216,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses modern release strategies, particularly audience-based deployment, which aligns closely with release management principles. It covers key aspects such as incremental feature releases, feedback loops, and the importance of real-time telemetry, all of which are central to effective release management. The depth of discussion is significant, providing detailed insights into practices that enhance release processes, making it a primary focus rather than a secondary mention.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the release management category, as it delves into audience-based deployment and related strategies. It highlights essential practices like incremental rollouts, gathering user feedback, and leveraging real-time data—core elements of effective release management. The detailed exploration of these topics shows that release management is the main focus, not just a passing reference."
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -1455,7 +1472,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "The content is an in-depth exploration of audience-based (ring-based) deployment as a strategy to maximize feedback, improve quality, and enable market adaptability in software delivery. It directly references and thoroughly exemplifies core topics from the Market Adaptability definition, including Agile/DevOps/Lean methods for rapid feedback, customer-focused adaptability, cross-team collaboration, progressive delivery strategies, and supporting case studies (notably Microsoft and Azure DevOps). Concepts like continuous improvement, observability, telemetry, and culture change are prominent and closely aligned with the category’s scope. The purpose is highly relevant: providing guidance and rationale for evolving deployment strategies to be more agile and responsive to market shifts. The content is tailored for technical practitioners, engineering leaders, and strategists in fast-evolving environments, matching the intended audience. There is minimal digression or filler, with most information supporting the theme of adaptability in dynamic markets. No penalties are warranted; the content is current, not critical, satirical or outdated. The high, but differentiated, dimension scores reflect its nearly exemplary association—only small deductions from perfection to avoid rounding. The weighted scoring calculation proportionally rewards the explicit, deep, and focused discussion tightly coupled to Market Adaptability.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Market Adaptability category. It thoroughly discusses audience-based deployment strategies, directly linking them to adaptability, rapid feedback, and continuous improvement. The focus on Agile, DevOps, and real-world case studies ensures relevance for technical leaders seeking to enhance responsiveness in dynamic markets. The content is clear, purposeful, and highly aligned with the category’s core themes."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -1476,7 +1494,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses audience-based deployment, a modern DevOps practice that emphasises continuous delivery, feedback loops, and automation. It highlights the cultural shift required for effective DevOps implementation, particularly in the context of Microsoft’s transformation. The discussion includes key principles such as reducing silos, embracing automation, and the importance of real-time observability, all of which align closely with the core themes of DevOps. The depth of the discussion is significant, providing detailed strategies and examples, particularly from Microsoft, which reinforces its relevance to the DevOps category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the DevOps category, as it delves into audience-based deployment and the cultural changes essential for successful DevOps adoption. By focusing on automation, feedback loops, and real-time observability—supported by detailed examples from Microsoft—it clearly aligns with core DevOps principles and practices."
   },
   "Azure DevOps": {
     "resourceId": "_ncZFfeCrnS",
@@ -1494,7 +1513,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content provides an in-depth exploration of modern deployment strategies such as ring-based and audience-based deployment, contextualized within Microsoft's evolution to Azure DevOps. Azure DevOps itself is mentioned directly and frequently, with detailed discussions of its implementation, best practices, team strategies, and direct outcomes (e.g., faster feedback loops, telemetry-driven rollouts). The article references both the Azure DevOps product/team and Microsoft's broader DevOps transformation, firmly anchoring the primary discussion to this category. The alignment with key topics like CI/CD, progressive delivery, feedback loops, and large-scale rollouts is strong. The audience is mainly practitioners, DevOps engineers, and technical leaders seeking process and tooling insights. Around 90% of the discussion is relevant; some general references to DevOps/culture are present, but nearly always linked back to Azure DevOps practices and lessons learned. There is no outdated advice or off-tone criticism warranting deductions. Overall, the reasoning, examples, and context yield a very high (but not perfect) confidence that this content thoroughly fits the Azure DevOps category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is highly relevant to the Azure DevOps category, as it delves into deployment strategies and best practices directly tied to Azure DevOps. It offers practical insights for DevOps professionals, focusing on real-world applications, team experiences, and outcomes. While there are some broader DevOps references, the discussion consistently relates back to Azure DevOps, making it a strong fit for this category."
   },
   "Business Agility": {
     "resourceId": "_ncZFfeCrnS",
@@ -1512,7 +1532,8 @@
     "ai_penalty_details": "none",
     "final_score": 83.0,
     "reasoning": "The content focuses extensively on audience-based (ring-based) deployment as a method to accelerate feedback loops, improve quality, and maximize value through continuous delivery. While the explicit phrase 'business agility' is not repeatedly mentioned, the article strongly aligns with the conceptual definition of enabling organizations to rapidly adapt, iterate, and innovate—in line with business agility principles. The discussion incorporates cultural, leadership, structural, and technological changes required for this shift, including real-world case studies such as Microsoft's DevOps transformation. The depth of exploration is high, covering not only the technical approach but also organizational mindsets, user-centric concepts, progressive rollout strategies, and the impact on business responsiveness. The intent is practical and instructive, targeting leaders, engineering teams, and strategists responsible for driving agile transformations and modern deployments—precisely the audience the category seeks to address. The content maintains high focus, with minimal off-topic or filler material. The one relative weakness is in 'Direct Mentions,' as the term 'business agility' itself is not a repeated focal point, though all content supports it in practice. There are no outdated references or contradictory tones. Confidence reflects strong substantive alignment and depth, slightly moderated by explicit mentions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the business agility category. It thoroughly explores how ring-based deployment supports rapid adaptation and innovation, key aspects of business agility. While the term itself isn’t used often, the article’s focus on organisational change, leadership, and practical strategies makes it highly relevant for those driving agile transformation. The depth and practical examples further reinforce its alignment with the category."
   },
   "Kanban": {
     "category": "Kanban",
@@ -1533,7 +1554,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses audience-based deployment and its benefits, which directly ties into the principles of iterative development and continuous delivery of value. It highlights strategies for maximising customer value through real-time feedback and progressive rollouts, aligning well with the core themes of the Value Delivery category. The depth of discussion is significant, providing detailed examples and lessons learned from Microsoft’s transformation, which further supports its relevance to value delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Value Delivery category, as it focuses on how audience-based deployment enhances iterative development and ensures continuous value to customers. By exploring real-time feedback, progressive rollouts, and sharing practical examples, it clearly demonstrates strategies that maximise customer value and align with the core principles of value delivery."
   },
   "Technical Excellence": {
     "resourceId": "_ncZFfeCrnS",
@@ -1551,7 +1573,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The content deeply explores advanced engineering practices central to Technical Excellence: audience-based (ring-based) deployment, progressive rollout strategies, the shift from traditional environments, observability, feedback loops, and learning organizations. While the term 'technical excellence' is not directly mentioned often, the discussion explicitly and thoroughly covers numerous key practices (CI/CD, DevOps, monitoring, automation, feature flags, shift-left testing) that represent the category's conceptual heart. There are rich, detailed examples (Microsoft/Azure DevOps/Windows Teams) illustrating these practices at scale. The discussion goes far beyond surface-level descriptions: it includes operational, organizational, and cultural change aspects, with clear ties to quality, ROI, maintainability, and adaptiveness. The intent is squarely aimed at highlighting how such practices drive quality and value, matching the category purpose. The audience is engineering teams and leaders—those positioned to implement technical excellence practices, although executives and those less technical could follow the main arguments. Signal is high: nearly the entirety of the content focuses on the interplay between modern deployment techniques and quality improvement, with only occasional anecdotal asides or tangential remarks. No penalties are needed: content is current, practices are state-of-the-art, and tone is strongly positive and instructive. The confidence score accurately reflects the strong direct and thematic fit, balanced by an only mildly less direct use of the term and slightly less focus on certain peripheral technical excellence concepts (such as modular architecture).",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Technical Excellence category. It thoroughly discusses advanced engineering practices—like CI/CD, DevOps, and observability—using detailed, real-world examples. The focus is on how these methods drive quality and value, making it highly relevant for engineering teams aiming to achieve technical excellence. The discussion is practical, current, and clearly intended for a technical audience."
   },
   "Organisational Agility": {
     "category": "Organisational Agility",
@@ -1563,7 +1586,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses modern deployment strategies that enhance organisational agility, particularly through audience-based deployment and continuous delivery. It highlights the importance of rapid feedback loops, cultural shifts towards automation, and the need for organisations to adapt to user needs swiftly. The depth of discussion on how Microsoft transformed its deployment practices and the emphasis on real-time telemetry and user engagement align closely with the core themes of organisational agility. The content does not merely mention agility but provides a comprehensive exploration of its principles and practices, making it a primary focus.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the organisational agility category, as it thoroughly explores how modern deployment strategies—like audience-based releases and continuous delivery—drive faster adaptation and responsiveness. By detailing cultural changes, automation, and real-time feedback, it clearly demonstrates how these practices underpin and advance organisational agility."
   },
   "Personal": {
     "resourceId": "_ncZFfeCrnS",
@@ -1605,7 +1629,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of feedback loops, telemetry, and real-time observability, which are crucial for metrics and learning. It highlights how audience-based deployment allows for faster feedback and iterative improvements, aligning with the core themes of the category. However, while it touches on these aspects, the primary focus is on deployment strategies rather than a comprehensive exploration of metrics and learning methodologies, leading to a moderately high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the category as it emphasises feedback mechanisms, telemetry, and real-time observability—key elements for effective metrics and learning. While its main focus is on deployment strategies, it still addresses how these strategies support rapid feedback and continuous improvement, making it a strong, though not exhaustive, fit for the category."
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1758,7 +1783,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses the concept of 'shifting left' in the context of quality assurance and deployment strategies, particularly highlighting the importance of detecting and addressing issues earlier in the development cycle. It provides insights into audience-based deployment and its benefits, which align with the principles of the Shift-Left Strategy. However, while it mentions the concept, the primary focus is on deployment strategies rather than a comprehensive exploration of Shift-Left practices, leading to a high but not perfect confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is relevant to the Shift-Left Strategy category as it explores how early issue detection and audience-based deployment can improve quality assurance. While it references shift-left principles, its main emphasis is on deployment tactics rather than a deep dive into shift-left methodologies, making it a strong but not definitive fit for the category."
   },
   "Continuous Improvement": {
     "resourceId": "_ncZFfeCrnS",
@@ -1776,7 +1802,8 @@
     "ai_penalty_details": "none",
     "final_score": 94.0,
     "reasoning": "The content is highly relevant to the 'Continuous Improvement' category. Direct mentions of continuous improvement occur in the text ('this isn’t just DevOps done well; it’s a learning engine driving [continuous improvement] across Microsoft’s ecosystem'), alongside discussions about practices that directly foster continual reflection, adaptation, and process optimization, which matches the category definition. The entire structure of the post revolves around empiricism (telemetry, real-time feedback), incremental improvements (progressive rollouts, faster feedback, and reduced blast radius), and organizational learning (Microsoft and Azure DevOps case studies). The depth of discussion is exceptional, exploring both practical strategies (feature flags, observability, rolling forward, progressive delivery) and cultural shifts (automation, discipline, team/organizational transformation). Intent is tightly aligned, aiming to encourage actual adoption and cultural shift toward continuous feedback loops and learning, not just technical change. The audience is a strong fit, geared toward practitioners, technical leaders, and strategic change agents in software delivery—matching likely readers interested in continuous improvement. Signal-to-noise ratio is high, with minimal filler and the majority of the post focused on relevant principles, practices, and lessons. There are no signs of outdatedness, contradiction, or satirical undermining, therefore, no penalties are applied. The final confidence score reflects the strong evidence and depth shown throughout the content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Continuous Improvement' category. It thoroughly explores both the practical and cultural aspects of ongoing enhancement, using real-world examples and actionable strategies. The focus on learning, feedback, and adaptation aligns perfectly with the category, making it highly relevant for professionals seeking to drive continuous improvement in their organisations."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1854,7 +1881,8 @@
     "ai_penalty_details": "none",
     "final_score": 95.0,
     "reasoning": "The content extensively discusses iterative methodologies such as audience-based (ring-based) deployment, continuous delivery, and rapid feedback loops, all central to modern product development. Although 'Product Development' is not always directly named, the discussion aligns deeply with its principles: minimising risk, leveraging customer feedback, aligning strategy and delivery, and enabling continuous improvement. Practical examples (Microsoft/Azure DevOps, Windows Insider programs) and detailed process descriptions demonstrate both depth and relevance. The audience is clearly product teams and leaders who influence product lifecycle decisions. The discussion avoids tangential technical implementation, instead contextualising DevOps and other practices as tools for product value delivery. No dimension warrants a penalty: the tone is current, authoritative, and complimentary to the category definition.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the 'Product Development' category, as it explores key practices like iterative releases, customer feedback integration, and risk reduction—core to modern product development. The use of real-world examples and focus on strategic alignment make it highly relevant for product teams, even though the term isn’t always explicitly used. The discussion is practical, insightful, and directly supports the category’s intent."
   },
   "Project Management": {
     "resourceId": "_ncZFfeCrnS",
@@ -1926,7 +1954,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses audience-based deployment and its benefits, which directly relate to improving Time to Market by enabling faster feedback and reducing delays in the delivery process. It highlights the inefficiencies of traditional deployment methods and presents strategies for optimising deployment processes, aligning well with the core themes of Time to Market. The depth of discussion includes specific examples from Microsoft, illustrating successful improvements in deployment speed and quality, which further supports the classification. However, while Time to Market is a significant focus, the content also delves into broader DevOps practices, which slightly detracts from a perfect alignment.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Time to Market category, as it explores how audience-based deployment accelerates delivery and feedback cycles. By contrasting traditional and modern approaches, and using real-world examples, it clearly demonstrates strategies to reduce delays. While it also touches on broader DevOps themes, the main emphasis remains on optimising deployment speed and efficiency."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -2023,7 +2052,8 @@
     "non_ai_confidence": null,
     "final_score": 73.0,
     "reasoning": "The content provides a thorough discussion on the principle of audience-based deployment as an actionable framework in software delivery. It outlines how this principle transforms traditional methods, emphasizing continuous improvement, adaptability, and customer collaboration, which align with Agile and DevOps principles. While it mentions various strategies like feature flags and progressive delivery, the depth of discussion regarding how these aspects integrate with the principles governing team behaviors is substantial. However, the focus occasionally drifts towards operational strategies, which slightly diminishes the strength of the alignment with the 'Principle' category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content largely fits the 'Principle' category, as it delves into audience-based deployment as a guiding framework and connects it to Agile and DevOps values. It thoughtfully explores how this principle shapes team behaviours and continuous improvement. However, the inclusion of operational tactics sometimes shifts the focus away from pure principles, making the alignment strong but not absolute."
   },
   "Tool": {
     "resourceId": "_ncZFfeCrnS",
@@ -2036,7 +2066,8 @@
     "non_ai_confidence": null,
     "final_score": 89.0,
     "reasoning": "The content deeply discusses audience-based deployment, particularly in the context of Azure DevOps, which is a specific tool used for managing and implementing software delivery practices. The article provides a comprehensive overview of deployment strategies and practices that utilize tools like feature flags and telemetry, aligning closely with the core themes of the 'Tool' category. It explains how Azure DevOps facilitates the deployment process, improving workflows and team collaboration. The depth of discussion includes practical strategies for implementation and specific examples from Microsoft, showcasing best practices and tool functionalities. Thus, it scores highly in all evaluation dimensions, making it very relevant to the 'Tool' classification.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Tool' category, as it thoroughly explores how Azure DevOps supports audience-based deployment. It covers practical strategies, highlights tool-specific features like feature flags and telemetry, and demonstrates how these enhance workflows and collaboration. The detailed examples and best practices further reinforce its relevance to this classification."
   },
   "Values": {
     "resourceId": "_ncZFfeCrnS",
@@ -2101,7 +2132,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content explicitly discusses observability in the context of audience-based deployment and continuous delivery. Key aspects like real-time observability, the use of logging, metrics, and telemetry are mentioned repeatedly and are shown to be integral to the deployment strategy proposed. It presents depth by explaining how these elements help detect issues in real-time and improve deployment processes. However, while observability plays a significant role, the overall focus of the content leans more towards the methodology of deployment rather than an in-depth exploration of observability principles themselves, hence the score does not reach the maximum.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it highlights the importance of observability within audience-based deployment and continuous delivery. It discusses how tools like logging and telemetry support real-time issue detection and process improvement. However, the main emphasis is on deployment strategies rather than a deep dive into observability concepts, so it only partially fits the category."
   },
   "Practice": {
     "resourceId": "_ncZFfeCrnS",
@@ -2114,7 +2146,8 @@
     "non_ai_confidence": null,
     "final_score": 78.0,
     "reasoning": "The content discusses practical techniques related to audience-based deployment and how it transforms continuous delivery. It provides actionable strategies like feature flags, progressive delivery, and real-time observability, which align closely with the core themes of the Practice category. It mentions fostering a production-first mindset, which is essential for continuous improvement. Although it includes specific references to Microsoft’s deployment strategy, overall, it focuses on practical implementation and encourages adoption of new practices for better effectiveness and value delivery.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Practice category because it centres on hands-on strategies like feature flags and progressive delivery, offering clear guidance for real-world application. By emphasising a production-first mindset and continuous improvement, it encourages readers to adopt proven methods that enhance delivery effectiveness, making it highly relevant to practitioners seeking actionable advice."
   },
   "Method": {
     "resourceId": "_ncZFfeCrnS",
@@ -2127,7 +2160,8 @@
     "non_ai_confidence": null,
     "final_score": 87.0,
     "reasoning": "The content discusses structured procedures and strategies around audience-based deployment and continuous delivery practices. It explicitly describes methodologies for implementing these advancements, such as utilizing feature flags, progressive delivery, and real-time observability. The content is deeply rooted in procedural guidance, detailing steps and strategies that can enhance deployment methods, thereby aligning closely with the 'Method' category. There are numerous mentions of key strategies and concepts related to the methodical application of these practices, providing a robust depth of discussion.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Method' category, as it thoroughly explores step-by-step strategies and best practices for audience-based deployment and continuous delivery. By outlining specific techniques like feature flags and progressive delivery, it offers clear procedural guidance, making it highly relevant for readers seeking actionable methods to improve deployment processes."
   },
   "Model": {
     "resourceId": "_ncZFfeCrnS",
@@ -2166,7 +2200,8 @@
     "non_ai_confidence": null,
     "final_score": 80.0,
     "reasoning": "The content primarily discusses the audience-based deployment approach within the context of DevOps, addressing actionable tenets such as faster feedback loops, reduced exposure through progressive rollouts, and strategies for implementing feature flags. It emphasizes the need for cultural shifts and provides specific steps for adopting a more modern deployment mindset, which are aligned with the core themes of tenets in Agile and DevOps methodologies. While the practical explanation and strategies could delve deeper into how these tenets are systematically applied in an organization, the mention of particular principles and practices supports a high confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content clearly fits the category, as it explores key DevOps and Agile principles like audience-based deployment, feedback loops, and progressive rollouts. It also highlights cultural changes and practical steps, aligning well with the core tenets of these methodologies. The discussion is relevant and demonstrates a strong understanding of the subject."
   },
   "Capability": {
     "resourceId": "_ncZFfeCrnS",

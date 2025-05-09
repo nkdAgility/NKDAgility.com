@@ -9,7 +9,8 @@
     "non_ai_confidence": 50,
     "final_score": 92.0,
     "reasoning": "The content provides a comprehensive overview of Azure Boards as a tool for managing Agile projects, explicitly discussing its functionalities and integration within Agile methodologies. It highlights how Azure Boards facilitates workflows, enhances collaboration, and supports continuous improvement, aligning well with the core themes of the 'Tool' category. The depth of discussion is substantial, covering various aspects of the tool's impact on team performance and project management, which justifies a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly belongs in the 'Tool' category, as it thoroughly explores Azure Boards’ features and its role in Agile project management. By detailing how the tool streamlines workflows and boosts team collaboration, the discussion directly addresses the practical benefits and applications of Azure Boards, making the classification highly appropriate."
   },
   "Accountability": {
     "category": "Accountability",
@@ -129,7 +130,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses Azure Boards as a tool for managing Agile projects, which aligns with the concept of capabilities by emphasising the importance of transparency, accountability, and continuous improvement. It highlights how Azure Boards fosters a culture that supports organisational agility and adaptability, which are key characteristics of capabilities. However, the primary focus on the tool itself and its features detracts from a deeper exploration of capabilities as enduring competencies, leading to a slightly lower confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category because it explores how Azure Boards supports Agile project management by promoting transparency and adaptability—traits linked to organisational capabilities. However, since the main emphasis is on the tool’s features rather than on broader, lasting competencies, the alignment with the category is present but not fully comprehensive."
   },
   "Model": {
     "category": "Model",
@@ -153,7 +155,8 @@
     "non_ai_confidence": 30,
     "final_score": 78.0,
     "reasoning": "The content discusses Azure Boards in the context of Agile project management, highlighting principles such as continuous improvement, value delivery, and adaptability. It explicitly mentions how Azure Boards fosters transparency, accountability, and a culture of ongoing learning, which aligns well with the core themes of the 'Principle' category. The depth of discussion is substantial, as it elaborates on how the tool supports Agile methodologies and enhances team collaboration, making it a primary focus rather than a secondary mention.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Principle' category because it delves into how Azure Boards embodies key Agile values like transparency, adaptability, and continuous improvement. By focusing on how the tool supports these foundational concepts and enhances team collaboration, the discussion goes beyond surface-level features, making principles the central theme."
   },
   "Artifact": {
     "category": "Artifact",
@@ -213,7 +216,8 @@
     "ai_penalty_details": "none",
     "final_score": 89.0,
     "reasoning": "The content centers on Azure Boards as a tool specifically intended to support Agile project management, closely matching the Collaboration Tools category. 'Collaboration' and 'communication' are explicitly mentioned, and features discussed (work tracking, backlogs, visual boards for Scrum/Kanban, team alignment, transparency) are all precise fits with core topics for this category. The integration with other Azure DevOps services and discussion of continuous improvement reinforce depth and conceptual alignment. The content targets Agile teams and practitioners, as intended. There is minimal extraneous content or off-topic material, resulting in a high signal-to-noise ratio. No penalty is necessary, as the tone is constructive and current. Mentions scored slightly lower since 'collaboration tools' as a phrase appears less frequently, but the function and impact are made clear. Overall, confidence is high due to strong coverage of features, best practices, and alignment with Agile principles.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Collaboration Tools category, as it thoroughly explores how Azure Boards supports Agile teams through features like work tracking, visual boards, and team alignment. The focus on communication, transparency, and integration with other DevOps tools further reinforces its relevance, making it highly suitable for this classification."
   },
   "Business Agility": {
     "resourceId": "Azure Boards",
@@ -249,7 +253,8 @@
     "ai_penalty_details": "none",
     "final_score": 89.0,
     "reasoning": "The content explicitly associates Azure Boards with managing Agile projects and highlights its role in enhancing collaboration, transparency, continuous improvement, and adaptability. Direct mentions of 'organisational agility' and the use of related concepts—agile methodologies, Scrum, Kanban, continuous improvement, customer feedback—align strongly with the category's definition. The discussion provides substantial depth on how Azure Boards facilitates these practices, going beyond surface-level tool features and linking them to broader organisational agility outcomes. The intent is clearly to inform practitioners or strategists about how Azure Boards supports Agile transformation. Audience targeting is well-aligned, appealing to both technical teams and leaders interested in agility. The content is focused, with minimal off-topic information. No penalties are warranted; the tool and its described use are current and fully supportive of the Organisational Agility category. A final confidence score of 88.9 accurately reflects strong conceptual and practical alignment, moderated slightly by less frequent explicit mentions compared to conceptual discussion.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Organisational Agility category. It clearly explains how Azure Boards supports Agile practices, emphasising collaboration, transparency, and adaptability. The discussion connects tool features to broader agility outcomes, making it relevant for both technical teams and leaders. The focus remains on Agile transformation, with minimal off-topic content, ensuring high alignment with the category’s intent."
   },
   "Backlog Refinement": {
     "resourceId": "Azure Boards",
@@ -303,7 +308,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content thoroughly describes Azure Boards as a tool supporting Agile project management, referencing Agile methodologies such as Scrum and Kanban, continuous delivery, and adaptability. It explicitly connects Azure Boards' features to fostering organisational agility, continuous improvement, and alignment of teams, which strongly fits the 'Agile Strategy' category. However, it mostly focuses on tool capabilities and project/team outcomes rather than high-level strategic execution, organisational vision, or leadership roles in Agile transformation. Direct mentions of 'Agile Strategy' are absent, but Agile principles and their integration into workflow and culture are prominent. The primary audience appears to be practitioners and team leads, with some strategic implications, but not entirely for executive strategists. Content is focused, relevant, and lacks any outdated or critical framing regarding Agile. Thus, all scores are well above average, with slightly lower values for direct mentions and a high overall confidence, yet not the maximum due to the lack of explicit discussion on aligning Agile with organisational vision at the strategic leadership level.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the 'Agile Strategy' category, as it clearly links Azure Boards’ features to Agile principles and team practices. While it highlights how the tool supports agility and continuous improvement, it doesn’t delve deeply into executive-level strategy or organisational vision. The focus is more on practical application than high-level leadership, making it highly relevant but not a perfect match for strategic audiences."
   },
   "Current Value": {
     "resourceId": "Azure Boards",
@@ -429,7 +435,8 @@
     "ai_penalty_details": "none",
     "final_score": 79.0,
     "reasoning": "The content clearly describes Azure Boards as a tool for managing Agile projects, referencing principles like transparency, adaptation, and continuous improvement—core aspects of empirical process control. It touches on concepts such as team alignment, collaboration, responding to feedback, and supports Scrum and Kanban, which are directly related. However, the explicit term 'empirical process control' is not mentioned, and while depth is good (e.g., discussion of transparency, adaptation, workflow bottlenecks), it stops short of substantial theoretical discussion or referencing Agile thought leaders. The intent is strongly aligned, targeting Agile practitioners, project managers, and team leads—the primary audience for empirical process control. The content is highly focused on relevant aspects, but some ancillary detail about integration and general DevOps could be considered tangential. No outdated or negative tone is present. The final confidence reflects the strong conceptual and audience fit, moderate explicitness, and solid depth.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly covers Agile project management concepts like transparency, adaptation, and continuous improvement—key elements of empirical process control. While it doesn’t use the exact term or delve deeply into theory, its focus and relevance to Agile practitioners make it highly suitable. Some minor tangents exist, but overall, the alignment and depth are solid."
   },
   "Agile Leadership": {
     "resourceId": "Azure Boards",
@@ -483,7 +490,8 @@
     "ai_penalty_details": "none",
     "final_score": 83.0,
     "reasoning": "The content directly discusses how Azure Boards supports the management of Agile projects, mentioning methodologies like Scrum and Kanban, which are central to Market Adaptability. It goes beyond surface-level references by detailing features such as real-time data for adapting processes, workflow analysis, and continuous improvement—which maps tightly to the category's conceptual focus. The discussion emphasizes organisational agility, transparency, continuous delivery, and improvement, further underlining alignment with Market Adaptability principles. The audience is practitioners and strategists interested in Agile/DevOps workflows, closely matching the intended category audience. There are several explicit references to Agile and Lean methodologies, but the phrase 'market adaptability' is not directly used, warranting a slightly reduced mentions score. A few sentences describe general tool benefits rather than directly expanding on adaptability, which lowers the signal-to-noise ratio marginally. No penalties were applied, as the content is up-to-date, positive, and highly relevant. The overall confidence is high, reflecting the strong depth, alignment, and intent found in the content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Market Adaptability category, as it thoroughly explores how Azure Boards enables Agile project management and continuous improvement. By highlighting features that support organisational agility and referencing key methodologies, it clearly addresses the needs of practitioners focused on adapting to market changes, even if the exact term 'market adaptability' isn't used."
   },
   "Daily Scrum": {
     "resourceId": "Azure Boards",
@@ -681,7 +689,8 @@
     "ai_penalty_details": "none",
     "final_score": 86.0,
     "reasoning": "The content focuses on how Azure Boards supports teams in managing agile projects by tracking work items, optimizing planning, and enhancing collaboration. This directly maps to evaluating and improving delivery capability at the team level, matching the 'Team Performance' classification's definition. Mentions of team collaboration, tracking capacity, workflows, bottlenecks, and delivery outcomes clearly align with the core concepts. The depth is strong, as the content moves beyond simple tool description to discuss how Azure Boards enables systemic insights (such as analyzing workflows and fostering continuous improvement). The main intent is to inform practitioners or teams about how Azure Boards can improve their delivery and effectiveness, which fits the target audience and purpose. While the content does not cite explicit delivery metrics or case studies, it deals substantially with system-level team functioning. The signal-to-noise ratio is high; almost all content is relevant to team performance, with little filler. There are no outdated references or contradictory tones. All dimensions were scored uniquely to ensure proper calibration. The resulting confidence score reflects high—but not perfect—fit, as the discussion could be more explicit in directly referencing delivery metrics, but the conceptual and systemic ties are deeply embedded throughout the content.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the 'Team Performance' category, as it thoroughly explores how Azure Boards helps teams manage agile projects, track progress, and improve collaboration. The focus on workflows, bottlenecks, and continuous improvement directly supports team delivery capability, making it highly relevant for practitioners aiming to enhance team effectiveness."
   },
   "Platform Engineering": {
     "resourceId": "Azure Boards",
@@ -897,7 +906,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content frequently and explicitly references core Product Development concepts, such as Agile methodologies, Scrum, Kanban, continuous improvement, and the integration of strategy, discovery, and delivery. It directly aligns with the category’s definition by emphasizing iterative processes, transparency, customer feedback adaptation, and risk mitigation through tools like Azure Boards. The discussion goes beyond mere feature-listing to articulate how Azure Boards fosters team alignment, accountability, and organisational agility—core outcomes of mature product development practices. While 'Product Development' as a phrase is not excessively repeated, the underlying themes and explicit coverage of key topics result in a strong Direct Mentions score. Depth is high, supported by explanations of value delivery, process optimisation, and integration with DevOps. The intent is to inform and support product managers, scrum masters, or teams aiming to improve product development processes, aligning well with the intended audience. The discussion is focused, with minimal filler, and signal-to-noise is high. No penalties for outdated information or tone were required, as the content is aligned, positive, and reflects current practice. Weighted scoring returns a confidence score that reflects both the thoroughness and direct relevance of the content to Product Development.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Product Development category, as it thoroughly explores key concepts like Agile, Scrum, and Kanban, and demonstrates how tools such as Azure Boards support iterative improvement, team alignment, and organisational agility. The discussion is focused, relevant, and clearly intended for professionals seeking to enhance their product development processes."
   },
   "Trend Analysis": {
     "resourceId": "Azure Boards",
@@ -1059,7 +1069,8 @@
     "ai_penalty_details": "none",
     "final_score": 76.0,
     "reasoning": "The content discusses Azure Boards primarily as an Agile project management and collaboration tool, with several indirect references to metrics and learning principles. Direct mentions of metrics are limited; the focus is on work tracking, visualisation, and backlog management, with only brief indications of 'analysing workflows', 'identifying bottlenecks', and 'adapting processes based on real-time data'. These elements conceptually support metrics and iterative improvement but are not the main subject. The piece does reference continuous improvement and feedback mechanisms consistent with Agile and Lean principles, providing moderate alignment. There is some depth where it refers to integration with Azure DevOps for data-driven insights, but it does not extensively discuss metrics collection, analysis techniques, or evidence-based management. The intent is aligned with the category, as it promotes tools that support continuous learning and improvement within Agile teams; the audience appropriately targets practitioners implementing Agile or DevOps practices. The signal-to-noise ratio is strong, as the content stays focused and on-topic, but the coverage of metrics is not comprehensive. No penalties are applied as there is no outdated information and the tone is consistent with the category’s positive framing.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it highlights Azure Boards’ role in supporting Agile teams with work tracking and process improvement. While it touches on metrics and continuous learning, these are not the main focus. The discussion is relevant for practitioners interested in Agile or DevOps, but the coverage of metrics and evidence-based management is only moderate, not comprehensive. Overall, the content is focused and appropriately targeted."
   },
   "Product Discovery": {
     "resourceId": "Azure Boards",
@@ -1131,7 +1142,8 @@
     "ai_penalty_details": "none",
     "final_score": 91.0,
     "reasoning": "The content directly addresses Agile Planning by describing how Azure Boards facilitates backlog management, planning optimization, team alignment, prioritization, and adaptation to changing requirements. Explicit references to methodologies like Scrum and Kanban underline alignment with the category. The discussion is substantial, covering specific functions (work tracking, transparency, continuous improvement, team collaboration) and their impact on Agile ways of working, as well as mentioning integration with the wider DevOps ecosystem. The intent is clearly to inform and support teams/practitioners looking to improve Agile Planning, fitting both audience and purpose. The text is focused and relevant throughout, with minimal unrelated or filler content. No penalties apply as the material is current, supportive, and fully agrees with Agile principles.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Agile Planning category, as it thoroughly explains how Azure Boards supports key Agile practices like backlog management, team alignment, and adaptability. By referencing Scrum and Kanban, and detailing practical features, it clearly targets teams aiming to enhance their Agile processes, making it highly relevant and purposeful for this audience."
   },
   "Organisational Psychology": {
     "resourceId": "Azure Boards",
@@ -1311,7 +1323,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content describes Azure Boards as a project management tool deeply integrated with Agile methodologies and DevOps workflows, explicitly referencing concepts like team collaboration, transparency, continuous improvement, and value delivery—hallmarks of Social Technologies. While the tool itself is technical, the discussion foregrounds its impact on collective intelligence, organisational agility, and emergent problem-solving, for example, by noting how Azure Boards enhances collaboration, transparency, and accountability. The content aligns conceptually by highlighting how it supports adaptive planning, feedback-driven improvement, and culture change, which are central to the category. There is direct mention of relevant methodologies (Agile, Scrum, Kanban, Lean) rather than just tool features. The depth of discussion extends beyond surface features to cultural and procedural impacts. The main audience appears to be Agile practitioners and team leads—precisely those targeted by the Social Technologies category. The content is mostly focused, with minor emphasis on tool integration that doesn't detract significantly from category alignment. No outdated practices or contradictory tones are present, so no penalties are applied. Overall, the confidence score reflects a strong conceptual and practical fit, with slightly lower scores for direct mentions and signal due to the content being somewhat tool-centric but still within scope.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Social Technologies category. It goes beyond just describing Azure Boards’ features, focusing on how it fosters collaboration, transparency, and continuous improvement within teams. By highlighting Agile and DevOps practices, it clearly addresses collective intelligence and organisational change, making it highly relevant for professionals interested in social and collaborative work technologies."
   },
   "Product Delivery": {
     "resourceId": "Azure Boards",
@@ -1329,7 +1342,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content directly and repeatedly discusses product delivery themes by referencing Agile project management, planning, prioritization, collaboration, tracking, and continuous improvement. While the phrases 'product delivery' or 'delivery' are not explicitly mentioned frequently, the detailed discussion of Azure Boards’ integration into Agile/DevOps ecosystems and its role in facilitating development, testing, deployment, responding to customer feedback, and fostering continuous delivery clearly align with the 'Product Delivery' category. The depth score reflects that the content goes beyond surface-level by describing processes, benefits, and broad organizational impacts. Intent and audience are a strong fit for practitioners or teams seeking to improve delivery workflows. The signal-to-noise ratio is very high with no filler or unrelated topics. No penalties were applied: the content is current, positive in tone, and practically focused. The direct-mentions score is slightly lower than others as the phrase 'product delivery' is not used verbatim. The final confidence reflects a strong, well-evidenced fit, offset minimally for the lack of explicit terminology.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the 'Product Delivery' category. It thoroughly explores how Azure Boards supports Agile and DevOps practices, focusing on planning, collaboration, and continuous improvement. Even without frequent use of the exact term 'product delivery', the discussion clearly centres on delivery processes, making it highly relevant for teams aiming to enhance their delivery workflows."
   },
   "Portfolio Management": {
     "resourceId": "Azure Boards",
@@ -1383,7 +1397,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content explicitly mentions Agile methodologies, Scrum, Kanban, and the integration with Lean practices—directly referencing foundational concepts of Agile Product Management. It explores how Azure Boards facilitates backlog management, prioritization, transparency, and improvement, all highly relevant to the category. While it offers a moderate level of detail on these points, it does not deeply explore specific product ownership roles, metrics-driven decision-making, or incorporate real-world stakeholder engagement scenarios, so depth is strong but not maximal. The intent and audience clearly match practitioners or leaders interested in Agile product management practices and tools. Nearly all content is signal and relevant, with very little fluff or off-topic material. The lack of penalties is justified, as there is no outdated content or oppositional framing. Overall, the confidence score accurately reflects the content’s fit: strongly relevant but lacking exhaustive depth on some nuanced topics.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for Agile Product Management, as it discusses key frameworks like Scrum and Kanban, and explains how Azure Boards supports core Agile practices such as backlog management and prioritisation. While it doesn’t delve deeply into advanced topics like product ownership or stakeholder engagement, it remains highly relevant and well-targeted for practitioners interested in Agile tools and methods."
   },
   "Product Strategy": {
     "resourceId": "Azure Boards",
@@ -1491,7 +1506,8 @@
     "ai_penalty_details": "none",
     "final_score": 79.0,
     "reasoning": "The content centers on Azure Boards in the context of Agile project management, highlighting visual boards supporting Scrum and Kanban (tools directly associated with flow efficiency). There is explicit reference to identifying bottlenecks and improving workflows—both core to flow optimization. Terms such as 'visual boards,' 'analyse workflows,' 'bottlenecks,' and 'continuous improvement' show strong conceptual alignment. The discussion explains how Azure Boards fosters predictability, transparency, and sustainable delivery using Lean and Agile principles. However, while the material covers key flow efficiency aspects (like WIP visualization and integrated value streams), explicit use of the phrase 'flow efficiency' is absent, and metrics like cycle time or throughput are not directly mentioned. The depth is good but somewhat general, focusing on features and high-level benefits more than specific flow efficiency metrics, limits, or case studies. The audience is practitioners and teams in Agile/DevOps environments, consistent with the classification's intended readers. Most of the content is relevant, with minimal extraneous information. No penalties applied, as the content is current and supports flow efficiency's frame. Confidence score is moderately high, lacking only in direct mention and advanced depth.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the flow efficiency category, as it discusses how Azure Boards support Agile practices like Scrum and Kanban to improve workflow, identify bottlenecks, and drive continuous improvement. While it doesn’t explicitly mention flow efficiency metrics, it clearly targets practitioners aiming to optimise delivery processes, making it highly relevant for the intended audience."
   },
   "Remote Working": {
     "resourceId": "Azure Boards",
@@ -1563,7 +1579,8 @@
     "ai_penalty_details": "none",
     "final_score": 89.0,
     "reasoning": "The content directly references transparency explicitly, noting that Azure Boards 'foster a culture of transparency and accountability.' Furthermore, the main themes—clarity of work, visual boards, team alignment, fostering communication, tracking progress, and continuous improvement—are tightly aligned with the Transparency category's core meaning. The depth is notable as it not only mentions but explains how transparency is facilitated (e.g., clear views of tasks and progress, data-driven workflow analysis) and the broader impact on team culture and project sustainability. While only one direct mention of 'transparency' appears, it is sufficiently central, and the content consistently refers to practices (visualisation, flow, integration across teams) that support openness. The audience—Agile practitioners and team leads—is well matched, and the writing is focused and relevant throughout, with little filler. No outdated concepts or conflicting tones are observed, thus no penalties are warranted. The confidence score is high due to strong thematic and practical congruence with the Transparency definition, even though direct mentions are limited.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Transparency category. It not only highlights transparency as a core value but also details how Azure Boards enable open communication, clear task tracking, and team alignment. The examples and explanations show practical ways transparency is achieved, making the content highly relevant for Agile teams seeking openness and accountability. The focus and tone are appropriate, supporting a confident classification."
   },
   "Experimentation": {
     "resourceId": "Azure Boards",
@@ -1725,7 +1742,8 @@
     "ai_penalty_details": "none",
     "final_score": 72.0,
     "reasoning": "The content focuses on Azure Boards as a project management tool supporting Agile practices, with explicit mentions of Kanban (a Lean tool), continuous improvement, workflow analysis, and value delivery. Direct use of the term 'Lean' appears only in the phrase 'Lean methodologies' within the final paragraph, indicating some but not frequent or deep reference to Lean Thinking by name. Conceptually, the content aligns well, highlighting relevant principles like continuous improvement, flow, value delivery, and Kanban, though value-stream mapping and waste elimination are not discussed directly. The depth of discussion is moderate—it covers how Azure Boards fosters Lean and Agile principles but remains somewhat surface-level, focusing more on tool features than deep Lean Thinking theory. The intent is informative and aimed at practitioners and teams likely aligned with Lean Thinking's target audience. The majority of content is relevant, with minimal off-topic filler. There are no penalties applied, as the tone supports Lean principles, content is current, and there are no references to outdated practices. Overall, the confidence score reflects that while Azure Boards supports Lean practices and the content is conceptually aligned, direct and in-depth engagement with Lean Thinking's core elements is somewhat limited.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Lean Thinking category, as it highlights how Azure Boards supports key Lean principles like continuous improvement, Kanban, and value delivery. While it doesn’t deeply explore Lean theory or core concepts such as value-stream mapping, it remains relevant for practitioners interested in Lean practices, offering a practical overview rather than an in-depth analysis."
   },
   "Lean Startup": {
     "resourceId": "Azure Boards",
@@ -1761,7 +1779,8 @@
     "ai_penalty_details": "none",
     "final_score": 95.0,
     "reasoning": "The content provides a focused and detailed overview of Azure Boards specifically in the context of managing Agile projects, which is the explicit focus of the 'Agile Planning Tools' category. There is direct, repeated mention of both Azure Boards and key Agile concepts such as backlog management, sprint planning, Scrum, Kanban, collaboration, transparency, and team capacity. Conceptual alignment is very high, as the content highlights how Azure Boards enables effective Agile planning, fosters continuous improvement, and integrates broadly with Agile practices within DevOps. The discussion delves beyond surface description, offering insight into workflow analysis, integration benefits, and the promotion of Agile and Lean principles. The intended audience is clearly Agile practitioners or teams seeking to improve Agile project execution. Nearly all content is relevant; there is negligible off-topic information, resulting in a high signal-to-noise ratio. No penalties were warranted, as the content is up-to-date, supportive, and directly on-topic.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the 'Agile Planning Tools' category. It thoroughly explores how Azure Boards supports Agile project management, referencing key practices like backlog management, sprint planning, and team collaboration. The discussion is highly relevant for Agile teams, offering practical insights and demonstrating strong alignment with Agile and Lean principles throughout."
   },
   "Professional Scrum": {
     "resourceId": "Azure Boards",
@@ -1923,7 +1942,8 @@
     "ai_penalty_details": "none",
     "final_score": 76.0,
     "reasoning": "The content introduces Azure Boards as a tool for managing Agile projects and explicitly references Agile, Scrum, and Kanban methodologies. There are some direct mentions of Agile-related terms and principles, including transparency, collaboration, continuous improvement, and adaptability. However, the primary focus is on the features and benefits of the Azure Boards tool itself, not on the broader organisational change process or in-depth strategies essential to comprehensive Agile Transformation. It addresses key Agile practices and outcomes (e.g., responding to change, enabling value delivery, supporting Lean principles) but does not deeply explore leadership roles, cultural shifts, or organisational assessments necessary for a full transformation. The intent is supportive and aligned, targeting practitioners and organisations seeking to improve agility, with content largely relevant to the target audience. The signal-to-noise ratio is solid, but the discussion revolves mainly around tool adoption and optimisation rather than the overarching strategies behind Agile Transformation. No penalties were applied, as the material is current and neither critical nor satirical towards the Agile Transformation category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to Agile Transformation as it highlights how Azure Boards supports Agile practices like Scrum and Kanban, and touches on key principles such as transparency and adaptability. However, it mainly focuses on tool features rather than the broader organisational changes or leadership strategies central to a full Agile Transformation. It’s useful for practitioners, but doesn’t cover the deeper aspects of transformation."
   },
   "Test First Development": {
     "resourceId": "Azure Boards",
@@ -1959,7 +1979,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content directly discusses Azure Boards as a tool for applying Agile, Scrum, and Kanban practices—core operational frameworks referenced in the category definition. There are strong conceptual alignments: it emphasizes process optimization, workflow management, bottleneck identification, transparency, accountability, and continuous improvement—all central to Operational Practices. While the term 'Operational Practices' itself is not explicitly named, nearly all the content's main ideas and examples represent best practices for enhancing operational efficiency as defined by the category. Depth is demonstrated through the discussion of integration with Azure DevOps, analysis of workflows, and the systemic impact on organizational agility. The intent is clearly practical, targeting practitioners and teams engaged in Agile and DevOps delivery rather than non-operational or theoretical themes. Audience fit is high, as it addresses practitioners and operational teams. Signal is very strong, with only minor portions focusing on tool-specific features versus pure methodologies. No penalties are warranted as the content is up-to-date, not critical or satirical, and fully supports the principles of Agile and Lean operations. The resulting high confidence score appropriately reflects both explicit and implicit coverage of Operational Practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Operational Practices category, as it explores how Azure Boards supports Agile, Scrum, and Kanban methods. It focuses on process improvement, workflow management, and team accountability—key aspects of operational excellence. The discussion is practical and relevant for practitioners, clearly aligning with the category’s intent and audience."
   },
   "Sociotechnical Systems": {
     "resourceId": "Azure Boards",
@@ -2013,7 +2034,8 @@
     "ai_penalty_details": "none",
     "final_score": 95.0,
     "reasoning": "The content is tightly focused on Azure Boards, a core feature within the Azure DevOps suite. Direct references to 'Azure Boards' and multiple clear attributions to 'Azure DevOps' maximize the Direct Mentions criteria (9.7). The main themes center on Agile project management, collaboration, and leveraging Azure Boards for transparency and accountability, all of which are fundamentally aligned with the Azure DevOps category (Alignment: 9.8). The discussion moves beyond surface mentions, outlining how Azure Boards supports continuous improvement, integrates with other Azure DevOps tools, and benefits organizational agility, resulting in high Depth (9.4). The Intent is entirely aligned — the goal is to inform technical practitioners about capabilities and best practices in Azure Boards as part of Azure DevOps, achieving 9.6. Audience fit is strong (9.1), targeting teams that use or consider using Azure DevOps for Agile delivery. The Signal-to-Noise Ratio is high (9.0), with virtually all information relevant to Azure DevOps workflows, though the promotional tone and some general statements about Agile and Lean prevent a perfect score. No outdated or contradictory content is present. Final score: 94.6, clearly demonstrating that the content is a focused, relevant, and practically useful example for the Azure DevOps classification.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Azure DevOps category, as it thoroughly explores Azure Boards and its integration within the Azure DevOps suite. It provides practical insights for Agile teams, focusing on collaboration, transparency, and continuous improvement. The discussion is highly relevant for technical practitioners seeking to leverage Azure DevOps tools, making the classification both accurate and valuable."
   },
   "Lean Principles": {
     "resourceId": "Azure Boards",
@@ -2031,7 +2053,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content provides a detailed overview of Azure Boards with an explicit reference to how it supports both Agile and Lean methodologies. There is a direct, though brief, mention of 'Lean' in the final paragraph, as well as core alignment via discussion of continuous improvement, workflow analysis, transparency, and value delivery, all of which are foundational Lean principles. The piece goes beyond superficial mentions by discussing systemic benefits, cross-team collaboration, and ongoing cultural impacts, addressing key Lean themes such as waste reduction, maximizing value, and cultivating improvement mindsets. However, the primary framing of the content is around Agile project management with Lean as a secondary integration, which lowers the direct mention score. The audience appears to primarily be practitioners and managers interested in project optimization—appropriate for the Lean Principles category. The signal-to-noise ratio is high, as the narrative stays on-topic and substantiates practical Lean benefits, even if not using technical Lean jargon or deep-diving into Lean-specific tools. No penalties are justified; the tone is supportive, the information current, and there are no outdated or contradictory elements.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Lean Principles category. While its main focus is Agile project management, it meaningfully integrates Lean concepts like continuous improvement, value delivery, and waste reduction. The discussion is practical and relevant for professionals seeking to optimise workflows, making it suitable for audiences interested in Lean methodologies, even if Lean is not the sole focus."
   },
   "Definition of Done": {
     "resourceId": "Azure Boards",
@@ -2067,7 +2090,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content directly discusses practical applications of Agile and DevOps principles within the Azure Boards tool. It thoroughly explains how Azure Boards facilitates project management by tracking work, optimizing planning, and enhancing team collaboration—topics closely aligned with real-world pragmatic thinking in Agile and DevOps. Specific references to supporting Scrum and Kanban, adapting processes based on real-time data, fostering transparency, and applying Lean principles all demonstrate clear conceptual alignment. The treatment goes beyond surface-level mentions to describe systemic approaches, workflow analysis, and continuous improvement, showcasing a deep and practical discussion. The intent is clearly informative and aimed at practitioners managing Agile projects with modern tools—a close fit to the target audience defined. The content is highly focused, with minimal off-topic information or filler, giving it a strong signal-to-noise ratio. The only dimension somewhat limited is direct mentions: while practical thinking is clearly discussed and exemplified, the term 'pragmatic thinking' itself does not appear, keeping that score below midpoint. There is no evidence of outdated practices, satire, or criticism—no penalties were necessary. Overall, the confidence score is high and appropriately weighted to reflect strong real-world, experience-based engagement with the pragmatic thinking category as defined.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the category, as it offers a detailed, practical look at how Agile and DevOps principles are applied using Azure Boards. It goes beyond theory, focusing on real-world workflows, team collaboration, and continuous improvement—key aspects of pragmatic thinking. While the term 'pragmatic thinking' isn't used directly, the content clearly demonstrates it through actionable insights and relevant examples for practitioners."
   },
   "Employee Engagement": {
     "resourceId": "Azure Boards",
@@ -2193,7 +2217,8 @@
     "ai_penalty_details": "none",
     "final_score": 99.0,
     "reasoning": "The content explicitly and repeatedly refers to Azure Boards, both in title and throughout the description and main body, providing the maximum score for mentions. Conceptual alignment is extremely strong, as the entire discussion is dedicated to explaining Azure Boards' purpose in Agile project management, referencing key areas such as work item tracking, backlog management, integration with Azure DevOps, and Agile methodologies (Scrum, Kanban). The discussion has substantial depth, elaborating on features, integration, and the strategic benefits offered, but could explore specifics like customisation or analytics features even more deeply, which keeps depth just beneath 10. The intent is perfectly matched: informative, empowering, and targeting practitioners aiming to improve Agile workflows. The audience is slightly broader—appropriate for both practitioners and leaders, thus a 9.5. Signal-to-noise is very high, but a 0.5 deduction is warranted because the broad explanatory tone adds general value propositions alongside explicit feature details. There are no outdated or critical references. The confidence score of 98.8 properly reflects the near-perfect fit to the category, with only in-depth technical nuance slightly reducing the top scoring dimensions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the category, as it thoroughly focuses on Azure Boards, detailing its role in Agile project management and integration with Azure DevOps. The discussion is clear, informative, and well-targeted to both practitioners and leaders, though it could delve deeper into advanced features. Overall, it provides strong conceptual alignment and practical value, making it highly relevant and useful for the intended audience."
   },
   "Liberating Structures": {
     "resourceId": "Azure Boards",
@@ -2265,7 +2290,8 @@
     "ai_penalty_details": "none",
     "final_score": 71.0,
     "reasoning": "The content introduces Azure Boards as a tool designed to facilitate Agile project management. There are some direct mentions of Agile philosophy themes: fostering transparency, accountability, continuous improvement, adaptability, collaboration, responding to change, and continuous delivery. Statements such as 'foster a culture of transparency and accountability', 'supports continuous improvement', and 'reinforcing the principles of Agile and Lean methodologies' highlight conceptual alignment. However, the discussion is mostly centered around how a tool (Azure Boards) supports these values in practice, not on in-depth analysis of Agile philosophy itself. There are some philosophical touchpoints, but the depth and intent are subtly more focused on practical application and tool benefits than exploration of pure Agile philosophy. The audience seems to be both practitioners and potentially those interested in the mindset, with a strong operational focus. The signal is fairly high—most of the content is relevant or tangentially relevant—but a minor portion describes tool features over philosophy. No penalties for tone, outdatedness, or contradiction are warranted. The confidence score reflects moderate-to-strong relevance to Agile Philosophy, but does not reach higher because of the tool-and-implementation-heavy framing.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly discusses how Azure Boards supports Agile values in real-world settings, highlighting themes like transparency and continuous improvement. While it touches on Agile philosophy, the focus is more on practical application and tool benefits than deep philosophical exploration. It’s relevant for those interested in Agile principles, but the emphasis on implementation slightly limits its fit for pure Agile Philosophy."
   },
   "Lean": {
     "resourceId": "Azure Boards",
@@ -2283,7 +2309,8 @@
     "ai_penalty_details": "none",
     "final_score": 73.0,
     "reasoning": "The content introduces Azure Boards as a tool primarily designed for Agile project management, with an emphasis on workflow optimization, collaboration, and continuous improvement. Direct mentions of 'Lean' are limited to a single line—'reinforcing the principles of Agile and Lean methodologies'—giving the 'Direct Mentions' dimension a low score. However, the 'Conceptual Alignment' and 'Depth' scores are strong because the content discusses process optimization, continuous improvement, and waste reduction (bottleneck identification)—all key Lean concepts. The 'Intent' score is high since the purpose is to inform readers about using Azure Boards to enhance value delivery and improvement, which fits Lean's objectives. The content targets practitioners of Agile/Lean and technical project teams, justifying a good 'Audience Alignment' score. The 'Signal-to-Noise' ratio is very high, as all information is focused on process improvement, workflow, and tools; there is no apparent filler. No penalties were applied, as the content is current, objective, and does not undermine Lean principles. Notably, while Lean is not the central focus, Lean practices are integrated into the description, supporting a solid but not maximal confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content is a strong fit for the Lean category, as it highlights process optimisation, continuous improvement, and waste reduction—core Lean principles—even though direct references to Lean are minimal. Its focus on practical tools and value delivery aligns well with Lean objectives, making it highly relevant for Agile and Lean practitioners seeking actionable insights."
   },
   "Psychological Safety": {
     "resourceId": "Azure Boards",
@@ -2463,7 +2490,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content explicitly references 'continuous improvement' and discusses its role in Agile project management via Azure Boards (Direct Mentions: 8.3). There is strong conceptual alignment—the description addresses fostering a culture of ongoing reflection, use of real-time data to adapt processes, and responds rapidly to feedback, all central to Continuous Improvement (Alignment: 9.7). While the depth is solid and moves beyond mere tool functionality to cover improvement mindset and links to Agile/Lean, it does not provide extensive technical frameworks or detailed case studies (Depth: 8.8). The intent is to position Azure Boards as a means to achieve and sustain continuous improvement practices (Intent: 9.1). The likely audience (Agile practitioners, DevOps teams, managers) aligns well, though it is not specifically tailored to C-level strategists (Audience: 8.4). Most of the content is highly relevant, with minimal fluff or digression (Signal: 8.8). There are no outdated references or contradicting tones, so no penalties are applied. The high confidence score reflects the focus on continuous improvement as an integral theme, with only slight deductions where depth and specificity could be richer.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Improvement category, as it clearly explores how Azure Boards supports ongoing process enhancement within Agile teams. It goes beyond tool features, emphasising a mindset of reflection and adaptation, which is central to continuous improvement. While it could offer more technical depth, its focus and relevance make it highly suitable for practitioners seeking to foster improvement."
   },
   "Forecasting": {
     "resourceId": "Azure Boards",
@@ -2571,7 +2599,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content discusses Azure Boards as an Agile project management tool, emphasizing its ability to enhance team collaboration, communication, and alignment within Agile and DevOps environments. There are explicit mentions of collaboration, teamwork, and the impact on team dynamics, fitting the category criteria. The main ideas—such as fostering transparency, facilitating alignment, and enabling responsive teams—demonstrate strong conceptual alignment. However, the depth focuses largely on tool features and generalized benefits rather than deeply exploring techniques or cultural practices for collaboration; for example, it does not extensively discuss strategies for psychological safety, cross-functionality, or shared ownership. The audience is clearly Agile/DevOps practitioners, matching the intended category. Most content is relevant, with just a small portion dedicated to broader integrations and organizational benefits, which slightly dilutes the direct signal. No penalties were necessary as the content is up-to-date, on-topic, and aligns constructively with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category, as it highlights how Azure Boards supports collaboration and teamwork in Agile and DevOps settings. It clearly addresses team alignment and communication, though it focuses more on tool features than on in-depth collaborative techniques or cultural aspects. The target audience and main themes are well aligned, making the content relevant and appropriate for the category."
   },
   "Hybrid Agile": {
     "resourceId": "Azure Boards",
@@ -2697,7 +2726,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content directly references value delivery by highlighting Azure Boards' role in enabling teams to 'deliver value predictably and sustainably', referencing continuous improvement, responding to customer feedback, and reinforcing Agile and Lean principles. These are central to the Value Delivery category. While the term 'value delivery' itself is mentioned only once, the surrounding discussion contextualizes the concept by describing iterative planning, transparency, workflow analysis, and integration with DevOps—all key value delivery elements. The discussion goes beyond mere tool description, exploring the systemic and cultural impact of Azure Boards in facilitating continuous value delivery, agility, and improvement. The intent is to inform practitioners and decision-makers interested in effective value management within Agile and DevOps environments. The content targets a technical and managerial audience aligned with the Value Delivery category and maintains a high signal-to-noise ratio with little to no tangential information. No outdated or contradictory statements are present, so no penalties apply. The confidence score (81.8) reflects strong though not exhaustive alignment and depth, with slightly lower points in explicit direct mentions and intent due to some focus on general project tooling beyond value-specific processes.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Value Delivery category. It goes beyond describing Azure Boards as a tool, focusing on how it helps teams deliver value consistently, adapt to feedback, and improve continuously. The discussion highlights Agile and Lean principles, making it highly relevant for those interested in effective value management within technical and managerial contexts."
   },
   "Market Share": {
     "resourceId": "Azure Boards",

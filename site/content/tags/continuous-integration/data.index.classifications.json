@@ -9,7 +9,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses Continuous Integration (CI) as a software development practice that automates build and testing processes, which aligns with the category of 'Tool'. It explicitly mentions how CI facilitates collaboration, improves workflows, and supports continuous improvement, all of which are key themes in the 'Tool' category. However, while it provides a good overview of CI's benefits, it lacks detailed comparisons with other tools or specific implementation practices, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the 'Tool' category because it focuses on Continuous Integration as a practical solution that streamlines development through automation. It highlights how CI enhances teamwork and efficiency, which are central to this category. However, it doesn’t delve into specific tools or compare different approaches, so its depth is somewhat limited."
   },
   "Accountability": {
     "category": "Accountability",
@@ -93,7 +94,8 @@
     "non_ai_confidence": 50,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses Continuous Integration (CI) as a software development practice, which aligns closely with the category of Practice. It highlights actionable techniques such as frequent code merging, early error detection, and automation of build and testing processes. The discussion on enhancing collaboration, fostering a culture of continuous improvement, and reducing technical debt further supports its alignment with the core themes of the category. The depth of the discussion is substantial, providing insights into how CI contributes to team effectiveness and value delivery.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content clearly fits the Practice category, as it delves into Continuous Integration as a hands-on development approach. It covers practical methods like frequent code integration, automated testing, and collaborative workflows, all of which are hallmarks of effective software practices. The focus on real-world application and team benefits further reinforces its relevance to this category."
   },
   "Philosophy": {
     "category": "Philosophy",
@@ -153,7 +155,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses Continuous Integration (CI) in detail, highlighting its role in fostering collaboration, continuous improvement, and value delivery. It explicitly mentions how CI enhances team communication and supports a culture of ongoing learning, which aligns well with the principles of Agile and Lean. The depth of discussion is substantial, covering the benefits of CI in maintaining a healthy codebase and reducing technical debt, which are actionable principles that influence team behaviour. However, while it touches on principles, it does not explicitly label them as such, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how Continuous Integration (CI) supports Agile and Lean principles like collaboration, continuous improvement, and value delivery. While it doesn’t explicitly label these as principles, the discussion clearly connects CI practices to actionable team behaviours and benefits, making it highly relevant."
   },
   "Artifact": {
     "category": "Artifact",
@@ -465,7 +468,8 @@
     "ai_penalty_details": "none",
     "final_score": 86.0,
     "reasoning": "The content discusses Continuous Integration (CI), emphasizing its roles in frequent code merging, automated testing, early error detection, enhancing collaboration, and enabling continuous improvement. These ideas conceptually align well with the principles of Market Adaptability—particularly in promoting agility, resilience, and responsiveness to changing requirements, all through DevOps practices (a core topic under the definition). The depth extends beyond simple definitions and explores impacts on workflow, code quality, and team dynamics, directly referencing adaptability (e.g., 'teams can iterate quickly and adapt to changing requirements' and 'respond to customer needs effectively'). While the term 'Market Adaptability' is not mentioned directly, explicit references to adaptability and related practices are substantial; thus, the mentions score is moderate. The content's purpose is informative and targeted at technical practitioners and teams, aligning with the category's audience. The writing remains focused and pertinent throughout, with negligible off-topic material. There are no outdated practices, criticisms, or contradictions, so no penalties are warranted. The resulting confidence score proportionately reflects strong conceptual and applied alignment, but is somewhat limited by the lack of explicit category naming or high-level strategic framing.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the category well because it explores how Continuous Integration supports adaptability, agility, and responsiveness—key aspects of Market Adaptability. While it doesn’t use the exact term, it clearly links DevOps practices to improved team performance and the ability to respond to change, making it highly relevant for technical audiences interested in adaptability."
   },
   "Daily Scrum": {
     "resourceId": "Continuous Integration",
@@ -537,7 +541,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content focuses on Continuous Integration (CI), which is a key technical practice within agile environments and DevOps, closely related to the technical leadership role of fostering collaborative, high-performing teams. It touches on technical debt reduction, enhancement of team collaboration, and empowerment in product development—all core concerns of technical leadership. However, there are no direct mentions of 'Technical Leadership' or explicit references to leaders guiding teams, resulting in a low 'Direct Mentions' score. The 'Conceptual Alignment', 'Depth', 'Intent', 'Audience', and 'Signal-to-Noise' scores are strong because the content is relevant, informative, and targets practitioners likely to be in or aspiring toward technical leadership. Depth is somewhat limited, as it doesn’t deeply explore leadership-specific techniques or dynamics, but aligns well by linking CI with team productivity, morale, and delivery success. There are no outdated references or negative tone, so no penalties are applied. The final confidence reflects solid category fit, somewhat limited by lack of explicit leadership framing.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category as it explores how Continuous Integration supports team collaboration, productivity, and product quality—key interests for technical leaders. While it doesn’t directly discuss leadership roles or strategies, its focus on practices that empower teams and reduce technical debt makes it highly relevant for those in or aspiring to technical leadership positions."
   },
   "Time to Market": {
     "resourceId": "Continuous Integration",
@@ -645,7 +650,8 @@
     "ai_penalty_details": "none",
     "final_score": 79.0,
     "reasoning": "The content explicitly discusses how Continuous Integration (CI) practices support software teams by enabling early error detection, fostering integration, and maintaining a healthy codebase, which are all closely related to sustained team delivery capability. There are some indirect mentions of team performance outcomes (e.g., predictable and sustainable delivery, improved workflow, reduced disruptions), but the text does not use 'team performance' terminology directly or measure it using system-level metrics. The conceptual alignment is strong, given CI’s relevance to factors influencing performance (workflow, iteration speed, quality), but the discussion is centered on CI as a practice rather than deeply exploring performance metrics, constraints, or systemic behaviors. The depth score reflects a thorough explanation of CI in a team context but doesn't delve into repeated data-driven evaluation of team performance. The audience is software teams—highly relevant to the category. Almost all content is on-topic, with minimal filler. Overall, the confidence score is strong but not maximal due to only indirect references to actual team performance measurement and evaluation.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it clearly explains how Continuous Integration benefits software teams by improving workflow, code quality, and delivery consistency. While it doesn’t directly measure or define 'team performance' with specific metrics, it effectively connects CI practices to factors that influence team outcomes, making it highly relevant for teams interested in performance improvement."
   },
   "Platform Engineering": {
     "resourceId": "Continuous Integration",
@@ -789,7 +795,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content directly discusses Continuous Integration (CI), one of the core engineering practices explicitly listed under Technical Excellence. It mentions CI repeatedly and ties the practice to outcomes like early error detection, quality, collaboration, and reduced technical debt—all aligning directly with the category’s definition and key topics. The discussion goes beyond mere tool usage, addressing cultural impacts and systemic quality. However, the piece does not mention 'Technical Excellence' verbatim and stays narrowly focused on CI, with limited explicit connection to other practices (such as TDD, modular architecture, or emergent design). The depth is strong within the CI sphere, explaining both mechanics and value. The intent is clearly to inform software engineering practitioners, matching the ideal audience and purpose. While the text is focused and delivers minimal filler, it earns a slightly lower 'mentions' score for not naming the broader category. No penalties regarding outdated or contradictory information were warranted. The final confidence reflects strong—but not perfect—coverage of Technical Excellence as it relates to CI, resulting in a robust but not maximal score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Technical Excellence category, as it thoroughly explores Continuous Integration—a key practice within this area. It explains both the practical and cultural benefits of CI, aligning well with the category’s focus. While it doesn’t reference other technical practices or use the term ‘Technical Excellence’ directly, its depth and relevance to engineering quality make it a solid match for the intended audience."
   },
   "Behaviour Driven Development": {
     "resourceId": "Continuous Integration",
@@ -879,7 +886,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content directly discusses Continuous Integration, a practice often associated with product development but more specifically belonging to the sphere of software engineering and DevOps. The text makes several indirect references to key tenets of product development, such as continuous improvement, iteration, early feedback, and enabling sustainable delivery, but rarely uses the explicit language of the provided category definition. There are occasional references to delivering value, adapting to customer needs, and supporting a culture of continuous improvement, which enhance conceptual alignment. However, the overall focus is on the technical practice and its benefits at the engineering and team level, not on product strategy, discovery, or product management methodologies. The depth of discussion is solid regarding CI's processes and value, though it only links weakly to broader product development frameworks. The intent of the piece is to inform practitioners (developers, technical leads) about CI, which overlaps with but does not perfectly match the executive and strategy-focused product development audience. Signal-to-noise is high, as the content is focused and relevant within its scope. No evidence was found of outdated practices or contrarian tone; thus, no penalties were applied. The final confidence score reflects moderate but not strong alignment due to the technical rather than strictly product-methodological emphasis.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content mainly centres on Continuous Integration, highlighting its technical benefits for engineering teams rather than focusing on product development strategy or methodologies. While it touches on themes like continuous improvement and value delivery, its primary audience and intent are more aligned with software engineering than with product management, resulting in only moderate fit for the product development category."
   },
   "Trend Analysis": {
     "resourceId": "Continuous Integration",
@@ -1059,7 +1067,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content directly focuses on the engineering practice of Continuous Integration (CI), which is one of the category's core key topics. CI is explicitly mentioned multiple times and described thoroughly, stressing its role in merging code, automating builds/tests, improving codebase health, and reducing technical debt. The discussion dives into how CI fosters collaboration, rapid feedback, sustainable development, and quality—reflecting the conceptual goals in the Engineering Practices category. The purpose is informative and intent on educating practitioners on why CI matters in Agile contexts. The audience is technical, targeting software development teams and practitioners, which closely matches the category's intended readership. There is minimal off-topic content: nearly every sentence adds relevant detail or justification for adopting CI. While the content is focused mainly on a single engineering practice, it thoroughly explains its benefits, processes, and outcomes, providing substantial depth. All scores reflect this strong relevance, with minor variations to acknowledge that topics like pair programming or TDD are not discussed, slightly reducing the exhaustive breadth but not the quality. There are no penalties since the tone is positive, current, and fully aligned with established practice.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Engineering Practices category, as it thoroughly explores Continuous Integration—a core topic in this area. It clearly explains CI’s benefits, processes, and impact on software teams, offering practical insights for technical audiences. The focus remains highly relevant throughout, making it a valuable resource for practitioners interested in Agile and modern development workflows."
   },
   "Organisational Culture": {
     "resourceId": "Continuous Integration",
@@ -1149,7 +1158,8 @@
     "ai_penalty_details": "none",
     "final_score": 72.0,
     "reasoning": "The content centers on Continuous Integration (CI) as a practice that encourages automation, collaboration, continuous improvement, and fast feedback—all key principles within the DevOps philosophy. It explicitly discusses how CI enables frequent code merges, automated testing, early error detection, and fosters a healthy codebase, aligning strongly with DevOps goals such as reducing risk, accelerating delivery, and improving software quality. While the term 'DevOps' is not directly referenced, the conceptual alignment is high: automation, shared responsibility, a culture of improvement, and value delivery are emphasized throughout. The discussion is substantial (depth), covering benefits, process, and outcome, though it does not venture into related DevOps topics like deployment, monitoring, or security integration. The audience clearly targets practitioners interested in software delivery improvement—matching the DevOps audience—but the focus is CI itself rather than DevOps broadly. Signal-to-noise is strong, with concise, relevant content. No penalties are warranted as the material is current, positive, and accurate. The low score for direct mentions appropriately reflects the absence of explicit reference to 'DevOps,' which is offset by the clear philosophical and practical alignment seen in the other scoring dimensions.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the DevOps category, as it thoroughly explores Continuous Integration—a core DevOps practice—highlighting automation, collaboration, and rapid feedback. While it doesn’t mention 'DevOps' directly, its focus on shared responsibility and process improvement clearly aligns with DevOps principles, making it highly relevant for practitioners seeking to enhance software delivery."
   },
   "Complexity Thinking": {
     "resourceId": "Continuous Integration",
@@ -1257,7 +1267,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content directly discusses Continuous Integration (CI), a major area within Product Delivery, and explores its processes, team benefits, and its value to the product lifecycle. The term 'product delivery' is not explicitly mentioned, so the direct mentions score is moderate, but the conceptual alignment is strong—CI is highlighted as foundational to delivering robust software. The content thoroughly addresses the advantages of frequent code merging, early error detection, automation, and the importance of team collaboration, which map closely to key product delivery themes such as CI/CD, quality assurance, and feedback loops. The audience is developers and teams involved in software delivery, precisely matching the category's target. The depth is greater than surface-level, discussing positive team effects and workflow, but it doesn’t go into intricate mechanics or case studies, slightly tempering the score. Signal-to-noise is high—the text is focused on CI without significant tangents. No penalties are warranted; the content is current, not critical in tone, and references best practices. Overall, the confidence reflects a strong alignment with the category, though limited in breadth to just one primary practice.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Product Delivery category, as it centres on Continuous Integration—a core practice in delivering quality software. It clearly explains CI’s benefits for teams and workflows, aligning well with the category’s focus. While it doesn’t cover every aspect of product delivery, its depth and relevance to software teams make it highly suitable for this classification."
   },
   "Agile Product Management": {
     "resourceId": "Continuous Integration",
@@ -1509,7 +1520,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "The content repeatedly and explicitly references Continuous Integration (CI), clearly explaining its definition, principles, and core benefits in software development. Direct mentions are frequent and always contextually appropriate. Conceptual alignment is perfect: the entire theme revolves around what CI is, why it matters, and its impact on code quality, collaboration, technical debt, and agile workflows—matching the provided classification precisely. Depth of discussion is high: the text goes beyond a surface definition to discuss build automation, testing, workflow enhancements, team culture, technical debt, and long-term business impact, but it stops short of listing specific tools or giving extensive implementation case studies, which keeps the depth slightly below a perfect 10. The intent is highly informative, aiming to educate and advocate for CI practices. The intended audience is developers and teams interested in software delivery best practices, which fits the category perfectly. Signal-to-noise is very high; nearly every sentence is relevant, concise, and focused, with no unrelated tangents. There are no outdated references or criticisms, necessitating no penalties. The confidence score closely approaches the maximum, reflecting thorough and focused coverage of the Continuous Integration topic.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Continuous Integration category. It thoroughly explains CI’s definition, principles, and benefits, consistently referencing relevant concepts like build automation and agile workflows. The discussion is focused, informative, and tailored to developers, ensuring high relevance and clarity without unnecessary digressions or outdated information."
   },
   "Decision Theory": {
     "resourceId": "Continuous Integration",
@@ -1779,7 +1791,8 @@
     "ai_penalty_details": "none",
     "final_score": 97.0,
     "reasoning": "The content names 'Continuous Integration (CI)' both in the title and throughout, explicitly connecting it to software development practices and highlighting its role in the engineering workflow. The primary focus is on the value, process, and impact of CI, which is a key topic under Software Development as defined. It thoroughly describes the mechanisms (frequent merging, automated builds/tests), benefits (reducing technical debt, code quality, team morale), and cultural aspects (collaboration, continuous improvement), showing deep conceptual and practical alignment. The purpose is squarely to inform and support practitioners of software development, using clear technical language and orientation toward engineering teams. Nearly all of the content is on-topic, relevant, and detailed, with no filler or tangential discussion. Minor deductions are made in audience and signal due to a generally inclusive tone that could also appeal to non-practitioner stakeholders, but this does not detract from the confidence in categorizing this as Software Development.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Software Development category, as it centres on Continuous Integration—a core software engineering practice. It clearly explains CI’s processes, benefits, and cultural impact, using technical language aimed at development teams. While the tone is accessible to a wider audience, the focus remains on informing and supporting software practitioners."
   },
   "Hypothesis Driven Development": {
     "resourceId": "Continuous Integration",
@@ -1887,7 +1900,8 @@
     "ai_penalty_details": "none",
     "final_score": 88.0,
     "reasoning": "The content centers on Continuous Integration (CI), a core operational practice within Agile and DevOps frameworks. Direct mentions of operational practices are not explicit (e.g., 'operational efficiency' isn't named), so the mentions score is strong but not perfect. Conceptual alignment is very high: CI directly addresses process optimization, reduction of technical debt, early error detection, and automation—each mapping closely to category criteria. Depth is also strong, as the discussion moves beyond definitions, elaborating on CI's impact on collaboration, workflow, and value delivery. The main intent is to inform practitioners about CI's benefits and principles—matching the category purpose. The audience is clearly technical and operational (developers, agile practitioners), but without niche targeting, so the audience score stops slightly short of a perfect 10. Content focus is almost entirely on CI's operational value, with minimal filler. No outdated practices are referenced and the tone is fully in alignment, so no penalties are warranted. Overall, the confidence is high and well-justified by the content's substance and direct relevance to operational efficiency within Agile/DevOps paradigms.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores Continuous Integration within Agile and DevOps, highlighting its role in process improvement, automation, and collaboration. While it doesn’t explicitly mention every operational term, its focus and depth clearly align with operational efficiency, making it highly relevant for technical and operational audiences seeking practical insights."
   },
   "Sociotechnical Systems": {
     "resourceId": "Continuous Integration",
@@ -1995,7 +2009,8 @@
     "ai_penalty_details": "none",
     "final_score": 80.0,
     "reasoning": "The content directly discusses Continuous Integration (CI) and its practical benefits but does not explicitly mention 'Pragmatic Thinking' or related frameworks like Agile, Scrum, or DevOps by name. However, the themes align closely with Pragmatic Thinking by emphasizing real-world application, adaptability, and problem-solving within a development context. It highlights practical team strategies such as collaboration, early error detection, and sustained delivery, which are key to the category. The discussion goes beyond surface-level explanation, detailing how CI supports code quality, reduces technical debt, and fosters a culture of continuous improvement. The main intent is to inform technical practitioners of how to work effectively using CI, meeting the target audience expectations. The content remains focused, with negligible filler. Confidence is strong but not maximal; direct naming and references to Agile, Scrum, or DevOps are missing, which moderately impacts certain scores—the overall output is well-aligned with Pragmatic Thinking’s aims.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Pragmatic Thinking category, as it explores the practical use of Continuous Integration in development teams. While it doesn’t name frameworks like Agile or DevOps, it clearly demonstrates real-world problem-solving, adaptability, and continuous improvement—core aspects of Pragmatic Thinking. The focus on actionable strategies and team collaboration makes it highly relevant for technical practitioners."
   },
   "Employee Engagement": {
     "resourceId": "Continuous Integration",
@@ -2265,7 +2280,8 @@
     "ai_penalty_details": "none",
     "final_score": 90.0,
     "reasoning": "The content provides a focused discussion on Continuous Integration (CI), which is central to Technical Mastery. CI is directly referenced multiple times, and the description thoroughly covers its practices—frequent code merges, automated testing, fast feedback cycles, maintaining code quality, and reducing technical debt—all of which are key technical mastery principles. The intent is clearly to inform and advocate for CI as a best practice for technical excellence. The target audience is practitioners interested in improving delivery quality, which aligns with the category. While the depth is substantial for a short article (discussing both process and impact), it remains at a general level, with no deep dive into specific frameworks or tooling, which slightly lowers the depth and signal-to-noise scores. Nevertheless, there are no off-topic digressions or outdated references. The confidence score reflects strong but not absolute fit, mainly due to concise format limiting technical depth.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Technical Mastery category, as it centres on Continuous Integration—a core technical practice. It clearly explains CI’s principles and benefits, targeting professionals aiming to enhance code quality and delivery. While the overview is concise and doesn’t delve into specific tools, it remains focused and relevant, making it well-suited for readers seeking technical best practices."
   },
   "Common Goals": {
     "resourceId": "Continuous Integration",
@@ -2517,7 +2533,8 @@
     "ai_penalty_details": "none",
     "final_score": 71.0,
     "reasoning": "The content on 'Continuous Integration' primarily discusses software development practices, with a strong focus on CI processes such as code merging, error detection, and test automation. While it does make explicit references to team collaboration (e.g., 'enhance collaboration among team members', 'encourages regular communication and feedback', 'supports a culture of continuous improvement'), these points are secondary and serve to highlight the benefits of CI rather than focusing in depth on the mechanics or strategies of team collaboration itself. The conceptual alignment is solid given that CI often requires and benefits from team collaboration, but the depth of discussion regarding collaborative techniques, shared ownership, or Agile/DevOps team dynamics is moderate—the main content centers on CI itself. The intent is partially aligned as the piece does address how CI can foster team effectiveness, but the primary purpose is informative about CI rather than explicitly about team collaboration. The likely audience (developers, technical team members) is an appropriate overlap. The signal-to-noise ratio is high, as the content is clear and compactly relevant, though only a fraction specifically addresses collaboration as per the category definition. There are no penalties for outdated content or negative tone. Overall, the confidence score is moderate, reflecting a clear connection but not a sole, central focus on team collaboration.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content fits the category to some extent, as it highlights how Continuous Integration can support team collaboration and effectiveness. However, its main focus is on explaining CI processes rather than delving deeply into collaborative methods or team dynamics. While relevant, the discussion of collaboration is secondary, making the alignment with the category moderate rather than central."
   },
   "Hybrid Agile": {
     "resourceId": "Continuous Integration",
@@ -2589,7 +2606,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content explicitly and thoroughly discusses Continuous Integration (CI) as a core practice within the realm of Engineering Excellence. CI is described as a software development practice that enhances code quality, promotes collaboration, enables early error detection, and reduces technical debt. These themes are entirely aligned with the provided classification definition, hitting key topics such as best practices, automation, team collaboration, technical debt management, and the impact on business agility. While the term 'engineering excellence' is not directly mentioned, CI as described here is presented as foundational to achieving excellence in software development. The discussion goes beyond surface level, explaining both how CI works and why it matters, demonstrating substantial depth. The intent is clearly instructive and supportive, aimed at technical audiences (engineers, developers, and teams) focused on improving their engineering practices. The content stays focused with minimal off-topic information (high signal-to-noise ratio). No outdated practices or negative tone are present, so no penalties were applied. The final score reflects both the high relevance and the small gap in direct category mentions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores Continuous Integration—a key aspect of Engineering Excellence. It clearly explains CI’s benefits, such as improved code quality and collaboration, and is aimed at helping technical teams enhance their practices. While the exact term isn’t used, the depth and focus on best practices make it highly relevant."
   },
   "Deployment Frequency": {
     "resourceId": "Continuous Integration",
@@ -2625,7 +2643,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content directly discusses Continuous Integration (CI), which is listed as a key topic under Value Delivery. CI is explained as a methodology for frequent code integration, automation, and error detection—concepts closely aligned with iterative, incremental delivery and maximising customer value. The description references how CI enables a healthier codebase, improved collaboration, faster feedback, and adaptability to customer needs, all of which fit the value delivery rubric. The depth is substantial given the description’s coverage of technical and team benefits, though it could have included more explicit references to customer satisfaction or business agility for a perfect score. The intended audience is developers or team leaders interested in Agile/DevOps practices, matching well with the category. Minimal irrelevant content or filler is present. There are no outdated concepts or contradictory tones. Direct naming of ‘Value Delivery’ is only implied via delivery outcomes and not explicitly stated, accounting for a moderate 'mentions' score. Each dimension is uniquely scored reflecting these nuances. Final confidence is strong, proportionate to the evidence of conceptual and practical alignment.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Value Delivery category, as it thoroughly explores Continuous Integration—a core practice for delivering value through frequent, automated code changes. It highlights both technical and team benefits, aligning with Agile and DevOps principles. While it could mention customer outcomes more explicitly, its focus on improving delivery processes makes it highly relevant for this category."
   },
   "Market Share": {
     "resourceId": "Continuous Integration",

@@ -33,7 +33,8 @@
     "ai_penalty_details": "none",
     "final_score": 99.0,
     "reasoning": "The content is heavily, explicitly, and repeatedly focused on the philosophy and core principles of DevOps, repeatedly referencing the term 'DevOps' and directly challenging common misconceptions (e.g., DevOps is not just automation or pipelines). It aligns perfectly with the definition provided, discussing topics such as agency, feedback loops, continuous delivery, developer empowerment, the necessity of operational authority, and real-time observability—all signature aspects of DevOps culture. Key practices such as shifting left, eliminating silos, and fostering cross-functional collaboration are implicitly and explicitly addressed (e.g., advocating for developers' control over production environments and telemetry). The content avoids tool-focused, tangential, or filler discussion, maintaining a tightly focused narrative around the necessity of operational agency for successful DevOps. The intended audience is technical (developers, engineering leaders, DevOps practitioners), which matches the category's audience. There is robust depth: arguments are substantiated with practical examples (e.g., contrast between continuous guessing and real feedback), actionable recommendations (developer-controlled pipelines, owning telemetry), and cautionary tales about failed transformations. There are no signs of penalty triggers—content is current, in alignment, and free of satire or outdated practices. Overall, the confidence score is extremely high due to the exceptional alignment, depth, intent, audience fit, and signal.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the DevOps category. It thoroughly explores DevOps philosophy, addresses common misconceptions, and highlights essential practices like feedback loops, developer empowerment, and cross-functional collaboration. The discussion is technical, practical, and highly relevant for its intended audience, making it a strong example of focused, high-quality DevOps content."
   },
   "Lean": {
     "resourceId": "AgIU1SK-3pE",
@@ -69,7 +70,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content directly addresses core practices and cultural aspects closely aligned with Engineering Excellence, though the explicit term is never mentioned. Direct mentions receive a low score (2.7) since the phrase 'Engineering Excellence' or its very close synonyms are absent; however, key topics—like CI/CD, ownership, feedback loops, automation, technical feedback, and maturity—are clearly woven throughout. The conceptual alignment (8.3) is strong, as the argument hinges on best practices for software delivery, developer empowerment, and quality pipelines, all central to engineering excellence. The depth of discussion (8.2) is notable: multiple nuanced scenarios (lack of agency, feedback systems, role of automation, organizational pitfalls) are described rather than merely listed, and prescriptive steps are given. Intent is high (7.5) because the author seeks to inspire a culture and practice shift directly relevant to engineering excellence, but the focus is somewhat more on organizational pain and DevOps than on craftsmanship per se. Audience alignment is strong (8.0) as the piece is clearly drafted for technical leaders, senior engineers, and practitioners interested in process improvement, but occasionally nods to generic industry dysfunctions. The signal-to-noise ratio (8.4) is high: the writing is focused, with little digression or filler, though impassioned rhetoric slightly dilutes the technical focus. No penalties were needed: all practices are current, and critique is constructive rather than dismissive. The final confidence score (81.37) reflects that while the content excels in thematically supporting the continuous improvement, technical ownership, and best practices that define engineering excellence, lack of direct labeling and occasional broader system commentary slightly limit the maximum alignment.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly aligns with the Engineering Excellence category, as it explores key practices like CI/CD, automation, and feedback loops—core to the discipline—even though it doesn’t use the exact term. The discussion is in-depth and aimed at technical leaders, focusing on process improvement and cultural change, which are central to engineering excellence, despite some broader organisational commentary."
   },
   "Technical Leadership": {
     "resourceId": "AgIU1SK-3pE",
@@ -105,7 +107,8 @@
     "ai_penalty_details": "none",
     "final_score": 77.0,
     "reasoning": "The content is a strongly opinionated essay on the need for developer agency in DevOps, with explicit connections to continuous delivery, true feedback loops, operational readiness, and product strategy. While 'Product Development' is not named directly, several core practices (continuous delivery, integrating feedback from production, aligning product strategy with operations, empowering cross-functional teams) are addressed deeply and from a systemic viewpoint. Conceptual alignment is high, especially in the discussion of iterative learning and the integration of real usage data into product adaptation. The depth is solid, with the author providing extensive analysis on not just what is missing in flawed DevOps implementations, but why agency is essential to delivering valuable products. The intent is advocacy and education tightly connected to the goal of improving product outcomes—though it is framed as a critique, its purpose is aligned with product development methodologies. Audience targeting is toward product engineers, technical leads, and organizational change agents; it's not strictly for product strategists, but still relevant. Signal-to-noise is moderate: while most content is focused, there are some rhetorical flourishes and critical tone that, though impactful, slightly dilute strict informational clarity. No penalties were applied, as the content references current best practices (agency, continuous delivery), does not undermine the core framing, and all examples—even if opinionated—are rooted in contemporary practice. The final score therefore reflects a high but not maximal confidence: this piece advances mature product development perspectives through the lens of DevOps agency, with only modest reductions for not explicitly focusing on every product development topic.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits well within the 'Product Development' category, as it explores how developer agency and DevOps practices directly impact product outcomes. While it critiques current approaches, its focus on feedback loops, continuous delivery, and team empowerment aligns closely with modern product development principles, making it highly relevant for technical and organisational audiences."
   },
   "Scrum": {
     "category": "Scrum",
@@ -315,7 +318,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content discusses at length how agency, empowerment, and operational ownership are foundational to effective DevOps. It rejects shallow adoption (tooling-only transformations) and calls out the need for self-organisation, rapid decision-making, and direct feedback loops—central tenets of Social Technologies as defined. There is extensive conceptual alignment: the article stresses collective intelligence ('union of people, process, and products'), agile feedback, continuous improvement, and organisational adaptation. The discussion is thorough, exploring not just what DevOps is, but what happens when the underlying social dynamics (agency, trust, autonomy) are neglected. Although 'Social Technologies' is not named directly, its principles are referenced throughout. The writing is purpose-driven: advocating for a shift in mindset, not merely technical practices, and explicitly targets both practitioners (developers) and leaders responsible for process culture. There is almost no filler; the message is focused and pragmatic, with clear calls to evolve organisational behaviours and structures. No outdated concepts or penalties were identified. Overall, the high confidence score accurately reflects the strong, multidimensional fit with the category definition.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content strongly aligns with the Social Technologies category, as it emphasises the importance of agency, empowerment, and collective intelligence in DevOps. It goes beyond technical tools, advocating for cultural and organisational change, and highlights key principles like self-organisation and continuous improvement—core to Social Technologies—even if not named directly. The focus is clear, relevant, and well-targeted to both practitioners and leaders."
   },
   "Complexity Thinking": {
     "resourceId": "AgIU1SK-3pE",
@@ -399,7 +403,8 @@
     "ai_penalty_details": "none",
     "final_score": 73.0,
     "reasoning": "Although the article does not frequently or explicitly mention 'organisational change' or classic change management frameworks, its entire argument is a critique of superficial DevOps transformations and an advocacy for deeper shifts in organisational practices, especially regarding empowerment, decision-making, and ownership. The piece sharply critiques 'DevOps transformations' that fail to empower developers, identifies organisational barriers such as outdated release management bureaucracies, and calls for expanding operational agency. These are conceptually aligned with the themes of organisational change, especially around shifting processes, culture, and structures for agility and value delivery. However, it does not explicitly discuss formal change models (ADKAR, Kotter, etc.), nor does it name 'organisational change' or provide broad case studies or measurement techniques. The discussion is deep in analyzing the problem and needed cultural change, but more focused on empowerment and agency than on holistic strategy, making it moderately strong in depth and alignment, but lower in direct mentions. The content targets leaders, change agents, and decision-makers responsible for DevOps transformations—matching the audience for organisational change topics. There are no evident penalties required: it is relevant, up to date, and matches the category intent and tone—even if framed through DevOps. Overall, there is clear, confident fit for 'Organisational Change' as per the definition, though with room for greater explicitness and expanded breadth.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This article fits the 'Organisational Change' category as it critiques shallow DevOps initiatives and advocates for deeper shifts in culture, empowerment, and decision-making. While it doesn’t reference formal change models, its focus on transforming organisational practices and challenging outdated structures aligns well with the category, making it relevant for leaders and change agents driving meaningful change."
   },
   "Technical Excellence": {
     "resourceId": "AgIU1SK-3pE",
@@ -417,7 +422,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content strongly critiques typical DevOps implementations, emphasizing operational agency, real production feedback, and true continuous delivery. While 'Technical Excellence' is not directly named, the main thrust—building delivery systems where developers have full control, telemetry, and the ability to deploy and remediate swiftly—is conceptually central to technical excellence, especially aspects like CI/CD and empowering teams to deliver and learn efficiently. The article explores the dangers of focusing only on tools/automation without process or empowerment, aligning with technical excellence’s mandate to raise quality and agility through mature practice rather than just tooling. The depth is solid: several practical scenarios and best practices are given, with robust arguments and actionable insights. However, it does not deeply discuss specific engineering practices (like TDD/modular design) but orbits organizational and process agency as prerequisites for technical excellence. The intent is highly relevant—its aim is to improve engineering outcomes, not just critique. The audience is practitioners, technical leads, and delivery managers, well-aligned with the category. Signal is high; the content is focused, with almost no filler. No penalties were applied since it is current, not satirical, and does not undermine technical excellence’s framing. The final confidence score is moderately high, reflecting alignment with the category, but slightly limited by the lack of direct mention and less detailed discussion of core technical practices beyond deployment agency.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the 'Technical Excellence' category because it highlights the importance of empowering teams with real production feedback, operational control, and effective delivery systems. While it doesn’t detail specific engineering practices, its focus on process maturity, continuous delivery, and team agency aligns well with the core aims of technical excellence, making it highly relevant for practitioners and technical leaders."
   },
   "Professional Scrum": {
     "resourceId": "AgIU1SK-3pE",
@@ -501,7 +507,8 @@
     "ai_penalty_details": "none",
     "final_score": 92.0,
     "reasoning": "The content deeply interrogates central tenets of modern software engineering, explicitly focusing on the technical mastery required to make DevOps successful. Direct mentions of software craftsmanship, engineering maturity, and concepts such as operational agency, developer-controlled pipelines, continuous delivery, telemetry, and feedback loops map directly to the Technical Mastery remit (high alignment: 9.6). The article moves beyond superficial critique and provides an in-depth exploration of why agency and technical ownership are essential for high-quality software delivery (high depth: 9.3). While it does not explicitly use the phrase 'technical mastery', key technical practices and principles of engineering excellence are substantively discussed, incurring a lower score for direct mentions (3.5). The intended audience is clearly technical practitioners—engineers, DevOps, architects—seeking to elevate their craft (audience: 9.0). The main purpose is to inform and challenge technical readers, closely aligned with the category intent (9.1). Almost the entire article remains focused on practices tied closely to engineering excellence, with minimal non-technical filler (signal: 9.7). No penalties are warranted: there are no obsolete references, and the tone reinforces—rather than undermines—Technical Mastery. The final confidence score accurately reflects the strong fit with the category, moderated slightly by the indirectness of explicit mentions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the Technical Mastery category. It thoroughly explores advanced software engineering practices, focusing on the skills and principles that underpin effective DevOps. The article is aimed at technical professionals and offers deep, practical insights, making it highly relevant—even though it doesn’t always use the exact term ‘technical mastery’."
   },
   "Team Collaboration": {
     "resourceId": "AgIU1SK-3pE",
@@ -573,7 +580,8 @@
     "ai_penalty_details": "none",
     "final_score": 82.0,
     "reasoning": "The content focuses extensively on the concept of agency within DevOps teams, directly addressing psychological and structural factors like empowerment, ownership, and trust, which are central to team motivation. 'Agency' and 'control' are repeatedly emphasized as non-negotiable for healthy team dynamics and performance. The text criticizes practices that demotivate developers, such as lack of operational authority, and vividly describes the impacts: disempowerment, learned helplessness, and blame culture. The depth of discussion is strong, exploring the necessity of feedback loops, trust, and autonomy, with actionable concepts (e.g., developer-managed pipelines, ownership of telemetry) that clearly align with motivational principles in agile teams. The primary audience appears to be practitioners and leaders in technical organizations, closely matching the intended audience for 'Team Motivation.' Though the text is framed around DevOps, it meticulously ties technical practices back to motivational outcomes, keeping signal-to-noise high. Direct mentions of 'team motivation' are implicit rather than explicit (hence a moderate Direct Mentions score), but the content’s core argument is deeply motivational in its framing and recommendations. There are no outdated or contradictory elements—no penalties are necessary. Overall, the text is a strong fit, with the confidence score reflecting substantial but not absolute category alignment.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the 'Team Motivation' category. It thoroughly explores how agency, empowerment, and trust drive motivation within DevOps teams, offering practical examples and highlighting the negative effects of disempowerment. While it doesn’t always use motivational terms directly, its focus on psychological and structural motivators makes it highly relevant for technical leaders and practitioners."
   },
   "Coaching": {
     "resourceId": "AgIU1SK-3pE",
@@ -765,7 +773,8 @@
     "ai_penalty_details": "none",
     "final_score": 75.0,
     "reasoning": "The content is highly focused on team-level delivery capability, especially as it relates to organizational structures and practices that either enable or undermine effective DevOps. The main theme is that developer agency—control over operations, deployments, telemetry, and feedback—is critical for meaningful delivery outcomes. This directly ties to system factors influencing team performance, such as autonomy, feedback loops, and empowerment. There are multiple indirect references to system behaviors (ownership of deployment, telemetry, incident response) and constraints (release management, bureaucracy) impacting throughput, aligning strongly with the category definition. However, there are very few explicit mentions of 'team performance' or delivery metrics—the content prefers to discuss agency, DevOps, and continuous delivery, rather than using the category’s explicit terminology. The discussion is deep, exploring why withholding agency damages delivery and giving substantial practical examples (e.g., 'developers blindfolded,' 'definition of done,' 'automation without agency is fragile'). The intent and audience are highly aligned: technical leaders, practitioners, and organizational decision-makers aiming to improve delivery effectiveness. Signal-to-noise is high; nearly every paragraph is on-topic, with minimal digression. Slight reductions for direct mentions and intent, as the messaging focuses on remedying organizational anti-patterns rather than systematically analyzing delivery metrics or explicit team performance trends.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how organisational structures and practices impact team delivery capability, particularly through the lens of developer agency and DevOps. While it doesn’t use explicit team performance metrics, its focus on autonomy, feedback, and practical examples makes it highly relevant for technical leaders seeking to improve delivery outcomes."
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -813,7 +822,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content does not directly mention Empirical Process Control or any of its canonical terms, focusing instead on 'operational agency' within DevOps. Direct, explicit references are absent, resulting in a low 'Direct Mentions' score (2.6), with some points granted for brief allusions to empirical decision-making (e.g., 'real feedback', 'observe and adapt'). The 'Conceptual Alignment' is strong (8.3) since the discussion centers around making decisions based on real production feedback, echoing core empirical process control principles (transparency, inspection, and adaptation). 'Depth' also receives a high score (8.0) due to substantial exploration of how feedback loops and agency relate to success/failure in DevOps, including specific examples (e.g., developer control over telemetry, deployments, and rapid adaptation). The 'Intent' score (7.2) reflects that the purpose is tangentially aligned: the author aims to drive organizational change by advocating for evidence-based decision-making, but does so via a DevOps rather than explicitly Agile or Scrum lens. 'Audience Alignment' (8.7) is elevated, as the target audience (DevOps practitioners, technical leaders) overlaps strongly with Agile practitioners interested in empirical process control. 'Signal-to-Noise' is high (8.1) because the article is consistently focused on agency and feedback loops, with minimal off-topic content. No penalties apply: the content is current, not satirical, and does not undermine the core empirical framing. Overall, the moderate confidence reflects that while the article thoroughly advocates empirical inspection and adaptation, it refrains from direct canonical or theoretical references, and frames the topic via DevOps agency rather than using the language or structure typical of Empirical Process Control discourse.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the category, as it explores key empirical process control concepts like feedback loops, transparency, and adaptation, especially within a DevOps context. However, it doesn’t use explicit terminology or canonical references, instead focusing on practical applications. The discussion is relevant and insightful for the intended audience, but lacks direct theoretical framing, making the fit strong but not absolute."
   },
   "Increment": {
     "resourceId": "AgIU1SK-3pE",
@@ -1017,7 +1027,8 @@
     "non_ai_confidence": 20,
     "final_score": 75.0,
     "reasoning": "The content discusses the importance of operational agency within DevOps, which is closely related to product delivery. It highlights the need for developers to have control over production environments and feedback loops, aligning with the core themes of continuous delivery and the integration of processes. However, while it touches on aspects of product delivery, it primarily focuses on the concept of agency rather than providing a comprehensive overview of methodologies or practices in product delivery, which slightly limits its depth in this specific category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the product delivery category as it explores how operational agency in DevOps supports effective delivery processes. While it emphasises the value of developer control and feedback, it doesn’t fully cover the broader methodologies or practices of product delivery, making its fit partial rather than comprehensive."
   },
   "Scrum Team": {
     "category": "Scrum Team",
@@ -1041,7 +1052,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of operational agency in DevOps, which aligns with the principles of Continuous Learning by emphasising feedback loops and the need for developers to learn from real production environments. It highlights the necessity of empowering developers to make decisions and learn from their actions, which fosters a growth mindset. However, while it touches on aspects of Continuous Learning, it primarily focuses on operational agency rather than a broader exploration of continuous improvement practices, which slightly limits its depth in the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the Continuous Learning category as it highlights how operational agency in DevOps encourages feedback and learning from real-world scenarios. By empowering developers to make decisions and reflect on outcomes, it supports a growth mindset. However, its main focus is on operational agency rather than a comprehensive look at continuous improvement, so its coverage of the category is somewhat limited."
   },
   "Agile Philosophy": {
     "category": "Agile Philosophy",
@@ -1089,7 +1101,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of operational agency in DevOps, which is closely related to the principles of Continuous Delivery. It highlights the need for developers to have control over deployments and feedback loops, which are essential for frequent releases. The discussion on how lack of agency can hinder continuous delivery aligns well with the category's focus. However, while it touches on the topic of frequent releases, it does not delve deeply into specific techniques, metrics, or tools that support frequent releases, which slightly lowers the depth score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it explores how operational agency impacts the ability to release software frequently—a core aspect of Continuous Delivery. While it effectively connects developer autonomy to release practices, it doesn’t go into detail about specific methods or tools for frequent releases, making its fit more general than technical."
   },
   "Automated Testing": {
     "category": "Automated Testing",
@@ -1185,7 +1198,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of operational agency in DevOps, emphasising the need for real-time feedback and continuous improvement. It highlights how lack of feedback can lead to ineffective practices, aligning well with the core themes of metrics and learning. However, while it touches on feedback mechanisms and the significance of telemetry, it does not delve deeply into specific metrics or methodologies for collecting and analysing performance data, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with the category as it explores the role of feedback and continuous improvement in DevOps, key aspects of metrics and learning. While it effectively highlights the importance of real-time feedback and operational agency, it doesn’t go into detail about specific metrics or data analysis methods, making its coverage somewhat broad rather than deeply technical."
   },
   "Change Management": {
     "category": "Change Management",
@@ -1233,7 +1247,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the importance of operational agency within DevOps, aligning closely with pragmatic thinking by emphasising practical problem-solving strategies and real-world applications. It highlights the necessity of feedback loops and developer control, which are critical in Agile and DevOps contexts. The depth of discussion is substantial, providing detailed insights into how lack of agency can hinder effective DevOps practices, thus demonstrating a strong alignment with the category's core themes.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores operational agency in DevOps, focusing on practical solutions and real-world challenges. By emphasising feedback loops and developer autonomy, it addresses key Agile and DevOps principles, offering detailed insights that align well with the category’s emphasis on pragmatic, actionable approaches."
   },
   "GitHub": {
     "category": "GitHub",
@@ -1281,7 +1296,8 @@
     "non_ai_confidence": 10,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of operational agency within DevOps, which aligns with the principles of organisational agility by emphasising the need for flexibility, responsiveness, and continuous feedback. It highlights how empowering developers can enhance adaptability and improve delivery processes, which are key aspects of organisational agility. However, while it touches on agility, the primary focus is on DevOps practices rather than a broader exploration of organisational agility strategies, which slightly limits its depth in that specific category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to organisational agility as it explores how empowering developers within DevOps fosters flexibility and adaptability—core elements of agility. However, its main emphasis is on DevOps practices rather than a comprehensive look at organisational agility, so while it fits the category, its coverage is somewhat limited in scope."
   },
   "Product Validation": {
     "category": "Product Validation",
@@ -1413,7 +1429,8 @@
     "non_ai_confidence": 0,
     "final_score": 75.0,
     "reasoning": "The content discusses the importance of operational agency within DevOps, highlighting the interplay between social (developer empowerment, trust) and technical (automation, pipelines) aspects. It explicitly mentions the need for developers to have control over their environments and processes, which aligns with the core themes of sociotechnical systems. However, while it touches on organisational culture and the impact of team dynamics, it lacks a broader exploration of these themes and does not provide case studies or theoretical frameworks, which limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the sociotechnical systems category, as it explores how both social factors like developer empowerment and technical elements such as automation interact in DevOps. While it addresses key themes like organisational culture and team dynamics, it doesn’t delve deeply into theory or provide case studies, so its coverage is somewhat limited but still relevant to the category."
   },
   "Agile Product Operating Model": {
     "category": "Agile Product Operating Model",
@@ -1437,7 +1454,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of operational agency in DevOps, which aligns with the concept of competence as it emphasises the need for developers to have control and authority over their work. It highlights the necessity for continuous learning and feedback, which are key aspects of competence. The depth of discussion is significant, as it elaborates on the consequences of lacking agency and the impact on quality outcomes and trust within teams. However, while competence is a central theme, the content primarily focuses on agency rather than directly addressing skill development or mastery, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the competence category because it explores how operational agency in DevOps supports developers’ sense of control and responsibility—key elements of competence. It also touches on learning and feedback, which are crucial for developing skills. However, the main emphasis is on agency rather than direct skill-building, so the fit is strong but not absolute."
   },
   "Cross Functional Teams": {
     "category": "Cross Functional Teams",
@@ -1521,7 +1539,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content explicitly discusses the importance of operational agency for developers, which aligns closely with the principles of self-organisation. It highlights the need for autonomy in decision-making and the empowerment of teams, which are core themes of self-organisation. The depth of discussion is significant, as it provides detailed insights into how lack of agency affects DevOps initiatives and the overall delivery process. However, while it touches on self-organisation, it primarily focuses on DevOps, which slightly detracts from its alignment with the broader category of self-organisation in Agile methodologies.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the self-organisation category, as it explores how developer autonomy and decision-making power are essential for effective self-organisation. While the main focus is on DevOps, the discussion clearly connects operational agency to team empowerment—an important aspect of self-organising Agile teams. The depth of analysis further supports its relevance, even if the emphasis is slightly more on DevOps practices."
   },
   "Application Lifecycle Management": {
     "category": "Application Lifecycle Management",
@@ -1569,7 +1588,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses Continuous Delivery in the context of DevOps, emphasising the importance of operational agency for developers to enable effective delivery of value. It directly mentions Continuous Delivery multiple times and explores its principles, particularly the need for real-time feedback and the role of automation. The depth of discussion is significant, as it critiques common pitfalls in DevOps practices and highlights the necessity of developer control in the delivery process. However, while it aligns well with the category, it is primarily framed within the broader context of DevOps, which slightly dilutes its focus on Continuous Delivery alone.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a strong fit for the Continuous Delivery category, as it thoroughly explores its principles, such as automation and real-time feedback, and stresses the importance of developer empowerment. While it’s discussed within the wider DevOps context, the emphasis on Continuous Delivery practices and challenges makes it highly relevant to the category."
   },
   "Customer Retention": {
     "category": "Customer Retention",
@@ -1617,7 +1637,8 @@
     "non_ai_confidence": 20,
     "final_score": 85.0,
     "reasoning": "The content explicitly discusses the importance of operational agency in DevOps, which directly ties into the concept of continuous delivery of value. It highlights the need for developers to have control over their environments and feedback mechanisms, aligning well with the principles of iterative development and customer value maximisation. The depth of discussion on how lack of agency affects value delivery and the emphasis on real-time feedback further supports its relevance to the category. Overall, the content is focused on value delivery within the context of DevOps, making it a strong fit for the classification.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the category, as it centres on how operational agency in DevOps impacts the continuous delivery of value. By exploring developers’ control over their environments and the importance of real-time feedback, it clearly aligns with principles like iterative development and maximising customer value, making it highly relevant to the topic."
   },
   "Organisational Culture": {
     "category": "Organisational Culture",
@@ -1629,7 +1650,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of operational agency within DevOps, highlighting how a lack of agency can hinder agility and responsiveness. It directly addresses the cultural aspects of decision-making and empowerment, which are crucial for fostering an effective organisational culture. The depth of discussion on the consequences of not allowing developers to have control over their processes and the emphasis on trust and learning aligns well with the key topics of the category. However, while it touches on cultural elements, the primary focus remains on operational practices rather than a broader exploration of organisational culture itself.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it explores how operational agency impacts organisational culture, particularly in DevOps settings. While it mainly focuses on operational practices, it effectively highlights the cultural significance of empowerment, trust, and decision-making, making it a good fit for discussions about organisational culture within technical teams."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -1749,7 +1771,8 @@
     "non_ai_confidence": 10,
     "final_score": 85.0,
     "reasoning": "The content primarily focuses on the concept of operational agency within DevOps, discussing how empowering developers with control over their environments and processes enhances operational efficiency. It directly addresses the importance of feedback loops and the consequences of lacking operational authority, which aligns well with the core themes of operational practices. The depth of discussion is substantial, providing specific examples of how to implement these practices effectively, although it could benefit from more detailed metrics or KPIs to fully meet the criteria for depth.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores operational agency in DevOps, highlighting how giving developers more control improves efficiency. It covers key operational themes like feedback loops and authority, and offers practical examples. While it could be enhanced with more detailed metrics, the discussion is relevant and substantial for operational practices."
   },
   "Internal Developer Platform": {
     "category": "Internal Developer Platform",
@@ -1863,7 +1886,8 @@
     "non_ai_confidence": 10,
     "final_score": 75.0,
     "reasoning": "The content discusses the importance of operational agency in DevOps, which aligns with the principles of Continuous Improvement by emphasising the need for real-time feedback and the ability to adapt processes based on that feedback. It highlights the necessity of empowering developers to make decisions and learn from production outcomes, which is a core aspect of Continuous Improvement. However, while it touches on these themes, it does not delve deeply into specific Continuous Improvement frameworks or strategies, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Continuous Improvement category because it explores how operational agency and real-time feedback empower teams to refine their processes. While it effectively highlights the value of learning from production outcomes, it doesn’t go into detail about specific Continuous Improvement methods or frameworks, making its coverage somewhat general rather than deeply specialised."
   },
   "Trend Analysis": {
     "category": "Trend Analysis",
@@ -1971,7 +1995,8 @@
     "non_ai_confidence": 0,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of operational agency within DevOps, which directly relates to market adaptability by emphasising the need for developers to respond quickly to production feedback and adapt their strategies accordingly. It highlights the necessity of continuous feedback loops and the role of cross-functional teams in enhancing agility. However, while it touches on these themes, the primary focus is on operational agency rather than broader market adaptability strategies, which slightly limits its alignment and depth in this specific category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with the category by highlighting how operational agency in DevOps supports adaptability through rapid feedback and agile responses. However, its main emphasis is on internal team dynamics rather than comprehensive market adaptability strategies, making its fit relevant but somewhat limited in scope."
   },
   "Organisational Psychology": {
     "category": "Organisational Psychology",
@@ -2043,7 +2068,8 @@
     "non_ai_confidence": 0,
     "final_score": 92.0,
     "reasoning": "The content explicitly discusses the concept of agency within the context of DevOps, highlighting the importance of operational agency for developers. It aligns closely with the core themes of Agentic Agility, such as intentional actions, adaptive responses, and the significance of agency in enhancing outcomes. The depth of discussion is substantial, providing detailed examples of how lack of agency can lead to fragility and ineffective practices in DevOps. Overall, the content is a strong fit for the category, focusing on the critical role of agency in achieving true agility.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Agentic Agility category, as it thoroughly explores the role of agency in DevOps. By emphasising how operational agency empowers developers and supports adaptive, intentional actions, it clearly aligns with the category’s core themes. The detailed examples further illustrate how agency impacts agility, making the content highly relevant and well-suited to this classification."
   },
   "Miscellaneous": {
     "category": "Miscellaneous",
@@ -2140,7 +2166,8 @@
     "non_ai_confidence": null,
     "final_score": 87.0,
     "reasoning": "The content focuses extensively on the principle of 'Self-Management' by emphasizing the importance of operational agency for developers in the DevOps framework. It discusses how giving developers control over their processes and environments aligns with the essential principles of DevOps, directly linking autonomy and operational authority to effective continuous delivery. The depth of the content, including explicit statements on what operational agency entails and why it's crucial, supports a strong confidence score. Additionally, it touches on concepts like 'Continuous Improvement' through feedback loops, reinforcing its alignment with key principles. Overall, the content provides a robust discussion of actionable principles, making it a good fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the category, as it thoroughly explores 'Self-Management' within DevOps. It highlights how empowering developers with operational control supports core DevOps values and continuous delivery. The discussion also covers feedback loops and continuous improvement, demonstrating a clear understanding of actionable principles central to the category."
   },
   "Tool": {
     "resourceId": "AgIU1SK-3pE",
@@ -2179,7 +2206,8 @@
     "non_ai_confidence": null,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of 'operational agency' within DevOps as a foundational value that empowers developers and influences organizational behavior. It highlights trust, autonomy, and ownership as essential elements in a successful DevOps culture. The discussion is rich in detail about how lacking these values leads to failures in DevOps initiatives, closely tying to the core themes of values influencing collaboration and trust. However, while it is focused on agency as a value, it also discusses processes and practical implications, which slightly detracts from the singular focus on values.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it centres on how operational agency—rooted in trust, autonomy, and ownership—shapes DevOps culture and outcomes. While it touches on practical aspects, its main emphasis is on the underlying values that drive collaboration and success, making it highly relevant to discussions about values in DevOps."
   },
   "Philosophy": {
     "resourceId": "AgIU1SK-3pE",
@@ -2309,7 +2337,8 @@
     "non_ai_confidence": null,
     "final_score": 83.0,
     "reasoning": "The content directly discusses the critical concept of 'operational agency' within DevOps, emphasizing its necessity for effective continuous delivery and feedback loops. It covers actionable tenets such as developer control over deployments and operational decision-making, aligning closely with the prescriptive nature of tenets. The author provides specific practices that illustrate how to implement these tenets, such as the importance of monitoring, autonomy in production changes, and maintaining feedback loops. Although the focus is strong on agency and decision-making, there could be more explicit ties back to broader tenets within the Agile or Lean frameworks for a full score, but its insight and prescriptive nature still warrant a high confidence rating.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores 'operational agency' in DevOps and offers clear, actionable guidance on empowering developers. By detailing practices like monitoring and autonomous deployments, it provides practical steps aligned with prescriptive tenets. While it could connect more explicitly to broader Agile or Lean principles, its focus and depth make it highly relevant."
   },
   "Capability": {
     "resourceId": "AgIU1SK-3pE",

@@ -63,7 +63,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses the importance of frequent deployments, which aligns with Lean principles of minimising waste and maximising learning through iterative development. It highlights the benefits of smaller, manageable changes and the role of user feedback, both of which are core themes in Lean Product Development. However, while it touches on Lean concepts, it primarily focuses on deployment practices rather than a comprehensive exploration of Lean methodologies, which slightly limits its depth in the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it emphasises frequent deployments, a key Lean Product Development practice that encourages rapid learning and reduced waste. While it mainly addresses deployment strategies rather than the full spectrum of Lean methods, its focus on iterative improvement and user feedback clearly reflects Lean principles."
   },
   "Test Driven Development": {
     "category": "Test Driven Development",
@@ -111,7 +112,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of frequent deployments, which aligns with the principles of empirical process control by emphasising decision-making based on observed evidence (user feedback) rather than assumptions. It highlights the benefits of smaller, manageable changes and iterative development, which are core themes of empirical process control. However, while it touches on these concepts, it does not delve deeply into the theoretical foundations or specific Agile frameworks, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the category as it highlights how frequent deployments support empirical process control by enabling decisions based on real user feedback. It effectively illustrates the value of iterative development and manageable changes, though it doesn’t explore the underlying theory or specific Agile frameworks in detail. Overall, it aligns well with the category’s main themes."
   },
   "Pragmatic Thinking": {
     "category": "Pragmatic Thinking",
@@ -123,7 +125,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content discusses practical strategies for improving code quality through frequent deployments, which aligns well with the core themes of Pragmatic Thinking. It emphasises real-world applications of Agile principles, such as iterative development and hypothesis-driven engineering, showcasing how these practices can enhance collaboration and efficiency. The depth of discussion is significant, providing specific examples and actionable steps, which further supports its alignment with pragmatic approaches. Overall, the content is focused on practical problem-solving in a complex environment, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it explores actionable methods for boosting code quality through regular deployments. It clearly connects Agile concepts to everyday engineering challenges, offering concrete examples and steps. The focus on practical solutions and real-world application demonstrates a pragmatic mindset, making it highly relevant to the category."
   },
   "Employee Engagement": {
     "category": "Employee Engagement",
@@ -300,7 +303,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content explicitly discusses the benefits of frequent deployments, which is a core aspect of Continuous Delivery. It highlights the importance of smaller, manageable changes, rapid user feedback, and the reduction of technical debt, all of which align closely with Continuous Delivery principles. The depth of discussion is substantial, providing practical steps for improvement and emphasising the cultural shift towards iterative development. Overall, the content is highly relevant to Continuous Delivery, making it a strong fit for the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Continuous Delivery category, as it thoroughly explores the advantages of frequent deployments and iterative development. It offers practical advice and emphasises cultural changes that support Continuous Delivery, making it highly relevant and valuable for anyone interested in this area."
   },
   "Working Agreements": {
     "category": "Working Agreements",
@@ -420,7 +424,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the impact of frequent deployments on code quality, aligning closely with best practices in Continuous Integration and Continuous Deployment (CI/CD). It provides detailed insights into the benefits of smaller, manageable changes, technical debt, and iterative development, which are core themes in software development methodologies. The depth of discussion is significant, offering practical steps for improvement and a clear connection to user feedback and maintainability, reinforcing its primary focus on software engineering practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the software engineering category, as it thoroughly explores how frequent deployments influence code quality. It highlights key CI/CD principles, addresses technical debt, and emphasises iterative development. The discussion is practical and user-focused, making it highly relevant to professionals interested in effective software development practices."
   },
   "Azure Repos": {
     "category": "Azure Repos",
@@ -459,7 +464,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of frequent deployments and iterative development, which aligns with Agile principles of continuous value delivery and adaptability. It highlights the benefits of smaller, manageable changes and real-time user feedback, which are key aspects of Agile strategy. However, while it touches on Agile concepts, it primarily focuses on technical practices related to deployment rather than a broader strategic context, which slightly limits its depth in terms of Agile strategy discussions.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns with Agile principles by emphasising frequent deployments and iterative development, both of which support continuous value delivery and adaptability. While it references Agile concepts, its main focus is on technical deployment practices rather than a comprehensive exploration of Agile strategy, making its fit with the category somewhat limited."
   },
   "Collaboration Tools": {
     "category": "Collaboration Tools",
@@ -489,7 +495,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily discusses the impact of frequent deployments on code quality and operational efficiency, aligning closely with the core themes of operational practices. It provides detailed insights into the benefits of smaller batch sizes, increased deployment frequency, and the importance of real-time user feedback, all of which are essential for improving operational efficiency in Agile and DevOps contexts. The depth of discussion is significant, offering practical steps for improvement, which further supports its classification under Operational Practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Operational Practices category, as it explores how frequent deployments and smaller batch sizes can enhance code quality and efficiency. By focusing on real-time feedback and practical improvement steps, it directly addresses key operational strategies in Agile and DevOps, making it highly relevant to this classification."
   },
   "Decision Making": {
     "category": "Decision Making",
@@ -510,7 +517,8 @@
     "non_ai_confidence": 0,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the impact of frequent deployments on code quality and user feedback, which aligns closely with the principles of working software. It highlights the importance of iterative development, gathering user insights, and maintaining software quality through regular updates. The depth of discussion on practical steps for improvement and the benefits of smaller, manageable changes further supports its relevance to the category. However, while it is focused on software delivery, it does not explicitly mention Agile or Scrum frameworks, which slightly lowers the alignment score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category as it explores how frequent deployments enhance code quality and user feedback, key aspects of working software. It emphasises iterative improvement and practical steps for maintaining quality, which are central to the category, even though it doesn’t directly reference Agile or Scrum methodologies."
   },
   "Sprint Review": {
     "category": "Sprint Review",
@@ -756,7 +764,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the impact of frequent deployments on code quality, which aligns closely with the principles of software craftsmanship and technical excellence. It discusses best practices such as reducing batch size, increasing deployment frequency, and managing technical debt, all of which are core themes of the Technical Mastery category. The depth of discussion is substantial, providing practical steps and insights into how these practices can enhance software development. However, while the content is strong, it does not delve deeply into all aspects of software architecture or engineering practices, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the Technical Mastery category, as it explores how frequent deployments can improve code quality and highlights best practices like smaller batch sizes and managing technical debt. While it offers practical advice and valuable insights, it doesn’t cover every facet of software architecture or engineering, which slightly limits its alignment with the full scope of the category."
   },
   "Transparency": {
     "category": "Transparency",
@@ -828,7 +837,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the importance of frequent deployments and their impact on code quality, technical debt management, and maintainability, which are all key aspects of engineering excellence. It directly addresses best practices in coding and the benefits of continuous delivery, aligning well with the core themes of the category. The depth of discussion is significant, providing detailed insights into how these practices can enhance software craftsmanship and improve overall engineering processes.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly explores how frequent deployments contribute to better code quality, reduced technical debt, and improved maintainability. By focusing on best practices and the advantages of continuous delivery, it offers valuable insights that align closely with the principles of engineering excellence and software craftsmanship."
   },
   "Digital Transformation": {
     "category": "Digital Transformation",
@@ -861,7 +871,8 @@
     "non_ai_confidence": 20,
     "final_score": 78.0,
     "reasoning": "The content discusses technical debt in the context of deployment frequency and its impact on code quality. It explicitly mentions technical debt accumulation as a consequence of infrequent deployments, which aligns with the category's focus. However, while it touches on the topic, the primary focus is on deployment practices rather than a comprehensive exploration of technical debt management strategies. The depth of discussion on technical debt is moderate, as it is integrated into broader themes of deployment and maintainability.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the category as it links technical debt to deployment frequency, highlighting how infrequent releases can lead to its accumulation. While technical debt isn’t the sole focus, its discussion is woven into broader topics like deployment and code maintainability, making the content a suitable, though not exhaustive, fit for the category."
   },
   "Remote Working": {
     "category": "Remote Working",
@@ -891,7 +902,8 @@
     "non_ai_confidence": 10,
     "final_score": 72.0,
     "reasoning": "The content discusses the impact of deployment frequency on code quality and development practices, which aligns with the core themes of deployment strategies. It mentions practical steps for improvement, such as reducing batch size and increasing deployment frequency, which are relevant to deployment methodologies. However, while it touches on important aspects of deployment, it lacks detailed exploration of specific strategies like Blue-Green Deployments or Canary Releases, leading to a moderate confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to deployment strategies as it explores how deployment frequency affects code quality and development processes. It offers practical advice for improvement, making it suitable for the category. However, it doesn’t delve into specific deployment techniques, so while it fits broadly, it lacks depth in specialised strategies, resulting in only moderate confidence in its classification."
   },
   "Backlog Refinement": {
     "category": "Backlog Refinement",
@@ -972,7 +984,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content focuses extensively on the benefits and practices of frequent deployments, which directly relates to release management. It discusses the importance of smaller, manageable changes, the impact of deployment frequency on code quality, and the necessity of user feedback, all of which align with key topics in release management. The depth of discussion is significant, providing practical steps for improvement and emphasising iterative development, which are crucial for effective release management. Overall, the content is highly relevant and detailed, justifying a high confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the release management category, as it thoroughly explores frequent deployments, manageable changes, and the value of user feedback. By offering practical advice and highlighting iterative development, it addresses core aspects of release management, making it both relevant and insightful for professionals in this field."
   },
   "Entrepreneurship": {
     "category": "Entrepreneurship",
@@ -1023,7 +1036,8 @@
     "non_ai_confidence": 20,
     "final_score": 82.0,
     "reasoning": "The content primarily discusses the impact of frequent deployments on code quality, which aligns closely with the principles of Continuous Integration and Continuous Delivery (CI/CD). It explicitly mentions the benefits of smaller, manageable changes and the importance of maintainability, which are key aspects of clean code and Agile practices. The depth of discussion is substantial, providing practical steps for improvement and insights into user feedback, which enhances the overall understanding of Agile engineering practices. However, while it touches on several relevant topics, it does not delve deeply into all aspects of Engineering Practices, such as TDD or pair programming, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the Engineering Practices category, as it explores how frequent deployments influence code quality and maintainability—core concerns in Agile and CI/CD workflows. While it offers practical advice and user insights, it doesn’t cover the full range of engineering techniques like TDD or pair programming, so it’s not fully comprehensive for the category."
   },
   "Agile Frameworks": {
     "category": "Agile Frameworks",
@@ -1098,7 +1112,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the benefits of frequent deployments and smaller batch sizes, which align with Agile and DevOps principles that enhance market adaptability. It highlights how these practices allow for quicker responses to customer feedback and market demands, thus demonstrating a clear connection to the category. However, while the content is rich in detail about technical practices, it does not explicitly frame these practices within a broader market adaptability strategy, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the category, as it explores how frequent deployments and smaller batch sizes—key Agile and DevOps practices—help teams respond swiftly to customer needs and market changes. While it clearly links technical methods to adaptability, it could strengthen its case by more directly connecting these practices to overarching market strategies."
   },
   "Sociotechnical Systems": {
     "category": "Sociotechnical Systems",
@@ -1143,7 +1158,8 @@
     "non_ai_confidence": 10,
     "final_score": 82.0,
     "reasoning": "The content discusses the importance of frequent deployments and how they relate to technical debt, customer feedback, and code quality. It explicitly mentions the collection of telemetry and data to validate whether features are worth investing in, which aligns with evidence-based decision-making. The discussion on breaking down work into smaller chunks and the impact of deployment frequency on team behaviour and product quality further supports its relevance to the category. However, while it touches on metrics and learning, it does not delve deeply into specific methodologies or frameworks, which slightly limits the depth of discussion.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a good fit for the category as it explores how frequent deployments, data collection, and feedback loops support evidence-based decision-making. It highlights the value of using metrics to guide product and team improvements, even though it doesn’t go into detail about specific frameworks or methodologies. Overall, it aligns well with the category’s focus on data-driven practices."
   },
   "Agile Product Management": {
     "category": "Agile Product Management",
@@ -1176,7 +1192,8 @@
     "non_ai_confidence": 0,
     "final_score": 82.0,
     "reasoning": "The content primarily focuses on the benefits of frequent deployments, which aligns closely with DevOps principles such as continuous delivery, feedback loops, and shared accountability. It discusses the importance of smaller, manageable changes and the role of user feedback in improving code quality, which are key aspects of the DevOps philosophy. The depth of discussion on practical steps for improvement and the emphasis on iterative development further reinforce its alignment with DevOps. However, while it touches on relevant themes, it does not explicitly mention DevOps as a philosophy, which slightly lowers the confidence score.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content fits the DevOps category as it highlights practices like frequent deployments, iterative improvements, and leveraging user feedback—all central to DevOps. While it doesn’t directly reference DevOps by name, its focus on collaboration, continuous delivery, and practical improvement steps clearly reflects DevOps principles."
   },
   "Technical Excellence": {
     "category": "Technical Excellence",
@@ -1188,7 +1205,8 @@
     "non_ai_confidence": 10,
     "final_score": 87.0,
     "reasoning": "The content primarily focuses on the importance of frequent deployments and its impact on code quality, maintainability, and technical debt, which aligns closely with the principles of Technical Excellence. It discusses Continuous Delivery practices and how they facilitate better engineering outcomes, demonstrating a strong conceptual alignment with the category. The depth of discussion is substantial, providing detailed insights into how smaller batch sizes and frequent deployments can enhance code quality and responsiveness to user feedback, thus fostering a culture of continuous improvement.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Technical Excellence category, as it delves into how frequent deployments and Continuous Delivery practices drive better code quality and maintainability. By highlighting the benefits of smaller batch sizes and rapid feedback, it clearly demonstrates how these approaches support ongoing improvement and robust engineering standards."
   },
   "Lean": {
     "category": "Lean",
@@ -1296,7 +1314,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the benefits of frequent deployments, which directly ties into product delivery methodologies. It highlights the importance of breaking down work into smaller, manageable chunks, aligning with iterative development and feedback loops. The discussion on technical debt and the need for maintainable code further supports the core themes of product delivery. Additionally, it touches on customer feedback and telemetry, which are crucial for understanding customer needs and improving delivery performance. Overall, the content is highly relevant and detailed, making it a strong fit for the Product Delivery category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong match for the Product Delivery category, as it explores frequent deployments, iterative development, and the value of breaking work into smaller pieces. It also addresses technical debt, maintainable code, and the use of customer feedback—all key aspects of effective product delivery and continuous improvement."
   },
   "Complexity Thinking": {
     "category": "Complexity Thinking",
@@ -1419,7 +1438,8 @@
     "non_ai_confidence": 20,
     "final_score": 87.0,
     "reasoning": "The content extensively discusses the benefits of frequent deployments, which directly ties into the principles of Continuous Improvement. It highlights the importance of iterative development, user feedback, and reducing technical debt, all of which are core themes of Continuous Improvement. The depth of discussion is significant, providing practical steps and insights into how frequent deployments can enhance code quality and team effectiveness. Overall, the content aligns well with the category, demonstrating a strong commitment to ongoing improvement and adaptation.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a great fit for the Continuous Improvement category, as it thoroughly explores how frequent deployments support ongoing progress. By focusing on iterative development, user feedback, and reducing technical debt, it clearly demonstrates key aspects of continuous improvement, offering practical advice and showing a strong dedication to evolving and refining processes."
   },
   "Common Goals": {
     "category": "Common Goals",
@@ -1443,7 +1463,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of frequent deployments and their impact on code quality, user feedback, and team confidence, which aligns with the principles of competence in Agile and DevOps. It highlights continuous learning through iterative development and the necessity of maintaining quality, thus demonstrating a strong connection to the core themes of competence. However, while it touches on these aspects, it does not delve deeply into strategies for fostering a culture of competence or methods for inspecting and adapting competence over time, which slightly limits its depth of discussion.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the competence category as it explores how regular deployments support code quality, user feedback, and team confidence—key aspects of competence in Agile and DevOps. While it clearly links frequent releases to ongoing learning and quality, it doesn’t go into detail about building or evaluating a culture of competence, so its coverage is somewhat limited."
   },
   "One Engineering System": {
     "category": "One Engineering System",
@@ -1539,7 +1560,8 @@
     "non_ai_confidence": 20,
     "final_score": 72.0,
     "reasoning": "The content discusses the importance of frequent deployments, which directly relates to reducing Time to Market by enabling quicker feedback and iterative development. It highlights the benefits of smaller, manageable changes and increased deployment frequency, aligning well with the core themes of Time to Market. However, while it touches on these concepts, it does not explicitly define Time to Market or provide metrics associated with it, which slightly lowers the confidence score. Overall, the depth of discussion on practical steps for improvement and the impact on user satisfaction supports a strong alignment with the category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Time to Market category, as it explores how frequent deployments can speed up feedback loops and support faster, more manageable releases. While it doesn’t explicitly define Time to Market or offer specific metrics, its focus on practical strategies and their positive effects on user satisfaction closely aligns with the category’s core themes."
   },
   "Unrealised Value": {
     "category": "Unrealised Value",
@@ -1563,7 +1585,8 @@
     "non_ai_confidence": 0,
     "final_score": 72.0,
     "reasoning": "The content discusses the benefits of frequent deployments, which directly relates to the concept of Current Value by highlighting how real-time user insights and feedback can inform development decisions. It mentions metrics like user feedback and technical debt, aligning with the importance of assessing value delivered. However, while it touches on these aspects, it does not delve deeply into specific metrics or structured techniques for measuring Current Value, which slightly lowers the depth score. Overall, the primary focus is on the impact of deployment frequency on code quality and user satisfaction, making it relevant to the Current Value category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is relevant to the Current Value category because it explores how frequent deployments can enhance user satisfaction and code quality by enabling rapid feedback and adaptation. While it references user feedback and technical debt, it doesn’t provide detailed measurement methods, focusing instead on the broader impact of deployment practices on delivering value."
   },
   "Agnostic Agile": {
     "category": "Agnostic Agile",
@@ -1740,7 +1763,8 @@
     "non_ai_confidence": null,
     "final_score": 75.0,
     "reasoning": "The content focuses extensively on the practice of frequent deployments as a method to enhance code quality, thoroughly discussing specific procedures and benefits associated with iterative development and smaller batch sizes. It provides practical steps for improvement, aligning strongly with the core themes of structured methods in Agile practices. While the content does touch on concepts like technical debt and user feedback, it primarily emphasizes actionable methods directly related to software deployment, making it a strong candidate for the 'Method' category.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a great fit for the 'Method' category, as it centres on practical steps and structured approaches to frequent deployments. It highlights how iterative development and smaller releases can improve code quality, aligning closely with Agile methodologies. While related topics like technical debt are mentioned, the main focus remains on actionable deployment strategies, making it well-suited to this classification."
   },
   "Model": {
     "resourceId": "D1wz-J1jklQ",

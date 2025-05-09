@@ -153,7 +153,8 @@
     "non_ai_confidence": 50,
     "final_score": 72.0,
     "reasoning": "The content discusses customer satisfaction as a guiding principle that influences decision-making and team behaviour, aligning well with the category of 'Principle'. It explicitly mentions the importance of embedding a customer-centric mindset into the organisational culture, which reflects actionable principles. The discussion on how customer satisfaction drives continuous improvement and value delivery further supports its relevance to the category. However, while it touches on principles, it does not delve deeply into specific frameworks like Agile or Lean, which slightly lowers the confidence score.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the 'Principle' category because it highlights customer satisfaction as a core value shaping decisions and team actions. It emphasises fostering a customer-focused culture and links this mindset to ongoing improvement and value creation. While it doesn’t explore detailed frameworks, its focus on guiding beliefs and behaviours aligns well with the essence of principles."
   },
   "Artifact": {
     "category": "Artifact",
@@ -303,7 +304,8 @@
     "ai_penalty_details": "none",
     "final_score": 83.0,
     "reasoning": "The content does not explicitly mention 'Current Value' or Evidence-Based Management (EBM), but customer satisfaction is defined as a critical indicator and feedback mechanism for delivering value—central to Current Value’s metrics. The discussion links customer satisfaction to continuous improvement, product-market fit, and ongoing value delivery, which are conceptually aligned with Current Value as defined in EBM. There is substantial depth, moving beyond basic definitions to discuss embedding customer satisfaction in organizational culture and leveraging feedback for iterative improvement. The overall intent matches the category, aiming to inform teams and organizations on the importance and application of this value metric. The audience seems to be product development practitioners, aligning well with the EBM audience. The content stays focused, with little embellishment or filler. However, because the term 'Current Value' and specific EBM methodologies are not expressly referenced, direct mentions are moderate and overall confidence is slightly tempered by the absence of explicit category language.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "The content aligns well with the 'Current Value' category, as it emphasises customer satisfaction as a key indicator of value delivery—central to EBM principles. While it doesn’t directly reference 'Current Value' or EBM, it thoroughly explores related concepts like feedback loops and continuous improvement, making it highly relevant for product development professionals interested in value metrics."
   },
   "Scrum": {
     "resourceId": "Customer Satisfaction",
@@ -339,7 +341,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content centers around the theme of customer satisfaction as a means to ensuring product-market fit and continuous improvement—key concerns related to Product Validation. There are clear conceptual links to user feedback loops, value delivery, and iterative product enhancement. However, it never directly mentions 'product validation,' specific testing methodologies, or frameworks such as prototyping, A/B testing, or Lean Startup, leading to a low score in Direct Mentions. The alignment and depth scores are strong due to substantive discussion of embedding user feedback and customer-centric thinking into product development. The intent fits with the category, as the content promotes using customer feedback to guide product evolution, though it is slightly more focused on broad organizational mindset than specific validation practices. The target audience aligns well with practitioners and strategists interested in product-market fit and iterative improvement. The content is focused and avoids unrelated tangents, resulting in a high signal-to-noise ratio. There are no outdated references or contradictory tones, so no penalties were applied. Ultimately, this yields a moderate-to-high confidence that the content fits under Product Validation, mainly due to its strong practical alignment and depth, despite lacking explicit mention of some core category terminology.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a good fit for the Product Validation category, as it emphasises the importance of customer feedback and continuous improvement—core aspects of validating products. While it doesn’t explicitly reference specific validation methods or terminology, its focus on user-centric development and iterative enhancement aligns well with the category’s intent, making it relevant for those interested in product-market fit and improvement strategies."
   },
   "Site Reliability Engineering": {
     "resourceId": "Customer Satisfaction",
@@ -717,7 +720,8 @@
     "ai_penalty_details": "none",
     "final_score": 75.0,
     "reasoning": "The content provides a nuanced discussion of customer satisfaction as both a metric and a driver in product development. While 'Customer Feedback Loops' is not explicitly named, the text refers to feedback as a vital loop and emphasizes the integration of user feedback into iterative improvement processes. The alignment is strong: the role of customer satisfaction in shaping product direction, facilitating iterative change, and embedding a feedback-driven culture reflects the core of the Customer Feedback Loops category. Depth is solid, exploring organizational mindset and linking feedback to actionable outcomes. The intent and purpose are supportive and directly relevant, targeting practitioners involved in product development or management. Audience fit is strong but slightly less than perfect as the discussion is broad and could apply to executive or strategic roles as well. Signal-to-noise is high, with minor tangents about cultural mindset, but these ultimately support the main theme. No penalties applied, as the discussion is timely and reinforces the positive value of feedback loops.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content is a great fit for the Customer Feedback Loops category. It clearly highlights how user feedback drives product improvement and shapes organisational culture, even if the term isn’t directly used. The discussion is practical and relevant for those in product roles, with only minor digressions. Overall, it effectively demonstrates the importance and impact of feedback loops in product development."
   },
   "Estimation": {
     "resourceId": "Customer Satisfaction",
@@ -879,7 +883,8 @@
     "ai_penalty_details": "none",
     "final_score": 86.0,
     "reasoning": "The content centers customer satisfaction as a feedback loop and principle within product development, explicitly referencing iterative improvement and the importance of aligning products with user needs—directly matching key subtopics in the category definition. Although 'product development' is referenced verbatim in two locations and implied elsewhere, explicit category mentions are less frequent, accounting for a non-maximum mentions score. The piece strongly aligns conceptually and thoroughly explores how customer satisfaction integrates into iterative processes, continuous improvement, and delivery—all fundamental to product development methodology. The intent is clearly to inform teams and organisations about embedding customer feedback in product processes; the target audience appears to be practitioners and strategists concerned with product-market fit and ongoing delivery. Signal is quite high, as nearly the entire discussion is relevant and on-topic, with almost no filler or tangential content. No penalties were applied, as there is no evidence of outdated practices, contradictory tone, or misaligned intent. The resulting confidence score appropriately reflects high alignment, depth, and purpose fit, with direct mention being the relatively weakest dimension.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the category, as it thoroughly discusses how customer satisfaction drives iterative product development and continuous improvement. It’s aimed at professionals focused on aligning products with user needs, offering relevant insights without off-topic material. While direct category mentions are limited, the conceptual alignment and practical focus make it highly suitable."
   },
   "Trend Analysis": {
     "resourceId": "Customer Satisfaction",
@@ -1059,7 +1064,8 @@
     "ai_penalty_details": "none",
     "final_score": 77.0,
     "reasoning": "The content centers on customer satisfaction as a measure and guiding principle for product and organizational improvement. While customer satisfaction is related to Product Discovery, the article never directly mentions Product Discovery, specific methodologies (user research, MVPs, Lean Startup, Design Thinking), or structured approaches to understanding customer needs and defining features. However, it does touch on concepts such as using feedback loops, aligning product development to user needs, and the importance of iterative, customer-centric refinement—all thematically aligned with Product Discovery. The discussion has moderate depth, describing continuous improvement and the embedding of customer-centric culture, but it lacks concrete techniques, examples, or frameworks. The intent is informative and fits the audience interested in aligning products with customer value, though it could also appeal to general product management or customer experience professionals, not just discovery practitioners. The content is focused, with very little off-topic material. No outdated practices or contradictory tones are present, so no penalties were applied. Overall, while the fit is strong from a conceptual perspective, the lack of explicit direct mentions and methodologies specific to Product Discovery brings the confidence score below 80.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "The content aligns well with Product Discovery in spirit, emphasising customer satisfaction and iterative improvement. However, it doesn’t directly reference Product Discovery or its specific methods, instead focusing on broader customer-centric principles. This makes it relevant for those interested in aligning products with user needs, but it lacks the depth and explicit detail expected for a perfect category fit."
   },
   "Engineering Practices": {
     "resourceId": "Customer Satisfaction",
@@ -1671,7 +1677,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content focuses on the importance of customer satisfaction in achieving product-market fit and how it feeds into the product development cycle. There are no explicit or frequent mentions of 'Product Management' as a term, resulting in a lower Direct Mentions score. However, the conceptual alignment is strong, as the discussion centers around using customer satisfaction as a strategic feedback loop, which is a key concern in product management. The depth is reasonably good — it moves beyond definitions to discuss systemic embedding of customer-centricity and its impact on product development and business outcomes, though it could further specify frameworks or methodologies commonly used by product managers. The intent clearly supports product management objectives: informing and encouraging strategic, user-centered development. The likely audience includes product managers and strategists, though the focus could appeal to broader business or customer experience professionals, justifying a slightly reduced audience score. The content remains focused on its core topic, with little filler. No penalties were applied, as the content is current, neutral in tone, and aligned with established practice. The final confidence score is strong but not maximal, reflecting limited explicit product management language yet high thematic and practical alignment.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content aligns well with the product management category, as it explores how customer satisfaction drives product development and strategic decisions. While it doesn’t frequently use the term 'Product Management', its focus on customer-centric feedback loops and business outcomes is highly relevant to the field, making it valuable for product managers and related professionals."
   },
   "Customer Retention": {
     "resourceId": "Customer Satisfaction",
@@ -1689,7 +1696,8 @@
     "ai_penalty_details": "none",
     "final_score": 93.0,
     "reasoning": "The content explicitly discusses concepts central to customer retention, such as prioritising customer satisfaction as a path to loyalty and retention, embedding customer-centric culture, utilising feedback loops, and iteratively improving based on user needs. Direct mentions of 'retention' and related concepts are present, though 'customer retention' itself appears only once; focus is more on satisfaction as the precursor to retention. The alignment with the category is very strong: feedback loops, organisational cultural aspects, and value delivery are all discussed at significant depth, as is the link between satisfaction and long-term retention. The intent is to inform and guide organisations in practices that directly support customer retention. The audience is likely organisational leaders or product teams—well aligned with the category. Signal-to-noise is high, as the text remains focused throughout. No penalties are warranted, as the content is current, neutral in tone, and distinctive in relevance to the category.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is a strong fit for the customer retention category, as it thoroughly explores strategies like prioritising satisfaction, fostering a customer-centric culture, and leveraging feedback loops. These elements are directly linked to improving retention, and the guidance is clearly aimed at organisations seeking to boost loyalty. The focus is consistent and relevant, making the classification highly appropriate."
   },
   "Minimum Viable Product": {
     "resourceId": "Customer Satisfaction",
@@ -1941,7 +1949,8 @@
     "ai_penalty_details": "none",
     "final_score": 74.0,
     "reasoning": "The content discusses 'customer satisfaction' in general business and product management terms, without referencing Agile, Scrum, DevOps, Lean, or Evidence-Based Management frameworks or authors. It does not provide actionable guidance linked to established methodologies, nor does it reference technical or framework-specific concepts. The ideas presented, such as continuous improvement via user feedback and embedding a customer-centric mindset, are broadly applicable and do not align with any proprietary or formal framework, fitting squarely into the 'Miscellaneous' category. The core themes align with the category's intent, focusing on a topic relevant to business agility in a non-framework-specific, anecdotal, and general manner. Direct mentions of 'miscellaneous' are absent, but the lack of alignment to any specific methodology pushes the alignment and depth scores higher, though not to the maximum due to the fairly general and theory-neutral exploration of the topic. Audience alignment is solid, focusing on teams, organisations, and product stakeholders rather than a strict practitioner or technical group. The signal is quite focused but contains generalities and lacks detailed exploratory analysis. No outdated references or contradicting tone are present, so no penalties were applied. Overall, the content comfortably fits into 'Miscellaneous' with a solid, but not absolute, confidence.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "This content fits the 'Miscellaneous' category because it explores customer satisfaction in a broad, business-focused way without tying into specific frameworks like Agile or DevOps. It offers general insights rather than actionable, methodology-based advice, making it relevant to a wide audience but not specialised enough for framework-specific categories. Its general, theory-neutral approach aligns well with the intent of 'Miscellaneous'."
   },
   "Agile Transformation": {
     "resourceId": "Customer Satisfaction",
@@ -2355,7 +2364,8 @@
     "ai_penalty_details": "none",
     "final_score": 96.0,
     "reasoning": "The content directly and repeatedly references customer satisfaction, precisely defining it and detailing its importance in product-market fit and value delivery (mentions: 9.7). Conceptually, the entire passage is built around principles and practices of measuring and enhancing customer happiness, embedding a customer-centric culture, and using feedback as an iterative feedback loop—all aligning with the category's core themes (alignment: 9.8). The discussion goes beyond surface-level remarks, exploring the impact of customer satisfaction on organizational adaptability, iterative improvement, quality, and business outcomes, with references to feedback mechanisms and embedding customer focus at a cultural level (depth: 9.6). The intent is fully consistent with the category’s focus: informing and advocating for best practices in customer satisfaction (intent: 9.5). The audience appears to be practitioners and organizational leaders interested in Agile/DevOps-aligned customer-centricity, closely matching the expected audience (audience: 9.3). Nearly all sentences are focused and on-topic, with very little filler or digression (signal: 9.4). No penalties were applied, as the content is current, positive, and fully aligned with the category. The high confidence score reflects this strong fit across all dimensions.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is an excellent fit for the category, as it thoroughly explores customer satisfaction—defining it, emphasising its importance, and detailing how to measure and improve it. The discussion is practical and in-depth, aimed at professionals seeking to embed customer-centric practices, making it highly relevant and valuable for the intended audience."
   },
   "Ability to Innovate": {
     "resourceId": "Customer Satisfaction",
@@ -2463,7 +2473,8 @@
     "ai_penalty_details": "none",
     "final_score": 76.0,
     "reasoning": "The content never directly mentions 'continuous improvement' by name, resulting in a lower score for Direct Mentions (4.2). However, it conceptually aligns well with continuous improvement principles, noting the importance of customer feedback loops, adaptation, and iterative enhancements—core elements of continuous improvement—hence a strong Alignment score (7.9). The Depth of Discussion (7.4) is above average, as it explores embedding customer centricity and continuous adaptation into organizational culture, though it lacks deep exploration of specific continuous improvement tools or frameworks. The Intent (8.1) is tightly aligned with the category, aiming to guide organizations toward sustainability and resilience through ongoing feedback-driven enhancements. The Audience (7.5) appears to target both practitioners and strategists interested in outcomes and process alignment, which matches the category audience. Signal-to-Noise Ratio is high (7.8) since the content remains focused, although it centers customer satisfaction over explicit continuous improvement concepts. No penalties have been applied as the content stays current, positive, and constructive, making the overall confidence proportionate given its strong thematic alignment but lack of explicit category naming.",
-    "level": "Secondary"
+    "level": "Secondary",
+    "reasoning_summary": "While the content doesn’t explicitly mention ‘continuous improvement’, it strongly reflects its principles—emphasising feedback loops, adaptation, and iterative progress. The discussion is relevant and insightful for those interested in embedding ongoing enhancement into organisational culture, making it a good fit for the category despite not naming it directly. The focus on customer-centricity further supports its alignment."
   },
   "Forecasting": {
     "resourceId": "Customer Satisfaction",
@@ -2679,7 +2690,8 @@
     "ai_penalty_details": "none",
     "final_score": 81.0,
     "reasoning": "The content focuses extensively on customer satisfaction as a lens for product-market fit, embedding it as a guiding principle for product development and delivery. It discusses feedback loops, continuous improvement, and iterative enhancement—concepts core to value delivery in Agile and DevOps contexts. While 'value delivery' is directly mentioned once, the principal theme is tightly conceptually aligned. The discussion moves beyond mere definition, touching on systemic and cultural aspects, but does not explicitly explore frameworks or methods like CI/CD, value stream mapping, or evidence-based management. The intent is closely tied to maximizing customer value, and the audience appears to be practitioners and organizations invested in iterative value delivery. Overall, the content is highly relevant with minor room for deeper technical or methodological specificity regarding Agile/DevOps practices.",
-    "level": "Primary"
+    "level": "Primary",
+    "reasoning_summary": "This content is highly relevant to the category, as it centres on customer satisfaction and iterative improvement—key aspects of value delivery in Agile and DevOps. While it doesn’t delve deeply into specific frameworks or technical methods, its focus on feedback loops and continuous enhancement aligns well with the principles of value-driven development. The discussion is practical and well-suited for practitioners aiming to maximise customer value."
   },
   "Market Share": {
     "resourceId": "Customer Satisfaction",
