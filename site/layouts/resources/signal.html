@@ -1,0 +1,107 @@
+{{- define "headline" }}
+  <section class="container-fluid resources-headline py-md-4">
+    <section class="container my-2" style="max-width: 900px !important">
+      <div>
+        <div class="row">
+          <div class="col-12 col-xl-8">
+            {{- partial "publications/resourceType.html" . }}
+          </div>
+          <div class="col-xl-4 d-none d-xl-flex justify-content-end align-items-center">
+            <h4>tech·nic·al·ly agile</h4>
+          </div>
+          <div class="col-12 col-xl-8 d-flex flex-column">
+            <div class="flex-grow-1">
+              <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
+              {{- if .Params.subtitle }}
+                <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
+              {{ else }}
+                <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
+              {{- end }}
+            </div>
+            <div class="mt-auto">{{- partial "publications/craft.html" . }}</div>
+          </div>
+          <div class="col-xl-4 d-none d-xl-flex justify-content-center align-items-center">
+            <div class="position-relative">
+              <img src="/images/technically-agile-logo.png" />
+              <img src="/images/nkdagility-with-martin-hinshelwood-dark-300px.png" alt="Image" class="position-absolute top-0 end-0" style="width: 100px; height: auto;" />
+            </div>
+          </div>
+          <div class="col-xl-12 d-none d-xl-flex justify-content-end align-items-center">
+            {{ $url := "" }}
+            {{ if eq .Type "resources" }}
+              {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+            {{ else }}
+              {{ $url = printf "https://nkdagility.com%s" .RelPermalink }}
+            {{ end }}
+            {{ $url }}
+          </div>
+        </div>
+      </div>
+    </section>
+  </section>
+  <section class="container-fluid resources-headline-sharebar">
+    <section class="container" style="max-width: 900px !important">{{- partial "publications/share-bar.html" . }}</section>
+  </section>
+{{- end }}
+
+{{- define "main" }}
+  <section class="container my-5" style="max-width: 700px !important">
+    {{- .Content }}
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+      {{ with .Params.platform_signal }}
+        {{ range $index, $item := . }}
+          <li class="nav-item" role="presentation">
+            <button class="nav-link {{ if eq $index 0 }}active{{ end }}" id="signals-tab" data-bs-toggle="tab" data-bs-target="#{{ .platform }}" type="button" role="tab" aria-controls="signals" aria-selected="{{ if eq $index 0 }}true{{ else }}false{{ end }}">{{ .platform }}</button>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+
+    <div class="tab-content mt-3" id="myTabContent">
+      {{ with .Params.platform_signal }}
+        {{ range $index, $item := . }}
+          <div class="tab-pane fade {{ if eq $index 0 }}show active{{ end }}" id="{{ .platform }}" role="tabpanel" aria-labelledby="signals-tab">
+            {{ if  eq .platform "LinkedIn" }}
+              <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:{{- .post_id -}}?collapsed=1" height="764" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+            {{ end }}
+            {{ if  eq .platform "Reddit" }}
+              <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
+                <a href="{{ .post_url }}">{{ .Page.Title }} </a>
+              </blockquote>
+            {{ end }}
+          </div>
+        {{ end }}
+      {{ end }}
+      <script>
+        document.querySelectorAll('button[data-bs-toggle="tab"]').forEach((button) => {
+          button.addEventListener("shown.bs.tab", function () {
+            if (this.dataset.bsTarget.includes("Reddit")) {
+              const existingScript = document.querySelector('script[src*="reddit.com/widgets.js"]');
+              if (existingScript) {
+                existingScript.remove();
+              }
+              const script = document.createElement("script");
+              script.src = "https://embed.reddit.com/widgets.js";
+              script.async = true;
+              script.charset = "UTF-8";
+              document.body.appendChild(script);
+            }
+          });
+        });
+      </script>
+    </div>
+  </section>
+
+  <section class="container my-5" style="max-width: 700px !important">
+    {{- partial "publications/tag-cloud.html" . }}
+  </section>
+  <section class="container my-5" style="max-width: 900px !important">
+    {{- partial "publications/share-bar.html" . }}
+  </section>
+  <section class="container my-5 p-2" style="max-width: 700px !important">
+    {{- partial "publications/comments.html" . }}
+  </section>
+{{- end }}
+{{- define "template" }}
+  resources/signal.html
+{{- end }}
