@@ -22,6 +22,31 @@
             </ul>
           </div>
           <div class="col-md-10">
+            {{- if ne hugo.Environment "production" }}
+              <div class="m-1">
+                <h5>Future</h5>
+                <div class="columns-2">
+                  {{ $resources := (sort (where .Site.RegularPages "Type" "resources") "Date" "desc") }}
+                  {{ range $resources }}
+                    {{ if .Date.After now }}
+                      {{ $duration := .Date.Sub now }}
+                      {{ $days := math.Floor (div $duration.Hours 24) }}
+                      <div class="text-truncate" title="{{ .Title }} - {{ .Description }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }} (in {{ $days }} days)">
+                        {{- partial "components/resources/resource-icon.html" . }}
+                        {{ if .Draft }}
+                          <i class="fa-brands fa-firstdraft"></i>
+                        {{ end }}
+                        <i class="fa-regular fa-flux-capacitor"></i>
+                        <span title="in {{ $days }} days">[{{ $days }}]</span>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                      </div>
+                    {{ end }}
+                  {{ end }}
+                </div>
+
+                <hr />
+              </div>
+            {{- end }}
             <div class="m-1">
               <h5>Recent</h5>
               <div class="columns-2">
