@@ -94,7 +94,7 @@
         <div class="m-1">
           <h5>Most recent content</h5>
           <div class="columns-2">
-            {{ $recent := first 10 (sort $resources "Date" "desc") }}
+            {{ $recent := first 20 (sort $resources "Date" "desc") }}
 
             {{ range $recent }}
               <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}{{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}{{ end }}">
@@ -107,7 +107,7 @@
                 {{ end }}
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
               </div>
-              <p>{{ .Description }}</p>
+              {{/*  <p>{{ .Description }}</p>  */}}
             {{ end }}
           </div>
 
@@ -116,7 +116,7 @@
         <div class="m-1">
           <h5>On Engineering Excelence & Technical Leadership</h5>
           <div class="columns-2">
-            {{ range first 10 $resources.ByWeight }}
+            {{ range first 20 $resources.ByWeight }}
               <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}">
                 {{- partial "components/resources/resource-icon.html" . }}
                 {{ if .Draft }}
@@ -127,7 +127,28 @@
                 {{ end }}
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
               </div>
-              <p>{{ .Description }}</p>
+              {{/*  <p>{{ .Description }}</p>  */}}
+            {{ end }}
+          </div>
+          <hr />
+        </div>
+         <div class="m-1 small">
+          <h5>Concepts</h5>`
+          <div class="columns-4">
+            {{ range $category, $pages := .Site.Taxonomies.concepts }}
+              {{- $items := where $pages "Draft" "!=" true -}}
+              {{- if $ResourceTypes }}
+                {{- $items = where $items "Params.ResourceType" $ResourceTypes -}}
+              {{- end }}
+              {{- $count := len ($items) -}}
+              {{- if gt $count 0 }}
+                <div class="d-flex align-items-center">
+                  <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
+                    <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
+                  </span>
+                  <span class="ms-1">({{ $count }})</span>
+                </div>
+              {{- end }}
             {{ end }}
           </div>
           <hr />
