@@ -55,6 +55,38 @@
         </ul>
       </div>
       <div class="col-md-10">
+        {{- if ne hugo.Environment "production" }}
+          <div class="m-1">
+            {{ $resources := sort (where .Site.RegularPages "Type" "resources") "Date" "desc" }}
+            {{ $.Scratch.Set "futureResources" (slice) }}
+
+            {{ range $resources }}
+              {{ if .Date.After now }}
+                {{ $.Scratch.Add "futureResources" (slice .) }}
+              {{ end }}
+            {{ end }}
+
+            {{ $futureResources := $.Scratch.Get "futureResources" }}
+            <h5>Future ({{ len $futureResources }})</h5>
+            <div class="columns-2">
+              {{ range $futureResources }}
+                {{ $duration := .Date.Sub now }}
+                {{ $days := math.Floor (div $duration.Hours 24) }}
+                <div class="text-truncate" title="{{ .Title }} - {{ .Description }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }} (in {{ $days }} days)">
+                  {{- partial "components/resources/resource-icon.html" . }}
+                  {{ if .Draft }}
+                    <i class="fa-brands fa-firstdraft"></i>
+                  {{ end }}
+                  <i class="fa-regular fa-flux-capacitor"></i>
+                  <span title="in {{ $days }} days">[{{ $days }}]</span>
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </div>
+              {{ end }}
+            </div>
+
+            <hr />
+          </div>
+        {{- end }}
         {{ $resources := where .Site.RegularPages "Type" "resources" }}
         {{ if .Params.ResourceTypes }}
           {{ $resources = where $resources "Params.ResourceType" .Params.ResourceTypes }}
