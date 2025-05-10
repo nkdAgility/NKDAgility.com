@@ -57,16 +57,11 @@
       <div class="col-md-10">
         {{- if ne hugo.Environment "production" }}
           <div class="m-1">
-            {{ $resources := sort (where .Site.RegularPages "Type" "resources") "Date" "desc" }}
-            {{ $.Scratch.Set "futureResources" (slice) }}
-
-            {{ range $resources }}
-              {{ if .Date.After now }}
-                {{ $.Scratch.Add "futureResources" (slice .) }}
-              {{ end }}
+            {{ $futureResources := where (where .Site.RegularPages "Type" "resources") "Date" "ge" now }}
+            {{ $futureResources := sort $futureResources "Date" "desc"}}
+            {{ if .Params.ResourceTypes }}
+              {{ $futureResources = where $futureResources "Params.ResourceType" .Params.ResourceTypes }}
             {{ end }}
-
-            {{ $futureResources := $.Scratch.Get "futureResources" }}
             <h5>Future ({{ len $futureResources }})</h5>
             <div class="columns-2">
               {{ range $futureResources }}
@@ -87,7 +82,8 @@
             <hr />
           </div>
         {{- end }}
-        {{ $resources := where .Site.RegularPages "Type" "resources" }}
+        
+        {{ $resources := where (where .Site.RegularPages "Type" "resources") "Date" "le" now }}
         {{ if .Params.ResourceTypes }}
           {{ $resources = where $resources "Params.ResourceType" .Params.ResourceTypes }}
         {{ end }}
@@ -133,7 +129,7 @@
           <hr />
         </div>
          <div class="m-1 small">
-          <h5>Concepts</h5>`
+          <h5>Concepts</h5>
           <div class="columns-4">
             {{ range $category, $pages := .Site.Taxonomies.concepts }}
               {{- $items := where $pages "Draft" "!=" true -}}
