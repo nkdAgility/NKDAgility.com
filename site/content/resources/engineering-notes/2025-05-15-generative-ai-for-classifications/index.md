@@ -20,6 +20,8 @@ tags:
 - Transparency
 - Pragmatic Thinking
 weight: 400
+concepts:
+- Tool
 
 ---
 I moved my blog to Hugo in mid-2024 to regain control over my content and workflow. This proved to be a great decision as it gave me the ability to really focus on content for my site.

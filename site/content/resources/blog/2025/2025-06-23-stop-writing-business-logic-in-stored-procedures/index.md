@@ -6,7 +6,7 @@ ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 date: 2025-06-23T09:00:00Z
-weight: 380
+weight: 240
 aliases:
 - /resources/utAzlIGxj7O
 aliasesArchive:
@@ -19,12 +19,10 @@ tags:
 - Engineering Practices
 - Software Development
 - Technical Excellence
-- Operational Practices
-- Pragmatic Thinking
 - Technical Debt
-- Continuous Improvement
 Watermarks:
   description: 2025-05-07T12:49:00Z
+concepts: []
 
 ---
 Over the years, I've encountered many companies that have maintained their business logic in stored procedures, but the practice of doing so has died out, for good reasons ill hilight below. However, many codebases have been around for 10+ years, and may still have large amounts of business logic in them.

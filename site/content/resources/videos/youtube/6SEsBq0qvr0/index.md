@@ -42,6 +42,8 @@ tags:
 - Agile Planning
 - Value Delivery
 weight: 220
+concepts:
+- Artifact
 
 ---
 I see this confusion time and again: teams muddling up acceptance criteria with the definition of done. It’s a subtle distinction, but one that, if ignored, leads to missed expectations, hidden risks, and ultimately, broken trust between teams and stakeholders. Let’s be clear—one defines quality, the other defines scope. If you want to move fast without cutting corners, you need to get this right.

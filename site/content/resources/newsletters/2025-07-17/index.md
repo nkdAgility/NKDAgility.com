@@ -4,7 +4,7 @@ description: Explains how technical leaders can break down organisational silos 
 ResourceId: AORP41zLNTi
 ResourceImport: false
 date: 2025-07-17
-weight: 155
+weight: 55
 author: MrHinsh
 ResourceType: newsletters
 ResourceContentOrigin: human
@@ -15,18 +15,27 @@ aliases:
 categories:
 - Technical Leadership
 - Leadership
-- DevOps
+- Engineering Excellence
 tags:
+- Software Development
 - Operational Practices
-- Business Agility
 - Pragmatic Thinking
+- Product Delivery
+- Technical Mastery
+- Technical Excellence
+- Engineering Practices
 - Market Adaptability
 - Organisational Agility
-- Product Delivery
-- Software Development
+- Continuous Delivery
+- Enterprise Agility
+- Social Technologies
+- Sociotechnical Systems
+- Team Performance
 - Value Delivery
 Watermarks:
   description: 2025-05-07T12:48:55Z
+concepts:
+- Accountability
 
 ---
 Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.

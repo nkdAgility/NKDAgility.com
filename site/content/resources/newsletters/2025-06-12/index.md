@@ -23,6 +23,7 @@ tags:
 - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:49:02Z
+concepts: []
 
 ---
 In resilient organisations, resilience is not about bouncing back; it is about bouncing forward. Teams that survive chaos but leave behind technical debt are not resilient — they are brittle.

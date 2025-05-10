@@ -21,6 +21,8 @@ tags:
 - Digital Transformation
 Watermarks:
   description: 2025-05-07T12:49:07Z
+concepts:
+- Accountability
 
 ---
 Agility today is not about ceremonies or frameworks. It is about **agentic agility** — the deliberate interaction between human agency (people making meaningful, accountable decisions) and AI agency (systems that can act and adapt on their own).

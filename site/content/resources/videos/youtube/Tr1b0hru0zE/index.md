@@ -41,6 +41,8 @@ tags:
 - Digital Transformation
 - Market Adaptability
 weight: 190
+concepts:
+- Practice
 
 ---
 When I walk into organisations wrestling with legacy systems, I see the same story play out time and again. There’s a desire to move faster, to be more responsive, to scale with confidence—but the weight of decades-old decisions drags everything down. These decisions, made with the best intentions and the knowledge available at the time, have become anchors. The risk of change feels insurmountable, and so inertia sets in.

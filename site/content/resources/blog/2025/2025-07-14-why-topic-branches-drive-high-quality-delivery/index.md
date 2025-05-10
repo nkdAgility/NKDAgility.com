@@ -31,6 +31,8 @@ tags:
 - Technical Excellence
 Watermarks:
   description: 2025-05-07T12:48:56Z
+concepts:
+- Tenet
 
 ---
 In modern [software development]({{< ref "/tags/software-development" >}}) the idea of the topic branch is an essecial one. It is your gatekeeper to preventing Conway's Law and an engineering structure that mirrors your organisational boundaries. Frequent integration through topic branches helps break down silos, encouraging cross-[team collaboration]({{< ref "/tags/team-collaboration" >}}) and reducing the tendency for the software architecture to reflect the organisation's communication paths.

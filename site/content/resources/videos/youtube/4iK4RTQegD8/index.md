@@ -42,6 +42,8 @@ tags:
 - Change Management
 - Organisational Agility
 weight: 240
+concepts:
+- Strategy
 
 ---
 Legacy Systems: Why Modernisation Should Be a Strategy, Not a Gamble

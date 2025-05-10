@@ -7,7 +7,7 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
-
+$ErrorActionPreference = 'Stop'
 $levelSwitch.MinimumLevel = 'Information'
 $ResourceCatalogue = @{}
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
@@ -17,7 +17,7 @@ $descriptionDateWatermark = [DateTime]::Parse("2025-05-07T12:36:48Z")
 
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 0
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 1
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -216,6 +216,12 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     # $marketingClassification = Get-CategoryConfidenceWithChecksum -ClassificationType "marketing" -Catalog $marketingCatalog -CacheFolder $hugoMarkdown.FolderPath -ResourceContent  $BodyContent -ResourceTitle $hugoMarkdown.FrontMatter.title -MaxCategories 3 
     # $categories = $marketingClassification | ConvertFrom-Json | ForEach-Object { $_.category } #| Sort-Object
     # Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'marketing' -values @($categories) -Overwrite
+    #-----------------Concepts-------------------
+    $conceptsClassification = Get-ClassificationsForType -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
+    $conceptsClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $conceptsClassification | Select-Object -First 1
+    $concepts = $conceptsClassificationOrdered | ForEach-Object { $_.category }
+    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'concepts' -values @($concepts) -Overwrite
+    Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
     #-----------------Categories-------------------
     $categoryClassification = Get-ClassificationsForType -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
     $categoryClassificationOrdered = Get-ClassificationOrderedList -minScore 75 -classifications $categoryClassification | Select-Object -First 3

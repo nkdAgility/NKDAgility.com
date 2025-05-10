@@ -14,9 +14,11 @@ layout: video
 aliases:
 - /resources/xxdg6WPNcDc
 - /resources/videos/3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
+- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
 aliasesArchive:
 - /resources/videos/3-the-cost-of-weak-definitions-of-done
 - 3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
+- /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
 preview: https://i9.ytimg.com/vi/xxdg6WPNcDc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBj8suPfiSHxrqDQn0oep7IwNm1rg
 duration: 60
 resourceTypes:
@@ -48,6 +50,8 @@ tags:
 - Working Software
 - Increment
 weight: 130
+concepts:
+- Artifact
 
 ---
 Every shortcut adds to your technical debt. I see it time and again: teams under pressure, deadlines looming, and the temptation to cut corners becomes almost irresistible. But let me be clear—every time you skip quality standards, every time you fudge what “done” means, you’re not saving time. You’re simply deferring the pain. You’re creating future rework, and that bill always comes due.

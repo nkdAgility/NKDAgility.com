@@ -6,7 +6,7 @@ ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 date: 2025-06-16T09:00:00Z
-weight: 250
+weight: 285
 aliases:
 - /resources/AgIU1SK-3pE
 aliasesArchive:
@@ -15,15 +15,22 @@ aliasesArchive:
 categories:
 - DevOps
 - Engineering Excellence
+- Product Development
 tags:
 - Agentic Agility
+- Technical Mastery
+- Social Technologies
 - Pragmatic Thinking
 - Software Development
 - Operational Practices
 - Value Delivery
 - Self Organisation
+- Team Motivation
+- Technical Excellence
 Watermarks:
   description: 2025-05-07T12:49:01Z
+concepts:
+- Principle
 
 ---
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  

@@ -44,6 +44,8 @@ tags:
 - Value Delivery
 - Technical Excellence
 weight: 195
+concepts:
+- Practice
 
 ---
 If it’s not in the pipeline, it’s not in your process. I’ve seen this time and again—organisations with the best intentions, armed with standards, checklists, and policies, but still falling short when it comes to real, consistent quality. Why? Because if you rely on people to remember, to manually tick the boxes, you’re building your process on hope rather than certainty.

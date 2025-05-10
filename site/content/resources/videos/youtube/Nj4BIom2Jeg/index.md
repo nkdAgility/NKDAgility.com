@@ -44,6 +44,8 @@ tags:
 - Product Delivery
 - Current Value
 weight: 225
+concepts:
+- Observability
 
 ---
 There’s a phrase I keep coming back to: shipping without telemetry is flying blind. It’s astonishing how often I see teams pour their energy into building and releasing features, only to have no idea what happens next. Did it work? Did it break? Is anyone even using it? Without logs, metrics, or any meaningful feedback, you’re left guessing. And guessing is not a strategy.

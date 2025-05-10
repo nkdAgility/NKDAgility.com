@@ -49,6 +49,8 @@ tags:
 - Agile Product Management
 - Agile Transformation
 weight: 150
+concepts:
+- Artifact
 
 ---
 Most teams don’t fail because they can’t build. They fail because they don’t finish the right way. This is something I’ve seen time and again, whether I’m working with a start-up finding its feet or a global enterprise wrestling with legacy systems. The technical ability to build is rarely the problem. The real challenge is in finishing—properly, consistently, and in a way that actually moves the needle for the business.

@@ -15,9 +15,11 @@ aliases:
 - /resources/lRBsJkDeKrI
 - /resources/videos/10-what-does-good-done-look-like-lRBsJkDeKrI
 - /resources/videos/10-what-does-good-done-look-like
+- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
 aliasesArchive:
 - /resources/videos/10-what-does-good-done-look-like
 - 10-what-does-good-done-look-like-lRBsJkDeKrI
+- /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
 preview: https://i9.ytimg.com/vi/lRBsJkDeKrI/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBIpDGsn1p3vMuTnHUaWV_3Gx_jkw
 duration: 55
 resourceTypes:
@@ -49,6 +51,8 @@ tags:
 - Organisational Agility
 - Technical Excellence
 weight: 165
+concepts:
+- Artifact
 
 ---
 Can Your Product Pass the Done Test?
