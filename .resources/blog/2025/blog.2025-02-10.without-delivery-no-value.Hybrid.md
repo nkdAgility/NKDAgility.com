@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-10T09:00:00
-weight: 175
+weight: 180
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -20,21 +20,21 @@ aliasesArchive:
 - /without-delivery--there-is-no-value
 - /blog/without-delivery--there-is-no-value
 tags:
+- Software Development
 - Deployment Frequency
+- Working Software
+- Market Adaptability
+- Operational Practices
 - Frequent Releases
-- Increment
 - Value Delivery
 - Product Delivery
-- Software Development
 - Continuous Delivery
 - Empirical Process Control
-- Operational Practices
 - Release Management
 - Time to Market
-- Working Software
-- Agile Values and Principles
-- Agile Philosophy
-- Agile Planning
+- Pragmatic Thinking
+- Increment
+- Evidence Based Management
 categories:
 - Product Development
 - Engineering Excellence
@@ -43,6 +43,8 @@ preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
 Watermarks:
   description: 2025-05-07T12:49:40Z
+concepts:
+- Tenet
 
 ---
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.

@@ -24,6 +24,8 @@
     - Troubleshooting
     - Application Lifecycle Management
     weight: 345
+    concepts:
+    - Tool
   BodyContent: |
     I’ve been working with a customer who, like many, is stuck in the past. They were on Team Foundation Version Control (TFVC), and the backbone of their application is .NET 4.5. This creates real problems for modern engineering practices because many new tools just won’t work, so I am moving to Git, and as part of that looking to ensure that their setup is future ready. I also need to do something with all those peskie legacy DLLs that are scattered around the solution. One of the key upgrades I was looking at is moving to SDK-style projects. This is a big deal because it’s the future of .NET development, and it’s a lot easier to work with than the old project format.
 
@@ -185,6 +187,8 @@
     - Transparency
     - Pragmatic Thinking
     weight: 400
+    concepts:
+    - Tool
   BodyContent: |
     I moved my blog to Hugo in mid-2024 to regain control over my content and workflow. This proved to be a great decision as it gave me the ability to really focus on content for my site.
 
@@ -313,6 +317,8 @@
     - System Configuration
     Watermarks:
       description: 2025-05-07T12:49:10Z
+    concepts:
+    - Tool
   BodyContent: |
     Modern engineering is about making sure systems keep running reliably under load, failure, and unpredictable conditions. When I set out to build a fast, dependable way to calculate OpenAI token counts for my batch classification pipeline, I didn’t want a quick script or a one-off tool. I wanted a **resilient, observable, fault-tolerant system** that fit tightly into my PowerShell-first workflow and could hold up in real conditions, not just lab tests.
 

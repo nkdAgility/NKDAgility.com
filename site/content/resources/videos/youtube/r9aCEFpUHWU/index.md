@@ -44,6 +44,7 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T12:57:28Z
+concepts: []
 
 ---
 When I reflect on my experiences as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one thing becomes abundantly clear: the effectiveness of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) hinges on their understanding of the philosophies, theories, and practices relevant to the team they support. Without this foundational knowledge, the impact on both the team and the organisation can be profound. 

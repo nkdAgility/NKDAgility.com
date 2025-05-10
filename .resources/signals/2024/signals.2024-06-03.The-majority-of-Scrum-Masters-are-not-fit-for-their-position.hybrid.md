@@ -10,6 +10,7 @@ ResourceImport: false
 resourceTypes:
 - signal
 source: internal
+layout: signal
 url: /resources/signals/:slug
 aliases:
 - /resources/nTipEJck6ez
@@ -17,33 +18,31 @@ categories:
 - Uncategorized
 tags: []
 platform_signal:
-  platform: LinkedIn
+- platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
-  post_date: 2024-06-03
-  post_publish_time: 13:44
+  post_id: 7203391158197088256
+  post_date: 2024-06-03T13:44:00Z
   performance:
     impressions: 35512
     members_reached: 20147
     reactions: 207
     comments: 127
     reposts: 28
-  reactions_highlights:
-    date_range: 2024-06-03 to 2025-05-05
-    top_job_title: Scrum Master
-    top_location: London Area, United Kingdom
-    top_industry: IT Services and IT Consulting
-  comments_highlights:
-    date_range: 2024-06-03 to 2025-05-05
-    top_job_title: Agile Coach
-    top_location: The Randstad, Netherlands
-    top_industry: IT Services and IT Consulting
-  reposts_highlights:
-    date_range: 2024-06-03 to 2025-05-05
-    top_job_title: Product Owner
-    top_location: Dallas-Fort Worth Metroplex
-    top_industry: IT Services and IT Consulting
+  reactions_top_job_title: Scrum Master
+  comments_top_job_title: Agile Coach
+  reposts_top_job_title: Product Owner
+- platform: Reddit
+  post_url: https://www.reddit.com/r/scrum/comments/1doza6j/the_majority_of_scrum_masters_are_not_fit_for/
+  post_date: 2024-06-03T13:44:00Z
+  performance:
+    impressions: 30000
+    members_reached: 20147
+    reactions: 86
+    comments: 91
+    reposts: 0
 Watermarks:
   description: 2025-05-07T13:02:52Z
+concepts: []
 
 ---
 🚨 The majority of Scrum Masters are not fit for their position! 🚨

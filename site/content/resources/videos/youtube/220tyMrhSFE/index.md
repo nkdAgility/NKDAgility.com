@@ -16,6 +16,7 @@ aliases:
 - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
 - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
 - /resources/videos/kanban-principles
+- /resources/videos/transform-your-team-s-efficiency-the-three-core-principles-of-caman-workflow-management
 aliasesArchive:
 - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management
 - /resources/videos/kanban-principles
@@ -39,6 +40,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:02:05Z
+concepts: []
 
 ---
 When I first encountered Caman, I was struck by its simplicity and effectiveness. It’s a framework that resonates deeply with my experiences in agile environments, and I believe it can transform the way teams operate. Today, I want to share the three core principles of Caman that have made a significant impact on my approach to workflow management.

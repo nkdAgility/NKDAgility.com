@@ -37,6 +37,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T12:57:04Z
+concepts:
+- Practice
 
 ---
 I've been in the trenches of [software development]({{< ref "/tags/software-development" >}}) long enough to know that we all have our moments of weakness. I’ve written bad code and shipped it. And let’s be clear: that’s not just [technical debt]({{< ref "/tags/technical-debt" >}}); that’s incompetence. It’s a hard truth, but one that we must confront if we want to grow as developers and as teams.

@@ -30,6 +30,7 @@ categories:
 - Kanban
 - Lean
 tags:
+- Service Level Expectation
 - Agile Frameworks
 - Flow Efficiency
 - Operational Practices
@@ -40,6 +41,8 @@ tags:
 - Lean Thinking
 Watermarks:
   description: 2025-05-07T12:58:12Z
+concepts:
+- Method
 
 ---
 December 2020

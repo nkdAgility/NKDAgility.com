@@ -19,6 +19,7 @@ aliases:
 - /resources/66NuAjzWreY
 - /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/videos/introduction-to-evidence-based-management
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-don-t-control
 aliasesArchive:
 - /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/mastering-evidence-based-management-in-agile-inform-dont-control
@@ -45,6 +46,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T12:58:34Z
+concepts:
+- Model
 
 ---
 ## **What is Evidence-Based Management?**

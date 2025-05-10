@@ -43,6 +43,7 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T12:57:08Z
+concepts: []
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

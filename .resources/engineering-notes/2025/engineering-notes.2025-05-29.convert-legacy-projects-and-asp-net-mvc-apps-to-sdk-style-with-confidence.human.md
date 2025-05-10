@@ -24,6 +24,8 @@ tags:
 - Troubleshooting
 - Application Lifecycle Management
 weight: 345
+concepts:
+- Tool
 
 ---
 I’ve been working with a customer who, like many, is stuck in the past. They were on Team Foundation Version Control (TFVC), and the backbone of their application is .NET 4.5. This creates real problems for modern engineering practices because many new tools just won’t work, so I am moving to Git, and as part of that looking to ensure that their setup is future ready. I also need to do something with all those peskie legacy DLLs that are scattered around the solution. One of the key upgrades I was looking at is moving to SDK-style projects. This is a big deal because it’s the future of .NET development, and it’s a lot easier to work with than the old project format.

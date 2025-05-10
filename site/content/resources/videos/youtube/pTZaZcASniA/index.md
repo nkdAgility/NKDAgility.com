@@ -40,6 +40,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T12:49:15Z
+concepts: []
 
 ---
 Every CTO knows the pain of dealing with technology that feels like it belongs in a museum rather than a modern workplace. I’ve been there myself, grappling with systems that are not just slow and expensive, but also riddled with layers of [technical debt]({{< ref "/tags/technical-debt" >}}) and questionable architecture. It’s a frustrating experience, and I want to share some insights on why this problem persists and how we can begin to tackle it.

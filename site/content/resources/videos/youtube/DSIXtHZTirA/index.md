@@ -29,7 +29,7 @@ tags:
 - Software Development
 - Working Software
 - Product Delivery
-- Shift-Left Strategy
+- Shift Left Strategy
 - Technical Mastery
 - Technical Excellence
 sitemap:
@@ -41,6 +41,7 @@ categories:
 - Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:57:06Z
+concepts: []
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

@@ -50,6 +50,7 @@ categories:
 - DevOps
 Watermarks:
   description: 2025-05-07T12:49:46Z
+concepts: []
 
 ---
 In my journey through various organisations, I've come to realise that [leadership]({{< ref "/categories/leadership" >}}) plays a pivotal role in driving cultural and [organisational change]({{< ref "/tags/organisational-change" >}}). This change is essential for supporting frequent and reliable deployments across multiple teams. Today, I want to share some insights on how leaders can effectively facilitate this transformation, drawing from my experiences and observations.

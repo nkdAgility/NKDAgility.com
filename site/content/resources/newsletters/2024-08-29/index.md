@@ -26,6 +26,7 @@ tags:
 - Product Discovery
 Watermarks:
   description: 2025-05-07T12:58:42Z
+concepts: []
 
 ---
 **Dear Innovators and Product Enthusiasts,**

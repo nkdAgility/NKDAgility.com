@@ -35,6 +35,7 @@ categories:
 - DevOps
 Watermarks:
   description: 2025-05-07T12:57:25Z
+concepts: []
 
 ---
 When it comes to [DevOps]({{< ref "/categories/devops" >}}) migrations, one of the most critical aspects to consider is data integrity. I’ve seen firsthand how organisations grapple with the balance between maintaining the fidelity of their data and achieving the flexibility they desire during the migration process. It’s a nuanced dance, and understanding the implications of each choice is vital.

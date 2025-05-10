@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-03-31T09:00:00
-weight: 155
+weight: 100
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -17,27 +17,29 @@ aliasesArchive:
 - /your-evolving-definition-of-done
 - /blog/your-evolving-definition-of-done
 categories:
+- Product Development
 - Engineering Excellence
 - Product Management
-- Scrum
 tags:
 - Definition of Done
+- Operational Practices
+- Agile Frameworks
 - Software Development
-- Agile Product Management
 - Continuous Improvement
-- Professional Scrum
-- Shift-Left Strategy
 - Technical Mastery
+- Market Adaptability
+- Agile Product Management
+- Professional Scrum
+- Shift Left Strategy
 - Value Delivery
 - Common Goals
 - Technical Excellence
-- Working Software
 - Engineering Practices
-- Operational Practices
 - Product Delivery
-- Agile Strategy
 Watermarks:
   description: 2025-05-07T12:49:17Z
+concepts:
+- Strategy
 
 ---
 The [Definition of Done (DoD)]({{< ref "/tags/definition-of-done" >}}) is not a static artefact; it evolves over time as a [Scrum Team]({{< ref "/tags/scrum-team" >}}) gains experience and capability. While the [Scrum Guide]({{< ref "/resources/guides/scrum-guide" >}}) acknowledges that teams may refine their DoD to improve product quality, there’s an often overlooked piece: Organisations should also provide an organisational Definition of Done that reflects their needs. This organisational perspective ensures that [Scrum]({{< ref "/categories/scrum" >}}) Teams build on a solid foundation, aligning technical execution with [strategic goals]({{< ref "/tags/strategic-goals" >}}).

@@ -4,7 +4,7 @@ description: Explains why true Scrum requires real team agency, not just self-ma
 ResourceId: uwJYNXG7yIu
 ResourceImport: false
 date: 2025-05-01T09:00:00Z
-weight: 415
+weight: 200
 ResourceType: blog
 ResourceContentOrigin: Hybrid
 aliases:
@@ -18,23 +18,25 @@ categories:
 - Product Development
 - Technical Leadership
 tags:
+- Social Technologies
+- Professional Scrum
 - Agentic Agility
 - Agile Frameworks
 - Agile Transformation
-- Professional Scrum
 - Self Organisation
+- Team Motivation
 - Agile Product Management
+- Team Performance
 - Scrum Master
 - Agile Philosophy
-- Agile Planning
-- Agile Strategy
 - Scrum Team
-- Social Technologies
 - Software Development
 - Pragmatic Thinking
 - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T12:49:11Z
+concepts:
+- Tenet
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.

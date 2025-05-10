@@ -59,6 +59,8 @@ tags:
 - Transparency
 Watermarks:
   description: 2025-05-07T12:57:50Z
+concepts:
+- Practice
 
 ---
 The Daily [Scrum]({{< ref "/categories/scrum" >}}) is an essential event in the Scrum framework. It offers the

@@ -29,6 +29,8 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-07T12:58:00Z
+concepts:
+- Method
 
 ---
 # What is the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD)

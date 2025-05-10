@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-13T09:00:00
-weight: 255
+weight: 145
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -25,29 +25,31 @@ aliasesArchive:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
 tags:
-- Software Development
-- Organisational Agility
+- Operational Practices
+- Market Adaptability
+- Azure DevOps
 - Technical Mastery
+- Continuous Improvement
+- Continuous Delivery
+- Software Development
+- Deployment Frequency
+- Experimentation
+- Technical Excellence
+- Organisational Agility
 - Value Delivery
-- Working Software
 - Deployment Strategies
 - Frequent Releases
 - Pragmatic Thinking
-- Release Management
-- Azure DevOps
-- Operational Practices
-- Technical Excellence
-- Market Adaptability
-- Continuous Delivery
-- Deployment Frequency
 categories:
-- Product Development
 - Engineering Excellence
+- Product Development
 - DevOps
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
 Watermarks:
   description: 2025-05-07T12:49:38Z
+concepts:
+- Tool
 
 ---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.

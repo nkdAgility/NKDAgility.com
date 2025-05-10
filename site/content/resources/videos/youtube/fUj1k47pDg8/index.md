@@ -38,6 +38,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:02:11Z
+concepts: []
 
 ---
 Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in [product development]({{< ref "/categories/product-development" >}}). As I’ve observed in various organisations, there’s often a heavy focus on delivery—specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.

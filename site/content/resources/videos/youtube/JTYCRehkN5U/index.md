@@ -51,6 +51,8 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T13:02:46Z
+concepts:
+- Principle
 
 ---
 In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As [Scrum]({{< ref "/categories/scrum" >}}) and Agile practitioners, we often discuss the importance of [technical excellence]({{< ref "/tags/technical-excellence" >}}), but it's more than just a concept—it's the cornerstone of risk mitigation and successful [product delivery]({{< ref "/tags/product-delivery" >}}). Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.

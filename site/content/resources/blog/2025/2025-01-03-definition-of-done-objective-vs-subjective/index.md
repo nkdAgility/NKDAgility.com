@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-01-03
-weight: 205
+weight: 180
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
@@ -25,27 +25,29 @@ aliasesArchive:
 - /blog/definition-of-done---objective-vs-subjective
 tags:
 - Definition of Done
+- Operational Practices
 - Software Development
 - Agile Planning
-- Increment
 - Pragmatic Thinking
 - Product Delivery
 - Professional Scrum
-- Working Software
-- Agile Product Management
-- Operational Practices
-- Engineering Practices
-- Technical Mastery
-- Value Delivery
-- Agile Frameworks
 - Competence
+- Engineering Practices
+- Value Delivery
+- Technical Mastery
+- Agile Frameworks
+- Technical Excellence
+- Team Performance
+- Working Software
 categories:
+- Product Development
 - Scrum
 - Product Management
-- Engineering Excellence
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 Watermarks:
   description: 2025-05-07T12:50:03Z
+concepts:
+- Artifact
 
 ---
 In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in [Scrum]({{< ref "/categories/scrum" >}}), the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective—a north star guiding your path, not a litmus test of quality.

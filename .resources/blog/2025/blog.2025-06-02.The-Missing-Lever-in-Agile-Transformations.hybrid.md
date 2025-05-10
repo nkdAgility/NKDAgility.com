@@ -6,33 +6,36 @@ ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 date: 2025-06-02T09:00:00Z
-weight: 500
+weight: 345
 aliases:
 - /resources/RevK05qtZD7
 aliasesArchive:
 - /the-missing-lever-in-agile-transformations
 - /blog/the-missing-lever-in-agile-transformations
 categories:
-- Leadership
 - Product Development
+- Technical Leadership
+- Leadership
 tags:
 - Agentic Agility
+- Agile Strategy
+- Organisational Change
+- Social Technologies
 - Organisational Agility
+- Team Motivation
 - Change Management
 - Agile Transformation
 - Agile Philosophy
 - Business Agility
-- Agile Strategy
 - Organisational Culture
+- Strategic Goals
 - Enterprise Agility
 - Pragmatic Thinking
-- Organisational Change
 - Evidence Based Management
-- Self Organisation
-- Market Adaptability
-- Social Technologies
 Watermarks:
   description: 2025-05-07T12:49:04Z
+concepts:
+- Values
 
 ---
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.

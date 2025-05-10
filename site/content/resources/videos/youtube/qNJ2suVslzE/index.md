@@ -50,6 +50,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T12:56:54Z
+concepts:
+- Principle
 
 ---
 If you're grappling with scope creep, you're not alone. It's a common challenge that many teams face, and often, it stems from relying on outdated practices and philosophies that were designed for a world of low variance. In environments where change is minimal, creating a detailed plan or Gantt chart seems effective. You can run the plan, manage risks, and feel in control. However, when the variance—the gap between your expectations and reality—exceeds 50%, those traditional tools start to falter, leading to the dreaded scope creep.

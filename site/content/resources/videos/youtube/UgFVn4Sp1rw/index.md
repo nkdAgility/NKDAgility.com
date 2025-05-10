@@ -40,6 +40,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T12:56:36Z
+concepts:
+- Strategy
 
 ---
 When it comes to building products, understanding the cost associated with those products is absolutely crucial. Over the years, I've learned that the financial landscape of [product development]({{< ref "/categories/product-development" >}}) is complex, but it boils down to a few key components. The two primary costs in [software development]({{< ref "/tags/software-development" >}}) are typically hardware and, more significantly, the people involved. If you have a team of 50 people working on a product, their salaries will likely represent your largest expense. Following that, if you're deploying to the cloud, your infrastructure costs will come into play as your second biggest expense.

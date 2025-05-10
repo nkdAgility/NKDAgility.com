@@ -10,6 +10,7 @@ ResourceImport: false
 resourceTypes:
 - signal
 source: internal
+layout: signal
 url: /resources/signals/:slug
 aliases:
 - /resources/nTipEJck6ez
@@ -22,8 +23,8 @@ tags: []
 platform_signal:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
-  post_date: 2024-06-25
-  post_publish_time: 11:37
+  post_id: 7203391158197088256
+  post_date: 2024-06-25T11:37:00Z
   performance:
     impressions: 29747
     members_reached: 20284
@@ -33,10 +34,9 @@ platform_signal:
   reactions_top_job_title: Scrum Master
   comments_top_job_title: Founder
   reposts_top_job_title: Delivery Lead
-- platform: reddit
+- platform: Reddit
   post_url: https://www.reddit.com/r/scrum/comments/1doz1u8/the_false_claim_that_scrum_is_immutable/
-  post_date: 2024-06-25
-  post_publish_time: 11:37
+  post_date: 2024-06-25T11:37:00Z
   performance:
     impressions: 7800
     members_reached: 7800
@@ -45,6 +45,8 @@ platform_signal:
     reposts: 0
 Watermarks:
   description: 2025-05-07T13:02:48Z
+concepts:
+- Framework
 
 ---
 The false claim that "Scrum is immutable"!

@@ -43,6 +43,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T12:58:45Z
+concepts:
+- Strategy
 
 ---
 [Product Discovery]({{< ref "/tags/product-discovery" >}}) is a term that's often used in the world of [product development]({{< ref "/categories/product-development" >}}), but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.

@@ -17,6 +17,7 @@ aliases:
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition
 - /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
+- /resources/videos/mastering-cloud-migration-how-to-leverage-microsoft-s-tool-for-a-seamless-transition
 aliasesArchive:
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition
 - /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
@@ -37,6 +38,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T12:57:43Z
+concepts:
+- Tool
 
 ---
 When it comes to migrating to the cloud, one of the most significant challenges we face is ensuring that our existing systems and customisations will function seamlessly in the new environment. I’ve been through this process multiple times, and I can tell you that preparation is key. 
