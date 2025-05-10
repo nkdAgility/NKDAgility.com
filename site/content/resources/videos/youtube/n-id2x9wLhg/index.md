@@ -45,6 +45,8 @@ tags:
 - Pragmatic Thinking
 - Engineering Practices
 weight: 145
+concepts:
+- Practice
 
 ---
 Without shared standards, quality is a coin toss. I’ve seen it time and again: when every team defines “done” in their own way, you don’t get value—you get uncertainty and risk. Different interpretations of what “done” means don’t just create confusion; they breed chaos, introduce production risks, and leave you with invisible liabilities lurking in your product. In short, you can’t trust the increment.

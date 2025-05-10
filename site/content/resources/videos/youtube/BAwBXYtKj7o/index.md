@@ -45,6 +45,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T12:57:11Z
+concepts: []
 
 ---
 # [Technical Debt]({{< ref "/tags/technical-debt" >}}) Management for Long-Term Quality | Martin Hinshelwood  

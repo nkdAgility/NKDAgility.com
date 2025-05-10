@@ -54,6 +54,8 @@ tags:
 - Continuous Improvement
 Watermarks:
   description: 2025-05-07T12:57:55Z
+concepts:
+- Principle
 
 ---
 # The Evidence-Based Management Guide: Improving [Value Delivery]({{< ref "/tags/value-delivery" >}}) under Conditions of Uncertainty

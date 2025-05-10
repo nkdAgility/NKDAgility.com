@@ -61,6 +61,8 @@ tags:
 - Team Performance
 Watermarks:
   description: 2025-05-07T12:57:45Z
+concepts:
+- Method
 
 ---
 When designing a flow for an event, it is hugely important to be clear on the purpose. For the [Sprint Review]({{< ref "/tags/sprint-review" >}}), the purpose is to inspect the [increment]({{< ref "/tags/increment" >}}) that was created during the Sprint as well as to adapt the [Product Backlog]({{< ref "/tags/product-backlog" >}}) based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.

@@ -21,20 +21,20 @@ aliasesArchive:
 - /blog/why-handoffs-are-killing-your-agility
 tags:
 - Operational Practices
+- Pragmatic Thinking
 - Software Development
 - Business Agility
+- Market Adaptability
 - Cross Functional Teams
 - Flow Efficiency
-- Lean Principles
 - Organisational Agility
-- Pragmatic Thinking
 - Product Delivery
 - Team Collaboration
 - Team Performance
+- Technical Mastery
+- Lean Principles
 - Value Delivery
-- Enterprise Agility
-- Lean Product Development
-- Agile Strategy
+- Agile Frameworks
 categories:
 - Product Development
 - Lean
@@ -42,6 +42,8 @@ categories:
 preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 Watermarks:
   description: 2025-05-07T12:50:01Z
+concepts:
+- Strategy
 
 ---
 Many organisations attempt to adopt [Lean]({{< ref "/categories/lean" >}}) practices without fully understanding their implications in [software development]({{< ref "/tags/software-development" >}}). This often leads to excessive handoffs, which fragment communication and reduce agility.

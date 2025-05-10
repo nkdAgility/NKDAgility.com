@@ -42,6 +42,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:02:09Z
+concepts: []
 
 ---
 In my journey through the world of agile and organisational management, I've come to appreciate the profound impact that evidence-based management can have on our decision-making processes. It’s not just a buzzword; it’s a strategic approach that can transform how we operate at both tactical and strategic levels. Today, I want to share my insights on this topic, drawing from my experiences and the lessons I've learned along the way.

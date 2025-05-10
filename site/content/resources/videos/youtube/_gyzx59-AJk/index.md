@@ -56,6 +56,8 @@ categories:
 - Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:49:49Z
+concepts:
+- Principle
 
 ---
 In today’s fast-paced market, the ability to respond swiftly to changes is not just an advantage; it’s a necessity. As organisations, we often find ourselves navigating a landscape filled with surprises—some of which can be detrimental, while others present golden opportunities. The key to capitalising on these opportunities lies in our [lead time]({{< ref "/tags/lead-time" >}}). If there’s a significant delay between the moment we decide to act and when our changes hit production, we risk losing out to competitors who are quicker on the draw.

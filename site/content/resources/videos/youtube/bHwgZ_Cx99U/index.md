@@ -16,6 +16,7 @@ aliases:
 - /resources/bHwgZ_Cx99U
 - /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
 - /resources/videos/scaling-teams-without-losing-speed-or-quality
+- /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
 aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
@@ -42,6 +43,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T12:49:32Z
+concepts: []
 
 ---
 In my experience, the common belief that "more teams mean faster delivery" is a fallacy that many organisations fall prey to. I’ve witnessed it time and again: a company decides to scale up, thinking that by simply adding more developers and teams, they’ll accelerate their release cycles. However, what often happens is the exact opposite. Instead of speeding up, everything grinds to a halt.

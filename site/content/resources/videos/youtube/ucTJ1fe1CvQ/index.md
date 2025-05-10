@@ -40,6 +40,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:02:16Z
+concepts: []
 
 ---
 ## **Why the PPDV Course Was Created**

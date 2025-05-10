@@ -41,6 +41,8 @@ tags:
 - Product Delivery
 Watermarks:
   description: 2025-05-07T12:58:11Z
+concepts:
+- Principle
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

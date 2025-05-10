@@ -33,6 +33,8 @@ tags:
 - Lean Thinking
 Watermarks:
   description: 2025-05-07T12:58:27Z
+concepts:
+- Method
 
 ---
 ## Duration

@@ -49,6 +49,8 @@ tags:
 - Professional Scrum
 - Social Technologies
 weight: 150
+concepts:
+- Practice
 
 ---
 Start small, grow smarter. That’s a phrase I find myself repeating often, especially when I’m working with teams who are wrestling with the elusive “perfect” Definition of Done. There’s a common misconception that you need to have it all figured out from day one—that your Definition of Done must be comprehensive, bulletproof, and all-encompassing before you can even begin. But in reality, nothing could be further from the truth.

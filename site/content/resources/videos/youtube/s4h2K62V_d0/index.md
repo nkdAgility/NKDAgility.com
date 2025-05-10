@@ -40,6 +40,7 @@ categories:
 - Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:57:15Z
+concepts: []
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood  

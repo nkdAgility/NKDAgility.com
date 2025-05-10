@@ -24,15 +24,15 @@ aliasesArchive:
 - /blog/great-scrum-masters-need-technical--business--and-organisational-mastery
 categories:
 - Scrum
+- Leadership
 - Product Management
-- Technical Leadership
 tags:
 - Professional Scrum
 - Scrum Team
 - Scrum Master
+- Agile Frameworks
 - Agile Transformation
 - Engineering Practices
-- Agile Frameworks
 - Software Development
 - Competence
 - Pragmatic Thinking
@@ -40,10 +40,12 @@ tags:
 - Product Delivery
 - Organisational Agility
 - Value Delivery
-- Agile Product Management
-- Working Software
+- Operational Practices
+- Market Adaptability
 Watermarks:
   description: 2025-05-07T12:49:18Z
+concepts:
+- Framework
 
 ---
 [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The [Scrum]({{< ref "/categories/scrum" >}}) Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.

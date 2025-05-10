@@ -41,6 +41,8 @@ categories:
 - Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:57:18Z
+concepts:
+- Practice
 
 ---
 When I reflect on my journey through [software development]({{< ref "/tags/software-development" >}}), one principle stands out: test-driven development (TDD) is not merely about writing better code; it’s fundamentally about crafting superior architectures. This distinction is crucial, and I want to share my insights on how TDD and pair programming can transform our approach to software design.

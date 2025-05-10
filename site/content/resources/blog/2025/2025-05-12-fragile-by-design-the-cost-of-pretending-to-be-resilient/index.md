@@ -7,7 +7,7 @@ ResourceType: blog
 ResourceContentOrigin: hybrid
 subtitle: You don't rise to the level of your continuity plan. You fall to the level of your last real test.
 date: 2025-05-12T09:00:00Z
-weight: 430
+weight: 165
 aliases:
 - /resources/LGGuvRq4g7p
 aliasesArchive:
@@ -15,12 +15,16 @@ aliasesArchive:
 - /blog/fragile-by-design--the-cost-of-pretending-to-be-resilient
 categories:
 - Engineering Excellence
+- Product Development
+- Technical Leadership
 tags:
 - Technical Mastery
 - Pragmatic Thinking
+- Engineering Practices
 - Site Reliability Engineering
 Watermarks:
   description: 2025-05-07T12:49:09Z
+concepts: []
 
 ---
 Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.

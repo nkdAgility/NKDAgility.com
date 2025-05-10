@@ -7,7 +7,7 @@ ResourceType: blog
 ResourceContentOrigin: hybrid
 date: 2025-07-07T09:00:00Z
 slug: stop-building-silos-start-building-systems
-weight: 180
+weight: 50
 aliases:
 - /resources/zLhc3UKUWOj
 - /resources/blog/stop-building-silos.-start-building-systems
@@ -16,27 +16,29 @@ aliasesArchive:
 - /blog/stop-building-silos--start-building-systems
 - /resources/blog/stop-building-silos.-start-building-systems
 categories:
-- DevOps
 - Engineering Excellence
-- Product Development
+- DevOps
+- Technical Leadership
 tags:
+- Pragmatic Thinking
+- Technical Mastery
+- Operational Practices
 - One Engineering System
 - Platform Engineering
-- Operational Practices
+- Continuous Delivery
+- Social Technologies
+- Transparency
 - Internal Developer Platform
 - Technical Excellence
-- Pragmatic Thinking
 - Product Delivery
 - Software Development
-- Technical Mastery
-- Continuous Delivery
 - Engineering Practices
-- Flow Efficiency
 - Value Delivery
 - Azure Pipelines
-- Azure DevOps
 Watermarks:
   description: 2025-05-07T12:48:58Z
+concepts:
+- Tool
 
 ---
 You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system—you have a liability.

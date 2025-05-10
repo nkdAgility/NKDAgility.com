@@ -10,6 +10,7 @@
     resourceTypes:
     - signal
     source: internal
+    layout: signal
     url: /resources/signals/:slug
     aliases:
     - /resources/nTipEJck6ez
@@ -22,8 +23,8 @@
     platform_signal:
     - platform: LinkedIn
       post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
-      post_date: 2024-06-25
-      post_publish_time: 11:37
+      post_id: 7203391158197088256
+      post_date: 2024-06-25T11:37:00Z
       performance:
         impressions: 29747
         members_reached: 20284
@@ -33,10 +34,9 @@
       reactions_top_job_title: Scrum Master
       comments_top_job_title: Founder
       reposts_top_job_title: Delivery Lead
-    - platform: reddit
+    - platform: Reddit
       post_url: https://www.reddit.com/r/scrum/comments/1doz1u8/the_false_claim_that_scrum_is_immutable/
-      post_date: 2024-06-25
-      post_publish_time: 11:37
+      post_date: 2024-06-25T11:37:00Z
       performance:
         impressions: 7800
         members_reached: 7800
@@ -45,6 +45,8 @@
         reposts: 0
     Watermarks:
       description: 2025-05-07T13:02:48Z
+    concepts:
+    - Framework
   BodyContent: |
     The false claim that "Scrum is immutable"!
 
@@ -70,8 +72,8 @@
     ...are we reflecting regularly?
 
     ![](./images/1719315444255.jpg)
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\signals\LinkedIn\7211331649312014336\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\signals\LinkedIn\7211331649312014336
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\signals\2024-06-25-the-false-claim-that-scrum-is-immutable\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\signals\2024-06-25-the-false-claim-that-scrum-is-immutable
 - FrontMatter:
     title: The majority of Scrum Masters are not fit for their position
     description: Most Scrum Masters lack essential Scrum knowledge, with only 39% meeting core standards. Poor competency threatens team success and highlights the need for better training.
@@ -84,6 +86,7 @@
     resourceTypes:
     - signal
     source: internal
+    layout: signal
     url: /resources/signals/:slug
     aliases:
     - /resources/nTipEJck6ez
@@ -91,33 +94,31 @@
     - Uncategorized
     tags: []
     platform_signal:
-      platform: LinkedIn
+    - platform: LinkedIn
       post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
-      post_date: 2024-06-03
-      post_publish_time: 13:44
+      post_id: 7203391158197088256
+      post_date: 2024-06-03T13:44:00Z
       performance:
         impressions: 35512
         members_reached: 20147
         reactions: 207
         comments: 127
         reposts: 28
-      reactions_highlights:
-        date_range: 2024-06-03 to 2025-05-05
-        top_job_title: Scrum Master
-        top_location: London Area, United Kingdom
-        top_industry: IT Services and IT Consulting
-      comments_highlights:
-        date_range: 2024-06-03 to 2025-05-05
-        top_job_title: Agile Coach
-        top_location: The Randstad, Netherlands
-        top_industry: IT Services and IT Consulting
-      reposts_highlights:
-        date_range: 2024-06-03 to 2025-05-05
-        top_job_title: Product Owner
-        top_location: Dallas-Fort Worth Metroplex
-        top_industry: IT Services and IT Consulting
+      reactions_top_job_title: Scrum Master
+      comments_top_job_title: Agile Coach
+      reposts_top_job_title: Product Owner
+    - platform: Reddit
+      post_url: https://www.reddit.com/r/scrum/comments/1doza6j/the_majority_of_scrum_masters_are_not_fit_for/
+      post_date: 2024-06-03T13:44:00Z
+      performance:
+        impressions: 30000
+        members_reached: 20147
+        reactions: 86
+        comments: 91
+        reposts: 0
     Watermarks:
       description: 2025-05-07T13:02:52Z
+    concepts: []
   BodyContent: |
     🚨 The majority of Scrum Masters are not fit for their position! 🚨
 
@@ -141,6 +142,6 @@
     📉 This is why Agile Coaches and Scrum Masters are losing their jobs: In the boom times of the agile economy, these incompetent individuals were overlooked, but now, as times are tougher, the wheat is being separated from the chaff. 🌾
 
     Let's strive for better standards and ensure our Scrum Masters are truly equipped to lead! 💪 hashtag#ScrumMastery hashtag#AgileLeadership hashtag#ContinuousImprovement
-  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\signals\LinkedIn\7203391158197088256\index.md
-  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\signals\LinkedIn\7203391158197088256
+  FilePath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\signals\2024-06-03-the-majority-of-scrum-masters-are-not-fit-for-their-position\index.md
+  FolderPath: C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\signals\2024-06-03-the-majority-of-scrum-masters-are-not-fit-for-their-position
 

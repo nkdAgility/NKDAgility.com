@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-24T09:00:00
-weight: 175
+weight: 155
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -25,21 +25,21 @@ aliasesArchive:
 - /stop-hiding-behind-complexity-and-start-delivering-continuously
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 tags:
-- Software Development
 - Continuous Delivery
+- Software Development
+- Technical Mastery
+- Operational Practices
+- Market Adaptability
 - Product Delivery
-- Digital Transformation
+- Evidence Based Management
+- Deployment Frequency
 - Metrics and Learning
 - Organisational Agility
 - Technical Excellence
-- Working Software
-- Continuous Improvement
 - Frequent Releases
 - Azure DevOps
 - Business Agility
 - Release Management
-- Flow Efficiency
-- Market Adaptability
 categories:
 - DevOps
 - Engineering Excellence
@@ -47,6 +47,8 @@ categories:
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 Watermarks:
   description: 2025-05-07T12:49:30Z
+concepts:
+- Practice
 
 ---
 Every organisation says their software is 'too complex' for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref "/tags/azure-devops" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.

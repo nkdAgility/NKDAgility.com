@@ -48,6 +48,8 @@ tags:
 - Social Technologies
 - Software Development
 weight: 205
+concepts:
+- Principle
 
 ---
 Your definition of done affects your bottom line. I’ve seen this time and again in organisations that treat “done” as a mere checklist item, a technical standard, or a box to tick at the end of a sprint. But let’s be clear: done is strategic. It’s not just about getting through the work; it’s about making the work matter.

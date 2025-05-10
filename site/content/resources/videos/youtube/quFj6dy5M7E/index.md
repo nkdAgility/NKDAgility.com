@@ -40,6 +40,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T12:56:55Z
+concepts: []
 
 ---
 Building a high-performance delivery engine within an organisation is no small feat. From my experience, it requires a deep understanding of various contexts and a level of [competence]({{< ref "/tags/competence" >}}) that is often underestimated. Many organisations focus primarily on technical skills, but to truly excel in software delivery, we need to broaden our perspective.

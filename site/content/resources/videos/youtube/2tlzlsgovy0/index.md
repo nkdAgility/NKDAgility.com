@@ -49,6 +49,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:02:43Z
+concepts:
+- Strategy
 
 ---
 In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}})?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 

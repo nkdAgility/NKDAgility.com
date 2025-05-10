@@ -38,6 +38,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:02:03Z
+concepts: []
 
 ---
 In our ever-evolving landscape of [product development]({{< ref "/categories/product-development" >}}), one of the most crucial skills we can cultivate is the ability to work with assumptions. It’s a topic that I’m particularly passionate about, and I’m excited to share insights from our new class focused on this very subject. 

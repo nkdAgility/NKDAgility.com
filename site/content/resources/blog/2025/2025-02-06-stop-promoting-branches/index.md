@@ -6,7 +6,7 @@ ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImport: false
 date: 2025-02-06T09:00:00
-weight: 230
+weight: 160
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -21,29 +21,31 @@ aliasesArchive:
 - /stop-promoting-branches
 - /blog/stop-promoting-branches
 tags:
-- Modern Source Control
-- Software Development
-- Continuous Integration
-- Deployment Strategies
-- Technical Mastery
-- Value Delivery
-- Continuous Delivery
 - GitHub
-- Release Management
-- Technical Excellence
-- Flow Efficiency
-- Deployment Frequency
-- Engineering Practices
+- Software Development
+- Technical Mastery
+- Market Adaptability
+- Continuous Delivery
 - Operational Practices
+- Organisational Agility
 - Pragmatic Thinking
+- Modern Source Control
+- Deployment Frequency
+- Deployment Strategies
+- Value Delivery
+- Release Management
+- Flow Efficiency
+- Engineering Practices
 categories:
 - Engineering Excellence
-- DevOps
 - Product Development
+- DevOps
 preview: 2025-02-06-stop-promoting-branches.jpg
 marketing: []
 Watermarks:
   description: 2025-05-07T12:49:50Z
+concepts:
+- Principle
 
 ---
 The traditional Dev → Test → Staging → Production model is flawed, leading to unnecessary complexity and reinforcing outdated software delivery patterns. This breakdown explains why branch promotion is a failure mode, why [GitHub]({{< ref "/tags/github" >}}) Flow and Release Flow are reasonable alternatives, and why Git Flow belongs in the bin.

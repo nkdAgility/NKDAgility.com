@@ -47,6 +47,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:02:31Z
+concepts:
+- Practice
 
 ---
 When it comes to [Kanban]({{< ref "/categories/kanban" >}}), many teams get excited about visualizing their work. But there's a crucial element often overlooked: **limiting work in progress (WIP)**. Without this, you're not truly practicing Kanban. Limiting WIP is fundamental to controlling your workflow, understanding the system's bottlenecks, and delivering high-quality products at a sustainable pace.

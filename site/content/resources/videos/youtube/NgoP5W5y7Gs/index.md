@@ -24,7 +24,7 @@ preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 isShort: false
 tags:
-- Shift-Left Strategy
+- Shift Left Strategy
 - Technical Mastery
 - Software Development
 - Pragmatic Thinking
@@ -40,6 +40,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T12:57:05Z
+concepts:
+- Practice
 
 ---
 # Shift Left: Building Quality and Security From the Start

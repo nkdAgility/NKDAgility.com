@@ -45,7 +45,6 @@ categories:
 - Scrum
 - Product Development
 tags:
-- Liberating Structures
 - Sprint Review
 - Empirical Process Control
 - Transparency
@@ -60,8 +59,11 @@ tags:
 - Team Collaboration
 - Value Delivery
 - Agile Transformation
+- Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:57:58Z
+concepts:
+- Method
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

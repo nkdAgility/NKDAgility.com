@@ -44,6 +44,8 @@ tags:
 - Value Delivery
 - Market Adaptability
 weight: 165
+concepts:
+- Practice
 
 ---
 Patching Defects at the End? You’re Already Too Late

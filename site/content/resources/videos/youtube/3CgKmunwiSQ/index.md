@@ -19,6 +19,7 @@ aliases:
 - /resources/3CgKmunwiSQ
 - /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/videos/traditional-management-vs-evidence-based-management
+- /resources/videos/understanding-the-difference-traditional-management-vs.-evidence-based-management
 aliasesArchive:
 - /resources/videos/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
@@ -41,6 +42,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T12:58:31Z
+concepts: []
 
 ---
 ## **What Is Traditional Management?**

@@ -27,6 +27,8 @@ tags:
 - System Configuration
 Watermarks:
   description: 2025-05-07T12:49:10Z
+concepts:
+- Tool
 
 ---
 Modern engineering is about making sure systems keep running reliably under load, failure, and unpredictable conditions. When I set out to build a fast, dependable way to calculate OpenAI token counts for my batch classification pipeline, I didn’t want a quick script or a one-off tool. I wanted a **resilient, observable, fault-tolerant system** that fit tightly into my PowerShell-first workflow and could hold up in real conditions, not just lab tests.

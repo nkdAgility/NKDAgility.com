@@ -25,7 +25,7 @@ duration: 116
 isShort: false
 tags:
 - Software Development
-- Shift-Left Strategy
+- Shift Left Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,6 +36,8 @@ categories:
 - DevOps
 Watermarks:
   description: 2025-05-07T12:57:02Z
+concepts:
+- Tool
 
 ---
 # Rethinking Code Reviews: From Manual Checks to Pre-Reviewed Excellence

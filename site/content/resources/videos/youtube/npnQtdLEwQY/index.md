@@ -41,6 +41,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T12:56:38Z
+concepts: []
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in our industry, but I want to clarify what it really means and how it impacts our products and processes. From my experience, technical debt is not just a buzzword; it represents a significant cost that can accumulate over time if not managed properly. 

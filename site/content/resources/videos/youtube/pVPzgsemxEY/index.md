@@ -48,6 +48,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:00:54Z
+concepts:
+- Practice
 
 ---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}), Agile, and [Kanban]({{< ref "/categories/kanban" >}}), we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.

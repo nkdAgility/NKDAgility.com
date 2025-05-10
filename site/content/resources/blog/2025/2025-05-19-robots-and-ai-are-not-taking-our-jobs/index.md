@@ -6,7 +6,7 @@ ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 date: 2025-05-19T09:00:00Z
-weight: 880
+weight: 645
 aliases:
 - /resources/F0yVBj8Tx8H
 aliasesArchive:
@@ -14,9 +14,12 @@ aliasesArchive:
 - /blog/robots-and-ai-are-not-taking-our-jobs-they-are-giving-us-our-dignity-back
 categories:
 - Uncategorized
-tags: []
+tags:
+- Organisational Agility
 Watermarks:
   description: 2025-05-07T12:49:06Z
+concepts:
+- Philosophy
 
 ---
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.

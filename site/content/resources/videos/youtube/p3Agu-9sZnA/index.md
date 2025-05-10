@@ -40,6 +40,8 @@ tags:
 - Operational Practices
 - Engineering Practices
 weight: 115
+concepts:
+- Capability
 
 ---
 Technical debt. It’s one of those insidious things that creeps up on you—quietly, almost politely—until one day you realise you’re spending more time firefighting than actually delivering anything new. At that point, it’s not just slowing you down; it’s actively standing in your way, blocking progress, and sapping morale.

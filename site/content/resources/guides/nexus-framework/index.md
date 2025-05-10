@@ -58,6 +58,8 @@ tags:
 - Agile Transformation
 Watermarks:
   description: 2025-05-07T12:58:25Z
+concepts:
+- Artifact
 
 ---
 The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus

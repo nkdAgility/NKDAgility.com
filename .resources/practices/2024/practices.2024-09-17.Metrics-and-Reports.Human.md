@@ -42,6 +42,7 @@ tags:
 - Team Performance
 Watermarks:
   description: 2025-05-07T12:58:18Z
+concepts: []
 
 ---
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

@@ -38,6 +38,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T12:57:30Z
+concepts: []
 
 ---
 [Competence]({{< ref "/tags/competence" >}}) is more than just a buzzword in today's fast-paced world—it's a foundational element for success in any organization. If we want to create valuable products and services, investing in our team's competence is non-negotiable. It’s not just about bringing in the right people but supporting those we have in their journey of [continuous learning]({{< ref "/tags/continuous-learning" >}}), [experimentation]({{< ref "/tags/experimentation" >}}), and growth. Let’s dive into why competence matters and how we can foster an environment where it thrives.

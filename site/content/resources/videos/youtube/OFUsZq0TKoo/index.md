@@ -39,6 +39,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T12:58:43Z
+concepts: []
 
 ---
 As I reflect on my journey in [product development]({{< ref "/categories/product-development" >}}), I can’t help but think about the transformative power of structured learning. Recently, I had the opportunity to delve into a course that promises to change the game for anyone involved in product development. I want to share my insights on how this course can significantly enhance your approach to creating user value, reducing waste, and fostering collaboration.

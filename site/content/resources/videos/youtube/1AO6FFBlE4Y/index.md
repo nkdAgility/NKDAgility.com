@@ -15,6 +15,7 @@ aliases:
 - /resources/1AO6FFBlE4Y
 - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 - /resources/videos/the-high-cost-of-poor-quality-code
+- /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
 aliasesArchive:
 - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 - /resources/videos/the-high-cost-of-poor-quality-code-
@@ -47,6 +48,7 @@ categories:
 - Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:57:19Z
+concepts: []
 
 ---
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower

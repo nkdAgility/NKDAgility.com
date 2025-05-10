@@ -27,7 +27,7 @@ duration: 437
 isShort: false
 tags:
 - Entrepreneurship
-- MVP
+- Minimum Viable Product
 - Pragmatic Thinking
 - Lean Startup
 - Hypothesis Driven Development
@@ -41,6 +41,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T12:56:48Z
+concepts: []
 
 ---
 Building products is an exhilarating journey into the unknown. Every time I sit down with a team to write code, I’m reminded that we’re embarking on a venture that has never been done before. If we weren’t, we wouldn’t be coding; we’d simply be purchasing a ready-made solution. This inherent uncertainty is what gives software engineering its unique character, and it’s also why we experience such a high degree of variance in our projects.
