@@ -36,22 +36,91 @@
 
 {{- define "main" }}
   <section class="container my-5">
-    <div class="ais-InstantSearch">
-      <div class="right-panel">
-        <div id="searchbox"></div>
-        <div id="refinement"></div>
-        <div id="hits"></div>
-        <div id="pagination"></div>
-      </div>
-    </div>
+    <div id="counter">Since the page was not found we will check our routes table for redirects</div>
+    <div id="found">Checking...</div>
   </section>
-  <script src="{{- "js/algolia/search.js" | relURL }}"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", async function () {
+      function escapeRegExp(string) {
+        return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      }
 
-  <section class="container my-5">
-    <h2 title="Capabilities - What we do?">What we do?</h2>
-    <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
-    {{- partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
-  </section>
+      function normalise(path) {
+        // Ensure path starts and ends with a slash
+        let result = path.trim();
+        if (!result.startsWith("/")) result = "/" + result;
+        if (!result.endsWith("/")) result += "/";
+        return result;
+      }
+
+      const NOT_FOUND_URL = normalise(decodeURIComponent(window.location.pathname));
+      const counterDiv = document.getElementById("counter");
+      const foundDiv = document.getElementById("found");
+
+      console.log("404 Page Loaded. Checking for redirects...");
+      console.log(`Current URL: ${NOT_FOUND_URL}`);
+
+      try {
+        counterDiv.innerHTML = "Loading redirect routes...";
+        const response = await fetch("/static.routes.json", { cache: "force-cache" });
+
+        if (!response.ok) {
+          throw new Error(`Failed to load routes JSON. Status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        console.log("Routes JSON loaded successfully.");
+        counterDiv.innerHTML = `Found ${data.routes.length} routes to check for "${NOT_FOUND_URL}".`;
+
+        const matchedRoute = data.routes.find((routeObj) => {
+          try {
+            const pattern = new RegExp("^" + escapeRegExp(normalise(routeObj.route)).replace("\\*", ".*") + "$");
+            const isMatch = pattern.test(NOT_FOUND_URL);
+            //console.log(`Testing: ${pattern} vs ${NOT_FOUND_URL} → ${isMatch}`);
+            return isMatch;
+          } catch (regexError) {
+            console.error("Invalid regex pattern:", routeObj.route, regexError);
+            return false;
+          }
+        });
+
+        if (matchedRoute) {
+          const redirectURL = matchedRoute.redirect;
+          let countdown = 5; // seconds
+
+          console.log(`Match found! Redirecting to: ${redirectURL}`);
+
+          // SEO-friendly meta refresh
+          const metaRedirect = document.createElement("meta");
+          metaRedirect.httpEquiv = "refresh";
+          metaRedirect.content = `${countdown};url=${redirectURL}`;
+          document.head.appendChild(metaRedirect);
+
+          // Inform the user
+          foundDiv.innerHTML = `Page not found. Redirecting to <a href="${redirectURL}">${redirectURL}</a> in <span id="countdown">${countdown}</span> seconds...`;
+          counterDiv.innerHTML = countdown;
+
+          const countdownInterval = setInterval(() => {
+            countdown--;
+            document.getElementById("countdown").innerText = countdown;
+            console.log(`Redirecting in ${countdown} seconds...`);
+
+            if (countdown <= 0) {
+              clearInterval(countdownInterval);
+              console.log(`Redirecting now to: ${redirectURL}`);
+              window.location.replace(redirectURL);
+            }
+          }, 1000);
+        } else {
+          console.log("No matching redirect found.");
+          foundDiv.innerHTML = "No redirect found.";
+        }
+      } catch (error) {
+        console.error("Error loading redirect routes:", error);
+        foundDiv.innerHTML = "An error occurred while checking for redirects.";
+      }
+    });
+  </script>
 {{- end }}
 
 {{- define "template" }}

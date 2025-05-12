@@ -47,6 +47,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:08:54Z
+concepts:
+- Tenet
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and [Scrum]({{< ref "/categories/scrum" >}}) 🌟 

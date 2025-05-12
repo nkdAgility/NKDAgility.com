@@ -45,6 +45,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:45Z
+concepts:
+- Method
 
 ---
 ### Integrating [Kanban]({{< ref "/categories/kanban" >}}) with [Scrum]({{< ref "/categories/scrum" >}}): Enhancing Your Workflow

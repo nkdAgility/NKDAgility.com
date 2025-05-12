@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:17Z
+concepts: []
 
 ---
 ## [Project Management]({{< ref "/tags/project-management" >}}) in Intricate Environments

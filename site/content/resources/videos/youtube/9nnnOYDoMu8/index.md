@@ -15,9 +15,11 @@ aliases:
 - /resources/9nnnOYDoMu8
 - /resources/videos/1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8
 - /resources/videos/1-done-means-in-production-not-just-code-complete
+- /resources/videos/why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
 aliasesArchive:
 - /resources/videos/1-done-means-in-production-not-just-code-complete
 - 1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8
+- /resources/videos/why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
 preview: https://i.ytimg.com/vi/9nnnOYDoMu8/maxresdefault.jpg
 duration: 55
 resourceTypes:

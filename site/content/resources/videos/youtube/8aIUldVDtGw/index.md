@@ -51,6 +51,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:06:05Z
+concepts:
+- Principle
 
 ---
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from [Lean]({{< ref "/categories/lean" >}}) methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.

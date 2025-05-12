@@ -43,6 +43,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:26Z
+concepts:
+- Practice
 
 ---
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one crucial element often overlooked is the **visualization of work**. It’s not just about getting things done; it’s about understanding the flow of value within your system. As a [Scrum Master]({{< ref "/tags/scrum-master" >}}) or Agile practitioner, the ability to visualize your work will empower your team to be more effective, transparent, and aligned. Today, we’ll explore how visualization can transform your [Kanban]({{< ref "/categories/kanban" >}}) strategy, improve collaboration, and streamline processes for better results.

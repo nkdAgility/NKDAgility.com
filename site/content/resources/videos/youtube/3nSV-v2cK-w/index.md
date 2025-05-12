@@ -45,6 +45,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:10:50Z
+concepts:
+- Principle
 
 ---
 As I reflect on my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I often find myself revisiting the fundamental principles that underpin these methodologies. It’s easy to get lost in the jargon and the frameworks, but at the heart of it all lies a simple truth: Agile is about people. It’s about fostering an environment where teams can thrive, innovate, and deliver value consistently.

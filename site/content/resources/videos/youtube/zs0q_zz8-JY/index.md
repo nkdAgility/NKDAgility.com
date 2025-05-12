@@ -45,6 +45,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:11:23Z
+concepts: []
 
 ---
 When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one of the most persistent misconceptions I encounter is the belief that a [Scrum Master]({{< ref "/tags/scrum-master" >}}) is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 

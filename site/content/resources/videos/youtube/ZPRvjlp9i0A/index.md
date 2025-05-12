@@ -14,8 +14,6 @@ slug: navigating-the-agile-landscape-understanding-the-key-differences-between-p
 layout: video
 aliases:
 - /resources/ZPRvjlp9i0A
-- /resources/videos/navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
-- /resources/videos/14th-april-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/14th-april-2020-office-hours-ask-me-anything
@@ -38,6 +36,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:15:48Z
+concepts: []
 
 ---
 As I sit here reflecting on my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and consultant, I can't help but think about the profound changes we've all experienced in recent times. The COVID-19 pandemic has forced many of us to adapt, and while I miss travelling the globe for training sessions, I've found new ways to connect and share knowledge online. Today, I want to dive into some pressing questions that have come up during my recent sessions, particularly around the roles within Scrum and how they impact organisations.

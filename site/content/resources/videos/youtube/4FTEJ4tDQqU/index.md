@@ -41,6 +41,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:51Z
+concepts: []
 
 ---
 When I reflect on my journey from a developer to an advocate for Agile practices, I often find myself pondering the question: why did I embrace Agile over traditional [project management]({{< ref "/tags/project-management" >}})? The truth is, during my time as a developer, I didn’t consciously choose Agile; rather, it was a reaction to the limitations I experienced with conventional project management methods.

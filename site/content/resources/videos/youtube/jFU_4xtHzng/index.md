@@ -37,6 +37,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:44Z
+concepts: []
 
 ---
 **Why do you think that 4 half days is a better format than 2 full days?**

@@ -20,6 +20,7 @@ aliases:
 - /resources/NeGch-lQkPA
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
 aliasesArchive:
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
 - /resources/overview-of-applying-flow-metrics-for-scrum-course
@@ -49,6 +50,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:42Z
+concepts:
+- Practice
 
 ---
 ### Applying Flow Metrics for [Scrum]({{< ref "/categories/scrum" >}}): Enhancing [Value Delivery]({{< ref "/tags/value-delivery" >}}) with [Kanban]({{< ref "/categories/kanban" >}})

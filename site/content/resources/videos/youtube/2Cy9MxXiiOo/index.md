@@ -38,6 +38,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:12:00Z
+concepts: []
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

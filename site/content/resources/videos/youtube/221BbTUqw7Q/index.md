@@ -42,6 +42,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:10:12Z
+concepts: []
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}})'s True Potential: A Journey Through the APS Immersive Class

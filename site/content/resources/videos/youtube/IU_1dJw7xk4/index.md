@@ -43,6 +43,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:44Z
+concepts:
+- Method
 
 ---
 ### Transitioning from Traditional [Project Management]({{< ref "/tags/project-management" >}}) to [Kanban]({{< ref "/categories/kanban" >}})

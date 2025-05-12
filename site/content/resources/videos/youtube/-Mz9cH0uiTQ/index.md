@@ -37,6 +37,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:52Z
+concepts: []
 
 ---
 When I’m engaged as an agile consultant, I often find myself pondering a fundamental question: does the client dictate what they need, or is it my role to guide them towards the right solutions? My experience has led me to believe that it’s the latter, but the reality is often more nuanced.

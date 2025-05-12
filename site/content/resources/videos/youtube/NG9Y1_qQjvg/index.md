@@ -1,6 +1,6 @@
 ---
 title: 'Streamline Your Release Management Setup: A Step-by-Step Guide to Simplifying Server, Client, and Agent Installation'
-description: Set up your release management tools effortlessly! Discover simple steps to install and configure your server, client, and deployment agent for seamless project management.
+description: Learn how to quickly install and configure release management server, client, and deployment agent, including TFS integration and permission setup, using simple default settings.
 date: 2014-01-21T16:36:55Z
 weight: 1000
 ResourceId: NG9Y1_qQjvg
@@ -14,8 +14,6 @@ slug: streamline-your-release-management-setup-a-step-by-step-guide-to-simplifyi
 layout: video
 aliases:
 - /resources/NG9Y1_qQjvg
-- /resources/videos/streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
-- /resources/videos/install-tfs-2013-release-management
 aliasesArchive:
 - /resources/videos/install-tfs-release-management
 - /resources/videos/install-tfs-2013-release-management
@@ -38,6 +36,9 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:22:24Z
+concepts: []
 
 ---
 As I sit down to share my latest experience with setting up release management tools on my server, I can't help but reflect on how straightforward the process has become over the years. Today, I’ll walk you through the steps I took to install the release management server, client, and deployment agent, all while keeping things simple and efficient.

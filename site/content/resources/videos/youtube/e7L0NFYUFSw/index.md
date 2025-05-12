@@ -38,6 +38,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:14:17Z
+concepts: []
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) and the Myth of "Twice the Work in Half the Time"

@@ -19,6 +19,7 @@ isShort: true
 aliases:
 - /resources/Ce5pFwG5IAY
 - /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love.-part-1
 aliasesArchive:
 - /resources/videos/-tools-that-scrum-masters-love-part-
 - /resources/videos/5-tools-that-scrum-masters-love-part-1
@@ -29,7 +30,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Liberating Structures
 - Team Collaboration
 - Scrum Master
 - Scrum Team
@@ -41,6 +41,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:09:31Z
+concepts:
+- Tool
 
 ---
 **[Scrum]({{< ref "/categories/scrum" >}}) Masters: Unlocking the Power of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) 🚀** 

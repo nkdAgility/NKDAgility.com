@@ -40,6 +40,7 @@ categories:
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:15:01Z
+concepts: []
 
 ---
 If you were buying a car, or a TV, you as the purchaser would do your best to understand the product that you are buying, the quality tradeoffs, and the capabilities.

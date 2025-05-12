@@ -40,6 +40,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:13:11Z
+concepts:
+- Values
 
 ---
 ## My Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer Legacy: What Matters Most to Me?

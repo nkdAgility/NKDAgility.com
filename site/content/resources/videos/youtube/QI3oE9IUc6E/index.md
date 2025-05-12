@@ -43,6 +43,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:10:13Z
+concepts: []
 
 ---
 ## The APS Advantage: Exploring Professional [Scrum]({{< ref "/categories/scrum" >}}) Mastery

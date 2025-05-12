@@ -14,8 +14,6 @@ slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 layout: video
 aliases:
 - /resources/FZeT8O5Ucwg
-- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
 aliasesArchive:
 - /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
 - /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
@@ -42,6 +40,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:16:02Z
+concepts: []
 
 ---
 In my journey as a [Scrum]({{< ref "/categories/scrum" >}}) trainer, I’ve often encountered a startling statistic: according to Forrester Research, around 81% of development shops claim to be agile. However, the reality is that many of these organisations are not being entirely truthful about their practices. This disconnect raises an important question: how can we discern genuine agility from mere lip service? 

@@ -43,6 +43,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:11Z
+concepts:
+- Practice
 
 ---
 When we talk about Agile practices, we often highlight flexibility, collaboration, and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). However, one key Agile virtue that is often overlooked is _diligence_. Diligence, in its essence, is that unwavering attention to detail and the commitment to doing what needs to be done—no shortcuts, no compromises. It’s about ensuring quality at every step of the process, and in the world of Agile, this is where the definition of "done" becomes crucial.

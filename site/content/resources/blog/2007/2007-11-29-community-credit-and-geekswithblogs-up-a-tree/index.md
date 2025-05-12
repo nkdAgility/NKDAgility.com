@@ -1,5 +1,5 @@
 ---
-title: Community Credit and GeeksWithBlogs up a tree...
+title: Community Credit and GeeksWithBlogs up a tree
 description: Discover the exciting integration of GeeksWithBlogs and Community Credit! Celebrate this union and explore the benefits for the blogging community.
 ResourceId: hEA0D2QOf3l
 ResourceType: blog
@@ -15,21 +15,17 @@ layout: blog
 resourceTypes: blog
 slug: community-credit-and-geekswithblogs-up-a-tree
 aliases:
-- /resources/hEA0D2QOf3l
-- /resources/blog/community-credit-and-geekswithblogs-up-a-tree...
+  - /resources/hEA0D2QOf3l
 aliasesArchive:
-- /blog/community-credit-and-geekswithblogs-up-a-tree
-- /community-credit-and-geekswithblogs-up-a-tree---
-- /blog/community-credit-and-geekswithblogs-up-a-tree---
-- /community-credit-and-geekswithblogs-up-a-tree
-- /resources/blog/community-credit-and-geekswithblogs-up-a-tree
-- /resources/blog/community-credit-and-geekswithblogs-up-a-tree...
+  - /blog/community-credit-and-geekswithblogs-up-a-tree
+  - /community-credit-and-geekswithblogs-up-a-tree
+  - /resources/blog/community-credit-and-geekswithblogs-up-a-tree
 tags: []
 categories:
-- Uncategorized
+  - Uncategorized
 preview: metro-award-link-1-1.png
-
 ---
+
 It is fantastic news that [GeeksWithBlogs.net](http://geekswithblogs.net/jjulian/archive/2007/11/28/117209.aspx) and [Community Credit](http://www.community-credit.com/cs/blogs/community_credit_news/archive/2007/11/29/GeeksWithBlogs-is-now-Integrated-with-Community-Credit-_2D00_-Woo-Hoo_210021002100_.aspx?CommentPosted=true#commentmessage) have now both said their vows and are now fully integrated with each other. Awww, so cute.
 
 A long and happy integration to you both...

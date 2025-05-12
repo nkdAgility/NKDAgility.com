@@ -15,6 +15,7 @@ aliases:
 - /resources/1TaIjFL-0o8
 - /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
 - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
+- /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
 aliasesArchive:
 - /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
 - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
@@ -43,6 +44,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:12:59Z
+concepts: []
 
 ---
 In my experience teaching the Professional [Scrum]({{< ref "/categories/scrum" >}}) Master II (PSM2) course, I've encountered a recurring theme that resonates deeply with participants: the epiphanies that emerge during our discussions. While there are several insights that attendees gain, the most common epiphany often revolves around the role of the [Scrum Master]({{< ref "/tags/scrum-master" >}}) and the broader implications of their responsibilities.

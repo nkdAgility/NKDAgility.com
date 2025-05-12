@@ -45,6 +45,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:06:35Z
+concepts:
+- Tenet
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

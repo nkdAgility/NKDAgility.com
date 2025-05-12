@@ -46,6 +46,8 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:07:09Z
+concepts:
+- Values
 
 ---
 In order for organizations to succeed, they must cultivate trust. Trust doesn't happen overnight; it's built on the foundation of patience. Patience with people, processes, and, most importantly, patience with outcomes that may not always align with expectations.

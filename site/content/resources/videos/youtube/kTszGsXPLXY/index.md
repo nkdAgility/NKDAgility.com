@@ -20,6 +20,7 @@ aliases:
 - /resources/kTszGsXPLXY
 - /resources/videos/getting-started-with-kanban
 - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
+- /resources/videos/getting-started-with-kanban.
 aliasesArchive:
 - /resources/videos/getting-started-with-kanban-
 - /resources/getting-started-with-kanban
@@ -44,6 +45,8 @@ categories:
 - Kanban
 Watermarks:
   description: 2025-05-07T13:05:46Z
+concepts:
+- Practice
 
 ---
 ### Getting Started with [Kanban]({{< ref "/categories/kanban" >}}): A Guide to Initiating Your First Kanban Pilot

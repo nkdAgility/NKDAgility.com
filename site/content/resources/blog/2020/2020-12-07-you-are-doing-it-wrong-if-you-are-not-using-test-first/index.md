@@ -37,7 +37,7 @@ tags:
 - Test Driven Development
 - Pragmatic Thinking
 - Value Delivery
-- Shift-Left Strategy
+- Shift Left Strategy
 - Competence
 - Product Delivery
 categories:
@@ -46,6 +46,8 @@ categories:
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:17Z
+concepts:
+- Method
 
 ---
 Many teams are struggling with delivering modern software because they are not building with Test First Principals. Test First gives us the assurance that we have built the correct thing, that what we built is what the customer asked for and that when we change things we don’t break anything inadvertently.

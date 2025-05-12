@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:33Z
+concepts: []
 
 ---
 **No go zone for Agile consultants**

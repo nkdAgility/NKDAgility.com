@@ -14,8 +14,6 @@ slug: mastering-agility-balancing-engineering-excellence-and-effective-processes
 layout: video
 aliases:
 - /resources/i_DglXgaePM
-- /resources/videos/mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
-- /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
 aliasesArchive:
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
@@ -37,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:16:00Z
+concepts: []
 
 ---
 As I sit down to reflect on my recent experiences in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I can't help but think about the rapid changes we are witnessing in the business landscape. The velocity of change is staggering, and it’s not just about adopting new processes; it’s about mastering the balance between [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and effective processes. 

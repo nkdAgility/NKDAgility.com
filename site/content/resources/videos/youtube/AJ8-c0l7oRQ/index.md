@@ -34,6 +34,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:09:01Z
+concepts: []
 
 ---
 ## Finding the Right Balance between Simplicity and Complexity 🧱 

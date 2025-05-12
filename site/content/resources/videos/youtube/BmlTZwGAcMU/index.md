@@ -41,6 +41,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:55Z
+concepts:
+- Method
 
 ---
 One of my favorite quotes is from the legendary Peter Drucker: **"Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence, without theory, there is no learning."** This profound idea resonates deeply with my approach to immersive learning, especially in the context of **[Scrum]({{< ref "/categories/scrum" >}})** and **Agile**.

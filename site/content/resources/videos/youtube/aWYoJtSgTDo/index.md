@@ -37,6 +37,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:17Z
+concepts: []
 
 ---
 One of my friends often jokes that I see Agile and [Scrum]({{< ref "/categories/scrum" >}}) everywhere, even in the forest during one of my favourite autumn activities: mushroom foraging. And you know what? There’s a surprising amount we can learn about agility from this pastime. Let me share some insights from my experiences that might just resonate with your own journey in Agile practices.

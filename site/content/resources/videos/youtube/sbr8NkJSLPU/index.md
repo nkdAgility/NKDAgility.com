@@ -38,6 +38,8 @@ categories:
 - Kanban
 Watermarks:
   description: 2025-05-07T13:05:34Z
+concepts:
+- Practice
 
 ---
 One of the core practices of [Kanban]({{< ref "/categories/kanban" >}}) that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 

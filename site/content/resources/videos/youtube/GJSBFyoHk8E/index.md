@@ -40,6 +40,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:11:57Z
+concepts:
+- Method
 
 ---
 ## The Art of Sprint Goal Creation

@@ -45,6 +45,8 @@ categories:
 preview: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
 Watermarks:
   description: 2025-05-07T13:15:04Z
+concepts:
+- Values
 
 ---
 For many people the traditional [project management]({{< ref "/tags/project-management" >}}) methodologies (see PMI / PRINCE2) are the root of the problems that birthed Waterfall. I assert that this is the tip of the iceberg. These methodologies are just a symptom of a greater problem that has its roots in the changes made during the industrial revolution. These changes, while they generated great amounts of wealth and many jobs around the world,  dehumanised work and destroyed the essence of value and discovery that brought humanity to where it is now. It created processes that turned people into little more than sophisticated robots and enshrined that thinking into the very core of how we do things.

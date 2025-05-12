@@ -24,6 +24,7 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-07T13:10:37Z
+concepts: []
 
 ---
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!

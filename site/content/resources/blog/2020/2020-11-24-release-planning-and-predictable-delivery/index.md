@@ -46,6 +46,8 @@ categories:
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:15:21Z
+concepts:
+- Tenet
 
 ---
 Many organisations wrestle with the seeming incompatibility between agile and [release management]({{< ref "/tags/release-management" >}}), and they struggle with release planning and predictable delivery.

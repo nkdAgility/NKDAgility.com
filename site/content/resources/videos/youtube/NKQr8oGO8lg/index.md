@@ -36,6 +36,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:39Z
+concepts: []
 
 ---
 When it comes to professional development, the value of immersive learning cannot be overstated. As someone who has been deeply involved in training and [coaching]({{< ref "/tags/coaching" >}}), I’ve seen firsthand how transformative these experiences can be—not just for individuals, but for entire organisations. 

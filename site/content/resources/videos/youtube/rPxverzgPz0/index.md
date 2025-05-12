@@ -42,6 +42,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:33Z
+concepts: []
 
 ---
 **Would you recommend the APS course to a newbie [scrum]({{< ref "/categories/scrum" >}}) team, and Why?**

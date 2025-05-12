@@ -19,6 +19,7 @@ isShort: false
 aliases:
 - /resources/yEu8Fw4JQWM
 - /resources/videos/in-wip-less-is-more-why
+- /resources/videos/in-wip-less-is-more.-why
 aliasesArchive:
 - /resources/videos/in-wip-less-is-more-why
 - /resources/in-wip-less-is-more-why
@@ -41,6 +42,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:12:37Z
+concepts:
+- Practice
 
 ---
 ## Why Less is Always More When It Comes to WIP

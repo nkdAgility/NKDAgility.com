@@ -19,6 +19,7 @@ isShort: false
 aliases:
 - /resources/qWHCBUwpOZk
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+- /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
 aliasesArchive:
 - /resources/videos/-core-practices-of-kanban-improving-a-workflow-
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow-
@@ -45,6 +46,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:33Z
+concepts:
+- Method
 
 ---
 ### Improving Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy

@@ -43,6 +43,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:06:42Z
+concepts: []
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily [Scrum]({{< ref "/categories/scrum" >}}) or retrospective sessions:

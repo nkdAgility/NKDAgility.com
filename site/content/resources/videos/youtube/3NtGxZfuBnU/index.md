@@ -18,6 +18,7 @@ isShort: false
 aliases:
 - /resources/3NtGxZfuBnU
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
 aliasesArchive:
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
@@ -36,6 +37,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:58Z
+concepts: []
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

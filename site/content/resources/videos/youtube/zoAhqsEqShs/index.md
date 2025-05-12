@@ -37,6 +37,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:37Z
+concepts: []
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

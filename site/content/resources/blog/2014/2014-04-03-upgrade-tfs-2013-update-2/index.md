@@ -1,6 +1,6 @@
 ---
 title: Should I upgrade to TFS 2013 Update 2?
-description: Discover the benefits of upgrading to TFS 2013 Update 2. Explore new features in backlog, test, and release management to enhance your development process!
+description: Covers new features and upgrade steps for Team Foundation Server 2013 Update 2, including improvements in backlog, test, release, and version management.
 ResourceId: _FVuS9sZSA2
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -31,6 +31,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-7-7.png
+Watermarks:
+  description: 2025-05-12T14:22:05Z
+concepts: []
 
 ---
 With the launch at Build of Team Foundation Server 2013 Update 2 I wanted to make sure that the update goes seamlessly. So I am upgrading my demo box to both [Windows Server 2012 R2 Update 1](http://nkdagility.com/upgrade-server-windows-server-2012-r2-update-1/) and Team Foundation Server 2013 Update 2.

@@ -35,6 +35,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:09Z
+concepts: []
 
 ---
 How does [scrum]({{< ref "/categories/scrum" >}}) help [leadership]({{< ref "/categories/leadership" >}}) teams pick the most valuable work to focus on?

@@ -46,6 +46,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:08:23Z
+concepts:
+- Strategy
 
 ---
 One of the most pervasive myths I encounter in the world of [Scrum]({{< ref "/categories/scrum" >}}) is the notion that Agile means we can forgo planning altogether. This idea is not just misguided; it’s downright detrimental to the success of any Agile team. Let me clarify: Scrum is fundamentally about planning. 

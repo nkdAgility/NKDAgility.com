@@ -19,6 +19,7 @@ isShort: true
 aliases:
 - /resources/KjSRjkK6OL0
 - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like-KjSRjkK6OL0
+- /resources/videos/what-does-an-ineffective-scrum-master-s-day-look-like
 aliasesArchive:
 - /resources/videos/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/what-does-an-ineffective-scrum-masters-day-look-like
@@ -36,6 +37,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:26Z
+concepts: []
 
 ---
 ## Spotting an Ineffective [Scrum]({{< ref "/categories/scrum" >}}) Master's Day

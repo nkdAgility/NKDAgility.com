@@ -49,6 +49,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:12:09Z
+concepts:
+- Principle
 
 ---
 When it comes to effective Sprint planning, I’ve learned that there are a couple of key principles that can make all the difference. Drawing from my experiences, I want to share my top tips to help you and your team navigate this crucial phase of the Agile process.

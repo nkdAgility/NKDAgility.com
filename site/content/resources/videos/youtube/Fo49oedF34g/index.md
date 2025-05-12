@@ -17,6 +17,7 @@ canonicalUrl: https://www.youtube.com/watch?v=Fo49oedF34g
 aliases:
 - /resources/Fo49oedF34g
 - /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
+- /resources/videos/czym-r-ni-si-zwinne-przyw-dztwo-od-tradycyjnego-zarz-dzania
 aliasesArchive:
 - /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
 - /resources/videos/czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
@@ -36,6 +37,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:19Z
+concepts: []
 
 ---
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?

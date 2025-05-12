@@ -36,6 +36,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:10:52Z
+concepts: []
 
 ---
 ## 🕒 Think a Minute Isn’t Much?  

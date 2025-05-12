@@ -19,6 +19,7 @@ isShort: false
 aliases:
 - /resources/l3NhlbM2gKM
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2-
@@ -39,6 +40,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:26Z
+concepts: []
 
 ---
 # Unraveling the Story Point Myth in [Scrum]({{< ref "/categories/scrum" >}}): A Path to Clarity 🚀

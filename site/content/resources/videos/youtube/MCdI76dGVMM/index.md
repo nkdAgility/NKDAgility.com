@@ -41,6 +41,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:29Z
+concepts: []
 
 ---
 ## Navigating the Journey to Professionalism in the Agile World

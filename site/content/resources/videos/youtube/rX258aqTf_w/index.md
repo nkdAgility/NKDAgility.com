@@ -37,6 +37,7 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:14:36Z
+concepts: []
 
 ---
 In what circumstances is agile consulting appropriate?

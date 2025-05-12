@@ -1,6 +1,6 @@
 ---
 title: Harris Beach SDS Ultrabook Unbox
-description: Join us as we unbox the Harris Beach SDS Ultrabook! Discover its sleek design and features. Full review at nakedalm.com/review-harris-beach-sds-ultrabook.
+description: Unboxing and first impressions of the Harris Beach SDS Ultrabook, highlighting design, features, and initial setup. Includes video and detailed review link.
 date: 2013-07-25T19:42:35Z
 weight: 1000
 ResourceId: msmlRibX2zE
@@ -15,7 +15,6 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=msmlRibX2zE
 aliases:
 - /resources/msmlRibX2zE
-- /resources/videos/harris-beach-sds-ultrabook-unbox-msmlRibX2zE
 aliasesArchive:
 - /resources/videos/harris-beach-sds-ultrabook-unbox
 - /resources/harris-beach-sds-ultrabook-unbox
@@ -32,6 +31,9 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:23:34Z
+concepts: []
 
 ---
  You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/ 

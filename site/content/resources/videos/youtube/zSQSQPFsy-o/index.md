@@ -40,6 +40,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:55Z
+concepts:
+- Framework
 
 ---
 Why is [Scrum]({{< ref "/categories/scrum" >}}) so easy to understand but incredibly hard to master?

@@ -15,9 +15,12 @@ $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
 $descriptionDateWatermark = [DateTime]::Parse("2025-05-07T12:36:48Z")
 
+# Date by which we remove all Aliases
+$ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
+
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 1
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\blog\2013\2013-07-11-issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs" -YearsBack 20
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -61,16 +64,22 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $descUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.Description
     $descUpdateDate = if ($descUpdateString) { [DateTime]::Parse($descUpdateString) } else { [DateTime]::MinValue }
     if (-not $hugoMarkdown.FrontMatter.description -or $descUpdateDate -lt $descriptionDateWatermark) {
-        # Generate a new description using OpenAI
-        $promptText = Get-Prompt -PromptName "content-description.md" -Parameters @{
-            title    = $hugoMarkdown.FrontMatter.Title
-            abstract = "none"
-            content  = $hugoMarkdown.BodyContent
+        try {
+            # Generate a new description using OpenAI
+            $promptText = Get-Prompt -PromptName "content-description.md" -Parameters @{
+                title    = $hugoMarkdown.FrontMatter.Title
+                abstract = "none"
+                content  = $hugoMarkdown.BodyContent
+            }
+            $description = Get-OpenAIResponse -Prompt $promptText
+            # Update the description in the front matter
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.description' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
         }
-        $description = Get-OpenAIResponse -Prompt $promptText
-        # Update the description in the front matter
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' -Overwrite
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.description' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
+        catch {
+            throw "Error generating description: $_"
+        }
+       
     }
 
     #=================ResourceId=================
@@ -171,7 +180,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     if ($hugoMarkdown.FrontMatter.Contains("ResourceId")) {
         $aliases += "/resources/$($hugoMarkdown.FrontMatter.ResourceId)"
     }
-    if ([DateTime]$hugoMarkdown.FrontMatter.date -lt $ResourceCatalogueCutoffDate) {
+    if ([DateTime]$hugoMarkdown.FrontMatter.date -lt $ResourceAliasExpiryDate) {
         Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'aliases' -values $aliases -addAfter 'slug' -Overwrite
     }
     else {
@@ -340,9 +349,9 @@ foreach ($ResourceType in $ResourceCatalogue.Keys) {
         }
 
         # Save aggregated yearly content
-        $yearlyFilePath = [System.IO.Path]::Combine($directoryPath, "$ResourceType.$year.yaml")
+        $yearlyFilePath = [System.IO.Path]::Combine($directoryPath, "$ResourceType.$year.json")
         $count = $ResourceCatalogue[$ResourceType][$year].Count
-        $yearContent = $ResourceCatalogue[$ResourceType][$year] | ConvertTo-Yaml
+        $yearContent = $ResourceCatalogue[$ResourceType][$year] | ConvertTo-Json -Depth 10
         $tokens = Get-TokenCountFromServer -Content $yearContent
         Set-Content -Path $yearlyFilePath -Value $yearContent -Encoding UTF8
         Write-InfoLog "$ResourceType $year : {files}/{tokens} : {yearlyFilePath}" -PropertyValues $count, $tokens, $yearlyFilePath

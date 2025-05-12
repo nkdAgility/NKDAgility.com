@@ -36,6 +36,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:14:03Z
+concepts: []
 
 ---
 What is a common mistake made by rookie agile consultants?

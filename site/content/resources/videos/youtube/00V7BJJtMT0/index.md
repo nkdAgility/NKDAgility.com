@@ -36,6 +36,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:58Z
+concepts: []
 
 ---
 What is [DevOps]({{< ref "/categories/devops" >}}) and how is it different to Agile?

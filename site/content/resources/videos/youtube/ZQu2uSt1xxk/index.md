@@ -20,6 +20,7 @@ aliases:
 - /resources/ZQu2uSt1xxk
 - /resources/videos/overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course-1
+- /resources/videos/overview-of-applying-professional-kanban-course.
 aliasesArchive:
 - /resources/videos/overview-of-applying-professional-kanban-course-
 - /resources/overview-of-applying-professional-kanban-course
@@ -41,6 +42,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:40Z
+concepts:
+- Tenet
 
 ---
 ### Understanding and Applying [Kanban]({{< ref "/categories/kanban" >}}): The Professional Kanban Course

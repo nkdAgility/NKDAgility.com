@@ -38,6 +38,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:05:54Z
+concepts:
+- Method
 
 ---
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), training is essential for teams to stay effective and efficient. However, traditional training methods can often feel disconnected from real-world application. This is where immersive learning comes in, offering a holistic approach that integrates not only theory but also practical, hands-on experience.

@@ -45,6 +45,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:44Z
+concepts:
+- Accountability
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

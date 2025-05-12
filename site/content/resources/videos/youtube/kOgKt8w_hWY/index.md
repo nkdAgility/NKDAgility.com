@@ -37,6 +37,8 @@ categories:
 - DevOps
 Watermarks:
   description: 2025-05-07T13:15:39Z
+concepts:
+- Principle
 
 ---
 As I prepare for my upcoming talk at Stack Kampf, I find myself reflecting on the transformative power of [DevOps]({{< ref "/categories/devops" >}}) in enterprise environments. It’s a topic that resonates deeply with me, not just because of the technical aspects, but due to the profound impact it can have on [organisational culture]({{< ref "/tags/organisational-culture" >}}) and efficiency.

@@ -24,6 +24,7 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:40Z
+concepts: []
 
 ---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.

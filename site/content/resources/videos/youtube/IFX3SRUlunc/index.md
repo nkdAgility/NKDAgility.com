@@ -41,6 +41,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:09:14Z
+concepts: []
 
 ---
 Over the past 18 months, I've noticed a significant uptick in interest and inquiries surrounding [lean]({{< ref "/categories/lean" >}}) [product development]({{< ref "/categories/product-development" >}}), particularly in the context of product ownership. This shift is not just a passing trend; it reflects a deeper desire within our industry to refine our decision-making processes regarding what we build. 

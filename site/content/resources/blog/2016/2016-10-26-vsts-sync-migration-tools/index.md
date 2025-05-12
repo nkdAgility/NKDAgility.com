@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: vsts-sync-migration-tools
 aliases:
-- /blog/vsts-sync-migration-tools
-- /vsts-sync-migration-tools
 - /resources/UjyqYjINUfp
-- /resources/blog/vsts-sync-migration-tools
 aliasesArchive:
 - /blog/vsts-sync-migration-tools
 - /vsts-sync-migration-tools
@@ -29,6 +26,8 @@ categories:
 preview: image_thumb-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:41Z
+concepts:
+- Tool
 
 ---
 I have been working with a number of customers in the last year that want to move to VSTS. While many of them want to do the full Collection import, many do not.

@@ -40,6 +40,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:13:24Z
+concepts: []
 
 ---
 ## PSM II: The Game-Changer for [Scrum]({{< ref "/categories/scrum" >}}) Masters

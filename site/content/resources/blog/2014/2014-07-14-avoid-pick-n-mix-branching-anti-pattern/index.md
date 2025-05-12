@@ -1,6 +1,6 @@
 ---
 title: Avoid the pick-n-mix branching anti-pattern
-description: Discover how to avoid the pick-n-mix branching anti-pattern in software development. Learn effective strategies to enhance code quality and team trust.
+description: Explains the risks of the pick-n-mix branching anti-pattern in source control, its impact on code quality, and recommends feature branching and toggles for stability.
 ResourceId: IVl4r4gpkQ6
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -39,6 +39,9 @@ tags:
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-4-4.png
+Watermarks:
+  description: 2025-05-12T14:21:28Z
+concepts: []
 
 ---
 For the last few days I have been working with a customer in the UK on a grass roots engagement to help them solve their source control issues. They have ended up with a pick-n-mix branching anti-pattern and could not see the way out.

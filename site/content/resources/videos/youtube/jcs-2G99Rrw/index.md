@@ -40,6 +40,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:18Z
+concepts:
+- Tool
 
 ---
 I work with many enterprise organisations that utilise Azure [DevOps]({{< ref "/categories/devops" >}}), and I often encounter practices that either diminish the effectiveness of its features or, in some cases, break them entirely. Recently, I had the opportunity to speak with Dan Helm, the principal product manager for [Azure DevOps]({{< ref "/tags/azure-devops" >}}), about the top issues that users face. Today, I want to share those insights with you, drawing from my extensive experience as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and Microsoft MVP in [GitHub]({{< ref "/tags/github" >}}) and Azure DevOps.

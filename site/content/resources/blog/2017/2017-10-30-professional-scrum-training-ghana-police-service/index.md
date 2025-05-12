@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-training-ghana-police-service
 aliases:
-- /blog/professional-scrum-training-ghana-police-service
-- /professional-scrum-training-ghana-police-service
-- /professional-scrum-training-for-the-ghana-police-service
-- /blog/professional-scrum-training-for-the-ghana-police-service
 - /resources/ozXMaDX0lvp
-- /resources/blog/professional-scrum-training-ghana-police-service
 aliasesArchive:
 - /blog/professional-scrum-training-ghana-police-service
 - /professional-scrum-training-ghana-police-service
@@ -39,6 +34,8 @@ categories:
 preview: clip_image006_thumb-3-3.jpg
 Watermarks:
   description: 2025-05-07T13:16:27Z
+concepts:
+- Framework
 
 ---
 Last time I talked about the Ghana Police Service (GPS) I was talking about [Professional Organisational Change](https://nkdagility.com/professional-organisational-change-ghana-police-service/) and the approach the Inspector General of Police (IGP) is taking; using [Scrum]({{< ref "/categories/scrum" >}}) to incrementally make changes to the organisation. While Nana Abban and the IGP have been focusing on the big picture, I have been in Ghana to start the grass roots adoption of Scrum with two [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Foundations (PSF) classes, the first ever run in Ghana.

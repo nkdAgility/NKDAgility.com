@@ -47,6 +47,7 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:14:14Z
+concepts: []
 
 ---
 Why did so many of the early agile transformations fail?

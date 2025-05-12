@@ -37,6 +37,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:30Z
+concepts: []
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

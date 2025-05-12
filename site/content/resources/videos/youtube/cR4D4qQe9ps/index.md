@@ -43,6 +43,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:12:24Z
+concepts: []
 
 ---
 **#1 tip for a new [Scrum]({{< ref "/categories/scrum" >}}) Master**

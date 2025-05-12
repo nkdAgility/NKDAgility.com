@@ -39,6 +39,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:40Z
+concepts: []
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

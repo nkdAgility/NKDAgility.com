@@ -38,6 +38,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:53Z
+concepts:
+- Framework
 
 ---
 ### Demystifying [Kanban]({{< ref "/categories/kanban" >}}): A Strategy for [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})

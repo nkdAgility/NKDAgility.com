@@ -38,6 +38,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:23Z
+concepts: []
 
 ---
 Reflecting on My Worst Day as an Agile Consultant

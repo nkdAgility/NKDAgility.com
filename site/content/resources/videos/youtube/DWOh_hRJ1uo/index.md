@@ -39,6 +39,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:13:46Z
+concepts: []
 
 ---
 **What is your best advice for becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master outside software engineering?**

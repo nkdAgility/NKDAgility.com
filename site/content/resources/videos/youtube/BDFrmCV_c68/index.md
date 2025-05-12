@@ -40,6 +40,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:48Z
+concepts: []
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

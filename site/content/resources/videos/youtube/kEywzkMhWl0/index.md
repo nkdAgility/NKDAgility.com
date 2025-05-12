@@ -42,6 +42,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:02Z
+concepts: []
 
 ---
 **1 critical skill for a [Scrum]({{< ref "/categories/scrum" >}}) Master and why?**

@@ -1,6 +1,6 @@
 ---
 title: What my father taught me about Evidence-based Management (34 years before it was invented!)
-description: Discover how my father's insights on Evidence-based Management transformed a failing business 34 years before its inception. Learn to optimize value and agility!
+description: Explores how evidence-based management uses data-driven practices to improve organisational agility, value delivery, and decision-making in both business and software contexts.
 ResourceId: gYcZPh6B2eg
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 aliases:
-- /resources/gYcZPh6B2eg
 - /resources/blog/what-my-father-taught-me-about-evidence-based-management-34-years-before-it-was-invented
+- /resources/gYcZPh6B2eg
 aliasesArchive:
 - /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 - /what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
@@ -40,6 +40,10 @@ tags:
 categories:
 - Product Management
 preview: nakedalm-agility-index-7-7.png
+Watermarks:
+  description: 2025-05-12T14:22:06Z
+concepts:
+- Strategy
 
 ---
 A few weeks ago I headed out to the Scrum.org offices in Boston to participate in training to hone my skills as an Evidence-based Management Consultant. I was talking to my father about it when I got back and was surprised that he recognised many of the practices and tools.

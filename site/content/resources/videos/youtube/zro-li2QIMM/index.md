@@ -36,6 +36,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:07:13Z
+concepts: []
 
 ---
 In my journey through the realms of both technical and agile practices, I've often found myself reflecting on the true essence of what it means to help others succeed. It’s not just about the methodologies or the frameworks; it’s about the people and the organisations behind them. 

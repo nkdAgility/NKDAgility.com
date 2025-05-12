@@ -50,6 +50,8 @@ categories:
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:18Z
+concepts:
+- Tenet
 
 ---
 I am always surprised at the number of teams that release undone work to production. I understand that one may need a few sprints, or many if you inherited something nasty, to pay back that debt, but if it's more then you are not a [Professional Scrum Team](/blog/scrum-tapas-importance-professionalism/). The sheer amount of software that I have that is buggy, slow, or just not finished makes me think that there are few professional [Scrum Teams](/the-2020-scrum-guide/#scrum-team) out there!

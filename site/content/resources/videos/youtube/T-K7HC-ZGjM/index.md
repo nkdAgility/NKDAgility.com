@@ -40,6 +40,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:12:08Z
+concepts:
+- Artifact
 
 ---
 ## Interpreting the Sprint Backlog

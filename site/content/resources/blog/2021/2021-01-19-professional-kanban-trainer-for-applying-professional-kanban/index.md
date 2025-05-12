@@ -31,6 +31,7 @@ categories:
 preview: applying-professional-kanban-background-logo-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:15:02Z
+concepts: []
 
 ---
 The [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) only contains the minimum necessary to create an e**mpirical process control system for managing risk**. The new [Kanban Guide](https://nkdagility.com/the-kanban-guide/) reflects the minimum that you need to do to create a **strategy for optimizing the flow of value through a visual, pull-based system**.

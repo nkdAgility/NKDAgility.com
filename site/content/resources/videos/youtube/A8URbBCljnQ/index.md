@@ -14,8 +14,6 @@ slug: mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-
 layout: video
 aliases:
 - /resources/A8URbBCljnQ
-- /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
-- /resources/videos/27th-march-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
 - /resources/videos/27th-march-2020-office-hours-ask-me-anything
@@ -45,6 +43,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:15:53Z
+concepts: []
 
 ---
 Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around [remote working]({{< ref "/tags/remote-working" >}}), the integration of UX in Agile practices, and the importance of team dynamics. 

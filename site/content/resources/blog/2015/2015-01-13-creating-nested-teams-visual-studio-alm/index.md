@@ -1,6 +1,6 @@
 ---
 title: Creating nested teams in Visual Studio ALM
-description: Learn how to create nested teams in Visual Studio ALM for better organization and reporting. Enhance your agile processes with expert insights from Martin Hinshelwood.
+description: Learn how to set up and manage nested team structures in Visual Studio ALM and TFS using Area Paths or Team Fields for flexible project organisation and reporting.
 ResourceId: wu1tvjyyrZU
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-17-17.png
+Watermarks:
+  description: 2025-05-12T14:20:19Z
+concepts: []
 
 ---
 I just got a question on [Teams without areas using Team Field in TFS](http://nkdagility.com/team-foundation-server-2012-teams-without-areas/) and I decided that it warranted a bigger answer. The question was around creating nested teams and how to achieve it. Now, this applies to both Visual Studio Online and Team Foundation Server if you are using area path, and only TFS if you are using Team Field.

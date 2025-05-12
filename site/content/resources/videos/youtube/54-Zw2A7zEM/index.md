@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:14Z
+concepts: []
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}}) Master vs. Seasoned Agile Coach: What Sets Them Apart?

@@ -41,6 +41,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:11Z
+concepts: []
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

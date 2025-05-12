@@ -39,6 +39,8 @@ tags:
 - Team Performance
 Watermarks:
   description: 2025-05-07T13:15:36Z
+concepts:
+- Tool
 
 ---
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.

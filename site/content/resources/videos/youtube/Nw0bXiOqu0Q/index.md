@@ -45,6 +45,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:10Z
+concepts: []
 
 ---
 Why are recessions a great time for organizations to evaluate the opportunity of agile?

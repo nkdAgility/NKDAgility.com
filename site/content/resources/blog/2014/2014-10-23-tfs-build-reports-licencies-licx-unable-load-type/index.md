@@ -1,6 +1,6 @@
 ---
 title: 'TFS Build reports Licencies.licx: unable to load type'
-description: Discover solutions for the 'unable to load type' error in TFS build reports. Learn how to streamline your CI builds and enhance your development process.
+description: Explains how mismatched component versions in licences.licx files can cause build errors on TFS servers, and offers solutions for consistent automated builds.
 ResourceId: om6UWMd_ONd
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-build-reports-licencies-licx-unable-load-type
 aliases:
-- /resources/om6UWMd_ONd
 - /resources/blog/tfs-build-reports-licencies.licx-unable-to-load-type
+- /resources/om6UWMd_ONd
 aliasesArchive:
 - /blog/tfs-build-reports-licencies-licx-unable-load-type
 - /tfs-build-reports-licencies-licx-unable-load-type
@@ -31,6 +31,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-3-3.png
+Watermarks:
+  description: 2025-05-12T14:20:52Z
+concepts: []
 
 ---
 When you do a build you can get an "unable to resolve type" message from the licencies.licx file that you have checked in. This prevents you from having a successful build in Team Build.

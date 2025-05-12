@@ -42,6 +42,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:14:47Z
+concepts:
+- Method
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}): Overcoming Challenges with the Scaled [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Course

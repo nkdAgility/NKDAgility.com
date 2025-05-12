@@ -37,6 +37,7 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:12:48Z
+concepts: []
 
 ---
 Product of Conventional Practices

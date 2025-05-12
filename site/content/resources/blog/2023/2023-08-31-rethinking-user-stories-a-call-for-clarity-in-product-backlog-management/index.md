@@ -40,6 +40,8 @@ categories:
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:46Z
+concepts:
+- Artifact
 
 ---
 As someone who has spent a fair amount of time in the trenches of [product development]({{< ref "/categories/product-development" >}}), I've realised that the language we use to describe our work can profoundly shape our approach to it. One term that I believe has been misused and misunderstood to the point of causing more harm than good is "User Stories".

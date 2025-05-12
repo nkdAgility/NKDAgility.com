@@ -46,6 +46,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:01Z
+concepts: []
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement—particularly with stakeholders and, crucially, with your [product owner]({{< ref "/tags/product-owner" >}}).

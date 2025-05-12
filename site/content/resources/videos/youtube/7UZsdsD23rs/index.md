@@ -46,6 +46,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:09:47Z
+concepts:
+- Principle
 
 ---
 ## The Keystone of [Lean]({{< ref "/categories/lean" >}})-Agile: Empiricism Unravelled 🧬 

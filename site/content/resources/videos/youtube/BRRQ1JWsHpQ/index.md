@@ -27,7 +27,6 @@ preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
 duration: 418
 isShort: false
 tags:
-- Liberating Structures
 - Team Collaboration
 - Pragmatic Thinking
 - Continuous Learning
@@ -40,6 +39,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:06Z
+concepts: []
 
 ---
 When it comes to training in agile methodologies, one of the most pressing questions I often encounter is: how do we effectively transfer our training experiences into our day-to-day jobs? The answer lies in [experimentation]({{< ref "/tags/experimentation" >}}). I always encourage participants to try things out, to take the tools and techniques we discuss in class and apply them in their own environments. 

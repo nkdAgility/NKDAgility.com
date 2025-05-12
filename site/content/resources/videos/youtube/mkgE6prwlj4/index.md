@@ -40,6 +40,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:10Z
+concepts: []
 
 ---
 ## Spotlight on Outstanding [Scrum]({{< ref "/categories/scrum" >}}) Application

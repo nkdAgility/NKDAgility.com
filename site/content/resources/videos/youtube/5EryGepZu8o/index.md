@@ -43,6 +43,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:56Z
+concepts:
+- Principle
 
 ---
 If you could teach just one thing about [Scrum]({{< ref "/categories/scrum" >}}), what would it be?

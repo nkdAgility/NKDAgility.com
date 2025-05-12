@@ -14,8 +14,6 @@ slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-qual
 layout: video
 aliases:
 - /resources/iCDEX6oHy7A
-- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
-- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 aliasesArchive:
 - /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 - /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
@@ -39,6 +37,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:15:54Z
+concepts: []
 
 ---
 As I sit here in Scotland, reflecting on a recent conversation with my good friend Jim from the Midwest, I can’t help but think about the challenges many organisations face on their agile journey. Jim reached out to me with a pressing question: how do we train development teams to embrace an agile mindset? This is a topic that resonates deeply with me, and I believe it’s crucial for the success of any [agile transformation]({{< ref "/tags/agile-transformation" >}}).

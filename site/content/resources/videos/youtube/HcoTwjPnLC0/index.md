@@ -36,6 +36,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:12:12Z
+concepts: []
 
 ---
 ## Defining Roles in Agile

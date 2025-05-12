@@ -38,6 +38,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:14Z
+concepts: []
 
 ---
 As I reflect on my journey as an agile consultant, I often find myself thinking about the essential skills that can make or break your effectiveness in this role. Whether you're just starting out or looking to refine your approach, here are my top three tips for new agile consultants that I believe can set you on the right path.

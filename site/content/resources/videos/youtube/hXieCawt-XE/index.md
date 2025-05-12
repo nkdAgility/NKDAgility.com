@@ -47,6 +47,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:29Z
+concepts:
+- Method
 
 ---
 When implementing a [Kanban]({{< ref "/categories/kanban" >}}) strategy, we're essentially creating a pull-based system of work. This methodology, which originated in [lean]({{< ref "/categories/lean" >}}) manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.

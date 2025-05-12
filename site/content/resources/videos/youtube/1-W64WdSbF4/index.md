@@ -50,6 +50,8 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T13:14:51Z
+concepts:
+- Accountability
 
 ---
 This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the [Sprint Review]({{< ref "/tags/sprint-review" >}}) and its empirical nature. I used a combination of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}), Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!

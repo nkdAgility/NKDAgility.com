@@ -53,6 +53,8 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T13:15:41Z
+concepts:
+- Practice
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}) and [site reliability engineering]({{< ref "/tags/site-reliability-engineering" >}}), I've come to appreciate the delicate balance between engineering and operations. Today, I want to share insights from my experiences with the Azure [DevOps]({{< ref "/categories/devops" >}}) team at Microsoft, particularly how they foster a live site culture that prioritises reliability while delivering value to customers.

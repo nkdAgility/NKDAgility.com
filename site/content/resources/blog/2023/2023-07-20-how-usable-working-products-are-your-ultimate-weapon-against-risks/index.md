@@ -43,6 +43,8 @@ categories:
 preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:36Z
+concepts:
+- Tenet
 
 ---
 It baffles me how some agile teams, who claim to be the pioneers of modernity, are living in archaic times where usable working products are as rare as unicorns! Just a heads-up, my dear agile practitioners: the linchpin of Agile is a Usable Working Product. Yes, you read it right!

@@ -1,6 +1,6 @@
 ---
 title: The great Team Foundation Server 2013 Upgrade Weekend
-description: Join the Team Foundation Server 2013 Upgrade Weekend on Sept 13-15 for expert support in upgrading and configuring TFS 2013. RSVP now for a smooth transition!
+description: Microsoft experts will provide free support for upgrading, installing, or configuring Team Foundation Server 2013 during a special event on 13–15 September 2013.
 ResourceId: vBfV--PVVr7
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -23,6 +23,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:23:19Z
+concepts: []
 
 ---
 The product team have put some more engineering resources where their mouth is and the great Team Foundation Server 2013 Upgrade Weekend will be on September 13-15.

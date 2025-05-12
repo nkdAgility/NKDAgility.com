@@ -51,6 +51,7 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T13:09:35Z
+concepts: []
 
 ---
 ## Reinvigorating Your [Scrum]({{< ref "/categories/scrum" >}}) Team: The Agile Coach's Playbook 🚀 

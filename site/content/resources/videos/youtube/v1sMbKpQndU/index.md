@@ -51,6 +51,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:09:29Z
+concepts:
+- Principle
 
 ---
 ## The Agile Landscape: A Guide to Effective [Coaching]({{< ref "/tags/coaching" >}}) and [Leadership]({{< ref "/categories/leadership" >}}) 

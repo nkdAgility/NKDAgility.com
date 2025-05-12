@@ -36,6 +36,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:07Z
+concepts: []
 
 ---
 ## The Double-Edged Sword of Consulting Contracts

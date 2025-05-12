@@ -40,6 +40,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:13:35Z
+concepts: []
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

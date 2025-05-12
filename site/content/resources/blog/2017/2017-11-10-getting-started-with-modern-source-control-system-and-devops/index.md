@@ -16,12 +16,7 @@ layout: blog
 resourceTypes: blog
 slug: getting-started-with-modern-source-control-system-and-devops
 aliases:
-- /blog/getting-started-with-modern-source-control-system-and-devops
-- /getting-started-with-modern-source-control-system-and-devops
-- /getting-started-with-a-modern-source-control-system-and-devops
-- /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/bkiQSbbO78R
-- /resources/blog/getting-started-with-modern-source-control-system-and-devops
 aliasesArchive:
 - /blog/getting-started-with-modern-source-control-system-and-devops
 - /getting-started-with-modern-source-control-system-and-devops
@@ -41,6 +36,8 @@ categories:
 preview: excellence-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:25Z
+concepts:
+- Tool
 
 ---
 There are a number of things that you have to think about when selecting a [modern source control]({{< ref "/tags/modern-source-control" >}}) system. Some of that is purely about code, but modern source control systems are about way more than code. They are about your entire application lifecycle and supporting [DevOps]({{< ref "/categories/devops" >}}) practices, they are about the metadata that you use to understand and manage your development processes and deliver great software. The tools you choose should compliment the professional people and practices that you use.

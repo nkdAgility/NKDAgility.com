@@ -16,12 +16,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-everyone-organisation
 aliases:
-- /blog/professional-scrum-everyone-organisation
-- /professional-scrum-everyone-organisation
-- /professional-scrum-is-for-everyone-in-your-organisation
-- /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/Cr7wjIJ8Uvb
-- /resources/blog/professional-scrum-everyone-organisation
 aliasesArchive:
 - /blog/professional-scrum-everyone-organisation
 - /professional-scrum-everyone-organisation
@@ -50,6 +45,8 @@ categories:
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:16:21Z
+concepts:
+- Framework
 
 ---
 Recently I worked with a new customer in Denver to help them move towards a greater degree of [Scrum]({{< ref "/categories/scrum" >}}) in their [software development]({{< ref "/tags/software-development" >}}). The idea that Scrum is for everyone in your organisation is kind of new, but it reflects the modern understanding of the way people work, and the rejection of Taylorism and command and control. You [cant use someone else approaches to get to agility](https://nkdagility.com/organisational-change-create-path/), but you can learn from it.

@@ -44,6 +44,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:05:13Z
+concepts: []
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've often encountered a significant gap in how organisations approach [product management]({{< ref "/categories/product-management" >}}). This gap becomes glaringly obvious when companies attempt to transition from traditional [project management]({{< ref "/tags/project-management" >}}) methods—think Gantt charts and rigid milestones—to a more agile mindset. The reality is that building software products is inherently complex and dynamic, and the old ways simply don’t cut it anymore.

@@ -43,6 +43,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:30Z
+concepts:
+- Principle
 
 ---
 What will you learn on the professional [scrum]({{< ref "/categories/scrum" >}}) master course?

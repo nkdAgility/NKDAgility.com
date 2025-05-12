@@ -16,6 +16,7 @@ aliases:
 - /resources/6L2r8YrehWc
 - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
 - /resources/videos/why-isnt-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide
+- /resources/videos/why-the-scrum-master-s-true-power-lies-in-influence-not-authority
 aliasesArchive:
 - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority
 - /resources/videos/why-isn't-a-scrum-master-given-any-real-power-or-authority-in-the-scrum-guide-
@@ -45,6 +46,7 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T13:09:30Z
+concepts: []
 
 ---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}), a common question arises: why isn’t the [Scrum Master]({{< ref "/tags/scrum-master" >}}) endowed with any real power or authority as outlined in the Scrum Guide? This is a thought-provoking inquiry, and I’d like to share my perspective based on my experiences in the field.

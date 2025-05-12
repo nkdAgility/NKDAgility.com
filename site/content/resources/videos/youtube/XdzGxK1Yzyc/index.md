@@ -42,6 +42,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:12:16Z
+concepts: []
 
 ---
 ## Decoding the Role of the [Product Owner]({{< ref "/tags/product-owner" >}})

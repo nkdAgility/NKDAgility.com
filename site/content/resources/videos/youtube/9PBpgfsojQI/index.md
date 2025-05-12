@@ -19,6 +19,7 @@ isShort: false
 aliases:
 - /resources/9PBpgfsojQI
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
+- /resources/videos/2023-is-predicted-to-be-a-very-tough-year.-what-do-you-think-will-be-needed-to-win-and-improve
 aliasesArchive:
 - /resources/videos/-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 - /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
@@ -39,6 +40,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:14:06Z
+concepts: []
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?

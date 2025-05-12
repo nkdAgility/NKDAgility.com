@@ -35,6 +35,8 @@ categories:
 preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:20Z
+concepts:
+- Method
 
 ---
 In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress during a Sprint.

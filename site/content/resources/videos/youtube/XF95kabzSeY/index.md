@@ -16,6 +16,7 @@ aliases:
 - /resources/XF95kabzSeY
 - /resources/videos/filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
+- /resources/videos/filling-the-understanding-gap-a-product-owner-s-guide-to-vision-engagement-and-value
 aliasesArchive:
 - /resources/videos/shorts-things-you-would-teach-a-productowner-apprentice-part-
 - /resources/videos/shorts-5-things-you-would-teach-a-productowner-apprentice-part-2
@@ -40,6 +41,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:06:55Z
+concepts: []
 
 ---
 As I step into the role of a new [Product Owner]({{< ref "/tags/product-owner" >}}), I often reflect on the pivotal moments that define our journey in [product development]({{< ref "/categories/product-development" >}}). One of the most crucial aspects I’ve learned is the importance of filling the vacuum of understanding within our teams and across the organisation. This is not just a task; it’s a responsibility that can make or break the success of our product.

@@ -44,6 +44,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:13:13Z
+concepts: []
 
 ---
 ## Beyond Certification: A Deeper Dive Into the PSM II Course

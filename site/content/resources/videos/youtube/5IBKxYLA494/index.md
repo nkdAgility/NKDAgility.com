@@ -52,6 +52,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:20Z
+concepts:
+- Tool
 
 ---
 As your [DevOps]({{< ref "/categories/devops" >}}) was built for agile teams by agile teams, there are numerous ways to leverage it to support your agile practices. Today, I want to share how to use [Azure DevOps]({{< ref "/tags/azure-devops" >}}) to enhance your [Scrum]({{< ref "/categories/scrum" >}}) process, drawing insights from Scrum.org and the teams at Microsoft who developed it. My focus will be on integrating the Scrum framework with value-focused, hypothesis-driven, flow-based practices.

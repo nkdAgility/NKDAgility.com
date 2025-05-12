@@ -50,6 +50,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:09:39Z
+concepts:
+- Method
 
 ---
 The [Sprint Review]({{< ref "/tags/sprint-review" >}}): Who Should Lead and Why It Matters

@@ -33,6 +33,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:50Z
+concepts: []
 
 ---
 **Must have trait in an Agile Consultant**

@@ -41,6 +41,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:09:34Z
+concepts: []
 
 ---
 ## The Role of the [Product Owner]({{< ref "/tags/product-owner" >}}): Navigating the Agile Seas 🌊 

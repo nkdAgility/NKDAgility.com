@@ -25,6 +25,7 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-07T13:09:16Z
+concepts: []
 
 ---
 Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and [Lean]({{< ref "/categories/lean" >}}) [Product Development]({{< ref "/categories/product-development" >}}).

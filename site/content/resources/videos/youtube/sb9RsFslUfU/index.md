@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:42Z
+concepts: []
 
 ---
 ## From Practitioner to Consultant

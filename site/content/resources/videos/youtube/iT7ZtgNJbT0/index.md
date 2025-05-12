@@ -37,6 +37,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:31Z
+concepts: []
 
 ---
 **What was your best day as an Agile consultant?**

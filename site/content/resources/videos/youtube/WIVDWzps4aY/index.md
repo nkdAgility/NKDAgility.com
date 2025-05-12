@@ -39,6 +39,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:09:41Z
+concepts: []
 
 ---
 One of my favourite classes to teach is the [Product Owner]({{< ref "/tags/product-owner" >}}) class. It used to be known as the APS class, but I felt a change was necessary. The reason for this shift is simple: I’ve observed that the most significant gap in organisations and teams today is effective [product management]({{< ref "/categories/product-management" >}}). 

@@ -51,6 +51,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:08:53Z
+concepts:
+- Principle
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:40Z
+concepts: []
 
 ---
 ## [DevOps]({{< ref "/categories/devops" >}}) & Agile: Two Sides of the Same Coin 🪙

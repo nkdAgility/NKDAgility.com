@@ -51,6 +51,8 @@ categories:
 preview: naked-agility-evidence-based-management-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:07Z
+concepts:
+- Model
 
 ---
 Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and I have a number of customers that are fretting on what to collect and from where. Here I try to create an understanding of the 'what' that we need to collect.

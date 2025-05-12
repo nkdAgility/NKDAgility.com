@@ -37,6 +37,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:45Z
+concepts: []
 
 ---
 I’ve always had a deep appreciation for hierarchies of [competence]({{< ref "/tags/competence" >}}). Unlike traditional hierarchies that often revolve around control and authority, these structures are rooted in respect and recognition of individual capabilities. This distinction is crucial, especially in today’s fast-paced work environments where collaboration and expertise are paramount.

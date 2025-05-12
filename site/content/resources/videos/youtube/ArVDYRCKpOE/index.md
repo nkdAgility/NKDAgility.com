@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:08:52Z
+concepts: []
 
 ---
 ## Navigating its Limits in Agile Work Environments 

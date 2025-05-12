@@ -18,6 +18,7 @@ isShort: false
 aliases:
 - /resources/7O-LmzmxUkE
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-1.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1-
@@ -47,6 +48,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:27Z
+concepts:
+- Method
 
 ---
 # Demystifying [Scrum]({{< ref "/categories/scrum" >}}): Beyond Meetings to Meaningful Events 🚀

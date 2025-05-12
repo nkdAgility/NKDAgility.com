@@ -39,6 +39,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:14:01Z
+concepts: []
 
 ---
 Why do you think the PSU course has become so popular for [product development]({{< ref "/categories/product-development" >}})?

@@ -1,0 +1,56 @@
+[
+  {
+    "FrontMatter": {
+      "title": "Metrics and Reports",
+      "description": "Outlines key metrics for tracking product, project, organisation, and team performance, including satisfaction, defect trends, repair times, and workflow efficiency.",
+      "ResourceId": "26FWeqJuu0P",
+      "ResourceImport": false,
+      "ResourceType": "practices",
+      "ResourceContentOrigin": "Human",
+      "resourceTypes": "practice",
+      "layout": "practice",
+      "aliases": "/learn/agile-delivery-kit/practices/metrics-reports /resources/26FWeqJuu0P",
+      "aliasesArchive": "/learn/agile-delivery-kit/practices/metrics-reports",
+      "recommendedContent": "practices/Metrics-Reports/ practices/Metrics-Reports.html metrics-reports metrics-reports.html",
+      "date": "2024-09-17",
+      "weight": 300.0,
+      "creator": "Martin Hinshelwood",
+      "card": "System.Collections.Specialized.OrderedDictionary",
+      "categories": "Product Management Engineering Excellence Product Development",
+      "tags": "Operational Practices Metrics and Learning Current Value Transparency Evidence Based Leadership Evidence Based Management Flow Efficiency Product Delivery Value Delivery Team Performance",
+      "Watermarks": "System.Collections.Specialized.OrderedDictionary",
+      "concepts": ""
+    },
+    "BodyContent": "In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.\n\n###Background material\n\n- [EBM Guide]\n\n## Product/Project/Organisation Focus\n\nHere are the key metrics that should be collected and made transparent for every Product/Project/Organisation.\n\n- **[Customer Satisfaction]({{< ref \"/tags/customer-satisfaction\" >}})** - Some form of sentiment analysis to help gauge customer engagement and happiness with the product.\n- **Employee Satisfaction** - Some form of sentiment analysis to help gauge [employee engagement]({{< ref \"/tags/employee-engagement\" >}}), energy, and enthusiasm.\n- **Defect Trend** - Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don't work as intended.\n- **Mean Time to Repair** - The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.\n- **Release Stabilization** - The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.\n- **Deployment / Release Frequency** - The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.\n\n## Team Focus\n\nAt the team level we should focus on the flow of value to the stakeholders. For this to work we should collect and monitor the following:\n\n- **Work in Progress (WIP)**- The number of work items started but not finished. Note the difference between the WIP metric and the policies a [Scrum]({{< ref \"/categories/scrum\" >}}) Team uses to limit WIP. The team can use the WIP metric to provide [transparency]({{< ref \"/tags/transparency\" >}}) about their progress towards reducing their WIP and improving their flow.\n- **[Cycle Time]({{< ref \"/tags/cycle-time\" >}})** - The amount of elapsed time between when a work item starts and when a work item finishes.\n- **Work Item Age ** - The amount of time between when a work item started and the current time. This applies only to items that are still in progress.\n- **[Throughput]({{< ref \"/tags/throughput\" >}})** - The number of work items finished per unit of time.\n\n![image.png](/.attachments/image-780125d0-ecac-43a2-8bfe-b1ad2939d02f.png =800x)\n\nThings that we should not monitor (but the Team can for their own edification if they desire):\n\n- Story Points\n- Velocity\n- Remaining Work\n- Original Estimate\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\practices\\metrics-reports\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\practices\\metrics-reports"
+  },
+  {
+    "FrontMatter": {
+      "title": "Sprint Planning Event",
+      "description": "Explains how Sprint Planning defines goals, plans work, and improves team-stakeholder communication to ensure clarity, transparency, and effective support in Scrum.",
+      "ResourceId": "v_AGzuOgZ0g",
+      "ResourceImport": false,
+      "ResourceType": "practices",
+      "ResourceContentOrigin": "Human",
+      "resourceTypes": "practice",
+      "layout": "practice",
+      "aliases": "/learn/agile-delivery-kit/practices/sprint-planning-event /resources/v_AGzuOgZ0g",
+      "aliasesArchive": "/learn/agile-delivery-kit/practices/sprint-planning-event",
+      "references": null,
+      "recommendedContent": "System.Collections.Specialized.OrderedDictionary System.Collections.Specialized.OrderedDictionary System.Collections.Specialized.OrderedDictionary",
+      "videos": "System.Collections.Specialized.OrderedDictionary System.Collections.Specialized.OrderedDictionary System.Collections.Specialized.OrderedDictionary System.Collections.Specialized.OrderedDictionary",
+      "date": "2024-09-17",
+      "weight": 790.0,
+      "creator": "Martin Hinshelwood",
+      "card": "System.Collections.Specialized.OrderedDictionary",
+      "categories": "Scrum Product Development",
+      "tags": "Scrum Team Agile Frameworks Professional Scrum Agile Planning Software Development Agile Product Management Product Delivery",
+      "Watermarks": "System.Collections.Specialized.OrderedDictionary",
+      "concepts": "Practice"
+    },
+    "BodyContent": "We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.\n\n![naked Agility Scrum Framework Sprint Planning](./../assets/images/naked-agility-scrum-framework-sprint-planning.jpg)\n\n## What is Sprint Planning?\n\nThe purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire [Scrum]({{< ref \"/categories/scrum\" >}}) Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event the greater the degree of understanding tha the [Scrum Team]({{< ref \"/tags/scrum-team\" >}}) has going in the shorter it will be. That is, if the [Product Backlog]({{< ref \"/tags/product-backlog\" >}}) is well understood, and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood, or the Product Goal is not clear, then the Sprint Planning will be longer.\n\n> Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team. <br /><br />\n> The [Product Owner]({{< ref \"/tags/product-owner\" >}}) ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal. The Scrum Team may also invite other people to attend Sprint Planning to provide advice.<br /> > [Scrum Guide](./../_guides/scrum-guide.md#sprint-planning)\n\n![naked Agility Scrum Framework Sprint Planning Flow](./../assets/images/naked-agility-scrum-framework-sprint-planning-flow.jpg)\n\nI would expect a typical [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) to take from 30-120 minutes is there is clear understanding.\n\nSee [Sprint Planning Recipe](./../_recipes/sprint-planning-recipe.md) for look at how Sprint Planning might run.\n\n## Why is this important?\n\nThe [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is where the initial [transparency]({{< ref \"/tags/transparency\" >}}) of the Sprint Backlog emerges.\n\n## The Sprint Goal\n\nPart of Sprint Planning is to create a Sprint Goal. The Sprint Goal is a short statement that describes what the Scrum Team intends to achieve in the Sprint. It is a commitment by the Scrum Team to the stakeholders. It is a marketing statement that helps stakeholders to understand what the Scrum Team is doing and why. It is a statement that helps stakeholders to understand how they can support the Scrum Team in their work.\n\n## Sprint Planning as a Planning Event\n\nThe Sprint Planning event is a planning event. It is where the Scrum Team plans the work that they will do in the Sprint. It is where they create the Sprint Backlog. This plan is a forecast of the work that the Scrum Team believes they can complete in the Sprint. It is a forecast because it is based on the current understanding of the Product Backlog and the current understanding of the Scrum Team's capacity and capability.\n\n## Sprint Planning is a Marketing Event\n\nMany Scrum Teams lament on the fact that they are not able to get the support they need from stakeholders. This is often because they have not communicated their intentions and plans to stakeholders in a way that they can understand.\n\nThe Scrum Team should be aware of the external stakeholder view of the Sprint Goal and what they are working on and deliberately craft this to engage stakeholders and help them to understand how they can support the Scrum Team in their work.\n\nIf this means working on somethign other than the highest priority item in the Product Backlog then that is fine as long as it serves the purpose of maximizing the value of the work done by the scrum team.\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\practices\\professional-sprint-planning-event\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\practices\\professional-sprint-planning-event"
+  }
+]

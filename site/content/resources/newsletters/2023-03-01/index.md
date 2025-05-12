@@ -26,6 +26,7 @@ tags:
 - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:13:53Z
+concepts: []
 
 ---
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.

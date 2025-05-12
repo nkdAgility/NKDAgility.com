@@ -45,6 +45,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:12:01Z
+concepts:
+- Method
 
 ---
 ## The Pivotal Role of a [Product Owner]({{< ref "/tags/product-owner" >}}) in Cultivating a Stellar [Product Backlog]({{< ref "/tags/product-backlog" >}})

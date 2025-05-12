@@ -19,6 +19,7 @@ isShort: true
 aliases:
 - /resources/Oj0ybFF12Rw
 - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
+- /resources/videos/quotes-don-t-scale-scrum-pragmatic-or-defeatist
 aliasesArchive:
 - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist
 - /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
@@ -39,6 +40,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:08:55Z
+concepts: []
 
 ---
 ## "Don't scale [scrum]({{< ref "/categories/scrum" >}})" - A Common Refrain 

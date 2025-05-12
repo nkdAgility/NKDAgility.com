@@ -43,6 +43,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:40Z
+concepts: []
 
 ---
 Hiring the right Agile coach is one of the most critical decisions an organization can make on its journey to becoming more Agile. It's not just about their ability to understand [Scrum]({{< ref "/categories/scrum" >}}) or [Agile frameworks]({{< ref "/tags/agile-frameworks" >}})—it's about their ability to deeply engage with both the technical teams and [leadership]({{< ref "/categories/leadership" >}}). They must gain credibility in both arenas to effectively drive the transformation.

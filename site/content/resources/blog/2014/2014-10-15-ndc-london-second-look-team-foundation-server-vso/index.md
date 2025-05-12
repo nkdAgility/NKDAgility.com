@@ -1,6 +1,6 @@
 ---
 title: 'NDC London: Second Look, Team Foundation Server &amp; VSO'
-description: Join Martin Hinshelwood at NDC London for a deep dive into Team Foundation Server and VSO, showcasing powerful ALM features and live demos. Don't miss out!
+description: Overview of a session at NDC London demonstrating new features in Team Foundation Server and Visual Studio Online, with end-to-end ALM demos for .NET development teams.
 ResourceId: bI6ySrK2G51
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: ndc-london-second-look-team-foundation-server-vso
 aliases:
-- /resources/bI6ySrK2G51
 - /resources/blog/ndc-london-second-look-team-foundation-server-amp-vso
+- /resources/bI6ySrK2G51
 aliasesArchive:
 - /blog/ndc-london-second-look-team-foundation-server-vso
 - /ndc-london-second-look-team-foundation-server-vso
@@ -34,6 +34,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-event-icon-7-7.png
+Watermarks:
+  description: 2025-05-12T14:21:01Z
+concepts: []
 
 ---
 While I have spoken at many events in the USA while I lived there, and even did a few keynotes for the Visual Studio 2012 launch, I have been trying to figure out the scene here in Europe. As such I submitted to a few events and got accepted to speak at NDC London.

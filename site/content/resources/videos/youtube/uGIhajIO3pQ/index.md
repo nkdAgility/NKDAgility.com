@@ -36,6 +36,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:13Z
+concepts: []
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

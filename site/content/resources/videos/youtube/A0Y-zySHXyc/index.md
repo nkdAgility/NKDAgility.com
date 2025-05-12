@@ -37,6 +37,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:09:03Z
+concepts:
+- Accountability
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

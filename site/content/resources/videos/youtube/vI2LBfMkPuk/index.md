@@ -41,6 +41,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:35Z
+concepts: []
 
 ---
 As I reflect on my experiences delivering the Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) class, I can confidently say it’s my favourite course to teach. The reason? It consistently sparks some of the most profound epiphanies for my students. 
