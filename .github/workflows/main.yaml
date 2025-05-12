@@ -493,6 +493,23 @@ jobs:
           deployment_environment: ${{ (needs.Setup.outputs.nkdAgility_AzureSitesEnvironment) }}
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
 
+      - name: Build and Deploy
+        if: needs.Setup.outputs.nkdAgility_Ring == 'Production'
+        continue-on-error: true
+        uses: Azure/static-web-apps-deploy@v1
+        id: azureDeploy2
+        env:
+          VERBOSE: true
+        with:
+          repo_token: ${{ steps.app-token.outputs.token }}
+          action: "upload"
+          app_location: ./_site
+          api_location: ./functions
+          skip_app_build: true
+          skip_api_build: false
+          output_location: ""
+          azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+
       - name: "Show Summery"
         if: always()
         shell: pwsh
