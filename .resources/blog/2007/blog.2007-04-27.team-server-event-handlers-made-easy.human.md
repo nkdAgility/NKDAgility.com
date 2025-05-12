@@ -1,5 +1,5 @@
 ---
-title: Team Server Event Handlers made easy...
+title: Team Server Event Handlers made easy
 description: Discover how to easily deploy event handlers for Team Foundation Server with our comprehensive guide. Simplify your coding process and enhance productivity!
 ResourceId: NjGpMY3aKfH
 ResourceType: blog
@@ -15,21 +15,18 @@ layout: blog
 resourceTypes: blog
 slug: team-server-event-handlers-made-easy
 aliases:
-- /resources/NjGpMY3aKfH
-- /resources/blog/team-server-event-handlers-made-easy...
+  - /resources/NjGpMY3aKfH
+  - /resources/blog/team-server-event-handlers-made-easy
 aliasesArchive:
-- /blog/team-server-event-handlers-made-easy
-- /team-server-event-handlers-made-easy
-- /team-server-event-handlers-made-easy---
-- /blog/team-server-event-handlers-made-easy---
-- /resources/blog/team-server-event-handlers-made-easy
-- /resources/blog/team-server-event-handlers-made-easy...
+  - /blog/team-server-event-handlers-made-easy
+  - /team-server-event-handlers-made-easy
+  - /resources/blog/team-server-event-handlers-made-easy
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
-
 ---
+
 Will, not really...
 
 I work for a rather large organization and I wanted an easy way for power users of team system to deploy event handlers for the [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") events. Essentially they create an assembly with as many EventHandler classes as they like and they can upload their assembly through an administration system, which in turn executes any handlers that exist on the system for any events.

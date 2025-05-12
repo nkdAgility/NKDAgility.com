@@ -1,8 +1,8 @@
 {{- $.Scratch.Add "routes" slice -}}
 {{- range $p := sort site.AllPages "Path" }}
-  {{- $aliasesFor404 := $p.Params.aliasesFor404 -}}
-  {{ if $aliasesFor404 }}
-    {{- range $alias := sort $p.Params.aliasesFor404 }}
+  {{- $aliasesArchive := $p.Params.aliasesArchive -}}
+  {{ if $aliasesArchive }}
+    {{- range $alias := sort $p.Params.aliasesArchive }}
       {{- if not (strings.HasSuffix $alias "/") }}
         {{- $alias = printf "%s/" $alias }}
       {{- end }}

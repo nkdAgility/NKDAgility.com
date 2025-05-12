@@ -36,22 +36,86 @@
 
 {{- define "main" }}
   <section class="container my-5">
-    <div class="ais-InstantSearch">
-      <div class="right-panel">
-        <div id="searchbox"></div>
-        <div id="refinement"></div>
-        <div id="hits"></div>
-        <div id="pagination"></div>
-      </div>
-    </div>
+    <div id="counter">test counter</div>
+    <div id="found">test</div>
   </section>
-  <script src="{{- "js/algolia/search.js" | relURL }}"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", async function () {
+      const NOT_FOUND_URL = window.location.pathname;
+      const counterDiv = document.getElementById("counter");
+      const foundDiv = document.getElementById("found");
 
-  <section class="container my-5">
-    <h2 title="Capabilities - What we do?">What we do?</h2>
-    <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
-    {{- partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
-  </section>
+      console.log("404 Page Loaded. Checking for redirects...");
+      console.log(`Current URL: ${NOT_FOUND_URL}`);
+
+      try {
+        // Fetch the routes JSON file from the root of the website
+        console.log("Fetching redirect routes from /static.routes.json...");
+        const response = await fetch("/static.routes.json", { cache: "force-cache" });
+
+        if (!response.ok) {
+          throw new Error(`Failed to load routes JSON. Status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        console.log("Routes JSON loaded successfully.");
+
+        // Function to escape special characters in the route string
+        function escapeRegExp(string) {
+          return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // Escape special characters
+        }
+
+        // Find a matching route
+        const matchedRoute = data.routes.find((routeObj) => {
+          try {
+            const pattern = new RegExp(`^${escapeRegExp(routeObj.route).replace("\\*", ".*")}$`);
+            return pattern.test(NOT_FOUND_URL);
+          } catch (regexError) {
+            console.error("Invalid regex pattern:", routeObj.route, regexError);
+            return false;
+          }
+        });
+
+        if (matchedRoute) {
+          const redirectURL = matchedRoute.redirect;
+          let countdown = 0; // Countdown in seconds
+
+          console.log(`Match found! Redirecting to: ${redirectURL}`);
+
+          // Insert a <meta> refresh tag for SEO (Google may respect this)
+          const metaRedirect = document.createElement("meta");
+          metaRedirect.httpEquiv = "refresh";
+          metaRedirect.content = `${countdown};url=${redirectURL}`;
+          document.head.appendChild(metaRedirect);
+          console.log("Meta refresh tag added for SEO.");
+
+          // Display found message
+          foundDiv.innerHTML = `Page not found. Redirecting to <a href="${redirectURL}">${redirectURL}</a> in <span id="countdown">${countdown}</span> seconds...`;
+          counterDiv.innerHTML = countdown;
+
+          const countdownInterval = setInterval(() => {
+            countdown--;
+            counterDiv.innerText = countdown;
+            console.log(`Redirecting in ${countdown} seconds...`);
+
+            if (countdown <= 0) {
+              clearInterval(countdownInterval);
+              console.log(`Redirecting now to: ${redirectURL}`);
+
+              // Use window.location.replace() instead of href to prevent history entry
+              window.location.replace(redirectURL);
+            }
+          }, 1000);
+        } else {
+          console.log("No matching redirect found.");
+          foundDiv.innerHTML = "No redirect found.";
+        }
+      } catch (error) {
+        console.error("Error loading redirect routes:", error);
+        foundDiv.innerHTML = "An error occurred while checking for redirects.";
+      }
+    });
+  </script>
 {{- end }}
 
 {{- define "template" }}
