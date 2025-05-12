@@ -13,9 +13,8 @@ url: /resources/videos/:slug
 slug: transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
 layout: video
 aliases:
+- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
 - /resources/XMLdLH6f4N8
-- /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
-- /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-katherine-maddox
 - /resources/nkdagility-healthgrades-interview-katherine-maddox
@@ -39,6 +38,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:16:30Z
+concepts: []
 
 ---
 As I reflect on my recent experiences with [organisational change]({{< ref "/tags/organisational-change" >}}) and the impact it has on teams, I can't help but think about the journey we’ve all been on. It’s a journey that often feels chaotic, yet it’s one that can lead to incredible transformation when approached with the right mindset and tools. 

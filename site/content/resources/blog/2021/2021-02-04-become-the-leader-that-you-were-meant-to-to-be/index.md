@@ -30,6 +30,7 @@ categories:
 preview: image-2-2.png
 Watermarks:
   description: 2025-05-07T13:15:00Z
+concepts: []
 
 ---
 [Leadership]({{< ref "/categories/leadership" >}}) is not about control, but about inspiring those around you.

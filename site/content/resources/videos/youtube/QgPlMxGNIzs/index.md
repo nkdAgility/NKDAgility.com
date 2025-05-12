@@ -41,6 +41,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:05Z
+concepts: []
 
 ---
 How do you think Agile is evolving since its inception in 2001?

@@ -39,6 +39,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:10:33Z
+concepts: []
 
 ---
 ## Ascending the [Leadership]({{< ref "/categories/leadership" >}}) Ladder

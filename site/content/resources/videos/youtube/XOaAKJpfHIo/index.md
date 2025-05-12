@@ -39,6 +39,7 @@ categories:
 - DevOps
 Watermarks:
   description: 2025-05-07T13:14:02Z
+concepts: []
 
 ---
 How important is [DevOps]({{< ref "/categories/devops" >}}) in [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value to customers?

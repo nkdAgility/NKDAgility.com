@@ -42,6 +42,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:44Z
+concepts: []
 
 ---
 When I reflect on my journey in the agile community, one name stands out prominently: Jernimo Palacios. As a Spanish Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer (PST), Geronimo has been a beacon of inspiration and knowledge for many of us navigating the complexities of agile practices. His influence on my understanding of Scrum and the broader agile landscape cannot be overstated.

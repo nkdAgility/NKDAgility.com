@@ -38,6 +38,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:30Z
+concepts: []
 
 ---
 **When should an organisation consider a professional agile consultant?**

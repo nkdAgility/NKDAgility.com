@@ -48,6 +48,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:11:20Z
+concepts: []
 
 ---
 ## Why Senior [Leadership]({{< ref "/categories/leadership" >}}) is Non-Negotiable in an Agile Consulting Journey

@@ -13,9 +13,8 @@ url: /resources/videos/:slug
 slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
 layout: video
 aliases:
+- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
 - /resources/F8a6gtXxLe0
-- /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
-- /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 aliasesArchive:
 - /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 - /resources/nkdagility-healthgrades-interview-dave-frisch
@@ -37,6 +36,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:16:31Z
+concepts: []
 
 ---
 As I reflect on my journey in the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I can't help but think about the transformative power of understanding the processes that underpin our work. Recently, I had the pleasure of speaking with Dave Fresh, a developer at Health Grades, who shared his initial resistance to a Scrum course. His story resonated with me, as it highlights a common misconception many professionals have about stepping away from their daily tasks to focus on process improvement.

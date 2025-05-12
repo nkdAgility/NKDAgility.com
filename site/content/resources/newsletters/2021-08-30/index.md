@@ -24,6 +24,7 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:52Z
+concepts: []
 
 ---
 I have been working on perfecting my techniques by incorporating [Liberating Structures]({{< ref "/tags/liberating-structures" >}}), Training from the Back of the Room, and Organization and Relationship Systems [Coaching]({{< ref "/tags/coaching" >}}) into my deliveries. I have found, along with many other trainers, that live-virtual delivery of classes can be more powerful, and more engaging.

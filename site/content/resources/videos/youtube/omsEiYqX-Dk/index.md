@@ -49,6 +49,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:09:44Z
+concepts:
+- Principle
 
 ---
 [Organisational agility]({{< ref "/tags/organisational-agility" >}}) is not just a buzzword; it’s a competitive advantage that can make or break a business in today’s fast-paced market. I’ve seen firsthand how many agile transformations stumble because organisations mistakenly place agile itself at the centre of their focus, rather than using it as a tool to achieve a vital outcome: the ability to respond swiftly to market changes.

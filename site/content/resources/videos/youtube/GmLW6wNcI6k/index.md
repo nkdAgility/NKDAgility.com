@@ -39,6 +39,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:30Z
+concepts: []
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

@@ -16,6 +16,7 @@ aliases:
 - /resources/BhGThHrOc8Y
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
+- /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
 aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
@@ -39,6 +40,7 @@ categories:
 - DevOps
 Watermarks:
   description: 2025-05-07T13:11:49Z
+concepts: []
 
 ---
 When I think about [DevOps]({{< ref "/categories/devops" >}}), I often find myself reflecting on the misconceptions that surround it. As someone who has been a Microsoft MVP in [Azure DevOps]({{< ref "/tags/azure-devops" >}}) for 14 years, I’ve seen firsthand how the term "DevOps" can be misinterpreted. Many people, when they mention DevOps in my presence, are actually referring to Azure DevOps—the tools that come with it. But let me be clear: the tool is not the value. The tool is merely a means to surface or leverage the value that comes from the underlying idea of DevOps.

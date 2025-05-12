@@ -35,6 +35,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:10:24Z
+concepts: []
 
 ---
 ## The Missing Piece in My Initial [Scrum]({{< ref "/categories/scrum" >}}) Journey

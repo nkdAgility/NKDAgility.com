@@ -45,6 +45,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:38Z
+concepts: []
 
 ---
 When it comes to hiring an Agile coach, there are a few key things to consider. It's not just about finding someone who can coach individuals or teams. The role of an Agile coach is far more comprehensive than that. You need someone who can **teach, mentor, and inspire** people in your organization to greatness, helping them embrace Agile principles and adopt the practices that drive success.

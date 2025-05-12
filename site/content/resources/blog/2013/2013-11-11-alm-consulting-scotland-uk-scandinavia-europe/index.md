@@ -1,6 +1,6 @@
 ---
 title: ALM Consulting in Scotland, UK, Scandinavia &amp; Europe
-description: Discover expert ALM consulting across Scotland, the UK, and Europe. Enhance your software development processes with tailored training and coaching.
+description: Provides ALM consulting, training, and assessments across Scotland, UK, and Europe, specialising in lean-agile, TFS, Visual Studio, Scrum, and process improvement.
 ResourceId: ETl5K8OQ9kV
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: alm-consulting-scotland-uk-scandinavia-europe
 aliases:
-- /resources/ETl5K8OQ9kV
 - /resources/blog/alm-consulting-in-scotland-uk-scandinavia-amp-europe
+- /resources/ETl5K8OQ9kV
 aliasesArchive:
 - /blog/alm-consulting-scotland-uk-scandinavia-europe
 - /alm-consulting-scotland-uk-scandinavia-europe
@@ -32,6 +32,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-12T14:22:52Z
+concepts: []
 
 ---
 Well, that's me started ALM Consulting in Scotland, UK & Europe as naked ALM Consulting – Martin Hinshelwood. As I write this I am on a train on my way to my first engagement in the north of England is what looks to be and awesome group of folks to talk a little Scrum and Team Foundation Build.

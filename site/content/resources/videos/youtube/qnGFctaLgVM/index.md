@@ -35,6 +35,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:09:53Z
+concepts: []
 
 ---
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 

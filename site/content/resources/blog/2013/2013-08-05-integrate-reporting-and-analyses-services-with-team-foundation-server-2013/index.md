@@ -1,6 +1,6 @@
 ---
 title: Integrate reporting and analyses services with Team Foundation Server 2013
-description: Learn how to integrate reporting and analysis services with Team Foundation Server 2013 to enhance your project management and data insights. Get started now!
+description: Learn how to add and configure SQL Server Reporting and Analysis Services for Team Foundation Server 2013, including integration steps and enabling data reporting features.
 ResourceId: nNxCVaaSYOS
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 - Software Development
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:23:28Z
+concepts: []
 
 ---
 Did you skip reporting and now you want to integrate reporting and analyses services with Team Foundation Server 2013?

@@ -41,6 +41,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:38Z
+concepts:
+- Method
 
 ---
 ### [Scaling]({{< ref "/tags/scaling" >}}) Portfolio [Kanban]({{< ref "/categories/kanban" >}}): Enhancing Flow and Predictability at the Organizational Level

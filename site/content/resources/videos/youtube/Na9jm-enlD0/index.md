@@ -40,6 +40,7 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:09:20Z
+concepts: []
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

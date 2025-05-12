@@ -20,6 +20,7 @@ aliases:
 - /resources/S4zWfPiLAmc
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics
+- /resources/videos/3-best-ways-to-wreck-kanban.-use-vanity-metrics.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-use-vanity-metrics-
 - /resources/videos/3-best-ways-to-wreck-kanban-use-vanity-metrics-
@@ -46,6 +47,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:32Z
+concepts:
+- Practice
 
 ---
 ### Avoiding Common Mistakes in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy

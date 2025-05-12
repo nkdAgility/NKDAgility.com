@@ -35,6 +35,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:15:27Z
+concepts:
+- Principle
 
 ---
 As I reflect on my recent experiences with agile practices and the challenges that many organisations face, I find myself drawn to the concept of [transparency]({{< ref "/tags/transparency" >}}) and the importance of understanding what it truly means to be agile. In a world where 81% of development teams claim to be agile, it’s crucial to ask ourselves: are we genuinely embracing the principles of agility, or are we merely paying lip service to the idea?

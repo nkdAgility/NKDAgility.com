@@ -36,6 +36,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:32Z
+concepts: []
 
 ---
 ## The Magic of the 4-Day Training Format!

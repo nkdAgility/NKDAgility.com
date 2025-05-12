@@ -20,6 +20,7 @@ aliases:
 - /resources/TYpgtgaOXv4
 - /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
+- /resources/videos/the-importance-of-product-backlog-management-in-today-s-agile-landscape
 aliasesArchive:
 - /resources/videos/the-importance-of-product-backlog-management-in-todays-agile-landscape
 - /resources/the-importance-of-product-backlog-management-in-todays-agile-landscape
@@ -42,6 +43,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:21Z
+concepts:
+- Artifact
 
 ---
 [Product backlog]({{< ref "/tags/product-backlog" >}}) management is gaining a lot of attention in the Agile community right now—and for good reason. From my experience working with organizations across various industries, one of the most significant areas where I see teams struggle is in managing their product backlogs effectively.

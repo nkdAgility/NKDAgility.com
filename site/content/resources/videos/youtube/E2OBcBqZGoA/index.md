@@ -45,6 +45,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:09:11Z
+concepts:
+- Principle
 
 ---
 In my experience working with organisations of all sizes, one thing has become abundantly clear: the struggle to maximise value from our work is not exclusive to large enterprises. In fact, I would argue that smaller organisations often have a distinct advantage in this area. Why? Because they possess the agility to adapt their business practices more readily than their larger counterparts.

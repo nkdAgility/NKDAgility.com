@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:36Z
+concepts: []
 
 ---
 **How does someone become an Agile consultant?**

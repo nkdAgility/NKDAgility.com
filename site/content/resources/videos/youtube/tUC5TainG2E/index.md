@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:34Z
+concepts: []
 
 ---
 Many of you have asked,  "How did I become the third [Scrum]({{< ref "/categories/scrum" >}}) training provider for Microsoft?"

@@ -21,6 +21,7 @@ aliases:
 - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
 - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+- /resources/videos/how-to-measure-your-organization-s-ability-to-improve-value-through-innovation
 aliasesArchive:
 - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
@@ -47,6 +48,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:06:13Z
+concepts:
+- Capability
 
 ---
 In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **[ability to innovate]({{< ref "/tags/ability-to-innovate" >}})**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.

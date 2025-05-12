@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Email Notifications in Release Management: A Step-by-Step Guide to Configuring Office 365 SMTP'
-description: Master the art of configuring email notifications in your release management system with Office 365. Follow our step-by-step guide for seamless setup!
+description: Learn how to set up email notifications in release management systems using Office 365 SMTP, including server settings, account details, and best practices for team mailboxes.
 date: 2014-01-02T15:58:51Z
 weight: 1000
 ResourceId: oHH_ES7fNWY
@@ -14,8 +14,6 @@ slug: mastering-email-notifications-in-release-management-a-step-by-step-guide-t
 layout: video
 aliases:
 - /resources/oHH_ES7fNWY
-- /resources/videos/mastering-email-notifications-in-release-management-a-step-by-step-guide-to-configuring-office-365-smtp
-- /resources/videos/sending-email-from-office-365-for-tfs-2013
 aliasesArchive:
 - /resources/videos/sending-email-from-office-for-tfs-
 - /resources/videos/sending-email-from-office-365-for-tfs-2013
@@ -36,6 +34,9 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:22:46Z
+concepts: []
 
 ---
 As I dive into the intricacies of configuring a release management system, I want to share my experience with setting up email notifications using Office 365. This process can seem daunting at first, but with a little guidance, you’ll find it’s quite straightforward. Let’s break it down step by step.

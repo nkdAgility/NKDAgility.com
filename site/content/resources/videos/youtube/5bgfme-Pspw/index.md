@@ -34,6 +34,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:27Z
+concepts: []
 
 ---
 **Momentum**

@@ -20,6 +20,7 @@ aliases:
 - /resources/CawY8x3kGVk
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-micromanagement-developer-autonomy-and-more
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-3.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3-
@@ -45,6 +46,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:08:24Z
+concepts: []
 
 ---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Micromanagement: Dispelling the Myth 🚀

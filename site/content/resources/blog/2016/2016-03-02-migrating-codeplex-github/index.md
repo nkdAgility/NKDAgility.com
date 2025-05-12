@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: migrating-codeplex-github
 aliases:
-- /blog/migrating-codeplex-github
-- /migrating-codeplex-github
-- /migrating-from-codeplex-to-github
-- /blog/migrating-from-codeplex-to-github
 - /resources/kgtNo8tGkjS
-- /resources/blog/migrating-codeplex-github
 aliasesArchive:
 - /blog/migrating-codeplex-github
 - /migrating-codeplex-github
@@ -35,6 +30,7 @@ categories:
 preview: clip_image001-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:45Z
+concepts: []
 
 ---
 I have a repository on Codeplex that was the result of the code that I had to write to move my blog from GeeksWithBlogs many moons ago over to Wordpress. This was a very difficult process and recently quite a few of my friends have had to go through it as well. Since GeeksWithBlogs has been sold to 'the man' many bugs have crept into the system and features are sparse. With the most recent request for access I decided it was time to ditch Codeplex and move to [Github]({{< ref "/tags/github" >}}). If you have not seen the writing on the wall yet the only Open Source host of any note is GitHub. All my private repositories are in VSTS ([http://tfs.visualstudio.com](http://tfs.visualstudio.com)) but anything Open Source will be moved to GitHub.

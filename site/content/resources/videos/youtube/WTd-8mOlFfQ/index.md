@@ -42,6 +42,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:10:57Z
+concepts: []
 
 ---
 ## Escaping the Administrative Vortex: Insights for [Scrum]({{< ref "/categories/scrum" >}}) Masters - Part 2

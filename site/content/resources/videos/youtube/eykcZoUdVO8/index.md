@@ -40,6 +40,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:21Z
+concepts: []
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect

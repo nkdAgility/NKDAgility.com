@@ -1,6 +1,6 @@
 ---
 title: ALM Events and public courses in 2015 Q2
-description: Join Martin Hinshelwood for live online ALM training courses in Q2 2015, covering DevOps, Scrum, and project management. Enhance your skills today!
+description: Schedule of public courses and events on Visual Studio ALM, TFS, DevOps, and Scrum in 2015 Q2, including live online training and key industry conferences.
 ResourceId: ag9EVTamt5M
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-event-icon-1-1.png
+Watermarks:
+  description: 2025-05-12T14:19:57Z
+concepts: []
 
 ---
 I have had a lot of folks asking for dates of the public courses that I will be running in the next few months.

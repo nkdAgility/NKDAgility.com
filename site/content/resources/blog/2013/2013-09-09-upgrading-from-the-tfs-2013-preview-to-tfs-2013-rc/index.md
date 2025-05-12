@@ -1,6 +1,6 @@
 ---
 title: Upgrading from the TFS 2013 Preview to TFS 2013 RC
-description: Learn how to smoothly upgrade from TFS 2013 Preview to TFS 2013 RC with expert tips and a step-by-step guide for a hassle-free transition.
+description: Step-by-step guide to upgrading from TFS 2013 Preview to TFS 2013 RC, covering prerequisites, trial upgrades, installation, configuration, and best practices.
 ResourceId: WlTNhsC5jek
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 - System Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:23:10Z
+concepts: []
 
 ---
 With the [TFS 2013 RC](http://nkdagility.com/whats-new-in-visual-studio-2013-rc-with-team-foundation-server/) being made available I need to upgrade one of my main customers from the TFS 2013 Preview.

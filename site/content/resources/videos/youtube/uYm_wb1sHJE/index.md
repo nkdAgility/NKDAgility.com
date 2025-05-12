@@ -44,6 +44,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:11:04Z
+concepts:
+- Method
 
 ---
 ## 🚀 Demystifying the [Sprint Review]({{< ref "/tags/sprint-review" >}}) Workshop 

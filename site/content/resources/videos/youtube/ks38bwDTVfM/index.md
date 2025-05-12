@@ -17,6 +17,7 @@ aliases:
 - /resources/ks38bwDTVfM
 - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
 - /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
+- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-team-s-sprint-success
 aliasesArchive:
 - /resources/videos/mastering-agile-essential-strategies-to-boost-your-teams-sprint-success
 - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
@@ -48,6 +49,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:49Z
+concepts:
+- Method
 
 ---
 When it comes to successfully navigating the complexities of Agile and [Scrum]({{< ref "/categories/scrum" >}}), there are a few key principles that I’ve found to be absolutely essential. Drawing from my experiences, I want to share three critical strategies that can help your team not only complete work within a Sprint but also enhance overall productivity and satisfaction.

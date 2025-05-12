@@ -44,6 +44,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:09:43Z
+concepts: []
 
 ---
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 

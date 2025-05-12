@@ -39,6 +39,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:06:32Z
+concepts:
+- Principle
 
 ---
 A common practice I observe among agile teams is the reliance on burndown charts to gauge progress throughout a Sprint. However, I must confess, I view burndowns as a form of agile banditry. The premise of a burndown chart is that for it to move smoothly from the top left to the bottom right, you must have meticulously planned the entire Sprint upfront. But let’s be honest—when we’re developing products that don’t yet exist, this approach is fundamentally flawed.

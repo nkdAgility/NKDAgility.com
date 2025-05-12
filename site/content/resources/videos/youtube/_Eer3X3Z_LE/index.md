@@ -36,6 +36,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:12:22Z
+concepts:
+- Artifact
 
 ---
 **What is a [product backlog]({{< ref "/tags/product-backlog" >}})?**

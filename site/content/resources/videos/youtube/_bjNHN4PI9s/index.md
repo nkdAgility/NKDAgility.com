@@ -13,8 +13,6 @@ url: /resources/videos/:slug
 slug: maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 aliases:
 - /resources/_bjNHN4PI9s
-- /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
-- /resources/videos/ep-007-running-a-live-virtual-classroom
 aliasesArchive:
 - /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 - /resources/videos/ep-007-running-a-live-virtual-classroom
@@ -36,6 +34,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:45Z
+concepts:
+- Tool
 
 ---
 Welcome to my blog! Today, I want to share my experiences and insights from running live virtual classrooms, particularly focusing on the technologies that enhance our learning environment. As a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Naked Agility, I’ve had the opportunity to facilitate numerous classes, and I’ve learned a thing or two about making the most of our digital tools. 

@@ -37,6 +37,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:11:29Z
+concepts:
+- Artifact
 
 ---
 ## The Order of Product Backlogs

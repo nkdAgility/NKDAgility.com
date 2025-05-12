@@ -15,13 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 aliases:
-- /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
-- /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
-- /live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
-- /blog/live-webcast--q&amp;a-with-martin-hinshelwood-on-27th-march-2020
-- /resources/s7bwajkP-HP
-- /resources/blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 - /resources/blog/live-webcast-q-amp-a-with-martin-hinshelwood-on-27th-march-2020
+- /resources/s7bwajkP-HP
 aliasesArchive:
 - /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 - /live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
@@ -35,6 +30,7 @@ categories:
 preview: 2020-03-27_21-33-56-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:58Z
+concepts: []
 
 ---
 After my last webcast I received a question from a good friend of mine about how to incorporate UX into a [Scrum]({{< ref "/categories/scrum" >}}) Team. Since I have been teaching the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) with UX class I thought I would share the gist of what might be a good place to start.

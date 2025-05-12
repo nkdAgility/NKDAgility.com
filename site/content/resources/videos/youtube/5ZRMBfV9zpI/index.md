@@ -40,6 +40,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:14:48Z
+concepts: []
 
 ---
 As I reflect on my journey in the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I often find myself drawn back to the transformative power of effective training. Recently, I had the pleasure of facilitating a workshop designed for those eager to embark on or enhance their careers as Scrum Masters. This experience reinforced my belief in the importance of a solid foundation in Scrum theory and principles.

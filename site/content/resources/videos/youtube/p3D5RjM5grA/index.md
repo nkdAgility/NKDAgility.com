@@ -14,8 +14,6 @@ slug: transforming-management-into-agile-leadership-the-power-of-virtual-trainin
 layout: video
 aliases:
 - /resources/p3D5RjM5grA
-- /resources/videos/transforming-management-into-agile-leadership-the-power-of-virtual-training
-- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 aliasesArchive:
 - /resources/videos/ep-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
@@ -39,6 +37,7 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:15:46Z
+concepts: []
 
 ---
 In the ever-evolving landscape of agile training and [DevOps]({{< ref "/categories/devops" >}}), I recently had the pleasure of collaborating with Russell Miller, a seasoned [product development]({{< ref "/categories/product-development" >}}) specialist and [scrum]({{< ref "/categories/scrum" >}}) dad, during a live virtual classroom session focused on professional agile [leadership]({{< ref "/categories/leadership" >}}). This experience not only reinforced my belief in the power of agile methodologies but also highlighted the unique advantages of virtual training in today’s world.

@@ -40,6 +40,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:14:37Z
+concepts: []
 
 ---
 How does Naked Agility select associate [Scrum]({{< ref "/categories/scrum" >}}) Trainers?

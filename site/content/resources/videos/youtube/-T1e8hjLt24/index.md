@@ -38,6 +38,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:06:47Z
+concepts: []
 
 ---
 If you're reading this, congratulations! You’re already part of the top 10%. It’s a bold statement, but one I firmly believe in. The reality is that only a small fraction of people actively engage in [continuous learning]({{< ref "/tags/continuous-learning" >}}), exploring new techniques, and diving into various topics. Whether it’s something cutting-edge or a classic like "Crossing the Chasm," the key is to keep your mind open and your curiosity alive.

@@ -46,6 +46,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:38Z
+concepts:
+- Strategy
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

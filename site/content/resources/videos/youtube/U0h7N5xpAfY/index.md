@@ -47,6 +47,8 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T13:07:28Z
+concepts:
+- Framework
 
 ---
 Many [Scrum]({{< ref "/categories/scrum" >}}) Masters step into their role without fully understanding what it entails. Often, the title of [Scrum Master]({{< ref "/tags/scrum-master" >}}) is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.

@@ -29,6 +29,7 @@ tags:
 - Professional Scrum
 Watermarks:
   description: 2025-05-07T13:13:21Z
+concepts: []
 
 ---
 Learning about [scrum]({{< ref "/categories/scrum" >}}) is important, but growing your capability to deploy and implement scrum effectively is way more important.

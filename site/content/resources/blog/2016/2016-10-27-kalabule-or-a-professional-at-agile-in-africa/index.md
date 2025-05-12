@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: kalabule-or-a-professional-at-agile-in-africa
 aliases:
-- /blog/kalabule-or-a-professional-at-agile-in-africa
-- /kalabule-or-a-professional-at-agile-in-africa
 - /resources/yUp0v2lyPX6
-- /resources/blog/kalabule-or-a-professional-at-agile-in-africa
 aliasesArchive:
 - /blog/kalabule-or-a-professional-at-agile-in-africa
 - /kalabule-or-a-professional-at-agile-in-africa
@@ -30,6 +27,8 @@ categories:
 preview: clip_image001-2-2.png
 Watermarks:
   description: 2025-05-07T13:16:40Z
+concepts:
+- Values
 
 ---
 I have been honoured by being asked to speak at [Agile in Africa](http://agileinafrica.com/) today on the topic of [Kalabule or a Professional at Agile in Africa](http://agileinafrica.com/speaker/martin-hinshelwood/). I was a little disappointed when Nana asked me, as I had already booked a customer on those dates in Houston, Texas. Nana asked if I could do remote, so I could attend anyway :). This is my second presentation at Agile In Africa, and it sounds like this years event is just as awesome as the last.

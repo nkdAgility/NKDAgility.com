@@ -21,6 +21,7 @@ aliases:
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum.org-classes-for-nkd-agility
 aliasesArchive:
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 - /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-2
@@ -43,6 +44,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:09:57Z
+concepts: []
 
 ---
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 

@@ -53,6 +53,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:08:28Z
+concepts: []
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

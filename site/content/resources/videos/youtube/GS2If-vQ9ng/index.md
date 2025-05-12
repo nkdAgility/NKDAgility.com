@@ -33,6 +33,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:09:37Z
+concepts: []
 
 ---
 ## Why Both Are Hard-Hitting but in Different Ways

@@ -42,6 +42,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:06:53Z
+concepts: []
 
 ---
 One of the recurring challenges I encounter in organisations is the struggle that product owners, particularly those who are new to the role, face in securing stakeholder attendance at Sprint reviews. It’s a common scenario: you’ve put in the effort, crafted a compelling presentation, and yet, when the time comes, the room feels more like a ghost town than a vibrant discussion space. Even when stakeholders do show up, getting meaningful feedback can feel like pulling teeth. You ask for their thoughts, and all you hear is the sound of tumbleweeds rolling through the desert.

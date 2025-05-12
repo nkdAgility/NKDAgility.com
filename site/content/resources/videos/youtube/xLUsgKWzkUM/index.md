@@ -40,6 +40,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:29Z
+concepts: []
 
 ---
 As a [Product Owner]({{< ref "/tags/product-owner" >}}), I often find myself reflecting on the immense responsibility that comes with the role. It’s not just about managing a backlog or prioritising tasks; it’s about being accountable for spending the money wisely. This accountability is a cornerstone of effective product ownership, and it’s something I take very seriously.

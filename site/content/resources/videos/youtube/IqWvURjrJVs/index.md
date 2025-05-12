@@ -16,6 +16,7 @@ canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
 - /resources/IqWvURjrJVs
 - /resources/videos/znaczenie-znajomoci-terenu
+- /resources/videos/znaczenie-znajomo-ci-terenu
 aliasesArchive:
 - /resources/videos/znaczenie-znajomoci-terenu
 - /resources/videos/znaczenie-znajomości-terenu
@@ -36,6 +37,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:16Z
+concepts: []
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?

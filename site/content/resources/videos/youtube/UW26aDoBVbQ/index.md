@@ -43,6 +43,7 @@ categories:
 - Lean
 Watermarks:
   description: 2025-05-07T13:09:13Z
+concepts: []
 
 ---
 In our recent [lean]({{< ref "/categories/lean" >}}) [product development]({{< ref "/categories/product-development" >}}) and [product owner]({{< ref "/tags/product-owner" >}}) workshop, I found myself reflecting on the current landscape of product ownership and its critical role in shaping the future of organisations. It’s fascinating to see how the conversation around product ownership has evolved, and I want to share some insights from our discussions that I believe are vital for anyone involved in [product delivery]({{< ref "/tags/product-delivery" >}}).

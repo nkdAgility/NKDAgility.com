@@ -1,6 +1,6 @@
 ---
 title: Maven release prepare fails with detected changes in Jenkins
-description: Discover how to resolve Maven release prepare failures in Jenkins due to detected changes. Learn to use .tfignore for smoother TFS integration.
+description: Explains how to fix Maven release prepare failures in Jenkins with TFS by using .tfignore files to exclude generated files like release.properties from source control.
 ResourceId: gtoRjWgSmKe
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: naked-alm-jenkins-logo-9-9.png
+Watermarks:
+  description: 2025-05-12T14:21:31Z
+concepts: []
 
 ---
 If you are using Team Explorer Everywhere 2012 or 2013 your Maven release prepare fails with detected changes, however it worked when you were using SVN.

@@ -37,6 +37,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:06:04Z
+concepts: []
 
 ---
 One of the most rewarding aspects of teaching [Scrum]({{< ref "/categories/scrum" >}}) is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.

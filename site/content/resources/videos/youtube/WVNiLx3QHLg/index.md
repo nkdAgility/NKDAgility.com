@@ -39,6 +39,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:46Z
+concepts: []
 
 ---
 **Why I love heirarchies of [competence]({{< ref "/tags/competence" >}})**

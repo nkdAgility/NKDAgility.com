@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum in Immingham, UK
-description: Join the Professional Scrum course in Immingham, UK, and enhance your team's collaboration and efficiency. Discover the value of co-located training today!
+description: Summary of a multi-team Professional Scrum training at DFDS Seaways in Immingham, UK, highlighting co-located learning, cross-team collaboration, and agile best practices.
 ResourceId: b-WImy6z9no
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -32,6 +32,9 @@ tags:
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png
+Watermarks:
+  description: 2025-05-12T14:22:49Z
+concepts: []
 
 ---
 As my first engagement as naked ALM Consulting in the UK I got to work with the fantastic team at DFDS Seaways and teach the Professional Scrum course from Scrum.org.

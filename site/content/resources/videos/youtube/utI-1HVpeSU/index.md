@@ -33,6 +33,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:08:44Z
+concepts: []
 
 ---
 ## Democracy vs. Dictatorship in Agile [Leadership]({{< ref "/categories/leadership" >}}): Finding the Middle Ground 

@@ -19,6 +19,7 @@ isShort: false
 aliases:
 - /resources/gjrvSJWE0Gk
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course.
 aliasesArchive:
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
 - /resources/overview-of-applying-metrics-for-predictability-kanban-course
@@ -40,6 +41,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:41Z
+concepts:
+- Method
 
 ---
 ### Enhancing Team Predictability with [Kanban]({{< ref "/categories/kanban" >}}): The "Applying Metrics for Predictability" Course

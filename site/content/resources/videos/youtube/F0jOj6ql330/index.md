@@ -36,6 +36,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:19Z
+concepts: []
 
 ---
 ## The Joy of Being a [Scrum]({{< ref "/categories/scrum" >}}) Developer

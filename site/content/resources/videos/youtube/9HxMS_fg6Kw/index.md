@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:14:26Z
+concepts: []
 
 ---
 What are some big red flags when hiring an agile consultant?

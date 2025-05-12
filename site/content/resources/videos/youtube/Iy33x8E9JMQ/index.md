@@ -34,6 +34,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:14Z
+concepts: []
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements

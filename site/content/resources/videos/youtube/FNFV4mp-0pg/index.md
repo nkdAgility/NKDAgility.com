@@ -48,6 +48,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:03Z
+concepts: []
 
 ---
 **Is a [scrum]({{< ref "/categories/scrum" >}}) master an agile micromanager?**

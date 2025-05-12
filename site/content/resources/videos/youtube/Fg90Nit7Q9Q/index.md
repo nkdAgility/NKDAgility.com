@@ -34,6 +34,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:11:33Z
+concepts:
+- Framework
 
 ---
 ## Bridging [DevOps]({{< ref "/categories/devops" >}}) & Software Engineering Through [Scrum]({{< ref "/categories/scrum" >}})! 🔥

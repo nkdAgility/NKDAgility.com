@@ -44,6 +44,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:39Z
+concepts:
+- Method
 
 ---
 If you're an organization that invests heavily in training—especially if you're supporting a large number of people trying to step into the [Scrum]({{< ref "/categories/scrum" >}}) Master role—then immersive learning should be at the top of your list. It’s an investment that can dramatically increase your team's effectiveness. Unlike traditional training, where learning can quickly fade, immersive learning helps people **internalize** the knowledge and put it into practice immediately.

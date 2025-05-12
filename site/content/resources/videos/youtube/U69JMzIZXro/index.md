@@ -1,6 +1,6 @@
 ---
 title: 'Mastering TFS Installation on a Single Server: A Step-by-Step Guide for Beginners'
-description: Master the art of installing Team Foundation Server (TFS) on a single server with my step-by-step guide. Simplify your setup and kickstart your agile journey today!
+description: Learn how to install and configure Team Foundation Server (TFS) on a single server, including SQL Server setup, TFS installation, and creating your first team project.
 date: 2014-01-15T13:38:13Z
 weight: 1000
 ResourceId: U69JMzIZXro
@@ -14,8 +14,6 @@ slug: mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beg
 layout: video
 aliases:
 - /resources/U69JMzIZXro
-- /resources/videos/mastering-tfs-installation-on-a-single-server-a-step-by-step-guide-for-beginners
-- /resources/videos/installing-tfs-2013-standard
 aliasesArchive:
 - /resources/videos/installing-tfs-standard
 - /resources/videos/installing-tfs-2013-standard
@@ -38,6 +36,9 @@ resourceTypes:
 - video
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:22:33Z
+concepts: []
 
 ---
 In this post, I’m excited to share my experience of installing Team Foundation Server (TFS) on a standard single server setup. This process can seem daunting at first, but with the right steps, it can be straightforward and rewarding. Let’s dive into the details!

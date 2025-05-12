@@ -1,6 +1,6 @@
 ---
 title: Modelling Teams in Team Foundation Server 2013
-description: Master Team Foundation Server 2013 with expert insights on modeling teams, managing projects, and optimizing source control for enhanced collaboration.
+description: Guidance on structuring teams, areas, iterations, source control, and security in Team Foundation Server 2013 to support project management and reporting needs.
 ResourceId: Km0aNB0A6C1
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-6-6.png
+Watermarks:
+  description: 2025-05-12T14:23:43Z
+concepts: []
 
 ---
 Do you know what to do with Areas, Iteration, Teams, Source Control, and Security when modelling Teams in Team Foundation Server 2013?

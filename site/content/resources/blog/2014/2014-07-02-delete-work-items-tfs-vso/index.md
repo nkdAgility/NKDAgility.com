@@ -1,6 +1,6 @@
 ---
 title: How to delete work items from TFS or VSO
-description: Learn how to efficiently delete work items from TFS or VSO with expert tips and code examples. Streamline your project management today!
+description: Explains how to permanently delete work items from TFS or VSO using witadmin or C# code, including safety tips and batch deletion for large numbers of items.
 ResourceId: MYXrtTYV2UD
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-1-1.png
+Watermarks:
+  description: 2025-05-12T14:21:35Z
+concepts: []
 
 ---
 Have you ever created a bunch of work items that you decided later that you had to delete. Well I have… especially as a user of the TFS Integration Platform. And when things go wrong there they can really go wrong.

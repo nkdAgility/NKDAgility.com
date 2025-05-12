@@ -38,6 +38,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:42Z
+concepts: []
 
 ---
 When it comes to learning, especially in the realm of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often found that the traditional approach of cramming information into a couple of days can be less effective than we might hope. Reflecting on my experiences, I’ve come to appreciate the value of spreading learning over a longer period, allowing for deeper engagement and practical application.

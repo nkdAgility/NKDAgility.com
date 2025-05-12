@@ -44,6 +44,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:13:32Z
+concepts:
+- Method
 
 ---
 When it comes to effective planning and prioritisation within a [Scrum]({{< ref "/categories/scrum" >}}) team, the question often arises: how do we navigate this complex landscape? It’s a challenge that many teams face, and I can assure you, it’s not a one-size-fits-all solution. The intricacies of planning and prioritisation hinge significantly on the specific business context and its overarching goals.

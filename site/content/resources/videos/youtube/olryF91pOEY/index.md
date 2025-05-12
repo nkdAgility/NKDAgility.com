@@ -49,6 +49,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:29Z
+concepts: []
 
 ---
 **Can organisations run an Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) workshop? How would that help them?**

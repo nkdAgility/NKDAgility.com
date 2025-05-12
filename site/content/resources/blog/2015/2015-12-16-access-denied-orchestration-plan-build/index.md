@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: access-denied-orchestration-plan-build
 aliases:
-- /blog/access-denied-orchestration-plan-build
-- /access-denied-orchestration-plan-build
-- /access-denied-for-orchestration-plan-on-build
-- /blog/access-denied-for-orchestration-plan-on-build
 - /resources/l331AonWBuN
-- /resources/blog/access-denied-orchestration-plan-build
 aliasesArchive:
 - /blog/access-denied-orchestration-plan-build
 - /access-denied-orchestration-plan-build
@@ -42,6 +37,8 @@ categories:
 preview: clip_image004-4-4.png
 Watermarks:
   description: 2025-05-07T13:16:54Z
+concepts:
+- Tool
 
 ---
 I was trying to setup a Build Agent within one of my current customers. They do over 1 million builds a year through Team City and I need to demonstrate that the new TFS build system is awesome before they will consider it. So it never instils confidence when you get an error…

@@ -1,6 +1,6 @@
 ---
 title: Bruce Lee on Scrum and Agile
-description: Explore Bruce Lee's philosophy on Scrum and Agile, emphasizing simplicity and adaptability to enhance your organization's processes and customer satisfaction.
+description: Explores how Bruce Lee’s philosophy applies to Scrum and Agile, emphasising adaptability, simplicity, and creating flexible, tailored processes for continuous improvement.
 ResourceId: mDZ9tLsZEI-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-professional-scrum-2-2.png
+Watermarks:
+  description: 2025-05-12T14:21:09Z
+concepts: []
 
 ---
 There are wise people in this world and that wisdom often transcends the topic that they are intentionality addressing. Good philosophy can be applied beyond those bounds.

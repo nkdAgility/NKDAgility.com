@@ -34,6 +34,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:48Z
+concepts: []
 
 ---
 ## The [Product Owner]({{< ref "/tags/product-owner" >}}) Journey

@@ -40,6 +40,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:08:40Z
+concepts:
+- Method
 
 ---
 # Tailoring [Scrum]({{< ref "/categories/scrum" >}}) to Scale: Building Your Own Framework for Success

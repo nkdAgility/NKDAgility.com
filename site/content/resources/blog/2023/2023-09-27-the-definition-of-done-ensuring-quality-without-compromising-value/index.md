@@ -41,6 +41,8 @@ categories:
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:18Z
+concepts:
+- Artifact
 
 ---
 The [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD) is a sacrosanct measure of quality, ensuring that every piece of work meets the standards necessary for release. On the other hand, acceptance criteria focus on the work's content. Merging the two can risk the integrity of a working, usable product. This article delves into the nuances of maintaining the sanctity of the DoD while ensuring the delivery of valuable increments.

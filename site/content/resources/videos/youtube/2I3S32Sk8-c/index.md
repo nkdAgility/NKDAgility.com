@@ -45,6 +45,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:04Z
+concepts: []
 
 ---
 What would you advise a [scrum]({{< ref "/categories/scrum" >}}) team to do in their first 4 weeks?

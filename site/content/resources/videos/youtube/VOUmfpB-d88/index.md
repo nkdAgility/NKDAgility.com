@@ -46,6 +46,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:02:55Z
+concepts:
+- Method
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

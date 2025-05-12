@@ -14,8 +14,6 @@ slug: navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-
 layout: video
 aliases:
 - /resources/r_Af7X25IDk
-- /resources/videos/navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
-- /resources/videos/ep005-leading-agile-change
 aliasesArchive:
 - /resources/videos/ep-leading-agile-change
 - /resources/videos/ep005-leading-agile-change
@@ -48,6 +46,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:15:47Z
+concepts:
+- Strategy
 
 ---
 In my journey through the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I've often found myself reflecting on the profound changes that have swept through our industries over the past decade and a half. Today, I want to share some insights from my recent presentation on leading Agile change, particularly in the context of the challenges we face in adapting to a rapidly evolving landscape.

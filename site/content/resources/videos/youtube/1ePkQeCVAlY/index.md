@@ -38,6 +38,7 @@ categories:
 - Lean
 Watermarks:
   description: 2025-05-07T13:13:45Z
+concepts: []
 
 ---
 **What is the difference between resource efficiency and [flow efficiency]({{< ref "/tags/flow-efficiency" >}})?**

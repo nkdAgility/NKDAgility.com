@@ -40,6 +40,7 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T13:08:02Z
+concepts: []
 
 ---
 In my journey through the world of Agile, I've often encountered various signs that indicate a team is veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 

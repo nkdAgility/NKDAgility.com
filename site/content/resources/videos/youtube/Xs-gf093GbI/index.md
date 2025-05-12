@@ -35,6 +35,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:12:23Z
+concepts: []
 
 ---
 ## The essence of a Product is 'The Vision'

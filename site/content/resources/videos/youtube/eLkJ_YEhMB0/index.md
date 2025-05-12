@@ -38,6 +38,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:06:43Z
+concepts: []
 
 ---
 In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and [Scrum]({{< ref "/categories/scrum" >}}) space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.

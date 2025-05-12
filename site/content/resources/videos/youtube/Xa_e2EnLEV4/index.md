@@ -20,6 +20,7 @@ aliases:
 - /resources/Xa_e2EnLEV4
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
+- /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
@@ -42,6 +43,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:05:30Z
+concepts:
+- Practice
 
 ---
 ### The Danger of Ignoring Problems in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy

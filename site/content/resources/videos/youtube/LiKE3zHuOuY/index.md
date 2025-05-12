@@ -34,6 +34,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:36Z
+concepts: []
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}}) in a [DevOps]({{< ref "/categories/devops" >}}) World: A Game Changer!

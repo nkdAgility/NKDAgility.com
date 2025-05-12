@@ -36,6 +36,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:10:22Z
+concepts: []
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

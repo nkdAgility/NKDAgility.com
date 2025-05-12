@@ -1,6 +1,6 @@
 ---
 title: Do you need an expert in Visual Studio ALM, TFS, or Scrum?
-description: Looking for an expert in Visual Studio ALM, TFS, or Scrum? Martin Hinshelwood is available for consulting and training in February. Connect now!
+description: Expert consulting and onsite training available in Visual Studio ALM, TFS, and Scrum, including project migration, course delivery, and backlog-driven engagements worldwide.
 ResourceId: za3YB57XYl0
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-260-5-5.png
+Watermarks:
+  description: 2025-05-12T14:20:12Z
+concepts: []
 
 ---
 Due to the decimation of the oil prices one of my larger customers has had to cancel our engagement for February. I am suddenly and surprisingly available in February!

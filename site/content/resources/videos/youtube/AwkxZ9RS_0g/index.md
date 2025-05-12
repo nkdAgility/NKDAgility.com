@@ -36,6 +36,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:24Z
+concepts: []
 
 ---
 ## Synergy Between Consulting and Training

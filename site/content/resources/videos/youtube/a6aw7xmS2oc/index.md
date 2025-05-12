@@ -39,6 +39,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:09:26Z
+concepts: []
 
 ---
 As a [product owner]({{< ref "/tags/product-owner" >}}), adopting an entrepreneurial stance is crucial for steering your team towards success. I often think of this stance as embodying the visionary who gazes into the future, shaping the [product backlog]({{< ref "/tags/product-backlog" >}}) with insights and foresight. However, there are two key aspects that I believe every product owner must keep in mind to truly harness this entrepreneurial spirit.

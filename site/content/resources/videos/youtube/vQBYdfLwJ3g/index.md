@@ -41,6 +41,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:11:45Z
+concepts: []
 
 ---
 As I reflect on the immersive learning experience of the [Product Owner]({{< ref "/tags/product-owner" >}}) (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 

@@ -1,6 +1,6 @@
 ---
 title: Move your Active Directory domain to another server
-description: Learn how to successfully move your Active Directory domain to a new server with expert tips and a detailed video guide. Simplify your migration process!
+description: Learn how to transfer an Active Directory domain to a new server, including moving FSMO roles and the Global Catalogue, to ensure domain services remain functional.
 ResourceId: koQQ-rllpsw
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-server-instances_thumb-2-2.png
+Watermarks:
+  description: 2025-05-12T14:22:26Z
+concepts: []
 
 ---
 I was trying to install TFS 2013 yesterday and I found that my local demo domain was not working. After a little investigation It looks like I was running Windows Server 2012 R2 Preview and it had just expired.

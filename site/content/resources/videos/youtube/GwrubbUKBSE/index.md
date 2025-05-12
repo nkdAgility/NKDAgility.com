@@ -15,7 +15,6 @@ layout: video
 canonicalUrl: https://www.youtube.com/watch?v=GwrubbUKBSE
 aliases:
 - /resources/GwrubbUKBSE
-- /resources/videos/30th-march-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-march-office-hours-ask-me-anything
 - /resources/videos/30th-march-2020-office-hours-ask-me-anything
@@ -35,6 +34,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:52Z
+concepts: []
 
 ---
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!

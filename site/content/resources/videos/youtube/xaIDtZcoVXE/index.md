@@ -53,6 +53,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:06:10Z
+concepts:
+- Model
 
 ---
 Delivering value to customers efficiently is a key goal for any Agile team. But how do you know how long it actually takes? That’s where **Evidence-Based Management (EBM)** comes into play. One of the key value areas in EBM is **[Time to Market]({{< ref "/tags/time-to-market" >}})**—a critical factor that helps organizations measure and improve how quickly they deliver valuable outcomes. This post dives into the importance of **Time to Market**, the metrics you can use to measure it, and why it’s crucial for business success. 🚀

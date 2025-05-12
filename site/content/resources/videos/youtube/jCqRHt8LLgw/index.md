@@ -37,6 +37,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:15:44Z
+concepts: []
 
 ---
 Welcome back to my blog! Today, I want to share some insights from my recent office hours, where I tackled a few pressing questions about agile practices, particularly around story points, team sizes, and emergent architecture. These topics are crucial for anyone looking to enhance their understanding of agile methodologies and improve their team's performance.

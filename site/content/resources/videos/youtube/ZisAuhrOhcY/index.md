@@ -20,6 +20,7 @@ aliases:
 - /resources/ZisAuhrOhcY
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
 aliasesArchive:
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
@@ -44,6 +45,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:37Z
+concepts:
+- Method
 
 ---
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}) for Enhanced Workflow and Predictability

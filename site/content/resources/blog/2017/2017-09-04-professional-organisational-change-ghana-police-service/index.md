@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-organisational-change-ghana-police-service
 aliases:
-- /blog/professional-organisational-change-ghana-police-service
-- /professional-organisational-change-ghana-police-service
-- /professional-organisational-change-at-the-ghana-police-service
-- /blog/professional-organisational-change-at-the-ghana-police-service
 - /resources/yv8bhGf1MfF
-- /resources/blog/professional-organisational-change-ghana-police-service
 aliasesArchive:
 - /blog/professional-organisational-change-ghana-police-service
 - /professional-organisational-change-ghana-police-service
@@ -44,6 +39,8 @@ categories:
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 Watermarks:
   description: 2025-05-07T13:16:28Z
+concepts:
+- Framework
 
 ---
 The [Ghana Police Service](http://police.gov.gh/) is in trouble. Over the last few last few decades each new Police organisation and government has tried in various ways to carry out some change but most changes have been ad-hoc, temporary, not robust enough or strategic. The old problems return to haunt new administrations and many police officers and the Public have lost hope.

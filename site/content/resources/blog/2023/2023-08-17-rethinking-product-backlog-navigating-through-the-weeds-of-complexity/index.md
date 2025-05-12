@@ -45,6 +45,8 @@ categories:
 preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:10Z
+concepts:
+- Artifact
 
 ---
 The [Product Backlog]({{< ref "/tags/product-backlog" >}}) is a critical asset in Agile [product development]({{< ref "/categories/product-development" >}}); it represents a dynamic [lean]({{< ref "/categories/lean" >}}) inventory of everything the product needs. For those of us navigating the multifaceted landscape of product development, there is often an impulse to seek an ideal structure for the Product Backlog. The familiar hierarchy of Initiative->Epic->Feature->User Story->Task/Bug is a common schema. However, before embracing this structure as a silver bullet, it’s imperative to critically evaluate the implications of imposing a hierarchy on the Product Backlog and to recognize the nuanced dynamics of working in complex environments. In this article, I will examine the delicate interplay between Product Backlog management and the intrinsic nature of complex systems.

@@ -20,6 +20,7 @@ aliases:
 - /resources/UOzrABhafx0
 - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum.org-course
 aliasesArchive:
 - /resources/videos/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
@@ -47,6 +48,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:07:23Z
+concepts:
+- Method
 
 ---
 In today's fast-paced Agile environments, effective [product backlog]({{< ref "/tags/product-backlog" >}}) management is key to ensuring teams stay focused, aligned, and efficient. [Scrum]({{< ref "/categories/scrum" >}}).org has recently launched a new **Product Backlog Management** course, and it’s shaping up to be an exciting addition to their offerings. Having worked with countless teams and seen firsthand how backlog mismanagement can derail progress, this course offers practical, actionable skills that every [Scrum team]({{< ref "/tags/scrum-team" >}}) can benefit from.

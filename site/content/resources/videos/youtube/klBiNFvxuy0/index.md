@@ -38,6 +38,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:50Z
+concepts:
+- Principle
 
 ---
 What is the most common Aha moment people have in a [scrum]({{< ref "/categories/scrum" >}}) course?

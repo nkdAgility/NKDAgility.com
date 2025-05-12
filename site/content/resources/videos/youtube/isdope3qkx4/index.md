@@ -14,8 +14,6 @@ slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-
 layout: video
 aliases:
 - /resources/isdope3qkx4
-- /resources/videos/mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
-- /resources/videos/11th-april-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/11th-april-2020-office-hours-ask-me-anything
@@ -37,6 +35,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:50Z
+concepts:
+- Tool
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share some insights from my recent experiences in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}). Over the past few weeks, I’ve been engaging in live sessions, and it’s been fascinating to see how many of you are actively inspecting and adapting your practices. This is a testament to the Agile mindset, and I’m excited to continue these discussions regularly.

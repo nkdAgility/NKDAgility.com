@@ -24,6 +24,7 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:38Z
+concepts: []
 
 ---
 Welcome to this month's edition of NKDAgility.

@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and Windows 8.1&hellip;
-description: Discover the powerful features of Visual Studio 2013 and TFS 2013, now available for download! Upgrade your development experience with the latest tools.
+description: Visual Studio 2013, Team Foundation Server 2013, and Windows 8.1 are now available, offering new ALM features, upgrade options, and installation guidance for developers.
 ResourceId: 6g2Cp_ZpsHo
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 aliases:
-- /resources/6g2Cp_ZpsHo
 - /resources/blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8.1-hellip
+- /resources/6g2Cp_ZpsHo
 aliasesArchive:
 - /blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 - /visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
@@ -30,6 +30,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-3-3.png
+Watermarks:
+  description: 2025-05-12T14:22:57Z
+concepts: []
 
 ---
 Microsoft just made both Visual Studio 2013 and Windows 8.1 available for download on MSDN and on [http://visualstudio.com](http://visualstudio.com). This release includes [Visual Studio 2013, .NET 4.5.1, and Team Foundation Server 2013](http://go.microsoft.com/fwlink/p/?LinkId=306566) as well as making [Windows 8.1 available on Windows Update](http://blogs.windows.com/windows/b/bloggingwindows/archive/2013/10/17/windows-8-1-now-available.aspx).

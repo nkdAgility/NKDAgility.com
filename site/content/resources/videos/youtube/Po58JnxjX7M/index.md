@@ -42,6 +42,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:55Z
+concepts:
+- Practice
 
 ---
 Being an Agile coach isn’t just about mastering theories and methodologies. To truly earn the title, you must **have real, hands-on experience working with teams**. This isn’t negotiable—it's an essential part of developing the credibility and knowledge needed to effectively guide teams in Agile practices.

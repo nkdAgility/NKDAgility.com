@@ -35,6 +35,7 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:13:42Z
+concepts: []
 
 ---
 **Why do you prefer agile consulting over agile [coaching]({{< ref "/tags/coaching" >}})?**

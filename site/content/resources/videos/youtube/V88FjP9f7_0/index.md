@@ -19,6 +19,7 @@ isShort: true
 aliases:
 - /resources/V88FjP9f7_0
 - /resources/videos/quotes-less-is-more-true-or-false-V88FjP9f7_0
+- /resources/videos/quotes-less-is-more.-true-or-false
 aliasesArchive:
 - /resources/videos/quotes-less-is-more-true-or-false
 - /resources/quotes-less-is-more-true-or-false
@@ -45,6 +46,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:45Z
+concepts:
+- Principle
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

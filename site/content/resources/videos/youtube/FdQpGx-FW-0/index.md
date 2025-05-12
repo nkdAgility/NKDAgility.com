@@ -48,6 +48,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:33Z
+concepts:
+- Values
 
 ---
 # Escaping the Judgment Trap in [Agile Transformation]({{< ref "/tags/agile-transformation" >}}) 🚀

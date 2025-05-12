@@ -41,6 +41,7 @@ categories:
 preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:51Z
+concepts: []
 
 ---
 As the [software development]({{< ref "/tags/software-development" >}}) landscape evolves, evaluating the time-tested traditional [project management]({{< ref "/tags/project-management" >}}) strategies alongside the burgeoning agile methodologies is essential. The central tenet I would like to explore today is comparing using usable working products as a risk mitigation strategy in Agile with the elaborate documentation characteristic of traditional project management.

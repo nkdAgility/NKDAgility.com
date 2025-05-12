@@ -42,6 +42,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:14:25Z
+concepts:
+- Capability
 
 ---
 What would be an example of a great agile consulting outcome for a client?

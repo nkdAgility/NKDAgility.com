@@ -1,6 +1,6 @@
 ---
 title: Migrating source from Perforce to Git on VSO
-description: Learn how to migrate from Perforce to Git on VSO with expert tips and strategies for a smooth transition to modern version control. Start your journey now!
+description: Step-by-step guide to migrating source code from Perforce to Git on VSO, covering repository setup, dependency management, build processes, and key migration tips.
 ResourceId: bvuzuOYg8gs
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -32,6 +32,9 @@ tags:
 categories:
 - Uncategorized
 preview: naked-alm-git-1-1.png
+Watermarks:
+  description: 2025-05-12T14:21:19Z
+concepts: []
 
 ---
 I have been working with a customer in London this week that is using TFS 2010 for work item tracking and Perforce for source control. Here is how I got on migrating source from Perforce to Git on VSO.

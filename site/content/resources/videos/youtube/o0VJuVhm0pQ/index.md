@@ -42,6 +42,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:14:08Z
+concepts: []
 
 ---
 In high competition markets, how does [scrum]({{< ref "/categories/scrum" >}}) [product development]({{< ref "/categories/product-development" >}}) help acquire and retain customers?

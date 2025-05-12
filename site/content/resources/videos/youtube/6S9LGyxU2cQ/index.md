@@ -15,6 +15,7 @@ aliases:
 - /resources/6S9LGyxU2cQ
 - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
+- /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-team-s-performance
 aliasesArchive:
 - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
 - /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
@@ -44,6 +45,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:10:11Z
+concepts: []
 
 ---
 When it comes to enhancing your team's agility, the question often arises: is the EPS immersive learning experience akin to having a hands-on [Scrum]({{< ref "/categories/scrum" >}}) coach? My answer? Not quite, but it’s pretty close. Let me explain why I believe this immersive approach can be a game-changer for your organisation.

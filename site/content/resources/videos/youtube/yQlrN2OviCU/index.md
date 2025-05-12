@@ -42,6 +42,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:56Z
+concepts:
+- Practice
 
 ---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}) and Agile training, **immersive learning** is a game-changer. It transforms the way we absorb information, moving away from traditional lecture-based approaches to more practical, hands-on experiences. One of the standout aspects of this learning style is the **peer feedback** loop, which not only accelerates learning but also encourages real-world application.

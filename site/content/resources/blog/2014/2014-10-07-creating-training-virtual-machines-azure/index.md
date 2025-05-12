@@ -1,6 +1,6 @@
 ---
 title: Creating training virtual machines in Azure
-description: Learn to create training virtual machines in Azure effortlessly. This guide simplifies setup for technical courses, ensuring a smooth teaching experience.
+description: Step-by-step guide to uploading, configuring, and deploying multiple training virtual machines in Azure using PowerShell, including troubleshooting common setup issues.
 ResourceId: 93Qe5n6ux9U
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-windows-logo-16-16.png
+Watermarks:
+  description: 2025-05-12T14:21:08Z
+concepts: []
 
 ---
 I am teaching the [Managing Projects with Microsoft Visual Studio Team Foundation Server 2013](http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/) class next week in Cheltenham and for that I need 16 VM's based on the [Visual Studio 2013 Update 3 ALM Virtual Machine](http://aka.ms/vs13almvm). To make life easier I will be creating training virtual machines in Azure.

@@ -37,6 +37,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:04Z
+concepts: []
 
 ---
 In the ever-evolving landscape of Agile methodologies, I often find myself reflecting on the signs that indicate a shift towards an Agile apocalypse. One of the most glaring indicators is the emergence of what I like to call the "Antichrist" of Agile: the fake agilists. 

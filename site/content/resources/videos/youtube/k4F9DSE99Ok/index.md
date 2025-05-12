@@ -40,6 +40,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:12Z
+concepts: []
 
 ---
 In the world of Agile, we often talk about the signs of an impending apocalypse, and one of the most critical indicators is famine. Now, before you picture a dystopian future, let’s unpack what this means in the context of [Scrum]({{< ref "/categories/scrum" >}}) and Agile practices.

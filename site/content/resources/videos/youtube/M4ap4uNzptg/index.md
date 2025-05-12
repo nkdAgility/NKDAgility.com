@@ -20,6 +20,7 @@ aliases:
 - /resources/M4ap4uNzptg
 - /resources/videos/unlocking-agiles-core-questioning-to-create-value
 - /resources/videos/agile-is-failing-organizations
+- /resources/videos/unlocking-agile-s-core-questioning-to-create-value
 aliasesArchive:
 - /resources/videos/unlocking-agiles-core-questioning-to-create-value
 - /resources/unlocking-agiles-core-questioning-to-create-value
@@ -54,6 +55,8 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:06:21Z
+concepts:
+- Principle
 
 ---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:

@@ -46,6 +46,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:11:53Z
+concepts: []
 
 ---
 ## The Golden Nugget of [Scrum]({{< ref "/categories/scrum" >}}) Advice I've Ever Received

@@ -46,6 +46,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:16Z
+concepts:
+- Practice
 
 ---
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.

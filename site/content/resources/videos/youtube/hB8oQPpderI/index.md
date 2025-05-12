@@ -39,6 +39,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:38Z
+concepts: []
 
 ---
 **One limitation of reading a book vs attending a course**

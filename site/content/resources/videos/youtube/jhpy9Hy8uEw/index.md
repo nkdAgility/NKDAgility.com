@@ -20,6 +20,7 @@ aliases:
 - /resources/jhpy9Hy8uEw
 - /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/videos/choosing-scrum-org-over-scrum-alliance
+- /resources/videos/why-did-you-choose-the-scrum.org-track-rather-than-the-scrum-alliance-track
 aliasesArchive:
 - /resources/videos/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
@@ -38,6 +39,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:13:57Z
+concepts: []
 
 ---
 Why did you choose the [Scrum]({{< ref "/categories/scrum" >}}).Org track rather than the Scrum Alliance track?

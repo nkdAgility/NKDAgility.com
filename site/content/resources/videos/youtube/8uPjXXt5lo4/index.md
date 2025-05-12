@@ -40,6 +40,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:14:13Z
+concepts: []
 
 ---
 What is the most valuable thing you have learned through training people?

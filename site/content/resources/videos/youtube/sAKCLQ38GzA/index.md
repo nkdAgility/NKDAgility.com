@@ -38,6 +38,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:08:39Z
+concepts:
+- Values
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

@@ -14,7 +14,6 @@ slug: 10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
 canonicalUrl: https://www.youtube.com/watch?v=5UG3FF0n0C8
 aliases:
 - /resources/5UG3FF0n0C8
-- /resources/videos/10th-april-2020-office-hours-ask-me-anything-5UG3FF0n0C8
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/10th-april-2020-office-hours-ask-me-anything
@@ -35,6 +34,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:49Z
+concepts: []
 
 ---
  Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!

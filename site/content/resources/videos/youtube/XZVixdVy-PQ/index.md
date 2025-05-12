@@ -20,6 +20,7 @@ aliases:
 - /resources/XZVixdVy-PQ
 - /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
+- /resources/videos/redefining-agile-s-core-beyond-rituals-and-procedures
 aliasesArchive:
 - /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/redefining-agiles-core-beyond-rituals-and-procedures
@@ -46,6 +47,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:06:23Z
+concepts:
+- Principle
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of [Scrum]({{< ref "/categories/scrum" >}}), that goes:

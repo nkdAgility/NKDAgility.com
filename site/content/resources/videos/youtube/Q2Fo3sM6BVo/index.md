@@ -43,6 +43,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:41Z
+concepts:
+- Framework
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) is a lightweight framework that empowers teams and organisations to generate value through adaptive solutions for complex problems. Over my 12 years as a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) trainer, I’ve seen firsthand how this framework can transform the way we work. Today, I want to share an overview of Scrum, breaking down its core components: five values, three accountabilities, three artifacts, and five events. 

@@ -46,6 +46,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:09:36Z
+concepts: []
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

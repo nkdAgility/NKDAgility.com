@@ -37,6 +37,7 @@ categories:
 - Kanban
 Watermarks:
   description: 2025-05-07T13:05:47Z
+concepts: []
 
 ---
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}): A Creative Approach to Workflow Optimization

@@ -36,6 +36,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:11:46Z
+concepts: []
 
 ---
 ## Stepping Up Your Game as a [Product Owner]({{< ref "/tags/product-owner" >}})

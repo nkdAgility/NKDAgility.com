@@ -42,6 +42,7 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:10:41Z
+concepts: []
 
 ---
 As I reflect on my journey in agile [leadership]({{< ref "/categories/leadership" >}}), I often find myself pondering the pivotal role that effective training plays in shaping the leaders of tomorrow. Recently, I had the opportunity to delve into the Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials course, which serves as a crucial stepping stone for managers and leaders transitioning from traditional management styles to agile leadership. This course is designed to empower [Scrum]({{< ref "/categories/scrum" >}}) teams and agile practitioners, helping them flourish and create exceptional products.

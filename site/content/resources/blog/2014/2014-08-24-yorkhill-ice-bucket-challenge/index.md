@@ -1,6 +1,6 @@
 ---
 title: Yorkhill Ice Bucket Challenge
-description: Join Martin Hinshelwood in the Yorkhill Ice Bucket Challenge to support ALS and Yorkhill Children's Charity. Discover his inspiring journey and donate today!
+description: A personal account of taking the ALS Ice Bucket Challenge to support Yorkhill Children's Charity, highlighting a family’s experience with childhood brain surgery and fundraising.
 ResourceId: dALLwF2kL-U
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: yorkhill-ice-bucket-challange-5-5.png
+Watermarks:
+  description: 2025-05-12T14:21:18Z
+concepts: []
 
 ---
 Yesterday [Buck Hodges](http://blogs.msdn.com/b/buckh/archive/2014/08/21/the-als-ice-bucket-challenge.aspx) took the ALS Ice Bucket Challenge. He was challenged by [Brian Harry](http://blogs.msdn.com/b/bharry/archive/2014/08/19/als-ice-bucket-challenge.aspx) who was in turn by [Adam Cogan](https://www.youtube.com/watch?v=P_4FM9laAl0). As I know all three of these folks it was only a matter of time before I got nominated. My torturer of the day is Buck. Really… how bad can it be? I did Tough Mudder this weekend my favourite obstacle is [Arctic Enema](https://toughmudder.co.uk/obstacles/arctic-enema) :p!!

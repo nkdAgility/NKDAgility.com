@@ -39,6 +39,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:13:16Z
+concepts: []
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your [Scrum]({{< ref "/categories/scrum" >}}) Journey

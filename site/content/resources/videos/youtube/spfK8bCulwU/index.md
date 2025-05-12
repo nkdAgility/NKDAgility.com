@@ -39,6 +39,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:12:39Z
+concepts: []
 
 ---
 As an entrepreneur, I often find myself reflecting on the multifaceted role of a [product owner]({{< ref "/tags/product-owner" >}}). Recently, I’ve been diving deep into the Advanced Professional [Scrum]({{< ref "/categories/scrum" >}}) Product Owner (PSPO) course, and I can’t help but think how perfectly it aligns with the needs of entrepreneurs. It’s not just about innovation; it’s about balance, understanding your customers, and ensuring that your product evolves in a way that meets their needs.

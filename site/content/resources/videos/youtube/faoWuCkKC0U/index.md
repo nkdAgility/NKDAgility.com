@@ -36,6 +36,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:10:53Z
+concepts: []
 
 ---
 ## Step Up Your Game with the PSPO-A Course

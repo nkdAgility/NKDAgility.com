@@ -52,6 +52,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:08:32Z
+concepts: []
 
 ---
 One of the seven deadly sins of Agile is sloth, and I’ve seen it manifest in various ways across teams, organisations, and [leadership]({{< ref "/categories/leadership" >}}). It’s a pervasive issue that often goes unnoticed, yet it can severely hinder our progress towards true agility. 

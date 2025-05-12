@@ -17,6 +17,7 @@ aliases:
 - /resources/IcmNR--u-kg
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
+- /resources/videos/transform-your-team-s-skills-the-power-of-immersive-learning-in-the-workplace
 aliasesArchive:
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities-
@@ -38,6 +39,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:30Z
+concepts: []
 
 ---
 When it comes to enhancing entry-level capabilities in the workplace, I’ve found that immersive learning experiences truly change the game. In my experience, traditional training methods often fall short. We typically find ourselves in a two-day training class, inundated with theory that feels disconnected from the realities of our jobs. This approach can lead to what I call "single loop learning," where participants absorb content but struggle to apply it effectively in their day-to-day roles.

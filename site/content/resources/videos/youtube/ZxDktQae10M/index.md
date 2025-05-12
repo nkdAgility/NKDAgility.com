@@ -14,8 +14,6 @@ slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to
 layout: video
 aliases:
 - /resources/ZxDktQae10M
-- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
-- /resources/videos/2018-vsts-sync-migration-tools-overview
 aliasesArchive:
 - /resources/videos/-vsts-sync-migration-tools-overview
 - /resources/videos/2018-vsts-sync-migration-tools-overview
@@ -38,6 +36,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:16:23Z
+concepts:
+- Tool
 
 ---
 My name is Martin Hinshelwood, and I work for Naked Agility in Scotland, where we specialise in digital transformations, [DevOps]({{< ref "/categories/devops" >}}), and agile methodologies for a variety of clients. Today, I want to share my insights on the VSTS sync migration tools, a topic that has garnered much interest in our community. 

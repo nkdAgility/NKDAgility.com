@@ -37,6 +37,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:11:50Z
+concepts: []
 
 ---
 ## [Product Owner]({{< ref "/tags/product-owner" >}})'s Misstep

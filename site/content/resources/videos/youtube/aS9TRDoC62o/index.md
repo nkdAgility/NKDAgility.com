@@ -20,6 +20,7 @@ aliases:
 - /resources/aS9TRDoC62o
 - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
+- /resources/videos/if-a-client-hasn-t-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 aliasesArchive:
 - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 - /resources/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
@@ -44,6 +45,8 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T13:09:58Z
+concepts:
+- Strategy
 
 ---
 ## Why Agile Alone Isn't Enough Without [DevOps]({{< ref "/categories/devops" >}}) Consulting 

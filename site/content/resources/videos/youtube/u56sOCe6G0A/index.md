@@ -20,6 +20,7 @@ aliases:
 - /resources/u56sOCe6G0A
 - /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
+- /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow.
 aliasesArchive:
 - /resources/videos/-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
 - /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow-
@@ -48,6 +49,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:35Z
+concepts:
+- Practice
 
 ---
 ### Actively Managing Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy

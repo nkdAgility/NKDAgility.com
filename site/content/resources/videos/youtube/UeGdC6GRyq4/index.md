@@ -39,6 +39,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:39Z
+concepts: []
 
 ---
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 

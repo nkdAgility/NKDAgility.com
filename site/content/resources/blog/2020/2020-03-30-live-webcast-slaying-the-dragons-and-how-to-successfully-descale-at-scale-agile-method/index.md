@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 aliases:
-- /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
-- /live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
-- /slaying-the-dragons-and-how-to-successfully-descale-at-scale
-- /blog/slaying-the-dragons-and-how-to-successfully-descale-at-scale
 - /resources/PLxBb5FqtO-
-- /resources/blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 aliasesArchive:
 - /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 - /live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
@@ -33,6 +28,7 @@ categories:
 preview: 2020-03-27_21-36-13-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:57Z
+concepts: []
 
 ---
 Many organisations don't really want to change how they do business and believe that they can continue in the way they always have while still getting better at delivering software.

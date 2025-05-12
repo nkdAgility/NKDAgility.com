@@ -47,6 +47,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:14:15Z
+concepts: []
 
 ---
 What is the hardest part of working with a brand-new [scrum]({{< ref "/categories/scrum" >}}) team?

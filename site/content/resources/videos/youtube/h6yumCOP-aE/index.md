@@ -20,6 +20,7 @@ aliases:
 - /resources/h6yumCOP-aE
 - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
+- /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
 - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
@@ -46,6 +47,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:05:31Z
+concepts: []
 
 ---
 ### Achieving Team Alignment with [Kanban]({{< ref "/categories/kanban" >}}): The Importance of a Working Agreement

@@ -38,6 +38,7 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:06:54Z
+concepts: []
 
 ---
 As a [Product Owner]({{< ref "/tags/product-owner" >}}), one of the most crucial yet often overlooked aspects of your role is marketing. Yes, you read that right. You’re not just managing a [product backlog]({{< ref "/tags/product-backlog" >}}) or guiding a development team—you’re marketing a vision. Whether you're a new Product Owner or seasoned in the role, this skill is vital for success. You need to effectively communicate that vision to various audiences: the team building the product, the stakeholders consuming it, and the customers paying for it. Each group may have different priorities, but they all need to be aligned and engaged with your story.

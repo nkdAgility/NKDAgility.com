@@ -49,6 +49,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:06:36Z
+concepts:
+- Principle
 
 ---
 In the world of Agile, I often encounter a troubling trend that I like to call the "Agile Bandit" mentality. If you find yourself fixated on metrics such as original estimates versus actuals, it’s time for a serious rethink. This approach not only undermines the very principles of Agile but also diminishes the [psychological safety]({{< ref "/tags/psychological-safety" >}}) of your team. 

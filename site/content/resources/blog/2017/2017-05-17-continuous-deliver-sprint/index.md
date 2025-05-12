@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: continuous-deliver-sprint
 aliases:
-- /blog/continuous-deliver-sprint
-- /continuous-deliver-sprint
-- /i-do-continuous-deliver,-why-should-i-sprint-
-- /blog/i-do-continuous-deliver,-why-should-i-sprint-
 - /resources/nIIA3IUtX_z
-- /i-do-continuous-deliver--why-should-i-sprint-
-- /blog/i-do-continuous-deliver--why-should-i-sprint-
-- /resources/blog/continuous-deliver-sprint
 aliasesArchive:
 - /blog/continuous-deliver-sprint
 - /continuous-deliver-sprint
@@ -51,6 +44,8 @@ categories:
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:37Z
+concepts:
+- Framework
 
 ---
 Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) pipeline and say to themselves; _"Why would I limit myself to shipping only once every two weeks?"_

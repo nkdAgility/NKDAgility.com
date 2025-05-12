@@ -40,6 +40,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:23Z
+concepts: []
 
 ---
 ## The Journey to Understanding

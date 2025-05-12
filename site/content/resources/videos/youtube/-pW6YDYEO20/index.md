@@ -36,6 +36,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:13:01Z
+concepts: []
 
 ---
 **Worst trait in unskilled [scrum]({{< ref "/categories/scrum" >}}) masters?**

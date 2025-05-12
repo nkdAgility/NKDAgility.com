@@ -45,6 +45,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:32Z
+concepts:
+- Method
 
 ---
 How does the APS course help people apply [scrum]({{< ref "/categories/scrum" >}}) effectively?

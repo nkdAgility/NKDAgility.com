@@ -38,6 +38,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:07:50Z
+concepts:
+- Principle
 
 ---
 As I reflect on my journey as an Agile coach, I often find myself returning to a fundamental truth: knowledge is the cornerstone of effective [coaching]({{< ref "/tags/coaching" >}}). It’s not just about knowing the processes, practices, and tools; it’s about understanding the underlying principles that drive them. This understanding is what enables us to guide teams effectively, helping them navigate the complexities of Agile methodologies.

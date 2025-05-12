@@ -35,6 +35,7 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:13:28Z
+concepts: []
 
 ---
 **Why is becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master a great career option?**

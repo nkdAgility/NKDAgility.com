@@ -35,6 +35,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:14:00Z
+concepts: []
 
 ---
 What is Taylorism and how did it influence [project management]({{< ref "/tags/project-management" >}})?
