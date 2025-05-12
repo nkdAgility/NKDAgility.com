@@ -36,12 +36,24 @@
 
 {{- define "main" }}
   <section class="container my-5">
-    <div id="counter">test counter</div>
-    <div id="found">test</div>
+    <div id="counter">Since the page was not found we will check our routes table for redirects</div>
+    <div id="found">Checking...</div>
   </section>
   <script>
     document.addEventListener("DOMContentLoaded", async function () {
-      const NOT_FOUND_URL = window.location.pathname;
+      function escapeRegExp(string) {
+        return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      }
+
+      function normalise(path) {
+        // Ensure path starts and ends with a slash
+        let result = path.trim();
+        if (!result.startsWith("/")) result = "/" + result;
+        if (!result.endsWith("/")) result += "/";
+        return result;
+      }
+
+      const NOT_FOUND_URL = normalise(decodeURIComponent(window.location.pathname));
       const counterDiv = document.getElementById("counter");
       const foundDiv = document.getElementById("found");
 
@@ -49,8 +61,7 @@
       console.log(`Current URL: ${NOT_FOUND_URL}`);
 
       try {
-        // Fetch the routes JSON file from the root of the website
-        console.log("Fetching redirect routes from /static.routes.json...");
+        counterDiv.innerHTML = "Loading redirect routes...";
         const response = await fetch("/static.routes.json", { cache: "force-cache" });
 
         if (!response.ok) {
@@ -59,17 +70,14 @@
 
         const data = await response.json();
         console.log("Routes JSON loaded successfully.");
+        counterDiv.innerHTML = `Found ${data.routes.length} routes to check for "${NOT_FOUND_URL}".`;
 
-        // Function to escape special characters in the route string
-        function escapeRegExp(string) {
-          return string.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); // Escape special characters
-        }
-
-        // Find a matching route
         const matchedRoute = data.routes.find((routeObj) => {
           try {
-            const pattern = new RegExp(`^${escapeRegExp(routeObj.route).replace("\\*", ".*")}$`);
-            return pattern.test(NOT_FOUND_URL);
+            const pattern = new RegExp("^" + escapeRegExp(normalise(routeObj.route)).replace("\\*", ".*") + "$");
+            const isMatch = pattern.test(NOT_FOUND_URL);
+            //console.log(`Testing: ${pattern} vs ${NOT_FOUND_URL} → ${isMatch}`);
+            return isMatch;
           } catch (regexError) {
             console.error("Invalid regex pattern:", routeObj.route, regexError);
             return false;
@@ -78,31 +86,28 @@
 
         if (matchedRoute) {
           const redirectURL = matchedRoute.redirect;
-          let countdown = 0; // Countdown in seconds
+          let countdown = 15; // seconds
 
           console.log(`Match found! Redirecting to: ${redirectURL}`);
 
-          // Insert a <meta> refresh tag for SEO (Google may respect this)
+          // SEO-friendly meta refresh
           const metaRedirect = document.createElement("meta");
           metaRedirect.httpEquiv = "refresh";
           metaRedirect.content = `${countdown};url=${redirectURL}`;
           document.head.appendChild(metaRedirect);
-          console.log("Meta refresh tag added for SEO.");
 
-          // Display found message
+          // Inform the user
           foundDiv.innerHTML = `Page not found. Redirecting to <a href="${redirectURL}">${redirectURL}</a> in <span id="countdown">${countdown}</span> seconds...`;
           counterDiv.innerHTML = countdown;
 
           const countdownInterval = setInterval(() => {
             countdown--;
-            counterDiv.innerText = countdown;
+            document.getElementById("countdown").innerText = countdown;
             console.log(`Redirecting in ${countdown} seconds...`);
 
             if (countdown <= 0) {
               clearInterval(countdownInterval);
               console.log(`Redirecting now to: ${redirectURL}`);
-
-              // Use window.location.replace() instead of href to prevent history entry
               window.location.replace(redirectURL);
             }
           }, 1000);
