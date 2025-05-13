@@ -31,6 +31,19 @@ We work on a **timeboxed retainer** basis. You retain a percentage of our workin
 
 You’re not buying hours; you’re securing access to strategic, sustained progress over time.
 
+You’re not buying time, you’re retaining access to strategic partnership. You shouldn’t need to make a financial decision every time you need support. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time.
+
+{{< table "table table-striped table-bordered" >}}
+| **Engagement Level** | **%** | **\~Hours/Week** | **Typical Involvement** |
+| ------------------------ | ----- | ---------------- | --------------------------------------------------------- |
+| **Occasional** | 5% | \~1–2 hrs | Light input, async feedback, occasional check-ins |
+| **Advisory** | 25% | \~1 day | Regular reviews, pairing, shaping delivery and direction |
+| **Embedded** | 50% | \~2 days | Deep collaboration, hands-on support, stakeholder contact |
+| **Fractional Exec** | 75% | \~3 days (circa) | Transformation ownership, org-level impact |
+| **Full-time Equivalent** | 100% | \~4 days (circa) | Not offered; full-time role equivalent |
+
+{{< /table >}}
+
 ### Service Scope & Change Flexibility
 
 We don’t fix scope up front. We work within the constraints of the retainer and adapt continuously based on evolving needs.
@@ -107,16 +120,16 @@ This approach avoids complexity while ensuring you’re never surprised.
 
 ### Engagement Rates
 
-We don’t charge hourly or daily rates. You shouldn’t need to make a financial decision every time you need support. You’re not buying time, you’re retaining access to strategic partnership. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time. Fees are all-inclusive for remote work.
+Fees are all-inclusive for remote work.
 
 {{< table "table table-striped table-bordered" >}}
-| **Engagement Level** | **% of Capacity** | **Hours/Week** | **Typical Involvement** | **Weekly Retainer** | **Monthly Retainer** | **Quarterly Retainer** |
-| -------------------- | ----------------- | --------------------- | ------------------------------------------------------- | ------------------- | -------------------- | ---------------------- |
-| **Advisory** | 5% | \~1–2 hrs/week | Strategic input, async feedback, monthly check-ins | £567 | £1,192 | £2,470 |
-| **Embedded** | 25% | \~1 day/week | Reviews, pairing, shaping delivery and direction | £6,800 | £14,300 | £29,500 |
-| **Integrated** | 50% | \~2 days/week | Co-creation, deep collaboration, stakeholder engagement | £13,600 | £28,600 | £59,000 |
-| **Fractional Exec** | 75% | \~3 days/week (circa) | Leadership support, transformation ownership | _On request_ | _On request_ | _On request_ |
-| **Full-time** | 100% | \~4 days/week (circa) | Equivalent to full-time hire, not offered as retainer | _Not offered_ | _Not offered_ | _Not offered_ |
+| **Level** | **Weekly** | **Monthly** | **Quarterly** |
+| ------------------- | ------------- | ------------- | ------------- |
+| **Occasional** | £567 | £1,192 | £2,470 |
+| **Advisory** | £6,800 | £14,300 | £29,500 |
+| **Embedded** | £13,600 | £28,600 | £59,000 |
+| **Fractional Exec** | _On request_ | _On request_ | _On request_ |
+| **Full-time** | _Not offered_ | _Not offered_ | _Not offered_ |
 {{< /table >}}
 
 These fees do **not include training**, however, the **quarterly retainer** includes a 40% discount on training.
