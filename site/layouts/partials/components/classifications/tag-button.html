@@ -11,10 +11,12 @@
 {{ end }}
 {{- if $categoryData -}}
   <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="{{ $class }}" title="Classification: {{ $term }} {{ $termPage.Params.concepts }}&#10;&#10;Reason: {{ $categoryData.reasoning }}&#10;&#10;Confidence: {{ $categoryData.final_score }}%&#10;Level: {{ $categoryData.level }}">
+    {{ if $termPage.Params.icon }}<i class="fa-regular {{ $termPage.Params.icon }}"></i>{{ end }}
     {{ $term }}
   </a>
 {{- else -}}
   <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="{{ $class }}">
+    {{ if $termPage.Params.icon }}<i class="fa-regular {{ $termPage.Params.icon }}"></i>{{ end }}
     {{ $term }}
   </a>
 {{- end -}}

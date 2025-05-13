@@ -5,6 +5,13 @@
     <a href="{{ printf "/resources/%s" (.Params.ResourceType | urlize) | relURL }}" class="btn btn-sm btn-nkdagility-primary">{{- partial "components/resources/resource-icon.html" . }} {{- title .Params.ResourceType }} </a>
   </div>
   <div class="categories p-1">
+    {{ with .Params.concepts }}
+      {{ range . }}
+        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-primary me-2") }}
+      {{ end }}
+    {{ end }}
+  </div>
+  <div class="categories p-1">
     {{ with .Params.categories }}
       {{ range . }}
         {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-secondary me-2") }}
