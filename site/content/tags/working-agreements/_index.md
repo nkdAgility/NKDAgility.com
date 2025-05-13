@@ -41,6 +41,7 @@ tags:
 - Team Motivation
 - Organisational Agility
 - Agile Philosophy
+icon: fa-handshake
 
 ---
 Working agreements are essential norms and principles established by teams to enhance collaboration and effectiveness in their work. These agreements define how team members interact, communicate, and make decisions, fostering a shared understanding of expectations and responsibilities. By creating a clear framework for behaviour and engagement, working agreements enable teams to operate more cohesively, reducing misunderstandings and conflicts.

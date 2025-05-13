@@ -35,6 +35,7 @@ concepts:
 categories: []
 tags:
 - Decision Making
+icon: fa-chart-area
 
 ---
 Trend analysis involves identifying patterns and shifts within data over time to inform strategic decision-making. This practice is crucial for organisations aiming to adapt and thrive in dynamic environments. By systematically examining trends, teams can uncover insights that guide product development, resource allocation, and market positioning, ultimately enhancing their ability to deliver value predictably and sustainably.

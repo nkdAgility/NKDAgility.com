@@ -42,6 +42,7 @@ tags:
 - Empirical Process Control
 - Continuous Improvement
 - Social Technologies
+icon: fa-user-graduate
 
 ---
 Professional Scrum is the disciplined expression of Scrum guided by empiricism, technical excellence, and continuous delivery of value. It transcends frameworks and rituals, focusing instead on how individuals, teams, and organisations choose to work—with intent, professionalism, and accountability.

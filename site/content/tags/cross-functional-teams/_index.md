@@ -50,6 +50,7 @@ tags:
 - Organisational Culture
 - Continuous Learning
 - Sociotechnical Systems
+icon: fa-people-pulling
 
 ---
 Cross Functional Teams are integral to delivering end-to-end value in Agile, Lean, and DevOps environments. These teams comprise members with diverse skills and expertise, enabling them to tackle all aspects of a project—from conception through to delivery—without relying on external resources. This holistic approach fosters collaboration, enhances communication, and accelerates decision-making, allowing teams to respond swiftly to changing requirements and customer feedback.

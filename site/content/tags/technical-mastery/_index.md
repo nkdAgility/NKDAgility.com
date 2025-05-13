@@ -43,6 +43,7 @@ tags:
 - Technical Excellence
 - Continuous Learning
 - Continuous Improvement
+icon: fa-microchip
 
 ---
 Technical Mastery refers to the pursuit of excellence in software craftsmanship, architecture, and engineering practices. It encompasses a deep understanding of technologies, methodologies, and tools that enable teams to create high-quality products efficiently. This mastery is crucial as it directly impacts a team's ability to deliver value predictably and sustainably, fostering a culture of continuous improvement and innovation.

@@ -32,14 +32,14 @@ headline:
   updated: 2025-03-20T11:04:41Z
 trustpilot: false
 types:
-  - Philosophy
+- Philosophy
 concepts:
-  - Philosophy
+- Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.7
----
 
+---
 DevOps is not a methodology, framework, or job title—it is an **philosophy** or **ethos** that unites **people, processes, and technology** to enable **continuous value delivery**. At its core, DevOps is about **eliminating friction** between development and operations, fostering **collaboration**, and embracing **automation** to achieve high-quality, fast, and reliable software delivery.
 
 #### **The Philosophical Foundation**

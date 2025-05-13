@@ -50,6 +50,7 @@ tags:
 - Product Delivery
 - Forecasting
 - Project Management
+icon: fa-tachometer-alt
 
 ---
 Throughput is a key observability metric used to quantify the amount of work a system completes over a specific time period. It reflects the flow of value and helps teams inspect how effectively their system delivers completed work items. Unlike productivity measures, throughput captures system performance as a whole, not individual contribution.

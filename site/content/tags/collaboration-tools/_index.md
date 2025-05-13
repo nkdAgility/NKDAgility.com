@@ -46,6 +46,7 @@ tags:
 - Market Adaptability
 - Value Delivery
 - Continuous Learning
+icon: fa-people-arrows-left-right
 
 ---
 Collaboration tools are essential platforms that facilitate seamless communication and coordination among Agile teams, enabling them to work more effectively and efficiently. These tools help to eliminate friction in workflows, allowing team members to share information, track progress, and manage tasks in real-time. By fostering transparency and enhancing visibility into project statuses, collaboration tools empower teams to respond swiftly to changes and challenges, ultimately driving value delivery.

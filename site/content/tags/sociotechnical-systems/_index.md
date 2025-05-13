@@ -44,6 +44,7 @@ tags:
 - Team Performance
 - Systems Thinking
 - Organisational Agility
+icon: fa-users-cog
 
 ---
 Sociotechnical systems refer to the intricate interplay between social and technical elements within an organisation, particularly in the context of software delivery and team effectiveness. This concept underscores that technology does not exist in isolation; it is deeply embedded within the organisational culture, structures, and processes. By recognising the dual nature of these systems, teams can better understand how their workflows, communication patterns, and tools influence overall performance.

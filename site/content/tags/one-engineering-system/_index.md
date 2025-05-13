@@ -52,6 +52,7 @@ tags:
 - Team Collaboration
 - Scaling
 - Team Performance
+icon: fa-diagram-project
 
 ---
 The **One Engineering System (1ES)** is a strategic approach to unifying engineering tools and practices across teams to reduce friction, foster collaboration, and enable consistency at scale. It’s about creating a shared engineering backbone that allows teams to move faster and more predictably by removing the chaos of disconnected toolchains and ad hoc workflows.

@@ -49,6 +49,7 @@ tags:
 - Metrics and Learning
 - Product Strategy
 - Lean Product Development
+icon: fa-flask-vial
 
 ---
 Lean Startup is a methodology that applies Lean principles to the development of new business ideas, focusing on rapid experimentation and validated learning. It emphasises the importance of building a minimum viable product (MVP) to test hypotheses about customer needs and market viability with minimal risk and investment. This approach allows teams to gather real-time feedback, enabling them to pivot or persevere based on empirical evidence rather than assumptions.

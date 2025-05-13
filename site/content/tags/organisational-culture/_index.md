@@ -43,6 +43,7 @@ tags:
 - Agile Philosophy
 - Business Agility
 - Social Technologies
+icon: fa-people-roof
 
 ---
 Organisational culture encompasses the shared values, beliefs, and behaviours that shape how teams operate within an organisation. It is a critical element that influences decision-making, collaboration, and the overall agility of teams. A strong organisational culture fosters an environment where innovation thrives, enabling teams to respond swiftly to changes and challenges. This adaptability is essential for delivering value predictably and sustainably, as it encourages a mindset of continuous improvement and learning.

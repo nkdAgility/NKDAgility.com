@@ -42,6 +42,7 @@ tags:
 - Value Delivery
 - Operational Practices
 - Software Development
+icon: fa-truck-fast
 
 ---
 Product Delivery encompasses the entire process of delivering usable, working software products to customers, integrating planning, development, testing, and deployment into a cohesive workflow. This concept is crucial as it enables teams to consistently deliver value in a predictable and sustainable manner, ensuring that products meet customer needs and expectations. By focusing on the end-to-end delivery process, organisations can enhance collaboration across cross-functional teams, streamline workflows, and reduce cycle times.

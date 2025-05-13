@@ -33,9 +33,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-  - Accountability
----
+- Accountability
 
+---
 **Product Management: Balancing Vision, Value, and Viability**
 
 Product Management is a strategic discipline, not a support function. It is accountable for aligning customer needs, business goals, and technical feasibility to maximise value delivery. This isn’t about writing requirements or running meetings; it’s about making tough trade-offs, prioritising what matters, and driving decisions that create measurable outcomes. Product Management, when done well, creates clarity from chaos and focus from fragmentation.

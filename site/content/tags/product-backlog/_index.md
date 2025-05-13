@@ -57,6 +57,7 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Agile Strategy
+icon: fa-list-check
 
 ---
 The Product Backlog is a dynamic, prioritised list of work items that serves as the single source of truth for what needs to be done to deliver a product. It encompasses features, enhancements, bug fixes, and technical tasks, ensuring that teams have a clear understanding of their objectives. This concept is crucial as it enables teams to focus on delivering value predictably and sustainably by providing a transparent view of priorities and progress.

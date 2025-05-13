@@ -48,6 +48,7 @@ tags:
 - Social Technologies
 - Market Adaptability
 - Organisational Agility
+icon: fa-cloud-sun
 
 ---
 Azure DevOps is a comprehensive suite of tools from Microsoft designed to facilitate continuous integration and continuous delivery (CI/CD), enhance collaboration, and streamline agile project management. It integrates various functionalities, including Azure Boards for tracking work, Azure Repos for source control, Azure Pipelines for automating builds and deployments, and Azure Test Plans for managing testing efforts. This platform is pivotal for organisations aiming to deliver value predictably and sustainably, as it fosters a culture of collaboration and transparency across teams.

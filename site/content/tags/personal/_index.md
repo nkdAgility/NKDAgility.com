@@ -39,6 +39,7 @@ concepts:
 categories: []
 tags:
 - Psychological Safety
+icon: fa-user-pen
 
 ---
 Personal refers to the individual experiences, insights, and reflections that team members bring to their work within an organisation. This concept is crucial as it fosters a culture of openness and vulnerability, allowing team members to share their unique perspectives and learn from one another. By valuing personal contributions, organisations can enhance collaboration and build stronger relationships, which are essential for delivering value predictably and sustainably.

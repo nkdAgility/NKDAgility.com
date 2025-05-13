@@ -56,6 +56,7 @@ tags:
 - Release Management
 - Continuous Delivery
 - Deployment Frequency
+icon: fa-calendar-arrow-down
 
 ---
 Frequent releases refer to the practice of delivering small, incremental updates to products or services on a regular basis. This approach is crucial for organisations aiming to respond swiftly to user feedback and market changes, ensuring that value is consistently delivered to stakeholders. By breaking down larger projects into manageable releases, teams can reduce the risk associated with deployment, as each release is smaller and easier to test and validate.

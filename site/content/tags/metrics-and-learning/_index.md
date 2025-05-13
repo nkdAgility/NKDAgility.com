@@ -60,6 +60,7 @@ headline:
   subtitle: Harnessing data, feedback, and empirical insights to drive continuous improvement, informed decision-making, and adaptive value delivery across teams and organisations
   content: Explores the use of data, feedback, and empirical evidence to inform decision-making, drive improvement, and foster adaptability. Covers measurement of flow, quality, customer and team outcomes, and the integration of metrics into daily routines to support learning, transparency, and responsive change across teams and organisations.
   updated: 2025-05-13T10:03:15Z
+icon: fa-chart-bar
 
 ---
 Metrics and Learning is not about tracking velocity or producing dashboards to appease managers. It’s about creating the conditions for continuous improvement by making performance transparent, exposing constraints, and enabling teams and leaders to respond with evidence rather than assumption.

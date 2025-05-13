@@ -54,6 +54,7 @@ tags:
 - Social Technologies
 - Decision Making
 - Market Adaptability
+icon: fa-route
 
 ---
 Value Stream Mapping is a visual tool used to analyse and optimise workflows within an organisation, focusing on the flow of materials and information required to deliver a product or service. By mapping out each step in the process, teams can identify inefficiencies, bottlenecks, and areas of waste, enabling them to streamline operations and enhance value delivery. This practice is crucial for fostering a culture of continuous improvement, as it provides a clear picture of how work progresses and where delays occur.

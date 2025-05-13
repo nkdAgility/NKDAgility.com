@@ -50,6 +50,7 @@ tags:
 - Lean Principles
 - Ability to Innovate
 - Decision Making
+icon: fa-vote-yea
 
 ---
 Product validation involves testing product ideas with real users to ensure they meet market needs and deliver genuine customer value. This process is crucial for organisations aiming to develop products that resonate with their target audience, as it mitigates the risk of investing in features or solutions that do not align with user expectations. By engaging users early and often, teams can gather feedback that informs design and functionality, allowing for iterative improvements that enhance product-market fit.

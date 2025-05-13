@@ -42,6 +42,7 @@ tags:
 - Value Delivery
 - Operational Practices
 - Business Agility
+icon: fa-hammer
 
 ---
 Engineering Practices encompass a set of foundational techniques and methodologies that ensure the delivery of high-quality software in an Agile environment. These practices include clean code principles, automation, and test-first development, which collectively enhance the reliability and maintainability of software products. By embedding these practices into the development lifecycle, teams can achieve a predictable and sustainable flow of value to customers.

@@ -46,6 +46,7 @@ tags:
 - Sociotechnical Systems
 - Organisational Culture
 - Change Management
+icon: fa-atom
 
 ---
 **Organisational Physics** is the application of **systems thinking** to comprehend and influence the dynamics within an organisation. It offers a **conceptual model** that helps teams understand how elements such as people, processes, and technology interact, influencing overall organisational behaviour and performance.

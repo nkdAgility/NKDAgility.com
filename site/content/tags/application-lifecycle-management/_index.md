@@ -46,6 +46,7 @@ tags:
 - Value Delivery
 - Social Technologies
 - Product Delivery
+icon: fa-timeline
 
 ---
 Application Lifecycle Management (ALM) encompasses the comprehensive management of software applications from inception through to retirement, ensuring that every phase—development, maintenance, and governance—is effectively coordinated. This concept is crucial for organisations aiming to deliver value predictably and sustainably, as it integrates processes, tools, and people to streamline workflows and enhance collaboration across teams.

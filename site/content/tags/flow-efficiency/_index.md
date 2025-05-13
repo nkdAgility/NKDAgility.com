@@ -52,6 +52,7 @@ tags:
 - Metrics and Learning
 - Organisational Agility
 - Product Delivery
+icon: fa-arrows-left-right-to-line
 
 ---
 Flow efficiency refers to the optimisation of work throughput across the value stream, focusing on minimising waste and reducing bottlenecks. This concept is crucial for organisations aiming to deliver value predictably and sustainably, as it directly impacts the speed at which teams can respond to customer needs and market changes. By analysing and improving flow efficiency, teams can identify areas where delays occur, allowing for targeted interventions that enhance overall performance.

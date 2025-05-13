@@ -51,6 +51,7 @@ tags:
 - Engineering Practices
 - Organisational Agility
 - Technical Excellence
+icon: fa-code-merge
 
 ---
 Deployment strategies refer to the systematic approaches organisations use to release software into production while balancing risk and speed. These strategies are crucial for ensuring that teams can deliver value predictably and sustainably, allowing for rapid iterations and continuous feedback. By employing various deployment techniques—such as blue-green deployments, canary releases, and rolling updates—teams can mitigate the impact of potential failures, enabling them to respond swiftly to issues without significant disruption to users.

@@ -42,6 +42,7 @@ tags:
 - Operational Practices
 - Install and Configuration
 - Software Development
+icon: fa-sliders-h
 
 ---
 **System Configuration** refers to the technical setup and optimisation of **software**, **hardware**, and **systems** to ensure they operate efficiently and reliably. It is a critical process in both **Agile** and **DevOps** environments, where speed, efficiency, and flexibility are paramount. The purpose of system configuration is to create a solid foundation for operational performance, enabling teams to deliver high-quality products predictably and sustainably.

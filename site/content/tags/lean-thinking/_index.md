@@ -42,6 +42,7 @@ tags:
 - Value Delivery
 - Market Adaptability
 - Continuous Learning
+icon: fa-recycle
 
 ---
 Lean Thinking focuses on maximising value by minimising waste within organisational processes. It emphasises the importance of understanding customer needs and aligning workflows to deliver products and services that meet those needs efficiently. By applying Lean principles, teams can identify non-value-adding activities, streamline operations, and enhance overall productivity. This approach fosters a culture of continuous improvement, encouraging teams to experiment, learn, and adapt their processes over time.

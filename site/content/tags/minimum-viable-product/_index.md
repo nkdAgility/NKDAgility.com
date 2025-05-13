@@ -49,6 +49,7 @@ tags:
 - Organisational Agility
 - Hypothesis Driven Development
 - Continuous Improvement
+icon: fa-seedling-sprout
 
 ---
 MVP, or Minimum Viable Product, is a core concept in product development that focuses on creating a version of a product with just enough features to satisfy early adopters and gather feedback for future development. This approach allows teams to test hypotheses and validate market assumptions quickly, reducing the risk of investing significant resources into unproven ideas. By prioritising essential functionalities, teams can launch products faster, enabling them to learn from real user interactions and iterate based on actual feedback rather than assumptions.

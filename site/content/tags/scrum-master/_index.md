@@ -52,6 +52,7 @@ tags:
 - Agile Leadership
 - Value Delivery
 - Change Management
+icon: fa-user-tie
 
 ---
 The Scrum Master is an accountability in Scrum.

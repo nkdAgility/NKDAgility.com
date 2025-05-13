@@ -39,6 +39,7 @@ concepts:
 categories: []
 tags:
 - Value Delivery
+icon: fa-code
 
 ---
 Software Development encompasses the techniques and methodologies employed to engineer high-quality software solutions that meet user needs and business objectives. It is a systematic approach that integrates various practices, including Agile, Lean, and DevOps, to enhance collaboration, efficiency, and adaptability within teams. This concept is crucial as it enables organisations to deliver value predictably and sustainably, fostering a culture of continuous improvement and responsiveness to change.

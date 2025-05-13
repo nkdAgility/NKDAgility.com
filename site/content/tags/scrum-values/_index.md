@@ -45,6 +45,7 @@ tags:
 - Agile Frameworks
 - Organisational Agility
 - Agile Values and Principles
+icon: fa-gem
 
 ---
 The Scrum Values are a first principal of Scrum.

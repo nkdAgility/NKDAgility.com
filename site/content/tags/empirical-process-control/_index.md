@@ -53,6 +53,7 @@ tags:
 - Value Delivery
 - Agile Transformation
 - Market Adaptability
+icon: fa-microscope
 
 ---
 Empirical Process Control is a foundational concept that emphasises decision-making based on observation and experimentation rather than assumptions. It is integral to Agile, Lean, and DevOps methodologies, enabling teams to adapt their processes and outputs through continuous inspection and transparency. By relying on real data and feedback, organisations can identify what works and what doesn’t, fostering a culture of learning and improvement.

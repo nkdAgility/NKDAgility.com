@@ -52,6 +52,7 @@ tags:
 - Organisational Change
 - Business Agility
 - Sociotechnical Systems
+icon: fa-scroll
 
 ---
 Agile Values and Principles form the cornerstone of effective Agile practices, guiding teams in their pursuit of delivering value consistently and sustainably. These values prioritise individuals and interactions over processes and tools, emphasising collaboration, customer feedback, and adaptability. By adhering to these principles, organisations foster an environment where teams can respond to change swiftly, ensuring that the products developed are not only relevant but also aligned with customer needs.

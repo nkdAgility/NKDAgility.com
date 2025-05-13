@@ -51,6 +51,7 @@ tags:
 - Pragmatic Thinking
 - Release Management
 - Time to Market
+icon: fa-infinity
 
 ---
 Continuous Delivery is a disciplined software delivery practice aimed at producing software in short, reliable cycles, ensuring that it can be released at any moment. It involves consistently delivering small, incremental improvements directly into the hands of real users, from the very first iteration.

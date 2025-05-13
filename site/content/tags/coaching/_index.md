@@ -51,6 +51,7 @@ tags:
 - Psychological Safety
 - Operational Practices
 - Organisational Culture
+icon: fa-chalkboard-teacher
 
 ---
 Coaching is the practice of unlocking the potential within teams and leaders by providing guidance rather than issuing directives. This approach fosters an environment where individuals can develop their skills, enhance their decision-making capabilities, and embrace a mindset of continuous improvement. Coaching is essential in agile, lean, and DevOps contexts, as it empowers teams to adapt to changing circumstances and deliver value predictably and sustainably.

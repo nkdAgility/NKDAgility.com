@@ -50,6 +50,7 @@ tags:
 - Pragmatic Thinking
 - Organisational Agility
 - Social Technologies
+icon: fa-filter-circle-dollar
 
 ---
 Lean Principles focus on minimising waste while maximising value through iterative learning and continuous improvement. This approach is essential for organisations aiming to enhance efficiency and responsiveness in their product development processes. By fostering a culture of experimentation and feedback, Lean Principles enable teams to identify and eliminate non-value-adding activities, thereby streamlining workflows and optimising resource utilisation.

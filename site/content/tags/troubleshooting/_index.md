@@ -35,6 +35,7 @@ concepts:
 - Principle
 categories: []
 tags: []
+icon: fa-stethoscope
 
 ---
 Troubleshooting involves the systematic identification and resolution of issues within software, hardware, and systems, ensuring that functionality is maintained and optimised. This concept is crucial for organisations aiming to deliver value predictably and sustainably, as it directly impacts the reliability and performance of products and services. By effectively diagnosing problems, teams can minimise downtime, enhance user satisfaction, and maintain a steady flow of work, which is essential in agile and DevOps environments.

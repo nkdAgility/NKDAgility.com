@@ -59,6 +59,7 @@ tags:
 - Organisational Change
 - Organisational Culture
 - Agile Frameworks
+icon: fa-shuffle
 
 ---
 Agnostic Agile is a movement that champions a flexible, context-driven approach to agility, prioritising principles over rigid frameworks. It encourages teams to adapt their methodologies based on specific needs rather than adhering strictly to a single ideology. This pragmatic stance allows practitioners to draw from a variety of approaches, including Scrum, Kanban, Lean, and XP, fostering an environment where critical thinking and professionalism thrive.

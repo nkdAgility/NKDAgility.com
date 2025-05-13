@@ -40,6 +40,7 @@ categories: []
 tags:
 - Continuous Learning
 - Miscellaneous
+icon: fa-lightbulb-on
 
 ---
 Pragmatic Thinking is the application of practical, experience-based problem-solving in complex environments, enabling teams to navigate challenges effectively. This approach prioritises actionable insights over theoretical constructs, fostering a mindset that values real-world applicability. By focusing on what works in practice, teams can adapt their strategies to deliver value predictably and sustainably.

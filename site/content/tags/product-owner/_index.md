@@ -44,6 +44,7 @@ tags:
 - Professional Scrum
 - Decision Making
 - Product Delivery
+icon: fa-user-crown
 
 ---
 The **Product Owner** is an **accountability** within the Scrum framework, responsible for maximising the value of the product resulting from the work of the Scrum Team. This accountability extends beyond managing the product backlog; it involves making strategic decisions that align the product vision with customer needs and business objectives. The Product Owner ensures that the team focuses on delivering value, optimising the product backlog, and continuously adapting to stakeholder feedback and market changes.

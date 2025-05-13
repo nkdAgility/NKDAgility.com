@@ -47,6 +47,7 @@ tags:
 - Self Organisation
 - Cross Functional Teams
 - Product Delivery
+icon: fa-users
 
 ---
 A Scrum Team is the core accountability in Scrum, responsible for delivering value through iterative, incremental work. It consists of a Scrum Master, Product Owner, and Developers, working collaboratively toward a single Product Goal.

@@ -45,6 +45,7 @@ tags:
 - Team Collaboration
 - Organisational Agility
 - Team Performance
+icon: fa-glass-half-full
 
 ---
 Transparency is the practice of ensuring openness and visibility within agile processes, fostering an environment of trust and accountability. It allows teams to share information freely, enabling all members to understand project status, challenges, and progress. This clarity is crucial for effective collaboration, as it empowers individuals to make informed decisions and contribute meaningfully to the team's objectives.

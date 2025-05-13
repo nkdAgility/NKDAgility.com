@@ -35,6 +35,7 @@ concepts:
 categories: []
 tags:
 - Operational Practices
+icon: fa-download
 
 ---
 Install and Configuration refers to the essential processes involved in setting up and optimising tools, software, and platforms that support agile, lean, and DevOps practices. This concept is crucial as it lays the groundwork for teams to operate efficiently and effectively, ensuring that the right systems are in place to facilitate collaboration, communication, and continuous delivery of value. 

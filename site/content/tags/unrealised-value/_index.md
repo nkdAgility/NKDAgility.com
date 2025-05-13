@@ -53,6 +53,7 @@ tags:
 - Social Technologies
 - Professional Scrum
 - Organisational Agility
+icon: fa-seedling
 
 ---
 Unrealised Value refers to the potential value that an organisation has yet to capture, highlighting opportunities for improvement and innovation. It encompasses a range of indicators that assess untapped possibilities, such as latent market demand or areas ripe for enhancement. By focusing on Unrealised Value, teams can identify where they can optimise processes, innovate products, or better meet customer needs, ultimately leading to increased competitiveness and sustainability.

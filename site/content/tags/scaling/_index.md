@@ -53,6 +53,7 @@ tags:
 - Social Technologies
 - Pragmatic Thinking
 - Organisational Physics
+icon: fa-layer-group-circle-nodes
 
 ---
 Scaling refers to the ability of an organisation to coordinate multiple teams effectively in order to deliver complex products while maintaining agility. This concept is crucial as it enables organisations to align their efforts, optimise flow, and enhance value delivery across the enterprise. By applying lean principles and adaptive product structures, scaling facilitates a cohesive approach to product development, ensuring that teams can respond swiftly to changing market demands without sacrificing quality or speed.

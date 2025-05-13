@@ -52,6 +52,7 @@ tags:
 - Agile Philosophy
 - Strategic Goals
 - Change Management
+icon: fa-building-columns
 
 ---
 Large Scale Agility refers to the application of agile principles and practices across entire organisations, transcending individual teams to foster a culture of adaptability, collaboration, and continuous improvement. This concept is crucial for enabling enterprises to respond swiftly to market changes and customer needs, ensuring that value delivery is both predictable and sustainable. By integrating agile methodologies at scale, organisations can break down silos, enhance cross-functional collaboration, and align strategic goals with operational execution.

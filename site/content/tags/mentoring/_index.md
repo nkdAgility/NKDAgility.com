@@ -44,6 +44,7 @@ tags:
 - Pragmatic Thinking
 - Business Agility
 - Team Motivation
+icon: fa-user-friends
 
 ---
 Mentoring is a vital process in which experienced professionals provide guidance and support to less experienced colleagues, fostering their growth and development within agile, lean, and DevOps environments. This relationship is not merely about imparting knowledge; it involves nurturing skills, encouraging critical thinking, and promoting a culture of continuous learning. By facilitating open dialogue and sharing insights, mentoring helps individuals navigate complex challenges, ultimately enhancing team performance and organisational agility.

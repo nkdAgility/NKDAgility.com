@@ -55,6 +55,7 @@ tags:
 - Business Agility
 - Pragmatic Thinking
 - Change Management
+icon: fa-person-running
 
 ---
 **Agency** is **the capacity, condition, or state of acting or exerting power**. In Agile, Scrum, DevOps, and organisational change, it means **the ability to act with autonomy, intentionality, and accountability toward meaningful goals within socio-technical environments**.

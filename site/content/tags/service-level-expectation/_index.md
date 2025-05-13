@@ -58,6 +58,7 @@ sitemap:
   priority: 0.7
 concepts:
 - Method
+icon: fa-hourglass-half
 
 ---
 A Service Level Expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the [Scrum]({{< ref "/categories/scrum" >}}) Team's Workflow. The [Scrum Team]({{< ref "/tags/scrum-team" >}}) uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations.

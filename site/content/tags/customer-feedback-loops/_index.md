@@ -50,6 +50,7 @@ tags:
 - Business Agility
 - Organisational Agility
 - Agile Product Management
+icon: fa-comments-dollar
 
 ---
 Customer feedback loops are essential mechanisms that facilitate the continuous integration of user insights into product development. By systematically gathering and analysing feedback from customers, organisations can ensure that their offerings align closely with real user needs and preferences. This iterative process not only enhances product relevance but also fosters a culture of responsiveness and adaptability within teams.

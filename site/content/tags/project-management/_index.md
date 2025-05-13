@@ -37,6 +37,7 @@ concepts:
 - Discipline
 categories: []
 tags: []
+icon: fa-tasks
 
 ---
 Project Management is the discipline of planning, executing, and overseeing projects to meet defined goals within constraints such as time, cost, and scope. It involves coordinating people, processes, and technologies to achieve successful outcomes in a structured and repeatable manner.

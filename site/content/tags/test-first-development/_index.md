@@ -44,6 +44,7 @@ tags:
 - Operational Practices
 - Shift Left Strategy
 - Pragmatic Thinking
+icon: fa-vial
 
 ---
 **Test First** is a modern engineering practice that anchors the delivery of working software in clarity, confidence, and quality. It is a shift-left strategy where tests are defined *before* implementation begins, guiding design and enabling faster feedback loops.

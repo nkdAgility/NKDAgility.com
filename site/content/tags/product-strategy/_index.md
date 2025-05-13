@@ -37,6 +37,7 @@ categories:
 - Product Management
 - Product Development
 tags: []
+icon: fa-map-signs
 
 ---
 Product strategy is the process of defining a clear vision and roadmap for creating a competitive and sustainable product. It encompasses understanding market needs, aligning product goals with organisational objectives, and establishing a framework for decision-making that guides product development. This strategic approach is crucial as it enables teams to deliver value predictably and sustainably, ensuring that every feature and enhancement is purposefully aligned with customer expectations and business outcomes.

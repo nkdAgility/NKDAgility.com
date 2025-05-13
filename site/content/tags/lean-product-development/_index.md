@@ -48,6 +48,7 @@ tags:
 - Organisational Agility
 - Social Technologies
 - Experimentation
+icon: fa-lightbulb-gear
 
 ---
 Lean Product Development focuses on minimising waste while maximising learning throughout the product creation process. This approach is rooted in Lean principles, which advocate for efficiency and value delivery by eliminating non-value-adding activities. By fostering a culture of continuous improvement, teams can adapt quickly to changing market demands and customer feedback, ensuring that the products developed are not only relevant but also of high quality.

@@ -35,6 +35,7 @@ concepts:
 categories: []
 tags:
 - Software Development
+icon: fa-bezier-curve
 
 ---
 **Hybrid Agile** is a label frequently used by organisations attempting to bolt agile practices onto project structures. The intention may be to gain flexibility without losing perceived control, but the outcome is rarely effective. Instead of blending strengths, Hybrid Agile often produces the **worst of both worlds**: rigid governance with the illusion of agility.

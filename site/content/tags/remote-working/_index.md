@@ -46,6 +46,7 @@ tags:
 - Organisational Agility
 - Value Delivery
 - Sociotechnical Systems
+icon: fa-house-laptop
 
 ---
 Remote Working is a Practice.

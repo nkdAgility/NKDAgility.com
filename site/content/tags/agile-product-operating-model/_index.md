@@ -61,6 +61,7 @@ tags:
 - Market Adaptability
 - Continuous Improvement
 - Pragmatic Thinking
+icon: fa-diagram-cells
 
 ---
 The Agile Product Operating Model (APOM) is a set of principles that combines contemporary product management strategies with agile ways of working, providing organisations with a solid basis for consistently delivering value. It embodies a product ethos, aligning the entire organisation around well-defined and measurable outcomes.

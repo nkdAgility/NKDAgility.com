@@ -51,6 +51,7 @@ tags:
 - Organisational Culture
 - Agile Transformation
 - Agile Values and Principles
+icon: fa-building-flag
 
 ---
 Enterprise Agility refers to the ability of an organisation to respond swiftly and effectively to changes in the market and customer demands, extending agile principles beyond individual teams to the entire enterprise. This concept is crucial as it fosters a culture of adaptability, enabling organisations to pivot quickly in response to new information or shifting priorities. By embedding agility into the organisational structure, processes, and culture, teams can deliver value predictably and sustainably, ensuring that products and services align closely with customer needs.

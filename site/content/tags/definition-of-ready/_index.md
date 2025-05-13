@@ -53,6 +53,7 @@ tags:
 - Agile Product Management
 - Operational Practices
 - Product Backlog
+icon: fa-clipboard-question
 
 ---
 Definition of Ready (DoR) is an artifact.

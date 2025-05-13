@@ -140,7 +140,7 @@
               {{- if gt $count 0 }}
                 <div class="d-flex align-items-center">
                   <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
-                    {{ if .Page.Params.icon }}<i class="fa-regular {{ .Page.Params.icon }}"></i>{{end}} <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
+                    {{ if .Page.Params.icon }}<i class="{{ if .Page.Params.iconType }}{{ .Page.Params.iconType }}{{else}}fa-regular{{end}} {{ .Page.Params.icon }}"></i>{{end}} <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
                   </span>
                   <span class="ms-1">({{ $count }})</span>
                 </div>
@@ -161,7 +161,7 @@
               {{- if gt $count 0 }}
                <div class="d-flex align-items-center">
                   <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
-                    {{ if .Page.Params.icon }}<i class="fa-regular {{ .Page.Params.icon }}"></i>{{end}}<a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}"> {{ .Page.Title }}</a>
+                    {{ if .Page.Params.icon }}<i class="{{ if .Page.Params.iconType }}{{ .Page.Params.iconType }}{{else}}fa-regular{{end}} {{ .Page.Params.icon }}"></i>{{end}}<a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}"> {{ .Page.Title }}</a>
                   </span>
                   <span class="ms-1">({{ $count }})</span>
                 </div>
@@ -182,7 +182,7 @@
               {{- if gt $count 0 }}
                 <div class="d-flex align-items-center">
                   <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}">
-                    <a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
+                    {{ if .Page.Params.icon }}<i class="{{ if .Page.Params.iconType }}{{ .Page.Params.iconType }}{{else}}fa-regular{{end}} {{ .Page.Params.icon }}"></i>{{end}}<a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a>
                   </span>
                   <span class="ms-1">({{ $count }})</span>
                 </div>

@@ -48,6 +48,7 @@ tags:
 - Value Delivery
 - Sociotechnical Systems
 - Frequent Releases
+icon: fa-layer-group-cog
 
 ---
 An Internal Developer Platform (IDP) is a cohesive environment that streamlines the development lifecycle, allowing teams to build, test, and deploy applications with greater efficiency and consistency. By providing a set of integrated tools and services, an IDP reduces the complexity of managing infrastructure and application dependencies, enabling developers to focus on delivering value rather than grappling with operational hurdles. 

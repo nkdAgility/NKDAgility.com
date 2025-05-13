@@ -40,9 +40,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-  - Strategy
----
+- Strategy
 
+---
 Product Development is the systematic process of delivering valuable and usable products through iterative learning, customer feedback, and continuous improvement. It encompasses the alignment of strategy, discovery, and delivery to maximise outcomes while minimising risk. This concept is crucial as it enables teams to respond effectively to changing market demands and customer needs, fostering an environment where innovation can thrive.
 
 By integrating practices from Agile, Lean, and DevOps, Product Development promotes a culture of collaboration and transparency, allowing cross-functional teams to work cohesively towards shared goals. It emphasises the importance of understanding customer feedback loops, which inform product iterations and enhancements, ensuring that the end product not only meets but exceeds user expectations.

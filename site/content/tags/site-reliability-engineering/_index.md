@@ -56,6 +56,7 @@ tags:
 - Service Level Expectation
 - Value Delivery
 - Technical Excellence
+icon: fa-shield-alt
 
 ---
 Site Reliability Engineering (SRE) is not a job title; it is an ethos. It is the disciplined application of software engineering principles to design, build, and operate reliable, scalable systems. And it is essential if you want to survive modern software delivery.

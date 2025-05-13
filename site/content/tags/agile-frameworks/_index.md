@@ -52,6 +52,7 @@ tags:
 - Agile Transformation
 - Team Performance
 - Product Delivery
+icon: fa-diagram-cells-large
 
 ---
 Agile frameworks are structured methodologies that facilitate the implementation of Agile principles within organisations, enabling teams to deliver value predictably and sustainably. These frameworks, such as Scrum, Kanban, and Lean, provide specific roles, events, and artefacts that guide teams in their work, fostering collaboration, transparency, and continuous improvement. By adopting an Agile framework, organisations can respond more effectively to changing market demands and customer needs, ensuring that they remain competitive and relevant.

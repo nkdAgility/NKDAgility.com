@@ -50,6 +50,7 @@ tags:
 - Technical Excellence
 - Market Adaptability
 - Shift Left Strategy
+icon: fa-vials
 
 ---
 Automated Testing is a critical practice that enhances software quality and reliability by systematically executing tests through automation tools. This approach allows teams to detect issues early in the development process, significantly reducing the manual effort required for testing and accelerating the delivery of high-quality software. By integrating automated tests into the development pipeline, organisations can ensure that new features do not introduce regressions, thereby maintaining a stable codebase.

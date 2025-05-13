@@ -41,6 +41,7 @@ tags:
 - Enterprise Agility
 - Organisational Agility
 - Agile Strategy
+icon: fa-bullseye
 
 ---
 Strategic goals are defined as long-term objectives that guide an organisation's direction, ensuring alignment with its vision and mission. They serve as a compass for teams, enabling them to focus their efforts on delivering value predictably and sustainably. By establishing clear strategic goals, organisations can foster a culture of accountability and transparency, where every team member understands how their work contributes to broader objectives.

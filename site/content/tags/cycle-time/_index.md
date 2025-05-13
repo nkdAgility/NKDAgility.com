@@ -55,6 +55,7 @@ tags:
 - Product Delivery
 - Software Development
 - Pragmatic Thinking
+icon: fa-circle-notch
 
 ---
 Cycle time is the measure of the total time taken to complete a unit of work, from the moment it is initiated until it is delivered. This metric is crucial for teams aiming to enhance their efficiency and predictability in delivering value. By tracking cycle time, organisations can identify bottlenecks, streamline processes, and optimise workflows, ultimately leading to faster delivery of products and services.

@@ -51,6 +51,7 @@ tags:
 - Lean Principles
 - Continuous Learning
 - Team Performance
+icon: fa-sitemap
 
 ---
 Self-organisation refers to the ability of teams to autonomously manage their work, make decisions, and adapt to changing circumstances without relying on external control. This concept is crucial as it fosters a culture of ownership and accountability, enabling teams to respond swiftly to challenges and opportunities. By empowering individuals to take initiative, self-organisation enhances collaboration and innovation, leading to more effective problem-solving and value delivery.

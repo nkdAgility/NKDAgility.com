@@ -50,6 +50,7 @@ tags:
 - Engineering Practices
 - Product Delivery
 - Technical Excellence
+icon: fa-clipboard-list
 
 ---
 Acceptance Test Driven Development (ATDD) is a collaborative approach that emphasises defining clear, testable acceptance criteria before the implementation of features. This practice ensures that all stakeholders, including product owners, developers, and testers, share a common understanding of what constitutes success for a given feature. By establishing these criteria upfront, teams can align their development efforts with business needs, reducing the risk of miscommunication and rework.

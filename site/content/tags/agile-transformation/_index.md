@@ -53,6 +53,7 @@ tags:
 - Market Adaptability
 - Strategic Goals
 - Large Scale Agility
+icon: fa-people-arrows-rotate
 
 ---
 Agile Transformation is the process of fundamentally shifting an organisation's culture, mindset, and operational practices to embrace Agile principles and methodologies. This transformation is crucial as it enables teams to deliver value predictably and sustainably, fostering an environment where adaptability and responsiveness to change are paramount. By prioritising collaboration, customer feedback, and iterative development, organisations can enhance their ability to innovate and respond to market demands effectively.

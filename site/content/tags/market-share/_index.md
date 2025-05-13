@@ -38,6 +38,7 @@ categories:
 tags:
 - Product Strategy
 - Strategic Goals
+icon: fa-chart-pie
 
 ---
 Market share refers to the portion of a market controlled by a particular company or product, reflecting its competitive position within that market segment. It is a critical metric for organisations as it directly correlates with revenue potential, brand strength, and customer loyalty. By understanding and expanding market share, teams can identify opportunities for growth, optimise resource allocation, and enhance strategic decision-making.

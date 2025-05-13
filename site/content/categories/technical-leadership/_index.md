@@ -35,9 +35,9 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:03:30
 concepts:
-  - Capability
----
+- Capability
 
+---
 Technical leadership is the practice of guiding development teams through the application of technical expertise and agile best practices. It plays a crucial role in fostering an environment where teams can deliver value predictably and sustainably. By providing direction and support, technical leaders help teams navigate complex challenges, ensuring that technical decisions align with organisational goals and customer needs.
 
 This concept emphasises the importance of long-term thinking and systemic approaches, enabling teams to build robust solutions that are adaptable to change. Technical leaders cultivate a culture of continuous improvement, encouraging experimentation and learning, which are essential for innovation. They also facilitate collaboration across disciplines, breaking down silos and promoting shared ownership of outcomes.

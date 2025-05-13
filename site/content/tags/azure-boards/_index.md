@@ -50,6 +50,7 @@ tags:
 - Team Performance
 - Market Adaptability
 - Value Delivery
+icon: fa-table-cells-large
 
 ---
 Azure Boards is a powerful tool within the Azure DevOps suite designed to facilitate the management of Agile projects. It enables teams to track work items, manage backlogs, and optimise planning through visual boards that support methodologies like Scrum and Kanban. By providing a clear view of tasks, progress, and team capacity, Azure Boards enhances collaboration and communication among team members, ensuring everyone is aligned on priorities and deliverables.

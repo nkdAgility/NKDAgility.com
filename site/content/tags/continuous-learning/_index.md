@@ -45,6 +45,7 @@ tags:
 - Value Delivery
 - Organisational Agility
 - Miscellaneous
+icon: fa-book-open-reader
 
 ---
 Continuous Learning is the practice of fostering a growth mindset and promoting knowledge sharing within teams to drive sustained improvement. It emphasises the importance of learning from experiences, both successes and failures, to enhance skills, processes, and products. This concept is vital as it enables teams to adapt quickly to changing circumstances, ensuring they can deliver value predictably and sustainably.

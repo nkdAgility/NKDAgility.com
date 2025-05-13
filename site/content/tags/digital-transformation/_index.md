@@ -38,6 +38,7 @@ categories: []
 tags:
 - Business Agility
 - Strategic Goals
+icon: fa-digital-tachograph
 
 ---
 Digital Transformation involves the strategic adoption of modern digital technologies to enhance business agility and foster innovation. It is not merely about implementing new tools; it fundamentally reshapes how organisations operate, enabling them to respond swiftly to market changes and customer needs. By integrating digital solutions across processes, teams can streamline workflows, improve collaboration, and enhance decision-making capabilities.

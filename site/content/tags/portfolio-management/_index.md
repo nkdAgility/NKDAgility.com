@@ -47,6 +47,7 @@ tags:
 - Social Technologies
 - Continuous Improvement
 - Enterprise Agility
+icon: fa-briefcase
 
 ---
 Portfolio Management is a strategic approach that aligns an organisation's investments with its overarching goals, ensuring that resources are allocated effectively to maximise value delivery. It involves the continuous assessment and prioritisation of projects and initiatives, enabling teams to focus on the most impactful work. By optimising value streams, organisations can enhance their agility, responding swiftly to market changes and customer needs.

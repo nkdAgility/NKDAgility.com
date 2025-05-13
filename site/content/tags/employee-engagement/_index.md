@@ -39,6 +39,7 @@ tags:
 - Miscellaneous
 - Organisational Culture
 - Team Motivation
+icon: fa-face-smile-beam
 
 ---
 Employee engagement refers to the level of commitment, motivation, and emotional investment that employees have towards their organisation and its goals. It is crucial for fostering high-performing teams, as engaged employees are more likely to contribute positively to their work environment, collaborate effectively, and drive innovation. This concept transcends mere job satisfaction; it encompasses a deeper connection to the organisation's mission and values, which in turn enhances productivity and reduces turnover.

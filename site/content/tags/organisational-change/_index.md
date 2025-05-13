@@ -40,6 +40,7 @@ tags:
 - Organisational Agility
 - Organisational Culture
 - Miscellaneous
+icon: fa-arrows-spin
 
 ---
 Organisational Change refers to the systematic approach to transforming an organisation's structure, culture, and processes to enhance agility and resilience. This concept is crucial as it enables teams to adapt to evolving market demands and technological advancements, ensuring that value delivery is both predictable and sustainable. By fostering a culture of continuous improvement and responsiveness, organisations can better align their strategies with customer needs and operational realities.

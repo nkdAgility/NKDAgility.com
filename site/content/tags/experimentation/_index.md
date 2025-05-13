@@ -54,6 +54,7 @@ tags:
 - Value Delivery
 - Organisational Change
 - Agile Philosophy
+icon: fa-flask
 
 ---
 Experimentation is a critical practice in agile workflows, centred on using hypothesis-driven approaches to test ideas and validate assumptions. This concept empowers teams to systematically explore uncertainties, allowing them to make informed decisions based on empirical evidence rather than intuition alone. By fostering a culture of experimentation, organisations can enhance their ability to innovate, adapt, and respond to changing market demands.

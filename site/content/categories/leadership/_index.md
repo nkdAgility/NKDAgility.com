@@ -33,9 +33,9 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:46:43
 concepts:
-  - Capability
----
+- Capability
 
+---
 Leadership is the cornerstone of organisational agility, serving as the driving force behind accountability and continuous value delivery. Effective leaders challenge the status quo, fostering an environment where innovation thrives and collaboration is paramount. They guide teams through complex transformations, ensuring clarity of purpose and direction amidst uncertainty. This role transcends mere management; it involves cultivating a culture that embraces change and encourages adaptive thinking.
 
 In the context of Agile, Lean, and DevOps, leadership is not about dictating tasks but empowering individuals to take ownership of their work. Leaders facilitate decision-making processes, enabling teams to respond swiftly to evolving demands and customer needs. They create frameworks that support resilience and high performance, allowing teams to navigate challenges with confidence.

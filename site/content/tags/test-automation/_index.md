@@ -48,6 +48,7 @@ tags:
 - Technical Excellence
 - Product Delivery
 - Frequent Releases
+icon: fa-robot
 
 ---
 Test automation involves the use of software tools to execute pre-scripted tests on a software application before it is released into production. This practice is essential for enhancing the quality of software products while significantly accelerating feedback loops. By automating repetitive testing tasks, teams can focus on more complex scenarios that require human insight, thus improving overall efficiency and effectiveness.
