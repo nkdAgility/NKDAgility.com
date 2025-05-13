@@ -38,7 +38,7 @@ tags:
 Watermarks:
   description: 2025-05-07T12:48:58Z
 concepts:
-- Tool
+- Ethos
 
 ---
 You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system—you have a liability.

@@ -31,8 +31,7 @@ function Get-Prompt {
 
         if ($null -ne $actualKey) {
             $replacement = $Parameters[$actualKey]
-            $placeholder = "{{$paramName}}"
-            $PromptContent = $PromptContent.Replace( $placeholder, $replacement)
+            $PromptContent = $PromptContent.Replace($fullMatch, $replacement)
         }
     }
 
