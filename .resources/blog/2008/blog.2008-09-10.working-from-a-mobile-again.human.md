@@ -1,6 +1,6 @@
 ---
 title: Working from a Mobile again!
-description: Explore the challenges and solutions of working from a mobile device. Discover how to manage TFS work items offline for seamless productivity on the go!
+description: Discusses the need for a mobile app to manage and edit Team Foundation Server (TFS) work items offline, enabling productivity while travelling without a laptop.
 ResourceId: xI-FYcMl1lT
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:15Z
+concepts: []
 
 ---
 As I am traveling today and I am not taking a laptop, I want to be able to do a little personal work from my mobile..

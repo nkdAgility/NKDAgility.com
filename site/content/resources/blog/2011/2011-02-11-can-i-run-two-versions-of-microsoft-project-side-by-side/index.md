@@ -1,6 +1,6 @@
 ---
 title: Can I run two versions of Microsoft Project side-by-side?
-description: Discover the challenges of running multiple Microsoft Project versions side-by-side. Learn key insights and workarounds to optimize your project management.
+description: Running multiple Microsoft Project versions on one PC is possible but not recommended due to file association issues, compatibility problems, and potential data errors.
 ResourceId: BPWVrzpIhxt
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: nakedalm-logo-128-link-5-5.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:11:09Z
+concepts: []
 
 ---
 [![image](images/Can_84C0-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Can_84C0-image_4.png)

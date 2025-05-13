@@ -1,6 +1,6 @@
 ---
 title: Change of plan
-description: Explore the evolution of a SharePoint project as Martin Hinshelwood rethinks his approach, focusing on debugging and testing for better results.
+description: Explains the decision to develop a system independent of SharePoint for easier testing, with plans to integrate into MOSS and assess SharePoint feature complexity.
 ResourceId: KfLCHLNio90
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:01Z
+concepts: []
 
 ---
 After having thought about it for a while I think that my idea not to create a separate TOM system independent of MOSS was a bit of a silly idea. The whole point of the system is to exist in any environment, so the first version will exist separate of SharePoint. The main advantage of this will be debugging and testing....

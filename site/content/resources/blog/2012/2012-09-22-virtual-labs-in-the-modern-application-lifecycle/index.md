@@ -1,6 +1,6 @@
 ---
 title: Virtual Labs in the modern application lifecycle
-description: Explore how virtual labs enhance the modern application lifecycle, enabling agile development and efficient testing in complex environments. Rise to the challenge!
+description: Explores how virtual labs help development and operations teams manage, test, and automate complex modern application environments using virtualisation technologies.
 ResourceId: SXJ7aTQkyMj
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - DevOps
 preview: metro-lab-5-5.png
+Watermarks:
+  description: 2025-05-13T15:07:33Z
+concepts: []
 
 ---
 In the world of modern application development we have many more moving parts than we ever did before and it has become increasingly difficult for organisations to effectively simulate their environments with virtual labs.

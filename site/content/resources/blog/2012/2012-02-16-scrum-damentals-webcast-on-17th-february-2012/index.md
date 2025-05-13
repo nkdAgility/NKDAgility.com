@@ -1,6 +1,6 @@
 ---
 title: Scrum-damentals Webcast on 17th February 2012
-description: Join the Scrum-damentals Webcast on February 17, 2012, to explore advanced Scrum strategies, challenges, and proven practices for successful implementation.
+description: Explore common challenges in Scrum adoption, practical strategies for overcoming them, and proven practices to help teams implement Scrum more effectively.
 ResourceId: bUSVyRUNCl3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Scrum
 preview: metro-event-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:09:28Z
+concepts: []
 
 ---
 We often speak about the basics of scrum and rarely get into the problems and I wanted a session that represented the “next steps” after deciding that this Scrum thing was a good idea. I will, hopefully, be hitting this session at those that already understand Scrum, but are looking for a little implementation knowledge and guidance before they get stuck in.

@@ -1,6 +1,6 @@
 ---
 title: Installing TFS 2012 on Server 2012 with SQL 2012
-description: Learn how to install TFS 2012 on Windows Server 2012 with SQL 2012 in just 90 minutes. Perfect for demos and production upgrades. Get started now!
+description: Step-by-step guide to installing and configuring TFS 2012 on Windows Server 2012 with SQL Server 2012, including setup tips, common issues, and troubleshooting advice.
 ResourceId: krqWTY5WW0r
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-31-31.png
+Watermarks:
+  description: 2025-05-13T15:08:58Z
+concepts: []
 
 ---
 I need a TFS environment to use for demos and what better time to do a full upgrade than when we get some nice prizes from Microsoft. Today the Release Candidate for both Windows and for Visual Studio was released to the public. You can download it off the public sites or you can use you MSDN account to get all of the goodies.

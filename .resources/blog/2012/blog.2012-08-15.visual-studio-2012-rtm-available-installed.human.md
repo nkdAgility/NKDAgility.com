@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 2012 RTM available & installed
-description: Discover the benefits of upgrading to Visual Studio 2012 RTM. Learn about new features, installation tips, and how to enhance your development process.
+description: Covers installing and upgrading to Visual Studio 2012 RTM and Team Foundation Server, key new features, upgrade tips, common issues, and practical migration advice.
 ResourceId: 1pWQ2Krlit5
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: visual-studio-2012-rtm-available-installed
 aliases:
-- /resources/1pWQ2Krlit5
 - /resources/blog/visual-studio-2012-rtm-available-installed
+- /resources/1pWQ2Krlit5
 aliasesArchive:
 - /blog/visual-studio-2012-rtm-available-installed
 - /visual-studio-2012-rtm-available-installed
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-3-3.png
+Watermarks:
+  description: 2025-05-13T15:08:16Z
+concepts: []
 
 ---
 With the availability of [Visual Studio 2012 RTM today on MSDN](http://msdn.microsoft.com/en-US/vstudio/) I wanted to let you know that Northwest Cadence just completed its first Production RTM installation for a customer.

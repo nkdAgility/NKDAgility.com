@@ -1,6 +1,6 @@
 ---
 title: Deployment documentation
-description: Explore effective deployment strategies for complex applications across multiple environments. Learn how to gain control and streamline updates with ease.
+description: Outlines steps to document and improve deployment for a complex business app, focusing on automation, rollback, vendor updates, and multi-environment management.
 ResourceId: 154BNVcnbaU
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ categories:
 preview: metro-binary-vb-128-link-1-1.png
 tags:
 - Product Delivery
+Watermarks:
+  description: 2025-05-13T16:27:30Z
+concepts: []
 
 ---
 Over the past week I have been working on creating and documenting a deployment process for our new main business application. This application is very complicated and requires twenty servers per four environments. We need to track and control deployment to UAT, pre-production, production and C&R (disaster recovery site), but my company as a larger organization only requires control of production.

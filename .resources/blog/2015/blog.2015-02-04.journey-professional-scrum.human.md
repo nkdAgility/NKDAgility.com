@@ -1,6 +1,6 @@
 ---
 title: My journey into Professional Scrum
-description: Explore my journey into Professional Scrum and discover how agile practices can transform software development and enhance business agility. Join me!
+description: Reflects on experiences with Professional Scrum, highlighting its impact on software development, team culture, training, and the challenges of scaling agile practices.
 ResourceId: PqEhZ1JIcDe
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -34,6 +34,9 @@ tags:
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
+Watermarks:
+  description: 2025-05-12T14:20:04Z
+concepts: []
 
 ---
 It has been just over a year since I returned from 3 years in the USA and started naked ALM Consulting, and things are going well.. So far. The key to success in software development is, I believe, Professional Scrum.

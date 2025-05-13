@@ -1,6 +1,6 @@
 ---
 title: Interview with Scottish Developers
-description: Join Martin Hinshelwood as he shares insights from his interview with Scottish Developers, exploring the tech scene and personal reflections. Read more!
+description: A personal interview featured in the Scottish Developers newsletter, discussing experiences and insights from a developer’s perspective within the Scottish tech community.
 ResourceId: -9zhZou8GwO
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T15:23:04Z
+concepts: []
 
 ---
 I was recently contacted by [Colin Mackay](http://www.colinmackay.net/), the chairman of [Scottish Developers](http://scottishdevelopers.com) about doing an interview with them. Colin has been pestering me for a while now to do some speaking engagements, but I am still not comfortable with that! (Yes, I am too chicken), so I capitulated…

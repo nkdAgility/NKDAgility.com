@@ -1,6 +1,6 @@
 ---
 title: Windows Live SkyDrive Beta
-description: Explore the ease of using Windows Live SkyDrive Beta for file uploads and discover how it enhances your blogging experience. Share and manage your files effortlessly!
+description: Review of SkyDrive Beta’s ease of use for online file storage and sharing, with suggestions for improved online editing and SharePoint-style collaboration features.
 ResourceId: oN9JK2ZkXJ3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:45Z
+concepts: []
 
 ---
 I was reading Mike Tautly's post on SkyDrive so I thought I should have a look.

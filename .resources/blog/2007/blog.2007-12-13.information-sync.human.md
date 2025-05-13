@@ -1,6 +1,6 @@
 ---
 title: Information Sync
-description: Discover effective solutions for syncing contacts and calendars with Plaxo. Learn how to streamline your mobile and online tools for better organization!
+description: Compares mobile and online contact and calendar sync tools, highlighting issues with ActiveSync and Mobile Device Center, and recommending Plaxo for unified syncing.
 ResourceId: 8wFrWRJNJT9
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-6-6.png
+Watermarks:
+  description: 2025-05-13T16:25:22Z
+concepts: []
 
 ---
 [![image](images/InformationSync_1CD-image_thumb_3-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InformationSync_1CD-image_8.png)

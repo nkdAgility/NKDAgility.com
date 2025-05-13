@@ -1,6 +1,6 @@
 ---
 title: What to do after a servicing fails on TFS 2010
-description: Discover essential steps to take when a servicing fails on TFS 2010. Learn from real-world challenges and expert solutions to ensure a smooth upgrade.
+description: Guidance on troubleshooting failed servicing in TFS 2010, including schema version issues, recovery steps, and risks of database repair versus starting over.
 ResourceId: 3MtCtNaIpU3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 - Windows
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:11:17Z
+concepts: []
 
 ---
 [![vs2010alm](images/7e1d3e9df51b_12C53-vs2010alm_thumb-8-8.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-vs2010alm_2.png)What do you do if you run a couple of hotfixes against your [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 server and you start to see seem odd behaviour?

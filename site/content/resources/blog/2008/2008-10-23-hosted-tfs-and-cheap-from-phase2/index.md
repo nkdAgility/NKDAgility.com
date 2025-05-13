@@ -1,6 +1,6 @@
 ---
 title: Hosted TFS, and cheap….from Phase2
-description: Discover affordable hosted TFS solutions from Phase2, featuring full support and custom bundles. Enhance your team's productivity without contracts!
+description: Overview of Phase2’s hosted Team Foundation Server (TFS) service, including features, pricing, backup, scalability, integration, and support details.
 ResourceId: UAYEfY1bHiv
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: hosted-tfs-and-cheap-from-phase2
 aliases:
-- /resources/UAYEfY1bHiv
 - /resources/blog/hosted-tfs-and-cheap-.from-phase2
+- /resources/UAYEfY1bHiv
 aliasesArchive:
 - /blog/hosted-tfs-and-cheap-from-phase2
 - /hosted-tfs-and-cheap-from-phase2
@@ -30,6 +30,9 @@ tags: []
 preview: metro-sharepoint-128-link-2-2.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:22:53Z
+concepts: []
 
 ---
 [![image](images/21c33c4198cb_76CA-image_thumb_2-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-21c33c4198cb_76CA-image_6.png)

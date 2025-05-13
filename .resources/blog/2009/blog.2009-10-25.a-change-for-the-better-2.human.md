@@ -1,6 +1,6 @@
 ---
 title: 'A change for the better #2 - Aggreko to SSW'
-description: Discover my journey from Aggreko to SSW as a Senior Software Architect, embracing change and productivity through innovative rules and practices.
+description: Describes a career move from Aggreko to SSW, focusing on software architecture, ALM, TFS migrations, and applying productivity rules in team environments.
 ResourceId: 4gwofOJZOmj
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-SSWLogo-128-link-3-1.png
+Watermarks:
+  description: 2025-05-13T15:23:03Z
+concepts: []
 
 ---
 In the last 2+ years at Aggreko I have worked with Visual Studio 2008 Team Foundation Server, Office SharePoint Server 2007 and a number of WPF, Silverlight and ASP.NET projects.

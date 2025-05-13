@@ -1,6 +1,6 @@
 ---
 title: Project of Projects with team Foundation Server 2010
-description: Discover best practices for using Team Foundation Server 2010 effectively. Learn to structure projects intuitively for enhanced collaboration and efficiency.
+description: Guidance on structuring projects in Team Foundation Server 2010 using Areas, Iterations, source code organisation, work item queries, and build naming for clarity and scalability.
 ResourceId: qiY3IH2aMYV
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2010-128-link-8-8.png
+Watermarks:
+  description: 2025-05-13T15:11:19Z
+concepts: []
 
 ---
 It is pretty much [accepted that you should use Areas](http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx) instead of having many small Team Projects when you are using Team Foundation Server 2010. I have implemented this scenario many times and this is the current iteration of layout and considerations.

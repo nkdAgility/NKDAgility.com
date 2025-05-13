@@ -1,6 +1,6 @@
 ---
 title: A perfect match TFS and DLR
-description: Discover how to streamline TFS check-in policies using the Dynamic Language Runtime. Simplify your development process with innovative solutions in Visual Studio 2010!
+description: Explores integrating Team Foundation Server check-in policies with the Dynamic Language Runtime to enable flexible, centralised policy management across clients.
 ResourceId: JlC3Gm8IgO8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2010-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T15:23:25Z
+concepts: []
 
 ---
 [![ConfigurationRequired](images/Aperfictmatch_701B-ConfigurationRequired_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Aperfictmatch_701B-ConfigurationRequired_2.jpg) I have always been annoyed with the mechanics of the Team Foundation Server check-in policies. I understand the limitations, but having to have a specific policy installed on every developers computer before you can use it is slightly ridicules and practically unmanageable. Why is there not a way to have a single installation that allows you to select any policy you want and have it execute in the desired manor on every client, including web clients?

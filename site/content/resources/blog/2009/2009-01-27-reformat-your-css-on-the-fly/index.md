@@ -1,6 +1,6 @@
 ---
 title: Reformat your CSS on the fly
-description: Learn how to dynamically reformat your CSS for different environments using .NET. Simplify your web development process and enhance your workflow today!
+description: Learn how to use a .NET HTTP handler to dynamically adjust CSS file paths, ensuring images and resources load correctly across different web application locations.
 ResourceId: elcSY_VSAVs
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-2-1.png
+Watermarks:
+  description: 2025-05-13T16:21:50Z
+concepts: []
 
 ---
 Have you ever, when developing a website, been frustrated when you get a different result when you deploy your application to [http://site/](http://site/) and [http://site/app/](http://site/app/).

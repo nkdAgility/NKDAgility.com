@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: moving-onedrive-business-files-different-drive
 aliases:
-- /blog/moving-onedrive-business-files-different-drive
-- /moving-onedrive-business-files-different-drive
-- /moving-onedrive-for-business-files-to-a-different-drive
-- /blog/moving-onedrive-for-business-files-to-a-different-drive
 - /resources/qgSgXAu_d6a
-- /resources/blog/moving-onedrive-business-files-different-drive
 aliasesArchive:
 - /blog/moving-onedrive-business-files-different-drive
 - /moving-onedrive-business-files-different-drive
@@ -35,6 +30,8 @@ categories:
 preview: clip_image001-1-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:49Z
+concepts:
+- Method
 
 ---
 I recent ran into a problem where my OneDrive files were taking up too much space on my main drive and preventing [Windows]({{< ref "/tags/windows" >}}) 10 updates on the Insider Program. This works for both OneDrive consumer application and the new OnDrive for Business beta application.

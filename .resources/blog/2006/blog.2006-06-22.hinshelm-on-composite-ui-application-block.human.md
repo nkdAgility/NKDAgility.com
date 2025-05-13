@@ -1,6 +1,6 @@
 ---
 title: Adding ToolStripPanel UI Adapter Support to the Composite UI Application Block
-description: Learn how to enhance the Composite UI Application Block with ToolStripPanel support. Discover code solutions and best practices for UI adaptation.
+description: Explains how to extend the Composite UI Application Block to support ToolStripPanel UI adapters, enabling dynamic ToolStrip integration and customisation in CAB applications.
 ResourceId: y_vlPh65_5Q
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:30:07Z
+concepts: []
 
 ---
 I was very surprised to find that CAB did not support a higher-level component like the ToolStrip in its basic implementation. I resolved to fix this and added an adapter and factory for the ToolStripPanel initially, but I encountered issues with the ToolStripContainer. As my first post, here is the ToolStripPanel code.

@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: vsts-sync-migration-tool-update-bugfix
 aliases:
-- /blog/vsts-sync-migration-tool-update-bugfix
-- /vsts-sync-migration-tool-update-bugfix
-- /vsts-sync-migration-tool-update-and-bugfix
-- /blog/vsts-sync-migration-tool-update-and-bugfix
 - /resources/QO9MQIxxcoy
-- /resources/blog/vsts-sync-migration-tool-update-bugfix
 aliasesArchive:
 - /blog/vsts-sync-migration-tool-update-bugfix
 - /vsts-sync-migration-tool-update-bugfix
@@ -33,6 +28,8 @@ categories:
 preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:35Z
+concepts:
+- Tool
 
 ---
 The [VSTS Sync Migration tools](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) have been updated with new features and bug fixes for common issues reported by users.

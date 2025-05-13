@@ -38,6 +38,7 @@ tags:
 - Software Development
 Watermarks:
   description: 2025-05-07T13:15:38Z
+concepts: []
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards [DevOps]({{< ref "/categories/devops" >}}) practices like [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) to facilitate shortening the feedback loops.

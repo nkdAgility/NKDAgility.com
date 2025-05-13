@@ -1,6 +1,6 @@
 ---
 title: Some thoughts on .NET 3.0 from LinkedIn
-description: Explore insights on adopting .NET 3.0 for new applications, its advantages over existing technologies, and the future of Microsoft’s development tools.
+description: Insights on adopting .NET 3.0 for new applications, its features like WPF, WF, WCF, CardSpace, and comparisons with BizTalk, plus upgrade considerations for organisations.
 ResourceId: L_rhObh8cmE
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: some-thoughts-on-net-3-0-from-linkedin
 aliases:
-- /resources/L_rhObh8cmE
 - /resources/blog/some-thoughts-on-.net-3.0-from-linkedin
+- /resources/L_rhObh8cmE
 aliasesArchive:
 - /blog/some-thoughts-on-net-3-0-from-linkedin
 - /some-thoughts-on-net-3-0-from-linkedin
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:29:17Z
+concepts: []
 
 ---
 I was asked on LinkedIn:

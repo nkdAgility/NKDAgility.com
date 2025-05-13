@@ -1,6 +1,6 @@
 ---
 title: VS2005 - Signtool requires CAPICOM version 2.1.0.1
-description: Resolve SignTool errors in VS2005 by installing CAPICOM 2.1.0.1. Follow our step-by-step guide to ensure smooth project publishing with ClickOnce.
+description: Learn how to resolve the "Signtool requires CAPICOM version 2.1.0.1" error in VS2005 by installing and registering capicom.dll for successful project publishing.
 ResourceId: XiAV2LaArje
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: vs2005-signtool-requires-capicom-version-2-1-0-1
 aliases:
-- /resources/XiAV2LaArje
 - /resources/blog/vs2005-signtool-requires-capicom-version-2.1.0.1
+- /resources/XiAV2LaArje
 aliasesArchive:
 - /blog/vs2005-signtool-requires-capicom-version-2-1-0-1
 - /vs2005-signtool-requires-capicom-version-2-1-0-1
@@ -31,6 +31,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:29:16Z
+concepts: []
 
 ---
 If you get the following error publishing a project,

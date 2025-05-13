@@ -1,6 +1,6 @@
 ---
 title: 'A change for the better #4 - Homecoming'
-description: Join Martin Hinshelwood on his journey back to Scotland, balancing family life and ALM consulting. Discover insights on agile practices and more!
+description: Details a move from the USA back to Scotland for family and education reasons, continuing ALM consulting, and plans to offer agile coaching and training in Europe.
 ResourceId: yryUrqeINBG
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-4-4.png
+Watermarks:
+  description: 2025-05-12T14:23:23Z
+concepts: []
 
 ---
 Yet another change for the better as I move in a few months back to Scotland to join my family. My flights are booked.

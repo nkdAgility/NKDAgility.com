@@ -1,6 +1,6 @@
 ---
 title: Hold on lads, I have an idea!
-description: Explore an innovative idea for managing hierarchical employee data with a user-friendly interface, enhancing organizational efficiency and collaboration.
+description: Proposal for an interface to view and edit company hierarchy data, enabling staff management, reorganisation, and integration with HR, Active Directory, and SharePoint systems.
 ResourceId: foVNVdAmeyw
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T16:25:38Z
+concepts: []
 
 ---
 ![lightbulb](images/lightbulb-2-2.gif) Something occured to me after seeing the [Family Show](http://www.vertigo.com/familyshow.aspx) application from [Vertigo](http://www.vertigo.com). If you have not seen this application it is definitely worth a look. What I want to achieve would be to display and allow the edit of company Higherarchical data through a similar interface to the one presented in Family Show.

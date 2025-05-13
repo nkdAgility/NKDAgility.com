@@ -1,6 +1,6 @@
 ---
 title: Where am I?
-description: Explore the innovative Locator project using LINQ and .NET 3.5 to track user locations in real-time, enhancing connectivity and efficiency in your workplace.
+description: Describes a .NET application that tracks users’ locations via IP, updates Active Directory, and uses LINQ for database queries, aiding internal office presence visibility.
 ResourceId: LIBAeHbeyk9
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-merilllynch-128-link-5-1.png
+Watermarks:
+  description: 2025-05-13T16:25:43Z
+concepts: []
 
 ---
 I decided that I should have a go at this LINQ thing, so as .NET 3.5 will be RTM at the end of the month I am using LINQ and .NET 3.5 in my new Locator project.

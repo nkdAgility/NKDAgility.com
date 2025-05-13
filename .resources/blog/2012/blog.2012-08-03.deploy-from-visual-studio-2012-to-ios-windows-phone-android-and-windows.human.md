@@ -1,6 +1,6 @@
 ---
 title: Deploy from Visual Studio 2012 to iOS, Windows Phone, Android and Windows
-description: Discover how to deploy apps from Visual Studio 2012 to multiple platforms like iOS, Android, and Windows, streamlining your development process effectively.
+description: Learn how to use Visual Studio 2012 and C# to build and deploy a single codebase to iOS, Android, Windows, and more, with options for generic or platform-specific UIs.
 ResourceId: n5gPXqsSzYn
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-5-5.png
+Watermarks:
+  description: 2025-05-13T15:08:26Z
+concepts: []
 
 ---
 Today I saw a demonstration by [ITR Mobility](http://itr-mobility.com/) of their line of business application support for having one code base, written in C# that can be deployed to practically any platform you like. Does that should like it would be of use to you? Coz it sure as hell sounds like I could use it. I want to build an app… but I want to build in Visual Studio and that would limit me to Windows Phone and I really don’t want to lead Objective C!

@@ -1,6 +1,6 @@
 ---
 title: SharePoint Content Request | What would you like to see?
-description: Explore the potential of SharePoint and TFS integration! Share your ideas for features that enhance collaboration and streamline processes in your intranet.
+description: Share your ideas for new SharePoint features, including better Team Foundation Server integration for both technical and non-technical users, and expanded TFS use cases.
 ResourceId: pyKCdDNWdPB
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ aliasesArchive:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-13T16:27:27Z
+concepts: []
 
 ---
 what-would-you-like-to-see-

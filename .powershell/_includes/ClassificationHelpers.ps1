@@ -29,6 +29,10 @@ function Get-CatalogHashtable {
             Write-WarningLog "FrontMatter is null for $($markdownMeta.FilePath). Skipping."
             continue
         }
+        if ($markdownMeta.FrontMatter.ignore) {
+            Write-WarningLog "Ignore $($markdownMeta.FilePath). Skipping."
+            continue
+        }
         $catalogHash[$markdownMeta.FrontMatter.Title] = $markdownMeta.FrontMatter
     }
 
@@ -637,7 +641,7 @@ function Get-ConfidenceFromAIResponse {
             "ai_penalty_details"   = if ($AIResponse.PSObject.Properties["penalty_details"]) { $AIResponse.penalty_details } else { $null }
             "final_score"          = $finalScore
             "reasoning"            = $AIResponse.reasoning
-            "reasoning_summery"    = if ($AIResponse.PSObject.Properties["reasoning_summery"]) { $AIResponse.reasoning_summery } else { $null }
+            "reasoning_summary"    = if ($AIResponse.PSObject.Properties["reasoning_summary"]) { $AIResponse.reasoning_summary } else { $null }
             "level"                = Get-ComputedLevel -confidence $finalScore
         }
     }

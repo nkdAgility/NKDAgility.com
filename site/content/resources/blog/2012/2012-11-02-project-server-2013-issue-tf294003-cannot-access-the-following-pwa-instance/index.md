@@ -1,6 +1,6 @@
 ---
 title: 'Project Server 2013 Issue - TF294003: Cannot access the following PWA instance'
-description: Resolve the TF294003 error in Project Server 2013 with our step-by-step guide. Learn how to configure permissions for seamless integration with TFS 2012.
+description: Explains how to resolve TF294003 errors when connecting Team Foundation Server 2012 to Project Server 2013 by updating the TFS service account permissions.
 ResourceId: YXA8oHuhkaD
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-6-6.png
+Watermarks:
+  description: 2025-05-13T15:07:17Z
+concepts: []
 
 ---
 When you try to call the binding command to map a Team Project Collection in Team Foundation Server 2012 to a Project Server 2013 Web Instance you can get a “TF294003” error.

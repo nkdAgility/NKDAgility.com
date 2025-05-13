@@ -1,6 +1,6 @@
 ---
 title: Wakoopa
-description: Explore Wakoopa, an app that tracks your software usage and provides insightful stats. Join the Microsoft MVP team and enhance your productivity today!
+description: Tracks and analyses your software usage, providing detailed statistics on application activity and allowing users to join teams or view individual app stats.
 ResourceId: -dqfdSPfCHx
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -23,6 +23,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:22:48Z
+concepts: []
 
 ---
 I am having a little bit of fun with this application and I though I would share. it logs all of the applications that you are using and gives you stats on it. How about joining the [Microsoft MVP](http://wakoopa.com/teams/MicrosoftMVP) (MVP’s only please) team, or creating your own…

@@ -1,6 +1,6 @@
 ---
 title: 'TFS Integration Tools - Issue: TFS WIT invalid submission conflict type'
-description: Resolve TFS WIT invalid submission conflicts with expert tips on configuration and permissions. Ensure smooth integration with TFS Integration Tools today!
+description: Explains how to resolve the "TFS WIT invalid submission conflict" in TFS Integration Tools by adjusting permissions and enabling bypass-rule submission for successful configuration.
 ResourceId: vrpjXVvhpYA
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-2-2.png
+Watermarks:
+  description: 2025-05-13T15:07:36Z
+concepts: []
 
 ---
 Immediately after configuring the TFS Integration Tools you receive a  TFS WIT invalid submission conflict type that states that the source item is invalid.

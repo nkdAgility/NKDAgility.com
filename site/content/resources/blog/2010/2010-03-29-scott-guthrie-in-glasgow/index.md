@@ -1,6 +1,6 @@
 ---
 title: Scott Guthrie in Glasgow
-description: Join Scott Guthrie in Glasgow as he unveils the latest in Visual Studio 2010, Silverlight 4, and Windows Phone 7. Discover key insights and innovations!
+description: Scott Guthrie presented new features in Visual Studio 2010, Silverlight 4, ASP.NET MVC 2, and Windows Phone 7 during his Glasgow tour, with live demos and insights.
 ResourceId: JkUaXsGbwTq
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2010-128-link-2-1.png
+Watermarks:
+  description: 2025-05-13T15:22:26Z
+concepts: []
 
 ---
 ![redshirt[1]](images/ScottGuthrieinGlagsow_8765-redshirt1_-3-2.jpg)Last week Scott Guthrie was in Glasgow for his new [Guathon](http://developerdeveloperdeveloper.com/guglas/) tour, which was a roaring success. Scott did talks on the new features in Visual Studio 2010, Silverlight 4, ASP.NET MVC 2 and Windows Phone 7. Scott talked from 10am till 4pm, so this can only contain what I remember and I am sure lots of things he discussed just went in one ear and out another, however I have tried to capture at least all of my Ohh’s and Ahh’s.

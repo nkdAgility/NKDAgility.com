@@ -1,6 +1,6 @@
 ---
 title: 'Subversion to TFS 2010: Dealing with invalid Subversion SSL certificates and migrations'
-description: Learn how to tackle invalid Subversion SSL certificates during your migration to TFS 2010. Overcome common errors and streamline your version control process!
+description: Explains how invalid Subversion SSL certificates can block SVN to TFS 2010 migrations, causing connection errors, and details steps to resolve certificate issues.
 ResourceId: OqcEk7HmSwT
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 - Troubleshooting
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:18Z
+concepts: []
 
 ---
 ![subversion](images/subversion-7-7.png "subversion")

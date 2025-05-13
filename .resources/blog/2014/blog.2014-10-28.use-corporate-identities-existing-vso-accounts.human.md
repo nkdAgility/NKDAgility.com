@@ -1,6 +1,6 @@
 ---
 title: Use corporate identities with existing VSO accounts
-description: Learn how to configure ADFS for seamless SSO with existing VSO accounts, ensuring continuity and easy access to Azure and Office 365. Get started now!
+description: Learn how to enable seamless single sign-on for Visual Studio Online by integrating corporate identities via Active Directory and Azure, ensuring account continuity and access.
 ResourceId: yIJgOpFCdJE
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-11-11.png
+Watermarks:
+  description: 2025-05-12T14:20:50Z
+concepts: []
 
 ---
 If you configure Active Directory Federated Services (ADFS) you can use corporate identities with existing VSO accounts. Link to your internal domain and you can get a completely seamless Single-Sign-on from your local network to the cloud for Office 365, SharePoint Online, and now Visual Studio Online (VSO).

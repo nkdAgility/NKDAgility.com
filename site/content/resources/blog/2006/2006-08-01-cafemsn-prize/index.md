@@ -1,6 +1,6 @@
 ---
 title: CafeMSN Prize
-description: Discover how I won Amazon vouchers from Microsoft twice through CafeMSN! Join me in celebrating this fun achievement and learn more about my experience.
+description: Awarded two Amazon vouchers by Microsoft for providing helpful answers on CafeMSN, earning a total of $20 in recognition of contributions to the platform.
 ResourceId: lDSK1w8_5AB
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:30:04Z
+concepts: []
 
 ---
 I managed to win an amazon voucher from Microsoft for my answers on cafemsn, not once but twice!

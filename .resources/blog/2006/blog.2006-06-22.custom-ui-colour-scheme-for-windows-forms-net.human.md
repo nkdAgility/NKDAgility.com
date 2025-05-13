@@ -1,6 +1,6 @@
 ---
 title: Custom UI colour scheme for Windows Forms .NET
-description: Learn how to customize your Windows Forms UI with a unique color scheme using .NET. Enhance your application's look effortlessly with our step-by-step guide!
+description: Learn how to customise Windows Forms ToolStrip, MainMenu, and StatusBar colours in .NET by creating a custom ColorTable and applying it with a custom renderer.
 ResourceId: 2vSr2gsP4Rt
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: custom-ui-colour-scheme-for-windows-forms-net
 aliases:
-- /resources/2vSr2gsP4Rt
 - /resources/blog/custom-ui-colour-scheme-for-windows-forms-.net
+- /resources/2vSr2gsP4Rt
 aliasesArchive:
 - /blog/custom-ui-colour-scheme-for-windows-forms-net
 - /custom-ui-colour-scheme-for-windows-forms-net
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:30:06Z
+concepts: []
 
 ---
 The easyest way to customise you display of your ToolStrip, MainMenu and StatusBar is to use a custom ColorTable.

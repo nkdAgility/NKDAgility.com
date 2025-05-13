@@ -39,6 +39,7 @@ categories:
 preview: image-4-5-5.png
 Watermarks:
   description: 2025-05-07T13:14:59Z
+concepts: []
 
 ---
 In the empirical world, we have 3 key skill areas of accountability that are needed to effectively deliver products of the highest possible value! We need Influencers that can provide [leadership]({{< ref "/categories/leadership" >}}) and create environments within which groups of people can organise the work. I consider this the Leadership Track where you have [Scrum]({{< ref "/categories/scrum" >}}) Masters, Coaches, and CEO. We need Entrepreneurs who can have a vision and project knowledge and understanding of that vision to the people that need to make that vision happen. This is the Value Track and may be made up of Product Owners, Analysts, and Subject Matter Experts. Last we have the Makers who are the ones who do the work that brings the product to life. They are on the Technical Track and focus on turning the vision into a reality. They have many skills and may have coders, testers, and other experts...

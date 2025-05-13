@@ -1,6 +1,6 @@
 ---
 title: TFS 2012 Update 1 - TF400432 We were unable to connect to the SharePoint Central Administration
-description: Resolve the TF400432 error in TFS 2012 Update 1 and connect to SharePoint Central Administration effortlessly with our step-by-step troubleshooting guide.
+description: Explains how to resolve TF400432 errors during TFS 2012 Update 1 upgrades by correcting mismatched SharePoint Central Administration port settings in TFS configuration.
 ResourceId: 68-m_aV0Njz
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-3-3.png
+Watermarks:
+  description: 2025-05-13T15:07:03Z
+concepts: []
 
 ---
 When running the upgrade from Team Foundation Server 2012 to Team Foundation Server 2012 Update 1 you get a TF400432 error stating that the Team Foundation Server configuration was unable to connect to SharePoint administration site.

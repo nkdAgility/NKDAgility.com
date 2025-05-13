@@ -1,6 +1,6 @@
 ---
 title: Merry Christmas
-description: Celebrate the season with heartfelt eCards from the Hinshelwood family! Share joy and laughter this Christmas with fun ElfYourself creations.
+description: Seasonal greetings with links to create and send ElfYourself eCards, plus troubleshooting tips for viewing animated holiday cards online.
 ResourceId: MUY1jFEETH6
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ categories:
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Miscellaneous
+Watermarks:
+  description: 2025-05-13T16:22:08Z
+concepts: []
 
 ---
 With many people skipping off early for their holly bags, me included.. I thought I should send this out now…

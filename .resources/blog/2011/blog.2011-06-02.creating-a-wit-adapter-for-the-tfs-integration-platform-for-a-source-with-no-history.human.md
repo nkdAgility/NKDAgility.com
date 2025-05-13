@@ -1,6 +1,6 @@
 ---
 title: Creating a WIT Adapter for the TFS Integration Platform for a source with no history
-description: Learn how to create a WIT adapter for the TFS Integration Platform, enabling seamless integration with Test Track Pro, even without historical data.
+description: Explains how to build a TFS Integration Platform Work Item Tracking (WIT) adapter for a source system without history, covering versioning, field mapping, and error handling.
 ResourceId: bSv-E4Y5zk0
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-4-4.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:46Z
+concepts: []
 
 ---
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image.png)I have recently been working on a TFS Integration Platform Adapter for integrating with Test Track Pro. The problem with TTP is that it does not contain any history.

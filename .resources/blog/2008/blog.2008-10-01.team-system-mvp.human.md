@@ -1,6 +1,6 @@
 ---
 title: Team System MVP
-description: Join Martin Hinshelwood as he celebrates becoming a Team System MVP, sharing insights and gratitude for this prestigious recognition in the tech community.
+description: Recognition as a Microsoft Team System MVP, highlighting the award’s significance, annual renewal, and acknowledgment of peers in the Application Lifecycle Management field.
 ResourceId: -4be4NdCc9K
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-award-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:04Z
+concepts: []
 
 ---
 Well, I have just joined the auspicious ranks of [Team System MVP’s](https://mvp.support.microsoft.com/communities/mvp.aspx?product=1&competency=Team+System), now numbering 73 worldwide. You can see [my profile](https://mvp.support.microsoft.com/profile/Martin.Hinshelwood) on the MVP site. My name will now appear along side [Mitch Denny](https://mvp.support.microsoft.com/profile=2975269C-7D9E-46AE-A9DF-3E410887F30E) and [Tiago Pascoal](https://mvp.support.microsoft.com/profile=1874DC2D-2365-499A-8BD5-BF2D4702F340). Wow… I have a lot to aspire to…

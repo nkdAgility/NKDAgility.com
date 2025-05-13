@@ -1,6 +1,6 @@
 ---
 title: Microsoft, please help me diagnose TFS Administration permission issues!
-description: Struggling with TFS 2010 admin permissions? Join Martin Hinshelwood as he shares his troubleshooting journey and tips to resolve common issues effectively!
+description: Troubleshooting TFS 2010 admin permission errors caused by not running TfsConfig as administrator, despite correct group memberships and server permissions.
 ResourceId: ueNhR-7dVyg
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 preview: metro-SSWLogo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:22:39Z
+concepts: []
 
 ---
 I recently had a fun time trying to debug a permission issue I ran into using TFS 2010’s TfsConfig.

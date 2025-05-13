@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: are-technical-skills-required-to-be-a-scrum-master
 aliases:
-- /blog/are-technical-skills-required-to-be-a-scrum-master
-- /are-technical-skills-required-to-be-a-scrum-master
-- /are-technical-skills-required-to-be-a-scrum-master-
-- /blog/are-technical-skills-required-to-be-a-scrum-master-
 - /resources/foi9MYyc1vq
-- /resources/blog/are-technical-skills-required-to-be-a-scrum-master
 aliasesArchive:
 - /blog/are-technical-skills-required-to-be-a-scrum-master
 - /are-technical-skills-required-to-be-a-scrum-master
@@ -41,6 +36,7 @@ categories:
 preview: 1029723898-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:13Z
+concepts: []
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

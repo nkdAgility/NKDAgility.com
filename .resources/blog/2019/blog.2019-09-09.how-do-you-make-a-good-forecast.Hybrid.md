@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: how-do-you-make-a-good-forecast
 aliases:
-- /blog/how-do-you-make-a-good-forecast
-- /how-do-you-make-a-good-forecast
-- /how-do-you-make-a-good-forecast-
-- /blog/how-do-you-make-a-good-forecast-
 - /resources/fm9Rt6R7JZz
-- /resources/blog/how-do-you-make-a-good-forecast
 aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast
 - /how-do-you-make-a-good-forecast
@@ -40,6 +35,7 @@ categories:
 preview: 993957510-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:12Z
+concepts: []
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

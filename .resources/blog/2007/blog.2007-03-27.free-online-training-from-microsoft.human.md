@@ -1,6 +1,6 @@
 ---
 title: Free Online training from Microsoft
-description: Unlock your potential with free online training from Microsoft! Explore workshops and courses on Visual Studio 2005 and SQL Server 2005. Limited time only!
+description: Access free Microsoft online training workshops and courses on WSE 3.0 security, routing, and SQL Server 2005, suitable for .NET and Visual Studio 2005 users.
 ResourceId: BGC7JkOCdJs
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:28:59Z
+concepts: []
 
 ---
 Check out this blog from Steve. You will need to use the code in the comments as the other one is maxed out!

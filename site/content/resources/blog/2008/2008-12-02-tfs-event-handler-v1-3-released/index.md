@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler v1.3 released
-description: Discover the enhanced TFS Event Handler v1.3, simplifying notifications for Team Foundation Server users. Streamline alerts and improve team collaboration!
+description: TFS Event Handler v1.3 automates work item notifications in Team Foundation Server 2008, now supporting group alerts and custom event handler extensions. .NET 3.5 SP1 required.
 ResourceId: 5utkJgImhFT
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-v1-3-released
 aliases:
-- /resources/5utkJgImhFT
 - /resources/blog/tfs-event-handler-v1.3-released
+- /resources/5utkJgImhFT
 aliasesArchive:
 - /blog/tfs-event-handler-v1-3-released
 - /tfs-event-handler-v1-3-released
@@ -26,6 +26,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:22:14Z
+concepts: []
 
 ---
 Updated and improved for Team System 2008.

@@ -20,8 +20,7 @@ $hugoMarkdownList = @()
 $classes | ForEach-Object { 
     $hugoMarkdown = Get-HugoMarkdown -Path $_.FullName
     $hugoMarkdownList += $hugoMarkdown
-}
-
+} 
 
 $distinctClassificationTypes = $hugoMarkdownList |
 ForEach-Object { $_.FrontMatter.ClassificationType } |
@@ -80,8 +79,16 @@ $TotalFiles = $hugoMarkdownList.Count
 $Counter = 0
 
 # $hugoMarkdownList = @($hugoMarkdownList | Where-Object { $_.FrontMatter.title -eq "Deployment Frequency" })
+$sortedList = $hugoMarkdownList | Sort-Object {
+    if ($_.FrontMatter.Contains('weight') -and $_.FrontMatter.weight -ne $null) {
+        $_.FrontMatter.weight
+    }
+    else {
+        [int]::MaxValue
+    }
+}
 
-foreach ($hugoMarkdown in $hugoMarkdownList) {
+foreach ($hugoMarkdown in $sortedList ) {
     if ($hugoMarkdown.FrontMatter.ignore) {
         Write-InfoLog "Skipping post: $(Resolve-Path -Path $hugoMarkdown.FilePath -Relative)"
         $Counter++
@@ -127,6 +134,22 @@ foreach ($hugoMarkdown in $hugoMarkdownList) {
         # Update the description in the front matter
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' 
     }
+
+    if (-not $hugoMarkdown.FrontMatter.icon -or $hugoMarkdown.FrontMatter.icon -match "none") {
+        $currentIcons = @{}; $hugoMarkdownList | ForEach-Object { if ($_ -and $_.FrontMatter -and $_.FrontMatter.title -and $_.FrontMatter.icon) { $currentIcons[$_.FrontMatter.title] = $_.FrontMatter.icon } }
+        # Generate a new description using OpenAI
+        $iconprompt = Get-Prompt -PromptName "classification-icon.md" -Parameters @{
+            title        = $hugoMarkdown.FrontMatter.title
+            abstract     = $hugoMarkdown.FrontMatter.abstract
+            currentIcons = $currentIcons | ConvertTo-Json -Depth 5
+        }
+        $icon = Get-OpenAIResponse -Prompt $iconprompt
+        # Update the description in the front matter
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'icon' -fieldValue $icon -addAfter 'date' 
+    }
+
+
+
     if (-not $hugoMarkdown.FrontMatter.Instructions) {
         # Generate a new Instructions using OpenAI
         $prompt = Get-Prompt -PromptName "classification-instructions.md" -Parameters @{

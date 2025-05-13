@@ -1,6 +1,6 @@
 ---
 title: Installing Eclipse on Windows 8 and connecting to TFS 2012
-description: Learn how to install Eclipse on Windows 8 and connect to TFS 2012 effortlessly. Perfect for Java developers looking to enhance their ALM strategy!
+description: Step-by-step guide to installing Eclipse and the Java Development Kit on Windows 8, then connecting Eclipse to Team Foundation Server (TFS) 2012 using Team Explorer Everywhere.
 ResourceId: vuVjEWsY5Av
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-12-12.png
+Watermarks:
+  description: 2025-05-13T15:08:57Z
+concepts: []
 
 ---
 I will be running a bunch of demos on a couple of weeks with TFS & Eclipse working together. Although I have a cloud instance that I can connect to, what about when I have no network.

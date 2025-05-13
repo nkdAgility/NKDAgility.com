@@ -1,6 +1,6 @@
 ---
 title: Migration from TF Service to TF Server with the TFS Integration Platform
-description: Learn how to seamlessly migrate from TF Service to TF Server using the TFS Integration Platform. Ensure compliance and protect your data effectively!
+description: Guide to migrating data from Team Foundation Service to Team Foundation Server using the TFS Integration Platform, including user and work item mapping steps.
 ResourceId: M3QCV-Dusfq
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 - Install and Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:06:39Z
+concepts: []
 
 ---
 Are you worried that you will not be able to migrate from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) when they start charging for it and you don’t want to pay? Fear not as we have the technology to migration from TF Service to TF Server with the TFS Integration Platform.

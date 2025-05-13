@@ -1,6 +1,6 @@
 ---
 title: 'Office 2013 Issue: There is not enough free memory to run this program in Outlook 2013'
-description: Struggling with 'not enough free memory' errors in Outlook 2013? Discover effective workarounds and solutions to enhance your email experience!
+description: Explains causes and solutions for the "not enough free memory" error in Outlook 2013, including disabling shared folder downloads and adjusting Exchange account settings.
 ResourceId: 2slV7lVD3rC
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-7-7.png
+Watermarks:
+  description: 2025-05-13T15:08:34Z
+concepts: []
 
 ---
 You get a “There is not enough free memory to run this program. Quit one or more programs, and try again.” when trying to do activities in Outlook 2013.

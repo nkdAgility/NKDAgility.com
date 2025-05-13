@@ -1,6 +1,6 @@
 ---
 title: Deep vein thrombosis (DVT)
-description: Discover the urgent need for DVT awareness and support a petition for genetic testing to prevent future tragedies. Join the fight for change today!
+description: Highlights the risks of deep vein thrombosis, genetic factors like Factor V Leiden, and calls for increased awareness, testing, and early detection to prevent deaths.
 ResourceId: _7Yp1RZb_8I
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: deep-vein-thrombosis-dvt
 aliases:
-- /resources/_7Yp1RZb_8I
 - /resources/blog/deep-vein-thrombosis-dvt
+- /resources/_7Yp1RZb_8I
 aliasesArchive:
 - /blog/deep-vein-thrombosis-dvt
 - /deep-vein-thrombosis-dvt
@@ -28,6 +28,9 @@ categories:
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Miscellaneous
+Watermarks:
+  description: 2025-05-13T16:29:12Z
+concepts: []
 
 ---
 As most of my friends know a very good friend of mine, Katie McPherson died 4 years ago of DVT. I would like to share a letter I received from her brother, another very good friend of mine, and I would ask you to sign the petition.

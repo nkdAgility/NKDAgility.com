@@ -1,6 +1,6 @@
 ---
 title: Software Development Industrial Revolution
-description: Explore the software development industrial revolution and learn how Team Foundation Server can enhance collaboration and speed in IT projects. Join the change!
+description: Explores how industrialising software development with tools like Team Foundation Server boosts speed, collaboration, and scalability in competitive industries.
 ResourceId: 3YR-l0WfbLK
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:29:24Z
+concepts: []
 
 ---
 I found out the other day that there is another implementation of TFS in the company. Not even the principal UK Architect, who recently visited the US knew of this. I do not think that it has been communicated outside of the department. That is an inevitable aspect of such a large company. The only way to get things working is to keep your head down until you have a viable solution, otherwise you get blown out of the water as soon as department z resizes that you product my do away with their solution for one part of of a larger system. Sillyness...

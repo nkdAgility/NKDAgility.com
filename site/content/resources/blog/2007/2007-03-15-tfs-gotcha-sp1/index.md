@@ -1,6 +1,6 @@
 ---
 title: TFS Gotcha (SP1)
-description: Struggling with TFS SP1 installation? Discover essential steps and solutions to troubleshoot your Team Foundation Server setup effectively. Get back on track!
+description: Step-by-step guide to resolving common installation and repair issues with Team Foundation Server SP1 on data and application tiers, including rollback options.
 ResourceId: ZlJuM9fduW9
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-gotcha-sp1
 aliases:
-- /resources/ZlJuM9fduW9
 - /resources/blog/tfs-gotcha-sp1
+- /resources/ZlJuM9fduW9
 aliasesArchive:
 - /blog/tfs-gotcha-sp1
 - /tfs-gotcha-sp1
@@ -30,6 +30,9 @@ tags:
 - Install and Configuration
 - Troubleshooting
 - System Configuration
+Watermarks:
+  description: 2025-05-13T16:29:09Z
+concepts: []
 
 ---
 If you are out there and you have installed SP1 for Team Foundation Server you probably went through as much pain as I did...

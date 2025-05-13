@@ -1,6 +1,6 @@
 ---
 title: Creating a WPF Work Item Control
-description: Learn to create a custom WPF Work Item Control for Visual Studio Team System, enhancing user interactions with requirements and change requests effectively.
+description: Learn how to build a custom WPF work item control for Visual Studio Team System, enabling WPF UI integration in work item forms using a generic wrapper and IWorkItemControl.
 ResourceId: 4vBEBY-yvDB
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-6-6.png
+Watermarks:
+  description: 2025-05-13T16:23:07Z
+concepts: []
 
 ---
 I have a little custom control I need added to my [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") projects. This control will allow specific groups of users as representatives of Advocacy groups with in the life cycle model to sign off a Requirement or Change Request from within Visual Studio.

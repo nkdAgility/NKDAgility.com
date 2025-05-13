@@ -1,6 +1,6 @@
 ---
-title: Blogging about...
-description: Join Martin Hinshelwood as he shares insights on TFS, Visual Studio, and personal reflections during his career transition. Discover his journey and tips!
+title: Blogging about
+description: A personal update covering job changes, technical projects with TFS and VS2008, learning goals, and life events, including job interviews and family milestones.
 ResourceId: mYU-gZ_KBo3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -16,18 +16,17 @@ resourceTypes: blog
 slug: blogging-about
 aliases:
 - /resources/mYU-gZ_KBo3
-- /resources/blog/blogging-about...
 aliasesArchive:
 - /blog/blogging-about
-- /blogging-about---
-- /blog/blogging-about---
 - /blogging-about
 - /resources/blog/blogging-about
-- /resources/blog/blogging-about...
 tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:12Z
+concepts: []
 
 ---
 Well, I have not done one of these is a while...I could say that I have been busy, but I have not been :)

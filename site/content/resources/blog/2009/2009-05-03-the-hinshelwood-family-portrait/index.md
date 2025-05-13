@@ -1,6 +1,6 @@
 ---
 title: The Hinshelwood Family Portrait
-description: Discover the joy of family photography with The Hinshelwood Family Portrait. Explore stunning shots and heartfelt moments captured by Perfect Expressions.
+description: A family shares their positive experience with a professional photo shoot, highlighting the photographer’s skill, patience with children, and quality of the resulting portraits.
 ResourceId: HklqA9qkC3L
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T15:24:09Z
+concepts: []
 
 ---
 For my wife’s birthday my brother and his wife bought us a professional photo shoot, and the photographer got some [fantastic shots](http://perfectexpressions.co.uk/blog/2009/05/the-hinshelwood-family-portrait-shoot/). I love the one of my daughter jumping. We have had a couple of go’s at this before, but we have always been disappointed in both the photographer and the results.

@@ -1,6 +1,6 @@
 ---
 title: 'DDD Scotland v2.0: 2nd of May 2009'
-description: Join us for Developer Day Scotland 2009! Discover insights, connect with peers, and enjoy a fantastic event in Glasgow. Will you be there?
+description: Developer Day Scotland returns on 2 May 2009, bringing together software developers for talks, networking, and community events in Scotland’s tech scene.
 ResourceId: 6LNVlHaSuxS
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: ddd-scotland-v2-0-2nd-of-may-2009
 aliases:
-- /resources/6LNVlHaSuxS
 - /resources/blog/ddd-scotland-v2.0-2nd-of-may-2009
+- /resources/6LNVlHaSuxS
 aliasesArchive:
 - /blog/ddd-scotland-v2-0-2nd-of-may-2009
 - /ddd-scotland-v2-0-2nd-of-may-2009
@@ -28,6 +28,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:22:31Z
+concepts: []
 
 ---
 It seams that the event of the year is back! [Developer Day Scotland](http://developerdayscotland.com/) returns for a second year as [posted](http://idunno.org/archive/2008/11/12/hoots-mon-ddd-scotland-isnae-deed.aspx) by [Barry Dorrans](http://twitter.com/blowdart) in Glaswegien :)

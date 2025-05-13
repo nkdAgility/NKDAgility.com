@@ -1,6 +1,6 @@
 ---
 title: Windows Live Writer Beta 3
-description: Explore the challenges of installing Windows Live Writer Beta 3 in a corporate environment and discover the frustrations of bundled software installations.
+description: Discusses challenges installing Windows Live Writer Beta 3 in workplace environments due to bundled installers and network restrictions, with a workaround using direct downloads.
 ResourceId: 7OIuDx9W3kb
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:59Z
+concepts: []
 
 ---
 Well, a new version of WLW, [Windows Live Writer Beta 3](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!1421.entry), is [available](http://windowslivewriter.spaces.live.com/blog/cns!D85741BB5E0BE8AA!1421.entry). Its just a pity that I can't install it. Why do Microsoft insist on writing these bundle application for installing many products at once? I can see the point for home users, but at work you always get something blocked. They should provide the choice of using the bulk installer or using a direct download link. This would allow companies to unblock a specific URL without allowing users to download and install one of the other, **banned**, applications.

@@ -1,6 +1,6 @@
 ---
 title: Windows Server 2012 Core for dummies
-description: Master Windows Server 2012 Core with this beginner's guide. Learn essential command-line configurations for efficient server management and setup.
+description: Step-by-step guide to setting up and managing Windows Server 2012 Core using command-line tools, covering remote access, updates, networking, firewall, and domain joining.
 ResourceId: qtma311iiMY
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-server-instances-7-7.png
+Watermarks:
+  description: 2025-05-13T15:06:56Z
+concepts: []
 
 ---
 This is a short idiots guide to setting up Windows Server 2012 Core. Windows Server 2012 Core allows you to use less memory by getting rid of some peskie UI bits and bobs. Setting it up however is a little more challenging.

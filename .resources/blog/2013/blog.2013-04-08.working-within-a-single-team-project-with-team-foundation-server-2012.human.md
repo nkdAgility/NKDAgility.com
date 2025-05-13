@@ -1,6 +1,6 @@
 ---
 title: Working within a single Team Project with Team Foundation Server 2012
-description: Explore best practices for managing a single Team Project in TFS 2012, enhancing collaboration and efficiency across teams while minimizing administrative overhead.
+description: Explains how to organise teams, products, and projects within a single Team Project in Team Foundation Server 2012, covering design, security, and workflow considerations.
 ResourceId: mV9NzUQYyjY
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-5-5.png
+Watermarks:
+  description: 2025-05-13T15:06:40Z
+concepts: []
 
 ---
 Working within a single Team Project with Team Foundation Server 2012 provides a lot of benefits. There are however many design consideration for working within a single team project and we need to consider all of the complexities that is entails.

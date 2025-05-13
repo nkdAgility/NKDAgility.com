@@ -1,6 +1,6 @@
 ---
 title: Database corruption in TFS 2005 causes TF246017 during upgrade
-description: Discover how to resolve TF246017 during TFS 2005 to 2010 upgrades. Learn about database corruption fixes to ensure a smooth transition. Read more!
+description: Explains how database corruption in TFS 2005 can cause TF246017 errors during upgrade, and details using DBCC CHECKDB to diagnose and repair the issue.
 ResourceId: YVhqKOWo2QQ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:11:28Z
+concepts: []
 
 ---
 ![ErrorOcurred](images/UpgradingTFS2005toTFS2010_10E2E-ErrorOcurred_-2-2.jpg)Today I was on-site to do a test upgrade of TFS 2005 to TFS 2010 and we encountered an error that would have caused major delays while we investigated and perhaps requiring additional help from Microsoft.

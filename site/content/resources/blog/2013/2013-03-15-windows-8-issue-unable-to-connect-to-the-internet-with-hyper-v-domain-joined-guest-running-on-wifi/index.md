@@ -1,6 +1,6 @@
 ---
 title: 'Windows 8 Issue: Unable to connect to the internet with Hyper-V domain joined guest running on WiFi'
-description: Struggling with internet connectivity on Hyper-V guests in Windows 8? Discover solutions to fix Wi-Fi issues and optimize your network setup effectively!
+description: Fixes internet connectivity issues for Hyper-V domain-joined guests on Windows 8 WiFi by configuring all features in the Network Bridge settings. Suitable for troubleshooting.
 ResourceId: OPPj3aAz3P6
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: puzzle-issue-problem-128-link-5-5.png
+Watermarks:
+  description: 2025-05-13T15:06:53Z
+concepts: []
 
 ---
 I have recently created my own local domain and now I am unable to connect to the internet with Hyper-V domain joined guest running. It gets weirder as it only affects me when I am on a Wi-Fi connection.

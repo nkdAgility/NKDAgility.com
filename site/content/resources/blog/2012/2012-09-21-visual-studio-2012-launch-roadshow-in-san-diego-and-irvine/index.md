@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 2012 Launch RoadShows around the World
-description: Join the Visual Studio 2012 Launch RoadShows in San Diego and Irvine to explore new development practices and elevate your software quality. Don't miss out!
+description: Global Visual Studio 2012 launch events featuring keynotes on IT consumerisation and agile development, with sessions in the UK, US, and Netherlands.
 ResourceId: HtT5KwXieea
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-event-icon-3-3.png
+Watermarks:
+  description: 2025-05-13T15:07:34Z
+concepts: []
 
 ---
 Unless you have been living under a rock you might have noticed [a little launch event](http://www.microsoft.com/visualstudio) recently. Well to complement the launch Microsoft is running a bunch of Visual Studio 2012 Launch RoadShows around the world:

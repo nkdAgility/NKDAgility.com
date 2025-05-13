@@ -1,6 +1,6 @@
 ---
 title: Does your organisation have both Project Mangers as well as Product Owners?
-description: Explore the challenges of having both Project Managers and Product Owners in your organization. Discover how to achieve true agility and team alignment.
+description: Explores the challenges of having both Project Managers and Product Owners in teams, highlighting conflicts, reporting issues, and impacts on agile delivery and team focus.
 ResourceId: 2s_5i0e0NBx
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ categories:
 - Product Management
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
+Watermarks:
+  description: 2025-05-12T14:22:00Z
+concepts: []
 
 ---
 This is the dysfunction of teams with Project Managers as well as Product Owners. Does your organisation have both Project Mangers as well as Product Owners? If so, to whom do your teams report? What does it depend on? Because if it does depend then you are doing a disservice to your teams and will have difficulty moving towards greater agility. I have a customer right now that has this situation with cross application teams however there are additional complications.

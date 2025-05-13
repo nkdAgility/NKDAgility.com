@@ -1,6 +1,6 @@
 ---
 title: 'Wpf Ninject Dojo: The Data Provider'
-description: Explore the power of Ninject for WPF dependency injection in MVVM projects. Learn to create a custom DataSourceProvider for seamless data management!
+description: Explains how to use a custom NinjectDataProvider in WPF to enable dependency injection for ViewModels, improving flexibility and design-time support in MVVM projects.
 ResourceId: fiHZn7VEOpq
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2010-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:23:11Z
+concepts: []
 
 ---
 You have probably heard me go on about Unity a couple of times:

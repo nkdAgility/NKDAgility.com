@@ -1,6 +1,6 @@
 ---
 title: 'How-To: Display your Outlook calendar on you’re My Site'
-description: Learn how to display your Outlook calendar on your My Site with this step-by-step guide. Enhance your SharePoint experience effortlessly!
+description: Step-by-step guide to adding and configuring the Outlook calendar web part on your SharePoint My Site homepage using Outlook Web Access server settings.
 ResourceId: 9eJE-0v9BjB
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: how-to-display-your-outlook-calendar-on-youre-my-site
 aliases:
-- /resources/9eJE-0v9BjB
 - /resources/blog/how-to-display-your-outlook-calendar-on-you-re-my-site
+- /resources/9eJE-0v9BjB
 aliasesArchive:
 - /blog/how-to-display-your-outlook-calendar-on-youre-my-site
 - /how-to-display-your-outlook-calendar-on-youre-my-site
@@ -29,6 +29,9 @@ tags:
 preview: metro-sharepoint-128-link-6-6.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:22:56Z
+concepts: []
 
 ---
 I thought I should explain how to enable the "My Calendar" web part on you're my Site (homepage). Here is my "MySite", as you can see I have a horrible picture, but if you check out the red rectangle you will see the "My Calendar" control has already been added to your site.

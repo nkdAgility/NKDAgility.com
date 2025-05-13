@@ -1,6 +1,6 @@
 ---
 title: Microsoft's internal uptake of Team Foundation Server
-description: Explore Microsoft's internal adoption of Team Foundation Server, showcasing its impact on development teams and the future of Visual Studio. Discover more!
+description: Microsoft widely adopted Team Foundation Server internally, with 21 instances supporting 734 projects and 5,600 users, driving rapid product development and updates.
 ResourceId: 1NIc24-e5FY
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: microsofts-internal-uptake-of-team-foundation-server
 aliases:
-- /resources/1NIc24-e5FY
 - /resources/blog/microsoft-s-internal-uptake-of-team-foundation-server
+- /resources/1NIc24-e5FY
 aliasesArchive:
 - /blog/microsofts-internal-uptake-of-team-foundation-server
 - /microsofts-internal-uptake-of-team-foundation-server
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:57Z
+concepts: []
 
 ---
 I am very encouraged by [Brain Harry's blog](http://blogs.msdn.com/bharry/archive/2007/07/24/update-on-adoption-of-tfs-at-microsoft.aspx "update on adoption of tfs at microsoft") on [dogfooding](http://en.wikipedia.org/wiki/Dogfooding) at Microsoft. In my battles to get my company to use Team Foundation Server I recently contacted the manager of the most highly regarded development team in the company.

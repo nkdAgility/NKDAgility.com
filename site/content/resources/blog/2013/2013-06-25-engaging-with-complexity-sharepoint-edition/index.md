@@ -1,6 +1,6 @@
 ---
 title: Engaging with complexity - SharePoint Edition
-description: Explore complex SharePoint migrations with expert insights on consolidation and upgrades to SharePoint 2013. Simplify your transition today!
+description: Step-by-step guide to consolidating and upgrading multiple SharePoint 2010 sites to SharePoint 2013, including database migration, firewall setup, and user mapping.
 ResourceId: Lzmlul_Elhj
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:06:07Z
+concepts: []
 
 ---
 I have been working with a company in Silicon Valley that is doing one of the most complex Team Foundation Server migrations that I think I have ever seen. Just to pile on the complexity they also threw a SharePoint consolidation at me so I caught that as well.

@@ -1,6 +1,6 @@
 ---
 title: Connect a Test Controller to Team Foundation Service
-description: Learn how to connect a Test Controller to Team Foundation Service for streamlined automated deployment and testing. Simplify your configuration today!
+description: Explains how to install and configure a Test Controller to connect with Team Foundation Service for automated deployment and testing in cloud-based environments.
 ResourceId: D5NhnVpHAwD
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags:
 - Install and Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:06:43Z
+concepts: []
 
 ---
 Did you know that you can connect a Test Controller to Team Foundation Service? And if you can do that, can you create [standard environments for automated deployment and testing](http://blog.hinshelwood.com/standard-environments-for-automated-deployment-and-testing/ "Standard Environments for Automated Deployment and Testing") against the cloud?

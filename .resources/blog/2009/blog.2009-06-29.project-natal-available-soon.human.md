@@ -1,6 +1,6 @@
 ---
 title: Project Natal available soon
-description: Exciting news for Xbox fans! Project Natal is rumored to launch before Christmas for £121. Don't miss out—get ready to pre-order!
+description: Project Natal, a motion-sensing device for Xbox, is rumoured to launch before Christmas at around £121, with pre-orders expected to open soon.
 ResourceId: DomKUWOAmyb
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-xbox-360-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:23:38Z
+concepts: []
 
 ---
 I may be a little late to the game, but this rocks!

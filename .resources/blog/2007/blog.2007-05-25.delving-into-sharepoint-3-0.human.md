@@ -1,6 +1,6 @@
 ---
 title: Delving into SharePoint 3.0
-description: Explore the features of SharePoint 3.0 with Martin Hinshelwood as he shares insights on setting up an effective intranet and navigating its complexities.
+description: Explores key features and improvements in SharePoint 3.0, including setup experience, intranet creation, and initial impressions compared to previous versions.
 ResourceId: jXG5yABSps4
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: delving-into-sharepoint-3-0
 aliases:
-- /resources/jXG5yABSps4
 - /resources/blog/delving-into-sharepoint-3.0
+- /resources/jXG5yABSps4
 aliasesArchive:
 - /blog/delving-into-sharepoint-3-0
 - /delving-into-sharepoint-3-0
@@ -26,6 +26,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:19Z
+concepts: []
 
 ---
 Well, I have spent the afternoon delving into the features of SharePoint 3.0. As an extensive [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") user I have had a lot of exposure to SharePoint 2.0 and I always found it kinda _crap_...

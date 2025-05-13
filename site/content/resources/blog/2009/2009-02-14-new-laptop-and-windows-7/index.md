@@ -1,6 +1,6 @@
 ---
 title: New laptop and Windows 7
-description: Discover our journey to find the perfect pink laptop running Windows 7! Join us as we explore features, performance, and the ultimate WAF boost.
+description: A family upgrades to a Dell laptop running Windows 7, highlighting improved performance over Vista, user preferences, and buying options in the UK.
 ResourceId: XCiJC8QfDPG
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ categories:
 preview: nakedalm-logo-128-link-3-1.png
 tags:
 - Miscellaneous
+Watermarks:
+  description: 2025-05-13T16:21:46Z
+concepts: []
 
 ---
 We have needed a new laptop in the Hinshelwood household for a while now. My old laptop was 8 years old, and although it was a mobile desktop, it ran Vista like a dog… Now the main use of a laptop in our household is for internet and pictures, but I defiantly wanted to run Windows 7.

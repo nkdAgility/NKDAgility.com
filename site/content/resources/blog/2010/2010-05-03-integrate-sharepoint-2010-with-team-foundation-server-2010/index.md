@@ -1,6 +1,6 @@
 ---
 title: Integrate SharePoint 2010 with Team Foundation Server 2010
-description: Learn how to seamlessly integrate SharePoint 2010 with Team Foundation Server 2010 for enhanced project management and collaboration. Get started now!
+description: Step-by-step guide to integrating SharePoint 2010 with Team Foundation Server 2010, including installation, configuration, permissions, and managed paths setup.
 ResourceId: rZaFJwqThDs
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2010-128-link-15-15.png
+Watermarks:
+  description: 2025-05-13T15:22:01Z
+concepts: []
 
 ---
 Our client is using a brand new shiny installation of SharePoint 2010, so now we need to integrate SharePoint 2010 our upgraded Team Foundation Server 2010 instance into it.

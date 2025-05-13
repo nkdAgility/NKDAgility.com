@@ -46,6 +46,8 @@ categories:
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:09Z
+concepts:
+- Practice
 
 ---
 Many teams grapple with the intricacies of [Scrum]({{< ref "/categories/scrum" >}}), and one of the most pivotal components is the Sprint Goal. It's not just a fleeting thought or a mere list of tasks; it's a commitment, a promise, and a clear direction.

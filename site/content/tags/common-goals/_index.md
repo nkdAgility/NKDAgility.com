@@ -54,6 +54,7 @@ tags:
 - Agile Product Operating Model
 - Social Technologies
 - Team Collaboration
+icon: fa-flag-checkered
 
 ---
 Here’s a rewritten version of your text, reframed around **Common Goals** as the first principle:

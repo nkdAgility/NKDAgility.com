@@ -1,6 +1,6 @@
 ---
 title: 'Register For Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server'
-description: Register now for the beta exam 71-510 on Visual Studio 2005 Team Foundation Server. Secure your spot and advance your MCTS certification today!
+description: Learn how to register for the beta exam 70-510 on Visual Studio 2005 Team Foundation Server, including dates, locations, and registration details for global candidates.
 ResourceId: tQ69oSCcULR
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:29:14Z
+concepts: []
 
 ---
 Exam 70-510: TS: Visual Studio 2005 Team Foundation Server counts as credit towards the following certification.

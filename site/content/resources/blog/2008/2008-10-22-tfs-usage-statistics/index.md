@@ -1,6 +1,6 @@
 ---
 title: TFS Usage Statistics
-description: Explore TFS usage statistics, including user activity, work items, and version control metrics. Discover insights to enhance your team's productivity!
+description: Provides key statistics on Team Foundation Server usage, including user activity, work items, version control, builds, and recent command counts for project tracking.
 ResourceId: s5nBJ6ec37-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:22:55Z
+concepts: []
 
 ---
 Stats on out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Instance. Not much but growing.

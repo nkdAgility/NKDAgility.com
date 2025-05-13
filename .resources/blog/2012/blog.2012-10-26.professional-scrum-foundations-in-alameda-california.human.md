@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum Foundations in Alameda, California
-description: Join the Professional Scrum Foundations course in Alameda, CA, to enhance your team's agility and collaboration skills through practical, hands-on learning.
+description: Covers a two-day, hands-on Scrum.org course in Alameda, teaching Scrum principles, teamwork, and practical software delivery for all roles in the development process.
 ResourceId: If3c0gr1udB
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -33,6 +33,9 @@ tags:
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
+Watermarks:
+  description: 2025-05-13T15:07:21Z
+concepts: []
 
 ---
 Professional Scrum Foundations is my favourite course to teach as it balances fun and learning with practical experience.The [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course is from [Scrum.org](http://scrum.org) and, over two days covers all of the core concepts of Scrum.

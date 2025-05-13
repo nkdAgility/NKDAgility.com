@@ -1,6 +1,6 @@
 ---
 title: 'TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item'
-description: Resolve the TF237165 error in TFS Integration Tools with effective troubleshooting tips. Learn how to fix validation issues and streamline your workflow!
+description: Explains how to resolve the TF237165 error in TFS Integration Tools, caused by validation or mapping issues when updating work items during data migration.
 ResourceId: -dhZywZGtrn
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-2-2.png
+Watermarks:
+  description: 2025-05-13T15:08:39Z
+concepts: []
 
 ---
 While running an integration platform import you get a “TF237165: The Team Foundation Server could not update the work item because of a validation error on the server. This may happen because the work item has been modified or destroyed, or that you do not have permission to update that work item.”

@@ -1,6 +1,6 @@
 ---
 title: Upgrading to TFS 2010 Beta 1 and SQL Collation
-description: Learn how to tackle collation conflicts when upgrading to TFS 2010 Beta 1 from TFS 2008. Discover solutions to ensure a smooth transition!
+description: Explains issues upgrading from TFS 2008 to TFS 2010 Beta 1 due to SQL Server collation conflicts, error messages, and the need to align collation settings.
 ResourceId: NdEr9LWJ2ti
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:23:39Z
+concepts: []
 
 ---
 I have just finished installing [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 beta 1 and doing an upgrade of out TFS 2008 data. This did not go well…

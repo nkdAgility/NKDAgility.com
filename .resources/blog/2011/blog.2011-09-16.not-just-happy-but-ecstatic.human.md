@@ -1,6 +1,6 @@
 ---
 title: Not just happy, but ecstatic
-description: Discover how a consultant transformed a challenging deployment process into a streamlined success with TFS 2010, enhancing efficiency and collaboration.
+description: A consultant reflects on a successful Microsoft Dynamics deployment, improved build automation, and positive client feedback, inspiring interest in future UK and European projects.
 ResourceId: C7FpzXTFpU_
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:12Z
+concepts: []
 
 ---
 ![VS2008Upgraded_4](images/VS2008Upgraded_4-1-1.png "VS2008Upgraded_4")As a consultant I have customers. Unfortunately being a **consultant** rather than a **contractor** has the down side that I hardly ever here from my customers after my engagement ends.

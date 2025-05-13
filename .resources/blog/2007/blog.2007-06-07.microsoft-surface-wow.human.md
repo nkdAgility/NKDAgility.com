@@ -1,6 +1,6 @@
 ---
 title: 'Microsoft Surface: Wow'
-description: Discover the excitement of Microsoft Surface technology! Explore how this innovative device could revolutionize entertainment and your digital experience.
+description: Amazement at Microsoft Surface, a new interactive touchscreen device, highlighting its innovative features and potential impact on entertainment technology.
 ResourceId: FWXk82xEnqi
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:06Z
+concepts: []
 
 ---
 I have just looked at the [Surface first look](http://www.microsoft.com/surface/) site and I am truly amazed! I want one, really badly...

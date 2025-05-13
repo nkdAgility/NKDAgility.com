@@ -1,6 +1,6 @@
 ---
 title: Am I a stoner hippy?
-description: Explore the journey of a 'multi-dimensional free thinker' grappling with dyslexia, creativity, and the challenges of traditional education. Discover the gift within!
+description: Explores how dyslexia and multidimensional thinking influence creativity, learning styles, and perceptions, challenging stereotypes about free thinkers and "hippy" labels.
 ResourceId: CNzLcasBQF9
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T16:21:55Z
+concepts: []
 
 ---
 In my email signature, and in the title of my blog, I have the phrase “multi-dimensional free thinker”, and I was recently pulled up for it…

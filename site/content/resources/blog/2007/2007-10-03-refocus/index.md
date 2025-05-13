@@ -1,6 +1,6 @@
 ---
 title: Refocus
-description: Join Martin Hinshelwood as he refocuses on SharePoint 2007 and MOSS, sharing insights on enterprise deployment and integration challenges. Discover more!
+description: Discusses shifting focus to maintaining and migrating SharePoint 2003 sites, deploying MOSS 2007, and integrating business applications within an enterprise environment.
 ResourceId: ofk0IF885SJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,18 +15,20 @@ layout: blog
 resourceTypes: blog
 slug: refocus
 aliases:
-  - /resources/ofk0IF885SJ
-  - /resources/blog/refocus
+- /resources/ofk0IF885SJ
 aliasesArchive:
-  - /blog/refocus
-  - /refocus
-  - /resources/blog/refocus
+- /blog/refocus
+- /refocus
+- /resources/blog/refocus
 tags: []
 preview: metro-sharepoint-128-link-1-1.png
 categories:
-  - Uncategorized
----
+- Uncategorized
+Watermarks:
+  description: 2025-05-13T16:25:57Z
+concepts: []
 
+---
 You may have noticed that over the last month or so I have been neglecting my blog (too many personal posts) and my focus on development in general. This has been a temporary setback due mostly to starting a new job and not getting to play with Team Server at the moment (plus I had a knee operation the other week). So for now, I will be trying to focus more on Sharepoint 2007 / MOSS and the feature deficient Sharepoint 2003.
 
 My new job entails maintaining a heavily customized Sharepoint 2003 deployment and some other nick knacks, while deploying MOSS for the company I am now with. I am quickly expanding my knowledge of Sharepoint from that additional bit bolted onto Team Foundation Server to a more rounded look at its enterprise deployment and integration with other systems.

@@ -35,6 +35,7 @@ categories:
 preview: naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:11:25Z
+concepts: []
 
 ---
 Business Leaders face a key challenge when [scaling]({{< ref "/tags/scaling" >}}) their organisations effectively while maintaining the distinctiveness that made us successful in the first place. Many frameworks and methodologies, such as Scaled Agile Framework (SAFe) or the Spotify Model, promise a structured approach to scaling, but do they genuinely fit our unique needs? In this post, I aim to highlight the importance of creating our own scaling practices, highlighting that successful commercial software organizations have thrived by embracing their distinctiveness rather than adopting standardized approaches.

@@ -1,6 +1,6 @@
 ---
 title: Advanced Email Content addendum
-description: Explore the challenges of sending XBAPs via email and discover why this feature is essential for WPF presentations, forms, and demos. Join the discussion!
+description: Discusses the limitations of emailing XBAP applications, highlighting the impact on sharing WPF-based presentations, forms, and demos within the .NET ecosystem.
 ResourceId: MmuYvqDCRX7
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-merilllynch-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:29:03Z
+concepts: []
 
 ---
 [RE: What I Hate About XBAPs](http://nerddawg.blogspot.com/2006/11/re-what-i-hat...)

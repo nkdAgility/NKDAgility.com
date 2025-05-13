@@ -1,6 +1,6 @@
 ---
 title: Developing for SharePoint on your local computer
-description: Learn how to develop SharePoint solutions locally using Visual Studio 2008. Follow essential steps and tips to streamline your development process.
+description: Guide to setting up Visual Studio 2008 and required tools for developing and testing SharePoint solutions locally without a full SharePoint server installation.
 ResourceId: WDzxUI3sjlD
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:59Z
+concepts: []
 
 ---
 If you are wanting to developer solutions for SharePoint in Visual Studio 2008 then you need a couple of things to get started:

@@ -1,6 +1,6 @@
 ---
 title: Microsoft MyPhone service available to the public
-description: Discover Microsoft's MyPhone service, now public! Sync your mobile with the web for easy access to contacts, photos, and more. Explore the future of mobile backup!
+description: Sync your mobile phone data—contacts, calendar, tasks, photos, and more—with the web using Microsoft MyPhone, enabling easy backup and online access.
 ResourceId: NJdlXIZJJyN
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:23:44Z
+concepts: []
 
 ---
 Microsoft recently opened up there beta of the MyPhone service to the general public. The service syncs your Mobile phone with the web and allows access to your Contacts Calendar tasks, pictures and more.

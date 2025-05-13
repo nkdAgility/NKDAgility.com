@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: how-do-you-handle-conflict-in-a-scrum-team
 aliases:
-- /blog/how-do-you-handle-conflict-in-a-scrum-team
-- /how-do-you-handle-conflict-in-a-scrum-team
-- /how-do-you-handle-conflict-in-a-scrum-team-
-- /blog/how-do-you-handle-conflict-in-a-scrum-team-
 - /resources/xIWBb8Cy_Rv
-- /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
 aliasesArchive:
 - /blog/how-do-you-handle-conflict-in-a-scrum-team
 - /how-do-you-handle-conflict-in-a-scrum-team
@@ -42,6 +37,8 @@ categories:
 preview: 1061204442-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:07Z
+concepts:
+- Method
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

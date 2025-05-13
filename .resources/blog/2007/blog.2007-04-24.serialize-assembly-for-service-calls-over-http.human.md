@@ -1,6 +1,6 @@
 ---
 title: Serialize Assembly for Service calls over Http
-description: Discover how to serialize .NET assemblies for WCF service calls without byte streams. Join the discussion and find solutions to your coding challenges!
+description: Explains how to transmit a .NET assembly over HTTP in a WCF service call, focusing on serialisation and deserialisation without using byte streams.
 ResourceId: TgSz2FK5KBK
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:28:48Z
+concepts: []
 
 ---
 I want to send a .NET assembly as either an System.Reflection.Assembly or as a string over the wire through a [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") web service. It seems that the class System.Reflection.Assembly can serialize, but is unable to deserialize at the other end. How can this be achieved without sending as a straem of Byte.

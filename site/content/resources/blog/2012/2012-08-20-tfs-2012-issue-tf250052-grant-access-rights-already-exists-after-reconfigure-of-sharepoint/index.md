@@ -1,6 +1,6 @@
 ---
 title: 'TFS 2012 - Issue: TF250052: Grant access rights already exists after reconfigure of SharePoint'
-description: Resolve the TF250052 error in TFS 2012 after SharePoint reconfiguration. Discover the simple refresh solution to access rights issues. Get help now!
+description: Explains how to resolve the TF250052 error in TFS 2012 after reinstalling SharePoint 2010 by refreshing the access rights list to display existing entries.
 ResourceId: KWHN3dnM-5A
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-2-2.png
+Watermarks:
+  description: 2025-05-13T15:08:12Z
+concepts: []
 
 ---
 If for some reason you need to re-install SharePoint 2010 as part of your TFS deployment you may get a “TF250052: Grant access rights already exists for the following Team Foundation Server URL: [http://tfs01:8080/tfs](http://tfs01:8080/tfs). You should modify the existing access” but you don’t see anything in the existing list!

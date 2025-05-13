@@ -1,6 +1,6 @@
 ---
 title: Kerberos and SharePoint 2007
-description: Learn how to configure Kerberos authentication for SharePoint 2007, including essential SPN setup steps for a secure and efficient environment.
+description: Explains how to configure Kerberos authentication for SharePoint 2007 by setting Service Principal Names (SPNs) in Active Directory for each DNS and port combination.
 ResourceId: REHiKbbVOD8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:49Z
+concepts: []
 
 ---
 If you want to use Kerberos authentication and not NTLM with SharePoint then there are some extra tasks that you need to get someone with Domain Admin privileges to perform. For EVERY dns / port combination a SPN needs to be added to Active Directory to tell it that it  is allowed to use Kerberos to authenticate a specific account or server to that URL. In a production environment with a farm of multiple server you will need to use the account option.

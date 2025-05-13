@@ -1,6 +1,6 @@
 ---
 title: We’re sorry, but you won’t be able to download Internet Explorer 8 for Windows 7 Beta at this time
-description: Discover why Windows 7 users can't download Internet Explorer 8 yet, and explore the benefits of this powerful browser compared to others. Join the conversation!
+description: Internet Explorer 8 is not available for Windows 7 Beta users, but can be downloaded for Windows XP and Vista. Compatibility and extensibility are key features.
 ResourceId: sjUCMYPEzTd
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 aliases:
-- /resources/sjUCMYPEzTd
 - /resources/blog/we-re-sorry-but-you-won-t-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+- /resources/sjUCMYPEzTd
 aliasesArchive:
 - /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 - /were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
@@ -30,6 +30,9 @@ tags: []
 preview: nakedalm-logo-128-link-2-2.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:24:23Z
+concepts: []
 
 ---
 Although if you are a Windows 7 user like me, you will not be able to download the newly released [Internet Explorer 8](http://www.microsoft.com/ie8), if you have XP or Vista you can dive into the experience that many people have been using for a while now.

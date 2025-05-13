@@ -1,6 +1,6 @@
 ---
 title: Create a VHD from the Windows Server 2008 R2 Image disk
-description: Learn how to easily create a VHD from a Windows Server 2008 R2 image disk with step-by-step instructions and essential tools. Simplify your setup today!
+description: Step-by-step guide to create a Virtual Hard Disk (VHD) from a Windows Server 2008 R2 image using Windows AIK and WIM2VHD, including common pitfalls and tips.
 ResourceId: drLuFfVqIJ7
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:22:55Z
+concepts: []
 
 ---
 Previously I created this [the manual way](http://blog.hinshelwood.com/archive/2009/12/07/create-a-vhd-from-the-windows-7-image-disk.aspx), but if you have a fast internet connection and can take the 1.6gb download of the AIK, then this is a much easier way of getting started.

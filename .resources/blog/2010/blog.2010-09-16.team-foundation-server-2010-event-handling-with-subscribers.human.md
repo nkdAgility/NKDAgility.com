@@ -1,6 +1,6 @@
 ---
 title: Team Foundation Server 2010 Event Handling with Subscribers
-description: Explore event handling in TFS 2010 with subscribers. Learn to create complex handlers and enhance your development process with this comprehensive guide.
+description: Explains how to create and deploy server-side event subscribers in Team Foundation Server 2010 using the ISubscriber interface to handle and process TFS events.
 ResourceId: FzwWmNio6fH
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-4-4.png
+Watermarks:
+  description: 2025-05-13T15:11:30Z
+concepts: []
 
 ---
 ![ConfigurationRequired](images/d85ca9bb3b8b_B971-ConfigurationRequired_-1-1.jpg)There is a lot of references and blog posts on how to handle SOAP events raised by Team Foundation Server 2005, 2008 and 2010 but is there anything new in 2010 that supersedes this? Even though I knew it was there, n o amount of google-fu brought back any results relevant to anything new, so hopefully this will fill that gap.

@@ -48,6 +48,7 @@ tags:
 - Market Adaptability
 - Value Delivery
 - Pragmatic Thinking
+icon: fa-arrow-left-long
 
 ---
 In modern software development, waiting until the end to test, secure, or review compliance is a costly mistake. The **Shift-Left Strategy** eliminates these risks by integrating critical activities—testing, security, and compliance—early in the development lifecycle.

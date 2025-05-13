@@ -1,6 +1,6 @@
 ---
 title: Kerberos problems
-description: Explore common Kerberos double hop issues and discover useful resources for troubleshooting. Join the journey to resolve your network security challenges!
+description: Addresses Kerberos double hop authentication issues in workplace networks, with links to resources on Kerberos basics and troubleshooting delegation problems.
 ResourceId: 0Of8b0Njxtf
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:16Z
+concepts: []
 
 ---
 I have been having a lot of Kerberos double hop problems on the network at work, and although I have not yet managed to fix them... I did find these useful pages:

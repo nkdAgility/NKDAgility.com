@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: big-scrum-all-you-need-and-not-enough
 aliases:
-- /blog/big-scrum-all-you-need-and-not-enough
-- /big-scrum-all-you-need-and-not-enough
-- /big-scrum--all-you-need-and-not-enough
-- /blog/big-scrum--all-you-need-and-not-enough
 - /resources/yCJ5ERuJHUU
-- /resources/blog/big-scrum-all-you-need-and-not-enough
 aliasesArchive:
 - /blog/big-scrum-all-you-need-and-not-enough
 - /big-scrum-all-you-need-and-not-enough
@@ -39,6 +34,7 @@ categories:
 preview: clip_image003-3-3.png
 Watermarks:
   description: 2025-05-07T13:16:56Z
+concepts: []
 
 ---
 I was in Norway for NDC Oslo 2015 and I was there to talk about "Big [Scrum]({{< ref "/categories/scrum" >}}): All you need and not enough" which is a kind of oxymoron as it really is enough, you just need to apply the values and principals at scale. I tried to cover what for me is a total 100% requirement for Scale.

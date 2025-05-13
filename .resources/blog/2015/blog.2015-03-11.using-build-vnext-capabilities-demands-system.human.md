@@ -1,6 +1,6 @@
 ---
 title: Using the Build vNext capabilities and demands system
-description: Explore the new Build vNext capabilities and demands system in TFS 2015. Simplify your build process with enhanced features and auto-detection. Learn more!
+description: Explains how to use Build vNext's capabilities and demands system in VSO/TFS 2015 to match build agents with required tools and configurations for automated builds.
 ResourceId: iEMi_TIORPX
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-7-7.png
+Watermarks:
+  description: 2025-05-12T14:19:59Z
+concepts: []
 
 ---
 Using the Build vNext capabilities and demands in VSO is one of the new cool features of the vNext build system being developed by Microsoft on VSO.

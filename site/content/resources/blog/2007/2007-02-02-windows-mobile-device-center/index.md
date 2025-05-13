@@ -1,6 +1,6 @@
 ---
 title: Windows Mobile Device Center
-description: Discover the Windows Mobile Device Center, the essential tool for Vista users to sync devices effortlessly. Download the latest version and enhance your experience!
+description: Windows Mobile Device Center enables syncing and managing Windows Mobile devices on Windows Vista, replacing ActiveSync. Not compatible with Windows Mobile 2002 or earlier.
 ResourceId: yQwInotryjQ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:29:19Z
+concepts: []
 
 ---
 Well, its about time: The WMDC is out of beta and is available to [download](http://www.microsoft.com/windowsmobile/devicecenter.mspx "Windows Mobile Device Center Download"). WMDC is the replacement for ActiveSync on Vista and I would have expected it to be available for the business release of Vista. Up until now users have had to make do with the beta version that was originally released for Vista RC1, and I can tell you it was a little flaky in places. Not anything really problematic, just the usual beta unfinishedness, though it was usable.

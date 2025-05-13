@@ -1,6 +1,6 @@
 ---
 title: 'Subversion to TFS 2010: The migration engine is unable to resolve a conflict where two changes have the same target item'
-description: Navigate the challenges of migrating from Subversion to TFS 2010. Discover solutions for resolving conflicts and ensure a smooth transition for your projects.
+description: Explains how to resolve case sensitivity conflicts when migrating from Subversion to TFS 2010, including tools and steps to handle duplicate target item errors.
 ResourceId: z1EKAHhrUI7
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 preview: image-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:17Z
+concepts: []
 
 ---
 [![subversion](images/subversion_thumb-17-17.png "subversion")](http://blog.hinshelwood.com/files/2011/08/subversion1.png)

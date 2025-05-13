@@ -1,6 +1,6 @@
 ---
 title: 'Team Foundation Server Error TF30177 : Team Project Creation Failed'
-description: Resolve the TF30177 error in Team Foundation Server with our step-by-step guide. Learn how to fix project creation issues and optimize your TFS setup.
+description: Explains how to resolve Team Foundation Server TF30177 errors by updating server URLs to use the FQDN, addressing proxy and DNS issues during project creation.
 ResourceId: ovERk0hj1XD
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:26:39Z
+concepts: []
 
 ---
 When you create your first project, you may get an error during the creation process. When you look at the log file and see a "proxy error" message detail it may be to do with the way that TFS installs.

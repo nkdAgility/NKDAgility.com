@@ -1,6 +1,6 @@
 ---
 title: My first Scrum team in the wild
-description: Discover insights from my first Scrum team experience, highlighting key practices and lessons learned to enhance your agile journey. Join the conversation!
+description: A real-world account of guiding a new Scrum team through their first sprint, covering estimation, story points, sprint planning, and handling unfinished work.
 ResourceId: ov2kV0DI9xR
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -38,6 +38,9 @@ tags:
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-6-6.png
+Watermarks:
+  description: 2025-05-13T15:10:56Z
+concepts: []
 
 ---
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_2.png)Over the last year I have invested a lot in Scrum. A few months ago I was assigned to teach a two day Scrum course for which I had to build and deliver the material. The team that received the _beta_ of the course has now just finished their first sprint!

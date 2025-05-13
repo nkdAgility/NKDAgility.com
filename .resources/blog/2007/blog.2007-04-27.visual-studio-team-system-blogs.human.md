@@ -1,6 +1,6 @@
 ---
 title: Visual Studio Team System Blogs
-description: Discover all the essential blogs for Microsoft Visual Studio Team System in one convenient place. Stay updated and enhance your development experience!
+description: Browse official Microsoft Visual Studio Team System blogs, featuring updates and insights from the development team. Community blogs are not included.
 ResourceId: de7b3FE-UNO
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-13T16:28:40Z
+concepts: []
 
 ---
 You can find all the blogs for the Microsoft team for Visual Studio in one place. A nice little list, it does not have all the community blogs, but then you would need a search facility...

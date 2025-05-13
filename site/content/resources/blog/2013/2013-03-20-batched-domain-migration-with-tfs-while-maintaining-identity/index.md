@@ -1,6 +1,6 @@
 ---
 title: Batched domain migration with TFS while maintaining Identity
-description: Learn how to execute a batched domain migration with TFS while preserving user identities. Avoid pitfalls and ensure a smooth transition for your team.
+description: Explains how to batch migrate users between domains in TFS 2012 while preserving user identities, avoiding duplicates, and maintaining traceability during the process.
 ResourceId: vzIIFAI5ygR
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-5-5.png
+Watermarks:
+  description: 2025-05-13T15:06:48Z
+concepts: []
 
 ---
 If you are moving from one domain to another, but you have lots of users you may do a batched domain migration with Visual Studio 2012 Team Foundation Server. Make suer that you read all of the fine print and don't get caught with duplicate Identities and no traceability.

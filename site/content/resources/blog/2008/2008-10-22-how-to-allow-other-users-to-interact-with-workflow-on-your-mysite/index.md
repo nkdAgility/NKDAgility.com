@@ -1,6 +1,6 @@
 ---
 title: 'How-To: Allow other users to interact with workflow on your MySite'
-description: Learn how to enable user interaction with workflows on MySite. This guide covers permissions, task lists, and best practices for effective collaboration.
+description: Learn how to give colleagues access to workflow tasks on your MySite by setting permissions on task lists in SharePoint, including adding users to the Contributors group.
 ResourceId: JUQrPR1RNmh
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: metro-sharepoint-128-link-15-15.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:22:58Z
+concepts: []
 
 ---
 If you want to be able to use workflow on you're my site that will allow you to assign tasks to your colleagues, then you need to take a couple of thing into consideration. The most important is to give any users assigned tasks access to the tasks list that you are using for your workflow.

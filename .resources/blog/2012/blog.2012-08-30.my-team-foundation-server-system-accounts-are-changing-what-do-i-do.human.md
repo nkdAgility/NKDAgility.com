@@ -1,6 +1,6 @@
 ---
 title: My Team Foundation Server system accounts are changing? What do I do?
-description: Learn how to manage changing TFS 2012 system accounts effectively. Follow our guide to ensure your service accounts remain operational and secure.
+description: Learn how to update expiring Team Foundation Server service accounts, including steps for TFS, Build, SharePoint, and SQL, to prevent service disruptions.
 ResourceId: GJOGgre5lz-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 - System Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:07:48Z
+concepts: []
 
 ---
 If you have multiple service accounts for TFS 2012 and you are in a corporation chances are that two things are true:

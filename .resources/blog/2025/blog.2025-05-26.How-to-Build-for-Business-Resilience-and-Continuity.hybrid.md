@@ -29,7 +29,7 @@ tags:
 Watermarks:
   description: 2025-05-07T12:49:05Z
 concepts:
-- Tenet
+- Ethos
 
 ---
 Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it—**upfront, consistently, and aggressively**.

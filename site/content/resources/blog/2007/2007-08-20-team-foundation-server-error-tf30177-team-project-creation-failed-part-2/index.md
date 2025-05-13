@@ -1,6 +1,6 @@
 ---
 title: 'Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2'
-description: Troubleshoot Team Foundation Server error TF30177 with expert insights. Learn to resolve project creation issues in SharePoint effectively. Read more!
+description: Explains how to resolve Team Foundation Server project creation errors caused by SharePoint managed path conflicts, with steps to identify and fix site URL issues.
 ResourceId: -H--7dlWeGE
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:35Z
+concepts: []
 
 ---
 If you are trying to get team server to talk to another Sharepoint farm this is something to watch out for. I fell into this one myself, and now my American colleagues have hot the same problem (I have changed things like server, account and company names to protect the, erm, servers?). The key things to look for in the log file are the creation details:

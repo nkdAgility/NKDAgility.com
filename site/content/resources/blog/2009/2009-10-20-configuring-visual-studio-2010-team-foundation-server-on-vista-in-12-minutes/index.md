@@ -1,6 +1,6 @@
 ---
 title: Configuring Visual Studio 2010 Team Foundation Server on Vista in 12 minutes
-description: Master the setup of Visual Studio 2010 Team Foundation Server on Vista in just 12 minutes! Streamline your development process with this quick guide.
+description: Step-by-step guide to configuring Visual Studio 2010 Team Foundation Server on Windows Vista, including setup options, compatibility notes, and tips for a quick install.
 ResourceId: 4Rw-WfXaIBU
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 preview: metro-aggreko-128-link-17-17.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:23:07Z
+concepts: []
 
 ---
 As Microsoft have separated Install with configuration, so I have separated my posts! You will need TFS2010 [installed](http://blog.hinshelwood.com/archive/2009/10/20/configuring-visual-studio-2010-team-foundation-server-on-vista-in.aspx) prior to the steps below.

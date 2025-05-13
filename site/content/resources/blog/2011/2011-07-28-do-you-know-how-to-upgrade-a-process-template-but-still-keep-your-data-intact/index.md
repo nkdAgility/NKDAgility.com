@@ -1,6 +1,6 @@
 ---
 title: Upgrading your Process Template in Team Foundation Server
-description: Master the art of upgrading your Team Foundation Server process templates with expert tips and strategies to retain data and enhance your workflow.
+description: Explains methods for upgrading process templates in Team Foundation Server, comparing pros and cons of each approach, and highlighting risks, data integrity, and best practices.
 ResourceId: o6VvFIPoyTU
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-4-4.png
+Watermarks:
+  description: 2025-05-13T15:10:21Z
+concepts: []
 
 ---
 Upgrading your Process Template in Team Foundation Server regardless of the version is pretty hard to achieve. Think of it like changing your mind on the blueprints of a building after you have finished construction. If you are making a small change, like adding a field, then this will be easy. But if you want to fundamentally change the structure of your work items and their workflow then you are looking at a bigger and much more complicated solution.

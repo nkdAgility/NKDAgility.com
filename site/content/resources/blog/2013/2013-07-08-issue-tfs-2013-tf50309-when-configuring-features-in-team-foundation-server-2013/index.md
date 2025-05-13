@@ -1,6 +1,6 @@
 ---
 title: Issue [ TFS 2013 ] TF50309 when configuring features in Team Foundation Server 2013
-description: Resolve the TF50309 error in TFS 2013 with expert solutions. Learn how to manage permissions and configure features effectively for your projects.
+description: Explains how to resolve TF50309 permission errors when configuring features in Team Foundation Server 2012/2013 by assigning the 'Manage process template' permission.
 ResourceId: JV3MFcDY50C
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
 aliases:
-- /resources/JV3MFcDY50C
 - /resources/blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
+- /resources/JV3MFcDY50C
 aliasesArchive:
 - /blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
 - /issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/
@@ -31,6 +31,9 @@ tags:
 categories:
 - Uncategorized
 preview: puzzle-issue-problem-128-link-5-5.png
+Watermarks:
+  description: 2025-05-13T15:05:49Z
+concepts: []
 
 ---
 You may get a TF50309 when [configuring features in Team Foundation Server 2013](http://nkdagility.com/configure-features-in-team-foundation-server-2013) and you are unable to complete the configuration.

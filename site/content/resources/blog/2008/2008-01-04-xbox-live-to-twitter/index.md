@@ -1,6 +1,6 @@
 ---
 title: Xbox Live To Twitter
-description: Discover how to connect your Xbox Live updates to Twitter with a custom application. Download the source code and enhance your gaming experience!
+description: Guide to connecting your Xbox Live gamertag to Twitter using a custom application, including troubleshooting tips and links to source code and downloads.
 ResourceId: 7DGS8UR6dab
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-xbox-360-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:09Z
+concepts: []
 
 ---
 I had been trying to find an application that provided updates to twitter from my Xbox. There is such an application written by [Duncan Mackenzie](http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx), but I could not get it to work. I tried everything and ended up decompiling the application to see what was wrong. Well, it seamed that the guts of the application was missing! The source code has all of the UI elements, but none of the bit to do the updates.

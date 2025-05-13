@@ -1,6 +1,6 @@
 ---
 title: Why you need to tag your build servers in TFS
-description: Discover why tagging your build servers in TFS is essential for managing complexity and improving efficiency in your development projects. Learn more!
+description: Tagging build servers in TFS helps manage dependencies, assign builds to suitable agents, and streamline workflows across teams and regions for reliable automation.
 ResourceId: TCVlqzWwtNc
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: metro-SSWLogo-128-link-10-10.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:21:53Z
+concepts: []
 
 ---
 ![vs2010alm](images/e6d297adc9ef_12485-vs2010alm_-4-8.png)At SSW we use gated check-in for all of our projects. The benefits are based on the number of developers you have working on your project.

@@ -1,6 +1,6 @@
 ---
 title: The great Xbox update
-description: Discover the exciting new Xbox Live experience in this update! Get ready for fresh features and a smoother gaming journey. Don't miss out!
+description: Overview of the new Xbox Live update, including changes to the update process, introduction of Avatars, and user experiences with the latest features.
 ResourceId: X8DVH4Nrsye
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-xbox-360-link-3-2.png
+Watermarks:
+  description: 2025-05-13T16:22:30Z
+concepts: []
 
 ---
 [![xbox live](images/ThegreatXboxupdate_AEC7-xbox-live_thumb-2-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ThegreatXboxupdate_AEC7-xbox-live_2.jpg)

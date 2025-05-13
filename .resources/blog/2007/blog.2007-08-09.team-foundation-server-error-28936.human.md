@@ -1,6 +1,6 @@
 ---
 title: Team Foundation Server Error 28936
-description: Discover how to resolve Team Foundation Server Error 28936 with expert tips on IIS configuration and troubleshooting. Get your TFS up and running smoothly!
+description: Explains how Team Foundation Server installation fails with error 28936 due to IIS URLScan filter blocking web services, and how removing it resolves the issue.
 ResourceId: pfq93Zq1pW6
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:26:49Z
+concepts: []
 
 ---
 Some of my colleagues in New York have been working on deploying Team Foundation Server as a change management system and they ran into a little error while installing to the QA (UAT) environment.

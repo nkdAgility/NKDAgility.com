@@ -1,6 +1,6 @@
 ---
 title: 'TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled'
-description: Resolve TFS WIT bypass-rule submission errors with our guide. Learn how to add accounts to the Service Accounts Group and streamline your TFS Integration.
+description: Explains how to resolve TFS Integration Platform errors caused by missing permissions for bypass-rule submission by adding accounts to the Team Foundation Service Accounts group.
 ResourceId: sb9e7R72Ioq
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -31,6 +31,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-5-5.png
+Watermarks:
+  description: 2025-05-13T15:08:17Z
+concepts: []
 
 ---
 When you run the TFS Integration Platform for the first time with TFS WIT bypass-rule submission enabled you will likely get the following error:

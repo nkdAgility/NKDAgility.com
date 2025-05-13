@@ -1,6 +1,6 @@
 ---
 title: Ahhh, the fun of deploying Team System in a large corporation
-description: Discover the challenges and solutions of deploying Team System in a large corporation. Learn tips and tricks to navigate server access issues effectively!
+description: Guidance on deploying Team Foundation Server in large organisations, including database setup workarounds and links to official TFS administration resources.
 ResourceId: w548lro11wJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-13T16:29:48Z
+concepts: []
 
 ---
 I can see that this project is going to be fun. I need to deploy team system within the investment bank that I work for. The DBA's will not let me access their servers! And the TFS installation needs to be run on them.

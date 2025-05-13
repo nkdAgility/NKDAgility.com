@@ -1,6 +1,6 @@
 ---
 title: Time That Task VSTS Check-In Policy
-description: Explore the challenges of VSTS check-in policies and discover innovative solutions for developers to manage tasks effectively. Join the discussion now!
+description: Explores a TFS check-in policy for tracking task time, discusses challenges like task switching, and suggests using an external app to improve developer workflow.
 ResourceId: 3-mqIx3Xkgv
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-13T16:29:44Z
+concepts: []
 
 ---
 I have found this interesting policy for TFS.

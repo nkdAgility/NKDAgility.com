@@ -1,6 +1,6 @@
 ---
 title: TFS Sticky Buddy Codeplex project
-description: Explore the TFS Sticky Buddy project, a digital whiteboard solution for Team Foundation Server that enhances project visibility and team collaboration.
+description: Open source tool for visualising Team Foundation Server project status, showing work items, assignments, and progress in real time on large displays for team visibility.
 ResourceId: g0bjuq5cIqX
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:37Z
+concepts: []
 
 ---
 I hade been looking with envy at the [digital whiteboard experiment](http://www.agilemanagement.net/Articles/Weblog/DigitalWhiteboardExperime.html), and with dismay at the lack of open source for the project. So...

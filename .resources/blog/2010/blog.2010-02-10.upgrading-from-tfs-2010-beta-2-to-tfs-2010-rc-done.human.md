@@ -1,6 +1,6 @@
 ---
 title: Upgrading from TFS 2010 Beta 2 to TFS 2010 RC done
-description: Discover the smooth upgrade process from TFS 2010 Beta 2 to RC, ensuring your development team is up and running efficiently. Get expert tips and insights!
+description: Step-by-step guide to upgrading from TFS 2010 Beta 2 to TFS 2010 RC, including best practices, troubleshooting tips, and post-upgrade checks for developers.
 ResourceId: dg9tlise6Bd
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 preview: metro-visual-studio-2010-128-link-3-3.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:22:43Z
+concepts: []
 
 ---
 Visual Studio Team Foundation Server 2010 RC was released yesterday on MSDN. I am happy to report that today we successfully completed upgrading our production TFS 2010 Beta 2 server, to the new TFS 2010 RC. wow.

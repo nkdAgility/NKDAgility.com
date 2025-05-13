@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler (Prototype) Refresh
-description: Discover the refreshed TFS Event Handler Prototype by Martin Hinshelwood. Fix bugs, enhance your team's workflow, and explore new event handler ideas!
+description: Bug fixes and updates for the TFS Event Handler Prototype, now supporting .NET 3.5 and Visual Studio 2008. Includes installer refresh and event handler examples.
 ResourceId: RcunqCP6sF8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-event-handler-prototype-refresh
 aliases:
-- /resources/RcunqCP6sF8
 - /resources/blog/tfs-event-handler-prototype-refresh
+- /resources/RcunqCP6sF8
 aliasesArchive:
 - /blog/tfs-event-handler-prototype-refresh
 - /tfs-event-handler-prototype-refresh
@@ -27,6 +27,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:50Z
+concepts: []
 
 ---
 I found a couple of bugs in the [TFS Event Handler Prototype release](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057). As I am still supporting this release (many people use it in production) I have fixed the bugs and uploaded new installers.

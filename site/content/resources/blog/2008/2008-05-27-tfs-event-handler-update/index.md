@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler Update
-description: Discover the latest updates to the TFS Event Handler, fixing bugs and enhancing performance. Download now and improve your development workflow!
+description: Bug fixes and improvements have been made to the TFS Event Handler, resolving recent issues and enhancing reliability for .NET, ALM, and WIT workflows.
 ResourceId: 4sQLWkddZE1
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:57Z
+concepts: []
 
 ---
 The [TFS Event Handler](http://www.codeplex.com/TFSEventHandler "TFS Event Handler") project on [CodePlex](http://www.codeplex.com "CodePlex") has been updated today to take care of a number of bugs that were introduced in the last update. These have all been fixed and we are currently dogfooding with the new release. The Event Handlers have also been updated to take care of some issues that we found when using them in anger...

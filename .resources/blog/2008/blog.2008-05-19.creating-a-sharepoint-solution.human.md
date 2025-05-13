@@ -1,6 +1,6 @@
 ---
 title: Creating a SharePoint Solution
-description: Join Martin Hinshelwood on a journey to create a SharePoint solution for time off management, exploring .NET, WebParts, and more. Discover the process!
+description: Follow the development of a .NET 3.5 SharePoint Time Off Management app using WebParts, Workflow, InfoPath, SQL Server, and test-driven development techniques.
 ResourceId: pnYkYt4HZFP
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:03Z
+concepts: []
 
 ---
 Over the next few weeks I will be blogging my escapades in developing an application solution for Microsoft Office SharePoint Server. I have entitled the application "_MOSS Time Off Management_" and it will be up on [CodePlex](http://www.codeplex.com "CodePlex") for all to follow @ [http://www.codeplex.com/mosstom](http://www.codeplex.com/mosstom) (coming soon).

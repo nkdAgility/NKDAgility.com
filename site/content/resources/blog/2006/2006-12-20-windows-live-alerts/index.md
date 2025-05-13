@@ -1,6 +1,6 @@
 ---
 title: Windows Live Alerts
-description: Stay updated with Windows Live Alerts! Sign up to receive notifications for new blog posts and enjoy free features with a touch of advertising.
+description: Windows Live Alerts notifies you of new blog posts, offering standard alert features with ads. Free to use and includes a link for your blog.
 ResourceId: kr2gucSHKSd
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:29:41Z
+concepts: []
 
 ---
 Just got my Live alerts for this blog setup. If you sign up for it you should get notified whenever I post! Cool...

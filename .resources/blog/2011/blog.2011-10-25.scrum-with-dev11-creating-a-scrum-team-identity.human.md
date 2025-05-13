@@ -1,6 +1,6 @@
 ---
 title: 'Scrum with Visual Studio 11: Creating a Scrum team identity'
-description: Discover how to create a Scrum team identity with Visual Studio 11. Enhance your workflow and collaboration in this insightful guide by Martin Hinshelwood.
+description: Learn how to set up Scrum teams in Visual Studio 11, organise work by team, and explore new features in the updated TFS and ALM user interface.
 ResourceId: lcqmvIZfw-_
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-1-1.png
+Watermarks:
+  description: 2025-05-13T15:09:59Z
+concepts: []
 
 ---
 I have been getting to grips with dev11 recently and I want to share a couple of thing that I like. The first of which is the ability to create teams and to automatically slice your work by that team.

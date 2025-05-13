@@ -1,6 +1,6 @@
 ---
 title: VB 9
-description: Explore the debate on Visual Basic vs. C# with insights from Martin Hinshelwood. Discover why VB 9 is considered superior in this engaging blog post!
+description: Comparison of Visual Basic and C#, highlighting arguments and evidence supporting Visual Basic’s advantages within the .NET development environment.
 ResourceId: vaweB_aRVhL
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:58Z
+concepts: []
 
 ---
 Yet more [evidence](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2007/08/02/9556.aspx "VB is better than C#") that VB is superior to C# from [Mike Taulty](http://mtaulty.com)...

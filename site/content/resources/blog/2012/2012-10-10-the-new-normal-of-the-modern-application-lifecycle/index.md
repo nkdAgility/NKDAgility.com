@@ -1,6 +1,6 @@
 ---
 title: The new normal of the modern application lifecycle
-description: Explore the evolving landscape of software development in 'The New Normal of the Modern Application Lifecycle' and discover how to stay relevant in a fast-paced world.
+description: Explores how rapid technological change, consumer expectations, and agile practices are reshaping software development, IT roles, and business relevance in the digital era.
 ResourceId: 4xvg8avKMPA
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-new-normal-icon-28-28.png
+Watermarks:
+  description: 2025-05-13T15:07:29Z
+concepts: []
 
 ---
 The new normal for software development is the theme for the keynote at the [Visual Studio Launch Roadshows](http://blog.hinshelwood.com/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine/) that I will be speaking at this week I have been doing a little research.

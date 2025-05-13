@@ -1,6 +1,6 @@
 ---
 title: Installing Office 2010 gotcha 1
-description: Discover the challenges of installing Office 2010 on a 64-bit system. Learn about upgrade limitations and tips to streamline your setup process.
+description: Explains issues when upgrading from Office 2007 32-bit to Office 2010 64-bit, including uninstall requirements, Outlook settings loss, and automation challenges.
 ResourceId: cbNAkHnRhAW
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-2-2.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:23:34Z
+concepts: []
 
 ---
 I am installing office 2010, and I ran into my first gotcha!

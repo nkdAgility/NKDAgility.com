@@ -38,6 +38,7 @@ categories:
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 Watermarks:
   description: 2025-05-07T13:06:58Z
+concepts: []
 
 ---
 This week, I participated in a [Scrum.org](http://scrum.org/) Webinar hosted by Sabrina Love ([Scrum]({{< ref "/categories/scrum" >}}).org [Product Owner]({{< ref "/tags/product-owner" >}})) as well as my colleagues, [Joanna Płaskonka, Ph.D.](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) and [Alex Ballarin](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) to discuss the state of learning and how immersive learning is the future of training.

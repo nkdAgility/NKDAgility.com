@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 2008 and the GDR CTP16
-description: Explore the challenges of using Visual Studio 2008 with GDR CTP16, including dependency issues and solutions for smoother database imports. Dive in!
+description: Discusses issues with Visual Studio 2008 GDR CTP16 handling complex stored procedure dependencies during database import, and challenges faced when uninstalling the GDR.
 ResourceId: BgrdMISXI4W
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:23:20Z
+concepts: []
 
 ---
 Well we have been having a few problems with the [GDR](http://blogs.msdn.com/gertd/archive/2008/08/20/vstsdb-2008-gdr-ctp16-is-here.aspx). Essentially when we import our database it complains about dependencies.

@@ -30,7 +30,7 @@ tags:
 Watermarks:
   description: 2025-05-07T12:49:01Z
 concepts:
-- Principle
+- Ethos
 
 ---
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  

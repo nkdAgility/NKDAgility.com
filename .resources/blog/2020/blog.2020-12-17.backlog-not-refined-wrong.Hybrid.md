@@ -51,6 +51,8 @@ categories:
 preview: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:11Z
+concepts:
+- Framework
 
 ---
 Most [Scrum Teams](/the-2020-scrum-guide/#scrum-team) that I encounter don’t do refinement of their [Product Backlog](/the-2020-scrum-guide/#product-backlog) and try to work on things that they don’t understand correctly. However, if you get to the Sprint Planning event and your backlog is not ready, then you are doing it wrong. If what you build is not of good quality then you should [read about Defenition of Done](/blog/getting-started-definition-done-dod/).

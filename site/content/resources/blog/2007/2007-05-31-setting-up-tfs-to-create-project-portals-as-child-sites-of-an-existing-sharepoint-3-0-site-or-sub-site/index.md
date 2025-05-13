@@ -1,6 +1,6 @@
 ---
 title: Setting up TFS to create project portals as child sites of an existing SharePoint 3.0 site (or sub site)
-description: Learn how to set up TFS for project portals as child sites of SharePoint 3.0, enhancing integration and collaboration for your team. Discover best practices!
+description: Guide to integrating Team Foundation Server with SharePoint 3.0 by creating project portals as child sites, including setup steps, permissions, and troubleshooting tips.
 ResourceId: jFAz7uP6k-J
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
 aliases:
-- /resources/jFAz7uP6k-J
 - /resources/blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3.0-site-or-sub-site
+- /resources/jFAz7uP6k-J
 aliasesArchive:
 - /blog/setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
 - /setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site
@@ -27,6 +27,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:12Z
+concepts: []
 
 ---
 Well, I spoke to [Brian Keller](http://blogs.msdn.com/briankel/default.aspx "Brian Keller: Technical Evangelist for Team System") about [Connecting TFS to a SharePoint 3.0 sub site](http://blog.martin.hinshelwood.com/archive/2007/05/31/Team-Foundation-Server-amp-SharePoint-3.0.aspx "Connecting Team Foundation Server to a SharePoint 3.0 sub site")... His answer? _Try it and see._ So I did.

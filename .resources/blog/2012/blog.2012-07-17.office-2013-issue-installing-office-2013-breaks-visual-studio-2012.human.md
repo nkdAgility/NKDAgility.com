@@ -1,6 +1,6 @@
 ---
 title: 'Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012'
-description: Discover how installing Office 2013 can disrupt Visual Studio 2012. Learn about the error, its causes, and essential workarounds to resolve the issue.
+description: Installing Office 2013 on a system with Visual Studio 2012 RC can cause C++ runtime errors. Apply the July 2012 update to resolve compatibility issues and restore functionality.
 ResourceId: ScEwWPyBqLw
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-4-4.png
+Watermarks:
+  description: 2025-05-13T15:08:35Z
+concepts: []
 
 ---
 After installing Office 2013 on a machine with Visual Studio 2012 you get a “The procedure entry point \_Atomic_fetch_sub_4 could not be located in the dynamic link library c:Program Files (x86)Microsoft Visual Studio 11.0Common7IDEdevenv.exe” error when trying to load Visual Studio 2012.

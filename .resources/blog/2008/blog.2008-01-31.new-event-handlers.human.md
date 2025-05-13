@@ -1,6 +1,6 @@
 ---
 title: New Event Handlers
-description: Discover new event handlers for TFS that enhance work item tracking. Learn how to implement the Assigned To and Reassigned handlers easily!
+description: 'Adds two event handlers for TFS: one emails users when assigned a work item, the other notifies users when work is reassigned. Includes setup and deployment steps.'
 ResourceId: kofEeioSTH9
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:40Z
+concepts: []
 
 ---
 I have added an extra event handler to the [TFS Event Handler (Prototype)](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057), and this makes two.

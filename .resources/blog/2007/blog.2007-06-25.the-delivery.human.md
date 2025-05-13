@@ -1,6 +1,6 @@
 ---
 title: The Delivery
-description: Join Martin Hinshelwood as he shares the unforgettable story of his daughter's birth, a moment that changed his life forever. Celebrate this special milestone!
+description: A personal account of a daughter's birth, detailing the unexpected and rapid labour, hospital experience, and gratitude for the support received during delivery.
 ResourceId: Cy6oTqwpH2P
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Miscellaneous
 - Personal
+Watermarks:
+  description: 2025-05-13T16:27:46Z
+concepts: []
 
 ---
 Well, this being my hundredth post I thought I should mention something special... Something that will change my world forever... Something that will keep me up at night...

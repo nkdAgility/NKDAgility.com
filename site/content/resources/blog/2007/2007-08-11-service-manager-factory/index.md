@@ -1,6 +1,6 @@
 ---
 title: Service Manager Factory
-description: Explore the upgraded Service Manager Factory by Martin Hinshelwood. Discover new features, internal documentation, and download options for your applications!
+description: Provides an upgraded managed service factory for .NET, with installer support for GAC deployment, enabling integration into various applications. Download and documentation available.
 ResourceId: 2LUs5HFK_O5
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:47Z
+concepts: []
 
 ---
 I have upgraded and [release](http://servicemanager.codeplex.com/) some code for the [managed service factory](http://blog.hinshelwood.com/articles/Creating-a-managed-service-factory-Article.aspx) that I wrote about earlier in the year. I have started the internal documentation process and the installer will install it to the GAC so you can use it in any of your applications... More to follow.

@@ -1,6 +1,6 @@
 ---
 title: Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation
-description: Upgrade your TFS from 2010 to 2012 seamlessly with expert insights on VSS migration and process template consolidation. Enhance your team's efficiency today!
+description: Step-by-step guide to upgrading TFS 2010 to TFS 2012, migrating VSS data, consolidating process templates, and resolving common issues during team project integration.
 ResourceId: XIuPwzheKMA
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 - Pragmatic Thinking
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:08:49Z
+concepts: []
 
 ---
 Back in Seattle and another awesome engagement, this time with a local company to upgrade their version of TFS from 2010 to 2012 and migrate all of their legacy VSS databases. Additional they want to take advantage of the new team features of TFS 2012 and need to consolidate all of their team projects

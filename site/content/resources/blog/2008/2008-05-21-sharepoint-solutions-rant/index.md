@@ -1,6 +1,6 @@
 ---
 title: SharePoint Solutions Rant
-description: Explore the frustrations of building MOSS Solutions in Visual Studio. Discover the need for a streamlined, end-to-end SharePoint development process!
+description: Discusses the need for a streamlined, end-to-end way to build and deploy SharePoint solutions in Visual Studio, including remote development and simplified workflows.
 ResourceId: z6JKvHvhWuI
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-2-1.png
+Watermarks:
+  description: 2025-05-13T16:23:58Z
+concepts: []
 
 ---
 <Rant>

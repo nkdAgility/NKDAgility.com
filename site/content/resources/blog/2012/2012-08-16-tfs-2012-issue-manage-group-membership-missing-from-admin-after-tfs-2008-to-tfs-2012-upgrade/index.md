@@ -1,6 +1,6 @@
 ---
 title: 'TFS 2012 - Issue: Manage Group Membership missing from admin after TFS 2008 to TFS 2012 Upgrade'
-description: Discover how to resolve the 'Manage Group Membership' issue after upgrading from TFS 2008 to TFS 2012. Get expert solutions and regain your permissions!
+description: Explains how to restore missing group membership management in TFS 2012 after upgrading from TFS 2008 by manually adding permissions using TFS Security commands.
 ResourceId: bKcrt-7tHMX
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-7-7.png
+Watermarks:
+  description: 2025-05-13T15:08:14Z
+concepts: []
 
 ---
 After an upgrade from TFS 2008 you are unable to edit permissions even though you are part of the appropriate groups. In this case it is an upgrade from TFS 2008 to TFS 2012 that did not have any errors on the way through. Everything looked like it worked, but…

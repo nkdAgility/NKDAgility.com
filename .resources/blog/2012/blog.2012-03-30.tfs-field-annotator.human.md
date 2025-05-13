@@ -1,6 +1,6 @@
 ---
 title: TFS Field Annotator
-description: Discover the TFS Field Annotator to track changes in TFS Work Items effortlessly. Enhance your workflow with easy field history access. Download now!
+description: Track and view the change history of specific fields in TFS Work Items, showing who made edits and when, with support for multiple field selection and easy setup.
 ResourceId: Nb7mmrBQDyM
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-cloud-azure-link-4-4.png
+Watermarks:
+  description: 2025-05-13T15:09:07Z
+concepts: []
 
 ---
 Do you make lots of edits to your TFS Work Items? Do you ever look at a field in the UI and think…

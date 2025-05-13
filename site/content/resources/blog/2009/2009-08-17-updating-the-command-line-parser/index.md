@@ -1,6 +1,6 @@
 ---
 title: Updating the Command Line Parser
-description: Discover how to enhance your command line applications with a versatile parser in VB.NET. Streamline multiple commands and improve your coding efficiency!
+description: Explains how to enhance a .NET command line parser to support multiple and nested commands, custom switches, and delegate-based execution for flexible CLI applications.
 ResourceId: ZMPPpD1TIuP
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-2-1.png
+Watermarks:
+  description: 2025-05-13T15:23:16Z
+concepts: []
 
 ---
 I had previously created a Command Line Parser from [Ray Hayes](http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=7917) codeproject article [Automatic Command Line Parsing in C#](http://www.codeproject.com/KB/recipes/commandlineparser.aspx). I had adapted it to VB.NET and upgraded it to .NET 3.5 but I recently ran into the problem with wanting a single command prompt application to handle multiple processes and multiple parameters. This would allow you to group all of a particular tasks commands into a single application. With the advent of Power Shell this format is increasingly less relevant, but with the proliferation of Power Shell many people still prefer to use the good old command line.

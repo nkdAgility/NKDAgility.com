@@ -1,6 +1,6 @@
 ---
 title: A working Test Track Pro Adapter for the TFS Integration Platform
-description: Discover a reliable Test Track Pro Adapter for the TFS Integration Platform, enabling seamless updates and efficient work item management. Learn more!
+description: Describes building a working Test Track Pro Adapter for the TFS Integration Platform, detailing code changes, conflict handling, and incremental work item migration.
 ResourceId: W5oq_99ThZi
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags:
 - Software Development
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:34Z
+concepts: []
 
 ---
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)

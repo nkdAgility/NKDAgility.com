@@ -1,6 +1,6 @@
 ---
 title: OutSync with proxy servers
-description: Learn how to configure OutSync for Outlook behind a proxy server. Follow our guide to sync your contacts effortlessly and enhance your mobile experience!
+description: Explains how to configure .NET applications, like OutSync, to work with proxy servers by editing the config file for proxy authentication and connectivity.
 ResourceId: juUxY8REuRz
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-1.png
+Watermarks:
+  description: 2025-05-13T16:23:56Z
+concepts: []
 
 ---
 [![image](images/OutSyncwithproxyservers_B70A-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-OutSyncwithproxyservers_B70A-image_2.png)If like me you want to try the rather [groovy sync tool for Outlook](http://blogs.msdn.com/lokeuei/archive/2007/09/12/outsync-outlook-facebook-sync-released.aspx) that syncs your contacts (and pictures ) with your outlook contacts, which will then be displayed on your mobile phone, and you are behind a proxy server, then this info is for you…

@@ -1,6 +1,6 @@
 ---
 title: Guide to ChangeServerId says mostly harmless
-description: Discover the importance of ChangeServerId in TFS upgrades. Learn how to avoid GUID issues and ensure a smooth transition to your new environment.
+description: Explains when and why to use ChangeServerId in TFS, potential issues from duplicate GUIDs, and how to resolve errors using RegisterDB after cloning or upgrading servers.
 ResourceId: hoewU67YJfb
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 - System Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:06:57Z
+concepts: []
 
 ---
 If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.

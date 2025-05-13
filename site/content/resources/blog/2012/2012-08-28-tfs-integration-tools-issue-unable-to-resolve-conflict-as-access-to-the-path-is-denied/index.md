@@ -1,6 +1,6 @@
 ---
 title: 'TFS Integration Tools - Issue: Unable to resolve conflict as Access to the path is denied'
-description: Resolve TFS Integration Tools conflicts effortlessly! Learn how to fix 'Access to the path is denied' errors by adjusting permissions in your configuration.
+description: Explains how changing WorkSpaceRoot in TFS Integration Tools can cause access denied errors and details how to fix permission issues by updating folder rights.
 ResourceId: 5Bzu9VOxj_C
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-4-4.png
+Watermarks:
+  description: 2025-05-13T15:07:49Z
+concepts: []
 
 ---
 If you change the WorkSpaceRoot in “C:Program Files (x86)Microsoft Team Foundation Server Integration ToolsMigrationToolServers.config” you may get an access to path is denied when manually resolving conflicts as per [TFS Integration Tools – Issue: TF10141 No Files checked in as a result of a TFS check-in failure](http://blog.hinshelwood.com/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure/).

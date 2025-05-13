@@ -1,6 +1,6 @@
 ---
 title: Developer vindication
-description: Discover my journey as a .Net developer and the unexpected opportunity from Microsoft. Join me as I navigate career changes and visa challenges!
+description: A .NET developer shares their experience of being approached by Microsoft for a potential job, highlighting the challenges of US work visa requirements in the tech industry.
 ResourceId: YexFt6yC4wk
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:27:02Z
+concepts: []
 
 ---
 The biggest vindication of your .Net developer status would be if Microsoft wanted to employ you! And it happened to me...

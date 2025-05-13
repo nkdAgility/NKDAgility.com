@@ -1,6 +1,6 @@
 ---
 title: Deep vein thrombosis (DVT) Update
-description: Discover the latest updates on deep vein thrombosis (DVT) advocacy, including a family's petition for better screening and awareness. Join the cause today!
+description: Update on efforts to improve DVT diagnosis and screening in Scotland, including a petition for mandatory assessment tools and Factor V gene testing in newborns.
 ResourceId: X8m1aVRWGUa
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: deep-vein-thrombosis-dvt-update
 aliases:
-- /resources/X8m1aVRWGUa
 - /resources/blog/deep-vein-thrombosis-dvt-update
+- /resources/X8m1aVRWGUa
 aliasesArchive:
 - /blog/deep-vein-thrombosis-dvt-update
 - /deep-vein-thrombosis-dvt-update
@@ -28,6 +28,9 @@ categories:
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Miscellaneous
+Watermarks:
+  description: 2025-05-13T16:26:01Z
+concepts: []
 
 ---
 Back in March I [posted](http://blog.hinshelwood.com/archive/2007/03/03/Deep_vein_thrombosis_DVT.aspx) about my friend Katie McPherson that died of DVT and her family's [petition](http://epetitions.scottish.parliament.uk/view_petition.asp?PetitionID=155) calling for the Scottish Executive to [introduce mandatory assessment](http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7024788.stm) tools for all health boards for the diagnosis of deep vein thrombosis and to get all newborn babies tested for the "Factor V" gene that increases their susceptibility to the condition.

@@ -1,6 +1,6 @@
 ---
 title: Windows Live ID and OpenID
-description: Explore how Microsoft integrates Windows Live ID with OpenID, enabling seamless authentication and single sign-on for developers and users alike.
+description: Explains how to set up and link a Windows Live ID with OpenID for testing, enabling single sign-on and unified authentication across supported web services like Plaxo.
 ResourceId: OsETJoX5w_V
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-7-1.png
+Watermarks:
+  description: 2025-05-13T16:22:25Z
+concepts: []
 
 ---
 It seams that Microsoft is making an attempt to integrate with OpenID. With the announcement that “[Windows Live ID commits to support of OpenID](http://winliveid.spaces.live.com/Blog/cns!AEE1BB0D86E23AAC!1745.entry)” I thought a little investigation would be in order.

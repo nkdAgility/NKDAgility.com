@@ -1,6 +1,6 @@
 ---
 title: RTM Confusion
-description: Confused about the RTM release of VS2008? Discover insights on Team Explorer, Team Suite, and essential downloads to streamline your development process.
+description: Addresses confusion about the availability of Team Explorer in the Visual Studio 2008 RTM release, download options, and related requirements for source control and .NET 3.5.
 ResourceId: S8tFRw6ao4M
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:42Z
+concepts: []
 
 ---
 I am a little confused by the RTM release of VS2008. I cant find a copy of the Team Explorer RTM or wither it is bundled with Team Suit. This would be a problem if I uninstalled everything only to find that I can't get my source control...

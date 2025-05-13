@@ -1,6 +1,6 @@
 ---
 title: MSN Cartoon (Beta)
-description: Explore the MSN Cartoon Beta and learn how to create custom avatars with this fun guide. Unleash your creativity and share your unique cartoon self!
+description: Step-by-step guide to using MSN Cartoon Beta, a Microsoft tool for creating custom cartoon avatars from photos, including installation, editing, and saving options.
 ResourceId: fFkCnlj8PXW
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: msn-cartoon-beta
 aliases:
-- /resources/fFkCnlj8PXW
 - /resources/blog/msn-cartoon-beta
+- /resources/fFkCnlj8PXW
 aliasesArchive:
 - /blog/msn-cartoon-beta
 - /msn-cartoon-beta
@@ -27,6 +27,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-25-25.png
+Watermarks:
+  description: 2025-05-13T16:27:01Z
+concepts: []
 
 ---
 I just got a comment from Reto Winter to let me know about a [post](http://www.liveside.net/blogs/main/archive/2007/08/03/creating-custom-avatars-a-microsoft-tool-and-others.aspx "Creating custom avatars") regarding a new [Microsoft Avatar service](http://cartoon.msn.com.cn/) on MSN China, so as I am sitting here writing some posts anyway, I will have a look. It is in the same vain as the [Southparkify](http://blog.hinshelwood.com/archive/2007/07/31/Southparkify--Simposonize--better-with-both.aspx) and [Simpsonize me](http://blog.hinshelwood.com/archive/2007/07/30/Simpsonize-Me.aspx) options that I have blogged before.

@@ -1,6 +1,6 @@
 ---
 title: Do you want to be an ALM Consultant?
-description: Join Northwest Cadence as an ALM Consultant! Leverage your expertise in software development and help clients build better software efficiently.
+description: Role overview for an ALM Consultant at Northwest Cadence, focusing on software lifecycle management, training, consulting, and technical leadership using Microsoft technologies.
 ResourceId: VWFF90m9BYG
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2010-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T15:11:15Z
+concepts: []
 
 ---
 [![northwestCadenceLogo](images/Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_2.png)

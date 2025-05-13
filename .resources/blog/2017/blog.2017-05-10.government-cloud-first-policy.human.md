@@ -15,10 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: government-cloud-first-policy
 aliases:
-- /blog/government-cloud-first-policy
-- /government-cloud-first-policy
 - /resources/6VDaSknKBPu
-- /resources/blog/government-cloud-first-policy
 aliasesArchive:
 - /blog/government-cloud-first-policy
 - /government-cloud-first-policy
@@ -29,6 +26,7 @@ categories:
 preview: government-cloud-640x400-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:39Z
+concepts: []
 
 ---
 Why is it that while there is a Government Cloud First policy there are so much fear of cloud in the public sector? I have been working with a number of government and local council agencies in the UK and I found that they are still trying to decide if cloud is a good idea.

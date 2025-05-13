@@ -44,6 +44,8 @@ categories:
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 Watermarks:
   description: 2025-05-07T13:09:32Z
+concepts:
+- Method
 
 ---
 **[Software Development]({{< ref "/tags/software-development" >}})** is not just a systematic process but a dynamic interplay of critical work that shapes the progress of your product. A **[Scrum]({{< ref "/categories/scrum" >}})** team's work can be classified into **Sprint** work and **Refinement**. To steer your **[Scrum Team]({{< ref "/tags/scrum-team" >}})** towards success, it's essential to understand, manage, and balance these two types of work. This article dives deep into the heart of Scrum team operations, offering clear-cut strategies and innovative visualisation techniques to help you understand and manage your Sprint work and Refinement processes effectively. Decode the intricacies of Scrum teamwork and unlock the path to achieving your product goals with increased efficiency.

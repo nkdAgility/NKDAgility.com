@@ -1,6 +1,6 @@
 ---
 title: HTC Touch / Black Shadow Weather
-description: Unlock local weather on your HTC Touch with easy registry hacks! Follow our guide to customize your home screen and enjoy accurate forecasts today!
+description: Guide to adding custom cities to the HTC Touch or Black Shadow Weather app by editing registry or XML files, enabling local weather display on Windows Mobile 6 devices.
 ResourceId: zGbUhq_phsz
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ aliasesArchive:
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-13T16:27:07Z
+concepts: []
 
 ---
 black-shadow-weather

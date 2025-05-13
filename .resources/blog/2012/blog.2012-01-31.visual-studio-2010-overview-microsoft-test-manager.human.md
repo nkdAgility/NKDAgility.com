@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 2010 Overview - Microsoft Test Manager
-description: Discover how Microsoft Test Manager integrates with Visual Studio 2010 and TFS to streamline manual and automated testing. Enhance your testing efficiency now!
+description: Covers using Microsoft Test Manager with Visual Studio 2010 and TFS to create, run, and manage manual and automated tests, including real-time test data collection.
 ResourceId: 6a-Qtjtf94G
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:09:37Z
+concepts: []
 
 ---
 Microsoft Test Manager (MTM), AKA Test Professional, is a new testing system that team can use to create manual and Automation test quickly. The real advantage and strength of MTM is the integration with TFS and Visual Studio 2010 and how it can leverage the ALM tools and practices. In the demo, we show:

@@ -1,6 +1,6 @@
 ---
 title: What do you do with a Work Item History Not Found Conflict Type Details
-description: Discover solutions for TFS migration conflicts in work item history. Learn how to tackle 'not found' errors and streamline your integration process.
+description: Explains how missing or non-consecutive work item revision history during TFS migrations causes conflicts, and details troubleshooting steps and unresolved backlog issues.
 ResourceId: XOt3b4gzyH8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-4-4.png
+Watermarks:
+  description: 2025-05-13T15:10:39Z
+concepts: []
 
 ---
 ![](images/image_thumb-1-1.png)

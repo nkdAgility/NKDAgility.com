@@ -25,6 +25,7 @@ tags:
 - Software Development
 Watermarks:
   description: 2025-05-07T13:05:48Z
+concepts: []
 
 ---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from [Scrum]({{< ref "/categories/scrum" >}}).org as well as the new Agile Kata class and we have them all.

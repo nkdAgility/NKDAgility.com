@@ -1,6 +1,6 @@
 ---
 title: Least opportune time.
-description: Frustrated by server outages while launching TFS Sticky Buddy v2.0? Join Martin Hinshelwood as he shares his challenges and insights in this engaging blog post!
+description: A developer faces a CodePlex TFS server outage while releasing TFS Sticky Buddy v2.0, highlighting the impact of downtime on software deployment and version control.
 ResourceId: wBoC9CmdiGq
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: least-opportune-time
 aliases:
-- /resources/wBoC9CmdiGq
 - /resources/blog/least-opportune-time.
+- /resources/wBoC9CmdiGq
 aliasesArchive:
 - /blog/least-opportune-time
 - /least-opportune-time
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-4-4.png
+Watermarks:
+  description: 2025-05-13T16:22:22Z
+concepts: []
 
 ---
 [![codeplex](images/Leastopportunetime_CCCD-codeplex_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Leastopportunetime_CCCD-codeplex_2.jpg)

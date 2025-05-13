@@ -1,6 +1,6 @@
 ---
 title: Upgrading to Team Foundation Server 2012 Update 1 in production – DONE
-description: Learn how to successfully upgrade to Team Foundation Server 2012 Update 1 with expert tips, a detailed checklist, and troubleshooting advice for a smooth transition.
+description: Step-by-step guide to upgrading Team Foundation Server 2012 to Update 1, including prerequisites, backup, disk space, configuration, troubleshooting, and build server setup.
 ResourceId: -X57bQlULtp
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: upgrading-to-team-foundation-server-2012-update-1-in-production-done
 aliases:
-- /resources/-X57bQlULtp
 - /resources/blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
+- /resources/-X57bQlULtp
 aliasesArchive:
 - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 - /upgrading-to-team-foundation-server-2012-update-1-in-production-done
@@ -32,6 +32,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-15-15.png
+Watermarks:
+  description: 2025-05-13T15:07:01Z
+concepts: []
 
 ---
 Although many of my customers have been having a go at installing Visual Studio Team Foundation Server 2012 Update 1 themselves one or two have had issues. While these issues are easily resolved it is sometimes nice to have someone else who has done the same thing a bunch of times take the rains.

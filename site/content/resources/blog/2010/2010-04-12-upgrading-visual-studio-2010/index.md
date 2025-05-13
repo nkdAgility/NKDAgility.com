@@ -1,6 +1,6 @@
 ---
 title: Upgrading Visual Studio 2010
-description: Learn how to easily upgrade from Visual Studio 2010 RC to RTM with step-by-step instructions and tips for a smooth installation process. Start coding today!
+description: Step-by-step guide to uninstalling Visual Studio 2010 RC and installing the RTM version, including tips for a full install and troubleshooting common issues.
 ResourceId: PqP_zdmb8WX
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-visual-studio-2010-128-link-3-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:22:17Z
+concepts: []
 
 ---
 ![vs2010_ultimate_web](images/UpgradingVisualStudio2010_D9B8-vs2010_ultimate_web_-8-6.jpg)I have been running Visual Studio 2010 as my main development studio on my development computer since the RC was released. I need to upgrade that to the RTM, but first I need to remove it. Microsoft have done a lot of work to make this easy, and it works. Its as easy as uninstalling from the control panel.

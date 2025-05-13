@@ -1,6 +1,6 @@
 ---
 title: Requirement management in the modern application lifecycle with TFS
-description: Explore effective requirement management in the modern application lifecycle with TFS. Discover tools and practices to enhance your team's productivity.
+description: Explains how Team Foundation Server supports requirement management in modern app development, including traceability, integration, and partner tools for agile and compliance needs.
 ResourceId: xCKZmk2o5Me
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-requirements-icon-14-14.png
+Watermarks:
+  description: 2025-05-13T15:07:41Z
+concepts: []
 
 ---
 Managing requirements is hard and no single tool can tell you how to achieve that within your organisation. To that end, Visual Studio 2012 TFS stays out of the “where do your requirements come from” world and firmly in the “i have my requirements.. .what now?” world and indeed the tools built on top of the requirement management system stay in one niche.

@@ -1,6 +1,6 @@
 ---
 title: Developer joins TFS Sticky Buddy project
-description: Exciting news as Eric Willeke joins the TFS Sticky Buddy project! Discover how this addition aims to enhance development and tackle complex coding challenges.
+description: A new developer, Eric Willeke, has joined the TFS Sticky Buddy project team, bringing experience as a tester to help improve and advance the project’s development.
 ResourceId: ghXEm8qg1Pz
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -23,6 +23,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:24:25Z
+concepts: []
 
 ---
 I was pleasantly surprised to see a lot of interest in the [Sticky Buddy project](http://blog.hinshelwood.com/archive/2008/02/05/tfs-sticky-buddy-codeplex-project.aspx). I was particularly exited when Siddharth Bhatia contacted me, but disappointed that he could not get the proof of concept versions to work.

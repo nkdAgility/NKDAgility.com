@@ -1,6 +1,6 @@
 ---
 title: RDdotNET Project Created
-description: Discover the RD.NET Community Foundation, a powerful new project enhancing service-oriented architecture with globalisation, relationship, and shell services.
+description: A new RD.NET Community Foundation project offers extensible services for community sites, including globalisation, relationship management, and modular application support.
 ResourceId: cD1LS3C3pX0
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:29:51Z
+concepts: []
 
 ---
 I have now created a new project within [CodePlex](http://www.codeplex.com "CodePlex") that encompases all of the features of WhiteLabel, but with a whole host of extras. The WhiteLabel project is now complete and a release will be uploaded as soon as [CodePlex](http://www.codeplex.com "CodePlex") starts working again.

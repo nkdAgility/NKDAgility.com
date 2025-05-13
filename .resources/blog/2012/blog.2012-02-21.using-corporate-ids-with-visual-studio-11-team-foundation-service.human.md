@@ -1,6 +1,6 @@
 ---
 title: Using Corporate ID's with Visual Studio 2012 Team Foundation Service
-description: Learn how to manage Live IDs for Visual Studio 2012 Team Foundation Service with custom domains, ensuring secure and efficient user authentication.
+description: Explains how to set up and manage custom domain Live IDs for corporate authentication in Visual Studio 2012 Team Foundation Service using Live Custom Domains.
 ResourceId: Cx5_dJr48V5
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: using-corporate-ids-with-visual-studio-11-team-foundation-service
 aliases:
-- /resources/Cx5_dJr48V5
 - /resources/blog/using-corporate-id-s-with-visual-studio-2012-team-foundation-service
+- /resources/Cx5_dJr48V5
 aliasesArchive:
 - /blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
 - /using-corporate-ids-with-visual-studio-11-team-foundation-service
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-3-3.png
+Watermarks:
+  description: 2025-05-13T15:09:23Z
+concepts: []
 
 ---
 ![](images/image_thumb1.png)It has been noted by a few that there is currently no way to corporately control Live ID's and their use with Visual Studio 2012 Team Foundation Service. These folks are only partially right as there is a work around, which I use myself. I have had a custom Live ID for the last 10 years and for the last few I have used the Live Custom Domain service to provide a little consistency and to make sure that I do not get any… erroneous users entering the fray.

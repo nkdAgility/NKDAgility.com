@@ -1,6 +1,6 @@
 ---
 title: 'Codeplex Project: RDdotNET White Label'
-description: Explore the RDdotNET White Label project on Codeplex, created by Martin Hinshelwood. Discover innovative solutions and enhance your .NET development journey!
+description: Open-source RDdotNET White Label project hosted on Codeplex, providing .NET solution resources and documentation for developers. Includes project link and tags.
 ResourceId: LNv6D2UC7-n
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:29:57Z
+concepts: []
 
 ---
 I have created a codeplex project for one of my solutions. View it here:

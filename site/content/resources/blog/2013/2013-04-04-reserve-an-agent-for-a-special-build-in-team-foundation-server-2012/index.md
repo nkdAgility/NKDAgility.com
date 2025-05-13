@@ -1,6 +1,6 @@
 ---
 title: Reserve an Agent for a special build in Team Foundation Server 2012
-description: Learn how to reserve a build agent in Team Foundation Server 2012 to streamline your build process and avoid conflicts. Optimize your CI/CD workflow now!
+description: Explains how to reserve a build agent in Team Foundation Server 2012 using custom activities, agent tagging, and workflow changes to ensure reliable, isolated build execution.
 ResourceId: SrsgdgZeWGm
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -33,6 +33,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-11-11.png
+Watermarks:
+  description: 2025-05-13T15:06:42Z
+concepts: []
 
 ---
 By the time you hit the AgentScope activity in a TF Build workflow you are already running on the agent and if you have things you need to configure you need to figure out some way to reserve an agent before you get there.

@@ -1,6 +1,6 @@
 ---
 title: TFS Weekend Part 1 - Install
-description: Join Martin Hinshelwood as he shares his TFS installation journey, tackling challenges and solutions for small companies. Discover tips for success!
+description: A walkthrough of installing Team Foundation Server (TFS) in a small business, covering setup steps, admin access, permissions, and remote developer access challenges.
 ResourceId: B1LQBjDfDfF
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-13T16:29:08Z
+concepts: []
 
 ---
 I got a call from a friend of mine (Neil Ramsay) who was installing TFS for his company ([http://www.quantad.com](http://www.quantad.com)). Needless to say, he had a few problems, as everyone does when installing TFS. So he gave me a call and I road to the resque.

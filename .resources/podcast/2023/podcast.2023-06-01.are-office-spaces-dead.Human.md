@@ -18,6 +18,7 @@ aliases:
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:59Z
+concepts: []
 
 ---
 In this month's edition of Agile Actually, Martin and Simon explore the rise of remote work and whether working from the office, as we knew it, is dead.

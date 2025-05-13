@@ -1,6 +1,6 @@
 ---
 title: 'Agility and Windows 10: Upgrading my Surface Pro 2'
-description: Join Martin Hinshelwood as he shares his experience upgrading a Surface Pro 2 to Windows 10 Technical Preview, exploring agility and user feedback in tech.
+description: A first-hand account of upgrading a Surface Pro 2 to Windows 10 Technical Preview, exploring Microsoft’s shift to agile development and continuous delivery for Windows.
 ResourceId: yn8SQ53TMaP
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-windows-logo-12-12.png
+Watermarks:
+  description: 2025-05-12T14:21:11Z
+concepts: []
 
 ---
 You know me, I am always willing to take a little risk to get some gain. As such I will be upgrading my Surface Pro 2 to Windows 10 Technical Preview on the train on the way back from teaching the Professional Scrum Foundations in Cheltenham.

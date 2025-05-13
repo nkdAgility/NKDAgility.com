@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 aliases:
-- /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
-- /in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
-- /in-nexus-with-5-scrum-teams,-how-can-the-product-owner-attend-all-sprint-planning-events-
-- /blog/in-nexus-with-5-scrum-teams,-how-can-the-product-owner-attend-all-sprint-planning-events-
 - /resources/As4R5dKsJtU
-- /in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
-- /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
-- /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 aliasesArchive:
 - /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 - /in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
@@ -44,6 +37,8 @@ categories:
 preview: 146713119-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:08Z
+concepts:
+- Method
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

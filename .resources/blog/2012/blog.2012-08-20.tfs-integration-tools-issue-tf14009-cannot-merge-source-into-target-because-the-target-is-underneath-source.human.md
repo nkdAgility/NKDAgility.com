@@ -1,6 +1,6 @@
 ---
 title: 'TFS Integration Tools - Issue: TF14009: Cannot merge source into target because the target is underneath source'
-description: Discover solutions for the TF14009 error in TFS integration. Learn effective workarounds to ensure smooth source code migration between projects.
+description: Explains the TF14009 error in TFS when merging a source into a subfolder of itself, its causes during migration, and practical workarounds to resolve the issue.
 ResourceId: pwygxmIIHOc
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-5-5.png
+Watermarks:
+  description: 2025-05-13T15:08:10Z
+concepts: []
 
 ---
 If you are moving source from one team project to another (I am doing a migration of Source Code from “TeamProjectA” to “TeamProjectBTeamProjectA” in the same collection) you can get a TF14009 if there is a bad check-in in TFS from a previous version. In this case  a folder was branched from itself into a sub folder.

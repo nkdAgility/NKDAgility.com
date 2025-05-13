@@ -1,6 +1,6 @@
 ---
 title: An Application Deployment
-description: Explore the challenges of application deployment and the pitfalls of poor documentation. Learn how to navigate complex installations effectively.
+description: Highlights the challenges of deploying complex enterprise applications with incomplete, unclear documentation, emphasising the need for accurate installation guides.
 ResourceId: UnvdJlF863n
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:27:06Z
+concepts: []
 
 ---
 Why is it that vendors insist on developers staying up all night to write installation documentation for a 40 component on 19 server installation? Do they not realize that this is not the best way to have your documentation produced? What about the image that it presents to the customer, or the impact of someone actually following said documentation!

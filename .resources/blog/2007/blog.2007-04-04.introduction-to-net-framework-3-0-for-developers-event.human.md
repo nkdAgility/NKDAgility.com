@@ -1,6 +1,6 @@
 ---
 title: Introduction to .NET Framework 3.0 for Developers Event
-description: Join us as we explore .NET Framework 3.0 insights from a Microsoft event, featuring CardSpace and Windows Workflow Foundation. Enhance your development skills!
+description: Overview of key features in .NET Framework 3.0 for developers, including CardSpace, Windows Workflow Foundation, and practical insights from a Microsoft-led session.
 ResourceId: gdc1V-o308o
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: introduction-to-net-framework-3-0-for-developers-event
 aliases:
-- /resources/gdc1V-o308o
 - /resources/blog/introduction-to-.net-framework-3.0-for-developers-event
+- /resources/gdc1V-o308o
 aliasesArchive:
 - /blog/introduction-to-net-framework-3-0-for-developers-event
 - /introduction-to-net-framework-3-0-for-developers-event
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:28:49Z
+concepts: []
 
 ---
 Yesterday I visited the Strathclyde University campus to see a half day session from Microsoft's [Mike Taulty](http://mtaulty.com/communityserver/blogs/mike_taultys_blog/default.aspx).

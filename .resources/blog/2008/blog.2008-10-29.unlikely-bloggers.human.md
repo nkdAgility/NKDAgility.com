@@ -1,6 +1,6 @@
 ---
 title: Unlikely bloggers…
-description: Discover the inspiring journey of unlikely bloggers like Eric McCarthy and join the conversation in the blogosphere. Everyone has a voice—share yours!
+description: Highlights the value of people from non-traditional backgrounds, like helpdesk professionals, sharing their knowledge and experiences through blogging.
 ResourceId: cFVF2mb9dJ8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: unlikely-bloggers
 aliases:
-- /resources/cFVF2mb9dJ8
 - /resources/blog/unlikely-bloggers
+- /resources/cFVF2mb9dJ8
 aliasesArchive:
 - /blog/unlikely-bloggers
 - /unlikely-bloggers
@@ -27,6 +27,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:22:44Z
+concepts: []
 
 ---
 I always like to see people for whom it is traditionally unlikely to blog to start contributing to that big knowledgebase in the either that is the blogosphere. I would like to call attention to [Eric McCarthy](http://geekswithblogs.net/HelpdeskHero/archive/2008/05/15/intro.aspx) who started blogging today and call out to all other helpdesk Hero’s to join the fray…

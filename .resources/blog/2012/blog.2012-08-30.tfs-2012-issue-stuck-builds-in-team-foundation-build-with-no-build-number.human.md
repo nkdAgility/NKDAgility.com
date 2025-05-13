@@ -1,6 +1,6 @@
 ---
 title: 'TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number'
-description: Resolve stuck builds in TFS 2012 with our troubleshooting guide. Discover key insights and solutions to get your Team Foundation Build back on track!
+description: Explains how to resolve stuck builds in TFS 2012 where no build number is assigned, caused by IIS multiple site bindings, with steps to fix via web.config settings.
 ResourceId: NARdkNvqUei
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -31,6 +31,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-7-7.png
+Watermarks:
+  description: 2025-05-13T15:07:46Z
+concepts: []
 
 ---
 When you queue a build you never get a build number and the build never completes. [![image](images/image_thumb109-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image110.png)  

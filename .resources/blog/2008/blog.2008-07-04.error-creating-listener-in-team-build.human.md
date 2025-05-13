@@ -1,6 +1,6 @@
 ---
 title: Error creating listener in Team Build
-description: Resolve the 'AddressAccessDeniedException' error in Team Build by granting the right permissions to your service account. Get expert tips and solutions!
+description: Explains how to resolve AddressAccessDeniedException when running tests in Team Build by granting the Build Agent service account permission to create IIS listeners.
 ResourceId: Eonka3snrWz
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:23:53Z
+concepts: []
 
 ---
 If, like me you are trying to run tests against your web services and you the error below, you will need to give permission to the service account that runs your Build Agent to create listeners in IIS.

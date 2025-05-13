@@ -15,13 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: mapping-windows-special-folders-onedrive-business-ultimate-backup
 aliases:
-- /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
-- /mapping-windows-special-folders-onedrive-business-ultimate-backup
-- /mapping-your-windows-special-folders-to-onedrive-for-business
-- /mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
-- /blog/mapping-your-windows-special-folders-to-onedrive-for-business---ultimate-backup
 - /resources/mKq16PgA7Ks
-- /resources/blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 aliasesArchive:
 - /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
 - /mapping-windows-special-folders-onedrive-business-ultimate-backup
@@ -36,6 +30,7 @@ categories:
 preview: clip_image001-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:48Z
+concepts: []
 
 ---
 Do you worry that you will lose files on your computer? Well you should! At any time your harddrive can fail, or your house could be hit by a meteor, or stolen. I keep everything on my computer encrypted with BitLocker and can remote wipe any of my data, however I want to be able to access it from anywhere. Everything needs to be in at least two locations to be called a backup, a local separate disk is only partial backup and realis on being at home to backup leading to stale data. That means that the only viable place to securely store your data is the cloud.

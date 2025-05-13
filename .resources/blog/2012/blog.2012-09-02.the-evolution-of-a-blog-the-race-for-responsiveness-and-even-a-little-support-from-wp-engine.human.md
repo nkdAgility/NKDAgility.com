@@ -1,6 +1,6 @@
 ---
 title: The evolution of a blog, the race for responsiveness and even a little support from WP Engine
-description: Discover the journey of a blog's evolution and the quest for speed with WP Engine. Learn how to enhance performance and responsiveness effectively!
+description: Covers migrating a WordPress blog to improve speed and reliability, comparing hosts, plugin choices, and the impact of WP Engine’s support and performance features.
 ResourceId: 6-_05CBAsbh
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-9-9.png
 tags: []
+Watermarks:
+  description: 2025-05-13T15:07:43Z
+concepts: []
 
 ---
 [![WPEngine-Logo-300x125](images/WPEngine-Logo-300x125_thumb-11-11.jpg "WPEngine-Logo-300x125")](http://www.shareasale.com/r.cfm?b=394686&u=687520&m=41388&urllink=&afftrack=)You may have noticed a little down time today. Thanks to the folks who emails to let me now of problems, some I was already on top of… others needed a good poking. The downtime was due to me moving my hosting provider. This blog has had a few homes over the years (my goodness…6 years!) and as it has grown so it has slowed. My site is image heavy and I also make poor choice of plugins in favour of features. It has been a constant annoyance for me that my blog has had abysmal loading times of late.

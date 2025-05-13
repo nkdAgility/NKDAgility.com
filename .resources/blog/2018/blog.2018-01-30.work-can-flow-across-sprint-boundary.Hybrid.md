@@ -16,12 +16,7 @@ layout: blog
 resourceTypes: blog
 slug: work-can-flow-across-sprint-boundary
 aliases:
-- /blog/work-can-flow-across-sprint-boundary
-- /work-can-flow-across-sprint-boundary
-- /work-can-flow-across-the-sprint-boundary
-- /blog/work-can-flow-across-the-sprint-boundary
 - /resources/a7UMLdZeVYq
-- /resources/blog/work-can-flow-across-sprint-boundary
 aliasesArchive:
 - /blog/work-can-flow-across-sprint-boundary
 - /work-can-flow-across-sprint-boundary
@@ -47,6 +42,8 @@ categories:
 preview: nkdagility-cross-sprint-boundary-2-1.png
 Watermarks:
   description: 2025-05-07T13:16:19Z
+concepts:
+- Method
 
 ---
 There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that says that you can't have workflow across the Sprint boundary. I'm going to suggest that not only can you, but you should as long as you don't endanger the Sprint Goal.

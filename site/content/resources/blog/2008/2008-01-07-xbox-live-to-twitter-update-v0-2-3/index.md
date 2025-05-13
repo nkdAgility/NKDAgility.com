@@ -1,6 +1,6 @@
 ---
 title: Xbox  Live to Twitter Update (v0.2.3)
-description: Discover the latest updates to the Xbox Live to Twitter app! Enhance your gaming experience with new features and customization options. Download now!
+description: An updated tool that posts Xbox Live status updates to Twitter, with plans for customisation options and achievement tracking. Source code and downloads available.
 ResourceId: 4kh61B4o7T1
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: xbox-live-to-twitter-update-v0-2-3
 aliases:
-- /resources/4kh61B4o7T1
 - /resources/blog/xbox-live-to-twitter-update-v0.2.3
+- /resources/4kh61B4o7T1
 aliasesArchive:
 - /blog/xbox-live-to-twitter-update-v0-2-3
 - /xbox-live-to-twitter-update-v0-2-3
@@ -30,6 +30,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-xbox-360-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:06Z
+concepts: []
 
 ---
 I have updated the [Xbox Live to Twitter application](http://blog.hinshelwood.com/archive/2008/01/04/xbox-live-to-twitter.aspx) and it works quite well now. There are currently too many updates as you can see from my twitter on the left of my blog ![smile_omg](images/smile_omg-2-2.gif).

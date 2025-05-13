@@ -1,6 +1,6 @@
 ---
 title: How might we implement the Change Iteration Automation for the Tfs Automation Platform
-description: Explore the implementation of Change Iteration Automation for the TFS Automation Platform, enhancing efficiency in managing queries across sprints.
+description: Explains automating the update of WIQL queries during sprint or iteration changes in the TFS Automation Platform, covering UI, configuration, and job execution details.
 ResourceId: sE7yYXG4Th_
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:47Z
+concepts: []
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb-5-5.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif)

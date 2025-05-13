@@ -1,6 +1,6 @@
 ---
 title: Gears of War Update starting 9-Jan-2007
-description: Get ready for the Gears of War update on January 9, 2007! Discover new multiplayer maps and fixes for ranked matches. Don't miss out!
+description: Gears of War receives a system update on 9 January 2007, ahead of two new multiplayer maps and potential fixes for ranked match issues on Xbox Live Marketplace.
 ResourceId: M-6kKMAcLiM
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:29:36Z
+concepts: []
 
 ---
 A Gears of War update should start pushing through the system at some point tomorrow, Tuesday January 9, 2007 prior to the two new multiplayer maps being available on Xbox Live Marketplace on Wednesday January 10, 2007.

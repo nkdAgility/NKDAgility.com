@@ -50,8 +50,7 @@ categories:
 - Technical Leadership
 Watermarks:
   description: 2025-05-07T13:07:27Z
-concepts:
-- Values
+concepts: []
 
 ---
 As I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself returning to the foundational elements that are crucial for any new [Scrum team]({{< ref "/tags/scrum-team" >}}). When a team is just starting out, it’s essential to recognise that their understanding of Scrum, empiricism, and the [Scrum values]({{< ref "/tags/scrum-values" >}}) will significantly influence their effectiveness. 

@@ -1,6 +1,6 @@
 ---
 title: The TFS Automation Platform is dead, long live the TfPlugable
-description: Discover the TfPlugable, a revolutionary solution for TFS automation. Simplify deployment and management of extensions with our innovative platform!
+description: Explores the shift from TFS Automation Platform to TfPlugable, aiming to simplify discovery, deployment, and management of Team Foundation Server extensions.
 ResourceId: cMYx4JN2az5
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T15:07:00Z
+concepts: []
 
 ---
 The TFS Automation Platform is dead, long live the TfPlugable! It has been a long time since I have talked about the [TFS Automation Platform](http://blog.hinshelwood.com/what-is-the-tfs-automation-platform/) that I had almost forgotten about it myself. It was almost two years ago that I spoke to [Willy](http://blogs.msdn.com/b/willy-peter_schaub/) about an ALM Rangers project to build a solution to dynamically deploy plug-ins for TFS, kind of like Nuget for TFS Extensions.

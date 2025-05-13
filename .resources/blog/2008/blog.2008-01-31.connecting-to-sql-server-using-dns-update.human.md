@@ -1,6 +1,6 @@
 ---
 title: Connecting to SQL Server using DNS update
-description: Learn how to connect to SQL Server using DNS updates and manage SPNs effectively for seamless database access. Enhance your infrastructure setup today!
+description: Explains how updating DNS and Service Principal Names (SPNs) in Active Directory enables secure Windows Authentication connections to SQL Server instances.
 ResourceId: P0XjI6SRWz-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:41Z
+concepts: []
 
 ---
 OK, I now have the additional SPN's added to AD that I mentioned in [my post](http://blog.hinshelwood.com/archive/2008/01/31/connecting-to-sql-server-using-dns.aspx "Connecting to SQL Server using DNS") and a listing returns:

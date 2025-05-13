@@ -1,6 +1,6 @@
 ---
 title: Can you really commit to delivering work?
-description: Explore the shift from commitment to forecasting in Scrum. Discover how this change fosters transparency and trust within your development team.
+description: Explores why Scrum shifted from "commitment" to "forecasting" work delivery, highlighting the risks of overpromising and the benefits of transparency in Agile teams.
 ResourceId: uvzKTaweOnW
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
+Watermarks:
+  description: 2025-05-13T15:09:51Z
+concepts: []
 
 ---
 [![PST Logo 2](images/PST-Logo-2_thumb-8-8.png "PST Logo 2")](http://blog.hinshelwood.com/files/2011/11/PST-Logo-2.png) There has been a subtle but targeted change in the wording used as part of Scrum. There has bee a move away from commitment towards forecasting what will be completed. Why is this happening and what does it mean to my team?

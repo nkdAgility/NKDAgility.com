@@ -56,6 +56,8 @@ categories:
 preview: image-3-3.png
 Watermarks:
   description: 2025-05-07T13:14:56Z
+concepts:
+- Tenet
 
 ---
 One of my customers is asking me about the accountabilities of a [Product Owner]({{< ref "/tags/product-owner" >}}) and how they break down. While I had seen many things around the [Scrum]({{< ref "/categories/scrum" >}}) Master for my post on [Hiring a Professional Scrum Master](https://nkdagility.com/blog/hiring-a-professional-scrum-master/), this was a little bit more of a discovery session, which is why I asked some of my trusted colleagues at Scrum.org to help out.

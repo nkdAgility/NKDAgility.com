@@ -18,6 +18,7 @@ aliases:
 tags: []
 Watermarks:
   description: 2025-05-07T13:11:10Z
+concepts: []
 
 ---
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of [transparency]({{< ref "/tags/transparency" >}}), specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.

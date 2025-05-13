@@ -1,6 +1,6 @@
 ---
 title: Its that time again
-description: Explore the journey of a developer contemplating a shift to contracting amidst life changes. Discover insights on career growth and overcoming fears.
+description: A developer reflects on career changes, balancing family and work, and considers moving into contracting for flexibility and better pay, especially in .NET and enterprise tech.
 ResourceId: n0GHiv0sTfp
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:27:41Z
+concepts: []
 
 ---
 With a new baby, new mortgage rate and declining job satisfaction I am getting that itchy feeling in my feet. There was a time that I was allowed to Code for a living and not just support applications and document deployment strategies. I have ended up filling my free time with my love of Coding and now, with the new baby, I find that my free time is drying up.

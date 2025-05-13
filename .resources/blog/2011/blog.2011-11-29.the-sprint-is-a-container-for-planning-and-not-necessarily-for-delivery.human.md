@@ -1,6 +1,6 @@
 ---
 title: The Sprint is a container for Planning and not necessarily for Delivery
-description: Explore how Scrum can enhance planning without strict delivery schedules. Learn to embrace Continuous Delivery for better software development practices.
+description: Explains how Scrum Sprints are primarily for planning, not fixed delivery, and discusses aligning delivery schedules, continuous deployment, and improving software quality.
 ResourceId: 6USQKO75YgH
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -35,6 +35,9 @@ tags:
 categories:
 - Engineering Excellence
 preview: nakedalm-logo-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:09:49Z
+concepts: []
 
 ---
 I have been told time and again in the office that Scrum is an inflexible platform for developing software as it is way too prescriptive. This is far from reality and represents an invalid interpretation in the rules of the game. This fault lies not with those that have been turned away from the light, but with the fanatics that have brandished the burning torch and pitchfork at your door chanting "that is not Scrum because...".

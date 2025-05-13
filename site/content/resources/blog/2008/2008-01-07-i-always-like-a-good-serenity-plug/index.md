@@ -1,6 +1,6 @@
 ---
 title: I always like a good Serenity plug...
-description: Discover your Serenity character with our fun quiz! Find out if you're more like Dr. Simon Tam or Captain Malcolm Reynolds. Join the adventure now!
+description: Find out which Serenity character you resemble most with quiz results, including detailed character match percentages and a brief personality summary.
 ResourceId: 5Grofbh67Vs
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: i-always-like-a-good-serenity-plug
 aliases:
-- /resources/5Grofbh67Vs
 - /resources/blog/i-always-like-a-good-serenity-plug...
+- /resources/5Grofbh67Vs
 aliasesArchive:
 - /blog/i-always-like-a-good-serenity-plug
 - /i-always-like-a-good-serenity-plug---
@@ -28,6 +28,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:25:03Z
+concepts: []
 
 ---
 Your results:  

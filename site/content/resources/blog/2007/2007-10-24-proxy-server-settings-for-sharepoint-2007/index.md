@@ -1,6 +1,6 @@
 ---
 title: Proxy server settings for SharePoint 2007
-description: Discover essential proxy server settings for SharePoint 2007 to enhance connectivity and authentication. Simplify your setup with expert guidance!
+description: Explains how to configure proxy server settings in SharePoint 2007, including passing user credentials and setting bypass rules for specific domains in the config file.
 ResourceId: 5_4fz8bD4UU
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:44Z
+concepts: []
 
 ---
 Well this was fun... All the [examples](http://dotnet.org.za/jpfouche/archive/2007/03/23/sharepoint-2007-rss-viewer-and-proxy-configuration.aspx "Missing details") of how to connect through a proxy from SharePoint are missing a crucial piece of information!

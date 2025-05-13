@@ -1,6 +1,6 @@
 ---
 title: 'TFS Event Handler: CTP1 Imminent'
-description: Discover the upcoming TFS Event Handler CTP1 release! Join Martin Hinshelwood as he shares insights and updates on this essential tool for developers.
+description: First Community Technology Preview (CTP1) of TFS Event Handler is being prepared, aiming to deliver initial core features for Team Foundation Server integration.
 ResourceId: VWTrf8PCadG
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:29Z
+concepts: []
 
 ---
 I have decided to go the same root as MS and use the Community Technology Preview (CTP) structure for my releases as there are quite a few people interested in using the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler).

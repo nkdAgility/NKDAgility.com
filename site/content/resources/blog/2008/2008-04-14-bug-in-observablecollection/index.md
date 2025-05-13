@@ -1,6 +1,6 @@
 ---
 title: Bug in ObservableCollection?
-description: Struggling with ObservableCollection and generics in WPF? Discover the limitations and a workaround to enhance your coding experience. Dive in now!
+description: Explains issues using ObservableCollection with generic types in .NET, why errors occur, and discusses workarounds and limitations when working with custom classes.
 ResourceId: L9aNTno7QM3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T16:24:23Z
+concepts: []
 
 ---
 I seam to be having a little problem. Now, this may be me being stupid, but I can't get an ObservableCollection to work if you pass it a generic type!

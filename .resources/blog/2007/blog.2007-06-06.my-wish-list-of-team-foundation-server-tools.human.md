@@ -1,6 +1,6 @@
 ---
 title: My Wish List of Team Foundation Server Tools
-description: Explore essential Team Foundation Server tools in my wish list, designed to enhance workflow and collaboration for developers. Join the conversation!
+description: A list of desired Team Foundation Server tools, including event handlers, workflow integration, Jira and BPEL sync, simplified work item submission, notifications, and SharePoint support.
 ResourceId: ew4cQCgRYB0
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:09Z
+concepts: []
 
 ---
 **TFS Event Handler**

@@ -1,6 +1,6 @@
 ---
 title: 'Project Server 2013 Issue - TF294012: Cannot access the following enterprise project'
-description: Resolve the TF294012 error in Project Server 2013 with our step-by-step guide. Learn how to manage permissions and access your enterprise projects effectively.
+description: Explains how to resolve the TF294012 error in Project Server 2013 by switching from SharePoint to Project Server permission mode for Team Foundation Server integration.
 ResourceId: B7vlHTIj_jT
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-8-8.png
+Watermarks:
+  description: 2025-05-13T15:07:15Z
+concepts: []
 
 ---
 When you try to map an individual Enterprise Project to a specific Team Project you get a TF294012: Cannot access the following enterprise project error that you can’t resolve.

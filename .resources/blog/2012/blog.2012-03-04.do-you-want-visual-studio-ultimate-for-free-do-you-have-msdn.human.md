@@ -1,6 +1,6 @@
 ---
 title: Do you have MSDN at work? Use Visual Studio Ultimate for free at home?
-description: Unlock the full potential of your MSDN subscription! Discover how to use Visual Studio Ultimate for free at home and enhance your development skills.
+description: MSDN subscribers can use Visual Studio, Windows, and Office at home for personal or commercial projects, with licences assigned per user and perpetual rights to existing software.
 ResourceId: 3-L2Y2t-oE7
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-3-3.png
+Watermarks:
+  description: 2025-05-13T15:09:12Z
+concepts: []
 
 ---
 Are you a professional developer? Do you get an MSDN from your organisation? Did you know that you can use it at home on both commercial and open source projects of your own!

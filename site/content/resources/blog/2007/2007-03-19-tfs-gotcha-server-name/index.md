@@ -1,6 +1,6 @@
 ---
 title: TFS Gotcha (server name)
-description: Discover how to tackle TFS installation issues in large networks with proxy servers. Follow our guide to ensure smooth access and setup for your team!
+description: Explains how to fix TFS installation issues caused by server name and proxy settings by editing the hosts file and renaming the server to its fully qualified domain name.
 ResourceId: l7s81fXVkty
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-gotcha-server-name
 aliases:
-- /resources/l7s81fXVkty
 - /resources/blog/tfs-gotcha-server-name
+- /resources/l7s81fXVkty
 aliasesArchive:
 - /blog/tfs-gotcha-server-name
 - /tfs-gotcha-server-name
@@ -31,6 +31,9 @@ tags:
 - Install and Configuration
 - Windows
 - System Configuration
+Watermarks:
+  description: 2025-05-13T16:29:06Z
+concepts: []
 
 ---
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..

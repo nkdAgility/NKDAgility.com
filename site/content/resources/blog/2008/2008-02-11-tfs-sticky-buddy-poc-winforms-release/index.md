@@ -1,6 +1,6 @@
 ---
 title: TFS Sticky Buddy POC (WinForms) release
-description: Explore the TFS Sticky Buddy POC for WinForms, a demo dashboard for Team Foundation Server. Download now to enhance your project management experience!
+description: Proof of concept Windows Forms dashboard for Team Foundation Server, including source code. Requires .NET 3.5 and Visual Studio 2008 Team Explorer. For demo use only.
 ResourceId: FSoIFwapvMt
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-poc-winforms-release
 aliases:
-- /resources/FSoIFwapvMt
 - /resources/blog/tfs-sticky-buddy-poc-winforms-release
+- /resources/FSoIFwapvMt
 aliasesArchive:
 - /blog/tfs-sticky-buddy-poc-winforms-release
 - /tfs-sticky-buddy-poc-winforms-release
@@ -27,6 +27,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:34Z
+concepts: []
 
 ---
 You can now[![image](images/TFSStickyBuddyPOCWinFormsrelease_8960-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyPOCWinFormsrelease_8960-image_2.png) [Download](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSStickyBuddy&ReleaseId=10639 "TFS Sticky Buddy POC (WinForms) release") the [TFS Sticky Buddy windows forms proof of concept demo](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx "Codeplex RDdotNet TFS Sticky Buddy latest release") from the [Codeplex](http://www.codeplex.com/TFSStickyBuddy "Codeplex RDdotNet TFS Sticky Buddy project") site.

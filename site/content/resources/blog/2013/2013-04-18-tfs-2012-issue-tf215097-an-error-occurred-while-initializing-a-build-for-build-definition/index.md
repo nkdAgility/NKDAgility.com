@@ -1,6 +1,6 @@
 ---
 title: 'TFS 2012 Issue: TF215097 an error occurred while initializing a build for build definition'
-description: Resolve the TF215097 error in TFS 2012 builds with our detailed guide. Learn to load custom assemblies and streamline your build process effectively!
+description: Explains the TF215097 error in TFS 2012 builds, its cause—missing custom assemblies—and how to resolve it by configuring the build controller to reference those assemblies.
 ResourceId: Esy-i2Fcamk
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: puzzle-issue-problem-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T15:06:36Z
+concepts: []
 
 ---
 When you are running a build you get a “TF215097 an error occurred while initializing a build for build definition” message and you don’t even get a build number.

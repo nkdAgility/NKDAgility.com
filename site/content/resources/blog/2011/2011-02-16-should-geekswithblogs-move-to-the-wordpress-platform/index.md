@@ -1,6 +1,6 @@
 ---
 title: Should GeeksWithBlogs move to the Wordpress Platform?
-description: Explore the debate on migrating GeeksWithBlogs to WordPress. Join the conversation and vote for enhanced features and better blogging capabilities!
+description: Explores the benefits and challenges of migrating GeeksWithBlogs from SubText to WordPress, focusing on features, user needs, SEO, and community involvement.
 ResourceId: INzImndgeUG
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-4-4.png
+Watermarks:
+  description: 2025-05-13T15:11:07Z
+concepts: []
 
 ---
 [![](https://s3.amazonaws.com/uploads.uservoice.com/logo/subdomain/48516/original/gwb_small.gif?1274098879)](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)

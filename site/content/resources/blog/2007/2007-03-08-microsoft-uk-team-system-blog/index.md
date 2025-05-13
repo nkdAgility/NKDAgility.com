@@ -1,6 +1,6 @@
 ---
 title: Microsoft UK Team System Blog
-description: Discover insights from the Microsoft UK Team System Blog, where TFS experts share valuable tips and updates on ALM. Join the conversation today!
+description: Updates and insights from the UK Team Foundation Server team, sharing news, tips, and resources on Application Lifecycle Management and TFS developments.
 ResourceId: 7sufhYTYvt-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-13T16:29:11Z
+concepts: []
 
 ---
 The TFS guys in the UK are blogging! They started late last year, but in the time honored tradition of blogging, "Don't tell anyone you have one until there is something to read."

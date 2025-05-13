@@ -1,6 +1,6 @@
 ---
 title: No love between McAfee Enterprise and MOSS 2007
-description: Discover the issues between McAfee Enterprise and MOSS 2007 that hinder SharePoint performance. Learn how to resolve conflicts for smoother operations.
+description: Explains how McAfee antivirus can cause search errors in Microsoft Office SharePoint Server 2007, highlighting compatibility issues and the need for specialised solutions.
 ResourceId: uprMOboloWH
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:15Z
+concepts: []
 
 ---
 Well I think I have found the root of the problem with my Microsoft office SharePoint Server 2007 dev box! It was McAfee  plain and simple.

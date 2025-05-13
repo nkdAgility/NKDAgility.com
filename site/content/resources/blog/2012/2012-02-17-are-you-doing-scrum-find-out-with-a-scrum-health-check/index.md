@@ -1,6 +1,6 @@
 ---
 title: Are you doing Scrum? Find out with a Scrum Health Check!
-description: Discover if your team is truly doing Scrum with our Scrum Health Check! Identify improvement opportunities and ensure you're on the right path to success.
+description: Assess your team's Scrum practices with a quick health check to identify improvement areas, track progress, and ensure alignment with Scrum principles and goals.
 ResourceId: sd5d5KYoXsO
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:09:25Z
+concepts: []
 
 ---
 I posted before about [how you know that you are doing Scrum, or not](http://blog.hinshelwood.com/are-you-doing-scrum-really/), but how do you! This is something that has been banded about both in the Scrum.org community and within Northwest Cadence for a while and we have come to the conclusion that we need to check!

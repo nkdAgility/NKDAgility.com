@@ -36,6 +36,7 @@ categories:
 preview: image-1-1-1.png
 Watermarks:
   description: 2025-05-07T13:15:37Z
+concepts: []
 
 ---
 With the change in business model in the current crisis, many training organizations have had to do the unthinkable and move to Live Virtual training options. Existing wisdom was that training online, just as running teams virtually would be a disaster and reduce the student's experience.

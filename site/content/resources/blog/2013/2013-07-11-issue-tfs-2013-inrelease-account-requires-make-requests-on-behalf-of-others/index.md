@@ -1,6 +1,6 @@
 ---
 title: Issue [ TFS 2013 ] InRelease account requires make requests on behalf of others
-description: Resolve the TFS 2013 InRelease error requiring 'make requests on behalf of others' with our step-by-step guide to configure permissions effectively.
+description: Explains how to resolve InRelease connection errors with TFS 2013 by granting the required "make requests on behalf of others" permission to the service account.
 ResourceId: SYCGxfoMPjw
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 aliases:
-- /resources/SYCGxfoMPjw
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+- /resources/SYCGxfoMPjw
 aliasesArchive:
 - /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 - /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
@@ -31,6 +31,9 @@ tags:
 categories:
 - Uncategorized
 preview: puzzle-issue-problem-128-link-5-5.png
+Watermarks:
+  description: 2025-05-13T15:05:47Z
+concepts: []
 
 ---
 When you try to configure InRelease to connect to your Team Foundation Server 2013 Team Project Collection you get an error message saying that you are unable to connect because you need to be able to requires make requests on behalf of others.

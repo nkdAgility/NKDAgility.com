@@ -1,6 +1,6 @@
 ---
 title: Simpsonize Me!
-description: Discover how to 'Simpsonize' yourself! Join Martin Hinshelwood as he shares his fun experience and tips for creating your own animated character.
+description: Transform your photo into a character styled like The Simpsons using an online tool that creates cartoon versions of real-life images.
 ResourceId: vThsgxwl-Tv
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:27:14Z
+concepts: []
 
 ---
 [Scott Miller](http://geekswithblogs.net/appsguild) alerted my to this with his [post](http://geekswithblogs.net/appsguild/archive/2007/07/18/114038.aspx "Simpsonize Me!") about 4 days ago, and I have finally got it working:

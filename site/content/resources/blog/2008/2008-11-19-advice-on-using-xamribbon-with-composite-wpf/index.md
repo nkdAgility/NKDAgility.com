@@ -1,6 +1,6 @@
 ---
 title: Advice on using XamRibbon with Composite WPF
-description: Discover expert advice on integrating XamRibbon with Composite WPF. Enhance your applications with practical tips and code examples from Martin Hinshelwood.
+description: Provides guidance and code examples for integrating Infragistics XamRibbon with Composite WPF, including custom region adapters for dynamic tab and menu management.
 ResourceId: gEnb0c6i-3I
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T16:22:23Z
+concepts: []
 
 ---
 [![image](images/AdviceonusingXamRibbonwithCompositeWPF_EBA6-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AdviceonusingXamRibbonwithCompositeWPF_EBA6-image_2.png)

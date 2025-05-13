@@ -1,6 +1,6 @@
 ---
 title: About Me
-description: Discover the journey of Martin Hinshelwood, a tech enthusiast sharing insights and experiences while striving to stand out in a world of football fame.
+description: Personal profile with links to Martin Hinshelwood’s resume, LinkedIn, and background, clarifying identity and focusing on technology over football in search results.
 ResourceId: sLyEoCihMuc
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:26:32Z
+concepts: []
 
 ---
 I thought I should take a leaf out of [Scott Dorman's](http://geekswithblogs.net/sdorman/archive/2007/08/15/About.aspx "About Scott Dorman") book and post some information about me:

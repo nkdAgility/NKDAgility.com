@@ -37,8 +37,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:11Z
-concepts:
-- Values
+concepts: []
 
 ---
 ## "But in the Real World..."

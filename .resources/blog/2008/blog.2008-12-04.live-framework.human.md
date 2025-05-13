@@ -1,6 +1,6 @@
 ---
 title: Live Framework
-description: Explore the potential of Azure for WPF development with Live Framework. Discover how to enhance collaboration and streamline app configuration effortlessly!
+description: Explores using Azure Services Platform to enable cloud-based configuration, real-time chat, and collaboration features in WPF applications, similar to Xbox Live.
 ResourceId: Z0HJqKyl85C
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-cloud-azure-link-2-2.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:22:12Z
+concepts: []
 
 ---
 I have been getting very interested in the new [Azure Services Platform](http://www.microsoft.com/azure/register.mspx) and how I can use it to facilitate WPF development.

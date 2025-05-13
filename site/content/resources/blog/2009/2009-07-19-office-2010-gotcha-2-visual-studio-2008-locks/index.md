@@ -1,6 +1,6 @@
 ---
 title: 'Office 2010 gotcha 2: Visual Studio 2008 Locks'
-description: Discover how to resolve Visual Studio 2008 locks after installing Office 2010. Follow this simple fix to enhance your development experience!
+description: Explains how installing Office 2010 can cause Visual Studio 2008 to freeze when editing ASPX files, and provides a fix by repairing the Web Authoring Component.
 ResourceId: nGYbw5F1t5Y
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-2-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:23:30Z
+concepts: []
 
 ---
 I am having a little problem with Visual Studio 2008 that only started after I had installed Office 2010. I found this interesting post on [Visual Studio 2008 Locks or Freezes in ASPX](http://abdullin.com/journal/2009/5/12/visual-studio-2008-locks-or-freezes-in-aspx.html) from [Rinat Abdullin](http://abdullin.com/) that was a complete match to the problem I am having.

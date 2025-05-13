@@ -1,6 +1,6 @@
 ---
 title: Do you know when to send a done email in Scrum?
-description: Learn when to send a 'done' email in Scrum to enhance communication and ensure task completion. Boost your team's efficiency with these essential tips!
+description: Explains when and how to send done emails in Scrum, detailing best practices for notifying task owners and teams, and ensuring clear communication of completed work.
 ResourceId: iHdkPl8gwwm
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Scrum
 preview: metro-sharepoint-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T15:22:12Z
+concepts: []
 
 ---
 ![RulestoBetter](images/DoyouknowwhentosendadoneemailinScrum_CE5F-RulestoBetter_-2-2.gif)At SSW we have always sent done emails to the owner/requestor to let them know that it is done. Others who are dependent on that tasks are CC’ed so they know they can proceed. But how does that fit into Scrum?

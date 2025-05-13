@@ -1,6 +1,6 @@
 ---
 title: Change the Release Management Server that your Client connects to
-description: Learn how to easily change the Release Management Server your client connects to, ensuring smooth transitions between different environments. Get started now!
+description: Learn how to change the Release Management Server URL in the client, including manual config file edits and using a utility tool when the server is unavailable.
 ResourceId: zTjRpmZ5cJQ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 - Install and Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:22:39Z
+concepts: []
 
 ---
 As a consultant I am onsite at a different customer every week and as I use my own laptop for most engagements I need to be able to change the Release Management Server that I connect to from the thick client.

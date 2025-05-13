@@ -1,6 +1,6 @@
 ---
 title: 'Adventures in Scrum: Lesson 1 – The failed Sprint'
-description: "Explore the challenges of Scrum in 'Adventures in Scrum: Lesson 1'. Learn from a failed Sprint and discover key insights for effective team collaboration."
+description: Explores common pitfalls in early Scrum adoption, highlighting why full team involvement in sprint planning is crucial and lessons learned from a failed first sprint.
 ResourceId: OG5mmVtH9nU
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: adventures-in-scrum-lesson-1-the-failed-sprint
 aliases:
-- /resources/OG5mmVtH9nU
 - /resources/blog/adventures-in-scrum-lesson-1-the-failed-sprint
+- /resources/OG5mmVtH9nU
 aliasesArchive:
 - /blog/adventures-in-scrum-lesson-1-the-failed-sprint
 - /adventures-in-scrum-lesson-1-the-failed-sprint
@@ -36,6 +36,9 @@ tags:
 categories:
 - Scrum
 preview: metro-SSWLogo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:22:32Z
+concepts: []
 
 ---
 I recently had a conversation with a product owner that wanted to have the Scrum team broken up into smaller units so that less time was wasted on the Scrum Ceremonies! Their complaint was around the need in Scrum to have the entire “Team” (7+-2) involved in the sizing of the work during the “Sprint Planning Meeting”.

@@ -1,6 +1,6 @@
 ---
 title: Caffeinating Your Development Lifecycle in Bellevue on October 13th
-description: Join us in Bellevue on October 13th for Coffee Talks! Energize your development with live demos, Agile discussions, and fresh coffee. Register now!
+description: Join an in-person morning event in Bellevue for live Visual Studio demos, Agile discussions, and practical ALM tips to boost your development process and team collaboration.
 ResourceId: uPqvuZorGO-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-nwc-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T15:10:08Z
+concepts: []
 
 ---
 ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")Northwest Cadence has decided that while online events are good, nothing beats in-person. If you’re in the area and available, we would love to have you attend our inaugural event at the Microsoft Store in Bellevue in a few weeks!

@@ -1,6 +1,6 @@
 ---
 title: The most usefull .NET tool on the face of the planet!
-description: Discover Reflector, the ultimate .NET tool that enhances your coding experience. Unlock the power of .NET with this essential resource for developers!
+description: Reflector is a .NET tool for decompiling, browsing, and analysing assemblies, helping developers understand and debug .NET code efficiently.
 ResourceId: 5AaOgf__tP8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: the-most-usefull-net-tool-on-the-face-of-the-planet
 aliases:
-- /resources/5AaOgf__tP8
 - /resources/blog/the-most-usefull-.net-tool-on-the-face-of-the-planet
+- /resources/5AaOgf__tP8
 aliasesArchive:
 - /blog/the-most-usefull-net-tool-on-the-face-of-the-planet
 - /the-most-usefull-net-tool-on-the-face-of-the-planet
@@ -28,6 +28,9 @@ tags: []
 preview: metro-binary-vb-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:30:03Z
+concepts: []
 
 ---
 Reflector!

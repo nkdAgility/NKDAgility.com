@@ -1,6 +1,6 @@
 ---
 title: 'Solution: Testing Web Services with MSTest on Team Foundation Build Services 2010'
-description: Learn how to effectively test web services using MSTest on Team Foundation Build Services 2010. Overcome common challenges and streamline your testing process!
+description: Explains how to configure MSTest for automated testing of web services on Team Foundation Build Services 2010, including handling dynamic server ports and build environments.
 ResourceId: VfWTqYc6S-M
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -34,6 +34,9 @@ tags:
 preview: metro-visual-studio-2010-128-link-6-6.png
 categories:
 - Engineering Excellence
+Watermarks:
+  description: 2025-05-13T15:22:41Z
+concepts: []
 
 ---
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!

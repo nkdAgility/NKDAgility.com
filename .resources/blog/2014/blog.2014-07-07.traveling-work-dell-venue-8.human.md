@@ -1,6 +1,6 @@
 ---
 title: Traveling for work and the Dell Venue 8
-description: Discover how the Dell Venue 8 enhances travel productivity for professionals. Join Martin Hinshelwood as he shares tips and insights from his journeys.
+description: A review of switching to the Dell Venue 8 Pro for frequent business travel, covering device performance, workflow changes, and practical pros and cons for mobile work.
 ResourceId: Y8cHV08YFNc
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-windows-logo-4-4.png
+Watermarks:
+  description: 2025-05-12T14:21:33Z
+concepts: []
 
 ---
 I travel a lot and I have been carting around both a Surface 2 Pro and a Surface 2 on my travels. I have been feeling recently that this was a little silly and I wanted to reduce my load and increase my flexibility. So just last week I purchased a Dell Venue 8.

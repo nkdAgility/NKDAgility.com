@@ -1,6 +1,6 @@
 ---
 title: TFS Sticky Buddy v2.0
-description: Discover the new features of TFS Sticky Buddy v2.0! Explore its improved interface and modular design, and share your ideas on Codeplex today!
+description: Sticky Buddy v2.0 introduces a redesigned interface, modular structure, and expanded diagram features for improved usability in TFS-related workflows.
 ResourceId: fxUFeDoOsrZ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-v2-0
 aliases:
-- /resources/fxUFeDoOsrZ
 - /resources/blog/tfs-sticky-buddy-v2.0
+- /resources/fxUFeDoOsrZ
 aliasesArchive:
 - /blog/tfs-sticky-buddy-v2-0
 - /tfs-sticky-buddy-v2-0
@@ -26,6 +26,9 @@ tags: []
 preview: nakedalm-logo-128-link-2-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:22:41Z
+concepts: []
 
 ---
 I will be working on some new features to the Sticky Buddy application. Improvements in the interface, along with a more modular structure and more diagram offering are in the mix. I have been working on some of the enhancements and their implementation in my other lesser known project [TFS Heat ITSM](http://hinshelwood.com/TFSHeatITSM.aspx)…

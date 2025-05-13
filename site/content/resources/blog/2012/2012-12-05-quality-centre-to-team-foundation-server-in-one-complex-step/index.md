@@ -1,6 +1,6 @@
 ---
 title: Quality Centre to Team Foundation Server in one complex step
-description: Discover effective tools for migrating from Quality Centre to Team Foundation Server. Explore options and find the best solution for your ALM needs!
+description: Compares tools for migrating or synchronising data from HP Quality Centre to Team Foundation Server, outlining features, limitations, and best options for each approach.
 ResourceId: c2QQURpbvrm
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-7-7.png
+Watermarks:
+  description: 2025-05-13T15:07:06Z
+concepts: []
 
 ---
 We have had a large number of customers over the years that desperately want to move from Quality Centre (now HP ALM) to… well… anything else to be honest. The current leader in the ALM space just happens to be my favourite tool, Team Foundation Server, and so I am continuously on the lookout for tools that can help us migrate from whatever the customer is using to Team Foundation Server.

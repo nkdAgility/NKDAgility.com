@@ -58,6 +58,7 @@ tags:
 - Agile Strategy
 - Product Strategy
 - Agile Philosophy
+icon: fa-magnifying-glass-chart
 
 ---
 Too many organisations talk about being agile, but they’re still flying blind. Evidence-Based Management (EBM) is a strategy to fix that. It’s not a framework, a methodology, or a tool. It’s a way to stop pretending we’re improving and start proving it.

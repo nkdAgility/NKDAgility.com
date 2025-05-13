@@ -1,6 +1,6 @@
 ---
 title: Hosted Team Foundation Server
-description: Explore the challenges of Hosted Team Foundation Server and discover solutions for project partitioning. Learn about TFS Now and upcoming improvements!
+description: Explains challenges of hosting Team Foundation Server, including project isolation issues, upcoming improvements, and the availability of commercial hosted TFS services.
 ResourceId: uP5FXaFL6Lx
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -23,6 +23,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:26:55Z
+concepts: []
 
 ---
 I have [posted](http://blog.hinshelwood.com/archive/2007/05/31/Hosted-Team-Foundation-Server.aspx "Hosted Team Foundation Server") about Hosted Team Foundation server before and I have had a few discussions with [Jon Pratt](http://blogs.msdn.com/ukvsts/pages/jon-pratt.aspx) from the [Microsoft UK Development Tools Team](http://blogs.msdn.com/ukvsts/default.aspx) on the subject. The issue with Hosted [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") is that there is no real partitioning of projects within the system and thus if you had two clients on the same server they would be able to view each others data.

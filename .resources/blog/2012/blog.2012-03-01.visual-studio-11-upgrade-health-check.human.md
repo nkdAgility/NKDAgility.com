@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 11 Upgrade Health Check
-description: Prepare for a smooth transition to Visual Studio 11 with our expert Health Check. Ensure your upgrade is seamless and unlock new features today!
+description: Assessment service to help teams prepare for upgrading from TFS 2010 to Visual Studio 11, ensuring compatibility, feature readiness, and smooth migration.
 ResourceId: A8N6LXr-4Ql
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-2-2.png
+Watermarks:
+  description: 2025-05-13T15:09:15Z
+concepts: []
 
 ---
 With the launch of [Visual Studio 11 Team Foundation Server Beta](http://blog.hinshelwood.com/announcing-visual-studio-11-beta-will-launch-on-february-29th/) and the Go-Live licencing model you can go into production now. But what if you are not quite ready?

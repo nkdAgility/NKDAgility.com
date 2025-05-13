@@ -1,6 +1,6 @@
 ---
 title: Upgrade to Visual Studio 11 Team Foundation Service - Done
-description: Discover the benefits of upgrading to Visual Studio 11 Team Foundation Service. Learn how cloud solutions simplify management and enhance your development experience!
+description: Explains migrating source control and work item tracking to Visual Studio 11 Team Foundation Service, highlighting cloud benefits, limitations, and steps for a smooth upgrade.
 ResourceId: qZoGIj62YP4
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:09:21Z
+concepts: []
 
 ---
 Jason Zander has just announced that the Visual Studio 11 & Visual Studio 11 Team Foundation Server Beta **will be available on the 29th February 2012**. I am really looking forward to this launch as it embodies the phrase “spit & polish” and really lowers the bar for entry into the Team Foundation Server world.

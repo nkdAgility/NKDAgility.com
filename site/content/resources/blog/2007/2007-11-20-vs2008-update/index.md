@@ -1,6 +1,6 @@
 ---
 title: VS2008 Update
-description: Explore the latest updates in Visual Studio 2008, including Team Explorer integration and tips for a smooth upgrade from Beta 2. Stay ahead in your projects!
+description: Covers experiences updating to Visual Studio 2008 RTM, installing Team Explorer, project upgrades from Beta 2, and attending a SharePoint developer event in Edinburgh.
 ResourceId: EbUyy4iPQCa
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:36Z
+concepts: []
 
 ---
 Well it seems that Microsoft took the generally felt community suggestion and bundles Team Explorer with Visual Studio 2008 team Suit. I don't know if they did the same with VS2008 Pro or the other version, but it would seem a good idea.

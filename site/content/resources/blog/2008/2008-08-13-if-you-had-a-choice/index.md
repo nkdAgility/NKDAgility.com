@@ -1,6 +1,6 @@
 ---
 title: If you had a choice!
-description: Join the discussion on your preferred platform for Visual Studio 2008! Share your choice among XP, Vista, and more. Let's find out what .NET developers love!
+description: A poll asking .NET developers which Windows operating system they prefer for running Visual Studio 2008, including XP, Vista, and Server 2008 options.
 ResourceId: 689UIOKlBfJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:37Z
+concepts: []
 
 ---
 I would be interested to find out what platform you .NET developers prefer to use as your main Visual Studio 2008 box?

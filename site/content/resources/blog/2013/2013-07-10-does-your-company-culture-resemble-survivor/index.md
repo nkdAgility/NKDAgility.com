@@ -1,6 +1,6 @@
 ---
 title: Does your company culture resemble Survivor?
-description: Is your company culture a 'Survivor' game? Discover how fostering collaboration can enhance agility and team success in your organization.
+description: Explores how individualistic, competitive company cultures hinder collaboration and agility, and highlights the benefits of fostering teamwork in software development.
 ResourceId: 1VbvpOX1Hg0
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -37,6 +37,9 @@ tags:
 categories:
 - Leadership
 preview: nakedalm-experts-professional-scrum-1-1.png
+Watermarks:
+  description: 2025-05-13T15:05:48Z
+concepts: []
 
 ---
 Does your company culture resemble Survivor? Do you have a culture in your organisation where individuals that help others are considered slackers for not getting their own assignments complete?

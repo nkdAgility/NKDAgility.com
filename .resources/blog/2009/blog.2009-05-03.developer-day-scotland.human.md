@@ -1,6 +1,6 @@
 ---
 title: Developer Day Scotland
-description: Join Developer Day Scotland for insights on refactoring, dynamic languages, and MVVM in WPF. Enhance your coding skills and connect with fellow developers!
+description: Summary of sessions from a Glasgow developer event, covering refactoring, dynamic languages in .NET, MVVM for WPF, architecture, and ASP.NET 4.0 insights.
 ResourceId: qtc58tBJRtL
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Engineering Excellence
 preview: metro-event-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:24:11Z
+concepts: []
 
 ---
 The [Developer Developer Developer](http://developerdayscotland.com) event held at [Glasgow Caledonian University](http://www.gcal.ac.uk/) (my University) yesterday was excellent. Kudos to [Colin Angus Mackay](http://blog.colinmackay.net/) and the other organisers for all of the effort they have put in once again.

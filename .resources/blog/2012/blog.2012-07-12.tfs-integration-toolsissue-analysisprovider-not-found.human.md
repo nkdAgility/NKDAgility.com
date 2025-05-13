@@ -1,6 +1,6 @@
 ---
 title: 'TFS Integration Tools–Issue: AnalysisProvider not found'
-description: Resolve the 'AnalysisProvider not found' issue in TFS Integration Tools with our expert workaround. Upgrade your .NET settings for a smooth experience!
+description: Explains how to resolve the "AnalysisProvider not found" error in TFS Integration Tools by updating the .NET Framework version from 3.5 to 4.0 and recompiling.
 ResourceId: 8A-nFDUhe2o
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-integration-toolsissue-analysisprovider-not-found
 aliases:
-- /resources/8A-nFDUhe2o
 - /resources/blog/tfs-integration-tools-issue-analysisprovider-not-found
+- /resources/8A-nFDUhe2o
 aliasesArchive:
 - /blog/tfs-integration-toolsissue-analysisprovider-not-found
 - /tfs-integration-toolsissue-analysisprovider-not-found
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-3-3.png
+Watermarks:
+  description: 2025-05-13T15:08:46Z
+concepts: []
 
 ---
 When you are trying to load your custom Adapter you receive a message stating that it does not exist.

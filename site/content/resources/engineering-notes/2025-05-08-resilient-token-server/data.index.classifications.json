@@ -2880,24 +2880,6 @@
     "reasoning": "This content deeply explores the engineering process of building a resilient system for token counting, focused on PowerShell and FastAPI orchestration. However, it does not explicitly discuss or use the language of 'artifacts' as formal representations of work in Agile, Scrum, Lean, or DevOps. Instead, it centers on system resilience, fault tolerance, process transparency, and personal engineering ethos. The logs and code samples show work visibility, traceability, and continuous improvement, which are thematically adjacent to artifact principles (transparency, inspection), but the content never positions any system component as an artifact. It doesn't address structure, purpose, or management of artifacts per the strict definition; nor does it discuss backlogs, increments, Definition of Done, or similar. The intended audience aligns with technical practitioners, and the writing emphasizes reliability, observability, and accountability (DevOps themes), but all within the context of tooling and automation, not formalized work artifacts. In summary, the overlap is indirect and too limited for high confidence in the Artifact category.",
     "level": "Ignored"
   },
-  "Values": {
-    "resourceId": "mjsboLP-N9P",
-    "category": "Values",
-    "calculated_at": "2025-05-06T20:54:05",
-    "ai_confidence": 58.63,
-    "ai_mentions": 3.2,
-    "ai_alignment": 7.5,
-    "ai_depth": 7.7,
-    "ai_intent": 6.8,
-    "ai_audience": 7.3,
-    "ai_signal": 8.1,
-    "ai_penalties_applied": false,
-    "ai_penalty_points": 0,
-    "ai_penalty_details": "none",
-    "final_score": 59.0,
-    "reasoning": "Direct mentions of named values (such as Agile or Scrum Values) are largely absent—the text never uses words like 'values', 'Scrum values', or 'Lean Thinking'. The few references to 'engineering ethos', 'accountability', 'resilience', and 'continuous improvement' suggest implicit alignment with value concepts, especially those underpinning DevOps culture. However, discussion of values serves as a background context rather than a primary focus. Most of the content is about technical architecture, system robustness, and engineering technique. The concluding section explicitly states that the mindset 'aligns directly with the DevOps ethos: accountability, continuous improvement, and designing systems that deliver reliable value no matter the noise or disruption,' framing the engineering approach within a values-driven context. Depth is moderate: the author does articulate guiding principles (e.g., 'if I touch it, I am accountable', 'engineering honesty', 'minimising errors') and links them back to personal and industry-wide ethos, but these are not deeply analyzed or explored as primary themes. The main purpose is more technical/engineering instructional, with value concepts acting as supporting commentary. The audience is technical practitioners, adjacent to those for whom organizational values content is meant, though the technical depth somewhat outweighs value-based discussion. The signal-to-noise ratio is high: aside from minimal anecdotal asides, almost all content is focused and relevant. No penalties were applied, as the tone is consistent with positive values framing and nothing is outdated or critical of underlying value concepts. The final confidence score sits just below the 'strong but incomplete' threshold, reflecting significant implicit but only moderate explicit value content.",
-    "level": "Tertiary"
-  },
   "Practice": {
     "resourceId": "mjsboLP-N9P",
     "category": "Practice",

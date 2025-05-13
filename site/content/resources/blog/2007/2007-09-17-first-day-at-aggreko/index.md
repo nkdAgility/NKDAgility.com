@@ -1,6 +1,6 @@
 ---
 title: First day at Aggreko
-description: Join me on my first day at Aggreko, where I dive into deploying SharePoint and experience their impressive efficiency. Discover my journey and insights!
+description: Describes a first day at Aggreko, focusing on efficient onboarding, SharePoint deployment planning, and the challenge of migrating proprietary workflows and applications.
 ResourceId: cUlDU2EJV6s
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-aggreko-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:06Z
+concepts: []
 
 ---
 Well, its my first day at Aggreko, and I am loving their efficiency...I was handed a laptop uplon entering the office, and they had my login ready :)

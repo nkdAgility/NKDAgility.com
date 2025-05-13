@@ -1,6 +1,6 @@
 ---
 title: Internet connection speed, WOW
-description: Discover the evolution of internet speeds from 56k to 50mbs! Join Martin Hinshelwood as he shares his experience with faster connections and downloads.
+description: A personal account of UK cable internet speed improvements, comparing dial-up, ADSL, and Virgin Media, with real-world download rates and upgrade experiences.
 ResourceId: iBNwIFFQrmS
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ categories:
 preview: nakedalm-logo-128-link-5-1.png
 tags:
 - Miscellaneous
+Watermarks:
+  description: 2025-05-13T15:22:54Z
+concepts: []
 
 ---
 I have been a cable customer in the UK since day one when it was Cable & Wireless.
