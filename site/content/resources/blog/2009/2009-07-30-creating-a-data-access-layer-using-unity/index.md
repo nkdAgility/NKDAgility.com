@@ -1,6 +1,6 @@
 ---
 title: Creating a Data Access layer using Unity
-description: Learn to create a robust Data Access layer using Unity for efficient dependency injection and mapping. Simplify your coding process with expert insights!
+description: Learn how to build a flexible data access layer in .NET using Unity for dependency injection, interface mapping, and factory patterns with configuration support.
 ResourceId: ChjJ40t-403
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-5-5.png
+Watermarks:
+  description: 2025-05-13T15:23:24Z
+concepts: []
 
 ---
 I am always pulling out the Unity assemblies. Maybe it is just because I am lazy, but I really can’t be bothered rolling my own dependency injection and mapping framework!

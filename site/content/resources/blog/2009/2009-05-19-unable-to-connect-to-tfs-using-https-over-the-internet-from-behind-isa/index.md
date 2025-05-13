@@ -1,6 +1,6 @@
 ---
 title: Unable to connect to TFS using HTTPS over the Internet from behind ISA
-description: Struggling to connect to TFS via HTTPS behind ISA? Discover workarounds and solutions to proxy authentication issues in Visual Studio 2010. Read more!
+description: Explains issues connecting to TFS via HTTPS from behind an ISA proxy, including proxy authentication errors and ServicePointManager limitations, with suggested workarounds.
 ResourceId: 6IrP42bGBD6
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:23:50Z
+concepts: []
 
 ---
 I have a number of [CodePlex](http://www.codeplex.com "CodePlex") projects that I connect to from work and I have had a problem since 2008 that it does not always send my authentication to the proxy server (ISA). What this manifests as is that I get a popup telling me that “Proxy authentication is required”. The workaround was to connect in offline and then click the connect button and everything invariable works with no additional problems.

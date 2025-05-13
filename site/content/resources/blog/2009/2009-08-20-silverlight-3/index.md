@@ -1,6 +1,6 @@
 ---
 title: Silverlight 3
-description: Discover the insights from 'Silverlight 3 Programmer's Reference' by Wrox. Enhance your coding skills with this concise, colorful guide to Silverlight 3!
+description: Overview of Silverlight 3 features, improvements, and its use for .NET and WPF developers, with insights from a detailed programmer’s reference book.
 ResourceId: RkVikquup-u
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:23:14Z
+concepts: []
 
 ---
 [![](images/Silverlight3_CB9C-Silverlight3Wrox_-2-2.jpg)](http://www.amazon.co.uk/gp/product/0470385405?ie=UTF8&tag=dyslexicdev-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0470385405)![](http://www.assoc-amazon.co.uk/e/ir?t=marthinssblog-21&l=as2&o=2&a=0470385405) Over the past week I have been reading the new book [Silverlight 3 Programmer's Reference](http://www.amazon.co.uk/gp/product/0470385405?ie=UTF8&tag=dyslexicdev-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0470385405)![](http://www.assoc-amazon.co.uk/e/ir?t=dyslexicdev-21&l=as2&o=2&a=0470385405)from Wrox and I have found it one of the best books on Silverlight I have seen in a good while. It is concise without being boring and it provides a wealth of information on Silverlight 3.

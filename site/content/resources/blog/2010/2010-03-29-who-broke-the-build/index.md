@@ -1,6 +1,6 @@
 ---
 title: Who broke the build?
-description: Discover why broken builds matter in development. Learn how to identify issues and maintain code quality with effective build management strategies.
+description: Explains the importance of passing builds, common causes of build failures, how to identify issues and responsible users, and best practices for build ownership.
 ResourceId: SVgPQgwftag
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 preview: metro-visual-studio-2010-128-link-10-10.png
 categories:
 - Engineering Excellence
+Watermarks:
+  description: 2025-05-13T15:22:23Z
+concepts: []
 
 ---
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

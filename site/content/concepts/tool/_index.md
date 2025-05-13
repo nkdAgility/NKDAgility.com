@@ -33,8 +33,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
----
 
+---
 A **tool** is a **mechanism**, **technique**, or **software** that enables teams to implement methods and practices effectively. Tools are vital in **Agile**, **Lean**, and **DevOps** environments because they provide the necessary **support** for **collaboration**, **workflow management**, and **continuous improvement**. However, tools are not standalone solutions; they function within the broader context of organisational processes and frameworks.
 
 Tools are essential for **implementing methods** and facilitating day-to-day operations. For instance, project management tools like **JIRA** or **Azure Boards** help teams **visualise** and **track progress**, manage backlogs, and ensure alignment with the product goal. These tools support Agile practices by enabling teams to iterate, respond to feedback, and adjust their work according to changing needs.

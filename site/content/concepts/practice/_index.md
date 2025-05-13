@@ -36,8 +36,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
----
 
+---
 **Practice** refers to **consistent, repeatable techniques** or habits that teams use to enhance their effectiveness, collaboration, and delivery of value. Unlike **methods**, which are structured approaches with defined steps, practices focus on **habits** that can be incorporated into a team’s regular workflow.
 
 In Agile, Lean, and DevOps environments, practices like **Pair Programming**, **Continuous Deployment**, and **Retrospectives** are foundational. They are not one-time actions but ongoing, **systematic routines** that enable teams to work together efficiently and continually improve.

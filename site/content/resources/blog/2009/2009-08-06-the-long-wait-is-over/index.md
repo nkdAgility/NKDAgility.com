@@ -1,6 +1,6 @@
 ---
 title: The long wait is over
-description: Discover the excitement of Windows 7's release! Learn how it outshines Vista and why it's the OS you've been waiting for. Upgrade your experience now!
+description: Windows 7 is now available to developers and beta testers, offering improved stability, speed, and features over Vista, with general release coming in September 2009.
 ResourceId: Ahz5CpOOGZl
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:23:22Z
+concepts: []
 
 ---
 Have you been waiting for a long time for [Windows 7](http://www.microsoft.com/windows/windows-7/)? Well I have.. I have been able to use Beta 1 and the RC for a good while now, and it surprised me that the Windows 7 Beta 1 was more stable, responsive and cleaner than Vista was after Service Pack 3.

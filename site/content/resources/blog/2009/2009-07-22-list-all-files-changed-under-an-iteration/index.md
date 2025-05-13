@@ -1,6 +1,6 @@
 ---
 title: List all files changed under an Iteration
-description: Discover how to list all files changed under a specific iteration using TFS API calls. Streamline your version control process with this practical guide!
+description: Shows how to use TFS API calls to list all files changed in a specific iteration, including querying work items and extracting changesets to a text file.
 ResourceId: M07b_KU6l8f
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:23:28Z
+concepts: []
 
 ---
 I was asked by a colleague to provide a list of all files that were changed under a particular iteration. Rather than delving into the data, I made a couple of API calls to TFS to output a text file with the list.

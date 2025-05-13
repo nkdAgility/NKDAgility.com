@@ -1,6 +1,6 @@
 ---
 title: Windows Azure Training Kit
-description: Explore the Windows Azure Training Kit, featuring hands-on labs and demos to master Azure services. Elevate your cloud skills with expert guidance!
+description: Comprehensive training resources for Windows Azure, including hands-on labs, demo scripts, and presentations on cloud services, .NET, SQL, and Live Services.
 ResourceId: 5GEKVUBfbi2
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-cloud-azure-link-3-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:24:25Z
+concepts: []
 
 ---
 Microsoft has just released a new [Training Kit](http://go.microsoft.com/fwlink/?LinkID=130354)  for [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) that updates the one released at the PDC. Not since [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") and WPF have I been so exited about a new technology, but [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) is it.

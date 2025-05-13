@@ -1,6 +1,6 @@
 ---
 title: Solution - SEO permanent redirects for old URL’s?
-description: Learn how to maintain your SEO rankings with permanent redirects for old URLs. Discover effective strategies to map old links to new ones seamlessly.
+description: Explains how to set up SEO-friendly permanent redirects for old URLs to new ones in ASP.NET, covering best practices and code examples for preserving search rankings.
 ResourceId: 2x0w1Oay2UF
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: solution-seo-permanent-redirects-for-old-urls
 aliases:
-- /resources/2x0w1Oay2UF
 - /resources/blog/solution-seo-permanent-redirects-for-old-url-s
+- /resources/2x0w1Oay2UF
 aliasesArchive:
 - /blog/solution-seo-permanent-redirects-for-old-urls
 - /solution-seo-permanent-redirects-for-old-urls
@@ -33,6 +33,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:22:48Z
+concepts: []
 
 ---
 From time to time, your website structure may change. When this happens, you do not want to have to start from scratch with your Google rankings, so you need to map all of your Old URLs to new ones.

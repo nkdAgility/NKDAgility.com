@@ -1,6 +1,6 @@
 ---
 title: Visual Studio Team System 2010 Beta 1 Ships
-description: Discover the features of Visual Studio Team System 2010 Beta 1, now available for download. Enhance your development experience with powerful new tools!
+description: Microsoft releases the first beta of Visual Studio Team System 2010, featuring new tools for architecture, testing, lab management, TFS, and a redesigned WPF interface.
 ResourceId: -TRUW1RsR2n
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -23,6 +23,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:23:55Z
+concepts: []
 
 ---
 [Visual Studio 2010 Team Suit Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) and [Visual Studio 2010 Team Foundation Server Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) will be available to download from MSDN today at 5pm (GMT) and to the general public on Wednesday.

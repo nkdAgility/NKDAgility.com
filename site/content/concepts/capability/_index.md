@@ -36,8 +36,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T12:39:16
----
 
+---
 Capability refers to a persistent, cross-cutting competence that empowers teams or organisations to deliver value in a predictable, sustainable, and adaptive manner. Unlike transient tools or one-off techniques, capabilities are cultivated over time and become embedded in the organisational culture and processes. This long-term, systemic nature of capabilities is what distinguishes them from other concepts such as practices or tools, which may be more focused on specific tasks or methodologies.
 
 Capabilities are essential for fostering an environment where teams can respond effectively to changing demands and challenges. They enable organisations to leverage their collective skills and knowledge, ensuring that value delivery is not only efficient but also aligned with strategic objectives. By developing capabilities, organisations can create a robust foundation that supports continuous improvement and innovation, allowing them to adapt to market shifts and customer needs without losing momentum.

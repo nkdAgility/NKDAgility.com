@@ -1,6 +1,6 @@
 ---
 title: Sharepoint 2007 and Silverlight
-description: Explore the integration of SharePoint 2007 and Silverlight with insights from a practical guide. Perfect for beginners seeking to enhance their development skills!
+description: Guide to integrating Silverlight with SharePoint 2007, covering custom field types, branding, web parts, data interaction, deployment, and debugging basics.
 ResourceId: sHgkQlcvb2R
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-sharepoint-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:24:19Z
+concepts: []
 
 ---
 I have looked at this topic before but I just got my hands on a new Wrox book called “[Professional Microsoft Sharepoint 2007 Development using Microsoft Silverlight 2](http://www.amazon.co.uk/gp/product/0470434007?ie=UTF8&tag=marthinssblog-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0470434007)”, phew, could that title be any longer!

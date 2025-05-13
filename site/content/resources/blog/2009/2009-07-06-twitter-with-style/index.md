@@ -1,6 +1,6 @@
 ---
 title: Twitter with style
-description: Discover how Twikini enhances your Twitter experience on Windows Mobile 6.5. Learn tips and features that make tweeting stylish and efficient!
+description: Review of Twikini, a Twitter app for Windows Mobile 6.5, highlighting its features, usability, and a minor issue with tweet confirmation on certain phone keyboards.
 ResourceId: eIU0OIoHUfa
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:23:36Z
+concepts: []
 
 ---
 I have been using an excellent piece of software for twittering form my Windows Mobile. [Twikini](http://www.trinketsoftware.com/Twikini) has all of the features you would expect, as well as working fantastically with the IPhone like features of Windows Mobile 6.5.

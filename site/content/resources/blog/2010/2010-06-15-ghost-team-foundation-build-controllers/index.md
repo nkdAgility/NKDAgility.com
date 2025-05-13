@@ -1,6 +1,6 @@
 ---
 title: Ghost build controllers in Team Foundation Server
-description: Struggling with ghost build controllers in TFS? Discover effective solutions to identify and delete stubborn builds, ensuring a clean development environment.
+description: Learn how to identify and remove undeletable ghost build controllers in Team Foundation Server by updating build status in the database, avoiding unsupported deletions.
 ResourceId: ks3BqiRqWAK
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: metro-visual-studio-2010-128-link-4-4.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:21:52Z
+concepts: []
 
 ---
 Have you ever seen ghost build controllers in Team Foundation Server that you just can't seam to delete no matter what you do? Sometime there are builds left over in the system that were queued but never completed.

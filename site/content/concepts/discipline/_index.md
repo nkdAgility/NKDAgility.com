@@ -34,8 +34,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-10T10:30:00Z
----
 
+---
 A **discipline** is more than a set of tools or techniques. It is a structured and evolving field of study and practice, shaped by shared principles, codified knowledge, and established standards of professional behaviour. In the context of modern work systems, disciplines like Project Management, Systems Engineering, or Product Strategy represent mature capabilities that organisations rely on to deliver consistent, high-quality outcomes.
 
 What defines a discipline is not just what practitioners _do_, but how they think, how they reason through complexity, and how they engage in continuous learning and improvement. It includes the governance structures, ethical considerations, and frameworks that guide professional conduct across varied contexts.

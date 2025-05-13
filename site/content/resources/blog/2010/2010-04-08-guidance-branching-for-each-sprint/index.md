@@ -1,6 +1,6 @@
 ---
 title: Guidance - Branching for each Sprint
-description: Master your branching strategy for Scrum sprints! Discover how effective branching can streamline development and enhance collaboration in your projects.
+description: Explains how using a separate version control branch for each sprint in Scrum improves code stability, release management, and team collaboration over using labels.
 ResourceId: hPGpt57lpYZ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 - Software Development
 - Modern Source Control
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:22:19Z
+concepts: []
 
 ---
 There are a lot of developers using version control these days, but a feature of version control called branching is very poorly understood and remains unused by most developers in favour of Labels. Most developers think that branching is hard and complicated. Its not!

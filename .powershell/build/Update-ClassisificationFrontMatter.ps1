@@ -127,6 +127,22 @@ foreach ($hugoMarkdown in $hugoMarkdownList) {
         # Update the description in the front matter
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $description -addAfter 'title' 
     }
+
+    if (-not $hugoMarkdown.FrontMatter.icon -or $hugoMarkdown.FrontMatter.icon -match "none") {
+        $currentIcons = @{}; $hugoMarkdownList | ForEach-Object { if ($_ -and $_.FrontMatter -and $_.FrontMatter.title -and $_.FrontMatter.icon) { $currentIcons[$_.FrontMatter.title] = $_.FrontMatter.icon } }
+        # Generate a new description using OpenAI
+        $iconprompt = Get-Prompt -PromptName "classification-icon.md" -Parameters @{
+            title        = $hugoMarkdown.FrontMatter.title
+            abstract     = $hugoMarkdown.FrontMatter.abstract
+            currentIcons = $currentIcons | ConvertTo-Json -Depth 5
+        }
+        $icon = Get-OpenAIResponse -Prompt $iconprompt
+        # Update the description in the front matter
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'icon' -fieldValue $icon -addAfter 'date' 
+    }
+
+
+
     if (-not $hugoMarkdown.FrontMatter.Instructions) {
         # Generate a new Instructions using OpenAI
         $prompt = Get-Prompt -PromptName "classification-instructions.md" -Parameters @{

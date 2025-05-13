@@ -1,6 +1,6 @@
 ---
 title: Dyslexia Awareness Week
-description: Explore the strengths of dyslexic developers during Dyslexia Awareness Week. Discover unique skills that enhance programming and creative problem-solving.
+description: Highlights the unique strengths dyslexic individuals bring to programming, such as 3D visualisation, creative problem-solving, and intuitive understanding of complex concepts.
 ResourceId: mj1JwJ9LpG8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:23:00Z
+concepts: []
 
 ---
 Its "Dyslexia Awareness Week" here in the UK, and as a person that benefits from being a [Dyslexic developer](http://blog.hinshelwood.com/Tags/dyslexia/default.aspx), I thought I should highlight the specific strengths to programmers of being dyslexic...

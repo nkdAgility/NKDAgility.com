@@ -39,8 +39,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 weight: 1000
----
 
+---
 A **First Principle** is an **irreducible truth**. It is not a heuristic, value, or belief. It is a foundational constraint on how complex systems behave, adapt, and deliver value.
 
 First principles are not negotiable. They define the baseline of professional conduct in software delivery, product development, and organisational agility. If a practice violates a first principle, it is not contextually inappropriate — it is fundamentally wrong.

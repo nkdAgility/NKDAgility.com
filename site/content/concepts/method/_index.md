@@ -36,8 +36,8 @@ BodyContentGenDate: 2025-04-09T14:00:00
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 trustpilot: false
----
 
+---
 **Method** refers to a structured, step-by-step approach used to achieve specific goals within a system. Unlike **frameworks**, which offer broader structures and guidelines, methods are focused on **detailed procedures** and **actions** that enable teams to implement solutions or solve problems.
 
 In **Agile**, **Lean**, and **DevOps** environments, methods play a crucial role in **guiding** teams through systematic steps that support **collaborative work**, **value delivery**, and **continuous improvement**. Methods are often employed to **optimise workflows**, **manage iterative development**, and **measure progress**.

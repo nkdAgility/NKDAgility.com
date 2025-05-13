@@ -1,6 +1,6 @@
 ---
 title: Investigation - SEO permanent redirects for old URL’s?
-description: Learn how to implement SEO-friendly permanent redirects for old URLs to maintain your Google rankings. Discover effective strategies and tools!
+description: Explains how to implement SEO-friendly permanent 301 redirects for old URLs to preserve search rankings, comparing IIS tools and custom solutions for database-driven mapping.
 ResourceId: roXmyU8SYFJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: investigation-seo-permanent-redirects-for-old-urls
 aliases:
-- /resources/roXmyU8SYFJ
 - /resources/blog/investigation-seo-permanent-redirects-for-old-url-s
+- /resources/roXmyU8SYFJ
 aliasesArchive:
 - /blog/investigation-seo-permanent-redirects-for-old-urls
 - /investigation-seo-permanent-redirects-for-old-urls
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-4-4.png
+Watermarks:
+  description: 2025-05-13T15:22:50Z
+concepts: []
 
 ---
 On the project I am currently working on we want to change the nasty [http://northwind.com/products.aspx?ProductId=1](http://northwind.com/products.aspx?ProductId=1) to a nice friendly URL on the website. This is pretty easy and can result in nice URL’s like [http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx](http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx).

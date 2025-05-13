@@ -1,6 +1,6 @@
 ---
 title: Changing the Team Project Collection of the Team Build Controller
-description: Learn how to change the Team Project Collection of the Team Build Controller in TFS 2010 for seamless builds and efficient project management. Get started now!
+description: Explains how to reconfigure a Team Build Controller in TFS 2010 to connect to a different Team Project Collection using the Administration Console and Build Service settings.
 ResourceId: n7Y4Ij-CPvp
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: metro-SSWLogo-128-link-6-6.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:21:45Z
+concepts: []
 
 ---
 ![BuildIcon_Large](images/ab2235c2ab06_E4A0-BuildIcon_Large_-1-1.png)

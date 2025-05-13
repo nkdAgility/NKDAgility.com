@@ -36,8 +36,8 @@ BodyContentGenDate: 2025-04-09T13:33:01
 sitemap:
   filename: sitemap.xml
   priority: 0.7
----
 
+---
 Observability is the practice of gaining deep insights into systems and processes, enabling teams to understand how work flows and how value is delivered. It goes beyond mere monitoring by providing a comprehensive view of system behaviour, allowing teams to identify patterns, diagnose issues, and make informed decisions based on real-time data. This capability is crucial for fostering transparency within teams and across organisational silos, as it encourages collaboration and shared understanding.
 
 By implementing observability, organisations can enhance their ability to deliver value predictably and sustainably. It supports continuous improvement by enabling teams to learn from their operations, adapt quickly to changes, and optimise workflows. This systemic approach ensures that insights are not just reactive but also proactive, enabling timely responses and strategic adjustments.
