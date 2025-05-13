@@ -1,6 +1,6 @@
 ---
 title: TFS Stick Buddy v0.4.0 CTP2 released
-description: Discover the latest TFS Stick Buddy v0.4.0 CTP2 release! Customize your work item display and enhance your project management experience. Download now!
+description: TFS Stick Buddy v0.4.0 CTP2 lets you customise and display TFS work items by query, with colour-coded states and support for Visual Studio and TFS Web Access.
 ResourceId: G2LTuEadTg9
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-stick-buddy-v0-4-0-ctp2-released
 aliases:
-- /resources/G2LTuEadTg9
 - /resources/blog/tfs-stick-buddy-v0.4.0-ctp2-released
+- /resources/G2LTuEadTg9
 aliasesArchive:
 - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
 - /tfs-stick-buddy-v0-4-0-ctp2-released
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:20Z
+concepts: []
 
 ---
 All to soon and it is that time again...I have been developing, hell bent on getting a [working sticky buddy](http://www.codeplex.com/TFSStickyBuddy) online, and here it is...

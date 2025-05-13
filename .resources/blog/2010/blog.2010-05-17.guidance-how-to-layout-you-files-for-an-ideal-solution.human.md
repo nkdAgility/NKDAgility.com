@@ -1,6 +1,6 @@
 ---
 title: 'Guidance: How to layout you files for an Ideal Solution'
-description: Master the art of file layout for maintainable solutions in TFS. Discover best practices and enhance your development workflow with expert guidance.
+description: Learn best practices for organising solution and project files in version control, including folder structure, naming conventions, and branching for maintainable code.
 ResourceId: qHU7H_raZge
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2010-128-link-11-11.png
+Watermarks:
+  description: 2025-05-13T15:21:57Z
+concepts: []
 
 ---
 ![vs2010alm](images/7129adaece20_EC32-vs2010alm_-10-10.png)Creating a solution and having it maintainable over time is an art and not a science. I like being pedantic and having a place for everything, no matter how small.

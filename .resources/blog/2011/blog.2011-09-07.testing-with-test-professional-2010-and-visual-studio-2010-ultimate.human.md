@@ -1,6 +1,6 @@
 ---
 title: Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
-description: Join our Testing with Test Professional 2010 course to enhance your skills in Visual Studio ALM. Limited seats available for this remote training!
+description: Learn how to use Microsoft Test Manager, Visual Studio 2010, and TFS for software testing, test management, bug tracking, and automated test workflows in this remote course.
 ResourceId: SPcXGSE8VUI
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -23,6 +23,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:15Z
+concepts: []
 
 ---
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-1-1.png "NWC tagline logo_transparent")On Monday 24th October one of our consultants, Dan Wood, is presenting our course on Testing with Visual Studio ALM. The course is running on **Monday 24th October** and I managed to get NWC to provide 10 additional seats for you guys at the discounted rate.

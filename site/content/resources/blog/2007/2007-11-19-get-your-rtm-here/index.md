@@ -1,6 +1,6 @@
 ---
 title: Get your RTM here!
-description: Discover the official release of Visual Studio 2008 and .NET 3.5! Join the excitement and learn how to transition to the full version seamlessly.
+description: Visual Studio 2008 and .NET 3.5 have reached RTM status, with developers now able to access and download the official releases for production use.
 ResourceId: 8gqTTHiRrpk
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:40Z
+concepts: []
 
 ---
 Well, its official. Visual Studio 2008 and .NET 3.5 went RTM this morning....

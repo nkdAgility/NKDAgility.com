@@ -1,6 +1,6 @@
 ---
 title: Recipe for Team Server in a small business
-description: Discover cost-effective solutions for implementing Team Server in small businesses. Learn how to manage projects efficiently without breaking the bank!
+description: Breaks down the costs and benefits of setting up Team Foundation Server for small businesses, covering licensing, hardware, and key features like source control and project management.
 ResourceId: wOQl29WfTz6
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:21Z
+concepts: []
 
 ---
 If you have a small company, say 6 to 30 people, you will look at team server and think, cool...But what does it cost.

@@ -1,6 +1,6 @@
 ---
 title: The search for a single point of truth
-description: Discover effective strategies for syncing your contacts across platforms and achieving a single point of truth. Streamline your connections today!
+description: Explores methods and tools for syncing contacts across multiple services, aiming to maintain a single, up-to-date source without duplicates or data loss.
 ResourceId: nWNc5jUb0Up
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-19-19.png
+Watermarks:
+  description: 2025-05-13T15:21:41Z
+concepts: []
 
 ---
 ![image](images/7b88707dd37e_F009-image_-8-11.png)It may be a trivial matter to get your contacts on your phone, but if you do the social network thing, then you need to do a little jiggery pokery to get everything to sync so you have the same contacts everywhere. Over the last couple of weeks I have vowed to get them sorted.

@@ -1,6 +1,6 @@
 ---
 title: My first Extension method...
-description: Explore how to enhance your .NET skills by creating extension methods in VB.NET. Learn to add functionality to Xbox Live info with practical examples!
+description: Explains how to create and use extension methods in VB.NET, with an example for enhancing the XboxInfo class to display and track Xbox Live status changes.
 ResourceId: QJ6lF5ONMCD
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: my-first-extension-method
 aliases:
-- /resources/QJ6lF5ONMCD
 - /resources/blog/my-first-extension-method...
+- /resources/QJ6lF5ONMCD
 aliasesArchive:
 - /blog/my-first-extension-method
 - /my-first-extension-method---
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:05Z
+concepts: []
 
 ---
 I decided as part of my .NET 3.5 learning curve to rebuild [Duncan Mackenzie](http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx)'s [Xbox to Twitter application](http://www.duncanmackenzie.net/blog/using-the-xbox-to-twitter-app-please-update-your-client/default.aspx) just for fun...

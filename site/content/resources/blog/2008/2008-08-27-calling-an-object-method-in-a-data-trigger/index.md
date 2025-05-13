@@ -1,6 +1,6 @@
 ---
 title: Calling an object method in a data trigger
-description: Learn how to call object methods in WPF data triggers effectively. This guide simplifies the process, helping you enhance your coding skills with practical examples.
+description: Explains how to call an object method in a WPF DataTrigger, the limitations with extension methods, and common errors when binding methods in XAML templates.
 ResourceId: qw2arcsyX7a
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:33Z
+concepts: []
 
 ---
 Calling a method on an instance of an object in WPF is not as easy to figure out, but with the help of this Internet thing I managed it.

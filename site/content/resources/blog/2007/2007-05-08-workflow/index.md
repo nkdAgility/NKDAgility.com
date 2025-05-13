@@ -1,6 +1,6 @@
 ---
 title: Workflow
-description: Join the discussion on enhancing Team Foundation Server with Workflow support. Explore innovative ideas for dynamic workflow editing and implementation!
+description: Explores adding workflow support to Team Foundation Server Event Handler, enabling users to create, edit, and manage workflows directly in a hosted environment.
 ResourceId: X7LXRyvtNg0
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:27Z
+concepts: []
 
 ---
 I am thinking of adding WF support to my Team Foundation Server Event Handler, but I am interested in a discussion on the topic of the how's and wherefores. I have seen a lot of people implementing Workflow for Team Server and this would provide them a host system.

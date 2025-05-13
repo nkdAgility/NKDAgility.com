@@ -1,6 +1,6 @@
 ---
 title: What to do when you dont have a working computer!
-description: Discover practical tips for coping without a computer. Learn how to navigate daily tasks using mobile devices and software solutions effectively.
+description: Tips for staying productive without a computer, including using mobile devices for web browsing, writing, and software tasks when your main PC is unavailable.
 ResourceId: nD4pBeQgpZK
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:36Z
+concepts: []
 
 ---
 I have a little problem...I don't have a computer at home at the moment :( So I am writing this post from my Pocket PC using Diarist 2. I will come back to that, but first...

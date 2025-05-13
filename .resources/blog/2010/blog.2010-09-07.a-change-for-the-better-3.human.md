@@ -1,6 +1,6 @@
 ---
 title: 'A change for the better #3 - SSW to Northwest Cadence'
-description: Join Martin Hinshelwood as he shares his journey from SSW to Northwest Cadence, highlighting key lessons in Agile, Scrum, and ALM. Discover his insights!
+description: Reflects on lessons learned at SSW in software process, technology, and communication, and details a career move to an ALM consultant role at Northwest Cadence in Seattle.
 ResourceId: a_PdCAmRAp9
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Scrum
 preview: metro-nwc-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:21:33Z
+concepts: []
 
 ---
 Over the last 11 months, I have worked for a fantastic group of people at SSW and on a fantastic array of projects. However, the time has now come to specialise in one specific area. I have worked with Visual Studio ALM since its launch in 2005 and more recently with Scrum and the Professional Scrum Developer course that launched in April. Therefore, to this end I am leaving my job as a Solution Architect at [SSW](http://ssw.com.au) for an ALM Consultant role at [Northwest Cadence](http://nwcadence.com).   

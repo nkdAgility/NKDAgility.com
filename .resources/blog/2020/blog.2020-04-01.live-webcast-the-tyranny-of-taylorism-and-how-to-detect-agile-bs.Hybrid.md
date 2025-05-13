@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 aliases:
-- /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-- /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /resources/IDMjGi5C8lS
-- /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 aliasesArchive:
 - /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
@@ -33,6 +28,7 @@ categories:
 preview: 2020-03-27_21-31-11-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:56Z
+concepts: []
 
 ---
 ​

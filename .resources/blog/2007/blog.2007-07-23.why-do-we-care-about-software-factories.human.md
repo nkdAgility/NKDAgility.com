@@ -1,6 +1,6 @@
 ---
 title: Why do we care about software factories?
-description: Discover the importance of software factories and how they enhance development practices. Explore insights and visuals that make complex concepts accessible.
+description: Explains the benefits of software factories, how they improve software development, and highlights resources that make the concept easier to understand and adopt.
 ResourceId: cdrcglA4d9D
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:27:24Z
+concepts: []
 
 ---
 I have just read a good [post](http://blogs.msdn.com/viking/archive/2007/07/20/software-factories-illustrated-storyboard.aspx "Software Factories Illustrated StoryBoard") by [Erik Gunvaldson](http://blogs.msdn.com/viking "Viking quest") from Microsoft. In it he explains why we want to use software factories and he provides a nifty storyboard to get across the ideas.

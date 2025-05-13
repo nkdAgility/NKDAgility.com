@@ -1,6 +1,6 @@
 ---
 title: Installing TFS 2008 from scratch
-description: Learn how to install TFS 2008 from scratch with expert tips on setup, reporting, and SharePoint integration. Simplify your deployment process today!
+description: Step-by-step guide to installing TFS 2008 on a clean server, covering setup with SQL, Reporting Services, SharePoint integration, and troubleshooting authentication issues.
 ResourceId: 90J7b6pXQm3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-4-4.png
+Watermarks:
+  description: 2025-05-13T16:25:47Z
+concepts: []
 
 ---
 Well, setting up TFS 2008 is pretty easy. I have done an upgrade before, but I have now deployed my first pure TFS 2008 server to a clean environment. I have Reporting Services, SQL and TFS on one box and SharePoint 2007 in my Farm. Word of warning:

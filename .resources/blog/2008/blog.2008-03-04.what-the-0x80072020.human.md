@@ -1,6 +1,6 @@
 ---
 title: What the 0x80072020?
-description: Discover the 0x80072020 error in .NET 3.5 and learn how to securely access Active Directory with user credentials. Find solutions and insights here!
+description: Explains the 0x80072020 error in .NET 3.5 PrincipalContext when using ASP.NET impersonation with Active Directory, its cause, and security concerns with workaround.
 ResourceId: ts3nKVfoy1j
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:27Z
+concepts: []
 
 ---
 I have found a small bug (as in, "Not working as expected!") in the new .NET 3.5 PrincipalContext classes. When you are running on an ASP.NET site in impersonation mode you cannot retrieve information from active directory without the following error:

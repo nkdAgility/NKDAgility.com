@@ -1,6 +1,6 @@
 ---
 title: 'Presenting Aplication Lifecycle Management: Precursor'
-description: Join Martin Hinshelwood as he shares insights on Application Lifecycle Management (ALM) and his journey preparing for a pivotal presentation. Discover more!
+description: An introduction to Application Lifecycle Management (ALM), sharing first-time presentation experiences, preparation tips, and insights on related tools like Visual Studio Team System.
 ResourceId: 896VMaXqzu_
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: metro-aggreko-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:23:16Z
+concepts: []
 
 ---
 I am doing a presentation this afternoon on Application Lifecycle Management (ALM). This is the first time that I have ever presented on this topic, and I found out that I was doing it on Friday!

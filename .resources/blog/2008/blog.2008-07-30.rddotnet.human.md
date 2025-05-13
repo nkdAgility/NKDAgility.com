@@ -1,6 +1,6 @@
 ---
 title: RDdotNET
-description: Explore RDdotNET, your go-to site for ClickOnce applications like TFS Sticky Buddy. Discover tools and insights to enhance your development experience!
+description: A portal for hosting and sharing .NET tools and ClickOnce applications, including TFS Sticky Buddy and TFS Event Handler, with links to related resources and a blog.
 ResourceId: gihU6AH59yn
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:50Z
+concepts: []
 
 ---
 Well I finally got of by behind and set up a site for [RDdotNET](http://rddotnet.com), its not special or clever, but it does let me host ClickOnce Applications like the [TFS Sticky Buddy](http://rddotnet.com/tfsstickybuddy) and give a single portal to my other tools. I only have [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Sticky Buddy and [TFS Event Handler](http://rddotnet.com/TFSEventHandler.aspx) up at the moment, but I will expand on that.

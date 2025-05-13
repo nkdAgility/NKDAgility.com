@@ -1,6 +1,6 @@
 ---
 title: IHandlerFactory
-description: Discover how to implement a BlogRedirectHandler in ASP.NET to manage URL redirects effectively, ensuring a smooth transition for your users.
+description: Explains how to use a custom IHttpHandler and handler factory in ASP.NET to redirect old URLs to a new site, preserving links and SEO with permanent redirects.
 ResourceId: kYNSKaqUYb7
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:45Z
+concepts: []
 
 ---
 As you have probably noticed I have moved URL’s (sorry to all you feed readers with the duplicate entries). The reason I moved my blog was to free up the [http://hinshelwood.com](http://hinshelwood.com) URL for use as a personal site that then links to my blog. When you do this you need to consider all of your current users, bookmarks, feeds, links and all that malarkey.

@@ -26,6 +26,7 @@ tags:
 - Organisational Agility
 Watermarks:
   description: 2025-05-07T13:09:07Z
+concepts: []
 
 ---
 **🌟 Exclusive Webcast #2: "Agile [Leadership]({{< ref "/categories/leadership" >}}) & [Agile Transformation]({{< ref "/tags/agile-transformation" >}})" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

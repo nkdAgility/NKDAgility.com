@@ -1,6 +1,6 @@
 ---
 title: Windows CardSpace gets Firefox support
-description: Discover how Windows CardSpace now supports Firefox with a new plug-in, enhancing digital identity management. Download it today for seamless integration!
+description: A new plug-in enables Microsoft’s CardSpace digital identity framework to work with Firefox, expanding browser support for secure online authentication.
 ResourceId: S4ZOLBDIh7u
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-binary-vb-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:29:50Z
+concepts: []
 
 ---
 [Windows CardSpace gets Firefox support](http://blogs.zdnet.com/microsoft/?p=151 "Permalink") by [ZDNet](http://zdnet.com)'s Mary Jo Foley -- A new plug-in providing Firefox support for Microsoft's CardSpace digital-identity framework.is now available for public download.

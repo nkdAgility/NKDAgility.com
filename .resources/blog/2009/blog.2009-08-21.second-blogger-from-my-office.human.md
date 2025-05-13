@@ -1,6 +1,6 @@
 ---
 title: Second blogger from my office
-description: Discover the journey of my colleague Roddy as he navigates corporate blogging. Check out his insightful first post on SQL Server functions!
+description: A colleague has started blogging, sharing a useful SQL Server function to add working days to a date—helpful for support analysts and database professionals.
 ResourceId: uzDvrUVCXdK
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-aggreko-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:23:13Z
+concepts: []
 
 ---
 One of my colleagues is facing the maelstrom that is corporate blogjection and has become [a geek with a blog](http://geekswithblogs.net/RoddyCrossan/archive/2009/08/21/sql-server-function-to-add-working-days-on-to-a.aspx). Have a heart as he is a poor under-paid support analyst who hits WAY above his pay grade.

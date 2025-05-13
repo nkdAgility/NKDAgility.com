@@ -47,6 +47,8 @@ categories:
 preview: staggered-iterations-for-delivery1-2-2.png
 Watermarks:
   description: 2025-05-07T13:15:16Z
+concepts:
+- Practice
 
 ---
 There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more [technical debt]({{< ref "/tags/technical-debt" >}}) and lower quality software.

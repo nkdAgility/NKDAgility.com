@@ -1,6 +1,6 @@
 ---
 title: TFS Sticky Buddy v0.3.1 CTP1
-description: Explore the TFS Sticky Buddy v0.3.1 CTP1, a WPF digital dashboard for Team Foundation Server. Download now to visualize your project areas and iterations!
+description: Preview release of a WPF-based dashboard for Team Foundation Server, showing Areas and Iterations as diagrams; early version with limited features and bug reporting.
 ResourceId: UkSxUYTe7U_
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-sticky-buddy-v0-3-1-ctp1
 aliases:
-- /resources/UkSxUYTe7U_
 - /resources/blog/tfs-sticky-buddy-v0.3.1-ctp1
+- /resources/UkSxUYTe7U_
 aliasesArchive:
 - /blog/tfs-sticky-buddy-v0-3-1-ctp1
 - /tfs-sticky-buddy-v0-3-1-ctp1
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-3-1.png
+Watermarks:
+  description: 2025-05-13T16:24:22Z
+concepts: []
 
 ---
 [![image](images/TFSStickyBuddyv0.3.1CTP1_FB78-image_thumb_2-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv0.3.1CTP1_FB78-image_6.png) There is a Community Technology Preview release of the [Team Foundation Server Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) digital dashboard project that is built using Windows Presentation Foundation (WPF). I have used the source code from the Family.Show project to create functionality and a look that is appealing.

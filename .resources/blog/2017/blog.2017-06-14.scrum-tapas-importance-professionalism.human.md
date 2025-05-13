@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: scrum-tapas-importance-professionalism
 aliases:
-- /blog/scrum-tapas-importance-professionalism
-- /scrum-tapas-importance-professionalism
-- /scrum-tapas--the-importance-of-professionalism
-- /blog/scrum-tapas--the-importance-of-professionalism
 - /resources/sdlfWR5wHx7
-- /resources/blog/scrum-tapas-importance-professionalism
 aliasesArchive:
 - /blog/scrum-tapas-importance-professionalism
 - /scrum-tapas-importance-professionalism
@@ -33,6 +28,7 @@ categories:
 preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:36Z
+concepts: []
 
 ---
 I believe that to create great software you need to have Professional Teams and not just amateur Teams. However most software teams are amateurs that don't follow the rules, don’t subscribe to [engineering excellence]({{< ref "/categories/engineering-excellence" >}}), and don't follow the values and principals

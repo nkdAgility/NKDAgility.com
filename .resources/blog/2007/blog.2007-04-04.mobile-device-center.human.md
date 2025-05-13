@@ -1,6 +1,6 @@
 ---
 title: Mobile Device Center
-description: Explore the limitations of Mobile Device Center and its syncing issues with Windows Vista. Join the discussion on improving Microsoft’s mobile solutions!
+description: Discusses the limitation of Mobile Device Center on Windows Vista, highlighting its inability to sync with built-in contacts, calendar, and email components.
 ResourceId: KLy7B-gdNTJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:28:50Z
+concepts: []
 
 ---
 The one thing I do not like about the mobile device center is that it can't sync with the built in windows vista components (Contacts, Calendar and email). This is, I think, a deficiency in the product.

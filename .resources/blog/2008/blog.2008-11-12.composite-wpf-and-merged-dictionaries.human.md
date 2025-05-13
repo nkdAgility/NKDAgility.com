@@ -1,6 +1,6 @@
 ---
 title: Composite WPF and Merged Dictionaries
-description: Explore how to effectively manage themes and resource files in WPF applications with practical code solutions and insights from Martin Hinshelwood.
+description: Explains how to manage dynamic resource dictionaries and themes in WPF with Composite WPF, addressing common errors and providing code solutions for region management.
 ResourceId: rVJ3HWMCFYD
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T16:22:33Z
+concepts: []
 
 ---
 If, like me, you like to have changeable resource files in your application. Wither it is for changing the Theme, or interchanging templates you will need to take special care when using the

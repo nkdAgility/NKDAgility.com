@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 aliases:
-- /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-- /round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
-- /round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
-- /blog/round-up-for-2017-and-beyond--agility,-devops,-and-everything-in-between
 - /resources/J0HjcdNvqGW
-- /round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
-- /blog/round-up-for-2017-and-beyond--agility--devops--and-everything-in-between
-- /resources/blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 aliasesArchive:
 - /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 - /round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
@@ -37,6 +30,7 @@ preview: -1-1.jpg
 tags: []
 Watermarks:
   description: 2025-05-07T13:16:24Z
+concepts: []
 
 ---
 This year has been relatively busy for conferences. Which is unusual since I usually forget until after the call for papers and wonder what's going on. Well, this time I got some submissions in on time. It does, however, baffle me which papers are selected. I always submit around 6 papers for workshops and talks, and always the one I would least like to present is picked.

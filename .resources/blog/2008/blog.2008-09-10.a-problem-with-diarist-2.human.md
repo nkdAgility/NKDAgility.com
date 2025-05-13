@@ -1,6 +1,6 @@
 ---
 title: A problem with Diarist 2!
-description: Frustrated with Diarist 2? Discover a rant about a frustrating blog writing experience and share your thoughts on improving Windows Mobile 6 blogging!
+description: User lost a blog post in Diarist 2 after accidentally using the blog selection dropdown, suggesting its removal to prevent data loss and improve usability.
 ResourceId: Pq0Hdy2qZ05
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:17Z
+concepts: []
 
 ---
 {Rant}

@@ -1,6 +1,6 @@
 ---
 title: Linked in Codeplex developers group
-description: Join the Codeplex LinkedIn groups for developers and coordinators to connect, collaborate, and enhance your project experience. Get involved today!
+description: Join LinkedIn groups for Codeplex developers and coordinators. Membership requires a Codeplex account and project involvement. Profile verification is needed to join.
 ResourceId: UJU5tO1-TLi
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-3-3.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:24:05Z
+concepts: []
 
 ---
 If you are a developer on Codeplex then there are now two Codeplex LinkedIn groups for you to join.

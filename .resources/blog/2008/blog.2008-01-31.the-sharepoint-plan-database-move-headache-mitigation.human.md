@@ -1,6 +1,6 @@
 ---
 title: 'The SharePoint Plan: Database move headache mitigation'
-description: Discover effective strategies to mitigate database move headaches in SharePoint. Learn how to simplify SQL Server migrations and save time with our expert plan!
+description: Guidance on moving SharePoint SQL Server databases to a new server using DNS redirection, aiming to simplify migration and minimise downtime and manual effort.
 ResourceId: 8G7jFUB3MHo
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:47Z
+concepts: []
 
 ---
 SharePoint requires SQL Server. That's a given, but what if you want to move the SQL Server databases to another server? [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") is easy enough to move between servers, but SharePoint is NOT. The only answer I can find is to do a full backup and restore from SharePoint, which takes time and effort.

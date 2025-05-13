@@ -32,6 +32,7 @@ categories:
 preview: image-3-3-3.png
 Watermarks:
   description: 2025-05-07T13:15:31Z
+concepts: []
 
 ---
 In our [Professional Agile Leadership training](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-training/), we talk about changing your organisations hiring practices to hire more of the right sort of people to create the company that you want, not the company that you have. Hire the right people also implies that you will have to, within your cultural constraints, de-hire the wrong people.

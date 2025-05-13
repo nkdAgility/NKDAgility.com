@@ -1,6 +1,6 @@
 ---
 title: AD Update-O-Matic
-description: Discover how to automate Active Directory updates with a custom VB 9.0 application, enhancing organization for MOSS 2007 users. Dive into the details!
+description: Application for automating Active Directory updates by extracting user data, editing in a database, and syncing changes, supporting .NET and MOSS 2007 environments.
 ResourceId: PxQXixHg3e3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:39Z
+concepts: []
 
 ---
 In my quest to

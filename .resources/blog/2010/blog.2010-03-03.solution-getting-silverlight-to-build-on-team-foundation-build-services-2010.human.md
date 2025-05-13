@@ -1,6 +1,6 @@
 ---
 title: 'Solution: Getting Silverlight to build on Team Foundation Build Services 2010'
-description: Learn how to successfully build Silverlight applications using Team Foundation Build Services 2010. Overcome common challenges with expert tips and solutions!
+description: Step-by-step guide to resolving build failures when compiling Silverlight 3 projects with Team Foundation Build Services 2010, including SDK, MSBuild, and code analysis fixes.
 ResourceId: KPVUDFGZRaX
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2010-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T15:22:42Z
+concepts: []
 
 ---
 This is SSW’s first time using Team Build 2010 to automatically create a Silverlight application. In the past the guys have used Cruse Control, but we want to move to a pure TFS 2010 solution. When one of our developers ([Allan](http://sharepoint.ssw.com.au/AboutUs/Employees/Pages/Allan.aspx)) added a Silverlight 3 project to the Solution our build server spat it out.

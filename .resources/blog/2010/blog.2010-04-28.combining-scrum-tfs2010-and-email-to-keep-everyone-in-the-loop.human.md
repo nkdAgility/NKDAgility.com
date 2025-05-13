@@ -1,6 +1,6 @@
 ---
 title: Combining Scrum, TFS2010 and Email to keep everyone in the loop
-description: Discover how to effectively combine Scrum, TFS2010, and email to enhance team collaboration and keep everyone informed. Streamline your project management today!
+description: Explains how to integrate Scrum, TFS 2010, and email to share task details, maintain history, and keep all stakeholders informed throughout project workflows.
 ResourceId: aU3PspgaeEN
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:22:05Z
+concepts: []
 
 ---
 ![RulestoBetter](images/SSWScrumRuleDoyouknow_D4DD-RulestoBetter_-3-3.gif)Often you will receive rich information from your Product Owner (Customer) about tasks. That information can be in the form of Word documents, HTML Emails and Pictures, but you generally receive them in the context of an Email.

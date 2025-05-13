@@ -1,6 +1,6 @@
 ---
 title: Community-Credit feedback
-description: Join the discussion on enhancing Community Credit! Share your feedback and suggestions to improve features and user experience in this vibrant forum.
+description: Suggestions for improving Community Credit, including category management, privacy for user profiles, SEO, faster page loads, moderation rewards, and guest developer roles.
 ResourceId: HElvJm048ib
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:57Z
+concepts: []
 
 ---
 [Community Credit](http://www.community-credit.com) is getting a face lift and [David Silverlight](http://www.community-credit.com/cs/blogs/default.aspx) (yes a man so great that an entire platform was named after him) is asking for [contributions](http://www.community-credit.com/cs/forums/107/ShowForum.aspx) to this... So head on over to the [community credit forum](http://www.community-credit.com/cs/forums/107/ShowForum.aspx) and get suggesting...

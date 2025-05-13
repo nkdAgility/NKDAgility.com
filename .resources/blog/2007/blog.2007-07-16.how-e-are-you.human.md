@@ -1,6 +1,6 @@
 ---
 title: How 'e' are you?
-description: Discover your e-score and see how you rank in the digital world! Join the fun and find out how 'e' you really are with our engaging quiz.
+description: Discover your "e-score" and see how you rank online with a quick test that measures your digital expertise and compares your results to others.
 ResourceId: YDrhk8yEGQa
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: how-e-are-you
 aliases:
-- /resources/YDrhk8yEGQa
 - /resources/blog/how-e-are-you
+- /resources/YDrhk8yEGQa
 aliasesArchive:
 - /blog/how-e-are-you
 - /how-e-are-you
@@ -27,6 +27,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:27:38Z
+concepts: []
 
 ---
 [Will Pritchard](http://geekswithblogs.net/MOSSParadox/) posted an interesting blog entry about this and I though I would give it a go...

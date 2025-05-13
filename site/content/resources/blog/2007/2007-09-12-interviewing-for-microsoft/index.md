@@ -1,6 +1,6 @@
 ---
 title: Interviewing for Microsoft
-description: Explore my journey interviewing for a dream job at Microsoft, the challenges faced, and valuable lessons learned in software development and public speaking.
+description: A personal account of interviewing for a Microsoft Application Developer Consultant role, detailing the process, technical requirements, and lessons learned from the experience.
 ResourceId: ldGtzdVxYwE
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:11Z
+concepts: []
 
 ---
 I was not sure wither I was going to post this, but I am pretty crazy anyway, so...what the hell.

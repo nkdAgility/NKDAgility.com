@@ -1,6 +1,6 @@
 ---
 title: Major deadline
-description: Discover the challenges of managing a SharePoint migration project and the urgent solutions needed to meet a tight deadline. Join the journey of innovation!
+description: A critical SharePoint migration project faces urgent deadlines after performance issues, requiring rapid deployment of a new MOSS portal to support key business functions.
 ResourceId: qNeovUSRj-o
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-5-5.png
+Watermarks:
+  description: 2025-05-13T16:24:15Z
+concepts: []
 
 ---
 ![image](images/Majordeadline_13060-image_thumb_6-4-4.png)Well the faeces hit the fan at work today...let me explain...

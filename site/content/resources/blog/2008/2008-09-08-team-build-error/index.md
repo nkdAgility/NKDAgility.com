@@ -1,6 +1,6 @@
 ---
 title: Team Build Error
-description: Discover solutions to MS Build errors in Visual Studio 2005 and 2008. Learn how updates can resolve issues and streamline your Business Intelligence projects.
+description: Explains troubleshooting a confusing MS Build error in a mixed Visual Studio 2005/2008 environment, resolved by updating GDR and Business Intelligence components.
 ResourceId: hLCFRDIvAXj
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-3-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:23:19Z
+concepts: []
 
 ---
 I received a confusing error from MS Build on Friday. I assumed that it was a GDR version issue for the top level message:

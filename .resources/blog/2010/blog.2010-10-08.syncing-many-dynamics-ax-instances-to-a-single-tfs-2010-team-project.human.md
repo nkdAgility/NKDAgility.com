@@ -1,6 +1,6 @@
 ---
 title: Syncing many Dynamics AX instances to a single TFS 2010 Team Project
-description: Discover how to streamline multiple Dynamics AX instances into a single TFS 2010 Team Project, simplifying management and enhancing collaboration.
+description: Explains how to configure multiple Dynamics AX instances to sync with a single TFS 2010 Team Project, streamlining source control and work item management for many clients.
 ResourceId: cYRmqyXmGQf
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 - Pragmatic Thinking
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:11:26Z
+concepts: []
 
 ---
 ![](images/c51bf204-d93f-4485-9873-88fd0e8f4659.png)I have been working with a customer who had been frustrated with the need to have new Team Project for every instance of AX that they use. In fact with 3 instances per customer and lots of customers it can very quickly get complicated and I wanted to see if there was a solution for them.  

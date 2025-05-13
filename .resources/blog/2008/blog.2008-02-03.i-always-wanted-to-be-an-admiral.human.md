@@ -1,6 +1,6 @@
 ---
 title: I always wanted to be an Admiral!
-description: Join Martin Hinshelwood as he reflects on his dream of becoming an Admiral, inspired by Battlestar Galactica. Dive into personal insights and fun quizzes!
+description: A personal reflection on taking a Battlestar Galactica character quiz after finishing season 3, sharing excitement and anticipation for the upcoming final season.
 ResourceId: GsQob9JDjYK
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ categories:
 preview: nakedalm-logo-128-link-2-2.png
 tags:
 - Miscellaneous
+Watermarks:
+  description: 2025-05-13T16:24:38Z
+concepts: []
 
 ---
 [Which Battlestar Galactica Character Are You?  

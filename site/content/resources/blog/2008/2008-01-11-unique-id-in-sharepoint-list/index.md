@@ -1,6 +1,6 @@
 ---
 title: Unique ID in SharePoint list
-description: Discover how to display a unique auto-generated ID in your SharePoint list effortlessly. Enhance your SharePoint experience with this essential guide!
+description: SharePoint lists include a built-in unique, auto-generated ID column. Enable its display in list settings to show unique IDs for each item without custom solutions.
 ResourceId: IydVW3AXWCp
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-2-1.png
+Watermarks:
+  description: 2025-05-13T16:24:59Z
+concepts: []
 
 ---
 [This seams to be a common problem, and one that I get many calls from users about:](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UniqueIDinSharePointlist_7B3D-image_2.png)

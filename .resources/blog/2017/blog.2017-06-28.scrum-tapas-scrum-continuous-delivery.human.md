@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: scrum-tapas-scrum-continuous-delivery
 aliases:
-- /blog/scrum-tapas-scrum-continuous-delivery
-- /scrum-tapas-scrum-continuous-delivery
-- /scrum-tapas--scrum-and-continuous-delivery
-- /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/LoRDIqNuwD-
-- /resources/blog/scrum-tapas-scrum-continuous-delivery
 aliasesArchive:
 - /blog/scrum-tapas-scrum-continuous-delivery
 - /scrum-tapas-scrum-continuous-delivery
@@ -33,6 +28,7 @@ categories:
 preview: nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:33Z
+concepts: []
 
 ---
 I get asked a lot at conferences and at customers how [Scrum]({{< ref "/categories/scrum" >}}) and [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) can work together. The reality is that they complement each other and at the last Scrum.org F2F I sat down to make a little video on the way I think that it works.

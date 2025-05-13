@@ -1,6 +1,6 @@
 ---
 title: Unit Testing against the Team Foundation Server 2012 API
-description: Learn how to effectively unit test against the Team Foundation Server 2012 API, tackling authentication challenges and enhancing your TDD practices.
+description: Explains how to unit test applications against the Team Foundation Server 2012 API, focusing on handling authentication for automated and unattended test scenarios.
 ResourceId: eizpccdEtUL
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-3-3.png
+Watermarks:
+  description: 2025-05-13T15:09:04Z
+concepts: []
 
 ---
 I have been working a lot recently with the new Team Foundation Service (TFS Preview) that Microsoft is providing in Azure. I was building an application called TFS Field Annotate that allows you to spelunk a fields changes. One of the problems I ran into is how to Unit Test this. I have been doing a lot of work in Test Driven Development (TDD) recently and after running a Bowling Kata (thanks David Starr) for the last month I don’t want to work any other way.

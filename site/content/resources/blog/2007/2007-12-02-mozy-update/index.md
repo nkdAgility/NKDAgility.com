@@ -1,6 +1,6 @@
 ---
 title: Mozy update
-description: Discover how I expanded my Mozy storage to 4.3 GB and optimized my backup strategy. Learn tips for efficient online storage management!
+description: Gained 4.3GB total Mozy cloud storage through referrals, detailing backup choices and ease of use for family members. Excludes music, code, and emails from backup.
 ResourceId: Tb5vwyZh7DY
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:25:25Z
+concepts: []
 
 ---
 Well, due to my campaign to get lots of free bandwidth I now have an additional 2.3 GB on top of my initial free 2GB bringing the grand total to 4.3 GB of online storage with [Mozy](https://mozy.com/?code=8R96AG)!

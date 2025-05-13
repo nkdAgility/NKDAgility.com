@@ -1,6 +1,6 @@
 ---
 title: The value of an independent Scotland for me
-description: Explore the personal value of an independent Scotland through self-determination, economic control, and a brighter future for generations. Join the debate!
+description: Personal reflections on Scottish independence, exploring self-determination, media bias, economic control, immigration, and the long-term value for future generations.
 ResourceId: kmgdXtKVzGS
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-yes-scotland-128-link-1-1.png
+Watermarks:
+  description: 2025-05-12T14:21:30Z
+concepts: []
 
 ---
 For the last wee while some of you may have noticed some news coverage about Scottish independence. This post is about the value of an independent Scotland for me, so if you are not interested in politics then move along. It will all be over in a few months and you will likely never have to hear about it outside of history again.

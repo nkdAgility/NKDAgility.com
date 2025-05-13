@@ -1,6 +1,6 @@
 ---
 title: Create a Release Management pipeline for Professional Developers
-description: Learn to create a Release Management pipeline for developers, enhancing automation and deployment efficiency with Team Foundation Server. Dive in now!
+description: Step-by-step guide to building an automated Release Management pipeline for professional developers, covering build, deployment, environment setup, and parameterisation.
 ResourceId: WYBOx1X0R-3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -42,6 +42,9 @@ categories:
 - Engineering Excellence
 - DevOps
 preview: nakedalm-experts-visual-studio-alm-46-46.png
+Watermarks:
+  description: 2025-05-12T14:20:36Z
+concepts: []
 
 ---
 Now that I have [it configured](http://nkdagility.com/create-standard-environment-release-management-azure/) I want to show how to create a Release Management pipeline for Professional Developers and Development Teams.

@@ -1,6 +1,6 @@
 ---
 title: Wpf Drag & Drop behaviour
-description: Master WPF drag & drop with MVVM! Discover intuitive techniques and custom solutions to enhance your applications. Perfect for developers seeking efficiency.
+description: Explains how to implement flexible drag and drop in WPF using MVVM, with customisable drop behaviour and bindable options for ItemsControls, including code examples.
 ResourceId: -BCzcrYA0j8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: wpf-drag-drop-behaviour
 aliases:
-- /resources/-BCzcrYA0j8
 - /resources/blog/wpf-drag-drop-behaviour
+- /resources/-BCzcrYA0j8
 aliasesArchive:
 - /blog/wpf-drag-drop-behaviour
 - /wpf-drag-drop-behaviour
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-5-1.png
+Watermarks:
+  description: 2025-05-13T15:23:18Z
+concepts: []
 
 ---
 A colleague of mine was having a bit of trouble getting drag and drop working in a way that fitted well with the MVVM pattern. This is really quite simple once you have a certain level of understanding of Patterns, but is a complete nightmare if you do not.

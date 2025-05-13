@@ -1,6 +1,6 @@
 ---
 title: Hosted Sticky Buddy
-description: Discover the hosted TFS Sticky Buddy, a fast deployment tool for .NET 3.5 and Team Explorer 2008 users. Enhance your workflow with ease!
+description: Access a hosted version of TFS Sticky Buddy, requiring .NET 3.5 and Team Explorer 2008, with fast performance and ClickOnce deployment for easy installation.
 ResourceId: 4r5fzbQPMir
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:23:46Z
+concepts: []
 
 ---
 I now have a nice hosted version of the [TFS Sticky Buddy](http://rddotnet.com/tfsstickybuddy.aspx) that is fairly fast and deploys using ClickOnce, but you do need to make sure that you already have .NET 3.5 and Team Explorer 2008 installed first…

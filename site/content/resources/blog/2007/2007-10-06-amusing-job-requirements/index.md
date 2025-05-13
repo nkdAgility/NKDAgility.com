@@ -1,6 +1,6 @@
 ---
 title: Amusing job requirements
-description: Discover the absurdity of job requirements in tech! Join Martin Hinshelwood as he critiques a hilariously unrealistic skill set for an Analyst Programmer.
+description: A humorous look at unrealistic job requirements for analyst programmers, highlighting the pitfalls of overloaded skill lists and offering practical advice for employers and job seekers.
 ResourceId: NU1-eAy72tU
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:53Z
+concepts: []
 
 ---
 I recently received a job spec that had the most ridiculous "Required" skill set for an "Analyst Programmer". I though I should share it with you as I have just spent the last 10 minutes cleaning tea out of my keyboard with cotton bud's. Here is how it was presented in the email:

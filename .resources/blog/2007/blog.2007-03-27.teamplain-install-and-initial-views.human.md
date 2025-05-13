@@ -1,6 +1,6 @@
 ---
 title: TeamPlain - Install and initial views
-description: Discover how to quickly install TeamPlain and explore its features for enhanced web access. Overcome project name challenges and improve user experience!
+description: Covers installing TeamPlain, initial setup experience, project name display issues, and early observations on user access control and web-based project management features.
 ResourceId: SlsFZ5kO1Jc
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:28:56Z
+concepts: []
 
 ---
 Well, I got TeamPlain installed in about 30 seconds on my dev servers. In fact, it went so well that after about 10 minutes of messing around with it, I installed it in production as well.

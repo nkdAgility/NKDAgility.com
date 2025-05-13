@@ -1,6 +1,6 @@
 ---
 title: Technorati Troubles
-description: Struggling with Technorati? Discover my challenges with URL redirects and invalid tags, and join the conversation on resolving these blogging issues.
+description: Describes issues with Technorati blog claim verification, URL redirects, and invalid tag clouds, highlighting difficulties resolving these problems through support.
 ResourceId: r1BGZbCmJRA
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:26:02Z
+concepts: []
 
 ---
 Recently I have been having real trouble with Technorati. I have been trying to mop up my loose blog claims and I have been having a problem. Technorati seems unable to get a lock on redirected URL's, I don't see why that would be an issue, but it is. In a effort to try to remedy this problem I have put all of my claim codes here:

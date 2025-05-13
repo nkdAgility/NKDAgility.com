@@ -1,6 +1,6 @@
 ---
 title: 'A change for the better #1 - Merrill Lynch to Aggreko'
-description: Join Martin Hinshelwood as he shares his pivotal career shift from Merrill Lynch to Aggreko, embracing new technology and expanding his expertise.
+description: A developer transitions from Merrill Lynch to Aggreko, seeking stability and opportunities to work with new technologies like SharePoint, TFS, and .NET 3.x.
 ResourceId: _UxrL9mWMdL
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-aggreko-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:38Z
+concepts: []
 
 ---
 Well, that's me in my last month at [Merrill Lynch](http://www.ml.com/) after a nice run as a developer. My reasons for moving I have [stated](http://blog.hinshelwood.com/archive/2007/07/16/Its-that-time-again.aspx) before, but I have decided that the contractor business is just too risky for me at the moment.

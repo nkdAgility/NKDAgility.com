@@ -1,6 +1,6 @@
 ---
 title: Always prompted for credentials in TFS 2010?
-description: Struggling with constant credential prompts in TFS 2010? Discover effective solutions and tips to streamline your authentication process effortlessly!
+description: Explains why TFS 2010 repeatedly prompts for credentials and how to resolve it by configuring your domain as an intranet site in Internet Explorer settings.
 ResourceId: fESk_RDaaIB
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-6-6.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:09:52Z
+concepts: []
 
 ---
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-10-10.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2011/11/VisualStudioALMLogo.png)

@@ -1,6 +1,6 @@
 ---
 title: There is no "do agile" there is only "be agile"
-description: Discover why true agility is about being, not just doing. Embrace deep organizational change for lasting value in your agile journey. Learn more!
+description: Explores the difference between adopting agile practices superficially and truly embracing agile values, highlighting the need for deep organisational change and continuous learning.
 ResourceId: QIFsyx_OqLG
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -37,6 +37,9 @@ categories:
 - Technical Leadership
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
+Watermarks:
+  description: 2025-05-12T14:23:16Z
+concepts: []
 
 ---
 I commented on [Scrum is hard to adopt and disruptive to your organisation](http://nkdagility.com/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation/) before and I think that for most companies this is just beyond their comprehension. They are fundamentally misunderstanding agile and trying to do agile rather than be agile.

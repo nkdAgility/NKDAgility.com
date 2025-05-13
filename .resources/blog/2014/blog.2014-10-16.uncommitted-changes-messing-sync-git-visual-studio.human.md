@@ -1,6 +1,6 @@
 ---
 title: Uncommitted changes messing up your sync in Git with Visual Studio
-description: Learn how uncommitted changes in Git can disrupt your sync in Visual Studio. Discover effective strategies to manage your workflow and enhance productivity.
+description: Explains how uncommitted changes in Git can prevent syncing with the server in Visual Studio, and highlights key workflow differences from traditional server-based systems.
 ResourceId: CuWpL0GPBwN
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: naked-alm-git-2-2.png
+Watermarks:
+  description: 2025-05-12T14:20:59Z
+concepts: []
 
 ---
 Sometimes when you try to Pull changes from the server to your local repository you get a "cannot pull because there are uncommitted changes". This is uncommitted changes messing up your sync

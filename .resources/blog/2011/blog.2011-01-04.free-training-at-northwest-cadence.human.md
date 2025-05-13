@@ -1,6 +1,6 @@
 ---
 title: Free training at Northwest Cadence
-description: Discover free training sessions at Northwest Cadence! Join engaging Coffee Talks to enhance your skills in ALM and Quality Assurance. Don't miss out!
+description: Learn about free online training sessions from Northwest Cadence, including interactive Coffee Talks on ALM, TFS 2010, and quality assurance, suitable for UK developers.
 ResourceId: uZaKwlACVT_
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-event-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T15:11:21Z
+concepts: []
 
 ---
 **[![NWCadence-Logo](images/d8a99e5b9476_9304-NWCadence-Logo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-d8a99e5b9476_9304-NWCadence-Logo_2.png)**

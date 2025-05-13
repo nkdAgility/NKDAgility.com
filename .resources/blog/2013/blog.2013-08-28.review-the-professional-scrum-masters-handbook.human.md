@@ -1,6 +1,6 @@
 ---
 title: 'Review: The Professional Scrum Masters Handbook'
-description: Explore the insights of 'The Professional Scrum Masters Handbook' with a critical review that highlights key takeaways for new Scrum Masters and Project Managers.
+description: A critical review of The Professional Scrum Masters Handbook, highlighting its practical tips for new Scrum Masters and common Scrum misconceptions to avoid.
 ResourceId: Truj03gqwvW
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
+Watermarks:
+  description: 2025-05-12T14:23:18Z
+concepts: []
 
 ---
 I was asked recently to review The Professional Scrum Masters Handbook. As I read this book there were times that I shouted at it and I almost stopped reading in disgust around chapter 4.

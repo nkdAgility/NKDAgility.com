@@ -1,6 +1,6 @@
 ---
 title: Moderating for Community-Credit
-description: Join me as I share my experience moderating submissions for Community-Credit, a platform that rewards honesty and community engagement. Sign up and win prizes!
+description: Describes volunteering as a moderator for Community-Credit, reviewing user submissions, supporting an honest community, and earning credits and prizes through participation.
 ResourceId: ChsE6EP6OC4
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:26:10Z
+concepts: []
 
 ---
 Well, today I started a new part time job that I do not get paid for, but put just as much professional interest into as may main job.

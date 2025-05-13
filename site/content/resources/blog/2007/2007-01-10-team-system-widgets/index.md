@@ -1,6 +1,6 @@
 ---
 title: Team System Widgets
-description: Discover essential applications for Team System to enhance your TFS experience. Explore updates and insights on TeamPlain and more to boost your productivity!
+description: A regularly updated resource listing applications and web tools for Team System and Team Foundation Server, including insights on TeamPlain web products for TFS.
 ResourceId: P5ilJfzSeMk
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -23,6 +23,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:29:31Z
+concepts: []
 
 ---
 I have found a site with a list of many of the [applications](http://accentient.com/widgets.aspx "Team System Widgets") available for Team System. It seams to be updated regularly and should help with some of the v1 shortcomings of team Foundation Server.

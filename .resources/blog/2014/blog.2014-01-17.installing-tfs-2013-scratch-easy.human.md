@@ -1,6 +1,6 @@
 ---
 title: Installing TFS 2013 from scratch is easy
-description: Learn how to easily install TFS 2013 from scratch with step-by-step videos. Discover basic and advanced setups for efficient configuration and management.
+description: Step-by-step guide to installing and configuring TFS 2013 using Basic or Standard options, including SQL setup, SharePoint integration, and reporting features overview.
 ResourceId: VfADNDpkNbe
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 - System Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:22:28Z
+concepts: []
 
 ---
 It had been a while since I installed TFS from scratch and I had a few questions from a customer on the subject. So instead of creating yet another installing TFS post I decided to create a couple of videos instead.

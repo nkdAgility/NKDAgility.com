@@ -1,6 +1,6 @@
 ---
 title: Do you have a contract between the Product Owner and the Team?
-description: Discover the importance of a Sprint Contract between the Product Owner and Team in Scrum. Enhance collaboration and clarity for successful project delivery.
+description: Explains the benefits of a Sprint Contract in Scrum, clarifying roles and agreements between Product Owner and Team to improve collaboration and manage scope during each Sprint.
 ResourceId: 8d4KN3bxVfX
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Scrum
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:22:14Z
+concepts: []
 
 ---
 ![RulestoBetter](images/SSWScrumRules_C6B7-RulestoBetter_-3-3.gif)Working in Scrum it is useful to define a Sprint Contract between the Product Owner (PO) and the implementation Team. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.

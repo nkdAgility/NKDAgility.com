@@ -25,6 +25,7 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-07T13:14:20Z
+concepts: []
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

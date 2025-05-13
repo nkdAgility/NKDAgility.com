@@ -1,6 +1,6 @@
 ---
 title: Creating a custom Activity for Team Foundation Build
-description: Learn to create custom activities for Team Foundation Build with this step-by-step guide. Simplify your workflows and enhance your build processes today!
+description: Learn how to create and integrate custom activities in Team Foundation Build, including class library setup, workflow design, argument handling, and build configuration.
 ResourceId: mgwL4ERT1N3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 - Install and Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-12T14:23:39Z
+concepts: []
 
 ---
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.

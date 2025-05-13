@@ -1,6 +1,6 @@
 ---
 title: Uber-Dorky Nerd King
-description: Discover the fun side of being a nerd with the 'Uber-Dorky Nerd King' post! Join Martin Hinshelwood as he explores personal geekiness and self-identity.
+description: A light-hearted reflection on taking an online nerd test, sharing results, and playfully questioning what it means to be a nerd in today's digital culture.
 ResourceId: Ujdt5B-Adqp
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:26:08Z
+concepts: []
 
 ---
 I spotted this [post](http://geekswithblogs.net/sbargelt/archive/2007/09/13/115331.aspx "Uber-Dorky Nerd King") by [Steve Bargelt](http://geekswithblogs.net/sbargelt/), and I just could not help myself...

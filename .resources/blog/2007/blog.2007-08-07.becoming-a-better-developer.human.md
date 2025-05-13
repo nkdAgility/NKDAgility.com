@@ -1,6 +1,6 @@
 ---
-title: Becoming a better developer...
-description: Explore practical tips and personal insights on becoming a better developer, including studying, tools, and embracing dyslexia as a strength.
+title: Becoming a better developer
+description: Practical steps for improving as a developer, including ongoing learning, project work, community involvement, blogging, and embracing neurodiversity in tech.
 ResourceId: BonYegnhwPu
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -16,18 +16,17 @@ resourceTypes: blog
 slug: becoming-a-better-developer
 aliases:
 - /resources/BonYegnhwPu
-- /resources/blog/becoming-a-better-developer...
 aliasesArchive:
 - /blog/becoming-a-better-developer
-- /becoming-a-better-developer---
-- /blog/becoming-a-better-developer---
 - /becoming-a-better-developer
 - /resources/blog/becoming-a-better-developer
-- /resources/blog/becoming-a-better-developer...
 tags: []
 categories:
 - Uncategorized
 preview: metro-merilllynch-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:52Z
+concepts: []
 
 ---
 [Steve Clements](http://geekswithblogs.net/steveclements/archive/2007/07/26/114182.aspx "Becoming a better developer...") has tagged me (thanks Steve) about how to become a [better developer](http://graysmatter.codivation.com/HowIAmBecomingABetterDeveloperPart1OfInfinity.aspx), he thinks tagging me 'would make an interesting read'..Hmm, no pressure:

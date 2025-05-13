@@ -1,6 +1,6 @@
 ---
 title: What's new in Visual Studio 2013 and TFS 2013 RC
-description: Discover the latest features in Visual Studio 2013 and TFS 2013 RC. Enhance your development experience with powerful tools and agile improvements!
+description: Overview of new features in Visual Studio 2013 and TFS 2013 RC, including Team Explorer updates, agile tools, test management, charting, and improved collaboration.
 ResourceId: _YCdFNYKYcM
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 aliases:
-- /resources/_YCdFNYKYcM
 - /resources/blog/what-s-new-in-visual-studio-2013-and-tfs-2013-rc
+- /resources/_YCdFNYKYcM
 aliasesArchive:
 - /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 - /whats-new-in-visual-studio-2013-rc-with-team-foundation-server
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-13-13.png
+Watermarks:
+  description: 2025-05-12T14:23:09Z
+concepts: []
 
 ---
 As you may have noticed the Visual Studio team has just put out a Release Candidate to the log awaited Visual Studio 2013 and TFS 2013.

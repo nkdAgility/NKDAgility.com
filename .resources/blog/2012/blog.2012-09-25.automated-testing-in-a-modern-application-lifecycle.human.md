@@ -1,6 +1,6 @@
 ---
 title: Automated Testing in a modern application lifecycle
-description: Discover the essential role of automated testing in modern application lifecycles. Learn how to enhance software quality and streamline your development process.
+description: Explains the role of automated testing in modern software development, covering types, integration, benefits, challenges, and tools for maintaining code quality.
 ResourceId: IOUOjgnp-hB
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -34,6 +34,9 @@ tags:
 categories:
 - Engineering Excellence
 preview: metro-automated-test-icon-4-4.png
+Watermarks:
+  description: 2025-05-13T15:07:32Z
+concepts: []
 
 ---
 If we are building software in a modern application lifecycle there is no way that we would be able to deliver modern applications without some form of automated testing. Automated testing is the one thing that makes sure that we are able to deliver working software that meets the quality bar while still keeping the cycle time at an acceptable level.

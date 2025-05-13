@@ -1,6 +1,6 @@
 ---
 title: 'Coffee Talk: Introduction to Scrum - webcast event this Friday!'
-description: Join us this Friday for a free webcast on Scrum! Discover key roles, processes, and tips to enhance your agile practices and boost team performance.
+description: Learn the basics of Scrum, including its key roles and processes, with practical tips for adoption. Ideal for those new to agile or seeking to improve team performance.
 ResourceId: ThIUwJr1ff_
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Scrum
 preview: metro-event-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:10:20Z
+concepts: []
 
 ---
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-3-3.png "NWC tagline logo_transparent")

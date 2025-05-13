@@ -1,6 +1,6 @@
 ---
 title: Application Owner
-description: Explore the role of an Application Owner in managing production applications, vendor relations, and SOX audits. Discover insights for effective tech management.
+description: Explains the responsibilities of managing production applications, including vendor relations, issue resolution, audits, and system access, typically handled by a project manager.
 ResourceId: JqwdfuCbOrt
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:27:03Z
+concepts: []
 
 ---
 In my company it is the job of someone in business technology to manage production applications. Personally I think that this is a job for a Project Manager, not a developer, as it is about management and is not particularly technical. You do not actually have to carry out any of the work on the application, just:

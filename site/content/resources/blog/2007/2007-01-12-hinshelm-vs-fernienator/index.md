@@ -1,6 +1,6 @@
 ---
 title: hinshelm vs fernienator
-description: Join the fun as I take on my brother-in-law in an epic Xbox showdown! Discover who comes out on top in this entertaining gaming battle.
+description: A light-hearted comparison of gaming performance between the author and their brother-in-law, featuring Xbox gameplay and a personal scoreboard update.
 ResourceId: RqLAuKHYWAJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-xbox-360-link-2-2.png
+Watermarks:
+  description: 2025-05-13T16:29:28Z
+concepts: []
 
 ---
 Or me vs my brother-in-law!

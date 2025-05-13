@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: scaling-professional-scrum-visual-studio-team-services
 aliases:
-- /blog/scaling-professional-scrum-visual-studio-team-services
-- /scaling-professional-scrum-visual-studio-team-services
-- /scaling-professional-scrum-with-visual-studio-team-services
-- /blog/scaling-professional-scrum-with-visual-studio-team-services
 - /resources/pErrcS8DxcQ
-- /resources/blog/scaling-professional-scrum-visual-studio-team-services
 aliasesArchive:
 - /blog/scaling-professional-scrum-visual-studio-team-services
 - /scaling-professional-scrum-visual-studio-team-services
@@ -36,6 +31,8 @@ categories:
 preview: Scalled-Professional-Scrum-1280-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:16:43Z
+concepts:
+- Tool
 
 ---
 Last week I was teaching a Professional [Scrum]({{< ref "/categories/scrum" >}}) Foundations in Farnborough and I had to make sure that I got a hotel with awesome internet access. As well as teaching the class I Have two additional tasks for the week. The first was to have the honour of talking on ScrumPulse, Scrum.org's webcast, and the second was to talk at the prestigious Dutch ALM Meetup.

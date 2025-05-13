@@ -1,6 +1,6 @@
 ---
 title: TFS Handover
-description: Explore essential TFS handover documentation by Martin Hinshelwood, detailing installation tips and management insights for a smooth transition in your office.
+description: Overview of preparing handover documentation for a TFS 2005 deployment, including server details, reference materials, and integration with SharePoint 2007.
 ResourceId: pHZwP7oD5dE
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:18Z
+concepts: []
 
 ---
 I am just writing some handover documentation for our [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") deployment in the office. Thank goodness that I wrote installation and disaster recovery documents when I originally deployed the system, other wise this would have been a very long process.

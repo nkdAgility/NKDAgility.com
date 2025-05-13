@@ -1,6 +1,6 @@
 ---
 title: TeamPlain - Revisit
-description: Discover a clever workaround for long project names in TeamPlain. Enhance your project management with this practical JavaScript solution. Read more!
+description: Shows how to use JavaScript to shorten long project names in a TeamPlain dropdown, offering a workaround for poor project name compartmentalisation in Team Foundation Server.
 ResourceId: 74iowBMHVfu
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-13T16:28:52Z
+concepts: []
 
 ---
 I ran into some problems that I blogged on in my [TeamPlain - Install and initial views](http://team.worldnet-dev.ml.com/workitem.aspx?id=185) post. I have got a work around for the long project name problem, but it only works when you really daft project names like ours:

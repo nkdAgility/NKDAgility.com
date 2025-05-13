@@ -1,6 +1,6 @@
 ---
 title: Assembly Version does not change in Visual Basic Workflow projects
-description: Discover how to resolve the assembly version issue in Visual Basic Workflow projects. Learn the manual fix to ensure your changes are applied correctly!
+description: Explains a Visual Basic compiler bug where assembly version numbers do not update after rebuilding, affecting Workflow and other projects, and offers manual workaround steps.
 ResourceId: k9UAGHKPtUz
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-4-4.png
+Watermarks:
+  description: 2025-05-13T16:24:11Z
+concepts: []
 
 ---
 [![image](images/AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_2.png) If you are having an issue with the assembly version in your compiled assembly not updating after a rebuild then you are not alone. The is a bug in the Visual Basic compiler that causes this problem and it requires a manual fix:

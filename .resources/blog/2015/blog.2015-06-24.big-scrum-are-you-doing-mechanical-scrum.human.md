@@ -15,12 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: big-scrum-are-you-doing-mechanical-scrum
 aliases:
-- /blog/big-scrum-are-you-doing-mechanical-scrum
-- /big-scrum-are-you-doing-mechanical-scrum
-- /big-scrum--are-you-doing-mechanical-scrum
-- /blog/big-scrum--are-you-doing-mechanical-scrum
 - /resources/8wFtoutYII0
-- /resources/blog/big-scrum-are-you-doing-mechanical-scrum
 aliasesArchive:
 - /blog/big-scrum-are-you-doing-mechanical-scrum
 - /big-scrum-are-you-doing-mechanical-scrum
@@ -37,6 +32,7 @@ categories:
 preview: clip_image001-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:57Z
+concepts: []
 
 ---
 Last month I created an article for NDC Magazine on [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}). The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional [Scrum Team]({{< ref "/tags/scrum-team" >}}), why we need it, and how we can scale it.

@@ -1,6 +1,6 @@
 ---
 title: Upgrading from TFS 2010 RC to TFS 2010 RTM done
-description: Discover the seamless upgrade process from TFS 2010 RC to RTM. Follow expert tips and insights to ensure a smooth transition for your development environment.
+description: Step-by-step guide to upgrading from TFS 2010 RC to RTM, including backup, uninstall, install, configuration, SharePoint and build server updates, and post-upgrade testing.
 ResourceId: wGdSgbWfpEB
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 preview: metro-visual-studio-2010-128-link-36-36.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:22:15Z
+concepts: []
 
 ---
 ![vs2010alm](images/09437a6f5f9c_A38D-vs2010alm_-34-34.png)Today is the big day, with the Launch of Visual Studio 2010 already done in Asia, and rolling around the world towards us, we are getting ready for the RTM.

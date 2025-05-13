@@ -1,6 +1,6 @@
 ---
 title: WPF Threading
-description: Discover effective WPF threading solutions and tips for ObservableCollection. Learn from expert insights to enhance your multi-threading skills in .NET.
+description: Learn how to handle multi-threading with ObservableCollection in WPF, including solutions for cross-thread collection binding and practical tips for .NET developers.
 ResourceId: -LV_xYUDcK4
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:23:32Z
+concepts: []
 
 ---
 I was having a problem getting multi threading working with the ObservableCollection, and struggled to find a solution. So I asked my friend Google and after a while it directed me to [Kevin's](http://blog.quantumbitdesigns.com/) blog and specifically to his post on [WPF Cross-Thread Collection Binding - Part 4 - The Grand Solution](http://blog.quantumbitdesigns.com/2008/07/22/wpf-cross-thread-collection-binding-part-4-the-grand-solution/).

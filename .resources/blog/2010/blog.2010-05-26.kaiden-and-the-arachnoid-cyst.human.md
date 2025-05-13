@@ -1,6 +1,6 @@
 ---
 title: Kaiden and the Arachnoid Cyst
-description: Join us as we share Kaiden's journey with an arachnoid cyst, exploring his milestones and challenges. Discover our family's story and updates along the way.
+description: A personal account of Kaiden’s early development, delayed walking, and medical journey following the discovery of an arachnoid cyst, with updates and related blog posts.
 ResourceId: LjGohC1Hzfv
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ categories:
 preview: nakedalm-logo-128-link-1-1.png
 tags:
 - Miscellaneous
+Watermarks:
+  description: 2025-05-13T15:21:54Z
+concepts: []
 
 ---
 Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.com/archive/2009/02/14/the-delivery-mk-ii.aspx) I posted pictures of him and his sister. Kaiden is now 15 months old and is progressing perfectly in every area except that we had been worried that he was not walking yet. We were only really concerned because his sister was walking at 8 months.

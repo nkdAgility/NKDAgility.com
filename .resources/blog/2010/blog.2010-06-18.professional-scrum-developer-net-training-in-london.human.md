@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum Developer (.NET) Training in London
-description: Join the Professional Scrum Developer training in London to enhance your .NET skills, collaborate in teams, and master Agile practices. Sign up now!
+description: Intensive five-day course for software developers covering Scrum, Visual Studio 2010, .NET, and Agile practices through hands-on team sprints and real-world case studies.
 ResourceId: 3N171wqPaTf
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-developer-net-training-in-london
 aliases:
-- /resources/3N171wqPaTf
 - /resources/blog/professional-scrum-developer-.net-training-in-london
+- /resources/3N171wqPaTf
 aliasesArchive:
 - /blog/professional-scrum-developer-net-training-in-london
 - /professional-scrum-developer-net-training-in-london
@@ -44,6 +44,9 @@ categories:
 - Scrum
 - Engineering Excellence
 preview: metro-event-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:21:48Z
+concepts: []
 
 ---
 ![SSWLogo](images/ProfessionalScrumDeveloperTraininginLond_CC39-SSWLogo_-7-7.png)On the 26th - 30th July in Microsoft’s offices in London [Adam Cogan](http://courses.scrum.org/about/adam-cogan) from SSW will be presenting the first [Professional Scrum Developer](http://www.scrum.org/professionalscrumdeveloper/) course in the UK. I will be teaching this course along side Adam and it is a fantastic experience. You are split into teams and go head-to-head to deliver units of potentially shippable work in four two hour sprints.

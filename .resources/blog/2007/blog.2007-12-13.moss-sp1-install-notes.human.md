@@ -1,6 +1,6 @@
 ---
 title: MOSS SP1 Install Notes
-description: Explore essential installation notes for MOSS SP1, including prerequisites and download links, to ensure a smooth SharePoint upgrade experience.
+description: Step-by-step notes for installing Microsoft Office SharePoint Server 2007 Service Pack 1, including prerequisites, download links, and key resources for a smooth update.
 ResourceId: s8EZNFYedNl
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:17Z
+concepts: []
 
 ---
 I thought I should create this blog as I am going along because I usually forget some critical item that gubs my server if I try it again ![smile_nerd](images/smile_nerd-2-2.gif)

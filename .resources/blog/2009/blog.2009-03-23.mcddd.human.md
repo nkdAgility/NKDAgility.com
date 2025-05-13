@@ -1,6 +1,6 @@
 ---
 title: McDDD
-description: Join us in Glasgow on May 2nd for Developer Day Scotland 2! Discover inspiring talks from top speakers and connect with fellow developers. Don't miss out!
+description: Join developers in Glasgow on 2nd May for Developer Day Scotland 2, featuring talks from returning and new speakers on software development and technology topics.
 ResourceId: 6pw2YiuYEJ1
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
 tags: []
+Watermarks:
+  description: 2025-05-13T15:24:22Z
+concepts: []
 
 ---
 Its that time again and you should all be in Glasgow on the 2nd May for [Developer Day Scotland 2](http://developerdayscotland.com). There are some excellent speakers, some we saw last time and some new.

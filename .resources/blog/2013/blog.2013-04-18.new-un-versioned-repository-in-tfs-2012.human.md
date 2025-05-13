@@ -1,6 +1,6 @@
 ---
 title: New un-versioned repository in TFS 2012
-description: Discover the benefits of the new un-versioned repository in TFS 2012, streamlining build drop management and enhancing your development workflow.
+description: Explains how TFS 2012 introduced an un-versioned repository for build outputs, reducing version control clutter and offering easier storage and cleanup options for build drops.
 ResourceId: AoTaD6481iE
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-6-6.png
+Watermarks:
+  description: 2025-05-13T15:06:38Z
+concepts: []
 
 ---
 In the last wave of updates to Team Foundation Service the product team has added a new “staging location” and we now have an un-versioned repository in TFS 2012.

@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler Prototype Feedback
-description: Share your thoughts on the TFS Event Handler prototype! Discover its integration capabilities and help shape future versions with your feedback.
+description: Request for user feedback on the TFS Event Handler tool, focusing on installation, configuration, functionality, and interest in future versions for Team Foundation Server.
 ResourceId: J5YgyYAO9sM
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-merilllynch-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:27:39Z
+concepts: []
 
 ---
 I would be interested in finding out if anyone is using the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) I created on [CodePlex](http://www.codeplex.com "CodePlex"). The main reason for this is to solicit feedback for the process and integration capabilities.

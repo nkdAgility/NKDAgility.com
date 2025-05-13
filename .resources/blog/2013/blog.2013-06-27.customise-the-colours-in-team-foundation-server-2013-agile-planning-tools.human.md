@@ -1,6 +1,6 @@
 ---
 title: Customise the colours in Team Foundation Server 2013 Agile Planning Tools
-description: Learn how to customize colors in Team Foundation Server 2013 Agile Planning Tools for better visibility and organization of work items. Enhance your workflow now!
+description: Learn how to change work item colours in TFS 2013 Agile Planning Tools by editing the Process Configuration XML file and updating hex colour codes for each item type.
 ResourceId: 2kvi44Dp0xl
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 - System Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:05:56Z
+concepts: []
 
 ---
 If you want to customise the colours in Team Foundation Server 2013 Agile Planning Tools you need to download and edit the Process Configuration file that tells TFS how to configure many of the features in the Web Access.

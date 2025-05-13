@@ -1,6 +1,6 @@
 ---
 title: 'Finding features: Calendar preview'
-description: Discover the Calendar preview feature in Outlook 2010 that helps you quickly check your availability. Enhance your productivity with this handy tool!
+description: See your upcoming events at a glance with Outlook 2010’s Calendar preview, making it easy to check your schedule and availability quickly.
 ResourceId: Q0-oHysVeAO
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:23:23Z
+concepts: []
 
 ---
 Another nice feature of Outlook 2010 that I like is the Calendar preview:

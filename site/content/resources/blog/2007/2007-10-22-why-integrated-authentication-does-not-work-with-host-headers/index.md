@@ -1,6 +1,6 @@
 ---
 title: Why Integrated Authentication does not work with host headers!
-description: Discover why Integrated Authentication fails with host headers in TFS and learn how to resolve the 401.1 error for smoother access. Get insights now!
+description: Explains why Integrated Authentication fails with custom host headers on IIS, causing 401.1 errors, due to Windows loopback security checks and how to resolve it.
 ResourceId: WqcZtyTF5t3
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 - Troubleshooting
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:25:46Z
+concepts: []
 
 ---
 **You receive error 401.1 when you browse a [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Web site that uses Integrated Authentication and is hosted on IIS 5.1 or IIS 6**

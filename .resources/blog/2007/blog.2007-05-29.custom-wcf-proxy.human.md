@@ -1,6 +1,6 @@
 ---
 title: Custom WCF Proxy
-description: Learn how to create custom WCF proxies to streamline your web services and eliminate the need for converters. Enhance your .NET development toolkit today!
+description: Explains how to create custom WCF proxies in .NET to avoid redundant class generation and object conversion when consuming Windows Communication Foundation services.
 ResourceId: hfv2zp8Q-i4
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-merilllynch-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:16Z
+concepts: []
 
 ---
 The think that always annoys me with web services is that when you connect to it and generate the proxy it always generates proxies for all of the extra classes and interfaces as well, even when you have them available. This means that you always have to write convertors or adapters to convert one object type to another even though they are the same object (only core class and proxy of that class).

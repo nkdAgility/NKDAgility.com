@@ -1,6 +1,6 @@
 ---
 title: Performance Research, Browser Cache Usage - Exposed!
-description: Discover how browser cache usage impacts web performance. Learn to reduce HTTP requests and enhance response times in this insightful analysis!
+description: Explores how browser caching affects web performance, focusing on HTTP requests, resource loading, and strategies to optimise site speed and user experience.
 ResourceId: UF1mz0nza4p
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:29:38Z
+concepts: []
 
 ---
 "Since browsers spend 80% of the time fetching external components including scripts, stylesheets and images, reducing the number of HTTP requests has the biggest impact on reducing response time. But shouldn ’t everything be saved in the browser’s cache anyway?"

@@ -1,6 +1,6 @@
 ---
 title: Install TFS 2015 today
-description: Learn how to install and configure TFS 2015 effortlessly. Upgrade your system with essential tips and insights from expert Martin Hinshelwood. Get started now!
+description: Step-by-step guide to installing and configuring TFS 2015, including system requirements, installation options, and setup of SQL Server and build agents.
 ResourceId: v-m2PYvEaWx
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-11-11.png
+Watermarks:
+  description: 2025-05-12T14:19:42Z
+concepts: []
 
 ---
 It has been a while since I had to install, configure, or upgrade TFS. Most of my customers have been moving to Visual Studio Online (VSO) which is effectively TFS in the cloud, and that requires "migration" of data rather than "upgrade". Although there are [great reasons to pick VSO over TFS, even for enterprise](http://nkdagility.com/benefits-visual-studio-online-enterprise/), many companies have a cultural issue with the cloud and are not ready to go there yet. For this we still have TFS and all of its fantastic features are updated and improved for 2015.

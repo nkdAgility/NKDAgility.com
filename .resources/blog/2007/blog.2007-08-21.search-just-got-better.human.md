@@ -1,6 +1,6 @@
 ---
 title: Search just got better
-description: Discover Tafiti, a revolutionary search tool designed for dyslexic users. Experience intuitive features that enhance your search efficiency and ease.
+description: Tafiti is a visual search tool from Microsoft, offering easy filtering, saved searches, and features designed to improve web search for dyslexic users.
 ResourceId: TUpvQFU0NSg
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-6-1.png
+Watermarks:
+  description: 2025-05-13T16:26:28Z
+concepts: []
 
 ---
 I just had to pick my jaw up off the floor. What made me gawk! [Tafiti](http://www.tafiti.com/) that's what.

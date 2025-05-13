@@ -1,6 +1,6 @@
 ---
 title: Metrics that matter with evidence-based management
-description: Discover how Evidence-Based Management can enhance your metrics and KPIs for better decision-making in software development. Elevate your team's performance!
+description: Explains how evidence-based management uses reliable metrics and KPIs at team and organisational levels to drive better decisions, value delivery, and process improvement.
 ResourceId: ezNZJBiEwYA
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -40,6 +40,10 @@ categories:
 - Engineering Excellence
 - Product Management
 preview: nakedalm-agility-index-24-24.png
+Watermarks:
+  description: 2025-05-12T14:22:13Z
+concepts:
+- Strategy
 
 ---
 I was recently asked to speak at ALM Days in Dusseldorf and more specifically to create a talk on Metrics and KPI’s for Quality. As I have been working a lot recently with evidence-based management. I am pretty sure that my session title translates as “Test management and reporting – KIP’s for better decisions” so I am going to concentrate on reporting and KPI's as the session before mine is on Agile Testing.

@@ -1,6 +1,6 @@
 ---
 title: Teams without areas using a team field in TFS
-description: Discover how to configure Teams without areas in TFS for enhanced project management. Learn the steps to optimize your workflow and boost team efficiency!
+description: Explains how to configure TFS to manage teams using a custom team field instead of area paths, enabling flexible team-product assignments and streamlined backlogs.
 ResourceId: 5IipWQTVLEo
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-16-16.png
+Watermarks:
+  description: 2025-05-13T15:07:04Z
+concepts: []
 
 ---
 Did you know that you can use Teams without areas using a team field in TFS? There are numerous reasons to do this but the decision should not be taken lightly.

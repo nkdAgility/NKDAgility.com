@@ -1,6 +1,6 @@
 ---
 title: A new day, a new week, a new Team Server
-description: Discover the seamless upgrade to TFS2008 and explore new project capabilities with Visual Studio 2005. Enhance your development environment today!
+description: Covers upgrading to TFS 2008, smooth installation, creating projects with Visual Studio 2005, and exploring SharePoint integration with custom web services.
 ResourceId: 6c2D94gL-Fn
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:26:40Z
+concepts: []
 
 ---
 I have just finished upgrading out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Development environment to TFS2008 and I have to say it was a totally painless procedure...

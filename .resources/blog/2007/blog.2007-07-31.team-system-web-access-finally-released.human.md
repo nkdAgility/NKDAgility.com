@@ -1,6 +1,6 @@
 ---
 title: Team System Web Access finally released
-description: Discover the release of Team System Web Access, featuring enhanced stability and new features. Learn how it improves TFS usability for developers!
+description: Team System Web Access, the successor to TeamPlain, is now available, offering improved stability and features for TFS users, but with some known link and access issues.
 ResourceId: 8tIDL2NtDSj
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-visual-studio-2005-128-link-3-3.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:27:10Z
+concepts: []
 
 ---
 [Brian Harry](http://blogs.msdn.com/bharry/) has just [announced](http://blogs.msdn.com/bharry/archive/2007/07/30/team-system-web-access-power-tool-available.aspx "Team System Web Access Power Tool Available") the release of Team System Web Access the next incarnation of DevBiz's TeamPlain product.

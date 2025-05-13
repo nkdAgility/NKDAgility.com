@@ -1,6 +1,6 @@
 ---
 title: Simplify
-description: Discover how I simplified my blog categories for better organization and clarity. Join the conversation and share your thoughts on enhancing user experience!
+description: Blog categories and article categories have been streamlined, with clearer descriptions and Wikipedia links. Suggestions include post counts, friendly URLs, and sharing options.
 ResourceId: CEZVS03cb-9
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:27:43Z
+concepts: []
 
 ---
 Well I just got through simplifying my blog categories! I just though they were, well... rubbish,  and there were too many of them. I have toned them down and added a full description for them all with links to the relevant Wikipedia pages...

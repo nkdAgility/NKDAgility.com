@@ -1,6 +1,6 @@
 ---
 title: Another day another Codeplex Project
-description: Explore innovative SharePoint Designer custom workflows with Martin Hinshelwood. Discover solutions to enhance your projects and streamline your processes!
+description: Explores extending SharePoint Designer with custom workflow activities from CodePlex, highlighting solutions for user profile lookups beyond default site info.
 ResourceId: Jk2Pp119tUF
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T16:24:12Z
+concepts: []
 
 ---
 I have been using the [Useful Sharepoint Designer Custom Workflow Activities](http://www.codeplex.com/SPDActivities/) project on [CodePlex](http://www.codeplex.com "CodePlex") to augment the capabilities of SharePoint Designer to add such features as "Start another workflow" which is very useful for compartmentalising your workflow so as to not make it too complicated.

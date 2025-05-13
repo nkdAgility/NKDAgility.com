@@ -1,6 +1,6 @@
 ---
 title: Advanced Email Content
-description: Explore the potential of advanced email content with WPF. Discover how to embed interactive elements in emails and enhance communication creatively!
+description: Explores embedding interactive 3D and WPF/XBAP content directly in emails, discussing technical feasibility, security concerns, and real-world implementation challenges.
 ResourceId: h1xQYYoWfnY
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:29:02Z
+concepts: []
 
 ---
 Does anyone remember the early video presentations for Vista? Specifically the one about the students collaborating on coursework? The bit I am interested in is the emails with advanced content... Can we do that now?

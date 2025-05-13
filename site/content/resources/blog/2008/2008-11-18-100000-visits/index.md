@@ -1,6 +1,6 @@
 ---
 title: 100,000 Visits
-description: Celebrate the milestone of 100,000 visits! Discover insights on site traffic, browser share, and global reach from a Glasgow developer's perspective.
+description: Celebrates reaching over 100,000 website visits, sharing traffic stats, browser usage, and visitor countries, highlighting site growth and audience diversity.
 ResourceId: gnzE3Qr_jz-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T16:22:29Z
+concepts: []
 
 ---
 Well, that's me got passed the [100,000 Visits milestone](http://www.sitemeter.com/?a=stats&s=s41hinshelm). I guess it is seams bigger than it is, but as the next big one would be a million I am chuffed to get this far :)

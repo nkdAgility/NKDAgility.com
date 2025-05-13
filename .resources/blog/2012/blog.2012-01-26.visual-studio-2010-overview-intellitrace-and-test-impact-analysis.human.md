@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 2010 Overview - IntelliTrace and Test Impact Analysis
-description: Discover how IntelliTrace and Test Impact Analysis in Visual Studio 2010 can streamline bug fixing and enhance regression testing for Agile teams.
+description: Explains how IntelliTrace aids bug diagnosis and how Test Impact Analysis helps prioritise regression tests in Visual Studio 2010 for efficient debugging and testing.
 ResourceId: AzpXVrfEwZ1
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:09:39Z
+concepts: []
 
 ---
 Intellitrace was built in response to the #1 and #2 demands from TFS 2008 customers: help us find bugs faster so we can fix them faster. As a configurable "flight data recorder" for all aspects of debug and test, it provides advanced and integrated logging so devs can locate and reproduce the bug exactly the way it occurred. Especially in Agile environments, regression testing needs can quickly spiral beyond available resources. Automated testing helps, but a large automated test suite can also impede rapid iterative development. Test Impact Analysis helps the team focus and prioritize by automatically identifying which tests are potentially affected by a pending change.

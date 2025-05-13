@@ -1,6 +1,6 @@
 ---
 title: Envisioning vs Provisioning
-description: Explore the roles of Envisioners and Provisioners in software development. Discover how their unique skills drive innovation and deliver effective solutions.
+description: Compares envisioners, who innovate and prototype with new tech, to provisioners, who deliver reliable solutions, highlighting their roles in effective software development teams.
 ResourceId: klxWFYrDmai
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:28:32Z
+concepts: []
 
 ---
 Developers fall into two categories with regard to building solutions:

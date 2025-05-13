@@ -1,6 +1,6 @@
 ---
 title: 'TFS 2012 - Issue: TF30063: You are not authorized to access and can’t trace permissions'
-description: Struggling with TF30063 errors in TFS 2012? Discover the root cause of permission issues and how to resolve them effectively in this insightful guide.
+description: Explains how a global "deny" permission in TFS 2012 can block SharePoint 2010 access, causing TF30063 errors, and highlights where to check for inherited permission issues.
 ResourceId: -k6KiGvRFB7
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 aliases:
-- /resources/-k6KiGvRFB7
 - /resources/blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-can-t-trace-permissions
+- /resources/-k6KiGvRFB7
 aliasesArchive:
 - /blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 - /tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-7-7.png
+Watermarks:
+  description: 2025-05-13T15:07:45Z
+concepts: []
 
 ---
 No matter what permissions you set or what permissions you have you get a “TF30063: You are not authorized to access /Services/v3.0/LocationService.asmx” in SharePoint 2010.

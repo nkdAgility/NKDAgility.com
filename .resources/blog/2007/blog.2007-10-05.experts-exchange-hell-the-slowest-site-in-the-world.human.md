@@ -1,6 +1,6 @@
 ---
-title: Experts Exchange Hell - The slowest site in the world.
-description: Discover the frustrations of navigating Experts Exchange, the slowest site in the world. Join the conversation on web performance and user experience!
+title: Experts Exchange Hell - The slowest site in the world
+description: Analysis of Experts Exchange’s slow website performance, highlighting large page sizes, excessive HTML, and poor user experience on both fast and slow connections.
 ResourceId: 994E1GchH-N
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -16,18 +16,17 @@ resourceTypes: blog
 slug: experts-exchange-hell-the-slowest-site-in-the-world
 aliases:
 - /resources/994E1GchH-N
-- /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world.
 aliasesArchive:
 - /blog/experts-exchange-hell-the-slowest-site-in-the-world
 - /experts-exchange-hell-the-slowest-site-in-the-world
-- /experts-exchange-hell---the-slowest-site-in-the-world-
-- /blog/experts-exchange-hell---the-slowest-site-in-the-world-
 - /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world
-- /resources/blog/experts-exchange-hell-the-slowest-site-in-the-world.
 tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T16:25:54Z
+concepts: []
 
 ---
 I know a couple of people who have been complaining that Experts Exchange was getting rather slow, and I had noticed the same. So I thought I would investigate how big the pages really are.

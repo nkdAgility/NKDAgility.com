@@ -1,6 +1,6 @@
 ---
 title: Returning an Anonymous type...
-description: Discover how to return an anonymous type in VB.NET and enhance your coding skills. Learn practical examples and improve your development process today!
+description: Explains how to return and use anonymous types from functions in VB.NET, highlighting late binding, Option Strict settings, and limitations like lack of IntelliSense.
 ResourceId: ZD6hMyXVz9s
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: returning-an-anonymous-type
 aliases:
-- /resources/ZD6hMyXVz9s
 - /resources/blog/returning-an-anonymous-type...
+- /resources/ZD6hMyXVz9s
 aliasesArchive:
 - /blog/returning-an-anonymous-type
 - /returning-an-anonymous-type---
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-2-1.png
+Watermarks:
+  description: 2025-05-13T16:25:08Z
+concepts: []
 
 ---
 [![image](images/ReturninganAnonymoustype_8A86-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ReturninganAnonymoustype_8A86-image_2.png) In VB.NET it is actually possible to return an Anonymous type from a function and use it somewhere else. In VB.NET you need to use late binding so you can't change the "Option strict" compiler option to true as I have always done in the past. This option, that defaults to "Off", is the main reason that C# developers scoff at VB, but this feature is now available, controversially in C#.

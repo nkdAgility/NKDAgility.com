@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler for Team Foundation Server 2010
-description: Explore the new TFS Event Handler for Team Foundation Server 2010, designed for efficient event processing and enhanced integration. Join the discussion today!
+description: Explains how to create and customise event handlers for Team Foundation Server 2010, covering supported events for version control, builds, work items, and test management.
 ResourceId: _WmwS96RyDS
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-3-3.png
+Watermarks:
+  description: 2025-05-13T15:21:44Z
+concepts: []
 
 ---
 I am looking at re-working the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler and I was hoping that you would help me decide what handlers to build!

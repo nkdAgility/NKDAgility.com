@@ -1,6 +1,6 @@
 ---
 title: My.Unity.Resolve(Of Ninja)
-description: Explore integrating Unity Application Block in WPF and ASP.NET with custom solutions. Discover tips and code examples to enhance your development skills!
+description: Shows how to create a shared UnityContainer singleton in VB.NET using the “My” namespace, enabling dependency injection across WPF and ASP.NET applications.
 ResourceId: whj_VeMcGAL
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: my-unity-resolveof-ninja
 aliases:
-- /resources/whj_VeMcGAL
 - /resources/blog/my.unity.resolve-of-ninja
+- /resources/whj_VeMcGAL
 aliasesArchive:
 - /blog/my-unity-resolveof-ninja
 - /my-unity-resolveof-ninja
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-4-1.png
+Watermarks:
+  description: 2025-05-13T15:24:08Z
+concepts: []
 
 ---
 I have been attempting to integrate the Unity Application Block into my website to allow me to share the same base object code between a WPF and an ASP.NET application. I will let you know how I am getting along later as I am still knee deep in refactoring, but I have found something a little useful.

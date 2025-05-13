@@ -1,6 +1,6 @@
 ---
 title: Silverlight cream, kinda, but it is interesting!
-description: Explore the intriguing world of Silverlight as Martin Hinshelwood shares insights on Microsoft's latest web innovations and tools. Dive in for more!
+description: Explores Microsoft's use of Silverlight in its downloads site beta, comparing it to Flash, and discusses early adoption and internal testing of Silverlight technology.
 ResourceId: FoFh5MvtoSA
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:14Z
+concepts: []
 
 ---
 Well, I was browsing the Microsoft downloads site looking for SP1 for SharePoint and a wee popup asked if I would like to see the [http://download.microsoft.com](http://download.microsoft.com) beta...

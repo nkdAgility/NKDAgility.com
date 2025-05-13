@@ -1,6 +1,6 @@
 ---
 title: 'TFS EventHandler: MSMQ Refactor'
-description: Explore the TFS EventHandler MSMQ Refactor as Martin Hinshelwood shares insights on streamlining event handling with a modular approach. Stay tuned for updates!
+description: Refactoring a TFS Event Handler to use MSMQ, splitting it into modular services for event queuing and handling, improving maintainability and administration.
 ResourceId: 1monS4nfW6w
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:37Z
+concepts: []
 
 ---
 I am half way through the MSMQ Refactor of my [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) project and thing are starting to come together. I have changed it so that instead of one big solution I will have three smaller ones. This will allow me to cross reference the different services.

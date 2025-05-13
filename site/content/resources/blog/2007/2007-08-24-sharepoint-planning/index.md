@@ -1,6 +1,6 @@
 ---
 title: Sharepoint planning
-description: Discover effective SharePoint deployment strategies for large organizations. Learn about its powerful architecture and MySites features to enhance collaboration.
+description: Guidance on effective SharePoint deployment in large organisations, highlighting architecture planning and the benefits of features like MySites.
 ResourceId: NWq41MdV9s6
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:26:20Z
+concepts: []
 
 ---
 I have been asking one of my colleagues for information on Sharepoint and how to deploy it to large organizations. He intoned that he new how not to do it and pointed me towards a particular [post](http://blogs.msdn.com/sharepoint/archive/2007/04/09/investing-in-logical-architecture-design-samples.aspx "Sharepoint planning") that defines a very effective deployment method.

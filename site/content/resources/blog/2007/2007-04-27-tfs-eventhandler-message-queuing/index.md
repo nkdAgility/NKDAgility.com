@@ -1,6 +1,6 @@
 ---
 title: 'TFS EventHandler: Message Queuing'
-description: Explore the innovative TFS EventHandler for message queuing, enhancing your Team Foundation Server infrastructure with efficient event management solutions.
+description: Explains using message queues in Team Foundation Server EventHandler to manage events reliably, ensuring no data loss during handler updates or service changes.
 ResourceId: SLkPRSid1iJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:41Z
+concepts: []
 
 ---
 As I mentioned in my previous post I am currently building an [EventHandler](http://blog.hinshelwood.com/archive/2007/04/27/Team-Server-Event-Handlers-made-easy.aspx) infrastructure for [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server").

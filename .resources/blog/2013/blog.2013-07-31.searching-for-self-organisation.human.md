@@ -1,6 +1,6 @@
 ---
 title: Searching for self-organisation
-description: Explore the journey to self-organisation in teams. Discover strategies to foster accountability, identity, and high performance for agile success.
+description: Explores the challenges and benefits of self-organising teams, highlighting key factors like team accountability, identity, size, and consistency for effective collaboration.
 ResourceId: EjoEHTWiJtf
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -37,6 +37,9 @@ categories:
 - Leadership
 - Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
+Watermarks:
+  description: 2025-05-12T14:23:30Z
+concepts: []
 
 ---
 Many companies have started searching for self-organisation. That ideal or nirvana where teams can figure out how to work together effectively with limited or little direction to solve problems.

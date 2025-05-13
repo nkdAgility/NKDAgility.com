@@ -1,6 +1,6 @@
 ---
 title: Fun with Virgin+
-description: Join Martin as he navigates the challenges of setting up Virgin+ while preparing for a new arrival. Discover his clever solutions and personal insights!
+description: A practical guide to resolving display issues with Virgin+ boxes when switching from HDMI to SCART, including step-by-step reset instructions for picture recovery.
 ResourceId: PHUHjUVq45E
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: fun-with-virgin
 aliases:
-- /resources/PHUHjUVq45E
 - /resources/blog/fun-with-virgin
+- /resources/PHUHjUVq45E
 aliasesArchive:
 - /blog/fun-with-virgin
 - /fun-with-virgin
@@ -27,6 +27,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-3-3.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:21:47Z
+concepts: []
 
 ---
 We are getting a new carpet tomorrow… my wife is 8 and a half months pregnant and she’s nesting…

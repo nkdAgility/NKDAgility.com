@@ -1,6 +1,6 @@
 ---
 title: The Insufficiency of Scrum is a fallacy
-description: Explore the myth of Scrum's insufficiency and learn how effective engineering practices can enhance Agile success. Elevate your team's performance today!
+description: Scrum alone does not cause project failure; lacking strong engineering practices and effective retrospectives leads to technical debt and poor Agile outcomes.
 ResourceId: n9OhtpbJs0-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -31,6 +31,9 @@ categories:
 - Engineering Excellence
 - Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png
+Watermarks:
+  description: 2025-05-13T15:06:45Z
+concepts: []
 
 ---
 The insufficiency of Scrum is a fallacy perpetrated by teams that don’t step up their practices in concert with their planning and don't really want to make it work anyway. You can fail doing Kanban, XP, Merise and SSADM just as easily unless you have good engineering practices as well.

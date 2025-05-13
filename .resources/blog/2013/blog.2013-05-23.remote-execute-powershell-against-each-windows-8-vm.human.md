@@ -1,6 +1,6 @@
 ---
 title: Remote Execute PowerShell against each Windows 8 VM
-description: Learn how to remotely execute PowerShell scripts on Windows 8 VMs using Hyper-V, streamlining updates and management with minimal effort.
+description: Explains how to automate running PowerShell scripts on each Windows 8 VM in Hyper-V, including starting VMs, handling credentials, and applying updates remotely.
 ResourceId: T_5NKsLxoK7
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: image11-1-1.png
+Watermarks:
+  description: 2025-05-13T15:06:21Z
+concepts: []
 
 ---
 Running a remote execute PowerShell against each Windows 8 VM on your Hyper-V host can help you maintain the guest VM's in a minimal amount of time.

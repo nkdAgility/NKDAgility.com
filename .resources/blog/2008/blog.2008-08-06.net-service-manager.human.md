@@ -1,6 +1,6 @@
 ---
 title: .NET Service Manager
-description: Discover the .NET Service Manager, a versatile tool for wrapping local and remote services. Download the source code and enhance your applications today!
+description: A tool for managing and integrating local and remote services in .NET applications, enabling easy creation of client-side APIs for web services and components.
 ResourceId: tzY7cIvFnOc
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: net-service-manager
 aliases:
-- /resources/tzY7cIvFnOc
 - /resources/blog/.net-service-manager
+- /resources/tzY7cIvFnOc
 aliasesArchive:
 - /blog/net-service-manager
 - /net-service-manager
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T16:23:43Z
+concepts: []
 
 ---
 A while a go I create a [Service Manager](http://blog.hinshelwood.com/articles/Creating-a-managed-service-factory-Article.aspx). A way of wrapping local and remote services (widgets, bits, things) for use in any application within your business or just in your own code…

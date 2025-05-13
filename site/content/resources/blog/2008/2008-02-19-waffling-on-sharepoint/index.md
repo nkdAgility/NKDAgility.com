@@ -1,6 +1,6 @@
 ---
 title: Waffling on SharePoint...
-description: Explore the challenges of writing effective SharePoint documentation for non-technical audiences and discover how to leverage its powerful capabilities.
+description: Discusses the challenges of creating non-technical SharePoint documentation for business users, highlighting the platform’s flexibility and the importance of clear communication.
 ResourceId: O3FNfeA_FB8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: waffling-on-sharepoint
 aliases:
-- /resources/O3FNfeA_FB8
 - /resources/blog/waffling-on-sharepoint...
+- /resources/O3FNfeA_FB8
 aliasesArchive:
 - /blog/waffling-on-sharepoint
 - /waffling-on-sharepoint---
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:24:29Z
+concepts: []
 
 ---
 Documentation, documentation and more documentation.. The life blood of IT. The only problem being that it is very difficult for a technically minded individual such as myself to write documentation with NO technical content what so ever! These documents are what the business really want; They do not care that the workflow capabilities of SharePoint bring easer workflow to the masses, they only care that it is there; They do not care that we will be deploying on 2 front end servers with 1 application server and a database server for the first initial farm, they only care that it will work.

@@ -1,6 +1,6 @@
 ---
 title: Anatomy of an Automation for the Tfs Automation Platform
-description: Explore the anatomy of automations for the TFS Automation Platform. Learn how to integrate and deploy extensions effectively for enhanced productivity.
+description: Explains how to build, install, configure, and run automations for TFS, covering plugin deployment, activation, settings, UI integration, and job processing steps.
 ResourceId: 5naWQQ14MHe
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 - Internal Developer Platform
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:49Z
+concepts: []
 
 ---
 [![Turk-Automaton](images/Turk-Automaton_thumb1-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton1.gif)If you can’t wait for the Tfs Automation Platform, but you still want to eventually deploy your extensions using it, what can you do?

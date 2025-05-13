@@ -1,6 +1,6 @@
 ---
 title: Maven release perform tries to do a Get to a workspace sub folder in TFS
-description: Discover how to resolve Maven release issues with TFS when switching from SVN. Learn best practices for a smoother build and release process.
+description: Explains issues with Maven release perform in TFS workspaces, causes of build failures, and solutions for workspace mapping, concurrency, and label handling during migration.
 ResourceId: yXZtGRWsXfS
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: naked-alm-jenkins-logo-2-2.png
+Watermarks:
+  description: 2025-05-12T14:21:26Z
+concepts: []
 
 ---
 If you are using TFS and specifically switching from SVN to TFS then you might run into the issue that your Maven release perform tries to do a Get to a workspace sub folder. This will not work as TFS has a validation exception to trying to map a sub folder inside an existing workspace. That could be disastrous in a real situation.

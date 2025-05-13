@@ -1,6 +1,6 @@
 ---
 title: I messed up my work items from Excel! What now?
-description: Learn how to recover from Excel mistakes that altered your TFS work items. Discover effective solutions to fix errors and prevent future mishaps!
+description: Guidance on recovering from accidental bulk changes to TFS work items via Excel, including finding affected items, restoring data, and preventing future issues.
 ResourceId: jZw9emMhGRh
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-visual-studio-2010-128-link-4-4.png
+Watermarks:
+  description: 2025-05-13T15:09:20Z
+concepts: []
 
 ---
 When you do a lot of editing in Excel you will sometimes make mistakes. If you are in the unfortunate situation that ended up publishing back changes to 100+ work items that you did not want to change then you can be in a world of hurt. I have a customer who has done just that and I thought some guidance on how to fix (mitigate) this situation will help everyone.

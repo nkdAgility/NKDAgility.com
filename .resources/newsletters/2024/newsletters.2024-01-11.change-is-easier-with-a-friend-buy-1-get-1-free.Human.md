@@ -24,6 +24,7 @@ categories:
 tags: []
 Watermarks:
   description: 2025-05-07T13:06:28Z
+concepts: []
 
 ---
 **Kickstart 2024 with Our Unmissable [Scrum]({{< ref "/categories/scrum" >}}) Training Offer: Buy 1, Get 1 FREE!**

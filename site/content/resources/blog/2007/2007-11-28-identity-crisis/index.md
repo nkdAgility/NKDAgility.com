@@ -1,6 +1,6 @@
 ---
 title: Identity crisis
-description: Explore how Microsoft's Identity Lifecycle Manager 2007 can streamline user identity management, enhance security, and boost operational efficiency for your business.
+description: Explores using Microsoft Identity Lifecycle Manager 2007 to unify and automate employee identity data across multiple systems, improving consistency, security, and efficiency.
 ResourceId: mY6h9tz2JRJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:30Z
+concepts: []
 
 ---
 I am having a look at Microsoft's [Identity Lifecycle Manager 2007](http://www.microsoft.com/windowsserver/ilm2007/default.mspx) as a solution to our disparate user identity problem. Some of the bigger companies out there have solved this problem, and in many of the smaller companies it just does not exist, but we have many system that hold meta data about our employees. From HR systems to Active Directory and custom web based address books. Because of Aggreko's unprecedented growth these systems have outgrown our capacity to maintain the consistency of the data, with small groups responsible for each repository and everyone not knowing where ALL the repository's are or who controls them.

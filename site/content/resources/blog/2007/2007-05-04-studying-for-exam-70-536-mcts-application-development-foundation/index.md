@@ -1,6 +1,6 @@
 ---
 title: 'Studying for Exam 70-536: MCTS Application Development Foundation'
-description: Join Martin Hinshelwood on his journey to conquer Exam 70-536 for MCPD certification, sharing insights and resources for aspiring .NET developers.
+description: Guidance on self-studying for Microsoft Exam 70-536, covering .NET Framework 2.0 fundamentals for MCTS certification and tips for developers with prior .NET experience.
 ResourceId: pVQvZ2ZSyk-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:28:31Z
+concepts: []
 
 ---
 After my success with [Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server](http://hinshelwood.com/archive/2007/04/25/Beta-Exam-71-510-TS-Visual-Studio-2005-Team-Foundation-Server.aspx) I now find myself thinking that I should get my developer exams sorted. I had never done them before as I would have had to pay for them myself. Which sucks...

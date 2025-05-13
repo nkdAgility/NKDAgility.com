@@ -1,6 +1,6 @@
 ---
 title: Messenger United
-description: Discover Messenger United, an innovative application enhancing LinkedIn sync and integrating Microsoft services for seamless connectivity. Explore its features now!
+description: A web app enabling integration between Microsoft Messenger, LinkedIn, and Facebook, supporting third-party sync and part of Microsoft’s Connected Systems initiative.
 ResourceId: RvQ6ePytMFh
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-3-3.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:23:51Z
+concepts: []
 
 ---
 Although the site is a little skewed today…

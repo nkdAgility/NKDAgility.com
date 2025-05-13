@@ -1,6 +1,6 @@
 ---
 title: Installing Team Explorer 2008 on Windows 7
-description: Learn how to install Team Explorer 2008 on Windows 7, troubleshoot common issues, and enhance your development experience with helpful tips and tools.
+description: Step-by-step guide to installing Team Explorer 2008 on Windows 7, troubleshooting proxy and firewall issues, and connecting to CodePlex and TFS Sticky Buddy.
 ResourceId: eriIolF997p
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags:
 - Windows
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:21:54Z
+concepts: []
 
 ---
 I was a little lazy last time and did not install either Team Explorer, or SP1 on my visual studio instance. So, lets get to it…

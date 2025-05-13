@@ -1,6 +1,6 @@
 ---
 title: 'Search just got better: Part 2'
-description: "Explore the evolution of search engines in 'Search just got better: Part 2.' Discover insights on Tafiti and Search Crystal's unique visual interfaces."
+description: Comparison of Tafiti and Search Crystal visual search engines, highlighting interface features, result display options, and usability for search visualisation.
 ResourceId: _3B1lqJWcF5
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:26:22Z
+concepts: []
 
 ---
 After my post on the new [Tafiti](http://www.tafiti.com/) search engine a fellow by the name of [Anselm](http://www.searchcrystal.com/) pointed out [Search Crystal](http://www.searchcrystal.com "http://www.searchcrystal.com"), another visual search engine that produces some good result. I did not get he same Wow that I did from Tafiti, but the amount of information that is provided through the interface is extensive.

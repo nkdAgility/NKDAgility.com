@@ -1,6 +1,6 @@
 ---
 title: Improvements in Visual Studio ALM from the ALM Summit
-description: Discover the latest enhancements in Visual Studio ALM from the ALM Summit, including Git support, web-based test management, and Kanban improvements.
+description: Highlights new Visual Studio ALM features from the ALM Summit, including Git support, web-based test management, Kanban swim lanes, and flexible work item tagging.
 ResourceId: E9mwcXKPJ0C
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-6-6.png
+Watermarks:
+  description: 2025-05-13T15:06:59Z
+concepts: []
 
 ---
 There were many new improvements in Visual Studio ALM that were announced at this years ALM Summit event that I can only pick a few to highlight as my favourites. [Brian Harry did the keynote](http://channel9.msdn.com/Events/ALM-Summit/ALM-Summit-3/Building-an-Engineering-Organization-for-Continuous-Delivery) on the second day and almost immediately announced Visual Studio 2012.2 CTP 2  and a bunch of new features some of which were made available in TF Service ([http://tfs.visualstudio.com](http://tfs.visualstudio.com)) immediately.

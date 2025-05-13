@@ -1,6 +1,6 @@
 ---
 title: Mozy Backup Space Gathering update
-description: Join my quest for free Mozy backup space! Discover how referrals can boost your storage and get tips on maximizing your online backup experience.
+description: Update on Mozy backup referral progress, explaining how extra storage is earned when referrals complete their first backup and tracking current referral statuses.
 ResourceId: Ijl3My1sDG-
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:25:32Z
+concepts: []
 
 ---
 Well, I currently have two referrals :)

@@ -15,14 +15,7 @@ layout: blog
 resourceTypes: blog
 slug: professional-scrum-courses-2016-oslo-norway
 aliases:
-- /blog/professional-scrum-courses-2016-oslo-norway
-- /professional-scrum-courses-2016-oslo-norway
-- /professional-scrum-courses-for-2016-in-oslo,-norway
-- /blog/professional-scrum-courses-for-2016-in-oslo,-norway
 - /resources/gS7et381AGm
-- /professional-scrum-courses-for-2016-in-oslo--norway
-- /blog/professional-scrum-courses-for-2016-in-oslo--norway
-- /resources/blog/professional-scrum-courses-2016-oslo-norway
 aliasesArchive:
 - /blog/professional-scrum-courses-2016-oslo-norway
 - /professional-scrum-courses-2016-oslo-norway
@@ -38,6 +31,7 @@ categories:
 preview: clip_image001-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:52Z
+concepts: []
 
 ---
 Just before the end of the year I taught my [first Professional Scrum Master course in Norway](http://nkdagility.com/training/courses/professional-scrum-master/) and it was a resounding success. We had 30 students from some of the largest and most successful companies in Norway. The feedback was incredible and I had an awesome time teaching it.

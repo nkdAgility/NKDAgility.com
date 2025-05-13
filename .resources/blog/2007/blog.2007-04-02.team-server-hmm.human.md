@@ -1,6 +1,6 @@
 ---
 title: Team Server Hmm!
-description: Discover how to integrate Team Server with SQL Server Management Studio and enhance your development workflow. Explore essential tools and tips!
+description: Explains how to connect Microsoft SQL Server Management Studio to Team Foundation Server using the MSSCCI Provider for integrated source control and team collaboration.
 ResourceId: _HIn465Bu9n
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:53Z
+concepts: []
 
 ---
 I got an interesting question from our SQL Server DBA team in London today. They asked if you can integrate team server with Microsoft SQL Server Management Studio. I had a look at the software and could not see TFS source control in the list, so I did a little google and found:

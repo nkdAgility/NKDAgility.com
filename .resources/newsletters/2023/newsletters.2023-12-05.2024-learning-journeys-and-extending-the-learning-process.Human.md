@@ -25,6 +25,7 @@ tags:
 - Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T13:07:17Z
+concepts: []
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) gaining high acclaim not only from the students but also from their managers and leaders:

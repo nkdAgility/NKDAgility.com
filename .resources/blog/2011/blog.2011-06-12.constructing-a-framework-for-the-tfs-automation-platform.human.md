@@ -1,6 +1,6 @@
 ---
 title: Constructing a framework for the TFS Automation Platform
-description: Explore the framework for the TFS Automation Platform, designed to guide developers in building efficient tools and automations. Start your journey today!
+description: Outlines the structure and components of a framework for the TFS Automation Platform, detailing its architecture, plugin management, and development approach.
 ResourceId: w6AaB_5-1gr
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 - Internal Developer Platform
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:31Z
+concepts: []
 
 ---
 ![ALMRangersLogo_Small](images/ALMRangersLogo_Small-1-1.png "ALMRangersLogo_Small")As Lead developer for the TFS Iteration Automation my goal this weekend is to provide a framework for the developers to give both architectural and development guidance for the tools and methods we are going to be using to construct the Platform.

@@ -1,6 +1,6 @@
 ---
 title: Introduction to Visual Studio 11
-description: Explore the features of Visual Studio 11 and TFS Preview with insights, demos, and tips from Martin Hinshelwood. Stay updated on modern development tools!
+description: Overview of Visual Studio 11 features, including Team Foundation Server integration, web UI improvements, team management tools, and Azure-hosted TFS preview demos.
 ResourceId: jo0zeQr1paY
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-2-2.png
+Watermarks:
+  description: 2025-05-13T15:09:26Z
+concepts: []
 
 ---
 [![image](images/image_thumb1.png)](http://blog.nwcadence.com/wp-content/uploads/2012/02/image1.png)Over on the Northwest Cadence blog we are doing a big push on Visual Studio 11 (dev11) content.  I and my colleagues will be delivering content on Visual Studio 11,  Visual Studio 11 Team Foundation Server & Visual Studio Team Foundation Service (AKA TFS Preview).

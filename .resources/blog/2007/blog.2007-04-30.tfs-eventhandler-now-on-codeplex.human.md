@@ -1,6 +1,6 @@
 ---
 title: 'TFS EventHandler: Now on CodePlex'
-description: Discover the TFS EventHandler now on CodePlex! Join the development journey as it transitions to a more reliable system. Get involved and share your thoughts!
+description: Team Foundation Server EventHandler is now available on CodePlex, with ongoing updates to use Message Queuing and a Windows Service. Source code and forums are open to contributors.
 ResourceId: 24Qmd0tzO5s
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:36Z
+concepts: []
 
 ---
 I have now added my [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") EventHandler to [CodePlex](http://www.codeplex.com "CodePlex"), but don't get too exited as I am currently mid refractor. I am moving to the more reliable Message Queuing for the system, and probably moving it to a Windows Service instead of the current Website. I did actually start with web services but I found it more complicated to setup and create an install.

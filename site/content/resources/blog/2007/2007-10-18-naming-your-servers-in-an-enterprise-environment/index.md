@@ -1,6 +1,6 @@
 ---
 title: Naming your servers in an enterprise environment
-description: Discover effective server naming strategies for enterprise environments. Learn how to create meaningful, consistent names that enhance identification and management.
+description: Explains the importance of consistent, informative server naming conventions in enterprise environments to improve identification, management, and scalability.
 ResourceId: LahLCH4hO9O
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:50Z
+concepts: []
 
 ---
 This is an issue of contention in many companies, but I am firmly of the belief that server names should be at least consistent and at most should be able impart a large amount of information at a glance. Information should include:

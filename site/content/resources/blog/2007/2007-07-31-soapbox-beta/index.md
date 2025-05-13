@@ -1,6 +1,6 @@
 ---
 title: Soapbox Beta
-description: Discover Microsoft's Soapbox, a video service similar to YouTube, but with a twist! Learn about its Flash implementation and how it works through firewalls.
+description: Microsoft Soapbox is an online video sharing platform similar to YouTube, using Flash for playback instead of Silverlight, and accessible through standard firewalls.
 ResourceId: pFTm6k2yWBc
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:27:13Z
+concepts: []
 
 ---
 Just found a new services from Microsoft called [Soapbox](http://soapbox.msn.com/). It is similar to YouTube, but I assumed it would be implemented using [Silverlight](http://silverlight.net/). But as it turns out, its Flash! Boo....

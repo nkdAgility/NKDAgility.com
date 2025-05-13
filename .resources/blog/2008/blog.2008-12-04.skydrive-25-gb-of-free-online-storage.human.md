@@ -1,6 +1,6 @@
 ---
 title: 'SkyDrive: 25 GB of free online storage'
-description: Discover SkyDrive's 25 GB of free online storage, seamlessly integrated with Windows Live services. Share and manage your files effortlessly!
+description: Get 25GB of free online storage with SkyDrive, integrated with Windows Live services for easy file sharing, photo management, and contact connectivity.
 ResourceId: MxQH0mzNWaj
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:22:10Z
+concepts: []
 
 ---
 [![SkyDrive25](images/SkyDrive25GBoffreeonlinestorage_7F5A-SkyDrive25_3-6-6.png)](http://skydrive.live.com)

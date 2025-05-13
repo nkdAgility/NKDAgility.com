@@ -38,6 +38,7 @@ categories:
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 Watermarks:
   description: 2025-05-07T13:09:25Z
+concepts: []
 
 ---
 Over the past decade, a recurring query has been echoing in my ears: "How can we normalise Story Points across teams so that we can look across and maybe compare teams?" It's high time we address this.

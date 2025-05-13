@@ -1,6 +1,6 @@
 ---
 title: Feedburner, no Google…
-description: Explore the transition from Feedburner to Google and learn how to update your feed URLs for better performance and accuracy. Get insights and tips here!
+description: Feedburner users are being migrated to Google servers, requiring feed URL updates to avoid slower load times. The process is simple, with improved stats promised.
 ResourceId: W90U2-3Up25
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: feedburner-no-google
 aliases:
-- /resources/W90U2-3Up25
 - /resources/blog/feedburner-no-google
+- /resources/W90U2-3Up25
 aliasesArchive:
 - /blog/feedburner-no-google
 - /feedburner-no-google
@@ -29,6 +29,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:21:52Z
+concepts: []
 
 ---
 As some of you may know, Feedburner ([http://feedburner.com](http://feedburner.com)) was acquired some time ago by Google… But they are now actively migrating their content to Google servers ([http://feedburner.google.com](http://feedburner.google.com "http://feedburner.google.com")) and I have taken the plunge… if you are having any problems with my feeds then please let me know so I can rectify it…

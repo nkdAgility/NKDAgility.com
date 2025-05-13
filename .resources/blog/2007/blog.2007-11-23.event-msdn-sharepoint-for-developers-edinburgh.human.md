@@ -1,6 +1,6 @@
 ---
 title: 'Event: MSDN: SharePoint for Developers (Edinburgh)'
-description: Discover insights from the MSDN event on SharePoint for Developers in Edinburgh, featuring key takeaways on WSS3.0 and MOSS 2007 for all skill levels.
+description: Insights from an Edinburgh MSDN event covering SharePoint 2007 development, workflows in Visual Studio 2008, enterprise search, and InfoPath integration for forms.
 ResourceId: Z3OPR0BDfsD
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: event-msdn-sharepoint-for-developers-edinburgh
 aliases:
-- /resources/Z3OPR0BDfsD
 - /resources/blog/event-msdn-sharepoint-for-developers-edinburgh
+- /resources/Z3OPR0BDfsD
 aliasesArchive:
 - /blog/event-msdn-sharepoint-for-developers-edinburgh
 - /event-msdn-sharepoint-for-developers-edinburgh
@@ -27,6 +27,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T16:25:35Z
+concepts: []
 
 ---
 Better late than never, but I [attended](http://blog.hinshelwood.com/archive/2007/11/20/VS2008-Update.aspx) a [MSDN event](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-GB&eventid=1032355353) on Tuesday night in Edinburgh. Although I eagerly signed up for it, I did not expect to learn a lot:

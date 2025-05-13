@@ -1,6 +1,6 @@
 ---
 title: TFS Sticky Buddy Update
-description: Discover the latest updates for TFS Sticky Buddy, including fixes for key issues. Enhance your workflow with version 1.6 and improve your productivity!
+description: The latest update fixes login issues when no domain is entered and improves handling of large work item lists in TFS Sticky Buddy version 1.6.
 ResourceId: 6FP0Axpic3s
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-aggreko-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:23:23Z
+concepts: []
 
 ---
 The Sticky Buddy has been updated to fix the following problems:

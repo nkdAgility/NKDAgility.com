@@ -1,6 +1,6 @@
 ---
 title: 'TeamPlain Error: TF14002'
-description: Encountering the TF14002 error in TeamPlain? Discover insights and potential solutions to this common issue affecting source control access. Read more!
+description: Explains the TF14002 error in TeamPlain, where NT AUTHORITY\NETWORK SERVICE lacks valid user group access, and discusses possible causes like proxy server settings.
 ResourceId: PHs0D35ZIo4
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
 tags: []
+Watermarks:
+  description: 2025-05-13T16:28:58Z
+concepts: []
 
 ---
 Some prople have encountered this error when viewing the source control tab in TeamPlain:

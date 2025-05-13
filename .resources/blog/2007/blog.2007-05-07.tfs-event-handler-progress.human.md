@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler Progress
-description: Discover the latest progress on the TFS Event Handler project, tackling key work items and exploring WCF error handling solutions. Join the journey!
+description: Update on TFS Event Handler project progress, focusing on resolving security issues, improving error handling in WCF services, and finalising the admin system.
 ResourceId: MY8gn3hmXhh
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:28:28Z
+concepts: []
 
 ---
 I am making lots of progress with this project and I have only a couple of work items left for CTP1:

@@ -1,6 +1,6 @@
 ---
 title: Visual Studio 2008 Beta 2 Team Explorer
-description: Discover the challenges of installing Visual Studio 2008 Team Explorer and why it should be included in the setup for a smoother development experience.
+description: Explains the absence of Team Explorer in Visual Studio 2008 Beta 2 installation and the need to download it separately for Team Foundation Server integration.
 ResourceId: x3OxJIEMgFJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-visual-studio-2005-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:27:17Z
+concepts: []
 
 ---
 Well, I now have Visual Studio 2008 Team Suit [installed](http://blog.hinshelwood.com/archive/2007/07/29/Installing-the-.NET-Framework-3.5-Beta-2-on-Vista.aspx "Installing the .NET Framework 3.5 Beta 2 on Vista") on my laptop, but I have just realized that Team Explorer is not provided as part of the installation (same as VS2005). This is irritating as now I need to download Visual Studio 2008 team Foundation Server to get the client out of it.

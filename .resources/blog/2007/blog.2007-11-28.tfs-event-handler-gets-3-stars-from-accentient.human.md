@@ -1,6 +1,6 @@
 ---
 title: TFS Event Handler gets 3 stars from Accentient
-description: Discover how the TFS Event Handler earned 3 stars from Accentient, showcasing its popularity and impact in the TFS community. Explore the details now!
+description: TFS Event Handler received a 3-star rating from Accentient, highlighting its popularity and ranking on the Team System Widgets platform for ALM and TFS tools.
 ResourceId: CfR2sFbofzG
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-visual-studio-2005-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:29Z
+concepts: []
 
 ---
 All be it it is only popularity, but they are stars non the less...

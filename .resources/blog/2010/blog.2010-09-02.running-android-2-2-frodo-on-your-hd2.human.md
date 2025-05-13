@@ -1,6 +1,6 @@
 ---
 title: Running Android 2.2 (Frodo) on your HD2
-description: Discover how to run Android 2.2 (Frodo) on your HD2 for a superior mobile experience. Step-by-step guide and tips for optimal performance await!
+description: Guide to installing and running Android 2.2 (Froyo) on the HTC HD2, including setup steps, troubleshooting tips, and advice for optimising performance and battery life.
 ResourceId: pEjQq9m7081
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: running-android-2-2-frodo-on-your-hd2
 aliases:
-- /resources/pEjQq9m7081
 - /resources/blog/running-android-2.2-frodo-on-your-hd2
+- /resources/pEjQq9m7081
 aliasesArchive:
 - /blog/running-android-2-2-frodo-on-your-hd2
 - /running-android-2-2-frodo-on-your-hd2
@@ -28,6 +28,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-android-1-1.png
+Watermarks:
+  description: 2025-05-13T15:21:35Z
+concepts: []
 
 ---
 ![image](images/RunningAndroid2.2FroDoonyourHD2_89C9-image_-6-6.png)While my HD2 was away getting fixed I had to slum it using an Android phone from Vodafone. It was a small cheap Vodafone 845 running Android 2.1 and you know what… I loved it.

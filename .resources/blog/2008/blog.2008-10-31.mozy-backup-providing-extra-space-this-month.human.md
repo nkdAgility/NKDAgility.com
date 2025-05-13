@@ -1,6 +1,6 @@
 ---
 title: Mozy Backup providing extra space this month
-description: Discover how Mozy Backup is doubling your referral space this month! Learn why this reliable backup solution is essential for your data safety.
+description: Mozy is doubling its referral bonus to 512MB of extra backup space until 30 November 2008, making it easier to expand your online storage by inviting friends.
 ResourceId: VgEgURg3LhB
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:22:43Z
+concepts: []
 
 ---
 Until the 30th of November 2008 [Mozy](http://mozy.com/?ref=8R96AG) are increasing the amount of space you get for referring a friend from 256mb to 512mb!

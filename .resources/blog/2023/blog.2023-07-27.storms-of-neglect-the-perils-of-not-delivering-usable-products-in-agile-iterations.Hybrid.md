@@ -45,6 +45,8 @@ categories:
 preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:34Z
+concepts:
+- Tenet
 
 ---
 In light of the importance professional teams place on delivering usable, working products, I find myself compelled to address the woes that befall teams that need to adhere to this crucial tenet. We understand the need for working products; now, let us dissect the perils of straying from this righteous path.

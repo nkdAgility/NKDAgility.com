@@ -1,6 +1,6 @@
 ---
 title: Install SharePoint 2013 on Windows Server 2012 without a domain
-description: Learn how to install SharePoint 2013 on Windows Server 2012 without a domain. Follow our expert tips for a smooth setup and configuration process.
+description: Step-by-step guide to installing SharePoint 2013 on Windows Server 2012 without a domain, including prerequisites, configuration, troubleshooting, and key setup tips.
 ResourceId: nNzrXud9z_l
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-sharepoint-128-link-23-23.png
+Watermarks:
+  description: 2025-05-13T15:08:21Z
+concepts: []
 
 ---
 Any setup of Team Foundation Server is not complete until you have at least tried t work with SharePoint. While I have many customers that like to stay away from  SharePoint I also have many that make it an integral part of not just their TFS install, but their corporate network, offerings and culture.

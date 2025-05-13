@@ -1,6 +1,6 @@
 ---
 title: What about hosting the Tfs Automation Platform
-description: Explore the hosting options for the TFS Automation Platform, balancing functionality and server-side components for optimal performance in cloud environments.
+description: Explores options for hosting the TFS Automation Platform, comparing server-side and client-only setups, and discusses impacts on functionality, resilience, and multi-user support.
 ResourceId: je145Y3qB7P
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 preview: metro-visual-studio-2010-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:53Z
+concepts: []
 
 ---
 [![](images/4810.TFSonAzure.jpg)](http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-14/4810.TFSonAzure.jpg)I have been asked what would be the process or support for hosting the Tfs Automation Platform either from a hosting provider, or in the cloud if we have server side components. If you are not familiar with TFS on Azure make sure you read:

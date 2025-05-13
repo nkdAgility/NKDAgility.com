@@ -1,6 +1,6 @@
 ---
 title: MSBuild and Business Intelligence Packages, Ahhhhhh!
-description: Explore the challenges of automating Business Intelligence builds with MSBuild. Discover solutions for SSIS and SSAS package deployment and testing.
+description: Discusses challenges in automating builds, testing, and deployment for SQL Server BI solutions, focusing on SSIS and SSAS packages and gaps in MSBuild support.
 ResourceId: lttzdaIlzel
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:22:49Z
+concepts: []
 
 ---
 I have been trying to get a handle on doing an automated build of our Business Intelligence solutions and I am always running into problems around the (IMO badly build) BI Packages that are installed via SQL. They do not support Test, they do not support build. There has been no thought given to how people working on them are going to build test and support them and even the project files are not written in the same schema as the rest of the Visual Studio bits. I would have thought, with Team Foundation Server in its third year and second version that this would have been rectified in SQL 2008, but no such luck.

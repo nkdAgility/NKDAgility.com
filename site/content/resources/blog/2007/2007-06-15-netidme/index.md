@@ -1,6 +1,6 @@
 ---
 title: NetIDme
-description: Explore NetIDme, a service for online identity verification that enhances user interaction and security across platforms like SharePoint and more. Discover the future!
+description: Online identity verification service enabling users to prove their identity for safer interactions, with support for CardSpace, ChatShield, and potential single sign-on integration.
 ResourceId: QY3BJhuGqTa
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: metro-sharepoint-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:28:02Z
+concepts: []
 
 ---
 I have just been made aware of a [new ('ish) service.](http://www.netidme.net/ "netidme") It allows you to verify the identity of those users you interact with online. This is a very usefully service for any online site or community where users are under 18, but is there any value for those of us that are not?

@@ -1,6 +1,6 @@
 ---
 title: Back to the grind
-description: Join Martin Hinshelwood as he reflects on his paternity leave and the joy of welcoming his baby girl, before diving back into the work grind.
+description: Returning to work after two weeks of paternity leave and welcoming a newborn daughter; reflections on family and resuming professional life.
 ResourceId: dcAyw0f562g
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
 tags: []
+Watermarks:
+  description: 2025-05-13T16:27:45Z
+concepts: []
 
 ---
 Well that's my paternity leave over, I cant believe that it has been two weeks! Well I got a gorgeous  baby girl out of it:

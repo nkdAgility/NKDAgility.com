@@ -1,6 +1,6 @@
 ---
 title: Configuring a PowerShell Adapter for the TFS Integration Platform
-description: Learn to configure a PowerShell adapter for TFS Integration Platform, enabling seamless source code transfer to Perforce. Enhance your workflow today!
+description: Explains how to set up and configure a PowerShell adapter in the TFS Integration Platform to automate source control migrations, with custom scripts for each change type.
 ResourceId: gzuPSzbixBn
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 - System Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:30Z
+concepts: []
 
 ---
 ![](images/image_thumb-1-1.png)

@@ -1,6 +1,6 @@
 ---
 title: Data Dude R2 is out!
-description: Discover the new features of Data Dude R2, enhancing SQL 2008 support for database developers. Upgrade now for improved performance and efficiency!
+description: Visual Studio Team System 2008 Database Edition GDR R2 adds new features, improved SQL Server 2008 support, enhancements, and bug fixes for database development.
 ResourceId: -ifFvVOpYdz
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:24:17Z
+concepts: []
 
 ---
 Coming hot on the heals of Visual Studio Team System 2008 Database Edition GDR is the [Visual Studio Team System 2008 Database Edition GDR R2](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en) which features some new bits and better support for SQL 2008.

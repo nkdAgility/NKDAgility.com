@@ -40,6 +40,7 @@ categories:
 preview: image-9-14-14.png
 Watermarks:
   description: 2025-05-07T13:15:06Z
+concepts: []
 
 ---
 Story Points and velocity have been used for many years in the [Scrum]({{< ref "/categories/scrum" >}}) community and have been engrained so much in the way that things are done that most folks believe that they are part of Scrum. The accepted wisdom is that Scrum Teams are supposed to use User Stories, Story Points, and Velocity to measure their work.

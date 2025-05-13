@@ -1,6 +1,6 @@
 ---
 title: Xbox 360 Elite
-description: Discover my journey trading in a crashing Xbox 360 for the Elite model. Dive into my gaming experiences with Bioshock and more! Join the fun!
+description: A personal account of upgrading from a faulty Xbox 360 to an Xbox 360 Elite, including trade-in details and experiences with games like Bioshock and Stranglehold.
 ResourceId: ELz8sUhrCKr
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-xbox-360-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:26:05Z
+concepts: []
 
 ---
 Wohoo, I traded my sometimes crashing Xbox 360 in for an Xbox 360 Elite in Saturday. Over the last two weeks I have been playing Bioshock to death, but the crashing finaly anoyed me enough to get it sorted.

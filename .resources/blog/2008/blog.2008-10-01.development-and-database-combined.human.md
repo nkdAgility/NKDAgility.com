@@ -1,6 +1,6 @@
 ---
 title: Development and Database combined
-description: Discover the exciting merger of Visual Studio Team Editions for Developers and Database Developers, enhancing your development experience. Learn more!
+description: Microsoft has merged Visual Studio Team Edition for Developers and Database Developers, giving users of either version access to both tools in 2005 and 2008 editions.
 ResourceId: 9u4z7lAsHAh
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 preview: nakedalm-logo-128-link-1-1.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:23:03Z
+concepts: []
 
 ---
 [Microsoft has just announced](http://blogs.msdn.com/gertd/archive/2008/09/29/team-developer-team-data-team-developer.aspx) that the two products, Visual Studio Team Edition for Database Developers and Visual Studio Team Edition for Developers as been combined.

@@ -1,6 +1,6 @@
 ---
 title: Windows Live Writer Beta 3 Hmm!
-description: Explore the quirks of Windows Live Writer Beta 3 as I share my support experience and the hunt for the correct download link. Join the conversation!
+description: Details an issue with downloading Windows Live Writer Beta 3, support response, and provides updated links for the correct installer and troubleshooting steps.
 ResourceId: Mr03tdjOlLS
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:58Z
+concepts: []
 
 ---
 I submitted a trouble ticket about my previous [post](http://blog.hinshelwood.com/archive/2007/10/02/Windows-Live-Writer-Beta-3.aspx) on [http://support.live.com](http://support.live.com) and got a prompt reply from Microsoft support giving me some directions for cleaning up beta bits of my system, and a URL for a direct download:

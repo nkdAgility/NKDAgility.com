@@ -1,6 +1,6 @@
 ---
 title: Finding the problem on a partially succeeded build on Team Foundation Build Services 2010
-description: Discover how to troubleshoot partially succeeded builds in TFS 2010. Learn effective strategies to identify and resolve issues for smoother development.
+description: Learn how to diagnose and resolve partially succeeded builds in Team Foundation Build Services 2010 by tracing test failures, identifying code issues, and managing bugs.
 ResourceId: YBExXvBtNAN
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: metro-visual-studio-2010-128-link-8-8.png
 categories:
 - Scrum
+Watermarks:
+  description: 2025-05-13T15:22:37Z
+concepts: []
 
 ---
 Now that I have the Build failing because of a genuine bug and not just because of a test framework failure, lets see if we can trace through to finding why the first test in our new application failed. Lets look at the build and see if we can see why there is a red cross on it.

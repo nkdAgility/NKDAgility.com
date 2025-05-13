@@ -1,6 +1,6 @@
 ---
 title: MSDN Roadshow UK 2007
-description: Discover insights from the MSDN Roadshow UK 2007 at Glasgow Science Center, featuring engaging talks by Daniel Moth and Mike Taulty. Don't miss out!
+description: Highlights experiences and key speakers from the 2007 MSDN Roadshow in Glasgow, focusing on sessions about LINQ and software development presented by Daniel Moth and Mike Taulty.
 ResourceId: gm2PHIhIPbi
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-event-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:29:04Z
+concepts: []
 
 ---
 I have been very lazy of late with my blogging. But I am now getting a spurt so I thought I should mention that I attended the Roadshow at the Glasgow Science Center.

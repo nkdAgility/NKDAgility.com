@@ -1,6 +1,6 @@
 ---
 title: Upgrading from TFS2010 to Visual Studio 2012 Team Foundation Server in production
-description: Upgrade your TFS 2010 to Visual Studio 2012 Team Foundation Server effortlessly with our step-by-step guide. Ensure a smooth transition in production!
+description: Step-by-step guide to upgrading from TFS 2010 to Visual Studio 2012 Team Foundation Server, including prerequisites, SQL updates, configuration, and troubleshooting tips.
 ResourceId: _KGEsIMh-nJ
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 - System Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:09:16Z
+concepts: []
 
 ---
 Upgrading from Visual Studio 2010 Team Foundation Server to Visual Studio 11 Team Foundation Server beta is very easy and as we have seen, [fully supported in production](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/). Today I got the new bits and I an going to upgrade our Northwest Cadence production server.

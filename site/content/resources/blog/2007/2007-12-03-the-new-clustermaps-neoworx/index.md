@@ -1,6 +1,6 @@
 ---
 title: 'The new ClusterMaps: NeoWORX'
-description: Discover NeoWORX, a powerful tool for visualizing global data in real-time. Learn how it can enhance corporate presentations and streamline operations.
+description: Overview of NeoWORX, a web service for visualising global data on interactive maps, with potential for real-time fleet tracking and customisable geolocation displays.
 ResourceId: _tT2jcz-s4u
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags: []
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T16:25:24Z
+concepts: []
 
 ---
 I came across this amazing new service which is very similar to [ClusterMaps](http://www.clustermaps.com/), [NeoWORX](http://www.neoworx.net/). It is a bit of a pain in Flash as the system resources required for flash these days seams a little excessive, but I would like to see it running as a WPF XBAP.

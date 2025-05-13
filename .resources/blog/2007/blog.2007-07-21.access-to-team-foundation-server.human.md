@@ -1,6 +1,6 @@
 ---
 title: Access to Team Foundation Server
-description: Discover how to enhance your TFS skills at home, overcoming limitations of hosted solutions. Unlock the full potential of Team Foundation Server today!
+description: Discusses challenges and solutions for accessing and practising with Team Foundation Server (TFS) outside work, including limitations of hosted options like CodePlex.
 ResourceId: ttgv7j3g-kW
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -23,6 +23,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T16:27:35Z
+concepts: []
 
 ---
 With my lack of time to work with TFS at work in anything but a server maintenance and user assistance role, or even any sort of Visual Studio work, I will need to find a way to continue to access and work with Team System.
