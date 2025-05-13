@@ -29,6 +29,10 @@ function Get-CatalogHashtable {
             Write-WarningLog "FrontMatter is null for $($markdownMeta.FilePath). Skipping."
             continue
         }
+        if ($markdownMeta.FrontMatter.ignore) {
+            Write-WarningLog "Ignore $($markdownMeta.FilePath). Skipping."
+            continue
+        }
         $catalogHash[$markdownMeta.FrontMatter.Title] = $markdownMeta.FrontMatter
     }
 
