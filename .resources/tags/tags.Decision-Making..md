@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 730
+weight: 595
 description: Applying structured, evidence-based approaches to make informed business choices.
 Instructions: |-
   **Use this category only for discussions on Decision Making.**  
@@ -35,6 +35,7 @@ concepts:
 - Capability
 categories: []
 tags:
+- Pragmatic Thinking
 - Social Technologies
 - Business Agility
 - Evidence Based Management

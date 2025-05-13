@@ -82,6 +82,11 @@ $Counter = 0
 # $hugoMarkdownList = @($hugoMarkdownList | Where-Object { $_.FrontMatter.title -eq "Deployment Frequency" })
 
 foreach ($hugoMarkdown in $hugoMarkdownList) {
+    if ($hugoMarkdown.FrontMatter.ignore) {
+        Write-InfoLog "Skipping post: $(Resolve-Path -Path $hugoMarkdown.FilePath -Relative)"
+        $Counter++
+        continue
+    }
     $Counter++
     $PercentComplete = ($Counter / $TotalFiles) * 100
     $markdownFile = $hugoMarkdown.FilePath

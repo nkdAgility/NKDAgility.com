@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 675
+weight: 520
 description: Minimising waste and maximising value through iterative learning and continuous improvement.
 Instructions: |-
   **Use this category only for discussions on Lean Principles.**  
@@ -36,9 +36,11 @@ concepts:
 - Principle
 categories:
 - Lean
+- Product Development
 - Product Management
 tags:
 - Lean Product Development
+- Continuous Improvement
 - Lean Thinking
 - Market Adaptability
 - Value Delivery

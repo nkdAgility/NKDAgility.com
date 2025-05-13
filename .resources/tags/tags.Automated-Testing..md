@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 1000
+weight: 210
 description: Ensure software quality and reliability with Automated Testing. Detect issues early, reduce manual effort, and accelerate delivery.
 Instructions: |-
   **Use this category only for discussions on Automated Testing.**  
@@ -34,8 +34,22 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:26:59
 concepts:
 - Practice
-categories: []
-tags: []
+categories:
+- Engineering Excellence
+- Product Development
+- DevOps
+tags:
+- Software Development
+- Engineering Practices
+- Technical Mastery
+- Operational Practices
+- Test Automation
+- Team Performance
+- Value Delivery
+- Product Delivery
+- Technical Excellence
+- Market Adaptability
+- Shift Left Strategy
 
 ---
 Automated Testing is a critical practice that enhances software quality and reliability by systematically executing tests through automation tools. This approach allows teams to detect issues early in the development process, significantly reducing the manual effort required for testing and accelerating the delivery of high-quality software. By integrating automated tests into the development pipeline, organisations can ensure that new features do not introduce regressions, thereby maintaining a stable codebase.

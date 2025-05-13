@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 705
+weight: 370
 description: Fostering a growth mindset and knowledge sharing for sustained team improvement.
 Instructions: |-
   **Use this category only for discussions on Continuous Learning.**  
@@ -36,7 +36,15 @@ BodyContentGenDate: 2025-04-09T17:10:53
 concepts:
 - Capability
 categories: []
-tags: []
+tags:
+- Competence
+- Organisational Culture
+- Social Technologies
+- Agile Philosophy
+- Team Collaboration
+- Value Delivery
+- Organisational Agility
+- Miscellaneous
 
 ---
 Continuous Learning is the practice of fostering a growth mindset and promoting knowledge sharing within teams to drive sustained improvement. It emphasises the importance of learning from experiences, both successes and failures, to enhance skills, processes, and products. This concept is vital as it enables teams to adapt quickly to changing circumstances, ensuring they can deliver value predictably and sustainably.

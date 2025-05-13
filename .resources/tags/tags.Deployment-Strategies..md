@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 580
+weight: 225
 description: Balancing risk and speed when getting software into production.
 Instructions: |-
   **Use this category only for discussions on Deployment Strategies.**  
@@ -34,6 +34,7 @@ BodyContentGenDate: 2025-04-09T17:00:23
 concepts:
 - Capability
 categories:
+- DevOps
 - Product Development
 - Engineering Excellence
 tags:
@@ -42,7 +43,11 @@ tags:
 - Value Delivery
 - Product Delivery
 - Frequent Releases
+- Market Adaptability
+- Release Management
 - Pragmatic Thinking
+- Continuous Improvement
+- Continuous Learning
 - Engineering Practices
 - Organisational Agility
 - Technical Excellence

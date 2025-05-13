@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-04-10T10:45:00Z
-weight: 1000
+weight: 585
 description: A critical lens on attempts to combine project management with agile delivery approaches.
 Instructions: |-
   **Use this category only for discussions on Hybrid Agile.**  
@@ -33,7 +33,8 @@ BodyContentGenDate: 2025-04-10T10:45:00Z
 concepts:
 - Accountability
 categories: []
-tags: []
+tags:
+- Software Development
 
 ---
 **Hybrid Agile** is a label frequently used by organisations attempting to bolt agile practices onto project structures. The intention may be to gain flexibility without losing perceived control, but the outcome is rarely effective. Instead of blending strengths, Hybrid Agile often produces the **worst of both worlds**: rigid governance with the illusion of agility.

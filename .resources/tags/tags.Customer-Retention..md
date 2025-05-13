@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 1000
+weight: 655
 description: Strategies to keep users engaged and reduce churn through continuous value delivery.
 Instructions: |-
   **Use this category only for discussions on Customer Retention.**  
@@ -34,8 +34,13 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:08:15
 concepts:
 - Principle
-categories: []
-tags: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Customer Satisfaction
+- Business Agility
+- Value Delivery
 
 ---
 Customer retention refers to the strategies and practices employed by organisations to keep users engaged with their products or services over time, thereby reducing churn. This concept is crucial as it directly impacts an organisation's sustainability and profitability. By focusing on customer retention, teams can ensure that they are consistently delivering value, which fosters loyalty and encourages repeat business. 

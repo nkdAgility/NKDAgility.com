@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 730
+weight: 575
 description: Helping organisations shift mindsets and processes without falling into transformation theatre.
 Instructions: |-
   **Use this category only for discussions on Change Management.**  
@@ -37,6 +37,7 @@ categories: []
 tags:
 - Organisational Change
 - Social Technologies
+- Organisational Agility
 - Organisational Culture
 - Pragmatic Thinking
 - Continuous Improvement

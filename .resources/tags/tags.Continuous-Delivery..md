@@ -40,12 +40,15 @@ categories:
 - Engineering Excellence
 - DevOps
 tags:
+- Frequent Releases
 - Software Development
 - Product Delivery
 - Value Delivery
 - Operational Practices
 - Engineering Practices
+- Market Adaptability
 - Deployment Strategies
+- Pragmatic Thinking
 - Release Management
 - Time to Market
 

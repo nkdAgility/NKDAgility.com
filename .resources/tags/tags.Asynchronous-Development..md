@@ -37,6 +37,7 @@ concepts:
 categories:
 - Product Development
 tags:
+- Pragmatic Thinking
 - Team Collaboration
 - Operational Practices
 - Social Technologies

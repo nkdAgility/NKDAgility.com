@@ -48,9 +48,10 @@ tags:
 - Organisational Change
 - Organisational Culture
 - Ability to Innovate
+- Pragmatic Thinking
 - Organisational Physics
+- Sociotechnical Systems
 - Beta Codex
-- Change Management
 
 ---
 In complex environments where variance is high, methodologies fall short. In order to guide our ways of working we need foundational philosophies that foster adaptability, emergent coordination, and collective intelligence. Social technologies provide this foundation, shaping interactions, decision-making, and value creation.

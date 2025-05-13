@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 1000
+weight: 425
 description: Best practices for enabling effective distributed and remote agile teams.
 Instructions: |-
   **Use this category only for discussions on Remote Working.**  
@@ -35,7 +35,17 @@ concepts:
 - Practice
 categories:
 - Product Development
-tags: []
+tags:
+- Team Collaboration
+- Market Adaptability
+- Social Technologies
+- Pragmatic Thinking
+- Operational Practices
+- Business Agility
+- Team Motivation
+- Organisational Agility
+- Value Delivery
+- Sociotechnical Systems
 
 ---
 Remote Working is a Practice.
