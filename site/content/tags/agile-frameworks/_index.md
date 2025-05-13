@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 650
+weight: 440
 description: Explore and compare Agile frameworks. Understand their principles, applications, and impact on organisational agility and value delivery.
 Instructions: |-
   **Use this category only for discussions on Agile Frameworks.**  
@@ -39,12 +39,14 @@ concepts:
 categories:
 - Product Development
 tags:
+- Organisational Agility
 - Social Technologies
 - Software Development
 - Market Adaptability
 - Agile Strategy
 - Organisational Change
 - Value Delivery
+- Operational Practices
 - Business Agility
 - Continuous Improvement
 - Agile Transformation

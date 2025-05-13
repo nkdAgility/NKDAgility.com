@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 635
+weight: 170
 description: Optimising how often software is deployed to enhance feedback loops and value delivery.
 Instructions: |-
   **Use this category only for discussions on Deployment Frequency.**  
@@ -35,8 +35,10 @@ concepts:
 - Practice
 categories:
 - Product Development
+- Engineering Excellence
 - DevOps
 tags:
+- Value Delivery
 - Frequent Releases
 - Metrics and Learning
 - Software Development
@@ -50,7 +52,6 @@ tags:
 - Pragmatic Thinking
 - Time to Market
 - Social Technologies
-- Engineering Practices
 
 ---
 Deployment Frequency refers to the rate at which software is released into production, a critical metric in modern product development. It directly influences an organisation's ability to deliver value to customers, as higher deployment frequency allows for quicker feedback loops and more responsive adjustments to user needs. By optimising deployment frequency, teams can ensure that they are not only releasing features and fixes more often but also validating assumptions and learning from real-world usage in a timely manner.

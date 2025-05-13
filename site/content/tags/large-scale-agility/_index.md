@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 655
+weight: 470
 description: Scaling agile beyond teams to drive enterprise-wide transformation and innovation.
 Instructions: |-
   **Use this category only for discussions on Large Scale Agility.**  
@@ -38,6 +38,7 @@ concepts:
 categories:
 - Product Development
 tags:
+- Organisational Agility
 - Enterprise Agility
 - Business Agility
 - Scaling
@@ -50,9 +51,7 @@ tags:
 - Organisational Culture
 - Agile Philosophy
 - Strategic Goals
-- Pragmatic Thinking
-- Team Collaboration
-- Sociotechnical Systems
+- Change Management
 
 ---
 Large Scale Agility refers to the application of agile principles and practices across entire organisations, transcending individual teams to foster a culture of adaptability, collaboration, and continuous improvement. This concept is crucial for enabling enterprises to respond swiftly to market changes and customer needs, ensuring that value delivery is both predictable and sustainable. By integrating agile methodologies at scale, organisations can break down silos, enhance cross-functional collaboration, and align strategic goals with operational execution.

@@ -44,6 +44,7 @@ tags:
 - Agile Frameworks
 - Social Technologies
 - Team Collaboration
+- Self Organisation
 - Cross Functional Teams
 - Product Delivery
 

@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-04-10T10:16:54Z
-weight: 825
+weight: 415
 description: GitHub is a platform for version control and collaboration, offering tools for code hosting, CI/CD, project management, and team collaboration.
 Instructions: |-
   **Use this category only for discussions on GitHub.**  
@@ -38,8 +38,13 @@ BodyContentGenDate: 2025-04-10T10:16:54Z
 concepts:
 - Tool
 categories:
+- Engineering Excellence
 - DevOps
 tags:
+- Software Development
+- Modern Source Control
+- Collaboration Tools
+- Engineering Practices
 - Product Delivery
 
 ---

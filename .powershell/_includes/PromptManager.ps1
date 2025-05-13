@@ -20,8 +20,8 @@ function Get-Prompt {
     $PromptContent = Get-Content -Path $PromptPath -Raw
 
     foreach ($Key in $Parameters.Keys) {
-        $Value = $Parameters[$Key]
-        $PromptContent = $PromptContent -replace "(?i){{\s*$Key\s*}}", $Value
+        $Placeholder = "{{${Key}}}"
+        $PromptContent = $PromptContent.Replace($Placeholder, $Parameters[$Key])
     }
 
     # Check for any unreplaced parameters like {{...}}

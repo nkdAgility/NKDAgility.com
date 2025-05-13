@@ -13,4 +13,7 @@ Given the title and content, generate a clear and comprehensive abstract (100–
 Input:
 
 Title: {{title}}
-Content: {{content}}
+Content:
+|||
+{{content}}
+|||

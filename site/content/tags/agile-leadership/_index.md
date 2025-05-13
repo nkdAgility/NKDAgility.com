@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 560
+weight: 345
 description: Drive change with Agile Leadership. Foster adaptability, empower teams, and create a culture of continuous improvement.
 Instructions: |-
   **Use this category only for discussions on Agile Leadership.**  
@@ -44,6 +44,7 @@ categories:
 tags:
 - Organisational Agility
 - Change Management
+- Business Agility
 - Social Technologies
 - Agile Philosophy
 - Organisational Change
@@ -55,8 +56,6 @@ tags:
 - Organisational Culture
 - Pragmatic Thinking
 - Continuous Improvement
-- Psychological Safety
-- Self Organisation
 
 ---
 Agile Leadership is the practice of guiding teams and organisations through the complexities of change by fostering an environment that prioritises adaptability, empowerment, and continuous improvement. It transcends traditional management by focusing on enabling teams to self-organise, make decisions collaboratively, and respond swiftly to evolving market demands. This leadership style is crucial for cultivating a culture where experimentation and learning are encouraged, allowing teams to innovate and deliver value predictably and sustainably.

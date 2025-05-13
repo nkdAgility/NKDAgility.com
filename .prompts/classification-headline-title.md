@@ -10,20 +10,21 @@ Your task is to generate a **headline title** for a **classification** used to c
 **Classification Title:** {{title}}  
 **Classification Abstract:** {{abstract}}  
 **Classification Content:**  
-~~~  
-{{content}}  
-~~~
+|||
+{{content}}
+|||
 
-Generate the **headline title** only, with no additional explanation or formatting.  
-- Do not enclose in quotes.  
+Generate the **headline title** only, with no additional explanation or formatting.
+
+- Do not enclose in quotes.
 - Always include the acronym in parentheses if the classification is commonly known by one.
 
 When choosing terms and acronyms, consider the following context domains and include relevant connections if applicable:
 
-- Kanban Context: Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little  
-- Agile & Scrum Context: Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beadle, Ron Jeffries  
-- DevOps Context: Gene Kim, Jez Humble, Patrick Debois, John Willis  
-- Lean Context: Taiichi Ohno, Eliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck  
-- DevOps & Continuous Delivery: Jez Humble, Dave Farley, Martin Fowler, Gene Kim  
-- Evidence-Based Management: Ken Schwaber, Jeff Sutherland, Patricia Kong, Kurt Bittner  
-- Complexity Theory: Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien  
+- Kanban Context: Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little
+- Agile & Scrum Context: Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beadle, Ron Jeffries
+- DevOps Context: Gene Kim, Jez Humble, Patrick Debois, John Willis
+- Lean Context: Taiichi Ohno, Eliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck
+- DevOps & Continuous Delivery: Jez Humble, Dave Farley, Martin Fowler, Gene Kim
+- Evidence-Based Management: Ken Schwaber, Jeff Sutherland, Patricia Kong, Kurt Bittner
+- Complexity Theory: Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien

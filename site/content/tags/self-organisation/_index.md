@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 690
+weight: 305
 description: Empowering teams to take ownership and drive value autonomously.
 Instructions: |-
   **Use this category only for discussions on Self Organisation.**  
@@ -35,6 +35,7 @@ concepts:
 - Principle
 categories:
 - Product Development
+- Technical Leadership
 tags:
 - Social Technologies
 - Organisational Agility
@@ -50,7 +51,6 @@ tags:
 - Lean Principles
 - Continuous Learning
 - Team Performance
-- Agile Strategy
 
 ---
 Self-organisation refers to the ability of teams to autonomously manage their work, make decisions, and adapt to changing circumstances without relying on external control. This concept is crucial as it fosters a culture of ownership and accountability, enabling teams to respond swiftly to challenges and opportunities. By empowering individuals to take initiative, self-organisation enhances collaboration and innovation, leading to more effective problem-solving and value delivery.

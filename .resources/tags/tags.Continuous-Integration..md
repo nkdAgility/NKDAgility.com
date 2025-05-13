@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 1000
+weight: 170
 description: Ensure fast, reliable development with Continuous Integration (CI). Merge code frequently, detect errors early, and maintain a healthy codebase.
 Instructions: |-
   **Use this category only for discussions on Continuous Integration.**  
@@ -34,8 +34,19 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:11:43
 concepts:
 - Practice
-categories: []
-tags: []
+categories:
+- Engineering Excellence
+- Product Development
+tags:
+- Software Development
+- Engineering Practices
+- Technical Mastery
+- Operational Practices
+- Market Adaptability
+- Value Delivery
+- Technical Excellence
+- Product Delivery
+- Pragmatic Thinking
 
 ---
 Continuous Integration (CI) is a software development practice that emphasises the frequent merging of code changes into a shared repository. This approach allows teams to detect errors early, ensuring that integration issues are identified and resolved promptly. By automating the build and testing processes, CI fosters a healthy codebase, enabling developers to focus on delivering value rather than troubleshooting integration problems.

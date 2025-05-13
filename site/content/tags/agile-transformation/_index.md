@@ -40,6 +40,7 @@ categories:
 - Leadership
 tags:
 - Organisational Culture
+- Agile Strategy
 - Organisational Change
 - Social Technologies
 - Agile Philosophy

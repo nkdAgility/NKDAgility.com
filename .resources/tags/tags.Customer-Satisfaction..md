@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 1000
+weight: 670
 description: Measuring and enhancing customer happiness to ensure product-market fit.
 Instructions: |-
   **Use this category only for discussions on Customer Satisfaction.**  
@@ -36,8 +36,12 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:07:21
 concepts:
 - Principle
-categories: []
-tags: []
+categories:
+- Product Development
+tags:
+- Customer Retention
+- Current Value
+- Value Delivery
 
 ---
 Customer satisfaction is the measure of how well a product or service meets or exceeds the expectations of its users. It is a critical indicator of product-market fit and serves as a vital feedback loop for teams striving to deliver value. By prioritising customer satisfaction, organisations can ensure that their offerings resonate with users, leading to increased loyalty and retention.

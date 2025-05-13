@@ -2192,25 +2192,6 @@
     "reasoning": "The content is extensively focused on the Definition of Done (DoD) in the context of Scrum and Agile development. While automation, CI/CD, and some best practices are briefly mentioned, these are discussed in service of high-quality delivery, not within the context of Internal Developer Platforms (IDPs). The term 'Internal Developer Platform' is never mentioned directly, nor are its core concepts (e.g., platform framework, streamlining environments, developer self-service, or platform-as-product). The conceptual alignment and depth are both low, as the article remains squarely about team process and quality, not about infrastructural platforms or IDP-specific challenges and solutions. The audience is Scrum teams and Agile practitioners, overlapping only marginally with an IDP technical audience. Most content is on-topic for Scrum and DoD, not for IDP, though brief mentions of automation or pipelines (e.g., code quality checks, CI/CD) raise the signal score slightly. There are no outdated, satirical, or contradictory elements requiring penalties. The very low mention score and weak alignment to the IDP category yield a proportionately low confidence score.",
     "level": "Ignored"
   },
-  "Values": {
-    "resourceId": "TwYNSm1pZOS",
-    "category": "Values",
-    "calculated_at": "2025-05-06T20:52:35",
-    "ai_confidence": 74.75,
-    "ai_mentions": 6.5,
-    "ai_alignment": 8.8,
-    "ai_depth": 7.9,
-    "ai_intent": 7.4,
-    "ai_audience": 8.2,
-    "ai_signal": 8.1,
-    "ai_penalties_applied": false,
-    "ai_penalty_points": 0,
-    "ai_penalty_details": "none",
-    "final_score": 75.0,
-    "reasoning": "The content discusses the Definition of Done (DoD) in Scrum, consistently framing it as a 'commitment to quality,' aligning with values such as transparency, accountability, and continuous improvement. The piece draws repeated links between DoD and the Agile Manifesto's values and principles, mentioning 'embrace Agile principles,' 'continuous improvement,' and the role of DoD in creating transparency and shared understanding. Notably, it explicitly connects DoD to organisational and team standards, behaviors, and alignment (e.g., 'shared accountability for quality,' 'organisational DoD,' 'transparency,' 'predicatbility in delivery'). However, the main focus is on practical implementation: steps to create, maintain, and evolve a DoD, workshops, automation (e.g., CI/CD, SonarQube), and checklist items. While these touch on values, the substantive discussion often centers more on engineering standards, delivery mechanics, and quality assurance practices—which, while value-driven, occupy the space between explicit values discussion and actionable method. The strongest value-focused paragraphs are those that tie DoD to transparency, shared understanding, accountability, and the underlying philosophy of Scrum and Agile. There are numerous indirect references and clear conceptual alignment but only a few direct and explicit mentions of 'values' in the strict philosophical sense (hence a moderate 'direct mention' score). The depth is above average, with principles revisited in context of team dynamics and risk mitigation, but often diluted by practical how-tos. Intent is well-aligned toward fostering a value-centric culture, but the primary aim is operational excellence. The audience appears to be practitioners and leaders focused on Scrum team effectiveness—well matched to the values theme. The content is focused, with very little off-topic material, leading to a strong signal-to-noise rating. No penalties are warranted: the material is current, not satirical, and does not contradict the value-based framing.",
-    "level": "Secondary",
-    "reasoning_summary": "This content fits the category as it thoughtfully connects the Definition of Done in Scrum to core Agile values like transparency, accountability, and continuous improvement. While much of the discussion is practical, it consistently frames these practices within a value-driven context, making it highly relevant for those interested in how values underpin effective Scrum implementation."
-  },
   "Product Delivery": {
     "resourceId": "TwYNSm1pZOS",
     "category": "Product Delivery",

@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 640
+weight: 355
 description: Adapting based on evidence, not assumptions, through inspection and transparency.
 Instructions: |-
   **Use this category only for discussions on Empirical Process Control.**  
@@ -40,6 +40,8 @@ categories:
 - Product Development
 tags:
 - Pragmatic Thinking
+- Decision Making
+- Organisational Agility
 - Continuous Improvement
 - Social Technologies
 - Metrics and Learning
@@ -48,12 +50,9 @@ tags:
 - Agile Strategy
 - Agile Values and Principles
 - Organisational Change
+- Value Delivery
 - Agile Transformation
 - Market Adaptability
-- Experimentation
-- Software Development
-- Business Agility
-- Evidence Based Leadership
 
 ---
 Empirical Process Control is a foundational concept that emphasises decision-making based on observation and experimentation rather than assumptions. It is integral to Agile, Lean, and DevOps methodologies, enabling teams to adapt their processes and outputs through continuous inspection and transparency. By relying on real data and feedback, organisations can identify what works and what doesn’t, fostering a culture of learning and improvement.

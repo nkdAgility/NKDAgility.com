@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 1000
+weight: 385
 description: Maximise team alignment and adaptability with the Daily Scrum. Inspect progress, adapt plans, and ensure focus on the Sprint Goal.
 Instructions: |-
   **Use this category only for discussions on Daily Scrum.**  
@@ -36,8 +36,23 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:05:38
 concepts:
 - Practice
-categories: []
-tags: []
+categories:
+- Scrum
+- Product Development
+- Technical Leadership
+tags:
+- Social Technologies
+- Team Collaboration
+- Software Development
+- Organisational Agility
+- Agile Frameworks
+- Operational Practices
+- Self Organisation
+- Empirical Process Control
+- Team Performance
+- Agile Planning
+- Common Goals
+- Professional Scrum
 
 ---
 The Daily Scrum is a vital practice within the Scrum framework, designed to enhance team alignment and adaptability. This short, time-boxed meeting, typically lasting 15 minutes, allows team members to synchronise their efforts, inspect progress towards the Sprint Goal, and adapt their plans accordingly. Each participant shares what they accomplished since the last meeting, what they plan to do next, and any obstacles they face. This structured yet flexible approach fosters transparency and accountability, enabling teams to respond swiftly to changes and challenges.

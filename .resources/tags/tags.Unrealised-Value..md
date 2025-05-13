@@ -2,7 +2,7 @@
 title: Unrealised Value
 abstract: Unrealised Value refers to the potential value that an organisation has yet to capture, highlighting opportunities for improvement and innovation. It encompasses various indicators that assess untapped possibilities, such as latent market demand or areas ripe for enhancement. By focusing on Unrealised Value, teams can identify opportunities to optimise processes, innovate products, or better meet customer needs, ultimately leading to increased competitiveness and sustainability. This concept is crucial for enabling teams to deliver value predictably and sustainably, as it promotes a proactive approach to recognising and addressing gaps in performance and capability. Systematically measuring and analysing Unrealised Value fosters a culture of continuous improvement, motivating teams to explore new ideas and solutions. This long-term focus not only enhances current operations but also positions organisations to adapt to changing market conditions and customer expectations. Understanding Unrealised Value empowers teams to make informed decisions about resource allocation, ensuring they are strategically planning for future growth and success rather than merely reacting to immediate challenges. This perspective shifts the focus from delivering current value to actively seeking and realising potential value, which is essential for thriving in today’s dynamic business landscape.
 date: 2025-04-10T14:19:46Z
-weight: 790
+weight: 480
 ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
@@ -37,17 +37,22 @@ concepts:
 - Capability
 categories:
 - Product Management
+- Product Development
 tags:
 - Evidence Based Management
 - Metrics and Learning
 - Evidence Based Leadership
 - Continuous Improvement
 - Value Delivery
+- Strategic Goals
 - Product Strategy
 - Business Agility
+- Decision Making
 - Agile Strategy
 - Operational Practices
 - Social Technologies
+- Professional Scrum
+- Organisational Agility
 
 ---
 Unrealised Value refers to the potential value that an organisation has yet to capture, highlighting opportunities for improvement and innovation. It encompasses a range of indicators that assess untapped possibilities, such as latent market demand or areas ripe for enhancement. By focusing on Unrealised Value, teams can identify where they can optimise processes, innovate products, or better meet customer needs, ultimately leading to increased competitiveness and sustainability.

@@ -5,7 +5,7 @@ ClassificationType: categories
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
-weight: 705
+weight: 420
 description: A strategy focused on maximising value while minimising waste, originating from the Toyota Production System.
 Instructions: |-
   **Use this category only for discussions on Lean.**  

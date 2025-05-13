@@ -5,7 +5,7 @@ ClassificationType: categories
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 1000
+weight: 90
 description: Guiding development teams with technical expertise and agile best practices.
 Instructions: |-
   **Use this category only for discussions on Technical Leadership.**  

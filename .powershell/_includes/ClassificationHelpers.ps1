@@ -420,14 +420,20 @@ function Get-PromptsForHugoMarkdown {
     $CatalogItemsToRefreshOrGet = Get-CatalogItemsToRefreshOrGet -cachedData $cachedData -Catalog $catalog -CatalogFromCache $CatalogFromCache
     $prompts = @()
     foreach ($category in $CatalogItemsToRefreshOrGet) {
-        $promptText = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
-            resourceId   = $hugoMarkdown.FrontMatter.ResourceId
-            category     = $category
-            Instructions = $Catalog[$category].Instructions
-            title        = $hugoMarkdown.FrontMatter.Title
-            abstract     = $hugoMarkdown.FrontMatter.Description
-            content      = $hugoMarkdown.BodyContent
+        try {
+            $promptText = Get-Prompt -PromptName "classification-analysis.md" -Parameters @{
+                resourceId   = $hugoMarkdown.FrontMatter.ResourceId
+                category     = $category
+                Instructions = $Catalog[$category].Instructions
+                title        = $hugoMarkdown.FrontMatter.Title
+                abstract     = $hugoMarkdown.FrontMatter.Description
+                content      = $hugoMarkdown.BodyContent
+            }
         }
+        catch {
+            Write-ErrorLog "Error processing category {category}: {message}" -PropertyValues $category, $_.Message
+        }
+        
 
         $tokenEstimate = Get-TokenCountFromServer -Content $promptText
 

@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 660
+weight: 390
 description: Platforms that remove friction in communication and coordination, supporting Agile teams.
 Instructions: |-
   **Use this category only for discussions on Collaboration Tools.**  
@@ -33,15 +33,18 @@ sitemap:
 BodyContentGenDate: 2025-04-09T17:16:29
 concepts:
 - Tool
-categories: []
+categories:
+- Product Development
 tags:
 - Social Technologies
 - Team Collaboration
 - Sociotechnical Systems
 - Business Agility
 - Transparency
+- Pragmatic Thinking
 - Organisational Agility
 - Market Adaptability
+- Value Delivery
 - Continuous Learning
 
 ---

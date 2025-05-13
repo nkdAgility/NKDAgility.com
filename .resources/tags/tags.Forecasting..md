@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 1000
+weight: 205
 description: Enhance forecasting in Agile and Scrum. Use empirical data to predict delivery timelines, manage risk, and optimise value delivery.
 Instructions: |-
   **Use this category only for discussions on Forecasting.**  
@@ -37,20 +37,22 @@ concepts:
 categories:
 - Product Development
 - Product Management
+- Engineering Excellence
 tags:
+- Organisational Agility
 - Agile Planning
 - Metrics and Learning
 - Operational Practices
 - Team Performance
+- Product Delivery
+- Software Development
 - Market Adaptability
 - Empirical Process Control
 - Pragmatic Thinking
 - Value Delivery
 - Social Technologies
 - Agile Product Management
-- Agile Strategy
-- Continuous Improvement
-- Agile Frameworks
+- Project Management
 
 ---
 Forecasting is the practice of using empirical data to predict delivery timelines, manage risks, and optimise value delivery within Agile and Scrum frameworks. It enables teams to make informed decisions based on historical performance and current capacity, allowing for a more predictable and sustainable approach to product development. By analysing metrics such as cycle time, lead time, and throughput, teams can identify trends and adjust their strategies accordingly, ensuring that they meet stakeholder expectations and deliver value consistently.

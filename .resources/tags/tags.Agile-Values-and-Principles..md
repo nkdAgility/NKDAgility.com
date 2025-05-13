@@ -36,12 +36,14 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:32:01
 concepts:
-- Value
+- Capability
 categories:
 - Product Development
 - Technical Leadership
 tags:
 - Agile Philosophy
+- Agile Strategy
+- Agile Transformation
 - Social Technologies
 - Software Development
 - Continuous Improvement
