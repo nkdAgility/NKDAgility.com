@@ -16,271 +16,215 @@ headline:
   content: Imagine evolving your organization with highly effective teams that not only boost productivity but also create lasting value. With the right external support, clear goals, and continuous feedback loops, these teams will innovate, adapt, and deliver outstanding results. Consistently. Effectively.
 ---
 
-# Overview of our Terms
+We offer outcome-focused consulting services delivered through a timeboxed retainer model. Rather than buying hours, you retain a percentage of our capacity to co-create meaningful outcomes. We focus on helping you evolve your system of work—not just deliver tasks. If you're not satisfied, we refund your fee.
 
-The rates, terms, and conditions that naked Agility Ltd. are proud to operate by…
+We are transparent, collaborative, and committed to protecting your confidentiality. We will sign any reasonable NDA, and any intellectual property created specifically for you remains yours.
 
-Thanks for choosing naked Agility Ltd. Our mission is to delight our customers with our knowledge, expertise, and professionalism in delivering onsite consulting and training. Our private consulting and training are provided online using Microsoft Teams and Mural and are governed by our consulting Terms of Business described here. Onsite is also available at an additional cost.
+## Our business model
 
-If you are looking for our approach to engaging, then please see [our capabilities(https://nkdagility.com/capabilities).
+We work on a **timeboxed retainer** basis. You retain a percentage of our working time—typically 10% or 33%—and we spend the time required within that limit to deliver valuable outcomes. There is **no fixed scope**, and **no change orders**—just a shared commitment to evolving your system of work.
 
-## Try Before You Buy
+- **You control the pace** and can reschedule within the agreed timeframe.
+- **We collaborate continuously**, providing as much or as little direction as needed.
+- If you’re not satisfied with our work, **we’ll refund you—no questions asked**.
 
-We are so confident that you will want to retain our consulting services that our initial first-day consultation rate will only be charged if you retain our services. Minimizing your risk is very important to us, so for all virtual engagements (and in-person engagements greater than 5 days), we allow you to cancel after the first day if you feel we are incompatible with your organization. We can call it quits at that point, and only T&E would be due.
+You’re not buying hours; you’re securing access to strategic, sustained progress over time.
 
-Prices are variable based on the commitment length and agreements around travel, expenses, & training. They are for illustrative purposes only and are valid through June 30 of the current financial year.
+### Service Scope & Change Flexibility
 
-### TL;DR:
+We don’t fix scope up front. We work within the constraints of the retainer and adapt continuously based on evolving needs.
 
-- **Rates**: All rates are subject to commercial considerations and are exclusive of Travel, Expenses, & local Tax if applicable.
-- **Long engagements**: 2.5% drop after six months and 5% after 12 months.
-- **Onsite Fee**: An additional fee is charged for Onsite Consulting and Training. This is calculated based on the number of expected travel days and is charged at the prevailing consulting or training rate.
-- **IP**: All rates exclude IP ownership for software, documentation, and materials.
-- **IR-35 (UK Only)**: We do not operate under IR-35. Commercial policies that may put us at risk of IR-35 will have an additional fee of 40% to cover the risks.
-- **Per Student Training**: Additional per-student costs apply depending on the training.
-- **Purchasing Power**: To be fair to all regions, we offer discounted rates to secondary and tertiary.
+- **No change orders.** We don’t treat new discoveries or emerging needs as exceptions.
+- **Responsive to context.** You can pivot, refocus, or pause direction as long as it fits within the retainer capacity.
+- **Collaborative planning.** We’ll inspect and adapt together to ensure we’re always working on what matters most.
 
----
+You get flexibility without micromanagement. We get clarity without red tape.
 
-## Pre-Paid Consulting
+Our services are timeboxed, prepaid, and delivered collaboratively. We are not a body shop. We help you examine and evolve your systems—your ways of working—not just deliver tasks.
 
-We understand that sometimes our customers need shorter-term help. To support this, we offer pre-paid hours in blocks of 7 (at the standard consulting rate above) that can be purchased by the customer. We will add a credit to your account that can be used by contacting naked Agility Ltd and scheduling remote time with one of our consultants. We will always endeavor to respond quickly; however, as we may be on-site with other customers, we may not be able to schedule soon.
+- **No fixed deliverables.** We co-create outcomes within the agreed timebox.
+- **Refund guarantee.** If you’re not satisfied, we refund you.
+- **First-day risk reversal.** If you cancel after day one of a virtual or longer in-person engagement, only T\&E will be due.
+- **Full transparency.** We openly share progress, findings, and risks. You do the same.
 
-Pre-paid consulting of 40 hours or less is due in advance.
+### Shared Responsibilities
 
----
+We succeed together. This means active, open collaboration between your team and ours.
 
-## Supporting the World
+- **You provide access to the right people** – so we can explore context, align on goals, and inspect progress.
+- **We expect regular feedback and conversation** – to keep work aligned and adaptive.
+- **You commit to decisions and follow-through** – outcomes depend on timely action and focus.
+- **We share risks, insights, and discoveries** – transparently and frequently.
 
-To help the world build better software and meet this goal with more outstanding professionalism, reliability, quality, and value, we calculate all of our fees (public and private) based on these country categories.
-
-These categories are based on each country’s average GDP (PPP) per capita.
-
-These categories are automatically applied throughout the site based on your selected country, which is initially chosen automatically, and you can change it. Once the correct billing country is selected in the cart, any corrections will be applied at this time.
-
-You can find the list of categories on [Prices by Country](https://nkdagility.com/#prices).
+When both sides are engaged, we make meaningful change happen.
 
 ---
 
-## Consulting Rate Card
+## Location, Rates, and Onsite
 
-Consulting costs vary depending on the consultant’s experience and do not include local tax or T&E for being on-site.
-
-There is a 2.5% drop for longer engagements after six months and 5% after 12 months.
-
-Prices are variable based on the length of commitment and agreements around travel, & expenses and are for illustrative purposes only.
-
-For onsite, travel time is charged at the applicable day rate.
-
-### Prices start from:
-
-#### United Kingdom (UK)
-
-We calculate prices by country!
-
-| Category                     | Role                | Hourly Rate (GBP) | Level 1    | Level 2    | Level 3    | Level 4    | Level 5    |
-| ---------------------------- | ------------------- | ----------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Agile Consulting & Advisory  | Strategy Consultant | £195/hour         | £1,550/day | £2,170/day | £2,475/day | £2,785/day | £3,095/day |
-| Executive Consultant / Coach |                     | £165/hour         | £1,320/day | £1,850/day | £2,115/day | £2,380/day | £2,640/day |
-| DevOps Consultant / Coach    |                     | £125/hour         | £990/day   | £1,390/day | £1,585/day | £1,785/day | £1,980/day |
-| Agile Consultant / Coach     |                     | £125/hour         | £990/day   | £1,390/day | £1,585/day | £1,785/day | £1,980/day |
-| Scrum Master                 |                     | £95/hour          | £745/day   | £1,040/day | £1,190/day | £1,340/day | £1,485/day |
-
-### Learning
-
-| Role                 | Hourly Rate (GBP) | Level 1    | Level 2    | Level 3    | Level 4    | Level 5    |
-| -------------------- | ----------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Corporate Trainer    | £390/hour         | £3,095/day | £4,335/day | £4,950/day | £5,570/day | £6,190/day |
-| Training Consultant  | £165/hour         | £1,320/day | £1,850/day | £2,115/day | £2,380/day | £2,640/day |
-| Training Coordinator | £65/hour          | £495/day   | £695/day   | £795/day   | £895/day   | £990/day   |
-
-All our consultants & trainers are Level 5, "guru" level, with 15+ years of experience.
+- Most services are delivered **remotely** using Microsoft Teams and Mural.
+- On-site work is available at an additional rate covering travel time, expenses, and disruption.
+- We apply pricing adjustments based on **purchasing power parity**. See [Prices by Country](https://nkdagility.com/#prices).
 
 ---
 
-## Training Rates
+## Terms of Payment
+
+- 50% due upon acceptance; 50% due 15 days after acceptance.
+- A 5% discount is available for full payment upon acceptance.
+- This project is non-cancellable but may be rescheduled without penalty.
+- Satisfaction guaranteed—if standards aren't met, we will refund your fee.
+- Payment is accepted in GBP, USD, EUR, or AUD. [Bank details are provided here](/accounts).
+
+---
+
+## Invoicing, Expenses, and Cancellation
+
+We keep billing simple, clear, and consistent with our ethos: outcome-focused work, full transparency, and flexibility within agreed bounds. We minimise admin overhead, avoid surprises, and work with your finance team to make the process smooth.
+
+### Travel & Expenses
+
+We keep travel lean, fair, and agreed in advance.
+
+- **Actuals, not guesswork** – You’ll only be charged for real, necessary travel costs (flights, transport, lodging). We don’t markup expenses.
+- **Reasonable per diem** – If actual receipts aren’t practical, we charge a flat £35/day to cover incidentals.
+- **Return-home principle** – Our consultants aim to return home on weekends unless the logistics or value of the work make that impractical. We’ll always discuss this openly.
+- **Billed with transparency** – Travel and expenses are invoiced monthly or at the end of the engagement, whichever comes first.
+
+This approach avoids complexity while ensuring you’re never surprised.
+
+### Invoicing
+
+- naked Agility Ltd will issue electronic invoices that exclude taxes. Invoices are generated either upon completion of the engagement or monthly, depending on which occurs first.
+- **VAT (UK only)**: VAT is automatically applied to invoices in the UK.
+- All invoices exclude local taxes unless agreed otherwise. If specific taxes must be represented on the invoice due to local legal requirements, notify us. We will send an updated invoice that reflects any necessary withholdings.
+- Payments are due within 14 days of receiving the invoice (NET14). Following UK government guidelines for late commercial payments, late payments may incur interest at 8% above the bank base rate.
+
+### Retainer Pricing
+
+We don’t charge hourly or daily rates. You shouldn’t need to make a financial decision every time you need our support. These retainer options reflect sustained, strategic engagement. Fees are inclusive of expenses as long as work remains remote.
+
+| Engagement Level | Weekly Retainer | Monthly Retainer | Quarterly Retainer |
+| ---------------- | --------------- | ---------------- | ------------------ |
+| **2.75%**        | £567            | £1,192           | £2,470             |
+| **33%**          | £6,800          | £14,300          | £29,500            |
+| **66%**          | £13,600         | £28,600          | £59,000            |
+
+These fees do **not include training**, however, the **quarterly retainer** includes a 40% discount on training.
+
+### Training Class Pricing
+
+We publish our training class pricing for transparency. All prices below are in GBP and exclusive of VAT:
+
+| Level        | 12 Students | 16 Students | 20 Students | 24 Students | Public Rate |
+| ------------ | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Beginner     | £10,800     | £12,060     | £13,410     | £14,850     | £705        |
+| Intermediate | £13,165     | £14,425     | £15,775     | £17,215     | £845        |
+| Advanced     | £15,525     | £16,785     | £18,135     | £19,575     | £985        |
 
 These rates apply to private onsite or virtual training where all participants are from the same company.
 
-Private training costs vary depending on the course being delivered and do not include T&E. An invoice would be provided up-front, and a deposit is required to secure dates. The deposit will be deducted from the final cost + T&E and will be due by the end of the training or the week in which the training occurs, whichever comes first, and unless otherwise agreed, is due upon receipt.
+Private training costs vary depending on the course being delivered and do not include T\&E. An invoice would be provided up-front, and a deposit is required to secure dates. The deposit will be deducted from the final cost + T\&E and will be due by the end of the training or the week in which the training occurs, whichever comes first, and unless otherwise agreed, is due upon receipt.
 
 Prices are variable based on the length of commitment and agreements around travel, expenses, & training and are for illustrative purposes only.
 
 For onsite, travel time is charged at the relevant day rate and is exclusive of Travel & Expenses.
 
----
+Public class pricing reflects the per-person rate.
 
-## Training Rate Card
+### Rates & Discounts
 
-Prices start from:
+- Standard consulting and training rates are published for transparency.
+- A 5% discount is offered for full payment upon acceptance.
+- An additional fee of **40%** applies to UK IR35-risky contracts.
 
-#### United Kingdom (UK)
+### Cancellation Policy
 
-We calculate prices by country!
-
-| Level        | Max Students per Class | Public (GBP) | 12 Students (GBP) | 16 Students (GBP) | 20 Students (GBP) | 24 Students (GBP) |
-| ------------ | ---------------------- | ------------ | ----------------- | ----------------- | ----------------- | ----------------- |
-| Beginner     | 12                     | £10,800      | £12,060           | £13,410           | £14,850           | £705              |
-| Intermediate |                        | £13,165      | £14,425           | £15,775           | £17,215           | £845              |
-| Advanced     |                        | £15,525      | £16,785           | £18,135           | £19,575           | £985              |
-
-All rates are based on a typical 16h of training class. Immersive classes also include an additional 16h of coaching and consulting depending on format.
+- All engagements are non-cancellable, but may be rescheduled without penalty.
+- You are entitled to a full refund if we fail to meet the agreed standard.
 
 ---
 
-## Cancellation Policy
+## Intellectual Property & Confidentiality
 
-- **Notice of Cancellation**: You have the right to cancel or reschedule an engagement without incurring any charges, provided that you give us notice of at least fifteen (15) business days prior to the scheduled date of the engagement.
-- **Cancellation Fees**: If you cancel or reschedule with less than 15 business days' notice but at least 10 business days' notice, a 20% cancellation fee will apply. If less than 10 business days' notice is given, the full engagement price will be due.
+- All proprietary materials created specifically for you during the engagement are **yours**.
+- General content, documents, tools, templates, and training materials remain the property of naked Agility Ltd.
+- **We grant you full rights to use what we deliver.** Use, modify, and apply it however you need internally, but it may not be shared with another company or entity.
+- We may involve trusted subcontractors under our direct supervision. All are bound by the same confidentiality and ethical standards.
+- We are happy to sign your NDA. If you don’t have one, our standard mutual NDA applies:
 
----
-
-When rewriting legal or business terms for better readability, the goal is to maintain clarity, consistency, and structure while simplifying the language where possible. For business terms like invoicing, expenses, and intellectual property rights, a standard format includes clear headings, concise paragraphs, and bullet points where appropriate. The structure should help break complex information into digestible parts.
-
-Here’s the revised version in a more readable format:
-
----
-
-# Invoicing, Expenses, and Cancellation
-
-## Invoicing
-
-- naked Agility Ltd will issue electronic invoices that exclude taxes. Invoices are generated either upon completion of the engagement or monthly, depending on which occurs first.
-- **VAT (UK only)**: For invoices in the UK, VAT is automatically applied.
-- All invoices exclude local taxes unless agreed otherwise. If specific taxes must be represented on the invoice due to local legal requirements, notify us. We will send an updated invoice that reflects any necessary withholdings.
-
-- Payments are due within 14 days of receiving the invoice (NET14). Late payments may incur interest at 8% above the bank base rate, following UK government guidelines for late commercial payments.
+> Each party agrees to keep confidential any information marked as confidential or which would reasonably be considered confidential. Confidential information may be disclosed to employees and subcontractors bound by equivalent confidentiality obligations. Disclosure is permitted when required by law or with prior written consent.
 
 ---
 
-## Travel and Expenses (T&E)
+## Working Environment & Access
 
-- Travel and expenses (T&E) are invoiced either upon completion of the engagement or monthly, depending on which occurs first.
-- Costs for onsite engagements (airfare, lodging, transportation) will be billed as actual expenses. A per diem of £35 GBP per day (or actual expenses) will be charged.
-- While we strive to minimize T&E, our consultants typically expect to return home on weekends. This may not always be feasible for engagements outside of Europe, especially for long-term engagements.
+We work securely, independently, and with only the access needed to deliver outcomes.
 
-**Note**: It may be more cost-effective for clients to book travel and accommodations.
+- **We bring our own gear** – up-to-date, secured, and encrypted.
+- **We work in the cloud**, primarily Office 365. If collaboration requires access, we’ll let you know.
+- **Minimal client-side access** – only what’s necessary. Credentials are treated as confidential and never reused.
+- **We prefer automation-friendly access, such as API keys and service accounts,** over manual logins.
+- **Revocable and auditable** – you control access and visibility.
+- **We clean up on exit** – credentials are deleted or returned at the end of the engagement.
+- **We don’t rely on client hardware or procurement** – unless agreed otherwise, which may affect estimates.
 
----
-
-# Health and Safety
-
-1. **Compliance with Medical Recommendations**  
-   Naked Agility Ltd is committed to the health and safety of our employees and clients. All participants must adhere to current medical recommendations in the host country, including vaccinations, appropriate attire, and other health and safety measures.
-
-2. **Vaccination Status**  
-   Upon request, we will provide information about our trainers’ or consultants’ vaccination status in line with the client’s country requirements. All necessary requirements will be met before arriving onsite.
-
-3. **Health and Safety Laws**  
-   We comply with all relevant health and safety regulations, including the UK’s Health and Safety at Work Act 1974 and related laws.
-
-4. **Risk Assessment**  
-   We may conduct risk assessments for each engagement to identify potential health risks and to implement mitigation measures.
-
-5. **Client’s Duty of Care**  
-   The client is responsible for ensuring a safe working environment for our consultants onsite, including taking reasonable steps to prevent risks to health and safety.
+This keeps delivery fast, secure, and focused—without unnecessary operational drag.
 
 ---
 
-# Engagement Model
+## Knowledge Sharing & Open Contribution
 
-1. **Privacy and Confidentiality**  
-   We respect the privacy of our clients and handle confidential information in compliance with the Data Protection Act 2018 and GDPR. We will not disclose any confidential information without consent, except as required by law.
+We encourage our consultants to contribute back to the broader community through blog posts, talks, or open-source projects—especially when tackling real-world technical challenges during engagements. However, no client-specific or identifiable information will ever be shared.
 
-2. **Knowledge Sharing**  
-   Our consultants are encouraged to share knowledge through blog posts or contributions to open-source projects, addressing technical challenges and issues they encounter during engagements. However, no client-specific or identifiable information will be shared.
-
-3. **Engagement Owner**  
-   The client will designate an Engagement Owner responsible for providing timely responses and decisions during the engagement. This person should have access to individuals who can assist in resolving questions or issues.
-
-4. **Backlog and Change Management**  
-   We will maintain a backlog of tasks for the engagement. The Engagement Owner can refine the backlog, but any changes may affect the scope, timeline, or fees.
-
-5. **Review of Blog Posts**  
-   Clients can review blog posts before or after publication, depending on preference. Clients are also welcome to contribute guest posts to our blog.
-
-6. **Confidentiality of Client Branding**  
-   We will not use a client’s brand or associated brands in external references or marketing materials without written permission.
-
-7. **Use of AI Technologies**  
-   When using AI tools, such as Microsoft Copilot, we follow responsible AI usage principles. We prioritize accuracy, fairness, and transparency while protecting client confidentiality. We will not share or use client data to train external AI models without consent.
+This approach supports transparency, learning, and the evolution of better practices while fully respecting client confidentiality.
 
 ---
 
-# Cancellation Policy
+## Responsible AI & Agentic Systems
 
-1. **Notice of Cancellation**  
-   You can cancel or reschedule an engagement without penalty if you provide at least 15 business days’ notice before the scheduled date. (Business days exclude weekends and public holidays, and are based on GMT.)
+We use AI tools responsibly to accelerate insight, explore ideas, and support co-creation—but always with human agency and judgment at the centre.
 
-2. **Cancellation Fees**
+- **Human-led, AI-supported** – Any AI used is there to support, not replace, our expertise and accountability.
+- **No client data is used for model training** – Client information is never shared with public AI systems.
+- **You define boundaries** – We follow your data, privacy, and security requirements.
+- **Agentic collaboration** – We use AI to augment sensemaking, decision framing, and option shaping—always under transparent, human control.
 
-   - If cancellation or rescheduling occurs with less than 15 business days' notice but at least 10 business days' notice, a 20% cancellation fee will apply.
-   - For cancellations with less than 10 business days' notice, the full engagement price is due.
-
-3. **No Credit for Cancellation Fees**  
-   Cancellation fees cannot be applied as credit toward future engagements.
-
-4. **Rescheduling Accommodation**  
-   We will do our best to accommodate rescheduling requests, subject to availability and with adequate notice.
+We are committed to ethically sound and practically grounded use of AI in every engagement.
 
 ---
 
-# Consultants' System Access
+## Health, Safety & Duty of Care
 
-1. **Equipment and Software**  
-   Our consultants will use their own up-to-date equipment and software, with appropriate security measures, including antivirus software and encryption.
+We’re committed to safe and respectful collaboration, onsite and online.
 
-2. **Network Access**  
-   The client must provide public network access for our consultants' phones and tablets, and private network access for their laptops.
-
-3. **Office 365**  
-   All work-related files will be stored on Office 365. The client must provide necessary permissions for Office 365 access.
-
-4. **Hardware Replacement**  
-   We may replace consultants' hardware periodically to ensure optimal performance.
-
-5. **Estimates**  
-   Our estimates are based on the assumption that consultants will use their own equipment. If client-specific hardware or software is required, the estimate may change.
+- **We follow medical and safety guidance**, including local regulations on vaccinations, PPE, and working conditions.
+- **We will disclose vaccination status if required**, and meet relevant public health standards before any onsite engagement.
+- **We comply with health and safety laws** – including the UK Health and Safety at Work Act 1974 and similar legislation elsewhere.
+- **We assess risks where appropriate** and work with you to mitigate them.
+- **You provide a safe working environment** – When onsite, the client is responsible for ensuring reasonable physical safety for our team.
 
 ---
 
-# Intellectual Property Rights and Ownership
+## Engagement Duration
 
-1. **Ownership of Work**  
-   All intellectual property created during the engagement remains the exclusive property of Naked Agility Ltd, including software, methodologies, tools, reports, and documentation.
-
-2. **Licence to Use**  
-   Naked Agility Ltd grants the client a perpetual, non-exclusive, non-transferable license to use and modify the work products for internal business purposes. The license does not allow resale, distribution, or commercialization without express written consent.
-
-3. **Consultants' Duties**  
-   Our consultants are either employees or contractors of Naked Agility Ltd and owe their duties to us, not the client.
-
-4. **No Transfer of IP Rights**  
-   This agreement does not transfer any intellectual property rights to the client.
-
-5. **Infringement Notification**  
-   The client must notify Naked Agility Ltd promptly if any infringement or suspected infringement of intellectual property rights occurs.
+Each engagement begins upon written acceptance and initial payment. Unless otherwise agreed, retainers renew monthly or quarterly, depending on the selected plan. Either party may choose not to renew with written notice prior to the next billing period.
 
 ---
 
-# Access to Servers and Service Accounts
+## Limitation of Liability
 
-1. **Grant of Access**  
-   The client agrees to provide Naked Agility Ltd with access to servers and service accounts, including necessary credentials and keys, in a secure and timely manner.
-
-2. **Use of Access**  
-   We will only use access to servers and service accounts for the agreed-upon services, and not for any other purposes without explicit consent.
-
-3. **Confidentiality**  
-   We treat all access information as confidential. It will not be disclosed to third parties unless required by law.
-
-4. **Security Measures**  
-   We use reasonable security measures to protect client servers and service accounts, but cannot guarantee absolute security.
-
-5. **Liability**  
-   Naked Agility Ltd is not liable for any damage or loss resulting from access to client servers unless it is due to our negligence or willful misconduct.
-
-6. **Termination of Access**  
-   Upon completion of services or termination of the agreement, we will cease access to client servers and destroy or return all credentials.
+We carry professional indemnity insurance and expect reasonable limits of liability on both sides. We do not accept liability for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
 
 ---
+
+## Issue Resolution
+
+If an issue arises, we commit to open, respectful dialogue to resolve it quickly. Legal action is always a last resort.
+
+## Final Notes
+
+- All services are governed by the terms on this page.
+- These terms are subject to change. The latest version is always available at [nkdagility.com/terms](https://nkdagility.com/terms).
+
+If you have any questions, contact **[clientservices@nkdagility.com](mailto:clientservices@nkdagility.com)**.

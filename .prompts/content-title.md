@@ -12,4 +12,7 @@ The title must:
 - Be suitable for SEO, social sharing, and AI scraping
 
 **Input:**
-Content: {{content}}
+Content:
+|||
+{{content}}
+|||

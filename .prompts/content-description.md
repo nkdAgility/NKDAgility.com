@@ -15,4 +15,7 @@ The description must:
 Input:
 Title: {{title}}
 Abstract: {{abstract}}
-Content: {{content}}
+Content:
+|||
+{{content}}
+|||

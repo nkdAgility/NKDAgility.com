@@ -1,6 +1,6 @@
-You are an expert in SEO writing for structured knowledge systems.
+You are an expert in Generative Experience Optimisation writing for structured knowledge systems.
 
-Given a title and content, generate a concise, SEO-optimised description of no more than 180 characters.
+Given a title and content, generate a concise, GEO-optimised description of no more than 180 characters.
 
 The description should:
 
@@ -14,4 +14,7 @@ The description should:
 Input:
 Title: {{title}}
 Abstract {{abstract}}
-Content: {{content}}
+Content:
+|||
+{{content}}
+|||

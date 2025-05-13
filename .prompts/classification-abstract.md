@@ -14,4 +14,6 @@ Input:
 
 Title: {{title}}
 Content:
+|||
 {{content}}
+|||

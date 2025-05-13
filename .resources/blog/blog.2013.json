@@ -1,0 +1,48 @@
+{
+  "FrontMatter": {
+    "title": "Issue [ TFS 2013 ] You get TF400324 when connecting InRelease to TFS",
+    "description": "Explains how to resolve TF400324 errors when connecting InRelease 3 to TFS 2013, including correct URL usage and a supported PowerShell fix for collection paths.",
+    "ResourceId": "mpyXOBzFWc3",
+    "ResourceType": "blog",
+    "ResourceContentOrigin": "Human",
+    "ResourceImport": true,
+    "ResourceImportId": 9749,
+    "ResourceImportSource": "Wordpress",
+    "ResourceImportOriginalSource": "Wordpress",
+    "date": "2013-07-11",
+    "weight": 840.0,
+    "creator": "Martin Hinshelwood",
+    "layout": "blog",
+    "resourceTypes": "blog",
+    "slug": "issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs",
+    "aliases": [
+      "/resources/blog/issue-tfs-2013-you-get-tf400324-when-connecting-inrelease-to-tfs",
+      "/resources/mpyXOBzFWc3"
+    ],
+    "aliasesArchive": [
+      "/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs",
+      "/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs",
+      "/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs",
+      "/blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs",
+      "/resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs",
+      "/resources/blog/issue-tfs-2013-you-get-tf400324-when-connecting-inrelease-to-tfs"
+    ],
+    "tags": [
+      "Software Development",
+      "Troubleshooting",
+      "Install and Configuration",
+      "System Configuration"
+    ],
+    "categories": [
+      "Uncategorized"
+    ],
+    "preview": "puzzle-issue-problem-128-link-3-3.png",
+    "Watermarks": {
+      "description": "2025-05-13T10:48:27Z"
+    },
+    "concepts": []
+  },
+  "BodyContent": "If you follow the documentation for the new InRelease 3 for Team Foundation Server 2013 “TF400324: Team Foundation Services are not available from server” with a remote server error of 404.\n\n- Update 2013-07-12 Removed Solution #1 as it causes more problems down the line\n- Update 2013-07-12 Added Solution #2 from InCycle but DO NOT do what their documentation suggests or you might end up with an unstable TFS Server.\n- Update 2013-07-12 Added Solution #3 which solves the problem in a supported manor with the TFS API.\n\n![image](images/image12-1-1.png \"image\")  \n{ .post-img }\nFigure: TF400324: Team Foundation Services are not available from server\n\n## Applies to\n\n- InRelease 3\n- Team Foundation Server 2013\n\n## Findings\n\nThis looks  to be a mistake in the documentation for the product. When they say “Enter the URL for the TFS Server” you think that you should enter [http://caprica:8080/tfs](http://caprica:8080/tfs) when in fact you should be entering the full path to the collection that you want to connect to.\n\n## Solution #1\n\nYou need to enter [http://caprica:8080/tfs/\\[collection](http://caprica:8080/tfs/[collection)\\] which you can get by copying it from the web access.\n\n![image](images/image13-2-2.png \"image\")  \n{ .post-img }\nFigure: Use the full collection URL instead of the server\n\nNow when you connect with [http://caprica:8080/tfs/tfs01-scrum/](http://caprica:8080/tfs/tfs01-scrum/) you should not get a 404 any more…\n\n## Solution #2 - Call Support\n\n_Warning Never update the database without explicit instructions from a member of the product team. You will likely end up with an unsupported instance if you much with the database._\n\nAt this time there is no solution for this. The solution provided on the InCycle page listed below will work but it will leave your TFS server in an unsupported state and may result in instabilities in your TFS instance down the road.\n\n- [Connection to TFS does not work with the error message: The request failed with HTTP status 404: Not Found](http://support.inreleasesoftware.com/entries/24792942)\n\nRaise a ticket with MSFT customer services and get your server into a supported state…\n\n## Solution #3 - Use PowerShell to update the TFS registery\n\nI knew that if I worked at this long enough that I would find a solution that does not require that you edit the database. Here is a handy dandy PowerShell script that you can save as Set-DefaultCollection.ps1, double click to copy, and then execute.\n\n```\n Param(\n       [string] $tfscollection\n       )\nAdd-Type -AssemblyName \"Microsoft.TeamFoundation.Client, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\"\nAdd-Type -AssemblyName \"Microsoft.TeamFoundation.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\"\nAdd-Type -AssemblyName \"Microsoft.TeamFoundation, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\"\nif ($tfscollection)\n{\n    #if collection is passed then use it and select all projects\n    $tfs = [Microsoft.TeamFoundation.Client.TfsTeamProjectCollectionFactory]::GetTeamProjectCollection($CollectionUrlParam)\n    $project = $(Read-Host -prompt \"Project\")\n}\nelse\n{\n    #if no collection specified, open project picker to select it via gui\n    $picker = New-Object Microsoft.TeamFoundation.Client.TeamProjectPicker([Microsoft.TeamFoundation.Client.TeamProjectPickerMode]::NoProject, $false)\n    $dialogResult = $picker.ShowDialog()\n    if ($dialogResult -ne \"OK\")\n    {\n        exit\n    }\n    $tfs = $picker.SelectedTeamProjectCollection\n}\ntry\n{\n    $tfs.EnsureAuthenticated()\n}\ncatch\n{\n    Write-Error \"Error occurred trying to connect to project collection: $_ \"\n    exit 1\n}\n$regsvc = $tfs.ConfigurationServer.GetService(\"Microsoft.TeamFoundation.Framework.Client.ITeamFoundationRegistry\");\nWrite-Host \"Setting DefaultCollection to $($tfs.InstanceId)($($tfs.Name)) on $($tfs.ConfigurationServer.Uri)\" -ForegroundColor Yellow\n$regsvc.SetValue(\"/Configuration/DefaultCollection\", $tfs.InstanceId)\n```\n\nThis PowerShell will first ask you to select the collection that you would like to be the default and then apply that to TFS. You should then be able to connect InRelease correctly to TFS.\n\nI still think that this is a silly requirement of the product and at the very least it should ask which collection that you want to be the default and set it for you...\n",
+  "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2013\\2013-07-11-issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs\\index.md",
+  "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\blog\\2013\\2013-07-11-issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs"
+}
