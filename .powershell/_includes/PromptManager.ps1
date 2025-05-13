@@ -19,14 +19,25 @@ function Get-Prompt {
 
     $PromptContent = Get-Content -Path $PromptPath -Raw
 
-    foreach ($Key in $Parameters.Keys) {
-        $Placeholder = "{{${Key}}}"
-        $PromptContent = $PromptContent.Replace($Placeholder, $Parameters[$Key])
+    # Match all {{param}} patterns
+    $Placeholders = [regex]::Matches($PromptContent, "{{\s*([^}]+?)\s*}}")
+
+    foreach ($match in $Placeholders) {
+        $fullMatch = $match.Value                   # e.g., "{{SomeKey}}"
+        $paramName = $match.Groups[1].Value.Trim()  # e.g., "SomeKey"
+
+        # Case-insensitive lookup in the provided $Parameters hashtable
+        $actualKey = $Parameters.Keys | Where-Object { $_ -ieq $paramName } | Select-Object -First 1
+
+        if ($null -ne $actualKey) {
+            $replacement = $Parameters[$actualKey]
+            $placeholder = "{{${Key}}}"
+            $PromptContent = $PromptContent.Replace( $placeholder, $replacement)
+        }
     }
 
-    # Check for any unreplaced parameters like {{...}}
+    # Final check for any unresolved placeholders
     if ($PromptContent -match "{{\s*[^<%][^}]*\s*}}") {
-
         Write-Error "Prompt contains unresolved parameters: $($Matches[0])"
         exit 1
         return $null
