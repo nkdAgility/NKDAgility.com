@@ -33,29 +33,28 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Strategy
+  - Strategy
 categories:
-- Product Development
-- Product Management
-- Lean
+  - Product Development
+  - Product Management
+  - Lean
 tags:
-- Market Adaptability
-- Lean Principles
-- Value Delivery
-- Large Scale Agility
-- Agile Strategy
-- Organisational Agility
-- Enterprise Agility
-- Business Agility
-- Lean Thinking
-- Organisational Change
-- Operational Practices
-- Social Technologies
-- Pragmatic Thinking
-- Organisational Physics
-icon: fa-layer-group-circle-nodes
-
+  - Market Adaptability
+  - Lean Principles
+  - Value Delivery
+  - Large Scale Agility
+  - Agile Strategy
+  - Organisational Agility
+  - Enterprise Agility
+  - Business Agility
+  - Lean Thinking
+  - Organisational Change
+  - Operational Practices
+  - Social Technologies
+  - Pragmatic Thinking
+  - Organisational Physics
 ---
+
 Scaling refers to the ability of an organisation to coordinate multiple teams effectively in order to deliver complex products while maintaining agility. This concept is crucial as it enables organisations to align their efforts, optimise flow, and enhance value delivery across the enterprise. By applying lean principles and adaptive product structures, scaling facilitates a cohesive approach to product development, ensuring that teams can respond swiftly to changing market demands without sacrificing quality or speed.
 
 The significance of scaling lies in its long-term, systemic nature, which fosters an environment where teams can operate autonomously yet remain aligned with overarching business objectives. This alignment is essential for maximising efficiency and minimising waste, allowing organisations to leverage their collective capabilities. Scaling also encourages a culture of continuous improvement, where feedback loops and collaboration are integral to the development process. By focusing on these elements, organisations can achieve sustainable growth and deliver value predictably, ultimately enhancing their competitive edge in a rapidly evolving landscape. The emphasis on flow and value delivery ensures that scaling is not merely about size but about creating a robust framework that supports innovation and responsiveness across all levels of the organisation.

@@ -1,7 +1,12 @@
 ---
 title: Scrum
+abstract: Scrum is a framework and social technology designed to facilitate the delivery of adaptive solutions in complex environments, grounded in the principles of empiricism, which emphasises transparency, inspection, and adaptation. Originating from the need to manage complex projects effectively, Scrum enables teams to work collaboratively and self-organise to tackle intricate problems while delivering high-value products iteratively and incrementally. Its significance lies in its structured approach to product development, which fosters continuous improvement and value-based prioritisation through defined roles, events, and artifacts. The framework encourages commitment, focus, openness, respect, and courage among team members, promoting a culture of collaboration and accountability. Scrum's iterative development process, characterised by time-boxed sprints, allows teams to produce potentially releasable increments of work regularly, optimising predictability and minimising risks. As organisations increasingly adopt agile methodologies and DevOps practices, Scrum's principles and practices become invaluable for enhancing team dynamics, improving product quality, and responding swiftly to changing market demands, ultimately driving organisational success in a fast-paced environment.
+ClassificationType: categories
+ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-03-04T10:00:00
+icon: fa-sync-alt
+weight: 470
 ResourceId: peNS32Lw-sn
 aliases:
 - /resources/methods/scrum-framework/
