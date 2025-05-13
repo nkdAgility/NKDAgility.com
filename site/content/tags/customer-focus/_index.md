@@ -5,10 +5,47 @@ description: Deliver what matters. Shape systems and decisions around customer o
 abstract: Customer Focus is not a platitude. It's the first principle of agile delivery and product development. It defines value, directs investment, and constrains decisions. If you're not anchored in real customer outcomes, you're optimising the wrong system. This principle demands more than empathy. It demands feedback, evidence, and relentless alignment to customer need.
 date: 2025-05-13T09:00:00
 aliases:
-  - /principles/customer-focus/
-  - /resources/p1bdjnIJDmW
----
+- /principles/customer-focus/
+- /resources/p1bdjnIJDmW
+trustpilot: false
+ClassificationType: tags
+Instructions: |-
+  Use this category only for discussions on Customer Focus.
 
+  **Scope and Purpose:**  
+  This category encompasses the principles, practices, and philosophies that ensure all aspects of agile, DevOps, and modern product development are anchored in delivering measurable value to customers. Customer Focus is defined by a relentless commitment to understanding, validating, and responding to real customer needs and outcomes, as opposed to internal metrics, assumptions, or opinions. It is foundational to agile delivery, guiding strategy, investment, and decision-making to maximise customer value.
+
+  **Key Topics:**  
+  - Defining and measuring value from the customer’s perspective  
+  - Establishing and maintaining feedback loops with real users, especially in production environments  
+  - Prioritising work (e.g., backlog items, features, goals) based on validated customer needs and outcomes  
+  - Using evidence (e.g., telemetry, analytics, customer feedback) to inform decisions and measure impact  
+  - Aligning product strategy, delivery cadence, and team objectives to customer outcomes rather than internal efficiency metrics  
+  - Incorporating customer insights into reviews, planning, and continuous improvement  
+  - Ensuring that all delivery efforts are evaluated by their effect on customer behaviour and satisfaction
+
+  **Strict Exclusions:**  
+  - Discussions focused solely on internal process optimisation, team velocity, or engineering throughput without direct linkage to customer value  
+  - General statements about “customer centricity” or empathy that lack actionable practices or evidence-based alignment  
+  - Content that equates customer focus with stakeholder management, sales, or marketing activities unrelated to product delivery  
+  - Misinterpretations that treat customer focus as a superficial or secondary concern rather than the primary driver of value in agile and DevOps contexts
+
+  Only classify content here if it explicitly addresses how customer outcomes are defined, measured, and used to drive all aspects of product development and delivery, in alignment with original agile, lean, and DevOps philosophies.
+headline:
+  cards: []
+  title: Customer Focus (CF)
+  subtitle: Centres on delivering measurable value by aligning decisions, priorities, and feedback loops to real customer needs and outcomes across all stages of product delivery.
+  content: Emphasises delivering measurable value by aligning product decisions, feedback loops, and prioritisation with genuine user needs and outcomes. Explores evidence-driven validation, outcome-oriented planning, and continuous learning to ensure work impacts real customer behaviour, drawing on principles from product development, systems thinking, and empirical management.
+  updated: 2025-05-13T10:26:05Z
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+concepts: []
+categories: []
+tags: []
+weight: 1000
+
+---
 Customer Focus is the lens through which all meaningful delivery is measured. It's not about opinions. It's about outcomes. If your product doesn't change customer behaviour, it doesn’t matter how elegant the code is or how smooth the deployment was.
 
 Customer Focus drives:
