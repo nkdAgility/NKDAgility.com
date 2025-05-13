@@ -97,7 +97,7 @@
                 {{ $sorted := sort $tags "page.Weight" "asc" }}
                 {{ range first 20 $sorted }}
                   <div class="d-flex align-items-center">
-                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .name }}"> {{ if .Page.Params.icon }}<i class="{{ if .Page.Params.iconType }}{{ .Page.Params.iconType }}{{ else }}fa-regular{{ end }} {{ .Page.Params.icon }}"></i>{{ end }} <a href="{{ .page.Permalink }}" title="{{ .page.Title }} - {{ .page.Description }}">{{ .page.Title }}</a> </span>
+                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .name }}"> {{ if .page.Params.icon }}<i class="{{ if .page.Params.iconType }}{{ .page.Params.iconType }}{{ else }}fa-regular{{ end }} {{ .page.Params.icon }}"></i>{{ end }} <a href="{{ .page.Permalink }}" title="{{ .page.Title }} - {{ .page.Description }}">{{ .page.Title }}</a> </span>
                     <span class="ms-1">({{ .count }})</span>
                   </div>
                 {{ end }}
