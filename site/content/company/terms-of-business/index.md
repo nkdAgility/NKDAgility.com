@@ -107,14 +107,16 @@ This approach avoids complexity while ensuring you’re never surprised.
 
 ### Engagement Rates
 
-We don’t charge hourly or daily rates. You shouldn’t need to make a financial decision every time you need our support. These retainer options reflect sustained, strategic engagement. Fees are inclusive of expenses as long as work remains remote.
+We don’t charge hourly or daily rates. You shouldn’t need to make a financial decision every time you need support. You’re not buying time, you’re retaining access to strategic partnership. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time. Fees are all-inclusive for remote work.
 
 {{< table "table table-striped table-bordered" >}}
-| Engagement Level | Weekly Retainer | Monthly Retainer | Quarterly Retainer |
-| ---------------- | --------------- | ---------------- | ------------------ |
-| **2.75%** | £567 | £1,192 | £2,470 |
-| **33%** | £6,800 | £14,300 | £29,500 |
-| **66%** | £13,600 | £28,600 | £59,000 |
+| **Engagement Level** | **% of Capacity** | **Hours/Week** | **Typical Involvement** | **Weekly Retainer** | **Monthly Retainer** | **Quarterly Retainer** |
+| -------------------- | ----------------- | --------------------- | ------------------------------------------------------- | ------------------- | -------------------- | ---------------------- |
+| **Advisory** | 5% | \~1–2 hrs/week | Strategic input, async feedback, monthly check-ins | £567 | £1,192 | £2,470 |
+| **Embedded** | 25% | \~1 day/week | Reviews, pairing, shaping delivery and direction | £6,800 | £14,300 | £29,500 |
+| **Integrated** | 50% | \~2 days/week | Co-creation, deep collaboration, stakeholder engagement | £13,600 | £28,600 | £59,000 |
+| **Fractional Exec** | 75% | \~3 days/week (circa) | Leadership support, transformation ownership | _On request_ | _On request_ | _On request_ |
+| **Full-time** | 100% | \~4 days/week (circa) | Equivalent to full-time hire, not offered as retainer | _Not offered_ | _Not offered_ | _Not offered_ |
 {{< /table >}}
 
 These fees do **not include training**, however, the **quarterly retainer** includes a 40% discount on training.
