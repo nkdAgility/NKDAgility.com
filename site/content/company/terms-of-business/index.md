@@ -1,6 +1,7 @@
 ---
 title: Terms of Business
 description: Terms of Business for the services provided by the company.
+trustpilot: false
 menus:
   footer:
     - params:
@@ -58,16 +59,6 @@ We succeed together. This means active, open collaboration between your team and
 
 When both sides are engaged, we make meaningful change happen.
 
----
-
-## Location, Rates, and Onsite
-
-- Most services are delivered **remotely** using Microsoft Teams and Mural.
-- On-site work is available at an additional rate covering travel time, expenses, and disruption.
-- We apply pricing adjustments based on **purchasing power parity**. See [Prices by Country](https://nkdagility.com/#prices).
-
----
-
 ## Terms of Payment
 
 - 50% due upon acceptance; 50% due 15 days after acceptance.
@@ -76,9 +67,23 @@ When both sides are engaged, we make meaningful change happen.
 - Satisfaction guaranteed—if standards aren't met, we will refund your fee.
 - Payment is accepted in GBP, USD, EUR, or AUD. [Bank details are provided here](/accounts).
 
----
+## Intellectual Property & Confidentiality
 
-## Invoicing, Expenses, and Cancellation
+- All proprietary materials created specifically for you during the engagement are **yours**.
+- General content, documents, tools, templates, and training materials remain the property of naked Agility Ltd.
+- **We grant you full rights to use what we deliver.** Use, modify, and apply it however you need internally, but it may not be shared with another company or entity.
+- We may involve trusted subcontractors under our direct supervision. All are bound by the same confidentiality and ethical standards.
+- We are happy to sign your NDA. If you don’t have one, our standard mutual NDA applies:
+
+> Each party agrees to keep confidential any information marked as confidential or which would reasonably be considered confidential. Confidential information may be disclosed to employees and subcontractors bound by equivalent confidentiality obligations. Disclosure is permitted when required by law or with prior written consent.
+
+## Location, Rates, and Onsite
+
+- Most services are delivered **remotely** using Microsoft Teams and Mural.
+- On-site work is available at an additional rate covering travel time, expenses, and disruption.
+- We apply pricing adjustments based on **purchasing power parity**. See [Prices by Country](https://nkdagility.com/#prices).
+
+## Commercial Terms
 
 We keep billing simple, clear, and consistent with our ethos: outcome-focused work, full transparency, and flexibility within agreed bounds. We minimise admin overhead, avoid surprises, and work with your finance team to make the process smooth.
 
@@ -100,27 +105,31 @@ This approach avoids complexity while ensuring you’re never surprised.
 - All invoices exclude local taxes unless agreed otherwise. If specific taxes must be represented on the invoice due to local legal requirements, notify us. We will send an updated invoice that reflects any necessary withholdings.
 - Payments are due within 14 days of receiving the invoice (NET14). Following UK government guidelines for late commercial payments, late payments may incur interest at 8% above the bank base rate.
 
-### Retainer Pricing
+### Engagement Rates
 
 We don’t charge hourly or daily rates. You shouldn’t need to make a financial decision every time you need our support. These retainer options reflect sustained, strategic engagement. Fees are inclusive of expenses as long as work remains remote.
 
+{{< table "table table-striped table-bordered" >}}
 | Engagement Level | Weekly Retainer | Monthly Retainer | Quarterly Retainer |
 | ---------------- | --------------- | ---------------- | ------------------ |
-| **2.75%**        | £567            | £1,192           | £2,470             |
-| **33%**          | £6,800          | £14,300          | £29,500            |
-| **66%**          | £13,600         | £28,600          | £59,000            |
+| **2.75%** | £567 | £1,192 | £2,470 |
+| **33%** | £6,800 | £14,300 | £29,500 |
+| **66%** | £13,600 | £28,600 | £59,000 |
+{{< /table >}}
 
 These fees do **not include training**, however, the **quarterly retainer** includes a 40% discount on training.
 
-### Training Class Pricing
+### Training Rates
 
 We publish our training class pricing for transparency. All prices below are in GBP and exclusive of VAT:
 
-| Level        | 12 Students | 16 Students | 20 Students | 24 Students | Public Rate |
+{{< table "table table-striped table-bordered" >}}
+| Level | 12 Students | 16 Students | 20 Students | 24 Students | Public Rate |
 | ------------ | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Beginner     | £10,800     | £12,060     | £13,410     | £14,850     | £705        |
-| Intermediate | £13,165     | £14,425     | £15,775     | £17,215     | £845        |
-| Advanced     | £15,525     | £16,785     | £18,135     | £19,575     | £985        |
+| Beginner | £10,800 | £12,060 | £13,410 | £14,850 | £705 |
+| Intermediate | £13,165 | £14,425 | £15,775 | £17,215 | £845 |
+| Advanced | £15,525 | £16,785 | £18,135 | £19,575 | £985 |
+{{< /table >}}
 
 These rates apply to private onsite or virtual training where all participants are from the same company.
 
@@ -143,20 +152,6 @@ Public class pricing reflects the per-person rate.
 - All engagements are non-cancellable, but may be rescheduled without penalty.
 - You are entitled to a full refund if we fail to meet the agreed standard.
 
----
-
-## Intellectual Property & Confidentiality
-
-- All proprietary materials created specifically for you during the engagement are **yours**.
-- General content, documents, tools, templates, and training materials remain the property of naked Agility Ltd.
-- **We grant you full rights to use what we deliver.** Use, modify, and apply it however you need internally, but it may not be shared with another company or entity.
-- We may involve trusted subcontractors under our direct supervision. All are bound by the same confidentiality and ethical standards.
-- We are happy to sign your NDA. If you don’t have one, our standard mutual NDA applies:
-
-> Each party agrees to keep confidential any information marked as confidential or which would reasonably be considered confidential. Confidential information may be disclosed to employees and subcontractors bound by equivalent confidentiality obligations. Disclosure is permitted when required by law or with prior written consent.
-
----
-
 ## Working Environment & Access
 
 We work securely, independently, and with only the access needed to deliver outcomes.
@@ -171,15 +166,11 @@ We work securely, independently, and with only the access needed to deliver outc
 
 This keeps delivery fast, secure, and focused—without unnecessary operational drag.
 
----
-
 ## Knowledge Sharing & Open Contribution
 
 We encourage our consultants to contribute back to the broader community through blog posts, talks, or open-source projects—especially when tackling real-world technical challenges during engagements. However, no client-specific or identifiable information will ever be shared.
 
 This approach supports transparency, learning, and the evolution of better practices while fully respecting client confidentiality.
-
----
 
 ## Responsible AI & Agentic Systems
 
@@ -192,8 +183,6 @@ We use AI tools responsibly to accelerate insight, explore ideas, and support co
 
 We are committed to ethically sound and practically grounded use of AI in every engagement.
 
----
-
 ## Health, Safety & Duty of Care
 
 We’re committed to safe and respectful collaboration, onsite and online.
@@ -204,19 +193,13 @@ We’re committed to safe and respectful collaboration, onsite and online.
 - **We assess risks where appropriate** and work with you to mitigate them.
 - **You provide a safe working environment** – When onsite, the client is responsible for ensuring reasonable physical safety for our team.
 
----
-
 ## Engagement Duration
 
 Each engagement begins upon written acceptance and initial payment. Unless otherwise agreed, retainers renew monthly or quarterly, depending on the selected plan. Either party may choose not to renew with written notice prior to the next billing period.
 
----
-
 ## Limitation of Liability
 
 We carry professional indemnity insurance and expect reasonable limits of liability on both sides. We do not accept liability for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
-
----
 
 ## Issue Resolution
 
