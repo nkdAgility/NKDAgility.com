@@ -1,6 +1,6 @@
 ---
 title: You are doing Scrum but the Scrum Master tells the team what to do!
-description: Discover why a Scrum Master shouldn't dictate tasks to the team. Empower self-organization and enhance accountability for better project outcomes.
+description: Explains why Scrum Masters should not direct teams, emphasising self-organisation, shared responsibility, and the importance of team autonomy in Scrum practices.
 ResourceId: 5WdN6qGylV8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -41,6 +41,10 @@ categories:
 - Scrum
 - Technical Leadership
 preview: nakedalm-experts-professional-scrum-1-1.png
+Watermarks:
+  description: 2025-05-13T15:10:13Z
+concepts:
+- Accountability
 
 ---
 If you are doing Scrum but the Scrum Master tells the team what to do then you may be missing the point.

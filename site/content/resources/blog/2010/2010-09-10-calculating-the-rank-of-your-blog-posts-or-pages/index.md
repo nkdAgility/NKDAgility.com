@@ -1,6 +1,6 @@
 ---
 title: Calculating the Rank of your blog posts or pages
-description: Discover how to rank your blog posts using an innovative algorithm that leverages social media metrics and Google Page Rank to enhance content visibility.
+description: Explains how to calculate and rank blog posts or pages using data like comments, social shares, and Google PageRank to identify popular or underperforming content.
 ResourceId: DrHRcRNSIRX
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-11-11.png
+Watermarks:
+  description: 2025-05-13T15:11:32Z
+concepts: []
 
 ---
 ![WeeManWithQuestions](images/e72c59b050ae_D1D8-WeeManWithQuestions_-9-9.png)I had an idea to have blog posts, or Rules listed not in date order, or an arbitrary order, but in some sort of calculated order. For this I would need to get data from somewhere and I fancied using; Number of Comments, Number of Trackbacks, Reddit, Digg, FriendFeed Twitter and Google Page rank. In this sample I use the term Rangler as a cross between Wrangler and Rank, but they are really Data Collectors.

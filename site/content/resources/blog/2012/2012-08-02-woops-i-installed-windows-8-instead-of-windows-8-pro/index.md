@@ -1,6 +1,6 @@
 ---
 title: Woops I installed Windows 8 instead of Windows 8 Pro!
-description: Accidentally installed Windows 8 instead of Pro? Discover how to upgrade easily without reinstalling and access all the essential features you need!
+description: Explains how to identify if you installed Windows 8 instead of Windows 8 Pro, the missing features, and how to upgrade to Pro without reinstalling the system.
 ResourceId: smxSz0q9Dlk
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 preview: nakedalm-windows-logo-7-7.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:08:28Z
+concepts: []
 
 ---
 After installing Windows 8 I tried to do a couple of things that I normally do to set up my computer.

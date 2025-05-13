@@ -1,6 +1,6 @@
 ---
 title: Enabling Google Plus Profiles for Google Apps users in under 2 minutes
-description: Learn how to enable Google+ profiles for Google Apps users in just 2 minutes. Follow our simple steps to unlock new features and enhance your experience!
+description: Step-by-step guide to quickly enable Google+ profiles for Google Apps users, including accessing admin settings and activating the service for your domain.
 ResourceId: iTuGd858pI6
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-logo-128-link-2-2.png
+Watermarks:
+  description: 2025-05-13T15:09:58Z
+concepts: []
 
 ---
 It is finally here… just a short time ago Google enabled the ability to have Google Profiles and by extension Google+ on your customer Google Apps domain. However, you first need to enable it before you can use it.

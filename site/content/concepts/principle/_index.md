@@ -4,6 +4,7 @@ abstract: A principle is a fundamental, actionable belief or guiding rule that s
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+icon: fa-balance-scale
 weight: 565
 trustpilot: false
 description: A principle is a fundamental, actionable belief or guiding rule that shapes decision-making and team behaviour in an organisation.
@@ -34,8 +35,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
-
 ---
+
 A **principle** is a **fundamental, actionable belief** or **guiding rule** that shapes decision-making and behaviour within an organisation. It serves as a **framework for action**, ensuring that teams know **how to approach** their work in alignment with the organisation’s broader goals and values.
 
 Principles provide **clarity** in dynamic environments. They are not abstract ideals but **actionable** guides that teams rely on to navigate complexity and uncertainty. For example, the principle of **Empiricism** encourages teams to make decisions based on **evidence** and **experience**, helping to ensure that choices are grounded in real-world data rather than assumptions. Similarly, the principle of **Self-Management** enables teams to organise themselves, take ownership of their work, and make decisions autonomously, which fosters empowerment and accountability.

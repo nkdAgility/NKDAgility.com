@@ -41,8 +41,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:14:28Z
-concepts:
-- Values
+concepts: []
 
 ---
 Agile exists to address the idea that no predetermined set of steps will lead to a predefined outcome. The problem has never been solved, nor has the solution ever been created, so you don’t know what you don’t know. No formula is going to guarantee a desired outcome.

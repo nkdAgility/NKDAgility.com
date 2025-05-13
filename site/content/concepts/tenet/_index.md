@@ -4,6 +4,7 @@ abstract: A tenet is a specific, actionable guiding rule or doctrine that reinfo
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+icon: fa-lightbulb
 weight: 480
 trustpilot: false
 description: A tenet is a specific guiding rule or doctrine that reinforces a broader philosophy, offering clear direction for decision-making and team behaviour.
@@ -34,8 +35,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
-
 ---
+
 A **tenet** is a **specific, actionable guiding rule** or **doctrine** that reinforces a larger philosophy within an organisation. Unlike **values**, which express what is important to an organisation, or **principles**, which provide broad guidance, tenets are **prescriptive** and define **how** teams should act in specific situations.
 
 For example, in **Kanban**, the tenet “**Flow efficiency over resource efficiency**” directs teams to prioritise smooth, continuous workflow rather than simply maximising resource utilisation. This tenet translates the philosophy of **flow** into actionable behaviour—guiding teams on how to improve operational efficiency and value delivery.

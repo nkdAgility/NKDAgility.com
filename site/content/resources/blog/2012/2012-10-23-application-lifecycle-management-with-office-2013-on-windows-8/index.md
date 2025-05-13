@@ -1,6 +1,6 @@
 ---
 title: Application lifecycle management with Office 2013 on Windows 8
-description: Explore how Office 2013 enhances application lifecycle management on Windows 8, offering powerful tools for collaboration, reporting, and seamless integration.
+description: Explores how Office 2013 on Windows 8 supports application lifecycle management, highlighting touch features, easy installation, and ALM uses for PowerPoint and Excel.
 ResourceId: HS-74Zxqz0l
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-office-128-link-5-5.png
+Watermarks:
+  description: 2025-05-13T15:07:24Z
+concepts: []
 
 ---
 Because of the compatibility with ARM and the new Windows 8 touchscreen experience you would imagine that Office has undergone a rather complete overall and you would be right. With Office 2013 you get a fully touch capable immersive experience that is designed to work well on both the Tablet and the Desktop.

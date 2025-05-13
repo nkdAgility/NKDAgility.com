@@ -1,6 +1,6 @@
 ---
 title: Enable Feedback support for users in Team Foundation Server 2012
-description: Learn how to enable feedback support in Team Foundation Server 2012 with simple configurations and permissions. Enhance user engagement effortlessly!
+description: Learn how to configure email and permissions in Team Foundation Server 2012 to enable user feedback, including group setup and access control for internal and external users.
 ResourceId: 7WxWYWI5PI2
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags:
 - Install and Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:06:23Z
+concepts: []
 
 ---
 The focus of this article is to show you how to easily enable feedback support for users in Team Foundation Server 2012 with a few simple permissions. This works great with Team Foundation Server and even better with Team Foundation Service.

@@ -4,6 +4,7 @@ abstract: An artifact is a formal, inspectable output that signifies work and pr
 ClassificationType: concepts
 ClassificationContentOrigin: human
 date: 2025-03-21T13:59:46Z
+icon: fa-cube
 weight: 385
 trustpilot: false
 description: An artifact is a defined, inspectable representation of work that supports transparency, empirical decision-making, and continuous improvement in agile systems.
@@ -32,8 +33,8 @@ headline:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
-
 ---
+
 An **artifact** is a formal, inspectable output that represents work and progress in a system of delivery. In Agile, Lean, and DevOps contexts, artifacts provide a shared understanding of what is being worked on, what is Done, and what remains. They are not tools or documents, but defined constructs that exist to support transparency, inspection, and adaptation.
 
 In Scrum, there are three core artifacts: the **Product Backlog**, **Sprint Backlog**, and the **Increment**. Each artifact is designed to make key information visible and understandable. The **Definition of Done** further ensures that an Increment meets a standard of quality and completeness.

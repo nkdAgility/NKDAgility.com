@@ -5,6 +5,7 @@ ClassificationType: categories
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:16:54Z
+icon: fa-stream
 weight: 420
 description: A strategy focused on maximising value while minimising waste, originating from the Toyota Production System.
 Instructions: |-
@@ -36,9 +37,9 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:34:47
 concepts:
-- Principle
-
+  - Principle
 ---
+
 Lean is a strategic approach that centres on maximising value while minimising waste, rooted in the principles of the Toyota Production System. It emphasises the importance of delivering customer value through efficient processes, fostering a culture of continuous improvement and respect for people. By systematically identifying and eliminating non-value-adding activities, Lean enables teams to streamline workflows, enhance productivity, and respond swiftly to changing market demands.
 
 This methodology is not merely a set of tools but a mindset that encourages organisations to focus on long-term sustainability and systemic change. Lean practices, such as value stream mapping and flow efficiency, help teams visualise their processes, identify bottlenecks, and optimise resource allocation. This results in predictable delivery of high-quality products and services, ultimately leading to increased customer satisfaction and loyalty.

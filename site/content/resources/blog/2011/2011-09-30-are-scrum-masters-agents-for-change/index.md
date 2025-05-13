@@ -1,6 +1,6 @@
 ---
 title: Are Scrum Masters agents for change?
-description: Explore how Scrum Masters drive change in organizations. Learn the importance of effective Scrum implementation and the value of Professional Scrum Master training.
+description: Explores the role of Scrum Masters in driving organisational change, effective Scrum adoption, and the importance of experience in leading successful agile transformations.
 ResourceId: d3jujAd6f6r
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-6-6.png
+Watermarks:
+  description: 2025-05-13T15:10:06Z
+concepts: []
 
 ---
 ![nwc_logo_tagline](images/nwc_logo_tagline3-7-7.png "nwc_logo_tagline")![PSM Logo 2](images/PSM-Logo-2.png "PSM Logo 2")If you are interested in finding out more about Scrum and how to implement it you might be interested in the Professional Scrum Master certification. Think of it not as becoming a “Master” of anything, but just making sure that you are not going to be a danger to those around you.

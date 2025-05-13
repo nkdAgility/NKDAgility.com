@@ -42,8 +42,7 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:36Z
-concepts:
-- Values
+concepts: []
 
 ---
 **Worst agile advice you've ever heard?**

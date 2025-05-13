@@ -1,6 +1,6 @@
 ---
 title: 'TFS Preview - Issue: TF400898 The underlying connection was closed'
-description: Encountering TF400898 in TFS Preview? Discover solutions to the 'underlying connection was closed' issue and ensure smooth file management. Read more!
+description: Explains the TF400898 error in TFS Preview, its causes, troubleshooting steps, and how a bug in the version control subsystem led to file loss and its resolution.
 ResourceId: 0O-R50XIwUP
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-4-4.png
+Watermarks:
+  description: 2025-05-13T15:08:13Z
+concepts: []
 
 ---
 When you try to do a “Get” from TFS Preview you receive a “underlying connection was closed” and often a TF400898.

@@ -1,6 +1,6 @@
 ---
 title: TF200035 Sync error for identity with TFS 2010
-description: Explore the TF200035 sync error in TFS 2010 and discover troubleshooting steps, insights, and workarounds to enhance your identity management experience.
+description: Details troubleshooting a TF200035 sync error in TFS 2010, covering Active Directory issues, machine account permissions, domain compatibility, and possible workarounds.
 ResourceId: gX9PNx9Qnrt
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 - System Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:09:29Z
+concepts: []
 
 ---
 I recently ran into an odd problem at a customer where the local computer accounts of a computer joined to a domain started showing the SID periodically. For those not in the know, this is BAD.

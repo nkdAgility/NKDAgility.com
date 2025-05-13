@@ -4,6 +4,7 @@ abstract: Practice refers to the consistent and repeatable techniques or habits 
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+icon: fa-repeat
 weight: 350
 trustpilot: false
 description: A practice is a commonly used technique, habit, or routine that helps teams consistently achieve goals, improve performance, and enhance collaboration within Agile, DevOps, and Lean environments.
@@ -35,8 +36,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
-
 ---
+
 **Practice** refers to **consistent, repeatable techniques** or habits that teams use to enhance their effectiveness, collaboration, and delivery of value. Unlike **methods**, which are structured approaches with defined steps, practices focus on **habits** that can be incorporated into a team’s regular workflow.
 
 In Agile, Lean, and DevOps environments, practices like **Pair Programming**, **Continuous Deployment**, and **Retrospectives** are foundational. They are not one-time actions but ongoing, **systematic routines** that enable teams to work together efficiently and continually improve.

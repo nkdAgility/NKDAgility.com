@@ -1,6 +1,6 @@
 ---
 title: Announcing Visual Studio 11 Beta will launch on February 29th
-description: Discover the launch of Visual Studio 11 Beta on February 29th! Learn why going live is safe and how Northwest Cadence can support your development journey.
+description: Visual Studio 11 Beta and Team Foundation Server Beta will be available from 29 February, with full Microsoft support for production use and guidance on going live.
 ResourceId: oP62ZJrRzkU
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -23,6 +23,9 @@ aliasesArchive:
 tags: []
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:09:22Z
+concepts: []
 
 ---
 Its that time again where the Visual Studio and team Foundation Server teams are pushing out their next version of their tools, Visual Studio 11. [Steven & Lori Borg](http://nwcadence.com) teamed up to present a video on [why you would want to Go-Live with Visual Studio 11](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/). I used the Go-Live with many companies with the Visual Studio 2010 launch with no problems. Its as safe as a “RTM” product from most other teams.

@@ -46,8 +46,7 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:12:53Z
-concepts:
-- Values
+concepts: []
 
 ---
 Openness in [Scrum]({{< ref "/categories/scrum" >}}): The Key to Trust and [Transparency]({{< ref "/tags/transparency" >}})

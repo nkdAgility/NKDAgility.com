@@ -1,6 +1,6 @@
 ---
 title: What's in a burndown?
-description: Discover the essentials of burndown charts in Agile. Learn how to visualize progress and enhance team communication for successful sprints.
+description: Explains burndown charts in Scrum, their purpose, common issues, and compares tracking by hours, story points, and acceptance tests to improve team progress visibility.
 ResourceId: SdYtGr9X2KV
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: whats-in-a-burndown
 aliases:
-- /resources/SdYtGr9X2KV
 - /resources/blog/what-s-in-a-burndown
+- /resources/SdYtGr9X2KV
 aliasesArchive:
 - /blog/whats-in-a-burndown
 - /whats-in-a-burndown
@@ -35,6 +35,9 @@ tags:
 categories:
 - Scrum
 preview: nakedalm-logo-128-link-1-1.png
+Watermarks:
+  description: 2025-05-13T15:09:10Z
+concepts: []
 
 ---
 I was recently in [Park City, Utah to teach](http://blog.hinshelwood.com/professional-scrum-foundations-in-salt-lake-city-utah/) the [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course and i just got an email from one of the students. As I want to help everyone I will answer here:

@@ -34,6 +34,7 @@ categories:
 - Product Management
 tags:
 - Definition of Done
+- Customer Focus
 - Value Delivery
 - Organisational Agility
 - Product Delivery

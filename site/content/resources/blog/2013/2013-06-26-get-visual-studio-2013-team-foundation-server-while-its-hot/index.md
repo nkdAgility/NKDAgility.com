@@ -1,6 +1,6 @@
 ---
 title: What's new in Visual Studio 2013 Team Foundation Server Preview
-description: Discover the latest features in Visual Studio 2013 Team Foundation Server! Enhance your agile practices with powerful tools for collaboration and testing.
+description: Highlights new features in Visual Studio 2013 Team Foundation Server, including agile portfolio management, enhanced team collaboration, and web-based test management.
 ResourceId: V5OQtr0U1IS
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -15,8 +15,8 @@ layout: blog
 resourceTypes: blog
 slug: get-visual-studio-2013-team-foundation-server-while-its-hot
 aliases:
-- /resources/V5OQtr0U1IS
 - /resources/blog/what-s-new-in-visual-studio-2013-team-foundation-server-preview
+- /resources/V5OQtr0U1IS
 aliasesArchive:
 - /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
 - /get-visual-studio-2013-team-foundation-server-while-its-hot
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-14-14.png
+Watermarks:
+  description: 2025-05-13T15:06:04Z
+concepts: []
 
 ---
 Steve Ballmer just announced the Visual Studio 2013 Go-Live preview at the Build summit not more than an hour ago so get Visual Studio 2013 Team Foundation Server while its hot! Remember that this Preview is covered by a Go-Live licence and is fully supported for production use.

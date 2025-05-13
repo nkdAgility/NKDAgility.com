@@ -35,7 +35,7 @@ tags:
 Watermarks:
   description: 2025-05-07T12:49:04Z
 concepts:
-- Values
+- Ethos
 
 ---
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.

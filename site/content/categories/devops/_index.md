@@ -4,6 +4,7 @@ abstract: DevOps is a philosophy that integrates people, processes, and technolo
 ClassificationType: categories
 ClassificationContentOrigin: human
 date: 2025-03-20T11:04:38Z
+icon: fa-people-arrows
 weight: 230
 description: DevOps is a philosophy that unites people, processes, and technology to deliver continuous value, fostering collaboration, automation, and shared accountability.
 Instructions: |-
@@ -31,14 +32,14 @@ headline:
   updated: 2025-03-20T11:04:41Z
 trustpilot: false
 types:
-- Philosophy
+  - Philosophy
 concepts:
-- Philosophy
+  - Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.7
-
 ---
+
 DevOps is not a methodology, framework, or job title—it is an **philosophy** or **ethos** that unites **people, processes, and technology** to enable **continuous value delivery**. At its core, DevOps is about **eliminating friction** between development and operations, fostering **collaboration**, and embracing **automation** to achieve high-quality, fast, and reliable software delivery.
 
 #### **The Philosophical Foundation**

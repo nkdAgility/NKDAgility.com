@@ -1,6 +1,6 @@
 ---
 title: 'Process Template Upgrade #3 - Destroy all Work Items and Import new ones'
-description: Learn how to upgrade your process template by removing old work items and importing new ones in TFS. Follow our step-by-step guide for a smooth transition!
+description: Step-by-step guide to upgrading a process template in TFS by deleting all existing work items, archiving queries and reports, and importing new template elements.
 ResourceId: Lt6VAvnEOjb
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 preview: metro-visual-studio-2005-128-link-5-5.png
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:02Z
+concepts: []
 
 ---
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")

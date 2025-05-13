@@ -1,6 +1,6 @@
 ---
 title: Installing TFS 2012 with Lab Management 2012
-description: Learn to install TFS 2012 with Lab Management in a day. Follow expert tips and step-by-step guidance to streamline your deployment process effectively.
+description: Step-by-step guide to installing and configuring TFS 2012 with Lab Management, including SQL Server, SCVMM integration, troubleshooting, and environment setup tips.
 ResourceId: BKHVPKrqv3h
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -31,6 +31,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-42-42.png
+Watermarks:
+  description: 2025-05-13T15:08:54Z
+concepts: []
 
 ---
 I have been onsite this week in California to deploy TFS 2012 and Lab Management for a company in the computer game industry. Because of limited time I am doing the full install in one day and thus will not be getting any of their builds or environments to work today. This is purely an install and test of the happy paths. I have loads of time over the rest of the week running workshops for the customer to bring their guys up to speed on how to do everything else.

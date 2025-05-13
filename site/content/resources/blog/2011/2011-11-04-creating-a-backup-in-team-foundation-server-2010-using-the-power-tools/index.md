@@ -1,6 +1,6 @@
 ---
 title: Creating a backup in Team Foundation Server 2010 using the Power Tools
-description: Learn how to effectively back up Team Foundation Server 2010 using Power Tools. Discover essential tips and troubleshooting for a smooth backup process.
+description: Step-by-step guide to backing up Team Foundation Server 2010 with Power Tools, including required permissions, common errors, and troubleshooting backup issues.
 ResourceId: 9fVxqpOPzX8
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -28,6 +28,9 @@ tags:
 - Software Development
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:09:57Z
+concepts: []
 
 ---
 Over the last few years the product team has been putting their finishing touches on a backup module for the Team Foundation Server Administration Console. Why you might ask do you need another way to backup? Surely you can just backup the bits?

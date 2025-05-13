@@ -1,6 +1,6 @@
 ---
 title: Testing in the modern application lifecycle
-description: Explore modern manual testing in agile development. Learn to integrate tools and streamline processes for effective quality assurance in your application lifecycle.
+description: Explores challenges and solutions for manual testing in agile software development, focusing on tracking, automation, actionable bugs, and integrated test management tools.
 ResourceId: o-EY2NAQQSe
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Engineering Excellence
 preview: metro-test-icon-7-7.png
+Watermarks:
+  description: 2025-05-13T15:07:30Z
+concepts: []
 
 ---
 Manual Testing in this new age of the modern application lifecycle has taken on new complexities that make it even more difficult to track and identify which tests are passing, which are failing and to which environment that data should be associated.

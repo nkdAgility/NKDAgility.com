@@ -1,6 +1,6 @@
 ---
 title: 'TFS Integration Tools - Issue: TF205022: The following path contains more than the allowed 259 characters'
-description: Resolve the TF205022 error in TFS Integration Tools by shortening path lengths. Discover practical solutions to streamline your migration process effectively!
+description: Explains how to resolve the TFS error caused by file paths exceeding 259 characters during migration, with steps to shorten paths and adjust workspace settings.
 ResourceId: gkD4iN7ZkP4
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-4-4.png
+Watermarks:
+  description: 2025-05-13T15:08:04Z
+concepts: []
 
 ---
 You get error “TF205022: The following path contains more than the allowed 259 characters” when trying to migrate over some folders.

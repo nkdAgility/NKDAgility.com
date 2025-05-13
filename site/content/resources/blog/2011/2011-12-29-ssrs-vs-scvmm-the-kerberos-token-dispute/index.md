@@ -1,6 +1,6 @@
 ---
 title: SSRS vs SCVMM - The Kerberos token dispute
-description: Explore the Kerberos token challenges in SSRS and SCVMM setups. Learn key solutions to enhance your TFS and Lab Management configurations effectively.
+description: Explains Kerberos authentication issues when SSRS and SCVMM run on the same server with different service accounts, causing SPN conflicts and token errors in Active Directory.
 ResourceId: o4bErdW-aL2
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 - Windows
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:09:47Z
+concepts: []
 
 ---
 I have been  working with one of my colleagues, Bryon, over the holidays in order to install both TFS and Lab management at a customer. Now that customer has some awesome hardware, but insisted on a physical TFS server. The DL320 with 18 cores, 42GB RAM and 2TB of storage make a pretty fast TFS server, but we did run into a couple of problems. The solution to the first problem caused the second problem.

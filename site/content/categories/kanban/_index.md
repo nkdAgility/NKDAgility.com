@@ -5,6 +5,7 @@ ClassificationType: categories
 trustpilot: false
 date: 2025-02-11T10:16:54Z
 weight: 330
+icon: fa-columns
 ResourceId: _O7H5eH902L
 description: A strategy for making work observable, managing flow, and continuously improving value delivery. Specifically Kanban as outlined in the Kanban Guide.
 Instructions: |-
@@ -31,16 +32,16 @@ headline:
   content: A method for visualising work processes, enhancing flow management, and fostering continuous improvement. Posts should explore topics such as work item visualisation, cycle time reduction, throughput optimisation, and the application of metrics for informed decision-making, drawing on insights from industry thought leaders and established frameworks.
   updated: 2025-02-13T11:59:20Z
 aliases:
-- /methods/kanban-strategy/
-- /learn/agile-delivery-kit/strategies/kanban-strategy/
-- /resources/_O7H5eH902L
+  - /methods/kanban-strategy/
+  - /learn/agile-delivery-kit/strategies/kanban-strategy/
+  - /resources/_O7H5eH902L
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Practice
-
+  - Practice
 ---
+
 Kanban is a strategy for change, not a tool or board. As defined in the Kanban Guide, it enables organisations to “start with what they do now,” understand their current system, and improve flow and value delivery through evolutionary change. It is rooted in Lean principles and systems thinking, focusing on how work flows rather than what work gets done.
 
 Unlike frameworks that prescribe roles or timeboxes, Kanban introduces observability: visualising work, limiting WIP, managing flow, and making policies explicit. This exposes bottlenecks and enables evidence-based improvement without disrupting existing structures.

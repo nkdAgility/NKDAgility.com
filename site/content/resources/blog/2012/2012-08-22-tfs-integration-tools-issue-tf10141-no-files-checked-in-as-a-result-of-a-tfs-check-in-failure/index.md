@@ -1,6 +1,6 @@
 ---
 title: 'TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure'
-description: Resolve TFS check-in failures with expert insights on TF10141. Learn to troubleshoot conflicts and ensure successful migrations in your projects.
+description: Explains how to resolve TFS Integration Tools check-in failures (TF10141), covering conflict identification, manual resolution steps, and handling workspace issues.
 ResourceId: BPBvfH-1wzW
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-problem-icon-12-12.png
+Watermarks:
+  description: 2025-05-13T15:07:57Z
+concepts: []
 
 ---
 If you encounter a TFS check-in failure conflict type and you try the first option of “Retry the action”.

@@ -4,6 +4,7 @@ date: 2025-05-13T10:30:00Z
 description: The core beliefs that underpin how we think, structure work, and enable value delivery across all systems.
 abstract: Ethos is the foundation beneath principles, practices, and strategies. It informs how we lead, how we coach, and how we build systems that endure. Without a clearly defined ethos, teams drift into rituals without results—Scrum becomes status theatre, DevOps becomes tool automation, and transformation stalls. Ethos brings coherence and conviction to how we work. It’s not a mindset. It’s a disciplined stance.
 trustpilot: false
+icon: fa-heart
 ClassificationType: concepts
 Instructions: |-
   Use this category only for discussions on Ethos.
@@ -29,7 +30,7 @@ Instructions: |-
   - Any content not directly addressing the foundational, system-level convictions that drive sustainable delivery and authentic transformation
 headline:
   cards: []
-  title: 'Ethos: Foundations of Enduring Agile, Lean, and DevOps Systems'
+  title: "Ethos: Foundations of Enduring Agile, Lean, and DevOps Systems"
   subtitle: The disciplined foundation shaping leadership, coaching, and resilient systems—prioritising value, accountability, and evidence for lasting, meaningful change.
   content: Ethos defines the underlying convictions shaping leadership, coaching, and system design. Posts explore value-driven delivery, accountability, evidence-based decision-making, resilience under pressure, and the disciplined stance that sustains meaningful change, drawing on influences from Scrum, Kanban, continuous delivery, systems thinking, and complexity theory.
   updated: 2025-05-13T10:02:53Z
@@ -37,8 +38,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 weight: 1000
-
 ---
+
 Ethos is not what you say you value—it’s what your system proves you believe.
 
 Everything on this site reflects a consistent ethos: value delivery over activity, accountability over role-playing, system evolution over compliance, evidence over opinion. This ethos drives how we apply Scrum as a social technology, how we use Kanban as an observability pattern, and how we treat DevOps as a delivery enabler—not a toolchain.

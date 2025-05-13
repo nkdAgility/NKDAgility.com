@@ -1,6 +1,6 @@
 ---
 title: Continuous value delivery with modern business applications
-description: Discover how modern business applications enable continuous value delivery, transforming software development practices for happier consumers and faster updates.
+description: Explains how modern business applications use continuous delivery to release new features frequently, reduce risk, and improve customer satisfaction through rapid updates.
 ResourceId: Bqw3QI4cP_9
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -33,6 +33,9 @@ tags:
 categories:
 - Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-2-2.png
+Watermarks:
+  description: 2025-05-13T15:07:11Z
+concepts: []
 
 ---
 I have talked before on the [new normal for software development](http://blog.hinshelwood.com/the-new-normal-of-the-modern-application-lifecycle/) as part of the Visual Studio 2012 launch events and Microsoft in itself is not immune to this change.

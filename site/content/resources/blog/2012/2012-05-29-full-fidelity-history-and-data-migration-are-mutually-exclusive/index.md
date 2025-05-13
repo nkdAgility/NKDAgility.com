@@ -1,6 +1,6 @@
 ---
 title: Full-fidelity history and data migration are mutually exclusive
-description: Explore the challenges of data migration vs. full history upgrades in TFS. Learn how to maintain compliance and tractability in your software systems.
+description: Explains why preserving complete historical data and accurate dates is often incompatible with data migration, especially for compliance and traceability in regulated industries.
 ResourceId: V6qWqBrh4kv
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-2-2.png
+Watermarks:
+  description: 2025-05-13T15:09:01Z
+concepts: []
 
 ---
 If you have ever had to migrate data from any system that contains lots of data and especially history then you will have run into this problem. Effectively you have two choices:

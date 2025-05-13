@@ -1,6 +1,6 @@
 ---
 title: Installing Visual Studio 2013 on Server 2012
-description: Learn how to install Visual Studio 2013 on Server 2012 effortlessly. Follow this guide for a quick setup and explore new features to enhance your development!
+description: Step-by-step guide to installing Visual Studio 2013 alongside Visual Studio 2012 on Windows Server 2012, covering setup, disk space, login, and configuration options.
 ResourceId: LAt1NHw5pbR
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags:
 - Install and Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:06:02Z
+concepts: []
 
 ---
 I will be installing Visual Studio 2013 on Server 2012 side-by-side with Visual Studio 2012 on my development rig.

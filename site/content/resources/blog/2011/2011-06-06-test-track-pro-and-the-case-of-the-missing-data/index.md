@@ -1,6 +1,6 @@
 ---
 title: Test Track Pro and the case of the missing data
-description: Explore the challenges of creating a Test Track Pro Adapter for TFS Integration. Discover solutions to data retrieval issues and optimize your workflow!
+description: Explains issues with Test Track Pro data queries in TFS Integration, highlighting problems with date filters causing missing records and suggesting hourly filtering as a fix.
 ResourceId: h4j0yIumt7h
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -25,6 +25,9 @@ tags:
 - Software Development
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:10:36Z
+concepts: []
 
 ---
 [![ttp2011_1](images/ttp2011_1_thumb-6-6.gif "ttp2011_1")](http://blog.hinshelwood.com/files/2011/06/ttp2011_1.gif)

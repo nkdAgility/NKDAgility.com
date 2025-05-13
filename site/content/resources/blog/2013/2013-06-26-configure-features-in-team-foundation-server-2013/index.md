@@ -1,6 +1,6 @@
 ---
 title: Configure features in Team Foundation Server 2013
-description: Unlock the full potential of Team Foundation Server 2013 by configuring essential features with our step-by-step guide. Enhance your project management today!
+description: Learn how to enable and configure new features in Team Foundation Server 2013 after upgrading, including using the built-in wizard and handling process template issues.
 ResourceId: MbkXNCfuEU2
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags:
 - Install and Configuration
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:06:05Z
+concepts: []
 
 ---
 So you have upgraded to Team Foundation Server 2013 but you still don’t have some of the features that you upgraded for. There is a wizard for that but it is not supper discoverable that allows you to configure features in Team Foundation Server 2013.

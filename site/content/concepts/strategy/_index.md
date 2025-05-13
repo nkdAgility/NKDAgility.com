@@ -4,6 +4,7 @@ abstract: Strategy is a high-level approach that directs an organisation towards
 ClassificationType: concepts
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
+icon: fa-chess-knight
 weight: 560
 trustpilot: false
 description: Strategy is a high-level approach that defines how an organisation will achieve its goals, aligning resources, methods, and actions to achieve a shared vision.
@@ -35,8 +36,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
-
 ---
+
 **Strategy** is a **high-level approach** that guides an organisation towards achieving its long-term goals. Unlike **methods** or **practices**, which provide the **how** of execution, **strategy** defines the **direction** and **purpose** of those actions. It is about ensuring that resources, teams, and methods are **aligned** with the organisation's overall vision and mission.
 
 Strategy is an overarching framework that integrates multiple **methods**, **practices**, and **decision-making frameworks** to provide a coherent path forward. It ensures that day-to-day activities and tactical decisions contribute to the larger goals of the organisation. For example, the **Lean Product Development** strategy focuses on **maximising value delivery** while reducing waste, ensuring that the team’s activities align with business objectives and customer needs.

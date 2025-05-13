@@ -4,6 +4,7 @@ abstract: The Philosophy category encompasses the foundational beliefs that unde
 ClassificationType: concepts
 ClassificationContentOrigin: human
 date: 2025-04-09T14:00:00
+icon: fa-brain
 weight: 580
 trustpilot: false
 description: Philosophy defines the guiding principles and beliefs that shape methodologies and influence decision-making within Agile, DevOps, Lean, and related fields.
@@ -33,8 +34,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T14:00:00
-
 ---
+
 The **Philosophy** category represents the **foundational beliefs** that shape methodologies like **Agile**, **DevOps**, and **Lean**. It focuses on **why** these methodologies work and how their principles guide decision-making and organisational behaviour. Philosophy is concerned with the **big picture**, offering insights into how teams and organisations should think about work, value, and collaboration.
 
 This category explores the **why** behind key principles such as **Agile values**, **Lean efficiency**, **DevOps culture**, and the influence of **complexity theory** and **evidence-based decision-making**. Philosophy helps us understand the **underlying purpose** of practices and how these ideas inform **systemic change** in organisations.

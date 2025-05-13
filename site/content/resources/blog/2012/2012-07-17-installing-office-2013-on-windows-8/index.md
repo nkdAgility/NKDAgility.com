@@ -1,6 +1,6 @@
 ---
 title: Installing Office 2013 on Windows 8
-description: Discover how to easily install Office 2013 on Windows 8 with our step-by-step guide. Enjoy new features and a smooth setup experience!
+description: Step-by-step guide to downloading, customising, and installing Office 2013 on Windows 8, including tips on features, feedback tools, and upgrade considerations.
 ResourceId: Pm8GkiOhWyK
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -24,6 +24,9 @@ tags: []
 categories:
 - Uncategorized
 preview: metro-office-128-link-7-7.png
+Watermarks:
+  description: 2025-05-13T15:08:38Z
+concepts: []
 
 ---
 If you have not already seen the Office 2013 Preview has been made available on MSDN and on the Microsoft site. The install is ridiculously easy and includes Outlook 2013, Word 2013 and Communicator 2013. These tend to be the only parts of Office that I use, unless I an connecting to work item tracking in which case I would add Excel 2013 to that list.

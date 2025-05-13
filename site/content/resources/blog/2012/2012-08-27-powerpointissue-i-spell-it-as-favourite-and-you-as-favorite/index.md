@@ -1,6 +1,6 @@
 ---
 title: I spell it as Favourite and you as Favorite
-description: Explore the nuances of British vs. American English in PowerPoint. Learn how to use macros for seamless spell-checking adjustments. Embrace your language!
+description: Explains the differences between British and American English spelling, and shows how to switch language settings in Word and PowerPoint using macros for correct spellcheck.
 ResourceId: nIpxDPFtjBE
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -27,6 +27,9 @@ tags:
 categories:
 - Uncategorized
 preview: metro-binary-vb-128-link-6-6.png
+Watermarks:
+  description: 2025-05-13T15:07:51Z
+concepts: []
 
 ---
 On of the issues that we have had in the office recently is that the rest of the Office, through no fault of their own, speaks and uses American English. I however along with the majority of the English speaking world use British English.

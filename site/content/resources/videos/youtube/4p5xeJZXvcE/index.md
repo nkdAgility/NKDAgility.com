@@ -40,8 +40,7 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:07:07Z
-concepts:
-- Values
+concepts: []
 
 ---
 In my journey through the world of agile practices, one lesson has consistently stood out: the importance of patience. It’s a simple yet profound concept that can make or break the success of any team or organisation. As I reflect on my experiences, I’ve come to realise that patience is not just a virtue; it’s a necessity in fostering a healthy, productive environment.

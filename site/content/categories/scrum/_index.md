@@ -5,12 +5,13 @@ ClassificationType: categories
 ClassificationContentOrigin: human
 trustpilot: false
 date: 2025-03-04T10:00:00
+icon: fa-sync-alt
 weight: 470
 ResourceId: peNS32Lw-sn
 aliases:
-- /resources/methods/scrum-framework/
-- /learn/agile-delivery-kit/strategies/scrum-framework/
-- /resources/peNS32Lw-sn
+  - /resources/methods/scrum-framework/
+  - /learn/agile-delivery-kit/strategies/scrum-framework/
+  - /resources/peNS32Lw-sn
 description: Scrum is a a **social technology** for building **adaptive solutions** it focuses on delivering the **highest business value** in the **shortest time**. Scrum is a **framework** that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.
 Instructions: |-
   **Use this category only for discussions on Scrum.**  
@@ -32,12 +33,12 @@ headline:
   content: A structured approach for fostering collaboration and enhancing team performance, emphasising iterative progress and adaptive planning. Posts should explore team dynamics, roles, ceremonies, and techniques for maximising value delivery, as well as methods for continuous learning and improvement in complex environments.
   updated: 2025-02-13T21:02:24Z
 concepts:
-- Framework
+  - Framework
 sitemap:
   filename: sitemap.xml
   priority: 0.7
-
 ---
+
 Scrum is a **Framework** and a **social technology** for delivering **adaptive solutions** in complex environments. It is built on **empiricism**—transparency, inspection, and adaptation—and is designed to help teams deliver value iteratively and incrementally. Scrum is a **framework** that helps teams work together to solve complex problems and deliver high-value products. Its about planning.
 
 ## First Principals

@@ -35,6 +35,7 @@ categories:
 - DevOps
 tags:
 - Metrics and Learning
+- Customer Focus
 - Software Development
 - Operational Practices
 - Pragmatic Thinking

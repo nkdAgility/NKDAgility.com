@@ -1,6 +1,6 @@
 ---
 title: Are you doing Scrum? Really?
-description: Explore the evolving landscape of Scrum and discover a simple checklist to ensure you're truly practicing it. Embrace adaptability for better results!
+description: Explains recent changes to Scrum aimed at reducing rigidity, clarifying core practices, and providing a checklist to help teams assess if they are truly following Scrum.
 ResourceId: X1Hm4PJt0CV
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -29,6 +29,9 @@ tags:
 categories:
 - Scrum
 preview: nakedalm-experts-professional-scrum-3-3.png
+Watermarks:
+  description: 2025-05-13T15:09:55Z
+concepts: []
 
 ---
 [![PSM Front Logo 1](images/Scrum.org-Logo_500x118_thumb-4-4.png "PSM Front Logo 1")](http://blog.hinshelwood.com/files/2011/11/Scrum.org-Logo_500x118.png)This week I was at the ALM Summit in Redmond. There was a very interesting talk from David Starr of Scrum.org going over the recent changes in Scrum. These changes are, I think, designed to battle the things that have made Scrum unpalatable to many people.

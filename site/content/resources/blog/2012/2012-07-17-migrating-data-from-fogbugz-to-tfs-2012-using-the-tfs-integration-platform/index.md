@@ -1,6 +1,6 @@
 ---
 title: Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform
-description: Learn how to migrate data from FogBugz to TFS 2012 using a custom CSV adapter. Streamline your upgrade process with expert tips and practical guidance.
+description: Step-by-step guide to migrating FogBugz data to TFS 2012 using a custom CSV adapter with the TFS Integration Platform, including setup, mapping, and import tips.
 ResourceId: aEBNMpag_Cn
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -26,6 +26,9 @@ tags:
 - Technical Mastery
 categories:
 - Uncategorized
+Watermarks:
+  description: 2025-05-13T15:08:37Z
+concepts: []
 
 ---
 As part of my current engagement I will be moving data from FogBugz via a custom CSV Tip Adapter for the TFS Integration Platform. This an adapter I wrote a while ago to facilitate moving data from Excel to TFS and I just ant to reuse it. The first thing I need is a development environment as I may need to tweak this ancient code.

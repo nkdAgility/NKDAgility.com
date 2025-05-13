@@ -1,6 +1,6 @@
 ---
 title: Scrum is hard to adopt and disruptive to your organisation
-description: Discover the challenges of adopting Scrum in your organization. Learn why commitment and training are essential for successful Agile transformation.
+description: Explains why adopting Scrum is challenging and disruptive, highlighting the need for training, mentoring, and dedication for successful organisational change and Agile adoption.
 ResourceId: TRgmAScsBJs
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ categories:
 - Scrum
 - Product Management
 preview: nakedalm-experts-professional-scrum-4-4.png
+Watermarks:
+  description: 2025-05-13T15:10:10Z
+concepts: []
 
 ---
 Before the "[Professional Scrum Foundations](http://www.scrum.org/professionalscrumfoundations/)" course ever existed I was tasked with delivering a practical Scrum foundation course for our customers. I came up with a 2 day “Scrum Foundation” course that included lots of practical exercises and leveraged the existing [Scrum Open](http://www.scrum.org/scrumopen/) exam. But why would you want it and is that all you need?

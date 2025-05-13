@@ -1,6 +1,6 @@
 ---
 title: One Team Project Collection to rule them all - Consolidating Team Projects
-description: Discover strategies for consolidating Team Projects in TFS 2012. Learn how to streamline your workflow and enhance collaboration with expert insights.
+description: Step-by-step guide to consolidating multiple Team Projects and Collections in TFS 2012 using the TFS Integration Platform, covering migration, mapping, and troubleshooting.
 ResourceId: xzuqsTxb7UD
 ResourceType: blog
 ResourceContentOrigin: Human
@@ -30,6 +30,9 @@ tags:
 categories:
 - Uncategorized
 preview: nakedalm-experts-visual-studio-alm-10-10.png
+Watermarks:
+  description: 2025-05-13T15:08:44Z
+concepts: []
 
 ---
 Following on from last weeks successful [Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation](http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/) I finished off the last of the 20-30 Team Project Process Template migration/upgrades to a customised form on the Visual Studio Scrum 2.0. We only added a couple of fields, but we also defined a process and strategy for use of the Template within the organisation.
