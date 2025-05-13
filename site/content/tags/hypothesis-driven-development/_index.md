@@ -54,7 +54,6 @@ tags:
 - Organisational Agility
 - Product Delivery
 - Product Strategy
-- Pragmatic Thinking
 
 ---
 Hypothesis Driven Development is a systematic approach that leverages experimentation and validated learning to inform product decisions. By formulating hypotheses about user needs and behaviours, teams can design experiments to test these assumptions in real-world scenarios. This method allows organisations to gather data and insights that guide product development, ensuring that decisions are based on evidence rather than intuition.

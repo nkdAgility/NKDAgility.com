@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 635
+weight: 220
 description: Ensuring continuous delivery of incremental improvements to users and stakeholders.
 Instructions: |-
   **Use this category only for discussions on Frequent Releases.**  
@@ -39,7 +39,8 @@ concepts:
 - Practice
 categories:
 - Product Development
-- Product Management
+- Engineering Excellence
+- DevOps
 tags:
 - Product Delivery
 - Value Delivery
@@ -50,7 +51,9 @@ tags:
 - Software Development
 - Time to Market
 - Market Adaptability
+- Organisational Agility
 - Pragmatic Thinking
+- Release Management
 - Continuous Delivery
 - Deployment Frequency
 

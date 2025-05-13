@@ -33,8 +33,10 @@ sitemap:
 BodyContentGenDate: 2025-04-09T16:51:05
 concepts:
 - Capability
-categories: []
+categories:
+- Product Development
 tags:
+- Organisational Agility
 - Organisational Culture
 
 ---

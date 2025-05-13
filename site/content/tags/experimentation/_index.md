@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 640
+weight: 295
 description: Using hypothesis-driven approaches to test ideas and validate assumptions in agile workflows.
 Instructions: |-
   **Use this category only for discussions on Experimentation.**  
@@ -38,19 +38,22 @@ concepts:
 - Practice
 categories:
 - Product Development
+- Product Management
 tags:
+- Empirical Process Control
+- Continuous Improvement
 - Organisational Culture
+- Organisational Agility
 - Continuous Learning
+- Decision Making
+- Ability to Innovate
+- Pragmatic Thinking
+- Team Performance
+- Product Discovery
 - Operational Practices
 - Value Delivery
+- Organisational Change
 - Agile Philosophy
-- Social Technologies
-- Metrics and Learning
-- Sociotechnical Systems
-- Business Agility
-- Market Adaptability
-- Evidence Based Management
-- Hypothesis Driven Development
 
 ---
 Experimentation is a critical practice in agile workflows, centred on using hypothesis-driven approaches to test ideas and validate assumptions. This concept empowers teams to systematically explore uncertainties, allowing them to make informed decisions based on empirical evidence rather than intuition alone. By fostering a culture of experimentation, organisations can enhance their ability to innovate, adapt, and respond to changing market demands.

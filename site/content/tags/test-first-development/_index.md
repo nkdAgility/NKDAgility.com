@@ -42,7 +42,7 @@ tags:
 - Technical Mastery
 - Technical Excellence
 - Operational Practices
-- Shift-Left Strategy
+- Shift Left Strategy
 - Pragmatic Thinking
 
 ---

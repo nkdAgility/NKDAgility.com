@@ -30,9 +30,10 @@ sitemap:
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:15:15
 concepts:
-- Value
+- Framework
 categories:
 - Scrum
+- Product Development
 - Technical Leadership
 tags:
 - Team Collaboration

@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 635
+weight: 320
 description: Approaches to planning incremental and iterative software releases.
 Instructions: |-
   **Use this category only for discussions on Release Management.**  
@@ -39,13 +39,16 @@ concepts:
 - Method
 categories:
 - Product Development
+- DevOps
 tags:
 - Product Delivery
 - Software Development
 - Operational Practices
 - Value Delivery
+- Organisational Agility
 - Frequent Releases
 - Market Adaptability
+- Project Management
 
 ---
 Release Management is the structured approach to planning, scheduling, and controlling the movement of releases to test and live environments. It is crucial for ensuring that software is delivered in a predictable and sustainable manner, aligning with organisational goals and customer needs. By managing releases effectively, teams can minimise risks associated with deployment, enhance collaboration across departments, and ensure that all stakeholders are informed and engaged throughout the process.

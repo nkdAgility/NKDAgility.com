@@ -32,29 +32,29 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 aliases:
-  - /learn/agile-delivery-kit/practices/sprint-planning-event
-  - /resources/v_AGzuOgZ0g
+- /learn/agile-delivery-kit/practices/sprint-planning-event
+- /resources/v_AGzuOgZ0g
 aliasesArchive:
-  - /learn/agile-delivery-kit/practices/sprint-planning-event
+- /learn/agile-delivery-kit/practices/sprint-planning-event
 concepts:
-  - Framework
+- Framework
 categories:
-  - Scrum
-  - Product Management
+- Scrum
+- Product Management
 tags:
-  - Continuous Learning
-  - Empirical Process Control
-  - Agile Frameworks
-  - Social Technologies
-  - Agile Planning
-  - Pragmatic Thinking
-  - Team Collaboration
-  - Team Performance
-  - Operational Practices
-  - Professional Scrum
-  - Metrics and Learning
----
+- Continuous Learning
+- Empirical Process Control
+- Agile Frameworks
+- Social Technologies
+- Agile Planning
+- Pragmatic Thinking
+- Team Collaboration
+- Team Performance
+- Operational Practices
+- Professional Scrum
+- Metrics and Learning
 
+---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.
 
 ![naked Agility Scrum Framework Sprint Planning](./../assets/images/naked-agility-scrum-framework-sprint-planning.jpg)

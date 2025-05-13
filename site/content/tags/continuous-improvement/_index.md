@@ -42,6 +42,8 @@ categories:
 - Lean
 - Technical Leadership
 tags:
+- Operational Practices
+- Pragmatic Thinking
 - Agile Frameworks
 - Organisational Agility
 - Empirical Process Control
@@ -54,8 +56,6 @@ tags:
 - Continuous Learning
 - Agile Philosophy
 - Evidence Based Leadership
-- Organisational Change
-- Decision Making
 
 ---
 Continuous Improvement is a **first principle** of Business Agility, essential for any organisation seeking resilience and sustainable success in today's complex and rapidly evolving markets. It represents an ongoing commitment to reflecting on outcomes, evaluating performance through empirical evidence, and rapidly adapting strategies based on what is learned. Rather than being a one-time initiative, Continuous Improvement becomes part of the organisational ethos, guiding leaders and teams toward more effective, responsive, and adaptive ways of working.

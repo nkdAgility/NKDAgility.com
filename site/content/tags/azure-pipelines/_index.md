@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 680
+weight: 220
 description: Automating builds, tests, and deployments with Azure Pipelines.
 Instructions: |-
   **Use this category only for discussions on Azure Pipelines.**  
@@ -36,15 +36,22 @@ BodyContentGenDate: 2025-04-09T17:24:25
 concepts:
 - Tool
 categories:
+- Engineering Excellence
+- Product Development
 - DevOps
 tags:
+- Software Development
+- Azure DevOps
 - Operational Practices
+- Frequent Releases
 - Product Delivery
 - Continuous Delivery
+- Release Management
 - Market Adaptability
 - Engineering Practices
 - Value Delivery
 - Continuous Integration
+- Technical Excellence
 - Deployment Frequency
 
 ---

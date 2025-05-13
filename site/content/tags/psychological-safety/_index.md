@@ -5,7 +5,7 @@ ClassificationType: tags
 ClassificationContentOrigin: AI
 trustpilot: false
 date: 2025-02-11T10:17:24Z
-weight: 745
+weight: 385
 description: The foundation for innovation and high-performing teams.
 Instructions: |-
   **Use this category only for discussions on Psychological Safety.**  
@@ -46,6 +46,7 @@ tags:
 - Coaching
 - Ability to Innovate
 - Agile Philosophy
+- Pragmatic Thinking
 
 ---
 Psychological safety is the shared belief that a team is safe for interpersonal risk-taking. It allows team members to express their thoughts, ask questions, and admit mistakes without fear of negative consequences. This environment fosters open communication, enabling teams to collaborate effectively and innovate continuously. When individuals feel psychologically safe, they are more likely to contribute ideas, challenge the status quo, and engage in constructive feedback, all of which are essential for delivering value predictably and sustainably.

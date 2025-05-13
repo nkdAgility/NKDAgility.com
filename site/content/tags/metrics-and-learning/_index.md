@@ -9,7 +9,7 @@ date: 2025-02-11T10:16:54Z
 weight: 580
 description: Using data, metrics, and feedback to drive continuous improvement in teams and processes.
 Instructions: |-
-  **Use this category only for discussions on Metrics and Learning.*-  
+  **Use this category only for discussions on Metrics and Learning.**
   The purpose of this category is to explore the utilisation of data, metrics, and feedback mechanisms to foster continuous improvement within teams and processes. It emphasises the importance of evidence-based decision-making and the iterative learning cycle in Agile and DevOps environments.
 
   **Key topics to be discussed under this category include:**
@@ -23,52 +23,52 @@ Instructions: |-
   - Tools and technologies that facilitate data-driven decision-making.
 
   **Strictly exclude*- any discussions that deviate from the core principles of metrics and learning, such as anecdotal evidence without data support, unrelated management theories, or practices that do not align with Agile, DevOps, or Lean philosophies.
-headline:
-  cards: []
-  title: Metrics and Learning
-  subtitle: Harnessing data and insights to foster ongoing enhancement in team dynamics and operational workflows.
-  content: Utilising quantitative and qualitative insights to enhance team performance and streamline workflows. Posts should explore data-driven decision-making, feedback loops, process optimisation, and the interplay between team dynamics and operational efficiency, drawing on principles from systems thinking and complexity theory.
-  updated: 2025-02-13T11:59:13Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 aliases:
-  - /learn/agile-delivery-kit/practices/metrics-reports
-  - /resources/26FWeqJuu0P
+- /learn/agile-delivery-kit/practices/metrics-reports
+- /resources/26FWeqJuu0P
 aliasesArchive:
-  - /learn/agile-delivery-kit/practices/metrics-reports
+- /learn/agile-delivery-kit/practices/metrics-reports
 recommendedContent:
-  - practices/Metrics-Reports/
-  - practices/Metrics-Reports.html
-  - metrics-reports
-  - metrics-reports.html
+- practices/Metrics-Reports/
+- practices/Metrics-Reports.html
+- metrics-reports
+- metrics-reports.html
 BodyContentGenDate: 2025-04-09T16:31:19
 concepts:
-  - Principle
+- Principle
 categories:
-  - Product Development
-  - Engineering Excellence
+- Product Development
+- Engineering Excellence
 tags:
-  - Continuous Improvement
-  - Continuous Learning
-  - Agile Philosophy
-  - Team Performance
-  - Social Technologies
-  - Empirical Process Control
-  - Market Adaptability
-  - Business Agility
-  - Agile Strategy
-  - Value Delivery
-  - Evidence Based Management
----
+- Continuous Improvement
+- Continuous Learning
+- Agile Philosophy
+- Team Performance
+- Social Technologies
+- Empirical Process Control
+- Market Adaptability
+- Business Agility
+- Agile Strategy
+- Value Delivery
+- Evidence Based Management
+headline:
+  cards: []
+  title: Metrics and Continuous Learning (MCL)
+  subtitle: Harnessing data, feedback, and empirical insights to drive continuous improvement, informed decision-making, and adaptive value delivery across teams and organisations
+  content: Explores the use of data, feedback, and empirical evidence to inform decision-making, drive improvement, and foster adaptability. Covers measurement of flow, quality, customer and team outcomes, and the integration of metrics into daily routines to support learning, transparency, and responsive change across teams and organisations.
+  updated: 2025-05-13T10:03:15Z
 
+---
 Metrics and Learning is not about tracking velocity or producing dashboards to appease managers. It’s about creating the conditions for continuous improvement by making performance transparent, exposing constraints, and enabling teams and leaders to respond with evidence rather than assumption.
 
 This approach builds a culture of empiricism—where progress is inspected regularly, and data informs decisions. Metrics become a feedback loop, not a control mechanism. They allow teams to observe how value flows, understand where it's blocked, and adapt their systems of work accordingly. If you're not measuring flow, quality, and outcomes, you're not managing; you're guessing.
 
 Metrics are not just about operational tracking—they are a leadership tool for adaptation.
 
-To make this work across your company, we recommend metrics in two distinct but complementary domains: the **Product/Project/Organisation\*- level and the **Team\*- level.
+To make this work across your company, we recommend metrics in two distinct but complementary domains: the _Product/Project/Organisation_- level and the _Team_- level.
 
 ## Product / Project / Organisation Metrics
 
@@ -108,7 +108,7 @@ At the team level, metrics should reflect how effectively value flows through th
 - **[Throughput]({{< ref "/tags/throughput" >}})**
   Count of items completed per time unit. Don't over-index on it. It’s only useful when paired with WIP and cycle time to observe trends.
 
-We explicitly do \*_not_- track velocity, story points, remaining work, or original estimate. These are internal planning tools, not outcome metrics. They promote illusion over insight and encourage teams to optimise for the wrong things.
+We explicitly do _not_- track velocity, story points, remaining work, or original estimate. These are internal planning tools, not outcome metrics. They promote illusion over insight and encourage teams to optimise for the wrong things.
 
 ## Closing the Loop
 
