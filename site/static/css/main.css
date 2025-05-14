@@ -1,13 +1,19 @@
 /* Define branding color variables */
 :root {
-  --primary-color: #713183; /* Primary branding color */
-  --primary-color-light: #dbb0e6; /* Primary branding color */
-  --secondary-color: #007acc; /* Secondary branding color */
-  --secondary-color-light: #9fd2f4; /* Secondary branding color */
-  --accent-color: #e37f01; /* Accent color */
-  --accent-color-light: #ffcd35; /* Accent color */
-  --background-color: #ecf0f1; /* Background color */
-  --primary-color-text: #ffffff; /* Primary text color */
+  --primary-color: #713183;
+  --primary-color-light: #8b49a0; /* Was #dbb0e6 */
+
+  --secondary-color: #007acc;
+  --secondary-color-light: #3399dd; /* Was #9fd2f4 */
+
+  --accent-color: #e37f01;
+  --accent-color-light: #f3952e; /* Was #ffcd35 */
+
+  --accent-color-alt: #dcace8;
+  --accent-color-alt-light: #eac2f0; /* Was #ffe4f8 */
+
+  --background-color: #ecf0f1;
+  --primary-color-text: #ffffff;
 }
 
 body {
@@ -130,42 +136,82 @@ pre {
 
 .btn-nkdagility-primary {
   background-color: var(--primary-color);
-  color: white;
+  color: white !important;
 }
 
 .btn-nkdagility-primary:hover {
   background-color: var(--primary-color-light);
-  color: white;
+  color: white !important;
 }
 
 .btn-nkdagility-primary-light {
   background-color: var(--primary-color-light);
-  color: white;
+  color: white !important;
 }
 
 .btn-nkdagility-primary-light:hover {
   background-color: var(--primary-color);
-  color: white;
+  color: white !important;
 }
 
 .btn-nkdagility-secondary {
   background-color: var(--secondary-color);
-  color: white;
+  color: white !important;
 }
 
 .btn-nkdagility-secondary:hover {
   background-color: var(--secondary-color-light);
-  color: white;
+  color: white !important;
 }
 
 .btn-nkdagility-secondary-light {
   background-color: var(--secondary-color-light);
-  color: white;
+  color: white !important;
 }
 
 .btn-nkdagility-secondary-light:hover {
   background-color: var(--secondary-color);
-  color: white;
+  color: white !important;
+}
+
+.btn-nkdagility-accent {
+  background-color: var(--accent-color);
+  color: white !important;
+}
+
+.btn-nkdagility-accent:hover {
+  background-color: var(--accent-color-light);
+  color: white !important;
+}
+
+.btn-nkdagility-accent-light {
+  background-color: var(--accent-color-light);
+  color: white !important;
+}
+
+.btn-nkdagility-accent-light:hover {
+  background-color: var(--accent-color);
+  color: white !important;
+}
+
+.btn-nkdagility-accent-alt {
+  background-color: var(--accent-color-alt);
+  color: white !important;
+}
+
+.btn-nkdagility-accent-alt:hover {
+  background-color: var(--accent-color-alt-light);
+  color: white !important;
+}
+
+.btn-nkdagility-accent-alt-light {
+  background-color: var(--accent-color-alt-light);
+  color: white !important;
+}
+
+.btn-nkdagility-accent-alt-light:hover {
+  background-color: var(--accent-color-alt);
+  color: white !important;
 }
 
 /* end buttons */
