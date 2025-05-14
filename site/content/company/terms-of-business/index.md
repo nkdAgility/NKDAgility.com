@@ -14,7 +14,7 @@ aliases:
 headline:
   cards: []
   title: naked Agility Ltd. Terms of Business.
-  content: Imagine evolving your organization with highly effective teams that not only boost productivity but also create lasting value. With the right external support, clear goals, and continuous feedback loops, these teams will innovate, adapt, and deliver outstanding results. Consistently. Effectively.
+  content: Real agility means evolving your system of work—not managing more tasks. With the right support, your teams adapt faster, deliver smarter, and create lasting value.
 ---
 
 We offer outcome-focused consulting services delivered through a timeboxed retainer model. Rather than buying hours, you retain a percentage of our capacity to co-create meaningful outcomes. We focus on helping you evolve your system of work—not just deliver tasks. If you're not satisfied, we refund your fee.
@@ -29,9 +29,7 @@ We work on a **timeboxed retainer** basis. You retain a percentage of our workin
 - **We collaborate continuously**, providing as much or as little direction as needed.
 - If you’re not satisfied with our work, **we’ll refund you—no questions asked**.
 
-You’re not buying hours; you’re securing access to strategic, sustained progress over time.
-
-You’re not buying time, you’re retaining access to strategic partnership. You shouldn’t need to make a financial decision every time you need support. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time.
+You’re not buying hours. You’re retaining strategic capacity—continuous access to expert collaboration without transactional overhead. You shouldn’t need to make a financial decision every time you need support. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time.
 
 {{< table "table table-striped table-bordered" >}}
 | **Engagement Level** | **%** | **\~Hours/Week** | **Typical Involvement** |
@@ -226,7 +224,7 @@ Each engagement begins upon written acceptance and initial payment. Unless other
 
 ## Limitation of Liability
 
-We carry professional indemnity insurance and expect reasonable limits of liability on both sides. We do not accept liability for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
+We carry £1,000,000 GBP professional indemnity insurance and operate under reasonable limits of liability. We are not liable for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
 
 ## Issue Resolution
 
