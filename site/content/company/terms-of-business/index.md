@@ -1,6 +1,6 @@
 ---
 title: Terms of Business
-description: Terms of Business for the services provided by the company.
+description: Terms of Business for the services provided by NKDAgility.
 trustpilot: false
 menus:
   footer:
@@ -23,7 +23,7 @@ We are transparent, collaborative, and committed to protecting your confidential
 
 ## Our business model
 
-We work on a **timeboxed retainer** basis. You retain a percentage of our working time—typically 10% or 33%—and we spend the time required within that limit to deliver valuable outcomes. There is **no fixed scope**, and **no change orders**—just a shared commitment to evolving your system of work.
+We work on a **timeboxed retainer** basis. You retain a percentage of our working time—typically 10% or 25%—and we spend the time required within that limit to deliver valuable outcomes. There is **no fixed scope**, and **no change orders**—just a shared commitment to evolving your system of work.
 
 - **You control the pace** and can reschedule within the agreed timeframe.
 - **We collaborate continuously**, providing as much or as little direction as needed.
@@ -71,6 +71,18 @@ We succeed together. This means active, open collaboration between your team and
 - **We share risks, insights, and discoveries** – transparently and frequently.
 
 When both sides are engaged, we make meaningful change happen.
+
+## UK Legal Compliance (IR35)
+
+For services delivered within the United Kingdom:
+
+- naked Agility Ltd operates as an **independent consultancy**. There is no employment relationship, supervision, or control by the client.
+- We deliver **outcome-based services** under a timeboxed retainer, with **no fixed hours or location requirements**.
+- We may engage subcontractors under our supervision and provide substitution where needed.
+- You are not purchasing individual labour or day-rate resources. You are **retaining access to strategic consulting outcomes**.
+- If your procurement policy or internal legal interpretation requires **IR35 compliance**, an additional surcharge of 40% will apply to cover the legal, tax, and administrative overheads of that risk position.
+
+This clause applies **only to UK engagements**. It does not affect services delivered outside the United Kingdom.
 
 ## Terms of Payment
 
@@ -226,3 +238,5 @@ If an issue arises, we commit to open, respectful dialogue to resolve it quickly
 - These terms are subject to change. The latest version is always available at [nkdagility.com/terms](https://nkdagility.com/terms).
 
 If you have any questions, contact **[clientservices@nkdagility.com](mailto:clientservices@nkdagility.com)**.
+
+
