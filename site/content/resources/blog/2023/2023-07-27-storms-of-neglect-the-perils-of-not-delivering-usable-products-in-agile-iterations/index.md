@@ -25,12 +25,12 @@ aliasesArchive:
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 tags:
+- Increment
 - Agile Product Management
 - Empirical Process Control
 - Pragmatic Thinking
 - Software Development
 - Working Software
-- Increment
 - Product Delivery
 - Value Delivery
 - Agile Philosophy

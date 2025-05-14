@@ -36,10 +36,10 @@ tags:
 - Product Delivery
 - Team Performance
 - Backlog Refinement
+- Product Backlog
 - Team Collaboration
 - Working Software
 - Agile Transformation
-- Agile Planning Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.6

@@ -32,6 +32,7 @@ tags:
 - Software Development
 - Value Delivery
 - Product Delivery
+- Customer Focus
 resourceTypes:
 - video
 categories:

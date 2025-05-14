@@ -35,6 +35,7 @@ tags:
 - Scrum Team
 - Agile Frameworks
 - Team Performance
+- Product Backlog
 - Agile Planning
 - Pragmatic Thinking
 - Product Delivery

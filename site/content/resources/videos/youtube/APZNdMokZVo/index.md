@@ -26,11 +26,11 @@ preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: false
 tags:
+- Definition of Done
 - Pragmatic Thinking
 - Working Software
 - Agile Product Management
 - Software Development
-- Definition of Done
 - Product Delivery
 - Professional Scrum
 - Transparency

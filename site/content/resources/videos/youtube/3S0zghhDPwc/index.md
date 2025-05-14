@@ -29,8 +29,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
 - Definition of Done
+- Software Development
 - Agile Transformation
 - Operational Practices
 - Competence

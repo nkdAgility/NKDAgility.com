@@ -51,7 +51,6 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Product Owner
-- Increment
 - Product Delivery
 - Empirical Process Control
 - Value Delivery

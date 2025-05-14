@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: true
 tags:
+- Definition of Done
 - Software Development
 - Working Software
 sitemap:

@@ -34,6 +34,7 @@ tags:
 - Decision Making
 - Evidence Based Management
 - Metrics and Learning
+- Customer Focus
 - Agile Product Management
 - Software Development
 - Market Adaptability
@@ -44,7 +45,6 @@ tags:
 - Value Delivery
 - Current Value
 - Unrealised Value
-- Time to Market
 resourceTypes:
 - video
 categories:

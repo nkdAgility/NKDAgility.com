@@ -37,7 +37,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:58Z
-concepts: []
+concepts:
+- Ethos
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

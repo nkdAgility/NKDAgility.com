@@ -28,11 +28,22 @@ sitemap:
 Watermarks:
   description: 2025-05-10T14:14:22Z
 ResourceContentOrigin: ai
-concepts: []
+concepts:
+- Strategy
 categories:
-- Uncategorized
-tags: []
-weight: 1000
+- Product Development
+- Technical Leadership
+tags:
+- Pragmatic Thinking
+- Sociotechnical Systems
+- Digital Transformation
+- Operational Practices
+- Project Management
+- Change Management
+- Organisational Agility
+- Software Development
+- Team Performance
+weight: 270
 
 ---
 Migrating legacy systems to the cloud is often painted as a Herculean task—fraught with risk, disruption, and the ever-present spectre of downtime. I’ve seen organisations paralysed by the fear of systems grinding to a halt, or worse, the unknown unknowns that lurk beneath the surface of their ageing infrastructure. But let’s be clear: cloud migration doesn’t have to be a nightmare. It’s not about yanking everything out by the roots and hoping for the best. It’s about making deliberate, well-informed decisions that keep your teams productive and your business running.

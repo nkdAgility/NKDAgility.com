@@ -24,6 +24,7 @@ tags:
 - Deployment Frequency
 - Working Software
 - Market Adaptability
+- Customer Focus
 - Operational Practices
 - Frequent Releases
 - Value Delivery
@@ -34,7 +35,6 @@ tags:
 - Time to Market
 - Pragmatic Thinking
 - Increment
-- Evidence Based Management
 categories:
 - Product Development
 - Engineering Excellence

@@ -29,12 +29,12 @@ aliasesArchive:
 - /blog/rethinking-product-backlog--navigating-through-the-weeds-of-complexity
 - /resources/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 tags:
+- Product Backlog
 - Agile Product Management
 - Complexity Thinking
 - Software Development
 - Pragmatic Thinking
 - Organisational Agility
-- Product Backlog
 - Agile Planning
 - Product Owner
 - Agile Philosophy

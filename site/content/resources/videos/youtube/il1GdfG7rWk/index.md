@@ -30,8 +30,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Product Owner
 - Product Backlog
+- Product Owner
 - Agile Planning
 - Professional Scrum
 - Value Delivery

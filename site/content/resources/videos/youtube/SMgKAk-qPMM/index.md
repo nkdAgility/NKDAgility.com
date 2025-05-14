@@ -34,9 +34,9 @@ tags:
 - Software Development
 - Agile Philosophy
 - Agile Planning
+- Product Backlog
 - Agile Frameworks
 - Agile Transformation
-- Product Backlog
 - Value Delivery
 - Product Delivery
 - Agile Values and Principles

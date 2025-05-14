@@ -40,7 +40,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:08:51Z
-concepts: []
+concepts:
+- Ethos
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

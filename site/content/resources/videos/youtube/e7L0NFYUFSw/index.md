@@ -27,6 +27,7 @@ duration: 205
 isShort: false
 tags:
 - Agile Product Management
+- Customer Focus
 sitemap:
   filename: sitemap.xml
   priority: 0.6

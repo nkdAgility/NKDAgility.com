@@ -24,6 +24,7 @@ categories:
 tags:
 - Product Discovery
 - Product Validation
+- Customer Focus
 - Agile Product Management
 - Value Delivery
 - Product Delivery

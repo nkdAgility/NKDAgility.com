@@ -39,7 +39,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:59Z
-concepts: []
+concepts:
+- Accountability
 
 ---
 ## Common Comments from the PSPO Course

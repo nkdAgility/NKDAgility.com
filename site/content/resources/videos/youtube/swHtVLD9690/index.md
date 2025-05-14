@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
+- Customer Focus
 - Customer Feedback Loops
 - Market Adaptability
 resourceTypes:

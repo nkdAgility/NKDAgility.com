@@ -38,10 +38,10 @@ tags:
 - Deployment Frequency
 - Deployment Strategies
 - Pragmatic Thinking
+- Customer Focus
 - Continuous Improvement
 - Azure DevOps
 - Operational Practices
-- Engineering Practices
 resourceTypes:
 - video
 sitemap:

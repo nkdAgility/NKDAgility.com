@@ -23,8 +23,8 @@ categories:
 - Scrum
 - Product Development
 tags:
-- Agile Product Management
 - Product Backlog
+- Agile Product Management
 - Software Development
 - Agile Frameworks
 - Professional Scrum

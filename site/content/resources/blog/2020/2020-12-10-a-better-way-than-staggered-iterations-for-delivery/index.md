@@ -26,6 +26,7 @@ aliasesArchive:
 - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
 - Software Development
+- Increment
 - Agile Planning
 - Agile Product Management
 - Agile Transformation
@@ -39,7 +40,6 @@ tags:
 - Technical Excellence
 - Agile Frameworks
 - Professional Scrum
-- Team Collaboration
 categories:
 - Engineering Excellence
 - Scrum

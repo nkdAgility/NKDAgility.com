@@ -37,7 +37,6 @@ tags:
 - Agile Frameworks
 - Operational Practices
 - Agile Product Management
-- Product Backlog
 - Team Collaboration
 sitemap:
   filename: sitemap.xml

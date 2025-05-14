@@ -41,19 +41,19 @@ categories:
 - Scrum
 - Product Development
 tags:
+- Increment
 - Professional Scrum
 - Agile Frameworks
 - Scaling
 - Software Development
-- Increment
 - Product Delivery
+- Product Backlog
 - Empirical Process Control
 - Social Technologies
 - Transparency
 - Value Delivery
 - Large Scale Agility
 - Working Software
-- Product Backlog
 - Scrum Team
 - Agile Transformation
 Watermarks:

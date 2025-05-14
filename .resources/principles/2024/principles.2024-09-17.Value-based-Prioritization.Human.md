@@ -26,6 +26,7 @@ categories:
 - Product Management
 - Scrum
 tags:
+- Product Backlog
 - Value Delivery
 Watermarks:
   description: 2025-05-07T12:57:53Z

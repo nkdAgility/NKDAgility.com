@@ -31,13 +31,13 @@ tags:
 - Professional Scrum
 - Product Delivery
 - Value Delivery
+- Customer Focus
 - Working Software
 - Continuous Delivery
 - Technical Mastery
 - Frequent Releases
 - Agile Product Management
 - Technical Excellence
-- Agile Strategy
 categories:
 - Product Development
 - Scrum

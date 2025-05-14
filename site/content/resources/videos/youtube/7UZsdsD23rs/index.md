@@ -38,6 +38,7 @@ tags:
 - Agile Philosophy
 - Agile Planning
 - Team Performance
+- Customer Focus
 resourceTypes:
 - video
 layout: video

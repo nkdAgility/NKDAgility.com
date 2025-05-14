@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
+- Customer Focus
 - Product Discovery
 sitemap:
   filename: sitemap.xml
@@ -37,7 +38,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:02:15Z
-concepts: []
+concepts:
+- Strategy
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've often found myself reflecting on the fundamental question: do we truly understand our users? It’s a question that seems simple on the surface, yet it unravels a complex web of assumptions, data, and collaboration that can make or break our projects.

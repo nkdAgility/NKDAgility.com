@@ -30,6 +30,7 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Team Performance
+- Customer Focus
 sitemap:
   filename: sitemap.xml
   priority: 0.6

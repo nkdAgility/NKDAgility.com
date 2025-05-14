@@ -25,6 +25,7 @@ aliasesArchive:
 - /there-is-no-place-like-production
 - /resources/blog/there-is-no-place-like-production
 tags:
+- Customer Focus
 - Product Validation
 - Pragmatic Thinking
 - Value Delivery
@@ -33,7 +34,6 @@ tags:
 - Agile Product Management
 - Evidence Based Management
 - Product Discovery
-- Increment
 - Agile Philosophy
 - Product Delivery
 categories:

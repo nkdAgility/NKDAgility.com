@@ -46,6 +46,7 @@ categories:
 - Product Development
 tags:
 - Sprint Review
+- Increment
 - Empirical Process Control
 - Transparency
 - Professional Scrum
@@ -59,7 +60,6 @@ tags:
 - Team Collaboration
 - Value Delivery
 - Agile Transformation
-- Pragmatic Thinking
 Watermarks:
   description: 2025-05-07T12:57:58Z
 concepts:

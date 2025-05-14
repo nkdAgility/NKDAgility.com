@@ -35,7 +35,6 @@ tags:
 - Scrum Master
 - Scrum Team
 - Software Development
-- Increment
 resourceTypes:
 - video
 categories:

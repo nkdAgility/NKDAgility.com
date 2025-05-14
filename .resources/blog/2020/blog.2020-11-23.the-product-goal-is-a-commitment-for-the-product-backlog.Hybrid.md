@@ -31,6 +31,8 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Product Delivery
+- Customer Focus
+- Product Backlog
 categories:
 - Scrum
 - Product Development

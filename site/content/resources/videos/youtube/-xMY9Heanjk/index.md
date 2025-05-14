@@ -33,6 +33,7 @@ tags:
 - Agile Frameworks
 - Software Development
 - Team Performance
+- Customer Focus
 - Agile Transformation
 - Professional Scrum
 - Scrum Master

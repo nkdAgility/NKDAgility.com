@@ -30,6 +30,7 @@ tags:
 - Product Owner
 - Agile Product Management
 - Software Development
+- Customer Focus
 - Agile Planning
 - Agile Frameworks
 - Value Delivery

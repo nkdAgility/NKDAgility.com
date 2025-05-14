@@ -37,6 +37,7 @@ tags:
 - Software Development
 - Organisational Agility
 - Agile Strategy
+- Customer Focus
 resourceTypes:
 - video
 categories:

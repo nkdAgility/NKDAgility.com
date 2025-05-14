@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Customer Focus
 - Pragmatic Thinking
 - Value Delivery
 - Software Development

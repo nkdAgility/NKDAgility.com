@@ -37,6 +37,7 @@ tags:
 - Metrics and Learning
 - Operational Practices
 - Pragmatic Thinking
+- Customer Focus
 - Value Delivery
 resourceTypes:
 - video

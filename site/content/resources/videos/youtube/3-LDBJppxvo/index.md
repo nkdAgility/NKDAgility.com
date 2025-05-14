@@ -34,6 +34,7 @@ tags:
 - Software Development
 - Working Software
 - Product Delivery
+- Customer Focus
 - Agile Strategy
 - Value Delivery
 - Operational Practices
@@ -43,9 +44,8 @@ tags:
 - Minimum Viable Product
 - Empirical Process Control
 - Pragmatic Thinking
+- Increment
 - Agile Frameworks
-- Agile Product Management
-- Deployment Frequency
 resourceTypes:
 - video
 layout: video

@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: true
 tags:
+- Customer Focus
 - Agile Values and Principles
 - Agile Philosophy
 - Software Development
