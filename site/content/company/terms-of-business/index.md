@@ -1,6 +1,6 @@
 ---
 title: Terms of Business
-description: Terms of Business for the services provided by the company.
+description: Terms of Business for the services provided by NKDAgility.
 trustpilot: false
 menus:
   footer:
@@ -14,7 +14,7 @@ aliases:
 headline:
   cards: []
   title: naked Agility Ltd. Terms of Business.
-  content: Imagine evolving your organization with highly effective teams that not only boost productivity but also create lasting value. With the right external support, clear goals, and continuous feedback loops, these teams will innovate, adapt, and deliver outstanding results. Consistently. Effectively.
+  content: Real agility means evolving your system of work—not managing more tasks. With the right support, your teams adapt faster, deliver smarter, and create lasting value.
 ---
 
 We offer outcome-focused consulting services delivered through a timeboxed retainer model. Rather than buying hours, you retain a percentage of our capacity to co-create meaningful outcomes. We focus on helping you evolve your system of work—not just deliver tasks. If you're not satisfied, we refund your fee.
@@ -23,15 +23,13 @@ We are transparent, collaborative, and committed to protecting your confidential
 
 ## Our business model
 
-We work on a **timeboxed retainer** basis. You retain a percentage of our working time—typically 10% or 33%—and we spend the time required within that limit to deliver valuable outcomes. There is **no fixed scope**, and **no change orders**—just a shared commitment to evolving your system of work.
+We work on a **timeboxed retainer** basis. You retain a percentage of our working time—typically 10% or 25%—and we spend the time required within that limit to deliver valuable outcomes. There is **no fixed scope**, and **no change orders**—just a shared commitment to evolving your system of work.
 
 - **You control the pace** and can reschedule within the agreed timeframe.
 - **We collaborate continuously**, providing as much or as little direction as needed.
 - If you’re not satisfied with our work, **we’ll refund you—no questions asked**.
 
-You’re not buying hours; you’re securing access to strategic, sustained progress over time.
-
-You’re not buying time, you’re retaining access to strategic partnership. You shouldn’t need to make a financial decision every time you need support. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time.
+You’re not buying hours. You’re retaining strategic capacity—continuous access to expert collaboration without transactional overhead. You shouldn’t need to make a financial decision every time you need support. These engagement levels reflect ongoing involvement and commitment, not time blocks. The hours are indicative only; we typically invest more time early in the engagement, which is why we don’t start more than one at a time.
 
 {{< table "table table-striped table-bordered" >}}
 | **Engagement Level** | **%** | **\~Hours/Week** | **Typical Involvement** |
@@ -71,6 +69,18 @@ We succeed together. This means active, open collaboration between your team and
 - **We share risks, insights, and discoveries** – transparently and frequently.
 
 When both sides are engaged, we make meaningful change happen.
+
+## UK Legal Compliance (IR35)
+
+For services delivered within the United Kingdom:
+
+- naked Agility Ltd operates as an **independent consultancy**. There is no employment relationship, supervision, or control by the client.
+- We deliver **outcome-based services** under a timeboxed retainer, with **no fixed hours or location requirements**.
+- We may engage subcontractors under our supervision and provide substitution where needed.
+- You are not purchasing individual labour or day-rate resources. You are **retaining access to strategic consulting outcomes**.
+- If your procurement policy or internal legal interpretation requires **IR35 compliance**, an additional surcharge of 40% will apply to cover the legal, tax, and administrative overheads of that risk position.
+
+This clause applies **only to UK engagements**. It does not affect services delivered outside the United Kingdom.
 
 ## Terms of Payment
 
@@ -214,7 +224,7 @@ Each engagement begins upon written acceptance and initial payment. Unless other
 
 ## Limitation of Liability
 
-We carry professional indemnity insurance and expect reasonable limits of liability on both sides. We do not accept liability for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
+We carry £1,000,000 GBP professional indemnity insurance and operate under reasonable limits of liability. We are not liable for indirect or consequential loss. If there's a concern, we’ll address it directly and transparently.
 
 ## Issue Resolution
 
@@ -226,3 +236,5 @@ If an issue arises, we commit to open, respectful dialogue to resolve it quickly
 - These terms are subject to change. The latest version is always available at [nkdagility.com/terms](https://nkdagility.com/terms).
 
 If you have any questions, contact **[clientservices@nkdagility.com](mailto:clientservices@nkdagility.com)**.
+
+
