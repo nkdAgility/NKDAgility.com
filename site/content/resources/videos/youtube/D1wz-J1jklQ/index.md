@@ -39,8 +39,8 @@ tags:
 - Working Software
 - Value Delivery
 - Pragmatic Thinking
+- Customer Focus
 - Engineering Practices
-- Release Management
 resourceTypes:
 - video
 sitemap:

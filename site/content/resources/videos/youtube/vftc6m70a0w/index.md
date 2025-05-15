@@ -35,7 +35,8 @@ categories:
 - Uncategorized
 Watermarks:
   description: 2025-05-07T13:07:19Z
-concepts: []
+concepts:
+- Ethos
 
 ---
 In the realm of agility, one of the seven virtues that often gets overlooked is chastity. Now, before you raise an eyebrow, let me clarify: in our agile context, chastity is all about taking your time. It’s about resisting the urge to rush into the implementation of agile practices without fully understanding the implications of those changes within your organisation.

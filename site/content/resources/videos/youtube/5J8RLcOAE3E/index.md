@@ -37,6 +37,7 @@ tags:
 - Technical Excellence
 - Working Software
 - Product Delivery
+- Customer Focus
 resourceTypes:
 - video
 sitemap:

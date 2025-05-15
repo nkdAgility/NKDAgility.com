@@ -26,13 +26,13 @@ preview: https://i.ytimg.com/vi/ZBb8OZ0I6qA/maxresdefault.jpg
 duration: 1156
 isShort: false
 tags:
+- Product Backlog
 - Agile Planning
 - Operational Practices
 - Pragmatic Thinking
 - Value Delivery
 - Agile Product Management
 - Software Development
-- Product Backlog
 - Agile Planning Tools
 - Azure DevOps
 - Organisational Agility

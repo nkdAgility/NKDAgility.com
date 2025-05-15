@@ -37,6 +37,7 @@ tags:
 - Software Development
 - Team Collaboration
 - Team Performance
+- Sprint Review
 - Agile Philosophy
 - Agile Product Management
 - Agile Strategy

@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Sprint Review
 - Agile Product Management
 resourceTypes:
 - video

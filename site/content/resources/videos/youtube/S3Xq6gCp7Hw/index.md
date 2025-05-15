@@ -31,6 +31,7 @@ sitemap:
 tags:
 - Pragmatic Thinking
 - Product Owner
+- Customer Focus
 - Professional Scrum
 - Scrum Team
 - Product Discovery

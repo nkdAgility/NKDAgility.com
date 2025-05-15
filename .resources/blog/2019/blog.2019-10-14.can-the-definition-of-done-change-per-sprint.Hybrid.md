@@ -23,13 +23,12 @@ aliasesArchive:
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
 tags:
+- Definition of Done
 - Professional Scrum
 - Working Software
 - Software Development
-- Definition of Done
 - Agile Frameworks
 - Scrum Team
-- Increment
 - Pragmatic Thinking
 - Scrum Master
 - Agile Planning

@@ -41,6 +41,7 @@ categories:
 - Product Management
 - Engineering Excellence
 tags:
+- Customer Focus
 - Evidence Based Management
 - Continuous Improvement
 - Current Value
@@ -55,7 +56,6 @@ tags:
 - Operational Practices
 - Business Agility
 - Organisational Agility
-- Agile Philosophy
 Watermarks:
   description: 2025-05-07T12:58:05Z
 concepts:

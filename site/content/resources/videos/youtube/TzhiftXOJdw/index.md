@@ -49,7 +49,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:11:01Z
-concepts: []
+concepts:
+- Ethos
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

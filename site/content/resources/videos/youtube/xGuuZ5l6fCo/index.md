@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Customer Focus
 - Agile Philosophy
 - Organisational Agility
 - Agile Product Management
@@ -45,7 +46,6 @@ tags:
 - Business Agility
 - Product Validation
 - Value Delivery
-- Continuous Improvement
 resourceTypes:
 - video
 categories:

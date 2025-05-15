@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Customer Focus
 - Unrealised Value
 - Evidence Based Management
 - Agile Product Management
@@ -43,7 +44,6 @@ tags:
 - Hypothesis Driven Development
 - Market Adaptability
 - Metrics and Learning
-- Pragmatic Thinking
 resourceTypes:
 - video
 categories:

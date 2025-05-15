@@ -47,7 +47,8 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:11:41Z
-concepts: []
+concepts:
+- Ethos
 
 ---
 When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of [product management]({{< ref "/categories/product-management" >}}) - these are the MVPs who redefine the game. 🌟 

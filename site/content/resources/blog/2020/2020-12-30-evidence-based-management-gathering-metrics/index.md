@@ -29,6 +29,7 @@ aliasesArchive:
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
 tags:
+- Customer Focus
 - Evidence Based Management
 - Metrics and Learning
 - Ability to Innovate
@@ -43,7 +44,6 @@ tags:
 - Current Value
 - Time to Market
 - Agile Frameworks
-- Empirical Process Control
 categories:
 - Product Management
 - Product Development

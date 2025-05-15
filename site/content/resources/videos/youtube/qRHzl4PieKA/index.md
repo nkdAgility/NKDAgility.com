@@ -34,6 +34,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Customer Focus
+- Product Backlog
 - Agile Strategy
 - Business Agility
 - Customer Feedback Loops
@@ -47,8 +49,6 @@ tags:
 - Team Performance
 - Agile Frameworks
 - Continuous Improvement
-- Customer Satisfaction
-- Operational Practices
 resourceTypes:
 - video
 categories:

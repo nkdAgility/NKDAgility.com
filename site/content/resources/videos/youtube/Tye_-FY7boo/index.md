@@ -34,6 +34,7 @@ tags:
 - Product Owner
 - Value Delivery
 - Product Strategy
+- Customer Focus
 - Product Discovery
 - Product Validation
 - Agile Strategy

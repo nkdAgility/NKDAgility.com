@@ -26,7 +26,8 @@ card:
   title: 
 categories:
 - Uncategorized
-tags: []
+tags:
+- Definition of Done
 Watermarks:
   description: 2025-05-07T12:58:00Z
 concepts:

@@ -63,6 +63,7 @@ categories:
 - Scrum
 - Product Development
 tags:
+- Increment
 - Professional Scrum
 - Transparency
 - Agile Frameworks
@@ -71,13 +72,12 @@ tags:
 - Agile Product Management
 - Software Development
 - Value Delivery
-- Product Backlog
 - Scrum Master
 - Scrum Values
 - Agile Planning
 - Product Delivery
 - Team Performance
-- Sprint Review
+- Definition of Done
 Watermarks:
   description: 2025-05-07T12:58:15Z
 concepts:

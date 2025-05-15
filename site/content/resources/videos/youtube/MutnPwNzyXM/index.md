@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: false
 tags:
+- Customer Focus
 - Pragmatic Thinking
 - Personal
 sitemap:

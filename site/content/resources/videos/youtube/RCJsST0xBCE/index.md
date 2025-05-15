@@ -26,6 +26,7 @@ tags:
 - Azure DevOps
 - Install and Configuration
 - Software Development
+- System Configuration
 sitemap:
   filename: sitemap.xml
   priority: 0.6

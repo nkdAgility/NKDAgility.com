@@ -33,6 +33,7 @@ sitemap:
 tags:
 - Evidence Based Management
 - Product Owner
+- Customer Focus
 - Decision Making
 - Current Value
 - Agile Product Management

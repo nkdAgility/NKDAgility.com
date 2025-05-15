@@ -32,6 +32,7 @@ sitemap:
   priority: 0.6
 tags:
 - Time to Market
+- Customer Focus
 - Ability to Innovate
 - Continuous Improvement
 - Evidence Based Leadership
@@ -45,7 +46,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Current Value
-- Decision Making
 resourceTypes:
 - video
 categories:

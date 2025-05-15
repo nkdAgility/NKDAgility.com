@@ -24,18 +24,18 @@ aliasesArchive:
 - /the-fallacy-of-the-rejected-backlog-item
 - /resources/blog/the-fallacy-of-the-rejected-backlog-item
 tags:
+- Sprint Review
 - Professional Scrum
+- Product Backlog
+- Increment
 - Empirical Process Control
 - Transparency
 - Working Software
 - Agile Frameworks
 - Software Development
-- Sprint Review
 - Agile Product Management
 - Scrum Team
 - Agile Planning
-- Increment
-- Product Backlog
 - Product Delivery
 - Product Owner
 - Value Delivery

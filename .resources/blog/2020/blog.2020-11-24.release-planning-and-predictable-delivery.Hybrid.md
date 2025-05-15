@@ -25,6 +25,7 @@ aliasesArchive:
 - /resources/blog/release-planning-and-predictable-delivery
 tags:
 - Software Development
+- Increment
 - Agile Planning
 - Agile Product Management
 - Pragmatic Thinking
@@ -38,7 +39,6 @@ tags:
 - Release Management
 - Technical Debt
 - Agile Transformation
-- Organisational Agility
 categories:
 - Product Development
 - Scrum

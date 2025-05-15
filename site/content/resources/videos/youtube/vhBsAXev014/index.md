@@ -45,7 +45,8 @@ categories:
 - Leadership
 Watermarks:
   description: 2025-05-07T13:08:30Z
-concepts: []
+concepts:
+- Ethos
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

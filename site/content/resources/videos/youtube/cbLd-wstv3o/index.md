@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Customer Focus
 - Unrealised Value
 - Continuous Improvement
 - Decision Making
@@ -42,10 +43,9 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Current Value
+- Product Backlog
 - Customer Satisfaction
 - Working Software
-- Customer Retention
-- Product Owner
 resourceTypes:
 - video
 categories:

@@ -30,9 +30,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Sprint Review
 - Pragmatic Thinking
 - Software Development
-- Sprint Review
 - Agile Planning
 - Agile Transformation
 - Agile Frameworks

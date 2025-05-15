@@ -27,12 +27,13 @@ preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: false
 tags:
+- Sprint Review
 - Agile Product Management
 - Professional Scrum
 - Scrum Team
 - Software Development
 - Product Owner
-- Sprint Review
+- Product Backlog
 - Agile Planning
 - Pragmatic Thinking
 - Product Delivery

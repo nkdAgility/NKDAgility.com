@@ -27,6 +27,7 @@ aliasesArchive:
 tags:
 - Operational Practices
 - Market Adaptability
+- Customer Focus
 - Azure DevOps
 - Technical Mastery
 - Continuous Improvement
@@ -39,7 +40,6 @@ tags:
 - Value Delivery
 - Deployment Strategies
 - Frequent Releases
-- Pragmatic Thinking
 categories:
 - Engineering Excellence
 - Product Development

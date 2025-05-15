@@ -22,6 +22,7 @@ categories:
 - Product Development
 - Product Management
 tags:
+- Customer Focus
 - Product Validation
 - Product Discovery
 Watermarks:

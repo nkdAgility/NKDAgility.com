@@ -40,7 +40,8 @@ categories:
 - Product Development
 Watermarks:
   description: 2025-05-07T13:16:02Z
-concepts: []
+concepts:
+- Ethos
 
 ---
 In my journey as a [Scrum]({{< ref "/categories/scrum" >}}) trainer, I’ve often encountered a startling statistic: according to Forrester Research, around 81% of development shops claim to be agile. However, the reality is that many of these organisations are not being entirely truthful about their practices. This disconnect raises an important question: how can we discern genuine agility from mere lip service? 
