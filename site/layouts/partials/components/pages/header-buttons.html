@@ -1,0 +1,18 @@
+<div class="d-flex">
+  <div class="buttons">
+    {{ with .Params.headline.buttons }}
+      {{ range . }}
+        {{ $isExternal := strings.HasPrefix .link "http" }}
+        <a href="{{ if $isExternal }}{{ .link }}{{ else }}{{ (.link | urlize) | relURL }}{{ end }}" class="btn btn-sm btn-nkdagility-secondary text-nowrap" {{ if $isExternal }}target="_blank" rel="noopener"{{ end }}>
+          {{ if .icon }}
+            <i class="{{ if .iconType }}{{ .iconType }}{{ else }}fa-regular{{ end }} {{ .icon }}"></i>
+          {{ end }}
+          {{ .text }}
+          {{ if $isExternal }}
+            &nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small>
+          {{ end }}
+        </a>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>

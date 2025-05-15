@@ -1,46 +1,11 @@
 {{- define "headline" }}
   <section class="container-fluid resources-headline py-md-4">
     <section class="container my-2" style="max-width: 900px !important">
-      <div>
-        <div class="row">
-          <div class="col-12 col-xl-8">
-            {{- partial "publications/resourceType.html" . }}
-          </div>
-          <div class="col-xl-4 d-none d-xl-flex justify-content-end align-items-center">
-            <h4>tech·nic·al·ly agile</h4>
-          </div>
-          <div class="col-12 col-xl-8 d-flex flex-column">
-            <div class="flex-grow-1">
-              <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
-              {{- if .Params.subtitle }}
-                <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
-              {{ else }}
-                <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
-              {{- end }}
-            </div>
-            <div class="mt-auto">{{- partial "publications/craft.html" . }}</div>
-          </div>
-          <div class="col-xl-4 d-none d-xl-flex justify-content-center align-items-center">
-            <div class="position-relative">
-              <img src="/images/technically-agile-logo.png" />
-              <img src="/images/nkdagility-with-martin-hinshelwood-dark-300px.png" alt="Image" class="position-absolute top-0 end-0" style="width: 100px; height: auto;" />
-            </div>
-          </div>
-          <div class="col-xl-12 d-none d-xl-flex justify-content-end align-items-center">
-            {{ $url := "" }}
-            {{ if eq .Type "resources" }}
-              {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
-            {{ else }}
-              {{ $url = printf "https://nkdagility.com%s" .RelPermalink }}
-            {{ end }}
-            {{ $url }}
-          </div>
-        </div>
-      </div>
+      {{- partial "components/pages/header.html" . }}
     </section>
   </section>
   <section class="container-fluid resources-headline-sharebar">
-    <section class="container" style="max-width: 900px !important">{{- partial "publications/share-bar.html" . }}</section>
+    <section class="container" style="max-width: 900px !important">{{- partial "components/resources/share-bar.html" . }}</section>
   </section>
 {{- end }}
 
@@ -90,13 +55,13 @@
   </section>
 
   <section class="container my-5" style="max-width: 700px !important">
-    {{- partial "publications/tag-cloud.html" . }}
+    {{- partial "components/resources/tag-cloud.html" . }}
   </section>
   <section class="container my-5" style="max-width: 900px !important">
-    {{- partial "publications/share-bar.html" . }}
+    {{- partial "components/resources/share-bar.html" . }}
   </section>
   <section class="container my-5 p-2" style="max-width: 700px !important">
-    {{- partial "publications/comments.html" . }}
+    {{- partial "components/resources/comments.html" . }}
   </section>
 {{- end }}
 {{- define "template" }}

@@ -1,0 +1,57 @@
+<div>
+  <div class="row">
+    <div class="col-12 col-xl-10">
+      {{ if eq .Type "resources" }}
+        {{- partial "components/resources/resourceType.html" . }}
+      {{ else }}
+        {{- partial "components/pages/header-classifications.html" . }}
+      {{ end }}
+    </div>
+    <div class="col-xl-2 d-none d-xl-flex justify-content-end align-items-center text-nowrap">
+      {{ if eq .Type "resources" }}
+        <h4>tech·nic·al·ly agile</h4>
+      {{ else }}
+        <h4>naked Agil·ity</h4>
+      {{ end }}
+    </div>
+    <div class="col-12 col-xl-8 d-flex flex-column">
+      <div class="flex-grow-1">
+        <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
+        {{- if .Params.headline }}
+          <h2 class="mb-4 nkda-heading-secondary">{{- .Params.headline.content | markdownify }}</h2>
+        {{ else }}
+          {{- if .Params.subtitle }}
+            <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
+          {{ else }}
+            <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
+          {{- end }}
+        {{- end }}
+      </div>
+      {{ if eq .Type "resources" }}
+        <div class="mt-auto">{{- partial "components/resources/craft.html" . }}</div>
+      {{ else }}
+        {{- partial "components/pages/header-buttons.html" . }}
+        <div class="mt-auto">Last Updated: {{ .Lastmod.Format "2006-01-02" }}</div>
+      {{ end }}
+    </div>
+    <div class="col-xl-4 d-none d-xl-flex justify-content-center align-items-center">
+      <div class="position-relative">
+        {{ if eq .Type "resources" }}
+          <img src="/images/logo-{{ .Section }}-{{ .Params.ResourceType }}.png" style="max-width: 300px;" />
+        {{ else }}
+          <img src="/images/logo-{{ .Section }}.png" style="max-width: 300px;" />
+        {{ end }}
+        <img src="/images/nkdagility-with-martin-hinshelwood-dark-300px.png" alt="Image" class="position-absolute top-0 end-0" style="width: 100px; height: auto;" />
+      </div>
+    </div>
+    <div class="col-xl-12 d-none d-xl-flex justify-content-end align-items-center">
+      {{ $url := "" }}
+      {{ if eq .Type "resources" }}
+        {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+      {{ else }}
+        {{ $url = printf "https://nkdagility.com%s" .RelPermalink }}
+      {{ end }}
+      {{ $url }}
+    </div>
+  </div>
+</div>

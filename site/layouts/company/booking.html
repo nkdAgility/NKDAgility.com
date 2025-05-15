@@ -1,0 +1,19 @@
+{{- define "headline" }}
+  <section class="container-fluid resources-headline py-md-4">
+    <section class="container">
+      {{- partial "components/pages/header.html" . }}
+    </section>
+  </section>
+{{- end }}
+
+{{- define "main" }}
+
+  <section class="container">
+    {{- .Content }}
+    <hr />
+  </section>
+  <iframe id="myIframe" src="https://outlook.office365.com/owa/calendar/nakedAgilityLimited@nkdagility.com/bookings/" width="100%" height="3000px" scrolling="yes" style="border: 0"></iframe>
+{{- end }}
+{{- define "template" }}
+  page/bookings.html
+{{- end }}

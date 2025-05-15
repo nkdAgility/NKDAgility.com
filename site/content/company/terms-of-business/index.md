@@ -38,7 +38,7 @@ You’re not buying hours. You’re retaining strategic capacity—continuous ac
 | **Advisory** | 25% | \~1 day | Regular reviews, pairing, shaping delivery and direction |
 | **Embedded** | 50% | \~2 days | Deep collaboration, hands-on support, stakeholder contact |
 | **Fractional Exec** | 75% | \~3 days (circa) | Transformation ownership, org-level impact |
-| **Full-time Equivalent** | 100% | \~4 days (circa) | Not offered; full-time role equivalent |
+| **Full-time** | 100% | \~4 days (circa) | Not offered; full-time role equivalent |
 
 {{< /table >}}
 
@@ -133,13 +133,13 @@ This approach avoids complexity while ensuring you’re never surprised.
 Fees are all-inclusive for remote work.
 
 {{< table "table table-striped table-bordered" >}}
-| **Level** | **Weekly** | **Monthly** | **Quarterly** |
-| ------------------- | ------------- | ------------- | ------------- |
-| **Occasional** | £567 | £1,192 | £2,470 |
-| **Advisory** | £6,800 | £14,300 | £29,500 |
-| **Embedded** | £13,600 | £28,600 | £59,000 |
-| **Fractional Exec** | _On request_ | _On request_ | _On request_ |
-| **Full-time** | _Not offered_ | _Not offered_ | _Not offered_ |
+| **Level** | **%** | **Weekly** | **Monthly** | **Quarterly** |
+| ------------------- | ------------- | ------------- | ------------- | ------------- |
+| **Occasional** | 5% | £567 | £1,192 | £2,470 |
+| **Advisory** | 25% | £6,800 | £14,300 | £29,500 |
+| **Embedded** | 50% | £13,600 | £28,600 | £59,000 |
+| **Fractional Exec** | 75% | _On request_ | _On request_ | _On request_ |
+| **Full-time** | 100% | _Not offered_ | _Not offered_ | _Not offered_ |
 {{< /table >}}
 
 These fees do **not include training**, however, the **quarterly retainer** includes a 40% discount on training.
@@ -236,5 +236,3 @@ If an issue arises, we commit to open, respectful dialogue to resolve it quickly
 - These terms are subject to change. The latest version is always available at [nkdagility.com/terms](https://nkdagility.com/terms).
 
 If you have any questions, contact **[clientservices@nkdagility.com](mailto:clientservices@nkdagility.com)**.
-
-
