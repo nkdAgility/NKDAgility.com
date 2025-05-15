@@ -2,9 +2,7 @@
 title: "Privacy Policy"
 date: 2025-04-11
 draft: false
-layout: page
 description: "Learn how we collect, process, and protect data across our website and Azure DevOps Migration Tools."
-type: page
 aliases:
   - /privacy/
 ---
