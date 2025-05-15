@@ -29,6 +29,7 @@ isShort: false
 tags:
 - Agile Product Management
 - Pragmatic Thinking
+- Customer Focus
 - Decision Making
 - Software Development
 - Value Delivery
@@ -43,7 +44,8 @@ categories:
 - Product Management
 Watermarks:
   description: 2025-05-07T13:13:17Z
-concepts: []
+concepts:
+- Strategy
 
 ---
 In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional [Scrum]({{< ref "/categories/scrum" >}}) with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development. 

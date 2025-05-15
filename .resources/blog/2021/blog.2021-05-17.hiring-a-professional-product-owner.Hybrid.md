@@ -47,7 +47,6 @@ tags:
 - Software Development
 - Product Delivery
 - Value Delivery
-- Product Backlog
 - Pragmatic Thinking
 categories:
 - Product Development

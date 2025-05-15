@@ -28,9 +28,9 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Sprint Review
 - Agile Product Management
 - Software Development
-- Sprint Review
 - Professional Scrum
 - Team Collaboration
 - Transparency

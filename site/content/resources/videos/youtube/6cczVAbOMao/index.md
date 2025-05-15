@@ -28,10 +28,10 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Backlog
 - Product Owner
 - Software Development
 - Agile Product Management
-- Product Backlog
 - Professional Scrum
 - Product Delivery
 - Agile Planning

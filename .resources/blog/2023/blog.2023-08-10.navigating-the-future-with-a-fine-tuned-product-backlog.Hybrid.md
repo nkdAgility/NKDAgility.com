@@ -25,12 +25,12 @@ aliasesArchive:
 - /navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
 tags:
+- Product Backlog
 - Professional Scrum
 - Agile Planning
 - Agile Product Management
 - Backlog Refinement
 - Software Development
-- Product Backlog
 - Product Delivery
 - Product Owner
 - Value Delivery

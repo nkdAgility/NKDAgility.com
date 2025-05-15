@@ -33,6 +33,7 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Software Development
+- Customer Focus
 sitemap:
   filename: sitemap.xml
   priority: 0.6

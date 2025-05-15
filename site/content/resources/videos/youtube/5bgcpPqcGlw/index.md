@@ -27,8 +27,8 @@ isShort: false
 tags:
 - Operational Practices
 - Pragmatic Thinking
-- Azure DevOps
 - Site Reliability Engineering
+- Azure DevOps
 - Software Development
 - Organisational Agility
 - Technical Mastery

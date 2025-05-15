@@ -30,6 +30,7 @@ tags:
 - Agile Product Management
 - Product Delivery
 - Value Delivery
+- Product Backlog
 sitemap:
   filename: sitemap.xml
   priority: 0.6

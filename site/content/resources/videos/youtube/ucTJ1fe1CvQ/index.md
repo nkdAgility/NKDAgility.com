@@ -32,6 +32,7 @@ sitemap:
 tags:
 - Product Discovery
 - Pragmatic Thinking
+- Customer Focus
 - Continuous Learning
 resourceTypes:
 - video

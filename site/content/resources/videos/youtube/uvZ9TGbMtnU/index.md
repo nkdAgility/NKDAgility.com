@@ -26,6 +26,7 @@ preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41
 isShort: true
 tags:
+- Increment
 - Agile Transformation
 - Working Software
 - Software Development

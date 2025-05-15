@@ -37,6 +37,7 @@ categories:
 - Product Development
 - Product Management
 tags:
+- Customer Focus
 - Strategic Goals
 - Decision Making
 - Evidence Based Leadership
@@ -51,7 +52,6 @@ tags:
 - Software Development
 - Enterprise Agility
 - Common Goals
-- Continuous Improvement
 Watermarks:
   description: 2025-05-07T12:57:55Z
 concepts:

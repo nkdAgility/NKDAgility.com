@@ -37,8 +37,9 @@ tags:
 - Agile Product Management
 - Operational Practices
 - Product Delivery
-- Product Backlog
 - Team Performance
+- Customer Focus
+- Product Backlog
 resourceTypes:
 - video
 layout: video

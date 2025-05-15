@@ -33,9 +33,9 @@ tags:
 - Agile Planning
 - Agile Transformation
 - Agile Product Management
+- Customer Focus
 - Agile Strategy
 - Agile Values and Principles
-- Increment
 - Market Adaptability
 - Organisational Agility
 - Organisational Culture

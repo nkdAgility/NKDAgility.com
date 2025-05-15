@@ -32,6 +32,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Customer Focus
 - Customer Feedback Loops
 - Continuous Improvement
 - Customer Satisfaction
@@ -43,10 +44,9 @@ tags:
 - Working Software
 - Product Delivery
 - Time to Market
+- Product Backlog
 - Value Delivery
 - Business Agility
-- Agile Strategy
-- Agile Philosophy
 resourceTypes:
 - video
 categories:

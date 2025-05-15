@@ -24,12 +24,12 @@ aliasesArchive:
 - /blog/work-can-flow-across-the-sprint-boundary
 - /resources/blog/work-can-flow-across-sprint-boundary
 tags:
+- Increment
 - Software Development
 - Empirical Process Control
 - Professional Scrum
 - Transparency
 - Working Software
-- Increment
 - Operational Practices
 - Pragmatic Thinking
 - Agile Frameworks

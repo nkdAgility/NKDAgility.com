@@ -36,10 +36,10 @@ tags:
 - Pragmatic Thinking
 - Experimentation
 - Value Delivery
+- Customer Focus
 - Ability to Innovate
 - Agile Product Management
 - Common Goals
-- Enterprise Agility
 categories:
 - Product Management
 - Product Development

@@ -26,6 +26,7 @@ preview: https://i9.ytimg.com/vi/Ig-HpUfQr3M/maxresdefault.jpg?sqp=COymp7oG&rs=A
 duration: 501
 isShort: false
 tags:
+- Customer Focus
 - Value Delivery
 - Experimentation
 - Hypothesis Driven Development

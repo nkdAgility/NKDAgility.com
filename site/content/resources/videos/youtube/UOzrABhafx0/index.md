@@ -32,12 +32,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Backlog
 - Agile Planning
 - Pragmatic Thinking
 - Agile Planning Tools
 - Product Owner
 - Backlog Refinement
-- Product Backlog
 - Agile Product Management
 - Software Development
 - Operational Practices

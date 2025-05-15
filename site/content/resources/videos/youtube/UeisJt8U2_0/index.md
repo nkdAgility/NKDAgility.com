@@ -42,7 +42,8 @@ categories:
 - Scrum
 Watermarks:
   description: 2025-05-07T13:08:34Z
-concepts: []
+concepts:
+- Ethos
 
 ---
 # Navigating the Plague of Incompetence in Agile [Coaching]({{< ref "/tags/coaching" >}}) 🚧

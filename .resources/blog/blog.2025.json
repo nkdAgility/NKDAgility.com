@@ -572,7 +572,7 @@
         "description": "2025-05-07T12:49:11Z"
       },
       "concepts": [
-        "Tenet"
+        "Ethos"
       ]
     },
     "BodyContent": "[Scrum]({{< ref \"/categories/scrum\" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref \"/tags/project-management\" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.\n\nBut self-management is not simply a label you apply to teams. It demands something deeper and harder: real agency.\n\nWithout agency, Scrum collapses into shallow ritual. Without agency, accountability is performative, not real.  \nWithout agency, you are not doing Scrum. You are enacting a fragile imitation of agility.\n\n## Scrum _Is_ Agile — and Agile Demands Self-Management\n\nAgile and Scrum are often conflated or treated as separate. Let us be clear: True Scrum is Agile. Scrum operationalises Agile principles with discipline, [transparency]({{< ref \"/tags/transparency\" >}}), and empiricism. It creates a bounded environment where teams can thrive.\n\nThe Agile Manifesto (2001) made it clear:\n\n> _The best architectures, requirements, and designs emerge from self-organizing teams._\n\nSelf-organisation was never about anarchy. It was about **teams owning how they deliver value**. Agile assumes teams will figure out the best way to achieve goals — not be told exactly what to do.\n\nScrum sharpened this requirement in the 2020 Scrum Guide:\n\n> _Scrum Teams are cross-functional and self-managing, meaning they internally decide who does what, when, and how._\n\nSelf-management is not a bonus feature. It is the foundation. Without it, Scrum is impossible.\n\n## Agency: The Prerequisite for Accountability\n\nAgency is the power to make decisions and act toward outcomes you are accountable for. It is inseparable from accountability itself. Without agency, accountability is a façade — a mechanism for assigning blame rather than empowering success.\n\nScrum defines clear accountabilities:\n\n- **[Product Owner]({{< ref \"/tags/product-owner\" >}})**: Maximising value.\n- **Developers**: Delivering a usable [Increment]({{< ref \"/tags/increment\" >}}) every Sprint.\n- **[Scrum Master]({{< ref \"/tags/scrum-master\" >}})**: Enabling the [Scrum Team]({{< ref \"/tags/scrum-team\" >}})’s effectiveness.\n\nThese accountabilities **assume** that those who hold them [have real authority to act]({{< ref \"/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum\" >}}).\n\nWhen organisations strip away decision-making power but leave accountability in place, they are not enabling agility. They are constructing a system of learned helplessness.\n\n## The Myth of \"Self-Managing\" Teams\n\nMany organisations today claim to embrace \"self-managing teams\" but operate in ways that directly undermine them:\n\n- Sprint Goals are dictated, not created.\n- Work is assigned to individuals by managers.\n- Technical decisions are second-guessed by external authorities.\n\nThis is not self-management. This is hierarchical command-and-control wrapped in daily standups and sticky notes.\n\nIf your team cannot decide _how_ to achieve the Sprint Goal, they are not self-managing. They are being managed under a different name.\n\n## Weak Scrum Masters Enable Weak Scrum\n\nScrum Masters are **accountable for the effectiveness of the Scrum Team**. Yet in practice, [many are limited to scheduling events and taking notes]({{< ref \"/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know\" >}}), with no real authority to challenge systemic dysfunction.\n\nA Scrum Master without agency is not fulfilling their accountability. They are facilitating ceremony without enabling change.\n\nScrum Masters must:\n\n- **Teach** [leadership]({{< ref \"/categories/leadership\" >}}) and teams what true self-management entails.\n- **Coach** teams to take ownership of their processes and outcomes.\n- **Mentor** individuals to step into accountability with courage.\n- **Facilitate** organisational evolution, not just event logistics.\n\nIf you are a Scrum Master and [you cannot do these things because of organisational resistance]({{< ref \"/resources/blog/2025/2025-03-12-great-scrum-masters-need-technical-business-and-organisational-mastery\" >}}), you must raise it visibly. Otherwise, you are complicit in the degradation of Scrum.\n\n## Why Weak Implementations Collapse\n\nWhen organisations adopt the **appearance** of Scrum without enabling the **conditions** for Scrum, dysfunction inevitably follows:\n\n- Daily Scrums become status reporting.\n- Sprint Reviews become formalities with no real inspection.\n- Retrospectives become meaningless because the team lacks the power to change anything.\n\nScrum without agency becomes a theatre production. A ritualistic reenactment of agility, without any of the outcomes.\n\nWhen organisations complain that \"[Scrum doesn’t work]({{< ref \"/resources/blog/2021/2021-04-19-stop-normalizing-unprofessional-behaviour-in-the-name-of-agility\" >}}),\" the reality is usually simpler: **they refused to enable it to work**, and they [ignore the evidence of their own dysfunction]({{< ref \"/resources/blog/2024/2024-04-17-you-cant-stop-the-signal-but-you-can-ignore-it\" >}}).\n\n## The Path Forward: Fight for Agency\n\nIf you are serious about creating real, resilient agility:\n\n- **Scrum Masters** must coach, teach, mentor, and cause real change — not just facilitate ceremonies.\n- **Product Owners** must demand the authority to own the backlog and drive [product strategy]({{< ref \"/tags/product-strategy\" >}}).\n- **Developers** must guard their right to decide how to build and deliver working product Increments.\n\nAnd leadership must understand: if you want the results Scrum promises, you must create the environment Scrum requires.\n\nSelf-management is not optional. Agency is not optional. Without them, you have nothing.\n\n## Conclusion\n\nScrum depends on self-management, and self-management depends on agency. Remove agency, and you remove the heart of Scrum. All that remains is empty ceremony, a hollow simulation of Agile values.\n\nIf you truly want the benefits of Scrum — adaptability, resilience, continuous [value delivery]({{< ref \"/tags/value-delivery\" >}}) — you must be willing to do the hard work of granting real agency to those accountable for outcomes.\n\n**Scrum without agency is not Scrum. It is theatre.**\n\nChoose what you want to build.\n",
@@ -981,6 +981,7 @@
       "tags": [
         "Operational Practices",
         "Market Adaptability",
+        "Customer Focus",
         "Azure DevOps",
         "Technical Mastery",
         "Continuous Improvement",
@@ -992,8 +993,7 @@
         "Organisational Agility",
         "Value Delivery",
         "Deployment Strategies",
-        "Frequent Releases",
-        "Pragmatic Thinking"
+        "Frequent Releases"
       ],
       "categories": [
         "Engineering Excellence",
@@ -1042,6 +1042,7 @@
         "Deployment Frequency",
         "Working Software",
         "Market Adaptability",
+        "Customer Focus",
         "Operational Practices",
         "Frequent Releases",
         "Value Delivery",
@@ -1051,8 +1052,7 @@
         "Release Management",
         "Time to Market",
         "Pragmatic Thinking",
-        "Increment",
-        "Evidence Based Management"
+        "Increment"
       ],
       "categories": [
         "Product Development",
@@ -1174,13 +1174,13 @@
         "Professional Scrum",
         "Product Delivery",
         "Value Delivery",
+        "Customer Focus",
         "Working Software",
         "Continuous Delivery",
         "Technical Mastery",
         "Frequent Releases",
         "Agile Product Management",
-        "Technical Excellence",
-        "Agile Strategy"
+        "Technical Excellence"
       ],
       "categories": [
         "Product Development",

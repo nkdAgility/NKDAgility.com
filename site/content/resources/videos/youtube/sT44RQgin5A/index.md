@@ -34,6 +34,7 @@ tags:
 - Value Delivery
 - Evidence Based Management
 - Metrics and Learning
+- Customer Focus
 - Organisational Agility
 - Operational Practices
 - Product Delivery
@@ -44,7 +45,6 @@ tags:
 - Current Value
 - Time to Market
 - Unrealised Value
-- Empirical Process Control
 resourceTypes:
 - video
 categories:

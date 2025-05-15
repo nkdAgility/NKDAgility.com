@@ -32,6 +32,8 @@ tags:
 - Professional Scrum
 - Scrum Team
 - Software Development
+- Increment
+- Product Backlog
 categories:
 - Scrum
 - Product Development

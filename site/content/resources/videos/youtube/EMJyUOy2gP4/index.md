@@ -37,6 +37,7 @@ tags:
 - Scrum Master
 - Pragmatic Thinking
 - Team Performance
+- Customer Focus
 - Evidence Based Leadership
 - Current Value
 - Agile Product Management

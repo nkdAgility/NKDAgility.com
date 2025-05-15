@@ -31,6 +31,7 @@ sitemap:
   priority: 0.6
 tags:
 - Software Development
+- Definition of Done
 - Product Delivery
 - Technical Debt
 - Technical Mastery
@@ -40,8 +41,6 @@ tags:
 - Pragmatic Thinking
 - Operational Practices
 - Technical Excellence
-- Definition of Done
-- Increment
 - Competence
 resourceTypes:
 - video

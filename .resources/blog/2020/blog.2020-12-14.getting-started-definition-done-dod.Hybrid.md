@@ -31,9 +31,9 @@ aliasesArchive:
 - /resources/blog/getting-started-definition-done-dod
 - /resources/blog/getting-started-with-a-definition-of-done-dod
 tags:
-- Working Software
 - Definition of Done
 - Increment
+- Working Software
 - Software Development
 - Professional Scrum
 - Agile Frameworks

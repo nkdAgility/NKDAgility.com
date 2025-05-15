@@ -29,6 +29,7 @@ aliasesArchive:
 - /blog/if-your-backlog-is-not-refined-then-you-are-doing-it-wrong
 - /resources/blog/backlog-not-refined-wrong
 tags:
+- Product Backlog
 - Backlog Refinement
 - Software Development
 - Definition of Ready
@@ -38,7 +39,6 @@ tags:
 - Professional Scrum
 - Scrum Team
 - Pragmatic Thinking
-- Product Backlog
 - Product Delivery
 - Team Performance
 - Agile Planning Tools

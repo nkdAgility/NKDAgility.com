@@ -34,6 +34,7 @@ sitemap:
 tags:
 - Software Development
 - Pragmatic Thinking
+- Customer Focus
 resourceTypes:
 - video
 categories:

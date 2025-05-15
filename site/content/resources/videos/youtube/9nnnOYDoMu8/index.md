@@ -31,11 +31,29 @@ sitemap:
 Watermarks:
   description: 2025-05-10T14:13:51Z
 ResourceContentOrigin: ai
-concepts: []
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
-weight: 1000
+- DevOps
+- Engineering Excellence
+- Product Development
+tags:
+- Value Delivery
+- Customer Focus
+- Software Development
+- Professional Scrum
+- Team Performance
+- Operational Practices
+- Pragmatic Thinking
+- Continuous Delivery
+- Working Software
+- Personal
+- Product Delivery
+- Agile Philosophy
+- Increment
+- Metrics and Learning
+- Deployment Frequency
+weight: 95
 
 ---
 If it’s not in the hands of users, it’s not done. I’ve said this countless times in workshops, coaching sessions, and retrospectives, and yet it still bears repeating. Writing code isn’t done. Testing code isn’t done. Demoing something in a meeting isn’t done. Done means that the increment is live in production, gathering telemetry, and delivering real evidence against real goals.

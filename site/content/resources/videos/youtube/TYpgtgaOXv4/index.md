@@ -32,11 +32,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
+- Product Backlog
 - Backlog Refinement
 - Pragmatic Thinking
 - Agile Planning
 - Agile Planning Tools
 - Operational Practices
+- Customer Focus
 resourceTypes:
 - video
 categories:

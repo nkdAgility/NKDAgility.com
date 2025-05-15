@@ -28,6 +28,7 @@ preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
 duration: 53
 isShort: true
 tags:
+- Customer Focus
 - Continuous Improvement
 - Software Development
 - Product Delivery

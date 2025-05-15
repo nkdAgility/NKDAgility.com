@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: false
 tags:
+- Customer Focus
 - Product Discovery
 - Product Validation
 sitemap:

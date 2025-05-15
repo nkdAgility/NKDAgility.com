@@ -38,6 +38,7 @@ tags:
 - Ability to Innovate
 - Pragmatic Thinking
 - Operational Practices
+- Customer Focus
 - Metrics and Learning
 - Customer Satisfaction
 - Value Delivery

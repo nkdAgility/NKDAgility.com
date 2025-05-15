@@ -25,6 +25,7 @@ preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: false
 tags:
+- Customer Focus
 - Agile Product Management
 - Product Owner
 - Value Delivery

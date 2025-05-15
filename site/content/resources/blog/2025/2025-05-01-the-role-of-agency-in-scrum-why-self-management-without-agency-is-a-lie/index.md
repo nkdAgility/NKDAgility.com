@@ -36,7 +36,7 @@ tags:
 Watermarks:
   description: 2025-05-07T12:49:11Z
 concepts:
-- Tenet
+- Ethos
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.

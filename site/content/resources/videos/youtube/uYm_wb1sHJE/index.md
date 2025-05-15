@@ -32,8 +32,8 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 tags:
-- Software Development
 - Sprint Review
+- Software Development
 - Agile Planning
 - Pragmatic Thinking
 - Team Performance
