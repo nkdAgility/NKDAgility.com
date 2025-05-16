@@ -289,22 +289,8 @@ function Update-StringList {
     $values = @($values | Select-Object -Unique)
 
     if (-not $frontMatter.Contains($fieldName)) {
-        # Add property if it doesn't exist with position logic
-        $index = $null
-        if ($addAfter -and $frontMatter.Contains($addAfter)) {
-            $index = $frontMatter.Keys.IndexOf($addAfter) + 1
-        }
-        elseif ($addBefore -and $frontMatter.Contains($addBefore)) {
-            $index = $frontMatter.Keys.IndexOf($addBefore)
-        }
-        
-        if ($index -ne $null) {
-            $frontMatter.Insert($index, $fieldName, $values)
-        }
-        else {
-            $frontMatter[$fieldName] = $values
-        }
-        
+        # Add property with placeholder, then use Update-FieldPosition
+        $frontMatter[$fieldName] = $values
         Write-Debug "$fieldName added"
     }
     else {
@@ -312,7 +298,7 @@ function Update-StringList {
         if (-not ($frontMatter[$fieldName] -is [System.Collections.IEnumerable] -and $frontMatter[$fieldName] -isnot [string])) {
             $frontMatter[$fieldName] = @($frontMatter[$fieldName])
         }
-        
+
         if ($Overwrite) {
             $frontMatter[$fieldName] = $values
         }
@@ -329,7 +315,7 @@ function Update-StringList {
             }
         }       
     }
-    
+
     # Remove any null values
     $frontMatter[$fieldName] = @($frontMatter[$fieldName] | Where-Object { $_ -ne $null })
 
@@ -338,17 +324,17 @@ function Update-StringList {
     $frontMatter[$fieldName] = @(
         $frontMatter[$fieldName] | Where-Object { 
             $lower = $_.ToLower()
-            -not $seen.ContainsKey($lower) -and ($seen[$lower] = $_)  # Store the first occurrence's original case
+            -not $seen.ContainsKey($lower) -and ($seen[$lower] = $_)
         }
     )
-    
-    $frontMatter[$fieldName] = @($frontMatter[$fieldName] | Select-Object -Unique)
 
     # Ensure the field remains an array even if it has only one value
     if ($frontMatter[$fieldName] -isnot [array]) {
         $frontMatter[$fieldName] = @($frontMatter[$fieldName])
     }
-    
+
+    Update-FieldPosition -data $frontMatter -fieldName $fieldName -addAfter $addAfter -addBefore $addBefore
+
     # Check for duplicates in the updated array
     $duplicates = $frontMatter[$fieldName] | Group-Object | Where-Object { $_.Count -gt 1 }
     foreach ($duplicate in $duplicates) {
@@ -356,6 +342,7 @@ function Update-StringList {
         exit
     }
 }
+
 
 # Function to save updated HugoMarkdown to a file only if the content differs
 function Save-HugoMarkdown {
