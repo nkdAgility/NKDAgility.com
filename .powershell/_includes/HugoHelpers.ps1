@@ -79,6 +79,55 @@ function Remove-Field {
     }
 }
 
+function Update-FieldPosition {
+    param (
+        [Parameter(Mandatory = $true)]
+        [System.Collections.Specialized.OrderedDictionary]$data,
+        [Parameter(Mandatory = $true)]
+        [string]$fieldName,
+        [string]$addAfter = $null,
+        [string]$addBefore = $null
+    )
+
+    if (-not $data.Contains($fieldName)) {
+        Write-Debug "Field '$fieldName' not found. No repositioning performed."
+        return
+    }
+
+    $value = $data[$fieldName]
+    $data.Remove($fieldName)
+
+    $updatedDict = [ordered]@{}
+    $inserted = $false
+
+    foreach ($key in $data.Keys) {
+        if ($addBefore -and $key -eq $addBefore -and -not $inserted) {
+            $updatedDict[$fieldName] = $value
+            $inserted = $true
+            Write-Debug "$fieldName repositioned before $addBefore"
+        }
+
+        $updatedDict[$key] = $data[$key]
+
+        if ($addAfter -and $key -eq $addAfter -and -not $inserted) {
+            $updatedDict[$fieldName] = $value
+            $inserted = $true
+            Write-Debug "$fieldName repositioned after $addAfter"
+        }
+    }
+
+    if (-not $inserted) {
+        $updatedDict[$fieldName] = $value
+        Write-Debug "$fieldName repositioned at end"
+    }
+    $data.Clear();   
+
+    foreach ($key in $updatedDict.Keys) {
+        $data[$key] = $updatedDict[$key]
+    }
+}
+
+
 # Function to update a  field in the front matter
 function Update-Field {
     param (
@@ -120,12 +169,15 @@ function Update-Field {
         else {
             Write-Debug "$fieldName already exists and is not empty"
         }
-        return
+    }
+    else {
+        # Insert or add the final field
+        $current[$finalKey] = $fieldValue
+        Write-Debug "$fieldName added"
     }
 
-    # Insert or add the final field
-    $current[$finalKey] = $fieldValue
-    Write-Debug "$fieldName added"
+    # Ensure correct positioning of the top-level key
+    Update-FieldPosition -data $frontMatter -fieldName $parts[0] -addAfter $addAfter -addBefore $addBefore
 }
 
 
