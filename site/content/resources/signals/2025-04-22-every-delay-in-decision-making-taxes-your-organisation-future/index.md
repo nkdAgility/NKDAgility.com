@@ -2,10 +2,10 @@
 title: Every delay in decision-making taxes your organisation future
 description: Delays in decision-making hinder organisational growth, reduce competitiveness, and allow opportunities to slip away due to bureaucracy and slow approval processes.
 date: 2025-04-22T15:30:43+01:00
-weight: 1000
+weight: 725
 slug: every-delay-in-decision-making-taxes-your-organisation-future
 aliases:
-  - /resources/CkFbsX0M3i-
+- /resources/CkFbsX0M3i-
 ResourceId: CkFbsX0M3i-
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,25 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7320469109115129856
-    post_id: "7320469109115129856"
-    post_date: 2025-04-22T14:30:43Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7320469109115129856
+  post_id: "7320469109115129856"
+  post_date: 2025-04-22T14:30:43Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:17Z
 concepts: []
 categories:
-  - Uncategorized
-tags: []
----
+- Leadership
+tags:
+- Miscellaneous
 
+---
 Every delay in decision-making is a tax on your organisation’s future.
 
 While leaders sit in endless meetings, while approvals stack up, while risk-averse policies slow execution, your competitors are shipping, learning, and adapting.

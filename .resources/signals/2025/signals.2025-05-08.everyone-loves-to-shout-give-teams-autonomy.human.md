@@ -1,8 +1,8 @@
 ---
-title: Everyone loves to shout “give teams autonomy.”"
+title: Everyone loves to shout give teams autonomy
 description: Explores why team autonomy in Scrum must be balanced with alignment to strategic goals, highlighting the role of clear objectives and leadership in achieving true agility.
 date: 2025-05-08T15:30:40+01:00
-weight: 1000
+weight: 355
 slug: everyone-loves-to-shout-give-teams-autonomy
 aliases:
 - /resources/5nkzevV2xKG
@@ -25,10 +25,28 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:56Z
-concepts: []
+concepts:
+- Strategy
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Management
+- Leadership
+tags:
+- Agile Product Management
+- Sociotechnical Systems
+- Strategic Goals
+- Pragmatic Thinking
+- Organisational Agility
+- Software Development
+- Agile Strategy
+- Agile Planning
+- Agile Leadership
+- Organisational Culture
+- Common Goals
+- Team Motivation
+- Social Technologies
+- Professional Scrum
+- Team Collaboration
 
 ---
 Everyone loves to shout “give teams autonomy.”

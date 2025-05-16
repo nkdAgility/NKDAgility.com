@@ -2,7 +2,7 @@
 title: Overcoming Project Blockers and Challenging Organisational Inertia
 description: Explores how lack of authority hinders teams from removing project blockers and overcoming organisational inertia, stressing the need for real autonomy to achieve results.
 date: 2025-03-22T16:30:03+00:00
-weight: 1000
+weight: 420
 slug: overcoming-project-blockers-and-challenging-organisational-inertia
 aliases:
 - /resources/aXo_GayoCuE
@@ -27,8 +27,24 @@ Watermarks:
   description: 2025-05-16T15:55:57Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Technical Leadership
+- Leadership
+tags:
+- Organisational Culture
+- Pragmatic Thinking
+- Organisational Agility
+- Team Performance
+- Team Motivation
+- Agile Product Management
+- Agentic Agility
+- Self Organisation
+- Project Management
+- Agile Leadership
+- Team Collaboration
+- Social Technologies
+- Sociotechnical Systems
+- Employee Engagement
 
 ---
 Imagine you’re responsible for delivering a critical project, but every time you try to remove a blocker, someone tells you it’s “not your call.” Every time you challenge a dysfunction, you’re met with, “We’ve always done it this way.”

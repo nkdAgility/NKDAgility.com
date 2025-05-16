@@ -2,7 +2,7 @@
 title: The market isn’t slowing down for anyone
 description: Explores why organisational responsiveness and real-time decision-making are crucial for staying competitive, highlighting the risks of outdated frameworks and slow adaptation.
 date: 2025-04-16T15:30:49+01:00
-weight: 1000
+weight: 635
 slug: the-market-isn-t-slowing-down-for-anyone
 aliases:
 - /resources/Szz-d1q7CG7
@@ -27,8 +27,13 @@ Watermarks:
   description: 2025-05-16T15:55:25Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Product Development
+tags:
+- Business Agility
+- Agile Philosophy
+- Market Adaptability
+- Pragmatic Thinking
+- Organisational Agility
 
 ---
 The market isn’t slowing down for anyone. While some organisations are still stuck debating frameworks, others are seizing opportunities and adapting at speed. The difference? Responsiveness.

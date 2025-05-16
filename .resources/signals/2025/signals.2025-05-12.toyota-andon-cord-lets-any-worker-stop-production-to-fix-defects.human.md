@@ -2,7 +2,7 @@
 title: Toyota "andon" cord lets any worker stop production to fix defects
 description: Explains how true quality improvement needs both tools and a culture of safety, using Toyota’s andon cord as a lesson for Agile and Scrum adoption in organisations.
 date: 2025-05-12T15:30:50+01:00
-weight: 1000
+weight: 225
 slug: toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects
 aliases:
 - /resources/BIT0P3MRDj9
@@ -25,10 +25,28 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:49Z
-concepts: []
+concepts:
+- Ethos
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Leadership
+- Technical Leadership
+tags:
+- Organisational Culture
+- Sociotechnical Systems
+- Continuous Improvement
+- Agile Philosophy
+- Transparency
+- Agentic Agility
+- Change Management
+- Lean Thinking
+- Software Development
+- Organisational Agility
+- Team Motivation
+- Pragmatic Thinking
+- Psychological Safety
+- Lean Principles
+- Professional Scrum
 
 ---
 In manufacturing, Toyota introduced the "andon" cord—a simple chain any worker could pull to stop the entire line if they saw a defect.

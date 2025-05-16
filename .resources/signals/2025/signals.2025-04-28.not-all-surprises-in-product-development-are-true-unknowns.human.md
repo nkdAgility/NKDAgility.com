@@ -2,7 +2,7 @@
 title: Not all surprises in product development are true unknowns
 description: Many product development surprises stem from poor backlog management, not true unknowns. Regular refinement and reflection help teams anticipate and reduce unexpected issues.
 date: 2025-04-28T15:30:55+01:00
-weight: 1000
+weight: 380
 slug: not-all-surprises-in-product-development-are-true-unknowns
 aliases:
 - /resources/3R0CYmaHd63
@@ -25,10 +25,21 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:10Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+- Technical Leadership
+tags:
+- Product Backlog
+- Backlog Refinement
+- Software Development
+- Operational Practices
+- Team Performance
+- Agile Planning
+- Pragmatic Thinking
+- Agile Product Management
 
 ---
 Not all surprises in product development are true unknowns. Many are just the result of bad backlog management.

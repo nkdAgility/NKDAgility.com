@@ -2,7 +2,7 @@
 title: Executives want predictability
 description: Lack of a clear, enforced Definition of Done leads to hidden risks, unreliable forecasts, and eroded trust in delivery, undermining predictability and organisational confidence.
 date: 2025-03-31T15:30:08+01:00
-weight: 1000
+weight: 235
 slug: executives-want-predictability
 aliases:
 - /resources/sJJYz51QG0O
@@ -25,10 +25,25 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:47Z
-concepts: []
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+- Engineering Excellence
+tags:
+- Definition of Done
+- Operational Practices
+- Increment
+- Competence
+- Product Delivery
+- Engineering Practices
+- Software Development
+- Technical Mastery
+- Team Performance
+- Professional Scrum
+- Pragmatic Thinking
+- Value Delivery
 
 ---
 Executives want predictability. Stakeholders want transparency. Investors want confidence. But if your organisation treats “Done” as a moving target, all you’re really delivering is a well-packaged lie.

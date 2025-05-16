@@ -2,7 +2,7 @@
 title: 'Innovation graveyards: Where great ideas die in slow organisations'
 description: Explores how slow organisational processes, risk aversion, and excessive alignment cause promising ideas to stall, leading to lost innovation and unrealised potential.
 date: 2025-04-27T15:30:30+01:00
-weight: 1000
+weight: 750
 slug: innovation-graveyards-where-great-ideas-die-in-slow-organisations
 aliases:
 - /resources/S-OSZ8uEFdf
@@ -28,7 +28,11 @@ Watermarks:
 concepts: []
 categories:
 - Uncategorized
-tags: []
+tags:
+- Entrepreneurship
+- Unrealised Value
+- Miscellaneous
+- Business Agility
 
 ---
 Inside every slow-moving organisation is an innovation graveyard—a place where great ideas die before they ever see daylight.

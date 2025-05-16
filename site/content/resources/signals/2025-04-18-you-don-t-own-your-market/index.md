@@ -2,7 +2,7 @@
 title: You don’t own your market
 description: Explains why businesses must prioritise customer needs and agility to stay relevant, avoid missed opportunities, and remain competitive in a rapidly changing market.
 date: 2025-04-18T15:30:32+01:00
-weight: 1000
+weight: 725
 slug: you-don-t-own-your-market
 aliases:
 - /resources/X-J3sV7w7mU
@@ -28,7 +28,12 @@ Watermarks:
 concepts: []
 categories:
 - Uncategorized
-tags: []
+tags:
+- Miscellaneous
+- Business Agility
+- Value Delivery
+- Agile Philosophy
+- Product Strategy
 
 ---
 You don’t own your market. Your customers do. Ignore them, move too slowly, and they’ll move on.

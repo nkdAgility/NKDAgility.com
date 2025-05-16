@@ -2,7 +2,7 @@
 title: Why compromising on software quality is a leadership decision
 description: Compromising software quality is a leadership choice, not a team one. Lowering standards carries business risks that should be openly addressed by decision-makers.
 date: 2025-04-01T15:30:02+01:00
-weight: 1000
+weight: 275
 slug: why-compromising-on-software-quality-is-a-leadership-decision
 aliases:
 - /resources/3YDTlhSlU4A
@@ -27,8 +27,12 @@ Watermarks:
   description: 2025-05-16T15:55:46Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Leadership
+- Scrum
+tags:
+- Professional Scrum
+- Software Development
+- Agile Leadership
 
 ---
 Would your CFO sign off on a financial report that was “mostly accurate”? Would your legal team approve a contract that “should be enforceable”? No?

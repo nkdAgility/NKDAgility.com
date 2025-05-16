@@ -2,7 +2,7 @@
 title: Hiring a Product Owner? Avoid copying job specs from the internet
 description: Learn what makes an effective Product Owner, why generic job specs fall short, and which key responsibilities and skills are essential for true product leadership and success.
 date: 2025-04-15T15:30:50+01:00
-weight: 1000
+weight: 725
 slug: hiring-a-product-owner-avoid-copying-job-specs-from-the-internet
 aliases:
 - /resources/-p1bBjBS0bA
@@ -25,10 +25,18 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:26Z
-concepts: []
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Product Management
+- Leadership
+tags:
+- Product Owner
+- Agile Product Management
+- Pragmatic Thinking
+- Professional Scrum
+- Competence
 
 ---
 Hiring a Product Owner? Don’t just copy-paste a job spec from the internet. A real PO isn’t just a requirements collector or project manager—they own product success.

@@ -2,7 +2,7 @@
 title: Why Teams Claim Self-Management to Avoid Alignment Discussions
 description: Explores how teams misuse self-management to dodge alignment, clarifying that true autonomy requires accountability, shared goals, and adherence to frameworks like Scrum.
 date: 2025-03-18T16:30:34+00:00
-weight: 1000
+weight: 425
 slug: why-teams-claim-self-management-to-avoid-alignment-discussions
 aliases:
 - /resources/UUh2trdq4D1
@@ -25,10 +25,23 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:04Z
-concepts: []
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+- Technical Leadership
+tags:
+- Pragmatic Thinking
+- Social Technologies
+- Software Development
+- Professional Scrum
+- Organisational Agility
+- Organisational Culture
+- Scrum Team
+- Agile Leadership
+- Common Goals
+- Self Organisation
 
 ---
 Some teams love to wave the "we’re self-managing" flag whenever alignment is discussed. But let’s be real—autonomy doesn’t mean doing whatever you want, whenever you want. It means taking ownership within a shared framework.

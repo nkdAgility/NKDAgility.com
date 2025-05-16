@@ -1,8 +1,8 @@
 ---
-title: Agile without a usable working product is just expensive theatre."
+title: Agile without a usable working product is just expensive theatre
 description: Highlights the importance of delivering a usable product each sprint in Agile, warning against focusing on process over outcomes and emphasising real value over rituals.
 date: 2025-04-20T15:30:27+01:00
-weight: 1000
+weight: 400
 slug: agile-without-a-usable-working-product-is-just-expensive-theatre
 aliases:
 - /resources/CBIAsEX7a86
@@ -27,8 +27,17 @@ Watermarks:
   description: 2025-05-16T15:55:20Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Product Development
+tags:
+- Working Software
+- Pragmatic Thinking
+- Value Delivery
+- Increment
+- Agile Product Management
+- Operational Practices
+- Product Delivery
+- Agile Values and Principles
+- Agile Philosophy
 
 ---
 Agile without a usable working product is just expensive theatre.

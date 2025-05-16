@@ -1,5 +1,5 @@
 ---
-title: Every unreleased feature is a cost."
+title: Every unreleased feature is a cost
 description: Unreleased features create hidden costs and risks. Regular software delivery reduces failure rates, rework, and missed opportunities, ensuring real value is delivered.
 date: 2025-02-05T16:30:01+00:00
 weight: 1000

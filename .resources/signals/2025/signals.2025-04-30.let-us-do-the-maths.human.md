@@ -1,8 +1,8 @@
 ---
-title: let-us do the maths."
+title: let-us do the maths
 description: Explains how slow product release cycles delay feature delivery, risk losing relevance, and create competitive disadvantages, highlighting the benefits of faster iterations.
 date: 2025-04-30T15:30:52+01:00
-weight: 1000
+weight: 265
 slug: let-us-do-the-maths
 aliases:
 - /resources/XYMN44lJp1n
@@ -25,10 +25,26 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:07Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Engineering Excellence
+- DevOps
+tags:
+- Time to Market
+- Deployment Frequency
+- Software Development
+- Product Delivery
+- Business Agility
+- Market Adaptability
+- Frequent Releases
+- Value Delivery
+- Agile Planning
+- Agile Product Management
+- Team Performance
+- Organisational Agility
+- Release Management
 
 ---
 Let’s do the maths.

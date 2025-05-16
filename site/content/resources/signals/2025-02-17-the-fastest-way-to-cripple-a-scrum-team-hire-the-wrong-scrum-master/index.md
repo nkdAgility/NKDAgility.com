@@ -5,7 +5,7 @@ date: 2025-02-17T16:30:17+00:00
 weight: 1000
 slug: the-fastest-way-to-cripple-a-scrum-team-hire-the-wrong-scrum-master
 aliases:
-  - /resources/567GkDxvlbX
+- /resources/567GkDxvlbX
 ResourceId: 567GkDxvlbX
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,24 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7297291278071853056
-    post_id: "7297291278071853056"
-    post_date: 2025-02-17T16:30:17Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7297291278071853056
+  post_id: "7297291278071853056"
+  post_date: 2025-02-17T16:30:17Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:53Z
 concepts: []
 categories:
-  - Uncategorized
+- Uncategorized
 tags: []
----
 
+---
 The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master.
 
 Too many companies mistake the Scrum Master for a process admin. Someone to book meetings, write Jira tickets, and make sure the team follows “the rules.”

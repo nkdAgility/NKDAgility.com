@@ -1,8 +1,8 @@
 ---
-title: Everyone has a disaster recovery plan—on paper."
+title: Everyone has a disaster recovery plan—on paper
 description: Most disaster recovery plans fail in practice due to overlooked dependencies and lack of real-world testing, leaving organisations vulnerable when outages occur.
 date: 2025-05-14T15:30:37+01:00
-weight: 1000
+weight: 390
 slug: everyone-has-a-disaster-recovery-plan-on-paper
 aliases:
 - /resources/jgAmhaBbUlm
@@ -25,10 +25,13 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:46Z
-concepts: []
+concepts:
+- Ethos
 categories:
 - Uncategorized
-tags: []
+tags:
+- Personal
+- Pragmatic Thinking
 
 ---
 Everyone has a disaster recovery plan—on paper.

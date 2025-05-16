@@ -2,7 +2,7 @@
 title: Would your CFO approve misrepresenting corporate assets?
 description: Ignoring technical debt misrepresents software asset value, risking financial loss and operational issues. Properly account for technical debt to protect business assets.
 date: 2025-04-21T15:30:34+01:00
-weight: 1000
+weight: 340
 slug: would-your-cfo-approve-misrepresenting-corporate-assets
 aliases:
 - /resources/u-ACEx3Q01p
@@ -27,8 +27,9 @@ Watermarks:
   description: 2025-05-16T15:55:19Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+tags:
+- Technical Debt
 
 ---
 Would your CFO sign off on misrepresenting corporate assets? Of course not. But that’s exactly what happens when technical debt is ignored.

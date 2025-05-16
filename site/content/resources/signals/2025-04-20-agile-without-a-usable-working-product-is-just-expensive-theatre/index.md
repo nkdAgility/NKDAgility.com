@@ -2,10 +2,10 @@
 title: Agile without a usable working product is just expensive theatre
 description: Highlights the importance of delivering a usable product each sprint in Agile, warning against focusing on process over outcomes and emphasising real value over rituals.
 date: 2025-04-20T15:30:27+01:00
-weight: 1000
+weight: 400
 slug: agile-without-a-usable-working-product-is-just-expensive-theatre
 aliases:
-  - /resources/CBIAsEX7a86
+- /resources/CBIAsEX7a86
 ResourceId: CBIAsEX7a86
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,33 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7319744264169533440
-    post_id: "7319744264169533440"
-    post_date: 2025-04-20T14:30:27Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7319744264169533440
+  post_id: "7319744264169533440"
+  post_date: 2025-04-20T14:30:27Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:20Z
 concepts: []
 categories:
-  - Uncategorized
-tags: []
----
+- Product Development
+tags:
+- Working Software
+- Pragmatic Thinking
+- Value Delivery
+- Increment
+- Agile Product Management
+- Operational Practices
+- Product Delivery
+- Agile Values and Principles
+- Agile Philosophy
 
+---
 Agile without a usable working product is just expensive theatre.
 
 Yet, so many teams get lost in rituals, Jira tickets, and endless documentation, completely missing the point. Agile is about delivering value continuously—not accumulating unfinished work, endless “technical discussions,” or chasing vanity metrics.

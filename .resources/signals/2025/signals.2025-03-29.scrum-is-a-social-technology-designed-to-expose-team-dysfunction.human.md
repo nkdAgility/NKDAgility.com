@@ -1,14 +1,4 @@
 ---
-title: Scrum is a social technology designed to expose team dysfunction.
-description: Explains how Scrum reveals team dysfunctions by clarifying roles and accountability, highlighting its purpose to expose issues that hinder value delivery and improvement.
-date: 2025-03-29T16:30:02+00:00
-weight: 1000
-slug: scrum-is-a-social-technology-designed-to-expose-team-dysfunction
-aliases:
-- /resources/CNqQyGHkbF3
-ResourceId: CNqQyGHkbF3
-ResourceImport: false
-ResourceType: signals
 ResourceContentOrigin: human
 draft: true
 source: LinkedIn
@@ -25,10 +15,33 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:49Z
-concepts: []
+description: Explains how Scrum reveals team dysfunctions by clarifying roles and accountability, highlighting its purpose to expose issues that hinder value delivery and improvement.
+date: 2025-03-29T16:30:02+00:00
+weight: 420
+slug: scrum-is-a-social-technology-designed-to-expose-team-dysfunction
+aliases:
+- /resources/CNqQyGHkbF3
+ResourceId: CNqQyGHkbF3
+ResourceImport: false
+ResourceType: signals
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+- Technical Leadership
+tags:
+- Social Technologies
+- Professional Scrum
+- Value Delivery
+- Agile Frameworks
+- Software Development
+- Team Performance
+- Transparency
+- Empirical Process Control
+- Organisational Agility
+- Scrum Master
+- Scrum Team
 
 ---
 Scrum isn’t a process—it’s a social technology designed to expose dysfunction.

@@ -1,8 +1,8 @@
 ---
-title: There no such thing as "good" technical debt.
+title: There no such thing as "good" technical debt
 description: Technical debt always harms productivity and system stability. Ignoring it leads to inefficiency and risk, making it essential to address rather than accept or normalise.
 date: 2025-04-19T15:30:34+01:00
-weight: 1000
+weight: 130
 slug: there-no-such-thing-as-good-technical-debt
 aliases:
 - /resources/lLNjkL_zGQa
@@ -27,8 +27,13 @@ Watermarks:
   description: 2025-05-16T15:55:21Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+- Technical Leadership
+tags:
+- Technical Debt
+- Software Development
+- Technical Mastery
+- Engineering Practices
 
 ---
 Let’s put this to rest: there’s no such thing as "good" technical debt.

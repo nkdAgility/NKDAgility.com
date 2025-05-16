@@ -2,7 +2,7 @@
 title: A great backlog isn’t just a list of tasks
 description: Learn how an effective backlog guides product strategy, prioritises value, and supports decision-making, rather than serving as a simple list of tasks or ideas.
 date: 2025-04-13T15:30:17+01:00
-weight: 1000
+weight: 670
 slug: a-great-backlog-isn-t-just-a-list-of-tasks
 aliases:
 - /resources/y8KN3uMGjey
@@ -25,10 +25,15 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:31Z
-concepts: []
+concepts:
+- Strategy
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Product Management
+tags:
+- Product Backlog
+- Product Strategy
+- Agile Product Management
 
 ---
 A great backlog isn’t just a list of tasks. It’s a strategic tool for delivering value.

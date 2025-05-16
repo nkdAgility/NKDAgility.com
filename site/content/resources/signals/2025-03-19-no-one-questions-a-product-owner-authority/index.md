@@ -2,7 +2,7 @@
 title: No one questions a Product Owner authority
 description: Explores why Product Owners’ authority is accepted while Scrum Masters’ is questioned, highlighting the need for clear authority to ensure team effectiveness and agile success.
 date: 2025-03-19T16:30:30+00:00
-weight: 1000
+weight: 420
 slug: no-one-questions-a-product-owner-authority
 aliases:
 - /resources/T6lSCdR9SCa
@@ -25,10 +25,19 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:02Z
-concepts: []
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Leadership
+tags:
+- Scrum Master
+- Pragmatic Thinking
+- Professional Scrum
+- Organisational Culture
+- Agile Frameworks
+- Agile Leadership
+- Team Performance
 
 ---
 No one questions a Product Owner’s authority. They decide priorities, manage stakeholders, and ensure the team works on the most valuable outcomes. Their ability to make tough calls is what drives product success.

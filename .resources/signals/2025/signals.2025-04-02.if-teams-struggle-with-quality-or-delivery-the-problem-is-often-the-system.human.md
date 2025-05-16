@@ -1,8 +1,8 @@
 ---
-title: If teams struggle with quality or delivery, the problem is often the system.
+title: If teams struggle with quality or delivery, the problem is often the system
 description: Team issues with quality or delivery often stem from weak systems, lacking clear standards, automation, and leadership support—not just team performance.
 date: 2025-04-02T15:30:05+01:00
-weight: 1000
+weight: 190
 slug: if-teams-struggle-with-quality-or-delivery-the-problem-is-often-the-system
 aliases:
 - /resources/cXJnv3y4sb7
@@ -27,8 +27,14 @@ Watermarks:
   description: 2025-05-16T15:55:45Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+- Leadership
+- Technical Leadership
+tags:
+- Operational Practices
+- Software Development
+- Organisational Culture
+- Definition of Done
 
 ---
 If teams are struggling with quality, technical debt, or inconsistent delivery, the issue isn’t just the team—it’s the system they’re operating in.

@@ -2,7 +2,7 @@
 title: Empowering Product Owners as Strategic Leaders in Scrum Teams
 description: Explores how Product Owners can drive strategy, maximise value, and lead Scrum teams effectively, highlighting the need for empowerment beyond basic backlog management.
 date: 2025-03-26T16:30:33+00:00
-weight: 1000
+weight: 445
 slug: empowering-product-owners-as-strategic-leaders-in-scrum-teams
 aliases:
 - /resources/xKiwFed7LSB
@@ -25,10 +25,24 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:52Z
-concepts: []
+concepts:
+- Strategy
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+- Product Management
+tags:
+- Agile Product Management
+- Product Strategy
+- Product Owner
+- Software Development
+- Value Delivery
+- Professional Scrum
+- Organisational Agility
+- Social Technologies
+- Agile Leadership
+- Agile Frameworks
+- Agile Strategy
 
 ---
 The Product Owner is not a backlog manager.

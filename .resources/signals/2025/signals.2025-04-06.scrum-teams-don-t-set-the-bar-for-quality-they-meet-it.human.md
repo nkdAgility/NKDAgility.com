@@ -2,7 +2,7 @@
 title: Scrum Teams don’t set the bar for quality—they meet it
 description: Scrum Teams uphold, not lower, quality by strictly following and evolving the Definition of Done, ensuring predictable releases and reducing technical debt and risk.
 date: 2025-04-06T15:30:00+01:00
-weight: 1000
+weight: 130
 slug: scrum-teams-don-t-set-the-bar-for-quality-they-meet-it
 aliases:
 - /resources/5lIasyqT9Rm
@@ -25,10 +25,22 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:40Z
-concepts: []
+concepts:
+- Artifact
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Engineering Excellence
+- Technical Leadership
+tags:
+- Definition of Done
+- Professional Scrum
+- Software Development
+- Product Delivery
+- Continuous Improvement
+- Agile Frameworks
+- Pragmatic Thinking
+- Technical Mastery
+- Operational Practices
 
 ---
 Scrum Teams don’t set the bar for quality—they meet it. The Definition of Done (DoD) isn’t a wishlist or a stretch goal. It’s a hard line that determines what is releasable. And if your DoD isn’t improving Sprint over Sprint, you’re accumulating risk and technical debt.

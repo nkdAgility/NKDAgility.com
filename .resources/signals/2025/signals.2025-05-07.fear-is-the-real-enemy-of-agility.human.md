@@ -1,8 +1,8 @@
 ---
-title: Fear is the real enemy of agility."
+title: Fear is the real enemy of agility
 description: Explores how fear hinders true agility in teams, emphasising the need to foster courage and trust for effective Agile, Scrum, and DevOps practices and continuous improvement.
 date: 2025-05-07T15:30:42+01:00
-weight: 1000
+weight: 325
 slug: fear-is-the-real-enemy-of-agility
 aliases:
 - /resources/JwMLCNODuls
@@ -25,10 +25,28 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:57Z
-concepts: []
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Technical Leadership
+- Leadership
+- Product Development
+tags:
+- Agile Philosophy
+- Organisational Culture
+- Team Motivation
+- Psychological Safety
+- Pragmatic Thinking
+- Software Development
+- Professional Scrum
+- Social Technologies
+- Team Collaboration
+- Organisational Agility
+- Market Adaptability
+- Agile Leadership
+- Personal
+- Agile Strategy
+- Scrum Values
 
 ---
 Fear is the real enemy of agility.

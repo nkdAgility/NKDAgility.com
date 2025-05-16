@@ -1,35 +1,49 @@
 ---
-description: Explains how Scrum reveals team dysfunctions by clarifying roles and accountability, highlighting its purpose to expose issues that hinder value delivery and improvement.
-date: 2025-03-29T16:30:02+00:00
-weight: 1000
-slug: scrum-is-a-social-technology-designed-to-expose-team-dysfunction
-aliases:
-  - /resources/CNqQyGHkbF3
-ResourceId: CNqQyGHkbF3
-ResourceImport: false
-ResourceType: signals
 ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7311786728955006976
-    post_id: "7311786728955006976"
-    post_date: 2025-03-29T16:30:02Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7311786728955006976
+  post_id: "7311786728955006976"
+  post_date: 2025-03-29T16:30:02Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:49Z
-concepts: []
+description: Explains how Scrum reveals team dysfunctions by clarifying roles and accountability, highlighting its purpose to expose issues that hinder value delivery and improvement.
+date: 2025-03-29T16:30:02+00:00
+weight: 420
+slug: scrum-is-a-social-technology-designed-to-expose-team-dysfunction
+aliases:
+- /resources/CNqQyGHkbF3
+ResourceId: CNqQyGHkbF3
+ResourceImport: false
+ResourceType: signals
+concepts:
+- Accountability
 categories:
-  - Uncategorized
-tags: []
----
+- Scrum
+- Product Development
+- Technical Leadership
+tags:
+- Social Technologies
+- Professional Scrum
+- Value Delivery
+- Agile Frameworks
+- Software Development
+- Team Performance
+- Transparency
+- Empirical Process Control
+- Organisational Agility
+- Scrum Master
+- Scrum Team
 
+---
 Scrum isn’t a process—it’s a social technology designed to expose dysfunction.
 
 - The Scrum Master ensures Scrum is applied effectively.

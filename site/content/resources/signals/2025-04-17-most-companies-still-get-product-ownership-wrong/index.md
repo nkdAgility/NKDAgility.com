@@ -2,7 +2,7 @@
 title: Most companies still get Product Ownership wrong
 description: Many organisations misunderstand Product Ownership, treating it as simple backlog management instead of a strategic, accountable role essential for product success and team alignment.
 date: 2025-04-17T15:30:37+01:00
-weight: 1000
+weight: 595
 slug: most-companies-still-get-product-ownership-wrong
 aliases:
 - /resources/n7KbcPbUTTe
@@ -25,10 +25,18 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:23Z
-concepts: []
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Product Management
+- Product Development
+tags:
+- Agile Product Management
+- Product Owner
+- Software Development
+- Pragmatic Thinking
+- Professional Scrum
+- Product Strategy
 
 ---
 Most companies still get Product Ownership wrong. They either treat it as a glorified backlog manager or assume any business analyst can do the job. But a real Product Owner isn’t just an order taker. They are a product strategist, decision-maker, and stakeholder wrangler, responsible for maximising product value.

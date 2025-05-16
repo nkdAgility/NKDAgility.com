@@ -1,10 +1,10 @@
 [
   {
     "FrontMatter": {
-      "title": "Everyone has a disaster recovery plan—on paper.\"",
+      "title": "Everyone has a disaster recovery plan—on paper",
       "description": "Most disaster recovery plans fail in practice due to overlooked dependencies and lack of real-world testing, leaving organisations vulnerable when outages occur.",
       "date": "2025-05-14T15:30:37+01:00",
-      "weight": 1000.0,
+      "weight": 390.0,
       "slug": "everyone-has-a-disaster-recovery-plan-on-paper",
       "aliases": [
         "/resources/jgAmhaBbUlm"
@@ -33,11 +33,16 @@
       "Watermarks": {
         "description": "2025-05-16T15:54:46Z"
       },
-      "concepts": [],
+      "concepts": [
+        "Ethos"
+      ],
       "categories": [
         "Uncategorized"
       ],
-      "tags": []
+      "tags": [
+        "Personal",
+        "Pragmatic Thinking"
+      ]
     },
     "BodyContent": "Everyone has a disaster recovery plan—on paper.\n\nBut when the lights go out, very few organisations have systems that actually work. Spain, Portugal, Oracle, Heathrow... these weren’t random outages. They were textbook examples of systems that failed exactly as they were designed.\n\nAt Merrill Lynch, I saw it firsthand. Twice. We ran full disaster recovery drills. Everything looked like a success—until we tried to use the restored systems. Nothing worked. Why? Because the one system that everything else relied on—Active Directory—was never restored.\n\nSo yes, my app was \"restored\" successfully. But without authentication, it was useless.\n\nThis is the cost of pretending you're resilient: you run the drills, tick the boxes, declare victory... and miss the critical dependencies that actually matter.\n\nIf you’ve never validated that your system works end to end, under real pressure, then you’re not resilient. You’re wishful.\n\nReal resilience doesn’t live in plans. It lives in pain.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-14-everyone-has-a-disaster-recovery-plan-on-paper\\index.md",
@@ -45,10 +50,10 @@
   },
   {
     "FrontMatter": {
-      "title": "You can-not implement Agile or Scrum successfully by decree.\"",
+      "title": "You can not implement Agile or Scrum successfully by decree",
       "description": "Mandating Agile or Scrum fails without cultural change; true agility requires trust, transparency, and a supportive environment, not just tools or processes.",
       "date": "2025-05-13T15:30:47+01:00",
-      "weight": 1000.0,
+      "weight": 345.0,
       "slug": "you-can-not-implement-agile-or-scrum-successfully-by-decree",
       "aliases": [
         "/resources/es3rfygczrI"
@@ -77,11 +82,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:54:47Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Ethos"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Leadership",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Organisational Culture",
+        "Social Technologies",
+        "Agile Philosophy",
+        "Team Motivation",
+        "Agile Values and Principles",
+        "Sociotechnical Systems",
+        "Agile Leadership",
+        "Team Collaboration",
+        "Organisational Change",
+        "Software Development",
+        "Agile Frameworks",
+        "Agile Product Management",
+        "Transparency",
+        "Organisational Agility",
+        "Change Management"
+      ]
     },
     "BodyContent": "You can't implement Agile or Scrum successfully by decree.\n\nYou can't mandate trust.\n\nYou can't enforce transparency with a tool.\n\nYou can't “install” continuous improvement through a Jira plugin.\n\nScrum is an observability pattern for value delivery. It exposes how things are actually working, not how you wish they were.\n\nBut the moment your team sees that something is broken, your culture decides what happens next.\n\nIf your people are afraid of blame, afraid of failure, or stuck in inertia, the signals will be ignored.\n\nNo retrospective, Daily Scrum, or burndown chart will fix it.\n\nWant real agility?  \nFix your culture before you fix your process.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-13-you-can-not-implement-agile-or-scrum-successfully-by-decree\\index.md",
@@ -92,7 +117,7 @@
       "title": "Toyota \"andon\" cord lets any worker stop production to fix defects",
       "description": "Explains how true quality improvement needs both tools and a culture of safety, using Toyota’s andon cord as a lesson for Agile and Scrum adoption in organisations.",
       "date": "2025-05-12T15:30:50+01:00",
-      "weight": 1000.0,
+      "weight": 225.0,
       "slug": "toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects",
       "aliases": [
         "/resources/BIT0P3MRDj9"
@@ -121,11 +146,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:54:49Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Ethos"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Leadership",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Organisational Culture",
+        "Sociotechnical Systems",
+        "Continuous Improvement",
+        "Agile Philosophy",
+        "Transparency",
+        "Agentic Agility",
+        "Change Management",
+        "Lean Thinking",
+        "Software Development",
+        "Organisational Agility",
+        "Team Motivation",
+        "Pragmatic Thinking",
+        "Psychological Safety",
+        "Lean Principles",
+        "Professional Scrum"
+      ]
     },
     "BodyContent": "In manufacturing, Toyota introduced the \"andon\" cord—a simple chain any worker could pull to stop the entire line if they saw a defect.\n\nWhen American car companies copied the idea, they installed the cord... but workers were too afraid to pull it.\n\nThe tool was there. The empowerment was not.\n\nThe same failure happens in Agile and Scrum adoptions every day.\n\nInstalling Scrum Events without building a culture of transparency and continuous improvement is cargo cult thinking. You’re copying the tool without the ethos.\n\nScrum is not your safety net. Your culture is.\n\nIf you punish people for raising issues, don't be surprised when they stop speaking up.\n\nHow safe is it in your organisation to pull the metaphorical andon cord?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-12-toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects\\index.md",
@@ -133,10 +178,10 @@
   },
   {
     "FrontMatter": {
-      "title": "You want speed, adaptability, resilience.\"",
+      "title": "You want speed, adaptability, resilience",
       "description": "Explores why true organisational agility depends on empowering teams with agency, not just adopting frameworks like Scrum, Kanban, or DevOps, to achieve real outcomes.",
       "date": "2025-05-11T15:30:29+01:00",
-      "weight": 1000.0,
+      "weight": 385.0,
       "slug": "you-want-speed-adaptability-resilience",
       "aliases": [
         "/resources/5UaIfaLclWB"
@@ -165,11 +210,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:54:51Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Ethos"
       ],
-      "tags": []
+      "categories": [
+        "Leadership",
+        "Technical Leadership",
+        "Product Development"
+      ],
+      "tags": [
+        "Agentic Agility",
+        "Organisational Agility",
+        "Team Motivation",
+        "Agile Philosophy",
+        "Business Agility",
+        "Organisational Culture",
+        "Agile Leadership",
+        "Pragmatic Thinking",
+        "Social Technologies",
+        "Agile Values and Principles",
+        "Value Delivery",
+        "Product Delivery",
+        "Agile Strategy",
+        "Self Organisation",
+        "Sociotechnical Systems"
+      ]
     },
     "BodyContent": "You want speed, adaptability, resilience.\n\nYou invest in Scrum, Agile, Kanban, DevOps.\n\nBut then you ignore the hard part:  \nagency.\n\nWithout agency, your teams can’t own outcomes.  \nWithout agency, your Product Owners can’t own value.  \nWithout agency, your Scrum Masters can’t own effectiveness.\n\nInstead, you get cosmetic ceremonies, fake backlogs, and teams going through the motions.\n\nKanban, as an observability pattern for value delivery, won’t save you.  \nDevOps, as the union of people, process, and products to enable continuous delivery of value, won’t save you.\n\nNone of these strategies work without the human system having the agency to act.\n\nIf you are serious about agility, you have to be serious about enabling people to own what they are accountable for.\n\nWhere in your system have you invested in agility but refused to invest in agency?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-11-you-want-speed-adaptability-resilience\\index.md",
@@ -177,10 +242,10 @@
   },
   {
     "FrontMatter": {
-      "title": "let-us be blunt:\"",
+      "title": "let-us be blunt",
       "description": "Accountability in Scrum requires real agency; without the power to act, roles like Product Owner and Scrum Master become ineffective and accountability is undermined.",
       "date": "2025-05-10T15:30:22+01:00",
-      "weight": 1000.0,
+      "weight": 340.0,
       "slug": "let-us-be-blunt",
       "aliases": [
         "/resources/0A8ONYVbWlL"
@@ -209,11 +274,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:54:52Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Leadership",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Agentic Agility",
+        "Professional Scrum",
+        "Self Organisation",
+        "Team Motivation",
+        "Agile Product Management",
+        "Organisational Agility",
+        "Organisational Culture",
+        "Software Development",
+        "Agile Leadership",
+        "Agile Frameworks",
+        "Scrum Team",
+        "Scrum Master",
+        "Value Delivery",
+        "Social Technologies",
+        "Agile Strategy"
+      ]
     },
     "BodyContent": "Let’s be blunt:\n\nThose expected to deliver results must have control over what influences their delivery.\n\nIn Scrum, the Product Owner is accountable for maximising value — but if they can’t reprioritise the backlog, they’re a backlog secretary.  \nThe Scrum Master is accountable for team effectiveness — but if they can’t challenge organisational dysfunction, they’re a meeting host.  \nDevelopers are accountable for the Increment — but if they can’t decide how to build it, they’re just order-takers.\n\nThis is why agency matters.  \nWithout it, accountability is performative.  \nYou are setting people up to fail.\n\nIf you want real Scrum — not Scrum theatre — you must pair accountability with the agency to remove impediments, challenge dysfunction, and enforce realignment where necessary.\n\nStop pretending people are accountable when you’ve stripped away their ability to act.\n\nWhere in your organisation have you tied people’s hands while still expecting them to carry the weight?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-10-let-us-be-blunt\\index.md",
@@ -221,10 +306,10 @@
   },
   {
     "FrontMatter": {
-      "title": "We hear “self-managing teams” so often it become a cliché.\"",
+      "title": "We hear self-managing teams so often it become a cliché",
       "description": "Explains how true self-management in Scrum requires active, disciplined effort from Product Owners, Scrum Masters, and Developers, not chaos or lack of structure.",
       "date": "2025-05-09T15:30:39+01:00",
-      "weight": 1000.0,
+      "weight": 310.0,
       "slug": "we-hear-self-managing-teams-so-often-it-become-a-cliché",
       "aliases": [
         "/resources/FqiyqqNxjFS"
@@ -253,11 +338,30 @@
       "Watermarks": {
         "description": "2025-05-16T15:54:54Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Social Technologies",
+        "Software Development",
+        "Scrum Team",
+        "Self Organisation",
+        "Professional Scrum",
+        "Pragmatic Thinking",
+        "Team Collaboration",
+        "Agile Product Management",
+        "Agile Philosophy",
+        "Organisational Agility",
+        "Product Delivery",
+        "Agile Frameworks",
+        "Team Motivation",
+        "Sociotechnical Systems"
+      ]
     },
     "BodyContent": "We hear “self-managing teams” so often it’s become a cliché.\n\nBut here’s what gets missed:\n\nSelf-management applies to all Scrum roles.\n\nProduct Owners must self-manage how they engage with stakeholders, order the backlog, and shape the product vision.  \nScrum Masters must self-manage how they serve the team, coach the organisation, and create the conditions for success.  \nDevelopers must self-manage how they plan, execute, and deliver the Increment.\n\nThis isn’t a passive concept.  \nIt’s active, adaptive, disciplined work.\n\nScrum isn’t designed to be a loose, anything-goes framework.  \nIt’s a social technology to deliver adaptive solutions — and that requires disciplined self-management across roles, grounded in clear alignment.\n\nWhere are you mistaking “self-management” for chaos or neglect?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-09-we-hear-self-managing-teams-so-often-it-become-a-cliché\\index.md",
@@ -265,10 +369,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Everyone loves to shout “give teams autonomy.”\"",
+      "title": "Everyone loves to shout give teams autonomy",
       "description": "Explores why team autonomy in Scrum must be balanced with alignment to strategic goals, highlighting the role of clear objectives and leadership in achieving true agility.",
       "date": "2025-05-08T15:30:40+01:00",
-      "weight": 1000.0,
+      "weight": 355.0,
       "slug": "everyone-loves-to-shout-give-teams-autonomy",
       "aliases": [
         "/resources/5nkzevV2xKG"
@@ -297,11 +401,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:54:56Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Strategy"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Management",
+        "Leadership"
+      ],
+      "tags": [
+        "Agile Product Management",
+        "Sociotechnical Systems",
+        "Strategic Goals",
+        "Pragmatic Thinking",
+        "Organisational Agility",
+        "Software Development",
+        "Agile Strategy",
+        "Agile Planning",
+        "Agile Leadership",
+        "Organisational Culture",
+        "Common Goals",
+        "Team Motivation",
+        "Social Technologies",
+        "Professional Scrum",
+        "Team Collaboration"
+      ]
     },
     "BodyContent": "Everyone loves to shout “give teams autonomy.”\n\nWhat they forget is that autonomy without alignment is just local chaos.\n\nIn Scrum, alignment isn’t an optional management layer; it’s the strategic guardrail that keeps teams moving toward meaningful outcomes.\n\nThe Product Goal. The Sprint Goal. The Product Backlog ordering.\n\nThese are not paperwork artefacts — they are the heartbeat of alignment.\n\nWithout them, self-managing teams spin their wheels, deliver local outputs, and miss the mark on business outcomes.\n\nIt’s not the team’s fault.\n\nIt’s leadership failing to provide clarity of purpose.\n\nAutonomy and alignment are not opposites.\n\nScrum, as a social technology, requires both.\n\nIf your teams are autonomous but disconnected from strategic goals, you don’t have agility — you have expensive local optimisation.\n\nHow are you ensuring your teams are aligned without suffocating their autonomy?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-08-everyone-loves-to-shout-give-teams-autonomy\\index.md",
@@ -309,10 +433,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Fear is the real enemy of agility.\"",
+      "title": "Fear is the real enemy of agility",
       "description": "Explores how fear hinders true agility in teams, emphasising the need to foster courage and trust for effective Agile, Scrum, and DevOps practices and continuous improvement.",
       "date": "2025-05-07T15:30:42+01:00",
-      "weight": 1000.0,
+      "weight": 325.0,
       "slug": "fear-is-the-real-enemy-of-agility",
       "aliases": [
         "/resources/JwMLCNODuls"
@@ -341,11 +465,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:54:57Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Technical Leadership",
+        "Leadership",
+        "Product Development"
+      ],
+      "tags": [
+        "Agile Philosophy",
+        "Organisational Culture",
+        "Team Motivation",
+        "Psychological Safety",
+        "Pragmatic Thinking",
+        "Software Development",
+        "Professional Scrum",
+        "Social Technologies",
+        "Team Collaboration",
+        "Organisational Agility",
+        "Market Adaptability",
+        "Agile Leadership",
+        "Personal",
+        "Agile Strategy",
+        "Scrum Values"
+      ]
     },
     "BodyContent": "Fear is the real enemy of agility.\n\nFear of raising an issue.  \nFear of stopping the line.  \nFear of being wrong.  \nFear of change.\n\nAgile, Scrum, and DevOps are about enabling continuous delivery of value through learning, adaptation, and trust.\n\nBut if fear rules your workplace, all you’ll get is stagnation, no matter how many \"Agile ceremonies\" you run.\n\nThe real work of a Scrum Master, Product Owner, or leader isn’t in running events or building roadmaps.  \nIt’s in systematically removing fear from the system.\n\nCourage is the first Scrum Value for a reason.\n\nAre you building a system where courage thrives—or where fear festers?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-07-fear-is-the-real-enemy-of-agility\\index.md",
@@ -356,7 +500,7 @@
       "title": "Technical debt cripples business agility and slows engineers down",
       "description": "Technical debt limits business agility, slows engineering, and hinders innovation. Managing it with automation and transparency is key to staying competitive and responsive.",
       "date": "2025-05-06T15:30:42+01:00",
-      "weight": 1000.0,
+      "weight": 190.0,
       "slug": "technical-debt-cripples-business-agility-and-slows-engineers-down",
       "aliases": [
         "/resources/4kBTeJ1TmsW"
@@ -387,9 +531,16 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Engineering Excellence"
       ],
-      "tags": []
+      "tags": [
+        "Technical Debt",
+        "Software Development",
+        "Business Agility",
+        "Operational Practices",
+        "Market Adaptability",
+        "Technical Mastery"
+      ]
     },
     "BodyContent": "Technical debt doesn’t just slow engineers down—it cripples business agility.\n\nWhen software becomes too fragile to change quickly, every product decision takes longer. Every market opportunity is harder to seize. And suddenly, you're not competing on innovation anymore—you’re just trying to keep up.\n\nThis isn’t a theoretical risk. It happened at Microsoft. It happens in every enterprise that delays paying back technical debt.\n\nThe solution? Shorten feedback loops. Automate everything. Make transparency the default. And, above all, stop accepting technical debt as an inevitability.\n\nYour ability to respond to the market depends on how you manage technical debt today.\n\nHow much is it costing your business to maintain the status quo?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-06-technical-debt-cripples-business-agility-and-slows-engineers-down\\index.md",
@@ -397,10 +548,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Most teams don’t fail because they lack frameworks.\"",
+      "title": "Most teams don’t fail because they lack frameworks",
       "description": "Teams struggle not from lacking frameworks, but from ignoring feedback. Success depends on acting on signals, fostering safety, and empowering real change.",
       "date": "2025-05-05T15:30:43+01:00",
-      "weight": 1000.0,
+      "weight": 340.0,
       "slug": "most-teams-don-t-fail-because-they-lack-frameworks",
       "aliases": [
         "/resources/sX2UVhPk6cL"
@@ -429,11 +580,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:00Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Leadership",
+        "Scrum"
+      ],
+      "tags": [
+        "Organisational Agility",
+        "Agile Philosophy",
+        "Organisational Culture",
+        "Software Development",
+        "Pragmatic Thinking",
+        "Continuous Learning",
+        "Market Adaptability",
+        "Change Management",
+        "Continuous Improvement",
+        "Agile Values and Principles",
+        "Social Technologies",
+        "Agile Leadership",
+        "Agile Product Management",
+        "Value Delivery",
+        "Organisational Change"
+      ]
     },
     "BodyContent": "Most teams don’t fail because they lack frameworks.  \nThey fail because they don't act on the feedback those frameworks expose.\n\nAgile and Scrum light up the broken parts of your system like a warning light on a dashboard.  \nIgnoring them doesn't make the problems go away. It makes them worse.\n\nThe hardest part of agility isn’t getting a team to do Sprints.  \nThe hardest part is building an environment where it’s safe—and expected—to act on what you learn.\n\nA team that delivers real change is a team that is listened to, respected, and empowered to make the hard calls.\n\nIf you treat every signal as an opportunity, not a threat, you will outlearn and outperform your competitors.\n\nAre you listening to your signals or silencing them?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-05-most-teams-don-t-fail-because-they-lack-frameworks\\index.md",
@@ -441,10 +612,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Agile and Scrum are often misunderstood.\"",
+      "title": "Agile and Scrum are often misunderstood",
       "description": "Agile and Scrum expose underlying team and workflow issues, helping organisations address real problems rather than masking dysfunction with process or tools.",
       "date": "2025-05-04T15:30:30+01:00",
-      "weight": 1000.0,
+      "weight": 510.0,
       "slug": "agile-and-scrum-are-often-misunderstood",
       "aliases": [
         "/resources/Oi_yiyEHZbM"
@@ -473,11 +644,21 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:01Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Philosophy"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development"
+      ],
+      "tags": [
+        "Pragmatic Thinking",
+        "Software Development",
+        "Organisational Agility",
+        "Social Technologies",
+        "Agile Philosophy",
+        "Professional Scrum"
+      ]
     },
     "BodyContent": "Agile and Scrum are often misunderstood.\n\nThey don't fix your problems.  \nThey reveal them.\n\nWhen a team struggles to produce a working product, when deliverables fall apart, when frustration bubbles up, Agile and Scrum are not failing. They’re doing exactly what they were designed to do—highlight the dysfunctions you’ve ignored.\n\nThe real work isn't in running a Daily Scrum or filling out a board.  \nIt’s in confronting those problems head-on, not sweeping them under the carpet.\n\nAgile and Scrum are social technologies for building adaptive solutions, not frameworks for passive compliance.\n\nIf your system of work is broken, no certification, no Jira ticket, and no ritual will save you.\n\nAre you ready to fix the real problems your team is signalling?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-04-agile-and-scrum-are-often-misunderstood\\index.md",
@@ -488,7 +669,7 @@
       "title": "A certification proves you’ve passed a test",
       "description": "Certifications show test-passing ability but don’t prove real-world product skills. Experience, judgement, and stakeholder influence matter more for true competence.",
       "date": "2025-05-03T15:30:21+01:00",
-      "weight": 1000.0,
+      "weight": 765.0,
       "slug": "a-certification-proves-you-ve-passed-a-test",
       "aliases": [
         "/resources/5fShT9wNqFg"
@@ -519,9 +700,13 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Product Management"
       ],
-      "tags": []
+      "tags": [
+        "Competence",
+        "Personal",
+        "Product Owner"
+      ]
     },
     "BodyContent": "A certification proves you’ve passed a test. It does not mean you can define a product vision, align stakeholders, or make tough trade-offs.\n\nHiring managers often use certifications as a filter, and while they serve as a minimum competency bar, they don’t guarantee expertise. I’ve met certified POs who struggle to influence stakeholders and uncertified POs who run circles around them.\n\nReal competence comes from experience—making strategic product decisions, balancing customer needs with business goals, and driving incremental value. It’s about having the judgment to say no, not just prioritising whatever stakeholders demand.\n\nThat said, assessments like PSPO I and PSPO II can be useful for self-evaluation. If nothing else, they expose gaps in your knowledge. But if you’re relying on them as proof of capability, you’re missing the bigger picture.\n\nWhat’s your take? Should hiring managers weigh experience over certification, or is there still value in the credential?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-03-a-certification-proves-you-ve-passed-a-test\\index.md",
@@ -529,10 +714,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Here the dirty secret behind many “agile transformations”:\"",
+      "title": "Here the dirty secret behind many agile transformations",
       "description": "Many agile transformations restrict team autonomy, leading to control and compliance instead of true ownership, adaptability, and meaningful engagement in value delivery.",
       "date": "2025-05-02T15:30:32+01:00",
-      "weight": 1000.0,
+      "weight": 340.0,
       "slug": "here-the-dirty-secret-behind-many-agile-transformations",
       "aliases": [
         "/resources/6Z5I3JPMECs"
@@ -561,11 +746,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:04Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Leadership",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Agentic Agility",
+        "Organisational Culture",
+        "Team Collaboration",
+        "Pragmatic Thinking",
+        "Self Organisation",
+        "Social Technologies",
+        "Software Development",
+        "Team Motivation",
+        "Organisational Agility",
+        "Change Management",
+        "Professional Scrum",
+        "Agile Transformation",
+        "Agile Leadership",
+        "Agile Values and Principles",
+        "Organisational Psychology"
+      ]
     },
     "BodyContent": "Here’s the dirty secret behind many “agile transformations”:\n\nThe organisation claims alignment, but what they deliver is control.\n\nThey dictate priorities, assign tasks, predefine solutions, and then slap a “self-managing” label on the team.\n\nThis is a lie.\n\nIn Scrum, autonomy isn’t about teams doing whatever they want. It’s about teams deciding how they will meet their goals.\n\nAlignment defines the why and what.  \nAutonomy gives the team ownership of the how.\n\nWithout autonomy, you create learned helplessness.  \nTeams stop thinking, stop improving, and stop caring.  \nYou get compliance, not commitment.\n\nIf you want adaptive value delivery, you must let go of the how.  \nAlign on goals — and then get out of the way.\n\nWhat parts of your system are still holding a death grip on the how?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-02-here-the-dirty-secret-behind-many-agile-transformations\\index.md",
@@ -573,10 +778,10 @@
   },
   {
     "FrontMatter": {
-      "title": "I’ll never understand teams that manage bugs instead of fixing them.",
+      "title": "I’ll never understand teams that manage bugs instead of fixing them",
       "description": "Highlights the importance of promptly fixing software bugs instead of managing backlogs, arguing that unresolved defects harm product quality and team effectiveness.",
       "date": "2025-05-01T15:30:38+01:00",
-      "weight": 1000.0,
+      "weight": 255.0,
       "slug": "i-ll-never-understand-teams-that-manage-bugs-instead-of-fixing-them",
       "aliases": [
         "/resources/RwH_ozVN5om"
@@ -607,9 +812,14 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Engineering Excellence"
       ],
-      "tags": []
+      "tags": [
+        "Software Development",
+        "Pragmatic Thinking",
+        "Product Delivery",
+        "Technical Mastery"
+      ]
     },
     "BodyContent": "I’ll never understand teams that “manage” bugs instead of just fixing them.\n\nA bug backlog? Why. Just fix them.\n\nA meeting to discuss bug prioritisation? Stop it. Just fix them.\n\nA ticket that’s been sitting in “QA” for weeks? Absurd. Just fix it.\n\nHere’s the deal: Known defects are holes in the ship. You don’t argue about whether to patch them while the water pours in. If a bug is found, it gets fixed. If it’s too big, escalate it and prioritise the fix. The longer you wait, the worse it gets.\n\nAgile is about working software. Not half-working software with a spreadsheet full of problems you hope to deal with someday.\n\nHow does your team handle bugs? Are you fixing them or just shuffling them around?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-05-01-i-ll-never-understand-teams-that-manage-bugs-instead-of-fixing-them\\index.md",
@@ -617,10 +827,10 @@
   },
   {
     "FrontMatter": {
-      "title": "let-us do the maths.\"",
+      "title": "let-us do the maths",
       "description": "Explains how slow product release cycles delay feature delivery, risk losing relevance, and create competitive disadvantages, highlighting the benefits of faster iterations.",
       "date": "2025-04-30T15:30:52+01:00",
-      "weight": 1000.0,
+      "weight": 265.0,
       "slug": "let-us-do-the-maths",
       "aliases": [
         "/resources/XYMN44lJp1n"
@@ -649,11 +859,29 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:07Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Engineering Excellence",
+        "DevOps"
+      ],
+      "tags": [
+        "Time to Market",
+        "Deployment Frequency",
+        "Software Development",
+        "Product Delivery",
+        "Business Agility",
+        "Market Adaptability",
+        "Frequent Releases",
+        "Value Delivery",
+        "Agile Planning",
+        "Agile Product Management",
+        "Team Performance",
+        "Organisational Agility",
+        "Release Management"
+      ]
     },
     "BodyContent": "Let’s do the maths.\n\nIf your product team delivers every two years, that means feature requests take four years to hit production.\n\nHow many customer needs stay relevant over four years? How many competitors ship improvements while you’re still planning your release?\n\nThis was Microsoft’s reality with TFS. They had a 2-year cycle, a growing feature backlog, and increasing customer dissatisfaction. The cost of slow delivery wasn’t just an engineering problem—it was a competitive disadvantage.\n\nWhen they switched to 3-week Sprints and decoupled release from deployment, everything changed. Features went live in days, not years.\n\nSpeed matters. Your competitors aren’t waiting—why are you?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-30-let-us-do-the-maths\\index.md",
@@ -664,7 +892,7 @@
       "title": "Too much refinement wastes time",
       "description": "Balancing backlog refinement prevents wasted effort and chaos. Aim for just enough detail so developers can plan sprints confidently without over-preparing or guessing.",
       "date": "2025-04-29T15:30:43+01:00",
-      "weight": 1000.0,
+      "weight": 345.0,
       "slug": "too-much-refinement-wastes-time",
       "aliases": [
         "/resources/2GV6voRFhjH"
@@ -693,11 +921,23 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:09Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Method"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development"
+      ],
+      "tags": [
+        "Product Backlog",
+        "Software Development",
+        "Agile Planning",
+        "Backlog Refinement",
+        "Operational Practices",
+        "Pragmatic Thinking",
+        "Definition of Ready",
+        "Agile Product Management"
+      ]
     },
     "BodyContent": "Too much refinement wastes time. Too little refinement leads to chaos. The key is knowing where to draw the line.\n\nScrum teams often fall into one of two traps:\n\n- Refining everything too soon – spending hours detailing work that might never happen.\n- Not refining enough – arriving at Sprint Planning with backlog items that are vague, oversized, and full of unknowns.\n\nThe goal isn’t perfection—it’s readiness. Your backlog should be refined just enough that developers can confidently pull work into a Sprint without endless clarification.\n\nIt’s about finding the Goldilocks zone: Not too much, not too little. Just enough.\n\nHow do you know if you’ve found it? Your Sprint Planning should be focused on commitment, not discovery.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-29-too-much-refinement-wastes-time\\index.md",
@@ -708,7 +948,7 @@
       "title": "Not all surprises in product development are true unknowns",
       "description": "Many product development surprises stem from poor backlog management, not true unknowns. Regular refinement and reflection help teams anticipate and reduce unexpected issues.",
       "date": "2025-04-28T15:30:55+01:00",
-      "weight": 1000.0,
+      "weight": 380.0,
       "slug": "not-all-surprises-in-product-development-are-true-unknowns",
       "aliases": [
         "/resources/3R0CYmaHd63"
@@ -737,11 +977,24 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:10Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Product Backlog",
+        "Backlog Refinement",
+        "Software Development",
+        "Operational Practices",
+        "Team Performance",
+        "Agile Planning",
+        "Pragmatic Thinking",
+        "Agile Product Management"
+      ]
     },
     "BodyContent": "Not all surprises in product development are true unknowns. Many are just the result of bad backlog management.\n\nTeams often get blindsided by last-minute changes, unexpected dependencies, or hidden complexities. But here’s the reality: Most of these “surprises” could have been anticipated with better refinement.\n\n- How often do you reflect on the surprises from previous Sprints?\n- Do you categorise them into genuine unknowns vs. things you should have seen coming?\n- Are you adjusting your approach based on these learnings?\n\nRefinement isn’t just about breaking down work—it’s about building foresight. If your team is constantly caught off guard, your backlog isn’t doing its job.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-28-not-all-surprises-in-product-development-are-true-unknowns\\index.md",
@@ -752,7 +1005,7 @@
       "title": "Innovation graveyards: Where great ideas die in slow organisations",
       "description": "Explores how slow organisational processes, risk aversion, and excessive alignment cause promising ideas to stall, leading to lost innovation and unrealised potential.",
       "date": "2025-04-27T15:30:30+01:00",
-      "weight": 1000.0,
+      "weight": 750.0,
       "slug": "innovation-graveyards-where-great-ideas-die-in-slow-organisations",
       "aliases": [
         "/resources/S-OSZ8uEFdf"
@@ -785,7 +1038,12 @@
       "categories": [
         "Uncategorized"
       ],
-      "tags": []
+      "tags": [
+        "Entrepreneurship",
+        "Unrealised Value",
+        "Miscellaneous",
+        "Business Agility"
+      ]
     },
     "BodyContent": "Inside every slow-moving organisation is an innovation graveyard—a place where great ideas die before they ever see daylight.\n\nHow?\n\n- Leaders demand \"certainty\" before taking a step.\n- Risk is managed by avoiding it, not navigating it.\n- New ideas must be \"aligned\" before they can be tested.\n\nMeanwhile, the companies actually winning today? They launch. They learn. They iterate. They don’t wait until an idea is bulletproof because they know perfection is a lie in fast-moving markets.\n\nThe worst waste in a business isn’t money. It’s unrealised potential. How many great ideas has your organisation buried?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-27-innovation-graveyards-where-great-ideas-die-in-slow-organisations\\index.md",
@@ -793,10 +1051,10 @@
   },
   {
     "FrontMatter": {
-      "title": "No successful company thrives by copying others’ ways of working.",
+      "title": "No successful company thrives by copying others’ ways of working",
       "description": "Successful companies thrive by creating unique ways of working, not by copying frameworks. Tailor your approach to fit your organisation’s culture, needs, and goals.",
       "date": "2025-04-26T15:30:29+01:00",
-      "weight": 1000.0,
+      "weight": 540.0,
       "slug": "no-successful-company-thrives-by-copying-others-ways-of-working",
       "aliases": [
         "/resources/GcanwqIp5ok"
@@ -827,9 +1085,15 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Agile Philosophy",
+        "Agile Strategy",
+        "Organisational Agility",
+        "Agnostic Agile",
+        "Organisational Change"
+      ]
     },
     "BodyContent": "No successful company got where they are by copy-pasting someone else’s way of working.\n\nYet, so many businesses fall into the trap of adopting SAFe, the Spotify Model, or some other packaged framework, thinking it will magically solve their scaling challenges.\n\nHere’s the reality: Your company is unique. Your challenges are unique. Your approach to scaling needs to be unique.\n\nEvery successful organisation designed its own way of working, tailored to its market, culture, and customers. That’s what made them successful in the first place.\n\nSo why abandon that approach now?\n\nScaling isn’t about applying a framework. It’s about learning, adapting, and evolving—on your terms.\n\nIs your organisation designing its own future, or outsourcing it to a framework?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-26-no-successful-company-thrives-by-copying-others-ways-of-working\\index.md",
@@ -837,10 +1101,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Companies often say \"we-are going Agile!\" as if declaring it makes it so.",
+      "title": "Companies often say \"we-are going Agile!\" as if declaring it makes it so",
       "description": "Many companies mistake adopting Agile frameworks for true agility, but real success comes from customising ways of working to respond quickly to market changes.",
       "date": "2025-04-25T15:30:40+01:00",
-      "weight": 1000.0,
+      "weight": 500.0,
       "slug": "companies-often-say-we-are-going-agile-as-if-declaring-it-makes-it-so",
       "aliases": [
         "/resources/otmDMgDEp-i"
@@ -869,11 +1133,29 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:14Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Ethos"
       ],
-      "tags": []
+      "categories": [
+        "Product Development"
+      ],
+      "tags": [
+        "Agile Philosophy",
+        "Market Adaptability",
+        "Pragmatic Thinking",
+        "Business Agility",
+        "Organisational Agility",
+        "Agile Values and Principles",
+        "Agile Transformation",
+        "Enterprise Agility",
+        "Change Management",
+        "Agile Strategy",
+        "Miscellaneous",
+        "Social Technologies",
+        "Agile Product Management",
+        "Agnostic Agile",
+        "Large Scale Agility"
+      ]
     },
     "BodyContent": "I've lost count of the number of times I've heard companies say, \"We're going Agile!\"—as if declaring it makes it so.\n\nThe reality? Most of these transformations are superficial at best. Agile isn’t about installing SAFe, Scrum@Scale, or any other framework. Those are just tools. The real game is market responsiveness—seizing opportunities faster than your competitors and adapting to change before it catches you off guard.\n\nMost large organisations became successful by building their own ways of working—tailored to their markets, customers, and business realities. Why, then, do so many think copying another company's playbook will work for them?\n\nAgility isn’t about ticking boxes. It’s about survival. The companies that understand this are already outpacing the ones still debating which framework to buy.\n\nAre you custom-building agility into your organisation, or are you just running someone else’s playbook?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-25-companies-often-say-we-are-going-agile-as-if-declaring-it-makes-it-so\\index.md",
@@ -884,7 +1166,7 @@
       "title": "Understand the true risk of technical debt in your business",
       "description": "Technical debt poses significant business risks, reducing agility, slowing innovation, and causing lost opportunities. Addressing it is crucial for long-term organisational success.",
       "date": "2025-04-24T15:30:48+01:00",
-      "weight": 1000.0,
+      "weight": 240.0,
       "slug": "understand-the-true-risk-of-technical-debt-in-your-business",
       "aliases": [
         "/resources/SLaqpu5BHH8"
@@ -915,9 +1197,11 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Engineering Excellence"
       ],
-      "tags": []
+      "tags": [
+        "Technical Debt"
+      ]
     },
     "BodyContent": "If your business truly understood the risk of technical debt, you wouldn’t accept any of it.\n\nThere’s a myth that \"some level of technical debt is manageable.\" But let’s be clear—technical debt is 100% risk. It’s an unhedged fund with no asset securing it, no insurance to mitigate it. The cost isn’t just in future refactoring; it’s in lost time, lost agility, and lost opportunities.\n\nAt Microsoft, TFS was delivered on a two-year cycle. By 2012, with 600 engineers, they were shipping just 24 features a year. Technical debt had turned a powerhouse into a bottleneck. It wasn’t until they embraced 3-week Sprints and tackled the underlying debt that they regained agility.\n\nThis isn't just an engineering problem. It’s a business problem. If you think you can hide technical debt in a cost centre forever, think again.\n\nHow does your organisation treat technical debt? As a calculated risk or an unrecognised liability?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-24-understand-the-true-risk-of-technical-debt-in-your-business\\index.md",
@@ -928,7 +1212,7 @@
       "title": "Microsoft shift from 2-year cycles to 3-week Sprints caused team anxiety",
       "description": "Microsoft’s switch to 3-week Sprints increased team anxiety due to greater transparency, exposing inefficiencies but enabling faster, more frequent software delivery.",
       "date": "2025-04-23T15:30:47+01:00",
-      "weight": 1000.0,
+      "weight": 255.0,
       "slug": "microsoft-shift-from-2-year-cycles-to-3-week-sprints-caused-team-anxiety",
       "aliases": [
         "/resources/AW5GP1Vnnp5"
@@ -957,11 +1241,23 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:16Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence"
+      ],
+      "tags": [
+        "Transparency",
+        "Software Development",
+        "Social Technologies",
+        "Pragmatic Thinking",
+        "Time to Market",
+        "Product Delivery",
+        "Operational Practices",
+        "Empirical Process Control",
+        "Professional Scrum"
+      ]
     },
     "BodyContent": "When Microsoft moved from a two-year delivery cycle to 3-week Sprints, something unexpected happened—teams became terrified.\n\nNot of the work itself, but of the transparency.\n\nSuddenly, it was impossible to hide inefficiencies. Bad code was exposed. Delivery bottlenecks became visible. And that fear? It was real.\n\nBut here’s the thing—transparency isn’t the enemy; it’s the only way to improve. The teams that embraced the new way of working went from delivering 24 features per year to shipping multiple times per day.\n\nFear of failure keeps teams stuck in technical debt. The best teams face it head-on.\n\nIs your organisation ready to embrace transparency?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-23-microsoft-shift-from-2-year-cycles-to-3-week-sprints-caused-team-anxiety\\index.md",
@@ -969,10 +1265,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Every delay in decision-making taxes your organisation future.",
+      "title": "Every delay in decision-making taxes your organisation future",
       "description": "Delays in decision-making hinder organisational growth, reduce competitiveness, and allow opportunities to slip away due to bureaucracy and slow approval processes.",
       "date": "2025-04-22T15:30:43+01:00",
-      "weight": 1000.0,
+      "weight": 725.0,
       "slug": "every-delay-in-decision-making-taxes-your-organisation-future",
       "aliases": [
         "/resources/CkFbsX0M3i-"
@@ -1003,9 +1299,11 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Miscellaneous"
+      ]
     },
     "BodyContent": "Every delay in decision-making is a tax on your organisation’s future.\n\nWhile leaders sit in endless meetings, while approvals stack up, while risk-averse policies slow execution, your competitors are shipping, learning, and adapting.\n\nMarkets today don’t reward caution. They punish hesitation. The longer it takes to act, the more opportunities slip through your fingers. And the worst part? Most of the delay is self-inflicted.\n\nBureaucracy kills responsiveness. Layered hierarchies stifle innovation. If your company still needs five signatures to greenlight an experiment, you’re already behind.\n\nSpeed isn’t reckless. It’s survival. How much time is your organisation wasting?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-22-every-delay-in-decision-making-taxes-your-organisation-future\\index.md",
@@ -1016,7 +1314,7 @@
       "title": "Would your CFO approve misrepresenting corporate assets?",
       "description": "Ignoring technical debt misrepresents software asset value, risking financial loss and operational issues. Properly account for technical debt to protect business assets.",
       "date": "2025-04-21T15:30:34+01:00",
-      "weight": 1000.0,
+      "weight": 340.0,
       "slug": "would-your-cfo-approve-misrepresenting-corporate-assets",
       "aliases": [
         "/resources/u-ACEx3Q01p"
@@ -1047,9 +1345,11 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Engineering Excellence"
       ],
-      "tags": []
+      "tags": [
+        "Technical Debt"
+      ]
     },
     "BodyContent": "Would your CFO sign off on misrepresenting corporate assets? Of course not. But that’s exactly what happens when technical debt is ignored.\n\nProduct delivery is capital expenditure. The software your business builds is an asset—just like buildings and equipment. If that asset is full of technical debt, its value is compromised. And yet, most businesses don’t track this risk.\n\nThere’s a word for misrepresenting assets on a balance sheet: fraud.\n\nTechnical debt is a risk, not a choice. If you’re building without addressing it, you’re setting up future losses—whether through slower delivery, higher maintenance costs, or outright failure to adapt.\n\nIs your organisation treating software as the asset it truly is?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-21-would-your-cfo-approve-misrepresenting-corporate-assets\\index.md",
@@ -1057,10 +1357,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Agile without a usable working product is just expensive theatre.\"",
+      "title": "Agile without a usable working product is just expensive theatre",
       "description": "Highlights the importance of delivering a usable product each sprint in Agile, warning against focusing on process over outcomes and emphasising real value over rituals.",
       "date": "2025-04-20T15:30:27+01:00",
-      "weight": 1000.0,
+      "weight": 400.0,
       "slug": "agile-without-a-usable-working-product-is-just-expensive-theatre",
       "aliases": [
         "/resources/CBIAsEX7a86"
@@ -1091,9 +1391,19 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Product Development"
       ],
-      "tags": []
+      "tags": [
+        "Working Software",
+        "Pragmatic Thinking",
+        "Value Delivery",
+        "Increment",
+        "Agile Product Management",
+        "Operational Practices",
+        "Product Delivery",
+        "Agile Values and Principles",
+        "Agile Philosophy"
+      ]
     },
     "BodyContent": "Agile without a usable working product is just expensive theatre.\n\nYet, so many teams get lost in rituals, Jira tickets, and endless documentation, completely missing the point. Agile is about delivering value continuously—not accumulating unfinished work, endless “technical discussions,” or chasing vanity metrics.\n\nA sprint that doesn’t produce a potentially shippable product is wasted time. A backlog filled with items that never see the light of day is a black hole. And don’t get me started on teams that celebrate velocity without considering whether they’re building anything worthwhile.\n\nThe real metric? A usable working product at the end of every sprint. That’s how you mitigate risk, get feedback, and stay relevant in the market. Everything else is noise.\n\nIs your team delivering something usable every sprint, or just running in circles?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-20-agile-without-a-usable-working-product-is-just-expensive-theatre\\index.md",
@@ -1101,10 +1411,10 @@
   },
   {
     "FrontMatter": {
-      "title": "There no such thing as \"good\" technical debt.",
+      "title": "There no such thing as \"good\" technical debt",
       "description": "Technical debt always harms productivity and system stability. Ignoring it leads to inefficiency and risk, making it essential to address rather than accept or normalise.",
       "date": "2025-04-19T15:30:34+01:00",
-      "weight": 1000.0,
+      "weight": 130.0,
       "slug": "there-no-such-thing-as-good-technical-debt",
       "aliases": [
         "/resources/lLNjkL_zGQa"
@@ -1135,9 +1445,15 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Engineering Excellence",
+        "Technical Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Technical Debt",
+        "Software Development",
+        "Technical Mastery",
+        "Engineering Practices"
+      ]
     },
     "BodyContent": "Let’s put this to rest: there’s no such thing as \"good\" technical debt.\n\nIf new engineers take weeks to become productive, your system is unreadable. If every change introduces faults, your architecture is fragile. If you’re manually handling tasks that should be automated, you’re building inefficiency into your process.\n\nAnd here’s the kicker—technical debt doesn’t accumulate linearly. It builds up silently, then one day, it collapses your ability to deliver.\n\nMicrosoft learned this the hard way with TFS. They were shipping 24 features per year across a team of 600 engineers. The solution? A complete overhaul in how they worked. They moved to 3-week Sprints, embraced transparency, and started paying back their technical debt.\n\nStop normalising dysfunction. There’s no \"acceptable level\" of technical debt—only risk you haven’t accounted for yet.\n\nWhat’s stopping your team from tackling technical debt head-on?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-19-there-no-such-thing-as-good-technical-debt\\index.md",
@@ -1148,7 +1464,7 @@
       "title": "You don’t own your market",
       "description": "Explains why businesses must prioritise customer needs and agility to stay relevant, avoid missed opportunities, and remain competitive in a rapidly changing market.",
       "date": "2025-04-18T15:30:32+01:00",
-      "weight": 1000.0,
+      "weight": 725.0,
       "slug": "you-don-t-own-your-market",
       "aliases": [
         "/resources/X-J3sV7w7mU"
@@ -1181,7 +1497,13 @@
       "categories": [
         "Uncategorized"
       ],
-      "tags": []
+      "tags": [
+        "Miscellaneous",
+        "Business Agility",
+        "Value Delivery",
+        "Agile Philosophy",
+        "Product Strategy"
+      ]
     },
     "BodyContent": "You don’t own your market. Your customers do. Ignore them, move too slowly, and they’ll move on.\n\nBut most organisations don’t listen. They get stuck in their own echo chambers, convinced they know best. Meanwhile:\n\n- Products launch too late to be relevant.\n- Internal priorities outweigh real customer needs.\n- Decision-makers are too far from the people they serve.\n\nEvery delay, every missed signal, every slow response is an open door for your competition.\n\nAgility isn’t about speed for speed’s sake. It’s about staying relevant. Are you still in sync with your customers, or just assuming they’ll wait?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-18-you-don-t-own-your-market\\index.md",
@@ -1192,7 +1514,7 @@
       "title": "Most companies still get Product Ownership wrong",
       "description": "Many organisations misunderstand Product Ownership, treating it as simple backlog management instead of a strategic, accountable role essential for product success and team alignment.",
       "date": "2025-04-17T15:30:37+01:00",
-      "weight": 1000.0,
+      "weight": 595.0,
       "slug": "most-companies-still-get-product-ownership-wrong",
       "aliases": [
         "/resources/n7KbcPbUTTe"
@@ -1221,11 +1543,21 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:23Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Product Management",
+        "Product Development"
+      ],
+      "tags": [
+        "Agile Product Management",
+        "Product Owner",
+        "Software Development",
+        "Pragmatic Thinking",
+        "Professional Scrum",
+        "Product Strategy"
+      ]
     },
     "BodyContent": "Most companies still get Product Ownership wrong. They either treat it as a glorified backlog manager or assume any business analyst can do the job. But a real Product Owner isn’t just an order taker. They are a product strategist, decision-maker, and stakeholder wrangler, responsible for maximising product value.\n\nThe misconception that a Product Owner is a \"requirements gatherer\" leads to weak products and misaligned teams. Instead, the best Product Owners own the vision, drive outcomes, and use evidence to steer development—not just shuffle tickets in a backlog.\n\nA Product Owner isn’t a stepping stone role. It’s an accountability that demands business acumen, leadership, and the courage to make tough calls. If your PO is just managing lists, your product is already in trouble.\n\nHow does your organisation approach Product Ownership? Are you hiring for it, or just hoping the right person emerges?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-17-most-companies-still-get-product-ownership-wrong\\index.md",
@@ -1236,7 +1568,7 @@
       "title": "The market isn’t slowing down for anyone",
       "description": "Explores why organisational responsiveness and real-time decision-making are crucial for staying competitive, highlighting the risks of outdated frameworks and slow adaptation.",
       "date": "2025-04-16T15:30:49+01:00",
-      "weight": 1000.0,
+      "weight": 635.0,
       "slug": "the-market-isn-t-slowing-down-for-anyone",
       "aliases": [
         "/resources/Szz-d1q7CG7"
@@ -1267,9 +1599,15 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Product Development"
       ],
-      "tags": []
+      "tags": [
+        "Business Agility",
+        "Agile Philosophy",
+        "Market Adaptability",
+        "Pragmatic Thinking",
+        "Organisational Agility"
+      ]
     },
     "BodyContent": "The market isn’t slowing down for anyone. While some organisations are still stuck debating frameworks, others are seizing opportunities and adapting at speed. The difference? Responsiveness.\n\nIt’s not about being \"agile\" or rolling out SAFe or some other packaged framework. It’s about moving faster than your competitors, making smarter decisions in real-time, and creating a system of work that allows you to pivot when the unexpected happens.\n\nSome organisations think they can blend old-school control with new-world agility. That’s a delusion. If you’re still operating like a waterfall shop with \"agile teams\" patched on top, you're not just slowing down—you're actively losing ground.\n\nSurvival isn’t mandatory. The question is: Are you keeping pace with reality, or are you betting your future on outdated playbooks?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-16-the-market-isn-t-slowing-down-for-anyone\\index.md",
@@ -1280,7 +1618,7 @@
       "title": "Hiring a Product Owner? Avoid copying job specs from the internet",
       "description": "Learn what makes an effective Product Owner, why generic job specs fall short, and which key responsibilities and skills are essential for true product leadership and success.",
       "date": "2025-04-15T15:30:50+01:00",
-      "weight": 1000.0,
+      "weight": 725.0,
       "slug": "hiring-a-product-owner-avoid-copying-job-specs-from-the-internet",
       "aliases": [
         "/resources/-p1bBjBS0bA"
@@ -1309,11 +1647,21 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:26Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Product Management",
+        "Leadership"
+      ],
+      "tags": [
+        "Product Owner",
+        "Agile Product Management",
+        "Pragmatic Thinking",
+        "Professional Scrum",
+        "Competence"
+      ]
     },
     "BodyContent": "Hiring a Product Owner? Don’t just copy-paste a job spec from the internet. A real PO isn’t just a requirements collector or project manager—they own product success.\n\nHere’s what a strong Product Owner actually does:\n\n- Defines the vision and ensures the team is working on the highest-value items.\n- Collaborates daily with Developers and stakeholders to refine direction.\n- Uses data to make decisions instead of relying on gut instinct or seniority.\n- Says no when necessary, even when it’s unpopular.\n- Orders the backlog strategically, not reactively.\n\nAnd here’s the hard truth: one person alone cannot do all of this at scale. POs delegate, but they remain accountable. If a PO is just taking orders, someone else is actually running the product—and that’s a problem.\n\nIf your PO is buried in admin work instead of driving outcomes, you don’t have a real PO. You have a backlog secretary.\n\nWhat’s the biggest gap in most Product Owner job descriptions you’ve seen?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-15-hiring-a-product-owner-avoid-copying-job-specs-from-the-internet\\index.md",
@@ -1321,10 +1669,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Building the wrong thing is worse than fixing a bug.",
+      "title": "Building the wrong thing is worse than fixing a bug",
       "description": "Most features don’t deliver value. Short feedback loops and real user input help teams avoid wasted effort by ensuring they build what users actually need.",
       "date": "2025-04-14T15:30:31+01:00",
-      "weight": 1000.0,
+      "weight": 310.0,
       "slug": "building-the-wrong-thing-is-worse-than-fixing-a-bug",
       "aliases": [
         "/resources/HvZvnbC68go"
@@ -1353,11 +1701,27 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:30Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Product Management"
+      ],
+      "tags": [
+        "Customer Focus",
+        "Customer Feedback Loops",
+        "Market Adaptability",
+        "Value Delivery",
+        "Evidence Based Management",
+        "Lean Product Development",
+        "Lean Principles",
+        "Product Validation",
+        "Pragmatic Thinking",
+        "Software Development",
+        "Operational Practices",
+        "Agile Philosophy"
+      ]
     },
     "BodyContent": "Do you know what’s worse than fixing a bug? Building the wrong thing in the first place.\n\nThe data is clear: Only 35% of features actually deliver value. That means 65% of what teams build is waste—work that never should have been done.\n\nThe solution? Shorter feedback loops.\n\nFrequent reviews, real user feedback, and fast iteration cycles keep teams focused on what actually matters instead of churning out features no one needs. If you’re still waiting until “the end” of a sprint to check if something is right, you’re already too late.\n\nShorten your feedback loops, or prepare to waste time and money on work that never delivers value.\n\nWhat’s stopping your team from getting fast, actionable feedback?\n\nData Source: The Chaos Report / Standish Group\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-14-building-the-wrong-thing-is-worse-than-fixing-a-bug\\index.md",
@@ -1368,7 +1732,7 @@
       "title": "A great backlog isn’t just a list of tasks",
       "description": "Learn how an effective backlog guides product strategy, prioritises value, and supports decision-making, rather than serving as a simple list of tasks or ideas.",
       "date": "2025-04-13T15:30:17+01:00",
-      "weight": 1000.0,
+      "weight": 670.0,
       "slug": "a-great-backlog-isn-t-just-a-list-of-tasks",
       "aliases": [
         "/resources/y8KN3uMGjey"
@@ -1397,11 +1761,18 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:31Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Strategy"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Product Management"
+      ],
+      "tags": [
+        "Product Backlog",
+        "Product Strategy",
+        "Agile Product Management"
+      ]
     },
     "BodyContent": "A great backlog isn’t just a list of tasks. It’s a strategic tool for delivering value.\n\nToo many teams treat the backlog as a never-ending to-do list, filling it with requests, features, and ideas without considering their impact. The result? A mountain of work that grows endlessly, losing focus and clarity.\n\nA well-crafted backlog reflects:\n\n- The product’s vision\n- The team’s best guess at unrealised value\n- The strategic trade-offs needed to maximise ROI\n\nIf your backlog doesn’t help you make better decisions, it’s just noise. The question isn’t how much you have in your backlog—it’s how much of it actually matters.\n\nWhat does your backlog say about your product strategy?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-13-a-great-backlog-isn-t-just-a-list-of-tasks\\index.md",
@@ -1412,7 +1783,7 @@
       "title": "Most organisations waste their smartest people",
       "description": "Many organisations stifle talented employees with bureaucracy and top-down control, leading to disengagement, wasted potential, and high turnover among their smartest people.",
       "date": "2025-04-12T15:30:27+01:00",
-      "weight": 1000.0,
+      "weight": 765.0,
       "slug": "most-organisations-waste-their-smartest-people",
       "aliases": [
         "/resources/hXwfpdteI-Q"
@@ -1445,7 +1816,10 @@
       "categories": [
         "Uncategorized"
       ],
-      "tags": []
+      "tags": [
+        "Miscellaneous",
+        "Organisational Culture"
+      ]
     },
     "BodyContent": "Most organisations waste their smartest people. Not because they lack skill—but because their environment makes thinking a liability.\n\n- Decisions are made at the top, leaving those closest to the work powerless.\n- Ideas get stuck in endless loops of sign-offs.\n- Speed is sacrificed for control.\n\nPeople don’t need motivation. They need the ability to act. Yet, in so many companies, talent is squandered in meetings, reports, and waiting for permission that never comes.\n\nThe best employees don’t tolerate this forever. They leave. Or worse—they disengage.\n\nIf your best people aren’t driving change, it’s not because they don’t care. It’s because they’ve learned it doesn’t matter.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-12-most-organisations-waste-their-smartest-people\\index.md",
@@ -1456,7 +1830,7 @@
       "title": "99% of all animal species that ever existed are now extinct",
       "description": "Most animal species have gone extinct due to failure to adapt; similarly, businesses must evolve processes and mindsets to survive in changing markets.",
       "date": "2025-04-11T15:30:00+01:00",
-      "weight": 1000.0,
+      "weight": 730.0,
       "slug": "99-of-all-animal-species-that-ever-existed-are-now-extinct",
       "aliases": [
         "/resources/qMzA_cuW2QF"
@@ -1489,7 +1863,9 @@
       "categories": [
         "Uncategorized"
       ],
-      "tags": []
+      "tags": [
+        "Agile Philosophy"
+      ]
     },
     "BodyContent": "99% of all animal species that have ever existed are extinct.\n\nCompanies are no different.\n\nEvery year, businesses collapse because they failed to adapt. Some had a great product but couldn’t evolve their processes. Others had a strong market position but clung to outdated ways of working.\n\nThe reality is harsh: Your past success won’t protect you from future failure.\n\nIf you’re relying on policies and structures that worked five years ago, you’re already behind. The market won’t wait for you to catch up.\n\nAgility isn’t about labels, frameworks, or rituals. It’s about survival.\n\nAnd survival is optional.\n\nWhat’s the biggest obstacle stopping your company from moving faster?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-11-99-of-all-animal-species-that-ever-existed-are-now-extinct\\index.md",
@@ -1500,7 +1876,7 @@
       "title": "A bloated backlog is not a sign of good product management",
       "description": "A cluttered backlog signals poor product management, causing confusion and lost focus. Keep backlogs lean to highlight priorities and drive valuable, actionable work.",
       "date": "2025-04-10T15:30:07+01:00",
-      "weight": 1000.0,
+      "weight": 650.0,
       "slug": "a-bloated-backlog-is-not-a-sign-of-good-product-management",
       "aliases": [
         "/resources/gcu0w2Xq7sm"
@@ -1533,7 +1909,10 @@
       "categories": [
         "Uncategorized"
       ],
-      "tags": []
+      "tags": [
+        "Product Backlog",
+        "Agile Product Management"
+      ]
     },
     "BodyContent": "A bloated backlog is not a sign of good product management. It’s a sign of indecision.\n\nIf your backlog reads like an archive of every idea that’s ever been considered, you’re setting your team up for failure. The backlog is not a dumping ground for every possibility—it’s a lean inventory of unrealised value.\n\nA cluttered backlog creates noise. It obscures priorities, confuses stakeholders, and forces teams to wade through irrelevance. The best backlogs? They are sharp, clear, and reflect only the next most valuable work.\n\nIf your backlog has more items than your team could complete in a year, it’s time to clean house.\n\nWhat’s stopping you?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-10-a-bloated-backlog-is-not-a-sign-of-good-product-management\\index.md",
@@ -1541,10 +1920,10 @@
   },
   {
     "FrontMatter": {
-      "title": "Hybrid Agile often combines the worst of both traditional and Agile methods.",
+      "title": "Hybrid Agile often combines the worst of both traditional and Agile methods",
       "description": "Mixing Agile with traditional methods often leads to slow, inefficient processes that lack true adaptability, making it harder for organisations to respond to change effectively.",
       "date": "2025-04-09T15:30:02+01:00",
-      "weight": 1000.0,
+      "weight": 540.0,
       "slug": "hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods",
       "aliases": [
         "/resources/mqG4p-beYqb"
@@ -1577,7 +1956,11 @@
       "categories": [
         "Uncategorized"
       ],
-      "tags": []
+      "tags": [
+        "Hybrid Agile",
+        "Agile Values and Principles",
+        "Agile Philosophy"
+      ]
     },
     "BodyContent": "I still hear leaders talk about \"hybrid Agile\" like it’s the best of both worlds. Let’s be real—it’s usually the worst of both.\n\nYou can’t bolt Agile practices onto a rigid, process-heavy system and expect to move faster. That’s like trying to upgrade an old flip phone with a touchscreen—it just doesn’t work. What you get is a Frankenstein process: too slow to be Agile, too chaotic to be controlled.\n\nThe goal isn’t to “be Agile.” It’s to outmaneuver your competitors. If your system isn’t designed for rapid adaptation, you’re already losing.\n\nThe question isn’t whether you should change. It’s whether you’ll change before it’s too late.\n\nAre you genuinely set up to pivot and seize opportunities, or are you clinging to old ways under a new name?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-09-hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods\\index.md",
@@ -1585,10 +1968,10 @@
   },
   {
     "FrontMatter": {
-      "title": "A great Product Owner drives product strategy, not just manages the backlog.",
+      "title": "A great Product Owner drives product strategy, not just manages the backlog",
       "description": "Explains how effective Product Owners shape product strategy using accountability, awareness, acceptance, access, and adaptability, not just backlog management.",
       "date": "2025-04-08T15:30:02+01:00",
-      "weight": 1000.0,
+      "weight": 695.0,
       "slug": "a-great-product-owner-drives-product-strategy-not-just-manages-the-backlog",
       "aliases": [
         "/resources/FiPINXQNDQu"
@@ -1617,11 +2000,22 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:38Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Strategy"
       ],
-      "tags": []
+      "categories": [
+        "Product Management",
+        "Product Development",
+        "Leadership"
+      ],
+      "tags": [
+        "Product Owner",
+        "Product Strategy",
+        "Agile Product Management",
+        "Pragmatic Thinking",
+        "Agile Strategy",
+        "Professional Scrum"
+      ]
     },
     "BodyContent": "A great Product Owner doesn’t just manage a backlog—they drive the entire product strategy. If you’re looking for a simple litmus test for what makes a strong PO, Jim Sammons’ Five A’s of Product Ownership is a great framework:\n\n1. Accountability – Owning the product vision and backlog, not just maintaining it.\n2. Awareness – Understanding customers, the market, and business priorities.\n3. Acceptance – Making hard decisions and knowing when to pivot.\n4. Access – Engaging with stakeholders and ensuring alignment.\n5. Adaptability – Constantly inspecting and adapting based on evidence.\n\nToo often, companies focus on tactical backlog refinement instead of strategic product management. The best POs influence at every level—shaping roadmaps, driving experimentation, and ensuring the product delivers real value.\n\nIf your Product Owner isn’t empowered to make meaningful decisions, they aren’t really a Product Owner. They’re just an administrator.\n\nWhich of these \"A’s\" do you think is the hardest for most POs to master?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-08-a-great-product-owner-drives-product-strategy-not-just-manages-the-backlog\\index.md",
@@ -1629,10 +2023,10 @@
   },
   {
     "FrontMatter": {
-      "title": "We don’t have time for automation—but manual testing slows releases and quality.",
+      "title": "We don’t have time for automation—but manual testing slows releases and quality",
       "description": "Manual testing limits release speed and quality, while automation enables faster, more reliable software delivery by reducing regressions and tester workload.",
       "date": "2025-04-07T15:30:01+01:00",
-      "weight": 1000.0,
+      "weight": 310.0,
       "slug": "we-don-t-have-time-for-automation-but-manual-testing-slows-releases-and-quality",
       "aliases": [
         "/resources/f6S9lWfTQaQ"
@@ -1661,11 +2055,22 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:39Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence"
+      ],
+      "tags": [
+        "Software Development",
+        "Automated Testing",
+        "Test Automation",
+        "Technical Mastery",
+        "Product Delivery",
+        "Team Performance",
+        "Operational Practices",
+        "Frequent Releases"
+      ]
     },
     "BodyContent": "Every time I hear, “We don’t have time for automation,” I know exactly what’s coming next.\n\n- Regressions slowing down releases\n- Testers overwhelmed with manual work\n- Bugs slipping through because “there wasn’t time” to retest everything\n- A release cycle that feels like a game of Russian roulette\n\nManual testing is not scalable. If you’re serious about agility, you need automation. Otherwise, your “fast-moving” team is only as fast as the slowest manual test run.\n\nAutomated tests are the only way to keep up with change while ensuring quality. No more excuses.\n\nWhat’s holding your team back from full automation?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-07-we-don-t-have-time-for-automation-but-manual-testing-slows-releases-and-quality\\index.md",
@@ -1676,7 +2081,7 @@
       "title": "Scrum Teams don’t set the bar for quality—they meet it",
       "description": "Scrum Teams uphold, not lower, quality by strictly following and evolving the Definition of Done, ensuring predictable releases and reducing technical debt and risk.",
       "date": "2025-04-06T15:30:00+01:00",
-      "weight": 1000.0,
+      "weight": 130.0,
       "slug": "scrum-teams-don-t-set-the-bar-for-quality-they-meet-it",
       "aliases": [
         "/resources/5lIasyqT9Rm"
@@ -1705,11 +2110,25 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:40Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Artifact"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Engineering Excellence",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Definition of Done",
+        "Professional Scrum",
+        "Software Development",
+        "Product Delivery",
+        "Continuous Improvement",
+        "Agile Frameworks",
+        "Pragmatic Thinking",
+        "Technical Mastery",
+        "Operational Practices"
+      ]
     },
     "BodyContent": "Scrum Teams don’t set the bar for quality—they meet it. The Definition of Done (DoD) isn’t a wishlist or a stretch goal. It’s a hard line that determines what is releasable. And if your DoD isn’t improving Sprint over Sprint, you’re accumulating risk and technical debt.\n\nToo many teams treat DoD as negotiable. It’s not. It’s governance. It ensures predictability, manages risk, and protects revenue. A weak or fluctuating DoD means your organisation has no real control over quality.\n\nIf someone suggests lowering the DoD to \"deliver more features,\" ask them to get it in writing from the financial director—because that’s not a technical decision, it’s a financial and risk decision.\n\nYour Definition of Done should never be static, but always evolving to maximise the quality. Anything less is dysfunction.\n\nHow often is your team strengthening its DoD?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-06-scrum-teams-don-t-set-the-bar-for-quality-they-meet-it\\index.md",
@@ -1717,10 +2136,10 @@
   },
   {
     "FrontMatter": {
-      "title": "If every release feels high-risk, you lack a true Definition of Done.",
+      "title": "If every release feels high-risk, you lack a true Definition of Done",
       "description": "Releases feel risky when teams lack a clear Definition of Done. Learn how a strong DoD ensures stress-free, reliable software delivery with built-in quality and security.",
       "date": "2025-04-05T15:30:00+01:00",
-      "weight": 1000.0,
+      "weight": 260.0,
       "slug": "if-every-release-feels-high-risk-you-lack-a-true-definition-of-done",
       "aliases": [
         "/resources/iEdzblomyOb"
@@ -1749,11 +2168,23 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:42Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Engineering Excellence",
+        "DevOps"
+      ],
+      "tags": [
+        "Value Delivery",
+        "Software Development",
+        "Increment",
+        "Product Delivery",
+        "Professional Scrum",
+        "Operational Practices",
+        "Definition of Done"
+      ]
     },
     "BodyContent": "If every release feels like a high-risk operation, you don’t have a Definition of Done—you have a definition of “we hope this works.”\n\nReleasing software shouldn’t require a war room, late-night deployments, or a last-minute QA scramble. A strong DoD means every increment is ready for production the moment it’s complete, with security, compliance, and quality baked in.\n\nThe best teams treat releases as routine. No surprises. No drama. Just continuous flow.\n\nHow often does your team deliver without stress?\n\n[the article is linked in the comments]\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-05-if-every-release-feels-high-risk-you-lack-a-true-definition-of-done\\index.md",
@@ -1761,10 +2192,10 @@
   },
   {
     "FrontMatter": {
-      "title": "A changing Definition of Done undermines quality and predictability in teams.",
+      "title": "A changing Definition of Done undermines quality and predictability in teams",
       "description": "Frequent changes to the Definition of Done reduce team quality and predictability. Consistent, enforced standards are key to reliable delivery and continuous improvement.",
       "date": "2025-04-04T15:30:02+01:00",
-      "weight": 1000.0,
+      "weight": 255.0,
       "slug": "a-changing-definition-of-done-undermines-quality-and-predictability-in-teams",
       "aliases": [
         "/resources/lPs2C5FQ5cR"
@@ -1793,11 +2224,22 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:43Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence",
+        "Product Development",
+        "Scrum"
+      ],
+      "tags": [
+        "Team Performance",
+        "Professional Scrum",
+        "Definition of Done",
+        "Operational Practices",
+        "Software Development",
+        "Continuous Improvement"
+      ]
     },
     "BodyContent": "Imagine trying to run a factory job where the definition of a “finished product” changes every week. Forecasting production? Impossible. Measuring quality? Good luck.\n\nYet many teams change their Definition of Done so frequently that it becomes meaningless. This isn’t agility—it’s dysfunction.\n\nThe DoD can evolve, but only in the direction of increasing quality. Otherwise, you’re not iterating—you’re shifting goalposts and hoping no one notices.\n\nIf your teams struggle with predictability, start by making your DoD consistent and enforced. Agility doesn’t mean abandoning standards. It means continuously improving them.\n\nDoes your team’s Definition of Done stay consistent over time?\n\n[the article is linked in the comments]\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-04-a-changing-definition-of-done-undermines-quality-and-predictability-in-teams\\index.md",
@@ -1808,7 +2250,7 @@
       "title": "Scrum Teams don’t set the bar for quality—they meet it",
       "description": "Explains why Scrum Teams must consistently meet, not lower, the Definition of Done to ensure software quality, manage risk, and prevent technical debt in agile projects.",
       "date": "2025-04-03T15:30:01+01:00",
-      "weight": 1000.0,
+      "weight": 190.0,
       "slug": "scrum-teams-don-t-set-the-bar-for-quality-they-meet-it",
       "aliases": [
         "/resources/2xFmiKptikb"
@@ -1837,11 +2279,25 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:44Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Artifact"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Definition of Done",
+        "Software Development",
+        "Professional Scrum",
+        "Operational Practices",
+        "Product Delivery",
+        "Competence",
+        "Scrum Team",
+        "Technical Mastery",
+        "Agile Frameworks"
+      ]
     },
     "BodyContent": "Scrum Teams don’t set the bar for quality—they meet it. The Definition of Done (DoD) isn’t a wishlist or a stretch goal. It’s a hard line that determines what is releasable. And if your DoD isn’t improving Sprint over Sprint, you’re accumulating risk and technical debt.\n\nToo many teams treat DoD as negotiable. It’s not. It’s governance. It ensures predictability, manages risk, and protects revenue. A weak or fluctuating DoD means your organisation has no real control over quality.\n\nIf someone suggests lowering the DoD to \"deliver more features,\" ask them to get it in writing from the financial director—because that’s not a technical decision, it’s a financial and risk decision.\n\nYour Definition of Done should never shrink, only grow. Anything less is dysfunction.\n\nHow often is your team strengthening its DoD?\n\n[the article is linked in the comments]\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-03-scrum-teams-don-t-set-the-bar-for-quality-they-meet-it\\index.md",
@@ -1849,10 +2305,10 @@
   },
   {
     "FrontMatter": {
-      "title": "If teams struggle with quality or delivery, the problem is often the system.",
+      "title": "If teams struggle with quality or delivery, the problem is often the system",
       "description": "Team issues with quality or delivery often stem from weak systems, lacking clear standards, automation, and leadership support—not just team performance.",
       "date": "2025-04-02T15:30:05+01:00",
-      "weight": 1000.0,
+      "weight": 190.0,
       "slug": "if-teams-struggle-with-quality-or-delivery-the-problem-is-often-the-system",
       "aliases": [
         "/resources/cXJnv3y4sb7"
@@ -1883,9 +2339,16 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Engineering Excellence",
+        "Leadership",
+        "Technical Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Operational Practices",
+        "Software Development",
+        "Organisational Culture",
+        "Definition of Done"
+      ]
     },
     "BodyContent": "If teams are struggling with quality, technical debt, or inconsistent delivery, the issue isn’t just the team—it’s the system they’re operating in.\n\nA strong Definition of Done isn’t something teams “figure out.” It requires engineering standards, automation, and organisational commitment. If leadership isn’t providing that foundation, don’t be surprised when teams cut corners under pressure.\n\nQuality isn’t a grassroots effort—it’s a strategic priority.\n\nDoes your leadership support teams with a strong DoD, or just demand results?\n\n[the article is linked in the comments]\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-02-if-teams-struggle-with-quality-or-delivery-the-problem-is-often-the-system\\index.md",
@@ -1896,7 +2359,7 @@
       "title": "Why compromising on software quality is a leadership decision",
       "description": "Compromising software quality is a leadership choice, not a team one. Lowering standards carries business risks that should be openly addressed by decision-makers.",
       "date": "2025-04-01T15:30:02+01:00",
-      "weight": 1000.0,
+      "weight": 275.0,
       "slug": "why-compromising-on-software-quality-is-a-leadership-decision",
       "aliases": [
         "/resources/3YDTlhSlU4A"
@@ -1927,9 +2390,14 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Leadership",
+        "Scrum"
       ],
-      "tags": []
+      "tags": [
+        "Professional Scrum",
+        "Software Development",
+        "Agile Leadership"
+      ]
     },
     "BodyContent": "Would your CFO sign off on a financial report that was “mostly accurate”? Would your legal team approve a contract that “should be enforceable”? No?\n\nThen why do organisations think it’s acceptable to compromise on software quality?\n\nA strong Definition of Done prevents cutting corners. It ensures every increment meets the same professional standard. Reducing quality to meet deadlines is a financial decision, not a team decision. If leadership wants to change the quality bar, they should sign off on the risks—not sneak it past teams under the banner of “Agile.”\n\nScrum teams don’t get to lower quality. And if your teams are being asked to, the real conversation should be happening in the boardroom.\n\nHas your leadership ever knowingly shipped bad software?\n\n[the article is linked in the comments]\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-04-01-why-compromising-on-software-quality-is-a-leadership-decision\\index.md",
@@ -1940,7 +2408,7 @@
       "title": "Executives want predictability",
       "description": "Lack of a clear, enforced Definition of Done leads to hidden risks, unreliable forecasts, and eroded trust in delivery, undermining predictability and organisational confidence.",
       "date": "2025-03-31T15:30:08+01:00",
-      "weight": 1000.0,
+      "weight": 235.0,
       "slug": "executives-want-predictability",
       "aliases": [
         "/resources/sJJYz51QG0O"
@@ -1969,11 +2437,28 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:47Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Engineering Excellence"
+      ],
+      "tags": [
+        "Definition of Done",
+        "Operational Practices",
+        "Increment",
+        "Competence",
+        "Product Delivery",
+        "Engineering Practices",
+        "Software Development",
+        "Technical Mastery",
+        "Team Performance",
+        "Professional Scrum",
+        "Pragmatic Thinking",
+        "Value Delivery"
+      ]
     },
     "BodyContent": "Executives want predictability. Stakeholders want transparency. Investors want confidence. But if your organisation treats “Done” as a moving target, all you’re really delivering is a well-packaged lie.\n\nEvery time a team marks work as “done” without a concrete, enforced Definition of Done, they’re not shipping value—they’re accumulating hidden risk. Incomplete testing, unverified security, missing automation—all pushed downstream until the cost explodes at the worst possible moment. And then leadership wonders why deadlines slip, costs balloon, and customers get frustrated.\n\nIf your DoD is vague, subjective, or varies sprint to sprint, your forecasts are fiction. You’re not managing an Agile organisation. You’re running a hope-based delivery model where quality is optional, and failure is inevitable.\n\nDone must be non-negotiable. A working increment must meet an objective, enforceable standard—automated testing, security, compliance, performance, deployment readiness. Anything less isn’t agility. It’s professional negligence.\n\nStop reporting progress on half-baked work. If Done isn’t real, neither are your commitments.\n\nDoes your organisation truly know when something is Done?\n\n[the article is linked in the comments]\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-31-executives-want-predictability\\index.md",
@@ -1981,17 +2466,6 @@
   },
   {
     "FrontMatter": {
-      "title": "Scrum is a social technology designed to expose team dysfunction.",
-      "description": "Explains how Scrum reveals team dysfunctions by clarifying roles and accountability, highlighting its purpose to expose issues that hinder value delivery and improvement.",
-      "date": "2025-03-29T16:30:02+00:00",
-      "weight": 1000.0,
-      "slug": "scrum-is-a-social-technology-designed-to-expose-team-dysfunction",
-      "aliases": [
-        "/resources/CNqQyGHkbF3"
-      ],
-      "ResourceId": "CNqQyGHkbF3",
-      "ResourceImport": false,
-      "ResourceType": "signals",
       "ResourceContentOrigin": "human",
       "draft": true,
       "source": "LinkedIn",
@@ -2013,11 +2487,37 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:49Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "description": "Explains how Scrum reveals team dysfunctions by clarifying roles and accountability, highlighting its purpose to expose issues that hinder value delivery and improvement.",
+      "date": "2025-03-29T16:30:02+00:00",
+      "weight": 420.0,
+      "slug": "scrum-is-a-social-technology-designed-to-expose-team-dysfunction",
+      "aliases": [
+        "/resources/CNqQyGHkbF3"
       ],
-      "tags": []
+      "ResourceId": "CNqQyGHkbF3",
+      "ResourceImport": false,
+      "ResourceType": "signals",
+      "concepts": [
+        "Accountability"
+      ],
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Social Technologies",
+        "Professional Scrum",
+        "Value Delivery",
+        "Agile Frameworks",
+        "Software Development",
+        "Team Performance",
+        "Transparency",
+        "Empirical Process Control",
+        "Organisational Agility",
+        "Scrum Master",
+        "Scrum Team"
+      ]
     },
     "BodyContent": "Scrum isn’t a process—it’s a social technology designed to expose dysfunction.\n\n- The Scrum Master ensures Scrum is applied effectively.\n- The Product Owner maximises value.\n- The Developers deliver a Done Increment every Sprint.\n\nIf any of these accountabilities break down, Scrum falls apart.\n\nA Scrum Master who doesn’t challenge poor practices isn’t \"servant-leading\"—they’re letting teams fail slowly.\n\nA Product Owner who treats the backlog like a list of requirements isn’t \"managing scope\"—they’re avoiding accountability for value.\n\nDevelopers that hide behind technical debt aren’t \"moving fast\"—they are digging a hole they’ll have to climb out of later.\n\nScrum is not about best practices. It’s about exposing the uncomfortable realities that stop teams from delivering value.\n\nAre we using Scrum to inspect and adapt, or are we just following the motions?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-29-scrum-is-a-social-technology-designed-to-expose-team-dysfunction\\index.md",
@@ -2028,7 +2528,7 @@
       "title": "Why Scrum Masters Need Technical Expertise to Guide Teams",
       "description": "Scrum Masters need technical expertise to effectively support teams, understand best practices, and bridge gaps between process and real-world technical challenges.",
       "date": "2025-03-28T16:30:04+00:00",
-      "weight": 1000.0,
+      "weight": 235.0,
       "slug": "why-scrum-masters-need-technical-expertise-to-guide-teams",
       "aliases": [
         "/resources/_0eaUkX1o1q"
@@ -2059,9 +2559,15 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Scrum",
+        "Technical Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Product Delivery",
+        "Pragmatic Thinking",
+        "Software Development",
+        "Operational Practices"
+      ]
     },
     "BodyContent": "Would you trust a coach who doesn’t understand your sport?\n\nThen why do we think a Scrum Master can be effective without understanding the technical work of their team?\n\nTechnical mastery doesn’t mean Scrum Masters need to be coders, but they do have to have worked as developers. But it does mean they need to understand what “good” looks like.\n\nFor software teams, that means knowing:\n\n- TDD and CI/CD\n- Infrastructure as Code\n- DevOps and cloud principles\n\nFor finance teams, it means understanding:\n\n- Regulatory constraints\n- Risk modelling\n- Financial product design\n\nScrum Masters don’t do the work, but they need technical expertise in the work to help teams get better.\n\nWhere do we draw the line between enabling and doing?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-28-why-scrum-masters-need-technical-expertise-to-guide-teams\\index.md",
@@ -2072,7 +2578,7 @@
       "title": "Why Most Companies Fail at Adopting Agility Beyond IT",
       "description": "Most companies struggle with agility due to rigid structures, outdated processes, and cultural barriers, not technical issues. True agility requires organisational change.",
       "date": "2025-03-27T16:30:04+00:00",
-      "weight": 1000.0,
+      "weight": 710.0,
       "slug": "why-most-companies-fail-at-adopting-agility-beyond-it",
       "aliases": [
         "/resources/xdKHhjboUgT"
@@ -2103,9 +2609,25 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Product Development"
       ],
-      "tags": []
+      "tags": [
+        "Agile Philosophy",
+        "Organisational Change",
+        "Agile Strategy",
+        "Organisational Agility",
+        "Organisational Culture",
+        "Pragmatic Thinking",
+        "Social Technologies",
+        "Change Management",
+        "Enterprise Agility",
+        "Large Scale Agility",
+        "Market Adaptability",
+        "Scrum Master",
+        "Agile Transformation",
+        "Business Agility",
+        "Sociotechnical Systems"
+      ]
     },
     "BodyContent": "Most companies trying to \"adopt agility\" fail because they think it’s an IT problem.\n\nIt’s not.\n\nThe biggest impediments to agility are organisational, not technical:\n\n- Hierarchical structures that kill autonomy.\n- Annual budgeting cycles that resist adaptability.\n- Performance reviews that reward individual output over team outcomes.\n\nScrum Masters must understand organisational transformation. They need to navigate politics, drive change, and push leadership to remove systemic blockers—not just “protect the team” from the dysfunction.\n\nAgility doesn’t start with Daylies and retrospectives. It starts with how an organisation funds, measures, and enables work.\n\nWhat’s the biggest non-technical barrier to agility you’ve seen?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-27-why-most-companies-fail-at-adopting-agility-beyond-it\\index.md",
@@ -2116,7 +2638,7 @@
       "title": "Empowering Product Owners as Strategic Leaders in Scrum Teams",
       "description": "Explores how Product Owners can drive strategy, maximise value, and lead Scrum teams effectively, highlighting the need for empowerment beyond basic backlog management.",
       "date": "2025-03-26T16:30:33+00:00",
-      "weight": 1000.0,
+      "weight": 445.0,
       "slug": "empowering-product-owners-as-strategic-leaders-in-scrum-teams",
       "aliases": [
         "/resources/xKiwFed7LSB"
@@ -2145,11 +2667,27 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:52Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Strategy"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Product Management"
+      ],
+      "tags": [
+        "Agile Product Management",
+        "Product Strategy",
+        "Product Owner",
+        "Software Development",
+        "Value Delivery",
+        "Professional Scrum",
+        "Organisational Agility",
+        "Social Technologies",
+        "Agile Leadership",
+        "Agile Frameworks",
+        "Agile Strategy"
+      ]
     },
     "BodyContent": "The Product Owner is not a backlog manager.\n\nA great Product Owner is a product strategist, a market expert, and a value maximiser. They don’t just prioritise features—they ensure the team is building the right product in the right way to deliver real business impact.\n\nYet, many organisations treat the Product Owner role as a glorified business analyst.\n\nA strong Scrum Master doesn’t just facilitate Scrum events; they teach, coach, and mentor the Product Owner to operate like a modern product leader. That includes leveraging customer insights, articulating a strategic vision, and making data-driven decisions.\n\nIf the Product Owner is weak, the whole Scrum Team suffers.\n\nAre we empowering Product Owners to lead, or are we just giving them Jira access and hoping for the best?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-26-empowering-product-owners-as-strategic-leaders-in-scrum-teams\\index.md",
@@ -2160,7 +2698,7 @@
       "title": "The True Role of a Scrum Master Beyond Facilitation",
       "description": "Explains how a Scrum Master drives team improvement, removes obstacles, and leads organisational change, going far beyond basic facilitation or meeting management.",
       "date": "2025-03-25T16:30:02+00:00",
-      "weight": 1000.0,
+      "weight": 365.0,
       "slug": "the-true-role-of-a-scrum-master-beyond-facilitation",
       "aliases": [
         "/resources/ZqDRLw5mPc-"
@@ -2189,11 +2727,29 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:54Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Technical Leadership",
+        "Product Development"
+      ],
+      "tags": [
+        "Software Development",
+        "Scrum Master",
+        "Professional Scrum",
+        "Social Technologies",
+        "Product Delivery",
+        "Operational Practices",
+        "Agile Leadership",
+        "Team Performance",
+        "Agentic Agility",
+        "Agile Frameworks",
+        "Organisational Agility",
+        "Pragmatic Thinking",
+        "Coaching"
+      ]
     },
     "BodyContent": "If you think a Scrum Master is just a facilitator, you’re missing the point.\n\nA Scrum Master is accountable for enabling outcomes, not just running meetings. That means teaching, coaching, and challenging teams to work better. It means removing systemic impediments, shaping organisational change, and ensuring Scrum is applied effectively.\n\nIf all a Scrum Master does is schedule events and take notes, they’re a glorified admin—not a change agent.\n\nScrum isn’t a process to enforce; it’s a social technology for delivering value. And Scrum Masters who treat it as a set of rituals instead of a means for improving how teams work are failing their teams.\n\nWhat’s the most valuable thing a Scrum Master can do in a day? Hint: It’s not writing meeting minutes.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-25-the-true-role-of-a-scrum-master-beyond-facilitation\\index.md",
@@ -2204,7 +2760,7 @@
       "title": "Too many Scrum Masters believe they don’t need technical skills",
       "description": "Highlights the importance of technical knowledge for Scrum Masters, arguing that understanding team-specific skills is essential to effectively support and enable their teams.",
       "date": "2025-03-24T16:30:03+00:00",
-      "weight": 1000.0,
+      "weight": 335.0,
       "slug": "too-many-scrum-masters-believe-they-don-t-need-technical-skills",
       "aliases": [
         "/resources/q_OupO_abR_"
@@ -2235,9 +2791,15 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Scrum",
+        "Product Development",
+        "Technical Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Competence",
+        "Professional Scrum",
+        "Software Development"
+      ]
     },
     "BodyContent": "Too many Scrum Masters believe they don’t need technical skills. The Scrum Guide doesn’t explicitly say they do—but let’s be real.\n\nIf a Scrum Team is building software, a Scrum Master who doesn’t understand Test-Driven Development, Continuous Delivery, and DevOps is out of their depth. If the team is in finance, the Scrum Master should grasp financial modelling and compliance. If it’s an industrial design team, they should understand prototyping and material constraints.\n\nScrum Masters don’t do the work, but they enable the work. And how can you enable what you don’t understand?\n\nBeing a great Scrum Master isn’t about certification. It’s about mastery—of the technical, business, and organisational realities your team faces.\n\nAre we setting Scrum Masters up for success, or are we pushing them into roles where they lack the mastery to make a real impact?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-24-too-many-scrum-masters-believe-they-don-t-need-technical-skills\\index.md",
@@ -2248,7 +2810,7 @@
       "title": "Great Scrum Masters and Product Owners don’t micromanage",
       "description": "Effective Scrum Masters and Product Owners empower teams with clear goals and autonomy, balancing structure and flexibility to promote accountability and true agility.",
       "date": "2025-03-23T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 390.0,
       "slug": "great-scrum-masters-and-product-owners-don-t-micromanage",
       "aliases": [
         "/resources/8W3oqNsNnMS"
@@ -2277,11 +2839,26 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:56Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Leadership",
+        "Scrum",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Self Organisation",
+        "Agile Leadership",
+        "Organisational Agility",
+        "Team Motivation",
+        "Pragmatic Thinking",
+        "Organisational Culture",
+        "Professional Scrum",
+        "Social Technologies",
+        "Agile Product Management",
+        "Software Development"
+      ]
     },
     "BodyContent": "Great Scrum Masters and Product Owners don’t micromanage. They provide clarity, foster initiative, and hold teams accountable.\n\nThe best teams understand the vision, have the autonomy to execute, and own their results. But autonomy doesn’t mean working in a vacuum. It exists within a structured system—Scrum events, commitments, and organisational needs define the playing field.\n\nLeadership isn’t about control for control’s sake. It’s about removing obstacles, enabling success, and stepping in when necessary.\n\nTrue agility comes from balancing autonomy with alignment. If you let teams drift without structure, chaos follows. If you enforce rigid rules, you kill adaptability.\n\nHow do you strike that balance in your organisation?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-23-great-scrum-masters-and-product-owners-don-t-micromanage\\index.md",
@@ -2292,7 +2869,7 @@
       "title": "Overcoming Project Blockers and Challenging Organisational Inertia",
       "description": "Explores how lack of authority hinders teams from removing project blockers and overcoming organisational inertia, stressing the need for real autonomy to achieve results.",
       "date": "2025-03-22T16:30:03+00:00",
-      "weight": 1000.0,
+      "weight": 420.0,
       "slug": "overcoming-project-blockers-and-challenging-organisational-inertia",
       "aliases": [
         "/resources/aXo_GayoCuE"
@@ -2323,9 +2900,26 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Scrum",
+        "Technical Leadership",
+        "Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Organisational Culture",
+        "Pragmatic Thinking",
+        "Organisational Agility",
+        "Team Performance",
+        "Team Motivation",
+        "Agile Product Management",
+        "Agentic Agility",
+        "Self Organisation",
+        "Project Management",
+        "Agile Leadership",
+        "Team Collaboration",
+        "Social Technologies",
+        "Sociotechnical Systems",
+        "Employee Engagement"
+      ]
     },
     "BodyContent": "Imagine you’re responsible for delivering a critical project, but every time you try to remove a blocker, someone tells you it’s “not your call.” Every time you challenge a dysfunction, you’re met with, “We’ve always done it this way.”\n\nNow imagine being held accountable for the failure.\n\nThis is what happens when teams are given responsibility without control. Scrum Masters and Product Owners are expected to drive results, but if they lack the authority to remove impediments, challenge dysfunction, and enforce alignment when necessary, their hands are tied.\n\nAutonomy is crucial, but it must come with the ability to influence the system. Alignment doesn’t mean top-down control; it means ensuring the team has what it needs to succeed without unnecessary interference.\n\nIf you expect people to own outcomes, they must have the authority to shape the environment that impacts those outcomes. Anything less is just setting them up to fail.\n\nHow does your organisation balance autonomy and control?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-22-overcoming-project-blockers-and-challenging-organisational-inertia\\index.md",
@@ -2336,7 +2930,7 @@
       "title": "“Teams are self-managing",
       "description": "Explains how self-managing teams in Scrum need structure and leadership, clarifying the Scrum Master's role in maintaining clarity, alignment, and effective self-management.",
       "date": "2025-03-21T16:30:04+00:00",
-      "weight": 1000.0,
+      "weight": 395.0,
       "slug": "teams-are-self-managing",
       "aliases": [
         "/resources/8EauPhROdZq"
@@ -2365,11 +2959,28 @@
       "Watermarks": {
         "description": "2025-05-16T15:55:59Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Leadership",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Pragmatic Thinking",
+        "Professional Scrum",
+        "Scrum Master",
+        "Self Organisation",
+        "Software Development",
+        "Team Performance",
+        "Team Collaboration",
+        "Agile Frameworks",
+        "Agile Leadership",
+        "Social Technologies",
+        "Operational Practices",
+        "Scrum Team"
+      ]
     },
     "BodyContent": "“Teams are self-managing. We don’t need a Scrum Master telling us what to do.”\n\nThat’s a common misconception. Yes, Scrum is designed for self-managing teams, but self-management is not the absence of structure.\n\nAutonomy exists within constraints—Scrum events, commitments, and organisational needs define the playing field. Without that, self-management turns into chaos.\n\nScrum Masters aren’t there to micromanage. They ensure the team has clarity, alignment, and accountability. They protect Scrum, not by controlling every decision, but by maintaining the conditions for teams to thrive.\n\nIf a team is failing to deliver, struggling with impediments, or ignoring Scrum principles, a Scrum Master doesn’t just “facilitate” and hope things improve. They step in and fix what’s broken.\n\nSelf-management works best when balanced with strong leadership.\n\nWhere do you draw the line between autonomy and intervention?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-21-teams-are-self-managing\\index.md",
@@ -2380,7 +2991,7 @@
       "title": "Scrum Masters: Why Influence Alone May Not Be Enough",
       "description": "Explores why Scrum Masters need authority, not just influence, to enforce Agile practices, remove blockers, and ensure teams follow Scrum for true organisational agility.",
       "date": "2025-03-20T16:30:02+00:00",
-      "weight": 1000.0,
+      "weight": 475.0,
       "slug": "scrum-masters-why-influence-alone-may-not-be-enough",
       "aliases": [
         "/resources/7-5f5u_oMbc"
@@ -2409,11 +3020,22 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:00Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Leadership"
+      ],
+      "tags": [
+        "Software Development",
+        "Professional Scrum",
+        "Pragmatic Thinking",
+        "Organisational Culture",
+        "Agile Frameworks",
+        "Agile Transformation",
+        "Scrum Master"
+      ]
     },
     "BodyContent": "The idea that Scrum Masters should lead only through influence sounds noble—but in many organisations, it’s also naive.\n\nInfluence works when teams and leadership are already aligned. But what happens when they’re not? When teams reject Agile principles, leadership prioritises control over agility, or dysfunction is deeply embedded?\n\nAt some point, persuasion isn’t enough. A Scrum Master must be able to remove blockers, challenge bad practices, and uphold Scrum—not just suggest improvements and hope for the best.\n\nIf your Scrum Master has no authority to enforce the framework, to say “No, we don’t work like that,” or to hold teams accountable, what’s the point?\n\nScrum isn’t about soft influence. It’s about creating real, sustainable agility. That requires leadership backed by action, not just good intentions.\n\nWhere does your organisation stand on this?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-20-scrum-masters-why-influence-alone-may-not-be-enough\\index.md",
@@ -2424,7 +3046,7 @@
       "title": "No one questions a Product Owner authority",
       "description": "Explores why Product Owners’ authority is accepted while Scrum Masters’ is questioned, highlighting the need for clear authority to ensure team effectiveness and agile success.",
       "date": "2025-03-19T16:30:30+00:00",
-      "weight": 1000.0,
+      "weight": 420.0,
       "slug": "no-one-questions-a-product-owner-authority",
       "aliases": [
         "/resources/T6lSCdR9SCa"
@@ -2453,11 +3075,22 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:02Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Leadership"
+      ],
+      "tags": [
+        "Scrum Master",
+        "Pragmatic Thinking",
+        "Professional Scrum",
+        "Organisational Culture",
+        "Agile Frameworks",
+        "Agile Leadership",
+        "Team Performance"
+      ]
     },
     "BodyContent": "No one questions a Product Owner’s authority. They decide priorities, manage stakeholders, and ensure the team works on the most valuable outcomes. Their ability to make tough calls is what drives product success.\n\nBut when we talk about the Scrum Master’s authority, the conversation changes. Why?\n\nScrum Masters are accountable for team effectiveness. That means upholding Scrum, causing the removal of impediments, and challenging dysfunction, or just taking action. Yet too often, they are expected to do this purely through persuasion.\n\nInfluence matters, but it’s not always enough. Sometimes, a Scrum Master needs to say \"No, this isn't how we work\" or \"This is blocking our ability to deliver value\"—and have the authority to act on it.\n\nIf we accept that a Product Owner must have authority to fulfil their accountability, why do we question it for Scrum Masters?\n\nLet’s stop treating Scrum Masters as passive facilitators. Their role is just as critical in ensuring agility.\n\nDoes your organisation recognise this?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-19-no-one-questions-a-product-owner-authority\\index.md",
@@ -2468,7 +3101,7 @@
       "title": "Why Teams Claim Self-Management to Avoid Alignment Discussions",
       "description": "Explores how teams misuse self-management to dodge alignment, clarifying that true autonomy requires accountability, shared goals, and adherence to frameworks like Scrum.",
       "date": "2025-03-18T16:30:34+00:00",
-      "weight": 1000.0,
+      "weight": 425.0,
       "slug": "why-teams-claim-self-management-to-avoid-alignment-discussions",
       "aliases": [
         "/resources/UUh2trdq4D1"
@@ -2497,11 +3130,26 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:04Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Pragmatic Thinking",
+        "Social Technologies",
+        "Software Development",
+        "Professional Scrum",
+        "Organisational Agility",
+        "Organisational Culture",
+        "Scrum Team",
+        "Agile Leadership",
+        "Common Goals",
+        "Self Organisation"
+      ]
     },
     "BodyContent": "Some teams love to wave the \"we’re self-managing\" flag whenever alignment is discussed. But let’s be real—autonomy doesn’t mean doing whatever you want, whenever you want. It means taking ownership within a shared framework.\n\nScrum provides a system where teams have the freedom to decide how they deliver, but that doesn’t mean they can ignore Scrum events, commitments, or organisational goals. The Product Owner ensures alignment to business value. The Scrum Master ensures alignment to agility. The team ensures alignment to delivery.\n\nAutonomy without alignment isn’t self-management—it’s dysfunction. True self-management is earned through trust, consistency, and accountability.\n\nSo the question is: Is your team truly self-managing, or just avoiding accountability under the guise of autonomy?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-18-why-teams-claim-self-management-to-avoid-alignment-discussions\\index.md",
@@ -2512,7 +3160,7 @@
       "title": "Everyone loves the idea of self-managing teams",
       "description": "Explains how self-managing teams thrive with autonomy balanced by structure, highlighting the need for clear goals, accountability, and alignment within frameworks like Scrum.",
       "date": "2025-03-18T09:51:08+00:00",
-      "weight": 1000.0,
+      "weight": 415.0,
       "slug": "everyone-loves-the-idea-of-self-managing-teams",
       "aliases": [
         "/resources/xETx_jwnIHO"
@@ -2541,11 +3189,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:05Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Software Development",
+        "Social Technologies",
+        "Self Organisation",
+        "Professional Scrum",
+        "Pragmatic Thinking",
+        "Agile Planning",
+        "Team Performance",
+        "Team Motivation",
+        "Team Collaboration",
+        "Value Delivery",
+        "Common Goals",
+        "Agile Leadership",
+        "Organisational Culture",
+        "Agentic Agility",
+        "Organisational Agility"
+      ]
     },
     "BodyContent": "Everyone loves the idea of self-managing teams. Give people autonomy, let them decide how to work, and everything just falls into place, right?\n\nNot quite.\n\nScrum isn’t about letting teams work however they like. It’s about bounded autonomy—freedom within a framework. Self-management means teams decide how to deliver value, but within the constraints of Scrum events, commitments, and organisational needs. The alignment comes from shared goals, accountability, and structure. Without it, self-management becomes chaos.\n\nToo much control? Teams disengage, becoming passive executors. Too little? Work becomes fragmented, directionless, and ultimately ineffective. True agility is the ability to adapt while staying aligned with the bigger picture.\n\nIf your teams are struggling, ask yourself: Is the problem too much control, or too little alignment?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-18-everyone-loves-the-idea-of-self-managing-teams\\index.md",
@@ -2556,7 +3224,7 @@
       "title": "Scrum Masters and Product Owners are held accountable for results",
       "description": "Explores the gap between accountability and authority for Scrum Masters and Product Owners, highlighting the need to empower roles responsible for team outcomes.",
       "date": "2025-03-17T16:30:03+00:00",
-      "weight": 1000.0,
+      "weight": 335.0,
       "slug": "scrum-masters-and-product-owners-are-held-accountable-for-results",
       "aliases": [
         "/resources/Rx4LP6ywHVh"
@@ -2585,11 +3253,26 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:07Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Leadership",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Scrum Master",
+        "Software Development",
+        "Market Adaptability",
+        "Agile Frameworks",
+        "Professional Scrum",
+        "Pragmatic Thinking",
+        "Agile Leadership",
+        "Agentic Agility",
+        "Social Technologies",
+        "Product Delivery"
+      ]
     },
     "BodyContent": "Scrum Masters and Product Owners are held accountable for results. But here’s the contradiction—how can you be accountable for something you have no control over?\n\nToo often, Scrum Masters are expected to ensure team effectiveness without the authority to remove impediments, challenge dysfunction, or enforce alignment. Influence is important, but it’s not enough. Leadership without control is just a suggestion.\n\nIf the Product Owner’s authority to prioritise and maximise value is accepted, why do we hesitate to acknowledge the Scrum Master’s authority to uphold agility and effectiveness?\n\nAccountability without authority is an empty expectation. If we want better outcomes, we need to empower those responsible for delivering them.\n\nAre Scrum Masters in your organisation truly empowered or just expected to \"coach\" from the sidelines?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-17-scrum-masters-and-product-owners-are-held-accountable-for-results\\index.md",
@@ -2600,7 +3283,7 @@
       "title": "Lack of Authority Blocks Progress on Critical Projects",
       "description": "Scrum Masters need authority to remove obstacles and drive project success. Without empowerment, they can't fulfil their role or be held accountable for outcomes.",
       "date": "2025-03-16T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 510.0,
       "slug": "lack-of-authority-blocks-progress-on-critical-projects",
       "aliases": [
         "/resources/uLNzs9NgPZI"
@@ -2629,11 +3312,23 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:08Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Leadership",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Software Development",
+        "Scrum Master",
+        "Agile Leadership",
+        "Agentic Agility",
+        "Agile Frameworks",
+        "Pragmatic Thinking",
+        "Organisational Agility"
+      ]
     },
     "BodyContent": "Imagine you’re responsible for delivering a critical project, but every time you try to remove an obstacle, you’re told you don’t have the authority to do so.\n\nThat’s the reality for many Scrum Masters.\n\nIf you expect someone to deliver outcomes, they must have control over the factors that influence those outcomes. That means removing impediments, challenging dysfunction, and enforcing alignment where necessary.\n\nScrum Masters who are handcuffed by bureaucracy, overreaching managers, or a lack of executive support cannot fulfil their accountability. You can’t hold someone accountable for effectiveness while stripping them of the means to achieve it.\n\nIf your Scrum Masters aren’t empowered to act, they’re not Scrum Masters. They’re just observers.\n\nDoes your organisation give Scrum Masters the authority they need to drive real change?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-16-lack-of-authority-blocks-progress-on-critical-projects\\index.md",
@@ -2644,7 +3339,7 @@
       "title": "Why Measuring Individual Cycle Time Fails to Help Teams",
       "description": "Measuring individual cycle time overlooks team performance and system bottlenecks. Focus on lead time, throughput, and process efficiency to improve workflow.",
       "date": "2025-03-15T16:30:02+00:00",
-      "weight": 1000.0,
+      "weight": 245.0,
       "slug": "why-measuring-individual-cycle-time-fails-to-help-teams",
       "aliases": [
         "/resources/ZZGeHcnIwyQ"
@@ -2673,11 +3368,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:09Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Kanban",
+        "Lean"
+      ],
+      "tags": [
+        "Team Performance",
+        "Operational Practices",
+        "Flow Efficiency",
+        "Software Development",
+        "Decision Making",
+        "Lead Time",
+        "Team Collaboration",
+        "Systems Thinking",
+        "Lean Principles",
+        "Organisational Physics",
+        "Throughput",
+        "Lean Thinking",
+        "Value Delivery",
+        "Pragmatic Thinking",
+        "Metrics and Learning"
+      ]
     },
     "BodyContent": "I still see teams measuring individual cycle time as if that tells them anything useful. It doesn’t.\n\nIf you’re measuring a person’s speed, you’re missing the point. The problem is never the individual—it’s the system they’re operating in. You don’t measure a single cog in a machine; you measure how well the whole thing runs.\n\nWhen work sits in queues, when reviews take forever, when people are overloaded with work in progress—those are the real bottlenecks. Measuring how fast someone moves a ticket through their own swim lane tells you nothing about flow.\n\nWant to move faster? Stop monitoring individuals. Start looking at lead time, throughput, and process cycle efficiency (PCE). Fix the system, and the people will be able to do great work.\n\nWhere have you seen individual measurement lead to bad incentives? Drop your thoughts in the comments.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-15-why-measuring-individual-cycle-time-fails-to-help-teams\\index.md",
@@ -2688,7 +3403,7 @@
       "title": "Why Slow Processes Impact Developer Productivity and Performance",
       "description": "Explores how inefficient processes, not individual shortcomings, hinder developer productivity and performance, highlighting the need for systemic improvements.",
       "date": "2025-03-14T16:30:02+00:00",
-      "weight": 1000.0,
+      "weight": 235.0,
       "slug": "why-slow-processes-impact-developer-productivity-and-performance",
       "aliases": [
         "/resources/CkgnD5GYbI8"
@@ -2719,9 +3434,16 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Technical Leadership",
+        "Engineering Excellence"
       ],
-      "tags": []
+      "tags": [
+        "Team Performance",
+        "Operational Practices",
+        "Sociotechnical Systems",
+        "Software Development",
+        "Continuous Improvement"
+      ]
     },
     "BodyContent": "I once heard a leader say, “This developer is too slow.” No, the process was slow.\n\nIf someone on your team is struggling, it’s not a personal failing—it’s a system failure. Maybe they weren’t given the right training. Maybe work sits in review for weeks. Maybe the handoffs between teams are a mess.\n\nNigel Thurlow puts it perfectly:  \n“You never measure a person, ever. You only ever measure a process. You improve the system, never the people within it.”\n\nPeople don’t fail in a vacuum. The system sets them up for success or failure. If you’re spending time trying to fix the person, you’re missing the real problem.\n\nWant better performance? Fix the process.\n\nHave you ever seen someone get blamed for a system failure?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-14-why-slow-processes-impact-developer-productivity-and-performance\\index.md",
@@ -2732,7 +3454,7 @@
       "title": "Technical debt isn’t just messy code",
       "description": "Technical debt includes slow feedback, fragile systems, and manual processes that hinder progress. Addressing it early with automation and testing reduces long-term costs.",
       "date": "2025-03-13T16:30:02+00:00",
-      "weight": 1000.0,
+      "weight": 175.0,
       "slug": "technical-debt-isn-t-just-messy-code",
       "aliases": [
         "/resources/81ZWio23ss7"
@@ -2761,11 +3483,24 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:12Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence",
+        "DevOps",
+        "Product Development"
+      ],
+      "tags": [
+        "Technical Debt",
+        "Engineering Practices",
+        "Software Development",
+        "Technical Mastery",
+        "Operational Practices",
+        "Product Delivery",
+        "Pragmatic Thinking",
+        "Technical Excellence"
+      ]
     },
     "BodyContent": "Technical debt isn’t just messy code. It’s slow feedback, brittle systems, and manual processes that grind delivery to a halt. It’s why teams spend more time firefighting than innovating.\n\nBut here’s the thing: technical debt is a choice. Every time a team pushes off refactoring, skips automation, or accepts a fragile deployment process, they’re choosing to accumulate debt. And like financial debt, it compounds.\n\nThe only way out is to pay it down. Automate. Test early and often. Adopt trunk-based development. Remove friction from your pipelines. The cost of fixing it now is always less than the cost of delaying.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-13-technical-debt-isn-t-just-messy-code\\index.md",
@@ -2776,7 +3511,7 @@
       "title": "Why Tracking Individual Cycle Time Distorts Team Behaviour",
       "description": "Tracking individual cycle time can harm team performance by encouraging task cherry-picking, reduced collaboration, and lower quality, without improving overall delivery speed.",
       "date": "2025-03-12T16:30:03+00:00",
-      "weight": 1000.0,
+      "weight": 220.0,
       "slug": "why-tracking-individual-cycle-time-distorts-team-behaviour",
       "aliases": [
         "/resources/cbyRy2IJmM0"
@@ -2805,11 +3540,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:15Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Kanban",
+        "Product Development",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Pragmatic Thinking",
+        "Metrics and Learning",
+        "Flow Efficiency",
+        "Software Development",
+        "Team Performance",
+        "Lean Principles",
+        "Lean Thinking",
+        "Lead Time",
+        "Operational Practices",
+        "Self Organisation",
+        "Value Delivery",
+        "Team Collaboration",
+        "Continuous Improvement",
+        "Organisational Agility",
+        "Product Delivery"
+      ]
     },
     "BodyContent": "When you track individual's cycle time, you aren’t just measuring the wrong thing—you’re actively distorting behaviour.\n\nPeople will start working in ways that make them look good instead of making the system better. They’ll cherry-pick the easiest tasks. They’ll rush work at the expense of quality. They’ll avoid collaborating because waiting on someone else makes their numbers worse.\n\nAnd guess what? The actual delivery time doesn’t improve. You just get more local optimisations that have nothing to do with getting value out the door.\n\nKanban isn’t about making individuals go faster. It’s about improving flow. You want to optimise lead time, work in progress (WIP), and throughput. That’s where speed comes from—not from pressuring individuals to move faster.\n\nHow are you measuring flow in your system?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-12-why-tracking-individual-cycle-time-distorts-team-behaviour\\index.md",
@@ -2820,7 +3575,7 @@
       "title": "Measuring Worker Speed in Manufacturing Plant Operations",
       "description": "Measuring individual worker speed in manufacturing or knowledge work can create bottlenecks; true efficiency comes from improving the whole system, not just individuals.",
       "date": "2025-03-11T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 705.0,
       "slug": "measuring-worker-speed-in-manufacturing-plant-operations",
       "aliases": [
         "/resources/QnAOVFfFPpx"
@@ -2853,7 +3608,11 @@
       "categories": [
         "Uncategorized"
       ],
-      "tags": []
+      "tags": [
+        "Systems Thinking",
+        "Team Performance",
+        "Lean Principles"
+      ]
     },
     "BodyContent": "Imagine a manufacturing plant where someone decides to measure how fast one worker moves a part from their station to the next.\n\nThey speed up. They move parts as fast as possible. But downstream, the parts pile up because the system isn’t ready for them. The bottleneck isn’t fixed. Nothing actually gets delivered faster.\n\nThis is exactly what happens when you measure individual cycle time in knowledge work. Someone finishing tasks quickly doesn’t mean anything if those tasks sit in queues, waiting on reviews, approvals, or handoffs.\n\nSpeed comes from fixing the system—not from pushing people to move faster.\n\nWho’s still measuring individual cycle time in 2025?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-11-measuring-worker-speed-in-manufacturing-plant-operations\\index.md",
@@ -2864,7 +3623,7 @@
       "title": "Velocity isn’t how many story points a team burns down",
       "description": "Velocity measures how quickly teams turn ideas into value, using build, test, deploy, and feedback times—not just story points—to track real delivery speed.",
       "date": "2025-03-10T16:30:02+00:00",
-      "weight": 1000.0,
+      "weight": 105.0,
       "slug": "velocity-isn-t-how-many-story-points-a-team-burns-down",
       "aliases": [
         "/resources/14E6bk6Lmo4"
@@ -2893,11 +3652,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:18Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "DevOps",
+        "Engineering Excellence"
+      ],
+      "tags": [
+        "Software Development",
+        "Continuous Delivery",
+        "Metrics and Learning",
+        "Operational Practices",
+        "Time to Market",
+        "Frequent Releases",
+        "Technical Mastery",
+        "Product Delivery",
+        "Engineering Practices",
+        "Team Performance",
+        "Pragmatic Thinking",
+        "Value Delivery",
+        "Azure DevOps",
+        "Flow Efficiency",
+        "Market Adaptability"
+      ]
     },
     "BodyContent": "Velocity isn’t how many story points a team burns down. It’s how quickly you can turn an idea into value. That’s why the Azure DevOps team measured it using four key metrics:\n\n1. Time to Build: From code change to a successful build. Faster builds mean faster feedback.\n2. Time to Self-Test: How long automated tests take to run. The shorter, the better.\n3. Time to Deploy: How fast a validated build reaches production.\n4. Time to Learn: How quickly user feedback informs the next decision.\n\nThese metrics aren’t theoretical—they represent real stages in the flow of work, entirely within engineering’s control. No outside approval needed, no excuses. If you’re not measuring them, you’re not serious about continuous delivery.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-10-velocity-isn-t-how-many-story-points-a-team-burns-down\\index.md",
@@ -2908,7 +3687,7 @@
       "title": "Scrum Masters are not glorified meeting schedulers",
       "description": "Scrum Masters must have technical and business expertise to guide teams, improve code quality, and drive real agility—not just schedule meetings. Coding skills are essential.",
       "date": "2025-03-09T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 110.0,
       "slug": "scrum-masters-are-not-glorified-meeting-schedulers",
       "aliases": [
         "/resources/ASC0IjY5nKr"
@@ -2939,9 +3718,19 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Technical Leadership",
+        "Engineering Excellence"
       ],
-      "tags": []
+      "tags": [
+        "Software Development",
+        "Technical Mastery",
+        "Competence",
+        "Engineering Practices",
+        "Product Delivery",
+        "Operational Practices",
+        "Pragmatic Thinking",
+        "Technical Excellence"
+      ]
     },
     "BodyContent": "Scrum Masters are not glorified meeting schedulers.\n\nThey are technical and business leaders who ensure that teams deliver continuous value. A Scrum Master for a team that delivers software that can’t critique code quality or understand DevOps practices is a Scrum Master in title only. For software teams, coding knowledge isn’t optional—it’s essential.\n\nMastery in modern engineering practices like CI/CD, automated testing, and infrastructure as code is non-negotiable. You can’t guide what you don’t understand.\n\nIf your Scrum Master doesn’t speak your Developers' language, how can they help them improve? An effective Scrum Master challenges the team, identifies technical debt, and fosters a culture of quality.\n\nWithout this, you’re not embracing true agility—just the illusion of it.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-09-scrum-masters-are-not-glorified-meeting-schedulers\\index.md",
@@ -2952,7 +3741,7 @@
       "title": "Agile Is Not Easier Than Traditional Methods: Common Misconceptions",
       "description": "Explains why Agile methods are often more challenging than traditional ones, highlighting common misconceptions, required discipline, and the need for true cross-functional teamwork.",
       "date": "2025-03-08T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 335.0,
       "slug": "agile-is-not-easier-than-traditional-methods-common-misconceptions",
       "aliases": [
         "/resources/ZGwpGOoHHBQ"
@@ -2985,7 +3774,15 @@
       "categories": [
         "Uncategorized"
       ],
-      "tags": []
+      "tags": [
+        "Software Development",
+        "Agile Philosophy",
+        "Product Delivery",
+        "Organisational Agility",
+        "Social Technologies",
+        "Pragmatic Thinking",
+        "Value Delivery"
+      ]
     },
     "BodyContent": "One of the biggest misconceptions about Agile is that it’s “easier” than traditional approaches. The reality? It’s much harder.\n\nIn a traditional model, you had time—often too much of it. In Agile, you don’t. You need frequent working product. You need to make decisions with incomplete information and still deliver value. You need to embrace uncertainty, but not recklessness.\n\nIf you have work that isn’t refined, a deployment process that isn’t within the team’s control, or a team structure that still relies on functional silos—you’re making Agile harder than it needs to be.\n\nTrue agility demands more discipline, more cross-functional collaboration, and a relentless focus on delivering value. It’s not just a framework; it’s a commitment to excellence.\n\nAre you making Agile work for you, or are you just going through the motions?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-08-agile-is-not-easier-than-traditional-methods-common-misconceptions\\index.md",
@@ -2993,10 +3790,10 @@
   },
   {
     "FrontMatter": {
-      "title": "let-us be blunt—if a Scrum Team isn’t delivering, is it effective?\"",
+      "title": "let-us be blunt—if a Scrum Team isn’t delivering, is it effective",
       "description": "Explores Scrum Team effectiveness, emphasising that consistent delivery is essential and highlighting the Scrum Master's accountability for enabling successful outcomes.",
       "date": "2025-03-07T16:30:00+00:00",
-      "weight": 1000.0,
+      "weight": 630.0,
       "slug": "let-us-be-blunt-if-a-scrum-team-isn-t-delivering-is-it-effective",
       "aliases": [
         "/resources/CB56pgg1LmZ"
@@ -3027,9 +3824,15 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Team Performance",
+        "Increment",
+        "Scrum Master",
+        "Working Software",
+        "Value Delivery"
+      ]
     },
     "BodyContent": "Let’s be blunt—if a Scrum Team isn’t delivering, is it effective?\n\nScrum exists to deliver usable increments. Without that, everything else—standups, retros, sprints—is just theatre.\n\nSo if a team isn’t delivering, what happens? Who gets held accountable?\n\nThe Scrum Master.\n\nNot because they write the code, but because their job is to enable the system that produces working product every sprint.\n\nIf a team is stuck, their job is to unstick it.  \nIf delivery is failing, they must ensure the system is fixed to enable delivery.\n\nNo delivery? No effectiveness.\n\nDisagree? Let’s talk.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-07-let-us-be-blunt-if-a-scrum-team-isn-t-delivering-is-it-effective\\index.md",
@@ -3301,7 +4104,7 @@
   },
   {
     "FrontMatter": {
-      "title": "If software is not delivered, it is not valuable.\"",
+      "title": "If software is not delivered, it is not valuable",
       "description": "Undelivered software provides no value. Frequent, iterative releases reduce risk, cost, and failure, enabling faster learning and real user impact in software development.",
       "date": "2025-03-01T16:30:03+00:00",
       "weight": 1000.0,
@@ -3873,7 +4676,7 @@
   },
   {
     "FrontMatter": {
-      "title": "The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master.\"",
+      "title": "The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master",
       "description": "Hiring an unqualified Scrum Master limits team growth, reduces agility, and hinders value delivery. Effective Scrum Masters drive change, coaching, and business alignment.",
       "date": "2025-02-17T16:30:17+00:00",
       "weight": 1000.0,
@@ -3911,13 +4714,13 @@
       ],
       "tags": []
     },
-    "BodyContent": "The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master.\n\nToo many companies mistake the Scrum Master for a process admin. Someone to book meetings, write Jira tickets, and make sure the team follows “the rules.”\n\nThat’s not a Scrum Master. That’s an event planner.\n\nThe real Scrum Master is a lean-agile practitioner—someone who understands product strategy, DevOps, modern engineering, and team dynamics. They’re a change agent, not a note-taker.\n\nA strong Scrum Master:\n- Coaches the team to be self-managing, so they don’t depend on them.\n- Challenges the status quo and removes obstacles, instead of just escalating them.\n- Understands what good looks like in both product and engineering.\n- Connects the team with the business, ensuring alignment on value delivery.\n\nA weak Scrum Master? They turn into a Scrum Secretary, maintaining the illusion of agility while the team stagnates.\n\nIf you want Scrum to actually work, hire someone who sees Scrum as an enabler of high-performance teams—not just a set of meetings.\n\nSeen this mistake before?\n",
+    "BodyContent": "The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master.\n\nToo many companies mistake the Scrum Master for a process admin. Someone to book meetings, write Jira tickets, and make sure the team follows “the rules.”\n\nThat’s not a Scrum Master. That’s an event planner.\n\nThe real Scrum Master is a lean-agile practitioner—someone who understands product strategy, DevOps, modern engineering, and team dynamics. They’re a change agent, not a note-taker.\n\nA strong Scrum Master:\n\n- Coaches the team to be self-managing, so they don’t depend on them.\n- Challenges the status quo and removes obstacles, instead of just escalating them.\n- Understands what good looks like in both product and engineering.\n- Connects the team with the business, ensuring alignment on value delivery.\n\nA weak Scrum Master? They turn into a Scrum Secretary, maintaining the illusion of agility while the team stagnates.\n\nIf you want Scrum to actually work, hire someone who sees Scrum as an enabler of high-performance teams—not just a set of meetings.\n\nSeen this mistake before?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-17-the-fastest-way-to-cripple-a-scrum-team-hire-the-wrong-scrum-master\\index.md",
     "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-17-the-fastest-way-to-cripple-a-scrum-team-hire-the-wrong-scrum-master"
   },
   {
     "FrontMatter": {
-      "title": "Would you hire a Junior CISO? A Junior Financial Director? \"",
+      "title": "Would you hire a Junior CISO? A Junior Financial Director",
       "description": "Scrum Masters require proven expertise, not entry-level skills. Hiring juniors in this role risks team performance and agile success; experience is essential for effective leadership.",
       "date": "2025-02-17T10:06:07+00:00",
       "weight": 1000.0,
@@ -4005,7 +4808,7 @@
   },
   {
     "FrontMatter": {
-      "title": "Not all delays are the same.\"",
+      "title": "Not all delays are the same",
       "description": "Explains the difference between waiting and blocked tasks, why clear distinction matters in workflows, and how to track and address sources of delay for better optimisation.",
       "date": "2025-02-15T16:30:01+00:00",
       "weight": 1000.0,
@@ -4181,7 +4984,7 @@
   },
   {
     "FrontMatter": {
-      "title": "Every delay increases the risk of failure.\"",
+      "title": "Every delay increases the risk of failure",
       "description": "Delaying software releases increases failure risk. Frequent, small releases improve success rates, adaptability, and recovery, as shown by CHAOS Report and DORA metrics.",
       "date": "2025-02-10T11:00:51+00:00",
       "weight": 1000.0,
@@ -4225,7 +5028,7 @@
   },
   {
     "FrontMatter": {
-      "title": "Git Flow should have died years ago.\"",
+      "title": "Git Flow should have died years ago",
       "description": "Explains why Git Flow is outdated for modern software, highlighting its drawbacks and recommending simpler workflows like GitHub Flow for faster, continuous delivery.",
       "date": "2025-02-09T16:30:00+00:00",
       "weight": 1000.0,
@@ -4263,13 +5066,13 @@
       ],
       "tags": []
     },
-    "BodyContent": "Git Flow should have died years ago.\n\nIt was designed for packaged software, not modern software delivery. Yet, some teams still cling to it, drowning in:\n\n- Long-lived develop branches\n- Painful release/* merges\n- Endless hotfix/* chaos\n\nEvery merge is an opportunity for delay, conflict, and regression. Instead of focusing on delivering value, teams are stuck babysitting branches.\n\nSwitch to GitHub Flow or Release Flow and experience the difference. Merge small. Deploy continuously. Stop wasting time on a process that was obsolete a decade ago.\n",
+    "BodyContent": "Git Flow should have died years ago.\n\nIt was designed for packaged software, not modern software delivery. Yet, some teams still cling to it, drowning in:\n\n- Long-lived develop branches\n- Painful release/\\* merges\n- Endless hotfix/\\* chaos\n\nEvery merge is an opportunity for delay, conflict, and regression. Instead of focusing on delivering value, teams are stuck babysitting branches.\n\nSwitch to GitHub Flow or Release Flow and experience the difference. Merge small. Deploy continuously. Stop wasting time on a process that was obsolete a decade ago.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-09-git-flow-should-have-died-years-ago\\index.md",
     "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-09-git-flow-should-have-died-years-ago"
   },
   {
     "FrontMatter": {
-      "title": "Branch promotion is a relic of slow, manual software delivery.\"",
+      "title": "Branch promotion is a relic of slow, manual software delivery",
       "description": "Explains why modern software teams avoid branch promotion, using continuous integration, feature flags, and production-like testing to streamline delivery and reduce risk.",
       "date": "2025-02-08T16:30:00+00:00",
       "weight": 1000.0,
@@ -4445,7 +5248,7 @@
   },
   {
     "FrontMatter": {
-      "title": "Every unreleased feature is a cost.\"",
+      "title": "Every unreleased feature is a cost",
       "description": "Unreleased features create hidden costs and risks. Regular software delivery reduces failure rates, rework, and missed opportunities, ensuring real value is delivered.",
       "date": "2025-02-05T16:30:01+00:00",
       "weight": 1000.0,

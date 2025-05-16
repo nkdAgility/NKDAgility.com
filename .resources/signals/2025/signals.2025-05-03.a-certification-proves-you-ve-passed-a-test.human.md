@@ -2,7 +2,7 @@
 title: A certification proves you’ve passed a test
 description: Certifications show test-passing ability but don’t prove real-world product skills. Experience, judgement, and stakeholder influence matter more for true competence.
 date: 2025-05-03T15:30:21+01:00
-weight: 1000
+weight: 765
 slug: a-certification-proves-you-ve-passed-a-test
 aliases:
 - /resources/5fShT9wNqFg
@@ -27,8 +27,11 @@ Watermarks:
   description: 2025-05-16T15:55:03Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Product Management
+tags:
+- Competence
+- Personal
+- Product Owner
 
 ---
 A certification proves you’ve passed a test. It does not mean you can define a product vision, align stakeholders, or make tough trade-offs.

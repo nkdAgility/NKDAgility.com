@@ -2,7 +2,7 @@
 title: Everyone loves the idea of self-managing teams
 description: Explains how self-managing teams thrive with autonomy balanced by structure, highlighting the need for clear goals, accountability, and alignment within frameworks like Scrum.
 date: 2025-03-18T09:51:08+00:00
-weight: 1000
+weight: 415
 slug: everyone-loves-the-idea-of-self-managing-teams
 aliases:
 - /resources/xETx_jwnIHO
@@ -25,10 +25,28 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:05Z
-concepts: []
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+- Technical Leadership
+tags:
+- Software Development
+- Social Technologies
+- Self Organisation
+- Professional Scrum
+- Pragmatic Thinking
+- Agile Planning
+- Team Performance
+- Team Motivation
+- Team Collaboration
+- Value Delivery
+- Common Goals
+- Agile Leadership
+- Organisational Culture
+- Agentic Agility
+- Organisational Agility
 
 ---
 Everyone loves the idea of self-managing teams. Give people autonomy, let them decide how to work, and everything just falls into place, right?

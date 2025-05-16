@@ -2,10 +2,10 @@
 title: Everyone has a disaster recovery plan—on paper
 description: Most disaster recovery plans fail in practice due to overlooked dependencies and lack of real-world testing, leaving organisations vulnerable when outages occur.
 date: 2025-05-14T15:30:37+01:00
-weight: 1000
+weight: 390
 slug: everyone-has-a-disaster-recovery-plan-on-paper
 aliases:
-  - /resources/jgAmhaBbUlm
+- /resources/jgAmhaBbUlm
 ResourceId: jgAmhaBbUlm
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,27 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7328441618900918273
-    post_id: "7328441618900918273"
-    post_date: 2025-05-14T14:30:37Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7328441618900918273
+  post_id: "7328441618900918273"
+  post_date: 2025-05-14T14:30:37Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:46Z
-concepts: []
+concepts:
+- Ethos
 categories:
-  - Uncategorized
-tags: []
----
+- Uncategorized
+tags:
+- Personal
+- Pragmatic Thinking
 
+---
 Everyone has a disaster recovery plan—on paper.
 
 But when the lights go out, very few organisations have systems that actually work. Spain, Portugal, Oracle, Heathrow... these weren’t random outages. They were textbook examples of systems that failed exactly as they were designed.

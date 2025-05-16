@@ -1,8 +1,8 @@
 ---
-title: Companies often say "we-are going Agile!" as if declaring it makes it so.
+title: Companies often say "we-are going Agile!" as if declaring it makes it so
 description: Many companies mistake adopting Agile frameworks for true agility, but real success comes from customising ways of working to respond quickly to market changes.
 date: 2025-04-25T15:30:40+01:00
-weight: 1000
+weight: 500
 slug: companies-often-say-we-are-going-agile-as-if-declaring-it-makes-it-so
 aliases:
 - /resources/otmDMgDEp-i
@@ -25,10 +25,26 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:14Z
-concepts: []
+concepts:
+- Ethos
 categories:
-- Uncategorized
-tags: []
+- Product Development
+tags:
+- Agile Philosophy
+- Market Adaptability
+- Pragmatic Thinking
+- Business Agility
+- Organisational Agility
+- Agile Values and Principles
+- Agile Transformation
+- Enterprise Agility
+- Change Management
+- Agile Strategy
+- Miscellaneous
+- Social Technologies
+- Agile Product Management
+- Agnostic Agile
+- Large Scale Agility
 
 ---
 I've lost count of the number of times I've heard companies say, "We're going Agile!"—as if declaring it makes it so.

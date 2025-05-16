@@ -2,7 +2,7 @@
 title: Scrum Masters and Product Owners are held accountable for results
 description: Explores the gap between accountability and authority for Scrum Masters and Product Owners, highlighting the need to empower roles responsible for team outcomes.
 date: 2025-03-17T16:30:03+00:00
-weight: 1000
+weight: 335
 slug: scrum-masters-and-product-owners-are-held-accountable-for-results
 aliases:
 - /resources/Rx4LP6ywHVh
@@ -25,10 +25,23 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:07Z
-concepts: []
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Leadership
+- Technical Leadership
+tags:
+- Scrum Master
+- Software Development
+- Market Adaptability
+- Agile Frameworks
+- Professional Scrum
+- Pragmatic Thinking
+- Agile Leadership
+- Agentic Agility
+- Social Technologies
+- Product Delivery
 
 ---
 Scrum Masters and Product Owners are held accountable for results. But here’s the contradiction—how can you be accountable for something you have no control over?

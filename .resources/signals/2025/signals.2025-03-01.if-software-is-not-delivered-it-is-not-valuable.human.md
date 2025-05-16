@@ -1,5 +1,5 @@
 ---
-title: If software is not delivered, it is not valuable."
+title: If software is not delivered, it is not valuable
 description: Undelivered software provides no value. Frequent, iterative releases reduce risk, cost, and failure, enabling faster learning and real user impact in software development.
 date: 2025-03-01T16:30:03+00:00
 weight: 1000

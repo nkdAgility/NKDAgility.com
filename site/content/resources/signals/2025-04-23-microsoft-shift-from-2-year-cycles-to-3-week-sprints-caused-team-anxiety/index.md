@@ -2,7 +2,7 @@
 title: Microsoft shift from 2-year cycles to 3-week Sprints caused team anxiety
 description: Microsoft’s switch to 3-week Sprints increased team anxiety due to greater transparency, exposing inefficiencies but enabling faster, more frequent software delivery.
 date: 2025-04-23T15:30:47+01:00
-weight: 1000
+weight: 255
 slug: microsoft-shift-from-2-year-cycles-to-3-week-sprints-caused-team-anxiety
 aliases:
 - /resources/AW5GP1Vnnp5
@@ -25,10 +25,20 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:16Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+tags:
+- Transparency
+- Software Development
+- Social Technologies
+- Pragmatic Thinking
+- Time to Market
+- Product Delivery
+- Operational Practices
+- Empirical Process Control
+- Professional Scrum
 
 ---
 When Microsoft moved from a two-year delivery cycle to 3-week Sprints, something unexpected happened—teams became terrified.

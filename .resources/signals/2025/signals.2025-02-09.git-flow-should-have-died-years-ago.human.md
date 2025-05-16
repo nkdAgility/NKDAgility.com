@@ -1,5 +1,5 @@
 ---
-title: Git Flow should have died years ago."
+title: Git Flow should have died years ago
 description: Explains why Git Flow is outdated for modern software, highlighting its drawbacks and recommending simpler workflows like GitHub Flow for faster, continuous delivery.
 date: 2025-02-09T16:30:00+00:00
 weight: 1000
@@ -36,8 +36,8 @@ Git Flow should have died years ago.
 It was designed for packaged software, not modern software delivery. Yet, some teams still cling to it, drowning in:
 
 - Long-lived develop branches
-- Painful release/* merges
-- Endless hotfix/* chaos
+- Painful release/\* merges
+- Endless hotfix/\* chaos
 
 Every merge is an opportunity for delay, conflict, and regression. Instead of focusing on delivering value, teams are stuck babysitting branches.
 

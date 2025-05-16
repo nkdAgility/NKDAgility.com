@@ -2,7 +2,7 @@
 title: Velocity isn’t how many story points a team burns down
 description: Velocity measures how quickly teams turn ideas into value, using build, test, deploy, and feedback times—not just story points—to track real delivery speed.
 date: 2025-03-10T16:30:02+00:00
-weight: 1000
+weight: 105
 slug: velocity-isn-t-how-many-story-points-a-team-burns-down
 aliases:
 - /resources/14E6bk6Lmo4
@@ -25,10 +25,28 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:18Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- DevOps
+- Engineering Excellence
+tags:
+- Software Development
+- Continuous Delivery
+- Metrics and Learning
+- Operational Practices
+- Time to Market
+- Frequent Releases
+- Technical Mastery
+- Product Delivery
+- Engineering Practices
+- Team Performance
+- Pragmatic Thinking
+- Value Delivery
+- Azure DevOps
+- Flow Efficiency
+- Market Adaptability
 
 ---
 Velocity isn’t how many story points a team burns down. It’s how quickly you can turn an idea into value. That’s why the Azure DevOps team measured it using four key metrics:

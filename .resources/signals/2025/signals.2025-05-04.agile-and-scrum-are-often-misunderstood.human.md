@@ -1,8 +1,8 @@
 ---
-title: Agile and Scrum are often misunderstood."
+title: Agile and Scrum are often misunderstood
 description: Agile and Scrum expose underlying team and workflow issues, helping organisations address real problems rather than masking dysfunction with process or tools.
 date: 2025-05-04T15:30:30+01:00
-weight: 1000
+weight: 510
 slug: agile-and-scrum-are-often-misunderstood
 aliases:
 - /resources/Oi_yiyEHZbM
@@ -25,10 +25,18 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:01Z
-concepts: []
+concepts:
+- Philosophy
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+tags:
+- Pragmatic Thinking
+- Software Development
+- Organisational Agility
+- Social Technologies
+- Agile Philosophy
+- Professional Scrum
 
 ---
 Agile and Scrum are often misunderstood.

@@ -2,7 +2,7 @@
 title: Great Scrum Masters and Product Owners don’t micromanage
 description: Effective Scrum Masters and Product Owners empower teams with clear goals and autonomy, balancing structure and flexibility to promote accountability and true agility.
 date: 2025-03-23T16:30:01+00:00
-weight: 1000
+weight: 390
 slug: great-scrum-masters-and-product-owners-don-t-micromanage
 aliases:
 - /resources/8W3oqNsNnMS
@@ -25,10 +25,23 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:56Z
-concepts: []
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Leadership
+- Scrum
+- Technical Leadership
+tags:
+- Self Organisation
+- Agile Leadership
+- Organisational Agility
+- Team Motivation
+- Pragmatic Thinking
+- Organisational Culture
+- Professional Scrum
+- Social Technologies
+- Agile Product Management
+- Software Development
 
 ---
 Great Scrum Masters and Product Owners don’t micromanage. They provide clarity, foster initiative, and hold teams accountable.

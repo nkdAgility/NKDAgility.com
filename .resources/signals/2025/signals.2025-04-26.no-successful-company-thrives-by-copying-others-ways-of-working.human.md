@@ -1,8 +1,8 @@
 ---
-title: No successful company thrives by copying others’ ways of working.
+title: No successful company thrives by copying others’ ways of working
 description: Successful companies thrive by creating unique ways of working, not by copying frameworks. Tailor your approach to fit your organisation’s culture, needs, and goals.
 date: 2025-04-26T15:30:29+01:00
-weight: 1000
+weight: 540
 slug: no-successful-company-thrives-by-copying-others-ways-of-working
 aliases:
 - /resources/GcanwqIp5ok
@@ -27,8 +27,13 @@ Watermarks:
   description: 2025-05-16T15:55:13Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Leadership
+tags:
+- Agile Philosophy
+- Agile Strategy
+- Organisational Agility
+- Agnostic Agile
+- Organisational Change
 
 ---
 No successful company got where they are by copy-pasting someone else’s way of working.

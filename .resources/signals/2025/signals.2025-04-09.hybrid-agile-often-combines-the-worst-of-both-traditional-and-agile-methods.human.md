@@ -1,8 +1,8 @@
 ---
-title: Hybrid Agile often combines the worst of both traditional and Agile methods.
+title: Hybrid Agile often combines the worst of both traditional and Agile methods
 description: Mixing Agile with traditional methods often leads to slow, inefficient processes that lack true adaptability, making it harder for organisations to respond to change effectively.
 date: 2025-04-09T15:30:02+01:00
-weight: 1000
+weight: 540
 slug: hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods
 aliases:
 - /resources/mqG4p-beYqb
@@ -28,7 +28,10 @@ Watermarks:
 concepts: []
 categories:
 - Uncategorized
-tags: []
+tags:
+- Hybrid Agile
+- Agile Values and Principles
+- Agile Philosophy
 
 ---
 I still hear leaders talk about "hybrid Agile" like it’s the best of both worlds. Let’s be real—it’s usually the worst of both.

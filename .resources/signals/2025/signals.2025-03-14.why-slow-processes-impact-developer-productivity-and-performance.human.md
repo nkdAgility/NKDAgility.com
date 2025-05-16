@@ -2,7 +2,7 @@
 title: Why Slow Processes Impact Developer Productivity and Performance
 description: Explores how inefficient processes, not individual shortcomings, hinder developer productivity and performance, highlighting the need for systemic improvements.
 date: 2025-03-14T16:30:02+00:00
-weight: 1000
+weight: 235
 slug: why-slow-processes-impact-developer-productivity-and-performance
 aliases:
 - /resources/CkgnD5GYbI8
@@ -27,8 +27,14 @@ Watermarks:
   description: 2025-05-16T15:56:10Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Technical Leadership
+- Engineering Excellence
+tags:
+- Team Performance
+- Operational Practices
+- Sociotechnical Systems
+- Software Development
+- Continuous Improvement
 
 ---
 I once heard a leader say, “This developer is too slow.” No, the process was slow.

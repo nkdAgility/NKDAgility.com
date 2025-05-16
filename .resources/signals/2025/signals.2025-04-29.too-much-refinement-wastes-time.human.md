@@ -2,7 +2,7 @@
 title: Too much refinement wastes time
 description: Balancing backlog refinement prevents wasted effort and chaos. Aim for just enough detail so developers can plan sprints confidently without over-preparing or guessing.
 date: 2025-04-29T15:30:43+01:00
-weight: 1000
+weight: 345
 slug: too-much-refinement-wastes-time
 aliases:
 - /resources/2GV6voRFhjH
@@ -25,10 +25,20 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:09Z
-concepts: []
+concepts:
+- Method
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+tags:
+- Product Backlog
+- Software Development
+- Agile Planning
+- Backlog Refinement
+- Operational Practices
+- Pragmatic Thinking
+- Definition of Ready
+- Agile Product Management
 
 ---
 Too much refinement wastes time. Too little refinement leads to chaos. The key is knowing where to draw the line.

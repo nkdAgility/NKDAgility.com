@@ -2,10 +2,10 @@
 title: You want speed, adaptability, resilience
 description: Explores why true organisational agility depends on empowering teams with agency, not just adopting frameworks like Scrum, Kanban, or DevOps, to achieve real outcomes.
 date: 2025-05-11T15:30:29+01:00
-weight: 1000
+weight: 385
 slug: you-want-speed-adaptability-resilience
 aliases:
-  - /resources/5UaIfaLclWB
+- /resources/5UaIfaLclWB
 ResourceId: 5UaIfaLclWB
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,42 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7327354418876628992
-    post_id: "7327354418876628992"
-    post_date: 2025-05-11T14:30:29Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7327354418876628992
+  post_id: "7327354418876628992"
+  post_date: 2025-05-11T14:30:29Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:51Z
-concepts: []
+concepts:
+- Ethos
 categories:
-  - Uncategorized
-tags: []
----
+- Leadership
+- Technical Leadership
+- Product Development
+tags:
+- Agentic Agility
+- Organisational Agility
+- Team Motivation
+- Agile Philosophy
+- Business Agility
+- Organisational Culture
+- Agile Leadership
+- Pragmatic Thinking
+- Social Technologies
+- Agile Values and Principles
+- Value Delivery
+- Product Delivery
+- Agile Strategy
+- Self Organisation
+- Sociotechnical Systems
 
+---
 You want speed, adaptability, resilience.
 
 You invest in Scrum, Agile, Kanban, DevOps.

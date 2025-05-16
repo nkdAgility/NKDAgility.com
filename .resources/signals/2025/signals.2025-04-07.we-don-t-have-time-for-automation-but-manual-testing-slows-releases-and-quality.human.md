@@ -1,8 +1,8 @@
 ---
-title: We don’t have time for automation—but manual testing slows releases and quality.
+title: We don’t have time for automation—but manual testing slows releases and quality
 description: Manual testing limits release speed and quality, while automation enables faster, more reliable software delivery by reducing regressions and tester workload.
 date: 2025-04-07T15:30:01+01:00
-weight: 1000
+weight: 310
 slug: we-don-t-have-time-for-automation-but-manual-testing-slows-releases-and-quality
 aliases:
 - /resources/f6S9lWfTQaQ
@@ -25,10 +25,19 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:39Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+tags:
+- Software Development
+- Automated Testing
+- Test Automation
+- Technical Mastery
+- Product Delivery
+- Team Performance
+- Operational Practices
+- Frequent Releases
 
 ---
 Every time I hear, “We don’t have time for automation,” I know exactly what’s coming next.

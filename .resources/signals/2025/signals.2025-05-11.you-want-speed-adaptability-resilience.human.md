@@ -1,8 +1,8 @@
 ---
-title: You want speed, adaptability, resilience."
+title: You want speed, adaptability, resilience
 description: Explores why true organisational agility depends on empowering teams with agency, not just adopting frameworks like Scrum, Kanban, or DevOps, to achieve real outcomes.
 date: 2025-05-11T15:30:29+01:00
-weight: 1000
+weight: 385
 slug: you-want-speed-adaptability-resilience
 aliases:
 - /resources/5UaIfaLclWB
@@ -25,10 +25,28 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:51Z
-concepts: []
+concepts:
+- Ethos
 categories:
-- Uncategorized
-tags: []
+- Leadership
+- Technical Leadership
+- Product Development
+tags:
+- Agentic Agility
+- Organisational Agility
+- Team Motivation
+- Agile Philosophy
+- Business Agility
+- Organisational Culture
+- Agile Leadership
+- Pragmatic Thinking
+- Social Technologies
+- Agile Values and Principles
+- Value Delivery
+- Product Delivery
+- Agile Strategy
+- Self Organisation
+- Sociotechnical Systems
 
 ---
 You want speed, adaptability, resilience.

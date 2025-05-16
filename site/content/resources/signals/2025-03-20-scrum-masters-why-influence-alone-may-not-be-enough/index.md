@@ -2,7 +2,7 @@
 title: 'Scrum Masters: Why Influence Alone May Not Be Enough'
 description: Explores why Scrum Masters need authority, not just influence, to enforce Agile practices, remove blockers, and ensure teams follow Scrum for true organisational agility.
 date: 2025-03-20T16:30:02+00:00
-weight: 1000
+weight: 475
 slug: scrum-masters-why-influence-alone-may-not-be-enough
 aliases:
 - /resources/7-5f5u_oMbc
@@ -25,10 +25,19 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:00Z
-concepts: []
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Leadership
+tags:
+- Software Development
+- Professional Scrum
+- Pragmatic Thinking
+- Organisational Culture
+- Agile Frameworks
+- Agile Transformation
+- Scrum Master
 
 ---
 The idea that Scrum Masters should lead only through influence sounds noble—but in many organisations, it’s also naive.

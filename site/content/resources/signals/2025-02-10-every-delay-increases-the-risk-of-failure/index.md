@@ -5,7 +5,7 @@ date: 2025-02-10T11:00:51+00:00
 weight: 1000
 slug: every-delay-increases-the-risk-of-failure
 aliases:
-  - /resources/-hq1U7x2uea
+- /resources/-hq1U7x2uea
 ResourceId: -hq1U7x2uea
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,24 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7294671658643017729
-    post_id: "7294671658643017729"
-    post_date: 2025-02-10T11:00:51Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7294671658643017729
+  post_id: "7294671658643017729"
+  post_date: 2025-02-10T11:00:51Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:01Z
 concepts: []
 categories:
-  - Uncategorized
+- Uncategorized
 tags: []
----
 
+---
 Every delay increases the risk of failure.
 
 Organizations that take too long to release software fall behind. While they refine, plan, and internally validate, their competitors deliver, learn, and adapt.

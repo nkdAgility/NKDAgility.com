@@ -1,5 +1,5 @@
 ---
-title: The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master."
+title: The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master
 description: Hiring an unqualified Scrum Master limits team growth, reduces agility, and hinders value delivery. Effective Scrum Masters drive change, coaching, and business alignment.
 date: 2025-02-17T16:30:17+00:00
 weight: 1000
@@ -40,6 +40,7 @@ That’s not a Scrum Master. That’s an event planner.
 The real Scrum Master is a lean-agile practitioner—someone who understands product strategy, DevOps, modern engineering, and team dynamics. They’re a change agent, not a note-taker.
 
 A strong Scrum Master:
+
 - Coaches the team to be self-managing, so they don’t depend on them.
 - Challenges the status quo and removes obstacles, instead of just escalating them.
 - Understands what good looks like in both product and engineering.
