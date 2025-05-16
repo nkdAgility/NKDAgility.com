@@ -14,24 +14,40 @@ $outputRoot = "site\content\resources\signals"
 # Load matched posts
 $entries = Get-Content $inputPath -Raw | ConvertFrom-Json
 
+# Existing Entries
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path $outputRoot -YearsBack 10
+$linkedinUrls = $hugoMarkdownObjects |
+ForEach-Object {
+    $_.FrontMatter.platform_signals |
+    Where-Object { $_.platform -eq "LinkedIn" -and $_.post_url } |
+    ForEach-Object { $_.post_url }
+}
+
 foreach ($entry in $entries) {
+    $signalMarkdownFile = $null
+    $folderName = $null
+    $signalFolder = $null
+    $slug = $null
+    $title = $null
+    $BodyContent = $null
+    $ShareLinkDecoded = $null
+    $post = $null
+    Add-Type -AssemblyName System.Web
+    $ShareLinkDecoded = [System.Web.HttpUtility]::UrlDecode($post.ShareLink)
+
+    if ($linkedinUrls -contains $ShareLinkDecoded) {
+        Write-Host "File already exists for this post: $ShareLinkDecoded"
+        continue
+    }
+
     $post = $entry.Post
     $date = [datetime]::Parse($post.Date)
 
-    try {
-        # Generate a new description using OpenAI
-        $bodyPrompt = Get-Prompt -PromptName "signal-linkedin-content.md" -Parameters @{
-            content = $post.ShareCommentary
-        }
-        $BodyContent = Get-OpenAIResponse -Prompt $bodyPrompt
-    }
-    catch {
-        throw "Error generating body content: $_"
-    }
+    $title = ($BodyContent -split "`r?`n" | Select-Object -First 1) -split '\. ' | Select-Object -First 1
+    $title = $title.Trim(".- ")
 
-    $title = ($BodyContent -split "`r?`n" | Select-Object -First 1).Trim(".- ")
-    
-    if ([string]::IsNullOrWhiteSpace($title) -or $title.Length -gt 60) {
+
+    if ([string]::IsNullOrWhiteSpace($title) -or $title.Length -gt 20) {
 
         try {
             # Generate a new title using OpenAI
@@ -70,6 +86,7 @@ foreach ($entry in $entries) {
     $title = $title -replace "\bwouldn't\b", "would-not"
     $title = $title -replace "\bhasn't\b", "has-not"
     $title = $title -replace "\bhaven't\b", "have-not"
+    $title = $title -replace "\bLet’s\b", "let-us"
 
     
     $slug = ($title -replace '[:\/\\\*\?"<>\|#%\.,!—&‘’“”;()\[\]\{\}\+=@^~`]', '-' `
@@ -77,60 +94,63 @@ foreach ($entry in $entries) {
             -replace '-{2,}', '-' `
     ).Trim('-').ToLower()
 
-
     # Construct folder path
     $folderName = "{0:yyyy-MM-dd}-{1}" -f $date, $slug
     $signalFolder = Join-Path $outputRoot $folderName
-
-    # Ensure folder exists
-    if (-not (Test-Path  $signalFolder)) {
-        New-Item -ItemType Directory -Path  $signalFolder | Out-Null
+    if (!(Test-Path $signalFolder)) {
+        New-Item -Path $signalFolder -ItemType Directory | Out-Null
     }
 
     $signalMarkdownFile = Join-Path  $signalFolder "index.md"
-
-    Add-Type -AssemblyName System.Web
-    $ShareLinkDecoded = [System.Web.HttpUtility]::UrlDecode($post.ShareLink)
-    # Parse the post ID from the ShareLink
-    $postId = ($ShareLinkDecoded -split ':')[-1]
-
-    # Optional: you could parse these from external analytics data in future
-    $performance = [ordered]@{
-        impressions     = 0
-        members_reached = 0
-        reactions       = 0
-        comments        = 0
-        reposts         = 0
-    }
-
-    $platformSignal = @(
-        [ordered]@{
-            platform    = "LinkedIn"
-            post_url    = $ShareLinkDecoded
-            post_id     = $postId
-            post_date   = $date.ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
-            performance = $performance
+ 
+    if (!(Test-Path $signalMarkdownFile)) {
+        try {
+            # Generate a new description using OpenAI
+            $bodyPrompt = Get-Prompt -PromptName "signal-linkedin-content.md" -Parameters @{
+                content = $post.ShareCommentary
+            }
+            $BodyContent = Get-OpenAIResponse -Prompt $bodyPrompt
         }
-    )
-
-    # Build frontmatter with nested platform_signal
-    $frontMatter = [ordered]@{
-        title           = $title
-        date            = $date.ToString("yyyy-MM-ddTHH:mm:sszzz")
-        slug            = $slug
-        draft           = $true
-        source          = "LinkedIn"
-        platform_signal = $platformSignal
+        catch {
+            throw "Error generating body content: $_"
+        }
+        # Parse the post ID from the ShareLink
+        $postId = ($ShareLinkDecoded -split ':')[-1]
+        # Optional: you could parse these from external analytics data in future
+        $performance = [ordered]@{
+            impressions     = 0
+            members_reached = 0
+            reactions       = 0
+            comments        = 0
+            reposts         = 0
+        }
+        $platformSignal = @(
+            [ordered]@{
+                platform    = "LinkedIn"
+                post_url    = $ShareLinkDecoded
+                post_id     = $postId
+                post_date   = $date.ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")
+                performance = $performance
+            }
+        )
+        # Build frontmatter with nested platform_signal
+        $frontMatter = [ordered]@{
+            title            = $title
+            date             = $date.ToString("yyyy-MM-ddTHH:mm:sszzz")
+            slug             = $slug
+            draft            = $true
+            source           = "LinkedIn"
+            platform_signals = $platformSignal
+        }
+        $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "", $signalMarkdownFile, $signalFolder )
+        $hugoMarkdown.BodyContent = $BodyContent
+        # Save markdown file    
+        Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
+        Write-Host "Created: $signalMarkdownFile"
+    }
+    else {
+        Write-Host "File already exists: $signalMarkdownFile"
     }
 
-   
-    $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "", $signalMarkdownFile, $signalFolder )
-
-    $hugoMarkdown.BodyContent = $BodyContent
-
-    # Save markdown file    
-    Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
-
-
-    Write-Host "Created: $signalMarkdownFile"
+    
 }
