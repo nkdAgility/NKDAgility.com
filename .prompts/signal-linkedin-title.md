@@ -2,8 +2,6 @@ You are an expert in **Generative Experience Optimisation (GEO)**. Your task is 
 
 **Guidelines:**
 
-- Use the **first line of the content** as the title **if it is suitable and under 60 characters**.
-- If the first line is too long or unsuitable, generate a clear and concise title.
 - The title must:
 
   - Clearly convey the **main idea or topic**
@@ -18,6 +16,6 @@ You are an expert in **Generative Experience Optimisation (GEO)**. Your task is 
 
 Content:
 
-|||
-{{content}}  
-|||
+```
+{{content}}
+```

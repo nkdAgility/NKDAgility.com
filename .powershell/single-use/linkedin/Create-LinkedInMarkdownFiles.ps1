@@ -32,6 +32,9 @@ foreach ($entry in $entries) {
     $BodyContent = $null
     $ShareLinkDecoded = $null
     $post = $null
+    ## begin
+    $post = $entry.Post
+
     Add-Type -AssemblyName System.Web
     $ShareLinkDecoded = [System.Web.HttpUtility]::UrlDecode($post.ShareLink)
 
@@ -40,63 +43,74 @@ foreach ($entry in $entries) {
         continue
     }
 
-    $post = $entry.Post
+   
     $date = [datetime]::Parse($post.Date)
 
-    $title = ($BodyContent -split "`r?`n" | Select-Object -First 1) -split '\. ' | Select-Object -First 1
-    $title = $title.Trim(".- ")
+    # Loop until we get a unique slug
+    $maxAttempts = 5
+    $attempt = 0
+    do {
+        $title = ($post.ShareCommentary -split "`r?`n" | Select-Object -First 1) -split '\. ' | Select-Object -First 1
+        $title = $title.Trim(".- ")
+        if ([string]::IsNullOrWhiteSpace($title) -or $title.Length -gt 70 -or $attempt -gt 0) {
+            try {
+                $titlePrompt = Get-Prompt -PromptName "signal-linkedin-title.md" `
+                    -Parameters @{ content = if ($attempt -lt 1) { $title } else { $post.ShareCommentary } }
 
-
-    if ([string]::IsNullOrWhiteSpace($title) -or $title.Length -gt 20) {
-
-        try {
-            # Generate a new title using OpenAI
-            $titlePrompt = Get-Prompt -PromptName "signal-linkedin-title.md" -Parameters @{
-                content = $post.ShareCommentary
+                $title = Get-OpenAIResponse -Prompt $titlePrompt
             }
-            $title = Get-OpenAIResponse -Prompt $titlePrompt
-        }
-        catch {
-            throw "Error generating title: $_"
+            catch {
+                throw "Error generating title: $_"
+            }
         }
 
+        # Normalise contractions (your existing logic here...)
+        # Normalize common contractions for slugs
+        $title = $title -replace "\bcan't\b", "can-not"
+        $title = $title -replace "\bwon't\b", "will-not"
+        $title = $title -replace "\bit's\b", "it-is"
+        $title = $title -replace "\bI'm\b", "i-am"
+        $title = $title -replace "\bthey're\b", "they-are"
+        $title = $title -replace "\bwe're\b", "we-are"
+        $title = $title -replace "\byou're\b", "you-are"
+        $title = $title -replace "\bI've\b", "i-have"
+        $title = $title -replace "\bwe've\b", "we-have"
+        $title = $title -replace "\bthey've\b", "they-have"
+        $title = $title -replace "\bI'll\b", "i-will"
+        $title = $title -replace "\bthey'll\b", "they-will"
+        $title = $title -replace "\bthere's\b", "there-is"
+        $title = $title -replace "\bthat's\b", "that-is"
+        $title = $title -replace "\bdidn't\b", "did-not"
+        $title = $title -replace "\bdoesn't\b", "does-not"
+        $title = $title -replace "\bdon't\b", "do-not"
+        $title = $title -replace "\bshouldn't\b", "should-not"
+        $title = $title -replace "\bcouldn't\b", "could-not"
+        $title = $title -replace "\bwouldn't\b", "would-not"
+        $title = $title -replace "\bhasn't\b", "has-not"
+        $title = $title -replace "\bhaven't\b", "have-not"
+        $title = $title -replace "\bLet’s\b", "let-us"
+        $title = $title -replace "\’s\b", ""
+        $title = $title -replace "\'s\b", ""
+
+        # Slugify
+        $slug = ($title -replace '[:\/\\\*\?"<>\|#%\.,!—&‘’“”;()\[\]\{\}\+=@^~`]', '-' `
+                -replace '\s+', '-' `
+                -replace '-{2,}', '-' `
+        ).Trim('-').ToLower()
+
+        # Folder path
+        $folderName = "{0:yyyy-MM-dd}-{1}" -f $date, $slug
+        $signalFolder = Join-Path $outputRoot $folderName
+        Write-Output "Attempt $attempt : $signalFolder"
+        $attempt++
+    } while ((Test-Path $signalFolder) -and ($attempt -lt $maxAttempts))
+
+    if ($attempt -ge $maxAttempts) {
+        throw "Could not generate a unique slug after $maxAttempts attempts: $title => $slug"
+        exit
     }
 
-    # Clean up title 
-    # Normalize common contractions for slugs
-    $title = $title -replace "\bcan't\b", "can-not"
-    $title = $title -replace "\bwon't\b", "will-not"
-    $title = $title -replace "\bit's\b", "it-is"
-    $title = $title -replace "\bI'm\b", "i-am"
-    $title = $title -replace "\bthey're\b", "they-are"
-    $title = $title -replace "\bwe're\b", "we-are"
-    $title = $title -replace "\byou're\b", "you-are"
-    $title = $title -replace "\bI've\b", "i-have"
-    $title = $title -replace "\bwe've\b", "we-have"
-    $title = $title -replace "\bthey've\b", "they-have"
-    $title = $title -replace "\bI'll\b", "i-will"
-    $title = $title -replace "\bthey'll\b", "they-will"
-    $title = $title -replace "\bthere's\b", "there-is"
-    $title = $title -replace "\bthat's\b", "that-is"
-    $title = $title -replace "\bdidn't\b", "did-not"
-    $title = $title -replace "\bdoesn't\b", "does-not"
-    $title = $title -replace "\bdon't\b", "do-not"
-    $title = $title -replace "\bshouldn't\b", "should-not"
-    $title = $title -replace "\bcouldn't\b", "could-not"
-    $title = $title -replace "\bwouldn't\b", "would-not"
-    $title = $title -replace "\bhasn't\b", "has-not"
-    $title = $title -replace "\bhaven't\b", "have-not"
-    $title = $title -replace "\bLet’s\b", "let-us"
 
-    
-    $slug = ($title -replace '[:\/\\\*\?"<>\|#%\.,!—&‘’“”;()\[\]\{\}\+=@^~`]', '-' `
-            -replace '\s+', '-' `
-            -replace '-{2,}', '-' `
-    ).Trim('-').ToLower()
-
-    # Construct folder path
-    $folderName = "{0:yyyy-MM-dd}-{1}" -f $date, $slug
-    $signalFolder = Join-Path $outputRoot $folderName
     if (!(Test-Path $signalFolder)) {
         New-Item -Path $signalFolder -ItemType Directory | Out-Null
     }
