@@ -17,11 +17,11 @@ tags: []
 ResourceId: 0iq-XTDNbfx
 ResourceImport: false
 ResourceType: signals
+layout: signal
 ResourceContentOrigin: Hybrid
 resourceTypes:
 - signal
 source: internal
-layout: signal
 url: /resources/signals/:slug
 platform_signals:
 - platform: LinkedIn

@@ -9,6 +9,7 @@ aliases:
 ResourceId: _0eaUkX1o1q
 ResourceImport: false
 ResourceType: signals
+layout: signal
 ResourceContentOrigin: human
 draft: true
 source: LinkedIn

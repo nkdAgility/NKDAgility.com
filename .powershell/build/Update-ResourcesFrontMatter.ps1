@@ -162,6 +162,18 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource'
     }
 
+    switch ($ResourceType) {
+        "blog" {   
+        }
+        "videos" { 
+                    
+        }
+        "signals" {
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'layout' -fieldValue "signal" -addAfter 'slug' -Overwrite
+        }
+    }
+
+
     $slug = ($title -replace '[:\/\\\*\?"<>\|#%\.,!—&‘’“”;()\[\]\{\}\+=@^~`]', '-' `
             -replace '\s+', '-' `
             -replace '-{2,}', '-' `
@@ -174,6 +186,10 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     else {
         Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'slug' -addAfter 'date'
     }
+
+
+
+
     # =================Add aliases===================
     $aliases = @()
    

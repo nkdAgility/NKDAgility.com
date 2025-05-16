@@ -9,6 +9,7 @@ aliases:
 ResourceId: _o_vjO--kSl
 ResourceImport: false
 ResourceType: signals
+layout: signal
 ResourceContentOrigin: human
 draft: true
 source: LinkedIn

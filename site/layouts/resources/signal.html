@@ -23,7 +23,7 @@
     </ul>
 
     <div class="tab-content mt-3" id="myTabContent">
-      {{ with .Params.platform_signal }}
+      {{ with .Params.platform_signals }}
         {{ range $index, $item := . }}
           <div class="tab-pane fade {{ if eq $index 0 }}show active{{ end }}" id="{{ .platform }}" role="tabpanel" aria-labelledby="signals-tab">
             {{ if  eq .platform "LinkedIn" }}

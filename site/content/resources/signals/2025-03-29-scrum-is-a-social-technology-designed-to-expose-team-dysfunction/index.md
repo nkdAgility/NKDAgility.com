@@ -15,6 +15,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:49Z
+layout: signal
 description: Explains how Scrum reveals team dysfunctions by clarifying roles and accountability, highlighting its purpose to expose issues that hinder value delivery and improvement.
 date: 2025-03-29T16:30:02+00:00
 weight: 420
