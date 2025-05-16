@@ -7,6 +7,9 @@
 . ./.powershell/_includes/ResourceHelpers.ps1
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
+$ErrorActionPreference = 'Stop'
+$levelSwitch.MinimumLevel = 'Information'
+
 # Paths
 $inputPath = ".\.data\matched_resource_posts_with_comments.json"
 $outputRoot = "site\content\resources\signals"
