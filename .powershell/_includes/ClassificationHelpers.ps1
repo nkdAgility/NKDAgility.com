@@ -611,13 +611,19 @@ function Get-ConfidenceFromAIResponse {
         }
         $AIResponseJson = $AIResponseJson -replace '(:\s*\d+(?:\.\d+)?)(\")', '$1'
         # Use regex to find the reasoning value and fix embedded quotes
-        # Fix embedded quotes in "reasoning"
-        $AIResponseJson = $AIResponseJson -replace '"reasoning":\s*"((?:[^"\\]|\\.)*)"', {
-            param($match)
-            $original = $match.Groups[1].Value
-            $escaped = $original -replace '"', "'"
-            '"reasoning": "' + $escaped + '"'
-        }.GetNewClosure()
+        # Match the reasoning line safely, capturing content between the first two quotes after the key
+        if ($AIResponseJson -match '"reasoning"\s*:\s*"([^"]*?)"') {
+            $fullMatch = $matches[0]
+            $originalValue = $matches[1]
+            $fixedValue = $originalValue -replace '"', "'"
+
+            # Safely replace only the matched block in $AIResponseJson
+            $escapedMatch = [regex]::Escape($fullMatch)
+            $AIResponseJson = [regex]::Replace($AIResponseJson, $escapedMatch, "`"reasoning`": `"$fixedValue`"")
+        }
+
+
+        
         $AIResponse = $AIResponseJson | ConvertFrom-Json -ErrorAction Stop
     }
     catch {

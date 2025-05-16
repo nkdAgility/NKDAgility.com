@@ -3,18 +3,9 @@
     "FrontMatter": {
       "title": "The false claim that Scrum is immutable",
       "description": "Clarifies that Scrum is flexible and adaptable, not strictly immutable, and highlights the importance of transparency when modifying its core framework or practices.",
-      "ResourceId": "0iq-XTDNbfx",
       "date": "2024-06-25T11:37:00Z",
       "weight": 700.0,
-      "ResourceType": "signals",
-      "ResourceContentOrigin": "Hybrid",
-      "ResourceImport": false,
-      "resourceTypes": [
-        "signal"
-      ],
-      "source": "internal",
-      "layout": "signal",
-      "url": "/resources/signals/:slug",
+      "slug": "every-unreleased-feature-is-a-cost",
       "aliases": [
         "/resources/nTipEJck6ez",
         "/resources/0iq-XTDNbfx"
@@ -22,11 +13,24 @@
       "aliasesArchive": [
         "/resources/nTipEJck6ez"
       ],
+      "concepts": [
+        "Framework"
+      ],
       "categories": [
         "Scrum"
       ],
       "tags": [],
-      "platform_signal": [
+      "ResourceId": "0iq-XTDNbfx",
+      "ResourceImport": false,
+      "ResourceType": "signals",
+      "layout": "signal",
+      "ResourceContentOrigin": "Hybrid",
+      "resourceTypes": [
+        "signal"
+      ],
+      "source": "internal",
+      "url": "/resources/signals/:slug",
+      "platform_signals": [
         {
           "platform": "LinkedIn",
           "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256",
@@ -58,10 +62,7 @@
       ],
       "Watermarks": {
         "description": "2025-05-07T13:02:48Z"
-      },
-      "concepts": [
-        "Framework"
-      ]
+      }
     },
     "BodyContent": "The false claim that \"Scrum is immutable\"!\n\nThe Scrum Guide makes it clear that it's a flexible approach that welcomes change, including in Scrum itself, during implementation. Every part of the \"Guide\" (including its name) discusses flexibility and adaptation.\n\nHowever, many will rally around the battle cry that \"Scrum is immutable\" and scream about its lack of fundamental agility, forgetting that it's a \"guide\" and that its creators were one-sixth of those who created the Agile Manifesto.\n\nThe paragraph that they take offence to is way down in the \"endnotes\" of the Scrum Guide and reads:\n\n\"The Scrum framework, as outlined herein, is immutable. While implementing only parts of Scrum is possible, the result is not Scrum. Scrum exists only in its entirety and functions well as a container for other techniques, methodologies, and practices.\"\n\nI can kind of understand where the confusion comes from if one only reads the \"The Scrum framework, as outlined herein, is immutable.\" and ignores the rest. Still, with the content of the rest of the guide, as well as the following sentence, it is quite explicitly clear that this refers to an immutability of definition and not of implementation! This is an extremely important distinction that results in the idea that:\n\nYou don't have to implement Scrum as it says in the Guide at all. You can do whatever you want.\n\nAll the Guide \"asks\" is that if we change the game's core rules, we should be honest, open, and transparent and that we are playing a different game. Is that too difficult a concept to grasp?\n\nThe only people having these arguments are practitioners; for everyone else... it's irrelevant. Focus instead on the intent and purpose...\n\n...are we delivering value regularly?\n...are we getting feedback regularly?\n...are we adapting our plans regularly?\n...are we reflecting regularly?\n\n![](./images/1719315444255.jpg)\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2024-06-25-the-false-claim-that-scrum-is-immutable\\index.md",
@@ -71,26 +72,23 @@
     "FrontMatter": {
       "title": "The majority of Scrum Masters are not fit for their position",
       "description": "Most Scrum Masters lack essential Scrum knowledge, with only 39% meeting core standards. Poor competency threatens team success and highlights the need for better training.",
-      "ResourceId": "nTipEJck6ez",
       "date": "2024-06-03T14:44:00Z",
       "weight": 705.0,
-      "ResourceType": "signals",
-      "ResourceContentOrigin": "Hybrid",
+      "slug": "every-unreleased-feature-is-a-cost",
+      "aliases": [
+        "/resources/nTipEJck6ez"
+      ],
+      "ResourceId": "nTipEJck6ez",
       "ResourceImport": false,
+      "ResourceType": "signals",
+      "layout": "signal",
+      "ResourceContentOrigin": "Hybrid",
       "resourceTypes": [
         "signal"
       ],
       "source": "internal",
-      "layout": "signal",
       "url": "/resources/signals/:slug",
-      "aliases": [
-        "/resources/nTipEJck6ez"
-      ],
-      "categories": [
-        "Uncategorized"
-      ],
-      "tags": [],
-      "platform_signal": [
+      "platform_signals": [
         {
           "platform": "LinkedIn",
           "post_url": "https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256",
@@ -123,7 +121,11 @@
       "Watermarks": {
         "description": "2025-05-07T13:02:52Z"
       },
-      "concepts": []
+      "concepts": [],
+      "categories": [
+        "Uncategorized"
+      ],
+      "tags": []
     },
     "BodyContent": "🚨 The majority of Scrum Masters are not fit for their position! 🚨\n\nAccording to data from ScrumMatch (which validates Scrum Master capability with in-person reviews), most Scrum Masters lack the necessary knowledge and understanding of Scrum to effectively lead their teams.\n\n![Scrum Match Data](./images/1717422284084.jpg)\n\n📊 The numbers tell a chilling story:\n\n- ❌ 38% are grossly incompetent: These individuals, despite holding Scrum Master roles, have no understanding of Scrum and likely haven't even read the Scrum Guide.\n- ❌ 10% are also incompetent: They've read the Scrum Guide but can't apply its principles effectively and yet still apply for Scrum Master roles.\n- ⚠️ 13% can apply Scrum at a basic level: This is not sufficient for a Scrum Master and should be the minimum expected of any Scrum Team member.\n\n😨 Worse many of the low skilled Scrum Masters assessed had been in the role for a decade or more!\n\nAnd that's 61% of Scrum Masters? Alarmingly, some are even celebrating being part of this group, mistakenly believing it makes them a good hire.\n🚫 It does not.\n\n✅ This leaves only the top 39% (just over one-third) of Scrum Masters able to fulfil any aspect of the accountability described in the Scrum Guide, with a mere 3% able to fulfil it entirely.\n\n📉 This is why Agile Coaches and Scrum Masters are losing their jobs: In the boom times of the agile economy, these incompetent individuals were overlooked, but now, as times are tougher, the wheat is being separated from the chaff. 🌾\n\nLet's strive for better standards and ensure our Scrum Masters are truly equipped to lead! 💪 hashtag#ScrumMastery hashtag#AgileLeadership hashtag#ContinuousImprovement\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2024-06-03-the-majority-of-scrum-masters-are-not-fit-for-their-position\\index.md",

@@ -20,7 +20,7 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\signals" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -162,7 +162,23 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource'
     }
 
-    $slug = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-' -replace '-{2,}', '-').Trim('-').ToLower()
+    switch ($ResourceType) {
+        "blog" {   
+        }
+        "videos" { 
+                    
+        }
+        "signals" {
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'layout' -fieldValue "signal" -addAfter 'slug' -Overwrite
+        }
+    }
+
+
+    $slug = ($title -replace '[:\/\\\*\?"<>\|#%\.,!—&‘’“”;()\[\]\{\}\+=@^~`]', '-' `
+            -replace '\s+', '-' `
+            -replace '-{2,}', '-' `
+    ).Trim('-').ToLower()
+
     $hugoSlugSimulation = ($hugoMarkdown.FrontMatter.title -replace '[^A-Za-z0-9._~]+', '-' -replace '-{2,}', '-' ).Trim('-').ToLower()
     If ($hugoSlugSimulation -ne $slug) {
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $slug  -addAfter 'date'
@@ -170,6 +186,10 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     else {
         Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'slug' -addAfter 'date'
     }
+
+
+
+
     # =================Add aliases===================
     $aliases = @()
    
