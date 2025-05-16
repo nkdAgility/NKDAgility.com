@@ -162,7 +162,11 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceImportOriginalSource'
     }
 
-    $slug = ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-' -replace '-{2,}', '-').Trim('-').ToLower()
+    $slug = ($title -replace '[:\/\\\*\?"<>\|#%\.,!—&‘’“”;()\[\]\{\}\+=@^~`]', '-' `
+            -replace '\s+', '-' `
+            -replace '-{2,}', '-' `
+    ).Trim('-').ToLower()
+
     $hugoSlugSimulation = ($hugoMarkdown.FrontMatter.title -replace '[^A-Za-z0-9._~]+', '-' -replace '-{2,}', '-' ).Trim('-').ToLower()
     If ($hugoSlugSimulation -ne $slug) {
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $slug  -addAfter 'date'
