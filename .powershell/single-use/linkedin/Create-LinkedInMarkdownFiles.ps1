@@ -49,6 +49,7 @@ foreach ($entry in $entries) {
     # Loop until we get a unique slug
     $maxAttempts = 5
     $attempt = 0
+    $attemptOutput = @()
     do {
         $title = ($post.ShareCommentary -split "`r?`n" | Select-Object -First 1) -split '\. ' | Select-Object -First 1
         $title = $title.Trim(".- ")
@@ -101,11 +102,12 @@ foreach ($entry in $entries) {
         # Folder path
         $folderName = "{0:yyyy-MM-dd}-{1}" -f $date, $slug
         $signalFolder = Join-Path $outputRoot $folderName
-        Write-Output "Attempt $attempt : $signalFolder"
+        $attemptOutput += "Attempt $attempt : $signalFolder"
         $attempt++
     } while ((Test-Path $signalFolder) -and ($attempt -lt $maxAttempts))
 
     if ($attempt -ge $maxAttempts) {
+        $attemptOutput
         throw "Could not generate a unique slug after $maxAttempts attempts: $title => $slug"
         exit
     }
