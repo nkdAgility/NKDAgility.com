@@ -1,11 +1,11 @@
 ---
-title: There no such thing as "good" technical debt.
+title: There no such thing as "good" technical debt
 description: Technical debt always harms productivity and system stability. Ignoring it leads to inefficiency and risk, making it essential to address rather than accept or normalise.
 date: 2025-04-19T15:30:34+01:00
 weight: 1000
 slug: there-no-such-thing-as-good-technical-debt
 aliases:
-- /resources/lLNjkL_zGQa
+  - /resources/lLNjkL_zGQa
 ResourceId: lLNjkL_zGQa
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,24 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7319381907710873600
-  post_id: "7319381907710873600"
-  post_date: 2025-04-19T14:30:34Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7319381907710873600
+    post_id: "7319381907710873600"
+    post_date: 2025-04-19T14:30:34Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:21Z
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
-
 ---
+
 Let’s put this to rest: there’s no such thing as "good" technical debt.
 
 If new engineers take weeks to become productive, your system is unreadable. If every change introduces faults, your architecture is fragile. If you’re manually handling tasks that should be automated, you’re building inefficiency into your process.

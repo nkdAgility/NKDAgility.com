@@ -1,11 +1,11 @@
 ---
-title: Every unreleased feature is a cost."
+title: Every unreleased feature is a cost
 description: Unreleased features create hidden costs and risks. Regular software delivery reduces failure rates, rework, and missed opportunities, ensuring real value is delivered.
 date: 2025-02-05T16:30:01+00:00
 weight: 1000
 slug: every-unreleased-feature-is-a-cost
 aliases:
-- /resources/PNGuJocqSoD
+  - /resources/PNGuJocqSoD
 ResourceId: PNGuJocqSoD
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,24 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7292942555711746052
-  post_id: "7292942555711746052"
-  post_date: 2025-02-05T16:30:01Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7292942555711746052
+    post_id: "7292942555711746052"
+    post_date: 2025-02-05T16:30:01Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:08Z
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
-
 ---
+
 Every unreleased feature is a cost.
 
 Many teams treat software development like a factory, assuming that as long as work is being done, value is being created. But without delivery, all that effort is meaningless.

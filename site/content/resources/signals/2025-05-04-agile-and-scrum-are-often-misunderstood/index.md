@@ -1,11 +1,11 @@
 ---
-title: Agile and Scrum are often misunderstood."
+title: Agile and Scrum are often misunderstood
 description: Agile and Scrum expose underlying team and workflow issues, helping organisations address real problems rather than masking dysfunction with process or tools.
 date: 2025-05-04T15:30:30+01:00
 weight: 1000
 slug: agile-and-scrum-are-often-misunderstood
 aliases:
-- /resources/Oi_yiyEHZbM
+  - /resources/Oi_yiyEHZbM
 ResourceId: Oi_yiyEHZbM
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,24 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7324817708770877440
-  post_id: "7324817708770877440"
-  post_date: 2025-05-04T14:30:30Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7324817708770877440
+    post_id: "7324817708770877440"
+    post_date: 2025-05-04T14:30:30Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:01Z
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
-
 ---
+
 Agile and Scrum are often misunderstood.
 
 They don't fix your problems.  

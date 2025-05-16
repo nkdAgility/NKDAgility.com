@@ -1,11 +1,11 @@
 ---
-title: Most teams don’t fail because they lack frameworks."
+title: Most teams don’t fail because they lack frameworks
 description: Teams struggle not from lacking frameworks, but from ignoring feedback. Success depends on acting on signals, fostering safety, and empowering real change.
 date: 2025-05-05T15:30:43+01:00
 weight: 1000
 slug: most-teams-don-t-fail-because-they-lack-frameworks
 aliases:
-- /resources/sX2UVhPk6cL
+  - /resources/sX2UVhPk6cL
 ResourceId: sX2UVhPk6cL
 ResourceImport: false
 ResourceType: signals
@@ -13,24 +13,24 @@ ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7325180153402114049
-  post_id: "7325180153402114049"
-  post_date: 2025-05-05T14:30:43Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7325180153402114049
+    post_id: "7325180153402114049"
+    post_date: 2025-05-05T14:30:43Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:00Z
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
-
 ---
+
 Most teams don’t fail because they lack frameworks.  
 They fail because they don't act on the feedback those frameworks expose.
 
