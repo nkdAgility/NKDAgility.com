@@ -1,6 +1,8 @@
 ---
 title: Kanban Guide
-description: Explains Kanban as a visual, pull-based method for optimising workflow, value delivery, and continuous improvement using defined practices, metrics, and flow theory.
+description: Comprehensive reference outlining Kanban principles, practices, and metrics for optimising workflow, value delivery, and continuous improvement in knowledge work.
+date: 2025-05-01
+weight: 840
 ResourceId: uD_5MdHKu1Q
 ResourceImport: false
 ResourceType: guides
@@ -18,14 +20,16 @@ references:
 recommendedContent:
 - collection: practices
   path: _practices/service-level-expectation-sle.md
-date: 2024-09-17
-weight: 840
 creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about Kanban Guide and how it can help you in your Agile journey!
   title: Kanban Guide
+Watermarks:
+  description: 2025-05-16T10:06:25Z
+concepts:
+- Method
 categories:
 - Kanban
 - Lean
@@ -39,24 +43,27 @@ tags:
 - Throughput
 - Lean Principles
 - Lean Thinking
-Watermarks:
-  description: 2025-05-07T12:58:12Z
-concepts:
-- Method
 
 ---
-December 2020
+This document aims to be a unifying reference for the community by offering the minimal guidance for Kanban. Depending on the context, various approaches can complement Kanban, allowing it to accommodate the full spectrum of value delivery and organizational challenges.
 
-By reducing [Kanban]({{< ref "/categories/kanban" >}}) to its essential components, the hope is that this guide will be a unifying reference for the community. By building upon Kanban fundamentals, the strategy presented here can accommodate the full spectrum of [value delivery]({{< ref "/tags/value-delivery" >}}) and organizational challenges.
-{: .lead}
+This guide has conventions for some terms. They are not meant to replace any other existing definitions but to clarify how they are intended to be applied here.
 
-Any use of the word Kanban in this document specifically means the holistic set of concepts in this guide.
+## Conventions Used
+
+**Kanban or Kanban system:** the holistic set of concepts in this guide––specifically as pertains to knowledge work.
+
+**Stakeholder:** An entity, individual, or group responsible for, interested in, or affected by the inputs, activities, and outcomes of the Kanban system.
+
+**Value:** Either a potential or realized benefit for a stakeholder. Examples include meeting the needs of the customer, the end-user, the organization, and the environment.
+
+**Visualize, visualization:** Any method to convey ideas effectively, including conceptual clarification, not necessarily only visual.
+
+**Risk:** The chance that something bad could happen.
 
 ## Definition of Kanban
 
-Kanban is a strategy for optimizing the flow of value through a process that uses a visual, pull-based system. There may be various ways to define value, including consideration of the needs of the customer, the end-user, the organization, and the environment, for example.
-
-Kanban comprises the following three practices working in tandem:
+Kanban is a strategy for optimizing the flow of value through a process. It comprises the following three practices working in tandem:
 
 - Defining and visualizing a workflow
 - Actively managing items in a workflow
@@ -66,20 +73,21 @@ In their implementation, these Kanban practices are collectively called a Kanban
 
 ## Why Use Kanban?
 
-Central to the definition of Kanban is the concept of flow. Flow is the movement of potential value through a system. As most workflows exist to optimize value, the strategy of Kanban is to optimize value by optimizing flow. Optimization does not necessarily imply maximization. Rather, value optimization means striving to find the right balance of effectiveness, efficiency, and predictability in how work gets done:
+Central to the definition of Kanban is the concept of flow. Flow is the movement of potential value through a system. As most workflows exist to optimize value, the strategy of Kanban is to optimize value by optimizing flow. Value optimization means striving to find the right balance of effectiveness, efficiency, and predictability:
 
-- An effective workflow is one that delivers what customers want when they want it.
+- An effective workflow delivers what stakeholders want when they want it.
 - An efficient workflow allocates available economic resources as optimally as possible to deliver value.
 - A predictable workflow means being able to accurately forecast value delivery within an acceptable degree of uncertainty.
-- The strategy of Kanban is to get members to ask the right questions sooner as part of a [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) effort in pursuit of these goals. Only by finding a sustainable balance among these three elements can value optimization be achieved.
 
-Because Kanban can work with virtually any workflow, its application is not limited to any one industry or context. Professional knowledge workers, such as those in finance, marketing, healthcare, and software (to name a few), have benefited from Kanban practices.
+The strategy of Kanban is to get Kanban system members to ask the right questions sooner as part of a continuous improvement effort in pursuit of these goals. Kanban system members should aim for a sustainable balance among these three elements. Ultimately, the strategy of Kanban is to help you understand trade-offs and manage risk.
+
+Because Kanban can work with virtually any workflow, its application is not limited to any specific industry or context. Professional knowledge workers in finance, utilities, healthcare, and software (to name a few) have benefited from Kanban practices. Kanban can be used at any scale and in most contexts where value is delivered.
 
 ## Kanban Theory
 
-Kanban draws on established flow theory, including but not limited to: [systems thinking]({{< ref "/tags/systems-thinking" >}}), [lean]({{< ref "/categories/lean" >}}) principles, queuing theory (batch size and queue size), variability, and quality control. Continually improving a Kanban system over time based on these theories is one way that organizations can attempt to optimize the delivery of value.
+Kanban draws on established flow theory, including but not limited to systems thinking, lean principles, queuing theory (batch size and queue size), variation, and quality control. Continually improving a Kanban system based on these theories is one way organizations can attempt to optimize the delivery of value.
 
-The theory upon which Kanban is based is also shared by many existing value-oriented methodologies and frameworks. Because of these similarities, Kanban can and should be used to augment those delivery techniques.
+Many existing value-oriented approaches share the theory upon which Kanban is based. Because of these similarities, Kanban can and should be used to augment those delivery techniques.
 
 ## Kanban Practices
 
@@ -87,76 +95,83 @@ The theory upon which Kanban is based is also shared by many existing value-orie
 
 Optimizing flow requires defining what flow means in a given context. The explicit shared understanding of flow among Kanban system members within their context is called a Definition of Workflow (DoW). DoW is a fundamental concept of Kanban. All other elements of this guide depend heavily on how workflow is defined.
 
-**At minimum**, members must create their DoW using all of the following elements:
+**At a minimum,** Kanban system members must create their DoW using all of the following elements:
 
 - A definition of the individual units of value that are moving through the workflow. These units of value are referred to as work items (or items).
-- A definition for when work items are started and finished within the workflow. Your workflow may have more than one started or finished points depending on the work item.
-  One or more defined states that the work items flow through from started to finished. Any work items between a started point and a finished point are considered work in progress (WIP).
+- A definition for when work items are started and finished within the workflow. Depending on the work item, your workflow may have more than one started or finished point.
+- One or more defined states that the work items flow through from started to finished. Any work items between a started point and a finished point are considered work in progress (WIP).
 - A definition of how WIP will be controlled from started to finished.
 - Explicit policies about how work items can flow through each state from started to finished.
-- A service level expectation (SLE), which is a forecast of how long it should take a work item to flow from started to finished.
+- A service level expectation (SLE), which is a forecast of how long it should take a work item to flow from started to finished. The SLE itself has two parts: a period of elapsed time and a probability associated with that period (e.g., “85% of work items will be finished in eight days or less”). The SLE should be based on historical cycle time and, once calculated, should be visualized on the DoW. If historical cycle time data does not exist, a best guess will do until there is enough historical data for a proper SLE calculation.
+  The order in which these are implemented is not important as long as they are all adopted.
 
-Kanban system members often require additional DoW elements such as values, principles, and [working agreements]({{< ref "/tags/working-agreements" >}}) depending on the team’s circumstances. The options vary, and there are resources beyond this guide that can help with deciding which ones to incorporate.
+Kanban system members often require additional DoW elements, such as values, principles, and working agreements, depending on the Kanban system members’ circumstances. The options vary, and there are resources beyond this guide that can help with deciding which ones to incorporate.
 
-The visualization of the DoW is called a Kanban board. Making at least the minimum elements of DoW transparent on the Kanban board is essential to processing knowledge that informs optimal workflow operation and facilitates continuous process improvement.
+Kanban system members also often require more than one DoW. Those multiple DoWs could be for multiple groups of Kanban system members, different levels of the organization, etc. While this guide prescribes no minimum or maximum number of DoWs, it encourages establishing a DoW wherever the Kanban system members require connecting flow to value realization.
 
-There are no specific guidelines for how a visualization should look as long as it encompasses the shared understanding of how value gets delivered. Consideration should be given to all aspects of the DoW (e.g., work items, policies) along with any other context-specific factors that may affect how the process operates. Kanban system members are limited only by their imagination regarding how they make flow transparent.
+The visualization of a DoW is a Kanban board. Making at least the minimum elements of a DoW transparent on a Kanban board is essential to processing knowledge that informs optimal workflow operation and facilitates continuous improvement.
+
+There are no specific guidelines for how a visualization should look. Consideration should be given to all aspects of a DoW (e.g., work items, policies) along with any other context-specific factors that may affect how value flows. Kanban system members are limited only by their imagination regarding how they make flow transparent.
 
 ### Actively Managing Items in a Workflow
 
-Active management of items in a workflow can take several forms, including but not limited to the following:
+Items in the workflow must be managed actively. Active management of items in a workflow can take several forms, including but not limited to the following:
 
 - Controlling WIP.
-- Avoiding work items piling up in any part of the workflow.
 - Ensuring work items do not age unnecessarily, using the SLE as a reference.
 - Unblocking blocked work.
 
-A common practice is for Kanban system members to review the active management of items regularly. Although some may choose a daily meeting, there is no requirement to formalize the review or meet at a regular cadence so long as active management takes place.
+A common practice is for Kanban system members to review the active items regularly. This review can occur continuously, at regular intervals, or through a combination of both.
 
-### Controlling Work In Progress
+Kanban system members must explicitly control the number of work items in a workflow from started to finished. That control can be represented on a Kanban board in any way that Kanban system members deem appropriate. Ideally, the system would operate neither above nor below the agreed upon control.
 
-Kanban system members must explicitly control the number of work items in a workflow from start to finish. That control is usually represented as numbers or slots/tokens on a Kanban board that are called WIP limits. A WIP limit can include (but is not limited to) work items in a single column, several grouped columns/lanes/areas, or a whole board.
+An effect of controlling WIP is that it should create a pull system; Kanban system members should start work on an item (pull or select) only when there is a clear signal that there is capacity to do so. When WIP drops below the control set in the DoW, that can be a signal to select new work. Kanban system members should refrain from selecting more than the number of work items into a given part of the workflow beyond the WIP control.
 
-A side effect of controlling WIP is that it creates a pull system. It is called a pull system because Kanban system members start work on an item (pulls or selects) only when there is a clear signal that there is capacity to do so. When WIP drops below the limit in the DoW, that is a signal to select new work. Members should refrain from pulling/selecting more than the number of work items into a given part of the workflow as defined by the WIP Limit. In rare cases, system members may agree to pull additional work items beyond the WIP Limit, but it should not be routine.
+Controlling WIP helps flow and often improves the Kanban system members’ collective focus, commitment, and collaboration. Any acceptable exceptions to controlling WIP should be made explicit as part of the DoW.
 
-Controlling WIP not only helps workflow but often also improves the Kanban system members’ collective focus, commitment, and collaboration. Any acceptable exceptions to controlling WIP should be made explicit as part of the DoW.
+### Improving the Workflow
 
-### Service Level Expectation
+Given an explicit Definition of Workflow, the Kanban system members’ responsibility is to continuously improve their workflow to achieve a better balance of effectiveness, efficiency, and predictability. Continual study of the system can guide potential improvements to the DoW.
 
-The SLE is a forecast of how long it should take a single work item to flow from started to finished. The SLE itself has two parts: a period of elapsed time and a probability associated with that period (e.g., “85% of work items will be finished in eight days or less”). The SLE should be based on historical [cycle time]({{< ref "/tags/cycle-time" >}}), and once calculated, should be visualized on the Kanban board. If historical cycle time data does not exist, a best guess will do until there is enough historical data for a proper SLE calculation.
+It is a common practice to review the DoW from time to time to discuss and implement any changes needed. There is no requirement, however, to wait for a formal meeting at a regular cadence to make these changes. Kanban system members can and should make just-in-time alterations as the context dictates. There is also nothing that prescribes improvements to workflow to be small or incremental. If the Kanban system members feel that a significant change is needed, then that is what they should implement.
 
-## Improving the Workflow
+### Flow Metrics
 
-Having made the DoW explicit, the Kanban system members’ responsibility is to continuously improve their workflow to achieve a better balance of effectiveness, efficiency, and predictability. The information they gain from visualization and other Kanban measures guide what tweaks to the DoW may be most beneficial.
+The application of Kanban requires collecting and analyzing a minimum set of flow metrics. They reflect the Kanban system’s current health and performance and will help inform decisions about how value is delivered. The four mandatory flow metrics to track in Kanban are:
 
-It is common practice to review the DoW from time to time to discuss and implement any changes needed. There is no requirement, however, to wait for a formal meeting at a regular cadence to make these changes. Kanban system members can and should make just-in-time alterations as the context dictates. There is also nothing that prescribes improvements to workflow to be small and incremental. If visualization and the Kanban measures indicate that a big change is needed, that is what the members should implement.
+- **WIP:** The number of work items started but not finished.
+- **Throughput:** The number of work items finished per unit of time. Note the measurement of throughput is the exact count of work items.
+- **Work Item Age:** The elapsed time between when a work item started and the current date.
+- **Cycle Time:** The elapsed time between when a work item started and when a work item finished.
+  Provided that the Kanban system members use these metrics as described in this guide, they can refer to any of these measures using any other names they choose (e.g.,Cycle Time could be Flow Time, Throughput could be Delivery Rate, etc.).
 
-## Kanban Measures
+For these four mandatory flow metrics, started and finished refer to how the Kanban system members have established those points in their DoW.
 
-The application of Kanban requires the collection and analysis of a minimum set of flow measures (or metrics). They are a reflection of the Kanban system’s current health and performance and will help inform decisions about how value gets delivered.
+In and of themselves, these metrics are meaningless unless they can inform one or more of the three Kanban practices. It is up to the Kanban system members to decide how best to leverage these metrics (e.g., visualize them in charts, assess variation, etc.).
 
-The four mandatory flow measures to track are:
-
-- **WIP**: The number of work items started but not finished.
-- **[Throughput]({{< ref "/tags/throughput" >}})**: The number of work items finished per unit of time. Note the measurement of throughput is the exact count of work items.
-- **Work Item Age**: The amount of elapsed time between when a work item started and the current time.
-- **Cycle Time**: The amount of elapsed time between when a work item started and when a work item finished.
-- For these mandatory four flow measures, started and finished refer to how the Kanban system members have defined those terms in the DoW.
-
-Provided that the members use these metrics as described in this guide, members can refer to any of these measures using any other names as they choose.
-
-In and of themselves, these metrics are meaningless unless they can inform one or more of the three Kanban practices. Therefore, visualizing these metrics using charts is recommended. It does not matter what kind of charts are used as long as they enable a shared understanding of the Kanban system’s current health and performance.
-
-The flow measures listed in this guide represent only the minimum required for the operation of a Kanban system. Kanban system members may and often should use additional context-specific measures that assist data-informed decisions.
+The flow metrics listed in this guide represent only the minimum required for operating a Kanban system. Kanban system members may and often should use additional context-specific measures that assist in making data-informed decisions.
 
 ## Endnote
 
-Kanban’s practices and measures are immutable. Although implementing only parts of Kanban is possible, the result is not Kanban. One can and likely should add other principles, methodologies, and techniques to the Kanban system, but the minimum set of practices, measures, and the spirit of optimizing value must be preserved.
+One can and likely should add other principles, methodologies, and techniques to the Kanban system. Still, the minimum set of practices, metrics, and the spirit of optimizing value must be preserved.
 
 ## History of Kanban
 
-The present state of Kanban can trace its roots to the Toyota Production System (and its antecedents) and the work of people like Taiichi Ohno and W. Edwards Deming. The collective set of practices for knowledge work that is now commonly referred to as Kanban mostly originated on a team at Corbis in 2006. Those practices quickly spread to encompass a large and diverse international community that has continued to enhance and evolve the approach.
+The present state of Kanban can be traced to the Toyota Production System (and its antecedents) and the work of people like Taiichi Ohno and W. Edwards Deming. The collective set of practices for knowledge work, now commonly referred to as Kanban, mainly originated on a team at Corbis in 2006. Those practices quickly spread to encompass a large and diverse international community that has continued to enhance and evolve the approach.
 
-Extracted from [Kanban Guide](https://kanbanguides.org/){:target="\_blank"}
+## 2025 Adaptations
 
-This publication is offered for license under the Attribution ShareAlike license of Creative Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at http://creativecommons.org/licenses/by-sa/4.0/, By using this Kanban Guide, you acknowledge that you have read and agree to be bound by the terms of the Attribution ShareAlike license of Creative Commons. This work is licensed by Orderly Disruption Limited and Daniel S. Vacanti, Inc. under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+- To convey intent, conventions were added for: Kanban, Kanban system, stakeholder, value, risk, visualize, and visualization
+- Value realization could be for stakeholders, including but not limited to customers
+- Simpler definition of Kanban, specifically as pertains to knowledge work
+- Service Level Expectation was moved into the Definition of Workflow section
+- Less explicit (and hence more flexible) how WIP is controlled
+- More explicit about multiple DoWs, variation, connecting flow to value realization
+- Simplified the three practices, and select (items) is mentioned more often
+- Kanban Measures renamed to Flow Metrics
+- More explicit about the flexibility around flow metric names
+- Deleted reference to immutability of Kanban
+
+## License
+
+This publication is offered for license under the Attribution ShareAlike license of Creative Commons, accessible at [http://creativecommons.org/licenses/by-sa/4.0/legalcode](http://creativecommons.org/licenses/by-sa/4.0/legalcode) and also described in summary form at [http://creativecommons.org/licenses/by-sa/4.0/](http://creativecommons.org/licenses/by-sa/4.0/). By using this Kanban Guide, you acknowledge that you have read and agree to be bound by the terms of the Attribution ShareAlike license of Creative Commons.
