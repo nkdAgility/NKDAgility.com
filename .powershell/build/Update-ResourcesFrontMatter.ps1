@@ -20,7 +20,7 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 20
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -55,11 +55,6 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     #     Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'abstract' -fieldValue $abstract -addAfter 'title'
     # }
 
-    if (-not $hugoMarkdown.FrontMatter.date) {
-        $date = Get-Date -Format "yyyy-MM-ddT09:00:00Z"
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $date -addAfter 'title'
-    }
-
     # Safely handle missing descriptionUpdate
     $descUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.Description
     $descUpdateDate = if ($descUpdateString) { [DateTime]::Parse($descUpdateString) } else { [DateTime]::MinValue }
@@ -81,6 +76,19 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         }
        
     }
+    else {
+        Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'description' -addAfter 'title'
+    }
+
+    if (-not $hugoMarkdown.FrontMatter.date) {
+        $date = Get-Date -Format "yyyy-MM-ddT09:00:00Z"
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue $date -addAfter 'description'
+    }
+    else {
+        Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'date' -addAfter 'description'
+    }
+
+   
 
     #=================ResourceId=================
     $ResourceId = $null;
@@ -94,7 +102,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         $ResourceId = New-ResourceId
     }
 
-    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'description'
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'ResourceId' -fieldValue $ResourceId -addAfter 'date'
 
     #=================ResourceType=================
     $ResourceType = Get-ResourceType  -FilePath  $hugoMarkdown.FolderPath
@@ -158,7 +166,10 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $hugoSlugSimulation = ($hugoMarkdown.FrontMatter.title -replace '[^A-Za-z0-9._~]+', '-' -replace '-{2,}', '-' ).Trim('-').ToLower()
     If ($hugoSlugSimulation -ne $slug) {
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $slug  -addAfter 'date'
-    }   
+    }
+    else {
+        Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'slug' -addAfter 'date'
+    }
     # =================Add aliases===================
     $aliases = @()
    
@@ -229,7 +240,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     $conceptsClassification = Get-ClassificationsForType -ClassificationType "concepts" -hugoMarkdown $hugoMarkdown
     $conceptsClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $conceptsClassification | Select-Object -First 1
     $concepts = $conceptsClassificationOrdered | ForEach-Object { $_.category }
-    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'concepts' -values @($concepts) -Overwrite
+    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'concepts' -values @($concepts) -Overwrite -addAfter "aliasesArchive"
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
     #-----------------Categories-------------------
     $categoryClassification = Get-ClassificationsForType -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
@@ -238,13 +249,13 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     if ($categories.Count -eq 0) {
         $categories = @("Uncategorized")
     }
-    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite
+    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'categories' -values @($categories) -Overwrite -addAfter "concepts"
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
     #-----------------Tags-------------------
     $tagClassification = Get-ClassificationsForType -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
     $tagClassificationOrdered = Get-ClassificationOrderedList -minScore 80 -classifications $tagClassification | Select-Object -First 15
     $tags = $tagClassificationOrdered | ForEach-Object { $_.category }
-    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite
+    Update-StringList -frontMatter $hugoMarkdown.FrontMatter -fieldName 'tags' -values @($tags) -Overwrite -addAfter "categories"
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
     #-----------------catalog_full------------------
     # $keywordsClassification = Get-ClassificationsForType -ClassificationType "catalog_full" -hugoMarkdown $hugoMarkdown
