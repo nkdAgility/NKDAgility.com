@@ -11,7 +11,6 @@ ResourceImport: false
 ResourceType: signals
 layout: signal
 ResourceContentOrigin: human
-draft: true
 source: LinkedIn
 platform_signals:
 - platform: LinkedIn

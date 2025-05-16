@@ -1,6 +1,5 @@
 ---
 ResourceContentOrigin: human
-draft: true
 source: LinkedIn
 platform_signals:
 - platform: LinkedIn
