@@ -2,7 +2,7 @@
 title: Every unreleased feature is a cost
 description: Unreleased features create hidden costs and risks. Regular software delivery reduces failure rates, rework, and missed opportunities, ensuring real value is delivered.
 date: 2025-02-05T16:30:01+00:00
-weight: 1000
+weight: 325
 slug: every-unreleased-feature-is-a-cost
 aliases:
 - /resources/PNGuJocqSoD
@@ -26,10 +26,25 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:08Z
-concepts: []
+concepts:
+- Tenet
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- DevOps
+- Engineering Excellence
+tags:
+- Value Delivery
+- Deployment Frequency
+- Team Performance
+- Product Delivery
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+- Frequent Releases
+- Market Adaptability
+- Time to Market
+- Release Management
+- Agile Philosophy
 
 ---
 Every unreleased feature is a cost.

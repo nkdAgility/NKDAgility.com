@@ -2,7 +2,7 @@
 title: If software is not delivered, it is not valuable
 description: Undelivered software provides no value. Frequent, iterative releases reduce risk, cost, and failure, enabling faster learning and real user impact in software development.
 date: 2025-03-01T16:30:03+00:00
-weight: 1000
+weight: 320
 slug: if-software-is-not-delivered-it-is-not-valuable
 aliases:
 - /resources/KMId0yk2uL1
@@ -26,10 +26,23 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:38Z
-concepts: []
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Product Development
+tags:
+- Software Development
+- Frequent Releases
+- Deployment Frequency
+- Value Delivery
+- Time to Market
+- Product Delivery
+- Metrics and Learning
+- Market Adaptability
+- Continuous Delivery
+- Release Management
+- Agile Philosophy
+- Pragmatic Thinking
 
 ---
 If software is not delivered, it is not valuable.

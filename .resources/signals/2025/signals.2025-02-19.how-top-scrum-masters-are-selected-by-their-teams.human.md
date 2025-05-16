@@ -2,7 +2,7 @@
 title: How Top Scrum Masters Are Selected by Their Teams
 description: Explains how Scrum Masters are naturally chosen by teams based on trust, experience, and leadership, highlighting the importance of peer selection over external assignment.
 date: 2025-02-19T16:30:01+00:00
-weight: 1000
+weight: 385
 slug: how-top-scrum-masters-are-selected-by-their-teams
 aliases:
 - /resources/dqFTsIhZF_A
@@ -28,8 +28,21 @@ Watermarks:
   description: 2025-05-16T15:56:51Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Technical Leadership
+- Leadership
+tags:
+- Software Development
+- Pragmatic Thinking
+- Scrum Master
+- Organisational Culture
+- Team Motivation
+- Social Technologies
+- Agile Leadership
+- Coaching
+- Team Collaboration
+- Professional Scrum
+- Organisational Agility
 
 ---
 The best Scrum Masters don’t apply for the role—they are chosen by their peers.

@@ -2,7 +2,7 @@
 title: Challenging Misconceptions About Behaviour in Agile Teams
 description: Explores common misconceptions about Agile teams, clarifying that true agility demands discipline, planning, and professionalism—not chaos or lack of accountability.
 date: 2025-02-13T16:30:02+00:00
-weight: 1000
+weight: 380
 slug: challenging-misconceptions-about-behaviour-in-agile-teams
 aliases:
 - /resources/lVebZgXa1DP
@@ -26,10 +26,18 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:59Z
-concepts: []
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Scrum
+tags:
+- Software Development
+- Agile Philosophy
+- Professional Scrum
+- Organisational Agility
+- Team Collaboration
+- Pragmatic Thinking
 
 ---
 I keep hearing people justify bad behaviour in Agile teams by saying, “That’s how Agile works.” No. It isn’t.

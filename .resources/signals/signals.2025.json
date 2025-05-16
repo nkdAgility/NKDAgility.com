@@ -3861,7 +3861,7 @@
       "title": "let-us be blunt—if a Scrum Team isn’t delivering, is it effective",
       "description": "Explores Scrum Team effectiveness, emphasising that consistent delivery is essential and highlighting the Scrum Master's accountability for enabling successful outcomes.",
       "date": "2025-03-07T16:30:00+00:00",
-      "weight": 630.0,
+      "weight": 385.0,
       "slug": "let-us-be-blunt-if-a-scrum-team-isn-t-delivering-is-it-effective",
       "aliases": [
         "/resources/CB56pgg1LmZ"
@@ -3891,14 +3891,20 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:23Z"
       },
-      "concepts": [],
+      "concepts": [
+        "Accountability"
+      ],
       "categories": [
+        "Scrum",
+        "Product Development",
         "Leadership"
       ],
       "tags": [
+        "Software Development",
         "Team Performance",
         "Increment",
         "Scrum Master",
+        "Product Delivery",
         "Working Software",
         "Value Delivery"
       ]
@@ -3912,7 +3918,7 @@
       "title": "Scrum Master Effectiveness Begins with Consistent Delivery",
       "description": "Explains why consistent delivery is essential for Scrum Master effectiveness, highlighting its role in enabling feedback, improvement, and team value in agile teams.",
       "date": "2025-03-06T16:30:29+00:00",
-      "weight": 1000.0,
+      "weight": 440.0,
       "slug": "scrum-master-effectiveness-begins-with-consistent-delivery",
       "aliases": [
         "/resources/KWm8S39saqg"
@@ -3944,9 +3950,15 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Scrum",
+        "Product Development",
+        "Technical Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Scrum Master",
+        "Software Development",
+        "Product Delivery"
+      ]
     },
     "BodyContent": "Scrum Masters love to talk about effectiveness, but here’s a reality check—effectiveness starts with delivery.\n\nA team that delivers something of low value can still inspect, adapt, and improve. A team that delivers nothing has nothing to improve.\n\nThe Scrum Master is accountable for effectiveness, and that starts with delivery.\n\nNo delivery means no feedback. No feedback means no improvement. No improvement means no value.\n\nDelivery is the minimum bar.\n\nScrum Masters—are you ensuring teams deliver every sprint? If not, what’s stopping you?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-06-scrum-master-effectiveness-begins-with-consistent-delivery\\index.md",
@@ -3957,7 +3969,7 @@
       "title": "Scrum Masters: Enabling Teams, Fostering Agility, Removing Blockers",
       "description": "Explains the Scrum Master's role in ensuring team delivery by fostering agility, removing blockers, and being accountable for improving team effectiveness each sprint.",
       "date": "2025-03-05T16:30:00+00:00",
-      "weight": 1000.0,
+      "weight": 345.0,
       "slug": "scrum-masters-enabling-teams-fostering-agility-removing-blockers",
       "aliases": [
         "/resources/IrDYI5d-kXv"
@@ -3987,11 +3999,25 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:31Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Technical Leadership",
+        "Leadership"
+      ],
+      "tags": [
+        "Scrum Master",
+        "Software Development",
+        "Value Delivery",
+        "Team Performance",
+        "Product Delivery",
+        "Professional Scrum",
+        "Operational Practices",
+        "Pragmatic Thinking",
+        "Organisational Agility"
+      ]
     },
     "BodyContent": "Scrum Masters talk about enabling teams, fostering agility, and removing blockers. But here’s the real question—are you accountable for delivery?\n\nToo many see Scrum Masters as facilitators, shielding teams from pressure. That’s missing the point. If a Scrum Team isn’t delivering, the Scrum Master is accountable for improving the effectiveness of the Scrum Team so that they can deliver.\n\nNot because they write code. Not because they own the backlog. But because it’s their job to create the conditions where delivery happens—every sprint.\n\nIf the team is stuck, who fixes it?  \nIf delivery is slow, who addresses the constraints?  \nIf the system is broken, who makes it better?\n\nThat’s the accountability of a Scrum Master. It’s not about doing the work—it’s about making sure the work gets done effectively.\n\nIf your teams aren’t delivering, shouldn’t someone be accountable for that?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-05-scrum-masters-enabling-teams-fostering-agility-removing-blockers\\index.md",
@@ -4002,7 +4028,7 @@
       "title": "Understanding Blocked Columns and Stalled Work in Project Boards",
       "description": "Explains why using blocked columns for stalled tasks on project boards harms workflow, and suggests better ways to highlight and address blocked work without losing progress.",
       "date": "2025-03-04T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 305.0,
       "slug": "understanding-blocked-columns-and-stalled-work-in-project-boards",
       "aliases": [
         "/resources/6K6oGV9pRbC"
@@ -4032,11 +4058,22 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:34Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Kanban",
+        "Product Development"
+      ],
+      "tags": [
+        "Pragmatic Thinking",
+        "Software Development",
+        "Team Performance",
+        "Lean Thinking",
+        "Flow Efficiency",
+        "Operational Practices",
+        "Miscellaneous"
+      ]
     },
     "BodyContent": "Blocked columns seem harmless—just another column to keep track of stalled work. But they aren’t harmless. They’re workflow kryptonite.\n\nHere’s the problem: A column should represent a state that work naturally flows through. But if your team is routinely moving work into “Blocked,” it means getting stuck has become part of the process. That’s a serious issue.\n\nWhat happens next? The work sits. The team assumes someone else will handle it. WIP limits inflate. Context gets lost. Tasks lose priority. Before you know it, the board is cluttered with forgotten work, and real progress is suffocating under the weight of “maybe someday.”\n\nA better approach? Keep blocked work in its current column. Tag it, highlight it, raise the alarm—but never let it disappear into a column that signals \"not my problem.\"\n\nHow does your team surface and handle blocked work?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-04-understanding-blocked-columns-and-stalled-work-in-project-boards\\index.md",
@@ -4047,7 +4084,7 @@
       "title": "Engineering can fix technical debt, but leadership has to invest in it",
       "description": "Technical debt requires leadership investment to resolve; without support for automation and quality improvements, continuous delivery is not achievable for engineering teams.",
       "date": "2025-03-03T16:30:35+00:00",
-      "weight": 1000.0,
+      "weight": 130.0,
       "slug": "engineering-can-fix-technical-debt-but-leadership-has-to-invest-in-it",
       "aliases": [
         "/resources/XRePaJiX1kj"
@@ -4077,11 +4114,27 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:35Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Strategy"
       ],
-      "tags": []
+      "categories": [
+        "Leadership",
+        "Technical Leadership",
+        "DevOps"
+      ],
+      "tags": [
+        "Software Development",
+        "Continuous Delivery",
+        "Frequent Releases",
+        "Engineering Practices",
+        "Operational Practices",
+        "Product Delivery",
+        "Technical Excellence",
+        "Market Adaptability",
+        "Pragmatic Thinking",
+        "Team Performance",
+        "Value Delivery"
+      ]
     },
     "BodyContent": "Engineering can fix technical debt, but leadership has to invest in it. Without that investment, continuous delivery remains a pipe dream.\n\nCompanies don't succeed by asking teams to “work harder.” They funded the work to automate pipelines, improve test coverage, and shift left on quality. They empowered engineers to fix bottlenecks without waiting for external approval.\n\nContinuous delivery isn’t just an engineering challenge—it’s a leadership decision. If your teams can’t deliver continuously, ask yourself: what’s leadership prioritising instead?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-03-engineering-can-fix-technical-debt-but-leadership-has-to-invest-in-it\\index.md",
@@ -4092,7 +4145,7 @@
       "title": "At the end of the day, Kanban is about improving flow",
       "description": "Kanban focuses on improving workflow by removing bottlenecks and constraints, reducing work in progress, and increasing process efficiency—not by overworking people.",
       "date": "2025-03-03T15:46:26+00:00",
-      "weight": 1000.0,
+      "weight": 470.0,
       "slug": "at-the-end-of-the-day-kanban-is-about-improving-flow",
       "aliases": [
         "/resources/laeSXbgT7Hm"
@@ -4122,11 +4175,23 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:36Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Kanban",
+        "Lean",
+        "Product Development"
+      ],
+      "tags": [
+        "Operational Practices",
+        "Flow Efficiency",
+        "Team Performance",
+        "Software Development",
+        "Lean Principles",
+        "Lean Thinking",
+        "Pragmatic Thinking"
+      ]
     },
     "BodyContent": "At the end of the day, Kanban is about improving flow. Not micromanaging individuals. Not squeezing more hours out of people. Just removing the constraints that slow everything down.\n\nNigel Thurlow 🇺🇸🇺🇦🇬🇧 nails it:\n\n> “The Kanban Method is designed to improve flow (Process Cycle Efficiency) by improving throughput (units per unit time) by removing constraints (including bottlenecks) in the system.”\n\nWant better delivery? Don’t push people to work faster. Reduce WIP. Find the blockers. Improve efficiency. The system will take care of the rest.\n\nWhat’s the biggest constraint in your workflow right now?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-03-at-the-end-of-the-day-kanban-is-about-improving-flow\\index.md",
@@ -4137,7 +4202,7 @@
       "title": "Realistic Expectations When Hiring Junior Scrum Masters",
       "description": "Understand the risks of hiring inexperienced junior Scrum Masters, including higher costs, team issues, and project delays, versus investing in experienced agile leadership.",
       "date": "2025-03-02T16:30:02+00:00",
-      "weight": 1000.0,
+      "weight": 470.0,
       "slug": "realistic-expectations-when-hiring-junior-scrum-masters",
       "aliases": [
         "/resources/lm-SKQuLcVd"
@@ -4169,7 +4234,8 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Scrum",
+        "Leadership"
       ],
       "tags": []
     },
@@ -4182,7 +4248,7 @@
       "title": "If software is not delivered, it is not valuable",
       "description": "Undelivered software provides no value. Frequent, iterative releases reduce risk, cost, and failure, enabling faster learning and real user impact in software development.",
       "date": "2025-03-01T16:30:03+00:00",
-      "weight": 1000.0,
+      "weight": 320.0,
       "slug": "if-software-is-not-delivered-it-is-not-valuable",
       "aliases": [
         "/resources/KMId0yk2uL1"
@@ -4212,11 +4278,26 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:38Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Product Development"
+      ],
+      "tags": [
+        "Software Development",
+        "Frequent Releases",
+        "Deployment Frequency",
+        "Value Delivery",
+        "Time to Market",
+        "Product Delivery",
+        "Metrics and Learning",
+        "Market Adaptability",
+        "Continuous Delivery",
+        "Release Management",
+        "Agile Philosophy",
+        "Pragmatic Thinking"
+      ]
     },
     "BodyContent": "If software is not delivered, it is not valuable.\n\nMany organizations invest months or years building features that never reach users. The longer software remains undelivered, the more risk, cost, and lost opportunity accumulate.\n\nThe CHAOS Report shows that long-cycle projects fail far more often than those with frequent, iterative releases. DORA research highlights that high-performing teams release more often, recover from failures faster, and reduce overall costs.\n\nIf you are not delivering frequently, you are not learning fast enough. Are you building products or just building assumptions?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-03-01-if-software-is-not-delivered-it-is-not-valuable\\index.md",
@@ -4227,7 +4308,7 @@
       "title": "Staging Environments Do Not Prevent Production Failures",
       "description": "Staging environments can’t fully replicate production, often leading to false confidence. Real risk reduction comes from safe, incremental releases to actual users.",
       "date": "2025-02-28T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 325.0,
       "slug": "staging-environments-do-not-prevent-production-failures",
       "aliases": [
         "/resources/syS5yJ_GthF"
@@ -4257,11 +4338,28 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:40Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "DevOps",
+        "Engineering Excellence"
+      ],
+      "tags": [
+        "Continuous Delivery",
+        "Software Development",
+        "Pragmatic Thinking",
+        "Frequent Releases",
+        "Release Management",
+        "Technical Mastery",
+        "Operational Practices",
+        "Product Delivery",
+        "Deployment Strategies",
+        "Deployment Frequency",
+        "Engineering Practices",
+        "Value Delivery"
+      ]
     },
     "BodyContent": "There’s a hard truth most teams don’t want to hear: your staging environment isn’t saving you from production failures. It’s just giving you false confidence.\n\nFor years, teams have clung to the Dev-Test-Staging-Production model, thinking it’s the gold standard for safety. But here’s the problem—staging is a mirage. It never truly mirrors production, and every delay in feedback makes it harder to fix problems when they inevitably surface in the real world.\n\nThe reality? The only way to know how software behaves in production is to put it in production.\n\nThis is why the best engineering teams are ditching the old way in favour of audience-based deployment—rolling out changes incrementally to real users, in production, with observability and automated safeguards in place. This isn’t reckless; it’s smart.\n\nIf you’re still relying on pre-prod environments for confidence, it’s time to ask yourself: Are they really reducing risk, or just making failures more expensive?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-28-staging-environments-do-not-prevent-production-failures\\index.md",
@@ -4272,7 +4370,7 @@
       "title": "A two-day Scrum Master certification doesn’t make you a Scrum Master",
       "description": "Practical experience is essential for effective Scrum Masters; certification alone is insufficient. True expertise comes from guiding teams, solving challenges, and delivering value.",
       "date": "2025-02-27T16:30:31+00:00",
-      "weight": 1000.0,
+      "weight": 320.0,
       "slug": "a-two-day-scrum-master-certification-doesn-t-make-you-a-scrum-master",
       "aliases": [
         "/resources/aYJLiPejAHG"
@@ -4304,9 +4402,19 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Product Development",
+        "Technical Leadership",
+        "Scrum"
       ],
-      "tags": []
+      "tags": [
+        "Pragmatic Thinking",
+        "Competence",
+        "Software Development",
+        "Product Delivery",
+        "Professional Scrum",
+        "Operational Practices",
+        "Agile Philosophy"
+      ]
     },
     "BodyContent": "A two-day Scrum Master certification doesn’t make you a Scrum Master.\n\nReal Scrum Masters are forged in the fire of delivering value with high-performing Scrum Teams. They’ve experienced the chaos, the challenges, and the victories. They’ve lived the agile ethos, battled organisational impediments, and facilitated continuous improvement.\n\nTheir knowledge extends beyond theory; they understand code quality, modern DevOps practices, and the intricacies of product delivery. If your entire experience is a certification, you’re not ready. And companies? Don’t expect your multi-million-dollar product to be shepherded by someone whose qualification fits on a PDF.\n\nExperience matters. Invest in it. Agile is not a buzzword; it’s a commitment to excellence, and your Scrum Master must embody that commitment through hard-earned experience.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-27-a-two-day-scrum-master-certification-doesn-t-make-you-a-scrum-master\\index.md",
@@ -4317,7 +4425,7 @@
       "title": "Do More Staging Environments Really Reduce Deployment Risk",
       "description": "Adding more staging environments does not reduce deployment risk; true safety comes from automated testing, continuous integration, and quality engineering practices.",
       "date": "2025-02-26T16:30:31+00:00",
-      "weight": 1000.0,
+      "weight": 155.0,
       "slug": "do-more-staging-environments-really-reduce-deployment-risk",
       "aliases": [
         "/resources/6VmmXorMZZW"
@@ -4347,11 +4455,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:42Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence",
+        "DevOps",
+        "Product Development"
+      ],
+      "tags": [
+        "Engineering Practices",
+        "Operational Practices",
+        "Frequent Releases",
+        "Product Delivery",
+        "Technical Excellence",
+        "Software Development",
+        "Automated Testing",
+        "Continuous Delivery",
+        "Continuous Integration",
+        "Technical Mastery",
+        "Pragmatic Thinking",
+        "Test Automation",
+        "Market Adaptability",
+        "Deployment Frequency",
+        "Value Delivery"
+      ]
     },
     "BodyContent": "The argument that more staging environments is rooted in a common fallacy: that staging environments reduce risk. They don’t. They create a false sense of security.\n\nWindows, Microsoft Teams, Starbucks POS; these platforms risk losing millions per hour during downtime. Yet they rely on continuous delivery and testing in production. Why? Because they understand that real safety comes from fast, automated feedback loops and quality built in from the start, not from artificial gates.\n\nThe only reason production deployments feel risky is because organisations underinvest in quality. Test-first development, continuous integration, automated testing, and audience-based deployments are proven strategies for reducing risk while delivering faster. Staging environments merely delay the discovery of issues—they don’t prevent them.\n\nIf your business can't tolerate downtime, the solution isn't more pre-production gates. It's engineering excellence through modern delivery practices. The choice isn't between staging or risk; it's between outdated practices and professionalism.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-26-do-more-staging-environments-really-reduce-deployment-risk\\index.md",
@@ -4362,7 +4490,7 @@
       "title": "Best Branching Strategies for Development Teams Explained",
       "description": "Explains why environment-based branching slows development, and recommends using feature flags and progressive rollouts for simpler, faster, and safer code delivery.",
       "date": "2025-02-25T16:30:02+00:00",
-      "weight": 1000.0,
+      "weight": 245.0,
       "slug": "best-branching-strategies-for-development-teams-explained",
       "aliases": [
         "/resources/9EP_gF2nD19"
@@ -4394,9 +4522,22 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Engineering Excellence",
+        "DevOps",
+        "Product Development"
       ],
-      "tags": []
+      "tags": [
+        "Software Development",
+        "Operational Practices",
+        "Continuous Delivery",
+        "Team Performance",
+        "Deployment Strategies",
+        "Modern Source Control",
+        "Technical Mastery",
+        "Product Delivery",
+        "Release Management",
+        "Frequent Releases"
+      ]
     },
     "BodyContent": "I see it all the time: teams structuring their branching strategy to mirror their environments. A dev branch for Dev, a staging branch for Staging, a release branch for Production.\n\nIt feels logical. It’s also a huge mistake.\n\nBranching by environment creates silos, increases complexity, and slows feedback loops to a crawl. Every additional branch is another place where drift can happen, another bottleneck before value reaches customers. Instead of using branches as proxies for environments, teams should deploy the same code everywhere and control exposure dynamically—with feature flags, progressive rollouts, and real-time observability.\n\nBranches should reflect work in progress, not artificial environments. If you’re still managing code like it’s 2005, it’s time to rethink how you deploy.\n\nHow does your team structure branches today? Is it helping or slowing you down?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-25-best-branching-strategies-for-development-teams-explained\\index.md",
@@ -4407,7 +4548,7 @@
       "title": "Scrum is built on empiricism—transparency, inspection, and adaptation",
       "description": "Explains why consistent delivery of usable increments is essential in Scrum, highlighting the Scrum Master's accountability for ensuring transparency, inspection, and adaptation.",
       "date": "2025-02-24T16:30:29+00:00",
-      "weight": 1000.0,
+      "weight": 535.0,
       "slug": "scrum-is-built-on-empiricism-transparency-inspection-and-adaptation",
       "aliases": [
         "/resources/P1tjFbyeVyU"
@@ -4437,11 +4578,25 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:44Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development"
+      ],
+      "tags": [
+        "Software Development",
+        "Scrum Master",
+        "Increment",
+        "Working Software",
+        "Professional Scrum",
+        "Product Delivery",
+        "Team Performance",
+        "Agile Frameworks",
+        "Pragmatic Thinking",
+        "Value Delivery"
+      ]
     },
     "BodyContent": "Scrum is built on empiricism—transparency, inspection, and adaptation. But what happens when there’s nothing to inspect?\n\nA Scrum Team that isn’t delivering isn’t a Scrum Team at all. If every sprint doesn’t produce a usable increment, you’re not doing Scrum. Period.\n\nHere’s where the Scrum Master comes in. Their accountability isn’t just to the team—it’s to the organisation. The business depends on delivery. Customers depend on working products.\n\nIf delivery isn’t happening, the Scrum Master owns that failure. They are accountable for creating an environment where delivery is inevitable.\n\nNo increment? No excuses. Own it. Fix it. Deliver.\n\nThoughts? How does your org handle this accountability?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-24-scrum-is-built-on-empiricism-transparency-inspection-and-adaptation\\index.md",
@@ -4452,7 +4607,7 @@
       "title": "Why Organisations Believe Their Software Is Too Complex for CD",
       "description": "Many organisations cite software complexity as a barrier to continuous delivery, but real obstacles are technical debt and lack of investment in quality and automation.",
       "date": "2025-02-24T10:51:31+00:00",
-      "weight": 1000.0,
+      "weight": 205.0,
       "slug": "why-organisations-believe-their-software-is-too-complex-for-cd",
       "aliases": [
         "/resources/T-sHn-OUIvR"
@@ -4482,11 +4637,25 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:45Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence",
+        "DevOps"
+      ],
+      "tags": [
+        "Software Development",
+        "Technical Mastery",
+        "Frequent Releases",
+        "Product Delivery",
+        "Continuous Delivery",
+        "Pragmatic Thinking",
+        "Value Delivery",
+        "Operational Practices",
+        "Engineering Practices",
+        "Technical Excellence"
+      ]
     },
     "BodyContent": "Every organisation claims their software is too complex for continuous delivery. It’s not. Complexity is an excuse, not a blocker.\n\nMicrosoft’s Azure DevOps team proved it. They moved from shipping new features every two years to every three weeks. At their peak, they were delivering nearly 300 features annually. This wasn’t because their codebase got simpler—it didn’t. They invested in quality practices, tackled technical debt head-on, and built the pipelines needed to deliver continuously.\n\nThe real blocker isn’t complexity. It’s the willingness to invest in fixing what’s broken. If Microsoft can do it at their scale, with their legacy systems, what’s your excuse?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-24-why-organisations-believe-their-software-is-too-complex-for-cd\\index.md",
@@ -4497,7 +4666,7 @@
       "title": "What Makes an Effective Scrum Master Beyond Meeting Facilitation",
       "description": "Explores key qualities of an effective Scrum Master, focusing on team empowerment, backlog management, collaboration, and removing organisational barriers for lasting impact.",
       "date": "2025-02-23T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 380.0,
       "slug": "what-makes-an-effective-scrum-master-beyond-meeting-facilitation",
       "aliases": [
         "/resources/uTkyoIh6f3c"
@@ -4527,11 +4696,30 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:46Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Scrum Master",
+        "Software Development",
+        "Pragmatic Thinking",
+        "Professional Scrum",
+        "Team Collaboration",
+        "Social Technologies",
+        "Product Delivery",
+        "Team Performance",
+        "Value Delivery",
+        "Coaching",
+        "Agile Leadership",
+        "Agile Frameworks",
+        "Operational Practices",
+        "Organisational Agility"
+      ]
     },
     "BodyContent": "A great Scrum Master isn’t measured by how well they facilitate meetings. It’s not about whether the Daily Scrum starts on time or if they keep the Sprint Retrospective engaging.\n\nA successful Scrum Master leaves behind a self-sustaining team—one that delivers valuable, high-quality products with predictability.\n\nTheir impact shows up in:\n- Empirical product planning—helping teams and stakeholders navigate uncertainty with real data.\n- Product Backlog management—supporting the Product Owner in defining goals that actually drive value.\n- Removing organisational barriers—not just within the team, but across the business.\n- Enabling cross-functional collaboration—making silos obsolete.\n- Helping the team deliver Done increments—not just finishing tasks, but delivering outcomes.\n\nIf a Scrum Master disappears and the team falls apart, they weren’t coaching. They were hand-holding.\n\nWant to know if your Scrum Master is effective? Ask yourself: Is the team better because of them?\n\nIf the answer isn’t a clear yes, something needs to change.\n\nWhat does a high-impact Scrum Master look like in your experience?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-23-what-makes-an-effective-scrum-master-beyond-meeting-facilitation\\index.md",
@@ -4542,7 +4730,7 @@
       "title": "Deploying Windows OS Directly to Production: Then vs Now",
       "description": "Explains how Windows OS updates shifted from infrequent, risky releases to safe, staged rollouts using ring-based deployment and real-time user feedback for reliability.",
       "date": "2025-02-22T16:30:00+00:00",
-      "weight": 1000.0,
+      "weight": 295.0,
       "slug": "deploying-windows-os-directly-to-production-then-vs-now",
       "aliases": [
         "/resources/6FqFYeSHQBg"
@@ -4572,11 +4760,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:48Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Engineering Excellence",
+        "DevOps"
+      ],
+      "tags": [
+        "Windows",
+        "Deployment Strategies",
+        "Pragmatic Thinking",
+        "Frequent Releases",
+        "Metrics and Learning",
+        "Operational Practices",
+        "Customer Focus",
+        "Software Development",
+        "Product Delivery",
+        "Release Management",
+        "Deployment Frequency",
+        "Continuous Delivery",
+        "Continuous Improvement",
+        "Organisational Agility",
+        "Continuous Learning"
+      ]
     },
     "BodyContent": "The idea of deploying an operating system like Windows directly to production would have been unthinkable a decade ago. But that’s exactly what Microsoft does now.\n\nThe old way, shipping a monolithic OS update every few years, was slow, brittle, and disconnected from real users. They needed faster feedback and a way to catch issues early.\n\nEnter ring-based deployment.\n\nInstead of shipping to everyone at once, Windows updates now roll out gradually:\n\n- ✅ First to internal engineers.\n- ✅ Then to Microsoft employees.\n- ✅ Then to millions of Windows Insiders across multiple tiers.\n- ✅ Finally, to general availability.\n\nAt every step, telemetry dictates whether a release moves forward or stops. Issues are identified before they hit the full user base.\n\nWindows is a local install. It runs on 900 million machines across an infinite combination of hardware and software. And yet, they still found a way to deploy incrementally, learn from real users, and roll forward safely.\n\nIf they can do it, what’s stopping your team?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-22-deploying-windows-os-directly-to-production-then-vs-now\\index.md",
@@ -4587,7 +4795,7 @@
       "title": "Rethinking Dev-Test-Staging-Production Pipelines for Safety",
       "description": "Explores why traditional Dev-Test-Staging-Production pipelines fall short and highlights audience-based deployment for safer, faster feedback in real production environments.",
       "date": "2025-02-21T16:30:30+00:00",
-      "weight": 1000.0,
+      "weight": 210.0,
       "slug": "rethinking-dev-test-staging-production-pipelines-for-safety",
       "aliases": [
         "/resources/3oUXWDsN6Qa"
@@ -4617,11 +4825,30 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:49Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence",
+        "Product Development",
+        "DevOps"
+      ],
+      "tags": [
+        "Pragmatic Thinking",
+        "Product Delivery",
+        "Software Development",
+        "Value Delivery",
+        "Frequent Releases",
+        "Deployment Strategies",
+        "Technical Mastery",
+        "Market Adaptability",
+        "Release Management",
+        "Continuous Delivery",
+        "Operational Practices",
+        "Product Validation",
+        "Metrics and Learning",
+        "Engineering Practices"
+      ]
     },
     "BodyContent": "For years, we convinced ourselves that Dev-Test-Staging-Production pipelines kept us safe. If we just had one more layer of validation and one more environment to test in, we'd catch the problems before they hit production.\n\nExcept… that was a lie.\n\nStaging environments aren’t production. They’re expensive illusions of safety. The data is different. The scale is different. The behaviours are different. And when failures inevitably show up in production anyway, teams scramble, wondering why their extensive pre-release testing didn’t catch the issue.\n\nModern software delivery isn’t about pretending production doesn’t exist; it’s about embracing it. Audience-based deployment (sometimes called ring-based deployment) is the smarter approach: releasing features to small, targeted user groups first, monitoring real-world behaviour, and expanding based on what the data tells us.\n\nYou don’t need more pre-production gates. You need faster feedback in production.\n\nAre you still clinging to staging environments? What’s stopping you from moving forward?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-21-rethinking-dev-test-staging-production-pipelines-for-safety\\index.md",
@@ -4632,7 +4859,7 @@
       "title": "Why Using a Blocked Column in Azure DevOps Is a Mistake",
       "description": "Explains why a “Blocked” column in Azure DevOps hinders workflow, and suggests using tags and tracking to manage blocked work more effectively and visibly.",
       "date": "2025-02-20T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 290.0,
       "slug": "why-using-a-blocked-column-in-azure-devops-is-a-mistake",
       "aliases": [
         "/resources/H8CRQrD64JY"
@@ -4662,11 +4889,21 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:50Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Kanban",
+        "DevOps"
+      ],
+      "tags": [
+        "Azure DevOps",
+        "Operational Practices",
+        "Pragmatic Thinking",
+        "Team Performance",
+        "Software Development",
+        "Azure Boards"
+      ]
     },
     "BodyContent": "If your team is using a “Blocked” column in Azure DevOps, you’re probably doing it wrong.\n\nWhy? Because work doesn’t flow through blocked—it stops there. And once it’s there, it tends to stay there.\n\nInstead of a blocked column, try this:\n\n- Use a Blocked tag on work items.\n- Colour-code the tag for visibility.\n- Keep blocked work in its active state on the board.\n- Track the frequency and causes of blockages.\n\nThis keeps the problem in sight while preventing blocked work from becoming a dumping ground. More importantly, it helps teams take action instead of waiting for work to magically resolve itself.\n\nHow does your team flag 'blocked' work?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-20-why-using-a-blocked-column-in-azure-devops-is-a-mistake\\index.md",
@@ -4677,7 +4914,7 @@
       "title": "How Top Scrum Masters Are Selected by Their Teams",
       "description": "Explains how Scrum Masters are naturally chosen by teams based on trust, experience, and leadership, highlighting the importance of peer selection over external assignment.",
       "date": "2025-02-19T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 385.0,
       "slug": "how-top-scrum-masters-are-selected-by-their-teams",
       "aliases": [
         "/resources/dqFTsIhZF_A"
@@ -4709,9 +4946,23 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Scrum",
+        "Technical Leadership",
+        "Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Software Development",
+        "Pragmatic Thinking",
+        "Scrum Master",
+        "Organisational Culture",
+        "Team Motivation",
+        "Social Technologies",
+        "Agile Leadership",
+        "Coaching",
+        "Team Collaboration",
+        "Professional Scrum",
+        "Organisational Agility"
+      ]
     },
     "BodyContent": "The best Scrum Masters don’t apply for the role—they are chosen by their peers.\n\nThey’ve earned trust, respect, and credibility through years of hands-on experience. They have seen the inner workings of Scrum Teams, understood the dynamics, and proven themselves as effective leaders.\n\nThese are the individuals who have facilitated complex conversations, resolved conflicts, and guided teams through turbulent times. If you want a Scrum Master who can drive real change, look at who your team already turns to for guidance.\n\nAssigning the role to someone external without the team's buy-in is a recipe for friction, not agility. Trust matters and the team’s voice matters even more. An authentic Scrum Master emerges naturally, gaining authority through action, not assignment.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-19-how-top-scrum-masters-are-selected-by-their-teams\\index.md",
@@ -4722,7 +4973,7 @@
       "title": "Key Skills Scrum Masters Need: Technical, Business, Organisational",
       "description": "Scrum Masters need technical, business, and organisational skills to guide teams, remove obstacles, drive value, and lead effective agile transformation.",
       "date": "2025-02-18T16:30:30+00:00",
-      "weight": 1000.0,
+      "weight": 455.0,
       "slug": "key-skills-scrum-masters-need-technical-business-organisational",
       "aliases": [
         "/resources/KVrBKTQ-Yc-"
@@ -4754,9 +5005,18 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Leadership",
+        "Product Development",
+        "Scrum"
       ],
-      "tags": []
+      "tags": [
+        "Competence",
+        "Scrum Master",
+        "Organisational Agility",
+        "Agile Leadership",
+        "Pragmatic Thinking",
+        "Agile Transformation"
+      ]
     },
     "BodyContent": "Scrum Masters must master three domains: technical, business, and organisational.\n\nAnything less is a disservice to the team, the Product Owner, and the business.\n\nThey must navigate complex systems, align work with strategic objectives, and confidently cause the removal of obstacles. An effective Scrum Master understands software development, advocates for business value, and influences organisational change. If you want real agility, hire real leaders.\n\nCertifications fade, but competence built through experience endures. Demand more from your Scrum Masters, and they will deliver more for your business.\n\nTrue agility requires bold leadership, and your Scrum Master must be that leader.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-18-key-skills-scrum-masters-need-technical-business-organisational\\index.md",
@@ -4767,7 +5027,7 @@
       "title": "The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master",
       "description": "Hiring an unqualified Scrum Master limits team growth, reduces agility, and hinders value delivery. Effective Scrum Masters drive change, coaching, and business alignment.",
       "date": "2025-02-17T16:30:17+00:00",
-      "weight": 1000.0,
+      "weight": 280.0,
       "slug": "the-fastest-way-to-cripple-a-scrum-team-hire-the-wrong-scrum-master",
       "aliases": [
         "/resources/567GkDxvlbX"
@@ -4797,11 +5057,29 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:53Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": []
+      "categories": [
+        "Technical Leadership",
+        "Product Development",
+        "Scrum"
+      ],
+      "tags": [
+        "Software Development",
+        "Scrum Master",
+        "Competence",
+        "Organisational Agility",
+        "Social Technologies",
+        "Pragmatic Thinking",
+        "Market Adaptability",
+        "Team Performance",
+        "Value Delivery",
+        "Professional Scrum",
+        "Coaching",
+        "Operational Practices",
+        "Team Motivation"
+      ]
     },
     "BodyContent": "The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master.\n\nToo many companies mistake the Scrum Master for a process admin. Someone to book meetings, write Jira tickets, and make sure the team follows “the rules.”\n\nThat’s not a Scrum Master. That’s an event planner.\n\nThe real Scrum Master is a lean-agile practitioner—someone who understands product strategy, DevOps, modern engineering, and team dynamics. They’re a change agent, not a note-taker.\n\nA strong Scrum Master:\n\n- Coaches the team to be self-managing, so they don’t depend on them.\n- Challenges the status quo and removes obstacles, instead of just escalating them.\n- Understands what good looks like in both product and engineering.\n- Connects the team with the business, ensuring alignment on value delivery.\n\nA weak Scrum Master? They turn into a Scrum Secretary, maintaining the illusion of agility while the team stagnates.\n\nIf you want Scrum to actually work, hire someone who sees Scrum as an enabler of high-performance teams—not just a set of meetings.\n\nSeen this mistake before?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-17-the-fastest-way-to-cripple-a-scrum-team-hire-the-wrong-scrum-master\\index.md",
@@ -4812,7 +5090,7 @@
       "title": "Would you hire a Junior CISO? A Junior Financial Director",
       "description": "Scrum Masters require proven expertise, not entry-level skills. Hiring juniors in this role risks team performance and agile success; experience is essential for effective leadership.",
       "date": "2025-02-17T10:06:07+00:00",
-      "weight": 1000.0,
+      "weight": 430.0,
       "slug": "would-you-hire-a-junior-ciso-a-junior-financial-director",
       "aliases": [
         "/resources/Lj-8s76yXLP"
@@ -4844,9 +5122,17 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Scrum",
+        "Technical Leadership",
+        "Leadership"
       ],
-      "tags": []
+      "tags": [
+        "Competence",
+        "Software Development",
+        "Scrum Master",
+        "Pragmatic Thinking",
+        "Agile Leadership"
+      ]
     },
     "BodyContent": "Would you hire a Junior CISO? A Junior Financial Director?\n\nOf course not.\n\nThese roles demand mastery, not potential. So why do some think a \"Junior Scrum Master\" is acceptable?\n\nScrum Masters must demonstrate technical, business, and organisational mastery from day one. They are the glue that holds agile teams together, ensuring continuous delivery of value through expertise, not guesswork. Anything less is a liability.\n\nThey are not learning on the job; they are leading from the front, navigating complex challenges, and driving organisational change.\n\nStop looking for junior Scrum Masters. Find those who have already earned their stripes within a Scrum Team. Your team deserves nothing less, and your product’s success depends on it. True agility comes from experience, and your Scrum Master must embody that.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-17-would-you-hire-a-junior-ciso-a-junior-financial-director\\index.md",
@@ -4857,7 +5143,7 @@
       "title": "Hiring a Scrum Master is hard",
       "description": "Finding a skilled Scrum Master is challenging; true effectiveness requires deep Scrum knowledge, coaching ability, and alignment with your team's business and technical needs.",
       "date": "2025-02-16T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 390.0,
       "slug": "hiring-a-scrum-master-is-hard",
       "aliases": [
         "/resources/CHfV0DI2Plv"
@@ -4887,11 +5173,24 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:56Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Scrum",
+        "Technical Leadership",
+        "Product Development"
+      ],
+      "tags": [
+        "Scrum Master",
+        "Organisational Agility",
+        "Competence",
+        "Pragmatic Thinking",
+        "Product Delivery",
+        "Professional Scrum",
+        "Software Development",
+        "Social Technologies"
+      ]
     },
     "BodyContent": "Hiring a Scrum Master is hard. Not because the role is rare—there are plenty of CVs with “Scrum Master” slapped on them—but because too many organisations still don’t know what they actually need.\n\nA Scrum Master isn’t a project manager with a fancy title. They’re accountable for the effectiveness of the Scrum Team, which means they need a deep understanding of Scrum as a social technology and how it enables adaptive solutions.\n\nDo they need to be technical? Not necessarily, but likely. They need to understand what effective looks like in your business and technical domain. A Scrum Master who can’t speak the language of your teams won’t be much use when it comes to removing impediments, coaching the team, and driving organisational change.\n\nA certification isn’t a guarantee of competence, but it’s a decent starting point. If someone isn’t willing to spend $200 on a PSM I or $250 on a PSM II to validate their knowledge, what does that say about their commitment?\n\nIf you want a Scrum Master who makes a difference, stop looking for someone to “run stand-ups” and start looking for someone who challenges assumptions, coaches teams, and ensures delivery of real value.\n\nHiring? Or struggling to define what a Scrum Master should do?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-16-hiring-a-scrum-master-is-hard\\index.md",
@@ -4902,7 +5201,7 @@
       "title": "Not all delays are the same",
       "description": "Explains the difference between waiting and blocked tasks, why clear distinction matters in workflows, and how to track and address sources of delay for better optimisation.",
       "date": "2025-02-15T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 310.0,
       "slug": "not-all-delays-are-the-same",
       "aliases": [
         "/resources/pgCUc2qV2_q"
@@ -4932,11 +5231,20 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:57Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Kanban"
+      ],
+      "tags": [
+        "Operational Practices",
+        "Team Performance",
+        "Miscellaneous",
+        "Pragmatic Thinking",
+        "Metrics and Learning",
+        "Value Stream Management"
+      ]
     },
     "BodyContent": "Not all delays are the same.\n\nA task waiting on legal approval isn’t blocked—it’s in a waiting state. A task that needs a missing dependency to proceed is actually blocked. These distinctions matter.\n\nWhy? Because treating “waiting” as “blocked” distorts your workflow. It hides the real problem areas and makes it harder to optimise the system. It also encourages teams to wash their hands of responsibility—“It’s in blocked, so it’s not on me.”\n\nA better approach? Make the source of delay explicit. Use tags, highlight blockers visually, and—most importantly—track how long work sits idle. The goal isn’t just to know something is blocked; it’s to fix the systemic issue behind it.\n\nHow does your team make these distinctions visible?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-15-not-all-delays-are-the-same\\index.md",
@@ -4947,7 +5255,7 @@
       "title": "Why Engineering Teams Use Staging Environments for Risk Reduction",
       "description": "Explores how staging environments aim to reduce risk in software development, their hidden costs, and modern alternatives like feature flags and progressive rollouts.",
       "date": "2025-02-14T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 230.0,
       "slug": "why-engineering-teams-use-staging-environments-for-risk-reduction",
       "aliases": [
         "/resources/r8qUPpdsgnM"
@@ -4977,11 +5285,25 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:58Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Tool"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence",
+        "DevOps",
+        "Product Development"
+      ],
+      "tags": [
+        "Pragmatic Thinking",
+        "Operational Practices",
+        "Software Development",
+        "Frequent Releases",
+        "Product Delivery",
+        "Technical Mastery",
+        "Deployment Strategies",
+        "Release Management",
+        "Engineering Practices"
+      ]
     },
     "BodyContent": "Ask most engineering teams why they use staging environments, and they’ll tell you it’s about risk reduction. But few stop to measure the real cost.\n\nHere’s what Dev-Test-Staging actually costs you:\n\n- Time wasted debugging in an environment that isn’t production.\n- Context switching and relearning when teams move between environments.\n- Delayed feedback loops, making problems more expensive to fix.\n- Infrastructure costs maintaining non-production environments that don’t actually prevent failure.\n- Every time an engineer deploys to staging, finds a bug, and then has to debug it again when it behaves differently in production, that’s wasted effort.\n\nThe alternative? Deploy to production, but do it smartly.\n\n- Feature flags to control exposure.\n- Progressive rollouts to catch issues early.\n- Real-time observability to detect anomalies before they escalate.\n\nIf your team still clings to staging environments, ask yourself: Are they truly preventing failure or just adding layers of delay and waste?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-14-why-engineering-teams-use-staging-environments-for-risk-reduction\\index.md",
@@ -4992,7 +5314,7 @@
       "title": "Challenging Misconceptions About Behaviour in Agile Teams",
       "description": "Explores common misconceptions about Agile teams, clarifying that true agility demands discipline, planning, and professionalism—not chaos or lack of accountability.",
       "date": "2025-02-13T16:30:02+00:00",
-      "weight": 1000.0,
+      "weight": 380.0,
       "slug": "challenging-misconceptions-about-behaviour-in-agile-teams",
       "aliases": [
         "/resources/lVebZgXa1DP"
@@ -5022,11 +5344,21 @@
       "Watermarks": {
         "description": "2025-05-16T15:56:59Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Scrum"
+      ],
+      "tags": [
+        "Software Development",
+        "Agile Philosophy",
+        "Professional Scrum",
+        "Organisational Agility",
+        "Team Collaboration",
+        "Pragmatic Thinking"
+      ]
     },
     "BodyContent": "I keep hearing people justify bad behaviour in Agile teams by saying, “That’s how Agile works.” No. It isn’t.\n\nAgility isn’t an excuse for chaos, poor planning, or avoiding accountability. True agility requires more discipline, not less. More planning, more diligence, more professionalism.\n\nIf your team can’t produce a usable increment every Sprint, if work is started without enough understanding to be confident it can be completed in the timebox, or if developers don’t know how their work contributes to the product vision—then you’re not Agile. You’re just unstructured.\n\nScrum isn’t a free-for-all. It’s a social technology for delivering adaptive solutions with professionalism and integrity. Agility only works when teams commit to doing things right.\n\nLet’s stop normalising unprofessional behaviour and call it out when we see it. Agility deserves better.\n\nHave you seen Agile misunderstood this way? What’s the worst case you’ve encountered?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-13-challenging-misconceptions-about-behaviour-in-agile-teams\\index.md",
@@ -5037,7 +5369,7 @@
       "title": "There a common belief that rollback is the ultimate safety net",
       "description": "Rollback is often riskier than rolling forward, especially for stateful apps. Safer deployment relies on progressive delivery and fail-forward strategies, not reversals.",
       "date": "2025-02-13T15:53:38+00:00",
-      "weight": 1000.0,
+      "weight": 270.0,
       "slug": "there-a-common-belief-that-rollback-is-the-ultimate-safety-net",
       "aliases": [
         "/resources/3-BmsmOEWfJ"
@@ -5067,11 +5399,26 @@
       "Watermarks": {
         "description": "2025-05-16T15:57:00Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "DevOps",
+        "Engineering Excellence",
+        "Product Development"
+      ],
+      "tags": [
+        "Deployment Strategies",
+        "Continuous Delivery",
+        "Pragmatic Thinking",
+        "Operational Practices",
+        "Product Delivery",
+        "Software Development",
+        "Engineering Practices",
+        "Frequent Releases",
+        "Release Management",
+        "Technical Mastery"
+      ]
     },
     "BodyContent": "There’s a common belief that rollback is the ultimate safety net. That if something goes wrong, we’ll just roll back and everything will be fine.\n\nExcept, rolling back is often more dangerous than rolling forward.\n\nFor stateful applications, rollback can mean data inconsistencies, orphaned processes, and unexpected failures. It assumes that we can always rewind time cleanly, which is rarely the case. The better approach? Fail forward.\n\nProgressive delivery techniques like feature flags, canary releases, and automated rollback halts allow teams to limit exposure, detect problems early, and stop bad deployments before they do real damage. If your team struggles to roll forward, what makes you think they have the skills to execute the far more complex task of rolling back?\n\nModern software delivery isn’t about reversing mistakes, it’s about designing deployments so failure is safe. How is your team handling failure today?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-13-there-a-common-belief-that-rollback-is-the-ultimate-safety-net\\index.md",
@@ -5082,7 +5429,7 @@
       "title": "Every delay increases the risk of failure",
       "description": "Delaying software releases increases failure risk. Frequent, small releases improve success rates, adaptability, and recovery, as shown by CHAOS Report and DORA metrics.",
       "date": "2025-02-10T11:00:51+00:00",
-      "weight": 1000.0,
+      "weight": 160.0,
       "slug": "every-delay-increases-the-risk-of-failure",
       "aliases": [
         "/resources/-hq1U7x2uea"
@@ -5112,11 +5459,31 @@
       "Watermarks": {
         "description": "2025-05-16T15:57:01Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Engineering Excellence",
+        "DevOps"
+      ],
+      "tags": [
+        "Frequent Releases",
+        "Time to Market",
+        "Software Development",
+        "Product Delivery",
+        "Deployment Frequency",
+        "Market Adaptability",
+        "Value Delivery",
+        "Metrics and Learning",
+        "Pragmatic Thinking",
+        "Team Performance",
+        "Release Management",
+        "Continuous Delivery",
+        "Operational Practices",
+        "Decision Making",
+        "Continuous Improvement"
+      ]
     },
     "BodyContent": "Every delay increases the risk of failure.\n\nOrganizations that take too long to release software fall behind. While they refine, plan, and internally validate, their competitors deliver, learn, and adapt.\n\nThe Standish Group’s CHAOS Report found that only 29% of long-cycle projects succeed, while agile, frequent-release projects succeed up to 64% of the time. DORA metrics confirm that teams that release more often have lower failure rates and faster recovery times.\n\nDeliver small, deliver fast, and adjust. If you are waiting for the perfect release, you are already losing.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-10-every-delay-increases-the-risk-of-failure\\index.md",
@@ -5127,7 +5494,7 @@
       "title": "Git Flow should have died years ago",
       "description": "Explains why Git Flow is outdated for modern software, highlighting its drawbacks and recommending simpler workflows like GitHub Flow for faster, continuous delivery.",
       "date": "2025-02-09T16:30:00+00:00",
-      "weight": 1000.0,
+      "weight": 470.0,
       "slug": "git-flow-should-have-died-years-ago",
       "aliases": [
         "/resources/pAMm25X5CuE"
@@ -5159,9 +5526,16 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "DevOps",
+        "Engineering Excellence"
       ],
-      "tags": []
+      "tags": [
+        "Frequent Releases",
+        "Software Development",
+        "Deployment Frequency",
+        "Continuous Delivery",
+        "Modern Source Control"
+      ]
     },
     "BodyContent": "Git Flow should have died years ago.\n\nIt was designed for packaged software, not modern software delivery. Yet, some teams still cling to it, drowning in:\n\n- Long-lived develop branches\n- Painful release/\\* merges\n- Endless hotfix/\\* chaos\n\nEvery merge is an opportunity for delay, conflict, and regression. Instead of focusing on delivering value, teams are stuck babysitting branches.\n\nSwitch to GitHub Flow or Release Flow and experience the difference. Merge small. Deploy continuously. Stop wasting time on a process that was obsolete a decade ago.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-09-git-flow-should-have-died-years-ago\\index.md",
@@ -5172,7 +5546,7 @@
       "title": "Branch promotion is a relic of slow, manual software delivery",
       "description": "Explains why modern software teams avoid branch promotion, using continuous integration, feature flags, and production-like testing to streamline delivery and reduce risk.",
       "date": "2025-02-08T16:30:00+00:00",
-      "weight": 1000.0,
+      "weight": 300.0,
       "slug": "branch-promotion-is-a-relic-of-slow-manual-software-delivery",
       "aliases": [
         "/resources/xLVnF1dEnfO"
@@ -5202,11 +5576,30 @@
       "Watermarks": {
         "description": "2025-05-16T15:57:04Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "DevOps",
+        "Engineering Excellence"
+      ],
+      "tags": [
+        "Software Development",
+        "Continuous Integration",
+        "Product Delivery",
+        "Operational Practices",
+        "Technical Mastery",
+        "Continuous Delivery",
+        "Engineering Practices",
+        "Value Delivery",
+        "Modern Source Control",
+        "Pragmatic Thinking",
+        "Frequent Releases",
+        "Deployment Strategies",
+        "Market Adaptability",
+        "Deployment Frequency",
+        "Release Management"
+      ]
     },
     "BodyContent": "Branch promotion is a relic of slow, manual software delivery.\n\nModern teams integrate continuously:\n\n- Every change merges into main as soon as it’s ready.\n- Deployments are decoupled from releases using feature flags.\n- Testing happens in production-like environments without blocking releases.\n\nThis approach makes rollbacks instant—no need for painful cherry-picking. And it eliminates reverse integration, a practice that introduces more risk than it removes.\n\nThe best teams don’t manage branches. They manage flow.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-08-branch-promotion-is-a-relic-of-slow-manual-software-delivery\\index.md",
@@ -5217,7 +5610,7 @@
       "title": "Frequent releases are not just a technical strategy",
       "description": "Frequent software releases reduce risk, enable faster feedback, and help teams adapt to user needs, preventing costly mistakes and improving overall performance.",
       "date": "2025-02-07T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 300.0,
       "slug": "frequent-releases-are-not-just-a-technical-strategy",
       "aliases": [
         "/resources/_o_vjO--kSl"
@@ -5247,11 +5640,24 @@
       "Watermarks": {
         "description": "2025-05-16T15:57:05Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "Engineering Excellence",
+        "DevOps"
+      ],
+      "tags": [
+        "Frequent Releases",
+        "Software Development",
+        "Pragmatic Thinking",
+        "Operational Practices",
+        "Team Performance",
+        "Market Adaptability",
+        "Deployment Frequency",
+        "Continuous Improvement"
+      ]
     },
     "BodyContent": "Frequent releases are not just a technical strategy. They are a survival strategy.\n\nThe longer software stays in development without release, the higher the risk of wasted effort. Microsoft learned this lesson with Windows 8, investing six years into a product that failed immediately upon launch. Had they released frequently and adapted to feedback, they could have prevented billions in losses.\n\nDORA research confirms that high-performing teams release more often, recover from failures faster, and cut costs. Frequent releases protect your company from costly missteps by ensuring you are learning from real users.\n\nAre you mitigating risk, or are you waiting to fail?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-07-frequent-releases-are-not-just-a-technical-strategy\\index.md",
@@ -5262,7 +5668,7 @@
       "title": "The Hidden Costs of Supporting Multiple Versions in Production",
       "description": "Maintaining multiple production versions increases bugs, merge conflicts, and technical debt, making development harder and less efficient for engineering teams.",
       "date": "2025-02-06T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 190.0,
       "slug": "the-hidden-costs-of-supporting-multiple-versions-in-production",
       "aliases": [
         "/resources/un1ZqM8aYng"
@@ -5294,9 +5700,15 @@
       },
       "concepts": [],
       "categories": [
-        "Uncategorized"
+        "Engineering Excellence"
       ],
-      "tags": []
+      "tags": [
+        "Software Development",
+        "Technical Mastery",
+        "Miscellaneous",
+        "Technical Debt",
+        "Modern Source Control"
+      ]
     },
     "BodyContent": "Supporting multiple versions in production is a hidden tax on engineering teams.\n\nEvery version adds:\n\n- More context-switching\n- More merge conflicts\n- More chances for bugs to slip through\n\nReverse integration—back-porting fixes to older versions—is even worse. It creates instability, increases the risk of unintended regressions, and wastes engineering time.\n\nAnd then there's branch by customer—the absolute worst-case scenario. Maintaining separate branches for each client is a scaling disaster, guaranteeing technical debt and a painful development experience.\n\nIf a team is struggling to keep track of where changes are applied, it's already a sign that the branching strategy is broken. Standardise, simplify, and move forward—not backward.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-06-the-hidden-costs-of-supporting-multiple-versions-in-production\\index.md",
@@ -5307,7 +5719,7 @@
       "title": "Too many teams overcomplicate their branching strategies",
       "description": "Learn why simple branching strategies like GitHub Flow and Release Flow help teams deliver faster, reduce risk, and avoid the pitfalls of complex version control.",
       "date": "2025-02-06T09:38:01+00:00",
-      "weight": 1000.0,
+      "weight": 305.0,
       "slug": "too-many-teams-overcomplicate-their-branching-strategies",
       "aliases": [
         "/resources/qwciWeifRRf"
@@ -5337,11 +5749,25 @@
       "Watermarks": {
         "description": "2025-05-16T15:57:07Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Practice"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence",
+        "Product Development"
+      ],
+      "tags": [
+        "Pragmatic Thinking",
+        "Modern Source Control",
+        "Software Development",
+        "Operational Practices",
+        "GitHub",
+        "Team Performance",
+        "Frequent Releases",
+        "Value Delivery",
+        "Technical Mastery",
+        "Product Delivery"
+      ]
     },
     "BodyContent": "Too many teams overcomplicate their branching strategies. The best engineering teams focus on flow, not friction.\n\nBranching models should enable fast delivery, not slow it down. The best approach? Keep it simple:\n\n✅ GitHub Flow – Short-lived feature branches, immediate merges to main, and continuous deployment.  \n✅ Release Flow – If multiple versions must be supported, fixes go into main first, then cherry-picked into a release branch.\n\nNo long-lived branches. No unnecessary merges. No reverse integration nightmares.\n\nTeams that eliminate unnecessary complexity move faster, reduce risk, and deliver value consistently. Stop promoting branches. Start shipping.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-06-too-many-teams-overcomplicate-their-branching-strategies\\index.md",
@@ -5352,7 +5778,7 @@
       "title": "Every unreleased feature is a cost",
       "description": "Unreleased features create hidden costs and risks. Regular software delivery reduces failure rates, rework, and missed opportunities, ensuring real value is delivered.",
       "date": "2025-02-05T16:30:01+00:00",
-      "weight": 1000.0,
+      "weight": 325.0,
       "slug": "every-unreleased-feature-is-a-cost",
       "aliases": [
         "/resources/PNGuJocqSoD"
@@ -5382,11 +5808,28 @@
       "Watermarks": {
         "description": "2025-05-16T15:57:08Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Tenet"
       ],
-      "tags": []
+      "categories": [
+        "Product Development",
+        "DevOps",
+        "Engineering Excellence"
+      ],
+      "tags": [
+        "Value Delivery",
+        "Deployment Frequency",
+        "Team Performance",
+        "Product Delivery",
+        "Software Development",
+        "Operational Practices",
+        "Pragmatic Thinking",
+        "Frequent Releases",
+        "Market Adaptability",
+        "Time to Market",
+        "Release Management",
+        "Agile Philosophy"
+      ]
     },
     "BodyContent": "Every unreleased feature is a cost.\n\nMany teams treat software development like a factory, assuming that as long as work is being done, value is being created. But without delivery, all that effort is meaningless.\n\nThe CHAOS Report proves that long-cycle projects are far more likely to fail, while DORA metrics show that frequent releases reduce risks and improve stability. If you are not shipping regularly, you are accumulating hidden costs—unvalidated work, increased rework, and lost opportunities.\n\nAre you delivering value or just doing work?\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\signals\\2025-02-05-every-unreleased-feature-is-a-cost\\index.md",

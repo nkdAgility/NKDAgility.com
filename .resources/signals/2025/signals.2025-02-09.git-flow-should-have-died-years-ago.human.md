@@ -2,7 +2,7 @@
 title: Git Flow should have died years ago
 description: Explains why Git Flow is outdated for modern software, highlighting its drawbacks and recommending simpler workflows like GitHub Flow for faster, continuous delivery.
 date: 2025-02-09T16:30:00+00:00
-weight: 1000
+weight: 470
 slug: git-flow-should-have-died-years-ago
 aliases:
 - /resources/pAMm25X5CuE
@@ -28,8 +28,14 @@ Watermarks:
   description: 2025-05-16T15:57:02Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- DevOps
+- Engineering Excellence
+tags:
+- Frequent Releases
+- Software Development
+- Deployment Frequency
+- Continuous Delivery
+- Modern Source Control
 
 ---
 Git Flow should have died years ago.

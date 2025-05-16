@@ -2,7 +2,7 @@
 title: Not all delays are the same
 description: Explains the difference between waiting and blocked tasks, why clear distinction matters in workflows, and how to track and address sources of delay for better optimisation.
 date: 2025-02-15T16:30:01+00:00
-weight: 1000
+weight: 310
 slug: not-all-delays-are-the-same
 aliases:
 - /resources/pgCUc2qV2_q
@@ -26,10 +26,17 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:57Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Kanban
+tags:
+- Operational Practices
+- Team Performance
+- Miscellaneous
+- Pragmatic Thinking
+- Metrics and Learning
+- Value Stream Management
 
 ---
 Not all delays are the same.

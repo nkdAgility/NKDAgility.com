@@ -2,7 +2,7 @@
 title: Hiring a Scrum Master is hard
 description: Finding a skilled Scrum Master is challenging; true effectiveness requires deep Scrum knowledge, coaching ability, and alignment with your team's business and technical needs.
 date: 2025-02-16T16:30:01+00:00
-weight: 1000
+weight: 390
 slug: hiring-a-scrum-master-is-hard
 aliases:
 - /resources/CHfV0DI2Plv
@@ -26,10 +26,21 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:56Z
-concepts: []
+concepts:
+- Accountability
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Technical Leadership
+- Product Development
+tags:
+- Scrum Master
+- Organisational Agility
+- Competence
+- Pragmatic Thinking
+- Product Delivery
+- Professional Scrum
+- Software Development
+- Social Technologies
 
 ---
 Hiring a Scrum Master is hard. Not because the role is rare—there are plenty of CVs with “Scrum Master” slapped on them—but because too many organisations still don’t know what they actually need.

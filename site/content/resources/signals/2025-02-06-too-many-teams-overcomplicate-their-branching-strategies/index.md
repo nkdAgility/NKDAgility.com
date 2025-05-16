@@ -2,7 +2,7 @@
 title: Too many teams overcomplicate their branching strategies
 description: Learn why simple branching strategies like GitHub Flow and Release Flow help teams deliver faster, reduce risk, and avoid the pitfalls of complex version control.
 date: 2025-02-06T09:38:01+00:00
-weight: 1000
+weight: 305
 slug: too-many-teams-overcomplicate-their-branching-strategies
 aliases:
 - /resources/qwciWeifRRf
@@ -26,10 +26,22 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:07Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+- Product Development
+tags:
+- Pragmatic Thinking
+- Modern Source Control
+- Software Development
+- Operational Practices
+- GitHub
+- Team Performance
+- Frequent Releases
+- Value Delivery
+- Technical Mastery
+- Product Delivery
 
 ---
 Too many teams overcomplicate their branching strategies. The best engineering teams focus on flow, not friction.

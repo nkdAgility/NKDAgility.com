@@ -2,7 +2,7 @@
 title: let-us be blunt—if a Scrum Team isn’t delivering, is it effective
 description: Explores Scrum Team effectiveness, emphasising that consistent delivery is essential and highlighting the Scrum Master's accountability for enabling successful outcomes.
 date: 2025-03-07T16:30:00+00:00
-weight: 630
+weight: 385
 slug: let-us-be-blunt-if-a-scrum-team-isn-t-delivering-is-it-effective
 aliases:
 - /resources/CB56pgg1LmZ
@@ -26,13 +26,18 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:23Z
-concepts: []
+concepts:
+- Accountability
 categories:
+- Scrum
+- Product Development
 - Leadership
 tags:
+- Software Development
 - Team Performance
 - Increment
 - Scrum Master
+- Product Delivery
 - Working Software
 - Value Delivery
 

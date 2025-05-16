@@ -2,7 +2,7 @@
 title: A two-day Scrum Master certification doesn’t make you a Scrum Master
 description: Practical experience is essential for effective Scrum Masters; certification alone is insufficient. True expertise comes from guiding teams, solving challenges, and delivering value.
 date: 2025-02-27T16:30:31+00:00
-weight: 1000
+weight: 320
 slug: a-two-day-scrum-master-certification-doesn-t-make-you-a-scrum-master
 aliases:
 - /resources/aYJLiPejAHG
@@ -28,8 +28,17 @@ Watermarks:
   description: 2025-05-16T15:56:41Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Technical Leadership
+- Scrum
+tags:
+- Pragmatic Thinking
+- Competence
+- Software Development
+- Product Delivery
+- Professional Scrum
+- Operational Practices
+- Agile Philosophy
 
 ---
 A two-day Scrum Master certification doesn’t make you a Scrum Master.

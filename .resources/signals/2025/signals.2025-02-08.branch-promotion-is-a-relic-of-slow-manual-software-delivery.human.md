@@ -2,7 +2,7 @@
 title: Branch promotion is a relic of slow, manual software delivery
 description: Explains why modern software teams avoid branch promotion, using continuous integration, feature flags, and production-like testing to streamline delivery and reduce risk.
 date: 2025-02-08T16:30:00+00:00
-weight: 1000
+weight: 300
 slug: branch-promotion-is-a-relic-of-slow-manual-software-delivery
 aliases:
 - /resources/xLVnF1dEnfO
@@ -26,10 +26,27 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:04Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- DevOps
+- Engineering Excellence
+tags:
+- Software Development
+- Continuous Integration
+- Product Delivery
+- Operational Practices
+- Technical Mastery
+- Continuous Delivery
+- Engineering Practices
+- Value Delivery
+- Modern Source Control
+- Pragmatic Thinking
+- Frequent Releases
+- Deployment Strategies
+- Market Adaptability
+- Deployment Frequency
+- Release Management
 
 ---
 Branch promotion is a relic of slow, manual software delivery.

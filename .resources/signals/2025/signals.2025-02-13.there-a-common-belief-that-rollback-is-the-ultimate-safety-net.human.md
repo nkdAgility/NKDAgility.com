@@ -2,7 +2,7 @@
 title: There a common belief that rollback is the ultimate safety net
 description: Rollback is often riskier than rolling forward, especially for stateful apps. Safer deployment relies on progressive delivery and fail-forward strategies, not reversals.
 date: 2025-02-13T15:53:38+00:00
-weight: 1000
+weight: 270
 slug: there-a-common-belief-that-rollback-is-the-ultimate-safety-net
 aliases:
 - /resources/3-BmsmOEWfJ
@@ -26,10 +26,23 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:00Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- DevOps
+- Engineering Excellence
+- Product Development
+tags:
+- Deployment Strategies
+- Continuous Delivery
+- Pragmatic Thinking
+- Operational Practices
+- Product Delivery
+- Software Development
+- Engineering Practices
+- Frequent Releases
+- Release Management
+- Technical Mastery
 
 ---
 There’s a common belief that rollback is the ultimate safety net. That if something goes wrong, we’ll just roll back and everything will be fine.

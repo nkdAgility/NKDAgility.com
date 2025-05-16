@@ -2,7 +2,7 @@
 title: 'Deploying Windows OS Directly to Production: Then vs Now'
 description: Explains how Windows OS updates shifted from infrequent, risky releases to safe, staged rollouts using ring-based deployment and real-time user feedback for reliability.
 date: 2025-02-22T16:30:00+00:00
-weight: 1000
+weight: 295
 slug: deploying-windows-os-directly-to-production-then-vs-now
 aliases:
 - /resources/6FqFYeSHQBg
@@ -26,10 +26,28 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:48Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Engineering Excellence
+- DevOps
+tags:
+- Windows
+- Deployment Strategies
+- Pragmatic Thinking
+- Frequent Releases
+- Metrics and Learning
+- Operational Practices
+- Customer Focus
+- Software Development
+- Product Delivery
+- Release Management
+- Deployment Frequency
+- Continuous Delivery
+- Continuous Improvement
+- Organisational Agility
+- Continuous Learning
 
 ---
 The idea of deploying an operating system like Windows directly to production would have been unthinkable a decade ago. But that’s exactly what Microsoft does now.

@@ -2,7 +2,7 @@
 title: At the end of the day, Kanban is about improving flow
 description: Kanban focuses on improving workflow by removing bottlenecks and constraints, reducing work in progress, and increasing process efficiency—not by overworking people.
 date: 2025-03-03T15:46:26+00:00
-weight: 1000
+weight: 470
 slug: at-the-end-of-the-day-kanban-is-about-improving-flow
 aliases:
 - /resources/laeSXbgT7Hm
@@ -26,10 +26,20 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:36Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Kanban
+- Lean
+- Product Development
+tags:
+- Operational Practices
+- Flow Efficiency
+- Team Performance
+- Software Development
+- Lean Principles
+- Lean Thinking
+- Pragmatic Thinking
 
 ---
 At the end of the day, Kanban is about improving flow. Not micromanaging individuals. Not squeezing more hours out of people. Just removing the constraints that slow everything down.

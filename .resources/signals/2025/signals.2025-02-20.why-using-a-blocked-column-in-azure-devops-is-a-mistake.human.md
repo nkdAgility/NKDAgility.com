@@ -2,7 +2,7 @@
 title: Why Using a Blocked Column in Azure DevOps Is a Mistake
 description: Explains why a “Blocked” column in Azure DevOps hinders workflow, and suggests using tags and tracking to manage blocked work more effectively and visibly.
 date: 2025-02-20T16:30:01+00:00
-weight: 1000
+weight: 290
 slug: why-using-a-blocked-column-in-azure-devops-is-a-mistake
 aliases:
 - /resources/H8CRQrD64JY
@@ -26,10 +26,18 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:50Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Kanban
+- DevOps
+tags:
+- Azure DevOps
+- Operational Practices
+- Pragmatic Thinking
+- Team Performance
+- Software Development
+- Azure Boards
 
 ---
 If your team is using a “Blocked” column in Azure DevOps, you’re probably doing it wrong.

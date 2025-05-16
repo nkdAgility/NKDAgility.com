@@ -2,7 +2,7 @@
 title: Scrum Master Effectiveness Begins with Consistent Delivery
 description: Explains why consistent delivery is essential for Scrum Master effectiveness, highlighting its role in enabling feedback, improvement, and team value in agile teams.
 date: 2025-03-06T16:30:29+00:00
-weight: 1000
+weight: 440
 slug: scrum-master-effectiveness-begins-with-consistent-delivery
 aliases:
 - /resources/KWm8S39saqg
@@ -28,8 +28,13 @@ Watermarks:
   description: 2025-05-16T15:56:30Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+- Technical Leadership
+tags:
+- Scrum Master
+- Software Development
+- Product Delivery
 
 ---
 Scrum Masters love to talk about effectiveness, but here’s a reality check—effectiveness starts with delivery.

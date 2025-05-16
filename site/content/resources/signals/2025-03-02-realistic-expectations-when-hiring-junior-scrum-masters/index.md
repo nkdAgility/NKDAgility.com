@@ -2,7 +2,7 @@
 title: Realistic Expectations When Hiring Junior Scrum Masters
 description: Understand the risks of hiring inexperienced junior Scrum Masters, including higher costs, team issues, and project delays, versus investing in experienced agile leadership.
 date: 2025-03-02T16:30:02+00:00
-weight: 1000
+weight: 470
 slug: realistic-expectations-when-hiring-junior-scrum-masters
 aliases:
 - /resources/lm-SKQuLcVd
@@ -28,7 +28,8 @@ Watermarks:
   description: 2025-05-16T15:56:37Z
 concepts: []
 categories:
-- Uncategorized
+- Scrum
+- Leadership
 tags: []
 
 ---

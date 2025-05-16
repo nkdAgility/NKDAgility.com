@@ -2,7 +2,7 @@
 title: Rethinking Dev-Test-Staging-Production Pipelines for Safety
 description: Explores why traditional Dev-Test-Staging-Production pipelines fall short and highlights audience-based deployment for safer, faster feedback in real production environments.
 date: 2025-02-21T16:30:30+00:00
-weight: 1000
+weight: 210
 slug: rethinking-dev-test-staging-production-pipelines-for-safety
 aliases:
 - /resources/3oUXWDsN6Qa
@@ -26,10 +26,27 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:49Z
-concepts: []
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+- Product Development
+- DevOps
+tags:
+- Pragmatic Thinking
+- Product Delivery
+- Software Development
+- Value Delivery
+- Frequent Releases
+- Deployment Strategies
+- Technical Mastery
+- Market Adaptability
+- Release Management
+- Continuous Delivery
+- Operational Practices
+- Product Validation
+- Metrics and Learning
+- Engineering Practices
 
 ---
 For years, we convinced ourselves that Dev-Test-Staging-Production pipelines kept us safe. If we just had one more layer of validation and one more environment to test in, we'd catch the problems before they hit production.
