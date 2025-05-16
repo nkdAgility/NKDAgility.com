@@ -1,0 +1,28 @@
+---
+title: Scrum Masters are not glorified meeting schedulers
+date: 2025-03-09T16:30:01+00:00
+slug: scrum-masters-are-not-glorified-meeting-schedulers
+draft: true
+source: LinkedIn
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7304538965708013569
+  post_id: "7304538965708013569"
+  post_date: 2025-03-09T16:30:01Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+
+---
+Scrum Masters are not glorified meeting schedulers.
+
+They are technical and business leaders who ensure that teams deliver continuous value. A Scrum Master for a team that delivers software that can’t critique code quality or understand DevOps practices is a Scrum Master in title only. For software teams, coding knowledge isn’t optional—it’s essential.
+
+Mastery in modern engineering practices like CI/CD, automated testing, and infrastructure as code is non-negotiable. You can’t guide what you don’t understand.
+
+If your Scrum Master doesn’t speak your Developers' language, how can they help them improve? An effective Scrum Master challenges the team, identifies technical debt, and fosters a culture of quality.
+
+Without this, you’re not embracing true agility—just the illusion of it.

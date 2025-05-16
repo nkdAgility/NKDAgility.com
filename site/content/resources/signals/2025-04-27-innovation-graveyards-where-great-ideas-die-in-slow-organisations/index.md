@@ -1,0 +1,30 @@
+---
+title: 'Innovation graveyards: Where great ideas die in slow organisations'
+date: 2025-04-27T15:30:30+01:00
+slug: innovation-graveyards-where-great-ideas-die-in-slow-organisations
+draft: true
+source: LinkedIn
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7322280996026920960
+  post_id: "7322280996026920960"
+  post_date: 2025-04-27T14:30:30Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+
+---
+Inside every slow-moving organisation is an innovation graveyard—a place where great ideas die before they ever see daylight.
+
+How?
+
+- Leaders demand "certainty" before taking a step.
+- Risk is managed by avoiding it, not navigating it.
+- New ideas must be "aligned" before they can be tested.
+
+Meanwhile, the companies actually winning today? They launch. They learn. They iterate. They don’t wait until an idea is bulletproof because they know perfection is a lie in fast-moving markets.
+
+The worst waste in a business isn’t money. It’s unrealised potential. How many great ideas has your organisation buried?
