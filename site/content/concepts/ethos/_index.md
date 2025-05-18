@@ -1,11 +1,12 @@
 ---
 title: Ethos
+ClassificationType: concepts
+trustpilot: false
 date: 2025-05-13T10:30:00Z
+weight: 430
 description: The core beliefs that underpin how we think, structure work, and enable value delivery across all systems.
 abstract: Ethos is the foundation beneath principles, practices, and strategies. It informs how we lead, how we coach, and how we build systems that endure. Without a clearly defined ethos, teams drift into rituals without results—Scrum becomes status theatre, DevOps becomes tool automation, and transformation stalls. Ethos brings coherence and conviction to how we work. It’s not a mindset. It’s a disciplined stance.
-trustpilot: false
 icon: fa-heart
-ClassificationType: concepts
 Instructions: |-
   Use this category only for discussions on Ethos.
 
@@ -37,7 +38,6 @@ headline:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
-weight: 1000
 
 ---
 Ethos is not what you say you value—it’s what your system proves you believe.

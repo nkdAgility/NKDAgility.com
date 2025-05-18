@@ -1,9 +1,9 @@
 ---
 title: Enterprise Agility
-abstract: Enterprise Agility is the capacity of an organisation to swiftly and effectively adapt to changes in the market and customer demands, extending agile principles beyond individual teams to encompass the entire enterprise. This concept is vital as it cultivates a culture of adaptability, allowing organisations to pivot quickly in response to new information or shifting priorities. By integrating agility into the organisational structure, processes, and culture, teams can deliver value in a predictable and sustainable manner, ensuring alignment with customer needs. Enterprise Agility focuses on long-term systemic change rather than temporary solutions, fostering a mindset that prioritises continuous improvement and learning across all levels. It promotes cross-functional collaboration, dismantling silos that can impede responsiveness, thereby enhancing operational efficiency and creating an environment conducive to innovation. By emphasising agility at the enterprise level, organisations are better equipped to navigate complexity and uncertainty, leading to improved customer satisfaction and business outcomes. This proactive approach ensures that agility transcends mere practices, becoming a fundamental organisational capability that drives sustained success.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Enterprise Agility is the capacity of an organisation to swiftly and effectively adapt to changes in the market and customer demands, extending agile principles beyond individual teams to encompass the entire enterprise. This concept is vital as it cultivates a culture of adaptability, allowing organisations to pivot quickly in response to new information or shifting priorities. By integrating agility into the organisational structure, processes, and culture, teams can deliver value in a predictable and sustainable manner, ensuring alignment with customer needs. Enterprise Agility focuses on long-term systemic change rather than temporary solutions, fostering a mindset that prioritises continuous improvement and learning across all levels. It promotes cross-functional collaboration, dismantling silos that can impede responsiveness, thereby enhancing operational efficiency and creating an environment conducive to innovation. By emphasising agility at the enterprise level, organisations are better equipped to navigate complexity and uncertainty, leading to improved customer satisfaction and business outcomes. This proactive approach ensures that agility transcends mere practices, becoming a fundamental organisational capability that drives sustained success.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:16:54Z
 weight: 500
 description: Scaling agility beyond teams to drive organisational responsiveness and adaptability.
@@ -35,6 +35,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:51:54
+icon: fa-building-flag
 concepts:
 - Capability
 categories:
@@ -44,6 +45,7 @@ tags:
 - Market Adaptability
 - Organisational Agility
 - Agile Philosophy
+- Large Scale Agility
 - Agile Strategy
 - Organisational Change
 - Change Management
@@ -51,7 +53,6 @@ tags:
 - Organisational Culture
 - Agile Transformation
 - Agile Values and Principles
-icon: fa-building-flag
 
 ---
 Enterprise Agility refers to the ability of an organisation to respond swiftly and effectively to changes in the market and customer demands, extending agile principles beyond individual teams to the entire enterprise. This concept is crucial as it fosters a culture of adaptability, enabling organisations to pivot quickly in response to new information or shifting priorities. By embedding agility into the organisational structure, processes, and culture, teams can deliver value predictably and sustainably, ensuring that products and services align closely with customer needs.

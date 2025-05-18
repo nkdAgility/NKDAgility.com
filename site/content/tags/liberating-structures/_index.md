@@ -1,12 +1,12 @@
 ---
 title: Liberating Structures
+description: Liberating Structures is a set of simple, adaptable facilitation methods designed to make meetings more interactive, inclusive, and productive. Each structure replaces conventional habits like open discussion or status reporting with clear participation formats. Used across Agile, Lean, and organisational change initiatives, they provide structure without control, helping teams uncover insights and co-create better outcomes.
+ClassificationType: tags
+trustpilot: false
 abstract: Liberating Structures are a modular toolkit of facilitation techniques used to structure team interactions, promote equal participation, and improve collaboration. Designed as plug-and-play alternatives to conventional meeting formats, each structure provides a clear pattern for group engagement, making them easy to learn and adapt. In Agile, Lean, and DevOps contexts, they support team self-organisation by enabling rapid idea generation, shared understanding, and collective decision-making. When applied intentionally, these methods enhance team effectiveness and help build a culture of trust and psychological safety—without requiring major changes to existing workflows.
 date: 2025-04-14T14:50:18Z
 weight: 455
-ClassificationType: tags
 ClassificationContentOrigin: AI
-trustpilot: false
-description: Liberating Structures is a set of simple, adaptable facilitation methods designed to make meetings more interactive, inclusive, and productive. Each structure replaces conventional habits like open discussion or status reporting with clear participation formats. Used across Agile, Lean, and organisational change initiatives, they provide structure without control, helping teams uncover insights and co-create better outcomes.
 Instructions: |-
   **Use this category only for discussions on Liberating Structures.**
   Liberating Structures is a facilitation toolkit that offers 30+ lightweight methods to structure team interactions. These methods are especially useful for Scrum Masters, Agile Coaches, and leaders seeking to increase engagement, participation, and creative thinking in collaborative sessions.
@@ -39,6 +39,7 @@ BodyContentGenDate: 2025-04-14T14:50:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-object-group
 concepts:
 - Principle
 categories:
@@ -54,7 +55,6 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Organisational Culture
-icon: fa-object-group
 
 ---
 Liberating Structures are a set of easy-to-learn facilitation methods that enhance how groups interact, make decisions, and co-create solutions. Unlike traditional meeting formats—such as open discussion or presentations—each structure provides a repeatable pattern for participation that distributes control and encourages contribution from everyone.

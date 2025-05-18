@@ -1,9 +1,9 @@
 ---
 title: Coaching
-abstract: Coaching is a practice aimed at unlocking the potential of teams and leaders through guidance rather than directives, fostering an environment conducive to skill development, enhanced decision-making, and a mindset of continuous improvement. Originating from methodologies in agile, lean, and DevOps, coaching is vital for empowering teams to adapt to changing circumstances and deliver value in a predictable and sustainable manner. By prioritising the long-term development of individuals and teams, coaching cultivates a culture of learning and experimentation, promoting self-organisation and accountability that enables collaborative problem-solving. This systemic approach not only improves team performance but also aligns with organisational goals, ensuring that product and service delivery effectively meets customer needs. Unlike mentoring, which often involves knowledge transfer, coaching emphasises the coachee's self-discovery and growth, focusing on asking the right questions to facilitate insights and actionable outcomes. This distinction is essential for building resilience and adaptability, traits that are increasingly important in fast-paced development environments. Additionally, by fostering psychological safety, coaching encourages open communication and trust, which are critical components of high-performing teams.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Coaching is a practice aimed at unlocking the potential of teams and leaders through guidance rather than directives, fostering an environment conducive to skill development, enhanced decision-making, and a mindset of continuous improvement. Originating from methodologies in agile, lean, and DevOps, coaching is vital for empowering teams to adapt to changing circumstances and deliver value in a predictable and sustainable manner. By prioritising the long-term development of individuals and teams, coaching cultivates a culture of learning and experimentation, promoting self-organisation and accountability that enables collaborative problem-solving. This systemic approach not only improves team performance but also aligns with organisational goals, ensuring that product and service delivery effectively meets customer needs. Unlike mentoring, which often involves knowledge transfer, coaching emphasises the coachee's self-discovery and growth, focusing on asking the right questions to facilitate insights and actionable outcomes. This distinction is essential for building resilience and adaptability, traits that are increasingly important in fast-paced development environments. Additionally, by fostering psychological safety, coaching encourages open communication and trust, which are critical components of high-performing teams.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 360
 description: The art of unlocking potential in teams and leaders through guidance rather than directives.
@@ -34,6 +34,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:18:14
+icon: fa-chalkboard-teacher
 concepts:
 - Capability
 categories:
@@ -51,7 +52,6 @@ tags:
 - Psychological Safety
 - Operational Practices
 - Organisational Culture
-icon: fa-chalkboard-teacher
 
 ---
 Coaching is the practice of unlocking the potential within teams and leaders by providing guidance rather than issuing directives. This approach fosters an environment where individuals can develop their skills, enhance their decision-making capabilities, and embrace a mindset of continuous improvement. Coaching is essential in agile, lean, and DevOps contexts, as it empowers teams to adapt to changing circumstances and deliver value predictably and sustainably.

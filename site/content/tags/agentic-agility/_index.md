@@ -1,12 +1,12 @@
 ---
 title: Agentic Agility
-abstract: 'Agentic Agility is the capacity—human or AI—to take intentional, adaptive action within socio-technical environments to improve outcomes and align with evolving goals. It is grounded in agency: the power to act with autonomy, accountability, and purpose. Without agency, Agile devolves into hollow rituals; with it, people and systems can deliberately shape value delivery. Agentic Agility manifests through human judgement and learning or AI-driven optimisation within constraints, enabling continuous evolution of both what is delivered and how it is delivered. It is the critical lever that sustains agility as a living, resilient capability rather than a hollow label.'
+description: Agentic Agility is the ability for humans and AI to take intentional, adaptive action within socio-technical environments, enabling continuous improvement, value delivery, and organisational resilience. It transforms Agile, Scrum, and DevOps from passive execution into deliberate evolution, ensuring agility remains a living capability, not a hollow label.
 ClassificationType: tags
+trustpilot: false
+abstract: 'Agentic Agility is the capacity—human or AI—to take intentional, adaptive action within socio-technical environments to improve outcomes and align with evolving goals. It is grounded in agency: the power to act with autonomy, accountability, and purpose. Without agency, Agile devolves into hollow rituals; with it, people and systems can deliberately shape value delivery. Agentic Agility manifests through human judgement and learning or AI-driven optimisation within constraints, enabling continuous evolution of both what is delivered and how it is delivered. It is the critical lever that sustains agility as a living, resilient capability rather than a hollow label.'
 ClassificationContentOrigin: human
 date: 2025-04-07T12:39:49Z
 weight: 330
-trustpilot: false
-description: Agentic Agility is the ability for humans and AI to take intentional, adaptive action within socio-technical environments, enabling continuous improvement, value delivery, and organisational resilience. It transforms Agile, Scrum, and DevOps from passive execution into deliberate evolution, ensuring agility remains a living capability, not a hollow label.
 Instructions: |-
   **Use this category only for discussions on Agentic Agility.**  
   Agentic Agility refers to the capacity—whether human or AI—to take intentional, adaptive actions within socio-technical environments to enhance outcomes and align with evolving goals. This concept is rooted in the notion of agency, which embodies the power to act with autonomy, accountability, and purpose. The presence of agency is crucial for ensuring that Agile practices are meaningful and effective, as it allows individuals and systems to actively shape value delivery rather than merely following rituals.
@@ -34,6 +34,7 @@ headline:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-person-running
 concepts:
 - Capability
 categories:
@@ -55,7 +56,6 @@ tags:
 - Business Agility
 - Pragmatic Thinking
 - Change Management
-icon: fa-person-running
 
 ---
 **Agency** is **the capacity, condition, or state of acting or exerting power**. In Agile, Scrum, DevOps, and organisational change, it means **the ability to act with autonomy, intentionality, and accountability toward meaningful goals within socio-technical environments**.

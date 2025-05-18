@@ -1,12 +1,12 @@
 ---
 title: Continuous Delivery
-abstract: Continuous Delivery is a software delivery practice that focuses on producing software in short, reliable cycles, enabling teams to release updates at any time. Originating from the need for more efficient and responsive software development processes, it involves delivering small, incremental improvements directly to users from the initial stages of development. This approach, as defined by Jez Humble, emphasises the ability to safely and quickly implement changes—such as new features, configuration adjustments, and bug fixes—into production. The importance of Continuous Delivery lies in its capacity to facilitate rapid validation of assumptions and collection of user feedback, which are crucial for refining products and achieving valuable outcomes. By automating essential processes like testing, integration, and deployment, Continuous Delivery not only mitigates the risk of errors but also enhances software quality and accelerates the time it takes to deliver value to users. Teams that adopt this practice can more effectively respond to market demands and stakeholder input, thereby fostering a culture of continuous learning, innovation, and adaptability within their organisations.
+description: Continuous Delivery is the practice of frequently delivering small increments of valuable product directly to real users, enabling rapid feedback, validation, and continuous improvement from the very first iteration.
 ClassificationType: tags
+trustpilot: false
+abstract: Continuous Delivery is a software delivery practice that focuses on producing software in short, reliable cycles, enabling teams to release updates at any time. Originating from the need for more efficient and responsive software development processes, it involves delivering small, incremental improvements directly to users from the initial stages of development. This approach, as defined by Jez Humble, emphasises the ability to safely and quickly implement changes—such as new features, configuration adjustments, and bug fixes—into production. The importance of Continuous Delivery lies in its capacity to facilitate rapid validation of assumptions and collection of user feedback, which are crucial for refining products and achieving valuable outcomes. By automating essential processes like testing, integration, and deployment, Continuous Delivery not only mitigates the risk of errors but also enhances software quality and accelerates the time it takes to deliver value to users. Teams that adopt this practice can more effectively respond to market demands and stakeholder input, thereby fostering a culture of continuous learning, innovation, and adaptability within their organisations.
 ClassificationContentOrigin: human
 date: 2025-03-21T13:37:32Z
 weight: 295
-trustpilot: false
-description: Continuous Delivery is the practice of frequently delivering small increments of valuable product directly to real users, enabling rapid feedback, validation, and continuous improvement from the very first iteration.
 Instructions: |-
   **Use this category only for discussions on Continuous Delivery.**  
   Continuous Delivery is a disciplined software delivery practice that focuses on producing software in short, reliable cycles, ensuring that it can be released at any moment. The purpose of this category is to explore the principles, practices, and benefits of Continuous Delivery, emphasising its role in enhancing software quality and responsiveness to user needs.
@@ -30,11 +30,12 @@ headline:
   updated: 2025-03-21T13:37:35Z
 aliases:
 - /learn/agile-delivery-kit/first-principals/continuous-delivery/
-concepts:
-- Practice
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-infinity
+concepts:
+- Practice
 categories:
 - Product Development
 - Engineering Excellence
@@ -51,7 +52,6 @@ tags:
 - Pragmatic Thinking
 - Release Management
 - Time to Market
-icon: fa-infinity
 
 ---
 Continuous Delivery is a disciplined software delivery practice aimed at producing software in short, reliable cycles, ensuring that it can be released at any moment. It involves consistently delivering small, incremental improvements directly into the hands of real users, from the very first iteration.

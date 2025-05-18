@@ -1,9 +1,9 @@
 ---
 title: Definition of Ready
-abstract: Definition of Ready (DoR) is a concept within the Scrum framework that outlines the criteria necessary for a Backlog Item to be considered ready for implementation by the development team. It emerges from the collaborative understanding among Developers, the Product Owner, and Stakeholders regarding what is required to proceed with a Backlog Item. The importance of DoR lies in its potential to enhance clarity and alignment within agile teams, yet it also presents challenges, such as creating a false sense of readiness, neglecting the need for ongoing refinement, and leading to misconceptions about its equivalence with the Definition of Done (DoD). Unlike the DoD, which is an absolute measure of completion, the subjective nature of DoR can result in partial implementation, risking the integrity of the development process. To mitigate these issues, it is suggested that teams adopt a more nuanced approach to defining readiness, ensuring that each Backlog Item meets specific criteria, such as having a clear outcome, hypothesis, and telemetry for evaluation. The INVEST criteria further guide the formulation of Product Backlog Items, emphasising their independence, negotiability, value, estimability, size, and testability. Ultimately, a well-defined DoR fosters effective communication and understanding within agile teams, contributing to successful product development and organisational design.
 ClassificationType: tags
-ClassificationContentOrigin: human
 trustpilot: false
+abstract: Definition of Ready (DoR) is a concept within the Scrum framework that outlines the criteria necessary for a Backlog Item to be considered ready for implementation by the development team. It emerges from the collaborative understanding among Developers, the Product Owner, and Stakeholders regarding what is required to proceed with a Backlog Item. The importance of DoR lies in its potential to enhance clarity and alignment within agile teams, yet it also presents challenges, such as creating a false sense of readiness, neglecting the need for ongoing refinement, and leading to misconceptions about its equivalence with the Definition of Done (DoD). Unlike the DoD, which is an absolute measure of completion, the subjective nature of DoR can result in partial implementation, risking the integrity of the development process. To mitigate these issues, it is suggested that teams adopt a more nuanced approach to defining readiness, ensuring that each Backlog Item meets specific criteria, such as having a clear outcome, hypothesis, and telemetry for evaluation. The INVEST criteria further guide the formulation of Product Backlog Items, emphasising their independence, negotiability, value, estimability, size, and testability. Ultimately, a well-defined DoR fosters effective communication and understanding within agile teams, contributing to successful product development and organisational design.
+ClassificationContentOrigin: human
 date: 2025-02-11T10:17:24Z
 weight: 295
 description: Ensuring backlog items meet a clear, actionable standard before sprint planning.
@@ -37,11 +37,12 @@ aliases:
 aliasesArchive:
 - /practices/Definition-of-Ready-DoR.html
 - /learn/agile-delivery-kit/practices/definition-of-ready-dor
-concepts:
-- Artifact
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-clipboard-question
+concepts:
+- Artifact
 categories:
 - Product Development
 - Scrum
@@ -53,7 +54,6 @@ tags:
 - Agile Product Management
 - Operational Practices
 - Product Backlog
-icon: fa-clipboard-question
 
 ---
 Definition of Ready (DoR) is an artifact.

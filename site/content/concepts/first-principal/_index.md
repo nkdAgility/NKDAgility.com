@@ -1,11 +1,12 @@
 ---
 title: First Principal
+ClassificationType: concepts
+trustpilot: false
 description: Foundational, non-derivable truths that anchor strategy, guide system design, and define the boundaries of professional practice.
 abstract: A First Principle is an irreducible, self-evident truth that forms the foundation of a system of thought or action. In Lean-Agile, Scrum, and DevOps contexts, first principles guide decision-making by anchoring practices, strategies, and heuristics to immutable truths. Unlike derived principles, which are context-dependent and adaptive, first principles remain stable across domains and serve as the baseline for evaluating whether a system’s design, behaviour, or outcome is valid. First principles are not suggestions — they are non-negotiable constraints that define the boundary of professionalism.
 date: 2025-05-13T09:00:00
+weight: 335
 icon: fa-dna
-trustpilot: false
-ClassificationType: concepts
 Instructions: |-
   Use this category only for discussions on First Principles.
 
@@ -38,7 +39,6 @@ headline:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
-weight: 1000
 
 ---
 A **First Principle** is an **irreducible truth**. It is not a heuristic, value, or belief. It is a foundational constraint on how complex systems behave, adapt, and deliver value.
