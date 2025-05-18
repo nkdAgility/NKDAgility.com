@@ -84,6 +84,9 @@
         {{- end }}
         
         {{ $resources := where (where .Site.RegularPages "Type" "resources") "Date" "le" now }}
+         {{ if ne .Params.ResourceTypes "signals" }}
+         {{ $resources = where $resources "Params.ResourceType" "ne" "signals" }}
+        {{ end }}
         {{ if .Params.ResourceTypes }}
           {{ $resources = where $resources "Params.ResourceType" .Params.ResourceTypes }}
         {{ end }}
