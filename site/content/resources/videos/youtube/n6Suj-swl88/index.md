@@ -3,15 +3,7 @@ title: Who Should Lead the Sprint Review? Unpacking the Role of the Product Owne
 description: Explains why the Product Owner should lead Sprint Reviews in Agile, detailing their role in maximising value, gathering feedback, and updating the product backlog.
 date: 2023-09-06T07:00:15Z
 weight: 665
-ResourceId: n6Suj-swl88
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: n6Suj-swl88
-url: /resources/videos/:slug
 slug: who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
-layout: video
 aliases:
 - /resources/n6Suj-swl88
 - /resources/videos/who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
@@ -23,9 +15,12 @@ aliasesArchive:
 - /resources/who-should-lead-the-sprint-review-
 - /resources/videos/who-should-lead-the-sprint-review
 - who-should-lead-the-sprint-review-unpacking-the-role-of-the-product-owner-in-agile-success
-preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
-duration: 286
-isShort: false
+concepts:
+- Method
+categories:
+- Scrum
+- Product Development
+- Product Management
 tags:
 - Sprint Review
 - Agile Product Management
@@ -39,20 +34,25 @@ tags:
 - Product Delivery
 - Agile Frameworks
 - Value Delivery
+ResourceId: n6Suj-swl88
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: n6Suj-swl88
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
+duration: 286
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:09:39Z
-concepts:
-- Method
 
 ---
 The [Sprint Review]({{< ref "/tags/sprint-review" >}}): Who Should Lead and Why It Matters

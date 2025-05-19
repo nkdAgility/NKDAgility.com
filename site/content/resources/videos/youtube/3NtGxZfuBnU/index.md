@@ -3,18 +3,7 @@ title: Do you think we are on the slope of enlightenment in Gartner's Hype Cycle
 description: Explores whether organisations are moving past Agile disillusionment towards true understanding, highlighting the shift from hype to people-focused, effective Agile practices.
 date: 2023-07-07T07:00:03Z
 weight: 1000
-ResourceId: 3NtGxZfuBnU
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 3NtGxZfuBnU
-source: internal
-url: /resources/videos/:slug
 slug: do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
-preview: https://i.ytimg.com/vi/3NtGxZfuBnU/maxresdefault.jpg
-duration: 219
-isShort: false
 aliases:
 - /resources/3NtGxZfuBnU
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
@@ -26,19 +15,30 @@ aliasesArchive:
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags: []
+ResourceId: 3NtGxZfuBnU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 3NtGxZfuBnU
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/3NtGxZfuBnU/maxresdefault.jpg
+duration: 219
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:58Z
-concepts:
-- Ethos
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

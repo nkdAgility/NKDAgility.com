@@ -3,19 +3,7 @@ title: Can organisations run an Applying Professional Scrum workshop? How would 
 description: Running an Applying Professional Scrum workshop helps organisations build agile skills, improve teamwork, and adopt Scrum practices through hands-on, collaborative learning.
 date: 2023-03-29T07:00:17Z
 weight: 590
-ResourceId: olryF91pOEY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: olryF91pOEY
-source: internal
-url: /resources/videos/:slug
 slug: can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
-layout: video
-preview: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg
-duration: 479
-isShort: false
 aliases:
 - /resources/olryF91pOEY
 - /resources/videos/can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
@@ -28,9 +16,10 @@ aliasesArchive:
 - /resources/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 - /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them
 - can-organisations-run-an-applying-professional-scrum-workshop-how-would-that-help-them
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Scrum
+- Product Development
 tags:
 - Team Collaboration
 - Agile Frameworks
@@ -42,14 +31,25 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Organisational Agility
+ResourceId: olryF91pOEY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: olryF91pOEY
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg
+duration: 479
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:13:29Z
-concepts: []
 
 ---
 **Can organisations run an Applying Professional [Scrum]({{< ref "/categories/scrum" >}}) workshop? How would that help them?**

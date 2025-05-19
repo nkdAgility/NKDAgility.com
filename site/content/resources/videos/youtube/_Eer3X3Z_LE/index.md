@@ -3,42 +3,42 @@ title: What is a product backlog?
 description: A product backlog is a prioritised list of features, tasks, or improvements that guides Agile teams in planning, collaboration, and delivering product value efficiently.
 date: 2023-05-18T07:00:16Z
 weight: 1000
+slug: what-is-a-product-backlog-_Eer3X3Z_LE
+aliases:
+- /resources/_Eer3X3Z_LE
+- /resources/videos/what-is-a-product-backlog-_Eer3X3Z_LE
 ResourceId: _Eer3X3Z_LE
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: _Eer3X3Z_LE
 source: internal
 url: /resources/videos/:slug
-slug: what-is-a-product-backlog-_Eer3X3Z_LE
 preview: https://i.ytimg.com/vi/_Eer3X3Z_LE/maxresdefault.jpg
 duration: 56
 isShort: true
-aliases:
-- /resources/_Eer3X3Z_LE
-- /resources/videos/what-is-a-product-backlog-_Eer3X3Z_LE
 aliasesArchive:
 - /resources/videos/what-is-a-product-backlog
 - /resources/what-is-a-product-backlog-2
 - /resources/videos/what-is-a-product-backlog-
 - /resources/what-is-a-product-backlog-
 - what-is-a-product-backlog-_Eer3X3Z_LE
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Artifact
+categories:
+- Product Development
 tags:
 - Product Backlog
 - Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:12:22Z
-concepts:
-- Artifact
 
 ---
 **What is a [product backlog]({{< ref "/tags/product-backlog" >}})?**

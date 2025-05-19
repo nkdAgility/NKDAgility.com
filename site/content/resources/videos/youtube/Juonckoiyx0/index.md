@@ -3,19 +3,7 @@ title: What should be top of mind when a Scrum team prepare for a Sprint review?
 description: Learn how Scrum teams can boost Sprint review success by engaging stakeholders, tailoring communication, and focusing on value, transparency, and active participation.
 date: 2023-09-04T07:00:13Z
 weight: 690
-ResourceId: Juonckoiyx0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Juonckoiyx0
-source: internal
-url: /resources/videos/:slug
 slug: what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-layout: video
-preview: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg
-duration: 155
-isShort: false
 aliases:
 - /resources/Juonckoiyx0
 - /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
@@ -24,9 +12,10 @@ aliasesArchive:
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 - what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Scrum
+- Product Development
 tags:
 - Sprint Review
 - Agile Product Management
@@ -37,14 +26,25 @@ tags:
 - Agile Planning
 - Agile Frameworks
 - Product Delivery
+ResourceId: Juonckoiyx0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Juonckoiyx0
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg
+duration: 155
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:09:43Z
-concepts: []
 
 ---
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 

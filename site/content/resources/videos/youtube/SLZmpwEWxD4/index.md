@@ -3,19 +3,7 @@ title: The Importance of Visualizing Your Work in a Kanban Strategy
 description: Explains how visualising work in Kanban boosts team clarity, transparency, and alignment, and offers steps to define workflows, avoid misalignment, and improve collaboration.
 date: 2024-03-07T07:00:10Z
 weight: 1000
-ResourceId: SLZmpwEWxD4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: SLZmpwEWxD4
-source: internal
-url: /resources/videos/:slug
 slug: the-importance-of-visualizing-your-work-in-a-kanban-strategy
-layout: video
-preview: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
-duration: 267
-isShort: false
 aliases:
 - /resources/SLZmpwEWxD4
 - /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
@@ -27,24 +15,36 @@ aliasesArchive:
 - /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 - /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
 - the-importance-of-visualizing-your-work-in-a-kanban-strategy
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Practice
+categories:
+- Kanban
+- Product Development
 tags:
 - Software Development
 - Operational Practices
 - Team Performance
 - Agile Frameworks
 - Pragmatic Thinking
+ResourceId: SLZmpwEWxD4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: SLZmpwEWxD4
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
+duration: 267
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Kanban
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:26Z
-concepts:
-- Practice
 
 ---
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one crucial element often overlooked is the **visualization of work**. It’s not just about getting things done; it’s about understanding the flow of value within your system. As a [Scrum Master]({{< ref "/tags/scrum-master" >}}) or Agile practitioner, the ability to visualize your work will empower your team to be more effective, transparent, and aligned. Today, we’ll explore how visualization can transform your [Kanban]({{< ref "/categories/kanban" >}}) strategy, improve collaboration, and streamline processes for better results.

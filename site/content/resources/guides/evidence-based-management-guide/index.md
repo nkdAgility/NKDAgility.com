@@ -1,17 +1,14 @@
 ---
 title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
 description: A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.
+date: 2024-09-17
+weight: 390
 ResourceId: ltc7lzhy14U
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
-aliases:
-- /learn/agile-delivery-kit/guides/evidence-based-management-guide
-- /resources/ltc7lzhy14U
-aliasesArchive:
-- /learn/agile-delivery-kit/guides/evidence-based-management-guide
 references:
 - title: The Evidence-Based Management Guide | Scrum.org
   url: https://scrum.org/resources/evidence-based-management-guide
@@ -25,14 +22,21 @@ references:
   url: https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification-measuring-value-to-enable-improvement-and-agility/
 recommendedContent: 
 videos: 
-date: 2024-09-17
-weight: 390
 creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about The Evidence-Based Management Guide
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
+Watermarks:
+  description: 2025-05-07T12:57:55Z
+aliases:
+- /learn/agile-delivery-kit/guides/evidence-based-management-guide
+- /resources/ltc7lzhy14U
+aliasesArchive:
+- /learn/agile-delivery-kit/guides/evidence-based-management-guide
+concepts:
+- Principle
 categories:
 - Product Development
 - Product Management
@@ -52,10 +56,6 @@ tags:
 - Software Development
 - Enterprise Agility
 - Common Goals
-Watermarks:
-  description: 2025-05-07T12:57:55Z
-concepts:
-- Principle
 
 ---
 # The Evidence-Based Management Guide: Improving [Value Delivery]({{< ref "/tags/value-delivery" >}}) under Conditions of Uncertainty

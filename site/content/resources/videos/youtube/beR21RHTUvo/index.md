@@ -3,19 +3,7 @@ title: 'Story Points: A Ghost of Agile Past'
 description: Explores the problems with story points in Agile, their impact on team behaviour, and why flow metrics offer a better way to measure progress and deliver real value.
 date: 2023-12-29T07:00:14Z
 weight: 1000
-ResourceId: beR21RHTUvo
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: beR21RHTUvo
-source: internal
-url: /resources/videos/:slug
 slug: story-points-a-ghost-of-agile-past
-layout: video
-preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
-duration: 433
-isShort: false
 aliases:
 - /resources/beR21RHTUvo
 - /resources/videos/story-points-a-ghost-of-agile-past
@@ -26,22 +14,34 @@ aliasesArchive:
 - /resources/videos/5-ghosts-of-agile-past-story-points
 - /resources/5-ghosts-of-agile-past-story-points
 - story-points-a-ghost-of-agile-past
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
 tags:
 - Flow Efficiency
 - Value Delivery
 - Throughput
 - Agile Philosophy
 - Metrics and Learning
+ResourceId: beR21RHTUvo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: beR21RHTUvo
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
+duration: 433
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:06:45Z
-concepts: []
 
 ---
 In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment—an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.

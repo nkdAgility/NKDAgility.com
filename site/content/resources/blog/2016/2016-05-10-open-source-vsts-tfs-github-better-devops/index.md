@@ -1,27 +1,31 @@
 ---
 title: Open-source with VSTS or TFS and Github for better DevOps
 description: Learn how to automate code synchronisation between VSTS/TFS and GitHub, enabling seamless DevOps workflows for open-source projects with flexible configuration options.
-ResourceId: LWHiaHn3CWF
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11491
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2016-05-10
 weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: open-source-vsts-tfs-github-better-devops
 aliases:
 - /resources/LWHiaHn3CWF
+ResourceId: LWHiaHn3CWF
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11491
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/open-source-vsts-tfs-github-better-devops
 - /open-source-vsts-tfs-github-better-devops
 - /open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /blog/open-source-with-vsts-or-tfs-and-github-for-better-devops
 - /resources/blog/open-source-vsts-tfs-github-better-devops
+concepts:
+- Tool
+categories:
+- DevOps
 tags:
 - Azure DevOps
 - Continuous Integration
@@ -30,13 +34,9 @@ tags:
 - Modern Source Control
 - Pragmatic Thinking
 - GitHub
-categories:
-- DevOps
 preview: nakedalm-experts-visual-studio-alm-14-14.png
 Watermarks:
   description: 2025-05-07T13:16:44Z
-concepts:
-- Tool
 
 ---
 I have had quite a few requests from folks that want to use the full capabilities of VSTS or TFS but really need to have the code published in [Github]({{< ref "/tags/github" >}}) as it is Open-Source. Well I build a few Open-Source projects and I want to have my cake and eat it too.. I want to be able to use the full power of VSTS to reduce the friction of doing Agility and [DevOps]({{< ref "/categories/devops" >}}), but I want to publish the code and output to Github for public consumption. As Github really is the only place to store OSS software we need to figure out how to handle that.

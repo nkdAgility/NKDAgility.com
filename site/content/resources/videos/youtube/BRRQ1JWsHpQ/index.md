@@ -3,16 +3,7 @@ title: 'Transforming Agile Training into Action: Experimentation and Engagement 
 description: Explores practical ways to apply agile training at work, using experimentation, group engagement techniques, and virtual tools to boost collaboration and real-world impact.
 date: 2023-04-24T07:00:03Z
 weight: 1000
-ResourceId: BRRQ1JWsHpQ
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: BRRQ1JWsHpQ
-source: youtube
-url: /resources/videos/:slug
 slug: transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
-layout: video
 aliases:
 - /resources/BRRQ1JWsHpQ
 - /resources/videos/transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
@@ -23,23 +14,32 @@ aliasesArchive:
 - /resources/the-tools-you-use-to-train-are-awesome-how-do-people-transfer-their-training-experience-with-these-
 - /resources/videos/transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
 - transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
-preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
-duration: 418
-isShort: false
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Team Collaboration
 - Pragmatic Thinking
 - Continuous Learning
+ResourceId: BRRQ1JWsHpQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: BRRQ1JWsHpQ
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/BRRQ1JWsHpQ/maxresdefault.jpg
+duration: 418
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:06Z
-concepts: []
 
 ---
 When it comes to training in agile methodologies, one of the most pressing questions I often encounter is: how do we effectively transfer our training experiences into our day-to-day jobs? The answer lies in [experimentation]({{< ref "/tags/experimentation" >}}). I always encourage participants to try things out, to take the tools and techniques we discuss in class and apply them in their own environments. 

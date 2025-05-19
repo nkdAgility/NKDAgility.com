@@ -3,19 +3,7 @@ title: 'Mastering Market Leadership: The Power of Frequent Product Releases'
 description: Learn how frequent product releases help businesses lead markets, adapt quickly to change, boost user engagement, and deliver continuous value in a fast-paced digital world.
 date: 2025-02-06T11:02:31Z
 weight: 1000
-ResourceId: gM0_K8u2puo
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: gM0_K8u2puo
-source: internal
-url: /resources/videos/:slug
 slug: mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
-layout: video
-preview: https://i.ytimg.com/vi/gM0_K8u2puo/maxresdefault.jpg
-duration: 34
-isShort: true
 aliases:
 - /resources/gM0_K8u2puo
 - /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
@@ -31,17 +19,29 @@ aliasesArchive:
 - /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases
 - /resources/videos/be-a-market-leader-not-a-follower
 - mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceId: gM0_K8u2puo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: gM0_K8u2puo
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/gM0_K8u2puo/maxresdefault.jpg
+duration: 34
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T12:49:48Z
-concepts: []
 
 ---
 In today’s fast-paced digital landscape, the ability to set market trends rather than follow them is crucial for any business aiming for success. I’ve seen firsthand how organisations that embrace a proactive approach to [product delivery]({{< ref "/tags/product-delivery" >}}) can not only survive but thrive. Here’s how you can position yourself as a market leader by adopting a tight release frequency and continuously delivering value to your users.

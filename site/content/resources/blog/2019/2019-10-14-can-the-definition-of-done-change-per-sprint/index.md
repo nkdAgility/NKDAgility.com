@@ -1,27 +1,33 @@
 ---
 title: Can the Definition of Done change per Sprint?
 description: The Definition of Done can evolve to improve quality but should not be weakened or vary per backlog item. Consistency ensures transparency and reliable product increments.
-ResourceId: LdmZbBlwgM-
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 40168
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2019-10-14
 weight: 360
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: can-the-definition-of-done-change-per-sprint
 aliases:
 - /resources/LdmZbBlwgM-
+ResourceId: LdmZbBlwgM-
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 40168
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/can-the-definition-of-done-change-per-sprint
 - /can-the-definition-of-done-change-per-sprint
 - /can-the-definition-of-done-change-per-sprint-
 - /blog/can-the-definition-of-done-change-per-sprint-
 - /resources/blog/can-the-definition-of-done-change-per-sprint
+concepts:
+- Artifact
+categories:
+- Scrum
+- Product Development
+- Engineering Excellence
 tags:
 - Definition of Done
 - Professional Scrum
@@ -35,15 +41,9 @@ tags:
 - Empirical Process Control
 - Team Performance
 - Product Delivery
-categories:
-- Scrum
-- Product Development
-- Engineering Excellence
 preview: 20190906_152025-2-2.gif
 Watermarks:
   description: 2025-05-07T13:16:06Z
-concepts:
-- Artifact
 
 ---
 I was asked this question today and I think there is a clear answer, however it may change depending on the context of the question.

@@ -3,15 +3,7 @@ title: 'Transforming Agile: How to Shift from Blame to Systemic Solutions for Be
 description: Explores how shifting from blame to addressing systemic issues and measurement systems can improve team dynamics, collaboration, and agility in software development.
 date: 2023-09-29T07:00:14Z
 weight: 665
-ResourceId: LxM_F_JJLeg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: LxM_F_JJLeg
-url: /resources/videos/:slug
 slug: transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
-layout: video
 aliases:
 - /resources/LxM_F_JJLeg
 - /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
@@ -22,9 +14,10 @@ aliasesArchive:
 - /resources/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 - /resources/videos/dont-put-down-to-malevolence-what-can-be-explained-by-incompetence
 - transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
-preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
-duration: 338
-isShort: false
+concepts:
+- Ethos
+categories:
+- Product Development
 tags:
 - Agile Philosophy
 - Personal
@@ -35,18 +28,25 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
+ResourceId: LxM_F_JJLeg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: LxM_F_JJLeg
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
+duration: 338
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:09:08Z
-concepts:
-- Ethos
 
 ---
 I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, [Scrum]({{< ref "/categories/scrum" >}}) Master, or [product owner]({{< ref "/tags/product-owner" >}}).

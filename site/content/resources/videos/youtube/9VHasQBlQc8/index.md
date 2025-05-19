@@ -3,19 +3,7 @@ title: The Importance of Patience and Trust in Building Agile Organizations
 description: Explores how patience and trust foster effective Agile teams, support learning from failure, prevent blame culture, and enable innovation through empiricism and collaboration.
 date: 2023-12-08T07:00:06Z
 weight: 665
-ResourceId: 9VHasQBlQc8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 9VHasQBlQc8
-source: internal
-url: /resources/videos/:slug
 slug: the-importance-of-patience-and-trust-in-building-agile-organizations
-layout: video
-preview: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg
-duration: 156
-isShort: false
 aliases:
 - /resources/9VHasQBlQc8
 - /resources/videos/the-importance-of-patience-and-trust-in-building-agile-organizations
@@ -26,9 +14,11 @@ aliasesArchive:
 - /resources/videos/7-virtues-of-agile-patience
 - /resources/7-virtues-of-agile-patience
 - the-importance-of-patience-and-trust-in-building-agile-organizations
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
+- Leadership
 tags:
 - Agile Transformation
 - Empirical Process Control
@@ -39,15 +29,25 @@ tags:
 - Agile Strategy
 - Business Agility
 - Psychological Safety
+ResourceId: 9VHasQBlQc8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 9VHasQBlQc8
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg
+duration: 156
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Leadership
 Watermarks:
   description: 2025-05-07T13:07:09Z
-concepts:
-- Principle
 
 ---
 In order for organizations to succeed, they must cultivate trust. Trust doesn't happen overnight; it's built on the foundation of patience. Patience with people, processes, and, most importantly, patience with outcomes that may not always align with expectations.

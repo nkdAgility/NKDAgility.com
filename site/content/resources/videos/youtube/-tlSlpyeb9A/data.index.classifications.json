@@ -3094,5 +3094,24 @@
     "reasoning": "The content discusses evolving the Definition of Done, focusing on incremental improvement, team momentum, and quality. While it references delivering value and putting increments in front of customers or stakeholders, it does not deeply explore how customer outcomes are defined, measured, or used to drive product development. The main emphasis is on internal team practices and process evolution, with only brief, indirect nods to customer value. There are no explicit feedback loops, measurement of customer outcomes, or evidence-based prioritisation from the customer’s perspective. The audience is practitioners, and the content is relevant to agile teams, but the customer focus is not central or deeply developed.",
     "reasoning_summary": "This content centres on evolving team standards and the Definition of Done, with only brief mentions of delivering value to customers. It lacks depth on measuring or prioritising customer outcomes, so its fit for 'Customer Focus' is limited.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "-tlSlpyeb9A",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:52:52",
+    "ai_confidence": 13.7,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.1,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is focused entirely on the Definition of Done, not the Definition of Workflow. It discusses how teams can incrementally improve their Definition of Done, with examples such as adding automated tests, telemetry, and compliance checks. There is no mention of workflow policies, entry/exit criteria, WIP limits, or Kanban-specific concepts. The intent, depth, and alignment are all low for the Definition of Workflow category, as the content is not about making the flow of work explicit or adaptable, but rather about evolving quality standards for completion. The audience is somewhat related (agile teams), but the signal-to-noise ratio is low for this category.",
+    "reasoning_summary": "This content is about evolving the Definition of Done, not the Definition of Workflow. It lacks discussion of workflow policies, Kanban, or flow management, so confidence in this category is very low.",
+    "level": "Ignored"
   }
 }

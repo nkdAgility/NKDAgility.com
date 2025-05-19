@@ -1,18 +1,8 @@
 ---
 title: Many organisations are lured to SAFe by the song of the Sirens
 description: Explores how organisations adopt SAFe for agility but risk rigid bureaucracy, highlighting the need for genuine business evolution over prescriptive frameworks.
-ResourceId: kmQceaX7e-O
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 44502
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-07-01
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 aliases:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
@@ -23,15 +13,25 @@ aliasesArchive:
 - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 - /resources/blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
-tags:
-- Agnostic Agile
+concepts:
+- Ethos
 categories:
 - Uncategorized
+tags:
+- Agnostic Agile
+ResourceId: kmQceaX7e-O
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 44502
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 Watermarks:
   description: 2025-05-07T13:15:32Z
-concepts:
-- Ethos
 
 ---
 These Sirens take advantage of the lack of understanding of what [business agility]({{< ref "/tags/business-agility" >}}) is trying to change and lures unsuspecting C-suite executives into parting with their cash for what is effectively someone else's business process. They are changing their entire organisation, not because of a business challenge, but because they are told to.

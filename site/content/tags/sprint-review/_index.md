@@ -1,11 +1,11 @@
 ---
 title: Sprint Review
-abstract: The Sprint Review is a fundamental event within the Scrum framework, aimed at evaluating the work completed during a sprint and refining the product backlog based on feedback from stakeholders. This collaborative meeting involves the Scrum Team and key stakeholders, promoting transparency and open communication regarding the product's progress and future direction. By presenting the increment, teams can assess their achievements against the sprint goal, ensuring alignment with customer needs and expectations. This practice is crucial for enabling teams to deliver value consistently and sustainably, as it fosters continuous improvement through real-time feedback, which is essential in a rapidly changing market. The Sprint Review enhances accountability and nurtures a culture of collaboration and shared ownership among team members and stakeholders. Additionally, it provides a forum for discussing future priorities, ensuring that the product evolves to maximise value delivery. By incorporating stakeholder insights, teams can make informed decisions that improve the product's development trajectory, ultimately leading to a more resilient and adaptive process. The Sprint Review is not just a routine check; it is a vital tool for promoting innovation and responsiveness within the organisation, contributing to long-term success and customer satisfaction through a commitment to ongoing learning and adaptation.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: The Sprint Review is a fundamental event within the Scrum framework, aimed at evaluating the work completed during a sprint and refining the product backlog based on feedback from stakeholders. This collaborative meeting involves the Scrum Team and key stakeholders, promoting transparency and open communication regarding the product's progress and future direction. By presenting the increment, teams can assess their achievements against the sprint goal, ensuring alignment with customer needs and expectations. This practice is crucial for enabling teams to deliver value consistently and sustainably, as it fosters continuous improvement through real-time feedback, which is essential in a rapidly changing market. The Sprint Review enhances accountability and nurtures a culture of collaboration and shared ownership among team members and stakeholders. Additionally, it provides a forum for discussing future priorities, ensuring that the product evolves to maximise value delivery. By incorporating stakeholder insights, teams can make informed decisions that improve the product's development trajectory, ultimately leading to a more resilient and adaptive process. The Sprint Review is not just a routine check; it is a vital tool for promoting innovation and responsiveness within the organisation, contributing to long-term success and customer satisfaction through a commitment to ongoing learning and adaptation.
+ClassificationContentOrigin: AI
 date: 2025-05-11T10:17:24Z
-weight: 1000
+weight: 470
 description: Inspecting and adapting the increment to ensure transparency and stakeholder feedback.
 Instructions: |-
   **Use this category only for discussions on Sprint Review.**  
@@ -36,10 +36,12 @@ aliases:
 - /resources/v_AGzuOgZ0g
 aliasesArchive:
 - /learn/agile-delivery-kit/practices/sprint-planning-event
+icon: fa-chalkboard-user
 concepts:
 - Framework
 categories:
 - Scrum
+- Product Development
 - Product Management
 tags:
 - Continuous Learning
@@ -47,13 +49,16 @@ tags:
 - Agile Frameworks
 - Social Technologies
 - Agile Planning
+- Software Development
 - Pragmatic Thinking
 - Team Collaboration
 - Team Performance
 - Operational Practices
+- Product Delivery
 - Professional Scrum
 - Metrics and Learning
-icon: fa-chalkboard-user
+- Agile Product Management
+- Organisational Agility
 
 ---
 We will endevour to explain not just the purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) but the additional practices and understanding that are required to make it effective. We will also look at how to market the outcome and help teams to communicate their intentions and plans to stakeholders so that they can support the team in their work.

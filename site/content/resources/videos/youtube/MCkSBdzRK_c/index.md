@@ -3,15 +3,7 @@ title: 'Unlocking Business Value: The Power of Evidence-Based Management for Eff
 description: Explains how evidence-based management uses data-driven decisions and tailored metrics to boost business value, leadership effectiveness, and organisational innovation.
 date: 2024-01-25T07:00:13Z
 weight: 1000
-ResourceId: MCkSBdzRK_c
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: MCkSBdzRK_c
-url: /resources/videos/:slug
 slug: unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
-layout: video
 aliases:
 - /resources/MCkSBdzRK_c
 - /resources/videos/unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
@@ -22,9 +14,10 @@ aliasesArchive:
 - /resources/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 - /resources/videos/making-business-decisions-with-evidence-what-is-evidence-based-management
 - unlocking-business-value-the-power-of-evidence-based-management-for-effective-leadership
-preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
-duration: 369
-isShort: false
+concepts: []
+categories:
+- Product Management
+- Leadership
 tags:
 - Evidence Based Leadership
 - Evidence Based Management
@@ -32,18 +25,25 @@ tags:
 - Decision Making
 - Metrics and Learning
 - Pragmatic Thinking
+ResourceId: MCkSBdzRK_c
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: MCkSBdzRK_c
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
+duration: 369
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Management
-- Leadership
 Watermarks:
   description: 2025-05-07T13:06:14Z
-concepts: []
 
 ---
 When I think about evidence-based management, I can't help but reflect on how crucial it is to bring a scientific approach to [leadership]({{< ref "/categories/leadership" >}}). In my experience, many organisations still rely heavily on gut feelings or vanity metrics—those numbers that make us look good but don’t actually drive meaningful change. This is where evidence-based management steps in, helping us focus on delivering real business value.

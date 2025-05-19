@@ -3,19 +3,7 @@ title: One critical skill for a Scrum Master and why?
 description: Teaching is the key skill for Scrum Masters, enabling teams to understand Agile principles, embrace change, and achieve deeper engagement and lasting transformation.
 date: 2023-04-25T07:00:15Z
 weight: 665
-ResourceId: kEywzkMhWl0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: kEywzkMhWl0
-source: internal
-url: /resources/videos/:slug
 slug: one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
-layout: video
-preview: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg
-duration: 50
-isShort: true
 aliases:
 - /resources/kEywzkMhWl0
 - /resources/videos/one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
@@ -29,20 +17,32 @@ aliasesArchive:
 - /resources/1-critical-skill-for-a-scrum-master-and-why-
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why
 - one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Scrum Master
 - Agile Transformation
 - Professional Scrum
+ResourceId: kEywzkMhWl0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: kEywzkMhWl0
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg
+duration: 50
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:02Z
-concepts: []
 
 ---
 **1 critical skill for a [Scrum]({{< ref "/categories/scrum" >}}) Master and why?**

@@ -1,19 +1,8 @@
 ---
 title: 'The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development'
 description: Explores how the seven deadly sins from Greek philosophy mirror common pitfalls in agile software development, offering insights to avoid pride, envy, greed, and more.
-ResourceId: DgJV3wMMjWr
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 50309
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-10-17
 weight: 840
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 aliases:
 - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
@@ -28,15 +17,26 @@ aliasesArchive:
 - /the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /blog/the-7-deadly-sins-of-agile--a-grecian-odyssey-through-modern-software-development
 - /resources/blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
-tags:
-- Software Development
+concepts:
+- Ethos
 categories:
 - Uncategorized
+tags:
+- Software Development
+ResourceId: DgJV3wMMjWr
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 50309
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 Watermarks:
   description: 2025-05-07T13:08:42Z
-concepts:
-- Ethos
 
 ---
 In the rich tapestry of ancient Greek philosophy, the concept of the seven deadly sins stands out as a profound exploration of human nature and morality. Deeply rooted in Greek thought, these sins were not seen as fleeting transgressions. Instead, they were formidable obstacles, barriers between individuals and a virtuous, fulfilling life.

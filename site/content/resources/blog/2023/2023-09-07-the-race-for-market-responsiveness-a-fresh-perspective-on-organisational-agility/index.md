@@ -1,19 +1,8 @@
 ---
 title: 'The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility'
 description: Explores why true organisational agility means building custom processes to respond quickly to market changes, not just adopting popular frameworks or hybrid models.
-ResourceId: Jz5uZMzPiRx
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 49732
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-09-07
 weight: 1000
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliases:
 - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
@@ -28,6 +17,9 @@ aliasesArchive:
 - /the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /blog/the-race-for-market-responsiveness--a-fresh-perspective-on-organisational-agility
 - /resources/blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Organisational Agility
 - Business Agility
@@ -35,12 +27,20 @@ tags:
 - Market Adaptability
 - Organisational Change
 - Pragmatic Thinking
-categories:
-- Uncategorized
+ResourceId: Jz5uZMzPiRx
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 49732
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: naked-agility-technically-survivalisoptional-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:38Z
-concepts: []
 
 ---
 As I sit here, sipping my morning cup of tea, I ponder the current state of [organisational agility]({{< ref "/tags/organisational-agility" >}}). I've been in this game long enough to have seen the rise and fall of various methodologies, each promising to be the silver bullet that will solve all of an organisation's woes. I was initially an ALM consultant, then [DevOps]({{< ref "/categories/devops" >}}). But, as I've often found, the reality is far from the promise.

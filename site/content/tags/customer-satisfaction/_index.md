@@ -1,9 +1,9 @@
 ---
 title: Customer Satisfaction
-abstract: Customer satisfaction is the assessment of how effectively a product or service meets or surpasses user expectations, serving as a crucial indicator of product-market fit and a key feedback mechanism for teams aiming to deliver value. This concept originates from the need to understand user experiences and is integral to fostering a customer-centric culture within organisations. By prioritising customer satisfaction, teams can adapt and innovate based on genuine user feedback, which helps identify pain points and opportunities for enhancement, leading to iterative improvements that align with user needs. In the context of agile, DevOps, and product development, customer satisfaction is vital for long-term success, promoting a proactive approach to quality and responsiveness in a rapidly evolving market. Emphasising this principle enables organisations to establish a resilient framework that supports continuous improvement and value delivery, ensuring that customer satisfaction transcends being merely a metric and becomes a foundational element that influences all aspects of product development and delivery.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Customer satisfaction is the assessment of how effectively a product or service meets or surpasses user expectations, serving as a crucial indicator of product-market fit and a key feedback mechanism for teams aiming to deliver value. This concept originates from the need to understand user experiences and is integral to fostering a customer-centric culture within organisations. By prioritising customer satisfaction, teams can adapt and innovate based on genuine user feedback, which helps identify pain points and opportunities for enhancement, leading to iterative improvements that align with user needs. In the context of agile, DevOps, and product development, customer satisfaction is vital for long-term success, promoting a proactive approach to quality and responsiveness in a rapidly evolving market. Emphasising this principle enables organisations to establish a resilient framework that supports continuous improvement and value delivery, ensuring that customer satisfaction transcends being merely a metric and becomes a foundational element that influences all aspects of product development and delivery.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 670
 description: Measuring and enhancing customer happiness to ensure product-market fit.
@@ -34,15 +34,16 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:07:21
+icon: fa-face-grin-stars
 concepts:
 - Principle
 categories:
 - Product Development
 tags:
 - Customer Retention
+- Customer Focus
 - Current Value
 - Value Delivery
-icon: fa-face-grin-stars
 
 ---
 Customer satisfaction is the measure of how well a product or service meets or exceeds the expectations of its users. It is a critical indicator of product-market fit and serves as a vital feedback loop for teams striving to deliver value. By prioritising customer satisfaction, organisations can ensure that their offerings resonate with users, leading to increased loyalty and retention.

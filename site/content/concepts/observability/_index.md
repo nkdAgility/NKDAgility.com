@@ -1,13 +1,13 @@
 ---
 title: Observability
+description: Observability enables data-driven insight into how work flows and value is delivered. It supports transparency, informed decision-making, and continuous improvement across teams, products, and the business.
+ClassificationType: concepts
+trustpilot: false
 abstract: Observability is the practice of gaining comprehensive insights into systems and processes, enabling teams to understand work flows and value delivery. It transcends traditional monitoring by offering a holistic view of system behaviour, which allows teams to identify patterns, diagnose issues, and make informed decisions based on real-time data. This capability is essential for fostering transparency and collaboration within teams and across organisational silos. By implementing observability, organisations can improve their ability to deliver value predictably and sustainably, supporting continuous improvement through learning and adaptation. It encompasses not only technical telemetry but also signals reflecting team dynamics, product experiences, and alignment with strategic goals, thus providing a complete view of performance that includes both human and technical factors. When integrated into daily practices, observability cultivates a feedback-rich environment that enhances decision-making and strengthens delivery capabilities. It represents a cultural shift that empowers teams to take ownership of their processes and outcomes, aligning with Lean and Agile principles focused on understanding flow and eliminating waste. By embedding observability into the organisational framework, teams can create a resilient environment that leverages data-driven insights, ultimately leading to improved products, stronger teams, and more strategic business outcomes.
 date: 2025-04-09T14:00:00
-icon: fa-eye
 weight: 310
-ClassificationType: concepts
+icon: fa-eye
 ClassificationContentOrigin: AI
-trustpilot: false
-description: Observability enables data-driven insight into how work flows and value is delivered. It supports transparency, informed decision-making, and continuous improvement across teams, products, and the business.
 Instructions: |-
   **Use this category only for discussions on Observability.**  
   Observability refers to the capability of measuring and understanding the internal states of a system based on the data it generates. It enables teams to gain insights into how work flows and how value is delivered, fostering transparency, informed decision-making, and continuous improvement across various teams, products, and the business.

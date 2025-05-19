@@ -1,19 +1,8 @@
 ---
 title: Navigating the Future with a Fine-Tuned Product Backlog
 description: Explains how a well-ordered, refined Product Backlog guides Agile teams, supports goal alignment, and ensures value-driven product development through ongoing prioritisation.
-ResourceId: hWDjTSSBUJh
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 49510
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-08-10
 weight: 690
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: navigating-the-future-with-a-fine-tuned-product-backlog
 aliases:
 - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
@@ -24,6 +13,12 @@ aliasesArchive:
 - /blog/navigating-the-future-with-a-fine-tuned-product-backlog
 - /navigating-the-future-with-a-fine-tuned-product-backlog
 - /resources/blog/navigating-the-future-with-a-fine-tuned-product-backlog
+concepts:
+- Artifact
+categories:
+- Scrum
+- Product Management
+- Product Development
 tags:
 - Product Backlog
 - Professional Scrum
@@ -36,15 +31,20 @@ tags:
 - Value Delivery
 - Agile Planning Tools
 - Pragmatic Thinking
-categories:
-- Scrum
-- Product Management
-- Product Development
+ResourceId: hWDjTSSBUJh
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 49510
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:18Z
-concepts:
-- Artifact
 
 ---
 As a seasoned Agile consultant, I find myself amidst conversations about the mechanics of a successful Agile project. Today, I focus on an essential yet often underappreciated aspect - the [Product Backlog]({{< ref "/tags/product-backlog" >}}). A well-ordered Product Backlog that is comprehensible to all stakeholders is a critical beacon that illuminates the path to a transparent future.

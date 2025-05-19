@@ -3,15 +3,7 @@ title: 'Unlocking Success in Agile: Why Your Definition of Done is Essential for
 description: Explains why a clear Definition of Done is vital in Agile and Scrum for quality delivery, transparency, and risk mitigation, with tips for team alignment and improvement.
 date: 2023-11-13T06:56:47Z
 weight: 355
-ResourceId: APZNdMokZVo
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: APZNdMokZVo
-url: /resources/videos/:slug
 slug: unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
-layout: video
 aliases:
 - /resources/APZNdMokZVo
 - /resources/videos/unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
@@ -22,9 +14,11 @@ aliasesArchive:
 - /resources/what-is-a-definition-of-done-why-is-it-so-important-
 - /resources/videos/what-is-a-definition-of-done-why-is-it-so-important
 - unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
-preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
-duration: 360
-isShort: false
+concepts:
+- Artifact
+categories:
+- Scrum
+- Product Development
 tags:
 - Definition of Done
 - Pragmatic Thinking
@@ -35,19 +29,25 @@ tags:
 - Professional Scrum
 - Transparency
 - Agile Frameworks
+ResourceId: APZNdMokZVo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: APZNdMokZVo
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
+duration: 360
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:07:56Z
-concepts:
-- Artifact
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one concept has consistently stood out as a cornerstone of success: the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD). It’s not just a checklist; it’s a commitment to quality that shapes the very essence of our work. Today, I want to share my insights on why the Definition of Done is crucial and how it can transform your team's approach to delivering value.

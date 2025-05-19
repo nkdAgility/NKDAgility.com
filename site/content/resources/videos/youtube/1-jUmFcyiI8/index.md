@@ -3,16 +3,7 @@ title: 'Maximising Deployment Frequency: The Key to Faster Time to Market and Bu
 description: Explores how increasing deployment frequency, stable environments, and fast feedback loops improve software delivery, reduce time to market, and align with business goals.
 date: 2025-01-22T14:16:54Z
 weight: 230
-ResourceId: 1-jUmFcyiI8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 1-jUmFcyiI8
-source: youtube
-url: /resources/videos/:slug
 slug: maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
-layout: video
 aliases:
 - /resources/1-jUmFcyiI8
 - /resources/videos/maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
@@ -22,9 +13,11 @@ aliasesArchive:
 - /resources/videos/accelerating-time-to-market-with-a-tight-feedback-loop
 - /resources/accelerating-time-to-market-with-a-tight-feedback-loop
 - maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success
-preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
-duration: 551
-isShort: false
+concepts: []
+categories:
+- Engineering Excellence
+- Product Development
+- DevOps
 tags:
 - Frequent Releases
 - Organisational Agility
@@ -41,18 +34,25 @@ tags:
 - Continuous Delivery
 - Pragmatic Thinking
 - Working Software
+ResourceId: 1-jUmFcyiI8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 1-jUmFcyiI8
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/1-jUmFcyiI8/maxresdefault.jpg
+duration: 551
+isShort: false
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-categories:
-- Engineering Excellence
-- Product Development
-- DevOps
 Watermarks:
   description: 2025-05-07T12:49:56Z
-concepts: []
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've come to realise that [deployment frequency]({{< ref "/tags/deployment-frequency" >}}) is a crucial leading indicator of a company's ability to reduce [time to market]({{< ref "/tags/time-to-market" >}}). It’s a metric that, when understood correctly, can illuminate the path to more efficient delivery. However, it’s essential to remember that deploying frequently to a test environment doesn’t necessarily translate to success in production. I've seen teams that deploy to test environments with alarming regularity, yet their production deployments remain a struggle. This disconnect can be misleading.

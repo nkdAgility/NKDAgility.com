@@ -1,16 +1,8 @@
 ---
 title: Seasons Greetings & Upcoming Professional Scrum training classes
 description: Get updates on new trainers, expanded Scrum training classes, community growth, and upcoming professional development opportunities for Scrum Masters, teams, and managers.
-ResourceId: Tx-0zZJ1biI
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2022-12-21
 weight: 1000
-preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 slug: seasons-greetings-upcoming-professional-scrum-training-classes
 aliases:
 - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
@@ -19,12 +11,20 @@ aliases:
 aliasesArchive:
 - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+concepts: []
 categories:
 - Scrum
 tags: []
+ResourceId: Tx-0zZJ1biI
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+preview: naked-agility-technically-agile-1280×720-Holiday2022.jpg
+author: MrHinsh
+resourceTypes: newsletter
+layout: newsletter
 Watermarks:
   description: 2025-05-07T13:14:39Z
-concepts: []
 
 ---
 \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]

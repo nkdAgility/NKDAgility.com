@@ -3,15 +3,7 @@ title: 'Unlocking Agile Success: Embrace Continuous Forecasting and Transform Yo
 description: Explore practical strategies for Agile training, including virtual class setups, continuous forecasting, and using metrics to improve planning, learning, and team outcomes.
 date: 2020-05-21T05:26:17Z
 weight: 1000
-ResourceId: HjyUeuf1IEw
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: HjyUeuf1IEw
-url: /resources/videos/:slug
 slug: unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
-layout: video
 aliases:
 - /resources/HjyUeuf1IEw
 - /resources/videos/unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
@@ -22,21 +14,29 @@ aliasesArchive:
 - /resources/20th-may-2020-office-hours-ask-me-anything
 - /resources/videos/unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
 - unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: HjyUeuf1IEw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: HjyUeuf1IEw
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:43Z
-concepts: []
 
 ---
 As I sit here in my office, I’m excited to share some insights from my recent experiences in the world of Agile training and the innovative approaches we’re adopting to enhance our learning environments. This week, I want to delve into a couple of key topics: the new training programme I’ve launched and the concept of continuous [forecasting]({{< ref "/tags/forecasting" >}}), which I discussed with Daniel Vacanti during our recent Professional [Scrum]({{< ref "/categories/scrum" >}}) with [Kanban]({{< ref "/categories/kanban" >}}) class.

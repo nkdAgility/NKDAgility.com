@@ -3,15 +3,7 @@ title: 'Embracing Chastity in Agile: Why Taking Your Time is Key to True Transfo
 description: Explores the importance of patience in agile adoption, highlighting inclusive decision-making, stakeholder engagement, and thoughtful organisational change for lasting impact.
 date: 2023-12-04T08:39:06Z
 weight: 800
-ResourceId: vftc6m70a0w
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: vftc6m70a0w
-url: /resources/videos/:slug
 slug: embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
-layout: video
 aliases:
 - /resources/vftc6m70a0w
 - /resources/videos/embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
@@ -21,22 +13,30 @@ aliasesArchive:
 - /resources/videos/7-virtues-of-agile-chastity
 - /resources/7-virtues-of-agile-chastity
 - embracing-chastity-in-agile-why-taking-your-time-is-key-to-true-transformation
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags: []
+ResourceId: vftc6m70a0w
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: vftc6m70a0w
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:07:19Z
-concepts:
-- Ethos
 
 ---
 In the realm of agility, one of the seven virtues that often gets overlooked is chastity. Now, before you raise an eyebrow, let me clarify: in our agile context, chastity is all about taking your time. It’s about resisting the urge to rush into the implementation of agile practices without fully understanding the implications of those changes within your organisation.

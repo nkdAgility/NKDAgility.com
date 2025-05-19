@@ -3,15 +3,7 @@ title: 'Transforming Leadership: Embrace the Immersive Journey to Agile Mastery'
 description: Explores a shift from intensive workshops to ongoing, immersive agile leadership training, enabling leaders to apply skills, build relationships, and drive team success.
 date: 2023-07-13T12:06:17Z
 weight: 665
-ResourceId: OWvCS3xb7pQ
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: OWvCS3xb7pQ
-url: /resources/videos/:slug
 slug: transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
-layout: video
 aliases:
 - /resources/OWvCS3xb7pQ
 - /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
@@ -22,9 +14,9 @@ aliasesArchive:
 - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
 - transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
-preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
-duration: 181
-isShort: false
+concepts: []
+categories:
+- Leadership
 tags:
 - Agile Transformation
 - Continuous Learning
@@ -32,17 +24,25 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - Organisational Change
+ResourceId: OWvCS3xb7pQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: OWvCS3xb7pQ
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
+duration: 181
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Leadership
 Watermarks:
   description: 2025-05-07T13:10:41Z
-concepts: []
 
 ---
 As I reflect on my journey in agile [leadership]({{< ref "/categories/leadership" >}}), I often find myself pondering the pivotal role that effective training plays in shaping the leaders of tomorrow. Recently, I had the opportunity to delve into the Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials course, which serves as a crucial stepping stone for managers and leaders transitioning from traditional management styles to agile leadership. This course is designed to empower [Scrum]({{< ref "/categories/scrum" >}}) teams and agile practitioners, helping them flourish and create exceptional products.

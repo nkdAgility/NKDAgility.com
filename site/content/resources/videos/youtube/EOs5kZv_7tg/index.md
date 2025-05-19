@@ -3,19 +3,7 @@ title: Why is Johanna a great teacher for the Professional Agile Leadership - Es
 description: Highlights Johanna’s passion, deep experience, and engaging teaching style in the Professional Agile Leadership course, fostering dynamic learning for leaders and decision-makers.
 date: 2023-07-26T04:03:17Z
 weight: 765
-ResourceId: EOs5kZv_7tg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: EOs5kZv_7tg
-source: internal
-url: /resources/videos/:slug
 slug: why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
-layout: video
-preview: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg
-duration: 131
-isShort: false
 aliases:
 - /resources/EOs5kZv_7tg
 - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
@@ -26,17 +14,29 @@ aliasesArchive:
 - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 - why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: EOs5kZv_7tg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: EOs5kZv_7tg
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg
+duration: 131
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:35Z
-concepts: []
 
 ---
 ## Power of Passion

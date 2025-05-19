@@ -1,28 +1,33 @@
 ---
 title: Getting started with a modern source control system and DevOps
 description: Learn key practices for adopting modern source control and DevOps, including automation, release pipelines, and team collaboration to improve software delivery quality.
-ResourceId: bkiQSbbO78R
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11456
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2017-11-10
 weight: 230
+slug: getting-started-with-modern-source-control-system-and-devops
+aliases:
+- /resources/bkiQSbbO78R
+ResourceId: bkiQSbbO78R
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11456
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
-slug: getting-started-with-modern-source-control-system-and-devops
-aliases:
-- /resources/bkiQSbbO78R
 aliasesArchive:
 - /blog/getting-started-with-modern-source-control-system-and-devops
 - /getting-started-with-modern-source-control-system-and-devops
 - /getting-started-with-a-modern-source-control-system-and-devops
 - /blog/getting-started-with-a-modern-source-control-system-and-devops
 - /resources/blog/getting-started-with-modern-source-control-system-and-devops
+concepts:
+- Tool
+categories:
+- Engineering Excellence
+- DevOps
 tags:
 - Technical Mastery
 - Operational Practices
@@ -30,14 +35,9 @@ tags:
 - Engineering Practices
 - Modern Source Control
 - Pragmatic Thinking
-categories:
-- Engineering Excellence
-- DevOps
 preview: excellence-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:25Z
-concepts:
-- Tool
 
 ---
 There are a number of things that you have to think about when selecting a [modern source control]({{< ref "/tags/modern-source-control" >}}) system. Some of that is purely about code, but modern source control systems are about way more than code. They are about your entire application lifecycle and supporting [DevOps]({{< ref "/categories/devops" >}}) practices, they are about the metadata that you use to understand and manage your development processes and deliver great software. The tools you choose should compliment the professional people and practices that you use.

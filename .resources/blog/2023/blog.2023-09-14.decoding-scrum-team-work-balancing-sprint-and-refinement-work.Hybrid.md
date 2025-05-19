@@ -1,19 +1,8 @@
 ---
 title: 'Decoding Scrum Team Work: Balancing Sprint and Refinement Work'
 description: Explains how Scrum teams can balance Sprint work and Refinement, with strategies and visual tools to track, manage, and visualise both for better workflow and product delivery.
-ResourceId: RCMVmNzZDfV
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 49783
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-09-14
 weight: 690
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: decoding-scrum-team-work-balancing-sprint-and-refinement-work
 aliases:
 - /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
@@ -28,6 +17,11 @@ aliasesArchive:
 - /decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /blog/decoding-scrum-team-work--balancing-sprint-and-refinement-work
 - /resources/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
+concepts:
+- Method
+categories:
+- Product Development
+- Scrum
 tags:
 - Agile Product Management
 - Professional Scrum
@@ -39,14 +33,20 @@ tags:
 - Agile Planning
 - Pragmatic Thinking
 - Product Delivery
-categories:
-- Product Development
-- Scrum
+ResourceId: RCMVmNzZDfV
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 49783
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 Watermarks:
   description: 2025-05-07T13:09:32Z
-concepts:
-- Method
 
 ---
 **[Software Development]({{< ref "/tags/software-development" >}})** is not just a systematic process but a dynamic interplay of critical work that shapes the progress of your product. A **[Scrum]({{< ref "/categories/scrum" >}})** team's work can be classified into **Sprint** work and **Refinement**. To steer your **[Scrum Team]({{< ref "/tags/scrum-team" >}})** towards success, it's essential to understand, manage, and balance these two types of work. This article dives deep into the heart of Scrum team operations, offering clear-cut strategies and innovative visualisation techniques to help you understand and manage your Sprint work and Refinement processes effectively. Decode the intricacies of Scrum teamwork and unlock the path to achieving your product goals with increased efficiency.

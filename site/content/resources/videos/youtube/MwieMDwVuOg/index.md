@@ -3,15 +3,7 @@ title: 'Scaling Smart: How to Build Sustainable Growth Without the Chaos'
 description: Learn how to achieve sustainable, resilient organisational growth by focusing on simplification, value delivery, and effective agile practices—avoiding chaos as you scale.
 date: 2025-02-19T07:25:02Z
 weight: 750
-ResourceId: MwieMDwVuOg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: MwieMDwVuOg
-url: /resources/videos/:slug
 slug: scaling-smart-how-to-build-sustainable-growth-without-the-chaos
-layout: video
 aliases:
 - /resources/MwieMDwVuOg
 - /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
@@ -24,9 +16,10 @@ aliasesArchive:
 - /resources/the-key-to-scaling-successfully-agile-as-an-enabler
 - /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
 - scaling-smart-how-to-build-sustainable-growth-without-the-chaos
-preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
-duration: 114
-isShort: false
+concepts:
+- Capability
+categories:
+- Product Development
 tags:
 - Scaling
 - Agile Philosophy
@@ -36,18 +29,25 @@ tags:
 - Enterprise Agility
 - Organisational Agility
 - Pragmatic Thinking
+ResourceId: MwieMDwVuOg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: MwieMDwVuOg
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
+duration: 114
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T12:49:35Z
-concepts:
-- Capability
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) isn't just about moving fast; it's about moving smart and sustainably. I've seen it time and again: organisations rush to scale without laying the right foundations, and what do they end up with? A bigger mess. It’s crucial to understand that while agile methodologies provide a pathway to scale, simply picking a framework and running with it isn’t the answer.

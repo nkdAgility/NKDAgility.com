@@ -1,18 +1,8 @@
 ---
 title: Release planning and predictable delivery
 description: Explores how agile teams can achieve predictable software delivery through quality focus, effective release planning, and continuous improvement, despite inherent uncertainty.
-ResourceId: 2cOXevMnGb_
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 9714
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-11-24
 weight: 200
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: release-planning-and-predictable-delivery
 aliases:
 - /blog/release-planning-and-predictable-delivery
@@ -23,6 +13,12 @@ aliasesArchive:
 - /blog/release-planning-and-predictable-delivery
 - /release-planning-and-predictable-delivery
 - /resources/blog/release-planning-and-predictable-delivery
+concepts:
+- Tenet
+categories:
+- Product Development
+- Scrum
+- Engineering Excellence
 tags:
 - Software Development
 - Increment
@@ -39,15 +35,19 @@ tags:
 - Release Management
 - Technical Debt
 - Agile Transformation
-categories:
-- Product Development
-- Scrum
-- Engineering Excellence
+ResourceId: 2cOXevMnGb_
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 9714
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: nkdAgility-habits-16x9-1280-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:15:21Z
-concepts:
-- Tenet
 
 ---
 Many organisations wrestle with the seeming incompatibility between agile and [release management]({{< ref "/tags/release-management" >}}), and they struggle with release planning and predictable delivery.

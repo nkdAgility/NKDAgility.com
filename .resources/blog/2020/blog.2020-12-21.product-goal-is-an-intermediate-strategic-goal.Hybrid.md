@@ -1,19 +1,8 @@
 ---
 title: Product Goal is an Intermediate Strategic Goal
 description: Explains how product goals serve as intermediate strategic goals, guiding agile organisations through uncertainty using experimentation, outcomes, and data-driven discovery.
-ResourceId: PjYSLMnBHhI
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 45309
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-12-21
 weight: 750
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: product-goal-is-an-intermediate-strategic-goal
 aliases:
 - /blog/product-goal-is-an-intermediate-strategic-goal
@@ -24,6 +13,12 @@ aliasesArchive:
 - /blog/product-goal-is-an-intermediate-strategic-goal
 - /product-goal-is-an-intermediate-strategic-goal
 - /resources/blog/product-goal-is-an-intermediate-strategic-goal
+concepts:
+- Strategy
+categories:
+- Product Management
+- Product Development
+- Leadership
 tags:
 - Agile Strategy
 - Business Agility
@@ -40,15 +35,20 @@ tags:
 - Ability to Innovate
 - Agile Product Management
 - Common Goals
-categories:
-- Product Management
-- Product Development
-- Leadership
+ResourceId: PjYSLMnBHhI
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 45309
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: naked-agility-hypothesis-driven-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:10Z
-concepts:
-- Strategy
 
 ---
 The [Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) describes not only a [Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) but also an [Intermediate Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) that is needed to evaluate and adapt your progress towards your intended visions of your product.

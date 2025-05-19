@@ -3,18 +3,7 @@ title: Navigating the Complex World of Azure DevOps Data Migration
 description: Learn key steps, common pitfalls, and best practices for migrating data from legacy TFS systems to Azure DevOps, including identity alignment, database cleanup, and backups.
 date: 2024-07-31T12:00:49Z
 weight: 690
-ResourceId: 3jYFD-6_kZk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 3jYFD-6_kZk
-source: internal
-url: /resources/videos/:slug
 slug: navigating-the-complex-world-of-azure-devops-data-migration
-preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
-duration: 1055
-isShort: false
 aliases:
 - /resources/3jYFD-6_kZk
 - /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
@@ -25,23 +14,34 @@ aliasesArchive:
 - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - navigating-the-complex-world-of-azure-devops-data-migration
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- DevOps
 tags:
 - Azure DevOps
 - Software Development
 - Troubleshooting
 - Pragmatic Thinking
 - Install and Configuration
+ResourceId: 3jYFD-6_kZk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 3jYFD-6_kZk
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
+duration: 1055
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- DevOps
 Watermarks:
   description: 2025-05-07T13:02:21Z
-concepts: []
 
 ---
 When it comes to migrating data in Azure [DevOps]({{< ref "/categories/devops" >}}), the process can be overwhelming, especially if you're dealing with legacy systems or older versions of Team Foundation Server (TFS). As someone who has been through this many times, I can tell you that there are countless pitfalls, but with careful planning and attention to detail, you can avoid most of them. In this post, I'll share some of the common issues, critical steps, and personal experiences that can help you successfully navigate the complexities of [Azure DevOps]({{< ref "/tags/azure-devops" >}}) data migration.

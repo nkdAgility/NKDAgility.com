@@ -3,13 +3,6 @@ title: 'Transform Your Scrum Team in 90 Days: Strategies for Continuous Delivery
 description: Learn practical steps to help Scrum teams achieve continuous delivery, clarify business value, integrate feedback, and build empowerment within 90 days for lasting agility.
 date: 2023-06-27T07:00:06Z
 weight: 300
-ResourceId: 4kqM1U7y1ZM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 4kqM1U7y1ZM
-url: /resources/videos/:slug
 slug: transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 aliases:
 - /resources/4kqM1U7y1ZM
@@ -22,9 +15,12 @@ aliasesArchive:
 - /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 - /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
 - transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
-preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
-duration: 239
-isShort: false
+concepts:
+- Strategy
+categories:
+- Product Development
+- Scrum
+- Technical Leadership
 tags:
 - Scrum Team
 - Product Delivery
@@ -39,6 +35,16 @@ tags:
 - Software Development
 - Value Delivery
 - Working Software
+ResourceId: 4kqM1U7y1ZM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 4kqM1U7y1ZM
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
+duration: 239
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -46,14 +52,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
-- Technical Leadership
 Watermarks:
   description: 2025-05-07T13:11:15Z
-concepts:
-- Strategy
 
 ---
 When I embark on the journey of working with a new [Scrum]({{< ref "/categories/scrum" >}}) team, I often find myself reflecting on what I hope to achieve within the first 90 days. In my experience, this timeframe is typically sufficient to make significant strides, but it’s essential to consider the context in which the team operates. 

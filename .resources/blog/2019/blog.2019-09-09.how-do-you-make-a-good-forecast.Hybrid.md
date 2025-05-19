@@ -1,41 +1,41 @@
 ---
 title: How do you make a good Forecast?
 description: Explains how to create reliable forecasts in agile projects by using flow metrics like cycle time and throughput, and shifting from project-based to team-based budgeting.
-ResourceId: fm9Rt6R7JZz
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 39852
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2019-09-09
 weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: how-do-you-make-a-good-forecast
 aliases:
 - /resources/fm9Rt6R7JZz
+ResourceId: fm9Rt6R7JZz
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 39852
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/how-do-you-make-a-good-forecast
 - /how-do-you-make-a-good-forecast
 - /how-do-you-make-a-good-forecast-
 - /blog/how-do-you-make-a-good-forecast-
 - /resources/blog/how-do-you-make-a-good-forecast
+concepts: []
+categories:
+- Scrum
+- Product Management
+- Product Development
 tags:
 - Pragmatic Thinking
 - Software Development
 - Throughput
 - Forecasting
 - Metrics and Learning
-categories:
-- Scrum
-- Product Management
-- Product Development
 preview: 993957510-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:12Z
-concepts: []
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

@@ -3,19 +3,7 @@ title: What will you learn on the professional scrum master course?
 description: Gain practical skills and deep understanding of the scrum master role, scrum theory, empiricism, team dynamics, and delivering value in agile product development.
 date: 2023-01-19T07:00:14Z
 weight: 750
-ResourceId: zqwHUwnw0hg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: zqwHUwnw0hg
-source: internal
-url: /resources/videos/:slug
 slug: what-will-you-learn-on-the-professional-scrum-master-course
-layout: video
-preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg
-duration: 326
-isShort: false
 aliases:
 - /resources/zqwHUwnw0hg
 - /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course
@@ -25,9 +13,11 @@ aliasesArchive:
 - /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
 - /resources/what-will-you-learn-on-the-professional-scrum-master-course-
 - what-will-you-learn-on-the-professional-scrum-master-course
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Scrum
+- Product Development
 tags:
 - Agile Frameworks
 - Empirical Process Control
@@ -35,15 +25,25 @@ tags:
 - Scrum Master
 - Scrum Team
 - Software Development
+ResourceId: zqwHUwnw0hg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: zqwHUwnw0hg
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg
+duration: 326
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:14:30Z
-concepts:
-- Principle
 
 ---
 What will you learn on the professional [scrum]({{< ref "/categories/scrum" >}}) master course?

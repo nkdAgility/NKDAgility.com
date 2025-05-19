@@ -3,19 +3,7 @@ title: Mastering Evidence-Based Management for Agile Success
 description: Learn how Evidence-Based Management uses data to guide Agile teams, improve decision-making, track value, and boost innovation, customer satisfaction, and time to market.
 date: 2024-10-02T13:17:24Z
 weight: 360
-ResourceId: S0h_7ayLpsE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: S0h_7ayLpsE
-source: internal
-url: /resources/videos/:slug
 slug: mastering-evidence-based-management-for-agile-success
-layout: video
-preview: https://i.ytimg.com/vi/S0h_7ayLpsE/maxresdefault.jpg
-duration: 1714
-isShort: false
 aliases:
 - /resources/S0h_7ayLpsE
 - /resources/videos/mastering-evidence-based-management-for-agile-success
@@ -26,9 +14,12 @@ aliasesArchive:
 - /resources/videos/evidence-based-management-gathering-and-analyzing-data
 - /resources/evidence-based-management-gathering-and-analyzing-data
 - mastering-evidence-based-management-for-agile-success
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Tenet
+categories:
+- Product Management
+- Product Development
+- Engineering Excellence
 tags:
 - Evidence Based Leadership
 - Decision Making
@@ -45,16 +36,25 @@ tags:
 - Value Delivery
 - Current Value
 - Unrealised Value
+ResourceId: S0h_7ayLpsE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: S0h_7ayLpsE
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/S0h_7ayLpsE/maxresdefault.jpg
+duration: 1714
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Management
-- Product Development
-- Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:57:39Z
-concepts:
-- Tenet
 
 ---
 In the fast-paced world of Agile, decision-making can often feel like a daunting task. How do you know if you're on the right track? How can you ensure that your product delivers value while staying competitive? This is where **Evidence-Based Management (EBM)** comes into play. By leveraging data to drive decisions, EBM helps organizations make informed choices that align with their goals.

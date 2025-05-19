@@ -1,25 +1,8 @@
 ---
 title: The Scrum Master is accountable for Delivery
 description: Explains how the Scrum Master is accountable for enabling effective product delivery, fostering team success, and ensuring each sprint produces a usable, valuable increment.
-ResourceId: yMnia2DLI6q
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: false
 date: 2025-01-30
 weight: 220
-AudioNative: true
-creator: Martin Hinshelwood
-contributors:
-- name: Ryan Ripley
-  external: https://www.linkedin.com/in/ryanripley
-- name: Elle Anderson
-  external: http://www.linkedin.com/in/anderelle
-- name: Sathpal Singh
-  external: https://www.linkedin.com/in/sathpal/
-- name: Ralph Jocham
-  external: https://www.linkedin.com/in/ralphjocham/
-layout: blog
-resourceTypes: blog
 slug: the-scrum-master-is-accountable-for-delivery
 aliases:
 - /resources/yMnia2DLI6q
@@ -28,6 +11,12 @@ aliases:
 aliasesArchive:
 - /the-scrum-master-is-accountable-for-delivery
 - /blog/the-scrum-master-is-accountable-for-delivery
+concepts:
+- Accountability
+categories:
+- Scrum
+- Product Development
+- Leadership
 tags:
 - Software Development
 - Agile Frameworks
@@ -43,15 +32,26 @@ tags:
 - Working Software
 - Increment
 - Agile Leadership
-categories:
-- Scrum
-- Product Development
-- Leadership
+ResourceId: yMnia2DLI6q
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+AudioNative: true
+creator: Martin Hinshelwood
+contributors:
+- name: Ryan Ripley
+  external: https://www.linkedin.com/in/ryanripley
+- name: Elle Anderson
+  external: http://www.linkedin.com/in/anderelle
+- name: Sathpal Singh
+  external: https://www.linkedin.com/in/sathpal/
+- name: Ralph Jocham
+  external: https://www.linkedin.com/in/ralphjocham/
+layout: blog
+resourceTypes: blog
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
 Watermarks:
   description: 2025-05-07T12:49:52Z
-concepts:
-- Accountability
 
 ---
 Ultimately, the [Scrum]({{< ref "/categories/scrum" >}}) Master is accountable for the [Scrum Team]({{< ref "/tags/scrum-team" >}})'s success. This includes [product delivery]({{< ref "/tags/product-delivery" >}}), product success, Sprint outcomes, the team's ability, and ensuring the team has the resources, skills, and ethos needed to succeed. While the entire Scrum Team shares accountability for delivery, the [Scrum Master]({{< ref "/tags/scrum-master" >}})’s role is to create the conditions for effective delivery and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). Delivery is the minimum bar for effectiveness—without it, the team cannot measure or realise value. Without delivery, there is no [increment]({{< ref "/tags/increment" >}}), no feedback, and no way to empirically assess value. A Scrum Team that delivers without value is ineffective but still functional. A Scrum Team that fails to deliver anything cannot be considered effective under any measure.

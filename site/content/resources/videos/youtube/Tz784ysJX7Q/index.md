@@ -3,16 +3,7 @@ title: 'Balancing Speed and Stability: Why Quality Should Always Come First in D
 description: Explores why prioritising quality and stability over speed in delivery management leads to better long-term outcomes, even when facing tight deadlines or external pressure.
 date: 2025-01-24T06:30:21Z
 weight: 450
-ResourceId: Tz784ysJX7Q
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Tz784ysJX7Q
-source: youtube
-url: /resources/videos/:slug
 slug: balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
-layout: video
 aliases:
 - /resources/Tz784ysJX7Q
 - /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
@@ -22,23 +13,32 @@ aliasesArchive:
 - /resources/videos/balancing-speed-and-stability-in-delivery
 - /resources/balancing-speed-and-stability-in-delivery
 - balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
-preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
-duration: 469
-isShort: false
+concepts: []
+categories:
+- Engineering Excellence
+- Product Development
 tags:
 - Pragmatic Thinking
 - Product Delivery
+ResourceId: Tz784ysJX7Q
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Tz784ysJX7Q
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
+duration: 469
+isShort: false
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-categories:
-- Engineering Excellence
-- Product Development
 Watermarks:
   description: 2025-05-07T12:49:54Z
-concepts: []
 
 ---
 One of the questions I often encounter as a delivery manager is how to balance speed and stability, especially when we're under pressure from tight deadlines. However, I would argue that there's a fundamental issue with the premise of this question: why are we under such tight deadlines in the first place? More often than not, these deadlines exist because stakeholders lack confidence in our ability to meet them. This is the absurdity of deadlines.

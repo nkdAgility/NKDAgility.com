@@ -1,24 +1,24 @@
 ---
 title: Ethics in Agile
 description: Explores the role of precise language and transparency in Agile, highlighting why word choice and context are crucial for ethical communication in Agile teams.
+date: 2023-10-26
+weight: 1000
+slug: ethics-in-agile
+aliases:
+- /resources/hWrztsvRPAi
 ResourceId: hWrztsvRPAi
 ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
-date: 2023-10-26
-weight: 1000
-categories:
-- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: ethics-in-agile
-aliases:
-- /resources/hWrztsvRPAi
-tags: []
 Watermarks:
   description: 2025-05-07T13:08:21Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

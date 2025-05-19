@@ -1,15 +1,8 @@
 ---
 title: Introducing the Professional Product Validation and Discovery Workshop from Scrum.org
 description: Learn practical skills in product validation, customer discovery, and team collaboration to create customer-focused products, guided by an expert Scrum.org trainer.
-ResourceId: w5rxdL8YHNa
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2024-07-17
 weight: 840
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 slug: introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org
 aliases:
 - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
@@ -18,6 +11,7 @@ aliases:
 aliasesArchive:
 - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+concepts: []
 categories:
 - Product Management
 - Product Development
@@ -28,9 +22,15 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Product Delivery
+ResourceId: w5rxdL8YHNa
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+author: MrHinsh
+resourceTypes: newsletter
+layout: newsletter
 Watermarks:
   description: 2025-05-07T13:02:35Z
-concepts: []
 
 ---
 **Dear Innovators and Product Enthusiasts,**

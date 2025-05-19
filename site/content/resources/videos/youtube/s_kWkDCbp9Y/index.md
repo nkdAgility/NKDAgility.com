@@ -3,19 +3,7 @@ title: 'The Key to Being an Effective Agile Coach: Understanding the Team’s Co
 description: Effective Agile coaching relies on understanding your team's unique context and domain, enabling tailored guidance, empathy, and practical solutions for real-world challenges.
 date: 2023-11-17T11:00:55Z
 weight: 665
-ResourceId: s_kWkDCbp9Y
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: s_kWkDCbp9Y
-source: internal
-url: /resources/videos/:slug
 slug: the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
-layout: video
-preview: https://i.ytimg.com/vi/s_kWkDCbp9Y/maxresdefault.jpg
-duration: 69
-isShort: false
 aliases:
 - /resources/s_kWkDCbp9Y
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
@@ -28,18 +16,30 @@ aliasesArchive:
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
 - the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-team-s-context
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceId: s_kWkDCbp9Y
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: s_kWkDCbp9Y
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/s_kWkDCbp9Y/maxresdefault.jpg
+duration: 69
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:07:45Z
-concepts: []
 
 ---
 Becoming an Agile coach isn’t just about knowing Agile practices. It’s about understanding the context in which your team operates and having the experience to back it up. In this post, I’ll explore why having domain knowledge is essential for Agile coaches, how it impacts your effectiveness, and what you can do to deepen your understanding. Let's dive into it! 🚀

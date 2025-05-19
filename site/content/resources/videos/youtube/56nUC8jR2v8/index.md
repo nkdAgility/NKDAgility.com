@@ -3,13 +3,6 @@ title: 'Challenging the Tyranny of Taylorism: Embracing True Agility in the Work
 description: Explores how outdated Taylorist management limits creativity and true agility, offering ways to spot and overcome ineffective agile practices for better teamwork and innovation.
 date: 2020-06-24T17:48:17Z
 weight: 1000
-ResourceId: 56nUC8jR2v8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 56nUC8jR2v8
-url: /resources/videos/:slug
 slug: challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
 aliases:
 - /resources/56nUC8jR2v8
@@ -21,10 +14,21 @@ aliasesArchive:
 - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 - challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags: []
+ResourceId: 56nUC8jR2v8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 56nUC8jR2v8
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 isShort: true
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,12 +36,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:33Z
-concepts:
-- Ethos
 
 ---
 As I sit down to write this, I’m reminded of the importance of community and shared learning in our journey towards agility. In just a few minutes, I’ll be joining the Future of Scotland meetup group for a session that I’m particularly passionate about: “The Tyranny of Taylorism and Detecting Agile BS.” If you’re reading this before 7 p.m. British Summer Time, there’s still time to join us! You can find the link in the comments below.

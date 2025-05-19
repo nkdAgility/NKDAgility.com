@@ -3,15 +3,7 @@ title: "Transforming Chaos into Collaboration: How a Common Framework Can Revolu
 description: Explores how adopting a shared framework and structured communication can turn team chaos into collaboration, boosting trust, engagement, and continuous improvement.
 date: 2017-07-28T11:55:30Z
 weight: 1000
-ResourceId: XMLdLH6f4N8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: XMLdLH6f4N8
-url: /resources/videos/:slug
 slug: transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
-layout: video
 aliases:
 - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
 - /resources/XMLdLH6f4N8
@@ -21,24 +13,32 @@ aliasesArchive:
 - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
 - transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
 - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
-preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
-duration: 197
-isShort: false
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Social Technologies
 - Organisational Culture
 - Organisational Agility
+ResourceId: XMLdLH6f4N8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: XMLdLH6f4N8
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/XMLdLH6f4N8/maxresdefault.jpg
+duration: 197
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:16:30Z
-concepts: []
 
 ---
 As I reflect on my recent experiences with [organisational change]({{< ref "/tags/organisational-change" >}}) and the impact it has on teams, I can't help but think about the journey we’ve all been on. It’s a journey that often feels chaotic, yet it’s one that can lead to incredible transformation when approached with the right mindset and tools. 

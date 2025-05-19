@@ -3,19 +3,7 @@ title: Does Your Team Truly Understand Your Product Vision and Goals?
 description: Ensuring every team member understands and connects their daily work to the product vision and strategic goals is key to true Agile alignment, collaboration, and value delivery.
 date: 2024-07-12T06:45:00Z
 weight: 450
-ResourceId: CPYTApf0Ibs
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: CPYTApf0Ibs
-source: internal
-url: /resources/videos/:slug
 slug: does-your-team-truly-understand-your-product-vision-and-goals
-layout: video
-preview: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg
-duration: 411
-isShort: false
 aliases:
 - /resources/CPYTApf0Ibs
 - /resources/videos/does-your-team-truly-understand-your-product-vision-and-goals
@@ -27,9 +15,12 @@ aliasesArchive:
 - "/resources/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
 - /resources/videos/secret-to-unlocking-team-potential-and-product-success-the-agile-reality-check-26
 - does-your-team-truly-understand-your-product-vision-and-goals
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Strategy
+categories:
+- Product Management
+- Product Development
+- Leadership
 tags:
 - Agile Values and Principles
 - Organisational Change
@@ -46,16 +37,25 @@ tags:
 - Pragmatic Thinking
 - Social Technologies
 - Agile Philosophy
+ResourceId: CPYTApf0Ibs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: CPYTApf0Ibs
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg
+duration: 411
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Management
-- Product Development
-- Leadership
 Watermarks:
   description: 2025-05-07T13:02:37Z
-concepts:
-- Strategy
 
 ---
 When it comes to [Agile transformation]({{< ref "/tags/agile-transformation" >}}), one of the most crucial aspects often overlooked is the shared understanding of the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}}) within the team. It’s not enough to have a beautifully crafted vision statement or a set of strategic goals pinned to the office wall; every team member needs to internalize these concepts and understand how their daily work contributes to achieving them. This understanding forms the foundation of true agility within an organization.

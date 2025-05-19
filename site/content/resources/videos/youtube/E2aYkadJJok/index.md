@@ -3,15 +3,7 @@ title: 'Mastering Your Kanban Board: A Practical Guide to Visualising Workflows 
 description: Learn how to design and customise Kanban boards to visualise workflows, identify bottlenecks, and boost team efficiency through clear, practical process mapping.
 date: 2024-07-08T06:00:07Z
 weight: 1000
-ResourceId: E2aYkadJJok
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: E2aYkadJJok
-url: /resources/videos/:slug
 slug: mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
-layout: video
 aliases:
 - /resources/E2aYkadJJok
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
@@ -22,25 +14,33 @@ aliasesArchive:
 - /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
-preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
-duration: 57
-isShort: true
+concepts:
+- Practice
+categories:
+- Kanban
+- Product Development
 tags:
 - Operational Practices
 - Software Development
+ResourceId: E2aYkadJJok
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: E2aYkadJJok
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
+duration: 57
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Kanban
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:40Z
-concepts:
-- Practice
 
 ---
 When it comes to visualising work in a [Kanban]({{< ref "/categories/kanban" >}}) system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.

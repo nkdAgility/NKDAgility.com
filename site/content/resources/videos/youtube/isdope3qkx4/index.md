@@ -3,40 +3,40 @@ title: 'Mastering Agile in a Distributed World: Tools and Strategies for Effecti
 description: Explore practical tools and strategies for managing Agile teams in distributed environments, including communication tips, tool comparisons, and adaptation best practices.
 date: 2020-04-10T18:35:30Z
 weight: 1000
+slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
+aliases:
+- /resources/isdope3qkx4
 ResourceId: isdope3qkx4
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: isdope3qkx4
 url: /resources/videos/:slug
-slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
 layout: video
-aliases:
-- /resources/isdope3qkx4
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/11th-april-2020-office-hours-ask-me-anything
 - /resources/11th-april-2020-office-hours-ask-me-anything
 - /resources/videos/mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
 - mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
+concepts:
+- Tool
+categories:
+- Uncategorized
+tags:
+- Software Development
 preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 isShort: false
-tags:
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:50Z
-concepts:
-- Tool
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share some insights from my recent experiences in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}). Over the past few weeks, I’ve been engaging in live sessions, and it’s been fascinating to see how many of you are actively inspecting and adapting your practices. This is a testament to the Agile mindset, and I’m excited to continue these discussions regularly.

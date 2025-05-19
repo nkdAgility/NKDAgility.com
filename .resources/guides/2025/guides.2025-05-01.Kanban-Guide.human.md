@@ -9,11 +9,6 @@ ResourceType: guides
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
-aliases:
-- /learn/agile-delivery-kit/guides/kanban-guide
-- /resources/uD_5MdHKu1Q
-aliasesArchive:
-- /learn/agile-delivery-kit/guides/kanban-guide
 references:
 - title: The Kanban Guide
   url: https://kanbanguides.org/english/
@@ -28,6 +23,11 @@ card:
   title: Kanban Guide
 Watermarks:
   description: 2025-05-16T10:06:25Z
+aliases:
+- /learn/agile-delivery-kit/guides/kanban-guide
+- /resources/uD_5MdHKu1Q
+aliasesArchive:
+- /learn/agile-delivery-kit/guides/kanban-guide
 concepts:
 - Method
 categories:

@@ -1,9 +1,9 @@
 ---
 title: Team Performance
-abstract: Team performance is the consistent ability of a team to deliver outcomes through its established system of work, reflecting delivery capability over time as indicated by observable patterns in flow, responsiveness, and quality. This concept originates from the understanding that performance is shaped by the structure and constraints of the operational system, influenced by factors such as team composition, collaboration habits, skill alignment, and clarity of purpose. As a system-level capability, team performance transcends individual or cultural traits, making it crucial for organisations aiming to enhance their agile and DevOps practices. By employing flow metrics, retrospectives, and empirical signals to evaluate performance, organisations can discern whether teams are improving, stagnating, or hindered by external dependencies. High-performing teams demonstrate both consistency and adaptability in their delivery, even amidst change. Enhancing team performance involves a focus on system design, which includes limiting work in progress, refining collaboration patterns, and increasing visibility into obstacles. This systemic approach ensures that improvements are not only effective but also sustainable and repeatable across the organisation, ultimately contributing to more efficient product development and organisational design.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Team performance is the consistent ability of a team to deliver outcomes through its established system of work, reflecting delivery capability over time as indicated by observable patterns in flow, responsiveness, and quality. This concept originates from the understanding that performance is shaped by the structure and constraints of the operational system, influenced by factors such as team composition, collaboration habits, skill alignment, and clarity of purpose. As a system-level capability, team performance transcends individual or cultural traits, making it crucial for organisations aiming to enhance their agile and DevOps practices. By employing flow metrics, retrospectives, and empirical signals to evaluate performance, organisations can discern whether teams are improving, stagnating, or hindered by external dependencies. High-performing teams demonstrate both consistency and adaptability in their delivery, even amidst change. Enhancing team performance involves a focus on system design, which includes limiting work in progress, refining collaboration patterns, and increasing visibility into obstacles. This systemic approach ensures that improvements are not only effective but also sustainable and repeatable across the organisation, ultimately contributing to more efficient product development and organisational design.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 350
 description: Team performance is a systemic indicator of how well a team consistently delivers value, reflecting its collaborative and technical delivery capability over time.
@@ -32,11 +32,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:05:09
+icon: fa-people-group
 concepts:
 - Capability
 categories: []
-tags: []
-icon: fa-people-group
+tags:
+- Metrics and Learning
+- Operational Practices
 
 ---
 eam performance refers to the consistent ability of a team to deliver outcomes through its system of work. It reflects delivery capability over time, as measured by observable patterns in flow, responsiveness, and quality.

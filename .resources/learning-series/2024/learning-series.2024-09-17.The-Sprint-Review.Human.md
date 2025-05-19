@@ -1,6 +1,8 @@
 ---
 title: The Sprint Review
 description: Overview of the Sprint Review, its purpose in Agile development, key activities, and how teams assess progress and gather feedback at the end of each sprint.
+date: 2024-09-17
+weight: 1000
 ResourceId: 9omxdDJCVDL
 ResourceImport: false
 ResourceType: learning-series
@@ -26,22 +28,20 @@ references:
 - title: 'Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps'
   embed: https://www.youtube.com/embed/5bgcpPqcGlw
   type: video
-date: 2024-09-17
-weight: 1000
 creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: The Sprint Review is not about the past, it's about the future. Its purpose to bring the right people (stakeholders) up to speed on the current state (ncrement), so that we can make decisions about the future desired state (Product Backlog).
   title: The Sprint Review
+Watermarks:
+  description: 2025-05-07T12:58:17Z
 aliases:
 - /resources/9omxdDJCVDL
+concepts: []
 categories:
 - Uncategorized
 tags: []
-Watermarks:
-  description: 2025-05-07T12:58:17Z
-concepts: []
 
 ---
 Comming soon

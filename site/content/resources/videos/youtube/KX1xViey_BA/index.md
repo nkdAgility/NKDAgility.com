@@ -3,19 +3,7 @@ title: 'Quotes: In the past the man has been first; in the future the system mus
 description: Explores the shift from people to systems in work, the impact on Agile practices, and the importance of balancing efficient systems with human collaboration.
 date: 2023-10-12T11:00:15Z
 weight: 1000
-ResourceId: KX1xViey_BA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: KX1xViey_BA
-source: internal
-url: /resources/videos/:slug
 slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
-layout: video
-preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
-duration: 48
-isShort: true
 aliases:
 - /resources/KX1xViey_BA
 - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
@@ -30,17 +18,29 @@ aliasesArchive:
 - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-taylor
 - quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
 - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first.-frederick-winslow-taylor
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: KX1xViey_BA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: KX1xViey_BA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
+duration: 48
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:08:49Z
-concepts: []
 
 ---
 ## People, Systems, and Finding the Balance 

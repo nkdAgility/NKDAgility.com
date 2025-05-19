@@ -3,19 +3,7 @@ title: How will the Immersive Learning experience change the game for people wit
 description: Discover how immersive learning empowers experienced Agile professionals to deepen skills, tackle real-world challenges, and accelerate growth through hands-on practice.
 date: 2023-08-01T07:00:19Z
 weight: 1000
-ResourceId: VjPslpF3fTc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: VjPslpF3fTc
-source: internal
-url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
-layout: video
-preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
-duration: 122
-isShort: false
 aliases:
 - /resources/VjPslpF3fTc
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
@@ -26,18 +14,30 @@ aliasesArchive:
 - /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+ResourceId: VjPslpF3fTc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: VjPslpF3fTc
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
+duration: 122
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Competence
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:30Z
-concepts: []
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

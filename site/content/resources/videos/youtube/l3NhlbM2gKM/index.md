@@ -3,19 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 2.
 description: Explains why story points are often misunderstood in Scrum, clarifies their intended use, and offers practical advice for more effective Agile estimation and team collaboration.
 date: 2023-10-24T11:00:39Z
 weight: 1000
-ResourceId: l3NhlbM2gKM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: l3NhlbM2gKM
-source: internal
-url: /resources/videos/:slug
 slug: scrum-is-like-communism-it-doesnt-work-myth-2
-layout: video
-preview: https://i.ytimg.com/vi/l3NhlbM2gKM/maxresdefault.jpg
-duration: 216
-isShort: false
 aliases:
 - /resources/l3NhlbM2gKM
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2
@@ -30,17 +18,29 @@ aliasesArchive:
 - scrum-is-like-communism-it-doesnt-work-myth-2-
 - scrum-is-like-communism-it-doesnt-work-myth-2
 - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-2.
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceId: l3NhlbM2gKM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: l3NhlbM2gKM
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/l3NhlbM2gKM/maxresdefault.jpg
+duration: 216
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:08:26Z
-concepts: []
 
 ---
 # Unraveling the Story Point Myth in [Scrum]({{< ref "/categories/scrum" >}}): A Path to Clarity 🚀

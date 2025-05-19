@@ -3,15 +3,7 @@ title: 'Engaging Your Team: The Secret to Successful Organisational Change'
 description: Learn how involving, empowering, and communicating with your team drives successful organisational change by fostering shared goals, trust, and a culture of engagement.
 date: 2023-12-04T11:00:23Z
 weight: 1000
-ResourceId: OMlLiLkCmMY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: OMlLiLkCmMY
-url: /resources/videos/:slug
 slug: engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
-layout: video
 aliases:
 - /resources/OMlLiLkCmMY
 - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
@@ -22,9 +14,9 @@ aliasesArchive:
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
 - /resources/-shorts-7-virtues-of-agile-chastity
 - engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
-preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
-duration: 24
-isShort: true
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Team Motivation
 - Organisational Change
@@ -32,17 +24,25 @@ tags:
 - Employee Engagement
 - Agile Leadership
 - Organisational Culture
+ResourceId: OMlLiLkCmMY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: OMlLiLkCmMY
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
+duration: 24
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:07:18Z
-concepts: []
 
 ---
 In my journey through [organisational change]({{< ref "/tags/organisational-change" >}}), I've come to realise that the key to success lies not just in the strategies we implement, but in how we engage the people within our organisations. Change can be daunting, and if we want to navigate it effectively, we must involve our teams in the narrative. 

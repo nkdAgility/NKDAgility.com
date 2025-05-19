@@ -3,18 +3,7 @@ title: What is empiricism and why is it so critical to great Agile?
 description: Explains how empiricism—continuous observation, inspection, and adaptation—drives Agile success by enabling teams to respond effectively to real project data and feedback.
 date: 2023-08-30T07:00:05Z
 weight: 590
-ResourceId: 7UZsdsD23rs
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 7UZsdsD23rs
-source: internal
-url: /resources/videos/:slug
 slug: what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-preview: https://i.ytimg.com/vi/7UZsdsD23rs/maxresdefault.jpg
-duration: 330
-isShort: false
 aliases:
 - /resources/7UZsdsD23rs
 - /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
@@ -23,9 +12,11 @@ aliasesArchive:
 - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
 - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 - what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
+- Scrum
 tags:
 - Empirical Process Control
 - Software Development
@@ -39,16 +30,25 @@ tags:
 - Agile Planning
 - Team Performance
 - Customer Focus
+ResourceId: 7UZsdsD23rs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 7UZsdsD23rs
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/7UZsdsD23rs/maxresdefault.jpg
+duration: 330
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:09:47Z
-concepts:
-- Principle
 
 ---
 ## The Keystone of [Lean]({{< ref "/categories/lean" >}})-Agile: Empiricism Unravelled 🧬 

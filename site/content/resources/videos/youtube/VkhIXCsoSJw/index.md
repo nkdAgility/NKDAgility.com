@@ -3,16 +3,7 @@ title: 'Embracing Automation: The Key to Transforming Your Development Process a
 description: Explores how automation in testing, deployment, and validation streamlines development, reduces technical debt, and builds confidence for teams and customers alike.
 date: 2025-01-14T06:45:00Z
 weight: 315
-ResourceId: VkhIXCsoSJw
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: VkhIXCsoSJw
-source: youtube
-url: /resources/videos/:slug
 slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-layout: video
 aliases:
 - /resources/VkhIXCsoSJw
 - /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
@@ -22,9 +13,11 @@ aliasesArchive:
 - /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
 - /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
 - embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
-duration: 529
-isShort: false
+concepts: []
+categories:
+- Engineering Excellence
+- DevOps
+- Product Development
 tags:
 - Software Development
 - Technical Excellence
@@ -41,18 +34,25 @@ tags:
 - Market Adaptability
 - Flow Efficiency
 - Value Delivery
+ResourceId: VkhIXCsoSJw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: VkhIXCsoSJw
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
+duration: 529
+isShort: false
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-categories:
-- Engineering Excellence
-- DevOps
-- Product Development
 Watermarks:
   description: 2025-05-07T12:49:59Z
-concepts: []
 
 ---
 When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog—essentially making our deliverables smaller so we can iterate more frequently—automation becomes a cornerstone of our development process.

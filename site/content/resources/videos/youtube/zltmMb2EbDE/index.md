@@ -3,19 +3,7 @@ title: Does Kanban integrate into a Scrum environment?
 description: Explains how Kanban can be integrated with Scrum to improve workflow visibility, provide key metrics, and enable continuous improvement in agile teams.
 date: 2024-02-15T07:00:31Z
 weight: 1000
-ResourceId: zltmMb2EbDE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: zltmMb2EbDE
-source: internal
-url: /resources/videos/:slug
 slug: does-kanban-integrate-into-a-scrum-environment
-layout: video
-preview: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg
-duration: 343
-isShort: false
 aliases:
 - /resources/zltmMb2EbDE
 - /resources/videos/does-kanban-integrate-into-a-scrum-environment
@@ -27,9 +15,11 @@ aliasesArchive:
 - /resources/does-kanban-integrate-with-a-scrum-environment-
 - /resources/videos/does-kanban-integrate-with-a-scrum-environment
 - does-kanban-integrate-into-a-scrum-environment
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Method
+categories:
+- Kanban
+- Product Development
 tags:
 - Software Development
 - Operational Practices
@@ -38,15 +28,25 @@ tags:
 - Flow Efficiency
 - Agile Frameworks
 - Pragmatic Thinking
+ResourceId: zltmMb2EbDE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: zltmMb2EbDE
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg
+duration: 343
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Kanban
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:45Z
-concepts:
-- Method
 
 ---
 ### Integrating [Kanban]({{< ref "/categories/kanban" >}}) with [Scrum]({{< ref "/categories/scrum" >}}): Enhancing Your Workflow

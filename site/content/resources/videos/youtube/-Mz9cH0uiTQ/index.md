@@ -3,13 +3,6 @@ title: 'Navigating Client Needs: How Agile Consultants Can Uncover True Value Be
 description: Explores how agile consultants identify clients' real needs, avoid common pitfalls, and deliver lasting value by looking beyond initial requests and surface-level solutions.
 date: 2023-03-01T07:00:00Z
 weight: 690
-ResourceId: -Mz9cH0uiTQ
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: -Mz9cH0uiTQ
-url: /resources/videos/:slug
 slug: navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
 aliases:
 - /resources/-Mz9cH0uiTQ
@@ -21,11 +14,21 @@ aliasesArchive:
 - /resources/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 - /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around
 - navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
+concepts: []
+categories:
+- Product Development
+tags:
+- Pragmatic Thinking
+ResourceId: -Mz9cH0uiTQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: -Mz9cH0uiTQ
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: false
-tags:
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,11 +36,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:13:52Z
-concepts: []
 
 ---
 When I’m engaged as an agile consultant, I often find myself pondering a fundamental question: does the client dictate what they need, or is it my role to guide them towards the right solutions? My experience has led me to believe that it’s the latter, but the reality is often more nuanced.

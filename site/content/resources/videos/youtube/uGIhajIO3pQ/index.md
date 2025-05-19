@@ -3,19 +3,7 @@ title: 'Agile Scotland 2023: Why does this matter to you and why should people c
 description: Explore how Agile 2023 in Scotland brings together tech professionals to share insights, foster collaboration, and highlight Agile’s impact on the local tech community.
 date: 2023-06-28T07:00:21Z
 weight: 1000
-ResourceId: uGIhajIO3pQ
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: uGIhajIO3pQ
-source: internal
-url: /resources/videos/:slug
 slug: agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
-layout: video
-preview: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg
-duration: 121
-isShort: false
 aliases:
 - /resources/uGIhajIO3pQ
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
@@ -26,17 +14,29 @@ aliasesArchive:
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 - agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: uGIhajIO3pQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: uGIhajIO3pQ
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg
+duration: 121
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:13Z
-concepts: []
 
 ---
 ## Scotland’s Agile Revolution: What’s on the Horizon 

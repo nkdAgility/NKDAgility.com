@@ -1,16 +1,8 @@
 ---
 title: Training Schedule 2021 Q4/2022 Q1
 description: Overview of live virtual training methods, free workshop recordings, schedule updates, and new coaching and retraining programmes for Q4 2021 and Q1 2022.
-ResourceId: 7oAVt27r_UY
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2021-08-30
 weight: 850
-preview: class-marketing-Q32021.jpg
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 slug: naked-agility-training-schedule-2021-q4-2022-q1
 aliases:
 - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
@@ -19,12 +11,20 @@ aliases:
 aliasesArchive:
 - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 - /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+concepts: []
 categories:
 - Uncategorized
 tags: []
+ResourceId: 7oAVt27r_UY
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+preview: class-marketing-Q32021.jpg
+author: MrHinsh
+resourceTypes: newsletter
+layout: newsletter
 Watermarks:
   description: 2025-05-07T13:14:52Z
-concepts: []
 
 ---
 I have been working on perfecting my techniques by incorporating [Liberating Structures]({{< ref "/tags/liberating-structures" >}}), Training from the Back of the Room, and Organization and Relationship Systems [Coaching]({{< ref "/tags/coaching" >}}) into my deliveries. I have found, along with many other trainers, that live-virtual delivery of classes can be more powerful, and more engaging.

@@ -3,19 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 3.
 description: Explores the myth that Scrum leads to micromanagement, clarifying that true Scrum empowers teams with autonomy, collaboration, and trust, not top-down control.
 date: 2023-10-25T07:00:09Z
 weight: 330
-ResourceId: CawY8x3kGVk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: CawY8x3kGVk
-source: internal
-url: /resources/videos/:slug
 slug: scrum-is-like-communism-it-doesnt-work-myth-3
-layout: video
-preview: https://i.ytimg.com/vi/CawY8x3kGVk/maxresdefault.jpg
-duration: 234
-isShort: false
 aliases:
 - /resources/CawY8x3kGVk
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
@@ -32,21 +20,33 @@ aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-3
 - scrum-is-like-communism-it-doesnt-work-myth-3
 - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-3.
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
+- Scrum
 tags:
 - Pragmatic Thinking
 - Team Performance
 - Software Development
+ResourceId: CawY8x3kGVk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: CawY8x3kGVk
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/CawY8x3kGVk/maxresdefault.jpg
+duration: 234
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:08:24Z
-concepts: []
 
 ---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Micromanagement: Dispelling the Myth 🚀

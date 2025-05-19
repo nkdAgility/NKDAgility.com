@@ -1,15 +1,19 @@
 ---
 title: The Definition of Done is a Commitment to Quality
 description: Defines the Definition of Done in Scrum as a clear, shared standard for quality, ensuring increments are releasable, transparent, and continuously improved by the team.
+date: 2025-07-28T09:00:00Z
+weight: 145
 ResourceId: TwYNSm1pZOS
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 creator: Martin Hinshelwood
-date: 2025-07-28T09:00:00Z
-weight: 145
+Watermarks:
+  description: 2025-05-07T12:48:53Z
 aliases:
 - /resources/TwYNSm1pZOS
+concepts:
+- Artifact
 categories:
 - Scrum
 - Product Development
@@ -30,10 +34,6 @@ tags:
 - Transparency
 - Working Software
 - Increment
-Watermarks:
-  description: 2025-05-07T12:48:53Z
-concepts:
-- Artifact
 
 ---
 Every Scrum Team must explicitly define what “Done” means. Without it, you are not doing Scrum. Let’s be clear: if your product increment cannot be shipped, tested, and validated at least every 30 days, you’re missing the point. Scrum is a social technology for adaptive solutions, and the Definition of Done (DoD) is the core commitment to quality that enables reliable, transparent, and releasable increments.

@@ -3,41 +3,41 @@ title: 'Transforming Management into Agile Leadership: The Power of Virtual Trai
 description: Explores how virtual training supports the shift from traditional management to agile leadership, highlighting benefits like flexibility, engagement, and cultural diversity.
 date: 2020-04-25T02:29:57Z
 weight: 640
+slug: transforming-management-into-agile-leadership-the-power-of-virtual-training
+aliases:
+- /resources/p3D5RjM5grA
 ResourceId: p3D5RjM5grA
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: p3D5RjM5grA
 url: /resources/videos/:slug
-slug: transforming-management-into-agile-leadership-the-power-of-virtual-training
 layout: video
-aliases:
-- /resources/p3D5RjM5grA
 aliasesArchive:
 - /resources/videos/ep-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 - /resources/videos/transforming-management-into-agile-leadership-the-power-of-virtual-training
 - transforming-management-into-agile-leadership-the-power-of-virtual-training
-preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
-duration: 2961
-isShort: false
+concepts: []
+categories:
+- Leadership
 tags:
 - Agile Leadership
 - Social Technologies
 - Agile Transformation
+preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
+duration: 2961
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Leadership
 Watermarks:
   description: 2025-05-07T13:15:46Z
-concepts: []
 
 ---
 In the ever-evolving landscape of agile training and [DevOps]({{< ref "/categories/devops" >}}), I recently had the pleasure of collaborating with Russell Miller, a seasoned [product development]({{< ref "/categories/product-development" >}}) specialist and [scrum]({{< ref "/categories/scrum" >}}) dad, during a live virtual classroom session focused on professional agile [leadership]({{< ref "/categories/leadership" >}}). This experience not only reinforced my belief in the power of agile methodologies but also highlighted the unique advantages of virtual training in today’s world.

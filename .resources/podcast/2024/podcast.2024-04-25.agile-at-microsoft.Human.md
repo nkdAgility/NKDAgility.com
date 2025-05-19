@@ -1,24 +1,24 @@
 ---
 title: Agile at Microsoft
 description: Simon Reindl and Martin Hinshelwood discuss the role of precise language and transparency in Agile practices at Microsoft, highlighting why clarity in communication matters.
+date: 2024-04-25
+weight: 1000
+slug: agile-at-microsoft
+aliases:
+- /resources/U_pzYjx6qk6
 ResourceId: U_pzYjx6qk6
 ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
-date: 2024-04-25
-weight: 1000
-categories:
-- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: agile-at-microsoft
-aliases:
-- /resources/U_pzYjx6qk6
-tags: []
 Watermarks:
   description: 2025-05-07T13:05:14Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/04/37154808-1713453740943-610b708628f26.jpg)

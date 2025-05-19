@@ -3,19 +3,7 @@ title: '7 Deadly Sins of Agile: Greed'
 description: Explores how greed in Agile leads to overwork and reduced value, offering strategies for value-driven delivery, balanced sprints, team trust, and effective leadership.
 date: 2023-10-11T12:00:36Z
 weight: 415
-ResourceId: fZLGlqMdejA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: fZLGlqMdejA
-source: internal
-url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-greed
-layout: video
-preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
-duration: 380
-isShort: false
 aliases:
 - /resources/fZLGlqMdejA
 - /resources/videos/7-deadly-sins-of-agile-greed
@@ -28,9 +16,11 @@ aliasesArchive:
 - /resources/greed!-7-deadly-sins-of-agile
 - /resources/videos/greed-7-deadly-sins-of-agile
 - 7-deadly-sins-of-agile-greed
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
+- Scrum
 tags:
 - Agile Philosophy
 - Agile Strategy
@@ -44,15 +34,25 @@ tags:
 - Agile Product Management
 - Agile Leadership
 - Organisational Agility
+ResourceId: fZLGlqMdejA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: fZLGlqMdejA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
+duration: 380
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:08:53Z
-concepts:
-- Principle
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

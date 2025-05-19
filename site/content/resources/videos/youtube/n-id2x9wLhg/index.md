@@ -2,32 +2,24 @@
 title: Why a Shared Definition of Done Is the Secret to Consistent, Predictable Quality in Agile Teams
 description: Struggling with inconsistent delivery? Discover why a shared definition of done is key to predictable, high-quality results your teams—and stakeholders—can trust.
 date: 2025-05-14T07:00:00Z
-videoId: n-id2x9wLhg
-ResourceId: n-id2x9wLhg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
-source: youtube
-url: /resources/videos/:slug
+weight: 145
 slug: 2-why-every-team-needs-a-shared-definition-of-done-n-id2x9wLhg
-layout: video
 aliases:
 - /resources/n-id2x9wLhg
 - /resources/videos/2-why-every-team-needs-a-shared-definition-of-done-n-id2x9wLhg
+ResourceId: n-id2x9wLhg
+ResourceImport: true
+ResourceType: videos
+videoId: n-id2x9wLhg
+ResourceImportSource: Youtube
+source: youtube
+url: /resources/videos/:slug
+layout: video
 aliasesArchive:
 - /resources/videos/2-why-every-team-needs-a-shared-definition-of-done
 - 2-why-every-team-needs-a-shared-definition-of-done-n-id2x9wLhg
-preview: https://i9.ytimg.com/vi/n-id2x9wLhg/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLCTOi3CWzlfYYWF1R5o931XWnSN9A
-duration: 51
-resourceTypes:
-- video
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T20:51:36Z
-ResourceContentOrigin: ai
+concepts:
+- Practice
 categories:
 - Engineering Excellence
 - Product Development
@@ -44,9 +36,17 @@ tags:
 - Social Technologies
 - Pragmatic Thinking
 - Engineering Practices
-weight: 145
-concepts:
-- Practice
+preview: https://i9.ytimg.com/vi/n-id2x9wLhg/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLCTOi3CWzlfYYWF1R5o931XWnSN9A
+duration: 51
+resourceTypes:
+- video
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T20:51:36Z
+ResourceContentOrigin: ai
 
 ---
 Without shared standards, quality is a coin toss. I’ve seen it time and again: when every team defines “done” in their own way, you don’t get value—you get uncertainty and risk. Different interpretations of what “done” means don’t just create confusion; they breed chaos, introduce production risks, and leave you with invisible liabilities lurking in your product. In short, you can’t trust the increment.

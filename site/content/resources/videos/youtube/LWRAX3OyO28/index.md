@@ -3,16 +3,7 @@ title: 'Unlocking the True Power of Continuous Delivery: How Automation Transfor
 description: Explains how automation in continuous delivery improves software reliability, reduces risk, and enables faster, safer deployments through consistent, rapid feedback loops.
 date: 2024-12-06T06:00:00Z
 weight: 355
-ResourceId: LWRAX3OyO28
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: LWRAX3OyO28
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
-layout: video
 aliases:
 - /resources/LWRAX3OyO28
 - /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
@@ -22,9 +13,11 @@ aliasesArchive:
 - /resources/videos/the-power-of-continuous-delivery
 - /resources/the-power-of-continuous-delivery
 - unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
-preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
-duration: 332
-isShort: false
+concepts: []
+categories:
+- DevOps
+- Engineering Excellence
+- Product Development
 tags:
 - Continuous Delivery
 - Software Development
@@ -37,18 +30,25 @@ tags:
 - Pragmatic Thinking
 - Value Delivery
 - Working Software
+ResourceId: LWRAX3OyO28
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: LWRAX3OyO28
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
+duration: 332
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- DevOps
-- Engineering Excellence
-- Product Development
 Watermarks:
   description: 2025-05-07T12:56:52Z
-concepts: []
 
 ---
 If you're venturing into the realm of [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), you might be pondering the benefits it brings to your organisation. While many tout speed as the primary advantage, I’ve come to realise that this is merely a by-product of a much deeper transformation. The true power of continuous delivery lies in the automation it necessitates within the [DevOps]({{< ref "/categories/devops" >}}) framework. 

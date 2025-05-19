@@ -3,19 +3,7 @@ title: 3 best ways to wreck Kanban. Sweep problems under the rug.
 description: Ignoring problems in Kanban leads to workflow blockages, technical debt, and crises. Learn why prompt issue resolution and transparency are vital for effective Kanban.
 date: 2024-03-04T07:00:13Z
 weight: 1000
-ResourceId: Xa_e2EnLEV4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Xa_e2EnLEV4
-source: internal
-url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
-layout: video
-preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg
-duration: 277
-isShort: false
 aliases:
 - /resources/Xa_e2EnLEV4
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
@@ -32,19 +20,31 @@ aliasesArchive:
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
 - 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
+concepts:
+- Practice
+categories:
+- Uncategorized
+tags:
+- Operational Practices
+ResourceId: Xa_e2EnLEV4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Xa_e2EnLEV4
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg
+duration: 277
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Operational Practices
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:05:30Z
-concepts:
-- Practice
 
 ---
 ### The Danger of Ignoring Problems in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy

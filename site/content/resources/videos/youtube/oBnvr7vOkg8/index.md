@@ -3,19 +3,7 @@ title: How does someone become an Agile consultant?
 description: Explains the steps to become an Agile consultant, highlighting the need for domain expertise, real-world experience, and applying Agile practices within your industry.
 date: 2023-03-21T07:00:18Z
 weight: 840
-ResourceId: oBnvr7vOkg8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: oBnvr7vOkg8
-source: internal
-url: /resources/videos/:slug
 slug: how-does-someone-become-an-agile-consultant
-layout: video
-preview: https://i.ytimg.com/vi/oBnvr7vOkg8/maxresdefault.jpg
-duration: 400
-isShort: false
 aliases:
 - /resources/oBnvr7vOkg8
 - /resources/videos/how-does-someone-become-an-agile-consultant
@@ -25,17 +13,29 @@ aliasesArchive:
 - /resources/videos/how-does-someone-become-an-agile-consultant-
 - /resources/how-does-someone-become-an-agile-consultant-
 - how-does-someone-become-an-agile-consultant
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: oBnvr7vOkg8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: oBnvr7vOkg8
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/oBnvr7vOkg8/maxresdefault.jpg
+duration: 400
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:36Z
-concepts: []
 
 ---
 **How does someone become an Agile consultant?**

@@ -1,9 +1,9 @@
 ---
 title: Scrum Values
-abstract: The Scrum Values are fundamental principles that form the backbone of the Scrum framework, consisting of commitment, courage, focus, openness, and respect. Originating from the need to create a structured yet flexible approach to project management, these values are essential for fostering a collaborative and high-performing team environment. Their importance lies in their ability to enhance a team's capacity to deliver value consistently and sustainably, as they promote a culture of trust and accountability. Commitment drives team members to pursue their goals diligently, while courage encourages them to take risks and express concerns. Focus helps streamline efforts towards critical tasks, boosting productivity and efficiency. Openness facilitates transparent communication and collaboration, leading to effective problem-solving, and respect nurtures a supportive environment that values diverse perspectives, fostering innovation. The long-term benefits of integrating Scrum Values into daily practices are significant, enabling teams to effectively navigate complexities and adapt to evolving circumstances. By embedding these values within their organisational culture, companies can cultivate resilience, prioritise continuous improvement, and align their activities with overarching goals, ensuring that value delivery remains central to their product development and delivery processes.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: The Scrum Values are fundamental principles that form the backbone of the Scrum framework, consisting of commitment, courage, focus, openness, and respect. Originating from the need to create a structured yet flexible approach to project management, these values are essential for fostering a collaborative and high-performing team environment. Their importance lies in their ability to enhance a team's capacity to deliver value consistently and sustainably, as they promote a culture of trust and accountability. Commitment drives team members to pursue their goals diligently, while courage encourages them to take risks and express concerns. Focus helps streamline efforts towards critical tasks, boosting productivity and efficiency. Openness facilitates transparent communication and collaboration, leading to effective problem-solving, and respect nurtures a supportive environment that values diverse perspectives, fostering innovation. The long-term benefits of integrating Scrum Values into daily practices are significant, enabling teams to effectively navigate complexities and adapt to evolving circumstances. By embedding these values within their organisational culture, companies can cultivate resilience, prioritise continuous improvement, and align their activities with overarching goals, ensuring that value delivery remains central to their product development and delivery processes.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 405
 description: Commitment, courage, focus, openness, and respect as the foundation of Scrum.
@@ -29,6 +29,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:15:15
+icon: fa-gem
 concepts:
 - Framework
 categories:
@@ -45,7 +46,6 @@ tags:
 - Agile Frameworks
 - Organisational Agility
 - Agile Values and Principles
-icon: fa-gem
 
 ---
 The Scrum Values are a first principal of Scrum.

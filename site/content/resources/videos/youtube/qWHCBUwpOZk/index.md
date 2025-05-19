@@ -3,19 +3,7 @@ title: 3 core practices of Kanban. Improving a workflow.
 description: Learn how to improve Kanban workflows by identifying blockages, reducing waiting times, and making continuous changes to boost efficiency and value delivery in your process.
 date: 2024-02-28T07:00:19Z
 weight: 1000
-ResourceId: qWHCBUwpOZk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: qWHCBUwpOZk
-source: internal
-url: /resources/videos/:slug
 slug: 3-core-practices-of-kanban-improving-a-workflow
-layout: video
-preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
-duration: 307
-isShort: false
 aliases:
 - /resources/qWHCBUwpOZk
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
@@ -28,9 +16,11 @@ aliasesArchive:
 - 3-core-practices-of-kanban-improving-a-workflow-
 - 3-core-practices-of-kanban-improving-a-workflow
 - /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Method
+categories:
+- Kanban
+- Product Development
 tags:
 - Software Development
 - Flow Efficiency
@@ -39,15 +29,25 @@ tags:
 - Agile Frameworks
 - Lean Thinking
 - Pragmatic Thinking
+ResourceId: qWHCBUwpOZk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: qWHCBUwpOZk
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
+duration: 307
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Kanban
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:33Z
-concepts:
-- Method
 
 ---
 ### Improving Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy

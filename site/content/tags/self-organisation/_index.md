@@ -1,9 +1,9 @@
 ---
 title: Self Organisation
-abstract: Self-organisation is the capacity of teams to independently manage their work, make decisions, and adapt to evolving circumstances without external oversight. Originating from principles in Agile, Lean, and DevOps methodologies, this concept is vital for fostering a culture of ownership and accountability within teams. By empowering individuals to take initiative, self-organisation enhances collaboration and innovation, leading to improved problem-solving and value delivery. In such environments, teams leverage their collective skills and insights, which boosts engagement and drives continuous improvement through experimentation and learning from failures. This autonomy not only enhances productivity but also contributes to long-term organisational resilience, enabling teams to thrive in dynamic contexts. Unlike traditional hierarchical structures, self-organisation aligns with the need for adaptability and responsiveness, creating a framework that optimises workflows and ensures that organisations remain competitive and responsive to market demands. Ultimately, this approach cultivates an environment where innovation can flourish, equipping teams to navigate complexity with confidence and agility.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Self-organisation is the capacity of teams to independently manage their work, make decisions, and adapt to evolving circumstances without external oversight. Originating from principles in Agile, Lean, and DevOps methodologies, this concept is vital for fostering a culture of ownership and accountability within teams. By empowering individuals to take initiative, self-organisation enhances collaboration and innovation, leading to improved problem-solving and value delivery. In such environments, teams leverage their collective skills and insights, which boosts engagement and drives continuous improvement through experimentation and learning from failures. This autonomy not only enhances productivity but also contributes to long-term organisational resilience, enabling teams to thrive in dynamic contexts. Unlike traditional hierarchical structures, self-organisation aligns with the need for adaptability and responsiveness, creating a framework that optimises workflows and ensures that organisations remain competitive and responsive to market demands. Ultimately, this approach cultivates an environment where innovation can flourish, equipping teams to navigate complexity with confidence and agility.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 305
 description: Empowering teams to take ownership and drive value autonomously.
@@ -31,6 +31,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:14:25
+icon: fa-sitemap
 concepts:
 - Principle
 categories:
@@ -51,7 +52,6 @@ tags:
 - Lean Principles
 - Continuous Learning
 - Team Performance
-icon: fa-sitemap
 
 ---
 Self-organisation refers to the ability of teams to autonomously manage their work, make decisions, and adapt to changing circumstances without relying on external control. This concept is crucial as it fosters a culture of ownership and accountability, enabling teams to respond swiftly to challenges and opportunities. By empowering individuals to take initiative, self-organisation enhances collaboration and innovation, leading to more effective problem-solving and value delivery.

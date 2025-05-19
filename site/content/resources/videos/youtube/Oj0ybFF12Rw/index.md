@@ -3,19 +3,7 @@ title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
 description: Examines whether the belief that Scrum can't scale is practical or defeatist, highlighting Nexus as a proven approach for scaling Scrum to deliver greater value.
 date: 2023-10-09T14:30:08Z
 weight: 790
-ResourceId: Oj0ybFF12Rw
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Oj0ybFF12Rw
-source: internal
-url: /resources/videos/:slug
 slug: quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
-layout: video
-preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
-duration: 50
-isShort: true
 aliases:
 - /resources/Oj0ybFF12Rw
 - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
@@ -27,20 +15,32 @@ aliasesArchive:
 - /resources/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 - quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
 - /resources/videos/quotes-don-t-scale-scrum-pragmatic-or-defeatist
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Scrum
 tags:
 - Software Development
 - Agile Frameworks
 - Professional Scrum
+ResourceId: Oj0ybFF12Rw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Oj0ybFF12Rw
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
+duration: 50
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
 Watermarks:
   description: 2025-05-07T13:08:55Z
-concepts: []
 
 ---
 ## "Don't scale [scrum]({{< ref "/categories/scrum" >}})" - A Common Refrain 

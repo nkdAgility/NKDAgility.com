@@ -3,15 +3,7 @@ title: 'Why Agile Success Lies in Principles, Not Tools: A Shift in Focus'
 description: Agile success depends on core principles like adaptability and collaboration, not just tools or frameworks. Focusing on principles leads to better decisions and lasting results.
 date: 2023-05-03T07:00:33Z
 weight: 1000
-ResourceId: y2TObrUi3m0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: y2TObrUi3m0
-url: /resources/videos/:slug
 slug: why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
-layout: video
 aliases:
 - /resources/y2TObrUi3m0
 - /resources/videos/why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
@@ -23,26 +15,34 @@ aliasesArchive:
 - what-should-have-been-way-more-popular-in-agile-than-it-currently-is
 - /resources/videos/why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
 - why-agile-success-lies-in-principles-not-tools-a-shift-in-focus
-preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
-duration: 117
-isShort: false
+concepts:
+- Principle
+categories:
+- Product Development
 tags:
 - Agile Values and Principles
 - Agile Philosophy
 - Agnostic Agile
 - Software Development
+ResourceId: y2TObrUi3m0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: y2TObrUi3m0
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
+duration: 117
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:12:47Z
-concepts:
-- Principle
 
 ---
 In the ever-evolving landscape of Agile methodologies, I often find myself reflecting on what truly deserves more attention than it currently receives. Surprisingly, it’s not the latest tools or frameworks that should be at the forefront of our discussions. Instead, I believe we need to shift our focus back to the foundational principles that underpin Agile practices.

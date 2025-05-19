@@ -3,19 +3,7 @@ title: How does a Scrum team decide on a Sprint goal?
 description: Explains how Scrum teams collaboratively define a clear, achievable Sprint goal through early stakeholder input, planning, consensus, and ongoing communication.
 date: 2023-06-02T07:00:09Z
 weight: 640
-ResourceId: Srwxg7Etnr0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Srwxg7Etnr0
-source: internal
-url: /resources/videos/:slug
 slug: how-does-a-scrum-team-decide-on-a-sprint-goal
-layout: video
-preview: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg
-duration: 152
-isShort: false
 aliases:
 - /resources/Srwxg7Etnr0
 - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal
@@ -25,9 +13,11 @@ aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-
 - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal-
 - how-does-a-scrum-team-decide-on-a-sprint-goal
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Method
+categories:
+- Product Development
+- Scrum
 tags:
 - Scrum Team
 - Agile Planning
@@ -36,15 +26,25 @@ tags:
 - Pragmatic Thinking
 - Software Development
 - Common Goals
+ResourceId: Srwxg7Etnr0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Srwxg7Etnr0
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg
+duration: 152
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:11:56Z
-concepts:
-- Method
 
 ---
 ## Deciphering the Sprint Goal Enigma **🎯**  

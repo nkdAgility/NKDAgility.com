@@ -3,40 +3,40 @@ title: Worst trait in unskilled scrum masters?
 description: Highlights the most damaging traits of unskilled Scrum Masters, such as micromanagement and bossiness, and contrasts them with effective, facilitative Scrum leadership.
 date: 2023-04-26T07:00:00Z
 weight: 690
+slug: worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+aliases:
+- /resources/-pW6YDYEO20
+- /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 ResourceId: -pW6YDYEO20
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: -pW6YDYEO20
 source: internal
 url: /resources/videos/:slug
-slug: worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
 duration: 54
 isShort: true
-aliases:
-- /resources/-pW6YDYEO20
-- /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
 aliasesArchive:
 - /resources/videos/worst-trait-in-unskilled-scrum-masters
 - /resources/worst-trait-in-unskilled-scrum-masters
 - /resources/videos/worst-trait-in-unskilled-scrum-masters-
 - /resources/worst-trait-in-unskilled-scrum-masters-
 - worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+concepts: []
+categories:
+- Scrum
+tags:
+- Scrum Master
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
 Watermarks:
   description: 2025-05-07T13:13:01Z
-concepts: []
 
 ---
 **Worst trait in unskilled [scrum]({{< ref "/categories/scrum" >}}) masters?**

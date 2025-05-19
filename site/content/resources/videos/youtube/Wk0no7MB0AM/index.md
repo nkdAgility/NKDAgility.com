@@ -3,15 +3,7 @@ title: "Navigating Team Conflict: How Scrum Masters Can Prevent 'War' in Agile P
 description: Explores how Scrum Masters can identify, manage, and prevent destructive team conflict in Agile projects, promoting healthy collaboration and effective communication.
 date: 2023-10-30T14:30:10Z
 weight: 640
-ResourceId: Wk0no7MB0AM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Wk0no7MB0AM
-url: /resources/videos/:slug
 slug: navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
-layout: video
 aliases:
 - /resources/Wk0no7MB0AM
 - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
@@ -23,23 +15,31 @@ aliasesArchive:
 - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
 - navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
-preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
-duration: 59
-isShort: true
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Scrum Master
 - Scrum Team
+ResourceId: Wk0no7MB0AM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Wk0no7MB0AM
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
+duration: 59
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:08:14Z
-concepts: []
 
 ---
 In my journey through the world of Agile, I've often encountered various signs that indicate when teams are veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 

@@ -3,16 +3,7 @@ title: Building a culture of Quality
 description: Explores how fostering a culture of quality and engineering excellence across teams leads to better, safer products, highlighting the impact of leadership and shared values.
 date: 2024-11-22T07:00:08Z
 weight: 150
-ResourceId: IZ-FlBbGaSY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: IZ-FlBbGaSY
-source: internal
-url: /resources/videos/:slug
 slug: building-a-culture-of-quality
-layout: video
 aliases:
 - /resources/IZ-FlBbGaSY
 - /resources/videos/building-a-culture-of-quality
@@ -22,9 +13,11 @@ aliasesArchive:
 - /resources/videos/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - /resources/continuous-integration-and-continuous-delivery-ci-cd-for-quality
 - building-a-culture-of-quality
-preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
-duration: 451
-isShort: false
+concepts:
+- Ethos
+categories:
+- Engineering Excellence
+- Technical Leadership
 tags:
 - Technical Excellence
 - Engineering Practices
@@ -33,18 +26,25 @@ tags:
 - Value Delivery
 - Working Software
 - Azure Pipelines
+ResourceId: IZ-FlBbGaSY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: IZ-FlBbGaSY
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/IZ-FlBbGaSY/maxresdefault.jpg
+duration: 451
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
-- Technical Leadership
 Watermarks:
   description: 2025-05-07T12:57:08Z
-concepts:
-- Ethos
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

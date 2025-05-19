@@ -1,24 +1,24 @@
 ---
 title: 'Decoding Ethics in Agile: A Deep Dive with Martin & Simon'
 description: Explore how language, transparency, and precision shape ethical practices in Agile, with insights from experienced Agile coaches and consultants Martin and Simon.
+date: 2023-10-26
+weight: 1000
+slug: decoding-ethics-in-agile-a-deep-dive-with-martin-simon
+aliases:
+- /resources/SfjZtlimOCu
 ResourceId: SfjZtlimOCu
 ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
-date: 2023-10-26
-weight: 1000
-categories:
-- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: decoding-ethics-in-agile-a-deep-dive-with-martin-simon
-aliases:
-- /resources/SfjZtlimOCu
-tags: []
 Watermarks:
   description: 2025-05-07T13:08:22Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

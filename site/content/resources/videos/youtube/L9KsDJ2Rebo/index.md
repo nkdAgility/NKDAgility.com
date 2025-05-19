@@ -3,15 +3,7 @@ title: 'Unlocking Agile Mastery: Why Spaced Learning Outshines Traditional Cours
 description: Explores how spaced learning in Agile and Scrum boosts retention, real-world application, and collaboration compared to traditional intensive courses.
 date: 2023-07-13T07:45:48Z
 weight: 1000
-ResourceId: L9KsDJ2Rebo
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: L9KsDJ2Rebo
-url: /resources/videos/:slug
 slug: unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
-layout: video
 aliases:
 - /resources/L9KsDJ2Rebo
 - /resources/videos/unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
@@ -22,23 +14,31 @@ aliasesArchive:
 - /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
 - unlocking-agile-mastery-why-spaced-learning-outshines-traditional-courses
-preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
-duration: 84
-isShort: false
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Continuous Learning
 - Pragmatic Thinking
+ResourceId: L9KsDJ2Rebo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: L9KsDJ2Rebo
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
+duration: 84
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:42Z
-concepts: []
 
 ---
 When it comes to learning, especially in the realm of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often found that the traditional approach of cramming information into a couple of days can be less effective than we might hope. Reflecting on my experiences, I’ve come to appreciate the value of spreading learning over a longer period, allowing for deeper engagement and practical application.

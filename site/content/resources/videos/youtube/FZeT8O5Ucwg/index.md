@@ -3,26 +3,27 @@ title: 'Unmasking Agile: How to Spot Genuine Practices Amidst the Myths'
 description: Learn how to identify authentic agile practices, spot common myths, and understand cultural barriers that hinder true agility in modern software development teams.
 date: 2020-03-18T13:56:05Z
 weight: 1000
+slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
+aliases:
+- /resources/FZeT8O5Ucwg
 ResourceId: FZeT8O5Ucwg
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: FZeT8O5Ucwg
 url: /resources/videos/:slug
-slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 layout: video
-aliases:
-- /resources/FZeT8O5Ucwg
 aliasesArchive:
 - /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
 - /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 - /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 - /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 - unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
-duration: 2106
-isShort: false
+concepts:
+- Ethos
+categories:
+- Product Development
 tags:
 - Agile Transformation
 - Software Development
@@ -30,18 +31,17 @@ tags:
 - Agile Philosophy
 - Agile Product Management
 - Agile Values and Principles
+preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
+duration: 2106
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:16:02Z
-concepts:
-- Ethos
 
 ---
 In my journey as a [Scrum]({{< ref "/categories/scrum" >}}) trainer, I’ve often encountered a startling statistic: according to Forrester Research, around 81% of development shops claim to be agile. However, the reality is that many of these organisations are not being entirely truthful about their practices. This disconnect raises an important question: how can we discern genuine agility from mere lip service? 

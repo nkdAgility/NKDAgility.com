@@ -3,19 +3,7 @@ title: 3 best ways to wreck Kanban. Don't have a working agreement.
 description: Not having a working agreement in Kanban leads to team misalignment, inefficiency, and conflict. Clear agreements ensure roles, goals, and processes are understood by all.
 date: 2024-03-01T07:00:17Z
 weight: 690
-ResourceId: h6yumCOP-aE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: h6yumCOP-aE
-source: internal
-url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
-layout: video
-preview: https://i.ytimg.com/vi/h6yumCOP-aE/maxresdefault.jpg
-duration: 302
-isShort: false
 aliases:
 - /resources/h6yumCOP-aE
 - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
@@ -32,22 +20,34 @@ aliasesArchive:
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
 - 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
 - /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
 tags:
 - Operational Practices
 - Working Agreements
 - Team Performance
 - Pragmatic Thinking
 - Team Collaboration
+ResourceId: h6yumCOP-aE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: h6yumCOP-aE
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/h6yumCOP-aE/maxresdefault.jpg
+duration: 302
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:31Z
-concepts: []
 
 ---
 ### Achieving Team Alignment with [Kanban]({{< ref "/categories/kanban" >}}): The Importance of a Working Agreement

@@ -1,19 +1,8 @@
 ---
 title: From Unused Gym Memberships to Agile Implementation The Parallels of Misapplied Investments
 description: Explores how superficial adoption of agile in software development mirrors unused gym memberships, highlighting the need for genuine commitment and effective implementation.
-ResourceId: mzVDd2JFtHO
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 49507
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-08-03
 weight: 355
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliases:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
@@ -24,15 +13,26 @@ aliasesArchive:
 - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 - /resources/blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
+concepts: []
+categories:
+- Product Development
 tags:
 - Software Development
 - Agile Philosophy
-categories:
-- Product Development
+ResourceId: mzVDd2JFtHO
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 49507
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: naked-agility-technically-agile-gym-membership-Agile-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:27Z
-concepts: []
 
 ---
 In [software development]({{< ref "/tags/software-development" >}}), an increasingly prevalent phenomenon is the adoption of agile methodologies, akin to individuals embarking on fitness journeys through gym memberships. However, a striking parallel between the two realms can be drawn – the misuse and under-utilization of the tools at disposal. The essence of this analogy reflects a more fundamental notion: the gap between intention and implementation.

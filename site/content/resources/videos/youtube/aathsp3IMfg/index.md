@@ -3,19 +3,7 @@ title: When is an APS course appropriate for a scrum team?
 description: Explains when an Applied Professional Scrum (APS) course benefits Scrum teams, helping identify and remove ineffective practices to improve authentic Agile delivery.
 date: 2023-04-11T07:00:00Z
 weight: 1000
-ResourceId: aathsp3IMfg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: aathsp3IMfg
-source: internal
-url: /resources/videos/:slug
 slug: when-is-an-aps-course-appropriate-for-a-scrum-team
-layout: video
-preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
-duration: 194
-isShort: false
 aliases:
 - /resources/aathsp3IMfg
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
@@ -28,18 +16,30 @@ aliasesArchive:
 - /resources/what-does-your-dream-agile-consulting-week-look-like-
 - /resources/videos/what-does-your-dream-agile-consulting-week-look-like
 - when-is-an-aps-course-appropriate-for-a-scrum-team
+concepts: []
+categories:
+- Product Development
+tags:
+- Scrum Master
+ResourceId: aathsp3IMfg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: aathsp3IMfg
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
+duration: 194
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Scrum Master
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:13:16Z
-concepts: []
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your [Scrum]({{< ref "/categories/scrum" >}}) Journey

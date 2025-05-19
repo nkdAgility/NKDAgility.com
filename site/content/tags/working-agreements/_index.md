@@ -1,9 +1,9 @@
 ---
 title: Working Agreements
-abstract: Working agreements are foundational norms and principles that teams establish to improve collaboration and effectiveness in their work processes. Originating from the need for clear communication and decision-making frameworks, these agreements delineate how team members interact and fulfil their responsibilities, thereby fostering a shared understanding of expectations. Their importance is underscored in agile and DevOps environments, where accountability and trust are essential for delivering consistent value. By aligning on working agreements, teams can minimise interpersonal conflicts and distractions, allowing them to concentrate on their objectives and engage in continuous improvement. Furthermore, these agreements facilitate long-term systemic change within organisations by empowering teams to self-organise and adapt to challenges, enhancing resilience and agility. By embedding working agreements into the team's culture, organisations can create an environment conducive to collaboration, ultimately leading to improved performance and value delivery. The clarity and commitment provided by working agreements are vital for navigating the complexities of modern product development, ensuring that teams remain aligned with their goals and values.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Working agreements are foundational norms and principles that teams establish to improve collaboration and effectiveness in their work processes. Originating from the need for clear communication and decision-making frameworks, these agreements delineate how team members interact and fulfil their responsibilities, thereby fostering a shared understanding of expectations. Their importance is underscored in agile and DevOps environments, where accountability and trust are essential for delivering consistent value. By aligning on working agreements, teams can minimise interpersonal conflicts and distractions, allowing them to concentrate on their objectives and engage in continuous improvement. Furthermore, these agreements facilitate long-term systemic change within organisations by empowering teams to self-organise and adapt to challenges, enhancing resilience and agility. By embedding working agreements into the team's culture, organisations can create an environment conducive to collaboration, ultimately leading to improved performance and value delivery. The clarity and commitment provided by working agreements are vital for navigating the complexities of modern product development, ensuring that teams remain aligned with their goals and values.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 440
 description: Establishing team norms and collaboration principles for effective teamwork.
@@ -30,18 +30,20 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T12:55:36
+icon: fa-handshake
 concepts:
 - Discipline
 categories:
 - Product Development
 tags:
+- Team Collaboration
 - Self Organisation
 - Social Technologies
 - Organisational Culture
 - Team Motivation
+- Pragmatic Thinking
 - Organisational Agility
 - Agile Philosophy
-icon: fa-handshake
 
 ---
 Working agreements are essential norms and principles established by teams to enhance collaboration and effectiveness in their work. These agreements define how team members interact, communicate, and make decisions, fostering a shared understanding of expectations and responsibilities. By creating a clear framework for behaviour and engagement, working agreements enable teams to operate more cohesively, reducing misunderstandings and conflicts.

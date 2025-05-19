@@ -1,19 +1,8 @@
 ---
 title: 'The Definition of Done: Ensuring Quality without Compromising Value'
 description: Explains how to maintain clear, measurable quality standards with the Definition of Done, while avoiding confusion with acceptance criteria and preserving product value.
-ResourceId: DcwDyX1ZGUP
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 50083
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-09-27
 weight: 610
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
 - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
@@ -28,21 +17,32 @@ aliasesArchive:
 - /the-definition-of-done--ensuring-quality-without-compromising-value
 - /blog/the-definition-of-done--ensuring-quality-without-compromising-value
 - /resources/blog/the-definition-of-done-ensuring-quality-without-compromising-value
+concepts:
+- Artifact
+categories:
+- Product Development
+- Scrum
+- Engineering Excellence
 tags:
 - Definition of Done
 - Software Development
 - Working Software
 - Professional Scrum
 - Transparency
-categories:
-- Product Development
-- Scrum
-- Engineering Excellence
+ResourceId: DcwDyX1ZGUP
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 50083
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:18Z
-concepts:
-- Artifact
 
 ---
 The [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD) is a sacrosanct measure of quality, ensuring that every piece of work meets the standards necessary for release. On the other hand, acceptance criteria focus on the work's content. Merging the two can risk the integrity of a working, usable product. This article delves into the nuances of maintaining the sanctity of the DoD while ensuring the delivery of valuable increments.

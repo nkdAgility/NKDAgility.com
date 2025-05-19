@@ -3095,5 +3095,24 @@
     "reasoning": "The content focuses on DevOps as a means to modernise legacy systems, emphasising automation, CI/CD, and observability. While it references delivering value to users and shortening feedback loops, it does not explicitly discuss defining, measuring, or prioritising work based on customer outcomes. The main thrust is internal process improvement and system agility, with only indirect links to customer value. There are no direct mentions of customer focus, feedback loops with real users, or evidence-based alignment to customer needs. The audience is technical and the content is relevant to practitioners, but the discussion remains centred on engineering practices rather than customer-centric delivery.",
     "reasoning_summary": "This content is primarily about DevOps-driven legacy modernisation, focusing on internal agility and system improvement. While it briefly mentions delivering value to users, it lacks explicit discussion of customer outcomes or feedback, so it only weakly fits the Customer Focus category.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Tr1b0hru0zE",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:53:48",
+    "ai_confidence": 19.35,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 5.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses on DevOps as a means to modernise legacy systems, emphasising automation, CI/CD, and observability. While it references 'workflow' in passing (e.g., 'improvements become a continuous part of your workflow'), it does not discuss the Definition of Workflow as an explicit, dynamic set of agreements or policies per Kanban or agile theory. There is no mention of entry/exit criteria, WIP limits, or the distinction between Definition of Workflow and Definition of Done. The main audience is technical practitioners, but the content lacks depth and direct alignment with the category. No penalties were applied as the content is not outdated or critical.",
+    "reasoning_summary": "This content is about DevOps-driven legacy modernisation, not the Definition of Workflow. It only briefly mentions 'workflow' generically and lacks the explicit, policy-driven focus required for this category. Confidence is low due to minimal alignment and depth.",
+    "level": "Ignored"
   }
 }

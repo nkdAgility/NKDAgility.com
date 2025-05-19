@@ -3094,5 +3094,24 @@
     "reasoning": "The content directly and repeatedly references the importance of telemetry as a feedback loop to validate customer outcomes, not just internal metrics. It details actionable practices (embedding telemetry in Definition of Done, automating data collection, reviewing and acting on telemetry) that align with the core of Customer Focus. The discussion is deep, practical, and aimed at agile/DevOps practitioners, with minimal off-topic content. No penalties apply as the content is current, positive, and fully aligned.",
     "reasoning_summary": "This piece strongly fits Customer Focus, emphasising telemetry as essential for learning from real users and delivering value. It offers actionable steps, targets agile teams, and keeps the discussion tightly aligned with measuring and responding to customer outcomes.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Nj4BIom2Jeg",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:53:17",
+    "ai_confidence": 13.7,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 2.0,
+    "ai_audience": 4.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is focused on integrating telemetry into the Definition of Done, not the Definition of Workflow. It does not discuss workflow policies, entry/exit criteria, WIP limits, or Kanban-specific concepts. There is only a tangential connection to workflow, as telemetry could inform process improvement, but the main thrust is about completion criteria (Definition of Done), not workflow management. The audience is technical teams, which partially overlaps, but the content lacks direct relevance, depth, or explicit mention of the Definition of Workflow.",
+    "reasoning_summary": "This content is about making telemetry part of the Definition of Done, not the Definition of Workflow. It doesn't address workflow policies or Kanban concepts, so confidence in this classification is very low.",
+    "level": "Ignored"
   }
 }

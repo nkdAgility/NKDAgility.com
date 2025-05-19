@@ -3,18 +3,7 @@ title: Biggest contribution from a Product Owner that you know of
 description: Explores how visionary Product Owners at Microsoft drove Agile transformation, shortened feedback cycles, and reshaped product development culture and industry standards.
 date: 2023-06-13T11:32:18Z
 weight: 480
-ResourceId: 2IuL2Qvvbfk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 2IuL2Qvvbfk
-source: internal
-url: /resources/videos/:slug
 slug: biggest-contribution-from-a-product-owner-that-you-know-of
-preview: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg
-duration: 452
-isShort: false
 aliases:
 - /resources/2IuL2Qvvbfk
 - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of
@@ -24,9 +13,12 @@ aliasesArchive:
 - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of-
 - biggest-contribution-from-a-product-owner-that-you-know-of
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Ethos
+categories:
+- Product Development
+- Product Management
+- Leadership
 tags:
 - Organisational Change
 - Software Development
@@ -38,17 +30,25 @@ tags:
 - Product Owner
 - Organisational Culture
 - Sociotechnical Systems
+ResourceId: 2IuL2Qvvbfk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 2IuL2Qvvbfk
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg
+duration: 452
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
-- Product Management
-- Leadership
 Watermarks:
   description: 2025-05-07T13:11:41Z
-concepts:
-- Ethos
 
 ---
 When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of [product management]({{< ref "/categories/product-management" >}}) - these are the MVPs who redefine the game. 🌟 

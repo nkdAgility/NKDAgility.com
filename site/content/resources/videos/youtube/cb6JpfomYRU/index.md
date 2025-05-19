@@ -3,15 +3,7 @@ title: 'Transform Your Career: How to Become a Confident Scrum Master Through Re
 description: Learn how practical training, real-world application, and community support help you build confidence and skills to succeed as a Scrum Master in Agile environments.
 date: 2023-07-13T07:41:01Z
 weight: 690
-ResourceId: cb6JpfomYRU
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: cb6JpfomYRU
-url: /resources/videos/:slug
 slug: transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
-layout: video
 aliases:
 - /resources/cb6JpfomYRU
 - /resources/videos/transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
@@ -22,9 +14,10 @@ aliasesArchive:
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates-
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
 - transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support
-preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
-duration: 353
-isShort: false
+concepts: []
+categories:
+- Scrum
+- Product Development
 tags:
 - Competence
 - Scrum Master
@@ -35,18 +28,25 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Software Development
+ResourceId: cb6JpfomYRU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: cb6JpfomYRU
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/cb6JpfomYRU/maxresdefault.jpg
+duration: 353
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:10:49Z
-concepts: []
 
 ---
 When I think about the journey of becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often reflect on the transformative experiences that shape our understanding and application of Agile principles. One of the most significant aspects of this journey is the immediate ability to put theory into practice. From the very first session of my training, participants are not just passive learners; they are actively engaged in identifying and addressing real issues within their organisations. 

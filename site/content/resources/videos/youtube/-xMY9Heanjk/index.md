@@ -3,18 +3,7 @@ title: What is the hardest part of working with a brand-new scrum team?
 description: The biggest challenge with new scrum teams is overcoming misconceptions about scrum and shifting focus from process mechanics to core agile principles and empirical learning.
 date: 2023-02-03T07:00:00Z
 weight: 450
-ResourceId: -xMY9Heanjk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: -xMY9Heanjk
-source: internal
-url: /resources/videos/:slug
 slug: what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
-preview: https://i.ytimg.com/vi/-xMY9Heanjk/maxresdefault.jpg
-duration: 263
-isShort: false
 aliases:
 - /resources/-xMY9Heanjk
 - /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
@@ -24,9 +13,11 @@ aliasesArchive:
 - /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 - what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
+- Technical Leadership
+- Scrum
 tags:
 - Pragmatic Thinking
 - Empirical Process Control
@@ -39,16 +30,25 @@ tags:
 - Scrum Master
 - Scrum Team
 - Coaching
+ResourceId: -xMY9Heanjk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: -xMY9Heanjk
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/-xMY9Heanjk/maxresdefault.jpg
+duration: 263
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
-- Technical Leadership
-- Scrum
 Watermarks:
   description: 2025-05-07T13:14:15Z
-concepts: []
 
 ---
 What is the hardest part of working with a brand-new [scrum]({{< ref "/categories/scrum" >}}) team?

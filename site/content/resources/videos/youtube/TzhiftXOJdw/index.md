@@ -3,19 +3,7 @@ title: What more needs to happen before traditional organisations consider Agile
 description: Explores what traditional organisations must change—beyond adopting Agile tools—to achieve true agility, cultural transformation, and sustained competitive advantage.
 date: 2023-07-06T07:08:30Z
 weight: 790
-ResourceId: TzhiftXOJdw
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: TzhiftXOJdw
-source: internal
-url: /resources/videos/:slug
 slug: what-more-needs-to-happen-before-traditional-organisations-consider-agile
-layout: video
-preview: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg
-duration: 240
-isShort: false
 aliases:
 - /resources/TzhiftXOJdw
 - /resources/videos/what-more-needs-to-happen-before-traditional-organisations-consider-agile
@@ -26,9 +14,10 @@ aliasesArchive:
 - /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile
 - /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
 - what-more-needs-to-happen-before-traditional-organisations-consider-agile
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Ethos
+categories:
+- Product Development
 tags:
 - Agile Philosophy
 - Agile Strategy
@@ -43,14 +32,25 @@ tags:
 - Sociotechnical Systems
 - Business Agility
 - Beta Codex
+ResourceId: TzhiftXOJdw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: TzhiftXOJdw
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg
+duration: 240
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:11:01Z
-concepts:
-- Ethos
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

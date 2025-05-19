@@ -3,19 +3,7 @@ title: What is the Sprint Review workshop and how will it help organisations?
 description: Explains the Sprint Review workshop, detailing its role in Agile teams for stakeholder engagement, market alignment, and continuous product improvement through practical guidance.
 date: 2023-06-30T07:00:18Z
 weight: 665
-ResourceId: uYm_wb1sHJE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: uYm_wb1sHJE
-source: internal
-url: /resources/videos/:slug
 slug: what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
-layout: video
-preview: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg
-duration: 158
-isShort: false
 aliases:
 - /resources/uYm_wb1sHJE
 - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
@@ -28,24 +16,36 @@ aliasesArchive:
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
 - what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Method
+categories:
+- Product Development
+- Scrum
 tags:
 - Sprint Review
 - Software Development
 - Agile Planning
 - Pragmatic Thinking
 - Team Performance
+ResourceId: uYm_wb1sHJE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: uYm_wb1sHJE
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg
+duration: 158
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:11:04Z
-concepts:
-- Method
 
 ---
 ## 🚀 Demystifying the [Sprint Review]({{< ref "/tags/sprint-review" >}}) Workshop 

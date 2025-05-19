@@ -3,19 +3,7 @@ title: 'Navigating the Legacy System Labyrinth: Strategies for Modernisation Suc
 description: Explore practical strategies for overcoming legacy system challenges, addressing technical debt, compliance, integration, and guiding effective modernisation decisions.
 date: 2025-04-07T06:00:36Z
 weight: 450
-ResourceId: pTZaZcASniA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: pTZaZcASniA
-source: internal
-url: /resources/videos/:slug
 slug: navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
-layout: video
-preview: https://i.ytimg.com/vi/pTZaZcASniA/maxresdefault.jpg
-duration: 91
-isShort: false
 aliases:
 - /resources/pTZaZcASniA
 - /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
@@ -30,17 +18,29 @@ aliasesArchive:
 - maximizing-transparency-and-improvement-in-software-engineering-with-kanban
 - /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 - navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: pTZaZcASniA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: pTZaZcASniA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/pTZaZcASniA/maxresdefault.jpg
+duration: 91
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T12:49:15Z
-concepts: []
 
 ---
 Every CTO knows the pain of dealing with technology that feels like it belongs in a museum rather than a modern workplace. I’ve been there myself, grappling with systems that are not just slow and expensive, but also riddled with layers of [technical debt]({{< ref "/tags/technical-debt" >}}) and questionable architecture. It’s a frustrating experience, and I want to share some insights on why this problem persists and how we can begin to tackle it.

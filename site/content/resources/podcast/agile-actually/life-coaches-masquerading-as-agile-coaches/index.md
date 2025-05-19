@@ -1,24 +1,24 @@
 ---
 title: Life coaches masquerading as Agile Coaches
 description: Examines the rise of life coaches claiming to be Agile Coaches, the controversy around their qualifications, and the impact on organisations seeking genuine Agile expertise.
+date: 2023-04-01
+weight: 840
+slug: life-coaches-masquerading-as-agile-coaches
+aliases:
+- /resources/lcekkOc8X02
 ResourceId: lcekkOc8X02
 ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
-date: 2023-04-01
-weight: 840
-categories:
-- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: life-coaches-masquerading-as-agile-coaches
-aliases:
-- /resources/lcekkOc8X02
-tags: []
 Watermarks:
   description: 2025-05-07T13:13:26Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 In this month's edition of [#agileactually](https://www.youtube.com/hashtag/agileactually), Simon Reindl and Martin Hinshelwood explore the latest trend in [#agile](https://www.youtube.com/hashtag/agile) for a life coach to present themselves as an [#agilecoach](https://www.youtube.com/hashtag/agilecoach) to organizations.

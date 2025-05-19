@@ -3,16 +3,7 @@ title: 'Navigating Technical Debt: How to Transform Challenges into Opportunitie
 description: Explains how managing technical debt and distinguishing it from poor quality can boost product efficiency, reduce costs, and support sustainable software development.
 date: 2024-12-19T06:00:00Z
 weight: 205
-ResourceId: npnQtdLEwQY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: npnQtdLEwQY
-source: youtube
-url: /resources/videos/:slug
 slug: navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
-layout: video
 aliases:
 - /resources/npnQtdLEwQY
 - /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
@@ -22,26 +13,35 @@ aliasesArchive:
 - /resources/videos/managing-technical-debt-to-minimize-costs
 - /resources/managing-technical-debt-to-minimize-costs
 - navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
-preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
-duration: 668
-isShort: false
+concepts: []
+categories:
+- Engineering Excellence
+- Product Development
 tags:
 - Technical Debt
 - Pragmatic Thinking
 - Software Development
 - Technical Mastery
 - Engineering Practices
+ResourceId: npnQtdLEwQY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: npnQtdLEwQY
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
+duration: 668
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
-- Product Development
 Watermarks:
   description: 2025-05-07T12:56:38Z
-concepts: []
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in our industry, but I want to clarify what it really means and how it impacts our products and processes. From my experience, technical debt is not just a buzzword; it represents a significant cost that can accumulate over time if not managed properly. 

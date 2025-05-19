@@ -3,15 +3,7 @@ title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Rea
 description: Join monthly interactive sessions to discuss real-world business agility challenges, share insights, and learn from diverse peers using a collaborative Lean Coffee format.
 date: 2022-07-27T18:45:14Z
 weight: 840
-ResourceId: bvCU_N6iY_4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: bvCU_N6iY_4
-url: /resources/videos/:slug
 slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
-layout: video
 aliases:
 - /resources/bvCU_N6iY_4
 - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
@@ -23,22 +15,30 @@ aliasesArchive:
 - /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 - unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Business Agility
+ResourceId: bvCU_N6iY_4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: bvCU_N6iY_4
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: true
-tags:
-- Business Agility
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:14:49Z
-concepts: []
 
 ---
 As I sit down to write this post, I’m reminded of the vibrant discussions that take place during our monthly [Business Agility]({{< ref "/tags/business-agility" >}}) Raw sessions. If you haven’t joined us yet, I highly encourage you to mark your calendars for the fourth Wednesday of every month. It’s a fantastic opportunity to engage with like-minded individuals and explore the pressing topics that matter most to us in the realm of business agility.

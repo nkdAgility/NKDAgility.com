@@ -3,18 +3,7 @@ title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmat
 description: Explores the dangers of dogmatism in Agile, highlighting the need for flexibility, pragmatism, and people-focused adaptation over rigid rule-following in teams.
 date: 2023-12-28T08:40:54Z
 weight: 1000
-ResourceId: _5daB0lJpdc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: _5daB0lJpdc
-source: internal
-url: /resources/videos/:slug
 slug: introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
-preview: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
-duration: 372
-isShort: false
 aliases:
 - /resources/_5daB0lJpdc
 - /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
@@ -27,23 +16,34 @@ aliasesArchive:
 - /resources/5-ghosts-of-agile-past-certification
 - introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
 - /resources/videos/introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
 tags:
 - Agile Transformation
 - Agile Values and Principles
 - Software Development
 - Agile Philosophy
 - Organisational Agility
+ResourceId: _5daB0lJpdc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: _5daB0lJpdc
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
+duration: 372
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:06:46Z
-concepts: []
 
 ---
 In the world of Agile, one ghost that haunts us is dogma. If you've been in Agile long enough, you've probably encountered those dogmatic individuals who cling to a rigid set of beliefs, refusing to adapt or consider the actual data, feedback, or experiences of the people around them. These folks? They need to be shown the door 🚪. Agile is about flexibility, adaptation, and collaboration—dogma has no place here.

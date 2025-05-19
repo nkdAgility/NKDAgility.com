@@ -3,13 +3,6 @@ title: 'Transforming Technical Debt: Unlocking Opportunities for Innovation and 
 description: Explores how addressing technical debt boosts innovation, team morale, and value delivery by enabling agile development, better products, and proactive organisational growth.
 date: 2024-11-20T16:53:31Z
 weight: 640
-ResourceId: 1M2_AVqoRbs
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 1M2_AVqoRbs
-url: /resources/videos/:slug
 slug: transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
 aliases:
 - /resources/1M2_AVqoRbs
@@ -21,11 +14,21 @@ aliasesArchive:
 - /resources/videos/technical-debt-costs-you-more-than-you-think
 - /resources/technical-debt-costs-you-more-than-you-think
 - transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
+concepts: []
+categories:
+- Product Development
+tags:
+- Software Development
+ResourceId: 1M2_AVqoRbs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 1M2_AVqoRbs
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/1M2_AVqoRbs/maxresdefault.jpg
 duration: 36
 isShort: true
-tags:
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,11 +36,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T12:57:13Z
-concepts: []
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.

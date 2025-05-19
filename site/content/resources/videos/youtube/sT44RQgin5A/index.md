@@ -3,19 +3,7 @@ title: 'Evidence-Based Management: The Four Key Value Areas in Scrum'
 description: Explains Scrum’s four key value areas—current value, unrealised value, ability to innovate, and time to market—for data-driven product and organisational improvement.
 date: 2024-09-13T07:00:34Z
 weight: 315
-ResourceId: sT44RQgin5A
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: sT44RQgin5A
-source: internal
-url: /resources/videos/:slug
 slug: evidence-based-management-the-four-key-value-areas-in-scrum
-layout: video
-preview: https://i.ytimg.com/vi/sT44RQgin5A/maxresdefault.jpg
-duration: 1652
-isShort: false
 aliases:
 - /resources/sT44RQgin5A
 - /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
@@ -26,9 +14,12 @@ aliasesArchive:
 - /resources/videos/the-four-key-value-areas-of-ebm
 - /resources/the-four-key-value-areas-of-ebm
 - evidence-based-management-the-four-key-value-areas-in-scrum
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Strategy
+categories:
+- Product Management
+- Engineering Excellence
+- Scrum
 tags:
 - Evidence Based Leadership
 - Value Delivery
@@ -45,16 +36,25 @@ tags:
 - Current Value
 - Time to Market
 - Unrealised Value
+ResourceId: sT44RQgin5A
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: sT44RQgin5A
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/sT44RQgin5A/maxresdefault.jpg
+duration: 1652
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Management
-- Engineering Excellence
-- Scrum
 Watermarks:
   description: 2025-05-07T12:58:29Z
-concepts:
-- Strategy
 
 ---
 When we talk about _evidence-based management_ in [Scrum]({{< ref "/categories/scrum" >}}), we're focusing on making decisions grounded in data rather than gut feeling. A core element of this approach involves evaluating our work through four **key value areas**. These areas ensure a holistic view, covering different aspects of the system instead of focusing narrowly on specific metrics. This allows for a more strategic understanding and avoids suboptimal optimizations.

@@ -1,34 +1,34 @@
 ---
 title: 'Scrum Tapas: Scrum and Continuous Delivery'
 description: Explains how Scrum and Continuous Delivery work together, highlighting their complementary roles in agile software development and practical integration tips.
-ResourceId: LoRDIqNuwD-
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11946
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2017-06-28
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: scrum-tapas-scrum-continuous-delivery
 aliases:
 - /resources/LoRDIqNuwD-
+ResourceId: LoRDIqNuwD-
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11946
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/scrum-tapas-scrum-continuous-delivery
 - /scrum-tapas-scrum-continuous-delivery
 - /scrum-tapas--scrum-and-continuous-delivery
 - /blog/scrum-tapas--scrum-and-continuous-delivery
 - /resources/blog/scrum-tapas-scrum-continuous-delivery
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:33Z
-concepts: []
 
 ---
 I get asked a lot at conferences and at customers how [Scrum]({{< ref "/categories/scrum" >}}) and [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) can work together. The reality is that they complement each other and at the last Scrum.org F2F I sat down to make a little video on the way I think that it works.

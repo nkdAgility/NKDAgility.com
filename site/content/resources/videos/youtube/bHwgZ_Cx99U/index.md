@@ -3,15 +3,7 @@ title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectiv
 description: Adding more teams doesn’t guarantee faster delivery; effective scaling requires reducing dependencies, aligning goals, and minimising coordination overhead for real results.
 date: 2025-02-21T07:59:43Z
 weight: 415
-ResourceId: bHwgZ_Cx99U
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: bHwgZ_Cx99U
-url: /resources/videos/:slug
 slug: why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
-layout: video
 aliases:
 - /resources/bHwgZ_Cx99U
 - /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
@@ -25,25 +17,33 @@ aliasesArchive:
 - /resources/videos/scaling-teams-without-losing-speed-or-quality
 - why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
 - /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
-preview: https://i.ytimg.com/vi/bHwgZ_Cx99U/maxresdefault.jpg
-duration: 76
-isShort: false
+concepts: []
+categories:
+- Product Development
 tags:
 - Scaling
 - Organisational Agility
 - Team Collaboration
 - Value Delivery
+ResourceId: bHwgZ_Cx99U
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: bHwgZ_Cx99U
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/bHwgZ_Cx99U/maxresdefault.jpg
+duration: 76
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T12:49:32Z
-concepts: []
 
 ---
 In my experience, the common belief that "more teams mean faster delivery" is a fallacy that many organisations fall prey to. I’ve witnessed it time and again: a company decides to scale up, thinking that by simply adding more developers and teams, they’ll accelerate their release cycles. However, what often happens is the exact opposite. Instead of speeding up, everything grinds to a halt.

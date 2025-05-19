@@ -3,15 +3,7 @@ title: "Embracing Process Improvement: How Understanding Scrum Transformed a Dev
 description: Explores how learning Scrum and process improvement can shift developer mindsets, boost collaboration, and enhance software delivery in Agile teams.
 date: 2017-07-27T19:14:11Z
 weight: 1000
-ResourceId: F8a6gtXxLe0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: F8a6gtXxLe0
-url: /resources/videos/:slug
 slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
-layout: video
 aliases:
 - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
 - /resources/F8a6gtXxLe0
@@ -21,22 +13,30 @@ aliasesArchive:
 - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
 - embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
 - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
+concepts: []
+categories:
+- Product Development
+- Scrum
+tags: []
+ResourceId: F8a6gtXxLe0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: F8a6gtXxLe0
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
 duration: 101
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:16:31Z
-concepts: []
 
 ---
 As I reflect on my journey in the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I can't help but think about the transformative power of understanding the processes that underpin our work. Recently, I had the pleasure of speaking with Dave Fresh, a developer at Health Grades, who shared his initial resistance to a Scrum course. His story resonated with me, as it highlights a common misconception many professionals have about stepping away from their daily tasks to focus on process improvement.

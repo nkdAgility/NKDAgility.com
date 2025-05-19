@@ -3,19 +3,7 @@ title: What Does the Assessment Phase of a Consulting Engagement Look and Feel L
 description: Explains the assessment phase in consulting, highlighting continuous learning, agile adaptation, and the value of hands-on engagement over rigid upfront analysis.
 date: 2023-06-19T10:00:25Z
 weight: 790
-ResourceId: GmLW6wNcI6k
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: GmLW6wNcI6k
-source: internal
-url: /resources/videos/:slug
 slug: what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
-layout: video
-preview: https://i.ytimg.com/vi/GmLW6wNcI6k/maxresdefault.jpg
-duration: 275
-isShort: false
 aliases:
 - /resources/GmLW6wNcI6k
 - /resources/videos/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
@@ -28,18 +16,30 @@ aliasesArchive:
 - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 - /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
 - what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Pragmatic Thinking
+ResourceId: GmLW6wNcI6k
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: GmLW6wNcI6k
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/GmLW6wNcI6k/maxresdefault.jpg
+duration: 275
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Pragmatic Thinking
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:30Z
-concepts: []
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

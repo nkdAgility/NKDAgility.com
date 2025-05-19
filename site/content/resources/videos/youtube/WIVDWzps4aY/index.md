@@ -3,15 +3,7 @@ title: 'Mastering Product Ownership: Unlocking the Secrets to Effective Product 
 description: Explores the vital role of product ownership in agile teams, highlighting key skills, challenges, and strategies for effective product management and team success.
 date: 2023-09-05T07:00:12Z
 weight: 1000
-ResourceId: WIVDWzps4aY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: WIVDWzps4aY
-url: /resources/videos/:slug
 slug: mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
-layout: video
 aliases:
 - /resources/WIVDWzps4aY
 - /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
@@ -23,23 +15,31 @@ aliasesArchive:
 - /resources/favourite-scrum-course-to-teach-and-why-
 - /resources/videos/favourite-scrum-course-to-teach-and-why
 - mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
-preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
-duration: 24
-isShort: true
+concepts: []
+categories:
+- Product Development
 tags:
 - Agile Product Management
 - Product Owner
+ResourceId: WIVDWzps4aY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: WIVDWzps4aY
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
+duration: 24
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:09:41Z
-concepts: []
 
 ---
 One of my favourite classes to teach is the [Product Owner]({{< ref "/tags/product-owner" >}}) class. It used to be known as the APS class, but I felt a change was necessary. The reason for this shift is simple: I’ve observed that the most significant gap in organisations and teams today is effective [product management]({{< ref "/categories/product-management" >}}). 

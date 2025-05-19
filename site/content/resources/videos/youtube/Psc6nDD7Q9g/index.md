@@ -3,19 +3,7 @@ title: Maximizing Transparency and Improvement in Software Engineering with Kanb
 description: Learn how Kanban boosts transparency in software engineering, helping teams visualise workflows, identify bottlenecks, and drive continuous improvement and delivery.
 date: 2024-07-29T06:45:02Z
 weight: 450
-ResourceId: Psc6nDD7Q9g
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Psc6nDD7Q9g
-source: internal
-url: /resources/videos/:slug
 slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
-layout: video
-preview: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg
-duration: 57
-isShort: true
 aliases:
 - /resources/Psc6nDD7Q9g
 - /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
@@ -27,9 +15,12 @@ aliasesArchive:
 - /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 - /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 - maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Practice
+categories:
+- Kanban
+- Lean
+- Product Development
 tags:
 - Operational Practices
 - Software Development
@@ -40,16 +31,25 @@ tags:
 - Throughput
 - Organisational Agility
 - Transparency
+ResourceId: Psc6nDD7Q9g
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Psc6nDD7Q9g
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg
+duration: 57
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Kanban
-- Lean
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:27Z
-concepts:
-- Practice
 
 ---
 In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) is **[Kanban]({{< ref "/categories/kanban" >}})**.

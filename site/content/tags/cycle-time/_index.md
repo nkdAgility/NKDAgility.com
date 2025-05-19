@@ -1,9 +1,9 @@
 ---
 title: Cycle Time
-abstract: Cycle time is a key performance metric that measures the total duration required to complete a unit of work, from initiation to delivery. It is widely used in agile and DevOps methodologies to enhance team efficiency and predictability in value delivery. By monitoring cycle time, organisations can pinpoint bottlenecks, streamline processes, and optimise workflows, which leads to quicker product and service delivery. Understanding cycle time empowers teams to make data-driven decisions, fostering a culture of continuous improvement and enabling better forecasting and planning based on historical data. This predictability is crucial for aligning stakeholder expectations and meeting customer needs promptly. Furthermore, cycle time promotes a holistic view of value delivery, encouraging teams to consider the entire workflow rather than focusing on individual tasks. By minimising cycle time, organisations can improve their responsiveness to market dynamics and customer feedback, thereby gaining a competitive edge. In an era where rapid and sustainable value delivery is essential, the emphasis on cycle time is vital for organisational success.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Cycle time is a key performance metric that measures the total duration required to complete a unit of work, from initiation to delivery. It is widely used in agile and DevOps methodologies to enhance team efficiency and predictability in value delivery. By monitoring cycle time, organisations can pinpoint bottlenecks, streamline processes, and optimise workflows, which leads to quicker product and service delivery. Understanding cycle time empowers teams to make data-driven decisions, fostering a culture of continuous improvement and enabling better forecasting and planning based on historical data. This predictability is crucial for aligning stakeholder expectations and meeting customer needs promptly. Furthermore, cycle time promotes a holistic view of value delivery, encouraging teams to consider the entire workflow rather than focusing on individual tasks. By minimising cycle time, organisations can improve their responsiveness to market dynamics and customer feedback, thereby gaining a competitive edge. In an era where rapid and sustainable value delivery is essential, the emphasis on cycle time is vital for organisational success.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 240
 description: Tracking the time taken to complete a unit of work from start to finish.
@@ -34,6 +34,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:06:33
+icon: fa-circle-notch
 concepts:
 - Practice
 categories:
@@ -55,7 +56,6 @@ tags:
 - Product Delivery
 - Software Development
 - Pragmatic Thinking
-icon: fa-circle-notch
 
 ---
 Cycle time is the measure of the total time taken to complete a unit of work, from the moment it is initiated until it is delivered. This metric is crucial for teams aiming to enhance their efficiency and predictability in delivering value. By tracking cycle time, organisations can identify bottlenecks, streamline processes, and optimise workflows, ultimately leading to faster delivery of products and services.

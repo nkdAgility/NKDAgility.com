@@ -3,19 +3,7 @@ title: Is a PSM II certification validation of your skills, or does it develop y
 description: Explains how the PSM II course focuses on developing advanced Scrum Master skills, facilitation techniques, and accountability, rather than just validating knowledge.
 date: 2023-04-17T07:00:17Z
 weight: 665
-ResourceId: vI_qQ7-1z2E
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: vI_qQ7-1z2E
-source: internal
-url: /resources/videos/:slug
 slug: is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
-layout: video
-preview: https://i.ytimg.com/vi/vI_qQ7-1z2E/maxresdefault.jpg
-duration: 330
-isShort: false
 aliases:
 - /resources/vI_qQ7-1z2E
 - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
@@ -28,9 +16,9 @@ aliasesArchive:
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
 - is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Scrum
 tags:
 - Scrum Master
 - Competence
@@ -38,13 +26,25 @@ tags:
 - Continuous Learning
 - Professional Scrum
 - Pragmatic Thinking
+ResourceId: vI_qQ7-1z2E
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: vI_qQ7-1z2E
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/vI_qQ7-1z2E/maxresdefault.jpg
+duration: 330
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
 Watermarks:
   description: 2025-05-07T13:13:13Z
-concepts: []
 
 ---
 ## Beyond Certification: A Deeper Dive Into the PSM II Course

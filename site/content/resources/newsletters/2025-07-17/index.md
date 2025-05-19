@@ -1,17 +1,21 @@
 ---
 title: Break organisational silos and stop tolerating bad branching models
 description: Explains how technical leaders can break down organisational silos and enforce better branching, team structures, and architecture to improve software delivery flow.
-ResourceId: AORP41zLNTi
-ResourceImport: false
 date: 2025-07-17
 weight: 55
-author: MrHinsh
+ResourceId: AORP41zLNTi
+ResourceImport: false
 ResourceType: newsletters
+author: MrHinsh
 ResourceContentOrigin: human
 resourceTypes: newsletter
 layout: newsletter
+Watermarks:
+  description: 2025-05-07T12:48:55Z
 aliases:
 - /resources/AORP41zLNTi
+concepts:
+- Accountability
 categories:
 - Technical Leadership
 - Leadership
@@ -32,10 +36,6 @@ tags:
 - Sociotechnical Systems
 - Team Performance
 - Value Delivery
-Watermarks:
-  description: 2025-05-07T12:48:55Z
-concepts:
-- Accountability
 
 ---
 Modern software organisations don’t fail because of weak teams; they fail because leadership tolerates bad system design — in code, in team structure, and in delivery practice.

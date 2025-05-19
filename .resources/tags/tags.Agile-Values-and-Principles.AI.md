@@ -1,10 +1,11 @@
 ---
 title: Agile Values and Principles
-abstract: Agile Values and Principles are fundamental guidelines that underpin effective Agile practices, serving as a framework for teams to consistently and sustainably deliver value. Originating from the Agile Manifesto, these values prioritise human interactions and collaboration over rigid processes and tools, fostering an environment where customer feedback and adaptability are central. Their importance lies in their ability to enable organisations to respond swiftly to change, ensuring that products remain relevant and aligned with customer needs. By promoting a culture of continuous improvement, Agile encourages teams to regularly assess their processes and outcomes, which enhances efficiency and drives innovation. This systemic approach builds organisational resilience, equipping teams to navigate the complexities and uncertainties of modern product development. By embedding these values into the organisational culture, teams gain the autonomy to self-organise and make informed decisions, maintaining a focus on high-quality outcomes. Ultimately, embracing Agile Values and Principles transcends a mere tactical adjustment; it acts as a strategic enabler that transforms operational dynamics, fostering a mindset oriented towards long-term success and value creation, thereby driving meaningful change and sustainable growth across the organisation.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Agile Values and Principles are fundamental guidelines that underpin effective Agile practices, serving as a framework for teams to consistently and sustainably deliver value. Originating from the Agile Manifesto, these values prioritise human interactions and collaboration over rigid processes and tools, fostering an environment where customer feedback and adaptability are central. Their importance lies in their ability to enable organisations to respond swiftly to change, ensuring that products remain relevant and aligned with customer needs. By promoting a culture of continuous improvement, Agile encourages teams to regularly assess their processes and outcomes, which enhances efficiency and drives innovation. This systemic approach builds organisational resilience, equipping teams to navigate the complexities and uncertainties of modern product development. By embedding these values into the organisational culture, teams gain the autonomy to self-organise and make informed decisions, maintaining a focus on high-quality outcomes. Ultimately, embracing Agile Values and Principles transcends a mere tactical adjustment; it acts as a strategic enabler that transforms operational dynamics, fostering a mindset oriented towards long-term success and value creation, thereby driving meaningful change and sustainable growth across the organisation.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
+weight: 360
 description: Understand and apply Agile Values and Principles based on first principles. Build a foundation for true agility and continuous value delivery
 Instructions: |-
   **Use this category only for discussions on Agile Values and Principles.**  
@@ -34,8 +35,25 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:32:01
+icon: fa-scroll
 concepts:
-- Value
+- Capability
+categories:
+- Product Development
+- Technical Leadership
+tags:
+- Agile Philosophy
+- Agile Strategy
+- Organisational Agility
+- Agile Transformation
+- Social Technologies
+- Software Development
+- Continuous Improvement
+- Organisational Culture
+- Value Delivery
+- Organisational Change
+- Business Agility
+- Sociotechnical Systems
 
 ---
 Agile Values and Principles form the cornerstone of effective Agile practices, guiding teams in their pursuit of delivering value consistently and sustainably. These values prioritise individuals and interactions over processes and tools, emphasising collaboration, customer feedback, and adaptability. By adhering to these principles, organisations foster an environment where teams can respond to change swiftly, ensuring that the products developed are not only relevant but also aligned with customer needs.

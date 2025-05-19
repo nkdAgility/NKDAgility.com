@@ -3,37 +3,37 @@ title: 'Unlocking Human Potential: How Health and Perspective Fuel Innovation in
 description: Explores how health, mindset, and diverse perspectives drive innovation and effective leadership in tech, highlighting the link between well-being and creative problem-solving.
 date: 2017-07-28T12:40:03Z
 weight: 1000
+slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+aliases:
+- /resources/DWL0PLkFazs
 ResourceId: DWL0PLkFazs
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: DWL0PLkFazs
 url: /resources/videos/:slug
-slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
 layout: video
-aliases:
-- /resources/DWL0PLkFazs
 aliasesArchive:
 - /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
 - /resources/why-did-healthgrades-choose-martin-hinshelwood
 - /resources/videos/unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
 - unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:16:29Z
-concepts: []
 
 ---
 As I reflect on my journey in the tech industry, I often find myself inspired by the stories and experiences of others. Recently, I had the pleasure of listening to Kathryn Maddox, a remarkable individual who embodies the essence of health and vitality. Her insights resonated deeply with me, particularly her perspective on the intersection of technology and human potential.

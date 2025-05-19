@@ -3,15 +3,7 @@ title: 'Combatting Famine in Agile: How to Foster Stakeholder Engagement and Boo
 description: Explores how lack of stakeholder feedback in Agile harms team morale and alignment, and offers practical ways to boost engagement and maintain effective collaboration.
 date: 2023-10-31T07:00:18Z
 weight: 665
-ResourceId: k4F9DSE99Ok
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: k4F9DSE99Ok
-url: /resources/videos/:slug
 slug: combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
-layout: video
 aliases:
 - /resources/k4F9DSE99Ok
 - /resources/videos/combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
@@ -23,24 +15,32 @@ aliasesArchive:
 - /resources/famine!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/famine-7-harbingers-agile-apocalypse-but-shorter
 - combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale-k4F9DSE99Ok
-preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
-duration: 49
-isShort: true
+concepts: []
+categories:
+- Product Development
 tags:
 - Agile Product Management
 - Software Development
 - Agile Frameworks
+ResourceId: k4F9DSE99Ok
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: k4F9DSE99Ok
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
+duration: 49
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:08:12Z
-concepts: []
 
 ---
 In the world of Agile, we often talk about the signs of an impending apocalypse, and one of the most critical indicators is famine. Now, before you picture a dystopian future, let’s unpack what this means in the context of [Scrum]({{< ref "/categories/scrum" >}}) and Agile practices.

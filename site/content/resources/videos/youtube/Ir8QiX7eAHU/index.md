@@ -3,19 +3,7 @@ title: 'The Key to a Kanban Strategy: Understanding WIP Limits'
 description: Explains how setting and adjusting Work-In-Progress (WIP) limits in Kanban helps teams manage workflow, prevent bottlenecks, and improve productivity and collaboration.
 date: 2024-03-06T07:00:17Z
 weight: 1000
-ResourceId: Ir8QiX7eAHU
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Ir8QiX7eAHU
-source: internal
-url: /resources/videos/:slug
 slug: the-key-to-a-kanban-strategy-understanding-wip-limits
-layout: video
-preview: https://i.ytimg.com/vi/Ir8QiX7eAHU/maxresdefault.jpg
-duration: 464
-isShort: false
 aliases:
 - /resources/Ir8QiX7eAHU
 - /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
@@ -27,23 +15,35 @@ aliasesArchive:
 - /resources/wip-limits!-what-critical-factors-affect-them-
 - /resources/videos/wip-limits-what-critical-factors-affect-them
 - the-key-to-a-kanban-strategy-understanding-wip-limits
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Practice
+categories:
+- Kanban
 tags:
 - Flow Efficiency
 - Software Development
 - Operational Practices
 - Throughput
 - Agile Frameworks
+ResourceId: Ir8QiX7eAHU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Ir8QiX7eAHU
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Ir8QiX7eAHU/maxresdefault.jpg
+duration: 464
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Kanban
 Watermarks:
   description: 2025-05-07T13:05:27Z
-concepts:
-- Practice
 
 ---
 One of the most critical components of a successful **[Kanban]({{< ref "/categories/kanban" >}}) strategy** is setting **Work-In-Progress (WIP) limits**. Without WIP limits, you simply do not have a proper Kanban strategy. In this post, we'll explore the importance of WIP limits, how to determine the right limits for your team, and share some personal experiences and advice to help you optimize your workflow.

@@ -3,19 +3,7 @@ title: 'Temperance in Agile: Why Less is More'
 description: Explores how practising moderation in Agile—by keeping backlogs lean, limiting work in progress, and focusing on value—boosts team efficiency and reduces waste.
 date: 2023-12-05T07:00:10Z
 weight: 1000
-ResourceId: SMgKAk-qPMM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: SMgKAk-qPMM
-source: internal
-url: /resources/videos/:slug
 slug: temperance-in-agile-why-less-is-more
-layout: video
-preview: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
-duration: 154
-isShort: false
 aliases:
 - /resources/SMgKAk-qPMM
 - /resources/videos/temperance-in-agile-why-less-is-more
@@ -26,9 +14,10 @@ aliasesArchive:
 - /resources/videos/7-virtues-of-agile-temperance
 - /resources/7-virtues-of-agile-temperance
 - temperance-in-agile-why-less-is-more
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Practice
+categories:
+- Product Development
 tags:
 - Operational Practices
 - Software Development
@@ -40,14 +29,25 @@ tags:
 - Value Delivery
 - Product Delivery
 - Agile Values and Principles
+ResourceId: SMgKAk-qPMM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: SMgKAk-qPMM
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
+duration: 154
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:07:16Z
-concepts:
-- Practice
 
 ---
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.

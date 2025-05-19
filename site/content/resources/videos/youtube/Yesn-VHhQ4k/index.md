@@ -3,19 +3,7 @@ title: Why does Agile focus on values and principles rather than a prescribed se
 description: Agile emphasises values and principles to guide teams through complex, uncertain work, enabling adaptation and improvement where fixed steps cannot guarantee success.
 date: 2023-01-23T07:00:14Z
 weight: 540
-ResourceId: Yesn-VHhQ4k
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Yesn-VHhQ4k
-source: internal
-url: /resources/videos/:slug
 slug: why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
-layout: video
-preview: https://i.ytimg.com/vi/Yesn-VHhQ4k/maxresdefault.jpg
-duration: 386
-isShort: false
 aliases:
 - /resources/Yesn-VHhQ4k
 - /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
@@ -25,9 +13,9 @@ aliasesArchive:
 - /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 - /resources/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 - why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
 tags:
 - Agile Philosophy
 - Software Development
@@ -35,13 +23,25 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Pragmatic Thinking
+ResourceId: Yesn-VHhQ4k
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Yesn-VHhQ4k
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Yesn-VHhQ4k/maxresdefault.jpg
+duration: 386
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:14:28Z
-concepts: []
 
 ---
 Agile exists to address the idea that no predetermined set of steps will lead to a predefined outcome. The problem has never been solved, nor has the solution ever been created, so you don’t know what you don’t know. No formula is going to guarantee a desired outcome.

@@ -2436,5 +2436,24 @@
     "reasoning": "The content primarily discusses the harms of fragmented automation and the benefits of unified engineering systems, focusing on platform engineering, DevOps, and internal developer experience. While it references 'flow', 'feedback', and 'removing friction between commit and customer', these are framed in terms of engineering efficiency and developer enablement, not direct customer value. There is little explicit mention of defining, measuring, or prioritising work based on customer outcomes, nor is there substantive discussion of customer feedback loops, telemetry for customer impact, or aligning delivery to customer satisfaction. The main audience is technical practitioners, and the focus is on internal systems and processes. Thus, while there is some conceptual overlap (e.g., enabling flow to the customer), the content does not deeply or explicitly address Customer Focus as defined.",
     "reasoning_summary": "This content centres on engineering system unification and platform engineering, with only indirect references to customer value. It lacks explicit discussion of customer outcomes, feedback, or value measurement, so it only weakly fits the Customer Focus category.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "zLhc3UKUWOj",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:47:53",
+    "ai_confidence": 36.85,
+    "ai_mentions": 1.2,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.3,
+    "ai_intent": 4.5,
+    "ai_audience": 7.1,
+    "ai_signal": 6.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content focuses on the problems of fragmented automation and advocates for unified engineering systems and platform engineering. While it discusses flow, system boundaries, and the importance of clarity and consistency, it does not explicitly reference the Definition of Workflow as articulated in Kanban or agile contexts. There are no direct mentions of entry/exit criteria, WIP limits, or explicit workflow policies. The main themes are conceptually adjacent (flow, boundaries, clarity), but the content is more about platform engineering and DevOps system design than about the Definition of Workflow as a dynamic, explicit set of agreements. The audience is technical and relevant, and the signal is high, but the fit to the category is partial and indirect.",
+    "reasoning_summary": "This content addresses flow, system boundaries, and clarity in DevOps, but doesn't explicitly discuss the Definition of Workflow as defined in Kanban or agile. Its focus is on platform engineering and unified systems, making it only partially aligned with the category.",
+    "level": "Ignored"
   }
 }

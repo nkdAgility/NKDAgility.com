@@ -3,16 +3,7 @@ title: 'Transforming Technical Debt: Unlocking Innovation and Value Through Qual
 description: Explores how managing technical debt enables faster delivery, higher product quality, and greater innovation, highlighting strategies for continuous improvement and value.
 date: 2024-11-21T17:01:52Z
 weight: 280
-ResourceId: FFrTLuRhyVo
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: FFrTLuRhyVo
-source: youtube
-url: /resources/videos/:slug
 slug: transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
-layout: video
 aliases:
 - /resources/FFrTLuRhyVo
 - /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
@@ -24,22 +15,31 @@ aliasesArchive:
 - /resources/missed-opportunities,-the-hidden-cost-of-technical-debt
 - /resources/videos/missed-opportunities-the-hidden-cost-of-technical-debt
 - transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
+concepts:
+- Method
+categories:
+- Product Development
+tags:
+- Software Development
+ResourceId: FFrTLuRhyVo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: FFrTLuRhyVo
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/FFrTLuRhyVo/maxresdefault.jpg
 duration: 36
 isShort: true
-tags:
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T12:57:09Z
-concepts:
-- Method
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.

@@ -3,19 +3,7 @@ title: Why Is It So Important that Senior Leadership Teams are Engaged During an
 description: Active senior leadership engagement is essential for successful Agile transformation, enabling systemic change, faster adaptation, and organisation-wide alignment.
 date: 2023-06-23T07:00:11Z
 weight: 455
-ResourceId: ItnQxg3Q4Fc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: ItnQxg3Q4Fc
-source: internal
-url: /resources/videos/:slug
 slug: why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-layout: video
-preview: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg
-duration: 285
-isShort: false
 aliases:
 - /resources/ItnQxg3Q4Fc
 - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
@@ -28,9 +16,10 @@ aliasesArchive:
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
 - why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Leadership
+- Product Development
 tags:
 - Organisational Agility
 - Organisational Change
@@ -41,14 +30,25 @@ tags:
 - Change Management
 - Agile Strategy
 - Business Agility
+ResourceId: ItnQxg3Q4Fc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: ItnQxg3Q4Fc
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg
+duration: 285
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Leadership
-- Product Development
 Watermarks:
   description: 2025-05-07T13:11:20Z
-concepts: []
 
 ---
 ## Why Senior [Leadership]({{< ref "/categories/leadership" >}}) is Non-Negotiable in an Agile Consulting Journey

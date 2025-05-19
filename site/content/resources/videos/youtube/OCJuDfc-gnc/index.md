@@ -3,38 +3,38 @@ title: 'Scaling Agility: Navigating the Dragons of Change in the Future of Work'
 description: Explores practical strategies for scaling agile practices, key metrics, virtual training adaptations, and global insights to navigate change in the evolving future of work.
 date: 2020-03-25T16:17:15Z
 weight: 1000
+slug: scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
+aliases:
+- /resources/OCJuDfc-gnc
 ResourceId: OCJuDfc-gnc
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: OCJuDfc-gnc
 url: /resources/videos/:slug
-slug: scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 layout: video
-aliases:
-- /resources/OCJuDfc-gnc
 aliasesArchive:
 - /resources/videos/th-march-office-hours-ask-me-anything
 - /resources/videos/25th-march-2020-office-hours-ask-me-anything
 - /resources/25th-march-2020-office-hours-ask-me-anything
 - /resources/videos/scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 - scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:16:01Z
-concepts: []
 
 ---
 As I sit down to write this, I’m reminded of the ever-evolving landscape of work and how we, as agile practitioners, must adapt to the changes around us. Tonight, I’ll be hosting a meetup in collaboration with the British Computer Society, where I’ll delve into the intriguing topic of "[Scaling]({{< ref "/tags/scaling" >}}) Dragons." This isn’t just a whimsical title; it encapsulates the dual nature of scaling agility—what can propel us forward and what could potentially derail our efforts.

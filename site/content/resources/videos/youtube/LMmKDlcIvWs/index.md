@@ -3,19 +3,7 @@ title: What is Kanban?
 description: Explains Kanban as a flexible strategy for visualising, analysing, and improving workflows, enabling continuous improvement and efficiency across any team or process.
 date: 2024-02-12T07:00:11Z
 weight: 1000
-ResourceId: LMmKDlcIvWs
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: LMmKDlcIvWs
-source: internal
-url: /resources/videos/:slug
 slug: what-is-kanban
-layout: video
-preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
-duration: 553
-isShort: false
 aliases:
 - /resources/LMmKDlcIvWs
 - /resources/videos/what-is-kanban
@@ -25,21 +13,33 @@ aliasesArchive:
 - /resources/videos/what-is-kanban-
 - /resources/what-is-kanban-
 - what-is-kanban
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Framework
+categories:
+- Product Development
 tags:
 - Continuous Improvement
 - Operational Practices
 - Lean Principles
+ResourceId: LMmKDlcIvWs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: LMmKDlcIvWs
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
+duration: 553
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:53Z
-concepts:
-- Framework
 
 ---
 ### Demystifying [Kanban]({{< ref "/categories/kanban" >}}): A Strategy for [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})

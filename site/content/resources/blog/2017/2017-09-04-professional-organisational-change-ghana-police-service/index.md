@@ -1,27 +1,32 @@
 ---
 title: Professional Organisational Change at the Ghana Police Service
 description: Explores the Ghana Police Service’s shift to a modern, professional model using servant leadership, agile frameworks, and strategic change to restore public trust and effectiveness.
-ResourceId: yv8bhGf1MfF
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 12011
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2017-09-04
 weight: 480
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: professional-organisational-change-ghana-police-service
 aliases:
 - /resources/yv8bhGf1MfF
+ResourceId: yv8bhGf1MfF
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 12011
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/professional-organisational-change-ghana-police-service
 - /professional-organisational-change-ghana-police-service
 - /professional-organisational-change-at-the-ghana-police-service
 - /blog/professional-organisational-change-at-the-ghana-police-service
 - /resources/blog/professional-organisational-change-ghana-police-service
+concepts:
+- Framework
+categories:
+- Leadership
+- Scrum
 tags:
 - Agile Leadership
 - Change Management
@@ -33,14 +38,9 @@ tags:
 - Digital Transformation
 - Organisational Culture
 - Organisational Physics
-categories:
-- Leadership
-- Scrum
 preview: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
 Watermarks:
   description: 2025-05-07T13:16:28Z
-concepts:
-- Framework
 
 ---
 The [Ghana Police Service](http://police.gov.gh/) is in trouble. Over the last few last few decades each new Police organisation and government has tried in various ways to carry out some change but most changes have been ad-hoc, temporary, not robust enough or strategic. The old problems return to haunt new administrations and many police officers and the Public have lost hope.
