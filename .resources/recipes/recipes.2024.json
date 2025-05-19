@@ -1,102 +1,6 @@
 [
   {
     "FrontMatter": {
-      "title": "Sprint Review Recipe",
-      "description": "Step-by-step guide for running a Sprint Review, including presenting the increment, gathering feedback, updating the backlog, forecasting, and addressing stakeholder questions.",
-      "date": "2024-09-17",
-      "weight": 750.0,
-      "ResourceId": "K4kkSAG3R7m",
-      "ResourceImport": false,
-      "ResourceType": "recipes",
-      "ResourceContentOrigin": "Human",
-      "resourceTypes": "recipe",
-      "layout": "recipe",
-      "image": "/images/naked-Agility-Scrum-Framework-Sprint-Review.jpg",
-      "creator": "Martin Hinshelwood",
-      "recommendedContent": [
-        {
-          "collection": "guides",
-          "path": "_guides/manifesto-for-agile-software-development.md"
-        },
-        {
-          "collection": "guides",
-          "path": "_guides/scrum-guide.md"
-        },
-        {
-          "collection": "practices",
-          "path": "_practices/service-level-expectation-sle.md"
-        },
-        {
-          "collection": "technologies",
-          "path": "_technologies/liberating-structures/shift-share.md"
-        },
-        {
-          "collection": "technologies",
-          "path": "_technologies/liberating-structures/what-so-what-now-what.md"
-        },
-        {
-          "collection": "workshops",
-          "path": "_workshops/sprint-review-1.md"
-        }
-      ],
-      "videos": [
-        {
-          "title": "Overview of The Scrum Framework",
-          "embed": "https://www.youtube.com/embed/Q2Fo3sM6BVo"
-        },
-        {
-          "title": "Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]",
-          "embed": "https://www.youtube.com/embed/1-W64WdSbF4"
-        }
-      ],
-      "card": {
-        "button": {
-          "content": "Learn More"
-        },
-        "content": "Discover more about Sprint Review Recipe and how it can help you in your Agile journey!",
-        "title": "Sprint Review Recipe"
-      },
-      "Watermarks": {
-        "description": "2025-05-07T12:57:45Z"
-      },
-      "aliases": [
-        "/learn/agile-delivery-kit/recipes/sprint-review-recipe/",
-        "/resources/K4kkSAG3R7m"
-      ],
-      "aliasesArchive": [
-        "/learn/agile-delivery-kit/recipes/sprint-review-recipe/"
-      ],
-      "concepts": [
-        "Method"
-      ],
-      "categories": [
-        "Scrum",
-        "Product Development",
-        "Product Management"
-      ],
-      "tags": [
-        "Sprint Review",
-        "Software Development",
-        "Pragmatic Thinking",
-        "Professional Scrum",
-        "Agile Planning",
-        "Agile Product Management",
-        "Product Owner",
-        "Product Delivery",
-        "Empirical Process Control",
-        "Value Delivery",
-        "Working Software",
-        "Agile Frameworks",
-        "Forecasting",
-        "Team Performance"
-      ]
-    },
-    "BodyContent": "When designing a flow for an event, it is hugely important to be clear on the purpose. For the [Sprint Review]({{< ref \"/tags/sprint-review\" >}}), the purpose is to inspect the [increment]({{< ref \"/tags/increment\" >}}) that was created during the Sprint as well as to adapt the [Product Backlog]({{< ref \"/tags/product-backlog\" >}}) based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.\n\n_This recipe is an example and starting point with a number of different facilitation examples provided. Please inherit from it and make it your own. If you have a great idea please submit a new recipe_\n\n![Scrum Framework Sprint Review](./../assets/images/naked-agility-scrum-framework-sprint-review.jpg)\n\n## Flow Steps\n\nThis workshop leverages a simple flow and consists of the following:\n\nThe [Product Owner]({{< ref \"/tags/product-owner\" >}}) presents the vision and goals, followed by a summary of what happened, and a review of the product increment. Update the product backlog and discuss likely release dates and budgeting.\n\nAlthough [Scrum]({{< ref \"/categories/scrum\" >}}) Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role.\n\n### Part 1: Product Owner Presents Product Vision and Goal [5 mins]\n\nThe purpose here is for the Product Owner to set the tone and direction. Let's be 100% clear to stakeholders, ourselves, and the customer that they are in control of what we build and if they get value or not.\n\n### Part 2: Sprint Summery - What was done, and was not [5 mins]\n\nThere will always be Backlog Items that we were unable to complete during a Sprint. This is OK and just needs to be presented as here are the things that we did, and here are the things we did not get to. Did we meet the Sprint Goal?\n\n![Cycle Time Scatter Plot](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)\n\nReview both the **[Cycle Time]({{< ref \"/tags/cycle-time\" >}}) Scatter Plot** and the **[Throughput]({{< ref \"/tags/throughput\" >}}) Run Chart** to understand what happened during this Sprint.\n\n### Part 3: Sprint Demo - Show what was created [~15 mins]\n\nDepending on the scale there are many ways to facilitate this. The more engaging the better. If you have a lot of stakeholder participation then more advanced techniques involving [liberating structures](../_technologies/liberating-structures.md) encourage the most engagement.\n\n#### Facilitation Options\n\n- Just Present your Features [15 mins]\n- Provide short videos of the features before the event. [0 min]\n- [Shift & Share](../_technologies/liberating-structures/shift-share.md) [40 mins]\n\n### Part 4: Feedback - Gather feedback from Stakeholders [~30 min]\n\nThe main purpose of the Sprint Review is actionable feedback and updating the Product Backlog to reflect what's next, based on what just happened. Guide the feedback and facilitate the engagement of stakeholders. It is never good enough to just ask for feedback!\n\n#### Facilitation Options\n\n- [What, So What, Now What](../_technologies/liberating-structures/what-so-what-now-what.md) [30 min]\n- [Sprint Review 1](../_workshops/sprint-review-1.md) [240 Min]\n\n### Part 5: What's Next? - Likely Sprint Goal and Forecast [10 mins]\n\nShare what is the rough draft plan for the next Sprint. Share your teams [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) and what the options are for Sprint Goals.\n\n![Throughput Run Chart.png](./../assets/images/naked-agility-kanban-throughput-run-chart.jpg)\n\nYou can use a **Throughput Run Chart** to present predictions based on empirical data with your expected confidence levels.\\_\n\n### Part 6: Release Projections & Budgeting [10 mins]\n\nBased on our historical data and our [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) you should be able to answer any Stakeholder questions on \"When will I get feature A?\" or \"When will Feature B ship?\". Express all your predictions coupled with your confidence level of achieving it.\n\n![image.png](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)\n\nUse a **Monte Carlo How Many** or **Monte Carlo When**n to answer Stakeholder questions like \"What will I get by 23/01/2024?\" and \"When will item x be completed?\" As this is calculated using your team's historical data you will need to discuss the [Service Level Expectation](../_practices/service-level-expectation-sle.md) for the Team(s).\n\n### Part 7: Compliance Summery [10 mins]\n\nDo you have architectural reviews, technology overviews or legal compliance? Discuss them here.\n\n### Part 8: Any Other Business\n\nJust as it says!\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\recipes\\sprint-review-recipe\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\recipes\\sprint-review-recipe"
-  },
-  {
-    "FrontMatter": {
       "title": "Sprint Planning Recipe",
       "description": "Step-by-step guide to effective Sprint Planning in Scrum, covering goal setting, backlog selection, team capacity, actionable plans, and clear communication with stakeholders.",
       "date": "2024-09-17",
@@ -274,5 +178,101 @@
     "BodyContent": "The Daily [Scrum]({{< ref \"/categories/scrum\" >}}) is an essential event in the Scrum framework. It offers the\nDevelopers an opportunity to reflect on their progress, and plan for the next 24\nhours. But it's essential to approach it with the right mindset and intent.\n\n### Purpose of the [Daily Scrum]({{< ref \"/tags/daily-scrum\" >}})\n\nThe primary objective of the Daily Scrum is not merely to go through a checklist\nof questions. Instead, it's to actively manage ongoing work and strategize on\nhow best to achieve the Sprint Goal. This meeting is a platform for Developers\nto discuss their work, challenges, and any impediments they might be facing. By\ndoing so, they can effectively strategize on their next steps and ensure that\nthey are on the right track.\n\n### Beyond the Three Questions\n\nWhile the three standard questions—What did I do yesterday? What will I do\ntoday? Are there any impediments in my way?—provide a structure, they shouldn't\nbecome a monotonous routine. Developers should not feel compelled to answer\nthese questions robotically or feel the unnecessary pressure for everyone to\nspeak. The focus should be on meaningful conversation and collaboration.\n\n### Beyond the Three Questions\n\nRather than discussing every item, the team should concentrate on elements in\nthe Sprint Backlog that require intervention or are at risk. By honing in on\nthese areas, the team can proactively address potential challenges and ensure\nthey remain on course.\n\n### Emergent Practices\n\nIt's crucial to understand that there's no one-size-fits-all approach to the\nDaily Scrum. What works for one team might not necessarily work for another.\nPractices should emerge based on the team's unique needs, challenges, and\ndynamics. Over time, as the team evolves and matures, so will their practices.\n\n### Asking more interesting questions\n\nThe Daily Scrum is not just a routine check-in. It's an opportunity for the team\nto come together, collaborate, and strategise. By focusing on the right areas\nand fostering open communication, teams can remain aligned with the Sprint Goal\nand continue delivering value. Remember, the method in which the team conducts\nthe Daily Scrum can vary, and what's presented here is just one of many ways!\n\n![Scrum Framework Sprint\nReview](../../assets/images/naked-agility-scrum-framework-daily-scrum.jpg)\n\n## Overview of Flow for Daily Scrum\n\nThis recipe leverages a simple flow and consists of the following:\n\nThe Developers review their progress towards the Sprint Goal. They should\nactively manage the work that is in progress and maintain [transparency]({{< ref \"/tags/transparency\" >}}) of the\npresent as reflected in the Sprint Backlog.\n\n_The Developers should own this event and facilitate it, although Scrum Masters\nmay certainly facilitate as requested or as needed._\n\n### Why recipe?\n\nYou follow a recipe a few times to build muscle memory and understand the\nintended outcomes. Once learned one can tweak or change the recipe to adapt the\noutcomes to one's own taste.\n\n## Suggested Flow Steps\n\n### Part 1: Review the Work in Process [\\~5 mins]\n\nThe Developers should review the work currently underway and identify any\nproblems, issues, or missing information required to get to the Sprint Goal.\n\nGetting to the more interesting questions and enabling us to focus only on the\nmost valuable conversations requires that we maintain transparency of the Sprint\nBacklog so that we can easily see what is going on. We can then visualise that\ndata in ways that allow us to identify those interesting items.\n\n#### Facilitation Options\n\nYou can use the following visualisations:\n\n- **Work Item Aging Graph** - A very effective way to review the work that is\n  in progress is to use a Work Item Aging graph and pay particular attention\n  to the oldest items. By actively managing based on the age of items, the\n  Developers can see clearly which items need the most focus, what is blocked,\n  and how long they have been in progress.  \n   ![Work Item Aging Graph at the Daily\nScrum](../../assets/images/naked-agility-DailyScrum-WorkItemAging.jpg) An\n  advanced form of this is shown here, where we are also overlaying the 50th,\n  70th, 85th, and 95th percentiles for each of the columns in our process.\n  Highlighted are 5 anomalies to discuss at this team's Daily Scrum in the\n  order of risk to delivery.\n\n- **Review the Boards** - Another critical visualisation for the Daily Scrum\n  is of the work currently in progress using a Board that shows the movement\n  of the smallest unit of value, a Backlog Item.  \n  ![image.png](../../assets/images/nkdAgility-ProductValueBoard.png)  \n  In this visualisation, the work in progress is everything that is within the\n  bounds of the red box. We can immediately see that validation and\n  development are both at capacity, so neither can take on any additional\n  work. Using WIP Limits in this way, and inspecting them at the Daily Scrum\n  allows teams to easily see constraints and identify bottlenecks in this\n  process. In this case, we may need to focus on validation to get things into\n  done to free up space further “upriver”.\n\n### Part 2: Create an Actionable Plan for 24h [\\~10 min]\n\nThe outcome of the Daily Scrum should be an increase in the transparency of the\nwork underway, which should be reflected in the Sprint Backlog. What has\nhappened in the last 24 hours that needs to be reflected on the Sprint Backlog,\nand what is the plan for the next 24 hours? Does the Sprint Backlog still\nrepresent the most essential work to get to the Sprint Goal?\n\nWe should leave the Daily Scrum with a plan for the next 24 hours!\n\n#### Facilitation Options\n\n- Create a Plan [10 min]\n\n# Some Common Anti-patterns\n\n![image.png](/.attachments/image-61d227be-fe84-4577-860b-179b95e3a3d3.png)\n\n# Reference\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\recipes\\daily-scrum-recipe\\index.md",
     "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\recipes\\daily-scrum-recipe"
+  },
+  {
+    "FrontMatter": {
+      "title": "Sprint Review Recipe",
+      "description": "Step-by-step guide for running a Sprint Review, including presenting the increment, gathering feedback, updating the backlog, forecasting, and addressing stakeholder questions.",
+      "date": "2024-09-17",
+      "weight": 750.0,
+      "ResourceId": "K4kkSAG3R7m",
+      "ResourceImport": false,
+      "ResourceType": "recipes",
+      "ResourceContentOrigin": "Human",
+      "resourceTypes": "recipe",
+      "layout": "recipe",
+      "image": "/images/naked-Agility-Scrum-Framework-Sprint-Review.jpg",
+      "creator": "Martin Hinshelwood",
+      "recommendedContent": [
+        {
+          "collection": "guides",
+          "path": "_guides/manifesto-for-agile-software-development.md"
+        },
+        {
+          "collection": "guides",
+          "path": "_guides/scrum-guide.md"
+        },
+        {
+          "collection": "practices",
+          "path": "_practices/service-level-expectation-sle.md"
+        },
+        {
+          "collection": "technologies",
+          "path": "_technologies/liberating-structures/shift-share.md"
+        },
+        {
+          "collection": "technologies",
+          "path": "_technologies/liberating-structures/what-so-what-now-what.md"
+        },
+        {
+          "collection": "workshops",
+          "path": "_workshops/sprint-review-1.md"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Overview of The Scrum Framework",
+          "embed": "https://www.youtube.com/embed/Q2Fo3sM6BVo"
+        },
+        {
+          "title": "Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]",
+          "embed": "https://www.youtube.com/embed/1-W64WdSbF4"
+        }
+      ],
+      "card": {
+        "button": {
+          "content": "Learn More"
+        },
+        "content": "Discover more about Sprint Review Recipe and how it can help you in your Agile journey!",
+        "title": "Sprint Review Recipe"
+      },
+      "Watermarks": {
+        "description": "2025-05-07T12:57:45Z"
+      },
+      "aliases": [
+        "/learn/agile-delivery-kit/recipes/sprint-review-recipe/",
+        "/resources/K4kkSAG3R7m"
+      ],
+      "aliasesArchive": [
+        "/learn/agile-delivery-kit/recipes/sprint-review-recipe/"
+      ],
+      "concepts": [
+        "Method"
+      ],
+      "categories": [
+        "Scrum",
+        "Product Development",
+        "Product Management"
+      ],
+      "tags": [
+        "Sprint Review",
+        "Software Development",
+        "Pragmatic Thinking",
+        "Professional Scrum",
+        "Agile Planning",
+        "Agile Product Management",
+        "Product Owner",
+        "Product Delivery",
+        "Empirical Process Control",
+        "Value Delivery",
+        "Working Software",
+        "Agile Frameworks",
+        "Forecasting",
+        "Team Performance"
+      ]
+    },
+    "BodyContent": "When designing a flow for an event, it is hugely important to be clear on the purpose. For the [Sprint Review]({{< ref \"/tags/sprint-review\" >}}), the purpose is to inspect the [increment]({{< ref \"/tags/increment\" >}}) that was created during the Sprint as well as to adapt the [Product Backlog]({{< ref \"/tags/product-backlog\" >}}) based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.\n\n_This recipe is an example and starting point with a number of different facilitation examples provided. Please inherit from it and make it your own. If you have a great idea please submit a new recipe_\n\n![Scrum Framework Sprint Review](./../assets/images/naked-agility-scrum-framework-sprint-review.jpg)\n\n## Flow Steps\n\nThis workshop leverages a simple flow and consists of the following:\n\nThe [Product Owner]({{< ref \"/tags/product-owner\" >}}) presents the vision and goals, followed by a summary of what happened, and a review of the product increment. Update the product backlog and discuss likely release dates and budgeting.\n\nAlthough [Scrum]({{< ref \"/categories/scrum\" >}}) Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role.\n\n### Part 1: Product Owner Presents Product Vision and Goal [5 mins]\n\nThe purpose here is for the Product Owner to set the tone and direction. Let's be 100% clear to stakeholders, ourselves, and the customer that they are in control of what we build and if they get value or not.\n\n### Part 2: Sprint Summery - What was done, and was not [5 mins]\n\nThere will always be Backlog Items that we were unable to complete during a Sprint. This is OK and just needs to be presented as here are the things that we did, and here are the things we did not get to. Did we meet the Sprint Goal?\n\n![Cycle Time Scatter Plot](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)\n\nReview both the **[Cycle Time]({{< ref \"/tags/cycle-time\" >}}) Scatter Plot** and the **[Throughput]({{< ref \"/tags/throughput\" >}}) Run Chart** to understand what happened during this Sprint.\n\n### Part 3: Sprint Demo - Show what was created [~15 mins]\n\nDepending on the scale there are many ways to facilitate this. The more engaging the better. If you have a lot of stakeholder participation then more advanced techniques involving [liberating structures](../_technologies/liberating-structures.md) encourage the most engagement.\n\n#### Facilitation Options\n\n- Just Present your Features [15 mins]\n- Provide short videos of the features before the event. [0 min]\n- [Shift & Share](../_technologies/liberating-structures/shift-share.md) [40 mins]\n\n### Part 4: Feedback - Gather feedback from Stakeholders [~30 min]\n\nThe main purpose of the Sprint Review is actionable feedback and updating the Product Backlog to reflect what's next, based on what just happened. Guide the feedback and facilitate the engagement of stakeholders. It is never good enough to just ask for feedback!\n\n#### Facilitation Options\n\n- [What, So What, Now What](../_technologies/liberating-structures/what-so-what-now-what.md) [30 min]\n- [Sprint Review 1](../_workshops/sprint-review-1.md) [240 Min]\n\n### Part 5: What's Next? - Likely Sprint Goal and Forecast [10 mins]\n\nShare what is the rough draft plan for the next Sprint. Share your teams [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) and what the options are for Sprint Goals.\n\n![Throughput Run Chart.png](./../assets/images/naked-agility-kanban-throughput-run-chart.jpg)\n\nYou can use a **Throughput Run Chart** to present predictions based on empirical data with your expected confidence levels.\\_\n\n### Part 6: Release Projections & Budgeting [10 mins]\n\nBased on our historical data and our [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) you should be able to answer any Stakeholder questions on \"When will I get feature A?\" or \"When will Feature B ship?\". Express all your predictions coupled with your confidence level of achieving it.\n\n![image.png](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)\n\nUse a **Monte Carlo How Many** or **Monte Carlo When**n to answer Stakeholder questions like \"What will I get by 23/01/2024?\" and \"When will item x be completed?\" As this is calculated using your team's historical data you will need to discuss the [Service Level Expectation](../_practices/service-level-expectation-sle.md) for the Team(s).\n\n### Part 7: Compliance Summery [10 mins]\n\nDo you have architectural reviews, technology overviews or legal compliance? Discuss them here.\n\n### Part 8: Any Other Business\n\nJust as it says!\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\recipes\\sprint-review-recipe\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\recipes\\sprint-review-recipe"
   }
 ]
