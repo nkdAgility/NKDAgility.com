@@ -9,14 +9,29 @@
     {{ $termPage = $candidate }}
   {{ end }}
 {{ end }}
+
+{{- $icon := "fa-tag" -}}
+<!-- Replace with your default icon class -->
+{{- $iconType := "fa-regular" -}}
+<!-- Replace with your default icon type -->
+
+{{- with $termPage }}
+  {{- with .Params.icon }}
+    {{- $icon = . -}}
+  {{- end }}
+  {{- with .Params.iconType }}
+    {{- $iconType = . -}}
+  {{- end }}
+{{- end }}
+
 {{- if $categoryData -}}
-  <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="{{ $class }} text-nowrap" title="Classification: {{ $term }} {{ $termPage.Params.concepts }}&#10;&#10;Reason: {{ $categoryData.reasoning }}&#10;&#10;Confidence: {{ $categoryData.final_score }}%&#10;Level: {{ $categoryData.level }}">
-    {{ if $termPage.Params.icon }}<i class="{{ if $termPage.Params.iconType }}{{ $termPage.Params.iconType }}{{ else }}fa-regular{{ end }} {{ $termPage.Params.icon }}"></i>{{ end }}
+  <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="{{ $class }} text-nowrap" title="Classification: {{ $term }}&#10;&#10;Reason: {{ $categoryData.reasoning }}&#10;&#10;Confidence: {{ $categoryData.final_score }}%&#10;Level: {{ $categoryData.level }}">
+    {{ if $termPage.Params.icon }}<i class="{{ $iconType }} {{ $icon }}"></i>{{ end }}
     {{ $term }}
   </a>
 {{- else -}}
   <a href="{{ printf "/resources/%s" ($term | urlize) | relURL }}" class="{{ $class }} text-nowrap">
-    {{ if $termPage.Params.icon }}<i class="{{ if $termPage.Params.iconType }}{{ $termPage.Params.iconType }}{{ else }}fa-regular{{ end }} {{ $termPage.Params.icon }}"></i>{{ end }}
+    {{ if $termPage.Params.icon }}<i class="{{ $iconType }} {{ $icon }}"></i>{{ end }}
     {{ $term }}
   </a>
 {{- end -}}
