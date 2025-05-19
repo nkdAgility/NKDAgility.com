@@ -9,8 +9,8 @@ aliases:
 ResourceId: NpLk02WHeMe
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
 layout: signal
+ResourceContentOrigin: human
 source: LinkedIn
 platform_signals:
 - platform: LinkedIn
