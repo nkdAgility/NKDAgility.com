@@ -5,34 +5,34 @@ date: 2025-01-13
 weight: 230
 slug: why-handoffs-are-killing-your-agility
 aliases:
-  - /resources/pDvDdIEi9sj
-  - /why-handoffs-are-killing-your-agility
-  - /blog/why-handoffs-are-killing-your-agility
+- /resources/pDvDdIEi9sj
+- /why-handoffs-are-killing-your-agility
+- /blog/why-handoffs-are-killing-your-agility
 aliasesArchive:
-  - /why-handoffs-are-killing-your-agility
-  - /blog/why-handoffs-are-killing-your-agility
+- /why-handoffs-are-killing-your-agility
+- /blog/why-handoffs-are-killing-your-agility
 concepts:
-  - Strategy
+- Strategy
 categories:
-  - Product Development
-  - Lean
-  - Engineering Excellence
+- Product Development
+- Lean
+- Engineering Excellence
 tags:
-  - Operational Practices
-  - Pragmatic Thinking
-  - Software Development
-  - Business Agility
-  - Market Adaptability
-  - Cross Functional Teams
-  - Flow Efficiency
-  - Organisational Agility
-  - Product Delivery
-  - Team Collaboration
-  - Team Performance
-  - Technical Mastery
-  - Lean Principles
-  - Value Delivery
-  - Agile Frameworks
+- Operational Practices
+- Pragmatic Thinking
+- Software Development
+- Business Agility
+- Market Adaptability
+- Cross Functional Teams
+- Flow Efficiency
+- Organisational Agility
+- Product Delivery
+- Team Collaboration
+- Team Performance
+- Technical Mastery
+- Lean Principles
+- Value Delivery
+- Agile Frameworks
 ResourceId: pDvDdIEi9sj
 ResourceImport: false
 ResourceType: blog
@@ -45,12 +45,12 @@ preview: 2025-01-11-why-handoffs-are-killing-your-agility.jpg
 Watermarks:
   description: 2025-05-07T12:50:01Z
 platform_signals:
-  - platform: Scrumorg
-    post_url: https://www.scrum.org/resources/blog/why-handoffs-are-killing-your-agility
-    post_date: 2025-05-19T09:00:00Z
-    post_type: crosspost
----
+- platform: Scrumorg
+  post_url: https://www.scrum.org/resources/blog/why-handoffs-are-killing-your-agility
+  post_date: 2025-05-19T09:00:00Z
+  post_type: crosspost
 
+---
 Many organisations attempt to adopt [Lean]({{< ref "/categories/lean" >}}) practices without fully understanding their implications in [software development]({{< ref "/tags/software-development" >}}). This often leads to excessive handoffs, which fragment communication and reduce agility.
 
 Here's the kicker: handoffs are _not_ Lean, Agile, or [DevOps]({{< ref "/categories/devops" >}}). They are an anti-pattern that introduces waste, increases [cycle time]({{< ref "/tags/cycle-time" >}}), and makes collaboration difficult.

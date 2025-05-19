@@ -1,23 +1,36 @@
 ---
 title: When Heathrow went down, they blamed the power supplier.
+description: Heathrow’s outage was caused by an over-sensitive disaster recovery system, not a power loss, highlighting the risks of untested resilience and flawed infrastructure assumptions.
 date: 2025-05-15T15:30:30+01:00
+weight: 1000
 slug: when-heathrow-went-down-they-blamed-the-power-supplier
+aliases:
+- /resources/NpLk02WHeMe
+ResourceId: NpLk02WHeMe
+ResourceImport: false
 ResourceType: signals
+ResourceContentOrigin: human
 layout: signal
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7328803975921569792
-    post_id: "7328803975921569792"
-    post_date: 2025-05-15T14:30:30Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
----
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7328803975921569792
+  post_id: "7328803975921569792"
+  post_date: 2025-05-15T14:30:30Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-05-19T13:39:42Z
+concepts: []
+categories:
+- Uncategorized
+tags: []
 
+---
 When Heathrow went down, they blamed the power supplier.
 
 A fire at one substation, they said, caused the disruption. Convenient story. But it wasn't true.

@@ -5,7 +5,7 @@ date: 2025-02-17T09:00:00
 weight: 135
 slug: no-such-thing-as-a-junior-scrum-master
 aliases:
-  - /resources/f2RQh2UCwqB
+- /resources/f2RQh2UCwqB
 ResourceId: f2RQh2UCwqB
 ResourceImport: false
 ResourceType: blog
@@ -13,45 +13,45 @@ ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
 Contributors:
-  - name: Dave ("Dungeon" Dave) Smith
-    external: https://www.linkedin.com/in/dungeon-dave-smith/
+- name: Dave ("Dungeon" Dave) Smith
+  external: https://www.linkedin.com/in/dungeon-dave-smith/
 layout: blog
 resourceTypes: blog
 aliasesArchive:
-  - /no-such-thing-as-a-junior-scrum-master
-  - /blog/no-such-thing-as-a-junior-scrum-master
-  - /there-is-no-such-thing-as-a--junior--scrum-master
-  - /blog/there-is-no-such-thing-as-a--junior--scrum-master
+- /no-such-thing-as-a-junior-scrum-master
+- /blog/no-such-thing-as-a-junior-scrum-master
+- /there-is-no-such-thing-as-a--junior--scrum-master
+- /blog/there-is-no-such-thing-as-a--junior--scrum-master
 concepts:
-  - Accountability
+- Accountability
 categories:
-  - Leadership
-  - Technical Leadership
-  - Scrum
+- Leadership
+- Technical Leadership
+- Scrum
 tags:
-  - Competence
-  - Pragmatic Thinking
-  - Software Development
-  - Agile Frameworks
-  - Scrum Master
-  - Professional Scrum
-  - Organisational Agility
-  - Agile Leadership
-  - Team Performance
-  - Technical Excellence
-  - Team Collaboration
-  - Product Delivery
+- Competence
+- Pragmatic Thinking
+- Software Development
+- Agile Frameworks
+- Scrum Master
+- Professional Scrum
+- Organisational Agility
+- Agile Leadership
+- Team Performance
+- Technical Excellence
+- Team Collaboration
+- Product Delivery
 preview: 2025-02-10-no-such-thing-as-a-junior-scrum-master.jpg
 marketing: []
 Watermarks:
   description: 2025-05-07T12:49:37Z
 platform_signals:
-  - platform: Scrumorg
-    post_url: https://www.scrum.org/resources/blog/there-no-such-thing-junior-scrum-master
-    post_date: 2025-06-24T09:00:00Z
-    post_type: crosspost
----
+- platform: Scrumorg
+  post_url: https://www.scrum.org/resources/blog/there-no-such-thing-junior-scrum-master
+  post_date: 2025-06-24T09:00:00Z
+  post_type: crosspost
 
+---
 Would you ever hire a **Junior CISO** or a **Junior Financial Director**? Of course not. These positions, by definition, require demonstrated mastery of their respective domains, alongside the authority and responsibility to enact meaningful change. The same should be true of a [Scrum]({{< ref "/categories/scrum" >}}) Master. The idea of a “junior” [Scrum Master]({{< ref "/tags/scrum-master" >}}) is a fallacy. The Scrum Master is not an entry-level position, nor is it something that should be handed out as a career stepping stone. A Scrum Master **should be born fully formed**, emerging from the [Scrum Team]({{< ref "/tags/scrum-team" >}}) as a practitioner who has already demonstrated [technical mastery]({{< ref "/tags/technical-mastery" >}}), business mastery, and organisational evolutionary mastery. They should be **elevated by the team, not assigned by management.**
 
 ## The Myth of the Junior Scrum Master

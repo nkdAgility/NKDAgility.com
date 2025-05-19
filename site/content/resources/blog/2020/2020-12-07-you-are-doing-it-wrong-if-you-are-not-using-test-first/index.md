@@ -5,35 +5,35 @@ date: 2020-12-07
 weight: 255
 slug: you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliases:
-  - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
-  - /you-are-doing-it-wrong-if-you-are-not-using-test-first
-  - /resources/yqHaiUlMNTP
-  - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+- /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+- /you-are-doing-it-wrong-if-you-are-not-using-test-first
+- /resources/yqHaiUlMNTP
+- /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliasesArchive:
-  - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
-  - /you-are-doing-it-wrong-if-you-are-not-using-test-first
-  - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+- /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+- /you-are-doing-it-wrong-if-you-are-not-using-test-first
+- /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 concepts:
-  - Method
+- Method
 categories:
-  - Product Development
-  - Engineering Excellence
+- Product Development
+- Engineering Excellence
 tags:
-  - Technical Excellence
-  - Engineering Practices
-  - Software Development
-  - Test First Development
-  - Operational Practices
-  - Test Automation
-  - Working Software
-  - Automated Testing
-  - Technical Mastery
-  - Test Driven Development
-  - Pragmatic Thinking
-  - Value Delivery
-  - Shift Left Strategy
-  - Competence
-  - Product Delivery
+- Technical Excellence
+- Engineering Practices
+- Software Development
+- Test First Development
+- Operational Practices
+- Test Automation
+- Working Software
+- Automated Testing
+- Technical Mastery
+- Test Driven Development
+- Pragmatic Thinking
+- Value Delivery
+- Shift Left Strategy
+- Competence
+- Product Delivery
 ResourceId: yqHaiUlMNTP
 ResourceImport: true
 ResourceImportSource: Wordpress
@@ -49,12 +49,12 @@ preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:17Z
 platform_signals:
-  - platform: Scrumorg
-    post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
-    post_date: 2021-01-10T09:00:00Z
-    post_type: crosspost
----
+- platform: Scrumorg
+  post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
+  post_date: 2021-01-10T09:00:00Z
+  post_type: crosspost
 
+---
 Many teams are struggling with delivering modern software because they are not building with Test First Principals. Test First gives us the assurance that we have built the correct thing, that what we built is what the customer asked for and that when we change things we don’t break anything inadvertently.
 
 [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/the-2020-scrum-guide/)

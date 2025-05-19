@@ -101,12 +101,24 @@
           {{- end }}
           {{- end }}
         ]
-        "sameAs":[
-          {{- with .Params.platform_signals -}}
-            {{- range $index, $item := . -}}
-              {{- $item.post_url -}}
-            {{- end -}}
-          {{- end -}}
+        "sameAs": [
+          {{- $now := now -}}
+          {{- with .Params.platform_signals }}
+            {{- $urls := slice -}}
+            {{- range . }}
+              {{- $include := true -}}
+              {{- if isset . "post_date" }}
+                {{- $parsed := time .post_date }}
+                {{- if gt $parsed $now }}
+                  {{- $include = false }}
+                {{- end }}
+              {{- end }}
+              {{- if and $include (isset . "post_url") }}
+                {{- $urls = $urls | append (printf "\"%s\"" .post_url) }}
+              {{- end }}
+            {{- end }}
+            {{- delimit $urls ", " | safeHTML }}
+          {{- end }}
         ]
       },
       {{ else if or (eq .Type "course") (eq .Type "mentor-program") }}

@@ -5,38 +5,38 @@ date: 2025-01-03
 weight: 180
 slug: definition-of-done-objective-vs-subjective
 aliases:
-  - /resources/-Z5GGUOjc-d
-  - /definition-of-done-objective-vs-subjective
-  - /blog/definition-of-done-objective-vs-subjective
-  - /definition-of-done---objective-vs-subjective
-  - /blog/definition-of-done---objective-vs-subjective
+- /resources/-Z5GGUOjc-d
+- /definition-of-done-objective-vs-subjective
+- /blog/definition-of-done-objective-vs-subjective
+- /definition-of-done---objective-vs-subjective
+- /blog/definition-of-done---objective-vs-subjective
 aliasesArchive:
-  - /definition-of-done-objective-vs-subjective
-  - /blog/definition-of-done-objective-vs-subjective
-  - /definition-of-done---objective-vs-subjective
-  - /blog/definition-of-done---objective-vs-subjective
+- /definition-of-done-objective-vs-subjective
+- /blog/definition-of-done-objective-vs-subjective
+- /definition-of-done---objective-vs-subjective
+- /blog/definition-of-done---objective-vs-subjective
 concepts:
-  - Artifact
+- Artifact
 categories:
-  - Product Development
-  - Scrum
-  - Product Management
+- Product Development
+- Scrum
+- Product Management
 tags:
-  - Definition of Done
-  - Operational Practices
-  - Software Development
-  - Agile Planning
-  - Pragmatic Thinking
-  - Product Delivery
-  - Professional Scrum
-  - Competence
-  - Engineering Practices
-  - Value Delivery
-  - Technical Mastery
-  - Agile Frameworks
-  - Technical Excellence
-  - Team Performance
-  - Working Software
+- Definition of Done
+- Operational Practices
+- Software Development
+- Agile Planning
+- Pragmatic Thinking
+- Product Delivery
+- Professional Scrum
+- Competence
+- Engineering Practices
+- Value Delivery
+- Technical Mastery
+- Agile Frameworks
+- Technical Excellence
+- Team Performance
+- Working Software
 ResourceId: -Z5GGUOjc-d
 ResourceImport: false
 ResourceType: blog
@@ -49,12 +49,12 @@ preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
 Watermarks:
   description: 2025-05-07T12:50:03Z
 platform_signals:
-  - platform: Scrumorg
-    post_url: https://www.scrum.org/resources/blog/definition-done-objective-vs-subjective
-    post_date: 2025-05-27T09:00:00Z
-    post_type: crosspost
----
+- platform: Scrumorg
+  post_url: https://www.scrum.org/resources/blog/definition-done-objective-vs-subjective
+  post_date: 2025-05-27T09:00:00Z
+  post_type: crosspost
 
+---
 In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in [Scrum]({{< ref "/categories/scrum" >}}), the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective—a north star guiding your path, not a litmus test of quality.
 
 Contrast this with the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD). The DoD is your team’s objective compass—a binary, quantifiable checklist that ensures every [Increment]({{< ref "/tags/increment" >}}) meets professional-grade quality. It’s non-negotiable and should be firmly rooted in your product’s brand, user expectations, and technical robustness.
