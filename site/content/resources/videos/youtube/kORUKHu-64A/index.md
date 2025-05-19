@@ -3,19 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 5.
 description: Explains why Scrum does not mean a lack of governance, highlighting the need for regulatory compliance and internal standards while maintaining Agile flexibility.
 date: 2023-10-26T07:00:29Z
 weight: 690
-ResourceId: kORUKHu-64A
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: kORUKHu-64A
-source: internal
-url: /resources/videos/:slug
 slug: scrum-is-like-communism-it-doesnt-work-myth-5
-layout: video
-preview: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
-duration: 235
-isShort: false
 aliases:
 - /resources/kORUKHu-64A
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
@@ -32,17 +20,29 @@ aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
 - scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceId: kORUKHu-64A
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: kORUKHu-64A
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
+duration: 235
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:08:20Z
-concepts: []
 
 ---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Governance: Navigating the Balance for Agile Success 🚀

@@ -3,19 +3,7 @@ title: Overview of 'applying metrics for predictability' Kanban course.
 description: Learn how to use Kanban metrics like cycle time and throughput to improve team predictability, make accurate forecasts, and deliver consistent project outcomes.
 date: 2024-02-20T07:00:27Z
 weight: 1000
-ResourceId: gjrvSJWE0Gk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: gjrvSJWE0Gk
-source: internal
-url: /resources/videos/:slug
 slug: overview-of-applying-metrics-for-predictability-kanban-course
-layout: video
-preview: https://i.ytimg.com/vi/gjrvSJWE0Gk/maxresdefault.jpg
-duration: 124
-isShort: false
 aliases:
 - /resources/gjrvSJWE0Gk
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
@@ -27,22 +15,34 @@ aliasesArchive:
 - overview-of-applying-metrics-for-predictability-kanban-course-
 - overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course.
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Method
+categories:
+- Product Development
 tags:
 - Metrics and Learning
 - Operational Practices
 - Forecasting
 - Software Development
+ResourceId: gjrvSJWE0Gk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: gjrvSJWE0Gk
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/gjrvSJWE0Gk/maxresdefault.jpg
+duration: 124
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:41Z
-concepts:
-- Method
 
 ---
 ### Enhancing Team Predictability with [Kanban]({{< ref "/categories/kanban" >}}): The "Applying Metrics for Predictability" Course

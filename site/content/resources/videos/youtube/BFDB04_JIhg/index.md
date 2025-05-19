@@ -3,19 +3,7 @@ title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement
 description: Explains how Kanban visualises workflows, tracks metrics, and supports continuous improvement, helping teams identify bottlenecks and enhance transparency and efficiency.
 date: 2024-06-24T06:48:02Z
 weight: 1000
-ResourceId: BFDB04_JIhg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: BFDB04_JIhg
-source: internal
-url: /resources/videos/:slug
 slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
-layout: video
-preview: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg
-duration: 37
-isShort: true
 aliases:
 - /resources/BFDB04_JIhg
 - /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
@@ -27,9 +15,11 @@ aliasesArchive:
 - /resources/videos/introduction-to-kanban
 - /resources/introduction-to-kanban
 - understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Tool
+categories:
+- Kanban
+- Product Development
 tags:
 - Operational Practices
 - Transparency
@@ -38,15 +28,25 @@ tags:
 - Agile Frameworks
 - Flow Efficiency
 - Pragmatic Thinking
+ResourceId: BFDB04_JIhg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: BFDB04_JIhg
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg
+duration: 37
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Kanban
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:49Z
-concepts:
-- Tool
 
 ---
 In the world of Agile, we often hear about different tools and frameworks that help teams optimize their processes. One such tool is **[Kanban]({{< ref "/categories/kanban" >}})**. Often misunderstood as a process in itself, Kanban is not a process but rather a powerful tool that provides clarity and insight into whatever process you're already using.

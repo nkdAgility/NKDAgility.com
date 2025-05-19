@@ -1,24 +1,24 @@
 ---
 title: Agile Alchemy
 description: This podcast discusses why precise language and transparency are essential in agile practices, highlighting how word choice impacts communication and team effectiveness.
+date: 2023-12-19
+weight: 1000
+slug: agile-alchemy
+aliases:
+- /resources/i2XYfDpX46l
 ResourceId: i2XYfDpX46l
 ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
-date: 2023-12-19
-weight: 1000
-categories:
-- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: agile-alchemy
-aliases:
-- /resources/i2XYfDpX46l
-tags: []
 Watermarks:
   description: 2025-05-07T13:06:50Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

@@ -1,27 +1,32 @@
 ---
 title: How do you handle conflict in a Scrum Team?
 description: Guidance on resolving conflict in Scrum Teams, including facilitation techniques, escalation steps, and the Scrum Master's role in fostering healthy team dynamics.
-ResourceId: xIWBb8Cy_Rv
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 39851
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2019-10-07
 weight: 610
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: how-do-you-handle-conflict-in-a-scrum-team
 aliases:
 - /resources/xIWBb8Cy_Rv
+ResourceId: xIWBb8Cy_Rv
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 39851
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/how-do-you-handle-conflict-in-a-scrum-team
 - /how-do-you-handle-conflict-in-a-scrum-team
 - /how-do-you-handle-conflict-in-a-scrum-team-
 - /blog/how-do-you-handle-conflict-in-a-scrum-team-
 - /resources/blog/how-do-you-handle-conflict-in-a-scrum-team
+concepts:
+- Method
+categories:
+- Scrum
+- Technical Leadership
 tags:
 - Team Performance
 - Scrum Team
@@ -31,14 +36,9 @@ tags:
 - Team Collaboration
 - Scrum Master
 - Pragmatic Thinking
-categories:
-- Scrum
-- Technical Leadership
 preview: 1061204442-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:07Z
-concepts:
-- Method
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

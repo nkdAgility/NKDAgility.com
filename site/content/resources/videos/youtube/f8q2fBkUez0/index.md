@@ -3,15 +3,7 @@ title: 'Empowering Employees: The Crucial Link Between Financial Awareness and M
 description: Explores how financial awareness boosts employee motivation, decision-making, and accountability, highlighting the impact of financial literacy on workplace culture and performance.
 date: 2024-09-03T03:33:58Z
 weight: 1000
-ResourceId: f8q2fBkUez0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: f8q2fBkUez0
-url: /resources/videos/:slug
 slug: empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
-layout: video
 aliases:
 - /resources/f8q2fBkUez0
 - /resources/videos/empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
@@ -22,21 +14,29 @@ aliasesArchive:
 - /resources/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 - /resources/videos/should-companies-take-money-off-the-table-with-martin-michael-rijon
 - empowering-employees-the-crucial-link-between-financial-awareness-and-motivation
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: f8q2fBkUez0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: f8q2fBkUez0
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg
 duration: 4859
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T12:58:38Z
-concepts: []
 
 ---
 In the world of agile and organisational development, one topic that often surfaces is the relationship between financial awareness and employee motivation. Recently, I had the opportunity to engage in a thought-provoking discussion with my colleagues, Ryan and Michael, about whether companies should take money off the table when it comes to motivating their employees. This conversation sparked some reflections on my own experiences and the broader implications for businesses today.

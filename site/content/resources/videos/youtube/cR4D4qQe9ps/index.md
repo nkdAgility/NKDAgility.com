@@ -3,19 +3,7 @@ title: '#1 tip for a new Scrum Master'
 description: New Scrum Masters should start by thoroughly reading the Scrum Guide to understand Scrum principles, roles, and practices, forming a strong foundation for Agile success.
 date: 2023-05-17T07:00:14Z
 weight: 690
-ResourceId: cR4D4qQe9ps
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: cR4D4qQe9ps
-source: internal
-url: /resources/videos/:slug
 slug: -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
-layout: video
-preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
-duration: 35
-isShort: true
 aliases:
 - /resources/cR4D4qQe9ps
 - /resources/videos/-1-tip-for-a-new-scrum-master-cR4D4qQe9ps
@@ -29,21 +17,33 @@ aliasesArchive:
 - /resources/videos/-1-tip-for-a-scrum-master
 - /resources/-1-tip-for-a-scrum-master
 - -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Scrum
 tags:
 - Professional Scrum
 - Software Development
 - Scrum Master
 - Agile Frameworks
+ResourceId: cR4D4qQe9ps
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: cR4D4qQe9ps
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
+duration: 35
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
 Watermarks:
   description: 2025-05-07T13:12:24Z
-concepts: []
 
 ---
 **#1 tip for a new [Scrum]({{< ref "/categories/scrum" >}}) Master**

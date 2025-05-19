@@ -3,19 +3,7 @@ title: What are immersive training courses?
 description: Explains immersive training courses, highlighting how real-world assignments, flipped learning, and interactive sessions enhance Agile skills and workplace application.
 date: 2023-03-15T07:00:19Z
 weight: 1000
-ResourceId: wa4A_KQ-YGg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: wa4A_KQ-YGg
-source: internal
-url: /resources/videos/:slug
 slug: what-are-immersive-training-courses
-layout: video
-preview: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg
-duration: 367
-isShort: false
 aliases:
 - /resources/wa4A_KQ-YGg
 - /resources/videos/what-are-immersive-training-courses
@@ -28,17 +16,29 @@ aliasesArchive:
 - /resources/what-are-immersive-training-scrum-courses-
 - /resources/videos/what-are-immersive-training-scrum-courses
 - what-are-immersive-training-courses
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: wa4A_KQ-YGg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: wa4A_KQ-YGg
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg
+duration: 367
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:41Z
-concepts: []
 
 ---
 **What are immersive training courses?**

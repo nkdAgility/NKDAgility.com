@@ -1,12 +1,15 @@
 ---
 title: Stop Hiding Behind Complexity and Start Delivering Continuously
 description: Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement—not technical barriers.
-ResourceId: 7hEAycZIn8w
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: false
 date: 2025-02-24T09:00:00
 weight: 155
+slug: stop-hiding-behind-complexity-deliver-continuously
+aliases:
+- /resources/7hEAycZIn8w
+ResourceId: 7hEAycZIn8w
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -16,14 +19,17 @@ contributors:
   external: https://www.linkedin.com/in/richvisotcky/
 layout: blog
 resourceTypes: blog
-slug: stop-hiding-behind-complexity-deliver-continuously
-aliases:
-- /resources/7hEAycZIn8w
 aliasesArchive:
 - /stop-hiding-behind-complexity-deliver-continuously
 - /blog/stop-hiding-behind-complexity-deliver-continuously
 - /stop-hiding-behind-complexity-and-start-delivering-continuously
 - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
+concepts:
+- Practice
+categories:
+- DevOps
+- Engineering Excellence
+- Product Development
 tags:
 - Continuous Delivery
 - Software Development
@@ -40,15 +46,9 @@ tags:
 - Azure DevOps
 - Business Agility
 - Release Management
-categories:
-- DevOps
-- Engineering Excellence
-- Product Development
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 Watermarks:
   description: 2025-05-07T12:49:30Z
-concepts:
-- Practice
 
 ---
 Every organisation says their software is 'too complex' for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref "/tags/azure-devops" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.

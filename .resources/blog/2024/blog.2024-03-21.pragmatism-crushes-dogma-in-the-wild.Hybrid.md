@@ -1,19 +1,8 @@
 ---
 title: Pragmatism crushes Dogma in the wild
 description: Explores how practical use of Scrum fosters adaptability and resilience in teams, highlighting the value of flexibility over rigid rules in complex product development.
-ResourceId: mkdhLrKu8sh
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 51362
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2024-03-21
 weight: 330
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: pragmatism-crushes-dogma-in-the-wild
 aliases:
 - /blog/pragmatism-crushes-dogma-in-the-wild
@@ -24,10 +13,11 @@ aliasesArchive:
 - /blog/pragmatism-crushes-dogma-in-the-wild
 - /pragmatism-crushes-dogma-in-the-wild
 - /resources/blog/pragmatism-crushes-dogma-in-the-wild
+concepts:
+- Framework
 categories:
 - Scrum
 - Product Development
-preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 tags:
 - Agile Planning
 - Empirical Process Control
@@ -43,10 +33,20 @@ tags:
 - Scrum Master
 - Agile Philosophy
 - Market Adaptability
+ResourceId: mkdhLrKu8sh
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 51362
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
+preview: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:05:24Z
-concepts:
-- Framework
 
 ---
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of [Scrum]({{< ref "/categories/scrum" >}}). This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.

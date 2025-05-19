@@ -3,19 +3,7 @@ title: 'The Power of Immersive Learning in Scrum Training: Why Less Is More'
 description: Explores how immersive, bite-sized learning in Scrum training boosts retention, engagement, and real-world application by reducing information overload and promoting reflection.
 date: 2024-01-31T14:44:15Z
 weight: 1000
-ResourceId: El__Y7CTcrY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: El__Y7CTcrY
-source: internal
-url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
-layout: video
-preview: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg
-duration: 43
-isShort: true
 aliases:
 - /resources/El__Y7CTcrY
 - /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
@@ -27,17 +15,29 @@ aliasesArchive:
 - /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 - /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 - the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceId: El__Y7CTcrY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: El__Y7CTcrY
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg
+duration: 43
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:06:04Z
-concepts: []
 
 ---
 One of the most rewarding aspects of teaching [Scrum]({{< ref "/categories/scrum" >}}) is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.

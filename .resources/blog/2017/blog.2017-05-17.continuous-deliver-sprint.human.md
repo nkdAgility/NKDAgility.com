@@ -1,21 +1,21 @@
 ---
 title: I do continuous deliver, why should I Sprint?
 description: Explains why Sprints are valuable even with continuous delivery, highlighting benefits for planning, feedback, communication, and predictability in Scrum teams.
-ResourceId: nIIA3IUtX_z
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11885
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2017-05-17
 weight: 390
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: continuous-deliver-sprint
 aliases:
 - /resources/nIIA3IUtX_z
+ResourceId: nIIA3IUtX_z
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11885
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/continuous-deliver-sprint
 - /continuous-deliver-sprint
@@ -24,6 +24,11 @@ aliasesArchive:
 - /i-do-continuous-deliver--why-should-i-sprint-
 - /blog/i-do-continuous-deliver--why-should-i-sprint-
 - /resources/blog/continuous-deliver-sprint
+concepts:
+- Framework
+categories:
+- Scrum
+- Product Development
 tags:
 - Agile Planning
 - Agile Frameworks
@@ -38,14 +43,9 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Value Delivery
-categories:
-- Scrum
-- Product Development
 preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:37Z
-concepts:
-- Framework
 
 ---
 Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) pipeline and say to themselves; _"Why would I limit myself to shipping only once every two weeks?"_

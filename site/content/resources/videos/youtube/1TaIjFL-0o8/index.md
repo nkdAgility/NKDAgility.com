@@ -3,13 +3,6 @@ title: "Unlocking the Scrum Master's Potential: Embracing Broader Responsibiliti
 description: Explores how Scrum Masters can expand their impact by embracing wider organisational responsibilities, challenging outdated practices, and fostering agile team growth.
 date: 2023-04-27T07:00:00Z
 weight: 640
-ResourceId: 1TaIjFL-0o8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 1TaIjFL-0o8
-url: /resources/videos/:slug
 slug: unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
 aliases:
 - /resources/1TaIjFL-0o8
@@ -23,15 +16,26 @@ aliasesArchive:
 - /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course
 - unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
 - /resources/videos/unlocking-the-scrum-master-s-potential-embracing-broader-responsibilities-for-agile-success
-preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
-duration: 220
-isShort: false
+concepts: []
+categories:
+- Scrum
+- Product Development
 tags:
 - Scrum Master
 - Professional Scrum
 - Scrum Team
 - Agile Frameworks
 - Software Development
+ResourceId: 1TaIjFL-0o8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 1TaIjFL-0o8
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
+duration: 220
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -39,12 +43,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:12:59Z
-concepts: []
 
 ---
 In my experience teaching the Professional [Scrum]({{< ref "/categories/scrum" >}}) Master II (PSM2) course, I've encountered a recurring theme that resonates deeply with participants: the epiphanies that emerge during our discussions. While there are several insights that attendees gain, the most common epiphany often revolves around the role of the [Scrum Master]({{< ref "/tags/scrum-master" >}}) and the broader implications of their responsibilities.

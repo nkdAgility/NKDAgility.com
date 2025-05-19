@@ -3125,5 +3125,24 @@
     "reasoning": "The content is a deep dive into the Definition of Done (DoD) in Scrum, focusing on quality, transparency, and releasability. While it references value, usability, and the importance of increments being shippable, it does not explicitly anchor these practices in measurable customer outcomes or feedback loops. The main thrust is internal quality and process alignment, with only brief nods to customer requirements (e.g., 'Customer DoD') and value. There is no substantive discussion of defining, measuring, or validating customer value, nor of using customer evidence to drive decisions. The audience (Scrum practitioners) is adjacent to the category, but the content is not primarily about Customer Focus as defined. No penalties were applied, as the content is current and not critical of the category.",
     "reasoning_summary": "This content thoroughly explores the Definition of Done in Scrum, emphasising quality and releasability. While it briefly mentions customer requirements, it doesn't deeply address how customer outcomes drive product development, so its fit with Customer Focus is moderate.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "TwYNSm1pZOS",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:47:17",
+    "ai_confidence": 13.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 0.8,
+    "ai_audience": 5.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is focused entirely on the Definition of Done (DoD) in Scrum, not the Definition of Workflow as articulated in Kanban or agile flow-based systems. While it briefly mentions the need for explicit standards and continuous improvement, these are in the context of DoD, not workflow policies, entry/exit criteria, or WIP limits. There is no substantive discussion of workflow visualisation, flow management, or Kanban principles. The audience is agile practitioners, but the content is off-topic for the Definition of Workflow category.",
+    "reasoning_summary": "This content is about the Definition of Done in Scrum, not the Definition of Workflow. It lacks discussion of workflow policies, flow management, or Kanban concepts, so it does not fit the category.",
+    "level": "Ignored"
   }
 }

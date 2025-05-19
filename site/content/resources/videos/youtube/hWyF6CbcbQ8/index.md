@@ -3,15 +3,7 @@ title: 'Mastering Data Integrity: The Key to Successful DevOps Migrations'
 description: Learn how to maintain data integrity during DevOps migrations, weighing full versus selective data transfer, managing risks, and ensuring team readiness for Azure DevOps.
 date: 2024-11-04T06:06:49Z
 weight: 1000
-ResourceId: hWyF6CbcbQ8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: hWyF6CbcbQ8
-url: /resources/videos/:slug
 slug: mastering-data-integrity-the-key-to-successful-devops-migrations
-layout: video
 aliases:
 - /resources/hWyF6CbcbQ8
 - /resources/videos/mastering-data-integrity-the-key-to-successful-devops-migrations
@@ -21,21 +13,29 @@ aliasesArchive:
 - /resources/videos/devops-migration-data-integrity-issues
 - /resources/devops-migration-data-integrity-issues
 - mastering-data-integrity-the-key-to-successful-devops-migrations
+concepts: []
+categories:
+- DevOps
+tags: []
+ResourceId: hWyF6CbcbQ8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: hWyF6CbcbQ8
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- DevOps
 Watermarks:
   description: 2025-05-07T12:57:25Z
-concepts: []
 
 ---
 When it comes to [DevOps]({{< ref "/categories/devops" >}}) migrations, one of the most critical aspects to consider is data integrity. I’ve seen firsthand how organisations grapple with the balance between maintaining the fidelity of their data and achieving the flexibility they desire during the migration process. It’s a nuanced dance, and understanding the implications of each choice is vital.

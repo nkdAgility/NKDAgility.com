@@ -3,15 +3,7 @@ title: 'The Antichrist of Agile: How Fake Agilists Are Undermining True Innovati
 description: Explores how unqualified Agile practitioners undermine genuine innovation, erode trust, and hinder software teams, stressing the need for real experience over certifications.
 date: 2023-10-30T07:00:13Z
 weight: 1000
-ResourceId: XZ1Swam_Cx0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: XZ1Swam_Cx0
-url: /resources/videos/:slug
 slug: the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
-layout: video
 aliases:
 - /resources/XZ1Swam_Cx0
 - /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
@@ -23,21 +15,29 @@ aliasesArchive:
 - /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/antichrist-7-harbingers-agile-apocalypse-but-shorter
 - the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: XZ1Swam_Cx0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: XZ1Swam_Cx0
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:08:15Z
-concepts: []
 
 ---
 In the ever-evolving landscape of Agile methodologies, one of the most alarming signs of the impending Agile apocalypse is the emergence of what I like to call the "Antichrist" of Agile. Now, before you raise an eyebrow, let me clarify: this Antichrist isn't a figure shrouded in mystery or malevolence. Instead, it manifests in the form of fake agilists—individuals who, despite holding certifications, lack the fundamental understanding of what it truly means to be Agile.

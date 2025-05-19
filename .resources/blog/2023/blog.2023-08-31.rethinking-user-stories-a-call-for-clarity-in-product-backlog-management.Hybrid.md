@@ -1,19 +1,8 @@
 ---
 title: "Rethinking 'User Stories': A Call for Clarity in Product Backlog Management"
 description: Explores why replacing "User Stories" with "Product Backlog Items" improves clarity, flexibility, and transparency in product backlog management and team communication.
-ResourceId: E2aOGiRDnuG
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 49726
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-08-31
 weight: 1000
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 aliases:
 - /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
@@ -28,20 +17,31 @@ aliasesArchive:
 - /rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /blog/rethinking-'user-stories'--a-call-for-clarity-in-product-backlog-management
 - /resources/blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
+concepts:
+- Artifact
+categories:
+- Product Management
+- Product Development
 tags:
 - Product Backlog
 - Pragmatic Thinking
 - Software Development
 - Product Delivery
 - Transparency
-categories:
-- Product Management
-- Product Development
+ResourceId: E2aOGiRDnuG
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 49726
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:46Z
-concepts:
-- Artifact
 
 ---
 As someone who has spent a fair amount of time in the trenches of [product development]({{< ref "/categories/product-development" >}}), I've realised that the language we use to describe our work can profoundly shape our approach to it. One term that I believe has been misused and misunderstood to the point of causing more harm than good is "User Stories".

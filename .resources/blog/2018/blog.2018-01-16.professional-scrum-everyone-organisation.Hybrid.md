@@ -1,28 +1,33 @@
 ---
 title: Professional Scrum is for everyone in your organisation
 description: Explains how involving everyone in Professional Scrum training fosters organisational agility, breaks down silos, and empowers teams to drive meaningful change together.
-ResourceId: Cr7wjIJ8Uvb
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 38287
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2018-01-16
 weight: 430
+slug: professional-scrum-everyone-organisation
+aliases:
+- /resources/Cr7wjIJ8Uvb
+ResourceId: Cr7wjIJ8Uvb
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 38287
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
-slug: professional-scrum-everyone-organisation
-aliases:
-- /resources/Cr7wjIJ8Uvb
 aliasesArchive:
 - /blog/professional-scrum-everyone-organisation
 - /professional-scrum-everyone-organisation
 - /professional-scrum-is-for-everyone-in-your-organisation
 - /blog/professional-scrum-is-for-everyone-in-your-organisation
 - /resources/blog/professional-scrum-everyone-organisation
+concepts:
+- Framework
+categories:
+- Scrum
+- Product Development
 tags:
 - Agile Product Management
 - Professional Scrum
@@ -39,14 +44,9 @@ tags:
 - Empirical Process Control
 - Change Management
 - Organisational Change
-categories:
-- Scrum
-- Product Development
 preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:16:21Z
-concepts:
-- Framework
 
 ---
 Recently I worked with a new customer in Denver to help them move towards a greater degree of [Scrum]({{< ref "/categories/scrum" >}}) in their [software development]({{< ref "/tags/software-development" >}}). The idea that Scrum is for everyone in your organisation is kind of new, but it reflects the modern understanding of the way people work, and the rejection of Taylorism and command and control. You [cant use someone else approaches to get to agility](https://nkdagility.com/organisational-change-create-path/), but you can learn from it.

@@ -3,19 +3,7 @@ title: 'The Power of Kaizen: Continuous Improvement in Scrum and Beyond'
 description: Explains how Kaizen’s continuous improvement principles enhance Scrum and Agile teams, with practical tips for retrospectives, workflow optimisation, and team culture.
 date: 2024-08-25T22:00:34Z
 weight: 430
-ResourceId: pVPzgsemxEY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: pVPzgsemxEY
-source: internal
-url: /resources/videos/:slug
 slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
-layout: video
-preview: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
-duration: 56
-isShort: true
 aliases:
 - /resources/pVPzgsemxEY
 - /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
@@ -27,9 +15,10 @@ aliasesArchive:
 - /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 - /resources/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 - the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Practice
+categories:
+- Product Development
 tags:
 - Operational Practices
 - Continuous Improvement
@@ -42,14 +31,25 @@ tags:
 - Agile Transformation
 - Lean Thinking
 - Organisational Agility
+ResourceId: pVPzgsemxEY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: pVPzgsemxEY
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
+duration: 56
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:00:54Z
-concepts:
-- Practice
 
 ---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}), Agile, and [Kanban]({{< ref "/categories/kanban" >}}), we often borrow terms from other languages to express important principles. One such term is **Kaizen** – a Japanese word that signifies [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). While we may not always use the word exactly as intended in its native language, the underlying concept is something we should all embrace in our professional lives.

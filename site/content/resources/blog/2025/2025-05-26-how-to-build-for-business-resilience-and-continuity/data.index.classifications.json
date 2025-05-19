@@ -2407,5 +2407,24 @@
     "reasoning": "The content primarily addresses business resilience and continuity through technical and organisational practices such as observability, decoupling, and team empowerment. While it references customer value (e.g., 'continuous delivery of value to end users', 'Customer Satisfaction' as a metric), the main focus is on system reliability and operational excellence. Customer Focus is present but not the central theme; customer outcomes are mentioned as part of resilience, but most discussion centres on internal practices, not direct customer value definition or measurement. The depth and alignment are moderate, with some explicit but infrequent mentions of customer-centric metrics and outcomes.",
     "reasoning_summary": "This content discusses resilience and continuity with some reference to customer value and satisfaction, but its main focus is on technical and operational strategies. Customer Focus is present but not central, resulting in a moderate confidence score.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "VThLnxVapgJ",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:54:05",
+    "ai_confidence": 7.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 1.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on business resilience and continuity, emphasising observability, decoupling, deployments, team empowerment, and recovery. It does not mention or discuss the Definition of Workflow, Kanban, or related agile concepts. There are no explicit or implicit references to workflow policies, entry/exit criteria, WIP limits, or making work visible as per Kanban. The checklist is about operational and technical practices, not workflow definition or management. The audience is technical, but the content is not aligned with the Definition of Workflow category.",
+    "reasoning_summary": "This content is about business resilience strategies, not the Definition of Workflow. It lacks any discussion of workflow policies, Kanban, or agile workflow concepts, so it does not fit the category.",
+    "level": "Ignored"
   }
 }

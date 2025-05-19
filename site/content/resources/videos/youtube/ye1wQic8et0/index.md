@@ -3,15 +3,7 @@ title: 'Cutting Through the Red Tape: How Eliminating Committees Can Boost Your 
 description: Explores how committees can delay decision-making, reduce agility, and increase time to market, highlighting the benefits of empowering teams and streamlining processes.
 date: 2023-10-02T07:00:33Z
 weight: 1000
-ResourceId: ye1wQic8et0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: ye1wQic8et0
-url: /resources/videos/:slug
 slug: cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
-layout: video
 aliases:
 - /resources/ye1wQic8et0
 - /resources/videos/cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
@@ -22,26 +14,34 @@ aliasesArchive:
 - /resources/it's-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true-
 - /resources/videos/its-said-that-you-can-reduce-time-to-market-by-up-to-50-simply-by-removing-committees-true
 - cutting-through-the-red-tape-how-eliminating-committees-can-boost-your-time-to-market
-preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
-duration: 408
-isShort: false
+concepts: []
+categories:
+- Product Development
 tags:
 - Pragmatic Thinking
 - Time to Market
 - Agile Strategy
 - Organisational Agility
 - Value Delivery
+ResourceId: ye1wQic8et0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: ye1wQic8et0
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/ye1wQic8et0/maxresdefault.jpg
+duration: 408
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:09:06Z
-concepts: []
 
 ---
 In the world of agile methodologies, one question that often arises is whether removing committees can significantly reduce [time to market]({{< ref "/tags/time-to-market" >}}). Some claim that this can lead to a reduction of up to 50%. But is that really true? My experience suggests that while the figure may be exaggerated, the impact of committees on decision-making and agility is profound.

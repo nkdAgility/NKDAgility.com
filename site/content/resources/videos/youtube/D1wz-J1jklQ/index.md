@@ -3,16 +3,7 @@ title: 'Unlocking Code Quality: The Transformative Power of Frequent Deployments
 description: Explores how frequent code deployments improve code quality, reduce technical debt, enable faster feedback, and support iterative, user-focused software development.
 date: 2025-01-13T06:45:00Z
 weight: 315
-ResourceId: D1wz-J1jklQ
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: D1wz-J1jklQ
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-code-quality-the-transformative-power-of-frequent-deployments
-layout: video
 aliases:
 - /resources/D1wz-J1jklQ
 - /resources/videos/unlocking-code-quality-the-transformative-power-of-frequent-deployments
@@ -22,9 +13,12 @@ aliasesArchive:
 - /resources/videos/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 - /resources/the-power-of-frequent-deployments-reducing-technical-debt-and-delivering-better-products
 - unlocking-code-quality-the-transformative-power-of-frequent-deployments
-preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
-duration: 362
-isShort: false
+concepts:
+- Practice
+categories:
+- Engineering Excellence
+- Product Development
+- DevOps
 tags:
 - Deployment Frequency
 - Continuous Improvement
@@ -41,19 +35,25 @@ tags:
 - Pragmatic Thinking
 - Customer Focus
 - Engineering Practices
+ResourceId: D1wz-J1jklQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: D1wz-J1jklQ
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/D1wz-J1jklQ/maxresdefault.jpg
+duration: 362
+isShort: false
 resourceTypes:
 - video
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-categories:
-- Engineering Excellence
-- Product Development
-- DevOps
 Watermarks:
   description: 2025-05-07T12:50:00Z
-concepts:
-- Practice
 
 ---
 When it comes to deploying code, I've often found that the frequency of our deployments can significantly impact the quality of our work and the overall health of our codebase. In my experience, when we don't deploy very frequently, we inadvertently invite a host of dysfunctional behaviours that can be easily avoided. 

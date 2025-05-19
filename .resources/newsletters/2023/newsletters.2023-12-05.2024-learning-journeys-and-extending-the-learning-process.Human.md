@@ -1,15 +1,8 @@
 ---
 title: 2024 Learning journeys and extending the learning process
 description: Discover immersive, outcome-focused Scrum and Agile training with flexible learning journeys, real-world assignments, and reflective sessions for continuous improvement.
-ResourceId: -wdSJlbQQbK
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2023-12-05
 weight: 580
-preview: naked-agility-technically-agile-1280×720-December2023.jpg
-author: MrHinsh
-resourceTypes: newsletter
 slug: 2024-learning-journeys-and-extending-the-learning-process
 aliases:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
@@ -18,14 +11,21 @@ aliases:
 aliasesArchive:
 - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
 - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
+concepts: []
 categories:
 - Scrum
 tags:
 - Continuous Learning
 - Pragmatic Thinking
+ResourceId: -wdSJlbQQbK
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+preview: naked-agility-technically-agile-1280×720-December2023.jpg
+author: MrHinsh
+resourceTypes: newsletter
 Watermarks:
   description: 2025-05-07T13:07:17Z
-concepts: []
 
 ---
 We have already had great success with our immersive learning classes, with the 8-week Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) gaining high acclaim not only from the students but also from their managers and leaders:

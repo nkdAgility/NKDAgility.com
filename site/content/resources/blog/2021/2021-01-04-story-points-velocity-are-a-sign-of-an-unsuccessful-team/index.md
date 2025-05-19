@@ -1,19 +1,8 @@
 ---
 title: Story Points & Velocity are a sign of an unsuccessful team
 description: Explains why relying on story points and velocity signals team immaturity in Scrum, and highlights better ways to build confidence and predictability through transparency.
-ResourceId: ICuFIMyhnwj
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 44532
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2021-01-04
 weight: 380
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliases:
 - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
@@ -28,19 +17,30 @@ aliasesArchive:
 - /story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /blog/story-points-&-velocity-are-a-sign-of-an-unsuccessful-team
 - /resources/blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
+concepts: []
+categories:
+- Scrum
+- Product Development
 tags:
 - Transparency
 - Software Development
 - Empirical Process Control
 - Professional Scrum
 - Pragmatic Thinking
-categories:
-- Scrum
-- Product Development
+ResourceId: ICuFIMyhnwj
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 44532
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: image-9-14-14.png
 Watermarks:
   description: 2025-05-07T13:15:06Z
-concepts: []
 
 ---
 Story Points and velocity have been used for many years in the [Scrum]({{< ref "/categories/scrum" >}}) community and have been engrained so much in the way that things are done that most folks believe that they are part of Scrum. The accepted wisdom is that Scrum Teams are supposed to use User Stories, Story Points, and Velocity to measure their work.

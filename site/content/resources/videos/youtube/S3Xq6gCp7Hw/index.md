@@ -3,19 +3,7 @@ title: How much of an impact can a strong, skilled product owner have?
 description: A skilled product owner drives teams to build valuable solutions, anticipate customer needs, and deliver features that create real business impact—not just more features.
 date: 2023-01-30T07:30:06Z
 weight: 590
-ResourceId: S3Xq6gCp7Hw
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: S3Xq6gCp7Hw
-source: internal
-url: /resources/videos/:slug
 slug: how-much-of-an-impact-can-a-strong-skilled-product-owner-have
-layout: video
-preview: https://i.ytimg.com/vi/S3Xq6gCp7Hw/maxresdefault.jpg
-duration: 353
-isShort: false
 aliases:
 - /resources/S3Xq6gCp7Hw
 - /resources/videos/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
@@ -25,9 +13,10 @@ aliasesArchive:
 - /resources/videos/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
 - /resources/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
 - how-much-of-an-impact-can-a-strong-skilled-product-owner-have
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Management
+- Product Development
 tags:
 - Pragmatic Thinking
 - Product Owner
@@ -36,14 +25,25 @@ tags:
 - Scrum Team
 - Product Discovery
 - Agile Product Management
+ResourceId: S3Xq6gCp7Hw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: S3Xq6gCp7Hw
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/S3Xq6gCp7Hw/maxresdefault.jpg
+duration: 353
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Management
-- Product Development
 Watermarks:
   description: 2025-05-07T13:14:23Z
-concepts: []
 
 ---
 In my opinion, it’s the whole ball game.

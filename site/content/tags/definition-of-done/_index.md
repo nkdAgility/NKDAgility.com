@@ -1,11 +1,11 @@
 ---
 title: Definition of Done
+ClassificationType: tags
+trustpilot: false
 subtitle: Getting Started with the Definition of Done (DoD)
 ResourceId: mAZrKmLwc3L
 abstract: The Definition of Done (DoD) is a critical framework that establishes a shared understanding of what constitutes a completed and releasable product increment within agile and DevOps environments. Originating from the need for clarity in product development, the DoD serves as an organisational standard that all teams must adhere to, ensuring that every increment meets minimum quality criteria before it can be considered complete. This framework is vital for fostering transparency and consistency across teams, enabling empirical decision-making based on real-world feedback. By defining specific criteria—such as deployment in production, telemetry collection, and validation of initial hypotheses—the DoD helps mitigate risks associated with incomplete or subpar work, thereby reducing technical debt and enhancing the overall quality of deliverables. Furthermore, it facilitates faster feedback loops and iterative learning, allowing teams to adapt their processes based on actual performance data. The DoD not only clarifies expectations for stakeholders but also protects the integrity of the product, ensuring that increments are valuable, verifiable, and ready for real-world use. In essence, the Definition of Done is foundational to maintaining high standards in product development, promoting alignment among teams, and ultimately driving successful outcomes in organisational design and delivery.
-ClassificationType: tags
 ClassificationContentOrigin: human
-trustpilot: false
 date: 2025-05-05T09:00:00Z
 weight: 125
 description: Getting Started with the Definition of Done (DoD). Every team should define what is required, what criteria must be met, for a product increment to be considered releasable.
@@ -48,6 +48,10 @@ aliases:
 - /practices/Definition-of-Done-DoD.html
 - /learn/agile-delivery-kit/practices/definition-of-done-dod
 - /resources/mAZrKmLwc3L
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
+icon: fa-clipboard-list-check
 concepts:
 - Artifact
 categories:
@@ -69,10 +73,6 @@ tags:
 - Pragmatic Thinking
 - Engineering Practices
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.7
-icon: fa-clipboard-list-check
 
 ---
 Every team should define what is required, what criteria must be met, for a product [increment]({{< ref "/tags/increment" >}}) to be considered releasable. A [definition of done]({{< ref "/tags/definition-of-done" >}}). If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.

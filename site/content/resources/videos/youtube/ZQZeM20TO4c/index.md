@@ -3,19 +3,7 @@ title: Agile leader versus traditional manager
 description: Compares traditional managers’ focus on control and delegation with Agile leaders’ emphasis on empowerment, open communication, and adaptability to market change.
 date: 2023-05-02T09:30:14Z
 weight: 690
-ResourceId: ZQZeM20TO4c
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: ZQZeM20TO4c
-source: internal
-url: /resources/videos/:slug
 slug: agile-leader-versus-traditional-manager
-layout: video
-preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
-duration: 69
-isShort: false
 aliases:
 - /resources/ZQZeM20TO4c
 - /resources/videos/agile-leader-versus-traditional-manager
@@ -26,18 +14,30 @@ aliasesArchive:
 - /resources/agile-leader-vs-traditional-manager
 - /resources/videos/agile-leader-vs-traditional-manager
 - agile-leader-versus-traditional-manager
+concepts: []
+categories:
+- Leadership
+tags:
+- Agile Leadership
+ResourceId: ZQZeM20TO4c
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: ZQZeM20TO4c
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
+duration: 69
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Agile Leadership
 resourceTypes:
 - video
-categories:
-- Leadership
 Watermarks:
   description: 2025-05-07T13:12:48Z
-concepts: []
 
 ---
 Product of Conventional Practices

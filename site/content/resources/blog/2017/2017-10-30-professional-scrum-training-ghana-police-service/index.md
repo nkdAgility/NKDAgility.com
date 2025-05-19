@@ -1,41 +1,41 @@
 ---
 title: Professional Scrum Training for the Ghana Police Service
 description: Professional Scrum training introduced Ghana Police officers to Agile methods, using hands-on sprints to support organisational change and collaboration in policing.
-ResourceId: ozXMaDX0lvp
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 12095
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2017-10-30
 weight: 480
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: professional-scrum-training-ghana-police-service
 aliases:
 - /resources/ozXMaDX0lvp
+ResourceId: ozXMaDX0lvp
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 12095
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/professional-scrum-training-ghana-police-service
 - /professional-scrum-training-ghana-police-service
 - /professional-scrum-training-for-the-ghana-police-service
 - /blog/professional-scrum-training-for-the-ghana-police-service
 - /resources/blog/professional-scrum-training-ghana-police-service
+concepts:
+- Framework
+categories:
+- Scrum
+- Product Development
 tags:
 - Agile Frameworks
 - Professional Scrum
 - Software Development
 - Pragmatic Thinking
 - Agile Transformation
-categories:
-- Scrum
-- Product Development
 preview: clip_image006_thumb-3-3.jpg
 Watermarks:
   description: 2025-05-07T13:16:27Z
-concepts:
-- Framework
 
 ---
 Last time I talked about the Ghana Police Service (GPS) I was talking about [Professional Organisational Change](https://nkdagility.com/professional-organisational-change-ghana-police-service/) and the approach the Inspector General of Police (IGP) is taking; using [Scrum]({{< ref "/categories/scrum" >}}) to incrementally make changes to the organisation. While Nana Abban and the IGP have been focusing on the big picture, I have been in Ghana to start the grass roots adoption of Scrum with two [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Foundations (PSF) classes, the first ever run in Ghana.

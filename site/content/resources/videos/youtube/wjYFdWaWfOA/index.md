@@ -3,15 +3,7 @@ title: 'Unlocking Team Potential: The Essential Role of a Scrum Master in Agile 
 description: Explains how a Scrum Master empowers Agile teams by bridging business, technical, and organisational needs to boost effectiveness, collaboration, and delivery outcomes.
 date: 2023-05-22T14:00:41Z
 weight: 610
-ResourceId: wjYFdWaWfOA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: wjYFdWaWfOA
-url: /resources/videos/:slug
 slug: unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
-layout: video
 aliases:
 - /resources/wjYFdWaWfOA
 - /resources/videos/unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
@@ -23,27 +15,35 @@ aliasesArchive:
 - what-is-a-scrum-master-why-are-they-essential
 - /resources/videos/unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
 - unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
-preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
-duration: 299
-isShort: false
+concepts: []
+categories:
+- Scrum
+- Technical Leadership
+- Product Development
 tags:
 - Scrum Master
 - Scrum Team
 - Software Development
 - Team Performance
+ResourceId: wjYFdWaWfOA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: wjYFdWaWfOA
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
+duration: 299
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Technical Leadership
-- Product Development
 Watermarks:
   description: 2025-05-07T13:12:18Z
-concepts: []
 
 ---
 When I reflect on the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself thinking of them as a guide—perhaps a "Scrum Guide" would be a more fitting title, but alas, that name is already taken. The essence of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) lies in their deep technical understanding of Agile principles, practices, and the various methodologies that underpin them. They are there to empower the team, equipping them with the knowledge, tools, and skills necessary to make informed decisions within their specific context.

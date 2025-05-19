@@ -3,15 +3,7 @@ title: 'Navigating My Most Memorable Challenge as an Agile Consultant: Lessons i
 description: A personal account highlighting the importance of organisational readiness, engagement, and listening for successful agile consulting and meaningful change in teams.
 date: 2023-04-04T07:00:16Z
 weight: 1000
-ResourceId: sKYVNHcf1jg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: sKYVNHcf1jg
-url: /resources/videos/:slug
 slug: navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
-layout: video
 aliases:
 - /resources/sKYVNHcf1jg
 - /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
@@ -23,22 +15,30 @@ aliasesArchive:
 - what-was-your-worst-day-as-an-agile-consultant
 - /resources/videos/navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
 - navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Personal
+ResourceId: sKYVNHcf1jg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: sKYVNHcf1jg
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: false
-tags:
-- Personal
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:13:23Z
-concepts: []
 
 ---
 Reflecting on My Worst Day as an Agile Consultant

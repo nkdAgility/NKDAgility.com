@@ -3,19 +3,7 @@ title: 'Detecting Agile BS: Lessons from the US Department of Defense'
 description: Learn how to spot fake Agile practices using six key questions from the US Department of Defense, and discover steps to assess and improve true Agile maturity in organisations.
 date: 2024-06-28T06:45:01Z
 weight: 390
-ResourceId: O6rYL3EDUxM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: O6rYL3EDUxM
-source: internal
-url: /resources/videos/:slug
 slug: detecting-agile-bs-lessons-from-the-us-department-of-defense
-layout: video
-preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
-duration: 426
-isShort: false
 aliases:
 - /resources/O6rYL3EDUxM
 - /resources/videos/detecting-agile-bs-lessons-from-the-us-department-of-defense
@@ -27,9 +15,11 @@ aliasesArchive:
 - /resources/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 - /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-16
 - detecting-agile-bs-lessons-from-the-us-department-of-defense
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
+- Scrum
 tags:
 - Customer Focus
 - Agile Strategy
@@ -44,15 +34,25 @@ tags:
 - Operational Practices
 - Agile Planning
 - Product Delivery
+ResourceId: O6rYL3EDUxM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: O6rYL3EDUxM
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
+duration: 426
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:02:45Z
-concepts:
-- Principle
 
 ---
 The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source—the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.

@@ -3,15 +3,7 @@ title: "Unlocking Agile Leadership: Transform Your Skills with Scrum.org's Essen
 description: Learn practical agile leadership skills, foster team alignment, and drive cultural change with Scrum.org’s workshop to support agile transformation and organisational success.
 date: 2020-07-07T20:10:33Z
 weight: 590
-ResourceId: gEJhbET3nqs
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: gEJhbET3nqs
-url: /resources/videos/:slug
 slug: unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
-layout: video
 aliases:
 - /resources/gEJhbET3nqs
 - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
@@ -23,28 +15,36 @@ aliasesArchive:
 - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
 - unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
 - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum.org-s-essentials-workshop
-preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
-duration: 245
-isShort: false
+concepts: []
+categories:
+- Leadership
+- Technical Leadership
+- Scrum
 tags:
 - Organisational Agility
 - Agile Leadership
 - Agile Strategy
 - Organisational Change
 - Pragmatic Thinking
+ResourceId: gEJhbET3nqs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: gEJhbET3nqs
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/gEJhbET3nqs/maxresdefault.jpg
+duration: 245
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Leadership
-- Technical Leadership
-- Scrum
 Watermarks:
   description: 2025-05-07T13:15:30Z
-concepts: []
 
 ---
 As a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and Microsoft MVP, I often find myself reflecting on the transformative power of agile methodologies. Today, I want to share my insights on the Professional Agile [Leadership]({{< ref "/categories/leadership" >}}) Essentials workshop offered by Scrum.org, which I believe is crucial for anyone looking to enhance their leadership skills in an agile environment.

@@ -1,39 +1,39 @@
 ---
 title: 'Big Scrum: Are you doing mechanical Scrum'
 description: Explores the difference between mechanical and Professional Scrum, highlighting the importance of values, principles, and technical excellence for effective Agile teams.
-ResourceId: 8wFtoutYII0
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11355
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2015-06-24
 weight: 325
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: big-scrum-are-you-doing-mechanical-scrum
 aliases:
 - /resources/8wFtoutYII0
+ResourceId: 8wFtoutYII0
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11355
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/big-scrum-are-you-doing-mechanical-scrum
 - /big-scrum-are-you-doing-mechanical-scrum
 - /big-scrum--are-you-doing-mechanical-scrum
 - /blog/big-scrum--are-you-doing-mechanical-scrum
 - /resources/blog/big-scrum-are-you-doing-mechanical-scrum
+concepts:
+- Ethos
+categories:
+- Scrum
+- Product Development
 tags:
 - Software Development
 - Agile Frameworks
 - Professional Scrum
-categories:
-- Scrum
-- Product Development
 preview: clip_image001-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:57Z
-concepts:
-- Ethos
 
 ---
 Last month I created an article for NDC Magazine on [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}). The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional [Scrum Team]({{< ref "/tags/scrum-team" >}}), why we need it, and how we can scale it.

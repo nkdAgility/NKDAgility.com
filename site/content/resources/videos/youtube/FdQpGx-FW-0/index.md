@@ -3,19 +3,7 @@ title: 7 harbingers of the Agile apocalypse - Judgement
 description: Explores how rigid, judgmental Agile practices stifle creativity and innovation, and advocates for principle-driven, adaptable approaches to foster true business agility.
 date: 2023-10-20T11:00:13Z
 weight: 665
-ResourceId: FdQpGx-FW-0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: FdQpGx-FW-0
-source: internal
-url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-judgement
-layout: video
-preview: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg
-duration: 535
-isShort: false
 aliases:
 - /resources/FdQpGx-FW-0
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
@@ -28,9 +16,11 @@ aliasesArchive:
 - /resources/judgement!-7-harbingers-agile-apocalypse
 - /resources/videos/judgement-7-harbingers-agile-apocalypse
 - 7-harbingers-of-the-agile-apocalypse-judgement
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Ethos
+categories:
+- Leadership
+- Product Development
 tags:
 - Agnostic Agile
 - Agile Transformation
@@ -41,15 +31,25 @@ tags:
 - Pragmatic Thinking
 - Organisational Agility
 - Beta Codex
+ResourceId: FdQpGx-FW-0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: FdQpGx-FW-0
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg
+duration: 535
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Leadership
-- Product Development
 Watermarks:
   description: 2025-05-07T13:08:33Z
-concepts:
-- Ethos
 
 ---
 # Escaping the Judgment Trap in [Agile Transformation]({{< ref "/tags/agile-transformation" >}}) 🚀

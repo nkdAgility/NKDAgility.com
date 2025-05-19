@@ -3094,5 +3094,24 @@
     "reasoning": "The content primarily addresses technical debt management and system-level work practices. While it references delivering value and mentions customers' desire for new features, it does not explicitly discuss defining, measuring, or prioritising work based on validated customer needs or outcomes. The focus is on internal team processes, continuous improvement, and sustainable delivery, with only indirect links to customer value. There is no substantive discussion of customer feedback, evidence-based decision-making from the customer perspective, or alignment of strategy to customer outcomes. Thus, while there is some conceptual overlap, the depth and directness regarding Customer Focus are limited.",
     "reasoning_summary": "This piece centres on technical debt and team practices, with only brief, indirect references to customer value. It lacks explicit discussion of customer outcomes, feedback, or evidence-based prioritisation, so it only weakly fits the Customer Focus category.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "p3Agu-9sZnA",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:54:10",
+    "ai_confidence": 34.7,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.5,
+    "ai_intent": 4.0,
+    "ai_audience": 6.2,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses on addressing technical debt by changing team practices and making improvement part of the workflow. While it references 'workflow' and discusses making work visible and continuous improvement, it does not explicitly define or detail the Definition of Workflow as per Kanban or agile theory. There are no direct mentions of entry/exit criteria, WIP limits, or explicit workflow policies. The main theme is about system-level change and embedding improvement, which is conceptually adjacent but not a direct, in-depth discussion of the Definition of Workflow. The audience (CTOs, engineering leads) is somewhat aligned, and the content is focused, but the lack of explicit, detailed treatment of the category limits the confidence score.",
+    "reasoning_summary": "This article discusses improving team practices and making technical debt visible within the workflow, but it doesn't explicitly define or detail the Definition of Workflow as per Kanban or agile. Its focus is adjacent, not central, to the category.",
+    "level": "Ignored"
   }
 }

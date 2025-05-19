@@ -3,37 +3,37 @@ title: 'Quotes: Dictatorship vs Democracy'
 description: Compares dictatorship and democracy in Agile leadership, highlighting the need to balance clear direction with team collaboration for better decisions and engagement.
 date: 2023-10-15T07:00:31Z
 weight: 1000
+slug: quotes-dictatorship-vs-democracy-utI-1HVpeSU
+aliases:
+- /resources/utI-1HVpeSU
+- /resources/videos/quotes-dictatorship-vs-democracy-utI-1HVpeSU
 ResourceId: utI-1HVpeSU
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: utI-1HVpeSU
 source: internal
 url: /resources/videos/:slug
-slug: quotes-dictatorship-vs-democracy-utI-1HVpeSU
 layout: video
 preview: https://i.ytimg.com/vi/utI-1HVpeSU/maxresdefault.jpg
 duration: 57
 isShort: true
-aliases:
-- /resources/utI-1HVpeSU
-- /resources/videos/quotes-dictatorship-vs-democracy-utI-1HVpeSU
 aliasesArchive:
 - /resources/videos/quotes-dictatorship-vs-democracy
 - /resources/quotes-dictatorship-vs-democracy
 - quotes-dictatorship-vs-democracy-utI-1HVpeSU
+concepts: []
+categories:
+- Uncategorized
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:08:44Z
-concepts: []
 
 ---
 ## Democracy vs. Dictatorship in Agile [Leadership]({{< ref "/categories/leadership" >}}): Finding the Middle Ground 

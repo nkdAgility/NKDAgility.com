@@ -1,18 +1,17 @@
 ---
 title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
 description: Explores how poor engineering, shallow product thinking, and organisational denial lead to fragile systems, stressing that true resilience requires rigorous, real-world testing.
+date: 2025-05-12T09:00:00Z
+weight: 165
 ResourceId: LGGuvRq4g7p
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 subtitle: You don't rise to the level of your continuity plan. You fall to the level of your last real test.
-date: 2025-05-12T09:00:00Z
-weight: 165
-aliases:
-- /resources/LGGuvRq4g7p
 aliasesArchive:
 - /fragile-by-design--the-cost-of-pretending-to-be-resilient
 - /blog/fragile-by-design--the-cost-of-pretending-to-be-resilient
+concepts: []
 categories:
 - Engineering Excellence
 - Product Development
@@ -24,7 +23,8 @@ tags:
 - Site Reliability Engineering
 Watermarks:
   description: 2025-05-07T12:49:09Z
-concepts: []
+aliases:
+- /resources/LGGuvRq4g7p
 
 ---
 Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.

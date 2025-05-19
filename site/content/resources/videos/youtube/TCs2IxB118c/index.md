@@ -3,19 +3,7 @@ title: Boosting Team Morale and Engagement Through Effective Mentorship Programs
 description: Explores how long-term mentorship programmes boost team morale, engagement, and performance by fostering intrinsic motivation, collaboration, and continuous learning.
 date: 2024-09-02T07:00:19Z
 weight: 530
-ResourceId: TCs2IxB118c
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: TCs2IxB118c
-source: internal
-url: /resources/videos/:slug
 slug: boosting-team-morale-and-engagement-through-effective-mentorship-programs
-layout: video
-preview: https://i.ytimg.com/vi/TCs2IxB118c/maxresdefault.jpg
-duration: 540
-isShort: false
 aliases:
 - /resources/TCs2IxB118c
 - /resources/videos/boosting-team-morale-and-engagement-through-effective-mentorship-programs
@@ -26,9 +14,9 @@ aliasesArchive:
 - /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
 - /resources/the-power-of-engaged-teams-through-mentorship-programs
 - boosting-team-morale-and-engagement-through-effective-mentorship-programs
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Leadership
 tags:
 - Coaching
 - Mentoring
@@ -38,13 +26,25 @@ tags:
 - Team Performance
 - Personal
 - Organisational Culture
+ResourceId: TCs2IxB118c
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: TCs2IxB118c
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/TCs2IxB118c/maxresdefault.jpg
+duration: 540
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Leadership
 Watermarks:
   description: 2025-05-07T12:58:41Z
-concepts: []
 
 ---
 In today's fast-paced work environment, it's crucial to recognize that a team's morale directly impacts their engagement and, consequently, the success of the organization. When people are unhappy or disengaged, their productivity and creativity suffer. But how do we ensure our teams are not just engaged but also motivated to deliver their best work? The answer lies in understanding the core drivers of human motivation and leveraging mentorship programs to elevate [team performance]({{< ref "/tags/team-performance" >}}).

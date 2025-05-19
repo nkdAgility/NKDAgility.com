@@ -1,38 +1,38 @@
 ---
 title: Introducing Kanban for Professional Scrum Teams
 description: Learn how Kanban practices can be integrated into Professional Scrum teams to improve workflow, transparency, and delivery using the new Scrum.org PSK training and guide.
-ResourceId: CucU7DN-fJ7
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 38334
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2018-02-26
 weight: 580
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: introducing-kanban-professional-scrum-teams
 aliases:
 - /resources/CucU7DN-fJ7
+ResourceId: CucU7DN-fJ7
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 38334
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/introducing-kanban-professional-scrum-teams
 - /introducing-kanban-professional-scrum-teams
 - /introducing-kanban-for-professional-scrum-teams
 - /blog/introducing-kanban-for-professional-scrum-teams
 - /resources/blog/introducing-kanban-professional-scrum-teams
+concepts:
+- Method
+categories:
+- Product Development
 tags:
 - Software Development
 - Agile Frameworks
 - Operational Practices
-categories:
-- Product Development
 preview: nkdagility-scrum-and-kanban-1900-2-1.png
 Watermarks:
   description: 2025-05-07T13:16:18Z
-concepts:
-- Method
 
 ---
 A few weeks ago I was in Boston to visit the [Scrum]({{< ref "/categories/scrum" >}}).org offices and learn to teach the [Professional Scrum with Kanban (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training class co-taught by Steve Porter and [Daniel Vacanti](https://www.linkedin.com/in/danielvacanti/). This is a new [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) training course created by Ken Schwaber, Scrum.org, the Professional Scrum Trainer Community and Daniel Vacanti who helped to develop the [Kanban]({{< ref "/categories/kanban" >}}) Method for knowledge work. The new class was [just announced by Ken & Scrum.org](https://www.scrum.org/resources/scrumorg-introduces-scrum-kanban-course-enabling-greater-transparency-among-development) and includes a [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams) that describes Kanban within the context of the [Scrum Framework](http://scrumguides.org).

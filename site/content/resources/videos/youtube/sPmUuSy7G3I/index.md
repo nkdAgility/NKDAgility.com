@@ -3,15 +3,7 @@ title: 'Mastering Scrum: Effective Planning and Prioritisation for Agile Success
 description: Learn how to plan and prioritise effectively in Scrum by aligning with business goals, assessing value and risk, and keeping a lean, focused product backlog.
 date: 2023-03-24T07:00:30Z
 weight: 665
-ResourceId: sPmUuSy7G3I
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: sPmUuSy7G3I
-url: /resources/videos/:slug
 slug: mastering-scrum-effective-planning-and-prioritisation-for-agile-success
-layout: video
 aliases:
 - /resources/sPmUuSy7G3I
 - /resources/videos/mastering-scrum-effective-planning-and-prioritisation-for-agile-success
@@ -23,9 +15,12 @@ aliasesArchive:
 - how-does-a-scrum-team-plan-and-prioritize-work-effectively
 - /resources/videos/mastering-scrum-effective-planning-and-prioritisation-for-agile-success
 - mastering-scrum-effective-planning-and-prioritisation-for-agile-success
-preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
-duration: 312
-isShort: false
+concepts:
+- Method
+categories:
+- Product Development
+- Product Management
+- Scrum
 tags:
 - Product Backlog
 - Agile Planning
@@ -34,20 +29,25 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Customer Focus
+ResourceId: sPmUuSy7G3I
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: sPmUuSy7G3I
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
+duration: 312
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
-- Scrum
 Watermarks:
   description: 2025-05-07T13:13:32Z
-concepts:
-- Method
 
 ---
 When it comes to effective planning and prioritisation within a [Scrum]({{< ref "/categories/scrum" >}}) team, the question often arises: how do we navigate this complex landscape? It’s a challenge that many teams face, and I can assure you, it’s not a one-size-fits-all solution. The intricacies of planning and prioritisation hinge significantly on the specific business context and its overarching goals.

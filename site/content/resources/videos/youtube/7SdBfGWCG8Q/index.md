@@ -3,18 +3,7 @@ title: The Power of Building Relationships Through Immersive Learning in Scrum
 description: Explores how immersive learning in Scrum fosters strong peer relationships, enhancing collaboration, trust, and long-term growth for practitioners beyond the classroom.
 date: 2024-02-06T07:00:03Z
 weight: 1000
-ResourceId: 7SdBfGWCG8Q
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 7SdBfGWCG8Q
-source: internal
-url: /resources/videos/:slug
 slug: the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
-preview: https://i.ytimg.com/vi/7SdBfGWCG8Q/maxresdefault.jpg
-duration: 38
-isShort: true
 aliases:
 - /resources/7SdBfGWCG8Q
 - /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
@@ -26,23 +15,34 @@ aliasesArchive:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 - the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Team Collaboration
 - Team Performance
 - Scrum Team
 - Coaching
 - Social Technologies
+ResourceId: 7SdBfGWCG8Q
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 7SdBfGWCG8Q
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/7SdBfGWCG8Q/maxresdefault.jpg
+duration: 38
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:05:58Z
-concepts: []
 
 ---
 In today’s fast-paced world, learning isn’t just about acquiring knowledge—it’s about building lasting connections. This is especially true when it comes to immersive learning, where relationships formed with fellow learners play a pivotal role in enhancing the overall experience. As a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve witnessed firsthand how these connections can elevate a practitioner’s journey, allowing them to not only learn but grow alongside their peers.

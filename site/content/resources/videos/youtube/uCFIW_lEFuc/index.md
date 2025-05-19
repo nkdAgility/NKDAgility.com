@@ -3,15 +3,7 @@ title: 'Conquering Sloth in Agile: 6 Signs Your Team Might Be Stalling'
 description: Learn to spot six key signs of sloth in Agile teams, including missed deliveries, ignored feedback, rigid processes, and lack of adaptation, to improve true agility.
 date: 2023-10-20T16:01:48Z
 weight: 355
-ResourceId: uCFIW_lEFuc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: uCFIW_lEFuc
-url: /resources/videos/:slug
 slug: conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
-layout: video
 aliases:
 - /resources/uCFIW_lEFuc
 - /resources/videos/conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
@@ -24,9 +16,10 @@ aliasesArchive:
 - /resources/videos/sloth-7-deadly-sins-of-agile-
 - conquering-sloth-in-agile-6-signs-your-team-might-be-stalling
 - /resources/videos/sloth-7-deadly-sins-of-agile
-preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
-duration: 498
-isShort: false
+concepts: []
+categories:
+- Product Development
+- Scrum
 tags:
 - Agile Philosophy
 - Software Development
@@ -41,18 +34,25 @@ tags:
 - Organisational Culture
 - Product Validation
 - Value Delivery
+ResourceId: uCFIW_lEFuc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: uCFIW_lEFuc
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
+duration: 498
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:08:32Z
-concepts: []
 
 ---
 One of the seven deadly sins of Agile is sloth, and I’ve seen it manifest in various ways across teams, organisations, and [leadership]({{< ref "/categories/leadership" >}}). It’s a pervasive issue that often goes unnoticed, yet it can severely hinder our progress towards true agility. 

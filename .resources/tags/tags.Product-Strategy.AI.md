@@ -1,10 +1,11 @@
 ---
 title: Product Strategy
-abstract: Product strategy is the systematic process of establishing a clear vision and roadmap for developing a competitive and sustainable product. It involves understanding market needs, aligning product goals with organisational objectives, and creating a decision-making framework that guides product development. This strategic approach is vital as it enables teams to deliver value in a predictable and sustainable manner, ensuring that every feature and enhancement aligns with customer expectations and business outcomes. A well-defined product strategy encourages long-term thinking, allowing organisations to anticipate market changes and adapt effectively. It acts as a guiding principle for cross-functional teams, ensuring coordinated efforts focused on maximising value. By incorporating insights from customer feedback and market analysis, product strategy helps mitigate risks in product development, allowing for innovation while maintaining a clear focus on objectives. Unlike Agile frameworks, which concentrate on the execution of tasks, product strategy provides the overarching direction that informs these methodologies, ensuring that tactical decisions support a larger vision. This approach empowers teams to navigate complexity and uncertainty, ultimately driving sustained success in a competitive environment.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Product strategy is the systematic process of establishing a clear vision and roadmap for developing a competitive and sustainable product. It involves understanding market needs, aligning product goals with organisational objectives, and creating a decision-making framework that guides product development. This strategic approach is vital as it enables teams to deliver value in a predictable and sustainable manner, ensuring that every feature and enhancement aligns with customer expectations and business outcomes. A well-defined product strategy encourages long-term thinking, allowing organisations to anticipate market changes and adapt effectively. It acts as a guiding principle for cross-functional teams, ensuring coordinated efforts focused on maximising value. By incorporating insights from customer feedback and market analysis, product strategy helps mitigate risks in product development, allowing for innovation while maintaining a clear focus on objectives. Unlike Agile frameworks, which concentrate on the execution of tasks, product strategy provides the overarching direction that informs these methodologies, ensuring that tactical decisions support a larger vision. This approach empowers teams to navigate complexity and uncertainty, ultimately driving sustained success in a competitive environment.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
+weight: 740
 description: Defining a vision and roadmap to create a competitive and sustainable product.
 Instructions: |-
   **Use this category only for discussions on Product Strategy.**  
@@ -30,8 +31,13 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:28:18
+icon: fa-map-signs
 concepts:
 - Strategy
+categories:
+- Product Management
+- Product Development
+tags: []
 
 ---
 Product strategy is the process of defining a clear vision and roadmap for creating a competitive and sustainable product. It encompasses understanding market needs, aligning product goals with organisational objectives, and establishing a framework for decision-making that guides product development. This strategic approach is crucial as it enables teams to deliver value predictably and sustainably, ensuring that every feature and enhancement is purposefully aligned with customer expectations and business outcomes.

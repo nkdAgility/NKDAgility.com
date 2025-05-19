@@ -3,14 +3,7 @@ title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpo
 description: Explores the financial, productivity, and reputational impacts of poor-quality code, and offers practical steps to turn code quality into a competitive advantage.
 date: 2024-11-19T09:58:28Z
 weight: 230
-ResourceId: 1AO6FFBlE4Y
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 1AO6FFBlE4Y
-source: internal
-url: /resources/videos/:slug
+slug: the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 aliases:
 - /resources/1AO6FFBlE4Y
 - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
@@ -23,9 +16,9 @@ aliasesArchive:
 - the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 - /resources/videos/the-high-cost-of-poor-quality-code
 - /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
-preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
-duration: 600
-isShort: false
+concepts: []
+categories:
+- Engineering Excellence
 tags:
 - Engineering Practices
 - Operational Practices
@@ -37,18 +30,25 @@ tags:
 - Pragmatic Thinking
 - Working Software
 - Product Delivery
+ResourceId: 1AO6FFBlE4Y
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 1AO6FFBlE4Y
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
+duration: 600
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-slug: the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
 layout: video
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:57:19Z
-concepts: []
 
 ---
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower

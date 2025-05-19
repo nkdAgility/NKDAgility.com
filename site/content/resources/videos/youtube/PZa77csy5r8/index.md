@@ -3,16 +3,7 @@ title: 'Mastering Technical Debt: Strategies to Transform Challenges into Opport
 description: Explains technical debt in software development, its impact on teams, and practical strategies to identify, manage, and reduce it for long-term productivity and code quality.
 date: 2024-11-28T06:00:11Z
 weight: 205
-ResourceId: PZa77csy5r8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: PZa77csy5r8
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
-layout: video
 aliases:
 - /resources/PZa77csy5r8
 - /resources/videos/mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
@@ -22,24 +13,33 @@ aliasesArchive:
 - /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/technical-debt-management-for-long-term-quality
 - mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
-preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
-duration: 459
-isShort: false
+concepts: []
+categories:
+- Engineering Excellence
 tags:
 - Technical Debt
 - Technical Mastery
 - Pragmatic Thinking
 - Software Development
+ResourceId: PZa77csy5r8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: PZa77csy5r8
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
+duration: 459
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:57:01Z
-concepts: []
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in the tech community, but what does it really mean? As someone who has navigated the complexities of [software development]({{< ref "/tags/software-development" >}}) for years, I can tell you that technical debt is a significant challenge for organisations. In simple terms, technical debt refers to the future costs incurred when you or your team opt for quick, short-term solutions instead of more robust, long-term approaches. 

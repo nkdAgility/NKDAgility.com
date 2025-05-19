@@ -3,19 +3,7 @@ title: Is Your Engineering Culture Ready to Scale with Your Technology?
 description: Explores why scaling technology alone isn’t enough, highlighting the need for engineering cultures that support collaboration, DevOps, and continuous learning as teams grow.
 date: 2025-02-20T07:33:26Z
 weight: 750
-ResourceId: yu9CmrDiBPc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: yu9CmrDiBPc
-source: internal
-url: /resources/videos/:slug
 slug: is-your-engineering-culture-ready-to-scale-with-your-technology
-layout: video
-preview: https://i.ytimg.com/vi/yu9CmrDiBPc/maxresdefault.jpg
-duration: 97
-isShort: false
 aliases:
 - /resources/yu9CmrDiBPc
 - /resources/videos/is-your-engineering-culture-ready-to-scale-with-your-technology
@@ -29,21 +17,33 @@ aliasesArchive:
 - /resources/videos/is-your-engineering-culture-ready-to-scale-with-your-technology
 - /resources/videos/tech-can-scale-but-can-your-culture
 - is-your-engineering-culture-ready-to-scale-with-your-technology
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Ethos
+categories:
+- DevOps
 tags:
 - Social Technologies
 - Organisational Culture
 - Sociotechnical Systems
+ResourceId: yu9CmrDiBPc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: yu9CmrDiBPc
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/yu9CmrDiBPc/maxresdefault.jpg
+duration: 97
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- DevOps
 Watermarks:
   description: 2025-05-07T12:49:33Z
-concepts:
-- Ethos
 
 ---
 Hex stacks can scale, but can your culture? This is a question that resonates deeply with me, and I believe it’s one of the most critical challenges we face in today’s fast-paced tech landscape. [Scaling]({{< ref "/tags/scaling" >}}) technology is often seen as the straightforward part of the equation. You simply add more servers, more clusters, and more automation, and voilà, you’re done. However, if your engineering culture doesn’t evolve alongside your technology, you’re setting yourself up for a fall.

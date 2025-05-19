@@ -3,15 +3,7 @@ title: 'Mastering Scrum: Key Insights on Definition of Done, Spikes, and Managin
 description: 'Explains key Scrum concepts: distinguishing Definition of Done from acceptance criteria, using spikes vs. refinement, and strategies for managing ad hoc work in sprints.'
 date: 2020-06-04T05:33:42Z
 weight: 1000
-ResourceId: gc8Pq_5CepY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: gc8Pq_5CepY
-url: /resources/videos/:slug
 slug: mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
-layout: video
 aliases:
 - /resources/gc8Pq_5CepY
 - /resources/videos/mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
@@ -22,25 +14,33 @@ aliasesArchive:
 - /resources/3rd-june-2020-office-hours-ask-me-anything
 - /resources/videos/mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
 - mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
-preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg
-duration: 1686
-isShort: false
+concepts:
+- Artifact
+categories:
+- Scrum
+- Product Development
 tags:
 - Software Development
 - Professional Scrum
+ResourceId: gc8Pq_5CepY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: gc8Pq_5CepY
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg
+duration: 1686
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:15:40Z
-concepts:
-- Artifact
 
 ---
 Hello everyone, and welcome back to my office hours! Today, I’m excited to dive into some of the questions that have come up over the past week. As always, I host this event every Wednesday at 6 p.m. UK time, where I gather interesting queries and do my best to provide insightful answers. So, let’s get started!

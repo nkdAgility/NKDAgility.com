@@ -2,15 +2,8 @@
 title: 'Stop Paying the Hidden Costs of Weak Delivery: Why a Strong Definition of Done Transforms Your Team’s Results'
 description: Stop paying the hidden costs of weak delivery. Discover how a strong, shared definition of done builds trust, quality, and real agility in your team.
 date: 2025-05-21T06:00:00Z
-videoId: xxdg6WPNcDc
-ResourceId: xxdg6WPNcDc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
-source: youtube
-url: /resources/videos/:slug
+weight: 130
 slug: 3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
-layout: video
 aliases:
 - /resources/xxdg6WPNcDc
 - /resources/videos/3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
@@ -19,17 +12,8 @@ aliasesArchive:
 - /resources/videos/3-the-cost-of-weak-definitions-of-done
 - 3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
 - /resources/videos/stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
-preview: https://i9.ytimg.com/vi/xxdg6WPNcDc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBj8suPfiSHxrqDQn0oep7IwNm1rg
-duration: 60
-resourceTypes:
-- video
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T20:36:57Z
-ResourceContentOrigin: ai
+concepts:
+- Artifact
 categories:
 - Engineering Excellence
 - Product Development
@@ -49,9 +33,25 @@ tags:
 - Organisational Agility
 - Working Software
 - Increment
-weight: 130
-concepts:
-- Artifact
+ResourceId: xxdg6WPNcDc
+ResourceImport: true
+ResourceType: videos
+videoId: xxdg6WPNcDc
+ResourceImportSource: Youtube
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i9.ytimg.com/vi/xxdg6WPNcDc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBj8suPfiSHxrqDQn0oep7IwNm1rg
+duration: 60
+resourceTypes:
+- video
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T20:36:57Z
+ResourceContentOrigin: ai
 
 ---
 Every shortcut adds to your technical debt. I see it time and again: teams under pressure, deadlines looming, and the temptation to cut corners becomes almost irresistible. But let me be clear—every time you skip quality standards, every time you fudge what “done” means, you’re not saving time. You’re simply deferring the pain. You’re creating future rework, and that bill always comes due.

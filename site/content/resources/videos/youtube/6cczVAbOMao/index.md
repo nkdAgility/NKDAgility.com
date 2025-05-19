@@ -3,18 +3,7 @@ title: How critical is a Product Owner in developing a great Product Backlog?
 description: Explains why a product owner is essential for shaping, prioritising, and maintaining a focused, lean product backlog that drives effective Agile product development.
 date: 2023-05-31T07:00:05Z
 weight: 790
-ResourceId: 6cczVAbOMao
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 6cczVAbOMao
-source: internal
-url: /resources/videos/:slug
 slug: how-critical-is-a-product-owner-in-developing-a-great-product-backlog
-preview: https://i.ytimg.com/vi/6cczVAbOMao/maxresdefault.jpg
-duration: 192
-isShort: false
 aliases:
 - /resources/6cczVAbOMao
 - /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog
@@ -24,9 +13,12 @@ aliasesArchive:
 - /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 - /resources/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 - how-critical-is-a-product-owner-in-developing-a-great-product-backlog
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Method
+categories:
+- Product Management
+- Product Development
+- Scrum
 tags:
 - Product Backlog
 - Product Owner
@@ -36,17 +28,25 @@ tags:
 - Product Delivery
 - Agile Planning
 - Scrum Team
+ResourceId: 6cczVAbOMao
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 6cczVAbOMao
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/6cczVAbOMao/maxresdefault.jpg
+duration: 192
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Management
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:12:01Z
-concepts:
-- Method
 
 ---
 ## The Pivotal Role of a [Product Owner]({{< ref "/tags/product-owner" >}}) in Cultivating a Stellar [Product Backlog]({{< ref "/tags/product-backlog" >}})

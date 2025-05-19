@@ -3,19 +3,7 @@ title: Overview of Applying Professional Kanban course.
 description: Learn how to implement Kanban in any workflow, use key metrics and visualisations, and drive continuous improvement for better project management and value delivery.
 date: 2024-02-21T07:00:11Z
 weight: 1000
-ResourceId: ZQu2uSt1xxk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: ZQu2uSt1xxk
-source: internal
-url: /resources/videos/:slug
 slug: overview-of-applying-professional-kanban-course
-layout: video
-preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
-duration: 104
-isShort: false
 aliases:
 - /resources/ZQu2uSt1xxk
 - /resources/videos/overview-of-applying-professional-kanban-course
@@ -30,20 +18,32 @@ aliasesArchive:
 - /resources/videos/overview-of-applying-professional-kanban-course
 - overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course.
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Tenet
+categories:
+- Product Development
 tags:
 - Agile Frameworks
 - Software Development
+ResourceId: ZQu2uSt1xxk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: ZQu2uSt1xxk
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
+duration: 104
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:40Z
-concepts:
-- Tenet
 
 ---
 ### Understanding and Applying [Kanban]({{< ref "/categories/kanban" >}}): The Professional Kanban Course

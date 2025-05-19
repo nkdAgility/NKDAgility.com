@@ -3,13 +3,6 @@ title: 'Empathy in Agile: Building Trust and Stronger Relationships for Success'
 description: Explores how empathy, trust, and respect strengthen agile teams, improve collaboration, reduce bias, and foster continuous improvement in organisations and with customers.
 date: 2023-12-12T11:00:04Z
 weight: 1000
-ResourceId: 2cSsuEzGkvU
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 2cSsuEzGkvU
-url: /resources/videos/:slug
 slug: empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU
 aliases:
 - /resources/2cSsuEzGkvU
@@ -21,9 +14,9 @@ aliasesArchive:
 - /resources/videos/-shorts-7-virtues-of-agile-humility
 - /resources/-shorts-7-virtues-of-agile-humility
 - empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU
-preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
-duration: 53
-isShort: true
+concepts: []
+categories:
+- Product Development
 tags:
 - Agile Philosophy
 - Agile Values and Principles
@@ -34,6 +27,16 @@ tags:
 - Agile Leadership
 - Coaching
 - Social Technologies
+ResourceId: 2cSsuEzGkvU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 2cSsuEzGkvU
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
+duration: 53
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,11 +44,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:07:02Z
-concepts: []
 
 ---
 In my journey through the world of agility, I've come to realise that the foundation of successful agile practices lies not just in frameworks or methodologies, but in the relationships we cultivate. Bringing modesty and respect for others into our conversations is paramount. It’s about building trust—trust that extends beyond our immediate teams to encompass the entire organisation and even our customers.

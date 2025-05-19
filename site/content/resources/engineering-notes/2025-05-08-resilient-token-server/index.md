@@ -1,14 +1,18 @@
 ---
 title: 'Building a Resilient Token Server: Engineering for Flow, Fault Tolerance, and Speed'
 description: Explains how to engineer a robust, fault-tolerant token counting server using FastAPI and PowerShell, covering error handling, retries, fallbacks, and resilient workflows.
+date: 2025-05-08T09:00:00Z
+weight: 260
 ResourceId: mjsboLP-N9P
 ResourceImport: false
 ResourceType: engineering-notes
 ResourceContentOrigin: human
-date: 2025-05-08T09:00:00Z
-weight: 260
+Watermarks:
+  description: 2025-05-07T12:49:10Z
 aliases:
 - /resources/mjsboLP-N9P
+concepts:
+- Tool
 categories:
 - Engineering Excellence
 - DevOps
@@ -25,10 +29,6 @@ tags:
 - Technical Excellence
 - Site Reliability Engineering
 - System Configuration
-Watermarks:
-  description: 2025-05-07T12:49:10Z
-concepts:
-- Tool
 
 ---
 Modern engineering is about making sure systems keep running reliably under load, failure, and unpredictable conditions. When I set out to build a fast, dependable way to calculate OpenAI token counts for my batch classification pipeline, I didn’t want a quick script or a one-off tool. I wanted a **resilient, observable, fault-tolerant system** that fit tightly into my PowerShell-first workflow and could hold up in real conditions, not just lab tests.

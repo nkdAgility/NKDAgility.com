@@ -1,10 +1,11 @@
 ---
 title: Lean Startup
-abstract: Lean Startup is a methodology that integrates Lean principles into the development of new business ideas, prioritising rapid experimentation and validated learning. Originating from the need to minimise risk and investment in product development, it advocates for the creation of a minimum viable product (MVP) to test assumptions about customer needs and market viability. This approach allows teams to collect real-time feedback, facilitating informed decisions to pivot or persevere based on empirical evidence rather than mere speculation. By cultivating a culture of experimentation, Lean Startup enables organisations to innovate continuously and adapt quickly to shifting market dynamics. It promotes cross-functional collaboration, ensuring that insights from diverse stakeholders shape product development. While it shares similarities with Agile methodologies, Lean Startup uniquely emphasises the validation of business models and market fit, thereby supporting long-term sustainability. This systemic approach embeds learning within the organisation, fostering resilience and adaptability in a constantly changing environment. Ultimately, Lean Startup enhances the likelihood of delivering products that meet genuine customer demands, optimising resource allocation and aligning organisational goals with customer needs.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Lean Startup is a methodology that integrates Lean principles into the development of new business ideas, prioritising rapid experimentation and validated learning. Originating from the need to minimise risk and investment in product development, it advocates for the creation of a minimum viable product (MVP) to test assumptions about customer needs and market viability. This approach allows teams to collect real-time feedback, facilitating informed decisions to pivot or persevere based on empirical evidence rather than mere speculation. By cultivating a culture of experimentation, Lean Startup enables organisations to innovate continuously and adapt quickly to shifting market dynamics. It promotes cross-functional collaboration, ensuring that insights from diverse stakeholders shape product development. While it shares similarities with Agile methodologies, Lean Startup uniquely emphasises the validation of business models and market fit, thereby supporting long-term sustainability. This systemic approach embeds learning within the organisation, fostering resilience and adaptability in a constantly changing environment. Ultimately, Lean Startup enhances the likelihood of delivering products that meet genuine customer demands, optimising resource allocation and aligning organisational goals with customer needs.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
+weight: 650
 description: Applying Lean principles to rapidly test and validate business ideas with minimal risk.
 Instructions: |-
   **Use this category only for discussions on Lean Startup.**  
@@ -30,8 +31,27 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:36:34
+icon: fa-flask-vial
 concepts:
 - Method
+categories:
+- Product Development
+- Lean
+tags:
+- Entrepreneurship
+- Product Validation
+- Market Adaptability
+- Ability to Innovate
+- Lean Principles
+- Product Discovery
+- Social Technologies
+- Pragmatic Thinking
+- Hypothesis Driven Development
+- Continuous Improvement
+- Customer Focus
+- Experimentation
+- Organisational Agility
+- Minimum Viable Product
 
 ---
 Lean Startup is a methodology that applies Lean principles to the development of new business ideas, focusing on rapid experimentation and validated learning. It emphasises the importance of building a minimum viable product (MVP) to test hypotheses about customer needs and market viability with minimal risk and investment. This approach allows teams to gather real-time feedback, enabling them to pivot or persevere based on empirical evidence rather than assumptions.

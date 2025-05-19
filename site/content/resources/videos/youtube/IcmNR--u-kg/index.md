@@ -3,16 +3,7 @@ title: "Transform Your Team's Skills: The Power of Immersive Learning in the Wor
 description: Discover how immersive learning boosts workplace skills by connecting theory to real tasks, encouraging feedback, and supporting growth through coaching and collaboration.
 date: 2023-07-31T07:00:12Z
 weight: 840
-ResourceId: IcmNR--u-kg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: IcmNR--u-kg
-source: youtube
-url: /resources/videos/:slug
 slug: transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
-layout: video
 aliases:
 - /resources/IcmNR--u-kg
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
@@ -25,21 +16,30 @@ aliasesArchive:
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-in-terms-of-entry-level-capabilities
 - transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
 - /resources/videos/transform-your-team-s-skills-the-power-of-immersive-learning-in-the-workplace
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Continuous Learning
+ResourceId: IcmNR--u-kg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: IcmNR--u-kg
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/IcmNR--u-kg/maxresdefault.jpg
 duration: 154
 isShort: false
-tags:
-- Continuous Learning
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:30Z
-concepts: []
 
 ---
 When it comes to enhancing entry-level capabilities in the workplace, I’ve found that immersive learning experiences truly change the game. In my experience, traditional training methods often fall short. We typically find ourselves in a two-day training class, inundated with theory that feels disconnected from the realities of our jobs. This approach can lead to what I call "single loop learning," where participants absorb content but struggle to apply it effectively in their day-to-day roles.

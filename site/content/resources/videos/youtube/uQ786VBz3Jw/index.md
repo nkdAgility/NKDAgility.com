@@ -3,15 +3,7 @@ title: 'Mastering Sprint Planning: Key Principles for Agile Success'
 description: Learn essential principles for effective Sprint planning in Agile, including understanding the product backlog, setting clear goals, and fostering true team collaboration.
 date: 2023-05-26T14:00:37Z
 weight: 665
-ResourceId: uQ786VBz3Jw
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: uQ786VBz3Jw
-url: /resources/videos/:slug
 slug: mastering-sprint-planning-key-principles-for-agile-success
-layout: video
 aliases:
 - /resources/uQ786VBz3Jw
 - /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
@@ -22,9 +14,12 @@ aliasesArchive:
 - /resources/what-is-your-1-tip-for-effective-sprint-planning-
 - /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
 - mastering-sprint-planning-key-principles-for-agile-success
-preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
-duration: 246
-isShort: false
+concepts:
+- Principle
+categories:
+- Scrum
+- Product Development
+- Product Management
 tags:
 - Agile Planning
 - Agile Planning Tools
@@ -37,20 +32,25 @@ tags:
 - Pragmatic Thinking
 - Team Collaboration
 - Team Performance
+ResourceId: uQ786VBz3Jw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: uQ786VBz3Jw
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
+duration: 246
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:12:09Z
-concepts:
-- Principle
 
 ---
 When it comes to effective Sprint planning, I’ve learned that there are a couple of key principles that can make all the difference. Drawing from my experiences, I want to share my top tips to help you and your team navigate this crucial phase of the Agile process.

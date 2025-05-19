@@ -3,15 +3,7 @@ title: 'The Crucial Role of Competence: How Knowledgeable Scrum Masters Drive Te
 description: Scrum Masters with deep knowledge and competence enable teams to deliver better products, drive business outcomes, and foster real improvement in software development.
 date: 2024-10-21T05:32:11Z
 weight: 250
-ResourceId: r9aCEFpUHWU
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: r9aCEFpUHWU
-url: /resources/videos/:slug
 slug: the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
-layout: video
 aliases:
 - /resources/r9aCEFpUHWU
 - /resources/videos/the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
@@ -21,9 +13,11 @@ aliasesArchive:
 - /resources/videos/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - /resources/how-does-the-lack-of-basic-skills-among-scrum-masters-impact-teams-and-organizations
 - the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success
-preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
-duration: 466
-isShort: false
+concepts: []
+categories:
+- Scrum
+- Product Development
+- Technical Leadership
 tags:
 - Software Development
 - Competence
@@ -32,19 +26,25 @@ tags:
 - Scrum Team
 - Team Performance
 - Professional Scrum
+ResourceId: r9aCEFpUHWU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: r9aCEFpUHWU
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/r9aCEFpUHWU/maxresdefault.jpg
+duration: 466
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
-- Technical Leadership
 Watermarks:
   description: 2025-05-07T12:57:28Z
-concepts: []
 
 ---
 When I reflect on my experiences as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one thing becomes abundantly clear: the effectiveness of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) hinges on their understanding of the philosophies, theories, and practices relevant to the team they support. Without this foundational knowledge, the impact on both the team and the organisation can be profound. 

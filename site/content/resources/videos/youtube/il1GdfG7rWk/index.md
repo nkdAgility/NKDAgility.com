@@ -3,19 +3,7 @@ title: 'Mastering Product Backlog Management: Essential Skills for Product Owner
 description: Learn the core skills and best practices for effective product backlog management, including risk, value, sizing, learning, and refinement to maximise product delivery.
 date: 2023-12-18T07:00:15Z
 weight: 1000
-ResourceId: il1GdfG7rWk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: il1GdfG7rWk
-source: internal
-url: /resources/videos/:slug
 slug: mastering-product-backlog-management-essential-skills-for-product-owners
-layout: video
-preview: https://i.ytimg.com/vi/il1GdfG7rWk/maxresdefault.jpg
-duration: 387
-isShort: false
 aliases:
 - /resources/il1GdfG7rWk
 - /resources/videos/mastering-product-backlog-management-essential-skills-for-product-owners
@@ -26,9 +14,11 @@ aliasesArchive:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-4
 - mastering-product-backlog-management-essential-skills-for-product-owners
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
+- Product Management
+- Scrum
 tags:
 - Product Backlog
 - Product Owner
@@ -41,15 +31,25 @@ tags:
 - Pragmatic Thinking
 - Agile Planning Tools
 - Software Development
+ResourceId: il1GdfG7rWk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: il1GdfG7rWk
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/il1GdfG7rWk/maxresdefault.jpg
+duration: 387
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
-- Scrum
 Watermarks:
   description: 2025-05-07T13:06:52Z
-concepts: []
 
 ---
 As a new [product owner]({{< ref "/tags/product-owner" >}}), one of the most crucial responsibilities you'll face is managing your [product backlog]({{< ref "/tags/product-backlog" >}}). It’s the backbone of successful [product delivery]({{< ref "/tags/product-delivery" >}}). The product backlog is more than a to-do list—it's the foundation for delivering maximum value. In this post, we'll walk you through the key elements of product backlog management, provide actionable insights, and share practical tips for mastering this essential skill.

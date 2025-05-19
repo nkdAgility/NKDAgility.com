@@ -3,16 +3,7 @@ title: 'Building a High-Performance Delivery Engine: Unlocking Success Through C
 description: Explores how competence, collaboration, and agile philosophies drive high-performance software delivery, focusing on business value, continuous improvement, and team empowerment.
 date: 2024-12-03T06:30:00Z
 weight: 305
-ResourceId: quFj6dy5M7E
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: quFj6dy5M7E
-source: youtube
-url: /resources/videos/:slug
 slug: building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
-layout: video
 aliases:
 - /resources/quFj6dy5M7E
 - /resources/videos/building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
@@ -22,25 +13,34 @@ aliasesArchive:
 - /resources/videos/building-a-high-performance-delivery-engine
 - /resources/building-a-high-performance-delivery-engine
 - building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration
-preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
-duration: 266
-isShort: false
+concepts: []
+categories:
+- Product Development
+- Product Management
 tags:
 - Competence
 - Pragmatic Thinking
 - Product Delivery
 - Value Delivery
+ResourceId: quFj6dy5M7E
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: quFj6dy5M7E
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i9.ytimg.com/vi/quFj6dy5M7E/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAiaNZF3dxererISCSR8zTqhCN2mw
+duration: 266
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T12:56:55Z
-concepts: []
 
 ---
 Building a high-performance delivery engine within an organisation is no small feat. From my experience, it requires a deep understanding of various contexts and a level of [competence]({{< ref "/tags/competence" >}}) that is often underestimated. Many organisations focus primarily on technical skills, but to truly excel in software delivery, we need to broaden our perspective.

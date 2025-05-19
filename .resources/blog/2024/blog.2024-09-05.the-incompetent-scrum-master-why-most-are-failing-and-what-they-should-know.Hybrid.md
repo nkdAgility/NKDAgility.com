@@ -1,22 +1,22 @@
 ---
 title: Why Most Scrum Masters Are Failing and What They Should Know
 description: Many Scrum Masters lack core Scrum knowledge and technical skills, leading to poor team support. Learn key competencies needed for effective, measurable impact.
-ResourceId: VTjU5Wl2XWU
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 51730
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2024-09-05
 weight: 190
+slug: the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+aliases:
+- /resources/VTjU5Wl2XWU
+ResourceId: VTjU5Wl2XWU
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 51730
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
-slug: the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
-aliases:
-- /resources/VTjU5Wl2XWU
 aliasesArchive:
 - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
@@ -24,6 +24,12 @@ aliasesArchive:
 - /why-most-scrum-masters-are-failing-and-what-they-should-know
 - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
 - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+concepts:
+- Method
+categories:
+- Scrum
+- Technical Leadership
+- Product Development
 tags:
 - Software Development
 - Competence
@@ -35,17 +41,11 @@ tags:
 - Operational Practices
 - Professional Scrum
 - Team Performance
-categories:
-- Scrum
-- Technical Leadership
-- Product Development
 sameAs:
 - https://www.reddit.com/r/scrum/comments/1f9jjqn/the_age_of_the_incompitent_scrum_master/
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 Watermarks:
   description: 2025-05-07T12:58:35Z
-concepts:
-- Method
 
 ---
 As a [DevOps]({{< ref "/categories/devops" >}}) consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software [product development]({{< ref "/categories/product-development" >}}). It’s astonishing how many [Scrum]({{< ref "/categories/scrum" >}}) Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.

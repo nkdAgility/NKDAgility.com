@@ -3,19 +3,7 @@ title: How would you like to be remembered as a Professional Scrum Trainer?  Wh
 description: 'Shares the top three values guiding a Professional Scrum Trainer: integrity, honesty, and approachability, with a focus on transparency, truth, and helpful support.'
 date: 2023-04-19T07:00:06Z
 weight: 1000
-ResourceId: Dl5v4j1f-WE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Dl5v4j1f-WE
-source: internal
-url: /resources/videos/:slug
 slug: how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
-layout: video
-preview: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg
-duration: 537
-isShort: false
 aliases:
 - /resources/Dl5v4j1f-WE
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
@@ -29,18 +17,30 @@ aliasesArchive:
 - /resources/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 - /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer
 - how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
+concepts: []
+categories:
+- Scrum
+tags:
+- Personal
+ResourceId: Dl5v4j1f-WE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Dl5v4j1f-WE
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg
+duration: 537
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Personal
 resourceTypes:
 - video
-categories:
-- Scrum
 Watermarks:
   description: 2025-05-07T13:13:11Z
-concepts: []
 
 ---
 ## My Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer Legacy: What Matters Most to Me?

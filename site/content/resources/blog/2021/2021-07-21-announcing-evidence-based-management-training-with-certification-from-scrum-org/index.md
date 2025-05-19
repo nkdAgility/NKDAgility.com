@@ -1,18 +1,8 @@
 ---
 title: Announcing Professional Agile Leadership with Evidence-Based Management Training  (PAL-EBM) from Scrum.org
 description: Learn about Scrum.org’s new PAL-EBM training, which helps leaders use evidence-based management and custom metrics to align teams with organisational vision and goals.
-ResourceId: XuePm2RAZa0
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 46257
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2021-07-21
 weight: 750
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: announcing-evidence-based-management-training-with-certification-from-scrum-org
 aliases:
 - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
@@ -31,18 +21,28 @@ aliasesArchive:
 - /announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
 - /blog/announcing-professional-agile-leadership-with-evidence-based-management-training--(pal-ebm)-from-scrum-org
 - /resources/blog/announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum.org
-tags:
-- Evidence Based Leadership
-- Evidence Based Management
-- Decision Making
+concepts: []
 categories:
 - Leadership
 - Product Management
 - Scrum
+tags:
+- Evidence Based Leadership
+- Evidence Based Management
+- Decision Making
+ResourceId: XuePm2RAZa0
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 46257
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 Watermarks:
   description: 2025-05-07T13:14:55Z
-concepts: []
 
 ---
 I have been an [accredited Evidence-based Management Expert with Scrum.org](https://www.scrum.org/ebm-experts) for the last 7 years and I have been using the [Evidence-based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) to encourage leaders to make decisions based on evidence instead of gut feel.

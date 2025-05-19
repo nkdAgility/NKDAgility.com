@@ -3105,5 +3105,24 @@
     "reasoning": "The content is a technical guide for upgrading legacy .NET and ASP.NET MVC projects to SDK-style, focusing on engineering benefits like maintainability, modern tooling, and future readiness. While it references working with a customer and improving their engineering system, it does not explicitly discuss defining, measuring, or prioritising customer value, nor does it address feedback loops, customer outcomes, or evidence-based alignment with customer needs. The main audience is technical practitioners, but the focus is on internal process improvement rather than customer-centric delivery. There are no outdated practices or contradictory tones, so no penalties are applied. The low confidence score reflects the lack of direct or substantive alignment with the Customer Focus category.",
     "reasoning_summary": "This content is a technical migration guide focused on engineering improvements, not on defining or delivering customer value. It lacks discussion of customer outcomes, feedback, or evidence-based prioritisation, so it only weakly fits the Customer Focus category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "2mdv7QE2nIt",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:53:55",
+    "ai_confidence": 2.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content focuses on technical steps for migrating legacy .NET and ASP.NET MVC projects to SDK-style, covering tooling, project file changes, and debugging. There is no explicit mention or discussion of the Definition of Workflow as per Kanban or agile contexts. The main ideas are about project structure, build systems, and modernisation, not about workflow policies, WIP limits, or process visibility. The audience is technical, but the content is not aligned with the category's scope.",
+    "reasoning_summary": "This content is about upgrading .NET projects, not defining or discussing workflow in a Kanban or agile sense. It lacks references to workflow policies, WIP limits, or process improvement models, so it does not fit the Definition of Workflow category.",
+    "level": "Ignored"
   }
 }

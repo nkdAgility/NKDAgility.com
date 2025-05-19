@@ -3,19 +3,7 @@ title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV 
 description: Learn to identify, challenge, and validate assumptions in product development, avoid the “Feature Factory” trap, and build products that truly meet user needs.
 date: 2024-08-09T05:27:35Z
 weight: 1000
-ResourceId: ucTJ1fe1CvQ
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: ucTJ1fe1CvQ
-source: internal
-url: /resources/videos/:slug
 slug: unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
-layout: video
-preview: https://i.ytimg.com/vi/ucTJ1fe1CvQ/maxresdefault.jpg
-duration: 355
-isShort: false
 aliases:
 - /resources/ucTJ1fe1CvQ
 - /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
@@ -26,22 +14,34 @@ aliasesArchive:
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview
 - unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
+- Product Management
 tags:
 - Product Discovery
 - Pragmatic Thinking
 - Customer Focus
 - Continuous Learning
+ResourceId: ucTJ1fe1CvQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: ucTJ1fe1CvQ
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/ucTJ1fe1CvQ/maxresdefault.jpg
+duration: 355
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:02:16Z
-concepts: []
 
 ---
 ## **Why the PPDV Course Was Created**

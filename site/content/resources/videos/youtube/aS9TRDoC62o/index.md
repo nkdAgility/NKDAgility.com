@@ -3,19 +3,7 @@ title: If a client hasn't considered DevOps consulting as part of their Agile Co
 description: DevOps consulting enhances Agile by improving collaboration, accelerating delivery, and ensuring quality, making software development more efficient and resilient.
 date: 2023-08-21T07:00:01Z
 weight: 220
-ResourceId: aS9TRDoC62o
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: aS9TRDoC62o
-source: internal
-url: /resources/videos/:slug
 slug: if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
-layout: video
-preview: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg
-duration: 198
-isShort: false
 aliases:
 - /resources/aS9TRDoC62o
 - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
@@ -30,23 +18,35 @@ aliasesArchive:
 - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should
 - if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 - /resources/videos/if-a-client-hasn-t-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-tags:
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
-resourceTypes:
-- video
+concepts:
+- Strategy
 categories:
 - DevOps
 - Engineering Excellence
 - Technical Leadership
+tags:
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+ResourceId: aS9TRDoC62o
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: aS9TRDoC62o
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg
+duration: 198
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+resourceTypes:
+- video
 Watermarks:
   description: 2025-05-07T13:09:58Z
-concepts:
-- Strategy
 
 ---
 ## Why Agile Alone Isn't Enough Without [DevOps]({{< ref "/categories/devops" >}}) Consulting 

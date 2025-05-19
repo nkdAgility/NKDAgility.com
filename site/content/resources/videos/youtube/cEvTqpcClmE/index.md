@@ -3,19 +3,7 @@ title: 'Unlocking Legacy Systems: How to Embrace Automation and Drive Innovation
 description: Learn how to automate legacy systems by shifting organisational mindset, adopting DevOps practices, and making incremental improvements to boost efficiency and innovation.
 date: 2025-04-28T06:00:34Z
 weight: 500
-ResourceId: cEvTqpcClmE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: cEvTqpcClmE
-source: internal
-url: /resources/videos/:slug
 slug: unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
-layout: video
-preview: https://i.ytimg.com/vi/cEvTqpcClmE/maxresdefault.jpg
-duration: 91
-isShort: false
 aliases:
 - /resources/cEvTqpcClmE
 - /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
@@ -29,17 +17,29 @@ aliasesArchive:
 - 5-tools-that-scrum-masters-love-part-1
 - /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
 - unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: cEvTqpcClmE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: cEvTqpcClmE
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/cEvTqpcClmE/maxresdefault.jpg
+duration: 91
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T12:49:12Z
-concepts: []
 
 ---
 Think legacy systems can't be automated? Think again. I’ve encountered this misconception time and again in my journey through the tech landscape. Many organisations assume that because a system is old, it’s untouchable; that automation is only for modern, cloud-native systems. This couldn’t be further from the truth. In fact, I’ve found that the most significant efficiency gains often come from tackling those outdated, cumbersome processes that everyone else has written off.

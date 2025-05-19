@@ -3,15 +3,7 @@ title: 'Illuminate Your Workflow: Harnessing Candan Strategies for Continuous Im
 description: Learn how Candan strategies use flow metrics and transparency to reveal workflow issues, drive continuous improvement, and support data-driven decision-making in teams.
 date: 2024-03-08T07:00:31Z
 weight: 355
-ResourceId: pw_8gbaWZC4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: pw_8gbaWZC4
-url: /resources/videos/:slug
 slug: illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
-layout: video
 aliases:
 - /resources/pw_8gbaWZC4
 - /resources/videos/illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
@@ -22,27 +14,35 @@ aliasesArchive:
 - /resources/how-top-teams-use-pull-systems!
 - /resources/videos/how-top-teams-use-pull-systems
 - illuminate-your-workflow-harnessing-candan-strategies-for-continuous-improvement-and-transparency
-preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
-duration: 294
-isShort: false
+concepts:
+- Principle
+categories:
+- Product Development
 tags:
 - Metrics and Learning
 - Continuous Improvement
 - Operational Practices
 - Transparency
 - Pragmatic Thinking
+ResourceId: pw_8gbaWZC4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: pw_8gbaWZC4
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
+duration: 294
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:25Z
-concepts:
-- Principle
 
 ---
 One of the most pivotal aspects of a Caman strategy is the [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) of our systems and workflows. After defining our workflow and documenting how we intend to operate, the next step is to actively monitor our ongoing work. This is where the magic happens; as we observe, we begin to identify patterns that can inform our decision-making.

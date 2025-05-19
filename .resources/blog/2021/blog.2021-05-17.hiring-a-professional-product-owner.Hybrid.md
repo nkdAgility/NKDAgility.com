@@ -1,15 +1,40 @@
 ---
 title: Hiring a Professional Product Owner
 description: Explains the key accountabilities, skills, and behaviours required for a Scrum Product Owner, including hiring trends, role requirements, and practical job specifications.
-ResourceId: Stln5As7Fof
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 46138
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2021-05-17
 weight: 750
+slug: hiring-a-professional-product-owner
+aliases:
+- /blog/hiring-a-professional-product-owner
+- /hiring-a-professional-product-owner
+- /resources/Stln5As7Fof
+- /resources/blog/hiring-a-professional-product-owner
+aliasesArchive:
+- /blog/hiring-a-professional-product-owner
+- /hiring-a-professional-product-owner
+- /resources/blog/hiring-a-professional-product-owner
+concepts:
+- Tenet
+categories:
+- Product Development
+- Product Management
+- Scrum
+tags:
+- Product Owner
+- Professional Scrum
+- Scrum Team
+- Agile Product Management
+- Software Development
+- Product Delivery
+- Value Delivery
+- Pragmatic Thinking
+ResourceId: Stln5As7Fof
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 46138
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -29,34 +54,9 @@ contributors:
   external: https://www.linkedin.com/in/james-powis-agile-product-owner/
 layout: blog
 resourceTypes: blog
-slug: hiring-a-professional-product-owner
-aliases:
-- /blog/hiring-a-professional-product-owner
-- /hiring-a-professional-product-owner
-- /resources/Stln5As7Fof
-- /resources/blog/hiring-a-professional-product-owner
-aliasesArchive:
-- /blog/hiring-a-professional-product-owner
-- /hiring-a-professional-product-owner
-- /resources/blog/hiring-a-professional-product-owner
-tags:
-- Product Owner
-- Professional Scrum
-- Scrum Team
-- Agile Product Management
-- Software Development
-- Product Delivery
-- Value Delivery
-- Pragmatic Thinking
-categories:
-- Product Development
-- Product Management
-- Scrum
 preview: image-3-3.png
 Watermarks:
   description: 2025-05-07T13:14:56Z
-concepts:
-- Tenet
 
 ---
 One of my customers is asking me about the accountabilities of a [Product Owner]({{< ref "/tags/product-owner" >}}) and how they break down. While I had seen many things around the [Scrum]({{< ref "/categories/scrum" >}}) Master for my post on [Hiring a Professional Scrum Master](https://nkdagility.com/blog/hiring-a-professional-scrum-master/), this was a little bit more of a discovery session, which is why I asked some of my trusted colleagues at Scrum.org to help out.

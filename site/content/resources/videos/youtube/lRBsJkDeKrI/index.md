@@ -2,15 +2,8 @@
 title: Why Your Definition of “Done” Is Holding Back Quality, Agility, and Trust—And How to Raise the Bar
 description: Is your team’s “done” really done? Discover how a clear, objective definition of done boosts quality, agility, and trust in product delivery.
 date: 2025-07-09T06:45:00Z
-videoId: lRBsJkDeKrI
-ResourceId: lRBsJkDeKrI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
-source: youtube
-url: /resources/videos/:slug
+weight: 165
 slug: 10-what-does-good-done-look-like-lRBsJkDeKrI
-layout: video
 aliases:
 - /resources/lRBsJkDeKrI
 - /resources/videos/10-what-does-good-done-look-like-lRBsJkDeKrI
@@ -20,17 +13,8 @@ aliasesArchive:
 - /resources/videos/10-what-does-good-done-look-like
 - 10-what-does-good-done-look-like-lRBsJkDeKrI
 - /resources/videos/why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
-preview: https://i9.ytimg.com/vi/lRBsJkDeKrI/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBIpDGsn1p3vMuTnHUaWV_3Gx_jkw
-duration: 55
-resourceTypes:
-- video
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T19:08:27Z
-ResourceContentOrigin: ai
+concepts:
+- Artifact
 categories:
 - Engineering Excellence
 - Product Development
@@ -50,9 +34,25 @@ tags:
 - Market Adaptability
 - Organisational Agility
 - Technical Excellence
-weight: 165
-concepts:
-- Artifact
+ResourceId: lRBsJkDeKrI
+ResourceImport: true
+ResourceType: videos
+videoId: lRBsJkDeKrI
+ResourceImportSource: Youtube
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i9.ytimg.com/vi/lRBsJkDeKrI/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBIpDGsn1p3vMuTnHUaWV_3Gx_jkw
+duration: 55
+resourceTypes:
+- video
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T19:08:27Z
+ResourceContentOrigin: ai
 
 ---
 Can Your Product Pass the Done Test?

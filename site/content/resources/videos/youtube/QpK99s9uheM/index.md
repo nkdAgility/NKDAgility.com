@@ -3,15 +3,7 @@ title: 'From Control to Collaboration: How Project Managers Can Embrace Agility 
 description: Explores how project managers can shift from control to collaboration, adopt agile mindsets, embrace uncertainty, and foster team empowerment for project success.
 date: 2023-05-24T07:00:23Z
 weight: 1000
-ResourceId: QpK99s9uheM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: QpK99s9uheM
-url: /resources/videos/:slug
 slug: from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
-layout: video
 aliases:
 - /resources/QpK99s9uheM
 - /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
@@ -23,24 +15,32 @@ aliasesArchive:
 - /resources/is-a-scrum-master-an-agile-project-manager-
 - /resources/videos/is-a-scrum-master-an-agile-project-manager
 - from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
-preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
-duration: 48
-isShort: true
+concepts: []
+categories:
+- Product Development
 tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Agile Values and Principles
+ResourceId: QpK99s9uheM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: QpK99s9uheM
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
+duration: 48
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:12:14Z
-concepts: []
 
 ---
 In my experience, the term "project manager" often feels like an oxymoron when we talk about agility. It’s a bit of a paradox, isn’t it? While we can certainly sprinkle some agile principles into [project management]({{< ref "/tags/project-management" >}}), the reality is that unless a project manager is willing to let go of their traditional mindset—specifically the belief that they have all the answers and can control every aspect of a project—they will continue to face the same challenges that have plagued project management for years.

@@ -2407,5 +2407,24 @@
     "reasoning": "The content focuses on technical and engineering best practices for refactoring business logic out of stored procedures, emphasising testability, maintainability, and modernisation. While it references outcomes like faster feedback loops and reduced bugs, these are framed in terms of engineering efficiency and code quality, not direct customer value or outcomes. There is no explicit discussion of defining, measuring, or prioritising work based on customer needs, nor is there evidence of feedback loops with real users or alignment of delivery to customer outcomes. The audience is technical practitioners, which partially aligns, but the main thrust is internal process improvement rather than customer focus.",
     "reasoning_summary": "This content is primarily about engineering discipline and code maintainability, not customer outcomes. While some benefits could indirectly impact customers, the discussion lacks explicit focus on customer value, feedback, or outcomes, so confidence in the Customer Focus category is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "utAzlIGxj7O",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:52:58",
+    "ai_confidence": 2.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 0.8,
+    "ai_audience": 4.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content focuses on why business logic should not reside in stored procedures, advocating for refactoring towards maintainable, testable code. There is no mention or discussion of the Definition of Workflow, Kanban, agile, or related concepts. The main themes are software architecture, testability, and maintainability, not workflow policies or explicit agreements governing work flow. The audience (engineers, developers) partially overlaps, but the content is not aligned with the category's scope or intent.",
+    "reasoning_summary": "This article is about refactoring business logic out of stored procedures for better code quality and maintainability. It does not discuss the Definition of Workflow, Kanban, or agile workflow policies, so it is not a fit for this category.",
+    "level": "Ignored"
   }
 }

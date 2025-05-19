@@ -1,12 +1,13 @@
 ---
 title: One Engineering System
-abstract: The One Engineering System (1ES) is a strategic framework designed to unify engineering tools and practices across various teams, aiming to reduce friction, enhance collaboration, and ensure consistency at scale. Originating from the need to streamline workflows in software development, 1ES focuses on establishing a shared engineering backbone that allows teams to operate more efficiently by eliminating the chaos associated with disparate toolchains and ad hoc processes. This approach is crucial in agile and DevOps environments, as it promotes a common set of engineering standards that facilitate planning, coding, testing, deployment, and production support. By reducing cognitive overhead and simplifying integration, 1ES enables teams to deliver high-quality outcomes more reliably. Importantly, the framework emphasises that tools should adapt to the teams' workflows rather than impose rigid structures, allowing for flexibility and coherence rather than uniformity. Successful implementation of 1ES necessitates investment in team enablement, including guidance, training, and support, to ensure effective adoption. When executed properly, 1ES fosters scalable engineering excellence, characterised by clear communication, consistent processes, and a resilient development lifecycle across the organisation.
-ClassificationType: tags
-ClassificationContentOrigin: human
-trustpilot: false
-date: 2025-02-11T10:16:54Z
-ResourceId: 6z97VZamnQQ
 description: One Engineering System (1ES) is a strategic standardised, integrated framework designed to streamline software development by unifying tools, processes, and practices across teams. It provides a consistent, scalable foundation that supports high-quality, efficient, and secure software delivery.
+ClassificationType: tags
+trustpilot: false
+abstract: The One Engineering System (1ES) is a strategic framework designed to unify engineering tools and practices across various teams, aiming to reduce friction, enhance collaboration, and ensure consistency at scale. Originating from the need to streamline workflows in software development, 1ES focuses on establishing a shared engineering backbone that allows teams to operate more efficiently by eliminating the chaos associated with disparate toolchains and ad hoc processes. This approach is crucial in agile and DevOps environments, as it promotes a common set of engineering standards that facilitate planning, coding, testing, deployment, and production support. By reducing cognitive overhead and simplifying integration, 1ES enables teams to deliver high-quality outcomes more reliably. Importantly, the framework emphasises that tools should adapt to the teams' workflows rather than impose rigid structures, allowing for flexibility and coherence rather than uniformity. Successful implementation of 1ES necessitates investment in team enablement, including guidance, training, and support, to ensure effective adoption. When executed properly, 1ES fosters scalable engineering excellence, characterised by clear communication, consistent processes, and a resilient development lifecycle across the organisation.
+ClassificationContentOrigin: human
+date: 2025-02-11T10:16:54Z
+weight: 205
+ResourceId: 6z97VZamnQQ
 Instructions: |-
   **Use this category only for discussions on One Engineering System (1ES).**  
   The One Engineering System (1ES) is a comprehensive framework aimed at standardising and integrating software development practices across teams. Its purpose is to enhance collaboration, improve efficiency, and ensure high-quality software delivery by unifying tools, processes, and methodologies.
@@ -32,11 +33,26 @@ aliases:
 - /methods/1es/
 - /learn/agile-delivery-kit/strategies/one-engineering-system/
 - /resources/6z97VZamnQQ
-concepts:
-- Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-diagram-project
+concepts:
+- Strategy
+categories:
+- Engineering Excellence
+- DevOps
+- Product Development
+tags:
+- Operational Practices
+- Software Development
+- Platform Engineering
+- Product Delivery
+- Application Lifecycle Management
+- Sociotechnical Systems
+- Team Collaboration
+- Scaling
+- Team Performance
 
 ---
 The **One Engineering System (1ES)** is a strategic approach to unifying engineering tools and practices across teams to reduce friction, foster collaboration, and enable consistency at scale. It’s about creating a shared engineering backbone that allows teams to move faster and more predictably by removing the chaos of disconnected toolchains and ad hoc workflows.

@@ -3,15 +3,7 @@ title: 'Empowering Leadership: Driving Cultural Change for Agile Success'
 description: Explores how effective leadership drives cultural change, supports agile practices, and fosters collaboration through vision, automation, learning, and breaking down silos.
 date: 2025-02-07T06:00:27Z
 weight: 400
-ResourceId: XyprV8F_es4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: XyprV8F_es4
-url: /resources/videos/:slug
 slug: empowering-leadership-driving-cultural-change-for-agile-success
-layout: video
 aliases:
 - /resources/XyprV8F_es4
 - /resources/videos/empowering-leadership-driving-cultural-change-for-agile-success
@@ -25,9 +17,10 @@ aliasesArchive:
 - /resources/the-role-of-leadership-in-driving-continuous-delivery-and-organizational-change
 - /resources/videos/empowering-leadership-driving-cultural-change-for-agile-success
 - empowering-leadership-driving-cultural-change-for-agile-success
-preview: https://i.ytimg.com/vi/XyprV8F_es4/maxresdefault.jpg
-duration: 398
-isShort: false
+concepts: []
+categories:
+- Leadership
+- DevOps
 tags:
 - Organisational Change
 - Agile Leadership
@@ -39,18 +32,25 @@ tags:
 - Organisational Culture
 - Sociotechnical Systems
 - Value Delivery
+ResourceId: XyprV8F_es4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: XyprV8F_es4
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/XyprV8F_es4/maxresdefault.jpg
+duration: 398
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Leadership
-- DevOps
 Watermarks:
   description: 2025-05-07T12:49:46Z
-concepts: []
 
 ---
 In my journey through various organisations, I've come to realise that [leadership]({{< ref "/categories/leadership" >}}) plays a pivotal role in driving cultural and [organisational change]({{< ref "/tags/organisational-change" >}}). This change is essential for supporting frequent and reliable deployments across multiple teams. Today, I want to share some insights on how leaders can effectively facilitate this transformation, drawing from my experiences and observations.

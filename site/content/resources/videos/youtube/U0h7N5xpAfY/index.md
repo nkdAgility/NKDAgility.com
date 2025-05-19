@@ -3,19 +3,7 @@ title: Understanding the True Role of a Scrum Master
 description: Explains the true responsibilities of a Scrum Master, how to maximise team effectiveness, teach Scrum principles, and address organisational challenges for better outcomes.
 date: 2023-11-28T07:00:15Z
 weight: 610
-ResourceId: U0h7N5xpAfY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: U0h7N5xpAfY
-source: internal
-url: /resources/videos/:slug
 slug: understanding-the-true-role-of-a-scrum-master
-layout: video
-preview: https://i.ytimg.com/vi/U0h7N5xpAfY/maxresdefault.jpg
-duration: 233
-isShort: false
 aliases:
 - /resources/U0h7N5xpAfY
 - /resources/videos/understanding-the-true-role-of-a-scrum-master
@@ -27,9 +15,12 @@ aliasesArchive:
 - /resources/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-masters-journey
 - understanding-the-true-role-of-a-scrum-master
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Framework
+categories:
+- Scrum
+- Product Development
+- Technical Leadership
 tags:
 - Scrum Master
 - Pragmatic Thinking
@@ -39,16 +30,25 @@ tags:
 - Professional Scrum
 - Agile Frameworks
 - Team Performance
+ResourceId: U0h7N5xpAfY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: U0h7N5xpAfY
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/U0h7N5xpAfY/maxresdefault.jpg
+duration: 233
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
-- Technical Leadership
 Watermarks:
   description: 2025-05-07T13:07:28Z
-concepts:
-- Framework
 
 ---
 Many [Scrum]({{< ref "/categories/scrum" >}}) Masters step into their role without fully understanding what it entails. Often, the title of [Scrum Master]({{< ref "/tags/scrum-master" >}}) is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.

@@ -3,41 +3,41 @@ title: How Hard is it to Transition from Being a Developer to a Scrum developer?
 description: Explores the challenges and skills needed to shift from traditional development to Scrum, focusing on continuous learning, Agile practices, and adapting to new workflows.
 date: 2023-06-22T11:00:25Z
 weight: 405
+slug: how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
+aliases:
+- /resources/cv5IIVUgack
+- /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
 ResourceId: cv5IIVUgack
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: cv5IIVUgack
 source: internal
 url: /resources/videos/:slug
-slug: how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
 layout: video
 preview: https://i.ytimg.com/vi/cv5IIVUgack/maxresdefault.jpg
 duration: 50
 isShort: true
-aliases:
-- /resources/cv5IIVUgack
-- /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
 aliasesArchive:
 - /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 - /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 - /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
 - /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
 - how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
 tags:
 - Continuous Learning
 - Software Development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:11:21Z
-concepts: []
 
 ---
 ## From Developer to [Scrum]({{< ref "/categories/scrum" >}}) Developer: A Journey of [Continuous Learning]({{< ref "/tags/continuous-learning" >}})

@@ -3,15 +3,7 @@ title: 'Unlocking Success: How Small Experiments Transformed Feature Delivery fr
 description: Explores how breaking features into small experiments boosts software delivery, enabling teams to deliver more features, reduce risk, and improve customer-focused products.
 date: 2024-11-20T08:02:36Z
 weight: 790
-ResourceId: WEYf9jWG9wk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: WEYf9jWG9wk
-url: /resources/videos/:slug
 slug: unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
-layout: video
 aliases:
 - /resources/WEYf9jWG9wk
 - /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
@@ -24,9 +16,10 @@ aliasesArchive:
 - /resources/unleash-your-team's-full-potential
 - /resources/videos/unleash-your-teams-full-potential
 - unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
-preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
-duration: 53
-isShort: true
+concepts:
+- Principle
+categories:
+- Product Development
 tags:
 - Customer Focus
 - Continuous Improvement
@@ -37,18 +30,25 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Metrics and Learning
+ResourceId: WEYf9jWG9wk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: WEYf9jWG9wk
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/WEYf9jWG9wk/maxresdefault.jpg
+duration: 53
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T12:57:14Z
-concepts:
-- Principle
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves—who wouldn’t prefer 800 features over 25?

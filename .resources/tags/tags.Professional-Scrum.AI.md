@@ -1,10 +1,11 @@
 ---
 title: Professional Scrum
-abstract: Professional Scrum is a disciplined approach to the Scrum framework that emphasises empiricism, technical excellence, and the continuous delivery of value. Originating from the principles of Scrum, it prioritises the intentional and accountable ways in which individuals, teams, and organisations operate, rather than merely adhering to prescribed rituals or frameworks. This methodology underscores the importance of transparency, the definition of 'Done', and the necessity of empirical practices, positioning Product Owners as strategic leaders, Scrum Masters as catalysts for change, and Developers as skilled engineers. By embracing complexity as a dynamic to respond to rather than a challenge to control, Professional Scrum encourages rapid learning, frequent delivery, and ongoing improvement. Its significance lies in its ability to infuse professionalism, responsibility, and rigor into the process of complex product delivery, making it a valuable framework for organisations seeking to enhance their agility, foster collaboration, and achieve sustainable success in product development.
 ClassificationType: tags
-ClassificationContentOrigin: Hybrid
 trustpilot: false
+abstract: Professional Scrum is a disciplined approach to the Scrum framework that emphasises empiricism, technical excellence, and the continuous delivery of value. Originating from the principles of Scrum, it prioritises the intentional and accountable ways in which individuals, teams, and organisations operate, rather than merely adhering to prescribed rituals or frameworks. This methodology underscores the importance of transparency, the definition of 'Done', and the necessity of empirical practices, positioning Product Owners as strategic leaders, Scrum Masters as catalysts for change, and Developers as skilled engineers. By embracing complexity as a dynamic to respond to rather than a challenge to control, Professional Scrum encourages rapid learning, frequent delivery, and ongoing improvement. Its significance lies in its ability to infuse professionalism, responsibility, and rigor into the process of complex product delivery, making it a valuable framework for organisations seeking to enhance their agility, foster collaboration, and achieve sustainable success in product development.
+ClassificationContentOrigin: Hybrid
 date: 2025-02-11T10:17:24Z
+weight: 420
 description: Professional Scrum is a disciplined ethos of empiricism, accountability, and continuous improvement that transcends the Scrum framework.
 Instructions: |-
   **Use this tag only for content that reflects the ethos of Professional Scrum.**  
@@ -31,8 +32,17 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concept: Philosophy
+icon: fa-user-graduate
 concepts:
 - Discipline
+categories:
+- Scrum
+- Product Development
+tags:
+- Agile Philosophy
+- Empirical Process Control
+- Continuous Improvement
+- Social Technologies
 
 ---
 Professional Scrum is the disciplined expression of Scrum guided by empiricism, technical excellence, and continuous delivery of value. It transcends frameworks and rituals, focusing instead on how individuals, teams, and organisations choose to work—with intent, professionalism, and accountability.

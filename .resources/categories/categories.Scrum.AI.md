@@ -1,16 +1,18 @@
 ---
 title: Scrum
-abstract: Scrum is a framework and social technology designed to facilitate the delivery of adaptive solutions in complex environments, grounded in the principles of empiricism, which emphasises transparency, inspection, and adaptation. Originating from the need to manage complex projects effectively, Scrum enables teams to work collaboratively and self-organise to tackle intricate problems while delivering high-value products iteratively and incrementally. Its significance lies in its structured approach to product development, which fosters continuous improvement and value-based prioritisation through defined roles, events, and artifacts. The framework encourages commitment, focus, openness, respect, and courage among team members, promoting a culture of collaboration and accountability. Scrum's iterative development process, characterised by time-boxed sprints, allows teams to produce potentially releasable increments of work regularly, optimising predictability and minimising risks. As organisations increasingly adopt agile methodologies and DevOps practices, Scrum's principles and practices become invaluable for enhancing team dynamics, improving product quality, and responding swiftly to changing market demands, ultimately driving organisational success in a fast-paced environment.
+description: Scrum is a a **social technology** for building **adaptive solutions** it focuses on delivering the **highest business value** in the **shortest time**. Scrum is a **framework** that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.
 ClassificationType: categories
-ClassificationContentOrigin: human
 trustpilot: false
+abstract: Scrum is a framework and social technology designed to facilitate the delivery of adaptive solutions in complex environments, grounded in the principles of empiricism, which emphasises transparency, inspection, and adaptation. Originating from the need to manage complex projects effectively, Scrum enables teams to work collaboratively and self-organise to tackle intricate problems while delivering high-value products iteratively and incrementally. Its significance lies in its structured approach to product development, which fosters continuous improvement and value-based prioritisation through defined roles, events, and artifacts. The framework encourages commitment, focus, openness, respect, and courage among team members, promoting a culture of collaboration and accountability. Scrum's iterative development process, characterised by time-boxed sprints, allows teams to produce potentially releasable increments of work regularly, optimising predictability and minimising risks. As organisations increasingly adopt agile methodologies and DevOps practices, Scrum's principles and practices become invaluable for enhancing team dynamics, improving product quality, and responding swiftly to changing market demands, ultimately driving organisational success in a fast-paced environment.
+ClassificationContentOrigin: human
 date: 2025-03-04T10:00:00
+weight: 470
+icon: fa-sync-alt
 ResourceId: peNS32Lw-sn
 aliases:
 - /resources/methods/scrum-framework/
 - /learn/agile-delivery-kit/strategies/scrum-framework/
 - /resources/peNS32Lw-sn
-description: Scrum is a a **social technology** for building **adaptive solutions** it focuses on delivering the **highest business value** in the **shortest time**. Scrum is a **framework** that helps teams work together. Much like a rugby team (where it gets its name) training for the big game, Scrum encourages teams to learn through experiences, self-organize while working on a problem, and reflect on their wins and losses to continuously improve.
 Instructions: |-
   **Use this category only for discussions on Scrum.**  
   The Scrum category encompasses the principles, practices, and frameworks that facilitate collaborative and adaptive project management, primarily in software development. It is designed to enhance team performance and deliver maximum business value through iterative progress and continuous improvement.
@@ -30,11 +32,11 @@ headline:
   subtitle: A framework for collaborative problem-solving that maximises value delivery through iterative learning and continuous improvement.
   content: A structured approach for fostering collaboration and enhancing team performance, emphasising iterative progress and adaptive planning. Posts should explore team dynamics, roles, ceremonies, and techniques for maximising value delivery, as well as methods for continuous learning and improvement in complex environments.
   updated: 2025-02-13T21:02:24Z
-concepts:
-- Framework
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+concepts:
+- Framework
 
 ---
 Scrum is a **Framework** and a **social technology** for delivering **adaptive solutions** in complex environments. It is built on **empiricism**—transparency, inspection, and adaptation—and is designed to help teams deliver value iteratively and incrementally. Scrum is a **framework** that helps teams work together to solve complex problems and deliver high-value products. Its about planning.

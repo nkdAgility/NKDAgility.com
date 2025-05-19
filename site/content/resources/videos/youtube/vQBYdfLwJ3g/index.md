@@ -3,15 +3,7 @@ title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in A
 description: Explores the real-world challenges and expanded responsibilities of product owners, highlighting practical skills, agile leadership, and collaborative learning in organisations.
 date: 2023-06-09T07:00:27Z
 weight: 790
-ResourceId: vQBYdfLwJ3g
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: vQBYdfLwJ3g
-url: /resources/videos/:slug
 slug: unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
-layout: video
 aliases:
 - /resources/vQBYdfLwJ3g
 - /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
@@ -22,26 +14,34 @@ aliasesArchive:
 - /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 - /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
 - unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
-preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
-duration: 268
-isShort: false
+concepts: []
+categories:
+- Product Development
+- Product Management
 tags:
 - Agile Product Management
 - Organisational Agility
 - Pragmatic Thinking
 - Product Owner
+ResourceId: vQBYdfLwJ3g
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: vQBYdfLwJ3g
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
+duration: 268
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:11:45Z
-concepts: []
 
 ---
 As I reflect on the immersive learning experience of the [Product Owner]({{< ref "/tags/product-owner" >}}) (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 

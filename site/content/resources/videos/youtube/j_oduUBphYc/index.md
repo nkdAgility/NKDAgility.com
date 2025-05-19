@@ -2,21 +2,28 @@
 title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business'
 description: Struggling with legacy systems? Discover how to modernise securely, reduce risk, and build resilience—without trading old problems for new ones.
 date: 2025-05-12T06:00:00Z
-videoId: j_oduUBphYc
-ResourceId: j_oduUBphYc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
-source: youtube
-url: /resources/videos/:slug
+weight: 480
 slug: 6-security-compliance-in-legacy-system-modernization
-layout: video
 aliases:
 - /resources/j_oduUBphYc
 - /resources/videos/6-security-compliance-in-legacy-system-modernization
 aliasesArchive:
 - /resources/videos/6-security-compliance-in-legacy-system-modernization
 - 6-security-compliance-in-legacy-system-modernization
+concepts:
+- Capability
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceId: j_oduUBphYc
+ResourceImport: true
+ResourceType: videos
+videoId: j_oduUBphYc
+ResourceImportSource: Youtube
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i9.ytimg.com/vi/j_oduUBphYc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLC9GdU6Uu93vQ2nm8zM-COxVCvE6Q
 duration: 94
 resourceTypes:
@@ -28,13 +35,6 @@ sitemap:
 Watermarks:
   description: 2025-05-07T20:59:00Z
 ResourceContentOrigin: ai
-categories:
-- Uncategorized
-tags:
-- Software Development
-weight: 480
-concepts:
-- Capability
 
 ---
 Legacy systems are a security nightmare. Let’s not sugar-coat it. I’ve seen it time and again: outdated protocols, compliance failures lurking in the shadows, and systems so fragile that nobody dares to touch them for fear of what might break next. If you’re reading this, you probably know exactly what I mean.

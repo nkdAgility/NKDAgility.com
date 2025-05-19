@@ -3,19 +3,7 @@ title: How to Achieve Predictability in Business through Agile Principles
 description: Learn how Agile principles help businesses improve predictability by addressing challenges, optimising systems, aligning goals, and adapting to change for consistent results.
 date: 2024-10-08T10:33:32Z
 weight: 590
-ResourceId: G1BQG2tsbYg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: G1BQG2tsbYg
-source: internal
-url: /resources/videos/:slug
 slug: how-to-achieve-predictability-in-business-through-agile-principles
-layout: video
-preview: https://i.ytimg.com/vi/G1BQG2tsbYg/maxresdefault.jpg
-duration: 1259
-isShort: false
 aliases:
 - /resources/G1BQG2tsbYg
 - /resources/videos/how-to-achieve-predictability-in-business-through-agile-principles
@@ -26,9 +14,11 @@ aliasesArchive:
 - /resources/videos/outcome-increased-business-predictability
 - /resources/outcome-increased-business-predictability
 - how-to-achieve-predictability-in-business-through-agile-principles
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Management
+- Product Development
 tags:
 - Business Agility
 - Pragmatic Thinking
@@ -42,15 +32,25 @@ tags:
 - Organisational Physics
 - Agile Philosophy
 - Enterprise Agility
+ResourceId: G1BQG2tsbYg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: G1BQG2tsbYg
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/G1BQG2tsbYg/maxresdefault.jpg
+duration: 1259
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Management
-- Product Development
 Watermarks:
   description: 2025-05-07T12:57:36Z
-concepts:
-- Principle
 
 ---
 **Predictability** is a key factor for businesses striving to meet their goals consistently. It helps reduce uncertainty, allowing organizations to focus on achieving desired outcomes. However, achieving predictability is not easy. This blog post explores the challenges to predictability in business, the role of agile, and practical steps you can take to enhance predictability in your organization.

@@ -3,19 +3,7 @@ title: What is a Sprint Backlog?
 description: Explains the Sprint Backlog as a transparent, flexible plan in Scrum, combining goals, tasks, and strategy to help teams stay focused, adaptable, and successful in Agile work.
 date: 2023-05-29T12:01:04Z
 weight: 1000
-ResourceId: T-K7HC-ZGjM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: T-K7HC-ZGjM
-source: internal
-url: /resources/videos/:slug
 slug: what-is-a-sprint-backlog
-layout: video
-preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
-duration: 296
-isShort: false
 aliases:
 - /resources/T-K7HC-ZGjM
 - /resources/videos/what-is-a-sprint-backlog
@@ -25,23 +13,35 @@ aliasesArchive:
 - /resources/videos/what-is-a-sprint-backlog-
 - /resources/what-is-a-sprint-backlog-
 - what-is-a-sprint-backlog
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Artifact
+categories:
+- Scrum
+- Product Development
 tags:
 - Agile Planning
 - Professional Scrum
 - Software Development
 - Agile Frameworks
+ResourceId: T-K7HC-ZGjM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: T-K7HC-ZGjM
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
+duration: 296
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:12:08Z
-concepts:
-- Artifact
 
 ---
 ## Interpreting the Sprint Backlog

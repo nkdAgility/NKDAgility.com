@@ -3,13 +3,6 @@ title: 'Stay Ahead of the Curve: How Continuous Learning Keeps You in the Top 10
 description: Explains how continuous learning helps you stay relevant, seize new opportunities, and grow personally and professionally through reading, community, and experimentation.
 date: 2023-12-19T11:00:00Z
 weight: 1000
-ResourceId: -T1e8hjLt24
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: -T1e8hjLt24
-url: /resources/videos/:slug
 slug: stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
 aliases:
 - /resources/-T1e8hjLt24
@@ -22,11 +15,21 @@ aliasesArchive:
 - /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 - /resources/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 - stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+ResourceId: -T1e8hjLt24
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: -T1e8hjLt24
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: true
-tags:
-- Competence
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -34,11 +37,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:06:47Z
-concepts: []
 
 ---
 If you're reading this, congratulations! You’re already part of the top 10%. It’s a bold statement, but one I firmly believe in. The reality is that only a small fraction of people actively engage in [continuous learning]({{< ref "/tags/continuous-learning" >}}), exploring new techniques, and diving into various topics. Whether it’s something cutting-edge or a classic like "Crossing the Chasm," the key is to keep your mind open and your curiosity alive.

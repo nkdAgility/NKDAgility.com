@@ -3,19 +3,7 @@ title: How do you think Agile is evolving since its inception in 2001?
 description: Explores how Agile has shifted from top-down management to decentralised decision-making, highlighting ongoing challenges and the move towards true organisational agility.
 date: 2023-02-15T07:00:07Z
 weight: 665
-ResourceId: QgPlMxGNIzs
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: QgPlMxGNIzs
-source: internal
-url: /resources/videos/:slug
 slug: how-do-you-think-agile-is-evolving-since-its-inception-in-2001
-layout: video
-preview: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg
-duration: 229
-isShort: false
 aliases:
 - /resources/QgPlMxGNIzs
 - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
@@ -26,22 +14,34 @@ aliasesArchive:
 - /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 - how-do-you-think-agile-is-evolving-since-its-inception-in-2001
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
 tags:
 - Software Development
 - Agile Transformation
 - Organisational Agility
 - Agile Philosophy
 - Agile Values and Principles
+ResourceId: QgPlMxGNIzs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: QgPlMxGNIzs
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg
+duration: 229
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:14:05Z
-concepts: []
 
 ---
 How do you think Agile is evolving since its inception in 2001?

@@ -3,18 +3,7 @@ title: '7 deadly sins of Agile: Gluttony'
 description: Explores how Agile teams can avoid overloading backlogs, Sprints, and products by focusing on prioritisation, value delivery, and lean, effective practices.
 date: 2023-10-11T11:35:09Z
 weight: 505
-ResourceId: 2ASLFX2i9_g
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 2ASLFX2i9_g
-source: internal
-url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-gluttony
-preview: https://i.ytimg.com/vi/2ASLFX2i9_g/maxresdefault.jpg
-duration: 412
-isShort: false
 aliases:
 - /resources/2ASLFX2i9_g
 - /resources/videos/7-deadly-sins-of-agile-gluttony
@@ -27,9 +16,11 @@ aliasesArchive:
 - /resources/gluttony!-7-deadly-sins-of-agile
 - /resources/videos/gluttony-7-deadly-sins-of-agile
 - 7-deadly-sins-of-agile-gluttony
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Tenet
+categories:
+- Product Development
+- Scrum
 tags:
 - Pragmatic Thinking
 - Software Development
@@ -40,16 +31,25 @@ tags:
 - Team Performance
 - Customer Focus
 - Product Backlog
+ResourceId: 2ASLFX2i9_g
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 2ASLFX2i9_g
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/2ASLFX2i9_g/maxresdefault.jpg
+duration: 412
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:08:54Z
-concepts:
-- Tenet
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and [Scrum]({{< ref "/categories/scrum" >}}) 🌟 

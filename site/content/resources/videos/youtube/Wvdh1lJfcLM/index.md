@@ -3,19 +3,7 @@ title: 'Mastering the Migration: Seamlessly Transitioning from TFS to Azure DevO
 description: Step-by-step guide to migrating from Team Foundation Server (TFS) to Azure DevOps, covering tools, validation, common issues, account alignment, and best practices.
 date: 2024-07-31T11:58:11Z
 weight: 1000
-ResourceId: Wvdh1lJfcLM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Wvdh1lJfcLM
-source: internal
-url: /resources/videos/:slug
 slug: mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
-layout: video
-preview: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg
-duration: 188
-isShort: false
 aliases:
 - /resources/Wvdh1lJfcLM
 - /resources/videos/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
@@ -26,21 +14,33 @@ aliasesArchive:
 - /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
 - /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
 - mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Tool
+categories:
+- DevOps
 tags:
 - Azure DevOps
 - Software Development
 - Install and Configuration
+ResourceId: Wvdh1lJfcLM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Wvdh1lJfcLM
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg
+duration: 188
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- DevOps
 Watermarks:
   description: 2025-05-07T13:02:22Z
-concepts:
-- Tool
 
 ---
 In today’s fast-paced tech landscape, staying ahead often means making strategic moves that streamline processes and enhance collaboration. For organizations still utilizing Team Foundation Server (TFS), migrating to Azure [DevOps]({{< ref "/categories/devops" >}}) is one such strategic move that promises enhanced agility and efficiency. However, this migration is not always straightforward. Let’s dive into the intricacies of this transition and explore how to do it seamlessly, leveraging the right tools and expertise.

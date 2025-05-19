@@ -3,18 +3,7 @@ title: 'Free Workshop 04: Introduction to Sprint Reviews [Review & Retrospective
 description: Covers key concepts of Sprint Reviews, interactive workshop delivery using Teams and Mural, technical challenges faced, participant feedback, and retrospective insights.
 date: 2021-09-18T13:32:34Z
 weight: 240
-ResourceId: 1-W64WdSbF4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 1-W64WdSbF4
-source: internal
-url: /resources/videos/:slug
 slug: free-workshop-04-introduction-to-sprint-reviews-review-retrospective
-preview: https://i.ytimg.com/vi/1-W64WdSbF4/maxresdefault.jpg
-duration: 5769
-isShort: false
 aliases:
 - /resources/1-W64WdSbF4
 - /resources/videos/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
@@ -28,9 +17,12 @@ aliasesArchive:
 - /resources/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 - /resources/videos/free-workshop-4-introduction-to-sprint-review-audio-fixed
 - free-workshop-04-introduction-to-sprint-reviews-review-retrospective
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Accountability
+categories:
+- Scrum
+- Product Management
+- Technical Leadership
 tags:
 - Product Delivery
 - Agile Product Management
@@ -41,17 +33,25 @@ tags:
 - Agile Planning Tools
 - Collaboration Tools
 - Release Management
+ResourceId: 1-W64WdSbF4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 1-W64WdSbF4
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/1-W64WdSbF4/maxresdefault.jpg
+duration: 5769
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Scrum
-- Product Management
-- Technical Leadership
 Watermarks:
   description: 2025-05-07T13:14:51Z
-concepts:
-- Accountability
 
 ---
 This workshop was delivered on 16th September 2021 and focused on introducing the core concepts of the [Sprint Review]({{< ref "/tags/sprint-review" >}}) and its empirical nature. I used a combination of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}), Microsoft Teams, and Mural to deliver an interactive session. This session went really well however we had some technical issues on the live stream!

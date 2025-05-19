@@ -3,16 +3,7 @@ title: 'Unlocking the Superpower of Software Development: How Shifting Left Tran
 description: Explains how adopting a shift-left approach in software development improves quality, speeds up delivery, reduces costs, and fosters collaboration by involving QA early.
 date: 2024-11-22T14:04:14Z
 weight: 610
-ResourceId: whKX9Mn1eb8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: whKX9Mn1eb8
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance-whKX9Mn1eb8
-layout: video
 aliases:
 - /resources/whKX9Mn1eb8
 - /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance-whKX9Mn1eb8
@@ -23,27 +14,36 @@ aliasesArchive:
 - /resources/videos/the-superpower-of-quality-engineering
 - /resources/the-superpower-of-quality-engineering
 - unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance-whKX9Mn1eb8
-preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
-duration: 48
-isShort: true
+concepts:
+- Practice
+categories:
+- Product Development
+- Engineering Excellence
+- DevOps
 tags:
 - Shift Left Strategy
 - Operational Practices
 - Product Delivery
 - Software Development
+ResourceId: whKX9Mn1eb8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: whKX9Mn1eb8
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/whKX9Mn1eb8/maxresdefault.jpg
+duration: 48
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Engineering Excellence
-- DevOps
 Watermarks:
   description: 2025-05-07T12:57:07Z
-concepts:
-- Practice
 
 ---
 In my journey through the world of software engineering, I've come to realise that having a high-quality, usable, and working product delivered on a regular cadence is nothing short of a superpower for both teams and organisations. This principle is at the heart of delivering real value, and it’s something I’m passionate about sharing.

@@ -1,18 +1,8 @@
 ---
 title: Configuring Microsoft Teams for Live Virtual Training
 description: Step-by-step guide to setting up Microsoft Teams for live virtual training, covering Azure AD, Microsoft 365, guest access, external identities, and class experience tips.
-ResourceId: Xc0Lh3NbXfK
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 44452
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-06-22
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: configuring-microsoft-teams-for-live-virtual-training
 aliases:
 - /blog/configuring-microsoft-teams-for-live-virtual-training
@@ -23,16 +13,26 @@ aliasesArchive:
 - /blog/configuring-microsoft-teams-for-live-virtual-training
 - /configuring-microsoft-teams-for-live-virtual-training
 - /resources/blog/configuring-microsoft-teams-for-live-virtual-training
+concepts:
+- Tool
 categories:
 - Uncategorized
-preview: image-14-4-4.png
 tags:
 - System Configuration
 - Install and Configuration
+ResourceId: Xc0Lh3NbXfK
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 44452
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
+preview: image-14-4-4.png
 Watermarks:
   description: 2025-05-07T13:15:35Z
-concepts:
-- Tool
 
 ---
 Like most tools, if you want to run successful training in Microsoft Teams you need to do some homework and some configuration before your class. You can just jump in and wing it, but that will not provide a good experience for your students. Currently, I have run more than 6 Live Virtual Training in Microsoft Teams and in a few hours, my 7th will start. I have also recently had to set up Microsoft Teams for my good friend and colleague [Russell Miller](https://nkdagility.com/training/trainers/russell-miller/) so that he can also run classes on the platform.

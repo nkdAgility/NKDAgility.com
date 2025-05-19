@@ -1,18 +1,18 @@
 ---
 title: 'The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie'
 description: Explains why true Scrum requires real team agency, not just self-management in name, and how lacking agency leads to ineffective, ritualistic Agile practices.
-ResourceId: uwJYNXG7yIu
-ResourceImport: false
 date: 2025-05-01T09:00:00Z
 weight: 200
+ResourceId: uwJYNXG7yIu
+ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: Hybrid
-aliases:
-- /resources/uwJYNXG7yIu
 aliasesArchive:
 - /the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie
 - /blog/the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
 - /the-role-of-agency-in-scrum--why-self-management-without-agency-is-a-lie
+concepts:
+- Ethos
 categories:
 - Scrum
 - Product Development
@@ -35,8 +35,8 @@ tags:
 - Agile Values and Principles
 Watermarks:
   description: 2025-05-07T12:49:11Z
-concepts:
-- Ethos
+aliases:
+- /resources/uwJYNXG7yIu
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) is often misunderstood as a set of ceremonies or a lightweight [project management]({{< ref "/tags/project-management" >}}) method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management.

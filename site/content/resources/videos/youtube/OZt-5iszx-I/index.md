@@ -3,19 +3,7 @@ title: 'Turning User Feedback into Actionable Work: A Guide to Maximizing Produc
 description: Learn how to quickly turn user feedback into actionable work items in Agile teams, improving product value through fast feedback loops, prioritisation, and continuous improvement.
 date: 2024-07-10T06:45:01Z
 weight: 1000
-ResourceId: OZt-5iszx-I
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: OZt-5iszx-I
-source: internal
-url: /resources/videos/:slug
 slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
-layout: video
-preview: https://i.ytimg.com/vi/OZt-5iszx-I/maxresdefault.jpg
-duration: 56
-isShort: true
 aliases:
 - /resources/OZt-5iszx-I
 - /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
@@ -28,9 +16,11 @@ aliasesArchive:
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-3
 - turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Practice
+categories:
+- Product Development
+- Product Management
 tags:
 - Customer Focus
 - Customer Feedback Loops
@@ -47,15 +37,25 @@ tags:
 - Product Backlog
 - Value Delivery
 - Business Agility
+ResourceId: OZt-5iszx-I
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: OZt-5iszx-I
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/OZt-5iszx-I/maxresdefault.jpg
+duration: 56
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:02:39Z
-concepts:
-- Practice
 
 ---
 In the fast-paced world of Agile development, one of the most critical aspects of delivering value is how effectively we turn user feedback into concrete work items. It’s not just about listening to what our users have to say; it's about taking that feedback and quickly transforming it into actions that improve our product. If your feedback loop is slow, your product’s value might be diminishing. Let's explore how to shorten that timeline, ensuring that user feedback fuels [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and high-[value delivery]({{< ref "/tags/value-delivery" >}}).

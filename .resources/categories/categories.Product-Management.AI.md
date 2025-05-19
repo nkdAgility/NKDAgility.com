@@ -1,11 +1,13 @@
 ---
 title: Product Management
-abstract: Product Management is a strategic discipline focused on aligning customer needs, business objectives, and technical feasibility to maximise value delivery in product development. Originating from Agile methodologies, particularly within the Scrum framework, the role of the Product Owner is central to this discipline, emphasising accountability for value rather than mere output. This approach is crucial in ensuring that product teams prioritise impactful features over an extensive list of functionalities, thereby avoiding the pitfalls of feature bloat. Effective Product Management operates within a social system, requiring collaboration with stakeholders, executives, and developers while continuously engaging with users to maintain a compelling product vision. The use of evidence-based management is vital, as it allows Product Managers to make informed decisions based on measurable metrics rather than vanity metrics. Customer feedback is treated as a strategic asset, necessitating discernment in its application to avoid misalignment with product goals. Additionally, technical empathy is essential for understanding the feasibility and risks associated with product strategies, ensuring that desirability, viability, and feasibility are balanced. Clear boundaries of authority and accountability are necessary for effective collaboration, with Product Managers defining the 'what' and 'why', while developers focus on the 'how'. Ultimately, Product Management is about optimising value through informed decision-making, fostering a culture of learning, and prioritising outcomes over outputs, making it a critical function in Agile and DevOps environments.
-ClassificationType: categories
-ClassificationContentOrigin: human
-trustpilot: false
-date: 2025-02-11T10:17:24Z
 description: Product Management is the strategic discipline of balancing customer needs, business goals, and technical feasibility to maximise product value. It involves defining vision, prioritising opportunities, and guiding development efforts to ensure alignment with market demands and organisational objectives. Effective Product Management enables teams to deliver impactful solutions, adapt to change, and drive continuous value delivery through evidence-based decision-making and cross-functional collaboration.
+ClassificationType: categories
+trustpilot: false
+abstract: Product Management is a strategic discipline focused on aligning customer needs, business objectives, and technical feasibility to maximise value delivery in product development. Originating from Agile methodologies, particularly within the Scrum framework, the role of the Product Owner is central to this discipline, emphasising accountability for value rather than mere output. This approach is crucial in ensuring that product teams prioritise impactful features over an extensive list of functionalities, thereby avoiding the pitfalls of feature bloat. Effective Product Management operates within a social system, requiring collaboration with stakeholders, executives, and developers while continuously engaging with users to maintain a compelling product vision. The use of evidence-based management is vital, as it allows Product Managers to make informed decisions based on measurable metrics rather than vanity metrics. Customer feedback is treated as a strategic asset, necessitating discernment in its application to avoid misalignment with product goals. Additionally, technical empathy is essential for understanding the feasibility and risks associated with product strategies, ensuring that desirability, viability, and feasibility are balanced. Clear boundaries of authority and accountability are necessary for effective collaboration, with Product Managers defining the 'what' and 'why', while developers focus on the 'how'. Ultimately, Product Management is about optimising value through informed decision-making, fostering a culture of learning, and prioritising outcomes over outputs, making it a critical function in Agile and DevOps environments.
+ClassificationContentOrigin: human
+date: 2025-02-11T10:17:24Z
+weight: 495
+icon: fa-box-open
 Instructions: |-
   **Use this category only for discussions on Product Management.**  
   The scope of this category encompasses the strategic alignment of customer needs, business objectives, and technical capabilities in the development and management of products. It focuses on the methodologies and frameworks that guide product managers in making informed decisions that drive product success and organisational growth.
@@ -31,7 +33,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 concepts:
-- Accountability
+- Ethos
 
 ---
 **Product Management: Balancing Vision, Value, and Viability**

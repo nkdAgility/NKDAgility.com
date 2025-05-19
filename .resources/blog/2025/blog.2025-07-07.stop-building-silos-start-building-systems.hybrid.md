@@ -1,13 +1,9 @@
 ---
 title: Stop Building Silos. Start Building Systems
 description: Explains how fragmented automation and tool silos harm software delivery, and advocates for unified engineering systems and platform engineering to enable reliable, scalable DevOps.
-ResourceId: zLhc3UKUWOj
-ResourceImport: false
-ResourceType: blog
-ResourceContentOrigin: hybrid
 date: 2025-07-07T09:00:00Z
-slug: stop-building-silos-start-building-systems
 weight: 50
+slug: stop-building-silos-start-building-systems
 aliases:
 - /resources/zLhc3UKUWOj
 - /resources/blog/stop-building-silos.-start-building-systems
@@ -15,6 +11,8 @@ aliasesArchive:
 - /stop-building-silos--start-building-systems
 - /blog/stop-building-silos--start-building-systems
 - /resources/blog/stop-building-silos.-start-building-systems
+concepts:
+- Ethos
 categories:
 - Engineering Excellence
 - DevOps
@@ -35,10 +33,12 @@ tags:
 - Engineering Practices
 - Value Delivery
 - Azure Pipelines
+ResourceId: zLhc3UKUWOj
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-07T12:48:58Z
-concepts:
-- Ethos
 
 ---
 You can’t deliver quality at speed when your automation is duct-taped together. If your pipelines are stitched across multiple systems, your deployments depend on human rituals, and your tests run in the shadows, you don’t have a delivery system—you have a liability.

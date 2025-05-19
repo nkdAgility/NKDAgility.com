@@ -1,16 +1,8 @@
 ---
 title: Futureproof Yourself With Skills, Capabilities And Certifications That Companies Care About
 description: Learn which skills, capabilities, and certifications make you stand out to employers, boost your agility, and stay competitive in today’s fast-changing job market.
-ResourceId: Kn3i3yGquon
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2022-11-28
 weight: 1000
-preview: naked-agility-technically-agile-1280×720-December2022.jpg
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 slug: newsletter-2022
 aliases:
 - /newsletters/newsletter-2022/
@@ -19,12 +11,20 @@ aliases:
 aliasesArchive:
 - /newsletters/newsletter-2022/
 - /resources/newsletters/newsletter-2022/
+concepts: []
 categories:
 - Uncategorized
 tags: []
+ResourceId: Kn3i3yGquon
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+preview: naked-agility-technically-agile-1280×720-December2022.jpg
+author: MrHinsh
+resourceTypes: newsletter
+layout: newsletter
 Watermarks:
   description: 2025-05-07T13:14:40Z
-concepts: []
 
 ---
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.

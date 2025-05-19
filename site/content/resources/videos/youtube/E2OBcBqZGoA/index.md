@@ -3,15 +3,7 @@ title: 'Unlocking Agility: How Decentralisation Empowers Teams to Maximise Value
 description: Explores how decentralising decision-making boosts team agility, engagement, and innovation, helping organisations of any size maximise value and adapt to change.
 date: 2023-09-28T11:09:12Z
 weight: 1000
-ResourceId: E2OBcBqZGoA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: E2OBcBqZGoA
-url: /resources/videos/:slug
 slug: unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
-layout: video
 aliases:
 - /resources/E2OBcBqZGoA
 - /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
@@ -22,9 +14,11 @@ aliasesArchive:
 - /resources/videos/05-october-2023-agile-leadership-webinar
 - /resources/05-october-2023-agile-leadership-webinar
 - unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
-preview: https://i.ytimg.com/vi/E2OBcBqZGoA/maxresdefault.jpg
-duration: 46
-isShort: true
+concepts:
+- Principle
+categories:
+- Leadership
+- Product Development
 tags:
 - Beta Codex
 - Social Technologies
@@ -34,19 +28,25 @@ tags:
 - Organisational Agility
 - Organisational Change
 - Value Delivery
+ResourceId: E2OBcBqZGoA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: E2OBcBqZGoA
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/E2OBcBqZGoA/maxresdefault.jpg
+duration: 46
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Leadership
-- Product Development
 Watermarks:
   description: 2025-05-07T13:09:11Z
-concepts:
-- Principle
 
 ---
 In my experience working with organisations of all sizes, one thing has become abundantly clear: the struggle to maximise value from our work is not exclusive to large enterprises. In fact, I would argue that smaller organisations often have a distinct advantage in this area. Why? Because they possess the agility to adapt their business practices more readily than their larger counterparts.

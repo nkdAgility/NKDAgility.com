@@ -3,13 +3,6 @@ title: 'Mastering Azure DevOps Migration: Expert Insights for a Seamless Transit
 description: Learn key strategies and expert advice for migrating to Azure DevOps, including handling database complexities, validation, and when to seek external expertise for success.
 date: 2024-11-08T05:45:01Z
 weight: 840
-ResourceId: 4Tjc5uEtM7M
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 4Tjc5uEtM7M
-url: /resources/videos/:slug
 slug: mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
 aliases:
 - /resources/4Tjc5uEtM7M
@@ -20,12 +13,22 @@ aliasesArchive:
 - /resources/videos/devops-migration-lack-of-expertise
 - /resources/devops-migration-lack-of-expertise
 - mastering-azure-devops-migration-expert-insights-for-a-seamless-transition
-preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
-duration: 262
-isShort: false
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Azure DevOps
 - Pragmatic Thinking
+ResourceId: 4Tjc5uEtM7M
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 4Tjc5uEtM7M
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/4Tjc5uEtM7M/maxresdefault.jpg
+duration: 262
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -33,11 +36,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T12:57:20Z
-concepts: []
 
 ---
 Migrating to Azure [DevOps]({{< ref "/categories/devops" >}}) can feel like a daunting task, especially when you consider that for many organisations, it’s a one-time event. This singularity often means that the necessary skills for a successful migration may not exist in-house. From my experience, it rarely makes sense to build and maintain these skills internally, particularly when the migration is something you’re likely to do just once.

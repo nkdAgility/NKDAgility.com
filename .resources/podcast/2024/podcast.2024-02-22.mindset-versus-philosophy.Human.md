@@ -1,24 +1,24 @@
 ---
 title: Mindset Versus Philosophy
 description: Explores how precise language and context shape transparency and understanding in Agile, highlighting why word choice matters for effective communication and collaboration.
+date: 2024-02-22
+weight: 1000
+slug: mindset-versus-philosophy
+aliases:
+- /resources/G2XUaCtiq8w
 ResourceId: G2XUaCtiq8w
 ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
-date: 2024-02-22
-weight: 1000
-categories:
-- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: mindset-versus-philosophy
-aliases:
-- /resources/G2XUaCtiq8w
-tags: []
 Watermarks:
   description: 2025-05-07T13:05:39Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

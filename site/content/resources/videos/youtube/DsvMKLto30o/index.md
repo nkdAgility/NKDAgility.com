@@ -3,16 +3,7 @@ title: 'Embrace Simplicity: How to Transform Complexity into Continuous Delivery
 description: Explains how simplifying complex software and committing to change enables continuous delivery, highlighting the need for cultural shift, resilience, and ongoing improvement.
 date: 2025-02-27T07:00:10Z
 weight: 255
-ResourceId: DsvMKLto30o
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: DsvMKLto30o
-source: internal
-url: /resources/videos/:slug
 slug: embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
-layout: video
 aliases:
 - /resources/DsvMKLto30o
 - /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
@@ -25,9 +16,11 @@ aliasesArchive:
 - /resources/videos/why-i-wrote-that-continuous-delivery-is-not-a-pipe-dream
 - /resources/videos/embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
 - embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success
-preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
-duration: 788
-isShort: false
+concepts: []
+categories:
+- Engineering Excellence
+- Product Development
+- DevOps
 tags:
 - Software Development
 - Pragmatic Thinking
@@ -36,18 +29,25 @@ tags:
 - Frequent Releases
 - Operational Practices
 - Product Delivery
+ResourceId: DsvMKLto30o
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: DsvMKLto30o
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/DsvMKLto30o/maxresdefault.jpg
+duration: 788
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
-- Product Development
-- DevOps
 Watermarks:
   description: 2025-05-07T12:49:24Z
-concepts: []
 
 ---
 I recently penned a post titled "Stop Hiding Behind Complexity and Start Delivering Continuously," and I want to expand on that idea here. The crux of my argument is straightforward: if anyone in your organisation claims that your software is too big or too complex for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), they are either lying, being lazy, or simply don’t know how to make it happen. More often than not, it’s the latter—they just don’t understand how to transition from their outdated, cumbersome systems to a more agile, continuous delivery model.

@@ -3,15 +3,7 @@ title: 'Transform Your Scrum Master Journey: Key Insights from the Advanced PSM 
 description: Discover how the Advanced PSM course helps Scrum Masters shift from admin tasks to empowering teams, supporting Product Owners, and tackling organisational challenges.
 date: 2023-03-06T07:00:14Z
 weight: 665
-ResourceId: QGXlCm_B5zA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: QGXlCm_B5zA
-url: /resources/videos/:slug
 slug: transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
-layout: video
 aliases:
 - /resources/QGXlCm_B5zA
 - /resources/videos/transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
@@ -23,26 +15,34 @@ aliasesArchive:
 - what-will-you-learn-on-the-psm-ii-course
 - /resources/videos/transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
 - transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
-preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
-duration: 280
-isShort: false
+concepts:
+- Accountability
+categories:
+- Product Development
+- Scrum
 tags:
 - Professional Scrum
 - Scrum Master
 - Software Development
+ResourceId: QGXlCm_B5zA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: QGXlCm_B5zA
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
+duration: 280
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:13:49Z
-concepts:
-- Accountability
 
 ---
 When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself revisiting the question: what will you truly learn on the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) course? This is a question I get asked frequently, and I believe there are two main insights that emerge from the Advanced PSM course that can significantly reshape your understanding and practice of Scrum.

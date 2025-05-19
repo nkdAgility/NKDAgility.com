@@ -3,19 +3,7 @@ title: What are the top 3 things a Scrum Master needs to bear in mind when adopt
 description: 'Summarises the top considerations for Scrum Masters adopting a coaching stance: building trust, understanding team context, and leading through influence, not authority.'
 date: 2023-09-18T07:00:32Z
 weight: 565
-ResourceId: v1sMbKpQndU
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: v1sMbKpQndU
-source: internal
-url: /resources/videos/:slug
 slug: what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-layout: video
-preview: https://i.ytimg.com/vi/v1sMbKpQndU/maxresdefault.jpg
-duration: 164
-isShort: false
 aliases:
 - /resources/v1sMbKpQndU
 - /resources/videos/what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
@@ -29,9 +17,12 @@ aliasesArchive:
 - /resources/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 - /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 - what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Technical Leadership
+- Product Development
+- Scrum
 tags:
 - Agile Philosophy
 - Agile Transformation
@@ -43,16 +34,25 @@ tags:
 - Organisational Agility
 - Social Technologies
 - Team Motivation
+ResourceId: v1sMbKpQndU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: v1sMbKpQndU
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/v1sMbKpQndU/maxresdefault.jpg
+duration: 164
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Technical Leadership
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:09:29Z
-concepts:
-- Principle
 
 ---
 ## The Agile Landscape: A Guide to Effective [Coaching]({{< ref "/tags/coaching" >}}) and [Leadership]({{< ref "/categories/leadership" >}}) 

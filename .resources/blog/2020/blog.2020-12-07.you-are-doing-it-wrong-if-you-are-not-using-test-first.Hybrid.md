@@ -1,19 +1,8 @@
 ---
 title: You are doing it wrong if you are not using test first
 description: Explains how adopting test-first practices in software development improves quality, reduces bugs, and enables confident continuous delivery by validating requirements early.
-ResourceId: yqHaiUlMNTP
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 9469
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-12-07
 weight: 255
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliases:
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
@@ -24,6 +13,11 @@ aliasesArchive:
 - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /you-are-doing-it-wrong-if-you-are-not-using-test-first
 - /resources/blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+concepts:
+- Method
+categories:
+- Product Development
+- Engineering Excellence
 tags:
 - Technical Excellence
 - Engineering Practices
@@ -40,14 +34,20 @@ tags:
 - Shift Left Strategy
 - Competence
 - Product Delivery
-categories:
-- Product Development
-- Engineering Excellence
+ResourceId: yqHaiUlMNTP
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 9469
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:17Z
-concepts:
-- Method
 
 ---
 Many teams are struggling with delivering modern software because they are not building with Test First Principals. Test First gives us the assurance that we have built the correct thing, that what we built is what the customer asked for and that when we change things we don’t break anything inadvertently.

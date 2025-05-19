@@ -3,19 +3,7 @@ title: Unlocking the Power of Immersive Learning in Agile
 description: Explores how immersive, hands-on learning helps teams internalise Agile principles, shift mindsets, and drive lasting Agile transformation through real-world experience.
 date: 2024-02-03T07:00:12Z
 weight: 690
-ResourceId: OlzXHZihQzI
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: OlzXHZihQzI
-source: internal
-url: /resources/videos/:slug
 slug: unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
-layout: video
-preview: https://i.ytimg.com/vi/OlzXHZihQzI/maxresdefault.jpg
-duration: 45
-isShort: true
 aliases:
 - /resources/OlzXHZihQzI
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
@@ -27,9 +15,9 @@ aliasesArchive:
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
 - unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
 tags:
 - Continuous Learning
 - Organisational Agility
@@ -38,13 +26,25 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Agile Values and Principles
+ResourceId: OlzXHZihQzI
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: OlzXHZihQzI
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/OlzXHZihQzI/maxresdefault.jpg
+duration: 45
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:06:01Z
-concepts: []
 
 ---
 In today’s fast-paced, ever-evolving workplace, Agile practices are becoming a cornerstone for teams looking to deliver value, adapt, and innovate quickly. But how do we ensure that teams and individuals truly _internalize_ Agile principles? How do we create an environment where Agile becomes second nature, rather than just a series of rituals to follow? This is where **immersive learning** shines.

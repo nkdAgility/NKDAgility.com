@@ -3,16 +3,7 @@ title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and 
 description: Empowering teams with financial insights boosts ownership, informed decision-making, and ROI by aligning daily work with business goals through transparency and team-level P&L.
 date: 2024-12-12T06:30:00Z
 weight: 505
-ResourceId: uetzybp7bf4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: uetzybp7bf4
-source: youtube
-url: /resources/videos/:slug
 slug: empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
-layout: video
 aliases:
 - /resources/uetzybp7bf4
 - /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
@@ -22,23 +13,32 @@ aliasesArchive:
 - /resources/videos/building-a-culture-of-continuous-improvement
 - /resources/building-a-culture-of-continuous-improvement
 - empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
+concepts: []
+categories:
+- Product Management
+- Leadership
+- Product Development
+tags:
+- Value Delivery
+ResourceId: uetzybp7bf4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: uetzybp7bf4
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA
 duration: 379
 isShort: false
-tags:
-- Value Delivery
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Management
-- Leadership
-- Product Development
 Watermarks:
   description: 2025-05-07T12:56:45Z
-concepts: []
 
 ---
 If you want to maximise your return on investment for the time and effort that people put into the products you're creating, fostering a culture where your team genuinely cares about the products and your customers is essential. When individuals feel ownership over what they create, they naturally invest more of themselves into their work. This sense of ownership is crucial; people care about things they have a stake in.

@@ -1,12 +1,15 @@
 ---
 title: Delivery is the only Measure of Progress in Scrum
 description: Scrum teams must deliver working software to real users every Sprint; true progress is measured by delivery to production, not just by completing internal work.
-ResourceId: jBIyK6NW3ZB
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: false
 date: 2025-02-03T09:00:00
 weight: 175
+slug: delivery-is-the-only-measure-of-progress
+aliases:
+- /resources/jBIyK6NW3ZB
+ResourceId: jBIyK6NW3ZB
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -14,14 +17,17 @@ contributors:
   external: https://www.linkedin.com/in/ana-kotevska-b0b9ab39/
 layout: blog
 resourceTypes: blog
-slug: delivery-is-the-only-measure-of-progress
-aliases:
-- /resources/jBIyK6NW3ZB
 aliasesArchive:
 - /delivery-is-the-only-measure-of-progress
 - /blog/delivery-is-the-only-measure-of-progress
 - /delivery-is-the-only-measure-of-progress-in-scrum
 - /blog/delivery-is-the-only-measure-of-progress-in-scrum
+concepts:
+- Principle
+categories:
+- Product Development
+- Scrum
+- Engineering Excellence
 tags:
 - Pragmatic Thinking
 - Software Development
@@ -38,15 +44,9 @@ tags:
 - Frequent Releases
 - Agile Product Management
 - Technical Excellence
-categories:
-- Product Development
-- Scrum
-- Engineering Excellence
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 Watermarks:
   description: 2025-05-07T12:49:51Z
-concepts:
-- Principle
 
 ---
 As a social technology, [Scrum]({{< ref "/categories/scrum" >}}) has remained steadfast in its ethos for over 32 years, enabling teams to generate value through adaptive solutions to complex problems. Yet, a subtle distinction in its guidance often trips up practitioners - Scrum **explicitly** mandates a **Done [Increment]({{< ref "/tags/increment" >}})** but **implicitly** mandates **Delivery**. This distinction, though subtle, holds profound implications in a modern context where [DevOps]({{< ref "/categories/devops" >}}) has reshaped the landscape of software delivery.
