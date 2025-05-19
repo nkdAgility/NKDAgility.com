@@ -35,6 +35,7 @@
   <meta property="og:image" content="{{- .Site.Params.og_image -}}" />
 {{- end }}
 
+
 <meta property="og:url" content="{{- $canonicalUrl }}" />
 <meta property="og:site_name" content="naked Agility with Martin Hinshelwood" />
 
@@ -99,6 +100,13 @@
           }
           {{- end }}
           {{- end }}
+        ]
+        "sameAs":[
+          {{- with .Params.platform_signals -}}
+            {{- range $index, $item := . -}}
+              {{- $item.post_url -}}
+            {{- end -}}
+          {{- end -}}
         ]
       },
       {{ else if or (eq .Type "course") (eq .Type "mentor-program") }}

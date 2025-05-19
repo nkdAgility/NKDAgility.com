@@ -30,6 +30,58 @@
   </section>
 
   <section class="container my-5" style="max-width: 700px !important">
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+      {{ with .Params.platform_signals }}
+        {{ range $index, $item := . }}
+          <li class="nav-item" role="presentation">
+            <button class="nav-link {{ if eq $index 0 }}active{{ end }}" id="signals-tab" data-bs-toggle="tab" data-bs-target="#{{ .platform }}" type="button" role="tab" aria-controls="signals" aria-selected="{{ if eq $index 0 }}true{{ else }}false{{ end }}">{{ .platform }}</button>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+
+    <div class="tab-content mt-3" id="myTabContent">
+      {{ $page := . }}
+      {{ with .Params.platform_signals }}
+        {{ range $index, $item := . }}
+          <div class="tab-pane fade {{ if eq $index 0 }}show active{{ end }}" id="{{ .platform }}" role="tabpanel" aria-labelledby="signals-tab">
+            {{ if  eq .platform "Scrumorg" }}
+              <blockquote class="scrumorg-embed-bq">
+                <a href="{{ .post_url }}">{{ $page.Title }} </a>
+              </blockquote>
+            {{ end }}
+            {{ if  eq .platform "LinkedIn" }}
+              <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:{{- .post_id -}}?collapsed=1" height="764" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+            {{ end }}
+            {{ if  eq .platform "Reddit" }}
+              <blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316">
+                <a href="{{ .post_url }}">{{ .Page.Title }} </a>
+              </blockquote>
+            {{ end }}
+          </div>
+        {{ end }}
+      {{ end }}
+      <script>
+        document.querySelectorAll('button[data-bs-toggle="tab"]').forEach((button) => {
+          button.addEventListener("shown.bs.tab", function () {
+            if (this.dataset.bsTarget.includes("Reddit")) {
+              const existingScript = document.querySelector('script[src*="reddit.com/widgets.js"]');
+              if (existingScript) {
+                existingScript.remove();
+              }
+              const script = document.createElement("script");
+              script.src = "https://embed.reddit.com/widgets.js";
+              script.async = true;
+              script.charset = "UTF-8";
+              document.body.appendChild(script);
+            }
+          });
+        });
+      </script>
+    </div>
+  </section>
+
+  <section class="container my-5" style="max-width: 700px !important">
     {{- partial "components/resources/tag-cloud.html" . }}
   </section>
 
