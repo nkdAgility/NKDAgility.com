@@ -25,6 +25,15 @@ params:
 pagination:
   pagerSize: 30
 
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: English
+    weight: 1
+  es:
+    languageName: Español
+    weight: 2
+
 # Enable sitemap and robots.txt
 sitemap:
   filename: "sitemap.xml"

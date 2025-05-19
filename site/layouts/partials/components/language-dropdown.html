@@ -1,0 +1,10 @@
+{{ if gt (len .Translations) 0 }}
+  <div class="dropdown">
+    <button type="button" class="btn btn-sm btn-outline-secondary text-nowrap" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Languages </span><i class="fa-regular fa-language"></i></button>
+    <div class="dropdown-menu dropdown-menu-end p-3">
+      {{ range .Translations }}
+        <a class="btn btn-primary btn-sm w-100 mb-2" href="{{ .RelPermalink }}">{{ .Lang }}</a>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
