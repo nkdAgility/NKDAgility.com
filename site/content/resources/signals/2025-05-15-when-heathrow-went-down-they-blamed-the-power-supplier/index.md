@@ -1,22 +1,22 @@
 ---
-title: When Heathrow went down, they blamed the power supplier."
+title: When Heathrow went down, they blamed the power supplier.
 date: 2025-05-15T15:30:30+01:00
 slug: when-heathrow-went-down-they-blamed-the-power-supplier
 draft: true
 source: LinkedIn
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7328803975921569792
-  post_id: "7328803975921569792"
-  post_date: 2025-05-15T14:30:30Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
-
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7328803975921569792
+    post_id: "7328803975921569792"
+    post_date: 2025-05-15T14:30:30Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 ---
+
 When Heathrow went down, they blamed the power supplier.
 
 A fire at one substation, they said, caused the disruption. Convenient story. But it wasn't true.
