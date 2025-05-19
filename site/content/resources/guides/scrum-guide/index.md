@@ -1,23 +1,14 @@
 ---
 title: The Scrum Guide
 description: A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.
+date: 2024-09-17
+weight: 690
 ResourceId: 59gcHh1fYtC
 ResourceImport: false
 ResourceType: guides
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
-aliases:
-- /guides/Scrum-Guide/
-- /guides/Scrum-Guide.html
-- /learn/agile-delivery-kit/guides/scrum-guide
-- /resources/guides/_guides/scrum-guide.md
-- /resources/59gcHh1fYtC
-aliasesArchive:
-- /guides/Scrum-Guide/
-- /guides/Scrum-Guide.html
-- /learn/agile-delivery-kit/guides/scrum-guide
-- /resources/guides/_guides/scrum-guide.md
 downloads:
 - title: Scrum Guide 2020
   type: pdf
@@ -51,14 +42,27 @@ recommendedContent:
 videos:
 - title: Overview of The Scrum Framework with Martin Hinshelwood
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
-date: 2024-09-17
-weight: 690
 creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about The Scrum Guide and how it can help you in your Agile journey!
   title: The Scrum Guide
+Watermarks:
+  description: 2025-05-07T12:58:15Z
+aliases:
+- /guides/Scrum-Guide/
+- /guides/Scrum-Guide.html
+- /learn/agile-delivery-kit/guides/scrum-guide
+- /resources/guides/_guides/scrum-guide.md
+- /resources/59gcHh1fYtC
+aliasesArchive:
+- /guides/Scrum-Guide/
+- /guides/Scrum-Guide.html
+- /learn/agile-delivery-kit/guides/scrum-guide
+- /resources/guides/_guides/scrum-guide.md
+concepts:
+- Framework
 categories:
 - Scrum
 - Product Development
@@ -78,10 +82,6 @@ tags:
 - Product Delivery
 - Team Performance
 - Definition of Done
-Watermarks:
-  description: 2025-05-07T12:58:15Z
-concepts:
-- Framework
 
 ---
 The [Scrum]({{< ref "/categories/scrum" >}}) Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.

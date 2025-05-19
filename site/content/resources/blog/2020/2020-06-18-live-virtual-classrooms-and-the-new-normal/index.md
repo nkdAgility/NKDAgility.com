@@ -1,18 +1,8 @@
 ---
 title: Live Virtual Classroom's and the new normal
 description: Explores how live virtual classrooms have become effective alternatives to in-person training, highlighting benefits, challenges, and the shift to remote learning as the new normal.
-ResourceId: wS3GaFbyzDv
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 44418
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-06-18
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: live-virtual-classrooms-and-the-new-normal
 aliases:
 - /blog/live-virtual-classrooms-and-the-new-normal
@@ -29,14 +19,24 @@ aliasesArchive:
 - /blog/live-virtual-classroom's-and-the-new-normal
 - /resources/blog/live-virtual-classrooms-and-the-new-normal
 - /resources/blog/live-virtual-classroom-s-and-the-new-normal
-tags:
-- Remote Working
+concepts: []
 categories:
 - Uncategorized
+tags:
+- Remote Working
+ResourceId: wS3GaFbyzDv
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 44418
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: image-1-1-1.png
 Watermarks:
   description: 2025-05-07T13:15:37Z
-concepts: []
 
 ---
 With the change in business model in the current crisis, many training organizations have had to do the unthinkable and move to Live Virtual training options. Existing wisdom was that training online, just as running teams virtually would be a disaster and reduce the student's experience.

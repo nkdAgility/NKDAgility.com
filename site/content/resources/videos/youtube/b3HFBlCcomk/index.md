@@ -3,19 +3,7 @@ title: 'The Fallacy of Equating Agility with Speed: What Agile Really Means'
 description: Explains why Agile is not about speed but about prioritising valuable work, adapting to feedback, and avoiding wasted effort to deliver products that truly meet user needs.
 date: 2024-07-11T06:45:01Z
 weight: 840
-ResourceId: b3HFBlCcomk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: b3HFBlCcomk
-source: internal
-url: /resources/videos/:slug
 slug: the-fallacy-of-equating-agility-with-speed-what-agile-really-means
-layout: video
-preview: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
-duration: 494
-isShort: false
 aliases:
 - /resources/b3HFBlCcomk
 - /resources/videos/the-fallacy-of-equating-agility-with-speed-what-agile-really-means
@@ -26,9 +14,10 @@ aliasesArchive:
 - /resources/videos/debunking-the-myth-agile-is-not-about-speed
 - /resources/debunking-the-myth-agile-is-not-about-speed
 - the-fallacy-of-equating-agility-with-speed-what-agile-really-means
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
 tags:
 - Agile Philosophy
 - Agile Transformation
@@ -38,14 +27,25 @@ tags:
 - Organisational Agility
 - Agile Strategy
 - Customer Focus
+ResourceId: b3HFBlCcomk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: b3HFBlCcomk
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
+duration: 494
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:38Z
-concepts:
-- Principle
 
 ---
 In the world of Agile, there’s a common misconception that agility equals speed. However, this idea is as much of an oxymoron as the concept of an "agile project manager." The truth is, Agile isn’t about rushing through tasks or speeding up processes; it's about spending your time wisely on valuable endeavors. Let’s dive deeper into what agility truly means and why it’s not about doing things faster, but doing the right things.

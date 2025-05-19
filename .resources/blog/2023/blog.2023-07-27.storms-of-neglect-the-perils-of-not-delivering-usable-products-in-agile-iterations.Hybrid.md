@@ -1,19 +1,8 @@
 ---
 title: Storms of Neglect The Perils of Not Delivering Usable Products in Agile Iterations
 description: Failing to deliver a usable product each agile iteration leads to lost trust, technical debt, poor adaptability, misaligned expectations, low morale, and lack of feedback.
-ResourceId: G1N1dQ6DNEV
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 49502
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-07-27
 weight: 305
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 aliases:
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
@@ -24,6 +13,12 @@ aliasesArchive:
 - /blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
 - /resources/blog/storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations
+concepts:
+- Tenet
+categories:
+- Product Development
+- Scrum
+- Product Management
 tags:
 - Increment
 - Agile Product Management
@@ -38,15 +33,20 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Transparency
-categories:
-- Product Development
-- Scrum
-- Product Management
+ResourceId: G1N1dQ6DNEV
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 49502
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:34Z
-concepts:
-- Tenet
 
 ---
 In light of the importance professional teams place on delivering usable, working products, I find myself compelled to address the woes that befall teams that need to adhere to this crucial tenet. We understand the need for working products; now, let us dissect the perils of straying from this righteous path.

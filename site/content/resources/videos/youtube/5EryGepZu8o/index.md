@@ -3,18 +3,7 @@ title: If you could teach just one thing about Scrum, what would it be?
 description: The most important aspect of Scrum is empiricism—using transparency, inspection, and adaptation to navigate complexity and drive effective product development.
 date: 2023-02-27T07:00:01Z
 weight: 665
-ResourceId: 5EryGepZu8o
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 5EryGepZu8o
-source: internal
-url: /resources/videos/:slug
 slug: if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
-preview: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg
-duration: 204
-isShort: false
 aliases:
 - /resources/5EryGepZu8o
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
@@ -24,9 +13,10 @@ aliasesArchive:
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 - /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 - if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
 tags:
 - Empirical Process Control
 - Professional Scrum
@@ -36,15 +26,25 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Software Development
+ResourceId: 5EryGepZu8o
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 5EryGepZu8o
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg
+duration: 204
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:13:56Z
-concepts:
-- Principle
 
 ---
 If you could teach just one thing about [Scrum]({{< ref "/categories/scrum" >}}), what would it be?

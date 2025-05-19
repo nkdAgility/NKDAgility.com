@@ -1,27 +1,30 @@
 ---
 title: 'Big Scrum: All you need and not enough'
 description: Explores how to scale Scrum effectively by applying agile values, fostering professional teams, and adapting processes to fit unique organisational needs for large-scale agility.
-ResourceId: yCJ5ERuJHUU
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11361
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2015-07-01
 weight: 305
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: big-scrum-all-you-need-and-not-enough
 aliases:
 - /resources/yCJ5ERuJHUU
+ResourceId: yCJ5ERuJHUU
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11361
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/big-scrum-all-you-need-and-not-enough
 - /big-scrum-all-you-need-and-not-enough
 - /big-scrum--all-you-need-and-not-enough
 - /blog/big-scrum--all-you-need-and-not-enough
 - /resources/blog/big-scrum-all-you-need-and-not-enough
+concepts: []
+categories:
+- Scrum
 tags:
 - Software Development
 - Scaling
@@ -29,12 +32,9 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 - Agile Transformation
-categories:
-- Scrum
 preview: clip_image003-3-3.png
 Watermarks:
   description: 2025-05-07T13:16:56Z
-concepts: []
 
 ---
 I was in Norway for NDC Oslo 2015 and I was there to talk about "Big [Scrum]({{< ref "/categories/scrum" >}}): All you need and not enough" which is a kind of oxymoron as it really is enough, you just need to apply the values and principals at scale. I tried to cover what for me is a total 100% requirement for Scale.

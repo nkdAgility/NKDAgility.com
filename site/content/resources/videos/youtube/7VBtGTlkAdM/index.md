@@ -3,21 +3,21 @@ title: 1 thing that sinks a consulting engagement before it starts gaining tract
 description: Overly detailed consulting contracts can hinder project success by limiting flexibility; focus on outcomes and value to adapt to changing client needs and product goals.
 date: 2023-08-19T07:00:06Z
 weight: 1000
+slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
+aliases:
+- /resources/7VBtGTlkAdM
+- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 ResourceId: 7VBtGTlkAdM
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: 7VBtGTlkAdM
 source: internal
 url: /resources/videos/:slug
-slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 preview: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg
 duration: 55
 isShort: true
-aliases:
-- /resources/7VBtGTlkAdM
-- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
 aliasesArchive:
 - /resources/videos/-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
@@ -25,18 +25,18 @@ aliasesArchive:
 - /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 - /blog//1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction/
 - 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
+concepts: []
+categories:
+- Uncategorized
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:07Z
-concepts: []
 
 ---
 ## The Double-Edged Sword of Consulting Contracts

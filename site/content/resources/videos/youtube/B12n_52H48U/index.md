@@ -3,19 +3,7 @@ title: How do you decide whether to pivot or stay the course? (Nokia story)
 description: Explores how product owners make critical decisions to pivot or persevere in Agile projects, balancing data, instinct, feedback, and adaptability for success.
 date: 2023-09-13T13:59:54Z
 weight: 690
-ResourceId: B12n_52H48U
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: B12n_52H48U
-source: internal
-url: /resources/videos/:slug
 slug: how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
-layout: video
-preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
-duration: 313
-isShort: false
 aliases:
 - /resources/B12n_52H48U
 - /resources/videos/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
@@ -28,20 +16,32 @@ aliasesArchive:
 - /resources/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 - /resources/videos/raise-ante-up-or-fold-the-ultimate-decision-in-business
 - how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-tags:
-- Pragmatic Thinking
-- Software Development
-resourceTypes:
-- video
+concepts: []
 categories:
 - Product Development
 - Product Management
+tags:
+- Pragmatic Thinking
+- Software Development
+ResourceId: B12n_52H48U
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: B12n_52H48U
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
+duration: 313
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+resourceTypes:
+- video
 Watermarks:
   description: 2025-05-07T13:09:34Z
-concepts: []
 
 ---
 ## The Role of the [Product Owner]({{< ref "/tags/product-owner" >}}): Navigating the Agile Seas 🌊 

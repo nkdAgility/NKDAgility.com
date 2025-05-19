@@ -1,19 +1,8 @@
 ---
 title: Deciphering the Enigma of Story Points Across Teams
 description: Explains why Story Points are subjective and unsuitable for comparing teams, and highlights objective metrics like throughput and value for measuring and improving team performance.
-ResourceId: LKp5S7_4Kbw
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 49888
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-09-21
 weight: 330
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: deciphering-the-enigma-of-story-points-across-teams
 aliases:
 - /blog/deciphering-the-enigma-of-story-points-across-teams
@@ -24,6 +13,10 @@ aliasesArchive:
 - /blog/deciphering-the-enigma-of-story-points-across-teams
 - /deciphering-the-enigma-of-story-points-across-teams
 - /resources/blog/deciphering-the-enigma-of-story-points-across-teams
+concepts: []
+categories:
+- Product Development
+- Product Management
 tags:
 - Metrics and Learning
 - Software Development
@@ -32,13 +25,20 @@ tags:
 - Pragmatic Thinking
 - Throughput
 - Team Performance
-categories:
-- Product Development
-- Product Management
+ResourceId: LKp5S7_4Kbw
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 49888
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 Watermarks:
   description: 2025-05-07T13:09:25Z
-concepts: []
 
 ---
 Over the past decade, a recurring query has been echoing in my ears: "How can we normalise Story Points across teams so that we can look across and maybe compare teams?" It's high time we address this.

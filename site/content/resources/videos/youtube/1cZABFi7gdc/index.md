@@ -3,18 +3,7 @@ title: 'Hiring the Right Agile Coach: What You Need to Know'
 description: Learn how to choose an Agile coach by assessing experience, track record, cultural fit, and adaptability to ensure effective, tailored Agile transformation for your organisation.
 date: 2023-11-23T11:00:01Z
 weight: 840
-ResourceId: 1cZABFi7gdc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 1cZABFi7gdc
-source: internal
-url: /resources/videos/:slug
 slug: hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
-preview: https://i.ytimg.com/vi/1cZABFi7gdc/maxresdefault.jpg
-duration: 37
-isShort: true
 aliases:
 - /resources/1cZABFi7gdc
 - /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
@@ -26,21 +15,32 @@ aliasesArchive:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-4
 - hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Coaching
 - Agile Transformation
 - Organisational Agility
+ResourceId: 1cZABFi7gdc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 1cZABFi7gdc
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/1cZABFi7gdc/maxresdefault.jpg
+duration: 37
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:07:34Z
-concepts: []
 
 ---
 Finding the right Agile coach can make or break your organization's journey toward greater agility. While the Agile landscape is filled with talented coaches, not all will suit your organization’s unique needs. Whether you're a small startup looking to scale or a large enterprise seeking to enhance its agility, finding the right coach is essential.

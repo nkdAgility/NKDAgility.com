@@ -1,18 +1,8 @@
 ---
 title: The Product Goal is a commitment for the Product Backlog
 description: Defines the Product Goal as a clear, measurable objective in the Product Backlog that guides Scrum Teams, ensuring focus, transparency, and alignment with long-term value.
-ResourceId: sVDzuTFDLSJ
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 45086
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-11-23
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-product-goal-is-a-commitment-for-the-product-backlog
 aliases:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
@@ -23,6 +13,11 @@ aliasesArchive:
 - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
 - /the-product-goal-is-a-commitment-for-the-product-backlog
 - /resources/blog/the-product-goal-is-a-commitment-for-the-product-backlog
+concepts: []
+categories:
+- Scrum
+- Product Development
+- Product Management
 tags:
 - Common Goals
 - Agile Product Management
@@ -33,14 +28,19 @@ tags:
 - Product Delivery
 - Customer Focus
 - Product Backlog
-categories:
-- Scrum
-- Product Development
-- Product Management
+ResourceId: sVDzuTFDLSJ
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 45086
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:22Z
-concepts: []
 
 ---
 In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff introduces the idea of the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal). The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) is a commitment to ensure [transparency]({{< ref "/tags/transparency" >}}) and focus against progress.

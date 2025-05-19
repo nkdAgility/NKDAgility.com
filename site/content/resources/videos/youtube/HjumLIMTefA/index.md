@@ -3,19 +3,7 @@ title: The Power of Immersive Learning in Agile Training
 description: Explores how immersive, hands-on learning in Agile training fosters real-world application, continuous improvement, and lasting organisational change through feedback and adaptation.
 date: 2024-02-04T11:00:23Z
 weight: 1000
-ResourceId: HjumLIMTefA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: HjumLIMTefA
-source: internal
-url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
-layout: video
-preview: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg
-duration: 43
-isShort: true
 aliases:
 - /resources/HjumLIMTefA
 - /resources/videos/the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
@@ -27,9 +15,9 @@ aliasesArchive:
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 - the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
 tags:
 - Continuous Improvement
 - Organisational Change
@@ -40,13 +28,25 @@ tags:
 - Change Management
 - Competence
 - Operational Practices
+ResourceId: HjumLIMTefA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: HjumLIMTefA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg
+duration: 43
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:06:00Z
-concepts: []
 
 ---
 In the world of Agile training, there's one approach that stands out above the rest: immersive learning. It's not just about absorbing knowledge in a classroom setting; it's about creating a lasting impact that resonates far beyond the training session itself. When participants take what they’ve learned and apply it to their real-world challenges, that's where the magic happens. But what makes immersive learning so effective? Let’s dive into how this approach creates _real_ organizational change and why it should be at the core of any Agile learning journey.

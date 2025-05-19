@@ -3,26 +3,30 @@ title: 'Maximise Your Virtual Classroom Experience: Essential Tech Tips for Scru
 description: Practical tech tips for using Microsoft Teams and Mural to improve collaboration, engagement, and learning in live virtual Scrum training sessions.
 date: 2020-05-02T16:34:05Z
 weight: 1000
-ResourceId: _bjNHN4PI9s
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: _bjNHN4PI9s
-url: /resources/videos/:slug
 slug: maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 aliases:
 - /resources/_bjNHN4PI9s
+ResourceId: _bjNHN4PI9s
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: _bjNHN4PI9s
+url: /resources/videos/:slug
 aliasesArchive:
 - /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 - /resources/videos/ep-007-running-a-live-virtual-classroom
 - /resources/ep-007-running-a-live-virtual-classroom
 - maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
+concepts:
+- Tool
+categories:
+- Uncategorized
+tags:
+- Collaboration Tools
 preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 isShort: false
-tags:
-- Collaboration Tools
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -30,12 +34,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:45Z
-concepts:
-- Tool
 
 ---
 Welcome to my blog! Today, I want to share my experiences and insights from running live virtual classrooms, particularly focusing on the technologies that enhance our learning environment. As a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Naked Agility, I’ve had the opportunity to facilitate numerous classes, and I’ve learned a thing or two about making the most of our digital tools. 

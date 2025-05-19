@@ -3,13 +3,6 @@ title: 'Redefining the Scrum Master: From Misconceptions to Empowering Leadershi
 description: Explores common misconceptions about the Scrum Master role, highlighting the shift from tool admin to empowering leader who fosters team autonomy, growth, and self-organisation.
 date: 2023-05-12T14:00:02Z
 weight: 610
-ResourceId: 3YBrq-cle_w
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 3YBrq-cle_w
-url: /resources/videos/:slug
 slug: redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
 aliases:
 - /resources/3YBrq-cle_w
@@ -21,9 +14,12 @@ aliasesArchive:
 - /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 - redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
-preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
-duration: 132
-isShort: false
+concepts:
+- Principle
+categories:
+- Scrum
+- Product Development
+- Technical Leadership
 tags:
 - Scrum Master
 - Professional Scrum
@@ -34,6 +30,16 @@ tags:
 - Agile Leadership
 - Coaching
 - Self Organisation
+ResourceId: 3YBrq-cle_w
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 3YBrq-cle_w
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
+duration: 132
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -41,14 +47,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
-- Technical Leadership
 Watermarks:
   description: 2025-05-07T13:12:30Z
-concepts:
-- Principle
 
 ---
 As I reflect on my journey through the world of [Scrum]({{< ref "/categories/scrum" >}}), one of the most profound challenges I've encountered is the way we perceive the role of the [Scrum Master]({{< ref "/tags/scrum-master" >}}). This was particularly highlighted during my experience with the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master II (PSM-2) class. It’s a transformative experience that forces us to confront and reassess our assumptions about what it means to be a Scrum Master.

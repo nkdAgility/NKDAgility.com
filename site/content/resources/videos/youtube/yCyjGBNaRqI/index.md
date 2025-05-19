@@ -3,15 +3,7 @@ title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 description: Explores how team happiness, autonomy, mastery, and purpose drive engagement and lead to higher-quality, more impactful products in agile organisations.
 date: 2024-05-10T06:45:01Z
 weight: 665
-ResourceId: yCyjGBNaRqI
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: yCyjGBNaRqI
-url: /resources/videos/:slug
 slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
-layout: video
 aliases:
 - /resources/yCyjGBNaRqI
 - /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
@@ -21,9 +13,10 @@ aliasesArchive:
 - /resources/videos/nkd-agility-mission-and-purpose
 - /resources/nkd-agility-mission-and-purpose
 - unlocking-naked-agility-how-happy-teams-drive-exceptional-products
-preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
-duration: 174
-isShort: false
+concepts: []
+categories:
+- Leadership
+- Product Development
 tags:
 - Team Motivation
 - Employee Engagement
@@ -34,18 +27,25 @@ tags:
 - Organisational Psychology
 - Team Collaboration
 - Self Organisation
+ResourceId: yCyjGBNaRqI
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: yCyjGBNaRqI
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
+duration: 174
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Leadership
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:53Z
-concepts: []
 
 ---
 Creating great teams is at the heart of what I call "naked agility." It’s a straightforward concept, yet it’s often overlooked in the hustle and bustle of organisational life. If we have unhappy, disengaged people, we can’t expect to produce exceptional work or build outstanding products. As customers and users, we deserve better than mediocre offerings; we deserve products that enhance our experiences and help us achieve our goals.

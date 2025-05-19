@@ -3,19 +3,7 @@ title: What are the barriers that prevent developers from fully accepting a Prod
 description: Explores key barriers preventing developers from accepting Product Owners’ authority, including accountability gaps, stakeholder interference, and trust issues.
 date: 2023-10-03T07:00:08Z
 weight: 790
-ResourceId: A0Y-zySHXyc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: A0Y-zySHXyc
-source: internal
-url: /resources/videos/:slug
 slug: what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
-layout: video
-preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg
-duration: 315
-isShort: false
 aliases:
 - /resources/A0Y-zySHXyc
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
@@ -26,19 +14,31 @@ aliasesArchive:
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
 - what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-tags: []
-resourceTypes:
-- video
+concepts:
+- Accountability
 categories:
 - Scrum
 - Product Management
+tags: []
+ResourceId: A0Y-zySHXyc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: A0Y-zySHXyc
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/A0Y-zySHXyc/maxresdefault.jpg
+duration: 315
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+resourceTypes:
+- video
 Watermarks:
   description: 2025-05-07T13:09:03Z
-concepts:
-- Accountability
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

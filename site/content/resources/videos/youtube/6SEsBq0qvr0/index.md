@@ -2,32 +2,16 @@
 title: 'Acceptance Criteria vs Definition of Done: Why Getting This Right Builds Trust and Delivers Quality Faster'
 description: Stop confusing acceptance criteria with definition of done—learn the crucial difference to boost quality, speed, and trust in your agile delivery.
 date: 2025-07-02T06:45:00Z
-videoId: 6SEsBq0qvr0
-ResourceId: 6SEsBq0qvr0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
-source: youtube
-url: /resources/videos/:slug
+weight: 220
 slug: 9-definition-of-done-vs-acceptance-criteria
-layout: video
 aliases:
 - /resources/6SEsBq0qvr0
 - /resources/videos/9-definition-of-done-vs-acceptance-criteria
 aliasesArchive:
 - /resources/videos/9-definition-of-done-vs-acceptance-criteria
 - 9-definition-of-done-vs-acceptance-criteria
-preview: https://i9.ytimg.com/vi/6SEsBq0qvr0/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDOXnTpAy0-cbxLma7o8SDsZP662A
-duration: 70
-resourceTypes:
-- video
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T19:18:41Z
-ResourceContentOrigin: ai
+concepts:
+- Artifact
 categories:
 - Product Development
 - Engineering Excellence
@@ -41,9 +25,25 @@ tags:
 - Agile Frameworks
 - Agile Planning
 - Value Delivery
-weight: 220
-concepts:
-- Artifact
+ResourceId: 6SEsBq0qvr0
+ResourceImport: true
+ResourceType: videos
+videoId: 6SEsBq0qvr0
+ResourceImportSource: Youtube
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i9.ytimg.com/vi/6SEsBq0qvr0/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDOXnTpAy0-cbxLma7o8SDsZP662A
+duration: 70
+resourceTypes:
+- video
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T19:18:41Z
+ResourceContentOrigin: ai
 
 ---
 I see this confusion time and again: teams muddling up acceptance criteria with the definition of done. It’s a subtle distinction, but one that, if ignored, leads to missed expectations, hidden risks, and ultimately, broken trust between teams and stakeholders. Let’s be clear—one defines quality, the other defines scope. If you want to move fast without cutting corners, you need to get this right.

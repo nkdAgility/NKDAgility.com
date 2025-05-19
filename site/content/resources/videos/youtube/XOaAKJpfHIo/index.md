@@ -3,19 +3,7 @@ title: How important is DevOps in continuous delivery of value to customers?
 description: Explains how DevOps and Agile work together to enable continuous delivery, rapid feedback, and customer value in software development and product delivery.
 date: 2023-02-20T07:00:10Z
 weight: 280
-ResourceId: XOaAKJpfHIo
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: XOaAKJpfHIo
-source: internal
-url: /resources/videos/:slug
 slug: how-important-is-devops-in-continuous-delivery-of-value-to-customers
-layout: video
-preview: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg
-duration: 186
-isShort: false
 aliases:
 - /resources/XOaAKJpfHIo
 - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers
@@ -25,22 +13,34 @@ aliasesArchive:
 - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
 - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
 - how-important-is-devops-in-continuous-delivery-of-value-to-customers
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
+- DevOps
 tags:
 - Software Development
 - Value Delivery
 - Product Delivery
 - Customer Focus
+ResourceId: XOaAKJpfHIo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: XOaAKJpfHIo
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg
+duration: 186
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- DevOps
 Watermarks:
   description: 2025-05-07T13:14:02Z
-concepts: []
 
 ---
 How important is [DevOps]({{< ref "/categories/devops" >}}) in [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) of value to customers?

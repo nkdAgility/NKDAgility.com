@@ -3,19 +3,7 @@ title: The Importance of Evidence-Based Management in Agile Environments
 description: Explains how evidence-based management helps Agile teams use data and key metrics to measure progress, make informed decisions, and drive continuous improvement.
 date: 2024-01-22T11:00:07Z
 weight: 690
-ResourceId: 9kZicmokyZ4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 9kZicmokyZ4
-source: internal
-url: /resources/videos/:slug
 slug: the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
-layout: video
-preview: https://i.ytimg.com/vi/9kZicmokyZ4/maxresdefault.jpg
-duration: 29
-isShort: true
 aliases:
 - /resources/9kZicmokyZ4
 - /resources/videos/the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
@@ -27,9 +15,11 @@ aliasesArchive:
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
 - the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Model
+categories:
+- Product Development
+- Product Management
 tags:
 - Evidence Based Management
 - Decision Making
@@ -46,15 +36,25 @@ tags:
 - Agile Strategy
 - Current Value
 - Organisational Agility
+ResourceId: 9kZicmokyZ4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 9kZicmokyZ4
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/9kZicmokyZ4/maxresdefault.jpg
+duration: 29
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:06:22Z
-concepts:
-- Model
 
 ---
 In today’s fast-paced, ever-evolving business world, it’s not enough to simply make changes and hope for the best. We need to understand the true impact of our actions—whether they’re improving or hindering our overall success. This is where evidence-based management comes into play. If you're working in an Agile environment, it’s essential to have the right tools in place to measure success and progress effectively.

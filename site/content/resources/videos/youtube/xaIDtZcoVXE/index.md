@@ -3,19 +3,7 @@ title: How Do You Know How Long It Takes to Deliver Value?
 description: Explains how Agile teams can measure and improve Time to Market using key metrics like lead time, cycle time, and time to fix to deliver value to customers faster.
 date: 2024-01-26T11:00:51Z
 weight: 475
-ResourceId: xaIDtZcoVXE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: xaIDtZcoVXE
-source: internal
-url: /resources/videos/:slug
 slug: how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
-layout: video
-preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg
-duration: 33
-isShort: true
 aliases:
 - /resources/xaIDtZcoVXE
 - /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
@@ -27,9 +15,11 @@ aliasesArchive:
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 - /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
 - how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Model
+categories:
+- Product Development
+- Product Management
 tags:
 - Time to Market
 - Customer Focus
@@ -46,15 +36,25 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Current Value
+ResourceId: xaIDtZcoVXE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: xaIDtZcoVXE
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg
+duration: 33
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:06:10Z
-concepts:
-- Model
 
 ---
 Delivering value to customers efficiently is a key goal for any Agile team. But how do you know how long it actually takes? That’s where **Evidence-Based Management (EBM)** comes into play. One of the key value areas in EBM is **[Time to Market]({{< ref "/tags/time-to-market" >}})**—a critical factor that helps organizations measure and improve how quickly they deliver valuable outcomes. This post dives into the importance of **Time to Market**, the metrics you can use to measure it, and why it’s crucial for business success. 🚀

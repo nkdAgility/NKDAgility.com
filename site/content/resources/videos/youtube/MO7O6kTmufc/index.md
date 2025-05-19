@@ -3,15 +3,7 @@ title: 'Mastering Outcomes: How Evidence-Based Management Transforms Your Projec
 description: Learn how evidence-based management uses clear outcomes and targeted metrics to improve project success, enabling informed decisions and continuous improvement.
 date: 2024-09-12T13:46:15Z
 weight: 1000
-ResourceId: MO7O6kTmufc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: MO7O6kTmufc
-url: /resources/videos/:slug
 slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
-layout: video
 aliases:
 - /resources/MO7O6kTmufc
 - /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
@@ -22,27 +14,35 @@ aliasesArchive:
 - /resources/videos/introduction-to-evidence-based-management-excerpt-2
 - /resources/introduction-to-evidence-based-management-excerpt-2
 - mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
-preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
-duration: 36
-isShort: true
+concepts: []
+categories:
+- Product Development
+- Product Management
 tags:
 - Evidence Based Leadership
 - Decision Making
 - Evidence Based Management
 - Pragmatic Thinking
 - Metrics and Learning
+ResourceId: MO7O6kTmufc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: MO7O6kTmufc
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
+duration: 36
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T12:58:30Z
-concepts: []
 
 ---
 When embarking on any journey, whether it’s a personal project or a large-scale [organisational change]({{< ref "/tags/organisational-change" >}}), clarity of outcomes is paramount. I’ve often found that once you’ve defined what success looks like, the next crucial step is determining the metrics that will guide you towards those outcomes. This is where the concept of evidence-based management comes into play, and it’s something I’ve seen make a significant difference in various contexts.

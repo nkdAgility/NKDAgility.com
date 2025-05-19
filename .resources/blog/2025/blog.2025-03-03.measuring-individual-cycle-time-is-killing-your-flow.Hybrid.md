@@ -1,19 +1,8 @@
 ---
 title: Why Measuring Individual Cycle Time is Killing Your Flow (And What to Do Instead)
 description: Measuring individual cycle time in Kanban misleads teams, hides real bottlenecks, and harms flow. Focus on system-wide metrics like PCE, WIP, and throughput instead.
-ResourceId: KHEPBWiFDKJ
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: false
 date: 2025-03-03T09:00:00
 weight: 245
-AudioNative: true
-creator: Martin Hinshelwood
-contributors:
-- name: Nigel Thurlow
-  external: https://www.linkedin.com/in/nigelthurlow/
-layout: blog
-resourceTypes: blog
 slug: measuring-individual-cycle-time-is-killing-your-flow
 aliases:
 - /resources/KHEPBWiFDKJ
@@ -24,6 +13,8 @@ aliasesArchive:
 - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
 - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+concepts:
+- Principle
 categories:
 - Product Development
 - Kanban
@@ -44,10 +35,19 @@ tags:
 - Value Stream Management
 - Continuous Improvement
 - Market Adaptability
+ResourceId: KHEPBWiFDKJ
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+AudioNative: true
+creator: Martin Hinshelwood
+contributors:
+- name: Nigel Thurlow
+  external: https://www.linkedin.com/in/nigelthurlow/
+layout: blog
+resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:20Z
-concepts:
-- Principle
 
 ---
 Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!

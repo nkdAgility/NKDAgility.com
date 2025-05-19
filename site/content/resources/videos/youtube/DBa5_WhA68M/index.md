@@ -3,19 +3,7 @@ title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
 description: Learn key negotiation skills for Product Owners to manage stakeholders, balance priorities, and maximise product value through effective communication and decision-making.
 date: 2023-12-13T07:00:07Z
 weight: 1000
-ResourceId: DBa5_WhA68M
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: DBa5_WhA68M
-source: internal
-url: /resources/videos/:slug
 slug: the-art-of-negotiation-for-product-owners-essential-skills-to-master
-layout: video
-preview: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg
-duration: 330
-isShort: false
 aliases:
 - /resources/DBa5_WhA68M
 - /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
@@ -26,20 +14,32 @@ aliasesArchive:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
 - the-art-of-negotiation-for-product-owners-essential-skills-to-master
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-tags:
-- Product Owner
-- Value Delivery
-resourceTypes:
-- video
+concepts: []
 categories:
 - Product Development
 - Product Management
+tags:
+- Product Owner
+- Value Delivery
+ResourceId: DBa5_WhA68M
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: DBa5_WhA68M
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg
+duration: 330
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+resourceTypes:
+- video
 Watermarks:
   description: 2025-05-07T13:07:01Z
-concepts: []
 
 ---
 One of the most vital skills for a [Product Owner]({{< ref "/tags/product-owner" >}}) is negotiation. Whether you’re a seasoned Product Owner or just starting out, mastering negotiation can be the key to delivering maximum value. It’s a skill that you’ll use constantly — with developers, stakeholders, and [leadership]({{< ref "/categories/leadership" >}}) within your organization. Let’s dive into how negotiation plays a role in the life of a Product Owner and how you can become a master negotiator.

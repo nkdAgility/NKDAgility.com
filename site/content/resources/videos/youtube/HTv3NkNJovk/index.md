@@ -3,19 +3,7 @@ title: Why is Satya Nadella a better example of agile leadership than Steve Jobs
 description: Compares Satya Nadella’s and Steve Jobs’s leadership, highlighting Nadella’s agile approach that fosters innovation, decentralised decision-making, and lasting organisational change.
 date: 2023-02-01T07:00:10Z
 weight: 465
-ResourceId: HTv3NkNJovk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: HTv3NkNJovk
-source: internal
-url: /resources/videos/:slug
 slug: why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
-layout: video
-preview: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg
-duration: 487
-isShort: false
 aliases:
 - /resources/HTv3NkNJovk
 - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
@@ -25,9 +13,11 @@ aliasesArchive:
 - /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 - /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 - why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Discipline
+categories:
+- Leadership
+- Technical Leadership
 tags:
 - Organisational Agility
 - Pragmatic Thinking
@@ -38,15 +28,25 @@ tags:
 - Agile Philosophy
 - Organisational Culture
 - Organisational Change
+ResourceId: HTv3NkNJovk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: HTv3NkNJovk
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg
+duration: 487
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Leadership
-- Technical Leadership
 Watermarks:
   description: 2025-05-07T13:14:18Z
-concepts:
-- Discipline
 
 ---
 This is a great question, although I imagine I might pick up a bit of flack because of the hordes of people who love [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and think of him as one of the most iconic leaders of the past century.

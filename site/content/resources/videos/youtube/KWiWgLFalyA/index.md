@@ -3,19 +3,7 @@ title: "Mastering the Art of Scaling Product Development: Why Adding More Develo
 description: Explores why scaling product development requires system improvements, not just more developers. Covers alignment, technical debt, and feedback loops for sustainable growth.
 date: 2025-02-18T07:08:05Z
 weight: 500
-ResourceId: KWiWgLFalyA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: KWiWgLFalyA
-source: internal
-url: /resources/videos/:slug
 slug: mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
-layout: video
-preview: https://i.ytimg.com/vi/KWiWgLFalyA/maxresdefault.jpg
-duration: 103
-isShort: false
 aliases:
 - /resources/KWiWgLFalyA
 - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
@@ -32,21 +20,33 @@ aliasesArchive:
 - /resources/videos/the-ctos-scalability-dilemma-why-scaling-product-development-is-hard
 - mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
 - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn-t-the-answer
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-tags:
-- Scaling
-- Pragmatic Thinking
-resourceTypes:
-- video
+concepts:
+- Strategy
 categories:
 - Product Development
 - Product Management
+tags:
+- Scaling
+- Pragmatic Thinking
+ResourceId: KWiWgLFalyA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: KWiWgLFalyA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/KWiWgLFalyA/maxresdefault.jpg
+duration: 103
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+resourceTypes:
+- video
 Watermarks:
   description: 2025-05-07T12:49:36Z
-concepts:
-- Strategy
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [product development]({{< ref "/categories/product-development" >}}) sounds deceptively simple, doesn’t it? Just hire more developers, write more code, and ship more features. However, my experience has taught me that scaling is far more complex than merely increasing headcount. It’s about constructing a robust system that can grow effectively, and that’s where many organisations stumble.

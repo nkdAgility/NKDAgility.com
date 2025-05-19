@@ -3,13 +3,6 @@ title: "Transform Your Team's Efficiency: The Three Core Principles of Caman Wor
 description: 'Learn the three key principles of Caman workflow management to boost team efficiency: visualise processes, actively manage tasks, and drive continuous improvement.'
 date: 2024-08-17T19:03:52Z
 weight: 1000
-ResourceId: 220tyMrhSFE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 220tyMrhSFE
-url: /resources/videos/:slug
 slug: transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
 aliases:
 - /resources/220tyMrhSFE
@@ -23,12 +16,22 @@ aliasesArchive:
 - /resources/kanban-principles
 - transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
 - /resources/videos/transform-your-team-s-efficiency-the-three-core-principles-of-caman-workflow-management
-preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
-duration: 49
-isShort: true
+concepts: []
+categories:
+- Product Development
 tags:
 - Operational Practices
 - Pragmatic Thinking
+ResourceId: 220tyMrhSFE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 220tyMrhSFE
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
+duration: 49
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -36,11 +39,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:05Z
-concepts: []
 
 ---
 When I first encountered Caman, I was struck by its simplicity and effectiveness. It’s a framework that resonates deeply with my experiences in agile environments, and I believe it can transform the way teams operate. Today, I want to share the three core principles of Caman that have made a significant impact on my approach to workflow management.

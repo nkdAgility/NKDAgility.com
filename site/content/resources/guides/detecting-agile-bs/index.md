@@ -1,6 +1,8 @@
 ---
 title: Detecting Agile BS
 description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
+date: 2024-09-17
+weight: 360
 ResourceId: Tt8SPr3xJER
 ResourceImport: false
 ResourceType: guides
@@ -24,14 +26,14 @@ videos:
   embed: https://www.youtube.com/embed/6D7ZC5Yq8rU
 - title: 'Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps'
   embed: https://www.youtube.com/embed/5bgcpPqcGlw
-date: 2024-09-17
-weight: 360
 creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about Detecting Agile BS and how it can help you in your Agile journey!
   title: Detecting Agile BS
+Watermarks:
+  description: 2025-05-07T12:58:02Z
 aliases:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
@@ -39,6 +41,8 @@ aliases:
 aliasesArchive:
 - /Guides/Detecting-Agile-BS.html
 - /learn/agile-delivery-kit/guides/detecting-agile-bs
+concepts:
+- Tool
 categories:
 - Product Development
 - Engineering Excellence
@@ -47,10 +51,6 @@ tags:
 - Software Development
 - Operational Practices
 - Product Delivery
-Watermarks:
-  description: 2025-05-07T12:58:02Z
-concepts:
-- Tool
 
 ---
 Agile is a buzzword of [software development]({{< ref "/tags/software-development" >}}), and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-[scrum]({{< ref "/categories/scrum" >}})-fall”).

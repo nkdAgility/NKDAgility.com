@@ -3,19 +3,7 @@ title: Worst agile advice you've ever heard?
 description: Highlights why rigid rules in Agile and Scrum, like mandatory stand-ups, undermine flexibility and inclusivity, stressing the importance of adapting to team needs.
 date: 2023-05-09T09:30:04Z
 weight: 690
-ResourceId: L6opxb0FYcU
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: L6opxb0FYcU
-source: internal
-url: /resources/videos/:slug
 slug: worst-agile-advice-youve-ever-heard-L6opxb0FYcU
-layout: video
-preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
-duration: 57
-isShort: true
 aliases:
 - /resources/L6opxb0FYcU
 - /resources/videos/worst-agile-advice-youve-ever-heard-L6opxb0FYcU
@@ -31,18 +19,30 @@ aliasesArchive:
 - /resources/videos/worst-agile-advice-heard
 - worst-agile-advice-youve-ever-heard-L6opxb0FYcU
 - /resources/videos/worst-agile-advice-you-ve-ever-heard
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceId: L6opxb0FYcU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: L6opxb0FYcU
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
+duration: 57
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Software Development
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:36Z
-concepts: []
 
 ---
 **Worst agile advice you've ever heard?**

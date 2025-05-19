@@ -3,19 +3,7 @@ title: "Quotes: You can't connect the dots looking forward; you can only connect
 description: Explores how reflecting on past experiences, as Steve Jobs advised, guides Agile teams in making informed, adaptive decisions and continuous improvements.
 date: 2023-10-13T11:00:40Z
 weight: 1000
-ResourceId: hj31XHbmWbA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: hj31XHbmWbA
-source: internal
-url: /resources/videos/:slug
 slug: quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
-layout: video
-preview: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg
-duration: 46
-isShort: true
 aliases:
 - /resources/hj31XHbmWbA
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
@@ -30,18 +18,30 @@ aliasesArchive:
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards
 - quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
 - /resources/videos/quotes-you-can-t-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards.-steve-jobs
+concepts:
+- Principle
+categories:
+- Product Development
+tags: []
+ResourceId: hj31XHbmWbA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: hj31XHbmWbA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg
+duration: 46
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:08:47Z
-concepts:
-- Principle
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

@@ -3,15 +3,7 @@ title: 'Unpacking the Scrum Master Role: Moving Beyond Misconceptions to True Ac
 description: Explores common misconceptions about Scrum Masters, clarifies their true accountabilities, and highlights the importance of principles, competence, and organisational impact.
 date: 2024-10-25T07:02:17Z
 weight: 640
-ResourceId: Cia3d_y9akQ
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Cia3d_y9akQ
-url: /resources/videos/:slug
 slug: unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
-layout: video
 aliases:
 - /resources/Cia3d_y9akQ
 - /resources/videos/unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
@@ -22,9 +14,11 @@ aliasesArchive:
 - /resources/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role-
 - /resources/videos/what-are-some-of-the-most-common-misconceptions-you-encounter-about-the-scrum-master-role
 - unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
-preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
-duration: 639
-isShort: false
+concepts:
+- Ethos
+categories:
+- Scrum
+- Product Development
 tags:
 - Scrum Master
 - Software Development
@@ -34,19 +28,25 @@ tags:
 - Competence
 - Pragmatic Thinking
 - Team Performance
+ResourceId: Cia3d_y9akQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Cia3d_y9akQ
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Cia3d_y9akQ/maxresdefault.jpg
+duration: 639
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T12:57:26Z
-concepts:
-- Ethos
 
 ---
 When it comes to the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, there are a plethora of misconceptions that can cloud our understanding of what this position truly entails. Having navigated the complexities of Scrum and Agile for many years, I’ve seen firsthand how these misunderstandings can lead to dysfunction within teams and organisations. Today, I want to share my insights on the true accountabilities of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) and how we can move beyond the common pitfalls.

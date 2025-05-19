@@ -3,18 +3,7 @@ title: 'Empowering Teams to Tailor Their Processes: A Path to True Agility'
 description: Explains why empowering teams to adapt their processes boosts agility, reduces waste, and fosters innovation, using real-world examples and practical steps for organisations.
 date: 2024-07-26T06:45:00Z
 weight: 330
-ResourceId: 5H9rOGhTB88
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 5H9rOGhTB88
-source: internal
-url: /resources/videos/:slug
 slug: empowering-teams-to-tailor-their-processes-a-path-to-true-agility
-preview: https://i.ytimg.com/vi/5H9rOGhTB88/maxresdefault.jpg
-duration: 488
-isShort: false
 aliases:
 - /resources/5H9rOGhTB88
 - /resources/videos/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
@@ -26,9 +15,12 @@ aliasesArchive:
 - /resources/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
 - /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-46
 - empowering-teams-to-tailor-their-processes-a-path-to-true-agility
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
+- Leadership
+- Lean
 tags:
 - Agile Strategy
 - Agile Transformation
@@ -45,17 +37,25 @@ tags:
 - Business Agility
 - Continuous Improvement
 - Agnostic Agile
+ResourceId: 5H9rOGhTB88
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 5H9rOGhTB88
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/5H9rOGhTB88/maxresdefault.jpg
+duration: 488
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
-- Leadership
-- Lean
 Watermarks:
   description: 2025-05-07T13:02:28Z
-concepts:
-- Principle
 
 ---
 In today's fast-paced and ever-changing business environment, agility is more than just a buzzword—it's a necessity. Yet, many organizations fall into the trap of enforcing rigid, one-size-fits-all processes that stifle creativity, innovation, and efficiency. Let's explore why it's crucial to empower teams to tailor their processes to their unique contexts, even if it means deviating from company-wide standards.

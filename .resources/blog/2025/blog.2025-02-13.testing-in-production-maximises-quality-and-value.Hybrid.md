@@ -1,12 +1,15 @@
 ---
 title: Testing in Production Maximises Quality and Value
 description: Explains how audience-based deployment and testing in production enable faster feedback, safer rollouts, and higher software quality by targeting real users and reducing risk.
-ResourceId: _ncZFfeCrnS
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: false
 date: 2025-02-13T09:00:00
 weight: 145
+slug: testing-in-production-maximises-quality-and-value
+aliases:
+- /resources/_ncZFfeCrnS
+ResourceId: _ncZFfeCrnS
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
@@ -18,12 +21,15 @@ contributors:
   external: https://www.linkedin.com/in/vladimirkhvostov/
 layout: blog
 resourceTypes: blog
-slug: testing-in-production-maximises-quality-and-value
-aliases:
-- /resources/_ncZFfeCrnS
 aliasesArchive:
 - /testing-in-production-maximises-quality-and-value
 - /blog/testing-in-production-maximises-quality-and-value
+concepts:
+- Tool
+categories:
+- Engineering Excellence
+- Product Development
+- DevOps
 tags:
 - Operational Practices
 - Market Adaptability
@@ -40,16 +46,10 @@ tags:
 - Value Delivery
 - Deployment Strategies
 - Frequent Releases
-categories:
-- Engineering Excellence
-- Product Development
-- DevOps
 preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
 Watermarks:
   description: 2025-05-07T12:49:38Z
-concepts:
-- Tool
 
 ---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.

@@ -3,15 +3,7 @@ title: 'Unpacking the Scrum Master Myth: Why Servant Leadership is Key to Team S
 description: Explains why the Scrum Master is a servant leader, not an authority figure, and how this approach empowers teams, encourages autonomy, and dispels common misconceptions.
 date: 2023-06-21T11:00:52Z
 weight: 640
-ResourceId: zs0q_zz8-JY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: zs0q_zz8-JY
-url: /resources/videos/:slug
 slug: unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
-layout: video
 aliases:
 - /resources/zs0q_zz8-JY
 - /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
@@ -22,9 +14,10 @@ aliasesArchive:
 - /resources/videos/biggest-misconception-about-a-scrum-master
 - /resources/biggest-misconception-about-a-scrum-master
 - unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
-preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
-duration: 46
-isShort: true
+concepts: []
+categories:
+- Scrum
+- Product Development
 tags:
 - Scrum Master
 - Professional Scrum
@@ -34,18 +27,25 @@ tags:
 - Agile Frameworks
 - Coaching
 - Software Development
+ResourceId: zs0q_zz8-JY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: zs0q_zz8-JY
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg
+duration: 46
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:11:23Z
-concepts: []
 
 ---
 When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one of the most persistent misconceptions I encounter is the belief that a [Scrum Master]({{< ref "/tags/scrum-master" >}}) is an order giver or, worse still, a figure of authority within the team. This misunderstanding can lead to a myriad of issues, not just for the Scrum Master but for the entire team dynamic. 

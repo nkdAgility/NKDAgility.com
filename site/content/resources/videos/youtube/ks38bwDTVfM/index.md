@@ -3,16 +3,7 @@ title: "Mastering Agile: 3 Essential Strategies to Boost Your Team's Sprint Succ
 description: 'Learn three key Agile strategies: define clear completion criteria, avoid overcommitting in Sprints, and prioritise backlog refinement for better team productivity.'
 date: 2023-11-16T07:00:16Z
 weight: 330
-ResourceId: ks38bwDTVfM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: ks38bwDTVfM
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
-layout: video
 aliases:
 - /resources/ks38bwDTVfM
 - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
@@ -26,9 +17,11 @@ aliasesArchive:
 - /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
 - mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
 - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-team-s-sprint-success
-preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
-duration: 344
-isShort: false
+concepts:
+- Method
+categories:
+- Scrum
+- Product Development
 tags:
 - Agile Planning
 - Team Performance
@@ -38,18 +31,25 @@ tags:
 - Operational Practices
 - Agile Product Management
 - Team Collaboration
+ResourceId: ks38bwDTVfM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: ks38bwDTVfM
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
+duration: 344
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:07:49Z
-concepts:
-- Method
 
 ---
 When it comes to successfully navigating the complexities of Agile and [Scrum]({{< ref "/categories/scrum" >}}), there are a few key principles that I’ve found to be absolutely essential. Drawing from my experiences, I want to share three critical strategies that can help your team not only complete work within a Sprint but also enhance overall productivity and satisfaction.

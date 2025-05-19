@@ -3,39 +3,39 @@ title: 'Mastering Agility: Balancing Engineering Excellence and Effective Proces
 description: Explores how to balance engineering excellence and effective Agile processes, highlighting the need for technical skills, continuous improvement, and outcome-focused metrics.
 date: 2020-03-25T21:07:01Z
 weight: 1000
+slug: mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
+aliases:
+- /resources/i_DglXgaePM
 ResourceId: i_DglXgaePM
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: i_DglXgaePM
 url: /resources/videos/:slug
-slug: mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
 layout: video
-aliases:
-- /resources/i_DglXgaePM
 aliasesArchive:
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-fows
 - /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 - /resources/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 - /resources/videos/mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
 - mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Pragmatic Thinking
 preview: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg
 duration: 5631
 isShort: false
-tags:
-- Pragmatic Thinking
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:16:00Z
-concepts: []
 
 ---
 As I sit down to reflect on my recent experiences in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I can't help but think about the rapid changes we are witnessing in the business landscape. The velocity of change is staggering, and it’s not just about adopting new processes; it’s about mastering the balance between [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and effective processes. 

@@ -1,18 +1,22 @@
 ---
 title: Rethinking Capacity Planning
 description: Explores how effective capacity planning shifts focus from individual hours to system-level flow, using Lean and Agile principles to improve predictability and value delivery.
+date: 2025-07-21T09:00:00Z
+weight: 245
+ResourceId: AhxlPTOD1yy
+ResourceImport: false
+ResourceType: blog
 creator: Martin Hinshelwood
 contributors:
 - name: Nigel Thurlow
   external: https://www.linkedin.com/in/nigelthurlow/
-ResourceId: AhxlPTOD1yy
-ResourceImport: false
-ResourceType: blog
 ResourceContentOrigin: hybrid
-date: 2025-07-21T09:00:00Z
-weight: 245
+Watermarks:
+  description: 2025-05-07T12:48:54Z
 aliases:
 - /resources/AhxlPTOD1yy
+concepts:
+- Principle
 categories:
 - Lean
 - Product Development
@@ -33,10 +37,6 @@ tags:
 - Product Delivery
 - Systems Thinking
 - Team Performance
-Watermarks:
-  description: 2025-05-07T12:48:54Z
-concepts:
-- Principle
 
 ---
 Capacity planning is not about filling calendars or counting resource hours. It is about flow, system constraints, and predictability. And importantly, what we are talking about here applies even within environments of strict budgets, immovable deadlines, and rigorous accountabilities. Lean approaches do not discard discipline; they reframe how we achieve predictability, accountability, and sustainable delivery by focusing on the system, not just the parts. These ideas align directly with the Scrum ethos of empirical process control and the Kanban strategy of observing and managing work-in-progress limits to enhance value delivery.

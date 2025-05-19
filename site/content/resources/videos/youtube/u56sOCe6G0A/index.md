@@ -3,19 +3,7 @@ title: 3 core practices of Kanban. Actively managing work items in a workflow.
 description: Explains how to actively manage Kanban workflows by monitoring work in progress, resolving bottlenecks, and optimising flow for greater efficiency and value delivery.
 date: 2024-02-26T14:06:47Z
 weight: 1000
-ResourceId: u56sOCe6G0A
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: u56sOCe6G0A
-source: internal
-url: /resources/videos/:slug
 slug: 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
-layout: video
-preview: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg
-duration: 234
-isShort: false
 aliases:
 - /resources/u56sOCe6G0A
 - /resources/videos/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
@@ -32,9 +20,11 @@ aliasesArchive:
 - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow
 - 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 - /resources/videos/3-core-practices-of-kanban.-actively-managing-work-items-in-a-workflow.
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Practice
+categories:
+- Kanban
+- Product Development
 tags:
 - Agile Frameworks
 - Software Development
@@ -42,15 +32,25 @@ tags:
 - Operational Practices
 - Throughput
 - Pragmatic Thinking
+ResourceId: u56sOCe6G0A
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: u56sOCe6G0A
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg
+duration: 234
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Kanban
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:35Z
-concepts:
-- Practice
 
 ---
 ### Actively Managing Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy

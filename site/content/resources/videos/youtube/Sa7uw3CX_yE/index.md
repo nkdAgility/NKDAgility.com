@@ -3,15 +3,7 @@ title: 'Beyond the Agile Illusion: Embracing True Agility in a World of Tayloris
 description: Explores the difference between true agility and superficial agile practices, highlighting the impact of Taylorism and offering steps to foster genuine agile culture.
 date: 2020-07-21T18:00:53Z
 weight: 1000
-ResourceId: Sa7uw3CX_yE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Sa7uw3CX_yE
-url: /resources/videos/:slug
 slug: beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
-layout: video
 aliases:
 - /resources/Sa7uw3CX_yE
 - /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
@@ -21,22 +13,30 @@ aliasesArchive:
 - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies-for-the-future-of-work-in-scotland
 - /resources/videos/beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
 - beyond-the-agile-illusion-embracing-true-agility-in-a-world-of-taylorism
+concepts:
+- Ethos
+categories:
+- Product Development
+tags: []
+ResourceId: Sa7uw3CX_yE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Sa7uw3CX_yE
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/Sa7uw3CX_yE/maxresdefault.jpg
 duration: 4809
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:15:27Z
-concepts:
-- Ethos
 
 ---
 As I reflect on my recent experiences with agile practices and the challenges that many organisations face, I find myself drawn to the concept of [transparency]({{< ref "/tags/transparency" >}}) and the importance of understanding what it truly means to be agile. In a world where 81% of development teams claim to be agile, it’s crucial to ask ourselves: are we genuinely embracing the principles of agility, or are we merely paying lip service to the idea?

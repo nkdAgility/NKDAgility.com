@@ -3,19 +3,7 @@ title: How can companies derive greater benefits from training by investing in a
 description: Private training courses offer companies a safe, tailored environment for open discussion, deeper learning, and team-specific insights in Agile, Scrum, and DevOps practices.
 date: 2023-05-05T07:00:01Z
 weight: 680
-ResourceId: a2sXBMPHl2Y
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: a2sXBMPHl2Y
-source: internal
-url: /resources/videos/:slug
 slug: how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
-layout: video
-preview: https://i.ytimg.com/vi/a2sXBMPHl2Y/maxresdefault.jpg
-duration: 212
-isShort: false
 aliases:
 - /resources/a2sXBMPHl2Y
 - /resources/videos/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
@@ -28,17 +16,29 @@ aliasesArchive:
 - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 - /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
 - how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: a2sXBMPHl2Y
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: a2sXBMPHl2Y
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/a2sXBMPHl2Y/maxresdefault.jpg
+duration: 212
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:41Z
-concepts: []
 
 ---
 ## Private Training Courses: A Game Changer for Companies?

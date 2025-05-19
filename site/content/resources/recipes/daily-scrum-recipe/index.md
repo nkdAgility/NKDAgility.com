@@ -1,6 +1,8 @@
 ---
 title: Daily Scrum Recipe
 description: Guidance for running effective Daily Scrum meetings, focusing on collaboration, transparency, and actionable planning to help teams achieve their Sprint Goals.
+date: 2024-09-17
+weight: 505
 ResourceId: M4qDhvrXwp-
 ResourceImport: false
 ResourceType: recipes
@@ -9,13 +11,6 @@ resourceTypes: recipe
 layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
 creator: Martin Hinshelwood
-aliases:
-- /recipes/Daily-Scrum-Recipe.html
-- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
-- /resources/M4qDhvrXwp-
-aliasesArchive:
-- /recipes/Daily-Scrum-Recipe.html
-- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
 recommendedContent:
 - collection: guides
   path: _guides/manifesto-for-agile-software-development.md
@@ -33,13 +28,22 @@ references:
   url: https://www.scrum.org/resources/what-is-a-daily-scrum
 - title: Avoid the Bug as Task anti-pattern in Azure DevOps
   url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
-date: 2024-09-17
-weight: 505
 card:
   button:
     content: Learn More
   content: Discover more about Daily Scrum Recipe and how it can help you in your Agile journey!
   title: Daily Scrum Recipe
+Watermarks:
+  description: 2025-05-07T12:57:50Z
+aliases:
+- /recipes/Daily-Scrum-Recipe.html
+- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+- /resources/M4qDhvrXwp-
+aliasesArchive:
+- /recipes/Daily-Scrum-Recipe.html
+- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+concepts:
+- Practice
 categories:
 - Scrum
 - Product Development
@@ -57,10 +61,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Transparency
-Watermarks:
-  description: 2025-05-07T12:57:50Z
-concepts:
-- Practice
 
 ---
 The Daily [Scrum]({{< ref "/categories/scrum" >}}) is an essential event in the Scrum framework. It offers the

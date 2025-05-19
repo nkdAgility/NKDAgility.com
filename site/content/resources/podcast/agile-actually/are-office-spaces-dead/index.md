@@ -1,24 +1,24 @@
 ---
 title: Are office spaces dead
 description: Explores how remote work is changing office life, training, coaching, and consulting, with insights from experienced agile coaches and professional Scrum trainers.
+date: 2023-06-01
+weight: 1000
+slug: are-office-spaces-dead
+aliases:
+- /resources/HRq1a_8gAJF
 ResourceId: HRq1a_8gAJF
 ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
-date: 2023-06-01
-weight: 1000
-categories:
-- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: are-office-spaces-dead
-aliases:
-- /resources/HRq1a_8gAJF
-tags: []
 Watermarks:
   description: 2025-05-07T13:11:59Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 In this month's edition of Agile Actually, Martin and Simon explore the rise of remote work and whether working from the office, as we knew it, is dead.

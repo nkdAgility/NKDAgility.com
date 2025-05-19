@@ -1,19 +1,8 @@
 ---
 title: 'Evidence-based Management: Gathering the metrics'
 description: Explains how to gather key metrics for evidence-based management in software organisations, focusing on value delivery, time to market, and ability to innovate.
-ResourceId: mK5twHwVcIg
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 10528
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-12-30
 weight: 360
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: evidence-based-management-gathering-metrics
 aliases:
 - /blog/evidence-based-management-gathering-metrics
@@ -28,6 +17,12 @@ aliasesArchive:
 - /evidence-based-management--gathering-the-metrics
 - /blog/evidence-based-management--gathering-the-metrics
 - /resources/blog/evidence-based-management-gathering-metrics
+concepts:
+- Model
+categories:
+- Product Management
+- Product Development
+- Scrum
 tags:
 - Customer Focus
 - Evidence Based Management
@@ -44,15 +39,20 @@ tags:
 - Current Value
 - Time to Market
 - Agile Frameworks
-categories:
-- Product Management
-- Product Development
-- Scrum
+ResourceId: mK5twHwVcIg
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 10528
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: naked-agility-evidence-based-management-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:07Z
-concepts:
-- Model
 
 ---
 Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and I have a number of customers that are fretting on what to collect and from where. Here I try to create an understanding of the 'what' that we need to collect.

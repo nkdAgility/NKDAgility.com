@@ -3,15 +3,7 @@ title: 'Mastering Your Kanban Board: A Practical Guide to Visualising and Optimi
 description: Learn how to design, review, and adapt Kanban boards to accurately visualise workflows, identify bottlenecks, and support continuous improvement in team processes.
 date: 2024-08-16T07:04:15Z
 weight: 1000
-ResourceId: r1wvCUxeWcE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: r1wvCUxeWcE
-url: /resources/videos/:slug
 slug: mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
-layout: video
 aliases:
 - /resources/r1wvCUxeWcE
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
@@ -22,24 +14,32 @@ aliasesArchive:
 - /resources/videos/kanban-boards
 - /resources/kanban-boards
 - mastering-your-kanban-board-a-practical-guide-to-visualising-and-optimising-your-workflow-r1wvCUxeWcE
+concepts:
+- Practice
+categories:
+- Kanban
+- Product Development
+tags:
+- Software Development
+ResourceId: r1wvCUxeWcE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: r1wvCUxeWcE
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg
 duration: 57
 isShort: true
-tags:
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Kanban
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:07Z
-concepts:
-- Practice
 
 ---
 When it comes to visualising work in a [Kanban]({{< ref "/categories/kanban" >}}) system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.

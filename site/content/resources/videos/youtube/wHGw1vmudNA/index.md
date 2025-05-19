@@ -3,19 +3,7 @@ title: 7 harbingers of the Agile apocalypse- War
 description: Explores how unmanaged conflict in agile teams can escalate from healthy debate to destructive division, and offers strategies for resolving disputes and fostering collaboration.
 date: 2023-10-19T13:00:46Z
 weight: 610
-ResourceId: wHGw1vmudNA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: wHGw1vmudNA
-source: internal
-url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-war
-layout: video
-preview: https://i.ytimg.com/vi/wHGw1vmudNA/maxresdefault.jpg
-duration: 158
-isShort: false
 aliases:
 - /resources/wHGw1vmudNA
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-war
@@ -28,22 +16,34 @@ aliasesArchive:
 - /resources/war!-7-harbingers-agile-apocalypse
 - /resources/videos/war-7-harbingers-agile-apocalypse
 - 7-harbingers-of-the-agile-apocalypse-war
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Technical Leadership
+- Product Development
 tags:
 - Agile Philosophy
 - Agile Leadership
 - Organisational Agility
 - Social Technologies
+ResourceId: wHGw1vmudNA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: wHGw1vmudNA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/wHGw1vmudNA/maxresdefault.jpg
+duration: 158
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Technical Leadership
-- Product Development
 Watermarks:
   description: 2025-05-07T13:08:37Z
-concepts: []
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

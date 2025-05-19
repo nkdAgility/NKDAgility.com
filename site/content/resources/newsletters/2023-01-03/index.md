@@ -1,16 +1,8 @@
 ---
 title: 'January 2023 NKDAgility: What is the difference between traditional and empirical approaches'
 description: Explains the key differences between traditional and empirical approaches in project management, highlighting when to use each for effective agility in complex environments.
-ResourceId: -D7_0lz9GU6
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2023-01-03
 weight: 1000
-preview: naked-agility-technically-agile-1280×720-Jan2023.jpg
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 slug: january-2023
 aliases:
 - /newsletters/january-2023/
@@ -19,12 +11,20 @@ aliases:
 aliasesArchive:
 - /newsletters/january-2023/
 - /resources/newsletters/january-2023/
+concepts: []
 categories:
 - Uncategorized
 tags: []
+ResourceId: -D7_0lz9GU6
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+preview: naked-agility-technically-agile-1280×720-Jan2023.jpg
+author: MrHinsh
+resourceTypes: newsletter
+layout: newsletter
 Watermarks:
   description: 2025-05-07T13:14:38Z
-concepts: []
 
 ---
 Welcome to this month's edition of NKDAgility.

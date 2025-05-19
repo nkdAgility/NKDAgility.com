@@ -1,24 +1,24 @@
 ---
 title: Power & Politics! Communicating and Building Political Capital for Agile Transformations!
 description: Explores how clear, precise language and transparency help build political capital and support effective agile transformations within organisations.
+date: 2024-06-04
+weight: 1000
+slug: power-politics-communicating-and-building-political-capital-for-agile-transformations
+aliases:
+- /resources/2RYiDJ9l8wh
 ResourceId: 2RYiDJ9l8wh
 ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
-date: 2024-06-04
-weight: 1000
-categories:
-- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: power-politics-communicating-and-building-political-capital-for-agile-transformations
-aliases:
-- /resources/2RYiDJ9l8wh
-tags: []
 Watermarks:
   description: 2025-05-07T13:02:50Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 ![](https://nkdagility.com/wp-content/uploads/2024/06/37154808-1717508586054-52b451df81ef9.jpg)

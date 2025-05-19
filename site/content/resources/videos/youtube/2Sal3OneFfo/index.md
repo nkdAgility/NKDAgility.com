@@ -3,13 +3,6 @@ title: 'Seamless Migration to Azure DevOps: Unlocking Enhanced Collaboration and
 description: Learn how to migrate projects to Azure DevOps using self-service or managed tools, ensuring accurate data transfer, improved collaboration, and streamlined development workflows.
 date: 2024-09-03T09:57:36Z
 weight: 1000
-ResourceId: 2Sal3OneFfo
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 2Sal3OneFfo
-url: /resources/videos/:slug
 slug: seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
 aliases:
 - /resources/2Sal3OneFfo
@@ -21,10 +14,21 @@ aliasesArchive:
 - /resources/videos/azure-devops-migration-services-part-1
 - /resources/azure-devops-migration-services-part-1
 - seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
+concepts:
+- Tool
+categories:
+- DevOps
+tags: []
+ResourceId: 2Sal3OneFfo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 2Sal3OneFfo
+url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg
 duration: 59
 isShort: true
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -32,12 +36,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- DevOps
 Watermarks:
   description: 2025-05-07T12:58:37Z
-concepts:
-- Tool
 
 ---
 When it comes to migrating to Azure [DevOps]({{< ref "/categories/devops" >}}), I often find myself reflecting on the myriad of services we offer to make this transition as seamless as possible. Having been in the trenches of DevOps for quite some time, I understand the challenges that come with moving projects, especially when it involves merging work items and ensuring that nothing gets lost in the process. 

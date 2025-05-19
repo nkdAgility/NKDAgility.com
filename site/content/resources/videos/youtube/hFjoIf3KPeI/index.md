@@ -3,19 +3,7 @@ title: How does a Scrum Master or Agile coach motivate a Scrum Team?
 description: Explains how Scrum Masters and Agile coaches boost team motivation by setting clear goals, fostering engagement, recognising achievements, and promoting continuous improvement.
 date: 2023-09-11T07:00:17Z
 weight: 610
-ResourceId: hFjoIf3KPeI
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: hFjoIf3KPeI
-source: internal
-url: /resources/videos/:slug
 slug: how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
-layout: video
-preview: https://i.ytimg.com/vi/hFjoIf3KPeI/maxresdefault.jpg
-duration: 318
-isShort: false
 aliases:
 - /resources/hFjoIf3KPeI
 - /resources/videos/how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
@@ -28,9 +16,11 @@ aliasesArchive:
 - /resources/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team-
 - /resources/videos/motivating-a-scrum-team-how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 - how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Scrum
+- Product Development
+- Technical Leadership
 tags:
 - Team Motivation
 - Agile Leadership
@@ -43,15 +33,25 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - Team Collaboration
+ResourceId: hFjoIf3KPeI
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: hFjoIf3KPeI
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/hFjoIf3KPeI/maxresdefault.jpg
+duration: 318
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
-- Technical Leadership
 Watermarks:
   description: 2025-05-07T13:09:35Z
-concepts: []
 
 ---
 ## Reinvigorating Your [Scrum]({{< ref "/categories/scrum" >}}) Team: The Agile Coach's Playbook 🚀 

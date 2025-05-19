@@ -3,19 +3,7 @@ title: '7 deadly sins of Agile: Lust'
 description: Explores why Agile transformation requires genuine commitment and adaptation, warning against quick fixes and emphasising the need for a tailored, organisation-specific approach.
 date: 2023-10-12T07:00:12Z
 weight: 1000
-ResourceId: RBZFAxEUQC4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: RBZFAxEUQC4
-source: internal
-url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-lust
-layout: video
-preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
-duration: 177
-isShort: false
 aliases:
 - /resources/RBZFAxEUQC4
 - /resources/videos/7-deadly-sins-of-agile-lust
@@ -28,20 +16,32 @@ aliasesArchive:
 - /resources/lust!-7-deadly-sins-of-agile
 - /resources/videos/lust-7-deadly-sins-of-agile
 - 7-deadly-sins-of-agile-lust
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Ethos
+categories:
+- Uncategorized
 tags:
 - Agile Philosophy
 - Agile Transformation
+ResourceId: RBZFAxEUQC4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: RBZFAxEUQC4
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
+duration: 177
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:08:51Z
-concepts:
-- Ethos
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

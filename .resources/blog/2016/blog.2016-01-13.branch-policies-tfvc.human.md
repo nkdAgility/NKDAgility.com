@@ -1,38 +1,38 @@
 ---
 title: Branch Policies for TFVC
 description: Explains how to apply and manage branch policies in TFVC using regular expressions, enabling code reviews, branch locks, and work item requirements across multiple branches.
-ResourceId: _26VFOA-vCe
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11424
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2016-01-13
 weight: 660
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: branch-policies-tfvc
 aliases:
 - /resources/_26VFOA-vCe
+ResourceId: _26VFOA-vCe
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11424
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/branch-policies-tfvc
 - /branch-policies-tfvc
 - /branch-policies-for-tfvc
 - /blog/branch-policies-for-tfvc
 - /resources/blog/branch-policies-tfvc
+concepts:
+- Tool
+categories:
+- Uncategorized
 tags:
 - Software Development
 - Azure Repos
 - Modern Source Control
-categories:
-- Uncategorized
 preview: image-2-2-2.png
 Watermarks:
   description: 2025-05-07T13:16:51Z
-concepts:
-- Tool
 
 ---
 I have been working with a large customer in Norway that is moving to TFS whole sale and also needs to continue using a server based source control system for the time being. It would be awesome for them to be able to move to Git, however the codebase is currently incompatible. Work is ongoing to remove this issue, and many components will be able to move as soon as we can add Git repositories to a TFVC Team Project (in TFS 2015 Update 1). SO in the mean time we need a way to apply policies to particular branches.

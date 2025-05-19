@@ -3,19 +3,7 @@ title: Why did so many of the early agile transformations fail?
 description: Early agile transformations often failed due to top-down decisions, lack of team involvement, and misalignment between leadership and those doing the work.
 date: 2023-02-06T07:00:02Z
 weight: 750
-ResourceId: 8nQ0VJ1CdqU
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 8nQ0VJ1CdqU
-source: internal
-url: /resources/videos/:slug
 slug: why-did-so-many-of-the-early-agile-transformations-fail
-layout: video
-preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
-duration: 231
-isShort: false
 aliases:
 - /resources/8nQ0VJ1CdqU
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
@@ -25,9 +13,10 @@ aliasesArchive:
 - /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
 - /resources/why-did-so-many-of-the-early-agile-transformations-fail-
 - why-did-so-many-of-the-early-agile-transformations-fail
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
+- Leadership
 tags:
 - Pragmatic Thinking
 - Software Development
@@ -40,14 +29,25 @@ tags:
 - Organisational Culture
 - Sociotechnical Systems
 - Beta Codex
+ResourceId: 8nQ0VJ1CdqU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 8nQ0VJ1CdqU
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
+duration: 231
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Leadership
 Watermarks:
   description: 2025-05-07T13:14:14Z
-concepts: []
 
 ---
 Why did so many of the early agile transformations fail?

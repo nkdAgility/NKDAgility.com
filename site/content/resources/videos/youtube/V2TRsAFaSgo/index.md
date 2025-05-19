@@ -2,15 +2,8 @@
 title: 'Breaking Free from Vendor Lock-In: How to Regain Control and Future-Proof Your Business'
 description: Struggling with vendor lock-in? Discover practical steps to break free from legacy contracts and regain control of your business’s systems of work.
 date: 2025-05-19T06:00:00Z
-videoId: V2TRsAFaSgo
-ResourceId: V2TRsAFaSgo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
-source: youtube
-url: /resources/videos/:slug
+weight: 435
 slug: 7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
-layout: video
 aliases:
 - /resources/V2TRsAFaSgo
 - /resources/videos/7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
@@ -19,6 +12,19 @@ aliasesArchive:
 - /resources/videos/7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
 - 7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
 - /resources/videos/7-breaking-vendor-lock-in.-how-to-regain-control-over-your-tech-stack
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceId: V2TRsAFaSgo
+ResourceImport: true
+ResourceType: videos
+videoId: V2TRsAFaSgo
+ResourceImportSource: Youtube
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i9.ytimg.com/vi/V2TRsAFaSgo/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLB05ovsBHZnXeNh_vVF3uBe0tQCCA
 duration: 110
 resourceTypes:
@@ -30,12 +36,6 @@ sitemap:
 Watermarks:
   description: 2025-05-07T20:44:16Z
 ResourceContentOrigin: ai
-categories:
-- Uncategorized
-tags:
-- Software Development
-weight: 435
-concepts: []
 
 ---
 Are legacy contracts keeping you stuck with the wrong vendors? If so, you’re certainly not alone. Vendor lock-in is a persistent, often invisible, barrier for organisations striving to modernise their systems of work. I see it time and again: outdated contracts, proprietary platforms, and deeply embedded dependencies that make it nearly impossible to shift direction. Instead of focusing on what’s best for your business, you end up maintaining someone else’s business model—at your own expense.

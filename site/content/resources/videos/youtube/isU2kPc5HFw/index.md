@@ -3,19 +3,7 @@ title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
 description: Personal experiences and lessons on using Azure DevOps, covering its evolution, migration strategies, custom tools, and practical advice for optimising DevOps workflows.
 date: 2024-07-31T09:21:03Z
 weight: 665
-ResourceId: isU2kPc5HFw
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: isU2kPc5HFw
-source: internal
-url: /resources/videos/:slug
 slug: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-layout: video
-preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
-duration: 998
-isShort: false
 aliases:
 - /resources/isU2kPc5HFw
 - /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
@@ -26,22 +14,34 @@ aliasesArchive:
 - /resources/videos/talk-us-through-your-experience-with-azure-devops
 - /resources/talk-us-through-your-experience-with-azure-devops
 - the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Tool
+categories:
+- DevOps
 tags:
 - Azure DevOps
 - Software Development
 - Pragmatic Thinking
 - Personal
+ResourceId: isU2kPc5HFw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: isU2kPc5HFw
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
+duration: 998
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- DevOps
 Watermarks:
   description: 2025-05-07T13:02:24Z
-concepts:
-- Tool
 
 ---
 When I first encountered Azure [DevOps]({{< ref "/categories/devops" >}}) back in 2006, it wasn't even called [Azure DevOps]({{< ref "/tags/azure-devops" >}}). Back then, it was known as Visual Studio Team Services (VSTS), and before that, Team Foundation Server (TFS). Over the years, the name has changed several times, but the core intent has remained consistent: empowering teams to enhance their capabilities through powerful tools. In this blog post, I want to take you through my journey with Azure DevOps, from my early days as a software engineer to becoming a Microsoft MVP and a DevOps consultant. I'll share personal experiences, lessons learned, and practical advice on leveraging Azure DevOps to its full potential.

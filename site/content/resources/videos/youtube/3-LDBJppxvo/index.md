@@ -3,18 +3,7 @@ title: The Importance of Delivering Working Software Every Iteration
 description: Explains why delivering working software to users every iteration is vital in Agile, highlighting feedback, value, and practical steps for continuous improvement and success.
 date: 2024-06-26T06:45:00Z
 weight: 355
-ResourceId: 3-LDBJppxvo
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 3-LDBJppxvo
-source: internal
-url: /resources/videos/:slug
 slug: the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
-preview: https://i.ytimg.com/vi/3-LDBJppxvo/maxresdefault.jpg
-duration: 56
-isShort: true
 aliases:
 - /resources/3-LDBJppxvo
 - /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
@@ -27,9 +16,10 @@ aliasesArchive:
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
 - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
 - the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
 tags:
 - Software Development
 - Working Software
@@ -46,15 +36,25 @@ tags:
 - Pragmatic Thinking
 - Increment
 - Agile Frameworks
+ResourceId: 3-LDBJppxvo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 3-LDBJppxvo
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/3-LDBJppxvo/maxresdefault.jpg
+duration: 56
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:47Z
-concepts:
-- Principle
 
 ---
 In the ever-evolving world of Agile, the ability to deliver [working software]({{< ref "/tags/working-software" >}}) to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.

@@ -3,19 +3,7 @@ title: What is your favourite DevOps consulting outcome?
 description: A complex software project unified 80+ teams across 9 countries by adopting Azure DevOps, streamlining processes, and achieving a single engineering system.
 date: 2023-04-18T07:00:08Z
 weight: 390
-ResourceId: N58DvsSx4U8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: N58DvsSx4U8
-source: internal
-url: /resources/videos/:slug
 slug: what-is-your-favourite-devops-consulting-outcome
-layout: video
-preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
-duration: 497
-isShort: false
 aliases:
 - /resources/N58DvsSx4U8
 - /resources/videos/what-is-your-favourite-devops-consulting-outcome
@@ -25,21 +13,33 @@ aliasesArchive:
 - /resources/videos/what-is-your-favourite-devops-consulting-outcome-
 - /resources/what-is-your-favourite-devops-consulting-outcome-
 - what-is-your-favourite-devops-consulting-outcome
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- DevOps
 tags:
 - Azure DevOps
 - Pragmatic Thinking
 - One Engineering System
 - Software Development
+ResourceId: N58DvsSx4U8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: N58DvsSx4U8
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
+duration: 497
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- DevOps
 Watermarks:
   description: 2025-05-07T13:13:12Z
-concepts: []
 
 ---
 ## A Journey to [DevOps]({{< ref "/categories/devops" >}}) Success

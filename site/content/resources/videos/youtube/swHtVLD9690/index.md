@@ -3,19 +3,7 @@ title: The Common Challenges of Adopting DevOps Practices
 description: Explores key challenges in adopting DevOps, including managing evolving risks and closing feedback loops, with strategies for rapid iteration, feedback, and continuous improvement.
 date: 2024-08-20T08:04:38Z
 weight: 305
-ResourceId: swHtVLD9690
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: swHtVLD9690
-source: internal
-url: /resources/videos/:slug
 slug: the-common-challenges-of-adopting-devops-practices
-layout: video
-preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg
-duration: 438
-isShort: false
 aliases:
 - /resources/swHtVLD9690
 - /resources/videos/the-common-challenges-of-adopting-devops-practices
@@ -27,23 +15,35 @@ aliasesArchive:
 - /resources/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 - /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices
 - the-common-challenges-of-adopting-devops-practices
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- DevOps
+- Product Development
 tags:
 - Software Development
 - Pragmatic Thinking
 - Customer Focus
 - Customer Feedback Loops
 - Market Adaptability
+ResourceId: swHtVLD9690
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: swHtVLD9690
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg
+duration: 438
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- DevOps
-- Product Development
 Watermarks:
   description: 2025-05-07T13:01:59Z
-concepts: []
 
 ---
 When organizations embark on the journey of adopting [DevOps]({{< ref "/categories/devops" >}}) practices, they often encounter significant challenges. One of the most common is what I like to call "regression" – the frustrating experience of making two steps forward only to fall five steps back. Let's dive into these challenges and explore how to effectively navigate them.

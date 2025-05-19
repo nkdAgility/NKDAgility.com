@@ -1,18 +1,8 @@
 ---
 title: Hiring a Professional Scrum Master
 description: Covers key responsibilities, skills, and requirements for hiring a Scrum Master, including leadership, coaching, facilitation, and fostering effective Scrum teams.
-ResourceId: 1EEAZ-ldcTz
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2021-03-15
 weight: 590
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: hiring-a-professional-scrum-master
 aliases:
 - /blog/hiring-a-professional-scrum-master
@@ -23,6 +13,11 @@ aliasesArchive:
 - /blog/hiring-a-professional-scrum-master
 - /hiring-a-professional-scrum-master
 - /resources/blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
+concepts: []
+categories:
+- Scrum
+- Technical Leadership
+- Leadership
 tags:
 - Scrum Master
 - Professional Scrum
@@ -30,14 +25,19 @@ tags:
 - Software Development
 - Agile Frameworks
 - Team Performance
-categories:
-- Scrum
-- Technical Leadership
-- Leadership
+ResourceId: 1EEAZ-ldcTz
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: Wide-screen-scrum-master-3-3.jpg
 Watermarks:
   description: 2025-05-07T13:14:58Z
-concepts: []
 
 ---
 One of my customers is hiring for the [Scrum]({{< ref "/categories/scrum" >}}) Master Role and asked if I had a handy-dandy [Scrum Master]({{< ref "/tags/scrum-master" >}}) Job Spec that they could use. I did not, but there have been a few good ones floating around in the ether so I thought that pulling one together would be a good idea anyway. Here is my best effort to use the existing job postings, and combine them with the latest version of the Scrum Guide.

@@ -3,15 +3,7 @@ title: 'Mastering the Agile Balance: Navigating Flexibility and Inflexibility fo
 description: Explores how agile teams can balance flexibility and structure, manage data integrity, and adapt processes to achieve project goals and improve decision-making.
 date: 2024-09-19T11:05:27Z
 weight: 1000
-ResourceId: KzNbrrBCmdE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: KzNbrrBCmdE
-url: /resources/videos/:slug
 slug: mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
-layout: video
 aliases:
 - /resources/KzNbrrBCmdE
 - /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
@@ -22,21 +14,29 @@ aliasesArchive:
 - /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceId: KzNbrrBCmdE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: KzNbrrBCmdE
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: true
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T12:57:41Z
-concepts: []
 
 ---
 In my journey through the world of agile methodologies, I've often found myself reflecting on the delicate balance between flexibility and inflexibility. It’s a topic that resonates deeply with me, especially when I consider the myriad of projects and teams I've worked with over the years. 

@@ -3,19 +3,7 @@ title: Are Your Teams Empowered to Change Requirements Based on User Feedback? I
 description: Empowering teams to adapt requirements based on user feedback is key to true agility. Learn why backlog updates and team engagement drive better, user-focused products.
 date: 2024-07-17T06:45:01Z
 weight: 750
-ResourceId: qRHzl4PieKA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: qRHzl4PieKA
-source: internal
-url: /resources/videos/:slug
 slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
-layout: video
-preview: https://i.ytimg.com/vi/qRHzl4PieKA/maxresdefault.jpg
-duration: 59
-isShort: true
 aliases:
 - /resources/qRHzl4PieKA
 - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
@@ -30,9 +18,10 @@ aliasesArchive:
 - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
 - are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
 - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
 tags:
 - Customer Focus
 - Product Backlog
@@ -49,14 +38,25 @@ tags:
 - Team Performance
 - Agile Frameworks
 - Continuous Improvement
+ResourceId: qRHzl4PieKA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: qRHzl4PieKA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/qRHzl4PieKA/maxresdefault.jpg
+duration: 59
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:34Z
-concepts:
-- Principle
 
 ---
 In today’s fast-paced world, where user needs and market dynamics are constantly evolving, being agile is no longer a luxury—it’s a necessity. But what does it mean to truly be agile? At its core, agility is about responding to change over following a plan. This means that your teams need the freedom to adapt, especially when it comes to changing requirements based on user feedback.

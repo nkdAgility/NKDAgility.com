@@ -3,15 +3,7 @@ title: 'Unlocking Potential: How Immersive Learning Transforms Careers and Organ
 description: Explores how immersive learning boosts practical skills, career growth, and organisational improvement through real-world application, coaching, and continuous development.
 date: 2023-07-13T12:16:15Z
 weight: 1000
-ResourceId: NKQr8oGO8lg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: NKQr8oGO8lg
-url: /resources/videos/:slug
 slug: unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
-layout: video
 aliases:
 - /resources/NKQr8oGO8lg
 - /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
@@ -22,21 +14,29 @@ aliasesArchive:
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
 - unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: NKQr8oGO8lg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: NKQr8oGO8lg
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:39Z
-concepts: []
 
 ---
 When it comes to professional development, the value of immersive learning cannot be overstated. As someone who has been deeply involved in training and [coaching]({{< ref "/tags/coaching" >}}), I’ve seen firsthand how transformative these experiences can be—not just for individuals, but for entire organisations. 

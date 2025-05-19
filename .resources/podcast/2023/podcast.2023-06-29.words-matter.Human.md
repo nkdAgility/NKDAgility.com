@@ -1,24 +1,24 @@
 ---
 title: Words matter.
 description: Explore how precise language and transparency impact communication and effectiveness in agile teams, with insights from experienced agile coaches and consultants.
+date: 2023-06-29
+weight: 1000
+slug: words-matter
+aliases:
+- /resources/Z1FuzHOIZD5
 ResourceId: Z1FuzHOIZD5
 ResourceImport: false
 ResourceType: podcast
 ResourceContentOrigin: Human
-date: 2023-06-29
-weight: 1000
-categories:
-- Uncategorized
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
-slug: words-matter
-aliases:
-- /resources/Z1FuzHOIZD5
-tags: []
 Watermarks:
   description: 2025-05-07T13:11:10Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of [transparency]({{< ref "/tags/transparency" >}}), specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.

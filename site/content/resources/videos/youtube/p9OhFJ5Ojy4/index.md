@@ -3,15 +3,7 @@ title: 'Embracing Change: Why Agile Evolution is the Key to Thriving in a Rapidl
 description: Explores why continuous organisational evolution, not fixed transformations, is essential for adapting to rapid change, fostering agility, and enabling sustainable growth.
 date: 2020-07-22T10:08:06Z
 weight: 1000
-ResourceId: p9OhFJ5Ojy4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: p9OhFJ5Ojy4
-url: /resources/videos/:slug
 slug: embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-layout: video
 aliases:
 - /resources/p9OhFJ5Ojy4
 - /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
@@ -22,27 +14,35 @@ aliasesArchive:
 - /resources/agile-in-nigeria-2020-the-inevitability-of-change
 - /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
 - embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
-duration: 2977
-isShort: false
+concepts:
+- Ethos
+categories:
+- Uncategorized
 tags:
 - Organisational Agility
 - Organisational Change
 - Pragmatic Thinking
 - Business Agility
 - Change Management
+ResourceId: p9OhFJ5Ojy4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: p9OhFJ5Ojy4
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
+duration: 2977
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:26Z
-concepts:
-- Ethos
 
 ---
 Oh hi, my name is Martin Hinshelwood, and I’m the owner of Naked Agility. As a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Scrum.org and a Microsoft MVP, I’ve been delivering software for about 20 years and working in [organisational change]({{< ref "/tags/organisational-change" >}}) for over a decade. Today, I want to share some insights on the inevitability of change, a topic that resonates deeply with my experiences in various markets, particularly in Ghana and Nigeria.

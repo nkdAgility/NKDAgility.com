@@ -3,19 +3,7 @@ title: 'Transforming Training: The Power of Immersive Learning in Scrum'
 description: Explores how immersive, hands-on learning in Scrum boosts knowledge retention, practical skills, and continuous improvement compared to traditional training methods.
 date: 2024-05-08T06:45:02Z
 weight: 590
-ResourceId: VOUmfpB-d88
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: VOUmfpB-d88
-source: internal
-url: /resources/videos/:slug
 slug: transforming-training-the-power-of-immersive-learning-in-scrum
-layout: video
-preview: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg
-duration: 430
-isShort: false
 aliases:
 - /resources/VOUmfpB-d88
 - /resources/videos/transforming-training-the-power-of-immersive-learning-in-scrum
@@ -26,9 +14,11 @@ aliasesArchive:
 - /resources/videos/nkd-agility-training-approach
 - /resources/nkd-agility-training-approach
 - transforming-training-the-power-of-immersive-learning-in-scrum
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Method
+categories:
+- Product Development
+- Scrum
 tags:
 - Continuous Learning
 - Agile Transformation
@@ -39,15 +29,25 @@ tags:
 - Continuous Improvement
 - Team Collaboration
 - Competence
+ResourceId: VOUmfpB-d88
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: VOUmfpB-d88
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg
+duration: 430
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:02:55Z
-concepts:
-- Method
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

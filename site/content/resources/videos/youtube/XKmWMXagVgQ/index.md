@@ -3,19 +3,7 @@ title: The Power of Continuous Learning for Product Owners
 description: Explains why continuous learning is essential for product owners, highlighting key tools, practical advice, and strategies to stay effective and ahead in a changing industry.
 date: 2023-12-19T07:00:11Z
 weight: 680
-ResourceId: XKmWMXagVgQ
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: XKmWMXagVgQ
-source: internal
-url: /resources/videos/:slug
 slug: the-power-of-continuous-learning-for-product-owners
-layout: video
-preview: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
-duration: 267
-isShort: false
 aliases:
 - /resources/XKmWMXagVgQ
 - /resources/videos/the-power-of-continuous-learning-for-product-owners
@@ -26,21 +14,33 @@ aliasesArchive:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
 - the-power-of-continuous-learning-for-product-owners
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
+- Product Management
 tags:
 - Continuous Learning
 - Competence
 - Product Owner
+ResourceId: XKmWMXagVgQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: XKmWMXagVgQ
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
+duration: 267
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:06:48Z
-concepts: []
 
 ---
 As a new [product owner]({{< ref "/tags/product-owner" >}}), you’re likely bombarded with information, advice, and endless techniques. So, where do you start? What’s the single most important thing you should focus on to ensure your success in this challenging role? The answer is simple: **[continuous learning]({{< ref "/tags/continuous-learning" >}})**.

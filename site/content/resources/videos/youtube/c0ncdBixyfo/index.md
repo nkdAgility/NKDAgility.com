@@ -3,19 +3,7 @@ title: What is the one thing that no Agile team can survive?
 description: Explores how a culture of contempt undermines Agile teams, its causes, impact on morale and productivity, and practical steps leaders can take to build a positive, inclusive culture.
 date: 2023-10-17T11:00:23Z
 weight: 665
-ResourceId: c0ncdBixyfo
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: c0ncdBixyfo
-source: internal
-url: /resources/videos/:slug
 slug: what-is-the-one-thing-that-no-agile-team-can-survive
-layout: video
-preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
-duration: 505
-isShort: false
 aliases:
 - /resources/c0ncdBixyfo
 - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive
@@ -25,23 +13,35 @@ aliasesArchive:
 - /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
 - /resources/what-is-the-one-thing-that-no-agile-team-can-survive-
 - what-is-the-one-thing-that-no-agile-team-can-survive
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Leadership
+- Product Development
 tags:
 - Organisational Culture
 - Employee Engagement
 - Personal
 - Sociotechnical Systems
 - Team Motivation
+ResourceId: c0ncdBixyfo
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: c0ncdBixyfo
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
+duration: 505
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Leadership
-- Product Development
 Watermarks:
   description: 2025-05-07T13:08:41Z
-concepts: []
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

@@ -3,18 +3,7 @@ title: How would you help organizations pitch the opportunity of agile internall
 description: Learn how to build a compelling business case for agile adoption by aligning benefits with key metrics, stakeholder goals, and inclusive change management strategies.
 date: 2023-02-08T07:15:00Z
 weight: 665
-ResourceId: 3AVlBmOATHA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 3AVlBmOATHA
-source: internal
-url: /resources/videos/:slug
 slug: how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
-duration: 371
-isShort: false
 aliases:
 - /resources/3AVlBmOATHA
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
@@ -24,24 +13,35 @@ aliasesArchive:
 - /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 - how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Leadership
+- Product Development
 tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Software Development
 - Agile Strategy
 - Value Delivery
+ResourceId: 3AVlBmOATHA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 3AVlBmOATHA
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
+duration: 371
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Leadership
-- Product Development
 Watermarks:
   description: 2025-05-07T13:14:11Z
-concepts: []
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

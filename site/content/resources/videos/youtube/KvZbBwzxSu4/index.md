@@ -3,19 +3,7 @@ title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direc
 description: Explores how clear vision, goals, and evidence-based management empower teams, improve alignment, and foster autonomy, engagement, and effective decision-making in organisations.
 date: 2024-08-08T06:45:00Z
 weight: 750
-ResourceId: KvZbBwzxSu4
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: KvZbBwzxSu4
-source: internal
-url: /resources/videos/:slug
 slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-layout: video
-preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
-duration: 591
-isShort: false
 aliases:
 - /resources/KvZbBwzxSu4
 - /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
@@ -26,9 +14,11 @@ aliasesArchive:
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 - the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Strategy
+categories:
+- Product Management
+- Leadership
 tags:
 - Decision Making
 - Evidence Based Leadership
@@ -45,15 +35,25 @@ tags:
 - Agile Strategy
 - Common Goals
 - Organisational Agility
+ResourceId: KvZbBwzxSu4
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: KvZbBwzxSu4
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
+duration: 591
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Management
-- Leadership
 Watermarks:
   description: 2025-05-07T13:02:17Z
-concepts:
-- Strategy
 
 ---
 In today's fast-paced, complex business environment, many organizations struggle with a fundamental issue: a widespread lack of understanding regarding value, strategic direction, and current goals. This problem isn't just theoretical; it's a reality I've witnessed firsthand across numerous organizations.

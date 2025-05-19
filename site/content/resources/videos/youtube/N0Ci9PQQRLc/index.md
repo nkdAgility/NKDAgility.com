@@ -3,15 +3,7 @@ title: 'From Software Engineer to Scrum Trainer: How My Journey Shapes Effective
 description: Explores how hands-on software engineering and DevOps experience informs practical, relatable Scrum training, emphasising real-world lessons and continuous improvement.
 date: 2023-01-20T07:00:08Z
 weight: 690
-ResourceId: N0Ci9PQQRLc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: N0Ci9PQQRLc
-url: /resources/videos/:slug
 slug: from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
-layout: video
 aliases:
 - /resources/N0Ci9PQQRLc
 - /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
@@ -22,23 +14,31 @@ aliasesArchive:
 - /resources/how-does-your-real-world-experience-translate-into-your-training-style-
 - /resources/videos/from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
 - from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
-preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
-duration: 423
-isShort: false
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Software Development
 - Pragmatic Thinking
+ResourceId: N0Ci9PQQRLc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: N0Ci9PQQRLc
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
+duration: 423
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:14:29Z
-concepts: []
 
 ---
 When I reflect on how my real-world experience shapes my training style, I realise just how pivotal my journey has been. I began my career as a software engineer, diving into the world of coding just before .NET emerged. My first year was spent with ASP, but once .NET came along, I found my sweet spot. This foundation has been instrumental in my understanding of [software development]({{< ref "/tags/software-development" >}}) and the intricacies of the industry.

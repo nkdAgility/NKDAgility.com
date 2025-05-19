@@ -3,38 +3,38 @@ title: Dogma versus Empiricism in a consulting engagement
 description: Explores why rigid dogma hinders consulting, emphasising the value of empirical, flexible, and empathetic approaches for effective problem-solving and continuous learning.
 date: 2023-08-11T07:00:08Z
 weight: 1000
+slug: dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
+aliases:
+- /resources/Iy33x8E9JMQ
+- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 ResourceId: Iy33x8E9JMQ
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Iy33x8E9JMQ
 source: internal
 url: /resources/videos/:slug
-slug: dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 layout: video
 preview: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg
 duration: 48
 isShort: true
-aliases:
-- /resources/Iy33x8E9JMQ
-- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
 aliasesArchive:
 - /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement
 - dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
+concepts: []
+categories:
+- Uncategorized
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:10:14Z
-concepts: []
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements

@@ -3,15 +3,7 @@ title: 'Taming the Chaos Factor: How to Align Your Agile Teams for Success'
 description: Explores common causes of chaos in Agile teams and offers practical strategies to improve alignment, communication, and collaboration for better team performance.
 date: 2023-11-09T10:45:01Z
 weight: 665
-ResourceId: ItvOiaC32Hs
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: ItvOiaC32Hs
-url: /resources/videos/:slug
 slug: taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
-layout: video
 aliases:
 - /resources/ItvOiaC32Hs
 - /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
@@ -22,26 +14,34 @@ aliasesArchive:
 - /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 - /resources/7-signs-of-the-agile-apocalypse-chaos
 - taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
-preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
-duration: 50
-isShort: true
+concepts: []
+categories:
+- Product Development
 tags:
 - Software Development
 - Team Collaboration
 - Agile Strategy
 - Organisational Agility
 - Team Performance
+ResourceId: ItvOiaC32Hs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: ItvOiaC32Hs
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
+duration: 50
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:07:58Z
-concepts: []
 
 ---
 In my journey through the world of Agile, I've often encountered a phenomenon that I like to call the "chaos factor." It's one of the seven signs of the Agile apocalypse, and let me tell you, chaos is everywhere in teams today. It’s a pervasive issue that can derail even the most well-intentioned Agile initiatives. 

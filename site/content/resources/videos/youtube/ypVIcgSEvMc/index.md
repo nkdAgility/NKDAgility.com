@@ -3,38 +3,38 @@ title: 30% Discount for Existing Alumni Overview
 description: A 30% discount is offered to alumni, recognising their dedication and supporting continued growth in DevOps, Agile, and Scrum skills through further learning opportunities.
 date: 2023-06-09T11:00:46Z
 weight: 1000
+slug: 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
+aliases:
+- /resources/ypVIcgSEvMc
+- /resources/videos/30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 ResourceId: ypVIcgSEvMc
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: ypVIcgSEvMc
 source: internal
 url: /resources/videos/:slug
-slug: 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 layout: video
 preview: https://i.ytimg.com/vi/ypVIcgSEvMc/maxresdefault.jpg
 duration: 43
 isShort: true
-aliases:
-- /resources/ypVIcgSEvMc
-- /resources/videos/30-discount-for-existing-alumni-overview-ypVIcgSEvMc
 aliasesArchive:
 - /resources/videos/-discount-for-existing-alumni-overview
 - /resources/videos/30-discount-for-existing-alumni-overview
 - /resources/30-discount-for-existing-alumni-overview
 - 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
+concepts: []
+categories:
+- Uncategorized
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:42Z
-concepts: []
 
 ---
 ## The [DevOps]({{< ref "/categories/devops" >}}) Evolution: More Than a Simple Shift

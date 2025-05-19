@@ -1,16 +1,8 @@
 ---
 title: 'Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development!'
 description: Explore expert insights on product ownership and lean product development, featuring real-world examples, practical strategies, and an interactive Q&A session.
-ResourceId: GdoDhtTM-Rn
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2023-09-28
 weight: 1000
-preview: NKDAgility-Webinar.jpg
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 slug: exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development
 aliases:
 - /newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
@@ -19,13 +11,21 @@ aliases:
 aliasesArchive:
 - /newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
 - /resources/newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/
+concepts: []
 categories:
 - Product Development
 - Product Management
 tags: []
+ResourceId: GdoDhtTM-Rn
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+preview: NKDAgility-Webinar.jpg
+author: MrHinsh
+resourceTypes: newsletter
+layout: newsletter
 Watermarks:
   description: 2025-05-07T13:09:16Z
-concepts: []
 
 ---
 Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and [Lean]({{< ref "/categories/lean" >}}) [Product Development]({{< ref "/categories/product-development" >}}).

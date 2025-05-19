@@ -3,19 +3,7 @@ title: 'Transform Your Product Development: Unleash the Power of Experimentation
 description: Learn practical strategies to boost product development by using experimentation, agile methods, and collaboration to increase user value, reduce waste, and improve ROI.
 date: 2024-08-11T22:00:33Z
 weight: 750
-ResourceId: m4KNGw5p4Go
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: m4KNGw5p4Go
-source: internal
-url: /resources/videos/:slug
 slug: transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-layout: video
-preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg
-duration: 269
-isShort: false
 aliases:
 - /resources/m4KNGw5p4Go
 - /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
@@ -26,9 +14,10 @@ aliasesArchive:
 - /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 - /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 - transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
+- Product Management
 tags:
 - Product Discovery
 - Pragmatic Thinking
@@ -38,14 +27,25 @@ tags:
 - Product Validation
 - Continuous Learning
 - Lean Product Development
+ResourceId: m4KNGw5p4Go
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: m4KNGw5p4Go
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg
+duration: 269
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:02:13Z
-concepts: []
 
 ---
 In today’s fast-paced, ever-evolving market, understanding user needs and maximizing value are crucial for successful [product development]({{< ref "/categories/product-development" >}}). The right approach can not only boost user satisfaction but also significantly improve your return on investment (ROI). This course is designed to equip you with the tools, techniques, and mindset needed to revolutionize your product development process.

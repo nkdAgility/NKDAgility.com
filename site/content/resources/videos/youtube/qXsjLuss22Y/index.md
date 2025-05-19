@@ -3,19 +3,7 @@ title: What is a sprint goal?
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
 date: 2023-05-30T11:00:40Z
 weight: 840
-ResourceId: qXsjLuss22Y
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: qXsjLuss22Y
-source: internal
-url: /resources/videos/:slug
 slug: what-is-a-sprint-goal-qXsjLuss22Y
-layout: video
-preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
-duration: 45
-isShort: true
 aliases:
 - /resources/qXsjLuss22Y
 - /resources/videos/what-is-a-sprint-goal-qXsjLuss22Y
@@ -29,19 +17,31 @@ aliasesArchive:
 - /resources/what-is-a-product-goal-
 - /resources/videos/what-is-a-product-goal
 - what-is-a-sprint-goal-qXsjLuss22Y
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
 tags:
 - Software Development
 - Agile Product Management
+ResourceId: qXsjLuss22Y
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: qXsjLuss22Y
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
+duration: 45
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:12:02Z
-concepts: []
 
 ---
 ## What's a Sprint Goal and Why Does It Matter?

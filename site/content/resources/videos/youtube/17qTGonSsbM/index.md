@@ -3,18 +3,7 @@ title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
 description: Learn why regularly evaluating your direction is vital for developers, product owners, and organisations to ensure goals, features, and strategies truly meet user and business needs.
 date: 2024-01-20T07:00:00Z
 weight: 840
-ResourceId: 17qTGonSsbM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 17qTGonSsbM
-source: internal
-url: /resources/videos/:slug
 slug: the-importance-of-evaluating-direction-are-you-heading-the-right-way
-preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
-duration: 312
-isShort: false
 aliases:
 - /resources/17qTGonSsbM
 - /resources/videos/the-importance-of-evaluating-direction-are-you-heading-the-right-way
@@ -26,20 +15,31 @@ aliasesArchive:
 - /resources/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 - /resources/videos/if-you-do-not-change-direction-you-may-end-up-where-you-are-heading-lao-tzu
 - the-importance-of-evaluating-direction-are-you-heading-the-right-way
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Continuous Improvement
+ResourceId: 17qTGonSsbM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 17qTGonSsbM
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
+duration: 312
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Improvement
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:06:25Z
-concepts:
-- Principle
 
 ---
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️

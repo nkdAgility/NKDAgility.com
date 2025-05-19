@@ -3,16 +3,7 @@ title: 'NKD Agility: Your partner in developing engineering excellence'
 description: Learn how NKD Agility supports organisations in building engineering excellence through modern practices like performance engineering, testing in production, and leadership.
 date: 2024-11-23T07:00:12Z
 weight: 205
-ResourceId: DSIXtHZTirA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: DSIXtHZTirA
-source: internal
-url: /resources/videos/:slug
 slug: nkd-agility-your-partner-in-developing-engineering-excellence
-layout: video
 aliases:
 - /resources/DSIXtHZTirA
 - /resources/videos/nkd-agility-your-partner-in-developing-engineering-excellence
@@ -22,9 +13,9 @@ aliasesArchive:
 - /resources/videos/performance-engineering-for-optimal-user-experience
 - /resources/performance-engineering-for-optimal-user-experience
 - nkd-agility-your-partner-in-developing-engineering-excellence
-preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
-duration: 704
-isShort: false
+concepts: []
+categories:
+- Engineering Excellence
 tags:
 - Software Development
 - Working Software
@@ -32,16 +23,25 @@ tags:
 - Shift Left Strategy
 - Technical Mastery
 - Technical Excellence
+ResourceId: DSIXtHZTirA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: DSIXtHZTirA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/DSIXtHZTirA/maxresdefault.jpg
+duration: 704
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:57:06Z
-concepts: []
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

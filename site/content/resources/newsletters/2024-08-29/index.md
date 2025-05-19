@@ -1,15 +1,8 @@
 ---
 title: Professional Product Discovery and Validation Skills (PPDV) with a friend in September!
 description: Learn practical skills in product discovery, validation, and customer-centric development to create successful products, with expert-led training and team collaboration strategies.
-ResourceId: bvPDNFJju4h
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2024-08-29
 weight: 1000
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 slug: professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september
 aliases:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
@@ -18,6 +11,7 @@ aliases:
 aliasesArchive:
 - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+concepts: []
 categories:
 - Product Development
 - Product Management
@@ -25,9 +19,15 @@ tags:
 - Customer Focus
 - Product Validation
 - Product Discovery
+ResourceId: bvPDNFJju4h
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+author: MrHinsh
+resourceTypes: newsletter
+layout: newsletter
 Watermarks:
   description: 2025-05-07T12:58:42Z
-concepts: []
 
 ---
 **Dear Innovators and Product Enthusiasts,**

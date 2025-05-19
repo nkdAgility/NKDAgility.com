@@ -3,19 +3,7 @@ title: One thing a client can do to ensure a successful Agile consulting engagem
 description: Encouraging clients to embrace provocation and critical questioning helps drive mindset shifts, enabling more effective Agile consulting and lasting organisational change.
 date: 2023-05-05T07:00:10Z
 weight: 790
-ResourceId: TZKvdhDPMjg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: TZKvdhDPMjg
-source: internal
-url: /resources/videos/:slug
 slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
-layout: video
-preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
-duration: 56
-isShort: true
 aliases:
 - /resources/TZKvdhDPMjg
 - /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
@@ -29,17 +17,29 @@ aliasesArchive:
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 - one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
 - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: TZKvdhDPMjg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: TZKvdhDPMjg
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
+duration: 56
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:40Z
-concepts: []
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

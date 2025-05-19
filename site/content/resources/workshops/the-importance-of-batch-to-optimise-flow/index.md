@@ -1,12 +1,22 @@
 ---
 title: The Importance of Batch to Optimise Flow
 description: Explains how breaking large tasks into smaller batches improves workflow, predictability, and delivery speed, using hands-on exercises based on queuing theory principles.
+date: 2024-09-17
+weight: 580
 ResourceId: kwS9oPiz-Ny
 ResourceImport: false
 ResourceType: workshops
 ResourceContentOrigin: Human
 resourceTypes: workshop
 layout: workshop
+creator: Martin Hinshelwood
+card:
+  button:
+    content: Learn More
+  content: Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!
+  title: The Importance of Batch to Optimise Flow
+Watermarks:
+  description: 2025-05-07T12:58:27Z
 aliases:
 - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
 - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
@@ -16,14 +26,8 @@ aliasesArchive:
 - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
 - /learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
 - /learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/
-date: 2024-09-17
-weight: 580
-creator: Martin Hinshelwood
-card:
-  button:
-    content: Learn More
-  content: Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!
-  title: The Importance of Batch to Optimise Flow
+concepts:
+- Method
 categories:
 - Product Development
 tags:
@@ -31,10 +35,6 @@ tags:
 - Operational Practices
 - Lean Principles
 - Lean Thinking
-Watermarks:
-  description: 2025-05-07T12:58:27Z
-concepts:
-- Method
 
 ---
 ## Duration

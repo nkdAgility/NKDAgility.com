@@ -2,15 +2,8 @@
 title: 'Stop Flying Blind: Why Telemetry Belongs in Your Definition of Done'
 description: Stop flying blind after release—learn why telemetry is vital to your Definition of Done and how real feedback drives better software, value, and team success.
 date: 2025-06-11T06:45:00Z
-videoId: Nj4BIom2Jeg
-ResourceId: Nj4BIom2Jeg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
-source: youtube
-url: /resources/videos/:slug
+weight: 225
 slug: 6-telemetry-as-part-of-done-Nj4BIom2Jeg
-layout: video
 aliases:
 - /resources/Nj4BIom2Jeg
 - /resources/videos/6-telemetry-as-part-of-done-Nj4BIom2Jeg
@@ -18,17 +11,8 @@ aliases:
 aliasesArchive:
 - /resources/videos/6-telemetry-as-part-of-done
 - 6-telemetry-as-part-of-done-Nj4BIom2Jeg
-preview: https://i9.ytimg.com/vi/Nj4BIom2Jeg/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBgp0NBhnpxnYEAD20FJlWRozI5gQ
-duration: 50
-resourceTypes:
-- video
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T19:44:58Z
-ResourceContentOrigin: ai
+concepts:
+- Observability
 categories:
 - Engineering Excellence
 - Product Development
@@ -44,9 +28,25 @@ tags:
 - Technical Mastery
 - Product Delivery
 - Current Value
-weight: 225
-concepts:
-- Observability
+ResourceId: Nj4BIom2Jeg
+ResourceImport: true
+ResourceType: videos
+videoId: Nj4BIom2Jeg
+ResourceImportSource: Youtube
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i9.ytimg.com/vi/Nj4BIom2Jeg/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBgp0NBhnpxnYEAD20FJlWRozI5gQ
+duration: 50
+resourceTypes:
+- video
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T19:44:58Z
+ResourceContentOrigin: ai
 
 ---
 There’s a phrase I keep coming back to: shipping without telemetry is flying blind. It’s astonishing how often I see teams pour their energy into building and releasing features, only to have no idea what happens next. Did it work? Did it break? Is anyone even using it? Without logs, metrics, or any meaningful feedback, you’re left guessing. And guessing is not a strategy.

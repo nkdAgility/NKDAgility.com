@@ -1,18 +1,8 @@
 ---
 title: Professional Scrum teams build software that works
 description: Professional Scrum Teams prioritise software quality, accountability, and continuous improvement, ensuring each release is reliable, defect-free, and delivers real value.
-ResourceId: vCeqzJIgF1F
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 22774
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-12-03
 weight: 175
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: professional-scrum-teams-build-software-works
 aliases:
 - /blog/professional-scrum-teams-build-software-works
@@ -27,6 +17,12 @@ aliasesArchive:
 - /professional-scrum-teams-build-software-that-works
 - /blog/professional-scrum-teams-build-software-that-works
 - /resources/blog/professional-scrum-teams-build-software-works
+concepts:
+- Ethos
+categories:
+- Scrum
+- Engineering Excellence
+- Product Development
 tags:
 - Working Software
 - Increment
@@ -43,15 +39,19 @@ tags:
 - Technical Debt
 - Competence
 - Engineering Practices
-categories:
-- Scrum
-- Engineering Excellence
-- Product Development
+ResourceId: vCeqzJIgF1F
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 22774
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:18Z
-concepts:
-- Ethos
 
 ---
 I am always surprised at the number of teams that release undone work to production. I understand that one may need a few sprints, or many if you inherited something nasty, to pay back that debt, but if it's more then you are not a [Professional Scrum Team](/blog/scrum-tapas-importance-professionalism/). The sheer amount of software that I have that is buggy, slow, or just not finished makes me think that there are few professional [Scrum Teams](/the-2020-scrum-guide/#scrum-team) out there!

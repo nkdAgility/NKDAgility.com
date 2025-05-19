@@ -3,15 +3,7 @@ title: 'Unlocking Success: Join Me for a Virtual Coffee to Tackle Your Agile and
 description: Book a free virtual coffee chat to discuss and solve your agile or technical challenges, share knowledge, and find practical solutions for organisational success.
 date: 2023-12-06T11:01:01Z
 weight: 790
-ResourceId: zro-li2QIMM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: zro-li2QIMM
-url: /resources/videos/:slug
 slug: unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
-layout: video
 aliases:
 - /resources/zro-li2QIMM
 - /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
@@ -22,21 +14,29 @@ aliasesArchive:
 - /resources/videos/-shorts-7-virtues-of-agile-charity
 - /resources/-shorts-7-virtues-of-agile-charity
 - unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: zro-li2QIMM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: zro-li2QIMM
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:07:13Z
-concepts: []
 
 ---
 In my journey through the realms of both technical and agile practices, I've often found myself reflecting on the true essence of what it means to help others succeed. It’s not just about the methodologies or the frameworks; it’s about the people and the organisations behind them. 

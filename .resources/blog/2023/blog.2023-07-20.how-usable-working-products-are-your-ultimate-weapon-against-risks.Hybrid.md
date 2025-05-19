@@ -1,19 +1,8 @@
 ---
 title: How Usable Working Products Are Your Ultimate Weapon Against Risks
 description: Delivering usable, working products frequently is key to reducing risk in Agile. Focus on feedback, automation, and lean practices over excessive documentation.
-ResourceId: UnSs37BlBV7
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 49501
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2023-07-20
 weight: 360
-AudioNative: true
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliases:
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
@@ -24,6 +13,12 @@ aliasesArchive:
 - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /how-usable-working-products-are-your-ultimate-weapon-against-risks
 - /resources/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+concepts:
+- Tenet
+categories:
+- Product Development
+- Engineering Excellence
+- Product Management
 tags:
 - Increment
 - Agile Product Management
@@ -36,15 +31,20 @@ tags:
 - Frequent Releases
 - Agile Transformation
 - Market Adaptability
-categories:
-- Product Development
-- Engineering Excellence
-- Product Management
+ResourceId: UnSs37BlBV7
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 49501
+AudioNative: true
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:36Z
-concepts:
-- Tenet
 
 ---
 It baffles me how some agile teams, who claim to be the pioneers of modernity, are living in archaic times where usable working products are as rare as unicorns! Just a heads-up, my dear agile practitioners: the linchpin of Agile is a Usable Working Product. Yes, you read it right!

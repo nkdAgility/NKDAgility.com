@@ -3,19 +3,7 @@ title: Scrum doesn't solve problems, it reveals them. How, and why is that valua
 description: Explains how Scrum exposes hidden organisational problems through transparency and feedback, enabling teams to identify issues, improve processes, and drive real change.
 date: 2023-09-27T07:00:29Z
 weight: 590
-ResourceId: Ys0dWfKVSeA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Ys0dWfKVSeA
-source: internal
-url: /resources/videos/:slug
 slug: scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
-layout: video
-preview: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
-duration: 584
-isShort: false
 aliases:
 - /resources/Ys0dWfKVSeA
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
@@ -31,9 +19,11 @@ aliasesArchive:
 - scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - /resources/videos/scrum-the-mirror-to-organizational-challenges
 - /resources/videos/scrum-doesn-t-solve-problems-it-reveals-them.-how-and-why-is-that-valuable
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Framework
+categories:
+- Product Development
+- Scrum
 tags:
 - Transparency
 - Agile Frameworks
@@ -44,15 +34,25 @@ tags:
 - Team Collaboration
 - Agile Transformation
 - Empirical Process Control
+ResourceId: Ys0dWfKVSeA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Ys0dWfKVSeA
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
+duration: 584
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
 Watermarks:
   description: 2025-05-07T13:09:17Z
-concepts:
-- Framework
 
 ---
 ## Reflecting on [Scrum]({{< ref "/categories/scrum" >}})'s Mirror  

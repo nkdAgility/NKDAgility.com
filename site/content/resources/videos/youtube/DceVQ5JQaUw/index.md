@@ -3,15 +3,7 @@ title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agi
 description: Explores how open, challenging conversations with agile consultants drive organisational change, foster learning, and support continuous improvement and accountability.
 date: 2023-05-01T07:00:05Z
 weight: 1000
-ResourceId: DceVQ5JQaUw
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: DceVQ5JQaUw
-url: /resources/videos/:slug
 slug: unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
-layout: video
 aliases:
 - /resources/DceVQ5JQaUw
 - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
@@ -22,24 +14,32 @@ aliasesArchive:
 - /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 - unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
-preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
-duration: 130
-isShort: false
+concepts:
+- Ethos
+categories:
+- Uncategorized
 tags:
 - Change Management
 - Organisational Culture
+ResourceId: DceVQ5JQaUw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: DceVQ5JQaUw
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
+duration: 130
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:12:51Z
-concepts:
-- Ethos
 
 ---
 In my journey as an agile consultant, I've often encountered a recurring theme that can make or break the effectiveness of our work: the willingness of clients to engage in meaningful dialogue. The most destructive thing a client can do is to shut down that dialogue. When clients restrict consultants from engaging, speaking, and interacting with their teams, they inadvertently stifle the very change they seek.

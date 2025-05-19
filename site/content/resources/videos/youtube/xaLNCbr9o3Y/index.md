@@ -3,38 +3,38 @@ title: 'Navigating Agile Learning: Embrace Change and Community in Uncertain Tim
 description: Explores adapting agile learning to remote environments, emphasising flexibility, flow, gamification, and community support during uncertain times.
 date: 2020-04-01T16:26:05Z
 weight: 1000
+slug: navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+aliases:
+- /resources/xaLNCbr9o3Y
 ResourceId: xaLNCbr9o3Y
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: xaLNCbr9o3Y
 url: /resources/videos/:slug
-slug: navigating-agile-learning-embrace-change-and-community-in-uncertain-times
 layout: video
-aliases:
-- /resources/xaLNCbr9o3Y
 aliasesArchive:
 - /resources/videos/ep-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
 - navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg
 duration: 1162
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:15:55Z
-concepts: []
 
 ---
 As I sit down to write this post, I can't help but reflect on the current state of our world. With the ongoing pandemic, many of us find ourselves confined to our homes, grappling with the challenges of remote work and social distancing. It's a strange time, but it also presents an opportunity for growth and learning. Recently, I had the pleasure of chatting with Daniel Vacanti, a prominent figure in the [Kanban]({{< ref "/categories/kanban" >}}) community, about our upcoming Professional [Scrum]({{< ref "/categories/scrum" >}}) with Kanban class. I wanted to share some insights from our conversation and how they relate to the broader context of agile practices.

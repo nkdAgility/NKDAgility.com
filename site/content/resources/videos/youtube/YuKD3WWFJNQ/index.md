@@ -3,19 +3,7 @@ title: 7 Harbingers of the Agile apocalypse - Silence
 description: Explores how silence in agile teams signals disengagement, and offers strategies to boost stakeholder participation, open communication, and effective sprint reviews.
 date: 2023-10-23T11:00:23Z
 weight: 640
-ResourceId: YuKD3WWFJNQ
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: YuKD3WWFJNQ
-source: internal
-url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-silence
-layout: video
-preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
-duration: 436
-isShort: false
 aliases:
 - /resources/YuKD3WWFJNQ
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
@@ -29,9 +17,11 @@ aliasesArchive:
 - /resources/videos/silence-7-harbingers-agile-apocalypse-
 - 7-harbingers-of-the-agile-apocalypse-silence
 - /resources/videos/silence-7-harbingers-agile-apocalypse
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Development
+- Scrum
+- Product Management
 tags:
 - Team Motivation
 - Software Development
@@ -46,15 +36,25 @@ tags:
 - Pragmatic Thinking
 - Agile Leadership
 - Agile Frameworks
+ResourceId: YuKD3WWFJNQ
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: YuKD3WWFJNQ
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
+duration: 436
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
-- Scrum
-- Product Management
 Watermarks:
   description: 2025-05-07T13:08:28Z
-concepts: []
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

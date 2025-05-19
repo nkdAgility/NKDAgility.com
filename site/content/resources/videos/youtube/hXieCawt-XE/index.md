@@ -3,19 +3,7 @@ title: 'Mastering Kanban: Creating a Pull-Based System for Workflow Efficiency'
 description: Learn how Kanban’s pull-based system boosts workflow efficiency by visualising tasks, setting WIP limits, managing bottlenecks, and enabling continuous process improvement.
 date: 2024-03-05T07:00:18Z
 weight: 1000
-ResourceId: hXieCawt-XE
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: hXieCawt-XE
-source: internal
-url: /resources/videos/:slug
 slug: mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-layout: video
-preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
-duration: 599
-isShort: false
 aliases:
 - /resources/hXieCawt-XE
 - /resources/videos/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
@@ -27,9 +15,11 @@ aliasesArchive:
 - /resources/work-less,-do-more-with-pull-in-kanban
 - /resources/videos/work-less-do-more-with-pull-in-kanban
 - mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Method
+categories:
+- Kanban
+- Product Development
 tags:
 - Operational Practices
 - Continuous Improvement
@@ -40,15 +30,25 @@ tags:
 - Lean Thinking
 - Agile Frameworks
 - Pragmatic Thinking
+ResourceId: hXieCawt-XE
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: hXieCawt-XE
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
+duration: 599
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Kanban
-- Product Development
 Watermarks:
   description: 2025-05-07T13:05:29Z
-concepts:
-- Method
 
 ---
 When implementing a [Kanban]({{< ref "/categories/kanban" >}}) strategy, we're essentially creating a pull-based system of work. This methodology, which originated in [lean]({{< ref "/categories/lean" >}}) manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.

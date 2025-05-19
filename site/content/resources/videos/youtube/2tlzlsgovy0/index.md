@@ -3,13 +3,6 @@ title: 'Empowering Agile Teams: Why Understanding Product Vision is Key to Succe
 description: Explains why agile teams need a clear understanding of product vision and strategic goals to boost alignment, ownership, decision-making, and adaptability.
 date: 2024-07-03T06:45:00Z
 weight: 640
-ResourceId: 2tlzlsgovy0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 2tlzlsgovy0
-url: /resources/videos/:slug
 slug: empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
 aliases:
 - /resources/2tlzlsgovy0
@@ -22,9 +15,11 @@ aliasesArchive:
 - /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
 - /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
 - empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
-preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
-duration: 56
-isShort: true
+concepts:
+- Strategy
+categories:
+- Product Development
+- Product Management
 tags:
 - Agile Strategy
 - Common Goals
@@ -37,6 +32,16 @@ tags:
 - Agile Transformation
 - Agile Values and Principles
 - Pragmatic Thinking
+ResourceId: 2tlzlsgovy0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 2tlzlsgovy0
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
+duration: 56
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -44,13 +49,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:02:43Z
-concepts:
-- Strategy
 
 ---
 In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}})?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 

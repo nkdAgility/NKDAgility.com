@@ -1,18 +1,8 @@
 ---
 title: Live Site Culture & Site Reliability Engineering
 description: Explores how agile teams use DevOps and Site Reliability Engineering to deliver high-quality software rapidly, with insights from Microsoft’s Azure DevOps team practices.
-ResourceId: c_gS0nlQD9E
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 44414
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-06-17
 weight: 360
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: live-site-culture-site-reliability-engineering
 aliases:
 - /blog/live-site-culture-site-reliability-engineering
@@ -27,18 +17,28 @@ aliasesArchive:
 - /live-site-culture-&-site-reliability-engineering
 - /blog/live-site-culture-&-site-reliability-engineering
 - /resources/blog/live-site-culture-site-reliability-engineering
+concepts: []
 categories:
 - DevOps
 - Engineering Excellence
 - Product Development
-preview: 2020-06-17_13-06-30-1-1.jpg
 tags:
 - Frequent Releases
 - Deployment Frequency
 - Software Development
+ResourceId: c_gS0nlQD9E
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 44414
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
+preview: 2020-06-17_13-06-30-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:38Z
-concepts: []
 
 ---
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards [DevOps]({{< ref "/categories/devops" >}}) practices like [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) to facilitate shortening the feedback loops.

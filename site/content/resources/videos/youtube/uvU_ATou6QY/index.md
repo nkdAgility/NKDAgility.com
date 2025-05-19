@@ -3,15 +3,7 @@ title: "Signs You're Failing as a Product Owner: How to Take Control and Deliver
 description: Learn key signs of failing as a product owner, including poor product quality, lack of vision, and inconsistent delivery, plus practical steps to regain control and deliver value.
 date: 2023-09-22T07:00:32Z
 weight: 1000
-ResourceId: uvU_ATou6QY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: uvU_ATou6QY
-url: /resources/videos/:slug
 slug: signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
-layout: video
 aliases:
 - /resources/uvU_ATou6QY
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
@@ -24,24 +16,32 @@ aliasesArchive:
 - /resources/videos/what-does-failure-look-like-as-a-product-owner
 - signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 - /resources/videos/signs-you-re-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
-preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
-duration: 203
-isShort: false
+concepts: []
+categories:
+- Product Development
+- Product Management
 tags:
 - Product Owner
 - Agile Product Management
+ResourceId: uvU_ATou6QY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: uvU_ATou6QY
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/uvU_ATou6QY/maxresdefault.jpg
+duration: 203
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:09:21Z
-concepts: []
 
 ---
 As a [product owner]({{< ref "/tags/product-owner" >}}), I often reflect on what failure truly looks like in our role. It’s a topic that resonates deeply with me, and I believe it’s essential for anyone in this position to understand the signs of a failing product owner. 

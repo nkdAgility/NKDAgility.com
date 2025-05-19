@@ -3,19 +3,7 @@ title: Would you recommend the APS course to a newbie scrum team, and Why?
 description: Explains why the Agile Practitioner Series course is ideal for new Scrum teams, focusing on practical Scrum skills, organisational change, and team empowerment.
 date: 2023-03-23T07:00:15Z
 weight: 790
-ResourceId: rPxverzgPz0
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: rPxverzgPz0
-source: internal
-url: /resources/videos/:slug
 slug: would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
-layout: video
-preview: https://i.ytimg.com/vi/rPxverzgPz0/maxresdefault.jpg
-duration: 304
-isShort: false
 aliases:
 - /resources/rPxverzgPz0
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
@@ -28,21 +16,33 @@ aliasesArchive:
 - /resources/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 - /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team
 - would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Scrum
+- Product Development
 tags:
 - Agile Transformation
 - Organisational Agility
 - Agile Frameworks
+ResourceId: rPxverzgPz0
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: rPxverzgPz0
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/rPxverzgPz0/maxresdefault.jpg
+duration: 304
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:13:33Z
-concepts: []
 
 ---
 **Would you recommend the APS course to a newbie [scrum]({{< ref "/categories/scrum" >}}) team, and Why?**

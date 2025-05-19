@@ -3,15 +3,7 @@ title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your W
 description: Learn how to define and visualise workflows in Kanban to boost team clarity, alignment, and efficiency, with practical steps for stable processes and effective task management.
 date: 2024-02-27T07:00:31Z
 weight: 1000
-ResourceId: sbr8NkJSLPU
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: sbr8NkJSLPU
-url: /resources/videos/:slug
 slug: mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
-layout: video
 aliases:
 - /resources/sbr8NkJSLPU
 - /resources/videos/mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
@@ -21,25 +13,33 @@ aliasesArchive:
 - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - /resources/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 - mastering-kanban-the-essential-guide-to-defining-and-visualising-your-workflow-for-maximum-efficiency
-preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
-duration: 218
-isShort: false
+concepts:
+- Practice
+categories:
+- Kanban
 tags:
 - Operational Practices
 - Software Development
 - Agile Frameworks
+ResourceId: sbr8NkJSLPU
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: sbr8NkJSLPU
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
+duration: 218
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Kanban
 Watermarks:
   description: 2025-05-07T13:05:34Z
-concepts:
-- Practice
 
 ---
 One of the core practices of [Kanban]({{< ref "/categories/kanban" >}}) that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 

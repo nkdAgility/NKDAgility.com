@@ -3181,5 +3181,24 @@
     "reasoning": "The content focuses on breaking organisational silos, improving branching models, and enforcing better technical leadership for delivery flow. While these are important for agile delivery, the discussion is almost entirely about internal process, architecture, and leadership accountability. There is no explicit mention of customer value, customer outcomes, or feedback loops with real users. The only indirect reference to customers is in the mention of 'value delivery,' but this is not elaborated in terms of customer needs or outcomes. The main audience (technical leaders) aligns with the category, but the content does not address how customer focus drives decisions or delivery. Thus, the confidence score is low.",
     "reasoning_summary": "This content is mainly about technical leadership and delivery flow, not customer outcomes. It lacks explicit discussion of customer value, feedback, or evidence-based alignment with customer needs, so it only weakly fits the Customer Focus category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "AORP41zLNTi",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:47:29",
+    "ai_confidence": 19.85,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 6.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on breaking organisational silos, improving branching models, and leadership accountability in software delivery. While it discusses improving flow and adaptability, it does not explicitly mention or deeply explore the Definition of Workflow as articulated in Kanban or agile contexts. There are no direct references to workflow policies, entry/exit criteria, WIP limits, or the explicit agreements central to the category. The main audience (technical leaders) aligns somewhat, but the content is more about system and team design than workflow definition. Thus, confidence is low.",
+    "reasoning_summary": "This content addresses leadership, branching, and organisational design for better delivery flow, but it does not explicitly discuss or define workflow in the Kanban/agile sense. Its focus is adjacent, not central, to the Definition of Workflow category.",
+    "level": "Ignored"
   }
 }

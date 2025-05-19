@@ -1,16 +1,8 @@
 ---
 title: 'February 2023 NKDAgility: How much of an impact can a strong, skilled product owner have?'
 description: Explores how a skilled product owner drives value, aligns teams with strategy, and boosts product success during economic uncertainty and organisational change.
-ResourceId: Kofi3sgOhDX
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2023-01-31
 weight: 750
-preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 slug: february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 aliases:
 - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
@@ -19,13 +11,21 @@ aliases:
 aliasesArchive:
 - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
 - /resources/newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/
+concepts: []
 categories:
 - Product Management
 - Product Development
 tags: []
+ResourceId: Kofi3sgOhDX
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+preview: naked-agility-technically-agile-1280×720-February2023-1.jpg
+author: MrHinsh
+resourceTypes: newsletter
+layout: newsletter
 Watermarks:
   description: 2025-05-07T13:14:20Z
-concepts: []
 
 ---
 Over the past few months, we’ve seen mass layoffs from tech giants around the world. From Amazon to Meta, and heaps of smaller organizations across the board.

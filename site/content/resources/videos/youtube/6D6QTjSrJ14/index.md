@@ -3,18 +3,7 @@ title: What has the initial response been to the immersive learning experiences,
 description: Immersive learning is transforming professional development with ongoing, interactive sessions that boost engagement, retention, real-world application, and tailored growth.
 date: 2023-08-28T07:00:05Z
 weight: 1000
-ResourceId: 6D6QTjSrJ14
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 6D6QTjSrJ14
-source: internal
-url: /resources/videos/:slug
 slug: what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
-preview: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg
-duration: 222
-isShort: false
 aliases:
 - /resources/6D6QTjSrJ14
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
@@ -27,19 +16,30 @@ aliasesArchive:
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences
 - what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
+concepts: []
+categories:
+- Product Development
+tags:
+- Continuous Learning
+ResourceId: 6D6QTjSrJ14
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 6D6QTjSrJ14
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg
+duration: 222
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags:
-- Continuous Learning
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:09:49Z
-concepts: []
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

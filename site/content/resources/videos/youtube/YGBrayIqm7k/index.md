@@ -3,19 +3,7 @@ title: The Synergy Between Product Management and Product Development in Agile E
 description: Explains how close collaboration between product management and product development in agile teams drives market value, innovation, and continuous product improvement.
 date: 2024-07-25T06:45:02Z
 weight: 690
-ResourceId: YGBrayIqm7k
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: YGBrayIqm7k
-source: internal
-url: /resources/videos/:slug
 slug: the-synergy-between-product-management-and-product-development-in-agile-environments
-layout: video
-preview: https://i.ytimg.com/vi/YGBrayIqm7k/maxresdefault.jpg
-duration: 539
-isShort: false
 aliases:
 - /resources/YGBrayIqm7k
 - /resources/videos/the-synergy-between-product-management-and-product-development-in-agile-environments
@@ -26,21 +14,33 @@ aliasesArchive:
 - /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 - /resources/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
 - the-synergy-between-product-management-and-product-development-in-agile-environments
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Product Management
+- Product Development
 tags:
 - Value Delivery
 - Agile Product Management
 - Product Delivery
+ResourceId: YGBrayIqm7k
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: YGBrayIqm7k
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/YGBrayIqm7k/maxresdefault.jpg
+duration: 539
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Management
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:29Z
-concepts: []
 
 ---
 In the dynamic world of product creation, success hinges on two critical components: **[Product Management]({{< ref "/categories/product-management" >}})** and **[Product Development]({{< ref "/categories/product-development" >}})**. These elements, while distinct in their functions, are deeply interconnected and essential for delivering products that truly meet market needs. In this post, we’ll explore the roles of these two components, how they complement each other, and the importance of their integration in the agile process.

@@ -3,19 +3,7 @@ title: 'The Power of Metrics: Why PAL-EBM is Essential for Your Organization'
 description: Learn how evidence-based metrics drive organisational success, avoid negative behaviours, and enable transparent, data-driven decisions for leaders and teams at all levels.
 date: 2024-01-27T07:00:19Z
 weight: 430
-ResourceId: m2Z4UV4OQlI
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: m2Z4UV4OQlI
-source: internal
-url: /resources/videos/:slug
 slug: the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
-layout: video
-preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg
-duration: 373
-isShort: false
 aliases:
 - /resources/m2Z4UV4OQlI
 - /resources/videos/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
@@ -27,9 +15,12 @@ aliasesArchive:
 - /resources/why-do-you-recommend-the-pal-ebm-course-
 - /resources/videos/why-do-you-recommend-the-pal-ebm-course
 - the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Strategy
+categories:
+- Leadership
+- Product Management
+- Product Development
 tags:
 - Decision Making
 - Evidence Based Leadership
@@ -40,16 +31,25 @@ tags:
 - Operational Practices
 - Agile Leadership
 - Organisational Agility
+ResourceId: m2Z4UV4OQlI
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: m2Z4UV4OQlI
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg
+duration: 373
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Leadership
-- Product Management
-- Product Development
 Watermarks:
   description: 2025-05-07T13:06:09Z
-concepts:
-- Strategy
 
 ---
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, [product owner]({{< ref "/tags/product-owner" >}}), [Scrum]({{< ref "/categories/scrum" >}}) Master, or CEO, the **Professional Agile [Leadership]({{< ref "/categories/leadership" >}}) - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.

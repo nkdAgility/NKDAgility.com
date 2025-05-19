@@ -3,13 +3,6 @@ title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 88
 description: Explores how Azure DevOps shifted from slow, two-year releases to rapid, continuous delivery, highlighting the benefits of fast feedback, agility, and frequent deployments.
 date: 2025-02-06T10:20:34Z
 weight: 230
-ResourceId: _gyzx59-AJk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: _gyzx59-AJk
-url: /resources/videos/:slug
 slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
 aliases:
 - /resources/_gyzx59-AJk
@@ -24,9 +17,12 @@ aliasesArchive:
 - /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 - /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
 - transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
-preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
-duration: 358
-isShort: false
+concepts:
+- Principle
+categories:
+- Product Development
+- DevOps
+- Engineering Excellence
 tags:
 - Market Adaptability
 - Business Agility
@@ -43,6 +39,16 @@ tags:
 - Product Delivery
 - Value Delivery
 - Enterprise Agility
+ResourceId: _gyzx59-AJk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: _gyzx59-AJk
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/_gyzx59-AJk/maxresdefault.jpg
+duration: 358
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -50,14 +56,8 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-categories:
-- Product Development
-- DevOps
-- Engineering Excellence
 Watermarks:
   description: 2025-05-07T12:49:49Z
-concepts:
-- Principle
 
 ---
 In today’s fast-paced market, the ability to respond swiftly to changes is not just an advantage; it’s a necessity. As organisations, we often find ourselves navigating a landscape filled with surprises—some of which can be detrimental, while others present golden opportunities. The key to capitalising on these opportunities lies in our [lead time]({{< ref "/tags/lead-time" >}}). If there’s a significant delay between the moment we decide to act and when our changes hit production, we risk losing out to competitors who are quicker on the draw.

@@ -1,16 +1,8 @@
 ---
 title: 'Unlock Your Potential in 2024: Master Scrum with NKDAgility - Exclusive 20% Discount!'
 description: Advance your Agile skills in 2024 with expert-led Scrum training, hands-on practice, and a 20% discount. Suitable for Product Owners, Scrum Masters, and Agile leaders.
-ResourceId: Knb7n17SqYe
-ResourceImport: true
-ResourceType: newsletters
-ResourceContentOrigin: Human
 date: 2024-01-04
 weight: 690
-preview: naked-agility-technically-agile-1280×720-January2024.jpg
-author: MrHinsh
-resourceTypes: newsletter
-layout: newsletter
 slug: unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount
 aliases:
 - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
@@ -19,14 +11,22 @@ aliases:
 aliasesArchive:
 - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
 - /resources/newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/
+concepts: []
 categories:
 - Scrum
 tags:
 - Professional Scrum
 - Software Development
+ResourceId: Knb7n17SqYe
+ResourceImport: true
+ResourceType: newsletters
+ResourceContentOrigin: Human
+preview: naked-agility-technically-agile-1280×720-January2024.jpg
+author: MrHinsh
+resourceTypes: newsletter
+layout: newsletter
 Watermarks:
   description: 2025-05-07T13:06:41Z
-concepts: []
 
 ---
 As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning [scrum]({{< ref "/categories/scrum" >}}) training courses. It's not just about learning; it's about transforming and leading in an agile world.

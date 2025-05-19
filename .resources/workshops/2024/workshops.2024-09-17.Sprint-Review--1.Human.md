@@ -1,21 +1,14 @@
 ---
 title: 'Sprint Review #1'
-resourceTypes: workshop
-layout: workshop
 description: Guides a 160-minute Sprint Review workshop using Liberating Structures to inspect product progress, gather feedback, and plan next steps for Scrum teams and stakeholders.
+date: 2024-09-17
+weight: 640
 ResourceId: 8gWwC3tvV_f
 ResourceImport: false
 ResourceType: workshops
+resourceTypes: workshop
+layout: workshop
 ResourceContentOrigin: Human
-aliases:
-- /workshops/Sprint-Review-1.html
-- /learn/agile-delivery-kit/workshops/Sprint-Review-1
-- /learn/agile-delivery-kit/workshops/sprint-review-1/
-- /resources/8gWwC3tvV_f
-aliasesArchive:
-- /workshops/Sprint-Review-1.html
-- /learn/agile-delivery-kit/workshops/Sprint-Review-1
-- /learn/agile-delivery-kit/workshops/sprint-review-1/
 creator: Martin Hinshelwood
 references: 
 recommendedContent:
@@ -34,13 +27,24 @@ videos:
   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
   embed: https://www.youtube.com/embed/1-W64WdSbF4
-date: 2024-09-17
-weight: 640
 card:
   button:
     content: Learn More
   content: Discover more about "Sprint Review
   title: 'Sprint Review #1'
+Watermarks:
+  description: 2025-05-07T12:57:58Z
+aliases:
+- /workshops/Sprint-Review-1.html
+- /learn/agile-delivery-kit/workshops/Sprint-Review-1
+- /learn/agile-delivery-kit/workshops/sprint-review-1/
+- /resources/8gWwC3tvV_f
+aliasesArchive:
+- /workshops/Sprint-Review-1.html
+- /learn/agile-delivery-kit/workshops/Sprint-Review-1
+- /learn/agile-delivery-kit/workshops/sprint-review-1/
+concepts:
+- Method
 categories:
 - Scrum
 - Product Development
@@ -60,10 +64,6 @@ tags:
 - Team Collaboration
 - Value Delivery
 - Agile Transformation
-Watermarks:
-  description: 2025-05-07T12:57:58Z
-concepts:
-- Method
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

@@ -3,15 +3,7 @@ title: 'Mastering the Art of Scaling Scrum: Insights from the Scaled Professiona
 description: Learn practical strategies for overcoming common challenges in scaling Scrum, based on hands-on insights from the Scaled Professional Scrum course and the Nexus framework.
 date: 2022-08-23T16:53:08Z
 weight: 640
-ResourceId: sBBKKlfwlrA
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: sBBKKlfwlrA
-url: /resources/videos/:slug
 slug: mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
-layout: video
 aliases:
 - /resources/sBBKKlfwlrA
 - /resources/videos/mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
@@ -22,9 +14,10 @@ aliasesArchive:
 - /resources/professional-scrum-with-nexus-(sps)-with-certification-learn-skills-to-overcome-scaling-challenges
 - /resources/videos/mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
 - mastering-the-art-of-scaling-scrum-insights-from-the-scaled-professional-scrum-course
-preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
-duration: 175
-isShort: false
+concepts:
+- Method
+categories:
+- Scrum
 tags:
 - Scaling
 - Agile Frameworks
@@ -32,18 +25,25 @@ tags:
 - Software Development
 - Large Scale Agility
 - Pragmatic Thinking
+ResourceId: sBBKKlfwlrA
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: sBBKKlfwlrA
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg
+duration: 175
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
 Watermarks:
   description: 2025-05-07T13:14:47Z
-concepts:
-- Method
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}): Overcoming Challenges with the Scaled [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Course

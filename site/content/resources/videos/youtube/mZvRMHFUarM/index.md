@@ -3,16 +3,7 @@ title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Ag
 description: Explores how probabilistic forecasting improves software project planning by replacing traditional estimation with data-driven confidence levels for agile delivery.
 date: 2024-12-05T06:30:00Z
 weight: 790
-ResourceId: mZvRMHFUarM
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: mZvRMHFUarM
-source: youtube
-url: /resources/videos/:slug
 slug: rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
-layout: video
 aliases:
 - /resources/mZvRMHFUarM
 - /resources/videos/rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
@@ -22,25 +13,34 @@ aliasesArchive:
 - /resources/videos/estimating-with-confidence
 - /resources/estimating-with-confidence
 - rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
-preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w
-duration: 201
-isShort: false
+concepts: []
+categories:
+- Product Development
 tags:
 - Estimation
 - Forecasting
 - Pragmatic Thinking
 - Software Development
 - Decision Theory
+ResourceId: mZvRMHFUarM
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: mZvRMHFUarM
+source: youtube
+url: /resources/videos/:slug
+layout: video
+preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w
+duration: 201
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T12:56:53Z
-concepts: []
 
 ---
 One of the most significant challenges I encounter in the realm of software projects is the perennial struggle with [estimation]({{< ref "/tags/estimation" >}}). It’s a topic that seems to generate endless debate and confusion. Many organisations feel compelled to engage in some form of estimation, whether that’s through absolute estimation—which often leads to errors—or by employing relative estimation tools. The reality, however, is that we often feel we need these estimates to chart our course forward. But do we really?

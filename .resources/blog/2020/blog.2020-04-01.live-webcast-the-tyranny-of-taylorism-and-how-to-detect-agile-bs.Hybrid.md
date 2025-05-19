@@ -1,34 +1,34 @@
 ---
 title: The Tyranny of Taylorism and how to detect Agile BS
 description: Explores the origins of Taylorism in modern management, its impact on workplace practices, and how to identify ineffective or superficial Agile adoption in organisations.
-ResourceId: IDMjGi5C8lS
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 44208
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2020-04-01
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 aliases:
 - /resources/IDMjGi5C8lS
+ResourceId: IDMjGi5C8lS
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 44208
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /blog/the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 - /resources/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: 2020-03-27_21-31-11-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:56Z
-concepts: []
 
 ---
 ​

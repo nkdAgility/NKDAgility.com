@@ -3,39 +3,39 @@ title: How do DevOps and Agile integrate?
 description: Explains how DevOps and Agile work together, highlighting their complementary roles in engineering, process, and people to improve software delivery and team collaboration.
 date: 2023-06-13T14:30:08Z
 weight: 630
+slug: how-do-devops-and-agile-integrate-Gtp9wjkPFPA
+aliases:
+- /resources/Gtp9wjkPFPA
+- /resources/videos/how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 ResourceId: Gtp9wjkPFPA
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: Gtp9wjkPFPA
 source: internal
 url: /resources/videos/:slug
-slug: how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 layout: video
 preview: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg
 duration: 51
 isShort: true
-aliases:
-- /resources/Gtp9wjkPFPA
-- /resources/videos/how-do-devops-and-agile-integrate-Gtp9wjkPFPA
 aliasesArchive:
 - /resources/videos/how-do-devops-and-agile-integrate
 - /resources/how-do-devops-and-agile-integrate
 - /resources/videos/how-do-devops-and-agile-integrate-
 - /resources/how-do-devops-and-agile-integrate-
 - how-do-devops-and-agile-integrate-Gtp9wjkPFPA
+concepts: []
+categories:
+- Uncategorized
+tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:11:40Z
-concepts: []
 
 ---
 ## [DevOps]({{< ref "/categories/devops" >}}) & Agile: Two Sides of the Same Coin 🪙

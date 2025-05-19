@@ -3,19 +3,7 @@ title: How to Choose the Right Agile Coach for Your Business Success
 description: Learn how to select an Agile coach who is adaptable, experienced across frameworks, and focused on your business needs, ensuring tailored solutions and continuous improvement.
 date: 2023-11-24T11:00:52Z
 weight: 840
-ResourceId: vXCIf3eBJfs
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: vXCIf3eBJfs
-source: internal
-url: /resources/videos/:slug
 slug: how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
-layout: video
-preview: https://i.ytimg.com/vi/vXCIf3eBJfs/maxresdefault.jpg
-duration: 35
-isShort: true
 aliases:
 - /resources/vXCIf3eBJfs
 - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
@@ -27,19 +15,31 @@ aliasesArchive:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
 - how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Agnostic Agile
 - Agile Transformation
+ResourceId: vXCIf3eBJfs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: vXCIf3eBJfs
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/vXCIf3eBJfs/maxresdefault.jpg
+duration: 35
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:07:32Z
-concepts: []
 
 ---
 In the ever-evolving world of Agile, selecting the right coach for your team or organization can make a profound difference in achieving success. With so many frameworks and approaches available, it’s crucial to find someone who brings more than just one method to the table. But how do you know if the Agile coach you're considering is the right fit? Let's dive into some key factors you should consider, especially when evaluating their approach and versatility.

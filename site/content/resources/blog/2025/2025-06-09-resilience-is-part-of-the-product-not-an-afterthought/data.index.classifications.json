@@ -2421,5 +2421,24 @@
     "reasoning": "The content is a deep, practical discussion of resilience as a core product feature, focusing on engineering practices, ownership, and system design. While it references customer value (e.g., measuring customer experience, impact on trust and revenue), the main thrust is on technical and organisational approaches to resilience, not on defining, measuring, or prioritising work based on customer outcomes. Customer Focus is present but not central; customer impact is cited as a consequence of resilience, not as the primary driver of decisions. The audience is technical practitioners, and the content is highly relevant to product quality, but only tangentially to the explicit practices of Customer Focus as defined.",
     "reasoning_summary": "This content thoroughly explores resilience as a product feature, with some references to customer impact. However, it does not centre on defining or measuring customer outcomes, so its fit for Customer Focus is moderate rather than strong.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "EtzHUfsWjsD",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-18T20:53:26",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 0.5,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on resilience as a core product feature, emphasising engineering practices, ownership, and cultural aspects. There is a single, passing mention of 'Definition of Done', but no discussion of Definition of Workflow, workflow policies, entry/exit criteria, WIP limits, or Kanban concepts. The main themes are not aligned with the Definition of Workflow category, and there is no substantive exploration of workflow as defined in Kanban or agile contexts. The audience is technical, but the content is not targeted at teams seeking to define or improve workflow policies. Signal-to-noise is low for this category, as nearly all content is off-topic.",
+    "reasoning_summary": "This content is about building resilience into products, not about defining or managing workflow. It barely mentions related concepts and does not address Kanban or agile workflow policies, so it does not fit the Definition of Workflow category.",
+    "level": "Ignored"
   }
 }

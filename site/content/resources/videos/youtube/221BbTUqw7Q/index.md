@@ -3,18 +3,7 @@ title: What are 3 key takeaways for a scrum team after attending an APS immersiv
 description: 'Discover three essential lessons for Scrum teams after an APS immersive course: deepening core understanding, overcoming early challenges, and distinguishing true Scrum practices.'
 date: 2023-08-14T07:00:01Z
 weight: 790
-ResourceId: 221BbTUqw7Q
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 221BbTUqw7Q
-source: internal
-url: /resources/videos/:slug
 slug: what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
-preview: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg
-duration: 241
-isShort: false
 aliases:
 - /resources/221BbTUqw7Q
 - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
@@ -29,20 +18,31 @@ aliasesArchive:
 - /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 - /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
 - what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-tags:
-- Software Development
-resourceTypes:
-- video
-layout: video
+concepts: []
 categories:
 - Scrum
 - Product Development
+tags:
+- Software Development
+ResourceId: 221BbTUqw7Q
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 221BbTUqw7Q
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg
+duration: 241
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+resourceTypes:
+- video
+layout: video
 Watermarks:
   description: 2025-05-07T13:10:12Z
-concepts: []
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}})'s True Potential: A Journey Through the APS Immersive Class

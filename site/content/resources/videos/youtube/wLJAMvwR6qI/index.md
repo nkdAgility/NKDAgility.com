@@ -3,15 +3,7 @@ title: 'Mastering Assumptions: Unlocking Success in Product Development Through 
 description: Learn how to identify, prioritise, and test assumptions in product development using hypothesis-driven methods, experimentation, and critical analysis for better decision-making.
 date: 2024-08-20T07:06:21Z
 weight: 1000
-ResourceId: wLJAMvwR6qI
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: wLJAMvwR6qI
-url: /resources/videos/:slug
 slug: mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
-layout: video
 aliases:
 - /resources/wLJAMvwR6qI
 - /resources/videos/mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
@@ -21,24 +13,32 @@ aliasesArchive:
 - /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 - /resources/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 - mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
-preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
-duration: 302
-isShort: false
+concepts: []
+categories:
+- Product Development
+- Product Management
 tags:
 - Hypothesis Driven Development
 - Experimentation
+ResourceId: wLJAMvwR6qI
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: wLJAMvwR6qI
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
+duration: 302
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:02:03Z
-concepts: []
 
 ---
 In our ever-evolving landscape of [product development]({{< ref "/categories/product-development" >}}), one of the most crucial skills we can cultivate is the ability to work with assumptions. It’s a topic that I’m particularly passionate about, and I’m excited to share insights from our new class focused on this very subject. 

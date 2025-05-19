@@ -3,45 +3,45 @@ title: How does a Scrum team create a sprint goal?
 description: Explains how Scrum teams create effective sprint goals by aligning product strategy, tactical needs, and backlog priorities to deliver stakeholder value each sprint.
 date: 2023-06-01T11:00:15Z
 weight: 790
+slug: how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
+aliases:
+- /resources/GJSBFyoHk8E
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 ResourceId: GJSBFyoHk8E
+ResourceImport: true
 ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImport: true
 ResourceImportSource: Youtube
 videoId: GJSBFyoHk8E
 source: internal
 url: /resources/videos/:slug
-slug: how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 layout: video
 preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
 duration: 53
 isShort: true
-aliases:
-- /resources/GJSBFyoHk8E
-- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
 aliasesArchive:
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/how-does-a-scrum-team-create-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
 - /resources/how-does-a-scrum-team-create-a-sprint-goal-
 - how-does-a-scrum-team-create-a-sprint-goal-GJSBFyoHk8E
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Method
+categories:
+- Scrum
+- Product Development
 tags:
 - Software Development
 - Agile Product Management
 - Scrum Team
 - Agile Planning
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:11:57Z
-concepts:
-- Method
 
 ---
 ## The Art of Sprint Goal Creation

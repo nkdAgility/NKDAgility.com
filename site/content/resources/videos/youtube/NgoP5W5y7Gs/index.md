@@ -3,16 +3,7 @@ title: Security by Design Building Secure Software
 description: Explains how integrating security and quality early in software development—using practices like TDD, pair programming, and continuous feedback—builds robust, reliable systems.
 date: 2024-11-26T13:35:33Z
 weight: 355
-ResourceId: NgoP5W5y7Gs
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: NgoP5W5y7Gs
-source: internal
-url: /resources/videos/:slug
 slug: security-by-design-building-secure-software
-layout: video
 aliases:
 - /resources/NgoP5W5y7Gs
 - /resources/videos/security-by-design-building-secure-software
@@ -20,28 +11,37 @@ aliasesArchive:
 - /resources/videos/security-by-design-building-secure-software
 - /resources/security-by-design-building-secure-software
 - security-by-design-building-secure-software
-preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
-duration: 369
-isShort: false
+concepts:
+- Practice
+categories:
+- Engineering Excellence
+- DevOps
+- Product Development
 tags:
 - Shift Left Strategy
 - Technical Mastery
 - Software Development
 - Pragmatic Thinking
 - Product Delivery
+ResourceId: NgoP5W5y7Gs
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: NgoP5W5y7Gs
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
+duration: 369
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
 - video
-categories:
-- Engineering Excellence
-- DevOps
-- Product Development
 Watermarks:
   description: 2025-05-07T12:57:05Z
-concepts:
-- Practice
 
 ---
 # Shift Left: Building Quality and Security From the Start

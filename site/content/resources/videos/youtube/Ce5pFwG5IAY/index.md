@@ -3,19 +3,7 @@ title: 5 tools that Scrum Masters love. Part 1
 description: Discover how Scrum Masters use liberating structures to boost team engagement, improve meetings, and drive effective collaboration in Agile and Scrum environments.
 date: 2023-09-14T07:00:08Z
 weight: 840
-ResourceId: Ce5pFwG5IAY
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: Ce5pFwG5IAY
-source: internal
-url: /resources/videos/:slug
 slug: 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-layout: video
-preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg
-duration: 43
-isShort: true
 aliases:
 - /resources/Ce5pFwG5IAY
 - /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
@@ -26,23 +14,35 @@ aliasesArchive:
 - /resources/5-tools-that-scrum-masters-love-part-1
 - 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
 - /resources/videos/5-tools-that-scrum-masters-love.-part-1
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Tool
+categories:
+- Uncategorized
 tags:
 - Team Collaboration
 - Scrum Master
 - Scrum Team
 - Social Technologies
 - Software Development
+ResourceId: Ce5pFwG5IAY
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: Ce5pFwG5IAY
+source: internal
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg
+duration: 43
+isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-07T13:09:31Z
-concepts:
-- Tool
 
 ---
 **[Scrum]({{< ref "/categories/scrum" >}}) Masters: Unlocking the Power of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) 🚀** 

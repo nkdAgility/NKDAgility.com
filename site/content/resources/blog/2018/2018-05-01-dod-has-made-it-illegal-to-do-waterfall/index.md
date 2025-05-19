@@ -1,25 +1,30 @@
 ---
 title: DOD has made it illegal to do waterfall
 description: The US Department of Defence now requires agile, iterative software development, ending mandatory waterfall methods and influencing global government IT practices.
-ResourceId: dnmT3QDhGxx
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 10204
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2018-05-01
 weight: 360
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: dod-has-made-it-illegal-to-do-waterfall
 aliases:
 - /resources/dnmT3QDhGxx
+ResourceId: dnmT3QDhGxx
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 10204
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/dod-has-made-it-illegal-to-do-waterfall
 - /dod-has-made-it-illegal-to-do-waterfall
 - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
+concepts:
+- Tenet
+categories:
+- Product Development
+- Engineering Excellence
 tags:
 - Business Agility
 - Organisational Agility
@@ -36,14 +41,9 @@ tags:
 - Continuous Improvement
 - Agile Frameworks
 - Agile Planning
-categories:
-- Product Development
-- Engineering Excellence
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 Watermarks:
   description: 2025-05-07T13:16:17Z
-concepts:
-- Tenet
 
 ---
 Did you know that the DOD has made it illegal to do waterfall? Well, kind of... For the first time in many years, the Department of Defence (DOD) in the United States had made a major update to its procurement rules. They can no longer be held accountable for holding up our industry, and being culpable for its inability to move towards agility. The last vestiges of the old ways are gone.

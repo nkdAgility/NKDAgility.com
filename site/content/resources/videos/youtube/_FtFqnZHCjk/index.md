@@ -3,18 +3,7 @@ title: The Evolution of Product Management in the Agile Era
 description: Explores how Agile transformed product management by enabling shorter release cycles, faster feedback, continuous delivery, and a stronger focus on built-in quality.
 date: 2024-07-18T06:45:01Z
 weight: 790
-ResourceId: _FtFqnZHCjk
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: _FtFqnZHCjk
-source: internal
-url: /resources/videos/:slug
 slug: the-evolution-of-product-management-in-the-agile-era
-preview: https://i.ytimg.com/vi/_FtFqnZHCjk/maxresdefault.jpg
-duration: 656
-isShort: false
 aliases:
 - /resources/_FtFqnZHCjk
 - /resources/videos/the-evolution-of-product-management-in-the-agile-era
@@ -25,9 +14,11 @@ aliasesArchive:
 - /resources/videos/agile-vs-traditional-product-management-unveiling-the-key-differences
 - /resources/agile-vs-traditional-product-management-unveiling-the-key-differences
 - the-evolution-of-product-management-in-the-agile-era
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
+concepts:
+- Principle
+categories:
+- Product Development
+- Product Management
 tags:
 - Agile Product Management
 - Agile Product Operating Model
@@ -41,16 +32,25 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Value Delivery
+ResourceId: _FtFqnZHCjk
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: _FtFqnZHCjk
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/_FtFqnZHCjk/maxresdefault.jpg
+duration: 656
+isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:02:33Z
-concepts:
-- Principle
 
 ---
 [Product management]({{< ref "/categories/product-management" >}}) has always revolved around one fundamental goal: **maximizing business value**. However, with the advent of Agile methodologies, there’s been a significant shift in how this goal is achieved. While the core tools and techniques remain largely unchanged, the approach to their application has evolved, leading to a more dynamic and responsive process.

@@ -3,15 +3,7 @@ title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team S
 description: Explains how adopting Kaizen’s continuous improvement approach can enhance personal growth, team collaboration, and process optimisation in work and daily life.
 date: 2024-08-14T07:04:17Z
 weight: 380
-ResourceId: V44iUwv0Jcg
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: V44iUwv0Jcg
-url: /resources/videos/:slug
 slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
-layout: video
 aliases:
 - /resources/V44iUwv0Jcg
 - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
@@ -22,27 +14,35 @@ aliasesArchive:
 - /resources/videos/continuous-improvement-with-kanban
 - /resources/continuous-improvement-with-kanban
 - embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
-preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
-duration: 56
-isShort: true
+concepts:
+- Principle
+categories:
+- Product Development
 tags:
 - Continuous Improvement
 - Lean Principles
 - Continuous Learning
 - Operational Practices
 - Lean Thinking
+ResourceId: V44iUwv0Jcg
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: V44iUwv0Jcg
+url: /resources/videos/:slug
+layout: video
+preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
+duration: 56
+isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T13:02:10Z
-concepts:
-- Principle
 
 ---
 In the world of Agile methodologies, particularly within the [Kanban]({{< ref "/categories/kanban" >}}) community, there's a term that often gets thrown around: Kaizen. Now, I must admit, we have a tendency to take Japanese words and adapt them to fit our context, sometimes straying from their original meanings. However, the essence of Kaizen—[continuous improvement]({{< ref "/tags/continuous-improvement" >}})—is something that resonates deeply with me and is crucial for anyone looking to enhance their processes.

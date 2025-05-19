@@ -3,18 +3,7 @@ title: 'Scaling Teams: How to Foster Innovation Without Falling into Bureaucracy
 description: Explores how organisations can scale teams to boost innovation while avoiding bureaucracy, focusing on empowerment, streamlined processes, and agile communication.
 date: 2025-02-27T11:00:09Z
 weight: 630
-ResourceId: 3X2Oka9IrKw
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 3X2Oka9IrKw
-source: internal
-url: /resources/videos/:slug
 slug: scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
-preview: https://i.ytimg.com/vi/3X2Oka9IrKw/maxresdefault.jpg
-duration: 73
-isShort: false
 aliases:
 - /resources/3X2Oka9IrKw
 - /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
@@ -28,18 +17,29 @@ aliasesArchive:
 - /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
 - /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 - scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceId: 3X2Oka9IrKw
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 3X2Oka9IrKw
+source: internal
+url: /resources/videos/:slug
+preview: https://i.ytimg.com/vi/3X2Oka9IrKw/maxresdefault.jpg
+duration: 73
+isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-tags: []
 resourceTypes:
 - video
 layout: video
-categories:
-- Product Development
 Watermarks:
   description: 2025-05-07T12:49:22Z
-concepts: []
 
 ---
 When I think about [scaling]({{< ref "/tags/scaling" >}}) teams, I often hear the sentiment that more teams should equate to more innovation. It seems logical, doesn’t it? However, in my experience, the reality is often quite different. Instead of fostering creativity and agility, scaling can lead to a quagmire of processes, endless meetings, and frustrating bottlenecks. Before you know it, you’re drowning in bureaucracy, and the very essence of innovation is stifled.

@@ -3,15 +3,7 @@ title: 'Unlocking Startup Success: Why Every Entrepreneur Needs to Master Produc
 description: Explains why mastering product management and focusing on customer value is crucial for startup success, with practical tips for entrepreneurs on vision, strategy, and growth.
 date: 2023-05-16T14:00:07Z
 weight: 840
-ResourceId: 9TbjaO1_Nz8
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: 9TbjaO1_Nz8
-url: /resources/videos/:slug
 slug: unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
-layout: video
 aliases:
 - /resources/9TbjaO1_Nz8
 - /resources/videos/unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
@@ -22,22 +14,30 @@ aliasesArchive:
 - /resources/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 - /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why
 - unlocking-startup-success-why-every-entrepreneur-needs-to-master-product-management-value
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags: []
+ResourceId: 9TbjaO1_Nz8
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: 9TbjaO1_Nz8
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
 isShort: false
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Product Development
-- Product Management
 Watermarks:
   description: 2025-05-07T13:12:26Z
-concepts: []
 
 ---
 As an entrepreneur, I often find myself reflecting on the pivotal role that [product management]({{< ref "/categories/product-management" >}}) plays in the success of a startup. Having navigated the tumultuous waters of [entrepreneurship]({{< ref "/tags/entrepreneurship" >}}), I can confidently say that understanding value is not just a nice-to-have; it’s essential. This is why I wholeheartedly recommend the Professional [Scrum]({{< ref "/categories/scrum" >}}) [Product Owner]({{< ref "/tags/product-owner" >}}) (PSPO) course, particularly for those of us who are at the helm of small organisations.

@@ -3,15 +3,7 @@ title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundation
 description: Learn what to expect from the Professional Scrum Foundations class, key Scrum concepts, hands-on learning, and tips to prepare for the PSM I assessment.
 date: 2020-05-28T05:34:33Z
 weight: 1000
-ResourceId: pP8AnHBZEXc
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImport: true
-ResourceImportSource: Youtube
-videoId: pP8AnHBZEXc
-url: /resources/videos/:slug
 slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
-layout: video
 aliases:
 - /resources/pP8AnHBZEXc
 - /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
@@ -22,23 +14,31 @@ aliasesArchive:
 - /resources/27th-may-2020-office-hours-ask-me-anything
 - /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 - unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+ResourceId: pP8AnHBZEXc
+ResourceImport: true
+ResourceType: videos
+ResourceContentOrigin: AI
+ResourceImportSource: Youtube
+videoId: pP8AnHBZEXc
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
 duration: 1906
 isShort: false
-tags:
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 source: youtube
 resourceTypes:
 - video
-categories:
-- Scrum
-- Product Development
 Watermarks:
   description: 2025-05-07T13:15:42Z
-concepts: []
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share my insights on the Professional [Scrum]({{< ref "/categories/scrum" >}}) Foundations (PSF) class and the PSM I assessment. As someone deeply entrenched in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I’ve had the privilege of teaching this class numerous times, and I can confidently say it’s one of my favourites. 

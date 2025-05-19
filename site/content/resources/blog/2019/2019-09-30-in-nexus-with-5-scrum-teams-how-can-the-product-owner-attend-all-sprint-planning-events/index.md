@@ -1,21 +1,21 @@
 ---
 title: In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?
 description: Explains how a Product Owner can manage Sprint Planning across multiple Scrum teams in Nexus by delegating, using area or team owners, and maintaining clear communication.
-ResourceId: As4R5dKsJtU
-ResourceType: blog
-ResourceContentOrigin: Hybrid
-ResourceImport: true
-ResourceImportId: 39855
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2019-09-30
 weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 aliases:
 - /resources/As4R5dKsJtU
+ResourceId: As4R5dKsJtU
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Hybrid
+ResourceImportId: 39855
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 - /in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
@@ -24,6 +24,11 @@ aliasesArchive:
 - /in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
 - /blog/in-nexus-with-5-scrum-teams--how-can-the-product-owner-attend-all-sprint-planning-events-
 - /resources/blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+concepts:
+- Method
+categories:
+- Scrum
+- Product Development
 tags:
 - Agile Frameworks
 - Agile Product Management
@@ -31,14 +36,9 @@ tags:
 - Software Development
 - Scrum Team
 - Product Owner
-categories:
-- Scrum
-- Product Development
 preview: 146713119-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:08Z
-concepts:
-- Method
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
