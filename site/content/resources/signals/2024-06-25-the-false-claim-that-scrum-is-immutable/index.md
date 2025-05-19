@@ -3,7 +3,7 @@ title: The false claim that Scrum is immutable
 description: Clarifies that Scrum is flexible and adaptable, not strictly immutable, and highlights the importance of transparency when modifying its core framework or practices.
 date: 2024-06-25T11:37:00Z
 weight: 700
-slug: every-unreleased-feature-is-a-cost
+slug: the-false-claim-that-scrum-is-immutable
 aliases:
 - /resources/nTipEJck6ez
 - /resources/0iq-XTDNbfx

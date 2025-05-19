@@ -47,6 +47,11 @@ tags:
 preview: 2025-02-03-delivery-as-the-ultimate-measure-of-progress.jpg
 Watermarks:
   description: 2025-05-07T12:49:51Z
+platform_signals:
+- platform: Scrumorg
+  post_url: https://www.scrum.org/resources/blog/delivery-only-measure-progress-scrum
+  post_date: 2025-06-10T09:00:00Z
+  post_type: crosspost
 
 ---
 As a social technology, [Scrum]({{< ref "/categories/scrum" >}}) has remained steadfast in its ethos for over 32 years, enabling teams to generate value through adaptive solutions to complex problems. Yet, a subtle distinction in its guidance often trips up practitioners - Scrum **explicitly** mandates a **Done [Increment]({{< ref "/tags/increment" >}})** but **implicitly** mandates **Delivery**. This distinction, though subtle, holds profound implications in a modern context where [DevOps]({{< ref "/categories/devops" >}}) has reshaped the landscape of software delivery.

@@ -1,26 +1,29 @@
 ---
 title: The false claim that Scrum is immutable
 description: Clarifies that Scrum is flexible and adaptable, not strictly immutable, and highlights the importance of transparency when modifying its core framework or practices.
-ResourceId: 0iq-XTDNbfx
 date: 2024-06-25T11:37:00Z
 weight: 700
-ResourceType: signals
-ResourceContentOrigin: Hybrid
-ResourceImport: false
-resourceTypes:
-- signal
-source: internal
-layout: signal
-url: /resources/signals/:slug
+slug: the-false-claim-that-scrum-is-immutable
 aliases:
 - /resources/nTipEJck6ez
 - /resources/0iq-XTDNbfx
 aliasesArchive:
 - /resources/nTipEJck6ez
+concepts:
+- Framework
 categories:
 - Scrum
 tags: []
-platform_signal:
+ResourceId: 0iq-XTDNbfx
+ResourceImport: false
+ResourceType: signals
+layout: signal
+ResourceContentOrigin: Hybrid
+resourceTypes:
+- signal
+source: internal
+url: /resources/signals/:slug
+platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
   post_id: 7203391158197088256
@@ -45,8 +48,6 @@ platform_signal:
     reposts: 0
 Watermarks:
   description: 2025-05-07T13:02:48Z
-concepts:
-- Framework
 
 ---
 The false claim that "Scrum is immutable"!

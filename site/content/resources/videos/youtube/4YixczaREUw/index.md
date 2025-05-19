@@ -50,6 +50,13 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:10Z
+platform_signals:
+- platform: Scrumorg
+  post_url: https://www.scrum.org/resources/blog/scrum-does-not-work
+  post_date: 2024-05-14
+- platform: Youtube
+  post_url: https://www.youtube.com/watch?v=4YixczaREUw
+  post_date: 2024-05-06
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) is often likened to communism, with the phrase “it doesn’t work” echoing through the halls of organisations struggling to adapt to its principles. As someone who has spent years in the trenches of Agile methodologies, I can tell you that this sentiment usually stems from a fundamental misunderstanding of what Scrum truly is. Hi, I’m Martin Hinshelwood, owner and principal consultant at Naked Agility, and today I want to debunk five common myths about Scrum that inhibit its adoption and effectiveness.
@@ -71,7 +78,7 @@ Another common misconception is that story points are a core component of Scrum.
 
 ### Myth 3: Scrum Encourages Micromanagement
 
-Many teams feel that Scrum is a vehicle for micromanagement, but this is a misunderstanding of its principles. In a true Scrum environment, the developers decide what to work on and how to do it. 
+Many teams feel that Scrum is a vehicle for micromanagement, but this is a misunderstanding of its principles. In a true Scrum environment, the developers decide what to work on and how to do it.
 
 - If you find that someone outside the team is dictating tasks during Sprint planning, that’s a clear deviation from Scrum. The developers are the ones who understand the intricacies of the work and should be trusted to make those decisions.
 
@@ -87,12 +94,12 @@ Planning in Scrum is about being flexible and responsive, not about rigidly adhe
 
 ### Myth 5: Scrum Lacks Governance
 
-Finally, there’s a misconception that Scrum has no governance. While it’s true that Scrum promotes minimal governance, it doesn’t mean that governance is absent. 
+Finally, there’s a misconception that Scrum has no governance. While it’s true that Scrum promotes minimal governance, it doesn’t mean that governance is absent.
 
 - Every organisation has its own set of internal and external governance requirements, whether it’s regulatory compliance or internal policies. Scrum should be viewed as a framework that allows for just enough governance to support the business needs without stifling agility.
 
 ### Conclusion
 
-These myths can create significant barriers to successfully implementing Scrum. By understanding the true nature of Scrum and its events, we can move beyond these misconceptions and unlock the full potential of Agile methodologies. Remember, Scrum is not about rigid structures or excessive control; it’s about fostering an environment where teams can thrive, adapt, and deliver value effectively. 
+These myths can create significant barriers to successfully implementing Scrum. By understanding the true nature of Scrum and its events, we can move beyond these misconceptions and unlock the full potential of Agile methodologies. Remember, Scrum is not about rigid structures or excessive control; it’s about fostering an environment where teams can thrive, adapt, and deliver value effectively.
 
 If you’re struggling with these myths in your organisation, I encourage you to challenge the status quo and embrace the principles of Scrum. It’s time to move beyond the misconceptions and truly understand what it means to be Agile.

@@ -1,27 +1,26 @@
 ---
 title: The majority of Scrum Masters are not fit for their position
 description: Most Scrum Masters lack essential Scrum knowledge, with only 39% meeting core standards. Poor competency threatens team success and highlights the need for better training.
-ResourceId: nTipEJck6ez
 date: 2024-06-03T14:44:00Z
 weight: 705
-ResourceType: signals
-ResourceContentOrigin: Hybrid
+slug: the-majority-of-scrum-masters-are-not-fit-for-their-position
+aliases:
+- /resources/nTipEJck6ez
+ResourceId: nTipEJck6ez
 ResourceImport: false
+ResourceType: signals
+layout: signal
+ResourceContentOrigin: Hybrid
 resourceTypes:
 - signal
 source: internal
-layout: signal
 url: /resources/signals/:slug
-aliases:
-- /resources/nTipEJck6ez
-categories:
-- Uncategorized
-tags: []
-platform_signal:
+platform_signals:
 - platform: LinkedIn
   post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
   post_id: 7203391158197088256
   post_date: 2024-06-03T13:44:00Z
+  type: social
   performance:
     impressions: 35512
     members_reached: 20147
@@ -34,6 +33,7 @@ platform_signal:
 - platform: Reddit
   post_url: https://www.reddit.com/r/scrum/comments/1doza6j/the_majority_of_scrum_masters_are_not_fit_for/
   post_date: 2024-06-03T13:44:00Z
+  type: social
   performance:
     impressions: 30000
     members_reached: 20147
@@ -43,6 +43,9 @@ platform_signal:
 Watermarks:
   description: 2025-05-07T13:02:52Z
 concepts: []
+categories:
+- Uncategorized
+tags: []
 
 ---
 🚨 The majority of Scrum Masters are not fit for their position! 🚨

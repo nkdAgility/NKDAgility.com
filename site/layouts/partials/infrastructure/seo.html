@@ -35,6 +35,7 @@
   <meta property="og:image" content="{{- .Site.Params.og_image -}}" />
 {{- end }}
 
+
 <meta property="og:url" content="{{- $canonicalUrl }}" />
 <meta property="og:site_name" content="naked Agility with Martin Hinshelwood" />
 
@@ -98,6 +99,25 @@
             "url": {{ with site.GetPage "company/people" (anchorize $contributor.name) }}{{ .Permalink }}{{ else }}{{ $contributor.external | safeURL }}{{ end }}
           }
           {{- end }}
+          {{- end }}
+        ]
+        "sameAs": [
+          {{- $now := now -}}
+          {{- with .Params.platform_signals }}
+            {{- $urls := slice -}}
+            {{- range . }}
+              {{- $include := true -}}
+              {{- if isset . "post_date" }}
+                {{- $parsed := time .post_date }}
+                {{- if gt $parsed $now }}
+                  {{- $include = false }}
+                {{- end }}
+              {{- end }}
+              {{- if and $include (isset . "post_url") }}
+                {{- $urls = $urls | append (printf "\"%s\"" .post_url) }}
+              {{- end }}
+            {{- end }}
+            {{- delimit $urls ", " | safeHTML }}
           {{- end }}
         ]
       },
