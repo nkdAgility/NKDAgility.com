@@ -5,14 +5,10 @@ ResourceId: LGGuvRq4g7p
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
-subtitle: You don't rise to the level of your continuity plan. You fall to the level of your last real test.
 date: 2025-05-12T09:00:00Z
 weight: 165
 aliases:
-  - /resources/LGGuvRq4g7p
-aliasesArchive:
-  - /fragile-by-design--the-cost-of-pretending-to-be-resilient
-  - /blog/fragile-by-design--the-cost-of-pretending-to-be-resilient
+  - /es/resources/LGGuvRq4g7p
 categories:
   - Engineering Excellence
   - Product Development
