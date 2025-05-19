@@ -5,36 +5,36 @@ date: 2020-12-10
 weight: 155
 slug: a-better-way-than-staggered-iterations-for-delivery
 aliases:
-- /blog/a-better-way-than-staggered-iterations-for-delivery
-- /a-better-way-than-staggered-iterations-for-delivery
-- /resources/DOMFzBBMzfq
-- /resources/blog/a-better-way-than-staggered-iterations-for-delivery
+  - /blog/a-better-way-than-staggered-iterations-for-delivery
+  - /a-better-way-than-staggered-iterations-for-delivery
+  - /resources/DOMFzBBMzfq
+  - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 aliasesArchive:
-- /blog/a-better-way-than-staggered-iterations-for-delivery
-- /a-better-way-than-staggered-iterations-for-delivery
-- /resources/blog/a-better-way-than-staggered-iterations-for-delivery
+  - /blog/a-better-way-than-staggered-iterations-for-delivery
+  - /a-better-way-than-staggered-iterations-for-delivery
+  - /resources/blog/a-better-way-than-staggered-iterations-for-delivery
 concepts:
-- Practice
+  - Practice
 categories:
-- Engineering Excellence
-- Scrum
-- Product Development
+  - Engineering Excellence
+  - Scrum
+  - Product Development
 tags:
-- Software Development
-- Increment
-- Agile Planning
-- Agile Product Management
-- Agile Transformation
-- Engineering Practices
-- Operational Practices
-- Pragmatic Thinking
-- Value Delivery
-- Working Software
-- Product Delivery
-- Team Performance
-- Technical Excellence
-- Agile Frameworks
-- Professional Scrum
+  - Software Development
+  - Increment
+  - Agile Planning
+  - Agile Product Management
+  - Agile Transformation
+  - Engineering Practices
+  - Operational Practices
+  - Pragmatic Thinking
+  - Value Delivery
+  - Working Software
+  - Product Delivery
+  - Team Performance
+  - Technical Excellence
+  - Agile Frameworks
+  - Professional Scrum
 ResourceId: DOMFzBBMzfq
 ResourceImport: true
 ResourceImportSource: Wordpress
@@ -49,8 +49,13 @@ resourceTypes: blog
 preview: staggered-iterations-for-delivery1-2-2.png
 Watermarks:
   description: 2025-05-07T13:15:16Z
-
+platform_signals:
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/better-way-staggered-iterations-delivery
+    post_date: 2021-01-10T09:00:00Z
+    post_type: crosspost
 ---
+
 There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more [technical debt]({{< ref "/tags/technical-debt" >}}) and lower quality software.
 
 [Updated to reflect the 2020 Scrum Guide!](https://nkdagility.com/the-2020-scrum-guide/)

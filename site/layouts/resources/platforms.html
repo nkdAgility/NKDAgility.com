@@ -1,0 +1,115 @@
+{{- define "headline" }}
+  <section class="container-fluid resources-headline py-md-4">
+    <section class="container my-2" style="max-width: 900px !important">
+      {{- partial "components/pages/header.html" . }}
+    </section>
+  </section>
+  <section class="container-fluid resources-headline-sharebar">
+    <section class="container" style="max-width: 900px !important">{{- partial "components/resources/share-bar.html" . }}</section>
+  </section>
+{{- end }}
+
+{{- define "main" }}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
+
+  <section class="container my-5 content">
+    {{ $now := now }}
+    {{ $cutoff := $now.AddDate -5 0 0 }}
+    {{ $resources := where (where .Site.RegularPages "Type" "resources") "Date" "le" $now }}
+    {{ $recent := where $resources "Date" "ge" $cutoff }}
+    {{ $recent = where $recent "Params.ResourceType" "ne" "signals" }}
+    {{ $recent = where $recent "Params.isShort" "ne" true }}
+    {{ $recent := sort $recent "Date" "desc" }}
+
+
+    <div id="resource-table">
+      <div class="d-flex gap-3 mb-3">
+        <input class="search form-control mb-3" placeholder="Filter content..." />
+
+        <select id="type-filter" class="form-select w-auto">
+          <option value="">All Types</option>
+          <option value="blog">Blog</option>
+          <option value="video">Video</option>
+          <option value="event">Event</option>
+          <!-- Add more types as needed -->
+        </select>
+      </div>
+
+      <table class="table table-striped table-sm w-100">
+        <thead>
+          <tr>
+            <th><button class="sort btn btn-sm btn-light" data-sort="title">Title</button></th>
+            <th><button class="sort btn btn-sm btn-light" data-sort="date">Date</button></th>
+            <th class="text-nowrap">Draft?</th>
+            <th><button class="sort btn btn-sm btn-light" data-sort="resourceType">Type</button></th>
+            <th>Scrumorg</th>
+          </tr>
+        </thead>
+        <tbody class="list">
+          {{ range $recent }}
+            {{ $now := now }}
+            {{ $resourceType := .Params.ResourceType | default "n/a" }}
+            {{ $scrumorg := slice }}
+            {{ if .Params.platform_signals }}
+              {{ $scrumorg = where .Params.platform_signals "platform" "Scrumorg" }}
+            {{ end }}
+
+            {{ if eq (len $scrumorg) 1 }}
+              {{ $signal := index $scrumorg 0 }}
+              {{ $postDate := cond (isset $signal "post_date") (time $signal.post_date) nil }}
+            {{ end }}
+
+
+            <tr>
+              <td class="title">
+                {{- partial "components/resources/resource-icon.html" . -}}
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </td>
+              <td class="date text-nowrap">{{ .Date.Format "2006-01-02" }}</td>
+              <td class="text-nowrap">{{ if .Draft }}Yes{{ else }}No{{ end }}</td>
+              <td class="resourceType text-nowrap">{{ $resourceType }}</td>
+              <td class="text-nowrap">
+                {{ if eq (len $scrumorg) 1 }}
+                  {{ $signal := index $scrumorg 0 }}
+                  {{ with $signal.post_date }}
+                    {{ $postDate := time . }}
+                    {{ if gt $postDate $now }}
+                      <span title="Scheduled: {{ $postDate.Format "2006-01-02 15:04" }}">⏳</span>
+                    {{ else }}
+                      ✓
+                    {{ end }}
+                  {{ else }}
+                    ✓
+                  {{ end }}
+                {{ else }}
+                  &nbsp;
+                {{ end }}
+              </td>
+            </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+    <script>
+      const options = {
+        valueNames: ["title", "date", "resourceType"],
+      };
+
+      const resourceList = new List("resource-table", options);
+
+      const typeFilter = document.getElementById("type-filter");
+      typeFilter.addEventListener("change", function () {
+        const selectedType = this.value.toLowerCase();
+
+        resourceList.filter((item) => {
+          const itemType = item.values().resourceType.toLowerCase();
+          return selectedType === "" || itemType === selectedType;
+        });
+      });
+    </script>
+  </section>
+{{- end }}
+
+{{- define "template" }}
+  resources/platforms.html
+{{- end }}

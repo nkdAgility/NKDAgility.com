@@ -5,7 +5,7 @@ date: 2025-02-10T09:00:00
 weight: 180
 slug: without-delivery-no-value
 aliases:
-- /resources/UfdnQrxv5iF
+  - /resources/UfdnQrxv5iF
 ResourceId: UfdnQrxv5iF
 ResourceImport: false
 ResourceType: blog
@@ -15,38 +15,43 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 aliasesArchive:
-- /without-delivery-no-value
-- /blog/without-delivery-no-value
-- /without-delivery--there-is-no-value
-- /blog/without-delivery--there-is-no-value
+  - /without-delivery-no-value
+  - /blog/without-delivery-no-value
+  - /without-delivery--there-is-no-value
+  - /blog/without-delivery--there-is-no-value
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Engineering Excellence
-- Scrum
+  - Product Development
+  - Engineering Excellence
+  - Scrum
 tags:
-- Software Development
-- Deployment Frequency
-- Working Software
-- Market Adaptability
-- Customer Focus
-- Operational Practices
-- Frequent Releases
-- Value Delivery
-- Product Delivery
-- Continuous Delivery
-- Empirical Process Control
-- Release Management
-- Time to Market
-- Pragmatic Thinking
-- Increment
+  - Software Development
+  - Deployment Frequency
+  - Working Software
+  - Market Adaptability
+  - Customer Focus
+  - Operational Practices
+  - Frequent Releases
+  - Value Delivery
+  - Product Delivery
+  - Continuous Delivery
+  - Empirical Process Control
+  - Release Management
+  - Time to Market
+  - Pragmatic Thinking
+  - Increment
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
 Watermarks:
   description: 2025-05-07T12:49:40Z
-
+platform_signals:
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/without-delivery-there-no-value
+    post_date: 2025-06-17T09:00:00Z
+    post_type: crosspost
 ---
+
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.
 
 > Value exists only when it is realised, and the only way to realise the value in software is to release it.

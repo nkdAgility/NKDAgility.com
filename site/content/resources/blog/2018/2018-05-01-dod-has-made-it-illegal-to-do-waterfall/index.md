@@ -5,7 +5,7 @@ date: 2018-05-01
 weight: 360
 slug: dod-has-made-it-illegal-to-do-waterfall
 aliases:
-- /resources/dnmT3QDhGxx
+  - /resources/dnmT3QDhGxx
 ResourceId: dnmT3QDhGxx
 ResourceImport: true
 ResourceImportSource: Wordpress
@@ -17,35 +17,39 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 aliasesArchive:
-- /blog/dod-has-made-it-illegal-to-do-waterfall
-- /dod-has-made-it-illegal-to-do-waterfall
-- /resources/blog/dod-has-made-it-illegal-to-do-waterfall
+  - /blog/dod-has-made-it-illegal-to-do-waterfall
+  - /dod-has-made-it-illegal-to-do-waterfall
+  - /resources/blog/dod-has-made-it-illegal-to-do-waterfall
 concepts:
-- Tenet
+  - Tenet
 categories:
-- Product Development
-- Engineering Excellence
+  - Product Development
+  - Engineering Excellence
 tags:
-- Business Agility
-- Organisational Agility
-- Pragmatic Thinking
-- Software Development
-- Value Delivery
-- Working Software
-- Operational Practices
-- Agile Transformation
-- Product Delivery
-- Agile Philosophy
-- Agile Product Management
-- Digital Transformation
-- Continuous Improvement
-- Agile Frameworks
-- Agile Planning
+  - Business Agility
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Software Development
+  - Value Delivery
+  - Working Software
+  - Operational Practices
+  - Agile Transformation
+  - Product Delivery
+  - Agile Philosophy
+  - Agile Product Management
+  - Digital Transformation
+  - Continuous Improvement
+  - Agile Frameworks
+  - Agile Planning
 preview: nkdAgility-dod-change-procurement-agile-wide-15-15.jpg
 Watermarks:
   description: 2025-05-07T13:16:17Z
-
+platform_signals:
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/dod-has-made-it-illegal-do-waterfall
+    post_type: crosspost
 ---
+
 Did you know that the DOD has made it illegal to do waterfall? Well, kind of... For the first time in many years, the Department of Defence (DOD) in the United States had made a major update to its procurement rules. They can no longer be held accountable for holding up our industry, and being culpable for its inability to move towards agility. The last vestiges of the old ways are gone.
 
 ## TL;DR;

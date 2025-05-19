@@ -5,7 +5,7 @@ date: 2025-02-24T09:00:00
 weight: 155
 slug: stop-hiding-behind-complexity-deliver-continuously
 aliases:
-- /resources/7hEAycZIn8w
+  - /resources/7hEAycZIn8w
 ResourceId: 7hEAycZIn8w
 ResourceImport: false
 ResourceType: blog
@@ -13,44 +13,49 @@ ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-- name: John McFadyen
-  external: https://www.linkedin.com/in/johnmcfadyen/
-- name: Rich Visotcky
-  external: https://www.linkedin.com/in/richvisotcky/
+  - name: John McFadyen
+    external: https://www.linkedin.com/in/johnmcfadyen/
+  - name: Rich Visotcky
+    external: https://www.linkedin.com/in/richvisotcky/
 layout: blog
 resourceTypes: blog
 aliasesArchive:
-- /stop-hiding-behind-complexity-deliver-continuously
-- /blog/stop-hiding-behind-complexity-deliver-continuously
-- /stop-hiding-behind-complexity-and-start-delivering-continuously
-- /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
+  - /stop-hiding-behind-complexity-deliver-continuously
+  - /blog/stop-hiding-behind-complexity-deliver-continuously
+  - /stop-hiding-behind-complexity-and-start-delivering-continuously
+  - /blog/stop-hiding-behind-complexity-and-start-delivering-continuously
 concepts:
-- Practice
+  - Practice
 categories:
-- DevOps
-- Engineering Excellence
-- Product Development
+  - DevOps
+  - Engineering Excellence
+  - Product Development
 tags:
-- Continuous Delivery
-- Software Development
-- Technical Mastery
-- Operational Practices
-- Market Adaptability
-- Product Delivery
-- Evidence Based Management
-- Deployment Frequency
-- Metrics and Learning
-- Organisational Agility
-- Technical Excellence
-- Frequent Releases
-- Azure DevOps
-- Business Agility
-- Release Management
+  - Continuous Delivery
+  - Software Development
+  - Technical Mastery
+  - Operational Practices
+  - Market Adaptability
+  - Product Delivery
+  - Evidence Based Management
+  - Deployment Frequency
+  - Metrics and Learning
+  - Organisational Agility
+  - Technical Excellence
+  - Frequent Releases
+  - Azure DevOps
+  - Business Agility
+  - Release Management
 preview: 2025-02-24-stop-hiding-behind-complexity-deliver-continuously.jpg
 Watermarks:
   description: 2025-05-07T12:49:30Z
-
+platform_signals:
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/stop-hiding-behind-complexity-and-start-delivering-continuously
+    post_date: 2025-07-01T09:00:00Z
+    post_type: crosspost
 ---
+
 Every organisation says their software is 'too complex' for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref "/tags/azure-devops" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.
 
 Continuous delivery is not a pipe dream. If the organisation is willing to invest, it’s achievable for every software product, regardless of complexity or legacy constraints. And that's the challenge.

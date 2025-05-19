@@ -3,49 +3,51 @@ title: The majority of Scrum Masters are not fit for their position
 description: Most Scrum Masters lack essential Scrum knowledge, with only 39% meeting core standards. Poor competency threatens team success and highlights the need for better training.
 date: 2024-06-03T14:44:00Z
 weight: 705
-slug: every-unreleased-feature-is-a-cost
+slug: the-majority-of-scrum-masters-are-not-fit-for-their-position
 aliases:
-- /resources/nTipEJck6ez
+  - /resources/nTipEJck6ez
 ResourceId: nTipEJck6ez
 ResourceImport: false
 ResourceType: signals
 layout: signal
 ResourceContentOrigin: Hybrid
 resourceTypes:
-- signal
+  - signal
 source: internal
 url: /resources/signals/:slug
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
-  post_id: 7203391158197088256
-  post_date: 2024-06-03T13:44:00Z
-  performance:
-    impressions: 35512
-    members_reached: 20147
-    reactions: 207
-    comments: 127
-    reposts: 28
-  reactions_top_job_title: Scrum Master
-  comments_top_job_title: Agile Coach
-  reposts_top_job_title: Product Owner
-- platform: Reddit
-  post_url: https://www.reddit.com/r/scrum/comments/1doza6j/the_majority_of_scrum_masters_are_not_fit_for/
-  post_date: 2024-06-03T13:44:00Z
-  performance:
-    impressions: 30000
-    members_reached: 20147
-    reactions: 86
-    comments: 91
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7203391158197088256
+    post_id: 7203391158197088256
+    post_date: 2024-06-03T13:44:00Z
+    type: social
+    performance:
+      impressions: 35512
+      members_reached: 20147
+      reactions: 207
+      comments: 127
+      reposts: 28
+    reactions_top_job_title: Scrum Master
+    comments_top_job_title: Agile Coach
+    reposts_top_job_title: Product Owner
+  - platform: Reddit
+    post_url: https://www.reddit.com/r/scrum/comments/1doza6j/the_majority_of_scrum_masters_are_not_fit_for/
+    post_date: 2024-06-03T13:44:00Z
+    type: social
+    performance:
+      impressions: 30000
+      members_reached: 20147
+      reactions: 86
+      comments: 91
+      reposts: 0
 Watermarks:
   description: 2025-05-07T13:02:52Z
 concepts: []
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
-
 ---
+
 🚨 The majority of Scrum Masters are not fit for their position! 🚨
 
 According to data from ScrumMatch (which validates Scrum Master capability with in-person reviews), most Scrum Masters lack the necessary knowledge and understanding of Scrum to effectively lead their teams.
