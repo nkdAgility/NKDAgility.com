@@ -1,0 +1,16 @@
+{{- $target := .Get 0 -}}
+{{- $page := site.GetPage $target -}}
+
+{{- if and $page (not $page.Draft) -}}
+  {{- if lt $page.PublishDate now -}}
+    {{- $page.RelPermalink -}}
+  {{- else -}}
+    {{- if eq hugo.Environment "production" -}}
+      {{- $page.RelPermalink -}}
+    {{- else -}}
+      {{- printf "https://preview.nkdagility.com%s" $page.RelPermalink -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- "" -}}
+{{- end -}}
