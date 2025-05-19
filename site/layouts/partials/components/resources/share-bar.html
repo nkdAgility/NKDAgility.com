@@ -8,19 +8,15 @@
       <a class="btn btn-sm  btn-outline-secondary align-items-center" href="#learnMore" title="Jump to more posts on this topic"> <span class="d-none d-xl-inline"> Learn More </span> <i class="fa-light fa-list"></i> </a>
     {{ end }}
     <a class="btn btn-sm  btn-outline-secondary align-items-center" href="#comments" title="Join the conversation"> <span class="d-none d-xl-inline">Comments</span> <i class="fa-regular fa-comment"></i> </a>
+    {{- partial "components/feedback-dropdown.html" . }}
     {{- partial "components/language-dropdown.html" . }}
+
   </div>
 
   <!-- Right-aligned 'Share' dropdown button -->
   <div class="d-inline-flex gap-2">
     {{- partial "components/share-dropdown.html" . }}
-    {{- if ne hugo.Environment "production" }}
-      <div class="dropdown {{ if eq hugo.Environment "production" }}d-none{{ end }}">
-        <button type="button" class="btn btn-sm btn-outline-secondary text-nowrap" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Edit </span><i class="fa-light fa-pen-to-square"></i></button>
-        <div class="dropdown-menu dropdown-menu-end p-3"></div>
-      </div>
-      {{- partial "components/admin-dropdown.html" . }}
-    {{ end }}
+    {{- partial "components/admin-dropdown.html" . }}
     <a href="#" class="btn btn-sm btn-outline-secondary text-nowrap" title="Sign up for more posts" data-bs-toggle="modal" data-bs-target="#followModal"><span class="d-none d-xl-inline">Subscribe </span><i class="fa-regular fa-cowbell-circle-plus"></i></a>
   </div>
 </div>
