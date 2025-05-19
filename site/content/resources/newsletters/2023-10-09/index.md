@@ -2,6 +2,7 @@
 title: Unlock the Power of Effective Backlog Management with our new course from Scrum.org
 description: Learn essential Scrum Product Backlog management skills, including stakeholder engagement and data-driven decision-making, to boost team effectiveness and project success.
 date: 2023-10-09
+weight: 790
 slug: unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org
 aliases:
 - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
@@ -11,10 +12,6 @@ aliasesArchive:
 - /newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 - /resources/newsletters/unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org/
 concepts: []
-ResourceId: 2G_gVI5phMC
-ResourceImport: true
-ResourceType: newsletters
-weight: 790
 categories:
 - Scrum
 - Product Development
@@ -25,6 +22,9 @@ tags:
 - Agile Frameworks
 - Professional Scrum
 - Product Owner
+ResourceId: 2G_gVI5phMC
+ResourceImport: true
+ResourceType: newsletters
 ResourceContentOrigin: Human
 preview: NKDAgility-technically-DOD-Not-AC-3-2.jpg
 author: MrHinsh
