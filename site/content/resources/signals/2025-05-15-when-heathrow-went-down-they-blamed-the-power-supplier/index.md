@@ -2,7 +2,8 @@
 title: When Heathrow went down, they blamed the power supplier.
 date: 2025-05-15T15:30:30+01:00
 slug: when-heathrow-went-down-they-blamed-the-power-supplier
-draft: true
+ResourceType: signals
+layout: signal
 source: LinkedIn
 platform_signals:
   - platform: LinkedIn

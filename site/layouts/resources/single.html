@@ -29,10 +29,34 @@
     {{- .Content }}
   </section>
 
+  <section class="container my-5 content" style="max-width: 700px !important">
+    {{ with .Params.platform_signals }}
+      <strong>Also published on:</strong>
+      {{ $now := now }}
+      {{ range $index, $item := . }}
+        {{ $hasDate := isset . "post_date" }}
+        {{ if $hasDate }}
+          {{ $parsed := time .post_date }}
+          {{ if le $parsed $now }}
+            <a href="{{ .post_url }}" target="_blank" rel="noopener" title="Published: {{ $parsed.Format "2006-01-02 15:04" }}">
+              {{ .platform }}
+            </a>
+          {{ else }}
+            <span class="text-warning-emphasis fw-semibold" title="Scheduled: {{ $parsed.Format "2006-01-02 15:04" }}"> {{ .platform }} <small class="text-muted">(Coming soon)</small> </span>
+          {{ end }}
+        {{ else }}
+          <a href="{{ .post_url }}" target="_blank" rel="noopener">{{ .platform }}</a>
+        {{ end }}
+        {{ if ne (add $index 1) (len $.Params.platform_signals) }},{{ end }}
+      {{ end }}
+    {{ end }}
+  </section>
+
   <section class="container my-5" style="max-width: 700px !important">
     <ul class="nav nav-tabs" id="myTab" role="tablist">
       {{ with .Params.platform_signals }}
-        {{ range $index, $item := . }}
+        {{ $nonCrossports := where . "post_type" "ne" "crosspost" }}
+        {{ range $index, $item := $nonCrossports }}
           <li class="nav-item" role="presentation">
             <button class="nav-link {{ if eq $index 0 }}active{{ end }}" id="signals-tab" data-bs-toggle="tab" data-bs-target="#{{ .platform }}" type="button" role="tab" aria-controls="signals" aria-selected="{{ if eq $index 0 }}true{{ else }}false{{ end }}">{{ .platform }}</button>
           </li>
@@ -43,7 +67,9 @@
     <div class="tab-content mt-3" id="myTabContent">
       {{ $page := . }}
       {{ with .Params.platform_signals }}
-        {{ range $index, $item := . }}
+        {{ $nonCrossports := where . "post_type" "ne" "crosspost" }}
+        {{ range $index, $item := $nonCrossports }}
+          {{ .post_type }}
           <div class="tab-pane fade {{ if eq $index 0 }}show active{{ end }}" id="{{ .platform }}" role="tabpanel" aria-labelledby="signals-tab">
             {{ if  eq .platform "Scrumorg" }}
               <blockquote class="scrumorg-embed-bq">
