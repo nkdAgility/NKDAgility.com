@@ -1,31 +1,9 @@
 ---
+title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
 description: Highlights the impact of Jernimo Palacios on agile practices through mentorship, knowledge sharing, and community building, emphasising collaboration and continuous improvement.
 date: 2023-05-04T07:00:07Z
-ResourceId: JNJerYuU30E
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Mentoring
-- Personal
-- Coaching
-- Continuous Learning
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:44Z
-title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
-videoId: JNJerYuU30E
-source: youtube
-url: /resources/videos/:slug
 slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
-layout: video
 aliases:
 - /resources/JNJerYuU30E
 - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
@@ -38,6 +16,28 @@ aliasesArchive:
 - most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
 - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
 - celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Mentoring
+- Personal
+- Coaching
+- Continuous Learning
+ResourceId: JNJerYuU30E
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:44Z
+videoId: JNJerYuU30E
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
 resourceTypes:

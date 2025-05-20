@@ -1,11 +1,20 @@
 ---
+title: 'Transform Your Scrum Team in 90 Days: Strategies for Continuous Delivery and Empowerment'
 description: Learn practical steps to help Scrum teams achieve continuous delivery, clarify business value, integrate feedback, and build empowerment within 90 days for lasting agility.
 date: 2023-06-27T07:00:06Z
-ResourceId: 4kqM1U7y1ZM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 300
+slug: transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
+aliases:
+- /resources/4kqM1U7y1ZM
+- /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
+- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
+aliasesArchive:
+- /resources/videos/transform-your-scrum-team-in-days-strategies-for-continuous-delivery-and-empowerment
+- /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
+- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
+- /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
+- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
+- transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 concepts:
 - Strategy
 categories:
@@ -26,29 +35,20 @@ tags:
 - Software Development
 - Value Delivery
 - Working Software
+ResourceId: 4kqM1U7y1ZM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:11:15Z
-title: 'Transform Your Scrum Team in 90 Days: Strategies for Continuous Delivery and Empowerment'
 videoId: 4kqM1U7y1ZM
 source: youtube
 url: /resources/videos/:slug
-slug: transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 layout: video
-aliases:
-- /resources/4kqM1U7y1ZM
-- /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
-- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
-aliasesArchive:
-- /resources/videos/transform-your-scrum-team-in-days-strategies-for-continuous-delivery-and-empowerment
-- /resources/videos/transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
-- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
-- /resources/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
-- /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days
-- transform-your-scrum-team-in-90-days-strategies-for-continuous-delivery-and-empowerment
 preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 resourceTypes:

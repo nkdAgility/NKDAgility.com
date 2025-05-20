@@ -1,28 +1,9 @@
 ---
+title: Why have you decided to go all in on immersive learning experiences?
 description: Explores how immersive learning boosts engagement, retention, and understanding through hands-on practice, community support, and continuous, interactive learning.
 date: 2023-07-10T07:00:18Z
-ResourceId: qEaiA_m8Vyg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Continuous Learning
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:56Z
-title: Why have you decided to go all in on immersive learning experiences?
-videoId: qEaiA_m8Vyg
-source: internal
-url: /resources/videos/:slug
 slug: why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
-layout: video
 aliases:
 - /resources/qEaiA_m8Vyg
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
@@ -30,6 +11,25 @@ aliasesArchive:
 - /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - /resources/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 - why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Continuous Learning
+ResourceId: qEaiA_m8Vyg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:56Z
+videoId: qEaiA_m8Vyg
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/qEaiA_m8Vyg/maxresdefault.jpg
 duration: 345
 resourceTypes:

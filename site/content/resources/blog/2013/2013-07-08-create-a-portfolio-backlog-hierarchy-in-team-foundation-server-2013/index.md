@@ -1,25 +1,28 @@
 ---
 title: Create a Portfolio Backlog hierarchy in Team Foundation Server 2013
 description: Learn how to customise Team Foundation Server 2013 to add a multi-level Portfolio Backlog hierarchy by editing work item types, categories, and process configuration.
-ResourceId: O_gTr7ntMcx
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9731
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-07-08
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 aliases:
 - /resources/O_gTr7ntMcx
+ResourceId: O_gTr7ntMcx
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9731
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 - /resources/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Install and Configuration
 - Azure Boards
@@ -28,12 +31,9 @@ tags:
 - System Configuration
 - Operational Practices
 - Agile Planning Tools
-categories:
-- Uncategorized
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 Watermarks:
   description: 2025-05-13T15:05:51Z
-concepts: []
 
 ---
 There are many reasons that you would want to Create a Portfolio Backlog hierarchy in Team Foundation Server 2013 not least of which is modelling your existing processes.

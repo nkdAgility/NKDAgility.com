@@ -1,33 +1,14 @@
 ---
+title: 3 best ways to wreck Kanban. Sweep problems under the rug.
 description: Ignoring problems in Kanban leads to workflow blockages, technical debt, and crises. Learn why prompt issue resolution and transparency are vital for effective Kanban.
 date: 2024-03-04T07:00:13Z
-ResourceId: Xa_e2EnLEV4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Practice
-categories:
-- Uncategorized
-tags:
-- Operational Practices
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:30Z
-title: 3 best ways to wreck Kanban. Sweep problems under the rug.
-videoId: Xa_e2EnLEV4
-source: internal
-url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
-layout: video
 aliases:
 - /resources/Xa_e2EnLEV4
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
+- /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
 - /resources/videos/3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug-
@@ -39,6 +20,26 @@ aliasesArchive:
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug
 - 3-best-ways-to-wreck-kanban-sweep-problems-under-the-rug
 - /resources/videos/3-best-ways-to-wreck-kanban.-sweep-problems-under-the-rug.
+concepts:
+- Practice
+categories:
+- Uncategorized
+tags:
+- Operational Practices
+ResourceId: Xa_e2EnLEV4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:30Z
+videoId: Xa_e2EnLEV4
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/Xa_e2EnLEV4/maxresdefault.jpg
 duration: 277
 resourceTypes:

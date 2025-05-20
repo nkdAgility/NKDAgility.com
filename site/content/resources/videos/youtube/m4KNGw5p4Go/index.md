@@ -1,11 +1,19 @@
 ---
+title: 'Transform Your Product Development: Unleash the Power of Experimentation and Collaboration'
 description: Learn practical strategies to boost product development by using experimentation, agile methods, and collaboration to increase user value, reduce waste, and improve ROI.
 date: 2024-08-11T22:00:33Z
-ResourceId: m4KNGw5p4Go
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
+slug: transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+aliases:
+- /resources/m4KNGw5p4Go
+- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+aliasesArchive:
+- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+- /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
+- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+- /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+- transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 concepts: []
 categories:
 - Product Development
@@ -19,28 +27,20 @@ tags:
 - Product Validation
 - Continuous Learning
 - Lean Product Development
+ResourceId: m4KNGw5p4Go
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:13Z
-title: 'Transform Your Product Development: Unleash the Power of Experimentation and Collaboration'
 videoId: m4KNGw5p4Go
 source: internal
 url: /resources/videos/:slug
-slug: transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 layout: video
-aliases:
-- /resources/m4KNGw5p4Go
-- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
-aliasesArchive:
-- /resources/videos/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-- /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
-- /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
-- /resources/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
-- transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg
 duration: 269
 resourceTypes:

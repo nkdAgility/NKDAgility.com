@@ -1,38 +1,37 @@
 ---
 title: Issue [ TFS 2013 ] You need elevated privileges to install InRelease
 description: Learn how to resolve InRelease 3 installation failures on Team Foundation Server 2013 by running the installer with elevated privileges via an elevated command prompt.
-ResourceId: 8WoqmaS6v99
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9753
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
 weight: 1000
+slug: issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
+aliases:
+- /resources/8WoqmaS6v99
+ResourceId: 8WoqmaS6v99
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9753
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
-slug: issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
-aliases:
-- /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
-- /resources/8WoqmaS6v99
 aliasesArchive:
 - /blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 - /issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
 - /issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /blog/issue-[-tfs-2013-]-you-need-elevated-privileges-to-install-inrelease
 - /resources/blog/issue-tfs-2013-you-need-elevated-privileges-to-install-inrelease
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Troubleshooting
 - Install and Configuration
 - Windows
-categories:
-- Uncategorized
 preview: puzzle-issue-problem-128-link-3-3.png
 Watermarks:
   description: 2025-05-12T14:23:46Z
-concepts: []
 
 ---
 Installing InRelease 3 fails as you need elevated privileges to install InRelease

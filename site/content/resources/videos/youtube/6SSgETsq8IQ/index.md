@@ -1,32 +1,9 @@
 ---
+title: 'Unlocking Success: How the Professional Scrum Product Owner Course Transforms Your Agile Journey'
 description: Learn how the Professional Scrum Product Owner course builds agile skills, practical product management, and ongoing support for effective product ownership and team success.
 date: 2022-08-23T17:22:20Z
-ResourceId: 6SSgETsq8IQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Management
-- Product Development
-- Scrum
-tags:
-- Agile Product Management
-- Product Owner
-- Professional Scrum
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:46Z
-title: 'Unlocking Success: How the Professional Scrum Product Owner Course Transforms Your Agile Journey'
-videoId: 6SSgETsq8IQ
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
-layout: video
 aliases:
 - /resources/6SSgETsq8IQ
 - /resources/videos/unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
 - /resources/videos/professional-scrum-product-owner-pspo-discover-product-management-skills-practices
 - unlocking-success-how-the-professional-scrum-product-owner-course-transforms-your-agile-journey
+concepts: []
+categories:
+- Product Management
+- Product Development
+- Scrum
+tags:
+- Agile Product Management
+- Product Owner
+- Professional Scrum
+ResourceId: 6SSgETsq8IQ
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:46Z
+videoId: 6SSgETsq8IQ
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/6SSgETsq8IQ/maxresdefault.jpg
 duration: 137
 resourceTypes:

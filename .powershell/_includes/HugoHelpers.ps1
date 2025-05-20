@@ -86,7 +86,8 @@ function Update-FieldPosition {
         [Parameter(Mandatory = $true)]
         [string]$fieldName,
         [string]$addAfter = $null,
-        [string]$addBefore = $null
+        [string]$addBefore = $null,
+        [int]$addAt = -1
     )
 
     if (-not $data.Contains($fieldName)) {
@@ -97,35 +98,44 @@ function Update-FieldPosition {
     $value = $data[$fieldName]
     $data.Remove($fieldName)
 
+    $keys = [System.Collections.ArrayList]::new($data.Keys)
+
+    if ($null -ne $addAt -and $addAt -ge 0 -and $addAt -le $keys.Count) {
+        $keys.Insert($addAt, $fieldName)
+        Write-Debug "$fieldName inserted at index $addAt"
+    }
+    elseif ($addBefore -and $keys.Contains($addBefore)) {
+        $index = $keys.IndexOf($addBefore)
+        $keys.Insert($index, $fieldName)
+        Write-Debug "$fieldName inserted before $addBefore"
+    }
+    elseif ($addAfter -and $keys.Contains($addAfter)) {
+        $index = $keys.IndexOf($addAfter)
+        $keys.Insert($index + 1, $fieldName)
+        Write-Debug "$fieldName inserted after $addAfter"
+    }
+    else {
+        $keys.Add($fieldName)
+        Write-Debug "$fieldName inserted at end"
+    }
+
     $updatedDict = [ordered]@{}
-    $inserted = $false
-
-    foreach ($key in $data.Keys) {
-        if ($addBefore -and $key -eq $addBefore -and -not $inserted) {
-            $updatedDict[$fieldName] = $value
-            $inserted = $true
-            Write-Debug "$fieldName repositioned before $addBefore"
+    foreach ($key in $keys) {
+        if ($key -eq $fieldName) {
+            $updatedDict[$key] = $value
         }
-
-        $updatedDict[$key] = $data[$key]
-
-        if ($addAfter -and $key -eq $addAfter -and -not $inserted) {
-            $updatedDict[$fieldName] = $value
-            $inserted = $true
-            Write-Debug "$fieldName repositioned after $addAfter"
+        else {
+            $updatedDict[$key] = $data[$key]
         }
     }
 
-    if (-not $inserted) {
-        $updatedDict[$fieldName] = $value
-        Write-Debug "$fieldName repositioned at end"
-    }
-    $data.Clear();   
-
+    $data.Clear()
     foreach ($key in $updatedDict.Keys) {
         $data[$key] = $updatedDict[$key]
     }
 }
+
+
 
 
 # Function to update a  field in the front matter
@@ -291,7 +301,7 @@ function Update-StringList {
     if (-not $frontMatter.Contains($fieldName)) {
         # Add property with placeholder, then use Update-FieldPosition
         $frontMatter[$fieldName] = $values
-        Write-Debug "$fieldName added"
+        Write-DebugLog "$fieldName added"
     }
     else {
         # Ensure the field is always an array
@@ -308,10 +318,10 @@ function Update-StringList {
             $newValues = $values | Where-Object { -not ($existingValues -icontains $_) }
             if ($newValues.Count -ne 0) {
                 $frontMatter[$fieldName] += $newValues
-                Write-Debug "$fieldName updated with new unique values"
+                Write-DebugLog "$fieldName updated with new unique values"
             }
             else {
-                Write-Debug "$fieldName already contains all values"
+                Write-DebugLog "$fieldName already contains all values"
             }
         }       
     }
@@ -338,7 +348,7 @@ function Update-StringList {
     # Check for duplicates in the updated array
     $duplicates = $frontMatter[$fieldName] | Group-Object | Where-Object { $_.Count -gt 1 }
     foreach ($duplicate in $duplicates) {
-        Write-Debug "Duplicate value: $($duplicate.Name) appears $($duplicate.Count) times"
+        Write-DebugLog "Duplicate value: $($duplicate.Name) appears $($duplicate.Count) times"
         exit
     }
 }

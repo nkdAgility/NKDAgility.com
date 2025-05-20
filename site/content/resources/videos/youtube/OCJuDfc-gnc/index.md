@@ -1,37 +1,35 @@
 ---
+title: 'Scaling Agility: Navigating the Dragons of Change in the Future of Work'
 description: Explores practical strategies for scaling agile practices, key metrics, virtual training adaptations, and global insights to navigate change in the evolving future of work.
 date: 2020-03-25T16:17:15Z
-ResourceId: OCJuDfc-gnc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
+aliases:
+- /resources/OCJuDfc-gnc
+ResourceId: OCJuDfc-gnc
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Uncategorized
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:16:01Z
-title: 'Scaling Agility: Navigating the Dragons of Change in the Future of Work'
 videoId: OCJuDfc-gnc
 source: youtube
 url: /resources/videos/:slug
-slug: scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 layout: video
-aliases:
-- /resources/OCJuDfc-gnc
-- /resources/videos/scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
-- /resources/videos/25th-march-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-march-office-hours-ask-me-anything
 - /resources/videos/25th-march-2020-office-hours-ask-me-anything
 - /resources/25th-march-2020-office-hours-ask-me-anything
 - /resources/videos/scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
 - scaling-agility-navigating-the-dragons-of-change-in-the-future-of-work
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 resourceTypes:

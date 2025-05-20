@@ -1,21 +1,21 @@
 ---
 title: SharePoint 2013 Issue - Custom Web Part results in Could not load file or assembly after upgrade
 description: Explains how to resolve SharePoint 2013 errors loading custom web parts after upgrading from 2010, using site reset or SharePoint Designer to remove missing assemblies.
-ResourceId: dOYcFVzZg42
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9905
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-06-20
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 aliases:
 - /resources/dOYcFVzZg42
+ResourceId: dOYcFVzZg42
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9905
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
@@ -23,15 +23,15 @@ aliasesArchive:
 - /sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /blog/sharepoint-2013-issue---custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 - /resources/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Troubleshooting
 - Install and Configuration
-categories:
-- Uncategorized
 preview: metro-sharepoint-128-link-8-8.png
 Watermarks:
   description: 2025-05-13T15:06:14Z
-concepts: []
 
 ---
 After an upgrade of a SharePoint 2010 content database to SharePoint 2013 you may get an error message “Could not load file or assembly ‘MyCustomWebPart, Version=1.0.0.0, Culture=neutral, Public Token=6912jju2191j213ggv10’ or one of its dependants. The system cannot find the file specified” when you try to access a page.

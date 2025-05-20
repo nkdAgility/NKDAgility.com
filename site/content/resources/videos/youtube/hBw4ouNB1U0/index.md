@@ -1,32 +1,9 @@
 ---
+title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Workflow Success'
 description: Explores how using metrics and visual tools enhances workflow transparency, helps identify improvement areas, and supports a culture of continuous process optimisation.
 date: 2024-08-19T06:45:02Z
-ResourceId: hBw4ouNB1U0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 305
-concepts:
-- Principle
-categories:
-- Product Development
-tags:
-- Continuous Improvement
-- Operational Practices
-- Metrics and Learning
-- Continuous Learning
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:04Z
-title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Workflow Success'
-videoId: hBw4ouNB1U0
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
-layout: video
 aliases:
 - /resources/hBw4ouNB1U0
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Continuous Improvement
+- Operational Practices
+- Metrics and Learning
+- Continuous Learning
+ResourceId: hBw4ouNB1U0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:04Z
+videoId: hBw4ouNB1U0
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 resourceTypes:

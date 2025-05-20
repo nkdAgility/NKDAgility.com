@@ -1,31 +1,9 @@
 ---
+title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
 description: Explores how patience fosters trust, growth, and collaboration in agile teams, offering practical steps to build a supportive, blame-free, and productive team culture.
 date: 2023-12-08T11:00:09Z
-ResourceId: 4p5xeJZXvcE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Team Motivation
-- Organisational Culture
-- Team Collaboration
-- Team Performance
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:07Z
-title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
-videoId: 4p5xeJZXvcE
-source: youtube
-url: /resources/videos/:slug
 slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
-layout: video
 aliases:
 - /resources/4p5xeJZXvcE
 - /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
@@ -36,6 +14,28 @@ aliasesArchive:
 - /resources/videos/-shorts-7-virtues-of-agile-patience
 - /resources/-shorts-7-virtues-of-agile-patience
 - cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
+concepts: []
+categories:
+- Product Development
+tags:
+- Team Motivation
+- Organisational Culture
+- Team Collaboration
+- Team Performance
+ResourceId: 4p5xeJZXvcE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:07Z
+videoId: 4p5xeJZXvcE
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
 resourceTypes:

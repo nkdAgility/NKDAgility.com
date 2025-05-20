@@ -1,33 +1,9 @@
 ---
+title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team Success'
 description: Explains how adopting Kaizen’s continuous improvement approach can enhance personal growth, team collaboration, and process optimisation in work and daily life.
 date: 2024-08-14T07:04:17Z
-ResourceId: V44iUwv0Jcg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 380
-concepts:
-- Principle
-categories:
-- Product Development
-tags:
-- Continuous Improvement
-- Lean Principles
-- Continuous Learning
-- Operational Practices
-- Lean Thinking
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:10Z
-title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team Success'
-videoId: V44iUwv0Jcg
-source: youtube
-url: /resources/videos/:slug
 slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
-layout: video
 aliases:
 - /resources/V44iUwv0Jcg
 - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
@@ -38,6 +14,30 @@ aliasesArchive:
 - /resources/videos/continuous-improvement-with-kanban
 - /resources/continuous-improvement-with-kanban
 - embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Continuous Improvement
+- Lean Principles
+- Continuous Learning
+- Operational Practices
+- Lean Thinking
+ResourceId: V44iUwv0Jcg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:10Z
+videoId: V44iUwv0Jcg
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 resourceTypes:

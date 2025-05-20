@@ -1,31 +1,9 @@
 ---
+title: The Power of Continuous Learning for Product Owners
 description: Explains why continuous learning is essential for product owners, highlighting key tools, practical advice, and strategies to stay effective and ahead in a changing industry.
 date: 2023-12-19T07:00:11Z
-ResourceId: XKmWMXagVgQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 680
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Continuous Learning
-- Competence
-- Product Owner
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:48Z
-title: The Power of Continuous Learning for Product Owners
-videoId: XKmWMXagVgQ
-source: internal
-url: /resources/videos/:slug
 slug: the-power-of-continuous-learning-for-product-owners
-layout: video
 aliases:
 - /resources/XKmWMXagVgQ
 - /resources/videos/the-power-of-continuous-learning-for-product-owners
@@ -36,6 +14,28 @@ aliasesArchive:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-5
 - the-power-of-continuous-learning-for-product-owners
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Continuous Learning
+- Competence
+- Product Owner
+ResourceId: XKmWMXagVgQ
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:48Z
+videoId: XKmWMXagVgQ
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
 duration: 267
 resourceTypes:

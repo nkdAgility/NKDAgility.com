@@ -1,18 +1,8 @@
 ---
 title: Issue [ TFS 2012.2 ] Detaching collection fails on SnapshotIdentities with object reference not set to an instance of an object
 description: Explains how detaching a Team Project Collection in TFS 2012.x can fail due to orphaned identities, causing a NullReferenceException, and outlines steps for diagnosis and support.
-ResourceId: 1jIPsnnKuNK
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9661
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-06-24
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
 aliases:
 - /resources/blog/issue-tfs-2012.2-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
@@ -24,16 +14,26 @@ aliasesArchive:
 - /blog/issue-[-tfs-2012-2-]-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
 - /resources/blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
 - /resources/blog/issue-tfs-2012.2-detaching-collection-fails-on-snapshotidentities-with-object-reference-not-set-to-an-instance-of-an-object
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Troubleshooting
 - Software Development
 - System Configuration
-categories:
-- Uncategorized
+ResourceId: 1jIPsnnKuNK
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9661
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: puzzle-issue-problem-128-link-2-2.png
 Watermarks:
   description: 2025-05-13T15:06:08Z
-concepts: []
 
 ---
 When you try to detach a Team Project Collection in Team Foundation Server the process fails on SnapshotIdentities with an "object reference not set to an instance of an object" error. While this does not inhibit the execution of TFS there is likely a good reason that you wanted to detach and found this issue.

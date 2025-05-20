@@ -1,38 +1,36 @@
 ---
+title: 'Maximise Your Virtual Classroom Experience: Essential Tech Tips for Scrum Training'
 description: Practical tech tips for using Microsoft Teams and Mural to improve collaboration, engagement, and learning in live virtual Scrum training sessions.
 date: 2020-05-02T16:34:05Z
-ResourceId: _bjNHN4PI9s
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
+aliases:
+- /resources/_bjNHN4PI9s
+ResourceId: _bjNHN4PI9s
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:45Z
+videoId: _bjNHN4PI9s
+source: youtube
+url: /resources/videos/:slug
+layout: video
+aliasesArchive:
+- /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
+- /resources/videos/ep-007-running-a-live-virtual-classroom
+- /resources/ep-007-running-a-live-virtual-classroom
+- maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 concepts:
 - Tool
 categories:
 - Uncategorized
 tags:
 - Collaboration Tools
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:45Z
-title: 'Maximise Your Virtual Classroom Experience: Essential Tech Tips for Scrum Training'
-videoId: _bjNHN4PI9s
-source: youtube
-url: /resources/videos/:slug
-slug: maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
-layout: video
-aliases:
-- /resources/_bjNHN4PI9s
-- /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
-- /resources/videos/ep-007-running-a-live-virtual-classroom
-aliasesArchive:
-- /resources/videos/maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
-- /resources/videos/ep-007-running-a-live-virtual-classroom
-- /resources/ep-007-running-a-live-virtual-classroom
-- maximise-your-virtual-classroom-experience-essential-tech-tips-for-scrum-training
 preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 resourceTypes:

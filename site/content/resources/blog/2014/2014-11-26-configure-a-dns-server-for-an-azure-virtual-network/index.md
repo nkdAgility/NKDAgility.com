@@ -1,34 +1,34 @@
 ---
 title: Configure a DNS server for an Azure Virtual Network
 description: Learn how to set up a DNS server with a static IP for an Azure Virtual Network, enabling domain joining and name resolution for all connected virtual machines.
-ResourceId: sQQqpuZV5xQ
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10878
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-11-26
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: configure-a-dns-server-for-an-azure-virtual-network
 aliases:
 - /resources/sQQqpuZV5xQ
+ResourceId: sQQqpuZV5xQ
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10878
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/configure-a-dns-server-for-an-azure-virtual-network
 - /configure-a-dns-server-for-an-azure-virtual-network
 - /resources/blog/configure-a-dns-server-for-an-azure-virtual-network
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Install and Configuration
 - System Configuration
-categories:
-- Uncategorized
 preview: nakedalm-windows-logo-4-4.png
 Watermarks:
   description: 2025-05-12T14:20:37Z
-concepts: []
 
 ---
 I just got done [configuring a DC in Azure for AAD integrated Release Management](http://nkdagility.com/configuring-dc-azure-aad-integrated-release-management/) and I need to now Configure a DNS server for an Azure Virtual Network. This will tell Azure that any servers that are added to this virtual network should use this DNS server. This should allow any machine added to this virtual network to be able to join the domain that we have configured.

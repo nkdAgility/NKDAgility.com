@@ -1,27 +1,30 @@
 ---
 title: Does your company culture resemble Survivor?
 description: Explores how individualistic, competitive company cultures hinder collaboration and agility, and highlights the benefits of fostering teamwork in software development.
-ResourceId: 1VbvpOX1Hg0
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9716
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-07-10
 weight: 430
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: does-your-company-culture-resemble-survivor
 aliases:
 - /resources/1VbvpOX1Hg0
+ResourceId: 1VbvpOX1Hg0
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9716
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/does-your-company-culture-resemble-survivor
 - /does-your-company-culture-resemble-survivor
 - /does-your-company-culture-resemble-survivor-
 - /blog/does-your-company-culture-resemble-survivor-
 - /resources/blog/does-your-company-culture-resemble-survivor
+concepts: []
+categories:
+- Leadership
 tags:
 - Team Collaboration
 - Sociotechnical Systems
@@ -34,12 +37,9 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Software Development
-categories:
-- Leadership
 preview: nakedalm-experts-professional-scrum-1-1.png
 Watermarks:
   description: 2025-05-13T15:05:48Z
-concepts: []
 
 ---
 Does your company culture resemble Survivor? Do you have a culture in your organisation where individuals that help others are considered slackers for not getting their own assignments complete?

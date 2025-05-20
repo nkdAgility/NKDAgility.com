@@ -1,11 +1,20 @@
 ---
+title: 'Hiring an Agile Coach: What You Need to Know'
 description: Learn what to look for when hiring an Agile coach, including key qualities like teaching, mentoring, and inspiring teams to adopt Agile practices and drive transformation.
 date: 2023-11-22T11:00:46Z
-ResourceId: sxXzOFn7iZI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 565
+slug: hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
+aliases:
+- /resources/sxXzOFn7iZI
+- /resources/videos/hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
+- /resources/videos/hiring-an-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
+aliasesArchive:
+- /resources/videos/hiring-an-agile-coach-what-you-need-to-know
+- /resources/hiring-an-agile-coach-what-you-need-to-know
+- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
+- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
+- hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
 concepts: []
 categories:
 - Technical Leadership
@@ -18,29 +27,20 @@ tags:
 - Mentoring
 - Organisational Agility
 - Competence
+ResourceId: sxXzOFn7iZI
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:38Z
-title: 'Hiring an Agile Coach: What You Need to Know'
 videoId: sxXzOFn7iZI
 source: internal
 url: /resources/videos/:slug
-slug: hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
 layout: video
-aliases:
-- /resources/sxXzOFn7iZI
-- /resources/videos/hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
-- /resources/videos/hiring-an-agile-coach-what-you-need-to-know
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
-aliasesArchive:
-- /resources/videos/hiring-an-agile-coach-what-you-need-to-know
-- /resources/hiring-an-agile-coach-what-you-need-to-know
-- /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-3
-- /resources/5-things-to-consider-before-hiring-an-agilecoach-part-3
-- hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
 preview: https://i.ytimg.com/vi/sxXzOFn7iZI/maxresdefault.jpg
 duration: 40
 resourceTypes:

@@ -1,33 +1,9 @@
 ---
+title: 'Engaging Your Team: The Secret to Successful Organisational Change'
 description: Learn how involving, empowering, and communicating with your team drives successful organisational change by fostering shared goals, trust, and a culture of engagement.
 date: 2023-12-04T11:00:23Z
-ResourceId: OMlLiLkCmMY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Team Motivation
-- Organisational Change
-- Change Management
-- Employee Engagement
-- Agile Leadership
-- Organisational Culture
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:18Z
-title: 'Engaging Your Team: The Secret to Successful Organisational Change'
-videoId: OMlLiLkCmMY
-source: youtube
-url: /resources/videos/:slug
 slug: engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
-layout: video
 aliases:
 - /resources/OMlLiLkCmMY
 - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
@@ -38,6 +14,30 @@ aliasesArchive:
 - /resources/videos/-shorts-7-virtues-of-agile-chastity
 - /resources/-shorts-7-virtues-of-agile-chastity
 - engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Team Motivation
+- Organisational Change
+- Change Management
+- Employee Engagement
+- Agile Leadership
+- Organisational Culture
+ResourceId: OMlLiLkCmMY
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:18Z
+videoId: OMlLiLkCmMY
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 resourceTypes:

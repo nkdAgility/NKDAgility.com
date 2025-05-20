@@ -1,11 +1,18 @@
 ---
+title: How is agile product development different to waterfall project management?
 description: Compares agile product development and waterfall project management, highlighting differences in decision-making, delivery, customer collaboration, and adaptability.
 date: 2023-01-11T07:00:02Z
-ResourceId: BE6E5tV8130
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
+slug: how-is-agile-product-development-different-to-waterfall-project-management
+aliases:
+- /resources/BE6E5tV8130
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
+aliasesArchive:
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
+- /resources/how-is-agile-product-development-different-to-waterfall-project-management
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
+- /resources/how-is-agile-product-development-different-to-waterfall-project-management-
+- how-is-agile-product-development-different-to-waterfall-project-management
 concepts:
 - Principle
 categories:
@@ -17,27 +24,20 @@ tags:
 - Agile Values and Principles
 - Agile Transformation
 - Pragmatic Thinking
+ResourceId: BE6E5tV8130
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:33Z
-title: How is agile product development different to waterfall project management?
 videoId: BE6E5tV8130
 source: internal
 url: /resources/videos/:slug
-slug: how-is-agile-product-development-different-to-waterfall-project-management
 layout: video
-aliases:
-- /resources/BE6E5tV8130
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
-aliasesArchive:
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management-
-- how-is-agile-product-development-different-to-waterfall-project-management
 preview: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg
 duration: 385
 resourceTypes:

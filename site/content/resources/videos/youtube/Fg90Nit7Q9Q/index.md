@@ -1,36 +1,36 @@
 ---
+title: Can you align DevOps and Software Engineering Teams Through Scrum?
 description: Explores how Scrum can align DevOps and software engineering teams by fostering transparency, feedback, and engineering excellence in Agile software development.
 date: 2023-06-16T14:30:05Z
-ResourceId: Fg90Nit7Q9Q
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 330
+slug: can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
+aliases:
+- /resources/Fg90Nit7Q9Q
+- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
+ResourceId: Fg90Nit7Q9Q
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:33Z
+videoId: Fg90Nit7Q9Q
+source: internal
+url: /resources/videos/:slug
+layout: video
+aliasesArchive:
+- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
+- /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
+- can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
 concepts:
 - Framework
 categories:
 - Product Development
 tags:
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:33Z
-title: Can you align DevOps and Software Engineering Teams Through Scrum?
-videoId: Fg90Nit7Q9Q
-source: internal
-url: /resources/videos/:slug
-slug: can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
-layout: video
-aliases:
-- /resources/Fg90Nit7Q9Q
-- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
-aliasesArchive:
-- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
-- /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
-- can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
 preview: https://i.ytimg.com/vi/Fg90Nit7Q9Q/maxresdefault.jpg
 duration: 36
 resourceTypes:

@@ -1,30 +1,26 @@
 ---
+title: One thing an Agile Coach MUST do to be successful?
 description: Agile Coaches must deeply understand their team's tools, practices, and technologies to effectively guide, challenge, and help teams improve and reach their goals.
 date: 2023-08-31T07:00:17Z
-ResourceId: g1GBes-dVzE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
+aliases:
+- /resources/g1GBes-dVzE
+- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
+ResourceId: g1GBes-dVzE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Uncategorized
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:45Z
-title: One thing an Agile Coach MUST do to be successful?
 videoId: g1GBes-dVzE
 source: internal
 url: /resources/videos/:slug
-slug: one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
 layout: video
-aliases:
-- /resources/g1GBes-dVzE
-- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
 aliasesArchive:
 - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
@@ -32,6 +28,10 @@ aliasesArchive:
 - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
 - /resources/one-thing-an-agile-coach-must-do-to-be-successful-
 - one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/g1GBes-dVzE/maxresdefault.jpg
 duration: 53
 resourceTypes:

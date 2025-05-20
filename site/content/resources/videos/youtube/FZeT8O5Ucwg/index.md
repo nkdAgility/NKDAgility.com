@@ -1,12 +1,31 @@
 ---
+title: 'Unmasking Agile: How to Spot Genuine Practices Amidst the Myths'
 description: Learn how to identify authentic agile practices, spot common myths, and understand cultural barriers that hinder true agility in modern software development teams.
 date: 2020-03-18T13:56:05Z
-ResourceId: FZeT8O5Ucwg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
+aliases:
+- /resources/FZeT8O5Ucwg
+ResourceId: FZeT8O5Ucwg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:16:02Z
+videoId: FZeT8O5Ucwg
+source: youtube
+url: /resources/videos/:slug
+layout: video
+aliasesArchive:
+- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
+- /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+- /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
+- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
+- unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 concepts:
 - Ethos
 categories:
@@ -18,27 +37,6 @@ tags:
 - Agile Philosophy
 - Agile Product Management
 - Agile Values and Principles
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:16:02Z
-title: 'Unmasking Agile: How to Spot Genuine Practices Amidst the Myths'
-videoId: FZeT8O5Ucwg
-source: youtube
-url: /resources/videos/:slug
-slug: unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-layout: video
-aliases:
-- /resources/FZeT8O5Ucwg
-- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
-aliasesArchive:
-- /resources/videos/the-tyranny-of-taylorism-how-to-detect-agile-bs
-- /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
-- /resources/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
-- /resources/videos/unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
-- unmasking-agile-how-to-spot-genuine-practices-amidst-the-myths
 preview: https://i.ytimg.com/vi/FZeT8O5Ucwg/maxresdefault.jpg
 duration: 2106
 resourceTypes:

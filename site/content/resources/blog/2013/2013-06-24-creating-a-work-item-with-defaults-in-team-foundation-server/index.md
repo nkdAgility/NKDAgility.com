@@ -1,31 +1,31 @@
 ---
 title: Creating a Work Item with defaults in Team Foundation Server
 description: Learn how to pre-populate Team Foundation Server work items with default values using template URLs, making it easier for users to create consistent, guided entries.
-ResourceId: v1HLcU8PfsS
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9686
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-06-24
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-a-work-item-with-defaults-in-team-foundation-server
 aliases:
 - /resources/v1HLcU8PfsS
+ResourceId: v1HLcU8PfsS
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9686
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
 - /creating-a-work-item-with-defaults-in-team-foundation-server
 - /resources/blog/creating-a-work-item-with-defaults-in-team-foundation-server
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-13T15:06:10Z
-concepts: []
 
 ---
 In some cases you want to be creating a Work Item with defaults in Team Foundation Server so that you can give access to users but also give them guidance on what to fill out.

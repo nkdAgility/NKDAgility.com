@@ -1,21 +1,21 @@
 ---
 title: 'PowerShell TFS 2013 API #1 - Get TfsCollection and TFS Services'
 description: Learn how to use PowerShell to connect to TFS 2013, import required assemblies, and access core TFS services like Work Item Store, Version Control, and project settings.
-ResourceId: kaEC07NAXT7
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10149
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-10-02
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 aliases:
 - /resources/kaEC07NAXT7
+ResourceId: kaEC07NAXT7
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10149
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
 - /powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
@@ -23,15 +23,15 @@ aliasesArchive:
 - /powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
 - /blog/powershell-tfs-2013-api--1---get-tfscollection-and-tfs-services
 - /resources/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Software Development
 - Install and Configuration
-categories:
-- Uncategorized
 preview: metro-powershell-logo-1-1.png
 Watermarks:
   description: 2025-05-12T14:23:02Z
-concepts: []
 
 ---
 Have you ever wanted to use PowerShell to interact with the TFS 2013 API? Well I have been working through a few scenarios and wanted to get them to you so that I can get some feedback.

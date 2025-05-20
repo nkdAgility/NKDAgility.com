@@ -1,31 +1,9 @@
 ---
+title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership'
 description: Learn how to choose an Agile coach who builds trust with teams and leadership, combining technical expertise, communication skills, and empathy for effective transformation.
 date: 2023-11-20T11:00:30Z
-ResourceId: S1hBTkbZVFM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Agile Transformation
-- Coaching
-- Agile Leadership
-- Organisational Agility
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:43Z
-title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership'
-videoId: S1hBTkbZVFM
-source: internal
-url: /resources/videos/:slug
 slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
-layout: video
 aliases:
 - /resources/S1hBTkbZVFM
 - /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
@@ -37,6 +15,28 @@ aliasesArchive:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-1
 - the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Agile Transformation
+- Coaching
+- Agile Leadership
+- Organisational Agility
+ResourceId: S1hBTkbZVFM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:43Z
+videoId: S1hBTkbZVFM
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
 duration: 43
 resourceTypes:

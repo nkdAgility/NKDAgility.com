@@ -1,18 +1,8 @@
 ---
 title: Configure Test Plans for web access in TFS 2012.2
 description: Explains how to configure Test Plans for web access in TFS 2012.2, focusing on Area Path, team field settings, visibility issues, and workarounds for team-based access.
-ResourceId: eNRpc70Z73R
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9900
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-05-10
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: configure-test-plans-for-web-access-in-tfs-2012-2
 aliases:
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012.2
@@ -22,15 +12,25 @@ aliasesArchive:
 - /configure-test-plans-for-web-access-in-tfs-2012-2
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012-2
 - /resources/blog/configure-test-plans-for-web-access-in-tfs-2012.2
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Install and Configuration
 - Azure DevOps
 - Software Development
-categories:
-- Uncategorized
+ResourceId: eNRpc70Z73R
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9900
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 Watermarks:
   description: 2025-05-13T15:06:28Z
-concepts: []
 
 ---
 Configure Test Plans for web access in TFS 2012.2 is a little tricky and we need to be very specific on how we configure it so that our Team can see the right test Plans.

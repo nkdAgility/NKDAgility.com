@@ -1,11 +1,19 @@
 ---
+title: 'Mastering Sprint Planning: Key Principles for Agile Success'
 description: Learn essential principles for effective Sprint planning in Agile, including understanding the product backlog, setting clear goals, and fostering true team collaboration.
 date: 2023-05-26T14:00:37Z
-ResourceId: uQ786VBz3Jw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: mastering-sprint-planning-key-principles-for-agile-success
+aliases:
+- /resources/uQ786VBz3Jw
+- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
+aliasesArchive:
+- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
+- /resources/what-is-your-1-tip-for-effective-sprint-planning-
+- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
+- mastering-sprint-planning-key-principles-for-agile-success
 concepts:
 - Principle
 categories:
@@ -24,28 +32,20 @@ tags:
 - Pragmatic Thinking
 - Team Collaboration
 - Team Performance
+ResourceId: uQ786VBz3Jw
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:09Z
-title: 'Mastering Sprint Planning: Key Principles for Agile Success'
 videoId: uQ786VBz3Jw
 source: youtube
 url: /resources/videos/:slug
-slug: mastering-sprint-planning-key-principles-for-agile-success
 layout: video
-aliases:
-- /resources/uQ786VBz3Jw
-- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
-aliasesArchive:
-- /resources/videos/mastering-sprint-planning-key-principles-for-agile-success
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
-- /resources/what-is-your-1-tip-for-effective-sprint-planning-
-- /resources/videos/what-is-your-1-tip-for-effective-sprint-planning
-- mastering-sprint-planning-key-principles-for-agile-success
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 resourceTypes:

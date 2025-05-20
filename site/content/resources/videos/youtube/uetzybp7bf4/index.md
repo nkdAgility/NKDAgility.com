@@ -1,30 +1,9 @@
 ---
+title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
 description: Empowering teams with financial insights boosts ownership, informed decision-making, and ROI by aligning daily work with business goals through transparency and team-level P&L.
 date: 2024-12-12T06:30:00Z
-ResourceId: uetzybp7bf4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 505
-concepts: []
-categories:
-- Product Management
-- Leadership
-- Product Development
-tags:
-- Value Delivery
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:56:45Z
-title: 'Empowering Teams with Financial Insights: The Key to Maximising ROI and Fostering Ownership'
-videoId: uetzybp7bf4
-source: youtube
-url: /resources/videos/:slug
 slug: empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
-layout: video
 aliases:
 - /resources/uetzybp7bf4
 - /resources/videos/empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
@@ -34,6 +13,27 @@ aliasesArchive:
 - /resources/videos/building-a-culture-of-continuous-improvement
 - /resources/building-a-culture-of-continuous-improvement
 - empowering-teams-with-financial-insights-the-key-to-maximising-roi-and-fostering-ownership
+concepts: []
+categories:
+- Product Management
+- Leadership
+- Product Development
+tags:
+- Value Delivery
+ResourceId: uetzybp7bf4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:45Z
+videoId: uetzybp7bf4
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i9.ytimg.com/vi/uetzybp7bf4/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDpi1R2yDhrVuUC5OohAvFE7cnHTA
 duration: 379
 resourceTypes:

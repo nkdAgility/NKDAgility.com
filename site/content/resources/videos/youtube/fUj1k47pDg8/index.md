@@ -1,31 +1,9 @@
 ---
+title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
 description: Learn how to identify and challenge assumptions in product development, avoid the feature factory trap, and use discovery, experimentation, and validation to meet real user needs.
 date: 2024-08-13T07:14:40Z
-ResourceId: fUj1k47pDg8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 680
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Customer Focus
-- Product Discovery
-- Product Validation
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:11Z
-title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
-videoId: fUj1k47pDg8
-source: youtube
-url: /resources/videos/:slug
 slug: unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
-layout: video
 aliases:
 - /resources/fUj1k47pDg8
 - /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
@@ -35,6 +13,28 @@ aliasesArchive:
 - /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
 - /resources/ppdv-course-overview-with-dr-joanna-plaskonka
 - unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Customer Focus
+- Product Discovery
+- Product Validation
+ResourceId: fUj1k47pDg8
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:11Z
+videoId: fUj1k47pDg8
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 resourceTypes:

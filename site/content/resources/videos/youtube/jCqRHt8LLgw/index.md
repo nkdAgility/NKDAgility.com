@@ -1,38 +1,36 @@
 ---
+title: 'Rethinking Agile: Why Story Points, Team Sizes, and Emergent Architecture Need a Fresh Perspective'
 description: Explores the limitations of story points, optimal team sizes, and the benefits of emergent architecture for improving agile practices and team performance.
 date: 2020-05-13T05:03:57Z
-ResourceId: jCqRHt8LLgw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
+aliases:
+- /resources/jCqRHt8LLgw
+ResourceId: jCqRHt8LLgw
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Product Development
-tags:
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:44Z
-title: 'Rethinking Agile: Why Story Points, Team Sizes, and Emergent Architecture Need a Fresh Perspective'
 videoId: jCqRHt8LLgw
 source: youtube
 url: /resources/videos/:slug
-slug: rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
 layout: video
-aliases:
-- /resources/jCqRHt8LLgw
-- /resources/videos/rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
-- /resources/videos/12th-may-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/12th-may-2020-office-hours-ask-me-anything
 - /resources/12th-may-2020-office-hours-ask-me-anything
 - /resources/videos/rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
 - rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
+concepts: []
+categories:
+- Product Development
+tags:
+- Software Development
 preview: https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg
 duration: 1756
 resourceTypes:

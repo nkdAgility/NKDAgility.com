@@ -1,34 +1,34 @@
 ---
 title: Traveling for work and the Dell Venue 8
 description: A review of switching to the Dell Venue 8 Pro for frequent business travel, covering device performance, workflow changes, and practical pros and cons for mobile work.
-ResourceId: Y8cHV08YFNc
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10645
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-07-07
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: traveling-work-dell-venue-8
 aliases:
 - /resources/Y8cHV08YFNc
+ResourceId: Y8cHV08YFNc
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10645
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/traveling-work-dell-venue-8
 - /traveling-work-dell-venue-8
 - /traveling-for-work-and-the-dell-venue-8
 - /blog/traveling-for-work-and-the-dell-venue-8
 - /resources/blog/traveling-work-dell-venue-8
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: nakedalm-windows-logo-4-4.png
 Watermarks:
   description: 2025-05-12T14:21:33Z
-concepts: []
 
 ---
 I travel a lot and I have been carting around both a Surface 2 Pro and a Surface 2 on my travels. I have been feeling recently that this was a little silly and I wanted to reduce my load and increase my flexibility. So just last week I purchased a Dell Venue 8.

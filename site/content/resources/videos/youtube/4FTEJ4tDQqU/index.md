@@ -1,32 +1,9 @@
 ---
+title: 'From Developer to Agile Advocate: How My Journey Unveiled the Power of Scrum and DevOps'
 description: A personal account of moving from traditional project management to Agile, highlighting lessons learned with Scrum and DevOps to improve teamwork, processes, and culture.
 date: 2023-03-02T07:00:01Z
-ResourceId: 4FTEJ4tDQqU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 455
-concepts: []
-categories:
-- Product Development
-tags:
-- Software Development
-- Personal
-- Pragmatic Thinking
-- Agile Transformation
-- Agile Philosophy
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:51Z
-title: 'From Developer to Agile Advocate: How My Journey Unveiled the Power of Scrum and DevOps'
-videoId: 4FTEJ4tDQqU
-source: youtube
-url: /resources/videos/:slug
 slug: from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
-layout: video
 aliases:
 - /resources/4FTEJ4tDQqU
 - /resources/videos/from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 - /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer
 - from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
+concepts: []
+categories:
+- Product Development
+tags:
+- Software Development
+- Personal
+- Pragmatic Thinking
+- Agile Transformation
+- Agile Philosophy
+ResourceId: 4FTEJ4tDQqU
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:51Z
+videoId: 4FTEJ4tDQqU
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 resourceTypes:

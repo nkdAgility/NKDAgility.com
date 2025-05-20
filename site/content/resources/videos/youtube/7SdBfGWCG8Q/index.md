@@ -1,32 +1,9 @@
 ---
+title: The Power of Building Relationships Through Immersive Learning in Scrum
 description: Explores how immersive learning in Scrum fosters strong peer relationships, enhancing collaboration, trust, and long-term growth for practitioners beyond the classroom.
 date: 2024-02-06T07:00:03Z
-ResourceId: 7SdBfGWCG8Q
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Team Collaboration
-- Team Performance
-- Scrum Team
-- Coaching
-- Social Technologies
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:58Z
-title: The Power of Building Relationships Through Immersive Learning in Scrum
-videoId: 7SdBfGWCG8Q
-source: internal
-url: /resources/videos/:slug
 slug: the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
-layout: video
 aliases:
 - /resources/7SdBfGWCG8Q
 - /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
@@ -38,6 +15,29 @@ aliasesArchive:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 - the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Team Collaboration
+- Team Performance
+- Scrum Team
+- Coaching
+- Social Technologies
+ResourceId: 7SdBfGWCG8Q
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:58Z
+videoId: 7SdBfGWCG8Q
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/7SdBfGWCG8Q/maxresdefault.jpg
 duration: 38
 resourceTypes:

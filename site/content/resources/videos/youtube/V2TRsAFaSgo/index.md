@@ -1,28 +1,9 @@
 ---
+title: 'Breaking Free from Vendor Lock-In: How to Regain Control and Future-Proof Your Business'
 description: Struggling with vendor lock-in? Discover practical steps to break free from legacy contracts and regain control of your business’s systems of work.
 date: 2025-05-19T06:00:00Z
-ResourceId: V2TRsAFaSgo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 435
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T20:44:16Z
-ResourceContentOrigin: ai
-title: 'Breaking Free from Vendor Lock-In: How to Regain Control and Future-Proof Your Business'
-videoId: V2TRsAFaSgo
-source: youtube
-url: /resources/videos/:slug
 slug: breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
-layout: video
 aliases:
 - /resources/V2TRsAFaSgo
 - /resources/videos/breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
@@ -33,6 +14,25 @@ aliasesArchive:
 - /resources/videos/7-breaking-vendor-lock-in.-how-to-regain-control-over-your-tech-stack
 - /resources/videos/breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
 - breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceId: V2TRsAFaSgo
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T20:44:16Z
+ResourceContentOrigin: ai
+videoId: V2TRsAFaSgo
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i9.ytimg.com/vi/V2TRsAFaSgo/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLB05ovsBHZnXeNh_vVF3uBe0tQCCA
 duration: 110
 resourceTypes:

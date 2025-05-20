@@ -1,20 +1,18 @@
 ---
 title: Avoid the Bug as Task anti-pattern in Azure DevOps
 description: Explains why treating bugs as tasks in Azure DevOps is an anti-pattern, its impact on transparency, quality, and planning, and offers guidance for agile teams to avoid it.
-ResourceId: ppfe8CkVNf0
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10662
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-08-06
 weight: 430
+ResourceId: ppfe8CkVNf0
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10662
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
-aliases:
-- /resources/ppfe8CkVNf0
 aliasesArchive:
 - /blog/avoid-bug-task-anti-pattern-tfs
 - /avoid-bug-task-anti-pattern-tfs
@@ -22,17 +20,19 @@ aliasesArchive:
 - /blog/avoid-the-bug-as-task-anti-pattern-in-azure-devops
 - /blog/avoid-bug-task-anti-pattern-azure-devops/
 - /resources/blog/
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Software Development
 - Azure DevOps
 - Transparency
 - Pragmatic Thinking
-categories:
-- Uncategorized
 preview: NKDAgility-technically-BugAsATask-5-5.jpg
 Watermarks:
   description: 2025-05-12T14:21:23Z
-concepts: []
+aliases:
+- /resources/ppfe8CkVNf0
 
 ---
 For the last few months, I have been working with an enterprise customer that has been steadily adopting Work Item Tracking in TFS. I have learned that you should avoid the Bug as a Task anti-pattern.

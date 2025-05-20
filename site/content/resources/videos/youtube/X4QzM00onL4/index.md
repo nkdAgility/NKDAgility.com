@@ -1,33 +1,9 @@
 ---
+title: 'Taming the Chaos: How to Align Your Agile Team for Success'
 description: Learn how to reduce chaos in Agile teams by improving alignment, setting clear goals, fostering open communication, and using visual tools for better collaboration and efficiency.
 date: 2023-11-03T05:11:45Z
-ResourceId: X4QzM00onL4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
-concepts:
-- Strategy
-categories:
-- Product Development
-tags:
-- Common Goals
-- Team Motivation
-- Software Development
-- Agile Strategy
-- Organisational Agility
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:08Z
-title: 'Taming the Chaos: How to Align Your Agile Team for Success'
-videoId: X4QzM00onL4
-source: youtube
-url: /resources/videos/:slug
 slug: taming-the-chaos-how-to-align-your-agile-team-for-success
-layout: video
 aliases:
 - /resources/X4QzM00onL4
 - /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
@@ -38,6 +14,30 @@ aliasesArchive:
 - /resources/chaos-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter
 - taming-the-chaos-how-to-align-your-agile-team-for-success
+concepts:
+- Strategy
+categories:
+- Product Development
+tags:
+- Common Goals
+- Team Motivation
+- Software Development
+- Agile Strategy
+- Organisational Agility
+ResourceId: X4QzM00onL4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:08Z
+videoId: X4QzM00onL4
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
 duration: 66
 resourceTypes:

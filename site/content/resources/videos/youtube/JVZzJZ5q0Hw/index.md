@@ -1,34 +1,9 @@
 ---
+title: What is a sprint goal?
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
 date: 2023-05-25T14:00:20Z
-ResourceId: JVZzJZ5q0Hw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts:
-- Framework
-categories:
-- Scrum
-- Product Development
-tags:
-- Agile Product Management
-- Professional Scrum
-- Software Development
-- Agile Frameworks
-- Product Delivery
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:11Z
-title: What is a sprint goal?
-videoId: JVZzJZ5q0Hw
-source: internal
-url: /resources/videos/:slug
 slug: what-is-a-sprint-goal
-layout: video
 aliases:
 - /resources/JVZzJZ5q0Hw
 - /resources/videos/what-is-a-sprint-goal
@@ -41,6 +16,31 @@ aliasesArchive:
 - /resources/what-is-the-most-common-mistake-in-sprint-planning-
 - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
 - what-is-a-sprint-goal
+concepts:
+- Framework
+categories:
+- Scrum
+- Product Development
+tags:
+- Agile Product Management
+- Professional Scrum
+- Software Development
+- Agile Frameworks
+- Product Delivery
+ResourceId: JVZzJZ5q0Hw
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:11Z
+videoId: JVZzJZ5q0Hw
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
 duration: 505
 resourceTypes:

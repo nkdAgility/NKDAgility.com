@@ -1,11 +1,20 @@
 ---
+title: How Do You Know the Value Currently Delivered in Your Organization?
 description: Learn how Evidence-Based Management helps organisations measure delivered value using key metrics like customer satisfaction, employee engagement, and product usage data.
 date: 2024-01-23T11:00:05Z
-ResourceId: 5qtS7DYGi5Q
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+aliases:
+- /resources/5qtS7DYGi5Q
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+aliasesArchive:
+- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+- how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
 concepts:
 - Principle
 categories:
@@ -24,29 +33,20 @@ tags:
 - Metrics and Learning
 - Customer Satisfaction
 - Value Delivery
+ResourceId: 5qtS7DYGi5Q
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:19Z
-title: How Do You Know the Value Currently Delivered in Your Organization?
 videoId: 5qtS7DYGi5Q
 source: internal
 url: /resources/videos/:slug
-slug: how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
 layout: video
-aliases:
-- /resources/5qtS7DYGi5Q
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-aliasesArchive:
-- /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
-- how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
 preview: https://i.ytimg.com/vi/5qtS7DYGi5Q/maxresdefault.jpg
 duration: 37
 resourceTypes:

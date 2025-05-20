@@ -1,11 +1,19 @@
 ---
+title: 'Evidence-Based Management: The Four Key Value Areas in Scrum'
 description: Explains Scrum’s four key value areas—current value, unrealised value, ability to innovate, and time to market—for data-driven product and organisational improvement.
 date: 2024-09-13T07:00:34Z
-ResourceId: sT44RQgin5A
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 315
+slug: evidence-based-management-the-four-key-value-areas-in-scrum
+aliases:
+- /resources/sT44RQgin5A
+- /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
+- /resources/videos/the-four-key-value-areas-of-ebm
+aliasesArchive:
+- /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
+- /resources/evidence-based-management-the-four-key-value-areas-in-scrum
+- /resources/videos/the-four-key-value-areas-of-ebm
+- /resources/the-four-key-value-areas-of-ebm
+- evidence-based-management-the-four-key-value-areas-in-scrum
 concepts:
 - Strategy
 categories:
@@ -28,28 +36,20 @@ tags:
 - Current Value
 - Time to Market
 - Unrealised Value
+ResourceId: sT44RQgin5A
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:58:29Z
-title: 'Evidence-Based Management: The Four Key Value Areas in Scrum'
 videoId: sT44RQgin5A
 source: internal
 url: /resources/videos/:slug
-slug: evidence-based-management-the-four-key-value-areas-in-scrum
 layout: video
-aliases:
-- /resources/sT44RQgin5A
-- /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
-- /resources/videos/the-four-key-value-areas-of-ebm
-aliasesArchive:
-- /resources/videos/evidence-based-management-the-four-key-value-areas-in-scrum
-- /resources/evidence-based-management-the-four-key-value-areas-in-scrum
-- /resources/videos/the-four-key-value-areas-of-ebm
-- /resources/the-four-key-value-areas-of-ebm
-- evidence-based-management-the-four-key-value-areas-in-scrum
 preview: https://i.ytimg.com/vi/sT44RQgin5A/maxresdefault.jpg
 duration: 1652
 resourceTypes:

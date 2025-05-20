@@ -1,18 +1,8 @@
 ---
 title: Managing your Azure VM's with your Phone
 description: Control and monitor your Azure virtual machines and cloud services from your phone. Start, stop, group, and track VMs easily to save time and manage resources on the go.
-ResourceId: N-rk9OlMyUm
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11152
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2015-01-28
 weight: 940
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: managing-azure-vms-phone
 aliases:
 - /resources/blog/managing-your-azure-vm-s-with-your-phone
@@ -24,13 +14,23 @@ aliasesArchive:
 - /blog/managing-your-azure-vm's-with-your-phone
 - /resources/blog/managing-azure-vms-phone
 - /resources/blog/managing-your-azure-vm-s-with-your-phone
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
+ResourceId: N-rk9OlMyUm
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11152
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: nakedalm-windows-logo-7-7.png
 Watermarks:
   description: 2025-05-12T14:20:07Z
-concepts: []
 
 ---
 I have been doing quite a bit of [ALM Training](http://nkdagility.com/training/) recently and have been trying to figure out how best to manage my training VM's.

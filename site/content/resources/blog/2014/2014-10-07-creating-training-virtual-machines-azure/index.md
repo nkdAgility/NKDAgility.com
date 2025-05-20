@@ -1,36 +1,36 @@
 ---
 title: Creating training virtual machines in Azure
 description: Step-by-step guide to uploading, configuring, and deploying multiple training virtual machines in Azure using PowerShell, including troubleshooting common setup issues.
-ResourceId: 93Qe5n6ux9U
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10771
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-10-07
 weight: 875
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: creating-training-virtual-machines-azure
 aliases:
 - /resources/93Qe5n6ux9U
+ResourceId: 93Qe5n6ux9U
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10771
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/creating-training-virtual-machines-azure
 - /creating-training-virtual-machines-azure
 - /creating-training-virtual-machines-in-azure
 - /blog/creating-training-virtual-machines-in-azure
 - /resources/blog/creating-training-virtual-machines-azure
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Install and Configuration
 - System Configuration
-categories:
-- Uncategorized
 preview: nakedalm-windows-logo-16-16.png
 Watermarks:
   description: 2025-05-12T14:21:08Z
-concepts: []
 
 ---
 I am teaching the [Managing Projects with Microsoft Visual Studio Team Foundation Server 2013](http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/) class next week in Cheltenham and for that I need 16 VM's based on the [Visual Studio 2013 Update 3 ALM Virtual Machine](http://aka.ms/vs13almvm). To make life easier I will be creating training virtual machines in Azure.

@@ -1,41 +1,39 @@
 ---
+title: 'Streamline Your Release Management Setup: A Step-by-Step Guide to Simplifying Server, Client, and Agent Installation'
 description: Learn how to quickly install and configure release management server, client, and deployment agent, including TFS integration and permission setup, using simple default settings.
 date: 2014-01-21T16:36:55Z
-ResourceId: NG9Y1_qQjvg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
+aliases:
+- /resources/NG9Y1_qQjvg
+ResourceId: NG9Y1_qQjvg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-tags:
-- Install and Configuration
-- Release Management
-- System Configuration
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-12T14:22:24Z
-concepts: []
-title: 'Streamline Your Release Management Setup: A Step-by-Step Guide to Simplifying Server, Client, and Agent Installation'
 videoId: NG9Y1_qQjvg
 source: youtube
 url: /resources/videos/:slug
-slug: streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
 layout: video
-aliases:
-- /resources/NG9Y1_qQjvg
-- /resources/videos/streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
-- /resources/videos/install-tfs-2013-release-management
 aliasesArchive:
 - /resources/videos/install-tfs-release-management
 - /resources/videos/install-tfs-2013-release-management
 - /resources/install-tfs-2013-release-management
 - /resources/videos/streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
 - streamline-your-release-management-setup-a-step-by-step-guide-to-simplifying-server-client-and-agent-installation
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Install and Configuration
+- Release Management
+- System Configuration
+- Software Development
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
 resourceTypes:

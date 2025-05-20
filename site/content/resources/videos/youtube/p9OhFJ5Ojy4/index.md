@@ -1,33 +1,9 @@
 ---
+title: 'Embracing Change: Why Agile Evolution is the Key to Thriving in a Rapidly Shifting World'
 description: Explores why continuous organisational evolution, not fixed transformations, is essential for adapting to rapid change, fostering agility, and enabling sustainable growth.
 date: 2020-07-22T10:08:06Z
-ResourceId: p9OhFJ5Ojy4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags:
-- Organisational Agility
-- Organisational Change
-- Pragmatic Thinking
-- Business Agility
-- Change Management
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:26Z
-title: 'Embracing Change: Why Agile Evolution is the Key to Thriving in a Rapidly Shifting World'
-videoId: p9OhFJ5Ojy4
-source: youtube
-url: /resources/videos/:slug
 slug: embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-layout: video
 aliases:
 - /resources/p9OhFJ5Ojy4
 - /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
@@ -38,6 +14,30 @@ aliasesArchive:
 - /resources/agile-in-nigeria-2020-the-inevitability-of-change
 - /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
 - embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags:
+- Organisational Agility
+- Organisational Change
+- Pragmatic Thinking
+- Business Agility
+- Change Management
+ResourceId: p9OhFJ5Ojy4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:26Z
+videoId: p9OhFJ5Ojy4
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
 resourceTypes:

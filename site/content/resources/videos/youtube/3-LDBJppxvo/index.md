@@ -1,11 +1,21 @@
 ---
+title: The Importance of Delivering Working Software Every Iteration
 description: Explains why delivering working software to users every iteration is vital in Agile, highlighting feedback, value, and practical steps for continuous improvement and success.
 date: 2024-06-26T06:45:00Z
-ResourceId: 3-LDBJppxvo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 355
+slug: the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
+aliases:
+- /resources/3-LDBJppxvo
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+aliasesArchive:
+- /resources/videos/the-importance-of-delivering-working-software-every-iteration
+- /resources/the-importance-of-delivering-working-software-every-iteration
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
+- the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 concepts:
 - Principle
 categories:
@@ -26,30 +36,20 @@ tags:
 - Pragmatic Thinking
 - Increment
 - Agile Frameworks
+ResourceId: 3-LDBJppxvo
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:47Z
-title: The Importance of Delivering Working Software Every Iteration
 videoId: 3-LDBJppxvo
 source: internal
 url: /resources/videos/:slug
-slug: the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 layout: video
-aliases:
-- /resources/3-LDBJppxvo
-- /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
-- /resources/videos/the-importance-of-delivering-working-software-every-iteration
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
-aliasesArchive:
-- /resources/videos/the-importance-of-delivering-working-software-every-iteration
-- /resources/the-importance-of-delivering-working-software-every-iteration
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-1
-- the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
 preview: https://i.ytimg.com/vi/3-LDBJppxvo/maxresdefault.jpg
 duration: 56
 resourceTypes:

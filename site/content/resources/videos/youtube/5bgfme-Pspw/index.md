@@ -1,35 +1,35 @@
 ---
+title: Momentum
 description: Explains how momentum—team movement with clear direction—drives success in Agile product delivery, fostering collaboration, progress, and high performance.
 date: 2023-05-16T07:00:02Z
-ResourceId: 5bgfme-Pspw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: momentum-5bgfme-Pspw
+aliases:
+- /resources/5bgfme-Pspw
+- /resources/videos/momentum-5bgfme-Pspw
+ResourceId: 5bgfme-Pspw
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Uncategorized
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:27Z
-title: Momentum
 videoId: 5bgfme-Pspw
 source: internal
 url: /resources/videos/:slug
-slug: momentum-5bgfme-Pspw
 layout: video
-aliases:
-- /resources/5bgfme-Pspw
-- /resources/videos/momentum-5bgfme-Pspw
 aliasesArchive:
 - /resources/videos/momentum
 - /resources/momentum-2
 - /resources/momentum
 - momentum-5bgfme-Pspw
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/5bgfme-Pspw/maxresdefault.jpg
 duration: 59
 resourceTypes:

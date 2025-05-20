@@ -1,18 +1,8 @@
 ---
 title: Upcomming Scrum at Scale Workshop from Scrum.org
 description: Learn how to scale Scrum across your organisation, drive cultural change, and measure agile maturity with evidence-based practices in this hands-on workshop from Scrum.org.
-ResourceId: eSPePG8uDaZ
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10824
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-10-22
 weight: 750
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: announcing-scrum-at-scale-workshop-scrum-org
 aliases:
 - /resources/blog/upcomming-scrum-at-scale-workshop-from-scrum.org
@@ -24,16 +14,26 @@ aliasesArchive:
 - /blog/upcomming-scrum-at-scale-workshop-from-scrum-org
 - /resources/blog/announcing-scrum-at-scale-workshop-scrum-org
 - /resources/blog/upcomming-scrum-at-scale-workshop-from-scrum.org
+concepts: []
+categories:
+- Scrum
 tags:
 - Agile Frameworks
 - Agile Transformation
 - Software Development
-categories:
-- Scrum
+ResourceId: eSPePG8uDaZ
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10824
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: nakedalm-experts-professional-scrum-2-2.png
 Watermarks:
   description: 2025-05-12T14:20:55Z
-concepts: []
 
 ---
 If you are scaling agility in the enterprise through scrum then you will understand when I say that this can be a very difficult problem. And it's mostly about people and about culture and the [Scrum at Scale Workshop](http://nkdagility.com/training/courses/scrum-at-scale-workshop/) can help you.

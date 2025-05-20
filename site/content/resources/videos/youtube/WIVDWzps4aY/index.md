@@ -1,29 +1,9 @@
 ---
+title: 'Mastering Product Ownership: Unlocking the Secrets to Effective Product Management in Agile Teams'
 description: Explores the vital role of product ownership in agile teams, highlighting key skills, challenges, and strategies for effective product management and team success.
 date: 2023-09-05T07:00:12Z
-ResourceId: WIVDWzps4aY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Agile Product Management
-- Product Owner
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:41Z
-title: 'Mastering Product Ownership: Unlocking the Secrets to Effective Product Management in Agile Teams'
-videoId: WIVDWzps4aY
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
-layout: video
 aliases:
 - /resources/WIVDWzps4aY
 - /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
@@ -35,6 +15,26 @@ aliasesArchive:
 - /resources/favourite-scrum-course-to-teach-and-why-
 - /resources/videos/favourite-scrum-course-to-teach-and-why
 - mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
+concepts: []
+categories:
+- Product Development
+tags:
+- Agile Product Management
+- Product Owner
+ResourceId: WIVDWzps4aY
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:41Z
+videoId: WIVDWzps4aY
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
 resourceTypes:

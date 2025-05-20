@@ -1,28 +1,9 @@
 ---
+title: 'Seamless Migration to Azure DevOps: Unlocking Enhanced Collaboration and Productivity'
 description: Learn how to migrate projects to Azure DevOps using self-service or managed tools, ensuring accurate data transfer, improved collaboration, and streamlined development workflows.
 date: 2024-09-03T09:57:36Z
-ResourceId: 2Sal3OneFfo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Tool
-categories:
-- DevOps
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:58:37Z
-title: 'Seamless Migration to Azure DevOps: Unlocking Enhanced Collaboration and Productivity'
-videoId: 2Sal3OneFfo
-source: youtube
-url: /resources/videos/:slug
 slug: seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
-layout: video
 aliases:
 - /resources/2Sal3OneFfo
 - /resources/videos/seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
@@ -33,6 +14,25 @@ aliasesArchive:
 - /resources/videos/azure-devops-migration-services-part-1
 - /resources/azure-devops-migration-services-part-1
 - seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity-2Sal3OneFfo
+concepts:
+- Tool
+categories:
+- DevOps
+tags: []
+ResourceId: 2Sal3OneFfo
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:58:37Z
+videoId: 2Sal3OneFfo
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/2Sal3OneFfo/maxresdefault.jpg
 duration: 59
 resourceTypes:

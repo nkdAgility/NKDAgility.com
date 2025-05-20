@@ -1,27 +1,9 @@
 ---
+title: 'The Antichrist of Agile: How Fake Agilists Are Undermining True Innovation'
 description: Explores how unqualified Agile practitioners undermine genuine innovation, erode trust, and hinder software teams, stressing the need for real experience over certifications.
 date: 2023-10-30T07:00:13Z
-ResourceId: XZ1Swam_Cx0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:15Z
-title: 'The Antichrist of Agile: How Fake Agilists Are Undermining True Innovation'
-videoId: XZ1Swam_Cx0
-source: youtube
-url: /resources/videos/:slug
 slug: the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
-layout: video
 aliases:
 - /resources/XZ1Swam_Cx0
 - /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
@@ -33,6 +15,24 @@ aliasesArchive:
 - /resources/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/antichrist-7-harbingers-agile-apocalypse-but-shorter
 - the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: XZ1Swam_Cx0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:15Z
+videoId: XZ1Swam_Cx0
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 resourceTypes:

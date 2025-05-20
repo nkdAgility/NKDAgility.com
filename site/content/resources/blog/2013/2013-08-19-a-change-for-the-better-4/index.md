@@ -1,21 +1,21 @@
 ---
 title: 'A change for the better #4 - Homecoming'
 description: Details a move from the USA back to Scotland for family and education reasons, continuing ALM consulting, and plans to offer agile coaching and training in Europe.
-ResourceId: yryUrqeINBG
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9951
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-08-19
 weight: 590
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: a-change-for-the-better-4
 aliases:
 - /resources/yryUrqeINBG
+ResourceId: yryUrqeINBG
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9951
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/a-change-for-the-better-4
 - /a-change-for-the-better-4
@@ -23,13 +23,13 @@ aliasesArchive:
 - /a-change-for-the-better--4---homecoming
 - /blog/a-change-for-the-better--4---homecoming
 - /resources/blog/a-change-for-the-better-4
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: nakedalm-logo-128-link-4-4.png
 Watermarks:
   description: 2025-05-12T14:23:23Z
-concepts: []
 
 ---
 Yet another change for the better as I move in a few months back to Scotland to join my family. My flights are booked.

@@ -1,11 +1,18 @@
 ---
+title: 'Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency'
 description: Explains how managing technical debt and distinguishing it from poor quality can boost product efficiency, reduce costs, and support sustainable software development.
 date: 2024-12-19T06:00:00Z
-ResourceId: npnQtdLEwQY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 205
+slug: navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+aliases:
+- /resources/npnQtdLEwQY
+- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+- /resources/videos/managing-technical-debt-to-minimize-costs
+aliasesArchive:
+- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+- /resources/videos/managing-technical-debt-to-minimize-costs
+- /resources/managing-technical-debt-to-minimize-costs
+- navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 concepts: []
 categories:
 - Engineering Excellence
@@ -16,27 +23,20 @@ tags:
 - Software Development
 - Technical Mastery
 - Engineering Practices
+ResourceId: npnQtdLEwQY
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:38Z
-title: 'Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency'
 videoId: npnQtdLEwQY
 source: youtube
 url: /resources/videos/:slug
-slug: navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 layout: video
-aliases:
-- /resources/npnQtdLEwQY
-- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
-- /resources/videos/managing-technical-debt-to-minimize-costs
-aliasesArchive:
-- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
-- /resources/videos/managing-technical-debt-to-minimize-costs
-- /resources/managing-technical-debt-to-minimize-costs
-- navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
 preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
 duration: 668
 resourceTypes:

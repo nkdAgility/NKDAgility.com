@@ -1,34 +1,34 @@
 ---
 title: Blogging from 2500 meters
 description: A personal account of blogging from the French Alps, discussing challenges of writing and publishing posts using OneNote, Word, and limited devices while travelling.
-ResourceId: uxd-czfPeHg
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10509
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-04-17
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: blogging-2500-meters
 aliases:
 - /resources/uxd-czfPeHg
+ResourceId: uxd-czfPeHg
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10509
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/blogging-2500-meters
 - /blogging-2500-meters
 - /blogging-from-2500-meters
 - /blog/blogging-from-2500-meters
 - /resources/blog/blogging-2500-meters
+concepts: []
 categories:
 - Uncategorized
-preview: nakedalm-logo-260-7-7.png
 tags: []
+preview: nakedalm-logo-260-7-7.png
 Watermarks:
   description: 2025-05-12T14:21:56Z
-concepts: []
 
 ---
 I am currently 2k meters up the side of a mountain in the French Alps and while skiing is fun it takes its toll on my knees that are already a bit dodgy. Thus I have been Skiing in the mornings and sunning myself in the afternoons. It is about 25 degrees Celsius here during the day and tad sunny.

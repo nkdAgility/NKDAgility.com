@@ -1,29 +1,9 @@
 ---
+title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundations Class and PSM I Assessment'
 description: Learn what to expect from the Professional Scrum Foundations class, key Scrum concepts, hands-on learning, and tips to prepare for the PSM I assessment.
 date: 2020-05-28T05:34:33Z
-ResourceId: pP8AnHBZEXc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:42Z
-title: 'Unlocking Agile Success: Your Guide to the Professional Scrum Foundations Class and PSM I Assessment'
-videoId: pP8AnHBZEXc
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
-layout: video
 aliases:
 - /resources/pP8AnHBZEXc
 - /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
@@ -34,6 +14,26 @@ aliasesArchive:
 - /resources/27th-may-2020-office-hours-ask-me-anything
 - /resources/videos/unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
 - unlocking-agile-success-your-guide-to-the-professional-scrum-foundations-class-and-psm-i-assessment
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+ResourceId: pP8AnHBZEXc
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:42Z
+videoId: pP8AnHBZEXc
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/pP8AnHBZEXc/maxresdefault.jpg
 duration: 1906
 resourceTypes:

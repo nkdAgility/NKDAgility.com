@@ -1,11 +1,19 @@
 ---
+title: What would you advise a scrum team to do in their first 4 weeks?
 description: Guidance for new scrum teams on establishing effective practices, learning from experience, experimenting, and improving during their first four weeks with scrum.
 date: 2023-02-16T07:00:01Z
-ResourceId: 2I3S32Sk8-c
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
+slug: what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
+aliases:
+- /resources/2I3S32Sk8-c
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
+aliasesArchive:
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-weeks
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
+- /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
+- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
+- /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
+- what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 concepts: []
 categories:
 - Scrum
@@ -19,28 +27,20 @@ tags:
 - Scrum Team
 - Scrum Master
 - Agile Frameworks
+ResourceId: 2I3S32Sk8-c
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:04Z
-title: What would you advise a scrum team to do in their first 4 weeks?
 videoId: 2I3S32Sk8-c
 source: internal
 url: /resources/videos/:slug
-slug: what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 layout: video
-aliases:
-- /resources/2I3S32Sk8-c
-- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
-aliasesArchive:
-- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-weeks
-- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
-- /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
-- /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
-- /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
-- what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 preview: https://i.ytimg.com/vi/2I3S32Sk8-c/maxresdefault.jpg
 duration: 182
 resourceTypes:

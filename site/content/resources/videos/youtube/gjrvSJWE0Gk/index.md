@@ -1,11 +1,20 @@
 ---
+title: Overview of 'applying metrics for predictability' Kanban course.
 description: Learn how to use Kanban metrics like cycle time and throughput to improve team predictability, make accurate forecasts, and deliver consistent project outcomes.
 date: 2024-02-20T07:00:27Z
-ResourceId: gjrvSJWE0Gk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: overview-of-applying-metrics-for-predictability-kanban-course
+aliases:
+- /resources/gjrvSJWE0Gk
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course.
+aliasesArchive:
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
+- /resources/overview-of-applying-metrics-for-predictability-kanban-course
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
+- overview-of-applying-metrics-for-predictability-kanban-course-
+- overview-of-applying-metrics-for-predictability-kanban-course
+- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course.
 concepts:
 - Method
 categories:
@@ -15,28 +24,20 @@ tags:
 - Operational Practices
 - Forecasting
 - Software Development
+ResourceId: gjrvSJWE0Gk
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:05:41Z
-title: Overview of 'applying metrics for predictability' Kanban course.
 videoId: gjrvSJWE0Gk
 source: internal
 url: /resources/videos/:slug
-slug: overview-of-applying-metrics-for-predictability-kanban-course
 layout: video
-aliases:
-- /resources/gjrvSJWE0Gk
-- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
-aliasesArchive:
-- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course-
-- /resources/overview-of-applying-metrics-for-predictability-kanban-course
-- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
-- overview-of-applying-metrics-for-predictability-kanban-course-
-- overview-of-applying-metrics-for-predictability-kanban-course
-- /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course.
 preview: https://i.ytimg.com/vi/gjrvSJWE0Gk/maxresdefault.jpg
 duration: 124
 resourceTypes:

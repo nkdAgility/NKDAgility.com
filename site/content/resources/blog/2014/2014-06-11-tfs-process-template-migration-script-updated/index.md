@@ -1,36 +1,36 @@
 ---
 title: TFS Process Template migration script updated
 description: Provides a step-by-step PowerShell script for migrating and updating TFS process templates, including customisations, work item types, categories, and configurations.
-ResourceId: __k7mlKoTxt
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10558
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-06-11
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: tfs-process-template-migration-script-updated
 aliases:
 - /resources/__k7mlKoTxt
+ResourceId: __k7mlKoTxt
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10558
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/tfs-process-template-migration-script-updated
 - /tfs-process-template-migration-script-updated
 - /resources/blog/tfs-process-template-migration-script-updated
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Azure DevOps
 - Software Development
 - Install and Configuration
 - System Configuration
-categories:
-- Uncategorized
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 Watermarks:
   description: 2025-05-12T14:21:42Z
-concepts: []
 
 ---
 Did you know that you can quite easily to do a TFS process template migration? Did you notice I used the "quite" in there. Well if you think of the Process Template as the blueprints then the Team Project that you create is the concrete instance of that blueprint.

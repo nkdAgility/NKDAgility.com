@@ -1,27 +1,9 @@
 ---
+title: 'Unlocking Potential: How Immersive Learning Transforms Careers and Organisations'
 description: Explores how immersive learning boosts practical skills, career growth, and organisational improvement through real-world application, coaching, and continuous development.
 date: 2023-07-13T12:16:15Z
-ResourceId: NKQr8oGO8lg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:39Z
-title: 'Unlocking Potential: How Immersive Learning Transforms Careers and Organisations'
-videoId: NKQr8oGO8lg
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
-layout: video
 aliases:
 - /resources/NKQr8oGO8lg
 - /resources/videos/unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
@@ -32,6 +14,24 @@ aliasesArchive:
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates-
 - /resources/videos/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
 - unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: NKQr8oGO8lg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:39Z
+videoId: NKQr8oGO8lg
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/NKQr8oGO8lg/maxresdefault.jpg
 duration: 153
 resourceTypes:

@@ -1,27 +1,32 @@
 ---
 title: There is no "do agile" there is only "be agile"
 description: Explores the difference between adopting agile practices superficially and truly embracing agile values, highlighting the need for deep organisational change and continuous learning.
-ResourceId: QIFsyx_OqLG
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10058
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-09-01
 weight: 400
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: there-is-no-do-agile-there-is-only-be-agile
 aliases:
 - /resources/QIFsyx_OqLG
+ResourceId: QIFsyx_OqLG
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10058
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/there-is-no-do-agile-there-is-only-be-agile
 - /there-is-no-do-agile-there-is-only-be-agile
 - /there-is-no--do-agile--there-is-only--be-agile-
 - /blog/there-is-no--do-agile--there-is-only--be-agile-
 - /resources/blog/there-is-no-do-agile-there-is-only-be-agile
+concepts: []
+categories:
+- Leadership
+- Technical Leadership
+- Scrum
 tags:
 - Agile Philosophy
 - Agile Transformation
@@ -32,14 +37,9 @@ tags:
 - Agile Values and Principles
 - Business Agility
 - Agile Leadership
-categories:
-- Leadership
-- Technical Leadership
-- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 Watermarks:
   description: 2025-05-12T14:23:16Z
-concepts: []
 
 ---
 I commented on [Scrum is hard to adopt and disruptive to your organisation](http://nkdagility.com/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation/) before and I think that for most companies this is just beyond their comprehension. They are fundamentally misunderstanding agile and trying to do agile rather than be agile.

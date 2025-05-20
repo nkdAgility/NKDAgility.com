@@ -1,33 +1,9 @@
 ---
+title: 'The Real Scope of a Product Owner: Beyond the Backlog'
 description: Explores the full responsibilities of a Product Owner in Agile, highlighting strategic decision-making, value maximisation, and the importance of market insight and relationships.
 date: 2023-11-27T06:46:47Z
-ResourceId: 2_CowcUpzAA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Management
-- Product Development
-- Scrum
-tags:
-- Product Owner
-- Agile Product Management
-- Pragmatic Thinking
-- Software Development
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:30Z
-title: 'The Real Scope of a Product Owner: Beyond the Backlog'
-videoId: 2_CowcUpzAA
-source: internal
-url: /resources/videos/:slug
 slug: the-real-scope-of-a-product-owner-beyond-the-backlog
-layout: video
 aliases:
 - /resources/2_CowcUpzAA
 - /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
@@ -38,6 +14,30 @@ aliasesArchive:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
 - /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
 - the-real-scope-of-a-product-owner-beyond-the-backlog
+concepts: []
+categories:
+- Product Management
+- Product Development
+- Scrum
+tags:
+- Product Owner
+- Agile Product Management
+- Pragmatic Thinking
+- Software Development
+ResourceId: 2_CowcUpzAA
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:30Z
+videoId: 2_CowcUpzAA
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/2_CowcUpzAA/maxresdefault.jpg
 duration: 317
 resourceTypes:

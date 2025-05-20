@@ -1,27 +1,31 @@
 ---
 title: Create a Release Management pipeline for Professional Developers
 description: Step-by-step guide to building an automated Release Management pipeline for professional developers, covering build, deployment, environment setup, and parameterisation.
-ResourceId: WYBOx1X0R-3
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10970
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-12-04
 weight: 430
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: create-release-management-pipeline-professional-developers
 aliases:
 - /resources/WYBOx1X0R-3
+ResourceId: WYBOx1X0R-3
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10970
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/create-release-management-pipeline-professional-developers
 - /create-release-management-pipeline-professional-developers
 - /create-a-release-management-pipeline-for-professional-developers
 - /blog/create-a-release-management-pipeline-for-professional-developers
 - /resources/blog/create-release-management-pipeline-professional-developers
+concepts: []
+categories:
+- Engineering Excellence
+- DevOps
 tags:
 - Software Development
 - Azure Pipelines
@@ -38,13 +42,9 @@ tags:
 - Working Software
 - System Configuration
 - Technical Mastery
-categories:
-- Engineering Excellence
-- DevOps
 preview: nakedalm-experts-visual-studio-alm-46-46.png
 Watermarks:
   description: 2025-05-12T14:20:36Z
-concepts: []
 
 ---
 Now that I have [it configured](http://nkdagility.com/create-standard-environment-release-management-azure/) I want to show how to create a Release Management pipeline for Professional Developers and Development Teams.

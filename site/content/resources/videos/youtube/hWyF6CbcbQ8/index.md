@@ -1,27 +1,9 @@
 ---
+title: 'Mastering Data Integrity: The Key to Successful DevOps Migrations'
 description: Learn how to maintain data integrity during DevOps migrations, weighing full versus selective data transfer, managing risks, and ensuring team readiness for Azure DevOps.
 date: 2024-11-04T06:06:49Z
-ResourceId: hWyF6CbcbQ8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- DevOps
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:25Z
-title: 'Mastering Data Integrity: The Key to Successful DevOps Migrations'
-videoId: hWyF6CbcbQ8
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-data-integrity-the-key-to-successful-devops-migrations
-layout: video
 aliases:
 - /resources/hWyF6CbcbQ8
 - /resources/videos/mastering-data-integrity-the-key-to-successful-devops-migrations
@@ -31,6 +13,24 @@ aliasesArchive:
 - /resources/videos/devops-migration-data-integrity-issues
 - /resources/devops-migration-data-integrity-issues
 - mastering-data-integrity-the-key-to-successful-devops-migrations
+concepts: []
+categories:
+- DevOps
+tags: []
+ResourceId: hWyF6CbcbQ8
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:25Z
+videoId: hWyF6CbcbQ8
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/hWyF6CbcbQ8/maxresdefault.jpg
 duration: 124
 resourceTypes:

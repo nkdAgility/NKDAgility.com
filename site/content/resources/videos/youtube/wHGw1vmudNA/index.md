@@ -1,32 +1,9 @@
 ---
+title: 7 harbingers of the Agile apocalypse- War
 description: Explores how unmanaged conflict in agile teams can escalate from healthy debate to destructive division, and offers strategies for resolving disputes and fostering collaboration.
 date: 2023-10-19T13:00:46Z
-ResourceId: wHGw1vmudNA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 610
-concepts: []
-categories:
-- Technical Leadership
-- Product Development
-tags:
-- Agile Philosophy
-- Agile Leadership
-- Organisational Agility
-- Social Technologies
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:37Z
-title: 7 harbingers of the Agile apocalypse- War
-videoId: wHGw1vmudNA
-source: internal
-url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-war
-layout: video
 aliases:
 - /resources/wHGw1vmudNA
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-war
@@ -39,6 +16,29 @@ aliasesArchive:
 - /resources/war!-7-harbingers-agile-apocalypse
 - /resources/videos/war-7-harbingers-agile-apocalypse
 - 7-harbingers-of-the-agile-apocalypse-war
+concepts: []
+categories:
+- Technical Leadership
+- Product Development
+tags:
+- Agile Philosophy
+- Agile Leadership
+- Organisational Agility
+- Social Technologies
+ResourceId: wHGw1vmudNA
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:37Z
+videoId: wHGw1vmudNA
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/wHGw1vmudNA/maxresdefault.jpg
 duration: 158
 resourceTypes:

@@ -1,35 +1,35 @@
 ---
 title: 'Naked ALM: starting with why and getting naked'
 description: Explores the importance of understanding purpose in Application Lifecycle Management, focusing on transparency, customer value, and continuous improvement in software delivery.
-ResourceId: SrQHWVkcvAL
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9499
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-05-02
 weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: naked-alm-starting-with-why-and-getting-naked
 aliases:
 - /resources/SrQHWVkcvAL
+ResourceId: SrQHWVkcvAL
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9499
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/naked-alm-starting-with-why-and-getting-naked
 - /naked-alm-starting-with-why-and-getting-naked
 - /naked-alm--starting-with-why-and-getting-naked
 - /blog/naked-alm--starting-with-why-and-getting-naked
 - /resources/blog/naked-alm-starting-with-why-and-getting-naked
-tags:
-- Working Software
+concepts: []
 categories:
 - Uncategorized
+tags:
+- Working Software
 preview: nakedalm-logo-128-link-1-1.png
 Watermarks:
   description: 2025-05-13T15:06:32Z
-concepts: []
 
 ---
 For a long time now I have been searching for that perfect domain that epitomised the vision, the why, of what I am trying to achieve with my customers and the industry at large. Now I have found it in [http://nkdagility.com](http://nkdagility.com)

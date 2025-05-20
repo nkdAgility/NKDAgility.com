@@ -1,32 +1,9 @@
 ---
+title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Accountability'
 description: Explains how Product Owners can use effective prioritisation to maximise value, manage budgets, and build accountability through clear communication and stakeholder engagement.
 date: 2023-11-27T11:00:56Z
-ResourceId: xLUsgKWzkUM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Product Owner
-- Agile Product Management
-- Product Delivery
-- Value Delivery
-- Product Backlog
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:29Z
-title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Accountability'
-videoId: xLUsgKWzkUM
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
-layout: video
 aliases:
 - /resources/xLUsgKWzkUM
 - /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
 - /resources/why-is-training-such-a-critical-element-in-a-productowner-journey
 - mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
+concepts: []
+categories:
+- Product Development
+tags:
+- Product Owner
+- Agile Product Management
+- Product Delivery
+- Value Delivery
+- Product Backlog
+ResourceId: xLUsgKWzkUM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:29Z
+videoId: xLUsgKWzkUM
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 resourceTypes:

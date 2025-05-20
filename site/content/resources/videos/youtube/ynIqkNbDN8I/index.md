@@ -1,11 +1,18 @@
 ---
+title: 'Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy'
 description: Explains how identifying and validating unrealised value, understanding user needs, and rapid feedback loops can enhance product development and maximise user impact.
 date: 2025-02-11T06:00:40Z
-ResourceId: ynIqkNbDN8I
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
+slug: unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
+aliases:
+- /resources/ynIqkNbDN8I
+- /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
+- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+aliasesArchive:
+- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+- /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
+- /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
+- unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 concepts: []
 categories:
 - Product Management
@@ -26,27 +33,20 @@ tags:
 - Hypothesis Driven Development
 - Market Adaptability
 - Metrics and Learning
+ResourceId: ynIqkNbDN8I
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:39Z
-title: 'Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy'
 videoId: ynIqkNbDN8I
 source: internal
 url: /resources/videos/:slug
-slug: unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 layout: video
-aliases:
-- /resources/ynIqkNbDN8I
-- /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
-- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
-aliasesArchive:
-- /resources/videos/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
-- /resources/unrealized-value-the-key-to-unlocking-future-growth-in-product-development
-- /resources/videos/unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
-- unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 preview: https://i.ytimg.com/vi/ynIqkNbDN8I/maxresdefault.jpg
 duration: 527
 resourceTypes:

@@ -1,39 +1,37 @@
 ---
+title: 'Navigating the Agile Landscape: Understanding the Key Differences Between Product Owners and Project Managers'
 description: Explains the key differences between Product Owners and Project Managers in Scrum, and how agile roles, team structures, and metrics impact organisational effectiveness.
 date: 2020-04-14T19:09:07Z
-ResourceId: ZPRvjlp9i0A
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
+aliases:
+- /resources/ZPRvjlp9i0A
+ResourceId: ZPRvjlp9i0A
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:48Z
-title: 'Navigating the Agile Landscape: Understanding the Key Differences Between Product Owners and Project Managers'
 videoId: ZPRvjlp9i0A
 source: youtube
 url: /resources/videos/:slug
-slug: navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
 layout: video
-aliases:
-- /resources/ZPRvjlp9i0A
-- /resources/videos/navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
-- /resources/videos/14th-april-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/14th-april-2020-office-hours-ask-me-anything
 - /resources/14th-april-2020-office-hours-ask-me-anything
 - /resources/videos/navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
 - navigating-the-agile-landscape-understanding-the-key-differences-between-product-owners-and-project-managers
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
 preview: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg
 duration: 2112
 resourceTypes:

@@ -1,25 +1,30 @@
 ---
 title: Metrics that matter with evidence-based management
 description: Explains how evidence-based management uses reliable metrics and KPIs at team and organisational levels to drive better decisions, value delivery, and process improvement.
-ResourceId: ezNZJBiEwYA
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10367
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-02-25
 weight: 315
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: metrics-that-matter-with-evidence-based-management
 aliases:
 - /resources/ezNZJBiEwYA
+ResourceId: ezNZJBiEwYA
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10367
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/metrics-that-matter-with-evidence-based-management
 - /metrics-that-matter-with-evidence-based-management
 - /resources/blog/metrics-that-matter-with-evidence-based-management
+concepts:
+- Strategy
+categories:
+- Engineering Excellence
+- Product Management
 tags:
 - Decision Making
 - Evidence Based Management
@@ -36,14 +41,9 @@ tags:
 - Product Delivery
 - Working Software
 - Organisational Agility
-categories:
-- Engineering Excellence
-- Product Management
 preview: nakedalm-agility-index-24-24.png
 Watermarks:
   description: 2025-05-12T14:22:13Z
-concepts:
-- Strategy
 
 ---
 I was recently asked to speak at ALM Days in Dusseldorf and more specifically to create a talk on Metrics and KPI’s for Quality. As I have been working a lot recently with evidence-based management. I am pretty sure that my session title translates as “Test management and reporting – KIP’s for better decisions” so I am going to concentrate on reporting and KPI's as the session before mine is on Agile Testing.

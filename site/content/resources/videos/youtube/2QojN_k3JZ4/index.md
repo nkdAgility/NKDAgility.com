@@ -1,30 +1,9 @@
 ---
+title: 'Bridging the Gap: Understanding the True Meaning of "Done" in Agile Teams'
 description: Explores how Agile teams can clarify and align on the true meaning of "done" to ensure quality, reduce rework, and meet leadership expectations through clear definitions.
 date: 2023-12-07T11:00:05Z
-ResourceId: 2QojN_k3JZ4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
-concepts: []
-categories:
-- Product Development
-tags:
-- Definition of Done
-- Software Development
-- Working Software
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:10Z
-title: 'Bridging the Gap: Understanding the True Meaning of "Done" in Agile Teams'
-videoId: 2QojN_k3JZ4
-source: youtube
-url: /resources/videos/:slug
 slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
-layout: video
 aliases:
 - /resources/2QojN_k3JZ4
 - /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
@@ -35,6 +14,27 @@ aliasesArchive:
 - /resources/videos/-shorts-7-virtues-of-agile-diligence
 - /resources/-shorts-7-virtues-of-agile-diligence
 - bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
+concepts: []
+categories:
+- Product Development
+tags:
+- Definition of Done
+- Software Development
+- Working Software
+ResourceId: 2QojN_k3JZ4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:10Z
+videoId: 2QojN_k3JZ4
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 resourceTypes:

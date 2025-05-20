@@ -1,11 +1,20 @@
 ---
+title: Maximizing Transparency and Improvement in Software Engineering with Kanban
 description: Learn how Kanban boosts transparency in software engineering, helping teams visualise workflows, identify bottlenecks, and drive continuous improvement and delivery.
 date: 2024-07-29T06:45:02Z
-ResourceId: Psc6nDD7Q9g
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 450
+slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
+aliases:
+- /resources/Psc6nDD7Q9g
+- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
+- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+aliasesArchive:
+- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
+- "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
+- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+- /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+- maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
 concepts:
 - Practice
 categories:
@@ -22,29 +31,20 @@ tags:
 - Throughput
 - Organisational Agility
 - Transparency
+ResourceId: Psc6nDD7Q9g
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:27Z
-title: Maximizing Transparency and Improvement in Software Engineering with Kanban
 videoId: Psc6nDD7Q9g
 source: internal
 url: /resources/videos/:slug
-slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
 layout: video
-aliases:
-- /resources/Psc6nDD7Q9g
-- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
-- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
-- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
-aliasesArchive:
-- /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban
-- "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
-- /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
-- /resources/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
-- maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
 preview: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg
 duration: 57
 resourceTypes:

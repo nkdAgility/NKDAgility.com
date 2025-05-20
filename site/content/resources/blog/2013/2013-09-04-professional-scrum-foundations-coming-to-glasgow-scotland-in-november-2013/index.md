@@ -1,21 +1,21 @@
 ---
 title: Professional Scrum Foundations coming to Glasgow, Scotland in November 2013
 description: Professional Scrum training courses in Glasgow, Scotland, offer foundational and advanced Scrum skills for teams, Scrum Masters, and developers adopting agile practices.
-ResourceId: SO1wlCfiUu4
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10094
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-09-04
 weight: 630
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 aliases:
 - /resources/SO1wlCfiUu4
+ResourceId: SO1wlCfiUu4
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10094
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 - /professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
@@ -24,14 +24,14 @@ aliasesArchive:
 - /professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 - /blog/professional-scrum-foundations-coming-to-glasgow--scotland-in-november-2013
 - /resources/blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
-tags:
-- Software Development
+concepts: []
 categories:
 - Scrum
+tags:
+- Software Development
 preview: PSF_Badges-2-2.png
 Watermarks:
   description: 2025-05-12T14:23:13Z
-concepts: []
 
 ---
 ![PST-Badge-v2-web-transparent](images/PST-Badge-v2-web-transparent-4-4.png "PST-Badge-v2-web-transparent")For too long has Scotland been ignored in Professional  Scrum Training. I am not sure if there has ever been a Scrum.org course held here as I could not find one and the last time Ken was here was way back in 2004.

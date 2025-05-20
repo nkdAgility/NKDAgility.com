@@ -1,11 +1,19 @@
 ---
+title: 'Temperance in Agile: Why Less is More'
 description: Explores how practising moderation in Agile—by keeping backlogs lean, limiting work in progress, and focusing on value—boosts team efficiency and reduces waste.
 date: 2023-12-05T07:00:10Z
-ResourceId: SMgKAk-qPMM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: temperance-in-agile-why-less-is-more
+aliases:
+- /resources/SMgKAk-qPMM
+- /resources/videos/temperance-in-agile-why-less-is-more
+- /resources/videos/7-virtues-of-agile-temperance
+aliasesArchive:
+- /resources/videos/temperance-in-agile-why-less-is-more
+- /resources/temperance-in-agile-why-less-is-more
+- /resources/videos/7-virtues-of-agile-temperance
+- /resources/7-virtues-of-agile-temperance
+- temperance-in-agile-why-less-is-more
 concepts:
 - Practice
 categories:
@@ -21,28 +29,20 @@ tags:
 - Value Delivery
 - Product Delivery
 - Agile Values and Principles
+ResourceId: SMgKAk-qPMM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:16Z
-title: 'Temperance in Agile: Why Less is More'
 videoId: SMgKAk-qPMM
 source: internal
 url: /resources/videos/:slug
-slug: temperance-in-agile-why-less-is-more
 layout: video
-aliases:
-- /resources/SMgKAk-qPMM
-- /resources/videos/temperance-in-agile-why-less-is-more
-- /resources/videos/7-virtues-of-agile-temperance
-aliasesArchive:
-- /resources/videos/temperance-in-agile-why-less-is-more
-- /resources/temperance-in-agile-why-less-is-more
-- /resources/videos/7-virtues-of-agile-temperance
-- /resources/7-virtues-of-agile-temperance
-- temperance-in-agile-why-less-is-more
 preview: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
 duration: 154
 resourceTypes:

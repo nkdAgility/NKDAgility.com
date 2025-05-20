@@ -1,11 +1,18 @@
 ---
+title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
 description: Explores how automation in testing, deployment, and validation streamlines development, reduces technical debt, and builds confidence for teams and customers alike.
 date: 2025-01-14T06:45:00Z
-ResourceId: VkhIXCsoSJw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 315
+slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+aliases:
+- /resources/VkhIXCsoSJw
+- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
+aliasesArchive:
+- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
+- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
+- /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
+- embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 concepts: []
 categories:
 - Engineering Excellence
@@ -27,27 +34,20 @@ tags:
 - Market Adaptability
 - Flow Efficiency
 - Value Delivery
+ResourceId: VkhIXCsoSJw
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:59Z
-title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
 videoId: VkhIXCsoSJw
 source: youtube
 url: /resources/videos/:slug
-slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 layout: video
-aliases:
-- /resources/VkhIXCsoSJw
-- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
-aliasesArchive:
-- /resources/videos/embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
-- /resources/videos/automate-everything-boosting-engineering-excellence-and-building-confidence
-- /resources/automate-everything-boosting-engineering-excellence-and-building-confidence
-- embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 preview: https://i.ytimg.com/vi/VkhIXCsoSJw/maxresdefault.jpg
 duration: 529
 resourceTypes:

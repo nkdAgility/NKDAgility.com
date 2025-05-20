@@ -1,21 +1,21 @@
 ---
 title: Team Foundation server 2013 Update 2 RC is coming, are you ready?
 description: Learn about the free Microsoft-supported TFS 2013 Update 2 RC upgrade event, key new features like tag management, and how to register before the deadline.
-ResourceId: VV_h0xkmY8J
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10381
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-02-20
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: team-foundation-server-2013-update-2-rc-coming-ready
 aliases:
 - /resources/VV_h0xkmY8J
+ResourceId: VV_h0xkmY8J
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10381
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/team-foundation-server-2013-update-2-rc-coming-ready
 - /team-foundation-server-2013-update-2-rc-coming-ready
@@ -24,13 +24,13 @@ aliasesArchive:
 - /team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /blog/team-foundation-server-2013-update-2-rc-is-coming--are-you-ready-
 - /resources/blog/team-foundation-server-2013-update-2-rc-coming-ready
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: nakedalm-experts-visual-studio-alm-1-1.png
 Watermarks:
   description: 2025-05-12T14:22:15Z
-concepts: []
 
 ---
 While naked ALM Consulting can help you install and configure TFS you may want to take advantage of the upcoming TFS Upgrade Weekend from Microsoft for free.

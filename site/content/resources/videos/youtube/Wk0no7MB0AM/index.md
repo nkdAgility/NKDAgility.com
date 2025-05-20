@@ -1,29 +1,9 @@
 ---
+title: "Navigating Team Conflict: How Scrum Masters Can Prevent 'War' in Agile Projects"
 description: Explores how Scrum Masters can identify, manage, and prevent destructive team conflict in Agile projects, promoting healthy collaboration and effective communication.
 date: 2023-10-30T14:30:10Z
-ResourceId: Wk0no7MB0AM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Scrum Master
-- Scrum Team
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:14Z
-title: "Navigating Team Conflict: How Scrum Masters Can Prevent 'War' in Agile Projects"
-videoId: Wk0no7MB0AM
-source: youtube
-url: /resources/videos/:slug
 slug: navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
-layout: video
 aliases:
 - /resources/Wk0no7MB0AM
 - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
@@ -35,6 +15,26 @@ aliasesArchive:
 - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
 - navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Scrum Master
+- Scrum Team
+ResourceId: Wk0no7MB0AM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:14Z
+videoId: Wk0no7MB0AM
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
 resourceTypes:

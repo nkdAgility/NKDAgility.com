@@ -1,32 +1,9 @@
 ---
+title: Navigating the Complex World of Azure DevOps Data Migration
 description: Learn key steps, common pitfalls, and best practices for migrating data from legacy TFS systems to Azure DevOps, including identity alignment, database cleanup, and backups.
 date: 2024-07-31T12:00:49Z
-ResourceId: 3jYFD-6_kZk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- DevOps
-tags:
-- Azure DevOps
-- Software Development
-- Troubleshooting
-- Pragmatic Thinking
-- Install and Configuration
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:21Z
-title: Navigating the Complex World of Azure DevOps Data Migration
-videoId: 3jYFD-6_kZk
-source: internal
-url: /resources/videos/:slug
 slug: navigating-the-complex-world-of-azure-devops-data-migration
-layout: video
 aliases:
 - /resources/3jYFD-6_kZk
 - /resources/videos/navigating-the-complex-world-of-azure-devops-data-migration
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - /resources/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 - navigating-the-complex-world-of-azure-devops-data-migration
+concepts: []
+categories:
+- DevOps
+tags:
+- Azure DevOps
+- Software Development
+- Troubleshooting
+- Pragmatic Thinking
+- Install and Configuration
+ResourceId: 3jYFD-6_kZk
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:21Z
+videoId: 3jYFD-6_kZk
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
 duration: 1055
 resourceTypes:

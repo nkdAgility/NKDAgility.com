@@ -1,11 +1,19 @@
 ---
+title: 'Stop Hoping for Quality: Why Automated Pipelines Are the Only Way to Deliver with Confidence'
 description: Stop relying on memory for quality. Discover why automated pipelines beat manual checks, and how embedding quality gates ensures trust, speed, and consistency.
 date: 2025-05-28T07:00:00Z
-ResourceId: FLMIoTT0Mu0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 195
+slug: stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence-FLMIoTT0Mu0
+aliases:
+- /resources/FLMIoTT0Mu0
+- /resources/videos/stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence-FLMIoTT0Mu0
+- /resources/videos/stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence
+- /resources/videos/4-automate-the-quality-gate
+aliasesArchive:
+- /resources/videos/4-automate-the-quality-gate
+- 4-automate-the-quality-gate-FLMIoTT0Mu0
+- /resources/videos/stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence
+- stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence-FLMIoTT0Mu0
 concepts:
 - Practice
 categories:
@@ -23,28 +31,20 @@ tags:
 - Automated Testing
 - Value Delivery
 - Technical Excellence
+ResourceId: FLMIoTT0Mu0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T20:21:40Z
 ResourceContentOrigin: ai
-title: 'Stop Hoping for Quality: Why Automated Pipelines Are the Only Way to Deliver with Confidence'
 videoId: FLMIoTT0Mu0
 source: youtube
 url: /resources/videos/:slug
-slug: stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence-FLMIoTT0Mu0
 layout: video
-aliases:
-- /resources/FLMIoTT0Mu0
-- /resources/videos/stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence-FLMIoTT0Mu0
-- /resources/videos/stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence
-- /resources/videos/4-automate-the-quality-gate
-aliasesArchive:
-- /resources/videos/4-automate-the-quality-gate
-- 4-automate-the-quality-gate-FLMIoTT0Mu0
-- /resources/videos/stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence
-- stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence-FLMIoTT0Mu0
 preview: https://i9.ytimg.com/vi/FLMIoTT0Mu0/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDiE2Fb_1U29gBfOLtNypyc5RNoLQ
 duration: 53
 resourceTypes:

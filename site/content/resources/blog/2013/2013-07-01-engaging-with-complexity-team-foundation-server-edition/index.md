@@ -1,21 +1,21 @@
 ---
 title: Engaging with complexity - Team Foundation Server Edition
 description: Detailed walkthrough of a complex Team Foundation Server migration, covering remediation, hardware moves, upgrades, user management, and validation in large enterprise environments.
-ResourceId: xr1jtRnRNvp
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9703
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-07-01
 weight: 665
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: engaging-with-complexity-team-foundation-server-edition
 aliases:
 - /resources/xr1jtRnRNvp
+ResourceId: xr1jtRnRNvp
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9703
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/engaging-with-complexity-team-foundation-server-edition
 - /engaging-with-complexity-team-foundation-server-edition
@@ -23,6 +23,9 @@ aliasesArchive:
 - /engaging-with-complexity---team-foundation-server-edition
 - /blog/engaging-with-complexity---team-foundation-server-edition
 - /resources/blog/engaging-with-complexity-team-foundation-server-edition
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Software Development
 - Pragmatic Thinking
@@ -31,12 +34,9 @@ tags:
 - Azure DevOps
 - Troubleshooting
 - Operational Practices
-categories:
-- Uncategorized
 preview: nakedalm-experts-visual-studio-alm-2-2.png
 Watermarks:
   description: 2025-05-13T15:05:53Z
-concepts: []
 
 ---
 I have been engaging with complexity for a company in Silicon Valley that is doing one of the most complex Team Foundation Server migrations that I think I have ever seen.

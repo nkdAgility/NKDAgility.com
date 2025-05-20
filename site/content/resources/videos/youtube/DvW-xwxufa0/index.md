@@ -1,27 +1,9 @@
 ---
+title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
 description: Explores the limits of self-taught learning in tech, highlighting how external expertise and diverse perspectives drive better solutions, growth, and organisational success.
 date: 2024-08-22T07:00:08Z
-ResourceId: DvW-xwxufa0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 630
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:01:29Z
-title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
-videoId: DvW-xwxufa0
-source: internal
-url: /resources/videos/:slug
 slug: the-limits-of-self-taught-learning-why-external-perspectives-matter
-layout: video
 aliases:
 - /resources/DvW-xwxufa0
 - /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
@@ -33,6 +15,24 @@ aliasesArchive:
 - /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 - /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
 - the-limits-of-self-taught-learning-why-external-perspectives-matter
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: DvW-xwxufa0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:01:29Z
+videoId: DvW-xwxufa0
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg
 duration: 339
 resourceTypes:

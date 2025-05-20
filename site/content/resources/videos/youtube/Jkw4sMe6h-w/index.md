@@ -1,27 +1,9 @@
 ---
+title: 'From Control to Empowerment: Embracing Agile Leadership in a Complex World'
 description: Explores the shift from traditional management to agile leadership, highlighting empowerment, adaptability, and collaboration as key to navigating complex modern challenges.
 date: 2023-08-09T13:43:27Z
-ResourceId: Jkw4sMe6h-w
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:20Z
-title: 'From Control to Empowerment: Embracing Agile Leadership in a Complex World'
-videoId: Jkw4sMe6h-w
-source: youtube
-url: /resources/videos/:slug
 slug: from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
-layout: video
 aliases:
 - /resources/Jkw4sMe6h-w
 - /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
@@ -33,6 +15,24 @@ aliasesArchive:
 - how-is-agile-leadership-different-to-traditional-management
 - /resources/videos/from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
 - from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: Jkw4sMe6h-w
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:20Z
+videoId: Jkw4sMe6h-w
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/Jkw4sMe6h-w/maxresdefault.jpg
 duration: 243
 resourceTypes:

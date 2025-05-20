@@ -1,27 +1,9 @@
 ---
+title: Why is Kanban becoming increasingly popular in creative industries?
 description: Explains how Kanban helps creative industries optimise workflows with flexibility, personalisation, and continuous improvement, contrasting it with Scrum’s limitations.
 date: 2024-02-13T07:00:14Z
-ResourceId: MDpthtdJgNk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Kanban
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:47Z
-title: Why is Kanban becoming increasingly popular in creative industries?
-videoId: MDpthtdJgNk
-source: internal
-url: /resources/videos/:slug
 slug: why-is-kanban-becoming-increasingly-popular-in-creative-industries
-layout: video
 aliases:
 - /resources/MDpthtdJgNk
 - /resources/videos/why-is-kanban-becoming-increasingly-popular-in-creative-industries
@@ -33,6 +15,24 @@ aliasesArchive:
 - /resources/why-is-kanban-becoming-popular-with-creative-industries-
 - /resources/videos/why-is-kanban-becoming-popular-with-creative-industries
 - why-is-kanban-becoming-increasingly-popular-in-creative-industries
+concepts: []
+categories:
+- Kanban
+tags: []
+ResourceId: MDpthtdJgNk
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:47Z
+videoId: MDpthtdJgNk
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/MDpthtdJgNk/maxresdefault.jpg
 duration: 581
 resourceTypes:

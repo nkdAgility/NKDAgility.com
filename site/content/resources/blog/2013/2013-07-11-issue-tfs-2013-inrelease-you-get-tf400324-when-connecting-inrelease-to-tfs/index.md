@@ -1,22 +1,21 @@
 ---
 title: Issue [ TFS 2013 ] You get TF400324 when connecting InRelease to TFS
 description: Explains how to resolve TF400324 errors when connecting InRelease 3 to TFS 2013, including correct URL usage and a supported PowerShell fix for collection paths.
-ResourceId: mpyXOBzFWc3
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9749
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
 weight: 840
+slug: issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
+aliases:
+- /resources/mpyXOBzFWc3
+ResourceId: mpyXOBzFWc3
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9749
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
-slug: issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
-aliases:
-- /resources/blog/issue-tfs-2013-you-get-tf400324-when-connecting-inrelease-to-tfs
-- /resources/mpyXOBzFWc3
 aliasesArchive:
 - /blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
@@ -24,17 +23,17 @@ aliasesArchive:
 - /blog/issue-[-tfs-2013-]-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /resources/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 - /resources/blog/issue-tfs-2013-you-get-tf400324-when-connecting-inrelease-to-tfs
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Software Development
 - Troubleshooting
 - Install and Configuration
 - System Configuration
-categories:
-- Uncategorized
 preview: puzzle-issue-problem-128-link-3-3.png
 Watermarks:
   description: 2025-05-13T10:48:27Z
-concepts: []
 
 ---
 If you follow the documentation for the new InRelease 3 for Team Foundation Server 2013 “TF400324: Team Foundation Services are not available from server” with a remote server error of 404.

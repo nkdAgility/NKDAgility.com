@@ -1,37 +1,37 @@
 ---
+title: What is a product vision?
 description: Explains product vision as a long-term guiding goal that defines a product’s desired future state, aligning teams and inspiring direction beyond short-term objectives.
 date: 2023-05-29T14:00:36Z
-ResourceId: oiIf2vdqgg0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: what-is-a-product-vision-oiIf2vdqgg0
+aliases:
+- /resources/oiIf2vdqgg0
+- /resources/videos/what-is-a-product-vision-oiIf2vdqgg0
+ResourceId: oiIf2vdqgg0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Product Development
-tags:
-- Product Strategy
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:06Z
-title: What is a product vision?
 videoId: oiIf2vdqgg0
 source: internal
 url: /resources/videos/:slug
-slug: what-is-a-product-vision-oiIf2vdqgg0
 layout: video
-aliases:
-- /resources/oiIf2vdqgg0
-- /resources/videos/what-is-a-product-vision-oiIf2vdqgg0
 aliasesArchive:
 - /resources/videos/what-is-a-product-vision
 - /resources/what-is-a-product-vision
 - /resources/videos/what-is-a-product-vision-
 - /resources/what-is-a-product-vision-
 - what-is-a-product-vision-oiIf2vdqgg0
+concepts: []
+categories:
+- Product Development
+tags:
+- Product Strategy
 preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg
 duration: 41
 resourceTypes:

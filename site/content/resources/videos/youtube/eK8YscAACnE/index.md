@@ -1,11 +1,21 @@
 ---
+title: "Ditching Agile Banditry: Why Story Points and Velocity Metrics Are Undermining Your Team's Success"
 description: Explores how relying on story points and velocity can harm Agile teams, advocating for objective metrics like cycle time and throughput to boost collaboration and transparency.
 date: 2024-01-08T11:00:37Z
-ResourceId: eK8YscAACnE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
+slug: ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
+aliases:
+- /resources/eK8YscAACnE
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-team-s-success
+aliasesArchive:
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
+- ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
+- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-team-s-success
 concepts: []
 categories:
 - Product Development
@@ -16,29 +26,20 @@ tags:
 - Throughput
 - Team Performance
 - Pragmatic Thinking
+ResourceId: eK8YscAACnE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:34Z
-title: "Ditching Agile Banditry: Why Story Points and Velocity Metrics Are Undermining Your Team's Success"
 videoId: eK8YscAACnE
 source: youtube
 url: /resources/videos/:slug
-slug: ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
 layout: video
-aliases:
-- /resources/eK8YscAACnE
-- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
-- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
-aliasesArchive:
-- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-3rd-kind
-- ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
-- /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-team-s-success
 preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 resourceTypes:

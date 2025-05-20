@@ -1,11 +1,20 @@
 ---
+title: 'Detecting Agile BS: Lessons from the Department of Defense'
 description: Explores why true organisational agility needs more than Agile development, highlighting the importance of continuous delivery, quality, and removing bureaucratic barriers.
 date: 2024-08-02T06:45:02Z
-ResourceId: kVt5KP9dg8Q
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 360
+slug: detecting-agile-bs-lessons-from-the-department-of-defense
+aliases:
+- /resources/kVt5KP9dg8Q
+- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
+aliasesArchive:
+- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
+- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
+- detecting-agile-bs-lessons-from-the-department-of-defense
 concepts:
 - Practice
 categories:
@@ -20,29 +29,20 @@ tags:
 - Agile Transformation
 - Software Development
 - Agile Strategy
+ResourceId: kVt5KP9dg8Q
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:19Z
-title: 'Detecting Agile BS: Lessons from the Department of Defense'
 videoId: kVt5KP9dg8Q
 source: internal
 url: /resources/videos/:slug
-slug: detecting-agile-bs-lessons-from-the-department-of-defense
 layout: video
-aliases:
-- /resources/kVt5KP9dg8Q
-- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
-aliasesArchive:
-- /resources/videos/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/detecting-agile-bs-lessons-from-the-department-of-defense
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-- /resources/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-- /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-66
-- detecting-agile-bs-lessons-from-the-department-of-defense
 preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
 duration: 346
 resourceTypes:

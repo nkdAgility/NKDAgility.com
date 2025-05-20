@@ -1,29 +1,9 @@
 ---
+title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business'
 description: Struggling with legacy systems? Discover how to modernise securely, reduce risk, and build resilience—without trading old problems for new ones.
 date: 2025-05-12T06:00:00Z
-ResourceId: j_oduUBphYc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 480
-concepts:
-- Capability
-categories:
-- Uncategorized
-tags:
-- Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T20:59:00Z
-ResourceContentOrigin: ai
-title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business'
-videoId: j_oduUBphYc
-source: youtube
-url: /resources/videos/:slug
 slug: modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
-layout: video
 aliases:
 - /resources/j_oduUBphYc
 - /resources/videos/modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
@@ -33,6 +13,26 @@ aliasesArchive:
 - 6-security-compliance-in-legacy-system-modernization
 - /resources/videos/modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
 - modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
+concepts:
+- Capability
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceId: j_oduUBphYc
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T20:59:00Z
+ResourceContentOrigin: ai
+videoId: j_oduUBphYc
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i9.ytimg.com/vi/j_oduUBphYc/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLC9GdU6Uu93vQ2nm8zM-COxVCvE6Q
 duration: 94
 resourceTypes:

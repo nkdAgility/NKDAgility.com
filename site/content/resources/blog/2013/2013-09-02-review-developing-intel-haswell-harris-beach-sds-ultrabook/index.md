@@ -1,35 +1,35 @@
 ---
 title: 'Review Part 2: Developing with Intel Haswell Harris Beach SDS Ultrabook'
 description: Covers hands-on development with the Intel Haswell Harris Beach SDS Ultrabook, including Windows 8/8.1 compatibility, sensor demos, performance, and setup tips.
-ResourceId: n-WAS50HK1d
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10081
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-09-02
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: review-developing-intel-haswell-harris-beach-sds-ultrabook
 aliases:
 - /resources/n-WAS50HK1d
+ResourceId: n-WAS50HK1d
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10081
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
 - /review-developing-intel-haswell-harris-beach-sds-ultrabook
 - /review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
 - /blog/review-part-2--developing-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
-tags:
-- Windows
+concepts: []
 categories:
 - Uncategorized
+tags:
+- Windows
 preview: Web-Intel-Metro-icon-21-21.png
 Watermarks:
   description: 2025-05-12T14:23:15Z
-concepts: []
 
 ---
 It has just over a month since I received my Intel Haswell Harris Beach SDS Ultrabook from Intel to review and I have to say that I love this little laptop. I have been trying to use it exclusively and have done pretty well.

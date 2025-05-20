@@ -1,35 +1,35 @@
 ---
 title: Create log entries in Release Management
 description: Explains how to generate and capture log entries in Release Management by using PowerShell's Write-Verbose with the -verbose flag, ensuring deployment logs are recorded.
-ResourceId: 1jC1jE7shiY
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10975
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-12-12
 weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: create-log-entries-release-management
 aliases:
 - /resources/1jC1jE7shiY
+ResourceId: 1jC1jE7shiY
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10975
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/create-log-entries-release-management
 - /create-log-entries-release-management
 - /create-log-entries-in-release-management
 - /blog/create-log-entries-in-release-management
 - /resources/blog/create-log-entries-release-management
-tags:
-- Troubleshooting
+concepts: []
 categories:
 - Uncategorized
+tags:
+- Troubleshooting
 preview: nakedalm-experts-visual-studio-alm-5-5.png
 Watermarks:
   description: 2025-05-12T14:20:29Z
-concepts: []
 
 ---
 I have been working through my demos for NDC London next week. And I found it almost impossible to create log entries in Release Management where I wanted.

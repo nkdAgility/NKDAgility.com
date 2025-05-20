@@ -1,38 +1,37 @@
 ---
 title: 'Issue [ TFS 2013 Preview ] TF400654: Unable to configure Planning Tools'
 description: Explains how to resolve TF400654 errors in TFS 2013 Preview by updating process templates to ensure custom fields exist in all required work item types.
-ResourceId: vjwgG3uy0lI
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9911
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-06-27
 weight: 1000
+slug: issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
+aliases:
+- /resources/vjwgG3uy0lI
+ResourceId: vjwgG3uy0lI
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9911
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
-slug: issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
-aliases:
-- /resources/blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
-- /resources/vjwgG3uy0lI
 aliasesArchive:
 - /blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 - /issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 - /issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /blog/issue-[-tfs-2013-preview-]-tf400654--unable-to-configure-planning-tools
 - /resources/blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Troubleshooting
 - Install and Configuration
 - System Configuration
-categories:
-- Uncategorized
 preview: puzzle-issue-problem-128-link-2-2.png
 Watermarks:
   description: 2025-05-13T15:05:58Z
-concepts: []
 
 ---
 If you have the ‘team field’ enabled you will receive a “TF400654: Unable to configure Planning Tools” when you try to use the automatic configuration.

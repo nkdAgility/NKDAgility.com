@@ -1,21 +1,21 @@
 ---
 title: Upgrading to TFS 2015 in production - DONE
 description: Step-by-step guide to upgrading a production TFS server to TFS 2015, including backup strategies, configuration tips, and handling common issues during installation.
-ResourceId: lJiwJaztYBO
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11308
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2015-04-29
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrading-to-tfs-2015-in-production-done
 aliases:
 - /resources/lJiwJaztYBO
+ResourceId: lJiwJaztYBO
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11308
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/upgrading-to-tfs-2015-in-production-done
 - /upgrading-to-tfs-2015-in-production-done
@@ -23,16 +23,16 @@ aliasesArchive:
 - /upgrading-to-tfs-2015-in-production---done
 - /blog/upgrading-to-tfs-2015-in-production---done
 - /resources/blog/upgrading-to-tfs-2015-in-production-done
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Install and Configuration
 - System Configuration
 - Software Development
-categories:
-- Uncategorized
 preview: nakedalm-experts-visual-studio-alm-22-22.png
 Watermarks:
   description: 2025-05-12T14:19:49Z
-concepts: []
 
 ---
 I am onsite today with a customer in London to do an upgrade of their production system to TFS 2015. We have a backup of the databases and a snapshot of the VM and are good to go.

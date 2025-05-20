@@ -1,11 +1,19 @@
 ---
+title: 'Unlocking Organisational Agility: How to Empower Your Team for Rapid Market Response'
 description: Learn how empowering teams, streamlining communication, and providing context enable organisations to respond rapidly to market changes and gain a competitive edge.
 date: 2023-09-01T07:00:18Z
-ResourceId: omsEiYqX-Dk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
+aliases:
+- /resources/omsEiYqX-Dk
+- /resources/videos/unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
+- /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management
+aliasesArchive:
+- /resources/videos/unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
+- /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
+- /resources/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
+- /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management
+- unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
 concepts:
 - Principle
 categories:
@@ -24,28 +32,20 @@ tags:
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Value Delivery
+ResourceId: omsEiYqX-Dk
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:44Z
-title: 'Unlocking Organisational Agility: How to Empower Your Team for Rapid Market Response'
 videoId: omsEiYqX-Dk
 source: youtube
 url: /resources/videos/:slug
-slug: unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
 layout: video
-aliases:
-- /resources/omsEiYqX-Dk
-- /resources/videos/unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
-- /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management
-aliasesArchive:
-- /resources/videos/unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
-- /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
-- /resources/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management-
-- /resources/videos/how-much-competitive-advantage-does-organizational-agility-offer-versus-traditional-management
-- unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
 preview: https://i.ytimg.com/vi/omsEiYqX-Dk/maxresdefault.jpg
 duration: 242
 resourceTypes:

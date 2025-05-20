@@ -1,11 +1,20 @@
 ---
+title: 'Transform Your Leadership: The Power of Evidence-Based Management in Agile'
 description: Discover how evidence-based management empowers Agile leaders to make data-driven decisions, foster continuous improvement, and boost team performance and collaboration.
 date: 2023-11-29T11:00:03Z
-ResourceId: 2-AyrLPg-8Y
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
+aliases:
+- /resources/2-AyrLPg-8Y
+- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
+- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
+- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey
+aliasesArchive:
+- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
+- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
+- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
+- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey
+- transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
 concepts:
 - Tenet
 categories:
@@ -20,29 +29,20 @@ tags:
 - Competence
 - Agile Leadership
 - Operational Practices
+ResourceId: 2-AyrLPg-8Y
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:07:24Z
-title: 'Transform Your Leadership: The Power of Evidence-Based Management in Agile'
 videoId: 2-AyrLPg-8Y
 source: youtube
 url: /resources/videos/:slug
-slug: transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
 layout: video
-aliases:
-- /resources/2-AyrLPg-8Y
-- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
-- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey
-aliasesArchive:
-- /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
-- /resources/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
-- /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey
-- transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
 preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 resourceTypes:

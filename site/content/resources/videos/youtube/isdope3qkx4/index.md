@@ -1,39 +1,37 @@
 ---
+title: 'Mastering Agile in a Distributed World: Tools and Strategies for Effective Team Management'
 description: Explore practical tools and strategies for managing Agile teams in distributed environments, including communication tips, tool comparisons, and adaptation best practices.
 date: 2020-04-10T18:35:30Z
-ResourceId: isdope3qkx4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
+aliases:
+- /resources/isdope3qkx4
+ResourceId: isdope3qkx4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts:
-- Tool
-categories:
-- Uncategorized
-tags:
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:15:50Z
-title: 'Mastering Agile in a Distributed World: Tools and Strategies for Effective Team Management'
 videoId: isdope3qkx4
 source: youtube
 url: /resources/videos/:slug
-slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
 layout: video
-aliases:
-- /resources/isdope3qkx4
-- /resources/videos/mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
-- /resources/videos/11th-april-2020-office-hours-ask-me-anything
 aliasesArchive:
 - /resources/videos/th-april-office-hours-ask-me-anything
 - /resources/videos/11th-april-2020-office-hours-ask-me-anything
 - /resources/11th-april-2020-office-hours-ask-me-anything
 - /resources/videos/mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
 - mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
+concepts:
+- Tool
+categories:
+- Uncategorized
+tags:
+- Software Development
 preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 resourceTypes:

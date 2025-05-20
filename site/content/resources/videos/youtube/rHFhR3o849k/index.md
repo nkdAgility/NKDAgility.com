@@ -1,33 +1,9 @@
 ---
+title: 'Unlocking Greatness: How the Right Scrum Master Transforms Teams and Organisations'
 description: Explores how an effective Scrum Master drives team success by fostering team fit, addressing organisational barriers, and building relationships to enable lasting change.
 date: 2023-03-13T07:00:19Z
-ResourceId: rHFhR3o849k
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts: []
-categories:
-- Scrum
-- Leadership
-- Product Development
-tags:
-- Scrum Master
-- Scrum Team
-- Sociotechnical Systems
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:43Z
-title: 'Unlocking Greatness: How the Right Scrum Master Transforms Teams and Organisations'
-videoId: rHFhR3o849k
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
-layout: video
 aliases:
 - /resources/rHFhR3o849k
 - /resources/videos/unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
@@ -39,6 +15,30 @@ aliasesArchive:
 - what-makes-a-truly-great-scrum-master
 - /resources/videos/unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
 - unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
+concepts: []
+categories:
+- Scrum
+- Leadership
+- Product Development
+tags:
+- Scrum Master
+- Scrum Team
+- Sociotechnical Systems
+- Pragmatic Thinking
+ResourceId: rHFhR3o849k
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:43Z
+videoId: rHFhR3o849k
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg
 duration: 237
 resourceTypes:

@@ -1,11 +1,17 @@
 ---
+title: What is empiricism and why is it so critical to great Agile?
 description: Explains how empiricism—continuous observation, inspection, and adaptation—drives Agile success by enabling teams to respond effectively to real project data and feedback.
 date: 2023-08-30T07:00:05Z
-ResourceId: 7UZsdsD23rs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 590
+slug: what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+aliases:
+- /resources/7UZsdsD23rs
+- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+aliasesArchive:
+- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
+- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+- what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 concepts:
 - Principle
 categories:
@@ -24,26 +30,20 @@ tags:
 - Agile Planning
 - Team Performance
 - Customer Focus
+ResourceId: 7UZsdsD23rs
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:47Z
-title: What is empiricism and why is it so critical to great Agile?
 videoId: 7UZsdsD23rs
 source: internal
 url: /resources/videos/:slug
-slug: what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 layout: video
-aliases:
-- /resources/7UZsdsD23rs
-- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-aliasesArchive:
-- /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
-- /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
-- what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 preview: https://i.ytimg.com/vi/7UZsdsD23rs/maxresdefault.jpg
 duration: 330
 resourceTypes:

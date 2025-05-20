@@ -1,34 +1,34 @@
 ---
 title: 'Review Part 1: Unboxing the Intel Haswell Harris Beach SDS Ultrabook'
 description: Hands-on unboxing and first impressions of Intel’s Haswell Harris Beach SDS Ultrabook, highlighting hardware specs, sensors, Windows 8.1 setup, and developer features.
-ResourceId: D-CZSgtpLGe
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9918
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-07-26
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 aliases:
 - /resources/D-CZSgtpLGe
+ResourceId: D-CZSgtpLGe
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9918
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /blog/review-part-1--unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: Web-Intel-Metro-icon-4-4.png
 Watermarks:
   description: 2025-05-12T14:23:33Z
-concepts: []
 
 ---
 I was contacted just over a week ago and asked if I would like to review the new developer Ultrabook from Intel, a “Harris Beach SDS Ultrabook SDP - PVT2 ISV”. Geek stuff, wohoo… (composure) … Why sure, I would love to review your new device.

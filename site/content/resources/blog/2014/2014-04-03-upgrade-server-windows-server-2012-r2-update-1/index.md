@@ -1,37 +1,37 @@
 ---
 title: Upgrade your server to Windows Server 2012 R2 Update 1
 description: Step-by-step guide to manually installing Windows Server 2012 R2 Update 1, including required update order, restart tips, and post-update checks for server stability.
-ResourceId: KyDt7UnJIhX
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10472
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-04-03
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: upgrade-server-windows-server-2012-r2-update-1
 aliases:
 - /resources/KyDt7UnJIhX
+ResourceId: KyDt7UnJIhX
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10472
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/upgrade-server-windows-server-2012-r2-update-1
 - /upgrade-server-windows-server-2012-r2-update-1
 - /upgrade-your-server-to-windows-server-2012-r2-update-1
 - /blog/upgrade-your-server-to-windows-server-2012-r2-update-1
 - /resources/blog/upgrade-server-windows-server-2012-r2-update-1
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Windows
 - Install and Configuration
 - System Configuration
-categories:
-- Uncategorized
 preview: nakedalm-windows-logo-6-6.png
 Watermarks:
   description: 2025-05-12T14:22:03Z
-concepts: []
 
 ---
 With the release of Windows Server 2012 R2 Update 2 I wanted to make sure that all of my demo machines are up to date. I have a Domain Controller and a TFS server that are separate boxes but which are both running Windows Server 2012 R2.

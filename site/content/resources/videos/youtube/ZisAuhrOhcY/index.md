@@ -1,36 +1,14 @@
 ---
+title: My journey with Kanban and why I actively recommend it to clients.
 description: Explains how adopting Kanban improves workflow, predictability, and transparency for any team or industry, offering practical insights and benefits over traditional approaches.
 date: 2024-02-23T07:00:12Z
-ResourceId: ZisAuhrOhcY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Method
-categories:
-- Product Development
-tags:
-- Operational Practices
-- Agile Frameworks
-- Transparency
-- Flow Efficiency
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:37Z
-title: My journey with Kanban and why I actively recommend it to clients.
-videoId: ZisAuhrOhcY
-source: internal
-url: /resources/videos/:slug
 slug: my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
-layout: video
 aliases:
 - /resources/ZisAuhrOhcY
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
 aliasesArchive:
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients-
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
@@ -41,6 +19,29 @@ aliasesArchive:
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients
 - my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients.
+concepts:
+- Method
+categories:
+- Product Development
+tags:
+- Operational Practices
+- Agile Frameworks
+- Transparency
+- Flow Efficiency
+ResourceId: ZisAuhrOhcY
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:37Z
+videoId: ZisAuhrOhcY
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
 duration: 321
 resourceTypes:

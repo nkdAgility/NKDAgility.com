@@ -1,11 +1,20 @@
 ---
+title: In WIP, less is more.  Why?
 description: Limiting work in progress boosts productivity by reducing multitasking, context switching, and bottlenecks, helping teams focus, finish tasks, and deliver faster results.
 date: 2023-05-09T07:00:19Z
-ResourceId: yEu8Fw4JQWM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
+slug: in-wip-less-is-more-why
+aliases:
+- /resources/yEu8Fw4JQWM
+- /resources/videos/in-wip-less-is-more-why
+- /resources/videos/in-wip-less-is-more.-why
+aliasesArchive:
+- /resources/videos/in-wip-less-is-more-why
+- /resources/in-wip-less-is-more-why
+- /resources/videos/in-wip,-less-is-more,-why-
+- /resources/in-wip,-less-is-more,-why-
+- in-wip-less-is-more-why
+- /resources/videos/in-wip-less-is-more.-why
 concepts:
 - Practice
 categories:
@@ -16,28 +25,20 @@ tags:
 - Flow Efficiency
 - Throughput
 - Pragmatic Thinking
+ResourceId: yEu8Fw4JQWM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:37Z
-title: In WIP, less is more.  Why?
 videoId: yEu8Fw4JQWM
 source: internal
 url: /resources/videos/:slug
-slug: in-wip-less-is-more-why
 layout: video
-aliases:
-- /resources/yEu8Fw4JQWM
-- /resources/videos/in-wip-less-is-more-why
-aliasesArchive:
-- /resources/videos/in-wip-less-is-more-why
-- /resources/in-wip-less-is-more-why
-- /resources/videos/in-wip,-less-is-more,-why-
-- /resources/in-wip,-less-is-more,-why-
-- in-wip-less-is-more-why
-- /resources/videos/in-wip-less-is-more.-why
 preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
 duration: 263
 resourceTypes:

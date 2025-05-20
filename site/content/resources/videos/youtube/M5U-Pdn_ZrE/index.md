@@ -1,28 +1,9 @@
 ---
+title: 'Mastering the Art of Understanding: Essential Skills for Product Owners to Foster Team Clarity'
 description: Guidance for product owners on improving team clarity by reading non-verbal cues, adapting communication, and fostering open dialogue to ensure shared understanding in teams.
 date: 2023-12-18T11:00:15Z
-ResourceId: M5U-Pdn_ZrE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Product Owner
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:51Z
-title: 'Mastering the Art of Understanding: Essential Skills for Product Owners to Foster Team Clarity'
-videoId: M5U-Pdn_ZrE
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE
-layout: video
 aliases:
 - /resources/M5U-Pdn_ZrE
 - /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE
@@ -33,6 +14,25 @@ aliasesArchive:
 - /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
 - /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
 - mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Product Owner
+ResourceId: M5U-Pdn_ZrE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:51Z
+videoId: M5U-Pdn_ZrE
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg
 duration: 39
 resourceTypes:

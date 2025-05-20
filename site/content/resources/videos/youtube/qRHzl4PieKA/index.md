@@ -1,11 +1,22 @@
 ---
+title: Are Your Teams Empowered to Change Requirements Based on User Feedback? If Not, You’re Probably Not Very Agile
 description: Empowering teams to adapt requirements based on user feedback is key to true agility. Learn why backlog updates and team engagement drive better, user-focused products.
 date: 2024-07-17T06:45:01Z
-ResourceId: qRHzl4PieKA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
+slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
+aliases:
+- /resources/qRHzl4PieKA
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
+aliasesArchive:
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+- /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
+- are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
+- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
 concepts:
 - Principle
 categories:
@@ -26,31 +37,20 @@ tags:
 - Team Performance
 - Agile Frameworks
 - Continuous Improvement
+ResourceId: qRHzl4PieKA
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:34Z
-title: Are Your Teams Empowered to Change Requirements Based on User Feedback? If Not, You’re Probably Not Very Agile
 videoId: qRHzl4PieKA
 source: internal
 url: /resources/videos/:slug
-slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
 layout: video
-aliases:
-- /resources/qRHzl4PieKA
-- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
-- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
-aliasesArchive:
-- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
-- /resources/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-4
-- are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
-- /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
 preview: https://i.ytimg.com/vi/qRHzl4PieKA/maxresdefault.jpg
 duration: 59
 resourceTypes:

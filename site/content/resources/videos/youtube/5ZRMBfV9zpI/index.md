@@ -1,31 +1,9 @@
 ---
+title: 'Unlocking Your Potential: Transformative Training for Aspiring Scrum Masters'
 description: Comprehensive Scrum Master training offering interactive workshops, practical activities, community support, and assessment to build Agile skills and foster continuous improvement.
 date: 2022-07-27T18:45:17Z
-ResourceId: 5ZRMBfV9zpI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts: []
-categories:
-- Scrum
-tags:
-- Professional Scrum
-- Scrum Master
-- Software Development
-- Competence
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:48Z
-title: 'Unlocking Your Potential: Transformative Training for Aspiring Scrum Masters'
-videoId: 5ZRMBfV9zpI
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
-layout: video
 aliases:
 - /resources/5ZRMBfV9zpI
 - /resources/videos/unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
@@ -36,6 +14,28 @@ aliasesArchive:
 - /resources/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
 - /resources/videos/professional-scrum-master-psm-training-class-from-naked-agility-with-martin-hinshelwood-mktng
 - unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
+concepts: []
+categories:
+- Scrum
+tags:
+- Professional Scrum
+- Scrum Master
+- Software Development
+- Competence
+ResourceId: 5ZRMBfV9zpI
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:48Z
+videoId: 5ZRMBfV9zpI
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 resourceTypes:

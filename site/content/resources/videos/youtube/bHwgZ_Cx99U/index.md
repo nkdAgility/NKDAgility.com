@@ -1,35 +1,14 @@
 ---
+title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectively"
 description: Adding more teams doesn’t guarantee faster delivery; effective scaling requires reducing dependencies, aligning goals, and minimising coordination overhead for real results.
 date: 2025-02-21T07:59:43Z
-ResourceId: bHwgZ_Cx99U
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 415
-concepts: []
-categories:
-- Product Development
-tags:
-- Scaling
-- Organisational Agility
-- Team Collaboration
-- Value Delivery
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:32Z
-title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectively"
-videoId: bHwgZ_Cx99U
-source: youtube
-url: /resources/videos/:slug
 slug: why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
-layout: video
 aliases:
 - /resources/bHwgZ_Cx99U
 - /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
 - /resources/videos/scaling-teams-without-losing-speed-or-quality
+- /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
 aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
@@ -38,6 +17,28 @@ aliasesArchive:
 - /resources/videos/scaling-teams-without-losing-speed-or-quality
 - why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
 - /resources/videos/why-more-teams-won-t-speed-up-delivery-the-truth-about-scaling-effectively
+concepts: []
+categories:
+- Product Development
+tags:
+- Scaling
+- Organisational Agility
+- Team Collaboration
+- Value Delivery
+ResourceId: bHwgZ_Cx99U
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:32Z
+videoId: bHwgZ_Cx99U
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/bHwgZ_Cx99U/maxresdefault.jpg
 duration: 76
 resourceTypes:

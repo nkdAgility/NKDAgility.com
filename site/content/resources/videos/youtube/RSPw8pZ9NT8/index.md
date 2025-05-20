@@ -1,11 +1,19 @@
 ---
+title: 'Unlocking the Power of Kanban: Transform Your Workflow with Data-Driven Insights'
 description: Learn how Kanban uses data-driven insights and probabilistic forecasting to optimise workflows, improve delivery, and enhance transparency across any team or process.
 date: 2023-08-23T07:00:10Z
-ResourceId: RSPw8pZ9NT8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
+slug: unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+aliases:
+- /resources/RSPw8pZ9NT8
+- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
+- unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 concepts:
 - Practice
 categories:
@@ -17,28 +25,20 @@ tags:
 - Decision Theory
 - Throughput
 - Value Delivery
+ResourceId: RSPw8pZ9NT8
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:55Z
-title: 'Unlocking the Power of Kanban: Transform Your Workflow with Data-Driven Insights'
 videoId: RSPw8pZ9NT8
 source: youtube
 url: /resources/videos/:slug
-slug: unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 layout: video
-aliases:
-- /resources/RSPw8pZ9NT8
-- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
-- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
-aliasesArchive:
-- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
-- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
-- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
-- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
-- unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
 resourceTypes:

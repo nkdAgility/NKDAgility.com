@@ -1,35 +1,9 @@
 ---
+title: Best Scrum advice you ever received?
 description: Emphasises the importance of flexibility and pragmatism in Scrum, encouraging teams to adapt frameworks to their context rather than rigidly following prescribed rules.
 date: 2023-06-05T07:00:20Z
-ResourceId: YUlpnyN2IeI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-- Pragmatic Thinking
-- Agile Planning
-- Agile Philosophy
-- Organisational Agility
-- Agile Frameworks
-- Agile Transformation
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:11:53Z
-title: Best Scrum advice you ever received?
-videoId: YUlpnyN2IeI
-source: internal
-url: /resources/videos/:slug
 slug: best-scrum-advice-you-ever-received
-layout: video
 aliases:
 - /resources/YUlpnyN2IeI
 - /resources/videos/best-scrum-advice-you-ever-received
@@ -42,6 +16,32 @@ aliasesArchive:
 - /resources/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 - /resources/videos/unlocking-scrums-potential-avoiding-dogma-and-embracing-flexibility
 - best-scrum-advice-you-ever-received
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Pragmatic Thinking
+- Agile Planning
+- Agile Philosophy
+- Organisational Agility
+- Agile Frameworks
+- Agile Transformation
+ResourceId: YUlpnyN2IeI
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:53Z
+videoId: YUlpnyN2IeI
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 resourceTypes:

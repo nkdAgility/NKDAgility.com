@@ -1,31 +1,9 @@
 ---
+title: 7 Harbingers of the Agile Apocalypse - Famine
 description: Explores how resource scarcity—like lack of trust, funding, tools, and training—undermines Agile teams, and offers strategies to empower and support organisational success.
 date: 2023-10-19T15:00:30Z
-ResourceId: W3H9z28g9R8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts: []
-categories:
-- Product Development
-tags:
-- Agile Leadership
-- Pragmatic Thinking
-- Organisational Culture
-- Beta Codex
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:35Z
-title: 7 Harbingers of the Agile Apocalypse - Famine
-videoId: W3H9z28g9R8
-source: internal
-url: /resources/videos/:slug
 slug: 7-harbingers-of-the-agile-apocalypse-famine
-layout: video
 aliases:
 - /resources/W3H9z28g9R8
 - /resources/videos/7-harbingers-of-the-agile-apocalypse-famine
@@ -38,6 +16,28 @@ aliasesArchive:
 - /resources/famine!-7-harbingers-agile-apocalypse
 - /resources/videos/famine-7-harbingers-agile-apocalypse
 - 7-harbingers-of-the-agile-apocalypse-famine
+concepts: []
+categories:
+- Product Development
+tags:
+- Agile Leadership
+- Pragmatic Thinking
+- Organisational Culture
+- Beta Codex
+ResourceId: W3H9z28g9R8
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:35Z
+videoId: W3H9z28g9R8
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg
 duration: 448
 resourceTypes:

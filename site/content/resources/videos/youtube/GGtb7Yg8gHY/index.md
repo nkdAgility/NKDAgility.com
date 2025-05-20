@@ -1,31 +1,9 @@
 ---
+title: 'Navigating Team Conflict: From Healthy Disagreement to Agile Harmony'
 description: Explores recognising and managing team conflict in Agile, outlining stages from healthy disagreement to destructive "war" and offering practical de-escalation strategies.
 date: 2023-11-07T11:30:07Z
-ResourceId: GGtb7Yg8gHY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 610
-concepts: []
-categories:
-- Product Development
-- Technical Leadership
-tags:
-- Team Performance
-- Scrum Team
-- Scrum Master
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:02Z
-title: 'Navigating Team Conflict: From Healthy Disagreement to Agile Harmony'
-videoId: GGtb7Yg8gHY
-source: youtube
-url: /resources/videos/:slug
 slug: navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
-layout: video
 aliases:
 - /resources/GGtb7Yg8gHY
 - /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
@@ -36,6 +14,28 @@ aliasesArchive:
 - /resources/videos/7-signs-of-the-agile-apocalypse-war
 - /resources/7-signs-of-the-agile-apocalypse-war
 - navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
+concepts: []
+categories:
+- Product Development
+- Technical Leadership
+tags:
+- Team Performance
+- Scrum Team
+- Scrum Master
+ResourceId: GGtb7Yg8gHY
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:02Z
+videoId: GGtb7Yg8gHY
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 resourceTypes:

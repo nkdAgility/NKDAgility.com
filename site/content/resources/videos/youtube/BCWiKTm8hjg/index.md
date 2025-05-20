@@ -1,31 +1,9 @@
 ---
+title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
 description: Explores how practising charity—helping others without expecting rewards—strengthens Agile teams, boosts collaboration, and drives organisational success and motivation.
 date: 2023-12-06T07:00:08Z
-ResourceId: BCWiKTm8hjg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Organisational Culture
-- Agile Leadership
-- Employee Engagement
-- Team Performance
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:14Z
-title: 'The Power of Charity in Agile: How Helping Others Elevates Teams and Organizations'
-videoId: BCWiKTm8hjg
-source: internal
-url: /resources/videos/:slug
 slug: the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
-layout: video
 aliases:
 - /resources/BCWiKTm8hjg
 - /resources/videos/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
@@ -36,6 +14,28 @@ aliasesArchive:
 - /resources/videos/7-virtues-of-agile-charity
 - /resources/7-virtues-of-agile-charity
 - the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Organisational Culture
+- Agile Leadership
+- Employee Engagement
+- Team Performance
+ResourceId: BCWiKTm8hjg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:14Z
+videoId: BCWiKTm8hjg
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
 duration: 162
 resourceTypes:

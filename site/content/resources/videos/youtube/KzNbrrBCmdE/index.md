@@ -1,27 +1,9 @@
 ---
+title: 'Mastering the Agile Balance: Navigating Flexibility and Inflexibility for Project Success'
 description: Explores how agile teams can balance flexibility and structure, manage data integrity, and adapt processes to achieve project goals and improve decision-making.
 date: 2024-09-19T11:05:27Z
-ResourceId: KzNbrrBCmdE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:41Z
-title: 'Mastering the Agile Balance: Navigating Flexibility and Inflexibility for Project Success'
-videoId: KzNbrrBCmdE
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
-layout: video
 aliases:
 - /resources/KzNbrrBCmdE
 - /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
@@ -32,6 +14,24 @@ aliasesArchive:
 - /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - /resources/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 - mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceId: KzNbrrBCmdE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:41Z
+videoId: KzNbrrBCmdE
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 resourceTypes:

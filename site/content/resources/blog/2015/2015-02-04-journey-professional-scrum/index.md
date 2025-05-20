@@ -1,27 +1,30 @@
 ---
 title: My journey into Professional Scrum
 description: Reflects on experiences with Professional Scrum, highlighting its impact on software development, team culture, training, and the challenges of scaling agile practices.
-ResourceId: PqEhZ1JIcDe
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11115
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2015-02-04
 weight: 415
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: journey-professional-scrum
 aliases:
 - /resources/PqEhZ1JIcDe
+ResourceId: PqEhZ1JIcDe
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11115
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/journey-professional-scrum
 - /journey-professional-scrum
 - /my-journey-into-professional-scrum
 - /blog/my-journey-into-professional-scrum
 - /resources/blog/journey-professional-scrum
+concepts: []
+categories:
+- Scrum
 tags:
 - Agile Transformation
 - Professional Scrum
@@ -31,12 +34,9 @@ tags:
 - Organisational Agility
 - Business Agility
 - Product Delivery
-categories:
-- Scrum
 preview: nakedalm-experts-professional-scrum-5-5.png
 Watermarks:
   description: 2025-05-12T14:20:04Z
-concepts: []
 
 ---
 It has been just over a year since I returned from 3 years in the USA and started naked ALM Consulting, and things are going well.. So far. The key to success in software development is, I believe, Professional Scrum.

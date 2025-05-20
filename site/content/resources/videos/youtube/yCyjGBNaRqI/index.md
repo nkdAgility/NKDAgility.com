@@ -1,11 +1,18 @@
 ---
+title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 description: Explores how team happiness, autonomy, mastery, and purpose drive engagement and lead to higher-quality, more impactful products in agile organisations.
 date: 2024-05-10T06:45:01Z
-ResourceId: yCyjGBNaRqI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+aliases:
+- /resources/yCyjGBNaRqI
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+- /resources/videos/nkd-agility-mission-and-purpose
+aliasesArchive:
+- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
+- /resources/videos/nkd-agility-mission-and-purpose
+- /resources/nkd-agility-mission-and-purpose
+- unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 concepts: []
 categories:
 - Leadership
@@ -20,27 +27,20 @@ tags:
 - Organisational Psychology
 - Team Collaboration
 - Self Organisation
+ResourceId: yCyjGBNaRqI
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:53Z
-title: 'Unlocking Naked Agility: How Happy Teams Drive Exceptional Products'
 videoId: yCyjGBNaRqI
 source: youtube
 url: /resources/videos/:slug
-slug: unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 layout: video
-aliases:
-- /resources/yCyjGBNaRqI
-- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
-- /resources/videos/nkd-agility-mission-and-purpose
-aliasesArchive:
-- /resources/videos/unlocking-naked-agility-how-happy-teams-drive-exceptional-products
-- /resources/videos/nkd-agility-mission-and-purpose
-- /resources/nkd-agility-mission-and-purpose
-- unlocking-naked-agility-how-happy-teams-drive-exceptional-products
 preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 resourceTypes:

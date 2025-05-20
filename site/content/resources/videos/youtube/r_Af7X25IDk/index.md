@@ -1,12 +1,31 @@
 ---
+title: 'Navigating Agile Transformation: Empowering Teams for Success in a Rapidly Changing Landscape'
 description: Explores effective Agile transformation by empowering teams, improving collaboration, focusing on value delivery, and fostering continuous improvement in fast-changing environments.
 date: 2020-04-17T18:57:11Z
-ResourceId: r_Af7X25IDk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 590
+slug: navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
+aliases:
+- /resources/r_Af7X25IDk
+ResourceId: r_Af7X25IDk
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:47Z
+videoId: r_Af7X25IDk
+source: youtube
+url: /resources/videos/:slug
+layout: video
+aliasesArchive:
+- /resources/videos/ep-leading-agile-change
+- /resources/videos/ep005-leading-agile-change
+- /resources/ep005-leading-agile-change
+- /resources/videos/navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
+- navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
 concepts:
 - Strategy
 categories:
@@ -24,27 +43,6 @@ tags:
 - Business Agility
 - Change Management
 - Value Delivery
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:47Z
-title: 'Navigating Agile Transformation: Empowering Teams for Success in a Rapidly Changing Landscape'
-videoId: r_Af7X25IDk
-source: youtube
-url: /resources/videos/:slug
-slug: navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
-layout: video
-aliases:
-- /resources/r_Af7X25IDk
-- /resources/videos/navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
-- /resources/videos/ep005-leading-agile-change
-aliasesArchive:
-- /resources/videos/ep-leading-agile-change
-- /resources/videos/ep005-leading-agile-change
-- /resources/ep005-leading-agile-change
-- /resources/videos/navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
-- navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
 preview: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 resourceTypes:

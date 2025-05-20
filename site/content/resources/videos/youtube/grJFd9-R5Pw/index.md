@@ -1,11 +1,18 @@
 ---
+title: How does the APS course help people apply scrum effectively?
 description: Explains how the APS course uses practical exercises and simulations to help people understand, apply, and improve scrum practices in real-world organisational settings.
 date: 2023-01-18T08:57:16Z
-ResourceId: grJFd9-R5Pw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
+slug: how-does-the-aps-course-help-people-apply-scrum-effectively
+aliases:
+- /resources/grJFd9-R5Pw
+- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
+aliasesArchive:
+- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
+- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively
+- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
+- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively-
+- how-does-the-aps-course-help-people-apply-scrum-effectively
 concepts:
 - Method
 categories:
@@ -21,27 +28,20 @@ tags:
 - Agile Transformation
 - Agile Planning
 - Scrum Master
+ResourceId: grJFd9-R5Pw
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:32Z
-title: How does the APS course help people apply scrum effectively?
 videoId: grJFd9-R5Pw
 source: internal
 url: /resources/videos/:slug
-slug: how-does-the-aps-course-help-people-apply-scrum-effectively
 layout: video
-aliases:
-- /resources/grJFd9-R5Pw
-- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
-aliasesArchive:
-- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively
-- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively
-- /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
-- /resources/how-does-the-aps-course-help-people-apply-scrum-effectively-
-- how-does-the-aps-course-help-people-apply-scrum-effectively
 preview: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg
 duration: 416
 resourceTypes:

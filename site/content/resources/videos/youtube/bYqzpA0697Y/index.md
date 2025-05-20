@@ -1,28 +1,9 @@
 ---
+title: 'Mastering Sustainable Scaling: Overcoming Product Development Challenges with Naked Agility'
 description: Learn how to overcome scaling challenges in product development by reducing technical debt, improving team alignment, and building sustainable, growth-ready systems.
 date: 2025-02-28T06:00:27Z
-ResourceId: bYqzpA0697Y
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 355
-concepts: []
-categories:
-- Product Development
-tags:
-- Scaling
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:21Z
-title: 'Mastering Sustainable Scaling: Overcoming Product Development Challenges with Naked Agility'
-videoId: bYqzpA0697Y
-source: internal
-url: /resources/videos/:slug
 slug: mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
-layout: video
 aliases:
 - /resources/bYqzpA0697Y
 - /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
@@ -37,6 +18,25 @@ aliasesArchive:
 - the-power-of-immersive-learning-in-scrum-training
 - /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
 - mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
+concepts: []
+categories:
+- Product Development
+tags:
+- Scaling
+ResourceId: bYqzpA0697Y
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:21Z
+videoId: bYqzpA0697Y
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/bYqzpA0697Y/maxresdefault.jpg
 duration: 87
 resourceTypes:

@@ -1,11 +1,18 @@
 ---
+title: Why did so many of the early agile transformations fail?
 description: Early agile transformations often failed due to top-down decisions, lack of team involvement, and misalignment between leadership and those doing the work.
 date: 2023-02-06T07:00:02Z
-ResourceId: 8nQ0VJ1CdqU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
+slug: why-did-so-many-of-the-early-agile-transformations-fail
+aliases:
+- /resources/8nQ0VJ1CdqU
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
+aliasesArchive:
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
+- /resources/why-did-so-many-of-the-early-agile-transformations-fail
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
+- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
+- why-did-so-many-of-the-early-agile-transformations-fail
 concepts: []
 categories:
 - Product Development
@@ -22,27 +29,20 @@ tags:
 - Organisational Culture
 - Sociotechnical Systems
 - Beta Codex
+ResourceId: 8nQ0VJ1CdqU
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:14Z
-title: Why did so many of the early agile transformations fail?
 videoId: 8nQ0VJ1CdqU
 source: internal
 url: /resources/videos/:slug
-slug: why-did-so-many-of-the-early-agile-transformations-fail
 layout: video
-aliases:
-- /resources/8nQ0VJ1CdqU
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
-aliasesArchive:
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
-- why-did-so-many-of-the-early-agile-transformations-fail
 preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
 duration: 231
 resourceTypes:

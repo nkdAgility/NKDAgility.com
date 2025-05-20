@@ -1,32 +1,9 @@
 ---
+title: 'Unlocking Value in DevOps: My Role as a Consultant in Driving Change and Overcoming Bottlenecks'
 description: Explains how a DevOps consultant identifies and resolves technical and process bottlenecks, driving continuous improvement and value delivery within organisations.
 date: 2023-05-02T07:00:00Z
-ResourceId: 0fz91w-_6vE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 330
-concepts: []
-categories:
-- DevOps
-tags:
-- Pragmatic Thinking
-- Software Development
-- Value Delivery
-- Operational Practices
-- Product Delivery
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:49Z
-title: 'Unlocking Value in DevOps: My Role as a Consultant in Driving Change and Overcoming Bottlenecks'
-videoId: 0fz91w-_6vE
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
-layout: video
 aliases:
 - /resources/0fz91w-_6vE
 - /resources/videos/unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/what-is-your-primary-role-in-a-devops-consulting-gig-
 - /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig
 - unlocking-value-in-devops-my-role-as-a-consultant-in-driving-change-and-overcoming-bottlenecks
+concepts: []
+categories:
+- DevOps
+tags:
+- Pragmatic Thinking
+- Software Development
+- Value Delivery
+- Operational Practices
+- Product Delivery
+ResourceId: 0fz91w-_6vE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:49Z
+videoId: 0fz91w-_6vE
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 resourceTypes:

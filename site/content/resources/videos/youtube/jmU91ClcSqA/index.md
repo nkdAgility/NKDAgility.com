@@ -1,36 +1,36 @@
 ---
+title: What is Project Management?
 description: Explains project management’s origins, key tools like the Gantt chart, and its evolution into a vital method for planning and delivering work in today’s business world.
 date: 2023-05-22T07:00:14Z
-ResourceId: jmU91ClcSqA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: what-is-project-management-jmU91ClcSqA
+aliases:
+- /resources/jmU91ClcSqA
+- /resources/videos/what-is-project-management-jmU91ClcSqA
+ResourceId: jmU91ClcSqA
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Uncategorized
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:19Z
-title: What is Project Management?
 videoId: jmU91ClcSqA
 source: internal
 url: /resources/videos/:slug
-slug: what-is-project-management-jmU91ClcSqA
 layout: video
-aliases:
-- /resources/jmU91ClcSqA
-- /resources/videos/what-is-project-management-jmU91ClcSqA
 aliasesArchive:
 - /resources/videos/what-is-project-management
 - /resources/what-is-project-management
 - /resources/videos/what-is-project-management-
 - /resources/what-is-project-management-
 - what-is-project-management-jmU91ClcSqA
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/jmU91ClcSqA/maxresdefault.jpg
 duration: 52
 resourceTypes:

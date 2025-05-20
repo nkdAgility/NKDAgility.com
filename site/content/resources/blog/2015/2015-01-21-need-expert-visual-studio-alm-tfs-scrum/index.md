@@ -1,21 +1,21 @@
 ---
 title: Do you need an expert in Visual Studio ALM, TFS, or Scrum?
 description: Expert consulting and onsite training available in Visual Studio ALM, TFS, and Scrum, including project migration, course delivery, and backlog-driven engagements worldwide.
-ResourceId: za3YB57XYl0
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11120
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2015-01-21
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: need-expert-visual-studio-alm-tfs-scrum
 aliases:
 - /resources/za3YB57XYl0
+ResourceId: za3YB57XYl0
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11120
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/need-expert-visual-studio-alm-tfs-scrum
 - /need-expert-visual-studio-alm-tfs-scrum
@@ -24,13 +24,13 @@ aliasesArchive:
 - /do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /blog/do-you-need-an-expert-in-visual-studio-alm--tfs--or-scrum-
 - /resources/blog/need-expert-visual-studio-alm-tfs-scrum
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: nakedalm-logo-260-5-5.png
 Watermarks:
   description: 2025-05-12T14:20:12Z
-concepts: []
 
 ---
 Due to the decimation of the oil prices one of my larger customers has had to cancel our engagement for February. I am suddenly and surprisingly available in February!

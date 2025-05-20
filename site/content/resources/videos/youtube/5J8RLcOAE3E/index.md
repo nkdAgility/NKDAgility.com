@@ -1,11 +1,21 @@
 ---
+title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments"
 description: Explores why fixed best practices don't suit complex continuous delivery, highlighting adaptive approaches like audience-based delivery, testing in production, and ongoing improvement.
 date: 2025-01-23T06:30:03Z
-ResourceId: 5J8RLcOAE3E
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 255
+slug: rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+aliases:
+- /resources/5J8RLcOAE3E
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
+aliasesArchive:
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+- /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
+- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
+- rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
 concepts: []
 categories:
 - Engineering Excellence
@@ -21,29 +31,20 @@ tags:
 - Working Software
 - Product Delivery
 - Customer Focus
+ResourceId: 5J8RLcOAE3E
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:55Z
-title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments"
 videoId: 5J8RLcOAE3E
 source: youtube
 url: /resources/videos/:slug
-slug: rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
 layout: video
-aliases:
-- /resources/5J8RLcOAE3E
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
-aliasesArchive:
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
-- /resources/continuous-delivery-without-compromise-why-best-practices-don’t-exist-in-complex-systems
-- /resources/videos/continuous-delivery-without-compromise-why-best-practices-dont-exist-in-complex-systems
-- rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
-- /resources/videos/rethinking-continuous-delivery-why-best-practices-don-t-exist-in-complex-environments
 preview: https://i.ytimg.com/vi/5J8RLcOAE3E/maxresdefault.jpg
 duration: 891
 resourceTypes:

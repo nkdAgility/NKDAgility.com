@@ -1,30 +1,9 @@
 ---
+title: 'Balancing Speed and Stability: Why Quality Should Always Come First in Delivery Management'
 description: Explores why prioritising quality and stability over speed in delivery management leads to better long-term outcomes, even when facing tight deadlines or external pressure.
 date: 2025-01-24T06:30:21Z
-ResourceId: Tz784ysJX7Q
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 450
-concepts: []
-categories:
-- Engineering Excellence
-- Product Development
-tags:
-- Pragmatic Thinking
-- Product Delivery
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:54Z
-title: 'Balancing Speed and Stability: Why Quality Should Always Come First in Delivery Management'
-videoId: Tz784ysJX7Q
-source: youtube
-url: /resources/videos/:slug
 slug: balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
-layout: video
 aliases:
 - /resources/Tz784ysJX7Q
 - /resources/videos/balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
@@ -34,6 +13,27 @@ aliasesArchive:
 - /resources/videos/balancing-speed-and-stability-in-delivery
 - /resources/balancing-speed-and-stability-in-delivery
 - balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management
+concepts: []
+categories:
+- Engineering Excellence
+- Product Development
+tags:
+- Pragmatic Thinking
+- Product Delivery
+ResourceId: Tz784ysJX7Q
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:54Z
+videoId: Tz784ysJX7Q
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/Tz784ysJX7Q/maxresdefault.jpg
 duration: 469
 resourceTypes:

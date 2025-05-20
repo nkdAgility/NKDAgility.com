@@ -1,34 +1,34 @@
 ---
 title: The value of an independent Scotland for me
 description: Personal reflections on Scottish independence, exploring self-determination, media bias, economic control, immigration, and the long-term value for future generations.
-ResourceId: kmgdXtKVzGS
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10655
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-07-13
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-value-of-an-independent-scotland
 aliases:
 - /resources/kmgdXtKVzGS
+ResourceId: kmgdXtKVzGS
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10655
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/the-value-of-an-independent-scotland
 - /the-value-of-an-independent-scotland
 - /the-value-of-an-independent-scotland-for-me
 - /blog/the-value-of-an-independent-scotland-for-me
 - /resources/blog/the-value-of-an-independent-scotland
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: metro-yes-scotland-128-link-1-1.png
 Watermarks:
   description: 2025-05-12T14:21:30Z
-concepts: []
 
 ---
 For the last wee while some of you may have noticed some news coverage about Scottish independence. This post is about the value of an independent Scotland for me, so if you are not interested in politics then move along. It will all be over in a few months and you will likely never have to hear about it outside of history again.

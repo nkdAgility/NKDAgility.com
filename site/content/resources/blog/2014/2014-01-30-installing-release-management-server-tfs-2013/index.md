@@ -1,35 +1,35 @@
 ---
 title: Installing Release Management Server for TFS 2013
 description: Step-by-step guide to downloading, installing, and configuring Release Management Server for Team Foundation Server 2013, including offline setup and key configuration tips.
-ResourceId: 9xXIHbs9zmA
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10351
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-01-30
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: installing-release-management-server-tfs-2013
 aliases:
 - /resources/9xXIHbs9zmA
+ResourceId: 9xXIHbs9zmA
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10351
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/installing-release-management-server-tfs-2013
 - /installing-release-management-server-tfs-2013
 - /installing-release-management-server-for-tfs-2013
 - /blog/installing-release-management-server-for-tfs-2013
 - /resources/blog/installing-release-management-server-tfs-2013
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Install and Configuration
 - System Configuration
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-12T14:22:21Z
-concepts: []
 
 ---
 Unless you have been living under a rock you might have noticed that Microsoft has added a Release Management tool to its Visual Studio product line. I have been playing with it for a while now and I think I have it figured out. However as this is a new addition to the product it is extremely poorly documented.

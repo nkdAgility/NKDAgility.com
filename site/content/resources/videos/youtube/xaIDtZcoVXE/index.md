@@ -1,11 +1,20 @@
 ---
+title: How Do You Know How Long It Takes to Deliver Value?
 description: Explains how Agile teams can measure and improve Time to Market using key metrics like lead time, cycle time, and time to fix to deliver value to customers faster.
 date: 2024-01-26T11:00:51Z
-ResourceId: xaIDtZcoVXE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 475
+slug: how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
+aliases:
+- /resources/xaIDtZcoVXE
+- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
+- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+aliasesArchive:
+- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
+- /resources/how-do-you-know-how-long-it-takes-to-deliver-value
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+- how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
 concepts:
 - Model
 categories:
@@ -27,29 +36,20 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Current Value
+ResourceId: xaIDtZcoVXE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:06:10Z
-title: How Do You Know How Long It Takes to Deliver Value?
 videoId: xaIDtZcoVXE
 source: internal
 url: /resources/videos/:slug
-slug: how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
 layout: video
-aliases:
-- /resources/xaIDtZcoVXE
-- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
-- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
-aliasesArchive:
-- /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/how-do-you-know-how-long-it-takes-to-deliver-value
-- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
-- /resources/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
-- how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
 preview: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg
 duration: 33
 resourceTypes:

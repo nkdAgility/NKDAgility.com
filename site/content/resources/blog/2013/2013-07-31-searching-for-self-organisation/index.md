@@ -1,25 +1,29 @@
 ---
 title: Searching for self-organisation
 description: Explores the challenges and benefits of self-organising teams, highlighting key factors like team accountability, identity, size, and consistency for effective collaboration.
-ResourceId: EjoEHTWiJtf
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9741
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-07-31
 weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: searching-for-self-organisation
 aliases:
 - /resources/EjoEHTWiJtf
+ResourceId: EjoEHTWiJtf
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9741
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/searching-for-self-organisation
 - /searching-for-self-organisation
 - /resources/blog/searching-for-self-organisation
+concepts: []
+categories:
+- Leadership
+- Scrum
 tags:
 - Agile Values and Principles
 - Team Collaboration
@@ -33,13 +37,9 @@ tags:
 - Organisational Culture
 - Scrum Team
 - Pragmatic Thinking
-categories:
-- Leadership
-- Scrum
 preview: nakedalm-experts-professional-scrum-1-1.png
 Watermarks:
   description: 2025-05-12T14:23:30Z
-concepts: []
 
 ---
 Many companies have started searching for self-organisation. That ideal or nirvana where teams can figure out how to work together effectively with limited or little direction to solve problems.

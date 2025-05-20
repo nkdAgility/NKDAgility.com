@@ -1,11 +1,20 @@
 ---
+title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
 description: Explains how to use data in Agile management to guide decisions and behaviours, focusing on informed outcomes without letting metrics control teams or stifle value delivery.
 date: 2024-09-11T13:36:29Z
-ResourceId: 66NuAjzWreY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
+slug: mastering-evidence-based-management-in-agile-inform-dont-control
+aliases:
+- /resources/66NuAjzWreY
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/videos/introduction-to-evidence-based-management
+aliasesArchive:
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/videos/introduction-to-evidence-based-management
+- /resources/introduction-to-evidence-based-management
+- mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/videos/mastering-evidence-based-management-in-agile-inform-don-t-control
 concepts:
 - Model
 categories:
@@ -20,29 +29,20 @@ tags:
 - Pragmatic Thinking
 - Customer Focus
 - Value Delivery
+ResourceId: 66NuAjzWreY
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:58:34Z
-title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
 videoId: 66NuAjzWreY
 source: internal
 url: /resources/videos/:slug
-slug: mastering-evidence-based-management-in-agile-inform-dont-control
 layout: video
-aliases:
-- /resources/66NuAjzWreY
-- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/videos/introduction-to-evidence-based-management
-aliasesArchive:
-- /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/videos/introduction-to-evidence-based-management
-- /resources/introduction-to-evidence-based-management
-- mastering-evidence-based-management-in-agile-inform-dont-control
-- /resources/videos/mastering-evidence-based-management-in-agile-inform-don-t-control
 preview: https://i.ytimg.com/vi/66NuAjzWreY/maxresdefault.jpg
 duration: 414
 resourceTypes:

@@ -1,27 +1,9 @@
 ---
+title: 'Scaling Teams: How to Foster Innovation Without Falling into Bureaucracy'
 description: Explores how organisations can scale teams to boost innovation while avoiding bureaucracy, focusing on empowerment, streamlined processes, and agile communication.
 date: 2025-02-27T11:00:09Z
-ResourceId: 3X2Oka9IrKw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 630
-concepts: []
-categories:
-- Product Development
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:22Z
-title: 'Scaling Teams: How to Foster Innovation Without Falling into Bureaucracy'
-videoId: 3X2Oka9IrKw
-source: internal
-url: /resources/videos/:slug
 slug: scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
-layout: video
 aliases:
 - /resources/3X2Oka9IrKw
 - /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
@@ -35,6 +17,24 @@ aliasesArchive:
 - /resources/videos/the-secret-to-avoiding-bureaucracy-while-scaling
 - /resources/videos/scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
 - scaling-teams-how-to-foster-innovation-without-falling-into-bureaucracy
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceId: 3X2Oka9IrKw
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:22Z
+videoId: 3X2Oka9IrKw
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/3X2Oka9IrKw/maxresdefault.jpg
 duration: 73
 resourceTypes:

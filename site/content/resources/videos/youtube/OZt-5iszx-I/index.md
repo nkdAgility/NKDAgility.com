@@ -1,11 +1,21 @@
 ---
+title: 'Turning User Feedback into Actionable Work: A Guide to Maximizing Product Value'
 description: Learn how to quickly turn user feedback into actionable work items in Agile teams, improving product value through fast feedback loops, prioritisation, and continuous improvement.
 date: 2024-07-10T06:45:01Z
-ResourceId: OZt-5iszx-I
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
+aliases:
+- /resources/OZt-5iszx-I
+- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
+- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-3
+aliasesArchive:
+- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+- /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-3
+- turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
 concepts:
 - Practice
 categories:
@@ -27,30 +37,20 @@ tags:
 - Product Backlog
 - Value Delivery
 - Business Agility
+ResourceId: OZt-5iszx-I
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:39Z
-title: 'Turning User Feedback into Actionable Work: A Guide to Maximizing Product Value'
 videoId: OZt-5iszx-I
 source: internal
 url: /resources/videos/:slug
-slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
 layout: video
-aliases:
-- /resources/OZt-5iszx-I
-- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
-- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-3
-aliasesArchive:
-- /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
-- /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-3
-- turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
 preview: https://i.ytimg.com/vi/OZt-5iszx-I/maxresdefault.jpg
 duration: 56
 resourceTypes:

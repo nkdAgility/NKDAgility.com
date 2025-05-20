@@ -1,29 +1,9 @@
 ---
+title: 'Transforming Enterprises: How DevOps Drives Collaboration and Continuous Improvement'
 description: Explores how DevOps enhances enterprise collaboration, continuous improvement, automation, and customer focus to drive cultural and operational transformation.
 date: 2020-06-16T12:16:52Z
-ResourceId: kOgKt8w_hWY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Principle
-categories:
-- DevOps
-tags:
-- Social Technologies
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:39Z
-title: 'Transforming Enterprises: How DevOps Drives Collaboration and Continuous Improvement'
-videoId: kOgKt8w_hWY
-source: youtube
-url: /resources/videos/:slug
 slug: transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement-kOgKt8w_hWY
-layout: video
 aliases:
 - /resources/kOgKt8w_hWY
 - /resources/videos/transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement-kOgKt8w_hWY
@@ -34,6 +14,26 @@ aliasesArchive:
 - /resources/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 - /resources/videos/transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
 - transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement-kOgKt8w_hWY
+concepts:
+- Principle
+categories:
+- DevOps
+tags:
+- Social Technologies
+ResourceId: kOgKt8w_hWY
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:39Z
+videoId: kOgKt8w_hWY
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/kOgKt8w_hWY/maxresdefault.jpg
 duration: 35
 resourceTypes:

@@ -1,31 +1,9 @@
 ---
+title: 'Mastering the Art of Scaling Agile: Strategies to Maintain Agility Across Multiple Teams'
 description: Learn effective strategies for scaling agile across multiple teams, managing dependencies, avoiding common pitfalls, and maintaining agility as your organisation grows.
 date: 2025-02-26T06:00:08Z
-ResourceId: 8lUeIYEGg7k
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 630
-concepts:
-- Framework
-categories:
-- Product Development
-tags:
-- Scaling
-- Large Scale Agility
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:25Z
-title: 'Mastering the Art of Scaling Agile: Strategies to Maintain Agility Across Multiple Teams'
-videoId: 8lUeIYEGg7k
-source: internal
-url: /resources/videos/:slug
 slug: mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
-layout: video
 aliases:
 - /resources/8lUeIYEGg7k
 - /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
@@ -40,6 +18,28 @@ aliasesArchive:
 - why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 - /resources/videos/mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
 - mastering-the-art-of-scaling-agile-strategies-to-maintain-agility-across-multiple-teams
+concepts:
+- Framework
+categories:
+- Product Development
+tags:
+- Scaling
+- Large Scale Agility
+- Pragmatic Thinking
+ResourceId: 8lUeIYEGg7k
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:25Z
+videoId: 8lUeIYEGg7k
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/8lUeIYEGg7k/maxresdefault.jpg
 duration: 75
 resourceTypes:

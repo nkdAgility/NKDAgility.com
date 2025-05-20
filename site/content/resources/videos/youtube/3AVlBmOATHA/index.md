@@ -1,11 +1,18 @@
 ---
+title: How would you help organizations pitch the opportunity of agile internally?
 description: Learn how to build a compelling business case for agile adoption by aligning benefits with key metrics, stakeholder goals, and inclusive change management strategies.
 date: 2023-02-08T07:15:00Z
-ResourceId: 3AVlBmOATHA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+aliases:
+- /resources/3AVlBmOATHA
+- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+aliasesArchive:
+- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
+- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
+- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
+- how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 concepts: []
 categories:
 - Leadership
@@ -16,27 +23,20 @@ tags:
 - Software Development
 - Agile Strategy
 - Value Delivery
+ResourceId: 3AVlBmOATHA
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:14:11Z
-title: How would you help organizations pitch the opportunity of agile internally?
 videoId: 3AVlBmOATHA
 source: internal
 url: /resources/videos/:slug
-slug: how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 layout: video
-aliases:
-- /resources/3AVlBmOATHA
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-aliasesArchive:
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
-- /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
-- /resources/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
-- how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
 duration: 371
 resourceTypes:

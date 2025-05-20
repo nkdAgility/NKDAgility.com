@@ -1,31 +1,9 @@
 ---
+title: 'From Product Owner to Systemic Leader: Embracing the Evolution in Agile Leadership'
 description: Explores how experienced Product Owners transition into systemic leaders, focusing on increased accountability, organisational impact, and fostering Agile team culture.
 date: 2023-07-28T07:00:14Z
-ResourceId: cFVvgI3Girg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
-concepts: []
-categories:
-- Leadership
-- Product Development
-tags:
-- Agile Product Management
-- Agile Leadership
-- Organisational Agility
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:31Z
-title: 'From Product Owner to Systemic Leader: Embracing the Evolution in Agile Leadership'
-videoId: cFVvgI3Girg
-source: youtube
-url: /resources/videos/:slug
 slug: from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
-layout: video
 aliases:
 - /resources/cFVvgI3Girg
 - /resources/videos/from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
@@ -35,6 +13,28 @@ aliasesArchive:
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 - from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
+concepts: []
+categories:
+- Leadership
+- Product Development
+tags:
+- Agile Product Management
+- Agile Leadership
+- Organisational Agility
+ResourceId: cFVvgI3Girg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:31Z
+videoId: cFVvgI3Girg
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 resourceTypes:

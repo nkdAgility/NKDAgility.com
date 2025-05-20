@@ -1,28 +1,9 @@
 ---
+title: 'Challenging the Tyranny of Taylorism: Embracing True Agility in the Workplace'
 description: Explores how outdated Taylorist management limits creativity and true agility, offering ways to spot and overcome ineffective agile practices for better teamwork and innovation.
 date: 2020-06-24T17:48:17Z
-ResourceId: 56nUC8jR2v8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:33Z
-title: 'Challenging the Tyranny of Taylorism: Embracing True Agility in the Workplace'
-videoId: 56nUC8jR2v8
-source: youtube
-url: /resources/videos/:slug
 slug: challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
-layout: video
 aliases:
 - /resources/56nUC8jR2v8
 - /resources/videos/challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
@@ -33,6 +14,25 @@ aliasesArchive:
 - /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 - /resources/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 - challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags: []
+ResourceId: 56nUC8jR2v8
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:33Z
+videoId: 56nUC8jR2v8
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 resourceTypes:

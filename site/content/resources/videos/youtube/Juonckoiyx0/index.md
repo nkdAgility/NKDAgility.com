@@ -1,11 +1,17 @@
 ---
+title: What should be top of mind when a Scrum team prepare for a Sprint review?
 description: Learn how Scrum teams can boost Sprint review success by engaging stakeholders, tailoring communication, and focusing on value, transparency, and active participation.
 date: 2023-09-04T07:00:13Z
-ResourceId: Juonckoiyx0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
+slug: what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
+aliases:
+- /resources/Juonckoiyx0
+- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
+aliasesArchive:
+- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
+- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
+- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
+- what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 concepts: []
 categories:
 - Scrum
@@ -20,26 +26,20 @@ tags:
 - Agile Planning
 - Agile Frameworks
 - Product Delivery
+ResourceId: Juonckoiyx0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:43Z
-title: What should be top of mind when a Scrum team prepare for a Sprint review?
 videoId: Juonckoiyx0
 source: internal
 url: /resources/videos/:slug
-slug: what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 layout: video
-aliases:
-- /resources/Juonckoiyx0
-- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-aliasesArchive:
-- /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
-- /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
-- what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 preview: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg
 duration: 155
 resourceTypes:

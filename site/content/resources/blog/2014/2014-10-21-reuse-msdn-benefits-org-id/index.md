@@ -1,34 +1,34 @@
 ---
 title: Reuse your MSDN benefits with your Org ID
 description: Learn how to transfer MSDN benefits from a personal Microsoft ID to an organisational account by cancelling existing subscriptions and reactivating with your Org ID.
-ResourceId: kBoaPAZssaV
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10786
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-10-21
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: reuse-msdn-benefits-org-id
 aliases:
 - /resources/kBoaPAZssaV
+ResourceId: kBoaPAZssaV
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10786
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/reuse-msdn-benefits-org-id
 - /reuse-msdn-benefits-org-id
 - /reuse-your-msdn-benefits-with-your-org-id
 - /blog/reuse-your-msdn-benefits-with-your-org-id
 - /resources/blog/reuse-msdn-benefits-org-id
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 Watermarks:
   description: 2025-05-12T14:20:57Z
-concepts: []
 
 ---
 If you are trying to reuse your MSDN benefits with your Org ID but you previously activated against your Microsoft ID then you will need to cancel your subscription to reuse it.

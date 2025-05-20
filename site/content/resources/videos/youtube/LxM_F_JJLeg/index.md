@@ -1,11 +1,19 @@
 ---
+title: 'Transforming Agile: How to Shift from Blame to Systemic Solutions for Better Team Dynamics'
 description: Explores how shifting from blame to addressing systemic issues and measurement systems can improve team dynamics, collaboration, and agility in software development.
 date: 2023-09-29T07:00:14Z
-ResourceId: LxM_F_JJLeg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
+aliases:
+- /resources/LxM_F_JJLeg
+- /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
+- /resources/videos/dont-put-down-to-malevolence-what-can-be-explained-by-incompetence
+aliasesArchive:
+- /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
+- /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
+- /resources/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
+- /resources/videos/dont-put-down-to-malevolence-what-can-be-explained-by-incompetence
+- transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
 concepts:
 - Ethos
 categories:
@@ -20,28 +28,20 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 - Sociotechnical Systems
+ResourceId: LxM_F_JJLeg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:09:08Z
-title: 'Transforming Agile: How to Shift from Blame to Systemic Solutions for Better Team Dynamics'
 videoId: LxM_F_JJLeg
 source: youtube
 url: /resources/videos/:slug
-slug: transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
 layout: video
-aliases:
-- /resources/LxM_F_JJLeg
-- /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
-- /resources/videos/dont-put-down-to-malevolence-what-can-be-explained-by-incompetence
-aliasesArchive:
-- /resources/videos/transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
-- /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
-- /resources/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
-- /resources/videos/dont-put-down-to-malevolence-what-can-be-explained-by-incompetence
-- transforming-agile-how-to-shift-from-blame-to-systemic-solutions-for-better-team-dynamics
 preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 resourceTypes:

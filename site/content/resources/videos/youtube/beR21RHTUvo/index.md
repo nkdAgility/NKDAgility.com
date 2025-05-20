@@ -1,32 +1,9 @@
 ---
+title: 'Story Points: A Ghost of Agile Past'
 description: Explores the problems with story points in Agile, their impact on team behaviour, and why flow metrics offer a better way to measure progress and deliver real value.
 date: 2023-12-29T07:00:14Z
-ResourceId: beR21RHTUvo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-tags:
-- Flow Efficiency
-- Value Delivery
-- Throughput
-- Agile Philosophy
-- Metrics and Learning
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:45Z
-title: 'Story Points: A Ghost of Agile Past'
-videoId: beR21RHTUvo
-source: internal
-url: /resources/videos/:slug
 slug: story-points-a-ghost-of-agile-past
-layout: video
 aliases:
 - /resources/beR21RHTUvo
 - /resources/videos/story-points-a-ghost-of-agile-past
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/videos/5-ghosts-of-agile-past-story-points
 - /resources/5-ghosts-of-agile-past-story-points
 - story-points-a-ghost-of-agile-past
+concepts: []
+categories:
+- Product Development
+tags:
+- Flow Efficiency
+- Value Delivery
+- Throughput
+- Agile Philosophy
+- Metrics and Learning
+ResourceId: beR21RHTUvo
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:45Z
+videoId: beR21RHTUvo
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
 duration: 433
 resourceTypes:

@@ -1,28 +1,9 @@
 ---
+title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
 description: Discover how immersive learning empowers experienced Agile professionals to deepen skills, tackle real-world challenges, and accelerate growth through hands-on practice.
 date: 2023-08-01T07:00:19Z
-ResourceId: VjPslpF3fTc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Competence
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:30Z
-title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
-videoId: VjPslpF3fTc
-source: internal
-url: /resources/videos/:slug
 slug: how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
-layout: video
 aliases:
 - /resources/VjPslpF3fTc
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
@@ -33,6 +14,25 @@ aliasesArchive:
 - /resources/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 - how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+ResourceId: VjPslpF3fTc
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:30Z
+videoId: VjPslpF3fTc
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
 duration: 122
 resourceTypes:

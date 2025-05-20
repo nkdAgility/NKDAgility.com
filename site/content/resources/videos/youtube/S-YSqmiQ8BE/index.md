@@ -1,27 +1,9 @@
 ---
+title: 'Navigating the Legacy System Dilemma: Balancing Stability and Innovation for Modernisation Success'
 description: Learn how to modernise legacy systems by balancing stability and innovation, managing technical debt, and adopting gradual, sustainable improvements for long-term success.
 date: 2025-04-14T06:00:33Z
-ResourceId: S-YSqmiQ8BE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 480
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:14Z
-title: 'Navigating the Legacy System Dilemma: Balancing Stability and Innovation for Modernisation Success'
-videoId: S-YSqmiQ8BE
-source: internal
-url: /resources/videos/:slug
 slug: navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
-layout: video
 aliases:
 - /resources/S-YSqmiQ8BE
 - /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
@@ -35,6 +17,24 @@ aliasesArchive:
 - /resources/videos/2-balancing-innovation-with-stability-the-ctos-challenge
 - /resources/videos/navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 - navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: S-YSqmiQ8BE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:14Z
+videoId: S-YSqmiQ8BE
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/S-YSqmiQ8BE/maxresdefault.jpg
 duration: 93
 resourceTypes:

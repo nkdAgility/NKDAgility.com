@@ -1,39 +1,37 @@
 ---
+title: 'Mastering TFS Release Management: A Step-by-Step Guide to Smooth Configuration'
 description: Learn how to configure release management in Team Foundation Server (TFS) with step-by-step setup, troubleshooting tips, and best practices for smooth deployment workflows.
 date: 2014-01-02T15:27:09Z
-ResourceId: 9CkvfRic8e0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
+aliases:
+- /resources/9CkvfRic8e0
+ResourceId: 9CkvfRic8e0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-tags:
-- Install and Configuration
-- System Configuration
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-12T14:22:48Z
-concepts: []
-title: 'Mastering TFS Release Management: A Step-by-Step Guide to Smooth Configuration'
 videoId: 9CkvfRic8e0
 source: youtube
 url: /resources/videos/:slug
-slug: mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
 layout: video
-aliases:
-- /resources/9CkvfRic8e0
-- /resources/videos/mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
-- /resources/videos/connecting-release-manageer-to-tfs-2013
 aliasesArchive:
 - /resources/videos/mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
 - /resources/videos/connecting-release-manageer-to-tfs-2013
 - /resources/connecting-release-manageer-to-tfs-2013
 - mastering-tfs-release-management-a-step-by-step-guide-to-smooth-configuration
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Install and Configuration
+- System Configuration
+- Software Development
 preview: https://i.ytimg.com/vi/9CkvfRic8e0/maxresdefault.jpg
 duration: 141
 resourceTypes:

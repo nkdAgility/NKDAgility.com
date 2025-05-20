@@ -1,35 +1,35 @@
 ---
+title: Advanced PSM II Immersive Learning Classes
 description: Private advanced Scrum Master classes offering immersive learning to improve team outcomes and agile skills, tailored for organisations seeking better Scrum results.
 date: 2024-09-20T11:04:29Z
-ResourceId: Bi4ToMME8Xs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs
+aliases:
+- /resources/Bi4ToMME8Xs
+- /resources/videos/advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs
+ResourceId: Bi4ToMME8Xs
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Uncategorized
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 Watermarks:
   description: 2025-05-07T12:57:40Z
-title: Advanced PSM II Immersive Learning Classes
 videoId: Bi4ToMME8Xs
 source: youtube
 url: /resources/videos/:slug
-slug: advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs
 layout: video
 canonicalUrl: https://www.youtube.com/watch?v=Bi4ToMME8Xs
-aliases:
-- /resources/Bi4ToMME8Xs
-- /resources/videos/advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs
 aliasesArchive:
 - /resources/videos/advanced-psm-ii-immersive-learning-classes
 - /resources/advanced-psm-ii-immersive-learning-classes
 - advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 resourceTypes:

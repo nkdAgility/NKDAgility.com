@@ -1,37 +1,37 @@
 ---
 title: Merge Team Projects into one in TFS
 description: Step-by-step guide to merging multiple TFS Team Projects into one, covering TFS Integration Tools setup, configuration, work item and source control migration, and best practices.
-ResourceId: -0YnGYCeikc
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10638
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-07-30
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: merge-many-team-projects-one-tfs
 aliases:
 - /resources/-0YnGYCeikc
+ResourceId: -0YnGYCeikc
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10638
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/merge-many-team-projects-one-tfs
 - /merge-many-team-projects-one-tfs
 - /merge-team-projects-into-one-in-tfs
 - /blog/merge-team-projects-into-one-in-tfs
 - /resources/blog/merge-many-team-projects-one-tfs
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Software Development
 - Install and Configuration
 - System Configuration
-categories:
-- Uncategorized
 preview: nakedalm-experts-visual-studio-alm-8-8.png
 Watermarks:
   description: 2025-05-12T14:21:25Z
-concepts: []
 
 ---
 In TFS 2012 the product team introduced the concept of Teams into TFS. Before this many organisations created multiple Team Projects and now want to merge Team Projects into one, or at least fewer. There are many reasons you might have done this in the past but there is no reason to live with this.

@@ -1,18 +1,8 @@
 ---
 title: Writing .NET in PowerShell and creating TFS Teams
 description: Learn how to use PowerShell to access .NET objects and automate creating Teams in TFS, including referencing assemblies, handling dialogs, and error management.
-ResourceId: 52GnS0fI67Q
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9903
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-06-13
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: writing-net-in-powershell-and-creating-tfs-teams
 aliases:
 - /resources/blog/writing-.net-in-powershell-and-creating-tfs-teams
@@ -24,14 +14,24 @@ aliasesArchive:
 - /blog/writing--net-in-powershell-and-creating-tfs-teams
 - /resources/blog/writing-net-in-powershell-and-creating-tfs-teams
 - /resources/blog/writing-.net-in-powershell-and-creating-tfs-teams
-tags:
-- Software Development
+concepts: []
 categories:
 - Uncategorized
+tags:
+- Software Development
+ResourceId: 52GnS0fI67Q
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9903
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 preview: image11-1-1.png
 Watermarks:
   description: 2025-05-13T15:06:19Z
-concepts: []
 
 ---
 Did you know that you could be writing .NET in PowerShell? PowerShell can be used to instanciate and call any .NET object and that includes the TFS API.

@@ -1,32 +1,9 @@
 ---
+title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success'
 description: Explores how probabilistic forecasting improves software project planning by replacing traditional estimation with data-driven confidence levels for agile delivery.
 date: 2024-12-05T06:30:00Z
-ResourceId: mZvRMHFUarM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Product Development
-tags:
-- Estimation
-- Forecasting
-- Pragmatic Thinking
-- Software Development
-- Decision Theory
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:56:53Z
-title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success'
-videoId: mZvRMHFUarM
-source: youtube
-url: /resources/videos/:slug
 slug: rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
-layout: video
 aliases:
 - /resources/mZvRMHFUarM
 - /resources/videos/rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
@@ -36,6 +13,29 @@ aliasesArchive:
 - /resources/videos/estimating-with-confidence
 - /resources/estimating-with-confidence
 - rethinking-software-estimation-embrace-probabilistic-forecasting-for-agile-success
+concepts: []
+categories:
+- Product Development
+tags:
+- Estimation
+- Forecasting
+- Pragmatic Thinking
+- Software Development
+- Decision Theory
+ResourceId: mZvRMHFUarM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:53Z
+videoId: mZvRMHFUarM
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i9.ytimg.com/vi/mZvRMHFUarM/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLDXszYYhCvp1Mjo0PCTnMDkMR9M5w
 duration: 201
 resourceTypes:

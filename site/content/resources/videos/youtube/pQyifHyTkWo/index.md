@@ -1,29 +1,9 @@
 ---
+title: 'Navigating the Shift: Key Strategies for a Successful Transition to Microservices'
 description: Learn essential strategies for transitioning from monolithic systems to microservices, including planning, team alignment, managing complexity, and ensuring scalable delivery.
 date: 2025-04-21T06:00:41Z
-ResourceId: pQyifHyTkWo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 330
-concepts:
-- Strategy
-categories:
-- Uncategorized
-tags:
-- Software Development
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:13Z
-title: 'Navigating the Shift: Key Strategies for a Successful Transition to Microservices'
-videoId: pQyifHyTkWo
-source: youtube
-url: /resources/videos/:slug
 slug: navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
-layout: video
 aliases:
 - /resources/pQyifHyTkWo
 - /resources/videos/navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
@@ -37,6 +17,26 @@ aliasesArchive:
 - /resources/videos/3-from-monolith-to-microservices-making-the-transition-smooth
 - /resources/videos/navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
 - navigating-the-shift-key-strategies-for-a-successful-transition-to-microservices
+concepts:
+- Strategy
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceId: pQyifHyTkWo
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:13Z
+videoId: pQyifHyTkWo
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/pQyifHyTkWo/maxresdefault.jpg
 duration: 120
 resourceTypes:

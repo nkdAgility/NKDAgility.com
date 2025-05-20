@@ -1,29 +1,9 @@
 ---
+title: Overcoming the Ghost of Agile Certifications
 description: Explores the limits of Agile certifications, emphasising real-world experience, continuous learning, and team validation over credentials for true professional growth.
 date: 2024-01-02T07:00:20Z
-ResourceId: eLkJ_YEhMB0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Scrum
-tags:
-- Software Development
-- Personal
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:06:43Z
-title: Overcoming the Ghost of Agile Certifications
-videoId: eLkJ_YEhMB0
-source: internal
-url: /resources/videos/:slug
 slug: overcoming-the-ghost-of-agile-certifications
-layout: video
 aliases:
 - /resources/eLkJ_YEhMB0
 - /resources/videos/overcoming-the-ghost-of-agile-certifications
@@ -34,6 +14,26 @@ aliasesArchive:
 - /resources/videos/5-ghosts-of-agile-past-3-questions
 - /resources/5-ghosts-of-agile-past-3-questions
 - overcoming-the-ghost-of-agile-certifications
+concepts: []
+categories:
+- Scrum
+tags:
+- Software Development
+- Personal
+ResourceId: eLkJ_YEhMB0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:43Z
+videoId: eLkJ_YEhMB0
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371
 resourceTypes:

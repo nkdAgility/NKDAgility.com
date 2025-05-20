@@ -1,30 +1,9 @@
 ---
+title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
 description: Learn key negotiation skills for Product Owners to manage stakeholders, balance priorities, and maximise product value through effective communication and decision-making.
 date: 2023-12-13T07:00:07Z
-ResourceId: DBa5_WhA68M
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Product Owner
-- Value Delivery
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:01Z
-title: 'The Art of Negotiation for Product Owners: Essential Skills to Master'
-videoId: DBa5_WhA68M
-source: internal
-url: /resources/videos/:slug
 slug: the-art-of-negotiation-for-product-owners-essential-skills-to-master
-layout: video
 aliases:
 - /resources/DBa5_WhA68M
 - /resources/videos/the-art-of-negotiation-for-product-owners-essential-skills-to-master
@@ -35,6 +14,27 @@ aliasesArchive:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-1
 - the-art-of-negotiation-for-product-owners-essential-skills-to-master
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Product Owner
+- Value Delivery
+ResourceId: DBa5_WhA68M
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:01Z
+videoId: DBa5_WhA68M
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg
 duration: 330
 resourceTypes:

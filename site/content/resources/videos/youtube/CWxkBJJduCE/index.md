@@ -1,33 +1,9 @@
 ---
+title: 'Transform Your Software Architecture: The Game-Changing Impact of TDD and Pair Programming'
 description: Explores how test-driven development and pair programming improve software architecture, code quality, team skills, and long-term productivity by reducing complexity and errors.
 date: 2024-11-19T16:55:41Z
-ResourceId: CWxkBJJduCE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 300
-concepts:
-- Practice
-categories:
-- Engineering Excellence
-tags:
-- Engineering Practices
-- Software Development
-- Technical Mastery
-- Test Driven Development
-- Technical Excellence
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:18Z
-title: 'Transform Your Software Architecture: The Game-Changing Impact of TDD and Pair Programming'
-videoId: CWxkBJJduCE
-source: youtube
-url: /resources/videos/:slug
 slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
-layout: video
 aliases:
 - /resources/CWxkBJJduCE
 - /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
@@ -38,6 +14,30 @@ aliasesArchive:
 - /resources/videos/redefining-test-driven-development
 - /resources/redefining-test-driven-development
 - transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
+concepts:
+- Practice
+categories:
+- Engineering Excellence
+tags:
+- Engineering Practices
+- Software Development
+- Technical Mastery
+- Test Driven Development
+- Technical Excellence
+ResourceId: CWxkBJJduCE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:18Z
+videoId: CWxkBJJduCE
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
 duration: 53
 resourceTypes:

@@ -1,32 +1,32 @@
 ---
 title: ALM Events and public courses in 2015 Q2
 description: Schedule of public courses and events on Visual Studio ALM, TFS, DevOps, and Scrum in 2015 Q2, including live online training and key industry conferences.
-ResourceId: ag9EVTamt5M
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11248
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2015-03-11
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: alm-events-and-public-courses-in-2015-q2
 aliases:
 - /resources/ag9EVTamt5M
+ResourceId: ag9EVTamt5M
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11248
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/alm-events-and-public-courses-in-2015-q2
 - /alm-events-and-public-courses-in-2015-q2
 - /resources/blog/alm-events-and-public-courses-in-2015-q2
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 preview: metro-event-icon-1-1.png
 Watermarks:
   description: 2025-05-12T14:19:57Z
-concepts: []
 
 ---
 I have had a lot of folks asking for dates of the public courses that I will be running in the next few months.

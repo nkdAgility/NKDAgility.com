@@ -1,28 +1,9 @@
 ---
+title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
 description: Explains how focusing on isolated improvements in governance can harm overall organisational success, and offers strategies for integrated, system-wide optimisation.
 date: 2025-02-08T07:49:38Z
-ResourceId: ACZWkkvKEnw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Systems Thinking
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:43Z
-title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
-videoId: ACZWkkvKEnw
-source: internal
-url: /resources/videos/:slug
 slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
-layout: video
 aliases:
 - /resources/ACZWkkvKEnw
 - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
@@ -37,6 +18,25 @@ aliasesArchive:
 - /resources/videos/the-cog-conundrum
 - /resources/the-cog-conundrum
 - avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Systems Thinking
+ResourceId: ACZWkkvKEnw
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:43Z
+videoId: ACZWkkvKEnw
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/ACZWkkvKEnw/maxresdefault.jpg
 duration: 45
 resourceTypes:

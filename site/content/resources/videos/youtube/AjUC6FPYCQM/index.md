@@ -1,32 +1,9 @@
 ---
+title: 'Unlocking the True Potential of Scrum: Why Professionalism Matters in Agile Teams'
 description: Explores how true professionalism in Scrum enables Agile teams to deliver production-ready products, highlighting the importance of transparency, standards, and work ethic.
 date: 2023-04-20T07:00:06Z
-ResourceId: AjUC6FPYCQM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts:
-- Principle
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-- Agile Frameworks
-- Competence
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:10Z
-title: 'Unlocking the True Potential of Scrum: Why Professionalism Matters in Agile Teams'
-videoId: AjUC6FPYCQM
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
-layout: video
 aliases:
 - /resources/AjUC6FPYCQM
 - /resources/videos/unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/do-teams-really-understand-the-power-of-applying-scrum-professionally-
 - /resources/videos/unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
 - unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams
+concepts:
+- Principle
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Agile Frameworks
+- Competence
+ResourceId: AjUC6FPYCQM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:10Z
+videoId: AjUC6FPYCQM
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/AjUC6FPYCQM/maxresdefault.jpg
 duration: 369
 resourceTypes:

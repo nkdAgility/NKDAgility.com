@@ -1,39 +1,38 @@
 ---
 title: Issue [ TFS 2013 ] InRelease account requires make requests on behalf of others
 description: Explains how to resolve InRelease connection errors with TFS 2013 by granting the required "make requests on behalf of others" permission to the service account.
-ResourceId: SYCGxfoMPjw
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9759
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-07-11
 weight: 1000
+slug: issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+aliases:
+- /resources/SYCGxfoMPjw
+ResourceId: SYCGxfoMPjw
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9759
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
-slug: issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-aliases:
-- /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
-- /resources/SYCGxfoMPjw
 aliasesArchive:
 - /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 - /issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 - /issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /blog/issue-[-tfs-2013-]-inrelease-account-requires-make-requests-on-behalf-of-others
 - /resources/blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Troubleshooting
 - Install and Configuration
 - Software Development
 - System Configuration
-categories:
-- Uncategorized
 preview: puzzle-issue-problem-128-link-5-5.png
 Watermarks:
   description: 2025-05-13T15:05:47Z
-concepts: []
 
 ---
 When you try to configure InRelease to connect to your Team Foundation Server 2013 Team Project Collection you get an error message saying that you are unable to connect because you need to be able to requires make requests on behalf of others.

@@ -1,12 +1,31 @@
 ---
+title: 'Empowering Development Teams: Cultivating an Agile Mindset for Lasting Quality'
 description: Explores how leaders can foster an agile mindset in development teams by promoting autonomy, mastery, purpose, and a culture of quality and continuous improvement.
 date: 2020-04-07T20:33:45Z
-ResourceId: iCDEX6oHy7A
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+aliases:
+- /resources/iCDEX6oHy7A
+ResourceId: iCDEX6oHy7A
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:54Z
+videoId: iCDEX6oHy7A
+source: youtube
+url: /resources/videos/:slug
+layout: video
+aliasesArchive:
+- /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+- empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
 concepts: []
 categories:
 - Product Development
@@ -14,27 +33,6 @@ categories:
 tags:
 - Agile Transformation
 - Software Development
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:54Z
-title: 'Empowering Development Teams: Cultivating an Agile Mindset for Lasting Quality'
-videoId: iCDEX6oHy7A
-source: youtube
-url: /resources/videos/:slug
-slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
-layout: video
-aliases:
-- /resources/iCDEX6oHy7A
-- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
-- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-aliasesArchive:
-- /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
-- empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
 preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
 duration: 5071
 resourceTypes:

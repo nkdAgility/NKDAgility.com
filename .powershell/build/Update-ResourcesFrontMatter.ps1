@@ -8,7 +8,7 @@
 . ./.powershell/_includes/ClassificationHelpers.ps1
 
 $ErrorActionPreference = 'Stop'
-$levelSwitch.MinimumLevel = 'Information'
+$levelSwitch.MinimumLevel = 'Debug'
 $ResourceCatalogue = @{}
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
@@ -20,7 +20,7 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 20
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -43,6 +43,8 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     #=================CLEAN============================
     Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'id'
     #=================description=================
+
+    Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'title' -addAt 0
 
     # if ( -not $hugoMarkdown.FrontMatter.abstract -or $hugoMarkdown.FrontMatter.abstract -match "no specific details provided") {
     #     # Generate a new description using OpenAI
@@ -187,11 +189,6 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'slug' -addAfter 'date'
     }
 
-
-
-
-
-
     # =================Add aliases===================
     $aliases = @()
    
@@ -304,12 +301,15 @@ while ($hugoMarkdownQueue.Count -gt 0) {
                     $transcript = Get-Content -Path (Join-Path $hugoMarkdown.FolderPath "captions.en.md" ) -Raw
                     $content = Get-NewPostBasedOnTranscript -ResourceTranscript $transcript
                     $newTitle = Get-NewTitleBasedOnContent -Content $content
-                    $newDescription = Get-NewDescriptionBasedOnContent -Content $content
+                    $newDescription = Get-NewDescriptionBasedOnContent -Content $content -Title $newTitle
                     If ($content -ne $null) {
                         $hugoMarkdown.BodyContent = $content
+                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.bodyContent' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
                         Remove-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'canonicalUrl'
                         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'title' -fieldValue $newTitle -Overwrite
+                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.title' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
                         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'description' -fieldValue $newDescription -Overwrite
+                        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.description' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
                         $hugoMarkdown.FrontMatter.sitemap.priority = 0.6
                     }
                 }
@@ -321,8 +321,14 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         }
     }
     # =================CONTENT===================
+    
     #$hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "categories" -hugoMarkdown $hugoMarkdown
     #$hugoMarkdown.BodyContent = Update-ClassificationLinksInBodyContent -ClassificationType "tags" -hugoMarkdown $hugoMarkdown
+
+    # =================FINAL ORDER================
+    Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'title' -addAt 0
+    Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'description' -addAt 1
+    Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'date' -addAt 2
     # =================COMPLETE===================
     Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
 

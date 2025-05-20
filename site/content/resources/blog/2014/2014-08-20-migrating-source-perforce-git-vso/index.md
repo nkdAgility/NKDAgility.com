@@ -1,27 +1,30 @@
 ---
 title: Migrating source from Perforce to Git on VSO
 description: Step-by-step guide to migrating source code from Perforce to Git on VSO, covering repository setup, dependency management, build processes, and key migration tips.
-ResourceId: bvuzuOYg8gs
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10677
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-08-20
 weight: 640
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: migrating-source-perforce-git-vso
 aliases:
 - /resources/bvuzuOYg8gs
+ResourceId: bvuzuOYg8gs
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10677
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/migrating-source-perforce-git-vso
 - /migrating-source-perforce-git-vso
 - /migrating-source-from-perforce-to-git-on-vso
 - /blog/migrating-source-from-perforce-to-git-on-vso
 - /resources/blog/migrating-source-perforce-git-vso
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Azure DevOps
 - Software Development
@@ -29,12 +32,9 @@ tags:
 - Install and Configuration
 - Azure Repos
 - Pragmatic Thinking
-categories:
-- Uncategorized
 preview: naked-alm-git-1-1.png
 Watermarks:
   description: 2025-05-12T14:21:19Z
-concepts: []
 
 ---
 I have been working with a customer in London this week that is using TFS 2010 for work item tracking and Perforce for source control. Here is how I got on migrating source from Perforce to Git on VSO.

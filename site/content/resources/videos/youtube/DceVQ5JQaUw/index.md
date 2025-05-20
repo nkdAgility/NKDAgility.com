@@ -1,30 +1,9 @@
 ---
+title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agile Consultants is Key to Success'
 description: Explores how open, challenging conversations with agile consultants drive organisational change, foster learning, and support continuous improvement and accountability.
 date: 2023-05-01T07:00:05Z
-ResourceId: DceVQ5JQaUw
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags:
-- Change Management
-- Organisational Culture
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:51Z
-title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agile Consultants is Key to Success'
-videoId: DceVQ5JQaUw
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
-layout: video
 aliases:
 - /resources/DceVQ5JQaUw
 - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
@@ -35,6 +14,27 @@ aliasesArchive:
 - /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 - unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags:
+- Change Management
+- Organisational Culture
+ResourceId: DceVQ5JQaUw
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:51Z
+videoId: DceVQ5JQaUw
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
 resourceTypes:

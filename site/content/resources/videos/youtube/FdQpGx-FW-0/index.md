@@ -1,11 +1,21 @@
 ---
+title: 7 harbingers of the Agile apocalypse - Judgement
 description: Explores how rigid, judgmental Agile practices stifle creativity and innovation, and advocates for principle-driven, adaptable approaches to foster true business agility.
 date: 2023-10-20T11:00:13Z
-ResourceId: FdQpGx-FW-0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: 7-harbingers-of-the-agile-apocalypse-judgement
+aliases:
+- /resources/FdQpGx-FW-0
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
+- /resources/videos/judgement-7-harbingers-agile-apocalypse
+aliasesArchive:
+- /resources/videos/-harbingers-of-the-agile-apocalypse-judgement
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
+- /resources/7-harbingers-of-the-agile-apocalypse-judgement
+- /resources/videos/judgement!-7-harbingers-agile-apocalypse
+- /resources/judgement!-7-harbingers-agile-apocalypse
+- /resources/videos/judgement-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-judgement
 concepts:
 - Ethos
 categories:
@@ -21,30 +31,20 @@ tags:
 - Pragmatic Thinking
 - Organisational Agility
 - Beta Codex
+ResourceId: FdQpGx-FW-0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:33Z
-title: 7 harbingers of the Agile apocalypse - Judgement
 videoId: FdQpGx-FW-0
 source: internal
 url: /resources/videos/:slug
-slug: 7-harbingers-of-the-agile-apocalypse-judgement
 layout: video
-aliases:
-- /resources/FdQpGx-FW-0
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
-- /resources/videos/judgement-7-harbingers-agile-apocalypse
-aliasesArchive:
-- /resources/videos/-harbingers-of-the-agile-apocalypse-judgement
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-judgement
-- /resources/7-harbingers-of-the-agile-apocalypse-judgement
-- /resources/videos/judgement!-7-harbingers-agile-apocalypse
-- /resources/judgement!-7-harbingers-agile-apocalypse
-- /resources/videos/judgement-7-harbingers-agile-apocalypse
-- 7-harbingers-of-the-agile-apocalypse-judgement
 preview: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg
 duration: 535
 resourceTypes:

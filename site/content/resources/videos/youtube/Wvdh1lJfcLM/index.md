@@ -1,31 +1,9 @@
 ---
+title: 'Mastering the Migration: Seamlessly Transitioning from TFS to Azure DevOps'
 description: Step-by-step guide to migrating from Team Foundation Server (TFS) to Azure DevOps, covering tools, validation, common issues, account alignment, and best practices.
 date: 2024-07-31T11:58:11Z
-ResourceId: Wvdh1lJfcLM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Tool
-categories:
-- DevOps
-tags:
-- Azure DevOps
-- Software Development
-- Install and Configuration
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:22Z
-title: 'Mastering the Migration: Seamlessly Transitioning from TFS to Azure DevOps'
-videoId: Wvdh1lJfcLM
-source: internal
-url: /resources/videos/:slug
 slug: mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
-layout: video
 aliases:
 - /resources/Wvdh1lJfcLM
 - /resources/videos/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
@@ -36,6 +14,28 @@ aliasesArchive:
 - /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
 - /resources/talk-us-through-the-migration-services-you-offer-via-azure-devops
 - mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
+concepts:
+- Tool
+categories:
+- DevOps
+tags:
+- Azure DevOps
+- Software Development
+- Install and Configuration
+ResourceId: Wvdh1lJfcLM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:22Z
+videoId: Wvdh1lJfcLM
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg
 duration: 188
 resourceTypes:

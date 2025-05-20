@@ -1,35 +1,9 @@
 ---
+title: '7 deadly sins of Agile: Wrath'
 description: Explores how blame and intolerance for mistakes harm Agile teams, and offers strategies to replace blame with accountability, learning, and a safer team culture.
 date: 2023-10-16T11:00:31Z
-ResourceId: U18nA0YFgu0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
-concepts:
-- Accountability
-categories:
-- Product Development
-tags:
-- Continuous Learning
-- Team Performance
-- Team Collaboration
-- Agile Philosophy
-- Organisational Culture
-- Psychological Safety
-- Team Motivation
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:44Z
-title: '7 deadly sins of Agile: Wrath'
-videoId: U18nA0YFgu0
-source: internal
-url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-wrath
-layout: video
 aliases:
 - /resources/U18nA0YFgu0
 - /resources/videos/7-deadly-sins-of-agile-wrath
@@ -42,6 +16,32 @@ aliasesArchive:
 - /resources/wrath!-7-deadly-sins-of-agile
 - /resources/videos/wrath-7-deadly-sins-of-agile
 - 7-deadly-sins-of-agile-wrath
+concepts:
+- Accountability
+categories:
+- Product Development
+tags:
+- Continuous Learning
+- Team Performance
+- Team Collaboration
+- Agile Philosophy
+- Organisational Culture
+- Psychological Safety
+- Team Motivation
+ResourceId: U18nA0YFgu0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:44Z
+videoId: U18nA0YFgu0
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg
 duration: 262
 resourceTypes:

@@ -1,36 +1,36 @@
 ---
+title: No go zone for Agile consultants
 description: Explores the broader role of Agile consultants beyond coaching, highlighting the need for teaching, leadership, and driving real organisational change for client success.
 date: 2023-05-10T09:30:14Z
-ResourceId: ZnXrAarX1Wg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: no-go-zone-for-agile-consultants-ZnXrAarX1Wg
+aliases:
+- /resources/ZnXrAarX1Wg
+- /resources/videos/no-go-zone-for-agile-consultants-ZnXrAarX1Wg
+ResourceId: ZnXrAarX1Wg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Uncategorized
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:33Z
-title: No go zone for Agile consultants
 videoId: ZnXrAarX1Wg
 source: internal
 url: /resources/videos/:slug
-slug: no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 layout: video
-aliases:
-- /resources/ZnXrAarX1Wg
-- /resources/videos/no-go-zone-for-agile-consultants-ZnXrAarX1Wg
 aliasesArchive:
 - /resources/videos/no-go-zone-for-agile-consultants
 - /resources/no-go-zone-for-agile-consultants
 - /resources/videos/no-go-zone-for-agile-consultants-
 - /resources/no-go-zone-for-agile-consultants-
 - no-go-zone-for-agile-consultants-ZnXrAarX1Wg
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/ZnXrAarX1Wg/maxresdefault.jpg
 duration: 53
 resourceTypes:

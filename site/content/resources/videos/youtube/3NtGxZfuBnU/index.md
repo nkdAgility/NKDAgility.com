@@ -1,31 +1,13 @@
 ---
+title: Do you think we are on the slope of enlightenment in Gartner's Hype Cycle?
 description: Explores whether organisations are moving past Agile disillusionment towards true understanding, highlighting the shift from hype to people-focused, effective Agile practices.
 date: 2023-07-07T07:00:03Z
-ResourceId: 3NtGxZfuBnU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:58Z
-title: Do you think we are on the slope of enlightenment in Gartner's Hype Cycle?
-videoId: 3NtGxZfuBnU
-source: internal
-url: /resources/videos/:slug
 slug: do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
-layout: video
 aliases:
 - /resources/3NtGxZfuBnU
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
+- /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
 aliasesArchive:
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
@@ -33,6 +15,25 @@ aliasesArchive:
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 - do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner-s-hype-cycle
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags: []
+ResourceId: 3NtGxZfuBnU
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:58Z
+videoId: 3NtGxZfuBnU
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/3NtGxZfuBnU/maxresdefault.jpg
 duration: 219
 resourceTypes:

@@ -1,29 +1,9 @@
 ---
+title: 'Transform Your Team with Flipped Learning: Unlocking Agility at Naked Agility Limited'
 description: Discover how flipped learning at Naked Agility Limited combines self-study and interactive workshops to build agile, people-first teams and support continuous improvement.
 date: 2022-09-09T14:17:04Z
-ResourceId: vY0hXTm-wgk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Continuous Learning
-- Coaching
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:45Z
-title: 'Transform Your Team with Flipped Learning: Unlocking Agility at Naked Agility Limited'
-videoId: vY0hXTm-wgk
-source: youtube
-url: /resources/videos/:slug
 slug: transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
-layout: video
 aliases:
 - /resources/vY0hXTm-wgk
 - /resources/videos/transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
@@ -33,6 +13,26 @@ aliasesArchive:
 - /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 - /resources/videos/transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
 - transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Continuous Learning
+- Coaching
+ResourceId: vY0hXTm-wgk
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:45Z
+videoId: vY0hXTm-wgk
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 resourceTypes:

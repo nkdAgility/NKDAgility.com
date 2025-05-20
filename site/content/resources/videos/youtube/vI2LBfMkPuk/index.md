@@ -1,32 +1,9 @@
 ---
+title: 'Embrace the Chaos: Transforming Scrum Learning Through Experience and Minecraft'
 description: Discover how hands-on Scrum training using Minecraft helps learners experience project chaos, apply agile principles, and gain practical insights into effective teamwork.
 date: 2023-01-09T12:36:53Z
-ResourceId: vI2LBfMkPuk
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Agile Frameworks
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:35Z
-title: 'Embrace the Chaos: Transforming Scrum Learning Through Experience and Minecraft'
-videoId: vI2LBfMkPuk
-source: youtube
-url: /resources/videos/:slug
 slug: embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
-layout: video
 aliases:
 - /resources/vI2LBfMkPuk
 - /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/what-is-your-favourite-agile-course-to-deliver-and-why-
 - /resources/videos/embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
 - embrace-the-chaos-transforming-scrum-learning-through-experience-and-minecraft
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Agile Frameworks
+- Software Development
+- Pragmatic Thinking
+- Professional Scrum
+ResourceId: vI2LBfMkPuk
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:35Z
+videoId: vI2LBfMkPuk
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 resourceTypes:

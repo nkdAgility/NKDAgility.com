@@ -1,28 +1,9 @@
 ---
+title: 'Mastering Cloud Migration: How to Leverage Microsoft’s Tool for a Seamless Transition'
 description: Learn how to use Microsoft’s migration tool to identify issues, review customisations, and plan for a smooth, risk-free transition of systems to the cloud.
 date: 2024-09-18T11:59:33Z
-ResourceId: XEtys2DOkKU
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Tool
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:43Z
-title: 'Mastering Cloud Migration: How to Leverage Microsoft’s Tool for a Seamless Transition'
-videoId: XEtys2DOkKU
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU
-layout: video
 aliases:
 - /resources/XEtys2DOkKU
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU
@@ -34,6 +15,25 @@ aliasesArchive:
 - /resources/considerations-for-your-azure-devops-migration-excerpt-1
 - mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsoft-s-tool-for-a-seamless-transition
+concepts:
+- Tool
+categories:
+- Uncategorized
+tags: []
+ResourceId: XEtys2DOkKU
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:43Z
+videoId: XEtys2DOkKU
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg
 duration: 36
 resourceTypes:

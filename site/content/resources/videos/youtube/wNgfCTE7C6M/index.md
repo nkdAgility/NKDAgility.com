@@ -1,11 +1,20 @@
 ---
+title: 'Unlocking Effective Product Development: How a Hypothesis-Driven Approach Transforms User Experience'
 description: Explains how a hypothesis-driven approach, small experiments, and cross-team collaboration improve product development, user experience, and continuous delivery outcomes.
 date: 2023-04-10T07:00:18Z
-ResourceId: wNgfCTE7C6M
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
+slug: unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
+aliases:
+- /resources/wNgfCTE7C6M
+- /resources/videos/unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
+- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
+aliasesArchive:
+- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
+- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+- /resources/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
+- how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
+- /resources/videos/unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
+- unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
 concepts:
 - Strategy
 categories:
@@ -18,29 +27,20 @@ tags:
 - Decision Making
 - Software Development
 - Value Delivery
+ResourceId: wNgfCTE7C6M
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:17Z
-title: 'Unlocking Effective Product Development: How a Hypothesis-Driven Approach Transforms User Experience'
 videoId: wNgfCTE7C6M
 source: youtube
 url: /resources/videos/:slug
-slug: unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
 layout: video
-aliases:
-- /resources/wNgfCTE7C6M
-- /resources/videos/unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
-- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
-aliasesArchive:
-- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
-- /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
-- /resources/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
-- how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions
-- /resources/videos/unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
-- unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
 preview: https://i.ytimg.com/vi/wNgfCTE7C6M/maxresdefault.jpg
 duration: 371
 resourceTypes:

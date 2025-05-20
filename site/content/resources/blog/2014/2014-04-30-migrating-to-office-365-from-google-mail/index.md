@@ -1,33 +1,33 @@
 ---
 title: Migrating to office 365 from Google Mail
 description: Step-by-step guide to migrating emails and data from Google Mail to Office 365, covering IMAP, POP, and PowerShell methods, plus challenges and practical solutions.
-ResourceId: w2vG6eEu5BH
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10502
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-04-30
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: migrating-to-office-365-from-google-mail
 aliases:
 - /resources/w2vG6eEu5BH
+ResourceId: w2vG6eEu5BH
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10502
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/migrating-to-office-365-from-google-mail
 - /migrating-to-office-365-from-google-mail
 - /resources/blog/migrating-to-office-365-from-google-mail
-tags:
-- Install and Configuration
+concepts: []
 categories:
 - Uncategorized
+tags:
+- Install and Configuration
 preview: metro-office-128-link-3-3.png
 Watermarks:
   description: 2025-05-12T14:21:50Z
-concepts: []
 
 ---
 A few months ago I decided to make use of Office 365 but I have run into a bunch of roadblocks. Migrating to office 365 from Google Mail as it seams that Office 365 and Google Mail are not the best of friends. They seam to be in a state of cold war.

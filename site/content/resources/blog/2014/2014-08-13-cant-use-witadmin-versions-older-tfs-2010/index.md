@@ -1,18 +1,8 @@
 ---
 title: You can't use WITADMIN on versions older than TFS 2010
 description: Explains troubleshooting WITADMIN errors with TFS versions, highlighting the need for TFS 2010 SP1 or newer for compatibility with work item type changes.
-ResourceId: UF4o8raFE4r
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10667
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-08-13
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: cant-use-witadmin-versions-older-tfs-2010
 aliases:
 - /resources/blog/you-can-t-use-witadmin-on-versions-older-than-tfs-2010
@@ -24,13 +14,23 @@ aliasesArchive:
 - /blog/you-can't-use-witadmin-on-versions-older-than-tfs-2010
 - /resources/blog/cant-use-witadmin-versions-older-tfs-2010
 - /resources/blog/you-can-t-use-witadmin-on-versions-older-than-tfs-2010
-tags:
-- Troubleshooting
+concepts: []
 categories:
 - Uncategorized
+tags:
+- Troubleshooting
+ResourceId: UF4o8raFE4r
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10667
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 Watermarks:
   description: 2025-05-12T14:21:21Z
-concepts: []
 
 ---
 I encountered a bit of a red herring today when I was trying to rename a Work Item Type Definition (WITD) and received the message that you can't use WITADMIN on versions older than TFS 2010. However the server was TFS 2010.

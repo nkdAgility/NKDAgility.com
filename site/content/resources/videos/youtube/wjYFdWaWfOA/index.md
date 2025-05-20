@@ -1,33 +1,9 @@
 ---
+title: 'Unlocking Team Potential: The Essential Role of a Scrum Master in Agile Success'
 description: Explains how a Scrum Master empowers Agile teams by bridging business, technical, and organisational needs to boost effectiveness, collaboration, and delivery outcomes.
 date: 2023-05-22T14:00:41Z
-ResourceId: wjYFdWaWfOA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 610
-concepts: []
-categories:
-- Scrum
-- Technical Leadership
-- Product Development
-tags:
-- Scrum Master
-- Scrum Team
-- Software Development
-- Team Performance
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:12:18Z
-title: 'Unlocking Team Potential: The Essential Role of a Scrum Master in Agile Success'
-videoId: wjYFdWaWfOA
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
-layout: video
 aliases:
 - /resources/wjYFdWaWfOA
 - /resources/videos/unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
@@ -39,6 +15,30 @@ aliasesArchive:
 - what-is-a-scrum-master-why-are-they-essential
 - /resources/videos/unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
 - unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success
+concepts: []
+categories:
+- Scrum
+- Technical Leadership
+- Product Development
+tags:
+- Scrum Master
+- Scrum Team
+- Software Development
+- Team Performance
+ResourceId: wjYFdWaWfOA
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:18Z
+videoId: wjYFdWaWfOA
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 resourceTypes:

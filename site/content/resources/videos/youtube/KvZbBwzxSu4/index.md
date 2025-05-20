@@ -1,11 +1,19 @@
 ---
+title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direction'
 description: Explores how clear vision, goals, and evidence-based management empower teams, improve alignment, and foster autonomy, engagement, and effective decision-making in organisations.
 date: 2024-08-08T06:45:00Z
-ResourceId: KvZbBwzxSu4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
+slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+aliases:
+- /resources/KvZbBwzxSu4
+- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+aliasesArchive:
+- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
+- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+- the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 concepts:
 - Strategy
 categories:
@@ -27,28 +35,20 @@ tags:
 - Agile Strategy
 - Common Goals
 - Organisational Agility
+ResourceId: KvZbBwzxSu4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:17Z
-title: 'The Strategic Imperative: Empowering Teams with Vision, Goals, and Direction'
 videoId: KvZbBwzxSu4
 source: internal
 url: /resources/videos/:slug
-slug: the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 layout: video
-aliases:
-- /resources/KvZbBwzxSu4
-- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-aliasesArchive:
-- /resources/videos/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
-- /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- /resources/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-- the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
 duration: 591
 resourceTypes:

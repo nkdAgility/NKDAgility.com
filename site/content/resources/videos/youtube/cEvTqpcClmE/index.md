@@ -1,27 +1,9 @@
 ---
+title: 'Unlocking Legacy Systems: How to Embrace Automation and Drive Innovation'
 description: Learn how to automate legacy systems by shifting organisational mindset, adopting DevOps practices, and making incremental improvements to boost efficiency and innovation.
 date: 2025-04-28T06:00:34Z
-ResourceId: cEvTqpcClmE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 500
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:12Z
-title: 'Unlocking Legacy Systems: How to Embrace Automation and Drive Innovation'
-videoId: cEvTqpcClmE
-source: internal
-url: /resources/videos/:slug
 slug: unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
-layout: video
 aliases:
 - /resources/cEvTqpcClmE
 - /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
@@ -35,6 +17,24 @@ aliasesArchive:
 - 5-tools-that-scrum-masters-love-part-1
 - /resources/videos/unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
 - unlocking-legacy-systems-how-to-embrace-automation-and-drive-innovation
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: cEvTqpcClmE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:12Z
+videoId: cEvTqpcClmE
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/cEvTqpcClmE/maxresdefault.jpg
 duration: 91
 resourceTypes:

@@ -1,12 +1,31 @@
 ---
+title: 'Transforming Management into Agile Leadership: The Power of Virtual Training'
 description: Explores how virtual training supports the shift from traditional management to agile leadership, highlighting benefits like flexibility, engagement, and cultural diversity.
 date: 2020-04-25T02:29:57Z
-ResourceId: p3D5RjM5grA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
+slug: transforming-management-into-agile-leadership-the-power-of-virtual-training
+aliases:
+- /resources/p3D5RjM5grA
+ResourceId: p3D5RjM5grA
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:46Z
+videoId: p3D5RjM5grA
+source: youtube
+url: /resources/videos/:slug
+layout: video
+aliasesArchive:
+- /resources/videos/ep-live-virtual-retrospective-on-pal-e-with-russell-miller
+- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+- /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
+- /resources/videos/transforming-management-into-agile-leadership-the-power-of-virtual-training
+- transforming-management-into-agile-leadership-the-power-of-virtual-training
 concepts: []
 categories:
 - Leadership
@@ -14,27 +33,6 @@ tags:
 - Agile Leadership
 - Social Technologies
 - Agile Transformation
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:15:46Z
-title: 'Transforming Management into Agile Leadership: The Power of Virtual Training'
-videoId: p3D5RjM5grA
-source: youtube
-url: /resources/videos/:slug
-slug: transforming-management-into-agile-leadership-the-power-of-virtual-training
-layout: video
-aliases:
-- /resources/p3D5RjM5grA
-- /resources/videos/transforming-management-into-agile-leadership-the-power-of-virtual-training
-- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-aliasesArchive:
-- /resources/videos/ep-live-virtual-retrospective-on-pal-e-with-russell-miller
-- /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-- /resources/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
-- /resources/videos/transforming-management-into-agile-leadership-the-power-of-virtual-training
-- transforming-management-into-agile-leadership-the-power-of-virtual-training
 preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
 duration: 2961
 resourceTypes:

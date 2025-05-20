@@ -1,11 +1,18 @@
 ---
+title: 'Unlocking the True Power of Continuous Delivery: How Automation Transforms Software Development'
 description: Explains how automation in continuous delivery improves software reliability, reduces risk, and enables faster, safer deployments through consistent, rapid feedback loops.
 date: 2024-12-06T06:00:00Z
-ResourceId: LWRAX3OyO28
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 355
+slug: unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
+aliases:
+- /resources/LWRAX3OyO28
+- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
+- /resources/videos/the-power-of-continuous-delivery
+aliasesArchive:
+- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
+- /resources/videos/the-power-of-continuous-delivery
+- /resources/the-power-of-continuous-delivery
+- unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 concepts: []
 categories:
 - DevOps
@@ -23,27 +30,20 @@ tags:
 - Pragmatic Thinking
 - Value Delivery
 - Working Software
+ResourceId: LWRAX3OyO28
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:52Z
-title: 'Unlocking the True Power of Continuous Delivery: How Automation Transforms Software Development'
 videoId: LWRAX3OyO28
 source: youtube
 url: /resources/videos/:slug
-slug: unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 layout: video
-aliases:
-- /resources/LWRAX3OyO28
-- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
-- /resources/videos/the-power-of-continuous-delivery
-aliasesArchive:
-- /resources/videos/unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
-- /resources/videos/the-power-of-continuous-delivery
-- /resources/the-power-of-continuous-delivery
-- unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development
 preview: https://i9.ytimg.com/vi/LWRAX3OyO28/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCWLD4Vo4EZ6b8ciR_RqJZImwnb7w
 duration: 332
 resourceTypes:

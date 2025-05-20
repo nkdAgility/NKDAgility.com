@@ -1,31 +1,9 @@
 ---
+title: 'Mastering Your Kanban Board: A Practical Guide to Visualising Workflows for Maximum Efficiency'
 description: Learn how to design and customise Kanban boards to visualise workflows, identify bottlenecks, and boost team efficiency through clear, practical process mapping.
 date: 2024-07-08T06:00:07Z
-ResourceId: E2aYkadJJok
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Practice
-categories:
-- Kanban
-- Product Development
-tags:
-- Operational Practices
-- Software Development
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:02:40Z
-title: 'Mastering Your Kanban Board: A Practical Guide to Visualising Workflows for Maximum Efficiency'
-videoId: E2aYkadJJok
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
-layout: video
 aliases:
 - /resources/E2aYkadJJok
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
@@ -36,6 +14,28 @@ aliasesArchive:
 - /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - /resources/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
 - mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
+concepts:
+- Practice
+categories:
+- Kanban
+- Product Development
+tags:
+- Operational Practices
+- Software Development
+ResourceId: E2aYkadJJok
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:40Z
+videoId: E2aYkadJJok
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 resourceTypes:

@@ -1,25 +1,29 @@
 ---
 title: Quality enablement with Visual Studio 2012
 description: Explores how Visual Studio 2012 supports continuous quality enablement, automated testing, and rapid delivery in modern software development for higher user satisfaction.
-ResourceId: YcLApPV4Zgj
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9487
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-05-15
 weight: 540
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: quality-enablement-with-visual-studio-2012
 aliases:
 - /resources/YcLApPV4Zgj
+ResourceId: YcLApPV4Zgj
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9487
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/quality-enablement-with-visual-studio-2012
 - /quality-enablement-with-visual-studio-2012
 - /resources/blog/quality-enablement-with-visual-studio-2012
+concepts: []
+categories:
+- Engineering Excellence
+- DevOps
 tags:
 - Continuous Delivery
 - Software Development
@@ -36,13 +40,9 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - Technical Mastery
-categories:
-- Engineering Excellence
-- DevOps
 preview: nakedalm-experts-visual-studio-alm-18-18.png
 Watermarks:
   description: 2025-05-13T15:06:25Z
-concepts: []
 
 ---
 In the modern application lifecycle one of the key messages is one of quality enablement. Quality will be the key differentiator between you and your competitors over the next few years and the old excuses are just that… old.

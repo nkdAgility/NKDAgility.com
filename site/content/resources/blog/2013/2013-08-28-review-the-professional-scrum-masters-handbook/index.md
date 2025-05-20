@@ -1,35 +1,35 @@
 ---
 title: 'Review: The Professional Scrum Masters Handbook'
 description: A critical review of The Professional Scrum Masters Handbook, highlighting its practical tips for new Scrum Masters and common Scrum misconceptions to avoid.
-ResourceId: Truj03gqwvW
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9967
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-08-28
 weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: review-the-professional-scrum-masters-handbook
 aliases:
 - /resources/Truj03gqwvW
+ResourceId: Truj03gqwvW
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9967
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/review-the-professional-scrum-masters-handbook
 - /review-the-professional-scrum-masters-handbook
 - /review--the-professional-scrum-masters-handbook
 - /blog/review--the-professional-scrum-masters-handbook
 - /resources/blog/review-the-professional-scrum-masters-handbook
-tags:
-- Software Development
+concepts: []
 categories:
 - Scrum
+tags:
+- Software Development
 preview: nakedalm-experts-professional-scrum-1-1.png
 Watermarks:
   description: 2025-05-12T14:23:18Z
-concepts: []
 
 ---
 I was asked recently to review The Professional Scrum Masters Handbook. As I read this book there were times that I shouted at it and I almost stopped reading in disgust around chapter 4.

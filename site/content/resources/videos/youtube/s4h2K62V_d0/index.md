@@ -1,32 +1,9 @@
 ---
+title: Code Reviews for Quality Assurance
 description: Explores code review practices for quality assurance, highlighting automation, pull requests, and early defect detection to ensure high-quality, reliable software delivery.
 date: 2024-11-20T07:00:26Z
-ResourceId: s4h2K62V_d0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 380
-concepts: []
-categories:
-- Engineering Excellence
-tags:
-- Software Development
-- Technical Excellence
-- Working Software
-- Engineering Practices
-- Product Delivery
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:15Z
-title: Code Reviews for Quality Assurance
-videoId: s4h2K62V_d0
-source: internal
-url: /resources/videos/:slug
 slug: code-reviews-for-quality-assurance
-layout: video
 aliases:
 - /resources/s4h2K62V_d0
 - /resources/videos/code-reviews-for-quality-assurance
@@ -36,6 +13,29 @@ aliasesArchive:
 - /resources/videos/shifting-left-quality-from-the-start
 - /resources/shifting-left-quality-from-the-start
 - code-reviews-for-quality-assurance
+concepts: []
+categories:
+- Engineering Excellence
+tags:
+- Software Development
+- Technical Excellence
+- Working Software
+- Engineering Practices
+- Product Delivery
+ResourceId: s4h2K62V_d0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:15Z
+videoId: s4h2K62V_d0
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
 duration: 600
 resourceTypes:

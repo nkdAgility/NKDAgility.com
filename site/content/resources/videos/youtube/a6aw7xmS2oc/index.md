@@ -1,32 +1,9 @@
 ---
+title: 'Harnessing Your Entrepreneurial Spirit: Key Strategies for Product Owners to Drive Team Success'
 description: Learn how product owners can boost team success by connecting work to value, making evidence-based decisions, and improving time to market through agile practices.
 date: 2023-09-20T07:00:00Z
-ResourceId: a6aw7xmS2oc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts: []
-categories:
-- Product Management
-- Product Development
-tags:
-- Customer Focus
-- Agile Product Management
-- Product Owner
-- Value Delivery
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:09:26Z
-title: 'Harnessing Your Entrepreneurial Spirit: Key Strategies for Product Owners to Drive Team Success'
-videoId: a6aw7xmS2oc
-source: youtube
-url: /resources/videos/:slug
 slug: harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
-layout: video
 aliases:
 - /resources/a6aw7xmS2oc
 - /resources/videos/harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
@@ -36,6 +13,29 @@ aliasesArchive:
 - /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 - /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 - harnessing-your-entrepreneurial-spirit-key-strategies-for-product-owners-to-drive-team-success
+concepts: []
+categories:
+- Product Management
+- Product Development
+tags:
+- Customer Focus
+- Agile Product Management
+- Product Owner
+- Value Delivery
+ResourceId: a6aw7xmS2oc
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:26Z
+videoId: a6aw7xmS2oc
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 resourceTypes:

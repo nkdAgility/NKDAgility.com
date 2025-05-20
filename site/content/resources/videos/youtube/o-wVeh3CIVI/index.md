@@ -1,32 +1,26 @@
 ---
+title: What is Scrum?
 description: Scrum is a framework that helps teams organise and adapt to complex, changing tasks by enabling collaboration and shared goals in uncertain environments.
 date: 2023-05-19T07:00:31Z
-ResourceId: o-wVeh3CIVI
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: what-is-scrum-o-wVeh3CIVI
+aliases:
+- /resources/o-wVeh3CIVI
+- /resources/videos/what-is-scrum-o-wVeh3CIVI
+ResourceId: o-wVeh3CIVI
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Product Development
-tags:
-- Agile Frameworks
-- Software Development
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:12:20Z
-title: What is Scrum?
 videoId: o-wVeh3CIVI
 source: internal
 url: /resources/videos/:slug
-slug: what-is-scrum-o-wVeh3CIVI
 layout: video
-aliases:
-- /resources/o-wVeh3CIVI
-- /resources/videos/what-is-scrum-o-wVeh3CIVI
 aliasesArchive:
 - /resources/videos/what-is-scrum
 - /resources/what-is-scrum-3
@@ -34,6 +28,12 @@ aliasesArchive:
 - /resources/videos/what-is-scrum-
 - /resources/what-is-scrum-
 - what-is-scrum-o-wVeh3CIVI
+concepts: []
+categories:
+- Product Development
+tags:
+- Agile Frameworks
+- Software Development
 preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
 duration: 51
 resourceTypes:

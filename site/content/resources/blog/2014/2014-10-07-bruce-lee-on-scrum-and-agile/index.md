@@ -1,33 +1,33 @@
 ---
 title: Bruce Lee on Scrum and Agile
 description: Explores how Bruce Lee’s philosophy applies to Scrum and Agile, emphasising adaptability, simplicity, and creating flexible, tailored processes for continuous improvement.
-ResourceId: mDZ9tLsZEI-
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10800
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-10-07
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: bruce-lee-on-scrum-and-agile
 aliases:
 - /resources/mDZ9tLsZEI-
+ResourceId: mDZ9tLsZEI-
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10800
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/bruce-lee-on-scrum-and-agile
 - /bruce-lee-on-scrum-and-agile
 - /resources/blog/bruce-lee-on-scrum-and-agile
-tags:
-- Agile Philosophy
+concepts: []
 categories:
 - Uncategorized
+tags:
+- Agile Philosophy
 preview: nakedalm-experts-professional-scrum-2-2.png
 Watermarks:
   description: 2025-05-12T14:21:09Z
-concepts: []
 
 ---
 There are wise people in this world and that wisdom often transcends the topic that they are intentionality addressing. Good philosophy can be applied beyond those bounds.

@@ -1,31 +1,31 @@
 ---
 title: The great Team Foundation Server 2013 Upgrade Weekend
 description: Microsoft experts will provide free support for upgrading, installing, or configuring Team Foundation Server 2013 during a special event on 13–15 September 2013.
-ResourceId: vBfV--PVVr7
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9989
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-08-27
 weight: 840
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: the-great-team-foundation-server-2013-upgrade-weekend
 aliases:
 - /resources/vBfV--PVVr7
+ResourceId: vBfV--PVVr7
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9989
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/the-great-team-foundation-server-2013-upgrade-weekend
 - /the-great-team-foundation-server-2013-upgrade-weekend
 - /resources/blog/the-great-team-foundation-server-2013-upgrade-weekend
-tags: []
+concepts: []
 categories:
 - Uncategorized
+tags: []
 Watermarks:
   description: 2025-05-12T14:23:19Z
-concepts: []
 
 ---
 The product team have put some more engineering resources where their mouth is and the great Team Foundation Server 2013 Upgrade Weekend will be on September 13-15.

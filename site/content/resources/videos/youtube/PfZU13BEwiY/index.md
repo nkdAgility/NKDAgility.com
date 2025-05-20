@@ -1,31 +1,9 @@
 ---
+title: 'Scaling Smart: How to Tackle Technical Debt for Sustainable Growth'
 description: Learn how unmanaged technical debt can hinder growth, and discover strategies like sustainable architecture, DevOps, and automation to scale efficiently and maintain quality.
 date: 2025-02-25T06:00:28Z
-ResourceId: PfZU13BEwiY
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 230
-concepts: []
-categories:
-- Engineering Excellence
-- DevOps
-tags:
-- Technical Debt
-- Pragmatic Thinking
-- Software Development
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:26Z
-title: 'Scaling Smart: How to Tackle Technical Debt for Sustainable Growth'
-videoId: PfZU13BEwiY
-source: youtube
-url: /resources/videos/:slug
 slug: scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
-layout: video
 aliases:
 - /resources/PfZU13BEwiY
 - /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
@@ -37,6 +15,28 @@ aliasesArchive:
 - /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
 - /resources/videos/technical-debt-the-silent-scalability-killer
 - scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
+concepts: []
+categories:
+- Engineering Excellence
+- DevOps
+tags:
+- Technical Debt
+- Pragmatic Thinking
+- Software Development
+ResourceId: PfZU13BEwiY
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:26Z
+videoId: PfZU13BEwiY
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/PfZU13BEwiY/maxresdefault.jpg
 duration: 61
 resourceTypes:

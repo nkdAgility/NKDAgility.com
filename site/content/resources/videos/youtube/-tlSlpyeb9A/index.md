@@ -1,11 +1,19 @@
 ---
+title: 'How to Evolve Your Definition of Done: Start Small, Grow Smarter, and Build Lasting Momentum'
 description: Unlock a smarter Definition of Done—start small, evolve standards, and build team momentum without overwhelm. Discover how progress drives excellence.
 date: 2025-06-25T06:45:00Z
-ResourceId: -tlSlpyeb9A
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 150
+slug: how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum--tlSlpyeb9A
+aliases:
+- /resources/-tlSlpyeb9A
+- /resources/videos/how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum--tlSlpyeb9A
+- /resources/videos/how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum
+- /resources/videos/8-evolving-the-definition-of-done-over-time
+aliasesArchive:
+- /resources/videos/8-evolving-the-definition-of-done-over-time
+- 8-evolving-the-definition-of-done-over-time--tlSlpyeb9A
+- /resources/videos/how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum
+- how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum--tlSlpyeb9A
 concepts:
 - Practice
 categories:
@@ -28,28 +36,20 @@ tags:
 - Market Adaptability
 - Professional Scrum
 - Social Technologies
+ResourceId: -tlSlpyeb9A
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T19:27:32Z
 ResourceContentOrigin: ai
-title: 'How to Evolve Your Definition of Done: Start Small, Grow Smarter, and Build Lasting Momentum'
 videoId: -tlSlpyeb9A
 source: youtube
 url: /resources/videos/:slug
-slug: how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum--tlSlpyeb9A
 layout: video
-aliases:
-- /resources/-tlSlpyeb9A
-- /resources/videos/how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum--tlSlpyeb9A
-- /resources/videos/how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum
-- /resources/videos/8-evolving-the-definition-of-done-over-time
-aliasesArchive:
-- /resources/videos/8-evolving-the-definition-of-done-over-time
-- 8-evolving-the-definition-of-done-over-time--tlSlpyeb9A
-- /resources/videos/how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum
-- how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum--tlSlpyeb9A
 preview: https://i9.ytimg.com/vi/-tlSlpyeb9A/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDVlokmV4qRCVie6V8-tGPsWcPsGA
 duration: 55
 resourceTypes:

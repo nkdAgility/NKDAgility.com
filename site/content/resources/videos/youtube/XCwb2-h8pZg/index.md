@@ -1,36 +1,34 @@
 ---
+title: 'Unlocking Project Management Potential: A Deep Dive into TFS Preview for Agile Teams'
 description: Explore how TFS Preview helps Agile teams manage projects with cloud-based source control, work tracking, Kanban boards, WIP limits, and early access to new features.
 date: 2013-08-17T07:27:19Z
-ResourceId: XCwb2-h8pZg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
+aliases:
+- /resources/XCwb2-h8pZg
+ResourceId: XCwb2-h8pZg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-categories:
-- Uncategorized
 Watermarks:
   description: 2025-05-12T14:23:24Z
-concepts: []
-title: 'Unlocking Project Management Potential: A Deep Dive into TFS Preview for Agile Teams'
 videoId: XCwb2-h8pZg
 source: youtube
 url: /resources/videos/:slug
-slug: unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
 layout: video
-aliases:
-- /resources/XCwb2-h8pZg
-- /resources/videos/unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
-- /resources/videos/kanban-with-team-foundation-service
 aliasesArchive:
 - /resources/videos/kanban-with-team-foundation-service
 - /resources/kanban-with-team-foundation-service
 - /resources/videos/unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
 - unlocking-project-management-potential-a-deep-dive-into-tfs-preview-for-agile-teams
+concepts: []
+categories:
+- Uncategorized
+tags: []
 preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
 duration: 254
 resourceTypes:

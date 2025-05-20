@@ -1,11 +1,18 @@
 ---
+title: 'Empowering Your Team: Why Quick Fixes in Agile and DevOps Are a Myth'
 description: Explains why lasting Agile and DevOps success requires empowering teams and building internal capability, not relying on quick fixes or external consultants for solutions.
 date: 2024-05-09T06:45:00Z
-ResourceId: BJZdyEqHhXc
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 610
+slug: empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
+aliases:
+- /resources/BJZdyEqHhXc
+- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
+- /resources/videos/nkd-agility-consulting-approach
+aliasesArchive:
+- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
+- /resources/videos/nkd-agility-consulting-approach
+- /resources/nkd-agility-consulting-approach
+- empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 concepts:
 - Capability
 categories:
@@ -24,27 +31,20 @@ tags:
 - Continuous Learning
 - Organisational Culture
 - Social Technologies
+ResourceId: BJZdyEqHhXc
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:02:53Z
-title: 'Empowering Your Team: Why Quick Fixes in Agile and DevOps Are a Myth'
 videoId: BJZdyEqHhXc
 source: youtube
 url: /resources/videos/:slug
-slug: empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 layout: video
-aliases:
-- /resources/BJZdyEqHhXc
-- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
-- /resources/videos/nkd-agility-consulting-approach
-aliasesArchive:
-- /resources/videos/empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
-- /resources/videos/nkd-agility-consulting-approach
-- /resources/nkd-agility-consulting-approach
-- empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 preview: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 resourceTypes:

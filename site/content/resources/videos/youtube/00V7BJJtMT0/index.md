@@ -1,28 +1,9 @@
 ---
+title: What is DevOps and how is it different to Agile?
 description: Explains how DevOps and Agile share core principles, focusing on delivering value through rapid feedback, systems thinking, and continuous improvement in software delivery.
 date: 2023-02-23T07:00:00Z
-ResourceId: 00V7BJJtMT0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- Product Development
-tags:
-- Value Delivery
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:58Z
-title: What is DevOps and how is it different to Agile?
-videoId: 00V7BJJtMT0
-source: internal
-url: /resources/videos/:slug
 slug: what-is-devops-and-how-is-it-different-to-agile
-layout: video
 aliases:
 - /resources/00V7BJJtMT0
 - /resources/videos/what-is-devops-and-how-is-it-different-to-agile
@@ -32,6 +13,25 @@ aliasesArchive:
 - /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
 - /resources/what-is-devops-and-how-is-it-different-to-agile-
 - what-is-devops-and-how-is-it-different-to-agile
+concepts: []
+categories:
+- Product Development
+tags:
+- Value Delivery
+ResourceId: 00V7BJJtMT0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:58Z
+videoId: 00V7BJJtMT0
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/00V7BJJtMT0/maxresdefault.jpg
 duration: 181
 resourceTypes:

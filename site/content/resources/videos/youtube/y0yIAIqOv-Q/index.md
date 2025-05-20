@@ -1,27 +1,9 @@
 ---
+title: When should an organisation consider a professional agile consultant?
 description: Organisations should consider a professional Agile consultant after project failures or for fresh, expert insight to drive improvement, growth, and effective Agile adoption.
 date: 2023-03-28T07:00:21Z
-ResourceId: y0yIAIqOv-Q
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Product Development
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:30Z
-title: When should an organisation consider a professional agile consultant?
-videoId: y0yIAIqOv-Q
-source: internal
-url: /resources/videos/:slug
 slug: when-should-an-organisation-consider-a-professional-agile-consultant
-layout: video
 aliases:
 - /resources/y0yIAIqOv-Q
 - /resources/videos/when-should-an-organisation-consider-a-professional-agile-consultant
@@ -34,6 +16,24 @@ aliasesArchive:
 - /resources/when-should-an-organization-consider-a-professional-agile-consultant-
 - /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant
 - when-should-an-organisation-consider-a-professional-agile-consultant
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceId: y0yIAIqOv-Q
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:30Z
+videoId: y0yIAIqOv-Q
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/y0yIAIqOv-Q/maxresdefault.jpg
 duration: 258
 resourceTypes:

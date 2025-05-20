@@ -1,27 +1,30 @@
 ---
 title: Avoid the pick-n-mix branching anti-pattern
 description: Explains the risks of the pick-n-mix branching anti-pattern in source control, its impact on code quality, and recommends feature branching and toggles for stability.
-ResourceId: IVl4r4gpkQ6
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10649
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-07-14
 weight: 205
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: avoid-pick-n-mix-branching-anti-pattern
 aliases:
 - /resources/IVl4r4gpkQ6
+ResourceId: IVl4r4gpkQ6
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10649
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/avoid-pick-n-mix-branching-anti-pattern
 - /avoid-pick-n-mix-branching-anti-pattern
 - /avoid-the-pick-n-mix-branching-anti-pattern
 - /blog/avoid-the-pick-n-mix-branching-anti-pattern
 - /resources/blog/avoid-pick-n-mix-branching-anti-pattern
+concepts: []
+categories:
+- Engineering Excellence
 tags:
 - Pragmatic Thinking
 - Release Management
@@ -36,12 +39,9 @@ tags:
 - Working Software
 - Continuous Delivery
 - Troubleshooting
-categories:
-- Engineering Excellence
 preview: nakedalm-experts-visual-studio-alm-4-4.png
 Watermarks:
   description: 2025-05-12T14:21:28Z
-concepts: []
 
 ---
 For the last few days I have been working with a customer in the UK on a grass roots engagement to help them solve their source control issues. They have ended up with a pick-n-mix branching anti-pattern and could not see the way out.

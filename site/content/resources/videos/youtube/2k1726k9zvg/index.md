@@ -1,31 +1,9 @@
 ---
+title: 'The Truth About Newbie vs Professional Scrum Masters: Bridging the Experience Gap'
 description: Explores the real differences between new and experienced Scrum Masters, challenging common myths and highlighting the importance of accountability, value, and mindset.
 date: 2023-03-31T07:00:03Z
-ResourceId: 2k1726k9zvg
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 690
-concepts: []
-categories:
-- Product Development
-- Scrum
-tags:
-- Software Development
-- Scrum Master
-- Professional Scrum
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:27Z
-title: 'The Truth About Newbie vs Professional Scrum Masters: Bridging the Experience Gap'
-videoId: 2k1726k9zvg
-source: youtube
-url: /resources/videos/:slug
 slug: the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
-layout: video
 aliases:
 - /resources/2k1726k9zvg
 - /resources/videos/the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
@@ -36,6 +14,28 @@ aliasesArchive:
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 - the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
+concepts: []
+categories:
+- Product Development
+- Scrum
+tags:
+- Software Development
+- Scrum Master
+- Professional Scrum
+ResourceId: 2k1726k9zvg
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:27Z
+videoId: 2k1726k9zvg
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
 duration: 283
 resourceTypes:

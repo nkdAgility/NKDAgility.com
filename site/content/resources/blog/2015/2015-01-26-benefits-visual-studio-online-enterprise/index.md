@@ -1,37 +1,37 @@
 ---
 title: The benefits of Visual Studio Online for the Enterprise
 description: Explains how Visual Studio Online streamlines enterprise software development with cloud-based tools, continuous updates, scalability, security, and simplified management.
-ResourceId: raLa_TzImU3
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11158
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2015-01-26
 weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: benefits-visual-studio-online-enterprise
 aliases:
 - /resources/raLa_TzImU3
+ResourceId: raLa_TzImU3
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11158
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/benefits-visual-studio-online-enterprise
 - /benefits-visual-studio-online-enterprise
 - /the-benefits-of-visual-studio-online-for-the-enterprise
 - /blog/the-benefits-of-visual-studio-online-for-the-enterprise
 - /resources/blog/benefits-visual-studio-online-enterprise
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Azure DevOps
 - Release Management
 - Software Development
-categories:
-- Uncategorized
 preview: nakedalm-experts-visual-studio-alm-6-6.png
 Watermarks:
   description: 2025-05-12T14:20:11Z
-concepts: []
 
 ---
 I last posted on [why you should use Visual Studio ALM](http://nkdagility.com/why-should-i-use-visual-studio-alm-whether-tfs-or-vso/) due to a customer ask, and now I have been asked to justify a move to Visual Studio Online for a company looking to use it for about 5,000 people.

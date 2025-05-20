@@ -1,33 +1,9 @@
 ---
+title: 'Transforming Leadership: Embrace the Immersive Journey to Agile Mastery'
 description: Explores a shift from intensive workshops to ongoing, immersive agile leadership training, enabling leaders to apply skills, build relationships, and drive team success.
 date: 2023-07-13T12:06:17Z
-ResourceId: OWvCS3xb7pQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts: []
-categories:
-- Leadership
-tags:
-- Agile Transformation
-- Continuous Learning
-- Personal
-- Agile Leadership
-- Organisational Agility
-- Organisational Change
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:10:41Z
-title: 'Transforming Leadership: Embrace the Immersive Journey to Agile Mastery'
-videoId: OWvCS3xb7pQ
-source: youtube
-url: /resources/videos/:slug
 slug: transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
-layout: video
 aliases:
 - /resources/OWvCS3xb7pQ
 - /resources/videos/transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
@@ -38,6 +14,30 @@ aliasesArchive:
 - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
 - transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
+concepts: []
+categories:
+- Leadership
+tags:
+- Agile Transformation
+- Continuous Learning
+- Personal
+- Agile Leadership
+- Organisational Agility
+- Organisational Change
+ResourceId: OWvCS3xb7pQ
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:41Z
+videoId: OWvCS3xb7pQ
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
 duration: 181
 resourceTypes:

@@ -1,38 +1,38 @@
 ---
 title: Using the Build vNext capabilities and demands system
 description: Explains how to use Build vNext's capabilities and demands system in VSO/TFS 2015 to match build agents with required tools and configurations for automated builds.
-ResourceId: iEMi_TIORPX
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 11081
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2015-03-11
 weight: 790
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: using-build-vnext-capabilities-demands-system
 aliases:
 - /resources/iEMi_TIORPX
+ResourceId: iEMi_TIORPX
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 11081
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/using-build-vnext-capabilities-demands-system
 - /using-build-vnext-capabilities-demands-system
 - /using-the-build-vnext-capabilities-and-demands-system
 - /blog/using-the-build-vnext-capabilities-and-demands-system
 - /resources/blog/using-build-vnext-capabilities-demands-system
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Azure Pipelines
 - Software Development
 - Azure DevOps
 - Install and Configuration
-categories:
-- Uncategorized
 preview: nakedalm-experts-visual-studio-alm-7-7.png
 Watermarks:
   description: 2025-05-12T14:19:59Z
-concepts: []
 
 ---
 Using the Build vNext capabilities and demands in VSO is one of the new cool features of the vNext build system being developed by Microsoft on VSO.

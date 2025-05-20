@@ -1,37 +1,37 @@
 ---
 title: Configuring Jenkins to talk to TFS 2013
 description: Guide to integrating Jenkins with TFS 2013 using the Team Foundation Server plugin, covering installation, configuration, and key differences from TF Build.
-ResourceId: ynMjy3Tn7hl
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10526
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2014-05-07
 weight: 690
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: configuring-jenkins-talk-tfs-2013
 aliases:
 - /resources/ynMjy3Tn7hl
+ResourceId: ynMjy3Tn7hl
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10526
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/configuring-jenkins-talk-tfs-2013
 - /configuring-jenkins-talk-tfs-2013
 - /configuring-jenkins-to-talk-to-tfs-2013
 - /blog/configuring-jenkins-to-talk-to-tfs-2013
 - /resources/blog/configuring-jenkins-talk-tfs-2013
+concepts: []
+categories:
+- Uncategorized
 tags:
 - Software Development
 - Install and Configuration
 - System Configuration
-categories:
-- Uncategorized
 preview: naked-alm-jenkins-logo-9-9.png
 Watermarks:
   description: 2025-05-12T14:21:48Z
-concepts: []
 
 ---
 I am working quite a lot with some Java teams at the moment who are using SVN and Jenkins. We are moving them over to TFS and TF Build and we wanted to make sure that we were minimally disruptive to first I need to configuring Jenkins to talk to TFS 2013.

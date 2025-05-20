@@ -1,35 +1,35 @@
 ---
 title: 'Review Part 3: Two Months with Intel Haswell Harris Beach SDS Ultrabook'
 description: Hands-on update after two months using the Intel Haswell Harris Beach SDS Ultrabook, focusing on Windows 8.1 driver fixes, battery life, and real-world productivity.
-ResourceId: LSTyPpa3cnS
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 10209
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-10-15
 weight: 1000
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: review-two-months-intel-haswell-harris-beach-sds-ultrabook
 aliases:
 - /resources/LSTyPpa3cnS
+ResourceId: LSTyPpa3cnS
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 10209
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
 - /review-two-months-intel-haswell-harris-beach-sds-ultrabook
 - /review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
 - /blog/review-part-3--two-months-with-intel-haswell-harris-beach-sds-ultrabook
 - /resources/blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
-tags:
-- Windows
+concepts: []
 categories:
 - Uncategorized
+tags:
+- Windows
 preview: Web-Intel-Metro-icon-3-3.png
 Watermarks:
   description: 2025-05-12T14:23:00Z
-concepts: []
 
 ---
 Now that I have had two months with the Intel Haswell Harris Beach SDS Ultrabook I thought that it would be a good idea to give you an update. You can check out Part #1 & #2 below however in this post I want to concentrate on Windows 8.1 with the SDS.

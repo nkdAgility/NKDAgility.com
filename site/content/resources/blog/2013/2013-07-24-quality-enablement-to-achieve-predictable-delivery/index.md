@@ -1,25 +1,28 @@
 ---
 title: Quality enablement to achieve predictable delivery
 description: Explains how defining quality standards, acceptance criteria, and automation in software delivery leads to predictable outcomes, fewer bugs, and improved team performance.
-ResourceId: Qvzmat4E5NB
-ResourceType: blog
-ResourceContentOrigin: Human
-ResourceImport: true
-ResourceImportId: 9737
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
 date: 2013-07-24
 weight: 315
-creator: Martin Hinshelwood
-layout: blog
-resourceTypes: blog
 slug: quality-enablement-to-achieve-predictable-delivery
 aliases:
 - /resources/Qvzmat4E5NB
+ResourceId: Qvzmat4E5NB
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
+ResourceContentOrigin: Human
+ResourceImportId: 9737
+creator: Martin Hinshelwood
+layout: blog
+resourceTypes: blog
 aliasesArchive:
 - /blog/quality-enablement-to-achieve-predictable-delivery
 - /quality-enablement-to-achieve-predictable-delivery
 - /resources/blog/quality-enablement-to-achieve-predictable-delivery
+concepts: []
+categories:
+- Engineering Excellence
 tags:
 - Operational Practices
 - Pragmatic Thinking
@@ -30,12 +33,9 @@ tags:
 - Value Delivery
 - Continuous Delivery
 - Technical Excellence
-categories:
-- Engineering Excellence
 preview: nakedalm-experts-professional-scrum-2-2.png
 Watermarks:
   description: 2025-05-12T14:23:36Z
-concepts: []
 
 ---
 You need quality enablement to achieve predictable delivery for your organisation which takes effort to achieve.

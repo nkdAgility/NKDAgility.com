@@ -1,11 +1,20 @@
 ---
+title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
 description: Explores how early assumptions about competence led to Agile’s current skills gap, highlighting the need for continuous learning, better hiring, and deeper expertise in teams.
 date: 2024-10-14T07:00:38Z
-ResourceId: txN41c6znbE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 250
+slug: where-agile-went-wrong-understanding-the-competence-crisis
+aliases:
+- /resources/txN41c6znbE
+- /resources/videos/where-agile-went-wrong-understanding-the-competence-crisis
+- /resources/videos/the-difference-between-a-rock-solid-deeply-competent-scrum-master-and-a-jira-jockey
+aliasesArchive:
+- /resources/videos/where-agile-went-wrong-understanding-the-competence-crisis
+- /resources/where-agile-went-wrong-understanding-the-competence-crisis
+- /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
+- /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
+- /resources/videos/the-difference-between-a-rock-solid-deeply-competent-scrum-master-and-a-jira-jockey
+- where-agile-went-wrong-understanding-the-competence-crisis
 concepts:
 - Discipline
 categories:
@@ -24,29 +33,20 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Team Performance
+ResourceId: txN41c6znbE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:32Z
-title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
 videoId: txN41c6znbE
 source: internal
 url: /resources/videos/:slug
-slug: where-agile-went-wrong-understanding-the-competence-crisis
 layout: video
-aliases:
-- /resources/txN41c6znbE
-- /resources/videos/where-agile-went-wrong-understanding-the-competence-crisis
-- /resources/videos/the-difference-between-a-rock-solid-deeply-competent-scrum-master-and-a-jira-jockey
-aliasesArchive:
-- /resources/videos/where-agile-went-wrong-understanding-the-competence-crisis
-- /resources/where-agile-went-wrong-understanding-the-competence-crisis
-- /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
-- /resources/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
-- /resources/videos/the-difference-between-a-rock-solid-deeply-competent-scrum-master-and-a-jira-jockey
-- where-agile-went-wrong-understanding-the-competence-crisis
 preview: https://i.ytimg.com/vi/txN41c6znbE/maxresdefault.jpg
 duration: 1604
 resourceTypes:

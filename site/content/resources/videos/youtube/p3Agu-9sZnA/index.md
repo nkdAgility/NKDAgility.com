@@ -1,11 +1,18 @@
 ---
+title: 'How to Tackle Technical Debt Without Halting Progress: Smarter Ways to Keep Your Team Moving Forward'
 description: Struggling with technical debt? Discover practical ways to tackle legacy systems, boost team morale, and deliver value—without grinding to a halt.
 date: 2025-05-26T06:00:00Z
-ResourceId: p3Agu-9sZnA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 115
+slug: how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
+aliases:
+- /resources/p3Agu-9sZnA
+- /resources/videos/how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
+- /resources/videos/8-reducing-technical-debt-while-keeping-systems-running
+aliasesArchive:
+- /resources/videos/8-reducing-technical-debt-while-keeping-systems-running
+- 8-reducing-technical-debt-while-keeping-systems-running
+- /resources/videos/how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
+- how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
 concepts:
 - Capability
 categories:
@@ -19,27 +26,20 @@ tags:
 - Technical Mastery
 - Operational Practices
 - Engineering Practices
+ResourceId: p3Agu-9sZnA
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T20:29:03Z
 ResourceContentOrigin: ai
-title: 'How to Tackle Technical Debt Without Halting Progress: Smarter Ways to Keep Your Team Moving Forward'
 videoId: p3Agu-9sZnA
 source: youtube
 url: /resources/videos/:slug
-slug: how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
 layout: video
-aliases:
-- /resources/p3Agu-9sZnA
-- /resources/videos/how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
-- /resources/videos/8-reducing-technical-debt-while-keeping-systems-running
-aliasesArchive:
-- /resources/videos/8-reducing-technical-debt-while-keeping-systems-running
-- 8-reducing-technical-debt-while-keeping-systems-running
-- /resources/videos/how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
-- how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
 preview: https://i9.ytimg.com/vi/p3Agu-9sZnA/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLDHQrPLPkg43P5Q18udZAZ6RbpUCg
 duration: 142
 resourceTypes:

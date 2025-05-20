@@ -1,31 +1,9 @@
 ---
+title: What is Kanban?
 description: Explains Kanban as a flexible strategy for visualising, analysing, and improving workflows, enabling continuous improvement and efficiency across any team or process.
 date: 2024-02-12T07:00:11Z
-ResourceId: LMmKDlcIvWs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
-concepts:
-- Framework
-categories:
-- Product Development
-tags:
-- Continuous Improvement
-- Operational Practices
-- Lean Principles
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:53Z
-title: What is Kanban?
-videoId: LMmKDlcIvWs
-source: internal
-url: /resources/videos/:slug
 slug: what-is-kanban
-layout: video
 aliases:
 - /resources/LMmKDlcIvWs
 - /resources/videos/what-is-kanban
@@ -35,6 +13,28 @@ aliasesArchive:
 - /resources/videos/what-is-kanban-
 - /resources/what-is-kanban-
 - what-is-kanban
+concepts:
+- Framework
+categories:
+- Product Development
+tags:
+- Continuous Improvement
+- Operational Practices
+- Lean Principles
+ResourceId: LMmKDlcIvWs
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:53Z
+videoId: LMmKDlcIvWs
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
 duration: 553
 resourceTypes:

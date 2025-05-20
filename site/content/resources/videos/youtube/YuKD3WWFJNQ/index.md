@@ -1,11 +1,22 @@
 ---
+title: 7 Harbingers of the Agile apocalypse - Silence
 description: Explores how silence in agile teams signals disengagement, and offers strategies to boost stakeholder participation, open communication, and effective sprint reviews.
 date: 2023-10-23T11:00:23Z
-ResourceId: YuKD3WWFJNQ
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
+slug: 7-harbingers-of-the-agile-apocalypse-silence
+aliases:
+- /resources/YuKD3WWFJNQ
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
+- /resources/videos/silence-7-harbingers-agile-apocalypse
+aliasesArchive:
+- /resources/videos/-harbingers-of-the-agile-apocalypse-silence
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
+- /resources/7-harbingers-of-the-agile-apocalypse-silence
+- /resources/videos/silence!-7-harbingers-agile-apocalypse-
+- /resources/silence!-7-harbingers-agile-apocalypse-
+- /resources/videos/silence-7-harbingers-agile-apocalypse-
+- 7-harbingers-of-the-agile-apocalypse-silence
+- /resources/videos/silence-7-harbingers-agile-apocalypse
 concepts: []
 categories:
 - Product Development
@@ -25,31 +36,20 @@ tags:
 - Pragmatic Thinking
 - Agile Leadership
 - Agile Frameworks
+ResourceId: YuKD3WWFJNQ
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:08:28Z
-title: 7 Harbingers of the Agile apocalypse - Silence
 videoId: YuKD3WWFJNQ
 source: internal
 url: /resources/videos/:slug
-slug: 7-harbingers-of-the-agile-apocalypse-silence
 layout: video
-aliases:
-- /resources/YuKD3WWFJNQ
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/silence-7-harbingers-agile-apocalypse
-aliasesArchive:
-- /resources/videos/-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-silence
-- /resources/7-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/silence!-7-harbingers-agile-apocalypse-
-- /resources/silence!-7-harbingers-agile-apocalypse-
-- /resources/videos/silence-7-harbingers-agile-apocalypse-
-- 7-harbingers-of-the-agile-apocalypse-silence
-- /resources/videos/silence-7-harbingers-agile-apocalypse
 preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
 duration: 436
 resourceTypes:

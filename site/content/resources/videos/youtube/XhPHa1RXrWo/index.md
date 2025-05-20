@@ -1,11 +1,19 @@
 ---
+title: 'Agile is Not New: A Journey Back to the Basics'
 description: Explores Agile’s historical roots, the loss of human connection in business, the impact of competence gaps, and why a return to core Agile principles is needed today.
 date: 2024-10-10T15:48:56Z
-ResourceId: XhPHa1RXrWo
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 355
+slug: agile-is-not-new-a-journey-back-to-the-basics
+aliases:
+- /resources/XhPHa1RXrWo
+- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/videos/the-intention-of-agile-and-scrum
+aliasesArchive:
+- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/agile-is-not-new-a-journey-back-to-the-basics
+- /resources/videos/the-intention-of-agile-and-scrum
+- /resources/the-intention-of-agile-and-scrum
+- agile-is-not-new-a-journey-back-to-the-basics
 concepts:
 - Ethos
 categories:
@@ -18,28 +26,20 @@ tags:
 - Agile Planning
 - Business Agility
 - Pragmatic Thinking
+ResourceId: XhPHa1RXrWo
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:35Z
-title: 'Agile is Not New: A Journey Back to the Basics'
 videoId: XhPHa1RXrWo
 source: internal
 url: /resources/videos/:slug
-slug: agile-is-not-new-a-journey-back-to-the-basics
 layout: video
-aliases:
-- /resources/XhPHa1RXrWo
-- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/videos/the-intention-of-agile-and-scrum
-aliasesArchive:
-- /resources/videos/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/agile-is-not-new-a-journey-back-to-the-basics
-- /resources/videos/the-intention-of-agile-and-scrum
-- /resources/the-intention-of-agile-and-scrum
-- agile-is-not-new-a-journey-back-to-the-basics
 preview: https://i.ytimg.com/vi/XhPHa1RXrWo/maxresdefault.jpg
 duration: 659
 resourceTypes:

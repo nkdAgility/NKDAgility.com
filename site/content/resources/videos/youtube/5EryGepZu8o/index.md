@@ -1,11 +1,18 @@
 ---
+title: If you could teach just one thing about Scrum, what would it be?
 description: The most important aspect of Scrum is empiricism—using transparency, inspection, and adaptation to navigate complexity and drive effective product development.
 date: 2023-02-27T07:00:01Z
-ResourceId: 5EryGepZu8o
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
+slug: if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+aliases:
+- /resources/5EryGepZu8o
+- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+aliasesArchive:
+- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+- /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
+- /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
+- /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
+- if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 concepts:
 - Principle
 categories:
@@ -19,27 +26,20 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Software Development
+ResourceId: 5EryGepZu8o
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:13:56Z
-title: If you could teach just one thing about Scrum, what would it be?
 videoId: 5EryGepZu8o
 source: internal
 url: /resources/videos/:slug
-slug: if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 layout: video
-aliases:
-- /resources/5EryGepZu8o
-- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
-aliasesArchive:
-- /resources/videos/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
-- /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
-- /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
-- /resources/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
-- if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 preview: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg
 duration: 204
 resourceTypes:

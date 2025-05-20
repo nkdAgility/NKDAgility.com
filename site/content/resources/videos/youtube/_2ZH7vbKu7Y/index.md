@@ -1,32 +1,9 @@
 ---
+title: 'Training: A Bridge to Knowledge and Growth'
 description: Explores how effective training, continuous learning, and a supportive culture help teams grow, adapt to change, and overcome skill gaps in modern organisations.
 date: 2023-10-27T07:00:14Z
-ResourceId: _2ZH7vbKu7Y
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 330
-concepts: []
-categories:
-- Leadership
-tags:
-- Continuous Learning
-- Competence
-- Continuous Improvement
-- Organisational Culture
-- Team Motivation
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:17Z
-title: 'Training: A Bridge to Knowledge and Growth'
-videoId: _2ZH7vbKu7Y
-source: internal
-url: /resources/videos/:slug
 slug: training-a-bridge-to-knowledge-and-growth
-layout: video
 aliases:
 - /resources/_2ZH7vbKu7Y
 - /resources/videos/training-a-bridge-to-knowledge-and-growth
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/training-a-bridge-to-knowledge-and-growth
 - /resources/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 - training-a-bridge-to-knowledge-and-growth
+concepts: []
+categories:
+- Leadership
+tags:
+- Continuous Learning
+- Competence
+- Continuous Improvement
+- Organisational Culture
+- Team Motivation
+ResourceId: _2ZH7vbKu7Y
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:17Z
+videoId: _2ZH7vbKu7Y
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/_2ZH7vbKu7Y/maxresdefault.jpg
 duration: 412
 resourceTypes:

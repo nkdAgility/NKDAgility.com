@@ -1,32 +1,9 @@
 ---
+title: Is Your Scrum Master Struggling? Discover When to Choose an Agile Process Simulation Workshop
 description: Learn when to use an Agile Process Simulation workshop to support struggling Scrum Masters, improve team dynamics, and foster collaborative, effective Scrum adoption.
 date: 2023-04-05T07:00:03Z
-ResourceId: 76mGfF0KoD0
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 640
-concepts: []
-categories:
-- Product Development
-- Scrum
-tags:
-- Software Development
-- Scrum Master
-- Scrum Team
-- Team Performance
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:13:22Z
-title: Is Your Scrum Master Struggling? Discover When to Choose an Agile Process Simulation Workshop
-videoId: 76mGfF0KoD0
-source: youtube
-url: /resources/videos/:slug
 slug: is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
-layout: video
 aliases:
 - /resources/76mGfF0KoD0
 - /resources/videos/is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
@@ -37,6 +14,29 @@ aliasesArchive:
 - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 - /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
 - is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop
+concepts: []
+categories:
+- Product Development
+- Scrum
+tags:
+- Software Development
+- Scrum Master
+- Scrum Team
+- Team Performance
+ResourceId: 76mGfF0KoD0
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:22Z
+videoId: 76mGfF0KoD0
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
 resourceTypes:

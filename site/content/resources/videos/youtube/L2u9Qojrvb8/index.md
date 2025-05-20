@@ -1,29 +1,9 @@
 ---
+title: 'Navigating DevOps: Crafting Unique Solutions for Unique Organizations'
 description: Explores how organisations can tailor DevOps strategies to their unique needs, highlighting the value of external expertise, adaptability, and continuous improvement.
 date: 2024-08-23T07:00:12Z
-ResourceId: L2u9Qojrvb8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 580
-concepts: []
-categories:
-- DevOps
-tags:
-- Software Development
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:01:14Z
-title: 'Navigating DevOps: Crafting Unique Solutions for Unique Organizations'
-videoId: L2u9Qojrvb8
-source: internal
-url: /resources/videos/:slug
 slug: navigating-devops-crafting-unique-solutions-for-unique-organizations
-layout: video
 aliases:
 - /resources/L2u9Qojrvb8
 - /resources/videos/navigating-devops-crafting-unique-solutions-for-unique-organizations
@@ -34,6 +14,26 @@ aliasesArchive:
 - /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 - /resources/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 - navigating-devops-crafting-unique-solutions-for-unique-organizations
+concepts: []
+categories:
+- DevOps
+tags:
+- Software Development
+- Pragmatic Thinking
+ResourceId: L2u9Qojrvb8
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:01:14Z
+videoId: L2u9Qojrvb8
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/L2u9Qojrvb8/maxresdefault.jpg
 duration: 198
 resourceTypes:

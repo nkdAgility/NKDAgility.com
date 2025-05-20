@@ -1,30 +1,9 @@
 ---
+title: When is an APS course appropriate for a scrum team?
 description: Explains when an Applied Professional Scrum (APS) course benefits Scrum teams, helping them identify and remove ineffective practices to improve Agile performance.
 date: 2023-10-12T08:32:45Z
-ResourceId: HrJMsZZQl_g
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
-concepts: []
-categories:
-- Product Development
-tags:
-- Agile Frameworks
-- Software Development
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:08:50Z
-title: When is an APS course appropriate for a scrum team?
-videoId: HrJMsZZQl_g
-source: internal
-url: /resources/videos/:slug
 slug: when-is-an-aps-course-appropriate-for-a-scrum-team
-layout: video
 aliases:
 - /resources/HrJMsZZQl_g
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team
@@ -35,6 +14,27 @@ aliasesArchive:
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-
 - when-is-an-aps-course-appropriate-for-a-scrum-team
+concepts: []
+categories:
+- Product Development
+tags:
+- Agile Frameworks
+- Software Development
+- Pragmatic Thinking
+ResourceId: HrJMsZZQl_g
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:50Z
+videoId: HrJMsZZQl_g
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/HrJMsZZQl_g/maxresdefault.jpg
 duration: 234
 resourceTypes:

@@ -1,37 +1,37 @@
 ---
+title: Reasons to do a PSPO-A Course in 60 Seconds
 description: Discover how the PSPO-A course helps product managers and owners master Agile and Scrum, boost collaboration, and drive effective product management in any organisation.
 date: 2023-07-11T14:00:32Z
-ResourceId: faoWuCkKC0U
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
+aliases:
+- /resources/faoWuCkKC0U
+- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
+ResourceId: faoWuCkKC0U
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:53Z
-title: Reasons to do a PSPO-A Course in 60 Seconds
 videoId: faoWuCkKC0U
 source: internal
 url: /resources/videos/:slug
-slug: reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
 layout: video
-aliases:
-- /resources/faoWuCkKC0U
-- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
 aliasesArchive:
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-seconds
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
 - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
 - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds
 - reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags: []
 preview: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg
 duration: 46
 resourceTypes:

@@ -1,28 +1,9 @@
 ---
+title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
 description: Join monthly interactive sessions to discuss real-world business agility challenges, share insights, and learn from diverse peers using a collaborative Lean Coffee format.
 date: 2022-07-27T18:45:14Z
-ResourceId: bvCU_N6iY_4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 840
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Business Agility
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:49Z
-title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
-videoId: bvCU_N6iY_4
-source: youtube
-url: /resources/videos/:slug
 slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
-layout: video
 aliases:
 - /resources/bvCU_N6iY_4
 - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
@@ -34,6 +15,25 @@ aliasesArchive:
 - /resources/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 - unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Business Agility
+ResourceId: bvCU_N6iY_4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:49Z
+videoId: bvCU_N6iY_4
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 resourceTypes:

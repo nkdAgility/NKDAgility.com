@@ -1,36 +1,36 @@
 ---
+title: 1 thing you wish you knew at the start of your Scrum journey?
 description: Learn why combining Lean principles with Scrum from the start boosts team efficiency, collaboration, and insight, leading to a more successful and informed Agile journey.
 date: 2023-08-04T07:00:03Z
-ResourceId: 5s9vi8PiFM4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 1000
+slug: 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
+aliases:
+- /resources/5s9vi8PiFM4
+- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
+ResourceId: 5s9vi8PiFM4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
-concepts: []
-categories:
-- Product Development
-tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T13:10:24Z
-title: 1 thing you wish you knew at the start of your Scrum journey?
 videoId: 5s9vi8PiFM4
 source: internal
 url: /resources/videos/:slug
-slug: 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
 layout: video
-aliases:
-- /resources/5s9vi8PiFM4
-- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
 aliasesArchive:
 - /resources/videos/-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-2
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
+concepts: []
+categories:
+- Product Development
+tags: []
 preview: https://i.ytimg.com/vi/5s9vi8PiFM4/maxresdefault.jpg
 duration: 47
 resourceTypes:

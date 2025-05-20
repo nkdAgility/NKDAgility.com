@@ -1,28 +1,9 @@
 ---
+title: How effective is scrum training via digital delivery?
 description: Digital scrum training is nearly as effective as in-person, offering greater accessibility, global perspectives, and practical use of remote collaboration tools.
 date: 2023-01-31T07:00:08Z
-ResourceId: Y7Cd1aocMKM
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 790
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Remote Working
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:14:19Z
-title: How effective is scrum training via digital delivery?
-videoId: Y7Cd1aocMKM
-source: internal
-url: /resources/videos/:slug
 slug: how-effective-is-scrum-training-via-digital-delivery
-layout: video
 aliases:
 - /resources/Y7Cd1aocMKM
 - /resources/videos/how-effective-is-scrum-training-via-digital-delivery
@@ -32,6 +13,25 @@ aliasesArchive:
 - /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
 - /resources/how-effective-is-scrum-training-via-digital-delivery-
 - how-effective-is-scrum-training-via-digital-delivery
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Remote Working
+ResourceId: Y7Cd1aocMKM
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:19Z
+videoId: Y7Cd1aocMKM
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/Y7Cd1aocMKM/maxresdefault.jpg
 duration: 384
 resourceTypes:

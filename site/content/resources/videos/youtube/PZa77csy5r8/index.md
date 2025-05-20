@@ -1,31 +1,9 @@
 ---
+title: 'Mastering Technical Debt: Strategies to Transform Challenges into Opportunities for Your Development Team'
 description: Explains technical debt in software development, its impact on teams, and practical strategies to identify, manage, and reduce it for long-term productivity and code quality.
 date: 2024-11-28T06:00:11Z
-ResourceId: PZa77csy5r8
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 205
-concepts: []
-categories:
-- Engineering Excellence
-tags:
-- Technical Debt
-- Technical Mastery
-- Pragmatic Thinking
-- Software Development
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:57:01Z
-title: 'Mastering Technical Debt: Strategies to Transform Challenges into Opportunities for Your Development Team'
-videoId: PZa77csy5r8
-source: youtube
-url: /resources/videos/:slug
 slug: mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
-layout: video
 aliases:
 - /resources/PZa77csy5r8
 - /resources/videos/mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
@@ -35,6 +13,28 @@ aliasesArchive:
 - /resources/videos/technical-debt-management-for-long-term-quality
 - /resources/technical-debt-management-for-long-term-quality
 - mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team
+concepts: []
+categories:
+- Engineering Excellence
+tags:
+- Technical Debt
+- Technical Mastery
+- Pragmatic Thinking
+- Software Development
+ResourceId: PZa77csy5r8
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:57:01Z
+videoId: PZa77csy5r8
+source: youtube
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/PZa77csy5r8/maxresdefault.jpg
 duration: 459
 resourceTypes:

@@ -1,32 +1,9 @@
 ---
+title: 'The Future of Scrum Training: Immersive Learning for Lasting Change'
 description: Explores how immersive, collaborative learning methods in Scrum training enable ongoing support, real-world application, and lasting organisational change over traditional courses.
 date: 2023-11-23T08:30:06Z
-ResourceId: Frqfd0EPj_4
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 665
-concepts: []
-categories:
-- Product Development
-tags:
-- Software Development
-- Team Performance
-- Agile Frameworks
-- Agile Transformation
-- Social Technologies
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:07:36Z
-title: 'The Future of Scrum Training: Immersive Learning for Lasting Change'
-videoId: Frqfd0EPj_4
-source: internal
-url: /resources/videos/:slug
 slug: the-future-of-scrum-training-immersive-learning-for-lasting-change
-layout: video
 aliases:
 - /resources/Frqfd0EPj_4
 - /resources/videos/the-future-of-scrum-training-immersive-learning-for-lasting-change
@@ -38,6 +15,29 @@ aliasesArchive:
 - /resources/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
 - /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so-why
 - the-future-of-scrum-training-immersive-learning-for-lasting-change
+concepts: []
+categories:
+- Product Development
+tags:
+- Software Development
+- Team Performance
+- Agile Frameworks
+- Agile Transformation
+- Social Technologies
+ResourceId: Frqfd0EPj_4
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:36Z
+videoId: Frqfd0EPj_4
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/Frqfd0EPj_4/maxresdefault.jpg
 duration: 134
 resourceTypes:

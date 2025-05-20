@@ -1,27 +1,9 @@
 ---
+title: 'Navigating the Legacy System Labyrinth: Strategies for Modernisation Success'
 description: Explore practical strategies for overcoming legacy system challenges, addressing technical debt, compliance, integration, and guiding effective modernisation decisions.
 date: 2025-04-07T06:00:36Z
-ResourceId: pTZaZcASniA
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 450
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T12:49:15Z
-title: 'Navigating the Legacy System Labyrinth: Strategies for Modernisation Success'
-videoId: pTZaZcASniA
-source: internal
-url: /resources/videos/:slug
 slug: navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
-layout: video
 aliases:
 - /resources/pTZaZcASniA
 - /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
@@ -36,6 +18,24 @@ aliasesArchive:
 - maximizing-transparency-and-improvement-in-software-engineering-with-kanban
 - /resources/videos/navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
 - navigating-the-legacy-system-labyrinth-strategies-for-modernisation-success
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceId: pTZaZcASniA
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:15Z
+videoId: pTZaZcASniA
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/pTZaZcASniA/maxresdefault.jpg
 duration: 91
 resourceTypes:

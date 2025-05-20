@@ -1,32 +1,9 @@
 ---
+title: Overview of the 'scaling with portfolio Kanban' course
 description: Learn how to apply Kanban at the organisational level to optimise workflow, improve predictability, and make data-driven decisions across multiple teams and projects.
 date: 2024-02-22T07:00:26Z
-ResourceId: kOj-O99mUZE
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 750
-concepts:
-- Method
-categories:
-- Product Development
-tags:
-- Operational Practices
-- Scaling
-- Agile Frameworks
-- Portfolio Management
-ResourceContentOrigin: AI
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-Watermarks:
-  description: 2025-05-07T13:05:38Z
-title: Overview of the 'scaling with portfolio Kanban' course
-videoId: kOj-O99mUZE
-source: internal
-url: /resources/videos/:slug
 slug: overview-of-the-scaling-with-portfolio-kanban-course
-layout: video
 aliases:
 - /resources/kOj-O99mUZE
 - /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
@@ -38,6 +15,29 @@ aliasesArchive:
 - /resources/overview-of-scaling-with-portfolio-kanban-course-
 - overview-of-the-scaling-with-portfolio-kanban-course
 - /resources/videos/overview-of-scaling-with-portfolio-kanban-course
+concepts:
+- Method
+categories:
+- Product Development
+tags:
+- Operational Practices
+- Scaling
+- Agile Frameworks
+- Portfolio Management
+ResourceId: kOj-O99mUZE
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:38Z
+videoId: kOj-O99mUZE
+source: internal
+url: /resources/videos/:slug
+layout: video
 preview: https://i.ytimg.com/vi/kOj-O99mUZE/maxresdefault.jpg
 duration: 146
 resourceTypes:

@@ -1,11 +1,16 @@
 ---
+title: Security by Design Building Secure Software
 description: Explains how integrating security and quality early in software development—using practices like TDD, pair programming, and continuous feedback—builds robust, reliable systems.
 date: 2024-11-26T13:35:33Z
-ResourceId: NgoP5W5y7Gs
-ResourceType: videos
-ResourceImport: true
-ResourceImportSource: Youtube
 weight: 355
+slug: security-by-design-building-secure-software
+aliases:
+- /resources/NgoP5W5y7Gs
+- /resources/videos/security-by-design-building-secure-software
+aliasesArchive:
+- /resources/videos/security-by-design-building-secure-software
+- /resources/security-by-design-building-secure-software
+- security-by-design-building-secure-software
 concepts:
 - Practice
 categories:
@@ -18,25 +23,20 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Product Delivery
+ResourceId: NgoP5W5y7Gs
+ResourceImport: true
+ResourceType: videos
+ResourceImportSource: Youtube
 ResourceContentOrigin: AI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:57:05Z
-title: Security by Design Building Secure Software
 videoId: NgoP5W5y7Gs
 source: internal
 url: /resources/videos/:slug
-slug: security-by-design-building-secure-software
 layout: video
-aliases:
-- /resources/NgoP5W5y7Gs
-- /resources/videos/security-by-design-building-secure-software
-aliasesArchive:
-- /resources/videos/security-by-design-building-secure-software
-- /resources/security-by-design-building-secure-software
-- security-by-design-building-secure-software
 preview: https://i.ytimg.com/vi/NgoP5W5y7Gs/maxresdefault.jpg
 duration: 369
 resourceTypes:
