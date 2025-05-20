@@ -117,7 +117,92 @@ prerequisites: |-
 audience: 
 trainers: 
 roadmap: 
-syllabus: 
+syllabus:
+- id: 1
+  title: The Scrum Framework
+  duration: 120
+  content: |
+    Students will gain a comprehensive understanding of the Scrum Framework, including roles, events, artifacts, and the underlying principles that make Scrum effective for software development teams.
+  learningResources:
+  - title: The Scrum Guide
+    link: https://nkdagility.com/the-2020-scrum-guide/
+    duration: 60 
+    type: document
+    weight: 1
+  - title: "APS-SD Workbook: The Scrum Framework"
+    link: 
+    duration: 30
+    type: document
+    weight: 1
+  - title: Planning in Scrum
+    link: https://youtu.be/08wArN-Tkhk
+    duration: 5
+    type: video
+    weight: 1
+- id: 2
+  title: Exploring the Scrum Framework
+  duration: 120
+  content: |
+    Students will delve deeper into the Scrum Framework, exploring how the different elements work together to create an environment that promotes transparency, inspection, and adaptation.
+  learningResources:
+  - title: The Scrum Guide
+    link: https://nkdagility.com/the-2020-scrum-guide/
+    duration: 60 
+    type: document
+    weight: 1
+  - title: Ethics in Scrum
+    link: https://youtu.be/Tw1gwc7rAVg
+    duration: 13
+    type: video
+    weight: 1
+  - title: Slaying Technical Debt
+    link: https://youtu.be/vLRH0HCXZek
+    duration: 5
+    type: video 
+    weight: 1
+- id: 3
+  title: Deeper into the Scrum Framework
+  duration: 120
+  content: |
+    Students will examine the nuances of Scrum implementation, focusing on team dynamics, motivation, and effective communication within the Scrum framework.
+  learningResources:
+  - title: The Surprising Truth about what motivates us
+    link: https://youtu.be/aJWH84Nwucc
+    duration: 2
+    type: video 
+    weight: 1
+  - title: The Daily Scrum is NOT a Status Meeting
+    link: https://youtu.be/i7_RPceEIYE
+    duration: 7
+    type: video
+    weight: 1
+  - title: Empathy
+    link: https://youtu.be/oUWMgHyf1bg
+    duration: 36
+    type: video
+    weight: 1
+  - title: Performance vs Trust
+    link: https://youtu.be/MiZqPXL1LHY
+    duration: 2
+    type: video
+    weight: 1
+- id: 4
+  title: Planning & Getting Started
+  duration: 90
+  content: |
+    Students will learn practical approaches to planning in Scrum and strategies for initiating projects effectively within the Scrum framework.
+  learningResources:
+  - title: "From Now to New Right Here: Change-as-Flipping"
+    link: https://www.slideshare.net/slideshow/from-now-to-new-right-here-changeasflipping-betacodex16/133691203
+    duration: 30
+    type: presentation
+    weight: 1
+- id: 5
+  title: CLOSING
+  duration: 60
+  content: |
+    A comprehensive review and integration of all concepts covered during the course, with emphasis on practical application and next steps.
+  learningResources: []
 events: 
 
 ---
