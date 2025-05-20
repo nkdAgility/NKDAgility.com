@@ -1,9 +1,28 @@
 ---
-title: '7 deadly sins of Agile: Envy'
 description: Explores how envy leads teams to copy Agile models like Spotify, warns against FOMO-driven adoption, and stresses tailoring Agile practices to your team’s unique needs.
 date: 2023-10-09T11:17:10Z
+ResourceId: 4mkwTMMtKls
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:57Z
+title: '7 deadly sins of Agile: Envy'
+videoId: 4mkwTMMtKls
+source: internal
+url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-envy
+layout: video
 aliases:
 - /resources/4mkwTMMtKls
 - /resources/videos/7-deadly-sins-of-agile-envy
@@ -16,30 +35,11 @@ aliasesArchive:
 - /resources/envy!-one-of-the-7-deadly-sins-of-agile
 - /resources/videos/envy-one-of-the-7-deadly-sins-of-agile
 - 7-deadly-sins-of-agile-envy
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Software Development
-ResourceId: 4mkwTMMtKls
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 4mkwTMMtKls
-source: internal
-url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4mkwTMMtKls/maxresdefault.jpg
 duration: 407
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-layout: video
-Watermarks:
-  description: 2025-05-07T13:08:57Z
+isShort: false
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

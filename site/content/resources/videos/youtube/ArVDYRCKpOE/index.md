@@ -1,9 +1,27 @@
 ---
-title: 'Quotes: Fake it until you make it'
 description: Explores when "fake it till you make it" works or fails in Agile teams, stressing the need for real expertise, coaching, and continuous learning over mere pretence.
 date: 2023-10-11T15:00:13Z
+ResourceId: ArVDYRCKpOE
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:52Z
+title: 'Quotes: Fake it until you make it'
+videoId: ArVDYRCKpOE
+source: internal
+url: /resources/videos/:slug
 slug: quotes-fake-it-until-you-make-it
+layout: video
 aliases:
 - /resources/ArVDYRCKpOE
 - /resources/videos/quotes-fake-it-until-you-make-it
@@ -13,29 +31,11 @@ aliasesArchive:
 - /resources/videos/quotes,-fake-it-until-you-make-it
 - /resources/quotes,-fake-it-until-you-make-it
 - quotes-fake-it-until-you-make-it
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceId: ArVDYRCKpOE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: ArVDYRCKpOE
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg
 duration: 64
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:08:52Z
+isShort: false
 
 ---
 ## Navigating its Limits in Agile Work Environments 

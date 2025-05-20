@@ -1,25 +1,12 @@
 ---
-title: 'Empowering Development Teams: Cultivating an Agile Mindset for Lasting Quality'
 description: Explores how leaders can foster an agile mindset in development teams by promoting autonomy, mastery, purpose, and a culture of quality and continuous improvement.
 date: 2020-04-07T20:33:45Z
-weight: 1000
-slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
-aliases:
-- /resources/iCDEX6oHy7A
 ResourceId: iCDEX6oHy7A
-ResourceImport: true
 ResourceType: videos
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: iCDEX6oHy7A
-url: /resources/videos/:slug
-layout: video
-aliasesArchive:
-- /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
-- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
-- empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+weight: 1000
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Product Development
@@ -27,17 +14,32 @@ categories:
 tags:
 - Agile Transformation
 - Software Development
-preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
-duration: 5071
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:15:54Z
+title: 'Empowering Development Teams: Cultivating an Agile Mindset for Lasting Quality'
+videoId: iCDEX6oHy7A
+source: youtube
+url: /resources/videos/:slug
+slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+layout: video
+aliases:
+- /resources/iCDEX6oHy7A
+- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+aliasesArchive:
+- /resources/videos/ep-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/videos/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/ep-004-chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
+- /resources/videos/empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+- empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+preview: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg
+duration: 5071
+resourceTypes:
+- video
+isShort: false
 
 ---
 As I sit here in Scotland, reflecting on a recent conversation with my good friend Jim from the Midwest, I can’t help but think about the challenges many organisations face on their agile journey. Jim reached out to me with a pressing question: how do we train development teams to embrace an agile mindset? This is a topic that resonates deeply with me, and I believe it’s crucial for the success of any [agile transformation]({{< ref "/tags/agile-transformation" >}}).

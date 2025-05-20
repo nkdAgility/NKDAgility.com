@@ -1,9 +1,31 @@
 ---
-title: 'Mastering Caman Strategy: How to Leverage Azure DevOps for Effective Visualisation in Hybrid Work Environments'
 description: Learn how to use Azure DevOps to set up and customise Caman boards for clear workflow visualisation, shared rules, and effective work management in hybrid teams.
 date: 2024-03-29T16:42:17Z
+ResourceId: jCrXzgjxcEA
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 840
+concepts:
+- Tool
+categories:
+- Uncategorized
+tags:
+- Azure DevOps
+- Operational Practices
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:22Z
+title: 'Mastering Caman Strategy: How to Leverage Azure DevOps for Effective Visualisation in Hybrid Work Environments'
+videoId: jCrXzgjxcEA
+source: youtube
+url: /resources/videos/:slug
 slug: mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
+layout: video
 aliases:
 - /resources/jCrXzgjxcEA
 - /resources/videos/mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
@@ -13,33 +35,11 @@ aliasesArchive:
 - /resources/videos/kanban-with-azure-devops
 - /resources/kanban-with-azure-devops
 - mastering-caman-strategy-how-to-leverage-azure-devops-for-effective-visualisation-in-hybrid-work-environments
-concepts:
-- Tool
-categories:
-- Uncategorized
-tags:
-- Azure DevOps
-- Operational Practices
-- Software Development
-ResourceId: jCrXzgjxcEA
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: jCrXzgjxcEA
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:05:22Z
+isShort: false
 
 ---
 Creating an effective Caman strategy is no small feat, especially in our current hybrid work environment. As we navigate this new landscape, the need for digital tools to share our visualisations has never been more critical. One such tool that I find invaluable is Azure [DevOps]({{< ref "/categories/devops" >}}). Today, I want to share my insights on how to leverage [Azure DevOps]({{< ref "/tags/azure-devops" >}}) to visualise your work as part of a Caman strategy.

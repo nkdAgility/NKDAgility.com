@@ -1,19 +1,11 @@
 ---
-title: 'Overcoming the Plague of Rigidity: Embracing True Agility in Your Team'
 description: Explores how rigid adherence to tools and processes hinders true agility, and offers strategies for fostering adaptability, experimentation, and continuous improvement in teams.
 date: 2023-11-08T11:00:53Z
+ResourceId: pDAL84mht3Y
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
-aliases:
-- /resources/pDAL84mht3Y
-- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
-- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
-- /resources/videos/7-signs-of-the-agile-apocalypse-plague
-aliasesArchive:
-- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
-- /resources/videos/7-signs-of-the-agile-apocalypse-plague
-- /resources/7-signs-of-the-agile-apocalypse-plague
-- overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
 concepts:
 - Principle
 categories:
@@ -29,25 +21,33 @@ tags:
 - Agile Transformation
 - Continuous Learning
 - Team Performance
-ResourceId: pDAL84mht3Y
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: pDAL84mht3Y
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
-duration: 47
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:08:00Z
+title: 'Overcoming the Plague of Rigidity: Embracing True Agility in Your Team'
+videoId: pDAL84mht3Y
+source: youtube
+url: /resources/videos/:slug
+slug: overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
+layout: video
+aliases:
+- /resources/pDAL84mht3Y
+- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
+- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
+- /resources/videos/7-signs-of-the-agile-apocalypse-plague
+aliasesArchive:
+- /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
+- /resources/videos/7-signs-of-the-agile-apocalypse-plague
+- /resources/7-signs-of-the-agile-apocalypse-plague
+- overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
+preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
+duration: 47
+resourceTypes:
+- video
+isShort: true
 
 ---
 As I reflect on my journey through the world of Agile, I often find myself contemplating the various signs that indicate we might be veering off course. One of the most concerning signs, which I like to refer to as a plague, is the rigid adherence to tools and processes within a team. This fixation can be detrimental to our ability to truly embrace agility.

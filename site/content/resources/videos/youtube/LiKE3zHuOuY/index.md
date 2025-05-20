@@ -1,28 +1,12 @@
 ---
-title: How Much of An Impact can Scrum Have in a DevOps Environment?
 description: Explores how integrating Scrum with DevOps boosts software delivery by improving collaboration, automation, speed, and product quality in modern development teams.
 date: 2023-06-15T14:45:02Z
-weight: 350
-slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
-aliases:
-- /resources/LiKE3zHuOuY
-- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
 ResourceId: LiKE3zHuOuY
-ResourceImport: true
 ResourceType: videos
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: LiKE3zHuOuY
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/LiKE3zHuOuY/maxresdefault.jpg
-duration: 29
-isShort: true
-aliasesArchive:
-- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-- /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-- how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
+weight: 350
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Uncategorized
@@ -31,10 +15,26 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:11:36Z
+title: How Much of An Impact can Scrum Have in a DevOps Environment?
+videoId: LiKE3zHuOuY
+source: internal
+url: /resources/videos/:slug
+slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
+layout: video
+aliases:
+- /resources/LiKE3zHuOuY
+- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
+aliasesArchive:
+- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+- /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+- how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
+preview: https://i.ytimg.com/vi/LiKE3zHuOuY/maxresdefault.jpg
+duration: 29
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}}) in a [DevOps]({{< ref "/categories/devops" >}}) World: A Game Changer!

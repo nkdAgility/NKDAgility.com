@@ -1,9 +1,28 @@
 ---
-title: 'Unlocking Growth: The Transformative Power of Poly Immersive Learning Experiences'
 description: Explores how poly immersive learning enhances professional growth through real-world feedback, reflection, collaboration, and practical application for lasting impact.
 date: 2023-07-13T12:20:07Z
+ResourceId: wawnGp8b2q8
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Continuous Learning
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:38Z
+title: 'Unlocking Growth: The Transformative Power of Poly Immersive Learning Experiences'
+videoId: wawnGp8b2q8
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
+layout: video
 aliases:
 - /resources/wawnGp8b2q8
 - /resources/videos/unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
@@ -14,30 +33,11 @@ aliasesArchive:
 - /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 - /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
 - unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Continuous Learning
-ResourceId: wawnGp8b2q8
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: wawnGp8b2q8
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:38Z
+isShort: false
 
 ---
 In my journey through the world of learning and development, I've come to appreciate the profound impact that poly immersive learning experiences can have. Today, I want to share three key benefits that stand out to me, particularly in our complex and ever-evolving environment.

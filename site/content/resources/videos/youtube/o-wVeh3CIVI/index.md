@@ -1,31 +1,12 @@
 ---
-title: What is Scrum?
 description: Scrum is a framework that helps teams organise and adapt to complex, changing tasks by enabling collaboration and shared goals in uncertain environments.
 date: 2023-05-19T07:00:31Z
-weight: 1000
-slug: what-is-scrum-o-wVeh3CIVI
-aliases:
-- /resources/o-wVeh3CIVI
-- /resources/videos/what-is-scrum-o-wVeh3CIVI
 ResourceId: o-wVeh3CIVI
-ResourceImport: true
 ResourceType: videos
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: o-wVeh3CIVI
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
-duration: 51
-isShort: true
-aliasesArchive:
-- /resources/videos/what-is-scrum
-- /resources/what-is-scrum-3
-- /resources/what-is-scrum-2
-- /resources/videos/what-is-scrum-
-- /resources/what-is-scrum-
-- what-is-scrum-o-wVeh3CIVI
+weight: 1000
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Product Development
@@ -35,10 +16,29 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:12:20Z
+title: What is Scrum?
+videoId: o-wVeh3CIVI
+source: internal
+url: /resources/videos/:slug
+slug: what-is-scrum-o-wVeh3CIVI
+layout: video
+aliases:
+- /resources/o-wVeh3CIVI
+- /resources/videos/what-is-scrum-o-wVeh3CIVI
+aliasesArchive:
+- /resources/videos/what-is-scrum
+- /resources/what-is-scrum-3
+- /resources/what-is-scrum-2
+- /resources/videos/what-is-scrum-
+- /resources/what-is-scrum-
+- what-is-scrum-o-wVeh3CIVI
+preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
+duration: 51
+resourceTypes:
+- video
+isShort: true
 
 ---
 **What is [Scrum]({{< ref "/categories/scrum" >}})?**

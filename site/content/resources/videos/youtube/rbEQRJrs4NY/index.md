@@ -1,9 +1,28 @@
 ---
-title: 'Unlocking Product Value: Why Real User Feedback is Your Best Asset'
 description: Real user feedback is essential in product development to validate assumptions, guide improvements, and ensure your product delivers real value to its target audience.
 date: 2025-02-07T07:52:12Z
+ResourceId: rbEQRJrs4NY
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Product Development
+tags:
+- Customer Focus
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:45Z
+title: 'Unlocking Product Value: Why Real User Feedback is Your Best Asset'
+videoId: rbEQRJrs4NY
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-product-value-why-real-user-feedback-is-your-best-asset
+layout: video
 aliases:
 - /resources/rbEQRJrs4NY
 - /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
@@ -15,30 +34,11 @@ aliasesArchive:
 - /resources/from-assumption-to-real-value-user-test
 - /resources/videos/unlocking-product-value-why-real-user-feedback-is-your-best-asset
 - unlocking-product-value-why-real-user-feedback-is-your-best-asset
-concepts: []
-categories:
-- Product Development
-tags:
-- Customer Focus
-ResourceId: rbEQRJrs4NY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: rbEQRJrs4NY
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/rbEQRJrs4NY/maxresdefault.jpg
 duration: 62
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:49:45Z
+isShort: false
 
 ---
 In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've come to realise a fundamental truth: **value only happens when you get it in front of real users**. Everything that precedes this moment is merely an assumption. We can spend countless hours validating our ideas, trying to weed out the bad assumptions and features that seem promising on paper but may not resonate in reality. However, the crux of the matter is this: until we present something we believe will provide value to actual users, we remain in the dark about its true worth.

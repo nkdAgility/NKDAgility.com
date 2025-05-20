@@ -1,9 +1,34 @@
 ---
-title: 'Empowering Agile Teams: The Transformative Power of Teaching the "Why"'
 description: Explores how teaching the reasons behind Agile practices boosts team engagement, collaboration, and continuous improvement, helping teams adapt and thrive with Scrum.
 date: 2023-04-27T07:00:31Z
+ResourceId: xuNNZnCNVWs
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Product Development
+tags:
+- Coaching
+- Software Development
+- Scrum Master
+- Agile Transformation
+- Social Technologies
+- Agile Frameworks
+- Organisational Agility
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:58Z
+title: 'Empowering Agile Teams: The Transformative Power of Teaching the "Why"'
+videoId: xuNNZnCNVWs
+source: youtube
+url: /resources/videos/:slug
 slug: empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
+layout: video
 aliases:
 - /resources/xuNNZnCNVWs
 - /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
@@ -17,36 +42,11 @@ aliasesArchive:
 - 1-critical-skill-for-a-scrum-master-and-why-xuNNZnCNVWs
 - /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why
 - empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
-concepts: []
-categories:
-- Product Development
-tags:
-- Coaching
-- Software Development
-- Scrum Master
-- Agile Transformation
-- Social Technologies
-- Agile Frameworks
-- Organisational Agility
-ResourceId: xuNNZnCNVWs
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: xuNNZnCNVWs
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:12:58Z
+isShort: true
 
 ---
 As a [Scrum]({{< ref "/categories/scrum" >}}) Master, I’ve come to realise that one of the most critical skills in my toolkit is the ability to teach effectively. But it’s not just about imparting knowledge; it’s about fostering understanding. In my experience, people are often resistant to change unless they grasp the underlying reasons for it. They need to see the value in what they’re being asked to do. 

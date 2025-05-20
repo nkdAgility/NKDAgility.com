@@ -1,14 +1,36 @@
 ---
-title: 3 best ways to wreck Kanban. Don't have a working agreement.
 description: Not having a working agreement in Kanban leads to team misalignment, inefficiency, and conflict. Clear agreements ensure roles, goals, and processes are understood by all.
 date: 2024-03-01T07:00:17Z
+ResourceId: h6yumCOP-aE
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 690
+concepts: []
+categories:
+- Product Development
+tags:
+- Operational Practices
+- Working Agreements
+- Team Performance
+- Pragmatic Thinking
+- Team Collaboration
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:31Z
+title: 3 best ways to wreck Kanban. Don't have a working agreement.
+videoId: h6yumCOP-aE
+source: internal
+url: /resources/videos/:slug
 slug: 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+layout: video
 aliases:
 - /resources/h6yumCOP-aE
 - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
-- /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
 aliasesArchive:
 - /resources/videos/-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
 - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement-
@@ -20,34 +42,11 @@ aliasesArchive:
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement
 - 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
 - /resources/videos/3-best-ways-to-wreck-kanban.-don-t-have-a-working-agreement.
-concepts: []
-categories:
-- Product Development
-tags:
-- Operational Practices
-- Working Agreements
-- Team Performance
-- Pragmatic Thinking
-- Team Collaboration
-ResourceId: h6yumCOP-aE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: h6yumCOP-aE
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/h6yumCOP-aE/maxresdefault.jpg
 duration: 302
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:05:31Z
+isShort: false
 
 ---
 ### Achieving Team Alignment with [Kanban]({{< ref "/categories/kanban" >}}): The Importance of a Working Agreement

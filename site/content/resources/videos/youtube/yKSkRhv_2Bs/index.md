@@ -1,30 +1,12 @@
 ---
-title: Reasons to do an APS Course in 60 Seconds
 description: Discover how an APS (Agile Professional Scrum) course helps teams start, refresh, or align their Scrum practices for improved collaboration and effective Agile delivery.
 date: 2023-07-10T14:30:31Z
-weight: 690
-slug: reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
-aliases:
-- /resources/yKSkRhv_2Bs
-- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
 ResourceId: yKSkRhv_2Bs
-ResourceImport: true
 ResourceType: videos
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: yKSkRhv_2Bs
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/yKSkRhv_2Bs/maxresdefault.jpg
-duration: 53
-isShort: true
-aliasesArchive:
-- /resources/videos/reasons-to-do-an-aps-course-in-seconds
-- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
-- /resources/reasons-to-do-an-aps-course-in-60-seconds-2
-- /resources/reasons-to-do-an-aps-course-in-60-seconds
-- reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
+weight: 690
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Uncategorized
@@ -33,10 +15,28 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:10:55Z
+title: Reasons to do an APS Course in 60 Seconds
+videoId: yKSkRhv_2Bs
+source: internal
+url: /resources/videos/:slug
+slug: reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
+layout: video
+aliases:
+- /resources/yKSkRhv_2Bs
+- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
+aliasesArchive:
+- /resources/videos/reasons-to-do-an-aps-course-in-seconds
+- /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
+- /resources/reasons-to-do-an-aps-course-in-60-seconds-2
+- /resources/reasons-to-do-an-aps-course-in-60-seconds
+- reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
+preview: https://i.ytimg.com/vi/yKSkRhv_2Bs/maxresdefault.jpg
+duration: 53
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## Unlock the Full Potential of [Scrum]({{< ref "/categories/scrum" >}}) with APS Courses

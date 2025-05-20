@@ -1,21 +1,11 @@
 ---
-title: 'Scaling Smart: How to Build Sustainable Growth Without the Chaos'
 description: Learn how to achieve sustainable, resilient organisational growth by focusing on simplification, value delivery, and effective agile practices—avoiding chaos as you scale.
 date: 2025-02-19T07:25:02Z
+ResourceId: MwieMDwVuOg
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 750
-slug: scaling-smart-how-to-build-sustainable-growth-without-the-chaos
-aliases:
-- /resources/MwieMDwVuOg
-- /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
-- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
-aliasesArchive:
-- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
-- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
-- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
-- /resources/the-key-to-scaling-successfully-agile-as-an-enabler
-- /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
-- scaling-smart-how-to-build-sustainable-growth-without-the-chaos
 concepts:
 - Capability
 categories:
@@ -29,25 +19,35 @@ tags:
 - Enterprise Agility
 - Organisational Agility
 - Pragmatic Thinking
-ResourceId: MwieMDwVuOg
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: MwieMDwVuOg
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
-duration: 114
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:49:35Z
+title: 'Scaling Smart: How to Build Sustainable Growth Without the Chaos'
+videoId: MwieMDwVuOg
+source: youtube
+url: /resources/videos/:slug
+slug: scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+layout: video
+aliases:
+- /resources/MwieMDwVuOg
+- /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
+aliasesArchive:
+- /resources/videos/rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
+- /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
+- /resources/most-valuable-lesson-you-learned-as-an-agile-consultant
+- /resources/videos/the-key-to-scaling-successfully-agile-as-an-enabler
+- /resources/the-key-to-scaling-successfully-agile-as-an-enabler
+- /resources/videos/scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+- scaling-smart-how-to-build-sustainable-growth-without-the-chaos
+preview: https://i.ytimg.com/vi/MwieMDwVuOg/maxresdefault.jpg
+duration: 114
+resourceTypes:
+- video
+isShort: false
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) isn't just about moving fast; it's about moving smart and sustainably. I've seen it time and again: organisations rush to scale without laying the right foundations, and what do they end up with? A bigger mess. It’s crucial to understand that while agile methodologies provide a pathway to scale, simply picking a framework and running with it isn’t the answer.

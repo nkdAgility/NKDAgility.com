@@ -1,9 +1,27 @@
 ---
-title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
 description: Explores the limits of self-taught learning in tech, highlighting how external expertise and diverse perspectives drive better solutions, growth, and organisational success.
 date: 2024-08-22T07:00:08Z
+ResourceId: DvW-xwxufa0
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 630
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:01:29Z
+title: 'The Limits of Self-Taught Learning: Why External Perspectives Matter'
+videoId: DvW-xwxufa0
+source: internal
+url: /resources/videos/:slug
 slug: the-limits-of-self-taught-learning-why-external-perspectives-matter
+layout: video
 aliases:
 - /resources/DvW-xwxufa0
 - /resources/videos/the-limits-of-self-taught-learning-why-external-perspectives-matter
@@ -15,29 +33,11 @@ aliasesArchive:
 - /resources/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 - /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ
 - the-limits-of-self-taught-learning-why-external-perspectives-matter
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceId: DvW-xwxufa0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: DvW-xwxufa0
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg
 duration: 339
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:01:29Z
+isShort: false
 
 ---
 In today’s fast-paced digital landscape, the concept of self-taught learning is more prevalent than ever. However, as we dive deeper into the realms of [software development]({{< ref "/tags/software-development" >}}), [DevOps]({{< ref "/categories/devops" >}}), and organizational transformation, it's crucial to recognize the limitations that come with learning in isolation. While self-taught knowledge has its merits, there are significant benefits to bringing in external expertise. This post explores the importance of diverse knowledge and how it can help organizations break through the barriers that self-taught learning often creates.

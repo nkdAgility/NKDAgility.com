@@ -1,9 +1,32 @@
 ---
-title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer'
 description: Learn to identify, challenge, and validate assumptions in product development, avoid the “Feature Factory” trap, and build products that truly meet user needs.
 date: 2024-08-09T05:27:35Z
+ResourceId: ucTJ1fe1CvQ
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Product Discovery
+- Pragmatic Thinking
+- Customer Focus
+- Continuous Learning
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:16Z
+title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer'
+videoId: ucTJ1fe1CvQ
+source: internal
+url: /resources/videos/:slug
 slug: unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+layout: video
 aliases:
 - /resources/ucTJ1fe1CvQ
 - /resources/videos/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
@@ -14,34 +37,11 @@ aliasesArchive:
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview
 - unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Product Discovery
-- Pragmatic Thinking
-- Customer Focus
-- Continuous Learning
-ResourceId: ucTJ1fe1CvQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: ucTJ1fe1CvQ
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/ucTJ1fe1CvQ/maxresdefault.jpg
 duration: 355
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:02:16Z
+isShort: false
 
 ---
 ## **Why the PPDV Course Was Created**

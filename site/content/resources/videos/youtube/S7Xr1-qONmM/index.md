@@ -1,18 +1,11 @@
 ---
-title: Why do you think the PSU course has become so popular for product development?
 description: The PSU course bridges the gap in product development by integrating user experience and design into Scrum, enabling teams to deliver more valuable, user-focused products.
 date: 2023-02-21T07:00:07Z
+ResourceId: S7Xr1-qONmM
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 540
-slug: why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
-aliases:
-- /resources/S7Xr1-qONmM
-- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
-aliasesArchive:
-- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
-- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
-- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
-- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
-- why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 concepts: []
 categories:
 - Product Development
@@ -22,25 +15,32 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Customer Focus
-ResourceId: S7Xr1-qONmM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: S7Xr1-qONmM
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/S7Xr1-qONmM/maxresdefault.jpg
-duration: 294
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:14:01Z
+title: Why do you think the PSU course has become so popular for product development?
+videoId: S7Xr1-qONmM
+source: internal
+url: /resources/videos/:slug
+slug: why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+layout: video
+aliases:
+- /resources/S7Xr1-qONmM
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+aliasesArchive:
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+- /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
+- /resources/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
+- why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
+preview: https://i.ytimg.com/vi/S7Xr1-qONmM/maxresdefault.jpg
+duration: 294
+resourceTypes:
+- video
+isShort: false
 
 ---
 Why do you think the PSU course has become so popular for [product development]({{< ref "/categories/product-development" >}})?

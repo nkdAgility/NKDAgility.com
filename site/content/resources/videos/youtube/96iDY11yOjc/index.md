@@ -1,9 +1,29 @@
 ---
-title: How big is the gap between an average developer and a great Agile Developer?
 description: Explores the key differences between average and great Agile developers, highlighting engagement, continuous learning, practice, and self-directed growth in Agile environments.
 date: 2023-06-06T07:00:04Z
+ResourceId: 96iDY11yOjc
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 355
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Continuous Learning
+- Competence
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:51Z
+title: How big is the gap between an average developer and a great Agile Developer?
+videoId: 96iDY11yOjc
+source: internal
+url: /resources/videos/:slug
 slug: how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
+layout: video
 aliases:
 - /resources/96iDY11yOjc
 - /resources/videos/how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
@@ -14,31 +34,11 @@ aliasesArchive:
 - /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 - /resources/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 - how-big-is-the-gap-between-an-average-developer-and-a-great-agile-developer
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Continuous Learning
-- Competence
-ResourceId: 96iDY11yOjc
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 96iDY11yOjc
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/96iDY11yOjc/maxresdefault.jpg
 duration: 349
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:51Z
+isShort: false
 
 ---
 ## Bridging the Chasm: From Average to Agile Excellence in Development

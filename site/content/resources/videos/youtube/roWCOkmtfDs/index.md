@@ -1,19 +1,11 @@
 ---
-title: 'The Importance of Validation in Product Development: A Strategic Approach'
 description: Explains why validating product features is essential, highlighting hypothesis-driven development, data collection, and evidence-based decisions to maximise long-term product value.
 date: 2024-09-02T15:30:15Z
+ResourceId: roWCOkmtfDs
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 640
-slug: the-importance-of-validation-in-product-development-a-strategic-approach
-aliases:
-- /resources/roWCOkmtfDs
-- /resources/videos/the-importance-of-validation-in-product-development-a-strategic-approach
-- /resources/videos/what-is-product-validation-and-why-does-it-matter
-aliasesArchive:
-- /resources/videos/the-importance-of-validation-in-product-development-a-strategic-approach
-- /resources/the-importance-of-validation-in-product-development-a-strategic-approach
-- /resources/videos/what-is-product-validation-and-why-does-it-matter
-- /resources/what-is-product-validation-and-why-does-it-matter
-- the-importance-of-validation-in-product-development-a-strategic-approach
 concepts:
 - Principle
 categories:
@@ -34,25 +26,33 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - Product Strategy
-ResourceId: roWCOkmtfDs
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: roWCOkmtfDs
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg
-duration: 843
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:58:40Z
+title: 'The Importance of Validation in Product Development: A Strategic Approach'
+videoId: roWCOkmtfDs
+source: internal
+url: /resources/videos/:slug
+slug: the-importance-of-validation-in-product-development-a-strategic-approach
+layout: video
+aliases:
+- /resources/roWCOkmtfDs
+- /resources/videos/the-importance-of-validation-in-product-development-a-strategic-approach
+- /resources/videos/what-is-product-validation-and-why-does-it-matter
+aliasesArchive:
+- /resources/videos/the-importance-of-validation-in-product-development-a-strategic-approach
+- /resources/the-importance-of-validation-in-product-development-a-strategic-approach
+- /resources/videos/what-is-product-validation-and-why-does-it-matter
+- /resources/what-is-product-validation-and-why-does-it-matter
+- the-importance-of-validation-in-product-development-a-strategic-approach
+preview: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg
+duration: 843
+resourceTypes:
+- video
+isShort: false
 
 ---
 When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue—sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.

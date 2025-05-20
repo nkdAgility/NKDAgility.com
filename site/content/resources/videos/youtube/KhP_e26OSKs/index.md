@@ -1,19 +1,11 @@
 ---
-title: 'Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meaningful Feedback'
 description: Learn practical strategies to boost stakeholder attendance and engagement in Sprint reviews, encouraging valuable feedback and stronger collaboration for product improvement.
 date: 2023-12-15T11:00:17Z
+ResourceId: KhP_e26OSKs
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
-aliases:
-- /resources/KhP_e26OSKs
-- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
-- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
-aliasesArchive:
-- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
-- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
-- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
-- transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
 concepts: []
 categories:
 - Product Development
@@ -24,25 +16,33 @@ tags:
 - Pragmatic Thinking
 - Agile Product Management
 - Software Development
-ResourceId: KhP_e26OSKs
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: KhP_e26OSKs
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg
-duration: 57
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:53Z
+title: 'Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meaningful Feedback'
+videoId: KhP_e26OSKs
+source: youtube
+url: /resources/videos/:slug
+slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
+layout: video
+aliases:
+- /resources/KhP_e26OSKs
+- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
+- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+aliasesArchive:
+- /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
+- /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+- /resources/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
+- transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
+preview: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg
+duration: 57
+resourceTypes:
+- video
+isShort: true
 
 ---
 One of the recurring challenges I encounter in organisations is the struggle that product owners, particularly those who are new to the role, face in securing stakeholder attendance at Sprint reviews. It’s a common scenario: you’ve put in the effort, crafted a compelling presentation, and yet, when the time comes, the room feels more like a ghost town than a vibrant discussion space. Even when stakeholders do show up, getting meaningful feedback can feel like pulling teeth. You ask for their thoughts, and all you hear is the sound of tumbleweeds rolling through the desert.

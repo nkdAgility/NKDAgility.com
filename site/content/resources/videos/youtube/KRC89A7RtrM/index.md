@@ -1,19 +1,31 @@
 ---
-title: 'Unlocking TFS: Mastering Permissions for Seamless Team Collaboration'
 description: Learn how to configure Team Foundation Server (TFS) permissions and access levels to enable full feature access and improve team collaboration and project management.
 date: 2014-01-15T14:55:37Z
-weight: 1000
 ResourceId: KRC89A7RtrM
 ResourceType: videos
-ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
+weight: 1000
+ResourceContentOrigin: AI
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+categories:
+- Uncategorized
+Watermarks:
+  description: 2025-05-12T14:22:31Z
+concepts: []
+title: 'Unlocking TFS: Mastering Permissions for Seamless Team Collaboration'
 videoId: KRC89A7RtrM
+source: youtube
 url: /resources/videos/:slug
 slug: unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
 layout: video
 aliases:
 - /resources/KRC89A7RtrM
+- /resources/videos/unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
+- /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 aliasesArchive:
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-
 - /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
@@ -22,19 +34,9 @@ aliasesArchive:
 - unlocking-tfs-mastering-permissions-for-seamless-team-collaboration
 preview: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
 duration: 164
-isShort: false
-tags: []
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
-Watermarks:
-  description: 2025-05-12T14:22:31Z
-concepts: []
+isShort: false
 
 ---
 When I first opened Team Foundation Server (TFS), I encountered a common hurdle that many users face: a message indicating that some features of Team Web Access were not visible to me. Initially, I was directed to an MSDN article that promised a solution, but I quickly realised that the fix was much simpler than it seemed. The key? Having the right administrative access on the TFS server—not just on the collection, but on the entire server itself.

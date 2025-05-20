@@ -1,9 +1,27 @@
 ---
-title: 'Essential Skills Every Agile Consultant Needs: Mastering Domain Knowledge, Active Listening, and Honest Communication'
 description: 'Covers key skills for agile consultants: mastering domain knowledge, practising active listening, and communicating honestly to drive transparency and effective organisational change.'
 date: 2023-04-14T07:00:24Z
+ResourceId: gImXmxjn_1g
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:14Z
+title: 'Essential Skills Every Agile Consultant Needs: Mastering Domain Knowledge, Active Listening, and Honest Communication'
+videoId: gImXmxjn_1g
+source: youtube
+url: /resources/videos/:slug
 slug: essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
+layout: video
 aliases:
 - /resources/gImXmxjn_1g
 - /resources/videos/essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
@@ -16,29 +34,11 @@ aliasesArchive:
 - what-are-3-top-tips-for-a-new-agile-consultant
 - /resources/videos/essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
 - essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceId: gImXmxjn_1g
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: gImXmxjn_1g
-source: youtube
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/gImXmxjn_1g/maxresdefault.jpg
 duration: 376
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:13:14Z
+isShort: false
 
 ---
 As I reflect on my journey as an agile consultant, I often find myself thinking about the essential skills that can make or break your effectiveness in this role. Whether you're just starting out or looking to refine your approach, here are my top three tips for new agile consultants that I believe can set you on the right path.

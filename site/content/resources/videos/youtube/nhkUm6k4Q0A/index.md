@@ -1,19 +1,11 @@
 ---
-title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
 description: Learn how Agile coaches can empower teams by staying framework-agnostic, focusing on core principles, and enabling teams to choose and adapt practices for their needs.
 date: 2023-11-14T11:00:50Z
+ResourceId: nhkUm6k4Q0A
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 610
-slug: how-to-be-an-effective-agile-coach-agnosticism-in-practice
-aliases:
-- /resources/nhkUm6k4Q0A
-- /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
-aliasesArchive:
-- /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
-- /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
-- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
-- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
-- how-to-be-an-effective-agile-coach-agnosticism-in-practice
 concepts:
 - Principle
 categories:
@@ -26,25 +18,33 @@ tags:
 - Agile Philosophy
 - Agnostic Agile
 - Agile Frameworks
-ResourceId: nhkUm6k4Q0A
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: nhkUm6k4Q0A
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/nhkUm6k4Q0A/maxresdefault.jpg
-duration: 61
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:07:52Z
+title: 'How to Be an Effective Agile Coach: Agnosticism in Practice'
+videoId: nhkUm6k4Q0A
+source: internal
+url: /resources/videos/:slug
+slug: how-to-be-an-effective-agile-coach-agnosticism-in-practice
+layout: video
+aliases:
+- /resources/nhkUm6k4Q0A
+- /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+aliasesArchive:
+- /resources/videos/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+- /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
+- /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+- /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+- how-to-be-an-effective-agile-coach-agnosticism-in-practice
+preview: https://i.ytimg.com/vi/nhkUm6k4Q0A/maxresdefault.jpg
+duration: 61
+resourceTypes:
+- video
+isShort: false
 
 ---
 If you’re looking to become a great Agile coach, one of the most crucial qualities you need to cultivate is agnosticism in your practices. While you may have your own preferences—mine happens to be [Scrum]({{< ref "/categories/scrum" >}})—it’s important to ensure that the team you’re working with can choose the most effective practices that suit them. This may sometimes mean putting aside your favorite framework and helping the team make decisions that work best for their unique context.

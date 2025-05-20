@@ -1,9 +1,30 @@
 ---
-title: 'Unlocking Team Potential: The Essential Role of Digital Whiteboards in Agile Collaboration'
 description: Explores how digital whiteboards boost agile team collaboration, engagement, and organisation, offering practical tips for effective use in remote and hybrid work settings.
 date: 2023-09-19T07:00:21Z
+ResourceId: rbFTob3DdjE
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts:
+- Tool
+categories:
+- Product Development
+tags:
+- Team Collaboration
+- Remote Working
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:27Z
+title: 'Unlocking Team Potential: The Essential Role of Digital Whiteboards in Agile Collaboration'
+videoId: rbFTob3DdjE
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
+layout: video
 aliases:
 - /resources/rbFTob3DdjE
 - /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
@@ -14,32 +35,11 @@ aliasesArchive:
 - /resources/videos/5-tools-that-scrum-masters-love-part-2
 - /resources/5-tools-that-scrum-masters-love-part-2
 - unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
-concepts:
-- Tool
-categories:
-- Product Development
-tags:
-- Team Collaboration
-- Remote Working
-ResourceId: rbFTob3DdjE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: rbFTob3DdjE
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/rbFTob3DdjE/maxresdefault.jpg
 duration: 39
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:09:27Z
+isShort: true
 
 ---
 As a [Scrum]({{< ref "/categories/scrum" >}}) Master, I’ve developed a fondness for digital whiteboards. It’s a love that transcends the specific platform; whether it’s Mural, Miro, Lucid Spark, or even Microsoft Whiteboards, the essence remains the same. These tools have become indispensable in my toolkit, enabling me to create compelling interactive experiences for teams, workshops, and even our daily scrums.

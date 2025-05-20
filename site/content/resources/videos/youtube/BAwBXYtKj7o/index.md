@@ -1,18 +1,11 @@
 ---
-title: Technical Debt Management for Long-Term Quality
 description: Explains how managing and repaying technical debt improves software quality, delivery speed, and long-term value by addressing both known and unknown code issues.
 date: 2024-11-21T07:00:11Z
+ResourceId: BAwBXYtKj7o
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 205
-slug: technical-debt-management-for-long-term-quality
-aliases:
-- /resources/BAwBXYtKj7o
-- /resources/videos/technical-debt-management-for-long-term-quality
-- /resources/videos/the-power-of-automated-testing
-aliasesArchive:
-- /resources/videos/technical-debt-management-for-long-term-quality
-- /resources/videos/the-power-of-automated-testing
-- /resources/the-power-of-automated-testing
-- technical-debt-management-for-long-term-quality
 concepts: []
 categories:
 - Engineering Excellence
@@ -27,25 +20,32 @@ tags:
 - Engineering Practices
 - Working Software
 - Pragmatic Thinking
-ResourceId: BAwBXYtKj7o
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: BAwBXYtKj7o
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
-duration: 451
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:11Z
+title: Technical Debt Management for Long-Term Quality
+videoId: BAwBXYtKj7o
+source: internal
+url: /resources/videos/:slug
+slug: technical-debt-management-for-long-term-quality
+layout: video
+aliases:
+- /resources/BAwBXYtKj7o
+- /resources/videos/technical-debt-management-for-long-term-quality
+- /resources/videos/the-power-of-automated-testing
+aliasesArchive:
+- /resources/videos/technical-debt-management-for-long-term-quality
+- /resources/videos/the-power-of-automated-testing
+- /resources/the-power-of-automated-testing
+- technical-debt-management-for-long-term-quality
+preview: https://i.ytimg.com/vi/BAwBXYtKj7o/maxresdefault.jpg
+duration: 451
+resourceTypes:
+- video
+isShort: false
 
 ---
 # [Technical Debt]({{< ref "/tags/technical-debt" >}}) Management for Long-Term Quality | Martin Hinshelwood  

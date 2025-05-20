@@ -1,9 +1,31 @@
 ---
-title: 'Unlocking Agile Consulting: Transform Your Organisation with Diverse Strategies and Continuous Learning'
 description: Explains Agile consulting by highlighting diverse strategies, continuous learning, and practical ways to help organisations improve collaboration, value delivery, and adaptability.
 date: 2023-06-17T07:30:02Z
+ResourceId: 82_yTGt9pLM
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 690
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Agile Strategy
+- Organisational Agility
+- Organisational Change
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:32Z
+title: 'Unlocking Agile Consulting: Transform Your Organisation with Diverse Strategies and Continuous Learning'
+videoId: 82_yTGt9pLM
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
+layout: video
 aliases:
 - /resources/82_yTGt9pLM
 - /resources/videos/unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
@@ -13,33 +35,11 @@ aliasesArchive:
 - /resources/videos/agile-consulting-services-overview
 - /resources/agile-consulting-services-overview
 - unlocking-agile-consulting-transform-your-organisation-with-diverse-strategies-and-continuous-learning
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Agile Strategy
-- Organisational Agility
-- Organisational Change
-- Pragmatic Thinking
-ResourceId: 82_yTGt9pLM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 82_yTGt9pLM
-url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
-layout: video
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:32Z
+isShort: false
 
 ---
 When I think about Agile Consulting, I often find that it’s a term that can leave people scratching their heads. What does it really mean? Over the years, I’ve developed my own approach to Agile Consulting, and I’d like to share some insights from my experiences that might help clarify this nebulous concept.

@@ -1,9 +1,27 @@
 ---
-title: Under employed - 30% upfront, balance when you are employed
 description: 'Explains a pay-later training programme for the underemployed: pay 30% upfront, with the balance due only after securing suitable employment and career advancement.'
 date: 2023-06-14T07:00:18Z
+ResourceId: UeGdC6GRyq4
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:39Z
+title: Under employed - 30% upfront, balance when you are employed
+videoId: UeGdC6GRyq4
+source: internal
+url: /resources/videos/:slug
 slug: under-employed-30-upfront-balance-when-you-are-employed
+layout: video
 aliases:
 - /resources/UeGdC6GRyq4
 - /resources/videos/under-employed-30-upfront-balance-when-you-are-employed
@@ -17,29 +35,11 @@ aliasesArchive:
 - /resources/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 - under-employed-30-upfront-balance-when-you-are-employed
 - /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceId: UeGdC6GRyq4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: UeGdC6GRyq4
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
 duration: 257
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:39Z
+isShort: false
 
 ---
 ## It's Your Time to Shine: Pay 30% Up Front, Balance When You Land the Job 

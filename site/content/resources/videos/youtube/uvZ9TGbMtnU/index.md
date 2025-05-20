@@ -1,19 +1,11 @@
 ---
-title: 'Ditching the Myth of Special Sprints: Embrace True Agile Practices for Usable Products'
 description: Explains why relying on special Sprints undermines Agile, and advocates for continuous improvement, accountability, and delivering usable products each Sprint.
 date: 2024-01-04T12:14:45Z
+ResourceId: uvZ9TGbMtnU
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
-aliases:
-- /resources/uvZ9TGbMtnU
-- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
-- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
-aliasesArchive:
-- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
-- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
-- /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
-- ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
 concepts:
 - Principle
 categories:
@@ -28,25 +20,33 @@ tags:
 - Pragmatic Thinking
 - Agile Planning
 - Agile Values and Principles
-ResourceId: uvZ9TGbMtnU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: uvZ9TGbMtnU
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
-duration: 41
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:38Z
+title: 'Ditching the Myth of Special Sprints: Embrace True Agile Practices for Usable Products'
+videoId: uvZ9TGbMtnU
+source: youtube
+url: /resources/videos/:slug
+slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
+layout: video
+aliases:
+- /resources/uvZ9TGbMtnU
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
+aliasesArchive:
+- /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
+- /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
+- /resources/-shorts-5-kinds-of-agile-bandits-1st-kind
+- ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
+preview: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
+duration: 41
+resourceTypes:
+- video
+isShort: true
 
 ---
 In my journey through the world of Agile, I've often encountered a myriad of misconceptions that can hinder our progress. One of the most persistent myths is the idea of special Sprints—those elusive Sprint Zeros, hardening Sprints, and bug fix Sprints. Today, I want to share my thoughts on why these concepts can be detrimental to our Agile practices and how we can focus on delivering usable, working products instead.

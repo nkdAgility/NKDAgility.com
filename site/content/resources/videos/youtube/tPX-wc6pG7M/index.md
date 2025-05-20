@@ -1,18 +1,11 @@
 ---
-title: 'Unlocking Organisational Value: The Transformative Power of Engagement in Agile Teams'
 description: Explores how decentralising decision-making, fostering autonomy, and building a shared vision in agile teams can boost engagement and unlock greater organisational value.
 date: 2023-09-28T10:27:47Z
+ResourceId: tPX-wc6pG7M
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 690
-slug: unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
-aliases:
-- /resources/tPX-wc6pG7M
-- /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
-- /resources/videos/5-october-2023-agile-leader-webinar
-aliasesArchive:
-- /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
-- /resources/videos/5-october-2023-agile-leader-webinar
-- /resources/5-october-2023-agile-leader-webinar
-- unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
 concepts:
 - Tenet
 categories:
@@ -32,25 +25,32 @@ tags:
 - Organisational Psychology
 - Team Motivation
 - Value Delivery
-ResourceId: tPX-wc6pG7M
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: tPX-wc6pG7M
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
-duration: 129
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:09:12Z
+title: 'Unlocking Organisational Value: The Transformative Power of Engagement in Agile Teams'
+videoId: tPX-wc6pG7M
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
+layout: video
+aliases:
+- /resources/tPX-wc6pG7M
+- /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
+- /resources/videos/5-october-2023-agile-leader-webinar
+aliasesArchive:
+- /resources/videos/unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
+- /resources/videos/5-october-2023-agile-leader-webinar
+- /resources/5-october-2023-agile-leader-webinar
+- unlocking-organisational-value-the-transformative-power-of-engagement-in-agile-teams
+preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
+duration: 129
+resourceTypes:
+- video
+isShort: false
 
 ---
 In my journey through the world of agile and organisational effectiveness, I've often found myself pondering a critical question: If even large organisations struggle to deliver value and determine which products to build, what hope do smaller organisations have? With tighter budgets and fewer hands on deck, the challenge can seem insurmountable. However, I firmly believe that the issue isn't about scale; it's about engagement.

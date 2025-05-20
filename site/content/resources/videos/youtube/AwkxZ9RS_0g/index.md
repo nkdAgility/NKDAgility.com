@@ -1,9 +1,28 @@
 ---
-title: How Does Your Consulting Experience Manifest in the Training Environment?
 description: Explains how real consulting experience enhances training by providing practical examples, bridging theory and practice, and making learning more relevant and impactful.
 date: 2023-06-21T07:00:03Z
+ResourceId: AwkxZ9RS_0g
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 840
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:24Z
+title: How Does Your Consulting Experience Manifest in the Training Environment?
+videoId: AwkxZ9RS_0g
+source: internal
+url: /resources/videos/:slug
 slug: how-does-your-consulting-experience-manifest-in-the-training-environment
+layout: video
 aliases:
 - /resources/AwkxZ9RS_0g
 - /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment
@@ -13,30 +32,11 @@ aliasesArchive:
 - /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
 - /resources/how-does-your-consulting-experience-manifest-in-the-training-environment-
 - how-does-your-consulting-experience-manifest-in-the-training-environment
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Pragmatic Thinking
-ResourceId: AwkxZ9RS_0g
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: AwkxZ9RS_0g
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/AwkxZ9RS_0g/maxresdefault.jpg
 duration: 264
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:24Z
+isShort: false
 
 ---
 ## Synergy Between Consulting and Training

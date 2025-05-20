@@ -1,9 +1,27 @@
 ---
-title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
 description: Explores how skilled consultants drive rapid, impactful organisational change by identifying core issues, bridging leadership gaps, and fostering agile transformation.
 date: 2023-01-24T07:30:02Z
+ResourceId: 8vu-AXJwwYk
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 840
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:27Z
+title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
+videoId: 8vu-AXJwwYk
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
+layout: video
 aliases:
 - /resources/8vu-AXJwwYk
 - /resources/videos/unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
@@ -14,29 +32,11 @@ aliasesArchive:
 - /resources/how-much-of-an-impact-can-a-great-agile-consultant-have-
 - /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have
 - unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceId: 8vu-AXJwwYk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 8vu-AXJwwYk
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:14:27Z
+isShort: false
 
 ---
 When I reflect on my experiences as a consultant, I often find myself pondering the profound impact a great consultant can have on an organisation. It’s a topic that resonates deeply with me, especially when I consider the distinction between consulting and [coaching]({{< ref "/tags/coaching" >}}). 

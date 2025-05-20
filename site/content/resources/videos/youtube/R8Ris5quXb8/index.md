@@ -1,19 +1,11 @@
 ---
-title: 'Mastering Product Backlog Management: Key Strategies for Agile Success'
 description: Learn practical strategies for effective product backlog management in Agile, including prioritisation, refinement, stakeholder engagement, and tools to maximise team value.
 date: 2023-11-30T11:00:31Z
+ResourceId: R8Ris5quXb8
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
-aliases:
-- /resources/R8Ris5quXb8
-- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
-- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-aliasesArchive:
-- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
-- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
-- mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
 concepts:
 - Method
 categories:
@@ -28,25 +20,33 @@ tags:
 - Pragmatic Thinking
 - Backlog Refinement
 - Operational Practices
-ResourceId: R8Ris5quXb8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: R8Ris5quXb8
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
-duration: 18
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:07:22Z
+title: 'Mastering Product Backlog Management: Key Strategies for Agile Success'
+videoId: R8Ris5quXb8
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
+layout: video
+aliases:
+- /resources/R8Ris5quXb8
+- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
+- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
+- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+aliasesArchive:
+- /resources/videos/mastering-product-backlog-management-key-strategies-for-agile-success
+- /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- /resources/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- mastering-product-backlog-management-key-strategies-for-agile-success-R8Ris5quXb8
+preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
+duration: 18
+resourceTypes:
+- video
+isShort: true
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often found myself reflecting on the intricacies of [product backlog]({{< ref "/tags/product-backlog" >}}) management. It’s a topic that, while seemingly straightforward, is laden with nuances that can significantly impact the value we derive from our work. Today, I want to share some insights from a recent class I attended that delved into these subtleties and how we can effectively manage our product backlogs.

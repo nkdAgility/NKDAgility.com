@@ -1,14 +1,36 @@
 ---
-title: Getting started with Kanban.
 description: Learn how to launch a Kanban pilot, define workflows, use metrics like cycle time and throughput, and foster continuous improvement for better team productivity.
 date: 2024-02-14T07:00:19Z
+ResourceId: kTszGsXPLXY
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts:
+- Practice
+categories:
+- Product Development
+- Kanban
+tags:
+- Operational Practices
+- Continuous Improvement
+- Cycle Time
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:46Z
+title: Getting started with Kanban.
+videoId: kTszGsXPLXY
+source: internal
+url: /resources/videos/:slug
 slug: getting-started-with-kanban
+layout: video
 aliases:
 - /resources/kTszGsXPLXY
 - /resources/videos/getting-started-with-kanban
 - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization
-- /resources/videos/getting-started-with-kanban.
 aliasesArchive:
 - /resources/videos/getting-started-with-kanban-
 - /resources/getting-started-with-kanban
@@ -19,34 +41,11 @@ aliasesArchive:
 - /resources/videos/getting-started-with-kanban
 - getting-started-with-kanban
 - /resources/videos/getting-started-with-kanban.
-concepts:
-- Practice
-categories:
-- Product Development
-- Kanban
-tags:
-- Operational Practices
-- Continuous Improvement
-- Cycle Time
-ResourceId: kTszGsXPLXY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: kTszGsXPLXY
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/kTszGsXPLXY/maxresdefault.jpg
 duration: 331
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:05:46Z
+isShort: false
 
 ---
 ### Getting Started with [Kanban]({{< ref "/categories/kanban" >}}): A Guide to Initiating Your First Kanban Pilot

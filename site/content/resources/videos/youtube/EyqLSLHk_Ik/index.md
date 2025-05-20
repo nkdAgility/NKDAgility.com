@@ -1,18 +1,11 @@
 ---
-title: 'Empowering Teams for Success: The Key to Thriving Product Development'
 description: Explores how empowering and engaging diverse software teams boosts motivation, collaboration, and product quality through trust, feedback, skills development, and shared goals.
 date: 2024-05-07T11:02:49Z
+ResourceId: EyqLSLHk_Ik
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 220
-slug: empowering-teams-for-success-the-key-to-thriving-product-development
-aliases:
-- /resources/EyqLSLHk_Ik
-- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
-- /resources/videos/product-development-mentoring-program
-aliasesArchive:
-- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
-- /resources/videos/product-development-mentoring-program
-- /resources/product-development-mentoring-program
-- empowering-teams-for-success-the-key-to-thriving-product-development
 concepts: []
 categories:
 - Product Development
@@ -29,25 +22,32 @@ tags:
 - Organisational Culture
 - Pragmatic Thinking
 - Product Delivery
-ResourceId: EyqLSLHk_Ik
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: EyqLSLHk_Ik
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
-duration: 423
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:09Z
+title: 'Empowering Teams for Success: The Key to Thriving Product Development'
+videoId: EyqLSLHk_Ik
+source: youtube
+url: /resources/videos/:slug
+slug: empowering-teams-for-success-the-key-to-thriving-product-development
+layout: video
+aliases:
+- /resources/EyqLSLHk_Ik
+- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
+- /resources/videos/product-development-mentoring-program
+aliasesArchive:
+- /resources/videos/empowering-teams-for-success-the-key-to-thriving-product-development
+- /resources/videos/product-development-mentoring-program
+- /resources/product-development-mentoring-program
+- empowering-teams-for-success-the-key-to-thriving-product-development
+preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
+duration: 423
+resourceTypes:
+- video
+isShort: false
 
 ---
 In my journey as a [product development]({{< ref "/categories/product-development" >}}) mentor, I've come to realise that the heart of successful software organisations lies in the people who build the products. In [Scrum]({{< ref "/categories/scrum" >}}), we refer to these individuals as developers, but this term encompasses a diverse group: testers, coders, analysts, product owners, and even those in cyber security operations. Each plays a crucial role in the creation of a product, and it’s essential that we foster an environment where they can thrive.

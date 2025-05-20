@@ -1,9 +1,30 @@
 ---
-title: What does a poor scrum team look, act and feel like?
 description: Explores signs of a poor scrum team, including autocratic leadership, dysfunctional product ownership, lack of trust, and organisational barriers to high performance.
 date: 2023-01-27T07:00:16Z
+ResourceId: irSqFAJNJ9c
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 690
+concepts: []
+categories:
+- Scrum
+tags:
+- Software Development
+- Scrum Team
+- Team Performance
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:24Z
+title: What does a poor scrum team look, act and feel like?
+videoId: irSqFAJNJ9c
+source: internal
+url: /resources/videos/:slug
 slug: what-does-a-poor-scrum-team-look-act-and-feel-like
+layout: video
 aliases:
 - /resources/irSqFAJNJ9c
 - /resources/videos/what-does-a-poor-scrum-team-look-act-and-feel-like
@@ -13,32 +34,11 @@ aliasesArchive:
 - /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 - /resources/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 - what-does-a-poor-scrum-team-look-act-and-feel-like
-concepts: []
-categories:
-- Scrum
-tags:
-- Software Development
-- Scrum Team
-- Team Performance
-ResourceId: irSqFAJNJ9c
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: irSqFAJNJ9c
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/irSqFAJNJ9c/maxresdefault.jpg
 duration: 390
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:14:24Z
+isShort: false
 
 ---
 Sure, there are poor practices that impact **[scrum]({{< ref "/categories/scrum" >}}) teams**, but I tend to focus on the outcomes to determine whether a **[scrum team]({{< ref "/tags/scrum-team" >}})** is failing or progressing.

@@ -1,19 +1,11 @@
 ---
-title: 'Mastering Product Development: From Assumptions to Hypotheses'
 description: Learn to identify, prioritise, and test assumptions in product development by turning them into hypotheses, managing experimentation costs, and making data-driven decisions.
 date: 2024-08-10T07:00:32Z
+ResourceId: j-mPdGP7BiU
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: mastering-product-development-from-assumptions-to-hypotheses
-aliases:
-- /resources/j-mPdGP7BiU
-- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/videos/ppdv-learning-outcomes
-aliasesArchive:
-- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/mastering-product-development-from-assumptions-to-hypotheses
-- /resources/videos/ppdv-learning-outcomes
-- /resources/ppdv-learning-outcomes
-- mastering-product-development-from-assumptions-to-hypotheses
 concepts: []
 categories:
 - Product Development
@@ -24,25 +16,33 @@ tags:
 - Lean Startup
 - Product Discovery
 - Product Validation
-ResourceId: j-mPdGP7BiU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: j-mPdGP7BiU
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
-duration: 302
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:14Z
+title: 'Mastering Product Development: From Assumptions to Hypotheses'
+videoId: j-mPdGP7BiU
+source: internal
+url: /resources/videos/:slug
+slug: mastering-product-development-from-assumptions-to-hypotheses
+layout: video
+aliases:
+- /resources/j-mPdGP7BiU
+- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
+- /resources/videos/ppdv-learning-outcomes
+aliasesArchive:
+- /resources/videos/mastering-product-development-from-assumptions-to-hypotheses
+- /resources/mastering-product-development-from-assumptions-to-hypotheses
+- /resources/videos/ppdv-learning-outcomes
+- /resources/ppdv-learning-outcomes
+- mastering-product-development-from-assumptions-to-hypotheses
+preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
+duration: 302
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.

@@ -1,9 +1,28 @@
 ---
-title: What is a common mistake made by rookie agile consultants?
 description: Rookie agile consultants often mistake strict adherence to frameworks like Scrum for success, overlooking the need for context, team buy-in, and empirical adaptation.
 date: 2023-02-17T07:00:30Z
+ResourceId: y0dg0Sqs4xw
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 590
+concepts: []
+categories:
+- Scrum
+tags:
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:03Z
+title: What is a common mistake made by rookie agile consultants?
+videoId: y0dg0Sqs4xw
+source: internal
+url: /resources/videos/:slug
 slug: what-is-a-common-mistake-made-by-rookie-agile-consultants
+layout: video
 aliases:
 - /resources/y0dg0Sqs4xw
 - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants
@@ -13,30 +32,11 @@ aliasesArchive:
 - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
 - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants-
 - what-is-a-common-mistake-made-by-rookie-agile-consultants
-concepts: []
-categories:
-- Scrum
-tags:
-- Pragmatic Thinking
-ResourceId: y0dg0Sqs4xw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: y0dg0Sqs4xw
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/y0dg0Sqs4xw/maxresdefault.jpg
 duration: 114
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:14:03Z
+isShort: false
 
 ---
 What is a common mistake made by rookie agile consultants?

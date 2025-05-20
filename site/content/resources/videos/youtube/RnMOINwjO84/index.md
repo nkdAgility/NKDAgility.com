@@ -1,18 +1,11 @@
 ---
-title: 'Navigating Complexity: How to Foster Agility and Innovation in Business Decision-Making'
 description: Explores how businesses can boost agility and innovation by adapting decision-making, avoiding bureaucracy, and fostering continuous learning in complex environments.
 date: 2024-10-03T07:00:16Z
+ResourceId: RnMOINwjO84
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
-aliases:
-- /resources/RnMOINwjO84
-- /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
-- /resources/videos/making-data-driven-decisions-decision-making-frameworks
-aliasesArchive:
-- /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
-- /resources/videos/making-data-driven-decisions-decision-making-frameworks
-- /resources/making-data-driven-decisions-decision-making-frameworks
-- navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
 concepts: []
 categories:
 - Product Development
@@ -25,25 +18,32 @@ tags:
 - Organisational Agility
 - Organisational Physics
 - Decision Theory
-ResourceId: RnMOINwjO84
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: RnMOINwjO84
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
-duration: 971
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:38Z
+title: 'Navigating Complexity: How to Foster Agility and Innovation in Business Decision-Making'
+videoId: RnMOINwjO84
+source: youtube
+url: /resources/videos/:slug
+slug: navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
+layout: video
+aliases:
+- /resources/RnMOINwjO84
+- /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
+- /resources/videos/making-data-driven-decisions-decision-making-frameworks
+aliasesArchive:
+- /resources/videos/navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
+- /resources/videos/making-data-driven-decisions-decision-making-frameworks
+- /resources/making-data-driven-decisions-decision-making-frameworks
+- navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
+preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
+duration: 971
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the ever-evolving landscape of business, one thing has become abundantly clear: there are no universal rules for making informed decisions based on the data we collect. Whether it’s evidence-based management, telemetry data, or any other form of data, the reality is that what works in one context may not work in another. This is particularly true as we navigate a world that is increasingly complex rather than merely complicated.

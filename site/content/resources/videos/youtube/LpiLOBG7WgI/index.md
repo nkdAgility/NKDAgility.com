@@ -1,19 +1,11 @@
 ---
-title: What should you do if your Sprint Review delivers harsh, scathing feedback?
 description: Learn how Agile teams can handle harsh Sprint Review feedback by analysing root causes, engaging stakeholders, and deciding whether to halt, pivot, or persevere.
 date: 2023-09-08T07:00:07Z
+ResourceId: LpiLOBG7WgI
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 750
-slug: what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
-aliases:
-- /resources/LpiLOBG7WgI
-- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
-aliasesArchive:
-- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
-- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback-2
-- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
-- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
-- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
-- what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
 concepts: []
 categories:
 - Product Development
@@ -28,25 +20,33 @@ tags:
 - Agile Frameworks
 - Agile Product Management
 - Team Performance
-ResourceId: LpiLOBG7WgI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: LpiLOBG7WgI
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/LpiLOBG7WgI/maxresdefault.jpg
-duration: 224
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:09:36Z
+title: What should you do if your Sprint Review delivers harsh, scathing feedback?
+videoId: LpiLOBG7WgI
+source: internal
+url: /resources/videos/:slug
+slug: what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+layout: video
+aliases:
+- /resources/LpiLOBG7WgI
+- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+aliasesArchive:
+- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback-2
+- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+- /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
+- /resources/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
+- what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
+preview: https://i.ytimg.com/vi/LpiLOBG7WgI/maxresdefault.jpg
+duration: 224
+resourceTypes:
+- video
+isShort: false
 
 ---
 ## Navigating Harsh Feedback in Sprint Reviews – An Agile Approach🚀 

@@ -1,18 +1,11 @@
 ---
-title: 'Mastering Product Development Costs: Empower Your Team for Financial Success'
 description: Learn how to track, manage, and optimise product development costs by empowering teams with financial awareness, key metrics, and continuous improvement for better outcomes.
 date: 2024-12-20T07:00:00Z
+ResourceId: UgFVn4Sp1rw
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 590
-slug: mastering-product-development-costs-empower-your-team-for-financial-success
-aliases:
-- /resources/UgFVn4Sp1rw
-- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
-- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
-aliasesArchive:
-- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
-- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
-- /resources/measuring-and-monitoring-costs-for-continuous-improvement
-- mastering-product-development-costs-empower-your-team-for-financial-success
 concepts:
 - Strategy
 categories:
@@ -23,25 +16,32 @@ tags:
 - Metrics and Learning
 - Pragmatic Thinking
 - Value Delivery
-ResourceId: UgFVn4Sp1rw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: UgFVn4Sp1rw
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w
-duration: 675
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:56:36Z
+title: 'Mastering Product Development Costs: Empower Your Team for Financial Success'
+videoId: UgFVn4Sp1rw
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-product-development-costs-empower-your-team-for-financial-success
+layout: video
+aliases:
+- /resources/UgFVn4Sp1rw
+- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
+- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
+aliasesArchive:
+- /resources/videos/mastering-product-development-costs-empower-your-team-for-financial-success
+- /resources/videos/measuring-and-monitoring-costs-for-continuous-improvement
+- /resources/measuring-and-monitoring-costs-for-continuous-improvement
+- mastering-product-development-costs-empower-your-team-for-financial-success
+preview: https://i9.ytimg.com/vi/UgFVn4Sp1rw/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAjw3EucvQxwrhElUanM058m6EQ9w
+duration: 675
+resourceTypes:
+- video
+isShort: false
 
 ---
 When it comes to building products, understanding the cost associated with those products is absolutely crucial. Over the years, I've learned that the financial landscape of [product development]({{< ref "/categories/product-development" >}}) is complex, but it boils down to a few key components. The two primary costs in [software development]({{< ref "/tags/software-development" >}}) are typically hardware and, more significantly, the people involved. If you have a team of 50 people working on a product, their salaries will likely represent your largest expense. Following that, if you're deploying to the cloud, your infrastructure costs will come into play as your second biggest expense.

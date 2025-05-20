@@ -1,9 +1,30 @@
 ---
-title: 'Bridging the Gap: Understanding the True Meaning of "Done" in Agile Teams'
 description: Explores how Agile teams can clarify and align on the true meaning of "done" to ensure quality, reduce rework, and meet leadership expectations through clear definitions.
 date: 2023-12-07T11:00:05Z
+ResourceId: 2QojN_k3JZ4
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 640
+concepts: []
+categories:
+- Product Development
+tags:
+- Definition of Done
+- Software Development
+- Working Software
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:10Z
+title: 'Bridging the Gap: Understanding the True Meaning of "Done" in Agile Teams'
+videoId: 2QojN_k3JZ4
+source: youtube
+url: /resources/videos/:slug
 slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
+layout: video
 aliases:
 - /resources/2QojN_k3JZ4
 - /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
@@ -14,32 +35,11 @@ aliasesArchive:
 - /resources/videos/-shorts-7-virtues-of-agile-diligence
 - /resources/-shorts-7-virtues-of-agile-diligence
 - bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
-concepts: []
-categories:
-- Product Development
-tags:
-- Definition of Done
-- Software Development
-- Working Software
-ResourceId: 2QojN_k3JZ4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 2QojN_k3JZ4
-url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
-layout: video
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:07:10Z
+isShort: true
 
 ---
 In my experience working with various organisations, I've often noticed a significant gap between expectation and reality when it comes to the concept of "done." It’s a term that gets thrown around in Agile circles, yet its true meaning can often be lost in translation. 

@@ -1,9 +1,29 @@
 ---
-title: Why is the Professional Agile Leadership - Essentials course a natural evolution for an experienced Scrum Master?
 description: Explains how the Professional Agile Leadership – Essentials course helps experienced Scrum Masters gain leadership skills, understand organisational challenges, and broaden their impact.
 date: 2023-07-27T07:00:04Z
+ResourceId: 7R9_bYOswhk
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 640
+concepts: []
+categories:
+- Leadership
+- Scrum
+tags:
+- Scrum Master
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:33Z
+title: Why is the Professional Agile Leadership - Essentials course a natural evolution for an experienced Scrum Master?
+videoId: 7R9_bYOswhk
+source: internal
+url: /resources/videos/:slug
 slug: why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
+layout: video
 aliases:
 - /resources/7R9_bYOswhk
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
@@ -15,31 +35,11 @@ aliasesArchive:
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
 - why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
-concepts: []
-categories:
-- Leadership
-- Scrum
-tags:
-- Scrum Master
-ResourceId: 7R9_bYOswhk
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 7R9_bYOswhk
-source: internal
-url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/7R9_bYOswhk/maxresdefault.jpg
 duration: 143
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-layout: video
-Watermarks:
-  description: 2025-05-07T13:10:33Z
+isShort: false
 
 ---
 ## Ascending the [Leadership]({{< ref "/categories/leadership" >}}) Ladder

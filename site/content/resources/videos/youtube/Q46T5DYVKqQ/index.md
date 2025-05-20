@@ -1,19 +1,11 @@
 ---
-title: 'Harnessing the Power of Empiricism: Transform Your Decision-Making with Data-Driven Insights'
 description: Learn how using empirical, data-driven methods can improve decision-making, foster continuous improvement, and build trust through transparent, evidence-based actions.
 date: 2023-08-17T07:00:09Z
+ResourceId: Q46T5DYVKqQ
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
-aliases:
-- /resources/Q46T5DYVKqQ
-- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
-- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
-- /resources/videos/what-is-empiricism
-aliasesArchive:
-- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
-- /resources/videos/what-is-empiricism
-- /resources/what-is-empiricism
-- harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
 concepts:
 - Principle
 categories:
@@ -27,25 +19,33 @@ tags:
 - Pragmatic Thinking
 - Agile Philosophy
 - Continuous Improvement
-ResourceId: Q46T5DYVKqQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Q46T5DYVKqQ
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
-duration: 54
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:10:09Z
+title: 'Harnessing the Power of Empiricism: Transform Your Decision-Making with Data-Driven Insights'
+videoId: Q46T5DYVKqQ
+source: youtube
+url: /resources/videos/:slug
+slug: harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
+layout: video
+aliases:
+- /resources/Q46T5DYVKqQ
+- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
+- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/what-is-empiricism
+aliasesArchive:
+- /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
+- /resources/videos/what-is-empiricism
+- /resources/what-is-empiricism
+- harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
+preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
+duration: 54
+resourceTypes:
+- video
+isShort: true
 
 ---
 Empiricism is an interesting beast, isn’t it? At its core, empiricism is the idea that all knowledge stems from observable data. This principle is the foundation of science, and it has found a comfortable home within the agile way of working, as well as in various other business methodologies. 

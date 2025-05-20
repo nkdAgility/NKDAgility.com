@@ -1,19 +1,11 @@
 ---
-title: 'Why Agile Success Relies on Effective Planning: Debunking the Myths of Scrum'
 description: Explains why effective planning is essential in Agile and Scrum, debunking myths about planning, and highlights strategies for teams of all sizes to achieve project success.
 date: 2023-10-25T13:30:11Z
+ResourceId: J3Z2xU5ditc
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 665
-slug: why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
-aliases:
-- /resources/J3Z2xU5ditc
-- /resources/videos/why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-4
-aliasesArchive:
-- /resources/videos/why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-4
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-4
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-4
-- why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
 concepts:
 - Strategy
 categories:
@@ -29,25 +21,33 @@ tags:
 - Agile Frameworks
 - Agile Product Management
 - Agile Strategy
-ResourceId: J3Z2xU5ditc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: J3Z2xU5ditc
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg
-duration: 436
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:08:23Z
+title: 'Why Agile Success Relies on Effective Planning: Debunking the Myths of Scrum'
+videoId: J3Z2xU5ditc
+source: youtube
+url: /resources/videos/:slug
+slug: why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
+layout: video
+aliases:
+- /resources/J3Z2xU5ditc
+- /resources/videos/why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-4
+aliasesArchive:
+- /resources/videos/why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
+- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-4
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-4
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-4
+- why-agile-success-relies-on-effective-planning-debunking-the-myths-of-scrum
+preview: https://i.ytimg.com/vi/J3Z2xU5ditc/maxresdefault.jpg
+duration: 436
+resourceTypes:
+- video
+isShort: false
 
 ---
 One of the most pervasive myths I encounter in the world of [Scrum]({{< ref "/categories/scrum" >}}) is the notion that Agile means we can forgo planning altogether. This idea is not just misguided; it’s downright detrimental to the success of any Agile team. Let me clarify: Scrum is fundamentally about planning. 

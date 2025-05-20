@@ -1,21 +1,11 @@
 ---
-title: 3 core practices of Kanban. Improving a workflow.
 description: Learn how to improve Kanban workflows by identifying blockages, reducing waiting times, and making continuous changes to boost efficiency and value delivery in your process.
 date: 2024-02-28T07:00:19Z
+ResourceId: qWHCBUwpOZk
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: 3-core-practices-of-kanban-improving-a-workflow
-aliases:
-- /resources/qWHCBUwpOZk
-- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
-- /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
-aliasesArchive:
-- /resources/videos/-core-practices-of-kanban-improving-a-workflow-
-- /resources/videos/3-core-practices-of-kanban-improving-a-workflow-
-- /resources/3-core-practices-of-kanban-improving-a-workflow
-- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
-- 3-core-practices-of-kanban-improving-a-workflow-
-- 3-core-practices-of-kanban-improving-a-workflow
-- /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
 concepts:
 - Method
 categories:
@@ -29,25 +19,34 @@ tags:
 - Agile Frameworks
 - Lean Thinking
 - Pragmatic Thinking
-ResourceId: qWHCBUwpOZk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: qWHCBUwpOZk
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
-duration: 307
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:33Z
+title: 3 core practices of Kanban. Improving a workflow.
+videoId: qWHCBUwpOZk
+source: internal
+url: /resources/videos/:slug
+slug: 3-core-practices-of-kanban-improving-a-workflow
+layout: video
+aliases:
+- /resources/qWHCBUwpOZk
+- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+aliasesArchive:
+- /resources/videos/-core-practices-of-kanban-improving-a-workflow-
+- /resources/videos/3-core-practices-of-kanban-improving-a-workflow-
+- /resources/3-core-practices-of-kanban-improving-a-workflow
+- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+- 3-core-practices-of-kanban-improving-a-workflow-
+- 3-core-practices-of-kanban-improving-a-workflow
+- /resources/videos/3-core-practices-of-kanban.-improving-a-workflow.
+preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
+duration: 307
+resourceTypes:
+- video
+isShort: false
 
 ---
 ### Improving Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy

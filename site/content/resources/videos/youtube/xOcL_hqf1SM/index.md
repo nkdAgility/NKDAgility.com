@@ -1,9 +1,31 @@
 ---
-title: 'Unlocking Agile Success: The Essential Knowledge Every Coach Needs'
 description: Discover the essential knowledge areas for Agile coaches, including frameworks, principles, technical skills, and practical steps to support and guide Agile teams effectively.
 date: 2023-11-15T11:01:00Z
+ResourceId: xOcL_hqf1SM
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 665
+concepts:
+- Principle
+categories:
+- Uncategorized
+tags:
+- Agile Frameworks
+- Software Development
+- Agile Transformation
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:50Z
+title: 'Unlocking Agile Success: The Essential Knowledge Every Coach Needs'
+videoId: xOcL_hqf1SM
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-agile-success-the-essential-knowledge-every-coach-needs
+layout: video
 aliases:
 - /resources/xOcL_hqf1SM
 - /resources/videos/unlocking-agile-success-the-essential-knowledge-every-coach-needs
@@ -13,33 +35,11 @@ aliasesArchive:
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - /resources/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-3
 - unlocking-agile-success-the-essential-knowledge-every-coach-needs
-concepts:
-- Principle
-categories:
-- Uncategorized
-tags:
-- Agile Frameworks
-- Software Development
-- Agile Transformation
-ResourceId: xOcL_hqf1SM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: xOcL_hqf1SM
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:07:50Z
+isShort: false
 
 ---
 As I reflect on my journey as an Agile coach, I often find myself returning to a fundamental truth: knowledge is the cornerstone of effective [coaching]({{< ref "/tags/coaching" >}}). It’s not just about knowing the processes, practices, and tools; it’s about understanding the underlying principles that drive them. This understanding is what enables us to guide teams effectively, helping them navigate the complexities of Agile methodologies.

@@ -1,19 +1,35 @@
 ---
-title: 'Mastering Domain Controller Migration: A Step-by-Step Guide to Seamless Active Directory Transfers'
 description: Learn how to safely migrate Active Directory roles to a new domain controller, including setup, role transfer, and decommissioning the old server for minimal disruption.
 date: 2014-01-16T20:22:36Z
-weight: 1000
 ResourceId: yrpAYB2yIZU
 ResourceType: videos
-ResourceContentOrigin: AI
 ResourceImport: true
 ResourceImportSource: Youtube
+weight: 1000
+ResourceContentOrigin: AI
+tags:
+- Windows
+- System Configuration
+- Install and Configuration
+- Troubleshooting
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+categories:
+- Uncategorized
+Watermarks:
+  description: 2025-05-12T14:22:30Z
+concepts: []
+title: 'Mastering Domain Controller Migration: A Step-by-Step Guide to Seamless Active Directory Transfers'
 videoId: yrpAYB2yIZU
+source: youtube
 url: /resources/videos/:slug
 slug: mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
 layout: video
 aliases:
 - /resources/yrpAYB2yIZU
+- /resources/videos/mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
+- /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
 aliasesArchive:
 - /resources/videos/install-configure-move-your-active-directory-domain-to-another-server
 - /resources/videos/install-configure-301-move-your-active-directory-domain-to-another-server
@@ -23,23 +39,9 @@ aliasesArchive:
 - mastering-domain-controller-migration-a-step-by-step-guide-to-seamless-active-directory-transfers
 preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
 duration: 922
-isShort: false
-tags:
-- Windows
-- System Configuration
-- Install and Configuration
-- Troubleshooting
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-categories:
-- Uncategorized
-Watermarks:
-  description: 2025-05-12T14:22:30Z
-concepts: []
+isShort: false
 
 ---
 I recently found myself in a rather tricky situation with my demo lab environment. My primary domain controller, which also happened to be my only domain controller, threw up a message box that left me scratching my head. After several failed attempts to activate Windows and troubleshoot the issue, I realised I needed to create a new domain controller and migrate everything across. This experience was a reminder of the importance of having a robust setup and a solid plan for such scenarios.

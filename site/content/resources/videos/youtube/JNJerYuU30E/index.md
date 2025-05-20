@@ -1,9 +1,31 @@
 ---
-title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
 description: Highlights the impact of Jernimo Palacios on agile practices through mentorship, knowledge sharing, and community building, emphasising collaboration and continuous improvement.
 date: 2023-05-04T07:00:07Z
+ResourceId: JNJerYuU30E
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Mentoring
+- Personal
+- Coaching
+- Continuous Learning
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:44Z
+title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Agile Practices'
+videoId: JNJerYuU30E
+source: youtube
+url: /resources/videos/:slug
 slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
+layout: video
 aliases:
 - /resources/JNJerYuU30E
 - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
@@ -16,33 +38,11 @@ aliasesArchive:
 - most-influential-person-in-agile-jernimo-palacios-JNJerYuU30E
 - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
 - celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Mentoring
-- Personal
-- Coaching
-- Continuous Learning
-ResourceId: JNJerYuU30E
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: JNJerYuU30E
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:12:44Z
+isShort: true
 
 ---
 When I reflect on my journey in the agile community, one name stands out prominently: Jernimo Palacios. As a Spanish Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer (PST), Geronimo has been a beacon of inspiration and knowledge for many of us navigating the complexities of agile practices. His influence on my understanding of Scrum and the broader agile landscape cannot be overstated.

@@ -1,9 +1,32 @@
 ---
-title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in Hand'
 description: Explores how combining theory and hands-on experience in Scrum training leads to deeper understanding, critical thinking, and continuous improvement for Agile teams.
 date: 2024-02-08T07:00:06Z
+ResourceId: BmlTZwGAcMU
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts:
+- Method
+categories:
+- Product Development
+tags:
+- Scrum Master
+- Software Development
+- Competence
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:55Z
+title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in Hand'
+videoId: BmlTZwGAcMU
+source: internal
+url: /resources/videos/:slug
 slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
+layout: video
 aliases:
 - /resources/BmlTZwGAcMU
 - /resources/videos/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
@@ -15,34 +38,11 @@ aliasesArchive:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
 - immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
-concepts:
-- Method
-categories:
-- Product Development
-tags:
-- Scrum Master
-- Software Development
-- Competence
-- Pragmatic Thinking
-ResourceId: BmlTZwGAcMU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: BmlTZwGAcMU
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/BmlTZwGAcMU/maxresdefault.jpg
 duration: 35
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:05:55Z
+isShort: true
 
 ---
 One of my favorite quotes is from the legendary Peter Drucker: **"Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence, without theory, there is no learning."** This profound idea resonates deeply with my approach to immersive learning, especially in the context of **[Scrum]({{< ref "/categories/scrum" >}})** and **Agile**.

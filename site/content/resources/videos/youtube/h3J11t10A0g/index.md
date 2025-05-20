@@ -1,18 +1,11 @@
 ---
-title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
 description: Explores how Agile principles, technical leadership, and engineering excellence help teams manage unpredictability, adapt to change, and deliver quality software projects.
 date: 2024-12-02T06:00:00Z
+ResourceId: h3J11t10A0g
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 220
-slug: navigating-the-unpredictability-of-software-development-embrace-agile-for-success
-aliases:
-- /resources/h3J11t10A0g
-- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
-- /resources/videos/escaping-the-deadline-death-spiral
-aliasesArchive:
-- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
-- /resources/videos/escaping-the-deadline-death-spiral
-- /resources/escaping-the-deadline-death-spiral
-- navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 concepts:
 - Principle
 categories:
@@ -22,25 +15,32 @@ categories:
 tags:
 - Software Development
 - Pragmatic Thinking
-ResourceId: h3J11t10A0g
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: h3J11t10A0g
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
-duration: 169
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:56:57Z
+title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
+videoId: h3J11t10A0g
+source: youtube
+url: /resources/videos/:slug
+slug: navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+layout: video
+aliases:
+- /resources/h3J11t10A0g
+- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+- /resources/videos/escaping-the-deadline-death-spiral
+aliasesArchive:
+- /resources/videos/navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+- /resources/videos/escaping-the-deadline-death-spiral
+- /resources/escaping-the-deadline-death-spiral
+- navigating-the-unpredictability-of-software-development-embrace-agile-for-success
+preview: https://i9.ytimg.com/vi/h3J11t10A0g/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLAhUizbYFa1tDhewD44yi7B6ksFVQ
+duration: 169
+resourceTypes:
+- video
+isShort: false
 
 ---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in [software development]({{< ref "/tags/software-development" >}}).

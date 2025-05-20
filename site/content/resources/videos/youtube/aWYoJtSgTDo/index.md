@@ -1,9 +1,28 @@
 ---
-title: 'Harvesting Agility: What Mushroom Foraging Taught Me About Scrum and Team Dynamics'
 description: Explores how mushroom foraging offers practical lessons for applying Agile and Scrum, highlighting environment, patience, and team dynamics for continuous improvement.
 date: 2023-08-10T13:30:01Z
+ResourceId: aWYoJtSgTDo
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:17Z
+title: 'Harvesting Agility: What Mushroom Foraging Taught Me About Scrum and Team Dynamics'
+videoId: aWYoJtSgTDo
+source: youtube
+url: /resources/videos/:slug
 slug: harvesting-agility-what-mushroom-foraging-taught-me-about-scrum-and-team-dynamics
+layout: video
 aliases:
 - /resources/aWYoJtSgTDo
 - /resources/videos/harvesting-agility-what-mushroom-foraging-taught-me-about-scrum-and-team-dynamics
@@ -14,30 +33,11 @@ aliasesArchive:
 - /resources/the-importance-of-knowing-the-territory-
 - harvesting-agility-what-mushroom-foraging-taught-me-about-scrum-and-team-dynamics
 - /resources/videos/the-importance-of-knowing-the-territory
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Pragmatic Thinking
-ResourceId: aWYoJtSgTDo
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: aWYoJtSgTDo
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
 duration: 204
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:17Z
+isShort: false
 
 ---
 One of my friends often jokes that I see Agile and [Scrum]({{< ref "/categories/scrum" >}}) everywhere, even in the forest during one of my favourite autumn activities: mushroom foraging. And you know what? There’s a surprising amount we can learn about agility from this pastime. Let me share some insights from my experiences that might just resonate with your own journey in Agile practices.

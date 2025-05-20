@@ -1,9 +1,27 @@
 ---
-title: 'Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!'
 description: Earn £20 credit for each friend you refer to our classes. Both you and your referral get rewards, supporting collaborative learning and building a stronger community.
 date: 2023-06-15T07:00:06Z
+ResourceId: IXmOAB5e44w
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:37Z
+title: 'Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborative Learning!'
+videoId: IXmOAB5e44w
+source: youtube
+url: /resources/videos/:slug
 slug: unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+layout: video
 aliases:
 - /resources/IXmOAB5e44w
 - /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
@@ -15,29 +33,11 @@ aliasesArchive:
 - /resources/referral-program-20-of-the-course-fee-credited-to-your-account-
 - unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 - /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceId: IXmOAB5e44w
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: IXmOAB5e44w
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:37Z
+isShort: false
 
 ---
 I’m excited to share with you a new initiative that I believe will not only enhance your learning experience but also foster a sense of community within our classes. Introducing the **£20 Referral Program**—a simple yet effective way to reward you for bringing your friends and colleagues along on this journey of growth and development.

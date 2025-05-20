@@ -1,31 +1,12 @@
 ---
-title: Most Common Thing You Hear in a PSPO Course?
 description: Product Owners often feel limited in control and influence. This article explores common challenges and offers steps to boost empowerment and accountability in the role.
 date: 2023-06-29T11:00:18Z
-weight: 840
-slug: most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
-aliases:
-- /resources/CdYwLGrArZU
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
 ResourceId: CdYwLGrArZU
-ResourceImport: true
 ResourceType: videos
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: CdYwLGrArZU
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
-duration: 56
-isShort: true
-aliasesArchive:
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
-- /resources/most-common-thing-you-hear-in-a-pspo-course-2
-- /resources/most-common-thing-you-hear-in-a-pspo-course
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
-- /resources/most-common-thing-you-hear-in-a-pspo-course-
-- most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
+weight: 840
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Uncategorized
@@ -34,10 +15,29 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:11:05Z
+title: Most Common Thing You Hear in a PSPO Course?
+videoId: CdYwLGrArZU
+source: internal
+url: /resources/videos/:slug
+slug: most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
+layout: video
+aliases:
+- /resources/CdYwLGrArZU
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
+aliasesArchive:
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
+- /resources/most-common-thing-you-hear-in-a-pspo-course-2
+- /resources/most-common-thing-you-hear-in-a-pspo-course
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
+- /resources/most-common-thing-you-hear-in-a-pspo-course-
+- most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
+preview: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
+duration: 56
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## Common Comments from the PSPO Course

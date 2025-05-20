@@ -1,20 +1,11 @@
 ---
-title: 'Understanding Product Discovery: Why It Matters More Than Ever'
 description: Explains Product Discovery in product development, its role in setting strategy, uncovering opportunities, and aligning teams to build valuable, user-focused products.
 date: 2024-08-26T07:44:38Z
+ResourceId: Qzw3FSl6hy4
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: understanding-product-discovery-why-it-matters-more-than-ever
-aliases:
-- /resources/Qzw3FSl6hy4
-- /resources/videos/understanding-product-discovery-why-it-matters-more-than-ever
-- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-weve-always-developed-products
-aliasesArchive:
-- /resources/videos/understanding-product-discovery-why-it-matters-more-than-ever
-- /resources/understanding-product-discovery-why-it-matters-more-than-ever
-- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
-- /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
-- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-weve-always-developed-products
-- understanding-product-discovery-why-it-matters-more-than-ever
 concepts:
 - Strategy
 categories:
@@ -26,25 +17,34 @@ tags:
 - Product Owner
 - Pragmatic Thinking
 - Product Strategy
-ResourceId: Qzw3FSl6hy4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Qzw3FSl6hy4
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg
-duration: 711
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:58:45Z
+title: 'Understanding Product Discovery: Why It Matters More Than Ever'
+videoId: Qzw3FSl6hy4
+source: internal
+url: /resources/videos/:slug
+slug: understanding-product-discovery-why-it-matters-more-than-ever
+layout: video
+aliases:
+- /resources/Qzw3FSl6hy4
+- /resources/videos/understanding-product-discovery-why-it-matters-more-than-ever
+- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-weve-always-developed-products
+aliasesArchive:
+- /resources/videos/understanding-product-discovery-why-it-matters-more-than-ever
+- /resources/understanding-product-discovery-why-it-matters-more-than-ever
+- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
+- /resources/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
+- /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-weve-always-developed-products
+- understanding-product-discovery-why-it-matters-more-than-ever
+preview: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg
+duration: 711
+resourceTypes:
+- video
+isShort: false
 
 ---
 [Product Discovery]({{< ref "/tags/product-discovery" >}}) is a term that's often used in the world of [product development]({{< ref "/categories/product-development" >}}), but what does it really mean? Is it something new, or is it just a different label for what we've always done? In this post, I'll delve into the nuances of Product Discovery, explain why it’s critical to your product’s success, and share some real-world examples to help you understand its scope and impact.

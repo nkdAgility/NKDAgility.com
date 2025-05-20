@@ -1,9 +1,28 @@
 ---
-title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
 description: Explains how focusing on isolated improvements in governance can harm overall organisational success, and offers strategies for integrated, system-wide optimisation.
 date: 2025-02-08T07:49:38Z
+ResourceId: ACZWkkvKEnw
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Systems Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:43Z
+title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
+videoId: ACZWkkvKEnw
+source: internal
+url: /resources/videos/:slug
 slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
+layout: video
 aliases:
 - /resources/ACZWkkvKEnw
 - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
@@ -18,30 +37,11 @@ aliasesArchive:
 - /resources/videos/the-cog-conundrum
 - /resources/the-cog-conundrum
 - avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Systems Thinking
-ResourceId: ACZWkkvKEnw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: ACZWkkvKEnw
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/ACZWkkvKEnw/maxresdefault.jpg
 duration: 45
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:49:43Z
+isShort: true
 
 ---
 In my journey through the realms of agile and organisational efficiency, I've often encountered a rather amusing yet telling analogy that perfectly encapsulates a common pitfall in our approach to governance and optimisation. Picture this: a cog in a machine, struggling to turn because it’s bogged down by the other cogs around it. Now, if we were to take a drastic step and remove all the teeth from this cog, it would spin freely, right? But here’s the catch—it would no longer serve its purpose in driving the entire system forward. 

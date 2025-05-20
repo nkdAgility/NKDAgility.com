@@ -1,19 +1,11 @@
 ---
-title: 'Unlocking the Power of Kanban: Transform Your Workflow with Data-Driven Insights'
 description: Learn how Kanban uses data-driven insights and probabilistic forecasting to optimise workflows, improve delivery, and enhance transparency across any team or process.
 date: 2023-08-23T07:00:10Z
+ResourceId: RSPw8pZ9NT8
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 690
-slug: unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
-aliases:
-- /resources/RSPw8pZ9NT8
-- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
-- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
-aliasesArchive:
-- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
-- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
-- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
-- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
-- unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
 concepts:
 - Practice
 categories:
@@ -25,25 +17,33 @@ tags:
 - Decision Theory
 - Throughput
 - Value Delivery
-ResourceId: RSPw8pZ9NT8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: RSPw8pZ9NT8
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
-duration: 466
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:09:55Z
+title: 'Unlocking the Power of Kanban: Transform Your Workflow with Data-Driven Insights'
+videoId: RSPw8pZ9NT8
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+layout: video
+aliases:
+- /resources/RSPw8pZ9NT8
+- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
+- /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
+- unlocking-the-power-of-kanban-transform-your-workflow-with-data-driven-insights
+preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
+duration: 466
+resourceTypes:
+- video
+isShort: false
 
 ---
 In my recent [Kanban]({{< ref "/categories/kanban" >}}) workshop with Procamban.org, titled "APK: Applying Professional Kanban," I had the opportunity to delve deep into the strategic underpinnings of [DevOps]({{< ref "/categories/devops" >}}). Over the course of 16 hours, we explored how Kanban serves as a meta-process that can be applied to any existing workflow, regardless of its nature. Whether your team is using [Scrum]({{< ref "/categories/scrum" >}}), a homegrown process, or even something like SSADM, Kanban provides a framework to observe and enhance your current practices.

@@ -1,9 +1,27 @@
 ---
-title: How did you know you were ready to transition from DevOps practitioner to DevOps Consultant?
 description: Explores the journey from DevOps practitioner to consultant, highlighting key signals, external recognition, and practical tips for building influence and expertise in the field.
 date: 2023-05-04T07:00:19Z
+ResourceId: sb9RsFslUfU
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 840
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:42Z
+title: How did you know you were ready to transition from DevOps practitioner to DevOps Consultant?
+videoId: sb9RsFslUfU
+source: internal
+url: /resources/videos/:slug
 slug: how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
+layout: video
 aliases:
 - /resources/sb9RsFslUfU
 - /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
@@ -13,29 +31,11 @@ aliasesArchive:
 - /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 - /resources/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 - how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceId: sb9RsFslUfU
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: sb9RsFslUfU
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/sb9RsFslUfU/maxresdefault.jpg
 duration: 186
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:12:42Z
+isShort: false
 
 ---
 ## From Practitioner to Consultant

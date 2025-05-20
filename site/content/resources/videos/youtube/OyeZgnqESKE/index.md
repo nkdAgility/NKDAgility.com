@@ -1,9 +1,28 @@
 ---
-title: Why Immersive Learning Keeps Scrum Students Excited and Engaged
 description: Explores how immersive, hands-on learning keeps Scrum students engaged and excited, supporting continuous improvement, real-world application, and ongoing team growth.
 date: 2024-02-01T07:00:09Z
+ResourceId: OyeZgnqESKE
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Product Development
+tags:
+- Team Motivation
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:03Z
+title: Why Immersive Learning Keeps Scrum Students Excited and Engaged
+videoId: OyeZgnqESKE
+source: internal
+url: /resources/videos/:slug
 slug: why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
+layout: video
 aliases:
 - /resources/OyeZgnqESKE
 - /resources/videos/why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
@@ -15,30 +34,11 @@ aliasesArchive:
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
 - /resources/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
 - why-immersive-learning-keeps-scrum-students-excited-and-engaged-OyeZgnqESKE
-concepts: []
-categories:
-- Product Development
-tags:
-- Team Motivation
-ResourceId: OyeZgnqESKE
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: OyeZgnqESKE
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/OyeZgnqESKE/maxresdefault.jpg
 duration: 38
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:06:03Z
+isShort: true
 
 ---
 One of the main reasons I absolutely love the immersive learning experience for [Scrum]({{< ref "/categories/scrum" >}}) students is its ability to maintain a high level of **excitement** and **engagement**. It’s not just about passing knowledge from one person to another; it's about creating an atmosphere of **discovery**. Each session brings something fresh, something new, and that keeps people coming back for more. This blog post will delve into how immersive learning creates excitement, the importance of [continuous learning]({{< ref "/tags/continuous-learning" >}}), and how these principles can be applied in your own organization.

@@ -1,9 +1,30 @@
 ---
-title: 'Debunking the Scrum Myth: Why "Twice the Work in Half the Time" is a Misleading Promise'
 description: Explores why Scrum's "twice the work in half the time" claim is misleading, emphasising value over output and the importance of realistic expectations in Agile teams.
 date: 2023-02-02T07:00:13Z
+ResourceId: e7L0NFYUFSw
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Product Development
+- Scrum
+tags:
+- Agile Product Management
+- Customer Focus
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:17Z
+title: 'Debunking the Scrum Myth: Why "Twice the Work in Half the Time" is a Misleading Promise'
+videoId: e7L0NFYUFSw
+source: youtube
+url: /resources/videos/:slug
 slug: debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
+layout: video
 aliases:
 - /resources/e7L0NFYUFSw
 - /resources/videos/debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
@@ -14,32 +35,11 @@ aliasesArchive:
 - /resources/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 - /resources/videos/debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
 - debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
-concepts: []
-categories:
-- Product Development
-- Scrum
-tags:
-- Agile Product Management
-- Customer Focus
-ResourceId: e7L0NFYUFSw
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: e7L0NFYUFSw
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:14:17Z
+isShort: false
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) and the Myth of "Twice the Work in Half the Time"

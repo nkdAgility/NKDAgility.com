@@ -1,19 +1,11 @@
 ---
-title: 'Mastering Agile: The Power of "Just Enough and No More" for Optimal Efficiency'
 description: Explores how applying the "just enough and no more" principle in agile practices boosts efficiency, reduces waste, and helps teams focus on delivering real value.
 date: 2023-12-05T11:00:27Z
+ResourceId: b-2TDkEew2k
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 690
-slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
-aliases:
-- /resources/b-2TDkEew2k
-- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
-- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
-- /resources/videos/-shorts-7-virtues-of-agile-temperance
-aliasesArchive:
-- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
-- /resources/videos/-shorts-7-virtues-of-agile-temperance
-- /resources/-shorts-7-virtues-of-agile-temperance
-- mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
 concepts:
 - Principle
 categories:
@@ -26,25 +18,33 @@ tags:
 - Agile Planning
 - Agile Transformation
 - Agile Values and Principles
-ResourceId: b-2TDkEew2k
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: b-2TDkEew2k
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
-duration: 59
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:07:15Z
+title: 'Mastering Agile: The Power of "Just Enough and No More" for Optimal Efficiency'
+videoId: b-2TDkEew2k
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
+layout: video
+aliases:
+- /resources/b-2TDkEew2k
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
+- /resources/videos/-shorts-7-virtues-of-agile-temperance
+aliasesArchive:
+- /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
+- /resources/videos/-shorts-7-virtues-of-agile-temperance
+- /resources/-shorts-7-virtues-of-agile-temperance
+- mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
+preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
+duration: 59
+resourceTypes:
+- video
+isShort: true
 
 ---
 I often find myself reflecting on a conversation I had with Ken Schwaber many years ago. He shared a simple yet profound mantra that has stuck with me ever since: "Just enough and no more." This phrase resonates deeply within the agile community, and I believe it holds the key to understanding how we can optimise our processes and deliver value effectively.

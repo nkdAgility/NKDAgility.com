@@ -1,22 +1,11 @@
 ---
-title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
 description: Explores how Agile’s true value lies in delivering outcomes and adapting to change, not just following rituals or procedures, and highlights the need for human judgement in complex systems.
 date: 2024-01-22T07:00:11Z
+ResourceId: XZVixdVy-PQ
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 665
-slug: redefining-agiles-core-beyond-rituals-and-procedures
-aliases:
-- /resources/XZVixdVy-PQ
-- /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
-- /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
-- /resources/videos/redefining-agile-s-core-beyond-rituals-and-procedures
-aliasesArchive:
-- /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
-- /resources/redefining-agiles-core-beyond-rituals-and-procedures
-- /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
-- /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
-- /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
-- redefining-agiles-core-beyond-rituals-and-procedures
-- /resources/videos/redefining-agile-s-core-beyond-rituals-and-procedures
 concepts:
 - Principle
 categories:
@@ -30,25 +19,35 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Strategy
-ResourceId: XZVixdVy-PQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: XZVixdVy-PQ
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/XZVixdVy-PQ/maxresdefault.jpg
-duration: 223
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:23Z
+title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
+videoId: XZVixdVy-PQ
+source: internal
+url: /resources/videos/:slug
+slug: redefining-agiles-core-beyond-rituals-and-procedures
+layout: video
+aliases:
+- /resources/XZVixdVy-PQ
+- /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
+aliasesArchive:
+- /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
+- /resources/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
+- /resources/videos/agile-is-not-about-rituals-its-about-developing-software-in-a-different-way-ken-schwaber
+- redefining-agiles-core-beyond-rituals-and-procedures
+- /resources/videos/redefining-agile-s-core-beyond-rituals-and-procedures
+preview: https://i.ytimg.com/vi/XZVixdVy-PQ/maxresdefault.jpg
+duration: 223
+resourceTypes:
+- video
+isShort: false
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of [Scrum]({{< ref "/categories/scrum" >}}), that goes:

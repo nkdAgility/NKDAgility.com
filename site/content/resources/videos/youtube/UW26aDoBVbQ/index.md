@@ -1,19 +1,11 @@
 ---
-title: 'Unlocking Success: The Essential Role of Product Ownership in Lean Product Delivery'
 description: Explores how effective product ownership and lean delivery drive alignment, collaboration, adaptability, and continuous improvement in modern product development teams.
 date: 2023-09-28T09:01:38Z
+ResourceId: UW26aDoBVbQ
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
-aliases:
-- /resources/UW26aDoBVbQ
-- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
-- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
-aliasesArchive:
-- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
-- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
-- /resources/5-october-2023-product-ownership-and-lean-product-development-webinar
-- unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
 concepts: []
 categories:
 - Product Development
@@ -25,25 +17,33 @@ tags:
 - Value Delivery
 - Lean Principles
 - Lean Thinking
-ResourceId: UW26aDoBVbQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: UW26aDoBVbQ
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
-duration: 31
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:09:13Z
+title: 'Unlocking Success: The Essential Role of Product Ownership in Lean Product Delivery'
+videoId: UW26aDoBVbQ
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
+layout: video
+aliases:
+- /resources/UW26aDoBVbQ
+- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
+- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
+aliasesArchive:
+- /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
+- /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
+- /resources/5-october-2023-product-ownership-and-lean-product-development-webinar
+- unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
+preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
+duration: 31
+resourceTypes:
+- video
+isShort: true
 
 ---
 In our recent [lean]({{< ref "/categories/lean" >}}) [product development]({{< ref "/categories/product-development" >}}) and [product owner]({{< ref "/tags/product-owner" >}}) workshop, I found myself reflecting on the current landscape of product ownership and its critical role in shaping the future of organisations. It’s fascinating to see how the conversation around product ownership has evolved, and I want to share some insights from our discussions that I believe are vital for anyone involved in [product delivery]({{< ref "/tags/product-delivery" >}}).

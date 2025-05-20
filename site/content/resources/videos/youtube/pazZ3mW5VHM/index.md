@@ -1,9 +1,28 @@
 ---
-title: Most Common Thing You Hear in a PSPO Course?
 description: Many Product Owners in PSPO courses feel a lack of control or influence. This highlights the need for greater empowerment, accountability, and active engagement in their role.
 date: 2023-07-06T14:33:51Z
+ResourceId: pazZ3mW5VHM
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts:
+- Accountability
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:59Z
+title: Most Common Thing You Hear in a PSPO Course?
+videoId: pazZ3mW5VHM
+source: internal
+url: /resources/videos/:slug
 slug: most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
+layout: video
 aliases:
 - /resources/pazZ3mW5VHM
 - /resources/videos/most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
@@ -17,30 +36,11 @@ aliasesArchive:
 - /resources/most-influential-people-in-agile-simon-reindl
 - /resources/videos/most-influential-people-in-agile-simon-reindl
 - most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
-concepts:
-- Accountability
-categories:
-- Uncategorized
-tags: []
-ResourceId: pazZ3mW5VHM
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: pazZ3mW5VHM
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/pazZ3mW5VHM/maxresdefault.jpg
 duration: 47
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:59Z
+isShort: true
 
 ---
 ## Common Comments from the PSPO Course

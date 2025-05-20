@@ -1,9 +1,30 @@
 ---
-title: '7 deadly sins of Agile: Lust'
 description: Explores why Agile transformation requires genuine commitment and adaptation, warning against quick fixes and emphasising the need for a tailored, organisation-specific approach.
 date: 2023-10-12T07:00:12Z
+ResourceId: RBZFAxEUQC4
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags:
+- Agile Philosophy
+- Agile Transformation
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:51Z
+title: '7 deadly sins of Agile: Lust'
+videoId: RBZFAxEUQC4
+source: internal
+url: /resources/videos/:slug
 slug: 7-deadly-sins-of-agile-lust
+layout: video
 aliases:
 - /resources/RBZFAxEUQC4
 - /resources/videos/7-deadly-sins-of-agile-lust
@@ -16,32 +37,11 @@ aliasesArchive:
 - /resources/lust!-7-deadly-sins-of-agile
 - /resources/videos/lust-7-deadly-sins-of-agile
 - 7-deadly-sins-of-agile-lust
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags:
-- Agile Philosophy
-- Agile Transformation
-ResourceId: RBZFAxEUQC4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: RBZFAxEUQC4
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
 duration: 177
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:08:51Z
+isShort: false
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

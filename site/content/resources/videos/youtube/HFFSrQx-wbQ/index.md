@@ -1,9 +1,29 @@
 ---
-title: 'Breaking Free from the Plagues of Agility: How to Cultivate Flexibility and Innovation in Your Team'
 description: Explores how rigid adherence to Agile tools and processes can hinder flexibility, and offers strategies to foster team innovation, adaptability, and continuous improvement.
 date: 2023-11-01T09:42:43Z
+ResourceId: HFFSrQx-wbQ
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 665
+concepts: []
+categories:
+- Product Development
+tags:
+- Agile Philosophy
+- Organisational Agility
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:11Z
+title: 'Breaking Free from the Plagues of Agility: How to Cultivate Flexibility and Innovation in Your Team'
+videoId: HFFSrQx-wbQ
+source: youtube
+url: /resources/videos/:slug
 slug: breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and-innovation-in-your-team
+layout: video
 aliases:
 - /resources/HFFSrQx-wbQ
 - /resources/videos/breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and-innovation-in-your-team
@@ -14,31 +34,11 @@ aliasesArchive:
 - /resources/plague-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter
 - breaking-free-from-the-plagues-of-agility-how-to-cultivate-flexibility-and-innovation-in-your-team
-concepts: []
-categories:
-- Product Development
-tags:
-- Agile Philosophy
-- Organisational Agility
-ResourceId: HFFSrQx-wbQ
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: HFFSrQx-wbQ
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:08:11Z
+isShort: false
 
 ---
 In my journey through the world of Agile, I've often encountered what I like to call the "plagues" of agility. One of the most insidious of these is the tendency for teams to become overly attached to their tools and processes. This fixation can be detrimental, stifling the very essence of what it means to be agile. 

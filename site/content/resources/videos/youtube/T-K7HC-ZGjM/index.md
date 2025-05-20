@@ -1,18 +1,11 @@
 ---
-title: What is a Sprint Backlog?
 description: Explains the Sprint Backlog as a transparent, flexible plan in Scrum, combining goals, tasks, and strategy to help teams stay focused, adaptable, and successful in Agile work.
 date: 2023-05-29T12:01:04Z
+ResourceId: T-K7HC-ZGjM
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: what-is-a-sprint-backlog
-aliases:
-- /resources/T-K7HC-ZGjM
-- /resources/videos/what-is-a-sprint-backlog
-aliasesArchive:
-- /resources/videos/what-is-a-sprint-backlog
-- /resources/what-is-a-sprint-backlog
-- /resources/videos/what-is-a-sprint-backlog-
-- /resources/what-is-a-sprint-backlog-
-- what-is-a-sprint-backlog
 concepts:
 - Artifact
 categories:
@@ -23,25 +16,32 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Frameworks
-ResourceId: T-K7HC-ZGjM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: T-K7HC-ZGjM
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
-duration: 296
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:12:08Z
+title: What is a Sprint Backlog?
+videoId: T-K7HC-ZGjM
+source: internal
+url: /resources/videos/:slug
+slug: what-is-a-sprint-backlog
+layout: video
+aliases:
+- /resources/T-K7HC-ZGjM
+- /resources/videos/what-is-a-sprint-backlog
+aliasesArchive:
+- /resources/videos/what-is-a-sprint-backlog
+- /resources/what-is-a-sprint-backlog
+- /resources/videos/what-is-a-sprint-backlog-
+- /resources/what-is-a-sprint-backlog-
+- what-is-a-sprint-backlog
+preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
+duration: 296
+resourceTypes:
+- video
+isShort: false
 
 ---
 ## Interpreting the Sprint Backlog

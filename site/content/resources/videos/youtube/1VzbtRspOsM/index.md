@@ -1,20 +1,11 @@
 ---
-title: How Immersive Learning Transforms Aspiring Agile Leaders
 description: Immersive learning helps aspiring agile leaders overcome cultural barriers by providing time, practical experiments, and peer feedback to drive real organisational change.
 date: 2023-11-24T07:00:00Z
+ResourceId: 1VzbtRspOsM
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 610
-slug: how-immersive-learning-transforms-aspiring-agile-leaders
-aliases:
-- /resources/1VzbtRspOsM
-- /resources/videos/how-immersive-learning-transforms-aspiring-agile-leaders
-- /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders
-aliasesArchive:
-- /resources/videos/how-immersive-learning-transforms-aspiring-agile-leaders
-- /resources/how-immersive-learning-transforms-aspiring-agile-leaders
-- /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
-- /resources/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
-- /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders
-- how-immersive-learning-transforms-aspiring-agile-leaders
 concepts:
 - Principle
 categories:
@@ -34,25 +25,34 @@ tags:
 - Change Management
 - Competence
 - Mentoring
-ResourceId: 1VzbtRspOsM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 1VzbtRspOsM
-source: internal
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/1VzbtRspOsM/maxresdefault.jpg
-duration: 239
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
-layout: video
 Watermarks:
   description: 2025-05-07T13:07:33Z
+title: How Immersive Learning Transforms Aspiring Agile Leaders
+videoId: 1VzbtRspOsM
+source: internal
+url: /resources/videos/:slug
+slug: how-immersive-learning-transforms-aspiring-agile-leaders
+layout: video
+aliases:
+- /resources/1VzbtRspOsM
+- /resources/videos/how-immersive-learning-transforms-aspiring-agile-leaders
+- /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders
+aliasesArchive:
+- /resources/videos/how-immersive-learning-transforms-aspiring-agile-leaders
+- /resources/how-immersive-learning-transforms-aspiring-agile-leaders
+- /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
+- /resources/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
+- /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders
+- how-immersive-learning-transforms-aspiring-agile-leaders
+preview: https://i.ytimg.com/vi/1VzbtRspOsM/maxresdefault.jpg
+duration: 239
+resourceTypes:
+- video
+isShort: false
 
 ---
 Aspiring agile leaders often face significant challenges when trying to shift organizational culture. They encounter barriers to having the necessary deep conversations and find themselves short on time and space to implement the changes they envision. In today’s fast-paced environments, making that leap to true agile [leadership]({{< ref "/categories/leadership" >}}) can feel daunting. That's where immersive learning experiences, like the PAL-E (Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials) class, come in to play. These courses create room for both reflection and action, driving real, sustainable change within organizations.

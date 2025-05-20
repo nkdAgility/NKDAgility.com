@@ -1,20 +1,11 @@
 ---
-title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
 description: Learn the three core Kanban principles—visualising workflow, actively managing tasks, and continuous improvement—to boost team efficiency, transparency, and collaboration.
 date: 2024-07-01T07:00:24Z
+ResourceId: nfTAYRLAaYI
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
-aliases:
-- /resources/nfTAYRLAaYI
-- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
-- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/videos/kanban-principles
-aliasesArchive:
-- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/mastering-kanban-a-simple-guide-to-its-core-principles
-- /resources/videos/kanban-principles
-- /resources/kanban-principles
-- mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
 concepts:
 - Principle
 categories:
@@ -26,25 +17,34 @@ tags:
 - Software Development
 - Operational Practices
 - Transparency
-ResourceId: nfTAYRLAaYI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: nfTAYRLAaYI
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg
-duration: 49
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:44Z
+title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
+videoId: nfTAYRLAaYI
+source: internal
+url: /resources/videos/:slug
+slug: mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
+layout: video
+aliases:
+- /resources/nfTAYRLAaYI
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/videos/kanban-principles
+aliasesArchive:
+- /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/mastering-kanban-a-simple-guide-to-its-core-principles
+- /resources/videos/kanban-principles
+- /resources/kanban-principles
+- mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
+preview: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg
+duration: 49
+resourceTypes:
+- video
+isShort: true
 
 ---
 In the fast-paced world of Agile, many teams find themselves searching for frameworks that help them improve efficiency, [transparency]({{< ref "/tags/transparency" >}}), and collaboration. One such method that stands out is **[Kanban]({{< ref "/categories/kanban" >}})**. Known for its simplicity and effectiveness, Kanban helps teams visualize their work, manage their flow, and continuously improve. In this post, we’ll dive into the three core principles of Kanban and explore how you can implement them to boost your team’s productivity.

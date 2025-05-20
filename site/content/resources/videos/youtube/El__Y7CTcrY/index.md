@@ -1,9 +1,27 @@
 ---
-title: 'The Power of Immersive Learning in Scrum Training: Why Less Is More'
 description: Explores how immersive, bite-sized learning in Scrum training boosts retention, engagement, and real-world application by reducing information overload and promoting reflection.
 date: 2024-01-31T14:44:15Z
+ResourceId: El__Y7CTcrY
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:04Z
+title: 'The Power of Immersive Learning in Scrum Training: Why Less Is More'
+videoId: El__Y7CTcrY
+source: internal
+url: /resources/videos/:slug
 slug: the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
+layout: video
 aliases:
 - /resources/El__Y7CTcrY
 - /resources/videos/the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
@@ -15,29 +33,11 @@ aliasesArchive:
 - /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 - /resources/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 - the-power-of-immersive-learning-in-scrum-training-why-less-is-more-El__Y7CTcrY
-concepts: []
-categories:
-- Product Development
-tags: []
-ResourceId: El__Y7CTcrY
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: El__Y7CTcrY
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg
 duration: 43
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:06:04Z
+isShort: true
 
 ---
 One of the most rewarding aspects of teaching [Scrum]({{< ref "/categories/scrum" >}}) is watching students _truly_ absorb what they’re learning. But let’s be honest, traditional learning methods can sometimes feel overwhelming, especially in intensive courses. Have you ever heard the term “drinking from a fire hose”? It’s a phrase I hear often in relation to training, and I’ll admit, it’s accurate.

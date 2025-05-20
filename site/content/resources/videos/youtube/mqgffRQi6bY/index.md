@@ -1,29 +1,12 @@
 ---
-title: Why is Lego a shit idea for a Scrum trainer - Part 2
 description: Explains why using Lego in Scrum training oversimplifies real-world software complexity, leading to unrealistic expectations and missing key integration challenges.
 date: 2023-10-04T11:24:58Z
-weight: 1000
-slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
-aliases:
-- /resources/mqgffRQi6bY
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
 ResourceId: mqgffRQi6bY
-ResourceImport: true
 ResourceType: videos
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: mqgffRQi6bY
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/mqgffRQi6bY/maxresdefault.jpg
-duration: 51
-isShort: true
-aliasesArchive:
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
-- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
-- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
-- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
+weight: 1000
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Uncategorized
@@ -31,10 +14,27 @@ tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:09:02Z
+title: Why is Lego a shit idea for a Scrum trainer - Part 2
+videoId: mqgffRQi6bY
+source: internal
+url: /resources/videos/:slug
+slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
+layout: video
+aliases:
+- /resources/mqgffRQi6bY
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
+aliasesArchive:
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2-mqgffRQi6bY
+preview: https://i.ytimg.com/vi/mqgffRQi6bY/maxresdefault.jpg
+duration: 51
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## Confronting Complexity 

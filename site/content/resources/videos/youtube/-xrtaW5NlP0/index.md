@@ -1,17 +1,11 @@
 ---
-title: Why is Kanban such a popular approach for people in creative industries?
 description: Explains how Kanban helps creative teams organise workflows, reduce chaos, prioritise tasks, and improve efficiency without stifling creativity, using real-world examples.
 date: 2023-08-25T07:00:00Z
+ResourceId: -xrtaW5NlP0
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
-slug: why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-aliases:
-- /resources/-xrtaW5NlP0
-- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-aliasesArchive:
-- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
-- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
-- why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 concepts:
 - Method
 categories:
@@ -20,25 +14,31 @@ tags:
 - Operational Practices
 - Cycle Time
 - Flow Efficiency
-ResourceId: -xrtaW5NlP0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: -xrtaW5NlP0
-source: internal
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/-xrtaW5NlP0/maxresdefault.jpg
-duration: 245
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
-layout: video
 Watermarks:
   description: 2025-05-07T13:09:51Z
+title: Why is Kanban such a popular approach for people in creative industries?
+videoId: -xrtaW5NlP0
+source: internal
+url: /resources/videos/:slug
+slug: why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+layout: video
+aliases:
+- /resources/-xrtaW5NlP0
+- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+aliasesArchive:
+- /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries-2
+- /resources/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+- why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
+preview: https://i.ytimg.com/vi/-xrtaW5NlP0/maxresdefault.jpg
+duration: 245
+resourceTypes:
+- video
+isShort: false
 
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  

@@ -1,9 +1,32 @@
 ---
-title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Workflow Success'
 description: Explores how using metrics and visual tools enhances workflow transparency, helps identify improvement areas, and supports a culture of continuous process optimisation.
 date: 2024-08-19T06:45:02Z
+ResourceId: hBw4ouNB1U0
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 305
+concepts:
+- Principle
+categories:
+- Product Development
+tags:
+- Continuous Improvement
+- Operational Practices
+- Metrics and Learning
+- Continuous Learning
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:04Z
+title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Workflow Success'
+videoId: hBw4ouNB1U0
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
+layout: video
 aliases:
 - /resources/hBw4ouNB1U0
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
@@ -14,34 +37,11 @@ aliasesArchive:
 - /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - /resources/the-kanban-key-how-continuous-improvement-transforms-your-workflow
 - unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
-concepts:
-- Principle
-categories:
-- Product Development
-tags:
-- Continuous Improvement
-- Operational Practices
-- Metrics and Learning
-- Continuous Learning
-ResourceId: hBw4ouNB1U0
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: hBw4ouNB1U0
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:02:04Z
+isShort: true
 
 ---
 In my journey with Caman, I've come to realise that one of its core tenets is the relentless pursuit of improvement. It’s not just about making changes for the sake of change; it’s about implementing thoughtful adjustments to our systems and processes to genuinely enhance our outcomes. This is where metrics and visual tools come into play, serving as our guiding lights in the often murky waters of data.

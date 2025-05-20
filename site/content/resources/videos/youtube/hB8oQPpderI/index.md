@@ -1,9 +1,27 @@
 ---
-title: One limitation of reading a book vs attending a course
 description: Reading a book offers knowledge but lacks real-time interaction, discussion, and collaborative learning found in courses, limiting engagement and shared understanding.
 date: 2023-05-08T09:30:10Z
+ResourceId: hB8oQPpderI
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 840
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:38Z
+title: One limitation of reading a book vs attending a course
+videoId: hB8oQPpderI
+source: internal
+url: /resources/videos/:slug
 slug: one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
+layout: video
 aliases:
 - /resources/hB8oQPpderI
 - /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
@@ -17,29 +35,11 @@ aliasesArchive:
 - /resources/one-limitation-of-a-book-versus-a-scrum-course-
 - one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
 - /resources/videos/one-limitation-of-a-book-versus-a-scrum-course
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceId: hB8oQPpderI
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: hB8oQPpderI
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/hB8oQPpderI/maxresdefault.jpg
 duration: 56
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:12:38Z
+isShort: true
 
 ---
 **One limitation of reading a book vs attending a course**

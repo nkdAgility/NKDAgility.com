@@ -1,20 +1,11 @@
 ---
-title: 'Avoiding Agile Banditry: Why Story Points and Velocity Are Misleading Metrics'
 description: Explains why story points and velocity can mislead Agile teams, and recommends focusing on throughput, cycle time, and customer value for effective performance measurement.
 date: 2024-01-08T07:00:06Z
+ResourceId: EfogGslFkBQ
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 840
-slug: avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
-aliases:
-- /resources/EfogGslFkBQ
-- /resources/videos/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
-- /resources/videos/5-kinds-of-agile-bandits-story-points-velocity
-aliasesArchive:
-- /resources/videos/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
-- /resources/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
-- /resources/videos/5-kinds-of-agile-bandits-story-points-&-velocity
-- /resources/5-kinds-of-agile-bandits-story-points-&-velocity
-- /resources/videos/5-kinds-of-agile-bandits-story-points-velocity
-- avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
 concepts:
 - Tenet
 categories:
@@ -29,25 +20,34 @@ tags:
 - Team Performance
 - Flow Efficiency
 - Agile Philosophy
-ResourceId: EfogGslFkBQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: EfogGslFkBQ
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/EfogGslFkBQ/maxresdefault.jpg
-duration: 293
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:35Z
+title: 'Avoiding Agile Banditry: Why Story Points and Velocity Are Misleading Metrics'
+videoId: EfogGslFkBQ
+source: internal
+url: /resources/videos/:slug
+slug: avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+layout: video
+aliases:
+- /resources/EfogGslFkBQ
+- /resources/videos/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+- /resources/videos/5-kinds-of-agile-bandits-story-points-velocity
+aliasesArchive:
+- /resources/videos/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+- /resources/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+- /resources/videos/5-kinds-of-agile-bandits-story-points-&-velocity
+- /resources/5-kinds-of-agile-bandits-story-points-&-velocity
+- /resources/videos/5-kinds-of-agile-bandits-story-points-velocity
+- avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
+preview: https://i.ytimg.com/vi/EfogGslFkBQ/maxresdefault.jpg
+duration: 293
+resourceTypes:
+- video
+isShort: false
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

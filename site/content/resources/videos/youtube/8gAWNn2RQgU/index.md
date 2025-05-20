@@ -1,22 +1,11 @@
 ---
-title: Why do you trust Joanna to deliver Scrum.Org classes for NKD Agility?
 description: Discover how Joanna’s technical expertise, clear teaching, and real-world Agile experience make her Scrum.Org classes at NKD Agility essential for mastering Scrum and Agile.
 date: 2023-08-22T07:00:03Z
+ResourceId: 8gAWNn2RQgU
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 610
-slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
-aliases:
-- /resources/8gAWNn2RQgU
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum.org-classes-for-nkd-agility
-aliasesArchive:
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
-- /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-2
-- /resources/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
-- why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
-- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum.org-classes-for-nkd-agility
 concepts: []
 categories:
 - Technical Leadership
@@ -26,25 +15,35 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Scrum Master
-ResourceId: 8gAWNn2RQgU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 8gAWNn2RQgU
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/8gAWNn2RQgU/maxresdefault.jpg
-duration: 45
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:09:57Z
+title: Why do you trust Joanna to deliver Scrum.Org classes for NKD Agility?
+videoId: 8gAWNn2RQgU
+source: internal
+url: /resources/videos/:slug
+slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
+layout: video
+aliases:
+- /resources/8gAWNn2RQgU
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+aliasesArchive:
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
+- /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-2
+- /resources/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+- why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-8gAWNn2RQgU
+- /resources/videos/why-do-you-trust-joanna-to-deliver-scrum.org-classes-for-nkd-agility
+preview: https://i.ytimg.com/vi/8gAWNn2RQgU/maxresdefault.jpg
+duration: 45
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 

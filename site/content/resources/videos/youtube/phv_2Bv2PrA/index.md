@@ -1,19 +1,11 @@
 ---
-title: 'Navigating Complexity: Why Agile Practices Are Essential for Modern Product Development'
 description: Explains how agile practices help teams manage complexity, adapt to change, and deliver value faster in modern product development, compared to traditional methods.
 date: 2022-10-07T10:41:41Z
+ResourceId: phv_2Bv2PrA
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 480
-slug: navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
-aliases:
-- /resources/phv_2Bv2PrA
-- /resources/videos/navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
-- /resources/videos/what-is-agile
-aliasesArchive:
-- /resources/videos/what-is-agile
-- /resources/videos/what-is-agile-
-- /resources/what-is-agile-
-- /resources/videos/navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
-- navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
 concepts: []
 categories:
 - Product Development
@@ -29,25 +21,33 @@ tags:
 - Business Agility
 - Organisational Agility
 - Agile Frameworks
-ResourceId: phv_2Bv2PrA
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: phv_2Bv2PrA
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
-duration: 1755
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:14:43Z
+title: 'Navigating Complexity: Why Agile Practices Are Essential for Modern Product Development'
+videoId: phv_2Bv2PrA
+source: youtube
+url: /resources/videos/:slug
+slug: navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
+layout: video
+aliases:
+- /resources/phv_2Bv2PrA
+- /resources/videos/navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
+- /resources/videos/what-is-agile
+aliasesArchive:
+- /resources/videos/what-is-agile
+- /resources/videos/what-is-agile-
+- /resources/what-is-agile-
+- /resources/videos/navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
+- navigating-complexity-why-agile-practices-are-essential-for-modern-product-development
+preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
+duration: 1755
+resourceTypes:
+- video
+isShort: false
 
 ---
 Agile is fundamentally about shortening the time it takes to deliver products to users and learning from that process. As I reflect on my journey as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Scrum.org and a [Kanban]({{< ref "/categories/kanban" >}}) trainer with Pro Kanban, I can’t help but notice how traditional management practices, which were born during the Industrial Revolution, no longer fit the modern landscape of work. 

@@ -1,19 +1,11 @@
 ---
-title: 'The Problem with Incompetent Scrum Masters: Why Lack of Skills in Team Context Results in Poor ROI'
 description: Incompetent Scrum Masters reduce team performance and ROI by lacking key skills. Learn how to measure their impact using innovation, usage, and delivery metrics.
 date: 2024-10-22T07:00:08Z
+ResourceId: EMJyUOy2gP4
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 250
-slug: the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
-aliases:
-- /resources/EMJyUOy2gP4
-- /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
-- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
-aliasesArchive:
-- /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
-- /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
-- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
-- /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
-- the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
 concepts: []
 categories:
 - Scrum
@@ -35,25 +27,33 @@ tags:
 - Operational Practices
 - Product Delivery
 - Value Delivery
-ResourceId: EMJyUOy2gP4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: EMJyUOy2gP4
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/EMJyUOy2gP4/maxresdefault.jpg
-duration: 491
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:27Z
+title: 'The Problem with Incompetent Scrum Masters: Why Lack of Skills in Team Context Results in Poor ROI'
+videoId: EMJyUOy2gP4
+source: internal
+url: /resources/videos/:slug
+slug: the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+layout: video
+aliases:
+- /resources/EMJyUOy2gP4
+- /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+aliasesArchive:
+- /resources/videos/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+- /resources/the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+- /resources/videos/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+- /resources/what-are-the-financial-implications-for-organizations-that-employ-under-skilled-scrum-masters
+- the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi
+preview: https://i.ytimg.com/vi/EMJyUOy2gP4/maxresdefault.jpg
+duration: 491
+resourceTypes:
+- video
+isShort: false
 
 ---
 When organizations invest in [Scrum]({{< ref "/categories/scrum" >}}) Masters, they expect results. Yet, too often, they find that the promised returns aren't realized. Why is that? It boils down to a lack of [competence]({{< ref "/tags/competence" >}}) within the [Scrum Master]({{< ref "/tags/scrum-master" >}})'s role—particularly in understanding the context of the team, the [product owner]({{< ref "/tags/product-owner" >}}), and the organizational structure. Without this, the return on investment (ROI) diminishes. Let's dive into why having a skilled Scrum Master is crucial and how to measure their impact effectively.

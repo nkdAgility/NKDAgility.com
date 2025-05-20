@@ -1,18 +1,11 @@
 ---
-title: 'Why “Done” Only Counts When It’s Live: Moving Beyond Fake Finishes to Real Value in Software Delivery'
 description: Discover why “done” means live in production—not just code complete. Learn to deliver real value, close feedback loops, and drive outcomes that matter.
 date: 2025-05-07T11:46:58Z
+ResourceId: 9nnnOYDoMu8
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 95
-slug: 1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8
-aliases:
-- /resources/9nnnOYDoMu8
-- /resources/videos/1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8
-- /resources/videos/1-done-means-in-production-not-just-code-complete
-- /resources/videos/why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
-aliasesArchive:
-- /resources/videos/1-done-means-in-production-not-just-code-complete
-- 1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8
-- /resources/videos/why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
 concepts:
 - Principle
 categories:
@@ -35,25 +28,34 @@ tags:
 - Increment
 - Metrics and Learning
 - Deployment Frequency
-ResourceId: 9nnnOYDoMu8
-ResourceImport: true
-ResourceType: videos
-videoId: 9nnnOYDoMu8
-ResourceImportSource: Youtube
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/9nnnOYDoMu8/maxresdefault.jpg
-duration: 55
-resourceTypes:
-- video
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-10T14:13:51Z
 ResourceContentOrigin: ai
+title: 'Why “Done” Only Counts When It’s Live: Moving Beyond Fake Finishes to Real Value in Software Delivery'
+videoId: 9nnnOYDoMu8
+source: youtube
+url: /resources/videos/:slug
+slug: why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery-9nnnOYDoMu8
+layout: video
+aliases:
+- /resources/9nnnOYDoMu8
+- /resources/videos/why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery-9nnnOYDoMu8
+- /resources/videos/why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
+- /resources/videos/1-done-means-in-production-not-just-code-complete
+aliasesArchive:
+- /resources/videos/1-done-means-in-production-not-just-code-complete
+- 1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8
+- /resources/videos/why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
+- /resources/videos/why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
+- why-done-only-counts-when-its-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery-9nnnOYDoMu8
+preview: https://i.ytimg.com/vi/9nnnOYDoMu8/maxresdefault.jpg
+duration: 55
+resourceTypes:
+- video
+isShort: true
 
 ---
 If it’s not in the hands of users, it’s not done. I’ve said this countless times in workshops, coaching sessions, and retrospectives, and yet it still bears repeating. Writing code isn’t done. Testing code isn’t done. Demoing something in a meeting isn’t done. Done means that the increment is live in production, gathering telemetry, and delivering real evidence against real goals.

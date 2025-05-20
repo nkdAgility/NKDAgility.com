@@ -1,9 +1,30 @@
 ---
-title: 'Continuous Adaptation: The Key to Success in a Dynamic Market'
 description: Explores how businesses and individuals can achieve success by embracing continuous adaptation, flexibility, and principle-based decision-making in dynamic markets.
 date: 2024-01-19T06:08:37Z
+ResourceId: Bjz6SwLDIY4
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Business Agility
+- Organisational Agility
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:26Z
+title: 'Continuous Adaptation: The Key to Success in a Dynamic Market'
+videoId: Bjz6SwLDIY4
+source: internal
+url: /resources/videos/:slug
 slug: continuous-adaptation-the-key-to-success-in-a-dynamic-market
+layout: video
 aliases:
 - /resources/Bjz6SwLDIY4
 - /resources/videos/continuous-adaptation-the-key-to-success-in-a-dynamic-market
@@ -14,32 +35,11 @@ aliasesArchive:
 - /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 - /resources/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 - continuous-adaptation-the-key-to-success-in-a-dynamic-market
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Business Agility
-- Organisational Agility
-- Pragmatic Thinking
-ResourceId: Bjz6SwLDIY4
-ResourceImport: true
-ResourceType: videos
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Bjz6SwLDIY4
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/Bjz6SwLDIY4/maxresdefault.jpg
 duration: 344
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:06:26Z
+isShort: false
 
 ---
 In today's fast-paced world, both individuals and businesses must constantly adapt to their surroundings. Whether it's a shift in the market, unforeseen circumstances, or technological advancements, those who thrive are the ones who can effectively readjust to the changes around them.

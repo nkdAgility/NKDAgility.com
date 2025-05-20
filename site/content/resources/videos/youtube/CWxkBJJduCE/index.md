@@ -1,19 +1,11 @@
 ---
-title: 'Transform Your Software Architecture: The Game-Changing Impact of TDD and Pair Programming'
 description: Explores how test-driven development and pair programming improve software architecture, code quality, team skills, and long-term productivity by reducing complexity and errors.
 date: 2024-11-19T16:55:41Z
+ResourceId: CWxkBJJduCE
+ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
 weight: 300
-slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
-aliases:
-- /resources/CWxkBJJduCE
-- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
-- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
-- /resources/videos/redefining-test-driven-development
-aliasesArchive:
-- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
-- /resources/videos/redefining-test-driven-development
-- /resources/redefining-test-driven-development
-- transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
 concepts:
 - Practice
 categories:
@@ -24,25 +16,33 @@ tags:
 - Technical Mastery
 - Test Driven Development
 - Technical Excellence
-ResourceId: CWxkBJJduCE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: CWxkBJJduCE
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
-duration: 53
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:18Z
+title: 'Transform Your Software Architecture: The Game-Changing Impact of TDD and Pair Programming'
+videoId: CWxkBJJduCE
+source: youtube
+url: /resources/videos/:slug
+slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
+layout: video
+aliases:
+- /resources/CWxkBJJduCE
+- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
+- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
+- /resources/videos/redefining-test-driven-development
+aliasesArchive:
+- /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
+- /resources/videos/redefining-test-driven-development
+- /resources/redefining-test-driven-development
+- transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
+preview: https://i.ytimg.com/vi/CWxkBJJduCE/maxresdefault.jpg
+duration: 53
+resourceTypes:
+- video
+isShort: true
 
 ---
 When I reflect on my journey through [software development]({{< ref "/tags/software-development" >}}), one principle stands out: test-driven development (TDD) is not merely about writing better code; it’s fundamentally about crafting superior architectures. This distinction is crucial, and I want to share my insights on how TDD and pair programming can transform our approach to software design.
