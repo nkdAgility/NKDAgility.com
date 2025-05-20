@@ -5,8 +5,7 @@ This repository contains the code for the NKDAgility.com website, built with Hug
 ## Environments
 
 - [Live](https://nkdagility.com) - Production environment
-- [Prototype](https://prototype.nkdagility.com) - Development/prototype environment
-- [Preview](https://yellow-pond-042d21b03-preview.westeurope.5.azurestaticapps.net/) - Preview environment for testing before production
+- [Preview](https://preview.nkdagility.com) - Development/preview environment
 
 Pull request sites are automatically created at: `yellow-pond-042d21b03-{PRNumber}.westeurope.5.azurestaticapps.net/`
 
