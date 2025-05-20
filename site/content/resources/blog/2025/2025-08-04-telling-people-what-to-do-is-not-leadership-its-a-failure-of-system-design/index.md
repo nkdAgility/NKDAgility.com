@@ -4,41 +4,46 @@ description: Explores why real leadership means designing systems that enable te
 date: 2025-08-04T09:00:00Z
 weight: 30
 slug: telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design
+
 aliases:
-- /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
-- /resources/W_KrTupmowf
+  - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
+  - /resources/W_KrTupmowf
 aliasesArchive:
-- /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
+  - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Engineering Excellence
-- Leadership
+  - Product Development
+  - Engineering Excellence
+  - Leadership
 tags:
-- Lean Principles
-- Operational Practices
-- Self Organisation
-- Software Development
-- Team Performance
-- Agile Planning
-- Agile Product Management
-- Empirical Process Control
-- Organisational Agility
-- Pragmatic Thinking
-- Product Delivery
-- Agile Leadership
-- Agile Strategy
-- Agile Transformation
-- Continuous Improvement
+  - Lean Principles
+  - Operational Practices
+  - Self Organisation
+  - Software Development
+  - Team Performance
+  - Agile Planning
+  - Agile Product Management
+  - Empirical Process Control
+  - Organisational Agility
+  - Pragmatic Thinking
+  - Product Delivery
+  - Agile Leadership
+  - Agile Strategy
+  - Agile Transformation
+  - Continuous Improvement
 ResourceId: W_KrTupmowf
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-19T07:28:14Z
-
+creator: Martin Hinshelwood
+contributors:
+  - name: Brett Maytom
+    external: https://www.linkedin.com/in/scrum-trainer/
 ---
+
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.
 
 There is a stubborn, Taylorist holdover in many companies—the belief that work gets done when someone is told exactly what to do. The assumption is that certainty comes from control, clarity comes from instruction, and delivery comes from compliance.
@@ -85,6 +90,7 @@ Every time you assign a task manually, you’re compensating for a failure upstr
 
 - Lack of a clear Product Goal.
 - Incomplete or incoherent Backlog.
+- Pushing work into the system until it overloads
 - No service-level expectations.
 - No WIP limits.
 - No autonomy in the team.
@@ -139,15 +145,17 @@ Estimation is often just a proxy for distrust. When you right-size instead—gro
 
 ### 4. **Introduce Pull Systems with WIP Limits**
 
-Introducing a work-limited pull system is key to [understanding capacity and planning for a successful delivery]({{< nkdref "/resources/blog/2025/2025-07-21-rethinking-capacity-planning" >}}) .  Push systems enforce direction. They push work into teams, whether or not the system is ready to absorb it. This can flood their inbox and overwhelm the team, forcing them to "show progress" on too many things and get nothing done.
+Introducing a work-limited pull system is key to [understanding capacity and planning for a successful delivery]({{< nkdref "/resources/blog/2025/2025-07-21-rethinking-capacity-planning" >}}). Push systems undermine accountability, responsibility, and ownership by enforcing direction from above. When teams have work pushed onto them without control or influence over the timing or readiness, their sense of ownership evaporates. This loss of autonomy directly stifles self-organisation and self-management, leaving teams disempowered and reactive.
 
-Pull systems flip the model. They start with readiness. Teams pull work when they have capacity, when the work is right-sized and well-shaped, and when the system is ready for it to flow.
+Push systems flood teams, forcing them into reactive firefighting and constant context-switching. The focus becomes merely "showing progress" rather than genuinely delivering value. This model not only overwhelms teams but also actively erodes their ability to take responsibility for outcomes, as decisions are stripped away from those who do the work.
 
-- **Action**: Adopt WIP limits and pull-based workflows at all levels—strategic, product, and team. Start with team-level WIP limits and a clear Definition of Workflow to establish readiness criteria. Extend to portfolio and category WIP policies that protect system-level flow.
-- **How**: Regularly inspect cumulative flow and throughput run charts, as well as ageing WIP. Use this data to identify bottlenecks and overburdened stages. If ageing WIP rises, you’re not pulling—you’re pushing.
-- **Why**: Agency thrives when teams decide when and what to pull, grounded in real system conditions, not artificial deadlines. Predictability increases, burnout decreases, and systemic health improves. You meet the deadline because all work is delivered sooner, not because you force it through the system.
+In contrast, pull systems enhance accountability and ownership by starting with readiness. Teams pull work into their systems only when they have the capacity, when tasks are right-sized, and when the system is genuinely ready to support the flow of work.
 
-WIP limits are not a control mechanism; they’re a feedback constraint—a way for the system to signal when it's at capacity. Pull-based systems are the only way to create sustainable delivery. If your teams are overwhelmed or chronically context-switching, it’s a systems problem. And your system is likely pushing.
+- **Action**: Implement explicit WIP limits and establish pull-based workflows at strategic, product, and team levels. Start with clear team-level WIP limits and a robust Definition of Workflow to outline readiness. Expand this discipline to portfolio and category levels, ensuring system-level flow is protected.
+- **How**: Regularly inspect cumulative flow diagrams, throughput run charts, and ageing WIP. Use these insights to identify bottlenecks and overloaded stages. Rising ageing WIP is your signal that the system has shifted back to push dynamics.
+- **Why**: Genuine ownership and accountability flourish when teams have autonomy over their workflow, responding to actual system conditions rather than artificial deadlines. This approach enhances predictability, reduces burnout, and creates sustainable delivery. Deadlines are met naturally as work is continuously delivered, not forced through the system.
+
+WIP limits are not about control—they are about providing meaningful feedback. They indicate when your system reaches capacity, signaling the team to focus and prioritise effectively. Pull-based systems are essential for sustainable, predictable value delivery. If your teams constantly feel overwhelmed and lack autonomy, it’s time to recognise this as a systemic issue: your organisation is pushing rather than enabling.
 
 ### 5. **Use evidence-based management practices**
 
