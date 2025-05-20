@@ -29,12 +29,12 @@ For each PR, a custom environment will be created, and the link will be listed o
    winget install hugo
    ```
 
-2. [Azure Static Web Apps CLI](https://github.com/Azure/static-web-apps-cli) - For local development
+2. Node.js and npm - Required for build processes
    ```
-   npm install -g @azure/static-web-apps-cli
+   # Install from https://nodejs.org/
    ```
 
-3. [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local) - For local Azure Functions development
+3. [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local) - For build processes
    ```
    npm i -g azure-functions-core-tools@4 --unsafe-perm true
    ```
@@ -54,12 +54,7 @@ For each PR, a custom environment will be created, and the link will be listed o
    hugo server --source site --config hugo.yaml,hugo.local.yaml --debug
    ```
 
-3. Start the Azure Static Web Apps CLI in a separate terminal
-   ```
-   swa start http://localhost:1313 --api-location ./functions
-   ```
-
-4. Open your browser and navigate to http://localhost:4280
+3. Open your browser and navigate to http://localhost:1313
 
 ## Configuration
 
@@ -110,8 +105,8 @@ Each environment (Preview, Prototype, Live) has its own deployment configuration
 ## Troubleshooting
 
 - **Hugo build errors**: Most common errors are related to content formatting. Check the error message for the specific file and line number.
-- **Azure Functions not running**: Make sure you've installed Azure Functions Core Tools correctly and that you're running the `swa` command with the correct `--api-location` parameter.
-- **Static Web Apps CLI not working**: Ensure you have the latest version installed and that Hugo is running on the correct port (usually 1313).
+- **Azure Functions not running**: Make sure you've installed Azure Functions Core Tools correctly.
+- **Hugo server not working**: Ensure you have the latest version installed and that Hugo is running on the correct port (usually 1313).
 - **Authentication issues**: The site uses GitHub authentication which requires environment variables to be set up. For local development, you may need to create a `.env` file with the appropriate GitHub client ID and secret.
 
 ## Contributing
