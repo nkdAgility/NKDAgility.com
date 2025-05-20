@@ -115,7 +115,7 @@ We keep billing simple, clear, and consistent with our ethos: outcome-focused wo
 We keep travel lean, fair, and agreed in advance.
 
 - **Actuals, not guesswork** – You’ll only be charged for real, necessary travel costs (flights, transport, lodging). We don’t markup expenses.
-- **Reasonable per diem** – If actual receipts aren’t practical, we charge a flat £35/day to cover incidentals.
+ - **Reasonable per diem** – If actual receipts aren’t practical, we charge a standard per diem of £70/day (around $150) depending on location to cover incidentals.
 - **Return-home principle** – Our consultants aim to return home on weekends unless the logistics or value of the work make that impractical. We’ll always discuss this openly.
 - **Billed with transparency** – Travel and expenses are invoiced monthly or at the end of the engagement, whichever comes first.
 
