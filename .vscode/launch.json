@@ -13,6 +13,13 @@
       "type": "coreclr",
       "request": "attach",
       "processId": "${command:azureFunctions.pickProcess}"
+    },
+    {
+      "name": "Launch Hugo & Functions",
+      "type": "node",
+      "request": "launch",
+      "preLaunchTask": "start-hugo-and-functions",
+      "internalConsoleOptions": "neverOpen"
     }
   ]
 }
