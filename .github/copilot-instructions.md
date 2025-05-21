@@ -66,7 +66,13 @@ To build the site for production or other environments:
 hugo build --source site --config hugo.yaml,hugo.local.yaml
 ```
 
-For different environments, replace `hugo.local.yaml` with the appropriate config file (`hugo.preview.yaml`, `hugo.production.yaml`, etc.).
+This is the typical command used from the root of the repo. For different environments, replace `hugo.local.yaml` with the appropriate config file (`hugo.preview.yaml`, `hugo.production.yaml`, etc.).
+
+The command specified in the issue is:
+
+```
+hugo build --source .\site --config hugo.yaml,hugo.local.yaml
+```
 
 ### API Development
 
