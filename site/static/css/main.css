@@ -199,8 +199,19 @@ pre {
 }
 
 /* Dark mode nav adjustments */
-[data-theme="dark"] .navbar {
+/* Apply dark background to navbars except the top bar nav */
+[data-theme="dark"] .navbar:not(#topBarNav) {
   background-color: var(--background-color) !important; 
+}
+
+/* Preserve brand-primary color for the topBarNav in dark mode */
+[data-theme="dark"] #topBarNav {
+  background-color: var(--primary-color) !important;
+}
+
+/* Ensure top bar nav links are visible in dark mode */
+[data-theme="dark"] #topBarNav .navbar-brand-topbaritem {
+  color: var(--dark-primary-color-text) !important;
 }
 
 [data-theme="dark"] .navbar-light .navbar-nav .nav-link {
