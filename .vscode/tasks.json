@@ -16,6 +16,17 @@
       }
     },
     {
+      "label": "serve (hugo)",
+      "type": "shell",
+      "command": "hugo",
+      "args": ["server", "--source", "site", "--config", "hugo.yaml,hugo.local.yaml", "--disableFastRender"],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "isBackground": true
+    },
+    {
       "label": "clean (functions)",
       "command": "dotnet",
       "args": ["clean", "/property:GenerateFullPaths=true", "/consoleloggerparameters:NoSummary"],
@@ -62,6 +73,7 @@
       }
     },
     {
+      "label": "serve (functions)",
       "type": "func",
       "dependsOn": "build (functions)",
       "options": {
@@ -70,6 +82,27 @@
       "command": "host start",
       "isBackground": true,
       "problemMatcher": "$func-dotnet-watch"
+    },
+    {
+      "label": "start-hugo-and-functions",
+      "dependsOn": [
+        "serve (hugo)",
+        "serve (functions)"
+      ],
+      "dependsOrder": "parallel",
+      "problemMatcher": [],
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "start-swa-cli",
+      "type": "shell",
+      "command": "swa",
+      "args": ["start", "http://localhost:1313", "--api-location", "./functions"],
+      "isBackground": true,
+      "problemMatcher": []
     }
   ]
 }
