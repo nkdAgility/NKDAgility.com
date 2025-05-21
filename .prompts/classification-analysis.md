@@ -70,7 +70,7 @@ Return a JSON object only — no extra text.
   "total_penalty_points": <sum_of_deductions>, // numeric: total points deducted (0 if none)
   "penalty_details": "<list which dimensions were penalized and why; if none, return 'none'>",
   "reasoning": "<detailed explanation including examples from the content and overall justification for the confidence score>",
-  "reasoning_summary": "<A Generative Experience Optimisation summary of the reasoning that is conversational, professional, and explains why the content fits (or doesn’t fit) the category, without copying the original reasoning. No more than 500 characters.>"
+  "reasoning_summary": "<A concise, conversational, and professional summary explaining how the content aligns (or does not align) with the category. Focus strictly on describing relevance and fit without evaluating quality or effectiveness. Do not repeat the detailed reasoning or original examples. Limit to 500 characters.>"
 }
 
 ```
