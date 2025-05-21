@@ -14,12 +14,65 @@
 
   --background-color: #ecf0f1;
   --primary-color-text: #ffffff;
+  --text-color: #333333;
+  --blockquote-bg: #ededed;
+  --blockquote-text: #555555;
+  --blockquote-border: #78c0a8;
+}
+
+/* Dark mode color variables */
+[data-theme="dark"] {
+  --primary-color: #9b5baf;
+  --primary-color-light: #b27fc2;
+
+  --secondary-color: #3399dd;
+  --secondary-color-light: #66b3ff;
+
+  --accent-color: #f3952e;
+  --accent-color-light: #ffb151;
+
+  --accent-color-alt: #eac2f0;
+  --accent-color-alt-light: #f4e0f7;
+
+  --background-color: #1e1e1e;
+  --primary-color-text: #ffffff;
+  --text-color: #f5f5f5;
+  --blockquote-bg: #333333;
+  --blockquote-text: #dddddd;
+  --blockquote-border: #78c0a8;
+}
+
+/* Apply based on system preference when no theme is set */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --primary-color: #9b5baf;
+    --primary-color-light: #b27fc2;
+  
+    --secondary-color: #3399dd;
+    --secondary-color-light: #66b3ff;
+  
+    --accent-color: #f3952e;
+    --accent-color-light: #ffb151;
+  
+    --accent-color-alt: #eac2f0;
+    --accent-color-alt-light: #f4e0f7;
+  
+    --background-color: #1e1e1e;
+    --primary-color-text: #ffffff;
+    --text-color: #f5f5f5;
+    --blockquote-bg: #333333;
+    --blockquote-text: #dddddd;
+    --blockquote-border: #78c0a8;
+  }
 }
 
 body {
   font-family: "Calibri", "Open Sans", sans-serif;
   font-size: clamp(0.8rem, 1vw + 1rem, 1.2rem);
   line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 h1,
@@ -242,16 +295,17 @@ img {
 blockquote {
   font-size: 1em;
   font-style: italic;
-  color: #555555;
+  color: var(--blockquote-text);
   padding: 1.2em 30px 1.2em 75px;
-  border-left: 8px solid #78c0a8;
+  border-left: 8px solid var(--blockquote-border);
   position: relative;
-  background: #ededed;
+  background: var(--blockquote-bg);
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 blockquote::before {
   content: "\201C";
-  color: #78c0a8;
+  color: var(--blockquote-border);
   font-size: 2em;
   position: absolute;
   left: 10px;
@@ -264,7 +318,7 @@ blockquote::after {
 
 blockquote cite {
   display: block;
-  color: #333333;
+  color: var(--text-color);
   font-style: normal;
   font-weight: bold;
   margin-top: 1em;
