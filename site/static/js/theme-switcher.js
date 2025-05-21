@@ -1,5 +1,6 @@
 // Theme switcher functionality
 document.addEventListener("DOMContentLoaded", function() {
+  console.log("Theme switcher loaded");
   // Check for saved theme preference or use system preference
   const savedTheme = localStorage.getItem('theme');
   const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
@@ -11,8 +12,11 @@ document.addEventListener("DOMContentLoaded", function() {
   // Listen for theme toggle button click
   const themeToggleBtn = document.getElementById('theme-toggle');
   if (themeToggleBtn) {
+    console.log("Theme toggle button found, adding event listener");
     themeToggleBtn.addEventListener('click', toggleTheme);
     updateThemeIcon(themeToSet);
+  } else {
+    console.warn("Theme toggle button not found in the DOM");
   }
   
   // Listen for system preference changes
@@ -27,15 +31,20 @@ document.addEventListener("DOMContentLoaded", function() {
 
 // Set the theme by updating the data-theme attribute
 function setTheme(theme) {
+  console.log(`Setting theme to: ${theme}`);
   document.documentElement.setAttribute('data-theme', theme);
+  document.body.classList.remove('theme-light', 'theme-dark');
+  document.body.classList.add(`theme-${theme}`);
   localStorage.setItem('theme', theme);
   updateThemeIcon(theme);
 }
 
 // Toggle between light and dark themes
 function toggleTheme() {
+  console.log("Toggle theme clicked");
   const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
   const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+  console.log(`Switching theme from ${currentTheme} to ${newTheme}`);
   setTheme(newTheme);
 }
 

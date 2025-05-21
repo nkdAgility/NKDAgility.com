@@ -405,3 +405,23 @@ blockquote cite {
   color: #e6e6e6;
   border-color: #444;
 }
+
+/* Theme toggle button styles */
+#theme-toggle {
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 0.5rem;
+}
+
+#theme-toggle:hover {
+  transform: scale(1.1);
+}
+
+#theme-toggle-icon {
+  font-size: 1.2rem;
+}
+
+/* Dark mode transition */
+html {
+  transition: color 0.3s ease, background-color 0.3s ease;
+}
