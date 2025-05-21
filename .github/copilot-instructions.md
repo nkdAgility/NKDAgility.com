@@ -1,0 +1,102 @@
+# NKDAgility Website Development Guide
+
+This repository contains the NKDAgility website built with Hugo. Here's what you need to know to work with this project.
+
+## Repository Structure
+
+- `site/` - The main Hugo website directory
+  - `content/` - All website content in Markdown format
+  - `layouts/` - Hugo templates
+  - `static/` - Static assets (images, CSS, JS, etc.)
+  - `archetypes/` - Template files for new content
+  - `data/` - YAML/JSON/TOML files used in templates
+  - `hugo.yaml` - Main Hugo configuration file
+  - `hugo.local.yaml`, `hugo.preview.yaml`, etc. - Environment-specific configurations
+
+- `functions/` - Azure Functions for API functionality
+- `.github/` - GitHub configuration files and workflows
+- `.powershell/` - PowerShell scripts for automation
+
+## Local Development Setup
+
+### Prerequisites
+
+1. Install Hugo Extended version
+   ```
+   winget install hugo
+   ```
+
+2. Install Static Web Apps CLI
+   ```
+   npm install -g @azure/static-web-apps-cli
+   ```
+
+3. Install Azure Functions Core Tools
+   ```
+   npm i -g azure-functions-core-tools@4 --unsafe-perm true
+   ```
+
+4. Install .NET 10 SDK from https://dotnet.microsoft.com/download/dotnet/10.0
+
+5. Install PowerShell 7+
+   ```
+   winget install Microsoft.PowerShell
+   ```
+
+### Running the Website Locally
+
+1. Clone the repository
+   ```
+   git clone https://github.com/nkdAgility/NKDAgility.com.git
+   cd NKDAgility.com
+   ```
+
+2. Start the Hugo development server
+   ```
+   hugo server --source site --config hugo.yaml,hugo.local.yaml
+   ```
+
+3. View the site at http://localhost:1313
+
+### Building for Production
+
+To build the site for production or other environments:
+
+```
+hugo build --source site --config hugo.yaml,hugo.local.yaml
+```
+
+For different environments, replace `hugo.local.yaml` with the appropriate config file (`hugo.preview.yaml`, `hugo.production.yaml`, etc.).
+
+### API Development
+
+If you need to work with the Azure Functions:
+
+1. Navigate to the functions directory
+   ```
+   cd functions
+   ```
+
+2. Start the Azure Functions runtime
+   ```
+   func start
+   ```
+
+3. In a separate terminal, start the SWA CLI to connect Hugo and Functions
+   ```
+   swa start http://localhost:1313 --api-location ./functions
+   ```
+
+## Key Workflows
+
+The repository uses GitHub Actions for CI/CD:
+
+- Pull requests trigger preview builds
+- Merges to main branch deploy to staging
+- Release tags deploy to production
+
+## Content Management
+
+- Content is written in Markdown format in the `site/content` directory
+- Images are stored in subdirectories alongside content files
+- The website uses various taxonomies (tags, categories, etc.) defined in `hugo.yaml`
