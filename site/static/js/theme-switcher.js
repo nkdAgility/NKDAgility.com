@@ -27,6 +27,12 @@ document.addEventListener("DOMContentLoaded", function() {
       updateThemeIcon(e.matches ? 'dark' : 'light');
     }
   });
+  
+  // Ensure images are properly swapped on initial load and with a delay
+  setTimeout(() => {
+    console.log("Running delayed image swap to ensure all images are loaded");
+    swapThemeImages(themeToSet);
+  }, 500);
 });
 
 // Set the theme by updating the data-theme attribute
@@ -73,17 +79,23 @@ function swapThemeImages(theme) {
   
   // Find all theme-aware images (with data-theme-src attribute)
   const themeImages = document.querySelectorAll('[data-theme-src-light], [data-theme-src-dark]');
+  console.log(`Found ${themeImages.length} theme-aware images`);
   
-  themeImages.forEach(img => {
+  themeImages.forEach((img, index) => {
     const lightSrc = img.getAttribute('data-theme-src-light');
     const darkSrc = img.getAttribute('data-theme-src-dark');
     
+    console.log(`Image ${index + 1}: light src = ${lightSrc}, dark src = ${darkSrc}`);
+    
     if (lightSrc && darkSrc) {
       // Set the appropriate src based on theme
+      const previousSrc = img.src;
       if (theme === 'dark' && darkSrc) {
         img.src = darkSrc;
+        console.log(`Changed image ${index + 1} from ${previousSrc} to ${darkSrc}`);
       } else if (theme === 'light' && lightSrc) {
         img.src = lightSrc;
+        console.log(`Changed image ${index + 1} from ${previousSrc} to ${lightSrc}`);
       }
     }
   });

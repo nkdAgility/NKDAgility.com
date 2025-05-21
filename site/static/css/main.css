@@ -461,6 +461,18 @@ blockquote cite {
   font-size: 1.2rem;
 }
 
+/* Images with theme support */
+[data-theme-src-light], [data-theme-src-dark] {
+  transition: opacity 0.3s ease;
+}
+
+/* Ensure theme-aware images remain visible in both modes */
+[data-theme="dark"] [data-theme-src-dark],
+[data-theme="light"] [data-theme-src-light],
+:root:not([data-theme]) [data-theme-src-light] {
+  opacity: 1;
+}
+
 /* Dark mode transition */
 html {
   transition: color 0.3s ease, background-color 0.3s ease;
