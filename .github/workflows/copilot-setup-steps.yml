@@ -17,27 +17,18 @@ jobs:
         with:
           hugo-version: "latest"
           extended: true
-      
+
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '10.0.x'
-      
-      - name: Setup PowerShell
-        uses: actions/setup-powershell@v2
-        with:
-          powershell-version: '7.4.1'
-      
+          dotnet-version: "10.0.x"
       - name: Verify Installations
         shell: pwsh
         run: |
           # Verify Hugo installation
           hugo version
-          
+
           # Verify .NET installation
           dotnet --info
-          
-          # Verify PowerShell installation
-          $PSVersionTable
-          
+
           Write-Output "All prerequisites installed successfully!"
