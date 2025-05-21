@@ -1,45 +1,81 @@
-/* Define branding color variables */
+/* Light Mode (Default) color variables */
 :root {
-  --primary-color: #713183;
-  --primary-color-light: #8b49a0; /* Was #dbb0e6 */
+  /* Light Mode - Brand Colors */
+  --light-primary-color: #713183;
+  --light-primary-color-light: #8b49a0;
 
-  --secondary-color: #007acc;
-  --secondary-color-light: #3399dd; /* Was #9fd2f4 */
+  --light-secondary-color: #007acc;
+  --light-secondary-color-light: #3399dd;
 
-  --accent-color: #e37f01;
-  --accent-color-light: #f3952e; /* Was #ffcd35 */
+  --light-accent-color: #e37f01;
+  --light-accent-color-light: #f3952e;
 
-  --accent-color-alt: #dcace8;
-  --accent-color-alt-light: #eac2f0; /* Was #ffe4f8 */
+  --light-accent-color-alt: #dcace8;
+  --light-accent-color-alt-light: #eac2f0;
 
-  --background-color: #ecf0f1;
-  --primary-color-text: #ffffff;
-  --text-color: #333333;
-  --blockquote-bg: #ededed;
-  --blockquote-text: #555555;
-  --blockquote-border: #78c0a8;
+  /* Light Mode - UI Colors */
+  --light-background-color: #ecf0f1;
+  --light-primary-color-text: #ffffff;
+  --light-text-color: #333333;
+  --light-blockquote-bg: #ededed;
+  --light-blockquote-text: #555555;
+  --light-blockquote-border: #78c0a8;
+  
+  /* Default theme is light, so set the variables */
+  --primary-color: var(--light-primary-color);
+  --primary-color-light: var(--light-primary-color-light);
+  --secondary-color: var(--light-secondary-color);
+  --secondary-color-light: var(--light-secondary-color-light);
+  --accent-color: var(--light-accent-color);
+  --accent-color-light: var(--light-accent-color-light);
+  --accent-color-alt: var(--light-accent-color-alt);
+  --accent-color-alt-light: var(--light-accent-color-alt-light);
+  --background-color: var(--light-background-color);
+  --primary-color-text: var(--light-primary-color-text);
+  --text-color: var(--light-text-color);
+  --blockquote-bg: var(--light-blockquote-bg);
+  --blockquote-text: var(--light-blockquote-text);
+  --blockquote-border: var(--light-blockquote-border);
 }
 
-/* Dark mode color variables */
+/* Dark Mode color variables */
 [data-theme="dark"] {
-  --primary-color: #9b5baf;
-  --primary-color-light: #b27fc2;
+  /* Dark Mode - Brand Colors */
+  --dark-primary-color: #9b5baf;
+  --dark-primary-color-light: #b27fc2;
 
-  --secondary-color: #3399dd;
-  --secondary-color-light: #66b3ff;
+  --dark-secondary-color: #3399dd;
+  --dark-secondary-color-light: #66b3ff;
 
-  --accent-color: #f3952e;
-  --accent-color-light: #ffb151;
+  --dark-accent-color: #f3952e;
+  --dark-accent-color-light: #ffb151;
 
-  --accent-color-alt: #eac2f0;
-  --accent-color-alt-light: #f4e0f7;
+  --dark-accent-color-alt: #eac2f0;
+  --dark-accent-color-alt-light: #f4e0f7;
 
-  --background-color: #1e1e1e;
-  --primary-color-text: #ffffff;
-  --text-color: #f5f5f5;
-  --blockquote-bg: #333333;
-  --blockquote-text: #dddddd;
-  --blockquote-border: #78c0a8;
+  /* Dark Mode - UI Colors */
+  --dark-background-color: #1e1e1e;
+  --dark-primary-color-text: #ffffff;
+  --dark-text-color: #f5f5f5;
+  --dark-blockquote-bg: #333333;
+  --dark-blockquote-text: #dddddd;
+  --dark-blockquote-border: #78c0a8;
+  
+  /* Override the default variables with dark theme values */
+  --primary-color: var(--dark-primary-color);
+  --primary-color-light: var(--dark-primary-color-light);
+  --secondary-color: var(--dark-secondary-color);
+  --secondary-color-light: var(--dark-secondary-color-light);
+  --accent-color: var(--dark-accent-color);
+  --accent-color-light: var(--dark-accent-color-light);
+  --accent-color-alt: var(--dark-accent-color-alt);
+  --accent-color-alt-light: var(--dark-accent-color-alt-light);
+  --background-color: var(--dark-background-color);
+  --primary-color-text: var(--dark-primary-color-text);
+  --text-color: var(--dark-text-color);
+  --blockquote-bg: var(--dark-blockquote-bg);
+  --blockquote-text: var(--dark-blockquote-text);
+  --blockquote-border: var(--dark-blockquote-border);
 }
 
 /* Apply based on system preference when no theme is set */
@@ -115,7 +151,7 @@ h6 {
 }
 
 .bg-brand-primary {
-  background-color: #713183;
+  background-color: var(--primary-color);
 }
 .bg-brand-secondary {
   background-color: #54595f;
@@ -179,13 +215,6 @@ pre {
   border-color: rgba(255, 255, 255, 0.1);
 }
 
-/* Logo styles for dark mode */
-[data-theme="dark"] .navbar-brand {
-  background-color: rgba(255, 255, 255, 0.8);
-  border-radius: 5px;
-  padding: 5px;
-}
-
 .bg-nkdagility-primary {
   background-color: var(--primary-color) !important;
 }
@@ -195,12 +224,12 @@ pre {
 }
 
 .btn-nkdprimary {
-  background-color: #713183;
+  background-color: var(--primary-color);
   color: white;
 }
 
 .btn-nkdprimary:hover {
-  background-color: #54595f;
+  background-color: var(--primary-color-light);
   color: white;
 }
 

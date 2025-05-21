@@ -37,6 +37,9 @@ function setTheme(theme) {
   document.body.classList.add(`theme-${theme}`);
   localStorage.setItem('theme', theme);
   updateThemeIcon(theme);
+  
+  // Handle theme-aware images
+  swapThemeImages(theme);
 }
 
 // Toggle between light and dark themes
@@ -62,4 +65,26 @@ function updateThemeIcon(theme) {
       themeToggleIcon.classList.add('fa-moon'); // Show moon icon in light mode (to switch to dark)
     }
   }
+}
+
+// Swap images based on theme
+function swapThemeImages(theme) {
+  console.log(`Swapping images for ${theme} theme`);
+  
+  // Find all theme-aware images (with data-theme-src attribute)
+  const themeImages = document.querySelectorAll('[data-theme-src-light], [data-theme-src-dark]');
+  
+  themeImages.forEach(img => {
+    const lightSrc = img.getAttribute('data-theme-src-light');
+    const darkSrc = img.getAttribute('data-theme-src-dark');
+    
+    if (lightSrc && darkSrc) {
+      // Set the appropriate src based on theme
+      if (theme === 'dark' && darkSrc) {
+        img.src = darkSrc;
+      } else if (theme === 'light' && lightSrc) {
+        img.src = lightSrc;
+      }
+    }
+  });
 }
