@@ -159,7 +159,31 @@ pre {
 }
 
 .nkda-text-primary {
-  color: #713183;
+  color: var(--primary-color);
+}
+
+/* Dark mode nav adjustments */
+[data-theme="dark"] .navbar {
+  background-color: var(--background-color) !important; 
+}
+
+[data-theme="dark"] .navbar-light .navbar-nav .nav-link {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .navbar-light .navbar-toggler-icon {
+  filter: invert(1);
+}
+
+[data-theme="dark"] .navbar-light .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Logo styles for dark mode */
+[data-theme="dark"] .navbar-brand {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 5px;
+  padding: 5px;
 }
 
 .bg-nkdagility-primary {
@@ -325,3 +349,59 @@ blockquote cite {
 }
 
 /* //BLOCKQUOTE */
+
+/* Theme toggle button */
+#theme-toggle {
+  padding: 0.5rem;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+[data-theme="dark"] #theme-toggle {
+  color: var(--accent-color);
+}
+
+[data-theme="light"] #theme-toggle {
+  color: var(--primary-color);
+}
+
+/* Dark mode card adjustments */
+[data-theme="dark"] .card {
+  background-color: #2d2d2d;
+  color: var(--text-color);
+  border-color: #444;
+}
+
+[data-theme="dark"] .card-header,
+[data-theme="dark"] .card-footer {
+  background-color: #252525;
+  border-color: #444;
+}
+
+[data-theme="dark"] .card a:not(.btn) {
+  color: var(--accent-color-light);
+}
+
+/* Dark mode table adjustments */
+[data-theme="dark"] table {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .table {
+  --bs-table-striped-color: var(--text-color);
+  --bs-table-striped-bg: rgba(255, 255, 255, 0.05);
+  --bs-table-border-color: #444;
+}
+
+/* Fix preformatted text and code blocks */
+[data-theme="dark"] pre,
+[data-theme="dark"] code {
+  background-color: #2d2d2d;
+  color: #e6e6e6;
+  border-color: #444;
+}
