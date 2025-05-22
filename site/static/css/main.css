@@ -15,6 +15,7 @@
 
   /* Light Mode - UI Colors */
   --light-background-color: #ecf0f1;
+  --light-background-color-alt: #e0e0e0;
   --light-primary-color-text: #ffffff;
   --light-text-color-dark: #ffffff;
   --light-text-color: #333333;
@@ -32,6 +33,7 @@
   --accent-color-alt: var(--light-accent-color-alt);
   --accent-color-alt-light: var(--light-accent-color-alt-light);
   --background-color: var(--light-background-color);
+  --background-color-alt: var(--light-background-color-alt);
   --primary-color-text: var(--light-primary-color-text);
   --text-color: var(--light-text-color);
   --blockquote-bg: var(--light-blockquote-bg);
@@ -56,6 +58,7 @@
 
   /* Dark Mode - UI Colors */
   --dark-background-color: #1e1e1e;
+  --dark-background-color-alt: #2d2d2d;
   --dark-primary-color-text: #ffffff;
   --dark-text-color: #f5f5f5;
   --dark-blockquote-bg: #333333;
@@ -72,6 +75,7 @@
   --accent-color-alt: var(--dark-accent-color-alt);
   --accent-color-alt-light: var(--dark-accent-color-alt-light);
   --background-color: var(--dark-background-color);
+  --background-color-alt: var(--dark-background-color-alt);
   --primary-color-text: var(--dark-primary-color-text);
   --text-color: var(--dark-text-color);
   --blockquote-bg: var(--dark-blockquote-bg);
@@ -528,4 +532,28 @@ html {
   transition:
     color 0.3s ease,
     background-color 0.3s ease;
+}
+
+/* Dropdown menu styling for both light and dark modes */
+.dropdown-menu {
+  background-color: var(--background-color-alt);
+  border-color: rgba(0, 0, 0, 0.15);
+  transition: 
+    background-color 0.3s ease,
+    border-color 0.3s ease;
+}
+
+[data-theme="dark"] .dropdown-menu {
+  background-color: var(--background-color-alt);
+  border-color: #444;
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .dropdown-menu a {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .dropdown-menu a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--accent-color-light);
 }
