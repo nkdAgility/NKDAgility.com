@@ -42,6 +42,8 @@ creator: Martin Hinshelwood
 contributors:
   - name: Brett Maytom
     external: https://www.linkedin.com/in/scrum-trainer/
+  - name: Alex Brown
+    external: https://www.linkedin.com/in/alexbrown/
 ---
 
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.
