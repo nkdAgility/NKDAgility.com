@@ -143,7 +143,7 @@ h6 {
 }
 
 .nkda-heading-secondary {
-  color: initial;
+  color: whitesmoke;
   font-size: clamp(0.8rem, 2vw + 1rem, 1.2rem);
 }
 
@@ -454,7 +454,9 @@ blockquote cite {
 .sectioncards .card-footer,
 .sectioncards .list-group,
 .sectioncards .list-group-item {
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 
 /* Dark mode specific styling for sectioncards */
