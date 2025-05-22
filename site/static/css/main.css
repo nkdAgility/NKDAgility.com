@@ -437,6 +437,11 @@ blockquote cite {
   color: var(--accent-color-light);
 }
 
+/* Make links white in dark mode for better visibility */
+[data-theme="dark"] a:not(.btn):not(.navbar-brand):not(.nav-link) {
+  color: #ffffff;
+}
+
 /* Card footer specific styling */
 .card-footer {
   background-color: inherit;
