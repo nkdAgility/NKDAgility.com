@@ -472,10 +472,7 @@ blockquote cite {
 }
 
 /* Consistent styling for all card components */
-[data-theme="light"] .card-footer,
-:root:not([data-theme]) .card-footer {
-  background-color: var(--light-background-color);
-}
+/* Remove the explicit light background for card-footer to ensure it matches the card body */
 
 /* Dark mode table adjustments */
 [data-theme="dark"] table {
