@@ -33,6 +33,15 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <!-- Preconnect to Font Awesome to speed up connection -->
 <link rel="preconnect" href="https://kit.fontawesome.com" crossorigin>
 <link rel="preconnect" href="https://ka-f.fontawesome.com" crossorigin>
+<!-- Configure Font Awesome to reduce CSS payload using auto-fetching -->
+<script>
+  window.FontAwesomeConfig = {
+    searchPseudoElements: true,
+    observeMutations: true,
+    autoReplaceSvg: "nest",
+    autoAddCss: true
+  };
+</script>
 <!-- Load Font Awesome with defer for better performance -->
 <script defer data-search-pseudo-elements src="https://kit.fontawesome.com/3e6b2f4808.js" crossorigin="anonymous"></script>
 
