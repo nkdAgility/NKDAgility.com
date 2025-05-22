@@ -1,0 +1,7 @@
+{{- if .Params.pdf -}}
+<div class="pdf-download-container mt-3 mb-4">
+  <a href="/pdfs/{{ .Params.pdf }}" target="_blank" class="btn btn-primary pdf-download-button">
+    <i class="fas fa-file-pdf mr-2"></i> Download as PDF
+  </a>
+</div>
+{{- end -}}

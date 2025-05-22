@@ -233,6 +233,12 @@ jobs:
           hugo-version: "${{ vars.HUGO_BUILD_VERSION }}"
           extended: true
 
+      - name: Generate PDF Resources
+        run: |
+          Write-Host "Generating PDF versions of resources";
+          New-Item -Path "pdf-output" -ItemType Directory -Force
+          pwsh -File ".powershell/Generate-ResourcePDFs.ps1"
+          
       - name: Build
         run: |
           Write-Host "Building site for ${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}";
@@ -246,6 +252,12 @@ jobs:
           Copy-Item -Path "./staticwebapp.config.json" -Destination ./public/
           Get-ChildItem -Path "./" -Filter "staticwebapp.config.*.json" | ForEach-Object {
               Copy-Item -Path $_.FullName -Destination "./public/"
+          }
+          
+          # Copy generated PDFs to the public directory
+          if (Test-Path -Path "./pdf-output") {
+            New-Item -Path "./public/pdfs" -ItemType Directory -Force | Out-Null
+            Copy-Item -Path "./pdf-output/*.pdf" -Destination "./public/pdfs/" -Force
           }
 
       - name: Check if folder size exceeds 500MB
