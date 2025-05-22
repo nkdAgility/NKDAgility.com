@@ -432,6 +432,40 @@ blockquote cite {
   color: var(--accent-color-light);
 }
 
+/* Card footer specific styling */
+.card-footer {
+  background-color: inherit;
+}
+
+/* List group styling for light and dark modes */
+.card .list-group {
+  background-color: inherit;
+}
+
+[data-theme="dark"] .list-group-item {
+  background-color: #2d2d2d;
+  color: var(--text-color);
+  border-color: #444;
+}
+
+/* Ensure sectioncards have consistent styling */
+.sectioncards .card-body,
+.sectioncards .card-footer,
+.sectioncards .list-group {
+  transition: background-color 0.3s ease;
+}
+
+[data-theme="dark"] .sectioncards .card-body,
+[data-theme="dark"] .sectioncards .card-footer {
+  background-color: #2d2d2d;
+}
+
+/* Consistent styling for all card components */
+[data-theme="light"] .card-footer,
+:root:not([data-theme]) .card-footer {
+  background-color: var(--light-background-color);
+}
+
 /* Dark mode table adjustments */
 [data-theme="dark"] table {
   color: var(--text-color);
