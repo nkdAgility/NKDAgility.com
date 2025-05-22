@@ -1,11 +1,9 @@
 name: Copilot Setup Steps
 
-on:
-  workflow_dispatch:
-  workflow_call:
+on: workflow_dispatch
 
 jobs:
-  setup:
+  copilot-setup-steps:
     name: Setup Development Environment
     runs-on: ubuntu-latest
     steps:
