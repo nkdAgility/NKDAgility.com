@@ -16,11 +16,12 @@
   /* Light Mode - UI Colors */
   --light-background-color: #ecf0f1;
   --light-primary-color-text: #ffffff;
+  --light-text-color-dark: #ffffff;
   --light-text-color: #333333;
   --light-blockquote-bg: #ededed;
   --light-blockquote-text: #555555;
   --light-blockquote-border: #78c0a8;
-  
+
   /* Default theme is light, so set the variables */
   --primary-color: var(--light-primary-color);
   --primary-color-light: var(--light-primary-color-light);
@@ -60,7 +61,7 @@
   --dark-blockquote-bg: #333333;
   --dark-blockquote-text: #dddddd;
   --dark-blockquote-border: #78c0a8;
-  
+
   /* Override the default variables with dark theme values */
   --primary-color: var(--dark-primary-color);
   --primary-color-light: var(--dark-primary-color-light);
@@ -83,16 +84,16 @@
   :root:not([data-theme="light"]) {
     --primary-color: #9b5baf;
     --primary-color-light: #b27fc2;
-  
+
     --secondary-color: #3399dd;
     --secondary-color-light: #66b3ff;
-  
+
     --accent-color: #f3952e;
     --accent-color-light: #ffb151;
-  
+
     --accent-color-alt: #eac2f0;
     --accent-color-alt-light: #f4e0f7;
-  
+
     --background-color: #1e1e1e;
     --primary-color-text: #ffffff;
     --text-color: #f5f5f5;
@@ -108,7 +109,9 @@ body {
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--background-color);
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 
 h1,
@@ -201,7 +204,7 @@ pre {
 /* Dark mode nav adjustments */
 /* Apply dark background to navbars except the top bar nav */
 [data-theme="dark"] .navbar:not(#topBarNav) {
-  background-color: var(--background-color) !important; 
+  background-color: var(--background-color) !important;
 }
 
 /* Preserve brand-primary color for the topBarNav in dark mode */
@@ -364,7 +367,9 @@ blockquote {
   border-left: 8px solid var(--blockquote-border);
   position: relative;
   background: var(--blockquote-bg);
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 
 blockquote::before {
@@ -407,7 +412,7 @@ blockquote cite {
 }
 
 [data-theme="light"] #theme-toggle {
-  color: var(--primary-color);
+  color: var(--light-text-color-dark);
 }
 
 /* Dark mode card adjustments */
@@ -462,7 +467,8 @@ blockquote cite {
 }
 
 /* Images with theme support */
-[data-theme-src-light], [data-theme-src-dark] {
+[data-theme-src-light],
+[data-theme-src-dark] {
   transition: opacity 0.3s ease;
 }
 
@@ -475,5 +481,7 @@ blockquote cite {
 
 /* Dark mode transition */
 html {
-  transition: color 0.3s ease, background-color 0.3s ease;
+  transition:
+    color 0.3s ease,
+    background-color 0.3s ease;
 }
