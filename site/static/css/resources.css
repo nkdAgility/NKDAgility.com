@@ -1,6 +1,6 @@
 .resources-headline {
   background-color: var(--primary-color) !important;
-  color: whitesmoke;
+  color: var(--primary-color-text);
 }
 
 .resources-headline h1,
@@ -9,11 +9,11 @@
 .resources-headline h4,
 .resources-headline h5,
 .resources-headline h6 {
-  color: whitesmoke;
+  color: var(--primary-color-text);
 }
 
 .resources-headline .text-muted {
-  color: whitesmoke !important;
+  color: var(--primary-color-text) !important;
   font-size: 0.9em;
 }
 
@@ -23,23 +23,43 @@
 
 .resources-headline .btn-nkdagility-primary {
   background-color: var(--accent-color);
-  color: white;
+  color: var(--primary-color-text);
 }
 
 .resources-headline .btn-nkdagility-primary:hover {
   background-color: var(--accent-color-light);
-  color: white;
+  color: var(--primary-color-text);
 }
 
 .resources-headline .btn-nkdagility-secondary {
   background-color: var(--secondary-color);
-  color: white;
+  color: var(--primary-color-text);
 }
 
 .resources-headline .btn-nkdagility-secondary:hover {
   background-color: var(--secondary-color-light);
-  color: white;
+  color: var(--primary-color-text);
 }
+
+/* Dark mode overrides for resources-headline
+[data-theme="dark"] .resources-headline {
+  background-color: var(--primary-color) !important;
+  color: var(--primary-color-text);
+}
+[data-theme="dark"] .resources-headline h1,
+[data-theme="dark"] .resources-headline h2,
+[data-theme="dark"] .resources-headline h3,
+[data-theme="dark"] .resources-headline h4,
+[data-theme="dark"] .resources-headline h5,
+[data-theme="dark"] .resources-headline h6 {
+  color: var(--primary-color-text);
+}
+[data-theme="dark"] .resources-headline .text-muted {
+  color: var(--primary-color-text) !important;
+}
+[data-theme="dark"] .resources-headline a {
+  color: var(--accent-color-light);
+} */
 
 .resources-headline-sharebar {
   background-color: var(--secondary-color) !important;
@@ -56,7 +76,6 @@
   color: whitesmoke !important;
   border-color: whitesmoke !important;
 }
-
 
 @media (min-width: 1400px) {
   .columns-2 {

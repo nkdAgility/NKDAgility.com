@@ -86,20 +86,20 @@
 /* Apply based on system preference when no theme is set */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --primary-color: #9b5baf;
-    --primary-color-light: #b27fc2;
+    --primary-color: #662b75;
+    --primary-color-light: #8e53a1;
 
-    --secondary-color: #3399dd;
-    --secondary-color-light: #66b3ff;
+    --secondary-color: #2775aa;
+    --secondary-color-light: #2f8fd0;
 
     --accent-color: #f3952e;
     --accent-color-light: #ffb151;
 
-    --accent-color-alt: #eac2f0;
+    --accent-color-alt: #b395b8;
     --accent-color-alt-light: #f4e0f7;
 
     --background-color: #1e1e1e;
-    --primary-color-text: #ffffff;
+    --primary-color-text: #f5f5f5;
     --text-color: #f5f5f5;
     --blockquote-bg: #333333;
     --blockquote-text: #dddddd;
@@ -543,7 +543,7 @@ html {
 .dropdown-menu {
   background-color: var(--background-color-alt);
   border-color: rgba(0, 0, 0, 0.15);
-  transition: 
+  transition:
     background-color 0.3s ease,
     border-color 0.3s ease;
 }
