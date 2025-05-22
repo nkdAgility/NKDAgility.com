@@ -1,25 +1,121 @@
-/* Define branding color variables */
+/* Light Mode (Default) color variables */
 :root {
-  --primary-color: #713183;
-  --primary-color-light: #8b49a0; /* Was #dbb0e6 */
+  /* Light Mode - Brand Colors */
+  --light-primary-color: #713183;
+  --light-primary-color-light: #8b49a0;
 
-  --secondary-color: #007acc;
-  --secondary-color-light: #3399dd; /* Was #9fd2f4 */
+  --light-secondary-color: #007acc;
+  --light-secondary-color-light: #3399dd;
 
-  --accent-color: #e37f01;
-  --accent-color-light: #f3952e; /* Was #ffcd35 */
+  --light-accent-color: #e37f01;
+  --light-accent-color-light: #f3952e;
 
-  --accent-color-alt: #dcace8;
-  --accent-color-alt-light: #eac2f0; /* Was #ffe4f8 */
+  --light-accent-color-alt: #dcace8;
+  --light-accent-color-alt-light: #eac2f0;
 
-  --background-color: #ecf0f1;
-  --primary-color-text: #ffffff;
+  /* Light Mode - UI Colors */
+  --light-background-color: #ecf0f1;
+  --light-background-color-alt: #e0e0e0;
+  --light-primary-color-text: #ffffff;
+  --light-text-color-dark: #ffffff;
+  --light-text-color: #333333;
+  --light-blockquote-bg: #ededed;
+  --light-blockquote-text: #555555;
+  --light-blockquote-border: #78c0a8;
+
+  /* Default theme is light, so set the variables */
+  --primary-color: var(--light-primary-color);
+  --primary-color-light: var(--light-primary-color-light);
+  --secondary-color: var(--light-secondary-color);
+  --secondary-color-light: var(--light-secondary-color-light);
+  --accent-color: var(--light-accent-color);
+  --accent-color-light: var(--light-accent-color-light);
+  --accent-color-alt: var(--light-accent-color-alt);
+  --accent-color-alt-light: var(--light-accent-color-alt-light);
+  --background-color: var(--light-background-color);
+  --background-color-alt: var(--light-background-color-alt);
+  --primary-color-text: var(--light-primary-color-text);
+  --text-color: var(--light-text-color);
+  --blockquote-bg: var(--light-blockquote-bg);
+  --blockquote-text: var(--light-blockquote-text);
+  --blockquote-border: var(--light-blockquote-border);
+}
+
+/* Dark Mode color variables */
+[data-theme="dark"] {
+  /* Dark Mode - Brand Colors */
+  --dark-primary-color: #9b5baf;
+  --dark-primary-color-light: #b27fc2;
+
+  --dark-secondary-color: #3399dd;
+  --dark-secondary-color-light: #66b3ff;
+
+  --dark-accent-color: #f3952e;
+  --dark-accent-color-light: #ffb151;
+
+  --dark-accent-color-alt: #eac2f0;
+  --dark-accent-color-alt-light: #f4e0f7;
+
+  /* Dark Mode - UI Colors */
+  --dark-background-color: #1e1e1e;
+  --dark-background-color-alt: #2d2d2d;
+  --dark-primary-color-text: #ffffff;
+  --dark-text-color: #f5f5f5;
+  --dark-blockquote-bg: #333333;
+  --dark-blockquote-text: #dddddd;
+  --dark-blockquote-border: #78c0a8;
+
+  /* Override the default variables with dark theme values */
+  --primary-color: var(--dark-primary-color);
+  --primary-color-light: var(--dark-primary-color-light);
+  --secondary-color: var(--dark-secondary-color);
+  --secondary-color-light: var(--dark-secondary-color-light);
+  --accent-color: var(--dark-accent-color);
+  --accent-color-light: var(--dark-accent-color-light);
+  --accent-color-alt: var(--dark-accent-color-alt);
+  --accent-color-alt-light: var(--dark-accent-color-alt-light);
+  --background-color: var(--dark-background-color);
+  --background-color-alt: var(--dark-background-color-alt);
+  --primary-color-text: var(--dark-primary-color-text);
+  --text-color: var(--dark-text-color);
+  --blockquote-bg: var(--dark-blockquote-bg);
+  --blockquote-text: var(--dark-blockquote-text);
+  --blockquote-border: var(--dark-blockquote-border);
+}
+
+/* Apply based on system preference when no theme is set */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --primary-color: #662b75;
+    --primary-color-light: #8e53a1;
+
+    --secondary-color: #2775aa;
+    --secondary-color-light: #2f8fd0;
+
+    --accent-color: #f3952e;
+    --accent-color-light: #ffb151;
+
+    --accent-color-alt: #b395b8;
+    --accent-color-alt-light: #f4e0f7;
+
+    --background-color: #242424;
+    --primary-color-text: #f5f5f5;
+    --text-color: #f5f5f5;
+    --blockquote-bg: #333333;
+    --blockquote-text: #dddddd;
+    --blockquote-border: #78c0a8;
+  }
 }
 
 body {
   font-family: "Calibri", "Open Sans", sans-serif;
   font-size: clamp(0.8rem, 1vw + 1rem, 1.2rem);
   line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 
 h1,
@@ -51,7 +147,7 @@ h6 {
 }
 
 .nkda-heading-secondary {
-  color: initial;
+  color: whitesmoke;
   font-size: clamp(0.8rem, 2vw + 1rem, 1.2rem);
 }
 
@@ -62,7 +158,7 @@ h6 {
 }
 
 .bg-brand-primary {
-  background-color: #713183;
+  background-color: var(--primary-color);
 }
 .bg-brand-secondary {
   background-color: #54595f;
@@ -106,7 +202,35 @@ pre {
 }
 
 .nkda-text-primary {
-  color: #713183;
+  color: var(--primary-color);
+}
+
+/* Dark mode nav adjustments */
+/* Apply dark background to navbars except the top bar nav */
+[data-theme="dark"] .navbar:not(#topBarNav) {
+  background-color: var(--background-color) !important;
+}
+
+/* Preserve brand-primary color for the topBarNav in dark mode */
+[data-theme="dark"] #topBarNav {
+  background-color: var(--primary-color) !important;
+}
+
+/* Ensure top bar nav links are visible in dark mode */
+[data-theme="dark"] #topBarNav .navbar-brand-topbaritem {
+  color: var(--dark-primary-color-text) !important;
+}
+
+[data-theme="dark"] .navbar-light .navbar-nav .nav-link {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .navbar-light .navbar-toggler-icon {
+  filter: invert(1);
+}
+
+[data-theme="dark"] .navbar-light .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.1);
 }
 
 .bg-nkdagility-primary {
@@ -118,12 +242,12 @@ pre {
 }
 
 .btn-nkdprimary {
-  background-color: #713183;
+  background-color: var(--primary-color);
   color: white;
 }
 
 .btn-nkdprimary:hover {
-  background-color: #54595f;
+  background-color: var(--primary-color-light);
   color: white;
 }
 
@@ -242,16 +366,19 @@ img {
 blockquote {
   font-size: 1em;
   font-style: italic;
-  color: #555555;
+  color: var(--blockquote-text);
   padding: 1.2em 30px 1.2em 75px;
-  border-left: 8px solid #78c0a8;
+  border-left: 8px solid var(--blockquote-border);
   position: relative;
-  background: #ededed;
+  background: var(--blockquote-bg);
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
 }
 
 blockquote::before {
   content: "\201C";
-  color: #78c0a8;
+  color: var(--blockquote-border);
   font-size: 2em;
   position: absolute;
   left: 10px;
@@ -264,10 +391,174 @@ blockquote::after {
 
 blockquote cite {
   display: block;
-  color: #333333;
+  color: var(--text-color);
   font-style: normal;
   font-weight: bold;
   margin-top: 1em;
 }
 
 /* //BLOCKQUOTE */
+
+/* Theme toggle button */
+#theme-toggle {
+  padding: 0.5rem;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+[data-theme="dark"] #theme-toggle {
+  color: var(--accent-color);
+}
+
+[data-theme="light"] #theme-toggle {
+  color: var(--light-text-color-dark);
+}
+
+/* Dark mode card adjustments */
+[data-theme="dark"] .card {
+  background-color: #2d2d2d;
+  color: var(--text-color);
+  border-color: #444;
+}
+
+[data-theme="dark"] .card-header,
+[data-theme="dark"] .card-footer {
+  background-color: #2d2d2d;
+  border-color: #444;
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .card a:not(.btn) {
+  color: var(--accent-color-light);
+}
+
+/* Make links white in dark mode for better visibility */
+[data-theme="dark"] a:not(.btn):not(.navbar-brand):not(.nav-link) {
+  color: #ffffff;
+}
+
+/* Card footer specific styling */
+.card-footer {
+  background-color: inherit;
+}
+
+/* List group styling for light and dark modes */
+.card .list-group {
+  background-color: inherit;
+}
+
+[data-theme="dark"] .list-group-item {
+  background-color: #2d2d2d;
+  color: var(--text-color);
+  border-color: #444;
+}
+
+/* Ensure sectioncards have consistent styling */
+.sectioncards .card-body,
+.sectioncards .card-footer,
+.sectioncards .list-group,
+.sectioncards .list-group-item {
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+}
+
+/* Dark mode specific styling for sectioncards */
+[data-theme="dark"] .sectioncards .card-body,
+[data-theme="dark"] .sectioncards .card-footer,
+[data-theme="dark"] .sectioncards .list-group,
+[data-theme="dark"] .sectioncards .list-group-item {
+  background-color: #2d2d2d;
+  color: var(--text-color);
+}
+
+/* Ensure text in card body is properly colored in dark mode */
+[data-theme="dark"] .card-body .text-muted {
+  color: #b0b0b0 !important;
+}
+
+/* Consistent styling for all card components */
+/* Remove the explicit light background for card-footer to ensure it matches the card body */
+
+/* Dark mode table adjustments */
+[data-theme="dark"] table {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .table {
+  --bs-table-striped-color: var(--text-color);
+  --bs-table-striped-bg: rgba(255, 255, 255, 0.05);
+  --bs-table-border-color: #444;
+}
+
+/* Fix preformatted text and code blocks */
+[data-theme="dark"] pre,
+[data-theme="dark"] code {
+  background-color: #2d2d2d;
+  color: #e6e6e6;
+  border-color: #444;
+}
+
+/* Theme toggle button styles */
+#theme-toggle {
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 0.5rem;
+}
+
+#theme-toggle:hover {
+  transform: scale(1.1);
+}
+
+#theme-toggle-icon {
+  font-size: 1.2rem;
+}
+
+/* Images with theme support */
+[data-theme-src-light],
+[data-theme-src-dark] {
+  transition: opacity 0.3s ease;
+}
+
+/* Ensure theme-aware images remain visible in both modes */
+[data-theme="dark"] [data-theme-src-dark],
+[data-theme="light"] [data-theme-src-light],
+:root:not([data-theme]) [data-theme-src-light] {
+  opacity: 1;
+}
+
+/* Dark mode transition */
+html {
+  transition:
+    color 0.3s ease,
+    background-color 0.3s ease;
+}
+
+/* Dropdown menu styling for both light and dark modes */
+.dropdown-menu {
+  background-color: var(--background-color-alt);
+  border-color: rgba(0, 0, 0, 0.15);
+  transition:
+    background-color 0.3s ease,
+    border-color 0.3s ease;
+}
+
+[data-theme="dark"] .dropdown-menu {
+  background-color: var(--background-color-alt);
+  border-color: #444;
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .dropdown-menu a {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .dropdown-menu a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: var(--accent-color-light);
+}

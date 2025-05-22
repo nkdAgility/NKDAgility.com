@@ -9,13 +9,13 @@
       <span class="show-more">details...</span>
     </div>
     {{- if .permalink }}
-      <div class="card-footer border-transparent bg-white p-3 text-end border-0">
+      <div class="card-footer border-transparent p-3 text-end border-0">
         <a href="{{ .permalink }}" class="btn btn-nkdagility p-2" title="More information on {{ .title }}">{{- .buttonContent }} <i class="fa-solid fa-arrow-right"></i></a>
       </div>
     {{- end }}
 
     {{- if .link }}
-      <div class="card-footer border-transparent bg-white text-end border-0">
+      <div class="card-footer border-transparent text-end border-0">
         <a href="{{ .link }}" class="stretched-link "></a>
       </div>
     {{- end }}

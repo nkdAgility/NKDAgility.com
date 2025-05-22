@@ -67,6 +67,35 @@
     {{- end }}
 
     {{- partial "infrastructure/footer.html" . }}
+    
+    <!-- Additional theme-related scripts -->
+    <script>
+      // Extra reliability measure for image swapping when page is fully loaded
+      window.addEventListener('load', function() {
+        console.log("Window fully loaded - swapping theme images");
+        const theme = document.documentElement.getAttribute('data-theme') || 'light';
+        
+        // Find all theme-aware images again after full page load
+        const themeImages = document.querySelectorAll('[data-theme-src-light], [data-theme-src-dark]');
+        console.log(`Found ${themeImages.length} theme-aware images at page load`);
+        
+        themeImages.forEach((img, index) => {
+          const lightSrc = img.getAttribute('data-theme-src-light');
+          const darkSrc = img.getAttribute('data-theme-src-dark');
+          
+          if (lightSrc && darkSrc) {
+            if (theme === 'dark' && darkSrc) {
+              img.src = darkSrc;
+              console.log(`[Window load] Set image to dark theme: ${darkSrc}`);
+            } else if (theme === 'light' && lightSrc) {
+              img.src = lightSrc;
+              console.log(`[Window load] Set image to light theme: ${lightSrc}`);
+            }
+          }
+        });
+      });
+    </script>
+    
     {{- if ne hugo.Environment "production" }}
       <div id="debugArea" class="container-fluid p-2 bg-brand-{{- hugo.Environment }}">
         <section class="container my-2">
