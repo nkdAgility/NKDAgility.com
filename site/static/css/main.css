@@ -424,8 +424,9 @@ blockquote cite {
 
 [data-theme="dark"] .card-header,
 [data-theme="dark"] .card-footer {
-  background-color: #252525;
+  background-color: #2d2d2d;
   border-color: #444;
+  color: var(--text-color);
 }
 
 [data-theme="dark"] .card a:not(.btn) {
@@ -451,13 +452,23 @@ blockquote cite {
 /* Ensure sectioncards have consistent styling */
 .sectioncards .card-body,
 .sectioncards .card-footer,
-.sectioncards .list-group {
-  transition: background-color 0.3s ease;
+.sectioncards .list-group,
+.sectioncards .list-group-item {
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+/* Dark mode specific styling for sectioncards */
 [data-theme="dark"] .sectioncards .card-body,
-[data-theme="dark"] .sectioncards .card-footer {
+[data-theme="dark"] .sectioncards .card-footer,
+[data-theme="dark"] .sectioncards .list-group,
+[data-theme="dark"] .sectioncards .list-group-item {
   background-color: #2d2d2d;
+  color: var(--text-color);
+}
+
+/* Ensure text in card body is properly colored in dark mode */
+[data-theme="dark"] .card-body .text-muted {
+  color: #b0b0b0 !important;
 }
 
 /* Consistent styling for all card components */
