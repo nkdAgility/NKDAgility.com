@@ -51,7 +51,7 @@
     {{- end }}
   </ul>
   {{- if $context.Page.RelPermalink }}
-    <div class="card-footer border-transparent bg-white p-3 text-end border-0">
+    <div class="card-footer border-transparent p-3 text-end border-0">
       {{- $itemString := delimit $subTypes "," }}
       <a href="{{- $context.Page.RelPermalink }}?types={{- $itemString | urlquery }}" class="btn btn-nkdagility p-2" title="More information on {{- $context.Page.Title }}">See all <i class="fa-solid fa-arrow-right"></i></a>
     </div>

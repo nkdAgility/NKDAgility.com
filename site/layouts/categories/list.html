@@ -81,7 +81,7 @@
                       {{- $description | markdownify }}
                     </div>
                   </div>
-                  <div class="card-footer border-transparent bg-white p-3 border-0 d-flex justify-content-between align-items-center">
+                  <div class="card-footer border-transparent p-3 border-0 d-flex justify-content-between align-items-center">
                     {{ if ne .Kind "term" }}
                       <small class="text-body-secondary" title="Affinity to {{ $taxonomyName }} is {{ $score }}%&#10;&#10;Reasoning: {{ $reason }}"> <strong class="d-inline-block text-truncate" style="max-width: 150px; vertical-align: middle;"> {{ $taxonomyName }} </strong>: {{ $score }}% </small>
                     {{ end }}

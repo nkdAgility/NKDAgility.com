@@ -8,16 +8,8 @@
           <!-- e -->
           {{- $videoItem := $.Page.Site.GetPage $videos }}
           {{- if $videoItem }}
-            <div class="p-4 bg-white">
-              <iframe
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/{{- $videoItem.Params.videoId }}"
-                title="{{- $videoItem.Params.title }}"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin"
-                allowfullscreen></iframe>
+            <div class="p-4">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/{{- $videoItem.Params.videoId }}" title="{{- $videoItem.Params.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
           {{- else }}
             <p>Video `{{- $videos }}` not found.</p>
@@ -27,29 +19,13 @@
     {{- else }}
       <div class="row">
         <div class="col-lg-6 col-sm-12 col-md-12 p-2">
-          <div class="p-4 bg-white">
-            <iframe
-              width="560"
-              height="315"
-              src="https://www.youtube.com/embed/yCyjGBNaRqI"
-              title="NKD Agility Mission and Purpose"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen></iframe>
+          <div class="p-4">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/yCyjGBNaRqI" title="NKD Agility Mission and Purpose" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </div>
         </div>
         <div class="col-lg-6 col-sm-12 col-md-12 p-2">
-          <div class="p-4 bg-white">
-            <iframe
-              width="560"
-              height="315"
-              src="https://www.youtube.com/embed/BJZdyEqHhXc"
-              title=""
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen></iframe>
+          <div class="p-4">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/BJZdyEqHhXc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </div>
         </div>
       </div>
