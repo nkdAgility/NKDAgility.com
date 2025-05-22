@@ -5,36 +5,36 @@ date: 2025-03-03T09:00:00
 weight: 245
 slug: measuring-individual-cycle-time-is-killing-your-flow
 aliases:
-- /resources/KHEPBWiFDKJ
-- /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+  - /resources/KHEPBWiFDKJ
+  - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
 aliasesArchive:
-- /measuring-individual-cycle-time-is-killing-your-flow
-- /blog/measuring-individual-cycle-time-is-killing-your-flow
-- /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
-- /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
-- /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+  - /measuring-individual-cycle-time-is-killing-your-flow
+  - /blog/measuring-individual-cycle-time-is-killing-your-flow
+  - /why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+  - /blog/why-measuring-individual-cycle-time-is-killing-your-flow-(and-what-to-do-instead)
+  - /resources/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
 concepts:
-- Principle
+  - Principle
 categories:
-- Product Development
-- Kanban
-- Lean
+  - Product Development
+  - Kanban
+  - Lean
 tags:
-- Operational Practices
-- Software Development
-- Lean Principles
-- Pragmatic Thinking
-- Flow Efficiency
-- Project Management
-- Systems Thinking
-- Metrics and Learning
-- Cycle Time
-- Lean Thinking
-- Organisational Physics
-- Value Delivery
-- Value Stream Management
-- Continuous Improvement
-- Market Adaptability
+  - Operational Practices
+  - Software Development
+  - Lean Principles
+  - Pragmatic Thinking
+  - Flow Efficiency
+  - Project Management
+  - Systems Thinking
+  - Metrics and Learning
+  - Cycle Time
+  - Lean Thinking
+  - Organisational Physics
+  - Value Delivery
+  - Value Stream Management
+  - Continuous Improvement
+  - Market Adaptability
 ResourceId: KHEPBWiFDKJ
 ResourceImport: false
 ResourceType: blog
@@ -42,19 +42,23 @@ ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
 contributors:
-- name: Nigel Thurlow
-  external: https://www.linkedin.com/in/nigelthurlow/
+  - name: Nigel Thurlow
+    external: https://www.linkedin.com/in/nigelthurlow/
 layout: blog
 resourceTypes: blog
 Watermarks:
   description: 2025-05-07T12:49:20Z
 platform_signals:
-- platform: Scrumorg
-  post_url: https://www.scrum.org/resources/blog/why-measuring-individual-cycle-time-killing-your-flow-and-what-do-instead
-  post_date: 2025-07-08T09:00:00Z
-  post_type: crosspost
-
+  - platform: Scrumorg
+    post_url: https://www.scrum.org/resources/blog/why-measuring-individual-cycle-time-killing-your-flow-and-what-do-instead
+    post_date: 2025-07-08T09:00:00Z
+    post_type: crosspost
+  - platform: ProKanban
+    post_url: https://www.prokanban.org/blog/why-measuring-individual-cycle-time-is-killing-your-flow-and-what-to-do-instead
+    post_date: 2025-05-22T09:00:00Z
+    post_type: crosspost
 ---
+
 Looking at [cycle time]({{< ref "/tags/cycle-time" >}}) for an individual is a fundamental misunderstanding of how flow works in a system—unless the individual is the system. And here is why!
 
 ## Process Cycle Efficiency (PCE) Drives Flow, Not Individual Productivity
