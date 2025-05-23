@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core principles of product delivery, such as unrelated software development practices, theoretical discussions without practical application, or topics that do not directly contribute to the understanding of delivering software products effectively.
 headline:
   cards: []
-  title: Product Delivery
-  subtitle: Streamlined processes for delivering functional software, encompassing planning, development, testing, and deployment for optimal customer satisfaction.
-  content: A systematic approach to delivering functional software products that prioritises customer value through iterative planning, development, testing, and deployment. Posts should explore workflow optimisation, team collaboration, quality assurance, and the integration of feedback loops to enhance product outcomes and responsiveness to change.
-  updated: 2025-02-13T11:58:52Z
+  title: 'Product Delivery: Streamlining End-to-End Value for Continuous Innovation'
+  subtitle: Streamlining end-to-end workflows to reliably deliver customer-focused products, accelerate feedback loops, and drive continuous improvement and innovation.
+  content: Product Delivery encompasses the end-to-end process of planning, building, validating, and releasing software products to customers. It emphasises continuous improvement, rapid feedback loops, workflow optimisation, cross-functional collaboration, and adaptive practices, enabling organisations to consistently deliver customer value, respond effectively to market dynamics, and foster innovation and team empowerment.
+  updated: 2025-05-23T23:19:20Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

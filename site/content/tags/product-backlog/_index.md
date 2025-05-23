@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated topics such as project management outside of Agile, non-Agile methodologies, or general software development practices that do not pertain to backlog management. Misinterpretations of the Product Backlog's role or its significance in Agile frameworks should also be avoided.
 headline:
   cards: []
-  title: Product Backlog
-  subtitle: Optimising backlog management for prioritisation, refinement, and delivery in complex environments.
-  content: Effective backlog management encompasses techniques for prioritising, refining, and delivering work items in dynamic environments. It involves understanding stakeholder needs, utilising flow metrics, and adapting to changing requirements, while fostering collaboration and transparency to enhance team performance and value delivery.
-  updated: 2025-02-13T12:03:26Z
+  title: 'Product Backlog: Prioritising Value to Drive Agile Success'
+  subtitle: A dynamic, prioritised inventory of features, fixes, and tasks enabling transparency, informed decisions, continuous refinement, and value-driven delivery.
+  content: A dynamic, prioritised inventory of features, enhancements, fixes, and technical tasks that provides transparency into product direction, stakeholder alignment, and strategic decision-making. It supports continuous refinement, informed prioritisation, and adaptability to evolving customer feedback, market conditions, and organisational goals, enabling predictable delivery of customer value and sustainable improvement.
+  updated: 2025-05-23T23:24:12Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

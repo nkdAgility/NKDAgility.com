@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core principles of Agile Planning, such as traditional project management methodologies, rigid planning processes, or any content that undermines the Agile philosophy of adaptability and continuous improvement.
 headline:
   cards: []
-  title: Agile Planning
-  subtitle: Streamline planning to enhance adaptability and predictability, fostering team alignment and continuous value delivery across diverse methodologies.
-  content: Facilitate effective planning that enhances responsiveness and reliability, ensuring team cohesion and sustained value creation. Explore practices for optimising workflows, managing uncertainty, and leveraging empirical data to inform decision-making, while addressing complexities inherent in project environments.
-  updated: 2025-02-13T12:06:18Z
+  title: 'Agile Planning: Balancing Flexibility and Predictability for Continuous Value Delivery'
+  subtitle: Strategic approaches and iterative techniques for balancing flexibility, predictability, and responsiveness to deliver continuous customer value.
+  content: A structured yet adaptable approach enabling teams to define clear objectives, prioritise tasks, and align efforts to optimise value delivery. It emphasises iterative planning, transparency, rapid feedback integration, effective dependency management, and informed decision-making, supporting continuous improvement and responsiveness to evolving customer needs in complex, dynamic environments.
+  updated: 2025-05-23T23:22:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

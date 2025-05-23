@@ -34,10 +34,10 @@ Instructions: |-
   Only classify content here if it explicitly addresses how customer outcomes are defined, measured, and used to drive all aspects of product development and delivery, in alignment with original agile, lean, and DevOps philosophies.
 headline:
   cards: []
-  title: Customer Focus (CF)
-  subtitle: Centres on delivering measurable value by aligning decisions, priorities, and feedback loops to real customer needs and outcomes across all stages of product delivery.
-  content: Emphasises delivering measurable value by aligning product decisions, feedback loops, and prioritisation with genuine user needs and outcomes. Explores evidence-driven validation, outcome-oriented planning, and continuous learning to ensure work impacts real customer behaviour, drawing on principles from product development, systems thinking, and empirical management.
-  updated: 2025-05-13T10:26:05Z
+  title: 'Customer Focus: Anchoring Agile Delivery in Real Customer Outcomes'
+  subtitle: Aligning product decisions, delivery practices, and strategic investments to validated customer outcomes, measurable impact, and evidence-based feedback loops.
+  content: Customer Focus anchors product decisions, delivery methods, and measurement systems directly to validated customer outcomes. It emphasises evidence-driven prioritisation, rapid feedback loops, outcome-based metrics, and continuous alignment of strategy and execution to ensure meaningful impact on user behaviour, market relevance, and organisational effectiveness.
+  updated: 2025-05-23T23:27:21Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

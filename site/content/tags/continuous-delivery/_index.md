@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** unrelated content such as general software development practices that do not specifically address Continuous Delivery, discussions on unrelated methodologies (e.g., Agile without a focus on delivery), or misinterpretations of Continuous Delivery principles.
 headline:
   cards: []
-  title: Continuous Delivery
-  subtitle: Streamlined software delivery for rapid user feedback and continuous improvement through reliable, incremental releases.
-  content: A disciplined approach to software delivery that emphasises frequent, incremental releases directly to users, enabling swift validation of ideas and continuous enhancement. Posts should explore automation in testing and deployment, user feedback mechanisms, risk management, and strategies for fostering a culture of innovation and responsiveness.
-  updated: 2025-03-21T13:37:35Z
+  title: 'Continuous Delivery: Accelerating Value Through Rapid, Reliable Releases'
+  subtitle: Accelerating software releases through automation, rapid feedback loops, and reliable incremental improvements to maximise user value and responsiveness.
+  content: A software delivery approach enabling teams to rapidly and reliably release incremental improvements to users through automation of integration, testing, and deployment processes, facilitating quick validation of assumptions, responsiveness to user feedback, reduced risk, enhanced quality, and accelerated value delivery, thereby promoting continuous learning, adaptability, and innovation.
+  updated: 2025-05-23T23:17:12Z
 aliases:
 - /learn/agile-delivery-kit/first-principals/continuous-delivery/
 sitemap:

@@ -24,10 +24,10 @@ Instructions: |-
   - Misinterpretations of technical excellence that deviate from its role in improving engineering practices and product quality.
 headline:
   cards: []
-  title: Technical Excellence
-  subtitle: Engineering practices that ensure high-quality, sustainable, and adaptive product development.
-  content: Technical Excellence represents the quality of engineering practices that enable teams to deliver consistent, high-quality software. Posts should explore how practices such as TDD, CI/CD, and modular architecture support continuous improvement and innovation in software delivery.
-  updated: 2025-04-09T12:55:25Z
+  title: 'Technical Excellence: Engineering Practices That Drive Agility and Quality'
+  subtitle: Engineering practices and principles that enable teams to deliver high-quality, maintainable software, adapt rapidly, and continuously improve performance.
+  content: Technical Excellence describes disciplined engineering practices that enable teams to deliver reliable, maintainable, and scalable software. It includes practices such as Test-Driven Development, Continuous Integration and Delivery, modular architecture, emergent design, and continuous improvement, supporting responsiveness to changing requirements, sustainable quality, and efficient value delivery.
+  updated: 2025-05-23T23:17:27Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

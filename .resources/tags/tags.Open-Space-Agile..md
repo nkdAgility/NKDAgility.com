@@ -1,12 +1,12 @@
 ---
 title: Open Space Agile
+description: Open Space Agile is an approach to organisational agility that applies the principles of Open Space Technology—a self-organising, agenda-free format for large group collaboration—to Agile transformation. Popularised by Daniel Mezick and others in the Open Leadership Network, Open Space Agile invites everyone in the organisation to co-create the change process, fostering psychological safety, shared ownership, and authentic engagement. Rather than relying on top-down rollout plans, it embraces emergence, letting those closest to the work define priorities and actions through open, iterative dialogue. This approach aligns with complexity thinking and honours the Agile ethos by enabling transformation to unfold organically, adaptively, and in response to real needs.
+ClassificationType: tags
+trustpilot: false
 abstract: Open Space Agile is a progressive methodology for enhancing organisational agility, rooted in the principles of Open Space Technology. Developed by Daniel Mezick and the Open Leadership Network, this approach enables self-organisation and collaborative engagement among large groups, allowing all members of an organisation to actively influence the transformation process. By creating an environment characterised by psychological safety and shared ownership, Open Space Agile promotes authentic dialogue and collective decision-making, moving away from conventional top-down management styles. This method is particularly beneficial in complex settings where adaptability is essential, as it aligns with Agile principles by encouraging practices that emerge from the actual needs of teams rather than rigid plans. Teams are empowered to set their own priorities and actions, which enhances their capacity to deliver value in a predictable and sustainable manner. Furthermore, Open Space Agile not only supports immediate collaboration but also fosters a culture of continuous improvement and innovation, making it an integral aspect of contemporary organisational design. By valuing the insights of those closest to the work, it transforms the process of change into a shared journey towards increased agility and responsiveness.
 date: 2025-04-10T14:45:16Z
 weight: 375
-ClassificationType: tags
 ClassificationContentOrigin: AI
-trustpilot: false
-description: Open Space Agile is an approach to organisational agility that applies the principles of Open Space Technology—a self-organising, agenda-free format for large group collaboration—to Agile transformation. Popularised by Daniel Mezick and others in the Open Leadership Network, Open Space Agile invites everyone in the organisation to co-create the change process, fostering psychological safety, shared ownership, and authentic engagement. Rather than relying on top-down rollout plans, it embraces emergence, letting those closest to the work define priorities and actions through open, iterative dialogue. This approach aligns with complexity thinking and honours the Agile ethos by enabling transformation to unfold organically, adaptively, and in response to real needs.
 Instructions: |-
   **Use this category only for discussions on Open Space Agile.**  
   Open Space Agile is an innovative approach to organisational agility that leverages the principles of Open Space Technology to facilitate Agile transformation. This method encourages collective participation from all members of the organisation, allowing them to collaboratively shape the change process. It prioritises psychological safety, shared ownership, and genuine engagement, moving away from traditional top-down strategies. By embracing emergence, Open Space Agile empowers those closest to the work to define priorities and actions through open, iterative dialogue, aligning with complexity thinking and the core values of Agile.
@@ -26,10 +26,10 @@ Instructions: |-
   - Topics unrelated to organisational agility or collaborative change processes
 headline:
   cards: []
-  title: Open Space Agile
-  subtitle: Fostering collaborative transformation through self-organisation and emergent dialogue for authentic engagement and shared ownership.
-  content: An approach to organisational transformation that leverages self-organisation and collaborative dialogue, enabling teams to define their own priorities and actions. It emphasises psychological safety, shared ownership, and responsiveness to real needs, fostering an environment where change emerges organically and adaptively through iterative engagement.
-  updated: 2025-04-10T14:45:18Z
+  title: 'Open Space Agile: Empowering Teams Through Collaborative Self-Organisation'
+  subtitle: Empowering self-organisation and collaborative decision-making to unlock innovation, adaptability, and continuous improvement in complex environments.
+  content: A collaborative, self-organising approach rooted in Open Space Technology principles, enabling large groups to actively shape organisational transformation through authentic dialogue, psychological safety, and collective decision-making. It emphasises emergent practices, continuous improvement, and responsiveness, empowering teams to define priorities and actions suited to complex, adaptive environments.
+  updated: 2025-05-23T23:21:35Z
 ResourceId: U-6FN9nj1fM
 aliases:
 - /methods/open-space-agile/
@@ -39,8 +39,9 @@ BodyContentGenDate: 2025-04-10T14:45:23
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-circle-nodes
 concepts:
-- Principle
+- Ethos
 categories:
 - Product Development
 - Leadership

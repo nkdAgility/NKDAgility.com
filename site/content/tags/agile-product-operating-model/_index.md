@@ -27,10 +27,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus solely on traditional project management methodologies, unrelated agile practices that do not pertain to product management, or any content that misrepresents the core principles of the Agile Product Operating Model.
 headline:
   cards: []
-  title: Agile Product Operating Model
-  subtitle: Transform your organisation by integrating product management with adaptive practices for consistent, customer-driven value delivery.
-  content: A framework for integrating product management with adaptive methodologies, fostering a culture of continuous value delivery. Posts should explore product-centric strategies, evidence-based decision-making, team dynamics, and the interplay of governance and flow, ensuring alignment with customer needs and market responsiveness.
-  updated: 2025-03-21T09:30:37Z
+  title: 'Agile Product Operating Model (APOM): Aligning Teams for Continuous Value Delivery'
+  subtitle: A framework aligning product strategy, continuous value delivery, evidence-based decisions, and organisational responsiveness to customer and market dynamics.
+  content: A structured approach that integrates contemporary product management practices with iterative delivery methods, enabling organisations to continuously deliver customer value. It emphasises outcome-driven decision-making, clear governance, adaptive roadmaps, operational transparency, and measurable performance, fostering responsiveness to market dynamics and alignment with strategic business objectives.
+  updated: 2025-05-23T23:21:11Z
 aliases:
 - /agile-product-operating-model
 - /methods/agile-product-operating-model/

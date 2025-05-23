@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus solely on team-level Agile practices, individual Agile methodologies without a scaling context, or unrelated business management theories that do not pertain to the principles of scaling Agile across an organisation.
 headline:
   cards: []
-  title: Large Scale Agility
-  subtitle: Transforming organisations through collaborative frameworks and innovative practices for sustainable growth and adaptability.
-  content: Facilitating enterprise-wide transformation through collaborative frameworks that enhance responsiveness and innovation. Posts should explore systemic practices, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
-  updated: 2025-02-13T12:04:15Z
+  title: 'Large Scale Agility: Scaling Agile Practices for Sustainable Enterprise Adaptability'
+  subtitle: Scaling adaptive practices across entire organisations to enhance collaboration, responsiveness, strategic alignment, and sustainable value delivery.
+  content: Implementing principles and practices at an organisational scale to enhance responsiveness, collaboration, and continuous improvement, enabling enterprises to rapidly adapt to market shifts and customer demands. It addresses systemic change, organisational alignment, strategic transparency, structured scaling frameworks, complexity management, and sustainable value delivery across all organisational levels.
+  updated: 2025-05-23T23:27:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -26,10 +26,10 @@ Instructions: |-
   - General Agile content that does not reference use or impact of Liberating Structures
 headline:
   cards: []
-  title: Liberating Structures
-  subtitle: A Toolkit of Structured Facilitation Methods for Agile Teams
-  content: A practical, modular toolkit of facilitation patterns designed to make team collaboration more inclusive and effective. Liberating Structures are easy to learn and use, and they help teams solve problems, generate ideas, and make better decisions—without relying on hierarchy or control.
-  updated: 2025-04-14T14:50:18Z
+  title: 'Liberating Structures: Facilitation Patterns for Inclusive Team Collaboration'
+  subtitle: Facilitation techniques that unlock team collaboration, foster psychological safety, and enable inclusive decision-making and rapid idea generation.
+  content: Liberating Structures offer practical facilitation techniques designed to improve group interactions, foster inclusive participation, and enhance collective decision-making. Applicable across team events, workshops, and retrospectives, these structured methods encourage psychological safety, rapid idea generation, and collaborative problem-solving, enabling teams to navigate complexity and continuously adapt without hierarchical facilitation.
+  updated: 2025-05-23T23:26:31Z
 ResourceId: -Gso-hQgUca
 aliases:
 - /methods/liberating-structures/

@@ -1,9 +1,9 @@
 ---
 title: Lean Principles
-abstract: Lean Principles are a methodology aimed at minimising waste and maximising value through iterative learning and continuous improvement, primarily used in product development processes. Originating from manufacturing practices, these principles are now widely adopted across various sectors to enhance organisational efficiency and responsiveness. The importance of Lean Principles lies in their ability to foster a culture of experimentation and feedback, enabling teams to identify and eliminate non-value-adding activities, streamline workflows, and optimise resource utilisation. By focusing on value delivery, Lean ensures that all actions align with customer needs, promoting sustainable product development. Techniques such as value stream mapping are employed to visualise the flow of information and materials, helping to identify bottlenecks and areas for improvement. This comprehensive approach not only enhances current processes but also establishes a foundation for long-term agility and adaptability. Unlike Agile frameworks that may concentrate on iterative cycles, Lean Principles advocate for a holistic perspective, integrating insights from various methodologies to create a cohesive strategy for continuous improvement. This enables organisations to effectively respond to changing market demands while maintaining a commitment to delivering high-quality products that meet customer expectations. By embedding Lean thinking into the organisational culture, teams can foster an environment of ongoing learning and innovation, ultimately driving sustained success and resilience in a competitive landscape.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Lean Principles are a methodology aimed at minimising waste and maximising value through iterative learning and continuous improvement, primarily used in product development processes. Originating from manufacturing practices, these principles are now widely adopted across various sectors to enhance organisational efficiency and responsiveness. The importance of Lean Principles lies in their ability to foster a culture of experimentation and feedback, enabling teams to identify and eliminate non-value-adding activities, streamline workflows, and optimise resource utilisation. By focusing on value delivery, Lean ensures that all actions align with customer needs, promoting sustainable product development. Techniques such as value stream mapping are employed to visualise the flow of information and materials, helping to identify bottlenecks and areas for improvement. This comprehensive approach not only enhances current processes but also establishes a foundation for long-term agility and adaptability. Unlike Agile frameworks that may concentrate on iterative cycles, Lean Principles advocate for a holistic perspective, integrating insights from various methodologies to create a cohesive strategy for continuous improvement. This enables organisations to effectively respond to changing market demands while maintaining a commitment to delivering high-quality products that meet customer expectations. By embedding Lean thinking into the organisational culture, teams can foster an environment of ongoing learning and innovation, ultimately driving sustained success and resilience in a competitive landscape.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 520
 description: Minimising waste and maximising value through iterative learning and continuous improvement.
@@ -24,14 +24,15 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core principles of Lean, such as unrelated management theories, non-iterative processes, or practices that do not focus on waste reduction and value maximisation.
 headline:
   cards: []
-  title: Lean Principles
-  subtitle: Optimising processes to enhance value delivery through iterative learning and systematic improvement.
-  content: A systematic approach to enhancing value delivery by identifying and eliminating inefficiencies. Posts should explore iterative learning, process optimisation, flow management, and the integration of feedback loops, drawing on insights from systems thinking, complexity theory, and continuous improvement methodologies.
-  updated: 2025-02-13T12:04:10Z
+  title: 'Lean Principles: Eliminating Waste to Maximise Customer Value'
+  subtitle: Principles and practices for minimising waste, optimising value delivery, and fostering continuous improvement through experimentation and feedback loops.
+  content: Principles aimed at reducing waste, optimising workflows, and enhancing value delivery through continuous improvement, experimentation, and rapid feedback loops. Inspired by practices from Taiichi Ohno, Eliyahu Goldratt, and W. Edwards Deming, these principles promote organisational responsiveness, resource efficiency, and customer-centric product development, enabling sustainable growth and adaptability in complex environments.
+  updated: 2025-05-23T23:29:17Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:38:24
+icon: fa-filter-circle-dollar
 concepts:
 - Principle
 categories:

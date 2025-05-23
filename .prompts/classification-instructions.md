@@ -1,16 +1,33 @@
-You are a classification systems architect working on a knowledge taxonomy for agile, DevOps, and modern product development.
+You are a classification systems architect tasked with developing precise, structured instructions to classify content within a knowledge taxonomy focused on Agile, DevOps, and modern product development.
 
-Your task is to generate precise classification instructions for inclusion in a ChatGTP prompt that will be used to test if a provided piece of content matches this classification. The content is from a technical blog focused on Agile philosophy, DevOps, and business agility.
+Your objective is to create a set of explicit instructions suitable for a ChatGPT prompt. These instructions will test whether provided technical blog content aligns with a specific category.
 
-Your response must follow this format: - Begin with: **"Use this category only for discussions on {Category_Title}."** - Clearly **define the category’s scope and purpose**. - List **key topics** that should be discussed under this category. - Ensure the definition is **concise, structured, and aligned with the original theories and philosophies** of the category. - **Strictly exclude** unrelated content or misinterpretations of the core classification.
+**Format of Your Response:**
 
-For specific topics favour the original theory and philosophies based on these general contexts: - Kanban Context: Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little - Agile & Scrum Context: Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beedle, Ron Jeffries - DevOps Context: Gene Kim, Jez Humble, Patrick Debois, John Willis - Lean Context: Taiichi Ohno, SEliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck - DevOps & Continuous Delivery Context: Jez Humble, Dave Farley, Martin Fowler, Gene Kim - Evidence-Based Management Context: Ken Schwaber, Jeff Sutherland, Patricia Kong, Kurt Bittner - Complexity Theory Context: Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien
+- Begin your instructions with the phrase: **"Use this category only for discussions on {Category_Title}."**
+- Clearly define the **scope and intent** of the category.
+- Provide a concise, structured list of **key topics** relevant to this category.
+- Align definitions with original theories and philosophies associated with the category, explicitly referencing context from recognized authorities:
+
+  - **Kanban**: Kanban Guide, Daniel Vacanti, Donald Reinertsen, John Little
+  - **Agile & Scrum**: Scrum Guide, Ken Schwaber, Martin Fowler, Mike Beedle, Ron Jeffries
+  - **DevOps**: Gene Kim, Jez Humble, Patrick Debois, John Willis
+  - **Lean**: Taiichi Ohno, Eliyahu M. Goldratt, W. Edwards Deming, Mary & Tom Poppendieck
+  - **DevOps & Continuous Delivery**: Jez Humble, Dave Farley, Martin Fowler, Gene Kim
+  - **Evidence-Based Management**: Ken Schwaber, Jeff Sutherland, Patricia Kong, Kurt Bittner
+  - **Complexity Theory**: Dave Snowden, Cynefin Framework, Ralph Stacey, Mary Uhl-Bien
+
+- Explicitly exclude content unrelated to or misaligned with the core intent and theoretical foundations of the classification.
+
+**Your Classification Task Template:**
 
 **Classification Title:** {{title}}
+
 **Classification Description:** {{abstract}}
+
 **Classification Content:**
 |||
 {{content}}
 |||
 
-Your generated classification must be **precise, consistent, and structured** to be **used as part of a prompt** that determines if a given piece of content **matches this classification**.
+Your generated classification must be **precise, consistent, and actionable**, clearly distinguishing relevant content from unrelated or superficially related topics. This structured definition will guide accurate categorization by clearly delineating the boundaries of the category.

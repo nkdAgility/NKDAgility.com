@@ -25,10 +25,10 @@ Instructions: |-
   - Content that does not focus on potential improvements or innovation opportunities.
 headline:
   cards: []
-  title: Unrealised Value (UV)
-  subtitle: Unlocking potential through insights into untapped opportunities and innovation for enhanced organisational value.
-  content: A focus on identifying and quantifying potential value within an organisation, this classification encompasses measures that reveal hidden opportunities for growth and innovation. Topics include market analysis, customer feedback, process optimisation, and strategic foresight, all aimed at enhancing overall organisational performance and value creation.
-  updated: 2025-04-10T14:19:49Z
+  title: 'Unrealised Value: Unlocking Hidden Opportunities for Sustainable Growth'
+  subtitle: Identifying untapped opportunities and potential improvements to drive innovation, optimise performance, and sustainably capture future value.
+  content: Unrealised Value represents potential opportunities an organisation has not yet captured, highlighting latent market demands, unmet customer needs, and areas primed for innovation. It involves systematically identifying performance gaps, optimising workflows, and strategically allocating resources to unlock future growth, enhance adaptability, and sustainably increase competitive advantage in dynamic environments.
+  updated: 2025-05-23T23:27:51Z
 BodyContentGenDate: 2025-04-10T14:19:54
 sitemap:
   filename: sitemap.xml

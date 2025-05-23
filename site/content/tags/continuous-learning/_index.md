@@ -25,10 +25,10 @@ Instructions: |-
   Discussions that focus on static knowledge transfer without an emphasis on growth, topics unrelated to team improvement, or misinterpretations of Continuous Learning that do not align with Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: Continuous Learning
-  subtitle: Empowering teams through knowledge sharing and a growth mindset for ongoing improvement and adaptability in complex environments.
-  content: Encouraging a culture of ongoing learning and adaptation, this classification highlights practices that enhance team collaboration, knowledge sharing, and reflective improvement. Posts should explore topics such as feedback loops, experimentation, metrics for learning, and strategies for navigating complex challenges in dynamic environments.
-  updated: 2025-02-13T12:05:24Z
+  title: 'Continuous Learning: Cultivating Growth Mindset for Agile Adaptability'
+  subtitle: Cultivating a growth mindset, fostering knowledge sharing, and empowering teams to adapt, innovate, and thrive in rapidly evolving environments
+  content: Continuous Learning nurtures a growth mindset and encourages active knowledge sharing, enabling teams to rapidly adapt to evolving conditions. It emphasises experimentation, reflection, and learning from successes and failures to enhance individual competencies, strengthen team collaboration, inform strategic decisions, and consistently deliver sustainable value in complex, dynamic environments.
+  updated: 2025-05-23T23:21:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

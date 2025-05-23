@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of their application or relevance in Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: Model
-  subtitle: Conceptual frameworks for understanding systems and challenges, drawing insights from methodologies like Agile, Lean, and DevOps.
-  content: Models represent conceptual frameworks used to understand, analyse, and improve systems or processes. They help teams navigate complexity and improve decision-making by providing clear visualisations of relationships and outcomes.
-  updated: 2025-03-19T12:18:03Z
+  title: 'Model: Simplifying Complexity to Enhance Agile Decision-Making'
+  subtitle: Conceptual representations that simplify complexity, clarify system dynamics, inform decisions, and enable effective collaboration and continuous improvement.
+  content: A model provides a simplified conceptual representation of complex systems or problems, enabling teams to visualise relationships, processes, and outcomes clearly. It supports informed decision-making, effective communication, systems thinking, and continuous improvement by highlighting underlying dynamics, structural relationships, and opportunities for optimising value delivery and organisational adaptability.
+  updated: 2025-05-23T23:27:29Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

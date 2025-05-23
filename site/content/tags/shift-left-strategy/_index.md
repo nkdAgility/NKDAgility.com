@@ -25,10 +25,10 @@ Instructions: |-
   - General Agile or DevOps principles that do not specifically address the Shift-Left Strategy.
 headline:
   cards: []
-  title: Shift-Left Strategy
-  subtitle: Proactively integrate testing, security, and compliance early in development to enhance quality, speed, and reliability of software delivery.
-  content: A proactive approach integrates essential processes such as testing, security, and compliance early in the development lifecycle. This strategy enhances software quality and reliability by minimising defects, fostering rapid feedback, and ensuring that teams can deliver value more efficiently. Topics include risk management, continuous integration, and quality assurance.
-  updated: 2025-03-17T14:46:14Z
+  title: 'Shift Left Strategy: Building Quality and Security into Development from Day One'
+  subtitle: Proactively integrating testing, security, and compliance early to reduce risk, accelerate feedback, and deliver reliable software faster.
+  content: A proactive approach to software delivery that integrates testing, security, and compliance early in the development lifecycle, enabling rapid feedback, reduced rework, and improved product reliability. Posts explore automated testing, security as code, continuous integration, and practices that accelerate value delivery and enhance organisational responsiveness to complexity and change.
+  updated: 2025-05-23T23:13:23Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the improvement of operational efficiency, such as theoretical debates without practical application, unrelated business strategies, or content that misinterprets the core principles of Agile, DevOps, or Lean methodologies.
 headline:
   cards: []
-  title: Operational Practices
-  subtitle: Strategies and techniques for enhancing efficiency and optimising delivery in operational workflows.
-  content: A collection of practices aimed at enhancing workflow efficiency and delivery effectiveness. Posts explore visual management, work-in-progress limits, continuous improvement, and performance metrics, drawing insights from systems thinking, complexity theory, and empirical evidence to foster adaptive and responsive operational environments.
-  updated: 2025-02-13T12:03:42Z
+  title: 'Operational Practices: Streamlining Workflows for Continuous Improvement'
+  subtitle: Techniques and strategies to streamline workflows, optimise resources, enhance collaboration, and drive continuous improvement for effective value delivery.
+  content: Operational Practices encompass methods and techniques organisations adopt to streamline workflows, optimise resource allocation, and enhance delivery effectiveness. They promote continuous improvement, informed decision-making, collaborative processes, and strategic alignment, enabling teams to consistently deliver value, adapt rapidly to changing conditions, and foster innovation within complex operational environments.
+  updated: 2025-05-23T23:22:58Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

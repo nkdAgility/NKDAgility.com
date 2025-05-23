@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** content focused solely on certification prep, lightweight introductions, or misapplications of Scrum that omit professionalism, empiricism, or the pursuit of value.
 headline:
   cards: []
-  title: Professional Scrum
-  subtitle: Apply Scrum with discipline, accountability, and an ethos of professionalism.
-  content: Professional Scrum is more than a framework. It’s a philosophy that integrates empiricism, technical excellence, and organisational change. This tag is for exploring how teams and organisations engage with Scrum not just as a process, but as a commitment to delivering value with transparency, adaptability, and purpose. Posts here cover role accountability, ethical delivery standards, evidence-based decision-making, and continuous learning in complex environments.
-  updated: 2025-04-09T13:20:00Z
+  title: 'Professional Scrum: Elevating Agility Through Empiricism and Technical Excellence'
+  subtitle: A disciplined, empirical approach to delivering complex products through transparency, technical excellence, continuous improvement, and accountable teamwork.
+  content: Professional Scrum embodies disciplined product delivery grounded in empiricism, technical excellence, and continuous value creation, emphasising transparency, clear accountability, rigorous engineering practices, strategic product leadership, responsiveness to complexity, evidence-based decision-making, and a commitment to continuous improvement and frequent delivery.
+  updated: 2025-05-23T23:24:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

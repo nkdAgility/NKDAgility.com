@@ -23,6 +23,12 @@ Instructions: |-
   - Tools and technologies that facilitate data-driven decision-making.
 
   **Strictly exclude*- any discussions that deviate from the core principles of metrics and learning, such as anecdotal evidence without data support, unrelated management theories, or practices that do not align with Agile, DevOps, or Lean philosophies.
+headline:
+  cards: []
+  title: 'Metrics and Learning: Turning Data into Continuous Improvement'
+  subtitle: Turning data and feedback into actionable insights for continuous improvement, informed decisions, and adaptive, high-performing teams.
+  content: Metrics and Learning emphasises empirical decision-making by systematically capturing and analysing performance data to reveal constraints, optimise flow, and inform continuous improvement. It promotes transparency, evidence-based adaptation, and a culture of experimentation, enabling teams and leaders to enhance value delivery, responsiveness, and organisational resilience through informed, actionable insights.
+  updated: 2025-05-23T23:12:22Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
@@ -37,12 +43,6 @@ recommendedContent:
 - metrics-reports
 - metrics-reports.html
 BodyContentGenDate: 2025-04-09T16:31:19
-headline:
-  cards: []
-  title: Metrics and Continuous Learning (MCL)
-  subtitle: Harnessing data, feedback, and empirical insights to drive continuous improvement, informed decision-making, and adaptive value delivery across teams and organisations
-  content: Explores the use of data, feedback, and empirical evidence to inform decision-making, drive improvement, and foster adaptability. Covers measurement of flow, quality, customer and team outcomes, and the integration of metrics into daily routines to support learning, transparency, and responsive change across teams and organisations.
-  updated: 2025-05-13T10:03:15Z
 icon: fa-chart-bar
 concepts:
 - Principle

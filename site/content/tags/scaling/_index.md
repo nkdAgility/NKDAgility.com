@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** unrelated content such as general Agile or DevOps discussions that do not specifically address the complexities and strategies involved in scaling, as well as misinterpretations of scaling concepts that do not align with the original theories and philosophies of the category.
 headline:
   cards: []
-  title: Scaling
-  subtitle: Facilitate collaboration across teams to enhance product delivery, ensuring alignment and value through adaptive structures and streamlined processes.
-  content: Facilitate the coordination of multiple teams to effectively deliver intricate products while maintaining responsiveness. Emphasise alignment, continuous flow, and value creation across the organisation, leveraging principles of systems thinking, complexity management, and adaptive frameworks to enhance collaboration and optimise outcomes.
-  updated: 2025-04-09T13:53:14Z
+  title: 'Scaling: Aligning Teams for Agile Growth and Continuous Value Delivery'
+  subtitle: Coordinating multiple teams to optimise flow, align efforts, and sustainably deliver value at enterprise scale in complex environments.
+  content: Scaling enables organisations to effectively coordinate multiple teams delivering complex products, ensuring alignment, responsiveness, and continuous improvement. It encompasses practices for optimising workflow, managing complexity, enhancing value delivery, and fostering autonomous yet cohesive teams, thereby supporting sustainable growth, innovation, and adaptability in rapidly evolving market environments.
+  updated: 2025-05-23T23:25:49Z
 BodyContentGenDate: 2025-04-09T13:53:18
 sitemap:
   filename: sitemap.xml

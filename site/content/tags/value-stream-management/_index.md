@@ -25,10 +25,10 @@ Instructions: |-
   Discussions that do not directly relate to the flow of value, such as general project management practices, unrelated Agile or Scrum methodologies, or any content that misinterprets the core principles of Value Stream Management.
 headline:
   cards: []
-  title: Value Stream Management
-  subtitle: Optimising organisational flow to enhance value delivery, minimise waste, and align efforts with customer needs and outcomes.
-  content: A systematic approach to enhancing organisational performance by mapping and analysing workflows, identifying bottlenecks, and fostering collaboration. Posts should explore techniques for visualising processes, measuring efficiency, and aligning team efforts with customer value, drawing insights from complexity theory and evidence-based management principles.
-  updated: 2025-02-13T11:58:30Z
+  title: 'Value Stream Management: Optimising Flow to Accelerate Customer Value Delivery'
+  subtitle: Optimising end-to-end processes, removing bottlenecks, and aligning workflows to maximise customer value and organisational performance.
+  content: A strategic approach to visualising and optimising the end-to-end flow of work from concept to customer delivery, emphasising waste reduction, process efficiency, and alignment with customer outcomes. It integrates continuous improvement, cross-functional collaboration, flow metrics, and systems thinking to enhance organisational responsiveness, innovation, and adaptability in complex environments.
+  updated: 2025-05-23T23:17:55Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

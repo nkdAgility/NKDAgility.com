@@ -28,10 +28,10 @@ Instructions: |-
   - Misapplications of strategy as a method or tool rather than a high-level guiding framework.
 headline:
   cards: []
-  title: Strategy
-  subtitle: High-level approaches for aligning organisational goals and guiding decision-making through integrated methodologies and frameworks.
-  content: Strategy is a high-level framework that provides direction and alignment for achieving organisational goals. It integrates methods, practices, and decision-making frameworks, ensuring that all actions contribute meaningfully to overarching objectives.
-  updated: 2025-04-09T14:00:00
+  title: 'Strategy: Aligning Agile Teams and Technology with Long-Term Goals'
+  subtitle: Guiding organisational direction, aligning decisions and actions to long-term goals, and enabling responsiveness in complex, dynamic environments.
+  content: Strategy provides a coherent, high-level framework guiding organisational direction, decision-making, and resource alignment toward long-term objectives. It encompasses leadership vision, strategic planning, evidence-informed decisions, complexity navigation, and adaptive responsiveness, ensuring daily actions and tactical choices consistently support overarching business goals and customer value.
+  updated: 2025-05-23T23:30:53Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the optimisation of work throughput, such as unrelated project management methodologies, general productivity tips, or misinterpretations of Lean and Agile principles.
 headline:
   cards: []
-  title: Flow Efficiency
-  subtitle: Enhancing work throughput to streamline processes, eliminate delays, and maximise value delivery across the entire workflow.
-  content: Optimising the flow of work through the value stream enhances delivery speed and minimises delays. Posts should explore techniques for identifying and alleviating bottlenecks, measuring throughput, and applying systems thinking to improve overall efficiency, drawing on insights from various methodologies and frameworks.
-  updated: 2025-02-13T11:59:25Z
+  title: 'Flow Efficiency: Optimising Throughput to Accelerate Sustainable Value Delivery'
+  subtitle: Optimising throughput, minimising waste, and removing bottlenecks to sustainably deliver customer value and rapidly adapt to market demands.
+  content: Flow efficiency addresses the optimisation of work throughput by identifying and reducing waste, delays, and bottlenecks within the value stream. Posts explore systemic thinking, queue management, limiting work-in-progress, visualisation techniques, continuous improvement practices, and methods to enhance responsiveness, predictability, and sustainable value delivery in complex organisational environments.
+  updated: 2025-05-23T23:16:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
