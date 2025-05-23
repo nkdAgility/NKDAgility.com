@@ -2,15 +2,15 @@
 title: During a massive flood in London, nearly every datacentre went down."
 description: A London flood shut down most datacentres, but Rackspace stayed online by regularly live-testing failures, proving true resilience comes from practising real-world recovery.
 date: 2025-05-16T15:30:31+01:00
-weight: 1000
+weight: 335
 slug: during-a-massive-flood-in-london-nearly-every-datacentre-went-down
 aliases:
 - /resources/8SSU0fALhd8
 ResourceId: 8SSU0fALhd8
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
 layout: signal
+ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
@@ -26,10 +26,13 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-23T23:53:48Z
-concepts: []
+concepts:
+- Practice
 categories:
 - Uncategorized
-tags: []
+tags:
+- Pragmatic Thinking
+- Operational Practices
 
 ---
 During a massive flood in London, nearly every datacentre went down.

@@ -34,6 +34,7 @@ categories:
 - Kanban
 - Lean
 tags:
+- Definition of Workflow
 - Service Level Expectation
 - Agile Frameworks
 - Flow Efficiency

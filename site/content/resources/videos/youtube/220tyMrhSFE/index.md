@@ -22,6 +22,7 @@ categories:
 tags:
 - Operational Practices
 - Pragmatic Thinking
+- Definition of Workflow
 ResourceId: 220tyMrhSFE
 ResourceImport: true
 ResourceType: videos

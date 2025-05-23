@@ -18,6 +18,7 @@ concepts:
 categories:
 - Kanban
 tags:
+- Definition of Workflow
 - Operational Practices
 - Software Development
 - Agile Frameworks

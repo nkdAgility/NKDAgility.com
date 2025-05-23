@@ -2,15 +2,15 @@
 title: Resilience is not a department
 description: Resilience must be built into products from the start, ensuring they withstand failures like outages or network loss, rather than being treated as an afterthought.
 date: 2025-05-17T15:30:21+01:00
-weight: 1000
+weight: 375
 slug: resilience-is-not-a-department
 aliases:
 - /resources/PWgzGL20QAo
 ResourceId: PWgzGL20QAo
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
 layout: signal
+ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
@@ -26,10 +26,13 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-23T23:53:47Z
-concepts: []
+concepts:
+- Capability
 categories:
-- Uncategorized
-tags: []
+- Product Development
+tags:
+- Software Development
+- Miscellaneous
 
 ---
 Resilience is not a department. It's not a project. It's not an afterthought.

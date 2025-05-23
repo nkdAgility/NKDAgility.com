@@ -2,15 +2,15 @@
 title: 'Frederick Taylor Legacy: Why it-is Still Problematic Today'
 description: Examines how Frederick Taylor’s management ideas still shape workplaces today, highlighting their impact on motivation, job design, and the challenges posed by AI.
 date: 2025-05-19T15:30:58+01:00
-weight: 1000
+weight: 765
 slug: frederick-taylor-legacy-why-it-is-still-problematic-today
 aliases:
 - /resources/a8GPqn01alD
 ResourceId: a8GPqn01alD
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
 layout: signal
+ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
@@ -29,7 +29,8 @@ Watermarks:
 concepts: []
 categories:
 - Uncategorized
-tags: []
+tags:
+- Miscellaneous
 
 ---
 Frederick Taylor’s legacy is still alive—and it’s not a flattering one.

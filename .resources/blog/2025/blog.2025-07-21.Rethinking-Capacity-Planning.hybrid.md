@@ -10,6 +10,8 @@ creator: Martin Hinshelwood
 contributors:
 - name: Nigel Thurlow
   external: https://www.linkedin.com/in/nigelthurlow/
+- name: Alex Brown
+  external: https://www.linkedin.com/in/alexbrown/
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-07T12:48:54Z
