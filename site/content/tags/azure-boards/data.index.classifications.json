@@ -3033,5 +3033,24 @@
     "reasoning": "The content discusses Azure Boards as a tool for Agile project management, focusing on features like backlog management, workflow optimisation, and team collaboration. However, it makes no explicit or implicit reference to Definition of Ready (DoR), its criteria, or related concepts. While backlog and planning are mentioned, these are discussed in a general sense rather than in the specific context of DoR. The primary audience is Agile practitioners or teams, but the content's intent and depth are not aligned with the DoR classification. There is almost no signal relevant to DoR, resulting in a low confidence score.",
     "reasoning_summary": "This resource broadly covers Agile project management with Azure Boards but does not address the Definition of Ready. Its focus on backlog and planning is general, offering little to no relevance for DoR, resulting in a low fit for this category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Azure Boards",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:52",
+    "ai_confidence": 39.25,
+    "ai_mentions": 1.4,
+    "ai_alignment": 4.9,
+    "ai_depth": 3.8,
+    "ai_intent": 5.2,
+    "ai_audience": 8.3,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content describes Azure Boards' capabilities for tracking work, supporting transparency, and enabling workflow analysis. It references terms like 'workflow' and 'Kanban' but does not explicitly discuss the Definition of Workflow as outlined in the classification (e.g., explicit agreements, entry/exit policies, WIP limits, or distinctions with Definition of Done). Its focus is the general utility of Azure Boards for Agile project management rather than an explicit, deep dive into workflow definition. Thus, alignment and depth are moderate, with good audience and signal scores but low direct mention.",
+    "reasoning_summary": "This content generally describes Azure Boards’ Agile project management features, including workflow visibility and continuous improvement. However, it does not explicitly define or deeply explore the Definition of Workflow as required by the category, resulting in moderate alignment and confidence.",
+    "level": "Ignored"
   }
 }

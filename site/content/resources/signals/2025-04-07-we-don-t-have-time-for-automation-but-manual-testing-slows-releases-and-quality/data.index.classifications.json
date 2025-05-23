@@ -3247,5 +3247,24 @@
     "reasoning": "The content strongly addresses automation as a core practice of engineering excellence, directly contrasting manual and automated testing. It aligns well with principles of software craftsmanship, continuous integration, and improving delivery quality. The discussion is focused and actionable for technical teams. While the term 'engineering excellence' is not cited verbatim, key concepts are explored substantially. The content is targeted at practitioners and avoids irrelevant material.",
     "reasoning_summary": "This content makes a compelling case for automation as essential to engineering excellence, diving into its impact on quality, release speed, and tester workload. It’s targeted at technical teams and solidly aligns with best practices, making it a strong fit for the category.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "f6S9lWfTQaQ",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:12",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 1.5,
+    "ai_audience": 2.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on the trade-offs between manual and automated testing for improving software delivery speed and quality. It does not mention, reference, or discuss the Definition of Workflow in Kanban or agile contexts. There is no discussion of explicit agreements, workflow visibility, entry/exit criteria, WIP limits, or process policies. The intended audience—software practitioners—is only tangentially aligned, as the focus is testing automation rather than workflow management. Since none of the core category signals are present and there is minimal incidental alignment, all dimensions receive extremely low scores. No penalties are needed as there is no outdated or contradictory content. Confidence is correspondingly extremely low.",
+    "reasoning_summary": "This content discusses automation versus manual testing, with no reference to the Definition of Workflow or related Kanban/agile practices. It does not address explicit workflow policies, making it unrelated to the evaluated category.",
+    "level": "Ignored"
   }
 }

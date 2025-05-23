@@ -2404,5 +2404,24 @@
     "reasoning": "The content delivers a compelling critique of organizational and engineering failures regarding resilience, mainly in the context of disaster recovery and IT failure. While it emphasizes recurring, 'non-negotiable' testing and cultural discipline as essential for resilience (touching on foundational, immutable constraints), it does not directly identify, explain, or distinguish 'first principles' in Lean, Agile, Scrum, or DevOps. It presents strong opinions and examples about operational rigor and product survivability, but lacks explicit conceptual alignment or deep discussion of first principles as defined. Mentions are indirect; discussion is relevant but more heuristic (e.g., 'If something is hard, do it more'), not framed as foundational principles from canonical theorists or frameworks. Audience and signal are strong; main gaps are in alignment, depth of first principles, and mention frequency.",
     "reasoning_summary": "This content expertly highlights the need for operational rigor in resilience, stressing immutable constraints, but stops short of expressly identifying or dissecting first principles in Lean, Agile, Scrum, or DevOps, limiting its alignment with the category.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "LGGuvRq4g7p",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:07",
+    "ai_confidence": 5.13,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 1.7,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses exclusively on engineering resilience, systemic fragility, and leadership failures in the context of real-world disaster recovery, operational survivability, and robust product design. Nowhere does it mention or reference the Definition of Workflow, Kanban, explicit workflow policies, entry/exit criteria, or WIP limits. The notion of 'workflow' as understood in Kanban/agile is not present, either directly or implicitly. The content does target an audience (technical leaders, product/engineering practitioners) adjacent to workflow discussions, but its depth, discussions, and examples are about resilience engineering and organizational culture, not workflow agreements or policies. Thus, all scoring dimensions are quite low and reflect negligible conceptual or topical overlap.",
+    "reasoning_summary": "This content explores engineering resilience and organizational failures, not workflow policies or the Definition of Workflow found in Kanban/agile. It has minimal to zero relevance to the category.",
+    "level": "Ignored"
   }
 }

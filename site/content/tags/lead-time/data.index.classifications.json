@@ -3040,5 +3040,24 @@
     "reasoning": "The content solely discusses Lead Time—its definition, purpose, and relevance as an observability metric in Agile, Lean, and DevOps contexts. There are no explicit or implicit references to install, setup, or configuration processes, nor any actionable technical instructions, tool setup guidance, or troubleshooting. The intent is to inform on a process metric, targeting process practitioners or strategists, not technical implementers. Signal-to-noise is low for the Install and Configuration category, as almost all content is off-target for the classification term.",
     "reasoning_summary": "The content centers entirely on defining and applying Lead Time as a metric in Agile environments, offering no guidance or discussion on installation or configuration topics. As a result, it scores very low for the Install and Configuration category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Lead Time",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:45",
+    "ai_confidence": 33.65,
+    "ai_mentions": 1.5,
+    "ai_alignment": 3.9,
+    "ai_depth": 3.8,
+    "ai_intent": 3.6,
+    "ai_audience": 4.5,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on the metric 'Lead Time,' describing its role as an observability indicator in Kanban, Agile, and DevOps. While it covers aspects of flow and systemic performance (relevant to workflow in general), it does not explicitly address Definition of Workflow policies, agreements, entry/exit criteria, WIP limits, or the explicit/dynamic modeling central to the category. No outdated or contradictory elements are present, but there are limited direct connections to the explicit Definition of Workflow construct.",
+    "reasoning_summary": "This content discusses Lead Time as a flow metric within Kanban and Agile systems but does not explicitly address the Definition of Workflow, its policies, or foundational agreements. The alignment is partial and indirect, resulting in a low relevance score for the category.",
+    "level": "Ignored"
   }
 }

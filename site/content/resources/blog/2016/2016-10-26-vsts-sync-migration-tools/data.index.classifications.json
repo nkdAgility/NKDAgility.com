@@ -1868,5 +1868,24 @@
     "reasoning": "The content describes the technical purpose, features, and use cases of VSTS Sync Migration Tools, focusing on migrating data between TFS and VSTS. There are no explicit or implicit discussions on first principles, either as non-negotiable constraints or irreducible truths foundational to Lean, Agile, Scrum, or DevOps. The main intent is to explain the tool's design, improvements, and directions for migration challenges, not to address or apply first principles. Audience fit is technical but not centered on principles. No penalties applied; the low scores reflect the absence of relevant discussion.",
     "reasoning_summary": "This content is about technical migration tools for TFS/VSTS and does not engage with first principles or their application. It is focused on practical tooling, so confidence is very low for the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:40",
+    "ai_confidence": 6.93,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.4,
+    "ai_audience": 1.4,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused entirely on explaining and marketing open-source migration tools for VSTS/TFS, discussing their history, current capabilities, and future plans. There are no explicit references to Kanban, agile, or the Definition of Workflow as outlined in the classification. The migration of work items, test plans, teams, and areas is discussed purely in terms of technical data transfer—not as a means of making processes or workflow visible, explicit, or adaptable. There’s no mention of entry/exit criteria, WIP limits, or workflow policies relevant to Kanban. The audience is primarily DevOps or development teams dealing with tool migration rather than teams looking to understand or define their workflow in the Kanban/agile sense. The tiny relevance comes from brief indirect references to work item states; otherwise, the content is off-topic.",
+    "reasoning_summary": "This content centers on migration tooling and lacks any explicit or meaningful discussion of the Definition of Workflow as understood in Kanban/agile. It does not align with the category's criteria and is almost entirely out of scope.",
+    "level": "Ignored"
   }
 }

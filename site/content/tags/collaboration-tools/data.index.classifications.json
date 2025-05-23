@@ -3020,5 +3020,24 @@
     "reasoning": "The content focuses on collaboration tools supporting Agile teams, emphasizing communication, coordination, and transparency in software development. While it references iterative development and links to Agile/DevOps principles, it does not explicitly address the full scope of Application Lifecycle Management (ALM), such as governance, compliance, change/risk management, or end-to-end lifecycle stages. The audience is technical and overlaps somewhat, but the discussion centers on tools' general Agile-enablement role rather than ALM governance or process frameworks. Depth and alignment are moderate because foundational ALM concepts (e.g., lifecycle stages, metrics, lifecycle-wide governance) are missing.",
     "reasoning_summary": "This content discusses collaboration tools’ value in Agile teams, focusing on communication and efficiency. While related to ALM themes, it doesn’t address core ALM concepts like lifecycle stages or governance, so confidence for this category is moderate.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Collaboration Tools",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:46",
+    "ai_confidence": 23.62,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.1,
+    "ai_intent": 2.3,
+    "ai_audience": 7.0,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content provides a broad overview of collaboration tools in Agile settings but does not explicitly reference the Definition of Workflow or its core elements, such as explicit agreements, entry/exit criteria, WIP limits, or Kanban-specific processes. The main focus is on team communication, coordination, transparency, and how these tools facilitate Lean/Agile values, not on the explicit agreements or dynamic models for workflow management as defined in Kanban. As such, the alignment, depth, and intent are low. There is some minor relevance in supporting transparency and process improvement, but these are generic and not tied to the formal Definition of Workflow construct.",
+    "reasoning_summary": "The content discusses the benefits of collaboration tools in enhancing communication and transparency in Agile teams but does not address the Definition of Workflow or its core Kanban policies. Relevance to the category is minimal and mostly indirect.",
+    "level": "Ignored"
   }
 }

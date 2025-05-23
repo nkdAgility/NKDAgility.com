@@ -3017,5 +3017,24 @@
     "reasoning": "The content is a general overview of DevOps as a philosophy, emphasizing collaboration, flow efficiency, automation, and continuous improvement. While it mentions foundational ideas and some core principles, it does not explicitly reference first principles as defined (immutable, irreducible truths that are non-negotiable for Lean, Agile, Scrum, or DevOps); instead, it presents commonly accepted practices and ethos statements. There is no clear distinction between first principles and derived practices or heuristics, and the main focus is on high-level explanation rather than deep exploration or identification of foundational constraints. The target audience (practitioners, technical leads) matches, and the signal is high, but direct mentions and conceptual alignment to 'first principles' are weak.",
     "reasoning_summary": "The content explains DevOps principles and culture but lacks clear reference, definition, or application of first principles in the sense required for this category. It’s insightful for practitioners but doesn't meet the strict criteria for a first principle-focused discussion.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "DevOps",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:45",
+    "ai_confidence": 14.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.6,
+    "ai_intent": 2.5,
+    "ai_audience": 5.6,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on DevOps as a philosophy emphasizing collaboration, automation, and continuous improvement across development and operations. While there is an emphasis on flow efficiency and continuous improvement, the content does not directly mention or define 'Definition of Workflow,' nor does it detail explicit workflow agreements, WIP limits, entry/exit criteria, or Kanban-specific workflow concepts. The fit is tangential at best; although some values slightly overlap (visible flow, improvement), the core meaning of the category—in terms of explicit, dynamic agreements and policies governing workflow as per Kanban—is not addressed.",
+    "reasoning_summary": "This content explains DevOps philosophy and practices but does not specifically discuss or define the Kanban 'Definition of Workflow.' It lacks direct references or substantive exploration of workflow agreements, making it largely out of scope for this category.",
+    "level": "Ignored"
   }
 }

@@ -1838,5 +1838,24 @@
     "reasoning": "The content focuses on practical migration from TFS on-prem to Azure DevOps, discussing compatibility, customisations, best practices, and security. There are no explicit or implicit references to first principles, no foundational or immutable truths are discussed, and the guidance is entirely context- and tool-dependent. Penalties are applied for lack of conceptual alignment and depth (as both are entirely absent) and a brief mention of TFS 2010 as obsolete. The audience and intent are also only marginally relevant; signal-to-noise is low since most information is tactical migration advice, not about immutable foundations or professional constraints in Lean, Agile, or DevOps.",
     "reasoning_summary": "This content is a practical migration guide with no discussion of first principles. It offers tool-focused, context-specific advice rather than foundational truths, so it does not fit the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "qpo4Ru1VVZE",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:19",
+    "ai_confidence": 4.82,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 1.5,
+    "ai_intent": 0.7,
+    "ai_audience": 0.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content solely discusses migration from TFS to Azure DevOps, focusing on compatibility, customizations, and best practices. There are no direct or indirect mentions of the 'Definition of Workflow', nor any related Kanban or agile flow concepts. The main topics revolve around technical migration steps and avoiding disruption, not about explicit workflow agreements, policies, WIP limits, or process visibility. None of the key topics listed in the category definition are addressed, and exclusions such as unrelated operational procedures do apply. The content is aimed at practitioners but is not aligned with the intended audience or scope for 'Definition of Workflow.' Thus, a very low confidence score is appropriate.",
+    "reasoning_summary": "This migration-focused content lacks any discussion, direct or indirect, of the Definition of Workflow or related Kanban/agile principles. Its technical focus is off-category, leading to a minimal confidence score for relevance.",
+    "level": "Ignored"
   }
 }

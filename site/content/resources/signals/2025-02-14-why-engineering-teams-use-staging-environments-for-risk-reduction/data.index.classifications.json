@@ -3247,5 +3247,24 @@
     "reasoning": "The content delves into best practices for risk mitigation in software delivery, specifically questioning the efficacy of staging environments versus modern approaches like feature flags and progressive rollouts. Its main audience is software engineers and teams aiming to improve engineering workflows. There are direct yet moderate-level references to practices like code deployment, observability, and testing, which are strongly conceptually aligned with Engineering Excellence. While it doesn’t explicitly mention 'Engineering Excellence,' the entire discussion is tightly focused on software development quality, productivity, and process improvement, with minimal off-topic content. No penalties were necessary, as the advice presented is current, actionable, and well-aligned with the category’s principles.",
     "reasoning_summary": "This content strongly fits Engineering Excellence—it highlights modern engineering practices, challenges legacy workflows, and focuses on delivering high-quality software. Its actionable recommendations and technical depth make it highly relevant for engineering teams aiming to elevate their standards.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "r8qUPpdsgnM",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:20",
+    "ai_confidence": 5.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 0.4,
+    "ai_audience": 1.3,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses on the pros and cons of staging environments, alternatives like feature flags and progressive rollouts, and evaluating their effectiveness in engineering teams. It does not mention, define, or explore the Definition of Workflow in the Kanban or agile sense—there are no references to policies, entry/exit criteria, workflow visualization, WIP limits, or Kanban theory. Though it targets technical practitioners (engineers), it remains outside the category’s scope. Any alignment is purely incidental (i.e., discussing flow of work in deployment pipelines, not workflow agreements or policies).",
+    "reasoning_summary": "This content is primarily about the use of staging environments and risk reduction in deployment, not about the Definition of Workflow or related Kanban/agile concepts. There’s no substantive coverage or direct relevance to the category.",
+    "level": "Ignored"
   }
 }

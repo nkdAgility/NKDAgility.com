@@ -3247,5 +3247,24 @@
     "reasoning": "The content strongly centers on technical debt—an essential aspect of engineering excellence—explaining its risks via business and technical perspectives. There's an illustrative example (Microsoft TFS), a challenge to prevailing myths, and a clear message about the organizational importance of managing debt. However, explicit references to 'engineering excellence' or comprehensive exploration of multiple best practices are missing, leading to a modest score for 'Direct Mentions' and slightly less for 'Depth'. The audience and purpose align well, addressing both engineers and decision-makers, and the focus stays almost entirely on relevant themes.",
     "reasoning_summary": "This piece expertly connects technical debt management to business outcomes and engineering effectiveness, using real-world examples. While it doesn't explicitly mention 'engineering excellence,' its focus and insightful analysis make it highly relevant to the category.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "SLaqpu5BHH8",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:10",
+    "ai_confidence": 12.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.5,
+    "ai_intent": 1.2,
+    "ai_audience": 3.3,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is exclusively focused on technical debt as a business risk, using Microsoft TFS as an example. It discusses the impact of technical debt on agility and business value but never references the Definition of Workflow (Kanban or otherwise), nor does it address workflow policies, entry/exit criteria, WIP limits, or explicit team agreements. There are no direct or indirect mentions of Kanban or agile workflow concepts. The audience could potentially overlap with process improvement professionals, but the content itself does not delve into workflow concerns, nor does it educate or inform about the category's scope.",
+    "reasoning_summary": "This content addresses technical debt from a risk management perspective and doesn't reference or discuss Definition of Workflow topics. It doesn't fit the provided category scope, as it omits workflow policies, Kanban, or related process improvement themes.",
+    "level": "Ignored"
   }
 }

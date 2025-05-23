@@ -1913,5 +1913,24 @@
     "reasoning": "The content is focused on explaining Definition of Done (DoD) in Scrum—its creation, application, and improvement. While it references core Scrum responsibilities and quality, it does not frame or discuss DoD as a 'first principle' or address immutable foundational constraints as defined for this category. Terms such as 'non-negotiable', 'irreducible', or direct conceptual framing of first principles are absent. The article remains practical and applied, treating DoD as an evolving standard rather than an immutable truth. Its depth is mainly procedural and advisory rather than foundational. The overall confidence is low because, though the audience and topic overlap with the category's intent, conceptual alignment and explicitness fall short.",
     "reasoning_summary": "This content provides a practical guide to the Definition of Done in Scrum and targets practitioners, but it doesn't address first principles as immutable constraints. It focuses on evolving standards rather than foundational, non-negotiable truths. Confidence in this fit is therefore low.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "z18IcQhlD7I",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:43",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.9,
+    "ai_intent": 0.7,
+    "ai_audience": 1.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is entirely focused on the Definition of Done (DoD) in Scrum: what it is, how to create it, and its role in ensuring working software and quality increments. There is no mention—direct or indirect—of the 'Definition of Workflow,' nor does the content address workflow policies, WIP limits, entry/exit criteria, or the governing flow of work as described in Kanban/agile theory. It consistently discusses checklists and quality commitments for completed increments (DoD), not dynamic workflow agreements. The concepts, vocabulary, and practical advice are all exclusive to DoD, excluding all the core principles and distinctions for the Definition of Workflow category. Audience alignment is weak as it targets Scrum practitioners focused on quality and DoD, not teams concerned with defining and visualizing workflow.",
+    "reasoning_summary": "This content solely discusses the Definition of Done in Scrum—its purpose, checklist items, and team adoption. It does not mention or align with the Definition of Workflow, dynamic flow policies, or Kanban practices, making it a poor fit for this category.",
+    "level": "Ignored"
   }
 }

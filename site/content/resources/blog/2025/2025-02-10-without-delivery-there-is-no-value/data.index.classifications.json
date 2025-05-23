@@ -2320,5 +2320,24 @@
     "reasoning": "The content passionately argues that value in software is only realized through delivery, supporting this with empirical references (CHAOS Report, DORA, Windows 8 example) and domain-specific language (Scrum, Agile). Its main theme—'delivery is required for value'—is treated as foundational and non-negotiable, which approaches a first principle. However, the text never explicitly labels it as a 'first principle,' nor does it distinguish between immutable truths and derived practices, or critically compare first principles vs. heuristics. While the depth, alignment, and focus are strong, and the intended audience is well-aligned, there's a lack of direct categorization as a 'first principle,' keeping confidence below a clear-cut 80. No penalties are warranted as no outdated references or undermining tone are present.",
     "reasoning_summary": "This content powerfully advocates delivery as foundational in Agile and supports its arguments with strong evidence. However, it falls short of directly framing or analyzing 'delivery' as a first principle, lowering confidence for strict categorization under First Principal despite its solid alignment and depth.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "UfdnQrxv5iF",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:15",
+    "ai_confidence": 17.93,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.2,
+    "ai_intent": 3.0,
+    "ai_audience": 4.6,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses almost exclusively on the value of delivery, frequent releases, feedback, and risk reduction, particularly within Agile and DevOps. While it frequently references topics like transparency, lead time, and adaptation, it does not discuss or define 'Definition of Workflow,' nor does it cover explicit agreements, entry/exit policies, or WIP limits. Mentions and alignment are low because the core topic is delivery and validation of assumptions, not the workflow agreements or process definitions Kanban focuses on. There are no penalties as the content is relevant and does not contradict the category, but it is simply not about the Definition of Workflow.",
+    "reasoning_summary": "While the content centers on delivery, feedback, and Agile value realization, it never addresses or explains the Definition of Workflow or related Kanban agreements and policies. Its intent, audience, and focus diverge from the core category, leading to very low alignment.",
+    "level": "Ignored"
   }
 }

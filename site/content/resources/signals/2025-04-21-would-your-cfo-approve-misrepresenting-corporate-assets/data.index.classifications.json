@@ -3247,5 +3247,24 @@
     "reasoning": "The content sharply focuses on technical debt as a crucial element impacting the quality and value of software assets, clearly acknowledging the risks of ignoring it. While 'engineering excellence' is not directly mentioned, the argument centers on a foundational principle of engineering excellence: responsibly managing technical debt. The piece targets engineering practitioners and executives alike, urging rigorous accounting and risk management in software practices. However, the discussion is mostly confined to technical debt, without broader exploration of other engineering excellence dimensions (like automation, CI/CD, or best practices), resulting in strong but not comprehensive depth or breadth.",
     "reasoning_summary": "The content is strongly aligned with engineering excellence, highlighting the risks of unmanaged technical debt and urging responsible practices. While thorough on this topic, it doesn't cover the broader spectrum of engineering excellence. Confidence is high due to its clear, focused message to practitioners.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "u-ACEx3Q01p",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:12",
+    "ai_confidence": 4.075,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.9,
+    "ai_audience": 0.8,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is entirely focused on the risk of ignoring technical debt in software as an asset, using financial language to advocate for better accounting practices. It does not mention, discuss, or even allude to the Definition of Workflow as conceived in Kanban, agile, or product development contexts. There is no reference to workflow policies, entry/exit criteria, flow of work, WIP limits, making work visible, or process adaptability. The audience aligns somewhat with product and business leaders, which may overlap with agile topics, but the content’s substance is unrelated to workflow definition. All scoring dimensions are at the extreme low end due to complete lack of direct or conceptual overlap.",
+    "reasoning_summary": "This content focuses solely on technical debt's financial implications and does not address the Definition of Workflow or related concepts found in Kanban or agile contexts. There is no substantive alignment with the specified category.",
+    "level": "Ignored"
   }
 }

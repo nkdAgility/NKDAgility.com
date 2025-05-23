@@ -3012,5 +3012,24 @@
     "reasoning": "The content describes the 'Shift-Left Strategy' in software development—moving testing, security, and compliance earlier to improve quality and feedback. It does not mention or explore first principles explicitly or implicitly; rather, it discusses a best practice derived from agile and DevOps thinking. No foundational, immutable truths or constraints are referenced, nor is the distinction between first principles and derived practices made. The content is superficial, focused on promotion of a specific strategy rather than the identification, explanation, or application of first principles. The target audience (agile/DevOps practitioners) moderately overlaps, but the category's core requirements are not met.",
     "reasoning_summary": "This content highlights 'Shift-Left' as a best practice in agile and DevOps, but it doesn't discuss immutable first principles or foundational truths. It's focused on practical strategies, not on the identification or application of first principles, so fit is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Shift Left Strategy",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:48",
+    "ai_confidence": 16.57,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 2.1,
+    "ai_audience": 6.4,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses exclusively on the Shift-Left Strategy, which emphasizes moving testing, security, and compliance earlier in the software development lifecycle. It does not mention or discuss the Definition of Workflow in Kanban, nor does it address entry/exit criteria, WIP limits, or explicit workflow policies. The concept of 'workflow' is not referenced, even in passing. While the target audience could overlap with practitioners who might use the Definition of Workflow, the content itself neither aligns in intent nor subject matter. Thus, only minimal points are given for indirect audience fit and overall professionalism.",
+    "reasoning_summary": "This content centers on shifting testing and compliance earlier in development, not on defining or discussing workflow policies. It does not align with the Definition of Workflow category, offering little relevance beyond potential audience overlap.",
+    "level": "Ignored"
   }
 }

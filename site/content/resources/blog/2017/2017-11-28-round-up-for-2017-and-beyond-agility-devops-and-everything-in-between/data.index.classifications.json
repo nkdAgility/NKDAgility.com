@@ -1909,5 +1909,24 @@
     "reasoning": "The content is primarily a year-end roundup of events, personal experiences, and upcoming trainings in Agile, DevOps, and Scrum. There are no direct mentions or discussions of first principles, no definition or explicit application of foundational constraints, nor any distinction between first principles and heuristics/practices. Instead, the content focuses on summarizing conferences, linking to presentations, and promoting classes. While it targets a relevant professional audience, there's no in-depth exploration or argument regarding first principles. Material is outdated, referencing 2017 and early 2018 events.",
     "reasoning_summary": "This roundup summarizes past conferences and upcoming trainings in Agile, Scrum, and DevOps but does not identify or discuss first principles. It's event- and promotion-focused without reference to foundational concepts or immutable truths.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "J0HjcdNvqGW",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:43",
+    "ai_confidence": 2.358,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 1.5,
+    "ai_intent": 2.5,
+    "ai_audience": 4.7,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.5,
+    "ai_penalty_details": "Alignment (-1): Content is outdated (2017-centric events) and there are some obsolete references; Depth (-0.5): Superficial, no exploration of target concepts.",
+    "final_score": 2.0,
+    "reasoning": "The content is a personal summary of 2017 conferences, workshops, and upcoming courses related to Agile, Scrum, DevOps, and team leadership, without any direct mention or explicit discussion of Kanban's Definition of Workflow or related policies. While tangentially relevant to Agile/DevOps practitioners, the material never addresses entry/exit criteria, WIP limits, or makes any sustained attempt to define, explain, or compare workflow policies in a Kanban or agile context. There is a brief mention of processes and practices, but these lack specificity and conceptual alignment with the Definition of Workflow. The material is also dated, with a focus on 2017 events and older perspectives, warranting penalty deductions.",
+    "reasoning_summary": "This content recaps Agile and DevOps events and training from 2017, but does not discuss or reference the Definition of Workflow. It lacks explicit mention or discussion of workflow policies, criteria, or Kanban concepts, making it a poor fit for this category.",
+    "level": "Ignored"
   }
 }

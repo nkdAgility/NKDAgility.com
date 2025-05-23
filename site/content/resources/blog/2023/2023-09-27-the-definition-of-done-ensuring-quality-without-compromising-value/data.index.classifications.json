@@ -1876,5 +1876,24 @@
     "reasoning": "The content thoroughly explores the Definition of Done (DoD) as applied in Scrum, focusing on its importance, boundaries, and how it relates to acceptance criteria. At times, it hints at the DoD being 'bedrock' or 'sacrosanct,' language evocative of foundational principles, and emphasizes transparency and empiricism ('foundational to our work'). However, it never explicitly discusses 'first principles', nor does it systematically identify, define, or explore the immutable first principles underpinning Lean, Agile, or Scrum. The main thrust is practical clarity between DoD and acceptance criteria—a derived practice, not an articulation or analysis of first principles. Audience targeting and signal-to-noise are moderately strong, but the core category fit is only partial.",
     "reasoning_summary": "This article explores the practical nuances of the Definition of Done, implying but not directly addressing first principles in Scrum. It focuses on maintaining quality and transparency but falls short of explicitly identifying or applying foundational, immutable principles, resulting in only moderate confidence for this category.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "DcwDyX1ZGUP",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:25",
+    "ai_confidence": 9.4,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.75,
+    "ai_depth": 0.9,
+    "ai_intent": 1.0,
+    "ai_audience": 1.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "This content exclusively discusses the Definition of Done (DoD) in Scrum/agile, focusing on quality standards and their implications versus acceptance criteria. It makes no reference to Definition of Workflow, Kanban, or explicit workflow policies, nor does it address workflow entry/exit criteria, WIP limits, or the Kanban notion of making flow explicit. Its themes, terminology, and examples are centered on DoD. Thus, while there are agile and process improvement concepts, they do not align conceptually or topically with the Definition of Workflow, resulting in minimal scores across all dimensions.",
+    "reasoning_summary": "The content centers exclusively on the Definition of Done, not Definition of Workflow. There are no direct or indirect references to Kanban workflow policies, criteria, or flow, making it irrelevant to this category.",
+    "level": "Ignored"
   }
 }

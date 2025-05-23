@@ -1898,5 +1898,24 @@
     "reasoning": "The content frequently references 'principles' of Agile, Lean, and Scrum but treats them as contextual guides or values rather than irreducible, foundational constraints. The emphasis is on coaching flexibility, practice agnosticism, and empowering teams to choose/adapt based on context—this is contrary to the strict focus on first principles as immutable truths. There are no explicit discussions distinguishing first principles from heuristics or describing consequences of violating immutable constraints; instead, principles are framed as supportive context for team choice. The depth score reflects some exploration of underlying theory, but it remains surface-level and context-driven. The signal score is moderate, as the audience is well aligned (coaches/practitioners), but the noise comes from the content’s orientation toward flexible, team-driven experimentation and values-centric approaches, which are outside the strict first principles remit.",
     "reasoning_summary": "This article focuses on agile coaching, flexibility, and empowering teams using core principles. While it mentions principles from Lean, Agile, and Scrum, it does not discuss or apply first principles as immutable, non-negotiable foundations, making it only loosely aligned with the First Principal category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "nhkUm6k4Q0A",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:28",
+    "ai_confidence": 22.42,
+    "ai_mentions": 0.9,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.2,
+    "ai_intent": 3.5,
+    "ai_audience": 6.2,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content is focused on agile coaching, highlighting the importance of being framework-agnostic, empowering teams, and enabling experimentation. While it references Kanban, Lean, and Scrum, it never discusses the explicit Definition of Workflow as per Kanban or Daniel Vacanti. There are no detailed mentions of WIP limits, entry/exit criteria, or explicit workflow policies. Discussion of 'workflow' is indirect and generic, lacking depth or focus on the explicit Kanban concept. The content is aimed at practitioners (agile coaches, teams), modestly aligning with the audience but offering little substantive discussion or direct reference to Definition of Workflow.",
+    "reasoning_summary": "This content discusses agile coaching and framework flexibility but does not explicitly cover the Definition of Workflow or its core principles. References to workflow are generic, and Kanban-related workflow concepts are not directly addressed, resulting in low confidence for this category.",
+    "level": "Ignored"
   }
 }

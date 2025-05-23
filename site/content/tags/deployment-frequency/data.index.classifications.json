@@ -3034,5 +3034,24 @@
     "reasoning": "The content strictly discusses deployment frequency as a DevOps and product delivery metric. There are no direct or indirect mentions of the Daily Scrum, nor any discussion about Scrum events, team inspections, or daily progress tracking. While concepts such as collaboration and accountability overlap weakly with Scrum values, the topic remains misaligned with Daily Scrum’s specific event purpose. The intended audience is teams involved in DevOps and continuous delivery, not those focused on Scrum event facilitation. Almost all content is off-topic for Daily Scrum, resulting in low relevance and little signal for classification under this category.",
     "reasoning_summary": "This content focuses on deployment frequency in DevOps, without mention of Daily Scrum or Scrum events, making it highly misaligned with the category. Audience, purpose, and discussion depth are unrelated to Daily Scrum, resulting in a very low confidence score.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Deployment Frequency",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:44",
+    "ai_confidence": 13.2,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.2,
+    "ai_intent": 1.8,
+    "ai_audience": 4.0,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses exclusively on deployment frequency—a delivery metric within DevOps and agile contexts—but does not discuss explicit agreements, policies, entry or exit criteria, WIP limits, or workflow visualization integral to the Definition of Workflow. No direct mentions or substantive alignment with the category's meaning appear. The intent, audience, and signal have minimal incidental overlap, but depth and conceptual fit are lacking.",
+    "reasoning_summary": "This content discusses deployment frequency as a DevOps metric, not the Definition of Workflow. It does not cover workflow policies, criteria, or visual controls, making it weakly aligned with the category's intended focus.",
+    "level": "Ignored"
   }
 }

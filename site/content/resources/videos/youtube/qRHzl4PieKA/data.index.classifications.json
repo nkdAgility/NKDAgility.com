@@ -1910,5 +1910,24 @@
     "reasoning": "The content firmly discusses agile responsiveness, team empowerment, and backlog management, focusing on delivering user value. However, it never explicitly mentions 'first principles' or directly identifies irreducible, foundational constraints in Lean, Agile, Scrum, or DevOps as outlined in the classification definition. While the themes are conceptually adjacent (the value of empirical feedback, adapting to change, maximizing value), the article treats them as best practices or derived principles, not immutable truths or non-negotiable foundations. There is depth regarding the rationale for adapting requirements and team engagement, but these are framed as highly recommended behaviors, not as required, self-evident truths. Examples are practical and concrete, but do not explicitly tie back to core first principles as defined by foundational theorists. The intended audience aligns with practitioners in Scrum/Agile contexts, with a high signal-to-noise ratio. No penalties applied.",
     "reasoning_summary": "While this article deeply explores Agile practices like empowerment and adaptation, it treats them as key habits and strategies, not as foundational, non-negotiable constraints or first principles. Therefore, it aligns conceptually but doesn’t fully meet the strict definition of the 'First Principal' category.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "qRHzl4PieKA",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:27",
+    "ai_confidence": 34.269,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.4,
+    "ai_depth": 4.7,
+    "ai_intent": 6.6,
+    "ai_audience": 7.4,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on backlog management, team empowerment, adapting requirements, and the importance of deleting or reprioritizing requirements via user feedback—common agile themes. However, it never discusses or even mentions 'Definition of Workflow' or associated concepts such as explicit workflow policies, entry/exit criteria, or WIP limits as formalized in Kanban. There is likewise no distinction made between Definition of Workflow versus Definition of Done, nor any deep dive into making the flow of work explicit, visible, or adaptable through policies. While the advice to update backlogs and empower teams to pivot is in the agile family, it lacks the explicit operationalization of workflow, Kanban vocabulary, or references needed for a strong fit. The audience (practitioners, Scrum Masters, product teams) is broadly aligned, and the intent is supportive and informative, but the conceptual overlap with the precise category is limited.",
+    "reasoning_summary": "This content emphasizes agile adaptability, team empowerment, and backlog changes based on feedback, but does not explicitly discuss the Definition of Workflow or related Kanban concepts. Its focus is adjacent—relevant to agile teams but lacking direct coverage or operational detail on workflow definition.",
+    "level": "Ignored"
   }
 }

@@ -1895,5 +1895,24 @@
     "reasoning": "The content is a personal reflection on the transformative effects of Agile consulting and Scrum training. Nowhere does it mention or explain first principles, nor does it distinguish foundational, non-negotiable truths from practices or heuristics. The focus is on individual/team impact and the long-lasting effect of training, not on the identification, articulation, or application of first principles in Lean, Agile, Scrum or DevOps. The narrative is motivational and promotional, addressing practitioners interested in consulting outcomes, not in examining theory at the level of immutable constraints. Penalties were applied for lack of direct reference, insufficient conceptual alignment, lack of depth into first principles, and an intent that centers on personal experience and course promotion.",
     "reasoning_summary": "This content is a personal story about consulting impact, not an exploration of first principles. It doesn't identify, explain, or apply foundational truths, so it doesn't fit the First Principal category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "iT7ZtgNJbT0",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:33",
+    "ai_confidence": 10.47,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 3.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.6,
+    "ai_penalty_details": "mentions -0.5: no reference to Definition of Workflow; alignment -0.3: does not conceptually address workflow definition; depth -0.3: lacks substantive exploration of workflow policy or agreements; intent -0.2: intent is storytelling and promotion, not definitional; signal -0.3: most content is tangential.",
+    "final_score": 10.0,
+    "reasoning": "The content is a personal reflection on the impact of Scrum and Agile consulting, focusing on transformation, team learning, and long-term influence. Nowhere does it refer—explicitly or implicitly—to the Definition of Workflow, entry/exit criteria, WIP limits, or any Kanban/DevOps-specific workflow policy concepts. Its purpose is storytelling and inspiring engagement, not clarifying workflow mechanics or agreements. The audience may overlap with practitioners, but nothing in the post addresses or explains workflow definitions in an agile or Kanban sense. The few brief mentions of practices (Scrum, TDD, user stories) serve only as color for the narrative, not as analysis of workflow design, agreements, or visibility. Nearly all of the content is off-scope per the definition.",
+    "reasoning_summary": "This content shares a personal Agile consulting story without discussing the Definition of Workflow or related Kanban practices. It is focused on transformation and team experience, not on explicit workflow agreements, policies, or dynamic process definitions.",
+    "level": "Ignored"
   }
 }

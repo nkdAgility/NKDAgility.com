@@ -1840,5 +1840,24 @@
     "reasoning": "The content describes a step-by-step technical migration from Codeplex to GitHub, discussing tooling, bugs, and practical workarounds. There are no direct mentions or discussions of First Principles, nor are foundational, immutable constraints in Lean, Agile, Scrum, or DevOps referenced or analyzed. The focus is purely practical and migratory, with no conceptual, depth, or intent alignment to the First Principal category. The intended audience is technical practitioners but not in the context of system foundations, and only minimal topical relevance appears in rare, indirect comments about tool design. The signal-to-noise ratio is low for this category.",
     "reasoning_summary": "This guide stays strictly practical, detailing migration steps without exploring foundational principles or immutable constraints central to the 'First Principal' category—resulting in extremely low confidence for fit.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:40",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.5,
+    "ai_intent": 0.7,
+    "ai_audience": 1.1,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content does not discuss the Definition of Workflow as defined in Kanban or agile contexts. It focuses entirely on technical steps for migrating repositories, with no mention of workflow agreements, policies, WIP, entry/exit criteria, or related agile concepts. Any indirect relevance is minimal and coincidental, such as mentioning steps or procedures, but these are unrelated to the category's definition or audience. No penalties were needed as the tone and references are current and not in contradiction with the category.",
+    "reasoning_summary": "This content is unrelated to the Definition of Workflow category, focusing solely on migration steps between source control platforms without referencing agile workflow policies or concepts.",
+    "level": "Ignored"
   }
 }

@@ -3024,5 +3024,24 @@
     "reasoning": "The content primarily discusses best practices in source control and branching strategies, focusing on technical efficiency and team collaboration in software development. While it tangentially references agility (with mentions of rapid feedback and responsiveness), it does not deeply unpack organisational agility as a whole, largely omitting broader strategies, leadership, culture, or frameworks central to the category. The focus is more on development workflow than organisational transformation or agile methodologies at scale.",
     "reasoning_summary": "This piece details version control practices that can support team adaptability, but it only touches on organisational agility concepts without substantial depth or direct application to broader agile transformation. Its primary focus remains technical rather than organisational.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Modern Source Control",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:48",
+    "ai_confidence": 8.7,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.9,
+    "ai_intent": 0.7,
+    "ai_audience": 2.5,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on best practices for version control and branching in software development, emphasizing tools like Git, CI/CD, and collaboration. It discusses workflow in a general sense (e.g., embedding source control into workflows), but does not mention or explain the Definition of Workflow as per Kanban or agile theory. There are no explicit discussions of workflow policies, entry/exit criteria, or making work visible as defined in the category. Alignment and depth are minimal, with almost no mention of the specific concepts required. The intended audience overlaps somewhat, but the material is not targeted toward teams seeking an explicit, adaptive workflow model. No penalties for tone or outdated practices are applicable.",
+    "reasoning_summary": "The content covers source control workflows in software development but does not address the Definition of Workflow as understood in Kanban or agile contexts. Its focus on tooling and branching strategies means alignment with the category is minimal.",
+    "level": "Ignored"
   }
 }

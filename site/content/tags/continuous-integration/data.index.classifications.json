@@ -3007,5 +3007,43 @@
     "reasoning": "The content provides an in-depth overview of Continuous Integration (CI), emphasizing collaboration, frequent merges, early error detection, and automated testing. These relate to themes of modern source control, especially integration practices and workflows. However, there are only indirect references to source control concepts like merging and shared repositories, with no direct mention of version control systems, branching, or specific source control tools. The principal alignment is via discussion of merging and codebase health, which are adjacent to source control best practices but not the central focus of the content. Therefore, while CI is a critical DevOps and modern software engineering practice intersecting with source control, the main topic is broader CI processes, not strictly modern source control. This warrants strong but not maximal alignment and depth scores, with no penalties applied.",
     "reasoning_summary": "The content focuses on Continuous Integration and overlaps with modern source control practices through discussions of merging, shared repositories, and collaboration. While not directly about version control systems, its themes align well, resulting in a strong but not perfect category fit.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Continuous Integration",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:44",
+    "ai_confidence": 15.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.0,
+    "ai_intent": 2.2,
+    "ai_audience": 4.0,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses exclusively on Continuous Integration—its purpose, benefits, and how it supports agile development. There are no direct references or discussions about the Definition of Workflow or related Kanban/agile workflow concepts (no mention of policies, entry/exit criteria, WIP limits, or explicit agreements). The alignment and depth are minimal, as the primary discussion centers on CI practices. The intended audience is developers and agile teams, which slightly overlaps with the category, but the core topic remains outside the strict scope, so low scores are applied across most dimensions and a very low overall confidence is warranted.",
+    "reasoning_summary": "This content discusses Continuous Integration practices without referencing the Definition of Workflow or related Kanban policies. Its focus is on CI processes and benefits, not explicit workflow definitions, resulting in very low alignment with the specified category.",
+    "level": "Ignored"
+  },
+  "Install and Configuration": {
+    "resourceId": "Continuous Integration",
+    "category": "Install and Configuration",
+    "calculated_at": "2025-05-23T22:06:49",
+    "ai_confidence": 12.3,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.0,
+    "ai_intent": 1.3,
+    "ai_audience": 2.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content does not discuss installation or configuration of CI tools; it focuses on conceptual and cultural aspects of Continuous Integration. There are no direct instructions, step-by-step guides, or references to implementing or configuring any specific CI tools or environments. The audience seems targeted toward understanding CI principles, not those seeking technical installation help. Only a few implicit mentions may touch on CI's role in workflows, but nothing technical or actionable regarding setup. No penalties required.",
+    "reasoning_summary": "This content outlines the principles and benefits of Continuous Integration but lacks any discussion of installation or configuration steps, making it poorly aligned with the 'Install and Configuration' category.",
+    "level": "Ignored"
   }
 }

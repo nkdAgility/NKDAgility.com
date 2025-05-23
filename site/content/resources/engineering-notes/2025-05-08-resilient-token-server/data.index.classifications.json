@@ -3103,5 +3103,24 @@
     "reasoning": "The content does not explicitly mention, define, or discuss first principles. It details sound engineering practices such as resilience, error handling, retries, and fallbacks, framed as personal engineering ethos and professional standards but does not anchor these to immutable, foundational first principles within Lean, Agile, Scrum, or DevOps. Its alignment is superficial (mindset, accountability), not based on irreducible truths or non-negotiable constraints. Audience and signal-to-noise are strong because it's written for practitioners and tightly focused, yet depth on first principles is lacking.",
     "reasoning_summary": "While the article promotes high engineering standards and resilience in DevOps, it doesn't discuss or identify first principles as foundational constraints. Its focus is on practical solutions and ethos, not the core, immutable truths required by this category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "mjsboLP-N9P",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:10",
+    "ai_confidence": 13.25,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.6,
+    "ai_intent": 1.4,
+    "ai_audience": 4.7,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on engineering a resilient, fault-tolerant Python/PowerShell system, emphasizing technical approaches to error handling, retries, and fallback mechanisms. While the term 'workflow' appears and the author references a personal workflow, there's no explicit or implicit discussion of Definition of Workflow as per Kanban/agile contexts. Key elements like explicit agreements, policies for flow, entry/exit criteria, or WIP limits are missing. The main focus is technical resilience, not process workflow definition in the Kanban/agile sense, so alignment is weak. Audience and signal are somewhat higher because the technical narrative may overlap with practitioners familiar with workflow thinking, but it's off-scope for the explicit category requirements.",
+    "reasoning_summary": "This technical article details engineering practices for system resilience and workflow orchestration, but it does not discuss or align with the Kanban or agile Definition of Workflow. References to workflow are contextual and not related to explicit process policies or agreements.",
+    "level": "Ignored"
   }
 }

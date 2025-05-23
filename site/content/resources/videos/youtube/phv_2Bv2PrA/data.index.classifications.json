@@ -1920,5 +1920,24 @@
     "reasoning": "The content focuses on agile practices and managing complexity, predictability, and incremental delivery in product development. It mentions the importance of predictability and managing flow but never directly references Service Level Expectation (SLE) or its definition, calculation, or usage. There is no discussion of SLE concepts such as elapsed time ranges, probabilities, or Kanban/Scrum SLE guidance. Alignment and depth are very low as the content remains at a general agile practice and philosophy level, not exploring technical measurement or SLE-specific topics. The audience is somewhat relevant (agile practitioners/executives), but without any SLE discussion, relevance is tenuous; signal-to-noise is low, as the focus is on broader agile benefits. Thus, the confidence score is nearly zero.",
     "reasoning_summary": "This article discusses agile practice benefits and predictability at a high level but never mentions or explores Service Level Expectation (SLE). It lacks detail, alignment, and depth on SLE-specific topics, so it does not fit the category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "phv_2Bv2PrA",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:35",
+    "ai_confidence": 18.85,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.7,
+    "ai_intent": 2.5,
+    "ai_audience": 4.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content thoroughly discusses agile concepts and the advantages over traditional management for complex product development, but does not directly mention or explore the Definition of Workflow as understood in Kanban or agile contexts. There is no discussion of workflow policies, entry/exit criteria, WIP limits, or the specific mechanisms by which work flows are defined or made explicit. The audience (practitioners, leaders) is tangentially relevant, and the discussion is focused on agility, but it lacks conceptual, direct, or in-depth exploration of the Definition of Workflow. Thus, confidence is low.",
+    "reasoning_summary": "While compelling on agile’s importance in complex product development, this content does not discuss the Definition of Workflow, related policies, or Kanban frameworks. Its focus is on agility’s value and mindsets, not the explicit modeling or management of workflow. Alignment is limited and confidence in this category is low.",
+    "level": "Ignored"
   }
 }

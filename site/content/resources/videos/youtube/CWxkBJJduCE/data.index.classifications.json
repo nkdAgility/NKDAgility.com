@@ -1862,5 +1862,24 @@
     "reasoning": "The content emphasizes the benefits of TDD and pair programming for software architecture but does not identify or discuss first principles as defined (immutable, foundational truths in Lean, Agile, Scrum, or DevOps). The mention of 'principle' refers to TDD, which is a practice or possibly a heuristic, not a first principle. There is no exploration of foundational constraints, no theoretical framing, and no distinction between first principles and other principles. The focus is practical advice on adopting practices for better outcomes, aimed at practitioners. Therefore, confidence is low for fitting the 'First Principal' category.",
     "reasoning_summary": "This article provides practical advocacy for TDD and pair programming but never identifies or analyzes first principles as foundational constraints in Lean/Agile contexts. It focuses on best practices and their benefits, not the core, immutable principles required for classification in this category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "CWxkBJJduCE",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:16",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 0.7,
+    "ai_audience": 1.0,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on the impacts of TDD and pair programming on software architecture, code quality, and productivity. It discusses workflow only generically, without reference to Kanban, agile, value streams, or policies. There are no direct mentions of Definition of Workflow or its core practices (entry criteria, policies, WIP, exit policies, visibility, etc.) and no attempt to distinguish workflow definitions from other concepts such as Definition of Done. The intent, audience, and discussion depth all align with generic software engineering improvement rather than the specific scope of the Definition of Workflow as described in Kanban/agile frameworks.",
+    "reasoning_summary": "This content centers on improving software architecture via TDD and pair programming, with only superficial, generic mentions of workflow. It does not directly address or align with the Kanban-centric Definition of Workflow category.",
+    "level": "Ignored"
   }
 }

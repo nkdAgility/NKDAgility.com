@@ -1909,5 +1909,24 @@
     "reasoning": "The content focuses on practical guidance for using Azure DevOps for Caman strategy and workflow visualisation in hybrid teams. It discusses the importance of shared rules and workflow clarity, but these are context-dependent best practices, not foundational first principles as defined. The content does not directly mention first principles, nor does it analyze or apply irreducible, immutable constraints foundational to Lean, Agile, or DevOps. Discussions about work item states, board customization, WIP limits, and team agreements are rooted in context and adaptability, not in first principles thinking. Audience and signal scores are higher, reflecting relevance to practitioners, but core alignment, depth, and intent remain low for the 'First Principal' category.",
     "reasoning_summary": "This article is mainly a hands-on guide for Caman strategies in Azure DevOps, emphasizing team rules and workflow clarity but lacking direct engagement with foundational first principles. While relevant for practitioners, it's not a fit for the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "jCrXzgjxcEA",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:19",
+    "ai_confidence": 68.837,
+    "ai_mentions": 4.6,
+    "ai_alignment": 7.1,
+    "ai_depth": 7.6,
+    "ai_intent": 6.5,
+    "ai_audience": 7.9,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "The content focuses on using Azure DevOps and Caman boards to visualise workflows, establish shared rules, customise columns, and set work-in-progress (WIP) limits—concepts related to aspects of Kanban and Definition of Workflow. It discusses collaboratively creating adaptable and explicit workflow policies but never directly names the 'Definition of Workflow' or references its formal articulation per Kanban or agile scholarship. Though key elements (WIP limits, evolving agreements, making work visible and legible) are present, the language remains anchored in practical configuration guidance and digital tool use rather than theory or categorical definition. The depth of discussion is good in practical terms but does not provide conceptual clarity or contrast with Definition of Done or cite agile authorities. The intent is supportive but slightly generalized toward workflow visualisation and management, not strictly defining the category. The audience (practitioners, agile coaches, hybrid teams) aligns well but is somewhat oriented to tool-specific implementation. No penalties were required.",
+    "reasoning_summary": "The content covers practical set up of visual workflows, shared rules, and WIP limits in Azure DevOps—closely aligning with Definition of Workflow principles—yet stops short of explicitly framing its focus as the 'Definition of Workflow' from a Kanban or agile theory standpoint. It is highly relevant but not a perfect categorical match.",
+    "level": "Secondary"
   }
 }

@@ -1846,5 +1846,24 @@
     "reasoning": "The content is focused on the technical and procedural guidance for migrating from TFS to Azure DevOps. It does not explicitly mention first principles nor does it delve into identifying, explaining, or applying foundational, immutable constraints characteristic of the 'First Principal' category. While the audience and clarity are well-aligned (reflecting high signal and some relevance for practitioners in Lean-Agile/DevOps settings), the substance is tactical, context-bound, and advisory—strictly excluded by the definition. No deductions applied since there is no contradiction, outdated content, or satire.",
     "reasoning_summary": "While useful for practitioners, this content is a migration best-practice guide with no discussion or application of first principles, making it a poor fit for the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Wvdh1lJfcLM",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:22",
+    "ai_confidence": 6.4,
+    "ai_mentions": 0.6,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.8,
+    "ai_intent": 0.9,
+    "ai_audience": 1.1,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on migrating from TFS to Azure DevOps, emphasizing migration steps, tooling, validation, and account alignment. There are references to process templates and custom workflows, but no explicit or substantive discussion of the Definition of Workflow as per Kanban/agile contexts. No explicit mentions of workflow policies, entry/exit criteria, WIP limits, or the relevant Kanban/agile theoretical framing. The only minor indirect connection is in mentioning custom workflows not translating cleanly, but this serves as a migration caveat rather than a definition, discussion, or exploration of dynamic, explicit workflow agreements, policies, or their improvement/visualization. The main intent is enabling a technical migration for a practitioner audience—aligned tangentially, but not targeting the Definition of Workflow or its stated outcomes. Therefore, the confidence is very low and reflects only incidental thematic overlap.",
+    "reasoning_summary": "This resource provides a technical migration guide and only references 'workflows' incidentally, without any explicit or meaningful discussion of the Definition of Workflow in Kanban or agile contexts. It is almost entirely outside the intended category scope.",
+    "level": "Ignored"
   }
 }

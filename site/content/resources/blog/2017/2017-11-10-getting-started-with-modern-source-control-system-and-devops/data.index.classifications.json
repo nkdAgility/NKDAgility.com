@@ -1897,5 +1897,24 @@
     "reasoning": "The content is centered on practical advice and recommended practices for adopting modern source control and DevOps, with occasional references to professionalism and non-negotiable process elements. However, it does not directly identify, explain, or apply first principles as foundational or immutable constraints. While there are references to practices being necessary or 'not optional' for competitiveness, these are not articulated or justified as first principles in the Lean, Agile, Scrum, or DevOps sense. There is no explicit conceptual distinction between first principles and best practices, heuristics, or values; instead, the focus is on team professionalism, effective tooling, automation, and modern workflows. The audience aligns generally with practitioners, but the primary signal is practical implementation rather than foundational theory.",
     "reasoning_summary": "This resource covers modern DevOps and source control practices, but doesn't explicitly identify or discuss first principles. It focuses on actionable advice and recommendations, so its fit with the 'First Principal' category is low, with little direct conceptual alignment.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "bkiQSbbO78R",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:43",
+    "ai_confidence": 3.75,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.5,
+    "ai_intent": 1.7,
+    "ai_audience": 5.1,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "There is no explicit or implicit discussion of the Definition of Workflow in the provided content. The article focuses on source control, DevOps, automation, release pipelines, and best practices for modern software teams. The only vaguely related mention is to the 'Definition of Done,' but this is clearly distinct from Definition of Workflow and not elaborated as a workflow-centric topic. The content does not discuss workflow policies, entry/exit criteria, WIP limits, or Kanban-specific concepts; nor does it emphasize making work flow explicit or dynamically adaptable. Its main audience overlaps with potential Kanban/Agile practitioners, which mildly raises audience alignment, and some mention of related concepts (lead/cycle time, flow, lean) lifts the signal and alignment scores slightly. However, the main ideas and depth completely fail to address the key category, and there are no outdated or critical references that would merit penalties.",
+    "reasoning_summary": "This content focuses on source control, DevOps practices, and general team delivery guidelines. It does not address the Definition of Workflow, nor does it discuss Kanban/agile workflow policies or make work explicit according to the category's scope.",
+    "level": "Ignored"
   }
 }

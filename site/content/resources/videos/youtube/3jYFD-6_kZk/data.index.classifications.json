@@ -1854,5 +1854,24 @@
     "reasoning": "The content focuses on practical steps, best practices, and lessons learned in migrating data from TFS to Azure DevOps, emphasizing order, identity alignment, and backups. Nowhere does it explicitly discuss first principles, immutable constraints, or foundational truths in Lean, Agile, Scrum, or DevOps terms. Solutions are advisory and context-dependent, not described as non-negotiable core principles. There is thoroughness in practical coverage but no conceptual anchoring to first principles, their definitions, or ramifications when breached. The intended audience is technical but not specifically those seeking foundational theoretical guidance.",
     "reasoning_summary": "While the article provides detailed, practical advice on data migration, it never addresses or anchors to first principles within Lean, Agile, Scrum, or DevOps. Its focus is on best practices and context-specific steps, not foundational, immutable constraints. Thus, it only loosely fits the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "3jYFD-6_kZk",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:21",
+    "ai_confidence": 13.537,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.6,
+    "ai_intent": 1.2,
+    "ai_audience": 3.1,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on Azure DevOps/TFS data migration, highlighting process order, identity alignment, and database management. While 'workflow' is mentioned in a generic, non-Kanban sense ('workflow nightmare'), there are no explicit or substantive discussions on the Definition of Workflow as per Kanban or agile theory. The main purpose and depth revolve around technical migration, not workflow policies, explicit agreements, entry/exit criteria, or WIP limits. Audience overlap is minimal; practitioners may have an agile background, but content is migration-focused. Minimal relevance and fit for the specified category.",
+    "reasoning_summary": "This content is about technical steps and pitfalls in Azure DevOps data migration. 'Workflow' is used generically rather than exploring Definition of Workflow in the Kanban/agile context, and the discussion stays centered on migration best practices, not workflow policy or explicit agreements.",
+    "level": "Ignored"
   }
 }

@@ -1914,5 +1914,24 @@
     "reasoning": "The content is focused on the costs of poor-quality code, its impact, and actionable engineering practices. It does not directly reference first principles or discuss foundational, immutable constraints from Lean, Agile, Scrum, or DevOps theory. Instead, it covers derived best practices (e.g., reducing branches, limiting versions) and benefits of quality but frames them as practical, context-dependent actions for improvement, not as core, non-negotiable truths. There's no substantial engagement with distinctions between first principles and derived practices, nor mention of well-known first principle theorists (e.g., Ken Schwaber, Taiichi Ohno). Thus, the alignment, depth, and mentions scores remain low, though the audience and signal are reasonably matched for an engineering/professional readership.",
     "reasoning_summary": "This content is practical, exploring the impacts and remedies of poor code quality, but it doesn't address or define first principles or foundational constraints. Its focus remains on best practices and actionable advice, not on immutable truths, so its fit to the category is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "1AO6FFBlE4Y",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:17",
+    "ai_confidence": 6.68,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.5,
+    "ai_intent": 1.2,
+    "ai_audience": 1.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on the costs and remediation of poor-quality code, discussing technical debt, branching strategies, versioning, and engineering practices. There is no direct mention of 'Definition of Workflow' or reference to Kanban, agile workflow agreements, or explicit policies about the flow of work as defined by the given category. Ideas like simplifying branching and supporting fewer versions touch superficially on process but not on explicit workflow definitions, entry/exit criteria, WIP limits, or making work visible in the Kanban/agile sense. The themes and recommendations aim at code quality, not the structural or policy aspects of workflow definition. The intent, audience, and tone align with software practitioners but not specifically with those seeking an understanding of the Definition of Workflow. There is little direct relevance or depth regarding the category; thus, scores are low but above zero because process discussion exists, though unrelated to the explicit category requirements.",
+    "reasoning_summary": "This content addresses code quality, technical debt, and engineering practices without directly discussing or aligning with the Definition of Workflow as understood in Kanban or agile contexts. Any process mentions are incidental rather than focused on explicit workflow agreements or flow management.",
+    "level": "Ignored"
   }
 }

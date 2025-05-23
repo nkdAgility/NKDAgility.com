@@ -3247,5 +3247,24 @@
     "reasoning": "The content critiques the common but misguided practice of measuring individual cycle time, emphasizing system-level metrics like lead time, throughput, and process efficiency—core topics in Engineering Excellence. It directly instructs teams on best practices for assessing software process performance, well-aligned with the category's definition. However, there are only indirect references to 'engineering excellence' and some brevity in discussion depth, slightly lowering the direct mentions and depth scores. There is no evidence of outdated advice, off-topic tangents, or contradictions to the category framing.",
     "reasoning_summary": "The content strongly aligns with Engineering Excellence by highlighting system-level measurement over individual metrics and urging improvement in development processes. While it doesn’t name the category directly, its focus and actionable advice fit the intended audience and goals.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "ZZGeHcnIwyQ",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:15",
+    "ai_confidence": 38.75,
+    "ai_mentions": 2.0,
+    "ai_alignment": 5.9,
+    "ai_depth": 4.7,
+    "ai_intent": 5.2,
+    "ai_audience": 9.0,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 39.0,
+    "reasoning": "The content directly critiques measuring individual cycle time and advocates shifting team focus to metrics such as lead time and throughput. While it references bottlenecks and process efficiency—concepts related to workflow—it never explicitly discusses or defines the 'Definition of Workflow' in the Kanban or agile sense. There is no mention of explicit agreements, entry/exit criteria, WIP limits, or collaborative workflow policies. The main purpose is to argue against an anti-pattern (individual metrics), not to clarify or teach the Definition of Workflow. The audience fit is strong (team-level, agile practitioners), and focus is mostly relevant, but both direct mention and conceptual depth on the actual Definition of Workflow are moderate at best.",
+    "reasoning_summary": "The content critiques individual metrics and advocates for team/system-level measures, aligning partially with workflow thinking but lacking explicit discussion of the Definition of Workflow as an agile or Kanban concept. It does not directly address the category's core focus.",
+    "level": "Ignored"
   }
 }

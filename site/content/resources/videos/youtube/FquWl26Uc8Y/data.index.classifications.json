@@ -1824,5 +1824,24 @@
     "reasoning": "The content addresses quality, technical debt, and personal/team responsibility but never directly explores first principles or frames any discussion within them. It proposes actionable strategies (code reviews, testing, refactoring) and outlines distinctions between technical debt and incompetence, yet does not reference foundational, immutable principles as non-negotiable constraints (per definition). The advice is context-dependent and pragmatic, not articulated as first principles. Audience is software practitioners, partly overlapping with the target but not strictly within the first principles context.",
     "reasoning_summary": "This content gives practical advice on technical debt and code quality, but it doesn't identify, explain, or apply first principles as non-negotiable foundations. It focuses on context-driven strategies for improvement, so it doesn't fit the strict definition of the First Principal category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "FquWl26Uc8Y",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:18",
+    "ai_confidence": 10.7,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 1.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses entirely on distinguishing between technical debt and incompetence, providing advice on preventing bad code via testing, code review, and prioritising debt repayment. There are no explicit or implicit references to the Definition of Workflow, Kanban principles, WIP limits, or related process agreements. The discussion stays at the level of code quality practices and contains no policy or explicit workflow modeling. The closest alignment is minor discussion of prioritisation and documentation, but these relate to debt management, not workflow as defined by Kanban guides or agile theory.",
+    "reasoning_summary": "This content does not address the Definition of Workflow. It focuses on technical debt, code quality, and team accountability without referencing Kanban, explicit workflow policies, or making work visible through workflow definitions.",
+    "level": "Ignored"
   }
 }

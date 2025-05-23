@@ -61,9 +61,9 @@ function Get-LinkedInSnapshotData {
     if (-not (Test-Path $outputDir)) {
         New-Item -ItemType Directory -Path $outputDir | Out-Null
     }
-
+    $sortedItems = $items | Sort-Object -Property Date -Descending
     $outputFile = Join-Path $outputDir "linkedin-$($Domain.ToLowerInvariant())-snapshots.json"
-    $items | ConvertTo-Json -Depth 10 | Out-File -Encoding UTF8 -FilePath $outputFile
+    $sortedItems | ConvertTo-Json -Depth 10 | Out-File -Encoding UTF8 -FilePath $outputFile
 
     Write-Host "Saved to $outputFile"
 }

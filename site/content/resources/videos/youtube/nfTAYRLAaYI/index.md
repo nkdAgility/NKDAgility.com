@@ -25,6 +25,7 @@ tags:
 - Agile Frameworks
 - Software Development
 - Operational Practices
+- Definition of Workflow
 - Transparency
 ResourceId: nfTAYRLAaYI
 ResourceImport: true

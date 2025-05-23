@@ -3015,5 +3015,43 @@
     "reasoning": "The content is exclusively focused on Test Driven Development, elaborating on principles, benefits, and alignment with Agile, but has no direct or indirect mention of Sprint Review or its unique practices. There is no exploration of roles, feedback, or review processes described in the classification. Audience overlap (software practitioners) is incidental and not targeted toward Sprint Review participants. The signal-to-noise ratio is modestly positive due to professional tone and focus, but entirely off-category. No penalties applied as there is no outdated or satirical material.",
     "reasoning_summary": "This content centers on TDD and its relation to quality and Agile, without referencing Sprint Review concepts or practices. It doesn't fit the Sprint Review category, aside from generally targeting practitioners. Confidence is very low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Test Driven Development",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:46",
+    "ai_confidence": 5.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.8,
+    "ai_intent": 1.8,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content exclusively discusses Test Driven Development (TDD), focusing on its principles, benefits, alignment with Agile, and impact on code quality. There are no references—direct or indirect—to Definition of Workflow, Kanban, policies, flow of work, WIP limits, or explicit process agreements. The themes do not align with the scope of Definition of Workflow, as they remain centered on testing strategies and coding rather than process policies or workflow visualization. Audience overlap is minimal, as the target is technical practitioners, but not specifically those interested in Kanban workflow policies.",
+    "reasoning_summary": "This content does not align with the Definition of Workflow category. It solely covers Test Driven Development concepts, without reference to workflow policies, flow management, or Kanban/agile workflow definitions.",
+    "level": "Ignored"
+  },
+  "Ethos": {
+    "resourceId": "Test Driven Development",
+    "category": "Ethos",
+    "calculated_at": "2025-05-23T22:06:47",
+    "ai_confidence": 36.35,
+    "ai_mentions": 1.6,
+    "ai_alignment": 4.8,
+    "ai_depth": 4.4,
+    "ai_intent": 3.6,
+    "ai_audience": 4.9,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content primarily explores the practice of TDD, its procedural value, and its alignment with Agile principles, focusing on practices, benefits, and outcomes. There is some abstract mention of a 'culture of quality' and accountability, partially relating to ethos, but the discussion does not directly address foundational system-level convictions or the demonstrable ethos underpinning Agile, DevOps, or Lean. The bulk of the content stays at the level of process, benefits, and mindset, rather than delving into ethos as the driver of sustainable delivery or system coherence. There are no direct mentions of 'ethos,' nor a substantial exploration of how ethos manifests beneath TDD and its organizational impact.",
+    "reasoning_summary": "This content discusses TDD as a practice and connects it to team culture and Agile principles, but it does not directly engage with Ethos or foundational system-level convictions. Its emphasis is procedural and cultural, not focused on demonstrable ethos.",
+    "level": "Ignored"
   }
 }

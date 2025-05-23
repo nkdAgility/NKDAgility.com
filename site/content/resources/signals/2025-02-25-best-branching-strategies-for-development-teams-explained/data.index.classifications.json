@@ -3247,5 +3247,24 @@
     "reasoning": "The content addresses a central engineering practice—branching strategies—directly relevant to coding standards, CI/CD, and streamlined delivery. It critiques outdated methods, suggests modern practices (feature flags, progressive rollout), and urges teams to improve. Explicit category mention is low, but conceptual match and intent are strong, with clear technical focus and audience. Discussion is practical but concise, lacking deep metrics or process detail.",
     "reasoning_summary": "The piece challenges outdated branching, advocating modern practices like feature flags and progressive rollouts for faster, safer delivery. It's well-aligned with engineering excellence, clearly targets technical teams, and encourages better development practices, though it's brief and not deeply technical.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "9EP_gF2nD19",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:19",
+    "ai_confidence": 11.27,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 3.3,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is focused exclusively on branching strategies in software development and critiques environment-based branching while advocating for feature flags and progressive rollouts. There are no direct or indirect mentions of Kanban, Definition of Workflow, or explicit workflow policies. The article discusses 'work in progress' branches, but only as part of a branching philosophy, not as part of agile or Kanban process visualization or management. No details on entry/exit criteria, WIP limits, or collaborative workflow definition. The audience is likely technical development teams (some overlap with agile practitioners), but content is off-scope for the targeted category.",
+    "reasoning_summary": "This content analyzes branching strategies and code delivery practices but does not address the Definition of Workflow in Kanban/agile contexts. There’s no substantial alignment with the category’s focus on workflow agreements, policies, or flow visualization.",
+    "level": "Ignored"
   }
 }
