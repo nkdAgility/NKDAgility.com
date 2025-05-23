@@ -28,10 +28,10 @@ Instructions: |-
   - Descriptions of isolated practices that lack cross-cutting, enabling impact.
 headline:
   cards: []
-  title: Capability
-  subtitle: Empowering teams with enduring skills to deliver consistent value through adaptive and sustainable practices.
-  content: A Capability embodies the essential skills and knowledge that empower teams to consistently deliver value while adapting to changing circumstances. It encompasses practices related to workflow optimisation, continuous improvement, and effective collaboration, fostering a culture of learning and resilience within organisations.
-  updated: 2025-04-09T11:20:55Z
+  title: 'Capability: Building Enduring Team Competence for Sustainable Value Delivery'
+  subtitle: Building enduring team strengths and organisational competencies for consistent, adaptive value delivery through collaboration, learning, and continuous improvement.
+  content: Persistent organisational strengths that enable teams to deliver value predictably and adaptively, encompassing systemic learning, collaboration, continuous improvement, and alignment with strategic goals. Topics include skill development, knowledge sharing, feedback loops, measurable progress, cross-functional cohesion, and evolving practices for navigating complexity and driving sustainable outcomes.
+  updated: 2025-05-23T22:50:21Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

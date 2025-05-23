@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to the management of a portfolio of projects, such as operational management, team-level Agile practices, or unrelated business strategies that do not focus on the alignment of strategy with execution.
 headline:
   cards: []
-  title: Portfolio Management
-  subtitle: Streamline strategic alignment and investment prioritisation to enhance value delivery and foster organisational responsiveness.
-  content: Facilitate strategic coherence and investment optimisation to maximise value delivery and enhance organisational adaptability. Posts should explore prioritisation frameworks, value stream mapping, performance metrics, and the interplay between strategy and execution, drawing insights from complexity theory and evidence-based management principles.
-  updated: 2025-02-13T12:03:31Z
+  title: 'Portfolio Management (PPM): Strategically Prioritising Initiatives for Maximum Value Delivery'
+  subtitle: Strategic oversight for prioritising, balancing, and steering initiatives to maximise organisational value, adaptability, and sustainable performance across all workstreams
+  content: Encompasses strategic selection, prioritisation, and oversight of initiatives to optimise organisational outcomes, balancing risk, value, and resource allocation. Covers value stream optimisation, evidence-based decision-making, transparency, continuous improvement, systemic thinking, and managing interdependencies, drawing on frameworks and thought leadership from product development, systems thinking, and complexity science.
+  updated: 2025-05-23T22:58:04Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

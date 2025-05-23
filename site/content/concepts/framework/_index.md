@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated methodologies, personal opinions on frameworks, or misinterpretations of the core principles of Agile, DevOps, and Lean philosophies. Also exclude content that only focuses on the contents of a framework.
 headline:
   cards: []
-  title: Framework
-  subtitle: A flexible structure offering guidelines for effective team collaboration and project delivery across various methodologies and practices.
-  content: A structured approach that balances defined guidelines with adaptability, enabling teams to enhance collaboration and optimise project outcomes. Posts should explore methodologies, roles, metrics, and tools that facilitate continuous improvement, stakeholder engagement, and effective decision-making in complex environments.
-  updated: 2025-03-19T12:18:16Z
+  title: 'Framework: Structured Flexibility for Sustainable Team Success'
+  subtitle: Structured blueprints and guiding principles for adaptable team collaboration, value delivery, and continuous improvement across product, service, and organisational contexts
+  content: Structured approaches that provide adaptable guidelines and principles for organising work, fostering shared understanding, and enabling teams to deliver value predictably. Topics include process design, roles, events, artefacts, continuous improvement, collaboration, and the integration of methods and practices to address complexity and drive sustainable outcomes.
+  updated: 2025-05-23T22:51:46Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

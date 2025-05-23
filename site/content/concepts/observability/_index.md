@@ -28,10 +28,10 @@ Instructions: |-
   - Content that does not align with Agile, DevOps, or Lean principles
 headline:
   cards: []
-  title: Observability
-  subtitle: Enhancing transparency and insight into workflows for informed decision-making and continuous improvement across teams, products, and the business.
-  content: Observability encompasses the collection and analysis of data to enhance understanding of workflows and value delivery. It fosters transparency, enabling teams to make informed decisions and drive continuous improvement. Relevant topics include metrics, flow efficiency, feedback loops, and the interplay between systems, teams, products, and business outcomes.
-  updated: 2025-04-09T13:32:57Z
+  title: 'Observability (O11y): Unlocking Holistic Insights for Predictable, Data-Driven Value Delivery'
+  subtitle: Gain end-to-end visibility into workflows, team dynamics, and outcomes to drive transparency, rapid learning, and continuous improvement across your organisation.
+  content: Explores how comprehensive system insights support transparency, rapid feedback, and adaptive decision-making. Covers telemetry, flow analysis, value stream visibility, team dynamics, and alignment with organisational goals, drawing on data-driven approaches to enhance predictability, resilience, and continuous improvement across technical and human dimensions.
+  updated: 2025-05-23T22:49:30Z
 BodyContentGenDate: 2025-04-09T13:33:01
 sitemap:
   filename: sitemap.xml

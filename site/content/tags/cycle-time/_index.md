@@ -26,10 +26,10 @@ Instructions: |-
   - Content that focuses on unrelated metrics or concepts outside the scope of workflow efficiency.
 headline:
   cards: []
-  title: Cycle Time
-  subtitle: Measuring the duration from initiation to completion of tasks to enhance workflow efficiency and optimise performance.
-  content: Measuring the time taken to complete a work item from initiation to delivery, this classification aids in identifying bottlenecks and enhancing workflow. Relevant topics include task prioritisation, throughput analysis, process optimisation, and the impact of variability on performance, drawing insights from various methodologies and frameworks.
-  updated: 2025-02-13T12:05:12Z
+  title: 'Cycle Time (CT): Accelerating Value Delivery Through Workflow Optimisation'
+  subtitle: Measuring and optimising end-to-end workflow duration to boost efficiency, identify bottlenecks, and enable data-driven improvements in value delivery
+  content: Explores the measurement and analysis of the time required to complete work items from start to finish, highlighting techniques for identifying bottlenecks, improving flow efficiency, supporting empirical forecasting, and enabling continuous improvement across product development, service delivery, and organisational workflows. Emphasises actionable insights for predictability and responsiveness.
+  updated: 2025-05-23T22:48:12Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

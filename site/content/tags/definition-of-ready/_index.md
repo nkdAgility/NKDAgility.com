@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of the DoR that deviate from its purpose of ensuring actionable standards for sprint planning.
 headline:
   cards: []
-  title: Definition of Ready
-  subtitle: Establishing clear criteria for backlog items to ensure readiness for effective planning and execution in iterative workflows.
-  content: Establishing actionable criteria for backlog items ensures they are well-defined and ready for prioritisation and execution. Posts should explore techniques for clarifying requirements, enhancing collaboration, and improving workflow efficiency, drawing insights from frameworks and methodologies that support iterative development and continuous improvement.
-  updated: 2025-02-13T12:05:02Z
+  title: 'Definition of Ready (DoR): Ensuring Clarity Without Compromising Agile Adaptability'
+  subtitle: Establishing clear, shared criteria for backlog item readiness to improve team alignment, reduce misunderstandings, and support effective delivery and refinement practices
+  content: Explores the criteria and collaborative understanding required for backlog items to be actionable, including outcome clarity, hypothesis formulation, and telemetry. Examines refinement, stakeholder alignment, INVEST attributes, and the risks of false readiness, drawing on evidence-informed practices and complexity thinking to support effective product delivery.
+  updated: 2025-05-23T22:49:04Z
 aliases:
 - /practices/Definition-of-Ready-DoR.html
 - /learn/agile-delivery-kit/practices/definition-of-ready-dor

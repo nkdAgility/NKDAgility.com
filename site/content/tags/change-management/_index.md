@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any discussions that focus on unrelated topics such as project management methodologies that do not incorporate Agile principles, superficial change initiatives that lack depth, or any content that misrepresents the core philosophies of change management in the context of Agile and DevOps.
 headline:
   cards: []
-  title: Change Management
-  subtitle: Navigating organisational shifts to foster genuine transformation and sustainable practices without falling into superficial change.
-  content: Facilitating authentic organisational transformation by reshaping mindsets and processes, this classification emphasises sustainable practices over superficial changes. It encompasses topics such as continuous improvement, stakeholder engagement, adaptive leadership, and the integration of evidence-based decision-making to navigate complexity and foster resilience in dynamic environments.
-  updated: 2025-02-13T12:05:38Z
+  title: 'Change Management: Guiding Teams Through Sustainable Transformation and Lasting Engagement'
+  subtitle: Guiding people and organisations through effective transitions, fostering engagement, resilience, and sustainable improvement in response to evolving challenges and opportunities
+  content: Guiding people and organisations through transitions by addressing cultural, behavioural, and systemic factors. Covers stakeholder engagement, communication strategies, leadership alignment, overcoming resistance, sustaining improvements, and fostering adaptability—drawing on insights from systems thinking, continuous improvement, complexity theory, and evidence-based approaches to enable lasting transformation.
+  updated: 2025-05-23T22:57:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

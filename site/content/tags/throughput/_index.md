@@ -25,10 +25,10 @@ Instructions: |-
   - Content that uses throughput as a proxy for personal productivity
 headline:
   cards: []
-  title: Throughput
-  subtitle: Measure the efficiency of work completion over time to enhance flow and delivery performance in your processes.
-  content: Throughput is a core observability metric that quantifies the volume of work completed over time. It is used to inspect system flow, detect bottlenecks, and inform empirical decision-making. Content should explore throughput trends, visualisations, and its relationship to other flow-based metrics such as lead time and cycle time.
-  updated: 2025-04-09T14:41:28Z
+  title: 'Throughput: Optimising Flow and Uncovering Bottlenecks for Continuous Improvement'
+  subtitle: Measuring and visualising the flow of completed work to identify trends, remove bottlenecks, and drive continuous improvement across teams and systems
+  content: Measures the volume of completed work within a set timeframe, enabling teams to evaluate delivery flow, identify constraints, and assess the impact of process changes. Topics include system-level performance, flow visualisation, empirical feedback, workflow adjustments, and the interplay with metrics like lead time and cycle time.
+  updated: 2025-05-23T22:49:34Z
 BodyContentGenDate: 2025-04-09T14:41:33
 sitemap:
   filename: sitemap.xml

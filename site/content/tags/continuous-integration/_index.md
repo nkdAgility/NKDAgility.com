@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated topics such as project management methodologies outside of CI, personal opinions on software development, or any misinterpretations of CI principles that do not align with established theories and practices.
 headline:
   cards: []
-  title: Continuous Integration
-  subtitle: Streamline development processes by merging code frequently, identifying issues early, and ensuring a robust and reliable codebase.
-  content: Facilitate rapid and reliable software development by integrating code changes frequently. Emphasise early error detection, automated testing, and seamless collaboration to enhance code quality and team efficiency. Explore topics such as version control, build automation, testing frameworks, and deployment strategies to ensure a resilient software delivery pipeline.
-  updated: 2025-02-13T12:05:27Z
+  title: 'Continuous Integration (CI): Automating Collaboration for Faster, Higher-Quality Releases'
+  subtitle: Streamlining code integration and automated testing for rapid feedback, early issue detection, and smoother collaboration in modern software delivery teams
+  content: Encompasses automated build and verification workflows, rapid feedback loops, frequent code integration, and early defect detection. Explores collaborative development, workflow visualisation, flow efficiency, and empirical measurement, drawing on principles from systems thinking, continuous improvement, and adaptive response to changing requirements.
+  updated: 2025-05-23T22:46:49Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

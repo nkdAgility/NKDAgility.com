@@ -27,10 +27,10 @@ Instructions: |-
   - Content that does not align with Agile, Lean, or evidence-based management principles.
 headline:
   cards: []
-  title: MVP
-  subtitle: Streamline product development by creating essential features to validate ideas and assess market fit efficiently.
-  content: A Minimum Viable Product serves as a foundational version of a product, designed to gather user feedback and validate core assumptions with minimal resources. Posts should explore user-centric design, iterative development, rapid prototyping, and techniques for measuring market response and learning from user interactions.
-  updated: 2025-02-13T12:03:45Z
+  title: 'Minimum Viable Product (MVP): Accelerating Learning Through Focused Early Releases'
+  subtitle: Strategies and insights for building, testing, and iterating early product versions to validate ideas, gather feedback, and drive continuous improvement and value delivery
+  content: Explores strategies for delivering early product versions with essential features to validate assumptions, gather user feedback, and inform iterative development. Covers hypothesis-driven delivery, rapid experimentation, cross-functional collaboration, value optimisation, and continuous improvement, drawing on empirical measurement, systems thinking, and adaptive approaches to manage uncertainty and complexity.
+  updated: 2025-05-23T22:56:20Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

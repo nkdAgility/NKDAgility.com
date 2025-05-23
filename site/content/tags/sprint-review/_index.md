@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** unrelated content such as general Agile principles not specific to Sprint Reviews, discussions on other Scrum events (like Sprint Planning or Daily Scrum), or misinterpretations of the review process that do not align with the Scrum Guide or the philosophies of its founders.
 headline:
   cards: []
-  title: Sprint Review
-  subtitle: Facilitating stakeholder engagement and iterative improvement through transparent evaluation of progress and outcomes.
-  content: A collaborative session for evaluating the increment, fostering stakeholder engagement, and gathering feedback to inform future work. Posts should explore techniques for effective communication, methods for assessing progress, and strategies for incorporating insights into subsequent iterations, enhancing overall project transparency and alignment with stakeholder needs.
-  updated: 2025-02-13T12:02:12Z
+  title: 'Sprint Review: Maximising Value Through Transparent Collaboration and Real-Time Feedback (Scrum)'
+  subtitle: Explore effective practices, stakeholder engagement, and continuous improvement strategies for maximising value and transparency during the Sprint Review event.
+  content: Explores the collaborative review of completed work, stakeholder engagement, and adaptation of future priorities. Covers effective feedback loops, transparency, value delivery, and continuous improvement, drawing on empirical process control, systems thinking, and real-time learning to ensure product evolution aligns with customer needs and organisational goals.
+  updated: 2025-05-23T22:54:28Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

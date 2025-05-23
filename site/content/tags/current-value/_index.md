@@ -25,10 +25,10 @@ Instructions: |-
   - Content that focuses on theoretical concepts without practical application or measurement of Current Value
 headline:
   cards: []
-  title: Current Value (CV)
-  subtitle: Assessing real-time value through key indicators to enhance product and service delivery effectiveness.
-  content: Current Value encompasses a suite of indicators that evaluate the immediate benefits a product or service provides. It includes metrics such as customer satisfaction, financial performance, and operational efficiency, enabling organisations to gauge real-time impact and make informed decisions to enhance delivery and stakeholder value.
-  updated: 2025-04-10T14:21:08Z
+  title: 'Current Value (CV): Measuring Real-Time Impact to Drive Continuous Customer-Centric Improvement'
+  subtitle: Measuring and monitoring the real-time impact, satisfaction, and outcomes delivered to users, enabling continuous improvement and data-driven decision-making.
+  content: Current Value highlights the immediate, measurable benefits a product or service delivers to users, including customer satisfaction, financial outcomes, and performance insights. Posts explore data-driven evaluation, feedback loops, outcome measurement, and adaptive decision-making to ensure offerings remain relevant and impactful in rapidly changing environments.
+  updated: 2025-05-23T22:57:38Z
 BodyContentGenDate: 2025-04-10T14:21:14
 sitemap:
   filename: sitemap.xml

@@ -26,10 +26,10 @@ Instructions: |-
   - Content that does not relate to testing ideas or validating assumptions within Agile workflows.
 headline:
   cards: []
-  title: Experimentation
-  subtitle: Driving innovation through hypothesis testing and validation to enhance workflows and decision-making.
-  content: Utilising hypothesis-driven methodologies to rigorously test concepts and validate assumptions enhances decision-making and workflow efficiency. Posts should explore techniques for experimentation, metrics for success, iterative learning, and the integration of feedback loops within complex systems to foster continuous improvement and innovation.
-  updated: 2025-02-13T12:04:28Z
+  title: 'Experimentation: Hypothesis-Driven Learning for Agile Value Delivery'
+  subtitle: Driving innovation and improvement through hypothesis-driven testing, empirical validation, and iterative learning to reduce uncertainty and enhance product outcomes
+  content: Explores hypothesis-driven approaches for testing ideas, validating assumptions, and reducing uncertainty through empirical feedback. Covers iterative cycles, feedback loops, scientific thinking, measurement, and learning from failure to drive continuous improvement, adaptability, and innovation in product development, process optimisation, and organisational change.
+  updated: 2025-05-23T22:49:00Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

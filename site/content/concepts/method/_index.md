@@ -27,10 +27,10 @@ Instructions: |-
   - Content that focuses on tools or software rather than the structured procedural approach
 headline:
   cards: []
-  title: Method
-  subtitle: Structured procedures and techniques for achieving goals through systematic steps in Agile, Lean, and DevOps environments.
-  content: A method is a structured, step-by-step approach used to achieve specific outcomes. It provides clear, repeatable processes for problem-solving, product development, and improvement within a system.
-  updated: 2025-04-09T14:00:00
+  title: 'Method: Stepwise Execution for Consistent Value Delivery'
+  subtitle: Step-by-step procedures and systematic approaches for achieving goals, optimising workflows, and enabling continuous improvement across collaborative teams and projects
+  content: Structured, repeatable procedures designed to achieve defined outcomes by breaking down complex work into actionable steps. Covers systematic approaches such as iterative cycles, workflow visualisation, feedback loops, and continuous delivery, enabling teams to optimise processes, adapt to change, and measure progress for consistent, value-driven results.
+  updated: 2025-05-23T22:51:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

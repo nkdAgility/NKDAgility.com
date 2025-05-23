@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to Azure Pipelines, such as general DevOps principles without specific reference to Azure, unrelated cloud services, or non-technical topics. Misinterpretations of Azure Pipelines, such as discussions solely focused on Azure infrastructure without mentioning pipelines, should also be excluded.
 headline:
   cards: []
-  title: Azure Pipelines
-  subtitle: Streamlining software delivery through automated workflows for efficient builds, testing, and deployment processes.
-  content: Automating the software delivery lifecycle enhances collaboration and accelerates time-to-market. Posts should explore continuous integration, continuous deployment, and the integration of testing within workflows, while addressing the principles of flow, feedback, and iterative improvement to optimise delivery efficiency and quality.
-  updated: 2025-02-13T12:05:52Z
+  title: 'Azure Pipelines (CI/CD): Automating Delivery for Sustainable, High-Quality Software Releases'
+  subtitle: Automating build, test, and deployment workflows for faster, more reliable software delivery and enhanced team collaboration across the development lifecycle
+  content: Explores automated workflows for building, testing, and deploying software using cloud-based pipelines, with emphasis on continuous integration, delivery, and feedback. Covers pipeline configuration, integration with version control, traceability, quality gates, deployment strategies, and metrics that support iterative improvement, transparency, and rapid value delivery across diverse environments.
+  updated: 2025-05-23T22:48:00Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

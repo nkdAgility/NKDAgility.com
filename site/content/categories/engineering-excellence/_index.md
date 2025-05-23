@@ -28,10 +28,10 @@ Instructions: |-
   - Content that focuses solely on non-technical aspects of team dynamics or organisational culture without a direct link to engineering practices.
 headline:
   cards: []
-  title: Engineering Excellence
-  subtitle: Fostering superior software practices and craftsmanship for sustainable development and continuous improvement.
-  content: Cultivating a culture of quality in software development, this classification emphasises practices that enhance collaboration, efficiency, and adaptability. Topics include process optimisation, team dynamics, continuous feedback, and the integration of metrics to inform decision-making, fostering an environment of ongoing learning and improvement.
-  updated: 2025-02-13T12:04:48Z
+  title: 'Engineering Excellence: Building Predictable, Scalable, and Resilient Software Systems'
+  subtitle: Elevating software quality, maintainability, and scalability through continuous improvement, technical rigor, and data-driven practices for sustainable delivery.
+  content: Explores disciplined software delivery through craftsmanship, automation, technical debt management, and data-driven improvement. Covers resilient architecture, embedded security, and transparent metrics, drawing on continuous flow, empirical process control, and systems thinking to support sustainable, adaptable, and high-value outcomes across evolving product and organisational landscapes.
+  updated: 2025-05-23T22:47:16Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

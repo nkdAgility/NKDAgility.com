@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated software development practices, personal opinions on tools without evidence, or any content that does not directly relate to the enhancement of collaboration within Agile teams.
 headline:
   cards: []
-  title: Collaboration Tools
-  subtitle: Empowering seamless communication and coordination for high-performing teams across various methodologies and frameworks.
-  content: Tools that enhance communication and streamline coordination, enabling teams to adapt and respond effectively to changing demands. Posts should explore integration techniques, visual management, workflow optimisation, and the impact of these tools on team dynamics and performance in various project environments.
-  updated: 2025-02-13T12:05:33Z
+  title: 'Collaboration Tools: Empowering Agile Teams for Seamless Communication and Continuous Improvement'
+  subtitle: Platforms and practices that empower teams to communicate, coordinate, and share knowledge seamlessly for transparent workflows, rapid feedback, and continuous improvement
+  content: Encompasses digital platforms and systems that enable real-time communication, information sharing, task coordination, and feedback within teams. Covers tools supporting transparency, progress tracking, distributed work, iterative improvement, and collective decision-making, drawing on principles from product development, systems thinking, and empirical process control.
+  updated: 2025-05-23T22:52:13Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

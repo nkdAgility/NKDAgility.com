@@ -26,10 +26,10 @@ Instructions: |-
   - Content that does not align with the principles of collaboration, transparency, and iterative improvement inherent in Agile philosophy.
 headline:
   cards: []
-  title: Backlog Refinement
-  subtitle: Enhance project clarity and execution readiness through effective prioritisation and definition of tasks in your workflow.
-  content: Enhance project execution by ensuring tasks are clearly defined, prioritised, and ready for implementation. Posts should explore techniques for effective task management, prioritisation frameworks, stakeholder engagement, and the impact of well-structured workflows on team performance and delivery outcomes.
-  updated: 2025-02-13T12:05:45Z
+  title: 'Backlog Refinement: Clarifying Priorities for Predictable Agile Delivery'
+  subtitle: Ensuring clarity, alignment, and readiness of work items through collaborative review, prioritisation, and continuous improvement for predictable value delivery
+  content: Ensures work items are clearly defined, prioritised, and ready for delivery through collaborative clarification, estimation, and adaptation. Covers effective stakeholder engagement, reducing ambiguity, supporting flow, enabling responsive planning, and fostering continuous improvement to align outcomes with organisational goals and evolving customer needs.
+  updated: 2025-05-23T22:51:33Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

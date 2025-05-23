@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated topics such as general Agile methodologies, Scrum practices, or specific programming languages that do not pertain to the concept of Internal Developer Platforms. Misinterpretations of IDPs as merely a collection of tools without the context of streamlining development processes should also be avoided.
 headline:
   cards: []
-  title: Internal Developer Platform
-  subtitle: Streamlining development workflows for efficient application building, testing, and deployment in a controlled environment.
-  content: An Internal Developer Platform enhances software delivery by providing a unified environment for teams to manage the entire application lifecycle. Posts should explore topics such as workflow optimisation, infrastructure management, automation techniques, and collaboration strategies, fostering a culture of continuous improvement and efficiency.
-  updated: 2025-02-24T13:04:48Z
+  title: 'Internal Developer Platform (IDP): Empowering Teams for Rapid, Reliable Software Delivery'
+  subtitle: Empowering teams with unified platforms to streamline software delivery, automate workflows, and foster rapid, reliable innovation across the development lifecycle
+  content: A unified environment that integrates tools and services to streamline software delivery, reduce operational friction, and standardise workflows. Topics include platform engineering, self-service capabilities, automation, developer experience, workflow optimisation, governance, and aligning technical practices with organisational goals for faster, more reliable value delivery.
+  updated: 2025-05-23T22:48:36Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

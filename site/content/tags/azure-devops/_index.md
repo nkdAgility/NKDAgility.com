@@ -27,10 +27,10 @@ Instructions: |-
   - Personal opinions or experiences that do not provide insights into Azure DevOps functionalities or practices
 headline:
   cards: []
-  title: Azure DevOps
-  subtitle: Streamline collaboration and delivery with integrated tools for continuous improvement and effective project management.
-  content: A comprehensive suite of tools designed to enhance collaboration, streamline workflows, and facilitate continuous delivery. Posts should explore practices in project management, team dynamics, process optimisation, and metrics for performance evaluation, drawing insights from established methodologies and frameworks in software development and organisational management.
-  updated: 2025-02-13T11:59:54Z
+  title: 'Azure DevOps (ADO): Unifying Teams for Seamless CI/CD and Agile Delivery'
+  subtitle: Guidance and insights on leveraging Microsoft’s unified platform for streamlined software delivery, team collaboration, and continuous improvement at scale
+  content: Explores Microsoft’s integrated platform for orchestrating software delivery, including work item tracking, version control, automated pipelines, and test management. Covers collaborative workflows, transparency, feedback loops, measurement, and continuous improvement, supporting adaptive planning, flow optimisation, and value delivery in complex, evolving environments.
+  updated: 2025-05-23T22:50:01Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

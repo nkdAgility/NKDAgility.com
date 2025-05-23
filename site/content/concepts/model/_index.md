@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of their application or relevance in Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: Model
-  subtitle: Conceptual frameworks for understanding systems and challenges, drawing insights from methodologies like Agile, Lean, and DevOps.
-  content: Models represent conceptual frameworks used to understand, analyse, and improve systems or processes. They help teams navigate complexity and improve decision-making by providing clear visualisations of relationships and outcomes.
-  updated: 2025-03-19T12:18:03Z
+  title: 'Model: Simplifying Complexity for Informed Agile Decision-Making'
+  subtitle: Conceptual tools that simplify complexity, enabling teams to visualise systems, enhance collaboration, and inform decisions through shared understanding and systems thinking.
+  content: Conceptual representations that simplify complex systems, enabling teams to visualise relationships, analyse dynamics, and support informed decision-making. Posts explore models such as Cynefin, Kanban flow, Theory of Constraints, and systems thinking, highlighting their role in fostering shared understanding, adaptability, and continuous improvement within product and delivery environments.
+  updated: 2025-05-23T22:54:50Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -22,10 +22,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to the application of AI in Agile, DevOps, or software development, including general AI technology discussions that lack a specific focus on these methodologies.
 headline:
   cards: []
-  title: AI
-  subtitle: Harness intelligent solutions to drive informed choices, streamline processes, and foster innovation in software development and project management.
-  content: Utilise intelligent solutions to improve decision-making, automate workflows, and stimulate innovation in project management and software development. Posts should explore topics such as process optimisation, performance metrics, team dynamics, and the integration of technology to enhance collaboration and efficiency.
-  updated: 2025-02-13T12:06:06Z
+  title: 'Artificial Intelligence (AI): Empowering Agile Teams with Data-Driven Decision-Making'
+  subtitle: Exploring how intelligent systems drive innovation, streamline workflows, and empower teams to deliver value and adapt in fast-changing product environments.
+  content: Explores the application of machine intelligence to enhance organisational performance, including automation, predictive analytics, workflow optimisation, and data-driven decision-making. Covers topics such as continuous improvement, innovation, adaptive systems, and the integration of intelligent tools to support responsive, value-focused product and service delivery.
+  updated: 2025-05-23T22:52:42Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -26,10 +26,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of technical leadership, such as unrelated management theories, non-agile methodologies, or personal anecdotes that do not contribute to the understanding of technical leadership in an agile context.
 headline:
   cards: []
-  title: Technical Leadership
-  subtitle: Empowering teams through expert guidance and best practices for effective software development and delivery.
-  content: Empowering development teams through strategic guidance and technical expertise, fostering collaboration and innovation. Posts should explore effective methodologies, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from industry thought leaders and frameworks to enhance delivery and adaptability in complex environments.
-  updated: 2025-02-13T12:01:49Z
+  title: 'Technical Leadership: Guiding Teams to Technical Excellence and Sustainable Innovation'
+  subtitle: Guiding teams in technical decision-making, architecture, and innovation to deliver high-quality, sustainable solutions aligned with organisational and customer goals.
+  content: Guiding teams in technical decision-making, architecture, and implementation to achieve sustainable value delivery. Emphasises systemic thinking, continuous improvement, and cross-disciplinary collaboration. Covers topics such as technical mentoring, architectural stewardship, quality assurance, risk management, and aligning technical solutions with organisational strategy and customer needs in complex environments.
+  updated: 2025-05-23T22:46:26Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

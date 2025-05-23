@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of TDD, such as general software development practices that do not specifically address the TDD methodology, or unrelated testing strategies that do not involve the TDD cycle.
 headline:
   cards: []
-  title: Test Driven Development
-  subtitle: Enhancing software quality through automated testing to inform design decisions and foster continuous improvement.
-  content: Automated testing shapes software design by ensuring code quality and facilitating iterative improvements. Posts should explore the integration of tests in the development process, the impact on design decisions, and the role of feedback loops in enhancing product reliability and responsiveness to change.
-  updated: 2025-02-13T12:01:41Z
+  title: 'Test Driven Development (TDD): Building Quality In from the First Line of Code'
+  subtitle: Ensuring software reliability and adaptability by guiding development with automated tests, fostering quality, accountability, and continuous improvement from the start
+  content: Emphasises writing automated tests before code to clarify requirements, guide design, and ensure reliability. Covers iterative development, refactoring with safety nets, continuous improvement, technical excellence, and sustainable delivery. Explores impacts on team collaboration, adaptability, and maintaining stakeholder trust through robust, test-driven workflows and measurable outcomes.
+  updated: 2025-05-23T22:47:24Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

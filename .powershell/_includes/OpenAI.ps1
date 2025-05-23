@@ -23,7 +23,7 @@ function Call-OpenAI {
 
     # Set default system prompt if not provided
     if ([string]::IsNullOrEmpty($system)) {
-        $system = "You are a technical expert assistant that generates high-quality, structured content based on code, git diffs, or git logs using the GitMoji specification. You follow UK English conventions."
+        $system = "You are an expert in Generative Experience Optimisation within Agile, Scrum, DevOps, and Evidence-Based Management contexts."
     }
 
     # Create the body for the API request
@@ -217,7 +217,7 @@ $batchesInProgressMax = 10;
 function Submit-OpenAIBatch {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
-        [string]$Model = "gpt-4.1",
+        [string]$Model = "gpt-4.5",
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )
@@ -249,7 +249,7 @@ function Submit-OpenAIBatch {
             body      = @{
                 model      = $Model
                 messages   = @(
-                    @{ role = "system"; content = "You are a helpful assistant." },
+                    @{ role = "system"; content = "You are an expert in Generative Experience Optimisation within Agile, Scrum, DevOps, and Evidence-Based Management contexts." },
                     @{ role = "user"; content = $_ }
                 )
                 max_tokens = 5000
@@ -328,7 +328,7 @@ function Cancel-OpenAIBatch {
 function Submit-And-Wait-OpenAIBatch {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
-        [string]$Model = "gpt-4.1",
+        [string]$Model = "gpt-4.5",
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )

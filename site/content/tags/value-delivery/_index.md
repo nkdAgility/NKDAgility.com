@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on unrelated topics such as project management methodologies outside Agile, technical implementation details without a value context, or personal opinions that do not align with established theories and philosophies of value delivery.
 headline:
   cards: []
-  title: Value Delivery
-  subtitle: Strategies for delivering consistent value through iterative processes and informed decision-making for enhanced customer satisfaction.
-  content: Approaches for delivering consistent value through iterative processes, informed decision-making, and continuous improvement. Posts should explore topics such as customer feedback integration, prioritisation techniques, flow optimisation, performance measurement, and adapting to changing requirements, all aimed at enhancing customer satisfaction and organisational effectiveness.
-  updated: 2025-02-13T11:58:32Z
+  title: 'Value Delivery: Iterative Outcomes That Drive Customer Satisfaction and Organisational Resilience'
+  subtitle: Ensuring consistent, customer-focused outcomes through iterative improvement, cross-functional collaboration, and adaptive product development practices
+  content: Encompasses approaches and practices that ensure frequent, incremental delivery of meaningful outcomes aligned with customer needs. Covers topics such as iterative product development, flow optimisation, feedback loops, cross-functional collaboration, waste reduction, and continuous adaptation, supporting sustained improvement and responsiveness throughout the entire product lifecycle.
+  updated: 2025-05-23T22:52:29Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

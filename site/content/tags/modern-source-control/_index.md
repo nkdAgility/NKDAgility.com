@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to version control practices, such as general software development methodologies, project management frameworks, or unrelated technical topics.
 headline:
   cards: []
-  title: Modern Source Control
-  subtitle: Optimising version control and branching techniques for efficient software development and collaboration.
-  content: Effective version control and branching strategies are essential for enhancing collaboration and streamlining software development workflows. Posts should explore topics such as repository management, conflict resolution, integration techniques, and the impact of version control on team dynamics and project delivery.
-  updated: 2025-02-13T12:03:47Z
+  title: 'Modern Source Control (Git): Branching Strategies for Agile Collaboration and Rapid Delivery'
+  subtitle: Enabling collaborative, efficient code management and delivery through effective versioning, branching strategies, and integration with continuous workflows
+  content: Encompasses practices for managing code changes, collaboration, and traceability through versioning and branching. Covers workflows that support parallel development, rapid feedback, and integration pipelines, enabling teams to maintain quality, reduce cycle time, and adapt to evolving requirements while ensuring transparency and accountability in software delivery.
+  updated: 2025-05-23T22:48:51Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -28,10 +28,10 @@ Instructions: |-
   - Content that does not align with the philosophies of Agile, Lean, or Evidence-Based Management
 headline:
   cards: []
-  title: Continuous Improvement
-  subtitle: Fostering a culture of reflection and adaptation to enhance processes, products, and team effectiveness through evidence-driven practices.
-  content: A commitment to ongoing reflection and adaptation, this classification emphasises the importance of using empirical evidence to enhance processes, products, and team dynamics. It encompasses topics such as performance evaluation, proactive experimentation, rapid feedback loops, and fostering a culture of learning to drive sustainable organisational success.
-  updated: 2025-03-21T13:28:32Z
+  title: 'Continuous Improvement (CI): Embedding Kaizen for Lasting Agility and Organisational Resilience'
+  subtitle: Guiding organisations to evolve through reflection, data-driven adaptation, and incremental change—empowering teams to deliver greater value in dynamic environments.
+  content: Explores the ongoing pursuit of incremental enhancements through reflection, empirical evaluation, and adaptive change. Covers topics such as feedback loops, experimentation, retrospectives, workflow visualisation, data-driven decision-making, and fostering a culture of learning, drawing on insights from systems thinking, complexity, and continuous value delivery.
+  updated: 2025-05-23T22:50:40Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

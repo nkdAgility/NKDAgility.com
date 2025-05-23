@@ -26,10 +26,10 @@ Instructions: |-
   - Topics unrelated to organisational agility or collaborative change processes
 headline:
   cards: []
-  title: Open Space Agile
-  subtitle: Fostering collaborative transformation through self-organisation and emergent dialogue for authentic engagement and shared ownership.
-  content: An approach to organisational transformation that leverages self-organisation and collaborative dialogue, enabling teams to define their own priorities and actions. It emphasises psychological safety, shared ownership, and responsiveness to real needs, fostering an environment where change emerges organically and adaptively through iterative engagement.
-  updated: 2025-04-10T14:45:18Z
+  title: 'Open Space Agile (OSA): Empowering Collective Ownership for Lasting Organisational Agility'
+  subtitle: Empowering organisations to co-create change through self-organisation, inclusive dialogue, and emergent practices for sustainable transformation and innovation
+  content: Explores participatory transformation methods inspired by Open Space Technology, emphasising self-organisation, distributed leadership, and collective sense-making. Topics include psychological safety, emergent change, shared ownership, adaptive group dynamics, and collaborative decision-making, with connections to complexity theory, continuous improvement, and evidence-based approaches to organisational evolution.
+  updated: 2025-05-23T22:51:42Z
 ResourceId: U-6FN9nj1fM
 aliases:
 - /methods/open-space-agile/

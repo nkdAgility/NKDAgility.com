@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the management and implications of technical debt, such as unrelated software development practices, general project management topics, or misinterpretations of Agile and DevOps principles that do not consider the long-term sustainability of the codebase.
 headline:
   cards: []
-  title: Technical Debt
-  subtitle: Navigating and minimising code liabilities to ensure consistent development flow and enhance project sustainability.
-  content: A critical examination of code liabilities that hinder development efficiency and project longevity. Posts should explore strategies for identifying, prioritising, and addressing these liabilities, as well as their impact on team performance, product quality, and overall organisational health.
-  updated: 2025-02-13T12:01:54Z
+  title: 'Technical Debt: Minimising Hidden Costs to Sustain Agile Innovation'
+  subtitle: Understanding, identifying, and addressing the hidden costs of quick fixes in software development to ensure sustainable delivery, quality, and adaptability.
+  content: Explores the causes, impact, and management of suboptimal technical decisions that create future rework, including code quality, refactoring, documentation gaps, and outdated systems. Covers strategies for visibility, prioritisation, and reduction to sustain flow, adaptability, and product quality in evolving, value-driven environments.
+  updated: 2025-05-23T22:46:38Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

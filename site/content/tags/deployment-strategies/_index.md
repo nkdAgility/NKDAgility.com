@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the methodologies of deploying software, such as general software development practices, project management techniques unrelated to deployment, or theoretical discussions that do not provide actionable insights into deployment strategies.
 headline:
   cards: []
-  title: Deployment Strategies
-  subtitle: Optimising software release methods to enhance delivery speed while minimising potential risks.
-  content: Strategies for deploying software encompass methods that enhance the speed of delivery while effectively managing associated risks. Posts should explore techniques such as continuous integration, automated testing, release planning, and feedback loops, emphasising the importance of adaptability and responsiveness in dynamic environments.
-  updated: 2025-02-13T12:04:57Z
+  title: 'Deployment Strategies: Minimising Risk and Accelerating Value with Proven Release Techniques'
+  subtitle: Approaches for releasing software safely and efficiently, enabling rapid feedback, continuous improvement, and resilient value delivery through strategic releases
+  content: Systematic approaches for releasing software that minimise risk and maximise value delivery, including incremental rollouts, controlled exposure, and rapid rollback techniques. Emphasises predictability, rapid feedback, operational resilience, and continuous improvement, supporting adaptive responses to change and fostering shared ownership across product, engineering, and operations teams.
+  updated: 2025-05-23T22:48:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

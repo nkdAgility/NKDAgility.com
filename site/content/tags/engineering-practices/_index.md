@@ -22,10 +22,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core principles of Agile engineering practices, such as project management methodologies unrelated to software development, non-technical topics, or personal opinions that do not align with established Agile philosophies.
 headline:
   cards: []
-  title: Engineering Practices
-  subtitle: 'Best practices for software development: prioritising quality, automation, and iterative improvement for effective delivery and team collaboration.'
-  content: Practices that enhance software quality and team efficiency through principles of clean code, automation, and iterative development. Posts should explore topics such as continuous integration, testing methodologies, code reviews, and collaborative workflows, fostering an environment of ongoing improvement and effective delivery.
-  updated: 2025-02-13T12:04:44Z
+  title: 'Engineering Practices: Elevating Software Quality Through Agile Technical Excellence'
+  subtitle: Techniques and methodologies for building reliable, maintainable software—covering clean code, automation, test-first development, and continuous improvement.
+  content: Covers disciplined technical approaches such as clean code, refactoring, test-first development, automation, and continuous integration. Emphasises maintainability, rapid feedback, and flow efficiency, supporting sustainable delivery, reduced waste, and adaptability. Integrates quality-focused techniques that align technical work with business outcomes and foster a culture of learning and improvement.
+  updated: 2025-05-23T22:47:20Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

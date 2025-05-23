@@ -26,10 +26,10 @@ Instructions: |-
   - Discussions unrelated to the formal accountability defined in the Scrum Guide
 headline:
   cards: []
-  title: Scrum Team
-  subtitle: Optimising teamwork dynamics for enhanced collaboration and performance in high-functioning project environments.
-  content: A Scrum Team is an accountability defined by the Scrum Guide, responsible for delivering value every Sprint. Posts under this tag focus on the structure, responsibility, and unique characteristics of Scrum Teams, including how they operate as a self-managing, cross-functional unit. Content should reinforce the distinction between the Scrum Team as an accountable entity and the practices or tools it may use.
-  updated: 2025-02-13T12:02:40Z
+  title: 'Scrum Team (Scrum): Empowering Collective Accountability for High-Impact Product Delivery'
+  subtitle: Exploring the structure, roles, and collective responsibilities of teams delivering value through collaboration, self-management, and continuous product improvement
+  content: Explores the structure, dynamics, and collective responsibilities of teams delivering value through iterative, incremental work. Covers self-management, cross-functionality, shared accountability, stakeholder collaboration, and continuous improvement, drawing on insights from product delivery, organisational design, complexity theory, and evidence-based approaches to team effectiveness.
+  updated: 2025-05-23T22:57:22Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

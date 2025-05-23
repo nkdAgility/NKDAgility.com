@@ -21,10 +21,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to these values or misinterpretations of their significance within the Scrum framework. Avoid content that focuses on unrelated Agile practices, technical implementations, or personal opinions that do not align with the foundational principles of Scrum as outlined in the Scrum Guide.
 headline:
   cards: []
-  title: Scrum Values
-  subtitle: Core principles fostering teamwork and trust, essential for effective collaboration and continuous improvement in project delivery.
-  content: Core values that underpin effective teamwork and collaboration, fostering an environment of trust and transparency. Posts should explore the significance of commitment, courage, focus, openness, and respect in enhancing team dynamics, driving continuous improvement, and navigating complex project landscapes.
-  updated: 2025-02-13T12:02:38Z
+  title: 'Scrum Values: Building Trust and Accountability for High-Performing Teams'
+  subtitle: Explore the core principles—commitment, courage, focus, openness, and respect—that foster trust, collaboration, and sustainable value delivery in teams.
+  content: Explores the foundational principles of commitment, courage, focus, openness, and respect, highlighting their role in fostering trust, accountability, and collaboration. Covers how these values drive effective teamwork, continuous improvement, and adaptability in complex environments, supporting sustainable value delivery and alignment with organisational objectives.
+  updated: 2025-05-23T22:52:50Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

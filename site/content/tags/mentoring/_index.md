@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to the mentoring process, such as technical implementation details, project management tools, or unrelated business strategies that do not align with the core principles of Agile and its methodologies.
 headline:
   cards: []
-  title: Mentoring
-  subtitle: Empowering professionals through tailored guidance and coaching for effective leadership and continuous improvement.
-  content: Support for professionals seeking to enhance their leadership capabilities and foster a culture of continuous improvement. Posts should explore effective coaching techniques, the role of mentorship in team dynamics, and strategies for navigating complex organisational challenges, drawing insights from established frameworks and thought leaders.
-  updated: 2025-02-13T12:03:50Z
+  title: 'Mentoring: Cultivating Continuous Growth and Resilience in Agile Teams'
+  subtitle: Guidance, support, and knowledge sharing to nurture growth, critical thinking, and continuous learning for resilient, high-performing teams in modern product development
+  content: Guidance and support from experienced professionals to nurture growth, critical thinking, and continuous learning. Topics include skill development, knowledge transfer, psychological safety, fostering ownership, long-term professional growth, navigating complexity, and aligning individual aspirations with organisational goals in collaborative, adaptive, and evidence-driven environments.
+  updated: 2025-05-23T22:52:37Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

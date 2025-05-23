@@ -24,10 +24,10 @@ Instructions: |-
   - Motivational or cultural principles without systemic evidence
 headline:
   cards: []
-  title: Team Performance
-  subtitle: Enhancing collaboration and effectiveness in teams through proven practices and frameworks for optimal performance.
-  content: Team performance is a delivery capability that reflects how well a team consistently delivers outcomes over time. This includes analysis of delivery patterns, system constraints, and collaboration effectiveness within the team’s system of work. Posts should explore how to inspect, measure, and improve team-level throughput, predictability, and value delivery.
-  updated: 2025-04-09T13:22:00Z
+  title: 'Team Performance: Systemic Approaches to Consistent Delivery and Sustainable Improvement'
+  subtitle: Insights and practices for building consistently effective teams through system design, flow metrics, collaboration patterns, and continuous improvement in delivery.
+  content: Explores how teams achieve reliable, adaptive delivery through system design, flow optimisation, and empirical feedback. Covers delivery patterns, collaboration dynamics, skill alignment, work-in-progress limits, and visibility into blockers, drawing on flow metrics, retrospectives, and evidence-based approaches to identify and sustain improvements in team outcomes.
+  updated: 2025-05-23T22:50:49Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

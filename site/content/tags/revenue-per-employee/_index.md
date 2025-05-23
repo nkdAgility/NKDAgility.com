@@ -26,10 +26,10 @@ Instructions: |-
   - Unstructured commentary without metric-based analysis
 headline:
   cards: []
-  title: Revenue per Employee
-  subtitle: Observe financial efficiency and workforce trends through a core operational metric.
-  content: Revenue per Employee is a systemic metric used to inspect how effectively an organisation converts workforce capacity into revenue. Posts under this tag should explore trends, comparisons, and patterns derived from this financial signal. Emphasis is on using this data to inform decisions, detect system inefficiencies, and monitor the long-term impact of strategic or operational change.
-  updated: 2025-04-09T13:40:00Z
+  title: 'Revenue per Employee (RPE): Uncovering Systemic Efficiency for Strategic Organisational Growth'
+  subtitle: Measuring organisational financial efficiency and systemic performance by tracking how workforce capacity translates into revenue, supporting data-driven decision making
+  content: Explores how financial efficiency is measured by dividing total revenue by workforce size, enabling systemic analysis of organisational throughput, productivity, and alignment. Covers empirical inspection, strategic planning, delivery constraints, and the impact of structural or operational changes, drawing on evidence-based and flow-oriented management perspectives.
+  updated: 2025-05-23T22:57:48Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

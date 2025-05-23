@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to Azure Repos, such as general discussions on Agile methodologies, unrelated DevOps tools, or non-source control topics. Misinterpretations of Azure Repos functionalities or comparisons with other version control systems without a direct link to Azure Repos should also be avoided.
 headline:
   cards: []
-  title: Azure Repos
-  subtitle: Streamline source control and collaboration for efficient software development and delivery in modern teams.
-  content: Facilitate effective source control and collaboration within software development teams, enabling streamlined workflows and enhanced code quality. Posts should explore versioning strategies, branching models, integration techniques, and the impact of collaborative practices on team dynamics and project outcomes.
-  updated: 2025-02-13T12:05:48Z
+  title: 'Azure Repos: Streamlining Collaborative Code Management in Azure DevOps (Azure Repos)'
+  subtitle: Centralised code collaboration and version control for streamlined development, quality assurance, and transparent teamwork within the Azure ecosystem
+  content: Centralised source control for collaborative software development, covering repository management, branching strategies, code reviews, pull requests, traceability, and integration with delivery pipelines. Emphasises transparency, accountability, and rapid feedback to support iterative delivery, continuous improvement, and effective value delivery in complex, evolving environments.
+  updated: 2025-05-23T22:49:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

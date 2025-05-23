@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on rigid project management methodologies, traditional hierarchical structures that inhibit change, or any content that misinterprets the core principles of agility as merely speed without the accompanying cultural and structural shifts.
 headline:
   cards: []
-  title: Organisational Agility
-  subtitle: Empowering organisations to swiftly respond to change, enhance customer satisfaction, and seize new opportunities through effective strategies.
-  content: A dynamic approach enabling organisations to swiftly navigate shifting market landscapes and evolving customer expectations. Posts should explore frameworks for continuous improvement, effective prioritisation, team collaboration, and decision-making under uncertainty, drawing insights from systems thinking, flow management, and empirical evidence to enhance organisational responsiveness.
-  updated: 2025-02-13T11:59:06Z
+  title: 'Organisational Agility: Embedding Flexibility for Sustainable Competitive Advantage'
+  subtitle: Strategies, mindsets, and practices for building responsive, innovative organisations that adapt to change, foster collaboration, and deliver lasting value.
+  content: Encompasses organisational structures, mindsets, and practices that enable rapid adaptation, continuous improvement, and cross-functional collaboration. Covers topics such as systemic change, value delivery, flow optimisation, empirical decision-making, breaking down silos, proactive change management, and fostering innovation to sustain resilience and customer satisfaction in dynamic environments.
+  updated: 2025-05-23T22:58:09Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

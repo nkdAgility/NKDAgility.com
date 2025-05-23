@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions on manual testing, unrelated software development practices, or misinterpretations of automated testing principles that do not align with the Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: Automated Testing
-  subtitle: Enhance software reliability and speed up delivery by automating tests to identify issues early and minimise manual intervention.
-  content: Enhancing software quality through systematic testing practices enables early detection of defects, reduces reliance on manual processes, and streamlines the delivery pipeline. Posts should explore test automation frameworks, integration strategies, continuous testing methodologies, and the impact of testing on overall project efficiency and team dynamics.
-  updated: 2025-02-13T12:06:00Z
+  title: 'Automated Testing (AT): Accelerating Quality and Value Through Continuous Feedback'
+  subtitle: Ensuring software quality and rapid feedback by systematically automating tests, enabling early issue detection, continuous improvement, and reliable value delivery.
+  content: Automated Testing encompasses systematic test execution using automation tools to ensure software reliability, rapid feedback, and early defect detection. Topics include test design, integration in delivery pipelines, shift-left strategies, continuous feedback, quality metrics, and the impact on flow efficiency, predictability, and organisational adaptability in complex environments.
+  updated: 2025-05-23T22:47:43Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -27,10 +27,10 @@ Instructions: |-
   - Content that strays from core tenets of Agile, Lean, DevOps, or Evidence-Based Management.
 headline:
   cards: []
-  title: Tenet
-  subtitle: Guiding principles that translate high-level philosophies into actionable rules, driving decision-making and team behaviour.
-  content: Tenets are actionable, specific guiding rules that provide clarity and direction, enabling teams to implement philosophies in practice. They bridge the gap between abstract beliefs and daily decision-making.
-  updated: 2025-04-09T14:00:00
+  title: 'Tenet: Actionable Rules for Consistent Team Behaviour and Organisational Alignment'
+  subtitle: Prescriptive rules that translate organisational philosophies into consistent team actions, guiding decision-making and fostering adaptability, cohesion, and improvement.
+  content: Prescriptive rules that translate overarching philosophies into concrete team actions, guiding decision-making, workflow, and collaboration. Encompasses doctrines such as prioritising flow, decentralised authority, continuous improvement, and empirical adaptation, ensuring consistent, responsive, and cohesive behaviours across product development, organisational design, and complex adaptive systems.
+  updated: 2025-05-23T22:54:57Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

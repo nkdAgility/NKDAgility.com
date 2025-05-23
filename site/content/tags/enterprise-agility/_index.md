@@ -27,10 +27,10 @@ Instructions: |-
   - Content that does not address the broader implications of agility on organisational performance and culture
 headline:
   cards: []
-  title: Enterprise Agility
-  subtitle: Driving organisational responsiveness and adaptability through effective frameworks and practices for holistic transformation.
-  content: Fostering organisational responsiveness and adaptability through frameworks and practices that enhance collaboration, optimise workflows, and promote continuous improvement. Posts should explore topics such as systems thinking, value stream mapping, team dynamics, performance metrics, and the integration of feedback loops for sustained transformation.
-  updated: 2025-02-13T11:59:36Z
+  title: 'Enterprise Agility: Scaling Adaptive Culture for Sustainable Organisational Success'
+  subtitle: Strategies and practices for building adaptive, customer-focused organisations through systemic change, continuous improvement, and cross-functional collaboration at scale
+  content: Explores organisational adaptability at scale, covering systemic change, continuous improvement, cross-functional collaboration, and value delivery across all levels. Includes topics such as cultural transformation, flow optimisation, leadership evolution, evidence-based decision-making, dismantling silos, and navigating complexity to achieve sustainable responsiveness and alignment with evolving customer and market needs.
+  updated: 2025-05-23T22:55:36Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

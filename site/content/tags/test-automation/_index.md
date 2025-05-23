@@ -26,10 +26,10 @@ Instructions: |-
   - Content that does not align with Agile, DevOps, or the principles of continuous improvement in testing.
 headline:
   cards: []
-  title: Test Automation
-  subtitle: Streamlining software testing processes to enhance quality and speed up feedback for continuous improvement and delivery.
-  content: Automating software testing enhances product quality and accelerates feedback loops, enabling teams to respond swiftly to changes. Posts should explore tools, frameworks, integration strategies, and the impact of automation on team dynamics and delivery cycles, fostering a culture of continuous improvement and efficiency.
-  updated: 2025-02-13T12:01:44Z
+  title: 'Test Automation: Accelerating Quality and Confidence Through Continuous Feedback (CI/CD)'
+  subtitle: Accelerating quality and feedback by integrating automated testing into development workflows for faster, more reliable releases and continuous improvement.
+  content: Automated testing accelerates feedback on code changes, supports frequent and reliable software releases, and integrates quality checks throughout the development lifecycle. Topics include test strategy, tool selection, maintainability, integration with delivery pipelines, feedback loops, defect detection, measurement, and continuous improvement in collaborative, cross-functional environments.
+  updated: 2025-05-23T22:48:57Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

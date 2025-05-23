@@ -27,10 +27,10 @@ Instructions: |-
   - Content that does not address the broader implications of Agile as a mindset or ethos
 headline:
   cards: []
-  title: Agile Philosophy
-  subtitle: Explore the guiding principles of value delivery, fostering adaptability and collaboration within teams and organisations for sustainable success.
-  content: Explore the principles of iterative improvement and collaborative teamwork, emphasising the importance of customer value and responsiveness to change. Posts should delve into practices that enhance transparency, foster continuous learning, and address complexity in organisational processes, drawing insights from various frameworks and methodologies.
-  updated: 2025-02-13T12:06:26Z
+  title: 'Agile Philosophy: Cultivating Adaptive Mindsets for Lasting Organisational Resilience'
+  subtitle: Exploring the mindset that drives adaptability, collaboration, and customer focus in product development, guiding teams toward continuous improvement and value delivery
+  content: Explores the mindset underpinning adaptive product development, emphasising iterative value delivery, customer focus, and collaborative culture. Covers principles, values, and practices that foster continuous improvement, experimentation, and shared ownership, drawing on thought leaders and frameworks that promote responsiveness, learning, and alignment with evolving organisational and market needs.
+  updated: 2025-05-23T22:52:16Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

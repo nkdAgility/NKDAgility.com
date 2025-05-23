@@ -26,10 +26,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to the principles of Agile transformation, such as unrelated project management methodologies, non-Agile frameworks, or general business strategies that do not incorporate Agile philosophies.
 headline:
   cards: []
-  title: Agile Transformation
-  subtitle: Empower your organisation to embrace change, enhance collaboration, and foster a culture of continuous improvement for lasting success.
-  content: Cultivate a culture of adaptability and responsiveness within your organisation. Explore strategies for mindset shifts, process evolution, and enhanced collaboration. Posts should delve into frameworks, metrics for success, and techniques for navigating complexity, ultimately driving sustainable improvement and value delivery.
-  updated: 2025-02-13T12:06:13Z
+  title: 'Agile Transformation: Cultivating Organisational Agility for Lasting Competitive Advantage'
+  subtitle: Guidance and insights for evolving organisational culture, mindset, and practices to enable adaptability, collaboration, and continuous improvement at every level
+  content: Explores the comprehensive shift in organisational culture, mindset, and operations to enable adaptability, continuous improvement, and value delivery. Covers systemic change, leadership alignment, iterative approaches, customer focus, feedback loops, self-organisation, and the integration of diverse frameworks, drawing on thought leaders in flow, systems thinking, and complexity.
+  updated: 2025-05-23T22:55:20Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

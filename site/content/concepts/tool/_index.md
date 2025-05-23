@@ -25,10 +25,10 @@ Instructions: |-
   - Tools without practical application or alignment with Agile, Lean, or DevOps practices.
 headline:
   cards: []
-  title: Tool
-  subtitle: Tools that enable the application of methods and practices, enhancing collaboration and improving productivity.
-  content: Tools are mechanisms, techniques, or software that enable teams to implement methods and practices effectively. Posts should explore how tools support workflows, facilitate decision-making, and contribute to continuous improvement in various frameworks.
-  updated: 2025-04-09T14:00:00
+  title: 'Tool: Enabling Agile and DevOps Excellence Through Smart Workflow Integration'
+  subtitle: Mechanisms, techniques, and software that empower teams to collaborate, manage workflows, automate processes, and enhance continuous improvement in product delivery
+  content: Mechanisms, techniques, or software that enable teams to visualise work, manage flow, automate tasks, and support collaboration. Posts explore selection, integration, and effective use of tools for workflow transparency, feedback loops, measurement, and continuous improvement within product development, delivery, and organisational change contexts.
+  updated: 2025-05-23T22:56:16Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

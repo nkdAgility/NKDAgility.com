@@ -26,10 +26,10 @@ Instructions: |-
   - Content that focuses solely on documentation rather than delivering **functional software**.
 headline:
   cards: []
-  title: Increment
-  subtitle: Delivering working, valuable software incrementally to meet customer needs and market demands.
-  content: Increment represents the **tangible output** of a Scrum team at the end of each Sprint, delivering working software that adds value to the product. Posts should explore how the Increment embodies Agile principles, encourages continuous delivery, and enables fast feedback cycles.
-  updated: 2025-04-09T16:42:59Z
+  title: 'Increment (Scrum): Delivering Tangible Value with Every Iteration'
+  subtitle: Showcasing completed, usable outcomes from each iteration to enable transparency, feedback, and continuous value delivery throughout product development.
+  content: Covers the creation, inspection, and evolution of deliverable outputs at the end of each iteration, emphasizing transparency, measurable value, and adaptability. Explores practices for ensuring work is usable, aligns with stakeholder needs, supports continuous feedback, and enables responsive decision-making across iterative and flow-based delivery systems.
+  updated: 2025-05-23T22:48:22Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

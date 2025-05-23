@@ -27,10 +27,10 @@ Instructions: |-
   - Misinterpretations of principles as vague philosophies or abstract values.
 headline:
   cards: []
-  title: Principle
-  subtitle: Guiding beliefs and actionable rules that shape decision-making, team behaviours, and organisational culture.
-  content: Principles are the fundamental beliefs that guide decision-making and team behaviours, ensuring alignment with the organisation's goals and values. Posts should focus on actionable principles that help teams navigate complexity and continuously improve.
-  updated: 2025-04-09T14:00:00
+  title: 'Principle: Actionable Guidelines for Navigating Complexity and Driving Team Alignment'
+  subtitle: Core guidelines that inform team actions, drive alignment, and enable effective decision-making in complex, fast-changing environments across all organisational levels
+  content: Fundamental, actionable beliefs that guide organisational decision-making and team behaviour, providing a practical framework for navigating complexity, fostering autonomy, enabling evidence-driven choices, and supporting continuous improvement, adaptability, and alignment with organisational goals across dynamic environments, as emphasised by thought leaders in product development, systems thinking, and empirical management.
+  updated: 2025-05-23T22:57:09Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

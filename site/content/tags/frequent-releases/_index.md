@@ -27,10 +27,10 @@ Instructions: |-
   - Content that does not align with the principles of Agile, DevOps, or Continuous Delivery as defined by the original theorists and practitioners.
 headline:
   cards: []
-  title: Frequent Releases
-  subtitle: Delivering incremental enhancements swiftly to maximise value for users and stakeholders through continuous improvement practices.
-  content: Facilitating the rapid and consistent delivery of enhancements, this classification emphasises practices that promote responsiveness to user feedback and evolving requirements. Posts should explore topics such as iterative development, minimising cycle times, prioritising value delivery, and leveraging metrics for informed decision-making.
-  updated: 2025-02-13T12:04:23Z
+  title: 'Frequent Releases (DevOps): Accelerating Value Delivery Through Incremental Updates'
+  subtitle: Delivering incremental updates for rapid feedback, reduced risk, and continuous value—enabling teams to adapt swiftly and sustain progress in dynamic environments
+  content: Explores the discipline of delivering incremental product updates at a steady cadence, emphasising rapid feedback loops, risk reduction, iterative improvement, and stakeholder transparency. Covers deployment automation, flow efficiency, cycle time reduction, sustainable work pace, and the impact of frequent delivery on organisational adaptability and customer satisfaction.
+  updated: 2025-05-23T22:47:56Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

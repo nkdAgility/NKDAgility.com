@@ -24,10 +24,10 @@ Instructions: |-
   - Role comparisons that do not clarify accountability
 headline:
   cards: []
-  title: Scrum Master
-  subtitle: Empowering teams to enhance their workflows, drive value, and foster continuous improvement through effective leadership and mastery across key domains.
-  content: The Scrum Master is an accountability in Scrum focused on enabling the effectiveness of the Scrum Team and improving the organisation's system of work. Content should centre on the responsibilities, authority, and impact of the Scrum Master within a Scrum context—clarifying what they are accountable for and how they enable empirical product development in complex environments.
-  updated: 2025-03-25T07:35:55Z
+  title: 'Scrum Master (SM): Catalysing Team Effectiveness Through Technical, Business, and Organisational Mastery'
+  subtitle: Guidance, coaching, and leadership for teams and organisations seeking to improve collaboration, delivery, and adaptability through empirical, outcome-driven practices.
+  content: Explores the multifaceted role responsible for enabling team effectiveness, fostering self-management, and driving continuous improvement. Covers coaching, facilitation, technical fluency, business alignment, organisational change, empirical decision-making, and outcome orientation, drawing on influences from complexity theory, systems thinking, and evidence-based approaches to product delivery.
+  updated: 2025-05-23T22:46:42Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

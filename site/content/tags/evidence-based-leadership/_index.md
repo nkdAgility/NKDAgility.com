@@ -26,10 +26,10 @@ Instructions: |-
   - Topics unrelated to leadership, such as technical implementations or specific Agile practices that do not connect to leadership decision-making.
 headline:
   cards: []
-  title: Evidence Based Leadership
-  subtitle: Harnessing data-driven insights to enhance leadership effectiveness and foster continuous improvement in dynamic environments.
-  content: Utilising empirical data to inform leadership strategies enhances decision-making and drives organisational growth. Posts should explore topics such as performance metrics, team dynamics, feedback loops, and adaptive leadership practices, emphasising the importance of evidence in navigating complex environments and fostering a culture of continuous improvement.
-  updated: 2025-02-13T12:04:34Z
+  title: 'Evidence Based Leadership (EBL): Empowering Decisions with Data-Driven Organisational Impact'
+  subtitle: Harnessing data-driven insights and measurable outcomes to guide leadership decisions, foster accountability, and drive continuous organisational improvement.
+  content: Empowering leaders to make informed decisions through empirical data, transparent measurement, and actionable feedback. Topics include data-driven goal setting, outcome-based evaluation, continuous improvement, hypothesis-driven change, adaptive leadership, and fostering cultures of accountability, experimentation, and learning to align strategic intent with measurable organisational results.
+  updated: 2025-05-23T22:55:24Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

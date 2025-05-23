@@ -25,10 +25,10 @@ Instructions: |-
   - Misinterpretations of decision theory that do not align with its core principles, such as deterministic approaches that ignore uncertainty.
 headline:
   cards: []
-  title: Decision Theory
-  subtitle: Navigating choices in uncertain landscapes through insights from heuristics, probability, and human behaviour.
-  content: Exploring the intricacies of decision-making under uncertainty, this classification delves into the application of heuristics, probabilistic reasoning, and insights from behavioural economics. Posts should examine strategies for effective choices, risk assessment, and the influence of cognitive biases in various organisational contexts.
-  updated: 2025-02-13T11:59:45Z
+  title: 'Decision Theory (DT): Navigating Uncertainty with Data-Driven Choices for Agile Success'
+  subtitle: Frameworks and practices for making data-driven, risk-aware choices in complex, fast-changing environments to improve outcomes, adaptability, and value delivery
+  content: Explores systematic approaches to making choices under uncertainty, drawing on probability, heuristics, and behavioural economics. Covers risk assessment, trade-off analysis, empirical evaluation, and structured decision-making, supporting data-driven planning, adaptability, and continuous improvement in complex, fast-changing environments across product development, delivery, and organisational strategy.
+  updated: 2025-05-23T22:56:44Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

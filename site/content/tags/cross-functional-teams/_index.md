@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on unrelated team structures, such as functional teams, or misinterpretations of Agile principles that do not align with the core philosophy of cross-functional collaboration.
 headline:
   cards: []
-  title: Cross Functional Teams
-  subtitle: Empowered teams equipped with diverse skills to deliver comprehensive solutions and drive continuous improvement across projects.
-  content: Teams composed of diverse skill sets collaborate to enhance problem-solving and innovation, ensuring seamless delivery of value. Posts should explore team dynamics, communication strategies, roles and responsibilities, and methods for fostering a culture of continuous improvement and adaptability in complex environments.
-  updated: 2025-02-13T12:05:22Z
+  title: 'Cross Functional Teams (CFT): Uniting Diverse Skills for Seamless Value Delivery'
+  subtitle: Empowering multidisciplinary teams to deliver end-to-end value, foster collaboration, accelerate feedback, and drive continuous improvement across the entire workflow.
+  content: Teams composed of individuals with varied expertise who collectively manage all stages of product delivery, fostering shared ownership, rapid feedback, and adaptive decision-making. Topics include integrated workflows, minimising dependencies, knowledge sharing, systemic collaboration, continuous improvement, and practices that enable responsiveness to evolving needs and complex environments.
+  updated: 2025-05-23T22:49:46Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

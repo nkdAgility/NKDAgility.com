@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of software craftsmanship, such as project management strategies unrelated to technical practices, business agility concepts without a technical focus, or general discussions on team dynamics that do not address engineering excellence.
 headline:
   cards: []
-  title: Technical Mastery
-  subtitle: Elevating software craftsmanship through best practices in architecture, engineering, and continuous improvement methodologies.
-  content: Cultivating expertise in software development through a focus on architectural integrity, engineering precision, and iterative enhancement. Posts explore methodologies for optimising workflows, fostering collaboration, and implementing effective feedback loops, while addressing the complexities of project management and team dynamics in a rapidly evolving technological landscape.
-  updated: 2025-02-13T12:01:46Z
+  title: 'Technical Mastery: Elevating Engineering Excellence for Sustainable Value Delivery'
+  subtitle: Elevating software craftsmanship, architecture, and engineering practices to deliver sustainable, high-quality solutions through continuous learning and technical excellence
+  content: Explores advanced software engineering, architecture, and craftsmanship, including code quality, automation, continuous integration, test-driven development, technical debt reduction, and sustainable delivery. Emphasises skill development, effective collaboration, and adaptive problem-solving to ensure maintainable, high-value solutions in complex, evolving environments.
+  updated: 2025-05-23T22:47:12Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -26,10 +26,10 @@ Instructions: |-
   - Topics unrelated to Agile, Scrum, or the principles of empirical process control, such as unrelated business strategies or non-Agile methodologies.
 headline:
   cards: []
-  title: Empirical Process Control
-  subtitle: Harnessing insights through observation and transparency to drive informed decision-making and continuous improvement.
-  content: Utilising data-driven insights to enhance processes and outcomes, this classification emphasises the importance of regular evaluation and transparency. Posts should explore topics such as iterative improvement, performance metrics, feedback loops, and the role of collaboration in fostering a culture of continuous learning and adaptation.
-  updated: 2025-02-13T12:04:52Z
+  title: 'Empirical Process Control (EPC): Turning Real-World Data into Continuous Improvement'
+  subtitle: Harnessing observation, feedback, and experimentation to drive continuous improvement, informed decision-making, and adaptive value delivery in complex environments
+  content: Empirical Process Control encompasses iterative adaptation through transparency, inspection, and evidence-driven adjustments. Posts explore real-world experimentation, feedback loops, hypothesis validation, and data-informed decision-making, drawing on concepts from flow theory, systems thinking, complexity science, and continuous improvement to enhance predictability, responsiveness, and value delivery in dynamic environments.
+  updated: 2025-05-23T22:50:57Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

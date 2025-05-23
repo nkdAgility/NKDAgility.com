@@ -29,10 +29,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to the principles and practices of Site Reliability Engineering, such as general software development practices, unrelated DevOps topics, or Agile methodologies that do not specifically address reliability in production systems.
 headline:
   cards: []
-  title: Site Reliability Engineering
-  subtitle: Ensuring robust and scalable systems through engineering practices and continuous improvement methodologies.
-  content: Integrating software engineering principles with operational practices to enhance system reliability and scalability. Posts should explore incident management, performance monitoring, automation strategies, and the cultural aspects of collaboration between development and operations teams, fostering a proactive approach to system resilience and user satisfaction.
-  updated: 2025-02-13T12:02:19Z
+  title: 'Site Reliability Engineering (SRE): Engineering Resilience for Scalable, Reliable Systems'
+  subtitle: Engineering resilient, scalable systems through automation, measurement, and shared responsibility—bridging development and operations for continuous, reliable delivery.
+  content: Explores the disciplined engineering of resilient, scalable systems through automation, observability, incident response, and continuous improvement. Emphasises shared responsibility, measurable reliability, and proactive risk management, integrating feedback loops, transparency, and data-driven decision-making to align technical operations with organisational goals and customer outcomes.
+  updated: 2025-05-23T22:47:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

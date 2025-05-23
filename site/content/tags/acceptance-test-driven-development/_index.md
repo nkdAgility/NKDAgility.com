@@ -27,10 +27,10 @@ Instructions: |-
   - Topics unrelated to acceptance criteria, such as coding practices or design patterns that do not directly relate to ATDD principles.
 headline:
   cards: []
-  title: Acceptance Test Driven Development
-  subtitle: Ensure software quality by defining clear, testable criteria before development, aligning outcomes with business objectives and user needs.
-  content: Establish a framework for software development that prioritises quality through the definition of clear, testable criteria prior to implementation. Emphasise collaboration among stakeholders to ensure that outcomes meet user needs and business objectives, while fostering a culture of continuous improvement and adaptability.
-  updated: 2025-02-13T12:06:36Z
+  title: 'Acceptance Test Driven Development (ATDD): Building Shared Understanding for Predictable Value Delivery'
+  subtitle: Ensuring shared understanding and quality by defining testable acceptance criteria upfront, fostering collaboration, early feedback, and continuous improvement in delivery
+  content: Explores collaborative specification of acceptance criteria before development, fostering shared understanding among stakeholders. Covers techniques for early validation, reducing rework, and integrating quality from the outset. Includes stakeholder alignment, shift-left testing, continuous feedback, and adaptability to evolving requirements, drawing on principles from Scrum, Kanban, and evidence-based improvement.
+  updated: 2025-05-23T22:47:48Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of sociotechnical principles that neglect the importance of both elements in software delivery.
 headline:
   cards: []
-  title: Sociotechnical Systems
-  subtitle: Exploring the interplay between technology and organisational dynamics to enhance software delivery and team performance.
-  content: Exploring the intricate relationships between technology and organisational frameworks, this classification delves into practices that enhance software delivery and team dynamics. Topics include workflow optimisation, team collaboration, performance metrics, and the impact of organisational culture on technology adoption and innovation.
-  updated: 2025-02-13T11:58:42Z
+  title: 'Sociotechnical Systems (STS): Harmonising People and Technology for Sustainable Team Performance'
+  subtitle: Exploring the synergy between people, processes, and technology to optimise team performance, value delivery, and organisational adaptability in complex environments
+  content: Explores the dynamic relationship between people, processes, and technology in product development, emphasising how organisational culture, communication, workflow design, and technical infrastructure interact to influence team performance, adaptability, and value delivery. Includes systemic thinking, continuous improvement, and the impact of social-technical alignment on sustainable outcomes.
+  updated: 2025-05-23T22:48:47Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

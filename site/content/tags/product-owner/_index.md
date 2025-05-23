@@ -25,10 +25,10 @@ Instructions: |-
   - Content that confuses the **Product Owner's accountability** with other roles, such as the Scrum Master or Development Team.
 headline:
   cards: []
-  title: Product Owner
-  subtitle: Maximising product value through strategic prioritisation and ensuring alignment with stakeholders for optimal delivery.
-  content: The Product Owner is accountable for maximising product value by prioritising the product backlog, aligning stakeholder needs, and ensuring the development team delivers value incrementally. Posts should explore strategies for balancing stakeholder expectations, team collaboration, and value-driven decisions.
-  updated: 2025-04-09T13:29:06Z
+  title: 'Product Owner (PO): Strategic Value Delivery Through Evidence-Based Backlog Optimisation'
+  subtitle: Guidance, practices, and insights for those accountable for product value—covering prioritisation, stakeholder collaboration, and evidence-based decision-making.
+  content: Explores the strategic responsibilities of maximising product value through prioritisation, stakeholder collaboration, and evidence-based decision-making. Covers backlog management, outcome ownership, value delivery, customer alignment, and adapting to change, drawing on thought leadership from product development, systems thinking, and empirical management frameworks.
+  updated: 2025-05-23T22:55:55Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

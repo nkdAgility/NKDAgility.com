@@ -25,10 +25,10 @@ Instructions: |-
   - Content that promotes secrecy or lack of visibility as a means of control or management.
 headline:
   cards: []
-  title: Transparency
-  subtitle: Fostering openness and visibility in processes to enhance trust, accountability, and informed decision-making across teams.
-  content: Promoting openness and visibility in processes cultivates trust and accountability, enabling informed decision-making. Posts should explore practices that enhance communication, foster collaboration, and utilise metrics for continuous improvement, drawing insights from frameworks and methodologies that prioritise adaptability and responsiveness in complex environments.
-  updated: 2025-02-13T12:01:28Z
+  title: 'Transparency: Cultivating Open Collaboration for Agile Team Success'
+  subtitle: Fostering openness and visibility to build trust, enable informed decisions, and drive continuous improvement across teams, workflows, and organisational outcomes.
+  content: Openness and visibility in work processes, decision-making, and outcomes, enabling shared understanding, trust, and accountability. Topics include information radiators, clear metrics, visual workflow, accessible documentation, feedback loops, psychological safety, and fostering environments where challenges, progress, and risks are openly discussed to support informed action and continuous improvement.
+  updated: 2025-05-23T22:51:53Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

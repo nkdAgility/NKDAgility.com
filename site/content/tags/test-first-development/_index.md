@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the principles of Test First Development, such as unrelated software engineering practices, general testing methodologies without a focus on the Test First approach, or misinterpretations of the core concepts.
 headline:
   cards: []
-  title: Test First Development
-  subtitle: Empowering teams to define success upfront, enhancing collaboration and quality through proactive testing and clear criteria before implementation.
-  content: A proactive approach that establishes clear success criteria prior to development, fostering collaboration and quality through defined tests. It encompasses both manual and automated validation, driving design and enabling rapid feedback. This practice enhances alignment on expectations and ensures that development is rooted in tangible customer outcomes.
-  updated: 2025-03-25T07:40:35Z
+  title: 'Test First Development: Defining Success Upfront for Quality and Collaboration'
+  subtitle: Defining success criteria before coding to drive clarity, collaboration, and rapid feedback—enabling quality outcomes through shared understanding and early validation.
+  content: Emphasising early definition of success criteria, this classification covers practices where tests—manual or automated—are created before implementation. Topics include specification by example, executable specifications, feedback loops, collaboration across roles, reducing rework, supporting flow, and aligning development with customer outcomes and empirical measurement.
+  updated: 2025-05-23T22:48:17Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

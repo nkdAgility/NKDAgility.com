@@ -22,10 +22,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of teamwork and collaboration, such as unrelated project management methodologies, personal opinions on team dynamics without a structured approach, or misinterpretations of Agile and Scrum philosophies.
 headline:
   cards: []
-  title: Working Agreements
-  subtitle: Fostering collaborative principles and team norms to enhance productivity and communication in dynamic work environments.
-  content: Establishing collaborative norms and principles enhances team dynamics and productivity. Posts should explore techniques for fostering trust, communication, and accountability, as well as methods for adapting to changing environments and addressing conflicts, drawing insights from complexity theory and evidence-based management.
-  updated: 2025-02-13T12:01:11Z
+  title: 'Working Agreements: Building Team Trust and Accountability for Sustainable Success'
+  subtitle: Guidelines and shared norms that shape team collaboration, communication, and decision-making for effective, adaptive, and value-driven product delivery
+  content: Defines the explicit norms, communication protocols, and decision-making frameworks teams use to foster shared understanding, accountability, and trust. Covers collaborative practices, conflict resolution, self-organisation, adaptation to change, and continuous improvement, drawing on principles from product development, systems thinking, and empirical process control.
+  updated: 2025-05-23T22:54:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

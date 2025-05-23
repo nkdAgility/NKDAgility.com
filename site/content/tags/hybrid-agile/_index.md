@@ -22,10 +22,11 @@ Instructions: |-
 
   **Strictly exclude** discussions that promote Hybrid Agile as a viable long-term strategy, or that misinterpret its core challenges and implications. Avoid content that suggests a simplistic blending of agile and traditional methodologies without critical analysis of the resulting dysfunctions.
 headline:
-  title: Hybrid Agile
-  subtitle: A cautionary pattern where agile language masks control structures.
-  content: Hybrid Agile is often used to describe the selective blending of and agile practices. In reality, it typically reflects a lack of strategic clarity, resulting in conflicting expectations, broken feedback loops, and stalled delivery. Posts under this tag should critically examine the consequences of applying agile vocabulary without the supporting structures, behaviours, or ethos required for effective agility.
-  updated: 2025-04-10T10:45:00Z
+  cards: []
+  title: 'Hybrid Agile: Navigating the Pitfalls of Mixed Methods for True Organisational Agility'
+  subtitle: Examining the pitfalls of mixing adaptive practices with traditional control, exposing how mismatched frameworks undermine flow, feedback, and genuine team empowerment
+  content: Explores the pitfalls of combining iterative delivery practices with traditional project controls, highlighting issues such as conflicting expectations, superficial role adoption, command-and-control persistence, and misalignment between intent and structure. Critiques diluted implementations and emphasizes the need for coherent, feedback-driven systems over tactical compromises.
+  updated: 2025-05-23T22:57:43Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -28,10 +28,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated frameworks (e.g., Kanban, Lean, DevOps) or misinterpretations of Scrum principles that do not align with the original Scrum Guide or the philosophies of its founders.
 headline:
   cards: []
-  title: Scrum
-  subtitle: A framework for collaborative problem-solving that maximises value delivery through iterative learning and continuous improvement.
-  content: A structured approach for fostering collaboration and enhancing team performance, emphasising iterative progress and adaptive planning. Posts should explore team dynamics, roles, ceremonies, and techniques for maximising value delivery, as well as methods for continuous learning and improvement in complex environments.
-  updated: 2025-02-13T21:02:24Z
+  title: 'Scrum: Empowering Teams for Adaptive Value Delivery in Complex Environments (Scrum)'
+  subtitle: Guidance on iterative teamwork, roles, events, and practices for delivering high-value solutions in complex environments through transparency, inspection, and adaptation
+  content: Explores the framework for delivering value in complex environments through empiricism, iterative planning, defined roles, and time-boxed events. Covers team accountabilities, incremental delivery, continuous improvement, and value-driven prioritisation, drawing on thought leadership in product development, complexity theory, and evidence-based organisational change.
+  updated: 2025-05-23T22:54:42Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

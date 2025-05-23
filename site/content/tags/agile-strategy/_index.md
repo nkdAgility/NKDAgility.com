@@ -27,10 +27,10 @@ Instructions: |-
   - Content focused solely on technical practices without strategic context
 headline:
   cards: []
-  title: Agile Strategy
-  subtitle: Align vision and execution to foster adaptability and deliver ongoing value through strategic insights and evidence-based practices.
-  content: Cultivate a resilient organisational framework that enhances strategic alignment and responsiveness to change. Posts should explore practices for continuous improvement, value delivery, and decision-making informed by data, while addressing complexity and fostering a culture of collaboration and learning.
-  updated: 2025-02-13T12:06:15Z
+  title: 'Agile Strategy: Embedding Organisational Agility for Sustainable Value Delivery'
+  subtitle: Integrating vision, execution, and adaptability to foster responsive, customer-focused organisations through collaboration, feedback, and continuous improvement.
+  content: Explores aligning organisational vision with execution through adaptive planning, continuous improvement, and data-driven decision-making. Covers strategic alignment, value delivery, customer focus, cross-functional collaboration, feedback loops, metrics, and cultural transformation, drawing on systems thinking, complexity theory, and evidence-based approaches to navigate uncertainty and drive sustainable outcomes.
+  updated: 2025-05-23T22:53:41Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

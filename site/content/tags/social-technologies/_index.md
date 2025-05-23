@@ -26,10 +26,10 @@ Instructions: |-
   - Content that focuses solely on technical tools without addressing the underlying social frameworks.
 headline:
   cards: []
-  title: Social Technologies
-  subtitle: Empowering collaboration and decision-making through structured approaches for navigating complexity and driving sustainable value creation.
-  content: Social technologies encompass frameworks and methodologies that enhance collaboration, decision-making, and value delivery within organisations. They emphasise self-organisation, adaptability, and continuous improvement, enabling teams to effectively navigate complexity, foster transparency, and leverage collective intelligence to drive innovation and sustainable outcomes in ever-changing environments.
-  updated: 2025-03-19T12:41:59Z
+  title: 'Social Technologies: Cultivating Adaptive Teams Through Collective Intelligence and Self-Organisation'
+  subtitle: Frameworks and philosophies for fostering self-organisation, iterative learning, and shared intelligence to navigate complexity and drive resilient collaboration.
+  content: Explores foundational philosophies that enable teams and organisations to thrive in complex, unpredictable environments through decentralised decision-making, iterative learning, and participatory governance. Topics include self-organisation, empirical inquiry, collective intelligence, emergent order, and sense-making, drawing on thought leadership from product development, systems thinking, and complexity science.
+  updated: 2025-05-23T22:56:30Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

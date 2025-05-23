@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the methodologies and practices of forecasting within Agile and Scrum, such as unrelated project management techniques, non-empirical approaches, or general business strategies that do not focus on Agile principles.
 headline:
   cards: []
-  title: Forecasting
-  subtitle: Empower decision-making through data-driven predictions, risk management, and value optimisation for effective project delivery.
-  content: Utilise empirical data to enhance prediction accuracy for project timelines, enabling informed decision-making and effective risk management. Posts should explore techniques for value optimisation, the impact of variability on delivery, and methods for integrating feedback loops to improve forecasting reliability in complex environments.
-  updated: 2025-02-13T12:04:26Z
+  title: 'Forecasting: Data-Driven Predictability for Agile Delivery Excellence'
+  subtitle: Empowering teams to predict outcomes, manage uncertainty, and optimise value delivery through data-driven insights, historical trends, and continuous improvement practices
+  content: Explores data-driven prediction methods for delivery timelines, risk management, and value optimisation. Covers empirical measurement, flow metrics, capacity planning, and scenario analysis, drawing on historical trends to inform decisions, increase predictability, and support continuous improvement in product development, stakeholder alignment, and organisational adaptability.
+  updated: 2025-05-23T22:47:29Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -25,10 +25,10 @@ Instructions: |-
   - Content focused on unrelated Agile, DevOps, or Lean practices that do not directly address the speed of delivering value to customers.
 headline:
   cards: []
-  title: Time to Market (TtM)
-  subtitle: 'Accelerating Value Delivery: Metrics and Insights for Transforming Ideas into Market-Ready Solutions'
-  content: Time to Market encompasses a suite of metrics assessing the efficiency of transforming concepts into market-ready offerings. It evaluates lead time, cycle time, and overall development duration, highlighting the organisational capability to deliver value swiftly and effectively, while addressing complexities in product development and customer needs.
-  updated: 2025-04-10T14:20:04Z
+  title: 'Time to Market (TTM): Accelerating Idea Delivery for Competitive Advantage'
+  subtitle: Insights and strategies for accelerating idea-to-customer delivery, measuring development flow, and enhancing responsiveness to market and customer needs.
+  content: Measures and strategies for accelerating the journey from concept to customer, including flow efficiency, cycle and lead time, bottleneck identification, feedback loops, and process optimisation. Explores how rapid delivery supports responsiveness, innovation, and adaptability, drawing on flow theory, systems thinking, and empirical process control.
+  updated: 2025-05-23T22:53:23Z
 BodyContentGenDate: 2025-04-10T14:20:08
 sitemap:
   filename: sitemap.xml

@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any content that pertains to non-Windows operating systems, unrelated software applications, or general IT concepts that do not specifically address the Windows environment. Misinterpretations of the Windows operating system's functionalities or comparisons with other operating systems should also be avoided.
 headline:
   cards: []
-  title: Windows
-  subtitle: Comprehensive insights on the Windows operating system, covering setup, management, troubleshooting, and system enhancements.
-  content: The Windows operating system encompasses essential aspects such as installation, configuration, system management, troubleshooting, and security updates. Posts should delve into user experience enhancements, performance optimisation, and integration with various applications, providing practical insights for both novice and experienced users.
-  updated: 2025-02-13T12:01:14Z
+  title: 'Windows: Standardising Development Environments for Agile and DevOps Excellence'
+  subtitle: Enabling consistent, secure, and collaborative software delivery through a unified platform for development, automation, and operational excellence
+  content: Microsoft’s operating system as a foundation for consistent, secure, and automated environments supporting software delivery, collaboration, and rapid feedback. Topics include system configuration, update management, integration with development tools, automation of workflows, and enabling cross-team productivity in complex, evolving organisational contexts.
+  updated: 2025-05-23T22:55:16Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

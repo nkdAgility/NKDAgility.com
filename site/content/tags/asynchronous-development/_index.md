@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any content that focuses on synchronous development practices, traditional co-located team dynamics, or misinterpretations of asynchronous collaboration that do not align with the core principles of effective remote teamwork.
 headline:
   cards: []
-  title: Asynchronous Development
-  subtitle: Enhance collaboration and productivity through flexible workflows that empower distributed teams to thrive in dynamic environments.
-  content: Facilitate effective collaboration across time zones by embracing flexible workflows that prioritise communication and transparency. Posts should explore strategies for managing work in progress, optimising team interactions, and leveraging tools that support distributed environments, enhancing overall productivity and responsiveness to change.
-  updated: 2025-02-13T12:06:02Z
+  title: 'Asynchronous Development: Empowering Distributed Teams for Continuous Value Delivery'
+  subtitle: Empowering distributed teams to deliver value through independent workflows, flexible schedules, and continuous progress—minimising bottlenecks and enhancing collaboration.
+  content: Explores independent, time-shifted collaboration that supports distributed teams, continuous flow, and reduced handoff delays. Covers asynchronous communication, workflow visualisation, work-in-progress limits, documentation, feedback loops, and decision-making, drawing on principles from flow theory, systems thinking, and empirical process control to enhance adaptability and sustainable value delivery.
+  updated: 2025-05-23T22:51:17Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

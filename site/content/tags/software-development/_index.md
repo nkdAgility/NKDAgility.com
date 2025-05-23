@@ -26,10 +26,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to software engineering practices, such as general business management topics, unrelated technology discussions, or personal opinions on software tools without a methodological context.
 headline:
   cards: []
-  title: Software Development
-  subtitle: Innovative practices and frameworks for delivering high-quality software solutions efficiently and effectively.
-  content: A comprehensive exploration of methodologies and frameworks that enhance the delivery of software solutions. Posts should delve into workflow optimisation, team collaboration, iterative development, and continuous improvement, drawing insights from industry thought leaders and established theories to foster effective engineering practices.
-  updated: 2025-02-13T12:02:14Z
+  title: 'Software Development (SD): Systematic Practices for Sustainable Value and Continuous Innovation'
+  subtitle: Systematic approaches, methodologies, and practices for building, delivering, and evolving high-quality software that meets user needs and drives business value.
+  content: Covers systematic approaches to designing, building, testing, and delivering software that aligns with user and business needs. Includes iterative delivery, workflow visualisation, automation, integration, feedback loops, cross-functional collaboration, continuous improvement, and evidence-based decision-making across the entire software lifecycle.
+  updated: 2025-05-23T22:51:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

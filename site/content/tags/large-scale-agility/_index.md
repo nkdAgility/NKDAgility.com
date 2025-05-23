@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus solely on team-level Agile practices, individual Agile methodologies without a scaling context, or unrelated business management theories that do not pertain to the principles of scaling Agile across an organisation.
 headline:
   cards: []
-  title: Large Scale Agility
-  subtitle: Transforming organisations through collaborative frameworks and innovative practices for sustainable growth and adaptability.
-  content: Facilitating enterprise-wide transformation through collaborative frameworks that enhance responsiveness and innovation. Posts should explore systemic practices, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
-  updated: 2025-02-13T12:04:15Z
+  title: 'Large Scale Agility (SAFe/LeSS): Orchestrating Enterprise-Wide Adaptability and Collaboration'
+  subtitle: Strategies, frameworks, and practices for enabling enterprise-wide adaptability, cross-team collaboration, and continuous improvement across complex organisations
+  content: Encompasses the coordination of multiple teams and departments to achieve unified goals, emphasising end-to-end value delivery, organisational alignment, and systemic improvement. Topics include scaling frameworks, cross-team collaboration, flow optimisation, leadership at scale, empirical measurement, and navigating complexity in large, adaptive environments.
+  updated: 2025-05-23T22:54:37Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

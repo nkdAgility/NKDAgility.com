@@ -26,10 +26,10 @@ Instructions: |-
   - Content that does not reference established theories or philosophies related to innovation in the context of Agile, DevOps, or Lean methodologies.
 headline:
   cards: []
-  title: Ability to Innovate (A2I)
-  subtitle: Fostering a Culture of Experimentation and Learning to Enhance Organisational Innovation Capacity
-  content: This classification evaluates an organisation's capacity to generate and sustain innovative solutions through systematic experimentation and learning. It encompasses practices related to idea generation, implementation processes, and the effectiveness of feedback loops, highlighting the importance of a culture that embraces change and continuous improvement.
-  updated: 2025-04-10T14:21:22Z
+  title: 'Ability to Innovate (EBM): Fostering Continuous Experimentation for Sustainable Competitive Advantage'
+  subtitle: Exploring how organisations foster experimentation, learning cycles, and adaptive cultures to consistently deliver new value and sustain competitive advantage
+  content: Explores organisational capacity to generate and sustain new solutions through experimentation, rapid feedback, and continuous learning. Covers topics such as psychological safety, learning cycles, throughput of new ideas, systemic adaptability, and the cultural enablers that support ongoing improvement and responsiveness to evolving customer and market needs.
+  updated: 2025-05-23T22:52:55Z
 BodyContentGenDate: 2025-04-10T14:21:29
 sitemap:
   filename: sitemap.xml

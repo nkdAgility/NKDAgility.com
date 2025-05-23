@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to the concept of psychological safety, such as unrelated team management theories, performance metrics without context, or misinterpretations of psychological safety as mere team comfort or consensus.
 headline:
   cards: []
-  title: Psychological Safety
-  subtitle: Cultivating an environment where teams thrive, innovate, and collaborate without fear of judgement or failure.
-  content: An environment where individuals feel safe to express ideas, take risks, and learn from mistakes fosters creativity and collaboration. Posts should explore team dynamics, trust-building, open communication, and the impact of a supportive culture on performance and innovation, drawing insights from various management and complexity theories.
-  updated: 2025-02-13T12:03:06Z
+  title: 'Psychological Safety: Building Trust for High-Performing Agile Teams'
+  subtitle: Fostering open communication, trust, and learning to empower teams to share ideas, challenge norms, and grow together in dynamic, collaborative environments
+  content: Explores environments where team members feel safe to share ideas, admit mistakes, and challenge assumptions without fear. Covers trust-building, open communication, learning from failure, leadership approaches, feedback loops, and fostering experimentation—enabling adaptive, resilient teams that excel in complex, collaborative, and continuously improving work settings.
+  updated: 2025-05-23T22:51:49Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

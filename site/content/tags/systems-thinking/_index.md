@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus solely on linear problem-solving approaches, isolated methodologies without consideration of interconnections, or any misinterpretations of Systems Thinking that do not align with its core principles and philosophies.
 headline:
   cards: []
-  title: Systems Thinking
-  subtitle: Explore interconnected systems to navigate complexity, enhance decision-making, and foster lasting organisational transformation.
-  content: Explore the dynamics of interconnected systems to unravel complexity, enhance strategic decision-making, and facilitate enduring organisational transformation. Posts should delve into topics such as feedback loops, system behaviour, stakeholder interactions, and the implications of complexity theory on management practices.
-  updated: 2025-02-13T11:58:40Z
+  title: 'Systems Thinking: Uncovering Leverage Points for Sustainable Organisational Impact'
+  subtitle: Exploring holistic approaches to understanding interconnections, managing complexity, and driving sustainable organisational change for improved decision-making and value delivery
+  content: Explores holistic approaches for understanding and managing organisational complexity by examining interconnections, feedback loops, and cause-effect relationships. Topics include system dynamics, leverage points, unintended consequences, continuous improvement, and collaborative problem-solving, drawing on insights from complexity theory, flow optimisation, and evidence-based decision-making to drive sustainable change.
+  updated: 2025-05-23T22:54:07Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

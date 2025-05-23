@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the processes of collecting and utilising customer feedback, such as general product management practices that do not emphasise feedback integration, or unrelated Agile and DevOps concepts that do not focus on the feedback loop mechanism.
 headline:
   cards: []
-  title: Customer Feedback Loops
-  subtitle: Enhancing product relevance through iterative learning and responsive delivery based on user insights.
-  content: Facilitating a dynamic exchange of insights between users and teams to refine product offerings. Posts should explore techniques for gathering and analysing feedback, methods for integrating user input into development cycles, and strategies for fostering a culture of continuous improvement and responsiveness to changing needs.
-  updated: 2025-02-13T12:05:19Z
+  title: 'Customer Feedback Loops (CFL): Turning User Insights into Continuous Product Value'
+  subtitle: Harnessing user insights for iterative improvement, informed decision-making, and continuous value delivery through systematic feedback integration and analysis
+  content: Encompasses iterative mechanisms for collecting, analysing, and acting on user input to inform product decisions, prioritisation, and continuous improvement. Covers feedback collection methods, rapid experimentation, hypothesis validation, learning cycles, and the integration of customer insights into workflows to enhance value delivery and organisational adaptability.
+  updated: 2025-05-23T22:56:24Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

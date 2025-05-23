@@ -27,10 +27,10 @@ Instructions: |-
   - Personal opinions or experiences that do not provide insights into GitHub functionalities or practices
 headline:
   cards: []
-  title: GitHub
-  subtitle: Collaborate and manage your codebase with integrated tools for version control, CI/CD, and project management.
-  content: GitHub is a platform that enhances collaboration and version control through tools like repositories, GitHub Actions, and GitHub Projects. Posts should explore practices in code collaboration, CI/CD pipelines, team workflows, and performance tracking using GitHub services.
-  updated: 2025-04-10T10:16:54Z
+  title: 'GitHub: Accelerating Collaborative DevOps with Automated CI/CD Workflows'
+  subtitle: Enabling collaborative code management, workflow automation, and transparent project tracking to streamline software delivery and foster effective team communication
+  content: Explores collaborative software development using distributed version control, workflow automation, and integrated project management. Covers code review, continuous integration and delivery, transparent communication, traceability, and workflow visualisation, supporting empirical process improvement, rapid feedback, and alignment across cross-functional teams through integration with diverse tools and services.
+  updated: 2025-05-23T22:53:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

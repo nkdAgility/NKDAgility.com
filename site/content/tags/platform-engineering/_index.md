@@ -27,10 +27,10 @@ Instructions: |-
   - Misinterpretations of platform engineering that do not align with the core principles of enhancing developer efficiency and application management.
 headline:
   cards: []
-  title: Platform Engineering
-  subtitle: Empowering developers through streamlined platforms, self-service tools, and automated workflows for efficient application management.
-  content: A discipline centred on creating robust internal platforms that enhance developer efficiency and streamline application lifecycles. Posts should explore self-service capabilities, standardised tools, automated workflows, and the integration of practices that foster collaboration, continuous improvement, and effective resource management within software development teams.
-  updated: 2025-02-13T21:02:31Z
+  title: 'Platform Engineering (PE): Empowering Developers with Self-Service, Scalable Delivery Paths'
+  subtitle: Empowering teams with self-service platforms, streamlined workflows, and resilient tools to accelerate value delivery, reduce complexity, and enhance developer experience
+  content: Encompasses the creation and evolution of internal platforms that streamline software delivery by reducing complexity, enabling self-service, and supporting secure, observable, and resilient workflows. Covers platform-as-product thinking, developer experience, feedback loops, ownership, and continuous improvement to accelerate value delivery and align with organisational goals.
+  updated: 2025-05-23T22:49:08Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
