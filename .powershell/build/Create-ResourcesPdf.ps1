@@ -255,15 +255,25 @@ function Get-PdfFileName {
         [HugoMarkdown]$HugoMarkdown
     )
     
+    # Determine environment name with fallbacks
+    $environment = 'production'
+    
     if (-not $env:GITHUB_ACTIONS) {
-        $nkdAgility_Ring = 'local'
+        $environment = 'local'
     }
     else {
-        $nkdAgility_Ring = $env:nkdAgility_Ring
+        # First check for Hugo-approved env vars
+        if ($env:HUGO_ENV) {
+            $environment = $env:HUGO_ENV
+        }
+        # Then fall back to nkdAgility_Ring for backwards compatibility
+        elseif ($env:nkdAgility_Ring) {
+            $environment = $env:nkdAgility_Ring
+        }
     }
     
-    if ($nkdAgility_Ring -and $nkdAgility_Ring.ToLower() -ne 'production') {
-        return "$($HugoMarkdown.FrontMatter.slug)-$($HugoMarkdown.FrontMatter.date)-$nkdAgility_Ring.pdf"
+    if ($environment -and $environment.ToLower() -ne 'production') {
+        return "$($HugoMarkdown.FrontMatter.slug)-$($HugoMarkdown.FrontMatter.date)-$environment.pdf"
     }
     else {
         return "$($HugoMarkdown.FrontMatter.slug)-$($HugoMarkdown.FrontMatter.date).pdf"

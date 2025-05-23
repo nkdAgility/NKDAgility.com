@@ -1,11 +1,15 @@
 {{- $resourceId := .Params.ResourceId -}}
 {{- $slug := .Params.slug -}}
 {{- $date := .Params.date -}}
-{{- $ring := getenv "nkdAgility_Ring" -}}
+
+{{- /* Use HUGO_ENV or fallback to site environment or "production" */ -}}
+{{- $hugoEnv := getenv "HUGO_ENV" -}}
+{{- $siteEnv := site.Hugo.Environment -}}
+{{- $environment := cond (ne $hugoEnv "") $hugoEnv (cond (ne $siteEnv "") $siteEnv "production") -}}
 
 {{- $pdfFileName := "" -}}
-{{- if and $ring (ne (lower $ring) "production") -}}
-  {{- $pdfFileName = printf "%s-%s-%s.pdf" $slug $date $ring -}}
+{{- if ne (lower $environment) "production" -}}
+  {{- $pdfFileName = printf "%s-%s-%s.pdf" $slug $date $environment -}}
 {{- else -}}
   {{- $pdfFileName = printf "%s-%s.pdf" $slug $date -}}
 {{- end -}}
