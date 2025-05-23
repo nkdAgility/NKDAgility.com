@@ -5,7 +5,10 @@
     </section>
   </section>
   <section class="container-fluid resources-headline-sharebar">
-    <section class="container" style="max-width: 900px !important">{{- partial "components/resources/share-bar.html" . }}</section>
+    <section class="container" style="max-width: 900px !important">
+      {{- partial "components/resources/share-bar.html" . }}
+      {{- partial "components/resources/pdf-download.html" . }}
+    </section>
   </section>
 {{- end }}
 

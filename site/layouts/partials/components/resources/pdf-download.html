@@ -1,0 +1,20 @@
+{{- $resourceId := .Params.ResourceId -}}
+{{- $slug := .Params.slug -}}
+{{- $date := .Params.date -}}
+{{- $ring := getenv "nkdAgility_Ring" -}}
+
+{{- $pdfFileName := "" -}}
+{{- if and $ring (ne (lower $ring) "production") -}}
+  {{- $pdfFileName = printf "%s-%s-%s.pdf" $slug $date $ring -}}
+{{- else -}}
+  {{- $pdfFileName = printf "%s-%s.pdf" $slug $date -}}
+{{- end -}}
+
+{{- $pdfPath := (printf "%s%s" .File.Dir $pdfFileName) -}}
+{{- if fileExists $pdfPath -}}
+<div class="pdf-download-container my-3">
+  <a href="{{ $pdfFileName | relURL }}" class="btn btn-primary" download>
+    <i class="fas fa-file-pdf me-2"></i>Download as PDF
+  </a>
+</div>
+{{- end -}}
