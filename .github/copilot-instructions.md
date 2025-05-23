@@ -4,77 +4,65 @@ This repository contains the NKDAgility website built with Hugo. Here's what you
 
 ## Repository Structure
 
+- `docs/` - Documentation for the project and additional information for developers and AI
 - `site/` - The main Hugo website directory
-  - `content/` - All website content in Markdown format
+  - `content/` - All website content in Markdown format. Adding posts, pages, and images should be done only here.
+    - `resources/` - All resources including blog, engineering-notes, guides, signals, and videos
+    - `capabilities/` - Company page related to capabilities of our organisation. What we do and how we do it.
+    - `categories/` - Categories for resources
+    - `tags/` - Tags for resources
+    - `concepts/` - Concepts for resources
+    - `company/` - Company page related to NKDAgility
+    - `outcomes/` - Corporate outcomes related to NKDAgility. What we can do for our clients.
   - `layouts/` - Hugo templates
   - `static/` - Static assets (images, CSS, JS, etc.)
-  - `archetypes/` - Template files for new content
+  - `archetypes/` - Template files for new content (not used)
   - `data/` - YAML/JSON/TOML files used in templates
   - `hugo.yaml` - Main Hugo configuration file
   - `hugo.local.yaml`, `hugo.preview.yaml`, etc. - Environment-specific configurations
-
 - `functions/` - Azure Functions for API functionality
 - `.github/` - GitHub configuration files and workflows
-- `.powershell/` - PowerShell scripts for automation
+- `.powershell/` - PowerShell scripts for automation (see Pre/Post Processing)
 
-## Local Development Setup
+## Pre-Processing & Post-Processing
 
-### Prerequisites
+- The `.powershell/` folder contains scripts for automation, image processing, and data cleanup.
+- **Pre-processing**: Scripts may run before the Hugo build to prepare content, sync data, or transform files. Example: image optimization, taxonomy generation, or data file updates.
+- **Post-processing**: After Hugo builds the site, scripts in `.powershell/` are used to offload images to blob storage, rewrite image links, and clean up local files. These are invoked in CI/CD workflows and can be run locally as needed.
+- See `.github/workflows/main.yaml` for how these scripts are integrated into the build and deploy process.
 
-1. Install Hugo Extended version
-   ```
-   winget install hugo
-   ```
+## Build Instructions (Hugo)
 
-2. Install Static Web Apps CLI
-   ```
-   npm install -g @azure/static-web-apps-cli
-   ```
+- To build the site locally:
+  ```
+  hugo server --source site --config hugo.yaml,hugo.local.yaml
+  ```
+  - This starts a local server at http://localhost:1313
+- For production or other environments:
+  ```
+  hugo build --source site --config hugo.yaml,hugo.production.yaml
+  ```
+  - Replace `hugo.production.yaml` with the appropriate config for your environment.
+- The build process is automated in CI/CD using GitHub Actions. See the `BuildSite` job in `.github/workflows/main.yaml`.
 
-3. Install Azure Functions Core Tools
-   ```
-   npm i -g azure-functions-core-tools@4 --unsafe-perm true
-   ```
+## Content Manipulation
 
-4. Install .NET 10 SDK from https://dotnet.microsoft.com/download/dotnet/10.0
+- All content is in Markdown files under `site/content/`.
+- To add a new page, create a new Markdown file in the appropriate subdirectory.
+- Images should be placed in the same folder as the content or in a relevant subfolder.
+- Use front matter to set metadata (title, description, tags, categories, etc.).
+- Taxonomies (tags, categories, concepts) are defined in `hugo.yaml` and referenced in content front matter.
+- Content is processed by Hugo and may be further transformed by pre/post-processing scripts.
 
-5. Install PowerShell 7+
-   ```
-   winget install Microsoft.PowerShell
-   ```
+## Layout
 
-### Running the Website Locally
+- Layouts are in `site/layouts/` and define the structure of pages using Hugo templating.
+- Static assets (CSS, JS, images) are in `site/static/` and are served as-is.
+- To change the look and feel, edit templates in `layouts/` or styles in `static/css/`.
+- Use Hugo's templating features to create reusable components and partials.
+- Layouts can access content, taxonomies, and data files for dynamic rendering.
 
-1. Clone the repository
-   ```
-   git clone https://github.com/nkdAgility/NKDAgility.com.git
-   cd NKDAgility.com
-   ```
-
-2. Start the Hugo development server
-   ```
-   hugo server --source site --config hugo.yaml,hugo.local.yaml
-   ```
-
-3. View the site at http://localhost:1313
-
-### Building for Production
-
-To build the site for production or other environments:
-
-```
-hugo build --source site --config hugo.yaml,hugo.local.yaml
-```
-
-This is the typical command used from the root of the repo. For different environments, replace `hugo.local.yaml` with the appropriate config file (`hugo.preview.yaml`, `hugo.production.yaml`, etc.).
-
-The command specified in the issue is:
-
-```
-hugo build --source .\site --config hugo.yaml,hugo.local.yaml
-```
-
-### API Development
+## API Development
 
 If you need to work with the Azure Functions:
 
@@ -82,12 +70,10 @@ If you need to work with the Azure Functions:
    ```
    cd functions
    ```
-
 2. Start the Azure Functions runtime
    ```
    func start
    ```
-
 3. In a separate terminal, start the SWA CLI to connect Hugo and Functions
    ```
    swa start http://localhost:1313 --api-location ./functions
@@ -97,8 +83,8 @@ If you need to work with the Azure Functions:
 
 The repository uses GitHub Actions for CI/CD:
 
-- Pull requests trigger preview builds
-- Merges to main branch deploy to staging
+- Pull requests trigger canary builds that are deployed to a canary environment
+- Merges to main branch deploy to preview environment on https://preview.nkdagility.com
 - Release tags deploy to production
 
 ## Content Management
