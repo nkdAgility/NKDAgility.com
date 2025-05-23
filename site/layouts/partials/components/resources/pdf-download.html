@@ -2,23 +2,15 @@
 {{- $slug := .Params.slug -}}
 {{- $date := .Params.date -}}
 
-{{- /* Use HUGO_ENV or fallback to site environment or "production" */ -}}
-{{- $hugoEnv := getenv "HUGO_ENV" -}}
-{{- $siteEnv := site.Hugo.Environment -}}
-{{- $environment := cond (ne $hugoEnv "") $hugoEnv (cond (ne $siteEnv "") $siteEnv "production") -}}
-
 {{- $pdfFileName := "" -}}
-{{- if ne (lower $environment) "production" -}}
-  {{- $pdfFileName = printf "%s-%s-%s.pdf" $slug $date $environment -}}
+{{- if ne (lower site.Hugo.Environment) "production" -}}
+  {{- $pdfFileName = printf "%s-%s-%s.pdf" $slug $date site.Hugo.Environment -}}
 {{- else -}}
   {{- $pdfFileName = printf "%s-%s.pdf" $slug $date -}}
 {{- end -}}
-
-{{- $pdfPath := (printf "%s%s" .File.Dir $pdfFileName) -}}
-{{- if fileExists $pdfPath -}}
-<div class="pdf-download-container my-3">
-  <a href="{{ $pdfFileName | relURL }}" class="btn btn-primary" download>
-    <i class="fas fa-file-pdf me-2"></i>Download as PDF
-  </a>
-</div>
+{{ $pdfFile := .Page.Resources.GetMatch $pdfFileName }}
+{{- if $pdfFile -}}
+  <div class="pdf-download-container my-3">
+    <a href="{{ $pdfFileName | relURL }}" class="btn btn-primary" download> <i class="fas fa-file-pdf me-2"></i>Download as PDF </a>
+  </div>
 {{- end -}}
