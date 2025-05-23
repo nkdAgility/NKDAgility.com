@@ -26,10 +26,10 @@ Instructions: |-
   - Any content that promotes frameworks or tools without grounding in empirical evidence or metrics.
 headline:
   cards: []
-  title: 'Evidence-Based Management (EBM): Turning Empirical Data into Real Value and Continuous Improvement'
-  subtitle: Empirical strategies and actionable metrics for driving outcome-focused improvement, informed decision-making, and continuous value delivery across modern organisations
-  content: Empirical management approach using actionable metrics—Current Value, Time to Market, Ability to Innovate, and Unrealised Value—to guide strategic decisions, prioritisation, and continuous improvement. Emphasises outcome-driven measurement, transparency, and adaptability, drawing on insights from product development, flow optimisation, and complex systems thinking.
-  updated: 2025-05-23T22:48:27Z
+  title: 'Evidence-Based Management (EBM): Turning Data into Strategic Agility'
+  subtitle: Measure what matters, inform strategic decisions, and continuously improve outcomes by focusing on value, responsiveness, innovation, and untapped opportunities.
+  content: Evidence-Based Management provides organisations with empirical methods and meaningful metrics to evaluate value delivery, responsiveness, innovation capacity, and untapped opportunities. It emphasises outcome-driven decisions, informed prioritisation, and continuous improvement, enabling leaders to replace assumptions and superficial measures with actionable insights and measurable progress in complex, dynamic environments.
+  updated: 2025-05-23T23:15:56Z
 aliases:
 - /methods/ebm/
 - /learn/agile-delivery-kit/strategies/evidence-based-management/

@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated topics such as project management outside of Agile, non-Agile methodologies, or general software development practices that do not pertain to backlog management. Misinterpretations of the Product Backlog's role or its significance in Agile frameworks should also be avoided.
 headline:
   cards: []
-  title: 'Product Backlog: Prioritising Value for Adaptive and Transparent Delivery'
-  subtitle: Central hub for prioritising, refining, and tracking work items—enabling teams to align objectives, adapt to change, and deliver value through transparent collaboration.
-  content: A structured, evolving repository of product needs, including features, fixes, and technical work, supporting transparent prioritisation, stakeholder collaboration, and continuous refinement. Emphasises value delivery, adaptability, and alignment with strategic goals, drawing on empirical feedback, flow optimisation, and systems thinking to guide effective product development.
-  updated: 2025-05-23T22:53:08Z
+  title: 'Product Backlog: Prioritising Value to Drive Agile Success'
+  subtitle: A dynamic, prioritised inventory of features, fixes, and tasks enabling transparency, informed decisions, continuous refinement, and value-driven delivery.
+  content: A dynamic, prioritised inventory of features, enhancements, fixes, and technical tasks that provides transparency into product direction, stakeholder alignment, and strategic decision-making. It supports continuous refinement, informed prioritisation, and adaptability to evolving customer feedback, market conditions, and organisational goals, enabling predictable delivery of customer value and sustainable improvement.
+  updated: 2025-05-23T23:24:12Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

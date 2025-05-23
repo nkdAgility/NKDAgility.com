@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the Agile philosophy of product management, such as traditional project management methodologies, unrelated business strategies, or technical discussions that do not pertain to product value maximisation.
 headline:
   cards: []
-  title: 'Agile Product Management (APM): Driving Value Through Iterative Customer-Centric Delivery'
-  subtitle: Maximising product value through iterative delivery, customer alignment, and cross-functional collaboration across the entire product lifecycle for sustained growth and innovation
-  content: Maximising product value through continuous discovery, delivery, and adaptation, this classification explores aligning organisational goals with customer needs, iterative planning, feedback-driven development, cross-functional collaboration, outcome measurement, and systemic value flow. Topics include product vision, stakeholder engagement, prioritisation, empirical decision-making, and evolving products in complex, changing environments.
-  updated: 2025-05-23T22:58:41Z
+  title: 'Agile Product Management: Aligning Strategy with Customer-Driven Value'
+  subtitle: Maximising product value through iterative delivery, customer collaboration, continuous feedback, and strategic alignment across the product lifecycle.
+  content: A customer-centric approach to managing products throughout their lifecycle, emphasising iterative delivery, continuous feedback, and strategic alignment. It integrates evidence-based decision-making, cross-functional collaboration, and adaptive practices to maximise product value, respond effectively to market shifts, and sustain long-term innovation and organisational resilience in complex environments.
+  updated: 2025-05-23T23:33:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

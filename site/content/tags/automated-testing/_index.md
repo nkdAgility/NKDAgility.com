@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions on manual testing, unrelated software development practices, or misinterpretations of automated testing principles that do not align with the Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: 'Automated Testing (AT): Accelerating Quality and Value Through Continuous Feedback'
-  subtitle: Ensuring software quality and rapid feedback by systematically automating tests, enabling early issue detection, continuous improvement, and reliable value delivery.
-  content: Automated Testing encompasses systematic test execution using automation tools to ensure software reliability, rapid feedback, and early defect detection. Topics include test design, integration in delivery pipelines, shift-left strategies, continuous feedback, quality metrics, and the impact on flow efficiency, predictability, and organisational adaptability in complex environments.
-  updated: 2025-05-23T22:47:43Z
+  title: 'Automated Testing: Accelerating Quality Through Continuous Feedback Loops'
+  subtitle: Systematically validating software quality, accelerating feedback loops, and enabling continuous improvement through test automation and early issue detection.
+  content: Systematic implementation of testing automation to rapidly detect software defects, reduce manual effort, and accelerate reliable software delivery. Emphasises early defect identification, shortened feedback loops, continuous improvement, and integration into development workflows, enabling teams to sustainably deliver customer value, enhance collaboration, and adapt effectively to evolving market conditions.
+  updated: 2025-05-23T23:14:36Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

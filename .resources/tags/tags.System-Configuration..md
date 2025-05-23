@@ -25,10 +25,10 @@ Instructions: |-
   - Misinterpretations of system configuration as a broader capability or philosophical topic.
 headline:
   cards: []
-  title: 'System Configuration: Automating Reliability and Scalability for Agile and DevOps Success'
-  subtitle: Optimising technical environments through automated setup, integration, and management of software and hardware for reliable, scalable, and efficient delivery systems
-  content: Covers the technical setup, automation, and optimisation of software and hardware environments to ensure reliable, efficient, and scalable operations. Includes configuration management, infrastructure as code, environment consistency, deployment automation, and monitoring, supporting continuous delivery, workflow efficiency, and adaptability in rapidly changing and complex organisational contexts.
-  updated: 2025-05-23T22:49:42Z
+  title: 'System Configuration: Automating Infrastructure for Agile and DevOps Excellence'
+  subtitle: Optimising software, hardware, and system setups through automation, configuration management, and infrastructure as code for reliable, scalable performance.
+  content: System Configuration involves the structured setup, automation, and optimisation of software, hardware, and infrastructure components to ensure reliable, efficient, and scalable operations. It covers infrastructure as code, configuration management, continuous integration and delivery, automated testing and monitoring, and practices that enhance workflow efficiency, adaptability, and organisational performance.
+  updated: 2025-05-23T23:18:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

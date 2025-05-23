@@ -26,10 +26,10 @@ Instructions: |-
   - Content that focuses solely on technical tools without addressing the underlying social frameworks.
 headline:
   cards: []
-  title: 'Social Technologies: Cultivating Adaptive Teams Through Collective Intelligence and Self-Organisation'
-  subtitle: Frameworks and philosophies for fostering self-organisation, iterative learning, and shared intelligence to navigate complexity and drive resilient collaboration.
-  content: Explores foundational philosophies that enable teams and organisations to thrive in complex, unpredictable environments through decentralised decision-making, iterative learning, and participatory governance. Topics include self-organisation, empirical inquiry, collective intelligence, emergent order, and sense-making, drawing on thought leadership from product development, systems thinking, and complexity science.
-  updated: 2025-05-23T22:56:30Z
+  title: 'Social Technologies: Unlocking Adaptability Through Collective Intelligence'
+  subtitle: Foundational philosophies enabling self-organisation, empirical inquiry, and collective intelligence to navigate complexity, uncertainty, and continuous change.
+  content: Social technologies provide foundational philosophies that enable organisations to navigate complexity through decentralised decision-making, iterative experimentation, and collective intelligence. Emphasising self-organisation, empirical inquiry, and participatory governance, these principles foster adaptability, resilience, and continuous learning, empowering teams to effectively respond to uncertainty and drive meaningful innovation.
+  updated: 2025-05-23T23:29:57Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

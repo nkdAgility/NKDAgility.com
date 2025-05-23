@@ -25,10 +25,10 @@ Instructions: |-
   - Content that promotes secrecy or lack of visibility as a means of control or management.
 headline:
   cards: []
-  title: 'Transparency: Cultivating Open Collaboration for Agile Team Success'
-  subtitle: Fostering openness and visibility to build trust, enable informed decisions, and drive continuous improvement across teams, workflows, and organisational outcomes.
-  content: Openness and visibility in work processes, decision-making, and outcomes, enabling shared understanding, trust, and accountability. Topics include information radiators, clear metrics, visual workflow, accessible documentation, feedback loops, psychological safety, and fostering environments where challenges, progress, and risks are openly discussed to support informed action and continuous improvement.
-  updated: 2025-05-23T22:51:53Z
+  title: 'Transparency: Building Trust and Clarity for Agile Team Success'
+  subtitle: Fostering openness, visibility, and trust to enable informed decisions, psychological safety, continuous improvement, and organisational resilience.
+  content: Transparency involves openly sharing information, decisions, and progress to foster trust, accountability, and informed decision-making. It encompasses visualising workflow, surfacing impediments, enabling rapid feedback loops, supporting psychological safety, and promoting continuous improvement, ultimately enhancing collaboration, adaptability, organisational resilience, and the consistent delivery of stakeholder value.
+  updated: 2025-05-23T23:21:56Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

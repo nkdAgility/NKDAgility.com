@@ -27,10 +27,10 @@ Instructions: |-
   - Topics not tied to clearly defined outcome ownership in work systems
 headline:
   cards: []
-  title: 'Accountability: Clarifying Ownership for Effective Delivery in Agile, Scrum, and DevOps'
-  subtitle: Clarifies ownership of outcomes, enabling transparency, self-management, and effective delivery through defined roles and clear alignment in complex work systems.
-  content: Defines who is answerable for outcomes within a work system, clarifying ownership of results, alignment, and transparency. Covers role-based ownership, distinctions from responsibility and authority, structural mechanisms for clarity, and practices that support inspection, adaptation, and flow in complex, self-managing, and continuously improving environments.
-  updated: 2025-05-23T22:56:34Z
+  title: 'Accountability: Clarifying Ownership to Drive Agile Outcomes'
+  subtitle: Clarifying ownership of outcomes to enable transparency, informed decision-making, and effective delivery in complex work systems.
+  content: Accountability establishes clear ownership of outcomes within complex work systems, distinguishing outcome ownership from task execution or decision-making authority. Posts explore structural mechanisms, role clarity, transparency, decentralised control, self-management, inspection and adaptation, evidence-based decision-making, flow optimisation, and effective alignment to enhance organisational performance and value delivery.
+  updated: 2025-05-23T23:30:04Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

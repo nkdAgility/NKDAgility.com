@@ -26,10 +26,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on directive leadership, performance evaluations, or any content that misrepresents the collaborative and supportive nature of coaching in Agile and DevOps contexts.
 headline:
   cards: []
-  title: 'Coaching: Empowering Teams Through Guided Self-Discovery and Continuous Improvement'
-  subtitle: Guidance and practices for empowering teams and leaders through facilitation, self-discovery, and continuous growth to drive collaboration, adaptability, and high performance.
-  content: Guidance-driven support that empowers individuals and teams to enhance self-organisation, decision-making, and continuous learning. Emphasises psychological safety, accountability, and collaborative problem-solving, drawing on systemic thinking, evidence-based approaches, and frameworks that foster adaptability, resilience, and alignment with organisational outcomes in dynamic environments.
-  updated: 2025-05-23T22:51:10Z
+  title: 'Coaching: Unlocking Team Potential Through Guided Self-Discovery'
+  subtitle: Unlocking team and leadership potential through guidance, fostering continuous improvement, self-discovery, psychological safety, and collaborative growth.
+  content: Coaching enables teams and leaders to unlock their potential through guided self-discovery, fostering continuous improvement, psychological safety, and collaborative problem-solving. It emphasises skill development, adaptive decision-making, experimentation, and accountability, cultivating resilience and alignment with organisational objectives to sustainably deliver customer value in complex, rapidly evolving environments.
+  updated: 2025-05-23T23:20:41Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

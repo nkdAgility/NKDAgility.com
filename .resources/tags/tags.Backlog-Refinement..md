@@ -26,10 +26,10 @@ Instructions: |-
   - Content that does not align with the principles of collaboration, transparency, and iterative improvement inherent in Agile philosophy.
 headline:
   cards: []
-  title: 'Backlog Refinement: Clarifying Priorities for Predictable Agile Delivery'
-  subtitle: Ensuring clarity, alignment, and readiness of work items through collaborative review, prioritisation, and continuous improvement for predictable value delivery
-  content: Ensures work items are clearly defined, prioritised, and ready for delivery through collaborative clarification, estimation, and adaptation. Covers effective stakeholder engagement, reducing ambiguity, supporting flow, enabling responsive planning, and fostering continuous improvement to align outcomes with organisational goals and evolving customer needs.
-  updated: 2025-05-23T22:51:33Z
+  title: 'Backlog Refinement: Clarifying Priorities to Accelerate Agile Delivery'
+  subtitle: Clarifying requirements, aligning priorities, and preparing work to maximise value delivery, reduce risk, and enable predictable, sustainable outcomes.
+  content: A collaborative practice enabling product owners and teams to clarify, prioritise, and prepare work items for execution. Posts cover techniques for requirement clarity, effort estimation, priority adjustment based on stakeholder feedback, reducing ambiguity, enhancing predictability, and fostering continuous improvement to deliver sustainable value aligned with organisational objectives.
+  updated: 2025-05-23T23:21:19Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -28,10 +28,10 @@ Instructions: |-
   - Content that does not align with the philosophies of Agile, Lean, or Evidence-Based Management
 headline:
   cards: []
-  title: 'Continuous Improvement (CI): Embedding Kaizen for Lasting Agility and Organisational Resilience'
-  subtitle: Guiding organisations to evolve through reflection, data-driven adaptation, and incremental change—empowering teams to deliver greater value in dynamic environments.
-  content: Explores the ongoing pursuit of incremental enhancements through reflection, empirical evaluation, and adaptive change. Covers topics such as feedback loops, experimentation, retrospectives, workflow visualisation, data-driven decision-making, and fostering a culture of learning, drawing on insights from systems thinking, complexity, and continuous value delivery.
-  updated: 2025-05-23T22:50:40Z
+  title: 'Continuous Improvement: Embedding Kaizen for Agile and Sustainable Success'
+  subtitle: Driving organisational resilience and innovation through empirical reflection, incremental experimentation, and data-informed decision-making.
+  content: Continuous Improvement encompasses the ongoing discipline of inspecting outcomes, leveraging empirical evidence, and adapting organisational practices to enhance responsiveness, resilience, and value delivery. It includes incremental experimentation, data-informed decision-making, workflow optimisation, and fostering a culture of collective ownership and proactive learning to effectively navigate complex, evolving market conditions.
+  updated: 2025-05-23T23:19:47Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

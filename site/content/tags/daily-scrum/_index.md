@@ -26,10 +26,10 @@ Instructions: |-
   - Content that focuses on Agile principles without specific reference to the Daily Scrum.
 headline:
   cards: []
-  title: 'Daily Scrum: Maximising Team Alignment and Adaptability in 15 Minutes (Scrum)'
-  subtitle: Synchronising Team Progress and Removing Obstacles Through Focused Daily Collaboration and Continuous Improvement
-  content: Encompasses the daily, time-boxed team meeting dedicated to synchronising work, inspecting progress toward shared goals, and adapting plans in response to emerging challenges. Topics include effective facilitation, transparency, impediment identification, continuous improvement, and fostering collaboration, drawing on insights from empirical process control and team self-management.
-  updated: 2025-05-23T22:52:09Z
+  title: 'Daily Scrum: Accelerating Team Alignment and Adaptability'
+  subtitle: Short, focused meetings enabling team alignment, rapid feedback, continuous improvement, and effective collaboration toward shared goals.
+  content: A concise, structured meeting enabling teams to synchronise efforts, inspect progress towards shared goals, and swiftly address obstacles. Posts explore effective facilitation techniques, team collaboration, transparency, continuous improvement, and practical approaches to enhancing adaptability, responsiveness, and productivity within complex, rapidly changing environments.
+  updated: 2025-05-23T23:22:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

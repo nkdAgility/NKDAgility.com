@@ -25,10 +25,10 @@ Instructions: |-
   - Technical content that provides actionable insights or guidance based on recognised theories or practices.
 headline:
   cards: []
-  title: 'Miscellaneous: Harnessing Unconventional Insights for Organisational Innovation and Agility'
-  subtitle: A space for unconventional insights, emerging practices, and cross-disciplinary ideas that drive innovation, adaptability, and continuous learning beyond standard categories.
-  content: Covers unconventional or cross-disciplinary topics, emerging tools, novel frameworks, and experimental approaches that fall outside established categories. Includes insights on organisational change, new metrics, hybrid methodologies, and innovative thinking that support adaptability, continuous learning, and resilience in complex product development and delivery environments.
-  updated: 2025-05-23T23:01:24Z
+  title: 'Miscellaneous: Embracing Emerging Ideas for Agile Innovation'
+  subtitle: Exploring emerging ideas, unconventional practices, and diverse insights beyond traditional classifications to foster innovation and adaptability.
+  content: Miscellaneous captures emerging concepts, innovative practices, and unconventional tools that fall outside established organisational categories, enabling teams to explore diverse perspectives, experiment with novel approaches, and adapt flexibly to evolving market conditions, customer demands, and complex environments, thereby fostering continuous learning, resilience, and sustainable value delivery.
+  updated: 2025-05-23T23:34:31Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

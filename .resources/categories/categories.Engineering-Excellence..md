@@ -28,10 +28,10 @@ Instructions: |-
   - Content that focuses solely on non-technical aspects of team dynamics or organisational culture without a direct link to engineering practices.
 headline:
   cards: []
-  title: 'Engineering Excellence: Building Predictable, Scalable, and Resilient Software Systems'
-  subtitle: Elevating software quality, maintainability, and scalability through continuous improvement, technical rigor, and data-driven practices for sustainable delivery.
-  content: Explores disciplined software delivery through craftsmanship, automation, technical debt management, and data-driven improvement. Covers resilient architecture, embedded security, and transparent metrics, drawing on continuous flow, empirical process control, and systems thinking to support sustainable, adaptable, and high-value outcomes across evolving product and organisational landscapes.
-  updated: 2025-05-23T22:47:16Z
+  title: 'Engineering Excellence: Cultivating Quality and Scalability Through Technical Rigor'
+  subtitle: Cultivating technical rigor, software craftsmanship, and continuous improvement to deliver reliable, scalable, and sustainable software systems.
+  content: Engineering excellence encompasses disciplined software craftsmanship, robust architectural design, proactive technical debt management, embedded security, and data-driven observability. It promotes continuous improvement, resilience, scalability, and collaboration, enabling organisations to deliver reliable, maintainable, and adaptable software systems aligned with principles from Scrum, Kanban, complexity theory, and evidence-based management.
+  updated: 2025-05-23T23:13:47Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

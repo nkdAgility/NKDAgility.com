@@ -28,10 +28,10 @@ Instructions: |-
   - Misapplications of strategy as a method or tool rather than a high-level guiding framework.
 headline:
   cards: []
-  title: 'Strategy: Guiding Organisational Agility for Sustainable Success'
-  subtitle: Guiding organisational direction and decision-making by aligning vision, leadership, and adaptive frameworks to achieve long-term goals in complex, evolving environments.
-  content: Strategy defines the overarching direction and intent that shapes organisational vision, resource allocation, and decision-making. Posts explore leadership, vision-setting, alignment of teams and technologies, evidence-informed planning, adaptability in complex environments, and integration of frameworks to ensure sustained progress toward long-term objectives amid evolving market and customer needs.
-  updated: 2025-05-23T22:57:05Z
+  title: 'Strategy: Aligning Agile Teams and Technology with Long-Term Goals'
+  subtitle: Guiding organisational direction, aligning decisions and actions to long-term goals, and enabling responsiveness in complex, dynamic environments.
+  content: Strategy provides a coherent, high-level framework guiding organisational direction, decision-making, and resource alignment toward long-term objectives. It encompasses leadership vision, strategic planning, evidence-informed decisions, complexity navigation, and adaptive responsiveness, ensuring daily actions and tactical choices consistently support overarching business goals and customer value.
+  updated: 2025-05-23T23:30:53Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

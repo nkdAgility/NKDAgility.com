@@ -26,10 +26,10 @@ Instructions: |-
   - Content focused solely on operational tactics without strategic context.
 headline:
   cards: []
-  title: 'Strategic Goals: Guiding Teams Toward Sustainable Value and Organisational Alignment'
-  subtitle: Long-term objectives that align teams with organisational vision, drive value delivery, and support adaptive decision-making across all levels and functions.
-  content: Long-term objectives that shape organisational direction, drive alignment with vision and mission, and inform prioritisation, adaptation, and value delivery. Topics include outcome-driven planning, measurable objectives, transparency, accountability, cross-team alignment, and the integration of strategic intent into daily work and decision-making at all levels.
-  updated: 2025-05-23T22:56:11Z
+  title: 'Strategic Goals: Aligning Teams for Sustainable Agile Success'
+  subtitle: Long-term objectives that align teams, guide decision-making, foster accountability, and enable sustainable value delivery in dynamic environments.
+  content: Strategic goals establish clear, long-term organisational objectives aligned with vision and mission, guiding teams toward consistent value delivery. They inform decision-making, prioritisation, and adaptation to market dynamics, fostering transparency, accountability, cross-functional collaboration, and organisational resilience, enabling proactive responses to complexity and continuous improvement in rapidly evolving environments.
+  updated: 2025-05-23T23:29:30Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

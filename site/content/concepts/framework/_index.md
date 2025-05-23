@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated methodologies, personal opinions on frameworks, or misinterpretations of the core principles of Agile, DevOps, and Lean philosophies. Also exclude content that only focuses on the contents of a framework.
 headline:
   cards: []
-  title: 'Framework: Structured Flexibility for Sustainable Team Success'
-  subtitle: Structured blueprints and guiding principles for adaptable team collaboration, value delivery, and continuous improvement across product, service, and organisational contexts
-  content: Structured approaches that provide adaptable guidelines and principles for organising work, fostering shared understanding, and enabling teams to deliver value predictably. Topics include process design, roles, events, artefacts, continuous improvement, collaboration, and the integration of methods and practices to address complexity and drive sustainable outcomes.
-  updated: 2025-05-23T22:51:46Z
+  title: 'Framework: Guiding Flexible Structures for Sustainable Value Delivery'
+  subtitle: Structured guidelines and principles enabling teams to navigate complexity, foster collaboration, and deliver sustainable value through adaptable practices.
+  content: A structured set of principles, guidelines, and rules providing teams with a flexible yet consistent approach to managing complexity, improving collaboration, and delivering sustainable value. Posts explore foundational structures, systemic adaptability, continuous improvement, and practical implementation inspired by thought leaders like Ken Schwaber, Jez Humble, and Dave Snowden.
+  updated: 2025-05-23T23:21:43Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

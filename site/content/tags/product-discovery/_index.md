@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** unrelated content such as technical implementation details, project management practices unrelated to discovery, or discussions that do not focus on understanding customer needs and product feature definition.
 headline:
   cards: []
-  title: 'Product Discovery: Uncovering User Needs to Drive Meaningful Innovation'
-  subtitle: Exploring user needs, validating ideas, and shaping product direction through experimentation, feedback, and evidence to ensure meaningful, impactful solutions
-  content: Explores how teams uncover user needs, validate assumptions, and shape product direction through experimentation, iterative feedback, and evidence-driven decision-making. Covers techniques like prototyping, user research, hypothesis testing, and market exploration to reduce uncertainty, foster innovation, and ensure solutions deliver genuine value in complex environments.
-  updated: 2025-05-23T23:01:10Z
+  title: 'Product Discovery: Uncovering User Needs to Drive Sustainable Innovation'
+  subtitle: Exploring customer needs, validating assumptions, and defining valuable features to build products that resonate, drive innovation, and sustain market relevance.
+  content: A systematic, exploratory approach to uncovering customer needs, validating assumptions, and defining valuable product features through user research, prototyping, experimentation, and iterative testing. It emphasises informed decision-making, reduces market risk, and promotes continuous learning, enabling organisations to deliver meaningful solutions aligned with user expectations and evolving market conditions.
+  updated: 2025-05-23T23:34:10Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

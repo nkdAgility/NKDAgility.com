@@ -26,10 +26,10 @@ Instructions: |-
   - Generalised statements that do not provide personal context or insights.
 headline:
   cards: []
-  title: 'Personal: Empowering Individual Voices to Foster Team Innovation and Psychological Safety'
-  subtitle: Exploring individual stories, reflections, and insights that foster psychological safety, collaboration, and continuous learning within high-performing teams
-  content: Explores individual stories, reflections, and personal growth within teams, highlighting how unique perspectives, psychological safety, and open communication foster experimentation, resilience, and continuous learning. Topics include empowerment, vulnerability, motivation, mindset shifts, and the impact of personal experiences on collaboration, adaptation, and value delivery in complex environments.
-  updated: 2025-05-23T23:00:49Z
+  title: 'Personal: Unlocking Team Potential Through Psychological Safety'
+  subtitle: Insights, reflections, and experiences fostering psychological safety, collaboration, continuous learning, and innovation within teams and organisations.
+  content: Personal encompasses individual experiences, reflections, and insights shared by team members, promoting openness, psychological safety, and authentic collaboration. Posts explore individual growth, team dynamics, psychological safety, experimentation, continuous learning, and adaptive practices, highlighting how personal perspectives strengthen relationships, enhance innovation, and support sustainable value delivery within organisations.
+  updated: 2025-05-23T23:33:40Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

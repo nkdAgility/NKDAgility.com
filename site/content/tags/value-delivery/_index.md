@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on unrelated topics such as project management methodologies outside Agile, technical implementation details without a value context, or personal opinions that do not align with established theories and philosophies of value delivery.
 headline:
   cards: []
-  title: 'Value Delivery: Iterative Outcomes That Drive Customer Satisfaction and Organisational Resilience'
-  subtitle: Ensuring consistent, customer-focused outcomes through iterative improvement, cross-functional collaboration, and adaptive product development practices
-  content: Encompasses approaches and practices that ensure frequent, incremental delivery of meaningful outcomes aligned with customer needs. Covers topics such as iterative product development, flow optimisation, feedback loops, cross-functional collaboration, waste reduction, and continuous adaptation, supporting sustained improvement and responsiveness throughout the entire product lifecycle.
-  updated: 2025-05-23T22:52:29Z
+  title: 'Value Delivery: Aligning Iterative Releases with Customer Outcomes'
+  subtitle: Systematically delivering customer-focused outcomes through iterative processes, continuous improvement, and cross-functional collaboration.
+  content: A systematic approach to consistently delivering meaningful outcomes by aligning product development closely with customer needs through iterative, incremental processes. It encompasses continuous improvement, rapid feedback loops, workflow optimisation, cross-functional collaboration, and responsiveness to evolving market demands, ensuring sustained customer satisfaction, organisational resilience, and ongoing value creation.
+  updated: 2025-05-23T23:23:06Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

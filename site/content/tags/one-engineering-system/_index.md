@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of 1ES, such as unrelated software development methodologies, personal opinions on engineering practices, or content that does not focus on the integration and standardisation of engineering processes.
 headline:
   cards: []
-  title: 'One Engineering System (1ES): Unifying Tools for Scalable, Collaborative Software Excellence'
-  subtitle: Unifying engineering workflows and standards to streamline collaboration, reduce friction, and enable scalable, high-quality software delivery across teams.
-  content: A unified engineering environment that streamlines workflows, integrates toolchains, and establishes shared standards for planning, coding, testing, deployment, and support. Emphasises team enablement, adaptability, and consistent delivery, drawing on systems thinking, flow optimisation, and empirical improvement to foster scalable, resilient, and collaborative software development.
-  updated: 2025-05-23T22:47:38Z
+  title: 'One Engineering System (1ES): Unifying Tools to Accelerate Team Excellence'
+  subtitle: Unifying engineering practices and tools to streamline workflows, reduce friction, enhance collaboration, and deliver consistent quality at scale.
+  content: A unified approach to engineering practices and tooling that streamlines workflows, reduces friction, and enhances collaboration across teams. It emphasises coherent standards, flexible integration, continuous delivery, and team enablement, enabling organisations to scale effectively, improve quality, and achieve predictable outcomes through simplified, resilient, and integrated engineering processes.
+  updated: 2025-05-23T23:14:28Z
 aliases:
 - /resources/methods/one-engineering-system/
 - /methods/1es/

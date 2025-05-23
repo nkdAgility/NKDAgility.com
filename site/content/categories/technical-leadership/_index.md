@@ -26,10 +26,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of technical leadership, such as unrelated management theories, non-agile methodologies, or personal anecdotes that do not contribute to the understanding of technical leadership in an agile context.
 headline:
   cards: []
-  title: 'Technical Leadership: Guiding Teams to Technical Excellence and Sustainable Innovation'
-  subtitle: Guiding teams in technical decision-making, architecture, and innovation to deliver high-quality, sustainable solutions aligned with organisational and customer goals.
-  content: Guiding teams in technical decision-making, architecture, and implementation to achieve sustainable value delivery. Emphasises systemic thinking, continuous improvement, and cross-disciplinary collaboration. Covers topics such as technical mentoring, architectural stewardship, quality assurance, risk management, and aligning technical solutions with organisational strategy and customer needs in complex environments.
-  updated: 2025-05-23T22:46:26Z
+  title: 'Technical Leadership: Empowering Teams Through Technical Excellence'
+  subtitle: Guiding teams through technical excellence, informed decision-making, systemic thinking, and continuous improvement to deliver sustainable value.
+  content: Guidance and mentorship for development teams through deep technical expertise, enabling informed decisions on architecture, design, and implementation. Emphasises systemic thinking, experimentation, continuous improvement, cross-discipline collaboration, and alignment of technical choices with organisational objectives, customer value, and sustainable delivery in complex, rapidly evolving environments.
+  updated: 2025-05-23T23:12:14Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -24,10 +24,10 @@ Instructions: |-
   - Role comparisons that do not clarify accountability
 headline:
   cards: []
-  title: 'Scrum Master (SM): Catalysing Team Effectiveness Through Technical, Business, and Organisational Mastery'
-  subtitle: Guidance, coaching, and leadership for teams and organisations seeking to improve collaboration, delivery, and adaptability through empirical, outcome-driven practices.
-  content: Explores the multifaceted role responsible for enabling team effectiveness, fostering self-management, and driving continuous improvement. Covers coaching, facilitation, technical fluency, business alignment, organisational change, empirical decision-making, and outcome orientation, drawing on influences from complexity theory, systems thinking, and evidence-based approaches to product delivery.
-  updated: 2025-05-23T22:46:42Z
+  title: 'Scrum Master: Catalysing Agile Excellence and Continuous Improvement'
+  subtitle: Empowering teams and organisations through coaching, facilitation, and mastery in technical excellence, business value, and organisational effectiveness.
+  content: The Scrum Master serves as a change agent who empowers teams and organisations to continuously improve their systems of work, enabling empirical decision-making, self-management, and sustainable value delivery. Posts explore technical excellence, product strategy, organisational transformation, coaching techniques, complexity navigation, and evidence-based approaches to enhancing team effectiveness and outcomes.
+  updated: 2025-05-23T23:12:49Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

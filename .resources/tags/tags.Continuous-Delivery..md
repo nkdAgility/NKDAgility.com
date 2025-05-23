@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** unrelated content such as general software development practices that do not specifically address Continuous Delivery, discussions on unrelated methodologies (e.g., Agile without a focus on delivery), or misinterpretations of Continuous Delivery principles.
 headline:
   cards: []
-  title: 'Continuous Delivery (CD): Accelerating Value with Reliable, Incremental Software Releases'
-  subtitle: Enabling rapid, reliable software releases through automated workflows, incremental improvements, and fast feedback to maximize value and adaptability
-  content: Encompasses the disciplined release of software in frequent, incremental updates, emphasizing automation, rapid feedback, and safe deployment. Topics include deployment pipelines, automated testing, integration, release strategies, risk reduction, feedback loops, and organizational adaptability, drawing on principles from flow, systems thinking, and empirical process control.
-  updated: 2025-05-23T22:49:14Z
+  title: 'Continuous Delivery: Accelerating Value Through Rapid, Reliable Releases'
+  subtitle: Accelerating software releases through automation, rapid feedback loops, and reliable incremental improvements to maximise user value and responsiveness.
+  content: A software delivery approach enabling teams to rapidly and reliably release incremental improvements to users through automation of integration, testing, and deployment processes, facilitating quick validation of assumptions, responsiveness to user feedback, reduced risk, enhanced quality, and accelerated value delivery, thereby promoting continuous learning, adaptability, and innovation.
+  updated: 2025-05-23T23:17:12Z
 aliases:
 - /learn/agile-delivery-kit/first-principals/continuous-delivery/
 sitemap:

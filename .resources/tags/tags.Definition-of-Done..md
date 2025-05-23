@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of the Definition of Done, such as unrelated project management practices, non-Agile methodologies, or personal opinions on team dynamics that do not directly relate to the DoD.
 headline:
   cards: []
-  title: 'Definition of Done (DoD): Ensuring Releasable Quality Through Shared Team Standards'
-  subtitle: Establishing clear, shared criteria for completed work to ensure quality, transparency, and consistency in product delivery across teams and iterations
-  content: Establishes clear, measurable criteria for completed work, ensuring increments are usable, verifiable, and ready for release. Covers quality standards, shared team agreements, validation steps, and continuous improvement, supporting transparency, empirical feedback, and alignment across teams, as advocated by the Scrum Guide, Evidence-Based Management, and modern product delivery thought leaders.
-  updated: 2025-05-23T22:46:35Z
+  title: 'Definition of Done (DoD): Setting Clear Standards for Releasable Quality'
+  subtitle: Establishing clear, measurable criteria for completed work to ensure transparency, quality, and readiness for real-world use.
+  content: A shared, explicit agreement outlining the criteria required for work to be considered complete, usable, and ready for release. It establishes clear quality standards, ensures transparency, reduces ambiguity, and supports continuous improvement, enabling teams to deliver reliable increments and make informed decisions based on measurable outcomes and real-world feedback.
+  updated: 2025-05-23T23:12:35Z
 references:
 - title: Getting started with a Definition of Done (DoD)
   url: https://www.scrum.org/resources/blog/getting-started-definition-done-dod

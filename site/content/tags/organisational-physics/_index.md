@@ -26,10 +26,10 @@ Instructions: |-
   - Content focused solely on individual behaviours without considering the organisational context.
 headline:
   cards: []
-  title: 'Organisational Physics: Systems Thinking for Adaptive and Resilient Team Dynamics'
-  subtitle: Exploring how systems thinking reveals the hidden forces, feedback loops, and patterns shaping organisational behaviour, adaptability, and continuous improvement.
-  content: Explores how interconnected elements—such as people, workflows, and technology—shape organisational outcomes through feedback loops, constraints, and emergent behaviours. Covers system dynamics, flow efficiency, decision-making under uncertainty, change adaptation, and the impact of structural and cultural forces on performance, resilience, and continuous improvement.
-  updated: 2025-05-23T22:56:39Z
+  title: 'Organisational Physics: Leveraging Systems Thinking for Agile Adaptability'
+  subtitle: Exploring systems thinking, organisational dynamics, complexity theory, and decision-making to enhance adaptability, resilience, and continuous improvement.
+  content: Organisational Physics applies systems thinking to understand interactions between people, processes, and technology, revealing patterns, feedback loops, and systemic constraints. It supports informed decision-making, effective change management, continuous improvement, and innovation, enabling organisations to navigate complexity, enhance adaptability, and optimise performance in dynamic operational environments.
+  updated: 2025-05-23T23:30:13Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

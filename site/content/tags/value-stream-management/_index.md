@@ -25,10 +25,10 @@ Instructions: |-
   Discussions that do not directly relate to the flow of value, such as general project management practices, unrelated Agile or Scrum methodologies, or any content that misinterprets the core principles of Value Stream Management.
 headline:
   cards: []
-  title: 'Value Stream Management (VSM): Optimising End-to-End Flow for Sustainable Business Impact'
-  subtitle: Optimising end-to-end workflows to maximise customer value, eliminate inefficiencies, and foster cross-team collaboration for continuous improvement and business alignment
-  content: Explores strategies and practices for visualising, analysing, and optimising the end-to-end flow of work, emphasising process transparency, waste reduction, cross-functional collaboration, and alignment with customer value. Covers mapping techniques, flow metrics, bottleneck identification, and continuous improvement to enhance organisational adaptability, throughput, and responsiveness to change.
-  updated: 2025-05-23T22:49:38Z
+  title: 'Value Stream Management: Optimising Flow to Accelerate Customer Value Delivery'
+  subtitle: Optimising end-to-end processes, removing bottlenecks, and aligning workflows to maximise customer value and organisational performance.
+  content: A strategic approach to visualising and optimising the end-to-end flow of work from concept to customer delivery, emphasising waste reduction, process efficiency, and alignment with customer outcomes. It integrates continuous improvement, cross-functional collaboration, flow metrics, and systems thinking to enhance organisational responsiveness, innovation, and adaptability in complex environments.
+  updated: 2025-05-23T23:17:55Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

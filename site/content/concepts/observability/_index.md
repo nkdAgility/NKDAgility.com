@@ -28,10 +28,10 @@ Instructions: |-
   - Content that does not align with Agile, DevOps, or Lean principles
 headline:
   cards: []
-  title: 'Observability (O11y): Unlocking Holistic Insights for Predictable, Data-Driven Value Delivery'
-  subtitle: Gain end-to-end visibility into workflows, team dynamics, and outcomes to drive transparency, rapid learning, and continuous improvement across your organisation.
-  content: Explores how comprehensive system insights support transparency, rapid feedback, and adaptive decision-making. Covers telemetry, flow analysis, value stream visibility, team dynamics, and alignment with organisational goals, drawing on data-driven approaches to enhance predictability, resilience, and continuous improvement across technical and human dimensions.
-  updated: 2025-05-23T22:49:30Z
+  title: 'Observability: Unlocking Real-Time Insights for Continuous Improvement'
+  subtitle: Unlock insights into system performance, team dynamics, and value delivery through real-time data, transparency, and continuous feedback.
+  content: Observability provides comprehensive visibility into system behaviour, workflow dynamics, and value delivery, enabling teams to diagnose issues, recognise patterns, and make informed, data-driven decisions. It encompasses technical telemetry, team interactions, product experiences, and strategic alignment, fostering transparency, collaboration, continuous improvement, and adaptive decision-making across organisational boundaries.
+  updated: 2025-05-23T23:17:42Z
 BodyContentGenDate: 2025-04-09T13:33:01
 sitemap:
   filename: sitemap.xml

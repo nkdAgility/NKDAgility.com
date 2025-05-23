@@ -32,10 +32,10 @@ Instructions: |-
   Classify content here only if it directly addresses the identification, explanation, or application of first principles as foundational, immutable constraints in Lean-Agile, Scrum, or DevOps contexts. Exclude any content that treats principles as optional, flexible, or contextually negotiable.
 headline:
   cards: []
-  title: 'First Principle: Anchoring Agile Practice in Immutable Truths'
-  subtitle: Foundational truths that define non-negotiable boundaries for effective delivery, guiding decisions and validating systems across all roles, domains, and frameworks.
-  content: Irreducible truths that underpin effective product delivery, system design, and organisational change. Posts explore foundational constraints shaping decision-making, professional conduct, and value creation—drawing from systems thinking, flow, empirical process control, and complexity science. Applicable across roles, frameworks, and domains, these principles remain constant regardless of context or methodology.
-  updated: 2025-05-23T22:50:16Z
+  title: 'First Principal: Anchoring Agile Decisions in Immutable Truths'
+  subtitle: Foundational truths that anchor decision-making, validate practices, and define professional boundaries across complexity, delivery, and organisational change.
+  content: First Principal defines irreducible truths that underpin effective decision-making, organisational adaptability, and professional conduct. Posts categorised here clarify foundational constraints governing complexity, flow, continuous improvement, evidence-based decisions, and system validity, enabling teams and leaders to anchor strategies, practices, and metrics in stable, domain-independent realities rather than transient trends or dogma.
+  updated: 2025-05-23T23:18:59Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

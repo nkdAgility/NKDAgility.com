@@ -27,10 +27,10 @@ Instructions: |-
   - Misinterpretations of CaaP that suggest it is merely a rebranding of existing practices without substantive change.
 headline:
   cards: []
-  title: 'Company as a Product (CaaP): Transforming Organisations Through Continuous Value Evolution'
-  subtitle: Transforming organisations into adaptive, customer-focused systems through iterative improvement, cross-functional collaboration, and outcome-driven evolution.
-  content: Explores treating the organisation as an evolving product, integrating customer feedback, measurable outcomes, and iterative improvement. Covers leadership mindset, cross-functional collaboration, value delivery, organisational adaptability, experimentation, and continuous refinement, drawing on systems thinking, flow optimisation, empirical management, and complexity-informed approaches to drive sustainable performance and resilience.
-  updated: 2025-05-23T22:57:53Z
+  title: 'Company as a Product (CaaP): Evolving Your Organisation Through Customer-Driven Agility'
+  subtitle: Transform your organisation into a responsive, customer-centric product by aligning people, processes, and systems for continuous value delivery and innovation.
+  content: An organisational approach that treats the entire company as an evolving product, continuously shaped by customer feedback, measurable outcomes, and experimentation. It emphasises cross-functional collaboration, responsiveness to market dynamics, continuous improvement, and alignment of people, processes, and systems to sustainably deliver customer value and organisational adaptability.
+  updated: 2025-05-23T23:32:11Z
 ResourceId: 9InuUGAkHO4
 aliases:
 - /CaaP

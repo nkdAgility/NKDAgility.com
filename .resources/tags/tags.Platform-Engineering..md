@@ -27,10 +27,10 @@ Instructions: |-
   - Misinterpretations of platform engineering that do not align with the core principles of enhancing developer efficiency and application management.
 headline:
   cards: []
-  title: 'Platform Engineering (PE): Empowering Developers with Self-Service, Scalable Delivery Paths'
-  subtitle: Empowering teams with self-service platforms, streamlined workflows, and resilient tools to accelerate value delivery, reduce complexity, and enhance developer experience
-  content: Encompasses the creation and evolution of internal platforms that streamline software delivery by reducing complexity, enabling self-service, and supporting secure, observable, and resilient workflows. Covers platform-as-product thinking, developer experience, feedback loops, ownership, and continuous improvement to accelerate value delivery and align with organisational goals.
-  updated: 2025-05-23T22:49:08Z
+  title: 'Platform Engineering: Empowering Developers Through Self-Service Platforms'
+  subtitle: Empowering developer autonomy and accelerating value delivery through internal platforms, streamlined interfaces, self-service tooling, and rapid feedback loops.
+  content: Platform Engineering encompasses the design, creation, and ongoing refinement of internal platforms that empower development teams to independently deliver value with speed, reliability, and reduced cognitive load, emphasising self-service tooling, infrastructure abstraction, continuous feedback loops, and alignment with organisational strategy to enable rapid experimentation and resilient software delivery at scale.
+  updated: 2025-05-23T23:17:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -26,10 +26,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to software engineering practices, such as general business management topics, unrelated technology discussions, or personal opinions on software tools without a methodological context.
 headline:
   cards: []
-  title: 'Software Development (SD): Systematic Practices for Sustainable Value and Continuous Innovation'
-  subtitle: Systematic approaches, methodologies, and practices for building, delivering, and evolving high-quality software that meets user needs and drives business value.
-  content: Covers systematic approaches to designing, building, testing, and delivering software that aligns with user and business needs. Includes iterative delivery, workflow visualisation, automation, integration, feedback loops, cross-functional collaboration, continuous improvement, and evidence-based decision-making across the entire software lifecycle.
-  updated: 2025-05-23T22:51:02Z
+  title: 'Software Development: Accelerating Delivery Through Agile and DevOps Practices'
+  subtitle: Systematic approaches and practices for delivering high-quality software solutions through iterative development, collaboration, and continuous improvement.
+  content: Software Development encompasses systematic methods and practices for creating reliable, user-centric software solutions aligned with organisational goals. It emphasises iterative delivery, continuous integration, automation, rigorous testing, cross-functional collaboration, evidence-informed decision-making, and responsiveness to change, enabling teams to effectively manage complexity, reduce risk, and consistently deliver customer value.
+  updated: 2025-05-23T23:20:26Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

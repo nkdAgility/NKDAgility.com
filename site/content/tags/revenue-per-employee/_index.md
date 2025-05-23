@@ -26,10 +26,10 @@ Instructions: |-
   - Unstructured commentary without metric-based analysis
 headline:
   cards: []
-  title: 'Revenue per Employee (RPE): Uncovering Systemic Efficiency for Strategic Organisational Growth'
-  subtitle: Measuring organisational financial efficiency and systemic performance by tracking how workforce capacity translates into revenue, supporting data-driven decision making
-  content: Explores how financial efficiency is measured by dividing total revenue by workforce size, enabling systemic analysis of organisational throughput, productivity, and alignment. Covers empirical inspection, strategic planning, delivery constraints, and the impact of structural or operational changes, drawing on evidence-based and flow-oriented management perspectives.
-  updated: 2025-05-23T22:57:48Z
+  title: 'Revenue per Employee: Measuring Workforce Efficiency for Strategic Agility'
+  subtitle: Measuring financial efficiency and workforce productivity to inform strategic decisions, identify constraints, and evaluate systemic performance trends.
+  content: Revenue per Employee measures organisational effectiveness in converting workforce capacity into financial outcomes, enabling empirical analysis of productivity, throughput, and operational alignment. Posts explore strategic planning, constraint identification, organisational restructuring impacts, workforce composition shifts, automation effects, and interpreting financial signals as indicators of overall system health and performance trends.
+  updated: 2025-05-23T23:32:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

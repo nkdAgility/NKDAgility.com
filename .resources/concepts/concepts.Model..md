@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of their application or relevance in Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: 'Model: Simplifying Complexity for Informed Agile Decision-Making'
-  subtitle: Conceptual tools that simplify complexity, enabling teams to visualise systems, enhance collaboration, and inform decisions through shared understanding and systems thinking.
-  content: Conceptual representations that simplify complex systems, enabling teams to visualise relationships, analyse dynamics, and support informed decision-making. Posts explore models such as Cynefin, Kanban flow, Theory of Constraints, and systems thinking, highlighting their role in fostering shared understanding, adaptability, and continuous improvement within product and delivery environments.
-  updated: 2025-05-23T22:54:50Z
+  title: 'Model: Simplifying Complexity to Enhance Agile Decision-Making'
+  subtitle: Conceptual representations that simplify complexity, clarify system dynamics, inform decisions, and enable effective collaboration and continuous improvement.
+  content: A model provides a simplified conceptual representation of complex systems or problems, enabling teams to visualise relationships, processes, and outcomes clearly. It supports informed decision-making, effective communication, systems thinking, and continuous improvement by highlighting underlying dynamics, structural relationships, and opportunities for optimising value delivery and organisational adaptability.
+  updated: 2025-05-23T23:27:29Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

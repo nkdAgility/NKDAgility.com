@@ -25,10 +25,10 @@ Instructions: |-
   - Misinterpretations of decision theory that do not align with its core principles, such as deterministic approaches that ignore uncertainty.
 headline:
   cards: []
-  title: 'Decision Theory (DT): Navigating Uncertainty with Data-Driven Choices for Agile Success'
-  subtitle: Frameworks and practices for making data-driven, risk-aware choices in complex, fast-changing environments to improve outcomes, adaptability, and value delivery
-  content: Explores systematic approaches to making choices under uncertainty, drawing on probability, heuristics, and behavioural economics. Covers risk assessment, trade-off analysis, empirical evaluation, and structured decision-making, supporting data-driven planning, adaptability, and continuous improvement in complex, fast-changing environments across product development, delivery, and organisational strategy.
-  updated: 2025-05-23T22:56:44Z
+  title: 'Decision Theory: Navigating Uncertainty with Evidence-Based Choices'
+  subtitle: Systematic approaches and heuristics for navigating uncertainty, assessing risks, and making informed, evidence-based decisions in complex environments.
+  content: Decision Theory provides a structured approach to navigating uncertainty and complexity by systematically evaluating options, risks, and potential outcomes through heuristics, probability, behavioural economics, and empirical insights, enabling teams to make informed, data-driven choices that enhance responsiveness, strategic alignment, continuous improvement, and organisational resilience in dynamic environments.
+  updated: 2025-05-23T23:30:19Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

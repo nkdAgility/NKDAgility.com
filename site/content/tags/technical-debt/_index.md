@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the management and implications of technical debt, such as unrelated software development practices, general project management topics, or misinterpretations of Agile and DevOps principles that do not consider the long-term sustainability of the codebase.
 headline:
   cards: []
-  title: 'Technical Debt: Minimising Hidden Costs to Sustain Agile Innovation'
-  subtitle: Understanding, identifying, and addressing the hidden costs of quick fixes in software development to ensure sustainable delivery, quality, and adaptability.
-  content: Explores the causes, impact, and management of suboptimal technical decisions that create future rework, including code quality, refactoring, documentation gaps, and outdated systems. Covers strategies for visibility, prioritisation, and reduction to sustain flow, adaptability, and product quality in evolving, value-driven environments.
-  updated: 2025-05-23T22:46:38Z
+  title: 'Technical Debt: Managing Hidden Costs to Sustain Agile Innovation'
+  subtitle: Managing hidden costs of short-term software decisions to sustain quality, innovation, and long-term responsiveness to market demands.
+  content: Technical debt encompasses the hidden costs and risks incurred when teams prioritise short-term convenience over sustainable, high-quality solutions. Posts explore identifying, measuring, and systematically reducing these trade-offs through refactoring, improved coding practices, effective tooling, and fostering a culture of continuous improvement to enhance responsiveness, innovation, and long-term product health.
+  updated: 2025-05-23T23:12:42Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

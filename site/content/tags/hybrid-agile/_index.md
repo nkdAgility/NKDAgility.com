@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that promote Hybrid Agile as a viable long-term strategy, or that misinterpret its core challenges and implications. Avoid content that suggests a simplistic blending of agile and traditional methodologies without critical analysis of the resulting dysfunctions.
 headline:
   cards: []
-  title: 'Hybrid Agile: Navigating the Pitfalls of Mixed Methods for True Organisational Agility'
-  subtitle: Examining the pitfalls of mixing adaptive practices with traditional control, exposing how mismatched frameworks undermine flow, feedback, and genuine team empowerment
-  content: Explores the pitfalls of combining iterative delivery practices with traditional project controls, highlighting issues such as conflicting expectations, superficial role adoption, command-and-control persistence, and misalignment between intent and structure. Critiques diluted implementations and emphasizes the need for coherent, feedback-driven systems over tactical compromises.
-  updated: 2025-05-23T22:57:43Z
+  title: 'Hybrid Agile: Avoiding the Trap of Rigid Governance with Illusory Agility'
+  subtitle: Examining the pitfalls of blending iterative practices with traditional governance, highlighting risks of diluted principles, conflicting goals, and lost agility
+  content: Hybrid approaches that attempt to integrate iterative, responsive methods into traditional project management structures, often resulting in superficial adoption, conflicting expectations, diluted accountability, and persistent command-and-control mindsets—highlighting the dysfunction, erosion of trust, delayed feedback loops, and structural incoherence that arise from poorly executed implementations.
+  updated: 2025-05-23T23:31:55Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

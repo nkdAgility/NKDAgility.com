@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the strategic aspects of product management, such as technical implementation details, unrelated project management methodologies, or personal opinions that lack a foundation in established product management theories and practices.
 headline:
   cards: []
-  title: 'Product Management (PM): Maximising Value Through Strategic Prioritisation and Evidence-Based Decisions'
-  subtitle: Guiding product teams to maximise value by aligning customer needs, business goals, and technical feasibility through evidence-based, outcome-focused decision-making.
-  content: Explores the discipline of maximising product value by aligning user needs, business goals, and technical feasibility. Covers prioritisation, outcome-driven decision-making, stakeholder collaboration, evidence-based metrics, customer feedback synthesis, technical empathy, and clear accountability—drawing on insights from Scrum, Kanban, continuous delivery, complexity theory, and evidence-based management.
-  updated: 2025-05-23T22:55:30Z
+  title: 'Product Management: Optimising Value Through Strategic Prioritisation'
+  subtitle: Strategic discipline focused on aligning customer needs, business goals, and technical feasibility to prioritise value, inform decisions, and drive outcomes.
+  content: A strategic discipline responsible for aligning customer needs, business objectives, and technical feasibility to maximise value delivery. It emphasises outcome-driven prioritisation, evidence-informed decision-making, technical empathy, stakeholder collaboration, and clear accountability boundaries, ensuring product decisions balance desirability, viability, and feasibility to achieve measurable business and user impact.
+  updated: 2025-05-23T23:28:31Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on unrelated methodologies, frameworks, or practices that do not directly contribute to the understanding or implementation of business agility, such as traditional project management approaches or non-agile frameworks.
 headline:
   cards: []
-  title: 'Business Agility: Accelerating Value Delivery Through Adaptive Organisational Practices'
-  subtitle: Enabling organisations to swiftly respond to change, foster innovation, and optimise value delivery through adaptive practices, cross-functional collaboration, and continuous improvement.
-  content: Explores organisational adaptability through rapid response to change, value-driven delivery, and continuous innovation. Covers topics such as cross-functional collaboration, workflow optimisation, empirical decision-making, iterative improvement, customer-centricity, and the integration of systems thinking, feedback loops, and experimentation to achieve resilience and sustained competitive advantage.
-  updated: 2025-05-23T22:57:00Z
+  title: 'Business Agility: Adapting Rapidly to Drive Continuous Value Delivery'
+  subtitle: Empowering organisations to swiftly adapt, innovate, and respond effectively to market shifts, customer demands, and emerging opportunities.
+  content: Business Agility encompasses organisational responsiveness to market shifts, customer demands, and emerging opportunities through rapid adaptation, continuous improvement, and cross-functional collaboration. It involves optimising workflows, shortening lead times, fostering experimentation, leveraging data-driven insights, and cultivating a culture of flexibility to proactively navigate complexity, drive innovation, and deliver sustained value.
+  updated: 2025-05-23T23:30:43Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

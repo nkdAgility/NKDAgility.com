@@ -26,10 +26,10 @@ Instructions: |-
   - Content that focuses solely on documentation rather than delivering **functional software**.
 headline:
   cards: []
-  title: 'Increment (Scrum): Delivering Tangible Value with Every Iteration'
-  subtitle: Showcasing completed, usable outcomes from each iteration to enable transparency, feedback, and continuous value delivery throughout product development.
-  content: Covers the creation, inspection, and evolution of deliverable outputs at the end of each iteration, emphasizing transparency, measurable value, and adaptability. Explores practices for ensuring work is usable, aligns with stakeholder needs, supports continuous feedback, and enables responsive decision-making across iterative and flow-based delivery systems.
-  updated: 2025-05-23T22:48:22Z
+  title: 'Increment: Delivering Tangible Value Through Iterative Progress'
+  subtitle: Delivering tangible, inspectable outcomes each iteration to enable transparency, rapid feedback, continuous improvement, and informed decision-making.
+  content: Increment describes the tangible, usable outcome delivered at the conclusion of each iteration, providing measurable value and enabling rapid feedback loops. It encompasses iterative delivery, transparency, stakeholder collaboration, continuous adaptation, risk mitigation, and alignment with customer needs, supporting evidence-based decision-making and responsive product evolution in complex environments.
+  updated: 2025-05-23T23:15:46Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

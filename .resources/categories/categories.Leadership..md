@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to leadership practices, such as technical implementation details, specific tools or technologies, or unrelated management theories that do not align with Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: 'Leadership: Empowering Teams for Adaptive Value Delivery'
-  subtitle: Insights and practices for empowering teams, fostering innovation, and guiding organisations through change to achieve sustainable, high-performing outcomes.
-  content: Explores the role of guiding individuals and teams through uncertainty, enabling adaptive thinking, fostering psychological safety, and promoting shared ownership. Covers topics such as vision-setting, empowerment, systemic thinking, cultural transformation, decision-making frameworks, and the cultivation of environments where innovation, collaboration, and continuous improvement are sustained.
-  updated: 2025-05-23T22:54:33Z
+  title: 'Leadership: Empowering Teams to Thrive in Agile Environments'
+  subtitle: Empowering teams, fostering innovation, and guiding organisations through complexity to achieve sustainable value delivery and adaptive decision-making.
+  content: Leadership embodies the capability to guide teams through complexity, foster accountability, and nurture a culture of continuous improvement and innovation. It involves empowering individuals, facilitating adaptive decision-making, and cultivating collaborative environments, thereby enabling organisations to effectively respond to evolving customer demands and sustain long-term organisational resilience and performance.
+  updated: 2025-05-23T23:26:56Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

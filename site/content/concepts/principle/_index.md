@@ -27,10 +27,10 @@ Instructions: |-
   - Misinterpretations of principles as vague philosophies or abstract values.
 headline:
   cards: []
-  title: 'Principle: Actionable Guidelines for Navigating Complexity and Driving Team Alignment'
-  subtitle: Core guidelines that inform team actions, drive alignment, and enable effective decision-making in complex, fast-changing environments across all organisational levels
-  content: Fundamental, actionable beliefs that guide organisational decision-making and team behaviour, providing a practical framework for navigating complexity, fostering autonomy, enabling evidence-driven choices, and supporting continuous improvement, adaptability, and alignment with organisational goals across dynamic environments, as emphasised by thought leaders in product development, systems thinking, and empirical management.
-  updated: 2025-05-23T22:57:09Z
+  title: 'Principle: Actionable Guidelines for Navigating Complexity and Driving Improvement'
+  subtitle: Fundamental guidelines shaping decision-making, aligning team behaviours, and enabling effective responses to complexity, uncertainty, and continuous improvement.
+  content: Principles are fundamental, actionable guidelines that shape organisational decision-making, inform team behaviours, and provide clarity in complex, uncertain environments. They establish a consistent framework for aligning practices with strategic goals, enabling evidence-based decisions, continuous improvement, adaptability, self-management, and effective responses to evolving customer needs and market conditions.
+  updated: 2025-05-23T23:31:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of the DoR that deviate from its purpose of ensuring actionable standards for sprint planning.
 headline:
   cards: []
-  title: 'Definition of Ready (DoR): Ensuring Clarity Without Compromising Agile Adaptability'
-  subtitle: Establishing clear, shared criteria for backlog item readiness to improve team alignment, reduce misunderstandings, and support effective delivery and refinement practices
-  content: Explores the criteria and collaborative understanding required for backlog items to be actionable, including outcome clarity, hypothesis formulation, and telemetry. Examines refinement, stakeholder alignment, INVEST attributes, and the risks of false readiness, drawing on evidence-informed practices and complexity thinking to support effective product delivery.
-  updated: 2025-05-23T22:49:04Z
+  title: 'Definition of Ready (DoR): Clarifying Criteria to Enable Effective Sprint Execution'
+  subtitle: Clarifying criteria and conditions that ensure backlog items are sufficiently understood, actionable, and valuable before entering development.
+  content: Definition of Ready describes criteria that clarify when a backlog item is sufficiently understood and actionable for implementation. Posts explore establishing shared understanding among stakeholders, avoiding premature assumptions of readiness, continuous refinement practices, backlog candidacy criteria, INVEST principles, and balancing objective clarity with subjective team alignment.
+  updated: 2025-05-23T23:16:55Z
 aliases:
 - /practices/Definition-of-Ready-DoR.html
 - /learn/agile-delivery-kit/practices/definition-of-ready-dor

@@ -27,10 +27,10 @@ Instructions: |-
   - Content that focuses solely on traditional management theories without integrating complexity perspectives
 headline:
   cards: []
-  title: 'Complexity Thinking: Navigating Uncertainty for Sustainable Organisational Adaptability'
-  subtitle: Exploring systemic approaches, emergent behaviors, and adaptive strategies for navigating uncertainty, interdependencies, and change within teams and organisations
-  content: Explores how principles from complexity science inform organisational change, decision-making, and value delivery. Covers topics such as emergent behaviour, system interdependencies, feedback loops, experimentation, resilience, and adaptive responses to uncertainty, drawing on frameworks like Cynefin and insights from thought leaders in systems thinking and continuous improvement.
-  updated: 2025-05-23T22:55:51Z
+  title: 'Complexity Thinking: Navigating Uncertainty to Foster Adaptive Organisations'
+  subtitle: Navigating uncertainty, emergent behaviours, and systemic interdependencies to enhance adaptability, resilience, and sustainable value delivery.
+  content: An approach grounded in complexity science principles, addressing organisational challenges characterised by uncertainty, emergent behaviours, and nonlinear interactions. It emphasises systemic thinking, adaptability, experimentation, iterative feedback loops, and resilience, enabling teams to navigate unpredictability, improve decision-making, and sustainably deliver value within dynamic environments.
+  updated: 2025-05-23T23:29:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

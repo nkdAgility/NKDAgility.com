@@ -28,7 +28,7 @@ function Call-OpenAI {
 
     # Create the body for the API request
     $body = @{
-        "model"       = "gpt-4.1"
+        "model"       = "gpt-4.5-preview"
         "messages"    = @(
             @{ "role" = "system"; "content" = $system },
             @{ "role" = "user"; "content" = $prompt }

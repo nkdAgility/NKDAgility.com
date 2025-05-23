@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of TDD, such as general software development practices that do not specifically address the TDD methodology, or unrelated testing strategies that do not involve the TDD cycle.
 headline:
   cards: []
-  title: 'Test Driven Development (TDD): Building Quality In from the First Line of Code'
-  subtitle: Ensuring software reliability and adaptability by guiding development with automated tests, fostering quality, accountability, and continuous improvement from the start
-  content: Emphasises writing automated tests before code to clarify requirements, guide design, and ensure reliability. Covers iterative development, refactoring with safety nets, continuous improvement, technical excellence, and sustainable delivery. Explores impacts on team collaboration, adaptability, and maintaining stakeholder trust through robust, test-driven workflows and measurable outcomes.
-  updated: 2025-05-23T22:47:24Z
+  title: 'Test Driven Development (TDD): Building Quality In Through Early Test Automation'
+  subtitle: Driving software quality and design clarity through automated tests that enable continuous improvement, rapid feedback, and reliable, maintainable code.
+  content: A structured software development approach emphasising automated tests written before code implementation, guiding design decisions, clarifying requirements, and reducing defects. It promotes continuous improvement, adaptability, technical excellence, and reliable delivery, enabling teams to confidently introduce new functionality while maintaining existing system integrity and fostering organisational trust and accountability.
+  updated: 2025-05-23T23:14:04Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

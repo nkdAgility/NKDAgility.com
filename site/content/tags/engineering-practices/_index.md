@@ -22,10 +22,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core principles of Agile engineering practices, such as project management methodologies unrelated to software development, non-technical topics, or personal opinions that do not align with established Agile philosophies.
 headline:
   cards: []
-  title: 'Engineering Practices: Elevating Software Quality Through Agile Technical Excellence'
-  subtitle: Techniques and methodologies for building reliable, maintainable software—covering clean code, automation, test-first development, and continuous improvement.
-  content: Covers disciplined technical approaches such as clean code, refactoring, test-first development, automation, and continuous integration. Emphasises maintainability, rapid feedback, and flow efficiency, supporting sustainable delivery, reduced waste, and adaptability. Integrates quality-focused techniques that align technical work with business outcomes and foster a culture of learning and improvement.
-  updated: 2025-05-23T22:47:20Z
+  title: 'Engineering Practices: Driving Technical Excellence for Agile Delivery'
+  subtitle: Foundational techniques and methodologies that drive technical excellence, continuous improvement, and reliable software delivery.
+  content: Engineering Practices encompass technical methods and disciplines that enable teams to consistently deliver reliable, maintainable software through clean coding, automation, continuous integration, test-driven development, and collaborative code ownership, thereby reducing technical debt, enhancing adaptability, and ensuring sustainable value delivery aligned with customer needs and organisational objectives.
+  updated: 2025-05-23T23:13:55Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

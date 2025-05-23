@@ -27,10 +27,10 @@ Instructions: |-
   - Content that does not align with the original theories and philosophies of Kanban as defined by key authors and practitioners in the field.
 headline:
   cards: []
-  title: 'Kanban: Evolving Workflows for Sustainable, Evidence-Based Improvement'
-  subtitle: Improving workflow and value delivery through visualisation, flow management, and evolutionary change for teams navigating complex, adaptive environments
-  content: Explores evolutionary change through visualising workflow, limiting work in progress, and managing flow to enhance predictability and value delivery. Covers system observability, explicit policies, feedback loops, performance metrics, and continuous improvement, drawing on systems thinking, complexity theory, and evidence-based approaches for sustainable organisational adaptation.
-  updated: 2025-05-23T22:50:12Z
+  title: 'Kanban: Optimising Flow for Sustainable Value Delivery'
+  subtitle: Optimise workflow, visualise system dynamics, manage flow, and drive evolutionary improvements for predictable, sustainable value delivery.
+  content: A strategy for managing organisational change by visualising workflow, limiting work in progress, and optimising flow to enhance value delivery. Rooted in systems thinking, it promotes evolutionary improvement through explicit policies, measurement-driven decisions, and continuous adaptation, enabling predictable, sustainable outcomes in complex, rapidly evolving environments.
+  updated: 2025-05-23T23:18:49Z
 aliases:
 - /methods/kanban-strategy/
 - /learn/agile-delivery-kit/strategies/kanban-strategy/

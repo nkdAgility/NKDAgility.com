@@ -27,10 +27,10 @@ Instructions: |-
   - Content focused on traditional management practices or command-and-control structures.
 headline:
   cards: []
-  title: 'Cell Structure Design (CSD): Empowering Autonomous Teams for Adaptive Value Delivery'
-  subtitle: Empowering autonomous teams to deliver value through decentralised networks, dynamic coordination, and continuous adaptation in complex business environments
-  content: Explores decentralised organisational models where autonomous units hold end-to-end responsibility, emphasising dynamic coordination, transparency, and rapid value delivery. Covers self-organisation, systemic design, empowerment, continuous improvement, and adaptability in complex environments, drawing on Beta Codex, complexity theory, and evidence-based approaches to enhance responsiveness and innovation.
-  updated: 2025-05-23T22:58:34Z
+  title: 'Cell Structure Design: Empowering Autonomous Teams for Adaptive Value Delivery'
+  subtitle: Empowering autonomous teams to rapidly adapt, innovate, and deliver customer value through decentralised networks and dynamic coordination.
+  content: An organisational approach that replaces traditional hierarchies with decentralised, autonomous units ("cells") to enhance responsiveness, adaptability, and customer value delivery. Posts explore decentralisation, self-organisation, dynamic coordination, complexity theory, transparency, continuous improvement, organisational responsiveness, and fostering empowered, collaborative teams in rapidly changing business environments.
+  updated: 2025-05-23T23:33:15Z
 ResourceId: 5KmsJtm570B
 aliases:
 - /methods/beta-codex-cell-structure-design/

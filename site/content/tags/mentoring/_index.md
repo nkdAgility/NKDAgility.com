@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to the mentoring process, such as technical implementation details, project management tools, or unrelated business strategies that do not align with the core principles of Agile and its methodologies.
 headline:
   cards: []
-  title: 'Mentoring: Cultivating Continuous Growth and Resilience in Agile Teams'
-  subtitle: Guidance, support, and knowledge sharing to nurture growth, critical thinking, and continuous learning for resilient, high-performing teams in modern product development
-  content: Guidance and support from experienced professionals to nurture growth, critical thinking, and continuous learning. Topics include skill development, knowledge transfer, psychological safety, fostering ownership, long-term professional growth, navigating complexity, and aligning individual aspirations with organisational goals in collaborative, adaptive, and evidence-driven environments.
-  updated: 2025-05-23T22:52:37Z
+  title: 'Mentoring: Cultivating Continuous Learning for Agile Team Resilience'
+  subtitle: Guidance and support for nurturing professional growth, fostering continuous learning, and building resilient, high-performing teams.
+  content: Experienced professionals guide colleagues through skill development, critical thinking, and continuous learning, fostering psychological safety, experimentation, and sustainable growth. Posts explore nurturing talent, facilitating knowledge transfer, aligning individual growth with organisational objectives, and cultivating resilient teams capable of adapting effectively to complexity and change.
+  updated: 2025-05-23T23:23:20Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -27,9 +27,9 @@ Instructions: |-
 headline:
   cards: []
   title: 'Working Software: Delivering Tangible Value Through Iterative Increments'
-  subtitle: Deliverables that demonstrate progress, value, and quality through iterative development, continuous feedback, and alignment with customer and business needs
-  content: Posts in this classification explore the creation, inspection, and delivery of functional product increments that meet defined quality standards, demonstrate progress, and provide value. Topics include iterative delivery, feedback loops, Definition of Done, stakeholder alignment, transparency, and adapting deliverables to evolving needs and customer expectations.
-  updated: 2025-05-23T22:53:18Z
+  subtitle: Delivering tangible, high-quality increments that demonstrate progress, enable rapid feedback, and continuously align teams with customer value and expectations.
+  content: Working Software represents tangible, functional deliverables produced iteratively by teams, demonstrating measurable progress, customer value, and readiness for release. It encompasses incremental delivery, continuous feedback, quality standards, adaptive planning, stakeholder alignment, and sustainable value creation, enabling transparency, responsiveness to evolving requirements, and ongoing improvement within complex environments.
+  updated: 2025-05-23T23:24:34Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

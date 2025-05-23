@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to the strategic use of digital technologies for business transformation, such as general technology trends without a focus on agility or innovation, or unrelated business practices that do not involve digital tools or methodologies.
 headline:
   cards: []
-  title: 'Digital Transformation (DT): Empowering Agility and Innovation Through Strategic Technology Integration'
-  subtitle: Exploring strategies, frameworks, and practices for integrating digital technologies to drive innovation, streamline operations, and enable adaptive business evolution.
-  content: Explores the holistic integration of digital technologies to transform organisational structures, workflows, and decision-making. Covers topics such as cultural change, data-driven experimentation, systemic process optimisation, continuous delivery, value stream mapping, and adaptive strategies for navigating complexity, aligning technological advancements with evolving business goals and customer expectations.
-  updated: 2025-05-23T22:57:13Z
+  title: 'Digital Transformation: Leveraging Technology to Drive Agility and Innovation'
+  subtitle: Strategically integrating digital technologies to reshape operations, drive innovation, enhance adaptability, and deliver sustainable business value.
+  content: Digital Transformation encompasses the strategic integration of digital technologies into organisational processes and culture, fundamentally reshaping operations, decision-making, and collaboration. It emphasises continuous improvement, experimentation, data-driven insights, and responsiveness to market dynamics, enabling organisations to innovate, optimise workflows, and sustainably deliver customer value in complex, evolving environments.
+  updated: 2025-05-23T23:31:09Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -28,10 +28,10 @@ Instructions: |-
   - Content that focuses solely on individual performance without considering the team context.
 headline:
   cards: []
-  title: 'Team Motivation: Cultivating Engagement for Sustainable High Performance'
-  subtitle: Inspiring high-performing teams through engagement, ownership, and a shared sense of purpose to drive collaboration, innovation, and continuous improvement.
-  content: Explores strategies, principles, and practices that inspire individuals to contribute fully, foster ownership, and sustain high performance. Covers psychological safety, empowerment, recognition, autonomy, purpose alignment, feedback loops, and the impact of leadership, organisational culture, and continuous improvement on team engagement and resilience.
-  updated: 2025-05-23T22:52:33Z
+  title: 'Team Motivation: Unlocking Team Potential for Sustainable Agile Performance'
+  subtitle: Empowering teams to foster ownership, collaboration, innovation, and sustained high performance through intrinsic motivation and continuous improvement.
+  content: Team motivation encompasses practices and principles that cultivate an environment where individuals feel valued, empowered, and inspired to take ownership, collaborate effectively, and pursue continuous improvement, thereby enhancing team resilience, adaptability, innovation, and the consistent delivery of customer value in complex and rapidly changing contexts.
+  updated: 2025-05-23T23:23:13Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

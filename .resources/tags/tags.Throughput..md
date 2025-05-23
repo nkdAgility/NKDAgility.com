@@ -25,10 +25,10 @@ Instructions: |-
   - Content that uses throughput as a proxy for personal productivity
 headline:
   cards: []
-  title: 'Throughput: Optimising Flow and Uncovering Bottlenecks for Continuous Improvement'
-  subtitle: Measuring and visualising the flow of completed work to identify trends, remove bottlenecks, and drive continuous improvement across teams and systems
-  content: Measures the volume of completed work within a set timeframe, enabling teams to evaluate delivery flow, identify constraints, and assess the impact of process changes. Topics include system-level performance, flow visualisation, empirical feedback, workflow adjustments, and the interplay with metrics like lead time and cycle time.
-  updated: 2025-05-23T22:49:34Z
+  title: 'Throughput: Measuring Flow to Optimise Team Performance'
+  subtitle: Measuring and visualising the flow of work to identify bottlenecks, optimise delivery, and drive continuous improvement through empirical insights.
+  content: Throughput measures the volume of completed work items delivered by a system within a defined period, providing empirical insights into flow efficiency, system constraints, and delivery predictability. Posts explore measurement techniques, visualisation methods, flow analytics, and practices for optimising workflow, managing complexity, and enabling continuous improvement through evidence-based decisions.
+  updated: 2025-05-23T23:17:48Z
 BodyContentGenDate: 2025-04-09T14:41:33
 sitemap:
   filename: sitemap.xml

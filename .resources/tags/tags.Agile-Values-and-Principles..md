@@ -27,10 +27,10 @@ Instructions: |-
   - Content that focuses on unrelated methodologies or frameworks outside the Agile context.
 headline:
   cards: []
-  title: 'Agile Values and Principles: Cultivating Adaptive Teams for Sustainable Value Delivery'
-  subtitle: Foundational mindsets and guiding principles for fostering collaboration, adaptability, and continuous improvement in modern product development and organisational culture.
-  content: Explores the foundational mindset and guiding principles that empower teams to prioritise collaboration, transparency, and adaptability. Covers topics such as customer-centricity, iterative delivery, continuous improvement, empirical decision-making, self-organisation, and responding to change, drawing on thought leadership from product development, systems thinking, and complexity science.
-  updated: 2025-05-23T22:51:06Z
+  title: 'Agile Values and Principles: Cultivating Adaptability for Sustainable Value Delivery'
+  subtitle: Core principles guiding teams toward collaboration, adaptability, continuous improvement, and sustainable value delivery in complex environments.
+  content: Core guidelines that prioritise collaboration, responsiveness to change, customer-centricity, and continuous improvement, enabling teams to self-organise, adapt effectively to complexity, and sustainably deliver value. Posts explore foundational principles, cultural shifts, decision-making frameworks, feedback-driven practices, and organisational resilience within dynamic product development environments.
+  updated: 2025-05-23T23:20:34Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

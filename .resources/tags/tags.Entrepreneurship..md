@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the entrepreneurial process, such as general business management practices, unrelated economic theories, or topics outside the scope of innovation and risk-taking in business.
 headline:
   cards: []
-  title: 'Entrepreneurship: Cultivating Agile Innovation for Sustainable Organisational Growth'
-  subtitle: Fostering innovation, experimentation, and adaptive thinking to empower teams in identifying opportunities, driving value, and thriving amid rapid market change
-  content: Explores the mindset and organisational conditions that empower teams to pursue opportunity, experiment, and adapt rapidly to change. Covers topics such as innovation, risk management, value-driven decision-making, cross-functional collaboration, continuous learning, and the cultivation of environments that support creativity, resilience, and customer-centric outcomes.
-  updated: 2025-05-23T23:00:58Z
+  title: 'Entrepreneurship: Embedding Innovation to Accelerate Agile Value Delivery'
+  subtitle: Empowering teams to innovate, experiment, and rapidly adapt, fostering a culture of continuous learning, resilience, and customer-focused value creation.
+  content: Entrepreneurship embodies the mindset of innovation, experimentation, and informed risk-taking essential for navigating uncertainty and rapidly evolving markets. It encourages proactive opportunity identification, iterative learning through customer feedback, adaptive decision-making, cross-functional collaboration, and continuous improvement, enabling organisations to deliver sustainable value and effectively respond to complex challenges.
+  updated: 2025-05-23T23:33:56Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

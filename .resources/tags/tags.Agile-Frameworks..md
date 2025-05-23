@@ -26,10 +26,10 @@ Instructions: |-
   - Content that focuses solely on tools or technologies without reference to the frameworks themselves
 headline:
   cards: []
-  title: 'Agile Frameworks: Structuring Teams for Adaptive Value Delivery'
-  subtitle: Explore structured methodologies like Scrum, Kanban, and Lean that guide teams in delivering value, fostering collaboration, and driving continuous improvement.
-  content: Explores structured approaches for iterative product development, including roles, events, and artefacts that support transparency, collaboration, and continuous improvement. Covers frameworks such as Scrum and Kanban, workflow visualisation, empirical process control, team dynamics, and adaptation to change, drawing on foundational guides and thought leaders.
-  updated: 2025-05-23T22:53:55Z
+  title: 'Agile Frameworks: Empowering Teams for Continuous Value Delivery'
+  subtitle: Structured methodologies enabling teams to deliver value predictably, foster collaboration, optimise workflows, and adapt to evolving market demands.
+  content: Structured methodologies that enable teams and organisations to deliver value iteratively and responsively through defined roles, events, and artefacts. Posts explore frameworks such as Scrum and Kanban, emphasising collaboration, transparency, continuous improvement, workflow optimisation, and adaptability to changing customer needs, market dynamics, complexity, and organisational contexts.
+  updated: 2025-05-23T23:25:39Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

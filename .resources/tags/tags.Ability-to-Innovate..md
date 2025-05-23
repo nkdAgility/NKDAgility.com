@@ -26,10 +26,10 @@ Instructions: |-
   - Content that does not reference established theories or philosophies related to innovation in the context of Agile, DevOps, or Lean methodologies.
 headline:
   cards: []
-  title: 'Ability to Innovate (EBM): Fostering Continuous Experimentation for Sustainable Competitive Advantage'
-  subtitle: Exploring how organisations foster experimentation, learning cycles, and adaptive cultures to consistently deliver new value and sustain competitive advantage
-  content: Explores organisational capacity to generate and sustain new solutions through experimentation, rapid feedback, and continuous learning. Covers topics such as psychological safety, learning cycles, throughput of new ideas, systemic adaptability, and the cultural enablers that support ongoing improvement and responsiveness to evolving customer and market needs.
-  updated: 2025-05-23T22:52:55Z
+  title: 'Ability to Innovate: Cultivating Continuous Experimentation for Sustainable Growth'
+  subtitle: Empowering organisations to continuously experiment, adapt, and deliver customer-centric solutions through systemic innovation and rapid learning cycles
+  content: Ability to Innovate describes an organisation's capacity to consistently generate, test, and implement new ideas and solutions, enabling rapid adaptation to evolving customer needs and market conditions. It encompasses experimentation frequency, innovation throughput, learning cycles, psychological safety, organisational adaptability, and practices that embed innovation into daily operations and culture.
+  updated: 2025-05-23T23:23:50Z
 BodyContentGenDate: 2025-04-10T14:21:29
 sitemap:
   filename: sitemap.xml

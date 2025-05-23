@@ -27,10 +27,10 @@ Instructions: |-
   - Content that does not address the broader implications of agility on organisational performance and culture
 headline:
   cards: []
-  title: 'Enterprise Agility: Scaling Adaptive Culture for Sustainable Organisational Success'
-  subtitle: Strategies and practices for building adaptive, customer-focused organisations through systemic change, continuous improvement, and cross-functional collaboration at scale
-  content: Explores organisational adaptability at scale, covering systemic change, continuous improvement, cross-functional collaboration, and value delivery across all levels. Includes topics such as cultural transformation, flow optimisation, leadership evolution, evidence-based decision-making, dismantling silos, and navigating complexity to achieve sustainable responsiveness and alignment with evolving customer and market needs.
-  updated: 2025-05-23T22:55:36Z
+  title: 'Enterprise Agility: Embedding Adaptability for Sustainable Business Success'
+  subtitle: Enabling organisations to rapidly adapt, innovate, and thrive amid market shifts by embedding responsiveness into culture, structure, and processes.
+  content: Enterprise-wide capability enabling organisations to rapidly sense, respond, and adapt to market shifts, customer demands, and emerging complexities. It encompasses systemic organisational change, continuous improvement, cross-functional collaboration, evidence-based decision-making, flow optimisation, and fostering a culture of innovation and responsiveness to sustain competitive advantage in dynamic environments.
+  updated: 2025-05-23T23:28:37Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

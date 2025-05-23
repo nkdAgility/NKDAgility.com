@@ -28,10 +28,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated frameworks (e.g., Kanban, Lean, DevOps) or misinterpretations of Scrum principles that do not align with the original Scrum Guide or the philosophies of its founders.
 headline:
   cards: []
-  title: 'Scrum: Empowering Teams for Adaptive Value Delivery in Complex Environments (Scrum)'
-  subtitle: Guidance on iterative teamwork, roles, events, and practices for delivering high-value solutions in complex environments through transparency, inspection, and adaptation
-  content: Explores the framework for delivering value in complex environments through empiricism, iterative planning, defined roles, and time-boxed events. Covers team accountabilities, incremental delivery, continuous improvement, and value-driven prioritisation, drawing on thought leadership in product development, complexity theory, and evidence-based organisational change.
-  updated: 2025-05-23T22:54:42Z
+  title: 'Scrum: Empowering Teams to Deliver Value Through Empirical Adaptation'
+  subtitle: A framework enabling teams to collaboratively deliver adaptive solutions through empiricism, iterative delivery, continuous improvement, and value prioritisation.
+  content: A structured framework grounded in empiricism, designed to enable teams to collaboratively deliver incremental value in complex environments. Posts explore iterative delivery, empirical decision-making, self-organisation, continuous improvement, product ownership, team accountabilities, sprint-based planning, and practices for transparency, inspection, adaptation, and managing complexity effectively.
+  updated: 2025-05-23T23:27:14Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

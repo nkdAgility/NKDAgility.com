@@ -28,10 +28,10 @@ Instructions: |-
   - Descriptions of isolated practices that lack cross-cutting, enabling impact.
 headline:
   cards: []
-  title: 'Capability: Building Enduring Team Competence for Sustainable Value Delivery'
-  subtitle: Building enduring team strengths and organisational competencies for consistent, adaptive value delivery through collaboration, learning, and continuous improvement.
-  content: Persistent organisational strengths that enable teams to deliver value predictably and adaptively, encompassing systemic learning, collaboration, continuous improvement, and alignment with strategic goals. Topics include skill development, knowledge sharing, feedback loops, measurable progress, cross-functional cohesion, and evolving practices for navigating complexity and driving sustainable outcomes.
-  updated: 2025-05-23T22:50:21Z
+  title: 'Capability: Building Adaptive Competence for Sustainable Value Delivery'
+  subtitle: Building persistent competencies that enable teams and organisations to deliver predictable, sustainable value and confidently adapt to evolving challenges.
+  content: Capability represents enduring organisational competencies that enable teams to consistently deliver value, adapt effectively to change, and sustain continuous improvement. It encompasses systemic development of skills, collaborative learning, feedback-driven evolution, alignment across functions, and measurable outcomes, fostering resilience and responsiveness in complex, uncertain environments.
+  updated: 2025-05-23T23:19:11Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

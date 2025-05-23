@@ -25,10 +25,10 @@ Instructions: |-
   - Content that does not focus on potential improvements or innovation opportunities.
 headline:
   cards: []
-  title: 'Unrealised Value (EBM): Unlocking Hidden Opportunities for Sustainable Growth'
-  subtitle: Identifying and measuring untapped opportunities to drive innovation, optimise performance, and inform strategic decisions for sustainable growth and adaptability
-  content: Explores untapped organisational potential by identifying gaps between current outcomes and possible future gains, including market opportunities, process enhancements, and customer needs. Emphasises measurement, analysis, and strategic action to foster innovation, adaptability, and sustainable growth through informed decision-making and continuous improvement.
-  updated: 2025-05-23T22:55:07Z
+  title: 'Unrealised Value: Unlocking Hidden Opportunities for Sustainable Growth'
+  subtitle: Identifying untapped opportunities and potential improvements to drive innovation, optimise performance, and sustainably capture future value.
+  content: Unrealised Value represents potential opportunities an organisation has not yet captured, highlighting latent market demands, unmet customer needs, and areas primed for innovation. It involves systematically identifying performance gaps, optimising workflows, and strategically allocating resources to unlock future growth, enhance adaptability, and sustainably increase competitive advantage in dynamic environments.
+  updated: 2025-05-23T23:27:51Z
 BodyContentGenDate: 2025-04-10T14:19:54
 sitemap:
   filename: sitemap.xml

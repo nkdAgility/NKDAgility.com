@@ -24,10 +24,10 @@ Instructions: |-
   - Misinterpretations of technical excellence that deviate from its role in improving engineering practices and product quality.
 headline:
   cards: []
-  title: 'Technical Excellence: Engineering Practices for Sustainable Agility and High-Quality Delivery'
-  subtitle: Elevating software quality through proven engineering practices, automation, modular design, and continuous improvement for sustainable, adaptable product delivery.
-  content: Emphasises disciplined engineering practices such as automated testing, modular design, continuous integration, and emergent architecture to ensure maintainable, scalable, and reliable software. Supports rapid adaptation, sustainable delivery, and ongoing improvement by embedding quality and technical mastery into team culture and product development processes.
-  updated: 2025-05-23T22:49:21Z
+  title: 'Technical Excellence: Engineering Practices That Drive Agility and Quality'
+  subtitle: Engineering practices and principles that enable teams to deliver high-quality, maintainable software, adapt rapidly, and continuously improve performance.
+  content: Technical Excellence describes disciplined engineering practices that enable teams to deliver reliable, maintainable, and scalable software. It includes practices such as Test-Driven Development, Continuous Integration and Delivery, modular architecture, emergent design, and continuous improvement, supporting responsiveness to changing requirements, sustainable quality, and efficient value delivery.
+  updated: 2025-05-23T23:17:27Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

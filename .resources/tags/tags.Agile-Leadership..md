@@ -27,10 +27,10 @@ Instructions: |-
   - Content that focuses solely on technical practices without addressing the leadership aspect.
 headline:
   cards: []
-  title: 'Agile Leadership: Empowering Teams for Adaptive Success'
-  subtitle: Insights and practices for empowering teams, fostering adaptability, and driving continuous improvement through modern leadership, collaboration, and evidence-based change.
-  content: Explores leadership approaches that empower teams to self-organise, foster psychological safety, and drive continuous improvement. Covers topics such as enabling collaborative decision-making, aligning organisational and team goals, supporting experimentation, and cultivating resilience in complex environments, drawing on insights from Scrum, Kanban, systems thinking, and evidence-based management.
-  updated: 2025-05-23T22:50:30Z
+  title: 'Agile Leadership: Empowering Teams to Thrive Through Continuous Adaptation'
+  subtitle: Guiding teams and organisations toward adaptability, empowerment, and continuous improvement through transparency, collaboration, and evidence-based decision-making.
+  content: Leadership approach centred on guiding teams and organisations through complexity by fostering adaptability, empowerment, and continuous improvement. It emphasises self-organisation, collaborative decision-making, psychological safety, transparency, trust, experimentation, alignment of organisational and team objectives, and responsiveness to change, enabling sustained innovation, resilience, and consistent value delivery.
+  updated: 2025-05-23T23:19:28Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

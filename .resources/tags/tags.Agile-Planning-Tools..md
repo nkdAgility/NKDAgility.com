@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to the planning tools used in Agile methodologies, such as general project management tools that do not adhere to Agile principles, or unrelated software development practices that do not focus on Agile execution.
 headline:
   cards: []
-  title: 'Agile Planning Tools: Empowering Teams for Predictable and Adaptive Value Delivery'
-  subtitle: Empowering teams to visualise, prioritise, and adapt work through structured planning, real-time insights, and collaborative tools for sustainable value delivery.
-  content: Encompasses digital and physical solutions that support transparent work visualisation, backlog refinement, empirical forecasting, and collaborative planning. Includes tools for flow management, prioritisation, and progress tracking, drawing on principles from Scrum, Kanban, continuous delivery, and evidence-based decision-making to enable adaptive, value-driven delivery in complex environments.
-  updated: 2025-05-23T22:54:24Z
+  title: 'Agile Planning Tools: Visualising Work to Drive Predictable Value Delivery'
+  subtitle: Tools and techniques for effective backlog management, workflow visualisation, forecasting, real-time collaboration, and continuous improvement.
+  content: Planning tools that enable teams to visualise workflows, prioritise tasks, manage backlogs, and forecast delivery effectively. They support informed decision-making through empirical data, enhance collaboration, improve responsiveness to changing conditions, and foster continuous improvement, ultimately increasing predictability, adaptability, and sustained value delivery in complex environments.
+  updated: 2025-05-23T23:26:39Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

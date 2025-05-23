@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus solely on linear problem-solving approaches, isolated methodologies without consideration of interconnections, or any misinterpretations of Systems Thinking that do not align with its core principles and philosophies.
 headline:
   cards: []
-  title: 'Systems Thinking: Uncovering Leverage Points for Sustainable Organisational Impact'
-  subtitle: Exploring holistic approaches to understanding interconnections, managing complexity, and driving sustainable organisational change for improved decision-making and value delivery
-  content: Explores holistic approaches for understanding and managing organisational complexity by examining interconnections, feedback loops, and cause-effect relationships. Topics include system dynamics, leverage points, unintended consequences, continuous improvement, and collaborative problem-solving, drawing on insights from complexity theory, flow optimisation, and evidence-based decision-making to drive sustainable change.
-  updated: 2025-05-23T22:54:07Z
+  title: 'Systems Thinking: Unlocking Sustainable Value Through Holistic Insights'
+  subtitle: Unlock organisational performance by understanding interconnectedness, managing complexity, and enabling sustainable decision-making and continuous improvement.
+  content: A holistic approach enabling organisations to navigate complexity by understanding interconnected relationships, feedback loops, and interdependencies within organisational systems. Posts explore decision-making, identifying leverage points, managing complexity, fostering collaboration, continuous improvement, organisational adaptability, complexity theory, feedback-driven learning, and sustainable change through systemic perspectives and practices.
+  updated: 2025-05-23T23:26:06Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

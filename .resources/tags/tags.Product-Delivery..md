@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core principles of product delivery, such as unrelated software development practices, theoretical discussions without practical application, or topics that do not directly contribute to the understanding of delivering software products effectively.
 headline:
   cards: []
-  title: 'Product Delivery: Streamlining End-to-End Value with Agile, Lean, and DevOps Practices'
-  subtitle: End-to-end practices, principles, and insights for delivering valuable, high-quality software through collaborative workflows, continuous improvement, and rapid feedback.
-  content: Covers the integrated journey from idea to customer, including planning, iterative development, validation, release, and feedback. Explores workflow optimisation, team collaboration, flow efficiency, continuous improvement, and adaptability, drawing on empirical evidence, systems thinking, and responsive delivery to maximise value and align outcomes with evolving customer needs.
-  updated: 2025-05-23T22:50:25Z
+  title: 'Product Delivery: Streamlining End-to-End Value for Continuous Innovation'
+  subtitle: Streamlining end-to-end workflows to reliably deliver customer-focused products, accelerate feedback loops, and drive continuous improvement and innovation.
+  content: Product Delivery encompasses the end-to-end process of planning, building, validating, and releasing software products to customers. It emphasises continuous improvement, rapid feedback loops, workflow optimisation, cross-functional collaboration, and adaptive practices, enabling organisations to consistently deliver customer value, respond effectively to market dynamics, and foster innovation and team empowerment.
+  updated: 2025-05-23T23:19:20Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

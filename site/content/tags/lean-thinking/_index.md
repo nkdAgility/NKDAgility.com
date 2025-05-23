@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from Lean principles, such as unrelated management theories, non-technical productivity hacks, or misinterpretations of Lean as merely cost-cutting measures.
 headline:
   cards: []
-  title: 'Lean Thinking: Minimising Waste to Maximise Sustainable Value Delivery'
-  subtitle: Maximising value and flow by eliminating waste, fostering continuous improvement, and empowering teams to deliver sustainable, customer-focused outcomes.
-  content: Explores principles and practices for eliminating inefficiencies, optimising workflow, and fostering a culture of ongoing improvement. Covers topics such as value stream mapping, flow optimisation, systems thinking, customer-centric delivery, empirical process control, and the role of feedback loops in enhancing organisational adaptability and resilience.
-  updated: 2025-05-23T22:53:27Z
+  title: 'Lean Thinking: Streamlining Workflows to Maximise Customer Value'
+  subtitle: Optimise value delivery, eliminate waste, and foster continuous improvement through customer-focused workflows and sustainable process innovation.
+  content: An approach centred on systematically identifying and eliminating waste in organisational processes to maximise customer value, inspired by principles from Taiichi Ohno, Eliyahu Goldratt, and W. Edwards Deming. It emphasises continuous improvement, streamlined workflows, reduced lead times, enhanced collaboration, and responsiveness to evolving customer demands through evidence-based decision-making and experimentation.
+  updated: 2025-05-23T23:24:52Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

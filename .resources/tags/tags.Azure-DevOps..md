@@ -27,10 +27,10 @@ Instructions: |-
   - Personal opinions or experiences that do not provide insights into Azure DevOps functionalities or practices
 headline:
   cards: []
-  title: 'Azure DevOps (ADO): Unifying Teams for Seamless CI/CD and Agile Delivery'
-  subtitle: Guidance and insights on leveraging Microsoft’s unified platform for streamlined software delivery, team collaboration, and continuous improvement at scale
-  content: Explores Microsoft’s integrated platform for orchestrating software delivery, including work item tracking, version control, automated pipelines, and test management. Covers collaborative workflows, transparency, feedback loops, measurement, and continuous improvement, supporting adaptive planning, flow optimisation, and value delivery in complex, evolving environments.
-  updated: 2025-05-23T22:50:01Z
+  title: 'Azure DevOps: Unifying CI/CD and Agile Practices for Continuous Value Delivery'
+  subtitle: Empowering teams to streamline collaboration, accelerate continuous delivery, and drive measurable improvements through integrated workflows and transparency.
+  content: Posts exploring Microsoft's integrated platform for continuous integration, continuous delivery, collaborative workflows, and transparent project management. Includes discussions on pipeline automation, version control, testing strategies, visual work management, flow optimisation, evidence-based decision-making, continuous improvement, organisational learning, complexity management, and fostering innovation through cross-functional collaboration.
+  updated: 2025-05-23T23:18:27Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

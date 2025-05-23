@@ -27,10 +27,10 @@ Instructions: |-
   - Topics unrelated to acceptance criteria, such as coding practices or design patterns that do not directly relate to ATDD principles.
 headline:
   cards: []
-  title: 'Acceptance Test Driven Development (ATDD): Building Shared Understanding for Predictable Value Delivery'
-  subtitle: Ensuring shared understanding and quality by defining testable acceptance criteria upfront, fostering collaboration, early feedback, and continuous improvement in delivery
-  content: Explores collaborative specification of acceptance criteria before development, fostering shared understanding among stakeholders. Covers techniques for early validation, reducing rework, and integrating quality from the outset. Includes stakeholder alignment, shift-left testing, continuous feedback, and adaptability to evolving requirements, drawing on principles from Scrum, Kanban, and evidence-based improvement.
-  updated: 2025-05-23T22:47:48Z
+  title: 'Acceptance Test Driven Development (ATDD): Aligning Teams Through Early Test Collaboration'
+  subtitle: Driving shared understanding and quality through collaborative, test-first criteria that align stakeholders, reduce rework, and accelerate value delivery.
+  content: A collaborative methodology centred on defining clear, testable acceptance criteria before feature implementation, ensuring stakeholder alignment, reducing miscommunication, and embedding quality early. It promotes proactive issue resolution, shared accountability, continuous improvement, and adaptability, enhancing predictability and sustainable value delivery aligned with customer and business objectives.
+  updated: 2025-05-23T23:14:45Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

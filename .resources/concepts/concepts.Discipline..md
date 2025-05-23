@@ -27,10 +27,10 @@ Instructions: |-
   - Topics unrelated to the systemic application and maturation of professional fields.
 headline:
   cards: []
-  title: 'Discipline: Building Organisational Excellence Through Evolving Professional Standards'
-  subtitle: Exploring the evolution, principles, and impact of professional fields—how structured expertise, governance, and continuous learning drive organisational excellence.
-  content: Explores the evolution, governance, and systemic impact of professional fields such as Project Management, Systems Engineering, and Product Strategy. Covers principles, ethical standards, cognitive approaches, and frameworks that shape practice, learning, and decision-making, highlighting their influence on organisational effectiveness and adaptability in complex, collaborative environments.
-  updated: 2025-05-23T23:01:02Z
+  title: 'Discipline: Cultivating Professional Mastery for Organisational Excellence'
+  subtitle: Exploring structured fields of practice, professional standards, systemic maturity, and their impact on organisational performance and continuous improvement.
+  content: A structured field of professional practice characterised by shared principles, codified knowledge, ethical standards, and governance frameworks, encompassing how practitioners reason, navigate complexity, and continuously evolve their understanding. Posts explore discipline formation, systemic maturity, cognitive approaches, and their impact on organisational performance and adaptability in complex environments.
+  updated: 2025-05-23T23:08:12Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -26,10 +26,10 @@ Instructions: |-
   - General Agile content that does not reference use or impact of Liberating Structures
 headline:
   cards: []
-  title: 'Liberating Structures (LS): Facilitating Equal Participation for High-Impact Team Collaboration'
-  subtitle: Facilitation techniques and group engagement patterns that foster inclusive participation, shared understanding, and effective collaboration in team environments
-  content: Facilitation techniques that structure group interactions to foster inclusive participation, rapid idea generation, and shared understanding. Emphasizes distributed control, psychological safety, and actionable outcomes in team events, supporting continuous improvement, adaptive decision-making, and collaborative problem-solving across product development, workflow optimization, and organizational change initiatives.
-  updated: 2025-05-23T22:54:20Z
+  title: 'Liberating Structures: Facilitation Patterns for Inclusive Team Collaboration'
+  subtitle: Facilitation techniques that unlock team collaboration, foster psychological safety, and enable inclusive decision-making and rapid idea generation.
+  content: Liberating Structures offer practical facilitation techniques designed to improve group interactions, foster inclusive participation, and enhance collective decision-making. Applicable across team events, workshops, and retrospectives, these structured methods encourage psychological safety, rapid idea generation, and collaborative problem-solving, enabling teams to navigate complexity and continuously adapt without hierarchical facilitation.
+  updated: 2025-05-23T23:26:31Z
 ResourceId: -Gso-hQgUca
 aliases:
 - /methods/liberating-structures/

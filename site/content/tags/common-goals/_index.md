@@ -22,10 +22,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core concept of Common Goals, such as unrelated project management techniques, personal anecdotes, or vague motivational content that does not connect to the principles of Agile, Scrum, or DevOps.
 headline:
   cards: []
-  title: 'Common Goals: Unifying Strategy and Execution for Meaningful Organisational Impact'
-  subtitle: Aligning strategy with execution by connecting daily work, decisions, and team commitments to shared objectives for clarity, ownership, and measurable impact
-  content: Explores how shared objectives unify strategy and execution, fostering clarity, ownership, and distributed decision-making. Covers the creation, communication, and operationalisation of measurable goals at every level, including Product and Sprint Goals, OKRs, and flow-based targets, ensuring alignment, adaptability, and meaningful outcomes across teams and organisational systems.
-  updated: 2025-05-23T22:50:46Z
+  title: 'Common Goals: Aligning Strategic Intent with Tactical Commitment'
+  subtitle: Aligning strategy, execution, and measurable outcomes to unify teams, clarify decisions, and ensure every action contributes to shared organisational objectives.
+  content: Common Goals establish clear, measurable objectives that unify strategy and execution, guiding prioritisation, decision-making, and tactical commitments. Posts categorised here explore goal-setting frameworks, outcome-oriented practices, strategic alignment, and methods for fostering accountability, ownership, and clarity across teams to ensure meaningful, value-driven outcomes.
+  updated: 2025-05-23T23:19:57Z
 ResourceId: K-0Kt7CHeQw
 aliases:
 - /learn/agile-delivery-kit/first-principals/common-goals/

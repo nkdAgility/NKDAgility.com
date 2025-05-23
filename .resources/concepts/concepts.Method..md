@@ -27,10 +27,10 @@ Instructions: |-
   - Content that focuses on tools or software rather than the structured procedural approach
 headline:
   cards: []
-  title: 'Method: Stepwise Execution for Consistent Value Delivery'
-  subtitle: Step-by-step procedures and systematic approaches for achieving goals, optimising workflows, and enabling continuous improvement across collaborative teams and projects
-  content: Structured, repeatable procedures designed to achieve defined outcomes by breaking down complex work into actionable steps. Covers systematic approaches such as iterative cycles, workflow visualisation, feedback loops, and continuous delivery, enabling teams to optimise processes, adapt to change, and measure progress for consistent, value-driven results.
-  updated: 2025-05-23T22:51:25Z
+  title: 'Method: Structured Steps for Agile, Lean, and DevOps Success'
+  subtitle: Structured approaches and systematic procedures that guide teams toward consistent outcomes, continuous improvement, and effective value delivery.
+  content: Method encompasses structured, repeatable procedures and systematic actions designed to achieve specific objectives, optimise workflows, visualise progress, manage iterative development, and facilitate continuous improvement. It provides teams with clear, actionable steps to enhance collaboration, ensure consistency, measure outcomes effectively, and adapt responsively to feedback within complex environments.
+  updated: 2025-05-23T23:21:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

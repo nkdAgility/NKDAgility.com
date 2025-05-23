@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any discussions that focus on traditional management practices, micromanagement, or hierarchical decision-making structures, as these contradict the core philosophy of self-organisation. Additionally, avoid content that misinterprets self-organisation as a lack of structure or guidance, as effective self-organisation still requires clear goals and support mechanisms.
 headline:
   cards: []
-  title: 'Self Organisation: Empowering Teams for Adaptive Ownership and Continuous Innovation'
-  subtitle: Empowering teams to independently manage work, make decisions, and adapt—fostering ownership, collaboration, and resilience in dynamic environments.
-  content: Empowering teams to independently organise work, make decisions, and adapt to change, this category explores autonomy, distributed decision-making, collective ownership, emergent leadership, adaptive workflows, and continuous learning—drawing on insights from systems thinking, complexity theory, flow optimisation, and empirical process control to enhance responsiveness and innovation.
-  updated: 2025-05-23T22:49:17Z
+  title: 'Self Organisation: Empowering Teams for Adaptive Decision-Making'
+  subtitle: Empowering teams to autonomously manage work, drive decisions, foster innovation, and adapt effectively in complex, dynamic environments.
+  content: Self-organisation describes the capability of teams to independently manage tasks, make informed decisions, and swiftly adapt to changing conditions without external direction, emphasising autonomy, accountability, collective problem-solving, continuous improvement through experimentation, and fostering innovation to effectively navigate complexity and enhance organisational resilience.
+  updated: 2025-05-23T23:17:20Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** content focused solely on certification prep, lightweight introductions, or misapplications of Scrum that omit professionalism, empiricism, or the pursuit of value.
 headline:
   cards: []
-  title: 'Professional Scrum (PS): Elevating Accountability and Empiricism for Lasting Product Success'
-  subtitle: Elevating product delivery through empiricism, transparency, and accountability—exploring disciplined practices, roles, and continuous improvement in complex environments
-  content: Explores disciplined, evidence-driven approaches to product delivery, emphasising empiricism, transparency, and accountability. Covers roles as strategic leadership, change facilitation, and technical craftsmanship; the importance of clear definitions of value and completion; and continuous adaptation in complex environments, drawing on thought leaders in product development and organisational change.
-  updated: 2025-05-23T22:53:11Z
+  title: 'Professional Scrum: Elevating Agility Through Empiricism and Technical Excellence'
+  subtitle: A disciplined, empirical approach to delivering complex products through transparency, technical excellence, continuous improvement, and accountable teamwork.
+  content: Professional Scrum embodies disciplined product delivery grounded in empiricism, technical excellence, and continuous value creation, emphasising transparency, clear accountability, rigorous engineering practices, strategic product leadership, responsiveness to complexity, evidence-based decision-making, and a commitment to continuous improvement and frequent delivery.
+  updated: 2025-05-23T23:24:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

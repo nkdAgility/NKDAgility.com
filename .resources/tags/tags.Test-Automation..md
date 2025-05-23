@@ -26,10 +26,10 @@ Instructions: |-
   - Content that does not align with Agile, DevOps, or the principles of continuous improvement in testing.
 headline:
   cards: []
-  title: 'Test Automation: Accelerating Quality and Confidence Through Continuous Feedback (CI/CD)'
-  subtitle: Accelerating quality and feedback by integrating automated testing into development workflows for faster, more reliable releases and continuous improvement.
-  content: Automated testing accelerates feedback on code changes, supports frequent and reliable software releases, and integrates quality checks throughout the development lifecycle. Topics include test strategy, tool selection, maintainability, integration with delivery pipelines, feedback loops, defect detection, measurement, and continuous improvement in collaborative, cross-functional environments.
-  updated: 2025-05-23T22:48:57Z
+  title: 'Test Automation: Accelerating Quality and Confidence in Continuous Delivery'
+  subtitle: Accelerating software quality and reliability through automated testing practices that enable rapid feedback, continuous improvement, and confident releases.
+  content: Automating software testing to accelerate feedback loops, improve software quality, and enable frequent, reliable releases. Posts cover tooling, scripting techniques, continuous integration and delivery pipelines, metrics-driven improvement, reducing production risks, and integrating testing seamlessly into development workflows to enhance collaboration and responsiveness to customer and market demands.
+  updated: 2025-05-23T23:16:40Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -25,10 +25,10 @@ Instructions: |-
   - Content that focuses on theoretical concepts without practical application or measurement of Current Value
 headline:
   cards: []
-  title: 'Current Value (CV): Measuring Real-Time Impact to Drive Continuous Customer-Centric Improvement'
-  subtitle: Measuring and monitoring the real-time impact, satisfaction, and outcomes delivered to users, enabling continuous improvement and data-driven decision-making.
-  content: Current Value highlights the immediate, measurable benefits a product or service delivers to users, including customer satisfaction, financial outcomes, and performance insights. Posts explore data-driven evaluation, feedback loops, outcome measurement, and adaptive decision-making to ensure offerings remain relevant and impactful in rapidly changing environments.
-  updated: 2025-05-23T22:57:38Z
+  title: 'Current Value: Measuring Real-Time Impact to Drive Continuous Improvement'
+  subtitle: Measuring real-time customer impact and performance to guide responsive, data-driven decisions and maximise delivered value.
+  content: Current Value measures the tangible outcomes and immediate benefits delivered to users, capturing customer satisfaction, revenue impact, user engagement, and performance feedback. It enables teams to continuously assess actual product performance, adapt responsively to evolving customer expectations, and make informed decisions to enhance user experience and sustain long-term customer loyalty.
+  updated: 2025-05-23T23:31:47Z
 BodyContentGenDate: 2025-04-10T14:21:14
 sitemap:
   filename: sitemap.xml

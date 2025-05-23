@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the optimisation of deployment intervals, such as general software development practices unrelated to Agile or DevOps, or topics that misinterpret the core principles of continuous delivery and deployment.
 headline:
   cards: []
-  title: 'Deployment Frequency (DF): Accelerating Value Delivery Through Rapid, Reliable Releases'
-  subtitle: Track how often teams deliver new features and fixes to users, enabling faster feedback, continuous improvement, and adaptability in dynamic product environments.
-  content: Measures how often teams deliver software changes to users, highlighting the effectiveness of flow, feedback, and learning cycles. Covers release cadence, automation, process efficiency, team collaboration, risk reduction, and the impact of frequent delivery on customer value, adaptability, and organisational resilience in dynamic environments.
-  updated: 2025-05-23T22:46:53Z
+  title: 'Deployment Frequency: Accelerating Value Delivery Through Rapid Releases'
+  subtitle: Measuring and optimising how frequently teams deliver software to production, enabling rapid feedback, continuous learning, and responsive value delivery.
+  content: Deployment frequency measures how often software is delivered to production, directly influencing responsiveness to customer feedback, market adaptability, and organisational learning. Posts explore techniques for accelerating releases, automation strategies, continuous delivery practices, feedback-driven experimentation, and fostering a culture of rapid iteration, accountability, and continuous improvement.
+  updated: 2025-05-23T23:13:11Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

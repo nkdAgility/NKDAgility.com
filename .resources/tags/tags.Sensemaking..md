@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to the interpretation of complexity, decision-making processes, or the application of sensemaking in organisational contexts. Avoid discussions that focus solely on technical implementations, project management without a sensemaking perspective, or unrelated theories that do not contribute to understanding complexity.
 headline:
   cards: []
-  title: 'Sensemaking: Turning Complexity into Actionable Organisational Insight'
-  subtitle: Exploring how teams interpret complexity, derive actionable insights, and align decisions with evolving contexts to enhance adaptability, learning, and value delivery
-  content: Explores how teams and organisations interpret complex situations to inform decisions, emphasising data gathering, pattern recognition, and insight generation. Covers approaches for navigating uncertainty, aligning with strategic goals, fostering adaptability, and integrating feedback, drawing on systems thinking, complexity theory, and evidence-based approaches to enhance responsiveness and learning.
-  updated: 2025-05-23T22:56:04Z
+  title: 'Sensemaking: Turning Complexity into Actionable Insights'
+  subtitle: Navigating complexity by interpreting data, recognising patterns, and deriving insights to enable informed decisions in uncertain and rapidly changing environments.
+  content: Sensemaking enables organisations to interpret complex situations, identify meaningful patterns, and derive actionable insights from data and experience. It enhances decision-making in uncertain, rapidly changing environments by improving understanding of customer needs, market dynamics, internal capabilities, complexity theory, and evidence-based management, fostering organisational adaptability, resilience, and continuous learning.
+  updated: 2025-05-23T23:29:24Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

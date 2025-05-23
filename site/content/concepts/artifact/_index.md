@@ -26,10 +26,10 @@ Instructions: |-
   - Cultural discussions about collaboration unrelated to artifact structure
 headline:
   cards: []
-  title: 'Artifact: Making Progress Visible for Empirical Decision-Making and Team Alignment'
-  subtitle: Formal outputs that provide transparency, enable inspection, and guide adaptation by making work progress, quality, and value visible across delivery systems.
-  content: Formal, inspectable outputs that provide visibility into work status, progress, and value delivery. Includes items such as backlogs, increments, visual boards, and deployment pipelines, supporting transparency, shared understanding, empirical decision-making, risk identification, and adaptation across product development, flow systems, and continuous delivery environments.
-  updated: 2025-05-23T22:52:01Z
+  title: 'Artifact: Making Work Visible to Drive Empirical Decision-Making'
+  subtitle: Formal, inspectable constructs that reveal progress, enable transparency, support empirical decisions, and foster continuous improvement and alignment.
+  content: Artifacts are formal, inspectable outputs that represent progress, quality, and value within a delivery system, enabling transparency, informed decision-making, and continuous improvement. Posts cover topics such as product backlogs, increments, visual management boards, deployment pipelines, flow metrics, delivery governance, empirical forecasting, and practices supporting inspection and adaptation.
+  updated: 2025-05-23T23:22:10Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

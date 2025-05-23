@@ -27,10 +27,10 @@ Instructions: |-
   - Content that does not address the broader implications of Agile as a mindset or ethos
 headline:
   cards: []
-  title: 'Agile Philosophy: Cultivating Adaptive Mindsets for Lasting Organisational Resilience'
-  subtitle: Exploring the mindset that drives adaptability, collaboration, and customer focus in product development, guiding teams toward continuous improvement and value delivery
-  content: Explores the mindset underpinning adaptive product development, emphasising iterative value delivery, customer focus, and collaborative culture. Covers principles, values, and practices that foster continuous improvement, experimentation, and shared ownership, drawing on thought leaders and frameworks that promote responsiveness, learning, and alignment with evolving organisational and market needs.
-  updated: 2025-05-23T22:52:16Z
+  title: 'Agile Philosophy: Cultivating Adaptability for Continuous Value Delivery'
+  subtitle: Cultivating a mindset of collaboration, adaptability, continuous improvement, and customer-centricity to drive innovation and responsive value delivery
+  content: A mindset centred on iterative value delivery, customer collaboration, continuous improvement, and responsiveness to change. It emphasises cross-functional teamwork, experimentation, rapid feedback loops, and data-informed decision-making, enabling organisations to adapt effectively to complexity, enhance innovation, and align product development closely with evolving customer needs and market conditions.
+  updated: 2025-05-23T23:22:42Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

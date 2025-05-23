@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of structured decision-making, such as anecdotal evidence, personal opinions without empirical support, or unrelated business strategies that do not align with evidence-based practices.
 headline:
   cards: []
-  title: 'Decision Making: Evidence-Driven Choices for Agile Success and Organisational Resilience'
-  subtitle: Structured approaches and evidence-driven practices for evaluating options, fostering collective insight, and enabling adaptive, value-focused business choices.
-  content: Explores structured, evidence-driven approaches for evaluating options and making informed choices, emphasising data analysis, feedback loops, and collective insights. Covers decision frameworks, risk assessment, iterative learning, systemic influences, and continuous improvement, drawing on thought leadership from product development, systems thinking, complexity theory, and empirical management.
-  updated: 2025-05-23T22:57:58Z
+  title: 'Decision Making: Leveraging Evidence to Drive Agile and Informed Choices'
+  subtitle: Structured, evidence-based approaches to informed choices, enabling teams to navigate complexity, reduce risk, and drive continuous improvement.
+  content: Decision making encompasses structured, evidence-based approaches to systematically evaluate options, leveraging data, empirical insights, and collaborative analysis. It addresses organisational complexity, promotes iterative learning, reduces uncertainty, and enhances responsiveness, enabling teams to consistently deliver sustainable value, adapt effectively to change, and align actions with strategic objectives and continuous improvement practices.
+  updated: 2025-05-23T23:32:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on unrelated topics such as technical processes, tools, or methodologies that do not directly address the human aspects of engagement, as well as misinterpretations of employee engagement that do not align with the core principles of motivation and commitment in a team context.
 headline:
   cards: []
-  title: 'Employee Engagement: Cultivating Commitment for Sustainable Team Performance'
-  subtitle: Fostering commitment, motivation, and shared purpose to empower teams, enhance collaboration, and drive sustainable performance across evolving organisational landscapes
-  content: Explores strategies and practices that foster commitment, motivation, and emotional investment among team members, including leadership approaches, feedback mechanisms, psychological safety, recognition, autonomy, purpose alignment, and continuous improvement. Addresses how these factors influence collaboration, adaptability, innovation, and sustainable value delivery within dynamic and complex work environments.
-  updated: 2025-05-23T23:01:06Z
+  title: 'Employee Engagement: Empowering Teams for Sustainable High Performance'
+  subtitle: Fostering commitment, motivation, and emotional investment to build resilient teams, drive innovation, and align individuals with organisational purpose.
+  content: Employee engagement encompasses practices and strategies that strengthen employees' emotional commitment, motivation, and sense of ownership toward organisational goals. It addresses workplace culture, collaboration, empowerment, continuous improvement, and adaptive responsiveness, enabling teams to sustainably deliver value, navigate complexity, and foster innovation aligned with organisational purpose.
+  updated: 2025-05-23T23:34:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

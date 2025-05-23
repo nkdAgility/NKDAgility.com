@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** unrelated content or misinterpretations of the core classification, such as general business management practices that do not specifically apply Lean principles, discussions on established corporate strategies without a focus on innovation, or any content that does not emphasise the iterative learning process central to the Lean Startup methodology.
 headline:
   cards: []
-  title: 'Lean Startup: Accelerating Innovation Through Validated Learning and MVP Experimentation'
-  subtitle: Driving innovation through rapid experimentation, validated learning, and data-driven decision-making to build products that truly meet customer and market needs.
-  content: Explores iterative product development through rapid experimentation, validated learning, and hypothesis testing. Covers minimum viable products, feedback loops, pivoting, business model validation, and continuous adaptation. Emphasises empirical decision-making, cross-functional collaboration, and resource optimisation to align solutions with real customer needs and evolving market conditions.
-  updated: 2025-05-23T22:58:13Z
+  title: 'Lean Startup: Validating Business Models Through Rapid Experimentation'
+  subtitle: Accelerating innovation through rapid experimentation, validated learning, and evidence-based decisions to achieve sustainable product-market fit.
+  content: A systematic approach to validating business ideas through rapid experimentation, iterative learning, and evidence-based decision-making. Posts explore minimum viable products (MVP), hypothesis testing, customer feedback loops, pivot strategies, market-fit validation, and practices for reducing uncertainty, optimising resource allocation, and accelerating innovation in complex, evolving business environments.
+  updated: 2025-05-23T23:32:42Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

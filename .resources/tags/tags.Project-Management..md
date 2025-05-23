@@ -25,10 +25,10 @@ Instructions: |-
   **Exclude** discussions limited to specific agile roles, ceremonies, or practices unless in the context of broader project management integration.
 headline:
   cards: []
-  title: 'Project Management (PM): Orchestrating Teams for Predictable Value and Adaptive Success'
-  subtitle: Strategies, frameworks, and best practices for planning, executing, and delivering projects—balancing goals, constraints, risk, and stakeholder alignment across methodologies.
-  content: Explores structured approaches to initiating, planning, executing, monitoring, and closing projects, including stakeholder engagement, risk management, value delivery, and continuous improvement. Covers frameworks, metrics, and adaptive strategies for navigating uncertainty, aligning teams, and ensuring successful outcomes across diverse industries and organisational contexts.
-  updated: 2025-05-23T23:01:20Z
+  title: 'Project Management: Aligning Teams and Processes for Predictable Value Delivery'
+  subtitle: Managing projects effectively through structured planning, execution, risk management, stakeholder alignment, and continuous improvement.
+  content: Project Management encompasses structured methods and adaptive frameworks for planning, coordinating, and delivering projects effectively within defined constraints. It addresses goal alignment, proactive risk management, stakeholder collaboration, performance measurement, continuous improvement, and navigating complexity and uncertainty to consistently deliver value across diverse organisational contexts.
+  updated: 2025-05-23T23:34:24Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

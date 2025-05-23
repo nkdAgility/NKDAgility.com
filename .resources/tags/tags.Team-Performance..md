@@ -24,10 +24,10 @@ Instructions: |-
   - Motivational or cultural principles without systemic evidence
 headline:
   cards: []
-  title: 'Team Performance: Systemic Approaches to Consistent Delivery and Sustainable Improvement'
-  subtitle: Insights and practices for building consistently effective teams through system design, flow metrics, collaboration patterns, and continuous improvement in delivery.
-  content: Explores how teams achieve reliable, adaptive delivery through system design, flow optimisation, and empirical feedback. Covers delivery patterns, collaboration dynamics, skill alignment, work-in-progress limits, and visibility into blockers, drawing on flow metrics, retrospectives, and evidence-based approaches to identify and sustain improvements in team outcomes.
-  updated: 2025-05-23T22:50:49Z
+  title: 'Team Performance: Optimising Flow and Collaboration for Sustainable Delivery'
+  subtitle: Optimising delivery capability through systemic improvements in flow, responsiveness, collaboration, and quality to achieve consistent team outcomes.
+  content: Team performance describes a team's sustained capability to deliver valuable outcomes, shaped by system design, collaboration patterns, skill alignment, clarity of purpose, and effective management of workflow. Posts explore flow metrics, responsiveness, quality indicators, retrospectives, system constraints, continuous improvement practices, and strategies for enhancing delivery consistency and adaptability.
+  updated: 2025-05-23T23:20:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

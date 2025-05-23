@@ -31,10 +31,10 @@ Instructions: |-
   - Non-iterative or non-customer-centric approaches to product delivery
 headline:
   cards: []
-  title: 'Product Development: Iterative Learning for Sustainable Value Delivery'
-  subtitle: Guiding the creation, evolution, and delivery of valuable products through iterative learning, customer feedback, and cross-functional collaboration for lasting impact
-  content: Explores structured approaches to delivering valuable products through iterative cycles, customer feedback, and continuous improvement. Covers strategy alignment, discovery, delivery, experimentation, feedback loops, risk reduction, cross-functional collaboration, transparency, and sustainable value delivery, drawing on systems thinking, empirical process control, and adaptive frameworks for ongoing product success.
-  updated: 2025-05-23T22:55:44Z
+  title: 'Product Development: Iterative Learning for Continuous Value Delivery'
+  subtitle: Systematic approaches to delivering customer value through iterative discovery, rapid feedback loops, continuous improvement, and strategic alignment.
+  content: Product Development encompasses structured, iterative approaches to creating valuable products through customer feedback, experimentation, and continuous improvement. It integrates strategic alignment, discovery, and delivery, emphasising collaboration, transparency, rapid adaptation to market changes, and evidence-based decision-making to sustainably deliver customer value and achieve organisational objectives.
+  updated: 2025-05-23T23:28:53Z
 BodyContentGenDate: 2025-04-09T14:47:48
 sitemap:
   filename: sitemap.xml

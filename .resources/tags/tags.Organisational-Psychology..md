@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the psychological aspects of organisational behaviour, such as technical methodologies, specific Agile or DevOps practices, or unrelated business strategies. Misinterpretations of core psychological theories or oversimplifications of complex human behaviours should also be avoided.
 headline:
   cards: []
-  title: 'Organisational Psychology (IOP): Fostering Engagement and Psychological Safety for Agile Teams'
-  subtitle: Exploring the human factors that drive team engagement, psychological safety, and effective collaboration for resilient, high-performing organisations and sustainable outcomes
-  content: Explores how individual and group behaviours, motivation, and psychological safety influence team effectiveness, leadership, and organisational culture. Covers topics such as engagement, collaboration, resilience, intrinsic motivation, and adaptive mindsets, drawing on research and practices that support sustainable value delivery and continuous improvement in complex environments.
-  updated: 2025-05-23T22:55:39Z
+  title: 'Organisational Psychology: Unlocking Team Potential Through Psychological Safety'
+  subtitle: Exploring team dynamics, motivation, psychological safety, and leadership practices to build engaged, resilient, and high-performing organisations.
+  content: Organisational psychology examines team behaviours, motivations, and interpersonal dynamics to foster environments of psychological safety, effective collaboration, and intrinsic motivation. It informs leadership practices, enhances team engagement, supports cross-functional collaboration, and promotes adaptive, resilient workforces capable of thriving amid complexity, uncertainty, and rapid change.
+  updated: 2025-05-23T23:28:44Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

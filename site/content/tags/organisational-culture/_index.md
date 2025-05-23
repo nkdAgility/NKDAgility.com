@@ -26,10 +26,10 @@ Instructions: |-
   - Content that does not align with the foundational theories of Agile, DevOps, or Lean regarding culture.
 headline:
   cards: []
-  title: 'Organisational Culture: Shaping Agile Teams for Innovation and Lasting Resilience'
-  subtitle: Exploring the values, behaviours, and mindsets that empower teams to collaborate, innovate, and adapt for lasting organisational success and resilience
-  content: Explores how shared values, beliefs, and behaviours influence team dynamics, decision-making, and adaptability. Covers psychological safety, trust, leadership, continuous improvement, learning environments, and the impact of culture on innovation, collaboration, and organisational resilience, drawing on insights from systems thinking, complexity, and evidence-based approaches.
-  updated: 2025-05-23T22:57:28Z
+  title: 'Organisational Culture: Building Trust and Agility Through Shared Values'
+  subtitle: Shaping values, behaviours, and collaboration to foster innovation, adaptability, psychological safety, and continuous improvement across teams.
+  content: Organisational culture encompasses the shared values, behaviours, and mindsets shaping team interactions, decision-making, and responsiveness to change. It addresses psychological safety, trust-building, continuous learning, collaboration, innovation, and adaptability, influencing how effectively teams deliver sustainable value, navigate complexity, and achieve strategic objectives within dynamic organisational environments.
+  updated: 2025-05-23T23:31:31Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

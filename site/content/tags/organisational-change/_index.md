@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** unrelated content such as technical discussions on software development practices, specific coding techniques, or tools that do not directly relate to the organisational change process. Misinterpretations of the core classification, such as conflating organisational change with mere project management or operational efficiency without a focus on agility, should also be avoided.
 headline:
   cards: []
-  title: 'Organisational Change (OC): Embedding Agility for Sustainable Competitive Advantage'
-  subtitle: Exploring strategies, mindsets, and leadership approaches for evolving organisational structures, cultures, and processes to drive adaptability, innovation, and sustained value.
-  content: Explores the transformation of organisational structures, cultures, and workflows to improve adaptability, resilience, and value delivery. Topics include leadership engagement, cultural evolution, systemic thinking, continuous improvement, stakeholder alignment, and navigating complexity, drawing on insights from systems theory, flow optimisation, and evidence-based decision-making.
-  updated: 2025-05-23T22:56:49Z
+  title: 'Organisational Change: Embedding Agility for Sustainable Adaptation'
+  subtitle: Transforming structures, culture, and processes to build resilience, responsiveness, and sustainable value delivery in complex, evolving environments.
+  content: Organisational Change encompasses the intentional transformation of structures, processes, culture, and leadership behaviours to improve responsiveness, adaptability, and resilience. It addresses complexity, continuous improvement, evidence-based decision-making, cultural evolution, leadership engagement, and systemic thinking, enabling organisations to sustainably deliver customer value amid evolving market conditions and technological advancements.
+  updated: 2025-05-23T23:30:26Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

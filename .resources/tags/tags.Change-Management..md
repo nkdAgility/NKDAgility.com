@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** any discussions that focus on unrelated topics such as project management methodologies that do not incorporate Agile principles, superficial change initiatives that lack depth, or any content that misrepresents the core philosophies of change management in the context of Agile and DevOps.
 headline:
   cards: []
-  title: 'Change Management: Guiding Teams Through Sustainable Transformation and Lasting Engagement'
-  subtitle: Guiding people and organisations through effective transitions, fostering engagement, resilience, and sustainable improvement in response to evolving challenges and opportunities
-  content: Guiding people and organisations through transitions by addressing cultural, behavioural, and systemic factors. Covers stakeholder engagement, communication strategies, leadership alignment, overcoming resistance, sustaining improvements, and fostering adaptability—drawing on insights from systems thinking, continuous improvement, complexity theory, and evidence-based approaches to enable lasting transformation.
-  updated: 2025-05-23T22:57:18Z
+  title: 'Change Management: Guiding Teams to Embrace Sustainable Agile Transitions'
+  subtitle: Guiding individuals, teams, and organisations smoothly through transitions to drive sustainable improvement, reduce resistance, and foster continuous innovation.
+  content: A structured approach to guiding individuals, teams, and organisations through transitions, emphasising human dynamics, reducing resistance, and fostering engagement. It addresses organisational complexity, supports continuous adaptation, and promotes sustainable improvements in performance, responsiveness, and value delivery through experimentation, feedback loops, and evidence-based decision-making.
+  updated: 2025-05-23T23:31:15Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated project management tools, non-Agile methodologies, or misinterpretations of Azure Boards' capabilities outside the context of Agile project management.
 headline:
   cards: []
-  title: 'Azure Boards (Azure DevOps): Visualising Agile Progress for Continuous Team Alignment'
-  subtitle: Visualise, track, and optimise team workflows with integrated boards, enabling transparent planning, progress monitoring, and continuous improvement across projects.
-  content: Supports transparent work tracking, backlog refinement, and iterative planning through visual boards, enabling teams to align priorities, monitor flow, and adapt based on empirical data. Integrates with development and delivery pipelines, fostering collaboration, continuous improvement, and responsiveness to change across interconnected product development activities.
-  updated: 2025-05-23T22:52:20Z
+  title: 'Azure Boards: Visualising Workflows to Accelerate Agile Delivery'
+  subtitle: Visualise workflows, streamline collaboration, manage backlogs, and optimise team productivity for predictable, transparent project delivery.
+  content: A comprehensive approach to visualising workflows, managing tasks, and tracking progress through boards and backlogs. Posts explore effective collaboration, transparency, continuous improvement, workflow optimisation, capacity management, responsiveness to customer feedback, and integration with broader development and delivery practices, supporting predictable value delivery and organisational adaptability.
+  updated: 2025-05-23T23:22:50Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

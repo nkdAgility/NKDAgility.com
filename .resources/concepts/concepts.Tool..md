@@ -25,10 +25,10 @@ Instructions: |-
   - Tools without practical application or alignment with Agile, Lean, or DevOps practices.
 headline:
   cards: []
-  title: 'Tool: Enabling Agile and DevOps Excellence Through Smart Workflow Integration'
-  subtitle: Mechanisms, techniques, and software that empower teams to collaborate, manage workflows, automate processes, and enhance continuous improvement in product delivery
-  content: Mechanisms, techniques, or software that enable teams to visualise work, manage flow, automate tasks, and support collaboration. Posts explore selection, integration, and effective use of tools for workflow transparency, feedback loops, measurement, and continuous improvement within product development, delivery, and organisational change contexts.
-  updated: 2025-05-23T22:56:16Z
+  title: 'Tool: Enabling Agile and DevOps Practices for Continuous Improvement'
+  subtitle: Mechanisms, techniques, and software that enable teams to visualise workflows, automate processes, enhance collaboration, and support continuous improvement.
+  content: A mechanism, technique, or software that enables teams to visualise workflows, automate processes, manage backlogs, and support continuous improvement. It facilitates collaboration, enhances transparency, and accelerates feedback loops, helping teams implement defined methods effectively and align their practices with organisational goals and evidence-based decision-making.
+  updated: 2025-05-23T23:29:37Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

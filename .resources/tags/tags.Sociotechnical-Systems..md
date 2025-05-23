@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of sociotechnical principles that neglect the importance of both elements in software delivery.
 headline:
   cards: []
-  title: 'Sociotechnical Systems (STS): Harmonising People and Technology for Sustainable Team Performance'
-  subtitle: Exploring the synergy between people, processes, and technology to optimise team performance, value delivery, and organisational adaptability in complex environments
-  content: Explores the dynamic relationship between people, processes, and technology in product development, emphasising how organisational culture, communication, workflow design, and technical infrastructure interact to influence team performance, adaptability, and value delivery. Includes systemic thinking, continuous improvement, and the impact of social-technical alignment on sustainable outcomes.
-  updated: 2025-05-23T22:48:47Z
+  title: 'Sociotechnical Systems: Aligning People and Technology for Sustainable Agility'
+  subtitle: Exploring the interplay between people, technology, and organisational dynamics to optimise team performance, innovation, and sustainable value delivery.
+  content: Sociotechnical systems examine the interplay between organisational culture, team dynamics, communication patterns, and technical processes. Posts explore how aligning human collaboration, trust, motivation, workflow design, tooling, and infrastructure enhances team effectiveness, adaptability, continuous improvement, and sustainable value delivery within complex environments.
+  updated: 2025-05-23T23:16:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

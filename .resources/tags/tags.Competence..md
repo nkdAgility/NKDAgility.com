@@ -23,10 +23,10 @@ Instructions: |-
   Discussions that focus on unrelated concepts such as team dynamics without reference to competence, tools or processes that do not directly relate to the development of skills and capabilities, or any misinterpretations of competence that do not align with the principles of professionalism and quality delivery.
 headline:
   cards: []
-  title: 'Competence: Building Expertise for Sustainable Quality and Value Delivery'
-  subtitle: Mastering skills, knowledge, and judgment through continuous learning and practice to ensure effective, high-quality outcomes in modern product and organisational environments
-  content: Explores the cultivation and application of expertise, skills, and sound judgement essential for delivering consistent, high-quality results. Covers continuous learning, deliberate practice, professional standards, capability assessment, and the impact of competence on decision-making, value delivery, and sustainable improvement across product development, organisational change, and complex environments.
-  updated: 2025-05-23T22:56:55Z
+  title: 'Competence: Building Mastery to Drive Agile and DevOps Excellence'
+  subtitle: Building the skills, knowledge, and judgement required for professional mastery, continuous improvement, and effective value delivery.
+  content: Competence encompasses the continuous development, disciplined practice, and effective application of essential skills, knowledge, and judgement. It ensures professional execution, informed decision-making, and reliable value delivery, underpinning quality outcomes, organisational adaptability, and meaningful progress across product development, organisational design, complexity management, and evidence-based approaches.
+  updated: 2025-05-23T23:30:35Z
 ResourceId: I3eGjbYOnzu
 aliases:
 - /resources/I3eGjbYOnzu

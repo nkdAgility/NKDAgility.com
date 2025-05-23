@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to the practices, challenges, or solutions of remote working within Agile frameworks, such as general remote work tips unrelated to Agile methodologies or discussions on non-Agile project management approaches.
 headline:
   cards: []
-  title: 'Remote Working: Empowering Agile Teams for Value Delivery Across Boundaries'
-  subtitle: Enabling distributed teams to collaborate, deliver value, and adapt through digital tools, continuous feedback, and resilient practices beyond physical boundaries.
-  content: Explores distributed teamwork, digital collaboration, and value delivery beyond physical offices. Covers communication strategies, feedback loops, psychological safety, transparency, workflow visualisation, flow optimisation, and adaptive leadership. Examines how remote environments foster engagement, accountability, and resilience while supporting iterative improvement and rapid response to evolving customer needs.
-  updated: 2025-05-23T22:53:31Z
+  title: 'Remote Working: Empowering Agile Teams Beyond Office Boundaries'
+  subtitle: Empowering distributed teams to collaborate effectively, sustain productivity, and deliver continuous value beyond physical boundaries.
+  content: Remote working enables distributed teams to collaborate effectively, deliver customer value, and maintain productivity beyond traditional office boundaries. Posts explore distributed collaboration techniques, digital communication tools, fostering trust and accountability, optimising workflow efficiency, managing complexity, and cultivating team resilience to adapt rapidly to evolving market conditions and customer demands.
+  updated: 2025-05-23T23:25:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

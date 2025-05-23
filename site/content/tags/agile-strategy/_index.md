@@ -27,10 +27,10 @@ Instructions: |-
   - Content focused solely on technical practices without strategic context
 headline:
   cards: []
-  title: 'Agile Strategy: Embedding Organisational Agility for Sustainable Value Delivery'
-  subtitle: Integrating vision, execution, and adaptability to foster responsive, customer-focused organisations through collaboration, feedback, and continuous improvement.
-  content: Explores aligning organisational vision with execution through adaptive planning, continuous improvement, and data-driven decision-making. Covers strategic alignment, value delivery, customer focus, cross-functional collaboration, feedback loops, metrics, and cultural transformation, drawing on systems thinking, complexity theory, and evidence-based approaches to navigate uncertainty and drive sustainable outcomes.
-  updated: 2025-05-23T22:53:41Z
+  title: 'Agile Strategy: Embedding Agility for Sustainable Value Delivery'
+  subtitle: Aligning organisational vision with execution to foster adaptability, continuous innovation, customer focus, and sustainable value delivery.
+  content: A holistic approach to aligning organisational vision with operational execution and responsiveness, emphasising continuous value delivery, customer-centric innovation, and adaptability. It integrates strategic alignment, collaborative culture, transparency, informed decision-making through metrics and feedback loops, and sustained organisational capability to effectively navigate complexity, uncertainty, and rapid market changes.
+  updated: 2025-05-23T23:25:17Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

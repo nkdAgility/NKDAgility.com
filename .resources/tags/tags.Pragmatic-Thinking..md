@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of Agile, Scrum, or DevOps principles that do not align with pragmatic approaches.
 headline:
   cards: []
-  title: 'Pragmatic Thinking: Experience-Driven Solutions for Complex Team Challenges'
-  subtitle: Real-world strategies and insights for navigating complexity, fostering experimentation, and driving continuous improvement in dynamic, uncertain environments
-  content: Emphasises practical, context-driven decision-making and iterative experimentation in complex, fast-changing environments. Covers actionable strategies, empirical feedback, continuous improvement, reflective learning, and adaptive practices that help teams respond effectively to uncertainty, deliver consistent value, and evolve their methods based on real-world outcomes and evidence.
-  updated: 2025-05-23T22:54:11Z
+  title: 'Pragmatic Thinking: Leveraging Experience to Navigate Complexity'
+  subtitle: Practical, experience-driven strategies for navigating complexity, enabling teams to adapt, experiment, and deliver sustainable value in uncertain environments.
+  content: A practical, experience-driven approach to problem-solving that emphasises actionable insights and experimentation in complex, uncertain environments. Posts explore adaptive decision-making, continuous learning, empirical methods, navigating complexity, iterative improvement, and strategies for delivering sustainable value through real-world applicability rather than theoretical frameworks.
+  updated: 2025-05-23T23:26:14Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

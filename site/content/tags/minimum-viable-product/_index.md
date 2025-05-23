@@ -27,10 +27,10 @@ Instructions: |-
   - Content that does not align with Agile, Lean, or evidence-based management principles.
 headline:
   cards: []
-  title: 'Minimum Viable Product (MVP): Accelerating Learning Through Focused Early Releases'
-  subtitle: Strategies and insights for building, testing, and iterating early product versions to validate ideas, gather feedback, and drive continuous improvement and value delivery
-  content: Explores strategies for delivering early product versions with essential features to validate assumptions, gather user feedback, and inform iterative development. Covers hypothesis-driven delivery, rapid experimentation, cross-functional collaboration, value optimisation, and continuous improvement, drawing on empirical measurement, systems thinking, and adaptive approaches to manage uncertainty and complexity.
-  updated: 2025-05-23T22:56:20Z
+  title: 'Minimum Viable Product (MVP): Accelerating Innovation Through Rapid User Feedback'
+  subtitle: Delivering essential product features rapidly to validate assumptions, accelerate feedback loops, and enable continuous improvement and innovation.
+  content: A product development approach centred on rapidly delivering a simplified yet functional version to early users, enabling quick validation of market assumptions, iterative learning, and informed decision-making. It emphasises experimentation, cross-functional collaboration, continuous improvement, and responsiveness to customer feedback, reducing risk and maximising value in complex, uncertain environments.
+  updated: 2025-05-23T23:29:44Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

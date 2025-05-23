@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core principles of Lean, such as unrelated management theories, non-iterative processes, or practices that do not focus on waste reduction and value maximisation.
 headline:
   cards: []
-  title: 'Lean Principles: Minimising Waste to Maximise Customer Value and Continuous Improvement'
-  subtitle: Strategies and practices for eliminating waste, streamlining workflows, and fostering continuous improvement to maximise value and responsiveness in product development.
-  content: Explores minimising waste and maximising value through continuous improvement, iterative learning, and flow optimisation. Covers topics such as value stream mapping, feedback loops, bottleneck identification, resource efficiency, and systemic thinking, drawing on insights from manufacturing, product development, and knowledge work to enhance responsiveness and customer alignment.
-  updated: 2025-05-23T22:55:59Z
+  title: 'Lean Principles: Eliminating Waste to Maximise Customer Value'
+  subtitle: Principles and practices for minimising waste, optimising value delivery, and fostering continuous improvement through experimentation and feedback loops.
+  content: Principles aimed at reducing waste, optimising workflows, and enhancing value delivery through continuous improvement, experimentation, and rapid feedback loops. Inspired by practices from Taiichi Ohno, Eliyahu Goldratt, and W. Edwards Deming, these principles promote organisational responsiveness, resource efficiency, and customer-centric product development, enabling sustainable growth and adaptability in complex environments.
+  updated: 2025-05-23T23:29:17Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

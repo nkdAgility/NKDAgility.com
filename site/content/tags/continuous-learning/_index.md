@@ -25,10 +25,10 @@ Instructions: |-
   Discussions that focus on static knowledge transfer without an emphasis on growth, topics unrelated to team improvement, or misinterpretations of Continuous Learning that do not align with Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: 'Continuous Learning: Cultivating Growth Mindsets for Agile Team Resilience and Innovation'
-  subtitle: Empowering teams to adapt, share knowledge, and innovate by embracing a growth mindset, reflection, and experimentation for lasting improvement and resilience
-  content: Explores cultivating a growth mindset, fostering knowledge sharing, and encouraging experimentation to drive ongoing improvement. Covers reflective practices, feedback loops, learning from outcomes, cross-functional collaboration, and integrating insights from diverse sources to enhance team adaptability, resilience, and value delivery in dynamic, complex environments.
-  updated: 2025-05-23T22:51:37Z
+  title: 'Continuous Learning: Cultivating Growth Mindset for Agile Adaptability'
+  subtitle: Cultivating a growth mindset, fostering knowledge sharing, and empowering teams to adapt, innovate, and thrive in rapidly evolving environments
+  content: Continuous Learning nurtures a growth mindset and encourages active knowledge sharing, enabling teams to rapidly adapt to evolving conditions. It emphasises experimentation, reflection, and learning from successes and failures to enhance individual competencies, strengthen team collaboration, inform strategic decisions, and consistently deliver sustainable value in complex, dynamic environments.
+  updated: 2025-05-23T23:21:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
