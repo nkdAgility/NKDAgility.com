@@ -1,11 +1,12 @@
 ---
 title: Artifact
-abstract: An artifact is a formal, inspectable output that signifies work and progress within a delivery system, particularly in Agile, Lean, and DevOps methodologies. These artifacts, which include the Product Backlog, Sprint Backlog, and Increment in Scrum, are essential for fostering a shared understanding among teams and stakeholders regarding the status of work, what has been completed, and what remains to be done. They are not merely tools or documents; rather, they are defined constructs that promote transparency, inspection, and adaptation. Artifacts play a crucial role in empirical decision-making by allowing teams to assess the current state of work, identify potential risks, and adjust their strategies accordingly. In Kanban and DevOps, similar constructs such as visual work boards and deployment pipelines serve as artifacts that reveal delivery progress and system behaviour. By actively facilitating delivery governance, artifacts enhance alignment, support evidence-based forecasting, and build trust between stakeholders and teams through the visibility of progress and value delivery. Their effective use is vital for successful product development and organisational design, as they contribute to a culture of continuous improvement and responsiveness to change.
 ClassificationType: concepts
+trustpilot: false
+abstract: An artifact is a formal, inspectable output that signifies work and progress within a delivery system, particularly in Agile, Lean, and DevOps methodologies. These artifacts, which include the Product Backlog, Sprint Backlog, and Increment in Scrum, are essential for fostering a shared understanding among teams and stakeholders regarding the status of work, what has been completed, and what remains to be done. They are not merely tools or documents; rather, they are defined constructs that promote transparency, inspection, and adaptation. Artifacts play a crucial role in empirical decision-making by allowing teams to assess the current state of work, identify potential risks, and adjust their strategies accordingly. In Kanban and DevOps, similar constructs such as visual work boards and deployment pipelines serve as artifacts that reveal delivery progress and system behaviour. By actively facilitating delivery governance, artifacts enhance alignment, support evidence-based forecasting, and build trust between stakeholders and teams through the visibility of progress and value delivery. Their effective use is vital for successful product development and organisational design, as they contribute to a culture of continuous improvement and responsiveness to change.
 ClassificationContentOrigin: human
 date: 2025-03-21T13:59:46Z
 weight: 385
-trustpilot: false
+icon: fa-cube
 description: An artifact is a defined, inspectable representation of work that supports transparency, empirical decision-making, and continuous improvement in agile systems.
 Instructions: |-
   **Use this tag only for content focused on artifacts as formal representations of work.**  
@@ -25,10 +26,10 @@ Instructions: |-
   - Cultural discussions about collaboration unrelated to artifact structure
 headline:
   cards: []
-  title: Artifact
-  subtitle: Defined outputs that make progress, quality, and value transparent and inspectable.
-  content: Artifacts are formal representations of work, defined by Agile frameworks to ensure key information is transparent and available for inspection. Posts should focus on how artifacts enable empirical process control, support delivery alignment, and provide traceable insight into progress, quality, and product value.
-  updated: 2025-04-09T15:40:00Z
+  title: 'Artifact: Making Work Visible to Drive Empirical Decision-Making'
+  subtitle: Formal, inspectable constructs that reveal progress, enable transparency, support empirical decisions, and foster continuous improvement and alignment.
+  content: Artifacts are formal, inspectable outputs that represent progress, quality, and value within a delivery system, enabling transparency, informed decision-making, and continuous improvement. Posts cover topics such as product backlogs, increments, visual management boards, deployment pipelines, flow metrics, delivery governance, empirical forecasting, and practices supporting inspection and adaptation.
+  updated: 2025-05-23T23:22:10Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

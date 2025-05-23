@@ -26,10 +26,10 @@ Instructions: |-
   - Cultural discussions about collaboration unrelated to artifact structure
 headline:
   cards: []
-  title: Artifact
-  subtitle: Defined outputs that make progress, quality, and value transparent and inspectable.
-  content: Artifacts are formal representations of work, defined by Agile frameworks to ensure key information is transparent and available for inspection. Posts should focus on how artifacts enable empirical process control, support delivery alignment, and provide traceable insight into progress, quality, and product value.
-  updated: 2025-04-09T15:40:00Z
+  title: 'Artifact: Making Work Visible to Drive Empirical Decision-Making'
+  subtitle: Formal, inspectable constructs that reveal progress, enable transparency, support empirical decisions, and foster continuous improvement and alignment.
+  content: Artifacts are formal, inspectable outputs that represent progress, quality, and value within a delivery system, enabling transparency, informed decision-making, and continuous improvement. Posts cover topics such as product backlogs, increments, visual management boards, deployment pipelines, flow metrics, delivery governance, empirical forecasting, and practices supporting inspection and adaptation.
+  updated: 2025-05-23T23:22:10Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

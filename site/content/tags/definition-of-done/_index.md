@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of the Definition of Done, such as unrelated project management practices, non-Agile methodologies, or personal opinions on team dynamics that do not directly relate to the DoD.
 headline:
   cards: []
-  title: Definition of Done (DoD)
-  subtitle: Ensuring Quality, Transparency, and Releasability
-  content: The **Definition of Done (DoD)** establishes a shared understanding of what makes a product increment **complete and releasable**, ensuring all work meets a **minimum quality standard**. It enhances transparency, consistency, and empirical decision-making by providing clear criteria for done work. This includes an Organisational Definition of Done that applies across teams, with team-specific extensions as needed. A well-defined DoD is essential for adaptation, accountability, and delivering valuable, verifiable, and production-ready increments.
-  updated: 2025-05-05T12:05:05Z
+  title: 'Definition of Done (DoD): Setting Clear Standards for Releasable Quality'
+  subtitle: Establishing clear, measurable criteria for completed work to ensure transparency, quality, and readiness for real-world use.
+  content: A shared, explicit agreement outlining the criteria required for work to be considered complete, usable, and ready for release. It establishes clear quality standards, ensures transparency, reduces ambiguity, and supports continuous improvement, enabling teams to deliver reliable increments and make informed decisions based on measurable outcomes and real-world feedback.
+  updated: 2025-05-23T23:12:35Z
 references:
 - title: Getting started with a Definition of Done (DoD)
   url: https://www.scrum.org/resources/blog/getting-started-definition-done-dod

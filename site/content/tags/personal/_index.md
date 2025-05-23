@@ -26,10 +26,10 @@ Instructions: |-
   - Generalised statements that do not provide personal context or insights.
 headline:
   cards: []
-  title: Personal
-  subtitle: Reflections on personal journeys, insights, and experiences in navigating complex systems and continuous improvement.
-  content: Explorations of individual experiences and insights in navigating complex systems, fostering continuous improvement, and enhancing team dynamics. Posts may delve into personal reflections on practices, challenges faced, and lessons learned in optimising workflows, collaboration, and adaptability within organisational contexts.
-  updated: 2025-02-13T11:58:57Z
+  title: 'Personal: Unlocking Team Potential Through Psychological Safety'
+  subtitle: Insights, reflections, and experiences fostering psychological safety, collaboration, continuous learning, and innovation within teams and organisations.
+  content: Personal encompasses individual experiences, reflections, and insights shared by team members, promoting openness, psychological safety, and authentic collaboration. Posts explore individual growth, team dynamics, psychological safety, experimentation, continuous learning, and adaptive practices, highlighting how personal perspectives strengthen relationships, enhance innovation, and support sustainable value delivery within organisations.
+  updated: 2025-05-23T23:33:40Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

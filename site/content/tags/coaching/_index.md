@@ -26,10 +26,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on directive leadership, performance evaluations, or any content that misrepresents the collaborative and supportive nature of coaching in Agile and DevOps contexts.
 headline:
   cards: []
-  title: Coaching
-  subtitle: Empowering teams and leaders through insightful guidance, fostering growth and adaptability in complex environments.
-  content: Unlocking the potential of individuals and teams through tailored guidance, fostering a culture of continuous improvement and adaptability. Posts explore facilitation techniques, performance enhancement, collaborative decision-making, and the dynamics of team interactions, drawing insights from complexity theory and evidence-based management principles.
-  updated: 2025-02-13T12:05:35Z
+  title: 'Coaching: Unlocking Team Potential Through Guided Self-Discovery'
+  subtitle: Unlocking team and leadership potential through guidance, fostering continuous improvement, self-discovery, psychological safety, and collaborative growth.
+  content: Coaching enables teams and leaders to unlock their potential through guided self-discovery, fostering continuous improvement, psychological safety, and collaborative problem-solving. It emphasises skill development, adaptive decision-making, experimentation, and accountability, cultivating resilience and alignment with organisational objectives to sustainably deliver customer value in complex, rapidly evolving environments.
+  updated: 2025-05-23T23:20:41Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

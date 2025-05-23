@@ -27,10 +27,10 @@ Instructions: |-
   - Misinterpretations of release management as solely project management or change management without the context of software releases.
 headline:
   cards: []
-  title: Release Management
-  subtitle: Strategies for orchestrating timely and efficient software releases through iterative planning and continuous improvement.
-  content: Strategies for coordinating software releases that emphasise iterative planning, stakeholder collaboration, and continuous feedback. Posts should explore techniques for managing workflows, minimising bottlenecks, and enhancing delivery quality, while considering the complexities of team dynamics and organisational culture.
-  updated: 2025-02-13T12:03:03Z
+  title: 'Release Management: Optimising Deployments for Continuous Value Delivery'
+  subtitle: Systematic practices for planning, scheduling, and controlling software deployments to reduce risk, optimise flow, and deliver customer value incrementally.
+  content: A structured approach to planning, scheduling, and controlling software deployments, ensuring predictable, sustainable delivery aligned with organisational goals and customer expectations. It encompasses incremental value delivery, risk mitigation, stakeholder collaboration, continuous improvement, and rapid feedback, integrating closely with Continuous Delivery practices to optimise workflow and maintain quality throughout the deployment lifecycle.
+  updated: 2025-05-23T23:18:16Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any discussions that pertain to rigid hierarchical structures, traditional management practices, or misinterpretations of agility that do not align with the core tenets of BetaCodex.
 headline:
   cards: []
-  title: Beta Codex
-  subtitle: Foster decentralised, adaptive structures that prioritise human potential and responsiveness over traditional hierarchies and rigid processes.
-  content: Cultivate a dynamic organisational framework that prioritises collaboration, adaptability, and continuous improvement. Explore practices that enhance team autonomy, optimise workflow, and leverage empirical data to navigate complexity, fostering environments where innovation thrives and human potential is maximised.
-  updated: 2025-02-13T12:05:41Z
+  title: 'Beta Codex: Empowering Teams Through Decentralised, Adaptive Structures'
+  subtitle: Unlock organisational potential through decentralised decision-making, human-centric structures, continuous innovation, and adaptive responsiveness.
+  content: Beta Codex advocates decentralised organisational structures that prioritise team autonomy, rapid decision-making, and responsiveness to customer needs. It emphasises human-centric collaboration, transparency, psychological safety, continuous improvement, and adaptability, enabling organisations to thrive in complex environments by embedding agility into their culture and operational practices.
+  updated: 2025-05-23T23:27:59Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

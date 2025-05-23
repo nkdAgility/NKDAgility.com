@@ -26,10 +26,10 @@ Instructions: |-
   - Content that focuses solely on tools or technologies without reference to the frameworks themselves
 headline:
   cards: []
-  title: Agile Frameworks
-  subtitle: Discover and evaluate frameworks for iterative development, enhancing team collaboration, and optimising value delivery in dynamic environments.
-  content: Examine various frameworks that facilitate iterative development, fostering collaboration and enhancing value delivery. Posts should delve into principles, methodologies, and real-world applications, drawing insights from experts and exploring the interplay between complexity, team dynamics, and continuous improvement in organisational contexts.
-  updated: 2025-02-13T12:06:31Z
+  title: 'Agile Frameworks: Empowering Teams for Continuous Value Delivery'
+  subtitle: Structured methodologies enabling teams to deliver value predictably, foster collaboration, optimise workflows, and adapt to evolving market demands.
+  content: Structured methodologies that enable teams and organisations to deliver value iteratively and responsively through defined roles, events, and artefacts. Posts explore frameworks such as Scrum and Kanban, emphasising collaboration, transparency, continuous improvement, workflow optimisation, and adaptability to changing customer needs, market dynamics, complexity, and organisational contexts.
+  updated: 2025-05-23T23:25:39Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

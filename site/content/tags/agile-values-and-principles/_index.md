@@ -27,10 +27,10 @@ Instructions: |-
   - Content that focuses on unrelated methodologies or frameworks outside the Agile context.
 headline:
   cards: []
-  title: Agile Values and Principles
-  subtitle: Explore foundational values and principles to foster adaptability, enhance collaboration, and drive continuous improvement in your processes.
-  content: Explore foundational values and principles that promote adaptability, enhance collaboration, and facilitate continuous improvement. Posts should delve into frameworks for effective teamwork, decision-making under uncertainty, and methods for delivering consistent value, drawing insights from various thought leaders and methodologies in the field.
-  updated: 2025-02-13T12:06:10Z
+  title: 'Agile Values and Principles: Cultivating Adaptability for Sustainable Value Delivery'
+  subtitle: Core principles guiding teams toward collaboration, adaptability, continuous improvement, and sustainable value delivery in complex environments.
+  content: Core guidelines that prioritise collaboration, responsiveness to change, customer-centricity, and continuous improvement, enabling teams to self-organise, adapt effectively to complexity, and sustainably deliver value. Posts explore foundational principles, cultural shifts, decision-making frameworks, feedback-driven practices, and organisational resilience within dynamic product development environments.
+  updated: 2025-05-23T23:20:34Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

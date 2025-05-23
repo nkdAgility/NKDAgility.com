@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to the identification and resolution of technical issues, such as general project management discussions, unrelated Agile practices, or theoretical concepts without practical application in troubleshooting scenarios.
 headline:
   cards: []
-  title: Troubleshooting
-  subtitle: Resolving technical challenges to ensure optimal performance and reliability across software, hardware, and systems.
-  content: Identifying and addressing technical issues across software, hardware, and systems to ensure seamless operation and user satisfaction. Posts should explore diagnostic techniques, root cause analysis, performance optimisation, and strategies for maintaining system integrity in complex environments.
-  updated: 2025-02-13T12:01:20Z
+  title: 'Troubleshooting: Systematic Issue Resolution for Agile and DevOps Excellence'
+  subtitle: Systematic approaches and practical techniques for identifying, diagnosing, and resolving issues to enhance reliability, performance, and continuous improvement.
+  content: Troubleshooting encompasses systematic methods for identifying, diagnosing, and resolving issues within software, hardware, and system workflows to maintain reliability, optimise performance, and minimise downtime. It promotes continuous improvement, cross-functional collaboration, transparency, and organisational resilience, enabling teams to deliver consistent value and adapt effectively in complex, rapidly changing environments.
+  updated: 2025-05-23T23:23:34Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

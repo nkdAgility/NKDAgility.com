@@ -22,10 +22,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to the technical aspects of installation and configuration, such as theoretical discussions on Agile principles, team dynamics, or high-level strategic planning. Misinterpretations of the core classification, such as general software development practices or unrelated technology discussions, should also be omitted.
 headline:
   cards: []
-  title: Install and Configuration
-  subtitle: Comprehensive resources for setting up and optimising tools, software, and platforms to enhance workflow and productivity.
-  content: Comprehensive guides and discussions on the setup, installation, and configuration of tools, software, and platforms. Posts should delve into system requirements, integration techniques, troubleshooting methods, and optimisation strategies to enhance operational efficiency and support effective workflow management.
-  updated: 2025-02-13T11:59:23Z
+  title: 'Install and Configuration: Optimising Systems for Agile and DevOps Excellence'
+  subtitle: Establishing and optimising tools, software, and platforms to enable seamless collaboration, continuous delivery, and sustainable value creation.
+  content: Installation and configuration involves establishing, fine-tuning, and maintaining software, tools, and platforms to create stable, responsive environments that support team collaboration, continuous integration, rapid feedback loops, and efficient value delivery, while reducing technical debt, operational disruptions, and enabling adaptability to evolving organisational needs and market demands.
+  updated: 2025-05-23T23:20:54Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

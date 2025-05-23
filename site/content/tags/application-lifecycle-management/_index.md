@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to the management of software applications or that misinterpret the core principles of Application Lifecycle Management, such as unrelated software development methodologies or general project management topics.
 headline:
   cards: []
-  title: Application Lifecycle Management
-  subtitle: Streamlining software development, maintenance, and governance for optimal performance and continuous improvement throughout the application lifecycle.
-  content: A comprehensive approach to overseeing software applications from inception to retirement, emphasising iterative development, stakeholder collaboration, and adaptive governance. Posts should explore methodologies for enhancing workflow efficiency, managing technical debt, ensuring quality assurance, and fostering a culture of continuous learning and improvement.
-  updated: 2025-02-13T11:59:56Z
+  title: 'Application Lifecycle Management (ALM): Streamlining Delivery for Continuous Value'
+  subtitle: Managing software from inception to retirement—integrating people, processes, and tools for continuous improvement, rapid feedback, and sustainable value delivery.
+  content: Application Lifecycle Management provides a structured approach to managing software applications from initial concept through retirement, emphasising coordinated development, maintenance, governance, continuous integration, continuous delivery, proactive technical debt management, workflow optimisation, team collaboration, rapid feedback loops, and alignment of technical activities with strategic business objectives.
+  updated: 2025-05-23T23:14:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

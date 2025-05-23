@@ -1,11 +1,12 @@
 ---
 title: Framework
-abstract: A framework is a structured approach that provides guidelines, principles, and rules to facilitate process implementation while allowing flexibility in execution. Originating from methodologies like Scrum, SAFe, and ITIL, frameworks serve as foundational blueprints that organisations can adapt to their specific contexts, enabling effective team operations within a defined structure. Their importance lies in fostering predictable and sustainable value delivery by establishing a common language and shared understanding among team members, which enhances collaboration and reduces ambiguity in fast-paced environments. Frameworks support teams in navigating complex challenges, allowing them to focus on high-quality outcomes without being hindered by uncertainty. Designed for long-term systemic use, frameworks promote continuous improvement and adaptability, encouraging organisations to reflect on practices and evolve in response to technological advancements and changing customer needs. They empower teams to experiment and refine their approaches, ultimately enhancing performance and customer satisfaction. Unlike methods, which have a narrower focus, and practices, which are habitual actions, frameworks provide an overarching structure that guides the selection and application of various methods and practices in alignment with strategic objectives. Importantly, frameworks are not prescriptive; they offer a flexible structure that teams can tailor to their unique circumstances, dispelling misconceptions about rigidity and fostering an environment conducive to creativity and innovation. In summary, frameworks are vital enablers of effective collaboration, continuous improvement, and sustainable value delivery, guiding teams through the complexities of modern product development while promoting learning and growth.
 ClassificationType: concepts
+trustpilot: false
+abstract: A framework is a structured approach that provides guidelines, principles, and rules to facilitate process implementation while allowing flexibility in execution. Originating from methodologies like Scrum, SAFe, and ITIL, frameworks serve as foundational blueprints that organisations can adapt to their specific contexts, enabling effective team operations within a defined structure. Their importance lies in fostering predictable and sustainable value delivery by establishing a common language and shared understanding among team members, which enhances collaboration and reduces ambiguity in fast-paced environments. Frameworks support teams in navigating complex challenges, allowing them to focus on high-quality outcomes without being hindered by uncertainty. Designed for long-term systemic use, frameworks promote continuous improvement and adaptability, encouraging organisations to reflect on practices and evolve in response to technological advancements and changing customer needs. They empower teams to experiment and refine their approaches, ultimately enhancing performance and customer satisfaction. Unlike methods, which have a narrower focus, and practices, which are habitual actions, frameworks provide an overarching structure that guides the selection and application of various methods and practices in alignment with strategic objectives. Importantly, frameworks are not prescriptive; they offer a flexible structure that teams can tailor to their unique circumstances, dispelling misconceptions about rigidity and fostering an environment conducive to creativity and innovation. In summary, frameworks are vital enablers of effective collaboration, continuous improvement, and sustainable value delivery, guiding teams through the complexities of modern product development while promoting learning and growth.
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
 weight: 380
-trustpilot: false
+icon: fa-project-diagram
 description: A structured approach that provides guidelines and rules but allows flexibility in implementation (e.g., Scrum, SAFe, ITIL).
 Instructions: |-
   **Use this category only for discussions on Framework.**  
@@ -23,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated methodologies, personal opinions on frameworks, or misinterpretations of the core principles of Agile, DevOps, and Lean philosophies. Also exclude content that only focuses on the contents of a framework.
 headline:
   cards: []
-  title: Framework
-  subtitle: A flexible structure offering guidelines for effective team collaboration and project delivery across various methodologies and practices.
-  content: A structured approach that balances defined guidelines with adaptability, enabling teams to enhance collaboration and optimise project outcomes. Posts should explore methodologies, roles, metrics, and tools that facilitate continuous improvement, stakeholder engagement, and effective decision-making in complex environments.
-  updated: 2025-03-19T12:18:16Z
+  title: 'Framework: Guiding Flexible Structures for Sustainable Value Delivery'
+  subtitle: Structured guidelines and principles enabling teams to navigate complexity, foster collaboration, and deliver sustainable value through adaptable practices.
+  content: A structured set of principles, guidelines, and rules providing teams with a flexible yet consistent approach to managing complexity, improving collaboration, and delivering sustainable value. Posts explore foundational structures, systemic adaptability, continuous improvement, and practical implementation inspired by thought leaders like Ken Schwaber, Jez Humble, and Dave Snowden.
+  updated: 2025-05-23T23:21:43Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

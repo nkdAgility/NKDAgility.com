@@ -28,10 +28,10 @@ Instructions: |-
   - Topics unrelated to Lean methodologies, such as general management theories or unrelated business strategies.
 headline:
   cards: []
-  title: Lean
-  subtitle: Maximising value through systematic improvement and waste reduction, inspired by principles from manufacturing and management experts.
-  content: A systematic approach to enhancing organisational performance by identifying and eliminating inefficiencies. Posts should explore value stream mapping, flow optimisation, continuous improvement, and the integration of feedback loops, drawing insights from management theories and practices to foster a culture of learning and adaptability.
-  updated: 2025-02-13T11:59:18Z
+  title: 'Lean: Streamlining Processes to Maximise Customer Value'
+  subtitle: Streamlining processes, eliminating waste, and fostering continuous improvement to maximise customer value, efficiency, and organisational adaptability.
+  content: A systematic approach centred on maximising customer value, minimising waste, and optimising workflow efficiency through continuous improvement, empirical decision-making, and iterative learning. Posts explore value stream mapping, flow efficiency, reducing bottlenecks, fostering experimentation, and cultivating organisational cultures that prioritise sustainable value delivery and adaptability in dynamic market environments.
+  updated: 2025-05-23T23:24:26Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from Lean principles, such as unrelated management theories, non-technical productivity hacks, or misinterpretations of Lean as merely cost-cutting measures.
 headline:
   cards: []
-  title: Lean Thinking
-  subtitle: Optimising workflows by minimising waste and enhancing efficiency through systematic thinking and continuous improvement principles.
-  content: A systematic approach to enhancing operational effectiveness by identifying and eliminating non-value-adding activities. Posts should explore workflow optimisation, value stream mapping, process improvement techniques, and the integration of feedback loops to foster a culture of continuous enhancement and responsiveness to change.
-  updated: 2025-02-13T12:03:56Z
+  title: 'Lean Thinking: Streamlining Workflows to Maximise Customer Value'
+  subtitle: Optimise value delivery, eliminate waste, and foster continuous improvement through customer-focused workflows and sustainable process innovation.
+  content: An approach centred on systematically identifying and eliminating waste in organisational processes to maximise customer value, inspired by principles from Taiichi Ohno, Eliyahu Goldratt, and W. Edwards Deming. It emphasises continuous improvement, streamlined workflows, reduced lead times, enhanced collaboration, and responsiveness to evolving customer demands through evidence-based decision-making and experimentation.
+  updated: 2025-05-23T23:24:52Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

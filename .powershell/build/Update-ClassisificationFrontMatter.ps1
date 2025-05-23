@@ -162,7 +162,10 @@ foreach ($hugoMarkdown in $sortedList ) {
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Instructions' -fieldValue $Instructions -addAfter 'description' -Overwrite
         Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'date' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -addAfter 'title' 
     } 
-    if (-not $hugoMarkdown.FrontMatter.headline -or (([datetime]$hugoMarkdown.FrontMatter.headline.updated) -lt ([datetime]::Parse("2025-02-13T11:58:02Z")))) {
+
+    // prettier-ignore
+    $headlineExpiry = [datetime]::Parse("2025-05-23T23:08:00Z")
+    if (-not $hugoMarkdown.FrontMatter.headline -or (([datetime]$hugoMarkdown.FrontMatter.headline.updated) -lt $headlineExpiry)) {
         $classificationTitlePrompt = Get-Prompt -PromptName "classification-headline-title.md" -Parameters @{
             title    = $hugoMarkdown.FrontMatter.title
             abstract = $hugoMarkdown.FrontMatter.abstract

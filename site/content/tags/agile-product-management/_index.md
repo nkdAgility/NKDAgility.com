@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the Agile philosophy of product management, such as traditional project management methodologies, unrelated business strategies, or technical discussions that do not pertain to product value maximisation.
 headline:
   cards: []
-  title: Agile Product Management
-  subtitle: Optimise product outcomes by aligning strategy with user needs and fostering a culture of continuous improvement and delivery.
-  content: Maximise product value by integrating user insights with strategic objectives, fostering a culture of iterative improvement and responsiveness. Posts should explore practices for prioritising features, enhancing team collaboration, and utilising metrics to inform decision-making, while addressing complexity and uncertainty in product development.
-  updated: 2025-02-13T12:00:04Z
+  title: 'Agile Product Management: Aligning Strategy with Customer-Driven Value'
+  subtitle: Maximising product value through iterative delivery, customer collaboration, continuous feedback, and strategic alignment across the product lifecycle.
+  content: A customer-centric approach to managing products throughout their lifecycle, emphasising iterative delivery, continuous feedback, and strategic alignment. It integrates evidence-based decision-making, cross-functional collaboration, and adaptive practices to maximise product value, respond effectively to market shifts, and sustain long-term innovation and organisational resilience in complex environments.
+  updated: 2025-05-23T23:33:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

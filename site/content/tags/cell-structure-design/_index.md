@@ -27,10 +27,10 @@ Instructions: |-
   - Content focused on traditional management practices or command-and-control structures.
 headline:
   cards: []
-  title: Cell Structure Design
-  subtitle: Empowering Self-Organising Teams for Enhanced Responsiveness and Value Creation through Decentralised Structures
-  content: Cell Structure Design promotes a decentralised organisational model where autonomous units, or cells, take full ownership of value delivery. It emphasises dynamic coordination, transparency, and self-organisation, fostering adaptability and responsiveness to customer needs. Relevant topics include network-based structures, complexity theory, and practices for enhancing team accountability and collaboration.
-  updated: 2025-04-10T14:48:28Z
+  title: 'Cell Structure Design: Empowering Autonomous Teams for Adaptive Value Delivery'
+  subtitle: Empowering autonomous teams to rapidly adapt, innovate, and deliver customer value through decentralised networks and dynamic coordination.
+  content: An organisational approach that replaces traditional hierarchies with decentralised, autonomous units ("cells") to enhance responsiveness, adaptability, and customer value delivery. Posts explore decentralisation, self-organisation, dynamic coordination, complexity theory, transparency, continuous improvement, organisational responsiveness, and fostering empowered, collaborative teams in rapidly changing business environments.
+  updated: 2025-05-23T23:33:15Z
 ResourceId: 5KmsJtm570B
 aliases:
 - /methods/beta-codex-cell-structure-design/

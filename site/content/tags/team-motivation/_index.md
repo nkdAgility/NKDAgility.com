@@ -28,10 +28,10 @@ Instructions: |-
   - Content that focuses solely on individual performance without considering the team context.
 headline:
   cards: []
-  title: Team Motivation
-  subtitle: Empowering teams to enhance engagement, ownership, and performance through effective collaboration and continuous improvement.
-  content: Cultivating a culture of engagement and accountability, this classification explores strategies to enhance team dynamics and performance. Posts should delve into collaboration techniques, motivation theories, feedback mechanisms, and the impact of organisational structures on team effectiveness, drawing insights from various management and complexity frameworks.
-  updated: 2025-02-13T12:02:00Z
+  title: 'Team Motivation: Unlocking Team Potential for Sustainable Agile Performance'
+  subtitle: Empowering teams to foster ownership, collaboration, innovation, and sustained high performance through intrinsic motivation and continuous improvement.
+  content: Team motivation encompasses practices and principles that cultivate an environment where individuals feel valued, empowered, and inspired to take ownership, collaborate effectively, and pursue continuous improvement, thereby enhancing team resilience, adaptability, innovation, and the consistent delivery of customer value in complex and rapidly changing contexts.
+  updated: 2025-05-23T23:23:13Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -25,10 +25,10 @@ Instructions: |-
   **Exclude** discussions limited to specific agile roles, ceremonies, or practices unless in the context of broader project management integration.
 headline:
   cards: []
-  title: Project Management
-  subtitle: Coordinating people and processes to deliver value effectively in complex environments.
-  content: Encompassing a wide range of approaches and practices, this classification supports the exploration of structured, adaptive, and hybrid project management techniques. Posts should focus on delivery planning, execution strategies, stakeholder engagement, team dynamics, governance, and outcome optimisation across diverse industries and project types.
-  updated: 2025-04-10T09:52:00Z
+  title: 'Project Management: Aligning Teams and Processes for Predictable Value Delivery'
+  subtitle: Managing projects effectively through structured planning, execution, risk management, stakeholder alignment, and continuous improvement.
+  content: Project Management encompasses structured methods and adaptive frameworks for planning, coordinating, and delivering projects effectively within defined constraints. It addresses goal alignment, proactive risk management, stakeholder collaboration, performance measurement, continuous improvement, and navigating complexity and uncertainty to consistently deliver value across diverse organisational contexts.
+  updated: 2025-05-23T23:34:24Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

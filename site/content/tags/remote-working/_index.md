@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to the practices, challenges, or solutions of remote working within Agile frameworks, such as general remote work tips unrelated to Agile methodologies or discussions on non-Agile project management approaches.
 headline:
   cards: []
-  title: Remote Working
-  subtitle: Strategies for fostering collaboration and productivity in distributed teams across various methodologies and frameworks.
-  content: Strategies for enhancing collaboration and productivity in distributed teams, emphasising communication, trust-building, and adaptive workflows. Posts should explore tools, techniques, and frameworks that facilitate seamless interaction, accountability, and continuous improvement, while addressing challenges unique to remote environments and fostering a culture of engagement and innovation.
-  updated: 2025-02-13T12:03:01Z
+  title: 'Remote Working: Empowering Agile Teams Beyond Office Boundaries'
+  subtitle: Empowering distributed teams to collaborate effectively, sustain productivity, and deliver continuous value beyond physical boundaries.
+  content: Remote working enables distributed teams to collaborate effectively, deliver customer value, and maintain productivity beyond traditional office boundaries. Posts explore distributed collaboration techniques, digital communication tools, fostering trust and accountability, optimising workflow efficiency, managing complexity, and cultivating team resilience to adapt rapidly to evolving market conditions and customer demands.
+  updated: 2025-05-23T23:25:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

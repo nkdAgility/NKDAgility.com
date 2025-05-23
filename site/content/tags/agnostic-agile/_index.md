@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of Agnostic Agile that suggest it is merely a blend of existing frameworks without a distinct philosophy.
 headline:
   cards: []
-  title: Agnostic Agile
-  subtitle: Embrace context-driven practices that prioritise principles and value delivery over rigid frameworks and brand loyalty.
-  content: Agnostic agility champions a flexible approach to project management, advocating for the adaptation of methodologies based on situational needs. It encourages critical thinking, professionalism, and value delivery, drawing insights from various frameworks and theories, including Kanban, complexity theory, and evidence-based management, to enhance team effectiveness and responsiveness.
-  updated: 2025-04-10T14:49:25Z
+  title: 'Agnostic Agile: Adapting Principles Over Frameworks for Sustainable Value Delivery'
+  subtitle: Context-driven approaches and principle-based practices for adaptable, resilient, and sustainable value delivery beyond frameworks and methodologies.
+  content: An approach advocating context-driven adaptability, emphasising principles and critical thinking over adherence to specific frameworks or methodologies. Posts explore tailoring practices to organisational needs, ethical decision-making, continuous improvement, complexity-informed experimentation, and sustainable value delivery, drawing insights from thought leaders across product development, systems thinking, and organisational resilience.
+  updated: 2025-05-23T23:19:37Z
 ResourceId: kfsLvZzGPDZ
 aliases:
 - /APOM

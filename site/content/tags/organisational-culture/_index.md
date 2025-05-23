@@ -26,10 +26,10 @@ Instructions: |-
   - Content that does not align with the foundational theories of Agile, DevOps, or Lean regarding culture.
 headline:
   cards: []
-  title: Organisational Culture
-  subtitle: Cultivating a responsive environment that fosters innovation, collaboration, and continuous improvement for transformative success.
-  content: Exploring the dynamics of workplace culture and its impact on collaboration, innovation, and adaptability. Posts delve into practices that enhance team engagement, foster psychological safety, and drive continuous improvement, drawing insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
-  updated: 2025-02-13T12:03:37Z
+  title: 'Organisational Culture: Building Trust and Agility Through Shared Values'
+  subtitle: Shaping values, behaviours, and collaboration to foster innovation, adaptability, psychological safety, and continuous improvement across teams.
+  content: Organisational culture encompasses the shared values, behaviours, and mindsets shaping team interactions, decision-making, and responsiveness to change. It addresses psychological safety, trust-building, continuous learning, collaboration, innovation, and adaptability, influencing how effectively teams deliver sustainable value, navigate complexity, and achieve strategic objectives within dynamic organisational environments.
+  updated: 2025-05-23T23:31:31Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

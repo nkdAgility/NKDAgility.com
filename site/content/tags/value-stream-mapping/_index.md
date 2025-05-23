@@ -25,10 +25,10 @@ Instructions: |-
   - Discussions unrelated to Lean principles or Value Stream Mapping, such as general project management techniques or unrelated Agile practices that do not focus on workflow visualisation and optimisation.
 headline:
   cards: []
-  title: Value Stream Mapping
-  subtitle: Mapping workflows to uncover bottlenecks and enhance efficiency in delivering value across processes.
-  content: Visualising workflows to pinpoint inefficiencies and enhance the flow of value delivery. Posts should explore techniques for mapping processes, identifying bottlenecks, and implementing improvements, drawing on insights from systems thinking, process optimisation, and continuous improvement methodologies.
-  updated: 2025-02-13T12:01:18Z
+  title: 'Value Stream Mapping: Visualising Workflows to Optimise Value Delivery'
+  subtitle: Visualising workflows to identify bottlenecks, eliminate waste, optimise value delivery, and drive continuous improvement through empirical insights.
+  content: A visual method for analysing and optimising organisational workflows by mapping the flow of materials and information required to deliver products or services, identifying bottlenecks, inefficiencies, and waste, enabling informed decision-making, continuous improvement, and alignment of processes with customer needs to enhance value delivery, responsiveness, and organisational resilience.
+  updated: 2025-05-23T23:16:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

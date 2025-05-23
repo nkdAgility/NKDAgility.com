@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the methodologies and practices of forecasting within Agile and Scrum, such as unrelated project management techniques, non-empirical approaches, or general business strategies that do not focus on Agile principles.
 headline:
   cards: []
-  title: Forecasting
-  subtitle: Empower decision-making through data-driven predictions, risk management, and value optimisation for effective project delivery.
-  content: Utilise empirical data to enhance prediction accuracy for project timelines, enabling informed decision-making and effective risk management. Posts should explore techniques for value optimisation, the impact of variability on delivery, and methods for integrating feedback loops to improve forecasting reliability in complex environments.
-  updated: 2025-02-13T12:04:26Z
+  title: 'Forecasting: Leveraging Data to Predict Timelines and Optimise Agile Delivery'
+  subtitle: Using empirical data and flow metrics to predict timelines, manage risks, improve predictability, and enable informed, transparent decision-making.
+  content: Forecasting involves leveraging empirical data and metrics—such as cycle time, lead time, throughput, and historical performance—to anticipate delivery timelines, manage risks, and optimise value delivery. It promotes transparency, informed decision-making, proactive adaptation, and continuous improvement, enabling teams to consistently meet stakeholder expectations and respond effectively to evolving market conditions.
+  updated: 2025-05-23T23:14:11Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

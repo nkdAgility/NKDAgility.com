@@ -1,10 +1,12 @@
 ---
 title: DevOps
-abstract: DevOps is a philosophy that integrates people, processes, and technology to facilitate continuous value delivery in software development. Originating from the need to bridge the gap between development and operations, it emphasises collaboration and automation to enhance the quality and speed of software delivery. The core principles of DevOps prioritise flow efficiency over mere resource utilisation, advocate for rapid feedback loops to align with customer needs, and promote automation to minimise errors and delays. Additionally, it fosters shared accountability among developers, operations, and security teams, ensuring collective responsibility for product quality. DevOps encourages a culture of continuous improvement, where teams are committed to experimentation and adaptation. In practice, organisations embracing DevOps focus on eliminating silos, integrating quality and security measures early in the development process, leveraging data for informed decision-making, and automating as many processes as possible. This approach is crucial in agile and DevOps environments as it enables organisations to deliver software more reliably and efficiently, ultimately enhancing their ability to respond to market demands and customer expectations. DevOps is viewed not as a final goal but as an ongoing journey towards improved software delivery.
 ClassificationType: categories
+trustpilot: false
+abstract: DevOps is a philosophy that integrates people, processes, and technology to facilitate continuous value delivery in software development. Originating from the need to bridge the gap between development and operations, it emphasises collaboration and automation to enhance the quality and speed of software delivery. The core principles of DevOps prioritise flow efficiency over mere resource utilisation, advocate for rapid feedback loops to align with customer needs, and promote automation to minimise errors and delays. Additionally, it fosters shared accountability among developers, operations, and security teams, ensuring collective responsibility for product quality. DevOps encourages a culture of continuous improvement, where teams are committed to experimentation and adaptation. In practice, organisations embracing DevOps focus on eliminating silos, integrating quality and security measures early in the development process, leveraging data for informed decision-making, and automating as many processes as possible. This approach is crucial in agile and DevOps environments as it enables organisations to deliver software more reliably and efficiently, ultimately enhancing their ability to respond to market demands and customer expectations. DevOps is viewed not as a final goal but as an ongoing journey towards improved software delivery.
 ClassificationContentOrigin: human
 date: 2025-03-20T11:04:38Z
 weight: 230
+icon: fa-people-arrows
 description: DevOps is a philosophy that unites people, processes, and technology to deliver continuous value, fostering collaboration, automation, and shared accountability.
 Instructions: |-
   **Use this category only for discussions on DevOps.**  
@@ -25,18 +27,17 @@ Instructions: |-
   **Strictly exclude** discussions that focus on unrelated methodologies, frameworks, or tools that do not align with the core principles of DevOps, such as specific project management techniques that do not incorporate the DevOps ethos.
 headline:
   cards: []
-  title: DevOps
-  subtitle: Integrating teams, processes, and technology to enhance collaboration, automate workflows, and ensure shared responsibility for continuous delivery.
-  content: A collaborative approach that integrates teams, processes, and technology to enhance workflow efficiency and accountability. Posts should explore automation, continuous delivery, performance metrics, and the impact of organisational culture on delivery outcomes, drawing insights from complexity theory and evidence-based management principles.
-  updated: 2025-03-20T11:04:41Z
-trustpilot: false
+  title: 'DevOps: Uniting People, Processes, and Tech for Continuous Value Delivery'
+  subtitle: Uniting people, processes, and technology to accelerate continuous value delivery through collaboration, automation, and rapid feedback loops.
+  content: An approach centred on integrating people, processes, and technology to accelerate reliable software delivery through collaboration, automation, rapid feedback loops, and continuous improvement. Posts explore flow efficiency, observability, eliminating organisational silos, shared accountability, and embedding quality and security early, enabling organisations to deliver customer value faster and more confidently.
+  updated: 2025-05-23T23:15:21Z
 types:
-- Philosophy
-concepts:
 - Philosophy
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+concepts:
+- Ethos
 
 ---
 DevOps is not a methodology, framework, or job title—it is an **philosophy** or **ethos** that unites **people, processes, and technology** to enable **continuous value delivery**. At its core, DevOps is about **eliminating friction** between development and operations, fostering **collaboration**, and embracing **automation** to achieve high-quality, fast, and reliable software delivery.

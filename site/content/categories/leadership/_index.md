@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to leadership practices, such as technical implementation details, specific tools or technologies, or unrelated management theories that do not align with Agile, DevOps, or Lean philosophies.
 headline:
   cards: []
-  title: Leadership
-  subtitle: Empowering teams to navigate change, enhance collaboration, and drive continuous value delivery in a complex business environment.
-  content: Leadership encompasses the art of guiding teams through uncertainty, fostering a culture of accountability, and driving continuous improvement. Explore practices for enhancing decision-making, cultivating adaptive leadership, and building resilient teams, while navigating the complexities of modern organisational landscapes and promoting effective collaboration.
-  updated: 2025-02-17T13:03:01Z
+  title: 'Leadership: Empowering Teams to Thrive in Agile Environments'
+  subtitle: Empowering teams, fostering innovation, and guiding organisations through complexity to achieve sustainable value delivery and adaptive decision-making.
+  content: Leadership embodies the capability to guide teams through complexity, foster accountability, and nurture a culture of continuous improvement and innovation. It involves empowering individuals, facilitating adaptive decision-making, and cultivating collaborative environments, thereby enabling organisations to effectively respond to evolving customer demands and sustain long-term organisational resilience and performance.
+  updated: 2025-05-23T23:26:56Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

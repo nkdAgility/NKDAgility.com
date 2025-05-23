@@ -28,10 +28,10 @@ Instructions: |-
   Only classify content here if it directly addresses the definition, calculation, application, or improvement of Service Level Expectation (SLE) within Agile, Scrum, or Kanban frameworks.
 headline:
   cards: []
-  title: Service Level Expectation (SLE)
-  subtitle: Forecasting delivery timelines and flow reliability using historical cycle time data to set transparent, data-driven expectations for work item completion and improvement.
-  content: Describes the use of probabilistic forecasts to set delivery time expectations for workflow items, based on historical cycle time data. Covers measurement, transparency, flow management, stakeholder communication, and continuous improvement, drawing on concepts from Scrum, Kanban, and evidence-based approaches to enhance predictability and responsiveness.
-  updated: 2025-05-06T22:16:53Z
+  title: 'Service Level Expectation (SLE): Forecasting Flow to Boost Predictability'
+  subtitle: Forecasting delivery timelines using historical data to improve predictability, manage stakeholder expectations, and drive continuous improvement.
+  content: Service Level Expectation provides a data-driven forecast of the time required for work items to move from initiation to completion, based on historical cycle times. It enhances predictability, transparency, and continuous improvement, enabling teams to identify workflow issues, manage stakeholder expectations, and adapt effectively to changing conditions.
+  updated: 2025-05-23T23:25:31Z
 abstract: "A Service Level Expectation (SLE) is a forecast used by Scrum Teams to estimate the time it should take for a work item to move from initiation to completion within their workflow. Originating from practices that combine elements of Scrum and Kanban, the SLE is defined by two components: a specific range of elapsed days and the probability that work items will be completed within that timeframe, such as stating that 85 percent of items should be finished in eight days or less. The SLE is calculated using the team's historical cycle time data, which measures how long work items have taken to complete in the past. If such data is not yet available, teams are encouraged to make an informed estimate and refine it as more data becomes available. The SLE is made transparent to all team members and stakeholders, serving as a tool for identifying flow issues and prompting inspection and adaptation when expectations are not met. In agile and DevOps contexts, the SLE is valuable because it enhances predictability, supports continuous improvement, and helps teams manage stakeholder expectations by providing a clear, data-driven understanding of delivery timelines. Keeping the SLE shorter than the length of a Sprint further improves the team's ability to deliver reliably and respond to change."
 date: 2025-05-05T09:46:11Z
 weight: 435

@@ -27,10 +27,10 @@ Instructions: |-
   - General discussions on Agile practices that do not address the role of agency in enhancing outcomes or aligning with goals.
 headline:
   cards: []
-  title: 'Agentic Agility: Empowering Intentional Action in Agile & DevOps'
-  subtitle: Exploring how purposeful human and AI action drives adaptive change, value delivery, and resilience in complex socio-technical systems and evolving work environments.
-  content: Explores the power to act with autonomy, intentionality, and accountability in complex socio-technical systems. Covers human and AI-driven adaptation, self-management, continuous improvement, and purposeful intervention, drawing on empirical learning, feedback loops, and evolving goals to sustain meaningful change and resilient value delivery.
-  updated: 2025-05-06T22:17:35Z
+  title: 'Agentic Agility: Empowering Intentional Action for Adaptive Value Delivery'
+  subtitle: Empowering intentional action, adaptive decision-making, and accountable value delivery in complex socio-technical environments.
+  content: Agentic Agility describes the intentional, adaptive capacity of individuals and AI systems to act autonomously, purposefully, and accountably within socio-technical environments. It encompasses decision-making, continuous learning, feedback-driven improvement, and deliberate intervention, enabling practitioners and intelligent systems to dynamically shape value delivery and organisational outcomes amid complexity and uncertainty.
+  updated: 2025-05-23T23:18:39Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

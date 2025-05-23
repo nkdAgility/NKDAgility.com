@@ -27,10 +27,10 @@ Instructions: |-
   - Content that does not align with the original theories and philosophies of Kanban as defined by key authors and practitioners in the field.
 headline:
   cards: []
-  title: Kanban
-  subtitle: A strategy for visualising work, optimising flow, and enhancing value delivery through continuous improvement and collaboration.
-  content: A method for visualising work processes, enhancing flow management, and fostering continuous improvement. Posts should explore topics such as work item visualisation, cycle time reduction, throughput optimisation, and the application of metrics for informed decision-making, drawing on insights from industry thought leaders and established frameworks.
-  updated: 2025-02-13T11:59:20Z
+  title: 'Kanban: Optimising Flow for Sustainable Value Delivery'
+  subtitle: Optimise workflow, visualise system dynamics, manage flow, and drive evolutionary improvements for predictable, sustainable value delivery.
+  content: A strategy for managing organisational change by visualising workflow, limiting work in progress, and optimising flow to enhance value delivery. Rooted in systems thinking, it promotes evolutionary improvement through explicit policies, measurement-driven decisions, and continuous adaptation, enabling predictable, sustainable outcomes in complex, rapidly evolving environments.
+  updated: 2025-05-23T23:18:49Z
 aliases:
 - /methods/kanban-strategy/
 - /learn/agile-delivery-kit/strategies/kanban-strategy/

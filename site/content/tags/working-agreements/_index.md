@@ -22,10 +22,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of teamwork and collaboration, such as unrelated project management methodologies, personal opinions on team dynamics without a structured approach, or misinterpretations of Agile and Scrum philosophies.
 headline:
   cards: []
-  title: Working Agreements
-  subtitle: Fostering collaborative principles and team norms to enhance productivity and communication in dynamic work environments.
-  content: Establishing collaborative norms and principles enhances team dynamics and productivity. Posts should explore techniques for fostering trust, communication, and accountability, as well as methods for adapting to changing environments and addressing conflicts, drawing insights from complexity theory and evidence-based management.
-  updated: 2025-02-13T12:01:11Z
+  title: 'Working Agreements: Building Team Trust for Agile Collaboration'
+  subtitle: Establishing shared norms and clear expectations to enhance team collaboration, accountability, decision-making, and continuous improvement.
+  content: Working agreements are collaboratively defined norms and principles that guide team interactions, communication, decision-making, and accountability. They establish clear expectations, reduce misunderstandings, and foster trust, enabling cohesive teamwork, continuous improvement, effective self-organisation, and resilience in complex environments, ultimately enhancing team performance and value delivery.
+  updated: 2025-05-23T23:25:57Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
