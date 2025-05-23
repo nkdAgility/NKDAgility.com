@@ -1,0 +1,16 @@
+{{- $resourceId := .Params.ResourceId -}}
+{{- $slug := .Params.slug -}}
+{{- $date := .Params.date -}}
+
+{{- $pdfFileName := "" -}}
+{{- if ne (lower site.Hugo.Environment) "production" -}}
+  {{- $pdfFileName = printf "%s-%s-%s.pdf" $slug $date site.Hugo.Environment -}}
+{{- else -}}
+  {{- $pdfFileName = printf "%s-%s.pdf" $slug $date -}}
+{{- end -}}
+{{ $pdfFile := .Page.Resources.GetMatch $pdfFileName }}
+{{- if $pdfFile -}}
+  <div class="pdf-download-container my-3">
+    <a href="{{ $pdfFileName | relURL }}" class="btn btn-primary" download> <i class="fas fa-file-pdf me-2"></i>Download as PDF </a>
+  </div>
+{{- end -}}
