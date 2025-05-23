@@ -1,9 +1,9 @@
 ---
 title: Large Scale Agility
-abstract: Large Scale Agility is the implementation of agile principles and practices throughout entire organisations, moving beyond individual teams to cultivate a culture of adaptability, collaboration, and continuous improvement. Originating from the need for enterprises to respond quickly to market dynamics and customer demands, this approach ensures that value delivery remains both predictable and sustainable. By adopting agile methodologies at scale, organisations can dismantle silos, improve cross-functional collaboration, and align strategic objectives with operational execution. This concept prioritises systemic change, focusing on the organisation as a cohesive unit rather than isolated teams, and encourages the use of frameworks like the Scaled Agile Framework (SAFe) or Large Scale Scrum (LeSS) to provide structured methods for scaling agile practices. The holistic perspective of Large Scale Agility enhances transparency, decision-making, and a shared understanding of goals across all organisational levels. The long-term advantages include increased capacity for innovation, improved employee engagement, and stronger alignment between business and technology. By creating an environment conducive to experimentation, learning, and adaptation, organisations can better navigate the complexities of a rapidly changing landscape, ultimately achieving sustained competitive advantage through agility at scale.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Large Scale Agility is the implementation of agile principles and practices throughout entire organisations, moving beyond individual teams to cultivate a culture of adaptability, collaboration, and continuous improvement. Originating from the need for enterprises to respond quickly to market dynamics and customer demands, this approach ensures that value delivery remains both predictable and sustainable. By adopting agile methodologies at scale, organisations can dismantle silos, improve cross-functional collaboration, and align strategic objectives with operational execution. This concept prioritises systemic change, focusing on the organisation as a cohesive unit rather than isolated teams, and encourages the use of frameworks like the Scaled Agile Framework (SAFe) or Large Scale Scrum (LeSS) to provide structured methods for scaling agile practices. The holistic perspective of Large Scale Agility enhances transparency, decision-making, and a shared understanding of goals across all organisational levels. The long-term advantages include increased capacity for innovation, improved employee engagement, and stronger alignment between business and technology. By creating an environment conducive to experimentation, learning, and adaptation, organisations can better navigate the complexities of a rapidly changing landscape, ultimately achieving sustained competitive advantage through agility at scale.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 470
 description: Scaling agile beyond teams to drive enterprise-wide transformation and innovation.
@@ -25,14 +25,15 @@ Instructions: |-
   **Strictly exclude** discussions that focus solely on team-level Agile practices, individual Agile methodologies without a scaling context, or unrelated business management theories that do not pertain to the principles of scaling Agile across an organisation.
 headline:
   cards: []
-  title: Large Scale Agility
-  subtitle: Transforming organisations through collaborative frameworks and innovative practices for sustainable growth and adaptability.
-  content: Facilitating enterprise-wide transformation through collaborative frameworks that enhance responsiveness and innovation. Posts should explore systemic practices, team dynamics, continuous improvement, and the integration of feedback loops, drawing on insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
-  updated: 2025-02-13T12:04:15Z
+  title: 'Large Scale Agility (SAFe/LeSS): Orchestrating Enterprise-Wide Adaptability and Collaboration'
+  subtitle: Strategies, frameworks, and practices for enabling enterprise-wide adaptability, cross-team collaboration, and continuous improvement across complex organisations
+  content: Encompasses the coordination of multiple teams and departments to achieve unified goals, emphasising end-to-end value delivery, organisational alignment, and systemic improvement. Topics include scaling frameworks, cross-team collaboration, flow optimisation, leadership at scale, empirical measurement, and navigating complexity in large, adaptive environments.
+  updated: 2025-05-23T22:54:37Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T16:40:17
+icon: fa-building-columns
 concepts:
 - Framework
 categories:

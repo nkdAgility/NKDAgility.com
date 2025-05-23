@@ -1,12 +1,12 @@
 ---
 title: Social Technologies
-abstract: Social technologies refer to foundational philosophies that enhance adaptability, emergent coordination, and collective intelligence in complex environments characterised by high variance. Unlike traditional methodologies that prescribe specific processes, social technologies provide a framework for decision-making that emphasises continuous learning, self-management, and decentralised authority. This approach allows organisations to navigate uncertainty with intention rather than relying on rigid procedures. Key principles include self-organisation, which promotes decentralised structures over hierarchical control; empirical inquiry, which prioritises iterative learning and experimentation; and collective intelligence, which recognises work as a social process driven by shared understanding. The importance of these philosophies lies in their ability to foster fluidity and resilience within organisations, enabling them to adapt to change and innovate effectively. By cultivating a social technology ethos—embracing epistemic humility, fostering emergent order, promoting participatory governance, and committing to continuous sense-making—organisations can transform their approach to complexity. This shift not only enhances collaboration and value creation but also positions adaptability as an intrinsic aspect of organisational culture, ultimately driving continuous progress in product development and operational effectiveness.
+description: Social technologies are systems of thought that shape collaboration, decision-making, and adaptability. Rooted in self-organisation and continuous learning, they enable organisations to evolve, innovate, and create sustainable value.
 ClassificationType: tags
-ClassificationContentOrigin: human
 trustpilot: false
+abstract: Social technologies refer to foundational philosophies that enhance adaptability, emergent coordination, and collective intelligence in complex environments characterised by high variance. Unlike traditional methodologies that prescribe specific processes, social technologies provide a framework for decision-making that emphasises continuous learning, self-management, and decentralised authority. This approach allows organisations to navigate uncertainty with intention rather than relying on rigid procedures. Key principles include self-organisation, which promotes decentralised structures over hierarchical control; empirical inquiry, which prioritises iterative learning and experimentation; and collective intelligence, which recognises work as a social process driven by shared understanding. The importance of these philosophies lies in their ability to foster fluidity and resilience within organisations, enabling them to adapt to change and innovate effectively. By cultivating a social technology ethos—embracing epistemic humility, fostering emergent order, promoting participatory governance, and committing to continuous sense-making—organisations can transform their approach to complexity. This shift not only enhances collaboration and value creation but also positions adaptability as an intrinsic aspect of organisational culture, ultimately driving continuous progress in product development and operational effectiveness.
+ClassificationContentOrigin: human
 date: 2025-03-19T10:17:24Z
 weight: 530
-description: Social technologies are systems of thought that shape collaboration, decision-making, and adaptability. Rooted in self-organisation and continuous learning, they enable organisations to evolve, innovate, and create sustainable value.
 Instructions: |-
   **Use this category only for discussions on Social Technologies.**  
   The category of Social Technologies encompasses frameworks and methodologies that promote collaboration, enhance decision-making, and optimise value delivery within organisations. It is grounded in principles of self-organisation, adaptability, and continuous improvement, enabling teams to effectively navigate complexity and respond to change. Social technologies aim to foster transparency, collective intelligence, and emergent problem-solving, thereby empowering organisations to drive innovation, agility, and sustainable value creation in dynamic environments.
@@ -26,15 +26,16 @@ Instructions: |-
   - Content that focuses solely on technical tools without addressing the underlying social frameworks.
 headline:
   cards: []
-  title: Social Technologies
-  subtitle: Empowering collaboration and decision-making through structured approaches for navigating complexity and driving sustainable value creation.
-  content: Social technologies encompass frameworks and methodologies that enhance collaboration, decision-making, and value delivery within organisations. They emphasise self-organisation, adaptability, and continuous improvement, enabling teams to effectively navigate complexity, foster transparency, and leverage collective intelligence to drive innovation and sustainable outcomes in ever-changing environments.
-  updated: 2025-03-19T12:41:59Z
-concepts:
-- Philosophy
+  title: 'Social Technologies: Cultivating Adaptive Teams Through Collective Intelligence and Self-Organisation'
+  subtitle: Frameworks and philosophies for fostering self-organisation, iterative learning, and shared intelligence to navigate complexity and drive resilient collaboration.
+  content: Explores foundational philosophies that enable teams and organisations to thrive in complex, unpredictable environments through decentralised decision-making, iterative learning, and participatory governance. Topics include self-organisation, empirical inquiry, collective intelligence, emergent order, and sense-making, drawing on thought leadership from product development, systems thinking, and complexity science.
+  updated: 2025-05-23T22:56:30Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-share-nodes
+concepts:
+- Ethos
 categories:
 - Leadership
 tags:

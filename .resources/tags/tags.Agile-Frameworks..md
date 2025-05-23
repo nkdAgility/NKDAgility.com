@@ -1,9 +1,9 @@
 ---
 title: Agile Frameworks
-abstract: Agile frameworks are structured methodologies designed to implement Agile principles within organisations, allowing teams to deliver value in a predictable and sustainable manner. Originating from the need for more flexible and responsive approaches to project management, frameworks such as Scrum, Kanban, and Lean provide defined roles, events, and artefacts that enhance collaboration, transparency, and continuous improvement among team members. The importance of these frameworks lies in their ability to help organisations adapt to changing market demands and customer needs, thereby maintaining competitiveness and relevance. By fostering a culture of experimentation and learning, Agile frameworks enable teams to iterate on processes and products, identify inefficiencies, and optimise workflows, which ultimately enhances value delivery. Additionally, they promote cross-functional collaboration, breaking down silos and leveraging diverse skill sets towards common objectives. This holistic approach not only improves team dynamics but also aligns organisational goals with customer satisfaction, leading to better outcomes. By integrating Agile frameworks into their operations, organisations can create an environment that prioritises responsiveness and innovation, equipping them to navigate the complexities of modern product development and market dynamics. The emphasis on continuous delivery and improvement cultivates resilience, empowering teams to thrive in an ever-evolving landscape.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Agile frameworks are structured methodologies designed to implement Agile principles within organisations, allowing teams to deliver value in a predictable and sustainable manner. Originating from the need for more flexible and responsive approaches to project management, frameworks such as Scrum, Kanban, and Lean provide defined roles, events, and artefacts that enhance collaboration, transparency, and continuous improvement among team members. The importance of these frameworks lies in their ability to help organisations adapt to changing market demands and customer needs, thereby maintaining competitiveness and relevance. By fostering a culture of experimentation and learning, Agile frameworks enable teams to iterate on processes and products, identify inefficiencies, and optimise workflows, which ultimately enhances value delivery. Additionally, they promote cross-functional collaboration, breaking down silos and leveraging diverse skill sets towards common objectives. This holistic approach not only improves team dynamics but also aligns organisational goals with customer satisfaction, leading to better outcomes. By integrating Agile frameworks into their operations, organisations can create an environment that prioritises responsiveness and innovation, equipping them to navigate the complexities of modern product development and market dynamics. The emphasis on continuous delivery and improvement cultivates resilience, empowering teams to thrive in an ever-evolving landscape.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 440
 description: Explore and compare Agile frameworks. Understand their principles, applications, and impact on organisational agility and value delivery.
@@ -26,14 +26,15 @@ Instructions: |-
   - Content that focuses solely on tools or technologies without reference to the frameworks themselves
 headline:
   cards: []
-  title: Agile Frameworks
-  subtitle: Discover and evaluate frameworks for iterative development, enhancing team collaboration, and optimising value delivery in dynamic environments.
-  content: Examine various frameworks that facilitate iterative development, fostering collaboration and enhancing value delivery. Posts should delve into principles, methodologies, and real-world applications, drawing insights from experts and exploring the interplay between complexity, team dynamics, and continuous improvement in organisational contexts.
-  updated: 2025-02-13T12:06:31Z
+  title: 'Agile Frameworks: Structuring Teams for Adaptive Value Delivery'
+  subtitle: Explore structured methodologies like Scrum, Kanban, and Lean that guide teams in delivering value, fostering collaboration, and driving continuous improvement.
+  content: Explores structured approaches for iterative product development, including roles, events, and artefacts that support transparency, collaboration, and continuous improvement. Covers frameworks such as Scrum and Kanban, workflow visualisation, empirical process control, team dynamics, and adaptation to change, drawing on foundational guides and thought leaders.
+  updated: 2025-05-23T22:53:55Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:41:12
+icon: fa-diagram-cells-large
 concepts:
 - Framework
 categories:

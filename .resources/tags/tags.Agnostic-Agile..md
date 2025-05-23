@@ -1,12 +1,12 @@
 ---
 title: Agnostic Agile
+description: Agnostic Agile is a movement that promotes ethical, context-driven agility by prioritising principles over rigid frameworks. Championed by thought leaders like Arie van Bennekum, a Dutch signatory of the Agile Manifesto, it encourages practitioners to adapt methods pragmatically based on need rather than ideology. Drawing from diverse approaches such as Scrum, Kanban, Lean, and XP, Agnostic Agile emphasises professionalism, critical thinking, and value delivery over brand loyalty or prescriptive practice.
+ClassificationType: tags
+trustpilot: false
 abstract: Agnostic Agile is a movement that advocates for a flexible and context-driven approach to agility, emphasising the importance of principles over rigid frameworks. Originating from the need for adaptability in various methodologies, it encourages teams to tailor their practices based on specific requirements rather than conforming to a single ideology. This pragmatic approach allows practitioners to integrate diverse methodologies such as Scrum, Kanban, Lean, and Extreme Programming, fostering an environment that values critical thinking and professionalism. By prioritising value delivery, Agnostic Agile equips teams to respond effectively to evolving circumstances, ensuring predictable and sustainable value generation. This adaptability is essential in today's dynamic environments, where the capacity to pivot and innovate can significantly influence an organisation's success. Furthermore, Agnostic Agile promotes ethical practices by avoiding brand loyalty to specific frameworks, thereby nurturing a culture of continuous improvement and learning. This mindset empowers teams to experiment and refine their processes, ultimately supporting a long-term, systemic approach to agility that enhances organisational resilience and effectiveness. As such, Agnostic Agile is a crucial concept in contemporary product development and delivery, providing valuable insights for teams striving to thrive in an ever-changing landscape.
 date: 2025-04-10T14:49:23Z
 weight: 345
-ClassificationType: tags
 ClassificationContentOrigin: AI
-trustpilot: false
-description: Agnostic Agile is a movement that promotes ethical, context-driven agility by prioritising principles over rigid frameworks. Championed by thought leaders like Arie van Bennekum, a Dutch signatory of the Agile Manifesto, it encourages practitioners to adapt methods pragmatically based on need rather than ideology. Drawing from diverse approaches such as Scrum, Kanban, Lean, and XP, Agnostic Agile emphasises professionalism, critical thinking, and value delivery over brand loyalty or prescriptive practice.
 Instructions: |-
   **Use this category only for discussions on Agnostic Agile.**  
   Agnostic Agile is a movement that advocates for ethical, context-driven agility, emphasising the importance of principles over rigid frameworks. It encourages practitioners to adapt their methods pragmatically based on the specific needs of their projects rather than adhering strictly to a single ideology. This approach is rooted in the belief that agility should be tailored to the context of the organisation and its goals, drawing from a variety of methodologies such as Scrum, Kanban, Lean, and XP.
@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of Agnostic Agile that suggest it is merely a blend of existing frameworks without a distinct philosophy.
 headline:
   cards: []
-  title: Agnostic Agile
-  subtitle: Embrace context-driven practices that prioritise principles and value delivery over rigid frameworks and brand loyalty.
-  content: Agnostic agility champions a flexible approach to project management, advocating for the adaptation of methodologies based on situational needs. It encourages critical thinking, professionalism, and value delivery, drawing insights from various frameworks and theories, including Kanban, complexity theory, and evidence-based management, to enhance team effectiveness and responsiveness.
-  updated: 2025-04-10T14:49:25Z
+  title: 'Agnostic Agile: Adapting Principles for Context-Driven, Sustainable Value Delivery'
+  subtitle: A flexible, principle-driven approach empowering teams to blend and adapt methods like Scrum, Kanban, and XP for sustainable value in complex, evolving environments
+  content: Explores context-driven, principle-based approaches to product development and delivery, integrating insights from multiple methodologies and thought leaders. Emphasises adaptability, critical thinking, ethical decision-making, continuous improvement, and value delivery, supporting teams in navigating complexity, uncertainty, and evolving organisational needs without allegiance to a single framework.
+  updated: 2025-05-23T22:50:34Z
 ResourceId: kfsLvZzGPDZ
 aliases:
 - /APOM
@@ -40,6 +40,7 @@ BodyContentGenDate: 2025-04-10T14:51:34
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-shuffle
 concepts:
 - Principle
 categories:

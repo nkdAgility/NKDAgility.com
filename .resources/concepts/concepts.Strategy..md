@@ -1,11 +1,12 @@
 ---
 title: Strategy
-abstract: Strategy is a high-level approach that directs an organisation towards its long-term objectives, distinguishing itself from methods and practices that focus on execution. It serves as an overarching framework that integrates various methods, practices, and decision-making processes, ensuring that daily activities and tactical choices contribute to the organisation's broader goals. In Agile and DevOps contexts, strategy aligns teams and technologies with business aims, exemplified by approaches like Lean Product Development, which prioritises value delivery and waste reduction. Leadership plays a crucial role in strategy by establishing vision and direction while empowering teams to operate within this framework. Strategic planning in Agile organisations incorporates evidence-based management to inform decisions and maintain alignment with customer needs and market dynamics. Unlike methods that prescribe specific procedures, strategy offers a flexible guiding framework that can adapt to changing circumstances, fostering resilience and responsiveness to both internal and external challenges. Ultimately, strategy provides clarity, focus, and adaptability, enabling organisations to navigate complexity and achieve sustained success in a dynamic environment.
 ClassificationType: concepts
+trustpilot: false
+abstract: Strategy is a high-level approach that directs an organisation towards its long-term objectives, distinguishing itself from methods and practices that focus on execution. It serves as an overarching framework that integrates various methods, practices, and decision-making processes, ensuring that daily activities and tactical choices contribute to the organisation's broader goals. In Agile and DevOps contexts, strategy aligns teams and technologies with business aims, exemplified by approaches like Lean Product Development, which prioritises value delivery and waste reduction. Leadership plays a crucial role in strategy by establishing vision and direction while empowering teams to operate within this framework. Strategic planning in Agile organisations incorporates evidence-based management to inform decisions and maintain alignment with customer needs and market dynamics. Unlike methods that prescribe specific procedures, strategy offers a flexible guiding framework that can adapt to changing circumstances, fostering resilience and responsiveness to both internal and external challenges. Ultimately, strategy provides clarity, focus, and adaptability, enabling organisations to navigate complexity and achieve sustained success in a dynamic environment.
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
 weight: 560
-trustpilot: false
+icon: fa-chess-knight
 description: Strategy is a high-level approach that defines how an organisation will achieve its goals, aligning resources, methods, and actions to achieve a shared vision.
 Instructions: |-
   **Use this category only for discussions on Strategy.**  
@@ -27,10 +28,10 @@ Instructions: |-
   - Misapplications of strategy as a method or tool rather than a high-level guiding framework.
 headline:
   cards: []
-  title: Strategy
-  subtitle: High-level approaches for aligning organisational goals and guiding decision-making through integrated methodologies and frameworks.
-  content: Strategy is a high-level framework that provides direction and alignment for achieving organisational goals. It integrates methods, practices, and decision-making frameworks, ensuring that all actions contribute meaningfully to overarching objectives.
-  updated: 2025-04-09T14:00:00
+  title: 'Strategy: Guiding Organisational Agility for Sustainable Success'
+  subtitle: Guiding organisational direction and decision-making by aligning vision, leadership, and adaptive frameworks to achieve long-term goals in complex, evolving environments.
+  content: Strategy defines the overarching direction and intent that shapes organisational vision, resource allocation, and decision-making. Posts explore leadership, vision-setting, alignment of teams and technologies, evidence-informed planning, adaptability in complex environments, and integration of frameworks to ensure sustained progress toward long-term objectives amid evolving market and customer needs.
+  updated: 2025-05-23T22:57:05Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

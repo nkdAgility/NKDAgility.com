@@ -1,9 +1,9 @@
 ---
 title: Agile Values and Principles
-abstract: Agile Values and Principles are fundamental guidelines that underpin effective Agile practices, serving as a framework for teams to consistently and sustainably deliver value. Originating from the Agile Manifesto, these values prioritise human interactions and collaboration over rigid processes and tools, fostering an environment where customer feedback and adaptability are central. Their importance lies in their ability to enable organisations to respond swiftly to change, ensuring that products remain relevant and aligned with customer needs. By promoting a culture of continuous improvement, Agile encourages teams to regularly assess their processes and outcomes, which enhances efficiency and drives innovation. This systemic approach builds organisational resilience, equipping teams to navigate the complexities and uncertainties of modern product development. By embedding these values into the organisational culture, teams gain the autonomy to self-organise and make informed decisions, maintaining a focus on high-quality outcomes. Ultimately, embracing Agile Values and Principles transcends a mere tactical adjustment; it acts as a strategic enabler that transforms operational dynamics, fostering a mindset oriented towards long-term success and value creation, thereby driving meaningful change and sustainable growth across the organisation.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Agile Values and Principles are fundamental guidelines that underpin effective Agile practices, serving as a framework for teams to consistently and sustainably deliver value. Originating from the Agile Manifesto, these values prioritise human interactions and collaboration over rigid processes and tools, fostering an environment where customer feedback and adaptability are central. Their importance lies in their ability to enable organisations to respond swiftly to change, ensuring that products remain relevant and aligned with customer needs. By promoting a culture of continuous improvement, Agile encourages teams to regularly assess their processes and outcomes, which enhances efficiency and drives innovation. This systemic approach builds organisational resilience, equipping teams to navigate the complexities and uncertainties of modern product development. By embedding these values into the organisational culture, teams gain the autonomy to self-organise and make informed decisions, maintaining a focus on high-quality outcomes. Ultimately, embracing Agile Values and Principles transcends a mere tactical adjustment; it acts as a strategic enabler that transforms operational dynamics, fostering a mindset oriented towards long-term success and value creation, thereby driving meaningful change and sustainable growth across the organisation.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 360
 description: Understand and apply Agile Values and Principles based on first principles. Build a foundation for true agility and continuous value delivery
@@ -27,14 +27,15 @@ Instructions: |-
   - Content that focuses on unrelated methodologies or frameworks outside the Agile context.
 headline:
   cards: []
-  title: Agile Values and Principles
-  subtitle: Explore foundational values and principles to foster adaptability, enhance collaboration, and drive continuous improvement in your processes.
-  content: Explore foundational values and principles that promote adaptability, enhance collaboration, and facilitate continuous improvement. Posts should delve into frameworks for effective teamwork, decision-making under uncertainty, and methods for delivering consistent value, drawing insights from various thought leaders and methodologies in the field.
-  updated: 2025-02-13T12:06:10Z
+  title: 'Agile Values and Principles: Cultivating Adaptive Teams for Sustainable Value Delivery'
+  subtitle: Foundational mindsets and guiding principles for fostering collaboration, adaptability, and continuous improvement in modern product development and organisational culture.
+  content: Explores the foundational mindset and guiding principles that empower teams to prioritise collaboration, transparency, and adaptability. Covers topics such as customer-centricity, iterative delivery, continuous improvement, empirical decision-making, self-organisation, and responding to change, drawing on thought leadership from product development, systems thinking, and complexity science.
+  updated: 2025-05-23T22:51:06Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:32:01
+icon: fa-scroll
 concepts:
 - Capability
 categories:
@@ -43,6 +44,7 @@ categories:
 tags:
 - Agile Philosophy
 - Agile Strategy
+- Organisational Agility
 - Agile Transformation
 - Social Technologies
 - Software Development

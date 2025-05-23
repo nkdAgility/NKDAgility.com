@@ -1,9 +1,9 @@
 ---
 title: Organisational Culture
-abstract: Organisational culture refers to the collective values, beliefs, and behaviours that define how teams function within an organisation. It originates from the shared experiences and practices of employees and plays a crucial role in shaping decision-making processes, collaboration, and the agility of teams. A robust organisational culture is vital as it cultivates an environment conducive to innovation, enabling teams to swiftly adapt to changes and challenges. This adaptability is essential for delivering consistent and sustainable value, fostering a mindset of continuous improvement and learning. The long-term effects of organisational culture are significant, establishing a foundation of trust and psychological safety that encourages team members to express ideas and concerns openly. Such an environment enhances problem-solving capabilities and collaboration, which are critical in agile and DevOps methodologies. Unlike specific frameworks, organisational culture is an overarching element that influences every facet of an organisation, affecting strategy execution and team interactions. By prioritising a positive organisational culture, companies can improve their capacity for innovation and adaptability, thereby facilitating successful transformations and achieving strategic objectives. This cultural alignment serves not just as a backdrop but as a dynamic force that drives teams towards excellence and resilience in a constantly changing landscape.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Organisational culture refers to the collective values, beliefs, and behaviours that define how teams function within an organisation. It originates from the shared experiences and practices of employees and plays a crucial role in shaping decision-making processes, collaboration, and the agility of teams. A robust organisational culture is vital as it cultivates an environment conducive to innovation, enabling teams to swiftly adapt to changes and challenges. This adaptability is essential for delivering consistent and sustainable value, fostering a mindset of continuous improvement and learning. The long-term effects of organisational culture are significant, establishing a foundation of trust and psychological safety that encourages team members to express ideas and concerns openly. Such an environment enhances problem-solving capabilities and collaboration, which are critical in agile and DevOps methodologies. Unlike specific frameworks, organisational culture is an overarching element that influences every facet of an organisation, affecting strategy execution and team interactions. By prioritising a positive organisational culture, companies can improve their capacity for innovation and adaptability, thereby facilitating successful transformations and achieving strategic objectives. This cultural alignment serves not just as a backdrop but as a dynamic force that drives teams towards excellence and resilience in a constantly changing landscape.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 575
 description: Exploring how culture shapes agility, responsiveness, and transformation.
@@ -26,14 +26,15 @@ Instructions: |-
   - Content that does not align with the foundational theories of Agile, DevOps, or Lean regarding culture.
 headline:
   cards: []
-  title: Organisational Culture
-  subtitle: Cultivating a responsive environment that fosters innovation, collaboration, and continuous improvement for transformative success.
-  content: Exploring the dynamics of workplace culture and its impact on collaboration, innovation, and adaptability. Posts delve into practices that enhance team engagement, foster psychological safety, and drive continuous improvement, drawing insights from complexity theory and evidence-based management to navigate organisational challenges effectively.
-  updated: 2025-02-13T12:03:37Z
+  title: 'Organisational Culture: Shaping Agile Teams for Innovation and Lasting Resilience'
+  subtitle: Exploring the values, behaviours, and mindsets that empower teams to collaborate, innovate, and adapt for lasting organisational success and resilience
+  content: Explores how shared values, beliefs, and behaviours influence team dynamics, decision-making, and adaptability. Covers psychological safety, trust, leadership, continuous improvement, learning environments, and the impact of culture on innovation, collaboration, and organisational resilience, drawing on insights from systems thinking, complexity, and evidence-based approaches.
+  updated: 2025-05-23T22:57:28Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T15:09:02
+icon: fa-people-roof
 concepts:
 - Capability
 categories: []

@@ -1,12 +1,12 @@
 ---
 title: Agentic Agility
-abstract: 'Agentic Agility is the capacity—human or AI—to take intentional, adaptive action within socio-technical environments to improve outcomes and align with evolving goals. It is grounded in agency: the power to act with autonomy, accountability, and purpose. Without agency, Agile devolves into hollow rituals; with it, people and systems can deliberately shape value delivery. Agentic Agility manifests through human judgement and learning or AI-driven optimisation within constraints, enabling continuous evolution of both what is delivered and how it is delivered. It is the critical lever that sustains agility as a living, resilient capability rather than a hollow label.'
+description: Agentic Agility is the ability for humans and AI to take intentional, adaptive action within socio-technical environments, enabling continuous improvement, value delivery, and organisational resilience. It transforms Agile, Scrum, and DevOps from passive execution into deliberate evolution, ensuring agility remains a living capability, not a hollow label.
 ClassificationType: tags
+trustpilot: false
+abstract: 'Agentic Agility is the capacity—human or AI—to take intentional, adaptive action within socio-technical environments to improve outcomes and align with evolving goals. It is grounded in agency: the power to act with autonomy, accountability, and purpose. Without agency, Agile devolves into hollow rituals; with it, people and systems can deliberately shape value delivery. Agentic Agility manifests through human judgement and learning or AI-driven optimisation within constraints, enabling continuous evolution of both what is delivered and how it is delivered. It is the critical lever that sustains agility as a living, resilient capability rather than a hollow label.'
 ClassificationContentOrigin: human
 date: 2025-04-07T12:39:49Z
 weight: 330
-trustpilot: false
-description: Agentic Agility is the ability for humans and AI to take intentional, adaptive action within socio-technical environments, enabling continuous improvement, value delivery, and organisational resilience. It transforms Agile, Scrum, and DevOps from passive execution into deliberate evolution, ensuring agility remains a living capability, not a hollow label.
 Instructions: |-
   **Use this category only for discussions on Agentic Agility.**  
   Agentic Agility refers to the capacity—whether human or AI—to take intentional, adaptive actions within socio-technical environments to enhance outcomes and align with evolving goals. This concept is rooted in the notion of agency, which embodies the power to act with autonomy, accountability, and purpose. The presence of agency is crucial for ensuring that Agile practices are meaningful and effective, as it allows individuals and systems to actively shape value delivery rather than merely following rituals.
@@ -27,13 +27,14 @@ Instructions: |-
   - General discussions on Agile practices that do not address the role of agency in enhancing outcomes or aligning with goals.
 headline:
   cards: []
-  title: 'Agentic Agility: Empowering Intentional Action in Agile & DevOps'
-  subtitle: Exploring how purposeful human and AI action drives adaptive change, value delivery, and resilience in complex socio-technical systems and evolving work environments.
-  content: Explores the power to act with autonomy, intentionality, and accountability in complex socio-technical systems. Covers human and AI-driven adaptation, self-management, continuous improvement, and purposeful intervention, drawing on empirical learning, feedback loops, and evolving goals to sustain meaningful change and resilient value delivery.
-  updated: 2025-05-06T22:17:35Z
+  title: 'Agentic Agility: Empowering Intentional Action for Lasting Organisational Resilience'
+  subtitle: Empowering intentional, adaptive action—by people or AI—to shape outcomes, foster accountability, and drive continuous evolution in complex environments
+  content: Explores the intentional, adaptive actions of individuals and AI within complex work systems to drive meaningful change, accountability, and value. Covers autonomy, purposeful intervention, double-loop learning, feedback loops, and the evolution of delivery practices in socio-technical environments, drawing on insights from systems thinking, flow, and empirical management.
+  updated: 2025-05-23T22:50:07Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-person-running
 concepts:
 - Capability
 categories:

@@ -26,10 +26,11 @@ Instructions: |-
   - Content that misinterprets the concept of discipline as merely a collection of practices or isolated methodologies.
   - Topics unrelated to the systemic application and maturation of professional fields.
 headline:
-  title: Discipline
-  subtitle: Consistency, structure, and professionalism across domains of practice.
-  content: Discipline represents a mature and organised body of knowledge that combines theory, ethics, and applied practice. It denotes sustained, structured effort guided by professional standards and continuous learning. Posts under this concept should explore the systemic development and evolution of specific fields, including their frameworks, roles, and governance mechanisms.
-  updated: 2025-04-10T10:30:00Z
+  cards: []
+  title: 'Discipline: Building Organisational Excellence Through Evolving Professional Standards'
+  subtitle: Exploring the evolution, principles, and impact of professional fields—how structured expertise, governance, and continuous learning drive organisational excellence.
+  content: Explores the evolution, governance, and systemic impact of professional fields such as Project Management, Systems Engineering, and Product Strategy. Covers principles, ethical standards, cognitive approaches, and frameworks that shape practice, learning, and decision-making, highlighting their influence on organisational effectiveness and adaptability in complex, collaborative environments.
+  updated: 2025-05-23T23:01:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

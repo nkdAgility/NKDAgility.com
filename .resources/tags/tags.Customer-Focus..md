@@ -1,14 +1,15 @@
 ---
 title: Customer Focus
+ClassificationType: tags
+trustpilot: false
 ResourceId: p1bdjnIJDmW
 description: Deliver what matters. Shape systems and decisions around customer outcomes, not internal convenience.
 abstract: Customer Focus is not a platitude. It's the first principle of agile delivery and product development. It defines value, directs investment, and constrains decisions. If you're not anchored in real customer outcomes, you're optimising the wrong system. This principle demands more than empathy. It demands feedback, evidence, and relentless alignment to customer need.
 date: 2025-05-13T09:00:00
+weight: 475
 aliases:
 - /principles/customer-focus/
 - /resources/p1bdjnIJDmW
-trustpilot: false
-ClassificationType: tags
 Instructions: |-
   Use this category only for discussions on Customer Focus.
 
@@ -33,17 +34,34 @@ Instructions: |-
   Only classify content here if it explicitly addresses how customer outcomes are defined, measured, and used to drive all aspects of product development and delivery, in alignment with original agile, lean, and DevOps philosophies.
 headline:
   cards: []
-  title: Customer Focus (CF)
-  subtitle: Centres on delivering measurable value by aligning decisions, priorities, and feedback loops to real customer needs and outcomes across all stages of product delivery.
-  content: Emphasises delivering measurable value by aligning product decisions, feedback loops, and prioritisation with genuine user needs and outcomes. Explores evidence-driven validation, outcome-oriented planning, and continuous learning to ensure work impacts real customer behaviour, drawing on principles from product development, systems thinking, and empirical management.
-  updated: 2025-05-13T10:26:05Z
+  title: 'Customer Focus: Anchoring Delivery in Real Outcomes That Matter'
+  subtitle: Guiding delivery and decision-making by real user needs, validated outcomes, and continuous feedback to ensure every effort creates measurable customer value
+  content: Emphasises delivering measurable value by aligning work to genuine user needs, leveraging continuous feedback, and prioritising outcomes over outputs. Explores evidence-driven decision-making, production telemetry, and iterative validation to ensure every investment, strategy, and improvement is anchored in real customer impact and behavioural change.
+  updated: 2025-05-23T22:54:47Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
-concepts: []
-categories: []
-tags: []
-weight: 1000
+icon: fa-user-group-simple
+concepts:
+- Principle
+categories:
+- Product Development
+- Product Management
+tags:
+- Value Delivery
+- Metrics and Learning
+- Agile Product Management
+- Product Delivery
+- Pragmatic Thinking
+- Decision Making
+- Agile Philosophy
+- Operational Practices
+- Product Strategy
+- Organisational Agility
+- Product Discovery
+- Evidence Based Management
+- Current Value
+- Agile Product Operating Model
 
 ---
 Customer Focus is the lens through which all meaningful delivery is measured. It's not about opinions. It's about outcomes. If your product doesn't change customer behaviour, it doesn’t matter how elegant the code is or how smooth the deployment was.

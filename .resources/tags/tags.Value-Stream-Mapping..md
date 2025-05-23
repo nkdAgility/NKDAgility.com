@@ -1,11 +1,11 @@
 ---
 title: Value Stream Mapping
-abstract: Value Stream Mapping is a visual tool designed to analyse and optimise workflows within an organisation by focusing on the flow of materials and information necessary for delivering a product or service. This method involves mapping each step of the process to identify inefficiencies, bottlenecks, and areas of waste, thereby enabling teams to streamline operations and enhance value delivery. Its importance lies in facilitating predictable and sustainable value delivery, empowering teams to make informed decisions based on empirical data, and allowing for adjustments that improve overall performance. By aligning processes with customer needs, Value Stream Mapping ensures that every step adds value towards the end goal. It is not a one-time exercise but a long-term, systemic practice that promotes ongoing reflection and adaptation, helping teams remain agile in response to changing demands and market conditions. This ultimately leads to improved customer satisfaction and organisational resilience. The insights gained from Value Stream Mapping can drive strategic initiatives and foster a culture of collaboration and shared understanding across cross-functional teams, which is essential for achieving sustained success in modern product development.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Value Stream Mapping is a visual tool designed to analyse and optimise workflows within an organisation by focusing on the flow of materials and information necessary for delivering a product or service. This method involves mapping each step of the process to identify inefficiencies, bottlenecks, and areas of waste, thereby enabling teams to streamline operations and enhance value delivery. Its importance lies in facilitating predictable and sustainable value delivery, empowering teams to make informed decisions based on empirical data, and allowing for adjustments that improve overall performance. By aligning processes with customer needs, Value Stream Mapping ensures that every step adds value towards the end goal. It is not a one-time exercise but a long-term, systemic practice that promotes ongoing reflection and adaptation, helping teams remain agile in response to changing demands and market conditions. This ultimately leads to improved customer satisfaction and organisational resilience. The insights gained from Value Stream Mapping can drive strategic initiatives and foster a culture of collaboration and shared understanding across cross-functional teams, which is essential for achieving sustained success in modern product development.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
-weight: 630
+weight: 255
 description: Visualising workflows to identify inefficiencies and optimise value delivery.
 Instructions: |-
   **Use this category only for discussions on Value Stream Mapping.**  
@@ -25,35 +25,36 @@ Instructions: |-
   - Discussions unrelated to Lean principles or Value Stream Mapping, such as general project management techniques or unrelated Agile practices that do not focus on workflow visualisation and optimisation.
 headline:
   cards: []
-  title: Value Stream Mapping
-  subtitle: Mapping workflows to uncover bottlenecks and enhance efficiency in delivering value across processes.
-  content: Visualising workflows to pinpoint inefficiencies and enhance the flow of value delivery. Posts should explore techniques for mapping processes, identifying bottlenecks, and implementing improvements, drawing on insights from systems thinking, process optimisation, and continuous improvement methodologies.
-  updated: 2025-02-13T12:01:18Z
+  title: 'Value Stream Mapping (VSM): Uncovering Bottlenecks for Continuous Value Delivery'
+  subtitle: Visualising and optimising end-to-end workflows to identify bottlenecks, eliminate waste, and enable continuous improvement for predictable, customer-focused delivery
+  content: Explores visual techniques for mapping end-to-end workflows, highlighting delays, handoffs, and sources of waste. Covers empirical analysis, flow efficiency, cycle time reduction, and systemic improvement, drawing on thought leaders to support data-driven decision-making, customer alignment, and continuous adaptation in complex, cross-functional product and service delivery environments.
+  updated: 2025-05-23T22:48:31Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T12:56:05
+icon: fa-route
 concepts:
 - Practice
 categories:
 - Product Development
 - Lean
+- Technical Leadership
 tags:
 - Operational Practices
 - Continuous Improvement
 - Lean Principles
 - Value Delivery
+- Lean Product Development
+- Lean Thinking
 - Pragmatic Thinking
 - Team Performance
 - Value Stream Management
 - Business Agility
 - Metrics and Learning
 - Organisational Agility
+- Project Management
 - Product Delivery
-- Sociotechnical Systems
-- Social Technologies
-- Decision Making
-- Market Adaptability
 
 ---
 Value Stream Mapping is a visual tool used to analyse and optimise workflows within an organisation, focusing on the flow of materials and information required to deliver a product or service. By mapping out each step in the process, teams can identify inefficiencies, bottlenecks, and areas of waste, enabling them to streamline operations and enhance value delivery. This practice is crucial for fostering a culture of continuous improvement, as it provides a clear picture of how work progresses and where delays occur.

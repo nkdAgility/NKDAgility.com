@@ -25,10 +25,10 @@ Instructions: |-
   - Technical content that provides actionable insights or guidance based on recognised theories or practices.
 headline:
   cards: []
-  title: Miscellaneous
-  subtitle: A collection of diverse insights and practices that transcend specific methodologies and frameworks in project management and organisational improvement.
-  content: A diverse array of insights and methodologies that enhance project management and organisational effectiveness. Posts may explore workflow optimisation, team dynamics, performance measurement, and the interplay of complexity in decision-making, drawing from various thought leaders and frameworks to foster continuous improvement and adaptability.
-  updated: 2025-02-13T11:59:11Z
+  title: 'Miscellaneous: Harnessing Unconventional Insights for Organisational Innovation and Agility'
+  subtitle: A space for unconventional insights, emerging practices, and cross-disciplinary ideas that drive innovation, adaptability, and continuous learning beyond standard categories.
+  content: Covers unconventional or cross-disciplinary topics, emerging tools, novel frameworks, and experimental approaches that fall outside established categories. Includes insights on organisational change, new metrics, hybrid methodologies, and innovative thinking that support adaptability, continuous learning, and resilience in complex product development and delivery environments.
+  updated: 2025-05-23T23:01:24Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** unrelated content such as technical implementation details, project management practices unrelated to discovery, or discussions that do not focus on understanding customer needs and product feature definition.
 headline:
   cards: []
-  title: Product Discovery
-  subtitle: Uncovering user needs and prioritising impactful features for successful product development.
-  content: Exploring user insights to shape product features that deliver real value. Posts should delve into techniques for gathering customer feedback, methods for validating ideas, prioritisation frameworks, and strategies for aligning product development with market demands, ensuring a focus on continuous improvement and adaptability.
-  updated: 2025-02-13T12:03:23Z
+  title: 'Product Discovery: Uncovering User Needs to Drive Meaningful Innovation'
+  subtitle: Exploring user needs, validating ideas, and shaping product direction through experimentation, feedback, and evidence to ensure meaningful, impactful solutions
+  content: Explores how teams uncover user needs, validate assumptions, and shape product direction through experimentation, iterative feedback, and evidence-driven decision-making. Covers techniques like prototyping, user research, hypothesis testing, and market exploration to reduce uncertainty, foster innovation, and ensure solutions deliver genuine value in complex environments.
+  updated: 2025-05-23T23:01:10Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

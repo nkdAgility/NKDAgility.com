@@ -1,8 +1,9 @@
 ---
 title: Agile Product Operating Model
+ClassificationType: tags
+trustpilot: false
 abstract: The Agile Product Operating Model (APOM) is a framework that merges modern product management techniques with agile methodologies, enabling organisations to consistently deliver value by fostering a product-centric mindset. Originating from the need to shift away from traditional project-based approaches, which often emphasise rigid timelines and budgets, APOM promotes a focus on continuous value delivery and responsiveness to customer feedback. This model is crucial in the context of agile, DevOps, and product development as it aligns organisational efforts around well-defined outcomes, ensuring that every product has clear boundaries, stakeholders, and measurable value. By integrating elements such as business and technology roadmaps, operational stability, and governance, APOM allows organisations to adapt swiftly to market changes while maintaining a clear connection to their strategic goals. Furthermore, it emphasises evidence-based decision-making, fostering transparency and collaboration across teams, which enhances the ability to manage and optimise product value effectively. Ultimately, APOM provides a flexible, tailored approach that empowers organisations to shape their unique operating models, driving sustainable value creation in a dynamic environment.
 ResourceId: cBWi9iKD1Sa
-ClassificationType: tags
 ClassificationContentOrigin: human
 date: 2025-03-21T09:30:34Z
 weight: 365
@@ -26,13 +27,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus solely on traditional project management methodologies, unrelated agile practices that do not pertain to product management, or any content that misrepresents the core principles of the Agile Product Operating Model.
 headline:
   cards: []
-  title: Agile Product Operating Model
-  subtitle: Transform your organisation by integrating product management with adaptive practices for consistent, customer-driven value delivery.
-  content: A framework for integrating product management with adaptive methodologies, fostering a culture of continuous value delivery. Posts should explore product-centric strategies, evidence-based decision-making, team dynamics, and the interplay of governance and flow, ensuring alignment with customer needs and market responsiveness.
-  updated: 2025-03-21T09:30:37Z
-trustpilot: false
-concepts:
-- Model
+  title: 'Agile Product Operating Model (APOM): Shifting from Projects to Continuous Value Delivery'
+  subtitle: A framework for aligning strategy, teams, and outcomes around products—enabling continuous value delivery, adaptability, and evidence-based decision making.
+  content: Explores frameworks and practices for structuring organisations around products, emphasising continuous value delivery, outcome alignment, and evidence-based decision-making. Covers topics such as product-centric operating models, governance, organisational design, measurement, transparency, and the integration of business, technology, and operational strategies to drive sustainable value.
+  updated: 2025-05-23T22:51:29Z
 aliases:
 - /agile-product-operating-model
 - /methods/agile-product-operating-model/
@@ -42,6 +40,9 @@ aliases:
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-diagram-cells
+concepts:
+- Ethos
 categories:
 - Product Management
 - Product Development

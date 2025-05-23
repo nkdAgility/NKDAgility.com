@@ -1,9 +1,9 @@
 ---
 title: Lead Time
-abstract: Lead Time is an essential observability metric that quantifies the duration from the initiation of a work item to its delivery to the customer. It is a practical implementation of Cycle Time often used in flow-based systems such as Kanban. This metric provides end-to-end visibility into workflow performance, helping teams identify inefficiencies and optimise delivery for improved predictability and responsiveness. By exposing how long it takes to deliver value, Lead Time enables real-time insight into system health and team effectiveness, supporting continuous improvement across Agile, Lean, and DevOps environments.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Lead Time is an essential observability metric that quantifies the duration from the initiation of a work item to its delivery to the customer. It is a practical implementation of Cycle Time often used in flow-based systems such as Kanban. This metric provides end-to-end visibility into workflow performance, helping teams identify inefficiencies and optimise delivery for improved predictability and responsiveness. By exposing how long it takes to deliver value, Lead Time enables real-time insight into system health and team effectiveness, supporting continuous improvement across Agile, Lean, and DevOps environments.
+ClassificationContentOrigin: AI
 date: 2025-04-11T06:00:00
 weight: 160
 description: Measuring the time from work initiation to customer delivery, helping teams monitor workflow efficiency and improve value delivery.
@@ -23,14 +23,15 @@ Instructions: |-
   - Discussions on unrelated metrics (e.g., velocity, burn-down charts) or misinterpretations of Lead Time that don't align with its core definition.
 headline:
   cards: []
-  title: Lead Time
-  subtitle: Measuring and optimising the duration from task initiation to customer delivery for enhanced flow efficiency.
-  content: Lead Time is a key observability metric and a flow-based extension of Cycle Time. It enables teams to measure the time from the start of work to customer delivery and use that insight to improve predictability, responsiveness, and flow efficiency.
-  updated: 2025-04-11T06:00:00
+  title: 'Lead Time (LT): Accelerating Value Delivery Through End-to-End Flow Visibility'
+  subtitle: Track and analyse the full journey from work initiation to customer delivery, revealing flow efficiency, bottlenecks, and opportunities for faster value realisation.
+  content: Measures the total elapsed time from work item initiation to customer delivery, providing end-to-end visibility into workflow efficiency, responsiveness, and predictability. Topics include flow metrics, system constraints, feedback loops, delivery patterns, continuous improvement, and data-driven decision-making, drawing on principles from flow theory, systems thinking, and empirical management.
+  updated: 2025-05-23T22:46:46Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-11T06:00:00
+icon: fa-clock-rotate-left
 concepts:
 - Observability
 categories:

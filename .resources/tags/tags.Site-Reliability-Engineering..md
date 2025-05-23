@@ -1,9 +1,9 @@
 ---
 title: Site Reliability Engineering
-abstract: Site Reliability Engineering (SRE) is a discipline that utilises software engineering principles to develop scalable and reliable systems, effectively bridging the gap between development and operations. Originating from the need to embed reliability within the software development lifecycle, SRE ensures that systems maintain functionality and resilience under diverse conditions. This methodology prioritises automation, monitoring, and incident response, which allows teams to deliver consistent value in a sustainable manner. SRE teams establish service level objectives (SLOs) and service level indicators (SLIs) to create clear performance and reliability metrics, fostering a culture of accountability and continuous improvement. This proactive approach to problem-solving and engineering solutions to operational challenges enhances overall system performance, distinguishing SRE from traditional operations roles. By promoting shared responsibility for reliability across teams, SRE encourages collaboration and knowledge sharing, which not only improves user satisfaction but also drives positive business outcomes. Ultimately, the integration of reliability into the development process supports organisational strategic goals and enhances competitive advantage, making SRE a vital component in agile, DevOps, and product development frameworks.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Site Reliability Engineering (SRE) is a discipline that utilises software engineering principles to develop scalable and reliable systems, effectively bridging the gap between development and operations. Originating from the need to embed reliability within the software development lifecycle, SRE ensures that systems maintain functionality and resilience under diverse conditions. This methodology prioritises automation, monitoring, and incident response, which allows teams to deliver consistent value in a sustainable manner. SRE teams establish service level objectives (SLOs) and service level indicators (SLIs) to create clear performance and reliability metrics, fostering a culture of accountability and continuous improvement. This proactive approach to problem-solving and engineering solutions to operational challenges enhances overall system performance, distinguishing SRE from traditional operations roles. By promoting shared responsibility for reliability across teams, SRE encourages collaboration and knowledge sharing, which not only improves user satisfaction but also drives positive business outcomes. Ultimately, the integration of reliability into the development process supports organisational strategic goals and enhances competitive advantage, making SRE a vital component in agile, DevOps, and product development frameworks.
+ClassificationContentOrigin: AI
 ResourceId: K0i7PIZARDw
 date: 2025-05-05T10:17:24Z
 weight: 175
@@ -29,16 +29,17 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to the principles and practices of Site Reliability Engineering, such as general software development practices, unrelated DevOps topics, or Agile methodologies that do not specifically address reliability in production systems.
 headline:
   cards: []
-  title: Site Reliability Engineering
-  subtitle: Ensuring robust and scalable systems through engineering practices and continuous improvement methodologies.
-  content: Integrating software engineering principles with operational practices to enhance system reliability and scalability. Posts should explore incident management, performance monitoring, automation strategies, and the cultural aspects of collaboration between development and operations teams, fostering a proactive approach to system resilience and user satisfaction.
-  updated: 2025-02-13T12:02:19Z
+  title: 'Site Reliability Engineering (SRE): Engineering Resilience for Scalable, Reliable Systems'
+  subtitle: Engineering resilient, scalable systems through automation, measurement, and shared responsibility—bridging development and operations for continuous, reliable delivery.
+  content: Explores the disciplined engineering of resilient, scalable systems through automation, observability, incident response, and continuous improvement. Emphasises shared responsibility, measurable reliability, and proactive risk management, integrating feedback loops, transparency, and data-driven decision-making to align technical operations with organisational goals and customer outcomes.
+  updated: 2025-05-23T22:47:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:12:47
+icon: fa-shield-alt
 concepts:
-- Capability
+- Ethos
 categories:
 - DevOps
 - Engineering Excellence
@@ -50,6 +51,7 @@ tags:
 - Pragmatic Thinking
 - Team Performance
 - Product Delivery
+- Customer Focus
 - Engineering Practices
 - Market Adaptability
 - Continuous Improvement

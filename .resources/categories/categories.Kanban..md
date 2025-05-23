@@ -1,10 +1,11 @@
 ---
 title: Kanban
-abstract: Kanban is a change management strategy that focuses on improving workflow and value delivery within organisations, rather than being merely a tool or visual board. Originating from Lean principles and systems thinking, Kanban encourages teams to begin with their current processes, fostering an understanding of existing systems to facilitate evolutionary improvements. Unlike prescriptive frameworks that dictate roles or time constraints, Kanban emphasises observability through visualisation of work, limiting work in progress, managing flow, and making policies explicit. This approach helps identify bottlenecks and supports evidence-based enhancements without necessitating major organisational changes. By complementing methodologies like Scrum and DevOps, Kanban enhances transparency and decision-making, allowing teams to adapt their practices over time based on feedback and performance metrics such as lead time and throughput. While often misconceived as merely a visual task management tool, the true strength of Kanban lies in its ability to create a shared understanding of system dynamics, enabling strategic improvements. This empowers teams to deliver value in a predictable, sustainable manner, making Kanban a vital strategy for organisations operating in complex and rapidly changing environments.
 ClassificationType: categories
 trustpilot: false
+abstract: Kanban is a change management strategy that focuses on improving workflow and value delivery within organisations, rather than being merely a tool or visual board. Originating from Lean principles and systems thinking, Kanban encourages teams to begin with their current processes, fostering an understanding of existing systems to facilitate evolutionary improvements. Unlike prescriptive frameworks that dictate roles or time constraints, Kanban emphasises observability through visualisation of work, limiting work in progress, managing flow, and making policies explicit. This approach helps identify bottlenecks and supports evidence-based enhancements without necessitating major organisational changes. By complementing methodologies like Scrum and DevOps, Kanban enhances transparency and decision-making, allowing teams to adapt their practices over time based on feedback and performance metrics such as lead time and throughput. While often misconceived as merely a visual task management tool, the true strength of Kanban lies in its ability to create a shared understanding of system dynamics, enabling strategic improvements. This empowers teams to deliver value in a predictable, sustainable manner, making Kanban a vital strategy for organisations operating in complex and rapidly changing environments.
 date: 2025-02-11T10:16:54Z
 weight: 330
+icon: fa-columns
 ResourceId: _O7H5eH902L
 description: A strategy for making work observable, managing flow, and continuously improving value delivery. Specifically Kanban as outlined in the Kanban Guide.
 Instructions: |-
@@ -26,10 +27,10 @@ Instructions: |-
   - Content that does not align with the original theories and philosophies of Kanban as defined by key authors and practitioners in the field.
 headline:
   cards: []
-  title: Kanban
-  subtitle: A strategy for visualising work, optimising flow, and enhancing value delivery through continuous improvement and collaboration.
-  content: A method for visualising work processes, enhancing flow management, and fostering continuous improvement. Posts should explore topics such as work item visualisation, cycle time reduction, throughput optimisation, and the application of metrics for informed decision-making, drawing on insights from industry thought leaders and established frameworks.
-  updated: 2025-02-13T11:59:20Z
+  title: 'Kanban: Evolving Workflows for Sustainable, Evidence-Based Improvement'
+  subtitle: Improving workflow and value delivery through visualisation, flow management, and evolutionary change for teams navigating complex, adaptive environments
+  content: Explores evolutionary change through visualising workflow, limiting work in progress, and managing flow to enhance predictability and value delivery. Covers system observability, explicit policies, feedback loops, performance metrics, and continuous improvement, drawing on systems thinking, complexity theory, and evidence-based approaches for sustainable organisational adaptation.
+  updated: 2025-05-23T22:50:12Z
 aliases:
 - /methods/kanban-strategy/
 - /learn/agile-delivery-kit/strategies/kanban-strategy/

@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of product strategy, such as technical implementation details, team dynamics unrelated to strategy, or general Agile/Scrum practices that do not directly inform product vision and roadmap development.
 headline:
   cards: []
-  title: Product Strategy
-  subtitle: Crafting a clear vision and actionable roadmap for sustainable product success in a dynamic market landscape.
-  content: Crafting a comprehensive vision and actionable roadmap that aligns product development with market needs and customer insights. Posts should explore strategic planning, prioritisation techniques, stakeholder engagement, and methods for adapting to changing environments, ensuring long-term product viability and competitive advantage.
-  updated: 2025-02-13T12:03:16Z
+  title: 'Product Strategy: Guiding Vision to Deliver Sustainable Competitive Advantage'
+  subtitle: Guiding vision, market alignment, and decision frameworks for building sustainable products that deliver value, adapt to change, and drive long-term success.
+  content: Defines the vision, goals, and roadmap for product development by integrating market analysis, customer insights, and organisational objectives. Emphasises long-term value delivery, risk mitigation, and adaptability, guiding cross-functional teams in decision-making and prioritisation to ensure alignment with evolving business needs and complex market environments.
+  updated: 2025-05-23T23:01:13Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

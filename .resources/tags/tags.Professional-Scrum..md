@@ -1,9 +1,9 @@
 ---
 title: Professional Scrum
-abstract: Professional Scrum is a disciplined approach to the Scrum framework that emphasises empiricism, technical excellence, and the continuous delivery of value. Originating from the principles of Scrum, it prioritises the intentional and accountable ways in which individuals, teams, and organisations operate, rather than merely adhering to prescribed rituals or frameworks. This methodology underscores the importance of transparency, the definition of 'Done', and the necessity of empirical practices, positioning Product Owners as strategic leaders, Scrum Masters as catalysts for change, and Developers as skilled engineers. By embracing complexity as a dynamic to respond to rather than a challenge to control, Professional Scrum encourages rapid learning, frequent delivery, and ongoing improvement. Its significance lies in its ability to infuse professionalism, responsibility, and rigor into the process of complex product delivery, making it a valuable framework for organisations seeking to enhance their agility, foster collaboration, and achieve sustainable success in product development.
 ClassificationType: tags
-ClassificationContentOrigin: Hybrid
 trustpilot: false
+abstract: Professional Scrum is a disciplined approach to the Scrum framework that emphasises empiricism, technical excellence, and the continuous delivery of value. Originating from the principles of Scrum, it prioritises the intentional and accountable ways in which individuals, teams, and organisations operate, rather than merely adhering to prescribed rituals or frameworks. This methodology underscores the importance of transparency, the definition of 'Done', and the necessity of empirical practices, positioning Product Owners as strategic leaders, Scrum Masters as catalysts for change, and Developers as skilled engineers. By embracing complexity as a dynamic to respond to rather than a challenge to control, Professional Scrum encourages rapid learning, frequent delivery, and ongoing improvement. Its significance lies in its ability to infuse professionalism, responsibility, and rigor into the process of complex product delivery, making it a valuable framework for organisations seeking to enhance their agility, foster collaboration, and achieve sustainable success in product development.
+ClassificationContentOrigin: Hybrid
 date: 2025-02-11T10:17:24Z
 weight: 420
 description: Professional Scrum is a disciplined ethos of empiricism, accountability, and continuous improvement that transcends the Scrum framework.
@@ -24,14 +24,15 @@ Instructions: |-
   **Strictly exclude** content focused solely on certification prep, lightweight introductions, or misapplications of Scrum that omit professionalism, empiricism, or the pursuit of value.
 headline:
   cards: []
-  title: Professional Scrum
-  subtitle: Apply Scrum with discipline, accountability, and an ethos of professionalism.
-  content: Professional Scrum is more than a framework. It’s a philosophy that integrates empiricism, technical excellence, and organisational change. This tag is for exploring how teams and organisations engage with Scrum not just as a process, but as a commitment to delivering value with transparency, adaptability, and purpose. Posts here cover role accountability, ethical delivery standards, evidence-based decision-making, and continuous learning in complex environments.
-  updated: 2025-04-09T13:20:00Z
+  title: 'Professional Scrum (PS): Elevating Accountability and Empiricism for Lasting Product Success'
+  subtitle: Elevating product delivery through empiricism, transparency, and accountability—exploring disciplined practices, roles, and continuous improvement in complex environments
+  content: Explores disciplined, evidence-driven approaches to product delivery, emphasising empiricism, transparency, and accountability. Covers roles as strategic leadership, change facilitation, and technical craftsmanship; the importance of clear definitions of value and completion; and continuous adaptation in complex environments, drawing on thought leaders in product development and organisational change.
+  updated: 2025-05-23T22:53:11Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 concept: Philosophy
+icon: fa-user-graduate
 concepts:
 - Discipline
 categories:

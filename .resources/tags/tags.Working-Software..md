@@ -1,9 +1,9 @@
 ---
 title: Working Software
-abstract: Working Software is a fundamental artifact in Agile, Scrum, and Lean frameworks, serving as the tangible output of a team's efforts throughout the development process. It emerges from iterative development cycles and acts as a demonstration of progress and value delivery. In Scrum, working software is the primary success metric for each Sprint, encapsulated in the Increment artifact, which is subject to inspection and adaptation based on stakeholder feedback. The Definition of Done ensures that the software meets established quality criteria, making it valuable and ready for release. The importance of working software lies in its ability to provide a concrete measure of progress, aligning teams and stakeholders around completed work and remaining tasks. It transcends mere code, representing deliverables that address real-world needs and customer expectations, thereby maintaining a focus on value delivery. In agile methodologies, the emphasis on working software fosters continuous feedback and improvement, enabling teams to release increments iteratively and adapt to evolving requirements. This focus enhances collaboration, increases transparency, and drives ongoing improvement within organisations. Ultimately, working software is not solely about technical execution; it is about consistently delivering value, responding to customer needs, and ensuring long-term sustainability, thereby contributing to customer satisfaction, innovation, and overall business success.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Working Software is a fundamental artifact in Agile, Scrum, and Lean frameworks, serving as the tangible output of a team's efforts throughout the development process. It emerges from iterative development cycles and acts as a demonstration of progress and value delivery. In Scrum, working software is the primary success metric for each Sprint, encapsulated in the Increment artifact, which is subject to inspection and adaptation based on stakeholder feedback. The Definition of Done ensures that the software meets established quality criteria, making it valuable and ready for release. The importance of working software lies in its ability to provide a concrete measure of progress, aligning teams and stakeholders around completed work and remaining tasks. It transcends mere code, representing deliverables that address real-world needs and customer expectations, thereby maintaining a focus on value delivery. In agile methodologies, the emphasis on working software fosters continuous feedback and improvement, enabling teams to release increments iteratively and adapt to evolving requirements. This focus enhances collaboration, increases transparency, and drives ongoing improvement within organisations. Ultimately, working software is not solely about technical execution; it is about consistently delivering value, responding to customer needs, and ensuring long-term sustainability, thereby contributing to customer satisfaction, innovation, and overall business success.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 420
 description: Working software is the tangible, functional output produced during a Sprint, representing a concrete artifact that delivers value to customers.
@@ -26,21 +26,24 @@ Instructions: |-
   - Content that presents working software as a **principle**, rather than an output artifact.
 headline:
   cards: []
-  title: Working Software
-  subtitle: Delivering functional, high-quality software that meets customer needs and business objectives through iterative, incremental progress.
-  content: Working software is a critical artifact in Agile, Lean, and DevOps methodologies, representing the tangible output of a team’s efforts to deliver functional software that provides value to customers and stakeholders.
-  updated: 2025-04-09T12:55:25Z
+  title: 'Working Software: Delivering Tangible Value Through Iterative Increments'
+  subtitle: Deliverables that demonstrate progress, value, and quality through iterative development, continuous feedback, and alignment with customer and business needs
+  content: Posts in this classification explore the creation, inspection, and delivery of functional product increments that meet defined quality standards, demonstrate progress, and provide value. Topics include iterative delivery, feedback loops, Definition of Done, stakeholder alignment, transparency, and adapting deliverables to evolving needs and customer expectations.
+  updated: 2025-05-23T22:53:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T12:55:25
+icon: fa-laptop-code
 concepts:
 - Principle
 categories:
 - Product Development
 - Scrum
 tags:
+- Value Delivery
 - Increment
+- Software Development
 - Product Delivery
 - Organisational Agility
 - Empirical Process Control
