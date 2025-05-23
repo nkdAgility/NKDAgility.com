@@ -96,63 +96,8 @@ function Get-CoverPageTemplate {
         [string]$ResourceId
     )
     
-    # Create the permalink
-    $permalink = "${BASE_URL}${ResourceId}"
-    
-    # Get the path to the cover image
-    $coverImagePath = Resolve-Path $COVER_IMAGE_PATH
-    
-    # LaTeX template with cover page
-    $template = @"
-\documentclass{article}
-\usepackage[utf8]{inputenc}
-\usepackage{graphicx}
-\usepackage{wallpaper}
-\usepackage{geometry}
-\usepackage{hyperref}
-\usepackage{fancyhdr}
-\usepackage{xcolor}
-\usepackage{titlesec}
-
-\geometry{a4paper, margin=1in}
-\pagestyle{fancy}
-\fancyhf{}
-\renewcommand{\headrulewidth}{0pt}
-\renewcommand{\footrulewidth}{0pt}
-\fancyfoot[R]{\thepage}
-
-\hypersetup{
-    colorlinks=true,
-    linkcolor=blue,
-    filecolor=magenta,
-    urlcolor=blue,
-}
-
-\begin{document}
-
-% Cover page
-\thispagestyle{empty}
-\ThisULCornerWallPaper{1}{$coverImagePath}
-
-\vspace*{\fill}
-\vspace*{0.75\textheight}
-\begin{flushright}
-\fontsize{24}{30}\selectfont
-\textbf{$Title}
-\end{flushright}
-
-\vspace{2cm}
-\begin{flushright}
-\fontsize{12}{14}\selectfont
-\url{$permalink}
-\end{flushright}
-\vspace*{\fill}
-\newpage
-
-% Document content starts here
-"@
-
-    return $template
+    # Instead of generating the template, just return the path to the static template
+    return "${PSScriptRoot}\..\pandoc\resource-template.tex"
 }
 
 # Function to get or create PDF cache
@@ -309,18 +254,67 @@ function Convert-HugoMarkdownToPdf {
         # Create temporary markdown file with the content
         $tempMdPath = Join-Path $tempDir "content.md"
         Set-Content -Path $tempMdPath -Value $HugoMarkdown.BodyContent -Encoding UTF8
-        
-        # Create LaTeX template file with cover page
-        $templatePath = Join-Path $tempDir "template.tex"
-        $template = Get-CoverPageTemplate -Title $title -ResourceId $resourceId
-        Set-Content -Path $templatePath -Value $template -Encoding UTF8
-        
+
+        # --- NEW: Validate referenced files in Markdown ---
+        $markdownContent = $HugoMarkdown.BodyContent
+        $referencedFiles = @()
+        # Match ![alt](file) and [text](file) where file does not start with http(s) or /
+        $regex = '!?\[[^\]]*\]\((?!https?://|/)([^)\s]+)' # captures file path in group 1
+        $matches = [regex]::Matches($markdownContent, $regex)
+        foreach ($match in $matches) {
+            $file = $match.Groups[1].Value
+            # Only add if not empty and not an anchor
+            if ($file -and -not $file.StartsWith('#')) {
+                $referencedFiles += $file
+            }
+        }
+        $missingFiles = @()
+        foreach ($file in $referencedFiles | Select-Object -Unique) {
+            $filePath = Join-Path $tempDir $file
+            if (-not (Test-Path $filePath)) {
+                # Try to find the file in the resource's source folder
+                $sourceFilePath = Join-Path $HugoMarkdown.FolderPath $file
+                if (Test-Path $sourceFilePath) {
+                    # Ensure subdirectories exist in tempDir
+                    $destDir = Split-Path $filePath -Parent
+                    if (-not (Test-Path $destDir)) {
+                        New-Item -ItemType Directory -Path $destDir -Force | Out-Null
+                    }
+                    Copy-Item -Path $sourceFilePath -Destination $filePath -Force
+                }
+                else {
+                    $missingFiles += $file
+                }
+            }
+        }
+        if ($missingFiles.Count -gt 0) {
+            Write-ErrorLog "PDF generation aborted: Missing referenced files in Markdown: $($missingFiles -join ', ')"
+            return $false
+        }
+        # --- END NEW ---
+
+        # Get the path to the cover image and convert to LaTeX-friendly format
+        $coverImagePath = Resolve-Path $COVER_IMAGE_PATH
+        $coverImageFileName = ([System.IO.Path]::GetFileName($coverImagePath)) -replace ' ', '_'
+        $coverImageTempPath = Join-Path $tempDir $coverImageFileName
+        Copy-Item -Path $coverImagePath -Destination $coverImageTempPath -Force
+        $coverImagePathLatex = $coverImageFileName
+        $templatePath = Get-CoverPageTemplate -Title $title -ResourceId $resourceId
+        # Copy the template to the temp directory so Pandoc can access it
+        $tempTemplatePath = Join-Path $tempDir "template.tex"
+        Copy-Item -Path $templatePath -Destination $tempTemplatePath -Force
+        # Debug: List files in temp directory before running Pandoc
+        Write-InfoLog "Temp directory contents before Pandoc:"
+        Get-ChildItem -Path $tempDir | ForEach-Object { Write-InfoLog $_.FullName }
         # Generate PDF using pandoc
         $pandocArgs = @(
             "-f", "markdown",
             "-t", "pdf",
             "--pdf-engine=xelatex",
-            "--template=$templatePath",
+            "--template=$tempTemplatePath",
+            "-V", "permalink=$permalink",
+            "-V", "title=$title",
+            "-V", "coverimage=$coverImagePathLatex",
             "-o", "$pdfPath",
             "$tempMdPath"
         )
