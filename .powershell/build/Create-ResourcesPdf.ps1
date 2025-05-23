@@ -215,12 +215,21 @@ function Get-PdfFileName {
             $environment = $env:nkdAgility_Ring
         }
     }
-    
+    $unique = $HugoMarkdown.FrontMatter.ResourceId -replace '[\\/:"*?<>|]', '-'
+    # Parse the date and format as yyyy-MM-dd
+    try {
+        $parsedDate = [datetime]::Parse($HugoMarkdown.FrontMatter.date)
+        $date = $parsedDate.ToString('yyyy-MM-dd')
+    }
+    catch {
+        # Fallback: sanitize if parsing fails
+        $date = $HugoMarkdown.FrontMatter.date -replace '[\\/:"*?<>|]', '-'
+    }
     if ($environment -and $environment.ToLower() -ne 'production') {
-        return "$($HugoMarkdown.FrontMatter.slug)-$($HugoMarkdown.FrontMatter.date)-$environment.pdf"
+        return "$unique-$date-$environment.pdf"
     }
     else {
-        return "$($HugoMarkdown.FrontMatter.slug)-$($HugoMarkdown.FrontMatter.date).pdf"
+        return "$unique-$date.pdf"
     }
 }
 
@@ -313,14 +322,14 @@ function Convert-HugoMarkdownToPdf {
             "--pdf-engine=xelatex",
             "--template=$tempTemplatePath",
             "-V", "permalink=$permalink",
-            "-V", "title=$title",
+            "-V", "title=`"$title`"",
             "-V", "coverimage=$coverImagePathLatex",
             "-o", "$pdfPath",
             "$tempMdPath"
         )
         
         Write-InfoLog "Generating PDF: $pdfFileName"
-        $process = Start-Process -FilePath "pandoc" -ArgumentList $pandocArgs -NoNewWindow -Wait -PassThru
+        $process = Start-Process -FilePath "pandoc" -ArgumentList $pandocArgs -NoNewWindow -Wait -PassThru -WorkingDirectory $tempDir
         
         if ($process.ExitCode -eq 0) {
             Write-InfoLog "PDF generated successfully: $pdfPath"
