@@ -10,6 +10,8 @@ creator: Martin Hinshelwood
 contributors:
 - name: Nigel Thurlow
   external: https://www.linkedin.com/in/nigelthurlow/
+- name: Alex Brown
+  external: https://www.linkedin.com/in/alexbrown/
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-07T12:48:54Z
@@ -121,7 +123,7 @@ Rather than fixating on individual or team utilisation, shift your measurement t
 
 The goal is not to ask, “Who can take on more?” but to ask, “What does our system reliably deliver, and how can we improve flow without overburdening people or teams?”
 
-### Stop Estimating, Start Right-Sizing
+### Stop Misusing Estimation, Start Right-Sizing
 
 Stop wasting time trying to predict perfect effort estimates.
 
@@ -134,7 +136,8 @@ To right-size effectively:
 - Use historical throughput and cycle time data to calibrate what 'small enough' looks like in practice, not in theory.
 - Make right-sizing part of your working agreements and backlog preparation, ensuring teams only pull work that meets clear, shared readiness standards.
 
-This is not about squeezing people harder; it is about designing a steady, sustainable system where predictability is built directly into the shape and handling of the work.
+The issue isn't estimation itself—it's turning estimation into something it was never meant to be. Right-sizing is still estimation, just done in a simpler and more honest way. This is not about squeezing people harder; it is about designing a steady, sustainable system where predictability is built directly into the shape and handling of the work.
+
 
 ### Apply WIP Limits and Enforce Pull
 
