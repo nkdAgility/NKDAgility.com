@@ -17,7 +17,6 @@ param(
 
 # Constants
 $PDF_CACHE_BLOB_NAME = "pdf-generation-cache.json"
-$PDF_CACHE_CONTAINER = "$web"
 $COVER_IMAGE_PATH = ".\site\static\images\resources-pdf-cover-image.png"
 $BASE_URL = "https://nkdagility.com/resources/"
 
@@ -160,7 +159,7 @@ function Get-CoverPageTemplate {
 function Get-PdfGenerationCache {
     try {
         # Try to get the cache file from Azure Blob Storage
-        $cacheContent = Get-AzBlobContentAsString -BlobName $PDF_CACHE_BLOB_NAME -Container $PDF_CACHE_CONTAINER
+        $cacheContent = Get-AzBlobContentAsString -BlobName $PDF_CACHE_BLOB_NAME
         
         if ($cacheContent) {
             try {
@@ -322,8 +321,8 @@ function Convert-HugoMarkdownToPdf {
             "-t", "pdf",
             "--pdf-engine=xelatex",
             "--template=$templatePath",
-            "-o", $pdfPath,
-            $tempMdPath
+            "-o", "$pdfPath",
+            "$tempMdPath"
         )
         
         Write-InfoLog "Generating PDF: $pdfFileName"
@@ -361,10 +360,10 @@ function Update-PdfGenerationCache {
     $pdfFileName = Get-PdfFileName -HugoMarkdown $HugoMarkdown
     
     $Cache[$resourceId] = @{
-        slug = $HugoMarkdown.FrontMatter.slug
+        slug             = $HugoMarkdown.FrontMatter.slug
         frontmatter_date = $HugoMarkdown.FrontMatter.date
-        pdf_file_name = $pdfFileName
-        last_generated = (Get-Date).ToString("o")  # ISO 8601 timestamp
+        pdf_file_name    = $pdfFileName
+        last_generated   = (Get-Date).ToString("o")  # ISO 8601 timestamp
     }
     
     return $Cache
@@ -438,6 +437,20 @@ function Start-PdfGeneration {
     
     Write-InfoLog "PDF generation completed: $successCount/$totalResources PDFs generated/updated"
 }
+
+if (-not $env:AZURE_BLOB_STORAGE_CONTAINER_NAME) {
+    Write-Host "Azure Blob Storage Container Name not provided. "
+    $env:AZURE_BLOB_STORAGE_CONTAINER_NAME = "`$web"  # Base URL for Blob storage
+}
+if (-not $env:AZURE_STORAGE_ACCOUNT_NAME) {
+    $env:AZURE_STORAGE_ACCOUNT_NAME = "nkdagilityblobs" # Storage account name
+}
+if (-not $env:AZURE_BLOB_STORAGE_SAS_TOKEN) {
+    Write-Host "Azure Blob Storage SAS Token not provided. "
+    exit 1
+}
+
+
 
 # Start the PDF generation process
 Start-PdfGeneration
