@@ -3247,5 +3247,24 @@
     "reasoning": "The content primarily critiques the misuse of 'self-management' among teams to avoid alignment and accountability, referencing Scrum as a supporting framework. While there is some overlap with engineering excellence regarding accountability and adherence to frameworks, the focus is on team autonomy and culture, not core engineering practices or technical quality improvement. The depth of discussion on software craftsmanship, QA, coding standards, CI/CD, or automation is minimal or absent; hence, the alignment and depth scores are modest. The intended audience appears to be teams and leaders in agile environments, which partially overlaps with the Engineering Excellence audience, driving the audience and signal scores higher. No penalties were needed since the content is current and neutral in tone. Overall, the connection to Engineering Excellence is indirect, and the confidence score reflects that limited overlap.",
     "reasoning_summary": "The article addresses self-management and alignment in teams, referencing Scrum, but focuses more on cultural aspects than on engineering best practices. While there’s some relevance to engineering excellence, the core discussion is only loosely related, leading to a modest confidence score.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "UUh2trdq4D1",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:13",
+    "ai_confidence": 5.26,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.0,
+    "ai_intent": 0.8,
+    "ai_audience": 0.3,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content addresses team self-management in the context of Scrum, focusing on autonomy, alignment, and accountability, but does not reference, define, or elaborate on the explicit Definition of Workflow or its related Kanban/DevOps policies. There are no discussions of explicit agreements, entry/exit criteria, flow, WIP limits, or workflow visibility. The mention of 'frameworks like Scrum' is generic and not tied to Kanban concepts. The purpose and depth are focused on team dynamics rather than process policies or workflow definition. The signal is weak, as the theme centers on misuse of self-management rather than process clarity or flow.",
+    "reasoning_summary": "This content focuses on team autonomy and accountability within Scrum, with no explicit mention or discussion of workflow definition, policies, or Kanban principles. It does not fit the Definition of Workflow category's scope.",
+    "level": "Ignored"
   }
 }

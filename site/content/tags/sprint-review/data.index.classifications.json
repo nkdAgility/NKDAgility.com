@@ -3061,5 +3061,43 @@
     "reasoning": "The content deeply explores Scrum Sprint Planning, focusing on transparency, team collaboration, stakeholder engagement, and maximizing product value—core aspects of organisational agility. It discusses principles of agile practice, the role of teams, and feedback mechanisms. While ‘Organisational Agility’ is not named directly, the conceptual fit is strong and the intent is fully aligned; the audience is practitioners keen on agile transformation. Minor deductions due to only indirect mention and some focus on event mechanics over broader adaptability frameworks.",
     "reasoning_summary": "This content provides an in-depth practical guide to Sprint Planning, highlighting factors like team collaboration, transparency, and stakeholder support relevant to organisational agility. Its strong conceptual and practical alignment with adaptability and agile principles makes it a high-confidence fit.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Sprint Review",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:42",
+    "ai_confidence": 12.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.6,
+    "ai_intent": 2.7,
+    "ai_audience": 2.1,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content centers on Sprint Planning in Scrum, focusing on purpose, attendee roles, preparation, Sprint Goal, stakeholder communication, and the planning/event aspects of Scrum. There is no mention or exploration of the Definition of Workflow, Kanban, explicit workflow agreements, WIP limits, or Kanban-specific workflow policies. The subject is limited to the structure and function of Scrum Sprint Planning. Tangential mentions of transparency and planning do not address or allude to the Definition of Workflow as understood in Kanban/agile. Target audience is Scrum practitioners, not teams focusing on explicit Kanban workflows.",
+    "reasoning_summary": "This content discusses Scrum Sprint Planning and related concepts but does not address or align with the Definition of Workflow as articulated in Kanban or agile theory. It lacks explicit references, policy discussion, or Kanban-oriented workflow modeling.",
+    "level": "Ignored"
+  },
+  "DevOps": {
+    "resourceId": "Sprint Review",
+    "category": "DevOps",
+    "calculated_at": "2025-05-23T22:06:42",
+    "ai_confidence": 14.948,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.4,
+    "ai_intent": 2.0,
+    "ai_audience": 5.1,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content exclusively discusses Sprint Planning within the Scrum framework, focusing on procedures, stakeholder involvement, goal setting, and planning practices. While collaboration and value delivery are tangentially referenced, there are no explicit mentions of DevOps, nor is there discussion of DevOps philosophies such as automation, flow efficiency, feedback loops, or shared accountability beyond generic team collaboration. The topic is squarely about agile scrum event facilitation and not the integration of development and operations or continuous delivery mindsets central to DevOps. The alignment, depth, and directness are all very low relative to the DevOps category.",
+    "reasoning_summary": "This content focuses on Scrum's Sprint Planning event, detailing team interactions, goals, and stakeholder communication. It does not discuss DevOps principles, practices, or culture, making its relevance to the DevOps category minimal.",
+    "level": "Ignored"
   }
 }

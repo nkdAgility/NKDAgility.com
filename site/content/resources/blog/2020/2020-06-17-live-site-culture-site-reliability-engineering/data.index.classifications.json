@@ -1912,5 +1912,24 @@
     "reasoning": "The content discusses DevOps, Agile, and Site Reliability Engineering with examples from Microsoft's Azure DevOps team. However, it never directly addresses first principles or attempts to define, distinguish, or apply them. The main focus is on practical evolution, feedback loops, and organizational adoption, not on foundational or immutable principles. There are references to urgency and high standards but these are context-driven, not described as irreducible truths. The audience and relevance are high for practitioners in Lean/Agile/DevOps but the lack of explicit or implicit first principles discussion results in low scores for mentions, alignment, depth, and intent. Penalties were applied for lack of direct mention and lack of first principle depth.",
     "reasoning_summary": "While relevant to Agile and DevOps practitioners, this content only describes team practices and cultural shifts, never addressing or identifying first principles. It's practical, not foundational, meaning it doesn't fit the strict 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "c_gS0nlQD9E",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:40",
+    "ai_confidence": 15.266,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.5,
+    "ai_depth": 1.8,
+    "ai_intent": 2.5,
+    "ai_audience": 4.4,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.5,
+    "ai_penalty_details": "Alignment (-0.5): Focused on DevOps/SRE practices, not on Kanban Definition of Workflow. Depth (-0.5): Missing any substantial exploration of explicit workflow agreements, policies, or criteria. Mentions (-0.5): No direct mention of Definition of Workflow or core concepts.",
+    "final_score": 15.0,
+    "reasoning": "The content primarily discusses DevOps, Site Reliability Engineering, and cultural/operational changes in high-velocity software delivery organizations. There are no direct or explicit references to the Definition of Workflow as per Kanban/agile frameworks. Key elements such as explicit policies, entry/exit criteria, and WIP limits are not discussed or named. The focus is on organisational adaptation, combined engineering, feedback loops, and deployment practices, not on the creation or maintenance of a dynamic, visible workflow definition. The audience is practitioners interested in team practices, but the material is not directed toward making workflows explicit or governing flow by agreements. Small penalty applied for lack of direct mention, insufficient alignment, and lack of depth on workflow definitions.",
+    "reasoning_summary": "The content centers on DevOps and SRE culture change with no discussion of explicit workflow definition, policies, or Kanban principles. It doesn't fit the Definition of Workflow category's purpose, as it lacks direct references, thematic depth, and specific alignment with the required agile/kanban concepts.",
+    "level": "Ignored"
   }
 }

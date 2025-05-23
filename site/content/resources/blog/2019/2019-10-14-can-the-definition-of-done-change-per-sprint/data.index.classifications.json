@@ -1906,5 +1906,24 @@
     "reasoning": "The content discusses the Definition of Done (DoD) in Scrum, emphasizing the need for unwavering quality and non-negotiable team and organizational standards. It challenges contextually flexible interpretations of DoD and highlights immutable constraints (e.g., 'You should never reduce quality,' 'DoD should be consistent'). However, the explicit mention of 'first principles' is absent, and much is presented through interpretation and application rather than naming, with most references contextualized as Scrum rules or organizational responsibilities. The discussion is thorough and consistent with the concept of first principles in professional Scrum, focusing on foundational boundaries, but it doesn't directly articulate them as 'first principles,' slightly lowering the score for direct mentions and lowering perfect alignment. No penalties were applied as the content is neither outdated nor contradictory.",
     "reasoning_summary": "This article thoroughly upholds immutable foundations of Scrum quality (non-negotiable DoD, transparency, team limits) aligning with first principles, but doesn't explicitly name 'first principles.' Its depth and strong fit with the intended audience make it credible for this category despite only indirect mention.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "LdmZbBlwgM-",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:44",
+    "ai_confidence": 11.6,
+    "ai_mentions": 1.5,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 2.0,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses exclusively on the Definition of Done in Scrum—its purpose, changeability, relationship to quality, and distinction from acceptance criteria. There are no direct or indirect references to Kanban's Definition of Workflow, policies, WIP limits, entry/exit criteria, or explicit workflow agreements. While the text mentions concepts like transparency and process evolution, these are strictly in service to explaining Definition of Done, not Definition of Workflow. Thus, alignment, depth, and mentions scores are low and the confidence score reflects a significant mismatch with the requested category.",
+    "reasoning_summary": "This content discusses only the Definition of Done in Scrum, not the Definition of Workflow. It lacks any reference to workflow policies, Kanban practices, or related concepts, and is therefore not relevant to the target category.",
+    "level": "Ignored"
   }
 }

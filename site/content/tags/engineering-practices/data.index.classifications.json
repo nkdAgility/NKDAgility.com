@@ -3017,5 +3017,24 @@
     "reasoning": "The content discusses foundational engineering practices like clean code, automation, and test-first development in Agile, labelling them as 'foundational.' However, it does not explicitly identify or analyze these as first principles, nor does it explore their irreducibility or non-negotiable nature per the definition. There are no direct references to first principles or their theorists; the focus is largely on best practices and benefits, not immutable constraints. The content is audience-aligned and high in signal-to-noise ratio, but lacks depth and conceptual alignment to the First Principal category.",
     "reasoning_summary": "While the article discusses important foundational practices in Agile, it does not tie them directly to first principles or treat them as immutable truths. Its focus is on best practices and benefits, not core system constraints, so confidence for the First Principal category is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Engineering Practices",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:47",
+    "ai_confidence": 9.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.4,
+    "ai_audience": 2.4,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content describes foundational agile engineering practices like clean code, automation, and test-first development, focusing on technical excellence and continuous improvement. However, it does not mention or directly discuss the Definition of Workflow, nor does it address workflow policies, entry/exit criteria, WIP limits, or transparency. Its main theme is technical practices, not workflow definition in Kanban/agile contexts, resulting in extremely low alignment across all dimensions.",
+    "reasoning_summary": "The content centers on technical agile practices (clean code, automation, CI/CD), with no mention or discussion of workflow definition, policies, or Kanban principles, making it irrelevant to the 'Definition of Workflow' category.",
+    "level": "Ignored"
   }
 }

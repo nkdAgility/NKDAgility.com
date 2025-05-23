@@ -1875,5 +1875,24 @@
     "reasoning": "The content focuses on 'shift-left' as an engineering approach and discusses practices like TDD, pair programming, and team empowerment, but it never explicitly discusses 'first principles' as foundational, immutable constraints. The message highlights the benefits of early quality integration, but treats shift-left more as a recommended mindset and a set of practices, not as fundamental, non-negotiable truths. There is no clear identification, explanation, or direct application of first principles in the Lean, Agile, Scrum, or DevOps sense—the article relies on analogies, tools, and the outcomes of following these practices rather than grounding them in irreducible principles. The audience (engineering leaders, practitioners) overlaps with the category, and there is some conceptual adjacency, but both depth and alignment are limited by the lack of first principle framing.",
     "reasoning_summary": "While this piece advocates proactive quality and security via 'shift-left' practices, it doesn’t define, explain, or anchor these ideas as foundational first principles. It offers actionable guidance and supportive analogies but lacks the explicit, irreducible framing demanded by the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "NgoP5W5y7Gs",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:18",
+    "ai_confidence": 9.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 0.9,
+    "ai_audience": 3.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on 'shift left' principles for integrating security and quality in software development, emphasizing collaboration, early QA, and agile practices (TDD, pair programming, continuous feedback). However, it never mentions or explores the Kanban-specific Definition of Workflow, nor does it discuss entry/exit policies, explicit workflow agreements, or make workflow legibility a topic. The audience (software practitioners/teams) overlaps somewhat, but the content is not conceptually or thematically aligned with the Definition of Workflow category.",
+    "reasoning_summary": "This piece addresses agile engineering and 'shift left' quality strategies, but does not reference or align with the Definition of Workflow as understood in Kanban or related agile contexts. Discussion of workflow policies or explicit flow management is absent.",
+    "level": "Ignored"
   }
 }

@@ -1861,5 +1861,24 @@
     "reasoning": "The content discusses modern code review practices, automation, and shift-left strategies for software quality. However, it never mentions 'first principles' directly, nor does it articulate foundational, immutable truths underpinning Lean, Agile, Scrum, or DevOps. The discussion remains practical, with best practices and tool recommendations, rather than explanatory of irreducible constraints or the foundational logic defining system boundaries. The target audience and focus on DevOps practices create partial overlap with the category's audience, but the content is not anchored to the identification, explanation, or application of first principles; it treats all guidance as flexible and contextually adaptive. No penalties were warranted as the content is current and neutral in tone.",
     "reasoning_summary": "This content gives actionable advice on improving code reviews and automation but never discusses or anchors to first principles. While the audience overlaps with Lean/DevOps practitioners, the material covers best practices, not foundational constraints, so it only weakly fits the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "r2G-NrSIj2k",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:18",
+    "ai_confidence": 23.17,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 2.1,
+    "ai_audience": 7.3,
+    "ai_signal": 3.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on modern code review practices, automation, and shift-left quality assurance strategies in software development. There are no direct or explicit references to the Definition of Workflow, nor any mention of Kanban, workflow agreements, entry/exit criteria, WIP limits, or policies governing the flow of work. While some themes (like explicit rules for pull requests, process automation) could loosely relate to making work visible and setting standards, these are presented in the context of code quality and automation—not in shaping or defining the value stream's workflow per Kanban/agile theory. The main audience (developers, DevOps teams) does overlap with those discussed in the category, but the Fit and Alignment are weak due to the lack of explicit conceptual links. No penalties are needed, as the content does not contradict or undermine the category principles.",
+    "reasoning_summary": "The content discusses code review and quality automation, not the Definition of Workflow per Kanban or agile theory. While the audience is similar, the article doesn't address explicit workflow agreements, policies, or Kanban practices. Relevance to the category is minimal.",
+    "level": "Ignored"
   }
 }

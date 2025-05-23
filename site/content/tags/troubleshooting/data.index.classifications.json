@@ -3025,5 +3025,24 @@
     "reasoning": "The content focuses on troubleshooting practices within software, hardware, and systems, emphasizing benefits such as continuous improvement, collaboration, and value delivery—concepts relevant to Agile and DevOps. However, it does not directly mention or deeply explore the concept of 'Common Goals' as defined (strategic alignment, OKRs, etc.). The mention of team collaboration is only a tangential connection to common goals, and there are no explicit ties to shared objectives or strategic alignment. Most details pertain to process effectiveness and cultural improvement, which relate peripherally to common goals but do not fulfill the depth or explicit intent required by the classification definition. No penalties were applied.",
     "reasoning_summary": "While the text connects troubleshooting to Agile/DevOps culture and team collaboration, it does not directly address or discuss Common Goals. Its focus on process improvement and reliability only lightly overlaps with the core category, resulting in a low confidence score.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Troubleshooting",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:49",
+    "ai_confidence": 10.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.6,
+    "ai_intent": 1.9,
+    "ai_audience": 2.3,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content centers on troubleshooting—identifying and resolving issues in software, hardware, and systems. While there are very broad references to agile and DevOps, the main focus is on reliability, problem-solving, and process adaptability, not the Definition of Workflow as defined by Kanban or explicit workflow policies. There are no mentions of workflow entry/exit criteria, WIP limits, or policies governing the flow of work. The audience is generally practitioners in technical and agile settings, but the topic diverges sharply from explicit workflow modeling and concept. No penalties are applied, as the content is neither outdated nor critical, but relevance is extremely low.",
+    "reasoning_summary": "This content focuses on troubleshooting in technical contexts and does not discuss workflow definitions or Kanban policies. While there are tangential links to agile principles, it lacks any substantive connection to the Definition of Workflow category.",
+    "level": "Ignored"
   }
 }

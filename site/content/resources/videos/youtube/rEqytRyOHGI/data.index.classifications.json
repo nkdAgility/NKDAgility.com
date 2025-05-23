@@ -1917,5 +1917,24 @@
     "reasoning": "The content explicitly states that the core principle of Agile is to deliver usable, working products every sprint, treating this as an immutable foundation. It contrasts this with the risks of 'special sprints,' providing concrete cases (e.g., Azure DevOps) where deviating from this principle leads to failure. The discussion is grounded in the distinction between non-negotiable Agile fundamentals and context-dependent risk management practices. However, direct references to the term 'first principles' or foundational theorists are minimal, slightly lowering the 'mentions' and 'depth' scores. The analysis is thorough, targets Agile practitioners, and largely avoids tangential topics.",
     "reasoning_summary": "This content deeply reinforces core, non-negotiable Agile principles by arguing against practices that undermine the intent of every sprint delivering usable product. It aligns with the 'First Principal' category, but sparse explicit labeling holds back a perfect score.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "rEqytRyOHGI",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:24",
+    "ai_confidence": 17.425,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 1.1,
+    "ai_audience": 5.8,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on addressing issues with 'special sprints' in Agile environments and advocates for continuous delivery, risk mitigation, and avoiding deferral of work. However, it makes no direct reference to the Definition of Workflow as defined in Kanban or agile theory, nor does it discuss explicit workflow agreements, WIP limits, entry or exit policies, or how workflows are visualized and adapted. The main theme is about upholding the Definition of Done and maintaining a shippable increment each sprint, which is adjacent to, but not directly within, the scope of 'Definition of Workflow.' Audience alignment is somewhat present as the content targets agile teams and practitioners, but the overall fit with the category is low, with much of the discussion focused on anti-patterns regarding special sprints rather than the dynamic agreements or visibility that characterize workflow definitions. No penalties have been applied, as the tone is appropriate and there are no references to outdated practices.",
+    "reasoning_summary": "This content critiques special sprints in Agile, focusing on delivering usable increments each sprint and avoiding deferred work. While relevant to agile practitioners, it does not address the Definition of Workflow, explicit workflow policies, or Kanban-specific practices, resulting in low alignment with the category.",
+    "level": "Ignored"
   }
 }

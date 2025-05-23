@@ -1930,5 +1930,24 @@
     "reasoning": "The content focuses on the benefits and practices of frequent code deployments, highlighting impacts on code quality, technical debt, and feedback loops. While these are important in Lean/Agile/DevOps, the discussion does not explicitly identify or explore first principles as foundational, immutable constraints. Rather, practices are presented as strategies or heuristics. There is no meaningful distinction between first principles and context-dependent advice, and terms like first principles are never mentioned directly. The content is practitioner-oriented and mostly relevant to DevOps/Agile audiences, but the depth doesn't extend to system-defining axioms. Confidence is moderate due to thematic overlap with common professional debates in Lean/Agile but falls far short on categorically anchoring arguments to the 'First Principal' definition.",
     "reasoning_summary": "This content discusses deployment frequency's impact on code quality and team outcomes, but it frames practices as context-driven strategies—not as immutable first principles. There's thematic overlap, but it lacks explicit focus on foundational constraints, so category fit is weak.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "D1wz-J1jklQ",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:15",
+    "ai_confidence": 18.4,
+    "ai_mentions": 1.7,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.8,
+    "ai_intent": 2.2,
+    "ai_audience": 4.8,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content centers on the benefits of frequent deployments and how they impact code quality, feedback loops, and technical debt—primarily focusing on release and iteration practices. It mentions work batching and process improvement tangentially, but never addresses Definition of Workflow, workflow policies, WIP limits, or Kanban concepts. The audience (software practitioners/developers) overlaps somewhat, but core Kanban workflow theory is absent. No penalties were applied as the content is current and not critical.",
+    "reasoning_summary": "This content outlines how frequent deployments benefit code quality and agile development, but it does not discuss Definition of Workflow, Kanban, or explicit workflow policies. Its focus is on deployment practice, not on modeling or making workflow explicit as defined by the category.",
+    "level": "Ignored"
   }
 }

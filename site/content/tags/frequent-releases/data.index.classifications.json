@@ -3038,5 +3038,24 @@
     "reasoning": "The content details the benefits and practices around frequent releases, which are staple concepts in agile and DevOps but makes no reference—direct or indirect—to Hybrid Agile or any blending of agile and traditional methods. Key elements such as the clash between command-and-control and agile roles, failed hybrid adopters, leadership-delivery tension, or critical analysis of hybrid frameworks are missing. The audience (cross-functional teams and stakeholders) somewhat overlaps, but most other dimensions poorly fit the Hybrid Agile category.",
     "reasoning_summary": "The content focuses solely on the general concept of frequent releases, lacking any discussion of Hybrid Agile or its defining challenges. Therefore, it has low alignment and confidence for this category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Frequent Releases",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:48",
+    "ai_confidence": 18.7,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 3.7,
+    "ai_audience": 4.1,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content primarily discusses the concept and benefits of frequent releases in product development, focusing on incremental delivery, stakeholder value, team morale, and responsiveness. There are no direct or explicit references to the Definition of Workflow in a Kanban or agile context. Key attributes of the Definition of Workflow, such as explicit agreements, entry/exit criteria, WIP limits, or policy formation, are absent. The discussion remains at a general process level without delving into the structures and dynamics detailed in the category definition. The intended audience (teams involved in product delivery) has some overlap with the target audience for Definition of Workflow, but the content does not specifically address their needs regarding workflow policies or explicit workflow management.",
+    "reasoning_summary": "This content focuses on the practice and benefits of frequent incremental releases, not on the Definition of Workflow in a Kanban or agile context. It lacks explicit references, detailed discussion of workflow agreements or policies, and does not address workflow management directly.",
+    "level": "Ignored"
   }
 }

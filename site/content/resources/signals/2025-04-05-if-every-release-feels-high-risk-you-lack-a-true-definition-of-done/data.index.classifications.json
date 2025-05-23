@@ -3247,5 +3247,24 @@
     "reasoning": "The content centers on the Definition of Done (DoD) in software development, emphasizing how its strength directly affects release risk and quality. It aligns well with themes of engineering excellence such as CI/CD, quality assurance, and process maturity. However, it explicitly names neither 'engineering excellence' nor its synonyms, so direct mentions are moderate. The discussion has depth for a short post but is somewhat superficial, as it doesn’t provide in-depth strategies or metrics. The intent and audience are well matched to practitioners aiming for high reliability in software, with a strong signal-to-noise ratio due to focus and relevance.",
     "reasoning_summary": "This content directly addresses the importance of a clear Definition of Done for consistent, high-quality releases, closely fitting Engineering Excellence by focusing on best practices and quality. While not exhaustive in depth or explicit naming, it strongly supports the category’s core aims.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "iEdzblomyOb",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:13",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 2.3,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses entirely on the Definition of Done (DoD), not the Definition of Workflow. There are no explicit or implicit references to workflow agreements, policies, conditions for work entry/exit, or Kanban concepts. Though it discusses process quality and delivery routines, this is strictly through the lens of the DoD—not workflow management as defined by Kanban or agile theory. Its intent, depth, and alignment are therefore very low for the Definition of Workflow category, justifying the near-minimum confidence and low scores across all dimensions.",
+    "reasoning_summary": "This content discusses the Definition of Done and does not address the Definition of Workflow or its core concepts. It lacks relevance to workflow policies, agreements, or Kanban principles.",
+    "level": "Ignored"
   }
 }

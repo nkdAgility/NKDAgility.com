@@ -1857,5 +1857,24 @@
     "reasoning": "The content describes practical Kanban workflow management practices—monitoring WIP, resolving bottlenecks, and optimizing flow—but never explicitly defines, identifies, or discusses 'first principles' as foundational, immutable constraints. Key concepts (like flow and WIP) are treated as practices, not as irreducible truths. There is no reference to first principles or their theorists, nor any exploration of such core, non-negotiable foundations. While the audience and focus partially align with product development professionals, the content is more tactical than foundational.",
     "reasoning_summary": "While the content effectively details Kanban management practices, it does not identify or discuss first principles. The focus is on tactical guidance for workflow optimization, not on foundational, non-negotiable truths, resulting in a low confidence score for this category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "u56sOCe6G0A",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:25",
+    "ai_confidence": 64.85,
+    "ai_mentions": 5.7,
+    "ai_alignment": 7.3,
+    "ai_depth": 7.8,
+    "ai_intent": 7.2,
+    "ai_audience": 8.5,
+    "ai_signal": 6.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 65.0,
+    "reasoning": "The content references 'workflow' repeatedly, focusing on active management within Kanban. It discusses monitoring WIP, bottlenecks, optimizing flow, and adjusting WIP limits, aligning with components of a Definition of Workflow. However, it does not explicitly define or describe the Definition of Workflow as a formal or dynamic agreement/policy (per Kanban Guide or related sources). The emphasis is on managing and improving an already established workflow, lacking explicit coverage of entry/exit policies or explicit workflow definition processes. Audience alignment is strong, targeting practitioners of Kanban/agile methods. Some content is tangential (e.g., offer to consult), slightly diluting the focus. No outdated practices or negative framing are present.",
+    "reasoning_summary": "The content thoroughly addresses active management of Kanban workflows—covering WIP limits, bottleneck resolution, and flow optimization—closely aligning with the spirit of Definition of Workflow but stopping short of explicitly defining the concept or its formal elements.",
+    "level": "Secondary"
   }
 }

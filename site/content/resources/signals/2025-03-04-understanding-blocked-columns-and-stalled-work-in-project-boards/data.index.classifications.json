@@ -3247,5 +3247,24 @@
     "reasoning": "The content does not explicitly mention 'engineering excellence' or related terms, leading to a low Direct Mentions score. However, it conceptually aligns with engineering excellence by advocating for improvements to workflow visualization and proactive problem management—core to quality engineering practices. Discussion delves into the rationale behind board design choices and their impact on team effectiveness, but remains focused on a specific practice rather than comprehensive engineering processes. The intent is to improve team efficacy and product flow, relevant to technical audiences seeking better engineering outcomes. The signal-to-noise ratio is high, as the content is focused and actionable. No penalties applied, as advice is current and in line with modern agile/lean thinking.",
     "reasoning_summary": "While the article never names 'engineering excellence,' it addresses team workflow pitfalls and advocates for process improvement—a key concern for engineers aiming for high standards. Its actionable advice, clear reasoning, and focus keep it highly relevant for practitioners, supporting a strong (but not maximal) confidence fit.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "6K6oGV9pRbC",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:10",
+    "ai_confidence": 54.65,
+    "ai_mentions": 2.3,
+    "ai_alignment": 6.8,
+    "ai_depth": 5.7,
+    "ai_intent": 7.2,
+    "ai_audience": 8.3,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 55.0,
+    "reasoning": "The content critiques the use of 'Blocked' columns on project boards, emphasizing their detrimental impact on workflow visibility and process integrity. It aligns (though not directly) with the Kanban concept of making work explicit and managing flow, especially by highlighting how improper workflow modeling (i.e., misplacing blocked work) obscures real process states and inflates WIP. The content implicitly references key Kanban principles (such as WIP limits and visible flow) without explicitly mentioning the 'Definition of Workflow' as a formal construct, resulting in a moderate 'Direct Mentions' score. The alignment is substantively present since the advice supports making workflow policies explicit and adaptable. However, it does not discuss entry/exit policies or provide a deep exploration of the full 'Definition of Workflow,' lowering the 'depth' score. The intended audience is practitioners familiar with boards and Kanban/team processes, which matches well. The signal is slightly reduced as the focus is on a symptom of poor workflow policy rather than the explicit definition itself.",
+    "reasoning_summary": "This content advises against using 'Blocked' columns, showing partial alignment with Kanban workflow principles. While it touches on explicit workflow modeling and its impacts, it doesn't explicitly define or fully explore the 'Definition of Workflow' in Kanban, making its fit relevant but not comprehensive.",
+    "level": "Tertiary"
   }
 }

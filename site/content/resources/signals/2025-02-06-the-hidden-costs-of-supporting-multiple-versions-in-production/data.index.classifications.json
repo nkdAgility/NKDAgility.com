@@ -3247,5 +3247,24 @@
     "reasoning": "The content discusses the challenges and ramifications of supporting multiple versions in production, highlighting technical debt, instability, and inefficiency—all core concerns of Engineering Excellence. It explicitly addresses engineering quality, process improvement, and the negative impact of poor branching strategies. The discussion is detailed, critiques counter-productive patterns, and recommends simplification, which directly aligns with best practices in software development. The primary audience is engineering teams, ensuring strong audience fit. While the term 'Engineering Excellence' is not directly named, the conceptual alignment, depth, and intent are strong, and there are no penalties for outdated practices or negative tone.",
     "reasoning_summary": "This content fits Engineering Excellence well, offering an insightful look at how maintaining multiple production versions undermines quality and efficiency. Its critique of harmful practices and focus on process improvement is highly relevant to engineering teams aiming for best-in-class software delivery standards.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "un1ZqM8aYng",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:18",
+    "ai_confidence": 4.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.8,
+    "ai_audience": 0.9,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the challenges of maintaining multiple production versions, increased technical debt, risks of branch-by-customer, and encourages simplification of versioning strategies. Nowhere does it reference the Definition of Workflow, explicit workflow policies, entry/exit criteria, WIP limits, or any Kanban/agile workflow theory. The focus is strictly on branching/versioning pain for engineering teams. No penalties applied, since the content is current and the tone is neutral/instructive.",
+    "reasoning_summary": "The content discusses the negative impact of supporting multiple production versions but does not address the Definition of Workflow or its principles. There is little conceptual overlap or intent to explain workflow definition as understood in Kanban/agile.",
+    "level": "Ignored"
   }
 }

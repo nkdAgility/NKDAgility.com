@@ -3247,5 +3247,24 @@
     "reasoning": "The content addresses continuous delivery (CD), technical debt, automation, investment in quality practices, and specific engineering behaviors, closely aligning with Engineering Excellence. While there are no explicit mentions of 'Engineering Excellence,' the discussion covers key category topics such as CI/CD, technical debt management, and quality assurance, and targets practitioners interested in best practices. It provides a significant real-world example (Azure DevOps), explores the root causes preventing adoption of best practices, and emphasizes required cultural investment. The content is focused and technical, with no filler or off-topic elements. No penalties were required; the content is recent and affirms, rather than undermines, engineering excellence principles.",
     "reasoning_summary": "This article directly tackles the myths preventing engineering excellence in CD, highlighting technical debt and quality investment as core solutions. Using a concrete case (Azure DevOps), it thoroughly aligns with the category by promoting best practices and targeting an engineering audience.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "T-sHn-OUIvR",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:11",
+    "ai_confidence": 9.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.8,
+    "ai_intent": 2.2,
+    "ai_audience": 2.5,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content critically discusses misconceptions around software complexity in relation to continuous delivery, using Azure DevOps as an example. However, it never explicitly mentions or references the Definition of Workflow or its core concepts (explicit agreements, WIP limits, entry/exit policies, or Kanban/agile process transparency). The focus is on technical debt, investment in automation, and dev team ambition, not on dynamic work policies, flow visibility, or Kanban-aligned definitions. The audience (technology leaders/practitioners) is similar to that for Definition of Workflow, but the content lacks alignment, depth, and direct topical connection.",
+    "reasoning_summary": "This content does not explicitly or implicitly discuss the Definition of Workflow. Its focus is on misconceptions around software complexity and barriers to continuous delivery, not on workflow definitions, policies, or Kanban principles relevant to the category.",
+    "level": "Ignored"
   }
 }

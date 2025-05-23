@@ -1891,5 +1891,24 @@
     "reasoning": "The content does not explicitly discuss 'first principles' or make their identification a focus. Instead, it lays out mandatory Kanban practices and references foundational concepts from Lean, flow, and the Toyota Production System. Core elements are presented as non-negotiable, and the guide discusses Kanban’s immutable boundaries (e.g., 'Kanban’s practices and measures are immutable'), which aligns to first-principles thinking in spirit. However, it does not articulate or analyze these as first principles per se, nor does it provide a comparative analysis distinguishing first principles from values, heuristics, or derived practices. Depth is solid in explaining why certain constraints are required, but the explicit framing of first principles is not present. The resource targets practitioners and leads with a focus on immutable constraints crucial to the system's validity, but the absence of direct mention and overt first-principles analysis reduces alignment. No penalties, as the tone and content are current and earnest.",
     "reasoning_summary": "While the Kanban Guide treats core practices as immutable and foundational—echoing first-principles logic—it does not explicitly present, define, or analyze first principles in the intended theoretical sense. High practitioner relevance and strong constraint focus yield a moderate confidence score.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "uD_5MdHKu1Q",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:16",
+    "ai_confidence": 98.3,
+    "ai_mentions": 9.7,
+    "ai_alignment": 10.0,
+    "ai_depth": 9.9,
+    "ai_intent": 10.0,
+    "ai_audience": 9.5,
+    "ai_signal": 9.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 98.0,
+    "reasoning": "The Kanban Guide directly, repeatedly, and explicitly defines the Definition of Workflow (DoW) as a central, foundational concept in Kanban. It details all required DoW components (entry/exit, WIP, explicit agreements, policies, SLEs), visualisation, and its dynamic, adaptive use for process improvement, team collaboration, and transparency. It precisely distinguishes DoW within the Kanban context, aligning with Vacanti and Reinertsen’s philosophies. All six scoring dimensions are maximized, with nuanced deduction in audience/signal to reflect its somewhat broader value-proposition framing and minor tangential content (historical notes, licensing). No penalties for outdated/contradictory content are found. The final score reflects authoritative, focused, actionable treatment fully matching the category definition.",
+    "reasoning_summary": "This content is a canonical reference for the Definition of Workflow in Kanban, thoroughly explaining its elements, implementation, and purpose per agile theory. The material is fully aligned, explicit, and detailed, making it an exemplary fit for this category.",
+    "level": "Primary"
   }
 }

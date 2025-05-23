@@ -1840,5 +1840,24 @@
     "reasoning": "The content is a practical step-by-step guide for Azure DevOps migration, focusing on technical setup, tool usage, configuration, and common troubleshooting. Nowhere does it identify, explain, or apply first principles in DevOps, Agile, Lean, or any related modern product development discipline. There is no discussion of immutable, foundational constraints, nor are first principles mentioned or alluded to in any way. The intent is clearly to offer operational guidance, not to explore or even reference the category's core concepts. As such, scores are all very low and confidence that this content fits the 'First Principal' category is correspondingly near zero.",
     "reasoning_summary": "This content provides a procedural migration guide for Azure DevOps and never mentions first principles or foundational constraints. Its focus is strictly operational, not conceptual, making it a poor fit for the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Qt1Ywu_KLrc",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:26",
+    "ai_confidence": 3.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 2.8,
+    "ai_intent": 3.0,
+    "ai_audience": 4.1,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is an actionable, tool-focused guide for migrating Azure DevOps projects. It details setup steps, file management, command usage, and addresses migration pitfalls. There are no direct mentions or substantive discussions of the Definition of Workflow, explicit workflow agreements, Kanban policies, WIP limits, entry or exit criteria, or related concepts. The intent is operational and prescriptive, not conceptual or policy-focused. The guide addresses a technical, practitioner audience, but does not target the unique needs, concepts, or definitions outlined in the 'Definition of Workflow' category.",
+    "reasoning_summary": "This guide centers on technical steps for project migration in Azure DevOps, with no reference to workflow policies, explicit agreements, or Kanban-oriented definitions. Its content and purpose do not align with the 'Definition of Workflow' category.",
+    "level": "Ignored"
   }
 }

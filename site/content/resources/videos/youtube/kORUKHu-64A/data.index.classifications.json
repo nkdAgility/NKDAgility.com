@@ -1897,5 +1897,24 @@
     "reasoning": "The content examines governance in Scrum, debunking the myth that Scrum lacks governance and explaining the necessity of fitting within regulatory and organizational standards. However, it never directly discusses or identifies first principles as defined (irreducible, immutable constraints), nor does it discuss or distinguish them from derived principles, heuristics, or values. The focus is on the pragmatic balance of governance and agility—'just enough governance'—which is a context-dependent heuristic, not an immutable first principle. No penalties applied because the content remains current and neutral in tone.",
     "reasoning_summary": "While the article thoughtfully explores governance within Scrum and addresses misconceptions, it centers on practical, context-dependent strategies rather than discussing or applying foundational first principles. Thus, confidence in categorizing it as 'First Principal' is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "kORUKHu-64A",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:30",
+    "ai_confidence": 12.4,
+    "ai_mentions": 1.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.7,
+    "ai_intent": 2.0,
+    "ai_audience": 2.5,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.0,
+    "ai_penalty_details": "Direct Mentions penalized (-0.8) due to use of outdated stereotypes about Scrum and a dismissive opening tone. Audience Alignment penalized (-0.2) as content primarily targets Scrum practitioners rather than those focused on workflow definitions in Kanban/agile theory.",
+    "final_score": 12.0,
+    "reasoning": "This content addresses the relationship between Scrum and governance, focusing on debunking the myth that Scrum lacks governance by discussing regulatory compliance and internal standards. There are no explicit mentions or discussions of 'Definition of Workflow' as conceptualized in Kanban, and its core principles—entry/exit criteria, WIP limits, explicit policy agreements, or their use for process adaptation—are entirely absent. The main themes are governance, compliance, and organizational adaptation within Scrum, not workflow visualization or explicit modeling. The opening invokes a stereotype about Scrum, which is outdated and could undermine the neutrality required by the target category. Penalties are applied on mention (for outdated stereotype) and on audience (for targeting Scrum practitioners and governance issues vs. process/workflow modelers). There is minimal relevance, and where workflow is indirectly invoked through terms like 'compliance' or 'standards,' it does not approach the level, purpose, or intellectual framework intended by the Definition of Workflow category.",
+    "reasoning_summary": "The content discusses Scrum governance, compliance, and internal standards but offers no substantive discussion or explicit reference to the Definition of Workflow per Kanban or agile theory. Its purpose and focus do not align with the category’s concepts.",
+    "level": "Ignored"
   }
 }

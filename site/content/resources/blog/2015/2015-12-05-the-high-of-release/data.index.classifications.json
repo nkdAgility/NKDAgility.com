@@ -1888,5 +1888,24 @@
     "reasoning": "The content focuses on Microsoft's Release Management tooling for DevOps pipelines, highlighting features like flexibility, orchestration, and integration. However, it never mentions or explores first principles, nor does it discuss immutable constraints, foundational truths, or their distinction from heuristics or practices. The discussion is limited to tool capabilities and user scenarios. There is minor technical depth relevant to practitioners, but it is all tool- and context-dependent. The content fits best under product/DevOps tooling, not first principles.",
     "reasoning_summary": "This content is a product overview of release management tools, not a foundational first principles discussion. It highlights practical features and scenarios, but lacks explicit or implicit treatment of root constraints or core tenets, so confidence is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "akntzjbRQe2",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:45",
+    "ai_confidence": 11.393,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.7,
+    "ai_intent": 2.0,
+    "ai_audience": 3.4,
+    "ai_signal": 1.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is a general overview of Microsoft's Release Management tools focusing on their integration, flexibility, and orchestration capabilities within DevOps pipelines. While it discusses building and automating release workflows, it does not explicitly mention or deeply engage with the 'Definition of Workflow' as articulated in Kanban or agile contexts. There are no direct references to workflow agreements, entry/exit criteria, or policies that fit the category's defined scope. The primary audience is DevOps practitioners, but the discussion remains about tooling features rather than workflow definition concepts. No penalties are necessary, as the content is not outdated or negative, but overall relevance to the category is minimal.",
+    "reasoning_summary": "This content describes Microsoft's Release Management tools and their flexibility in DevOps pipelines but does not address the Definition of Workflow, its policies, or its use in Kanban/agile. The focus is on features and integration, not workflow definition or improvement.",
+    "level": "Ignored"
   }
 }

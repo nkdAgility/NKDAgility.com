@@ -3247,5 +3247,24 @@
     "reasoning": "The content focuses on Scrum principles, especially consistent delivery and the Scrum Master's accountability for creating an environment conducive to delivery. While delivery and quality incrementally relate to engineering excellence, the discussion remains rooted in Agile/Scrum accountability and empiricism rather than best practices, technical standards, or engineering processes. There's minimal direct mention of engineering excellence or software craftsmanship. Depth is moderate, but is more about team role accountability, with limited exploration of technical practices or process improvement. The audience is largely Scrum practitioners, potentially overlapping with engineers, but the message isn’t tailored to an engineering excellence audience. Signal-to-noise ratio is reasonable with concise focus, but the linkage to engineering excellence is mostly indirect.",
     "reasoning_summary": "This piece highlights Scrum delivery and accountability with some relevance to engineering outcomes, but it’s primarily about team roles, not engineering excellence. It offers minimal depth on technical practices, so confidence in this fit is modest.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "P1tjFbyeVyU",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:20",
+    "ai_confidence": 14.05,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.6,
+    "ai_intent": 2.1,
+    "ai_audience": 3.8,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content highlights Scrum's pillars (transparency, inspection, adaptation) and stresses the need to deliver usable increments each sprint, emphasizing the Scrum Master's accountability. However, it does not mention or discuss the 'Definition of Workflow' or corresponding Kanban/agile policies, nor does it address workflow entry or exit criteria, WIP limits, or the dynamics of workflow management. Its focus remains on the Definition of Done and Scrum team accountability, which is explicitly excluded from the target category. Minor audience alignment exists (agile practitioners may care about workflow definitions), but depth, direct mention, and intentionality are almost entirely absent with regard to the Definition of Workflow.",
+    "reasoning_summary": "This content discusses Scrum team delivery and the Scrum Master's role in accountability but does not address the Definition of Workflow or related Kanban/agile workflow concepts. Its focus is on increment delivery, not explicit workflow agreements.",
+    "level": "Ignored"
   }
 }

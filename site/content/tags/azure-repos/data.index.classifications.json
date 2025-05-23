@@ -3012,5 +3012,24 @@
     "reasoning": "The content describes Azure Repos as a source control solution, highlighting integration, collaboration, and code quality within Azure DevOps. Nowhere are first principles identified, discussed, or applied as foundational, non-negotiable constraints in Lean, Agile, Scrum, or DevOps. While it aligns broadly with agile principles and professional collaboration, these are presented as best practices or capabilities, not immutable truths. The focus is on tooling features, not on foundational system design or professional conduct rooted in first principles. There are no direct or indirect references to first principles, definitions, or their application.",
     "reasoning_summary": "This content is about Azure Repos features and benefits for software development, focusing on collaboration and integration. It does not identify, explain, or apply first principles, nor does it reference foundational, non-negotiable constraints. Confidence it fits the category is very low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Azure Repos",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:44",
+    "ai_confidence": 7.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses Azure Repos as a source control tool and briefly mentions supporting different workflows in the sense of supporting Git or TFVC. However, it does not explicitly or conceptually align with the 'Definition of Workflow' category as defined: there are no discussions about workflow policies, entry/exit criteria, WIP limits, or policies akin to Kanban definitions. The mention of 'workflow' is generic, referring to how teams might structure their source control practices. There is moderate alignment with agile, but not with the specific concepts outlined in the category. Depth, intent, and alignment scores are very low; audience and signal scores are somewhat higher as the topic is relevant to practitioners in software development, albeit tangentially related to Kanban workflows.",
+    "reasoning_summary": "The content focuses on source control in Azure Repos, not on defining or managing workflow as per Kanban or agile principles. References to 'workflow' are general and do not address the category's specific criteria or policies.",
+    "level": "Ignored"
   }
 }

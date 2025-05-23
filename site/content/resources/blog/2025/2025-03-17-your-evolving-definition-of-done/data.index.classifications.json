@@ -2431,5 +2431,24 @@
     "reasoning": "The content explores the Definition of Done in Scrum, emphasizing alignment with organizational and market expectations for business value, usability, customer experience, and incorporating real user feedback and telemetry. It specifically links quality criteria and DoD evolution to measurable customer and business outcomes, and discusses how practices like production telemetry, feedback, and alignment with strategic goals shape a value-driven approach. While there are references to internal engineering practices, these are all contextualized as part of the larger goal of delivering value to customers and the business, in line with the core classification definition. The main audience is agile practitioners and leaders focused on product delivery and business impact. The majority of the content is focused and relevant, giving actionable practices, avoiding superficial mentions, and deeply connecting quality with customer value.",
     "reasoning_summary": "This content strongly aligns with Customer Focus, connecting Definition of Done evolution to real customer outcomes, business objectives, and actionable feedback mechanisms. It provides depth and clear, relevant guidance for agile teams, ensuring that all quality measures serve validated customer and organizational value.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "5wIEg7lD_Xd",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:17",
+    "ai_confidence": 13.23,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.5,
+    "ai_intent": 2.5,
+    "ai_audience": 3.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content thoroughly discusses the Definition of Done (DoD) in Scrum, covering its evolution, its alignment with organizational and team standards, and its implications for quality and delivery. However, it does not mention, define, or align with the Kanban or agile concept of 'Definition of Workflow' as an explicit, dynamic model for managing work flow. The article focuses on DoD, acceptance criteria, and organizational standards, which are expressly excluded by the category definition. There are no references to workflow policies, entry/exit criteria for stages, WIP limits, or Kanban concepts. Any discussion of workflow is peripheral and not in the context of Definition of Workflow as required.",
+    "reasoning_summary": "This content is solely focused on the evolving Definition of Done in Scrum and organizational contexts, with no substantive discussion or reference to Definition of Workflow, Kanban, or the policies governing flow of work through a system.",
+    "level": "Ignored"
   }
 }

@@ -1929,5 +1929,24 @@
     "reasoning": "Although the content discusses foundational aspects of achieving agility—such as the necessity for continuous delivery, minimizing bureaucratic barriers, and building in high quality—these are framed as best practices, system characteristics, or necessary preconditions, not as first principles in the strict sense of non-negotiable, foundational truths. The content references the DoD's 'Detecting Agile BS' guide and presents a litmus test for agility, but these questions are advisory and contextually constructed rather than surveyed as immutable constraints or explicitly connected to theorists' first principles. There are no clear or direct identifications or explanations of 'first principles'; the treatment is more diagnostic and practical than theoretical or axiomatic. The target audience (practitioners, leaders in Agile/DevOps environments) fits well, and the content is highly relevant to organizational agility, but it doesn't deeply explore or distinguish the difference between first principles and derived practices. Therefore, scores for conceptual alignment and depth are moderate, and direct mentions of 'first principles' are essentially absent.",
     "reasoning_summary": "This content gives solid practical advice on Agile maturity and organizational agility, but it doesn't identify or discuss 'first principles' as immutable foundations. It's focused on overcoming barriers and continuous improvement, making it relevant but not a strong fit for the First Principal category.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "kVt5KP9dg8Q",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:19",
+    "ai_confidence": 10.4,
+    "ai_mentions": 0.6,
+    "ai_alignment": 1.6,
+    "ai_depth": 0.9,
+    "ai_intent": 1.1,
+    "ai_audience": 2.2,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on diagnosing misunderstandings about organizational agility, with a strong emphasis on continuous delivery, quality, and eliminating bureaucracy. There is only a single peripheral mention of 'definition of done,' and no direct reference to Kanban's Definition of Workflow or its core concepts (explicit policies, WIP limits, entry/exit criteria, etc.). The discussion revolves around agile principles at a broad level (deployment, testing, organizational change), not the policies governing the flow of work through a value stream in explicit Kanban or agile process terms. The audience (agile practitioners, managers) overlaps somewhat, but the core thrust is not on making workflow policies explicit or visualizing work as in the category definition. No penalties apply as content is modern and not contradictory, but this does not meaningfully address 'Definition of Workflow' per the classification scope.",
+    "reasoning_summary": "This content addresses agile delivery and organizational change but does not explicitly discuss the Definition of Workflow as intended by the category. It lacks both terminology and the focus on explicit workflow policies required for strong alignment.",
+    "level": "Ignored"
   }
 }

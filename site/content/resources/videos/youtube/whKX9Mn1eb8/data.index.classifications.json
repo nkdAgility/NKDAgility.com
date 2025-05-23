@@ -1853,5 +1853,24 @@
     "reasoning": "The content advocates for 'shift left' in software development, presenting it as a valuable practice but not as an immutable first principle. There is no explicit mention or discussion of first principles or the irreducible foundation of Lean, Agile, or DevOps. The focus is on practical recommendations, context-driven benefits, and implementation advice, lacking foundational or non-negotiable framing typical of first principles discussions. Its audience and intent align moderately, and the signal is mostly on-topic, but the core requirements for the 'First Principal' category are missing.",
     "reasoning_summary": "While the article strongly promotes the 'shift left' practice and its benefits, it does not define or apply first principles as foundational constraints. The discussion is practical and context-specific, not anchored in core, immutable truths. This makes the fit with 'First Principal' moderate at best.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "whKX9Mn1eb8",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:21",
+    "ai_confidence": 18.95,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.7,
+    "ai_intent": 2.3,
+    "ai_audience": 5.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content focuses exclusively on the shift-left approach in software development and quality assurance, emphasizing early QA involvement, continuous feedback, collaboration, and automation. There are no explicit or even indirect references to the Definition of Workflow as understood in Kanban, nor is there discussion of explicit workflow agreements, entry/exit criteria, WIP limits, or process visibility. The themes, depth, and language do not address workflow modelling, explicit policies, or Kanban principles, but instead concentrate on improving quality by moving testing activities earlier in the process. While the audience might overlap (practitioners in agile teams), the intent and conceptual focus do not fit the Definition of Workflow category.",
+    "reasoning_summary": "This content discusses shifting quality assurance earlier in the development cycle but does not mention or align with the Kanban Definition of Workflow. It lacks references to explicit workflow policies, agreements, or other related concepts, making it a poor fit for this category.",
+    "level": "Ignored"
   }
 }

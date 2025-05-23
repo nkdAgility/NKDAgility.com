@@ -3247,5 +3247,24 @@
     "reasoning": "While the content does not explicitly mention 'Engineering Excellence,' it substantially addresses one of its core topics: streamlining branching strategies for better software delivery practice. The discussion emphasizes simplicity in workflow (GitHub Flow, Release Flow), fast delivery, and risk reduction—directly aligning with goals of code quality, CI/CD, and delivery efficacy found in this category. Although discussion is focused tightly on branching and not wider aspects like code reviews or metrics, it demonstrates depth in this specific area. The clear audience is engineering practitioners, and the signal-to-noise ratio stays high with focused, practical advice.",
     "reasoning_summary": "This content solidly fits 'Engineering Excellence' by advocating for simple, effective branching strategies that foster better delivery and engineering outcomes. It's practical, relevant, and aimed at developers, with a clear focus on improving engineering practices.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "qwciWeifRRf",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:20",
+    "ai_confidence": 13.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 0.9,
+    "ai_intent": 1.3,
+    "ai_audience": 5.2,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content centers on simplifying software branching strategies, emphasizing delivery speed and risk reduction via GitHub Flow and Release Flow. There is no explicit mention or discussion of the Definition of Workflow as articulated in Kanban/agile contexts. The focus is on source control and engineering flow, not on defining policies or agreements governing workflow in a Kanban sense. Main ideas, depth, and intent are not aligned with the strict Definition of Workflow category and there's minimal overlap with the intended audience and signal. No penalties were necessary.",
+    "reasoning_summary": "This content addresses software branching strategies, not the Definition of Workflow as specified for Kanban/agile. While it mentions 'flow' in delivery, it lacks explicit ties to workflow policies or agreements, and does not fit the category's specialized scope.",
+    "level": "Ignored"
   }
 }

@@ -3017,5 +3017,24 @@
     "reasoning": "The content directly names and defines Release Management, emphasizing its structured approach, operational focus, and role in coordinating releases. It addresses incremental delivery, stakeholder collaboration, risk minimization, continuous improvement, and integration with practices like CI/CD. Key distinctions from related disciplines (Agile planning, Product Management) further clarify the category. No outdated or contradictory information is present, and the audience is practitioners and stakeholders responsible for releases.",
     "reasoning_summary": "This content embodies Release Management by explicitly defining it, detailing strategic and tactical aspects, and emphasizing key practices like iterative releases, risk management, and stakeholder collaboration. It clearly targets the appropriate technical audience, evidencing very high category fit.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Release Management",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:47",
+    "ai_confidence": 13.83,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.8,
+    "ai_intent": 2.5,
+    "ai_audience": 3.8,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content discusses release management within the context of incremental and iterative software delivery, with references to continuous improvement and agile. However, it never explicitly addresses or defines the 'Definition of Workflow.' Key elements—such as explicit policies governing flow, entry/exit criteria, WIP limits, or Kanban practices—are entirely absent. The focus remains on operational execution of releases, not on the explicit agreements or visualization of workflow central to the category. There are vague nods to the flow of work, but not in a manner that aligns with Kanban’s Definition of Workflow or its distinguishing features. The audience and intent partly overlap with Kanban practitioners, but the content is not targeted toward explicit workflow definition.",
+    "reasoning_summary": "This content explains operational aspects of release management but does not address or define the 'Definition of Workflow.' It lacks mention of explicit workflow policies, entry/exit criteria, or Kanban-specific practices, making its alignment and confidence for this category low.",
+    "level": "Ignored"
   }
 }

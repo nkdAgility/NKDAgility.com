@@ -3247,5 +3247,24 @@
     "reasoning": "The content addresses the concept of 'done' in software delivery, emphasizing the value of work being live in production and closing feedback loops. While relevant to agile delivery teams and indirectly applicable to Scrum Teams, there is no explicit mention or deep exploration of the Scrum Team as an accountability per the Scrum Guide. The primary focus is outcome orientation and delivery, not Scrum Team structure, purpose, or responsibilities. As such, the main audience overlaps with Scrum practitioners, but the discussion does not focus on Scrum Team-specific themes as defined, instead addressing broader agile, DevOps, and delivery practices. The connection is conceptual but not direct or in depth.",
     "reasoning_summary": "While the article promotes a 'done when live' mindset common to agile teams, it does not specifically address the Scrum Team, its structure, or its unique accountability. It offers useful guidance for team value delivery, but relation to the 'Scrum Team' category is indirect and surface level.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "9nnnOYDoMu8",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:12",
+    "ai_confidence": 23.24,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.7,
+    "ai_intent": 2.2,
+    "ai_audience": 5.1,
+    "ai_signal": 4.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content is focused almost entirely on redefining 'done' as 'live in production' and urging teams to tie completion to customer value, telemetry, and feedback. It offers prescriptive advice and rationale for shifting team mindsets and practices, but does not explicitly discuss Kanban's Definition of Workflow, workflow policies, entry/exit criteria, WIP limits, or the visualization of flow in the Kanban sense. There are implicit touchpoints, such as release policies and outcomes, but no mention of explicit workflow agreements, stages, or adaptability of workflow—a necessary component of the category. The intended audience (agile/software delivery teams) matches, and the content is focused, but the conceptual and direct linkage to the Definition of Workflow as defined is minimal.",
+    "reasoning_summary": "This content is about redefining 'done' as work live in production and emphasizes value delivery, feedback, and learning. However, it lacks direct or deep engagement with the Kanban-centric Definition of Workflow and associated policies, so alignment with the category is low.",
+    "level": "Ignored"
   }
 }

@@ -3098,5 +3098,24 @@
     "reasoning": "The content defines and explains the role of artifacts in Agile, Lean, and DevOps, emphasizing their function in transparency, inspection, and adaptation. While these are core concepts, the piece doesn't explicitly identify or distinguish artifacts as first principles. It avoids context-dependent advice, focusing on universally applicable features, but doesn't anchor discussion in foundational, immutable constraints or compare artifacts to derived principles. It targets practitioners and is highly relevant, but the lack of direct reference to first principles and limited conceptual anchoring lower overall confidence.",
     "reasoning_summary": "This content offers a solid explanation of artifacts in Agile contexts, highlighting their purpose and role. However, it doesn't connect these concepts directly to first principles or their foundational, immutable nature, which keeps the confidence moderate.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Artifact",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:43",
+    "ai_confidence": 32.95,
+    "ai_mentions": 0.7,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.4,
+    "ai_intent": 4.2,
+    "ai_audience": 7.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on the definition and function of artifacts within Agile, Lean, and DevOps frameworks. It discusses visibility, empirical decision-making, transparency, and the inspectable nature of artifacts, but does not directly address the Definition of Workflow. Related themes—such as supporting transparency and process adaptation—are present but limited to artifacts in general, not Kanban's Definition of Workflow specifically. There are no explicit mentions or substantial discussion of entry/exit policies, WIP limits, or the dynamic agreements described in the category's definition. Audience targeting is broadly relevant (practitioners), and the signal-to-noise ratio is strong, but because the core concepts do not sufficiently align with Definition of Workflow as specified, the overall confidence is low.",
+    "reasoning_summary": "The content centers on the definition and role of artifacts, referencing transparency and empirical process improvement. However, it does not explicitly discuss the Definition of Workflow, its core policies, or Kanban-specific practices, so alignment and confidence are weak.",
+    "level": "Ignored"
   }
 }

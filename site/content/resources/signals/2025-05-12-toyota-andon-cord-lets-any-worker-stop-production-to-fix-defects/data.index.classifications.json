@@ -3247,5 +3247,24 @@
     "reasoning": "The content uses the Toyota andon cord example to stress that tools alone don't ensure quality—organizational culture and psychological safety are crucial. It links this to Agile and Scrum, addressing continuous improvement and best practices. While it doesn't name 'engineering excellence' verbatim, it aligns with its ethos, targeting practitioners. The focus is strong, but lacks direct technical practices, hence moderate depth and direct mention scores.",
     "reasoning_summary": "This piece discusses the interplay of tools and culture in quality improvement, drawing vital lessons for engineering teams adopting Agile. It's relevant and on-topic for engineering excellence, prioritizing continuous improvement and safety, though it focuses more on cultural factors than technical practices.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "BIT0P3MRDj9",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:07",
+    "ai_confidence": 14.55,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.6,
+    "ai_intent": 2.0,
+    "ai_audience": 4.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content centers on the importance of a culture of safety and empowerment in quality improvement, using the 'andon' cord as a metaphor. While this is tangentially related to the values underlying Kanban and Agile, it does not at any point reference, define, or discuss the Definition of Workflow or its key attributes (explicit agreements, workflow policies, WIP limits, or making work visible as per Kanban). The analogy criticizes superficial adoption of Agile or Scrum practices and focuses on psychological safety and cultural prerequisites, not the structural or policy-based elements that define workflow. There are minor overlaps in intent—such as transparency and continuous improvement—but no discussion of workflow entry/exit criteria, WIP, or workflow visualization. Thus, the content barely aligns with the category.",
+    "reasoning_summary": "This content uses the Toyota 'andon' cord to illustrate the need for a culture of safety in Agile/Scrum but does not address the Definition of Workflow. It lacks discussion of explicit workflow agreements or Kanban-specific practices, making alignment with the category minimal.",
+    "level": "Ignored"
   }
 }

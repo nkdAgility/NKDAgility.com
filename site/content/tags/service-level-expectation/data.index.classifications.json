@@ -3105,5 +3105,24 @@
     "reasoning": "The content describes Service Level Expectation (SLE) in Scrum, focusing on forecasting delivery timelines using empirical data. It explains SLEs, their calculation, and use, but does not discuss first principles as foundational, immutable truths. SLEs are framed as practices and guidelines rather than first principles. No penalties were applied since the material is current and neutral in tone. Most content is operational and advisory, not conceptual or foundational.",
     "reasoning_summary": "This content describes SLEs as practical tools for Scrum teams, but doesn't identify or analyze first principles. Its focus is on practices and resource guidance, not foundational truths, resulting in a low confidence for classifying under 'First Principal.'",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Service Level Expectation",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:44",
+    "ai_confidence": 41.85,
+    "ai_mentions": 2.3,
+    "ai_alignment": 4.1,
+    "ai_depth": 4.2,
+    "ai_intent": 4.1,
+    "ai_audience": 8.4,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 42.0,
+    "reasoning": "The content focuses on Service Level Expectation (SLE) in the context of Scrum Teams, explaining its purpose and calculation method. SLE is an important concept in Kanban-influenced teams and relates to workflow predictability; however, the piece does not directly define nor explore the 'Definition of Workflow' as articulated in Kanban or agile contexts. There is mention of 'workflow' but only as the path traversed by a work item. The main emphasis is on cycle time and predicting flow, not on explicit team agreements, policies, entry/exit criteria, WIP limits, or explicit workflow modeling. Audience and signal are reasonably aligned as the target readers are practitioners interested in workflow improvement. Depth and alignment to the strict definition are moderate but limited due to lack of broader workflow discussion.",
+    "reasoning_summary": "This content addresses SLEs as a measure of workflow predictability and references team workflows, but it does not directly define or discuss the 'Definition of Workflow' as an explicit set of agreements or policies. Its relevance is partial, with alignment mainly through flow optimization concepts.",
+    "level": "Tertiary"
   }
 }

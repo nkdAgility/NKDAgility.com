@@ -1851,5 +1851,24 @@
     "reasoning": "The content is a promotional message for Scrum and Agile training courses with no direct mention or discussion of first principles. It lacks any identification, explanation, or application of foundational, immutable principles in Lean, Agile, Scrum, or DevOps. There is also no content distinguishing first principles from derived practices or values. Its main focus is marketing, not education or theoretical grounding, and it does not serve the specialized audience defined by the First Principal category.",
     "reasoning_summary": "This content is a sales promotion for Scrum and Agile classes without any substantive discussion of first principles or their application. It doesn't align with the category definition, so confidence is extremely low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "ZHJtz2t0uTU",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:21",
+    "ai_confidence": 1.93,
+    "ai_mentions": 0.8,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 2.0,
+    "ai_audience": 3.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a promotional advertisement for Scrum and Agile training courses, listing course types and discounts. Nowhere does it reference, explain, or discuss the 'Definition of Workflow' or related Kanban/agile workflow policies, entry/exit criteria, WIP limits, or make any contrasts with Scrum's Definition of Done. The intended audience mildly overlaps with those who may care about workflow, but the content itself is unrelated, with no relevant direct mentions, conceptual coverage, or depth. All dimensional scores are very low, resulting in a low confidence score far below threshold.",
+    "reasoning_summary": "This is an advertisement for Agile and Scrum training courses without any explicit or implicit discussion of the Definition of Workflow. It lacks references to workflow policies, entry/exit criteria, or relevant Kanban/agile concepts, making it a poor fit for this category.",
+    "level": "Ignored"
   }
 }

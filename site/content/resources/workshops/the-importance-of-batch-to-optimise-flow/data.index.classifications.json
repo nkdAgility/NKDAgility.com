@@ -1917,5 +1917,24 @@
     "reasoning": "The content discusses batch size and its effect on flow, utilizing queuing theory in exercises. However, it never explicitly identifies or distinguishes first principles or asserts batch size as an immutable, foundational constraint. The focus is on practical application and observation rather than explicitly connecting practices to first principles or their violations. There is some conceptual alignment via queuing theory, but it treats principles more as impactful heuristics. The audience and signal are appropriately targeted for Lean-Agile practitioners. While relevant and practical, the depth is mostly in demonstration and debrief rather than rigorous analysis of first principles. No active penalties were warranted due to tone or reference to outdated practices.",
     "reasoning_summary": "While the workshop uses queuing theory to show the benefits of small batch sizes in flow, it never explicitly analyzes or grounds these as first principles. The focus is practical, making it relevant but not deeply aligned with the strict definition of the First Principal category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "kwS9oPiz-Ny",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:24",
+    "ai_confidence": 32.37,
+    "ai_mentions": 0.4,
+    "ai_alignment": 4.9,
+    "ai_depth": 5.8,
+    "ai_intent": 3.7,
+    "ai_audience": 8.4,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "Direct mentions are very low; the content never explicitly states 'Definition of Workflow' nor elaborates on its policy aspects or definitions as described in Kanban/agile theory. The main emphasis is on understanding the impact of batch size and queuing theory on flow, not on making workflow policies explicit, defining entry/exit criteria, or setting WIP limits. While the subject matter is adjacent (flow of work, batching, hands-on exercises around flow efficiency), it lacks explicit discussion or definition of workflow as a dynamic agreement or policy set. The audience is likely practitioners familiar with agile, and the content is reasonably focused, but its depth is technical rather than policy/process definition. No penalties as it's current and not contradictory.",
+    "reasoning_summary": "The content offers practical insight into batch sizes and flow, closely related to workflow efficiency, but does not discuss or define 'Definition of Workflow' policies or agreements. Its focus is on process improvement by batching, not on establishing workflow definitions.",
+    "level": "Ignored"
   }
 }

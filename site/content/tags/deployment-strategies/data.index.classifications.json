@@ -3027,5 +3027,24 @@
     "reasoning": "The content covers deployment strategies emphasizing risk vs. speed, continuous improvement, and organizational adaptation. It references Agile and DevOps principles, with mentions of fostering learning and collaboration. However, it lacks explicit focus on leadership roles, servant leadership, or the unique responsibilities of Agile leaders. Its primary focus is on technical/team practices rather than leadership guidance, resulting in moderate alignment and shallow depth for the Agile Leadership category.",
     "reasoning_summary": "While the content references Agile principles and organizational learning, it primarily centers on technical deployment practices rather than Agile Leadership. Leadership roles and behaviors are not directly addressed, leading to only partial confidence in this category fit.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Deployment Strategies",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:46",
+    "ai_confidence": 6.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 2.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content discusses deployment strategies, focusing on risk, speed, and various rollout patterns. There are no direct or indirect mentions of the Definition of Workflow as framed in Kanban or agile contexts. The discussion centers on best practices for getting software into production, not on defining or explicating the policies and agreements governing workflow stages, WIP, or flow visibility. Alignment, depth, and intent towards the core category are minimal. The content's target audience (teams interested in deployment process improvements) partially overlaps with those interested in workflow definition, but the specific concept of Definition of Workflow is absent. No penalties applied, as there is no outdated or critical framing.",
+    "reasoning_summary": "This content is unrelated to the Definition of Workflow category. It examines deployment patterns and strategies rather than explicit workflow agreements or policies as framed in Kanban or agile contexts.",
+    "level": "Ignored"
   }
 }

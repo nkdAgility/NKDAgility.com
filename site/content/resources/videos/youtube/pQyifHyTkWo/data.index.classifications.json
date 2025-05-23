@@ -2131,5 +2131,24 @@
     "reasoning": "The content focuses on transition strategies for microservices, highlighting planning, team dynamics, and complexity management. At no point does it identify or discuss first principles as foundational, immutable constraints. There are no explicit or implicit references to first principles or their application as defined. The themes center around context-dependent advice, heuristics, and best practices tailored to business needs—none of which qualify for this category. The intended audience (engineering leaders, architects) partially overlaps with First Principal discussions, but the content's purpose and discussion depth do not align. Therefore, dimensional scores are low except for some relevance to audience and moderate signal-to-noise ratio.",
     "reasoning_summary": "This content advises on practical strategies for transitioning to microservices but does not reference or discuss first principles as foundational, immutable constraints. It mainly offers context-dependent guidance, so it is not a strong fit for the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "pQyifHyTkWo",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:12",
+    "ai_confidence": 8.2,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.5,
+    "ai_intent": 0.8,
+    "ai_audience": 1.4,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content exclusively centers on strategies for transitioning from monolithic to microservices architectures. It discusses planning, system decomposition, team alignment, and iterative delivery in the context of architecture—not workflow. There are no explicit or implicit references to the Definition of Workflow, Kanban, agile workflow policies, WIP limits, entry/exit criteria, or making work flow visible per Kanban principles. While the audience (technical leaders) may overlap, the underlying focus is architecture strategy, not workflow management, and the content neither addresses nor alludes to the core themes or practices defined for this category.",
+    "reasoning_summary": "This article addresses microservices migration strategies but does not discuss the Definition of Workflow per Kanban or agile principles. Its focus is on architecture and team structure, without reference to workflow agreements or policies.",
+    "level": "Ignored"
   }
 }

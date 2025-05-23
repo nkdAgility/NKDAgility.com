@@ -3247,5 +3247,24 @@
     "reasoning": "Direct mentions of 'engineering excellence' and related practices are minimal; the focus is more on Agile outcomes than explicit craftsmanship or technical standards. However, the core message—delivering real value and usable increments—is conceptually aligned with engineering excellence principles (such as continuous delivery, value delivery, and avoiding ritualistic practice). The discussion critiques process-focused teams and promotes outcome-driven Agile, which implicitly supports engineering excellence but doesn't delve into specific best practices, metrics, or tools. The intended audience (Agile teams, technical leaders) matches, and the message is focused with little filler. The overall confidence reflects meaningful overlap but falls short of comprehensive coverage.",
     "reasoning_summary": "While the content doesn't explicitly discuss engineering excellence, it strongly supports its principles by emphasizing real product delivery over empty rituals. It's relevant and purposeful for engineering teams but lacks specific details on excellence practices.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "CBIAsEX7a86",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:12",
+    "ai_confidence": 10.75,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.1,
+    "ai_intent": 1.5,
+    "ai_audience": 3.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content does not mention the Definition of Workflow or cover its concepts (explicit agreements, WIP limits, entry/exit criteria, or making workflow visible). The focus is on the necessity of delivering a usable product each sprint and critiquing process-oriented rituals that do not result in value. No discussion relates to Kanban, workflow visualization, or the distinctions between Definition of Done and Definition of Workflow. The target audience is Agile teams, but the content is not specific to practitioners seeking to define or evolve their workflow in Kanban or agile development. It fits with the exclusion clause regarding Definition of Done, which this content discusses in a Scrum context.",
+    "reasoning_summary": "This content emphasizes the importance of delivering usable product increments in Agile and criticizes focus on rituals over outcomes but does not address Definition of Workflow concepts, making it a poor fit for this category.",
+    "level": "Ignored"
   }
 }

@@ -1888,5 +1888,24 @@
     "reasoning": "The content focuses on technical automation of code synchronization between VSTS/TFS and GitHub for DevOps workflows. It does not mention or analyze first principles, nor does it discuss foundational, immutable truths or non-negotiable constraints in Lean, Agile, Scrum, or DevOps. Instead, it provides practical setup instructions and configuration options. There are no references to first principles, their application, or the consequences of violating them. Content is highly tool-specific and scenario-driven.",
     "reasoning_summary": "This content is about technical automation between VSTS/TFS and GitHub, offering practical guidance without addressing foundational first principles. It is tool-focused, lacks conceptual alignment with first principles, and does not discuss immutable constraints central to the category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "LWHiaHn3CWF",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:40",
+    "ai_confidence": 13.07,
+    "ai_mentions": 0.8,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.7,
+    "ai_intent": 2.0,
+    "ai_audience": 4.6,
+    "ai_signal": 2.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "This content is a procedural guide for syncing code between VSTS/TFS and GitHub for DevOps in open source projects. It describes technical integration and automation steps, with focus on build definitions, synchronisation scenarios, and commands. Nowhere does it discuss explicit policies, agreements, WIP limits, entry/exit criteria, or other key Definition of Workflow concepts in the Kanban/agile sense. There are references to 'workflow' in casual, generic language typical to DevOps automation—but not as a defined, adaptable model or set of policies governing how work flows in value streams. There's some generalized fit for technical audiences, but otherwise little direct, conceptual, or depthful connection to the Definition of Workflow category as defined.",
+    "reasoning_summary": "The content is a practical automation guide for syncing code between VSTS/TFS and GitHub, using DevOps processes. It does not discuss Definition of Workflow concepts like policies, entry/exit criteria, or WIP limits, nor does it frame workflow in a Kanban/agile context. Alignment is minimal.",
+    "level": "Ignored"
   }
 }

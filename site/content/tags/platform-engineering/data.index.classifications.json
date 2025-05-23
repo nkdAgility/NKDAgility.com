@@ -3058,5 +3058,24 @@
     "reasoning": "While the content emphasizes the alignment of the developer experience with organizational strategy and mentions outcomes that support overall goals, it only weakly references the core concept of Common Goals as defined. There are no explicit mentions of Common Goals, their strategic or tactical role, nor of frameworks like OKRs, Product Goals, or Sprint Goals. The focus is primarily on the capabilities and benefits of platform engineering, not on the direct creation or management of shared objectives. The audience (technical and leadership in engineering) aligns fairly well, and the content is focused with minimal filler. However, insufficient conceptual and intent overlap with the strict category definition results in a low-to-moderate confidence score.",
     "reasoning_summary": "The content spotlights platform engineering enabling organizational alignment, but it lacks direct, thorough discussion on Common Goals or strategic frameworks. Its relevance is peripheral—focused more on technical enablement—leading to a low-to-moderate confidence of category fit.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Platform Engineering",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:57",
+    "ai_confidence": 3.9,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 0.7,
+    "ai_audience": 4.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content exclusively discusses Platform Engineering, focusing on internal platform design, developer enablement, cognitive load, and self-service tooling. There are no direct or indirect references to the Definition of Workflow as framed by Kanban or agile theory. Key elements of the category (explicit workflow agreements, entry/exit criteria, WIP limits) are absent. Any possible tangential link—supporting efficient delivery or visibility—is generic and not grounded in relevant theory. The content does not target a Kanban/agile practitioner audience and does not mention workflow explicitly or implicitly per the definition.",
+    "reasoning_summary": "The content discusses Platform Engineering and developer enablement, with no direct or conceptual connection to the Definition of Workflow in Kanban or agile contexts. It lacks any mention of explicit workflow policies, criteria, or related concepts relevant to the category.",
+    "level": "Ignored"
   }
 }

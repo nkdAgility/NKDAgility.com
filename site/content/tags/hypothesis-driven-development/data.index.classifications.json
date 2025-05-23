@@ -3035,5 +3035,24 @@
     "reasoning": "The content focuses on Hypothesis Driven Development (HDD), emphasizing experimentation, data-driven product decisions, and fostering a culture of learning. While HDD aligns with agile and lean values, it does not explicitly reference or identify first principles as foundational, immutable constraints. The discussion is largely on methodology and mindset—valuable, but not on irreducible core principles of Lean, Agile, Scrum, or DevOps. There's no explicit attempt to distinguish first principles from heuristics, values, or process guidelines. The audience is well-targeted (practitioners, product and technical teams), and the content stays on-topic, though without engaging the central theme of first principles. Thus, confidence that this content fits specifically under the 'First Principal' category is low.",
     "reasoning_summary": "The content discusses experimentation and validated learning in product development, but doesn't explicitly identify or apply first principles as foundational constraints. It focuses on methodology rather than immutable truths, so confidence for the 'First Principal' category is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Hypothesis Driven Development",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:48",
+    "ai_confidence": 8.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 1.1,
+    "ai_audience": 1.9,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content exclusively describes Hypothesis Driven Development—a methodology centered around experimentation and validated learning in product development. It does not mention or discuss the Definition of Workflow, nor does it explore explicit workflow agreements, entry/exit policies, WIP limits, or other Kanban-centric policies. The conceptual alignment is minimal as the main themes focus on hypothesis testing, learning, and adaptation rather than the explicit management of workflow. Audience alignment is slightly higher as practitioners interested in agile or product development may overlap, but the focus remains on learning cycles rather than workflow orchestration. No penalties were applied as the content is current and its tone is neutral. Overall, confidence is extremely low for fit with this category.",
+    "reasoning_summary": "This content focuses on experimentation and learning in product development, not on defining, visualizing, or managing workflow as understood in Kanban contexts. There is little to no relevance to the Definition of Workflow category.",
+    "level": "Ignored"
   }
 }

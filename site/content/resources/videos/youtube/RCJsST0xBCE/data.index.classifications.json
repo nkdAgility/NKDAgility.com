@@ -1853,5 +1853,24 @@
     "reasoning": "The content is a technical guide about Azure DevOps Migration Tools, focusing on practical setup, configuration, and best practices. It does not reference or discuss first principles (in the Lean, Agile, Scrum, or DevOps theoretical sense), nor does it distinguish between foundational, immutable principles and derived practices. There is no conceptual alignment with the category definition; the content is context-specific and tool-focused, offering advice and community guidance rather than engaging in any discussion of first principles. Scoring is therefore very low across all dimensions, with some minimal scores for general technical audience overlap and practical intent.",
     "reasoning_summary": "This guide is focused on migration tool usage, not foundational or first principles in Lean, Agile, Scrum, or DevOps. It provides practical advice and best practices but doesn't engage with first principles, so confidence in this category is very low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "RCJsST0xBCE",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:42",
+    "ai_confidence": 4.68,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.1,
+    "ai_intent": 0.9,
+    "ai_audience": 5.1,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content focuses entirely on technical advice and best practices for using Azure DevOps Migration Tools. There are no direct mentions of 'Definition of Workflow,' nor any conceptual discussion of explicit process, policies, or Kanban-related workflow visibility. The guidance, while detailed, is about tooling usage rather than workflow definition or management. The audience (DevOps practitioners) loosely overlaps, but the material never addresses the category's scope or core principles in agile/Kanban contexts.",
+    "reasoning_summary": "This guide covers Azure DevOps migration best practices and tool usage, not the Definition of Workflow. It does not discuss explicit workflow agreements, policies, or Kanban concepts. The content and purpose are outside the scope of the category.",
+    "level": "Ignored"
   }
 }

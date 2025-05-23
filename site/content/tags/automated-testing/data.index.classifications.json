@@ -3030,5 +3030,24 @@
     "reasoning": "The content focuses primarily on Automated Testing as a driver of software quality, reliability, and process acceleration. It references benefits such as earlier issue detection, reduced manual effort, and accelerated delivery, suggesting relevance to Time to Market. The alignment is moderate because the main intent is not to explore Time to Market metrics or strategies but to position Automated Testing as an enabler of faster delivery and agility. Depth of discussion touches on related concepts like feedback loops and organisational agility, yet doesn’t discuss Time to Market metrics, explicit measurement, or improvement strategies directly. Direct mentions of 'Time to Market' or defined metrics (lead time, cycle time) are absent, lowering that score. The intended audience (organisational leaders, practitioners adopting Agile/DevOps) is related but broad. Most content is relevant with minimal filler, resulting in a good signal-to-noise ratio. No penalties were applied since the content is current and neither critical nor misleading.",
     "reasoning_summary": "While Automated Testing supports faster delivery—a key aspect of Time to Market—the content mainly highlights quality and continuous improvement, with only indirect references to accelerating release cycles. It partially fits but doesn’t explicitly focus on Time to Market or its measurement.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Automated Testing",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:44",
+    "ai_confidence": 17.8,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.1,
+    "ai_intent": 2.4,
+    "ai_audience": 3.6,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses exclusively on the benefits, processes, and strategic value of Automated Testing in software development. There are no explicit or implicit discussions of the Definition of Workflow in a Kanban or agile context, such as explicit agreements, flow policies, entry/exit criteria, or WIP limits. While the term 'workflow' is mentioned once in relation to embedding testing into the development process, it does not align with the meaning prescribed by the category. No penalties are applied, as the content does not contradict or satirize the concept, nor is it outdated; it simply lacks relevance.",
+    "reasoning_summary": "This content centers on Automated Testing and its impact on software delivery, but does not address Definition of Workflow concepts as defined in Kanban or agile frameworks. Its relevance to the category is minimal.",
+    "level": "Ignored"
   }
 }

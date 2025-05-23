@@ -3027,5 +3027,24 @@
     "reasoning": "The content focuses on 'working software' as an Agile and Scrum artifact, emphasizing increments, delivery of value, customer satisfaction, and improvement. However, it never directly mentions Value Stream Management and does not explore value flow optimization, mapping, or continuous improvement practices within the context of value streams. Its primary concern is defining the tangible output of agile teams, not discussions about process improvement across organizational value streams. Audience partially overlaps but isn't justice to the VSM audience; signal-to-noise is moderate due to tangential but not core relevance.",
     "reasoning_summary": "While the article emphasizes value delivery and continuous improvement in agile teams, it lacks discussion of Value Stream Management principles, value stream mapping, or optimization. The focus remains on working software as an output, not the end-to-end flow or improvement of entire value streams.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Working Software",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:49",
+    "ai_confidence": 8.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 0.9,
+    "ai_audience": 2.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses 'Working Software' as an Agile/Scrum artifact and its importance as a measure of value, inspectability, and continuous improvement. However, it contains no direct mention of the Definition of Workflow or its key elements like explicit policies, WIP limits, or entry/exit criteria. The focus is on outputs, not workflow agreements or practices. While it references collaboration and transparency, these are in the context of delivering value, not managing or visualizing flow. There is one paragraph that mentions Definition of Done, which is excluded per the classification scope.",
+    "reasoning_summary": "The content centers on the artifact of working software, discussing value delivery and collaboration, but does not address the Definition of Workflow or related Kanban/agile process concepts. Its relevance to the requested category is extremely minimal.",
+    "level": "Ignored"
   }
 }

@@ -1926,5 +1926,24 @@
     "reasoning": "Direct mentions of 'first principles' are absent; the content references 'principles', 'values', and 'maxims' but treats them mainly as mapping to Agile values or heuristic guidance, not as immutable, irreducible constraints. Depth of exploration into foundational, non-negotiable truths is limited; discussion focuses more on differentiating genuine Agile practice from 'Agile BS' using checklists, warning signs, and tool recommendations. The intent and conceptual alignment fall short of the strict category definition because the text does not define, identify, or explicitly apply first principles per se—rather, it emphasizes practical evaluation. Audience fit is strong, targeting practitioners and management in Lean-Agile/DevOps contexts. Signal is relatively high (focused content), but lacks true first principles foundation.",
     "reasoning_summary": "While the article gives thorough advice on spotting real Agile practice in DoD contexts, it doesn't identify or apply immutable first principles. Its focus is on practical heuristics and evaluation, not foundational, irreducible truths, so it only marginally fits the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Tt8SPr3xJER",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:18",
+    "ai_confidence": 13.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.6,
+    "ai_intent": 2.3,
+    "ai_audience": 2.0,
+    "ai_signal": 0.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "This content is focused on detecting authentic agile practice within DoD projects, emphasizing values, principles, evaluation questions, and warning signs, but does not explicitly reference or significantly discuss the Definition of Workflow per Kanban or agile contexts. There are minimal references to practices (how issues are tracked, cycle times, pipelines), but these are tool or process-related checks, not discussions of explicit policies for managing flow, entry/exit criteria, WIP limits, or dynamic agreements. There's no distinction of workflow concept (as per Kanban) versus Definition of Done, nor substantive examination of workflow transparency or improvement as articulated in the category. Important signals such as workflow policies, explicit agreements, or explicit workflow states are missing. The target audience (DoD executives/program managers) is only partly aligned with process improvement teams adopting Kanban models. The content is largely about agile authenticity, tools, and project/program management, with workflow only implicitly relevant.",
+    "reasoning_summary": "The content focuses on identifying genuine agile practices in DoD projects, with minimal or indirect reference to workflow definition as understood in Kanban or agile contexts. It does not address explicit workflow agreements, criteria, or policies central to the category.",
+    "level": "Ignored"
   }
 }

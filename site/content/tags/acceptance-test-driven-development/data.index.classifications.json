@@ -3041,5 +3041,43 @@
     "reasoning": "The content introduces ATDD as an agile practice that fosters alignment, collaboration, and proactive testing—all hallmarks of organisational agility. While it does not explicitly mention 'Organisational Agility' often, it discusses agility outcomes (adaptability, continuous improvement, customer value) and cultural shifts (collaboration, shared responsibility). The discussion is in-depth about ATDD's impact on organisational practices, though it mostly focuses on the development team context rather than enterprise-wide transformation. The intent is highly supportive, aimed at practitioners interested in agile improvement, and most of the content is relevant and purposeful for those seeking greater adaptability. No outdated or contradictory elements were found, so no penalties applied.",
     "reasoning_summary": "This piece explores ATDD as a practice that enables collaboration and responsiveness, reinforcing key aspects of organisational agility. While it centers on software development, it clearly addresses agility themes like adaptability, quality, and cultural change, making it a strong but not absolute fit for the category.",
     "level": "Secondary"
+  },
+  "Agile Leadership": {
+    "resourceId": "Acceptance Test Driven Development",
+    "category": "Agile Leadership",
+    "calculated_at": "2025-05-23T22:06:44",
+    "ai_confidence": 37.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.2,
+    "ai_intent": 2.4,
+    "ai_audience": 4.0,
+    "ai_signal": 6.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 37.0,
+    "reasoning": "The content discusses ATDD as a collaborative, quality-focused technical practice in Agile software development. While it references aspects like collaboration, alignment with business needs, and continuous improvement—all relevant to Agile thinking—it does not directly discuss Agile Leadership, its roles, or leadership-specific practices. The primary focus remains on how ATDD supports teamwork and process quality, not on leadership responsibilities or transformation facilitation. Leadership, empowerment, and organizational culture are only indirectly implied by mentioning collaboration or shared responsibility, and not thoroughly tied to Agile Leadership principles or strategies. There are minimal direct references to the category, limited conceptual overlap, and little intentional targeting of Agile leaders as the main audience.",
+    "reasoning_summary": "The content explains ATDD as an Agile technical practice with some references to collaboration and improvement, but it does not directly discuss Agile Leadership roles, responsibilities, or strategies. Its primary focus is process and team quality, not leadership in Agile contexts.",
+    "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Acceptance Test Driven Development",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:49",
+    "ai_confidence": 14.15,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 1.5,
+    "ai_audience": 5.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses entirely on Acceptance Test Driven Development (ATDD), emphasizing the practice of defining acceptance criteria before implementation to ensure alignment and quality in software development. There is no explicit or implicit mention of the Definition of Workflow as described in Kanban or agile contexts. The main ideas and examples revolve around shared understanding and testing processes, which while potentially adjacent to collaborative ways of working, do not align with the specific meaning of Definition of Workflow (explicit policies on entry/exit, WIP limits, flow visualization, etc.). Audience alignment is moderate as both target practitioners, but the content's discussion of flow, workflow policies, or Kanban is entirely absent.",
+    "reasoning_summary": "This content concentrates on ATDD and acceptance criteria, not on the Definition of Workflow or related Kanban/agile policies. It lacks direct references or conceptual alignment with the category, resulting in low confidence for classification under Definition of Workflow.",
+    "level": "Ignored"
   }
 }

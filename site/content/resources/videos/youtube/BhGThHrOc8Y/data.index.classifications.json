@@ -1860,5 +1860,24 @@
     "reasoning": "The content critiques common misconceptions about DevOps and insists on seeing it as a mindset and value—but it does not explicitly discuss or identify 'first principles' in DevOps, Lean, Agile, or Scrum. While it occasionally uses language referencing fundamental ideas and distinguishes between tools and deeper concepts, these are cast as 'ideas', 'principles', or 'mindsets', not as articulated, foundational first principles as strictly defined in the category. There are no core theoretical sources, no explicit articulation of immutable constraints, nor any case where non-negotiable system boundaries are discussed. Audience is adjacent (practitioners, leaders), but the piece is primarily a motivational opinion piece urging people to see the 'real' value in DevOps, not a rigorous first-principles analysis.",
     "reasoning_summary": "This piece encourages deeper thinking about DevOps as a mindset, not just tools, but stops short of first principles discussion. It doesn't identify or apply foundational, non-negotiable DevOps or Lean principles—so confidence in the 'First Principal' category is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "BhGThHrOc8Y",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:36",
+    "ai_confidence": 12.55,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.1,
+    "ai_intent": 1.3,
+    "ai_audience": 7.1,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on clarifying misconceptions about DevOps, emphasizing culture, mindset, and the non-tool nature of DevOps. It briefly alludes to practices like Agile, product quality, and continuous improvement but does not discuss Definition of Workflow, Kanban, explicit workflow agreements, entry/exit criteria, WIP limits, or any of the key policies central to the provided category. The audience overlap is moderate since practitioners of DevOps may be interested in workflow clarity, but the article never references or explores 'Definition of Workflow.' There are no penalties, as there is no outdated or contradictory content, but the category fit is very weak by all major scoring dimensions.",
+    "reasoning_summary": "This article explores DevOps as a mindset and clarifies its distinction from tools but does not touch on the Definition of Workflow or its principles. Its content remains focused on DevOps philosophy, not explicit workflow models or agreements.",
+    "level": "Ignored"
   }
 }

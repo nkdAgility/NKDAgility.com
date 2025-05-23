@@ -1864,5 +1864,24 @@
     "reasoning": "The content focuses on using Kanban as a process visualization and improvement tool. Nowhere does it mention 'first principle,' nor does it explicitly identify or discuss first principles as immutable constraints for Lean, Agile, Scrum, or DevOps. It discusses best practices, heuristics, and values like transparency and continuous improvement, all of which are context-dependent and not positioned as fundamental truths. The audience (practitioners, coaches) aligns well, but the article is not about first principles—it is about practical Kanban application. There are almost no direct mentions and only superficial, indirect alignment to foundational ideas; depth remains shallow with respect to first principles.",
     "reasoning_summary": "This content explains Kanban as a tool for workflow transparency and improvement, targeting Agile practitioners. However, it doesn't address first principles directly or explore their foundational role, making it a poor fit for the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "BFDB04_JIhg",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:24",
+    "ai_confidence": 86.9,
+    "ai_mentions": 8.7,
+    "ai_alignment": 9.6,
+    "ai_depth": 8.9,
+    "ai_intent": 8.2,
+    "ai_audience": 8.5,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 87.0,
+    "reasoning": "The content directly references the 'Definition of Workflow' in the context of Kanban, discussing explicit workflow visualisation, policy agreements, and WIP limits. It explains entry/exit criteria and how explicit policies guide work, aligning with the category's scope. There's substantial discussion dedicated to making work visible and open to improvement, referencing key Kanban practices like visualization, metrics, and continuous improvement. While the main focus is Kanban's transparency and improvement value (rather than a textbook definition of 'Definition of Workflow'), the article consistently elaborates on workflow definition elements: policies, WIP, and explicit agreements about work movement. The intent and advice are highly relevant to Agile practitioners, and signal-to-noise is high, with minimal tangential content. No deductions for tone or obsolescence are necessary. Minor deductions in 'mentions' because although 'Definition of Workflow' is specifically called out, it is only one section among several core Kanban tenets. The audience, intent, and conceptual alignment are strong but not perfect, as the article is practical rather than academic.",
+    "reasoning_summary": "This content is highly aligned with 'Definition of Workflow' in Kanban contexts, explicitly addressing workflow visualization, explicit policies, WIP limits, and entry/exit criteria. Its focus on making work visible and supporting continuous improvement makes it an excellent fit for the category.",
+    "level": "Primary"
   }
 }

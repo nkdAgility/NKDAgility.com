@@ -1900,5 +1900,24 @@
     "reasoning": "The content focuses on automation as critical in modern software development, describing its value, consequences of neglect, and benefits. However, it frames automation as a best practice or strong recommendation rather than identifying or applying first principles explicitly. There's no explicit mention of foundational, immutable constraints, nor does it distinguish between first principles and derived or context-specific practices. The audience and relevance are high, but conceptual alignment and depth for 'First Principal' are moderate.",
     "reasoning_summary": "While the article strongly advocates for automation in deployment and quality, it discusses best practices—not foundational, immutable constraints defined as first principles. There's some alignment with the category's audience, but it does not explicitly address or apply first principles.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "tKEl0YVeWv4",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:15",
+    "ai_confidence": 7.3,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.7,
+    "ai_audience": 2.7,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused entirely on the benefits and importance of automation in software development, with ample references to automated deployments, reducing human error, case studies, and cultural recommendations. Nowhere does it discuss, name, or define the concept of 'Definition of Workflow' as described in Kanban or agile contexts. It does not mention explicit process agreements, entry/exit policies, WIP limits, or the Kanban Guide. There is not even a passing reference to any kind of workflow definition, nor comparison to Definition of Done. The intent and depth are off-category; while the audience may overlap with practitioners interested in workflows, the actual content is extremely low in relevance and signal regarding the specified category.",
+    "reasoning_summary": "This content describes the importance of automation in software development, emphasizing deployments, error reduction, and quality. It does not address the Definition of Workflow or related Kanban concepts and is off-category for this classification.",
+    "level": "Ignored"
   }
 }
