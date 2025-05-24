@@ -3022,5 +3022,24 @@
     "reasoning": "The content describes Continuous Delivery as a practice, but does not discuss or reference first principles, their definition, or their application as irreducible constraints. It mentions key benefits and cites Jez Humble, but lacks any discussion on foundational, immutable truths or the distinction between first principles and derived practices. The intent is to inform about Continuous Delivery, not to explore first principles. Thus, alignment and depth are low. The audience and signal are stronger, as the content is focused and relevant to practitioners.",
     "reasoning_summary": "This content thoroughly explains Continuous Delivery as a practice but does not discuss first principles, their identification, or their foundational role. It focuses on methods and benefits, not on immutable constraints, so confidence in this category is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Continuous Delivery",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:46",
+    "ai_confidence": 10.05,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.9,
+    "ai_intent": 0.5,
+    "ai_audience": 4.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content exclusively defines and discusses Continuous Delivery, a software engineering practice centered on frequent, reliable releases and rapid feedback. There are no references to the Kanban-based Definition of Workflow, nor are any key elements (entry criteria, WIP limits, explicit workflow agreements, etc.) discussed. The main theme aligns with delivery and deployment processes, not the construction or explicit articulation of workflow agreements/policies. The content speaks generally to software teams and practitioners but is not aimed at those seeking information specifically about workflow definitions in Kanban/agile contexts. There is minimal overlap in intent, wording, or focus.",
+    "reasoning_summary": "This content explains Continuous Delivery without mentioning or aligning with the Kanban Definition of Workflow. It focuses on release practices, not explicit workflow policies, and does not target a Definition of Workflow audience.",
+    "level": "Ignored"
   }
 }

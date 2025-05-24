@@ -3012,5 +3012,24 @@
     "reasoning": "The content profiles GitHub as a collaboration platform with features like project management, discussions, and workflow automation, explicitly referencing collaboration, transparency, value delivery, and DevOps/Agile contexts. However, while collaboration and communication are prominent, the content minimally references or discusses explicit social frameworks or methodologies fundamental to the Social Technologies category. The conceptual alignment is strong because GitHub facilitates many of the goals underpinning social technologies, but the discussion focuses more on tooling features rather than the deeper theoretical or methodological aspects of social technologies. Signal and audience fit are strong, but depth is moderate as it lacks case studies or nuanced discussion of social technology principles.",
     "reasoning_summary": "While this content strongly highlights collaboration, transparency, and value delivery in a DevOps/Agile context, its primary emphasis is on GitHub's tools rather than in-depth exploration of underlying social technology frameworks. It's a relevant but moderately confident fit for the Social Technologies category.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "GitHub",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:50",
+    "ai_confidence": 15.1,
+    "ai_mentions": 1.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.3,
+    "ai_intent": 2.1,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on describing GitHub's features for code management, CI/CD automation, and developer collaboration. While it uses the term 'workflow', it refers generically to development/automation workflows, not the Kanban or agile concept of Definition of Workflow. There is no discussion of explicit workflow policies, entry/exit criteria, WIP limits, or Kanban-related process articulation. The main ideas do not align with the specialized definition sought. The content targets practitioners in DevOps and software development, which is somewhat aligned with the audience, but the topic and purpose remain outside the boundaries of the Definition of Workflow category.",
+    "reasoning_summary": "This content broadly describes GitHub's features for software development, focusing on code hosting and automation. It references workflows in a general sense but does not address the Definition of Workflow as understood in Kanban or agile contexts. Alignment and fit with the requested category are minimal.",
+    "level": "Ignored"
   }
 }

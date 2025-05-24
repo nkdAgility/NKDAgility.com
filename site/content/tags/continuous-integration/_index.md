@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions on unrelated topics such as project management methodologies outside of CI, personal opinions on software development, or any misinterpretations of CI principles that do not align with established theories and practices.
 headline:
   cards: []
-  title: Continuous Integration
-  subtitle: Streamline development processes by merging code frequently, identifying issues early, and ensuring a robust and reliable codebase.
-  content: Facilitate rapid and reliable software development by integrating code changes frequently. Emphasise early error detection, automated testing, and seamless collaboration to enhance code quality and team efficiency. Explore topics such as version control, build automation, testing frameworks, and deployment strategies to ensure a resilient software delivery pipeline.
-  updated: 2025-02-13T12:05:27Z
+  title: 'Continuous Integration (CI): Accelerating Delivery Through Early Feedback Loops'
+  subtitle: Automating code integration and testing to accelerate feedback, improve quality, reduce risk, and enable rapid, reliable software delivery.
+  content: A software development approach emphasising frequent code integration, automated builds, rapid feedback loops, and early error detection. Posts explore integration techniques, automated testing strategies, build pipeline optimisation, reducing technical debt, enhancing team collaboration, and improving software delivery predictability to accelerate value delivery and responsiveness to customer needs.
+  updated: 2025-05-23T23:13:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

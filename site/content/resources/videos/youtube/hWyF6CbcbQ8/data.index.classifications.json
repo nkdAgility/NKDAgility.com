@@ -1817,5 +1817,24 @@
     "reasoning": "The content does not directly mention or explore first principles by definition, origin, or explicit application. It focuses on migration strategies, risks, and practical recommendations. While the audience (DevOps practitioners) and subject (DevOps integrity) partially align, there is no discussion of foundational, immutable constraints or non-negotiable truths as required for this category. The discussion is contextual, advisory, and centered on best practices rather than irreducible principles. Confidence score reflects strong deviation from scope.",
     "reasoning_summary": "This content is practical and aimed at DevOps practitioners but doesn't discuss or identify first principles. It offers migration advice and recommendations rather than foundational, immutable truths, making it a poor fit for the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "hWyF6CbcbQ8",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:20",
+    "ai_confidence": 16.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.7,
+    "ai_intent": 3.2,
+    "ai_audience": 3.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on the technical and procedural aspects of data integrity during DevOps migrations, comparing full vs. selective data transfer and providing broad recommendations for successful transitions. Although there are tangential mentions of team readiness and adjustments to workflows, there is no explicit discussion of the Definition of Workflow as understood in Kanban/agile contexts. Key concepts like explicit policies, WIP limits, entry/exit criteria, or the distinction from Definition of Done are absent. Audience targeting (DevOps practitioners) only marginally overlaps with those interested in workflow definitions, but the specific category scope is not addressed.",
+    "reasoning_summary": "This content discusses data migration strategy in DevOps but does not engage with the Kanban Definition of Workflow or its explicit agreements, policies, or flow mechanisms; any mentions of workflows are generic and outside the provided category scope.",
+    "level": "Ignored"
   }
 }

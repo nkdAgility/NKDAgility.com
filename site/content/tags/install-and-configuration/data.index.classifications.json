@@ -3059,5 +3059,43 @@
     "reasoning": "The content centers on installation and configuration of tools in agile, lean, and DevOps contexts, touching upon their contribution to organisational agility. However, most of the discussion stays on technical enablement of teams rather than deep exploration of cultural, leadership, or systemic agility principles. 'Agility' is referenced conceptually and in general, but not deeply examined. The alignment and depth are reasonable but not maximal; some focus is tangential, e.g., tool configuration as opposed to the structural or leadership dimensions of agility. There are no penalties, as the tone and framing do not contradict agility.",
     "reasoning_summary": "While the content links technical setup to improved organisational agility, it mostly emphasizes tool configuration rather than broader agility frameworks or cultural change. This makes it relevant but not deeply or directly focused on Organisational Agility, resulting in moderate confidence.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Install and Configuration",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:50",
+    "ai_confidence": 8.8,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.3,
+    "ai_intent": 1.1,
+    "ai_audience": 2.4,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content exclusively discusses the setup and configuration of tools and platforms that support agile, lean, and DevOps practices. There is no direct mention of the Definition of Workflow, nor are key concepts (like explicit agreements, workflow entry/exit policies, or WIP limits) discussed. The intent and focus remain on infrastructure, not on the Kanban definition of workflow. There is slight alignment in that well-configured tools may facilitate workflow, but this is indirect and insufficient for true category fit.",
+    "reasoning_summary": "This content is solely about tool installation and configuration in agile/DevOps settings, with no explicit or substantial discussion of the Definition of Workflow. Any connection to workflow is general and indirect, lacking core concepts or intent required for classification under this category.",
+    "level": "Ignored"
+  },
+  "Team Performance": {
+    "resourceId": "Install and Configuration",
+    "category": "Team Performance",
+    "calculated_at": "2025-05-23T22:06:52",
+    "ai_confidence": 51.4,
+    "ai_mentions": 2.4,
+    "ai_alignment": 6.2,
+    "ai_depth": 5.9,
+    "ai_intent": 6.3,
+    "ai_audience": 5.8,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 51.0,
+    "reasoning": "Mentions of team performance are indirect: the content focuses on setup/installation of tools as a foundation for team effectiveness, rather than team delivery performance itself. Alignment is moderate; the concepts touch on enabling delivery, but lack deep exploration of system-level metrics, team dynamics, or direct performance measures. Intent is partially aligned since the content is aimed at teams seeking effective setup, but its primary purpose is technical enablement, not performance evaluation. Audience is practitioners and implementers, somewhat overlapping with the category. Signal is diluted, with technical setup as the main topic rather than team outcomes. No penalties apply: content is current, neutral in tone, and not outdated.",
+    "reasoning_summary": "The content discusses installation and configuration as enablers of efficient team work, but does not deeply address team delivery performance or evaluate outcomes, making its fit with 'Team Performance' partial but not central.",
+    "level": "Tertiary"
   }
 }

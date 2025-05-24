@@ -1,11 +1,11 @@
 ---
 title: Test First Development
-abstract: Test First Development is a contemporary engineering practice that emphasises the importance of defining success criteria before the actual implementation of software begins. Originating from the need for clarity and quality in software delivery, this approach involves establishing tests—whether through examples, specifications, or executable tests—prior to coding. This shift-left strategy enhances collaboration among developers, testers, designers, and product owners by ensuring a shared understanding of what constitutes a successful outcome. Test First encompasses both manual and automated validation methods, with a preference for automation due to its ability to facilitate rapid feedback, support continuous integration, and mitigate regression risks. While manual testing serves a role in exploratory validation, automated practices like Test-Driven Development (TDD) and Acceptance Test-Driven Development (ATDD) are more effective in driving design and exposing ambiguities. Importantly, Test First transcends traditional testing; it is fundamentally a design, collaboration, and feedback practice that streamlines workflows by aligning expectations early and grounding development efforts in actual customer needs. By adopting Test First, teams can significantly reduce rework and enhance the overall quality of their software products, making it a valuable methodology in agile, DevOps, and product development contexts.
 ClassificationType: tags
+trustpilot: false
+abstract: Test First Development is a contemporary engineering practice that emphasises the importance of defining success criteria before the actual implementation of software begins. Originating from the need for clarity and quality in software delivery, this approach involves establishing tests—whether through examples, specifications, or executable tests—prior to coding. This shift-left strategy enhances collaboration among developers, testers, designers, and product owners by ensuring a shared understanding of what constitutes a successful outcome. Test First encompasses both manual and automated validation methods, with a preference for automation due to its ability to facilitate rapid feedback, support continuous integration, and mitigate regression risks. While manual testing serves a role in exploratory validation, automated practices like Test-Driven Development (TDD) and Acceptance Test-Driven Development (ATDD) are more effective in driving design and exposing ambiguities. Importantly, Test First transcends traditional testing; it is fundamentally a design, collaboration, and feedback practice that streamlines workflows by aligning expectations early and grounding development efforts in actual customer needs. By adopting Test First, teams can significantly reduce rework and enhance the overall quality of their software products, making it a valuable methodology in agile, DevOps, and product development contexts.
 ClassificationContentOrigin: human
 date: 2025-03-25T07:40:33Z
 weight: 240
-trustpilot: false
 description: Test First is a practice that defines success before implementation. It supports manual and automated testing, with a strong preference for automation to improve flow and quality.
 Instructions: |-
   **Use this category only for discussions on Test First Development.**  
@@ -24,13 +24,14 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the principles of Test First Development, such as unrelated software engineering practices, general testing methodologies without a focus on the Test First approach, or misinterpretations of the core concepts.
 headline:
   cards: []
-  title: Test First Development
-  subtitle: Empowering teams to define success upfront, enhancing collaboration and quality through proactive testing and clear criteria before implementation.
-  content: A proactive approach that establishes clear success criteria prior to development, fostering collaboration and quality through defined tests. It encompasses both manual and automated validation, driving design and enabling rapid feedback. This practice enhances alignment on expectations and ensures that development is rooted in tangible customer outcomes.
-  updated: 2025-03-25T07:40:35Z
+  title: 'Test First Development: Defining Success Criteria to Drive Quality and Collaboration'
+  subtitle: Define clear success criteria upfront to drive design decisions, accelerate feedback loops, reduce ambiguity, and align teams on customer outcomes.
+  content: A contemporary engineering practice that emphasises defining clear success criteria through examples, scenarios, or executable tests before implementation begins, enabling rapid feedback, reducing ambiguity, improving collaboration among developers, testers, designers, and product owners, and ensuring software design aligns closely with customer outcomes and quality standards.
+  updated: 2025-05-23T23:15:37Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-vial
 concepts:
 - Practice
 categories:

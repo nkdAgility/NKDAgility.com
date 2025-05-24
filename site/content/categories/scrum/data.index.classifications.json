@@ -3027,5 +3027,24 @@
     "reasoning": "The content contains a dedicated section labelled 'First Principals' (with a misspelling), directly outlining eight foundational Scrum ideas such as Empiricism, Self-Organization, and Time-Boxing. These are presented as core, immutable aspects underpinning Scrum's design, echoing the category's definition. While some listed 'principals' (e.g., Collaboration, Continuous Improvement) risk being heuristics or values in agile discourse rather than true first principles, the overall framing does distinguish them as boundary-defining constraints. There is mixed presence of context-dependence—notably, later sections on values and accountabilities drift into best practice and role definitions rather than first principles. The main purpose of the piece is an explanation of Scrum fundamentals for practitioners, with clear audience alignment, though the depth on distinguishing 'first principle' versus 'derivative' content is moderate rather than exhaustive. The signal is high in the key section, but diluted slightly by large portions on values and roles.",
     "reasoning_summary": "This content thoughtfully lists and explains Scrum’s foundational principles as immutable constraints, mostly matching the 'First Principal' category. However, some items blur with values or best practices, making the fit strong but not perfect. Audience and purpose alignment is solid overall.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "peNS32Lw-sn",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:46",
+    "ai_confidence": 18.763,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 5.5,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content provides an in-depth overview of Scrum, focusing on its principles, values, roles, events, and artifacts. It mentions process elements (like sprint planning, self-organization, and Definition of Done) but does not discuss or even reference the Definition of Workflow, Kanban concepts, workflow policies, WIP limits, or related themes. The only mention of 'Definition of Done' is about quality standards, not workflow agreements. The alignment, depth, and signal are low because there is no explicit or implicit exploration of making workflow explicit, setting policies for entry/exit of work items, or distinguishing between Scrum and Kanban workflow approaches.",
+    "reasoning_summary": "This content describes Scrum concepts, focusing on team structure, values, and events, but does not mention or explain the Definition of Workflow or related Kanban/agile workflow concepts. Its relevance to the category is minimal.",
+    "level": "Ignored"
   }
 }

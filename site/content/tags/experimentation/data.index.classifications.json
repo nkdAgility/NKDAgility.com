@@ -3042,5 +3042,24 @@
     "reasoning": "The content focuses on experimentation in agile workflows, highlighting hypothesis-driven approaches, empirical testing, and fostering a learning culture. However, it rarely (if ever) explicitly references troubleshooting, nor does it address identification or resolution of technical issues. While iterative testing and feedback loops may overlap conceptually with troubleshooting practices, the depth and primary intent remain centered on organizational change, innovation, and continuous improvement, not on diagnosing or resolving failures. Audience targeting is moderately aligned due to references to cross-functional teams and agile contexts, but the overall content is more relevant to innovation and process optimization rather than systematic technical problem resolution.",
     "reasoning_summary": "This content emphasizes experimentation in agile teams but doesn't directly address troubleshooting or problem resolution. Its focus is on innovation, learning, and adaptability rather than diagnosing or fixing technical issues, resulting in low category confidence.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Experimentation",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:46",
+    "ai_confidence": 32.55,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.2,
+    "ai_intent": 3.2,
+    "ai_audience": 7.1,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content focuses on the role of experimentation within agile workflows, emphasizing hypothesis-driven development and continuous improvement. While it mentions agile workflows generally, it does not directly reference or discuss the Definition of Workflow as defined in Kanban or agile theory. There is no discussion of explicit agreements, entry/exit criteria, WIP limits, visualisation, or related concepts. The main connection is a general alignment with agile practices, not the explicit management of workflow policies. The audience is likely practitioners in agile and product development, partially overlapping with the relevant audience. Low mention and alignment scores reflect the lack of direct or in-depth treatment of the Definition of Workflow.",
+    "reasoning_summary": "The content discusses experimentation in agile workflows but does not explicitly address or define the Definition of Workflow. It is tangentially aligned through agile themes but lacks direct relevance or depth regarding workflow definitions, making confidence in categorization low.",
+    "level": "Ignored"
   }
 }

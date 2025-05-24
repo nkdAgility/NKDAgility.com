@@ -27,10 +27,10 @@ Instructions: |-
   - Content that focuses solely on technical practices without addressing the leadership aspect.
 headline:
   cards: []
-  title: Agile Leadership
-  subtitle: Empower teams to embrace change, enhance adaptability, and cultivate a culture of ongoing improvement for sustainable success.
-  content: Cultivate leadership that inspires teams to navigate complexity and embrace change. Explore practices that enhance collaboration, foster innovation, and promote a mindset of continuous learning. Posts should delve into team dynamics, decision-making frameworks, and strategies for sustaining improvement in fast-paced environments.
-  updated: 2025-02-13T12:06:28Z
+  title: 'Agile Leadership: Empowering Teams to Thrive Through Continuous Adaptation'
+  subtitle: Guiding teams and organisations toward adaptability, empowerment, and continuous improvement through transparency, collaboration, and evidence-based decision-making.
+  content: Leadership approach centred on guiding teams and organisations through complexity by fostering adaptability, empowerment, and continuous improvement. It emphasises self-organisation, collaborative decision-making, psychological safety, transparency, trust, experimentation, alignment of organisational and team objectives, and responsiveness to change, enabling sustained innovation, resilience, and consistent value delivery.
+  updated: 2025-05-23T23:19:28Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

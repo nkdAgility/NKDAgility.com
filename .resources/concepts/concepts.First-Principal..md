@@ -1,10 +1,12 @@
 ---
 title: First Principal
+ClassificationType: concepts
+trustpilot: false
 description: Foundational, non-derivable truths that anchor strategy, guide system design, and define the boundaries of professional practice.
 abstract: A First Principle is an irreducible, self-evident truth that forms the foundation of a system of thought or action. In Lean-Agile, Scrum, and DevOps contexts, first principles guide decision-making by anchoring practices, strategies, and heuristics to immutable truths. Unlike derived principles, which are context-dependent and adaptive, first principles remain stable across domains and serve as the baseline for evaluating whether a system’s design, behaviour, or outcome is valid. First principles are not suggestions — they are non-negotiable constraints that define the boundary of professionalism.
 date: 2025-05-13T09:00:00
-trustpilot: false
-ClassificationType: concepts
+weight: 335
+icon: fa-dna
 Instructions: |-
   Use this category only for discussions on First Principles.
 
@@ -30,14 +32,13 @@ Instructions: |-
   Classify content here only if it directly addresses the identification, explanation, or application of first principles as foundational, immutable constraints in Lean-Agile, Scrum, or DevOps contexts. Exclude any content that treats principles as optional, flexible, or contextually negotiable.
 headline:
   cards: []
-  title: First Principles (FP)
-  subtitle: Foundational truths that underpin professional conduct, system design, and decision-making across product delivery, organisational change, and complex systems.
-  content: Irreducible truths that underpin professional conduct in product delivery, software engineering, and organisational change. Posts explore foundational constraints that govern system behaviour, adaptation, and value delivery, providing a universal reference for evaluating practices, frameworks, and decisions across disciplines, regardless of context, methodology, or domain.
-  updated: 2025-05-13T10:25:23Z
+  title: 'First Principal: Anchoring Agile Decisions in Immutable Truths'
+  subtitle: Foundational truths that anchor decision-making, validate practices, and define professional boundaries across complexity, delivery, and organisational change.
+  content: First Principal defines irreducible truths that underpin effective decision-making, organisational adaptability, and professional conduct. Posts categorised here clarify foundational constraints governing complexity, flow, continuous improvement, evidence-based decisions, and system validity, enabling teams and leaders to anchor strategies, practices, and metrics in stable, domain-independent realities rather than transient trends or dogma.
+  updated: 2025-05-23T23:18:59Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
-weight: 1000
 
 ---
 A **First Principle** is an **irreducible truth**. It is not a heuristic, value, or belief. It is a foundational constraint on how complex systems behave, adapt, and deliver value.

@@ -1916,5 +1916,24 @@
     "reasoning": "The content focuses on Agile/Scrum best practices, such as backlog grooming, prioritization, and lean approaches, but does not reference or discuss first principles as foundational, immutable constraints. There are no explicit mentions or rigorous conceptual exploration of first principles according to the provided definition. Most emphasis lies on practical advice and context-contingent recommendations (e.g., balancing ambition, realistic sprint goals, regular audits), which are explicitly in the exclusion criteria. Audience is aligned, but the depth and directness regarding first principles are very limited.",
     "reasoning_summary": "This content offers Agile and Lean advice focused on practical methods and value delivery, not on first principles. There is little direct reference or conceptual discussion of immutable, foundational ideas, so confidence for the 'First Principal' category is low.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "2ASLFX2i9_g",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:25",
+    "ai_confidence": 23.15,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.6,
+    "ai_intent": 2.9,
+    "ai_audience": 7.1,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses on addressing common pitfalls in Agile and Scrum, especially backlog overload and unnecessary features, and champions lean, value-focused practices. While it discusses concepts like prioritization, realistic Sprint planning, and regular backlog grooming, it never explicitly mentions or substantially explores the Definition of Workflow as a set of explicit policies governing the flow of work, nor does it discuss entry/exit criteria, WIP limits, or Kanban-specific practices. The main audience (Agile practitioners) aligns, but the core conceptual elements of Definition of Workflow are either missing or only very indirectly touched. There are no penalty factors present, but only minimal signal towards formal workflow definitions, so confidence for this category is low.",
+    "reasoning_summary": "This content is primarily about avoiding overload in Agile via prioritization and lean practices. It does not discuss explicit workflow definitions or Kanban-aligned policies, so its fit with the Definition of Workflow category is weak and mostly tangential.",
+    "level": "Ignored"
   }
 }

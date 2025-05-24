@@ -1854,5 +1854,24 @@
     "reasoning": "The content focuses on practical advice and strategies for minimizing downtime during data migration, emphasizing planning, preparation, and use of tools like Git. There is no mention or discussion of first principles, nor does it address or distinguish between first principles and derived practices in Lean, Agile, Scrum, or DevOps contexts. The main themes are tactical and experiential, not foundational or immutable. Audience alignment is moderate since the advice targets practitioners in technical migration roles, but discussion remains on operational guidance. Therefore, overall confidence in fit for 'First Principal' is very low.",
     "reasoning_summary": "This piece provides actionable tips for reducing downtime during data migration but doesn't discuss or apply first principles as foundational constraints. Lacking any conceptual exploration or direct mention of first principles, the content does not fit the category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "tzmbqdEULUY",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:19",
+    "ai_confidence": 6.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on best practices for data migration with an emphasis on minimising downtime and maintaining productivity among engineers. There are no direct or indirect references to the Definition of Workflow as understood in Kanban or Agile contexts: no mention of explicit policies, WIP limits, entry/exit criteria, workflow visualization, or distinctions between workflow definition and related concepts. The content targets engineering and operational audiences concerned with technical migrations, not process improvement or workflow modeling. All scoring dimensions remain very low due to near-total lack of relevance; only minimal points are allotted for tangential discussion on collaboration and planning.",
+    "reasoning_summary": "This content is unrelated to Definition of Workflow in Kanban or agile theory. It centers on data migration logistics and downtime reduction, with no discussion of workflow policies, models, or explicit agreements as required for the category.",
+    "level": "Ignored"
   }
 }

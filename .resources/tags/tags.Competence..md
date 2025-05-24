@@ -1,12 +1,12 @@
 ---
 title: Competence
-abstract: Competence is a critical element of professional effectiveness, encompassing the development, demonstration, and application of essential skills, knowledge, and judgement to achieve quality outcomes. It is derived from a commitment to continuous learning and deliberate practice, requiring individuals and organisations to earn and adapt their capabilities over time. In the context of agile methodologies, DevOps practices, product development, and organisational design, competence is vital as it underpins the successful execution of frameworks, processes, and tools. Without a foundation of competence, efforts may devolve into performative activities that fail to yield meaningful progress, jeopardising quality, trust, and value delivery. Therefore, every decision and action taken within an organisation must be rooted in the ability to execute with professionalism and expertise, ensuring that the outcomes align with the intended goals and standards.
+description: Competence is a first principle that demands continuous development and demonstrable capability. It is the foundation of professionalism—without it, there can be no trust, no quality, and no real progress.
 ClassificationType: tags
+trustpilot: false
+abstract: Competence is a critical element of professional effectiveness, encompassing the development, demonstration, and application of essential skills, knowledge, and judgement to achieve quality outcomes. It is derived from a commitment to continuous learning and deliberate practice, requiring individuals and organisations to earn and adapt their capabilities over time. In the context of agile methodologies, DevOps practices, product development, and organisational design, competence is vital as it underpins the successful execution of frameworks, processes, and tools. Without a foundation of competence, efforts may devolve into performative activities that fail to yield meaningful progress, jeopardising quality, trust, and value delivery. Therefore, every decision and action taken within an organisation must be rooted in the ability to execute with professionalism and expertise, ensuring that the outcomes align with the intended goals and standards.
 ClassificationContentOrigin: human
 date: 2025-03-21T14:44:55Z
 weight: 545
-trustpilot: false
-description: Competence is a first principle that demands continuous development and demonstrable capability. It is the foundation of professionalism—without it, there can be no trust, no quality, and no real progress.
 Instructions: |-
   **Use this category only for discussions on Competence.**  
   Competence is a foundational principle in Agile, Scrum, DevOps, and Lean methodologies that emphasises the necessity for continuous development and demonstrable capability. It underpins professionalism, ensuring that trust, quality, and progress are achievable within teams and organisations.
@@ -23,18 +23,19 @@ Instructions: |-
   Discussions that focus on unrelated concepts such as team dynamics without reference to competence, tools or processes that do not directly relate to the development of skills and capabilities, or any misinterpretations of competence that do not align with the principles of professionalism and quality delivery.
 headline:
   cards: []
-  title: Competence
-  subtitle: Building professional effectiveness through continuous skill development and mastery for quality outcomes and trust.
-  content: Competence encompasses the ongoing enhancement of skills and knowledge essential for delivering high-quality results. It involves critical thinking, effective decision-making, and the ability to adapt in complex environments. Posts should explore themes of continuous learning, mastery, and the practical application of expertise in professional settings.
-  updated: 2025-03-21T14:44:57Z
+  title: 'Competence: Building Mastery to Drive Agile and DevOps Excellence'
+  subtitle: Building the skills, knowledge, and judgement required for professional mastery, continuous improvement, and effective value delivery.
+  content: Competence encompasses the continuous development, disciplined practice, and effective application of essential skills, knowledge, and judgement. It ensures professional execution, informed decision-making, and reliable value delivery, underpinning quality outcomes, organisational adaptability, and meaningful progress across product development, organisational design, complexity management, and evidence-based approaches.
+  updated: 2025-05-23T23:30:35Z
 ResourceId: I3eGjbYOnzu
 aliases:
 - /resources/I3eGjbYOnzu
 sitemap:
   filename: sitemap.xml
   priority: 0.7
+icon: fa-user-ninja
 concepts:
-- Discipline
+- First Principal
 categories: []
 tags:
 - Miscellaneous

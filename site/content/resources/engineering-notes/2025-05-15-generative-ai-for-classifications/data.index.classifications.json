@@ -3101,5 +3101,24 @@
     "reasoning": "The content is a technical case study on using generative AI and scripting to automate blog tagging and categorisation. While it discusses improving discoverability and aligning tags/categories with user needs, it does not explicitly address defining, measuring, or prioritising customer outcomes as required by the Customer Focus category. The main focus is on editorial consistency, automation, and workflow optimisation for the author's own site, not on delivering measurable value to customers or establishing feedback loops with real users. There are no direct mentions of customer value, customer feedback, or outcome-driven development. The audience is technical practitioners, but the discussion is not anchored in customer-centric agile or DevOps philosophies.",
     "reasoning_summary": "This content focuses on automating blog tagging and categorisation using AI, with an emphasis on editorial standards and workflow efficiency. It lacks explicit discussion of customer outcomes, feedback, or value delivery, so it only weakly aligns with the Customer Focus category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "oRStCAqLAY4",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:14",
+    "ai_confidence": 23.6,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.3,
+    "ai_intent": 1.7,
+    "ai_audience": 9.1,
+    "ai_signal": 5.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content focuses on using AI and PowerShell scripts for blog post categorization and workflow automation within a Hugo site, describing the technical system and editorial taxonomy (Concepts, Categories, Tags), and emphasizing human oversight in AI-driven processes. However, it does not mention or explore the Definition of Workflow as defined in Kanban/agile contexts, nor does it address entry/exit policies, WIP limits, or similar agreements. While 'workflow' is mentioned, this refers to personal publishing or editorial processes rather than Kanban/DevOps workflow concepts. Audience aligns as technical practitioners, and signal is moderate, but there is no substantive discussion of Kanban-style Definition of Workflow.",
+    "reasoning_summary": "This content describes a technical and editorial process for automating blog categorization with AI and human oversight. It does not explore the Definition of Workflow as defined in Kanban or agile contexts, and thus only minimally fits the category.",
+    "level": "Ignored"
   }
 }

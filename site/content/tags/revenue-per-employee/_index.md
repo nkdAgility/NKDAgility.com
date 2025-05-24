@@ -26,10 +26,10 @@ Instructions: |-
   - Unstructured commentary without metric-based analysis
 headline:
   cards: []
-  title: Revenue per Employee
-  subtitle: Observe financial efficiency and workforce trends through a core operational metric.
-  content: Revenue per Employee is a systemic metric used to inspect how effectively an organisation converts workforce capacity into revenue. Posts under this tag should explore trends, comparisons, and patterns derived from this financial signal. Emphasis is on using this data to inform decisions, detect system inefficiencies, and monitor the long-term impact of strategic or operational change.
-  updated: 2025-04-09T13:40:00Z
+  title: 'Revenue per Employee: Measuring Workforce Efficiency for Strategic Agility'
+  subtitle: Measuring financial efficiency and workforce productivity to inform strategic decisions, identify constraints, and evaluate systemic performance trends.
+  content: Revenue per Employee measures organisational effectiveness in converting workforce capacity into financial outcomes, enabling empirical analysis of productivity, throughput, and operational alignment. Posts explore strategic planning, constraint identification, organisational restructuring impacts, workforce composition shifts, automation effects, and interpreting financial signals as indicators of overall system health and performance trends.
+  updated: 2025-05-23T23:32:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

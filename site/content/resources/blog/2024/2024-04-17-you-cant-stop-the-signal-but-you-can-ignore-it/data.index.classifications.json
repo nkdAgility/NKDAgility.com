@@ -1932,5 +1932,24 @@
     "reasoning": "The content focuses on organizational culture and why teams ignore process signals in Agile and Scrum. While it references continuous improvement and draws analogies using andon chains, it never mentions Service Level Expectation (SLE) or explores its definition, calculation, or use. There are no explicit or implicit references to SLE as a forecast metric or practice in Agile, Scrum, or Kanban contexts. The discussion remains high-level and philosophical, lacking any technical treatment of SLE or its audience. Minimal alignment is present only in referencing improvement and transparency, but this is generic and not connected to SLE.",
     "reasoning_summary": "This content discusses the challenge of responding to process signals in Agile and Scrum, but it never mentions or aligns with Service Level Expectation (SLE). It remains philosophical and does not address SLE concepts or practices, making confidence of fit extremely low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "KHNSdDjr5K_",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:19",
+    "ai_confidence": 23.75,
+    "ai_mentions": 1.5,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.7,
+    "ai_intent": 3.5,
+    "ai_audience": 6.2,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content does not directly discuss the Definition of Workflow as specified in Kanban or agile contexts. While it references signals, responsiveness, and improvement cultures relevant to Agile and Scrum, it never defines or addresses the explicit agreements, policies, entry/exit criteria, or workflow visualization central to the Definition of Workflow category. Instead, the focus is on organizational culture, resistance to signals, and analogies (like the andon chain) related to improvement, not workflow definition structures. Neither Kanban nor its specific workflow definition concepts are mentioned. Audience partially aligns (Agile/Scrum practitioners), but the main purpose is about cultural barriers to improvement. Thus, low confidence and minimal relevant substance.",
+    "reasoning_summary": "This content focuses on cultural resistance to signals in Agile and Scrum, not the explicit Definition of Workflow as defined in Kanban or agile frameworks. It is indirectly relevant but does not address key workflow definition themes, leading to low category confidence.",
+    "level": "Ignored"
   }
 }

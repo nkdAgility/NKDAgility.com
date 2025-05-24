@@ -23,10 +23,10 @@ Instructions: |-
   - Discussions on unrelated metrics (e.g., velocity, burn-down charts) or misinterpretations of Lead Time that don't align with its core definition.
 headline:
   cards: []
-  title: Lead Time
-  subtitle: Measuring and optimising the duration from task initiation to customer delivery for enhanced flow efficiency.
-  content: Lead Time is a key observability metric and a flow-based extension of Cycle Time. It enables teams to measure the time from the start of work to customer delivery and use that insight to improve predictability, responsiveness, and flow efficiency.
-  updated: 2025-04-11T06:00:00
+  title: 'Lead Time: Optimising Flow for Faster, Predictable Delivery'
+  subtitle: Measure and optimise the time from work initiation to customer delivery, enhancing flow visibility, responsiveness, and continuous improvement.
+  content: Lead Time measures the duration from initiating a work item to delivering it to customers, providing visibility into workflow efficiency, responsiveness, and predictability. Posts explore measurement techniques, flow optimisation, bottleneck identification, queue management, and practices informed by Kanban, complexity theory, continuous delivery, and evidence-based management principles.
+  updated: 2025-05-23T23:12:55Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

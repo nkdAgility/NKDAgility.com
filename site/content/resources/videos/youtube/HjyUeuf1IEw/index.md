@@ -6,8 +6,9 @@ weight: 1000
 slug: unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
 aliases:
 - /resources/HjyUeuf1IEw
-- /resources/videos/unlocking-agile-success-embrace-continuous-forecasting-and-transform-your-training-experience
-- /resources/videos/20th-may-2020-office-hours-ask-me-anything
+ResourceId: HjyUeuf1IEw
+ResourceImport: true
+ResourceType: videos
 aliasesArchive:
 - /resources/videos/th-may-office-hours-ask-me-anything
 - /resources/videos/20th-may-2020-office-hours-ask-me-anything
@@ -18,9 +19,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: HjyUeuf1IEw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: HjyUeuf1IEw

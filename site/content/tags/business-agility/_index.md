@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on unrelated methodologies, frameworks, or practices that do not directly contribute to the understanding or implementation of business agility, such as traditional project management approaches or non-agile frameworks.
 headline:
   cards: []
-  title: Business Agility
-  subtitle: Empower organisations to swiftly adapt and innovate, ensuring continuous delivery of value in a dynamic marketplace.
-  content: Foster an environment where organisations can swiftly respond to market changes, enhance innovation, and ensure consistent value delivery. Posts should explore frameworks for iterative improvement, visual workflow management, team collaboration, and decision-making under uncertainty, drawing insights from complexity theory and evidence-based management.
-  updated: 2025-02-13T11:59:51Z
+  title: 'Business Agility: Adapting Rapidly to Drive Continuous Value Delivery'
+  subtitle: Empowering organisations to swiftly adapt, innovate, and respond effectively to market shifts, customer demands, and emerging opportunities.
+  content: Business Agility encompasses organisational responsiveness to market shifts, customer demands, and emerging opportunities through rapid adaptation, continuous improvement, and cross-functional collaboration. It involves optimising workflows, shortening lead times, fostering experimentation, leveraging data-driven insights, and cultivating a culture of flexibility to proactively navigate complexity, drive innovation, and deliver sustained value.
+  updated: 2025-05-23T23:30:43Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -1846,5 +1846,24 @@
     "reasoning": "The content is focused entirely on Azure DevOps migration practices, challenges, and best practices. There are no explicit or implicit discussions of first principles as foundational, non-negotiable constraints in Lean, Agile, Scrum, or DevOps. The coverage is practical and context-dependent, featuring recommendations ('best practices'), procedural guidance, and experience-based advice. Nowhere does it identify or explore irreducible truths or constraints, nor does it distinguish first principles from heuristics or values. Category is not referenced or discussed; alignment, depth, and intent are all low, reflected in the sub-scores.",
     "reasoning_summary": "This content is practical guidance about Azure DevOps migration, with no identification, explanation, or application of first principles. It mainly offers context-dependent best practices and advice, making it a poor fit for the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "_rJoehoYIVA",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:21",
+    "ai_confidence": 7.03,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.5,
+    "ai_intent": 0.3,
+    "ai_audience": 1.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on Azure DevOps migration challenges, scenarios, and best practices. There is no explicit or implicit mention of the Definition of Workflow as understood in Kanban, agile, or DevOps contexts, nor of policies, entry/exit criteria, WIP limits, or other category-defining elements. Workflow is only passingly referenced generically in testing checklists (\"test...workflows\") but not in a way that discusses or defines workflow per Kanban. The main intent is to provide migration guidance for development teams. Therefore, alignment, direct mentions, and depth are minimal. No penalties are applied as the content is current and not critical or satirical.",
+    "reasoning_summary": "This content is about Azure DevOps migration, not the Definition of Workflow in a Kanban or agile context. It does not address the category's scope or key concepts, resulting in a very low confidence for inclusion in this classification.",
+    "level": "Ignored"
   }
 }

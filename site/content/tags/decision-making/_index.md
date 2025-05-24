@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any discussions that deviate from the core principles of structured decision-making, such as anecdotal evidence, personal opinions without empirical support, or unrelated business strategies that do not align with evidence-based practices.
 headline:
   cards: []
-  title: Decision Making
-  subtitle: Empowering informed choices through structured analysis and evidence-driven insights for effective organisational outcomes.
-  content: Utilising structured methodologies and empirical data to enhance organisational decision-making, this classification encompasses topics such as risk assessment, performance metrics, stakeholder engagement, and adaptive strategies. It emphasises the importance of informed choices in navigating complexity and fostering sustainable growth within dynamic environments.
-  updated: 2025-02-13T12:05:07Z
+  title: 'Decision Making: Leveraging Evidence to Drive Agile and Informed Choices'
+  subtitle: Structured, evidence-based approaches to informed choices, enabling teams to navigate complexity, reduce risk, and drive continuous improvement.
+  content: Decision making encompasses structured, evidence-based approaches to systematically evaluate options, leveraging data, empirical insights, and collaborative analysis. It addresses organisational complexity, promotes iterative learning, reduces uncertainty, and enhances responsiveness, enabling teams to consistently deliver sustainable value, adapt effectively to change, and align actions with strategic objectives and continuous improvement practices.
+  updated: 2025-05-23T23:32:18Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

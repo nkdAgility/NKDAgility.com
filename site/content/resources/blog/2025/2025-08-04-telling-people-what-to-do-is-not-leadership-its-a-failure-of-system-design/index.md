@@ -4,34 +4,33 @@ description: Explores why real leadership means designing systems that enable te
 date: 2025-08-04T09:00:00Z
 weight: 30
 slug: telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design
-
 aliases:
-  - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
-  - /resources/W_KrTupmowf
+- /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
+- /resources/W_KrTupmowf
 aliasesArchive:
-  - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
+- /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
 concepts:
-  - Principle
+- Principle
 categories:
-  - Product Development
-  - Engineering Excellence
-  - Leadership
+- Product Development
+- Engineering Excellence
+- Leadership
 tags:
-  - Lean Principles
-  - Operational Practices
-  - Self Organisation
-  - Software Development
-  - Team Performance
-  - Agile Planning
-  - Agile Product Management
-  - Empirical Process Control
-  - Organisational Agility
-  - Pragmatic Thinking
-  - Product Delivery
-  - Agile Leadership
-  - Agile Strategy
-  - Agile Transformation
-  - Continuous Improvement
+- Lean Principles
+- Operational Practices
+- Self Organisation
+- Software Development
+- Team Performance
+- Agile Planning
+- Agile Product Management
+- Empirical Process Control
+- Organisational Agility
+- Pragmatic Thinking
+- Product Delivery
+- Agile Leadership
+- Agile Strategy
+- Agile Transformation
+- Continuous Improvement
 ResourceId: W_KrTupmowf
 ResourceImport: false
 ResourceType: blog
@@ -40,10 +39,12 @@ Watermarks:
   description: 2025-05-19T07:28:14Z
 creator: Martin Hinshelwood
 contributors:
-  - name: Brett Maytom
-    external: https://www.linkedin.com/in/scrum-trainer/
----
+- name: Brett Maytom
+  external: https://www.linkedin.com/in/scrum-trainer/
+- name: Alex Brown
+  external: https://www.linkedin.com/in/alexbrown/
 
+---
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.
 
 There is a stubborn, Taylorist holdover in many companies—the belief that work gets done when someone is told exactly what to do. The assumption is that certainty comes from control, clarity comes from instruction, and delivery comes from compliance.
@@ -133,15 +134,15 @@ Agency without boundaries is chaos. But command-and-control masquerading as clar
 
 Professionalism is rooted in clear, shared expectations, delivered through disapline. A team that understands how work flows, where decisions are made, and what quality signals readiness at each stage doesn't need micromanagement—they already operate within a system that tells them what excellence looks like.
 
-### 3. **Stop Estimating, Start Right-Sizing**
+### 3. **Stop Misusing Estimation, Start Right-Sizing**
 
-Telling people what to build, in what order, and how long it should take kills creativity and accountability. It fragments ownership and encourages compliance over curiosity. Worse, it masks the real problem: your system doesn’t support flow, so you fall back to control.
+Telling people what to build, in what order, and how long it should take kills creativity and accountability. It fragments ownership and encourages compliance over curiosity. Worse, it masks the real problem: your system doesn't support flow, so you fall back to control.
 
 - **Action**: Move away from abstract estimation rituals and fixed task assignments. Instead, introduce right-sizing practices—splitting work based on historical flow metrics like cycle time and throughput and Scatter Plot analysis.
 - **How**: As a team, regularly review a scatter plot of your cycle times and investigate outliers to deepen your understanding of what 'small enough' looks like. Use that insight to reduce batch sizes where possible and provide stakeholder clarity where constraints exist. Visualise blocked or ageing work daily to keep flow visible, and use backlog refinement to slice work for predictability, not precision.&#x20;
-- **Why**: Estimation is not predictability. Estimates don’t increase flow; they increase pressure. When teams right-size work to match their flow and capacity, they ship more consistently, adapt faster, and own their commitments.
+- **Why**: The issue isn't estimation itself—it's turning estimation into something it was never meant to be. Right-sizing is still estimation, just done in a simpler and more honest way. When teams right-size work to match their flow and capacity, they ship more consistently, adapt faster, and own their commitments.
 
-Estimation is often just a proxy for distrust. When you right-size instead—grounding delivery in data and observability—you shift from permission-based planning to capability-based planning. That’s not just more efficient. It’s fundamentally more respectful of the people doing the work.
+Traditional estimation is often misused as a proxy for distrust or certainty in uncertain domains. When you right-size instead—grounding delivery in data and observability—you shift from permission-based planning to capability-based planning. That's not just more efficient. It's fundamentally more respectful of the people doing the work.
 
 ### 4. **Introduce Pull Systems with WIP Limits**
 

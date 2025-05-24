@@ -26,10 +26,10 @@ Instructions: |-
   - Any content that promotes frameworks or tools without grounding in empirical evidence or metrics.
 headline:
   cards: []
-  title: Evidence Based Management
-  subtitle: Data-driven strategies for enhancing value delivery, fostering innovation, and making informed decisions in complex environments.
-  content: A framework for enhancing organisational performance through informed decision-making, prioritising data over assumptions. Posts should explore metrics for assessing current value, time to market, innovation capacity, and unrealised potential, fostering a culture of continuous improvement and strategic investment in value delivery.
-  updated: 2025-03-21T14:44:50Z
+  title: 'Evidence-Based Management (EBM): Turning Data into Strategic Agility'
+  subtitle: Measure what matters, inform strategic decisions, and continuously improve outcomes by focusing on value, responsiveness, innovation, and untapped opportunities.
+  content: Evidence-Based Management provides organisations with empirical methods and meaningful metrics to evaluate value delivery, responsiveness, innovation capacity, and untapped opportunities. It emphasises outcome-driven decisions, informed prioritisation, and continuous improvement, enabling leaders to replace assumptions and superficial measures with actionable insights and measurable progress in complex, dynamic environments.
+  updated: 2025-05-23T23:15:56Z
 aliases:
 - /methods/ebm/
 - /learn/agile-delivery-kit/strategies/evidence-based-management/

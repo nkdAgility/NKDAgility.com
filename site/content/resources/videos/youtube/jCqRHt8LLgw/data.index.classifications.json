@@ -1821,5 +1821,24 @@
     "reasoning": "The content critiques certain agile practices (story points, team sizes, emergent architecture) and recommends alternatives or broader perspectives but does not directly identify, explain, or apply first principles in Lean, Agile, Scrum, or DevOps contexts. It does not reference first principles explicitly, nor does it distinguish between first principles and derived ideas. The discussion is focused more on evolving practices and context-dependent advice—which is explicitly excluded by the category definition. The audience and signal-to-noise ratio are fairly aligned with the intended practitioners, but the article does not probe foundational, immutable constraints or core truths that underlie Agile systems.",
     "reasoning_summary": "This article offers practical insights and suggestions for improving agile practices, but it doesn't identify or discuss first principles. As such, it doesn't fit the First Principal category, and confidence in its alignment is quite low despite its relevance to Agile professionals.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "jCqRHt8LLgw",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:44",
+    "ai_confidence": 9.185,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 2.4,
+    "ai_signal": 1.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content critically evaluates agile practices such as story points, team size, and emergent architecture but does not directly or explicitly discuss the Definition of Workflow as defined in Kanban or agile contexts. While there are mentions of 'flow of work'—such as maintaining the flow amid outages, or throughput as an alternative to story points—these are generic and do not constitute a substantive exploration of Definition of Workflow agreements, entry/exit policies, WIP limits, or the distinction with Definition of Done. There is no discussion of explicit workflow policies, visualization, or how teams might make their process explicit as per Kanban philosophy. The intended audience is agile practitioners or teams, but the content's focus is elsewhere. Thus, scores for all dimensions are minimal and no penalties are applied.",
+    "reasoning_summary": "This content does not address the Definition of Workflow, instead focusing on story points, team sizes, and emergent architecture in agile. No explicit or substantive discussion of workflow policies or Kanban-specific concepts is present, making it a poor fit for the category.",
+    "level": "Ignored"
   }
 }

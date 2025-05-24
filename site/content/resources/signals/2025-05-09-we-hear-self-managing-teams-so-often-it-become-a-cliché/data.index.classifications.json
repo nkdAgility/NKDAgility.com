@@ -3247,5 +3247,24 @@
     "reasoning": "The content critiques the misunderstanding of 'self-managing teams' in Scrum, emphasizing the discipline and structure required across Product Owner, Scrum Master, and Developer roles. While it underscores the need for active, adaptive, disciplined work, it does not explicitly discuss core engineering practices such as code quality, CI/CD, or technical metrics. Its alignment with Engineering Excellence is partial: it appeals to disciplined practice and team function, which indirectly foster excellence but stops short of explicit technical depth. Mentions of 'self-management' are frequent but direct references to engineering are light. The target audience is technical (Scrum participants), and the signal is mostly focused, though the primary topic is self-management in team dynamics rather than development practices.",
     "reasoning_summary": "This content argues that self-management in Scrum requires discipline and applies to all roles, not just developers. While it encourages best practices and alignment that indirectly support engineering excellence, it never dives into technical practices, keeping its fit in this category moderate.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "FqiyqqNxjFS",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:09",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.6,
+    "ai_intent": 0.7,
+    "ai_audience": 2.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses self-management in Scrum across roles, emphasizing discipline over chaos. However, it does not mention or describe the Definition of Workflow, nor does it address explicit workflow agreements, policies, entry/exit criteria, WIP limits, or Kanban principles. The focus is exclusively on team self-management as a behavioral concept, not as an explicit model of workflow. No concepts specific to the Definition of Workflow category are referenced, resulting in low scores for direct mentions, alignment, and depth, though the piece is somewhat relevant to agile practitioners, yielding a slightly higher audience and signal rating.",
+    "reasoning_summary": "While relevant to agile teams, this content focuses on disciplined self-management in Scrum, not on defining workflow or workflow policies. It lacks direct discussion of the Definition of Workflow or related Kanban principles.",
+    "level": "Ignored"
   }
 }

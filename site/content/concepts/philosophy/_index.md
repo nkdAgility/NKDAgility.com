@@ -26,10 +26,10 @@ Instructions: |-
   - Personal anecdotes or experiences that are not grounded in philosophical frameworks.
 headline:
   cards: []
-  title: Philosophy
-  subtitle: Guiding principles and beliefs that shape Agile, DevOps, and Lean methodologies, influencing decision-making and team dynamics.
-  content: Philosophy encompasses the foundational principles and beliefs that inform methodologies like Agile, DevOps, and Lean. This category explores how these philosophical frameworks guide organisational behaviour, decision-making, and culture, promoting adaptability and continuous improvement.
-  updated: 2025-04-09T14:00:00
+  title: 'Philosophy: Shaping Mindsets for Agile, Lean, and DevOps Success'
+  subtitle: Exploring the foundational principles, mindsets, and systemic thinking that shape effective decision-making, collaboration, and organisational adaptability.
+  content: Philosophy addresses the foundational principles and underlying rationale that shape organisational mindsets, decision-making, and collaborative behaviours. It explores concepts such as systems thinking, complexity theory, empirical management, continuous improvement, and cultural transformation, providing insights into the purpose behind practices and frameworks that enable adaptability, transparency, and effective value delivery.
+  updated: 2025-05-23T23:31:39Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

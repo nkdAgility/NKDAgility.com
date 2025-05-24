@@ -1942,5 +1942,24 @@
     "reasoning": "The content emphasizes releasing to production and validating value with real users, but it does not explicitly identify or discuss first principles as foundational, immutable constraints. It deals with practical strategies and rationale (e.g., business value, feedback loops, depreciation benefits) rather than establishing or analyzing first principles as defined in Lean, Agile, Scrum, or DevOps. There are no direct mentions or discussions on the nature or application of first principles, nor any distinction drawn between first principles and derived practices. The main audience (product teams, agile/Lean practitioners) is aligned, and signal-to-noise ratio is high, but overall, the content focuses on effective product validation rather than exploring or defining foundational constraints.",
     "reasoning_summary": "This content is practical and aimed at agile practitioners, but it doesn't address first principles directly or deeply. It's about the importance of releasing to production for validation, not about defining or applying immutable foundational constraints. Thus, confidence in this category is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "KUJ7jHOGqP7",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:40",
+    "ai_confidence": 10.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.3,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content discusses validating product value, releasing to production, and measuring feedback, but does not mention, define, or describe the Definition of Workflow or related Kanban/agile workflow policies. There's no discussion of entry/exit criteria, WIP limits, explicit agreements, or workflow visibility. The subject is product validation through real-users in production, not explicit workflow design or management in a Kanban/agile context. Audience alignment is somewhat related, as practitioners interested in value delivery often overlap with workflow improvement audiences, but there's no substantial or direct conceptual overlap.",
+    "reasoning_summary": "This content focuses on delivering value by releasing to production and validating with real user feedback. It does not address the Definition of Workflow or Kanban/agile flow practices, lacking mention of explicit workflow agreements, policies, or process visibility.",
+    "level": "Ignored"
   }
 }

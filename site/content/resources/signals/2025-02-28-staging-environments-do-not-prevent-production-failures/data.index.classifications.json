@@ -3247,5 +3247,24 @@
     "reasoning": "The content questions standard staging practices and advocates for audience-based, incremental releases. While 'engineering excellence' isn't named directly, it strongly aligns with best practices in CI/CD, risk management, and automation. The discussion is in-depth about why modern engineering teams evolve beyond outdated approaches, targeting practitioners and engineering leaders. Signal is high, with focused advice and minimal tangential content.",
     "reasoning_summary": "This analysis-driven piece challenges outdated environments, promoting advanced deployment, automation, and risk management—core aspects of engineering excellence. It’s tailored for engineers seeking best practices, supplying practical, in-depth advice closely aligned with the target category.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "syS5yJ_GthF",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:16",
+    "ai_confidence": 4.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.2,
+    "ai_intent": 0.7,
+    "ai_audience": 0.9,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 4.5,
+    "ai_penalty_details": "All dimensions penalized by 0.7–1.0 due to the content undermining traditional models foundational to Definition of Workflow, lack of relevance to explicit Kanban/agile workflow policy, and its critical tone against process focus.",
+    "final_score": 5.0,
+    "reasoning": "The content critiques staging environments, promotes audience-based deployments, and focuses on real-time risk mitigation. It neither mentions nor discusses Definition of Workflow, Kanban, nor related policies or agreements. Its message is about minimizing risk by shifting deployments directly to production. Although it addresses process improvement at a high level, it fails to align with the core Definition of Workflow concepts (explicit agreements, entry/exit policies, WIP limits, or making workflow visible/legible). The intent is to critique traditional process models rather than explain or improve explicit workflows, and the target audience is practitioners concerned with deployment safety—not teams managing work through Kanban/agile workflow. The critical tone and outdated references further decrease alignment and confidence.",
+    "reasoning_summary": "This content critiques staging environments and encourages incremental production releases but does not reference or align with the Definition of Workflow category. Its focus is on deployment strategy, not explicit workflow policies or Kanban principles.",
+    "level": "Ignored"
   }
 }

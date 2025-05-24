@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any discussions that focus on traditional management practices, micromanagement, or hierarchical decision-making structures, as these contradict the core philosophy of self-organisation. Additionally, avoid content that misinterprets self-organisation as a lack of structure or guidance, as effective self-organisation still requires clear goals and support mechanisms.
 headline:
   cards: []
-  title: Self Organisation
-  subtitle: Fostering team autonomy to enhance value delivery through collaborative decision-making and adaptive practices.
-  content: Encouraging teams to assume responsibility for their work fosters a culture of collaboration and adaptability. Posts should explore practices that enhance decision-making, promote transparency, and leverage collective intelligence, drawing insights from complexity theory and evidence-based management to navigate challenges and optimise outcomes.
-  updated: 2025-02-13T12:02:31Z
+  title: 'Self Organisation: Empowering Teams for Adaptive Decision-Making'
+  subtitle: Empowering teams to autonomously manage work, drive decisions, foster innovation, and adapt effectively in complex, dynamic environments.
+  content: Self-organisation describes the capability of teams to independently manage tasks, make informed decisions, and swiftly adapt to changing conditions without external direction, emphasising autonomy, accountability, collective problem-solving, continuous improvement through experimentation, and fostering innovation to effectively navigate complexity and enhance organisational resilience.
+  updated: 2025-05-23T23:17:20Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

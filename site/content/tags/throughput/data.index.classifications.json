@@ -3029,5 +3029,24 @@
     "reasoning": "The content focuses exclusively on the concept of throughput as a flow metric within Agile and Lean practices. It makes no direct or indirect reference to Open Space Agile or its core tenets, such as collective participation, emergence, psychological safety, or using Open Space Technology. There is no mention or contextual clue tying the content explicitly to the category. While the topic's general audience (Agile practitioners) is tangentially aligned, the depth, alignment, and intent are only weakly connected. The signal-to-noise ratio is moderate, as all discussion remains tightly scoped to throughput with little unrelated content, but the core topic diverges significantly from Open Space Agile.",
     "reasoning_summary": "This content discusses throughput in Agile, but never mentions Open Space Agile or its foundational principles. While the audience may overlap, the main focus is misaligned; it doesn’t explore Open Space practices or values, resulting in a very low confidence for this category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Throughput",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:50",
+    "ai_confidence": 26.73,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.0,
+    "ai_depth": 2.2,
+    "ai_intent": 2.9,
+    "ai_audience": 6.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content focuses on defining 'Throughput' as a delivery metric related to workflow and system performance, but does not mention or explore the Definition of Workflow itself. While it references concepts like WIP and workflow changes, these are discussed in the context of measuring flow, not explicitly articulating agreements or explicit workflow policies. The intent centers on metric explanation rather than workflow definition. The content aligns with an agile audience, is targeted, but only tangentially relates to the category.",
+    "reasoning_summary": "This content gives an overview of throughput as a flow metric, not the Definition of Workflow. It only briefly relates to workflow by mentioning how throughput analysis supports workflow changes and improvements, but does not directly address or define workflow itself in the Kanban or agile sense.",
+    "level": "Ignored"
   }
 }

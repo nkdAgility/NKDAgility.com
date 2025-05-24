@@ -28,10 +28,10 @@ Instructions: |-
   - Content that focuses on frameworks, methods, or philosophical discussions not linked to actionable techniques.
 headline:
   cards: []
-  title: Practice
-  subtitle: Repeatable techniques that enhance collaboration, performance, and agility in team environments.
-  content: Practices are actionable, repeatable techniques or routines that help teams consistently improve their performance, collaboration, and value delivery. Posts should focus on specific techniques, habitual actions, and strategies that drive team effectiveness and organisational success.
-  updated: 2025-04-09T14:00:00
+  title: 'Practice: Embedding Habits That Drive Continuous Team Improvement'
+  subtitle: Consistent, repeatable team habits and routines that foster collaboration, continuous improvement, and sustainable value delivery.
+  content: Practices are consistent, repeatable team behaviours and routines designed to enhance collaboration, workflow efficiency, continuous improvement, and value delivery. Covering techniques such as Pair Programming, Continuous Deployment, Retrospectives, workflow visualisation, and feedback-driven improvement, they embed adaptive habits that enable teams to respond effectively to complexity and evolving organisational demands.
+  updated: 2025-05-23T23:20:12Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

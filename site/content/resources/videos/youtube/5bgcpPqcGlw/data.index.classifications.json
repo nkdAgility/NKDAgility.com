@@ -1899,5 +1899,24 @@
     "reasoning": "The content focuses on tangible SRE and DevOps practices, culture, and tools at Azure DevOps. It does not mention or discuss 'first principles' as foundational, immutable truths. Most arguments revolve around recommended practices, process improvements, and lessons learned, not identification or application of first principles. No explicit or implicit framing relates to non-negotiable foundations for Lean, Agile, Scrum, or DevOps. Audience and signal-to-noise are relatively high due to relevant coverage for practitioners, but discussion is advisory, context-dependent, and contingent on the Azure DevOps context.",
     "reasoning_summary": "This piece shares proven reliability practices but never addresses first principles as foundational, immutable constraints. The focus is on success factors, lessons learned, and practical advice—not on identifying or applying first principles in Lean, Agile, or DevOps.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "5bgcpPqcGlw",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:41",
+    "ai_confidence": 15.34,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.8,
+    "ai_intent": 1.2,
+    "ai_audience": 7.5,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on site reliability, Azure DevOps practices, and building resilient software systems. While it discusses operational concepts such as automation, transparency, and continuous improvement, it does not explicitly mention or delve into the Definition of Workflow as per Kanban or agile frameworks. There are no references to the explicit agreements, WIP limits, entry/exit policies, or distinctions between Definition of Workflow (Kanban) vs. Definition of Done (Scrum). The alignment and depth relative to the required category are minimal, and direct mentions are absent. The audience (software engineering/DevOps practitioners) partially overlaps, and the content maintains a focused signal on reliability but remains off-topic for the specific category.",
+    "reasoning_summary": "This content targets software reliability and DevOps culture, not the Definition of Workflow. While continuous improvement and transparency are discussed, the core Kanban concept of explicit workflow policies is missing, making the material a poor fit for the category.",
+    "level": "Ignored"
   }
 }

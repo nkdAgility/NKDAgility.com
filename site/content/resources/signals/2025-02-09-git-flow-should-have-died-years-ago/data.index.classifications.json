@@ -3247,5 +3247,24 @@
     "reasoning": "The content critiques Git Flow as an outdated practice, recommending simpler workflows in support of continuous delivery—a core concern of engineering excellence. It aligns conceptually, addressing process improvement, team efficiency, and modern CI/CD. Explicit terminology like 'engineering excellence' is missing, and the discussion is more persuasive than in-depth or instructional, leading to minor deductions. The target audience is technical teams and practitioners, and the overall focus is clear and relevant, though tilted towards critique over analysis.",
     "reasoning_summary": "This piece strongly fits the Engineering Excellence category by highlighting best practices and advocating modern workflows in place of Git Flow. It's well-aligned and audience-appropriate, but lacks explicit category language and deep exploration, placing confidence firmly in the high, but not top, range.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "pAMm25X5CuE",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:14",
+    "ai_confidence": 13.47,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.5,
+    "ai_intent": 1.2,
+    "ai_audience": 5.0,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content critiques Git Flow as outdated and recommends alternatives such as GitHub Flow for modern software teams. It mentions 'workflows' in the context of version control branching strategies but does not discuss the Definition of Workflow as explicitly defined in Kanban or agile theory (e.g., explicit agreements, WIP limits, entry/exit policies). There is no reference to flow policies, Kanban concepts, or the particular notions outlined in the Definition of Workflow. Any alignment is superficial and only relates to replacing one version control process with another, which does not fit the classification criteria. Scores reflect minimal alignment and depth, with the highest score in audience because the target audience (software teams) is tangentially similar, but content focus and relevance are otherwise very low.",
+    "reasoning_summary": "This content focuses on criticizing Git Flow and recommending simpler branching models but does not address the Definition of Workflow as understood in Kanban or agile contexts. Its discussion of 'workflow' is unrelated to the specified category.",
+    "level": "Ignored"
   }
 }

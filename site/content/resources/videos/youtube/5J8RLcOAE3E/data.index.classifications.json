@@ -1943,5 +1943,24 @@
     "reasoning": "The content does not directly mention first principles or discuss their identification or application. Instead, it contrasts 'best practices' with context-driven and adaptive approaches in continuous delivery (CD). It argues that fixed 'best practices' don't exist in complex environments but does not anchor this view in foundational, immutable constraints or immutable truths that define system validity or non-negotiables. The argument is thoughtful and references established DevOps teams and philosophies (e.g., audience-based delivery, testing in production), but these are framed as effective or adaptive practices—never as irreducible truths or first principles as defined in Lean, Agile, Scrum, or DevOps. There is some philosophical discussion about adaptability and improvement, but it doesn't rise to the level of explicit first-principles reasoning, constraint, or foundational boundary-setting. The audience and focus are practitioners navigating CD in modern environments, with strong signal and relevance to their needs, but the core of the piece falls outside the explicit category definition.",
     "reasoning_summary": "This content explores adaptive delivery in complex tech environments, highlighting the absence of fixed best practices. While it’s aligned with practitioner-focused topics, it never identifies, applies, or explains first principles explicitly or as immutable foundations, so confidence in the 'First Principal' category is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "5J8RLcOAE3E",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:12",
+    "ai_confidence": 19.07,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.5,
+    "ai_intent": 3.1,
+    "ai_audience": 4.2,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content is centered around continuous delivery practices, challenging the notion of best practices in complex environments. While it discusses adaptive and evolving approaches—concepts philosophically compatible with Kanban and agile thinking—it does not mention or explicitly address the Definition of Workflow as a formal set of explicit policies or agreements regarding the flow of work. There is no discussion of entry criteria, WIP limits, or workflow visualisation as articulated in Kanban; the focus is on delivery strategies, feedback loops, and the philosophy of continuous improvement. The audience alignment is moderate (practitioners interested in improvement), but the signal-to-noise ratio is low for the requested category. No penalties were applied because there is no contradiction or outdated advice.",
+    "reasoning_summary": "The content explores adaptive delivery in complex systems but does not discuss or reference the Definition of Workflow per Kanban or agile frameworks. Its focus is on continuous delivery strategies and improvement, making it largely unrelated to the explicit category definition.",
+    "level": "Ignored"
   }
 }

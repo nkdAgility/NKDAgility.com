@@ -3247,5 +3247,24 @@
     "reasoning": "The content strongly emphasizes the importance of short feedback loops and building value-driven features, which is conceptually aligned with engineering excellence (e.g., continuous improvement, quality focus). However, it does not directly mention 'engineering excellence' or related terms, and does not explore technical practices like code reviews, CI/CD, or automation in detail. The target audience is clearly engineering practitioners, and the signal is mostly high. Due to its focus on process over specific engineering practices, depth and direct mentions are moderate.",
     "reasoning_summary": "This content aligns with engineering excellence by advocating for short feedback cycles and user-focused development. While it targets engineers and stresses quality, it doesn't detail technical practices or explicitly mention the category, making it moderately but not strongly confident for this classification.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "HvZvnbC68go",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:15",
+    "ai_confidence": 7.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 2.2,
+    "ai_signal": 2.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on the importance of shortening feedback loops to ensure teams build valuable features, referencing value delivery and waste. However, it does not explicitly mention or define the 'Definition of Workflow,' nor does it discuss policies, entry/exit criteria, WIP limits, or workflow transparency per Kanban or agile contexts. Its focus is on outcome validation, not the explicit agreements that govern workflow. Minimal if any conceptual alignment exists to the specific category, with only a tangential connection to process improvement goals.",
+    "reasoning_summary": "The content addresses value delivery and feedback loops but does not mention or explain the Definition of Workflow or related Kanban/agile workflow policies, making alignment only tangential.",
+    "level": "Ignored"
   }
 }

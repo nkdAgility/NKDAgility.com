@@ -1908,5 +1908,24 @@
     "reasoning": "The content focuses on a step-by-step workshop for facilitating Scrum Sprint Reviews. It discusses practical steps, facilitation tips, and reporting tactics, but never addresses or distinguishes 'first principles.' There is no explicit discussion of immutable, foundational constraints; instead, the content provides suggestions, process options, and facilitation ideas—emphasizing that it's a 'starting point' to be customized. While the target audience overlaps with what the category would expect (Scrum practitioners, facilitators), almost all concepts are presented as context-dependent advice rather than foundational truths. As such, it falls far outside the direct scope of 'First Principal,' with low scores except for audience and some signal—to-noise in terms of general Scrum relevance.",
     "reasoning_summary": "This content is a practical guide to running a Sprint Review in Scrum, but it doesn't discuss first principles or foundational constraints. Instead, it offers context-dependent tips and facilitation options, making it a poor fit for the 'First Principal' category despite moderate alignment with the intended audience.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "K4kkSAG3R7m",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:21",
+    "ai_confidence": 17.119,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.2,
+    "ai_intent": 1.8,
+    "ai_audience": 5.5,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content is a detailed recipe for facilitating a Sprint Review in Scrum. While it uses the word 'flow' in a general context and references Kanban metrics like Cycle Time and Throughput, it does not explicitly define or discuss Definition of Workflow as a set of explicit policies or agreements per Kanban. There's no articulation of entry/exit criteria, WIP limits, or a discussion of making the flow of work explicit, nor any comparison to Definition of Done. The central focus is operational facilitation, not process definition, and terminology around 'flow' is generic. The alignment and depth are low with only brief mentions of related Kanban practices. Audience partially overlaps, as Scrum teams may benefit from workflow visualization, but the central audience is Scrum event facilitators.",
+    "reasoning_summary": "This content describes how to facilitate a Sprint Review, with only incidental references to flow or Kanban metrics. It does not discuss the Definition of Workflow as a Kanban/agile policy or set of explicit agreements, so alignment with the category is minimal.",
+    "level": "Ignored"
   }
 }

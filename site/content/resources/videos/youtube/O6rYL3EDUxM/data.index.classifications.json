@@ -1917,5 +1917,24 @@
     "reasoning": "The content centers on detecting 'fake Agile' practices using the US DoD's six-question test, emphasizing key aspects of legitimate Agile practice. However, although it references core Agile principles (e.g., empowering teams, delivering working software, continuous improvement), it does not explicitly frame these as first principles or foundational, immutable constraints. The content mainly covers evaluative heuristics and practices to assess Agile maturity rather than an explicit identification, explanation, or application of first principles as strict definitions. The audience (practitioners/organizational leaders) is closely aligned, and the discussion is relevant to the general Lean-Agile domain, but lacks direct, in-depth focus on what constitutes formal first principles in product development. Therefore, confidence is moderate—relevant principles are discussed in spirit, but not as first principles per the strict definition.",
     "reasoning_summary": "While the article strongly advocates for authentic Agile practices and exposes superficial application, it does not directly engage with first principles as foundational, immutable concepts. Its focus is more on pragmatic self-assessment than on explicating or applying first principles in the strict sense.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "O6rYL3EDUxM",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:22",
+    "ai_confidence": 10.7,
+    "ai_mentions": 0.8,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.9,
+    "ai_intent": 1.6,
+    "ai_audience": 3.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content focuses on detecting superficial Agile practices using a set of diagnostic questions, largely based on the US Department of Defense's guide. While it discusses Agile maturity, continuous delivery, empowerment, and product vision, it makes no direct reference to the 'Definition of Workflow' as understood in Kanban, nor does it discuss explicit agreements, entry/exit policies, WIP limits, or any of the core policies or concepts tied to the classification definition. The main focus is on distinguishing true vs. fake Agile and providing broad improvement advice. Audience is aligned with practitioners interested in genuine Agile, so some tangential overlap exists, but there is no substantive discussion of workflow policy, visibility, or process policy-making per Kanban. Minimal signals of the target topic are detected, with no explicit or in-depth treatment.",
+    "reasoning_summary": "This content centers on identifying genuine Agile practices, not on defining or elaborating the Definition of Workflow as described in Kanban. While relevant to Agile practitioners, it does not address explicit workflow agreements, making only broad references to Agile maturity and improvement.",
+    "level": "Ignored"
   }
 }

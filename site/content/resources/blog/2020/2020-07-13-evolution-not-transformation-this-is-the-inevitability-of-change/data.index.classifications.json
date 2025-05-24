@@ -1925,5 +1925,24 @@
     "reasoning": "Direct mentions of first principles or any foundational, immutable constraints are nearly absent; the piece focuses on evolutionary change and critiques of transformation narratives. While it strongly challenges best practices and context-dependent fixes, it does not identify or explain first principles as defined, nor does it anchor its ideas explicitly to Lean/Agile/Scrum/DevOps first principles. Instead, it emphasizes adaptability, experimentation, and leadership, which are important themes but not treated as non-negotiable foundational truths. The discussion is thoughtful and addresses a modern, practitioner audience, with some overlap on adjacent themes (such as rejecting static frameworks in favor of continuous learning). Signal-to-noise is moderate due to some practical advice, but lacks the categorical focus, depth, and directness needed for high confidence in this classification. No penalties were applied as content is current and does not undermine the category.",
     "reasoning_summary": "While the article thoughtfully critiques transformation dogma in agile and stresses continual adaptation, it never directly discusses or applies first principles as foundational constraints. Its practical focus is aligned with the audience, but its lack of explicit first principle treatment results in low confidence for this category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "WvUOpSMqawD",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:35",
+    "ai_confidence": 16.87,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.5,
+    "ai_intent": 1.9,
+    "ai_audience": 5.3,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on the evolutionary nature of change in organizations and critiques static, prescriptive transformation models in favor of continuous adaptation. While it uses agile language and occasionally references process adaptation, it never explicitly discusses or defines the 'Definition of Workflow' in the Kanban or agile sense—such as entry criteria, WIP limits, or explicit workflow agreements/policies. The closest tie-in is the emphasis on continuous experimentation and adaptation of processes, but this remains high-level, lacking formal exploration of workflow policies or Kanban-specific practices. There are fleeting references to changing processes and feedback loops, but no substantive or direct discussion of dynamic workflow agreements, visualization, or policies that make work legible and manageable. Audience overlap is moderate (leaders and practitioners in agile contexts), and the signal is diluted with anecdotal and philosophical content not addressing the technical definition of workflow.",
+    "reasoning_summary": "This content discusses organizational change and learning in agile terms but does not address the Kanban-aligned Definition of Workflow, missing explicit discussion of workflow agreements, policies, entry/exit criteria, or WIP. Its relevance is tangential rather than direct.",
+    "level": "Ignored"
   }
 }

@@ -3247,5 +3247,24 @@
     "reasoning": "The content aligns strongly with Engineering Excellence by highlighting the risks and costs of unreleased features and advocating for regular software delivery—a practice core to CI/CD and modern engineering discipline. DORA metrics and the CHAOS Report are relevant references demonstrating focus on performance, risk reduction, and value delivery. The discussion encourages best practices and addresses engineering teams directly, but it does not explicitly name engineering excellence and only briefly references supporting principles, slightly limiting depth and direct mention scores.",
     "reasoning_summary": "This piece spotlights the importance of frequent delivery and real value in engineering, referencing DORA metrics and industry reports. It fits the Engineering Excellence category well by promoting best practices, though it doesn't use the terminology directly or deeply cover all facets.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "PNGuJocqSoD",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:20",
+    "ai_confidence": 16.8,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.5,
+    "ai_depth": 1.9,
+    "ai_intent": 2.7,
+    "ai_audience": 5.2,
+    "ai_signal": 3.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on the importance of releasing features regularly and critiques the fallacy that work in progress equals delivered value. It references DORA metrics and the CHAOS Report to highlight hidden costs of unreleased work. However, there are no explicit mentions of the Definition of Workflow, nor any discussion of entry/exit policies, workflow agreements, or Kanban-specific concepts. The alignment is weak, as the main theme is about delivery frequency and value realization, not the explicit modeling of workflow. The intent is only tangentially related, with no substantive depth on workflow definitions, agreements, or policies. The audience (software teams, practitioners) loosely matches, but most of the content is outside the category’s defined scope.",
+    "reasoning_summary": "This content emphasizes the risks of unreleased work and the value of frequent delivery, but it does not explicitly or substantively address the Definition of Workflow or its core elements in a Kanban or agile context.",
+    "level": "Ignored"
   }
 }

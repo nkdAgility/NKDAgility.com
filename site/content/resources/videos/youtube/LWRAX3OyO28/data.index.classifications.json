@@ -1934,5 +1934,24 @@
     "reasoning": "The content focuses on continuous delivery and automation within DevOps, emphasizing reliability, risk mitigation, and rapid feedback. However, it never explicitly discusses or identifies first principles, nor does it distinguish between first principles and derived principles or heuristics. The discussion is practical and specific, centered around best practices (automation, feedback loops), evidence (Azure DevOps, Knight Capital), and results. While it is relevant to an audience interested in professional software delivery, the link to foundational, immutable first principles is absent. No penalties applied as the material is current, serious, and not contradictory, but its coverage does not satisfy the category’s strict definition.",
     "reasoning_summary": "While informative about automation and continuous delivery benefits, this content doesn't explicitly define or discuss first principles. It focuses on practices, real-world examples, and outcomes rather than foundational, immutable constraints, so only weakly fits the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "LWRAX3OyO28",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:13",
+    "ai_confidence": 14.512,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 2.1,
+    "ai_audience": 4.3,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content does not directly mention, define, or explore the Definition of Workflow according to Kanban or related agile contexts. Its primary focus is on automation as a driver for continuous delivery—particularly improved reliability, reduced risk, and faster deployments. There is no coverage of explicit workflow agreements, entry/exit criteria, WIP limits, or comparison with Definition of Done. While the intended audience overlaps (agile/DevOps practitioners), the content is only tangentially related to workflow concepts and never references the category or its principles, resulting in very low scores across the most weighted dimensions.",
+    "reasoning_summary": "The content focuses on automation and continuous delivery, not the Definition of Workflow. It doesn't reference workflow agreements or Kanban concepts, so its relevance to the category is very low despite a partially aligned audience.",
+    "level": "Ignored"
   }
 }

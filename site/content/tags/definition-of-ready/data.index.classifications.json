@@ -3020,5 +3020,24 @@
     "reasoning": "The content critiques the Definition of Ready (DoR), emphasizing its subjectivity and dangers of confusing it with the immutable Definition of Done (DoD). While the argument touches on distinctions between foundational constraints (DoD) and flexible practices (DoR), its main focus is the DoR as an artifact and advisory heuristics such as INVEST. There is no direct discussion or identification of first principles; foundational aspects like the DoD are referenced only as context. The content does not explicitly anchor itself to Lean, Agile, or Scrum first principles nor engage in a deep treatment of immutable truths. It is aimed at practitioners, offering rules of thumb and warning against misconstruing advisory heuristics as non-negotiable principles. Signal is high for Scrum practitioners, but the link to first principles is indirect, sparse, and not the purpose of the content.",
     "reasoning_summary": "This content primarily critiques the Definition of Ready and explains its limitations, but does not directly discuss or apply first principles. Its main focus is on best practices and advisory heuristics, resulting in a low confidence score for this category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Definition of Ready",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:46",
+    "ai_confidence": 7.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content thoroughly discusses the Definition of Ready (DoR), its pitfalls, and alternatives for Scrum teams. There is no explicit mention or substantive discussion of Definition of Workflow. It does tangentially reference entry criteria for sprint backlog items, but without connecting to Kanban or agile concepts surrounding workflow policies, visualization, or team agreements governing flow. The main intent, terminology, and conceptual focus all remain squarely on readiness, not workflow.",
+    "reasoning_summary": "Content focuses specifically on the Definition of Ready, not on workflow policies or the Definition of Workflow. There is minimal overlap, as entry criteria are discussed but not in the Kanban or agile flow context required for this category.",
+    "level": "Ignored"
   }
 }

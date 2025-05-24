@@ -1905,5 +1905,24 @@
     "reasoning": "The content is a practical guide to customizing Azure DevOps for Scrum, focusing on implementation tips and tool configuration. Although it briefly notes that certain metrics and practices are optional in Scrum (indirectly touching on what is and isn't part of Scrum), it does not engage in identifying, explaining, or applying first principles as foundational, immutable constraints. There is no explicit exploration of the concept of first principles, no reference to them as non-negotiable, nor any substantial conceptual depth in this area. The main intent is to help practitioners adapt tools, which is outside the strict First Principal category. Audience fit and relevance are moderately strong for Scrum practitioners, but only a small portion is even tangential to the evaluation of first principles.",
     "reasoning_summary": "This content is focused on practical setup and adaptation of Azure DevOps for Scrum, not on defining or applying first principles. While it references some core Scrum ideas, it doesn't substantially address the immutable foundations that the First Principal category requires.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "5IBKxYLA494",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:19",
+    "ai_confidence": 22.775,
+    "ai_mentions": 1.6,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.8,
+    "ai_intent": 3.5,
+    "ai_audience": 7.1,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "Direct mention of the 'Definition of Workflow,' as articulated in Kanban or agile theory, is absent. The content discusses visualizing workflow in Azure DevOps and managing backlogs using Scrum, but it does not address explicit workflow policies, entry/exit criteria, or WIP limits as defined by the classification. While flow-based practices and making work visible are mentioned, the focus is on configuring Azure DevOps for Scrum teams, not on making dynamic agreements or workflow definitions explicit. Less than 30% of the content is even indirectly relevant to the core category, as the bulk centers on tool configuration and Scrum ceremonies.",
+    "reasoning_summary": "The content provides practical guidance on using Azure DevOps with Scrum, focusing on boards, sprints, and backlog configuration. It does not explicitly discuss or define the Definition of Workflow per Kanban or agile theory. Relevance to the assigned category is minimal and mostly indirect.",
+    "level": "Ignored"
   }
 }

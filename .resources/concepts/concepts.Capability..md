@@ -1,12 +1,13 @@
 ---
 title: Capability
-abstract: Capability refers to a persistent competence that enables teams or organisations to deliver value in a predictable, sustainable, and adaptive manner. Unlike transient tools or one-off techniques, capabilities are cultivated over time and become embedded in organisational culture and processes. They are crucial for fostering an environment where teams can effectively respond to changing demands, leveraging collective skills and knowledge to ensure value delivery aligns with strategic objectives. The development of capabilities involves a commitment to learning and collaboration, enhancing individual competencies while building cohesive team dynamics essential for high performance. As teams grow in their capabilities, they become adept at proactively identifying and addressing issues, leading to improved outcomes and reduced risk. Capabilities also facilitate alignment across various functions within an organisation, serving as a common language that bridges gaps between teams, which is particularly important in agile and DevOps environments. They are dynamic, evolving through feedback loops that inform future practices, and are actionable and measurable, allowing organisations to track progress and make informed development decisions. Ultimately, investing in capabilities enhances agility, resilience, and the ability to deliver consistent value, positioning organisations to thrive in an ever-changing landscape and enabling teams to navigate complexity and uncertainty with confidence.
+description: A Capability is a persistent, cross-cutting competence that enables teams or organisations to deliver value predictably, sustainably, and adaptively. Capabilities are not one-off techniques or transient tools; they are cultivated over time and embedded into the way of working.
 ClassificationType: concepts
+trustpilot: false
+abstract: Capability refers to a persistent competence that enables teams or organisations to deliver value in a predictable, sustainable, and adaptive manner. Unlike transient tools or one-off techniques, capabilities are cultivated over time and become embedded in organisational culture and processes. They are crucial for fostering an environment where teams can effectively respond to changing demands, leveraging collective skills and knowledge to ensure value delivery aligns with strategic objectives. The development of capabilities involves a commitment to learning and collaboration, enhancing individual competencies while building cohesive team dynamics essential for high performance. As teams grow in their capabilities, they become adept at proactively identifying and addressing issues, leading to improved outcomes and reduced risk. Capabilities also facilitate alignment across various functions within an organisation, serving as a common language that bridges gaps between teams, which is particularly important in agile and DevOps environments. They are dynamic, evolving through feedback loops that inform future practices, and are actionable and measurable, allowing organisations to track progress and make informed development decisions. Ultimately, investing in capabilities enhances agility, resilience, and the ability to deliver consistent value, positioning organisations to thrive in an ever-changing landscape and enabling teams to navigate complexity and uncertainty with confidence.
 ClassificationContentOrigin: AI
 date: 2025-04-09T14:00:00
 weight: 345
-trustpilot: false
-description: A Capability is a persistent, cross-cutting competence that enables teams or organisations to deliver value predictably, sustainably, and adaptively. Capabilities are not one-off techniques or transient tools; they are cultivated over time and embedded into the way of working.
+icon: fa-chart-line
 Instructions: |-
   **Use this category only for discussions on Capability.**  
   The category of Capability encompasses the enduring competencies that empower teams and organisations to deliver value in a predictable, sustainable, and adaptive manner. Capabilities are not merely transient tools or techniques; they are cultivated over time and integrated into the organisational culture and processes.
@@ -27,10 +28,10 @@ Instructions: |-
   - Descriptions of isolated practices that lack cross-cutting, enabling impact.
 headline:
   cards: []
-  title: Capability
-  subtitle: Empowering teams with enduring skills to deliver consistent value through adaptive and sustainable practices.
-  content: A Capability embodies the essential skills and knowledge that empower teams to consistently deliver value while adapting to changing circumstances. It encompasses practices related to workflow optimisation, continuous improvement, and effective collaboration, fostering a culture of learning and resilience within organisations.
-  updated: 2025-04-09T11:20:55Z
+  title: 'Capability: Building Adaptive Competence for Sustainable Value Delivery'
+  subtitle: Building persistent competencies that enable teams and organisations to deliver predictable, sustainable value and confidently adapt to evolving challenges.
+  content: Capability represents enduring organisational competencies that enable teams to consistently deliver value, adapt effectively to change, and sustain continuous improvement. It encompasses systemic development of skills, collaborative learning, feedback-driven evolution, alignment across functions, and measurable outcomes, fostering resilience and responsiveness in complex, uncertain environments.
+  updated: 2025-05-23T23:19:11Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

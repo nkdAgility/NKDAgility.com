@@ -26,10 +26,10 @@ Instructions: |-
   - Content focused solely on operational tactics without strategic context.
 headline:
   cards: []
-  title: Strategic Goals
-  subtitle: Aligning long-term objectives with organisational adaptability and market positioning for sustained success and growth.
-  content: Establishing long-term objectives that enhance organisational flexibility and market responsiveness. Posts should explore frameworks for prioritising initiatives, measuring progress, and adapting strategies based on empirical evidence, while considering the complexities of team dynamics and external environments.
-  updated: 2025-02-13T12:02:09Z
+  title: 'Strategic Goals: Aligning Teams for Sustainable Agile Success'
+  subtitle: Long-term objectives that align teams, guide decision-making, foster accountability, and enable sustainable value delivery in dynamic environments.
+  content: Strategic goals establish clear, long-term organisational objectives aligned with vision and mission, guiding teams toward consistent value delivery. They inform decision-making, prioritisation, and adaptation to market dynamics, fostering transparency, accountability, cross-functional collaboration, and organisational resilience, enabling proactive responses to complexity and continuous improvement in rapidly evolving environments.
+  updated: 2025-05-23T23:29:30Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

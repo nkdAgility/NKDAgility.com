@@ -3247,5 +3247,24 @@
     "reasoning": "The content critiques superficial disaster recovery practices, emphasizing the need for real, tested resilience—a strong engineering value. While 'engineering excellence' isn’t named directly, it conceptually aligns with quality assurance, systems thinking, and learning from failure. Examples highlight dependency awareness and end-to-end validation, core to high engineering standards. However, the discussion is indirect, focused through the lens of resilience rather than explicit engineering process improvement, thus limiting directness and depth. The narrative targets practitioners, using personal experience to illustrate practical lessons. Signal is mostly high, with brief moments of storytelling that support the main theme. No penalties apply as all examples and criticisms support the pursuit of engineering excellence.",
     "reasoning_summary": "This content strongly emphasizes real-world validation and learning from failure in disaster recovery, key principles in engineering excellence. Though not explicit, the critique aligns closely with best practices and quality standards expected from top engineering teams.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "jgAmhaBbUlm",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:14",
+    "ai_confidence": 3.6,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 3.2,
+    "ai_audience": 6.1,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content focuses on the pitfalls of disaster recovery planning and the importance of validating real system resilience. There is no explicit discussion or reference to the Definition of Workflow as outlined in Kanban or Agile methodologies. While it briefly hints at process failures (box-ticking, lack of validation), these are generic observations about procedural oversight, not about explicit workflow agreements, flow policies, or Kanban concepts. No entry/exit criteria, WIP limits, or explicit process visualization are mentioned. The audience—technical or operations professionals—broadly overlaps with those interested in workflow, but the content's main intent and central themes do not align with, or explore, the Definition of Workflow.",
+    "reasoning_summary": "This content centers on disaster recovery failures and the illusion of resilience. It does not address explicit workflow policies or Kanban-related definitions, making its fit with the 'Definition of Workflow' category minimal.",
+    "level": "Ignored"
   }
 }

@@ -1890,5 +1890,24 @@
     "reasoning": "The content focuses on the significance of DevOps in software engineering but does not reference or discuss first principles. There is no attempt to define, identify, or apply first principles as foundational, immutable constraints. Instead, it describes DevOps as a critical practice and promotes related courses, with conceptual focus on practice integration, not on underlying first principles. Thus, scores are low for mentions, alignment, and depth, while audience alignment is moderately higher due to targeting relevant practitioners.",
     "reasoning_summary": "This content promotes DevOps as a key practice but never identifies or applies first principles. It stays surface-level, lacking foundational discussion or explicit reference to first principles, so overall confidence for this category is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "2AJ2JHdMRCc",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:31",
+    "ai_confidence": 14.35,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 2.2,
+    "ai_audience": 4.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content centers on the importance of DevOps in software engineering, emphasizing continuous delivery and the bridging of development and operations. While it references concepts like agile and Scrum, at no point does it mention, allude to, or explicitly discuss the Definition of Workflow in Kanban or agile contexts. The primary intent is to advocate for DevOps practices in general, not to define or explore explicit workflow agreements, policies, entry/exit criteria, or WIP limits. It is not targeted at teams specifically seeking guidance on articulating workflow definitions; rather, it is a promotional explainer for DevOps. Relevant audience overlap exists (agile/technical practitioners), but the signal-to-noise ratio is low for the target category due to lack of detail and focus on the actual definition or operationalization of workflow.",
+    "reasoning_summary": "This content is about DevOps benefits and software engineering practices. It does not discuss workflow definitions, agreements, or related policies in Kanban/agile contexts. There is minimal to no alignment with the Definition of Workflow category.",
+    "level": "Ignored"
   }
 }

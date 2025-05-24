@@ -3247,5 +3247,24 @@
     "reasoning": "The content addresses the importance of a consistent Definition of Done (DoD) in maintaining quality and predictability—core concerns of engineering excellence. While 'engineering excellence' is not mentioned verbatim, the focus on enforceable standards, continuous improvement, and delivery reliability fits closely with software craftsmanship and best practices. The discussion is focused and relevant for engineering teams, but the brevity limits depth, and the audience could be slightly broader. No penalties were applied as content is timely, supportive, and fits the category's main concerns.",
     "reasoning_summary": "This content closely fits Engineering Excellence by emphasizing that consistent, enforced standards like a stable DoD are essential for team quality and predictable delivery. Its focus on continuous improvement and craftsmanship aligns it well with best practices in software development.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "lPs2C5FQ5cR",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:14",
+    "ai_confidence": 8.7,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 0.8,
+    "ai_audience": 2.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 0.7,
+    "ai_penalty_details": "alignment (-0.5): Content focuses on Definition of Done, not Definition of Workflow. intent (-0.2): Slightly misaligned with category purpose.",
+    "final_score": 9.0,
+    "reasoning": "The content is centered on the Definition of Done (DoD), not the Definition of Workflow. It discusses issues related to frequently changing the DoD, its impact on quality and predictability, and enforces the need for consistency in DoD. There are no mentions—direct or indirect—of the Definition of Workflow, Kanban, or related concepts such as WIP limits, entry/exit criteria for workflow, or policies governing the flow of work. Instead, the emphasis is on Definition of Done, a Scrum concept, which is specifically excluded from the 'Definition of Workflow' category. Minimal audience overlap as both may be agile practitioners, but content is off-topic for category. A minor penalty was applied to alignment (-0.5) for the clear content/category mismatch, and an intent penalty (-0.2) since the focus is tangential—not directly about workflow definition.",
+    "reasoning_summary": "This content focuses on Definition of Done, not Definition of Workflow. There are no references to Kanban workflow policies, entry/exit criteria, or explicit workflow agreements. The subject falls outside the stated scope for the category and only minimally overlaps with relevant audiences.",
+    "level": "Ignored"
   }
 }

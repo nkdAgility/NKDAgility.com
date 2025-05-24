@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** unrelated content such as technical discussions on software development practices, specific coding techniques, or tools that do not directly relate to the organisational change process. Misinterpretations of the core classification, such as conflating organisational change with mere project management or operational efficiency without a focus on agility, should also be avoided.
 headline:
   cards: []
-  title: Organisational Change
-  subtitle: Transforming structures and processes to enhance adaptability and foster resilience in dynamic environments.
-  content: Facilitating transformation initiatives that enhance adaptability and resilience within organisations. Posts should explore frameworks for continuous improvement, the role of team dynamics, the impact of leadership on change, and strategies for managing complexity in evolving environments.
-  updated: 2025-02-13T12:03:39Z
+  title: 'Organisational Change: Embedding Agility for Sustainable Adaptation'
+  subtitle: Transforming structures, culture, and processes to build resilience, responsiveness, and sustainable value delivery in complex, evolving environments.
+  content: Organisational Change encompasses the intentional transformation of structures, processes, culture, and leadership behaviours to improve responsiveness, adaptability, and resilience. It addresses complexity, continuous improvement, evidence-based decision-making, cultural evolution, leadership engagement, and systemic thinking, enabling organisations to sustainably deliver customer value amid evolving market conditions and technological advancements.
+  updated: 2025-05-23T23:30:26Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

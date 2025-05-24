@@ -1911,5 +1911,24 @@
     "reasoning": "The Scrum Guide outlines immutable elements and rules central to Scrum, such as empiricism and lean thinking, which are foundational ideas. However, it does not explicitly distinguish 'first principles' as defined by the category. The Guide frequently references non-negotiable rules and foundational concepts, but also mixes derived practices, values, and context-specific advice (e.g., team sizes, event cadences, or values like courage and respect). The depth of explanation for concepts like empiricism and adherence to framework rules somewhat aligns to first principles, but statements rarely mark them as irreducible or immutable truths in the explicit manner required. The guide's primary audience and intent are a reasonable match, and much of the document is focused and relevant. No penalties were warranted as the content is current and not undermining first principles. However, the lack of explicit framing, distinction between first and derived principles, and overall focus gives only partial alignment, resulting in a moderate score.",
     "reasoning_summary": "The Scrum Guide touches on several foundational, non-negotiable Scrum rules and principles, partially aligning with the 'First Principal' category. However, it does not clearly distinguish these as first principles, nor does it deeply engage with their identification or application as immutable truths. Thus, confidence is only moderate for this classification.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "59gcHh1fYtC",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:18",
+    "ai_confidence": 18.3,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.4,
+    "ai_depth": 2.1,
+    "ai_intent": 2.5,
+    "ai_audience": 5.8,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The Scrum Guide focuses on the definition, purpose, roles, and events within Scrum. While it thoroughly discusses how work is selected, managed, inspected, and adapted, it does so from a Scrum framework perspective, without explicitly referencing or aligning with the Kanban-centric Definition of Workflow as a set of explicit, dynamic workflow agreements or policies. There is no meaningful exploration of workflow entry/exit policies, WIP limits, or Kanban's distinction between Definition of Workflow and Definition of Done. The Scrum Guide only occasionally brushes against related ideas (e.g., transparency, the structure of Sprints), but its main alignment is with Definition of Done, Sprint events, and Scrum artefacts, not Definition of Workflow as per Kanban and related agile thinking.",
+    "reasoning_summary": "This content primarily details Scrum roles, events, and artefacts, focusing on Scrum’s unique structures rather than Kanban’s Definition of Workflow. It rarely touches on explicit workflow agreements or related policies, so its fit to the category is superficial and tangential.",
+    "level": "Ignored"
   }
 }

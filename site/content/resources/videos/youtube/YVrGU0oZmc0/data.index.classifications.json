@@ -1975,5 +1975,24 @@
     "reasoning": "The content focuses on feature flags as a tool enabling continuous delivery. It provides a practical, thorough process account and real-world example, particularly with Azure DevOps. However, there is no direct mention or even explicit discussion of foundational beliefs, ethos, or underlying system values. The narrative is geared toward practitioners and incremental improvement, not on the deeper, demonstrable convictions or the sustainable system leadership that the Ethos category demands. Ethos-related themes, like authentic agility or system-level accountability, are only implicitly present—mainly through the emphasis on feedback and incrementalism. The technical and practical focus, lack of direct alignment to system ethos, and absence of systemic values discussion justifies a low score.",
     "reasoning_summary": "The content thoroughly explains feature flags and continuous delivery but focuses on technical practice, not ethos. While it shows care for feedback and improvement, it doesn’t address foundational values or system beliefs central to the Ethos category. Thus, confidence is low for this match.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "YVrGU0oZmc0",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:15",
+    "ai_confidence": 19.83,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.6,
+    "ai_depth": 3.1,
+    "ai_intent": 2.4,
+    "ai_audience": 6.2,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content is focused on feature flags, incremental delivery, and continuous feedback in software development, primarily using Azure DevOps as a case study. While it discusses the process of releasing features in stages and using feedback to adapt, it does not explicitly reference or discuss the 'Definition of Workflow' as articulated in Kanban or related agile contexts. There is no mention of explicit agreements, policies, entry/exit criteria, WIP limits, or visualization of workflow. The theme is more about technical practices (feature flags) aiding continuous delivery, not about making workflow explicit or adaptable per Kanban's Definition of Workflow standards.",
+    "reasoning_summary": "This content explores incremental feature releases and feedback loops using feature flags, focusing on technical process improvements for continuous delivery. It does not address Kanban's Definition of Workflow or related policies, making the alignment to this category minimal.",
+    "level": "Ignored"
   }
 }

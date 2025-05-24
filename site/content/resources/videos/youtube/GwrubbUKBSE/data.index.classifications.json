@@ -1824,5 +1824,24 @@
     "reasoning": "The session is an open Q&A on topics like DevOps, Agile, Scrum, and Azure DevOps. There is no explicit mention or focus on first principles; it is a general expert forum. The intent, depth, and alignment with the 'First Principal' category are extremely weak, as content may only touch the surface of relevant topics but does not explore or identify first principles nor define them, making the fit minimal.",
     "reasoning_summary": "This open Q&A merely covers broad Agile and DevOps topics and never mentions or discusses first principles directly. Its intent and content do not align with the strict definition, resulting in very low confidence for classification in this category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "GwrubbUKBSE",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:37",
+    "ai_confidence": 3.717,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 2.7,
+    "ai_audience": 7.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content is an open-ended Q&A session focused broadly on DevOps, Agile, Scrum, and Azure DevOps. There is no explicit mention of 'Definition of Workflow', nor any suggestion that this concept is a primary topic. The description and provided content set no expectation that Definition of Workflow will be thoroughly discussed. However, as the session is open to Agile practitioners and DevOps professionals, there is minimal possible audience overlap. No evidence is given that the Definition of Workflow is directly addressed or explained, making overall fit with the category extremely low.",
+    "reasoning_summary": "This is a general Agile and DevOps Q&A session with no explicit mention or implied focus on the Definition of Workflow. Audience overlap exists, but relevance to the specified category is minimal.",
+    "level": "Ignored"
   }
 }

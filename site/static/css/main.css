@@ -44,8 +44,8 @@
 /* Dark Mode color variables */
 [data-theme="dark"] {
   /* Dark Mode - Brand Colors */
-  --dark-primary-color: #9b5baf;
-  --dark-primary-color-light: #b27fc2;
+  --dark-primary-color: #913fa9;
+  --dark-primary-color-light: #ac5ac6;
 
   --dark-secondary-color: #3399dd;
   --dark-secondary-color-light: #66b3ff;
@@ -86,8 +86,8 @@
 /* Apply based on system preference when no theme is set */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --primary-color: #662b75;
-    --primary-color-light: #8e53a1;
+    --primary-color: #a847c1;
+    --primary-color-light: #d17aed;
 
     --secondary-color: #2775aa;
     --secondary-color-light: #2f8fd0;

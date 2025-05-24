@@ -3007,5 +3007,43 @@
     "reasoning": "The content does not explicitly mention Internal Developer Platforms (IDPs) or delve into any of the definition, architecture, or tools specific to them. Instead, it broadly discusses asynchronous work as a methodology for distributed teams, with a general nod to productivity and Agile practices. While some ideas (like streamlining collaboration) might overlap with the benefits of IDPs, there are no direct references or detailed conceptual tie-ins. Audience targeting is also general, addressing product teams and organizations broadly. The focus is more on asynchronous workflows as a general practice, not the infrastructure or frameworks that IDPs represent.",
     "reasoning_summary": "This content centers on asynchronous collaboration for distributed teams, with no direct or substantive links to Internal Developer Platforms. While both support efficiency, there's minimal conceptual overlap and no explicit IDP focus.",
     "level": "Ignored"
+  },
+  "Agile Product Operating Model": {
+    "resourceId": "Asynchronous Development",
+    "category": "Agile Product Operating Model",
+    "calculated_at": "2025-05-23T22:06:52",
+    "ai_confidence": 59.38,
+    "ai_mentions": 1.2,
+    "ai_alignment": 6.7,
+    "ai_depth": 5.95,
+    "ai_intent": 7.05,
+    "ai_audience": 8.1,
+    "ai_signal": 6.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 59.0,
+    "reasoning": "The content explores asynchronous development in distributed teams and references alignment with Lean and Agile principles. It discusses themes like value delivery, efficiency, and culture of ownership, which are somewhat relevant to APOM. However, it neither explicitly mentions the Agile Product Operating Model nor delves into its core components (e.g., product vs. project ethos, EBM, specific APOM principles). The discussion remains generic, and the link to APOM is indirect, focusing instead on asynchronous work practices broadly applicable to agile environments. Audience targeting is fair, and the content is focused, but its conceptual and depth alignment with APOM is partial rather than direct.",
+    "reasoning_summary": "The content relates to agile and product development themes, touching on continuous delivery and collaboration. However, it does not explicitly reference or deeply discuss the Agile Product Operating Model, resulting in a moderate alignment and confidence score.",
+    "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Asynchronous Development",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:44",
+    "ai_confidence": 16.75,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 1.8,
+    "ai_audience": 4.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content exclusively discusses 'Asynchronous Development' as a collaboration model for distributed teams. While it references 'workflows' generally and mentions alignment with Lean and Agile principles, it does not specifically define or explore the 'Definition of Workflow' per Kanban, nor does it discuss entry/exit criteria, explicit policies, WIP limits, or Kanban-centric workflow definition topics. There is no explicit or implicit discussion directly about the category; all mentions are at best generic or tangential. Audience may overlap with product/Agile practitioners, but the content's primary focus is not on the Definition of Workflow.",
+    "reasoning_summary": "This content centers on working asynchronously within teams, not on defining workflow as an explicit, dynamic model per Kanban. It refers generally to agile workflows but does not align with the scope or key features of the 'Definition of Workflow' category.",
+    "level": "Ignored"
   }
 }

@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any content that does not directly relate to the interpretation of complexity, decision-making processes, or the application of sensemaking in organisational contexts. Avoid discussions that focus solely on technical implementations, project management without a sensemaking perspective, or unrelated theories that do not contribute to understanding complexity.
 headline:
   cards: []
-  title: Sensemaking
-  subtitle: Navigating complexity to empower informed decision-making and enhance organisational understanding.
-  content: Facilitating organisational clarity amidst uncertainty, this classification encompasses practices for interpreting complex environments, enhancing decision-making, and fostering adaptive strategies. Topics include systems thinking, stakeholder engagement, feedback loops, and the application of frameworks that support continuous learning and improvement in dynamic contexts.
-  updated: 2025-02-13T12:02:28Z
+  title: 'Sensemaking: Turning Complexity into Actionable Insights'
+  subtitle: Navigating complexity by interpreting data, recognising patterns, and deriving insights to enable informed decisions in uncertain and rapidly changing environments.
+  content: Sensemaking enables organisations to interpret complex situations, identify meaningful patterns, and derive actionable insights from data and experience. It enhances decision-making in uncertain, rapidly changing environments by improving understanding of customer needs, market dynamics, internal capabilities, complexity theory, and evidence-based management, fostering organisational adaptability, resilience, and continuous learning.
+  updated: 2025-05-23T23:29:24Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -25,6 +25,7 @@ categories:
 - Product Development
 - Kanban
 tags:
+- Definition of Workflow
 - Operational Practices
 - Continuous Improvement
 - Cycle Time

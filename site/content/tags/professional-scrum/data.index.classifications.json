@@ -2997,5 +2997,43 @@
     "reasoning": "The content focuses exclusively on the ethos, mindset, and roles within Professional Scrum, with no direct mention or discussion of Internal Developer Platforms (IDPs). There is no conceptual alignment—IDP concepts like automation, streamlining development, or platform architecture are not addressed. The only slight overlap is that both audiences could include software practitioners, but this is incidental. All dimensional scores are adjusted to reflect the near-absence of relevance.",
     "reasoning_summary": "This content is about Scrum values and practices, not Internal Developer Platforms. It lacks references and substantive discussion of IDPs, touching only slightly on audiences. Confidence for alignment with the IDP category is extremely low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "Professional Scrum",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:48",
+    "ai_confidence": 7.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 2.0,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content describes the Professional Scrum ethos, focusing on empiricism, accountability, continuous improvement, and professionalism. However, there is no mention or substantive discussion of the Definition of Workflow, neither explicitly nor implicitly. Terms like transparency, Done, and complexity are present, but these align more with Scrum philosophy than Kanban's Definition of Workflow or its specific policies regarding flow, entry/exit criteria, or WIP limits. The main ideas, intent, and audience do not substantially align with the Definition of Workflow as outlined, resulting in extremely low scores across all dimensions. No penalties were applicable as the content was current and respectful in tone.",
+    "reasoning_summary": "This content is an overview of Professional Scrum principles and mindset, not a discussion of the Definition of Workflow. It does not address workflow policies, entry/exit criteria, or related Kanban concepts, so its fit with the category is extremely low.",
+    "level": "Ignored"
+  },
+  "Ethos": {
+    "resourceId": "Professional Scrum",
+    "category": "Ethos",
+    "calculated_at": "2025-05-23T22:06:48",
+    "ai_confidence": 94.2,
+    "ai_mentions": 9.6,
+    "ai_alignment": 9.8,
+    "ai_depth": 9.2,
+    "ai_intent": 9.4,
+    "ai_audience": 9.1,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 94.0,
+    "reasoning": "The content directly frames 'Professional Scrum' as a 'disciplined ethos' underpinning Scrum, highlighting empiricism, professionalism, and accountability. The discussion goes beyond surface practices, consistently addressing ethos as the foundational driver of system behavior (e.g., 'transcends frameworks and rituals', 'philosophy demands...'). Explicit linkage between ethos and delivery outcomes is present (learning fast, delivering often, improving always). Examples like transparency not being a ceremony and Done not being a suggestion emphasize ethos over ritual. There are direct references, strong conceptual fit, and substantial depth. The content is clearly intended for practitioners, coaches, and system leaders—a close match with the category’s audience. Slight deduction in signal-to-noise as one paragraph is somewhat philosophical, but still relevant. No penalties applied; tone and context are contemporary and supportive.",
+    "reasoning_summary": "This content thoroughly explores Professional Scrum as the lived ethos driving delivery, accountability, and continuous improvement beyond mere framework adherence—matching the category’s core focus and audience.",
+    "level": "Primary"
   }
 }

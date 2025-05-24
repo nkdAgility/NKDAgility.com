@@ -3247,5 +3247,24 @@
     "reasoning": "The content critiques outdated software delivery practices and promotes modern alternatives integral to engineering excellence, such as continuous integration, feature flags, and production-like testing. It aligns strongly with best practices (alignment: 8.9) and provides meaningful depth (depth: 7.7) through practical recommendations. While the term 'engineering excellence' is not explicitly mentioned, the concepts directly support the category’s definition. The content targets engineers and practitioners, maintaining focus and relevance without off-topic digressions. No penalties were required as content is current and supports the category’s framing.",
     "reasoning_summary": "This content strongly aligns with Engineering Excellence, emphasizing modern practices like CI, feature flags, and quality-focused delivery. It provides practical depth and is geared toward technical audiences, although it lacks explicit category naming. Overall, it is highly relevant and on-point.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "xLVnF1dEnfO",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:15",
+    "ai_confidence": 28.7,
+    "ai_mentions": 1.8,
+    "ai_alignment": 3.7,
+    "ai_depth": 2.9,
+    "ai_intent": 3.1,
+    "ai_audience": 9.5,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content critiques branch promotion and promotes practices like continuous integration, feature flags, and deployment strategies. It mentions 'managing flow' but does not explicitly discuss the Definition of Workflow per Kanban or agile literature. There is no mention of explicit agreements, entry/exit criteria, WIP limits, or workflow visualization. The content is aimed at technical practitioners, keeping the audience and signal scores relatively high, but it lacks depth and alignment to the scope of the category.",
+    "reasoning_summary": "While the content briefly references 'managing flow,' it does not engage with the Definition of Workflow as defined in Kanban or agile contexts. Its focus is on code branching and deployment, making direct category alignment weak.",
+    "level": "Ignored"
   }
 }

@@ -3247,5 +3247,24 @@
     "reasoning": "The content does not explicitly mention engineering excellence or directly discuss software craftsmanship, coding standards, or other core engineering practices—its direct mentions score is very low. Conceptually, it touches on agility, feedback, and empowerment, but mostly in relation to teams acting on signals and fostering psychological safety, which are adjacent but not central to the 'Engineering Excellence' category. There's some alignment in the sense that openness to feedback and continuous improvement can relate to engineering quality, but there's no exploration of technical topics such as testing methodologies, metrics, automation, or CI/CD. The depth of discussion is moderate: while not superficial, it stays at a team culture and behavioral level without delving into engineering-specific standards or methods. The intent seems to encourage teams to act on feedback, which is tangentially relevant to engineering excellence but broader; the audience is likely technical teams and leaders, but content may also appeal to general teams using frameworks. Most of the messaging is focused (high signal-to-noise). No penalties were applied, as the content is neither outdated nor oppositional.",
     "reasoning_summary": "This content encourages acting on feedback and fostering team safety, which relates to continuous improvement, but it doesn't address core software engineering practices. It's somewhat relevant, yet lacks explicit or deep alignment with engineering excellence, leading to moderate confidence.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "sX2UVhPk6cL",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:12",
+    "ai_confidence": 13.475,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 2.2,
+    "ai_audience": 5.5,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content focuses on the importance of acting on feedback within Agile and Scrum frameworks and the challenges teams face in driving real change. There are no direct or indirect mentions of the Definition of Workflow or related Kanban/agile process concepts—such as explicit workflow policies, entry/exit states, or visualising the flow of work—nor is there a substantive discussion about making work visible or adapting via Definition of Workflow agreements. The audience is generally aligned with agile practitioners but the substance is about psychological safety, responding to metrics, and organizational culture rather than workflow design or explicit process models.",
+    "reasoning_summary": "This content discusses feedback and organizational learning in Agile/Scrum, not the Definition of Workflow or workflow policies. It does not reference workflows, Kanban, or explicit process agreements. Its main focus is fostering responsiveness and team empowerment, which is only tangentially related.",
+    "level": "Ignored"
   }
 }

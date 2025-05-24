@@ -26,10 +26,10 @@ Instructions: |-
   - Content that focuses on Agile principles without specific reference to the Daily Scrum.
 headline:
   cards: []
-  title: Daily Scrum
-  subtitle: Enhance team synergy and responsiveness through focused daily check-ins, ensuring alignment with objectives and adaptability to change.
-  content: Facilitate team cohesion and responsiveness through structured, time-boxed discussions. Emphasise progress evaluation, plan adjustments, and commitment to objectives, fostering a culture of transparency and continuous improvement. Explore topics such as team dynamics, goal alignment, and adaptive planning strategies.
-  updated: 2025-02-13T12:05:10Z
+  title: 'Daily Scrum: Accelerating Team Alignment and Adaptability'
+  subtitle: Short, focused meetings enabling team alignment, rapid feedback, continuous improvement, and effective collaboration toward shared goals.
+  content: A concise, structured meeting enabling teams to synchronise efforts, inspect progress towards shared goals, and swiftly address obstacles. Posts explore effective facilitation techniques, team collaboration, transparency, continuous improvement, and practical approaches to enhancing adaptability, responsiveness, and productivity within complex, rapidly changing environments.
+  updated: 2025-05-23T23:22:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

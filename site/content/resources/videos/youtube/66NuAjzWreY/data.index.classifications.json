@@ -1927,5 +1927,24 @@
     "reasoning": "The content centers on Evidence-Based Management in Agile, emphasizing data as a guide rather than a controller. It explores the effect of metrics on behavior and organizational outcomes, connecting these ideas to authentic value delivery and cultivating a balanced, principled management style. While the content touches on leadership and the systemic impact of beliefs (ethos-adjacent), it only indirectly addresses foundational convictions or deeply explores system-level ethos. The focus remains on practical EBM application versus deep analysis of the convictions underpinning Agile/DevOps systems. Audience and intent align with practitioners interested in sustained value but fall short of a direct, thorough ethos exploration.",
     "reasoning_summary": "This piece emphasizes using data to guide actions and create meaningful outcomes rather than letting metrics control teams, which aligns with ethos-related principles. However, it stops short of explicitly exploring the core beliefs and system-level convictions at the heart of Ethos, focusing instead on practical advice around evidence-based management.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "66NuAjzWreY",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:23",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 2.5,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is centered on Evidence-Based Management (EBM) and the use of data and metrics to inform team decision-making and value delivery in agile environments. While the content is relevant to agile audiences and discusses practices like outcome definition, metrics, and enabling improvement, it does NOT discuss the Definition of Workflow in the Kanban sense: there is no exploration of explicit workflow policies, entry/exit criteria, WIP limits, or the making of workflow agreements visible as articulated in Kanban theory. The sole mention relevant to workflow is tangential—discussing how metrics are selected or acted on, not how work flows through a value stream per Definition of Workflow. The focus remains on EBM and its mindset/practices, with no connection to Kanban's Definition of Workflow; therefore, all dimension scores are very low.",
+    "reasoning_summary": "This content focuses on evidence-based management and agile metrics, not the Definition of Workflow. There is little to no discussion of explicit workflow agreements, Kanban practices, or related policies. It does not align with the category's intent or scope.",
+    "level": "Ignored"
   }
 }

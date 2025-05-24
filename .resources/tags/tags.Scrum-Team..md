@@ -1,9 +1,9 @@
 ---
 title: Scrum Team
-abstract: A Scrum Team is a fundamental component of the Scrum framework, tasked with delivering value through iterative and incremental work. Comprising a Scrum Master, Product Owner, and Developers, the team operates collaboratively towards a unified Product Goal. Characterised by its self-managing and cross-functional nature, the Scrum Team eschews sub-teams and hierarchies, holding collective accountability for producing a usable Increment at the end of each Sprint. While individual members may have specific roles, the team's shared responsibility encompasses all facets of product delivery, including stakeholder engagement, development, validation, and release. This structure empowers the Scrum Team to autonomously manage its work, making it a vital element in agile methodologies, DevOps practices, and effective organisational design. Understanding the dynamics and responsibilities of the Scrum Team is crucial for navigating complex and adaptive environments, as it highlights the importance of collaboration and accountability in achieving successful product outcomes.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: A Scrum Team is a fundamental component of the Scrum framework, tasked with delivering value through iterative and incremental work. Comprising a Scrum Master, Product Owner, and Developers, the team operates collaboratively towards a unified Product Goal. Characterised by its self-managing and cross-functional nature, the Scrum Team eschews sub-teams and hierarchies, holding collective accountability for producing a usable Increment at the end of each Sprint. While individual members may have specific roles, the team's shared responsibility encompasses all facets of product delivery, including stakeholder engagement, development, validation, and release. This structure empowers the Scrum Team to autonomously manage its work, making it a vital element in agile methodologies, DevOps practices, and effective organisational design. Understanding the dynamics and responsibilities of the Scrum Team is crucial for navigating complex and adaptive environments, as it highlights the importance of collaboration and accountability in achieving successful product outcomes.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 575
 description: The Scrum Team is a defined accountability within Scrum, composed of a Scrum Master, Product Owner, and Developers working together toward a shared Product Goal.
@@ -26,14 +26,15 @@ Instructions: |-
   - Discussions unrelated to the formal accountability defined in the Scrum Guide
 headline:
   cards: []
-  title: Scrum Team
-  subtitle: Optimising teamwork dynamics for enhanced collaboration and performance in high-functioning project environments.
-  content: A Scrum Team is an accountability defined by the Scrum Guide, responsible for delivering value every Sprint. Posts under this tag focus on the structure, responsibility, and unique characteristics of Scrum Teams, including how they operate as a self-managing, cross-functional unit. Content should reinforce the distinction between the Scrum Team as an accountable entity and the practices or tools it may use.
-  updated: 2025-02-13T12:02:40Z
+  title: 'Scrum Team: Empowering Collective Accountability for Agile Delivery'
+  subtitle: Exploring team dynamics, accountabilities, and collaborative practices essential for delivering incremental value in complex, adaptive environments.
+  content: A Scrum Team is a self-managing, cross-functional group collectively accountable for delivering incremental product value each Sprint. Posts cover team structure, collaboration dynamics, collective accountability, stakeholder engagement, continuous improvement practices, and team effectiveness within complex, adaptive environments, drawing insights from Scrum, Kanban, complexity theory, and evidence-based management.
+  updated: 2025-05-23T23:31:23Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T13:16:05
+icon: fa-users
 concepts:
 - Accountability
 categories:

@@ -1,9 +1,9 @@
 ---
 title: Cycle Time
-abstract: Cycle time is a key performance metric that measures the total duration required to complete a unit of work, from initiation to delivery. It is widely used in agile and DevOps methodologies to enhance team efficiency and predictability in value delivery. By monitoring cycle time, organisations can pinpoint bottlenecks, streamline processes, and optimise workflows, which leads to quicker product and service delivery. Understanding cycle time empowers teams to make data-driven decisions, fostering a culture of continuous improvement and enabling better forecasting and planning based on historical data. This predictability is crucial for aligning stakeholder expectations and meeting customer needs promptly. Furthermore, cycle time promotes a holistic view of value delivery, encouraging teams to consider the entire workflow rather than focusing on individual tasks. By minimising cycle time, organisations can improve their responsiveness to market dynamics and customer feedback, thereby gaining a competitive edge. In an era where rapid and sustainable value delivery is essential, the emphasis on cycle time is vital for organisational success.
 ClassificationType: tags
-ClassificationContentOrigin: AI
 trustpilot: false
+abstract: Cycle time is a key performance metric that measures the total duration required to complete a unit of work, from initiation to delivery. It is widely used in agile and DevOps methodologies to enhance team efficiency and predictability in value delivery. By monitoring cycle time, organisations can pinpoint bottlenecks, streamline processes, and optimise workflows, which leads to quicker product and service delivery. Understanding cycle time empowers teams to make data-driven decisions, fostering a culture of continuous improvement and enabling better forecasting and planning based on historical data. This predictability is crucial for aligning stakeholder expectations and meeting customer needs promptly. Furthermore, cycle time promotes a holistic view of value delivery, encouraging teams to consider the entire workflow rather than focusing on individual tasks. By minimising cycle time, organisations can improve their responsiveness to market dynamics and customer feedback, thereby gaining a competitive edge. In an era where rapid and sustainable value delivery is essential, the emphasis on cycle time is vital for organisational success.
+ClassificationContentOrigin: AI
 date: 2025-02-11T10:17:24Z
 weight: 240
 description: Tracking the time taken to complete a unit of work from start to finish.
@@ -26,14 +26,15 @@ Instructions: |-
   - Content that focuses on unrelated metrics or concepts outside the scope of workflow efficiency.
 headline:
   cards: []
-  title: Cycle Time
-  subtitle: Measuring the duration from initiation to completion of tasks to enhance workflow efficiency and optimise performance.
-  content: Measuring the time taken to complete a work item from initiation to delivery, this classification aids in identifying bottlenecks and enhancing workflow. Relevant topics include task prioritisation, throughput analysis, process optimisation, and the impact of variability on performance, drawing insights from various methodologies and frameworks.
-  updated: 2025-02-13T12:05:12Z
+  title: 'Cycle Time: Accelerating Value Delivery Through Workflow Optimisation'
+  subtitle: Measuring and optimising workflow efficiency to accelerate value delivery, enhance predictability, and drive continuous improvement.
+  content: Cycle time measures the duration required to complete work from initiation to delivery, enabling teams to identify workflow bottlenecks, streamline processes, and enhance predictability. Posts explore measurement techniques, flow optimisation, forecasting accuracy, continuous improvement practices, and strategies for responsive, customer-focused delivery informed by empirical data and systems thinking.
+  updated: 2025-05-23T23:15:28Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
 BodyContentGenDate: 2025-04-09T17:06:33
+icon: fa-circle-notch
 concepts:
 - Practice
 categories:

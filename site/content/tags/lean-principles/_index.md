@@ -24,10 +24,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from the core principles of Lean, such as unrelated management theories, non-iterative processes, or practices that do not focus on waste reduction and value maximisation.
 headline:
   cards: []
-  title: Lean Principles
-  subtitle: Optimising processes to enhance value delivery through iterative learning and systematic improvement.
-  content: A systematic approach to enhancing value delivery by identifying and eliminating inefficiencies. Posts should explore iterative learning, process optimisation, flow management, and the integration of feedback loops, drawing on insights from systems thinking, complexity theory, and continuous improvement methodologies.
-  updated: 2025-02-13T12:04:10Z
+  title: 'Lean Principles: Eliminating Waste to Maximise Customer Value'
+  subtitle: Principles and practices for minimising waste, optimising value delivery, and fostering continuous improvement through experimentation and feedback loops.
+  content: Principles aimed at reducing waste, optimising workflows, and enhancing value delivery through continuous improvement, experimentation, and rapid feedback loops. Inspired by practices from Taiichi Ohno, Eliyahu Goldratt, and W. Edwards Deming, these principles promote organisational responsiveness, resource efficiency, and customer-centric product development, enabling sustainable growth and adaptability in complex environments.
+  updated: 2025-05-23T23:29:17Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

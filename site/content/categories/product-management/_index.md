@@ -25,10 +25,10 @@ Instructions: |-
   **Strictly exclude** discussions that do not directly relate to the strategic aspects of product management, such as technical implementation details, unrelated project management methodologies, or personal opinions that lack a foundation in established product management theories and practices.
 headline:
   cards: []
-  title: Product Management
-  subtitle: Navigating customer desires, business objectives, and technical realities for effective product strategy and delivery.
-  content: Integrating user insights, organisational objectives, and technical constraints to shape effective product strategies. Posts should explore prioritisation techniques, stakeholder engagement, iterative development, and performance measurement, while considering frameworks that enhance adaptability and responsiveness in complex environments.
-  updated: 2025-02-13T12:03:21Z
+  title: 'Product Management: Optimising Value Through Strategic Prioritisation'
+  subtitle: Strategic discipline focused on aligning customer needs, business goals, and technical feasibility to prioritise value, inform decisions, and drive outcomes.
+  content: A strategic discipline responsible for aligning customer needs, business objectives, and technical feasibility to maximise value delivery. It emphasises outcome-driven prioritisation, evidence-informed decision-making, technical empathy, stakeholder collaboration, and clear accountability boundaries, ensuring product decisions balance desirability, viability, and feasibility to achieve measurable business and user impact.
+  updated: 2025-05-23T23:28:31Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

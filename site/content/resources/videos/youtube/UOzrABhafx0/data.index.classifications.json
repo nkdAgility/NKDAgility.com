@@ -1868,5 +1868,24 @@
     "reasoning": "The content is a review and overview of a Scrum.org course focused on product backlog management. It describes practical techniques, importance, tips, and real-world experiences regarding backlog item creation, breakdown, prioritization, and alignment. However, nowhere does it identify, define, or explicitly ground its practices in first principles; instead, the content describes best practices, heuristics, and contextual advice. There are no direct mentions or discussions that distinguish between first principles and other types of principles, nor is there any framing around immutable constraints or foundational axioms underpinning Scrum or Agile practices. The audience is appropriate and the content is focused, but the lack of explicit connection to first principles means alignment and depth are minimal.",
     "reasoning_summary": "This content gives detailed practical advice for backlog management but does not discuss or reference first principles. It focuses on skills and tips, not immutable foundational constraints, making it a poor fit for the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "UOzrABhafx0",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:25",
+    "ai_confidence": 7.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.4,
+    "ai_intent": 0.6,
+    "ai_audience": 1.0,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is about product backlog management in Scrum, focusing on techniques for item creation, prioritization, and refinement to support agile teams. There are no direct or explicit references to the Definition of Workflow as it appears within Kanban, and none of the critical aspects—like entry/exit criteria, WIP limits, making the flow of work visible, or policy agreements defining a workflow—are addressed. The core theme is the organization and maintenance of the product backlog, not the explicit modeling or adaptation of a workflow according to Kanban or related agile theory. There is a single brief mention of Kanban (in passing), but workflow concepts are not explored or mentioned. The target audience overlaps (Scrum Masters, Product Owners), but the topic does not align. The content is focused and relevant for backlog management, but this is outside the scope of Definition of Workflow for classification purposes.",
+    "reasoning_summary": "This content focuses on Scrum backlog management and does not address the Definition of Workflow as a Kanban/agile concept. It lacks explicit discussion of workflow agreements, policies, or WIP limits, making it unrelated to the target category.",
+    "level": "Ignored"
   }
 }

@@ -1838,5 +1838,24 @@
     "reasoning": "The content offers practical advice about planning cloud migrations and mitigating risks of incomplete data transfers, with a focus on using Microsoft tools and structured approaches. Nowhere does it directly reference, define, or discuss first principles in Lean, Agile, Scrum, or DevOps. There are no explicit discussions about immutable constraints, foundational truths, or system-validating principles—instead, recommendations are context-dependent and advisory. While the audience may overlap slightly with the category and depth is provided in the context of migration practices, the main focus is pragmatic guidance, not the identification, explanation, or application of first principles as defined by the category. No penalties were applied as the content is current and non-critical.",
     "reasoning_summary": "This content focuses on practical migration steps and Microsoft tooling, not on identifying or applying foundational first principles in Lean, Agile, or DevOps. It provides context-dependent advice rather than discussing immutable constraints, so it does not fit the 'First Principal' category.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "x6a_BuQq580",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:19",
+    "ai_confidence": 7.32,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 1.2,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is focused entirely on best practices for cloud migration, particularly mitigating the risks of incomplete data transfers using Microsoft tools. It covers practical planning, understanding limitations, and process structure. However, there are no explicit references to the Definition of Workflow or its Kanban/agile meaning. Workflow as a concept is implied in the sense of steps taken for migration, but there is no discussion of explicit agreements, WIP limits, entry/exit policies, visibility, or adaptability of workflow as defined for this category. Any mention of process is generic and not rooted in Kanban or agile theory. The target audience is technical but not specifically Kanban or agile practitioners seeking guidance on managing explicit workflows.",
+    "reasoning_summary": "This content addresses cloud migration steps and planning but does not discuss the Definition of Workflow or related Kanban/agile concepts. Process is covered only generically, with no mention of explicit policies or agreements that define workflow as required by the category.",
+    "level": "Ignored"
   }
 }

@@ -26,10 +26,10 @@ Instructions: |-
   - Content that presents working software as a **principle**, rather than an output artifact.
 headline:
   cards: []
-  title: Working Software
-  subtitle: Delivering functional, high-quality software that meets customer needs and business objectives through iterative, incremental progress.
-  content: Working software is a critical artifact in Agile, Lean, and DevOps methodologies, representing the tangible output of a team’s efforts to deliver functional software that provides value to customers and stakeholders.
-  updated: 2025-04-09T12:55:25Z
+  title: 'Working Software: Delivering Tangible Value Through Iterative Increments'
+  subtitle: Delivering tangible, high-quality increments that demonstrate progress, enable rapid feedback, and continuously align teams with customer value and expectations.
+  content: Working Software represents tangible, functional deliverables produced iteratively by teams, demonstrating measurable progress, customer value, and readiness for release. It encompasses incremental delivery, continuous feedback, quality standards, adaptive planning, stakeholder alignment, and sustainable value creation, enabling transparency, responsiveness to evolving requirements, and ongoing improvement within complex environments.
+  updated: 2025-05-23T23:24:34Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

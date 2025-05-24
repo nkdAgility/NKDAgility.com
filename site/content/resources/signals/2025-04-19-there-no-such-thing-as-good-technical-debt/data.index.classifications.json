@@ -3247,5 +3247,24 @@
     "reasoning": "The content is tightly focused on the concept of technical debt—a core topic in engineering excellence. It explicitly names technical debt multiple times and illustrates the risks with concrete examples (unreadable systems, fragile architecture, lack of automation). The Microsoft TFS case highlights a real-world transformation achieved by improving engineering practices, including agile sprints and tackling legacy issues. The piece is directly addressed to engineering teams, urging improvement. There are no outdated practices or undermining tones; rather, it strongly advocates for high standards. While the discussion thoroughly covers technical debt, it touches on related themes (automation, transparency), though the overall depth is focused more on technical debt than the entire sweeping range of engineering excellence, resulting in a slightly less than perfect depth score.",
     "reasoning_summary": "This content is a focused, compelling call to address technical debt—central to engineering excellence. It uses real examples, advocates best practices, and speaks directly to engineering teams, strongly aligning with the category’s themes and intended audience.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "lLNjkL_zGQa",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:12",
+    "ai_confidence": 6.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.6,
+    "ai_intent": 0.8,
+    "ai_audience": 1.2,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses exclusively on the harms of technical debt, using examples and case studies to illustrate its negative impacts. It discusses technical debt's effects on productivity, system stability, and business risk but does not address, mention, or explore the Definition of Workflow or its core concepts within Kanban/agile practice. There are no explicit or implicit references to entry/exit criteria, WIP limits, workflow visualization, or policies governing the flow of work. Audience focus is on engineering teams, which somewhat aligns, but the messaging is off-category.",
+    "reasoning_summary": "The content is solely about technical debt and lacks any discussion of the Definition of Workflow or related Kanban/agile workflow concepts. It is off-topic for this category and only aligns very tangentially, resulting in very low confidence.",
+    "level": "Ignored"
   }
 }

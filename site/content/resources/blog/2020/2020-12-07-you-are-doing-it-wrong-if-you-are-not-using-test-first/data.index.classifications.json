@@ -1933,5 +1933,24 @@
     "reasoning": "The content focuses on the importance of 'test-first' practices and test-driven development as hallmarks of professional software engineering. However, it treats these as contextually beneficial best practices, not as immutable, foundational first principles in the Lean, Agile, Scrum, or DevOps sense. While professionalism is mentioned, there is no rigorous identification, discussion, or application of true first principles as defined in the classification criteria. The article is explanatory and supportive for modern practitioners, but its thematic alignment with 'first principles' is incidental and not direct. The terminology used ('test first principals') is likely a typographical error and does not equate to explicit reference to system-defining, non-negotiable principles. Audience and signal scores are relatively high due to relevance, but other scores remain low due to lack of substantive first principle content.",
     "reasoning_summary": "This article advocates for test-first and TDD practices as essential for software quality but does not identify or discuss them as foundational first principles. Its focus is on professional best practices, not on immutable constraints required for valid Lean-Agile, Scrum, or DevOps system design.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "yqHaiUlMNTP",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:43",
+    "ai_confidence": 6.32,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.55,
+    "ai_intent": 0.65,
+    "ai_audience": 2.0,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "There is no direct mention or discussion of the 'Definition of Workflow' as conceptualized in Kanban or Agile. Although there are a few generic mentions of workflow and some process-related observations (e.g., business/tester/coder handoff), the content focuses strictly on test-first practices, TDD, and related engineering disciplines. Entry/exit policies, WIP limits, or explicit agreements about how work flows are not addressed, nor is there any substantive treatment of Kanban or the improvement of flow from a workflow definition perspective. The closest the content comes is the sentence: 'Did you notice the problem with this workflow?', which is insufficient and not related to the explicit category definition. The main audience (software practitioners/engineers) is only partially aligned due to the tangential references, but the depth, alignment, and intent are all very low. No penalties were required, as the tone is not contradictory and there are no outdated practices referenced.",
+    "reasoning_summary": "This content is not about the Definition of Workflow. It focuses on test-first practices, TDD, and validation, with only minor, generic references to workflow. There is no substantive discussion of explicit workflow agreements, policies, or Kanban concepts. Classification as 'Definition of Workflow' is not supported.",
+    "level": "Ignored"
   }
 }

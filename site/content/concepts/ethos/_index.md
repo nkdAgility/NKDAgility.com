@@ -31,10 +31,10 @@ Instructions: |-
   - Any content not directly addressing the foundational, system-level convictions that drive sustainable delivery and authentic transformation
 headline:
   cards: []
-  title: 'Ethos: Foundations of Enduring Agile, Lean, and DevOps Systems'
-  subtitle: The disciplined foundation shaping leadership, coaching, and resilient systems—prioritising value, accountability, and evidence for lasting, meaningful change.
-  content: Ethos defines the underlying convictions shaping leadership, coaching, and system design. Posts explore value-driven delivery, accountability, evidence-based decision-making, resilience under pressure, and the disciplined stance that sustains meaningful change, drawing on influences from Scrum, Kanban, continuous delivery, systems thinking, and complexity theory.
-  updated: 2025-05-13T10:02:53Z
+  title: 'Ethos: Building Systems That Reflect What You Truly Value'
+  subtitle: The disciplined stance that shapes leadership, informs decisions, guides system evolution, and ensures meaningful outcomes over empty rituals.
+  content: Ethos defines the underlying beliefs and disciplined stance that shape leadership, coaching, decision-making, and system evolution. It emphasises value delivery, accountability, evidence-based decisions, and continuous improvement, ensuring practices remain purposeful and coherent rather than drifting into empty rituals, superficial compliance, or ineffective automation.
+  updated: 2025-05-23T23:25:25Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

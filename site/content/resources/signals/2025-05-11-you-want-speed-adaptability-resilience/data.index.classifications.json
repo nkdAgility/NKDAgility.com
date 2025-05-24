@@ -3247,5 +3247,24 @@
     "reasoning": "The content's primary focus is on organizational agility, highlighting team agency over strict process adoption, and critiques superficial use of engineering frameworks like Scrum, Kanban, and DevOps. While it references engineering practices (e.g., CI/CD through DevOps) and touches on delivery effectiveness, its real message is about structural empowerment rather than engineering process quality. The discussion is somewhat aligned, as it hints at the failure of technical strategies without team agency, but it doesn't directly explore engineering best practices, tooling, metrics, or quality assurance in depth. Mentions of relevant frameworks are brief and secondary. The audience could include engineers due to references, but the exploration remains surface-level regarding software craftsmanship.",
     "reasoning_summary": "This piece critiques using frameworks for agility without empowering teams, referencing DevOps and Kanban but focusing on agency, not engineering practices. It only lightly overlaps with Engineering Excellence, so confidence is low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "5UaIfaLclWB",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:07",
+    "ai_confidence": 14.25,
+    "ai_mentions": 1.5,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.0,
+    "ai_intent": 3.7,
+    "ai_audience": 2.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on the theme of agency being more critical than frameworks like Scrum, Kanban, or DevOps for achieving agility. While Kanban and DevOps are referenced, the discussion is meta-level—about team empowerment and accountability—not about the Definition of Workflow itself. There are no explicit or implicit discussions of entry/exit policies, WIP limits, or how workflow is visualized, governed, or improved. Its main intent is cultural/structural rather than process-based. The audience may overlap with practitioners interested in Kanban, but the content lacks substantive details on workflow definition, policies, or related concepts. There are no outdated or critical tones warranting penalty.",
+    "reasoning_summary": "This content focuses on team agency as the key to agility, referencing Kanban but never discussing workflow definition or related agreements. Its intent and detail do not align with the Definition of Workflow category, resulting in very low confidence for classification under this topic.",
+    "level": "Ignored"
   }
 }

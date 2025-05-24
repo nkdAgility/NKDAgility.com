@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** discussions that deviate from Lean principles, such as overly prescriptive methodologies that do not allow for flexibility, or topics that focus solely on traditional project management without considering Lean's emphasis on value and waste reduction.
 headline:
   cards: []
-  title: Lean Product Development
-  subtitle: Streamlining product creation by reducing inefficiencies and enhancing insights through iterative learning and adaptive processes.
-  content: Fostering efficient product development through iterative cycles that prioritise learning and adaptability. Emphasising the reduction of waste, teams should explore practices that enhance collaboration, visualise workflows, and leverage data-driven insights to inform decision-making, ultimately delivering value more effectively and responsively.
-  updated: 2025-02-13T12:04:07Z
+  title: 'Lean Product Development: Reducing Waste to Accelerate Value and Innovation'
+  subtitle: Streamlining product creation by reducing waste, accelerating learning, enabling rapid experimentation, and aligning innovation with customer value.
+  content: An approach centred on systematically reducing waste, accelerating learning, and enhancing value delivery throughout the product creation lifecycle. It emphasises iterative experimentation, rapid feedback integration, workflow visualisation, continuous improvement, and cross-functional collaboration, enabling teams to efficiently respond to market dynamics, validate assumptions, and deliver customer-focused, high-quality products.
+  updated: 2025-05-23T23:23:57Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

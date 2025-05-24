@@ -27,10 +27,10 @@ Instructions: |-
   - Content that focuses solely on traditional management theories without integrating complexity perspectives
 headline:
   cards: []
-  title: Complexity Thinking
-  subtitle: Navigating uncertainty and organisational dynamics through complexity science and emergent strategies for effective decision-making.
-  content: An exploration of organisational dynamics and decision-making through the lens of complexity science. This classification encompasses emergent strategies, nonlinear interactions, and frameworks such as Cynefin and Stacey, providing insights into navigating uncertainty and fostering adaptive practices in complex environments.
-  updated: 2025-02-13T11:59:47Z
+  title: 'Complexity Thinking: Navigating Uncertainty to Foster Adaptive Organisations'
+  subtitle: Navigating uncertainty, emergent behaviours, and systemic interdependencies to enhance adaptability, resilience, and sustainable value delivery.
+  content: An approach grounded in complexity science principles, addressing organisational challenges characterised by uncertainty, emergent behaviours, and nonlinear interactions. It emphasises systemic thinking, adaptability, experimentation, iterative feedback loops, and resilience, enabling teams to navigate unpredictability, improve decision-making, and sustainably deliver value within dynamic environments.
+  updated: 2025-05-23T23:29:02Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

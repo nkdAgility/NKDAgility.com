@@ -27,10 +27,10 @@ Instructions: |-
   **Strictly exclude** discussions that focus on unrelated methodologies, frameworks, or tools that do not align with the core principles of DevOps, such as specific project management techniques that do not incorporate the DevOps ethos.
 headline:
   cards: []
-  title: DevOps
-  subtitle: Integrating teams, processes, and technology to enhance collaboration, automate workflows, and ensure shared responsibility for continuous delivery.
-  content: A collaborative approach that integrates teams, processes, and technology to enhance workflow efficiency and accountability. Posts should explore automation, continuous delivery, performance metrics, and the impact of organisational culture on delivery outcomes, drawing insights from complexity theory and evidence-based management principles.
-  updated: 2025-03-20T11:04:41Z
+  title: 'DevOps: Uniting People, Processes, and Tech for Continuous Value Delivery'
+  subtitle: Uniting people, processes, and technology to accelerate continuous value delivery through collaboration, automation, and rapid feedback loops.
+  content: An approach centred on integrating people, processes, and technology to accelerate reliable software delivery through collaboration, automation, rapid feedback loops, and continuous improvement. Posts explore flow efficiency, observability, eliminating organisational silos, shared accountability, and embedding quality and security early, enabling organisations to deliver customer value faster and more confidently.
+  updated: 2025-05-23T23:15:21Z
 types:
 - Philosophy
 sitemap:

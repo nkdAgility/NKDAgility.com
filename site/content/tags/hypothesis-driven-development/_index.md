@@ -26,10 +26,10 @@ Instructions: |-
   - Misinterpretations of hypothesis-driven development that do not align with the principles of validated learning and experimentation.
 headline:
   cards: []
-  title: Hypothesis Driven Development
-  subtitle: Driving product decisions through experimentation and learning to enhance value delivery and adapt to changing needs.
-  content: Utilising structured experimentation and empirical evidence to inform product decisions enhances value delivery and responsiveness to user needs. Posts should explore methodologies for hypothesis formulation, testing, data analysis, and iterative learning, alongside frameworks that support decision-making in complex environments.
-  updated: 2025-02-13T12:04:21Z
+  title: 'Hypothesis Driven Development: Validating Ideas Through Rapid Experimentation'
+  subtitle: Systematic experimentation and validated learning to inform product decisions, reduce uncertainty, and continuously adapt based on real-world user insights.
+  content: A structured approach enabling teams to formulate assumptions about user behaviours and market conditions, then validate them through targeted experimentation and data-driven learning. Posts explore experimentation techniques, evidence-based decision-making, iterative product refinement, managing uncertainty, and fostering a culture of continuous learning and adaptation to deliver customer-centric outcomes.
+  updated: 2025-05-23T23:22:03Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -23,10 +23,10 @@ Instructions: |-
   Discussions that focus on unrelated concepts such as team dynamics without reference to competence, tools or processes that do not directly relate to the development of skills and capabilities, or any misinterpretations of competence that do not align with the principles of professionalism and quality delivery.
 headline:
   cards: []
-  title: Competence
-  subtitle: Building professional effectiveness through continuous skill development and mastery for quality outcomes and trust.
-  content: Competence encompasses the ongoing enhancement of skills and knowledge essential for delivering high-quality results. It involves critical thinking, effective decision-making, and the ability to adapt in complex environments. Posts should explore themes of continuous learning, mastery, and the practical application of expertise in professional settings.
-  updated: 2025-03-21T14:44:57Z
+  title: 'Competence: Building Mastery to Drive Agile and DevOps Excellence'
+  subtitle: Building the skills, knowledge, and judgement required for professional mastery, continuous improvement, and effective value delivery.
+  content: Competence encompasses the continuous development, disciplined practice, and effective application of essential skills, knowledge, and judgement. It ensures professional execution, informed decision-making, and reliable value delivery, underpinning quality outcomes, organisational adaptability, and meaningful progress across product development, organisational design, complexity management, and evidence-based approaches.
+  updated: 2025-05-23T23:30:35Z
 ResourceId: I3eGjbYOnzu
 aliases:
 - /resources/I3eGjbYOnzu

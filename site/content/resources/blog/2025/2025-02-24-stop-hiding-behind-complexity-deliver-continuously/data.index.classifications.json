@@ -2422,5 +2422,24 @@
     "reasoning": "The content discusses continuous delivery, the value of automation, and organisational resistance, but does not explicitly identify or explore first principles as defined. It focuses on actionable practices and mindset shifts rather than articulating foundational, irreducible truths fundamental to Lean, Agile, Scrum, or DevOps. Mentions of 'core' or 'ethos' reference central ideas, but not immutable constraints or first principles per se. The depth is moderate: while systemic challenges are described, they are not framed as first principles. No explicit reference or sustained examination of first principles occurs, and advice is context-dependent. Audience fit and focus are solid for technical practitioners, but discussion does not rise to foundational theory level as required by the category.",
     "reasoning_summary": "This article focuses on continuous delivery and overcoming organizational resistance, but discusses practices and beliefs rather than foundational first principles. Key ideas are practical and contextual, not articulated as non-negotiable constraints, so alignment with the 'First Principal' category is weak.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "7hEAycZIn8w",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:11",
+    "ai_confidence": 29.426,
+    "ai_mentions": 0.3,
+    "ai_alignment": 3.0,
+    "ai_depth": 2.8,
+    "ai_intent": 3.1,
+    "ai_audience": 8.0,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "No direct mention of 'Definition of Workflow', Kanban principles, or explicit workflow agreements as required by the category. The content centers on overcoming complexity to achieve continuous delivery via automation, trunk-based development, feature flags, and strong team/process culture, but not on the core Kanban/agile concept of making workflow policies explicit or visible. Metrics discussed relate to deployment speed and learning, not workflow entry/exit criteria or WIP limits. The audience is practitioners in DevOps/software, so alignment is fair, but content lacks any substantive discussion of policies or agreements that define, manage, or adapt the flow of work. Thus, despite clear relevance to process improvement, the strict definition and scope for 'Definition of Workflow' are not met.",
+    "reasoning_summary": "The content promotes continuous delivery through automation, feedback, and process improvement, targeting DevOps practitioners. However, it does not discuss or define workflow agreements, entry/exit criteria, or WIP limits as outlined in the Kanban-based 'Definition of Workflow' category.",
+    "level": "Ignored"
   }
 }

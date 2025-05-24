@@ -25,10 +25,10 @@ Instructions: |-
   - Content that confuses the **Product Owner's accountability** with other roles, such as the Scrum Master or Development Team.
 headline:
   cards: []
-  title: Product Owner
-  subtitle: Maximising product value through strategic prioritisation and ensuring alignment with stakeholders for optimal delivery.
-  content: The Product Owner is accountable for maximising product value by prioritising the product backlog, aligning stakeholder needs, and ensuring the development team delivers value incrementally. Posts should explore strategies for balancing stakeholder expectations, team collaboration, and value-driven decisions.
-  updated: 2025-04-09T13:29:06Z
+  title: 'Product Owner: Strategic Decisions That Maximise Product Value'
+  subtitle: Insights and strategies for maximising product value, aligning stakeholder needs, prioritising effectively, and driving outcome-focused decision-making.
+  content: The Product Owner classification addresses the accountability for maximising product value through strategic decision-making, prioritisation, and continuous adaptation to customer feedback, market dynamics, and organisational objectives. It covers product vision alignment, backlog optimisation, stakeholder collaboration, outcome-driven practices, evidence-based decisions, and navigating complexity to ensure consistent value delivery.
+  updated: 2025-05-23T23:29:09Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

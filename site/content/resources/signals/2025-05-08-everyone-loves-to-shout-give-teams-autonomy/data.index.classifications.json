@@ -3247,5 +3247,24 @@
     "reasoning": "Direct mentions of 'engineering excellence' or related core technical practices are absent. The content focuses on balancing team autonomy with strategic alignment within Scrum, which is adjacent to engineering excellence but sits more in the territory of team process and leadership. There is some conceptual overlap—clear goals, alignment, and meaningful outcomes can enable engineering excellence, especially in agile environments—but the discussion stays abstract and does not reference technical practices, software craftsmanship, coding quality, CI/CD, or measurement metrics. The audience seems to be technical leaders and Scrum practitioners, which partially aligns. Signal-to-noise is moderate; there's focus, but little depth on engineering specifics. No penalties apply.",
     "reasoning_summary": "This piece thoughtfully discusses team accountability and strategic alignment in Scrum but stays at a process/leadership level. While these themes support engineering excellence, they don’t directly address core engineering practices—so technical fit is moderate, not strong.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "5nkzevV2xKG",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:10",
+    "ai_confidence": 13.68,
+    "ai_mentions": 0.7,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.1,
+    "ai_intent": 1.2,
+    "ai_audience": 7.2,
+    "ai_signal": 8.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content discusses the importance of balancing team autonomy with alignment to strategic goals in Scrum, focusing on leadership, objectives, and artefacts like Product and Sprint Goals. However, it never mentions or describes 'Definition of Workflow' as per Kanban or agile standards. There is no discussion of explicit workflow policies, WIP limits, entry/exit criteria, or process visualization. The focus remains on team dynamics and alignment mechanisms in Scrum rather than on defining explicit workflow agreements. Thus, conceptual alignment, depth, and mentions are extremely low, with only minimal overlap in audience.",
+    "reasoning_summary": "This content addresses team autonomy and strategic alignment in Scrum, not the Definition of Workflow. It does not reference workflow policies, entry/exit criteria, or Kanban agreements, making its fit with the category minimal.",
+    "level": "Ignored"
   }
 }

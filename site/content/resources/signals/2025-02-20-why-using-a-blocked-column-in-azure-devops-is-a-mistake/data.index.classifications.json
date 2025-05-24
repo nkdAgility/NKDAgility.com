@@ -3247,5 +3247,24 @@
     "reasoning": "The content addresses workflow practices in Azure DevOps, specifically moving away from using a 'Blocked' column in favor of tagging and tracking blocked work for better team visibility and action. This aligns well with Engineering Excellence: it targets process improvement, situational awareness, and encourages behavioral change extending beyond basic tooling tips. Direct mentions of 'Engineering Excellence' are absent, but the main point—optimizing team workflow, tracking inefficiencies, and fostering continuous improvement—resonates with the category's core. The advice is practical, aimed at engineering teams, and devoid of filler, though not deeply transformative or covering broader principles of software craftsmanship. The depth is moderate: it offers concrete suggestions but doesn't elaborate on underlying metrics, organizational impact, or broader quality frameworks.",
     "reasoning_summary": "This content meaningfully improves engineering workflow by offering actionable advice for tracking blocked work in Azure DevOps. While not mentioning 'Engineering Excellence' directly, it supports process improvement and team efficiency, matching the category’s audience and intent.",
     "level": "Secondary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "H8CRQrD64JY",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:14",
+    "ai_confidence": 38.25,
+    "ai_mentions": 1.7,
+    "ai_alignment": 4.5,
+    "ai_depth": 3.5,
+    "ai_intent": 4.6,
+    "ai_audience": 8.8,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content focuses on a specific workflow practice (handling blocked work in Azure DevOps), offering pragmatic advice for better visibility and management. However, it does not explicitly discuss the Definition of Workflow as a broader, dynamic agreement or policy, nor does it reference Kanban, agile principles, or the broader conceptual underpinnings. Direct mentions are minimal, and the discussion of workflow is narrow and tool-specific rather than exploring explicit policies, entry/exit criteria, or collaborative process improvement. There is substantial relevance for practitioners, but limited depth on the formal Definition of Workflow, making confidence moderate but not strong.",
+    "reasoning_summary": "The content gives practical advice for managing blocked work but does not explicitly discuss the Definition of Workflow concept as described in Kanban or agile theory, resulting in only moderate relevance to the category.",
+    "level": "Ignored"
   }
 }

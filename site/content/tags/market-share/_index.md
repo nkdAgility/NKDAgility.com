@@ -23,10 +23,10 @@ Instructions: |-
   **Strictly exclude** any discussions that do not directly relate to market share, such as general business management practices, unrelated product features, or non-competitive analysis. Misinterpretations of market share, such as conflating it with overall business growth without specific reference to market presence, should also be avoided.
 headline:
   cards: []
-  title: Market Share
-  subtitle: Maximising product visibility and influence to secure a leading position in targeted market segments.
-  content: Enhancing a product's visibility and influence within its market segment is essential for achieving a competitive edge. Posts should explore strategies for market penetration, customer engagement, brand positioning, and the impact of market dynamics on product success, drawing insights from industry thought leaders and frameworks.
-  updated: 2025-02-13T12:03:53Z
+  title: 'Market Share: Leveraging Insights to Drive Agile Competitive Advantage'
+  subtitle: Measuring competitive position, customer alignment, and strategic growth opportunities to drive sustainable value delivery and continuous improvement.
+  content: Market share measures an organisation's competitive position within its market segment, guiding strategic decisions, resource allocation, and product development. Posts explore techniques for interpreting market data, aligning products with customer expectations, enhancing responsiveness, and leveraging insights to drive innovation, continuous improvement, and sustainable value delivery in dynamic environments.
+  updated: 2025-05-23T23:33:47Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7

@@ -1870,5 +1870,24 @@
     "reasoning": "The content focuses on practical instructions for configuring branch policies in TFVC, using regular expressions for maintainability. Nowhere are first principles explicitly discussed, nor are foundational, immutable truths in Lean, Agile, Scrum, or DevOps contexts mentioned, identified, or analyzed. The policies described (branch lock, code review, work items) are operational requirements and best practices—potentially important, but neither identified as nor explored as first principles. The intention, audience, and signal are somewhat related to the broader product development domain but do not reference or anchor on the concept or application of first principles. There are minor surface alignments (such as preventing mistakes or enforcing discipline), but no substantial discussion of foundational constraints versus context-sensitive policies.",
     "reasoning_summary": "This content provides practical guidance for TFVC branch policies, focusing on actionable procedures and operational requirements. It lacks any explicit or conceptual engagement with first principles, keeping alignment with the category extremely low.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "_26VFOA-vCe",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:43",
+    "ai_confidence": 12.25,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.0,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 3.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content discusses applying and managing branch policies in TFVC, focusing on technical implementation details such as regular expression pattern matching, branch locks, code reviews, and work item requirements. There are no explicit mentions or substantive discussion of Kanban, agile theory, or the Definition of Workflow as a dynamic, explicit model for flow management. Any relevance is incidental; the policies described pertain to version control compliance, not to making work flow visible or adaptable according to Kanban/DevOps principles. The focus is on tool configuration, not workflow theory, entry/exit criteria, WIP limits, or the related policies highlighted in the category definition.",
+    "reasoning_summary": "This content describes how to use branch policies in TFVC, focusing on technical controls for version control rather than the Kanban-aligned Definition of Workflow. It lacks explicit references or substantive alignment with workflow policies as defined for this category.",
+    "level": "Ignored"
   }
 }

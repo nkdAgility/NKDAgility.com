@@ -1881,5 +1881,24 @@
     "reasoning": "The content is an emphatic opinion piece about the risks of technical debt in software, asserting that all technical debt is bad and risky. There is no direct mention or exploration of 'first principles,' nor does the author attempt to identify, explain, or apply foundational, non-negotiable truths as required by the category. The arguments are context-based (technical debt in practice), pragmatic (using Microsoft as a case), and advocate for best practices (quality, transparency, automation), not first principles. There is no definition or distinction made toward first principles versus heuristics or derived standards. While the audience is aligned and the signal is clear, the content does not meet the threshold for direct conceptual or intent alignment with 'First Principal.'",
     "reasoning_summary": "This piece focuses on technical debt as a risk, not on identifying or applying first principles. It argues for high-quality delivery and transparency but doesn't articulate foundational, immutable constraints as the category requires. Audience and signal are close, but first-principle discussion is missing.",
     "level": "Ignored"
+  },
+  "Definition of Workflow": {
+    "resourceId": "ZSqNF7v9vSR",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:40",
+    "ai_confidence": 3.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 6.1,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is focused on technical debt as a risk to businesses and products, using various analogies, examples, and a real-world case (Microsoft TFS). While terms like transparency, continuous delivery, Scrum, and DevOps are referenced, there is no explicit mention or substantive discussion of the Definition of Workflow, its policies, entry/exit criteria, WIP, or related Kanban/agile concepts. No core themes or practices on managing or visualizing flow, nor distinctions between Definition of Done and Workflow, are explored. The intended audience (product delivery, business) partially overlaps, but overall relevance is very low.",
+    "reasoning_summary": "This content discusses the business risk of technical debt and related delivery practices but lacks any explicit or conceptual engagement with the Definition of Workflow or its core principles. Alignment with the category is minimal.",
+    "level": "Ignored"
   }
 }

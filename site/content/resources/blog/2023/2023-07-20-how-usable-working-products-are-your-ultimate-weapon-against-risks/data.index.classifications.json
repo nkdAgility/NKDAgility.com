@@ -1915,5 +1915,24 @@
     "reasoning": "The content focuses on core Agile practices such as delivering a usable working product, feedback loops, and automation, which are closely aligned with foundational Agile principles (e.g., 'working software is the primary measure of progress'). However, it does not explicitly discuss or define 'first principles,' nor does it distinguish them from heuristics, values, or context-dependent practices. Its tone is passionate and prescriptive, but the discussion revolves around best practices and heuristics rather than immutable foundational constraints, with heavy emphasis on pragmatic efficiency (e.g., less documentation, automate tests). While it echoes some first principle themes (e.g., need for working product, rapid feedback), it does not trace its recommendations to irreducible truths or foundational theorists, and treats these points more as essential heuristics within Agile. There is no explicit reference to first principles or theorists, a lack of direct abstraction, and no critical distinction with derived principles or values. Mild penalties were applied for these gaps, resulting in a moderate confidence score that acknowledges the proximity but not a direct hit.",
     "reasoning_summary": "While the content advocates strongly for essentials like usable working products and feedback, it never explicitly discusses or analyzes 'first principles.' It aligns closely with some foundational Agile themes but stops short of framing them as immutable constraints, focusing instead on best practices and efficiency.",
     "level": "Tertiary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "UnSs37BlBV7",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:35",
+    "ai_confidence": 10.59,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.7,
+    "ai_intent": 1.1,
+    "ai_audience": 2.4,
+    "ai_signal": 1.5,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1,
+    "ai_penalty_details": "alignment dimension deducted 1 point for satirical/critical tone inconsistent with category framing",
+    "final_score": 11.0,
+    "reasoning": "The content does not explicitly reference or discuss the Definition of Workflow in Kanban or related agile contexts. There are no mentions of entry/exit criteria, workflow agreements, WIP limits, or the role of making policies explicit. Instead, the focus is on delivering usable products, limiting documentation, automation, and getting feedback—topics related to agile delivery and lean practice in general, but not specific to the Definition of Workflow as per the provided classification. Some superficial overlap exists conceptually (e.g., references to flow and process adaptation), but these do not address workflow policies or agreements at the level required. Additionally, the tone is critical and satirical, which further detracts from alignment with the intended category purpose. Penalties have been applied for tone. Overall, this is off-topic and demonstrates minimal fit with the Definition of Workflow.",
+    "reasoning_summary": "This content focuses on delivering usable products, limiting documentation, and automating tests, but does not address the Definition of Workflow or related Kanban/agile workflow policies. No explicit discussion or alignment with the required category is present.",
+    "level": "Ignored"
   }
 }

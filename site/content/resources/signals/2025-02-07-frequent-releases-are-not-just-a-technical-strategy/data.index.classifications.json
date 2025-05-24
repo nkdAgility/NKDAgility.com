@@ -3247,5 +3247,24 @@
     "reasoning": "The content centers on the practice of frequent software releases, framing it as essential for reducing risk and enabling rapid feedback—a core principle of engineering excellence. It offers concrete examples (Microsoft/Windows 8 failure) and references authoritative research (DORA), showing depth and understanding of best practices in CI/CD. While it doesn't explicitly mention 'engineering excellence,' it strongly aligns with category themes (process improvement, quality, software craftsmanship). The technical practitioner audience and high relevance yield a strong signal-to-noise ratio. No outdated or critical content; thus, no penalties.",
     "reasoning_summary": "This content strongly aligns with ‘Engineering Excellence’ by emphasizing how frequent releases mitigate risk, support learning, and reference leading research. Its focus, depth, and clear relevance for engineering teams warrant a high confidence score.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "_o_vjO--kSl",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:17",
+    "ai_confidence": 6.92,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.45,
+    "ai_intent": 0.8,
+    "ai_audience": 2.2,
+    "ai_signal": 0.17,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses on the value of frequent software releases as a strategy for risk mitigation, feedback, and adaptability, referencing DORA research and real-world examples. Nowhere does it mention or explicitly discuss the Definition of Workflow, Kanban, or any related agile models. The theme is aligned with continuous delivery principles but not specifically with the explicit agreements, entry/exit policies, WIP limits, or process visibility discussed in the Definition of Workflow. Minimal conceptual overlap exists, as frequent releases can be enabled by a defined workflow, but this is not addressed in the content. Thus, confidence is very low, with only tangential relevance.",
+    "reasoning_summary": "The content discusses the benefits of frequent releases for reducing risk and improving software delivery, but does not discuss workflow definitions, policies, or Kanban concepts. Its relevance to Definition of Workflow is only tangential and implied.",
+    "level": "Ignored"
   }
 }

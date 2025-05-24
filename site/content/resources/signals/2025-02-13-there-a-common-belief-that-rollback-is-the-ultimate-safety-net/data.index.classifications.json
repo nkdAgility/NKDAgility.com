@@ -3247,5 +3247,24 @@
     "reasoning": "The content directly critiques the rollback-as-safety-net belief, advocating progressive delivery and fail-forward strategies. It actively references deployment best practices (feature flags, canaries, automation), targeting technical teams. There's moderate direct naming of relevant concepts, strong conceptual alignment, and the discussion is thorough with practical insights on causes of risk and best practices. The audience is clearly software engineers, and the focus remains on engineering quality, not tangential topics.",
     "reasoning_summary": "This piece strongly aligns with 'Engineering Excellence,' focusing on advanced deployment strategies and technical risk management. It gives actionable insights for engineering teams and offers a thoughtful critique and alternatives to common practices, making it a good fit for this category.",
     "level": "Primary"
+  },
+  "Definition of Workflow": {
+    "resourceId": "3-BmsmOEWfJ",
+    "category": "Definition of Workflow",
+    "calculated_at": "2025-05-23T22:06:12",
+    "ai_confidence": 9.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.5,
+    "ai_intent": 0.5,
+    "ai_audience": 4.7,
+    "ai_signal": 3.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content discusses the risks of rollback versus progressive delivery, focusing on deployment safety. It does not mention, define, or explore the Definition of Workflow as articulated by Kanban or agile principles. There is no discussion of explicit agreements, entry/exit criteria, WIP limits, or policies for managing the flow of work. The audience may include practitioners interested in process improvements, but the content is not directed at making workflow policies explicit or adaptable. The discussion is about deployment strategies rather than workflow policies.",
+    "reasoning_summary": "This content does not align with the 'Definition of Workflow' category. It addresses software deployment safety and rollback strategies, lacking any reference or conceptual overlap with workflow definitions as per Kanban or agile context.",
+    "level": "Ignored"
   }
 }

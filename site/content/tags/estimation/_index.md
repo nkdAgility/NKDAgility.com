@@ -28,10 +28,10 @@ Instructions: |-
   - Topics focused solely on project management outside the Agile context
 headline:
   cards: []
-  title: Estimation
-  subtitle: Enhance your forecasting skills and manage uncertainty through collaborative techniques and empirical data analysis.
-  content: Enhance your ability to predict project outcomes and navigate uncertainty through collaborative approaches and data-driven insights. Explore techniques for aligning team expectations, refining prioritisation, and utilising historical performance metrics to inform decision-making in complex environments.
-  updated: 2025-02-13T12:04:37Z
+  title: 'Estimation: Leveraging Team Insights for Predictable Agile Delivery'
+  subtitle: Forecasting effort, managing uncertainty, and enabling teams to deliver value predictably through collaborative, empirical approaches.
+  content: Estimation involves forecasting effort, duration, and complexity to manage uncertainty, align stakeholder expectations, and support informed decision-making. It leverages empirical data, collaborative team discussions, and iterative feedback loops to enhance predictability, transparency, and continuous improvement, enabling effective planning, resource allocation, and sustainable value delivery in complex environments.
+  updated: 2025-05-23T23:26:20Z
 sitemap:
   filename: sitemap.xml
   priority: 0.7
