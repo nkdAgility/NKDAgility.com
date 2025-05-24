@@ -93,6 +93,16 @@ Within the bounds of the Scrum Framework, you are allowed to flow work from one 
 - **Sprint Planning** - The purpose of the Sprint Planning event is to inspect the Product Backlog and create a Sprint Goal, Forecast, and Sprint Backlog for this Sprint. Nothing prevents Stories flowing over into the next Sprint unless it prevents the team cresting a Done Increment, or endangers the Sprint Goal.
 - **Sprint Goal** - The Sprint Goal provides purpose and direction for the team. And that does not mean that we can't have work outside that Sprint Goal inside of the Sprint. We may have production issues, leftover work, or just something super important to the [Product Owner]({{< ref "/tags/product-owner" >}}) that turns up. As long as the team believes that they can achieve the Sprint Goal they can take on any additional work that makes sense.
 
+### Additional insights on effective Sprint Goals and value delivery
+
+Based on feedback from the Scrum community, here are some additional insights that can help you maximize the effectiveness of Sprint Goals and value delivery when allowing work to flow across Sprint boundaries:
+
+- **Focus on measurable outcomes** - Good Sprint Goals focus on measurable business or customer outcomes/benefits or problems to solve, that act as stepping stones on your product/business roadmap. Poor Sprint Goals are merely bundles of functionality or technology to be delivered where the business/customer benefit is not explicit or measurable.
+
+- **Multiple increments per Sprint** - Aim at delivering multiple increments inside the Sprint, and getting user feedback that helps you inspect-and-adapt progress towards the Sprint Goal. This approach supports the flow of work while maintaining the empirical nature of Scrum.
+
+- **Investment mindset** - Remember that the organization is investing in the product/service one sprint at a time. At the end of the Sprint, you are looking at product-market fit and deciding whether to continue investing or change the business/product roadmap. The goal is to minimize sunk costs - so you can bank the value you have created and move on, perhaps shifting the product to "maintenance only" or its end-of-lifecycle.
+
 I have found that reading the Scrum Guide carefully, turns up all sorts of miss conceptions that we all have as we interpret and use Scrum. If you are not sure, re-read the Scrum Guide, maintain the [Scrum Values]({{< ref "/tags/scrum-values" >}}), focus on empirical process control and maintain transparency.
 
 At the end of every Sprint, you should have working Software that meets your definition of Done and you should have met your Sprint Goal.
