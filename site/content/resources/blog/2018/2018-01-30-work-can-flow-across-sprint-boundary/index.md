@@ -1,11 +1,11 @@
 ---
 title: Work can flow across the Sprint boundary
-description: Explains how allowing work to flow across Sprint boundaries in Scrum can improve team throughput, as long as the Sprint Goal and Definition of Done are maintained.
+description: Explains how Scrum teams can strategically allow unfinished work to flow across Sprint boundaries, enhancing throughput, responsiveness, and continuous delivery without compromising goals.
 date: 2018-01-30
-weight: 390
+weight: 270
 slug: work-can-flow-across-sprint-boundary
 aliases:
-  - /resources/a7UMLdZeVYq
+- /resources/a7UMLdZeVYq
 ResourceId: a7UMLdZeVYq
 ResourceImport: true
 ResourceImportSource: Wordpress
@@ -18,34 +18,38 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 aliasesArchive:
-  - /blog/work-can-flow-across-sprint-boundary
-  - /work-can-flow-across-sprint-boundary
-  - /work-can-flow-across-the-sprint-boundary
-  - /blog/work-can-flow-across-the-sprint-boundary
-  - /resources/blog/work-can-flow-across-sprint-boundary
+- /blog/work-can-flow-across-sprint-boundary
+- /work-can-flow-across-sprint-boundary
+- /work-can-flow-across-the-sprint-boundary
+- /blog/work-can-flow-across-the-sprint-boundary
+- /resources/blog/work-can-flow-across-sprint-boundary
 concepts:
-  - Method
+- Practice
 categories:
-  - Product Development
+- Product Development
+- Scrum
+- Product Management
 tags:
-  - Increment
-  - Software Development
-  - Empirical Process Control
-  - Professional Scrum
-  - Transparency
-  - Working Software
-  - Operational Practices
-  - Pragmatic Thinking
-  - Agile Frameworks
-  - Agile Product Management
-  - Agile Planning
-  - Flow Efficiency
-  - Product Delivery
+- Pragmatic Thinking
+- Product Delivery
+- Value Delivery
+- Operational Practices
+- Professional Scrum
+- Agile Planning
+- Flow Efficiency
+- Market Adaptability
+- Team Performance
+- Agile Product Management
+- Organisational Agility
+- Common Goals
+- Working Software
+- Continuous Improvement
+- Agile Product Operating Model
 preview: nkdagility-cross-sprint-boundary-2-1.png
 Watermarks:
-  description: 2025-05-07T13:16:19Z
----
+  description: 2025-05-24T23:43:41Z
 
+---
 There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that explicitly prevents work from flowing across the Sprint boundary. In fact, allowing flow across Sprints—without compromising the Sprint Goal—is a pragmatic strategy that enhances delivery, throughput, and responsiveness to customer feedback.
 
 **For practical guidance, explore the** **[Kanban Guide for Scrum Teams]({{< ref "/resources/guides/kanban-guide-for-scrum-teams" >}})**, and consider attending a **[Professional Scrum with Kanban]({{< ref "/capabilities/training-courses/scrumorg-professional-scrum-with-kanban" >}})** class.
@@ -54,9 +58,7 @@ There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that expl
 
 The [Definition of Done]({{< ref "/resources/blog/2020/2020-12-14-getting-started-definition-done-dod" >}}) ensures transparency and quality and is non-negotiable. The Sprint Goal must articulate clear, measurable business outcomes or customer benefits. Effective flow requires reducing batch sizes, allowing unfinished work to cross Sprint boundaries strategically. Professional [Scrum Teams]({{< ref "/tags/scrum-team" >}}) adept at consistently delivering [Done increments]({{< ref "/resources/blog/2025/2025-07-28-the-defenition-of-done-is-a-commitment-to-quality" >}}) significantly enhance their [throughput]({{< ref "/tags/throughput" >}}) by embracing flow principles and rapid feedback cycles.
 
-## ![](images/nkdagility-cross-sprint-boundary-800x390-1-2.png)
-
-{ .post-img }
+![](images/nkdagility-cross-sprint-boundary-800x390-1-2.png)
 
 A Sprint serves primarily as a container for planning, not always for delivery. Just as [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) integrates seamlessly with Scrum, incorporating flow through [Kanban]({{< ref "/categories/kanban" >}}) complements and strengthens Scrum practices. All teams can benefit from this approach, provided they consistently achieve clear, outcome-focused Sprint Goals and maintain transparent, Done increments.
 
