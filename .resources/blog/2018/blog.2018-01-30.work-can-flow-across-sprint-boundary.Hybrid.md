@@ -1,8 +1,8 @@
 ---
 title: Work can flow across the Sprint boundary
-description: Explains how allowing work to flow across Sprint boundaries in Scrum can improve team throughput, as long as the Sprint Goal and Definition of Done are maintained.
+description: Explains how Scrum teams can strategically allow unfinished work to flow across Sprint boundaries, enhancing throughput, responsiveness, and continuous delivery without compromising goals.
 date: 2018-01-30
-weight: 390
+weight: 270
 slug: work-can-flow-across-sprint-boundary
 aliases:
 - /resources/a7UMLdZeVYq
@@ -24,77 +24,86 @@ aliasesArchive:
 - /blog/work-can-flow-across-the-sprint-boundary
 - /resources/blog/work-can-flow-across-sprint-boundary
 concepts:
-- Method
+- Practice
 categories:
 - Product Development
+- Scrum
+- Product Management
 tags:
-- Increment
-- Software Development
-- Empirical Process Control
-- Professional Scrum
-- Transparency
-- Working Software
-- Operational Practices
 - Pragmatic Thinking
-- Agile Frameworks
-- Agile Product Management
+- Product Delivery
+- Value Delivery
+- Operational Practices
+- Professional Scrum
 - Agile Planning
 - Flow Efficiency
-- Product Delivery
+- Market Adaptability
+- Team Performance
+- Agile Product Management
+- Organisational Agility
+- Common Goals
+- Working Software
+- Continuous Improvement
+- Agile Product Operating Model
 preview: nkdagility-cross-sprint-boundary-2-1.png
 Watermarks:
-  description: 2025-05-07T13:16:19Z
+  description: 2025-05-24T23:43:41Z
 
 ---
-There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that says that you can't have workflow across the Sprint boundary. I'm going to suggest that not only can you, but you should as long as you don't endanger the Sprint Goal.
+There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that explicitly prevents work from flowing across the Sprint boundary. In fact, allowing flow across Sprints—without compromising the Sprint Goal—is a pragmatic strategy that enhances delivery, throughput, and responsiveness to customer feedback.
 
-**UPDATE: To find out how to allow work to flow across the Sprint boundary you can read the** **[Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams)\*\***, and schedule a\*\* **[Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/)** **class.**
+**For practical guidance, explore the** **[Kanban Guide for Scrum Teams]({{< ref "/resources/guides/kanban-guide-for-scrum-teams" >}})**, and consider attending a **[Professional Scrum with Kanban]({{< ref "/capabilities/training-courses/scrumorg-professional-scrum-with-kanban" >}})** class.
 
-## TL;DR;
+## TL;DR
 
-The [definition of Done](https://nkdagility.com/getting-started-definition-done-dod/) is an instrumental part of maintaining [Transparency]({{< ref "/tags/transparency" >}}) of the past work and is not optional. The Sprint Goal provides focus and direction. In order to maintain flow we need to be able to reduce the batch size of the work, thus we must allow for work to flow across the Sprint boundary. If you have a Professional [Scrum Team]({{< ref "/tags/scrum-team" >}}) that is adept at creating [Done increments of working software](https://nkdagility.com/professional-scrum-teams-build-software-works/) then introducing flow can improve the value delivered by increasing the [throughput]({{< ref "/tags/throughput" >}}) of the team.
+The [Definition of Done]({{< ref "/resources/blog/2020/2020-12-14-getting-started-definition-done-dod" >}}) ensures transparency and quality and is non-negotiable. The Sprint Goal must articulate clear, measurable business outcomes or customer benefits. Effective flow requires reducing batch sizes, allowing unfinished work to cross Sprint boundaries strategically. Professional [Scrum Teams]({{< ref "/tags/scrum-team" >}}) adept at consistently delivering [Done increments]({{< ref "/resources/blog/2025/2025-07-28-the-defenition-of-done-is-a-commitment-to-quality" >}}) significantly enhance their [throughput]({{< ref "/tags/throughput" >}}) by embracing flow principles and rapid feedback cycles.
 
-## ![](images/nkdagility-cross-sprint-boundary-800x390-1-2.png)
+![](images/nkdagility-cross-sprint-boundary-800x390-1-2.png)
 
-{ .post-img }
+A Sprint serves primarily as a container for planning, not always for delivery. Just as [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) integrates seamlessly with Scrum, incorporating flow through [Kanban]({{< ref "/categories/kanban" >}}) complements and strengthens Scrum practices. All teams can benefit from this approach, provided they consistently achieve clear, outcome-focused Sprint Goals and maintain transparent, Done increments.
 
-Always remember that the Sprint is a container for Planning and not always for Delivery. Just like you can do [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}) in Scrum, so you can also introduce flow and [Kanban]({{< ref "/categories/kanban" >}}). Less skilled teams can also benefit as long as you make sure that you meet the Sprint Goal and Done Increments are created to provide transparency of the past and build trust for the future.
+## Managing Work Across Sprint Boundaries
 
-## Starting Work that the Development Team knows that it can't finish
+Allowing work to flow across Sprint boundaries is an advanced yet beneficial technique. Initially, many teams struggle as they rarely achieve truly [Working Software]({{< ref "/tags/working-software" >}}) or fully meet their Sprint Goals by Sprint's end. Transitioning to a mindset of flow and continuous validation is crucial for agile maturity.
 
-Although you will not find anything in the Scrum Guide that prevents you from flowing work across Sprints you should consider it an advanced technique. Most teams that I work with are not even at the point where they have [Working Software]({{< ref "/tags/working-software" >}}) at the end of the Sprint and they are often only just achieving their Sprint Goal.
+My early scepticism around flowing work across Sprints shifted through deeper discussions with colleagues like Steve and Daniel. The critical insight was distinguishing the necessity of a Done [Increment]({{< ref "/tags/increment" >}}) from the expectation that all Product Backlog Items (PBIs) must be completed by Sprint's end.
 
-I also believed the myth that we could not flow work across the Sprint boundary. It took a long conversation with Steve and Daniel to kindle a different idea, and long discussions over a beer to make it concrete. My argument went; "If you have to be Done by the end of the Sprint then how can you have any unfinished work?" My argument was wrong! I was confusing the need to have a Done [Increment]({{< ref "/tags/increment" >}}) with all of the PBI's being finished.
+Teams practicing Continuous Delivery (CD) inherently create working software incrementally and continuously. Such teams typically automate every aspect of their [Definition of Done]({{< ref "/tags/definition-of-done" >}}). Thus, by the [Sprint Review]({{< ref "/tags/sprint-review" >}}), presenting completed increments is straightforward and predictable.
 
-If you as a Development Team are practising Continuous Delivery (CD) then they always have working software. I would expect that a team doing CD would have every single element of their [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DOD) automated and every Checkin/Pull Request meets the DOD. If that's true, then when you get to your [Sprint Review]({{< ref "/tags/sprint-review" >}}) you just show the work that you have finished.
+**For a professional Scrum Team, adopting CD is foundational—not optional.**
 
-**If you want Flow then** **[CD is no longer optional for a Software Team let along a Professional Scrum Team](https://nkdagility.com/continuous-deliver-sprint/)\*\***.\*\*
+## Strategic Sprint Goals and Continuous Value
 
-## Shipping software with Unfinished work can still be Scrum
+Good Sprint Goals clearly articulate measurable outcomes or customer benefits rather than listing features or technical tasks. These goals act as strategic stepping stones toward your broader product or business roadmap, enhancing the clarity and alignment of your team’s efforts. Poorly constructed Sprint Goals, focused merely on delivering bundles of functionality or technology, often fail to communicate explicit and measurable benefits.
 
-There are a number of Engineering consideration that a Development Team will need to take into account if they want to focus on Flow. With CD comes the need to validate early and often, with automation, so that you don’t have to stop and check everything manually. There are a number of practices that can help:
+Aim to deliver multiple increments within a single Sprint, frequently gathering user feedback to continuously inspect and adapt progress toward your Sprint Goal. Regular increments and rapid feedback loops foster empirical control, allowing the team to pivot swiftly based on emerging insights or market changes.
 
-- **Feature Flags** - Often referred to as Feature Toggles this is a way to insert a switch into the code so that something is visible or not to the customer based on a switch. Advanced toggles might support "controlled Exposure" to customers, as well as A/B testing, and other features. Regardless it is generally accepted that you can't leave all of your toggles in the code indefinitely. Once you have completed the PBI / Feature or tested your hypothesis you need to remove the flag through Refactoring.
-- **Refactoring** - The act of restructuring or rewriting code for clarity of purpose and future maintenance. One would never write a book or article and then just published it. You would normally do your first pass… re-read it and update for clarity. Maybe get someone else to take a look, and incorporate feedback. Same for code…
-- **[Test Driven Development]({{< ref "/tags/test-driven-development" >}}) (TDD)** - Part of the general Test First movement TDD allows an engineer to prove that the code that they wrote fulfils some pre-defined purpose. It’s the only way that a coder can prove that code does at least what they intended. This practice also supports refactoring since I can continue to prove that the code after I change it, does what was originally intended.
-- **Many more**…
+## Minimal Sunk Costs and Strategic Investment
 
-All of these are optional complementary practices that help you achieve CD but it is not an exhaustive list. There are many other practices that will help, try them and see what works for your team.
+Organisations invest in products or services one Sprint at a time. Each Sprint represents a potential decision point: assessing product-market fit and deciding whether continued investment is justified. The ultimate aim is to minimize sunk costs, banking created value incrementally and evaluating whether the product should continue development, transition to maintenance, or be marked end-of-life. Effective Sprint Goals and transparent increments support informed strategic decisions, ensuring resources align with business outcomes.
 
-While the Scrum Guide does not say that you need to do CD let alone the practices I have listed above, it does require that you create an Increment of Working Software at least once per Sprint. Anything less and you have no transparency of what was done. With no transparency, you lose your [empirical process control]({{< ref "/tags/empirical-process-control" >}}), and without empiricism, you are not doing Scrum.
+## Shipping Software with Unfinished PBIs
 
-**Unfinished Backlog Items are not the same as Undone work.**
+Flow necessitates disciplined engineering practices ensuring early, frequent validation through automation. Key practices significantly enhancing CD include:
 
-## How does this impact Scrum elements?
+- **Feature Toggles** – Enable controlled exposure, A/B testing, and experimentation. Temporary toggles must be systematically removed through refactoring upon feature completion.
+- **Refactoring** – Regularly restructure code for clarity, maintainability, and responsiveness to customer feedback.
+- **[Test Driven Development (TDD)]({{< ref "/tags/test-driven-development" >}})** – Validate code functionality continuously, supporting confident incremental changes and refactoring.
 
-Within the bounds of the Scrum Framework, you are allowed to flow work from one Sprint to another. The Result is still Scrum if we have working software, and we meet the Sprint Goal.
+While complementary, these practices are fundamental to robust CD frameworks. Experimentation and iterative improvements tailor their application effectively to your context.
 
-- **Sprint Review** - the purpose of the Sprint Review is to inspect what was just created, review and analysis it, and update the [Product Backlog]({{< ref "/tags/product-backlog" >}}) to be an accurate reflection of future work based on this new Increment. At the Sprint Review, we show the work that was completed and discuss what was not completed. It's not a failure if the team did not finish something, [software development]({{< ref "/tags/software-development" >}}) is complex and that will happen, often. As long as we have an Increment of Done work we have fulfilled our obligation to Empirical process control.
-- **Sprint Planning** - The purpose of the Sprint Planning event is to inspect the Product Backlog and create a Sprint Goal, Forecast, and Sprint Backlog for this Sprint. Nothing prevents Stories flowing over into the next Sprint unless it prevents the team cresting a Done Increment, or endangers the Sprint Goal.
-- **Sprint Goal** - The Sprint Goal provides purpose and direction for the team. And that does not mean that we can't have work outside that Sprint Goal inside of the Sprint. We may have production issues, leftover work, or just something super important to the [Product Owner]({{< ref "/tags/product-owner" >}}) that turns up. As long as the team believes that they can achieve the Sprint Goal they can take on any additional work that makes sense.
+## Aligning Flow with Scrum Principles
 
-I have found that reading the Scrum Guide carefully, turns up all sorts of miss conceptions that we all have as we interpret and use Scrum. If you are not sure, re-read the Scrum Guide, maintain the [Scrum Values]({{< ref "/tags/scrum-values" >}}), focus on empirical process control and maintain transparency.
+The Scrum Guide mandates a Done increment each Sprint for [transparency]({{< ref "/tags/transparency" >}}). Without transparent increments, empirical control suffers, undermining Scrum itself.
 
-At the end of every Sprint, you should have working Software that meets your definition of Done and you should have met your Sprint Goal.
+**Unfinished Backlog Items differ fundamentally from incomplete ("undone") work.**
 
-**UPDATE: To find out how to allow work to flow across the Sprint boundary you can read the** **[Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams)\*\***, and schedule a\*\* **[Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/)** **class.**
+Flowing work between Sprints is permissible within Scrum if aligned with clear Sprint Goals and delivering usable increments:
+
+- **Sprint Review** – Teams collaboratively inspect completed increments, openly discuss incomplete work, and revise the Product Backlog based on stakeholder insights and measurable outcomes.
+- **Sprint Planning** – Establishes clear goals and forecasts achievable work items, ensuring alignment with delivering increments and measurable Sprint Goals.
+- **Sprint Goal** – Provides strategic focus. Teams can integrate additional work provided primary Sprint Goals remain achievable, enabling strategic decision-making based on ongoing feedback.
+
+Regularly revisiting the Scrum Guide, emphasizing empirical control, and maintaining [Scrum Values]({{< ref "/tags/scrum-values" >}}) ensures successful flow integration within Scrum. Consistently verify increments against the Definition of Done and fulfil measurable Sprint Goals.
+
+For further insights, review the **[Kanban Guide for Scrum Teams]({{< ref "/resources/guides/kanban-guide-for-scrum-teams" >}})** and consider participating in a **[Professional Scrum with Kanban]({{< ref "/capabilities/training-courses/scrumorg-professional-scrum-with-kanban" >}})** course.
