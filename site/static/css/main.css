@@ -439,13 +439,13 @@ blockquote cite {
 
 /* Make links white in dark mode for better visibility */
 [data-theme="dark"] a:not(.btn):not(.navbar-brand):not(.nav-link) {
-  color: var(--accent-color-light);
+  color: whitesmoke;
 }
 
 /* Make links white in dark mode for better visibility */
-[data-theme="light"] a:not(.btn):not(.navbar-brand):not(.nav-link) {
+/* [data-theme="light"] a:not(.btn):not(.navbar-brand):not(.nav-link) {
   color: var(--accent-color);
-}
+} */
 
 /* Card footer specific styling */
 .card-footer {
