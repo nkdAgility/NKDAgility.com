@@ -515,6 +515,11 @@ blockquote cite {
   color: var(--dark-text-color);
 }
 
+/* Ensure close button is visible in both modes */
+[data-theme="dark"] .modal-header .btn-close {
+  filter: invert(1) grayscale(100%) brightness(200%);
+}
+
 [data-theme="dark"] .modal-body {
   color: var(--dark-text-color);
 }
@@ -536,10 +541,26 @@ blockquote cite {
 
 /* Input fields in dark mode modals */
 [data-theme="dark"] .modal-body input[type="text"],
-[data-theme="dark"] .modal-body input[type="email"] {
+[data-theme="dark"] .modal-body input[type="email"],
+[data-theme="dark"] .modal-body input[type="checkbox"],
+[data-theme="dark"] .modal-body select,
+[data-theme="dark"] .modal-body textarea {
   background-color: var(--dark-background-color);
   color: var(--dark-text-color);
   border-color: #444;
+}
+
+/* Modal buttons in dark mode */
+[data-theme="dark"] .modal-footer .btn-secondary {
+  background-color: #444;
+  color: var(--dark-text-color);
+  border-color: #555;
+}
+
+[data-theme="dark"] .modal-footer .btn-secondary:hover {
+  background-color: #555;
+  color: var(--dark-text-color);
+  border-color: #666;
 }
 
 /* Fix preformatted text and code blocks */
@@ -580,6 +601,18 @@ blockquote cite {
 
 [data-theme="dark"] #mce-success-response {
   color: #4BB543 !important;
+}
+
+[data-theme="dark"] #mc_embed_signup .input-group ul {
+  background-color: var(--dark-background-color-alt) !important;
+}
+
+[data-theme="dark"] #mc_embed_signup .input-group ul li {
+  background-color: transparent !important;
+}
+
+[data-theme="dark"] #mc_embed_signup .asterisk {
+  color: #FF6B6B !important;
 }
 
 [data-theme="dark"] #mce-error-response {
