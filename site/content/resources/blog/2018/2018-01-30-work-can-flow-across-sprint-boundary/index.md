@@ -5,7 +5,7 @@ date: 2018-01-30
 weight: 270
 slug: work-can-flow-across-sprint-boundary
 aliases:
-- /resources/a7UMLdZeVYq
+  - /resources/a7UMLdZeVYq
 ResourceId: a7UMLdZeVYq
 ResourceImport: true
 ResourceImportSource: Wordpress
@@ -18,45 +18,45 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 aliasesArchive:
-- /blog/work-can-flow-across-sprint-boundary
-- /work-can-flow-across-sprint-boundary
-- /work-can-flow-across-the-sprint-boundary
-- /blog/work-can-flow-across-the-sprint-boundary
-- /resources/blog/work-can-flow-across-sprint-boundary
+  - /blog/work-can-flow-across-sprint-boundary
+  - /work-can-flow-across-sprint-boundary
+  - /work-can-flow-across-the-sprint-boundary
+  - /blog/work-can-flow-across-the-sprint-boundary
+  - /resources/blog/work-can-flow-across-sprint-boundary
 concepts:
-- Practice
+  - Practice
 categories:
-- Product Development
-- Scrum
-- Product Management
+  - Product Development
+  - Scrum
+  - Product Management
 tags:
-- Pragmatic Thinking
-- Product Delivery
-- Value Delivery
-- Operational Practices
-- Professional Scrum
-- Agile Planning
-- Flow Efficiency
-- Market Adaptability
-- Team Performance
-- Agile Product Management
-- Organisational Agility
-- Common Goals
-- Working Software
-- Continuous Improvement
-- Agile Product Operating Model
+  - Pragmatic Thinking
+  - Product Delivery
+  - Value Delivery
+  - Operational Practices
+  - Professional Scrum
+  - Agile Planning
+  - Flow Efficiency
+  - Market Adaptability
+  - Team Performance
+  - Agile Product Management
+  - Organisational Agility
+  - Common Goals
+  - Working Software
+  - Continuous Improvement
+  - Agile Product Operating Model
 preview: nkdagility-cross-sprint-boundary-2-1.png
 Watermarks:
   description: 2025-05-24T23:43:41Z
-
 ---
+
 There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that explicitly prevents work from flowing across the Sprint boundary. In fact, allowing flow across Sprints—without compromising the Sprint Goal—is a pragmatic strategy that enhances delivery, throughput, and responsiveness to customer feedback.
 
 **For practical guidance, explore the** **[Kanban Guide for Scrum Teams]({{< ref "/resources/guides/kanban-guide-for-scrum-teams" >}})**, and consider attending a **[Professional Scrum with Kanban]({{< ref "/capabilities/training-courses/scrumorg-professional-scrum-with-kanban" >}})** class.
 
 ## TL;DR
 
-The [Definition of Done]({{< ref "/resources/blog/2020/2020-12-14-getting-started-definition-done-dod" >}}) ensures transparency and quality and is non-negotiable. The Sprint Goal must articulate clear, measurable business outcomes or customer benefits. Effective flow requires reducing batch sizes, allowing unfinished work to cross Sprint boundaries strategically. Professional [Scrum Teams]({{< ref "/tags/scrum-team" >}}) adept at consistently delivering [Done increments]({{< ref "/resources/blog/2025/2025-07-28-the-defenition-of-done-is-a-commitment-to-quality" >}}) significantly enhance their [throughput]({{< ref "/tags/throughput" >}}) by embracing flow principles and rapid feedback cycles.
+The [Definition of Done]({{< ref "/resources/blog/2020/2020-12-14-getting-started-definition-done-dod" >}}) ensures transparency and quality and is non-negotiable. The Sprint Goal must articulate clear, measurable business outcomes or customer benefits. Effective flow requires reducing batch sizes, allowing unfinished work to cross Sprint boundaries strategically. Professional [Scrum Teams]({{< ref "/tags/scrum-team" >}}) adept at consistently delivering [Done increments]({{< nkdref "/resources/blog/2025/2025-07-28-the-definition-of-done-is-a-commitment-to-quality" >}}) significantly enhance their [throughput]({{< ref "/tags/throughput" >}}) by embracing flow principles and rapid feedback cycles.
 
 ![](images/nkdagility-cross-sprint-boundary-800x390-1-2.png)
 
