@@ -121,11 +121,9 @@
       <div class="col-xl-6"></div>
     </div>
   </section>
-  {{- if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}
-    <section class="container my-4" style="max-width: 900px !important">
-      {{- partial "delivery-parts/syllabus-single.html" . }}
-    </section>
-  {{- end }}
+  <section class="container my-4" style="max-width: 900px !important">
+    {{- partial "delivery-parts/syllabus-single.html" . }}
+  </section>
 
 {{- end }}
 
