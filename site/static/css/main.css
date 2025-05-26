@@ -600,7 +600,7 @@ blockquote cite {
 }
 
 [data-theme="dark"] #mce-success-response {
-  color: #4BB543 !important;
+  color: #4bb543 !important;
 }
 
 [data-theme="dark"] #mc_embed_signup .input-group ul {
@@ -612,28 +612,21 @@ blockquote cite {
 }
 
 [data-theme="dark"] #mc_embed_signup .asterisk {
-  color: #FF6B6B !important;
+  color: #ff6b6b !important;
 }
 
 [data-theme="dark"] #mce-error-response {
-  color: #FF6B6B !important;
+  color: #ff6b6b !important;
 }
 
 /* Theme dropdown styles */
 #theme-dropdown-button {
   cursor: pointer;
   transition: all 0.3s ease;
-  padding: 0.5rem;
-  /* Adjust styles for breadcrumbs row placement */
-  font-size: 0.9rem;
 }
 
 #theme-dropdown-button:hover {
   transform: scale(1.1);
-}
-
-#theme-toggle-icon {
-  font-size: 1.2rem;
 }
 
 .theme-option {
