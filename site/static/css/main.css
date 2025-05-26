@@ -501,12 +501,122 @@ blockquote cite {
   --bs-table-border-color: #444;
 }
 
+/* Modal styling for dark mode */
+[data-theme="dark"] .modal-content {
+  background-color: var(--dark-background-color-alt);
+  color: var(--dark-text-color);
+  border-color: #444;
+}
+
+[data-theme="dark"] .modal-header,
+[data-theme="dark"] .modal-footer {
+  background-color: var(--dark-background-color-alt);
+  border-color: #444;
+  color: var(--dark-text-color);
+}
+
+/* Ensure close button is visible in both modes */
+[data-theme="dark"] .modal-header .btn-close {
+  filter: invert(1) grayscale(100%) brightness(200%);
+}
+
+[data-theme="dark"] .modal-body {
+  color: var(--dark-text-color);
+}
+
+/* Ensure text in modals is visible in dark mode */
+[data-theme="dark"] .modal-body label,
+[data-theme="dark"] .modal-body p,
+[data-theme="dark"] .modal-body h1,
+[data-theme="dark"] .modal-body h2,
+[data-theme="dark"] .modal-body h3,
+[data-theme="dark"] .modal-body h4,
+[data-theme="dark"] .modal-body h5,
+[data-theme="dark"] .modal-body h6,
+[data-theme="dark"] .modal-body li,
+[data-theme="dark"] .modal-body strong,
+[data-theme="dark"] .modal-body .helper_text {
+  color: var(--dark-text-color);
+}
+
+/* Input fields in dark mode modals */
+[data-theme="dark"] .modal-body input[type="text"],
+[data-theme="dark"] .modal-body input[type="email"],
+[data-theme="dark"] .modal-body input[type="checkbox"],
+[data-theme="dark"] .modal-body select,
+[data-theme="dark"] .modal-body textarea {
+  background-color: var(--dark-background-color);
+  color: var(--dark-text-color);
+  border-color: #444;
+}
+
+/* Modal buttons in dark mode */
+[data-theme="dark"] .modal-footer .btn-secondary {
+  background-color: #444;
+  color: var(--dark-text-color);
+  border-color: #555;
+}
+
+[data-theme="dark"] .modal-footer .btn-secondary:hover {
+  background-color: #555;
+  color: var(--dark-text-color);
+  border-color: #666;
+}
+
 /* Fix preformatted text and code blocks */
 [data-theme="dark"] pre,
 [data-theme="dark"] code {
   background-color: #2d2d2d;
   color: #e6e6e6;
   border-color: #444;
+}
+
+/* Mailchimp form in dark mode */
+[data-theme="dark"] #mc_embed_signup {
+  background-color: var(--dark-background-color-alt) !important;
+  color: var(--dark-text-color) !important;
+}
+
+[data-theme="dark"] #mc_embed_signup h2,
+[data-theme="dark"] #mc_embed_signup .indicates-required,
+[data-theme="dark"] #mc_embed_signup label {
+  color: var(--dark-text-color) !important;
+}
+
+[data-theme="dark"] #mc_embed_signup input[type="email"],
+[data-theme="dark"] #mc_embed_signup input[type="text"] {
+  background-color: var(--dark-background-color) !important;
+  color: var(--dark-text-color) !important;
+  border-color: #444 !important;
+}
+
+[data-theme="dark"] #mc_embed_signup .button {
+  background-color: var(--dark-primary-color) !important;
+  color: white !important;
+}
+
+[data-theme="dark"] #mc_embed_signup div.response {
+  color: var(--dark-text-color) !important;
+}
+
+[data-theme="dark"] #mce-success-response {
+  color: #4BB543 !important;
+}
+
+[data-theme="dark"] #mc_embed_signup .input-group ul {
+  background-color: var(--dark-background-color-alt) !important;
+}
+
+[data-theme="dark"] #mc_embed_signup .input-group ul li {
+  background-color: transparent !important;
+}
+
+[data-theme="dark"] #mc_embed_signup .asterisk {
+  color: #FF6B6B !important;
+}
+
+[data-theme="dark"] #mce-error-response {
+  color: #FF6B6B !important;
 }
 
 /* Theme toggle button styles */
