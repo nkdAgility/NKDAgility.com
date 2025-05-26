@@ -637,13 +637,18 @@ blockquote cite {
 .theme-option {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
-  padding: 0.5rem;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
   transition: background-color 0.2s ease;
+  text-align: left;
 }
 
 .theme-option:hover {
   background-color: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] .theme-option {
+  color: var(--text-color);
 }
 
 [data-theme="dark"] .theme-option:hover {

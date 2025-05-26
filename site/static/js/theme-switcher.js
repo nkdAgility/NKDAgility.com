@@ -7,24 +7,23 @@ document.addEventListener("DOMContentLoaded", function() {
   
   // Define theme handling
   let themeToSet;
+  let themePreference = savedTheme || 'system';
   
-  if (savedTheme === 'system' || !savedTheme) {
+  if (themePreference === 'system') {
     // If theme is set to system or no preference is saved
     themeToSet = systemPrefersDark ? 'dark' : 'light';
-    if (!savedTheme) {
-      // If no preference is saved, default to system
-      localStorage.setItem('theme', 'system');
-    }
+    // Ensure system preference is stored
+    localStorage.setItem('theme', 'system');
   } else {
     // Use saved theme preference
-    themeToSet = savedTheme;
+    themeToSet = themePreference;
   }
   
   // Apply the theme
   setTheme(themeToSet);
   
   // Update theme selection indication based on saved preference
-  updateThemeSelectionUI(savedTheme || 'system');
+  updateThemeSelectionUI(themePreference);
   
   // Handle theme option clicks in dropdown
   const themeOptions = document.querySelectorAll('.theme-option');
@@ -108,18 +107,14 @@ function updateThemeIcon(theme) {
     themeToggleIcon.classList.remove('fa-sun', 'fa-moon', 'fa-display');
     
     // Get the current theme preference
-    const themePref = localStorage.getItem('theme') || 'system';
+    const themePref = localStorage.getItem('theme');
     
     // If using system preference, show display icon
     if (themePref === 'system') {
       themeToggleIcon.classList.add('fa-display');
     } else {
-      // Otherwise show sun/moon based on current theme
-      if (theme === 'dark') {
-        themeToggleIcon.classList.add('fa-moon');
-      } else {
-        themeToggleIcon.classList.add('fa-sun');
-      }
+      // Otherwise show icon based on actual theme
+      themeToggleIcon.classList.add(theme === 'dark' ? 'fa-moon' : 'fa-sun');
     }
   }
 }
