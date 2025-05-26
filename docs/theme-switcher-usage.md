@@ -18,6 +18,7 @@ The theme preference is stored in the browser's localStorage as:
 - `'dark'` for Dark Mode
 - `'system'` for System Sync Mode
 
+
 ### Preventing Theme Flash (FOUC)
 
 To ensure the correct theme is applied immediately (with no flash of the wrong theme), the site uses a small inline script that sets the `data-theme` attribute on the `<html>` element **before any CSS loads**. This script is included at the very top of the `<head>` in the main layout:
