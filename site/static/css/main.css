@@ -3,6 +3,8 @@
   /* Light Mode - Brand Colors */
   --light-primary-color: #713183;
   --light-primary-color-light: #8b49a0;
+  --light-primary-color-heading: #713183;
+  --light-primary-color-background: #713183;
 
   --light-secondary-color: #007acc;
   --light-secondary-color-light: #3399dd;
@@ -26,6 +28,8 @@
   /* Default theme is light, so set the variables */
   --primary-color: var(--light-primary-color);
   --primary-color-light: var(--light-primary-color-light);
+  --primary-color-heading: var(--light-primary-color-heading);
+  --primary-color-background: var(--light-primary-color-background);
   --secondary-color: var(--light-secondary-color);
   --secondary-color-light: var(--light-secondary-color-light);
   --accent-color: var(--light-accent-color);
@@ -39,6 +43,8 @@
   --blockquote-bg: var(--light-blockquote-bg);
   --blockquote-text: var(--light-blockquote-text);
   --blockquote-border: var(--light-blockquote-border);
+
+  /* New: Separate primary color for headings and backgrounds */
 }
 
 /* Dark Mode color variables */
@@ -46,6 +52,8 @@
   /* Dark Mode - Brand Colors */
   --dark-primary-color: #9b5baf;
   --dark-primary-color-light: #b27fc2;
+  --dark-primary-color-heading: #ddade8;
+  --dark-primary-color-background: #713183;
 
   --dark-secondary-color: #3399dd;
   --dark-secondary-color-light: #66b3ff;
@@ -68,6 +76,8 @@
   /* Override the default variables with dark theme values */
   --primary-color: var(--dark-primary-color);
   --primary-color-light: var(--dark-primary-color-light);
+  --primary-color-heading: var(--dark-primary-color-heading);
+  --primary-color-background: var(--dark-primary-color-background);
   --secondary-color: var(--dark-secondary-color);
   --secondary-color-light: var(--dark-secondary-color-light);
   --accent-color: var(--dark-accent-color);
@@ -81,30 +91,6 @@
   --blockquote-bg: var(--dark-blockquote-bg);
   --blockquote-text: var(--dark-blockquote-text);
   --blockquote-border: var(--dark-blockquote-border);
-}
-
-/* Apply based on system preference when no theme is set */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --primary-color: #662b75;
-    --primary-color-light: #8e53a1;
-
-    --secondary-color: #2775aa;
-    --secondary-color-light: #2f8fd0;
-
-    --accent-color: #f3952e;
-    --accent-color-light: #ffb151;
-
-    --accent-color-alt: #b395b8;
-    --accent-color-alt-light: #f4e0f7;
-
-    --background-color: #242424;
-    --primary-color-text: #f5f5f5;
-    --text-color: #f5f5f5;
-    --blockquote-bg: #333333;
-    --blockquote-text: #dddddd;
-    --blockquote-border: #78c0a8;
-  }
 }
 
 body {
@@ -124,7 +110,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--primary-color-light);
+  color: var(--primary-color-heading);
 }
 
 /* More specific selector */
@@ -138,7 +124,7 @@ h6 {
 }
 
 .nkda-heading-primary {
-  color: var(--primary-color-light);
+  color: var(--primary-color-heading);
   font-size: clamp(1rem, 4vw + 1rem, 2.5rem);
 }
 
@@ -158,7 +144,7 @@ h6 {
 }
 
 .bg-brand-primary {
-  background-color: var(--primary-color);
+  background-color: var(--primary-color-background);
 }
 .bg-brand-secondary {
   background-color: #54595f;
@@ -202,7 +188,7 @@ pre {
 }
 
 .nkda-text-primary {
-  color: var(--primary-color);
+  color: var(--primary-color-background);
 }
 
 /* Dark mode nav adjustments */
@@ -213,7 +199,7 @@ pre {
 
 /* Preserve brand-primary color for the topBarNav in dark mode */
 [data-theme="dark"] #topBarNav {
-  background-color: var(--primary-color) !important;
+  background-color: var(--primary-color-background) !important;
 }
 
 /* Ensure top bar nav links are visible in dark mode */
@@ -242,18 +228,17 @@ pre {
 }
 
 .btn-nkdprimary {
-  background-color: var(--primary-color);
+  background-color: var(--primary-color-background);
   color: white;
 }
 
 .btn-nkdprimary:hover {
-  background-color: var(--primary-color-light);
+  background-color: var(--primary-color-heading);
   color: white;
 }
 
 .text-bg-nkdagility-primary {
-  color: #ffffff; /* Custom text color */
-  background-color: var(--primary-color); /* Custom background color */
+  background-color: var(--primary-color-background);
 }
 
 /* buttons */
@@ -600,7 +585,7 @@ blockquote cite {
 }
 
 [data-theme="dark"] #mce-success-response {
-  color: #4BB543 !important;
+  color: #4bb543 !important;
 }
 
 [data-theme="dark"] #mc_embed_signup .input-group ul {
@@ -612,11 +597,11 @@ blockquote cite {
 }
 
 [data-theme="dark"] #mc_embed_signup .asterisk {
-  color: #FF6B6B !important;
+  color: #ff6b6b !important;
 }
 
 [data-theme="dark"] #mce-error-response {
-  color: #FF6B6B !important;
+  color: #ff6b6b !important;
 }
 
 /* Theme toggle button styles */
