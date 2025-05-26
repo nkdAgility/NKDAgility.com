@@ -13,9 +13,22 @@ When "System" is selected, the theme will automatically update if the user chang
 ### Implementation Details
 
 The theme preference is stored in the browser's localStorage as:
+
 - `'light'` for Light Mode
 - `'dark'` for Dark Mode
 - `'system'` for System Sync Mode
+
+### Preventing Theme Flash (FOUC)
+
+To ensure the correct theme is applied immediately (with no flash of the wrong theme), the site uses a small inline script that sets the `data-theme` attribute on the `<html>` element **before any CSS loads**. This script is included at the very top of the `<head>` in the main layout:
+
+```html
+<script src="/js/theme-switcher-preset.js"></script>
+```
+
+The script checks for the user's saved theme preference in localStorage. If set to 'system' or not set, it uses the system's color scheme preference. This ensures the correct theme is applied from the first paint, eliminating any flash of the wrong theme.
+
+The main theme switcher logic (`theme-switcher.js`) continues to handle theme changes and UI updates after the page loads.
 
 ## Using Theme-Aware Images
 
@@ -26,12 +39,7 @@ The site's theme switcher includes support for theme-aware images - images that 
 To make an image adapt to the current theme, add the following data attributes to your `img` tag:
 
 ```html
-<img 
-  src="/path/to/default-image.png" 
-  data-theme-src-light="/path/to/light-theme-image.png"
-  data-theme-src-dark="/path/to/dark-theme-image.png"
-  alt="Description of the image" 
-/>
+<img src="/path/to/default-image.png" data-theme-src-light="/path/to/light-theme-image.png" data-theme-src-dark="/path/to/dark-theme-image.png" alt="Description of the image" />
 ```
 
 ### Attributes Explained
@@ -44,15 +52,7 @@ To make an image adapt to the current theme, add the following data attributes t
 ### Example
 
 ```html
-<img 
-  src="/images/logo-light.png" 
-  data-theme-src-light="/images/logo-light.png"
-  data-theme-src-dark="/images/logo-dark.png"
-  loading="lazy" 
-  alt="Company Logo" 
-  width="234" 
-  height="95" 
-/>
+<img src="/images/logo-light.png" data-theme-src-light="/images/logo-light.png" data-theme-src-dark="/images/logo-dark.png" loading="lazy" alt="Company Logo" width="234" height="95" />
 ```
 
 ## CSS Variables
