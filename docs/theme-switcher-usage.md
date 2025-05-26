@@ -1,5 +1,22 @@
 # Theme Switcher Usage Guide
 
+## Theme Selection Options
+
+The site includes a theme dropdown in the top navigation bar that allows users to choose between:
+
+1. **Light Mode**: Forces the light theme regardless of system settings
+2. **Dark Mode**: Forces the dark theme regardless of system settings
+3. **System**: Automatically syncs with the user's operating system preference
+
+When "System" is selected, the theme will automatically update if the user changes their system's light/dark mode setting.
+
+### Implementation Details
+
+The theme preference is stored in the browser's localStorage as:
+- `'light'` for Light Mode
+- `'dark'` for Dark Mode
+- `'system'` for System Sync Mode
+
 ## Using Theme-Aware Images
 
 The site's theme switcher includes support for theme-aware images - images that automatically change when switching between light and dark themes.
