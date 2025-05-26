@@ -608,17 +608,10 @@ blockquote cite {
 #theme-dropdown-button {
   cursor: pointer;
   transition: all 0.3s ease;
-  padding: 0.5rem;
-  /* Adjust styles for breadcrumbs row placement */
-  font-size: 0.9rem;
 }
 
 #theme-dropdown-button:hover {
   transform: scale(1.1);
-}
-
-#theme-toggle-icon {
-  font-size: 1.2rem;
 }
 
 .theme-option {
