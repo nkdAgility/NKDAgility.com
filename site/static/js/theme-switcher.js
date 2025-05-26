@@ -4,27 +4,61 @@ document.addEventListener("DOMContentLoaded", function() {
   // Check for saved theme preference or use system preference
   const savedTheme = localStorage.getItem('theme');
   const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  const themeToSet = savedTheme || (systemPrefersDark ? 'dark' : 'light');
+  
+  // Define theme handling
+  let themeToSet;
+  let themePreference = savedTheme || 'system';
+  
+  if (themePreference === 'system') {
+    // If theme is set to system or no preference is saved
+    themeToSet = systemPrefersDark ? 'dark' : 'light';
+    // Ensure system preference is stored
+    localStorage.setItem('theme', 'system');
+  } else {
+    // Use saved theme preference
+    themeToSet = themePreference;
+  }
   
   // Apply the theme
   setTheme(themeToSet);
   
-  // Listen for theme toggle button click
-  const themeToggleBtn = document.getElementById('theme-toggle');
-  if (themeToggleBtn) {
-    console.log("Theme toggle button found, adding event listener");
-    themeToggleBtn.addEventListener('click', toggleTheme);
-    updateThemeIcon(themeToSet);
+  // Update theme selection indication based on saved preference
+  updateThemeSelectionUI(themePreference);
+  
+  // Handle theme option clicks in dropdown
+  const themeOptions = document.querySelectorAll('.theme-option');
+  if (themeOptions.length > 0) {
+    console.log("Theme options found, adding event listeners");
+    themeOptions.forEach(option => {
+      option.addEventListener('click', (e) => {
+        const selectedTheme = e.currentTarget.getAttribute('data-theme');
+        console.log(`Theme option clicked: ${selectedTheme}`);
+        
+        // Store the selected theme preference
+        localStorage.setItem('theme', selectedTheme);
+        
+        // Apply theme based on selection
+        if (selectedTheme === 'system') {
+          const systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          setTheme(systemTheme);
+        } else {
+          setTheme(selectedTheme);
+        }
+        
+        // Update UI to reflect selection
+        updateThemeSelectionUI(selectedTheme);
+      });
+    });
   } else {
-    console.warn("Theme toggle button not found in the DOM");
+    console.warn("Theme options not found in the DOM");
   }
   
   // Listen for system preference changes
   window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
-    if (!localStorage.getItem('theme')) {
-      // Only auto-switch if user hasn't manually set a preference
+    const currentThemePreference = localStorage.getItem('theme');
+    if (currentThemePreference === 'system') {
+      // Auto-switch if system theme is selected
       setTheme(e.matches ? 'dark' : 'light');
-      updateThemeIcon(e.matches ? 'dark' : 'light');
     }
   });
   
@@ -41,20 +75,28 @@ function setTheme(theme) {
   document.documentElement.setAttribute('data-theme', theme);
   document.body.classList.remove('theme-light', 'theme-dark');
   document.body.classList.add(`theme-${theme}`);
-  localStorage.setItem('theme', theme);
   updateThemeIcon(theme);
   
   // Handle theme-aware images
   swapThemeImages(theme);
 }
 
-// Toggle between light and dark themes
-function toggleTheme() {
-  console.log("Toggle theme clicked");
-  const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
-  const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-  console.log(`Switching theme from ${currentTheme} to ${newTheme}`);
-  setTheme(newTheme);
+// Update the theme selection UI based on the selected theme preference
+function updateThemeSelectionUI(preference) {
+  console.log(`Updating theme selection UI for preference: ${preference}`);
+  // Hide all checkmarks first
+  document.querySelectorAll('.theme-check').forEach(check => {
+    check.classList.add('d-none');
+  });
+  
+  // Show the appropriate checkmark based on the selected preference
+  const selectedCheck = document.querySelector(`.theme-${preference}-check`);
+  if (selectedCheck) {
+    selectedCheck.classList.remove('d-none');
+  }
+  
+  // Update dropdown button icon
+  updateThemeIcon(document.documentElement.getAttribute('data-theme') || 'light');
 }
 
 // Update the theme toggle icon based on current theme
@@ -62,13 +104,17 @@ function updateThemeIcon(theme) {
   const themeToggleIcon = document.getElementById('theme-toggle-icon');
   if (themeToggleIcon) {
     // Remove all icon classes
-    themeToggleIcon.classList.remove('fa-sun', 'fa-moon');
+    themeToggleIcon.classList.remove('fa-sun', 'fa-moon', 'fa-display');
     
-    // Add appropriate icon class based on the theme
-    if (theme === 'dark') {
-      themeToggleIcon.classList.add('fa-sun'); // Show sun icon in dark mode (to switch to light)
+    // Get the current theme preference
+    const themePref = localStorage.getItem('theme');
+    
+    // If using system preference, show display icon
+    if (themePref === 'system') {
+      themeToggleIcon.classList.add('fa-display');
     } else {
-      themeToggleIcon.classList.add('fa-moon'); // Show moon icon in light mode (to switch to dark)
+      // Otherwise show icon based on actual theme
+      themeToggleIcon.classList.add(theme === 'dark' ? 'fa-moon' : 'fa-sun');
     }
   }
 }

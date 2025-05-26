@@ -600,7 +600,7 @@ blockquote cite {
 }
 
 [data-theme="dark"] #mce-success-response {
-  color: #4BB543 !important;
+  color: #4bb543 !important;
 }
 
 [data-theme="dark"] #mc_embed_signup .input-group ul {
@@ -612,26 +612,46 @@ blockquote cite {
 }
 
 [data-theme="dark"] #mc_embed_signup .asterisk {
-  color: #FF6B6B !important;
+  color: #ff6b6b !important;
 }
 
 [data-theme="dark"] #mce-error-response {
-  color: #FF6B6B !important;
+  color: #ff6b6b !important;
 }
 
-/* Theme toggle button styles */
-#theme-toggle {
+/* Theme dropdown styles */
+#theme-dropdown-button {
   cursor: pointer;
   transition: all 0.3s ease;
-  padding: 0.5rem;
 }
 
-#theme-toggle:hover {
+#theme-dropdown-button:hover {
   transform: scale(1.1);
 }
 
-#theme-toggle-icon {
-  font-size: 1.2rem;
+.theme-option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  transition: background-color 0.2s ease;
+  text-align: left;
+}
+
+.theme-option:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] .theme-option {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .theme-option:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.theme-check {
+  margin-left: 1rem;
 }
 
 /* Images with theme support */
