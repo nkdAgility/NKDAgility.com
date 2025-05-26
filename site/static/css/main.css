@@ -604,19 +604,39 @@ blockquote cite {
   color: #ff6b6b !important;
 }
 
-/* Theme toggle button styles */
-#theme-toggle {
+/* Theme dropdown styles */
+#theme-dropdown-button {
   cursor: pointer;
   transition: all 0.3s ease;
   padding: 0.5rem;
 }
 
-#theme-toggle:hover {
+#theme-dropdown-button:hover {
   transform: scale(1.1);
 }
 
 #theme-toggle-icon {
   font-size: 1.2rem;
+}
+
+.theme-option {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0.5rem;
+  transition: background-color 0.2s ease;
+}
+
+.theme-option:hover {
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] .theme-option:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.theme-check {
+  margin-left: 1rem;
 }
 
 /* Images with theme support */
