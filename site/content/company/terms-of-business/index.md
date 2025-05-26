@@ -21,6 +21,8 @@ We offer outcome-focused consulting services delivered through a timeboxed retai
 
 We are transparent, collaborative, and committed to protecting your confidentiality. We will sign any reasonable NDA, and any intellectual property created specifically for you remains yours.
 
+Please refer to [working with us]({{< ref "/company/working-with-us" >}}) and [privacy practices]({{< ref "/company/privacy" >}}) for additional information on our practices.
+
 ## Our business model
 
 We work on a **timeboxed retainer** basis. You retain a percentage of our working time—typically 10% or 25%—and we spend the time required within that limit to deliver valuable outcomes. There is **no fixed scope**, and **no change orders**—just a shared commitment to evolving your system of work.
@@ -115,7 +117,7 @@ We keep billing simple, clear, and consistent with our ethos: outcome-focused wo
 We keep travel lean, fair, and agreed in advance.
 
 - **Actuals, not guesswork** – You’ll only be charged for real, necessary travel costs (flights, transport, lodging). We don’t markup expenses.
- - **Reasonable per diem** – If actual receipts aren’t practical, we charge a standard per diem of £70/day (around $150) depending on location to cover incidentals.
+- **Reasonable per diem** – If actual receipts aren’t practical, we charge a standard per diem of £70/day (around $150) depending on location to cover incidentals.
 - **Return-home principle** – Our consultants aim to return home on weekends unless the logistics or value of the work make that impractical. We’ll always discuss this openly.
 - **Billed with transparency** – Travel and expenses are invoiced monthly or at the end of the engagement, whichever comes first.
 
