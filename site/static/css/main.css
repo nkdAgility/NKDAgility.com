@@ -652,6 +652,29 @@ blockquote cite {
   opacity: 1;
 }
 
+/* Our Customers theme-specific display */
+.customer-light-mode,
+.customer-dark-mode {
+  transition: opacity 0.3s ease;
+}
+
+/* Show appropriate customer display based on theme */
+.customer-light-mode {
+  display: block;
+}
+
+.customer-dark-mode {
+  display: none;
+}
+
+[data-theme="dark"] .customer-light-mode {
+  display: none;
+}
+
+[data-theme="dark"] .customer-dark-mode {
+  display: block;
+}
+
 /* Dark mode transition */
 html {
   transition:
