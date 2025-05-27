@@ -1,0 +1,139 @@
+syllabus:
+  - id: 1
+    title: "Professional Scrum & Kanban"
+    duration: 120
+    content: "Introduction to core principles of Kanban in the context of Scrum."
+    learningResources:
+      - title: "Kanban Values / Core Principles"
+        link: "https://www.scrum.org/resources/blog/kanban-primer-scrum-teams"
+        duration: 10
+        type: blog
+        weight: 1
+      - title: "Scrum with Kanban: It's time to cross the bridge"
+        link: "https://www.scrum.org/resources/blog/scrum-kanban-its-time-cross-bridge"
+        duration: 10
+        type: blog
+        weight: 2
+      - title: "A Fluffy Collaboration - When everything is ALMOST DONE"
+        link: "https://youtu.be/m23g9hOmshc"
+        duration: 3
+        type: video
+        weight: 3
+      - title: "Little's Law for Professional Scrum with Kanban"
+        link: "https://www.scrum.org/resources/littles-law-professional-scrum-kanban"
+        duration: 10
+        type: guide
+        weight: 4
+      - title: "Understanding the Kanban Guide for Scrum Teams"
+        link: "https://www.scrum.org/resources/blog/understanding-kanban-guide-scrum-teams"
+        duration: 10
+        type: blog
+        weight: 5
+      - title: "BFF: Batches, Flow & Feedback"
+        link: "https://youtu.be/ff_uIlo_n0A"
+        duration: 3
+        type: video
+        weight: 6
+
+  - id: 2
+    title: "Kanban in Practice"
+    duration: 180
+    content: "Hands-on experience with Kanban mechanics."
+    learningResources:
+      - title: "The Kanban Guide for Scrum Teams"
+        link: "https://scrumguides.org/kanban-guide-for-scrum-teams"
+        duration: 30
+        type: guide
+        weight: 1
+      - title: "How An Expedite Request Sunk the Titanic"
+        link: "https://youtu.be/dEHtDfQTNcw"
+        duration: 43
+        type: video
+        weight: 2
+      - title: "When will it be Done - an introduction to probabilistic forecasting"
+        link: "https://youtu.be/aG5Eet6BJTc"
+        duration: 30
+        type: video
+        weight: 3
+
+  - id: 3
+    title: "Scrum with Kanban: Artefacts & Events #1"
+    duration: 120
+    content: "Integrating Kanban principles with Scrum artefacts and events."
+    learningResources:
+      - title: "The Scrum Guide"
+        link: "https://scrumguides.org/scrum-guide.html"
+        duration: 60
+        type: guide
+        weight: 1
+      - title: "Kanban Kickstart"
+        link: "http://bit.ly/KanbanKickstartExample"
+        duration: 30
+        type: guide
+        weight: 2
+      - title: "Limiting Work in Progress (WIP) in Scrum with Kanban"
+        link: "https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how"
+        duration: 10
+        type: blog
+        weight: 3
+      - title: "Kanban Service Level Expectations and how to use them in Scrum"
+        link: "https://agilesparks.com/blog/"
+        duration: 15
+        type: blog
+        weight: 4
+
+  - id: 4
+    title: "Scrum with Kanban: Artefacts & Events #2"
+    duration: 120
+    content: "Advanced integration of Scrum events and DevOps principles with Kanban."
+    learningResources:
+      - title: "4 Key Flow Metrics and how to use them in Scrum's events"
+        link: "https://agilesparks.com/blog/"
+        duration: 20
+        type: blog
+        weight: 1
+      - title: "What is a Flow Manager?"
+        link: "https://mattphilip.wordpress.com/2014/10/21/what-is-a-flow-manager/"
+        duration: 15
+        type: blog
+        weight: 2
+      - title: "3 years of Kanban at Sandvik IT: The Story of an Improvement Journey"
+        link: "https://www.infoq.com/articles/kanban-Sandvik-IT-1/"
+        duration: 30
+        type: blog
+        weight: 3
+      - title: "The Three Ways: The Principles Underpinning DevOps"
+        link: "https://itrevolution.com/articles/the-three-ways-principles-underpinning-devops/"
+        duration: 15
+        type: blog
+        weight: 4
+      - title: "Kanban - A Way Towards DevOps in the Legacy Enterprise"
+        link: "https://youtu.be/iw3izZVwjQM"
+        duration: 50
+        type: video
+        weight: 5
+      - title: "The Convergence of Scrum and DevOps"
+        link: "http://bit.ly/ScrumDevOps"
+        duration: 15
+        type: guide
+        weight: 6
+
+  - id: 5
+    title: "Introducing Flow to Scrum's Events"
+    duration: 90
+    content: "Enhancing Scrum Events with Flow metrics and Kanban visualization techniques."
+
+  - id: 6
+    title: "Flow/Kanban Impact on Scrum Team"
+    duration: 90
+    content: "Roles and responsibilities impacted by introducing Kanban to Scrum teams."
+
+  - id: 7
+    title: "The Increment and the Sprint"
+    duration: 60
+    content: "Understanding the relationship between Kanban, Scrum increments, and sprint cadence."
+
+  - id: 8
+    title: "Closing"
+    duration: 30
+    content: "Reflecting on learning outcomes and preparing actionable next steps."
