@@ -1,27 +1,37 @@
 {{ $page := .Page }}
-{{ $resourceTypes := (slice "blog" "video" "signals") }}
+{{ $resourceTypes := (slice "blog" "videos" "signals" "guides") }}
 {{ $relatedPath := printf "%s/data.index.related.json" (path.Dir $page.File.Path) }}
 {{ $relatedData := (readFile $relatedPath | transform.Unmarshal) }}
-{{ if and $relatedData (gt (len $relatedData) 0) }}
-  <div class="dropdown">
-    <button class="btn btn-sm btn-outline-secondary dropdown-toggle align-items-center" type="button" id="tocDropdown" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Related</span> <i class="fa-regular fa-list"></i></button>
-    <div class="dropdown-menu p-3 custom-toc-dropdown" aria-labelledby="tocDropdown" style="min-width: 300px; max-height: 60vh; overflow-y: auto;">
-      {{ range $resourceType := $resourceTypes }}
+<div class="dropdown">
+  <button class="btn btn-sm btn-outline-secondary dropdown-toggle align-items-center" type="button" id="tocDropdown" data-bs-toggle="dropdown" aria-expanded="false" title="Related Content"><span class="d-none d-xl-inline">Related</span> <i class="fa-regular fa-link"></i></button>
+  <div class="dropdown-menu p-3 custom-toc-dropdown" aria-labelledby="tocDropdown" style="min-width: 300px; max-height: 60vh; overflow-y: auto;">
+    {{ range $resourceType := $resourceTypes }}
+      <h6 class="dropdown-header">Related {{ $resourceType | title }}</h6>
+      {{ if and $relatedData (gt (len $relatedData) 0) }}
         {{ $relatedBlogs := where $relatedData "ResourceType" $resourceType }}
-        <h6 class="dropdown-header">Related {{ $resourceType }}</h6>
         {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
           {{ range first 5 $relatedBlogs }}
             {{ $relatedPage := site.GetPage .Reference }}
             {{ if $relatedPage }}
-              <a class="dropdown-item" href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.LinkTitle }}</a>
+              <a class="dropdown-item" href="{{ $relatedPage.RelPermalink }}" title="{{ $relatedPage.Description }}">{{ $relatedPage.LinkTitle }}</a>
             {{ else }}
               <a class="dropdown-item" href="{{ .Reference }}">{{ .Title }}</a>
             {{ end }}
           {{ end }}
         {{ else }}
-          <p>No related {{ $resourceType }} found.</p>
+          <a class="dropdown-item disabled" href="#">no entries found</a>
+        {{ end }}
+      {{ else }}
+        {{ $related := $page.Site.RegularPages.Related $page }}
+        {{ $items := where $related ".Params.resourceTypes" $resourceType | first 5 }}
+        {{ with $items }}
+          {{ range . }}
+            <a class="dropdown-item" href="{{ .RelPermalink }}" title="{{ .Description }}">{{ .LinkTitle }}</a>
+          {{ end }}
+        {{ else }}
+          <a class="dropdown-item disabled" href="#">no entries found</a>
         {{ end }}
       {{ end }}
-    </div>
+    {{ end }}
   </div>
-{{ end }}
+</div>
