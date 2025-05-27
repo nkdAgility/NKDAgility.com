@@ -12,11 +12,6 @@ Import-Module Az.Storage
 $ErrorActionPreference = 'Stop'
 $levelSwitch.MinimumLevel = 'Information'
 
-# Parameters
-$containerName = "content-embeddings"
-$embeddingModel = "text-embedding-3-large"
-Start-TokenServer
-
 function Get-CosineSimilarity {
     param (
         [float[]]$VectorA,
@@ -109,36 +104,87 @@ function Get-RelatedItemsForPost {
 
 function Rebuild-EmbeddingRepository {
     param (
+        [array]$HugoMarkdownObjects,
         [string]$ContainerName = $containerName,
-        [string]$LocalPath = "./.data/content-embeddings/"
+        [string]$LocalPath = "./.data/content-embeddings/",
+        [string]$StorageAccountName = "nkdagilityblobs",
+        [string]$SASToken = $Env:AZURE_BLOB_STORAGE_SAS_TOKEN
     )
     # 1. Download all blobs to local cache
     Write-InformationLog "Syncing embeddings from Azure Blob to $LocalPath..."
-    azcopy copy "https://$($storageContext.StorageAccountName).blob.core.windows.net/$ContainerName?$($storageContext.SASToken)" "$LocalPath" --recursive=true --overwrite=true
+    azcopy copy "https://$StorageAccountName.blob.core.windows.net/$ContainerName`?$SASToken" "$LocalPath" --recursive=true --overwrite=true
 
-    # 2. Regenerate changed/expired items (compare contentHash or timestamp)
-    $localFiles = Get-ChildItem -Path $LocalPath -Filter *.embedding.json
-    foreach ($file in $localFiles) {
-        $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
-        $mdPath = $embeddingData.referencePath
-        if (Test-Path $mdPath) {
-            $contentText = Get-Content -Path $mdPath -Raw
-            $contentHash = Get-ContentHash $contentText
-            if ($embeddingData.contentHash -ne $contentHash) {
-                Write-InformationLog "Regenerating embedding for $($embeddingData.title) due to content change."
-                $newEmbedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
-                $embeddingData.embedding = $newEmbedding
-                $embeddingData.contentHash = $contentHash
-                $embeddingData.generatedAt = (Get-Date).ToUniversalTime()
-                $embeddingData | ConvertTo-Json -Depth 10 | Set-Content $file.FullName
+    # 2. Regenerate changed/expired items for each HugoMarkdown
+    $count = $HugoMarkdownObjects.Count
+    $i = 0
+    $lastPercent = -10
+    foreach ($hugoMarkdown in $HugoMarkdownObjects) {
+        $i++
+        $progress = "[{0}/{1}]" -f $i, $count
+        $percent = [math]::Round(($i / $count) * 100, 1)
+        if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
+            Write-InformationLog "$progress $percent% complete"
+            $lastPercent = [math]::Floor($percent / 10) * 10
+        }
+        $embeddingFile = Join-Path $LocalPath ("$($hugoMarkdown.FrontMatter.slug).embedding.json")
+        $contentText = Get-Content -Path $hugoMarkdown.FilePath -Raw
+        $contentHash = Get-ContentHash $contentText
+        $needsUpdate = $true
+        if (Test-Path $embeddingFile) {
+            $embeddingData = Get-Content $embeddingFile | ConvertFrom-Json
+            if ($embeddingData.contentHash -eq $contentHash) {
+                $needsUpdate = $false
             }
+        }
+        if ($needsUpdate) {
+            Write-DebugLog "$progress Regenerating embedding for $($hugoMarkdown.FrontMatter.title) due to content change or missing embedding."
+            $embedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
+            $embeddingData = @{
+                fileName      = $hugoMarkdown.FileName
+                title         = $hugoMarkdown.FrontMatter.title
+                slug          = $hugoMarkdown.FrontMatter.slug
+                referencePath = $hugoMarkdown.ReferencePath
+                generatedAt   = (Get-Date).ToUniversalTime()
+                contentHash   = $contentHash
+                embedding     = $embedding
+            }
+            $embeddingData | ConvertTo-Json -Depth 10 | Set-Content $embeddingFile
+        }
+        else {
+            Write-DebugLog "$progress Skipping embedding for $($hugoMarkdown.FrontMatter.title) (no change)."
         }
     }
 
     # 3. Sync local changes back to blob
     Write-InformationLog "Syncing updated embeddings back to Azure Blob..."
-    azcopy sync "$LocalPath" "https://$($storageContext.StorageAccountName).blob.core.windows.net/$ContainerName?$($storageContext.SASToken)" --recursive=true
+    azcopy sync "$LocalPath" "https://$StorageAccountName.blob.core.windows.net/$ContainerName`?$SASToken" --recursive=true
 }
+
+
+function Build-AllEmbeddingCache {
+    param (
+        [array]$HugoMarkdownObjects,
+        [string]$LocalPath = "./.data/content-embeddings/",
+        [int]$TopN = 50
+    )
+    Write-InformationLog "Building embedding cache for all HugoMarkdown objects..."
+    $count = $HugoMarkdownObjects.Count
+    $i = 0
+    $lastPercent = -10
+    foreach ($hugoMarkdown in $HugoMarkdownObjects) {
+        $i++
+        $progress = "[{0}/{1}]" -f $i, $count
+        $percent = [math]::Round(($i / $count) * 100, 1)
+        if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
+            Write-InformationLog "$progress $percent% complete"
+            $lastPercent = [math]::Floor($percent / 10) * 10
+        }
+        Write-DebugLog "$progress Building cache for $($hugoMarkdown.FrontMatter.title)"
+        Build-EmbeddingCache -hugoMarkdown $hugoMarkdown -LocalPath $LocalPath -TopN $TopN
+    }
+
+}
+
 
 function Build-EmbeddingCache {
     param (
@@ -176,17 +222,34 @@ function Get-RelatedItems {
     param (
         [HugoMarkdown]$hugoMarkdown
     )
-    $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
+    $cachePath = Join-Path (Split-Path $hugoMarkdown.FolderPath) 'data.index.related.json'
     if (Test-Path $cachePath) {
         return Get-Content $cachePath | ConvertFrom-Json
-    } else {
-        Write-Warning "No related items cache found for $($hugoMarkdown.FilePath)"
+    }
+    else {
+        Write-Warning "No related items cache found for $($hugoMarkdown.FolderPath)"
         return @()
     }
 }
 
+
+###### TEST CODE BELOW HERE ######
+# Parameters
+$containerName = "content-embeddings"
+$embeddingModel = "text-embedding-3-large"
+Start-TokenServer
+$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
+Write-DebugLog "--------------------------------------------------------"
+Write-DebugLog "--------------------------------------------------------"
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 1
+Write-DebugLog "--------------------------------------------------------"
+Write-DebugLog "--------------------------------------------------------"
+Rebuild-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects -ContainerName $containerName -LocalPath "./.data/content-embeddings/"
+Write-DebugLog "--------------------------------------------------------"
+Write-DebugLog "--------------------------------------------------------"
+
 # Process embeddings
-#$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
+
 #Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 
 # foreach ($hugoMarkdown in $hugoMarkdownObjects) {
@@ -194,9 +257,9 @@ function Get-RelatedItems {
 # }
 
 Write-DebugLog "All files checked."
-Write-DebugLog "--------------------------------------------------------"
 
-Get-RelatedItemsForPost -Slug "scrum-masters-enabling-teams-fostering-agility-removing-blockers"
+
+#Get-RelatedItemsForPost -Slug "scrum-masters-enabling-teams-fostering-agility-removing-blockers"
  
 # foreach ($hugoMarkdown in $hugoMarkdownObjects) {
 #     Write-DebugLog "Processing HugoMarkdown: {Title}" -PropertyValues $hugoMarkdown.FrontMatter.title
