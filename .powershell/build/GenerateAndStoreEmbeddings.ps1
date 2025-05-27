@@ -147,7 +147,6 @@ function Rebuild-EmbeddingRepository {
             Write-InformationLog "$progress Regenerating embedding for $($hugoMarkdown.ReferencePath) due to content change or missing embedding."
             $embedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
             $embeddingData = @{
-                fileName      = $hugoMarkdown.FilePath
                 title         = $hugoMarkdown.FrontMatter.title
                 slug          = $hugoMarkdown.FrontMatter.slug
                 referencePath = $hugoMarkdown.ReferencePath
@@ -215,7 +214,7 @@ function Build-EmbeddingCache {
         $progress = "[{0}/{1}]" -f $i, $count
         $percent = [math]::Round(($i / $count) * 100, 1)
         if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
-            Write-InformationLog "  |-- $progress $percent% complete (Build-EmbeddingCache for $($hugoMarkdown.FrontMatter.title))"
+            Write-InformationLog "  |-- $progress $percent% complete (Build-EmbeddingCache for $($hugoMarkdown.ReferencePath))"
             $lastPercent = [math]::Floor($percent / 10) * 10
         }
         if ($file.Name -eq "$($hugoMarkdown.FrontMatter.slug).embedding.json") { continue }
@@ -223,7 +222,6 @@ function Build-EmbeddingCache {
         if ($embeddingData.embedding) {
             $similarity = Get-CosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
             $similarities += [PSCustomObject]@{
-                FileName   = $embeddingData.fileName
                 Title      = $embeddingData.title
                 Slug       = $embeddingData.slug
                 Reference  = $embeddingData.referencePath
