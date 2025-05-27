@@ -3,7 +3,7 @@ title: 'The Antichrist of Agile: How Fake Agilists Are Undermining True Innovati
 description: Explores how unqualified Agile practitioners undermine genuine innovation, erode trust, and hinder software teams, stressing the need for real experience over certifications.
 date: 2023-10-30T07:00:13Z
 weight: 1000
-slug: the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0
+slug: the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation
 aliases:
 - /resources/XZ1Swam_Cx0
 - /resources/videos/the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation-XZ1Swam_Cx0

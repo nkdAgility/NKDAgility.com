@@ -3,7 +3,7 @@ title: 'Redefining the Scrum Master: From Boss to Empowering Facilitator'
 description: Explains how effective Scrum Masters empower teams through facilitation, support, and coaching, moving away from authority and micromanagement to foster self-organisation.
 date: 2023-04-28T07:00:08Z
 weight: 590
-slug: redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8
+slug: redefining-the-scrum-master-from-boss-to-empowering-facilitator
 aliases:
 - /resources/DNCDdWjYis8
 - /resources/videos/redefining-the-scrum-master-from-boss-to-empowering-facilitator-DNCDdWjYis8

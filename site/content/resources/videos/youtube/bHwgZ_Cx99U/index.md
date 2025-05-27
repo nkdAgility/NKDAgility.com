@@ -3,7 +3,7 @@ title: "Why More Teams Won't Speed Up Delivery: The Truth About Scaling Effectiv
 description: Adding more teams doesn’t guarantee faster delivery; effective scaling requires reducing dependencies, aligning goals, and minimising coordination overhead for real results.
 date: 2025-02-21T07:59:43Z
 weight: 415
-slug: why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively
+slug: why-more-teams-won't-speed-up-delivery-the-truth-about-scaling-effectively
 aliases:
 - /resources/bHwgZ_Cx99U
 - /resources/videos/why-more-teams-wont-speed-up-delivery-the-truth-about-scaling-effectively

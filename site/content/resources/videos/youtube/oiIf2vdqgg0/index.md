@@ -3,7 +3,7 @@ title: What is a product vision?
 description: Explains product vision as a long-term guiding goal that defines a product’s desired future state, aligning teams and inspiring direction beyond short-term objectives.
 date: 2023-05-29T14:00:36Z
 weight: 1000
-slug: what-is-a-product-vision-oiIf2vdqgg0
+slug: what-is-a-product-vision
 aliases:
 - /resources/oiIf2vdqgg0
 - /resources/videos/what-is-a-product-vision-oiIf2vdqgg0

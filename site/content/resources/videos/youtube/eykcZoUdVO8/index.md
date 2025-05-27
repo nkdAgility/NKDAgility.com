@@ -3,7 +3,7 @@ title: 'Part 2: Most influential people in Agile'
 description: Highlights Simon Randell’s significant influence on Agile practices, focusing on his facilitation skills, communication style, and impact on Agile learning and leadership.
 date: 2023-08-09T07:00:14Z
 weight: 1000
-slug: part-2-most-influential-people-in-agile-eykcZoUdVO8
+slug: part-2-most-influential-people-in-agile
 aliases:
 - /resources/eykcZoUdVO8
 - /resources/videos/part-2-most-influential-people-in-agile-eykcZoUdVO8

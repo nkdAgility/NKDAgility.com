@@ -3,7 +3,7 @@ title: 'Unlocking Agile’s Core: Questioning to Create Value'
 description: Explores how questioning, continuous improvement, and team empowerment drive Agile success, helping organisations adapt quickly, spot inefficiencies, and create lasting value.
 date: 2024-01-23T07:00:07Z
 weight: 750
-slug: unlocking-agiles-core-questioning-to-create-value
+slug: unlocking-agile-s-core-questioning-to-create-value
 aliases:
 - /resources/M4ap4uNzptg
 - /resources/videos/unlocking-agiles-core-questioning-to-create-value

@@ -3,7 +3,7 @@ title: 'Embracing Change: How Architectural Adaptation Fuels Software Developmen
 description: Explores how adapting software architecture to changing demands drives long-term success, highlighting incremental change, team investment, and a culture of adaptability.
 date: 2025-02-06T17:06:47Z
 weight: 1000
-slug: embracing-change-how-architectural-adaptation-fuels-software-development-success-PNLCxB2zmUA
+slug: embracing-change-how-architectural-adaptation-fuels-software-development-success
 aliases:
 - /resources/PNLCxB2zmUA
 - /resources/videos/embracing-change-how-architectural-adaptation-fuels-software-development-success-PNLCxB2zmUA

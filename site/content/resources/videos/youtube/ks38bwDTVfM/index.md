@@ -3,7 +3,7 @@ title: "Mastering Agile: 3 Essential Strategies to Boost Your Team's Sprint Succ
 description: 'Learn three key Agile strategies: define clear completion criteria, avoid overcommitting in Sprints, and prioritise backlog refinement for better team productivity.'
 date: 2023-11-16T07:00:16Z
 weight: 330
-slug: mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+slug: mastering-agile-3-essential-strategies-to-boost-your-team's-sprint-success
 aliases:
 - /resources/ks38bwDTVfM
 - /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success

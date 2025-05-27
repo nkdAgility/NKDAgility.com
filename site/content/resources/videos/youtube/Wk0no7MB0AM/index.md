@@ -3,7 +3,7 @@ title: "Navigating Team Conflict: How Scrum Masters Can Prevent 'War' in Agile P
 description: Explores how Scrum Masters can identify, manage, and prevent destructive team conflict in Agile projects, promoting healthy collaboration and effective communication.
 date: 2023-10-30T14:30:10Z
 weight: 640
-slug: navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
+slug: navigating-team-conflict-how-scrum-masters-can-prevent-'war'-in-agile-projects
 aliases:
 - /resources/Wk0no7MB0AM
 - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM

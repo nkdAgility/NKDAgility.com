@@ -3,7 +3,7 @@ title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
 description: Explains how to use data in Agile management to guide decisions and behaviours, focusing on informed outcomes without letting metrics control teams or stifle value delivery.
 date: 2024-09-11T13:36:29Z
 weight: 690
-slug: mastering-evidence-based-management-in-agile-inform-dont-control
+slug: mastering-evidence-based-management-in-agile-inform-don-t-control
 aliases:
 - /resources/66NuAjzWreY
 - /resources/videos/mastering-evidence-based-management-in-agile-inform-dont-control

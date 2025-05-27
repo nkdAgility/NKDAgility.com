@@ -3,7 +3,7 @@ title: 'Unlocking Team Potential: Why Every Scrum Master Needs a Quality Camera 
 description: Explains how a quality camera helps Scrum Masters boost team engagement, read body language, and foster better communication in remote meetings through clear visuals.
 date: 2023-09-21T07:00:14Z
 weight: 1000
-slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
+slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
 aliases:
 - /resources/gWTCvlUzSZo
 - /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo

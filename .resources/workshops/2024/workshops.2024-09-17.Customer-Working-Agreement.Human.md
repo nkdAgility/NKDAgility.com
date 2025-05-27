@@ -3,21 +3,7 @@ title: Customer Working Agreement
 description: Defines a collaborative workshop to create a Statement of Work and clarify customer and provider responsibilities, agility level, and key commitments for project success.
 date: 2024-09-17
 weight: 840
-ResourceId: hjlKdneL4t8
-ResourceImport: false
-ResourceType: workshops
-ResourceContentOrigin: Human
-resourceTypes: workshop
-layout: workshop
-creator: Martin Hinshelwood
-draft: true
-card:
-  button:
-    content: Learn More
-  content: Discover more about  and how it can help you in your Agile journey!
-  title: 
-Watermarks:
-  description: 2025-05-07T12:58:01Z
+slug: customer-working-agreement
 aliases:
 - workshops/Customer-Working-Agreement.html
 - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
@@ -33,6 +19,21 @@ categories:
 - Product Development
 - Scrum
 tags: []
+ResourceId: hjlKdneL4t8
+ResourceImport: false
+ResourceType: workshops
+ResourceContentOrigin: Human
+resourceTypes: workshop
+layout: workshop
+creator: Martin Hinshelwood
+draft: true
+card:
+  button:
+    content: Learn More
+  content: Discover more about  and how it can help you in your Agile journey!
+  title: 
+Watermarks:
+  description: 2025-05-07T12:58:01Z
 
 ---
 ## Customer Working Agreement

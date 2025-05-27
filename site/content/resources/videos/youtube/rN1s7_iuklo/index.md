@@ -3,7 +3,7 @@ title: Empowering Teams to Maximize Value and Return on Investment
 description: Explores how empowering Agile teams to adapt their processes boosts flexibility, continuous improvement, collaboration, and maximises value and return on investment.
 date: 2024-07-24T06:45:04Z
 weight: 340
-slug: empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo
+slug: empowering-teams-to-maximize-value-and-return-on-investment
 aliases:
 - /resources/rN1s7_iuklo
 - /resources/videos/empowering-teams-to-maximize-value-and-return-on-investment-rN1s7_iuklo

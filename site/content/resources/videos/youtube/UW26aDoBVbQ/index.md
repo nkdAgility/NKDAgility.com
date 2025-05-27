@@ -3,7 +3,7 @@ title: 'Unlocking Success: The Essential Role of Product Ownership in Lean Produ
 description: Explores how effective product ownership and lean delivery drive alignment, collaboration, adaptability, and continuous improvement in modern product development teams.
 date: 2023-09-28T09:01:38Z
 weight: 1000
-slug: unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ
+slug: unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery
 aliases:
 - /resources/UW26aDoBVbQ
 - /resources/videos/unlocking-success-the-essential-role-of-product-ownership-in-lean-product-delivery-UW26aDoBVbQ

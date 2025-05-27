@@ -3,7 +3,7 @@ title: 'Mastering Agile: The Power of "Just Enough and No More" for Optimal Effi
 description: Explores how applying the "just enough and no more" principle in agile practices boosts efficiency, reduces waste, and helps teams focus on delivering real value.
 date: 2023-12-05T11:00:27Z
 weight: 690
-slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k
+slug: mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency
 aliases:
 - /resources/b-2TDkEew2k
 - /resources/videos/mastering-agile-the-power-of-just-enough-and-no-more-for-optimal-efficiency-b-2TDkEew2k

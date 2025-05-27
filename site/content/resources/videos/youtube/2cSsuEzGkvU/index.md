@@ -3,7 +3,7 @@ title: 'Empathy in Agile: Building Trust and Stronger Relationships for Success'
 description: Explores how empathy, trust, and respect strengthen agile teams, improve collaboration, reduce bias, and foster continuous improvement in organisations and with customers.
 date: 2023-12-12T11:00:04Z
 weight: 1000
-slug: empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU
+slug: empathy-in-agile-building-trust-and-stronger-relationships-for-success
 aliases:
 - /resources/2cSsuEzGkvU
 - /resources/videos/empathy-in-agile-building-trust-and-stronger-relationships-for-success-2cSsuEzGkvU

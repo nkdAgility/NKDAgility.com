@@ -3,7 +3,7 @@ title: 'Taming the Chaos Factor: How to Align Your Agile Teams for Success'
 description: Explores common causes of chaos in Agile teams and offers practical strategies to improve alignment, communication, and collaboration for better team performance.
 date: 2023-11-09T10:45:01Z
 weight: 665
-slug: taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs
+slug: taming-the-chaos-factor-how-to-align-your-agile-teams-for-success
 aliases:
 - /resources/ItvOiaC32Hs
 - /resources/videos/taming-the-chaos-factor-how-to-align-your-agile-teams-for-success-ItvOiaC32Hs

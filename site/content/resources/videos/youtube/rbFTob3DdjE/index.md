@@ -3,7 +3,7 @@ title: 'Unlocking Team Potential: The Essential Role of Digital Whiteboards in A
 description: Explores how digital whiteboards boost agile team collaboration, engagement, and organisation, offering practical tips for effective use in remote and hybrid work settings.
 date: 2023-09-19T07:00:21Z
 weight: 1000
-slug: unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE
+slug: unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration
 aliases:
 - /resources/rbFTob3DdjE
 - /resources/videos/unlocking-team-potential-the-essential-role-of-digital-whiteboards-in-agile-collaboration-rbFTob3DdjE

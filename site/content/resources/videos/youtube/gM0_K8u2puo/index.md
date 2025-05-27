@@ -3,7 +3,7 @@ title: 'Mastering Market Leadership: The Power of Frequent Product Releases'
 description: Learn how frequent product releases help businesses lead markets, adapt quickly to change, boost user engagement, and deliver continuous value in a fast-paced digital world.
 date: 2025-02-06T11:02:31Z
 weight: 1000
-slug: mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo
+slug: mastering-market-leadership-the-power-of-frequent-product-releases
 aliases:
 - /resources/gM0_K8u2puo
 - /resources/videos/mastering-market-leadership-the-power-of-frequent-product-releases-gM0_K8u2puo

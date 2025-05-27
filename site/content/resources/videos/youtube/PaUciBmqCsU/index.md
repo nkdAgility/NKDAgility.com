@@ -3,7 +3,7 @@ title: Understanding the Power of Kanban in Scrum
 description: Explains how integrating Kanban with Scrum boosts transparency, limits work in progress, and improves workflow, helping teams identify bottlenecks and deliver value efficiently.
 date: 2024-08-05T06:45:00Z
 weight: 1000
-slug: understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
+slug: understanding-the-power-of-kanban-in-scrum
 aliases:
 - /resources/PaUciBmqCsU
 - /resources/videos/understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU

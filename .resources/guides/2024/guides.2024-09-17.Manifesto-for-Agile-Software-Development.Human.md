@@ -3,24 +3,7 @@ title: Manifesto for Agile Software Development
 description: Outlines core Agile values and principles for software development, emphasising collaboration, adaptability, working software, customer focus, and continuous improvement.
 date: 2024-09-17
 weight: 505
-ResourceId: poyC7fUGitC
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
-resourceTypes: guide
-layout: guide
-references:
-- title: Manifesto for Agile Software Development
-  url: https://agilemanifesto.org/
-recommendedContent: 
-creator: Martin Hinshelwood
-card:
-  button:
-    content: Learn More
-  content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
-  title: Manifesto for Agile Software Development
-Watermarks:
-  description: 2025-05-07T12:58:11Z
+slug: manifesto-for-agile-software-development
 aliases:
 - guides/manifesto-for-agile-software-developmen/
 - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
@@ -43,6 +26,24 @@ tags:
 - Agile Planning
 - Organisational Agility
 - Product Delivery
+ResourceId: poyC7fUGitC
+ResourceImport: false
+ResourceType: guides
+ResourceContentOrigin: Human
+resourceTypes: guide
+layout: guide
+references:
+- title: Manifesto for Agile Software Development
+  url: https://agilemanifesto.org/
+recommendedContent: 
+creator: Martin Hinshelwood
+card:
+  button:
+    content: Learn More
+  content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
+  title: Manifesto for Agile Software Development
+Watermarks:
+  description: 2025-05-07T12:58:11Z
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

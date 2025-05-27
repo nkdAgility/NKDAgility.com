@@ -3,7 +3,7 @@ title: How to Choose the Right Agile Coach for Your Business Success
 description: Learn how to select an Agile coach who is adaptable, experienced across frameworks, and focused on your business needs, ensuring tailored solutions and continuous improvement.
 date: 2023-11-24T11:00:52Z
 weight: 840
-slug: how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
+slug: how-to-choose-the-right-agile-coach-for-your-business-success
 aliases:
 - /resources/vXCIf3eBJfs
 - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs

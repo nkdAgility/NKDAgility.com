@@ -3,7 +3,7 @@ title: Why Limiting Work in Progress is Key to Success in Kanban
 description: Limiting work in progress in Kanban helps teams focus, spot bottlenecks, maintain quality, and deliver value efficiently by ensuring a sustainable, manageable workflow.
 date: 2024-07-22T06:00:19Z
 weight: 1000
-slug: why-limiting-work-in-progress-is-key-to-success-in-kanban-XFN4iXYLE3U
+slug: why-limiting-work-in-progress-is-key-to-success-in-kanban
 aliases:
 - /resources/XFN4iXYLE3U
 - /resources/videos/why-limiting-work-in-progress-is-key-to-success-in-kanban-XFN4iXYLE3U

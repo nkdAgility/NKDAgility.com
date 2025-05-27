@@ -3,7 +3,7 @@ title: 'Unlocking Success: How Small Experiments Transformed Feature Delivery fr
 description: Explores how breaking features into small experiments boosts software delivery, enabling teams to deliver more features, reduce risk, and improve customer-focused products.
 date: 2024-11-20T08:02:36Z
 weight: 790
-slug: unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk
+slug: unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
 aliases:
 - /resources/WEYf9jWG9wk
 - /resources/videos/unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development-WEYf9jWG9wk

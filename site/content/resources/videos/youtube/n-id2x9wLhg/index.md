@@ -3,7 +3,7 @@ title: Why a Shared Definition of Done Is the Secret to Consistent, Predictable 
 description: Struggling with inconsistent delivery? Discover why a shared definition of done is key to predictable, high-quality results your teams—and stakeholders—can trust.
 date: 2025-05-14T07:00:00Z
 weight: 145
-slug: 2-why-every-team-needs-a-shared-definition-of-done-n-id2x9wLhg
+slug: why-a-shared-definition-of-done-is-the-secret-to-consistent-predictable-quality-in-agile-teams
 aliases:
 - /resources/n-id2x9wLhg
 - /resources/videos/2-why-every-team-needs-a-shared-definition-of-done-n-id2x9wLhg

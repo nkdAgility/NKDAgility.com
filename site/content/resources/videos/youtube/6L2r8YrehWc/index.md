@@ -3,7 +3,7 @@ title: Why the Scrum Master’s True Power Lies in Influence, Not Authority
 description: Explains why a Scrum Master leads through influence, not authority, focusing on building trust, fostering team effectiveness, and supporting agile collaboration.
 date: 2023-09-15T07:00:06Z
 weight: 610
-slug: why-the-scrum-masters-true-power-lies-in-influence-not-authority
+slug: why-the-scrum-master-s-true-power-lies-in-influence-not-authority
 aliases:
 - /resources/6L2r8YrehWc
 - /resources/videos/why-the-scrum-masters-true-power-lies-in-influence-not-authority

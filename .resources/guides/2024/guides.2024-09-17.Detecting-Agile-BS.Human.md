@@ -3,6 +3,24 @@ title: Detecting Agile BS
 description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
 date: 2024-09-17
 weight: 360
+slug: detecting-agile-bs
+aliases:
+- /Guides/Detecting-Agile-BS.html
+- /learn/agile-delivery-kit/guides/detecting-agile-bs
+- /resources/Tt8SPr3xJER
+aliasesArchive:
+- /Guides/Detecting-Agile-BS.html
+- /learn/agile-delivery-kit/guides/detecting-agile-bs
+concepts:
+- Tool
+categories:
+- Product Development
+- Engineering Excellence
+tags:
+- Customer Focus
+- Software Development
+- Operational Practices
+- Product Delivery
 ResourceId: Tt8SPr3xJER
 ResourceImport: false
 ResourceType: guides
@@ -34,23 +52,6 @@ card:
   title: Detecting Agile BS
 Watermarks:
   description: 2025-05-07T12:58:02Z
-aliases:
-- /Guides/Detecting-Agile-BS.html
-- /learn/agile-delivery-kit/guides/detecting-agile-bs
-- /resources/Tt8SPr3xJER
-aliasesArchive:
-- /Guides/Detecting-Agile-BS.html
-- /learn/agile-delivery-kit/guides/detecting-agile-bs
-concepts:
-- Tool
-categories:
-- Product Development
-- Engineering Excellence
-tags:
-- Customer Focus
-- Software Development
-- Operational Practices
-- Product Delivery
 
 ---
 Agile is a buzzword of [software development]({{< ref "/tags/software-development" >}}), and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-[scrum]({{< ref "/categories/scrum" >}})-fall”).

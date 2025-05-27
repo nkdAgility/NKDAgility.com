@@ -3,7 +3,7 @@ title: What Does a Poor Product Backlog Look Like?
 description: Learn how to recognise a poor product backlog in Agile and Scrum, including signs like lack of order, unclear priorities, and confusion among team members and stakeholders.
 date: 2023-06-19T13:01:31Z
 weight: 1000
-slug: what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8
+slug: what-does-a-poor-product-backlog-look-like
 aliases:
 - /resources/JqVrh-g-0f8
 - /resources/videos/what-does-a-poor-product-backlog-look-like-JqVrh-g-0f8

@@ -3,7 +3,7 @@ title: 'Harnessing the Power of Empiricism: Transform Your Decision-Making with 
 description: Learn how using empirical, data-driven methods can improve decision-making, foster continuous improvement, and build trust through transparent, evidence-based actions.
 date: 2023-08-17T07:00:09Z
 weight: 1000
-slug: harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ
+slug: harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights
 aliases:
 - /resources/Q46T5DYVKqQ
 - /resources/videos/harnessing-the-power-of-empiricism-transform-your-decision-making-with-data-driven-insights-Q46T5DYVKqQ

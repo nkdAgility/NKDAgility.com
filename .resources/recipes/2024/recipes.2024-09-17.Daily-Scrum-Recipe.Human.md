@@ -3,6 +3,33 @@ title: Daily Scrum Recipe
 description: Guidance for running effective Daily Scrum meetings, focusing on collaboration, transparency, and actionable planning to help teams achieve their Sprint Goals.
 date: 2024-09-17
 weight: 505
+slug: daily-scrum-recipe
+aliases:
+- /recipes/Daily-Scrum-Recipe.html
+- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+- /resources/M4qDhvrXwp-
+aliasesArchive:
+- /recipes/Daily-Scrum-Recipe.html
+- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
+concepts:
+- Practice
+categories:
+- Scrum
+- Product Development
+tags:
+- Daily Scrum
+- Software Development
+- Agile Frameworks
+- Scrum Team
+- Professional Scrum
+- Team Performance
+- Team Collaboration
+- Agile Product Management
+- Social Technologies
+- Agile Planning
+- Pragmatic Thinking
+- Product Delivery
+- Transparency
 ResourceId: M4qDhvrXwp-
 ResourceImport: false
 ResourceType: recipes
@@ -35,32 +62,6 @@ card:
   title: Daily Scrum Recipe
 Watermarks:
   description: 2025-05-07T12:57:50Z
-aliases:
-- /recipes/Daily-Scrum-Recipe.html
-- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
-- /resources/M4qDhvrXwp-
-aliasesArchive:
-- /recipes/Daily-Scrum-Recipe.html
-- /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
-concepts:
-- Practice
-categories:
-- Scrum
-- Product Development
-tags:
-- Daily Scrum
-- Software Development
-- Agile Frameworks
-- Scrum Team
-- Professional Scrum
-- Team Performance
-- Team Collaboration
-- Agile Product Management
-- Social Technologies
-- Agile Planning
-- Pragmatic Thinking
-- Product Delivery
-- Transparency
 
 ---
 The Daily [Scrum]({{< ref "/categories/scrum" >}}) is an essential event in the Scrum framework. It offers the

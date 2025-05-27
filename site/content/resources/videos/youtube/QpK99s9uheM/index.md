@@ -3,7 +3,7 @@ title: 'From Control to Collaboration: How Project Managers Can Embrace Agility 
 description: Explores how project managers can shift from control to collaboration, adopt agile mindsets, embrace uncertainty, and foster team empowerment for project success.
 date: 2023-05-24T07:00:23Z
 weight: 1000
-slug: from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM
+slug: from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive
 aliases:
 - /resources/QpK99s9uheM
 - /resources/videos/from-control-to-collaboration-how-project-managers-can-embrace-agility-and-thrive-QpK99s9uheM

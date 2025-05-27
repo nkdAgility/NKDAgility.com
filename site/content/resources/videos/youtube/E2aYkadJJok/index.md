@@ -3,7 +3,7 @@ title: 'Mastering Your Kanban Board: A Practical Guide to Visualising Workflows 
 description: Learn how to design and customise Kanban boards to visualise workflows, identify bottlenecks, and boost team efficiency through clear, practical process mapping.
 date: 2024-07-08T06:00:07Z
 weight: 1000
-slug: mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok
+slug: mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency
 aliases:
 - /resources/E2aYkadJJok
 - /resources/videos/mastering-your-kanban-board-a-practical-guide-to-visualising-workflows-for-maximum-efficiency-E2aYkadJJok

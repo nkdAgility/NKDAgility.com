@@ -3,7 +3,7 @@ title: 'Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback 
 description: Explores the impact of lacking feedback and engagement in Agile teams, highlighting risks and offering strategies to boost stakeholder involvement and team motivation.
 date: 2023-11-08T06:45:00Z
 weight: 1000
-slug: combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
+slug: combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
 aliases:
 - /resources/ARhXjid0zSE
 - /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE

@@ -3,7 +3,7 @@ title: 1 thing you wish you knew at the start of your Scrum journey?
 description: Learn why combining Lean principles with Scrum from the start boosts team efficiency, collaboration, and insight, leading to a more successful and informed Agile journey.
 date: 2023-08-04T07:00:03Z
 weight: 1000
-slug: 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4
+slug: 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 aliases:
 - /resources/5s9vi8PiFM4
 - /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-5s9vi8PiFM4

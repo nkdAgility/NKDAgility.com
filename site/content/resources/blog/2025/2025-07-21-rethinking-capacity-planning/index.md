@@ -3,6 +3,9 @@ title: Rethinking Capacity Planning
 description: Explores how effective capacity planning shifts focus from individual hours to system-level flow, using Lean and Agile principles to improve predictability and value delivery.
 date: 2025-07-21T09:00:00Z
 weight: 245
+slug: rethinking-capacity-planning
+aliases:
+- /resources/AhxlPTOD1yy
 ResourceId: AhxlPTOD1yy
 ResourceImport: false
 ResourceType: blog
@@ -15,8 +18,6 @@ contributors:
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-07T12:48:54Z
-aliases:
-- /resources/AhxlPTOD1yy
 concepts:
 - Principle
 categories:

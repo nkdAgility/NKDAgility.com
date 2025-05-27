@@ -3,7 +3,7 @@ title: 'Stop Firefighting Bugs: Why Shifting Left Saves Time, Money, and Your Re
 description: Stop firefighting late-stage bugs—discover how shifting left saves time, money, and reputation by building quality in from the start. Learn the smarter way.
 date: 2025-06-04T06:00:00Z
 weight: 165
-slug: 5-shift-left-with-a-strong-definition-of-done-cgZVYLmyyH0
+slug: stop-firefighting-bugs-why-shifting-left-saves-time-money-and-your-reputation
 aliases:
 - /resources/cgZVYLmyyH0
 - /resources/videos/5-shift-left-with-a-strong-definition-of-done-cgZVYLmyyH0

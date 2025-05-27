@@ -3,6 +3,9 @@ title: How Lack of Agency is Killing Your DevOps Initiatives
 description: Explores how lacking developer control over production, telemetry, and deployments undermines DevOps, leading to fragile automation and failed continuous delivery.
 date: 2025-06-16T09:00:00Z
 weight: 285
+slug: how-lack-of-agency-is-killing-your-devops-initiatives
+aliases:
+- /resources/AgIU1SK-3pE
 ResourceId: AgIU1SK-3pE
 ResourceImport: false
 ResourceType: blog
@@ -29,8 +32,6 @@ tags:
 - Technical Excellence
 Watermarks:
   description: 2025-05-07T12:49:01Z
-aliases:
-- /resources/AgIU1SK-3pE
 
 ---
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  

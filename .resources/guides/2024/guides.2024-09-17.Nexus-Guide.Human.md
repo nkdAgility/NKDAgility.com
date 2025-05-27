@@ -3,33 +3,7 @@ title: Nexus Guide
 description: Explains the Nexus framework for scaling Scrum with multiple teams, detailing roles, events, and artefacts to coordinate product delivery and manage cross-team dependencies.
 date: 2024-09-17
 weight: 750
-ResourceId: iC8MlA3TE7S
-ResourceImport: false
-ResourceType: guides
-ResourceContentOrigin: Human
-resourceTypes: guide
-layout: guide
-references:
-- title: The 2020 Scrum Guide
-  url: https://scrumguides.org/scrum-guide.html
-- title: The Nexus Guide
-  url: https://www.scrum.org/resources/online-nexus-guide
-recommendedContent:
-- collection: practices
-  path: _practices/definition-of-done-dod.md
-- collection: practices
-  path: _practices/definition-of-ready-dor.md
-videos:
-- title: Overview of The Scrum Framework with Martin Hinshelwood
-  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
-creator: Martin Hinshelwood
-card:
-  button:
-    content: Learn More
-  content: Discover more about Nexus Guide and how it can help you in your Agile journey!
-  title: Nexus Guide
-Watermarks:
-  description: 2025-05-07T12:58:25Z
+slug: nexus-guide
 aliases:
 - guides/Nexus-Framework/
 - guides/Nexus-Framework.html
@@ -60,6 +34,33 @@ tags:
 - Working Software
 - Scrum Team
 - Agile Transformation
+ResourceId: iC8MlA3TE7S
+ResourceImport: false
+ResourceType: guides
+ResourceContentOrigin: Human
+resourceTypes: guide
+layout: guide
+references:
+- title: The 2020 Scrum Guide
+  url: https://scrumguides.org/scrum-guide.html
+- title: The Nexus Guide
+  url: https://www.scrum.org/resources/online-nexus-guide
+recommendedContent:
+- collection: practices
+  path: _practices/definition-of-done-dod.md
+- collection: practices
+  path: _practices/definition-of-ready-dor.md
+videos:
+- title: Overview of The Scrum Framework with Martin Hinshelwood
+  embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+creator: Martin Hinshelwood
+card:
+  button:
+    content: Learn More
+  content: Discover more about Nexus Guide and how it can help you in your Agile journey!
+  title: Nexus Guide
+Watermarks:
+  description: 2025-05-07T12:58:25Z
 
 ---
 The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus

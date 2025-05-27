@@ -3,7 +3,7 @@ title: The Importance of Evidence-Based Management in Agile Environments
 description: Explains how evidence-based management helps Agile teams use data and key metrics to measure progress, make informed decisions, and drive continuous improvement.
 date: 2024-01-22T11:00:07Z
 weight: 690
-slug: the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4
+slug: the-importance-of-evidence-based-management-in-agile-environments
 aliases:
 - /resources/9kZicmokyZ4
 - /resources/videos/the-importance-of-evidence-based-management-in-agile-environments-9kZicmokyZ4

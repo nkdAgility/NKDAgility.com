@@ -3,7 +3,7 @@ title: 'Navigating Team Conflict: From Healthy Disagreement to Agile Harmony'
 description: Explores recognising and managing team conflict in Agile, outlining stages from healthy disagreement to destructive "war" and offering practical de-escalation strategies.
 date: 2023-11-07T11:30:07Z
 weight: 610
-slug: navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY
+slug: navigating-team-conflict-from-healthy-disagreement-to-agile-harmony
 aliases:
 - /resources/GGtb7Yg8gHY
 - /resources/videos/navigating-team-conflict-from-healthy-disagreement-to-agile-harmony-GGtb7Yg8gHY

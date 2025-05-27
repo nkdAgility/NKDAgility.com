@@ -3,7 +3,7 @@ title: 'Ditching the Myth of Special Sprints: Embrace True Agile Practices for U
 description: Explains why relying on special Sprints undermines Agile, and advocates for continuous improvement, accountability, and delivering usable products each Sprint.
 date: 2024-01-04T12:14:45Z
 weight: 1000
-slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU
+slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 aliases:
 - /resources/uvZ9TGbMtnU
 - /resources/videos/ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products-uvZ9TGbMtnU

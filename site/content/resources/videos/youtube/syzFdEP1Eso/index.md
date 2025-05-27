@@ -3,7 +3,7 @@ title: Why 'Definition of Done' is Crucial for Success in Scrum
 description: Explains how a clear Definition of Done in Scrum ensures consistent quality, team alignment, and customer satisfaction across all projects, regardless of the solution.
 date: 2023-11-14T07:00:30Z
 weight: 840
-slug: why-definition-of-done-is-crucial-for-success-in-scrum
+slug: why-'definition-of-done'-is-crucial-for-success-in-scrum
 aliases:
 - /resources/syzFdEP1Eso
 - /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum

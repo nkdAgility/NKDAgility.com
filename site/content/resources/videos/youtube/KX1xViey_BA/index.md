@@ -3,7 +3,7 @@ title: 'Quotes: In the past the man has been first; in the future the system mus
 description: Explores the shift from people to systems in work, the impact on Agile practices, and the importance of balancing efficient systems with human collaboration.
 date: 2023-10-12T11:00:15Z
 weight: 1000
-slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA
+slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 aliases:
 - /resources/KX1xViey_BA
 - /resources/videos/quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor-KX1xViey_BA

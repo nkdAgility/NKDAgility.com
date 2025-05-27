@@ -3,7 +3,7 @@ title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its
 description: Explains why DevOps is a mindset focused on collaboration and continuous improvement, not just tools, and highlights its true value in modern software development practices.
 date: 2023-06-07T07:00:02Z
 weight: 480
-slug: devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+slug: devops-demystified-why-it's-more-than-just-tools-and-how-to-embrace-its-true-value
 aliases:
 - /resources/BhGThHrOc8Y
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value

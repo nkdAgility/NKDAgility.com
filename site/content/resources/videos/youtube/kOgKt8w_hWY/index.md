@@ -3,7 +3,7 @@ title: 'Transforming Enterprises: How DevOps Drives Collaboration and Continuous
 description: Explores how DevOps enhances enterprise collaboration, continuous improvement, automation, and customer focus to drive cultural and operational transformation.
 date: 2020-06-16T12:16:52Z
 weight: 1000
-slug: transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement-kOgKt8w_hWY
+slug: transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
 aliases:
 - /resources/kOgKt8w_hWY
 - /resources/videos/transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement-kOgKt8w_hWY

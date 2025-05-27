@@ -3,7 +3,7 @@ title: Can you align DevOps and Software Engineering Teams Through Scrum?
 description: Explores how Scrum can align DevOps and software engineering teams by fostering transparency, feedback, and engineering excellence in Agile software development.
 date: 2023-06-16T14:30:05Z
 weight: 330
-slug: can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
+slug: can-you-align-devops-and-software-engineering-teams-through-scrum
 aliases:
 - /resources/Fg90Nit7Q9Q
 - /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q

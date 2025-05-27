@@ -3,7 +3,7 @@ title: What is Project Management?
 description: Explains project management’s origins, key tools like the Gantt chart, and its evolution into a vital method for planning and delivering work in today’s business world.
 date: 2023-05-22T07:00:14Z
 weight: 1000
-slug: what-is-project-management-jmU91ClcSqA
+slug: what-is-project-management
 aliases:
 - /resources/jmU91ClcSqA
 - /resources/videos/what-is-project-management-jmU91ClcSqA

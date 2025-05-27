@@ -3,7 +3,7 @@ title: 'Mastering Product Ownership: Unlocking the Secrets to Effective Product 
 description: Explores the vital role of product ownership in agile teams, highlighting key skills, challenges, and strategies for effective product management and team success.
 date: 2023-09-05T07:00:12Z
 weight: 1000
-slug: mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
+slug: mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams
 aliases:
 - /resources/WIVDWzps4aY
 - /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY

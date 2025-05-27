@@ -3,7 +3,7 @@ title: Unlocking the Power of Immersive Learning in Agile
 description: Explores how immersive, hands-on learning helps teams internalise Agile principles, shift mindsets, and drive lasting Agile transformation through real-world experience.
 date: 2024-02-03T07:00:12Z
 weight: 690
-slug: unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI
+slug: unlocking-the-power-of-immersive-learning-in-agile
 aliases:
 - /resources/OlzXHZihQzI
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-OlzXHZihQzI

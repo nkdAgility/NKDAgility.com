@@ -3,7 +3,7 @@ title: Must have trait in an Agile Consultant
 description: Tenacity is essential for Agile Consultants, enabling them to persistently drive meaningful change, overcome obstacles, and maintain focus throughout the Agile journey.
 date: 2023-05-01T09:30:00Z
 weight: 1000
-slug: must-have-trait-in-an-agile-consultant-agPLmBdXdbk
+slug: must-have-trait-in-an-agile-consultant
 aliases:
 - /resources/agPLmBdXdbk
 - /resources/videos/must-have-trait-in-an-agile-consultant-agPLmBdXdbk

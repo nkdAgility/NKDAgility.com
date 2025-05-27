@@ -3,7 +3,7 @@ title: 'The Key to Being an Effective Agile Coach: Understanding the Team’s Co
 description: Effective Agile coaching relies on understanding your team's unique context and domain, enabling tailored guidance, empathy, and practical solutions for real-world challenges.
 date: 2023-11-17T11:00:55Z
 weight: 665
-slug: the-key-to-being-an-effective-agile-coach-understanding-the-teams-context
+slug: the-key-to-being-an-effective-agile-coach-understanding-the-team-s-context
 aliases:
 - /resources/s_kWkDCbp9Y
 - /resources/videos/the-key-to-being-an-effective-agile-coach-understanding-the-teams-context

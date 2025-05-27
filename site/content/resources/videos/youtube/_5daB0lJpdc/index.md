@@ -3,7 +3,7 @@ title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmat
 description: Explores the dangers of dogmatism in Agile, highlighting the need for flexibility, pragmatism, and people-focused adaptation over rigid rule-following in teams.
 date: 2023-12-28T08:40:54Z
 weight: 1000
-slug: introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+slug: introduction-to-agility-s-ghosts-shedding-dogma-and-embracing-pragmatism
 aliases:
 - /resources/_5daB0lJpdc
 - /resources/videos/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism

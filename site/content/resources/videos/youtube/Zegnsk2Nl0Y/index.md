@@ -3,7 +3,7 @@ title: Why Azure DevOps is the Ultimate Game Changer for Scrum Masters and Agile
 description: Explains how Azure DevOps streamlines agile workflows for Scrum Masters and teams, offering simplicity, integrated tools, real-time insights, and improved collaboration.
 date: 2023-09-28T07:00:22Z
 weight: 1000
-slug: why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams-Zegnsk2Nl0Y
+slug: why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams
 aliases:
 - /resources/Zegnsk2Nl0Y
 - /resources/videos/why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams-Zegnsk2Nl0Y

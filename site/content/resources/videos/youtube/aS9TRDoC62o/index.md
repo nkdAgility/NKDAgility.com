@@ -3,7 +3,7 @@ title: If a client hasn't considered DevOps consulting as part of their Agile Co
 description: DevOps consulting enhances Agile by improving collaboration, accelerating delivery, and ensuring quality, making software development more efficient and resilient.
 date: 2023-08-21T07:00:01Z
 weight: 220
-slug: if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
+slug: if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 aliases:
 - /resources/aS9TRDoC62o
 - /resources/videos/if-a-client-hasnt-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they

@@ -3,7 +3,7 @@ title: 1 thing that sinks a consulting engagement before it starts gaining tract
 description: Overly detailed consulting contracts can hinder project success by limiting flexibility; focus on outcomes and value to adapt to changing client needs and product goals.
 date: 2023-08-19T07:00:06Z
 weight: 1000
-slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM
+slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 aliases:
 - /resources/7VBtGTlkAdM
 - /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-7VBtGTlkAdM

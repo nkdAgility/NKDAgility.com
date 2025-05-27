@@ -3,7 +3,7 @@ title: 30% Discount for Existing Alumni Overview
 description: A 30% discount is offered to alumni, recognising their dedication and supporting continued growth in DevOps, Agile, and Scrum skills through further learning opportunities.
 date: 2023-06-09T11:00:46Z
 weight: 1000
-slug: 30-discount-for-existing-alumni-overview-ypVIcgSEvMc
+slug: 30-discount-for-existing-alumni-overview
 aliases:
 - /resources/ypVIcgSEvMc
 - /resources/videos/30-discount-for-existing-alumni-overview-ypVIcgSEvMc

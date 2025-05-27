@@ -3,7 +3,7 @@ title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus
 description: Explains why lasting organisational change comes from adjusting systems—rules, processes, and structures—rather than trying to directly transform culture.
 date: 2024-01-21T07:00:06Z
 weight: 1000
-slug: theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+slug: there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
 aliases:
 - /resources/Ca_0rw9AUlg
 - /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture

@@ -3,7 +3,7 @@ title: "Unlocking Agility: How EPS Immersive Learning Transforms Your Team's Per
 description: Discover how EPS immersive learning boosts team agility with structured feedback, coaching, and tailored sessions, driving continuous improvement in real-world settings.
 date: 2023-08-16T07:00:03Z
 weight: 640
-slug: unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance
+slug: unlocking-agility-how-eps-immersive-learning-transforms-your-team's-performance
 aliases:
 - /resources/6S9LGyxU2cQ
 - /resources/videos/unlocking-agility-how-eps-immersive-learning-transforms-your-teams-performance

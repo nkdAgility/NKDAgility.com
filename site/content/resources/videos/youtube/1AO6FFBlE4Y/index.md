@@ -3,7 +3,7 @@ title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpo
 description: Explores the financial, productivity, and reputational impacts of poor-quality code, and offers practical steps to turn code quality into a competitive advantage.
 date: 2024-11-19T09:58:28Z
 weight: 230
-slug: the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+slug: the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
 aliases:
 - /resources/1AO6FFBlE4Y
 - /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower

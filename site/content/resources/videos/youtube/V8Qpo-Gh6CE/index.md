@@ -3,7 +3,7 @@ title: Why Your Definition of Done Is the Secret Weapon for Real Business Impact
 description: Transform your definition of done into a strategic advantage—deliver real value, reduce risk, and drive business impact with every sprint.
 date: 2025-06-18T06:45:00Z
 weight: 205
-slug: 7-done-is-a-strategic-lever-not-a-technical-checkbox-V8Qpo-Gh6CE
+slug: why-your-definition-of-done-is-the-secret-weapon-for-real-business-impact-and-agile-growth
 aliases:
 - /resources/V8Qpo-Gh6CE
 - /resources/videos/7-done-is-a-strategic-lever-not-a-technical-checkbox-V8Qpo-Gh6CE

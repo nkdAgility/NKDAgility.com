@@ -3,6 +3,27 @@ title: Sprint Planning Recipe
 description: Step-by-step guide to effective Sprint Planning in Scrum, covering goal setting, backlog selection, team capacity, actionable plans, and clear communication with stakeholders.
 date: 2024-09-17
 weight: 790
+slug: sprint-planning-recipe
+aliases:
+- /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+- /resources/D1dSEM9ni3C
+aliasesArchive:
+- /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+concepts:
+- Method
+categories:
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Agile Planning
+- Professional Scrum
+- Scrum Team
+- Agile Product Management
+- Product Delivery
+- Agile Frameworks
+- Agile Planning Tools
+- Team Performance
 ResourceId: D1dSEM9ni3C
 ResourceImport: false
 ResourceType: recipes
@@ -34,26 +55,6 @@ card:
   title: Sprint Planning Recipe
 Watermarks:
   description: 2025-05-07T12:57:48Z
-aliases:
-- /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
-- /resources/D1dSEM9ni3C
-aliasesArchive:
-- /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
-concepts:
-- Method
-categories:
-- Scrum
-- Product Development
-tags:
-- Software Development
-- Agile Planning
-- Professional Scrum
-- Scrum Team
-- Agile Product Management
-- Product Delivery
-- Agile Frameworks
-- Agile Planning Tools
-- Team Performance
 
 ---
 The purpose of [Sprint Planning](./../_guides/scrum-guide.md#sprint-planning) is to create a plan for the Sprint. The entire [Scrum]({{< ref "/categories/scrum" >}}) Team attends as well as anyone they deem necessary to help them. While there is a maximum of 8h for this event, the greater the degree of understanding that the [Scrum Team]({{< ref "/tags/scrum-team" >}}) has going in, the shorter it will be. That is, if the [Product Backlog]({{< ref "/tags/product-backlog" >}}) is well understood and the Product Goal is clear, then the Sprint Planning will be short. If the Product Backlog is not well understood or the Product Goal is not clear, then the Sprint Planning will be longer.

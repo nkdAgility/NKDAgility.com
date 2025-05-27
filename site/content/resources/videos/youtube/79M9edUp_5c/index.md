@@ -3,7 +3,7 @@ title: 'Embracing Asynchronous Communication: Transform Your Collaboration and B
 description: Discover how asynchronous communication improves team collaboration, flexibility, and productivity by enabling thoughtful, documented interactions without time constraints.
 date: 2023-09-26T07:00:02Z
 weight: 1000
-slug: embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c
+slug: embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity
 aliases:
 - /resources/79M9edUp_5c
 - /resources/videos/embracing-asynchronous-communication-transform-your-collaboration-and-boost-productivity-79M9edUp_5c

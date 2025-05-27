@@ -3,7 +3,7 @@ title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Driv
 description: Explains how focusing on isolated improvements in governance can harm overall organisational success, and offers strategies for integrated, system-wide optimisation.
 date: 2025-02-08T07:49:38Z
 weight: 1000
-slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw
+slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
 aliases:
 - /resources/ACZWkkvKEnw
 - /resources/videos/avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success-ACZWkkvKEnw

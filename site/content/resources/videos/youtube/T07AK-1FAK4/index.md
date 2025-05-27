@@ -3,7 +3,7 @@ title: 'Beware the Fake Agilists: How to Protect Your Team from the Agile Apocal
 description: Learn how to identify and prevent the harm caused by unqualified Agile leaders, protect team trust, and ensure genuine Agile practices drive software development success.
 date: 2023-11-07T07:36:21Z
 weight: 1000
-slug: beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse-T07AK-1FAK4
+slug: beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse
 aliases:
 - /resources/T07AK-1FAK4
 - /resources/videos/beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse-T07AK-1FAK4

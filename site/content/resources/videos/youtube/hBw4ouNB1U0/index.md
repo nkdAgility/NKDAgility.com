@@ -3,7 +3,7 @@ title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Wo
 description: Explores how using metrics and visual tools enhances workflow transparency, helps identify improvement areas, and supports a culture of continuous process optimisation.
 date: 2024-08-19T06:45:02Z
 weight: 305
-slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0
+slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 aliases:
 - /resources/hBw4ouNB1U0
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success-hBw4ouNB1U0

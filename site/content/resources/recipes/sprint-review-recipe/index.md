@@ -3,6 +3,33 @@ title: Sprint Review Recipe
 description: Step-by-step guide for running a Sprint Review, including presenting the increment, gathering feedback, updating the backlog, forecasting, and addressing stakeholder questions.
 date: 2024-09-17
 weight: 750
+slug: sprint-review-recipe
+aliases:
+- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+- /resources/K4kkSAG3R7m
+aliasesArchive:
+- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
+concepts:
+- Method
+categories:
+- Scrum
+- Product Development
+- Product Management
+tags:
+- Sprint Review
+- Software Development
+- Pragmatic Thinking
+- Professional Scrum
+- Agile Planning
+- Agile Product Management
+- Product Owner
+- Product Delivery
+- Empirical Process Control
+- Value Delivery
+- Working Software
+- Agile Frameworks
+- Forecasting
+- Team Performance
 ResourceId: K4kkSAG3R7m
 ResourceImport: false
 ResourceType: recipes
@@ -36,32 +63,6 @@ card:
   title: Sprint Review Recipe
 Watermarks:
   description: 2025-05-07T12:57:45Z
-aliases:
-- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
-- /resources/K4kkSAG3R7m
-aliasesArchive:
-- /learn/agile-delivery-kit/recipes/sprint-review-recipe/
-concepts:
-- Method
-categories:
-- Scrum
-- Product Development
-- Product Management
-tags:
-- Sprint Review
-- Software Development
-- Pragmatic Thinking
-- Professional Scrum
-- Agile Planning
-- Agile Product Management
-- Product Owner
-- Product Delivery
-- Empirical Process Control
-- Value Delivery
-- Working Software
-- Agile Frameworks
-- Forecasting
-- Team Performance
 
 ---
 When designing a flow for an event, it is hugely important to be clear on the purpose. For the [Sprint Review]({{< ref "/tags/sprint-review" >}}), the purpose is to inspect the [increment]({{< ref "/tags/increment" >}}) that was created during the Sprint as well as to adapt the [Product Backlog]({{< ref "/tags/product-backlog" >}}) based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.

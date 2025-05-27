@@ -3,7 +3,7 @@ title: The Power of Peer Feedback in Immersive Learning
 description: Explores how peer feedback in immersive Scrum and Agile training enhances learning, fosters real-world application, and supports continuous improvement for participants.
 date: 2024-02-07T07:00:27Z
 weight: 1000
-slug: the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU
+slug: the-power-of-peer-feedback-in-immersive-learning
 aliases:
 - /resources/yQlrN2OviCU
 - /resources/videos/the-power-of-peer-feedback-in-immersive-learning-yQlrN2OviCU

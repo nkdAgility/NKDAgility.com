@@ -3,7 +3,7 @@ title: "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Comple
 description: Explores why fixed best practices don't suit complex continuous delivery, highlighting adaptive approaches like audience-based delivery, testing in production, and ongoing improvement.
 date: 2025-01-23T06:30:03Z
 weight: 255
-slug: rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments
+slug: rethinking-continuous-delivery-why-best-practices-don't-exist-in-complex-environments
 aliases:
 - /resources/5J8RLcOAE3E
 - /resources/videos/rethinking-continuous-delivery-why-best-practices-dont-exist-in-complex-environments

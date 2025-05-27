@@ -3,7 +3,7 @@ title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
 description: Learn the three core Kanban principles—visualising workflow, actively managing tasks, and continuous improvement—to boost team efficiency, transparency, and collaboration.
 date: 2024-07-01T07:00:24Z
 weight: 1000
-slug: mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI
+slug: mastering-kanban-a-simple-guide-to-its-core-principles
 aliases:
 - /resources/nfTAYRLAaYI
 - /resources/videos/mastering-kanban-a-simple-guide-to-its-core-principles-nfTAYRLAaYI

@@ -3,7 +3,7 @@ title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
 description: Explains the pitfalls of micromanagement in Agile, showing Product Owners how to avoid "Agile Banditry" by focusing on vision, value, and empowering their teams.
 date: 2024-01-10T07:00:11Z
 weight: 1000
-slug: how-to-overcome-agile-banditry-a-product-owners-journey
+slug: how-to-overcome-agile-banditry-a-product-owner-s-journey
 aliases:
 - /resources/EoInrPvjBHo
 - /resources/videos/how-to-overcome-agile-banditry-a-product-owners-journey

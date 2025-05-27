@@ -3,7 +3,7 @@ title: 5 critical Skills to master as an Agile Consultant?  Part 1
 description: Explores essential skills for Agile consultants, focusing on understanding client context, embracing uncertainty, learning from setbacks, and continuous adaptation.
 date: 2023-08-07T07:00:10Z
 weight: 1000
-slug: 5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs
+slug: 5-critical-skills-to-master-as-an-agile-consultant-part-1
 aliases:
 - /resources/Ye016yOxvcs
 - /resources/videos/5-critical-skills-to-master-as-an-agile-consultant-part-1-Ye016yOxvcs

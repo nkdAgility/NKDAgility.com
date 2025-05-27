@@ -3,7 +3,7 @@ title: '#1 tip for a new Scrum Master'
 description: New Scrum Masters should start by thoroughly reading the Scrum Guide to understand Scrum principles, roles, and practices, forming a strong foundation for Agile success.
 date: 2023-05-17T07:00:14Z
 weight: 690
-slug: -1-tip-for-a-new-scrum-master-cR4D4qQe9ps
+slug: 1-tip-for-a-new-scrum-master
 aliases:
 - /resources/cR4D4qQe9ps
 - /resources/videos/-1-tip-for-a-new-scrum-master-cR4D4qQe9ps

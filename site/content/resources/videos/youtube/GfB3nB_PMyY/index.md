@@ -3,7 +3,7 @@ title: 'The Power of Immersive Learning: Bridging Theory and Experience'
 description: Explains how immersive learning combines Agile and Scrum theory with hands-on practice, real-world scenarios, and expert guidance to boost skills, confidence, and teamwork.
 date: 2024-02-09T07:00:06Z
 weight: 1000
-slug: the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
+slug: the-power-of-immersive-learning-bridging-theory-and-experience
 aliases:
 - /resources/GfB3nB_PMyY
 - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY

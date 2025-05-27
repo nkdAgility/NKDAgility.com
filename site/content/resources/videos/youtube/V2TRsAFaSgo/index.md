@@ -3,7 +3,7 @@ title: 'Breaking Free from Vendor Lock-In: How to Regain Control and Future-Proo
 description: Struggling with vendor lock-in? Discover practical steps to break free from legacy contracts and regain control of your business’s systems of work.
 date: 2025-05-19T06:00:00Z
 weight: 435
-slug: 7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack
+slug: breaking-free-from-vendor-lock-in-how-to-regain-control-and-future-proof-your-business
 aliases:
 - /resources/V2TRsAFaSgo
 - /resources/videos/7-breaking-vendor-lock-in-how-to-regain-control-over-your-tech-stack

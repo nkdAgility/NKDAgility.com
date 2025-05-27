@@ -3,7 +3,7 @@ title: 'Embrace Kaizen: Unlocking Continuous Improvement for Personal and Team S
 description: Explains how adopting Kaizen’s continuous improvement approach can enhance personal growth, team collaboration, and process optimisation in work and daily life.
 date: 2024-08-14T07:04:17Z
 weight: 380
-slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg
+slug: embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success
 aliases:
 - /resources/V44iUwv0Jcg
 - /resources/videos/embrace-kaizen-unlocking-continuous-improvement-for-personal-and-team-success-V44iUwv0Jcg

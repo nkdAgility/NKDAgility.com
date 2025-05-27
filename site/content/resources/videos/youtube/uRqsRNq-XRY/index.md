@@ -3,7 +3,7 @@ title: 'Navigating the Judgment Trap: How to Foster a Healthy Agile Environment'
 description: Explores how judgment in Agile teams harms morale and innovation, and offers practical steps to create a supportive, collaborative, and growth-focused Agile environment.
 date: 2023-11-09T06:45:04Z
 weight: 455
-slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
+slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
 aliases:
 - /resources/uRqsRNq-XRY
 - /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY

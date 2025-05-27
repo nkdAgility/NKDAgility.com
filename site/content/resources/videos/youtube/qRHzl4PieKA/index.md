@@ -3,7 +3,7 @@ title: Are Your Teams Empowered to Change Requirements Based on User Feedback? I
 description: Empowering teams to adapt requirements based on user feedback is key to true agility. Learn why backlog updates and team engagement drive better, user-focused products.
 date: 2024-07-17T06:45:01Z
 weight: 750
-slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA
+slug: are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-you-re-probably-not-very-agile
 aliases:
 - /resources/qRHzl4PieKA
 - /resources/videos/are-your-teams-empowered-to-change-requirements-based-on-user-feedback-if-not-youre-probably-not-very-agile-qRHzl4PieKA

@@ -3,7 +3,7 @@ title: Scrum doesn't solve problems, it reveals them. How, and why is that valua
 description: Explains how Scrum exposes hidden organisational problems through transparency and feedback, enabling teams to identify issues, improve processes, and drive real change.
 date: 2023-09-27T07:00:29Z
 weight: 590
-slug: scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
+slug: scrum-doesn't-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 aliases:
 - /resources/Ys0dWfKVSeA
 - /resources/videos/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable

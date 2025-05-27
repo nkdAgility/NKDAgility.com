@@ -3,7 +3,7 @@ title: 'DevOps: The Practical Path to Modernising Legacy Systems Without Startin
 description: Unlock legacy system agility—discover how DevOps transforms slow, brittle tech into fast, scalable, and change-ready platforms without starting from scratch.
 date: 2025-06-02T06:00:00Z
 weight: 190
-slug: 9-the-role-of-devops-in-legacy-system-modernization
+slug: devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
 aliases:
 - /resources/Tr1b0hru0zE
 - /resources/videos/9-the-role-of-devops-in-legacy-system-modernization

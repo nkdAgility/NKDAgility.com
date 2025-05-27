@@ -3,7 +3,7 @@ title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Account
 description: Explains how Product Owners can use effective prioritisation to maximise value, manage budgets, and build accountability through clear communication and stakeholder engagement.
 date: 2023-11-27T11:00:56Z
 weight: 1000
-slug: mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM
+slug: mastering-prioritisation-how-product-owners-can-drive-value-and-accountability
 aliases:
 - /resources/xLUsgKWzkUM
 - /resources/videos/mastering-prioritisation-how-product-owners-can-drive-value-and-accountability-xLUsgKWzkUM

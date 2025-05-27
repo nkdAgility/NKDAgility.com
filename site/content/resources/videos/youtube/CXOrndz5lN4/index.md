@@ -3,7 +3,7 @@ title: 'Cultivating a Culture of Engineering Excellence: The Essential Role of T
 description: Explores how technical leadership shapes a culture of engineering excellence through clear standards, continuous learning, collaboration, and ongoing improvement in organisations.
 date: 2024-11-26T17:53:11Z
 weight: 205
-slug: cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4
+slug: cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership
 aliases:
 - /resources/CXOrndz5lN4
 - /resources/videos/cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership-CXOrndz5lN4

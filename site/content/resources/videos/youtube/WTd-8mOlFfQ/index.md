@@ -3,7 +3,7 @@ title: 'Part 2: Common Mistakes that Scrum Masters Make'
 description: Explains why Scrum Masters should avoid taking on administrative tasks, highlighting the importance of focusing on team effectiveness rather than acting as a team secretary.
 date: 2023-07-07T14:00:33Z
 weight: 790
-slug: part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ
+slug: part-2-common-mistakes-that-scrum-masters-make
 aliases:
 - /resources/WTd-8mOlFfQ
 - /resources/videos/part-2-common-mistakes-that-scrum-masters-make-WTd-8mOlFfQ

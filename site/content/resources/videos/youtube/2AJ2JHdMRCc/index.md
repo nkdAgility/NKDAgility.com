@@ -3,7 +3,7 @@ title: Why is DevOps such a Critical Element of Software Engineering?
 description: DevOps integrates development and operations to enable continuous delivery, faster feedback, and efficient product deployment in modern software engineering.
 date: 2023-06-14T14:30:02Z
 weight: 500
-slug: why-is-devops-such-a-critical-element-of-software-engineering-2AJ2JHdMRCc
+slug: why-is-devops-such-a-critical-element-of-software-engineering
 aliases:
 - /resources/2AJ2JHdMRCc
 - /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering-2AJ2JHdMRCc

@@ -3,7 +3,7 @@ title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breakin
 description: Struggling with legacy systems? Discover how to modernise securely, reduce risk, and build resilience—without trading old problems for new ones.
 date: 2025-05-12T06:00:00Z
 weight: 480
-slug: 6-security-compliance-in-legacy-system-modernization
+slug: modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
 aliases:
 - /resources/j_oduUBphYc
 - /resources/videos/6-security-compliance-in-legacy-system-modernization

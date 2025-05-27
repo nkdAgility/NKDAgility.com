@@ -3,7 +3,7 @@ title: One limitation of reading a book vs attending a course
 description: Reading a book offers knowledge but lacks real-time interaction, discussion, and collaborative learning found in courses, limiting engagement and shared understanding.
 date: 2023-05-08T09:30:10Z
 weight: 840
-slug: one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI
+slug: one-limitation-of-reading-a-book-vs-attending-a-course
 aliases:
 - /resources/hB8oQPpderI
 - /resources/videos/one-limitation-of-reading-a-book-vs-attending-a-course-hB8oQPpderI

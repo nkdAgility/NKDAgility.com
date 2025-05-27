@@ -3,7 +3,7 @@ title: 'Unpacking the Scrum Master Myth: Why Servant Leadership is Key to Team S
 description: Explains why the Scrum Master is a servant leader, not an authority figure, and how this approach empowers teams, encourages autonomy, and dispels common misconceptions.
 date: 2023-06-21T11:00:52Z
 weight: 640
-slug: unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY
+slug: unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success
 aliases:
 - /resources/zs0q_zz8-JY
 - /resources/videos/unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success-zs0q_zz8-JY

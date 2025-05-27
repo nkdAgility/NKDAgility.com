@@ -3,7 +3,7 @@ title: 'Cloud Migration Without the Mayhem: How to Move Legacy Systems Safely an
 description: Worried about cloud migration chaos? Discover why a hybrid approach beats “lift and shift” and how to align teams for a seamless, risk-free transition.
 date: 2025-05-05T06:00:53Z
 weight: 270
-slug: 5-cloud-migration-without-the-nightmares
+slug: cloud-migration-without-the-mayhem-how-to-move-legacy-systems-safely-and-set-your-teams-up-for-success
 aliases:
 - /resources/shstUjNe8tU
 - /resources/videos/5-cloud-migration-without-the-nightmares

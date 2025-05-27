@@ -3,7 +3,7 @@ title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
 description: Examines whether the belief that Scrum can't scale is practical or defeatist, highlighting Nexus as a proven approach for scaling Scrum to deliver greater value.
 date: 2023-10-09T14:30:08Z
 weight: 790
-slug: quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw
+slug: quotes-don't-scale-scrum-pragmatic-or-defeatist
 aliases:
 - /resources/Oj0ybFF12Rw
 - /resources/videos/quotes-dont-scale-scrum-pragmatic-or-defeatist-Oj0ybFF12Rw

@@ -3,7 +3,7 @@ title: Advanced PSM II Immersive Learning Classes
 description: Private advanced Scrum Master classes offering immersive learning to improve team outcomes and agile skills, tailored for organisations seeking better Scrum results.
 date: 2024-09-20T11:04:29Z
 weight: 1000
-slug: advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs
+slug: advanced-psm-ii-immersive-learning-classes
 aliases:
 - /resources/Bi4ToMME8Xs
 - /resources/videos/advanced-psm-ii-immersive-learning-classes-Bi4ToMME8Xs

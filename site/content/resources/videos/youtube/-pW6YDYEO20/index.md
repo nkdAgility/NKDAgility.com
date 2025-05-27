@@ -3,7 +3,7 @@ title: Worst trait in unskilled scrum masters?
 description: Highlights the most damaging traits of unskilled Scrum Masters, such as micromanagement and bossiness, and contrasts them with effective, facilitative Scrum leadership.
 date: 2023-04-26T07:00:00Z
 weight: 690
-slug: worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+slug: worst-trait-in-unskilled-scrum-masters
 aliases:
 - /resources/-pW6YDYEO20
 - /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20

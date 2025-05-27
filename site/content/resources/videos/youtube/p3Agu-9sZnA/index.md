@@ -3,7 +3,7 @@ title: 'How to Tackle Technical Debt Without Halting Progress: Smarter Ways to K
 description: Struggling with technical debt? Discover practical ways to tackle legacy systems, boost team morale, and deliver value—without grinding to a halt.
 date: 2025-05-26T06:00:00Z
 weight: 115
-slug: 8-reducing-technical-debt-while-keeping-systems-running
+slug: how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
 aliases:
 - /resources/p3Agu-9sZnA
 - /resources/videos/8-reducing-technical-debt-while-keeping-systems-running

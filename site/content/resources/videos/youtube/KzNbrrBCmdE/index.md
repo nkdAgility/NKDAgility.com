@@ -3,7 +3,7 @@ title: 'Mastering the Agile Balance: Navigating Flexibility and Inflexibility fo
 description: Explores how agile teams can balance flexibility and structure, manage data integrity, and adapt processes to achieve project goals and improve decision-making.
 date: 2024-09-19T11:05:27Z
 weight: 1000
-slug: mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE
+slug: mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success
 aliases:
 - /resources/KzNbrrBCmdE
 - /resources/videos/mastering-the-agile-balance-navigating-flexibility-and-inflexibility-for-project-success-KzNbrrBCmdE

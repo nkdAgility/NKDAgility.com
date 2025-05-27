@@ -3,7 +3,7 @@ title: 'Mastering Outcomes: How Evidence-Based Management Transforms Your Projec
 description: Learn how evidence-based management uses clear outcomes and targeted metrics to improve project success, enabling informed decisions and continuous improvement.
 date: 2024-09-12T13:46:15Z
 weight: 1000
-slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
+slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success
 aliases:
 - /resources/MO7O6kTmufc
 - /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc

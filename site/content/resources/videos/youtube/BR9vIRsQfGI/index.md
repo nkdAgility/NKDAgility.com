@@ -3,7 +3,7 @@ title: 'Mastering Negotiation: Essential Skills Every Product Owner Needs from *
 description: Learn key negotiation skills for product owners, including empathy, active listening, and strategic questioning, inspired by *Never Split the Difference* by Chris Voss.
 date: 2023-12-13T11:00:08Z
 weight: 1000
-slug: mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI
+slug: mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
 aliases:
 - /resources/BR9vIRsQfGI
 - /resources/videos/mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference-BR9vIRsQfGI

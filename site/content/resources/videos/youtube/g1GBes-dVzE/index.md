@@ -3,7 +3,7 @@ title: One thing an Agile Coach MUST do to be successful?
 description: Agile Coaches must deeply understand their team's tools, practices, and technologies to effectively guide, challenge, and help teams improve and reach their goals.
 date: 2023-08-31T07:00:17Z
 weight: 665
-slug: one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE
+slug: one-thing-an-agile-coach-must-do-to-be-successful
 aliases:
 - /resources/g1GBes-dVzE
 - /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-g1GBes-dVzE

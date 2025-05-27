@@ -3,7 +3,7 @@ title: "Mastering the Art of Scaling Product Development: Why Adding More Develo
 description: Explores why scaling product development requires system improvements, not just more developers. Covers alignment, technical debt, and feedback loops for sustainable growth.
 date: 2025-02-18T07:08:05Z
 weight: 500
-slug: mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer
+slug: mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn't-the-answer
 aliases:
 - /resources/KWiWgLFalyA
 - /resources/videos/mastering-the-art-of-scaling-product-development-why-adding-more-developers-isnt-the-answer

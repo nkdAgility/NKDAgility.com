@@ -3,7 +3,7 @@ title: 5 tools that Scrum Masters love. Part 1
 description: Discover how Scrum Masters use liberating structures to boost team engagement, improve meetings, and drive effective collaboration in Agile and Scrum environments.
 date: 2023-09-14T07:00:08Z
 weight: 840
-slug: 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+slug: 5-tools-that-scrum-masters-love-part-1
 aliases:
 - /resources/Ce5pFwG5IAY
 - /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY

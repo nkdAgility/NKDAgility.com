@@ -3,7 +3,7 @@ title: 'Understanding Kanban: A Tool for Transparency and Continuous Improvement
 description: Explains how Kanban visualises workflows, tracks metrics, and supports continuous improvement, helping teams identify bottlenecks and enhance transparency and efficiency.
 date: 2024-06-24T06:48:02Z
 weight: 1000
-slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg
+slug: understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 aliases:
 - /resources/BFDB04_JIhg
 - /resources/videos/understanding-kanban-a-tool-for-transparency-and-continuous-improvement-BFDB04_JIhg

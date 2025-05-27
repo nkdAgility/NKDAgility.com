@@ -3,7 +3,7 @@ title: 'Acceptance Criteria vs Definition of Done: Why Getting This Right Builds
 description: Stop confusing acceptance criteria with definition of done—learn the crucial difference to boost quality, speed, and trust in your agile delivery.
 date: 2025-07-02T06:45:00Z
 weight: 220
-slug: 9-definition-of-done-vs-acceptance-criteria
+slug: acceptance-criteria-vs-definition-of-done-why-getting-this-right-builds-trust-and-delivers-quality-faster
 aliases:
 - /resources/6SEsBq0qvr0
 - /resources/videos/9-definition-of-done-vs-acceptance-criteria
