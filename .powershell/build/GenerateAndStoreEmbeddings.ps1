@@ -230,11 +230,12 @@ function Build-EmbeddingCache {
         if ($embeddingData.embedding) {
             $similarity = Get-CosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
             $similarities += [PSCustomObject]@{
-                Title      = $embeddingData.title
-                Slug       = $embeddingData.slug
-                Reference  = $embeddingData.referencePath
-                ResourceId = $embeddingData.ResourceId
-                Similarity = $similarity
+                Title        = $embeddingData.title
+                Slug         = $embeddingData.slug
+                Reference    = $embeddingData.referencePath
+                ResourceType = $embeddingData.resourceType
+                ResourceId   = $embeddingData.ResourceId
+                Similarity   = $similarity
             }
         }
     }
