@@ -123,8 +123,7 @@
         "isRelatedTo": [
           {{- $page := . -}}
           {{- $resourceType := .Params.ResourceType -}}
-          {{- $relatedPath := printf "%s/data.index.related.json" (path.Dir $page.File.Path) -}}
-          {{- $relatedData := (readFile $relatedPath | transform.Unmarshal) -}}
+          {{- $relatedData := partial "functions/get-related.html" .Page }}
           {{- if and $relatedData (gt (len $relatedData) 0) -}}
             {{- $relatedBlogs := where $relatedData "ResourceType" $resourceType -}}
             {{- $count := len $relatedBlogs -}}

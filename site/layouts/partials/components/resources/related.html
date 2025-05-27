@@ -1,8 +1,7 @@
 {{/* Accepts dict with keys: Page, resourceType */}}
 {{ $page := .Page }}
 {{ $resourceType := .resourceType | default "blog" }}
-{{ $relatedPath := printf "%s/data.index.related.json" (path.Dir $page.File.Path) }}
-{{ $relatedData := (readFile $relatedPath | transform.Unmarshal) }}
+{{- $relatedData := partial "functions/get-related.html" .Page }}
 {{ if and $relatedData (gt (len $relatedData) 0) }}
   {{ $relatedBlogs := where $relatedData "ResourceType" $resourceType }}
   {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
