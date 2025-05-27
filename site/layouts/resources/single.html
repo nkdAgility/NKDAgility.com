@@ -119,7 +119,7 @@
   </section>
 
   <section class="container my-5 p-2" style="max-width: 700px !important">
-    {{- partial "components/resources/related.html" . }}
+    {{- partial "components/resources/related.html" (dict "Page" . "resourceType" "blog") }}
   </section>
 
   <section class="container my-5 p-2" style="max-width: 700px !important">

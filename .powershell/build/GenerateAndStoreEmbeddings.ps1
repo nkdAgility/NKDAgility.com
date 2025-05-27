@@ -238,7 +238,7 @@ function Build-EmbeddingCache {
             }
         }
     }
-    $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
+    $topRelated = $similarities | Where-Object { $_.Similarity -gt 0.7 } | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
     $topRelated | ConvertTo-Json -Depth 10 | Set-Content $cachePath
     Write-InformationLog "  |-- Saved to $cachePath"
