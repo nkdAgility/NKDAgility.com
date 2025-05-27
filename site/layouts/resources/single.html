@@ -119,18 +119,7 @@
   </section>
 
   <section class="container my-5 p-2" style="max-width: 700px !important">
-    {{ $related := .Site.RegularPages.Related . }}
-    {{ $blogs := where $related ".Params.resourceTypes" "blog" | first 5 }}
-    {{ with $blogs }}
-      <h3>Related blog posts</h3>
-      <ul>
-        {{ range . }}
-          <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-        {{ end }}
-      </ul>
-    {{ else }}
-      <p>No related blog posts found.</p>
-    {{ end }}
+    {{- partial "components/resources/related.html" . }}
   </section>
 
   <section class="container my-5 p-2" style="max-width: 700px !important">

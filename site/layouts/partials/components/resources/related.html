@@ -1,0 +1,29 @@
+{{/* Try to load related items from data.index.related.json in the same folder as the current page */}}
+{{ $relatedPath := printf "%s/data.index.related.json" (path.Dir .File.Path) }}
+{{ $relatedData := (readFile $relatedPath | transform.Unmarshal) }}
+{{ if and $relatedData (gt (len $relatedData) 0) }}
+  <h3>Related blog posts (Extended)</h3>
+  <ul>
+    {{ range first 5 $relatedData }}
+      {{ $page := site.GetPage .Reference }}
+      {{ if $page }}
+        <li><a href="{{ $page.RelPermalink }}">{{ $page.LinkTitle }}</a></li>
+      {{ else }}
+        <li><a href="{{ .Reference }}">{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+  </ul>
+{{ else }}
+  {{ $related := .Site.RegularPages.Related . }}
+  {{ $blogs := where $related ".Params.resourceTypes" "blog" | first 5 }}
+  {{ with $blogs }}
+    <h3>Related blog posts</h3>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <p>No related blog posts found.</p>
+  {{ end }}
+{{ end }}

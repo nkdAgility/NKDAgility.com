@@ -55,8 +55,11 @@ function Generate-AndStoreEmbedding {
 
     $embeddingData = @{
         fileName      = $hugoMarkdown.FileName
+       
         title         = $hugoMarkdown.FrontMatter.title
         slug          = $hugoMarkdown.FrontMatter.slug
+        resourceType  = $hugoMarkdown.FrontMatter.resourceType
+        ResourceId    = $hugoMarkdown.FrontMatter.ResourceId
         referencePath = $hugoMarkdown.ReferencePath
         generatedAt   = (Get-Date).ToUniversalTime()
         contentHash   = $contentHash
@@ -152,7 +155,8 @@ function Rebuild-EmbeddingRepository {
             $embeddingData = @{
                 title         = $hugoMarkdown.FrontMatter.title
                 slug          = $hugoMarkdown.FrontMatter.slug
-                ResourceId    = $hugoMarkdown.FrontMatter.ResourceId
+                resourceId    = $hugoMarkdown.FrontMatter.ResourceId
+                resourceType  = $hugoMarkdown.FrontMatter.resourceType
                 referencePath = $hugoMarkdown.ReferencePath
                 generatedAt   = (Get-Date).ToUniversalTime()
                 contentHash   = $contentHash
