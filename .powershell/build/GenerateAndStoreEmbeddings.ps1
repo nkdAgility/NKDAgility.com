@@ -110,9 +110,12 @@ function Rebuild-EmbeddingRepository {
         [string]$StorageAccountName = "nkdagilityblobs",
         [string]$SASToken = $Env:AZURE_BLOB_STORAGE_SAS_TOKEN
     )
+
+
     # 1. Download all blobs to local cache
     Write-InformationLog "Syncing embeddings from Azure Blob to $LocalPath..."
-    azcopy copy "https://$StorageAccountName.blob.core.windows.net/$ContainerName`?$SASToken" "$LocalPath" --recursive=true --overwrite=true
+    $parentPath = Split-Path $LocalPath -Parent
+    azcopy copy "https://$StorageAccountName.blob.core.windows.net/$ContainerName`?$SASToken" "$parentPath" --recursive=true --overwrite=true
 
     # 2. Regenerate changed/expired items for each HugoMarkdown
     $count = $HugoMarkdownObjects.Count
@@ -126,6 +129,10 @@ function Rebuild-EmbeddingRepository {
             Write-InformationLog "$progress $percent% complete"
             $lastPercent = [math]::Floor($percent / 10) * 10
         }
+        if ([string]::IsNullOrEmpty($hugoMarkdown.FrontMatter.slug)) {
+            Write-WarningLog "$progress $($hugoMarkdown.ReferencePath) (no slug found)."
+            continue
+        }
         $embeddingFile = Join-Path $LocalPath ("$($hugoMarkdown.FrontMatter.slug).embedding.json")
         $contentText = Get-Content -Path $hugoMarkdown.FilePath -Raw
         $contentHash = Get-ContentHash $contentText
@@ -137,10 +144,10 @@ function Rebuild-EmbeddingRepository {
             }
         }
         if ($needsUpdate) {
-            Write-DebugLog "$progress Regenerating embedding for $($hugoMarkdown.FrontMatter.title) due to content change or missing embedding."
+            Write-InformationLog "$progress Regenerating embedding for $($hugoMarkdown.ReferencePath) due to content change or missing embedding."
             $embedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
             $embeddingData = @{
-                fileName      = $hugoMarkdown.FileName
+                fileName      = $hugoMarkdown.FilePath
                 title         = $hugoMarkdown.FrontMatter.title
                 slug          = $hugoMarkdown.FrontMatter.slug
                 referencePath = $hugoMarkdown.ReferencePath
@@ -148,6 +155,7 @@ function Rebuild-EmbeddingRepository {
                 contentHash   = $contentHash
                 embedding     = $embedding
             }
+            
             $embeddingData | ConvertTo-Json -Depth 10 | Set-Content $embeddingFile
         }
         else {
@@ -199,7 +207,17 @@ function Build-EmbeddingCache {
 
     $allFiles = Get-ChildItem -Path $LocalPath -Filter *.embedding.json
     $similarities = @()
+    $count = $allFiles.Count
+    $i = 0
+    $lastPercent = -10
     foreach ($file in $allFiles) {
+        $i++
+        $progress = "[{0}/{1}]" -f $i, $count
+        $percent = [math]::Round(($i / $count) * 100, 1)
+        if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
+            Write-InformationLog "  |-- $progress $percent% complete (Build-EmbeddingCache for $($hugoMarkdown.FrontMatter.title))"
+            $lastPercent = [math]::Floor($percent / 10) * 10
+        }
         if ($file.Name -eq "$($hugoMarkdown.FrontMatter.slug).embedding.json") { continue }
         $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
         if ($embeddingData.embedding) {
@@ -216,6 +234,7 @@ function Build-EmbeddingCache {
     $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
     $topRelated | ConvertTo-Json -Depth 10 | Set-Content $cachePath
+    Write-InformationLog "  |-- Saved to $cachePath"
 }
 
 function Get-RelatedItems {
@@ -241,13 +260,15 @@ Start-TokenServer
 $storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 1
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 Rebuild-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects -ContainerName $containerName -LocalPath "./.data/content-embeddings/"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
-
+Build-AllEmbeddingCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/" -TopN 50
+Write-DebugLog "--------------------------------------------------------"
+Write-DebugLog "--------------------------------------------------------"
 # Process embeddings
 
 #Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
