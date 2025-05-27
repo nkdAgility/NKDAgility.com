@@ -22,7 +22,7 @@
   </div>
 
   {{- define "inline-partial-example" }}
-    <div class="col-6 col-sm-4 col-lg-2 d-flex d-flex  justify-content-center align-items-center">
+    <div class="col-6 col-sm-4 col-lg-2 d-flex d-flex justify-content-center align-items-center">
       <div class="flex-fill m-1 justify-content-center align-items-center" title="{{- .Title }}">
         {{- if .Params.preview }}
           {{- $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
@@ -32,13 +32,13 @@
               <img src="{{- $resized.RelPermalink }}" alt="{{- .Title }} Logo" loading="lazy" class="img-fluid" />
             </div>
             <div class="customer-dark-mode">
-              <p class="fs-6 align-items-center">{{- .Title }}</p>
+              <p class="fs-6 m-0 text-center">{{- .Title }}</p>
             </div>
           {{- else }}
-            ???
+            <p class="fs-6 m-0 text-center">{{- .Title }}</p>
           {{- end }}
         {{- else }}
-          <p class="fs-6 align-items-center">{{- .Title }}</p>
+          <p class="fs-6 m-0 text-center">{{- .Title }}</p>
         {{- end }}
       </div>
     </div>

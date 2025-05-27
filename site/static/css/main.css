@@ -655,12 +655,17 @@ blockquote cite {
 /* Our Customers theme-specific display */
 .customer-light-mode,
 .customer-dark-mode {
-  transition: opacity 0.3s ease;
+  transition: all 0.3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50px;
+  width: 100%;
 }
 
 /* Show appropriate customer display based on theme */
 .customer-light-mode {
-  display: block;
+  display: flex;
 }
 
 .customer-dark-mode {
@@ -672,7 +677,16 @@ blockquote cite {
 }
 
 [data-theme="dark"] .customer-dark-mode {
-  display: block;
+  display: flex;
+}
+
+[data-theme="dark"] .customer-dark-mode p {
+  color: var(--dark-text-color);
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-align: center;
+  width: 100%;
 }
 
 /* Dark mode transition */
