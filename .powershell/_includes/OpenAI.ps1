@@ -4,6 +4,32 @@ $OutputEncoding = [System.Text.Encoding]::UTF8
 . ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/TokenServer.ps1
 
+function Get-OpenAIEmbedding {
+    param (
+        [Parameter(Mandatory)]
+        [string]$Content,
+
+        [string]$Model = "text-embedding-3-large",
+        # OpenAI API Key
+        [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY
+    )
+
+    $response = Invoke-RestMethod `
+        -Uri "https://api.openai.com/v1/embeddings" `
+        -Headers @{
+        "Authorization" = "Bearer $OPEN_AI_KEY"
+        "Content-Type"  = "application/json"
+    } `
+        -Body (ConvertTo-Json @{
+            input = $Content
+            model = $Model
+        }) `
+        -Method Post
+
+    return $response.data[0].embedding
+}
+
+
 function Call-OpenAI {
     param (
         [Parameter(Mandatory = $false)]

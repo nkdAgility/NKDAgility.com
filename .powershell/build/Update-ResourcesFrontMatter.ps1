@@ -180,17 +180,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     ).Trim('-. ').ToLower()
 
     $hugoSlugSimulation = ($hugoMarkdown.FrontMatter.title -replace '[^A-Za-z0-9._~]+', '-' -replace '-{2,}', '-' ).Trim('-').ToLower()
-    If ($hugoSlugSimulation -ne $slug) {
-        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $slug  -addAfter 'date'
-    }
-    if ($hugoMarkdown.FrontMatter.slug) {
-        Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'slug' -addAfter 'date'
-    }
-
-
-
-
-
+    Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'slug' -fieldValue $slug  -addAfter 'date' -Overwrite
 
     # =================Add aliases===================
     $aliases = @()
