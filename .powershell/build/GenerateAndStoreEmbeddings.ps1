@@ -111,7 +111,10 @@ function Rebuild-EmbeddingRepository {
         [string]$SASToken = $Env:AZURE_BLOB_STORAGE_SAS_TOKEN
     )
 
-
+    if (-not (Test-Path $LocalPath)) {
+        Write-InformationLog "Creating local path: $LocalPath"
+        New-Item -ItemType Directory -Path $LocalPath | Out-Null
+    }
     # 1. Download all blobs to local cache
     Write-InformationLog "Syncing embeddings from Azure Blob to $LocalPath..."
     $parentPath = Split-Path $LocalPath -Parent
@@ -149,6 +152,7 @@ function Rebuild-EmbeddingRepository {
             $embeddingData = @{
                 title         = $hugoMarkdown.FrontMatter.title
                 slug          = $hugoMarkdown.FrontMatter.slug
+                ResourceId    = $hugoMarkdown.FrontMatter.ResourceId
                 referencePath = $hugoMarkdown.ReferencePath
                 generatedAt   = (Get-Date).ToUniversalTime()
                 contentHash   = $contentHash
@@ -225,6 +229,7 @@ function Build-EmbeddingCache {
                 Title      = $embeddingData.title
                 Slug       = $embeddingData.slug
                 Reference  = $embeddingData.referencePath
+                ResourceId = $embeddingData.ResourceId
                 Similarity = $similarity
             }
         }
