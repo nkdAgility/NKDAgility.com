@@ -3,19 +3,23 @@
 {{ $resourceType := .resourceType | default "blog" }}
 {{ $relatedPath := printf "%s/data.index.related.json" (path.Dir $page.File.Path) }}
 {{ $relatedData := (readFile $relatedPath | transform.Unmarshal) }}
-{{ $relatedBlogs := where $relatedData "resourceType" $resourceType }}
-{{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
-  <h3>Related {{ $resourceType }} (Extended)</h3>
-  <ul>
-    {{ range first 5 $relatedBlogs }}
-      {{ $relatedPage := site.GetPage .Reference }}
-      {{ if $relatedPage }}
-        <li><a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.LinkTitle }}</a></li>
-      {{ else }}
-        <li><a href="{{ .Reference }}">{{ .Title }}</a></li>
+{{ if and $relatedData (gt (len $relatedData) 0) }}
+  {{ $relatedBlogs := where $relatedData "ResourceType" $resourceType }}
+  {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
+    <h3>Related {{ $resourceType }} (Extended)</h3>
+    <ul>
+      {{ range first 5 $relatedBlogs }}
+        {{ $relatedPage := site.GetPage .Reference }}
+        {{ if $relatedPage }}
+          <li><a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.LinkTitle }}</a></li>
+        {{ else }}
+          <li><a href="{{ .Reference }}">{{ .Title }}</a></li>
+        {{ end }}
       {{ end }}
-    {{ end }}
-  </ul>
+    </ul>
+  {{ else }}
+    <p>No related {{ $resourceType }} found. X</p>
+  {{ end }}
 {{ else }}
   {{ $related := $page.Site.RegularPages.Related $page }}
   {{ $blogs := where $related ".Params.resourceTypes" $resourceType | first 5 }}

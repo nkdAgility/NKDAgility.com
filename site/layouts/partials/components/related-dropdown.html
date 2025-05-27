@@ -1,0 +1,27 @@
+{{ $page := .Page }}
+{{ $resourceTypes := (slice "blog" "video" "signals") }}
+{{ $relatedPath := printf "%s/data.index.related.json" (path.Dir $page.File.Path) }}
+{{ $relatedData := (readFile $relatedPath | transform.Unmarshal) }}
+{{ if and $relatedData (gt (len $relatedData) 0) }}
+  <div class="dropdown">
+    <button class="btn btn-sm btn-outline-secondary dropdown-toggle align-items-center" type="button" id="tocDropdown" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Related</span> <i class="fa-regular fa-list"></i></button>
+    <div class="dropdown-menu p-3 custom-toc-dropdown" aria-labelledby="tocDropdown" style="min-width: 300px; max-height: 60vh; overflow-y: auto;">
+      {{ range $resourceType := $resourceTypes }}
+        {{ $relatedBlogs := where $relatedData "ResourceType" $resourceType }}
+        <h6 class="dropdown-header">Related {{ $resourceType }}</h6>
+        {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
+          {{ range first 5 $relatedBlogs }}
+            {{ $relatedPage := site.GetPage .Reference }}
+            {{ if $relatedPage }}
+              <a class="dropdown-item" href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.LinkTitle }}</a>
+            {{ else }}
+              <a class="dropdown-item" href="{{ .Reference }}">{{ .Title }}</a>
+            {{ end }}
+          {{ end }}
+        {{ else }}
+          <p>No related {{ $resourceType }} found.</p>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
