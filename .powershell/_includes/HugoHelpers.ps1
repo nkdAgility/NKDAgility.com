@@ -12,8 +12,9 @@ class HugoMarkdown {
     [string]$BodyContent
     [string]$FilePath
     [string]$FolderPath
+    [string]$ReferencePath
 
-    HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent, [string]$FilePath, [string]$FolderPath) {
+    HugoMarkdown([System.Collections.Specialized.OrderedDictionary]$frontMatter, [string]$bodyContent, [string]$FilePath) {
         # Directly assign the front matter to the class property
         if ($frontMatter -eq $null) {
             Write-ErrorLog "Front matter is null"
@@ -23,7 +24,8 @@ class HugoMarkdown {
         # Set the body content
         $this.BodyContent = $bodyContent
         $this.FilePath = $FilePath
-        $this.FolderPath = $FolderPath
+        $this.FolderPath = (Get-Item -Path $FilePath).DirectoryName
+        $this.ReferencePath = $this.FolderPath.Replace((Resolve-Path -Path "./site/content/"), '').Replace('\', '/')
     }
 }
 
@@ -59,7 +61,7 @@ function Get-HugoMarkdown {
         exit 1
     }
 
-    return [HugoMarkdown]::new($frontMatter, $bodyContent, $Path, (Get-Item -Path $Path).DirectoryName)
+    return [HugoMarkdown]::new($frontMatter, $bodyContent, $Path)
 }
 
 function Remove-Field {

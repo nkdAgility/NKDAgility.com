@@ -5,6 +5,7 @@
 . ./.powershell/_includes/HugoHelpers.ps1
 . ./.powershell/_includes/ResourceHelpers.ps1
 . ./.powershell/_includes/ClassificationHelpers.ps1
+. ./.powershell/_includes/AzureBlobHelpers.ps1
 
 Import-Module Az.Storage
 
@@ -14,53 +15,29 @@ $levelSwitch.MinimumLevel = 'Information'
 # Parameters
 $containerName = "content-embeddings"
 $embeddingModel = "text-embedding-3-large"
-$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
-
 Start-TokenServer
 
-# Azure Blob Storage Helpers
-function Get-BlobContentAsJson {
+function Get-CosineSimilarity {
     param (
-        [string]$Container,
-        [string]$Blob
+        [float[]]$VectorA,
+        [float[]]$VectorB
     )
-    try {
-        $tempPath = Join-Path $env:TEMP ([System.IO.Path]::GetRandomFileName())
-        Get-AzStorageBlobContent -Container $Container -Blob $Blob -Destination $tempPath -Context $storageContext -Force -ErrorAction Stop | Out-Null
-        if (Test-Path $tempPath) {
-            $content = Get-Content -Raw -Path $tempPath | ConvertFrom-Json
-            Remove-Item $tempPath
-            return $content
-        }
+
+    $dotProduct = 0
+    $magnitudeA = 0
+    $magnitudeB = 0
+
+    for ($i = 0; $i -lt $VectorA.Length; $i++) {
+        $dotProduct += $VectorA[$i] * $VectorB[$i]
+        $magnitudeA += [Math]::Pow($VectorA[$i], 2)
+        $magnitudeB += [Math]::Pow($VectorB[$i], 2)
     }
-    catch {
-        return $null
+
+    if ($magnitudeA -eq 0 -or $magnitudeB -eq 0) {
+        return 0
     }
-    return $null
-}
 
-function Set-BlobContentAsJson {
-    param (
-        [string]$Container,
-        [string]$Blob,
-        [object]$Content
-    )
-    $tempPath = Join-Path $env:TEMP ([System.IO.Path]::GetRandomFileName())
-    $Content | ConvertTo-Json -Depth 10 | Set-Content -Path $tempPath -Force
-    Set-AzStorageBlobContent -Container $Container -Blob $Blob -File $tempPath -Context $storageContext -Force | Out-Null
-    Remove-Item $tempPath
-}
-
-function Get-ContentHash {
-    param (
-        [Parameter(Mandatory)]
-        [string]$Content
-    )
-
-    $sha256 = [System.Security.Cryptography.SHA256]::Create()
-    $contentBytes = [System.Text.Encoding]::UTF8.GetBytes($Content)
-    $hashBytes = $sha256.ComputeHash($contentBytes)
-    return ([System.BitConverter]::ToString($hashBytes)).Replace("-", "").ToLower()
+    return $dotProduct / ([Math]::Sqrt($magnitudeA) * [Math]::Sqrt($magnitudeB))
 }
 
 function Generate-AndStoreEmbedding {
@@ -82,12 +59,13 @@ function Generate-AndStoreEmbedding {
     $embedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
 
     $embeddingData = @{
-        fileName    = $hugoMarkdown.FilePath
-        postTitle   = $hugoMarkdown.FrontMatter.title
-        postSlug    = $hugoMarkdown.FrontMatter.slug
-        generatedAt = (Get-Date).ToUniversalTime()
-        contentHash = $contentHash
-        embedding   = $embedding
+        fileName      = $hugoMarkdown.FileName
+        title         = $hugoMarkdown.FrontMatter.title
+        slug          = $hugoMarkdown.FrontMatter.slug
+        referencePath = $hugoMarkdown.ReferencePath
+        generatedAt   = (Get-Date).ToUniversalTime()
+        contentHash   = $contentHash
+        embedding     = $embedding
     }
 
     Set-BlobContentAsJson -Container $containerName -Blob $embeddingBlobName -Content $embeddingData
@@ -97,13 +75,13 @@ function Generate-AndStoreEmbedding {
 
 function Get-RelatedItemsForPost {
     param (
-        [string]$Slug,
+        [HugoMarkdown]$hugoMarkdown,
         [int]$TopN = 5
     )
 
-    $targetEmbeddingData = Get-BlobContentAsJson -Container $containerName -Blob "$Slug.embedding.json"
+    $targetEmbeddingData = Get-BlobContentAsJson -Container $containerName -Blob "$($hugoMarkdown.FrontMatter.slug).embedding.json"
     if (-not $targetEmbeddingData) {
-        throw "Embedding for target '$Slug' not found."
+        throw "Embedding for target '$($hugoMarkdown.FrontMatter.slug)' not found."
     }
 
     $targetEmbedding = $targetEmbeddingData.embedding
@@ -112,7 +90,7 @@ function Get-RelatedItemsForPost {
     $similarities = @()
 
     foreach ($blob in $allBlobs) {
-        if ($blob.Name -eq "$Slug.embedding.json") {
+        if ($blob.Name -eq "$($hugoMarkdown.FrontMatter.slug).embedding.json") {
             continue
         }
 
@@ -129,13 +107,99 @@ function Get-RelatedItemsForPost {
     return $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
 }
 
-# Process embeddings
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\blog\2025" -YearsBack 10
-Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
+function Rebuild-EmbeddingRepository {
+    param (
+        [string]$ContainerName = $containerName,
+        [string]$LocalPath = "./.data/content-embeddings/"
+    )
+    # 1. Download all blobs to local cache
+    Write-InformationLog "Syncing embeddings from Azure Blob to $LocalPath..."
+    azcopy copy "https://$($storageContext.StorageAccountName).blob.core.windows.net/$ContainerName?$($storageContext.SASToken)" "$LocalPath" --recursive=true --overwrite=true
 
-foreach ($hugoMarkdown in $hugoMarkdownObjects) {
-    Generate-AndStoreEmbedding -hugoMarkdown $hugoMarkdown
+    # 2. Regenerate changed/expired items (compare contentHash or timestamp)
+    $localFiles = Get-ChildItem -Path $LocalPath -Filter *.embedding.json
+    foreach ($file in $localFiles) {
+        $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
+        $mdPath = $embeddingData.referencePath
+        if (Test-Path $mdPath) {
+            $contentText = Get-Content -Path $mdPath -Raw
+            $contentHash = Get-ContentHash $contentText
+            if ($embeddingData.contentHash -ne $contentHash) {
+                Write-InformationLog "Regenerating embedding for $($embeddingData.title) due to content change."
+                $newEmbedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
+                $embeddingData.embedding = $newEmbedding
+                $embeddingData.contentHash = $contentHash
+                $embeddingData.generatedAt = (Get-Date).ToUniversalTime()
+                $embeddingData | ConvertTo-Json -Depth 10 | Set-Content $file.FullName
+            }
+        }
+    }
+
+    # 3. Sync local changes back to blob
+    Write-InformationLog "Syncing updated embeddings back to Azure Blob..."
+    azcopy sync "$LocalPath" "https://$($storageContext.StorageAccountName).blob.core.windows.net/$ContainerName?$($storageContext.SASToken)" --recursive=true
 }
 
-Write-DebugLog "All markdown files processed."
+function Build-EmbeddingCache {
+    param (
+        [HugoMarkdown]$hugoMarkdown,
+        [string]$LocalPath = "./.data/content-embeddings/",
+        [int]$TopN = 50
+    )
+    $targetEmbeddingFile = Join-Path $LocalPath ("$($hugoMarkdown.FrontMatter.slug).embedding.json")
+    if (-not (Test-Path $targetEmbeddingFile)) { return }
+    $targetEmbeddingData = Get-Content $targetEmbeddingFile | ConvertFrom-Json
+    $targetEmbedding = $targetEmbeddingData.embedding
+
+    $allFiles = Get-ChildItem -Path $LocalPath -Filter *.embedding.json
+    $similarities = @()
+    foreach ($file in $allFiles) {
+        if ($file.Name -eq "$($hugoMarkdown.FrontMatter.slug).embedding.json") { continue }
+        $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
+        if ($embeddingData.embedding) {
+            $similarity = Get-CosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
+            $similarities += [PSCustomObject]@{
+                FileName   = $embeddingData.fileName
+                Title      = $embeddingData.title
+                Slug       = $embeddingData.slug
+                Reference  = $embeddingData.referencePath
+                Similarity = $similarity
+            }
+        }
+    }
+    $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
+    $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
+    $topRelated | ConvertTo-Json -Depth 10 | Set-Content $cachePath
+}
+
+function Get-RelatedItems {
+    param (
+        [HugoMarkdown]$hugoMarkdown
+    )
+    $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
+    if (Test-Path $cachePath) {
+        return Get-Content $cachePath | ConvertFrom-Json
+    } else {
+        Write-Warning "No related items cache found for $($hugoMarkdown.FilePath)"
+        return @()
+    }
+}
+
+# Process embeddings
+#$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
+#Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
+
+# foreach ($hugoMarkdown in $hugoMarkdownObjects) {
+#     Generate-AndStoreEmbedding -hugoMarkdown $hugoMarkdown
+# }
+
+Write-DebugLog "All files checked."
 Write-DebugLog "--------------------------------------------------------"
+
+Get-RelatedItemsForPost -Slug "scrum-masters-enabling-teams-fostering-agility-removing-blockers"
+ 
+# foreach ($hugoMarkdown in $hugoMarkdownObjects) {
+#     Write-DebugLog "Processing HugoMarkdown: {Title}" -PropertyValues $hugoMarkdown.FrontMatter.title
+#     $related = Get-RelatedItemsForPost -Slug $hugoMarkdown.FrontMatter.slug
+
+# }

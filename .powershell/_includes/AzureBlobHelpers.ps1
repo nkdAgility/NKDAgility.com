@@ -1,31 +1,47 @@
-function Get-AzBlobContentAsString {
+
+$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
+
+# Azure Blob Storage Helpers
+function Get-BlobContentAsJson {
     param (
-        [string]$BlobName,
-        [string]$Container
+        [string]$Container,
+        [string]$Blob
     )
-    $blob = Get-AzStorageBlobContent -Container $Container -Blob $BlobName -Destination "$env:TEMP\$BlobName" -Force -ErrorAction SilentlyContinue
-    if (Test-Path "$env:TEMP\$BlobName") {
-        return Get-Content -Raw -Path "$env:TEMP\$BlobName"
+    try {
+        $tempPath = Join-Path $env:TEMP ([System.IO.Path]::GetRandomFileName())
+        Get-AzStorageBlobContent -Container $Container -Blob $Blob -Destination $tempPath -Context $storageContext -Force -ErrorAction Stop | Out-Null
+        if (Test-Path $tempPath) {
+            $content = Get-Content -Raw -Path $tempPath | ConvertFrom-Json
+            Remove-Item $tempPath
+            return $content
+        }
+    }
+    catch {
+        return $null
     }
     return $null
 }
 
-function Set-AzBlobContentFromString {
+function Set-BlobContentAsJson {
     param (
-        [string]$BlobName,
         [string]$Container,
-        [string]$Content
+        [string]$Blob,
+        [object]$Content
     )
-    $tempPath = Join-Path $env:TEMP $BlobName
-    $Content | Set-Content -Path $tempPath -Force
-    Set-AzStorageBlobContent -Container $Container -File $tempPath -Blob $BlobName -Force | Out-Null
-    Remove-Item $tempPath -Force
+    $tempPath = Join-Path $env:TEMP ([System.IO.Path]::GetRandomFileName())
+    $Content | ConvertTo-Json -Depth 10 | Set-Content -Path $tempPath -Force
+    Set-AzStorageBlobContent -Container $Container -Blob $Blob -File $tempPath -Context $storageContext -Force | Out-Null
+    Remove-Item $tempPath
 }
 
-function Remove-AzBlob {
+function Get-ContentHash {
     param (
-        [string]$BlobName,
-        [string]$Container
+        [Parameter(Mandatory)]
+        [string]$Content
     )
-    Remove-AzStorageBlob -Container $Container -Blob $BlobName -Force | Out-Null
+
+    $sha256 = [System.Security.Cryptography.SHA256]::Create()
+    $contentBytes = [System.Text.Encoding]::UTF8.GetBytes($Content)
+    $hashBytes = $sha256.ComputeHash($contentBytes)
+    return ([System.BitConverter]::ToString($hashBytes)).Replace("-", "").ToLower()
 }
