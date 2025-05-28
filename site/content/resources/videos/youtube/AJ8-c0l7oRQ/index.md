@@ -3,7 +3,7 @@ title: Why is Lego a shit idea for a scrum trainer - Part 3
 description: Explores why Lego may oversimplify Scrum training, contrasting it with Minecraft’s ability to reflect real-world complexity and collaboration in agile learning environments.
 date: 2023-10-05T07:00:04Z
 weight: 1000
-slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ
+slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
 aliases:
 - /resources/AJ8-c0l7oRQ
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3-AJ8-c0l7oRQ

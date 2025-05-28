@@ -3,7 +3,7 @@ title: Worst Contribution from a Product Owner that You Know Of
 description: A real-world example of a product owner undermining their Scrum team during a sprint review, highlighting the importance of support, accountability, and collaboration.
 date: 2023-06-06T11:00:34Z
 weight: 1000
-slug: worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc
+slug: worst-contribution-from-a-product-owner-that-you-know-of
 aliases:
 - /resources/ekUL1oIMeAc
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-ekUL1oIMeAc

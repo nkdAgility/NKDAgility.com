@@ -3,7 +3,7 @@ title: What is a product backlog?
 description: A product backlog is a prioritised list of features, tasks, or improvements that guides Agile teams in planning, collaboration, and delivering product value efficiently.
 date: 2023-05-18T07:00:16Z
 weight: 1000
-slug: what-is-a-product-backlog-_Eer3X3Z_LE
+slug: what-is-a-product-backlog
 aliases:
 - /resources/_Eer3X3Z_LE
 - /resources/videos/what-is-a-product-backlog-_Eer3X3Z_LE

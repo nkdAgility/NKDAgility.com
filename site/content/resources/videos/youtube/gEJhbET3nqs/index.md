@@ -3,7 +3,7 @@ title: "Unlocking Agile Leadership: Transform Your Skills with Scrum.org's Essen
 description: Learn practical agile leadership skills, foster team alignment, and drive cultural change with Scrum.org’s workshop to support agile transformation and organisational success.
 date: 2020-07-07T20:10:33Z
 weight: 590
-slug: unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop
+slug: unlocking-agile-leadership-transform-your-skills-with-scrum-org's-essentials-workshop
 aliases:
 - /resources/gEJhbET3nqs
 - /resources/videos/unlocking-agile-leadership-transform-your-skills-with-scrum-orgs-essentials-workshop

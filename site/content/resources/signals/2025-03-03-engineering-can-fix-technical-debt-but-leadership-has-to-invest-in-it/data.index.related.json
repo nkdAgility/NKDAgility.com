@@ -1,0 +1,861 @@
+{
+  "calculatedAt": "2025-05-27T20:20:39.2828061Z",
+  "related": [
+    {
+      "Title": "Technical debt isn’t just messy code",
+      "Slug": "technical-debt-isn-t-just-messy-code",
+      "Reference": "resources/signals/2025-03-13-technical-debt-isn-t-just-messy-code",
+      "ResourceType": "signals",
+      "ResourceId": "81ZWio23ss7",
+      "Similarity": 0.8018919596994043
+    },
+    {
+      "Title": "Technical debt cripples business agility and slows engineers down",
+      "Slug": "technical-debt-cripples-business-agility-and-slows-engineers-down",
+      "Reference": "resources/signals/2025-05-06-technical-debt-cripples-business-agility-and-slows-engineers-down",
+      "ResourceType": "signals",
+      "ResourceId": "4kBTeJ1TmsW",
+      "Similarity": 0.7874432973196657
+    },
+    {
+      "Title": "There no such thing as \"good\" technical debt",
+      "Slug": "there-no-such-thing-as-good-technical-debt",
+      "Reference": "resources/signals/2025-04-19-there-no-such-thing-as-good-technical-debt",
+      "ResourceType": "signals",
+      "ResourceId": "lLNjkL_zGQa",
+      "Similarity": 0.7612488753367647
+    },
+    {
+      "Title": "If teams struggle with quality or delivery, the problem is often the system",
+      "Slug": "if-teams-struggle-with-quality-or-delivery-the-problem-is-often-the-system",
+      "Reference": "resources/signals/2025-04-02-if-teams-struggle-with-quality-or-delivery-the-problem-is-often-the-system",
+      "ResourceType": "signals",
+      "ResourceId": "cXJnv3y4sb7",
+      "Similarity": 0.7514012851822073
+    },
+    {
+      "Title": "Understand the true risk of technical debt in your business",
+      "Slug": "understand-the-true-risk-of-technical-debt-in-your-business",
+      "Reference": "resources/signals/2025-04-24-understand-the-true-risk-of-technical-debt-in-your-business",
+      "ResourceType": "signals",
+      "ResourceId": "SLaqpu5BHH8",
+      "Similarity": 0.746719376850496
+    },
+    {
+      "Title": "Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency",
+      "Slug": "navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency",
+      "Reference": "resources/videos/youtube/npnQtdLEwQY",
+      "ResourceType": "videos",
+      "ResourceId": "npnQtdLEwQY",
+      "Similarity": 0.734464295958055
+    },
+    {
+      "Title": "Transforming Technical Debt: Unlocking Innovation and Value Through Quality Product Delivery",
+      "Slug": "transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery",
+      "Reference": "resources/videos/youtube/FFrTLuRhyVo",
+      "ResourceType": "videos",
+      "ResourceId": "FFrTLuRhyVo",
+      "Similarity": 0.7234323729325796
+    },
+    {
+      "Title": "How to Tackle Technical Debt Without Halting Progress: Smarter Ways to Keep Your Team Moving Forward",
+      "Slug": "how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward",
+      "Reference": "resources/videos/youtube/p3Agu-9sZnA",
+      "ResourceType": "videos",
+      "ResourceId": "p3Agu-9sZnA",
+      "Similarity": 0.7202888288202571
+    },
+    {
+      "Title": "Mastering Technical Debt: Strategies to Transform Challenges into Opportunities for Your Development Team",
+      "Slug": "mastering-technical-debt-strategies-to-transform-challenges-into-opportunities-for-your-development-team",
+      "Reference": "resources/videos/youtube/PZa77csy5r8",
+      "ResourceType": "videos",
+      "ResourceId": "PZa77csy5r8",
+      "Similarity": 0.714854934376349
+    },
+    {
+      "Title": "Transforming Technical Debt: Unlocking Opportunities for Innovation and Value",
+      "Slug": "transforming-technical-debt-unlocking-opportunities-for-innovation-and-value",
+      "Reference": "resources/videos/youtube/1M2_AVqoRbs",
+      "ResourceType": "videos",
+      "ResourceId": "1M2_AVqoRbs",
+      "Similarity": 0.7107512647192183
+    },
+    {
+      "Title": "Why Organisations Believe Their Software Is Too Complex for CD",
+      "Slug": "why-organisations-believe-their-software-is-too-complex-for-cd",
+      "Reference": "resources/signals/2025-02-24-why-organisations-believe-their-software-is-too-complex-for-cd",
+      "ResourceType": "signals",
+      "ResourceId": "T-sHn-OUIvR",
+      "Similarity": 0.7074736483790821
+    },
+    {
+      "Title": "Scaling Smart: How to Tackle Technical Debt for Sustainable Growth",
+      "Slug": "scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth",
+      "Reference": "resources/videos/youtube/PfZU13BEwiY",
+      "ResourceType": "videos",
+      "ResourceId": "PfZU13BEwiY",
+      "Similarity": 0.7062851563426484
+    },
+    {
+      "Title": "Why compromising on software quality is a leadership decision",
+      "Slug": "why-compromising-on-software-quality-is-a-leadership-decision",
+      "Reference": "resources/signals/2025-04-01-why-compromising-on-software-quality-is-a-leadership-decision",
+      "ResourceType": "signals",
+      "ResourceId": "3YDTlhSlU4A",
+      "Similarity": 0.6904986686172864
+    },
+    {
+      "Title": "Would your CFO approve misrepresenting corporate assets?",
+      "Slug": "would-your-cfo-approve-misrepresenting-corporate-assets",
+      "Reference": "resources/signals/2025-04-21-would-your-cfo-approve-misrepresenting-corporate-assets",
+      "ResourceType": "signals",
+      "ResourceId": "u-ACEx3Q01p",
+      "Similarity": 0.684454577033461
+    },
+    {
+      "Title": "The Crucible of Learning: Transforming Organizational Effectiveness Through DevOps",
+      "Slug": "the-crucible-of-learning-transforming-organizational-effectiveness-through-devops",
+      "Reference": "resources/videos/youtube/KXvd_oyLe3Q",
+      "ResourceType": "videos",
+      "ResourceId": "KXvd_oyLe3Q",
+      "Similarity": 0.6837096781004015
+    },
+    {
+      "Title": "Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence",
+      "Slug": "transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence",
+      "Reference": "resources/videos/youtube/zqMzD1PXq4s",
+      "ResourceType": "videos",
+      "ResourceId": "zqMzD1PXq4s",
+      "Similarity": 0.6820357843409909
+    },
+    {
+      "Title": "Empowering Leadership: Driving Cultural Change for Agile Success",
+      "Slug": "empowering-leadership-driving-cultural-change-for-agile-success",
+      "Reference": "resources/videos/youtube/XyprV8F_es4",
+      "ResourceType": "videos",
+      "ResourceId": "XyprV8F_es4",
+      "Similarity": 0.676966960452282
+    },
+    {
+      "Title": "Technical Debt Management for Long-Term Quality",
+      "Slug": "technical-debt-management-for-long-term-quality",
+      "Reference": "resources/videos/youtube/BAwBXYtKj7o",
+      "ResourceType": "videos",
+      "ResourceId": "BAwBXYtKj7o",
+      "Similarity": 0.6749927525295873
+    },
+    {
+      "Title": "Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership",
+      "Slug": "transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership",
+      "Reference": "resources/videos/youtube/tdOSrPOlyAI",
+      "ResourceType": "videos",
+      "ResourceId": "tdOSrPOlyAI",
+      "Similarity": 0.6712342498970735
+    },
+    {
+      "Title": "All technical debt is a risk to the product and to your business.",
+      "Slug": "all-technical-debt-is-a-risk-to-the-product-and-to-your-business",
+      "Reference": "resources/blog/2021/2021-01-25-all-technical-debt-is-a-risk-to-the-product-and-to-your-business",
+      "ResourceType": "blog",
+      "ResourceId": "ZSqNF7v9vSR",
+      "Similarity": 0.6708170059700657
+    },
+    {
+      "Title": "Stop Hiding Behind Complexity and Start Delivering Continuously",
+      "Slug": "stop-hiding-behind-complexity-and-start-delivering-continuously",
+      "Reference": "resources/blog/2025/2025-02-24-stop-hiding-behind-complexity-deliver-continuously",
+      "ResourceType": "blog",
+      "ResourceId": "7hEAycZIn8w",
+      "Similarity": 0.667479738656326
+    },
+    {
+      "Title": "Why Most Companies Fail at Adopting Agility Beyond IT",
+      "Slug": "why-most-companies-fail-at-adopting-agility-beyond-it",
+      "Reference": "resources/signals/2025-03-27-why-most-companies-fail-at-adopting-agility-beyond-it",
+      "ResourceType": "signals",
+      "ResourceId": "xdKHhjboUgT",
+      "Similarity": 0.6633586138986322
+    },
+    {
+      "Title": "Cultivating a Culture of Engineering Excellence: The Essential Role of Technical Leadership",
+      "Slug": "cultivating-a-culture-of-engineering-excellence-the-essential-role-of-technical-leadership",
+      "Reference": "resources/videos/youtube/CXOrndz5lN4",
+      "ResourceType": "videos",
+      "ResourceId": "CXOrndz5lN4",
+      "Similarity": 0.6619376696519568
+    },
+    {
+      "Title": "We don’t have time for automation—but manual testing slows releases and quality",
+      "Slug": "we-don-t-have-time-for-automation-but-manual-testing-slows-releases-and-quality",
+      "Reference": "resources/signals/2025-04-07-we-don-t-have-time-for-automation-but-manual-testing-slows-releases-and-quality",
+      "ResourceType": "signals",
+      "ResourceId": "f6S9lWfTQaQ",
+      "Similarity": 0.6592765836435205
+    },
+    {
+      "Title": "Unlocking Sustainable Growth: Why Leadership is the Key to Successful Scaling",
+      "Slug": "unlocking-sustainable-growth-why-leadership-is-the-key-to-successful-scaling",
+      "Reference": "resources/videos/youtube/ZVZEO1Ggihs",
+      "ResourceType": "videos",
+      "ResourceId": "ZVZEO1Ggihs",
+      "Similarity": 0.6567938525525154
+    },
+    {
+      "Title": "You can not implement Agile or Scrum successfully by decree",
+      "Slug": "you-can-not-implement-agile-or-scrum-successfully-by-decree",
+      "Reference": "resources/signals/2025-05-13-you-can-not-implement-agile-or-scrum-successfully-by-decree",
+      "ResourceType": "signals",
+      "ResourceId": "es3rfygczrI",
+      "Similarity": 0.656685512890667
+    },
+    {
+      "Title": "You want speed, adaptability, resilience",
+      "Slug": "you-want-speed-adaptability-resilience",
+      "Reference": "resources/signals/2025-05-11-you-want-speed-adaptability-resilience",
+      "ResourceType": "signals",
+      "ResourceId": "5UaIfaLclWB",
+      "Similarity": 0.6548969155209109
+    },
+    {
+      "Title": "Scrum Teams don’t set the bar for quality—they meet it",
+      "Slug": "scrum-teams-don-t-set-the-bar-for-quality-they-meet-it",
+      "Reference": "resources/signals/2025-04-03-scrum-teams-don-t-set-the-bar-for-quality-they-meet-it",
+      "ResourceType": "signals",
+      "ResourceId": "2xFmiKptikb",
+      "Similarity": 0.6534695236807664
+    },
+    {
+      "Title": "The Power of Technical Excellence in Agile Development",
+      "Slug": "the-power-of-technical-excellence-in-agile-development",
+      "Reference": "resources/videos/youtube/JTYCRehkN5U",
+      "ResourceType": "videos",
+      "ResourceId": "JTYCRehkN5U",
+      "Similarity": 0.6518962286312808
+    },
+    {
+      "Title": "Unlocking Code Quality: The Transformative Power of Frequent Deployments",
+      "Slug": "unlocking-code-quality-the-transformative-power-of-frequent-deployments",
+      "Reference": "resources/videos/youtube/D1wz-J1jklQ",
+      "ResourceType": "videos",
+      "ResourceId": "D1wz-J1jklQ",
+      "Similarity": 0.6506499904927308
+    },
+    {
+      "Title": "Break organisational silos and stop tolerating bad branching models",
+      "Slug": "break-organisational-silos-and-stop-tolerating-bad-branching-models",
+      "Reference": "resources/newsletters/2025-07-17",
+      "ResourceType": "newsletters",
+      "ResourceId": "AORP41zLNTi",
+      "Similarity": 0.6492396815484628
+    },
+    {
+      "Title": "Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success",
+      "Slug": "embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success",
+      "Reference": "resources/videos/youtube/DsvMKLto30o",
+      "ResourceType": "videos",
+      "ResourceId": "DsvMKLto30o",
+      "Similarity": 0.6488064978749769
+    },
+    {
+      "Title": "Confronting Incompetence: How to Stop Shipping Bad Code and Tackle Technical Debt Effectively",
+      "Slug": "confronting-incompetence-how-to-stop-shipping-bad-code-and-tackle-technical-debt-effectively",
+      "Reference": "resources/videos/youtube/FquWl26Uc8Y",
+      "ResourceType": "videos",
+      "ResourceId": "FquWl26Uc8Y",
+      "Similarity": 0.6458291532845948
+    },
+    {
+      "Title": "Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape",
+      "Slug": "mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape",
+      "Reference": "resources/videos/youtube/i_DglXgaePM",
+      "ResourceType": "videos",
+      "ResourceId": "i_DglXgaePM",
+      "Similarity": 0.645606972042281
+    },
+    {
+      "Title": "Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence",
+      "Slug": "embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence",
+      "Reference": "resources/videos/youtube/VkhIXCsoSJw",
+      "ResourceType": "videos",
+      "ResourceId": "VkhIXCsoSJw",
+      "Similarity": 0.6441438732341912
+    },
+    {
+      "Title": "I’ll never understand teams that manage bugs instead of fixing them",
+      "Slug": "i-ll-never-understand-teams-that-manage-bugs-instead-of-fixing-them",
+      "Reference": "resources/signals/2025-05-01-i-ll-never-understand-teams-that-manage-bugs-instead-of-fixing-them",
+      "ResourceType": "signals",
+      "ResourceId": "RwH_ozVN5om",
+      "Similarity": 0.643230743609463
+    },
+    {
+      "Title": "How Lack of Agency is Killing Your DevOps Initiatives",
+      "Slug": "how-lack-of-agency-is-killing-your-devops-initiatives",
+      "Reference": "resources/blog/2025/2025-06-16-how-lack-of-agency-is-killing-your-devops-initatives",
+      "ResourceType": "blog",
+      "ResourceId": "AgIU1SK-3pE",
+      "Similarity": 0.6428427467563341
+    },
+    {
+      "Title": "Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments",
+      "Slug": "transforming-agility-how-azure-devops-went-from-two-year-releases-to-880-000-deployments",
+      "Reference": "resources/videos/youtube/_gyzx59-AJk",
+      "ResourceType": "videos",
+      "ResourceId": "_gyzx59-AJk",
+      "Similarity": 0.6403676620332939
+    },
+    {
+      "Title": "Frequent releases are not just a technical strategy",
+      "Slug": "frequent-releases-are-not-just-a-technical-strategy",
+      "Reference": "resources/signals/2025-02-07-frequent-releases-are-not-just-a-technical-strategy",
+      "ResourceType": "signals",
+      "ResourceId": "_o_vjO--kSl",
+      "Similarity": 0.6389272719041789
+    },
+    {
+      "Title": "Stop Building Silos. Start Building Systems",
+      "Slug": "stop-building-silos-start-building-systems",
+      "Reference": "resources/blog/2025/2025-07-07-stop-building-silos-start-building-systems",
+      "ResourceType": "blog",
+      "ResourceId": "zLhc3UKUWOj",
+      "Similarity": 0.6365833726118526
+    },
+    {
+      "Title": "Navigating the Unpredictability of Software Development: Embrace Agile for Success",
+      "Slug": "navigating-the-unpredictability-of-software-development-embrace-agile-for-success",
+      "Reference": "resources/videos/youtube/h3J11t10A0g",
+      "ResourceType": "videos",
+      "ResourceId": "h3J11t10A0g",
+      "Similarity": 0.6363042254057282
+    },
+    {
+      "Title": "Overcoming Project Blockers and Challenging Organisational Inertia",
+      "Slug": "overcoming-project-blockers-and-challenging-organisational-inertia",
+      "Reference": "resources/signals/2025-03-22-overcoming-project-blockers-and-challenging-organisational-inertia",
+      "ResourceType": "signals",
+      "ResourceId": "aXo_GayoCuE",
+      "Similarity": 0.6362130256209875
+    },
+    {
+      "Title": "Building a culture of Quality",
+      "Slug": "building-a-culture-of-quality",
+      "Reference": "resources/videos/youtube/IZ-FlBbGaSY",
+      "ResourceType": "videos",
+      "ResourceId": "IZ-FlBbGaSY",
+      "Similarity": 0.6347866778056735
+    },
+    {
+      "Title": "Microsoft shift from 2-year cycles to 3-week Sprints caused team anxiety",
+      "Slug": "microsoft-shift-from-2-year-cycles-to-3-week-sprints-caused-team-anxiety",
+      "Reference": "resources/signals/2025-04-23-microsoft-shift-from-2-year-cycles-to-3-week-sprints-caused-team-anxiety",
+      "ResourceType": "signals",
+      "ResourceId": "AW5GP1Vnnp5",
+      "Similarity": 0.6333402068030719
+    },
+    {
+      "Title": "Stop Hoping for Quality: Why Automated Pipelines Are the Only Way to Deliver with Confidence",
+      "Slug": "stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence",
+      "Reference": "resources/videos/youtube/FLMIoTT0Mu0",
+      "ResourceType": "videos",
+      "ResourceId": "FLMIoTT0Mu0",
+      "Similarity": 0.6326521438492031
+    },
+    {
+      "Title": "Executives want predictability",
+      "Slug": "executives-want-predictability",
+      "Reference": "resources/signals/2025-03-31-executives-want-predictability",
+      "ResourceType": "signals",
+      "ResourceId": "sJJYz51QG0O",
+      "Similarity": 0.6303005562876858
+    },
+    {
+      "Title": "Scrum Masters are not glorified meeting schedulers",
+      "Slug": "scrum-masters-are-not-glorified-meeting-schedulers",
+      "Reference": "resources/signals/2025-03-09-scrum-masters-are-not-glorified-meeting-schedulers",
+      "ResourceType": "signals",
+      "ResourceId": "ASC0IjY5nKr",
+      "Similarity": 0.6293812628505293
+    },
+    {
+      "Title": "Unlocking the True Power of Continuous Delivery: How Automation Transforms Software Development",
+      "Slug": "unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development",
+      "Reference": "resources/videos/youtube/LWRAX3OyO28",
+      "ResourceType": "videos",
+      "ResourceId": "LWRAX3OyO28",
+      "Similarity": 0.6284965942702503
+    },
+    {
+      "Title": "Is Your Engineering Culture Ready to Scale with Your Technology?",
+      "Slug": "is-your-engineering-culture-ready-to-scale-with-your-technology",
+      "Reference": "resources/videos/youtube/yu9CmrDiBPc",
+      "ResourceType": "videos",
+      "ResourceId": "yu9CmrDiBPc",
+      "Similarity": 0.6278993863655685
+    },
+    {
+      "Title": "Stop Paying the Hidden Costs of Weak Delivery: Why a Strong Definition of Done Transforms Your Team’s Results",
+      "Slug": "stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results",
+      "Reference": "resources/videos/youtube/xxdg6WPNcDc",
+      "ResourceType": "videos",
+      "ResourceId": "xxdg6WPNcDc",
+      "Similarity": 0.6277645531736976
+    },
+    {
+      "Title": "Why Scrum Masters Need Technical Expertise to Guide Teams",
+      "Slug": "why-scrum-masters-need-technical-expertise-to-guide-teams",
+      "Reference": "resources/signals/2025-03-28-why-scrum-masters-need-technical-expertise-to-guide-teams",
+      "ResourceType": "signals",
+      "ResourceId": "_0eaUkX1o1q",
+      "Similarity": 0.6273306291140978
+    },
+    {
+      "Title": "The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower",
+      "Slug": "the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower",
+      "Reference": "resources/videos/youtube/1AO6FFBlE4Y",
+      "ResourceType": "videos",
+      "ResourceId": "1AO6FFBlE4Y",
+      "Similarity": 0.6272676925509871
+    },
+    {
+      "Title": "Unlocking the Future of Software Development: Why Automation is Your Key to Success",
+      "Slug": "unlocking-the-future-of-software-development-why-automation-is-your-key-to-success",
+      "Reference": "resources/videos/youtube/tKEl0YVeWv4",
+      "ResourceType": "videos",
+      "ResourceId": "tKEl0YVeWv4",
+      "Similarity": 0.6269899952483651
+    },
+    {
+      "Title": "Velocity isn’t how many story points a team burns down",
+      "Slug": "velocity-isn-t-how-many-story-points-a-team-burns-down",
+      "Reference": "resources/signals/2025-03-10-velocity-isn-t-how-many-story-points-a-team-burns-down",
+      "ResourceType": "signals",
+      "ResourceId": "14E6bk6Lmo4",
+      "Similarity": 0.6269228043672388
+    },
+    {
+      "Title": "Empowering Development Teams: Cultivating an Agile Mindset for Lasting Quality",
+      "Slug": "empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality",
+      "Reference": "resources/videos/youtube/iCDEX6oHy7A",
+      "ResourceType": "videos",
+      "ResourceId": "iCDEX6oHy7A",
+      "Similarity": 0.6264251786190838
+    },
+    {
+      "Title": "Scrum Masters: Enabling Teams, Fostering Agility, Removing Blockers",
+      "Slug": "scrum-masters-enabling-teams-fostering-agility-removing-blockers",
+      "Reference": "resources/signals/2025-03-05-scrum-masters-enabling-teams-fostering-agility-removing-blockers",
+      "ResourceType": "signals",
+      "ResourceId": "IrDYI5d-kXv",
+      "Similarity": 0.6257807427148404
+    },
+    {
+      "Title": "You can't stop the signal! But you can ignore it!",
+      "Slug": "you-can't-stop-the-signal-but-you-can-ignore-it",
+      "Reference": "resources/blog/2024/2024-04-17-you-cant-stop-the-signal-but-you-can-ignore-it",
+      "ResourceType": "blog",
+      "ResourceId": "KHNSdDjr5K_",
+      "Similarity": 0.6255825165885202
+    },
+    {
+      "Title": "Fear is the real enemy of agility",
+      "Slug": "fear-is-the-real-enemy-of-agility",
+      "Reference": "resources/signals/2025-05-07-fear-is-the-real-enemy-of-agility",
+      "ResourceType": "signals",
+      "ResourceId": "JwMLCNODuls",
+      "Similarity": 0.6249868543149135
+    },
+    {
+      "Title": "Every unreleased feature is a cost",
+      "Slug": "every-unreleased-feature-is-a-cost",
+      "Reference": "resources/signals/2025-02-05-every-unreleased-feature-is-a-cost",
+      "ResourceType": "signals",
+      "ResourceId": "PNGuJocqSoD",
+      "Similarity": 0.6234518985561338
+    },
+    {
+      "Title": "We hear self-managing teams so often it become a cliché",
+      "Slug": "we-hear-self-managing-teams-so-often-it-become-a-cliché",
+      "Reference": "resources/signals/2025-05-09-we-hear-self-managing-teams-so-often-it-become-a-cliché",
+      "ResourceType": "signals",
+      "ResourceId": "FqiyqqNxjFS",
+      "Similarity": 0.6219937433884422
+    },
+    {
+      "Title": "Do More Staging Environments Really Reduce Deployment Risk",
+      "Slug": "do-more-staging-environments-really-reduce-deployment-risk",
+      "Reference": "resources/signals/2025-02-26-do-more-staging-environments-really-reduce-deployment-risk",
+      "ResourceType": "signals",
+      "ResourceId": "6VmmXorMZZW",
+      "Similarity": 0.6210373565126451
+    },
+    {
+      "Title": "Too many Scrum Masters believe they don’t need technical skills",
+      "Slug": "too-many-scrum-masters-believe-they-don-t-need-technical-skills",
+      "Reference": "resources/signals/2025-03-24-too-many-scrum-masters-believe-they-don-t-need-technical-skills",
+      "ResourceType": "signals",
+      "ResourceId": "q_OupO_abR_",
+      "Similarity": 0.6209699268648579
+    },
+    {
+      "Title": "Navigating Agile Transformation: Empowering Teams for Success in a Rapidly Changing Landscape",
+      "Slug": "navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape",
+      "Reference": "resources/videos/youtube/r_Af7X25IDk",
+      "ResourceType": "videos",
+      "ResourceId": "r_Af7X25IDk",
+      "Similarity": 0.6204724147934496
+    },
+    {
+      "Title": "Why Slow Processes Impact Developer Productivity and Performance",
+      "Slug": "why-slow-processes-impact-developer-productivity-and-performance",
+      "Reference": "resources/signals/2025-03-14-why-slow-processes-impact-developer-productivity-and-performance",
+      "ResourceType": "signals",
+      "ResourceId": "CkgnD5GYbI8",
+      "Similarity": 0.6199117403630852
+    },
+    {
+      "Title": "If software is not delivered, it is not valuable",
+      "Slug": "if-software-is-not-delivered-it-is-not-valuable",
+      "Reference": "resources/signals/2025-03-01-if-software-is-not-delivered-it-is-not-valuable",
+      "ResourceType": "signals",
+      "ResourceId": "KMId0yk2uL1",
+      "Similarity": 0.6195895446614421
+    },
+    {
+      "Title": "Agile without a usable working product is just expensive theatre",
+      "Slug": "agile-without-a-usable-working-product-is-just-expensive-theatre",
+      "Reference": "resources/signals/2025-04-20-agile-without-a-usable-working-product-is-just-expensive-theatre",
+      "ResourceType": "signals",
+      "ResourceId": "CBIAsEX7a86",
+      "Similarity": 0.618875301275075
+    },
+    {
+      "Title": "Building the wrong thing is worse than fixing a bug",
+      "Slug": "building-the-wrong-thing-is-worse-than-fixing-a-bug",
+      "Reference": "resources/signals/2025-04-14-building-the-wrong-thing-is-worse-than-fixing-a-bug",
+      "ResourceType": "signals",
+      "ResourceId": "HvZvnbC68go",
+      "Similarity": 0.6177304413937006
+    },
+    {
+      "Title": "Most teams don’t fail because they lack frameworks",
+      "Slug": "most-teams-don-t-fail-because-they-lack-frameworks",
+      "Reference": "resources/signals/2025-05-05-most-teams-don-t-fail-because-they-lack-frameworks",
+      "ResourceType": "signals",
+      "ResourceId": "sX2UVhPk6cL",
+      "Similarity": 0.6170664809834905
+    },
+    {
+      "Title": "Detecting Agile BS: Lessons from the Department of Defense",
+      "Slug": "detecting-agile-bs-lessons-from-the-department-of-defense",
+      "Reference": "resources/videos/youtube/kVt5KP9dg8Q",
+      "ResourceType": "videos",
+      "ResourceId": "kVt5KP9dg8Q",
+      "Similarity": 0.6164709766864321
+    },
+    {
+      "Title": "Everyone loves to shout give teams autonomy",
+      "Slug": "everyone-loves-to-shout-give-teams-autonomy",
+      "Reference": "resources/signals/2025-05-08-everyone-loves-to-shout-give-teams-autonomy",
+      "ResourceType": "signals",
+      "ResourceId": "5nkzevV2xKG",
+      "Similarity": 0.616466359522581
+    },
+    {
+      "Title": "Empowering Your Team: Why Quick Fixes in Agile and DevOps Are a Myth",
+      "Slug": "empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth",
+      "Reference": "resources/videos/youtube/BJZdyEqHhXc",
+      "ResourceType": "videos",
+      "ResourceId": "BJZdyEqHhXc",
+      "Similarity": 0.6163334618922248
+    },
+    {
+      "Title": "Great Scrum Masters and Product Owners don’t micromanage",
+      "Slug": "great-scrum-masters-and-product-owners-don-t-micromanage",
+      "Reference": "resources/signals/2025-03-23-great-scrum-masters-and-product-owners-don-t-micromanage",
+      "ResourceType": "signals",
+      "ResourceId": "8W3oqNsNnMS",
+      "Similarity": 0.6157703315235195
+    },
+    {
+      "Title": "Is Your Project Ecosystem Truly Agile?",
+      "Slug": "is-your-project-ecosystem-truly-agile",
+      "Reference": "resources/videos/youtube/cGOa0rg_L-8",
+      "ResourceType": "videos",
+      "ResourceId": "cGOa0rg_L-8",
+      "Similarity": 0.6150038628132186
+    },
+    {
+      "Title": "Balancing Speed and Stability: Why Quality Should Always Come First in Delivery Management",
+      "Slug": "balancing-speed-and-stability-why-quality-should-always-come-first-in-delivery-management",
+      "Reference": "resources/videos/youtube/Tz784ysJX7Q",
+      "ResourceType": "videos",
+      "ResourceId": "Tz784ysJX7Q",
+      "Similarity": 0.6144330044420825
+    },
+    {
+      "Title": "Maximising Product Value: The Power of Hypothesis-Driven Engineering",
+      "Slug": "maximising-product-value-the-power-of-hypothesis-driven-engineering",
+      "Reference": "resources/videos/youtube/Ig-HpUfQr3M",
+      "ResourceType": "videos",
+      "ResourceId": "Ig-HpUfQr3M",
+      "Similarity": 0.6139551497903842
+    },
+    {
+      "Title": "Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success",
+      "Slug": "unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success",
+      "Reference": "resources/videos/youtube/LI6G1awAUyU",
+      "ResourceType": "videos",
+      "ResourceId": "LI6G1awAUyU",
+      "Similarity": 0.6135053356621493
+    },
+    {
+      "Title": "Cultivating a Culture of Quality: Lessons from Boeing and Volkswagen for Engineering Excellence",
+      "Slug": "cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence",
+      "Reference": "resources/videos/youtube/HmAIUiR8QSo",
+      "ResourceType": "videos",
+      "ResourceId": "HmAIUiR8QSo",
+      "Similarity": 0.6133343823708968
+    },
+    {
+      "Title": "A changing Definition of Done undermines quality and predictability in teams",
+      "Slug": "a-changing-definition-of-done-undermines-quality-and-predictability-in-teams",
+      "Reference": "resources/signals/2025-04-04-a-changing-definition-of-done-undermines-quality-and-predictability-in-teams",
+      "ResourceType": "signals",
+      "ResourceId": "lPs2C5FQ5cR",
+      "Similarity": 0.6131544408031319
+    },
+    {
+      "Title": "Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success",
+      "Slug": "maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success",
+      "Reference": "resources/videos/youtube/1-jUmFcyiI8",
+      "ResourceType": "videos",
+      "ResourceId": "1-jUmFcyiI8",
+      "Similarity": 0.612312092682333
+    },
+    {
+      "Title": "Agile Is Not Easier Than Traditional Methods: Common Misconceptions",
+      "Slug": "agile-is-not-easier-than-traditional-methods-common-misconceptions",
+      "Reference": "resources/signals/2025-03-08-agile-is-not-easier-than-traditional-methods-common-misconceptions",
+      "ResourceType": "signals",
+      "ResourceId": "ZGwpGOoHHBQ",
+      "Similarity": 0.6118004727240764
+    },
+    {
+      "Title": "If every release feels high-risk, you lack a true Definition of Done",
+      "Slug": "if-every-release-feels-high-risk-you-lack-a-true-definition-of-done",
+      "Reference": "resources/signals/2025-04-05-if-every-release-feels-high-risk-you-lack-a-true-definition-of-done",
+      "ResourceType": "signals",
+      "ResourceId": "iEdzblomyOb",
+      "Similarity": 0.6115549686200926
+    },
+    {
+      "Title": "Here the dirty secret behind many agile transformations",
+      "Slug": "here-the-dirty-secret-behind-many-agile-transformations",
+      "Reference": "resources/signals/2025-05-02-here-the-dirty-secret-behind-many-agile-transformations",
+      "ResourceType": "signals",
+      "ResourceId": "6Z5I3JPMECs",
+      "Similarity": 0.6113731033005302
+    },
+    {
+      "Title": "Building a High-Performance Delivery Engine: Unlocking Success Through Competence and Collaboration",
+      "Slug": "building-a-high-performance-delivery-engine-unlocking-success-through-competence-and-collaboration",
+      "Reference": "resources/videos/youtube/quFj6dy5M7E",
+      "ResourceType": "videos",
+      "ResourceId": "quFj6dy5M7E",
+      "Similarity": 0.6101366160347866
+    },
+    {
+      "Title": "Transforming Waste into Value: How to Boost ROI with Agile Metrics",
+      "Slug": "transforming-waste-into-value-how-to-boost-roi-with-agile-metrics",
+      "Reference": "resources/videos/youtube/Gym5-p-mNtw",
+      "ResourceType": "videos",
+      "ResourceId": "Gym5-p-mNtw",
+      "Similarity": 0.6090426425330109
+    },
+    {
+      "Title": "Every delay in decision-making taxes your organisation future",
+      "Slug": "every-delay-in-decision-making-taxes-your-organisation-future",
+      "Reference": "resources/signals/2025-04-22-every-delay-in-decision-making-taxes-your-organisation-future",
+      "ResourceType": "signals",
+      "ResourceId": "CkFbsX0M3i-",
+      "Similarity": 0.6083091483164298
+    },
+    {
+      "Title": "The Hidden Costs of Supporting Multiple Versions in Production",
+      "Slug": "the-hidden-costs-of-supporting-multiple-versions-in-production",
+      "Reference": "resources/signals/2025-02-06-the-hidden-costs-of-supporting-multiple-versions-in-production",
+      "ResourceType": "signals",
+      "ResourceId": "un1ZqM8aYng",
+      "Similarity": 0.6076621240101276
+    },
+    {
+      "Title": "Telling People What to Do Is Not Leadership. It’s a Failure of System Design.",
+      "Slug": "telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design",
+      "Reference": "resources/blog/2025/2025-08-04-telling-people-what-to-do-is-not-leadership-its-a-failure-of-system-design",
+      "ResourceType": "blog",
+      "ResourceId": "W_KrTupmowf",
+      "Similarity": 0.6074779420232967
+    },
+    {
+      "Title": "A better way than staggered iterations for delivery",
+      "Slug": "a-better-way-than-staggered-iterations-for-delivery",
+      "Reference": "resources/blog/2020/2020-12-10-a-better-way-than-staggered-iterations-for-delivery",
+      "ResourceType": "blog",
+      "ResourceId": "DOMFzBBMzfq",
+      "Similarity": 0.6072388996909837
+    },
+    {
+      "Title": "Branch promotion is a relic of slow, manual software delivery",
+      "Slug": "branch-promotion-is-a-relic-of-slow-manual-software-delivery",
+      "Reference": "resources/signals/2025-02-08-branch-promotion-is-a-relic-of-slow-manual-software-delivery",
+      "ResourceType": "signals",
+      "ResourceId": "xLVnF1dEnfO",
+      "Similarity": 0.6072219035398275
+    },
+    {
+      "Title": "DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions",
+      "Slug": "devops-elevating-your-organization-s-performance-through-bespoke-solutions",
+      "Reference": "resources/videos/youtube/sXmXT_MDXTo",
+      "ResourceType": "videos",
+      "ResourceId": "sXmXT_MDXTo",
+      "Similarity": 0.606433287466748
+    },
+    {
+      "Title": "let-us do the maths",
+      "Slug": "let-us-do-the-maths",
+      "Reference": "resources/signals/2025-04-30-let-us-do-the-maths",
+      "ResourceType": "signals",
+      "ResourceId": "XYMN44lJp1n",
+      "Similarity": 0.6062972363396651
+    },
+    {
+      "Title": "Toyota \"andon\" cord lets any worker stop production to fix defects",
+      "Slug": "toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects",
+      "Reference": "resources/signals/2025-05-12-toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects",
+      "ResourceType": "signals",
+      "ResourceId": "BIT0P3MRDj9",
+      "Similarity": 0.6060138476879737
+    },
+    {
+      "Title": "From Chaos to Clarity: My Journey Through DevOps and the Three Key Challenges to Overcome",
+      "Slug": "from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challenges-to-overcome",
+      "Reference": "resources/videos/youtube/icX4XpolVLE",
+      "ResourceType": "videos",
+      "ResourceId": "icX4XpolVLE",
+      "Similarity": 0.605734365137194
+    },
+    {
+      "Title": "Lack of Authority Blocks Progress on Critical Projects",
+      "Slug": "lack-of-authority-blocks-progress-on-critical-projects",
+      "Reference": "resources/signals/2025-03-16-lack-of-authority-blocks-progress-on-critical-projects",
+      "ResourceType": "signals",
+      "ResourceId": "uLNzs9NgPZI",
+      "Similarity": 0.6055382085750457
+    },
+    {
+      "Title": "DevOps: The Practical Path to Modernising Legacy Systems Without Starting Over",
+      "Slug": "devops-the-practical-path-to-modernising-legacy-systems-without-starting-over",
+      "Reference": "resources/videos/youtube/Tr1b0hru0zE",
+      "ResourceType": "videos",
+      "ResourceId": "Tr1b0hru0zE",
+      "Similarity": 0.604598231797159
+    },
+    {
+      "Title": "Why Is It So Important that Senior Leadership Teams are Engaged During an Agile Consulting Engagement?",
+      "Slug": "why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement",
+      "Reference": "resources/videos/youtube/ItnQxg3Q4Fc",
+      "ResourceType": "videos",
+      "ResourceId": "ItnQxg3Q4Fc",
+      "Similarity": 0.603749833977927
+    },
+    {
+      "Title": "Scrum Master Effectiveness Begins with Consistent Delivery",
+      "Slug": "scrum-master-effectiveness-begins-with-consistent-delivery",
+      "Reference": "resources/signals/2025-03-06-scrum-master-effectiveness-begins-with-consistent-delivery",
+      "ResourceType": "signals",
+      "ResourceId": "KWm8S39saqg",
+      "Similarity": 0.603596190546304
+    },
+    {
+      "Title": "Release planning and predictable delivery",
+      "Slug": "release-planning-and-predictable-delivery",
+      "Reference": "resources/blog/2020/2020-11-24-release-planning-and-predictable-delivery",
+      "ResourceType": "blog",
+      "ResourceId": "2cOXevMnGb_",
+      "Similarity": 0.6031617482458924
+    },
+    {
+      "Title": "Empowering Teams to Tailor Their Processes: A Path to True Agility",
+      "Slug": "empowering-teams-to-tailor-their-processes-a-path-to-true-agility",
+      "Reference": "resources/videos/youtube/5H9rOGhTB88",
+      "ResourceType": "videos",
+      "ResourceId": "5H9rOGhTB88",
+      "Similarity": 0.6029405572536266
+    },
+    {
+      "Title": "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments",
+      "Slug": "rethinking-continuous-delivery-why-best-practices-don't-exist-in-complex-environments",
+      "Reference": "resources/videos/youtube/5J8RLcOAE3E",
+      "ResourceType": "videos",
+      "ResourceId": "5J8RLcOAE3E",
+      "Similarity": 0.6026876835559352
+    },
+    {
+      "Title": "Hybrid Agile often combines the worst of both traditional and Agile methods",
+      "Slug": "hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods",
+      "Reference": "resources/signals/2025-04-09-hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods",
+      "ResourceType": "signals",
+      "ResourceId": "mqG4p-beYqb",
+      "Similarity": 0.6026210252862939
+    },
+    {
+      "Title": "Agile and Scrum are often misunderstood",
+      "Slug": "agile-and-scrum-are-often-misunderstood",
+      "Reference": "resources/signals/2025-05-04-agile-and-scrum-are-often-misunderstood",
+      "ResourceType": "signals",
+      "ResourceId": "Oi_yiyEHZbM",
+      "Similarity": 0.6015567069075128
+    },
+    {
+      "Title": "Too many teams overcomplicate their branching strategies",
+      "Slug": "too-many-teams-overcomplicate-their-branching-strategies",
+      "Reference": "resources/signals/2025-02-06-too-many-teams-overcomplicate-their-branching-strategies",
+      "ResourceType": "signals",
+      "ResourceId": "qwciWeifRRf",
+      "Similarity": 0.6003680212236584
+    },
+    {
+      "Title": "The market isn’t slowing down for anyone",
+      "Slug": "the-market-isn-t-slowing-down-for-anyone",
+      "Reference": "resources/signals/2025-04-16-the-market-isn-t-slowing-down-for-anyone",
+      "ResourceType": "signals",
+      "ResourceId": "Szz-d1q7CG7",
+      "Similarity": 0.6003406350763023
+    },
+    {
+      "Title": "Mastering the Art of Scaling Product Development: Why Adding More Developers Isn't the Answer",
+      "Slug": "mastering-the-art-of-scaling-product-development-why-adding-more-developers-isn't-the-answer",
+      "Reference": "resources/videos/youtube/KWiWgLFalyA",
+      "ResourceType": "videos",
+      "ResourceId": "KWiWgLFalyA",
+      "Similarity": 0.6003295560432278
+    },
+    {
+      "Title": "Empowering Teams for Success: The Key to Thriving Product Development",
+      "Slug": "empowering-teams-for-success-the-key-to-thriving-product-development",
+      "Reference": "resources/videos/youtube/EyqLSLHk_Ik",
+      "ResourceType": "videos",
+      "ResourceId": "EyqLSLHk_Ik",
+      "Similarity": 0.6001900451662382
+    },
+    {
+      "Title": "Everyone loves the idea of self-managing teams",
+      "Slug": "everyone-loves-the-idea-of-self-managing-teams",
+      "Reference": "resources/signals/2025-03-18-everyone-loves-the-idea-of-self-managing-teams",
+      "ResourceType": "signals",
+      "ResourceId": "xETx_jwnIHO",
+      "Similarity": 0.600074560407226
+    }
+  ]
+}

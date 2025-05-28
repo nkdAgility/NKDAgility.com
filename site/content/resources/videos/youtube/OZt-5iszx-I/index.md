@@ -3,7 +3,7 @@ title: 'Turning User Feedback into Actionable Work: A Guide to Maximizing Produc
 description: Learn how to quickly turn user feedback into actionable work items in Agile teams, improving product value through fast feedback loops, prioritisation, and continuous improvement.
 date: 2024-07-10T06:45:01Z
 weight: 1000
-slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I
+slug: turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
 aliases:
 - /resources/OZt-5iszx-I
 - /resources/videos/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value-OZt-5iszx-I

@@ -3,7 +3,7 @@ title: 3 best ways to wreck Kanban. Don't have a working agreement.
 description: Not having a working agreement in Kanban leads to team misalignment, inefficiency, and conflict. Clear agreements ensure roles, goals, and processes are understood by all.
 date: 2024-03-01T07:00:17Z
 weight: 690
-slug: 3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
+slug: 3-best-ways-to-wreck-kanban-don't-have-a-working-agreement
 aliases:
 - /resources/h6yumCOP-aE
 - /resources/videos/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement

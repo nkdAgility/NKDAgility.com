@@ -3,6 +3,16 @@ title: Market Focus
 description: Explains how to adjust projects quickly in response to user feedback, focusing on implementing changes within timelines of less than one month.
 date: 2024-09-17
 weight: 1000
+slug: market-focus
+aliases:
+- /learn/agile-delivery-kit/first-principals/market-focus/
+- /resources/T6DrE9pN0ds
+aliasesArchive:
+- /learn/agile-delivery-kit/first-principals/market-focus/
+concepts: []
+categories:
+- Uncategorized
+tags: []
 ResourceId: T6DrE9pN0ds
 ResourceImport: false
 ResourceType: principles
@@ -19,15 +29,6 @@ card:
   title: Market Focus
 Watermarks:
   description: 2025-05-07T12:57:49Z
-aliases:
-- /learn/agile-delivery-kit/first-principals/market-focus/
-- /resources/T6DrE9pN0ds
-aliasesArchive:
-- /learn/agile-delivery-kit/first-principals/market-focus/
-concepts: []
-categories:
-- Uncategorized
-tags: []
 
 ---
 Update the work based on user feedback on timelines shorter than one month

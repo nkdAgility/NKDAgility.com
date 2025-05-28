@@ -3,7 +3,7 @@ title: Most Common Thing You Hear in a PSPO Course?
 description: Product Owners often feel limited in control and influence. This article explores common challenges and offers steps to boost empowerment and accountability in the role.
 date: 2023-06-29T11:00:18Z
 weight: 840
-slug: most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU
+slug: most-common-thing-you-hear-in-a-pspo-course
 aliases:
 - /resources/CdYwLGrArZU
 - /resources/videos/most-common-thing-you-hear-in-a-pspo-course-CdYwLGrArZU

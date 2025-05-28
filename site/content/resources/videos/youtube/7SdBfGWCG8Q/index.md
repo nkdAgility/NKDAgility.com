@@ -3,7 +3,7 @@ title: The Power of Building Relationships Through Immersive Learning in Scrum
 description: Explores how immersive learning in Scrum fosters strong peer relationships, enhancing collaboration, trust, and long-term growth for practitioners beyond the classroom.
 date: 2024-02-06T07:00:03Z
 weight: 1000
-slug: the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q
+slug: the-power-of-building-relationships-through-immersive-learning-in-scrum
 aliases:
 - /resources/7SdBfGWCG8Q
 - /resources/videos/the-power-of-building-relationships-through-immersive-learning-in-scrum-7SdBfGWCG8Q

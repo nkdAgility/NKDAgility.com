@@ -3,7 +3,7 @@ title: One thing a client can do to ensure a successful Agile consulting engagem
 description: Encouraging clients to embrace provocation and critical questioning helps drive mindset shifts, enabling more effective Agile consulting and lasting organisational change.
 date: 2023-05-05T07:00:10Z
 weight: 790
-slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
+slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 aliases:
 - /resources/TZKvdhDPMjg
 - /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg

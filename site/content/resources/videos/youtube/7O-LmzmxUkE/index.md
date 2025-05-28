@@ -3,7 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 1.
 description: Explains why Scrum events are not pointless meetings but structured opportunities for inspection, adaptation, and progress, clarifying common misconceptions about Scrum.
 date: 2023-10-24T06:50:42Z
 weight: 665
-slug: scrum-is-like-communism-it-doesnt-work-myth-1
+slug: scrum-is-like-communism-it-doesn't-work-myth-1
 aliases:
 - /resources/7O-LmzmxUkE
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1

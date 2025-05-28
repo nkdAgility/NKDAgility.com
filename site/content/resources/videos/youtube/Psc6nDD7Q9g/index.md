@@ -3,7 +3,7 @@ title: Maximizing Transparency and Improvement in Software Engineering with Kanb
 description: Learn how Kanban boosts transparency in software engineering, helping teams visualise workflows, identify bottlenecks, and drive continuous improvement and delivery.
 date: 2024-07-29T06:45:02Z
 weight: 450
-slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g
+slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban
 aliases:
 - /resources/Psc6nDD7Q9g
 - /resources/videos/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-Psc6nDD7Q9g

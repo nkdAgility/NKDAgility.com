@@ -3,7 +3,7 @@ title: What is Scrum?
 description: Scrum is a framework that helps teams organise and adapt to complex, changing tasks by enabling collaboration and shared goals in uncertain environments.
 date: 2023-05-19T07:00:31Z
 weight: 1000
-slug: what-is-scrum-o-wVeh3CIVI
+slug: what-is-scrum
 aliases:
 - /resources/o-wVeh3CIVI
 - /resources/videos/what-is-scrum-o-wVeh3CIVI

@@ -3,7 +3,7 @@ title: 'Unlocking Continuous Improvement: How Metrics and Visual Tools Transform
 description: Learn how using key metrics and visual tools like Kanban boards drives continuous workflow improvement, transparency, and informed decision-making in teams.
 date: 2024-08-15T07:04:39Z
 weight: 280
-slug: unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE
+slug: unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow
 aliases:
 - /resources/sIhG2i7frpE
 - /resources/videos/unlocking-continuous-improvement-how-metrics-and-visual-tools-transform-your-workflow-sIhG2i7frpE

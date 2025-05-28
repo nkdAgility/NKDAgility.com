@@ -3,7 +3,7 @@ title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
 description: Explores how patience fosters trust, growth, and collaboration in agile teams, offering practical steps to build a supportive, blame-free, and productive team culture.
 date: 2023-12-08T11:00:09Z
 weight: 1000
-slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE
+slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
 aliases:
 - /resources/4p5xeJZXvcE
 - /resources/videos/cultivating-patience-the-secret-ingredient-for-thriving-agile-teams-4p5xeJZXvcE

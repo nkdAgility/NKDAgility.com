@@ -3,7 +3,7 @@ title: How to Discover Unrealized Value in Your Product
 description: Learn how to identify and measure unrealised value in your product using Evidence-Based Management, key metrics, and actionable steps to improve customer satisfaction and growth.
 date: 2024-01-24T11:00:29Z
 weight: 1000
-slug: how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o
+slug: how-to-discover-unrealized-value-in-your-product
 aliases:
 - /resources/cbLd-wstv3o
 - /resources/videos/how-to-discover-unrealized-value-in-your-product-cbLd-wstv3o

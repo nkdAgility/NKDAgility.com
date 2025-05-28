@@ -8,7 +8,7 @@ function Delete-LocalDataFiles {
     $count = 0
     try {
         Write-InfoLog "Deleting all data files locally from '$LocalPath'..."
-        $files = Get-ChildItem -Path $LocalPath -Recurse -Include data.captions.*.srt, data.captions.json, data.json, data.index.classifications.json
+        $files = Get-ChildItem -Path $LocalPath -Recurse -Include data.*
         if ($files.Count -eq 0) {
             Write-InfoLog "No files found."
             return 0;

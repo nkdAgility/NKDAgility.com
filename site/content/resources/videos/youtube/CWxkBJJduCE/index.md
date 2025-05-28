@@ -3,7 +3,7 @@ title: 'Transform Your Software Architecture: The Game-Changing Impact of TDD an
 description: Explores how test-driven development and pair programming improve software architecture, code quality, team skills, and long-term productivity by reducing complexity and errors.
 date: 2024-11-19T16:55:41Z
 weight: 300
-slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE
+slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
 aliases:
 - /resources/CWxkBJJduCE
 - /resources/videos/transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming-CWxkBJJduCE

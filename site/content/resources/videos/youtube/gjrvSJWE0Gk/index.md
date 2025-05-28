@@ -3,7 +3,7 @@ title: Overview of 'applying metrics for predictability' Kanban course.
 description: Learn how to use Kanban metrics like cycle time and throughput to improve team predictability, make accurate forecasts, and deliver consistent project outcomes.
 date: 2024-02-20T07:00:27Z
 weight: 1000
-slug: overview-of-applying-metrics-for-predictability-kanban-course
+slug: overview-of-'applying-metrics-for-predictability'-kanban-course
 aliases:
 - /resources/gjrvSJWE0Gk
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course

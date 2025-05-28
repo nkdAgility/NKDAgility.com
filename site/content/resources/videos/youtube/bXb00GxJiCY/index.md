@@ -3,7 +3,7 @@ title: The Power of Immersive Learning in Scrum Training
 description: Explores how immersive learning in Scrum training reduces cognitive load, boosts engagement, and improves retention through shorter, interactive, hands-on sessions.
 date: 2024-02-02T07:00:16Z
 weight: 1000
-slug: the-power-of-immersive-learning-in-scrum-training-bXb00GxJiCY
+slug: the-power-of-immersive-learning-in-scrum-training
 aliases:
 - /resources/bXb00GxJiCY
 - /resources/videos/the-power-of-immersive-learning-in-scrum-training-bXb00GxJiCY

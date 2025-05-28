@@ -3,7 +3,7 @@ title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in H
 description: Explores how combining theory and hands-on experience in Scrum training leads to deeper understanding, critical thinking, and continuous improvement for Agile teams.
 date: 2024-02-08T07:00:06Z
 weight: 1000
-slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU
+slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
 aliases:
 - /resources/BmlTZwGAcMU
 - /resources/videos/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand-BmlTZwGAcMU

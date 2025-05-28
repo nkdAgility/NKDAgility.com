@@ -3,6 +3,9 @@ title: The Sprint Review
 description: Overview of the Sprint Review, its purpose in Agile development, key activities, and how teams assess progress and gather feedback at the end of each sprint.
 date: 2024-09-17
 weight: 1000
+slug: the-sprint-review
+aliases:
+- /resources/9omxdDJCVDL
 ResourceId: 9omxdDJCVDL
 ResourceImport: false
 ResourceType: learning-series
@@ -36,8 +39,6 @@ card:
   title: The Sprint Review
 Watermarks:
   description: 2025-05-07T12:58:17Z
-aliases:
-- /resources/9omxdDJCVDL
 concepts: []
 categories:
 - Uncategorized

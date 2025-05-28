@@ -3,7 +3,7 @@ title: 'Engaging Your Team: The Secret to Successful Organisational Change'
 description: Learn how involving, empowering, and communicating with your team drives successful organisational change by fostering shared goals, trust, and a culture of engagement.
 date: 2023-12-04T11:00:23Z
 weight: 1000
-slug: engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY
+slug: engaging-your-team-the-secret-to-successful-organisational-change
 aliases:
 - /resources/OMlLiLkCmMY
 - /resources/videos/engaging-your-team-the-secret-to-successful-organisational-change-OMlLiLkCmMY

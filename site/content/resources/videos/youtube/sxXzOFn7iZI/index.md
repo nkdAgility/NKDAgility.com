@@ -3,7 +3,7 @@ title: 'Hiring an Agile Coach: What You Need to Know'
 description: Learn what to look for when hiring an Agile coach, including key qualities like teaching, mentoring, and inspiring teams to adopt Agile practices and drive transformation.
 date: 2023-11-22T11:00:46Z
 weight: 565
-slug: hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI
+slug: hiring-an-agile-coach-what-you-need-to-know
 aliases:
 - /resources/sxXzOFn7iZI
 - /resources/videos/hiring-an-agile-coach-what-you-need-to-know-sxXzOFn7iZI

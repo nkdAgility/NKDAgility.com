@@ -3,7 +3,7 @@ title: 'Transform Your Leadership: The Power of Evidence-Based Management in Agi
 description: Discover how evidence-based management empowers Agile leaders to make data-driven decisions, foster continuous improvement, and boost team performance and collaboration.
 date: 2023-11-29T11:00:03Z
 weight: 665
-slug: transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y
+slug: transform-your-leadership-the-power-of-evidence-based-management-in-agile
 aliases:
 - /resources/2-AyrLPg-8Y
 - /resources/videos/transform-your-leadership-the-power-of-evidence-based-management-in-agile-2-AyrLPg-8Y

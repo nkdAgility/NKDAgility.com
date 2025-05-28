@@ -3,7 +3,7 @@ title: "Signs You're Failing as a Product Owner: How to Take Control and Deliver
 description: Learn key signs of failing as a product owner, including poor product quality, lack of vision, and inconsistent delivery, plus practical steps to regain control and deliver value.
 date: 2023-09-22T07:00:32Z
 weight: 1000
-slug: signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
+slug: signs-you're-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliases:
 - /resources/uvU_ATou6QY
 - /resources/videos/signs-youre-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value

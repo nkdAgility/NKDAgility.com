@@ -3,7 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 5.
 description: Explains why Scrum does not mean a lack of governance, highlighting the need for regulatory compliance and internal standards while maintaining Agile flexibility.
 date: 2023-10-26T07:00:29Z
 weight: 690
-slug: scrum-is-like-communism-it-doesnt-work-myth-5
+slug: scrum-is-like-communism-it-doesn't-work-myth-5
 aliases:
 - /resources/kORUKHu-64A
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5

@@ -3,7 +3,7 @@ title: 'Modernising Legacy Systems: A Practical, Low-Risk Strategy for Real Busi
 description: Struggling with legacy systems? Discover why modernisation is a strategy, not a gamble—reduce risk, boost efficiency, and future-proof your business today.
 date: 2025-06-09T06:00:00Z
 weight: 240
-slug: 10-how-nkd-agility-helps-you-modernize-without-disrupting-business
+slug: modernising-legacy-systems-a-practical-low-risk-strategy-for-real-business-transformation
 aliases:
 - /resources/4iK4RTQegD8
 - /resources/videos/10-how-nkd-agility-helps-you-modernize-without-disrupting-business

@@ -3,7 +3,7 @@ title: 'DevOps: Elevating Your Organization’s Performance Through Bespoke Solu
 description: Learn how tailored DevOps strategies help organisations assess current practices, streamline processes, ensure compliance, and boost software quality and delivery frequency.
 date: 2024-08-16T07:18:10Z
 weight: 300
-slug: devops-elevating-your-organizations-performance-through-bespoke-solutions
+slug: devops-elevating-your-organization-s-performance-through-bespoke-solutions
 aliases:
 - /resources/sXmXT_MDXTo
 - /resources/videos/devops-elevating-your-organizations-performance-through-bespoke-solutions

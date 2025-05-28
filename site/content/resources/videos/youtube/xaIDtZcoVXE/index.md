@@ -3,7 +3,7 @@ title: How Do You Know How Long It Takes to Deliver Value?
 description: Explains how Agile teams can measure and improve Time to Market using key metrics like lead time, cycle time, and time to fix to deliver value to customers faster.
 date: 2024-01-26T11:00:51Z
 weight: 475
-slug: how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE
+slug: how-do-you-know-how-long-it-takes-to-deliver-value
 aliases:
 - /resources/xaIDtZcoVXE
 - /resources/videos/how-do-you-know-how-long-it-takes-to-deliver-value-xaIDtZcoVXE

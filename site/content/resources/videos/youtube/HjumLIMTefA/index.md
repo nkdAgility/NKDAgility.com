@@ -3,7 +3,7 @@ title: The Power of Immersive Learning in Agile Training
 description: Explores how immersive, hands-on learning in Agile training fosters real-world application, continuous improvement, and lasting organisational change through feedback and adaptation.
 date: 2024-02-04T11:00:23Z
 weight: 1000
-slug: the-power-of-immersive-learning-in-agile-training-HjumLIMTefA
+slug: the-power-of-immersive-learning-in-agile-training
 aliases:
 - /resources/HjumLIMTefA
 - /resources/videos/the-power-of-immersive-learning-in-agile-training-HjumLIMTefA

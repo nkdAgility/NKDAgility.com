@@ -3,7 +3,7 @@ title: Overview of 'applying flow metrics for Scrum' course.
 description: Learn how to use Kanban flow metrics in Scrum to improve value delivery, track progress, identify bottlenecks, and drive continuous improvement in agile teams.
 date: 2024-02-19T07:00:09Z
 weight: 665
-slug: overview-of-applying-flow-metrics-for-scrum-course
+slug: overview-of-'applying-flow-metrics-for-scrum'-course
 aliases:
 - /resources/NeGch-lQkPA
 - /resources/videos/overview-of-applying-flow-metrics-for-scrum-course

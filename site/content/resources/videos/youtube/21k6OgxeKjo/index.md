@@ -3,7 +3,7 @@ title: 'The Agile Bandit: How to Spot and Combat Project Management Mindsets in 
 description: Explains how project management mindsets in Product Owners can harm Agile teams, and offers practical strategies to promote value-driven, collaborative team environments.
 date: 2024-01-10T11:00:01Z
 weight: 1000
-slug: the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo
+slug: the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners
 aliases:
 - /resources/21k6OgxeKjo
 - /resources/videos/the-agile-bandit-how-to-spot-and-combat-project-management-mindsets-in-product-owners-21k6OgxeKjo

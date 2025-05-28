@@ -3,7 +3,7 @@ title: 'Empowering Agile Teams: Why Understanding Product Vision is Key to Succe
 description: Explains why agile teams need a clear understanding of product vision and strategic goals to boost alignment, ownership, decision-making, and adaptability.
 date: 2024-07-03T06:45:00Z
 weight: 640
-slug: empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
+slug: empowering-agile-teams-why-understanding-product-vision-is-key-to-success
 aliases:
 - /resources/2tlzlsgovy0
 - /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0

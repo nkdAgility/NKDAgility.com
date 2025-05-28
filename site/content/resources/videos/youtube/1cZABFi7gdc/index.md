@@ -3,7 +3,7 @@ title: 'Hiring the Right Agile Coach: What You Need to Know'
 description: Learn how to choose an Agile coach by assessing experience, track record, cultural fit, and adaptability to ensure effective, tailored Agile transformation for your organisation.
 date: 2023-11-23T11:00:01Z
 weight: 840
-slug: hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc
+slug: hiring-the-right-agile-coach-what-you-need-to-know
 aliases:
 - /resources/1cZABFi7gdc
 - /resources/videos/hiring-the-right-agile-coach-what-you-need-to-know-1cZABFi7gdc

@@ -3,7 +3,7 @@ title: 'Mastering Cloud Migration: How to Leverage Microsoft’s Tool for a Seam
 description: Learn how to use Microsoft’s migration tool to identify issues, review customisations, and plan for a smooth, risk-free transition of systems to the cloud.
 date: 2024-09-18T11:59:33Z
 weight: 1000
-slug: mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU
+slug: mastering-cloud-migration-how-to-leverage-microsoft-s-tool-for-a-seamless-transition
 aliases:
 - /resources/XEtys2DOkKU
 - /resources/videos/mastering-cloud-migration-how-to-leverage-microsofts-tool-for-a-seamless-transition-XEtys2DOkKU

@@ -3,7 +3,7 @@ title: 'Bridging the Gap: Understanding the True Meaning of "Done" in Agile Team
 description: Explores how Agile teams can clarify and align on the true meaning of "done" to ensure quality, reduce rework, and meet leadership expectations through clear definitions.
 date: 2023-12-07T11:00:05Z
 weight: 640
-slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4
+slug: bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams
 aliases:
 - /resources/2QojN_k3JZ4
 - /resources/videos/bridging-the-gap-understanding-the-true-meaning-of-done-in-agile-teams-2QojN_k3JZ4

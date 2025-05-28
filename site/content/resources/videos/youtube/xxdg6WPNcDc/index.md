@@ -3,7 +3,7 @@ title: 'Stop Paying the Hidden Costs of Weak Delivery: Why a Strong Definition o
 description: Stop paying the hidden costs of weak delivery. Discover how a strong, shared definition of done builds trust, quality, and real agility in your team.
 date: 2025-05-21T06:00:00Z
 weight: 130
-slug: 3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc
+slug: stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
 aliases:
 - /resources/xxdg6WPNcDc
 - /resources/videos/3-the-cost-of-weak-definitions-of-done-xxdg6WPNcDc

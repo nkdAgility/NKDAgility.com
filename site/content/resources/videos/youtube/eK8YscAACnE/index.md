@@ -3,7 +3,7 @@ title: "Ditching Agile Banditry: Why Story Points and Velocity Metrics Are Under
 description: Explores how relying on story points and velocity can harm Agile teams, advocating for objective metrics like cycle time and throughput to boost collaboration and transparency.
 date: 2024-01-08T11:00:37Z
 weight: 640
-slug: ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE
+slug: ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-team's-success
 aliases:
 - /resources/eK8YscAACnE
 - /resources/videos/ditching-agile-banditry-why-story-points-and-velocity-metrics-are-undermining-your-teams-success-eK8YscAACnE

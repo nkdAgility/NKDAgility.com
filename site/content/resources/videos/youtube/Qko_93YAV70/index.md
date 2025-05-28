@@ -3,7 +3,7 @@ title: 'Unlocking the Power of Caman: Why It’s the Perfect Companion to Scrum 
 description: Explains how Caman complements Scrum by providing transparency and insights to optimise workflows, identify bottlenecks, and improve processes across any industry.
 date: 2024-08-13T07:04:49Z
 weight: 1000
-slug: unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70
+slug: unlocking-the-power-of-caman-why-it-s-the-perfect-companion-to-scrum-for-process-optimisation
 aliases:
 - /resources/Qko_93YAV70
 - /resources/videos/unlocking-the-power-of-caman-why-its-the-perfect-companion-to-scrum-for-process-optimisation-Qko_93YAV70

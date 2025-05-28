@@ -3,7 +3,7 @@ title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams
 description: Learn how to choose an Agile coach who builds trust with teams and leadership, combining technical expertise, communication skills, and empathy for effective transformation.
 date: 2023-11-20T11:00:30Z
 weight: 640
-slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM
+slug: the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 aliases:
 - /resources/S1hBTkbZVFM
 - /resources/videos/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership-S1hBTkbZVFM

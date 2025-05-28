@@ -3,7 +3,7 @@ title: Znaczenie znajomości terenu
 description: Explores how knowledge of terrain, using mushroom picking as an example, can teach agility and adaptability in agile teams and project management environments.
 date: 2023-08-10T14:45:00Z
 weight: 1000
-slug: znaczenie-znajomoci-terenu
+slug: znaczenie-znajomości-terenu
 aliases:
 - /resources/IqWvURjrJVs
 - /resources/videos/znaczenie-znajomoci-terenu

@@ -3,7 +3,7 @@ title: "Product Ownership vs. Product Management: Busting the Myth That They're 
 description: Explains why product ownership and product management are deeply connected in Scrum, clarifying their roles, focus on value delivery, and the need for agile adaptation.
 date: 2024-08-01T06:45:01Z
 weight: 750
-slug: product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+slug: product-ownership-vs-product-management-busting-the-myth-that-they're-separate-roles
 aliases:
 - /resources/XF-yQmPdUME
 - /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles

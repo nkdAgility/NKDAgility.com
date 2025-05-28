@@ -3,7 +3,7 @@ title: 'Quotes: Less is More. True or False?'
 description: Explores how applying 'less is more' in Agile boosts productivity and quality by focusing on high-value tasks, reducing waste, and streamlining team workflows.
 date: 2023-10-14T07:00:13Z
 weight: 1000
-slug: quotes-less-is-more-true-or-false-V88FjP9f7_0
+slug: quotes-less-is-more-true-or-false
 aliases:
 - /resources/V88FjP9f7_0
 - /resources/videos/quotes-less-is-more-true-or-false-V88FjP9f7_0

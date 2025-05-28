@@ -3,7 +3,7 @@ title: "Mastering Scrum: Essential Insights for New Teams from a Scrum Master's 
 description: Guidance for new Scrum teams on building strong foundations, embracing empiricism, Scrum values, continuous learning, and the Scrum Master's role in fostering team growth.
 date: 2023-11-28T11:00:49Z
 weight: 610
-slug: mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey-nY4tmtGKO6I
+slug: mastering-scrum-essential-insights-for-new-teams-from-a-scrum-master's-journey
 aliases:
 - /resources/nY4tmtGKO6I
 - /resources/videos/mastering-scrum-essential-insights-for-new-teams-from-a-scrum-masters-journey-nY4tmtGKO6I

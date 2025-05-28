@@ -3,7 +3,7 @@ title: 'Celebrating Jernimo Palacios: A Beacon of Mentorship and Community in Ag
 description: Highlights the impact of Jernimo Palacios on agile practices through mentorship, knowledge sharing, and community building, emphasising collaboration and continuous improvement.
 date: 2023-05-04T07:00:07Z
 weight: 1000
-slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E
+slug: celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices
 aliases:
 - /resources/JNJerYuU30E
 - /resources/videos/celebrating-jernimo-palacios-a-beacon-of-mentorship-and-community-in-agile-practices-JNJerYuU30E

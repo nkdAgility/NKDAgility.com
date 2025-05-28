@@ -1,0 +1,35 @@
+{{/* Accepts dict with keys: Page, resourceType */}}
+{{ $page := .Page }}
+{{ $resourceType := .resourceType | default "blog" }}
+{{- $relatedData := partial "functions/get-related.html" .Page }}
+{{ if and $relatedData (gt (len $relatedData) 0) }}
+  {{ $relatedBlogs := where $relatedData "ResourceType" $resourceType }}
+  {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
+    <h3>Related {{ $resourceType }} (Extended)</h3>
+    <ul>
+      {{ range first 5 $relatedBlogs }}
+        {{ $relatedPage := site.GetPage .Reference }}
+        {{ if $relatedPage }}
+          <li><a href="{{ $relatedPage.RelPermalink }}">{{ $relatedPage.LinkTitle }}</a></li>
+        {{ else }}
+          <li><a href="{{ .Reference }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  {{ else }}
+    <p>No related {{ $resourceType }} found. X</p>
+  {{ end }}
+{{ else }}
+  {{ $related := $page.Site.RegularPages.Related $page }}
+  {{ $blogs := where $related ".Params.resourceTypes" $resourceType | first 5 }}
+  {{ with $blogs }}
+    <h3>Related {{ $resourceType }}</h3>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <p>No related {{ $resourceType }} found.</p>
+  {{ end }}
+{{ end }}

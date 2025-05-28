@@ -3,7 +3,7 @@ title: Most Common Thing You Hear in a PSM 1 Course?
 description: Explores the common challenge in PSM 1 courses of balancing real-world pressures with maintaining honesty, transparency, and moral integrity in Agile and Scrum practices.
 date: 2023-06-28T11:00:24Z
 weight: 1000
-slug: most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
+slug: most-common-thing-you-hear-in-a-psm-1-course
 aliases:
 - /resources/h5TG3MbP0QY
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY

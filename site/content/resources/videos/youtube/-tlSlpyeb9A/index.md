@@ -3,7 +3,7 @@ title: 'How to Evolve Your Definition of Done: Start Small, Grow Smarter, and Bu
 description: Unlock a smarter Definition of Done—start small, evolve standards, and build team momentum without overwhelm. Discover how progress drives excellence.
 date: 2025-06-25T06:45:00Z
 weight: 150
-slug: 8-evolving-the-definition-of-done-over-time--tlSlpyeb9A
+slug: how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum
 aliases:
 - /resources/-tlSlpyeb9A
 - /resources/videos/8-evolving-the-definition-of-done-over-time--tlSlpyeb9A

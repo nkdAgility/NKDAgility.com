@@ -3,7 +3,7 @@ title: Worst agile advice you've ever heard?
 description: Highlights why rigid rules in Agile and Scrum, like mandatory stand-ups, undermine flexibility and inclusivity, stressing the importance of adapting to team needs.
 date: 2023-05-09T09:30:04Z
 weight: 690
-slug: worst-agile-advice-youve-ever-heard-L6opxb0FYcU
+slug: worst-agile-advice-you've-ever-heard
 aliases:
 - /resources/L6opxb0FYcU
 - /resources/videos/worst-agile-advice-youve-ever-heard-L6opxb0FYcU

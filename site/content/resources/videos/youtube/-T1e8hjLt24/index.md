@@ -3,7 +3,7 @@ title: 'Stay Ahead of the Curve: How Continuous Learning Keeps You in the Top 10
 description: Explains how continuous learning helps you stay relevant, seize new opportunities, and grow personally and professionally through reading, community, and experimentation.
 date: 2023-12-19T11:00:00Z
 weight: 1000
-slug: stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24
+slug: stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10
 aliases:
 - /resources/-T1e8hjLt24
 - /resources/videos/stay-ahead-of-the-curve-how-continuous-learning-keeps-you-in-the-top-10--T1e8hjLt24

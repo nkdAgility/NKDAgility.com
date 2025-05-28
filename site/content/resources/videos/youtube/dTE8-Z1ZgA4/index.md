@@ -3,7 +3,7 @@ title: 'Unlocking Agile Mastery: How the Minecraft Case Study Transforms Trainin
 description: Discover how using a Minecraft-based case study enhances Agile training by boosting engagement, illustrating complexity, and improving team collaboration in real-world scenarios.
 date: 2023-08-29T07:00:14Z
 weight: 1000
-slug: unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4
+slug: unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics
 aliases:
 - /resources/dTE8-Z1ZgA4
 - /resources/videos/unlocking-agile-mastery-how-the-minecraft-case-study-transforms-training-and-team-dynamics-dTE8-Z1ZgA4

@@ -3,7 +3,7 @@ title: Scrum is like communism, it doesn't work. Myth 2.
 description: Explains why story points are often misunderstood in Scrum, clarifies their intended use, and offers practical advice for more effective Agile estimation and team collaboration.
 date: 2023-10-24T11:00:39Z
 weight: 1000
-slug: scrum-is-like-communism-it-doesnt-work-myth-2
+slug: scrum-is-like-communism-it-doesn't-work-myth-2
 aliases:
 - /resources/l3NhlbM2gKM
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-2

@@ -3,6 +3,9 @@ title: The Missing Lever in Agile Transformations
 description: Most agile transformations fail by neglecting agency—empowering people and systems to adapt—making true agility possible through autonomy, evidence, and continuous learning.
 date: 2025-06-02T09:00:00Z
 weight: 345
+slug: the-missing-lever-in-agile-transformations
+aliases:
+- /resources/RevK05qtZD7
 ResourceId: RevK05qtZD7
 ResourceImport: false
 ResourceType: blog
@@ -34,8 +37,6 @@ tags:
 - Evidence Based Management
 Watermarks:
   description: 2025-05-07T12:49:04Z
-aliases:
-- /resources/RevK05qtZD7
 
 ---
 Most agile transformations fail not because they get the ceremonies wrong, but because they misunderstand the real point: **cultivating agency** in people and systems.

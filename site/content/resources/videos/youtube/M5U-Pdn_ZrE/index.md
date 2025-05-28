@@ -3,7 +3,7 @@ title: 'Mastering the Art of Understanding: Essential Skills for Product Owners 
 description: Guidance for product owners on improving team clarity by reading non-verbal cues, adapting communication, and fostering open dialogue to ensure shared understanding in teams.
 date: 2023-12-18T11:00:15Z
 weight: 1000
-slug: mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE
+slug: mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity
 aliases:
 - /resources/M5U-Pdn_ZrE
 - /resources/videos/mastering-the-art-of-understanding-essential-skills-for-product-owners-to-foster-team-clarity-M5U-Pdn_ZrE

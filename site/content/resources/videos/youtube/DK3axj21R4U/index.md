@@ -3,7 +3,7 @@ title: fortnite
 description: Watch Fortnite gameplay on YouTube, featuring in-game action, strategies, and highlights from the popular online battle royale video game.
 date: 2020-10-23T21:26:57Z
 weight: 1000
-slug: fortnite-DK3axj21R4U
+slug: fortnite
 aliases:
 - /resources/DK3axj21R4U
 - /resources/videos/fortnite-DK3axj21R4U

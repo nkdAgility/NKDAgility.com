@@ -3,7 +3,7 @@ title: 'Unlocking Agility: How Decentralisation Empowers Teams to Maximise Value
 description: Explores how decentralising decision-making boosts team agility, engagement, and innovation, helping organisations of any size maximise value and adapt to change.
 date: 2023-09-28T11:09:12Z
 weight: 1000
-slug: unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA
+slug: unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation
 aliases:
 - /resources/E2OBcBqZGoA
 - /resources/videos/unlocking-agility-how-decentralisation-empowers-teams-to-maximise-value-in-any-organisation-E2OBcBqZGoA

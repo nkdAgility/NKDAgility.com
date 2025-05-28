@@ -3,7 +3,7 @@ title: 'Transforming Agility: How Azure DevOps Went from Two-Year Releases to 88
 description: Explores how Azure DevOps shifted from slow, two-year releases to rapid, continuous delivery, highlighting the benefits of fast feedback, agility, and frequent deployments.
 date: 2025-02-06T10:20:34Z
 weight: 230
-slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+slug: transforming-agility-how-azure-devops-went-from-two-year-releases-to-880-000-deployments
 aliases:
 - /resources/_gyzx59-AJk
 - /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments

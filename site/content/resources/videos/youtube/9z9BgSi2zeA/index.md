@@ -3,7 +3,7 @@ title: 'Hiring an Agile Coach: What to Look For in Both Technical and Leadership
 description: Learn what qualities to seek in an Agile coach, including technical expertise, business acumen, and the ability to engage both technical teams and leadership for effective transformation.
 date: 2023-11-21T11:00:08Z
 weight: 590
-slug: hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement-9z9BgSi2zeA
+slug: hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement
 aliases:
 - /resources/9z9BgSi2zeA
 - /resources/videos/hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement-9z9BgSi2zeA

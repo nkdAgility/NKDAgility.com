@@ -3,7 +3,7 @@ title: Why Your Definition of “Done” Is Holding Back Quality, Agility, and T
 description: Is your team’s “done” really done? Discover how a clear, objective definition of done boosts quality, agility, and trust in product delivery.
 date: 2025-07-09T06:45:00Z
 weight: 165
-slug: 10-what-does-good-done-look-like-lRBsJkDeKrI
+slug: why-your-definition-of-done-is-holding-back-quality-agility-and-trust-and-how-to-raise-the-bar
 aliases:
 - /resources/lRBsJkDeKrI
 - /resources/videos/10-what-does-good-done-look-like-lRBsJkDeKrI

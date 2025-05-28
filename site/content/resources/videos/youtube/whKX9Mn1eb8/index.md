@@ -3,7 +3,7 @@ title: 'Unlocking the Superpower of Software Development: How Shifting Left Tran
 description: Explains how adopting a shift-left approach in software development improves quality, speeds up delivery, reduces costs, and fosters collaboration by involving QA early.
 date: 2024-11-22T14:04:14Z
 weight: 610
-slug: unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance-whKX9Mn1eb8
+slug: unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance
 aliases:
 - /resources/whKX9Mn1eb8
 - /resources/videos/unlocking-the-superpower-of-software-development-how-shifting-left-transforms-quality-assurance-whKX9Mn1eb8

@@ -3,7 +3,7 @@ title: 'Stop Hoping for Quality: Why Automated Pipelines Are the Only Way to Del
 description: Stop relying on memory for quality. Discover why automated pipelines beat manual checks, and how embedding quality gates ensures trust, speed, and consistency.
 date: 2025-05-28T07:00:00Z
 weight: 195
-slug: 4-automate-the-quality-gate-FLMIoTT0Mu0
+slug: stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence
 aliases:
 - /resources/FLMIoTT0Mu0
 - /resources/videos/4-automate-the-quality-gate-FLMIoTT0Mu0

@@ -3,7 +3,7 @@ title: 'Breaking the Silence: How to Combat the Hidden Dangers in Agile Teams'
 description: Explores the risks of unspoken issues in Agile teams, detailing how silence harms communication, trust, and value delivery, and offers strategies to foster open dialogue.
 date: 2023-11-10T06:45:01Z
 weight: 1000
-slug: breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE
+slug: breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams
 aliases:
 - /resources/WpsGLkTXalE
 - /resources/videos/breaking-the-silence-how-to-combat-the-hidden-dangers-in-agile-teams-WpsGLkTXalE

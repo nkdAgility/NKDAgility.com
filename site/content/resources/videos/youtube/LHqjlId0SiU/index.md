@@ -3,7 +3,7 @@ title: Why Your Definition of Done Is the Secret Weapon Your Team Needs to Win
 description: Unlock your team's true potential—discover why a powerful definition of done drives real business impact, customer value, and lasting competitive advantage.
 date: 2025-07-16T06:45:00Z
 weight: 150
-slug: 11-redefining-done-why-it-changes-everything
+slug: why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
 aliases:
 - /resources/LHqjlId0SiU
 - /resources/videos/11-redefining-done-why-it-changes-everything

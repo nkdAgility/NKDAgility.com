@@ -3,7 +3,7 @@ title: 'Transforming Technical Debt: Unlocking Innovation and Value Through Qual
 description: Explores how managing technical debt enables faster delivery, higher product quality, and greater innovation, highlighting strategies for continuous improvement and value.
 date: 2024-11-21T17:01:52Z
 weight: 280
-slug: transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo
+slug: transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery
 aliases:
 - /resources/FFrTLuRhyVo
 - /resources/videos/transforming-technical-debt-unlocking-innovation-and-value-through-quality-product-delivery-FFrTLuRhyVo

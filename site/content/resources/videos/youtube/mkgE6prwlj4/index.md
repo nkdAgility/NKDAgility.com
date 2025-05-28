@@ -3,7 +3,7 @@ title: What is the best application of Scrum in the world?
 description: Highlights how Microsoft’s Azure DevOps team used Scrum to transform their workflow, cut build times from 20 hours to 3.5 minutes, and deliver greater customer value.
 date: 2023-05-26T07:00:16Z
 weight: 630
-slug: what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
+slug: what-is-the-best-application-of-scrum-in-the-world
 aliases:
 - /resources/mkgE6prwlj4
 - /resources/videos/what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4

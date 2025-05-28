@@ -3,7 +3,7 @@ title: "Quotes: You can't connect the dots looking forward; you can only connect
 description: Explores how reflecting on past experiences, as Steve Jobs advised, guides Agile teams in making informed, adaptive decisions and continuous improvements.
 date: 2023-10-13T11:00:40Z
 weight: 1000
-slug: quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA
+slug: quotes-you-can't-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 aliases:
 - /resources/hj31XHbmWbA
 - /resources/videos/quotes-you-cant-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs-hj31XHbmWbA

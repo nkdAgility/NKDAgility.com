@@ -3,7 +3,7 @@ title: How to Measure Your Organization's Ability to Improve Value Through Innov
 description: Learn how to assess and improve your organisation’s innovation capability using evidence-based management and key metrics like technical debt, innovation rate, and complexity.
 date: 2024-01-25T11:00:18Z
 weight: 355
-slug: how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE
+slug: how-to-measure-your-organization's-ability-to-improve-value-through-innovation
 aliases:
 - /resources/Puz2wSg7UmE
 - /resources/videos/how-to-measure-your-organizations-ability-to-improve-value-through-innovation-Puz2wSg7UmE

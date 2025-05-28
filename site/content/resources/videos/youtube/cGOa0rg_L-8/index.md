@@ -3,7 +3,7 @@ title: Is Your Project Ecosystem Truly Agile?
 description: Explains why true agility requires end-to-end automation and short feedback loops, not just Agile teams, to maximise value and efficiency for stakeholders in project delivery.
 date: 2024-07-31T06:45:01Z
 weight: 305
-slug: is-your-project-ecosystem-truly-agile-cGOa0rg_L-8
+slug: is-your-project-ecosystem-truly-agile
 aliases:
 - /resources/cGOa0rg_L-8
 - /resources/videos/is-your-project-ecosystem-truly-agile-cGOa0rg_L-8

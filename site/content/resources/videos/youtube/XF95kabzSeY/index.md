@@ -3,7 +3,7 @@ title: "Filling the Understanding Gap: A Product Owner's Guide to Vision, Engage
 description: Guidance for Product Owners on clarifying product vision, engaging teams, and ensuring value delivery to bridge understanding gaps in product development and leadership.
 date: 2023-12-14T11:00:22Z
 weight: 1000
-slug: filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value
+slug: filling-the-understanding-gap-a-product-owner's-guide-to-vision-engagement-and-value
 aliases:
 - /resources/XF95kabzSeY
 - /resources/videos/filling-the-understanding-gap-a-product-owners-guide-to-vision-engagement-and-value

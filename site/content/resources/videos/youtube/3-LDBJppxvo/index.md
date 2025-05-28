@@ -3,7 +3,7 @@ title: The Importance of Delivering Working Software Every Iteration
 description: Explains why delivering working software to users every iteration is vital in Agile, highlighting feedback, value, and practical steps for continuous improvement and success.
 date: 2024-06-26T06:45:00Z
 weight: 355
-slug: the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo
+slug: the-importance-of-delivering-working-software-every-iteration
 aliases:
 - /resources/3-LDBJppxvo
 - /resources/videos/the-importance-of-delivering-working-software-every-iteration-3-LDBJppxvo

@@ -3,7 +3,7 @@ title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
 description: Explores how Agile’s true value lies in delivering outcomes and adapting to change, not just following rituals or procedures, and highlights the need for human judgement in complex systems.
 date: 2024-01-22T07:00:11Z
 weight: 665
-slug: redefining-agiles-core-beyond-rituals-and-procedures
+slug: redefining-agile-s-core-beyond-rituals-and-procedures
 aliases:
 - /resources/XZVixdVy-PQ
 - /resources/videos/redefining-agiles-core-beyond-rituals-and-procedures

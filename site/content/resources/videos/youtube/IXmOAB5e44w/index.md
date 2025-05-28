@@ -3,7 +3,7 @@ title: 'Unlock £20 Rewards: Join Our Exciting Referral Program for Collaborativ
 description: Earn £20 credit for each friend you refer to our classes. Both you and your referral get rewards, supporting collaborative learning and building a stronger community.
 date: 2023-06-15T07:00:06Z
 weight: 1000
-slug: unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning
+slug: unlock-£20-rewards-join-our-exciting-referral-program-for-collaborative-learning
 aliases:
 - /resources/IXmOAB5e44w
 - /resources/videos/unlock-20-rewards-join-our-exciting-referral-program-for-collaborative-learning

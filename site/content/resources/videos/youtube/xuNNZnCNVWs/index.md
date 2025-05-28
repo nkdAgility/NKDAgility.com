@@ -3,7 +3,7 @@ title: 'Empowering Agile Teams: The Transformative Power of Teaching the "Why"'
 description: Explores how teaching the reasons behind Agile practices boosts team engagement, collaboration, and continuous improvement, helping teams adapt and thrive with Scrum.
 date: 2023-04-27T07:00:31Z
 weight: 1000
-slug: empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs
+slug: empowering-agile-teams-the-transformative-power-of-teaching-the-why
 aliases:
 - /resources/xuNNZnCNVWs
 - /resources/videos/empowering-agile-teams-the-transformative-power-of-teaching-the-why-xuNNZnCNVWs

@@ -3,7 +3,7 @@ title: How Do You Know the Value Currently Delivered in Your Organization?
 description: Learn how Evidence-Based Management helps organisations measure delivered value using key metrics like customer satisfaction, employee engagement, and product usage data.
 date: 2024-01-23T11:00:05Z
 weight: 1000
-slug: how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q
+slug: how-do-you-know-the-value-currently-delivered-in-your-organization
 aliases:
 - /resources/5qtS7DYGi5Q
 - /resources/videos/how-do-you-know-the-value-currently-delivered-in-your-organization-5qtS7DYGi5Q

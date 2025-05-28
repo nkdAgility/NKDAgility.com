@@ -1,0 +1,909 @@
+{
+  "calculatedAt": "2025-05-27T20:50:17.0305980Z",
+  "related": [
+    {
+      "Title": "Realistic Expectations When Hiring Junior Scrum Masters",
+      "Slug": "realistic-expectations-when-hiring-junior-scrum-masters",
+      "Reference": "resources/signals/2025-03-02-realistic-expectations-when-hiring-junior-scrum-masters",
+      "ResourceType": "signals",
+      "ResourceId": "lm-SKQuLcVd",
+      "Similarity": 0.8424001312386501
+    },
+    {
+      "Title": "Hiring a Scrum Master is hard",
+      "Slug": "hiring-a-scrum-master-is-hard",
+      "Reference": "resources/signals/2025-02-16-hiring-a-scrum-master-is-hard",
+      "ResourceType": "signals",
+      "ResourceId": "CHfV0DI2Plv",
+      "Similarity": 0.818905568324812
+    },
+    {
+      "Title": "There Is No Such Thing as a \"Junior\" Scrum Master",
+      "Slug": "there-is-no-such-thing-as-a-junior-scrum-master",
+      "Reference": "resources/blog/2025/2025-02-17-no-such-thing-as-a-junior-scrum-master",
+      "ResourceType": "blog",
+      "ResourceId": "f2RQh2UCwqB",
+      "Similarity": 0.8178059894228215
+    },
+    {
+      "Title": "Why the Concept of a \"Junior Scrum Master\" is a Misguided Myth",
+      "Slug": "why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth",
+      "Reference": "resources/videos/youtube/_Hd8NZeiwFA",
+      "ResourceType": "videos",
+      "ResourceId": "_Hd8NZeiwFA",
+      "Similarity": 0.8072114969842537
+    },
+    {
+      "Title": "Too many Scrum Masters believe they don’t need technical skills",
+      "Slug": "too-many-scrum-masters-believe-they-don-t-need-technical-skills",
+      "Reference": "resources/signals/2025-03-24-too-many-scrum-masters-believe-they-don-t-need-technical-skills",
+      "ResourceType": "signals",
+      "ResourceId": "q_OupO_abR_",
+      "Similarity": 0.805235838488427
+    },
+    {
+      "Title": "The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master",
+      "Slug": "the-fastest-way-to-cripple-a-scrum-team-hire-the-wrong-scrum-master",
+      "Reference": "resources/signals/2025-02-17-the-fastest-way-to-cripple-a-scrum-team-hire-the-wrong-scrum-master",
+      "ResourceType": "signals",
+      "ResourceId": "567GkDxvlbX",
+      "Similarity": 0.8032281309243826
+    },
+    {
+      "Title": "A two-day Scrum Master certification doesn’t make you a Scrum Master",
+      "Slug": "a-two-day-scrum-master-certification-doesn-t-make-you-a-scrum-master",
+      "Reference": "resources/signals/2025-02-27-a-two-day-scrum-master-certification-doesn-t-make-you-a-scrum-master",
+      "ResourceType": "signals",
+      "ResourceId": "aYJLiPejAHG",
+      "Similarity": 0.8029795895917231
+    },
+    {
+      "Title": "Key Skills Scrum Masters Need: Technical, Business, Organisational",
+      "Slug": "key-skills-scrum-masters-need-technical-business-organisational",
+      "Reference": "resources/signals/2025-02-18-key-skills-scrum-masters-need-technical-business-organisational",
+      "ResourceType": "signals",
+      "ResourceId": "KVrBKTQ-Yc-",
+      "Similarity": 0.7813358433725317
+    },
+    {
+      "Title": "The majority of Scrum Masters are not fit for their position",
+      "Slug": "the-majority-of-scrum-masters-are-not-fit-for-their-position",
+      "Reference": "resources/signals/2024-06-03-the-majority-of-scrum-masters-are-not-fit-for-their-position",
+      "ResourceType": "signals",
+      "ResourceId": "nTipEJck6ez",
+      "Similarity": 0.7806164748753966
+    },
+    {
+      "Title": "Scrum Masters are not glorified meeting schedulers",
+      "Slug": "scrum-masters-are-not-glorified-meeting-schedulers",
+      "Reference": "resources/signals/2025-03-09-scrum-masters-are-not-glorified-meeting-schedulers",
+      "ResourceType": "signals",
+      "ResourceId": "ASC0IjY5nKr",
+      "Similarity": 0.7694384381301089
+    },
+    {
+      "Title": "Why Scrum Masters Need Technical Expertise to Guide Teams",
+      "Slug": "why-scrum-masters-need-technical-expertise-to-guide-teams",
+      "Reference": "resources/signals/2025-03-28-why-scrum-masters-need-technical-expertise-to-guide-teams",
+      "ResourceType": "signals",
+      "ResourceId": "_0eaUkX1o1q",
+      "Similarity": 0.7693318891459433
+    },
+    {
+      "Title": "No one questions a Product Owner authority",
+      "Slug": "no-one-questions-a-product-owner-authority",
+      "Reference": "resources/signals/2025-03-19-no-one-questions-a-product-owner-authority",
+      "ResourceType": "signals",
+      "ResourceId": "T6lSCdR9SCa",
+      "Similarity": 0.7413137879938331
+    },
+    {
+      "Title": "Scrum Masters: Why Influence Alone May Not Be Enough",
+      "Slug": "scrum-masters-why-influence-alone-may-not-be-enough",
+      "Reference": "resources/signals/2025-03-20-scrum-masters-why-influence-alone-may-not-be-enough",
+      "ResourceType": "signals",
+      "ResourceId": "7-5f5u_oMbc",
+      "Similarity": 0.7388849679501638
+    },
+    {
+      "Title": "Lack of Authority Blocks Progress on Critical Projects",
+      "Slug": "lack-of-authority-blocks-progress-on-critical-projects",
+      "Reference": "resources/signals/2025-03-16-lack-of-authority-blocks-progress-on-critical-projects",
+      "ResourceType": "signals",
+      "ResourceId": "uLNzs9NgPZI",
+      "Similarity": 0.7339706080446011
+    },
+    {
+      "Title": "Why Most Scrum Masters Are Failing and What They Should Know",
+      "Slug": "why-most-scrum-masters-are-failing-and-what-they-should-know",
+      "Reference": "resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know",
+      "ResourceType": "blog",
+      "ResourceId": "VTjU5Wl2XWU",
+      "Similarity": 0.7338234820621373
+    },
+    {
+      "Title": "How Top Scrum Masters Are Selected by Their Teams",
+      "Slug": "how-top-scrum-masters-are-selected-by-their-teams",
+      "Reference": "resources/signals/2025-02-19-how-top-scrum-masters-are-selected-by-their-teams",
+      "ResourceType": "signals",
+      "ResourceId": "dqFTsIhZF_A",
+      "Similarity": 0.7303209786894848
+    },
+    {
+      "Title": "Scrum Masters: Enabling Teams, Fostering Agility, Removing Blockers",
+      "Slug": "scrum-masters-enabling-teams-fostering-agility-removing-blockers",
+      "Reference": "resources/signals/2025-03-05-scrum-masters-enabling-teams-fostering-agility-removing-blockers",
+      "ResourceType": "signals",
+      "ResourceId": "IrDYI5d-kXv",
+      "Similarity": 0.7237685205297983
+    },
+    {
+      "Title": "What Makes an Effective Scrum Master Beyond Meeting Facilitation",
+      "Slug": "what-makes-an-effective-scrum-master-beyond-meeting-facilitation",
+      "Reference": "resources/signals/2025-02-23-what-makes-an-effective-scrum-master-beyond-meeting-facilitation",
+      "ResourceType": "signals",
+      "ResourceId": "uTkyoIh6f3c",
+      "Similarity": 0.7229709258042769
+    },
+    {
+      "Title": "Scrum Masters and Product Owners are held accountable for results",
+      "Slug": "scrum-masters-and-product-owners-are-held-accountable-for-results",
+      "Reference": "resources/signals/2025-03-17-scrum-masters-and-product-owners-are-held-accountable-for-results",
+      "ResourceType": "signals",
+      "ResourceId": "Rx4LP6ywHVh",
+      "Similarity": 0.7196990293804229
+    },
+    {
+      "Title": "The Crucial Role of Competence: How Knowledgeable Scrum Masters Drive Team Success",
+      "Slug": "the-crucial-role-of-competence-how-knowledgeable-scrum-masters-drive-team-success",
+      "Reference": "resources/videos/youtube/r9aCEFpUHWU",
+      "ResourceType": "videos",
+      "ResourceId": "r9aCEFpUHWU",
+      "Similarity": 0.7164022282171046
+    },
+    {
+      "Title": "The True Role of a Scrum Master Beyond Facilitation",
+      "Slug": "the-true-role-of-a-scrum-master-beyond-facilitation",
+      "Reference": "resources/signals/2025-03-25-the-true-role-of-a-scrum-master-beyond-facilitation",
+      "ResourceType": "signals",
+      "ResourceId": "ZqDRLw5mPc-",
+      "Similarity": 0.7161890453999549
+    },
+    {
+      "Title": "The Competence Crisis in Scrum Master Roles: A Call for Excellence",
+      "Slug": "the-competence-crisis-in-scrum-master-roles-a-call-for-excellence",
+      "Reference": "resources/videos/youtube/GJFklM1U5Pc",
+      "ResourceType": "videos",
+      "ResourceId": "GJFklM1U5Pc",
+      "Similarity": 0.711609075587868
+    },
+    {
+      "Title": "Great Scrum Masters Need Technical, Business, and Organisational Mastery",
+      "Slug": "great-scrum-masters-need-technical-business-and-organisational-mastery",
+      "Reference": "resources/blog/2025/2025-03-12-great-scrum-masters-need-technical-business-and-organisational-mastery",
+      "ResourceType": "blog",
+      "ResourceId": "dQjKsWR5qfn",
+      "Similarity": 0.7110860600558545
+    },
+    {
+      "Title": "“Teams are self-managing",
+      "Slug": "teams-are-self-managing",
+      "Reference": "resources/signals/2025-03-21-teams-are-self-managing",
+      "ResourceType": "signals",
+      "ResourceId": "8EauPhROdZq",
+      "Similarity": 0.7009647057197251
+    },
+    {
+      "Title": "Empowering Product Owners as Strategic Leaders in Scrum Teams",
+      "Slug": "empowering-product-owners-as-strategic-leaders-in-scrum-teams",
+      "Reference": "resources/signals/2025-03-26-empowering-product-owners-as-strategic-leaders-in-scrum-teams",
+      "ResourceType": "signals",
+      "ResourceId": "xKiwFed7LSB",
+      "Similarity": 0.6973092560864328
+    },
+    {
+      "Title": "Great Scrum Masters and Product Owners don’t micromanage",
+      "Slug": "great-scrum-masters-and-product-owners-don-t-micromanage",
+      "Reference": "resources/signals/2025-03-23-great-scrum-masters-and-product-owners-don-t-micromanage",
+      "ResourceType": "signals",
+      "ResourceId": "8W3oqNsNnMS",
+      "Similarity": 0.6936749957674303
+    },
+    {
+      "Title": "The Truth About Newbie vs Professional Scrum Masters: Bridging the Experience Gap",
+      "Slug": "the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap",
+      "Reference": "resources/videos/youtube/2k1726k9zvg",
+      "ResourceType": "videos",
+      "ResourceId": "2k1726k9zvg",
+      "Similarity": 0.6900281093053731
+    },
+    {
+      "Title": "We hear self-managing teams so often it become a cliché",
+      "Slug": "we-hear-self-managing-teams-so-often-it-become-a-cliché",
+      "Reference": "resources/signals/2025-05-09-we-hear-self-managing-teams-so-often-it-become-a-cliché",
+      "ResourceType": "signals",
+      "ResourceId": "FqiyqqNxjFS",
+      "Similarity": 0.6863002932955736
+    },
+    {
+      "Title": "A certification proves you’ve passed a test",
+      "Slug": "a-certification-proves-you-ve-passed-a-test",
+      "Reference": "resources/signals/2025-05-03-a-certification-proves-you-ve-passed-a-test",
+      "ResourceType": "signals",
+      "ResourceId": "5fShT9wNqFg",
+      "Similarity": 0.6862293745777999
+    },
+    {
+      "Title": "Hiring a Professional Scrum Master",
+      "Slug": "hiring-a-professional-scrum-master",
+      "Reference": "resources/blog/2021/2021-03-15-hiring-a-professional-scrum-master",
+      "ResourceType": "blog",
+      "ResourceId": "1EEAZ-ldcTz",
+      "Similarity": 0.6782188027162114
+    },
+    {
+      "Title": "Unlocking Team Potential: The Essential Role of a Scrum Master in Agile Success",
+      "Slug": "unlocking-team-potential-the-essential-role-of-a-scrum-master-in-agile-success",
+      "Reference": "resources/videos/youtube/wjYFdWaWfOA",
+      "ResourceType": "videos",
+      "ResourceId": "wjYFdWaWfOA",
+      "Similarity": 0.6778611837015381
+    },
+    {
+      "Title": "Where Agile Went Wrong: Understanding the Competence Crisis",
+      "Slug": "where-agile-went-wrong-understanding-the-competence-crisis",
+      "Reference": "resources/videos/youtube/txN41c6znbE",
+      "ResourceType": "videos",
+      "ResourceId": "txN41c6znbE",
+      "Similarity": 0.6725866493605583
+    },
+    {
+      "Title": "let-us be blunt",
+      "Slug": "let-us-be-blunt",
+      "Reference": "resources/signals/2025-05-10-let-us-be-blunt",
+      "ResourceType": "signals",
+      "ResourceId": "0A8ONYVbWlL",
+      "Similarity": 0.6718914639798701
+    },
+    {
+      "Title": "Focusing Beyond \"Agile\": Building True Capability in Organizations",
+      "Slug": "focusing-beyond-agile-building-true-capability-in-organizations",
+      "Reference": "resources/videos/youtube/4zGsmQFWFpo",
+      "ResourceType": "videos",
+      "ResourceId": "4zGsmQFWFpo",
+      "Similarity": 0.671669919834017
+    },
+    {
+      "Title": "Why compromising on software quality is a leadership decision",
+      "Slug": "why-compromising-on-software-quality-is-a-leadership-decision",
+      "Reference": "resources/signals/2025-04-01-why-compromising-on-software-quality-is-a-leadership-decision",
+      "ResourceType": "signals",
+      "ResourceId": "3YDTlhSlU4A",
+      "Similarity": 0.6696723837039977
+    },
+    {
+      "Title": "let-us be blunt—if a Scrum Team isn’t delivering, is it effective",
+      "Slug": "let-us-be-blunt-if-a-scrum-team-isn-t-delivering-is-it-effective",
+      "Reference": "resources/signals/2025-03-07-let-us-be-blunt-if-a-scrum-team-isn-t-delivering-is-it-effective",
+      "ResourceType": "signals",
+      "ResourceId": "CB56pgg1LmZ",
+      "Similarity": 0.6661485739362284
+    },
+    {
+      "Title": "You can not implement Agile or Scrum successfully by decree",
+      "Slug": "you-can-not-implement-agile-or-scrum-successfully-by-decree",
+      "Reference": "resources/signals/2025-05-13-you-can-not-implement-agile-or-scrum-successfully-by-decree",
+      "ResourceType": "signals",
+      "ResourceId": "es3rfygczrI",
+      "Similarity": 0.6651118515123055
+    },
+    {
+      "Title": "Fear is the real enemy of agility",
+      "Slug": "fear-is-the-real-enemy-of-agility",
+      "Reference": "resources/signals/2025-05-07-fear-is-the-real-enemy-of-agility",
+      "ResourceType": "signals",
+      "ResourceId": "JwMLCNODuls",
+      "Similarity": 0.6631939581300106
+    },
+    {
+      "Title": "Scrum Master Effectiveness Begins with Consistent Delivery",
+      "Slug": "scrum-master-effectiveness-begins-with-consistent-delivery",
+      "Reference": "resources/signals/2025-03-06-scrum-master-effectiveness-begins-with-consistent-delivery",
+      "ResourceType": "signals",
+      "ResourceId": "KWm8S39saqg",
+      "Similarity": 0.6612400551231329
+    },
+    {
+      "Title": "Hiring a Product Owner? Avoid copying job specs from the internet",
+      "Slug": "hiring-a-product-owner-avoid-copying-job-specs-from-the-internet",
+      "Reference": "resources/signals/2025-04-15-hiring-a-product-owner-avoid-copying-job-specs-from-the-internet",
+      "ResourceType": "signals",
+      "ResourceId": "-p1bBjBS0bA",
+      "Similarity": 0.6605826906589797
+    },
+    {
+      "Title": "Redefining the Scrum Master: From Boss to Empowering Facilitator",
+      "Slug": "redefining-the-scrum-master-from-boss-to-empowering-facilitator",
+      "Reference": "resources/videos/youtube/DNCDdWjYis8",
+      "ResourceType": "videos",
+      "ResourceId": "DNCDdWjYis8",
+      "Similarity": 0.6596950088704915
+    },
+    {
+      "Title": "Agile and Scrum are often misunderstood",
+      "Slug": "agile-and-scrum-are-often-misunderstood",
+      "Reference": "resources/signals/2025-05-04-agile-and-scrum-are-often-misunderstood",
+      "ResourceType": "signals",
+      "ResourceId": "Oi_yiyEHZbM",
+      "Similarity": 0.659515031185495
+    },
+    {
+      "Title": "The Problem with Incompetent Scrum Masters: Why Lack of Skills in Team Context Results in Poor ROI",
+      "Slug": "the-problem-with-incompetent-scrum-masters-why-lack-of-skills-in-team-context-results-in-poor-roi",
+      "Reference": "resources/videos/youtube/EMJyUOy2gP4",
+      "ResourceType": "videos",
+      "ResourceId": "EMJyUOy2gP4",
+      "Similarity": 0.6580660733854891
+    },
+    {
+      "Title": "You want speed, adaptability, resilience",
+      "Slug": "you-want-speed-adaptability-resilience",
+      "Reference": "resources/signals/2025-05-11-you-want-speed-adaptability-resilience",
+      "ResourceType": "signals",
+      "ResourceId": "5UaIfaLclWB",
+      "Similarity": 0.6568581817134654
+    },
+    {
+      "Title": "Scrum is built on empiricism—transparency, inspection, and adaptation",
+      "Slug": "scrum-is-built-on-empiricism-transparency-inspection-and-adaptation",
+      "Reference": "resources/signals/2025-02-24-scrum-is-built-on-empiricism-transparency-inspection-and-adaptation",
+      "ResourceType": "signals",
+      "ResourceId": "P1tjFbyeVyU",
+      "Similarity": 0.6562799618811188
+    },
+    {
+      "Title": "Challenging Misconceptions About Behaviour in Agile Teams",
+      "Slug": "challenging-misconceptions-about-behaviour-in-agile-teams",
+      "Reference": "resources/signals/2025-02-13-challenging-misconceptions-about-behaviour-in-agile-teams",
+      "ResourceType": "signals",
+      "ResourceId": "lVebZgXa1DP",
+      "Similarity": 0.6558070915356657
+    },
+    {
+      "Title": "Why Most Companies Fail at Adopting Agility Beyond IT",
+      "Slug": "why-most-companies-fail-at-adopting-agility-beyond-it",
+      "Reference": "resources/signals/2025-03-27-why-most-companies-fail-at-adopting-agility-beyond-it",
+      "ResourceType": "signals",
+      "ResourceId": "xdKHhjboUgT",
+      "Similarity": 0.6554985419177318
+    },
+    {
+      "Title": "Why Many Scrum Masters Stall at PSM1: The Crucial Role of Passion in Professional Growth",
+      "Slug": "why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth",
+      "Reference": "resources/videos/youtube/vWfebO_pwIU",
+      "ResourceType": "videos",
+      "ResourceId": "vWfebO_pwIU",
+      "Similarity": 0.6547512806944337
+    },
+    {
+      "Title": "Mastering Scrum: Essential Insights for New Teams from a Scrum Master's Journey",
+      "Slug": "mastering-scrum-essential-insights-for-new-teams-from-a-scrum-master's-journey",
+      "Reference": "resources/videos/youtube/nY4tmtGKO6I",
+      "ResourceType": "videos",
+      "ResourceId": "nY4tmtGKO6I",
+      "Similarity": 0.6537759673993407
+    },
+    {
+      "Title": "Are technical skills required to be a Scrum Master?",
+      "Slug": "are-technical-skills-required-to-be-a-scrum-master",
+      "Reference": "resources/blog/2019/2019-09-01-are-technical-skills-required-to-be-a-scrum-master",
+      "ResourceType": "blog",
+      "ResourceId": "foi9MYyc1vq",
+      "Similarity": 0.6537245748823187
+    },
+    {
+      "Title": "What is your best advice for becoming a Scrum Master outside software engineering?",
+      "Slug": "what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering",
+      "Reference": "resources/videos/youtube/DWOh_hRJ1uo",
+      "ResourceType": "videos",
+      "ResourceId": "DWOh_hRJ1uo",
+      "Similarity": 0.653355161066839
+    },
+    {
+      "Title": "Unlocking Greatness: How the Right Scrum Master Transforms Teams and Organisations",
+      "Slug": "unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations",
+      "Reference": "resources/videos/youtube/rHFhR3o849k",
+      "ResourceType": "videos",
+      "ResourceId": "rHFhR3o849k",
+      "Similarity": 0.6532332141816596
+    },
+    {
+      "Title": "Unpacking the Scrum Master Role: Moving Beyond Misconceptions to True Accountability",
+      "Slug": "unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability",
+      "Reference": "resources/videos/youtube/Cia3d_y9akQ",
+      "ResourceType": "videos",
+      "ResourceId": "Cia3d_y9akQ",
+      "Similarity": 0.6514714927226847
+    },
+    {
+      "Title": "Everyone loves the idea of self-managing teams",
+      "Slug": "everyone-loves-the-idea-of-self-managing-teams",
+      "Reference": "resources/signals/2025-03-18-everyone-loves-the-idea-of-self-managing-teams",
+      "ResourceType": "signals",
+      "ResourceId": "xETx_jwnIHO",
+      "Similarity": 0.651469317763213
+    },
+    {
+      "Title": "Hiring an Agile Coach: What to Look For in Both Technical and Leadership Engagement",
+      "Slug": "hiring-an-agile-coach-what-to-look-for-in-both-technical-and-leadership-engagement",
+      "Reference": "resources/videos/youtube/9z9BgSi2zeA",
+      "ResourceType": "videos",
+      "ResourceId": "9z9BgSi2zeA",
+      "Similarity": 0.6511580405934446
+    },
+    {
+      "Title": "Unlocking the True Potential of Scrum: Why Professionalism Matters in Agile Teams",
+      "Slug": "unlocking-the-true-potential-of-scrum-why-professionalism-matters-in-agile-teams",
+      "Reference": "resources/videos/youtube/AjUC6FPYCQM",
+      "ResourceType": "videos",
+      "ResourceId": "AjUC6FPYCQM",
+      "Similarity": 0.6510131497650467
+    },
+    {
+      "Title": "Everyone loves to shout give teams autonomy",
+      "Slug": "everyone-loves-to-shout-give-teams-autonomy",
+      "Reference": "resources/signals/2025-05-08-everyone-loves-to-shout-give-teams-autonomy",
+      "ResourceType": "signals",
+      "ResourceId": "5nkzevV2xKG",
+      "Similarity": 0.6494974705036791
+    },
+    {
+      "Title": "The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie",
+      "Slug": "the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie",
+      "Reference": "resources/blog/2025/2025-05-01-the-role-of-agency-in-scrum-why-self-management-without-agency-is-a-lie",
+      "ResourceType": "blog",
+      "ResourceId": "uwJYNXG7yIu",
+      "Similarity": 0.6492767144328826
+    },
+    {
+      "Title": "Most companies still get Product Ownership wrong",
+      "Slug": "most-companies-still-get-product-ownership-wrong",
+      "Reference": "resources/signals/2025-04-17-most-companies-still-get-product-ownership-wrong",
+      "ResourceType": "signals",
+      "ResourceId": "n7KbcPbUTTe",
+      "Similarity": 0.6488758224448871
+    },
+    {
+      "Title": "Unpacking the Scrum Master Myth: Why Servant Leadership is Key to Team Success",
+      "Slug": "unpacking-the-scrum-master-myth-why-servant-leadership-is-key-to-team-success",
+      "Reference": "resources/videos/youtube/zs0q_zz8-JY",
+      "ResourceType": "videos",
+      "ResourceId": "zs0q_zz8-JY",
+      "Similarity": 0.646383255214988
+    },
+    {
+      "Title": "Overcoming Project Blockers and Challenging Organisational Inertia",
+      "Slug": "overcoming-project-blockers-and-challenging-organisational-inertia",
+      "Reference": "resources/signals/2025-03-22-overcoming-project-blockers-and-challenging-organisational-inertia",
+      "ResourceType": "signals",
+      "ResourceId": "aXo_GayoCuE",
+      "Similarity": 0.6463639938315071
+    },
+    {
+      "Title": "Redefining the Scrum Master: From Misconceptions to Empowering Leadership",
+      "Slug": "redefining-the-scrum-master-from-misconceptions-to-empowering-leadership",
+      "Reference": "resources/videos/youtube/3YBrq-cle_w",
+      "ResourceType": "videos",
+      "ResourceId": "3YBrq-cle_w",
+      "Similarity": 0.6456413517481822
+    },
+    {
+      "Title": "Understanding the True Role of a Scrum Master",
+      "Slug": "understanding-the-true-role-of-a-scrum-master",
+      "Reference": "resources/videos/youtube/U0h7N5xpAfY",
+      "ResourceType": "videos",
+      "ResourceId": "U0h7N5xpAfY",
+      "Similarity": 0.6431526074370117
+    },
+    {
+      "Title": "7 Harbingers of the Agile Apocalypse - Plague",
+      "Slug": "7-harbingers-of-the-agile-apocalypse-plague",
+      "Reference": "resources/videos/youtube/UeisJt8U2_0",
+      "ResourceType": "videos",
+      "ResourceId": "UeisJt8U2_0",
+      "Similarity": 0.6429423251982076
+    },
+    {
+      "Title": "Why is becoming a Scrum Master a great career option?",
+      "Slug": "why-is-becoming-a-scrum-master-a-great-career-option",
+      "Reference": "resources/videos/youtube/XZip9ZcLyDs",
+      "ResourceType": "videos",
+      "ResourceId": "XZip9ZcLyDs",
+      "Similarity": 0.642389199107645
+    },
+    {
+      "Title": "Here the dirty secret behind many agile transformations",
+      "Slug": "here-the-dirty-secret-behind-many-agile-transformations",
+      "Reference": "resources/signals/2025-05-02-here-the-dirty-secret-behind-many-agile-transformations",
+      "ResourceType": "signals",
+      "ResourceId": "6Z5I3JPMECs",
+      "Similarity": 0.6411592020850071
+    },
+    {
+      "Title": "Scrum Teams don’t set the bar for quality—they meet it",
+      "Slug": "scrum-teams-don-t-set-the-bar-for-quality-they-meet-it",
+      "Reference": "resources/signals/2025-04-03-scrum-teams-don-t-set-the-bar-for-quality-they-meet-it",
+      "ResourceType": "signals",
+      "ResourceId": "2xFmiKptikb",
+      "Similarity": 0.6389330678346834
+    },
+    {
+      "Title": "Why the Scrum Master’s True Power Lies in Influence, Not Authority",
+      "Slug": "why-the-scrum-master-s-true-power-lies-in-influence-not-authority",
+      "Reference": "resources/videos/youtube/6L2r8YrehWc",
+      "ResourceType": "videos",
+      "ResourceId": "6L2r8YrehWc",
+      "Similarity": 0.6384095375301628
+    },
+    {
+      "Title": "Why Teams Claim Self-Management to Avoid Alignment Discussions",
+      "Slug": "why-teams-claim-self-management-to-avoid-alignment-discussions",
+      "Reference": "resources/signals/2025-03-18-why-teams-claim-self-management-to-avoid-alignment-discussions",
+      "ResourceType": "signals",
+      "ResourceId": "UUh2trdq4D1",
+      "Similarity": 0.6382907169134635
+    },
+    {
+      "Title": "Balance of Leadership and Control in Scrum",
+      "Slug": "balance-of-leadership-and-control-in-scrum",
+      "Reference": "resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum",
+      "ResourceType": "blog",
+      "ResourceId": "UH6M7ujV-kB",
+      "Similarity": 0.6349618772955461
+    },
+    {
+      "Title": "Scrum Master versus seasoned Agile Coach?",
+      "Slug": "scrum-master-versus-seasoned-agile-coach",
+      "Reference": "resources/videos/youtube/54-Zw2A7zEM",
+      "ResourceType": "videos",
+      "ResourceId": "54-Zw2A7zEM",
+      "Similarity": 0.6348853266597817
+    },
+    {
+      "Title": "Overcoming the Ghost of Agile Certifications",
+      "Slug": "overcoming-the-ghost-of-agile-certifications",
+      "Reference": "resources/videos/youtube/eLkJ_YEhMB0",
+      "ResourceType": "videos",
+      "ResourceId": "eLkJ_YEhMB0",
+      "Similarity": 0.6340378632293915
+    },
+    {
+      "Title": "Why Every Scrum Master Needs an Immersive Training Experience",
+      "Slug": "why-every-scrum-master-needs-an-immersive-training-experience",
+      "Reference": "resources/videos/youtube/_WplvWtaxtQ",
+      "ResourceType": "videos",
+      "ResourceId": "_WplvWtaxtQ",
+      "Similarity": 0.6328228931673535
+    },
+    {
+      "Title": "Most teams don’t fail because they lack frameworks",
+      "Slug": "most-teams-don-t-fail-because-they-lack-frameworks",
+      "Reference": "resources/signals/2025-05-05-most-teams-don-t-fail-because-they-lack-frameworks",
+      "ResourceType": "signals",
+      "ResourceId": "sX2UVhPk6cL",
+      "Similarity": 0.6325986113155412
+    },
+    {
+      "Title": "What is the difference between a newbie scrum master and a professional Scrum Master?",
+      "Slug": "what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master",
+      "Reference": "resources/videos/youtube/PIoyu9N2QaM",
+      "ResourceType": "videos",
+      "ResourceId": "PIoyu9N2QaM",
+      "Similarity": 0.6325517868146147
+    },
+    {
+      "Title": "Unlocking Your Potential: Transformative Training for Aspiring Scrum Masters",
+      "Slug": "unlocking-your-potential-transformative-training-for-aspiring-scrum-masters",
+      "Reference": "resources/videos/youtube/5ZRMBfV9zpI",
+      "ResourceType": "videos",
+      "ResourceId": "5ZRMBfV9zpI",
+      "Similarity": 0.631047121235198
+    },
+    {
+      "Title": "Is a Scrum Master an Agile micromanager?",
+      "Slug": "is-a-scrum-master-an-agile-micromanager",
+      "Reference": "resources/videos/youtube/USrwyGHG_tc",
+      "ResourceType": "videos",
+      "ResourceId": "USrwyGHG_tc",
+      "Similarity": 0.6302722198235041
+    },
+    {
+      "Title": "Transform Your Scrum Master Journey: Key Insights from the Advanced PSM Course",
+      "Slug": "transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course",
+      "Reference": "resources/videos/youtube/QGXlCm_B5zA",
+      "ResourceType": "videos",
+      "ResourceId": "QGXlCm_B5zA",
+      "Similarity": 0.6299537143316823
+    },
+    {
+      "Title": "You can't stop the signal! But you can ignore it!",
+      "Slug": "you-can't-stop-the-signal-but-you-can-ignore-it",
+      "Reference": "resources/blog/2024/2024-04-17-you-cant-stop-the-signal-but-you-can-ignore-it",
+      "ResourceType": "blog",
+      "ResourceId": "KHNSdDjr5K_",
+      "Similarity": 0.6297357331008357
+    },
+    {
+      "Title": "A great Product Owner drives product strategy, not just manages the backlog",
+      "Slug": "a-great-product-owner-drives-product-strategy-not-just-manages-the-backlog",
+      "Reference": "resources/signals/2025-04-08-a-great-product-owner-drives-product-strategy-not-just-manages-the-backlog",
+      "ResourceType": "signals",
+      "ResourceId": "FiPINXQNDQu",
+      "Similarity": 0.6295354932662927
+    },
+    {
+      "Title": "The Scrum Master is accountable for Delivery",
+      "Slug": "the-scrum-master-is-accountable-for-delivery",
+      "Reference": "resources/blog/2025/2025-01-30-the-scrum-master-is-accountable-for-delivery",
+      "ResourceType": "blog",
+      "ResourceId": "yMnia2DLI6q",
+      "Similarity": 0.6277424999100671
+    },
+    {
+      "Title": "Why Are a Scrum Team Better Served by an Agile Consultant than a Professional Coach?",
+      "Slug": "why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach",
+      "Reference": "resources/videos/youtube/LkphLIbmjkI",
+      "ResourceType": "videos",
+      "ResourceId": "LkphLIbmjkI",
+      "Similarity": 0.627624085163898
+    },
+    {
+      "Title": "Transform Your Career: How to Become a Confident Scrum Master Through Real-World Learning and Community Support",
+      "Slug": "transform-your-career-how-to-become-a-confident-scrum-master-through-real-world-learning-and-community-support",
+      "Reference": "resources/videos/youtube/cb6JpfomYRU",
+      "ResourceType": "videos",
+      "ResourceId": "cb6JpfomYRU",
+      "Similarity": 0.6271113993669446
+    },
+    {
+      "Title": "The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership",
+      "Slug": "the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership",
+      "Reference": "resources/videos/youtube/S1hBTkbZVFM",
+      "ResourceType": "videos",
+      "ResourceId": "S1hBTkbZVFM",
+      "Similarity": 0.6236203659721277
+    },
+    {
+      "Title": "Why Is It So Important that Senior Leadership Teams are Engaged During an Agile Consulting Engagement?",
+      "Slug": "why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement",
+      "Reference": "resources/videos/youtube/ItnQxg3Q4Fc",
+      "ResourceType": "videos",
+      "ResourceId": "ItnQxg3Q4Fc",
+      "Similarity": 0.6226779901295612
+    },
+    {
+      "Title": "Why Pursuing Agile Certifications is Your Key to Career Advancement",
+      "Slug": "why-pursuing-agile-certifications-is-your-key-to-career-advancement",
+      "Reference": "resources/videos/youtube/_fFs-0GL1CA",
+      "ResourceType": "videos",
+      "ResourceId": "_fFs-0GL1CA",
+      "Similarity": 0.6203554757138581
+    },
+    {
+      "Title": "Agile Is Not Easier Than Traditional Methods: Common Misconceptions",
+      "Slug": "agile-is-not-easier-than-traditional-methods-common-misconceptions",
+      "Reference": "resources/signals/2025-03-08-agile-is-not-easier-than-traditional-methods-common-misconceptions",
+      "ResourceType": "signals",
+      "ResourceId": "ZGwpGOoHHBQ",
+      "Similarity": 0.6194753599016771
+    },
+    {
+      "Title": "Hardest part of becoming a professional Scrum Master?",
+      "Slug": "hardest-part-of-becoming-a-professional-scrum-master",
+      "Reference": "resources/videos/youtube/MCdI76dGVMM",
+      "ResourceType": "videos",
+      "ResourceId": "MCdI76dGVMM",
+      "Similarity": 0.618213772538286
+    },
+    {
+      "Title": "What are the top 3 things a Scrum Master needs to bear in mind when adopting the coaching stance?",
+      "Slug": "what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance",
+      "Reference": "resources/videos/youtube/v1sMbKpQndU",
+      "ResourceType": "videos",
+      "ResourceId": "v1sMbKpQndU",
+      "Similarity": 0.6174793628144759
+    },
+    {
+      "Title": "Worst trait in unskilled scrum masters?",
+      "Slug": "worst-trait-in-unskilled-scrum-masters",
+      "Reference": "resources/videos/youtube/-pW6YDYEO20",
+      "ResourceType": "videos",
+      "ResourceId": "-pW6YDYEO20",
+      "Similarity": 0.6169913153421607
+    },
+    {
+      "Title": "Unlocking the Scrum Master's Potential: Embracing Broader Responsibilities for Agile Success",
+      "Slug": "unlocking-the-scrum-master's-potential-embracing-broader-responsibilities-for-agile-success",
+      "Reference": "resources/videos/youtube/1TaIjFL-0o8",
+      "ResourceType": "videos",
+      "ResourceId": "1TaIjFL-0o8",
+      "Similarity": 0.6155852636872263
+    },
+    {
+      "Title": "Executives want predictability",
+      "Slug": "executives-want-predictability",
+      "Reference": "resources/signals/2025-03-31-executives-want-predictability",
+      "ResourceType": "signals",
+      "ResourceId": "sJJYz51QG0O",
+      "Similarity": 0.615214150562172
+    },
+    {
+      "Title": "Is Your Scrum Master Struggling? Discover When to Choose an Agile Process Simulation Workshop",
+      "Slug": "is-your-scrum-master-struggling-discover-when-to-choose-an-agile-process-simulation-workshop",
+      "Reference": "resources/videos/youtube/76mGfF0KoD0",
+      "ResourceType": "videos",
+      "ResourceId": "76mGfF0KoD0",
+      "Similarity": 0.6136752613593728
+    },
+    {
+      "Title": "Why is Scrum so easy to understand but incredibly hard to master?",
+      "Slug": "why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master",
+      "Reference": "resources/videos/youtube/zSQSQPFsy-o",
+      "ResourceType": "videos",
+      "ResourceId": "zSQSQPFsy-o",
+      "Similarity": 0.6128366039423047
+    },
+    {
+      "Title": "Hiring a Professional Product Owner",
+      "Slug": "hiring-a-professional-product-owner",
+      "Reference": "resources/blog/2021/2021-05-17-hiring-a-professional-product-owner",
+      "ResourceType": "blog",
+      "ResourceId": "Stln5As7Fof",
+      "Similarity": 0.6124560678771688
+    },
+    {
+      "Title": "Agile without a usable working product is just expensive theatre",
+      "Slug": "agile-without-a-usable-working-product-is-just-expensive-theatre",
+      "Reference": "resources/signals/2025-04-20-agile-without-a-usable-working-product-is-just-expensive-theatre",
+      "ResourceType": "signals",
+      "ResourceId": "CBIAsEX7a86",
+      "Similarity": 0.6118967936827377
+    },
+    {
+      "Title": "Companies often say \"we-are going Agile!\" as if declaring it makes it so",
+      "Slug": "companies-often-say-we-are-going-agile-as-if-declaring-it-makes-it-so",
+      "Reference": "resources/signals/2025-04-25-companies-often-say-we-are-going-agile-as-if-declaring-it-makes-it-so",
+      "ResourceType": "signals",
+      "ResourceId": "otmDMgDEp-i",
+      "Similarity": 0.6115080724920643
+    },
+    {
+      "Title": "Before You Call Yourself an Agile Coach: The Importance of Real Experience",
+      "Slug": "before-you-call-yourself-an-agile-coach-the-importance-of-real-experience",
+      "Reference": "resources/videos/youtube/Po58JnxjX7M",
+      "ResourceType": "videos",
+      "ResourceId": "Po58JnxjX7M",
+      "Similarity": 0.6105371405092261
+    },
+    {
+      "Title": "Why is the Professional Agile Leadership - Essentials course a natural evolution for an experienced Scrum Master?",
+      "Slug": "why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master",
+      "Reference": "resources/videos/youtube/7R9_bYOswhk",
+      "ResourceType": "videos",
+      "ResourceId": "7R9_bYOswhk",
+      "Similarity": 0.6104776962638905
+    },
+    {
+      "Title": "What is the hardest part of working with a brand-new scrum team?",
+      "Slug": "what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team",
+      "Reference": "resources/videos/youtube/-xMY9Heanjk",
+      "ResourceType": "videos",
+      "ResourceId": "-xMY9Heanjk",
+      "Similarity": 0.6104525684014181
+    },
+    {
+      "Title": "What Does an Ineffective Scrum Master's Day Look Like?",
+      "Slug": "what-does-an-ineffective-scrum-master's-day-look-like",
+      "Reference": "resources/videos/youtube/KjSRjkK6OL0",
+      "ResourceType": "videos",
+      "ResourceId": "KjSRjkK6OL0",
+      "Similarity": 0.6092681571429075
+    },
+    {
+      "Title": "Beware the Fake Agilists: How to Protect Your Team from the Agile Apocalypse",
+      "Slug": "beware-the-fake-agilists-how-to-protect-your-team-from-the-agile-apocalypse",
+      "Reference": "resources/videos/youtube/T07AK-1FAK4",
+      "ResourceType": "videos",
+      "ResourceId": "T07AK-1FAK4",
+      "Similarity": 0.6080958431747848
+    },
+    {
+      "Title": "Hiring an Agile Coach: What You Need to Know",
+      "Slug": "hiring-an-agile-coach-what-you-need-to-know",
+      "Reference": "resources/videos/youtube/sxXzOFn7iZI",
+      "ResourceType": "videos",
+      "ResourceId": "sxXzOFn7iZI",
+      "Similarity": 0.6080045788430535
+    },
+    {
+      "Title": "Hybrid Agile often combines the worst of both traditional and Agile methods",
+      "Slug": "hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods",
+      "Reference": "resources/signals/2025-04-09-hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods",
+      "ResourceType": "signals",
+      "ResourceId": "mqG4p-beYqb",
+      "Similarity": 0.6078386587390318
+    },
+    {
+      "Title": "Big Scrum: Are you doing mechanical Scrum",
+      "Slug": "big-scrum-are-you-doing-mechanical-scrum",
+      "Reference": "resources/blog/2015/2015-06-24-big-scrum-are-you-doing-mechanical-scrum",
+      "ResourceType": "blog",
+      "ResourceId": "8wFtoutYII0",
+      "Similarity": 0.6055338998415125
+    },
+    {
+      "Title": "Hiring the Right Agile Coach: What You Need to Know",
+      "Slug": "hiring-the-right-agile-coach-what-you-need-to-know",
+      "Reference": "resources/videos/youtube/1cZABFi7gdc",
+      "ResourceType": "videos",
+      "ResourceId": "1cZABFi7gdc",
+      "Similarity": 0.6053371296773231
+    },
+    {
+      "Title": "The Antichrist of Agile: How Fake Agilists Are Undermining True Innovation",
+      "Slug": "the-antichrist-of-agile-how-fake-agilists-are-undermining-true-innovation",
+      "Reference": "resources/videos/youtube/XZ1Swam_Cx0",
+      "ResourceType": "videos",
+      "ResourceId": "XZ1Swam_Cx0",
+      "Similarity": 0.6052304725877978
+    },
+    {
+      "Title": "Toyota \"andon\" cord lets any worker stop production to fix defects",
+      "Slug": "toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects",
+      "Reference": "resources/signals/2025-05-12-toyota-andon-cord-lets-any-worker-stop-production-to-fix-defects",
+      "ResourceType": "signals",
+      "ResourceId": "BIT0P3MRDj9",
+      "Similarity": 0.6050550284467023
+    },
+    {
+      "Title": "Empowering Development Teams: Cultivating an Agile Mindset for Lasting Quality",
+      "Slug": "empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality",
+      "Reference": "resources/videos/youtube/iCDEX6oHy7A",
+      "ResourceType": "videos",
+      "ResourceId": "iCDEX6oHy7A",
+      "Similarity": 0.6042278424529985
+    },
+    {
+      "Title": "Stop normalizing unprofessional behaviour in the name of agility",
+      "Slug": "stop-normalizing-unprofessional-behaviour-in-the-name-of-agility",
+      "Reference": "resources/blog/2021/2021-04-19-stop-normalizing-unprofessional-behaviour-in-the-name-of-agility",
+      "ResourceType": "blog",
+      "ResourceId": "mqbD3iIhRg4",
+      "Similarity": 0.6022811563525221
+    },
+    {
+      "Title": "Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape",
+      "Slug": "mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape",
+      "Reference": "resources/videos/youtube/i_DglXgaePM",
+      "ResourceType": "videos",
+      "ResourceId": "i_DglXgaePM",
+      "Similarity": 0.6003581633756355
+    },
+    {
+      "Title": "Become the leader that you were meant to to be",
+      "Slug": "become-the-leader-that-you-were-meant-to-to-be",
+      "Reference": "resources/blog/2021/2021-02-04-become-the-leader-that-you-were-meant-to-to-be",
+      "ResourceType": "blog",
+      "ResourceId": "-Oo9b3G-8Zw",
+      "Similarity": 0.6003341000998206
+    },
+    {
+      "Title": "Empowering Agile Teams: The Transformative Power of Teaching the \"Why\"",
+      "Slug": "empowering-agile-teams-the-transformative-power-of-teaching-the-why",
+      "Reference": "resources/videos/youtube/xuNNZnCNVWs",
+      "ResourceType": "videos",
+      "ResourceId": "xuNNZnCNVWs",
+      "Similarity": 0.6000622339387711
+    }
+  ]
+}

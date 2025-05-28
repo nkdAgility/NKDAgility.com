@@ -3,7 +3,7 @@ title: How Much of An Impact can Scrum Have in a DevOps Environment?
 description: Explores how integrating Scrum with DevOps boosts software delivery by improving collaboration, automation, speed, and product quality in modern development teams.
 date: 2023-06-15T14:45:02Z
 weight: 350
-slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY
+slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 aliases:
 - /resources/LiKE3zHuOuY
 - /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment-LiKE3zHuOuY

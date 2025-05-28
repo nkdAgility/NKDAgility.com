@@ -3,7 +3,7 @@ title: 'Transforming Sprint Reviews: How to Engage Stakeholders and Secure Meani
 description: Learn practical strategies to boost stakeholder attendance and engagement in Sprint reviews, encouraging valuable feedback and stronger collaboration for product improvement.
 date: 2023-12-15T11:00:17Z
 weight: 1000
-slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs
+slug: transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback
 aliases:
 - /resources/KhP_e26OSKs
 - /resources/videos/transforming-sprint-reviews-how-to-engage-stakeholders-and-secure-meaningful-feedback-KhP_e26OSKs

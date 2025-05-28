@@ -3,7 +3,7 @@ title: 'Stop Flying Blind: Why Telemetry Belongs in Your Definition of Done'
 description: Stop flying blind after release—learn why telemetry is vital to your Definition of Done and how real feedback drives better software, value, and team success.
 date: 2025-06-11T06:45:00Z
 weight: 225
-slug: 6-telemetry-as-part-of-done-Nj4BIom2Jeg
+slug: stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done
 aliases:
 - /resources/Nj4BIom2Jeg
 - /resources/videos/6-telemetry-as-part-of-done-Nj4BIom2Jeg

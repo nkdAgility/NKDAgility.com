@@ -3,7 +3,7 @@ title: 'Challenging the Tyranny of Taylorism: Embracing True Agility in the Work
 description: Explores how outdated Taylorist management limits creativity and true agility, offering ways to spot and overcome ineffective agile practices for better teamwork and innovation.
 date: 2020-06-24T17:48:17Z
 weight: 1000
-slug: challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8
+slug: challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace
 aliases:
 - /resources/56nUC8jR2v8
 - /resources/videos/challenging-the-tyranny-of-taylorism-embracing-true-agility-in-the-workplace-56nUC8jR2v8

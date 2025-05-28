@@ -3,7 +3,7 @@ title: 'Overcoming the Plague of Rigidity: Embracing True Agility in Your Team'
 description: Explores how rigid adherence to tools and processes hinders true agility, and offers strategies for fostering adaptability, experimentation, and continuous improvement in teams.
 date: 2023-11-08T11:00:53Z
 weight: 1000
-slug: overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y
+slug: overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team
 aliases:
 - /resources/pDAL84mht3Y
 - /resources/videos/overcoming-the-plague-of-rigidity-embracing-true-agility-in-your-team-pDAL84mht3Y

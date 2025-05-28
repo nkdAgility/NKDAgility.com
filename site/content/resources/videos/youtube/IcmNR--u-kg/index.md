@@ -3,7 +3,7 @@ title: "Transform Your Team's Skills: The Power of Immersive Learning in the Wor
 description: Discover how immersive learning boosts workplace skills by connecting theory to real tasks, encouraging feedback, and supporting growth through coaching and collaboration.
 date: 2023-07-31T07:00:12Z
 weight: 840
-slug: transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace
+slug: transform-your-team's-skills-the-power-of-immersive-learning-in-the-workplace
 aliases:
 - /resources/IcmNR--u-kg
 - /resources/videos/transform-your-teams-skills-the-power-of-immersive-learning-in-the-workplace

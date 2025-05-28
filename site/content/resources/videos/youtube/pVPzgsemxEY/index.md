@@ -3,7 +3,7 @@ title: 'The Power of Kaizen: Continuous Improvement in Scrum and Beyond'
 description: Explains how Kaizen’s continuous improvement principles enhance Scrum and Agile teams, with practical tips for retrospectives, workflow optimisation, and team culture.
 date: 2024-08-25T22:00:34Z
 weight: 430
-slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY
+slug: the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 aliases:
 - /resources/pVPzgsemxEY
 - /resources/videos/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond-pVPzgsemxEY

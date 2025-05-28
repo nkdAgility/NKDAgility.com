@@ -3,7 +3,7 @@ title: 'Transforming Technical Debt: Unlocking Opportunities for Innovation and 
 description: Explores how addressing technical debt boosts innovation, team morale, and value delivery by enabling agile development, better products, and proactive organisational growth.
 date: 2024-11-20T16:53:31Z
 weight: 640
-slug: transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs
+slug: transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
 aliases:
 - /resources/1M2_AVqoRbs
 - /resources/videos/transforming-technical-debt-unlocking-opportunities-for-innovation-and-value-1M2_AVqoRbs

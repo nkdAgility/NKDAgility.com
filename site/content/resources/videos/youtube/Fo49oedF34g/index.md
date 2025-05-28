@@ -3,7 +3,7 @@ title: Czym różni się zwinne przywództwo od tradycyjnego zarządzania
 description: Explains the key differences between agile leadership and traditional management, focusing on team collaboration, adaptability, and continuous improvement in organisations.
 date: 2023-08-09T14:59:44Z
 weight: 1000
-slug: czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania
+slug: czym-różni-się-zwinne-przywództwo-od-tradycyjnego-zarządzania
 aliases:
 - /resources/Fo49oedF34g
 - /resources/videos/czym-rni-si-zwinne-przywdztwo-od-tradycyjnego-zarzdzania

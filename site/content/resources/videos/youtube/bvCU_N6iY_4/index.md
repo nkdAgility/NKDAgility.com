@@ -3,7 +3,7 @@ title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Rea
 description: Join monthly interactive sessions to discuss real-world business agility challenges, share insights, and learn from diverse peers using a collaborative Lean Coffee format.
 date: 2022-07-27T18:45:14Z
 weight: 840
-slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4
+slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 aliases:
 - /resources/bvCU_N6iY_4
 - /resources/videos/unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights-bvCU_N6iY_4

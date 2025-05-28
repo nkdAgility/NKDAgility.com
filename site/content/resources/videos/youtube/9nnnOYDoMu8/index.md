@@ -3,7 +3,7 @@ title: 'Why “Done” Only Counts When It’s Live: Moving Beyond Fake Finishes
 description: Discover why “done” means live in production—not just code complete. Learn to deliver real value, close feedback loops, and drive outcomes that matter.
 date: 2025-05-07T11:46:58Z
 weight: 95
-slug: 1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8
+slug: why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
 aliases:
 - /resources/9nnnOYDoMu8
 - /resources/videos/1-done-means-in-production-not-just-code-complete-9nnnOYDoMu8

@@ -3,7 +3,7 @@ title: 'Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive
 description: Explores how immersive learning in Agile and Scrum helps overcome cognitive bias, promotes hands-on practice, and supports continuous improvement for practitioners.
 date: 2024-02-05T07:00:03Z
 weight: 1000
-slug: unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias-C8a_-zn1Wsc
+slug: unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
 aliases:
 - /resources/C8a_-zn1Wsc
 - /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias-C8a_-zn1Wsc

@@ -3,7 +3,7 @@ title: "Unlocking the Scrum Master's Potential: Embracing Broader Responsibiliti
 description: Explores how Scrum Masters can expand their impact by embracing wider organisational responsibilities, challenging outdated practices, and fostering agile team growth.
 date: 2023-04-27T07:00:00Z
 weight: 640
-slug: unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success
+slug: unlocking-the-scrum-master's-potential-embracing-broader-responsibilities-for-agile-success
 aliases:
 - /resources/1TaIjFL-0o8
 - /resources/videos/unlocking-the-scrum-masters-potential-embracing-broader-responsibilities-for-agile-success

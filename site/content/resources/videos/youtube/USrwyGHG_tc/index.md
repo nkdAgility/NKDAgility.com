@@ -3,7 +3,7 @@ title: Is a Scrum Master an Agile micromanager?
 description: Explains why a Scrum Master should facilitate and empower agile teams, not micromanage, highlighting the importance of trust, autonomy, and effective team dynamics.
 date: 2023-04-24T07:00:18Z
 weight: 590
-slug: is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc
+slug: is-a-scrum-master-an-agile-micromanager
 aliases:
 - /resources/USrwyGHG_tc
 - /resources/videos/is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc

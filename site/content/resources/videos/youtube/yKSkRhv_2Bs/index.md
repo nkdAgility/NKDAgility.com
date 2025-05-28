@@ -3,7 +3,7 @@ title: Reasons to do an APS Course in 60 Seconds
 description: Discover how an APS (Agile Professional Scrum) course helps teams start, refresh, or align their Scrum practices for improved collaboration and effective Agile delivery.
 date: 2023-07-10T14:30:31Z
 weight: 690
-slug: reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs
+slug: reasons-to-do-an-aps-course-in-60-seconds
 aliases:
 - /resources/yKSkRhv_2Bs
 - /resources/videos/reasons-to-do-an-aps-course-in-60-seconds-yKSkRhv_2Bs

@@ -3,7 +3,7 @@ title: "Embracing Process Improvement: How Understanding Scrum Transformed a Dev
 description: Explores how learning Scrum and process improvement can shift developer mindsets, boost collaboration, and enhance software delivery in Agile teams.
 date: 2017-07-27T19:14:11Z
 weight: 1000
-slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developers-mindset
+slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developer's-mindset
 aliases:
 - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
 - /resources/F8a6gtXxLe0

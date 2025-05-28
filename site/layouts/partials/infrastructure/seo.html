@@ -119,6 +119,29 @@
             {{- end }}
             {{- delimit $urls ", " | safeHTML }}
           {{- end }}
+        ],
+        "isRelatedTo": [
+          {{- $page := . -}}
+          {{- $resourceType := .Params.ResourceType -}}
+          {{- $relatedData := partial "functions/get-related.html" .Page }}
+          {{- if and $relatedData (gt (len $relatedData) 0) -}}
+            {{- $relatedBlogs := where $relatedData "ResourceType" $resourceType -}}
+            {{- $count := len $relatedBlogs -}}
+            {{- $max := cond (gt $count 5) 5 $count -}}
+            {{- $printed := 0 -}}
+            {{- range $i, $item := $relatedBlogs }}
+              {{- if lt $printed 5 }}
+                {"@type": "Article", "url": {{- with site.GetPage .Reference -}}{{ .Permalink }}{{- else -}}{{ .Reference }}{{- end -}}}{{- if lt (add $printed 1) $max -}},{{- end }}
+                {{- $printed = add $printed 1 -}}
+              {{- end }}
+            {{- end }}
+          {{- else -}}
+            {{- $related := .Site.RegularPages.Related . | first 5 -}}
+            {{- $count := len $related -}}
+            {{- range $i, $item := $related }}
+              {"@type": "Article", "url": {{ $item.Permalink }}}{{- if lt (add $i 1) $count -}},{{- end -}}
+            {{- end }}
+          {{- end -}}
         ]
       },
       {{ else if or (eq .Type "course") (eq .Type "mentor-program") }}

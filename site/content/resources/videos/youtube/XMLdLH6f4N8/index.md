@@ -3,7 +3,7 @@ title: "Transforming Chaos into Collaboration: How a Common Framework Can Revolu
 description: Explores how adopting a shared framework and structured communication can turn team chaos into collaboration, boosting trust, engagement, and continuous improvement.
 date: 2017-07-28T11:55:30Z
 weight: 1000
-slug: transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-teams-dynamics
+slug: transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team's-dynamics
 aliases:
 - /resources/videos/transforming-chaos-into-collaboration-how-a-common-framework-can-revolutionise-your-team-s-dynamics
 - /resources/XMLdLH6f4N8

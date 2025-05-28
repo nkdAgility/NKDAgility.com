@@ -3,7 +3,7 @@ title: 'The Power of Community: Becoming an Awesome Agile Coach'
 description: Explores how Agile coaches grow by engaging with diverse communities, embracing feedback, and challenging assumptions to deliver greater value to teams and customers.
 date: 2023-11-16T11:00:37Z
 weight: 665
-slug: the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4
+slug: the-power-of-community-becoming-an-awesome-agile-coach
 aliases:
 - /resources/hij5_aP_YN4
 - /resources/videos/the-power-of-community-becoming-an-awesome-agile-coach-hij5_aP_YN4

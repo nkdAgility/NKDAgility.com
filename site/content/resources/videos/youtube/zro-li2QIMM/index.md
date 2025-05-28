@@ -3,7 +3,7 @@ title: 'Unlocking Success: Join Me for a Virtual Coffee to Tackle Your Agile and
 description: Book a free virtual coffee chat to discuss and solve your agile or technical challenges, share knowledge, and find practical solutions for organisational success.
 date: 2023-12-06T11:01:01Z
 weight: 790
-slug: unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM
+slug: unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges
 aliases:
 - /resources/zro-li2QIMM
 - /resources/videos/unlocking-success-join-me-for-a-virtual-coffee-to-tackle-your-agile-and-technical-challenges-zro-li2QIMM

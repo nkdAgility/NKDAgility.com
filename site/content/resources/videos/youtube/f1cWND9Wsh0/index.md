@@ -3,7 +3,7 @@ title: Why is Lego a shit idea for a Scrum Trainer - Part 1
 description: Explores why using Lego in Scrum training can undermine professionalism, dilute key concepts, and disengage senior participants, urging more context-appropriate methods.
 date: 2023-10-02T11:00:28Z
 weight: 1000
-slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1-f1cWND9Wsh0
+slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
 aliases:
 - /resources/f1cWND9Wsh0
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1-f1cWND9Wsh0

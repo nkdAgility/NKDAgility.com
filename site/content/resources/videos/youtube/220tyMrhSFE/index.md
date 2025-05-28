@@ -3,7 +3,7 @@ title: "Transform Your Team's Efficiency: The Three Core Principles of Caman Wor
 description: 'Learn the three key principles of Caman workflow management to boost team efficiency: visualise processes, actively manage tasks, and drive continuous improvement.'
 date: 2024-08-17T19:03:52Z
 weight: 1000
-slug: transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE
+slug: transform-your-team's-efficiency-the-three-core-principles-of-caman-workflow-management
 aliases:
 - /resources/220tyMrhSFE
 - /resources/videos/transform-your-teams-efficiency-the-three-core-principles-of-caman-workflow-management-220tyMrhSFE

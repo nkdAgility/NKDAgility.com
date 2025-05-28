@@ -3,7 +3,7 @@ title: 'The Pitfalls of Agile Burndowns: Stop Being Agile Bandits'
 description: Explains why relying on Agile burndown charts leads to over-planning and false progress, and advocates for minimal, adaptive planning and continuous value delivery.
 date: 2024-01-09T11:00:51Z
 weight: 1000
-slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI
+slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 aliases:
 - /resources/P2UnYGAqJMI
 - /resources/videos/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits-P2UnYGAqJMI

@@ -3,7 +3,7 @@ title: 'Unlocking User Insights: The Key to Meaningful Software Development'
 description: Explores how deeper user understanding, data-driven decisions, and stakeholder collaboration lead to more effective, user-centred software development and strategic planning.
 date: 2024-08-09T05:39:57Z
 weight: 1000
-slug: unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
+slug: unlocking-user-insights-the-key-to-meaningful-software-development
 aliases:
 - /resources/YGyx4i3-4ss
 - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss

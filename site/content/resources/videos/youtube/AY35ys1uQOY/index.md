@@ -3,7 +3,7 @@ title: How do you know if you've got a great Sprint Goal?
 description: Learn how to identify a great sprint goal by recognising signs of team excitement, curiosity, and engagement, ensuring your Agile sprints inspire motivation and collaboration.
 date: 2023-06-02T11:00:12Z
 weight: 1000
-slug: how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY
+slug: how-do-you-know-if-you've-got-a-great-sprint-goal
 aliases:
 - /resources/AY35ys1uQOY
 - /resources/videos/how-do-you-know-if-youve-got-a-great-sprint-goal-AY35ys1uQOY

@@ -3,7 +3,7 @@ title: One critical skill for a Scrum Master and why?
 description: Teaching is the key skill for Scrum Masters, enabling teams to understand Agile principles, embrace change, and achieve deeper engagement and lasting transformation.
 date: 2023-04-25T07:00:15Z
 weight: 665
-slug: one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0
+slug: one-critical-skill-for-a-scrum-master-and-why
 aliases:
 - /resources/kEywzkMhWl0
 - /resources/videos/one-critical-skill-for-a-scrum-master-and-why-kEywzkMhWl0

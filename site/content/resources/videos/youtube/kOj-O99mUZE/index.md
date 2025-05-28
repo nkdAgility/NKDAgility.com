@@ -3,7 +3,7 @@ title: Overview of the 'scaling with portfolio Kanban' course
 description: Learn how to apply Kanban at the organisational level to optimise workflow, improve predictability, and make data-driven decisions across multiple teams and projects.
 date: 2024-02-22T07:00:26Z
 weight: 750
-slug: overview-of-the-scaling-with-portfolio-kanban-course
+slug: overview-of-the-'scaling-with-portfolio-kanban'-course
 aliases:
 - /resources/kOj-O99mUZE
 - /resources/videos/overview-of-the-scaling-with-portfolio-kanban-course
