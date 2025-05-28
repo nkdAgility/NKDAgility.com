@@ -79,7 +79,11 @@ function Build-ResourceRelatedCache {
     if (-not (Test-Path $targetEmbeddingFile)) { return }
     $targetEmbeddingData = Get-Content $targetEmbeddingFile | ConvertFrom-Json
     $targetEmbedding = $targetEmbeddingData.embedding
-
+    $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
+    if (Test-Path $cachePath) {
+        Write-InformationLog "  |-- Cache already exists for $($hugoMarkdown.ReferencePath), skipping."
+        return
+    }
     $allFiles = Get-ChildItem -Path $LocalPath -Filter *.embedding.json
     $similarities = @()
     $count = $allFiles.Count
@@ -96,7 +100,7 @@ function Build-ResourceRelatedCache {
         if ($file.Name -eq "$($hugoMarkdown.FrontMatter.slug).embedding.json") { continue }
         $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
         if ($embeddingData.embedding) {
-            $similarity = Get-CosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
+            $similarity = Get-EmbeddingCosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
             $similarities += [PSCustomObject]@{
                 Title        = $embeddingData.title
                 Slug         = $embeddingData.slug
@@ -107,8 +111,7 @@ function Build-ResourceRelatedCache {
             }
         }
     }
-    $topRelated = $similarities | Where-Object { $_.Similarity -gt 0.6 } | Sort-Object Similarity -Descending | Select-Object -First $TopN
-    $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
+    $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $output = @{
         calculatedAt = (Get-Date).ToUniversalTime().ToString('o')
         related      = $topRelated
@@ -145,7 +148,7 @@ Write-DebugLog "--------------------------------------------------------"
 Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects -ContainerName $containerName -LocalPath "./.data/content-embeddings/"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
-Build-ResourcesRelatedCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/"
+#Build-ResourcesRelatedCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
