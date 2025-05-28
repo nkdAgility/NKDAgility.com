@@ -1,4 +1,5 @@
 {{ $page := . }}
 {{ $jsonFile := $page.Resources.GetMatch "data.index.related.json" }}
 {{ $relatedData := ($jsonFile | transform.Unmarshal) }}
-{{- return (or $relatedData.related (slice)) -}}
+{{ $filtered := where (or $relatedData.related (slice)) "Similarity" "gt" 0.4 }}
+{{- return $filtered -}}

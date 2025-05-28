@@ -4,6 +4,7 @@
 . ./.powershell/_includes/PromptManager.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
 . ./.powershell/_includes/Utilities.ps1
+. ./.powershell/_includes/EmbeddingRepository.ps1
 
 $batchesInProgress = $null;
 $batchesInProgressMax = 40;

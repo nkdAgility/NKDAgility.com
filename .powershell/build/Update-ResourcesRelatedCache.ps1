@@ -16,8 +16,8 @@ function Get-ResourceRelatedItems {
         [HugoMarkdown]$hugoMarkdown,
         [int]$TopN = 5
     )
-
-    $targetEmbeddingData = Get-BlobContentAsJson -Container $containerName -Blob "$($hugoMarkdown.FrontMatter.slug).embedding.json"
+    $embeddingFilename = Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown
+    $targetEmbeddingData = Get-BlobContentAsJson -Container $containerName -Blob $embeddingFilename
     if (-not $targetEmbeddingData) {
         throw "Embedding for target '$($hugoMarkdown.FrontMatter.slug)' not found."
     }
@@ -28,7 +28,7 @@ function Get-ResourceRelatedItems {
     $similarities = @()
 
     foreach ($blob in $allBlobs) {
-        if ($blob.Name -eq "$($hugoMarkdown.FrontMatter.slug).embedding.json") {
+        if ($blob.Name -eq $embeddingFilename) {
             continue
         }
 
@@ -79,7 +79,11 @@ function Build-ResourceRelatedCache {
     if (-not (Test-Path $targetEmbeddingFile)) { return }
     $targetEmbeddingData = Get-Content $targetEmbeddingFile | ConvertFrom-Json
     $targetEmbedding = $targetEmbeddingData.embedding
-
+    $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
+    if (Test-Path $cachePath) {
+        Write-InformationLog "  |-- Cache already exists for $($hugoMarkdown.ReferencePath), skipping."
+        return
+    }
     $allFiles = Get-ChildItem -Path $LocalPath -Filter *.embedding.json
     $similarities = @()
     $count = $allFiles.Count
@@ -96,7 +100,7 @@ function Build-ResourceRelatedCache {
         if ($file.Name -eq "$($hugoMarkdown.FrontMatter.slug).embedding.json") { continue }
         $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
         if ($embeddingData.embedding) {
-            $similarity = Get-CosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
+            $similarity = Get-EmbeddingCosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
             $similarities += [PSCustomObject]@{
                 Title        = $embeddingData.title
                 Slug         = $embeddingData.slug
@@ -107,8 +111,7 @@ function Build-ResourceRelatedCache {
             }
         }
     }
-    $topRelated = $similarities | Where-Object { $_.Similarity -gt 0.6 } | Sort-Object Similarity -Descending | Select-Object -First $TopN
-    $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
+    $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $output = @{
         calculatedAt = (Get-Date).ToUniversalTime().ToString('o')
         related      = $topRelated
@@ -137,15 +140,8 @@ function Get-RelatedItems {
 
 Start-TokenServer
 #$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
-Write-DebugLog "--------------------------------------------------------"
-Write-DebugLog "--------------------------------------------------------"
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
-Write-DebugLog "--------------------------------------------------------"
-Write-DebugLog "--------------------------------------------------------"
-Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects -ContainerName $containerName -LocalPath "./.data/content-embeddings/"
-Write-DebugLog "--------------------------------------------------------"
-Write-DebugLog "--------------------------------------------------------"
-Build-ResourcesRelatedCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/"
+
+#Build-ResourcesRelatedCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
