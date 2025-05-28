@@ -1,0 +1,15 @@
+{{/* 
+  Partial to render learning resources for a module
+  @param . - Array of learning resources
+*/}}
+{{ $resources := . }}
+{{ if $resources }}
+  {{ range $resource := $resources }}
+    {{ if not $resource.draft }}
+- **{{ $resource.title }}** ({{ $resource.duration }} min){{ if $resource.link }} - [Link]({{ $resource.link }}){{ end }}
+  {{ if $resource.content }}
+  {{ $resource.content | markdownify }}
+  {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

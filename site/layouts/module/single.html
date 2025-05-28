@@ -1,0 +1,42 @@
+{{- define "main" }}
+  <section class="container my-4" style="max-width: 900px !important">
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/capabilities/training-courses/">Training Courses</a></li>
+        <li class="breadcrumb-item"><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></li>
+        <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+      </ol>
+    </nav>
+    
+    <h1>{{ .Title }}</h1>
+    
+    <div class="row mb-4">
+      <div class="col-md-8">
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title h5 mb-0">Module Overview</h2>
+          </div>
+          <div class="card-body">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card">
+          <div class="card-header">
+            <h3 class="card-title h6 mb-0">Module Details</h3>
+          </div>
+          <div class="card-body">
+            <p><strong>Course:</strong> <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></p>
+            <p><strong>Module ID:</strong> {{ .Params.moduleId }}</p>
+            <p><strong>Duration:</strong> {{ .Params.duration }}+ minutes</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{- end }}
+
+{{- define "template" }}
+  module/single.html
+{{- end }}
