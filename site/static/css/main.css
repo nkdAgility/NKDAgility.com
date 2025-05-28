@@ -581,6 +581,11 @@ blockquote cite {
   color: var(--dark-accent-color-light);
 }
 
+/* Ensure text-muted elements are visible in dark mode */
+[data-theme="dark"] .text-muted {
+  color: #b0b0b0 !important;
+}
+
 /* Fix preformatted text and code blocks */
 [data-theme="dark"] pre,
 [data-theme="dark"] code {
