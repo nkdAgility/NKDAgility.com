@@ -71,3 +71,26 @@ function Update-EmbeddingRepository {
     Write-InformationLog "Syncing updated embeddings back to Azure Blob..."
     azcopy sync "$LocalPath" "https://$StorageAccountName.blob.core.windows.net/$ContainerName`?$SASToken" --recursive=true
 }
+
+function Get-EmbeddingCosineSimilarity {
+    param (
+        [float[]]$VectorA,
+        [float[]]$VectorB
+    )
+
+    $dotProduct = 0
+    $magnitudeA = 0
+    $magnitudeB = 0
+
+    for ($i = 0; $i -lt $VectorA.Length; $i++) {
+        $dotProduct += $VectorA[$i] * $VectorB[$i]
+        $magnitudeA += [Math]::Pow($VectorA[$i], 2)
+        $magnitudeB += [Math]::Pow($VectorB[$i], 2)
+    }
+
+    if ($magnitudeA -eq 0 -or $magnitudeB -eq 0) {
+        return 0
+    }
+
+    return $dotProduct / ([Math]::Sqrt($magnitudeA) * [Math]::Sqrt($magnitudeB))
+}

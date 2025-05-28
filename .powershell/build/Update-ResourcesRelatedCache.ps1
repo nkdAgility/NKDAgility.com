@@ -11,29 +11,6 @@
 $ErrorActionPreference = 'Stop'
 $levelSwitch.MinimumLevel = 'Information'
 
-function Get-CosineSimilarity {
-    param (
-        [float[]]$VectorA,
-        [float[]]$VectorB
-    )
-
-    $dotProduct = 0
-    $magnitudeA = 0
-    $magnitudeB = 0
-
-    for ($i = 0; $i -lt $VectorA.Length; $i++) {
-        $dotProduct += $VectorA[$i] * $VectorB[$i]
-        $magnitudeA += [Math]::Pow($VectorA[$i], 2)
-        $magnitudeB += [Math]::Pow($VectorB[$i], 2)
-    }
-
-    if ($magnitudeA -eq 0 -or $magnitudeB -eq 0) {
-        return 0
-    }
-
-    return $dotProduct / ([Math]::Sqrt($magnitudeA) * [Math]::Sqrt($magnitudeB))
-}
-
 function Get-ResourceRelatedItems {
     param (
         [HugoMarkdown]$hugoMarkdown,
@@ -57,7 +34,7 @@ function Get-ResourceRelatedItems {
 
         $embeddingData = Get-BlobContentAsJson -Container $containerName -Blob $blob.Name
         if ($embeddingData -and $embeddingData.embedding) {
-            $similarity = Get-CosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
+            $similarity = Get-EmbeddingCosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
             $similarities += [PSCustomObject]@{
                 BlobName   = $blob.Name
                 Similarity = $similarity
