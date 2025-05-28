@@ -1,0 +1,421 @@
+{
+  "calculatedAt": "2025-05-27T21:03:12.7336956Z",
+  "related": [
+    {
+      "Title": "Best Branching Strategies for Development Teams Explained",
+      "Slug": "best-branching-strategies-for-development-teams-explained",
+      "Reference": "resources/signals/2025-02-25-best-branching-strategies-for-development-teams-explained",
+      "ResourceType": "signals",
+      "ResourceId": "9EP_gF2nD19",
+      "Similarity": 0.8245169969761569
+    },
+    {
+      "Title": "Stop Promoting Branches",
+      "Slug": "stop-promoting-branches",
+      "Reference": "resources/blog/2025/2025-02-06-stop-promoting-branches",
+      "ResourceType": "blog",
+      "ResourceId": "x7ra7pQCDX5",
+      "Similarity": 0.8194798792627827
+    },
+    {
+      "Title": "Too many teams overcomplicate their branching strategies",
+      "Slug": "too-many-teams-overcomplicate-their-branching-strategies",
+      "Reference": "resources/signals/2025-02-06-too-many-teams-overcomplicate-their-branching-strategies",
+      "ResourceType": "signals",
+      "ResourceId": "qwciWeifRRf",
+      "Similarity": 0.7931189909516204
+    },
+    {
+      "Title": "Rethinking Dev-Test-Staging-Production Pipelines for Safety",
+      "Slug": "rethinking-dev-test-staging-production-pipelines-for-safety",
+      "Reference": "resources/signals/2025-02-21-rethinking-dev-test-staging-production-pipelines-for-safety",
+      "ResourceType": "signals",
+      "ResourceId": "3oUXWDsN6Qa",
+      "Similarity": 0.7480333394495261
+    },
+    {
+      "Title": "Git Flow should have died years ago",
+      "Slug": "git-flow-should-have-died-years-ago",
+      "Reference": "resources/signals/2025-02-09-git-flow-should-have-died-years-ago",
+      "ResourceType": "signals",
+      "ResourceId": "pAMm25X5CuE",
+      "Similarity": 0.745453665401577
+    },
+    {
+      "Title": "Why Engineering Teams Use Staging Environments for Risk Reduction",
+      "Slug": "why-engineering-teams-use-staging-environments-for-risk-reduction",
+      "Reference": "resources/signals/2025-02-14-why-engineering-teams-use-staging-environments-for-risk-reduction",
+      "ResourceType": "signals",
+      "ResourceId": "r8qUPpdsgnM",
+      "Similarity": 0.7338281921064636
+    },
+    {
+      "Title": "Staging Environments Do Not Prevent Production Failures",
+      "Slug": "staging-environments-do-not-prevent-production-failures",
+      "Reference": "resources/signals/2025-02-28-staging-environments-do-not-prevent-production-failures",
+      "ResourceType": "signals",
+      "ResourceId": "syS5yJ_GthF",
+      "Similarity": 0.7291897816127089
+    },
+    {
+      "Title": "The Hidden Costs of Supporting Multiple Versions in Production",
+      "Slug": "the-hidden-costs-of-supporting-multiple-versions-in-production",
+      "Reference": "resources/signals/2025-02-06-the-hidden-costs-of-supporting-multiple-versions-in-production",
+      "ResourceType": "signals",
+      "ResourceId": "un1ZqM8aYng",
+      "Similarity": 0.7240857396028804
+    },
+    {
+      "Title": "Why Topic Branches Drive High-Quality Delivery",
+      "Slug": "why-topic-branches-drive-high-quality-delivery",
+      "Reference": "resources/blog/2025/2025-07-14-why-topic-branches-drive-high-quality-delivery",
+      "ResourceType": "blog",
+      "ResourceId": "O_VlmDj7n3V",
+      "Similarity": 0.7233021905736507
+    },
+    {
+      "Title": "Do More Staging Environments Really Reduce Deployment Risk",
+      "Slug": "do-more-staging-environments-really-reduce-deployment-risk",
+      "Reference": "resources/signals/2025-02-26-do-more-staging-environments-really-reduce-deployment-risk",
+      "ResourceType": "signals",
+      "ResourceId": "6VmmXorMZZW",
+      "Similarity": 0.7192395719689595
+    },
+    {
+      "Title": "There a common belief that rollback is the ultimate safety net",
+      "Slug": "there-a-common-belief-that-rollback-is-the-ultimate-safety-net",
+      "Reference": "resources/signals/2025-02-13-there-a-common-belief-that-rollback-is-the-ultimate-safety-net",
+      "ResourceType": "signals",
+      "ResourceId": "3-BmsmOEWfJ",
+      "Similarity": 0.7189023929076567
+    },
+    {
+      "Title": "Testing in Production Maximises Quality and Value",
+      "Slug": "testing-in-production-maximises-quality-and-value",
+      "Reference": "resources/blog/2025/2025-02-06-testing-in-production-maximises-quality-and-value",
+      "ResourceType": "blog",
+      "ResourceId": "_ncZFfeCrnS",
+      "Similarity": 0.6977030048725235
+    },
+    {
+      "Title": "Unlocking Continuous Delivery: How Feature Flags Transform Software Development",
+      "Slug": "unlocking-continuous-delivery-how-feature-flags-transform-software-development",
+      "Reference": "resources/videos/youtube/YVrGU0oZmc0",
+      "ResourceType": "videos",
+      "ResourceId": "YVrGU0oZmc0",
+      "Similarity": 0.695998916789062
+    },
+    {
+      "Title": "Frequent releases are not just a technical strategy",
+      "Slug": "frequent-releases-are-not-just-a-technical-strategy",
+      "Reference": "resources/signals/2025-02-07-frequent-releases-are-not-just-a-technical-strategy",
+      "ResourceType": "signals",
+      "ResourceId": "_o_vjO--kSl",
+      "Similarity": 0.6866118884182123
+    },
+    {
+      "Title": "Deploying Windows OS Directly to Production: Then vs Now",
+      "Slug": "deploying-windows-os-directly-to-production-then-vs-now",
+      "Reference": "resources/signals/2025-02-22-deploying-windows-os-directly-to-production-then-vs-now",
+      "ResourceType": "signals",
+      "ResourceId": "6FqFYeSHQBg",
+      "Similarity": 0.6848872911885514
+    },
+    {
+      "Title": "Every unreleased feature is a cost",
+      "Slug": "every-unreleased-feature-is-a-cost",
+      "Reference": "resources/signals/2025-02-05-every-unreleased-feature-is-a-cost",
+      "ResourceType": "signals",
+      "ResourceId": "PNGuJocqSoD",
+      "Similarity": 0.6792042486111806
+    },
+    {
+      "Title": "Rethinking Continuous Delivery: Why Best Practices Don't Exist in Complex Environments",
+      "Slug": "rethinking-continuous-delivery-why-best-practices-don't-exist-in-complex-environments",
+      "Reference": "resources/videos/youtube/5J8RLcOAE3E",
+      "ResourceType": "videos",
+      "ResourceId": "5J8RLcOAE3E",
+      "Similarity": 0.6725065632749768
+    },
+    {
+      "Title": "We don’t have time for automation—but manual testing slows releases and quality",
+      "Slug": "we-don-t-have-time-for-automation-but-manual-testing-slows-releases-and-quality",
+      "Reference": "resources/signals/2025-04-07-we-don-t-have-time-for-automation-but-manual-testing-slows-releases-and-quality",
+      "ResourceType": "signals",
+      "ResourceId": "f6S9lWfTQaQ",
+      "Similarity": 0.6670121286911412
+    },
+    {
+      "Title": "Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments",
+      "Slug": "transforming-agility-how-azure-devops-went-from-two-year-releases-to-880-000-deployments",
+      "Reference": "resources/videos/youtube/_gyzx59-AJk",
+      "ResourceType": "videos",
+      "ResourceId": "_gyzx59-AJk",
+      "Similarity": 0.6620940078403457
+    },
+    {
+      "Title": "Unlocking the True Power of Continuous Delivery: How Automation Transforms Software Development",
+      "Slug": "unlocking-the-true-power-of-continuous-delivery-how-automation-transforms-software-development",
+      "Reference": "resources/videos/youtube/LWRAX3OyO28",
+      "ResourceType": "videos",
+      "ResourceId": "LWRAX3OyO28",
+      "Similarity": 0.659332008366685
+    },
+    {
+      "Title": "If every release feels high-risk, you lack a true Definition of Done",
+      "Slug": "if-every-release-feels-high-risk-you-lack-a-true-definition-of-done",
+      "Reference": "resources/signals/2025-04-05-if-every-release-feels-high-risk-you-lack-a-true-definition-of-done",
+      "ResourceType": "signals",
+      "ResourceId": "iEdzblomyOb",
+      "Similarity": 0.6588469774191432
+    },
+    {
+      "Title": "let-us do the maths",
+      "Slug": "let-us-do-the-maths",
+      "Reference": "resources/signals/2025-04-30-let-us-do-the-maths",
+      "ResourceType": "signals",
+      "ResourceId": "XYMN44lJp1n",
+      "Similarity": 0.6549811836993968
+    },
+    {
+      "Title": "Stop Hiding Behind Complexity and Start Delivering Continuously",
+      "Slug": "stop-hiding-behind-complexity-and-start-delivering-continuously",
+      "Reference": "resources/blog/2025/2025-02-24-stop-hiding-behind-complexity-deliver-continuously",
+      "ResourceType": "blog",
+      "ResourceId": "7hEAycZIn8w",
+      "Similarity": 0.6514814099992604
+    },
+    {
+      "Title": "Every delay increases the risk of failure",
+      "Slug": "every-delay-increases-the-risk-of-failure",
+      "Reference": "resources/signals/2025-02-10-every-delay-increases-the-risk-of-failure",
+      "ResourceType": "signals",
+      "ResourceId": "-hq1U7x2uea",
+      "Similarity": 0.6503595548506437
+    },
+    {
+      "Title": "Break organisational silos and stop tolerating bad branching models",
+      "Slug": "break-organisational-silos-and-stop-tolerating-bad-branching-models",
+      "Reference": "resources/newsletters/2025-07-17",
+      "ResourceType": "newsletters",
+      "ResourceId": "AORP41zLNTi",
+      "Similarity": 0.6503325494673093
+    },
+    {
+      "Title": "The Common Challenges of Adopting DevOps Practices",
+      "Slug": "the-common-challenges-of-adopting-devops-practices",
+      "Reference": "resources/videos/youtube/swHtVLD9690",
+      "ResourceType": "videos",
+      "ResourceId": "swHtVLD9690",
+      "Similarity": 0.6502676964071018
+    },
+    {
+      "Title": "Why Organisations Believe Their Software Is Too Complex for CD",
+      "Slug": "why-organisations-believe-their-software-is-too-complex-for-cd",
+      "Reference": "resources/signals/2025-02-24-why-organisations-believe-their-software-is-too-complex-for-cd",
+      "ResourceType": "signals",
+      "ResourceId": "T-sHn-OUIvR",
+      "Similarity": 0.6501343505206247
+    },
+    {
+      "Title": "Stop Building Silos. Start Building Systems",
+      "Slug": "stop-building-silos-start-building-systems",
+      "Reference": "resources/blog/2025/2025-07-07-stop-building-silos-start-building-systems",
+      "ResourceType": "blog",
+      "ResourceId": "zLhc3UKUWOj",
+      "Similarity": 0.6490263998076327
+    },
+    {
+      "Title": "Unlocking Code Quality: The Transformative Power of Frequent Deployments",
+      "Slug": "unlocking-code-quality-the-transformative-power-of-frequent-deployments",
+      "Reference": "resources/videos/youtube/D1wz-J1jklQ",
+      "ResourceType": "videos",
+      "ResourceId": "D1wz-J1jklQ",
+      "Similarity": 0.6418471232071513
+    },
+    {
+      "Title": "If software is not delivered, it is not valuable",
+      "Slug": "if-software-is-not-delivered-it-is-not-valuable",
+      "Reference": "resources/signals/2025-03-01-if-software-is-not-delivered-it-is-not-valuable",
+      "ResourceType": "signals",
+      "ResourceId": "KMId0yk2uL1",
+      "Similarity": 0.6411807441725839
+    },
+    {
+      "Title": "Technical debt isn’t just messy code",
+      "Slug": "technical-debt-isn-t-just-messy-code",
+      "Reference": "resources/signals/2025-03-13-technical-debt-isn-t-just-messy-code",
+      "ResourceType": "signals",
+      "ResourceId": "81ZWio23ss7",
+      "Similarity": 0.6407045277052418
+    },
+    {
+      "Title": "Unlocking the Future of Software Development: Why Automation is Your Key to Success",
+      "Slug": "unlocking-the-future-of-software-development-why-automation-is-your-key-to-success",
+      "Reference": "resources/videos/youtube/tKEl0YVeWv4",
+      "ResourceType": "videos",
+      "ResourceId": "tKEl0YVeWv4",
+      "Similarity": 0.6370111038948059
+    },
+    {
+      "Title": "How Lack of Agency is Killing Your DevOps Initiatives",
+      "Slug": "how-lack-of-agency-is-killing-your-devops-initiatives",
+      "Reference": "resources/blog/2025/2025-06-16-how-lack-of-agency-is-killing-your-devops-initatives",
+      "ResourceType": "blog",
+      "ResourceId": "AgIU1SK-3pE",
+      "Similarity": 0.6362138582869221
+    },
+    {
+      "Title": "Maximising Deployment Frequency: The Key to Faster Time to Market and Business Success",
+      "Slug": "maximising-deployment-frequency-the-key-to-faster-time-to-market-and-business-success",
+      "Reference": "resources/videos/youtube/1-jUmFcyiI8",
+      "ResourceType": "videos",
+      "ResourceId": "1-jUmFcyiI8",
+      "Similarity": 0.6317480632502704
+    },
+    {
+      "Title": "Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence",
+      "Slug": "embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence",
+      "Reference": "resources/videos/youtube/VkhIXCsoSJw",
+      "ResourceType": "videos",
+      "ResourceId": "VkhIXCsoSJw",
+      "Similarity": 0.6315580760240913
+    },
+    {
+      "Title": "Why Handoffs Are Killing Your Agility",
+      "Slug": "why-handoffs-are-killing-your-agility",
+      "Reference": "resources/blog/2025/2025-01-11-why-handoffs-are-killing-your-agility",
+      "ResourceType": "blog",
+      "ResourceId": "pDvDdIEi9sj",
+      "Similarity": 0.6302828888200342
+    },
+    {
+      "Title": "Velocity isn’t how many story points a team burns down",
+      "Slug": "velocity-isn-t-how-many-story-points-a-team-burns-down",
+      "Reference": "resources/signals/2025-03-10-velocity-isn-t-how-many-story-points-a-team-burns-down",
+      "ResourceType": "signals",
+      "ResourceId": "14E6bk6Lmo4",
+      "Similarity": 0.6278367106769097
+    },
+    {
+      "Title": "Is Your Project Ecosystem Truly Agile?",
+      "Slug": "is-your-project-ecosystem-truly-agile",
+      "Reference": "resources/videos/youtube/cGOa0rg_L-8",
+      "ResourceType": "videos",
+      "ResourceId": "cGOa0rg_L-8",
+      "Similarity": 0.6272650048046522
+    },
+    {
+      "Title": "Stop Hoping for Quality: Why Automated Pipelines Are the Only Way to Deliver with Confidence",
+      "Slug": "stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence",
+      "Reference": "resources/videos/youtube/FLMIoTT0Mu0",
+      "ResourceType": "videos",
+      "ResourceId": "FLMIoTT0Mu0",
+      "Similarity": 0.6231477392192282
+    },
+    {
+      "Title": "Microsoft shift from 2-year cycles to 3-week Sprints caused team anxiety",
+      "Slug": "microsoft-shift-from-2-year-cycles-to-3-week-sprints-caused-team-anxiety",
+      "Reference": "resources/signals/2025-04-23-microsoft-shift-from-2-year-cycles-to-3-week-sprints-caused-team-anxiety",
+      "ResourceType": "signals",
+      "ResourceId": "AW5GP1Vnnp5",
+      "Similarity": 0.6227545887239531
+    },
+    {
+      "Title": "Embrace Simplicity: How to Transform Complexity into Continuous Delivery Success",
+      "Slug": "embrace-simplicity-how-to-transform-complexity-into-continuous-delivery-success",
+      "Reference": "resources/videos/youtube/DsvMKLto30o",
+      "ResourceType": "videos",
+      "ResourceId": "DsvMKLto30o",
+      "Similarity": 0.6223902703902503
+    },
+    {
+      "Title": "DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions",
+      "Slug": "devops-elevating-your-organization-s-performance-through-bespoke-solutions",
+      "Reference": "resources/videos/youtube/sXmXT_MDXTo",
+      "ResourceType": "videos",
+      "ResourceId": "sXmXT_MDXTo",
+      "Similarity": 0.6101834614055869
+    },
+    {
+      "Title": "Hybrid Agile often combines the worst of both traditional and Agile methods",
+      "Slug": "hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods",
+      "Reference": "resources/signals/2025-04-09-hybrid-agile-often-combines-the-worst-of-both-traditional-and-agile-methods",
+      "ResourceType": "signals",
+      "ResourceId": "mqG4p-beYqb",
+      "Similarity": 0.6092082766340563
+    },
+    {
+      "Title": "Unlocking Success: How Small Experiments Transformed Feature Delivery from 25 to 150 in Software Development",
+      "Slug": "unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development",
+      "Reference": "resources/videos/youtube/WEYf9jWG9wk",
+      "ResourceType": "videos",
+      "ResourceId": "WEYf9jWG9wk",
+      "Similarity": 0.6081898662121923
+    },
+    {
+      "Title": "A better way than staggered iterations for delivery",
+      "Slug": "a-better-way-than-staggered-iterations-for-delivery",
+      "Reference": "resources/blog/2020/2020-12-10-a-better-way-than-staggered-iterations-for-delivery",
+      "ResourceType": "blog",
+      "ResourceId": "DOMFzBBMzfq",
+      "Similarity": 0.6072340997916557
+    },
+    {
+      "Title": "Engineering can fix technical debt, but leadership has to invest in it",
+      "Slug": "engineering-can-fix-technical-debt-but-leadership-has-to-invest-in-it",
+      "Reference": "resources/signals/2025-03-03-engineering-can-fix-technical-debt-but-leadership-has-to-invest-in-it",
+      "ResourceType": "signals",
+      "ResourceId": "XRePaJiX1kj",
+      "Similarity": 0.6072219035398275
+    },
+    {
+      "Title": "From Chaos to Clarity: My Journey Through DevOps and the Three Key Challenges to Overcome",
+      "Slug": "from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challenges-to-overcome",
+      "Reference": "resources/videos/youtube/icX4XpolVLE",
+      "ResourceType": "videos",
+      "ResourceId": "icX4XpolVLE",
+      "Similarity": 0.6061226761152028
+    },
+    {
+      "Title": "Technical debt cripples business agility and slows engineers down",
+      "Slug": "technical-debt-cripples-business-agility-and-slows-engineers-down",
+      "Reference": "resources/signals/2025-05-06-technical-debt-cripples-business-agility-and-slows-engineers-down",
+      "ResourceType": "signals",
+      "ResourceId": "4kBTeJ1TmsW",
+      "Similarity": 0.6058418349590666
+    },
+    {
+      "Title": "DevOps: The Practical Path to Modernising Legacy Systems Without Starting Over",
+      "Slug": "devops-the-practical-path-to-modernising-legacy-systems-without-starting-over",
+      "Reference": "resources/videos/youtube/Tr1b0hru0zE",
+      "ResourceType": "videos",
+      "ResourceId": "Tr1b0hru0zE",
+      "Similarity": 0.6050810620859859
+    },
+    {
+      "Title": "Getting started with a modern source control system and DevOps",
+      "Slug": "getting-started-with-a-modern-source-control-system-and-devops",
+      "Reference": "resources/blog/2017/2017-11-10-getting-started-with-modern-source-control-system-and-devops",
+      "ResourceType": "blog",
+      "ResourceId": "bkiQSbbO78R",
+      "Similarity": 0.6043808703024912
+    },
+    {
+      "Title": "Building the wrong thing is worse than fixing a bug",
+      "Slug": "building-the-wrong-thing-is-worse-than-fixing-a-bug",
+      "Reference": "resources/signals/2025-04-14-building-the-wrong-thing-is-worse-than-fixing-a-bug",
+      "ResourceType": "signals",
+      "ResourceId": "HvZvnbC68go",
+      "Similarity": 0.6042327395055289
+    },
+    {
+      "Title": "The Evolution of Product Management in the Agile Era",
+      "Slug": "the-evolution-of-product-management-in-the-agile-era",
+      "Reference": "resources/videos/youtube/_FtFqnZHCjk",
+      "ResourceType": "videos",
+      "ResourceId": "_FtFqnZHCjk",
+      "Similarity": 0.6022657377392155
+    }
+  ]
+}
