@@ -9,6 +9,7 @@ moduleId: 6
 duration: 120
 weight: 6
 draft: false
+date: 2023-01-01T00:00:00Z
 ---
 
 Participant is able to assess their own behavior as a Scrum Master in terms of how they help teams achieve their goals, and assess their own ability to make deliberate choices about how to enable team growth.

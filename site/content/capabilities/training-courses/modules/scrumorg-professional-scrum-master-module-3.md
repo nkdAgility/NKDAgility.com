@@ -9,6 +9,7 @@ moduleId: 3
 duration: 120
 weight: 3
 draft: false
+date: 2023-01-01T00:00:00Z
 ---
 
 Participants can interpret the relationship between the concept of Done in Scrum and its role in creating transparency for empiricism, and collaborate with their team to identify potential improvements in their current situation.

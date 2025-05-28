@@ -9,6 +9,7 @@ moduleId: 7
 duration: 120
 weight: 7
 draft: false
+date: 2023-01-01T00:00:00Z
 ---
 
 As we conclude the Scrum Master course, this final session is designed to reflect on your learning journey, consolidate key concepts, and prepare you to apply your new skills confidently within your team. We'll revisit the course highlights, address any remaining questions, and provide guidance on the next steps to continue your growth as a Scrum Master.

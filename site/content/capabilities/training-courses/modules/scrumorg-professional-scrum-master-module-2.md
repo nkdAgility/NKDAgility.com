@@ -9,6 +9,7 @@ moduleId: 2
 duration: 120
 weight: 2
 draft: false
+date: 2023-01-01T00:00:00Z
 ---
 
 Participants will learn to interpret the roles, artifacts, and events of the Scrum framework, understand their purpose, how they relate to each other, and how they collectively help teams and organizations address complex problems.

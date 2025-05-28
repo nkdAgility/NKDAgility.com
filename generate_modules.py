@@ -1,7 +1,20 @@
 #!/usr/bin/env python3
 """
 Script to generate module pages from syllabus.yaml files
+
 This script reads a syllabus.yaml file and generates individual module markdown files
+for each module in the syllabus. The generated pages are placed in a 'modules' directory
+under the training-courses section to avoid conflicts with Hugo page bundles.
+
+Usage:
+    python generate_modules.py <course_directory>
+
+Example:
+    python generate_modules.py site/content/capabilities/training-courses/scrumorg-professional-scrum-master
+
+The script can also be run on all courses with syllabus.yaml files:
+    find site/content/capabilities/training-courses -name "syllabus.yaml" | 
+    while read syllabus; do python generate_modules.py "$(dirname "$syllabus")"; done
 """
 
 import os
@@ -17,9 +30,11 @@ def create_module_page(module, course_title, output_dir, course_slug):
     duration = module.get('duration', 0)
     content = module.get('content', '')
     
-    # Create module file at the same level as the course
+    # Create module file in a separate modules directory 
+    modules_dir = output_dir.parent / "modules"
+    modules_dir.mkdir(exist_ok=True)
     module_slug = f"{course_slug}-module-{module_id}"
-    module_file = output_dir / f"{module_slug}.md"
+    module_file = modules_dir / f"{module_slug}.md"
     
     # Create module markdown content
     front_matter = f"""---
@@ -33,6 +48,7 @@ moduleId: {module_id}
 duration: {duration}
 weight: {module_id}
 draft: false
+date: 2023-01-01T00:00:00Z
 ---
 
 """
@@ -102,12 +118,19 @@ def generate_modules_from_syllabus(syllabus_file, course_dir):
                         elif line.strip().startswith('slug:'):
                             course_slug = line.split(':', 1)[1].strip().strip('"\'')
     
+    # Clean up existing module pages for this course
+    modules_dir = course_dir.parent / "modules"
+    if modules_dir.exists():
+        for existing_file in modules_dir.glob(f"{course_slug}-module-*.md"):
+            existing_file.unlink()
+            print(f"Removed existing module page: {existing_file}")
+    
     # Generate modules
     syllabus = syllabus_data.get('syllabus', [])
     for module in syllabus:
         create_module_page(module, course_title, course_dir, course_slug)
     
-    print(f"Generated {len(syllabus)} module pages in {course_dir}")
+    print(f"Generated {len(syllabus)} module pages for course: {course_title}")
 
 
 def main():

@@ -9,6 +9,7 @@ moduleId: 1
 duration: 120
 weight: 1
 draft: false
+date: 2023-01-01T00:00:00Z
 ---
 
 Participants are able to evaluate the concepts of complexity and empiricism in their context and determine with others in their organization whether Scrum is appropriate for their environment.

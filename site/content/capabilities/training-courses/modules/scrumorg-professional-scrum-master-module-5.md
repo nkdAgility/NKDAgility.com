@@ -9,6 +9,7 @@ moduleId: 5
 duration: 120
 weight: 5
 draft: false
+date: 2023-01-01T00:00:00Z
 ---
 
 Participant can can defend the significance of collaboration as a key factor for efficiency and quality, and detect the different influencers that may impact collaboration within their Scrum Team.

@@ -9,6 +9,7 @@ moduleId: 4
 duration: 120
 weight: 4
 draft: false
+date: 2023-01-01T00:00:00Z
 ---
 
 Participants correlate the benefits of an empirical approach to product development to how the Product Backlog contributes to transparency. The student also understands how frequent inspection and adaptation of the backlog is crucial to achieving goals at various levels.
