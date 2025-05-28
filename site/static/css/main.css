@@ -568,6 +568,24 @@ blockquote cite {
   border-color: #666;
 }
 
+/* Ensure text in 404 page is visible in dark mode */
+[data-theme="dark"] #counter,
+[data-theme="dark"] #found {
+  color: var(--dark-text-color);
+}
+
+/* Ensure links in 404 page are properly styled in dark mode */
+[data-theme="dark"] #counter a,
+[data-theme="dark"] #found a,
+[data-theme="dark"] #countdown {
+  color: var(--dark-accent-color-light);
+}
+
+/* Ensure text-muted elements are visible in dark mode */
+[data-theme="dark"] .text-muted {
+  color: #b0b0b0 !important;
+}
+
 /* Fix preformatted text and code blocks */
 [data-theme="dark"] pre,
 [data-theme="dark"] code {
