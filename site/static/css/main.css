@@ -478,12 +478,32 @@ blockquote cite {
 /* Dark mode table adjustments */
 [data-theme="dark"] table {
   color: var(--text-color);
+  background-color: var(--dark-background-color-alt);
 }
 
 [data-theme="dark"] .table {
+  --bs-table-color: var(--text-color);
+  --bs-table-bg: var(--dark-background-color-alt);
   --bs-table-striped-color: var(--text-color);
   --bs-table-striped-bg: rgba(255, 255, 255, 0.05);
   --bs-table-border-color: #444;
+  --bs-table-active-bg: rgba(255, 255, 255, 0.1);
+  --bs-table-hover-color: var(--text-color);
+  --bs-table-hover-bg: rgba(255, 255, 255, 0.075);
+}
+
+/* Additional table styling for dark mode */
+[data-theme="dark"] .table-bordered {
+  border-color: #444;
+}
+
+[data-theme="dark"] .table-bordered > :not(caption) > * > * {
+  border-color: #444;
+}
+
+[data-theme="dark"] .table-striped > tbody > tr:nth-of-type(odd) > * {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: var(--text-color);
 }
 
 /* Modal styling for dark mode */
