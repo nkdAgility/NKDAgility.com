@@ -180,7 +180,7 @@ function Build-AllEmbeddingCache {
     param (
         [array]$HugoMarkdownObjects,
         [string]$LocalPath = "./.data/content-embeddings/",
-        [int]$TopN = 50
+        [int]$TopN = 5000
     )
     Write-InformationLog "Building embedding cache for all HugoMarkdown objects..."
     $count = $HugoMarkdownObjects.Count
@@ -205,7 +205,7 @@ function Build-EmbeddingCache {
     param (
         [HugoMarkdown]$hugoMarkdown,
         [string]$LocalPath = "./.data/content-embeddings/",
-        [int]$TopN = 50
+        [int]$TopN = 5000
     )
     $targetEmbeddingFile = Join-Path $LocalPath ("$($hugoMarkdown.FrontMatter.slug).embedding.json")
     if (-not (Test-Path $targetEmbeddingFile)) { return }
@@ -239,7 +239,7 @@ function Build-EmbeddingCache {
             }
         }
     }
-    $topRelated = $similarities | Where-Object { $_.Similarity -gt 0.7 } | Sort-Object Similarity -Descending | Select-Object -First $TopN
+    $topRelated = $similarities | Where-Object { $_.Similarity -gt 0.6 } | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
     $output = @{
         calculatedAt = (Get-Date).ToUniversalTime().ToString('o')
@@ -269,16 +269,16 @@ function Get-RelatedItems {
 $containerName = "content-embeddings"
 $embeddingModel = "text-embedding-3-large"
 Start-TokenServer
-$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
+#$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 $hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
-Rebuild-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects -ContainerName $containerName -LocalPath "./.data/content-embeddings/"
+#Rebuild-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects -ContainerName $containerName -LocalPath "./.data/content-embeddings/"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
-Build-AllEmbeddingCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/" -TopN 50
+Build-AllEmbeddingCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 # Process embeddings
