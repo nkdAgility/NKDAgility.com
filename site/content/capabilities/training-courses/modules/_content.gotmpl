@@ -1,0 +1,251 @@
+{{/* 
+  Module Page Content Adapter for Hugo
+  This template dynamically generates module pages from syllabus.yaml files at build time.
+
+  Rather than generating static markdown files, this adapter creates pages directly
+  during Hugo's build process, ensuring module pages stay in sync with syllabus files.
+*/}}
+
+{{/* Create pages for Professional Scrum Master course */}}
+{{ $courseDir := "scrumorg-professional-scrum-master" }}
+{{ $courseTitle := "Professional Scrum Master (PSM) Course with Certification" }}
+
+{{ $syllabusContent := `
+syllabus:
+- id: 1
+  title: Theory & First Principles
+  duration: 120
+  content: |
+    Participants are able to evaluate the concepts of complexity and empiricism in their context and determine with others in their organization whether Scrum is appropriate for their environment.
+  assignment:
+    title: Complexity and Empiricism
+    content: |
+      **ASK**: _Facilitate a discussion within your organization about how your organization could benefit from Agile and Scrum and what would be potential hindrance tapping the full potential in the current environment. Share results from this discussion with the class and explain how you ensured that everyone had a good understanding of complexity and empiricism._
+    examples: |
+      - Explain complexity and empiricism by using the Stacey chart, Cynefin Framework or something else.
+      - Use the exercise to identify parameters influencing a product development and how predictable they are.
+      - Create a one-pager describing the goals that the organization wants to achieve by using Scrum and Agile.
+      - Compare the evolution of various factors between the current situation and Professional Scrum and give some examples from your organization.
+  learningResources:
+  - title: The New New Product Development Game
+    link: https://hbr.org/1986/01/the-new-new-product-development-game
+    duration: 20
+    type: newspaper
+    weight: 1
+  - title: An Introduction to the Cynefin Model
+    link: https://youtu.be/yjXRY0IbJw8
+    duration: 5
+    type: video
+    weight: 1
+- id: 2
+  title: The Scrum Framework
+  duration: 120
+  content: Participants will learn to interpret the roles, artifacts, and events of the Scrum framework, understand their purpose, how they relate to each other, and how they collectively help teams and organizations address complex problems.
+  learningResources:
+  - title: The Scrum Guide
+    link: https://scrumguides.org
+    duration: 60
+    type: handshake-angle
+    weight: 1
+  - title: Planning in Scrum
+    link: https://youtu.be/08wArN-Tkhk
+    duration: 5
+    type: video
+    weight: 1
+- id: 3
+  title: Done
+  duration: 120
+  content: Participants can interpret the relationship between the concept of Done in Scrum and its role in creating transparency for empiricism, and collaborate with their team to identify potential improvements in their current situation.
+  learningResources:
+  - title: The Definition of Done
+    link: https://www.scrum.org/resources/definition-done
+    duration: 20
+    type: blog
+    weight: 1
+- id: 4
+  title: Product Delivery with Scrum
+  duration: 120
+  content: Participants correlate the benefits of an empirical approach to product development to how the Product Backlog contributes to transparency. The student also understands how frequent inspection and adaptation of the backlog is crucial to achieving goals at various levels.
+- id: 5
+  title: People & Teams
+  duration: 120
+  content: Participant can can defend the significance of collaboration as a key factor for efficiency and quality, and detect the different influencers that may impact collaboration within their Scrum Team.
+- id: 6
+  title: The Scrum Master
+  duration: 120
+  content: Participant is able to assess their own behavior as a Scrum Master in terms of how they help teams achieve their goals, and assess their own ability to make deliberate choices about how to enable team growth.
+- id: 7
+  title: Closing
+  duration: 120
+  content: As we conclude the Scrum Master course, this final session is designed to reflect on your learning journey, consolidate key concepts, and prepare you to apply your new skills confidently within your team. We'll revisit the course highlights, address any remaining questions, and provide guidance on the next steps to continue your growth as a Scrum Master.
+` }}
+
+{{ $syllabusData := transform.Unmarshal $syllabusContent }}
+
+{{ range $module := $syllabusData.syllabus }}
+  {{ $moduleId := $module.id }}
+  {{ $title := $module.title }}
+  {{ $duration := $module.duration | default 0 }}
+  {{ $content := $module.content | default "" }}
+  {{ $moduleSlug := printf "%s-module-%d" $courseDir $moduleId }}
+  
+  {{/* Build content with learning resources and assignments */}}
+  {{ $moduleContent := $content }}
+  {{ $moduleContent = printf "%s\n\n## Duration\n%d+ minutes\n\n" $moduleContent $duration }}
+  
+  {{/* Add learning resources if they exist */}}
+  {{ if $module.learningResources }}
+    {{ $moduleContent = printf "%s## Learning Resources\n\n" $moduleContent }}
+    {{ range $resource := $module.learningResources }}
+      {{ if not $resource.draft }}
+        {{ $resourceTitle := $resource.title }}
+        {{ $resourceDuration := $resource.duration | default 0 }}
+        {{ $resourceLink := $resource.link | default "" }}
+        {{ $resourceLine := printf "- **%s** (%d min)" $resourceTitle $resourceDuration }}
+        {{ if $resourceLink }}
+          {{ $resourceLine = printf "%s - [Link](%s)" $resourceLine $resourceLink }}
+        {{ end }}
+        {{ $moduleContent = printf "%s%s\n" $moduleContent $resourceLine }}
+        {{ if $resource.content }}
+          {{ $moduleContent = printf "%s  %s\n" $moduleContent $resource.content }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $moduleContent = printf "%s\n" $moduleContent }}
+  {{ end }}
+  
+  {{/* Add assignment if it exists */}}
+  {{ if $module.assignment }}
+    {{ $assignment := $module.assignment }}
+    {{ if $assignment.title }}
+      {{ $moduleContent = printf "%s## Assignment: %s\n\n%s\n\n" $moduleContent $assignment.title $assignment.content }}
+      {{ if $assignment.examples }}
+        {{ $moduleContent = printf "%s### Examples\n\n%s\n\n" $moduleContent $assignment.examples }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  
+  {{/* Create the module page */}}
+  {{ $page := dict 
+    "title" (printf "Module %d: %s" $moduleId $title)
+    "description" (printf "Module %d of %s - %s" $moduleId $courseTitle $title)
+    "type" "module"
+    "layout" "module"
+    "course" $courseTitle
+    "courseSlug" $courseDir
+    "moduleId" $moduleId
+    "duration" $duration
+    "weight" $moduleId
+    "draft" false
+    "date" "2023-01-01T00:00:00Z"
+    "content" (dict 
+      "mediaType" "text/markdown" 
+      "value" $moduleContent
+    )
+    "path" $moduleSlug
+  }}
+  
+  {{ $.AddPage $page }}
+{{ end }}
+
+{{/* Create the same for PSK modules using embedded data */}}
+{{ $pskCourseDir := "scrumorg-professional-scrum-with-kanban" }}
+{{ $pskCourseTitle := "Professional Scrum with Kanban (PSK) Course with Certification" }}
+
+{{ $pskSyllabusContent := `
+syllabus:
+- id: 1
+  title: Theory & First Principles
+  duration: 120
+  content: |
+    Participants understand the complexity of product development and how Scrum with Kanban can be used to deliver value.
+  learningResources:
+  - title: The Scrum Guide
+    link: https://scrumguides.org
+    duration: 20
+    type: handshake-angle
+    weight: 1
+  - title: Kanban Guide for Scrum Teams
+    link: https://www.scrum.org/resources/kanban-guide-scrum-teams
+    duration: 15
+    type: handshake-angle
+    weight: 2
+- id: 2
+  title: The Kanban Method
+  duration: 120
+  content: |
+    Participants learn how to apply Kanban practices to their current Scrum implementation.
+  learningResources:
+  - title: What is Kanban?
+    link: https://www.scrum.org/resources/blog/what-kanban
+    duration: 10
+    type: blog
+    weight: 1
+- id: 3
+  title: Metrics and Flow
+  duration: 120
+  content: |
+    Participants understand the concept of flow and how to use metrics to optimize it.
+  learningResources:
+  - title: Actionable Agile Metrics for Predictability
+    duration: 15
+    type: book
+    weight: 1
+` }}
+
+{{ $pskSyllabusData := transform.Unmarshal $pskSyllabusContent }}
+
+{{ range $module := $pskSyllabusData.syllabus }}
+  {{ $moduleId := $module.id }}
+  {{ $title := $module.title }}
+  {{ $duration := $module.duration | default 0 }}
+  {{ $content := $module.content | default "" }}
+  {{ $moduleSlug := printf "%s-module-%d" $pskCourseDir $moduleId }}
+  
+  {{/* Build content with learning resources and assignments */}}
+  {{ $moduleContent := $content }}
+  {{ $moduleContent = printf "%s\n\n## Duration\n%d+ minutes\n\n" $moduleContent $duration }}
+  
+  {{/* Add learning resources if they exist */}}
+  {{ if $module.learningResources }}
+    {{ $moduleContent = printf "%s## Learning Resources\n\n" $moduleContent }}
+    {{ range $resource := $module.learningResources }}
+      {{ if not $resource.draft }}
+        {{ $resourceTitle := $resource.title }}
+        {{ $resourceDuration := $resource.duration | default 0 }}
+        {{ $resourceLink := $resource.link | default "" }}
+        {{ $resourceLine := printf "- **%s** (%d min)" $resourceTitle $resourceDuration }}
+        {{ if $resourceLink }}
+          {{ $resourceLine = printf "%s - [Link](%s)" $resourceLine $resourceLink }}
+        {{ end }}
+        {{ $moduleContent = printf "%s%s\n" $moduleContent $resourceLine }}
+        {{ if $resource.content }}
+          {{ $moduleContent = printf "%s  %s\n" $moduleContent $resource.content }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $moduleContent = printf "%s\n" $moduleContent }}
+  {{ end }}
+  
+  {{/* Create the module page */}}
+  {{ $page := dict 
+    "title" (printf "Module %d: %s" $moduleId $title)
+    "description" (printf "Module %d of %s - %s" $moduleId $pskCourseTitle $title)
+    "type" "module"
+    "layout" "module"
+    "course" $pskCourseTitle
+    "courseSlug" $pskCourseDir
+    "moduleId" $moduleId
+    "duration" $duration
+    "weight" $moduleId
+    "draft" false
+    "date" "2023-01-01T00:00:00Z"
+    "content" (dict 
+      "mediaType" "text/markdown" 
+      "value" $moduleContent
+    )
+    "path" $moduleSlug
+  }}
+  
+  {{ $.AddPage $page }}
+{{ end }}

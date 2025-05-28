@@ -1,94 +1,55 @@
-# Module Page Generation from Syllabus
+# Module Generation
 
-This document describes how to automatically generate individual module pages from `syllabus.yaml` files in the NKDAgility website.
+This document explains how module pages are generated in the NKDAgility website.
 
 ## Overview
 
-The solution generates individual pages for each module defined in a course's `syllabus.yaml` file. Instead of having all modules displayed only within the course page, each module gets its own dedicated page with:
-
-- Complete module content
-- Learning resources 
-- Assignments and examples
-- Proper navigation and metadata
+Module pages are dynamically generated at build time from `syllabus.yaml` files found in course directories. This is done using Hugo's Content Adapter feature, which allows Hugo to create pages during the build process without requiring static markdown files in the repository.
 
 ## Implementation
 
-### Python Script: `generate_modules.py`
+### Content Adapter
 
-The main implementation is a Python script that:
+The system uses a content adapter template (`_content.gotmpl`) located at:
 
-1. Reads `syllabus.yaml` files from course directories
-2. Extracts module information (title, content, resources, assignments)
-3. Generates individual markdown files for each module
-4. Places generated files in a separate `modules/` directory to avoid Hugo page bundle conflicts
-
-### Hugo Templates
-
-- **Module Layout**: `site/layouts/module/single.html` - Renders individual module pages
-- **Learning Resources Partial**: `site/layouts/partials/modules/learning-resources.html` - Formats learning resources
-
-### Hugo Configuration
-
-- Added `module` permalink configuration in `site/hugo.yaml`
-- Module pages use `type: "module"` and `layout: "module"`
-
-## Usage
-
-### Generate modules for a single course:
-
-```bash
-python3 generate_modules.py site/content/capabilities/training-courses/scrumorg-professional-scrum-master
+```
+site/content/capabilities/training-courses/modules/_content.gotmpl
 ```
 
-### Generate modules for all courses with syllabus files:
+This template:
+1. Finds all courses with syllabus.yaml files
+2. Extracts module information from each syllabus file
+3. Generates individual module pages with front matter and content
+4. Creates them in the proper URL path
 
-```bash
-find site/content/capabilities/training-courses -name "syllabus.yaml" | 
-while read syllabus; do 
-    python3 generate_modules.py "$(dirname "$syllabus")"
-done
-```
+### Module Structure
 
-## Generated Pages Structure
+Each generated module page includes:
+- Complete module content and description
+- Duration information
+- Learning resources with links and time estimates
+- Assignments with examples
+- Navigation breadcrumbs back to parent course
+- SEO-friendly metadata
 
-Module pages are created in:
-```
-site/content/capabilities/training-courses/modules/
-├── [course-slug]-module-1.md
-├── [course-slug]-module-2.md
-└── ...
-```
+## URL Structure
 
-URLs are generated as:
+Module pages follow this URL pattern:
 ```
 /capabilities/training-courses/modules/[course-slug]-module-[id]/
 ```
 
-## Features
+For example, for the Professional Scrum Master course Module 1:
+```
+/capabilities/training-courses/modules/scrumorg-professional-scrum-master-module-1/
+```
 
-- **Complete Module Content**: Full text, duration, and metadata
-- **Learning Resources**: Formatted list with links and durations
-- **Assignments**: Title, description, and examples
-- **Course Navigation**: Breadcrumbs and links back to parent course
-- **SEO-Friendly**: Proper titles, descriptions, and structured data
+## Benefits of Content Adapter Approach
 
-## Why This Approach?
+Using Hugo's Content Adapter approach provides several advantages:
 
-1. **Hugo Page Bundle Limitation**: Course directories with custom URL patterns (like `url: /path/:slug/`) are treated as page bundles, preventing other markdown files in the same directory from being processed as individual pages.
-
-2. **Separation of Concerns**: Module pages are logically separate from course pages and deserve their own URLs and navigation.
-
-3. **Content Reuse**: Modules can be referenced and linked independently of their parent course.
-
-## Alternative Approaches Considered
-
-1. **Hugo Content Templates (`_content.gotmpl`)**: Not supported in the current Hugo version or didn't work as expected.
-2. **Nested Directories**: Hugo page bundle behavior prevented recognition of nested content.
-3. **Same Directory Placement**: Conflicted with course page bundle structure.
-
-## Future Enhancements
-
-- Automated module generation on content updates
-- Cross-module navigation
-- Module completion tracking
-- Module-specific taxonomies
+1. **Dynamic Generation:** Pages are created at build time, not stored as static files
+2. **Single Source of Truth:** All module data comes from the syllabus.yaml files
+3. **Automatic Updates:** When syllabus content changes, module pages update automatically
+4. **Clean Repository:** No need to store and commit generated markdown files
+5. **Improved Maintenance:** Changes to module formatting can be made in one place

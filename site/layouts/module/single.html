@@ -3,7 +3,7 @@
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/capabilities/training-courses/">Training Courses</a></li>
-        <li class="breadcrumb-item"><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></li>
+        <li class="breadcrumb-item"><a href="/capabilities/training-courses/{{ .Params.courseSlug }}/">{{ .Params.course }}</a></li>
         <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
       </ol>
     </nav>
@@ -27,9 +27,31 @@
             <h3 class="card-title h6 mb-0">Module Details</h3>
           </div>
           <div class="card-body">
-            <p><strong>Course:</strong> <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></p>
+            <p><strong>Course:</strong> <a href="/capabilities/training-courses/{{ .Params.courseSlug }}/">{{ .Params.course }}</a></p>
             <p><strong>Module ID:</strong> {{ .Params.moduleId }}</p>
             <p><strong>Duration:</strong> {{ .Params.duration }}+ minutes</p>
+            
+            <div class="module-navigation mt-4">
+              <div class="d-flex flex-column">
+                {{ $prevModuleId := int .Params.moduleId | add -1 }}
+                {{ if gt $prevModuleId 0 }}
+                  {{ $prevModuleSlug := printf "/capabilities/training-courses/modules/%s-module-%d/" .Params.courseSlug $prevModuleId }}
+                  <a href="{{ $prevModuleSlug }}" class="btn btn-sm btn-outline-primary mb-2">
+                    <i class="bi bi-arrow-left me-1"></i>Previous Module
+                  </a>
+                {{ end }}
+                
+                {{ $nextModuleId := int .Params.moduleId | add 1 }}
+                {{ $nextModuleSlug := printf "/capabilities/training-courses/modules/%s-module-%d/" .Params.courseSlug $nextModuleId }}
+                <a href="{{ $nextModuleSlug }}" class="btn btn-sm btn-outline-primary mb-2">
+                  Next Module<i class="bi bi-arrow-right ms-1"></i>
+                </a>
+                
+                <a href="/capabilities/training-courses/{{ .Params.courseSlug }}/" class="btn btn-sm btn-primary">
+                  <i class="bi bi-arrow-return-left me-1"></i>Back to Course
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>

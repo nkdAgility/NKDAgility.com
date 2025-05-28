@@ -1,15 +1,64 @@
 {{/* 
-  Partial to render learning resources for a module
-  @param . - Array of learning resources
+  Partial template for rendering module learning resources 
+  Usage: {{ partial "modules/learning-resources.html" . }}
 */}}
-{{ $resources := . }}
-{{ if $resources }}
-  {{ range $resource := $resources }}
-    {{ if not $resource.draft }}
-- **{{ $resource.title }}** ({{ $resource.duration }} min){{ if $resource.link }} - [Link]({{ $resource.link }}){{ end }}
-  {{ if $resource.content }}
-  {{ $resource.content | markdownify }}
-  {{ end }}
-    {{ end }}
-  {{ end }}
+
+{{ $content := . }}
+{{ $matches := findRE "##\\s+Learning Resources\\s+([\\s\\S]+?)\\s+##" $content }}
+
+{{ if $matches }}
+  {{ $resourcesSection := index $matches 0 }}
+  {{ $resourcesList := findRE "- \\*\\*([^*]+)\\*\\* \\(([0-9]+) min\\)(?:\\s+- \\[Link\\]\\(([^)]+)\\))?" $resourcesSection }}
+  
+  <div class="learning-resources">
+    <h3>Learning Resources</h3>
+    
+    <div class="list-group">
+      {{ range $resourcesList }}
+        {{ $titleMatch := findRE "\\*\\*([^*]+)\\*\\*" . 1 }}
+        {{ $durationMatch := findRE "\\(([0-9]+) min\\)" . 1 }}
+        {{ $linkMatch := findRE "\\[Link\\]\\(([^)]+)\\)" . 1 }}
+        
+        {{ $title := "" }}
+        {{ $duration := 0 }}
+        {{ $link := "" }}
+        
+        {{ if ge (len $titleMatch) 1 }}
+          {{ $title = index $titleMatch 0 | strings.TrimPrefix "**" | strings.TrimSuffix "**" }}
+        {{ end }}
+        
+        {{ if ge (len $durationMatch) 1 }}
+          {{ $duration = index $durationMatch 0 | strings.TrimPrefix "(" | strings.TrimSuffix " min)" }}
+        {{ end }}
+        
+        {{ if ge (len $linkMatch) 1 }}
+          {{ $link = index $linkMatch 0 | strings.TrimPrefix "[Link](" | strings.TrimSuffix ")" }}
+        {{ end }}
+        
+        <div class="list-group-item">
+          <div class="d-flex justify-content-between align-items-start">
+            <div>
+              {{ if $link }}
+                <a href="{{ $link }}" target="_blank" rel="noopener">
+                  <strong>{{ $title }}</strong>
+                </a>
+              {{ else }}
+                <strong>{{ $title }}</strong>
+              {{ end }}
+              
+              <div class="text-muted small mt-1">
+                <i class="bi bi-clock"></i> {{ $duration }} minutes
+              </div>
+            </div>
+            
+            {{ if $link }}
+              <a href="{{ $link }}" class="btn btn-sm btn-outline-primary" target="_blank" rel="noopener">
+                <i class="bi bi-box-arrow-up-right me-1"></i>Open
+              </a>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
 {{ end }}
