@@ -423,15 +423,15 @@ function Get-RecentHugoMarkdownResources {
         [int]$YearsBack = 10
     )
 
-    Write-InformationLog "Retrieving markdown files from '$Path'..."
+    Write-DebugLog "Retrieving markdown files from '$Path'..."
 
     $cutoffDate = (Get-Date).AddYears(-$YearsBack)
     $resources = Get-ChildItem -Path "$Path\*" -Recurse -Include "index.md", "_index.md" | Sort-Object { $_ } -Descending
     $resourceCount = $resources.Count
     $progressStep = [math]::Ceiling($resourceCount / 10)
     $hugoMarkdownObjects = @()
-
-    Write-InformationLog "Loading ({count}) markdown files..." -PropertyValues $resourceCount
+    $leafFolder = Split-Path $Path -Leaf
+    Write-DebugLog "Loading ($resourceCount) markdown files..."
 
     $resources | ForEach-Object -Begin { $index = 0 } -Process {
         if (Test-Path $_) {
@@ -440,12 +440,26 @@ function Get-RecentHugoMarkdownResources {
         }
 
         $index++
+        $percent = if ($resourceCount -gt 0) { [math]::Round(($index / $resourceCount) * 100, 1) } else { 100 }
+       
+        if (-not (Get-IsDebug)) {
+            Write-Progress -Activity "Loading Hugo Markdown $leafFolder" -Status "[$index/$resourceCount] $percent% complete" -PercentComplete $percent
+        }
+        else {
+            Write-DebugLog "Loading Hugo Markdown $leafFolder [$index/$resourceCount] $percent% complete"
+        }
         if ($index % $progressStep -eq 0 -or $index -eq $resourceCount) {
-            Write-InformationLog "Progress: $([math]::Round(($index / $resourceCount) * 100))% complete"
+            Write-DebugLog "Progress: $percent% complete"
         }
     }
+    if (-not (Get-IsDebug)) {
+        Write-Progress -Activity "Loading Hugo Markdown $leafFolder" -Completed
+    }
+    else {
+        Write-DebugLog "Loading Hugo Markdown $leafFolder complete."
+    }
 
-    Write-InformationLog "Loaded ({count}) HugoMarkdown Objects." -PropertyValues $hugoMarkdownObjects.Count
+    Write-DebugLog "Loaded ($($hugoMarkdownObjects.Count)) HugoMarkdown Objects."
 
     $filtered = $hugoMarkdownObjects | Where-Object {
         if ($_.FrontMatter.date) {
@@ -455,7 +469,7 @@ function Get-RecentHugoMarkdownResources {
         return $false
     } | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
 
-    Write-InformationLog "Filtered to ({count}) recent HugoMarkdown Objects." -PropertyValues $filtered.Count
+    Write-DebugLog "Filtered to ($($filtered.Count)) recent HugoMarkdown Objects."
 
     return $filtered
 }
