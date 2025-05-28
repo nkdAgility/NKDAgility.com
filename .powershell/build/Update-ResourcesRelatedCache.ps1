@@ -16,8 +16,8 @@ function Get-ResourceRelatedItems {
         [HugoMarkdown]$hugoMarkdown,
         [int]$TopN = 5
     )
-
-    $targetEmbeddingData = Get-BlobContentAsJson -Container $containerName -Blob "$($hugoMarkdown.FrontMatter.slug).embedding.json"
+    $embeddingFilename = Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown
+    $targetEmbeddingData = Get-BlobContentAsJson -Container $containerName -Blob $embeddingFilename
     if (-not $targetEmbeddingData) {
         throw "Embedding for target '$($hugoMarkdown.FrontMatter.slug)' not found."
     }
@@ -28,7 +28,7 @@ function Get-ResourceRelatedItems {
     $similarities = @()
 
     foreach ($blob in $allBlobs) {
-        if ($blob.Name -eq "$($hugoMarkdown.FrontMatter.slug).embedding.json") {
+        if ($blob.Name -eq $embeddingFilename) {
             continue
         }
 
@@ -140,14 +140,7 @@ function Get-RelatedItems {
 
 Start-TokenServer
 #$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
-Write-DebugLog "--------------------------------------------------------"
-Write-DebugLog "--------------------------------------------------------"
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
-Write-DebugLog "--------------------------------------------------------"
-Write-DebugLog "--------------------------------------------------------"
-Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects -ContainerName $containerName -LocalPath "./.data/content-embeddings/"
-Write-DebugLog "--------------------------------------------------------"
-Write-DebugLog "--------------------------------------------------------"
+
 #Build-ResourcesRelatedCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"

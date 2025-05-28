@@ -2,6 +2,15 @@ Import-Module Az.Storage
 
 $containerName = "content-embeddings"
 $embeddingModel = "text-embedding-3-large"
+
+
+function Get-EmbeddingResourceFileName {
+    param (
+        [HugoMarkdown]$HugoMarkdown
+    )
+    return $HugoMarkdown.ReferencePath.Replace("\", "-").Replace("/", "-") + ".embedding.json"
+}
+
 function Update-EmbeddingRepository {
     param (
         [array]$HugoMarkdownObjects,
@@ -32,11 +41,8 @@ function Update-EmbeddingRepository {
             Write-InformationLog "$progress $percent% complete"
             $lastPercent = [math]::Floor($percent / 10) * 10
         }
-        if ([string]::IsNullOrEmpty($hugoMarkdown.FrontMatter.slug)) {
-            Write-WarningLog "$progress $($hugoMarkdown.ReferencePath) (no slug found)."
-            continue
-        }
-        $embeddingFile = Join-Path $LocalPath ("$($hugoMarkdown.FrontMatter.slug).embedding.json")
+
+        $embeddingFile = Join-Path $LocalPath (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)
         $contentText = Get-Content -Path $hugoMarkdown.FilePath -Raw
         $contentHash = Get-ContentHash $contentText
         $needsUpdate = $true
@@ -94,3 +100,16 @@ function Get-EmbeddingCosineSimilarity {
 
     return $dotProduct / ([Math]::Sqrt($magnitudeA) * [Math]::Sqrt($magnitudeB))
 }
+
+Write-DebugLog "--------------------------------------------------------"
+
+Write-DebugLog "--------------------------------------------------------"
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags\" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 10
+Write-DebugLog "--------------------------------------------------------"
+Write-DebugLog "--------------------------------------------------------"
+Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects -ContainerName $containerName -LocalPath "./.data/content-embeddings/"
+Write-DebugLog "--------------------------------------------------------"
+Write-DebugLog "--------------------------------------------------------"
