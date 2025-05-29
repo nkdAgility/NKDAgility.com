@@ -3,7 +3,7 @@
 {{ $resourceType := .resourceType | default "blog" }}
 {{- $relatedData := partial "functions/get-related.html" .Page }}
 {{ if and $relatedData (gt (len $relatedData) 0) }}
-  {{ $relatedBlogs := where $relatedData "ResourceType" $resourceType }}
+  {{ $relatedBlogs := where $relatedData "EntryType" $resourceType }}
   {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
     <h3>Related {{ $resourceType }} (Extended)</h3>
     <ul>

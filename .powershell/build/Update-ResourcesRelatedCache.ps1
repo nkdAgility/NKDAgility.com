@@ -139,17 +139,25 @@ function Build-ResourceRelatedCache {
             
             $needsRecalculation = $true
             if ($existingItem -and $existingItem.EntryGenAt -and $embeddingData.generatedAt) {
-                # Compare timestamps - only recalculate if embedding is newer
-                $existingGenAt = [DateTime]::Parse($existingItem.EntryGenAt)
-                $embeddingGenAt = [DateTime]::Parse($embeddingData.generatedAt)
-                
-                if ($embeddingGenAt -le $existingGenAt) {
-                    # Preserve existing calculation
-                    $similarities += $existingItem
-                    $preservedCount++
-                    $needsRecalculation = $false
-                    Write-DebugLog "  |-- Preserving existing similarity for $($embeddingData.title) (embedding not newer)"
+                try {
+                    # Compare timestamps - only recalculate if embedding is newer
+                    $existingGenAt = $existingItem.EntryGenAt
+                    $embeddingGenAt = $embeddingData.generatedAt
+                    if ($embeddingGenAt -le $existingGenAt) {
+                        # Preserve existing calculation
+                        $similarities += $existingItem
+                        $preservedCount++
+                        $needsRecalculation = $false
+                        Write-DebugLog "  |-- Preserving existing similarity for $($embeddingData.title) (embedding not newer)"
+                    }
                 }
+                catch {
+                    <#Do this if a terminating exception happens#>
+                    Write-ErrorLog "  |-- Error comparing generatedAt timestamps for $($embeddingData.title): $_"
+                }
+                
+                
+               
             }
             
             if ($needsRecalculation) {
@@ -170,8 +178,8 @@ function Build-ResourceRelatedCache {
         }
     }    $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $output = @{
-        calculatedAt = (Get-Date).ToUniversalTime().ToString('o')
-        related      = $topRelated
+        #calculatedAt = (Get-Date).ToUniversalTime().ToString('o')
+        related = $topRelated
     }
     $output | ConvertTo-Json -Depth 10 | Set-Content $cachePath
     Write-DebugLog "  |-- Saved to $cachePath (Recalculated: $recalculatedCount, Preserved: $preservedCount)"
