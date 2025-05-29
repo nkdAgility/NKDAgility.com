@@ -20,4 +20,36 @@ If (-not $levelSwitch) {
     Start-Logger
     Write-InfoLog "New Logger Started" 
 }
-Write-InfoLog "LoggingHelper.ps1 loaded" 
+
+function Set-DebugMode {
+    param(
+        [bool]$EnableDebug = $true
+    )
+    if ($EnableDebug) {
+        $levelSwitch.MinimumLevel = 'Debug'
+        Write-InfoLog "Debug mode enabled."
+    }
+    else {
+        $levelSwitch.MinimumLevel = 'Information'
+        Write-InfoLog "Debug mode disabled."
+    }
+}
+
+function Get-IsDebug {
+    <#
+    .SYNOPSIS
+        Returns $true if debug or verbose mode is enabled, otherwise $false.
+    #>
+    # LogEventLevel: Verbose=0, Debug=1, Information=2, ...
+    if ([int]$levelSwitch.MinimumLevel -le 1) {
+        return $true
+    }
+    else {
+        return $false
+    }
+}
+
+
+
+
+Write-InfoLog "LoggingHelper.ps1 loaded"
