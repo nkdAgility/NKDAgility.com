@@ -1,5 +1,5 @@
 ---
-title: "Technically Agile: Recipes"
+title: "Agentic Agility: Recipes"
 shorttitle: "Recipes"
 layout: "section" # Hugo will use section.html to render the list of pages
 trustpilot: false

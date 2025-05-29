@@ -1,5 +1,5 @@
 ---
-title: "Technically Agile: Engineering Notes"
+title: "Agentic Agility: Engineering Notes"
 shorttitle: "Engineering Notes"
 url: "/resources/engineering-notes/"
 layout: bloglist

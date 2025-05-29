@@ -1,5 +1,5 @@
 ---
-title: "Technically Agile: Guides"
+title: "Agentic Agility: Guides"
 shorttitle: "Guides"
 url: /resources/guides/
 weight: 1
