@@ -1,7 +1,7 @@
 ---
 title: "What we think?"
 shorttitle: "Agentic Agility"
-description: "Resources on the throries, philosophies, and practices!"
+description: "a·gen·tic a·gil·i·ty empowers teams through autonomy and accountability, championing evidence-based practices to foster adaptive, resilient organisations driven by trust and transparency."
 trustpilot: false
 url: "/resources/"
 layout: "section" # Hugo will use section.html to render the list of pages
@@ -12,10 +12,10 @@ sitemap:
   priority: 0.7
 headline:
   title: "a·gen·tic a·gil·i·ty"
-  subtitle: "Resources on the throries, philosophies, and practices!"
+  subtitle: "a·gen·tic a·gil·i·ty empowers teams through autonomy and accountability, championing evidence-based practices to foster adaptive, resilient organisations driven by trust and transparency."
   cards: []
   content: |
-    Helping companies navigate the realities of business agility and not just be technically agile! Regular content on Scrum, Agility, & DevOps!
+    a·gen·tic a·gil·i·ty champions autonomy, accountability, and purposeful action. We empower you to optimise your systems of work, advocate pragmatic, evidence-based practices, and challenge conventional thinking—driving adaptive, resilient organisations.
 ---
 
 Agentic Agility
