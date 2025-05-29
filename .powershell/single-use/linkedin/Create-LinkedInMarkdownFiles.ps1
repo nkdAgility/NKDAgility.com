@@ -14,6 +14,7 @@ $levelSwitch.MinimumLevel = 'Information'
 $inputPath = ".\.data\matched_resource_posts_with_comments.json"
 $outputRoot = "site\content\resources\signals"
 
+Start-TokenServer 
 # Load matched posts
 $entries = Get-Content $inputPath -Raw | ConvertFrom-Json
 
@@ -161,7 +162,7 @@ foreach ($entry in $entries) {
             source           = "LinkedIn"
             platform_signals = $platformSignal
         }
-        $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "", $signalMarkdownFile, $signalFolder )
+        $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "", $signalMarkdownFile)
         $hugoMarkdown.BodyContent = $BodyContent
         # Save markdown file    
         Save-HugoMarkdown -hugoMarkdown $hugoMarkdown -Path $hugoMarkdown.FilePath
