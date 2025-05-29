@@ -59,14 +59,25 @@ function Build-ResourcesRelatedCache {
         $i++
         $progress = "[{0}/{1}]" -f $i, $count
         $percent = [math]::Round(($i / $count) * 100, 1)
-        if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
-            Write-InformationLog "$progress $percent% complete"
-            $lastPercent = [math]::Floor($percent / 10) * 10
+        
+        # Use Write-Progress when not in debug mode, otherwise use logging
+        if (Get-IsDebug) {
+            if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
+                Write-InformationLog "$progress $percent% complete"
+                $lastPercent = [math]::Floor($percent / 10) * 10
+            }
+            Write-DebugLog "$progress Building cache for $($hugoMarkdown.FrontMatter.title)"
         }
-        Write-DebugLog "$progress Building cache for $($hugoMarkdown.FrontMatter.title)"
+        else {
+            Write-Progress -Activity "Building embedding cache for all HugoMarkdown objects" -Status "$progress $percent% complete - Processing: $($hugoMarkdown.FrontMatter.title)" -PercentComplete $percent -Id 0
+        }
         Build-ResourceRelatedCache -hugoMarkdown $hugoMarkdown -LocalPath $LocalPath -TopN $TopN
     }
 
+    # Clear progress bars when not in debug mode
+    if (-not (Get-IsDebug)) {
+        Write-Progress -Activity "Building embedding cache for all HugoMarkdown objects" -Completed -Id 0
+    }
 }
 
 function Build-ResourceRelatedCache {
@@ -80,47 +91,95 @@ function Build-ResourceRelatedCache {
     $targetEmbeddingData = Get-Content $targetEmbeddingFile | ConvertFrom-Json
     $targetEmbedding = $targetEmbeddingData.embedding
     $cachePath = Join-Path (Split-Path $hugoMarkdown.FilePath) 'data.index.related.json'
+    
+    # Load existing cache if it exists
+    $existingCache = $null
+    $existingRelatedLookup = @{}
     if (Test-Path $cachePath) {
-        Write-InformationLog "  |-- Cache already exists for $($hugoMarkdown.ReferencePath), skipping."
-        return
+        $existingCache = Get-Content $cachePath | ConvertFrom-Json
+        # Create a lookup table for existing related items by their EntryId or Reference
+        foreach ($item in $existingCache.related) {
+            $key = if ($item.EntryId) { $item.EntryId } else { $item.Reference }
+            if ($key) {
+                $existingRelatedLookup[$key] = $item
+            }
+        }
+        Write-DebugLog "  |-- Found existing cache for $($hugoMarkdown.ReferencePath) with $($existingCache.related.Count) items"
     }
+    
     $allFiles = Get-ChildItem -Path $LocalPath -Filter *.embedding.json
     $similarities = @()
     $count = $allFiles.Count
     $i = 0
     $lastPercent = -10
+    $recalculatedCount = 0
+    $preservedCount = 0
     foreach ($file in $allFiles) {
         $i++
         $progress = "[{0}/{1}]" -f $i, $count
         $percent = [math]::Round(($i / $count) * 100, 1)
-        if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
-            Write-InformationLog "  |-- $progress $percent% complete (Build-EmbeddingCache for $($hugoMarkdown.ReferencePath))"
-            $lastPercent = [math]::Floor($percent / 10) * 10
-        }
-        if ($file.Name -eq (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)) { continue }
-        $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
-        if ($embeddingData.embedding) {
-            $similarity = Get-EmbeddingCosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
-            $similarities += [PSCustomObject]@{
-                Title      = $embeddingData.title
-                Slug       = $embeddingData.slug
-                Reference  = $embeddingData.referencePath 
-                EntryId    = $embeddingData.entryId
-                EntryKind  = $embeddingData.entryKind
-                EntryType  = $embeddingData.entryType
-                EntryGenAt = $embeddingData.generatedAt
-                ResourceId = $embeddingData.ResourceId
-                Similarity = $similarity
+        
+        # Use Write-Progress when not in debug mode, otherwise use logging
+        if (Get-IsDebug) {
+            if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
+                Write-InformationLog "  |-- $progress $percent% complete (Build-EmbeddingCache for $($hugoMarkdown.ReferencePath))"
+                $lastPercent = [math]::Floor($percent / 10) * 10
             }
         }
-    }
-    $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
+        else {
+            Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id 1 
+        }
+        
+        if ($file.Name -eq (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)) { continue }
+        
+        $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
+        if ($embeddingData.embedding) {
+            $key = if ($embeddingData.entryId) { $embeddingData.entryId } else { $embeddingData.referencePath }
+            $existingItem = $existingRelatedLookup[$key]
+            
+            $needsRecalculation = $true
+            if ($existingItem -and $existingItem.EntryGenAt -and $embeddingData.generatedAt) {
+                # Compare timestamps - only recalculate if embedding is newer
+                $existingGenAt = [DateTime]::Parse($existingItem.EntryGenAt)
+                $embeddingGenAt = [DateTime]::Parse($embeddingData.generatedAt)
+                
+                if ($embeddingGenAt -le $existingGenAt) {
+                    # Preserve existing calculation
+                    $similarities += $existingItem
+                    $preservedCount++
+                    $needsRecalculation = $false
+                    Write-DebugLog "  |-- Preserving existing similarity for $($embeddingData.title) (embedding not newer)"
+                }
+            }
+            
+            if ($needsRecalculation) {
+                $similarity = Get-EmbeddingCosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
+                $similarities += [PSCustomObject]@{
+                    Title      = $embeddingData.title
+                    Slug       = $embeddingData.slug
+                    Reference  = $embeddingData.referencePath 
+                    EntryId    = $embeddingData.entryId
+                    EntryKind  = $embeddingData.entryKind
+                    EntryType  = $embeddingData.entryType
+                    EntryGenAt = $embeddingData.generatedAt
+                    Similarity = $similarity
+                }
+                $recalculatedCount++
+                Write-DebugLog "  |-- Recalculated similarity for $($embeddingData.title)"
+            }
+        }
+    }    $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $output = @{
         calculatedAt = (Get-Date).ToUniversalTime().ToString('o')
         related      = $topRelated
     }
     $output | ConvertTo-Json -Depth 10 | Set-Content $cachePath
-    Write-InformationLog "  |-- Saved to $cachePath"
+    Write-DebugLog "  |-- Saved to $cachePath (Recalculated: $recalculatedCount, Preserved: $preservedCount)"
+
+    # Clear progress bar when not in debug mode
+    if (-not (Get-IsDebug)) {
+        Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Completed -Id 1
+    }
 }
 
 function Get-RelatedItems {

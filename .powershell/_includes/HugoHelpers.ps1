@@ -484,7 +484,7 @@ function Get-HugoMarkdownSlug {
         return $hugoMarkdown.FrontMatter.slug
     }
     elseif ($hugoMarkdown.FrontMatter.title) {
-        return $hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-'
+        return ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-').ToLower()
     }
     else {
         Write-WarningLog "No slug or ResourceId found for HugoMarkdown: $($hugoMarkdown.FilePath)"
