@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: reduced-risk-increased-stability
+card:
+  button:
+    content: <p>Build Stable Systems</p>
+  title: Reduced Risk Increased Stability
+  content: <p>Transform unstable deployments into reliable, predictable releases through proven engineering practices that prevent failures before they happen.</p>
 ---
 
 ## Build Reliable Systems That Scale With Confidence

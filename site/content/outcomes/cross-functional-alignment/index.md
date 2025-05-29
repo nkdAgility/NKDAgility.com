@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: cross-functional-alignment
+card:
+  button:
+    content: <p>Align Your Teams</p>
+  title: Cross Functional Alignment
+  content: <p>Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.</p>
 ---
 
 ## Unite Your Organization Around Common Goals

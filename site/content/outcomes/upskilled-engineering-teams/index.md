@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: upskilled-engineering-teams
+card:
+  button:
+    content: <p>Upskill Your Teams</p>
+  title: Upskilled Engineering Teams
+  content: <p>Transform average engineers into exceptional performers through targeted skill development that drives measurable improvements in quality and velocity.</p>
 ---
 
 ## Elevate Your Engineering Capabilities

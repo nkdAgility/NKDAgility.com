@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: clarity-in-technology-roadmaps
+card:
+  button:
+    content: <p>Clarify Your Roadmap</p>
+  title: Clarity in Technology Roadmaps
+  content: <p>Eliminate confusion with strategic technology roadmaps that connect technical decisions to business outcomes and guide teams toward success.</p>
 ---
 
 ## Navigate Your Technology Future with Confidence

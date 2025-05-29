@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: technical-leadership
+card:
+  button:
+    content: <p>Develop Leaders</p>
+  title: Technical Leadership
+  content: <p>Cultivate technical leaders who combine deep expertise with human skills to guide teams, drive innovation, and deliver exceptional results.</p>
 ---
 
 ## Develop World-Class Technical Leaders

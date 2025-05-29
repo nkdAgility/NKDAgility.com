@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: culture-transformation-and-team-enablement
+card:
+  button:
+    content: <p>Transform Culture</p>
+  title: Culture Transformation and Team Enablement
+  content: <p>Evolve your organizational culture from command-and-control to empowered, adaptive teams that drive innovation and exceptional results.</p>
 ---
 
 ## Build a Culture Where Teams and Innovation Thrive

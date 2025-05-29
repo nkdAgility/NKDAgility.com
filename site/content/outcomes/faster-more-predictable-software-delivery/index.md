@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: faster-more-predictable-software-delivery
+card:
+  button:
+    content: <p>Accelerate Delivery Now</p>
+  title: Faster More Predictable Software Delivery
+  content: <p>Eliminate delivery bottlenecks and uncertainty with proven pipeline optimization that doubles velocity while maintaining quality standards.</p>
 ---
 
 ## Transform Your Delivery Pipeline

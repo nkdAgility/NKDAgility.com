@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: engineering-excellence
+card:
+  button:
+    content: <p>Achieve Excellence</p>
+  title: Engineering Excellence
+  content: <p>Elevate your engineering practices to world-class standards that deliver exceptional software quality, maintainability, and innovation.</p>
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards

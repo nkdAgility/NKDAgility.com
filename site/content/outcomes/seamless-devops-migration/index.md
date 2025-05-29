@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: seamless-devops-migration
+card:
+  button:
+    content: <p>Start DevOps Journey</p>
+  title: Seamless DevOps Migration
+  content: <p>Modernize your delivery pipeline without disrupting business operations through strategic migration that delivers value from day one.</p>
 ---
 
 ## Transform Your Delivery Capability Without Business Disruption

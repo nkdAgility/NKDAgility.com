@@ -8,6 +8,11 @@ sitemap:
   priority: 8.0
 type: outcomes
 slug: executive-and-stakeholder-buy-in
+card:
+  button:
+    content: <p>Secure Leadership Support</p>
+  title: Executive and Stakeholder Buy In
+  content: <p>Transform skeptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.</p>
 ---
 
 ## Transform Your Organization with Executive and Stakeholder Support
