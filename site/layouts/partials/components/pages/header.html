@@ -48,7 +48,12 @@
     <div class="col-xl-12 d-none d-xl-flex justify-content-end align-items-center">
       {{ $url := "" }}
       {{ if eq .Type "resources" }}
-        {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+        {{ if eq .Kind "section" }}
+          {{ $ResourceType := .Params.ResourceType | default "" }}
+          {{ $url = printf "https://nkdagility.com/resources/%s" $ResourceType }}
+        {{ else }}
+          {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+        {{ end }}
       {{ else }}
         {{ $url = printf "https://nkdagility.com%s" .RelPermalink }}
       {{ end }}
