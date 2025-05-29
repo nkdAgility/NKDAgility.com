@@ -2,8 +2,6 @@
 . ./.powershell/_includes/HugoHelpers.ps1
 . ./.powershell/_includes/AzureBlobHelpers.ps1
 
-Import-Module Az.Storage
-
 $containerName = "content-embeddings"
 $embeddingModel = "text-embedding-3-large"
 
@@ -13,74 +11,6 @@ function Get-EmbeddingResourceFileName {
     )
     return $HugoMarkdown.ReferencePath.Replace("\", "-").Replace("/", "-") + ".embedding.json"
 }
-
-# function Update-EmbeddingRepository {
-#     param (
-#         [array]$HugoMarkdownObjects,
-#         [string]$ContainerName = $containerName,
-#         [string]$LocalPath = "./.data/content-embeddings/",
-#         [string]$StorageAccountName = "nkdagilityblobs",
-#         [string]$SASToken = $Env:AZURE_BLOB_STORAGE_SAS_TOKEN
-#     )
-
-#     if (-not (Test-Path $LocalPath)) {
-#         Write-InformationLog "Creating local path: $LocalPath"
-#         New-Item -ItemType Directory -Path $LocalPath | Out-Null
-#     }
-#     # 1. Download all blobs to local cache
-#     Write-InformationLog "Syncing embeddings from Azure Blob to $LocalPath..."
-#     $parentPath = Split-Path $LocalPath -Parent
-#     azcopy copy "https://$StorageAccountName.blob.core.windows.net/$ContainerName`?$SASToken" "$parentPath" --recursive=true --overwrite=true
-
-#     # 2. Regenerate changed/expired items for each HugoMarkdown
-#     $count = $HugoMarkdownObjects.Count
-#     $i = 0
-#     $lastPercent = -10
-#     foreach ($hugoMarkdown in $HugoMarkdownObjects) {
-#         $i++
-#         $progress = "[{0}/{1}]" -f $i, $count
-#         $percent = [math]::Round(($i / $count) * 100, 1)
-#         if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
-#             Write-InformationLog "$progress $percent% complete"
-#             $lastPercent = [math]::Floor($percent / 10) * 10
-#         }
-
-#         $embeddingFile = Join-Path $LocalPath (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)
-#         $contentText = Get-Content -Path $hugoMarkdown.FilePath -Raw
-#         $contentHash = Get-ContentHash $contentText
-#         $needsUpdate = $true
-#         if (Test-Path $embeddingFile) {
-#             $embeddingData = Get-Content $embeddingFile | ConvertFrom-Json
-#             if ($embeddingData.contentHash -eq $contentHash) {
-#                 $needsUpdate = $false
-#             }
-#         }
-#         if ($needsUpdate) {
-#             Write-InformationLog "$progress Regenerating embedding for $($hugoMarkdown.ReferencePath) due to content change or missing embedding."
-#             $embedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
-#             $embeddingData = @{
-#                 title         = $hugoMarkdown.FrontMatter.title
-#                 slug          = $hugoMarkdown.FrontMatter.slug
-#                 resourceId    = $hugoMarkdown.FrontMatter.ResourceId
-#                 resourceType  = $hugoMarkdown.FrontMatter.resourceType
-#                 referencePath = $hugoMarkdown.ReferencePath
-#                 generatedAt   = (Get-Date).ToUniversalTime()
-#                 contentHash   = $contentHash
-#                 embedding     = $embedding
-#             }
-            
-#             $embeddingData | ConvertTo-Json -Depth 10 | Set-Content $embeddingFile
-#         }
-#         else {
-#             Write-DebugLog "$progress Skipping embedding for $($hugoMarkdown.FrontMatter.title) (no change)."
-#         }
-#     }
-
-#     # 3. Sync local changes back to blob
-#     Write-InformationLog "Syncing updated embeddings back to Azure Blob..."
-#     azcopy sync "$LocalPath" "https://$StorageAccountName.blob.core.windows.net/$ContainerName`?$SASToken" --recursive=true
-# }
-
 function Update-EmbeddingRepository2 {
     param (
         [array]$HugoMarkdownObjects,
@@ -116,14 +46,21 @@ function Update-EmbeddingRepository2 {
         Write-DebugLog "Updating Embedding Repository complete."
     }
 }
-
 function Get-EmbeddingCosineSimilarityFromHugoMarkdown {
     param (
         [HugoMarkdown]$Source,
         [HugoMarkdown]$Target
     )
     $sourceEmbedding = Get-EmbeddingFromHugoMarkdown -HugoMarkdown $Source
+    if (-not $sourceEmbedding) {
+        Write-WarningLog "Source embedding not found for $($Source.ReferencePath)"
+        return 0
+    }
     $targetEmbedding = Get-EmbeddingFromHugoMarkdown -HugoMarkdown $Target
+    if (-not $targetEmbedding) {
+        Write-WarningLog "Target embedding not found for $($Target.ReferencePath)"
+        return 0
+    }
     return Get-EmbeddingCosineSimilarity -VectorA $sourceEmbedding -VectorB $targetEmbedding
 }
 
@@ -193,6 +130,11 @@ function Get-EmbeddingFromHugoMarkdown {
     # 3. Generate embedding and upload
     $contentText = Get-Content -Path $HugoMarkdown.FilePath -Raw
     $contentHash = Get-ContentHash $contentText
+    $tokens = Get-TokenCountFromServer -Content $contentText
+    if ($tokens -gt 8192) {
+        Write-WarningLog "Content exceeds token limit: $($HugoMarkdown.ReferencePath) - $tokens tokens"
+        return $null
+    }
     $embedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
     $embeddingData = @{
         title         = $HugoMarkdown.FrontMatter.title
