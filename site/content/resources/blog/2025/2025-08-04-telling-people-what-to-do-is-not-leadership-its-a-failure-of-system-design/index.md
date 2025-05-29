@@ -89,7 +89,7 @@ This is the ethos behind Scrum, Kanban, and DevOps:
 
 Together, they form a coherent strategy for managing systems of work without resorting to micromanagement. When teams understand their constraints, have the tools to respond to change, and are accountable for outcomes, not just activity, they no longer need to be told what to do.
 
-Speed is not the goal, but it is a critical capability. In a competitive environment, reducing time-to-market isn’t just about efficiency—it’s how organisations learn faster, respond sooner, and stay ahead of disruption.
+Speed is not the goal, but it is a critical capability. In a competitive environment, reducing time-to-market isn’t just about efficiency—it’s how organisations learn faster, respond sooner, and stay ahead of disruption. For a deeper dive into why frequent delivery is a competitive advantage, read [There Is No Place Like Production]({{< ref "/resources/blog/2020/2020-12-28-there-is-no-place-like-production" >}}).
 
 ## Telling People What to Do is an Expensive Workaround
 
