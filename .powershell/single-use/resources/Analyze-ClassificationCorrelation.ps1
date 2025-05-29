@@ -72,20 +72,22 @@ function Get-ClassificationDataForAnalysis {
                         # Get data from lookups
                         $similarity = if ($similarityLookup.ContainsKey($classificationName)) { 
                             $similarityLookup[$classificationName] 
-                        } else { 0.0 }
+                        }
+                        else { 0.0 }
                         
                         $classificationType = if ($typeLookup.ContainsKey($classificationName)) { 
                             $typeLookup[$classificationName] 
-                        } else { 'unknown' }
+                        }
+                        else { 'unknown' }
                         
                         $allData += [PSCustomObject]@{
-                            Title = $classificationName
-                            Type = $classificationType
-                            Similarity = $similarity
-                            final_score = $classificationData.final_score
+                            Title             = $classificationName
+                            Type              = $classificationType
+                            Similarity        = $similarity
+                            final_score       = $classificationData.final_score
                             HasSimilarityData = $similarity -gt 0
-                            SimilarityBucket = [Math]::Floor($similarity * 10) / 10  # Round to nearest 0.1
-                            ScoreBucket = [Math]::Floor($classificationData.final_score / 10) * 10  # Round to nearest 10
+                            SimilarityBucket  = [Math]::Floor($similarity * 10) / 10  # Round to nearest 0.1
+                            ScoreBucket       = [Math]::Floor($classificationData.final_score / 10) * 10  # Round to nearest 10
                         }
                     }
                 }
@@ -157,9 +159,9 @@ function Show-CorrelationAnalysis {
     Write-Host "  Pearson Correlation: $($correlation.ToString('F4'))" -ForegroundColor White
     
     $correlationStrength = if ([Math]::Abs($correlation) -gt 0.7) { "Strong" }
-                          elseif ([Math]::Abs($correlation) -gt 0.5) { "Moderate" }
-                          elseif ([Math]::Abs($correlation) -gt 0.3) { "Weak" }
-                          else { "Very Weak" }
+    elseif ([Math]::Abs($correlation) -gt 0.5) { "Moderate" }
+    elseif ([Math]::Abs($correlation) -gt 0.3) { "Weak" }
+    else { "Very Weak" }
     
     Write-Host "  Strength: $correlationStrength" -ForegroundColor $(if ($correlationStrength -in @("Strong", "Moderate")) { "Green" } else { "Yellow" })
     
@@ -200,11 +202,13 @@ function Show-ThresholdAnalysis {
         
         $percentKept = if ($dataWithSimilarity.Count -gt 0) { 
             [Math]::Round(($aboveThreshold.Count / $dataWithSimilarity.Count) * 100, 1) 
-        } else { 0 }
+        }
+        else { 0 }
         
         $percentSaved = if ($dataWithSimilarity.Count -gt 0) { 
             [Math]::Round((100 - $percentKept), 1) 
-        } else { 0 }
+        }
+        else { 0 }
         
         Write-Host "`n  Similarity ≥ $($threshold.ToString('F1')):" -ForegroundColor Yellow
         Write-Host "    Keep: $($aboveThreshold.Count) items ($percentKept%)" -ForegroundColor White
@@ -318,8 +322,8 @@ function Show-QualityZoneAnalysis {
     # Define quality zones
     $zones = @{
         "High Quality (final_score ≥ 80)" = $dataWithSimilarity | Where-Object { $_.final_score -ge 80 }
-        "Medium Quality (50-79)" = $dataWithSimilarity | Where-Object { $_.final_score -ge 50 -and $_.final_score -lt 80 }
-        "Low Quality (< 50)" = $dataWithSimilarity | Where-Object { $_.final_score -lt 50 }
+        "Medium Quality (50-79)"          = $dataWithSimilarity | Where-Object { $_.final_score -ge 50 -and $_.final_score -lt 80 }
+        "Low Quality (< 50)"              = $dataWithSimilarity | Where-Object { $_.final_score -lt 50 }
     }
     
     foreach ($zoneName in $zones.Keys) {
@@ -424,12 +428,13 @@ function Show-ScatterPlotText {
     foreach ($point in $dataWithSimilarity) {
         $x = [Math]::Min([Math]::Floor($point.Similarity * ($gridWidth - 1)), $gridWidth - 1)
         $y = [Math]::Min([Math]::Floor((100 - $point.final_score) / 100 * ($gridHeight - 1)), $gridHeight - 1)
-          if ($x -ge 0 -and $x -lt $gridWidth -and $y -ge 0 -and $y -lt $gridHeight) {
+        if ($x -ge 0 -and $x -lt $gridWidth -and $y -ge 0 -and $y -lt $gridHeight) {
             $grid[$y, $x]++
             # Track quality for color coding
             if ($qualityGrid[$y, $x] -eq 0) {
                 $qualityGrid[$y, $x] = $point.final_score
-            } else {
+            }
+            else {
                 $qualityGrid[$y, $x] = ($qualityGrid[$y, $x] + $point.final_score) / 2
             }
         }
@@ -441,21 +446,22 @@ function Show-ScatterPlotText {
             $scoreLabel = [Math]::Round(100 - ($y / ($gridHeight - 1)) * 100)
             Write-Host ("{0,3} |" -f $scoreLabel) -NoNewline -ForegroundColor Gray
         }
-          for ($x = 0; $x -lt $gridWidth; $x++) {
+        for ($x = 0; $x -lt $gridWidth; $x++) {
             $count = $grid[$y, $x]
             $avgQuality = $qualityGrid[$y, $x]
             
             if ($count -eq 0) {
                 Write-Host " " -NoNewline -ForegroundColor Gray
-            } else {
+            }
+            else {
                 $symbol = if ($count -eq 1) { "." }
-                         elseif ($count -le 3) { "o" }
-                         elseif ($count -le 5) { "O" }
-                         else { "@" }
+                elseif ($count -le 3) { "o" }
+                elseif ($count -le 5) { "O" }
+                else { "@" }
                 
                 $color = if ($avgQuality -ge 80) { "Green" }
-                        elseif ($avgQuality -ge 50) { "Yellow" }
-                        else { "Red" }
+                elseif ($avgQuality -ge 50) { "Yellow" }
+                else { "Red" }
                 
                 Write-Host $symbol -NoNewline -ForegroundColor $color
             }
@@ -508,7 +514,8 @@ function Show-OptimizationRecommendations {
         $savings = ($dataWithSimilarity | Where-Object { $_.Similarity -lt $bestThreshold }).Count / $dataWithSimilarity.Count
         Write-Host "  4. Expected cost savings: $([Math]::Round($savings * 100, 1))%" -ForegroundColor Green
         
-    } elseif ([Math]::Abs($Correlation) -gt 0.5) {
+    }
+    elseif ([Math]::Abs($Correlation) -gt 0.5) {
         Write-Host "✓ MODERATE CORRELATION: Similarity can help reduce costs" -ForegroundColor Yellow
         
         Write-Host "`nRecommended Strategy:" -ForegroundColor Yellow
@@ -517,7 +524,8 @@ function Show-OptimizationRecommendations {
         Write-Host "  3. Sample items below threshold for validation" -ForegroundColor White
         Write-Host "  4. Monitor false negative rate closely" -ForegroundColor White
         
-    } elseif ([Math]::Abs($Correlation) -gt 0.3) {
+    }
+    elseif ([Math]::Abs($Correlation) -gt 0.3) {
         Write-Host "⚠ WEAK CORRELATION: Limited cost optimization potential" -ForegroundColor Yellow
         
         Write-Host "`nRecommended Strategy:" -ForegroundColor Yellow
@@ -526,7 +534,8 @@ function Show-OptimizationRecommendations {
         Write-Host "  3. Focus on improving similarity algorithm" -ForegroundColor White
         Write-Host "  4. Consider other pre-filtering features" -ForegroundColor White
         
-    } else {
+    }
+    else {
         Write-Host "❌ VERY WEAK CORRELATION: Do not use Similarity as pre-filter" -ForegroundColor Red
         
         Write-Host "`nRecommended Strategy:" -ForegroundColor Yellow
@@ -615,7 +624,8 @@ function Show-TypeSpecificRecommendations {
         
         if ([Math]::Abs($correlation) -gt 0.5) {
             Write-Host "    Recommendation: Good candidate for similarity pre-filtering" -ForegroundColor Green
-        } else {
+        }
+        else {
             Write-Host "    Recommendation: Use with caution or avoid pre-filtering" -ForegroundColor Yellow
         }
     }
@@ -690,7 +700,7 @@ function Invoke-ClassificationCorrelationAnalysis {
         
         [Parameter(Mandatory = $false)]
         [switch]$DetailedVisualization,
-          [Parameter(Mandatory = $false)]
+        [Parameter(Mandatory = $false)]
         [switch]$ShowRecommendations
     )
     
@@ -723,10 +733,11 @@ function Invoke-ClassificationCorrelationAnalysis {
     # Show visualizations
     if ($DetailedVisualization) {
         Show-DetailedVisualization -Data $analysisData
-    } else {
+    }
+    else {
         Show-ScatterPlotText -Data $analysisData
     }
-      # Show recommendations (default to true unless explicitly disabled)
+    # Show recommendations (default to true unless explicitly disabled)
     if ($ShowRecommendations -or -not $PSBoundParameters.ContainsKey('ShowRecommendations')) {
         Show-OptimizationRecommendations -Data $analysisData -Correlation $correlation
     }

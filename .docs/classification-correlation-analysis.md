@@ -42,6 +42,7 @@ This is the main correlation analysis script that provides comprehensive analysi
 **Location:** `.powershell/single-use/resources/Get-RelatedForResource.ps1`
 
 Contains the enhanced `Get-MatchingClassificationsForResource` function that:
+
 - Groups classification results by type (concepts, categories, tags)
 - Includes classification type information in output
 - Applies TopN limits per classification type group
@@ -73,11 +74,13 @@ Invoke-ClassificationCorrelationAnalysis -MarkdownPath "path/to/resource.md" -Ex
 ## Analysis Components
 
 ### 1. Correlation Analysis
+
 - Calculates Pearson correlation coefficient between Similarity and final_score
 - Determines correlation strength (Strong: >0.7, Moderate: 0.5-0.7, Weak: 0.3-0.5, Very Weak: <0.3)
 - Provides basic statistics for both metrics
 
 ### 2. Threshold Analysis
+
 - Tests different similarity thresholds (0.0 to 0.9)
 - Shows potential cost savings at each threshold
 - Identifies high-value items that would be missed
@@ -86,31 +89,37 @@ Invoke-ClassificationCorrelationAnalysis -MarkdownPath "path/to/resource.md" -Ex
 ### 3. Visualization Components
 
 #### Scatter Plot (Text-Based)
+
 - Visual representation of Similarity vs final_score relationship
 - Color-coded by quality level (Green: ≥80, Yellow: 50-79, Red: <50)
 - Symbol density indicates data point concentration
 
 #### Distribution Analysis
+
 - Histogram of Similarity score distribution
 - Histogram of final_score distribution
 - Helps identify data patterns and outliers
 
 #### Quality Zone Analysis
+
 - Breaks data into High (≥80), Medium (50-79), and Low (<50) quality zones
 - Shows similarity patterns within each quality zone
 - Provides percentile analysis for threshold selection
 
 ### 4. Prediction Accuracy Testing
+
 - Tests how well similarity thresholds predict high-quality classifications
 - Calculates precision, recall, and accuracy metrics
 - Provides confusion matrix analysis for different thresholds
 
 ### 5. Type-Specific Analysis
+
 - Analyzes correlation patterns for different classification types
 - Provides type-specific recommendations
 - Identifies which types benefit most from similarity pre-filtering
 
 ### 6. Optimization Recommendations
+
 - Provides actionable recommendations based on correlation strength
 - Suggests optimal thresholds for cost optimization
 - Estimates potential cost savings and quality impact
@@ -118,12 +127,16 @@ Invoke-ClassificationCorrelationAnalysis -MarkdownPath "path/to/resource.md" -Ex
 ## Output Files
 
 ### CSV Exports
+
 All CSV files are automatically saved to `.data/classification-correlation/analysis/csv/` with naming pattern:
+
 - `{resource-name}_correlation_analysis.csv` - Individual resource analysis
 - `correlation_analysis_results.csv` - Aggregated results
 
 ### CSV Structure
+
 Each CSV contains the following columns:
+
 - `Title` - Classification name
 - `Type` - Classification type (concepts/categories/tags)
 - `Similarity` - Similarity score (0.0-1.0)
@@ -137,16 +150,19 @@ Each CSV contains the following columns:
 Based on analysis of the "why-topic-branches-drive-high-quality-delivery" resource:
 
 ### Overall Correlation: 0.4350 (Weak)
+
 - **Total Classifications:** 103
 - **With Similarity Data:** 61
 - **Recommendation:** Use conservative thresholds or avoid pre-filtering
 
 ### Type-Specific Correlations:
+
 - **Categories:** 0.787 (STRONG) - Excellent for pre-filtering
-- **Tags:** 0.540 (MODERATE) - Use with caution  
+- **Tags:** 0.540 (MODERATE) - Use with caution
 - **Concepts:** -0.103 (NEGATIVE) - Avoid pre-filtering
 
 ### Cost Optimization Potential:
+
 - Using 0.5 similarity threshold: 10.7% cost savings
 - High-value items missed: Minimal (2 items)
 - Recommended strategy: Type-specific thresholds
@@ -184,7 +200,9 @@ Based on analysis of the "why-topic-branches-drive-high-quality-delivery" resour
 The analysis requires two cache files in each resource directory:
 
 ### data.index.related.json
+
 Contains similarity scores and classification types:
+
 ```json
 {
   "related": [
@@ -199,7 +217,9 @@ Contains similarity scores and classification types:
 ```
 
 ### data.index.classifications.json
+
 Contains AI final scores:
+
 ```json
 {
   "Classification Name": {
