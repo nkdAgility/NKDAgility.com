@@ -474,6 +474,22 @@ function Get-RecentHugoMarkdownResources {
     return $filtered
 }
 
+function Get-HugoMarkdownSlug {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown
+    )
 
+    if ($hugoMarkdown.FrontMatter.slug) {
+        return $hugoMarkdown.FrontMatter.slug
+    }
+    elseif ($hugoMarkdown.FrontMatter.title) {
+        return $hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-'
+    }
+    else {
+        Write-WarningLog "No slug or ResourceId found for HugoMarkdown: $($hugoMarkdown.FilePath)"
+        return $null
+    }
+}
 
 Write-InfoLog "HugoHelpers.ps1 loaded"

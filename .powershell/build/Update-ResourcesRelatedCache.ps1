@@ -75,7 +75,7 @@ function Build-ResourceRelatedCache {
         [string]$LocalPath = "./.data/content-embeddings/",
         [int]$TopN = 5000
     )
-    $targetEmbeddingFile = Join-Path $LocalPath ("$($hugoMarkdown.FrontMatter.slug).embedding.json")
+    $targetEmbeddingFile = Join-Path $LocalPath (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)
     if (-not (Test-Path $targetEmbeddingFile)) { return }
     $targetEmbeddingData = Get-Content $targetEmbeddingFile | ConvertFrom-Json
     $targetEmbedding = $targetEmbeddingData.embedding
@@ -97,17 +97,20 @@ function Build-ResourceRelatedCache {
             Write-InformationLog "  |-- $progress $percent% complete (Build-EmbeddingCache for $($hugoMarkdown.ReferencePath))"
             $lastPercent = [math]::Floor($percent / 10) * 10
         }
-        if ($file.Name -eq "$($hugoMarkdown.FrontMatter.slug).embedding.json") { continue }
+        if ($file.Name -eq (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)) { continue }
         $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
         if ($embeddingData.embedding) {
             $similarity = Get-EmbeddingCosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
             $similarities += [PSCustomObject]@{
-                Title        = $embeddingData.title
-                Slug         = $embeddingData.slug
-                Reference    = $embeddingData.referencePath
-                ResourceType = $embeddingData.resourceType
-                ResourceId   = $embeddingData.ResourceId
-                Similarity   = $similarity
+                Title      = $embeddingData.title
+                Slug       = $embeddingData.slug
+                Reference  = $embeddingData.referencePath 
+                EntryId    = $embeddingData.entryId
+                EntryKind  = $embeddingData.entryKind
+                EntryType  = $embeddingData.entryType
+                EntryGenAt = $embeddingData.generatedAt
+                ResourceId = $embeddingData.ResourceId
+                Similarity = $similarity
             }
         }
     }
@@ -140,8 +143,12 @@ function Get-RelatedItems {
 
 Start-TokenServer
 #$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
-
-#Build-ResourcesRelatedCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/"
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 20
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags\" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 10
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 10
+#Update-EmbeddingRepository2 -HugoMarkdownObjects $hugoMarkdownObjects
+Build-ResourcesRelatedCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/"
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 

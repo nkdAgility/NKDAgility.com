@@ -1,6 +1,8 @@
 . ./.powershell/_includes/LoggingHelper.ps1
 . ./.powershell/_includes/HugoHelpers.ps1
 . ./.powershell/_includes/AzureBlobHelpers.ps1
+. ./.powershell/_includes/TokenServer.ps1
+. ./.powershell/_includes/OpenAI.ps1
 
 $containerName = "content-embeddings"
 $embeddingModel = "text-embedding-3-large"
@@ -136,11 +138,33 @@ function Get-EmbeddingFromHugoMarkdown {
         return $null
     }
     $embedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
+    if (-not $embedding) {
+        Write-WarningLog "Failed to generate embedding for $($HugoMarkdown.ReferencePath)"
+        return $null
+    }
+    $entryType = "unknown"
+    $entryKind = "unknown"
+    $entryId = "unknown"
+    If ($HugoMarkdown.FrontMatter.resourceType) {
+        $entryKind = "resource"
+        $entryType = $HugoMarkdown.FrontMatter.resourceType
+        $entryId = $HugoMarkdown.FrontMatter.ResourceId
+    }
+    If ($HugoMarkdown.FrontMatter.ClassificationType) {
+        $entryKind = "classification"
+        $entryType = $HugoMarkdown.FrontMatter.ClassificationType
+        $entryId = Get-HugoMarkdownSlug -hugoMarkdown $HugoMarkdown
+    }
+    if ($entryType -eq "unknown") {
+        Write-WarningLog "Unknown entry type for $($HugoMarkdown.ReferencePath)"
+    }
+
     $embeddingData = @{
         title         = $HugoMarkdown.FrontMatter.title
-        slug          = $HugoMarkdown.FrontMatter.slug
-        resourceId    = $HugoMarkdown.FrontMatter.ResourceId
-        resourceType  = $HugoMarkdown.FrontMatter.resourceType
+        slug          = Get-HugoMarkdownSlug -hugoMarkdown $HugoMarkdown
+        entryKind     = $entryKind
+        entryId       = $entryId
+        entryType     = $entryType
         referencePath = $HugoMarkdown.ReferencePath
         generatedAt   = (Get-Date).ToUniversalTime()
         contentHash   = $contentHash
@@ -153,7 +177,7 @@ function Get-EmbeddingFromHugoMarkdown {
 
 if ($RefreshEmbeddingRepository -eq $true) {
     $levelSwitch.MinimumLevel = 'Information'
-
+    Start-TokenServer
     Write-DebugLog "--------------------------------------------------------"
     Write-DebugLog "--------------------------------------------------------"
     $hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 20
@@ -166,9 +190,11 @@ if ($RefreshEmbeddingRepository -eq $true) {
     $hugoMarkdownObjects = $null;
     Write-DebugLog "--------------------------------------------------------"
     Write-DebugLog "--------------------------------------------------------"
+    Write-InformationLog "Embedding repository update completed."
    
 }
 else {
     Write-Host "Skipping embedding repository update as RefreshEmbeddingRepository is set to false."
 }
 
+ 
