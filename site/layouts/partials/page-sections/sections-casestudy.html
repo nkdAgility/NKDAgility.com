@@ -1,0 +1,64 @@
+{{/* CaseStudy Section - Displays a list of results/achievements with icons and a call-to-action
+
+  Expected section structure in frontmatter:
+  - type: "casestudy"
+  title: "Section Title"
+  list:
+  - icon: "fa-icon-name"
+  content: |
+  Result or achievement description
+  - icon: "fa-another-icon"
+  content: |
+  Another result description
+  cta:
+  content: "Call to action text"
+  button:
+  text: "Button Text"
+  url: "/link-url"
+
+  Parameters:
+  - site: Hugo site object
+  - page: Current page object
+  - context: Section configuration object
+*/}}
+
+{{- $site := .site }}
+{{- $page := .page }}
+{{- $section := .context }}
+
+
+<div class="casestudy-section">
+  {{- if $section.list }}
+    <div class="casestudy-list">
+      {{- range $index, $item := $section.list }}
+        <div class="casestudy-item d-flex">
+          {{- if $item.icon }}
+            <div class="casestudy-icon me-2">
+              <i class="fas {{ $item.icon }}"></i>
+            </div>
+          {{- end }}
+
+          {{- if $item.content }}
+            <div class="casestudy-content">
+              {{ $item.content | markdownify }}
+            </div>
+          {{- end }}
+        </div>
+      {{- end }}
+    </div>
+  {{- end }}
+
+  {{- if $section.cta }}
+    <div class="casestudy-cta text-center">
+      {{- if $section.cta.content }}
+        <p class="casestudy-cta-text mb-3">{{ $section.cta.content | markdownify }}</p>
+      {{- end }}
+
+      {{- if $section.cta.button }}
+        <a href="{{ $section.cta.button.url | default "#" }}" class="btn btn-nkdagility-primary btn-lg outcome-hero-button">
+          {{ $section.cta.button.text | default "Learn More" }}
+        </a>
+      {{- end }}
+    </div>
+  {{- end }}
+</div>

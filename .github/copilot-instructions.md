@@ -5,6 +5,7 @@ This repository contains the NKDAgility website built with Hugo. Here's what you
 ## Repository Structure
 
 - `site/` - The main Hugo website directory
+
   - `content/` - All website content in Markdown format
   - `layouts/` - Hugo templates
   - `static/` - Static assets (images, CSS, JS, etc.)
@@ -22,16 +23,19 @@ This repository contains the NKDAgility website built with Hugo. Here's what you
 ### Prerequisites
 
 1. Install Hugo Extended version
+
    ```
    winget install hugo
    ```
 
 2. Install Static Web Apps CLI
+
    ```
    npm install -g @azure/static-web-apps-cli
    ```
 
 3. Install Azure Functions Core Tools
+
    ```
    npm i -g azure-functions-core-tools@4 --unsafe-perm true
    ```
@@ -46,15 +50,19 @@ This repository contains the NKDAgility website built with Hugo. Here's what you
 ### Running the Website Locally
 
 1. Clone the repository
+
    ```
    git clone https://github.com/nkdAgility/NKDAgility.com.git
    cd NKDAgility.com
    ```
 
 2. Start the Hugo development server
+
    ```
    hugo server --source site --config hugo.yaml,hugo.local.yaml
    ```
+
+   Note, the build can take more than 30 seconds to run.
 
 3. View the site at http://localhost:1313
 
@@ -65,6 +73,8 @@ To build the site for production or other environments:
 ```
 hugo build --source site --config hugo.yaml,hugo.local.yaml
 ```
+
+Note, the build can take more than 30 seconds to run.
 
 This is the typical command used from the root of the repo. For different environments, replace `hugo.local.yaml` with the appropriate config file (`hugo.preview.yaml`, `hugo.production.yaml`, etc.).
 
@@ -79,11 +89,13 @@ hugo build --source .\site --config hugo.yaml,hugo.local.yaml
 If you need to work with the Azure Functions:
 
 1. Navigate to the functions directory
+
    ```
    cd functions
    ```
 
 2. Start the Azure Functions runtime
+
    ```
    func start
    ```

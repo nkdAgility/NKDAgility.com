@@ -1,8 +1,7 @@
 ---
 title: "Engineering Excellence"
 description: "Build high-quality software systems through advanced engineering practices that enhance reliability, maintainability, and technical innovation."
-date: 2025-04-28
-draft: true
+date: 2025-05-30T09:00:00Z
 trustpilot: false
 creator: Martin Hinshelwood
 sitemap:
@@ -90,6 +89,75 @@ sections:
     type: content
     content: |
       Developers stop blaming process. They own it - and drive outcomes.
+  - type: outcomeboxes
+    title: Engineering Excellence ensures
+    boxes:
+      - box:
+        content:
+        items:
+          - title: Standardise development practices
+          - title: Implement CI/CD, IaC, test automation
+          - title: Eliminate waste and drive continuous delivery
+          - title: Build a learning scalable tech culture
+          - title: Reduce release failure rates
+      - box:
+        content:
+        items:
+          - title: Reclaim trust in your engineering culture
+          - title: Reduce stress from firefighting releases
+          - title: Feel pride in your product, not dread
+          - title: Empower your teams to innovate without fear
+          - title: Avoid burnout by building systems that work
+      - box:
+        content:
+        items:
+          - title: Lead high-performing delivery teams
+          - title: Mentor engineering managers and architects
+          - title: Align business and technical teams on delivery
+          - title: Represent your org as a hub of technical excellence
+          - title: Advocate for tech investments with credibility
+  - title: Results From the Field
+    type: casestudy
+    list:
+      - icon: fa-shield-check
+        content: |
+          50% reduction in release failures within 3 months
+      - icon: fa-shield-check
+        content: |
+          2x increase in team velocity after adopting CI/CD + test automation
+      - icon: fa-shield-check
+        content: |
+          Engineering morale and retention improved in 90 days
+    cta:
+      content: "Want the numbers?"
+      button:
+        text: "Read the Case Study"
+        url: "/contact"
+  - title: Why NKDAgility?
+    type: textNlist
+    list:
+      - icon: fa-award
+        content: |
+          From chaos to clarity
+      - icon: fa-award
+        content: |
+          From technical debt to predictability
+      - icon: fa-award
+        content: |
+          From overwhelmed to in control
+    sideContent: |
+      We don't just drop in DevOps tools and disapear.
+
+      We build excelance into your engineering DNA.
+
+      Backed by Martin Hinshelwood's Microsoft MVP status and deep DevOps expertese, NKD Agility delivers real world transformations - not theory.
+  - type: sectioncta
+    backgroundColor: primary
+    cta:
+      content: "We've helped teams like yours. Lets talk."
+      button:
+        text: "Schedule a call"
+        url: "/book"
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards
