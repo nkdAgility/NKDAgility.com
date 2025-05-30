@@ -342,10 +342,6 @@ img {
   display: block; /* Removes any inline-block gap */
 }
 
-.text-bg-nkdagility-primary {
-  background-color: var(--primary-color);
-}
-
 /* BLOCKQUOTE */
 
 blockquote {
@@ -426,11 +422,6 @@ blockquote cite {
 [data-theme="dark"] a:not(.btn):not(.navbar-brand):not(.nav-link) {
   color: whitesmoke;
 }
-
-/* Make links white in dark mode for better visibility */
-/* [data-theme="light"] a:not(.btn):not(.navbar-brand):not(.nav-link) {
-  color: var(--accent-color);
-} */
 
 /* Card footer specific styling */
 .card-footer {
@@ -739,3 +730,125 @@ html {
   background-color: rgba(255, 255, 255, 0.1);
   color: var(--accent-color-light);
 }
+
+/* OutcomeHero Section Styles */
+.outcome-hero-section {
+  margin: 2rem 0;
+}
+
+.outcome-hero-box {
+  border-radius: 0px;
+  min-height: 200px;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.outcome-hero-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.outcome-hero-box-primary {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.outcome-hero-box-accent {
+  background-color: var(--light-accent-color-alt);
+  color: var(--text-color);
+}
+
+.outcome-hero-box-light {
+  background-color: #fbf3fe;
+  color: var(--text-color);
+}
+
+/* Dark mode adjustments for OutcomeHero boxes */
+[data-theme="dark"] .outcome-hero-box-accent {
+  background-color: var(--accent-color-alt);
+  color: var(--dark-text-color);
+}
+
+[data-theme="dark"] .outcome-hero-box-light {
+  background-color: #2d2436;
+  color: var(--dark-text-color);
+}
+
+.outcome-hero-text {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.outcome-hero-text strong {
+  color: var(--primary-color-heading);
+}
+
+.outcome-hero-cta {
+  margin-top: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.outcome-hero-cta-text {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 0;
+  flex: 1;
+}
+
+.outcome-hero-button {
+  padding: 12px 30px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  background-color: transparent !important;
+  color: var(--primary-color-heading) !important;
+  border: 2px solid var(--primary-color-heading) !important;
+  flex-shrink: 0;
+}
+
+.outcome-hero-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  background-color: var(--primary-color-heading) !important;
+  color: white !important;
+}
+
+/* Responsive adjustments for OutcomeHero */
+@media (max-width: 768px) {
+  .outcome-hero-box {
+    min-height: 160px;
+    margin-bottom: 1rem;
+  }
+
+  .outcome-hero-cta {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+  }
+
+  .outcome-hero-text {
+    font-size: 1.2rem;
+  }
+
+  .outcome-hero-cta-text {
+    font-size: 1.3rem;
+  }
+
+  .outcome-hero-button {
+    padding: 10px 25px;
+    font-size: 1rem;
+  }
+}
+
+/* End OutcomeHero Section Styles */

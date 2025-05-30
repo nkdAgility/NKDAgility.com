@@ -2,6 +2,7 @@
 title: "Engineering Excellence"
 description: "Build high-quality software systems through advanced engineering practices that enhance reliability, maintainability, and technical innovation."
 date: 2025-04-28
+trustpilot: false
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
@@ -10,9 +11,30 @@ type: outcomes
 slug: engineering-excellence
 card:
   button:
-    content: <p>Achieve Excellence</p>
+    content: Achieve Excellence
   title: Engineering Excellence
-  content: <p>Elevate your engineering practices to world-class standards that deliver exceptional software quality, maintainability, and innovation.</p>
+  content: Elevate your engineering practices to world-class standards that deliver exceptional software quality, maintainability, and innovation.
+headline:
+  cards: []
+  title: From Tech Debt to World-Class Delivery
+  content: "Most CTOs aren’t struggling with ideas. They’re drowning in execution debt — inconsistent delivery, brittle pipelines, burned-out teams, and quality failures that slip into production."
+sections:
+  - content: |
+      **NKD Agility transforms your software organization from the inside out.** With a proven system of Agile engineering, DevOps mastery, and modern architecture — we help you build delivery machines, not tech traps.
+    type: content
+  - type: outcomehero
+    cta:
+      content: "We've helped leaders like you. **Let's Talk.**"
+      button:
+        text: "Get Started Now"
+        url: "/contact"
+    boxes:
+      - content: |
+          Are you a CTO burried under tech debt with no clear way forward?
+      - content: |
+          Are you a VP of Engineering tired of chasing broken delivery cycles?
+      - content: |
+          Are you a Founder ready to scale but lack confidence in your codebase?
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards

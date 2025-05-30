@@ -1,0 +1,52 @@
+{{/* Section Router - Routes section types to their respective templates
+
+  This centralizes the conditional logic for section type rendering,
+  making it easier to add new section types and maintain consistency.
+
+  Parameters:
+  - site: Hugo site object
+  - page: Current page object
+  - section: Section configuration object
+*/}}
+
+{{- $site := .site }}
+{{- $page := .page }}
+{{- $section := .section }}
+
+{{/* Define section type routing */}}
+{{- $sectionTypes := dict
+  "features"    "page-sections/sections-features.html"
+  "courses"     "page-sections/sections-courses.html"
+  "taxonomies"  "page-sections/sections-taxonomies.html"
+  "phases"      "page-sections/sections-phases.html"
+  "options"     "page-sections/sections-consulting-options.html"
+  "types"       "page-sections/sections-types.html"
+  "otherpages"  "page-sections/sections-otherpages.html"
+  "trustpilot"  "page-sections/sections-trustpilot.html"
+  "videos"      "page-sections/sections-videos.html"
+  "cards"       "page-sections/sections-cards.html"
+  "counters"    "page-sections/sections-counters.html"
+  "outcomehero" "page-sections/sections-outcomehero.html"
+}}
+
+{{/* Handle special case section types */}}
+{{- if eq $section.type "none" }}
+  {{/* Intentionally empty - no content rendered */}}
+{{- else if eq $section.type "content" }}
+  {{/* Content type only renders title (already handled by section-header.html) - no additional content */}}
+{{- else if index $sectionTypes $section.type }}
+  {{/* Render known section type */}}
+  {{- $template := index $sectionTypes $section.type }}
+  {{- $context := dict "site" $site "page" $page "context" $section }}
+  {{/* Some templates use different parameter names for backward compatibility */}}
+  {{- if in (slice "features" "options") $section.type }}
+    {{- $context = dict "Page" $page "site" $site "context" $section }}
+  {{- else if in (slice "courses" "videos" "cards" "counters") $section.type }}
+    {{- $context = dict "site" $site "context" $section }}
+  {{- end }}
+
+  {{- partial $template $context }}
+{{- else }}
+  {{/* Default fallback for unknown section types */}}
+  {{- partial "page-sections/section-unknown.html" (dict "section" $section) }}
+{{- end }}

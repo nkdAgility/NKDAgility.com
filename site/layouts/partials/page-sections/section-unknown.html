@@ -1,0 +1,25 @@
+{{/* Unknown Section Type Handler - Fallback for unrecognized section types
+
+  This provides a consistent way to handle unknown section types,
+  making debugging easier and providing clear feedback to developers.
+
+  Parameters:
+  - section: Section configuration object
+*/}}
+
+{{- $section := .section }}
+
+
+<div class="alert alert-warning" role="alert">
+  <h4 class="alert-heading">Unknown Section Type</h4>
+  <p>Section type <code>{{ $section.type }}</code> is not recognized.</p>
+  {{- if hugo.IsProduction }}
+    <p class="mb-0">Please contact the development team to add support for this section type.</p>
+  {{- else }}
+    <hr />
+    <p class="mb-0">
+      <strong>Available section types:</strong><br />
+      <code>content</code>, <code>features</code>, <code>courses</code>, <code>taxonomies</code>, <code>phases</code>, <code>options</code>, <code>types</code>, <code>otherpages</code>, <code>trustpilot</code>, <code>videos</code>, <code>cards</code>, <code>counters</code>, <code>outcomehero</code>, <code>none</code>
+    </p>
+  {{- end }}
+</div>
