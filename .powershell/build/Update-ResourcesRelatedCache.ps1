@@ -7,6 +7,8 @@
 . ./.powershell/_includes/ClassificationHelpers.ps1
 . ./.powershell/_includes/AzureBlobHelpers.ps1
 . ./.powershell/_includes/EmbeddingRepository.ps1
+. ./.powershell/_includes/RelatedCacheHelpers.ps1
+
 
 $ErrorActionPreference = 'Stop'
 $levelSwitch.MinimumLevel = 'Information'
