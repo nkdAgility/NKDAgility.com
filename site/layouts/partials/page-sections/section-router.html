@@ -30,18 +30,19 @@
 }}
 
 {{/* Handle special case section types */}}
-{{- if eq $section.type "none" }}
+{{- $sectionType := $section.type | default "content" }}
+{{- if eq $sectionType "none" }}
   {{/* Intentionally empty - no content rendered */}}
-{{- else if eq $section.type "content" }}
+{{- else if eq $sectionType "content" }}
   {{/* Content type only renders title (already handled by section-header.html) - no additional content */}}
-{{- else if index $sectionTypes $section.type }}
+{{- else if index $sectionTypes $sectionType }}
   {{/* Render known section type */}}
-  {{- $template := index $sectionTypes $section.type }}
+  {{- $template := index $sectionTypes $sectionType }}
   {{- $context := dict "site" $site "page" $page "context" $section }}
   {{/* Some templates use different parameter names for backward compatibility */}}
-  {{- if in (slice "features" "options") $section.type }}
+  {{- if in (slice "features" "options") $sectionType }}
     {{- $context = dict "Page" $page "site" $site "context" $section }}
-  {{- else if in (slice "courses" "videos" "cards" "counters") $section.type }}
+  {{- else if in (slice "courses" "videos" "cards" "counters") $sectionType }}
     {{- $context = dict "site" $site "context" $section }}
   {{- end }}
 
