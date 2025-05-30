@@ -2,6 +2,7 @@
 title: "Technical Leadership"
 description: "Develop influential technical leaders who drive innovation, guide teams effectively, and translate business needs into technical solutions."
 date: 2025-04-28
+draft: true
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml

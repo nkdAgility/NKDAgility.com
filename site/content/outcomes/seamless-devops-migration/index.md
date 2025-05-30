@@ -2,6 +2,7 @@
 title: "Seamless DevOps Migration"
 description: "Transition to effective DevOps practices with minimal disruption through proven migration strategies and expert implementation support."
 date: 2025-04-28
+draft: true
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml

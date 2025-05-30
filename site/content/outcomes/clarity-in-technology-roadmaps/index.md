@@ -2,6 +2,7 @@
 title: "Clarity in Technology Roadmaps"
 description: "Develop strategic technology roadmaps that align technical initiatives with business goals and provide clear direction for implementation teams."
 date: 2025-04-28
+draft: true
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml

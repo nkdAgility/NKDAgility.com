@@ -1,6 +1,7 @@
 ---
 title: Increase Team Effectiveness
 date: 2024-06-15
+draft: true
 creator: Martin Hinshelwood
 draft: true
 type: outcomes

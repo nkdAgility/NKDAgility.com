@@ -2,6 +2,7 @@
 title: "Culture Transformation and Team Enablement"
 description: "Create an adaptive, high-performing organizational culture where teams are empowered to deliver exceptional value continuously."
 date: 2025-04-28
+draft: true
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml

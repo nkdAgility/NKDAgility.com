@@ -2,6 +2,7 @@
 title: "Faster More Predictable Software Delivery"
 description: "Accelerate your software delivery pipeline with proven practices that increase throughput while maintaining high quality and predictability."
 date: 2025-04-28
+draft: true
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml

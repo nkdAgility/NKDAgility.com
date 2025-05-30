@@ -2,6 +2,7 @@
 title: "Cross functional alignment"
 description: "Break down organizational silos and create seamless collaboration between departments to deliver cohesive, customer-focused solutions."
 date: 2025-04-28
+draft: true
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml

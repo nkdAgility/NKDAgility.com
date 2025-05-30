@@ -1,6 +1,7 @@
 ---
 title: Faster Delivery of Value
 date: 2024-09-17
+draft: true
 creator: Martin Hinshelwood
 draft: true
 resourceTypes: method
