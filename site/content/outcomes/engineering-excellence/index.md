@@ -85,6 +85,10 @@ sections:
         icon: fa-lightbulb
         content: |
           You don't need to choose between speed and stability - we help you get both.
+  - title: Team Alignment & Ownership
+    type: content
+    content: |
+      Developers stop blaming process. They own it - and drive outcomes.
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards
