@@ -1,0 +1,78 @@
+{{/* 
+  Module Page Content Adapter for Hugo - Professional Scrum with Kanban (PSK) Course with Certification
+  This template dynamically generates module pages from the syllabus.yaml file at build time.
+*/}}
+
+{{/* Course information */}}
+{{ $courseSlug := "scrumorg-professional-scrum-with-kanban" }}
+{{ $courseTitle := "Professional Scrum with Kanban (PSK) Course with Certification" }}
+
+{{/* Read the syllabus.yaml file */}}
+{{ $syllabusContent := os.ReadFile "content/capabilities/training-courses/scrumorg-professional-scrum-with-kanban/syllabus.yaml" }}
+{{ $syllabusData := transform.Unmarshal $syllabusContent }}
+
+{{ range $module := $syllabusData.syllabus }}
+  {{ $moduleId := $module.id }}
+  {{ $title := $module.title }}
+  {{ $duration := $module.duration | default 0 }}
+  {{ $content := $module.content | default "" }}
+  {{ $moduleSlug := printf "module-%d" $moduleId }}
+  
+  {{/* Build content with learning resources and assignments */}}
+  {{ $moduleContent := $content }}
+  {{ $moduleContent = printf "%s\n\n## Duration\n%d+ minutes\n\n" $moduleContent $duration }}
+  
+  {{/* Add learning resources if they exist */}}
+  {{ if $module.learningResources }}
+    {{ $moduleContent = printf "%s## Learning Resources\n\n" $moduleContent }}
+    {{ range $resource := $module.learningResources }}
+      {{ if not $resource.draft }}
+        {{ $resourceTitle := $resource.title }}
+        {{ $resourceDuration := $resource.duration | default 0 }}
+        {{ $resourceLink := $resource.link | default "" }}
+        {{ $resourceLine := printf "- **%s** (%d min)" $resourceTitle $resourceDuration }}
+        {{ if $resourceLink }}
+          {{ $resourceLine = printf "%s - [Link](%s)" $resourceLine $resourceLink }}
+        {{ end }}
+        {{ $moduleContent = printf "%s%s\n" $moduleContent $resourceLine }}
+        {{ if $resource.content }}
+          {{ $moduleContent = printf "%s  %s\n" $moduleContent $resource.content }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ $moduleContent = printf "%s\n" $moduleContent }}
+  {{ end }}
+  
+  {{/* Add assignment if it exists */}}
+  {{ if $module.assignment }}
+    {{ $assignment := $module.assignment }}
+    {{ if $assignment.title }}
+      {{ $moduleContent = printf "%s## Assignment: %s\n\n%s\n\n" $moduleContent $assignment.title $assignment.content }}
+      {{ if $assignment.examples }}
+        {{ $moduleContent = printf "%s### Examples\n\n%s\n\n" $moduleContent $assignment.examples }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  
+  {{/* Create the module page */}}
+  {{ $page := dict 
+    "title" (printf "Module %d: %s" $moduleId $title)
+    "description" (printf "Module %d of %s - %s" $moduleId $courseTitle $title)
+    "type" "module"
+    "layout" "module"
+    "course" $courseTitle
+    "courseSlug" $courseSlug
+    "moduleId" $moduleId
+    "duration" $duration
+    "weight" $moduleId
+    "draft" false
+    "date" "2023-01-01T00:00:00Z"
+    "content" (dict 
+      "mediaType" "text/markdown" 
+      "value" $moduleContent
+    )
+    "path" $moduleSlug
+  }}
+  
+  {{ $.AddPage $page }}
+{{ end }}
