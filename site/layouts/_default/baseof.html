@@ -58,9 +58,8 @@
       </section>
     {{- end }}
 
-    {{- partial "connect.html" . }}
-
     {{- block "siteSectionCallback" . }}
+      {{- partial "connect.html" . }}
       <section class="container my-2 siteSectionCallback"></section>
     {{- end }}
 
