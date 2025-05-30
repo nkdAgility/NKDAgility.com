@@ -1,17 +1,19 @@
 ---
-title: "Technically Agile: Blog"
+title: "Agentic Agility: Blog"
+description: Thought-provoking, candid articles that challenge conventional thinking on Agile leadership, product management, and modern engineering practices. Embrace radical transparency to optimise your adaptive solutions.
 shorttitle: "Blog"
 url: "/resources/blog/"
 aliases:
   - /blog/
 layout: bloglist
 resourceTypes: blog
+resourceType: blog
 sitemap:
   filename: sitemap.xml
   priority: 0.8
 headline:
-  title: "tech·nic·al·ly agile"
-  subtitle: "Blog: Technically Agile. Deep diving into Scrum, Agility, & DevOps!"
+  title: "a·gen·tic a·gil·i·ty"
+  subtitle: "Blog: Agentic Agility. Deep diving into Scrum, Agility, & DevOps!"
   content: |
     Helping companies navigate the realities of business agility and not just be technically agile! Regular content on Scrum, Agility, & DevOps!
   cards:
@@ -26,6 +28,6 @@ headline:
       image: ~
 ---
 
-Technically Agile
+Agentic Agility
 
 Overview of all Resources.

@@ -19,12 +19,12 @@ class HugoMarkdown {
         if ($frontMatter -eq $null) {
             Write-ErrorLog "Front matter is null"
             exit 1
-        }
+        }        
         $this.FrontMatter = $frontMatter
         # Set the body content
         $this.BodyContent = $bodyContent
         $this.FilePath = $FilePath
-        $this.FolderPath = (Get-Item -Path $FilePath).DirectoryName
+        $this.FolderPath = Split-Path -Path $FilePath -Parent
         $this.ReferencePath = $this.FolderPath.Replace((Resolve-Path -Path "./site/content/"), '').Replace('\', '/')
     }
 }
@@ -431,7 +431,7 @@ function Get-RecentHugoMarkdownResources {
     $progressStep = [math]::Ceiling($resourceCount / 10)
     $hugoMarkdownObjects = @()
     $leafFolder = Split-Path $Path -Leaf
-    Write-DebugLog "Loading ($resourceCount) markdown files..."
+    Write-InformationLog "Loading ($resourceCount) markdown files..."
 
     $resources | ForEach-Object -Begin { $index = 0 } -Process {
         if (Test-Path $_) {
@@ -459,7 +459,7 @@ function Get-RecentHugoMarkdownResources {
         Write-DebugLog "Loading Hugo Markdown $leafFolder complete."
     }
 
-    Write-DebugLog "Loaded ($($hugoMarkdownObjects.Count)) HugoMarkdown Objects."
+    Write-InformationLog "Loaded ($($hugoMarkdownObjects.Count)) HugoMarkdown Objects."
 
     $filtered = $hugoMarkdownObjects | Where-Object {
         if ($_.FrontMatter.date) {
@@ -469,11 +469,27 @@ function Get-RecentHugoMarkdownResources {
         return $false
     } | Sort-Object { [DateTime]::Parse($_.FrontMatter.date) } -Descending
 
-    Write-DebugLog "Filtered to ($($filtered.Count)) recent HugoMarkdown Objects."
+    Write-InformationLog "Filtered to ($($filtered.Count)) recent HugoMarkdown Objects."
 
     return $filtered
 }
 
+function Get-HugoMarkdownSlug {
+    param (
+        [Parameter(Mandatory = $true)]
+        [HugoMarkdown]$hugoMarkdown
+    )
 
+    if ($hugoMarkdown.FrontMatter.slug) {
+        return $hugoMarkdown.FrontMatter.slug
+    }
+    elseif ($hugoMarkdown.FrontMatter.title) {
+        return ($hugoMarkdown.FrontMatter.title -replace '[:\/\\*?"<>| #%.!,]', '-' -replace '\s+', '-').ToLower()
+    }
+    else {
+        Write-WarningLog "No slug or ResourceId found for HugoMarkdown: $($hugoMarkdown.FilePath)"
+        return $null
+    }
+}
 
 Write-InfoLog "HugoHelpers.ps1 loaded"

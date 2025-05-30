@@ -9,9 +9,9 @@
     </div>
     <div class="col-xl-2 d-none d-xl-flex justify-content-end align-items-center text-nowrap">
       {{ if eq .Type "resources" }}
-        <h4>tech·nic·al·ly agile</h4>
+        <h4 title="Agentic Agility">a·gen·tic a·gil·i·ty</h4>
       {{ else }}
-        <h4>naked Agil·ity</h4>
+        <h4 title="naked Agility">naked Agil·ity</h4>
       {{ end }}
     </div>
     <div class="col-12 col-xl-8 d-flex flex-column">
@@ -27,9 +27,9 @@
           {{- end }}
         {{- end }}
       </div>
-      {{ if eq .Type "resources" }}
+      {{ if and (eq .Type "resources") (ne .Kind "section") }}
         <div class="mt-auto">{{- partial "components/resources/craft.html" . }}</div>
-      {{ else }}
+      {{ else if ne .Type "resources" }}
         {{- partial "components/pages/header-buttons.html" . }}
         <div class="mt-auto">Last Updated: {{ .Lastmod.Format "2006-01-02" }}</div>
       {{ end }}
@@ -37,7 +37,8 @@
     <div class="col-xl-4 d-none d-xl-flex justify-content-center align-items-center">
       <div class="position-relative">
         {{ if eq .Type "resources" }}
-          <img src="/images/logo-{{ .Section }}-{{ .Params.ResourceType }}.png" style="max-width: 300px;" />
+          {{ $ResourceType := .Params.ResourceType | default "default" }}
+          <img src="/images/logo-{{ .Section }}-{{ $ResourceType }}.png" style="max-width: 300px;" />
         {{ else }}
           <img src="/images/logo-{{ .Section }}.png" style="max-width: 300px;" />
         {{ end }}
@@ -47,7 +48,12 @@
     <div class="col-xl-12 d-none d-xl-flex justify-content-end align-items-center">
       {{ $url := "" }}
       {{ if eq .Type "resources" }}
-        {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+        {{ if eq .Kind "section" }}
+          {{ $ResourceType := .Params.ResourceType | default "" }}
+          {{ $url = printf "https://nkdagility.com/resources/%s" $ResourceType }}
+        {{ else }}
+          {{ $url = printf "https://nkdagility.com/resources/%s" .Params.ResourceId }}
+        {{ end }}
       {{ else }}
         {{ $url = printf "https://nkdagility.com%s" .RelPermalink }}
       {{ end }}

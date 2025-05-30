@@ -7,7 +7,10 @@
     {{ range $resourceType := $resourceTypes }}
       <h6 class="dropdown-header">Related {{ $resourceType | title }} {{ if and $relatedData (gt (len $relatedData) 0) }}<i class="fa-regular fa-group-arrows-rotate"></i>{{ end }}</h6>
       {{ if and $relatedData (gt (len $relatedData) 0) }}
-        {{ $relatedBlogs := where $relatedData "ResourceType" $resourceType }}
+        {{ $relatedBlogs := where $relatedData "EntryType" $resourceType }}
+        {{ if eq (len $relatedBlogs) 0 }}
+          {{ $relatedBlogs = where $relatedData "ResourceType" $resourceType }}
+        {{ end }}
         {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
           {{ range first 3 $relatedBlogs }}
             {{ $relatedPage := site.GetPage .Reference }}

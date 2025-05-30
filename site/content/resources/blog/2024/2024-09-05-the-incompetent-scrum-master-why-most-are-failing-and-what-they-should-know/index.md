@@ -5,7 +5,8 @@ date: 2024-09-05
 weight: 190
 slug: why-most-scrum-masters-are-failing-and-what-they-should-know
 aliases:
-- /resources/VTjU5Wl2XWU
+  - /resources/VTjU5Wl2XWU
+  - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know/
 ResourceId: VTjU5Wl2XWU
 ResourceImport: true
 ResourceImportSource: Wordpress
@@ -18,36 +19,36 @@ creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 aliasesArchive:
-- /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
-- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
-- /the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
-- /why-most-scrum-masters-are-failing-and-what-they-should-know
-- /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
-- /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+  - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+  - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know/
+  - /the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+  - /why-most-scrum-masters-are-failing-and-what-they-should-know
+  - /blog/why-most-scrum-masters-are-failing-and-what-they-should-know
+  - /resources/blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 concepts:
-- Method
+  - Method
 categories:
-- Scrum
-- Technical Leadership
-- Product Development
+  - Scrum
+  - Technical Leadership
+  - Product Development
 tags:
-- Software Development
-- Competence
-- Pragmatic Thinking
-- Agile Frameworks
-- Technical Mastery
-- Market Adaptability
-- Scrum Master
-- Operational Practices
-- Professional Scrum
-- Team Performance
+  - Software Development
+  - Competence
+  - Pragmatic Thinking
+  - Agile Frameworks
+  - Technical Mastery
+  - Market Adaptability
+  - Scrum Master
+  - Operational Practices
+  - Professional Scrum
+  - Team Performance
 sameAs:
-- https://www.reddit.com/r/scrum/comments/1f9jjqn/the_age_of_the_incompitent_scrum_master/
+  - https://www.reddit.com/r/scrum/comments/1f9jjqn/the_age_of_the_incompitent_scrum_master/
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 Watermarks:
   description: 2025-05-07T12:58:35Z
-
 ---
+
 As a [DevOps]({{< ref "/categories/devops" >}}) consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software [product development]({{< ref "/categories/product-development" >}}). It’s astonishing how many [Scrum]({{< ref "/categories/scrum" >}}) Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.
 
 A [significant portion of Scrum Masters (about 61%\*)]({{< ref "/resources/signals/2024-06-03-the-majority-of-scrum-masters-are-not-fit-for-their-position" >}}) have either never read the Scrum Guide, lack technical proficiency relevant to their teams, or have only a superficial grasp of how to apply Scrum principles.

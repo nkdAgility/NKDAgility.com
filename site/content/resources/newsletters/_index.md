@@ -1,13 +1,14 @@
 ---
-title: "Technically Agile: Newsletters"
+title: "Agentic Agility: Newsletters"
 shorttitle: "Newsletters"
 url: "/resources/newsletters/"
 layout: "section" # Hugo will use section.html to render the list of pages
 resourceTypes: newsletters
+resourceType: newsletters
 aliases:
   - /newsletters/
 ---
 
-Technically Agile
+Agentic Agility
 
 Overview of all Resources.
