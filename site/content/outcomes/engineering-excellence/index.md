@@ -35,6 +35,56 @@ sections:
           Are you a VP of Engineering tired of chasing broken delivery cycles?
       - content: |
           Are you a Founder ready to scale but lack confidence in your codebase?
+  - title: Pain Points We Eliminate
+    type: list
+    list:
+      - title: Tech Debt That Slows You Down
+        icon: fa-code
+        content: |
+          We help you refactor your architecture, modernize your pipelines, and erase years of shortcuts.
+      - title: Inconsistent Development Practices
+        icon: fa-cogs
+        content: |
+          We bring clarity, discipline, and automation to your engineering cycle.
+      - title: Slow, Unreliable Delivery
+        icon: fa-rocket
+        content: |
+          Through CI/CD, test automation, and infrastructure as code, your team ships faster - with confidence.
+      - title: Developer Burnout & Team Frustration
+        icon: fa-fire-extinguisher
+        content: |
+          We help you rebuild moral by removing blockers, streamline process, and making software engineering fun again.
+      - title: Resistance to Change
+        icon: fa-clipboard-question
+        content: |
+          Our coaching brings technical leadership which makes new practices stick - turning your skeptics into your champions.
+  - type: quote
+    backgroundColor: primary
+    quote: |
+      "Thanks to Martin's guidance and support we successfully upgraded Azure DevOps from and unstable database, moved our dev teams to the latest Visual Studio, and implemented the finest build process ever known!
+
+      I would recommend Martin to anyone, in fact I would insist they use him as he is the best DevOps consultant i've worked with."
+      - **Paul Martin | IT Director**
+  - title: Engineering Excellence Delivers
+    type: list
+    listType: boxed
+    list:
+      - title: Modern, Resilient Engineering Practices
+        icon: fa-dna
+        content: |
+          CI/CD, IaC, TDD, QA automation - fully integrated into your workflows.
+      - title: High-performance Delivery Teams
+        icon: fa-cog
+        content: |
+          We train, coach, and enable your people to ship reliably - with pride and predictability.
+      - title: Reduce Risk & Technical Overhead
+        icon: fa-bug
+        content: |
+          Fewer Bugs. Cleaner Code. Lower rework costs. DevOps done right.
+      - title: Fast Innovation, Safer Deployment
+        icon: fa-lightbulb
+        content: |
+          You don't need to choose between speed and stability - we help you get both.
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards

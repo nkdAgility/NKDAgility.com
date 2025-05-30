@@ -18,16 +18,27 @@
   {{- $sectionClasses = printf "%s d-none d-md-block" $sectionClasses }}
 {{- end }}
 
+{{/* Handle background color */}}
+{{- $backgroundClass := "" }}
+{{- if $section.backgroundColor }}
+  {{- if eq $section.backgroundColor "primary" }}
+    {{- $backgroundClass = "section-bg-primary" }}
+  {{- else if eq $section.backgroundColor "secondary" }}
+    {{- $backgroundClass = "section-bg-secondary" }}
+  {{- end }}
+{{- end }}
 
-<section class="{{ $sectionClasses }}" data-section-type="{{ $section.type }}" data-section-index="{{ $index }}">
-  <div class="section">
-    {{/* Render section header if title or content exists */}}
-    {{- if or $section.title $section.content }}
-      {{- partial "page-sections/section-header.html" (dict "section" $section) }}
-    {{- end }}
 
-    {{/* Route to appropriate section type template */}}
-    {{- partial "page-sections/section-router.html" (dict "site" $site "page" $page "section" $section) }}
+<section class="container-fluid {{ $backgroundClass }}">
+  <section class="{{ $sectionClasses }}" data-section-type="{{ $section.type }}" data-section-index="{{ $index }}">
+    <div class="section">
+      {{/* Render section header if title or content exists */}}
+      {{- if or $section.title $section.content }}
+        {{- partial "page-sections/section-header.html" (dict "section" $section) }}
+      {{- end }}
 
-  </div>
+      {{/* Route to appropriate section type template */}}
+      {{- partial "page-sections/section-router.html" (dict "site" $site "page" $page "section" $section) }}
+    </div>
+  </section>
 </section>
