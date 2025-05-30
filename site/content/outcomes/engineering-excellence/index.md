@@ -134,6 +134,24 @@ sections:
       button:
         text: "Read the Case Study"
         url: "/contact"
+  - title: Why NKDAgility?
+    type: textNlist
+    list:
+      - icon: fa-shield-check
+        content: |
+          From chaos to clarity
+      - icon: fa-shield-check
+        content: |
+          From technical debt to predictability
+      - icon: fa-shield-check
+        content: |
+          From overwhelmed to in control
+    sideContent: |
+      We don't just drop in DevOps tools and disapear.
+
+      We build excelance into your engineering DNA.
+
+      Backed by Martin Hinshelwood's Microsoft MVP status and deep DevOps expertese, NKD Agility delivers real world transformations - not theory.
   - type: sectioncta
     backgroundColor: primary
     cta:
