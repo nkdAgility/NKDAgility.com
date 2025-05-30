@@ -5,7 +5,7 @@
 {{ if and $relatedData (gt (len $relatedData) 0) }}
   {{ $relatedBlogs := where $relatedData "EntryType" $resourceType }}
   {{ if and $relatedBlogs (gt (len $relatedBlogs) 0) }}
-    <h3>Related {{ $resourceType }} (Extended)</h3>
+    <h3>Related {{ $resourceType | title }} {{ if and $relatedData (gt (len $relatedData) 0) }}<i class="fa-regular fa-group-arrows-rotate"></i>{{ end }}</h3>
     <ul>
       {{ range first 5 $relatedBlogs }}
         {{ $relatedPage := site.GetPage .Reference }}
@@ -23,13 +23,13 @@
   {{ $related := $page.Site.RegularPages.Related $page }}
   {{ $blogs := where $related ".Params.resourceTypes" $resourceType | first 5 }}
   {{ with $blogs }}
-    <h3>Related {{ $resourceType }}</h3>
+    <h3>Related {{ $resourceType | title }}</h3>
     <ul>
       {{ range . }}
         <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
       {{ end }}
     </ul>
   {{ else }}
-    <p>No related {{ $resourceType }} found.</p>
+    <p>No related {{ $resourceType | title }} found.</p>
   {{ end }}
 {{ end }}
