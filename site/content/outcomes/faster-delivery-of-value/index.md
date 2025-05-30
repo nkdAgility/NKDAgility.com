@@ -1,8 +1,8 @@
 ---
 title: Faster Delivery of Value
 date: 2024-09-17
-creator: Martin Hinshelwood
 draft: true
+creator: Martin Hinshelwood
 resourceTypes: method
 layout: methods
 slug: faster-delivery-of-value

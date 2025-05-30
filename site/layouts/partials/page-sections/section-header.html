@@ -1,0 +1,17 @@
+{{/* Section Header - Renders common section title and content
+
+  Parameters:
+  - section: Section configuration object
+*/}}
+
+{{- $section := .section }}
+
+{{- if $section.title }}
+  <h2 class="section-title">{{ $section.title | markdownify }}</h2>
+{{- end }}
+
+{{- if $section.content }}
+  <div class="section-content {{ $section.contentClass }}">
+    <p>{{ $section.content | markdownify }}</p>
+  </div>
+{{- end }}

@@ -2,8 +2,8 @@
 title: Improved Collaboration
 description: ""
 date: 2024-09-17
-creator: Martin Hinshelwood
 draft: true
+creator: Martin Hinshelwood
 resourceTypes: method
 layout: methods
 slug: improved-collaboration
