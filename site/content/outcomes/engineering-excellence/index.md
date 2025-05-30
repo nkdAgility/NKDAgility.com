@@ -137,13 +137,13 @@ sections:
   - title: Why NKDAgility?
     type: textNlist
     list:
-      - icon: fa-shield-check
+      - icon: fa-award
         content: |
           From chaos to clarity
-      - icon: fa-shield-check
+      - icon: fa-award
         content: |
           From technical debt to predictability
-      - icon: fa-shield-check
+      - icon: fa-award
         content: |
           From overwhelmed to in control
     sideContent: |
@@ -158,7 +158,7 @@ sections:
       content: "We've helped teams like yours. Lets talk."
       button:
         text: "Schedule a call"
-        url: "/contact"
+        url: "/book"
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards

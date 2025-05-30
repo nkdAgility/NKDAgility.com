@@ -1,0 +1,63 @@
+{{/* TextNlist Section - Displays sideContent on the left and a list on the right with light background
+
+  Expected section structure in frontmatter:
+  - type: "textNlist"
+  title: "Section Title"
+  sideContent: |
+  Text content for the left side
+
+  Multiple paragraphs supported
+  list:
+  - icon: "fa-icon-name"
+  content: |
+  List item content
+  - icon: "fa-another-icon"
+  content: |
+  Another list item
+
+  Parameters:
+  - site: Hugo site object
+  - page: Current page object
+  - context: Section configuration object
+*/}}
+
+{{- $site := .site }}
+{{- $page := .page }}
+{{- $section := .context }}
+
+
+<div class="textnlist-section">
+  <div class="row align-items-start">
+    {{- if $section.sideContent }}
+      <div class="col-lg-6 textnlist-side-content">
+        <div class="textnlist-content">
+          {{ $section.sideContent | markdownify }}
+        </div>
+      </div>
+    {{- end }}
+
+    {{- if $section.list }}
+      <div class="col-lg-6 textnlist-list-container">
+        <div class="textnlist-list-wrapper">
+          <div class="textnlist-list">
+            {{- range $index, $item := $section.list }}
+              <div class="textnlist-item">
+                {{- if $item.icon }}
+                  <div class="textnlist-icon">
+                    <i class="fas {{ $item.icon }}"></i>
+                  </div>
+                {{- end }}
+
+                {{- if $item.content }}
+                  <div class="textnlist-item-content">
+                    {{ $item.content | markdownify }}
+                  </div>
+                {{- end }}
+              </div>
+            {{- end }}
+          </div>
+        </div>
+      </div>
+    {{- end }}
+  </div>
+</div>
