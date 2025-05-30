@@ -15,11 +15,11 @@
             <div class="col-md-8">
               <div class="row">
                 {{- range $section.Pages }}
-                  {{- if not .Draft }}
-                    <div class="col-lg-4 col-sm-12 col-md-12 p-2">
-                      <a href="{{- .Permalink }}">{{- .Params.card.title }}</a>
-                    </div>
-                  {{- end }}
+                  <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+                    {{ if .Draft }}
+                      <i class="fa-brands fa-firstdraft pe-1"></i>
+                    {{ end }} <a href="{{- .Permalink }}">{{- .Params.card.title }}</a>
+                  </div>
                 {{- end }}
               </div>
             </div>
