@@ -117,6 +117,23 @@ sections:
           - title: Align business and technical teams on delivery
           - title: Represent your org as a hub of technical excellence
           - title: Advocate for tech investments with credibility
+  - title: Results From the Field
+    type: casestudy
+    list:
+      - icon: fa-shield-check
+        content: |
+          50% reduction in release failures within 3 months
+      - icon: fa-shield-check
+        content: |
+          2x increase in team velocity after adopting CI/CD + test automation
+      - icon: fa-shield-check
+        content: |
+          Engineering morale and retention improved in 90 days
+    cta:
+      content: "Want the numbers?"
+      button:
+        text: "Read the Case Study"
+        url: "/contact"
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards
