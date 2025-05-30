@@ -20,7 +20,7 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\engineering-notes\2025-06-04-leveraging-ai-embeddings-for-related-content-classification" -YearsBack 10
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\signals" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects

@@ -1,3 +1,4 @@
+Import-Module Az.Storage
 
 $storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
 
