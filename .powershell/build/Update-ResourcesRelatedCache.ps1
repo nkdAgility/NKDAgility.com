@@ -161,7 +161,7 @@ function Build-ResourceRelatedCache {
             }
             
             if ($needsRecalculation) {
-                $similarity = Get-EmbeddingCosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
+                $similarity = -VectorA $targetEmbedding -VectorB $embeddingData.embedding
                 $similarities += [PSCustomObject]@{
                     Title      = $embeddingData.title
                     Slug       = $embeddingData.slug
@@ -176,7 +176,8 @@ function Build-ResourceRelatedCache {
                 Write-DebugLog "  |-- Recalculated similarity for $($embeddingData.title)"
             }
         }
-    }    $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
+    }   
+    $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $output = @{
         #calculatedAt = (Get-Date).ToUniversalTime().ToString('o')
         related = $topRelated
