@@ -134,6 +134,13 @@ sections:
       button:
         text: "Read the Case Study"
         url: "/contact"
+  - type: sectioncta
+    backgroundColor: primary
+    cta:
+      content: "We've helped teams like yours. Lets talk."
+      button:
+        text: "Schedule a call"
+        url: "/contact"
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards
