@@ -104,19 +104,19 @@ sections:
       - box:
         content:
         items:
-          - title: Standardise development practices
-          - title: Implement CI/CD, IaC, test automation
-          - title: Eliminate waste and drive continuous delivery
-          - title: Build a learning scalable tech culture
-          - title: Reduce release failure rates
+          - title: Reclaim trust in your engineering culture
+          - title: Reduce stress from firefighting releases
+          - title: Feel pride in your product, not dread
+          - title: Empower your teams to innovate without fear
+          - title: Avoid burnout by building systems that work
       - box:
         content:
         items:
-          - title: Standardise development practices
-          - title: Implement CI/CD, IaC, test automation
-          - title: Eliminate waste and drive continuous delivery
-          - title: Build a learning scalable tech culture
-          - title: Reduce release failure rates
+          - title: Lead high-performing delivery teams
+          - title: Mentor engineering managers and architects
+          - title: Align business and technical teams on delivery
+          - title: Represent your org as a hub of technical excellence
+          - title: Advocate for tech investments with credibility
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards

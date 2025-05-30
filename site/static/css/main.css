@@ -935,7 +935,7 @@ html {
 
 .outcome-boxes-item {
   position: relative;
-  padding: 0.5rem 0 0.5rem 1.5rem;
+  padding: 0.5rem 0 0.5rem 0.5rem;
   margin-bottom: 0.5rem;
   font-size: 1.2rem;
   line-height: 1.4;
@@ -948,7 +948,7 @@ html {
 }
 
 .outcome-boxes-item::before {
-  content: "✓";
+  content: "";
   position: absolute;
   left: 0;
   top: 0.5rem;
@@ -1126,6 +1126,10 @@ html {
 
 [data-theme="dark"] .list-section-boxed .list-item:hover {
   border-color: var(--dark-primary-color-heading);
+}
+
+.section-title {
+  color: var(--text-color);
 }
 
 /* Responsive adjustments for boxed list section */
