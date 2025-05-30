@@ -82,6 +82,13 @@ function Build-ResourceRelatedCache {
         [string]$LocalPath = "./.data/content-embeddings/",
         [int]$TopN = 5000
     )
+    
+    # Get function definitions to pass to parallel runspaces
+    $getEmbeddingCosineSimilarityDef = ${function:Get-EmbeddingCosineSimilarity}
+    $getEmbeddingResourceFileNameDef = ${function:Get-EmbeddingResourceFileName}
+    $writeDebugLogDef = ${function:Write-DebugLog}
+    $writeErrorLogDef = ${function:Write-ErrorLog}
+    
     $targetEmbeddingFile = Join-Path $LocalPath (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)
     if (-not (Test-Path $targetEmbeddingFile)) { return }
     $targetEmbeddingData = Get-Content $targetEmbeddingFile | ConvertFrom-Json
@@ -104,29 +111,31 @@ function Build-ResourceRelatedCache {
     }
     
     $allFiles = Get-ChildItem -Path $LocalPath -Filter *.embedding.json
-    $similarities = @()
     $count = $allFiles.Count
-    $i = 0
-    $lastPercent = -10
-    $recalculatedCount = 0
-    $preservedCount = 0
-    foreach ($file in $allFiles) {
-        $i++
-        $progress = "[{0}/{1}]" -f $i, $count
-        $percent = [math]::Round(($i / $count) * 100, 1)
+    
+    # Thread-safe collections for parallel processing
+    $threadSafeSimilarities = [System.Collections.Concurrent.ConcurrentBag[PSCustomObject]]::new()
+    $threadSafeRecalculated = [System.Collections.Concurrent.ConcurrentBag[int]]::new()
+    $threadSafePreserved = [System.Collections.Concurrent.ConcurrentBag[int]]::new()
+    
+    Write-DebugLog "  |-- Processing $count files in parallel for $($hugoMarkdown.ReferencePath)"
+    
+    $allFiles | ForEach-Object -Parallel {
+        # Import function definitions into parallel runspace
+        ${function:Get-EmbeddingCosineSimilarity} = $using:getEmbeddingCosineSimilarityDef
+        ${function:Get-EmbeddingResourceFileName} = $using:getEmbeddingResourceFileNameDef
+        ${function:Write-DebugLog} = $using:writeDebugLogDef
+        ${function:Write-ErrorLog} = $using:writeErrorLogDef
         
-        # Use Write-Progress when not in debug mode, otherwise use logging
-        if (Get-IsDebug) {
-            if ($percent -ge ($lastPercent + 10) -or $percent -eq 100) {
-                Write-InformationLog "  |-- $progress $percent% complete (Build-EmbeddingCache for $($hugoMarkdown.ReferencePath))"
-                $lastPercent = [math]::Floor($percent / 10) * 10
-            }
-        }
-        else {
-            Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id 1 
-        }
+        $file = $_
+        $targetEmbedding = $using:targetEmbedding
+        $hugoMarkdown = $using:hugoMarkdown
+        $existingRelatedLookup = $using:existingRelatedLookup
+        $threadSafeSimilarities = $using:threadSafeSimilarities
+        $threadSafeRecalculated = $using:threadSafeRecalculated
+        $threadSafePreserved = $using:threadSafePreserved
         
-        if ($file.Name -eq (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)) { continue }
+        if ($file.Name -eq (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)) { return }
         
         $embeddingData = Get-Content $file.FullName | ConvertFrom-Json
         if ($embeddingData.embedding) {
@@ -141,24 +150,20 @@ function Build-ResourceRelatedCache {
                     $embeddingGenAt = $embeddingData.generatedAt
                     if ($embeddingGenAt -le $existingGenAt) {
                         # Preserve existing calculation
-                        $similarities += $existingItem
-                        $preservedCount++
+                        $threadSafeSimilarities.Add($existingItem)
+                        $threadSafePreserved.Add(1)
                         $needsRecalculation = $false
                         Write-DebugLog "  |-- Preserving existing similarity for $($embeddingData.title) (embedding not newer)"
                     }
                 }
                 catch {
-                    <#Do this if a terminating exception happens#>
                     Write-ErrorLog "  |-- Error comparing generatedAt timestamps for $($embeddingData.title): $_"
                 }
-                
-                
-               
             }
             
             if ($needsRecalculation) {
                 $similarity = Get-EmbeddingCosineSimilarity -VectorA $targetEmbedding -VectorB $embeddingData.embedding
-                $similarities += [PSCustomObject]@{
+                $similarityObject = [PSCustomObject]@{
                     Title      = $embeddingData.title
                     Slug       = $embeddingData.slug
                     Reference  = $embeddingData.referencePath 
@@ -168,11 +173,18 @@ function Build-ResourceRelatedCache {
                     EntryGenAt = $embeddingData.generatedAt
                     Similarity = $similarity
                 }
-                $recalculatedCount++
+                $threadSafeSimilarities.Add($similarityObject)
+                $threadSafeRecalculated.Add(1)
                 Write-DebugLog "  |-- Recalculated similarity for $($embeddingData.title)"
             }
         }
-    }   
+    } -ThrottleLimit 80
+    
+    # Convert thread-safe collections back to arrays
+    $similarities = $threadSafeSimilarities.ToArray()
+    $recalculatedCount = $threadSafeRecalculated.Count
+    $preservedCount = $threadSafePreserved.Count
+    
     $topRelated = $similarities | Sort-Object Similarity -Descending | Select-Object -First $TopN
     $output = @{
         #calculatedAt = (Get-Date).ToUniversalTime().ToString('o')
@@ -180,11 +192,6 @@ function Build-ResourceRelatedCache {
     }
     $output | ConvertTo-Json -Depth 10 | Set-Content $cachePath
     Write-DebugLog "  |-- Saved to $cachePath (Recalculated: $recalculatedCount, Preserved: $preservedCount)"
-
-    # Clear progress bar when not in debug mode
-    if (-not (Get-IsDebug)) {
-        Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Completed -Id 1
-    }
 }
 
 function Get-RelatedItems {
