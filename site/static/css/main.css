@@ -776,15 +776,15 @@ html {
   color: var(--dark-text-color);
 }
 
+.section-content strong {
+  color: var(--primary-color-heading);
+}
+
 .outcome-hero-text {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.4;
   text-align: left;
-}
-
-.outcome-hero-text strong {
-  color: var(--primary-color-heading);
 }
 
 .outcome-hero-cta {
@@ -801,6 +801,10 @@ html {
   color: var(--text-color);
   margin-bottom: 0;
   flex: 1;
+}
+
+.outcome-hero-cta-text strong {
+  color: var(--primary-color-heading);
 }
 
 .outcome-hero-button {
