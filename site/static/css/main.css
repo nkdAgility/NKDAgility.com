@@ -867,10 +867,118 @@ html {
   .outcome-hero-cta-text {
     font-size: 1.3rem;
   }
-
   .outcome-hero-button {
     padding: 10px 25px;
     font-size: 1rem;
+  }
+}
+
+/* OutcomeBoxes Section Styles */
+.outcome-boxes-section {
+  margin: 3rem 0;
+}
+
+.outcome-boxes-box {
+  border: 2px solid transparent;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  min-height: 200px;
+}
+
+.outcome-boxes-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.outcome-boxes-box-primary {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+
+.outcome-boxes-box-accent {
+  background-color: var(--light-accent-color-alt);
+  color: var(--text-color);
+  border-color: var(--light-accent-color-alt);
+}
+
+.outcome-boxes-box-light {
+  background-color: #fbf3fe;
+  color: var(--text-color);
+  border-color: #fbf3fe;
+}
+
+/* Dark theme adjustments */
+[data-theme="dark"] .outcome-boxes-box-accent {
+  background-color: var(--accent-color-alt);
+  color: var(--light-text-color);
+  border-color: var(--accent-color-alt);
+}
+
+[data-theme="dark"] .outcome-boxes-box-light {
+  background-color: #2d2436;
+  color: var(--dark-text-color);
+  border-color: #2d2436;
+}
+
+.outcome-boxes-content {
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.outcome-boxes-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.outcome-boxes-item {
+  position: relative;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  line-height: 1.4;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.outcome-boxes-item:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+
+.outcome-boxes-item::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  font-weight: bold;
+  color: currentColor;
+  opacity: 0.8;
+}
+
+/* Light theme items styling */
+.outcome-boxes-box-light .outcome-boxes-item {
+  border-bottom-color: rgba(0, 0, 0, 0.1);
+}
+
+.outcome-boxes-box-light .outcome-boxes-item::before {
+  color: var(--bs-success);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .outcome-boxes-box {
+    margin-bottom: 1.5rem;
+    min-height: auto;
+  }
+
+  .outcome-boxes-content {
+    font-size: 1rem;
+  }
+
+  .outcome-boxes-item {
+    font-size: 0.9rem;
   }
 }
 

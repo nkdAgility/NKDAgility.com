@@ -90,6 +90,33 @@ sections:
     type: content
     content: |
       Developers stop blaming process. They own it - and drive outcomes.
+  - type: outcomeboxes
+    title: Engineering Excellence ensures
+    boxes:
+      - box:
+        content:
+        items:
+          - title: Standardise development practices
+          - title: Implement CI/CD, IaC, test automation
+          - title: Eliminate waste and drive continuous delivery
+          - title: Build a learning scalable tech culture
+          - title: Reduce release failure rates
+      - box:
+        content:
+        items:
+          - title: Standardise development practices
+          - title: Implement CI/CD, IaC, test automation
+          - title: Eliminate waste and drive continuous delivery
+          - title: Build a learning scalable tech culture
+          - title: Reduce release failure rates
+      - box:
+        content:
+        items:
+          - title: Standardise development practices
+          - title: Implement CI/CD, IaC, test automation
+          - title: Eliminate waste and drive continuous delivery
+          - title: Build a learning scalable tech culture
+          - title: Reduce release failure rates
 ---
 
 ## Elevate Your Engineering Practices to World-Class Standards
