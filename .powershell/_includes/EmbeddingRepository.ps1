@@ -170,7 +170,7 @@ function Get-EmbeddingFromHugoMarkdown {
     return $embeddingData
 }
 
-Write-Debug "ResourceHelpers.ps1 run 'Update-EmbeddingRepository2 -HugoMarkdownObjects `$hugoMarkdownObjects' to rebuild repository."
+Write-DebugLog "ResourceHelpers.ps1 run 'Update-EmbeddingRepository2 -HugoMarkdownObjects `$hugoMarkdownObjects' to rebuild repository."
 
 if ($RefreshEmbeddingRepository -eq $true) {
     $levelSwitch.MinimumLevel = 'Information'

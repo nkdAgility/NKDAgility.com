@@ -510,4 +510,4 @@ function Get-OpenAIBatchList {
 
 
 
-Write-InfoLog "OpenAI.ps1 loaded" 
+Write-DebugLog "OpenAI.ps1 loaded" 

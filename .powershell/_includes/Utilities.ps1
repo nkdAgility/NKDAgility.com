@@ -26,4 +26,4 @@ function Convert-UnixTimestamp {
 }
 
 
-Write-Debug "Utilities.ps1 loaded"
+Write-DebugLog "Utilities.ps1 loaded"

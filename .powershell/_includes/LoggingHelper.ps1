@@ -8,7 +8,7 @@ else {
 }
 
 If (-not $levelSwitch) {
-    $levelSwitch = New-LevelSwitch -MinimumLevel Verbose
+    $levelSwitch = New-LevelSwitch -MinimumLevel Information
     # Create new logger
     # This is where you customize, when and how to log
     New-Logger |
@@ -52,4 +52,4 @@ function Get-IsDebug {
 
 
 
-Write-Debug  "LoggingHelper.ps1 loaded"
+Write-DebugLog "LoggingHelper.ps1 loaded"

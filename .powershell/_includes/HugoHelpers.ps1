@@ -492,4 +492,4 @@ function Get-HugoMarkdownSlug {
     }
 }
 
-Write-Debug  "HugoHelpers.ps1 loaded"
+Write-DebugLog "HugoHelpers.ps1 loaded"

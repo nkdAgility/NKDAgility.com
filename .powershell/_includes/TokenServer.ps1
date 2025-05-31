@@ -158,4 +158,4 @@ function Restart-TokenServer {
     Start-TokenServer
 }
 
-Write-InfoLog "TokenServer.ps1 loaded"
+Write-DebugLog "TokenServer.ps1 loaded"
