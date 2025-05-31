@@ -39,7 +39,7 @@ function Build-ResourcesRelatedCache {
         [array]$HugoMarkdownObjects,
         [string]$LocalPath = "./.data/content-embeddings/",
         [int]$TopN = 5000,
-        [int]$ThrottleLimit = [Environment]::ProcessorCount,
+        [int]$ThrottleLimit = 4,
         [switch]$UseSequential
     )
     
@@ -56,20 +56,27 @@ function Build-ResourcesRelatedCache {
     $scriptPaths = @(
         "./.powershell/_includes/IncludesForAll.ps1"
     )
+
+    $indexedItems = @()
+    for ($i = 0; $i -lt $HugoMarkdownObjects.Count; $i++) {
+        $indexedItems += [PSCustomObject]@{
+            HugoMarkdown = $HugoMarkdownObjects[$i]
+            JobId        = $jobIdBase + $i
+            Index        = $i
+        }
+    }
     
-    # Create a thread-safe counter for job IDs
-    $jobIdCounter = 1
+
     # Process items in parallel and collect results
-    $results = $HugoMarkdownObjects | ForEach-Object -Parallel {
+    $results = $indexedItems | ForEach-Object -Parallel {
         # Import all required scripts in each parallel runspace
         foreach ($scriptPath in $using:scriptPaths) {
             . $scriptPath
         }
         
-        $hugoMarkdown = $_
-
-        # Get unique job ID using thread-safe increment
-        $jobId = [System.Threading.Interlocked]::Increment([ref]$using:jobIdCounter)
+        $item = $_
+        $hugoMarkdown = $item.HugoMarkdown
+        $jobId = $item.JobId
         
         try {
             Build-ResourceRelatedCache -hugoMarkdown $hugoMarkdown -LocalPath $using:LocalPath -TopN $using:TopN -jobId $jobId
@@ -111,6 +118,7 @@ function Build-ResourceRelatedCache {
         [int]$TopN = 5000,
         [int]$jobId = 1
     )
+    Write-InfoLog "Building embedding cache for $($hugoMarkdown.ReferencePath) (JobId: $jobId)..."
     $targetEmbeddingFile = Join-Path $LocalPath (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)
     if (-not (Test-Path $targetEmbeddingFile)) { return }
     $targetEmbeddingData = Get-Content $targetEmbeddingFile | ConvertFrom-Json
@@ -152,7 +160,7 @@ function Build-ResourceRelatedCache {
             }
         }
         else {
-            Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id $jobId 
+            Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id $jobId
         }
         
         if ($file.Name -eq (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)) { continue }

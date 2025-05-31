@@ -6,7 +6,7 @@ if ($LASTEXITCODE -ne 0) {
     Write-ErrorLog "Python bits install failed with exit code {ExitCode}" -PropertyValues $LASTEXITCODE
 }
 else {
-    Write-InfoLog "Python bits install completed successfully with exit code {ExitCode}" -PropertyValues $LASTEXITCODE
+    Write-DebugLog "Python bits install completed successfully with exit code {ExitCode}" -PropertyValues $LASTEXITCODE
 }
 
 # Checks if the token server is reachable
