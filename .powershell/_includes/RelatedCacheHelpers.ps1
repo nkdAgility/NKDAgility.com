@@ -54,11 +54,7 @@ function Build-ResourcesRelatedCache {
     
     # Import required scripts and variables for parallel execution
     $scriptPaths = @(
-        "./.powershell/_includes/LoggingHelper.ps1",
-        "./.powershell/_includes/HugoHelpers.ps1",
-        "./.powershell/_includes/ResourceHelpers.ps1",
-        "./.powershell/_includes/AzureBlobHelpers.ps1",
-        "./.powershell/_includes/EmbeddingRepository.ps1"
+        "./.powershell/_includes/IncludesForAll.ps1"
     )
     
     # Process items in parallel and collect results
