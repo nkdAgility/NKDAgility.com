@@ -1,4 +1,3 @@
-. ./.powershell/_includes/LoggingHelper.ps1
 
 # Run Python package install
 $output = python -m pip install fastapi uvicorn tiktoken 2>&1
