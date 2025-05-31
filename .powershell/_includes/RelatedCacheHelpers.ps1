@@ -39,7 +39,7 @@ function Build-ResourcesRelatedCache {
         [array]$HugoMarkdownObjects,
         [string]$LocalPath = "./.data/content-embeddings/",
         [int]$TopN = 5000,
-        [int]$ThrottleLimit = 4,
+        [int]$ThrottleLimit = 1,
         [switch]$UseSequential
     )
     
