@@ -1,4 +1,4 @@
-. ./.powershell/_includes/OpenAI.ps1
+
 function New-ResourceId {
     param (
         [int]$Length = 11  # Default length of YouTube-style ID

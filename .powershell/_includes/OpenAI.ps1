@@ -1,9 +1,4 @@
 
-$OutputEncoding = [System.Text.Encoding]::UTF8
-
-. ./.powershell/_includes/LoggingHelper.ps1
-. ./.powershell/_includes/TokenServer.ps1
-
 function Get-OpenAIEmbedding {
     param (
         [Parameter(Mandatory)]

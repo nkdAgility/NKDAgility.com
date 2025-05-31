@@ -1,8 +1,3 @@
-. ./.powershell/_includes/LoggingHelper.ps1
-. ./.powershell/_includes/HugoHelpers.ps1
-. ./.powershell/_includes/AzureBlobHelpers.ps1
-. ./.powershell/_includes/TokenServer.ps1
-. ./.powershell/_includes/OpenAI.ps1
 
 $containerName = "content-embeddings"
 $embeddingModel = "text-embedding-3-large"
@@ -175,6 +170,8 @@ function Get-EmbeddingFromHugoMarkdown {
     return $embeddingData
 }
 
+Write-Debug "ResourceHelpers.ps1 run 'Update-EmbeddingRepository2 -HugoMarkdownObjects `$hugoMarkdownObjects' to rebuild repository."
+
 if ($RefreshEmbeddingRepository -eq $true) {
     $levelSwitch.MinimumLevel = 'Information'
     Start-TokenServer
@@ -192,9 +189,6 @@ if ($RefreshEmbeddingRepository -eq $true) {
     Write-DebugLog "--------------------------------------------------------"
     Write-InformationLog "Embedding repository update completed."
    
-}
-else {
-    Write-Host "Skipping embedding repository update as RefreshEmbeddingRepository is set to false."
 }
 
  

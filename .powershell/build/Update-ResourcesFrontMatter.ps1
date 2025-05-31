@@ -1,13 +1,7 @@
 
 # Helpers
-. ./.powershell/_includes/LoggingHelper.ps1
-. ./.powershell/_includes/TokenServer.ps1
-. ./.powershell/_includes/OpenAI.ps1
-. ./.powershell/_includes/HugoHelpers.ps1
-. ./.powershell/_includes/ResourceHelpers.ps1
-. ./.powershell/_includes/ClassificationHelpers.ps1
+. ./.powershell/_includes/IncludesForAll.ps1
 
-$ErrorActionPreference = 'Stop'
 $levelSwitch.MinimumLevel = 'Information'
 $ResourceCatalogue = @{}
 $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
@@ -20,7 +14,7 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\signals" -YearsBack 10
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
