@@ -21,7 +21,7 @@
       {{ if gt .Date (now) }}
         <i class="fa-regular fa-flux-capacitor"></i>
       {{ end }}
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
       {{ if $ShowDescription }}
         <p>{{ .Description }}</p>
       {{ end }}
