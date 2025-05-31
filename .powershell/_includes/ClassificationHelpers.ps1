@@ -994,4 +994,4 @@ function Get-ClassificationsFromCache {
 }
 
 
-Write-InfoLog "ClassificationHelpers.ps1 loaded"
+Write-Debug  "ClassificationHelpers.ps1 loaded"

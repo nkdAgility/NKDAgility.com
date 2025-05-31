@@ -18,7 +18,7 @@ If (-not $levelSwitch) {
     Add-SinkConsole |     # Tell logger to write log messages to console
     #Add-SinkFile -Path './logs/.log' | # Tell logger to write log messages into file
     Start-Logger
-    Write-InfoLog "New Logger Started" 
+    Write-Debug  "New Logger Started" 
 }
 
 function Set-DebugMode {
@@ -52,4 +52,4 @@ function Get-IsDebug {
 
 
 
-Write-InfoLog "LoggingHelper.ps1 loaded"
+Write-Debug  "LoggingHelper.ps1 loaded"
