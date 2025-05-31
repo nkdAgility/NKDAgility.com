@@ -1,52 +1,18 @@
+{{/* Sections Template - Renders dynamic page sections based on frontmatter configuration
+
+  This template processes an array of sections defined in page frontmatter and renders
+  each section with appropriate partial templates based on the section type.
+*/}}
+
 {{- $site := .Site }}
-{{- $Resources := .Resources }}
 {{- $page := . }}
+
 {{- if .Params.sections }}
   {{- range $index, $section := .Params.sections }}
-    <!-- Title and Content (always shown) -->
-    <section class="container my-5 {{- if $section.hideOnMobile }}d-none d-md-block{{- end }}">
-      <div class="section">
-        <h2>{{- $section.title | markdownify }}</h2>
-        <div class="{{- $section.contentClass }}">
-          <p>{{- $section.content | markdownify }}</p>
-        </div>
-        <!-- Conditional rendering based on section type -->
-        {{- if eq $section.type "features" }}
-          <!-- Render features -->
-          {{- partial "page-sections/sections-features.html" (dict "Page" $page "context" . ) }}
-        {{- else if eq $section.type "courses" }}
-          {{- partial "page-sections/sections-courses.html" (dict "site" $site "context" .) }}
-          {{/* {{- else if eq $section.type "audiences" }}
-          {{- partial "page-sections/sections-audiences.html" (dict "site" $site "context" .) }} */}}
-        {{- else if eq $section.type "taxonomies" }}
-          {{- partial "page-sections/sections-taxonomies.html" (dict "site" $site "context" $section) }}
-        {{- else if eq $section.type "phases" }}
-          {{- partial "page-sections/sections-phases.html" (dict "site" $site "context" $section) }}
-        {{- else if eq $section.type "options" }}
-          {{- partial "page-sections/sections-consulting-options.html" (dict "Page" $page "site" $site "context" $section) }}
-        {{- else if eq $section.type "types" }}
-          {{- partial "page-sections/sections-types.html" (dict "site" $site "context" $section) }}
-        {{- else if eq $section.type "otherpages" }}
-          {{- partial "page-sections/sections-otherpages.html" (dict "site" $site "context" $section) }}
-        {{- else if eq $section.type "trustpilot" }}
-          {{- partial "page-sections/sections-trustpilot.html" (dict "site" $site "context" $section) }}
-        {{- else if eq $section.type "videos" }}
-          {{- partial "page-sections/sections-videos.html" (dict "site" $site "context" .) }}
-        {{- else if eq $section.type "cards" }}
-          {{- partial "page-sections/sections-cards.html" (dict "site" $site "context" .) }}
-        {{- else if eq $section.type "counters" }}
-          {{- partial "page-sections/sections-counters.html" (dict "site" $site "context" .) }}
-        {{- else if eq $section.type "none" }}
-        {{- else }}
-          <!-- Default rendering for other types if needed -->
-          <div class="default-section">
-            <p>Other section type content.</p>
-          </div>
-        {{- end }}
-      </div>
-    </section>
+    {{- partial "page-sections/section-wrapper.html" (dict "site" $site "page" $page "section" $section "index" $index) }}
   {{- end }}
 {{- else }}
+  {{/* Fallback: render page content directly if no sections defined */}}
   <section class="container my-5">
     {{- .Content }}
   </section>

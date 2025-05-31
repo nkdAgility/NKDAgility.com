@@ -1,0 +1,36 @@
+{{/* SectionCTA Section - Displays a simple call-to-action with content and button on the same line
+
+  Expected section structure in frontmatter:
+  - type: "sectioncta"
+  backgroundColor: "primary" # optional: none (default), primary, secondary
+  cta:
+  content: "Call to action text"
+  button:
+  text: "Button Text"
+  url: "/link-url"
+
+  Parameters:
+  - site: Hugo site object
+  - page: Current page object
+  - context: Section configuration object
+*/}}
+
+{{- $site := .site }}
+{{- $page := .page }}
+{{- $section := .context }}
+
+{{- if $section.cta }}
+  <div class="sectioncta-section text-center">
+    <div class="sectioncta-content">
+      {{- if $section.cta.content }}
+        <span class="sectioncta-text">{{ $section.cta.content | markdownify }}</span>
+      {{- end }}
+
+      {{- if $section.cta.button }}
+        <a href="{{ $section.cta.button.url | default "#" }}" class="btn btn-nkdagility-primary btn-lg sectioncta-button ms-3">
+          {{ $section.cta.button.text | default "Learn More" }}
+        </a>
+      {{- end }}
+    </div>
+  </div>
+{{- end }}

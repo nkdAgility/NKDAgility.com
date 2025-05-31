@@ -1,0 +1,33 @@
+{{/* Quote Section Template - Displays a large, stylized quote
+
+  This template renders a prominent quote with typography styling.
+  Ideal for testimonials, client feedback, or important statements.
+
+  Parameters:
+  - site: Hugo site object
+  - page: Current page object
+  - context: Section configuration object with:
+  - content: The quote text (markdown supported)
+  - title: Optional title/attribution
+*/}}
+
+{{- $site := .site }}
+{{- $page := .page }}
+{{- $section := .context }}
+
+{{- $quoteText := "" }}
+{{- if $section.quote }}
+  {{- $quoteText = $section.quote }}
+{{- else if $section.content }}
+  {{- $quoteText = $section.content }}
+{{- end }}
+
+{{- if $quoteText }}
+  <div class="quote-section">
+    <blockquote class="quote-blockquote">
+      <div class="quote-content">
+        {{ $quoteText | markdownify }}
+      </div>
+    </blockquote>
+  </div>
+{{- end }}

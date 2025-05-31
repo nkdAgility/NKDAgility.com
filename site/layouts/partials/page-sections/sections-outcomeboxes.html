@@ -1,0 +1,72 @@
+{{/* OutcomeBoxes Section - Displays boxes with lists of items
+
+  Expected section structure in frontmatter:
+  - type: "outcomeboxes"
+  title: "Section Title"
+  boxes:
+  - box:
+  content: "Optional text content for the box"
+  items:
+  - title: "First item"
+  - title: "Second item"
+  - title: "Third item"
+  - box:
+  content: "Another box with different content"
+  items:
+  - title: "Different item"
+  - title: "Another item"
+
+  Parameters:
+  - site: Hugo site object
+  - page: Current page object
+  - context: Section configuration object
+*/}}
+
+{{- $site := .site }}
+{{- $page := .page }}
+{{- $section := .context }}
+
+
+<div class="outcome-boxes-section">
+  {{- if $section.boxes }}
+    <div class="row g-4">
+      {{- range $index, $box := $section.boxes }}
+        {{- $boxClass := "" }}
+        {{- if eq $index 0 }}
+          {{- $boxClass = "outcome-boxes-box-primary" }}
+        {{- else if eq $index 1 }}
+          {{- $boxClass = "outcome-boxes-box-accent" }}
+        {{- else if eq $index 2 }}
+          {{- $boxClass = "outcome-boxes-box-light" }}
+        {{- else }}
+          {{/* Cycle through box styles for more than 3 boxes */}}
+          {{- $cycleIndex := mod $index 3 }}
+          {{- if eq $cycleIndex 0 }}
+            {{- $boxClass = "outcome-boxes-box-primary" }}
+          {{- else if eq $cycleIndex 1 }}
+            {{- $boxClass = "outcome-boxes-box-accent" }}
+          {{- else }}
+            {{- $boxClass = "outcome-boxes-box-light" }}
+          {{- end }}
+        {{- end }}
+        <div class="col-md-4">
+          <div class="outcome-boxes-box {{ $boxClass }} p-4 h-100">
+            {{- if $box.content }}
+              <div class="outcome-boxes-content mb-3">
+                <p class="mb-0">{{ $box.content | markdownify }}</p>
+              </div>
+            {{- end }}
+
+            {{- if $box.items }}
+              <ul class="outcome-boxes-list">
+                {{- range $box.items }}
+                  <li class="outcome-boxes-item">{{ .title }}</li>
+                {{- end }}
+              </ul>
+            {{- end }}
+          </div>
+        </div>
+      {{- end }}
+    </div>
+  {{- end }}
+</div>

@@ -1,5 +1,15 @@
+{{- define "headline" }}
+  <section class="container my-2" style="max-width: 900px !important">
+    {{- partial "headline.html" . }}
+  </section>
+{{- end }}
+
+{{- define "main" }}
+  {{- partial "page-sections/sections.html" . }}
+{{- end }}
+
 {{- define "siteSectionCallback" }}
-  <section class="container my-5">
+  <section class="container my-5 ">
     <h2 title="Outcomes - What you get?">What else do you get?</h2>
     <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
     {{- partial "cards-section.html" (dict "context" . "SectionName" "outcomes") }}

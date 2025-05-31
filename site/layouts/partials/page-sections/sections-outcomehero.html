@@ -1,0 +1,65 @@
+{{/* OutcomeHero Section - Displays 3 colored boxes with text and a call-to-action
+
+  Expected section structure in frontmatter:
+  - type: "outcomehero"
+  title: "Section Title"
+  boxes:
+  - text: "First box content"
+  - text: "Second box content"
+  - text: "Third box content"
+  cta:
+  text: "Call to action text"
+  button:
+  text: "Button Text"
+  url: "/link-url"
+
+  Parameters:
+  - site: Hugo site object
+  - page: Current page object
+  - context: Section configuration object
+*/}}
+
+{{- $site := .site }}
+{{- $page := .page }}
+{{- $section := .context }}
+
+
+<div class="outcome-hero-section">
+  {{- if $section.boxes }}
+    <div class="row g-2 mb-4">
+      {{- range $index, $box := $section.boxes }}
+        {{- $boxClass := "" }}
+        {{- if eq $index 0 }}
+          {{- $boxClass = "outcome-hero-box-primary" }}
+        {{- else if eq $index 1 }}
+          {{- $boxClass = "outcome-hero-box-accent" }}
+        {{- else if eq $index 2 }}
+          {{- $boxClass = "outcome-hero-box-light" }}
+        {{- end }}
+
+
+        <div class="col-md-4">
+          <div class="outcome-hero-box {{ $boxClass }} p-4 h-100 d-flex align-items-center justify-content-center text-center">
+            {{- if $box.content }}
+              <p class="mb-0 outcome-hero-text">{{ $box.content | markdownify }}</p>
+            {{- end }}
+          </div>
+        </div>
+      {{- end }}
+    </div>
+  {{- end }}
+
+  {{- if $section.cta }}
+    <div class="outcome-hero-cta text-center">
+      {{- if $section.cta.content }}
+        <p class="outcome-hero-cta-text mb-3">{{ $section.cta.content | markdownify }}</p>
+      {{- end }}
+
+      {{- if $section.cta.button }}
+        <a href="{{ $section.cta.button.url | default "#" }}" class="btn btn-nkdagility-primary btn-lg outcome-hero-button">
+          {{ $section.cta.button.text | default "Learn More" }}
+        </a>
+      {{- end }}
+    </div>
+  {{- end }}
+</div>
