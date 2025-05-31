@@ -402,4 +402,4 @@ function Get-TokensFromAuthCode {
 }
 
 
-Write-Debug "YoutubeAPI.ps1 loaded"
+Write-DebugLog "YoutubeAPI.ps1 loaded"
