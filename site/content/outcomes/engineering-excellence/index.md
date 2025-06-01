@@ -132,7 +132,7 @@ sections:
       content: "Want the numbers?"
       button:
         text: "Read the Case Study"
-        url: "/contact"
+        url: "/resources/case-studies/"
   - title: Why NKDAgility?
     type: textNlist
     list:
