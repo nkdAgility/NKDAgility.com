@@ -3,7 +3,6 @@ title: "Faster More Predictable Software Delivery"
 subtitle: Velocity Without the Volatility
 description: "Your teams are working hard. The backlog never ends. Yet delivery is slow, unpredictable, and stressful."
 date: 2025-05-31T09:00:00Z
-draft: true
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
@@ -62,8 +61,8 @@ sections:
   - type: quote
     backgroundColor: primary
     quote: |
-      "XXXXXXXX XXXXXXXXXXXXX XXXXXXXXX"
-      - **XXXXXXXX | XXXXXXXXX**
+      "Martin's depth and breadth of knowledge and experience of the world of Agile/DevOps is incredible. He will switch between hands on development to advanced consulting or training on process, practices and tools to help you in your own DevOps journey. When the going gets tough in challenging situations he is super responsive and goes the extra mile to find solutions. He is passionate about what he does and is always trying to improve the way we work to build high value products and solutions. In particular his knowledge of all things TFS/VSTS is second to none. Down to earth and straight talking. Highly recommend!"
+      - **Nancy Maher | Global Software Lifecycle Management Program Manager | SLB**
   - title: Gains You Unlock With NKD Agility
     type: list
     listType: boxed
@@ -84,20 +83,14 @@ sections:
         icon: fa-boxes-stacked
         content: |
           Engineering Teams that Deliver Consistently
-      - title: A Calm, Predictable Delivery Rhythm
-        icon: fa-wave-square
-        content: |
-          No more Friday panic or Monday post-mortems. Just steady, confident delivery.
-  - title: XXXXXXXXXXXXXXXXXXXXXXXX
+  - title: A Calm, Predictable Delivery Rhythm
     type: content
     content: |
-      XXXXXXXXXXXXXXXXXXXXXXXX
+      No more Friday panic or Monday post-mortems. Just steady, confident delivery.
   - type: outcomeboxes
-    title: Customer Jobs We Help You Do
+    title: Faster more predictable delivery ensures
     boxes:
       - box:
-        content: |
-          #### Functional Jobs
         items:
           - title: Release features quickly and safely
           - title: Improve delivery cadence and quality
@@ -105,8 +98,6 @@ sections:
           - title: Build a delivery pipeline that scales
           - title: Establish clear, data-driven predictability
       - box:
-        content: |
-          #### Emotional Jobs
         items:
           - title: Eliminate delivery stress
           - title: Regain control over delivery timelines
@@ -114,8 +105,6 @@ sections:
           - title: Avoid burnout and team fatigue
           - title: Lead with clarity, not chaos
       - box:
-        content: |
-          #### Social Jobs
         items:
           - title: Be seen as a reliable technology leader
           - title: Inspire trust across product, execs, and customers
