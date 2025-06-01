@@ -39,7 +39,7 @@ function Build-ResourcesRelatedCache {
         [array]$HugoMarkdownObjects,
         [string]$LocalPath = "./.data/content-embeddings/",
         [int]$TopN = 5000,
-        [int]$ThrottleLimit = 1,
+        [int]$ThrottleLimit = 8,
         [switch]$UseSequential
     )
     
@@ -56,7 +56,7 @@ function Build-ResourcesRelatedCache {
     $scriptPaths = @(
         "./.powershell/_includes/IncludesForAll.ps1"
     )
-
+ 
     $indexedItems = @()
     for ($i = 0; $i -lt $HugoMarkdownObjects.Count; $i++) {
         $indexedItems += [PSCustomObject]@{
