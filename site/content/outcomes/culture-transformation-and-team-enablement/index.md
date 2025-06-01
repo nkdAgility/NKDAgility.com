@@ -14,6 +14,10 @@ card:
     content: <p>Transform Culture</p>
   title: Culture Transformation and Team Enablement
   content: <p>Evolve your organizational culture from command-and-control to empowered, adaptive teams that drive innovation and exceptional results.</p>
+headline:
+  cards: []
+  title: XXXX XXXXXX XXXXXXX XXXX
+  content: "XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX"
 sections:
   - content: |
       **XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.** XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.

@@ -14,6 +14,10 @@ card:
     content: <p>Secure Leadership Support</p>
   title: Executive and Stakeholder Buy In
   content: <p>Transform skeptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.</p>
+headline:
+  cards: []
+  title: XXXX XXXXXX XXXXXXX XXXX
+  content: "XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX"
 sections:
   - content: |
       **XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.** XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.

@@ -14,6 +14,10 @@ card:
     content: <p>Start Optimizing Now</p>
   title: Increase Team Productivity
   content: <p>Elevate your project management and operational efficiency with our top-tier Agile and DevOps strategies. Streamline your workflows, reduce time to deployment, and ensure superior product quality through continuous feedback and adaptive planning. Ready to transform your team into a high-performing powerhouse? Our tools and methodologies are your gateway to enhanced productivity and innovation.</p>
+headline:
+  cards: []
+  title: XXXX XXXXXX XXXXXXX XXXX
+  content: "XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX"
 sections:
   - content: |
       **XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.** XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.

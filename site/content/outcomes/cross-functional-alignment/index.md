@@ -14,6 +14,10 @@ card:
     content: <p>Align Your Teams</p>
   title: Cross Functional Alignment
   content: <p>Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.</p>
+headline:
+  cards: []
+  title: XXXX XXXXXX XXXXXXX XXXX
+  content: "XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX"
 sections:
   - content: |
       **XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.** XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.

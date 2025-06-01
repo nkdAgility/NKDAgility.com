@@ -14,6 +14,10 @@ card:
     content: <p>Upskill Your Teams</p>
   title: Upskilled Engineering Teams
   content: <p>Transform average engineers into exceptional performers through targeted skill development that drives measurable improvements in quality and velocity.</p>
+headline:
+  cards: []
+  title: XXXX XXXXXX XXXXXXX XXXX
+  content: "XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX"
 sections:
   - content: |
       **XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.** XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.

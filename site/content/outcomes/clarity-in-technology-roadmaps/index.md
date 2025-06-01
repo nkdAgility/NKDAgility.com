@@ -14,6 +14,10 @@ card:
     content: <p>Clarify Your Roadmap</p>
   title: Clarity in Technology Roadmaps
   content: <p>Eliminate confusion with strategic technology roadmaps that connect technical decisions to business outcomes and guide teams toward success.</p>
+headline:
+  cards: []
+  title: XXXX XXXXXX XXXXXXX XXXX
+  content: "XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX"
 sections:
   - content: |
       **XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.** XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.
