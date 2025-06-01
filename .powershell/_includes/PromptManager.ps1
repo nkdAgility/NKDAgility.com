@@ -1,5 +1,4 @@
-. ./.powershell/_includes/LoggingHelper.ps1
-. ./.powershell/_includes/OpenAI.ps1
+
 
 $PromptRepository = ".prompts"
 

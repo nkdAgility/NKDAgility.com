@@ -39,7 +39,7 @@ function Build-ResourcesRelatedCache {
         [array]$HugoMarkdownObjects,
         [string]$LocalPath = "./.data/content-embeddings/",
         [int]$TopN = 5000,
-        [int]$ThrottleLimit = [Environment]::ProcessorCount,
+        [int]$ThrottleLimit = 1,
         [switch]$UseSequential
     )
     
@@ -54,29 +54,37 @@ function Build-ResourcesRelatedCache {
     
     # Import required scripts and variables for parallel execution
     $scriptPaths = @(
-        "./.powershell/_includes/LoggingHelper.ps1",
-        "./.powershell/_includes/HugoHelpers.ps1",
-        "./.powershell/_includes/ResourceHelpers.ps1",
-        "./.powershell/_includes/AzureBlobHelpers.ps1",
-        "./.powershell/_includes/EmbeddingRepository.ps1"
+        "./.powershell/_includes/IncludesForAll.ps1"
     )
+
+    $indexedItems = @()
+    for ($i = 0; $i -lt $HugoMarkdownObjects.Count; $i++) {
+        $indexedItems += [PSCustomObject]@{
+            HugoMarkdown = $HugoMarkdownObjects[$i]
+            JobId        = $jobIdBase + $i
+            Index        = $i
+        }
+    }
     
+
     # Process items in parallel and collect results
-    $results = $HugoMarkdownObjects | ForEach-Object -Parallel {
+    $results = $indexedItems | ForEach-Object -Parallel {
         # Import all required scripts in each parallel runspace
         foreach ($scriptPath in $using:scriptPaths) {
             . $scriptPath
         }
         
-        $hugoMarkdown = $_
+        $item = $_
+        $hugoMarkdown = $item.HugoMarkdown
+        $jobId = $item.JobId
         
         try {
-            Build-ResourceRelatedCache -hugoMarkdown $hugoMarkdown -LocalPath $using:LocalPath -TopN $using:TopN
-            
+            Build-ResourceRelatedCache -hugoMarkdown $hugoMarkdown -LocalPath $using:LocalPath -TopN $using:TopN -jobId $jobId
             # Return success result
             [PSCustomObject]@{
                 Success = $true
                 Title   = $hugoMarkdown.FrontMatter.title
+                JobId   = $jobId
                 Error   = $null
             }
         }
@@ -85,6 +93,7 @@ function Build-ResourcesRelatedCache {
             [PSCustomObject]@{
                 Success = $false
                 Title   = $hugoMarkdown.FrontMatter.title
+                JobId   = $jobId
                 Error   = $_.Exception.Message
             }
         }
@@ -98,7 +107,7 @@ function Build-ResourcesRelatedCache {
     
     # Log any errors
     $results | Where-Object { -not $_.Success } | ForEach-Object {
-        Write-Warning "Failed to build cache for '$($_.Title)': $($_.Error)"
+        Write-Warning "Failed to build cache for '$($_.Title)' (JobId: $($_.JobId)): $($_.Error)"
     }
 }
 
@@ -106,8 +115,10 @@ function Build-ResourceRelatedCache {
     param (
         [HugoMarkdown]$hugoMarkdown,
         [string]$LocalPath = "./.data/content-embeddings/",
-        [int]$TopN = 5000
+        [int]$TopN = 5000,
+        [int]$jobId = 1
     )
+    Write-InfoLog "Building embedding cache for $($hugoMarkdown.ReferencePath) (JobId: $jobId)..."
     $targetEmbeddingFile = Join-Path $LocalPath (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)
     if (-not (Test-Path $targetEmbeddingFile)) { return }
     $targetEmbeddingData = Get-Content $targetEmbeddingFile | ConvertFrom-Json
@@ -149,7 +160,7 @@ function Build-ResourceRelatedCache {
             }
         }
         else {
-            Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id 1 
+            Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Status "$progress $percent% complete" -PercentComplete $percent -Id $jobId
         }
         
         if ($file.Name -eq (Get-EmbeddingResourceFileName -HugoMarkdown $hugoMarkdown)) { continue }
@@ -209,7 +220,7 @@ function Build-ResourceRelatedCache {
 
     # Clear progress bar when not in debug mode
     if (-not (Get-IsDebug)) {
-        Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Completed -Id 1
+        Write-Progress -Activity "Building embedding cache for $($hugoMarkdown.ReferencePath)" -Completed -Id $jobId
     }
 }
 
