@@ -61,8 +61,8 @@ sections:
   - type: quote
     backgroundColor: primary
     quote: |
-      "XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX"
-      - **XXXX XXXXXX | XXXX XXXXXX XXXXXXX | XXX**
+      "Martin is extremely knowledgeable and experienced in helping teams become more agile and adopt DevOps practices especially around the Microsoft Azure platform and VSTS / TFS. But he is not limited to that stack with plenty of experience with competing and complimentary technologies. He explains things clearly and gets rid of any 'smoke and mirrors' to show how any team can make small improvements to improve how they work. He is one of the leading MVP's globally for DevOps and someone myself and my colleagues in the Azure product group trust to give us honest and insightful feedback."
+      - **Martin Woodward | Principal Group Program Manager | Microsoft**
   - title: XXXX XXXXXX XXXXXXX
     type: list
     listType: boxed

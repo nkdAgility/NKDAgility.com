@@ -61,8 +61,8 @@ sections:
   - type: quote
     backgroundColor: primary
     quote: |
-      "XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX"
-      - **XXXX XXXXXX | XXXX XXXXXX XXXXXXX | XXX**
+      "Martin cuts to the chase with whatever you throw at him. Having worked with him extensively over the last 3 years, I can strongly recommend Martin whether your needs are broadly across the Software Application Lifecycle Development spectrum (including scrum training) or deeply into the most complex enterprise wide Team Foundation Server / Visual Studio Team Services migrations. This is a fast moving field in which Martin typically provides rapid responses and solutions, or facilitates them through his worldwide network. More than happy to talk with anyone needing further encouragement to engage in his services!"
+      - **Richard Davies | Europe Practice Manager | SLB**
   - title: XXXX XXXXXX XXXXXXX
     type: list
     listType: boxed

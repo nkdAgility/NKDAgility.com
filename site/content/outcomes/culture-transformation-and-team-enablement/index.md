@@ -61,8 +61,8 @@ sections:
   - type: quote
     backgroundColor: primary
     quote: |
-      "XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX"
-      - **XXXX XXXXXX | XXXX XXXXXX XXXXXXX | XXX**
+      "Martin did Scrum training for Backcountry through Scrum.org for three days and I must say it was very useful three days for us. The whole team of about 50+ people thoroughly enjoyed the training and got a lot out of it. In addition to great material and exercises Martin had a great style of delivery and won the respect of everyone including our engineers, which is a big deal. In addition to the in-class effort, Martin was also very forthcoming in helping folks outside class and still communicates with members of the team via e-mail. Great guy, very knowledgeable & great trainer. Highly recommend him."
+      - **C J Singh | CIO | Backcountry**
   - title: XXXX XXXXXX XXXXXXX
     type: list
     listType: boxed
