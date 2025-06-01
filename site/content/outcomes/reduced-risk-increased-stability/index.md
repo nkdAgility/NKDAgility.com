@@ -67,94 +67,93 @@ sections:
   - type: quote
     backgroundColor: primary
     quote: |
-      "XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX"
-      - **XXXX XXXXXX | XXXX XXXXXX XXXXXXX | XXX**
-  - title: XXXX XXXXXX XXXXXXX
+      "Martin is extremely knowledgeable and experienced in helping teams become more agile and adopt DevOps practices ... . But he is not limited to that stack with plenty of experience with competing and complimentary technologies. He explains things clearly and gets rid of any 'smoke and mirrors' to show how any team can make small improvements to improve how they work. He is one of the leading [Microsoft] MVP's globally for DevOps and someone myself and my colleagues ... trust to give us honest and insightful feedback."
+      - **Martin Woodward | Vice President of Developer Relations | GitHub**
+  - title: What You Gain with NKD Agility
     type: list
     listType: boxed
     list:
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+      - title: Stable, Secure Delivery Pipelines
+        icon: fa-block-brick
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          No more Friday night failures. Your team ships predictably, safely, and quickly.
+      - title: Proactive Security Posture
+        icon: fa-lock
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          From IaC scanning to secrets management, your systems are hardened by design.
+      - title: Governance that Enables, Not Blocks
+        icon: fa-clipboard-list-check
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Clear policies. Transparent metrics. No more shadow IT or security surprises.
+      - title: Enterprise-Grade Compliance
+        icon: fa-globe
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          Whether you're in fintech, health, or SaaS — we help you meet the mark and prove it.
+  - title: Business Continuity & Confidence
     type: content
     content: |
-      XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+      Your leadership can trust that tech won’t be the failure point.
   - type: outcomeboxes
-    title: XXXX XXXXXX XXXXXXX
+    title: How we can help you
     boxes:
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
+          - title: Secure software delivery pipelines
+          - title: Maintain uptime & availability
+          - title: Ensure audit-readiness & compliance
+          - title: Automate security and infrastructure
+          - title: Mitigate risks without slowing delivery
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
+          - title: Reduce anxiety about outages
+          - title: Feel confident under executive scrutiny
+          - title: Avoid the fear of being exposed
+          - title: Trust your delivery process again
+          - title: Balance innovation and stability
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          - title: Represent your company as a secure, mature tech org
+          - title: Gain credibility with stakeholders, auditors, and boards
+          - title: Advocate for risk-reduction investments with authority
+          - title: Build trust between tech and business units
+          - title: Lead as a calm, competent, strategic force
+  - title: Results You Can Trust
     type: casestudy
     list:
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          90% reduction in unplanned outages within 60 days
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Passed external audits with zero critical findings
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Security incidents dropped by 75% post-migration
     cta:
-      content: "XXXX XXXXXX XXXXXXX?"
+      content: "Want proof?"
       button:
-        text: "XXXX XXXXXX XXXXXXX"
+        text: "See Case Studies"
         url: "/resources/case-studies"
   - title: Why NKDAgility?
     type: textNlist
     list:
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Resilience without bureaucracy
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Security without delays
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Compliance without compromise
     sideContent: |
-      XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+      **Because “move fast and break things” is a liability, not a strategy.**
 
-      XXXX XXXXXX XXXXXXX
-
+      We combine the speed of modern Agile & DevOps with the stability of enterprise-grade governance.
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "XXXX XXXXXX XXXXXXX"
+      content: "NKD Agility: Fast, Safe, and Scalable by Design"
       button:
         text: "Schedule a call"
         url: "/book"
