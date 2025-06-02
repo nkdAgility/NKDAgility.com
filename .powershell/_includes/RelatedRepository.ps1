@@ -186,37 +186,37 @@ function Get-RelatedFromHugoMarkdown {
         }
     }
 
-    # 3. Check for legacy migration from data.index.related.json
-    $legacyPath = Join-Path $HugoMarkdown.FolderPath 'data.index.related.json'
-    if (Test-Path $legacyPath) {
-        try {
-            Write-DebugLog "  | -- Found legacy related file, migrating: $legacyPath"
-            $legacyData = Get-Content $legacyPath | ConvertFrom-Json
+    # # 3. Check for legacy migration from data.index.related.json
+    # $legacyPath = Join-Path $HugoMarkdown.FolderPath 'data.index.related.json'
+    # if (Test-Path $legacyPath) {
+    #     try {
+    #         Write-DebugLog "  | -- Found legacy related file, migrating: $legacyPath"
+    #         $legacyData = Get-Content $legacyPath | ConvertFrom-Json
             
-            # Save to new location
-            $legacyData | ConvertTo-Json -Depth 10 | Set-Content $localFilePath
+    #         # Save to new location
+    #         $legacyData | ConvertTo-Json -Depth 10 | Set-Content $localFilePath
 
             
-            # Upload to blob storage if possible
-            if ($context) {
-                try {
-                    Set-AzStorageBlobContent -File $localFilePath -Container $ContainerName -Blob $relatedFileName -Context $context -Force | Out-Null
-                    Write-DebugLog "  | -- Migrated legacy related file to blob storage"
-                }
-                catch {
-                    Write-DebugLog "  | -- Failed to upload migrated file to blob storage: $_"
-                }
-            }
+    #         # Upload to blob storage if possible
+    #         if ($context) {
+    #             try {
+    #                 Set-AzStorageBlobContent -File $localFilePath -Container $ContainerName -Blob $relatedFileName -Context $context -Force | Out-Null
+    #                 Write-DebugLog "  | -- Migrated legacy related file to blob storage"
+    #             }
+    #             catch {
+    #                 Write-DebugLog "  | -- Failed to upload migrated file to blob storage: $_"
+    #             }
+    #         }
             
-            return $legacyData
-        }
-        catch {
-            Write-Warning "Failed to migrate legacy related file '$legacyPath': $_"
-        }
-        else {
-            Write-DebugLog "  | -- No legacy related file found for $($HugoMarkdown.ReferencePath), proceeding to generate new cache."
-        }
-    }
+    #         return $legacyData
+    #     }
+    #     catch {
+    #         Write-Warning "Failed to migrate legacy related file '$legacyPath': $_"
+    #     }
+    #     else {
+    #         Write-DebugLog "  | -- No legacy related file found for $($HugoMarkdown.ReferencePath), proceeding to generate new cache."
+    #     }
+    # }
 
     # 4. Generate new related content cache
     Write-DebugLog "  | -- Generating new related content for $($HugoMarkdown.ReferencePath)"

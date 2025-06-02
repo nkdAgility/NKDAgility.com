@@ -19,9 +19,20 @@ $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\ca
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 10
 
 # Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
-Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 0
+#Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 0
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
+
+foreach ($HugoMarkdown in $hugoMarkdownObjects) {
+    Write-DebugLog "Processing $($HugoMarkdown.ReferencePath)"
+    $relatedWrapper = Get-RelatedFromHugoMarkdown -HugoMarkdown $HugoMarkdown
+    $filteredRelated = $relatedWrapper.related | Where-Object { $_.Similarity -gt 0.6 }
+    $relatedWrapper.related = $filteredRelated
+    if ($relatedWrapper.related.Count -gt 0) {
+        $relatedLocalCache = Join-Path $HugoMarkdown.FolderPath 'data.index.related.json'
+        $relatedWrapper | ConvertTo-Json -Depth 10 | Set-Content $relatedLocalCache 
+    }    
+}
 
 #$hugoMdObj = $hugoMarkdownObjects | Select-Object -First 1
 
