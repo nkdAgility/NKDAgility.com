@@ -26,11 +26,16 @@ Write-DebugLog "--------------------------------------------------------"
 foreach ($HugoMarkdown in $hugoMarkdownObjects) {
     Write-DebugLog "Processing $($HugoMarkdown.ReferencePath)"
     $relatedWrapper = Get-RelatedFromHugoMarkdown -HugoMarkdown $HugoMarkdown
-    $filteredRelated = $relatedWrapper.related | Where-Object { $_.Similarity -gt 0.6 }
-    $relatedWrapper.related = $filteredRelated
+    $filteredRelated = @()
+    $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "Videos" } | Select-Object -First 5
+    $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "blog" } | Select-Object -First 5
+    $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "Signals" } | Select-Object -First 5
+    $filteredRelated += $relatedWrapper.related | Sort-Object Similarity -Descending | Where-Object { $_.EntryType -eq "Guides" } | Select-Object -First 5
+    $relatedWrapper.related = $filteredRelated  | Sort-Object Similarity -Descending
     if ($relatedWrapper.related.Count -gt 0) {
         $relatedLocalCache = Join-Path $HugoMarkdown.FolderPath 'data.index.related.json'
         $relatedWrapper | ConvertTo-Json -Depth 10 | Set-Content $relatedLocalCache 
+        Write-DebugLog "Processing  $($HugoMarkdown.ReferencePath) [$($relatedWrapper.related.Count) related items found.]"
     }    
 }
 
