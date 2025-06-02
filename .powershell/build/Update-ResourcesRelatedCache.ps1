@@ -12,15 +12,19 @@ $levelSwitch.MinimumLevel = 'Information'
 
 Start-TokenServer
 #$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 20
+$hugoMarkdownObjects = @()
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 20
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags\" -YearsBack 10
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 10
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 10
 
-Update-EmbeddingRepository2 -HugoMarkdownObjects $hugoMarkdownObjects
-Build-ResourcesRelatedCache -HugoMarkdownObjects $hugoMarkdownObjects -LocalPath "./.data/content-embeddings/"
+# Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
+Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 0
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
+#$hugoMdObj = $hugoMarkdownObjects | Select-Object -First 1
+
+#$stuff = Get-RelatedFromHugoMarkdown -HugoMarkdown $hugoMdObj
 
 Write-DebugLog "All files checked."
