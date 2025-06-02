@@ -1,17 +1,14 @@
 
-$containerName = "content-embeddings"
-$embeddingModel = "text-embedding-3-large"
-
 function Get-EmbeddingResourceFileName {
     param (
         [HugoMarkdown]$HugoMarkdown
     )
     return $HugoMarkdown.ReferencePath.Replace("\", "-").Replace("/", "-") + ".embedding.json"
 }
-function Update-EmbeddingRepository2 {
+function Update-EmbeddingRepository {
     param (
         [array]$HugoMarkdownObjects,
-        [string]$ContainerName = $containerName,
+        [string]$ContainerName = "content-embeddings",
         [string]$LocalPath = "./.data/content-embeddings/",
         [string]$StorageAccountName = "nkdagilityblobs",
         [string]$SASToken = $Env:AZURE_BLOB_STORAGE_SAS_TOKEN
@@ -87,7 +84,7 @@ function Get-EmbeddingCosineSimilarity {
 function Get-EmbeddingFromHugoMarkdown {
     param (
         [HugoMarkdown]$HugoMarkdown,
-        [string]$ContainerName = $containerName,
+        [string]$ContainerName = "content-embeddings",
         [string]$LocalPath = "./.data/content-embeddings/",
         [string]$StorageAccountName = "nkdagilityblobs",
         [string]$SASToken = $Env:AZURE_BLOB_STORAGE_SAS_TOKEN
@@ -132,7 +129,7 @@ function Get-EmbeddingFromHugoMarkdown {
         Write-WarningLog "Content exceeds token limit: $($HugoMarkdown.ReferencePath) - $tokens tokens"
         return $null
     }
-    $embedding = Get-OpenAIEmbedding -Content $contentText -Model $embeddingModel
+    $embedding = Get-OpenAIEmbedding -Content $contentText -Model "text-embedding-3-large"
     if (-not $embedding) {
         Write-WarningLog "Failed to generate embedding for $($HugoMarkdown.ReferencePath)"
         return $null
