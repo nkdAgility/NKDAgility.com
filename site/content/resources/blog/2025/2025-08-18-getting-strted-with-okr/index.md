@@ -20,7 +20,7 @@ categories:
   - Product Management
   - Leadership
 tags:
-  - Objective & Key Results
+  - Objective Key Results
   - Common Goals
   - Strategic Goals
   - Agile Strategy
