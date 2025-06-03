@@ -1918,5 +1918,24 @@
     "reasoning": "The content focuses on site reliability, Azure DevOps practices, and building resilient software systems. While it discusses operational concepts such as automation, transparency, and continuous improvement, it does not explicitly mention or delve into the Definition of Workflow as per Kanban or agile frameworks. There are no references to the explicit agreements, WIP limits, entry/exit policies, or distinctions between Definition of Workflow (Kanban) vs. Definition of Done (Scrum). The alignment and depth relative to the required category are minimal, and direct mentions are absent. The audience (software engineering/DevOps practitioners) partially overlaps, and the content maintains a focused signal on reliability but remains off-topic for the specific category.",
     "reasoning_summary": "This content targets software reliability and DevOps culture, not the Definition of Workflow. While continuous improvement and transparency are discussed, the core Kanban concept of explicit workflow policies is missing, making the material a poor fit for the category.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "5bgcpPqcGlw",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T13:33:34",
+    "ai_confidence": 14.750000000000004,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.5,
+    "ai_intent": 1.5,
+    "ai_audience": 4.5,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content provided extensively covers concepts related to site reliability engineering, transparency, automation, telemetry, incident response, and continuous improvement, especially within an Azure DevOps context. However, it does not explicitly reference Objective and Key Results (OKRs), nor does it directly discuss the structured goal-setting framework, strategic alignment, measurable outcomes, or iterative reviews foundational to OKRs. The only indirect overlap lies in the brief mentions of transparency, continuous improvement, and the alignment of teams, though these are general agile and SRE concepts, not specific to OKRs. There is no evidence of the key OKR topics such as strategic intent, measurable key results, or the superpowers of focus, tracking, alignment, or stretch. Consequently, the mentions (0.0) and depth (0.5) scores are particularly low. Minor relevance to general agile management methodologies explains the slightly higher signal-to-noise (6.0) and audience alignment (4.5) scores, as the target audience (practitioners, agile leaders, DevOps teams) overlaps in part with typical OKR-focused audiences. No penalties are warranted since content does not contradict or negatively represent OKRs; it simply doesn't reference them substantively.",
+    "reasoning_summary": "The content closely relates to DevOps and site reliability but shows minimal substantive alignment to Objective & Key Results (OKRs), lacking explicit references or in-depth treatment of OKR principles or practices.",
+    "level": "Ignored"
   }
 }

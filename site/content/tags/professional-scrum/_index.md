@@ -34,7 +34,7 @@ sitemap:
 concept: Philosophy
 icon: fa-user-graduate
 concepts:
-- Discipline
+- Ethos
 categories:
 - Scrum
 - Product Development
