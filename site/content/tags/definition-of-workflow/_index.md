@@ -1,5 +1,6 @@
 ---
 title: Definition of Workflow
+slug: definition-of-workflow
 ClassificationType: tags
 trustpilot: false
 date: 2025-05-05T09:00:00Z
@@ -30,7 +31,7 @@ Instructions: |-
   Classify only content that explicitly discusses the Definition of Workflow as a dynamic, explicit model for managing and improving the flow of work, in alignment with Kanban and agile philosophies. Exclude content that misrepresents, oversimplifies, or diverges from these core principles.
 headline:
   cards: []
-  title: 'Definition of Workflow (DoW): Making Work Explicit to Drive Continuous Improvement'
+  title: "Definition of Workflow (DoW): Making Work Explicit to Drive Continuous Improvement"
   subtitle: Clarifying how work moves through your system by visualising policies, entry and exit criteria, and progress boundaries to enable transparency and improvement.
   content: A clear, explicit model outlining how work moves through a system, making progress visible and understandable. Posts cover defining entry criteria, managing work-in-progress limits, establishing exit policies, visualising workflow, and continuously refining processes to enhance transparency, collaboration, adaptability, and effective decision-making in complex environments.
   updated: 2025-05-23T23:34:38Z
@@ -42,8 +43,8 @@ sitemap:
 concepts: []
 categories: []
 tags: []
-
 ---
+
 In Kanban, the Definition of Workflow (DoW) is not a static checklist. It is a dynamic model of how work flows through a value stream, and how progress is made visible. The Kanban Guide defines it as the **explicit agreements and policies** that guide how work is selected, started, progressed, and completed.
 
 It includes:
