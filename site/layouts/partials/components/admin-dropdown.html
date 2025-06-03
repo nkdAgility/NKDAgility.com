@@ -7,7 +7,7 @@
 
 
 <div class="dropdown {{ if eq hugo.Environment "production" }}d-none{{ end }}">
-  <button type="button" class="btn btn-sm btn-outline-secondary text-nowrap" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Admin </span><i class="fa-regular fa-lock"></i></button>
+  <button type="button" class="btn btn-sm btn-outline-secondary text-nowrap" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Admin </span>{{ partial "components/site-icon.html" (dict "icon" "fa-lock") }}</button>
   <div class="dropdown-menu dropdown-menu-end p-3">
     <strong>Internal</strong>
     {{ $RelPathMarkdown := printf "{{< ref \"%s\" >}}" .Path }}
