@@ -3072,5 +3072,24 @@
     "reasoning": "The content focuses on topic branches, branching strategies, and their impact on software quality, modularity, and delivery. While it discusses flow, integration, and agile practices, it does not explicitly or implicitly address the Definition of Workflow as articulated in Kanban or agile theory. There are no mentions of explicit workflow agreements, entry/exit criteria, WIP limits, or policies governing the flow of work. The discussion is technical and relevant to practitioners, but it is not about the Definition of Workflow category.",
     "reasoning_summary": "This content is about branching strategies and their role in software delivery, not about the Definition of Workflow in Kanban or agile contexts. It lacks discussion of workflow policies, entry/exit criteria, or WIP limits, so confidence in this classification is very low.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "O_VlmDj7n3V",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T12:23:15",
+    "ai_confidence": 5.750000000000001,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.0,
+    "ai_intent": 0.2,
+    "ai_audience": 6.5,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content never explicitly mentions OKRs and doesn't cover related concepts like Objectives, Key Results, alignment through transparency, iterative goal measurement, or strategic alignment—the central concepts defining OKRs according to John Doerr. Instead, it provides a detailed technical discussion around topic branches and branching strategy, emphasizing modularity, continuous integration, and team discipline, key DevOps and Agile engineering practices. While the general audience targeted by the content—software development teams and leaders practicing Agile and DevOps—does partially overlap with the audience for OKRs, the alignment to OKR-specific topics is minimal. There are marginal themes around agile development and integrating work towards broader goals, only implicitly and indirectly related to OKRs. However, these brief implied connections are insufficient for meaningful alignment and provide only minimal conceptual overlap. Penalties were not applied, as the content does not contradict or undermine the OKR framework nor present outdated information; it simply addresses a separate topic area unrelated to OKRs explicitly.",
+    "reasoning_summary": "This content focuses on branching strategies, continuous delivery, and agile engineering practices. It does not explicitly, nor implicitly, address OKRs or outcome-based goal-setting and measurement practices, showing little alignment with this category.",
+    "level": "Ignored"
   }
 }

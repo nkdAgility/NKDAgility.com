@@ -1907,5 +1907,24 @@
     "reasoning": "This content is a procedural guide for syncing code between VSTS/TFS and GitHub for DevOps in open source projects. It describes technical integration and automation steps, with focus on build definitions, synchronisation scenarios, and commands. Nowhere does it discuss explicit policies, agreements, WIP limits, entry/exit criteria, or other key Definition of Workflow concepts in the Kanban/agile sense. There are references to 'workflow' in casual, generic language typical to DevOps automation—but not as a defined, adaptable model or set of policies governing how work flows in value streams. There's some generalized fit for technical audiences, but otherwise little direct, conceptual, or depthful connection to the Definition of Workflow category as defined.",
     "reasoning_summary": "The content is a practical automation guide for syncing code between VSTS/TFS and GitHub, using DevOps processes. It does not discuss Definition of Workflow concepts like policies, entry/exit criteria, or WIP limits, nor does it frame workflow in a Kanban/agile context. Alignment is minimal.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "LWHiaHn3CWF",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T13:37:31",
+    "ai_confidence": 4.250000000000001,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.0,
+    "ai_intent": 0.2,
+    "ai_audience": 6.5,
+    "ai_signal": 6.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The provided content exclusively discusses how to technically configure and automate synchronization of code repositories between VSTS/TFS and GitHub, emphasizing Continuous Integration, source control management, and DevOps workflows. It contains no explicit or implicit mentions of Objectives and Key Results (OKRs), nor does it conceptually align with the OKR definition provided. It does not explore goal-setting, strategic alignment, outcome measurement, iterative learning, or similar OKR-related concepts. The intent is strictly instructional for technical configuration processes and tooling integration, not aligned with goal-setting or objective measurement frameworks. Audience alignment is moderately relevant as the technical DevOps audience might overlap with OKR practitioners within Agile or DevOps contexts, albeit indirectly. The overall content clarity and relevance (signal-to-noise) are reasonable, yet remain unrelated to the OKR framework specifically. Hence, the confidence score in categorizing this content as related to Objectives and Key Results is very low.",
+    "reasoning_summary": "This content provides technical instructions for synchronizing code between VSTS/TFS and GitHub, focused on DevOps practices and tooling integrations, and lacks relevance or reference to Objectives and Key Results (OKRs).",
+    "level": "Ignored"
   }
 }

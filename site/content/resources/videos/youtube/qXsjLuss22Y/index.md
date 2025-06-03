@@ -1,28 +1,23 @@
 ---
-title: What is a sprint goal?
+title: What is a product goal?
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
 date: 2023-05-30T11:00:40Z
 weight: 840
-slug: what-is-a-sprint-goal
+slug: what-is-a-product-goal
 aliases:
-- /resources/qXsjLuss22Y
-- /resources/videos/what-is-a-sprint-goal-qXsjLuss22Y
-- /resources/videos/what-is-a-sprint-goal
-- /resources/videos/what-is-a-product-goal
+  - /resources/qXsjLuss22Y
+  - /resources/videos/what-is-a-product-goal
 aliasesArchive:
-- /resources/videos/what-is-a-sprint-goal
-- /resources/what-is-a-sprint-goal
-- /resources/what-is-a-product-goal
-- /resources/videos/what-is-a-product-goal-
-- /resources/what-is-a-product-goal-
-- /resources/videos/what-is-a-product-goal
-- what-is-a-sprint-goal-qXsjLuss22Y
+  - /resources/what-is-a-product-goal
+  - /resources/videos/what-is-a-product-goal-
+  - /resources/what-is-a-product-goal-
+  - /resources/videos/what-is-a-product-goal
 concepts: []
 categories:
-- Product Development
+  - Product Development
 tags:
-- Software Development
-- Agile Product Management
+  - Software Development
+  - Agile Product Management
 ResourceId: qXsjLuss22Y
 ResourceImport: true
 ResourceType: videos
@@ -39,14 +34,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
-- video
+  - video
 Watermarks:
   description: 2025-05-07T13:12:02Z
-
 ---
+
 ## What's a Sprint Goal and Why Does It Matter?
 
-I think it's essential to ask what a sprint goal is and look deeper into why it matters. 
+I think it's essential to ask what a sprint goal is and look deeper into why it matters.
 
 How does a sprint goal drive progress?
 
@@ -80,7 +75,7 @@ A sprint goal serves as a very present and actionable guide, highlighting the im
 
 ## Concrete Nature of Sprint goals
 
-It's important to understand the sprint goal clearly. 
+It's important to understand the sprint goal clearly.
 
 So, let me explain.
 
