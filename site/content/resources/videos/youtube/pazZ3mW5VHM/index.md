@@ -1,26 +1,16 @@
 ---
-title: Most Common Thing You Hear in a PSPO Course?
+title: "Most influential people in Agile: Simon Reindl"
 description: Many Product Owners in PSPO courses feel a lack of control or influence. This highlights the need for greater empowerment, accountability, and active engagement in their role.
 date: 2023-07-06T14:33:51Z
 weight: 1000
-slug: most-common-thing-you-hear-in-a-pspo-course
+slug: most-influential-people-in-agile-simon-reindl
 aliases:
-- /resources/pazZ3mW5VHM
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
-- /resources/videos/most-influential-people-in-agile-simon-reindl
-aliasesArchive:
-- /resources/videos/most-common-thing-you-hear-in-a-pspo-course
-- /resources/part-2-most-influential-people-in-agile-2
-- /resources/part-2-most-influential-people-in-agile
-- /resources/most-common-thing-you-hear-in-a-pspo-course
-- /resources/most-influential-people-in-agile-simon-reindl
-- /resources/videos/most-influential-people-in-agile-simon-reindl
-- most-common-thing-you-hear-in-a-pspo-course-pazZ3mW5VHM
+  - /resources/pazZ3mW5VHM
+  - /resources/videos/most-influential-people-in-agile-simon-reindl
 concepts:
-- Accountability
+  - Accountability
 categories:
-- Uncategorized
+  - Uncategorized
 tags: []
 ResourceId: pazZ3mW5VHM
 ResourceImport: true
@@ -38,11 +28,11 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
-- video
+  - video
 Watermarks:
   description: 2025-05-07T13:10:59Z
-
 ---
+
 ## Common Comments from the PSPO Course
 
 Over the years teaching the PSPO course, I've heard one recurring sentiment from many Product Owners that goes something like this: "We don't have that kind of control."
@@ -61,7 +51,7 @@ They often elaborate, saying:
 
 - "Discussing the strategic direction with the business?  Seems out of our reach and we're usually left out of that conversation." 🚫
 
-Here's my perspective.   
+Here's my perspective.
 
 Acknowledging this feeling isn't a sign of defeat.  On the contrary, it's an open invitation to engage and to rise! 🌟
 

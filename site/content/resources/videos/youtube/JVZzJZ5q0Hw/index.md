@@ -1,32 +1,28 @@
 ---
-title: What is a sprint goal?
+title: What is the most common mistake in sprint planning?
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
 date: 2023-05-25T14:00:20Z
 weight: 840
-slug: what-is-a-sprint-goal
+slug: what-is-the-most-common-mistake-in-sprint-planning
 aliases:
-- /resources/JVZzJZ5q0Hw
-- /resources/videos/what-is-a-sprint-goal
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+  - /resources/JVZzJZ5q0Hw
+  - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
 aliasesArchive:
-- /resources/videos/what-is-a-sprint-goal
-- /resources/what-is-the-most-common-mistake-in-sprint-planning
-- /resources/what-is-a-sprint-goal
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
-- /resources/what-is-the-most-common-mistake-in-sprint-planning-
-- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
-- what-is-a-sprint-goal
+  - /resources/what-is-the-most-common-mistake-in-sprint-planning
+  - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
+  - /resources/what-is-the-most-common-mistake-in-sprint-planning-
+  - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Product Development
+  - Scrum
+  - Product Development
 tags:
-- Agile Product Management
-- Professional Scrum
-- Software Development
-- Agile Frameworks
-- Product Delivery
+  - Agile Product Management
+  - Professional Scrum
+  - Software Development
+  - Agile Frameworks
+  - Product Delivery
 ResourceId: JVZzJZ5q0Hw
 ResourceImport: true
 ResourceType: videos
@@ -43,14 +39,14 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
-- video
+  - video
 Watermarks:
   description: 2025-05-07T13:12:11Z
-
 ---
+
 ## What's a Sprint Goal and Why Does It Matter?
 
-I think it's essential to ask what a sprint goal is and look deeper into why it matters. 
+I think it's essential to ask what a sprint goal is and look deeper into why it matters.
 
 How does a sprint goal drive progress?
 
@@ -84,7 +80,7 @@ A sprint goal serves as a very present and actionable guide, highlighting the im
 
 ## Concrete Nature of Sprint goals
 
-It's important to understand the sprint goal clearly. 
+It's important to understand the sprint goal clearly.
 
 So, let me explain.
 
