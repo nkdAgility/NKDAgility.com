@@ -1,0 +1,5 @@
+{{- $globalIcons := partial "functions/get-global-icons.html" . -}}
+{{- range $globalIcons }}
+  {{- $iconName := strings.TrimPrefix "fa-" . }}
+  <i data-fa-symbol="{{ $iconName }}" class="fa-regular {{ . }} fa-fw"></i>
+{{- end }}

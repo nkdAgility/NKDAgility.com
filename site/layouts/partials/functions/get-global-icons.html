@@ -1,0 +1,27 @@
+{{- $icons := slice
+  "fa-lock"
+  "fa-message-pen"
+  "fa-list"
+  "fa-gear-code"
+  "fa-signal-stream"
+  "fa-video"
+  "fa-flux-capacitor"
+  "fa-code-pull-request-draft"
+  "fa-newspaper"
+  "fa-envelope-open-text"
+  "fa-book"
+  "fa-users-viewfinder"
+  "fa-cauldron"
+  "fa-share-from-square"
+  "fa-cowbell-circle-plus"
+  "fa-comment-pen"
+-}}
+{{- return $icons -}}
+{{/* PowerShell one-liner to extract all unique FontAwesome icons (fa-*) in Hugo files.
+  Run this in the root of your Hugo project:
+
+  Get-ChildItem -Recurse -Include *.html,*.md | `
+  Select-String -Pattern 'fa-[\w-]+' -AllMatches | `
+  ForEach-Object { $_.Matches.Value } | `
+  Sort-Object -Unique
+*/}}

@@ -1,12 +1,18 @@
 {{ if and (.Site.Params.TakingOnNewClients) (ne .RelPermalink "/company/book-online/") }}
   <!-- Link to Open Modal -->
   <div class="animated-text text-nowrap align-items-center">
-    <span class="icon"><i class="fa-solid fa-rocket-launch"></i></span>
-    <span class="icon"><i class="fa-solid fa-bracket-curly"></i></span>
+    <span class="icon">
+      <i class="fa-regular fa-rocket-launch"></i>
+    </span>
+    <span class="icon">
+     <i class="fa-regular fa-bracket-curly"></i>
+    </span>
     <span class="text text-nowrap">
       <a href="#" class="d-none matrixAnimation" data-bs-toggle="modal" data-bs-target="#newClientsModal" title="We're looking for 1 new client!">Accepting 1 new client!</a>
     </span>
-    <span class="icon"><i class="fa-solid fa-bracket-curly-right"></i></span>
+    <span class="icon">
+      <i class="fa-regular fa-bracket-curly-right"></i>
+    </span>
   </div>
 
   <!-- Modal -->

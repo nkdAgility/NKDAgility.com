@@ -1,0 +1,42 @@
+{{/* FontAwesome Icon Partial
+
+  Usage:
+  {{ partial "components/site-icon.html" (dict "icon" "fa-lock")
+}}
+{{ partial "components/site-icon.html" (dict "icon" "fa-lock" "class" "me-2") }}
+{{ partial "components/site-icon.html" (dict "icon" "fa-lock") }}
+
+Parameters: - icon: FontAwesome icon name (required) - e.g., "fa-lock", "lock", "fa-chevron-right" - style: FontAwesome style variant - "regular", "solid", "light", "brands", "thin", "duotone" (default: "regular") - class: Additional CSS classes to apply - title: Optional title attribute for accessibility - ariaHidden: Whether to hide from screen readers (default: true) Examples:
+{{ partial "components/site-icon.html" (dict "icon" "fa-lock") }}
+{{ partial "components/site-icon.html" (dict "icon" "lock") }}
+{{ partial "components/site-icon.html" (dict "icon" "fa-chevron-right" "class" "pe-1") }}
+*/}}
+{{- $icon := .icon }}
+{{- $class := .class | default "" }}
+{{- $title := .title | default "" }}
+{{- $ariaHidden := .ariaHidden | default true }}
+
+{{/* Validate required parameters */}}
+{{- if not $icon }}
+  {{- errorf "FontAwesome partial requires 'icon' parameter" }}
+{{- end }}
+
+{{- $globalIcons := partial "functions/get-global-icons.html" . -}}
+{{ $globalIcon := "" }}
+{{ range $globalIcons }}
+  {{ if eq . $icon }}
+    {{ $globalIcon = . }}
+  {{ end }}
+{{ end }}
+
+{{- if $globalIcon }}
+  {{- $globalIconName := strings.TrimPrefix "fa-" $globalIcon }}
+  <svg class="icon"><use href="#{{ $globalIconName }}"></use></svg>
+{{- else }}
+  {{/* Fallback to FontAwesome CSS classes */}}
+  {{- $iconClass := $icon }}
+  {{- if $class }}
+    {{- $iconClass = printf "%s %s" $icon $class }}
+  {{- end }}
+  <i class="fa-regular {{ $iconClass }}" {{- if $title }}title="{{ $title }}"{{- end }}{{- if $ariaHidden }}aria-hidden="true"{{- end }}></i>
+{{- end }}

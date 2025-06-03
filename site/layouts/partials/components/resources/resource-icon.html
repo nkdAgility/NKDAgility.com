@@ -1,20 +1,27 @@
 {{ $ResourceType := .Params.ResourceType | default "bug" }}
-{{ if eq $ResourceType "videos" }}
-  <i class="fa-solid fa-video"></i>
-{{ else if eq $ResourceType "blog" }}
-  <i class="fa-solid fa-newspaper"></i>
-{{ else if eq $ResourceType "newsletters" }}
-  <i class="fa-solid fa-envelope-open-text"></i>
-{{ else if eq $ResourceType "guides" }}
-  <i class="fa-solid fa-book"></i>
-{{ else if eq $ResourceType "workshops" }}
-  <i class="fa-solid fa-shield-check"></i>
-{{ else if eq $ResourceType "recipes" }}
-  <i class="fa-solid fa-cauldron"></i>
-{{ else if eq $ResourceType "signals" }}
-  <i class="fa-regular fa-signal-stream"></i>
-{{ else if eq $ResourceType "engineering-notes" }}
-  <i class="fa-regular fa-gear-code"></i>
+
+{{- $ResourceToIcons := dict
+  "videos" "fa-video"
+  "blog" "fa-newspaper"
+  "newsletters" "fa-envelope-open-text"
+  "guides" "fa-book"
+  "workshops" "fa-users-viewfinder"
+  "recipes" "fa-cauldron"
+  "signals" "fa-signal-stream"
+  "engineering-notes" "fa-gear-code"
+}}
+
+{{ if gt .Date (now) }}
+  {{ partial "components/site-icon.html" (dict "icon" "fa-flux-capacitor") }}
+{{ end }}
+{{ if .Draft }}
+  {{ partial "components/site-icon.html" (dict "icon" "fa-code-pull-request-draft") }}
+{{ end }}
+
+{{- $resourceIcon := index $ResourceToIcons $ResourceType }}
+
+{{- if $resourceIcon }}
+  {{ partial "components/site-icon.html" (dict "icon" $resourceIcon) }}
 {{ else }}
-  <i class="fa-solid fa-{{ .Params.ResourceType }}"></i>
+  {{ partial "components/site-icon.html" (dict "icon" "fa-square-question") }}
 {{ end }}
