@@ -2,11 +2,11 @@
   <div class="container-fluid text-center p-2 bg-brand-{{- hugo.Environment }}">
     {{ if .Page.Draft }}!!DRAFT!! |{{ end }}
     {{ if eq hugo.Environment "development" }}
-      Local | v0.0.0 | No Robots
+      Local | v0.0.0 | No Robots | <a href="#debugArea" class="">Debug Info</a>
     {{ else }}
       #{nkdAgility_AzureSitesConfig}# | v#{GitVersion.SemVer}# | No Robots
     {{ end }}
-    | <a href="#debugArea" class="">Debug Info</a>
+
   </div>
 {{ end }}
 
