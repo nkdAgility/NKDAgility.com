@@ -10,6 +10,7 @@ ResourceId: bpRR4ieKvr3
 ResourceImport: false
 ResourceType: blog
 ResourceContentOrigin: hybrid
+mermaid: true
 Watermarks:
   description: 2025-06-03T15:33:08Z
 concepts:
