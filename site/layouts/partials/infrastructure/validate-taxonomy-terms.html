@@ -1,0 +1,9 @@
+{{ if .IsHome }}
+  {{ range $taxonomy, $_ := site.Taxonomies }}
+    {{ range $term, $_ := . }}
+      {{ if findRE `[^\pL\pN\s_\-\#\+\.\@\~]` $term }}
+        {{ errorf `The term %q in taxonomy %q is invalid. Taxonomy terms may contain Unicode letters, Unicode numbers, spaces, and any of the following characters: "_", "-", "#", "+", ".", "@", and "~".` $term $taxonomy }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}

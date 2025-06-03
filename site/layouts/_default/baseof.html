@@ -4,6 +4,7 @@
   {{ partialCached "infrastructure/publish-redirects2.html" . }}
   {{ partialCached "infrastructure/publish-tags.html" . }}
   {{ partialCached "infrastructure/publish-categories.html" . }}
+  {{ partialCached "infrastructure/validate-taxonomy-terms.html" . }}
 {{ end }}
 <html lang="{{- or site.Language.LanguageCode }}" dir="{{- or site.Language.LanguageDirection `ltr` }}">
   <head>
@@ -209,7 +210,7 @@
                       {{- range $groups }}
                         <li>
                           {{- .Key }}
-                          {{- if hugo.Environment "development" }}
+                          {{- if eq hugo.Environment "development" }}
                             <ul>
                               {{- range .Pages }}
 
