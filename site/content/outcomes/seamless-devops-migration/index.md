@@ -1,7 +1,6 @@
 ---
 title: "Seamless DevOps Migration"
-date: 2025-04-28
-draft: true
+date: 2025-06-03
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
@@ -15,144 +14,147 @@ card:
   content: odernize your delivery pipeline without disrupting business operations through strategic migration that delivers value from day one.
 headline:
   cards: []
-  title: XXXX XXXXXX XXXXXXX XXXX
-  content: "XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX"
+  title: Seamless DevOps Migration
+  content: "**Your legacy systems are holding you back.** You know it. Your team knows it. But migrating to modern DevOps feels like open-heart surgery on a moving train."
 sections:
   - content: |
-      **XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.** XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.
+      **Migrate Without Mayhem. Scale Without Stalls.**  Limited downtime. Minimal data loss. No chaos. Just clean, secure, future-ready infrastructure — fast.
     type: content
   - type: outcomehero
     cta:
-      content: "XXXX XXXXXX XXXXXXX? **XXXX XXXXXX XXXXXXX.**"
+      content: "**Your migration shouldn't feel like a gamble.** Let us de-risk, accelerate, and empower your transformation."
       button:
-        text: "XXXX XXXXXX XXXXXXX"
+        text: "Ready to Modernize?"
         url: "/contact"
     boxes:
       - content: |
-          XXXX XXXXXX XXXXXXX
+          Struggling to unlock strategic outcomes?
       - content: |
-          XXXX XXXXXX XXXXXXX
+          Bleeding time, risk, and value?
       - content: |
-          XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          Loosing credibility and confidence?
+  - title: Pain Removed. Confidence Restored.
     type: list
     list:
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+      - title: Legacy System Lock-In
+        icon: fa-lock-open
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          We break you free from outdated monoliths and brittle infrastructure.
+      - title: Downtime & Data Risk
+        icon: fa-heartbeat
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Migrate with zero disruption. Your customers won’t feel a thing.
+      - title: Security & Compliance Stress
+        icon: fa-shield-alt
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          We embed security into every pipeline, keeping you compliant from day one.
+      - title: Toolchain Chaos & Vendor Dependence
+        icon: fa-project-diagram
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Say goodbye to Frankenstein stacks and lock-in fears. We deliver clean, interoperable systems that scale.
+      - title: Internal Resistance & Skill Gaps
+        icon: fa-user-graduate
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+          We coach and upskill your teams while implementing — so change sticks.
   - type: quote
     backgroundColor: primary
     quote: |
-      "XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX"
-      - **XXXX XXXXXX | XXXX XXXXXX XXXXXXX | XXX**
-  - title: XXXX XXXXXX XXXXXXX
+      "Martin is extremely knowledgeable and experienced in helping teams become more agile and adopt DevOps practices especially around the Microsoft Azure platform and VSTS / TFS. But he is not limited to that stack with plenty of experience with competing and complimentary technologies.  He explains things clearly and gets rid of any 'smoke and mirrors' to show how any team can make small improvements to improve how they work. He is one of the leading MVP's globally for DevOps and someone myself and my colleagues in the Azure product group trust to give us honest and insightful feedback."
+      - **Martin Woodward | Principal Group Program Manager | Azure DevOps, Microsoft**
+  - title: What You Gain with NKD Agility
     type: list
     listType: boxed
     list:
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+      - title: Future-Proof Infrastructure
+        icon: fa-network-wired
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          You don’t just migrate — you modernize. Seamless integration with CI/CD, IaC, and automated QA included.
+      - title: Increased Velocity, Reduced Waste
+        icon: fa-gauge-high
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Your delivery pipeline becomes a flow engine. Predictable. Scalable. Controlled.
+      - title: Confidence in Your Tech Strategy
+        icon: fa-compass-drafting
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Make decisions that stick. With NKD Agility’s guidance, your tech roadmap becomes an asset — not a risk.
+      - title: Strategic Authority
+        icon: fa-chess-king
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          Become the trusted tech leader your company needs — not just the person putting out fires.
+  - title: Executive-Level Buy-In
     type: content
     content: |
-      XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+      We speak the language of the boardroom — and equip you to do the same.
   - type: outcomeboxes
-    title: XXXX XXXXXX XXXXXXX
+    title: What we bring to your DevOps migration
     boxes:
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
+          - title: Migrate legacy systems to modern DevOps
+          - title: Eliminate downtime during transformation
+          - title: Implement secure, scalable infrastructure
+          - title: Standardize CI/CD, IaC, monitoring, and QA
+          - title: Enable faster, more predictable delivery
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
+          - title: Build trust in the migration strategy
+          - title: Reduce anxiety and gain clarity in complex transitions
+          - title: Feel in control of an overwhelming landscape
+          - title: Reclaim confidence and reduce burnout
+          - title: Manage risk while innovating
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          - title: Advocate confidently to execs and stakeholders
+          - title: Mentor teams through change
+          - title: Lead transformation and set the tone for innovation
+          - title: Represent the company as a tech visionary
+          - title: Align cross-functional teams and kill the silos
+  - title: Real-World Results
     type: casestudy
     list:
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Fortune 500 company migrated with zero downtime and 3x delivery acceleration.
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Reduced deployment risk by 90% in regulated financial environments.
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Aligned product, engineering, and business teams within 8 weeks of kickoff.
     cta:
-      content: "XXXX XXXXXX XXXXXXX?"
+      content: "Want proof?"
       button:
-        text: "XXXX XXXXXX XXXXXXX"
+        text: "Explore Case Studies"
         url: "/resources/case-studies"
   - title: Why NKDAgility?
     type: textNlist
     list:
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Migration without breakdowns.
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          DevOps without drama.
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Leadership without guesswork.
     sideContent: |
-      XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+      **We’ve seen migrations go wrong — and know how to get them right.**
 
-      XXXX XXXXXX XXXXXXX
+      Unlike traditional consultancies, we embed deep engineering expertise (backed by Martin Hinshelwood’s Microsoft MVP status) with Agile product development, delivering strategic outcomes that stick.
 
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "XXXX XXXXXX XXXXXXX"
+      content: "Engineering Excellence. DevOps Mastery. Agile Evolution."
       button:
         text: "Schedule a call"
         url: "/book"
 ---
 
+What you get landing page 1
+
+---
 
 **✅ Seamless DevOps Migration**
 
