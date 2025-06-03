@@ -49,7 +49,7 @@ function Call-OpenAI {
 
     # Create the body for the API request
     $body = @{
-        "model"       = "gpt-4.5-preview"
+        "model"       = "gpt-4.1"
         "messages"    = @(
             @{ "role" = "system"; "content" = $system },
             @{ "role" = "user"; "content" = $prompt }
@@ -238,7 +238,7 @@ $batchesInProgressMax = 10;
 function Submit-OpenAIBatch {
     param (
         [string]$OPEN_AI_KEY = $env:OPENAI_API_KEY,
-        [string]$Model = "gpt-4.5-preview",
+        [string]$Model = "gpt-4.1",
         [array]$Prompts,
         [string]$OutputFile = "batch_output.jsonl"
     )
