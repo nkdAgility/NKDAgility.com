@@ -14,7 +14,7 @@ $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources" -YearsBack 10
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\blog\2025\2025-08-18-getting-strted-with-okr" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects

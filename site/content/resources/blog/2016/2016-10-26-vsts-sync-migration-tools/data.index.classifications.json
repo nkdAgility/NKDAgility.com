@@ -1887,5 +1887,24 @@
     "reasoning": "The content is focused entirely on explaining and marketing open-source migration tools for VSTS/TFS, discussing their history, current capabilities, and future plans. There are no explicit references to Kanban, agile, or the Definition of Workflow as outlined in the classification. The migration of work items, test plans, teams, and areas is discussed purely in terms of technical data transfer—not as a means of making processes or workflow visible, explicit, or adaptable. There’s no mention of entry/exit criteria, WIP limits, or workflow policies relevant to Kanban. The audience is primarily DevOps or development teams dealing with tool migration rather than teams looking to understand or define their workflow in the Kanban/agile sense. The tiny relevance comes from brief indirect references to work item states; otherwise, the content is off-topic.",
     "reasoning_summary": "This content centers on migration tooling and lacks any explicit or meaningful discussion of the Definition of Workflow as understood in Kanban/agile. It does not align with the category's criteria and is almost entirely out of scope.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T13:37:27",
+    "ai_confidence": 4.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.1,
+    "ai_audience": 3.5,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The provided content contains no direct mentions or references to Objective and Key Results (OKRs). Instead, it focuses entirely on migration and synchronization solutions for migrating work items, test plans, teams, and project structures between TFS and VSTS. It mainly discusses the technical functionality and practical aspects of VSTS Sync Migration Tools without exploring any aspect of the OKR framework (definition of goals, measurable results, alignment, transparency, accountability structures, or iterative learning). There is minimal conceptual alignment as the content addresses migration and data transfer, which is unrelated to outcome-driven goal setting. The depth of discussion of OKRs is negligible since the content solely explores migration issues. Intent does not align with the core purpose of discussing OKRs as the intent clearly revolves around technical migration issues, unrelated to strategic goal-setting frameworks. The audience (DevOps and Agile practitioners) slightly overlaps with a subset of the audience for OKRs, thus receiving a moderate audience alignment score. The signal-to-noise ratio in respect to OKRs is low, as the vast majority (>95%) is off-topic towards OKRs. No penalties were applied, because although irrelevant, the content does not demonstrate outdated OKR practices or actively contradict OKR principles.",
+    "reasoning_summary": "The content focuses strictly on technical migration tools (TFS/VSTS) without mentioning or aligning conceptually with OKRs. Only audience partially overlaps, everything else is off-topic for OKRs.",
+    "level": "Ignored"
   }
 }

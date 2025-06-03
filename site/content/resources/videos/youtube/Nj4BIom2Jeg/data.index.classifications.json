@@ -3113,5 +3113,24 @@
     "reasoning": "The content is focused on integrating telemetry into the Definition of Done, not the Definition of Workflow. It does not discuss workflow policies, entry/exit criteria, WIP limits, or Kanban-specific concepts. There is only a tangential connection to workflow, as telemetry could inform process improvement, but the main thrust is about completion criteria (Definition of Done), not workflow management. The audience is technical teams, which partially overlaps, but the content lacks direct relevance, depth, or explicit mention of the Definition of Workflow.",
     "reasoning_summary": "This content is about making telemetry part of the Definition of Done, not the Definition of Workflow. It doesn't address workflow policies or Kanban concepts, so confidence in this classification is very low.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "Nj4BIom2Jeg",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T12:22:42",
+    "ai_confidence": 11.000000000000002,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.1,
+    "ai_intent": 1.0,
+    "ai_audience": 4.5,
+    "ai_signal": 4.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content provided does not explicitly mention Objectives and Key Results or OKRs at all, resulting in a 'mentions' score of 0. Conceptually, the primary emphasis here is telemetry—collecting data and feedback to inform product decisions. While telemetry may play a supporting role within an OKR framework (as a tool for tracking and measuring Key Results), this article does not frame telemetry explicitly in the context of OKRs, nor does it discuss OKR-aligned concepts like strategic alignment or goal-setting. Instead, the discussion revolves around telemetry practices related to Definition of Done, Agile delivery practices, and continuous feedback for incremental software improvement. The depth of discussion concerning OKRs specifically is also negligible, addressing only indirectly the practices of feedback loops or data-driven decisions, not the structured OKR system. The intent of the article (advocating telemetry practices within Agile software development) is tangential, at best, to the strategic intent and theoretical frameworks central to OKRs. Audience alignment scores moderately, as the Agile and DevOps teams discussed may overlap significantly with OKR-practicing teams, though not directly addressed. Signal-to-noise is moderate since the topic itself (telemetry for incremental product delivery feedback) could be data-supportive in a very broad interpretation relevant to OKRs, but no explicit or meaningful direct relevance exists. No penalties were applied as the tone or practices mentioned are current and do not actively contradict OKR framing explicitly, they simply ignore it altogether.",
+    "reasoning_summary": "The content clearly emphasizes telemetry as part of Agile software delivery, not referencing or aligning explicitly with OKRs. Its focus remains telemetry-related practice and broader Agile concepts without direct relevance or significant conceptual overlap with the OKR framework.",
+    "level": "Ignored"
   }
 }

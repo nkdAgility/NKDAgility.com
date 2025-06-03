@@ -1859,5 +1859,24 @@
     "reasoning": "The content does not discuss the Definition of Workflow as defined in Kanban or agile contexts. It focuses entirely on technical steps for migrating repositories, with no mention of workflow agreements, policies, WIP, entry/exit criteria, or related agile concepts. Any indirect relevance is minimal and coincidental, such as mentioning steps or procedures, but these are unrelated to the category's definition or audience. No penalties were needed as the tone and references are current and not in contradiction with the category.",
     "reasoning_summary": "This content is unrelated to the Definition of Workflow category, focusing solely on migration steps between source control platforms without referencing agile workflow policies or concepts.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T13:37:42",
+    "ai_confidence": 0.0,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.0,
+    "ai_depth": 0.0,
+    "ai_intent": 0.1,
+    "ai_audience": 0.8,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 0.0,
+    "reasoning": "The provided content solely explains a technical process of migrating a repository from Codeplex to Github. It details issues with GitHub's import tool, usage of Git-TF for version control migration, and converting wiki pages from HTML to Markdown. There are no explicit or implicit mentions of OKRs, objectives, key results, goal alignment, outcome measurement, or any related concept. The primary topics (tool usage, technical migration steps, troubleshooting, and repository hosting) bear no conceptual or thematic relationship to the OKR framework, as defined by John Doerr or the core category description provided. Thus, scores reflecting category mentions, conceptual alignment, and depth are determined to be zero or negligible. The content intent is tangential at best (score of 0.1 assigned due to its neutral, informative nature), and the target audience (technical practitioners) may partially overlap with agile/DevOps audiences interested in OKRs, prompting a modest audience alignment score of 0.8. Signal-to-noise ratio is very low (0.2) considering relevance to the defined category. No penalties are relevant, as content is neither outdated in relation to OKRs nor actively contradictory—the content simply addresses an unrelated topic.",
+    "reasoning_summary": "The content is exclusively about technical repository migration from Codeplex to Github, with no relevance or alignment to Objective & Key Results (OKRs).",
+    "level": "Ignored"
   }
 }

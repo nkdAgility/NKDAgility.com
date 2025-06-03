@@ -1904,5 +1904,24 @@
     "reasoning": "The content focuses on resolving TFS build permission errors and setup steps, with no explicit or implicit discussion of the Kanban-related Definition of Workflow. It does not refer to entry/exit policies, WIP, or dynamic agreements around workflow, nor does it target audiences interested in process improvement or work visualization. While 'build definition' is mentioned, it is not related to 'Definition of Workflow' as defined for Kanban/agile. There is no relevant discussion of the main themes or audience.",
     "reasoning_summary": "This content is about troubleshooting TFS build permissions and setup steps, not the Kanban-aligned Definition of Workflow. There are no relevant concepts, policies, or process management discussions matching the category.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "l331AonWBuN",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T13:37:58",
+    "ai_confidence": 1.5000000000000002,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0.1,
+    "ai_audience": 0.5,
+    "ai_signal": 0.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The given content entirely deals with a technical issue concerning build agent setup, permissions, and orchestration plan access within TFS (Team Foundation Server). It does not mention OKRs nor concepts like Objectives, Key Results, strategic alignment, outcome or evidence-based measurement, transparency, accountability, or any core principles defined by John Doerr in 'Measure What Matters.' The content exclusively focuses on troubleshooting build permission challenges with no conceptual linkage or mention of OKRs. Thus, scores for mentions, alignment, depth, intent are nearly zero. Minimal points were granted for audience and signal-to-noise ratio because agile/technical DevOps teams might overlap with OKR audience, and the content is focused without unrelated filler. No penalties are applicable as there's no outdated/critical tone contradicting OKRs.",
+    "reasoning_summary": "The content contains no meaningful reference or conceptual alignment to Objective & Key Results and exclusively addresses technical permissions troubleshooting in TFS builds.",
+    "level": "Ignored"
   }
 }

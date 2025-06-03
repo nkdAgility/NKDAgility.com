@@ -35,8 +35,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.7
 icon: fa-person-running
-concepts:
-- Capability
 categories:
 - Technical Leadership
 - Leadership
@@ -56,6 +54,8 @@ tags:
 - Business Agility
 - Pragmatic Thinking
 - Change Management
+concepts:
+- Ethos
 
 ---
 **Agency** is **the capacity, condition, or state of acting or exerting power**. In Agile, Scrum, DevOps, and organisational change, it means **the ability to act with autonomy, intentionality, and accountability toward meaningful goals within socio-technical environments**.
