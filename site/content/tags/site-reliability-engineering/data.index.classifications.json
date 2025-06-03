@@ -3038,5 +3038,24 @@
     "reasoning": "The content focuses on Site Reliability Engineering (SRE), its ethos, and how it embeds resilience and reliability in systems. While it mentions the Definition of Done, it does not refer to or discuss the Definition of Workflow, its agreements, workflows, entry/exit criteria, or Kanban-specific principles. There is some tangential overlap in themes of transparency and iteration, but no substantive connection to Definition of Workflow practices or philosophy as required by the category. The audience is technology practitioners, partly overlapping the intended audience, but all direct, conceptual, and depth cues relating to Definition of Workflow are absent.",
     "reasoning_summary": "This content describes SRE principles and operational resilience, not the Definition of Workflow. It lacks discussion of Kanban workflow agreements, entry/exit criteria, or related policies. Only minimal overlap with the category’s themes of transparency and iteration.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "K0i7PIZARDw",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T13:43:49",
+    "ai_confidence": 23.750000000000004,
+    "ai_mentions": 0.0,
+    "ai_alignment": 3.5,
+    "ai_depth": 2.9,
+    "ai_intent": 3.2,
+    "ai_audience": 6.8,
+    "ai_signal": 6.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content provided focuses explicitly on Site Reliability Engineering (SRE) and DevOps principles such as resiliency, automation, progressive delivery, and reliability metrics (SLIs, SLOs, MTTR). It does not explicitly mention nor implicitly align with Objectives & Key Results (OKR) as defined by John Doerr. While there is some conceptual alignment around transparency, measurement, and clear indicators like SLIs and metrics (which could conceivably be interpreted as similar to OKR key results), the content's primary emphasis remains explicitly on production reliability and operational engineering disciplines—areas more associated with DevOps and SRE practices than strategic outcome-focused frameworks like OKRs. The depth of discussion around goal-setting, strategic alignment, outcome measurement, or explicit framing using OKR principles (Objectives or explicit Key Results tied to strategic intent) is minimal; thus the scores for mentions, conceptual alignment, depth of discussion, and purpose fit reflect only very limited intersection. Audience alignment (practitioner level engineers and teams in Agile/DevOps contexts) is more compatible, resulting in higher audience score and signal-to-noise ratio. No penalties applied as the content is contemporary, neither outdated nor contradictory to OKR frameworks.",
+    "reasoning_summary": "The content's primary focus is on Site Reliability Engineering (SRE) and DevOps practices like reliability metrics and automation, with minimal relevance and no explicit connection to Objective & Key Results (OKRs) frameworks.",
+    "level": "Ignored"
   }
 }

@@ -3113,5 +3113,24 @@
     "reasoning": "The content focuses on shifting left in software quality, emphasising early validation, security, and strengthening the Definition of Done. There is a single, indirect mention of workflow concepts (steady, reliable flow), but no explicit discussion of the Definition of Workflow as per Kanban or agile theory. The main focus is on quality practices and prevention of late-stage defects, not on explicit workflow agreements, entry/exit criteria, or WIP limits. The audience is technical teams, but the content does not address the Definition of Workflow's core principles or mechanisms.",
     "reasoning_summary": "This content is about shifting left and building quality in early, not about the Definition of Workflow. It lacks explicit discussion of workflow policies, entry/exit criteria, or Kanban concepts, so confidence in this classification is very low.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "cgZVYLmyyH0",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T12:23:16",
+    "ai_confidence": 10.500000000000002,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.5,
+    "ai_audience": 4.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The provided content focuses entirely on improving software quality and delivery efficiency by adopting 'shift left' practices. This practice emphasizes detecting and correcting defects early in the development pipeline, embedding higher quality standards, automated testing, more rigorous definitions of 'Done,' and early-stage validation measures. Although closely related to Agile, Scrum, and DevOps best practices, the content does not reference or align explicitly with the Objectives & Key Results (OKRs) framework. There were no direct mentions of OKRs, the theoretical foundations of John Doerr's work, nor a conceptually aligned effort to discuss measurable strategic outcomes using Objectives or Key Results. The content primarily addresses tactical quality practices—code reviews, telemetry, security checks, automated testing—not the strategic clarity, alignment, tracking, or stretch emphasis articulated by the OKR methodology. The minor alignment (0.5) and depth (0.3) scores reflect the minimal conceptual connections—such as continuous improvement and outcome-driven impact—but these connections remain weak and implicit. No penalties were applied as the content does not negatively or critically address OKRs or present outdated practices. Therefore, overall confidence in categorizing this content under OKRs is quite low.",
+    "reasoning_summary": "The content emphasizes quality management and 'shifting left' to reduce late-stage defects; however, it lacks explicit mentions and clear alignment with OKR principles or methodologies.",
+    "level": "Ignored"
   }
 }

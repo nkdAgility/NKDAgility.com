@@ -1889,5 +1889,24 @@
     "reasoning": "The content discusses applying and managing branch policies in TFVC, focusing on technical implementation details such as regular expression pattern matching, branch locks, code reviews, and work item requirements. There are no explicit mentions or substantive discussion of Kanban, agile theory, or the Definition of Workflow as a dynamic, explicit model for flow management. Any relevance is incidental; the policies described pertain to version control compliance, not to making work flow visible or adaptable according to Kanban/DevOps principles. The focus is on tool configuration, not workflow theory, entry/exit criteria, WIP limits, or the related policies highlighted in the category definition.",
     "reasoning_summary": "This content describes how to use branch policies in TFVC, focusing on technical controls for version control rather than the Kanban-aligned Definition of Workflow. It lacks explicit references or substantive alignment with workflow policies as defined for this category.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "_26VFOA-vCe",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-03T13:37:48",
+    "ai_confidence": 2.7500000000000004,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0.1,
+    "ai_audience": 2.8,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The provided content exclusively addresses Technical Foundation Version Control (TFVC) policies, explicitly focusing on implementation specifics such as branch locking, code reviews, and work item requirements. There is no mentioning, explicit nor implicit, of Objective & Key Results (OKRs), their principles, components, strategic intent, alignment practices, or outcome measurement philosophies. The content strictly pertains to technical configuration management rather than strategic outcome measurement or agile goal-setting frameworks represented by OKRs. Consequently, the score across mentions, alignment, depth, and intent dimensions is exceptionally low, as it does not resonate with any OKR concept or align to the theoretical foundations as described by John Doerr. Audience and Signal-to-Noise scores are slightly higher, since the content's technical audience (practitioners in agile/DevOps contexts) may partially overlap with OKRs audience, but the inclusion is tangential at most. Overall, confidence is appropriately minimal, reflecting a practically non-existent alignment to the Objective & Key Results category.",
+    "reasoning_summary": "The content addresses TFVC branch management policies without referencing or aligning with OKRs concepts, making its relevance to Objective & Key Results negligible.",
+    "level": "Ignored"
   }
 }
