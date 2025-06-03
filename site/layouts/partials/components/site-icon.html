@@ -108,5 +108,5 @@ Parameters: - icon: FontAwesome icon name (required) - e.g., "fa-lock", "lock", 
   {{- if $class }}
     {{- $iconClass = printf "%s %s" $icon $class }}
   {{- end }}
-  |<i class="fa-regular {{ $iconClass }}" {{- if $title }}title="{{ $title }}"{{- end }}{{- if $ariaHidden }}aria-hidden="true"{{- end }}></i>
+  <i class="fa-regular {{ $iconClass }}" {{- if $title }}title="{{ $title }}"{{- end }}{{- if $ariaHidden }}aria-hidden="true"{{- end }}></i>
 {{- end }}
