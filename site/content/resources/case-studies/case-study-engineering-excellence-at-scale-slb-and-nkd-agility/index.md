@@ -2,6 +2,7 @@
 title: "Case Study: Engineering Excellence at Scale - SLB and NKD Agility"
 description: Learn how SLB streamlined 90 global teams by consolidating source control, standardizing build strategies, and empowering teams—achieving faster releases and engineering excellence.
 date: 2025-06-02
+draft: true
 weight: 1000
 slug: case-study-engineering-excellence-at-scale-slb-and-nkd-agility
 aliases:
