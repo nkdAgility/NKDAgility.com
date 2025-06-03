@@ -3113,5 +3113,24 @@
     "reasoning": "The content is focused entirely on the Definition of Done, not the Definition of Workflow. It discusses how teams can incrementally improve their Definition of Done, with examples such as adding automated tests, telemetry, and compliance checks. There is no mention of workflow policies, entry/exit criteria, WIP limits, or Kanban-specific concepts. The intent, depth, and alignment are all low for the Definition of Workflow category, as the content is not about making the flow of work explicit or adaptable, but rather about evolving quality standards for completion. The audience is somewhat related (agile teams), but the signal-to-noise ratio is low for this category.",
     "reasoning_summary": "This content is about evolving the Definition of Done, not the Definition of Workflow. It lacks discussion of workflow policies, Kanban, or flow management, so confidence in this category is very low.",
     "level": "Ignored"
+  },
+  "Objective & Key Results": {
+    "resourceId": "-tlSlpyeb9A",
+    "category": "Objective & Key Results",
+    "calculated_at": "2025-06-03T12:22:23",
+    "ai_confidence": 5.750000000000001,
+    "ai_mentions": 0.0,
+    "ai_alignment": 4.0,
+    "ai_depth": 2.5,
+    "ai_intent": 2.5,
+    "ai_audience": 7.5,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content centers clearly on evolving the Definition of Done in a progressively incremental manner within Agile teams, emphasizing starting small, improving incrementally, and avoiding overwhelm. While these themes do align conceptually with agility, iterative improvement, and continuous learning, there is no explicit mention or connection to Objectives & Key Results (OKRs) as defined by John Doerr. Key OKR-specific content such as explicitly measuring outcomes, strategic alignment, key results, transparency through clearly communicated objectives, outcome-based measurement, and iterative adaptation relative to OKRs are completely absent. Although the principles of incremental improvement may indirectly relate conceptually to continuous improvement and iterative adaptation important to OKRs, there is no direct reference or deeper theoretical or practical exploration of OKRs themselves. Hence, scoring for Direct Mentions (0.0) and Intent (2.5) is very low. Conceptual alignment and depth scores are relatively low (4.0 and 2.5, respectively) because only minimal thematic overlap exists. Audience alignment (7.5) and signal-to-noise (8.0) scored higher as the agile-practitioner audience and focused discussion align more clearly with those dimensions. No penalties applied as the tone is positive and contemporary.",
+    "reasoning_summary": "The content addresses iterative improvement and standards evolution in Agile teams but lacks explicit reference to OKRs or their fundamental principles, resulting in minimal category alignment.",
+    "level": "Ignored"
   }
 }

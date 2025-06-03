@@ -1941,5 +1941,24 @@
     "reasoning": "The content focuses on selecting process templates (Scrum, Agile, CMMI) in TFS/VSTS, comparing their features, and advocating for the Scrum template to reduce friction in agile teams. While it touches on the value of workflows (e.g., prescribed steps, customizing fields, and backlog handling), it does not explicitly discuss or define the 'Definition of Workflow' per Kanban/agile theory, nor does it mention explicit policies, flow agreements, entry/exit criteria, or WIP limits. The primary focus is tool/template choice, not defining workflows as dynamic, explicit models as required. Thus, there is low alignment and depth in relation to the target category.",
     "reasoning_summary": "This content centers on comparing and selecting process templates in TFS/VSTS, emphasizing the Scrum template's advantages for agile teams. It does not explicitly address the Definition of Workflow concept or its core practices in Kanban/agile, resulting in low relevance to the category.",
     "level": "Ignored"
+  },
+  "Objective & Key Results": {
+    "resourceId": "dGSGEOYRJAo",
+    "category": "Objective & Key Results",
+    "calculated_at": "2025-06-03T13:37:14",
+    "ai_confidence": 4.500000000000001,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.2,
+    "ai_depth": 1.5,
+    "ai_intent": 1.5,
+    "ai_audience": 6.5,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 5.0,
+    "reasoning": "The content provided focuses entirely on selecting the appropriate process template (CMMI, Agile, or Scrum) within TFS/VSTS. It emphasizes reducing friction and easing Agile implementation. However, it does not reference OKRs or Objective & Key Results explicitly or implicitly. There is no discussion around goals, measurable outcomes, strategic alignment, stretch goals, or iterative reviews in the sense defined by OKR practices and theory. Given this significant gap, the dimension 'Direct Mentions' is scored at 0. Conceptual Alignment and Depth of Discussion are low, as no substantial ideas tied to OKR practices are introduced or elaborated upon. Intent/Purpose Fit is low because the primary aim seems to be around process-template friction reduction rather than outcome-based strategic alignment, even though Agile methodology might indirectly relate to iterative improvements. Audience Alignment is moderate since teams using agile processes and interested in iterative improvements potentially overlap with OKR practitioners, though still indirectly. Signal-to-Noise is moderately rated because the content, while not about OKRs, is devoid of unrelated filler and remains consistently on Agile process templates. No penalties were applied because the article neither undermines nor criticizes OKR frameworks explicitly.",
+    "reasoning_summary": "The content focuses purely on TFS/VSTS process template selection and does not significantly align with Objective & Key Results (OKRs). It lacks explicit or implicit discussion of OKR principles or implementation.",
+    "level": "Ignored"
   }
 }

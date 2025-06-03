@@ -2439,5 +2439,24 @@
     "reasoning": "The content focuses on developer agency in DevOps, emphasising operational control, feedback loops, and the pitfalls of automation without empowerment. It does not discuss the Definition of Workflow as per Kanban or agile theory. There is a single mention of 'Definition of Done', but no exploration of workflow policies, entry/exit criteria, WIP limits, or explicit agreements governing flow. The main themes are about organisational culture and operational authority, not workflow definition. Thus, the content is only tangentially related to the category, resulting in low scores across all dimensions.",
     "reasoning_summary": "This content is about developer agency and operational control in DevOps, not the Definition of Workflow. It lacks discussion of workflow policies, entry/exit criteria, or Kanban concepts, so it only weakly fits the category.",
     "level": "Ignored"
+  },
+  "Objective & Key Results": {
+    "resourceId": "AgIU1SK-3pE",
+    "category": "Objective & Key Results",
+    "calculated_at": "2025-06-03T12:22:35",
+    "ai_confidence": 4.1000000000000005,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.2,
+    "ai_depth": 0.1,
+    "ai_intent": 0.2,
+    "ai_audience": 6.6,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content explicitly and deeply discusses operational agency, feedback loops, developer empowerment, telemetry ownership, and continuous delivery. It emphasizes implementing genuine continuous delivery practices through developer autonomy and production-controlled feedback loops. Although deeply relevant for agile, DevOps, and continuous delivery concepts, the content never directly mentions Objective & Key Results (OKRs), nor implicitly aligns with their strategic intent, theoretical foundations, or practical use. The explicit OKR components (objectives, key results, strategic alignment, transparent tracking, stretch goals, or iterative OKR-driven reviews) are not present. Therefore, scores for Direct Mentions, Conceptual Alignment, Depth of Discussion, and Intent/Purpose Fit are very low. Audience Alignment is relatively high, as the same practitioner-level audience interested in DevOps, Agile, and continuous improvement could potentially engage with OKRs. Signal-to-Noise is generally good within its context, though largely off-topic concerning OKRs. No penalties applied for outdated or contradictory content.",
+    "reasoning_summary": "Content discusses operational agency and continuous delivery practices extensively, with no meaningful reference or conceptual alignment to Objective & Key Results (OKRs). Its relevance to OKRs is negligible.",
+    "level": "Ignored"
   }
 }

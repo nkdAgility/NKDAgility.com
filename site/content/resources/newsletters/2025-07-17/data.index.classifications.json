@@ -3200,5 +3200,24 @@
     "reasoning": "The content focuses on breaking organisational silos, improving branching models, and leadership accountability in software delivery. While it discusses improving flow and adaptability, it does not explicitly mention or deeply explore the Definition of Workflow as articulated in Kanban or agile contexts. There are no direct references to workflow policies, entry/exit criteria, WIP limits, or the explicit agreements central to the category. The main audience (technical leaders) aligns somewhat, but the content is more about system and team design than workflow definition. Thus, confidence is low.",
     "reasoning_summary": "This content addresses leadership, branching, and organisational design for better delivery flow, but it does not explicitly discuss or define workflow in the Kanban/agile sense. Its focus is adjacent, not central, to the Definition of Workflow category.",
     "level": "Ignored"
+  },
+  "Objective & Key Results": {
+    "resourceId": "AORP41zLNTi",
+    "category": "Objective & Key Results",
+    "calculated_at": "2025-06-03T12:23:05",
+    "ai_confidence": 18.750000000000004,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content explicitly focuses on technical leadership practices such as trunk-based development, removing organizational silos, improving architectures, CI/CD practices, and application logic placement. There is no reference to Objective Key Results (OKRs), no discussions of strategic alignment through measurable outcomes, and no explicit mention of OKR concepts or principles (Objectives, Key Results, measurement strategies, strategic alignment, transparency or accountability in OKRs context). While there is minor conceptual overlap in terms of managing teams effectively and setting clear system goals, the detailed prescriptions for branching strategies, team structuring, and architectural boundaries are more about DevOps practices, technical governance and software delivery optimization rather than the structured OKR framework outlined by John Doerr. Thus, the alignment, depth, mentions, and intent relative to the 'Objective & Key Results' category are low. Audience alignment is moderate as technical and organizational leaders are a relevant but broader audience segment. Signal-to-noise is moderate-high, as content is tightly focused but on a different topic area entirely. No penalties are applied, as the content is neither outdated nor contradicting towards the OKR concept explicitly.",
+    "reasoning_summary": "The content addresses technical leadership and DevOps practices without referencing OKRs. Minimal conceptual alignment exists, making it largely irrelevant to the 'Objective & Key Results' category.",
+    "level": "Ignored"
   }
 }

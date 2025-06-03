@@ -1916,5 +1916,24 @@
     "reasoning": "There is no explicit or implicit discussion of the Definition of Workflow in the provided content. The article focuses on source control, DevOps, automation, release pipelines, and best practices for modern software teams. The only vaguely related mention is to the 'Definition of Done,' but this is clearly distinct from Definition of Workflow and not elaborated as a workflow-centric topic. The content does not discuss workflow policies, entry/exit criteria, WIP limits, or Kanban-specific concepts; nor does it emphasize making work flow explicit or dynamically adaptable. Its main audience overlaps with potential Kanban/Agile practitioners, which mildly raises audience alignment, and some mention of related concepts (lead/cycle time, flow, lean) lifts the signal and alignment scores slightly. However, the main ideas and depth completely fail to address the key category, and there are no outdated or critical references that would merit penalties.",
     "reasoning_summary": "This content focuses on source control, DevOps practices, and general team delivery guidelines. It does not address the Definition of Workflow, nor does it discuss Kanban/agile workflow policies or make work explicit according to the category's scope.",
     "level": "Ignored"
+  },
+  "Objective & Key Results": {
+    "resourceId": "bkiQSbbO78R",
+    "category": "Objective & Key Results",
+    "calculated_at": "2025-06-03T13:36:35",
+    "ai_confidence": 5.650000000000001,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.0,
+    "ai_intent": 0.1,
+    "ai_audience": 7.8,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "This content primarily revolves around adopting modern source control practices, DevOps principles, release pipelines, automation, and software delivery efficiency. Objectives and Key Results (OKRs), as defined explicitly by John Doerr, are completely absent in the provided content. There are no direct or indirect mentions or discussions about the OKR framework, including goals or measurement methods that match OKR standards. There is also no reference to strategic alignment through explicitly defined measurable outcomes or iterative review and improvement characteristic of OKRs. The only slight conceptual alignment might come from the implication of measuring performance (lead/cycle time, automated tests), but this alignment is minimal and indirect, and not explicitly connected to the OKR system as specified by John Doerr's principles. Thus, direct mentions, conceptual alignment, depth of OKR-focused discussion, and intent scores are extremely low. Audience alignment and signal-to-noise ratio score reasonably higher because the content does target similar audiences (agile teams, DevOps professionals, professional software developers) and maintains relevant professional quality discussions on related process improvements, even though it lacks explicit OKR relevance. No penalty is applied since there are no contradictions, outdated practices, or negative tones towards OKRs. Hence, the overall confidence in categorizing this content under OKRs remains relatively low.",
+    "reasoning_summary": "The content explores DevOps tools, automation, and software delivery practices extensively but lacks explicit mentions or conceptual connections to Objective & Key Results (OKRs), resulting in minimal category alignment.",
+    "level": "Ignored"
   }
 }

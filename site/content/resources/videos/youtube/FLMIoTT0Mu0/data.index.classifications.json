@@ -3113,5 +3113,24 @@
     "reasoning": "The content focuses on the importance of automated quality gates in delivery pipelines, advocating for embedding checks into processes to ensure consistency and reliability. However, it does not explicitly discuss the Definition of Workflow as articulated in Kanban or agile contexts. There are no direct mentions of workflow policies, entry/exit criteria, WIP limits, or the Kanban Guide. The main theme is automation for quality, not the explicit, dynamic agreements governing workflow. The audience is technical and process-oriented, but the content lacks conceptual and thematic alignment with the Definition of Workflow category.",
     "reasoning_summary": "This content champions automated quality gates in pipelines but doesn't address the Definition of Workflow as defined in Kanban or agile. It lacks explicit discussion of workflow policies, entry/exit criteria, or WIP limits, making it only tangentially relevant to the category.",
     "level": "Ignored"
+  },
+  "Objective & Key Results": {
+    "resourceId": "FLMIoTT0Mu0",
+    "category": "Objective & Key Results",
+    "calculated_at": "2025-06-03T12:28:07",
+    "ai_confidence": 6.450000000000001,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.0,
+    "ai_intent": 0.5,
+    "ai_audience": 7.7,
+    "ai_signal": 7.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content provided explicitly focuses on automation in delivery pipelines to ensure consistent quality outcomes. It emphasizes embedding automated quality gates in continuous integration and continuous deployment (CI/CD) processes to remove the influence of human error or forgetfulness. The subject matter primarily addresses automated testing, security scans, linting, and static analysis as essential pipeline-driven measures of quality assurance. \n\nThe content does not explicitly or implicitly address or reference Objectives & Key Results (OKRs). There are no mentions of setting measurable strategic objectives, tracking key results, fostering alignment through transparency and clear communication, or iterative outcome-based inspection and adaptation, as explicitly defined in the classification criteria. Instead, the main thrust aligns closely with DevOps automation, pipeline practices, and quality engineering.\n\nAlthough the content briefly touches on concepts such as outcome reliability and consistency (which may have slight conceptual overlap with OKR practices of outcome orientation), this overlap is shallow and incidental rather than deliberate or explicit. The intended audience (agile and DevOps practitioners, engineers, and technical leads) generally aligns well with the OKR category audience, leading to a relatively high score in the audience dimension. Similarly, the signal-to-noise ratio is high because the content remains consistently focused on pipeline-oriented automated quality practices without straying into irrelevant or filler content.\n\nNo penalties are applied because the content is current, relevant to modern industry practices, and does not contain contradictions to the principles of OKRs (it merely does not directly address them).\n\nOverall, the low overall confidence score reflects the complete absence of explicit mentions or significant conceptual alignment with OKRs and indicates that this content does not belong in the 'Objective & Key Results' category.",
+    "reasoning_summary": "The content focuses exclusively on automated quality gates and CI/CD pipeline practices. It lacks any explicit or implicit references to OKRs, strategic outcomes, or measurable key results, reflecting limited relevance to OKRs specifically.",
+    "level": "Ignored"
   }
 }

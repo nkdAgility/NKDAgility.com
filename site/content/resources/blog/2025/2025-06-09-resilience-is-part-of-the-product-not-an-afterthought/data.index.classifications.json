@@ -2440,5 +2440,24 @@
     "reasoning": "The content focuses on resilience as a core product feature, emphasising engineering practices, ownership, and cultural aspects. There is a single, passing mention of 'Definition of Done', but no discussion of Definition of Workflow, workflow policies, entry/exit criteria, WIP limits, or Kanban concepts. The main themes are not aligned with the Definition of Workflow category, and there is no substantive exploration of workflow as defined in Kanban or agile contexts. The audience is technical, but the content is not targeted at teams seeking to define or improve workflow policies. Signal-to-noise is low for this category, as nearly all content is off-topic.",
     "reasoning_summary": "This content is about building resilience into products, not about defining or managing workflow. It barely mentions related concepts and does not address Kanban or agile workflow policies, so it does not fit the Definition of Workflow category.",
     "level": "Ignored"
+  },
+  "Objective & Key Results": {
+    "resourceId": "EtzHUfsWjsD",
+    "category": "Objective & Key Results",
+    "calculated_at": "2025-06-03T12:22:43",
+    "ai_confidence": 8.000000000000004,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 6.5,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses exclusively on resilience engineering, system design, DevOps culture, telemetry, observability, and recovery practices. No explicit or implied reference to Objective & Key Results (OKRs) or related strategic goal-setting concepts is present, meaning the 'mentions' score is zero. While there is some marginal conceptual alignment related to 'measuring customer experience directly' and 'treating incidents as feedback', this does not closely match any defining feature or foundational principles of OKRs (Focus, Alignment, Tracking, Stretching). Similarly, the depth of discussion regarding OKRs as a method of aligning strategic intent with measurable outcomes is nearly non-existent. The intent and audience, however, score somewhat higher because audiences familiar with OKRs (agile teams, product teams, DevOps practitioners) significantly overlap with those targeted by the current content's DevOps and product resilience themes. The signal-to-noise ratio is high for its intended subject (resilience), but low in relevance for OKRs. There are no penalties needed as the content is neither outdated nor directly undermines the OKR methodology.",
+    "reasoning_summary": "The content extensively discusses resilience within DevOps and engineering practices but lacks explicit or meaningful alignment with Objective & Key Results methodology or principles.",
+    "level": "Ignored"
   }
 }

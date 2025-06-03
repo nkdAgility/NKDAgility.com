@@ -1932,5 +1932,24 @@
     "reasoning": "The content is entirely focused on the Definition of Done (DoD) in Scrum: what it is, how to create it, and its role in ensuring working software and quality increments. There is no mention—direct or indirect—of the 'Definition of Workflow,' nor does the content address workflow policies, WIP limits, entry/exit criteria, or the governing flow of work as described in Kanban/agile theory. It consistently discusses checklists and quality commitments for completed increments (DoD), not dynamic workflow agreements. The concepts, vocabulary, and practical advice are all exclusive to DoD, excluding all the core principles and distinctions for the Definition of Workflow category. Audience alignment is weak as it targets Scrum practitioners focused on quality and DoD, not teams concerned with defining and visualizing workflow.",
     "reasoning_summary": "This content solely discusses the Definition of Done in Scrum—its purpose, checklist items, and team adoption. It does not mention or align with the Definition of Workflow, dynamic flow policies, or Kanban practices, making it a poor fit for this category.",
     "level": "Ignored"
+  },
+  "Objective & Key Results": {
+    "resourceId": "z18IcQhlD7I",
+    "category": "Objective & Key Results",
+    "calculated_at": "2025-06-03T13:32:14",
+    "ai_confidence": 2.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.1,
+    "ai_intent": 0.5,
+    "ai_audience": 6.5,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content thoroughly discusses the Definition of Done (DoD) within Scrum, focusing explicitly on ensuring product quality, completed increments, and transparency. There are no direct mentions of Objective & Key Results (OKRs), nor discussions explicitly connected to the theoretical foundations, practical implementation steps, strategic alignment, or iterative inspection and adaptation associated with the OKR framework. Although OKRs emphasize similar values such as transparency, tracking outcomes, and continuous improvement, the content does not explicitly align these elements to the OKR philosophy. Instead, the discussion remains strictly within Scrum practice, specifically dedicated to quality assurance, increment delivery, and defining standards for completeness. The intent of the content is educational around Scrum team quality management and increment definition, rather than strategic outcome-based measurement or goal setting aligned with OKRs. Thus, the conceptual alignment, mentions, depth relating to OKR discussion, and the intent towards OKRs are all assessed at very low levels. Audiences interested in agile methodologies (e.g., Agile teams, Scrum practitioners, developers) may partially overlap with OKR audiences, warranting some audience relevance and improvement in signal-to-noise ratio. No penalties were necessary since the content neither contradicts nor references obsolete practices related to OKRs.",
+    "reasoning_summary": "The detailed discussion focuses solely on Scrum's Definition of Done without referencing OKRs explicitly or conceptually, resulting in minimal alignment with the OKR category.",
+    "level": "Ignored"
   }
 }

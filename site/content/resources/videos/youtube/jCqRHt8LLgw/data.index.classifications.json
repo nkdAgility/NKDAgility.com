@@ -1840,5 +1840,24 @@
     "reasoning": "The content critically evaluates agile practices such as story points, team size, and emergent architecture but does not directly or explicitly discuss the Definition of Workflow as defined in Kanban or agile contexts. While there are mentions of 'flow of work'—such as maintaining the flow amid outages, or throughput as an alternative to story points—these are generic and do not constitute a substantive exploration of Definition of Workflow agreements, entry/exit policies, WIP limits, or the distinction with Definition of Done. There is no discussion of explicit workflow policies, visualization, or how teams might make their process explicit as per Kanban philosophy. The intended audience is agile practitioners or teams, but the content's focus is elsewhere. Thus, scores for all dimensions are minimal and no penalties are applied.",
     "reasoning_summary": "This content does not address the Definition of Workflow, instead focusing on story points, team sizes, and emergent architecture in agile. No explicit or substantive discussion of workflow policies or Kanban-specific concepts is present, making it a poor fit for the category.",
     "level": "Ignored"
+  },
+  "Objective & Key Results": {
+    "resourceId": "jCqRHt8LLgw",
+    "category": "Objective & Key Results",
+    "calculated_at": "2025-06-03T13:33:50",
+    "ai_confidence": 9.75,
+    "ai_mentions": 0.0,
+    "ai_alignment": 0.1,
+    "ai_depth": 0.1,
+    "ai_intent": 0.1,
+    "ai_audience": 8.5,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content provides an extensive discussion about agile methodologies, specifically criticising and re-evaluating traditional practices like story points, suggesting alternative metrics like throughput and cycle time, rethinking team sizes beyond standard norms, and exploring the adoption of emergent architecture. However, the content does not mention OKRs once, nor does it conceptually align with the foundational underpinnings or thematic focus of the OKR category definition as articulated by John Doerr. There is no discussion about goal-setting frameworks, outcome-based measurement connected explicitly to strategic alignment and OKR practices. It exclusively focuses on team operational practices, estimation, agile team composition, and architectural adaptability, none of which are explicitly linked to OKR. The alignment and depth scores are set minimally above zero to signal minor conceptual overlap with certain agile values (continuous improvement, adaptability), but without explicit reference to OKRs. No penalties were applied because the content isn't outdated or explicitly contradictory—it simply falls outside of this precise classification.",
+    "reasoning_summary": "The content extensively addresses agile methodologies, team structures, and emergent architecture but does not discuss or relate explicitly to OKRs, their practice, or strategic intent, resulting in minimal alignment with this category.",
+    "level": "Ignored"
   }
 }
