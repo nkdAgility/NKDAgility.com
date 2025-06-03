@@ -3,7 +3,7 @@
   <div class="d-inline-flex gap-2">
     <!-- TOC Dropdown -->
     <div class="dropdown">
-      <button class="btn btn-sm btn-outline-secondary dropdown-toggle align-items-center" type="button" id="tocDropdown" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Contents</span> <i class="fa-regular fa-list"></i></button>
+      <button class="btn btn-sm btn-outline-secondary dropdown-toggle align-items-center" type="button" id="tocDropdown" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Contents</span> {{ partial "components/site-icon.html" (dict "icon" "fa-list") }}</button>
       <div class="dropdown-menu p-3 custom-toc-dropdown" aria-labelledby="tocDropdown" style="min-width: 300px; max-height: 60vh; overflow-y: auto;">
         {{ if eq .Kind "term" }}
           <a class="dropdown-item" title="Jump to overview of this topic" href="#overview"><i class="fa-solid fa-pen-fancy"></i> Overview</a>
@@ -16,7 +16,7 @@
       </div>
     </div>
     {{- partial "components/related-dropdown.html" . }}
-    <a class="btn btn-sm  btn-outline-secondary align-items-center" href="#comments" title="Join the conversation"> <span class="d-none d-xl-inline">Comments</span> <i class="fa-regular fa-comment"></i> </a>
+    <a class="btn btn-sm  btn-outline-secondary align-items-center" href="#comments" title="Join the conversation"> <span class="d-none d-xl-inline">Comments</span>{{ partial "components/site-icon.html" (dict "icon" "fa-comment-pen") }} </a>
     {{- partial "components/feedback-dropdown.html" . }}
     {{- partial "components/language-dropdown.html" . }}
 
@@ -26,7 +26,7 @@
   <div class="d-inline-flex gap-2">
     {{- partial "components/share-dropdown.html" . }}
     {{- partial "components/admin-dropdown.html" . }}
-    <a href="#" class="btn btn-sm btn-outline-secondary text-nowrap" title="Sign up for more posts" data-bs-toggle="modal" data-bs-target="#followModal"><span class="d-none d-xl-inline">Subscribe </span><i class="fa-regular fa-cowbell-circle-plus"></i></a>
+    <a href="#" class="btn btn-sm btn-outline-secondary text-nowrap" title="Sign up for more posts" data-bs-toggle="modal" data-bs-target="#followModal"><span class="d-none d-xl-inline">Subscribe </span>{{ partial "components/site-icon.html" (dict "icon" "fa-cowbell-circle-plus") }}</a>
   </div>
 </div>
 

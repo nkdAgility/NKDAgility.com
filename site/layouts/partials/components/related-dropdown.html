@@ -2,7 +2,7 @@
 {{ $resourceTypes := (slice "blog" "videos" "signals" "guides") }}
 {{- $relatedData := partial "functions/get-related.html" .Page }}
 <div class="dropdown">
-  <button class="btn btn-sm btn-outline-secondary dropdown-toggle align-items-center" type="button" id="tocDropdown" data-bs-toggle="dropdown" aria-expanded="false" title="Related Content"><span class="d-none d-xl-inline">Related</span> <i class="fa-regular fa-link"></i></button>
+  <button class="btn btn-sm btn-outline-secondary dropdown-toggle align-items-center" type="button" id="tocDropdown" data-bs-toggle="dropdown" aria-expanded="false" title="Related Content"><span class="d-none d-xl-inline">Related</span>{{ partial "components/site-icon.html" (dict "icon" "fa-link") }}</button>
   <div class="dropdown-menu p-3 custom-toc-dropdown" aria-labelledby="tocDropdown" style="min-width: 300px; max-height: 60vh; overflow-y: auto;">
     {{ range $resourceType := $resourceTypes }}
       <h6 class="dropdown-header">Related {{ $resourceType | title }} {{ if and $relatedData (gt (len $relatedData) 0) }}<i class="fa-regular fa-group-arrows-rotate"></i>{{ end }}</h6>
@@ -18,7 +18,7 @@
 
               <a class="dropdown-item" href="{{ $relatedPage.RelPermalink }}" title="{{ $relatedPage.Description }}">{{- partial "components/resources/resource-icon.html" $relatedPage }} {{ $relatedPage.LinkTitle }}</a>
             {{ else }}
-              <a class="dropdown-item" href="https://preview.nkdagility.com/resources/{{ .ResourceId }}"><i class="fa-regular fa-flux-capacitor"></i> {{ .Title }}</a>
+              <a class="dropdown-item" href="https://preview.nkdagility.com/resources/{{ .ResourceId }}">{{ partial "components/site-icon.html" (dict "icon" "fa-flux-capacitor") }} {{ .Title }}</a>
             {{ end }}
           {{ end }}
         {{ else }}
