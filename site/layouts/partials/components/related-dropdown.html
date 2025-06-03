@@ -15,7 +15,8 @@
           {{ range first 3 $relatedBlogs }}
             {{ $relatedPage := site.GetPage .Reference }}
             {{ if $relatedPage }}
-              <a class="dropdown-item" href="{{ $relatedPage.RelPermalink }}" title="{{ $relatedPage.Description }}">{{ $relatedPage.LinkTitle }}</a>
+
+              <a class="dropdown-item" href="{{ $relatedPage.RelPermalink }}" title="{{ $relatedPage.Description }}">{{- partial "components/resources/resource-icon.html" $relatedPage }} {{ $relatedPage.LinkTitle }}</a>
             {{ else }}
               <a class="dropdown-item" href="https://preview.nkdagility.com/resources/{{ .ResourceId }}"><i class="fa-regular fa-flux-capacitor"></i> {{ .Title }}</a>
             {{ end }}

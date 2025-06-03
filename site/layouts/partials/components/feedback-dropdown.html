@@ -1,5 +1,5 @@
 <div class="dropdown {{ if eq hugo.Environment "production" }}d-none{{ end }}">
-  <button type="button" class="btn btn-sm btn-outline-secondary text-nowrap" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Collaborate </span><i class="fa-regular fa-message-pen"></i></button>
+  <button type="button" class="btn btn-sm btn-outline-secondary text-nowrap" data-bs-toggle="dropdown" aria-expanded="false"><span class="d-none d-xl-inline">Collaborate </span>{{ partial "components/fontAwesome.html" (dict "icon" "fa-message-pen") }}</button>
   <div class="dropdown-menu dropdown-menu-end p-3">
     <a class="btn btn-outline-info btn-sm w-100 mb-2" href="#comments" title="Discuss on Github"><i class="fa-regular fa-comment"></i> Feedback </a>
     <a class="btn btn-outline-info btn-sm w-100 mb-2" href="{{ site.Params.githubRepo }}/blob/main/{{ site.Params.githubContentDir }}/{{ .Path }}/index.md" target="_blank" rel="noopener noreferrer"> <i class="fa-solid fa-expand"></i> View on Github </a>

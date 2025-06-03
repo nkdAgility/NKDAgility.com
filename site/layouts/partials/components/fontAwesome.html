@@ -1,0 +1,50 @@
+{{/* FontAwesome Icon Partial
+
+  Usage:
+  {{ partial "components/fontAwesome.html" (dict "icon" "fa-lock")
+}}
+{{ partial "components/fontAwesome.html" (dict "icon" "fa-lock" "class" "me-2") }}
+{{ partial "components/fontAwesome.html" (dict "icon" "fa-lock") }}
+
+Parameters: - icon: FontAwesome icon name (required) - e.g., "fa-lock", "lock", "fa-chevron-right" - style: FontAwesome style variant - "regular", "solid", "light", "brands", "thin", "duotone" (default: "regular") - class: Additional CSS classes to apply - title: Optional title attribute for accessibility - ariaHidden: Whether to hide from screen readers (default: true) Examples:
+{{ partial "components/fontAwesome.html" (dict "icon" "fa-lock") }}
+{{ partial "components/fontAwesome.html" (dict "icon" "lock") }}
+{{ partial "components/fontAwesome.html" (dict "icon" "fa-chevron-right" "class" "pe-1") }}
+*/}}
+{{- $icon := .icon }}
+{{- $class := .class | default "" }}
+{{- $title := .title | default "" }}
+{{- $ariaHidden := .ariaHidden | default true }}
+
+{{/* Validate required parameters */}}
+{{- if not $icon }}
+  {{- errorf "FontAwesome partial requires 'icon' parameter" }}
+{{- end }}
+
+{{/* SVG Icon Dictionary - Add new icons here */}}
+{{- $svgIcons := dict
+  "fa-lock" "M144 128l0 64 160 0 0-64c0-44.2-35.8-80-80-80s-80 35.8-80 80zM96 192l0-64C96 57.3 153.3 0 224 0s128 57.3 128 128l0 64 32 0c35.3 0 64 28.7 64 64l0 192c0 35.3-28.7 64-64 64L64 512c-35.3 0-64-28.7-64-64L0 256c0-35.3 28.7-64 64-64l32 0zM48 256l0 192c0 8.8 7.2 16 16 16l320 0c8.8 0 16-7.2 16-16l0-192c0-8.8-7.2-16-16-16L64 240c-8.8 0-16 7.2-16 16z"
+  "fa-message-pen" "M208 416c0-26.5-21.5-48-48-48l-96 0c-8.8 0-16-7.2-16-16L48 64c0-8.8 7.2-16 16-16l384 0c8.8 0 16 7.2 16 16l0 288c0 8.8-7.2 16-16 16l-138.7 0c-10.4 0-20.5 3.4-28.8 9.6L208 432l0-16zm-.2 76.2l.2-.2 101.3-76L448 416c35.3 0 64-28.7 64-64l0-288c0-35.3-28.7-64-64-64L64 0C28.7 0 0 28.7 0 64L0 352c0 35.3 28.7 64 64 64l48 0 48 0 0 48 0 4 0 .3 0 6.4 0 21.3c0 6.1 3.4 11.6 8.8 14.3s11.9 2.1 16.8-1.5L202.7 496l5.1-3.8zM340.8 123c-14.7-14.7-38.6-14.7-53.3 0L272.6 138l53.3 53.3 14.9-14.9c14.7-14.7 14.7-38.6 0-53.3zM178.1 232.5c-4.1 4.1-7 9.2-8.4 14.9L160.5 284c-1.4 5.5 .2 11.2 4.2 15.2s9.7 5.6 15.2 4.2l36.6-9.2c5.6-1.4 10.8-4.3 14.9-8.4l71.9-71.9L250 160.6l-71.9 71.9z"
+}}
+
+{{/* Build CSS classes */}}
+{{- $svgClass := "icon" }}
+{{- if $class }}
+  {{- $svgClass = printf "%s %s" "icon" $class }}
+{{- end }}
+
+{{/* Check if icon exists in SVG dictionary */}}
+{{- $svgData := index $svgIcons $icon }}
+{{- if $svgData }}
+  {{/* Render SVG icon */}}
+  <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="{{ $svgClass }}" viewBox="0 0 512 512" {{- if $title }}title="{{ $title }}"{{- end }}{{- if $ariaHidden }}aria-hidden="true"{{- end }}>
+    <path d="{{ $svgData }}" />
+  </svg>
+{{- else }}
+  {{/* Fallback to FontAwesome CSS classes */}}
+  {{- $iconClass := $icon }}
+  {{- if $class }}
+    {{- $iconClass = printf "%s %s" $icon $class }}
+  {{- end }}
+  <i class="fa-regular {{ $iconClass }}" {{- if $title }}title="{{ $title }}"{{- end }}{{- if $ariaHidden }}aria-hidden="true"{{- end }}></i>
+{{- end }}
