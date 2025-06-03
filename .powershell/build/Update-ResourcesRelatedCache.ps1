@@ -18,7 +18,7 @@ $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\ta
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 10
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 10
 
-# Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
+Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
 #Update-RelatedRepository -HugoMarkdownObjects $hugoMarkdownObjects -ThrottleLimit 0
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
