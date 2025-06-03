@@ -11,15 +11,19 @@ ResourceType: blog
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-30T15:27:52Z
+creator: Martin Hinshelwood
+contributors:
+  - name: Rikard Skelander
+    external: https://www.linkedin.com/in/rikardskelander/
 ---
 
 Let’s get one thing straight: **Agile is not a mindset.** And it’s certainly not just about behaviour. That lazy framing dilutes the discipline, ignores the engineering reality, and gives cover to incompetence.
 
-Agile is a **delivery discipline grounded in technical leadership, empirical control, and engineering excellence**. If your so-called “Agile transformation” doesn’t touch your code, your infrastructure, your deployment pipelines, or your product strategy, then you’re not Agile—you’re just busy.
+Agile for software development is a **delivery discipline grounded in technical leadership, empirical control, and engineering excellence**. If your so-called “Agile transformation” doesn’t touch your code, your infrastructure, your deployment pipelines, or your product strategy, then you’re not Agile, you’re just busy.
 
 ## Agile Isn’t a Mindset. It’s a System of Work.
 
-The term “Agile mindset” has become a smoke screen for vague, feel-good language that conveniently ignores the hard parts: architecture, observability, testability, and releasability. A mindset doesn’t ship working software. A system does.
+The term “Agile mindset” has become a smoke screen for vague, feel-good language that conveniently ignores the hard parts: architecture, observability, checkability, and releasability. A mindset doesn’t ship working software. A system does.
 
 Agile is a **strategy for managing complexity**. It draws on an **empirical ethos** to deal with uncertainty. While Agile principles support this ethos through practices like continuous delivery, frequent reflection, and embracing change, they stop short of formalising it. Agile leaves room for interpretation, which is both its power and its weakness.
 
@@ -52,7 +56,7 @@ Agile without engineering is theatre. You might have sticky notes and daily stan
 Here’s what engineering excellence looks like in Agile:
 
 - **Continuous Integration & Deployment (CI/CD)**: Small, safe, frequent releases.
-- **Automated Testing**: Fast, repeatable validation that gives developers confidence.
+- **Automated Checking**: Fast, repeatable validation that gives developers confidence.
 - **Infrastructure as Code**: Reproducible environments with version control.
 - **Telemetry and Observability**: Insight into live systems for fast feedback and debugging.
 - **Design for Replaceability**: Modular, cohesive systems you can change without fear.
@@ -65,7 +69,7 @@ A big part of the problem is that we’ve allowed Agile to be colonised by peopl
 
 This isn’t a personal attack. It’s a **call for accountability**.
 
-If you're coaching Agile teams and you don’t understand modern engineering practices—DevOps, CI/CD, telemetry, testability—you’re not equipped to lead agility in software.
+If you're coaching Agile teams and you don’t understand modern engineering practices—DevOps, CI/CD, telemetry, checkability, you’re not equipped to lead agility in software.
 
 Agile is not a therapy session. It’s not a motivational poster. It is a **system of delivery** designed to maximise value under conditions of uncertainty. And if we want to keep calling it that, we’d better start treating it with the rigour it deserves.
 
