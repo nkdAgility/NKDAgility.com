@@ -209,15 +209,20 @@
                       {{- range $groups }}
                         <li>
                           {{- .Key }}
-                          <ul>
-                            {{- range .Pages }}
-                              <li>
-                                <a href="{{- .Permalink }}">{{- .Title }}</a>
-                                [Type: {{- .Type }}]
-                                {{- if .Layout }}[Layout: {{- .Layout }}]{{- end }}
-                              </li>
-                            {{- end }}
-                          </ul>
+                          {{- if hugo.Environment "development" }}
+                            <ul>
+                              {{- range .Pages }}
+
+                                <li>
+                                  <a href="{{- .Permalink }}">{{- .Title }}</a>
+                                  [Type: {{- .Type }}]
+                                  {{- if .Layout }}[Layout: {{- .Layout }}]{{- end }}
+                                </li>
+                              {{- end }}
+                            </ul>
+                          {{- else }}
+                            <span class="badge bg-secondary">{{- len .Pages }} pages (not shown in {{ hugo.Environment }})</span>
+                          {{- end }}
                         </li>
                       {{- end }}
                     </ul>
