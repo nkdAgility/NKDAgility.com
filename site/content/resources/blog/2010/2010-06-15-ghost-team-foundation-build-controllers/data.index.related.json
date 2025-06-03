@@ -1,0 +1,514 @@
+{
+  "related": [
+    {
+      "Title": "How to deal with a stuck or infinitely queued build",
+      "Slug": "how-to-deal-with-a-stuck-or-infinitely-queued-build",
+      "Reference": "resources/blog/2010/2010-09-09-how-to-deal-with-a-stuck-or-infinitely-queued-build",
+      "EntryId": "gfvOPIZKbEI",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:21.1552039Z",
+      "Similarity": 0.7117841943816876
+    },
+    {
+      "Title": "TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number",
+      "Slug": "tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number",
+      "Reference": "resources/blog/2012/2012-08-30-tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number",
+      "EntryId": "NARdkNvqUei",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:12.0178899Z",
+      "Similarity": 0.7097600018851361
+    },
+    {
+      "Title": "Changing the Team Project Collection of the Team Build Controller",
+      "Slug": "changing-the-team-project-collection-of-the-team-build-controller",
+      "Reference": "resources/blog/2010/2010-07-05-changing-the-team-project-collection-of-the-team-build-controller",
+      "EntryId": "n7Y4Ij-CPvp",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:28.7741254Z",
+      "Similarity": 0.6953493300490239
+    },
+    {
+      "Title": "Why you need to tag your build servers in TFS",
+      "Slug": "why-you-need-to-tag-your-build-servers-in-tfs",
+      "Reference": "resources/blog/2010/2010-06-14-why-you-need-to-tag-your-build-servers-in-tfs",
+      "EntryId": "TCVlqzWwtNc",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:34.0704763Z",
+      "Similarity": 0.6642322995338762
+    },
+    {
+      "Title": "How to delete work items from TFS or VSO",
+      "Slug": "delete-work-items-tfs-vso",
+      "Reference": "resources/blog/2014/2014-07-02-delete-work-items-tfs-vso",
+      "EntryId": "MYXrtTYV2UD",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:46:50.3978397Z",
+      "Similarity": 0.6599286457670955
+    },
+    {
+      "Title": "Connect a Test Controller to Team Foundation Service",
+      "Slug": "connect-a-test-controller-to-team-foundation-service",
+      "Reference": "resources/blog/2013/2013-03-27-connect-a-test-controller-to-team-foundation-service",
+      "EntryId": "D5NhnVpHAwD",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:35.0936396Z",
+      "Similarity": 0.6568331531475365
+    },
+    {
+      "Title": "Who broke the build?",
+      "Slug": "who-broke-the-build",
+      "Reference": "resources/blog/2010/2010-03-29-who-broke-the-build",
+      "EntryId": "SVgPQgwftag",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:52.4621001Z",
+      "Similarity": 0.6513195833995546
+    },
+    {
+      "Title": "TFS Build reports Licencies.licx: unable to load type",
+      "Slug": "tfs-build-reports-licencies-licx-unable-load-type",
+      "Reference": "resources/blog/2014/2014-10-23-tfs-build-reports-licencies-licx-unable-load-type",
+      "EntryId": "om6UWMd_ONd",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:46:29.8453281Z",
+      "Similarity": 0.6478434275323891
+    },
+    {
+      "Title": "Visual Studio 2012 Update 2 supports 2010 Build Servers",
+      "Slug": "visual-studio-2012-update-2-supports-2010-build-servers",
+      "Reference": "resources/blog/2013/2013-03-22-visual-studio-2012-update-2-supports-2010-build-servers",
+      "EntryId": "wOYxXY4OsUH",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:36.9255404Z",
+      "Similarity": 0.6444454863720607
+    },
+    {
+      "Title": "Reserve an Agent for a special build in Team Foundation Server 2012",
+      "Slug": "reserve-an-agent-for-a-special-build-in-team-foundation-server-2012",
+      "Reference": "resources/blog/2013/2013-04-04-reserve-an-agent-for-a-special-build-in-team-foundation-server-2012",
+      "EntryId": "SrsgdgZeWGm",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:34.0945174Z",
+      "Similarity": 0.6395211419273872
+    },
+    {
+      "Title": "New un-versioned repository in TFS 2012",
+      "Slug": "new-un-versioned-repository-in-tfs-2012",
+      "Reference": "resources/blog/2013/2013-04-18-new-un-versioned-repository-in-tfs-2012",
+      "EntryId": "AoTaD6481iE",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:31.2948781Z",
+      "Similarity": 0.6377409228856026
+    },
+    {
+      "Title": "Finding the problem on a partially succeeded build on Team Foundation Build Services 2010",
+      "Slug": "finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010",
+      "Reference": "resources/blog/2010/2010-03-04-finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010",
+      "EntryId": "YBExXvBtNAN",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:52:02.3132737Z",
+      "Similarity": 0.6370476223993785
+    },
+    {
+      "Title": "Removing a dead Solution Deployment from MOSS 2007",
+      "Slug": "removing-a-dead-solution-deployment-from-moss-2007",
+      "Reference": "resources/blog/2008/2008-12-10-removing-a-dead-solution-deployment-from-moss-2007",
+      "EntryId": "JD6-7WEsi2d",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:53:28.9680063Z",
+      "Similarity": 0.6370465666593621
+    },
+    {
+      "Title": "Branch madness!",
+      "Slug": "branch-madness",
+      "Reference": "resources/blog/2008/2008-10-22-branch-madness",
+      "EntryId": "s2fykp0ti2Y",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:24.7871695Z",
+      "Similarity": 0.6367728493781815
+    },
+    {
+      "Title": "What to do after a servicing fails on TFS 2010",
+      "Slug": "what-to-do-after-a-servicing-fails-on-tfs-2010",
+      "Reference": "resources/blog/2011/2011-01-04-what-to-do-after-a-servicing-fails-on-tfs-2010",
+      "EntryId": "3MtCtNaIpU3",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:12.3370785Z",
+      "Similarity": 0.6353901280913906
+    },
+    {
+      "Title": "Solution: Getting Silverlight to build on Team Foundation Build Services 2010",
+      "Slug": "solution-getting-silverlight-to-build-on-team-foundation-build-services-2010",
+      "Reference": "resources/blog/2010/2010-03-03-solution-getting-silverlight-to-build-on-team-foundation-build-services-2010",
+      "EntryId": "KPVUDFGZRaX",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:52:03.3538109Z",
+      "Similarity": 0.6349257886112721
+    },
+    {
+      "Title": "TFS 2012 Issue: TF215097 an error occurred while initializing a build for build definition",
+      "Slug": "tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition",
+      "Reference": "resources/blog/2013/2013-04-18-tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition",
+      "EntryId": "Esy-i2Fcamk",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:30.2584605Z",
+      "Similarity": 0.6324106341335718
+    },
+    {
+      "Title": "TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when reconfigured",
+      "Slug": "tfs-2012-3-issue-scheduled-backups-gives-a-tf400998",
+      "Reference": "resources/blog/2013/2013-06-19-tfs-2012-3-issue-scheduled-backups-gives-a-tf400998",
+      "EntryId": "_XqGOC9TbpP",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:17.8265254Z",
+      "Similarity": 0.6301914395075737
+    },
+    {
+      "Title": "I messed up my checkin failure conflict resolution with the TFS Integration Tools… Now what?",
+      "Slug": "i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what",
+      "Reference": "resources/blog/2012/2012-08-23-i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what",
+      "EntryId": "r5ID4-DiAy7",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:17.2667794Z",
+      "Similarity": 0.6278903393067002
+    },
+    {
+      "Title": "In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain",
+      "Slug": "in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain",
+      "Reference": "resources/blog/2011/2011-04-19-in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain",
+      "EntryId": "LSYjtifbvOt",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:50:59.9773526Z",
+      "Similarity": 0.6272558561654299
+    },
+    {
+      "Title": "Database corruption in TFS 2005 causes TF246017 during upgrade",
+      "Slug": "database-corruption-in-tfs-2005-causes-tf246017-during-upgrade",
+      "Reference": "resources/blog/2010/2010-09-29-database-corruption-in-tfs-2005-causes-tf246017-during-upgrade",
+      "EntryId": "YVhqKOWo2QQ",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:18.1722145Z",
+      "Similarity": 0.6266996238023406
+    },
+    {
+      "Title": "Access denied for orchestration plan on Build",
+      "Slug": "access-denied-for-orchestration-plan-on-build",
+      "Reference": "resources/blog/2015/2015-12-16-access-denied-orchestration-plan-build",
+      "EntryId": "l331AonWBuN",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:45:57.0802893Z",
+      "Similarity": 0.6265115941911966
+    },
+    {
+      "Title": "Team Foundation Build 2012 Issue - The target CleanWorkspacePackageTempDir does not exist",
+      "Slug": "cleanworkspacepackagetempdir-error-in-team-foundation-build-2012",
+      "Reference": "resources/blog/2012/2012-10-20-cleanworkspacepackagetempdir-error-in-team-foundation-build-2012",
+      "EntryId": "39VKBQJHQTj",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:00.8915919Z",
+      "Similarity": 0.6264581185840113
+    },
+    {
+      "Title": "Issue [ TFS 2012.2 ] Detaching collection fails on SnapshotIdentities with object reference not set to an instance of an object",
+      "Slug": "tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities",
+      "Reference": "resources/blog/2013/2013-06-24-tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities",
+      "EntryId": "1jIPsnnKuNK",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:12.930153Z",
+      "Similarity": 0.6263541604587018
+    },
+    {
+      "Title": "Team Build Error",
+      "Slug": "team-build-error",
+      "Reference": "resources/blog/2008/2008-09-08-team-build-error",
+      "EntryId": "hLCFRDIvAXj",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:36.7159422Z",
+      "Similarity": 0.6256337325174295
+    },
+    {
+      "Title": "Process Template Upgrade #3 - Destroy all Work Items and Import new ones",
+      "Slug": "process-template-upgrade-3-destroy-all-work-items-and-import-new-ones",
+      "Reference": "resources/blog/2011/2011-10-21-process-template-upgrade-3-destroy-all-work-items-and-import-new-ones",
+      "EntryId": "Lt6VAvnEOjb",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:50:36.9006381Z",
+      "Similarity": 0.6250187321338154
+    },
+    {
+      "Title": "Installing TFS 2008 from scratch",
+      "Slug": "installing-tfs-2008-from-scratch",
+      "Reference": "resources/blog/2007/2007-10-20-installing-tfs-2008-from-scratch",
+      "EntryId": "90J7b6pXQm3",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:15.4360967Z",
+      "Similarity": 0.6225739348811359
+    },
+    {
+      "Title": "Uninstalling Visual Studio 2010 Beta 1",
+      "Slug": "uninstalling-visual-studio-2010-beta-1",
+      "Reference": "resources/blog/2009/2009-05-19-uninstalling-visual-studio-2010-beta-1",
+      "EntryId": "2ZvRKJUmrD9",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:52:45.6230329Z",
+      "Similarity": 0.6191681350797459
+    },
+    {
+      "Title": "Guide to ChangeServerId says mostly harmless",
+      "Slug": "guide-to-changeserverid-says-mostly-harmless",
+      "Reference": "resources/blog/2013/2013-03-06-guide-to-changeserverid-says-mostly-harmless",
+      "EntryId": "hoewU67YJfb",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:44.3455335Z",
+      "Similarity": 0.6178580138258994
+    },
+    {
+      "Title": "Do you know the minimum builds to create on any branch?",
+      "Slug": "do-you-know-the-minimum-builds-to-create-on-any-branch",
+      "Reference": "resources/blog/2010/2010-03-18-do-you-know-the-minimum-builds-to-create-on-any-branch",
+      "EntryId": "wPA1p1UQ6Bi",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:54.4540817Z",
+      "Similarity": 0.6140834398137792
+    },
+    {
+      "Title": "Team Foundation Server Error 28936",
+      "Slug": "team-foundation-server-error-28936",
+      "Reference": "resources/blog/2007/2007-08-09-team-foundation-server-error-28936",
+      "EntryId": "pfq93Zq1pW6",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:53.4381764Z",
+      "Similarity": 0.6137648248333692
+    },
+    {
+      "Title": "TFS 2012 - Issue: TF250052: Grant access rights already exists after reconfigure of SharePoint",
+      "Slug": "tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint",
+      "Reference": "resources/blog/2012/2012-08-20-tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint",
+      "EntryId": "KWHN3dnM-5A",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:20.3436297Z",
+      "Similarity": 0.6120684180455735
+    },
+    {
+      "Title": "SSRS vs SCVMM - The Kerberos token dispute",
+      "Slug": "ssrs-vs-scvmm-the-kerberos-token-dispute",
+      "Reference": "resources/blog/2011/2011-12-29-ssrs-vs-scvmm-the-kerberos-token-dispute",
+      "EntryId": "o4bErdW-aL2",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:50:28.0829139Z",
+      "Similarity": 0.6102787427630999
+    },
+    {
+      "Title": "TFS 2012 Issue: TF255507: The security identifier (SID) for the following SQL Server login conflicts",
+      "Slug": "tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts",
+      "Reference": "resources/blog/2012/2012-08-07-tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts",
+      "EntryId": "xEMKWWn-mv3",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:27.6979851Z",
+      "Similarity": 0.6101070902155309
+    },
+    {
+      "Title": "Upgrade to Visual Studio 11 Team Foundation Service - Done",
+      "Slug": "upgrade-to-visual-studio-11-team-foundation-service-done",
+      "Reference": "resources/blog/2012/2012-02-24-upgrade-to-visual-studio-11-team-foundation-service-done",
+      "EntryId": "qZoGIj62YP4",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:50:11.8768737Z",
+      "Similarity": 0.6085531203337912
+    },
+    {
+      "Title": "Removing ACL's for dead AD accounts",
+      "Slug": "removing-acls-for-dead-ad-accounts",
+      "Reference": "resources/blog/2008/2008-01-22-removing-acls-for-dead-ad-accounts",
+      "EntryId": "l3dnUvBZV8r",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:41.8777111Z",
+      "Similarity": 0.6077685293352251
+    },
+    {
+      "Title": "Upgrading from TFS 2010 Beta 2 to TFS 2010 RC done",
+      "Slug": "upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done",
+      "Reference": "resources/blog/2010/2010-02-10-upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done",
+      "EntryId": "dg9tlise6Bd",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:52:04.2381055Z",
+      "Similarity": 0.6074569118174927
+    },
+    {
+      "Title": "TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure",
+      "Slug": "tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure",
+      "Reference": "resources/blog/2012/2012-08-22-tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure",
+      "EntryId": "BPBvfH-1wzW",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:18.2389565Z",
+      "Similarity": 0.6072460063466817
+    },
+    {
+      "Title": "Process Template Upgrade #7 – Rename Work Items and Import new ones",
+      "Slug": "process-template-upgrade-7-overwrite-retaining-history-with-limited-migration",
+      "Reference": "resources/blog/2012/2012-05-12-process-template-upgrade-7-overwrite-retaining-history-with-limited-migration",
+      "EntryId": "8bwduNxH7WG",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:58.2004969Z",
+      "Similarity": 0.6070797730876308
+    },
+    {
+      "Title": "TFS 2012 - Issue: Manage Group Membership missing from admin after TFS 2008 to TFS 2012 Upgrade",
+      "Slug": "tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade",
+      "Reference": "resources/blog/2012/2012-08-16-tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade",
+      "EntryId": "bKcrt-7tHMX",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:23.0996245Z",
+      "Similarity": 0.6070500515938638
+    },
+    {
+      "Title": "TFS Error: MSB4018 The \"BuildShadowTask\" task failed unexpectedly",
+      "Slug": "tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly",
+      "Reference": "resources/blog/2008/2008-07-03-tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly",
+      "EntryId": "xi_wQ8zFW_U",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:58.2080481Z",
+      "Similarity": 0.6069128794460249
+    },
+    {
+      "Title": "Ahhh, the fun of deploying Team System in a large corporation",
+      "Slug": "ahhh-the-fun-of-deploying-team-system-in-a-large-corporation",
+      "Reference": "resources/blog/2006/2006-12-15-ahhh-the-fun-of-deploying-team-system-in-a-large-corporation",
+      "EntryId": "w548lro11wJ",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:47.3619147Z",
+      "Similarity": 0.6044071380128754
+    },
+    {
+      "Title": "TFS 2012 - Issue: TF30063: You are not authorized to access and can’t trace permissions",
+      "Slug": "tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions",
+      "Reference": "resources/blog/2012/2012-08-30-tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions",
+      "EntryId": "-k6KiGvRFB7",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:12.9324717Z",
+      "Similarity": 0.6043996326545175
+    },
+    {
+      "Title": "Engaging with complexity - Team Foundation Server Edition",
+      "Slug": "engaging-with-complexity-team-foundation-server-edition",
+      "Reference": "resources/blog/2013/2013-07-01-engaging-with-complexity-team-foundation-server-edition",
+      "EntryId": "xr1jtRnRNvp",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:02.3888876Z",
+      "Similarity": 0.6041098251529636
+    },
+    {
+      "Title": "Active Directory Groups not Syncing with Team Foundation Server 2010",
+      "Slug": "active-directory-groups-not-syncing-with-team-foundation-server-2010",
+      "Reference": "resources/blog/2010/2010-07-07-active-directory-groups-not-syncing-with-team-foundation-server-2010",
+      "EntryId": "Rfu6uP301x2",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:28.0500947Z",
+      "Similarity": 0.6033819934360395
+    },
+    {
+      "Title": "TFS Integration Tools - Issue: Sequence contains no elements",
+      "Slug": "tfs-integration-tools-issue-sequence-contains-no-elements",
+      "Reference": "resources/blog/2012/2012-08-22-tfs-integration-tools-issue-sequence-contains-no-elements",
+      "EntryId": "0vuwjXdRGyv",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:19.3716243Z",
+      "Similarity": 0.6028054910060584
+    },
+    {
+      "Title": "Falling of the TFS rehabilitation wagon",
+      "Slug": "falling-of-the-tfs-rehabilitation-wagon",
+      "Reference": "resources/blog/2007/2007-10-19-falling-of-the-tfs-rehabilitation-wagon",
+      "EntryId": "xhOqFwLeKh2",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:16.3401755Z",
+      "Similarity": 0.6019673715405816
+    },
+    {
+      "Title": "Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2",
+      "Slug": "team-foundation-server-error-tf30177-team-project-creation-failed-part-2",
+      "Reference": "resources/blog/2007/2007-08-20-team-foundation-server-error-tf30177-team-project-creation-failed-part-2",
+      "EntryId": "-H--7dlWeGE",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:45.4240109Z",
+      "Similarity": 0.6013130677287578
+    },
+    {
+      "Title": "Upgrading from TFS2010 to Visual Studio 2012 Team Foundation Server in production",
+      "Slug": "upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production",
+      "Reference": "resources/blog/2012/2012-02-29-upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production",
+      "EntryId": "_KGEsIMh-nJ",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:50:07.6222002Z",
+      "Similarity": 0.6008124913312788
+    },
+    {
+      "Title": "Unable to load task handler PowerShell for task VSBuild",
+      "Slug": "unable-load-task-handler-powershell-task-vsbuild",
+      "Reference": "resources/blog/2015/2015-03-18-unable-load-task-handler-powershell-task-vsbuild",
+      "EntryId": "Rqhhvr6lAQK",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:46:04.0212186Z",
+      "Similarity": 0.6006570277460457
+    },
+    {
+      "Title": "TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade",
+      "Slug": "tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade",
+      "Reference": "resources/blog/2012/2012-12-03-tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade",
+      "EntryId": "-IOLGjKhnje",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:51.5527236Z",
+      "Similarity": 0.6000008816119061
+    }
+  ]
+}

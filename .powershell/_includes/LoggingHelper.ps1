@@ -8,7 +8,7 @@ else {
 }
 
 If (-not $levelSwitch) {
-    $levelSwitch = New-LevelSwitch -MinimumLevel Verbose
+    $levelSwitch = New-LevelSwitch -MinimumLevel Information
     # Create new logger
     # This is where you customize, when and how to log
     New-Logger |
@@ -18,7 +18,7 @@ If (-not $levelSwitch) {
     Add-SinkConsole |     # Tell logger to write log messages to console
     #Add-SinkFile -Path './logs/.log' | # Tell logger to write log messages into file
     Start-Logger
-    Write-InfoLog "New Logger Started" 
+    Write-Debug  "New Logger Started" 
 }
 
 function Set-DebugMode {
@@ -52,4 +52,4 @@ function Get-IsDebug {
 
 
 
-Write-InfoLog "LoggingHelper.ps1 loaded"
+Write-DebugLog "LoggingHelper.ps1 loaded"

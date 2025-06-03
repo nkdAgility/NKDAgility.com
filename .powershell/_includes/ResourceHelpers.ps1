@@ -256,4 +256,4 @@ $Content
 }
 
 
-Write-Debug "ResourceHelpers.ps1 loaded"
+Write-DebugLog "ResourceHelpers.ps1 loaded"

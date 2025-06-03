@@ -1,0 +1,784 @@
+{
+  "related": [
+    {
+      "Title": "TFS Event Handler Progress",
+      "Slug": "tfs-event-handler-progress",
+      "Reference": "resources/blog/2007/2007-05-07-tfs-event-handler-progress",
+      "EntryId": "MY8gn3hmXhh",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:55.6962903Z",
+      "Similarity": 0.7845959407867807
+    },
+    {
+      "Title": "TFS Event Handler Update",
+      "Slug": "tfs-event-handler-update",
+      "Reference": "resources/blog/2008/2008-05-27-tfs-event-handler-update",
+      "EntryId": "4sQLWkddZE1",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:00.5548669Z",
+      "Similarity": 0.7380633558581771
+    },
+    {
+      "Title": "TFS EventHandler: Now on CodePlex",
+      "Slug": "tfs-eventhandler-now-on-codeplex",
+      "Reference": "resources/blog/2007/2007-04-30-tfs-eventhandler-now-on-codeplex",
+      "EntryId": "24Qmd0tzO5s",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:00.2720617Z",
+      "Similarity": 0.7345168404872146
+    },
+    {
+      "Title": "TFS Event Handler (Prototype) Refresh",
+      "Slug": "tfs-event-handler-prototype-refresh",
+      "Reference": "resources/blog/2008/2008-01-29-tfs-event-handler-prototype-refresh",
+      "EntryId": "RcunqCP6sF8",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:39.0179555Z",
+      "Similarity": 0.7334558885448639
+    },
+    {
+      "Title": "TFS Event Handler CTP 2 Released",
+      "Slug": "tfs-event-handler-ctp-2-released",
+      "Reference": "resources/blog/2008/2008-01-28-tfs-event-handler-ctp-2-released",
+      "EntryId": "eFFwzH5niQO",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:40.1234625Z",
+      "Similarity": 0.73220992588574
+    },
+    {
+      "Title": "TFS Event Handler Prototype Feedback",
+      "Slug": "tfs-event-handler-prototype-feedback",
+      "Reference": "resources/blog/2007/2007-07-16-tfs-event-handler-prototype-feedback",
+      "EntryId": "J5YgyYAO9sM",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:21.4898854Z",
+      "Similarity": 0.730355804700159
+    },
+    {
+      "Title": "TFS Event Handler CTP1 Released",
+      "Slug": "tfs-event-handler-ctp1-released",
+      "Reference": "resources/blog/2008/2008-01-24-tfs-event-handler-ctp1-released",
+      "EntryId": "iC_oZlW88n0",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:41.0409674Z",
+      "Similarity": 0.7252539249051966
+    },
+    {
+      "Title": "Team Server Event Handlers made easy",
+      "Slug": "team-server-event-handlers-made-easy",
+      "Reference": "resources/blog/2007/2007-04-27-team-server-event-handlers-made-easy",
+      "EntryId": "NjGpMY3aKfH",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:05.116904Z",
+      "Similarity": 0.7226274855527738
+    },
+    {
+      "Title": "TFS Event Handler Revisited",
+      "Slug": "tfs-event-handler-revisited",
+      "Reference": "resources/blog/2008/2008-01-08-tfs-event-handler-revisited",
+      "EntryId": "QSQv7s8SaaD",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:45.5033523Z",
+      "Similarity": 0.7208421941943377
+    },
+    {
+      "Title": "TFS Event Handler in .NET 3.5",
+      "Slug": "tfs-event-handler-in-net-3-5",
+      "Reference": "resources/blog/2007/2007-08-21-tfs-event-handler-in-net-3-5",
+      "EntryId": "z7Ypxiu5Trd",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:42.3932491Z",
+      "Similarity": 0.7140701264374241
+    },
+    {
+      "Title": "New Event Handlers",
+      "Slug": "new-event-handlers",
+      "Reference": "resources/blog/2008/2008-01-31-new-event-handlers",
+      "EntryId": "kofEeioSTH9",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:37.9520928Z",
+      "Similarity": 0.7104088762568487
+    },
+    {
+      "Title": "TFS Event Handler in .NET 3.5 Part 2",
+      "Slug": "tfs-event-handler-in-net-3-5-part-2",
+      "Reference": "resources/blog/2007/2007-09-07-tfs-event-handler-in-net-3-5-part-2",
+      "EntryId": "mjc3r1M0PTV",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:32.8571642Z",
+      "Similarity": 0.7031850467781274
+    },
+    {
+      "Title": "TFS Event Handler for Team Foundation Server 2010",
+      "Slug": "tfs-event-handler-for-team-foundation-server-2010",
+      "Reference": "resources/blog/2010/2010-07-07-tfs-event-handler-for-team-foundation-server-2010",
+      "EntryId": "_WmwS96RyDS",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:27.0730821Z",
+      "Similarity": 0.7007702373903731
+    },
+    {
+      "Title": "TFS Event Handler: Prototype Released",
+      "Slug": "tfs-event-handler-prototype-released",
+      "Reference": "resources/blog/2007/2007-06-18-tfs-event-handler-prototype-released",
+      "EntryId": "bfZgaw94nbj",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:32.9582054Z",
+      "Similarity": 0.6967374785368908
+    },
+    {
+      "Title": "TFS EventHandler: MSMQ Refactor",
+      "Slug": "tfs-eventhandler-msmq-refactor",
+      "Reference": "resources/blog/2007/2007-04-30-tfs-eventhandler-msmq-refactor",
+      "EntryId": "1monS4nfW6w",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:01.1569456Z",
+      "Similarity": 0.6952163333712641
+    },
+    {
+      "Title": "TFS Event Handler v1.3 released",
+      "Slug": "tfs-event-handler-v1-3-released",
+      "Reference": "resources/blog/2008/2008-12-02-tfs-event-handler-v1-3-released",
+      "EntryId": "5utkJgImhFT",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:53:31.5272561Z",
+      "Similarity": 0.6946735381192509
+    },
+    {
+      "Title": "TFS Event Handler: CTP1 Imminent",
+      "Slug": "tfs-event-handler-ctp1-imminent",
+      "Reference": "resources/blog/2007/2007-05-06-tfs-event-handler-ctp1-imminent",
+      "EntryId": "VWTrf8PCadG",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:56.5668462Z",
+      "Similarity": 0.6842495333391815
+    },
+    {
+      "Title": "TFS Event Handler v1.1 released",
+      "Slug": "tfs-event-handler-v1-1-released",
+      "Reference": "resources/blog/2008/2008-11-28-tfs-event-handler-v1-1-released",
+      "EntryId": "8nsd44WYVDF",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:53:33.4780667Z",
+      "Similarity": 0.6833428294198556
+    },
+    {
+      "Title": "TFS EventHandler: Message Queuing",
+      "Slug": "tfs-eventhandler-message-queuing",
+      "Reference": "resources/blog/2007/2007-04-27-tfs-eventhandler-message-queuing",
+      "EntryId": "SLkPRSid1iJ",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:04.1906397Z",
+      "Similarity": 0.6790042157094204
+    },
+    {
+      "Title": "TFS Event Handler gets 3 stars from Accentient",
+      "Slug": "tfs-event-handler-gets-3-stars-from-accentient",
+      "Reference": "resources/blog/2007/2007-11-28-tfs-event-handler-gets-3-stars-from-accentient",
+      "EntryId": "CfR2sFbofzG",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:03.2605797Z",
+      "Similarity": 0.6721584798622585
+    },
+    {
+      "Title": "TFS Event Handler: CTP 1 Delayed",
+      "Slug": "tfs-event-handler-ctp-1-delayed",
+      "Reference": "resources/blog/2007/2007-06-17-tfs-event-handler-ctp-1-delayed",
+      "EntryId": "m_vdrvzZrol",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:33.8683087Z",
+      "Similarity": 0.6695675999838419
+    },
+    {
+      "Title": "Team System Web Access finally released",
+      "Slug": "team-system-web-access-finally-released",
+      "Reference": "resources/blog/2007/2007-07-31-team-system-web-access-finally-released",
+      "EntryId": "8tIDL2NtDSj",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:05.8074271Z",
+      "Similarity": 0.6686147822267436
+    },
+    {
+      "Title": "Workflow",
+      "Slug": "workflow",
+      "Reference": "resources/blog/2007/2007-05-08-workflow",
+      "EntryId": "X7LXRyvtNg0",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:53.1981383Z",
+      "Similarity": 0.6627605862812341
+    },
+    {
+      "Title": "Hosted Team Foundation Server",
+      "Slug": "hosted-team-foundation-server",
+      "Reference": "resources/blog/2007/2007-08-05-hosted-team-foundation-server",
+      "EntryId": "uP5FXaFL6Lx",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:57.9858768Z",
+      "Similarity": 0.6618587769709601
+    },
+    {
+      "Title": "My Wish List of Team Foundation Server Tools",
+      "Slug": "my-wish-list-of-team-foundation-server-tools",
+      "Reference": "resources/blog/2007/2007-06-06-my-wish-list-of-team-foundation-server-tools",
+      "EntryId": "ew4cQCgRYB0",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:41.301797Z",
+      "Similarity": 0.6613857875281115
+    },
+    {
+      "Title": "TFS Event Handler in .NET 3.5 Part 2 - Handling Team Foundation Server Events",
+      "Slug": "tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events",
+      "Reference": "resources/blog/2007/2007-09-07-tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events",
+      "EntryId": "8LCPn1m44qL",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:33.9758641Z",
+      "Similarity": 0.6590683091946673
+    },
+    {
+      "Title": "Creating your own Event Handler",
+      "Slug": "creating-your-own-event-handler",
+      "Reference": "resources/blog/2007/2007-06-18-creating-your-own-event-handler",
+      "EntryId": "53h9G1A5o8G",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:31.0556334Z",
+      "Similarity": 0.6577237565013444
+    },
+    {
+      "Title": "TFS Sticky Buddy Codeplex project",
+      "Slug": "tfs-sticky-buddy-codeplex-project",
+      "Reference": "resources/blog/2008/2008-02-05-tfs-sticky-buddy-codeplex-project",
+      "EntryId": "g0bjuq5cIqX",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:30.3682063Z",
+      "Similarity": 0.65535694074535
+    },
+    {
+      "Title": "TFS Stick Buddy v0.4.0 CTP2 released",
+      "Slug": "tfs-stick-buddy-v0-4-0-ctp2-released",
+      "Reference": "resources/blog/2008/2008-04-17-tfs-stick-buddy-v0-4-0-ctp2-released",
+      "EntryId": "G2LTuEadTg9",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:19.9964091Z",
+      "Similarity": 0.6535788564833755
+    },
+    {
+      "Title": "Team Foundation Server 2010 Event Handling with Subscribers",
+      "Slug": "team-foundation-server-2010-event-handling-with-subscribers",
+      "Reference": "resources/blog/2010/2010-09-16-team-foundation-server-2010-event-handling-with-subscribers",
+      "EntryId": "FzwWmNio6fH",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:19.1282998Z",
+      "Similarity": 0.6510366794272331
+    },
+    {
+      "Title": "End of another Sticky week...",
+      "Slug": "end-of-another-sticky-week",
+      "Reference": "resources/blog/2008/2008-04-18-end-of-another-sticky-week",
+      "EntryId": "hIIqffRyh3i",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:19.108722Z",
+      "Similarity": 0.65038029574542
+    },
+    {
+      "Title": "Microsoft does indeed listen",
+      "Slug": "microsoft-does-indeed-listen",
+      "Reference": "resources/blog/2007/2007-08-28-microsoft-does-indeed-listen",
+      "EntryId": "vZZ_DZ3emxB",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:36.7758475Z",
+      "Similarity": 0.6462518588295649
+    },
+    {
+      "Title": "Falling of the TFS rehabilitation wagon",
+      "Slug": "falling-of-the-tfs-rehabilitation-wagon",
+      "Reference": "resources/blog/2007/2007-10-19-falling-of-the-tfs-rehabilitation-wagon",
+      "EntryId": "xhOqFwLeKh2",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:16.3401755Z",
+      "Similarity": 0.6417009564540065
+    },
+    {
+      "Title": "A perfect match TFS and DLR",
+      "Slug": "a-perfect-match-tfs-and-dlr",
+      "Reference": "resources/blog/2009/2009-07-27-a-perfect-match-tfs-and-dlr",
+      "EntryId": "JlC3Gm8IgO8",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:52:29.423154Z",
+      "Similarity": 0.6398105637981963
+    },
+    {
+      "Title": "Heat ITSM",
+      "Slug": "heat-itsm",
+      "Reference": "resources/blog/2008/2008-08-22-heat-itsm",
+      "EntryId": "YKQN4PBqwk2",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:46.1580041Z",
+      "Similarity": 0.6395407492013171
+    },
+    {
+      "Title": "RDdotNET",
+      "Slug": "rddotnet",
+      "Reference": "resources/blog/2008/2008-07-30-rddotnet",
+      "EntryId": "gihU6AH59yn",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:54.7985506Z",
+      "Similarity": 0.6391428751145134
+    },
+    {
+      "Title": "TFS Sticky Buddy v0.3.1 CTP1",
+      "Slug": "tfs-sticky-buddy-v0-3-1-ctp1",
+      "Reference": "resources/blog/2008/2008-04-15-tfs-sticky-buddy-v0-3-1-ctp1",
+      "EntryId": "UkSxUYTe7U_",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:20.9036181Z",
+      "Similarity": 0.6386439397975394
+    },
+    {
+      "Title": "TFS Sticky Buddy v2.0",
+      "Slug": "tfs-sticky-buddy-v2-0",
+      "Reference": "resources/blog/2008/2008-11-03-tfs-sticky-buddy-v2-0",
+      "EntryId": "fxUFeDoOsrZ",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:12.8739255Z",
+      "Similarity": 0.6378159807418832
+    },
+    {
+      "Title": "TFS Event Handler prototype Configuration Demystified",
+      "Slug": "tfs-event-handler-prototype-configuration-demystified",
+      "Reference": "resources/blog/2007/2007-06-18-tfs-event-handler-prototype-configuration-demystified",
+      "EntryId": "ENx7u9d6Q6z",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:32.0329533Z",
+      "Similarity": 0.6358019703088381
+    },
+    {
+      "Title": "TFS Sticky Buddy v1.0",
+      "Slug": "tfs-sticky-buddy-v1-0",
+      "Reference": "resources/blog/2008/2008-04-21-tfs-sticky-buddy-v1-0",
+      "EntryId": "aLPelZ6_wNc",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:18.2276429Z",
+      "Similarity": 0.6327103102452846
+    },
+    {
+      "Title": "Vote for your feature",
+      "Slug": "vote-for-your-feature",
+      "Reference": "resources/blog/2008/2008-04-30-vote-for-your-feature",
+      "EntryId": "0gvfwOdoE6v",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:12.9469779Z",
+      "Similarity": 0.6304743198415083
+    },
+    {
+      "Title": "TFS Event Handler in .NET 3.5 Part 1 - The Architecture",
+      "Slug": "tfs-event-handler-in-net-3-5-part-1-the-architecture",
+      "Reference": "resources/blog/2007/2007-08-21-tfs-event-handler-in-net-3-5-part-1-the-architecture",
+      "EntryId": "LZnn3eQy53a",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:39.7315689Z",
+      "Similarity": 0.6277691914706635
+    },
+    {
+      "Title": "Team Foundation Server SharePoint Integration",
+      "Slug": "team-foundation-server-sharepoint-integration",
+      "Reference": "resources/blog/2007/2007-10-16-team-foundation-server-sharepoint-integration",
+      "EntryId": "Dn2_7F_mhyC",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:18.0499083Z",
+      "Similarity": 0.6253393905508879
+    },
+    {
+      "Title": "TFS Handover",
+      "Slug": "tfs-handover",
+      "Reference": "resources/blog/2007/2007-08-28-tfs-handover",
+      "EntryId": "pHZwP7oD5dE",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:35.720555Z",
+      "Similarity": 0.6248799501177181
+    },
+    {
+      "Title": "VS2008 Update",
+      "Slug": "vs2008-update",
+      "Reference": "resources/blog/2007/2007-11-20-vs2008-update",
+      "EntryId": "EbUyy4iPQCa",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:09.7328925Z",
+      "Similarity": 0.6244374983100606
+    },
+    {
+      "Title": "TFS Admin Tool 1.2 Gotcha",
+      "Slug": "tfs-admin-tool-1-2-gotcha",
+      "Reference": "resources/blog/2007/2007-03-29-tfs-admin-tool-1-2-gotcha",
+      "EntryId": "SmRXtDPyViB",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:12.7837451Z",
+      "Similarity": 0.6202193595989023
+    },
+    {
+      "Title": "Microsoft's internal uptake of Team Foundation Server",
+      "Slug": "microsofts-internal-uptake-of-team-foundation-server",
+      "Reference": "resources/blog/2007/2007-08-05-microsofts-internal-uptake-of-team-foundation-server",
+      "EntryId": "1NIc24-e5FY",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:57.0328127Z",
+      "Similarity": 0.6196569100779618
+    },
+    {
+      "Title": "SharePoint Content Request | What would you like to see?",
+      "Slug": "sharepoint-content-request-what-would-you-like-to-see",
+      "Reference": "resources/blog/2007/2007-07-23-sharepoint-content-request-what-would-you-like-to-see",
+      "EntryId": "pyKCdDNWdPB",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:13.7175537Z",
+      "Similarity": 0.6178108254964941
+    },
+    {
+      "Title": "Using Visual Studio 2008",
+      "Slug": "using-visual-studio-2008",
+      "Reference": "resources/blog/2007/2007-08-20-using-visual-studio-2008",
+      "EntryId": "lO6Rlwe1r6f",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:46.3639115Z",
+      "Similarity": 0.6177792439760125
+    },
+    {
+      "Title": "Least opportune time.",
+      "Slug": "least-opportune-time",
+      "Reference": "resources/blog/2008/2008-11-20-least-opportune-time",
+      "EntryId": "wBoC9CmdiGq",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:01.988981Z",
+      "Similarity": 0.6163650122242
+    },
+    {
+      "Title": "Visual Studio Team System 2008 Team Foundation Server Power Tools",
+      "Slug": "visual-studio-team-system-2008-team-foundation-server-power-tools",
+      "Reference": "resources/blog/2008/2008-11-10-visual-studio-team-system-2008-team-foundation-server-power-tools",
+      "EntryId": "GNzGGsullsE",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:10.1362532Z",
+      "Similarity": 0.6157691130732008
+    },
+    {
+      "Title": "A new day, a new week, a new Team Server",
+      "Slug": "a-new-day-a-new-week-a-new-team-server",
+      "Reference": "resources/blog/2007/2007-08-13-a-new-day-a-new-week-a-new-team-server",
+      "EntryId": "6c2D94gL-Fn",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:49.8515205Z",
+      "Similarity": 0.6156384724583058
+    },
+    {
+      "Title": "MSBuild and Business Intelligence Packages, Ahhhhhh!",
+      "Slug": "msbuild-and-business-intelligence-packages-ahhhhhh",
+      "Reference": "resources/blog/2008/2008-10-24-msbuild-and-business-intelligence-packages-ahhhhhh",
+      "EntryId": "lttzdaIlzel",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:19.1629731Z",
+      "Similarity": 0.6154006201182688
+    },
+    {
+      "Title": "TFS Sticky Buddy POC (WinForms) release",
+      "Slug": "tfs-sticky-buddy-poc-winforms-release",
+      "Reference": "resources/blog/2008/2008-02-11-tfs-sticky-buddy-poc-winforms-release",
+      "EntryId": "FSoIFwapvMt",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:28.3414156Z",
+      "Similarity": 0.6149995857655706
+    },
+    {
+      "Title": "Hosted Sticky Buddy",
+      "Slug": "hosted-sticky-buddy",
+      "Reference": "resources/blog/2008/2008-08-04-hosted-sticky-buddy",
+      "EntryId": "4r5fzbQPMir",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:53.9061026Z",
+      "Similarity": 0.6144200212578844
+    },
+    {
+      "Title": "Codeplex Project: RDdotNET White Label",
+      "Slug": "codeplex-project-rddotnet-white-label",
+      "Reference": "resources/blog/2006/2006-10-31-codeplex-project-rddotnet-white-label",
+      "EntryId": "LNv6D2UC7-n",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:54.1891117Z",
+      "Similarity": 0.6137625947401538
+    },
+    {
+      "Title": "TeamPlain - Install and initial views",
+      "Slug": "teamplain-install-and-initial-views",
+      "Reference": "resources/blog/2007/2007-03-27-teamplain-install-and-initial-views",
+      "EntryId": "SlsFZ5kO1Jc",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:13.6756011Z",
+      "Similarity": 0.613552569889521
+    },
+    {
+      "Title": "Would anyone be interested in hosted Visual Studio Team System (LinkedIn Question)",
+      "Slug": "would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question",
+      "Reference": "resources/blog/2007/2007-05-20-would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question",
+      "EntryId": "aGh8Dn3evEi",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:52.0944643Z",
+      "Similarity": 0.6134427574977152
+    },
+    {
+      "Title": "TFS Feature Wish (TFS Checkin Notifier)",
+      "Slug": "tfs-feature-wish-tfs-checkin-notifier",
+      "Reference": "resources/blog/2007/2007-05-24-tfs-feature-wish-tfs-checkin-notifier",
+      "EntryId": "1QNKNnc1Mvj",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:51.1080616Z",
+      "Similarity": 0.6128063946455786
+    },
+    {
+      "Title": "Deploying Team Server",
+      "Slug": "deploying-team-server",
+      "Reference": "resources/blog/2007/2007-01-30-deploying-team-server",
+      "EntryId": "BcNPa5LLzLX",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:32.6382821Z",
+      "Similarity": 0.6124882625825353
+    },
+    {
+      "Title": "Installing Team Explorer 2008 on Windows 7",
+      "Slug": "installing-team-explorer-2008-on-windows-7",
+      "Reference": "resources/blog/2009/2009-01-13-installing-team-explorer-2008-on-windows-7",
+      "EntryId": "eriIolF997p",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:53:15.5904695Z",
+      "Similarity": 0.6110157888483545
+    },
+    {
+      "Title": "TFS Sticky Buddy Update",
+      "Slug": "tfs-sticky-buddy-update",
+      "Reference": "resources/blog/2008/2008-09-03-tfs-sticky-buddy-update",
+      "EntryId": "6FP0Axpic3s",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:39.5156285Z",
+      "Similarity": 0.610644106198062
+    },
+    {
+      "Title": "Windows Communication Framework Evaluation",
+      "Slug": "windows-communication-framework-evaluation",
+      "Reference": "resources/blog/2006/2006-08-09-windows-communication-framework-evaluation",
+      "EntryId": "piNenAHpFYq",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:55.9044057Z",
+      "Similarity": 0.6102069659858028
+    },
+    {
+      "Title": "TFS Sticky Buddy 2.0 development started…",
+      "Slug": "tfs-sticky-buddy-2-0-development-started",
+      "Reference": "resources/blog/2008/2008-11-06-tfs-sticky-buddy-2-0-development-started",
+      "EntryId": "TxY4h-j1YTB",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:11.8183406Z",
+      "Similarity": 0.6101197443076288
+    },
+    {
+      "Title": "Time That Task VSTS Check-In Policy",
+      "Slug": "time-that-task-vsts-check-in-policy",
+      "Reference": "resources/blog/2006/2006-12-19-time-that-task-vsts-check-in-policy",
+      "EntryId": "3-mqIx3Xkgv",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:44.4547369Z",
+      "Similarity": 0.6096310912248663
+    },
+    {
+      "Title": "TFS Sticky Buddy POC (WPF) release",
+      "Slug": "tfs-sticky-buddy-poc-wpf-release",
+      "Reference": "resources/blog/2008/2008-02-11-tfs-sticky-buddy-poc-wpf-release",
+      "EntryId": "y9N2dVYGwK3",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:27.4072758Z",
+      "Similarity": 0.6092316610666819
+    },
+    {
+      "Title": "Access to Team Foundation Server",
+      "Slug": "access-to-team-foundation-server",
+      "Reference": "resources/blog/2007/2007-07-21-access-to-team-foundation-server",
+      "EntryId": "ttgv7j3g-kW",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:19.2883425Z",
+      "Similarity": 0.6087521187169477
+    },
+    {
+      "Title": "Setting up TFS to create project portals as child sites of an existing SharePoint 3.0 site (or sub site)",
+      "Slug": "setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site",
+      "Reference": "resources/blog/2007/2007-05-31-setting-up-tfs-to-create-project-portals-as-child-sites-of-an-existing-sharepoint-3-0-site-or-sub-site",
+      "EntryId": "jFAz7uP6k-J",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:43.793365Z",
+      "Similarity": 0.6073340563767949
+    },
+    {
+      "Title": "TFS Weekend Part 1 - Install",
+      "Slug": "tfs-weekend-part-1-install",
+      "Reference": "resources/blog/2007/2007-03-19-tfs-weekend-part-1-install",
+      "EntryId": "B1LQBjDfDfF",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:19.2765032Z",
+      "Similarity": 0.6071714889348616
+    },
+    {
+      "Title": "TFS Sticky Buddy layout fun...",
+      "Slug": "tfs-sticky-buddy-layout-fun",
+      "Reference": "resources/blog/2008/2008-02-11-tfs-sticky-buddy-layout-fun",
+      "EntryId": "kiOEzMLUa0k",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:29.2614873Z",
+      "Similarity": 0.6068648584072843
+    },
+    {
+      "Title": "Installing TFS 2008 from scratch",
+      "Slug": "installing-tfs-2008-from-scratch",
+      "Reference": "resources/blog/2007/2007-10-20-installing-tfs-2008-from-scratch",
+      "EntryId": "90J7b6pXQm3",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:15.4360967Z",
+      "Similarity": 0.6067364221999986
+    },
+    {
+      "Title": "Enable Feedback support for users in Team Foundation Server 2012",
+      "Slug": "enable-feedback-support-for-users-in-team-foundation-server-2012",
+      "Reference": "resources/blog/2013/2013-05-21-enable-feedback-support-for-users-in-team-foundation-server-2012",
+      "EntryId": "7WxWYWI5PI2",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:21.6125051Z",
+      "Similarity": 0.6067009752066778
+    },
+    {
+      "Title": "Log Elmah errors in Team Foundation Server",
+      "Slug": "log-elmah-errors-in-team-foundation-server",
+      "Reference": "resources/blog/2009/2009-07-26-log-elmah-errors-in-team-foundation-server",
+      "EntryId": "FGTZV3eWHR9",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:52:30.6093392Z",
+      "Similarity": 0.6055593618269762
+    },
+    {
+      "Title": "Retrieving an identity from Team Foundation Server using only the display name",
+      "Slug": "retrieving-an-identity-from-team-foundation-server-using-only-the-display-name",
+      "Reference": "resources/blog/2008/2008-12-01-retrieving-an-identity-from-team-foundation-server-using-only-the-display-name",
+      "EntryId": "oz3cfvmwtph",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:53:32.6358471Z",
+      "Similarity": 0.6049652032136935
+    },
+    {
+      "Title": "Finding the problem on a partially succeeded build on Team Foundation Build Services 2010",
+      "Slug": "finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010",
+      "Reference": "resources/blog/2010/2010-03-04-finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010",
+      "EntryId": "YBExXvBtNAN",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:52:02.3132737Z",
+      "Similarity": 0.6043547638122547
+    },
+    {
+      "Title": "Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM",
+      "Slug": "problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm",
+      "Reference": "resources/blog/2008/2008-08-12-problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm",
+      "EntryId": "DLSNF8iLvfk",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:54:50.0828677Z",
+      "Similarity": 0.6014050645480351
+    },
+    {
+      "Title": "Loosing the battle, but the war goes on",
+      "Slug": "loosing-the-battle-but-the-war-goes-on",
+      "Reference": "resources/blog/2007/2007-07-19-loosing-the-battle-but-the-war-goes-on",
+      "EntryId": "eDmNn28RPGH",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:20.4118078Z",
+      "Similarity": 0.601140577228719
+    },
+    {
+      "Title": "Community-Credit feedback",
+      "Slug": "community-credit-feedback",
+      "Reference": "resources/blog/2008/2008-01-15-community-credit-feedback",
+      "EntryId": "HElvJm048ib",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:43.7293707Z",
+      "Similarity": 0.6000824354015695
+    }
+  ]
+}

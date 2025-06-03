@@ -1,0 +1,604 @@
+{
+  "related": [
+    {
+      "Title": "Software Development Industrial Revolution",
+      "Slug": "software-development-industrial-revolution",
+      "Reference": "resources/blog/2007/2007-01-30-software-development-industrial-revolution",
+      "EntryId": "3YR-l0WfbLK",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:29.5243819Z",
+      "Similarity": 0.7594112550820517
+    },
+    {
+      "Title": "Why do we care about software factories?",
+      "Slug": "why-do-we-care-about-software-factories",
+      "Reference": "resources/blog/2007/2007-07-23-why-do-we-care-about-software-factories",
+      "EntryId": "cdrcglA4d9D",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:15.4842305Z",
+      "Similarity": 0.7504622836332158
+    },
+    {
+      "Title": "Creating a managed service factory",
+      "Slug": "creating-a-managed-service-factory",
+      "Reference": "resources/blog/2007/2007-06-19-creating-a-managed-service-factory",
+      "EntryId": "dfhN35mUMDl",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:30.1697355Z",
+      "Similarity": 0.6884147271401378
+    },
+    {
+      "Title": "Continuous value delivery with modern business applications",
+      "Slug": "continuous-value-delivery-with-modern-business-applications",
+      "Reference": "resources/blog/2012/2012-11-27-continuous-value-delivery-with-modern-business-applications",
+      "EntryId": "Bqw3QI4cP_9",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:53.337397Z",
+      "Similarity": 0.6731448499246869
+    },
+    {
+      "Title": "Envisioning vs Provisioning",
+      "Slug": "envisioning-vs-provisioning",
+      "Reference": "resources/blog/2007/2007-05-03-envisioning-vs-provisioning",
+      "EntryId": "klxWFYrDmai",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:58.4943593Z",
+      "Similarity": 0.6692840057004605
+    },
+    {
+      "Title": "Does test-driven development speed up development?",
+      "Slug": "does-test-driven-development-speed-up-development",
+      "Reference": "resources/blog/2008/2008-12-15-does-test-driven-development-speed-up-development",
+      "EntryId": "ASBKRFatUhc",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:53:26.4797932Z",
+      "Similarity": 0.6567358615848892
+    },
+    {
+      "Title": "Deploying Team Server",
+      "Slug": "deploying-team-server",
+      "Reference": "resources/blog/2007/2007-01-30-deploying-team-server",
+      "EntryId": "BcNPa5LLzLX",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:32.6382821Z",
+      "Similarity": 0.6551057354269736
+    },
+    {
+      "Title": "Does your company culture resemble Survivor?",
+      "Slug": "does-your-company-culture-resemble-survivor",
+      "Reference": "resources/blog/2013/2013-07-10-does-your-company-culture-resemble-survivor",
+      "EntryId": "1VbvpOX1Hg0",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:47:59.0312468Z",
+      "Similarity": 0.6549980670850301
+    },
+    {
+      "Title": "Naked ALM: starting with why and getting naked",
+      "Slug": "naked-alm-starting-with-why-and-getting-naked",
+      "Reference": "resources/blog/2013/2013-05-02-naked-alm-starting-with-why-and-getting-naked",
+      "EntryId": "SrQHWVkcvAL",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:27.3981342Z",
+      "Similarity": 0.6503792022305622
+    },
+    {
+      "Title": "The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility",
+      "Slug": "the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility",
+      "Reference": "resources/blog/2023/2023-09-07-the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility",
+      "EntryId": "Jz5uZMzPiRx",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:40:06.6433019Z",
+      "Similarity": 0.6488904481617533
+    },
+    {
+      "Title": "Searching for self-organisation",
+      "Slug": "searching-for-self-organisation",
+      "Reference": "resources/blog/2013/2013-07-31-searching-for-self-organisation",
+      "EntryId": "EjoEHTWiJtf",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:47:47.5502399Z",
+      "Similarity": 0.6402145642561744
+    },
+    {
+      "Title": "Microsoft's internal uptake of Team Foundation Server",
+      "Slug": "microsofts-internal-uptake-of-team-foundation-server",
+      "Reference": "resources/blog/2007/2007-08-05-microsofts-internal-uptake-of-team-foundation-server",
+      "EntryId": "1NIc24-e5FY",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:57.0328127Z",
+      "Similarity": 0.6392789429910617
+    },
+    {
+      "Title": "Constructing a framework for the TFS Automation Platform",
+      "Slug": "constructing-a-framework-for-the-tfs-automation-platform",
+      "Reference": "resources/blog/2011/2011-06-12-constructing-a-framework-for-the-tfs-automation-platform",
+      "EntryId": "w6AaB_5-1gr",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:50:52.6663288Z",
+      "Similarity": 0.6382079135857642
+    },
+    {
+      "Title": "Stop Hiding Behind Complexity and Start Delivering Continuously",
+      "Slug": "stop-hiding-behind-complexity-and-start-delivering-continuously",
+      "Reference": "resources/blog/2025/2025-02-24-stop-hiding-behind-complexity-deliver-continuously",
+      "EntryId": "7hEAycZIn8w",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:32:22.1609767Z",
+      "Similarity": 0.6380603545800291
+    },
+    {
+      "Title": "Getting started with a modern source control system and DevOps",
+      "Slug": "getting-started-with-a-modern-source-control-system-and-devops",
+      "Reference": "resources/blog/2017/2017-11-10-getting-started-with-modern-source-control-system-and-devops",
+      "EntryId": "bkiQSbbO78R",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:45:34.6445138Z",
+      "Similarity": 0.637750168875591
+    },
+    {
+      "Title": "Modelling Teams in Team Foundation Server 2013",
+      "Slug": "modelling-teams-in-team-foundation-server-2013",
+      "Reference": "resources/blog/2013/2013-07-16-modelling-teams-in-team-foundation-server-2013",
+      "EntryId": "Km0aNB0A6C1",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:47:55.1529404Z",
+      "Similarity": 0.634602456234641
+    },
+    {
+      "Title": "Automated Testing in a modern application lifecycle",
+      "Slug": "automated-testing-in-a-modern-application-lifecycle",
+      "Reference": "resources/blog/2012/2012-09-25-automated-testing-in-a-modern-application-lifecycle",
+      "EntryId": "IOUOjgnp-hB",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:04.7565673Z",
+      "Similarity": 0.6298214479545046
+    },
+    {
+      "Title": "Release Management with Team Foundation Server 2012",
+      "Slug": "release-management-with-team-foundation-server-2012",
+      "Reference": "resources/blog/2013/2013-04-24-release-management-with-team-foundation-server-2012",
+      "EntryId": "GqwYV8fekzQ",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:28.3235901Z",
+      "Similarity": 0.6271868819936713
+    },
+    {
+      "Title": "There is no \"do agile\" there is only \"be agile\"",
+      "Slug": "there-is-no-do-agile-there-is-only-be-agile",
+      "Reference": "resources/blog/2013/2013-09-01-there-is-no-do-agile-there-is-only-be-agile",
+      "EntryId": "QIFsyx_OqLG",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:47:40.8066486Z",
+      "Similarity": 0.6271273508800992
+    },
+    {
+      "Title": "Working within a single Team Project with Team Foundation Server 2012",
+      "Slug": "working-within-a-single-team-project-with-team-foundation-server-2012",
+      "Reference": "resources/blog/2013/2013-04-08-working-within-a-single-team-project-with-team-foundation-server-2012",
+      "EntryId": "mV9NzUQYyjY",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:33.090835Z",
+      "Similarity": 0.6267223183517268
+    },
+    {
+      "Title": "Is ALM a useful term?",
+      "Slug": "is-alm-a-useful-term",
+      "Reference": "resources/blog/2012/2012-02-25-is-alm-a-useful-term",
+      "EntryId": "hnvOLuqmQk7",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:50:09.7510798Z",
+      "Similarity": 0.6252383471166078
+    },
+    {
+      "Title": "Unlocking the Future of Software Development: Why Automation is Your Key to Success",
+      "Slug": "unlocking-the-future-of-software-development-why-automation-is-your-key-to-success",
+      "Reference": "resources/videos/youtube/tKEl0YVeWv4",
+      "EntryId": "tKEl0YVeWv4",
+      "EntryKind": "resource",
+      "EntryType": "videos",
+      "EntryGenAt": "2025-05-29T20:33:04.5465083Z",
+      "Similarity": 0.6249607196411735
+    },
+    {
+      "Title": "A better way than staggered iterations for delivery",
+      "Slug": "a-better-way-than-staggered-iterations-for-delivery",
+      "Reference": "resources/blog/2020/2020-12-10-a-better-way-than-staggered-iterations-for-delivery",
+      "EntryId": "DOMFzBBMzfq",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:44:36.1097486Z",
+      "Similarity": 0.6243650568947583
+    },
+    {
+      "Title": "Building a release pipeline with Release Management with Visual Studio 2013",
+      "Slug": "building-release-pipeline-release-management-visual-studio-2013",
+      "Reference": "resources/blog/2014/2014-02-18-building-release-pipeline-release-management-visual-studio-2013",
+      "EntryId": "Q7mjPfg5d4Q",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:47:10.4337461Z",
+      "Similarity": 0.6238935120918754
+    },
+    {
+      "Title": "Transforming Agility: How Azure DevOps Went from Two-Year Releases to 880,000 Deployments",
+      "Slug": "transforming-agility-how-azure-devops-went-from-two-year-releases-to-880-000-deployments",
+      "Reference": "resources/videos/youtube/_gyzx59-AJk",
+      "EntryId": "_gyzx59-AJk",
+      "EntryKind": "resource",
+      "EntryType": "videos",
+      "EntryGenAt": "2025-05-29T20:32:55.4048703Z",
+      "Similarity": 0.6233011469628168
+    },
+    {
+      "Title": "My journey into Professional Scrum",
+      "Slug": "journey-professional-scrum",
+      "Reference": "resources/blog/2015/2015-02-04-journey-professional-scrum",
+      "EntryId": "PqEhZ1JIcDe",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:46:09.2967685Z",
+      "Similarity": 0.6222653935013022
+    },
+    {
+      "Title": "Deployment documentation",
+      "Slug": "deployment-documentation",
+      "Reference": "resources/blog/2007/2007-07-23-deployment-documentation",
+      "EntryId": "154BNVcnbaU",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:14.604214Z",
+      "Similarity": 0.6213193282867411
+    },
+    {
+      "Title": "From Chaos to Clarity: My Journey Through DevOps and the Three Key Challenges to Overcome",
+      "Slug": "from-chaos-to-clarity-my-journey-through-devops-and-the-three-key-challenges-to-overcome",
+      "Reference": "resources/videos/youtube/icX4XpolVLE",
+      "EntryId": "icX4XpolVLE",
+      "EntryKind": "resource",
+      "EntryType": "videos",
+      "EntryGenAt": "2025-05-29T20:36:33.823229Z",
+      "Similarity": 0.6208630454477345
+    },
+    {
+      "Title": "The Sprint is a container for Planning and not necessarily for Delivery",
+      "Slug": "the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery",
+      "Reference": "resources/blog/2011/2011-11-29-the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery",
+      "EntryId": "6USQKO75YgH",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:50:29.0898427Z",
+      "Similarity": 0.6201364124644708
+    },
+    {
+      "Title": "One Team Project to rule them all",
+      "Slug": "one-team-project",
+      "Reference": "resources/blog/2012/2012-07-15-one-team-project",
+      "EntryId": "8AfjJ-2eCEV",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:44.0344831Z",
+      "Similarity": 0.6200848521016613
+    },
+    {
+      "Title": "Its that time again",
+      "Slug": "its-that-time-again",
+      "Reference": "resources/blog/2007/2007-07-16-its-that-time-again",
+      "EntryId": "n0GHiv0sTfp",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:22.4876394Z",
+      "Similarity": 0.618732973946251
+    },
+    {
+      "Title": "Hold on lads, I have an idea!",
+      "Slug": "hold-on-lads-i-have-an-idea",
+      "Reference": "resources/blog/2007/2007-11-20-hold-on-lads-i-have-an-idea",
+      "EntryId": "foVNVdAmeyw",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:07.9856092Z",
+      "Similarity": 0.6181836956791764
+    },
+    {
+      "Title": "Embracing Change: How Architectural Adaptation Fuels Software Development Success",
+      "Slug": "embracing-change-how-architectural-adaptation-fuels-software-development-success",
+      "Reference": "resources/videos/youtube/PNLCxB2zmUA",
+      "EntryId": "PNLCxB2zmUA",
+      "EntryKind": "resource",
+      "EntryType": "videos",
+      "EntryGenAt": "2025-05-29T20:32:52.5538937Z",
+      "Similarity": 0.6178225819425915
+    },
+    {
+      "Title": "Virtual Labs in the modern application lifecycle",
+      "Slug": "virtual-labs-in-the-modern-application-lifecycle",
+      "Reference": "resources/blog/2012/2012-09-22-virtual-labs-in-the-modern-application-lifecycle",
+      "EntryId": "SXJ7aTQkyMj",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:05.7768703Z",
+      "Similarity": 0.6157040791965868
+    },
+    {
+      "Title": "Quality enablement with Visual Studio 2012",
+      "Slug": "quality-enablement-with-visual-studio-2012",
+      "Reference": "resources/blog/2013/2013-05-15-quality-enablement-with-visual-studio-2012",
+      "EntryId": "YcLApPV4Zgj",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:22.737787Z",
+      "Similarity": 0.6148382883569838
+    },
+    {
+      "Title": "Why Handoffs Are Killing Your Agility",
+      "Slug": "why-handoffs-are-killing-your-agility",
+      "Reference": "resources/blog/2025/2025-01-11-why-handoffs-are-killing-your-agility",
+      "EntryId": "pDvDdIEi9sj",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:33:07.3971971Z",
+      "Similarity": 0.6144353581144882
+    },
+    {
+      "Title": "The Urgent Call for Agile Organisational Transformation",
+      "Slug": "the-urgent-call-for-agile-organisational-transformation",
+      "Reference": "resources/blog/2023/2023-06-29-alpha-to-beta-the-urgent-call-for-agile-organisational-transformation",
+      "EntryId": "aeNTMpquEZ5",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:41:11.335497Z",
+      "Similarity": 0.6134814992642115
+    },
+    {
+      "Title": "Project of Projects with team Foundation Server 2010",
+      "Slug": "project-of-projects-with-team-foundation-server-2010",
+      "Reference": "resources/blog/2011/2011-01-04-project-of-projects-with-team-foundation-server-2010",
+      "EntryId": "qiY3IH2aMYV",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:51:13.284698Z",
+      "Similarity": 0.6127476994880208
+    },
+    {
+      "Title": "Quality enablement to achieve predictable delivery",
+      "Slug": "quality-enablement-to-achieve-predictable-delivery",
+      "Reference": "resources/blog/2013/2013-07-24-quality-enablement-to-achieve-predictable-delivery",
+      "EntryId": "Qvzmat4E5NB",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:47:51.3630824Z",
+      "Similarity": 0.6117927904240306
+    },
+    {
+      "Title": "A perfect match TFS and DLR",
+      "Slug": "a-perfect-match-tfs-and-dlr",
+      "Reference": "resources/blog/2009/2009-07-27-a-perfect-match-tfs-and-dlr",
+      "EntryId": "JlC3Gm8IgO8",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:52:29.423154Z",
+      "Similarity": 0.6107995584368378
+    },
+    {
+      "Title": "The new normal of the modern application lifecycle",
+      "Slug": "the-new-normal-of-the-modern-application-lifecycle",
+      "Reference": "resources/blog/2012/2012-10-10-the-new-normal-of-the-modern-application-lifecycle",
+      "EntryId": "4xvg8avKMPA",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:02.8621685Z",
+      "Similarity": 0.6099108016608962
+    },
+    {
+      "Title": "Loosing the battle, but the war goes on",
+      "Slug": "loosing-the-battle-but-the-war-goes-on",
+      "Reference": "resources/blog/2007/2007-07-19-loosing-the-battle-but-the-war-goes-on",
+      "EntryId": "eDmNn28RPGH",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:20.4118078Z",
+      "Similarity": 0.6094708858388346
+    },
+    {
+      "Title": "Deploy from Visual Studio 2012 to iOS, Windows Phone, Android and Windows",
+      "Slug": "deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows",
+      "Reference": "resources/blog/2012/2012-08-03-deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows",
+      "EntryId": "n5gPXqsSzYn",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:49:30.668637Z",
+      "Similarity": 0.6088688625187177
+    },
+    {
+      "Title": "Live Site Culture & Site Reliability Engineering",
+      "Slug": "live-site-culture-site-reliability-engineering",
+      "Reference": "resources/blog/2020/2020-06-17-live-site-culture-site-reliability-engineering",
+      "EntryId": "c_gS0nlQD9E",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:44:55.1028427Z",
+      "Similarity": 0.6082761026508992
+    },
+    {
+      "Title": "Amusing job requirements",
+      "Slug": "amusing-job-requirements",
+      "Reference": "resources/blog/2007/2007-10-06-amusing-job-requirements",
+      "EntryId": "NU1-eAy72tU",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:18.9246824Z",
+      "Similarity": 0.6075357241492839
+    },
+    {
+      "Title": "Social and Business Networking",
+      "Slug": "social-and-business-networking",
+      "Reference": "resources/blog/2007/2007-07-25-social-and-business-networking",
+      "EntryId": "wm96r47cCGV",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:12.4686547Z",
+      "Similarity": 0.6070732800033981
+    },
+    {
+      "Title": "Becoming a better developer",
+      "Slug": "becoming-a-better-developer",
+      "Reference": "resources/blog/2007/2007-08-07-becoming-a-better-developer",
+      "EntryId": "BonYegnhwPu",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:56:55.2520279Z",
+      "Similarity": 0.6062979174907711
+    },
+    {
+      "Title": "Selling the benefits of Team System",
+      "Slug": "selling-the-benefits-of-team-system",
+      "Reference": "resources/blog/2007/2007-04-27-selling-the-benefits-of-team-system",
+      "EntryId": "_jpQbjqxlCl",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:58:06.2187849Z",
+      "Similarity": 0.6060687592587695
+    },
+    {
+      "Title": "How do you think Agile is evolving since its inception in 2001?",
+      "Slug": "how-do-you-think-agile-is-evolving-since-its-inception-in-2001",
+      "Reference": "resources/videos/youtube/QgPlMxGNIzs",
+      "EntryId": "QgPlMxGNIzs",
+      "EntryKind": "resource",
+      "EntryType": "videos",
+      "EntryGenAt": "2025-05-29T20:43:40.1729124Z",
+      "Similarity": 0.60591052795101
+    },
+    {
+      "Title": "Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape",
+      "Slug": "mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape",
+      "Reference": "resources/videos/youtube/i_DglXgaePM",
+      "EntryId": "i_DglXgaePM",
+      "EntryKind": "resource",
+      "EntryType": "videos",
+      "EntryGenAt": "2025-05-29T20:45:13.2366201Z",
+      "Similarity": 0.6050039059762632
+    },
+    {
+      "Title": "Navigating Complexity: Why Agile Practices Are Essential for Modern Product Development",
+      "Slug": "navigating-complexity-why-agile-practices-are-essential-for-modern-product-development",
+      "Reference": "resources/videos/youtube/phv_2Bv2PrA",
+      "EntryId": "phv_2Bv2PrA",
+      "EntryKind": "resource",
+      "EntryType": "videos",
+      "EntryGenAt": "2025-05-29T20:44:10.9964574Z",
+      "Similarity": 0.604863091505838
+    },
+    {
+      "Title": "From Unused Gym Memberships to Agile Implementation The Parallels of Misapplied Investments",
+      "Slug": "from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments",
+      "Reference": "resources/blog/2023/2023-08-03-from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments",
+      "EntryId": "mzVDd2JFtHO",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:40:39.9009778Z",
+      "Similarity": 0.6044312415371513
+    },
+    {
+      "Title": "SharePoint Solutions Rant",
+      "Slug": "sharepoint-solutions-rant",
+      "Reference": "resources/blog/2008/2008-05-21-sharepoint-solutions-rant",
+      "EntryId": "z6JKvHvhWuI",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:55:01.42283Z",
+      "Similarity": 0.6028407535211816
+    },
+    {
+      "Title": "The Insufficiency of Scrum is a fallacy",
+      "Slug": "the-insufficiency-of-scrum-is-a-fallacy",
+      "Reference": "resources/blog/2013/2013-03-23-the-insufficiency-of-scrum-is-a-fallacy",
+      "EntryId": "n9OhtpbJs0-",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:36.0440976Z",
+      "Similarity": 0.602789678332847
+    },
+    {
+      "Title": "From Developer to Agile Advocate: How My Journey Unveiled the Power of Scrum and DevOps",
+      "Slug": "from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops",
+      "Reference": "resources/videos/youtube/4FTEJ4tDQqU",
+      "EntryId": "4FTEJ4tDQqU",
+      "EntryKind": "resource",
+      "EntryType": "videos",
+      "EntryGenAt": "2025-05-29T20:43:28.4097457Z",
+      "Similarity": 0.6022721367585638
+    },
+    {
+      "Title": "Testing in Production Maximises Quality and Value",
+      "Slug": "testing-in-production-maximises-quality-and-value",
+      "Reference": "resources/blog/2025/2025-02-06-testing-in-production-maximises-quality-and-value",
+      "EntryId": "_ncZFfeCrnS",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:32:41.3959879Z",
+      "Similarity": 0.6019142260808247
+    },
+    {
+      "Title": "Avoid the pick-n-mix branching anti-pattern",
+      "Slug": "avoid-pick-n-mix-branching-anti-pattern",
+      "Reference": "resources/blog/2014/2014-07-14-avoid-pick-n-mix-branching-anti-pattern",
+      "EntryId": "IVl4r4gpkQ6",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:46:46.556742Z",
+      "Similarity": 0.6016962463702441
+    },
+    {
+      "Title": "The TFS Automation Platform is dead, long live the TfPlugable",
+      "Slug": "the-tfs-automation-platform-is-dead-long-live-the-tfplugable",
+      "Reference": "resources/blog/2013/2013-01-31-the-tfs-automation-platform-is-dead-long-live-the-tfplugable",
+      "EntryId": "cMYx4JN2az5",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:48:46.1182134Z",
+      "Similarity": 0.6010667632601023
+    },
+    {
+      "Title": "Recipe for Team Server in a small business",
+      "Slug": "recipe-for-team-server-in-a-small-business",
+      "Reference": "resources/blog/2007/2007-05-24-recipe-for-team-server-in-a-small-business",
+      "EntryId": "wOQl29WfTz6",
+      "EntryKind": "resource",
+      "EntryType": "blog",
+      "EntryGenAt": "2025-05-29T20:57:50.2999913Z",
+      "Similarity": 0.6003610685498272
+    },
+    {
+      "Title": "Empowering Teams for Success: The Key to Thriving Product Development",
+      "Slug": "empowering-teams-for-success-the-key-to-thriving-product-development",
+      "Reference": "resources/videos/youtube/EyqLSLHk_Ik",
+      "EntryId": "EyqLSLHk_Ik",
+      "EntryKind": "resource",
+      "EntryType": "videos",
+      "EntryGenAt": "2025-05-29T20:36:27.0461142Z",
+      "Similarity": 0.600218340398572
+    }
+  ]
+}
