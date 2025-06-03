@@ -10,9 +10,9 @@ type: outcomes
 slug: executive-and-stakeholder-buy-in
 card:
   button:
-    content: <p>Secure Leadership Support</p>
-  title: Executive and Stakeholder Buy In
-  content: <p>Transform skeptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.</p>
+    content: Secure Leadership Support
+  title: Executive and Stakeholder Buy-In
+  content: Transform sceptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.
 headline:
   cards: []
   title: Executive & Stakeholder Buy-In
