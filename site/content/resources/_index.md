@@ -15,7 +15,7 @@ headline:
   subtitle: "a·gen·tic a·gil·i·ty empowers teams through autonomy and accountability, championing evidence-based practices to foster adaptive, resilient organisations driven by trust and transparency."
   cards: []
   content: |
-    a·gen·tic a·gil·i·ty champions autonomy, accountability, and purposeful action. We empower you to optimise your systems of work, advocate pragmatic, evidence-based practices, and challenge conventional thinking—driving adaptive, resilient organisations.
+    Agentic Agility champions autonomy, accountability, and purposeful action. We empower you to optimise your systems of work, advocate pragmatic, evidence-based practices, and challenge conventional thinking—driving adaptive, resilient organisations.
 ---
 
 Agentic Agility
