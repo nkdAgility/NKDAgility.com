@@ -28,12 +28,6 @@
     {{- range $item := first 5 $pagesToDisplay }}
       <li class="list-group-item d-flex align-items-center">
         {{- partial "components/resources/resource-icon.html" . }}
-        {{ if .Draft }}
-          <i class="fa-brands fa-firstdraft pe-1"></i>
-        {{ end }}
-        {{ if gt .Date (now) }}
-          <i class="fa-regular fa-flux-capacitor pe-1"></i>
-        {{ end }}
         <a href="{{- $item.Permalink }}" class="text-decoration-none  text-nowrap text-truncate" title="{{- $item.Title }} - {{- $item.Description }}">
           {{- if .Params.shorttitle }}
             {{- .Params.shorttitle }}
