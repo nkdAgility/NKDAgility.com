@@ -1,8 +1,7 @@
 ---
 title: "Upskilled Engineering Teams"
 description: "Transform your engineering capabilities through targeted skill development that enables teams to deliver higher quality software faster."
-date: 2025-04-28
-draft: true
+date: 2025-06-04
 aliases:
   - /outcomes/increase-team-effectiveness/
   - /outcomes/increased-team-productivity/
@@ -21,10 +20,10 @@ card:
 headline:
   cards: []
   title: "Upskilled Engineering Teams: Build the Teams You Always Wished You Had"
-  content: "Tools don’t build great software—_teams_ do. But too many engineering orgs are stuck with skills that don’t match their ambition."
+  content: "Tools don’t build great software - _teams_ do. But too many engineering orgs are stuck with skills that don’t match their ambition."
 sections:
   - content: |
-      **NKD Agility transforms capable developers into modern engineers.** With hands-on coaching, real-world DevOps, and Agile Engineering training, we future-proof your team—without losing momentum.
+      **NKD Agility transforms capable developers into modern engineers.** With hands-on coaching, real-world DevOps, and Agile Engineering training, we future-proof your team - without losing momentum.
     type: content
   - type: outcomehero
     cta:
@@ -38,7 +37,7 @@ sections:
       - content: |
           Still filling gaps with contractors and hope?
       - content: |
-          Let’s grow your people—so they grow your product.
+          Let’s grow your people - so they grow your product.
   - title: Pain Points We Solve
     type: list
     list:
@@ -61,7 +60,7 @@ sections:
       - title: High Turnover or Low Engagement
         icon: fa-door-open
         content: |
-          Without growth opportunities, your best talent walks—and the rest coast.
+          Without growth opportunities, your best talent walks - and the rest coast.
   - type: quote
     backgroundColor: primary
     quote: |
@@ -74,7 +73,7 @@ sections:
       - title: Modern Engineering Skillsets
         icon: fa-toolbox
         content: |
-          CI/CD, Infrastructure as Code, Test Automation, TDD, Clean Architecture—no fluff, just what matters.
+          CI/CD, Infrastructure as Code, Test Automation, TDD, Clean Architecture - no fluff, just what matters.
       - title: Learning by Doing, Not Just Lectures
         icon: fa-chalkboard-user
         content: |
@@ -82,7 +81,7 @@ sections:
       - title: Confidence to Tackle Complexity
         icon: fa-mountain
         content: |
-          Your teams no longer flinch at large systems, outages, or scale—they’re equipped.
+          Your teams no longer flinch at large systems, outages, or scale - they’re equipped.
       - title: Higher Morale, Higher Retention
         icon: fa-heart
         content: |
@@ -90,7 +89,7 @@ sections:
   - title: Sustainable Growth, Not Burnout
     type: content
     content: |
-      We coach smarter ways of working—so teams don’t just “do more,” they do better.
+      We coach smarter ways of working - so teams don’t just “do more,” they do better.
   - type: outcomeboxes
     title: We help you with
     boxes:
@@ -113,43 +112,44 @@ sections:
           - title: Represent your org as an employer of choice for top talent
           - title: Mentor engineering leaders who can scale your org
           - title: Build a reputation for engineering excellence
-          - title: Lead a team that gets noticed inside—and outside—the company
+          - title: Lead a team that gets noticed inside - and outside - the company
           - title: Attract and retain top developers who want to grow
 
-  - title: XXXX XXXXXX XXXXXXX
+  - title: Results from the Ground Up
     type: casestudy
     list:
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Dev teams automated testing across 80% of codebase in 10 weeks
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Lead engineers coached into effective mentors and architecture owners
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Retention improved after team members reported "the best growth of their careers"
     cta:
-      content: "XXXX XXXXXX XXXXXXX?"
+      content: "Want to see how we do it? Explore Our Engineering Upskilling Stories."
       button:
-        text: "XXXX XXXXXX XXXXXXX"
+        text: "Case Studies"
         url: "/resources/case-studies"
   - title: Why NKDAgility?
     type: textNlist
     list:
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Practical DevOps, QA, and Agile Engineering training
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Mentoring embedded in the delivery cycle
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Long-term capability, not short-term hype
     sideContent: |
-      XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+      **Because real transformation isn’t about tools - it’s about teams that know how to use them**.
 
-      XXXX XXXXXX XXXXXXX
+      We integrate modern engineering practices *into the daily rhythm of your team’s work, so skills aren’t just learned - they’re lived.
 
+      Led by Martin Hinshelwood (Microsoft MVP) and a global team of technical coaches, NKD Agility helps you build the engineering culture your strategy demands.
   - type: sectioncta
     backgroundColor: primary
     cta:
@@ -157,50 +157,4 @@ sections:
       button:
         text: "Schedule a call"
         url: "/book"
----
-
----
-
-**🎯 Gains You Achieve with NKD Agility**
-
-💡 **Modern Engineering Skillsets**
-CI/CD, Infrastructure as Code, Test Automation, TDD, Clean Architecture—no fluff, just what matters.
-
-📚 **Learning by Doing, Not Just Lectures**
-We train in the flow of work, so adoption happens organically and results are immediate.
-
-🧗 **Confidence to Tackle Complexity**
-Your teams no longer flinch at large systems, outages, or scale—they’re equipped.
-
-🎉 **Higher Morale, Higher Retention**
-When engineers grow, they stay. When they own the system, they care.
-
-🧠 **Sustainable Growth, Not Burnout**
-We coach smarter ways of working—so teams don’t just “do more,” they do better.
-
----
-
-**🧰 Why NKD Agility?**
-
-**Because real transformation isn’t about tools—it’s about teams that \*\*\***know how to use them**\***.\**
-We integrate modern engineering practices *into the daily rhythm\* of your team’s work, so skills aren’t just learned—they’re lived.
-
-✔️ Practical DevOps, QA, and Agile Engineering training
-✔️ Mentoring embedded in the delivery cycle
-✔️ Long-term capability, not short-term hype
-
-Led by Martin Hinshelwood (Microsoft MVP) and a global team of technical coaches, NKD Agility helps you build the engineering culture your strategy demands.
-
----
-
-**📈 Results from the Ground Up**
-
-✅ Dev teams automated testing across 80% of codebase in 10 weeks
-✅ Lead engineers coached into effective mentors and architecture owners
-✅ Retention improved after team members reported "the best growth of their careers"
-
-**Want to see how we do it?** → \[Explore Our Engineering Upskilling Stories]
-
----
-
 ---
