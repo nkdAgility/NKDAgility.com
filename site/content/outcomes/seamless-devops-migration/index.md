@@ -32,7 +32,7 @@ sections:
       - content: |
           Bleeding time, risk, and value?
       - content: |
-          Loosing credibility and confidence?
+          Losing credibility and confidence?
   - title: Pain Removed. Confidence Restored.
     type: list
     list:
