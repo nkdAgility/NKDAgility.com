@@ -17,10 +17,10 @@ headline:
   cards: []
   title: Executive & Stakeholder Buy-In
   content: |
-    **NKD Agility helps technical leaders build trust and alignment at the executive level.** We equip you to prepare the right story, communicate it with clarity, and align stakeholders on what matters most.
+    **Speak Their Language. Win Their Support.** You’ve got the vision. The roadmap. The technical chops. But without buy-in from the boardroom, nothing moves.
 sections:
   - content: |
-      **NKD Agility helps technical leaders win trust, funding, and influence.** We help you communicate value with clarity, using tools and language that resonate with business leaders.
+      **NKD Agility helps technical leaders win trust, funding, and influence.** We give you the tools, metrics, and language to communicate value—and the confidence to lead with authority.
     type: content
   - type: outcomehero
     cta:
@@ -34,7 +34,7 @@ sections:
       - content: |
           Still struggling to show the business value of your tech vision?
       - content: |
-          Want to turn hesitation into confidence through shared understanding?
+          Want to transform skepticism into support?
   - title: Pain Points We Eliminate
     type: list
     list:
@@ -78,7 +78,7 @@ sections:
       - title: Faster Buy-In from Executives & Stakeholders
         icon: fa-handshake-simple
         content: |
-          You’ll be better equipped to move from requestor to strategic contributor.
+          You’ll move from requestor to trusted advisor - and finally get the green light.
       - title: Improved Funding Cycles & Resource Allocation
         icon: fa-chart-sine
         content: |
@@ -86,7 +86,7 @@ sections:
   - title: Influence & Strategic Credibility
     type: content
     content: |
-      Technical leaders who bridge strategy and delivery are better positioned to influence business growth.
+      You’re not just "the tech person." You’re the force behind scalable business growth.
   - type: outcomeboxes
     title: We help you
     boxes:
