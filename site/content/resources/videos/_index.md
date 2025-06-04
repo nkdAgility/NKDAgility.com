@@ -4,7 +4,6 @@ description: "Dive into concise, practical insights on Agile, Scrum, and DevOps.
 shorttitle: "Videos"
 url: "/resources/videos/"
 layout: "section" # Hugo will use section.html to render the list of pages
-resourceTypes: videos
 resourceType: videos
 trustpilot: false
 headline:

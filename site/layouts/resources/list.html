@@ -32,7 +32,7 @@
             {{ $futureResources := where (where .Site.RegularPages "Type" "resources") "Date" "ge" now }}
             {{ $futureResources := sort $futureResources "Date" "desc"}}
             {{ if .Params.ResourceTypes }}
-              {{ $futureResources = where $futureResources "Params.ResourceType" .Params.ResourceTypes }}
+              {{ $futureResources = where $futureResources "Params.ResourceType" .Params.ResourceType }}
             {{ end }}
             <h5>Future ({{ len $futureResources }})</h5>
             <div class="columns-2">
@@ -56,7 +56,7 @@
          {{ $resources = where $resources "Params.ResourceType" "ne" "signals" }}
         {{ end }}
         {{ if .Params.ResourceTypes }}
-          {{ $resources = where $resources "Params.ResourceType" .Params.ResourceTypes }}
+          {{ $resources = where $resources "Params.ResourceType" .Params.ResourceType }}
         {{ end }}
         <div class="m-1">
           <h5>Most recent content</h5>
