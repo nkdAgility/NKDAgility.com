@@ -9,14 +9,14 @@ aliases:
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 8.0
+  priority: 0.8
 type: outcomes
 slug: upskilled-engineering-teams
 card:
   button:
     content: Upskilled Engineering Teams
   title: Upskilled Engineering Teams
-  content: Transform average engineers into exceptional performers through targeted skill development that drives measurable improvements in quality and velocity.
+  content: Enable capable engineers to grow into confident, effective contributors through structured practice.
 headline:
   cards: []
   title: "Upskilled Engineering Teams"
@@ -30,13 +30,13 @@ sections:
     cta:
       content: "Build the Teams You Always Wished You Had"
       button:
-        text: "Ready to Build Elite Teams?"
+        text: Ready to Build Confident, Capable Teams?
         url: "/book"
     boxes:
       - content: |
           Still relying on your top 10% to carry the 90%?
       - content: |
-          Still filling gaps with contractors and hope?
+          Still relying on external contractors to patch internal capability gaps?
       - content: |
           Let’s grow your people - so they grow your product.
   - title: Pain Points We Solve
@@ -57,7 +57,7 @@ sections:
       - title: Dependence on Firefighting Heroes
         icon: fa-fire-extinguisher
         content: |
-          A few star engineers carry the team. Everyone else plays catch-up.
+          Critical work falls to a few key engineers. The rest don’t get the chance to grow.
       - title: High Turnover or Low Engagement
         icon: fa-door-open
         content: |
@@ -67,7 +67,7 @@ sections:
     quote: |
       "Martin is extremely knowledgeable and experienced in helping teams become more agile and adopt DevOps practices especially around the Microsoft Azure platform and VSTS / TFS. But he is not limited to that stack with plenty of experience with competing and complimentary technologies. He explains things clearly and gets rid of any 'smoke and mirrors' to show how any team can make small improvements to improve how they work. He is one of the leading MVP's globally for DevOps and someone myself and my colleagues in the Azure product group trust to give us honest and insightful feedback."
       - **Martin Woodward | Principal Group Program Manager | Microsoft**
-  - title: Gains You Achieve with NKD Agility
+  - title: What Engineering Excellence Feels Like
     type: list
     listType: boxed
     list:
@@ -121,15 +121,15 @@ sections:
     list:
       - icon: fa-shield-check
         content: |
-          Dev teams automated testing across 80% of codebase in 10 weeks
+          Teams established modern testing practices, significantly improving reliability and reducing release anxiety.
       - icon: fa-shield-check
         content: |
-          Lead engineers coached into effective mentors and architecture owners
+          Experienced engineers began mentoring others and contributing to architectural direction through structured guidance and coaching.
       - icon: fa-shield-check
         content: |
-          Retention improved after team members reported "the best growth of their careers"
+          Teams reported higher morale and deeper engagement, with several individuals describing it as the most meaningful growth period of their careers.
     cta:
-      content: "Want to see how we do it? Explore Our Engineering Upskilling Stories."
+      content: "Curious what this looks like in practice? Explore Our Engineering Upskilling Stories."
       button:
         text: "Case Studies"
         url: "/resources/case-studies"

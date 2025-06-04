@@ -6,7 +6,7 @@ trustpilot: false
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 8.0
+  priority: 0.8
 type: outcomes
 slug: engineering-excellence
 card:

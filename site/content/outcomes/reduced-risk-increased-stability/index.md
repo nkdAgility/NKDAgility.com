@@ -5,7 +5,7 @@ date: 2025-06-01T09:00:00Z
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 8.0
+  priority: 0.8
 type: outcomes
 slug: reduced-risk-increased-stability
 card:

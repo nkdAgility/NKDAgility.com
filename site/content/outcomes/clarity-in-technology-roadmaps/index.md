@@ -5,7 +5,7 @@ date: 2025-06-04
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 8.0
+  priority: 0.8
 type: outcomes
 slug: clarity-in-technology-roadmaps
 card:

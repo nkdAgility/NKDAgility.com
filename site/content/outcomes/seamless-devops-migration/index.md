@@ -4,7 +4,7 @@ date: 2025-06-03
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 8.0
+  priority: 0.8
 type: outcomes
 slug: seamless-devops-migration
 card:

@@ -6,7 +6,7 @@ date: 2025-05-31T09:00:00Z
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 8.0
+  priority: 0.8
 type: outcomes
 slug: faster-more-predictable-software-delivery
 card:

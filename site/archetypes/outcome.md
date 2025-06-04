@@ -6,7 +6,7 @@ draft: true
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 8.0
+  priority: 0.8
 type: outcomes
 slug: xxxxxx-xxxxxxxxxx
 card:
@@ -153,5 +153,3 @@ sections:
         text: "Schedule a call"
         url: "/book"
 ---
-
-
