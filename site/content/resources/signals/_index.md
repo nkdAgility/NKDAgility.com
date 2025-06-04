@@ -4,7 +4,6 @@ description: Bite-sized, timely social updates highlighting emerging trends, ins
 shorttitle: "Signals"
 url: "/resources/signals/"
 layout: "section" # Hugo will use section.html to render the list of pages
-resourceTypes: signals
 resourceType: signals
 trustpilot: false
 headline:

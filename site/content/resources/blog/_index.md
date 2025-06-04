@@ -6,8 +6,6 @@ url: "/resources/blog/"
 aliases:
   - /blog/
 layout: bloglist
-resourceTypes:
-  - blog
 resourceType: blog
 sitemap:
   filename: sitemap.xml

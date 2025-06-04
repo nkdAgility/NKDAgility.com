@@ -4,7 +4,6 @@ description: Pragmatic guidance and step-by-step approaches for implementing adv
 shorttitle: "Engineering Notes"
 url: "/resources/engineering-notes/"
 layout: bloglist
-resourceTypes: engineering-notes
 resourceType: engineering-notes
 sitemap:
   filename: sitemap.xml
