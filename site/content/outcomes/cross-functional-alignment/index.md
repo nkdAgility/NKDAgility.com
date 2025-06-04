@@ -1,8 +1,7 @@
 ---
 title: "Cross functional alignment"
 description: "Break down organizational silos and create seamless collaboration between departments to deliver cohesive, customer-focused solutions."
-date: 2025-04-28
-draft: true
+date: 2025-06-04
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
@@ -11,239 +10,146 @@ type: outcomes
 slug: cross-functional-alignment
 card:
   button:
-    content: <p>Align Your Teams</p>
+    content: Align Your Teams
   title: Cross Functional Alignment
-  content: <p>Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.</p>
+  content: Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.
 headline:
   cards: []
-  title: XXXX XXXXXX XXXXXXX XXXX
-  content: "XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX"
+  title: Cross-Functional Alignment
+  content: |
+    **Unite Product, Tech & Business Around Shared Outcomes.** You don’t have a tech problem. You have a _coordination_ problem. Product ships what sales promised. Engineering scrambles to deliver. Leadership wonders why timelines are slipping.
 sections:
   - content: |
-      **XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.** XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.
+      **NKD Agility creates true alignment—across every function.** We help you turn fractured priorities and siloed teams into one unified engine of delivery.
     type: content
   - type: outcomehero
     cta:
-      content: "XXXX XXXXXX XXXXXXX? **XXXX XXXXXX XXXXXXX.**"
+      content: "Time to Unite Your Org? **Let’s change the way your organization delivers—together.**"
       button:
-        text: "XXXX XXXXXX XXXXXXX"
+        text: "Get Started"
         url: "/contact"
     boxes:
       - content: |
-          XXXX XXXXXX XXXXXXX
+          Still battling internal turf wars?
       - content: |
-          XXXX XXXXXX XXXXXXX
+          Still seeing product, tech, and business pull in opposite directions?
       - content: |
-          XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          Still struggling to deliver cohesive customer value?
+  - title: Pains We Help You Eliminate
     type: list
     list:
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+      - title: Miscommunication Between Teams
+        icon: fa-volume-xmark
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Different languages, different goals, constant misunderstandings.
+      - title: Siloed Decision-Making
+        icon: fa-gavel
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Tech, product, and business each optimizing for themselves—not the whole.
+      - title: Broken Commitments & Conflicting Priorities
+        icon: fa-calendar-xmark
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Teams overpromise, underdeliver, and burn out trying to “do it all.”
+      - title: Inefficiencies & Duplication of Effort
+        icon: fa-clone
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Two teams unknowingly solving the same problem—differently.
+      - title: No Shared Definition of Success
+        icon: fa-question
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+          Everyone’s busy—but no one agrees on what “done” looks like.
+
   - type: quote
     backgroundColor: primary
     quote: |
-      "XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX"
-      - **XXXX XXXXXX | XXXX XXXXXX XXXXXXX | XXX**
-  - title: XXXX XXXXXX XXXXXXX
+      "After a thorough evaluation ... we selected Martin because I felt he brings a perspective that’s very close to what I call the maker engineer - those who are deep in the code and often considered troublemakers in traditional structures. He brings a pragmatic point of view that really connects with the people building the product."
+      - **CJ Singh | Healthgrades | CEO**
+  - title: Gains You Unlock With NKD Agility
     type: list
     listType: boxed
     list:
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+      - title: Common Language, Shared Understanding
+        icon: fa-comments
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Agile product management + DevOps fluency = clear, connected conversations.
+      - title: Aligned Planning & Prioritization
+        icon: fa-bullseye
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          From quarterly planning to daily execution—everyone rows in the same direction.
+      - title: Increased Delivery Efficiency
+        icon: fa-bolt
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Cross-functional value streams replace handoffs and turf wars.
+      - title: Collaborative Problem-Solving Culture
+        icon: fa-lightbulb
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          Ideas flow freely. Solutions are co-created. Bottlenecks get unblocked fast.
+  - title: End-to-End Visibility Across the Org
     type: content
     content: |
-      XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+      From C-suite to teams, everyone sees how strategy turns into value.
   - type: outcomeboxes
-    title: XXXX XXXXXX XXXXXXX
+    title: We can help you with
     boxes:
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
+          - title: Break down silos between departments
+          - title: Align strategy with execution
+          - title: Improve communication between business, tech, and product
+          - title: Eliminate duplication of work and resource clashes
+          - title: Create a shared understanding of goals, metrics, and priorities
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
+          - title: Reduce frustration caused by misalignment
+          - title: Feel confident in what your teams are building
+          - title: Move from firefighting to forward planning
+          - title: Regain clarity and focus across teams
+          - title: Feel pride in leading a truly aligned org
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          - title: Be the catalyst that unifies your org around delivery
+          - title: Build a culture of shared ownership and trust
+          - title: Lead seamless planning conversations across functions
+          - title: Build stakeholder trust through organizational coherence
+          - title: Represent your function as a model for high-performing teamwork
+
+  - title: Results That Matter
     type: casestudy
     list:
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          40% faster cycle time due to cross-functional synchronization
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Stakeholder satisfaction doubled in under 90 days
       - icon: fa-shield-check
         content: |
-          XXXX XXXXXX XXXXXXX
+          Quarterly OKRs aligned across departments for the first time ever
     cta:
-      content: "XXXX XXXXXX XXXXXXX?"
+      content: "Want to see it in action?"
       button:
-        text: "XXXX XXXXXX XXXXXXX"
+        text: "Case Studies"
         url: "/resources/case-studies"
   - title: Why NKDAgility?
     type: textNlist
     list:
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Product, tech, and business alignment by design
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Value stream thinking embedded in delivery
       - icon: fa-award
         content: |
-          XXXX XXXXXX XXXXXXX
+          Team-level practices backed by enterprise-wide clarity
     sideContent: |
-      XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-
-      XXXX XXXXXX XXXXXXX
-
+      **Because high-functioning organizations don’t just have good teams—they have aligned ones.** We coach, facilitate, and enable collaboration where it matters most: between functions, not just within them. 
+      With NKD Agility, the “us vs them” dies—and “we deliver together” begins.
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "XXXX XXXXXX XXXXXXX"
+      content: "One Vision. One Team. One Flow."
       button:
         text: "Schedule a call"
         url: "/book"
 ---
-
-## Unite Your Organization Around Common Goals
-
-In today's complex business environment, no single department or function can deliver complete customer value alone. Yet many organizations struggle with siloed operations—where teams optimize locally but sub-optimize at the enterprise level.
-
-NKD Agility helps you create cross-functional alignment that enhances collaboration, reduces waste, and delivers superior customer outcomes.
-
-## Why Cross-Functional Alignment Matters
-
-When departments work in isolation, organizations experience:
-
-- Slower time-to-market as work passes through multiple handoffs
-- Quality issues as information gets lost between groups
-- Customer frustration from inconsistent experiences
-- Resource waste from duplicated or contradictory efforts
-- Innovation barriers when ideas require cross-functional support
-
-## Common Alignment Challenges We Solve
-
-### Organizational Structure Barriers
-
-- Function-based silos limiting end-to-end visibility
-- Matrix organizations with unclear priorities
-- Competing department-level metrics driving conflicting behaviors
-- Hierarchical decision-making slowing cross-functional initiatives
-- "Throw it over the wall" mentality between departments
-
-### Process and Workflow Issues
-
-- Sequential delivery processes with lengthy handoffs
-- Incompatible tools and workflows across functions
-- Limited visibility of how work flows across departments
-- Resource allocation models favoring departmental control
-- Unaligned planning and prioritization processes
-
-### Cultural and Communication Gaps
-
-- Different professional languages across functions
-- Stereotyping and misconceptions between departments
-- Conflict avoidance preventing necessary tension
-- Limited cross-functional relationship building
-- Information hoarding rather than transparent sharing
-
-## Our Alignment Approach
-
-We implement proven methods to create lasting cross-functional effectiveness:
-
-### Assessment & Discovery
-
-- Value stream mapping across organizational boundaries
-- Handoff and dependency identification
-- System constraint analysis
-- Cultural and communication pattern evaluation
-- Incentive and metric alignment assessment
-
-### Structural Optimization
-
-- Team design for end-to-end value delivery
-- Decision rights and governance clarification
-- Metric and goal alignment across functions
-- Physical and virtual workspace optimization
-- Cross-functional capability building
-
-### Process Refinement
-
-- Streamlined workflow development
-- Information radiator implementation
-- Collaborative planning framework adoption
-- Cross-functional ceremony design
-- Tool integration for seamless information flow
-
-### People & Culture Development
-
-- Cross-functional team coaching
-- Shared mental model development
-- Conflict resolution skill building
-- Cross-training and job rotation programs
-- Collaborative leadership development
-
-## Results You Can Expect
-
-Organizations implementing our cross-functional alignment approach typically experience:
-
-- 30-50% reduction in time-to-market for new initiatives
-- Significant improvement in first-time quality
-- Enhanced customer satisfaction through consistent experiences
-- Greater innovation through diverse perspective integration
-- Improved employee satisfaction from reduced friction
-
-## Start Building Cross-Functional Excellence
-
-Every organization has unique cross-functional challenges based on their history, structure, and industry. Our team brings extensive experience creating alignment across diverse organizational contexts.
-
-[Schedule an Alignment Assessment](#) to discuss how we can help your organization work more effectively across boundaries.
