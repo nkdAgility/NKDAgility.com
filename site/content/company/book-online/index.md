@@ -5,6 +5,7 @@ layout: booking
 aliases:
   - /book-online/
   - /book/
+  - /call/
 sitemap:
   filename: sitemap.xml
   priority: 0.8

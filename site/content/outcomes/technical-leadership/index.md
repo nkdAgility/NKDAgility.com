@@ -10,9 +10,9 @@ type: outcomes
 slug: technical-leadership
 card:
   button:
-    content: <p>Develop Leaders</p>
+    content: Develop Leaders
   title: Technical Leadership
-  content: <p>Cultivate technical leaders who combine deep expertise with human skills to guide teams, drive innovation, and deliver exceptional results.</p>
+  content: Cultivate technical leaders who combine deep expertise with human skills to guide teams, drive innovation, and deliver exceptional results.
 headline:
   cards: []
   title: Technical Leadership for Strategic Impact
@@ -143,7 +143,7 @@ sections:
           Unheard → Influential
       - icon: fa-award
         content: |
-         Firefighter → Visionary Leader
+          Firefighter → Visionary Leader
     sideContent: |
       **You’re not just getting a framework. You’re gaining a partner in strategic transformation.**
       We blend deep DevOps, engineering, and Agile coaching expertise with boardroom-savvy advisory.
@@ -161,19 +161,11 @@ sections:
 
 **👑 Technical Leadership for Strategic Impact**
 
-
-
 ---
 
 **🎤 You Deserve to Be Heard**
-
-
-
-
 
 👉 \[Book a Free Leadership Strategy Call]
 👉 \[Download the CTO Influence & Authority Guide]
 
 
-
- 
