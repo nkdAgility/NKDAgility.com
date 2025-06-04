@@ -5,7 +5,7 @@ date: 2025-06-04
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 8.0
+  priority: 0.8
 type: outcomes
 slug: cross-functional-alignment
 card:
@@ -118,10 +118,10 @@ sections:
     list:
       - icon: fa-shield-check
         content: |
-          40% faster cycle time due to cross-functional synchronization
+          Up to 40% faster cycle time due to cross-functional synchronization
       - icon: fa-shield-check
         content: |
-          Stakeholder satisfaction doubled in under 90 days
+          Increased stakeholder satisfaction dramatically in just 90 days
       - icon: fa-shield-check
         content: |
           Quarterly OKRs aligned across departments for the first time ever

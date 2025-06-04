@@ -5,7 +5,7 @@ date: 2025-06-03
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
-  priority: 8.0
+  priority: 0.8
 type: outcomes
 slug: technical-leadership
 card:
@@ -17,11 +17,11 @@ headline:
   cards: []
   title: Technical Leadership for Strategic Impact
   content: |
-    **Influence. Authority. Results.** You weren’t hired just to keep the servers running. You were hired to shape the future.
+    **Strategic Clarity. Effective Alignment. Measurable Outcomes.** You weren’t hired just to keep the servers running. You were hired to shape the future.
     But without clear strategy, alignment, and authority—most technical leaders are stuck in reaction mode.
 sections:
   - content: |
-      **NKD Agility helps CTOs lead with confidence.** We transform you from a tactical executor to a trusted strategic advisor that your boardroom listens to—and follows.
+      **NKD Agility equips CTOs with the frameworks and insights** to shift from tactical execution to strategic advisory, enabling measurable improvements in boardroom credibility and alignment.
     type: content
   - type: outcomehero
     cta:
@@ -114,18 +114,18 @@ sections:
           - title: Represent your org as a future-driven leader
           - title: Foster innovation culture and cross-functional alignment
 
-  - title: What Our Clients Say
+  - title: What Changes When Leaders Engage With Us
     type: casestudy
     list:
       - icon: fa-shield-check
         content: |
-          “Our CTO went from managing infrastructure to leading boardroom strategy in 90 days.”
+          CTOs gain clarity on their role in shaping technology strategy and begin contributing more confidently in executive discussions.
       - icon: fa-shield-check
         content: |
-          “NKD Agility helped us secure executive buy-in for our entire DevOps and Agile roadmap.”
+          Teams we support often identify disconnects between technical planning and business priorities—and start working to close them.
       - icon: fa-shield-check
         content: |
-          “Cross-functional alignment improved dramatically. We finally feel like one team.”
+          Cross-functional collaboration becomes easier when shared goals and delivery constraints are made more visible and understood.
     cta:
       content: "Want the inside stories?"
       button:
@@ -157,12 +157,3 @@ sections:
         text: "Schedule a call"
         url: "/book"
 ---
-
-**👑 Technical Leadership for Strategic Impact**
-
----
-
-**🎤 You Deserve to Be Heard**
-
-👉 \[Book a Free Leadership Strategy Call]
-👉 \[Download the CTO Influence & Authority Guide]
