@@ -20,7 +20,7 @@ headline:
   content: "**Most CTOs aren’t struggling with ideas.** They’re drowning in execution debt — inconsistent delivery, brittle pipelines, burned-out teams, and quality failures that slip into production."
 sections:
   - content: |
-      **NKD Agility transforms your software organization from the inside out.** With a proven system of Agile engineering, DevOps mastery, and modern architecture — we help you build delivery machines, not tech traps.
+      **We help software organisations evolve their engineering culture by embedding modern practices, enabling flow, and removing systemic delivery friction.** The goal isn’t just better software, it’s a better way of building and sustaining it.
     type: content
   - type: outcomehero
     cta:
@@ -53,7 +53,7 @@ sections:
       - title: Developer Burnout & Team Frustration
         icon: fa-fire-extinguisher
         content: |
-          We help you rebuild moral by removing blockers, streamline process, and making software engineering fun again.
+          We help teams rebuild morale by removing systemic blockers, enabling focus, and creating conditions for sustainable engineering practices.
       - title: Resistance to Change
         icon: fa-clipboard-question
         content: |
@@ -121,13 +121,13 @@ sections:
     list:
       - icon: fa-shield-check
         content: |
-          50% reduction in release failures within 3 months
+          One client saw a measurable drop in release failures within the first 3 months of implementing CI/CD and telemetry-based feedback loops
       - icon: fa-shield-check
         content: |
-          2x increase in team velocity after adopting CI/CD + test automation
+          After introducing test automation and a robust CI/CD pipeline, teams reported greater confidence in delivering features consistently and observed significantly improved flow metrics.
       - icon: fa-shield-check
         content: |
-          Engineering morale and retention improved in 90 days
+          By removing delivery friction and giving teams more autonomy over their work systems, multiple clients reported higher morale and better retention in team surveys conducted post-engagement.
     cta:
       content: "Want the numbers?"
       button:

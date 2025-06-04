@@ -12,7 +12,7 @@ card:
   button:
     content: Build Stable Systems
   title: Reduced Risk Increased Stability
-  content: Transform unstable deployments into reliable, predictable releases through proven engineering practices that prevent failures before they happen.
+  content: Transform uncertain deployments into predictable releases through disciplined engineering practices that proactively address potential failures.
 headline:
   cards: []
   title: Reduced Risk and Increased Stability
@@ -20,44 +20,44 @@ headline:
     **Ship with Confidence. Sleep at Night.** When deployments break, customers leave. When security fails, reputations crumble. When systems go down, your leadership is questioned.
 sections:
   - content: |
-      **NKD Agility reduces your risk, hardens your systems, and restores your peace of mind.** From secure pipelines to compliance-ready governance, we help you move fast without breaking things.
+      **NKD Agility helps reduce operational risk and strengthen system resilience.** Through secure pipelines and compliance-oriented governance, we enable fast and safe movement.
     type: content
   - type: outcomehero
     cta:
-      content: "Ready to De-Risk Your Technology? **Let’s lock it down.**"
+      content: "Ready to De-Risk Your Technology? **Schedule a comprehensive risk and stability assessment.**"
       button:
-        text: "Book a Free Risk & Stability Assessment"
+        text: "Book Now"
         url: "/book"
     boxes:
       - content: |
           Are you tired of crossing your fingers during every release?
       - content: |
-          Worried about hidden security gaps?
+          Are you concerned about hidden vulnerabilities?
       - content: |
-          Worried about hidden security gaps?
+          Do you know where your security gaps lie?
   - title: Risk & Chaos We Eliminate
     type: list
     list:
       - title: Unstable Deployments & Downtime
         icon: fa-fire
         content: |
-          We stabilize your CI/CD pipelines and reduce release volatility.
+          We enhance your CI/CD pipelines to minimize volatility and stabilize releases.
       - title: Security Vulnerabilities
         icon: fa-lock-open
         content: |
-          We embed DevSecOps best practices—baking security into every stage of delivery.
+          We embed robust DevSecOps practices, integrating security checks at every stage of delivery.
       - title: Lack of Visibility & Governance
         icon: fa-chart-scatter
         content: |
-          We give you real-time observability, auditing, and automated compliance checks.
+          We improve real-time observability, auditability, and automate compliance checks.
       - title: Manual Error-Prone Processes
         icon: fa-bomb
         content: |
-          We automate infrastructure and deployments, removing human risk factors.
+          We automate infrastructure and deployment processes to reduce human error significantly.
       - title: Overwhelming Regulatory Complexity
         icon: fa-list-check
         content: |
-          From GDPR to SOC 2, we help you stay compliant - without slowing you down.
+          We assist you in maintaining compliance efficiently, from GDPR to SOC 2, without hindering delivery.
   - type: quote
     backgroundColor: primary
     quote: |
@@ -70,32 +70,32 @@ sections:
       - title: Stable, Secure Delivery Pipelines
         icon: fa-block-brick
         content: |
-          No more Friday night failures. Your team ships predictably, safely, and quickly.
+          Your team ships consistently and securely, reducing deployment-related incidents.
       - title: Proactive Security Posture
         icon: fa-lock
         content: |
-          From IaC scanning to secrets management, your systems are hardened by design.
+          We integrate proactive security practices like Infrastructure as Code and secrets management to enhance system resilience.
       - title: Governance that Enables, Not Blocks
         icon: fa-clipboard-list-check
         content: |
-          Clear policies. Transparent metrics. No more shadow IT or security surprises.
+          Clear governance policies and transparent metrics significantly reduce shadow IT and unexpected security issues.
       - title: Enterprise-Grade Compliance
         icon: fa-globe
         content: |
-          Whether you're in fintech, health, or SaaS — we help you meet the mark and prove it.
+          Whether fintech, healthcare, or SaaS, we guide your organization to achieve and maintain necessary compliance standards.
   - title: Business Continuity & Confidence
     type: content
     content: |
-      Your leadership can trust that tech won’t be the failure point.
+      Leadership gains confidence in technology’s ability to support strategic objectives reliably.
   - type: outcomeboxes
     title: How we can help you
     boxes:
       - box:
         items:
-          - title: Secure software delivery pipelines
-          - title: Maintain uptime & availability
+          - title: Implement secure, reliable delivery pipelines
+          - title: Ensure system uptime exceeds business-critical thresholds
           - title: Ensure audit-readiness & compliance
-          - title: Automate security and infrastructure
+          - title: Automate security, infrastructure, and deployment processes comprehensively
           - title: Mitigate risks without slowing delivery
       - box:
         items:
@@ -116,13 +116,13 @@ sections:
     list:
       - icon: fa-shield-check
         content: |
-          90% reduction in unplanned outages within 60 days
+          Significantly reduced frequency and impact of outages, enhancing operational stability.
       - icon: fa-shield-check
         content: |
-          Passed external audits with zero critical findings
+          Improved audit outcomes and compliance posture through clear, proactive governance.
       - icon: fa-shield-check
         content: |
-          Security incidents dropped by 75% post-migration
+          Markedly decreased security vulnerabilities and strengthened overall system resilience
     cta:
       content: "Want proof?"
       button:
@@ -133,13 +133,13 @@ sections:
     list:
       - icon: fa-award
         content: |
-          Resilience without bureaucracy
+          Increase resilience with minimal bureaucracy
       - icon: fa-award
         content: |
-          Security without delays
+          Enhance security without introducing delays
       - icon: fa-award
         content: |
-          Compliance without compromise
+          Maintain compliance effectively without compromising agility
     sideContent: |
       **Because “move fast and break things” is a liability, not a strategy.**
 
@@ -151,109 +151,4 @@ sections:
       button:
         text: "Schedule a call"
         url: "/book"
----
-
-**🛡️ Reduced Risk & Increased Stability**
-
-**Ship with Confidence. Sleep at Night.**
-
-When deployments break, customers leave.
-When security fails, reputations crumble.
-When systems go down, your leadership is questioned.
-
-**NKD Agility reduces your risk, hardens your systems, and restores your peace of mind.**
-From secure pipelines to compliance-ready governance, we help you move fast _without_ breaking things.
-
----
-
-**🚫 Risk & Chaos We Eliminate**
-
-🔥 **Unstable Deployments & Downtime**
-→ We stabilize your CI/CD pipelines and reduce release volatility.
-
-🔓 **Security Vulnerabilities**
-→ We embed DevSecOps best practices—baking security into every stage of delivery.
-
-📉 **Lack of Visibility & Governance**
-→ We give you real-time observability, auditing, and automated compliance checks.
-
-⛔ **Manual Error-Prone Processes**
-→ We automate infrastructure and deployments, removing human risk factors.
-
-📊 **Overwhelming Regulatory Complexity**
-→ From GDPR to SOC 2, we help you stay compliant—without slowing you down.
-
----
-
-**🧭 What You Gain with NKD Agility**
-
-🧱 **Stable, Secure Delivery Pipelines**
-No more Friday night failures. Your team ships predictably, safely, and quickly.
-
-🔐 **Proactive Security Posture**
-From IaC scanning to secrets management, your systems are hardened by design.
-
-📈 **Governance that Enables, Not Blocks**
-Clear policies. Transparent metrics. No more shadow IT or security surprises.
-
-💼 **Business Continuity & Confidence**
-Your leadership can trust that tech won’t be the failure point.
-
-🌍 **Enterprise-Grade Compliance**
-Whether you're in fintech, health, or SaaS — we help you meet the mark and prove it.
-
----
-
-**🔧 Customer Jobs We Help You Do (Strategyzer-Aligned)**
-
-| **Functional Jobs**                     | **Emotional Jobs**                      | **Social Jobs**                                          |
-| --------------------------------------- | --------------------------------------- | -------------------------------------------------------- |
-| Secure software delivery pipelines      | Reduce anxiety about outages            | Represent your company as a secure, mature tech org      |
-| Maintain uptime & availability          | Feel confident under executive scrutiny | Gain credibility with stakeholders, auditors, and boards |
-| Ensure audit-readiness & compliance     | Avoid the fear of being exposed         | Advocate for risk-reduction investments with authority   |
-| Automate security and infrastructure    | Trust your delivery process again       | Build trust between tech and business units              |
-| Mitigate risks without slowing delivery | Balance innovation and stability        | Lead as a calm, competent, strategic force               |
-
----
-
-**🧩 Why NKD Agility?**
-
-**Because “move fast and break things” is a liability, not a strategy.**
-We combine the speed of modern Agile & DevOps with the stability of enterprise-grade governance.
-
-With NKD Agility, you gain:
-
-✔️ Resilience without bureaucracy
-✔️ Security without delays
-✔️ Compliance without compromise
-
-Backed by Microsoft MVP Martin Hinshelwood and a legacy of safe, scalable transformations.
-
----
-
-**📈 Results You Can Trust**
-
-✅ 90% reduction in unplanned outages within 60 days
-✅ Passed external audits with zero critical findings
-✅ Security incidents dropped by 75% post-migration
-
-**Want proof?** → \[View Real-World Case Studies]
-
----
-
-**🔐 Ready to De-Risk Your Technology?**
-
-Are you tired of crossing your fingers during every release?
-Worried about hidden security gaps?
-Need to scale without sacrificing control?
-
-Let’s lock it down.
-
-👉 \[Book a Free Risk & Stability Assessment]
-👉 \[Download the CTO Risk Mitigation Playbook]
-
----
-
-**🧠 NKD Agility: Fast, Safe, and Scalable by Design**
-
 ---

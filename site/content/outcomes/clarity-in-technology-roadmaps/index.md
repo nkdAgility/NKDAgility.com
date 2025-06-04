@@ -121,10 +121,10 @@ sections:
           12-month technology roadmap aligned with business goals in under 6 weeks
       - icon: fa-shield-check
         content: |
-          Multi-team replatforming plan completed without system downtime
+          Multi-team replatforming plan completed with zero customer-impacting downtime
       - icon: fa-shield-check
         content: |
-          Executive confidence restored in long-term tech investments
+          Executive confidence restored in long-term tech investments by aligning architecture, backlog, and roadmap to business outcomes
     cta:
       content: "Want to see the frameworks?"
       button:

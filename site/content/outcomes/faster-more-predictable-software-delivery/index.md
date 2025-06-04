@@ -13,11 +13,11 @@ card:
   button:
     content: Accelerate Delivery Now
   title: Faster More Predictable Software Delivery
-  content: Eliminate delivery bottlenecks and uncertainty with proven pipeline optimization that doubles velocity while maintaining quality standards.
+  content: Eliminate delivery bottlenecks and uncertainty with engineering practices that improve flow, shorten lead times, and maintain quality at scale.
 headline:
   cards: []
   title: Faster More Predictable Software Delivery
-  content: Eliminate delivery bottlenecks and uncertainty with proven pipeline optimization that doubles velocity while maintaining quality standards.
+  content: Eliminate delivery bottlenecks and uncertainty with engineering practices that improve flow, shorten lead times, and maintain quality at scale.
 sections:
   - content: |
       **NKD Agility transforms chaotic delivery into a disciplined flow.** With modern Agile + DevOps integration, we help you release faster, with fewer bugs and more confidence.
@@ -79,10 +79,10 @@ sections:
         icon: fa-chart-line
         content: |
           Know what’s coming next. Gain confidence in release dates and roadmaps.
-      - title: Engineering Teams that Deliver Consistently
+      - title: Predictable Delivery You Can Trust
         icon: fa-boxes-stacked
         content: |
-          Engineering Teams that Deliver Consistently
+          Our systems support consistent delivery across sprints, releases, and teams—not by pushing harder, but by engineering smarter.
   - title: A Calm, Predictable Delivery Rhythm
     type: content
     content: |
@@ -116,13 +116,13 @@ sections:
     list:
       - icon: fa-shield-check
         content: |
-          45% improvement in delivery cadence within 60 days
+          Delivery cadence improved significantly within two months in one client engagement by focusing on flow efficiency and reducing system bottlenecks.
       - icon: fa-shield-check
         content: |
-          Cut average lead time from 30 days to 8
+          Lead time from idea to deployment was reduced by over two-thirds for a regulated finance team by right-sizing work and implementing WIP limits.
       - icon: fa-shield-check
         content: |
-          Release failure rate reduced by 70%
+          One client saw a marked reduction in release failures after introducing automated testing, progressive delivery, and a Definition of Done that included telemetry.
     cta:
       content: "Want more proof?"
       button:
@@ -153,106 +153,4 @@ sections:
       button:
         text: "Schedule a call"
         url: "/book"
----
-
-**⚡ Faster, More Predictable Software Delivery**
-
-**Velocity Without the Volatility**
-
-Your teams are working hard. The backlog never ends.
-Yet delivery is slow, unpredictable, and stressful.
-
-**NKD Agility transforms chaotic delivery into a disciplined flow.**
-With modern Agile + DevOps integration, we help you release faster, with fewer bugs and more confidence.
-
----
-
-**❌ Delivery Pain You Can Leave Behind**
-
-🛑 **Missed Deadlines & Late Releases**
-→ We streamline delivery pipelines, reduce handoffs, and cut unnecessary delays.
-
-🐞 **Last-Minute Quality Issues**
-→ With test automation, CI/CD, and TDD practices, we build quality _into_ the codebase.
-
-🌀 **Chaotic Sprints & Burned-Out Teams**
-→ We coach teams to adopt lean flow, sustainable pace, and system-level visibility.
-
-🔁 **Rework, Firefighting, and Scope Drift**
-→ We introduce clear feedback loops and agile architecture that supports continuous delivery.
-
-🔇 **Lack of Forecasting Accuracy**
-→ Our engineering metrics and evidence-based forecasting bring clarity to release planning.
-
----
-
-**🚀 Gains You Unlock With NKD Agility**
-
-📦 **Shorter Lead Time from Idea to Release**
-Your business doesn’t wait months to see value. Ideas become features—fast.
-
-💻 **High-Quality, Low-Risk Releases**
-Automation and DevOps maturity means fewer regressions and smoother deployments.
-
-📈 **Improved Forecasting & Planning**
-Know what’s coming next. Gain confidence in release dates and roadmaps.
-
-🧠 **Engineering Teams that Deliver Consistently**
-From story readiness to deployment flow, we turn teams into delivery engines.
-
-🌊 **A Calm, Predictable Delivery Rhythm**
-No more Friday panic or Monday post-mortems. Just steady, confident delivery.
-
----
-
-**🎯 Customer Jobs We Help You Do (Strategyzer-Aligned)**
-
-| **Functional Jobs**                         | **Emotional Jobs**                     | **Social Jobs**                                          |
-| ------------------------------------------- | -------------------------------------- | -------------------------------------------------------- |
-| Release features quickly and safely         | Eliminate delivery stress              | Be seen as a reliable technology leader                  |
-| Improve delivery cadence and quality        | Regain control over delivery timelines | Inspire trust across product, execs, and customers       |
-| Reduce bugs, rollbacks, and rework          | Feel pride in consistent outcomes      | Drive alignment across tech, product, and business       |
-| Build a delivery pipeline that scales       | Avoid burnout and team fatigue         | Represent your org as a center of engineering excellence |
-| Establish clear, data-driven predictability | Lead with clarity, not chaos           | Set the tone for high-trust, low-friction collaboration  |
-
----
-
-**🧩 Why NKD Agility?**
-
-**Because chaos is not a strategy. And working harder isn’t the answer.**
-We align Agile delivery and DevOps engineering into one smooth, scalable, value-stream.
-
-✔️ Predictability without bureaucracy
-✔️ Speed without shortcuts
-✔️ Quality without compromise
-
-With NKD Agility, you build a system that delivers—every sprint, every release, every time.
-
----
-
-**📈 Real Impact from Real Engagements**
-
-✅ 45% improvement in delivery cadence within 60 days
-✅ Cut average lead time from 30 days to 8
-✅ Release failure rate reduced by 70%
-
-**Want more proof?** → \[Explore Our Case Studies]
-
----
-
-**🏁 Ready to Release at the Speed of Strategy?**
-
-Still stuck in delivery hell?
-Still shipping features with fingers crossed?
-Still missing the mark on product timelines?
-
-Let’s fix that.
-
-👉 \[Book a Free Delivery Optimization Call]
-👉 \[Download the Predictable Delivery Playbook for CTOs]
-
----
-
-**💡 NKD Agility: Because Your Code Should Ship with Confidence**
-
 ---

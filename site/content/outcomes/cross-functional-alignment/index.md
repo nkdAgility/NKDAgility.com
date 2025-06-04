@@ -12,7 +12,7 @@ card:
   button:
     content: Align Your Teams
   title: Cross Functional Alignment
-  content: Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.
+  content: We help organisations define shared Objectives across product, tech, and business, and drive alignment through measurable Key Results that clarify progress and priorities.
 headline:
   cards: []
   title: Cross-Functional Alignment
@@ -118,10 +118,10 @@ sections:
     list:
       - icon: fa-shield-check
         content: |
-          40% faster cycle time due to cross-functional synchronization
+          Up to 40% faster cycle time due to cross-functional synchronization
       - icon: fa-shield-check
         content: |
-          Stakeholder satisfaction doubled in under 90 days
+          Increased stakeholder satisfaction dramatically in just 90 days
       - icon: fa-shield-check
         content: |
           Quarterly OKRs aligned across departments for the first time ever

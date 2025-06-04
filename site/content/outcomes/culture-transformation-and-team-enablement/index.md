@@ -33,7 +33,7 @@ sections:
         url: "/book"
     boxes:
       - content: |
-          Tools don’t transform teams - _people do._
+          Culture emerges from the systems we create.
       - content: |
           If morale is low, collaboration is broken, and Agile feels hollow
       - content: |
@@ -121,13 +121,16 @@ sections:
     list:
       - icon: fa-shield-check
         content: |
-          80% team engagement improvement after 12-week enablement sprint
+          Noticeable uplift in team morale and participation observed during a 12-week enablement sprint, tracked through weekly feedback cycles and retrospective insights
       - icon: fa-shield-check
         content: |
-          Teams began identifying and solving blockers _before_ escalation
+          Teams started surfacing and resolving impediments within the team, reducing the need for escalation and improving flow stability
       - icon: fa-shield-check
         content: |
-          Culture shift visible at leadership and team levels within 3 months
+          Early indicators of cultural alignment emerged—greater cross-level transparency, increased psychological safety, and clearer shared goals
+      - icon: fa-shield-check
+        content: |
+          Leaders reported fewer surprises and more confidence in team forecasts after shifting to evidence-led planning sessions
     cta:
       content: "Curious how we did it?"
       button:

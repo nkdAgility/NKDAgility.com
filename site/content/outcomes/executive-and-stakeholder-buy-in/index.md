@@ -12,16 +12,15 @@ card:
   button:
     content: Secure Leadership Support
   title: Executive and Stakeholder Buy-In
-  content: Transform sceptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.
+  content: We help you prepare, communicate, and align so decisions move forward with confidence—translating your technical strategy into language executives can act on.
 headline:
   cards: []
   title: Executive & Stakeholder Buy-In
   content: |
-    **Speak Their Language. Win Their Support.** You’ve got the vision. The roadmap. The technical chops.
-    But without buy-in from the boardroom, nothing moves.
+    **NKD Agility helps technical leaders build trust and alignment at the executive level.** We equip you to prepare the right story, communicate it with clarity, and align stakeholders on what matters most.
 sections:
   - content: |
-      **NKD Agility helps technical leaders win trust, funding, and influence.** We give you the tools, metrics, and language to communicate value—and the confidence to lead with authority.
+      **NKD Agility helps technical leaders win trust, funding, and influence.** We help you communicate value with clarity, using tools and language that resonate with business leaders.
     type: content
   - type: outcomehero
     cta:
@@ -31,11 +30,11 @@ sections:
         url: "/book"
     boxes:
       - content: |
-          Still hitting a wall in the boardroom?
+          Are strategic initiatives stalling because the value story isn’t landing?
       - content: |
           Still struggling to show the business value of your tech vision?
       - content: |
-          Want to transform skepticism into support?
+          Want to turn hesitation into confidence through shared understanding?
   - title: Pain Points We Eliminate
     type: list
     list:
@@ -50,7 +49,7 @@ sections:
       - title: Disconnected Conversations with Non-Technical Leaders
         icon: fa-face-explode
         content: |
-          You’re speaking Kubernetes. They want customer retention.
+          Your language focuses on infrastructure. Their concerns are customer retention, growth, and risk.
       - title: Stalled Initiatives Due to Poor Buy-In
         icon: fa-chart-simple
         content: |
@@ -79,7 +78,7 @@ sections:
       - title: Faster Buy-In from Executives & Stakeholders
         icon: fa-handshake-simple
         content: |
-          You’ll move from requestor to trusted advisor - and finally get the green light.
+          You’ll be better equipped to move from requestor to strategic contributor.
       - title: Improved Funding Cycles & Resource Allocation
         icon: fa-chart-sine
         content: |
@@ -87,13 +86,13 @@ sections:
   - title: Influence & Strategic Credibility
     type: content
     content: |
-      You’re not just "the tech person." You’re the force behind scalable business growth.
+      Technical leaders who bridge strategy and delivery are better positioned to influence business growth.
   - type: outcomeboxes
     title: We help you
     boxes:
       - box:
         items:
-          - title: Secure funding and stakeholder approval for tech initiatives
+          - title: Help stakeholders understand and support the case for investment
           - title: Translate technical vision into business outcomes
           - title: Build business cases aligned to measurable results
           - title: Unblock stalled transformations
@@ -103,7 +102,7 @@ sections:
           - title: Feel empowered to lead from the front
           - title: Reduce anxiety around presenting to execs
           - title: Gain respect from cross-functional stakeholders
-          - title: Reclaim momentum in your strategic roadmap
+          - title: Unblock progress with shared understanding and aligned priorities
           - title: Gain pride in leading change - not just suggesting it
       - box:
         items:
@@ -111,19 +110,19 @@ sections:
           - title: Build influence with peers and senior decision-makers
           - title: Advocate effectively for investments in people, tech, and process
           - title: Inspire confidence across departments and levels
-          - title: Become the leader others rally behind during change
+          - title: Guide change with clarity, empathy, and evidence
   - title: Results That Drive Action
     type: casestudy
     list:
       - icon: fa-shield-check
         content: |
-          $2M DevOps modernization approved after stakeholder workshop
+          Stakeholder alignment accelerated decision-making, enabling approval of a significant DevOps investment.
       - icon: fa-shield-check
         content: |
-          Transformation backlog unblocked in 4 weeks with business alignment sessions
+          A previously stagnant transformation backlog moved forward within a month after focused alignment workshops
       - icon: fa-shield-check
         content: |
-          CTO promoted to Chief Innovation Officer after successful strategic influence campaign
+          A technology leader gained executive visibility and was later promoted, supported by their improved ability to influence strategy
     cta:
       content: "Want examples?"
       button:
@@ -142,9 +141,10 @@ sections:
         content: |
           Real-world coaching from leaders who’ve been in your shoes
     sideContent: |
-      **Because great technology means nothing without the green light.** We help you make the case, get the commitment, and gain the power to execute.
+      **Real influence isn’t declared. It’s earned through clarity, context, and trust.**  
+      NKD Agility helps technical leaders bridge strategy and execution so that value becomes obvious—and decisions move faster.
 
-      Led by Microsoft MVP Martin Hinshelwood, NKD Agility gives you more than approval—we give you authority.
+      Led by Microsoft MVP Martin Hinshelwood, we help you turn vision into alignment, and alignment into authority.
   - type: sectioncta
     backgroundColor: primary
     cta:
@@ -153,106 +153,3 @@ sections:
         text: "Schedule a call"
         url: "/book"
 ---
-
-Outcomes landing page 10 – Executive and stakeholder buy in
-
----
-
-**🗣️ Executive & Stakeholder Buy-In**
-
-**Speak Their Language. Win Their Support.**
-
-You’ve got the vision. The roadmap. The technical chops.
-But without buy-in from the boardroom, nothing moves.
-
-**NKD Agility helps technical leaders win trust, funding, and influence.**
-We give you the tools, metrics, and language to communicate value—and the confidence to lead with authority.
-
----
-
-**🚫 Pain Points We Eliminate**
-
-🧱 **Executive Resistance to Change**
-→ You’ve pitched transformation. They’ve blocked it—again.
-
-💰 **Struggles Justifying Investment in Tech**
-→ It’s hard to show ROI when the impact is complex, technical, and delayed.
-
-🤯 **Disconnected Conversations with Non-Technical Leaders**
-→ You’re speaking Kubernetes. They want customer retention.
-
-📉 **Stalled Initiatives Due to Poor Buy-In**
-→ Great ideas die because stakeholders never felt the urgency—or understood the value.
-
-📣 **Lack of a Clear Narrative for Why Now**
-→ Your strategy is solid—but your story isn’t landing.
-
----
-
-**🚀 What You Gain with NKD Agility**
-
-📊 **Boardroom-Ready Business Cases**
-We help you map outcomes to metrics that matter—cost reduction, time-to-market, customer value.
-
-🎯 **Confidence in Communicating Value**
-From DevOps to Agile to architecture, we help you tell a strategic, compelling story.
-
-🤝 **Faster Buy-In from Executives & Stakeholders**
-You’ll move from requestor to trusted advisor—and finally get the green light.
-
-📈 **Improved Funding Cycles & Resource Allocation**
-Stakeholders understand what they’re buying—and why it’s worth it.
-
-👑 **Influence & Strategic Credibility**
-You’re not just “the tech person.” You’re the force behind scalable business growth.
-
----
-
-**🧩 Customer Jobs We Help You Do (Strategyzer-Aligned)**
-
-| **Functional Jobs**                                          | **Emotional Jobs**                                  | **Social Jobs**                                                   |
-| ------------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------- |
-| Secure funding and stakeholder approval for tech initiatives | Feel empowered to lead from the front               | Be seen as a credible, strategic leader                           |
-| Translate technical vision into business outcomes            | Reduce anxiety around presenting to execs           | Build influence with peers and senior decision-makers             |
-| Build business cases aligned to measurable results           | Gain respect from cross-functional stakeholders     | Advocate effectively for investments in people, tech, and process |
-| Unblock stalled transformations                              | Reclaim momentum in your strategic roadmap          | Inspire confidence across departments and levels                  |
-| Justify DevOps, Agile, and modernization programs            | Gain pride in leading change—not just suggesting it | Become the leader others rally behind during change               |
-
----
-
-**🎤 Why NKD Agility?**
-
-**Because great technology means nothing without the green light.**
-We help you make the case, get the commitment, and gain the power to execute.
-
-✔️ Business-first communication strategies for technical leaders
-✔️ Tools and templates to pitch change effectively
-✔️ Real-world coaching from leaders who’ve been in your shoes
-
-Led by Microsoft MVP Martin Hinshelwood, NKD Agility gives you more than approval—we give you _authority_.
-
----
-
-**📈 Results That Drive Action**
-
-✅ \$2M DevOps modernization approved after stakeholder workshop
-✅ Transformation backlog unblocked in 4 weeks with business alignment sessions
-✅ CTO promoted to Chief Innovation Officer after successful strategic influence campaign
-
-**Want examples?** → \[Explore Executive Buy-In Case Studies]
-
----
-
-**🛡 Ready to Lead With Authority?**
-
-Still hitting a wall in the boardroom?
-Still struggling to show the business value of your tech vision?
-
-Let’s help you tell the right story—to the right people.
-
-👉 \[Book an Executive Buy-In Strategy Session]
-👉 \[Download the Stakeholder Communication Toolkit]
-
----
-
-**🧠 NKD Agility: From Ideas to Influence, We’ve Got Your Back**
