@@ -17,12 +17,7 @@ headline:
   cards: []
   title: Reduced Risk and Increased Stability
   content: |
-    **Ship with Confidence. Sleep at Night.**
-
-    When deployments break, customers leave.
-    When security fails, reputations crumble.
-    When systems go down, your leadership is questioned.
-
+    **Ship with Confidence. Sleep at Night.** When deployments break, customers leave. When security fails, reputations crumble. When systems go down, your leadership is questioned.
 sections:
   - content: |
       **NKD Agility reduces your risk, hardens your systems, and restores your peace of mind.** From secure pipelines to compliance-ready governance, we help you move fast without breaking things.

@@ -16,10 +16,9 @@ card:
 headline:
   cards: []
   title: Transform Your Culture
+  subtitle:
   content: |
-    **Build Teams That Own, Adapt, and Thrive**
-
-    You’ve bought the tools. You’ve implemented the frameworks.
+    **Build Teams That Own, Adapt, and Thrive**. You’ve bought the tools. You’ve implemented the frameworks.
     But without cultural alignment, delivery still stalls - and teams stay disengaged.
 sections:
   - content: |

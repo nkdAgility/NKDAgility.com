@@ -17,7 +17,7 @@ card:
 headline:
   cards: []
   title: From Tech Debt to World-Class Delivery
-  content: "Most CTOs aren’t struggling with ideas. They’re drowning in execution debt — inconsistent delivery, brittle pipelines, burned-out teams, and quality failures that slip into production."
+  content: "**Most CTOs aren’t struggling with ideas.** They’re drowning in execution debt — inconsistent delivery, brittle pipelines, burned-out teams, and quality failures that slip into production."
 sections:
   - content: |
       **NKD Agility transforms your software organization from the inside out.** With a proven system of Agile engineering, DevOps mastery, and modern architecture — we help you build delivery machines, not tech traps.

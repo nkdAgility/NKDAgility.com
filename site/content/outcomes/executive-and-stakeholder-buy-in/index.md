@@ -17,9 +17,7 @@ headline:
   cards: []
   title: Executive & Stakeholder Buy-In
   content: |
-    **Speak Their Language. Win Their Support.**
-
-    You’ve got the vision. The roadmap. The technical chops.
+    **Speak Their Language. Win Their Support.** You’ve got the vision. The roadmap. The technical chops.
     But without buy-in from the boardroom, nothing moves.
 sections:
   - content: |

@@ -16,9 +16,8 @@ card:
 headline:
   cards: []
   title: Technical Leadership for Strategic Impact
-  subtitle: Influence. Authority. Results.
   content: |
-    You weren’t hired just to keep the servers running. You were hired to shape the future.
+    **Influence. Authority. Results.** You weren’t hired just to keep the servers running. You were hired to shape the future.
     But without clear strategy, alignment, and authority—most technical leaders are stuck in reaction mode.
 sections:
   - content: |
@@ -167,5 +166,3 @@ sections:
 
 👉 \[Book a Free Leadership Strategy Call]
 👉 \[Download the CTO Influence & Authority Guide]
-
-
