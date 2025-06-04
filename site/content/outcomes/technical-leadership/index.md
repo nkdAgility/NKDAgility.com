@@ -28,7 +28,7 @@ sections:
       content: "Let’s change that. **You deserve to be heard.**"
       button:
         text: "Connect now"
-        url: "/contact"
+        url: "/book"
     boxes:
       - content: |
           Are you a CTO stuck in the weeds instead of setting the vision?

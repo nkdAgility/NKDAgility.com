@@ -27,7 +27,7 @@ sections:
       content: "Ready to Release at the Speed of Strategy? **Let’s fix that.**"
       button:
         text: "Book a Free Delivery Optimization Call"
-        url: "/contact"
+        url: "/book"
     boxes:
       - content: |
           Still stuck in delivery hell?

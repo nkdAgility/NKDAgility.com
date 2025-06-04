@@ -31,7 +31,7 @@ sections:
       content: "Build the Teams You Always Wished You Had"
       button:
         text: "Ready to Build Elite Teams?"
-        url: "/book-online"
+        url: "/book"
     boxes:
       - content: |
           Still relying on your top 10% to carry the 90%?

@@ -25,7 +25,7 @@ sections:
       content: "**Your migration shouldn't feel like a gamble.** Let us de-risk, accelerate, and empower your transformation."
       button:
         text: "Ready to Modernize?"
-        url: "/contact"
+        url: "/book"
     boxes:
       - content: |
           Struggling to unlock strategic outcomes?

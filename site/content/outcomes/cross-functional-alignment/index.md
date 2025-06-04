@@ -27,7 +27,7 @@ sections:
       content: "Time to Unite Your Org? **Let’s change the way your organization delivers—together.**"
       button:
         text: "Get Started"
-        url: "/contact"
+        url: "/book"
     boxes:
       - content: |
           Still battling internal turf wars?

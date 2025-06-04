@@ -30,7 +30,7 @@ sections:
       content: "**Is Your Culture Holding You Back?** Let’s build something stronger."
       button:
         text: "Book a Discovery Call"
-        url: "/contact"
+        url: "/book"
     boxes:
       - content: |
           Tools don’t transform teams - _people do._

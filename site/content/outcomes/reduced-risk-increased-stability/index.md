@@ -27,7 +27,7 @@ sections:
       content: "Ready to De-Risk Your Technology? **Let’s lock it down.**"
       button:
         text: "Book a Free Risk & Stability Assessment"
-        url: "/contact"
+        url: "/book"
     boxes:
       - content: |
           Are you tired of crossing your fingers during every release?
