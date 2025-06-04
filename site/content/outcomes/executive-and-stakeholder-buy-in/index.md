@@ -12,7 +12,7 @@ card:
   button:
     content: Secure Leadership Support
   title: Executive and Stakeholder Buy-In
-  content: We help you prepare, communicate, and align so decisions move forward with confidence—translating your technical strategy into language executives can act on.
+  content: Transform sceptical leadership into committed champions through strategic alignment, clear ROI demonstration, and proven engagement strategies.
 headline:
   cards: []
   title: Executive & Stakeholder Buy-In
@@ -30,7 +30,7 @@ sections:
         url: "/book"
     boxes:
       - content: |
-          Are strategic initiatives stalling because the value story isn’t landing?
+          Still hitting a wall in the boardroom?
       - content: |
           Still struggling to show the business value of your tech vision?
       - content: |

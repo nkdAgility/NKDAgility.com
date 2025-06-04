@@ -12,7 +12,7 @@ card:
   button:
     content: Align Your Teams
   title: Cross Functional Alignment
-  content: We help organisations define shared Objectives across product, tech, and business, and drive alignment through measurable Key Results that clarify progress and priorities.
+  content: Break down silos and unite departments around shared goals to deliver cohesive customer value and drive organizational success.
 headline:
   cards: []
   title: Cross-Functional Alignment
