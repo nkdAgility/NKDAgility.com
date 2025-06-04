@@ -33,7 +33,7 @@ sections:
         url: "/book"
     boxes:
       - content: |
-          Culture emerges from the systems we create.
+          Tools don't transform teams - people and systems do.
       - content: |
           If morale is low, collaboration is broken, and Agile feels hollow
       - content: |
