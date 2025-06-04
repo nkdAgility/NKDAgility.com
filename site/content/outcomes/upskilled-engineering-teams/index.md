@@ -19,8 +19,10 @@ card:
   content: <p>Transform average engineers into exceptional performers through targeted skill development that drives measurable improvements in quality and velocity.</p>
 headline:
   cards: []
-  title: "Upskilled Engineering Teams: Build the Teams You Always Wished You Had"
-  content: "Tools don’t build great software - _teams_ do. But too many engineering orgs are stuck with skills that don’t match their ambition."
+  title: "Upskilled Engineering Teams"
+  subtitle: "**Build the Teams You Always Wished You Had**"
+  content: |
+    Tools don’t build great software - _teams_ do. But too many engineering orgs are stuck with skills that don’t match their ambition.
 sections:
   - content: |
       **NKD Agility transforms capable developers into modern engineers.** With hands-on coaching, real-world DevOps, and Agile Engineering training, we future-proof your team - without losing momentum.
