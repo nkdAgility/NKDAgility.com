@@ -5,6 +5,21 @@ draft: false
 description: "Learn how we collect, process, and protect data across our website and Azure DevOps Migration Tools."
 aliases:
   - /privacy/
+headline:
+  cards: []
+  title: naked Agility Ltd. Privacy Policy
+  content: Learn how we collect, process, and protect data across our website and Azure DevOps Migration Tools.
+  buttons:
+    - style: primary
+      link: /company/book-online/
+      icon: fa-calendar
+      text: Book a call
+    - style: secondary
+      link: /company/terms-of-business/
+      text: Terms of Business
+    - style: secondary
+      link: /company/working-with-us
+      text: Working with us!
 ---
 
 naked Agility Ltd is committed to protecting your privacy and ensuring transparency in how we handle personal information. This Privacy Statement outlines the services and tools we use, the regions where data is processed or stored, and how your personal information is managed.

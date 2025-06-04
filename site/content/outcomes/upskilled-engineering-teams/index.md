@@ -3,6 +3,10 @@ title: "Upskilled Engineering Teams"
 description: "Transform your engineering capabilities through targeted skill development that enables teams to deliver higher quality software faster."
 date: 2025-04-28
 draft: true
+aliases:
+  - /outcomes/increase-team-effectiveness/
+  - /outcomes/increased-team-productivity/
+  - /outcomes/increase-team-effectivenss/
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
@@ -11,106 +15,107 @@ type: outcomes
 slug: upskilled-engineering-teams
 card:
   button:
-    content: <p>Upskill Your Teams</p>
+    content: Upskilled Engineering Teams
   title: Upskilled Engineering Teams
   content: <p>Transform average engineers into exceptional performers through targeted skill development that drives measurable improvements in quality and velocity.</p>
 headline:
   cards: []
-  title: XXXX XXXXXX XXXXXXX XXXX
-  content: "XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX XXXX XXXXXX XXXXXXX XXXX"
+  title: "Upskilled Engineering Teams: Build the Teams You Always Wished You Had"
+  content: "Tools don’t build great software—_teams_ do. But too many engineering orgs are stuck with skills that don’t match their ambition."
 sections:
   - content: |
-      **XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.** XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX.
+      **NKD Agility transforms capable developers into modern engineers.** With hands-on coaching, real-world DevOps, and Agile Engineering training, we future-proof your team—without losing momentum.
     type: content
   - type: outcomehero
     cta:
-      content: "XXXX XXXXXX XXXXXXX? **XXXX XXXXXX XXXXXXX.**"
+      content: "Build the Teams You Always Wished You Had"
       button:
-        text: "XXXX XXXXXX XXXXXXX"
-        url: "/contact"
+        text: "Ready to Build Elite Teams?"
+        url: "/book"
     boxes:
       - content: |
-          XXXX XXXXXX XXXXXXX
+          Still relying on your top 10% to carry the 90%?
       - content: |
-          XXXX XXXXXX XXXXXXX
+          Still filling gaps with contractors and hope?
       - content: |
-          XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          Let’s grow your people—so they grow your product.
+  - title: Pain Points We Solve
     type: list
     list:
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+      - title: Skill Gaps That Stall Progress
+        icon: fa-chart-line
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Legacy habits can’t support modern pipelines, cloud architecture, or rapid delivery.
+      - title: Training That Doesn’t Stick
+        icon: fa-graduation-cap
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          One-off courses fade. We embed skills into _how_ teams work every day.
+      - title: Repetition Over Innovation
+        icon: fa-redo
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Teams are stuck fixing bugs and reworking code instead of solving real problems.
+      - title: Dependence on Firefighting Heroes
+        icon: fa-fire-extinguisher
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          A few star engineers carry the team. Everyone else plays catch-up.
+      - title: High Turnover or Low Engagement
+        icon: fa-door-open
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+          Without growth opportunities, your best talent walks—and the rest coast.
   - type: quote
     backgroundColor: primary
     quote: |
       "Martin is extremely knowledgeable and experienced in helping teams become more agile and adopt DevOps practices especially around the Microsoft Azure platform and VSTS / TFS. But he is not limited to that stack with plenty of experience with competing and complimentary technologies. He explains things clearly and gets rid of any 'smoke and mirrors' to show how any team can make small improvements to improve how they work. He is one of the leading MVP's globally for DevOps and someone myself and my colleagues in the Azure product group trust to give us honest and insightful feedback."
       - **Martin Woodward | Principal Group Program Manager | Microsoft**
-  - title: XXXX XXXXXX XXXXXXX
+  - title: Gains You Achieve with NKD Agility
     type: list
     listType: boxed
     list:
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+      - title: Modern Engineering Skillsets
+        icon: fa-toolbox
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          CI/CD, Infrastructure as Code, Test Automation, TDD, Clean Architecture—no fluff, just what matters.
+      - title: Learning by Doing, Not Just Lectures
+        icon: fa-chalkboard-user
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          We train in the flow of work, so adoption happens organically and results are immediate.
+      - title: Confidence to Tackle Complexity
+        icon: fa-mountain
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-      - title: XXXX XXXXXX XXXXXXX
-        icon: fa-XXX
+          Your teams no longer flinch at large systems, outages, or scale—they’re equipped.
+      - title: Higher Morale, Higher Retention
+        icon: fa-heart
         content: |
-          XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
-  - title: XXXX XXXXXX XXXXXXX
+          When engineers grow, they stay. When they own the system, they care.
+  - title: Sustainable Growth, Not Burnout
     type: content
     content: |
-      XXXX XXXXXX XXXXXXX XXXX XXXXXX XXXXXXX
+      We coach smarter ways of working—so teams don’t just “do more,” they do better.
   - type: outcomeboxes
-    title: XXXX XXXXXX XXXXXXX
+    title: We help you with
     boxes:
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
+          - title: Build high-performing, modern engineering teams
+          - title: Close skill gaps in DevOps, QA, and architecture
+          - title: Improve code quality and delivery reliability
+          - title: Shift from reactive to proactive development
+          - title: Foster continuous learning in real-world environments
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
+          - title: Inspire pride and confidence in your team
+          - title: Feel secure in your team's ability to deliver
+          - title: Reduce the stress of micromanaging technical decisions
+          - title: Feel confident stepping back and delegating
+          - title: Feel energized by team progress and capability
       - box:
         items:
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
-          - title: XXXX XXXXXX XXXXXXX
+          - title: Represent your org as an employer of choice for top talent
+          - title: Mentor engineering leaders who can scale your org
+          - title: Build a reputation for engineering excellence
+          - title: Lead a team that gets noticed inside—and outside—the company
+          - title: Attract and retain top developers who want to grow
+
   - title: XXXX XXXXXX XXXXXXX
     type: casestudy
     list:
@@ -148,104 +153,54 @@ sections:
   - type: sectioncta
     backgroundColor: primary
     cta:
-      content: "XXXX XXXXXX XXXXXXX"
+      content: "Grow the Teams that Build the Future"
       button:
         text: "Schedule a call"
         url: "/book"
 ---
 
-## Elevate Your Engineering Capabilities
+---
 
-In today's rapidly evolving technology landscape, team capabilities are your competitive advantage. Organizations with skilled engineering teams deliver better products faster, adapt to change more effectively, and solve complex problems with greater confidence.
+**🎯 Gains You Achieve with NKD Agility**
 
-NKD Agility helps you develop world-class engineering teams through targeted upskilling programs that combine technical excellence with collaborative effectiveness.
+💡 **Modern Engineering Skillsets**
+CI/CD, Infrastructure as Code, Test Automation, TDD, Clean Architecture—no fluff, just what matters.
 
-## Why Engineering Skills Matter More Than Ever
+📚 **Learning by Doing, Not Just Lectures**
+We train in the flow of work, so adoption happens organically and results are immediate.
 
-As technology evolves and customer expectations increase, teams face growing challenges:
+🧗 **Confidence to Tackle Complexity**
+Your teams no longer flinch at large systems, outages, or scale—they’re equipped.
 
-- Legacy systems requiring modernization
-- Cloud and container technologies demanding new skillsets
-- Security threats requiring defensive coding techniques
-- Quality expectations requiring automated testing expertise
-- Delivery speed requiring DevOps and CI/CD knowledge
+🎉 **Higher Morale, Higher Retention**
+When engineers grow, they stay. When they own the system, they care.
 
-## Our Engineering Upskilling Approach
+🧠 **Sustainable Growth, Not Burnout**
+We coach smarter ways of working—so teams don’t just “do more,” they do better.
 
-We deliver practical, applied learning that creates immediate value while building long-term capability:
+---
 
-### Technical Assessment
+**🧰 Why NKD Agility?**
 
-- Skill gap identification across technical domains
-- Team capability mapping against strategic objectives
-- Learning style and preference evaluation
-- Development roadmap creation
-- Success metrics definition
+**Because real transformation isn’t about tools—it’s about teams that \*\*\***know how to use them**\***.\**
+We integrate modern engineering practices *into the daily rhythm\* of your team’s work, so skills aren’t just learned—they’re lived.
 
-### Learning Program Design
+✔️ Practical DevOps, QA, and Agile Engineering training
+✔️ Mentoring embedded in the delivery cycle
+✔️ Long-term capability, not short-term hype
 
-- Customized curriculum development
-- Multi-modal learning approach integration
-- Practical exercise and project design
-- Just-in-time learning path creation
-- Measurement and feedback mechanisms
+Led by Martin Hinshelwood (Microsoft MVP) and a global team of technical coaches, NKD Agility helps you build the engineering culture your strategy demands.
 
-### Knowledge Delivery
+---
 
-- Hands-on technical workshops
-- Pair programming and mentoring
-- Code review and feedback sessions
-- Architecture and design guidance
-- Tool-specific training and implementation
+**📈 Results from the Ground Up**
 
-### Sustainable Practice
+✅ Dev teams automated testing across 80% of codebase in 10 weeks
+✅ Lead engineers coached into effective mentors and architecture owners
+✅ Retention improved after team members reported "the best growth of their careers"
 
-- Learning communities establishment
-- Knowledge sharing frameworks
-- Technical practice facilitation
-- Continuous learning culture development
-- Self-directed learning resources
+**Want to see how we do it?** → \[Explore Our Engineering Upskilling Stories]
 
-## Core Engineering Skills We Develop
+---
 
-Our upskilling programs cover critical technical and collaborative capabilities:
-
-### Technical Excellence
-
-- Test-driven development
-- Clean code principles
-- Modern architecture patterns
-- Cloud-native development
-- Security and performance optimization
-
-### Delivery Practices
-
-- CI/CD pipeline implementation
-- Infrastructure as code
-- Containerization and orchestration
-- Monitoring and observability
-- Database change management
-
-### Collaborative Skills
-
-- Technical communication
-- Pair and ensemble programming
-- Code review techniques
-- Technical documentation
-- Cross-functional collaboration
-
-## Results You Can Expect
-
-Organizations implementing our engineering upskilling approach typically experience:
-
-- 30-50% faster feature delivery
-- 50-70% reduction in production defects
-- Significant improvements in system reliability
-- Greater innovation and problem-solving capacity
-- Improved team retention and recruitment success
-
-## Start Elevating Your Engineering Teams
-
-Every organization has unique engineering skill needs based on their technology stack, product challenges, and strategic direction. Our team works with you to design targeted upskilling programs that address your specific requirements.
-
-[Book a Capability Assessment](#) to discuss how we can help transform your engineering capabilities.
+---
