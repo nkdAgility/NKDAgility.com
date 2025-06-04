@@ -1,29 +1,29 @@
 ---
-title: 'Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence'
+title: "Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence"
 description: Explores how optimising systems, reducing technical debt, and strong leadership improve engineering quality, productivity, and innovation while minimising chaos.
 date: 2024-12-16T06:00:00Z
 weight: 175
 slug: transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
 aliases:
-- /resources/zqMzD1PXq4s
-- /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
-- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
+  - /resources/zqMzD1PXq4s
+  - /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
+  - /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
 aliasesArchive:
-- /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
-- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
-- /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
-- transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
+  - /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
+  - /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
+  - /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
+  - transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
 concepts: []
 categories:
-- Engineering Excellence
-- Technical Leadership
+  - Engineering Excellence
+  - Technical Leadership
 tags:
-- Operational Practices
-- Technical Debt
-- Technical Mastery
-- Pragmatic Thinking
-- Software Development
-- Technical Excellence
+  - Operational Practices
+  - Technical Debt
+  - Technical Mastery
+  - Pragmatic Thinking
+  - Software Development
+  - Technical Excellence
 ResourceId: zqMzD1PXq4s
 ResourceImport: true
 ResourceType: videos
@@ -39,19 +39,17 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:56:41Z
-
 ---
+
 Chaos costs money. In my experience working with various organisations, I've seen firsthand how they struggle to manage the chaos that often surrounds the delivery of usable, working products to their customers. The result? Substandard work, a barrage of bugs hitting production, and a frustrating cycle of rework because things simply don’t meet the minimum standards we expect. It’s a familiar tale, and one that I’ve encountered time and again.
 
 ### Understanding the Shift
 
-When I’m building products, I often find myself in a position where I need to solve a problem. You identify a challenge, envision a solution, and set off in that direction. However, as time passes, the landscape can shift dramatically. This shift might be due to emerging market opportunities or the need to scale operations. 
+When I’m building products, I often find myself in a position where I need to solve a problem. You identify a challenge, envision a solution, and set off in that direction. However, as time passes, the landscape can shift dramatically. This shift might be due to emerging market opportunities or the need to scale operations.
 
-The solution that once seemed perfect can quickly become inadequate. I’ve witnessed this in various sectors, particularly in industries like airlines and car rentals, where [technical debt]({{< ref "/tags/technical-debt" >}}) accumulates over time. Choices made years ago can lead to a tangled web of outdated systems that no longer serve the organisation’s needs. 
+The solution that once seemed perfect can quickly become inadequate. I’ve witnessed this in various sectors, particularly in industries like airlines and car rentals, where [technical debt]({{< ref "/tags/technical-debt" >}}) accumulates over time. Choices made years ago can lead to a tangled web of outdated systems that no longer serve the organisation’s needs.
 
 ### The Dangers of Technical Debt
 
@@ -67,7 +65,7 @@ A prime example of this is the Azure [DevOps]({{< ref "/categories/devops" >}}) 
 
 ### The Impact of Testing
 
-One of the pivotal changes they made was shifting from long-running system tests to unit tests. This transition took four years of dedicated effort, but the results were staggering. They reduced the time it took to verify changes from 48 hours to just 3.5 minutes. Imagine the productivity boost if you could instantly know whether a change was successful rather than waiting two days. 
+One of the pivotal changes they made was shifting from long-running system tests to unit tests. This transition took four years of dedicated effort, but the results were staggering. They reduced the time it took to verify changes from 48 hours to just 3.5 minutes. Imagine the productivity boost if you could instantly know whether a change was successful rather than waiting two days.
 
 This rapid feedback loop allows teams to make smaller, more frequent changes, leading to a better product that is scalable and less reliant on quick fixes. Instead of patching over problems with Band-Aids, teams can focus on building robust solutions that stand the test of time.
 

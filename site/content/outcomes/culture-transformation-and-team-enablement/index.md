@@ -1,8 +1,7 @@
 ---
 title: "Culture Transformation and Team Enablement"
 description: "Create an adaptive, high-performing organizational culture where teams are empowered to deliver exceptional value continuously."
-date: 2025-04-28
-draft: true
+date: 2025-06-04
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
@@ -11,103 +10,152 @@ type: outcomes
 slug: culture-transformation-and-team-enablement
 card:
   button:
-    content: <p>Transform Culture</p>
+    content: Transform Your Culture
   title: Culture Transformation and Team Enablement
-  content: <p>Evolve your organizational culture from command-and-control to empowered, adaptive teams that drive innovation and exceptional results.</p>
+  content: Evolve your organizational culture from command-and-control to empowered, adaptive teams that drive innovation and exceptional results.
+headline:
+  cards: []
+  title: Transform Your Culture
+  subtitle:
+  content: |
+    **Build Teams That Own, Adapt, and Thrive**. You’ve bought the tools. You’ve implemented the frameworks.
+    But without cultural alignment, delivery still stalls - and teams stay disengaged.
+sections:
+  - content: |
+      **NKD Agility doesn’t just install practices. We enable transformation.** We help teams shift mindset, build modern habits, and create a culture where innovation flows and ownership thrives.
+
+    type: content
+  - type: outcomehero
+    cta:
+      content: "**Is Your Culture Holding You Back?** Let’s build something stronger."
+      button:
+        text: "Book a Discovery Call"
+        url: "/book"
+    boxes:
+      - content: |
+          Tools don’t transform teams - _people do._
+      - content: |
+          If morale is low, collaboration is broken, and Agile feels hollow
+      - content: |
+          Teams struggle to take ownership and drive change.
+  - title: The Cultural Pain You’re Probably Feeling
+    type: list
+    list:
+      - title: Low Morale, High Burnout
+        icon: fa-face-tired
+        content: |
+          Teams feel overwhelmed, under-supported, and disconnected from outcomes.
+      - title: Resistance to Change
+        icon: fa-triangle-exclamation
+        content: |
+          Agile and DevOps fail when they’re “rolled out” instead of _bought into_.
+      - title: Disengaged, Siloed Teams
+        icon: fa-people-arrows
+        content: |
+          Product, tech, and business talk _past_ each other - not _with_ each other.
+      - title: Old Habits in a New Framework
+        icon: fa-rotate
+        content: |
+          Scrum in name only. DevOps in theory. Culture in chaos.
+      - title: No Time for Growth, No Space for Innovation
+        icon: fa-hourglass-end
+        content: |
+          Execution trumps learning. Urgency beats strategy.
+  - type: quote
+    backgroundColor: primary
+    quote: |
+      "Martin did Scrum training for Backcountry through Scrum.org for three days and I must say it was very useful three days for us. The whole team of about 50+ people thoroughly enjoyed the training and got a lot out of it. In addition to great material and exercises Martin had a great style of delivery and won the respect of everyone including our engineers, which is a big deal. In addition to the in-class effort, Martin was also very forthcoming in helping folks outside class and still communicates with members of the team via e-mail. Great guy, very knowledgeable & great trainer. Highly recommend him."
+      - **C J Singh | CIO | Backcountry**
+  - title: What Culture Transformation Unlocks
+    type: list
+    listType: boxed
+    list:
+      - title: High-Trust, High-Ownership Teams
+        icon: fa-users-gear
+        content: |
+          People stop waiting to be told what to do - and start taking initiative.
+      - title: Agile Mindset, Not Just Mechanics
+        icon: fa-brain
+        content: |
+          Teams don’t just _do_ Agile - they _think_ Agile, adapt, and grow together.
+      - title: Sustainable Pace, Real Progress
+        icon: fa-chart-line
+        content: |
+          We help teams deliver predictably without burning out or breaking down.
+      - title: Practical Habits That Stick
+        icon: fa-hammer
+        content: |
+          From retros to standups, we make team practices _real_, not ritual.
+
+  - title: Open Collaboration & Feedback Loops
+    type: content
+    content: |
+      Communication improves. Tensions reduce. Results get better.
+  - type: outcomeboxes
+    title: "We can help you with:"
+    boxes:
+      - box:
+        items:
+          - title: Build high-performing engineering teams
+          - title: Shift from command-and-control to empowered teams
+          - title: Improve collaboration across silos
+          - title: Retain top talent through culture and development
+          - title: Embed continuous learning into daily work
+      - box:
+        items:
+          - title: Reduce leadership fatigue and emotional drain
+          - title: Feel pride in team morale and growth
+          - title: Move from frustration to flow
+          - title: Inspire belief in your transformation vision
+          - title: See tangible growth in team maturity
+      - box:
+        items:
+          - title: Foster a culture of innovation and ownership
+          - title: Be known for building a world-class tech culture
+          - title: Create alignment between business, product, and tech
+          - title: Be seen as the leader teams want to work for
+          - title: Champion Agile values that live beyond the framework
+
+  - title: The Results Speak
+    type: casestudy
+    list:
+      - icon: fa-shield-check
+        content: |
+          80% team engagement improvement after 12-week enablement sprint
+      - icon: fa-shield-check
+        content: |
+          Teams began identifying and solving blockers _before_ escalation
+      - icon: fa-shield-check
+        content: |
+          Culture shift visible at leadership and team levels within 3 months
+    cta:
+      content: "Curious how we did it?"
+      button:
+        text: "See Culture Change Case Studies"
+        url: "/resources/case-studies"
+  - title: Why NKDAgility?
+    type: textNlist
+    list:
+      - icon: fa-award
+        content: |
+          From resistance to resilience
+      - icon: fa-award
+        content: |
+          From process-pushing to people-led transformation
+      - icon: fa-award
+        content: |
+          From burnout to brilliance
+    sideContent: |
+      **Because culture eats strategy for breakfast - and Agile without culture is theatre.**
+
+      We bring deep coaching, technical mentoring, and organizational change expertise to transform _how_ teams think, communicate, and deliver.
+
+      Led by Martin Hinshelwood (Microsoft MVP), NKD Agility enables cultural change _that sticks_.
+  - type: sectioncta
+    backgroundColor: primary
+    cta:
+      content: "Empowering Teams to Deliver. Together."
+      button:
+        text: "Schedule a call"
+        url: "/book"
 ---
-
-## Build a Culture Where Teams and Innovation Thrive
-
-Organizational culture is the invisible force that shapes how work happens. In today's complex, fast-changing business environment, adaptive cultures with enabled teams consistently outperform traditional command-and-control structures.
-
-NKD Agility helps you transform your organizational culture to become more innovative, responsive, and people-centered—creating an environment where great work happens naturally.
-
-## Why Culture Transformation Matters
-
-Culture isn't just about how people feel—it directly affects your bottom line:
-
-- Responsive cultures adapt more quickly to market changes
-- Enabled teams solve problems without management bottlenecks
-- Psychological safety increases innovation and risk management
-- Trust-based environments reduce coordination costs
-- Learning cultures accumulate competitive advantage over time
-
-## Our Culture Transformation Approach
-
-We employ a comprehensive, evidence-based methodology that creates lasting cultural change:
-
-### Assessment & Discovery
-
-- Current culture evaluation through multiple lenses
-- Leadership mindset and behavior analysis
-- System constraint identification
-- Success metrics definition
-- Transformation roadmap co-creation
-
-### Leadership Evolution
-
-- Mental model shifts for key influencers
-- Coaching approach development
-- Delegation and empowerment techniques
-- Psychological safety cultivation skills
-- Complexity and systems thinking development
-
-### Team Enablement
-
-- Self-organization patterns and practices
-- Collaborative decision-making frameworks
-- Cross-functional skill development
-- Continuous improvement discipline
-- Team agreement and working covenant creation
-
-### Structural Alignment
-
-- Organizational design optimization
-- Policy and procedure simplification
-- Measurement system refinement
-- Recognition and incentive realignment
-- Physical and virtual workspace improvement
-
-## Common Culture Challenges We Address
-
-Every organization faces unique culture challenges, but several patterns appear frequently:
-
-### Leadership Mindset
-
-- Command-and-control habits limiting team potential
-- Focus on activity over outcomes creating wasted effort
-- Short-term thinking undermining sustainable results
-- Expert-based decision models creating bottlenecks
-- Fixed mindsets limiting learning and adaptation
-
-### Team Dynamics
-
-- Siloed teams with limited collaboration
-- Low psychological safety inhibiting innovation
-- Unclear purpose and autonomy boundaries
-- Lack of effective feedback mechanisms
-- Limited ownership of outcomes and solutions
-
-### Organizational Systems
-
-- Policies that contradict stated cultural values
-- Measurement systems driving undesired behaviors
-- Recognition favoring individual over team success
-- Approval processes creating unnecessary dependencies
-- Meeting cultures consuming excessive capacity
-
-## Results You Can Expect
-
-Organizations that successfully transform their culture typically experience:
-
-- 25-40% increase in team productivity
-- Significant improvements in employee retention
-- Enhanced innovation and problem-solving
-- Faster response to market changes and opportunities
-- Improved customer satisfaction through better service delivery
-
-## Begin Your Culture Transformation
-
-Cultural change is both challenging and rewarding—requiring dedication, patience, and expertise. Our team brings decades of experience guiding organizations through successful transformations.
-
-[Book a Culture Assessment](#) to discuss how we can support your organization's evolution.

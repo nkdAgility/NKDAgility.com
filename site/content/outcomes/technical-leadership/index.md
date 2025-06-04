@@ -1,8 +1,7 @@
 ---
 title: "Technical Leadership"
 description: "Develop influential technical leaders who drive innovation, guide teams effectively, and translate business needs into technical solutions."
-date: 2025-04-28
-draft: true
+date: 2025-06-03
 creator: Martin Hinshelwood
 sitemap:
   filename: sitemap.xml
@@ -11,91 +10,159 @@ type: outcomes
 slug: technical-leadership
 card:
   button:
-    content: <p>Develop Leaders</p>
+    content: Develop Leaders
   title: Technical Leadership
-  content: <p>Cultivate technical leaders who combine deep expertise with human skills to guide teams, drive innovation, and deliver exceptional results.</p>
+  content: Cultivate technical leaders who combine deep expertise with human skills to guide teams, drive innovation, and deliver exceptional results.
+headline:
+  cards: []
+  title: Technical Leadership for Strategic Impact
+  content: |
+    **Influence. Authority. Results.** You weren’t hired just to keep the servers running. You were hired to shape the future.
+    But without clear strategy, alignment, and authority—most technical leaders are stuck in reaction mode.
+sections:
+  - content: |
+      **NKD Agility helps CTOs lead with confidence.** We transform you from a tactical executor to a trusted strategic advisor that your boardroom listens to—and follows.
+    type: content
+  - type: outcomehero
+    cta:
+      content: "Let’s change that. **You deserve to be heard.**"
+      button:
+        text: "Connect now"
+        url: "/book"
+    boxes:
+      - content: |
+          Are you a CTO stuck in the weeds instead of setting the vision?
+      - content: |
+          Are you leading transformation—but no one’s following?
+      - content: |
+          Are you struggling to get buy-in for your tech initiatives?
+  - title: The Pains We Eliminate
+    type: list
+    list:
+      - title: Strategic Ambiguity
+        icon: fa-route
+        content: |
+          We help you translate business goals into clear, actionable technology roadmaps.
+      - title: Lack of Cross-Functional Alignment
+        icon: fa-people-arrows
+        content: |
+          We break silos and align tech, product, and business teams around shared outcomes.
+      - title: Low Executive Trust
+        icon: fa-handshake-slash
+        content: |
+          Through measurable outcomes and compelling metrics, you gain buy-in and boardroom backing.
+      - title: Difficulty Influencing Stakeholders
+        icon: fa-chess
+        content: |
+          We coach you in the language of the C-suite—so your ideas get approved, not sidelined.
+      - title: Overwhelm & Isolation
+        icon: fa-user-shield
+        content: |
+          With expert advisory support, you stop fighting fires and start leading the transformation.
+
+  - type: quote
+    backgroundColor: primary
+    quote: |
+      "Martin's depth and breadth of knowledge and experience of the world of Agile/DevOps is incredible. He will switch between hands on development to advanced consulting or training on process, practices and tools to help you in your own DevOps journey. When the going gets tough in challenging situations he is super responsive and goes the extra mile... He is passionate about what he does and is always trying to improve the way we work to build high value products and solutions... Down to earth and straight talking. Highly recommend!"
+      - **Nancy Maher | Global Software Lifecycle Management Program Manager | SLB**
+  - title: 🎯 The Strategic Gains You Achieve
+    type: list
+    listType: boxed
+    list:
+      - title: Boardroom Credibility & Influence
+        icon: fa-podium
+        content: |
+          You’ll finally have the data, language, and confidence to drive change at the highest level.
+      - title: Technology Aligned with Business Goals
+        icon: fa-diagram-project
+        content: |
+          Your tech roadmap becomes a growth driver, not a cost center.
+      - title: Proactive, Not Reactive Leadership
+        icon: fa-lightbulb
+        content: |
+          Set the pace of innovation instead of reacting to chaos.
+      - title: Trusted Voice Among Stakeholders
+        icon: fa-comments
+        content: |
+          You don’t have to fight to be heard. You *are* the voice of technology in the business.
+  - title: Respected Cross-Functional Leader
+    type: content
+    content: |
+      You're no longer “just IT.” You're the strategic force shaping the company’s future.
+  - type: outcomeboxes
+    title: We help you with
+    boxes:
+      - box:
+        items:
+          - title: Align tech strategy with business goals
+          - title: Build and communicate scalable tech roadmaps
+          - title: Influence executive decisions with data
+          - title: Lead transformation initiatives
+          - title: Justify tech investments
+      - box:
+        items:
+          - title: Feel in control of your tech vision
+          - title: Reduce the stress of ambiguity
+          - title: Regain confidence in decision-making
+          - title: Stop being reactive and start being visionary
+          - title: Gain validation and respect from stakeholders
+      - box:
+        items:
+          - title: Lead with credibility in the boardroom
+          - title: Advocate effectively for strategic initiatives
+          - title: Mentor the next generation of tech leaders
+          - title: Represent your org as a future-driven leader
+          - title: Foster innovation culture and cross-functional alignment
+
+  - title: What Our Clients Say
+    type: casestudy
+    list:
+      - icon: fa-shield-check
+        content: |
+          “Our CTO went from managing infrastructure to leading boardroom strategy in 90 days.”
+      - icon: fa-shield-check
+        content: |
+          “NKD Agility helped us secure executive buy-in for our entire DevOps and Agile roadmap.”
+      - icon: fa-shield-check
+        content: |
+          “Cross-functional alignment improved dramatically. We finally feel like one team.”
+    cta:
+      content: "Want the inside stories?"
+      button:
+        text: "Explore Success Case Studies"
+        url: "/resources/case-studies"
+  - title: Why NKDAgility?
+    type: textNlist
+    list:
+      - icon: fa-award
+        content: |
+          Tactical → Strategic
+      - icon: fa-award
+        content: |
+          Unheard → Influential
+      - icon: fa-award
+        content: |
+          Firefighter → Visionary Leader
+    sideContent: |
+      **You’re not just getting a framework. You’re gaining a partner in strategic transformation.**
+      We blend deep DevOps, engineering, and Agile coaching expertise with boardroom-savvy advisory.
+
+      Led by Microsoft MVP Martin Hinshelwood, NKD Agility helps CTOs go from:
+
+  - type: sectioncta
+    backgroundColor: primary
+    cta:
+      content: Empowering the Tech Leaders Who Shape the Future
+      button:
+        text: "Schedule a call"
+        url: "/book"
 ---
 
-## Develop World-Class Technical Leaders
+**👑 Technical Leadership for Strategic Impact**
 
-Strong technical leadership is the cornerstone of high-performing engineering organizations. Technical leaders set the direction, inspire teams, and create the conditions for innovation and excellence.
+---
 
-NKD Agility helps organizations grow technical leaders who combine deep technical expertise with the human skills needed to guide teams through complex challenges.
+**🎤 You Deserve to Be Heard**
 
-## Why Technical Leadership Matters
-
-Organizations with exceptional technical leadership demonstrate:
-
-- Higher team productivity and engagement
-- More successful technology initiatives
-- Better alignment between business needs and technical solutions
-- Reduced delivery risk through sound technical decisions
-- Stronger innovation culture and technical excellence
-
-## Common Technical Leadership Gaps We Address
-
-### Strategic Thinking
-
-- Limited connection between technical decisions and business outcomes
-- Reactive rather than proactive technology planning
-- Difficulty articulating technical vision to non-technical stakeholders
-- Inconsistent architectural governance across teams
-- Short-term technical decisions that create long-term problems
-
-### Team Leadership
-
-- Technical managers focused on supervision rather than enablement
-- Difficulty balancing hands-on work with leadership responsibilities
-- Challenges growing and developing technical team members
-- Ineffective technical mentoring and knowledge transfer
-- Inability to handle team dynamics and conflicts effectively
-
-### Communication Skills
-
-- Struggles translating complex technical concepts for business audiences
-- Ineffective influence without direct authority
-- Difficulty leading technical discussions and decision-making processes
-- Limited ability to negotiate for resources and priorities
-- Challenges articulating technical risks in business terms
-
-## Our Technical Leadership Development Approach
-
-We combine assessment, training, coaching, and practical application to develop well-rounded technical leaders:
-
-### Assessment & Strategy
-
-- Technical leadership capability evaluation
-- Individual and organizational gap analysis
-- Development roadmap creation
-- Success metrics definition
-- Leadership transition support planning
-
-### Skill Development
-
-- Technical decision-making frameworks
-- Communication and influence techniques
-- Team coaching and mentoring approaches
-- Technical visioning and roadmapping
-- Managing technical debt and risk
-
-### Applied Learning
-
-- Real-world challenge application
-- Guided implementation of techniques
-- Peer feedback and learning communities
-- Reflection and adaptation cycles
-- Progressive responsibility increases
-
-### Organizational Support
-
-- Leadership expectation alignment
-- Career pathway development
-- Recognition and incentive alignment
-- Organizational impediment removal
-- Community of practice facilitation
-
-## Develop Your Technical Leaders Today
-
-Technical leadership development is an investment that pays dividends across your entire engineering organization. Our team brings decades of experience developing technical leaders across diverse industries and technology stacks.
-
-[Schedule a Leadership Strategy Call](#) to discuss how we can help strengthen your technical leadership bench.
+👉 \[Book a Free Leadership Strategy Call]
+👉 \[Download the CTO Influence & Authority Guide]

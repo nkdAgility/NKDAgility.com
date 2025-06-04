@@ -4,9 +4,7 @@ description: Naked Agility Limited is a boutique consultancy that offers trainin
 type: page
 layout: booking
 aliases:
-  - /book-online/
   - /contact/
-  - /book/
   - /company/general-inquiries/
 headline:
   subtitle: Book a free consultation, training review, or just a chat

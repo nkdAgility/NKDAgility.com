@@ -4,7 +4,8 @@ description: Naked Agility Limited is a boutique consultancy that offers trainin
 layout: booking
 aliases:
   - /book-online/
-  - /company/general-inquiries/
+  - /book/
+  - /call/
 sitemap:
   filename: sitemap.xml
   priority: 0.8
@@ -19,6 +20,12 @@ headline:
       icon: fa-calendar
       text: Book in New Window
     - style: secondary
+      link: /company/terms-of-business/
+      text: Terms of Business
+    - style: secondary
       link: /company/working-with-us
       text: Working with us!
+    - style: secondary
+      link: /company/privacy/
+      text: Privacy Policy
 ---

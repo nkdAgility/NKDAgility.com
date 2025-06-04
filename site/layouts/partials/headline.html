@@ -75,9 +75,9 @@
   <div class="col-md-6">
     <p class="nkda-heading-primary-content">
       {{- if .Params.headline }}
-        {{- .Params.headline.content | markdownify }}
+        {{- .Params.headline.content | markdownify -}}
       {{- else if .Params.card }}
-        {{- .Params.card.content | markdownify }}
+        {{- .Params.card.content | markdownify -}}
       {{- else }}
       {{- end }}
     </p>

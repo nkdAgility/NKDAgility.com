@@ -14,6 +14,17 @@ headline:
   cards: []
   title: Working with Us
   content: Transform your organisation with engineering excellence and technical leadership through DevOps, Agile, Scrum, and Kanban. Empower teams to innovate, adapt, and deliver lasting value with clear goals and continuous feedback. Consistently. Reliably. Effectively.
+  buttons:
+    - style: primary
+      link: /company/book-online/
+      icon: fa-calendar
+      text: Book a call
+    - style: secondary
+      link: /company/terms-of-business/
+      text: Terms of Business
+    - style: secondary
+      link: /company/privacy/
+      text: Privacy Policy
 ---
 
 We operate on a fixed-price model, removing the need for time tracking or seeking additional approvals to ask questions or engage for value. Fees are based on a defined time period. For example, if we agree to a 1-month engagement, the work begins on the agreed start date, and the 1-month period starts then. During this time, we can collaborate as much as needed on any topic within my expertise—whether technical, process-related, or otherwise.

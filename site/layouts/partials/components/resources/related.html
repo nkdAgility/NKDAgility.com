@@ -21,7 +21,7 @@
   {{ end }}
 {{ else }}
   {{ $related := $page.Site.RegularPages.Related $page }}
-  {{ $blogs := where $related ".Params.resourceTypes" $resourceType | first 5 }}
+  {{ $blogs := where $related ".Params.resourceType" $resourceType | first 5 }}
   {{ with $blogs }}
     <h3>Related {{ $resourceType | title }}</h3>
     <ul>

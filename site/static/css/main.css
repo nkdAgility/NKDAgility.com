@@ -1373,11 +1373,43 @@ html {
   .sectioncta-text {
     font-size: 1.1rem;
   }
-
   .sectioncta-button {
     width: 100%;
     max-width: 280px;
   }
+}
+
+/* SectionCTA on dark backgrounds - override theme colors */
+.section-bg-primary .sectioncta-text,
+.section-bg-secondary .sectioncta-text {
+  color: white !important;
+}
+
+.section-bg-primary .sectioncta-text strong,
+.section-bg-secondary .sectioncta-text strong {
+  color: #ffffff !important;
+  text-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+}
+
+/* Override bootstrap button styles for sectioncta on dark backgrounds */
+.section-bg-primary .btn.btn-nkdagility-primary.sectioncta-button,
+.section-bg-secondary .btn.btn-nkdagility-primary.sectioncta-button,
+.section-bg-primary .sectioncta-button.btn.btn-nkdagility-primary,
+.section-bg-secondary .sectioncta-button.btn.btn-nkdagility-primary {
+  background-color: transparent !important;
+  color: white !important;
+  border-color: white !important;
+}
+
+.section-bg-primary .btn.btn-nkdagility-primary.sectioncta-button:hover,
+.section-bg-secondary .btn.btn-nkdagility-primary.sectioncta-button:hover,
+.section-bg-primary .sectioncta-button.btn.btn-nkdagility-primary:hover,
+.section-bg-secondary .sectioncta-button.btn.btn-nkdagility-primary:hover {
+  background-color: white !important;
+  color: var(--primary-color-background) !important;
+  border-color: white !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
 }
 /* End SectionCTA Section Styles */
 

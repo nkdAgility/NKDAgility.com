@@ -15,6 +15,17 @@ headline:
   cards: []
   title: naked Agility Ltd. Terms of Business.
   content: Real agility means evolving your system of work—not managing more tasks. With the right support, your teams adapt faster, deliver smarter, and create lasting value.
+  buttons:
+    - style: primary
+      link: /company/book-online/
+      icon: fa-calendar
+      text: Book a call
+    - style: secondary
+      link: /company/working-with-us
+      text: Working with us!
+    - style: secondary
+      link: /company/privacy/
+      text: Privacy Policy
 ---
 
 We offer outcome-focused consulting services delivered through a timeboxed retainer model. Rather than buying hours, you retain a percentage of our capacity to co-create meaningful outcomes. We focus on helping you evolve your system of work—not just deliver tasks. If you're not satisfied, we refund your fee.

@@ -4,6 +4,7 @@
   {{ partialCached "infrastructure/publish-redirects2.html" . }}
   {{ partialCached "infrastructure/publish-tags.html" . }}
   {{ partialCached "infrastructure/publish-categories.html" . }}
+  {{ partialCached "infrastructure/validate-taxonomy-terms.html" . }}
 {{ end }}
 <html lang="{{- or site.Language.LanguageCode }}" dir="{{- or site.Language.LanguageDirection `ltr` }}">
   <head>
@@ -99,7 +100,7 @@
       });
     </script>
 
-    {{- if ne hugo.Environment "production" }}
+    {{- if eq hugo.Environment "development" }}
       <div id="debugArea" class="container-fluid p-2 bg-brand-{{- hugo.Environment }}">
         <section class="container my-2">
           <button class="btn btn-primary mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#debugSection" aria-expanded="false" aria-controls="debugSection">Show Debug Information</button>
@@ -115,12 +116,8 @@
               </thead>
               <tbody>
                 <tr>
-                  <td>debug</td>
-                  <td><pre>{{- debug.Dump .Params }}</pre></td>
-                </tr>
-                <tr>
                   <td>This Page</td>
-                  <td>Template not set</td>
+                  <td>{{ .Path }}</td>
                 </tr>
                 <tr>
                   <td>Template</td>
@@ -145,6 +142,10 @@
                 <tr>
                   <td>CurrentSection</td>
                   <td>{{- .CurrentSection }}</td>
+                </tr>
+                <tr>
+                  <td>debug</td>
+                  <td><pre>{{- debug.Dump .Params }}</pre></td>
                 </tr>
                 <tr>
                   <td>Section Info</td>
@@ -209,15 +210,20 @@
                       {{- range $groups }}
                         <li>
                           {{- .Key }}
-                          <ul>
-                            {{- range .Pages }}
-                              <li>
-                                <a href="{{- .Permalink }}">{{- .Title }}</a>
-                                [Type: {{- .Type }}]
-                                {{- if .Layout }}[Layout: {{- .Layout }}]{{- end }}
-                              </li>
-                            {{- end }}
-                          </ul>
+                          {{- if eq hugo.Environment "development" }}
+                            <ul>
+                              {{- range .Pages }}
+
+                                <li>
+                                  <a href="{{- .Permalink }}">{{- .Title }}</a>
+                                  [Type: {{- .Type }}]
+                                  {{- if .Layout }}[Layout: {{- .Layout }}]{{- end }}
+                                </li>
+                              {{- end }}
+                            </ul>
+                          {{- else }}
+                            <span class="badge bg-secondary">{{- len .Pages }} pages (not shown in {{ hugo.Environment }})</span>
+                          {{- end }}
                         </li>
                       {{- end }}
                     </ul>

@@ -73,7 +73,7 @@
       {{ if eq .Type "resources" }}
       {
         "@context": "https://schema.org",
-        "@type": {{- if .Params.resourceTypes }}{{- $type := index .Params.resourceTypes 0 }}{{- if eq $type "blog" }}"BlogPosting"{{- else if eq $type "newsletter" }}"NewsArticle"{{- else }}"Article"{{- end }}{{- else }}"Article"{{- end }},
+        "@type": {{- if .Params.resourceType }}{{- if eq .Params.resourceTyp "blog" }}"BlogPosting"{{- else if eq .Params.resourceTyp "newsletter" }}"NewsArticle"{{- else }}"Article"{{- end }}{{- else }}"Article"{{- end }},
         "headline": {{ .Title | htmlEscape }},
         "image": [
           {{- /* Include images from the page bundle */ -}}
