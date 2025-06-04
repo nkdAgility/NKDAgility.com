@@ -21,7 +21,7 @@ headline:
     But without clear strategy, alignment, and authority—most technical leaders are stuck in reaction mode.
 sections:
   - content: |
-      **NKD Agility helps CTOs lead with confidence.** We transform you from a tactical executor to a trusted strategic advisor that your boardroom listens to—and follows.
+      **NKD Agility helps CTOs lead with confidence.** We guide technical leaders in clearly communicating strategic initiatives using data-driven insights, helping secure buy-in from the boardroom.
     type: content
   - type: outcomehero
     cta:
@@ -157,12 +157,3 @@ sections:
         text: "Schedule a call"
         url: "/book"
 ---
-
-**👑 Technical Leadership for Strategic Impact**
-
----
-
-**🎤 You Deserve to Be Heard**
-
-👉 \[Book a Free Leadership Strategy Call]
-👉 \[Download the CTO Influence & Authority Guide]
