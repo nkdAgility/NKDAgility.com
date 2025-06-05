@@ -1,9 +1,9 @@
 <div class="d-flex">
-  <div class="buttons">
+  <div class="header-buttons">
     {{ with .Params.headline.buttons }}
       {{ range . }}
         {{ $isExternal := strings.HasPrefix .link "http" }}
-        <a href="{{ if $isExternal }}{{ .link }}{{ else }}{{ (.link | urlize) | relURL }}{{ end }}" class="btn btn-sm btn-nkdagility-secondary text-nowrap" {{ if $isExternal }}target="_blank" rel="noopener"{{ end }}>
+        <a href="{{ if $isExternal }}{{ .link }}{{ else }}{{ (.link | urlize) | relURL }}{{ end }}" class="btn btn-sm btn-outline-secondary me-1 text-nowrap" {{ if $isExternal }}target="_blank" rel="noopener"{{ end }}>
           {{ if .icon }}
             <i class="{{ if .iconType }}{{ .iconType }}{{ else }}fa-regular{{ end }} {{ .icon }}"></i>
           {{ end }}

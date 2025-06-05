@@ -65,16 +65,27 @@
   background-color: var(--secondary-color) !important;
 }
 
-.resources-headline-sharebar .btn-outline-secondary {
-  background-color: var(--secondary-color) !important; /* Set white background */
+.resources-headline-sharebar .btn-outline-secondary,
+.header-buttons .btn-outline-secondary {
   color: whitesmoke !important; /* Ensure text remains secondary */
   border-color: whitesmoke !important; /* Keep the secondary border */
 }
 .resources-headline-sharebar .btn-outline-secondary:hover,
-.resources-headline-sharebar .btn-outline-secondary:focus {
-  background-color: var(--secondary-color-light) !important; /* Light gray hover effect */
+.resources-headline-sharebar .btn-outline-secondary:focus,
+.header-buttons .btn-outline-secondary:hover,
+.header-buttons .btn-outline-secondary:focus {
   color: whitesmoke !important;
   border-color: whitesmoke !important;
+}
+
+.header-buttons .btn-outline-secondary:hover,
+.header-buttons .btn-outline-secondary:focus {
+  background-color: var(--primary-color-light) !important; /* Light gray hover effect */
+}
+
+.resources-headline-sharebar .btn-outline-secondary:hover,
+.resources-headline-sharebar .btn-outline-secondary:focus {
+  background-color: var(--secondary-color-light) !important; /* Light gray hover effect */
 }
 
 @media (min-width: 1400px) {
