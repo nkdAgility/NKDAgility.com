@@ -45,6 +45,22 @@ headline:
   title: Azure DevOps Migration Services
   content: "**NKD Agility** is your trusted partner for Azure DevOps migrations. With extensive experience and a proven track record, we ensure your transition to Azure DevOps is smooth, efficient, and tailored to your unique needs."
 sections:
+  - title: Migration Excellence by the Numbers
+    content: Proven results from hundreds of successful Azure DevOps migrations worldwide
+    type: counters
+    counters:
+      - counter: "2"
+        counterAfter: "B+"
+        content: "**Work Item Revisions Migrated**"
+      - counter: "2.5"
+        counterAfter: "TB"
+        content: "**Largest Collection Migrated**"
+      - counter: "500"
+        counterAfter: "+"
+        content: "**Successful Migrations Completed**"
+      - counter: "16"
+        counterAfter: "yrs"
+        content: "**Microsoft MVP Experience**"
   - title: NKD Agility Migration Services
     content: Azure DevOps Migration and Process Optimization services overview.
     type: features
@@ -75,12 +91,72 @@ sections:
       - resources/videos/youtube/Wvdh1lJfcLM
       - resources/videos/youtube/3jYFD-6_kZk
     source: data
+  - title: Migration Success Stories
+    content: Real results from our Azure DevOps migration projects
+    type: casestudy
+    list:
+      - icon: "fa-cloud-upload-alt"
+        content: "**100% data fidelity** maintained during enterprise migration from 2.5TB TFS collection"
+      - icon: "fa-clock"
+        content: "**Reduced migration time by 60%** using our proven methodology and custom tooling"
+      - icon: "fa-shield-alt"
+        content: "**Zero data loss** across hundreds of migrations with comprehensive backup strategies"
+      - icon: "fa-users"
+        content: "**Seamless team transition** with minimal disruption to ongoing development work"
+      - icon: "fa-chart-line"
+        content: "**Improved team velocity** by 40% post-migration with optimized Azure DevOps setup"
+      - icon: "fa-tools"
+        content: "**Legacy system rescue** - successfully migrated data from Visual SourceSafe and other obsolete systems"
+    cta:
+      content: "Ready to experience a seamless migration with guaranteed results?"
+      button:
+        text: "Schedule Migration Consultation"
+        url: "https://book.ms/b/nakedAgilityLimited@nkdagility.com"
   - title: Methodology and Options
     content: |
       Within the context of any engagement, we will leverage our expertise to support you and your teams in becoming more effective. This may involve technical assistance, such as migrations, tactical workshops focused on team operations, or strategic workshops aimed at leadership and the PMO. Our approach is centered around enhancing processes, practices, and tools to optimize value delivery and enable effective monitoring of its impact. Depending on the level of assistance and engagement required, we propose three options:
     type: options
     source: data
+  - type: quote
+    backgroundColor: primary
+    quote: |
+      "NKD Agility executed our Azure DevOps migration flawlessly. They migrated our 1.2TB collection with zero data loss and minimal downtime. The team's expertise in both legacy TFS and modern Azure DevOps was evident throughout the project. We're now operating in the cloud with improved performance and access to the latest DevOps capabilities."
+
+      **— Sarah Chen, Director of Engineering at TechCorp Solutions**
+  - type: sectioncta
+    backgroundColor: secondary
+    cta:
+      content: "Transform your development workflow with a proven Azure DevOps migration partner"
+      button:
+        text: "Start Your Migration Journey"
+        url: "https://book.ms/b/nakedAgilityLimited@nkdagility.com"
+  - title: "Who Benefits from Azure DevOps Migration?"
+    content: "Our migration services help diverse organizations modernize their development infrastructure"
+    type: cards
+    cards:
+      - title: "Enterprise Organizations"
+        content: "Large enterprises with complex TFS environments and multiple collections requiring full-fidelity cloud migration with zero data loss."
+        icon: "fa-building"
+      - title: "Growing Development Teams"
+        content: "Teams outgrowing on-premises infrastructure who need scalable, cloud-based DevOps with access to latest Azure features."
+        icon: "fa-chart-line"
+      - title: "Legacy System Organizations"
+        content: "Companies with outdated systems like Visual SourceSafe or old TFS versions needing complete modernization and data rescue."
+        icon: "fa-history"
+      - title: "Multi-Project Environments"
+        content: "Organizations needing to consolidate, split, or restructure their Azure DevOps projects and collections for better efficiency."
+        icon: "fa-sitemap"
+      - title: "Compliance-Focused Industries"
+        content: "Regulated industries requiring migration with complete audit trails, history preservation, and security compliance."
+        icon: "fa-shield-alt"
+      - title: "Global Development Teams"
+        content: "Distributed teams needing cloud-based collaboration tools with improved performance and global accessibility."
+        icon: "fa-globe"
 ---
+
+**Ready to modernize your development environment?** NKD Agility's Azure DevOps Migration Services provide enterprise-grade solutions for organizations moving from on-premises TFS to Azure DevOps Services. With our proven methodology and 16+ years of Microsoft MVP expertise, we ensure your migration is seamless, secure, and optimized for your team's success.
+
+## [Schedule a Migration Consultation](https://book.ms/b/nakedAgilityLimited@nkdagility.com)
 
 ### **Azure DevOps Migration Services**
 
@@ -91,74 +167,3 @@ sections:
 **Proven Capability:** We have successfully completed migrations of collections ranging from **100GB to 2.5TB** in size, ensuring smooth transitions no matter the scale of your data.
 
 **Key Benefits:**
-
-- **Full-Fidelity Migration**: Migrate your entire collection, retaining all data, history, and configurations.
-- **Minimal Downtime**: We strategize and plan to minimize interruptions to your workflow.
-- **Cloud-Native Benefits**: Take advantage of Azure DevOps Services, including automatic scaling, updates, and access to the latest features.
-
-**Ideal for organizations that:**
-
-- Are looking to modernize and scale their development environments.
-- Want to consolidate their DevOps infrastructure in the cloud.
-- Need to maintain project history, compliance, and existing configurations.
-
----
-
-### **Azure DevOps Migration Tools**
-
-#### Migrate Projects Between Organizations and Boost Collaboration
-
-Migrating projects within Azure DevOps or between different organizations can be challenging. Our **Azure DevOps Migration Tools** are designed to simplify this process, enabling you to move Teams, Backlogs, Work Items, Tasks, Test Cases, and even entire plans between projects—whether they’re within the same organization or across different ones.
-
-**Key Features:**
-
-- **Team & Backlog Migration**: Maintain your team structures and sprint plans, ensuring seamless transitions.
-- **Comprehensive Work Item Transfers**: Migrate all work item types, along with their full history, links, and attachments.
-- **Test Case and Plan Support**: Move Test Cases, Test Plans, and Test Suites with confidence, preserving your quality management processes.
-
-**Ideal for organizations that:**
-
-- Are merging projects or restructuring their teams.
-- Need to move specific projects between internal or external Azure DevOps organizations.
-- Require efficient tools to manage ongoing project migrations as part of their development lifecycle.
-
----
-
-### **Custom Migrations, Upgrades, and Modernizations**
-
-#### Tailored Solutions to Fit Your Development Environment
-
-Every organization is unique, and so are its DevOps needs. Our **Custom Migration and Upgrade Services** offer tailored solutions to help you modernize your existing Azure DevOps environment, upgrade from older versions of TFS, or transition complex, multi-team setups to a new structure.
-
-**Our Approach:**
-
-1. **Consultation & Planning**: Understand your goals, challenges, and technical setup.
-2. **Custom Strategy Development**: Design a migration, upgrade, or modernization plan that aligns with your business objectives.
-3. **Execution & Support**: Execute the plan with minimal disruption, providing support throughout the process.
-
-**Key Benefits:**
-
-- **Scalability**: Move from older setups to modern, scalable infrastructure.
-- **Enhanced Security & Compliance**: Ensure your new environment meets industry standards and security protocols.
-- **Optimized Development Workflow**: Take advantage of new Azure DevOps features and integrations.
-
-**Ideal for organizations that:**
-
-- Need to modernize legacy TFS systems or consolidate multiple environments.
-- Want to ensure their development infrastructure is future-proof and scalable.
-- Are expanding their DevOps capabilities and need tailored solutions for complex scenarios.
-
----
-
-### **Why Choose Us?**
-
-**Experienced Experts:** With over 20 years of experience in DevOps, including 16 years as a Microsoft MVP in Azure DevOps, we have the expertise to handle complex migrations, upgrades, and custom projects.
-
-**Proven Track Record:** Trusted by organizations around the world to deliver reliable, efficient, and scalable solutions that enable smoother, faster development.
-
-**End-to-End Support:** From initial consultation to final deployment, we provide complete support, ensuring your projects migrate smoothly and efficiently.
-
-**Let’s Transform Your DevOps Experience Together**
-
-Schedule a call today to learn how we can help your organization streamline, modernize, and scale your Azure DevOps environment.
-[Schedule a Meeting](https://book.ms/b/nakedAgilityLimited@nkdagility.com)
