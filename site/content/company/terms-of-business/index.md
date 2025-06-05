@@ -48,12 +48,14 @@ You’re not buying hours. You’re retaining strategic capacity—continuous ac
 | **Engagement Level** | **%** | **\~Hours/Week** | **Typical Involvement** |
 | ------------------------ | ----- | ---------------- | --------------------------------------------------------- |
 | **Occasional** | 5% | \~1–2 hrs | Light input, async feedback, occasional check-ins |
-| **Advisory** | 25% | \~1 day | Regular reviews, pairing, shaping delivery and direction |
-| **Embedded** | 50% | \~2 days | Deep collaboration, hands-on support, stakeholder contact |
-| **Fractional Exec** | 75% | \~3 days (circa) | Transformation ownership, org-level impact |
-| **Full-time** | 100% | \~4 days (circa) | Not offered; full-time role equivalent |
+| **Advisory** | 25% | \~7 hrs | Regular reviews, pairing, shaping delivery and direction |
+| **Embedded** | 50% | \~14-16 hrs | Deep collaboration, hands-on support, stakeholder contact |
+| **Fractional Exec** | 75% | \~20-24 hr | Transformation ownership, org-level impact |
+| **Full-time** | 100% | \~32 hrs | Not offered; full-time role equivalent |
 
 {{< /table >}}
+
+The hours in the table are indicative and may vary based on the specific needs of the engagement. We focus on delivering value, not just filling time.
 
 ### Service Scope & Change Flexibility
 
