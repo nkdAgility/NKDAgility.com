@@ -1,15 +1,48 @@
 ---
 title: Should You Use One Project to Rule Them All in Azure DevOps?
+description: Explores when to use a single Azure DevOps project versus multiple projects, detailing impacts on flow, visibility, governance, and team collaboration at scale.
 date: 2025-08-25T09:00:00Z
----
+weight: 80
+slug: should-you-use-one-project-to-rule-them-all-in-azure-devops
+aliases:
+- /resources/k-kqjqSgdGx
+ResourceId: k-kqjqSgdGx
+ResourceImport: false
+ResourceType: blog
+ResourceContentOrigin: hybrid
+Watermarks:
+  description: 2025-06-06T12:34:49Z
+concepts:
+- Tool
+categories:
+- DevOps
+- Product Development
+- Engineering Excellence
+tags:
+- Azure DevOps
+- Project Management
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+- Value Delivery
+- Product Delivery
+- Agile Planning Tools
+- Application Lifecycle Management
+- Scaling
+- Large Scale Agility
+- Agile Planning
+- Agile Strategy
+- Organisational Agility
+- Team Performance
 
+---
 **Most organisations still believe that managing multiple projects means a better organisation. It doesn’t. It could just be hiding your problems or even creating them.**
 
 If you’re still using multiple team projects in Azure DevOps to represent every application, every team, or every product, you may be paying the price in fragmentation, lost observability, and poor flow. That might have made sense in TFS 2005, but it's a liability in 2025.
 
 The real path to high-performing teams? **One Project to rule them all**. One Azure DevOps Project, multiple teams, focused goals, observable flow. Scaled, not scattered.
 
-I have been advocating for [One Team Project to rule them all]({{ resource-ref "8AfjJ-2eCEV" }}) almost from the beginning with [Project of Projects with team Foundation Server 2010]({{ resource-ref "qiY3IH2aMYV"}})  and my stance has not changed, although the Azure DevOps product has a over the years.
+I have been advocating for [One Team Project to rule them all]({{< resource-ref "8AfjJ-2eCEV" >}}) almost from the beginning with [Project of Projects with team Foundation Server 2010]({{< resource-ref "qiY3IH2aMYV" >}})  and my stance has not changed, although the Azure DevOps product has a over the years.
 
 ## TL;DR;&#x20;
 
@@ -77,7 +110,8 @@ Inside Azure DevOps, while teams are a flat list, they are linked to Area paths,
 
 Here’s how it works.
 
-> ⚠️ This is going to get confusing since "Team" can mean "team of people" or the Azure DevOps construct of "Team". Im going to try and explicetly say "Azure DevOps Team" to refer to the construct and "team" to refer to a group of people. These people could be a "portfolio team", "feature team", or "delivery team".
+> [!WARNING]
+> This is going to get confusing since "Team" can mean "team of people" or the Azure DevOps construct of "Team". Im going to try and explicetly say "Azure DevOps Team" to refer to the construct and "team" to refer to a group of people. These people could be a "portfolio team", "feature team", or "delivery team".
 
 ### 1. **Use Area Paths to Represent Departments and Products**
 
@@ -99,7 +133,8 @@ MyProject
 
 If your hierarchy matches your architecture and delivery teams, you unlock real traceability. If it mirrors your reporting lines, you’ll spend your time fighting visibility gaps and access problems.
 
-> ✅ **Tip**: Use Area Paths deliberately. They are your primary tool for scoping permissions, isolating test plans, assigning build policies, and targeting dashboards. Keep them stable. Don’t reorganise on a whim.
+> [!TIP]
+> Use Area Paths deliberately. They are your primary tool for scoping permissions, isolating test plans, assigning build policies, and targeting dashboards. Keep them stable. Don’t reorganise on a whim.
 
 ### 2. Define Azure DevOps Teams with Clear Area Path Ownership
 
@@ -111,7 +146,8 @@ The key? Design the Area Path hierarchy with intent, then map each team to a spe
 - Need a **delivery team focus**? Map them to their own leaf node and exclude others.
 - Building a **Portfolio Kanban**? Use higher-level Areas with Epics and Features only—leave Backlog Items to delivery teams.
 
-> ✅ **Tip**: A work item should never appear on two boards. If it does, your setup will confuse stakeholders and erode trust.
+> [!TIP]
+> A work item should never appear on two boards. If it does, your setup will confuse stakeholders and erode trust.
 
 Here’s a common, pragmatic split:
 
@@ -124,11 +160,13 @@ This setup enables delivery teams to focus on tactical work, while leadership tr
 
 Keep Iteration Paths consistent across teams where possible. This enables consolidated reporting and facilitates shared understanding of delivery cycles.
 
-> ⚠️ When teams have different cadences within the same funding structure, it can cause friction and delays.&#x20;
+> [!WARNING]
+> When teams have different cadences within the same funding structure, it can cause friction and delays.&#x20;
 
 When Team A says that the work will be done by Sprint 23, what does that mean? If Team B is on a different candidate, then this could be their Sprint 45, or the Shared Platform Teams Sprint 3.  A balance of autonomy and alignment is important when lots of folks are working together in the same value stream.
 
-> ✅ **Tip**: Choose a cadence for review and delivery that aligns with the business needs, stakeholder engagement cadence, and the effective planning horizon. Regardless of the delivery team's chosen process, everyone inspects and adapts at least on that cadence.
+> [!TIP]
+> Choose a cadence for review and delivery that aligns with the business needs, stakeholder engagement cadence, and the effective planning horizon. Regardless of the delivery team's chosen process, everyone inspects and adapts at least on that cadence.
 
 If you must deviate (e.g. teams with different Sprint lengths), isolate only the differing branches.
 
@@ -143,7 +181,8 @@ One of the most common justifications for multiple team projects is “security.
 
 You can grant fine-grained access control to individual teams, stakeholders, or systems without fragmenting your project into unmanageable silos.
 
-> ✅ **Tip**: Use Azure DevOps Groups that contain Enta ID groups to maintain flexability and clarity
+> [!TIP]
+> Use Azure DevOps Groups that contain Enta ID groups to maintain flexability and clarity
 
 ## What About Reporting?
 
@@ -161,7 +200,8 @@ And when you need more:
 - **Portfolio++** provides rich roadmap and status visualisations that work across queries, teams, and even projects.
 - **ActionableAgile** brings deep flow metrics—cycle time scatterplots, throughput charts, WIP ageing—directly into your Azure DevOps instance.
 
-> ✅ **Tip**: Reporting doesn’t just inform—it aligns. A unified project gives you shared truth. Every extra project boundary erodes that.
+> [!TIP]
+> Reporting doesn’t just inform—it aligns. A unified project gives you shared truth. Every extra project boundary erodes that.
 
 ## Final Word: Optimise for Flow, Not Structure
 
@@ -186,8 +226,8 @@ It's clear that everyone refers to things within Azure DevOps differently, and n
 - **Value Board** - visualisation of the flow of value at a particular backlog level. This is just called "Board" in Azure DevOps, but I wanted to make my distinction clearer.
 - **Task Board** - visualisation of tasks within value represented as value pinned to the left, and sub-tasks flow across the board.
 
-## Refere[nces](https://learn.microsoft.com/en-us/azure/devops/organizations/projects/about-projects?view=azure-devops)
+## References
 
-- [About projects and scaling your organization - Azure DevOps | Microsoft L](https://learn.microsoft.com/en-us/azure/devops/organizations/projects/about-projects?view=azure-devops)[earn](https://learn.microsoft.com/en-us/devops/plan/scaling-agile)
-- [Scaling Agile to large teams - Azure DevOps | Microsoft L](https://learn.microsoft.com/en-us/devops/plan/scaling-agile)[earn](https://learn.microsoft.com/en-us/azure/devops/user-guide/plan-your-azure-devops-org-structure?view=azure-devops#how-many-projects-do-you-need)
+- [About projects and scaling your organization - Azure DevOps | Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/organizations/projects/about-projects?view=azure-devops)
+- [Scaling Agile to large teams - Azure DevOps | Microsoft Learn](https://learn.microsoft.com/en-us/devops/plan/scaling-agile)
 - [Plan your organizational structure - Azure DevOps | Microsoft Learn](https://learn.microsoft.com/en-us/azure/devops/user-guide/plan-your-azure-devops-org-structure?view=azure-devops#how-many-projects-do-you-need)
