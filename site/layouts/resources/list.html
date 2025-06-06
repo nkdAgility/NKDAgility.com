@@ -10,7 +10,7 @@
 {{- end }}
 
 {{- define "main" }}
-  {{ $ResourceTypes := .Params.ResourceTypes }}
+  {{ $ResourceTypeFilter := .Params.ResourceType }}
   <section class="container my-2">
     {{- $resources := .Site.GetPage "section" "resources" }}
     {{- $sortedPages := sort $resources.Pages ".Pages" "desc" }}
@@ -31,8 +31,8 @@
           <div class="m-1">
             {{ $futureResources := where (where .Site.RegularPages "Type" "resources") "Date" "ge" now }}
             {{ $futureResources := sort $futureResources "Date" "desc"}}
-            {{ if .Params.ResourceTypes }}
-              {{ $futureResources = where $futureResources "Params.ResourceType" .Params.ResourceType }}
+            {{ if $ResourceTypeFilter }}
+              {{ $futureResources = where $futureResources "Params.ResourceType" $ResourceTypeFilter }}
             {{ end }}
             <h5>Future ({{ len $futureResources }})</h5>
             <div class="columns-2">
@@ -52,11 +52,11 @@
         {{- end }}
         
         {{ $resources := where (where .Site.RegularPages "Type" "resources") "Date" "le" now }}
-         {{ if ne .Params.ResourceTypes "signals" }}
+         {{ if ne $ResourceTypeFilter "signals" }}
          {{ $resources = where $resources "Params.ResourceType" "ne" "signals" }}
         {{ end }}
-        {{ if .Params.ResourceTypes }}
-          {{ $resources = where $resources "Params.ResourceType" .Params.ResourceType }}
+        {{ if $ResourceTypeFilter }}
+          {{ $resources = where $resources "Params.ResourceType" $ResourceTypeFilter }}
         {{ end }}
         <div class="m-1">
           <h5>Most recent content</h5>
@@ -89,11 +89,11 @@
         </div>
          <div class="m-1 small">
           <h5>Concepts</h5>
-          <div class="columns-4">
+          <div class="columns-4"> 
             {{ range $category, $pages := .Site.Taxonomies.concepts }}
               {{- $items := where $pages "Draft" "!=" true -}}
-              {{- if $ResourceTypes }}
-                {{- $items = where $items "Params.ResourceType" $ResourceTypes -}}
+              {{- if $ResourceTypeFilter }}
+                {{- $items = where $items "Params.ResourceType" $ResourceTypeFilter -}}
               {{- end }}
               {{- $count := len ($items) -}}
               {{- if gt $count 0 }}
@@ -113,8 +113,8 @@
           <div class="columns-4">
             {{ range $category, $pages := .Site.Taxonomies.categories }}
               {{- $items := where $pages "Draft" "!=" true -}}
-              {{- if $ResourceTypes }}
-                {{- $items = where $items "Params.ResourceType" "in" $ResourceTypes -}}
+              {{- if $ResourceTypeFilter }}
+                {{- $items = where $items "Params.ResourceType" "in" $ResourceTypeFilter -}}
               {{- end }}
               {{- $count := len ($items) -}}
               {{- if gt $count 0 }}
@@ -134,8 +134,8 @@
           <div class="columns-4">
             {{ range $category, $pages := .Site.Taxonomies.tags }}
               {{- $items := where $pages "Draft" "!=" true -}}
-              {{- if $ResourceTypes }}
-                {{- $items = where $items "Params.ResourceType" $ResourceTypes -}}
+              {{- if $ResourceTypeFilter }}
+                {{- $items = where $items "Params.ResourceType" $ResourceTypeFilter -}}
               {{- end }}
               {{- $count := len ($items) -}}
               {{- if gt $count 0 }}
