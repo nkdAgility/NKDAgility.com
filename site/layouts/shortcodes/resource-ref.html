@@ -1,0 +1,25 @@
+{{- $resourceId := .Get 0 -}}
+{{- $page := "" -}}
+{{- range site.Pages -}}
+  {{- if eq .Params.ResourceId $resourceId -}}
+    {{- $page = . -}}
+    {{- break -}}
+  {{- end -}}
+{{- end -}}
+{{- if and $page (not $page.Draft) -}}
+  {{- if lt $page.PublishDate now -}}
+    {{- $page.RelPermalink -}}
+  {{- else -}}
+    {{- if eq hugo.Environment "production" -}}
+      {{- $page.RelPermalink -}}
+    {{- else -}}
+      {{- printf "https://preview.nkdagility.com/resources/%s" $resourceId -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- if ne hugo.Environment "production" -}}
+    {{- printf "https://preview.nkdagility.com/resources/%s" $resourceId -}}
+  {{- else -}}
+    {{- "" -}}
+  {{- end -}}
+{{- end -}}
