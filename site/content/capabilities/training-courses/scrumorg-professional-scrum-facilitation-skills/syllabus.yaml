@@ -1,0 +1,146 @@
+syllabusBefore: []
+
+syllabus:
+- id: 1
+  title: "Introduction and Setting the Stage"
+  duration: 120
+  content: "Participants will experience facilitation techniques firsthand while establishing a safe learning environment through co-created working agreements and interactive icebreakers, setting the foundation for collaborative learning throughout the course."
+  learningResources:
+  - title: "What is Facilitation?"
+    link: "https://www.scrum.org/resources/what-facilitation"
+    duration: 10
+    type: blog
+    weight: 1
+  - title: "Facilitation Techniques for Creating a Healthy Space, Consensus and Collaboration"
+    link: "https://www.scrum.org/resources/blog/facilitation-techniques-creating-healthy-space-consensus-and-collaboration"
+    duration: 15
+    type: blog
+    weight: 2
+  - title: "In-Depth: How To Create Better Work Agreements For Your Team"
+    link: "https://www.scrum.org/resources/blog/depth-how-create-better-work-agreements-your-team"
+    duration: 12
+    type: blog
+    weight: 3
+  - title: "Worst Possible Idea"
+    link: "https://www.scrum.org/resources/worst-possible-idea"
+    duration: 8
+    type: guide
+    weight: 4
+  assignment:
+    title: "Create a Safe Environment Practice"
+    content: |
+      Practice establishing psychological safety in your next team interaction by co-creating a working agreement or team charter.
+    examples: |
+      - Facilitate a session with your team to establish ground rules for meetings
+      - Lead a working agreement creation exercise for a new project kickoff
+      - Modify an existing team charter to include psychological safety elements
+      - Practice the "Introduction Carousel" icebreaker technique with colleagues
+
+- id: 2
+  title: "Facilitation Principles and Scrum"
+  duration: 120
+  content: "Participants will collaboratively define great facilitation, explore core facilitation principles (Participatory, Healthy conflict, Transparency, Process focus, and Purposeful), and learn to apply these principles to Scrum events while understanding the facilitator's role in supporting team dynamics."
+  learningResources:
+  - title: "Why is Facilitation Beneficial for Scrum Teams?"
+    link: "https://www.scrum.org/resources/blog/why-facilitation-beneficial-scrum-teams"
+    duration: 12
+    type: blog
+    weight: 1
+  - title: "Facilitation Techniques for Scrum Events"
+    link: "https://www.scrum.org/resources/facilitation-techniques-scrum-events"
+    duration: 20
+    type: guide
+    weight: 2
+  - title: "Scrum Requires Psychological Safety"
+    link: "https://www.scrum.org/resources/blog/scrum-requires-psychological-safety"
+    duration: 15
+    type: blog
+    weight: 3
+  - title: "The Scrum Guide - Scrum Values and Events sections"
+    link: "https://scrumguides.org/scrum-guide.html"
+    duration: 25
+    type: guide
+    weight: 4
+  assignment:
+    title: "Scrum Event Assessment and Improvement"
+    content: |
+      Choose one Scrum event in your organization and assess it using the five facilitation principles. Create an improvement plan based on your observations.
+    examples: |
+      - Observe a Daily Scrum and identify which facilitation principles are missing or weak
+      - Assess a Sprint Retrospective for participatory decision-making opportunities
+      - Evaluate a Sprint Planning session for transparency and process focus
+      - Create a facilitation plan for an upcoming Sprint Review
+      - Document "signals" that indicate when facilitation is needed in your team's events
+
+- id: 3
+  title: "Applying Facilitation Skills and Techniques"
+  duration: 120
+  content: "Participants will develop core facilitation skills, practice inclusive techniques like the White Elephant method, understand divergent and convergent thinking concepts, and learn to navigate the challenging \"Groan Zone\" while managing diverse team dynamics effectively."
+  learningResources:
+  - title: "Trumpeting For All Voices to be Heard with White Elephant – Facilitating for Participation"
+    link: "https://www.scrum.org/resources/blog/trumpeting-all-voices-be-heard-white-elephant-facilitating-participation"
+    duration: 10
+    type: blog
+    weight: 1
+  - title: "Recognize the Groan Zone (Video)"
+    link: "https://www.scrum.org/resources/recognize-groan-zone-video"
+    duration: 8
+    type: video
+    weight: 2
+  - title: "Facilitating Diverse Perspectives in Scrum Teams (Video)"
+    link: "https://www.scrum.org/resources/facilitating-diverse-perspectives-scrum-teams-video"
+    duration: 12
+    type: video
+    weight: 3
+  - title: "Addressing The Elephant: And Why Most Conflicts in Teams Are Invisible"
+    link: "https://www.scrum.org/resources/blog/addressing-elephant-and-why-most-conflicts-teams-are-invisible"
+    duration: 15
+    type: blog
+    weight: 4
+  assignment:
+    title: "Facilitation Technique Practice"
+    content: |
+      Practice using the White Elephant technique or another inclusive facilitation method in a real team scenario. Observe and document the results.
+    examples: |
+      - Use White Elephant technique for prioritizing team backlog items or impediments
+      - Facilitate a divergent thinking session (brainstorming) followed by convergent thinking (prioritization)
+      - Practice navigating through a "groan zone" moment in a team discussion
+      - Apply active listening techniques during a team conflict resolution session
+      - Use structured methods to ensure all voices are heard in a team decision
+
+- id: 4
+  title: "Improving Facilitation Skills and Course Wrap-up"
+  duration: 120
+  content: "Participants will create personal improvement plans for continuing their facilitation journey, commit to specific practice goals, and reflect on their learning through facilitated closing activities that reinforce the importance of ongoing skill development."
+  learningResources:
+  - title: "Uncovering the Essentials of Skilled Facilitation for Agile Teams"
+    link: "https://www.scrum.org/resources/blog/uncovering-essentials-skilled-facilitation-agile-teams"
+    duration: 12
+    type: blog
+    weight: 1
+  - title: "How to Facilitate Difficult Scrum Team Conversations"
+    link: "https://www.scrum.org/resources/blog/how-facilitate-difficult-scrum-team-conversations"
+    duration: 15
+    type: blog
+    weight: 2
+  - title: "Improve Your Scrum Events with a Facilitator Guide"
+    link: "https://www.scrum.org/resources/blog/improve-your-scrum-events-facilitator-guide"
+    duration: 10
+    type: blog
+    weight: 3
+  - title: "The Importance of Facilitation Skills on the Scrum Team"
+    link: "https://www.scrum.org/resources/importance-facilitation-skills-scrum-team"
+    duration: 18
+    type: guide
+    weight: 4
+  assignment:
+    title: "Personal Facilitation Development Plan"
+    content: |
+      Create a comprehensive personal development plan for improving your facilitation skills over the next 3 months. Include specific goals, techniques to practice, and methods for gathering feedback.
+    examples: |
+      - Set SMART goals for facilitating specific Scrum events in the next sprint
+      - Identify 2-3 facilitation techniques you want to master and create practice opportunities
+      - Establish a feedback mechanism with team members or colleagues
+      - Plan to facilitate at least one difficult conversation using techniques learned
+      - Commit to reading one facilitation resource per month and applying new insights
+      - Schedule regular self-reflection sessions to assess your facilitation growth
