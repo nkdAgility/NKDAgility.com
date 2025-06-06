@@ -17,7 +17,7 @@
     {{- end -}}
   {{- end -}}
 {{- else -}}
-  {{- if and (ne hugo.Environment "production") (regexMatch "^[a-zA-Z0-9_-]{8,15}$" $resourceId) -}}
+  {{- if ne hugo.Environment "production" -}}
     {{- printf "https://preview.nkdagility.com/resources/%s" $resourceId -}}
   {{- else -}}
     {{- "" -}}
