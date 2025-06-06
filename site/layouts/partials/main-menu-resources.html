@@ -14,7 +14,10 @@
             <ul class="list-group">
               <li class="list-group-item"><a href="/resources">Overview </a></li>
               {{- range $sortedPages }}
-                <li class="list-group-item"><a href="{{- .Permalink }}">{{- .Params.shorttitle }} </a> <span class="ms-1">({{- $count }})</span></li>
+                {{- $count :=  .Pages }}
+                {{- if gt $count 0 }}
+                  <li class="list-group-item"><a href="{{- .Permalink }}">{{- .Params.shorttitle }} </a> <span class="ms-1">({{- $count }})</span></li>
+                {{- end }}
               {{- end }}
             </ul>
           </div>
