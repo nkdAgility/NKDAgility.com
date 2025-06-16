@@ -66,7 +66,7 @@
             {{ range $recent }}
               <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}{{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}{{ end }}">
                 {{- partial "components/resources/resource-icon.html" . }}
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <a href="{{ .RelPermalink }}">{{if .Params.short_title }}{{ .Params.short_title }}{{else}}{{ .Title }}{{end}}</a>
               </div>
               {{/*  <p>{{ .Description }}</p>  */}}
             {{ end }}
@@ -80,7 +80,7 @@
             {{ range first 20 $resources.ByWeight }}
               <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}">
                 {{- partial "components/resources/resource-icon.html" . }}
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <a href="{{ .RelPermalink }}">{{if .Params.short_title }}{{ .Params.short_title }}{{else}}{{ .Title }}{{end}}</a>
               </div>
               {{/*  <p>{{ .Description }}</p>  */}}
             {{ end }}
