@@ -51,12 +51,12 @@
    Using OpenDyslexic font for improved readability:
    - Designed specifically for dyslexic readers
    - Unique character shapes to reduce confusion
-   - Enhanced letter spacing and line height
+   - Balanced spacing for optimal readability
 */
 .text-font-dyslexic {
   font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
-  letter-spacing: 0.05em !important;
-  line-height: 1.6 !important;
+  letter-spacing: 0.02em !important;
+  line-height: 1.5 !important;
 }
 
 .text-font-dyslexic h1,
@@ -66,25 +66,20 @@
 .text-font-dyslexic h5,
 .text-font-dyslexic h6 {
   font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
-  letter-spacing: 0.03em !important;
+  letter-spacing: 0.01em !important;
 }
 
 .text-font-dyslexic p,
 .text-font-dyslexic .card-text,
 .text-font-dyslexic .list-group-item {
   font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
-  letter-spacing: 0.05em !important;
-  line-height: 1.6 !important;
+  letter-spacing: 0.02em !important;
+  line-height: 1.5 !important;
 }
 
 .text-font-dyslexic .btn {
   font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
-  letter-spacing: 0.03em !important;
-}
-
-/* Improve readability for dyslexic users */
-.text-font-dyslexic {
-  word-spacing: 0.1em !important;
+  letter-spacing: 0.01em !important;
 }
 
 /* Lexend font option - Google Font optimized for reading proficiency */
@@ -182,4 +177,18 @@
 [data-theme="dark"] .theme-option span,
 [data-theme="dark"] .text-font-option span {
   color: var(--dark-text-color) !important;
+}
+
+/* Left align font options in dropdown */
+.text-font-option,
+.theme-option {
+  text-align: left !important;
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+.text-font-option span,
+.theme-option span {
+  text-align: left !important;
 }
