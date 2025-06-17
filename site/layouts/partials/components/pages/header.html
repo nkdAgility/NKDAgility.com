@@ -1,13 +1,13 @@
 <div>
   <div class="row">
-    <div class="col-12 col-xl-10">
+    <div class="col-12 col-xl-9">
       {{ if eq .Type "resources" }}
         {{- partial "components/resources/resourceType.html" . }}
       {{ else }}
         {{- partial "components/pages/header-classifications.html" . }}
       {{ end }}
     </div>
-    <div class="col-xl-2 d-none d-xl-flex justify-content-end align-items-center text-nowrap">
+    <div class="col-xl-3 d-none d-xl-flex justify-content-end align-items-center text-nowrap">
       {{ if eq .Type "resources" }}
         <h4 title="Agentic Agility">a·gen·tic a·gil·i·ty</h4>
       {{ else }}
@@ -38,9 +38,9 @@
       <div class="position-relative">
         {{ if eq .Type "resources" }}
           {{ $ResourceType := .Params.ResourceType | default "default" }}
-          <img src="/images/logo-{{ .Section }}-{{ $ResourceType }}.png" style="max-width: 300px;" />
+          <img class="header-logo" src="/images/logo-{{ .Section }}-{{ $ResourceType }}.png" style="max-width: 300px;" />
         {{ else }}
-          <img src="/images/logo-{{ .Section }}.png" style="max-width: 300px;" />
+          <img class="header-logo" src="/images/logo-{{ .Section }}.png" style="max-width: 300px;" />
         {{ end }}
         <img src="/images/nkdagility-with-martin-hinshelwood-dark-300px.png" alt="Image" class="position-absolute top-0 end-0" style="width: 100px; height: auto;" />
       </div>

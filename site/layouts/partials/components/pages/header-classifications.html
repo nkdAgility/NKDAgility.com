@@ -8,14 +8,14 @@
   <div class="categories">
     {{ with .Params.concepts }}
       {{ range . }}
-        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-accent-alt me-1") }}
+        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-accent-alt m-1") }}
       {{ end }}
     {{ end }}
   </div>
   <div class="categories">
     {{ with .Params.categories }}
       {{ range . }}
-        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-secondary me-1") }}
+        {{ partial "components/classifications/tag-button.html" (dict "term" . "jsonData" $jsonData "buttonClass" "btn btn-sm btn-nkdagility-secondary m-1") }}
       {{ end }}
     {{ end }}
   </div>

@@ -1,11 +1,11 @@
 {{- define "headline" }}
   <section class="container-fluid resources-headline py-md-4">
-    <section class="container my-2" style="max-width: 900px !important">
+    <section class="container my-2 container-heading">
       {{- partial "components/pages/header.html" . }}
     </section>
   </section>
   <section class="container-fluid resources-headline-sharebar">
-    <section class="container" style="max-width: 900px !important">{{- partial "components/resources/share-bar.html" . }}</section>
+    <section class="container container-heading">{{- partial "components/resources/share-bar.html" . }}</section>
   </section>
 {{- end }}
 
@@ -13,7 +13,7 @@
 
   <!-- Change this date as needed -->
   {{ if .Params.AudioNative }}
-    <section class="container my-5" style="max-width: 700px !important">
+    <section class="container my-5  container-content">
       {{- if ne hugo.Environment "production" }}
         <div>RENDER AUDIO NATIVE from Eleven Labs (Production only)</div>
         <div>AudioNative: {{ .Params.AudioNative }}</div>
@@ -25,11 +25,11 @@
   {{ end }}
 
 
-  <section class="container my-5 content" style="max-width: 700px !important">
+  <section class="container my-5 content container-content">
     {{- .Content }}
   </section>
 
-  <section class="container my-5 content" style="max-width: 700px !important">
+  <section class="container my-5 content  container-content">
     {{ with .Params.platform_signals }}
       <strong>Also published on:</strong>
       {{ $now := now }}
@@ -52,7 +52,7 @@
     {{ end }}
   </section>
 
-  <section class="container my-5" style="max-width: 700px !important">
+  <section class="container my-5  container-content">
     <ul class="nav nav-tabs" id="myTab" role="tablist">
       {{ with .Params.platform_signals }}
         {{ $nonCrossports := where . "post_type" "ne" "crosspost" }}
@@ -107,22 +107,22 @@
     </div>
   </section>
 
-  <section class="container my-5" style="max-width: 700px !important">
+  <section class="container my-5 container-content-wide">
     {{- partial "components/resources/tag-cloud.html" . }}
   </section>
 
-  <section class="container my-5" style="max-width: 900px !important">
+  <section class="container my-5  container-content-wide">
     {{- partial "components/resources/share-bar.html" . }}
   </section>
-  <section class="container my-5 p-2" style="max-width: 700px !important">
+  <section class="container my-5 p-2  container-content-wide">
     {{- partial "components/resources/comments.html" . }}
   </section>
 
-  <section class="container my-5 p-2" style="max-width: 700px !important">
+  <section class="container my-5 p-2  container-content-wide">
     {{- partial "components/resources/related.html" (dict "Page" . "resourceType" "blog") }}
   </section>
 
-  <section class="container my-5 p-2" style="max-width: 700px !important">
+  <section class="container my-5 p-2  container-content-wide">
     {{- partial "related-videos.html" . }}
   </section>
 {{- end }}
