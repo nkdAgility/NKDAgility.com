@@ -1,13 +1,13 @@
 <div>
   <div class="row">
-    <div class="col-12 col-xl-10">
+    <div class="col-12 col-xl-9">
       {{ if eq .Type "resources" }}
         {{- partial "components/resources/resourceType.html" . }}
       {{ else }}
         {{- partial "components/pages/header-classifications.html" . }}
       {{ end }}
     </div>
-    <div class="col-xl-2 d-none d-xl-flex justify-content-end align-items-center text-nowrap">
+    <div class="col-xl-3 d-none d-xl-flex justify-content-end align-items-center text-nowrap">
       {{ if eq .Type "resources" }}
         <h4 title="Agentic Agility">a·gen·tic a·gil·i·ty</h4>
       {{ else }}
