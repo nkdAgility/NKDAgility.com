@@ -48,7 +48,7 @@
 
                     <li class="nav-item">
                       <a class="nav-link p-0" href="{{ .Permalink }}" title="{{ .Params.card.title }} - {{ .Params.card.content | plainify }}">
-                        <small><i class="fa-light fa-chevron-right pe-1"></i>{{- if .Params.shorttitle }}{{- .Params.shorttitle }}{{- else }}{{- .Title }}{{- end }}</small>
+                        <small><i class="fa-light fa-chevron-right pe-1"></i>{{- if .Params.short_title }}{{- .Params.short_title }}{{- else }}{{- .Title }}{{- end }}</small>
                       </a>
                     </li>
                   {{- end }}
@@ -69,7 +69,7 @@
             {{- range first 5 $contentPages }}
               <li class="nav-item">
                 <a class="nav-link p-0" href="{{ .Permalink }}" title="{{ .Params.card.title }} - {{ .Params.card.content | plainify }}">
-                  <small><i class="fa-light fa-chevron-right pe-1"></i>{{- if .Params.shorttitle }}{{- .Params.shorttitle }}{{- else }}{{- .Title }}{{- end }}</small>
+                  <small><i class="fa-light fa-chevron-right pe-1"></i>{{- if .Params.short_title }}{{- .Params.short_title }}{{- else }}{{- .Title }}{{- end }}</small>
                 </a>
               </li>
             {{- end }}
@@ -90,7 +90,7 @@
             {{ range first 5  (where .Site.RegularPages.ByWeight "Type" "mentor-program") }}
               <li class="nav-item">
                 <a class="nav-link p-0" href="{{ .RelPermalink }}" title="{{ .Params.card.title }} - {{ .Params.card.content | plainify }}">
-                  <small><i class="fa-light fa-chevron-right pe-1"></i>{{- if .Params.shorttitle }}{{- .Params.shorttitle }}{{- else }}{{- .Title }}{{- end }}</small>
+                  <small><i class="fa-light fa-chevron-right pe-1"></i>{{- if .Params.short_title }}{{- .Params.short_title }}{{- else }}{{- .Title }}{{- end }}</small>
                 </a>
               </li>
             {{ end }}
@@ -103,7 +103,7 @@
             {{ range $terms }}
               <li class="nav-item">
                 <small
-                  ><a class="nav-link p-0" href="{{ .Page.RelPermalink }}"><i class="fa-light fa-chevron-right pe-1"></i> {{- if .Page.Params.shorttitle }}{{- .Page.Params.shorttitle }}{{- else }}{{- .Page.Title }}{{- end }}</a></small
+                  ><a class="nav-link p-0" href="{{ .Page.RelPermalink }}"><i class="fa-light fa-chevron-right pe-1"></i> {{- if .Page.Params.short_title }}{{- .Page.Params.short_title }}{{- else }}{{- .Page.Title }}{{- end }}</a></small
                 >
               </li>
             {{ end }}

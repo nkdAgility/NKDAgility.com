@@ -21,7 +21,7 @@
           {{- range $sortedPages }}
             {{- $count :=  len (where .Pages "Draft" "!=" true) }}
             {{- if gt $count 0 }}
-              <li class="list-group-item"><a href="{{- .Permalink }}">{{- .Params.shorttitle }} </a> <span class="ms-1">({{- $count }})</span></li>
+              <li class="list-group-item"><a href="{{- .Permalink }}">{{- .Params.short_title }} </a> <span class="ms-1">({{- $count }})</span></li>
             {{- end }}
           {{- end }}
         </ul>
