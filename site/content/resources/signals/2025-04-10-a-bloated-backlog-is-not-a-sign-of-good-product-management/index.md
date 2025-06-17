@@ -3,12 +3,12 @@ title: A bloated backlog is not a sign of good product management
 description: A cluttered backlog signals poor product management, causing confusion and lost focus. Keep backlogs lean to highlight priorities and drive valuable, actionable work.
 date: 2025-04-10T15:30:07+01:00
 weight: 650
-slug: a-bloated-backlog-is-not-a-sign-of-good-product-management
-aliases:
-- /resources/gcu0w2Xq7sm
 ResourceId: gcu0w2Xq7sm
 ResourceImport: false
 ResourceType: signals
+slug: a-bloated-backlog-is-not-a-sign-of-good-product-management
+aliases:
+- /resources/gcu0w2Xq7sm
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

@@ -2,15 +2,15 @@
 title: When you scale Scrum, the challenge isn’t just delivery—it coherence
 description: Explains how scaling Scrum requires UX coherence through Communities of Practice, shared frameworks, and collaboration—not central control—to ensure consistency without bottlenecks.
 date: 2025-05-27T15:30:33+01:00
-weight: 1000
-slug: when-you-scale-scrum-the-challenge-isn-t-just-delivery-it-coherence
-aliases:
-- /resources/eGzb1hJRtoc
+weight: 415
 ResourceId: eGzb1hJRtoc
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
+slug: when-you-scale-scrum-the-challenge-isn-t-just-delivery-it-coherence
+aliases:
+- /resources/eGzb1hJRtoc
 layout: signal
+ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:
@@ -26,10 +26,16 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:45Z
-concepts: []
+concepts:
+- Framework
 categories:
-- Uncategorized
-tags: []
+- Scrum
+tags:
+- Social Technologies
+- Scaling
+- Self Organisation
+- Professional Scrum
+- Agile Product Management
 
 ---
 When you scale Scrum, the challenge isn’t just delivery—it’s coherence. UX is a great example. Left unchecked, each team reinvents the wheel, creates inconsistent interactions, and loses alignment.

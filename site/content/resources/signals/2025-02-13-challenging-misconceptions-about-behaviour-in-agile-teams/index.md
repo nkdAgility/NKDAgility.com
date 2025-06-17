@@ -3,12 +3,12 @@ title: Challenging Misconceptions About Behaviour in Agile Teams
 description: Explores common misconceptions about Agile teams, clarifying that true agility demands discipline, planning, and professionalism—not chaos or lack of accountability.
 date: 2025-02-13T16:30:02+00:00
 weight: 380
-slug: challenging-misconceptions-about-behaviour-in-agile-teams
-aliases:
-- /resources/lVebZgXa1DP
 ResourceId: lVebZgXa1DP
 ResourceImport: false
 ResourceType: signals
+slug: challenging-misconceptions-about-behaviour-in-agile-teams
+aliases:
+- /resources/lVebZgXa1DP
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

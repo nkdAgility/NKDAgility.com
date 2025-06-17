@@ -3,12 +3,12 @@ title: 'Scrum Masters: Enabling Teams, Fostering Agility, Removing Blockers'
 description: Explains the Scrum Master's role in ensuring team delivery by fostering agility, removing blockers, and being accountable for improving team effectiveness each sprint.
 date: 2025-03-05T16:30:00+00:00
 weight: 345
-slug: scrum-masters-enabling-teams-fostering-agility-removing-blockers
-aliases:
-- /resources/IrDYI5d-kXv
 ResourceId: IrDYI5d-kXv
 ResourceImport: false
 ResourceType: signals
+slug: scrum-masters-enabling-teams-fostering-agility-removing-blockers
+aliases:
+- /resources/IrDYI5d-kXv
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

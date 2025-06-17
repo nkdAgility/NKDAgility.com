@@ -3,12 +3,12 @@ title: Everyone loves the idea of self-managing teams
 description: Explains how self-managing teams thrive with autonomy balanced by structure, highlighting the need for clear goals, accountability, and alignment within frameworks like Scrum.
 date: 2025-03-18T09:51:08+00:00
 weight: 415
-slug: everyone-loves-the-idea-of-self-managing-teams
-aliases:
-- /resources/xETx_jwnIHO
 ResourceId: xETx_jwnIHO
 ResourceImport: false
 ResourceType: signals
+slug: everyone-loves-the-idea-of-self-managing-teams
+aliases:
+- /resources/xETx_jwnIHO
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

@@ -2,36 +2,52 @@
 title: Why Frameworks Alone will-not Transform Your Team Culture
 description: Explains why frameworks alone can't shift team culture, emphasizing clear vision, leadership commitment, and empowering teams to drive meaningful organizational change.
 date: 2025-05-28T15:30:50+01:00
-weight: 1000
-slug: why-frameworks-alone-will-not-transform-your-team-culture
-aliases:
-- /resources/xUJ6VvudvJx
+weight: 480
 ResourceId: xUJ6VvudvJx
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
+slug: why-frameworks-alone-will-not-transform-your-team-culture
+aliases:
+  - /resources/xUJ6VvudvJx
 layout: signal
-draft: true
+ResourceContentOrigin: human
 source: LinkedIn
 platform_signals:
-- platform: LinkedIn
-  post_url: https://www.linkedin.com/feed/update/urn:li:share:7333515101389455360
-  post_id: "7333515101389455360"
-  post_date: 2025-05-28T14:30:50Z
-  performance:
-    impressions: 0
-    members_reached: 0
-    reactions: 0
-    comments: 0
-    reposts: 0
+  - platform: LinkedIn
+    post_url: https://www.linkedin.com/feed/update/urn:li:share:7333515101389455360
+    post_id: "7333515101389455360"
+    post_date: 2025-05-28T14:30:50Z
+    performance:
+      impressions: 0
+      members_reached: 0
+      reactions: 0
+      comments: 0
+      reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:42Z
-concepts: []
+concepts:
+  - Philosophy
 categories:
-- Uncategorized
-tags: []
-
+  - Leadership
+  - Technical Leadership
+tags:
+  - Organisational Culture
+  - Change Management
+  - Organisational Change
+  - Agile Philosophy
+  - Agile Strategy
+  - Sociotechnical Systems
+  - Agile Leadership
+  - Organisational Agility
+  - Beta Codex
+  - Social Technologies
+  - Agile Transformation
+  - Business Agility
+  - Pragmatic Thinking
+  - Team Motivation
+  - Enterprise Agility
 ---
+
 If you're waiting for a framework to shift your culture, you're already on the wrong path.
 
 The biggest obstacle to change isn’t lack of knowledge—it’s inertia. The culture and process you already have are your biggest constraints.

@@ -3,12 +3,12 @@ title: You don’t own your market
 description: Explains why businesses must prioritise customer needs and agility to stay relevant, avoid missed opportunities, and remain competitive in a rapidly changing market.
 date: 2025-04-18T15:30:32+01:00
 weight: 725
-slug: you-don-t-own-your-market
-aliases:
-- /resources/X-J3sV7w7mU
 ResourceId: X-J3sV7w7mU
 ResourceImport: false
 ResourceType: signals
+slug: you-don-t-own-your-market
+aliases:
+- /resources/X-J3sV7w7mU
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

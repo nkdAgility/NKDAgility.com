@@ -3,12 +3,12 @@ title: Measuring Worker Speed in Manufacturing Plant Operations
 description: Measuring individual worker speed in manufacturing or knowledge work can create bottlenecks; true efficiency comes from improving the whole system, not just individuals.
 date: 2025-03-11T16:30:01+00:00
 weight: 705
-slug: measuring-worker-speed-in-manufacturing-plant-operations
-aliases:
-- /resources/QnAOVFfFPpx
 ResourceId: QnAOVFfFPpx
 ResourceImport: false
 ResourceType: signals
+slug: measuring-worker-speed-in-manufacturing-plant-operations
+aliases:
+- /resources/QnAOVFfFPpx
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

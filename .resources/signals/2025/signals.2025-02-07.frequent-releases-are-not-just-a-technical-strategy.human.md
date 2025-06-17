@@ -3,12 +3,12 @@ title: Frequent releases are not just a technical strategy
 description: Frequent software releases reduce risk, enable faster feedback, and help teams adapt to user needs, preventing costly mistakes and improving overall performance.
 date: 2025-02-07T16:30:01+00:00
 weight: 300
-slug: frequent-releases-are-not-just-a-technical-strategy
-aliases:
-- /resources/_o_vjO--kSl
 ResourceId: _o_vjO--kSl
 ResourceImport: false
 ResourceType: signals
+slug: frequent-releases-are-not-just-a-technical-strategy
+aliases:
+- /resources/_o_vjO--kSl
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

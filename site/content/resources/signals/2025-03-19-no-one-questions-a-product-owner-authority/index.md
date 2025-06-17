@@ -3,12 +3,12 @@ title: No one questions a Product Owner authority
 description: Explores why Product Owners’ authority is accepted while Scrum Masters’ is questioned, highlighting the need for clear authority to ensure team effectiveness and agile success.
 date: 2025-03-19T16:30:30+00:00
 weight: 420
-slug: no-one-questions-a-product-owner-authority
-aliases:
-- /resources/T6lSCdR9SCa
 ResourceId: T6lSCdR9SCa
 ResourceImport: false
 ResourceType: signals
+slug: no-one-questions-a-product-owner-authority
+aliases:
+- /resources/T6lSCdR9SCa
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

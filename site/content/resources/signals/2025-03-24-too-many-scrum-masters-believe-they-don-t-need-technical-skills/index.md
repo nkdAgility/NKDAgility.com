@@ -3,12 +3,12 @@ title: Too many Scrum Masters believe they don’t need technical skills
 description: Highlights the importance of technical knowledge for Scrum Masters, arguing that understanding team-specific skills is essential to effectively support and enable their teams.
 date: 2025-03-24T16:30:03+00:00
 weight: 335
-slug: too-many-scrum-masters-believe-they-don-t-need-technical-skills
-aliases:
-- /resources/q_OupO_abR_
 ResourceId: q_OupO_abR_
 ResourceImport: false
 ResourceType: signals
+slug: too-many-scrum-masters-believe-they-don-t-need-technical-skills
+aliases:
+- /resources/q_OupO_abR_
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

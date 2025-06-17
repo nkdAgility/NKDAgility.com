@@ -3,12 +3,12 @@ title: Most organisations waste their smartest people
 description: Many organisations stifle talented employees with bureaucracy and top-down control, leading to disengagement, wasted potential, and high turnover among their smartest people.
 date: 2025-04-12T15:30:27+01:00
 weight: 765
-slug: most-organisations-waste-their-smartest-people
-aliases:
-- /resources/hXwfpdteI-Q
 ResourceId: hXwfpdteI-Q
 ResourceImport: false
 ResourceType: signals
+slug: most-organisations-waste-their-smartest-people
+aliases:
+- /resources/hXwfpdteI-Q
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

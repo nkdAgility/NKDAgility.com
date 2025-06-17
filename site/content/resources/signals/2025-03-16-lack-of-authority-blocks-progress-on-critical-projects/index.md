@@ -3,12 +3,12 @@ title: Lack of Authority Blocks Progress on Critical Projects
 description: Scrum Masters need authority to remove obstacles and drive project success. Without empowerment, they can't fulfil their role or be held accountable for outcomes.
 date: 2025-03-16T16:30:01+00:00
 weight: 510
-slug: lack-of-authority-blocks-progress-on-critical-projects
-aliases:
-- /resources/uLNzs9NgPZI
 ResourceId: uLNzs9NgPZI
 ResourceImport: false
 ResourceType: signals
+slug: lack-of-authority-blocks-progress-on-critical-projects
+aliases:
+- /resources/uLNzs9NgPZI
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

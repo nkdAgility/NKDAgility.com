@@ -3,12 +3,12 @@ title: Most companies still get Product Ownership wrong
 description: Many organisations misunderstand Product Ownership, treating it as simple backlog management instead of a strategic, accountable role essential for product success and team alignment.
 date: 2025-04-17T15:30:37+01:00
 weight: 595
-slug: most-companies-still-get-product-ownership-wrong
-aliases:
-- /resources/n7KbcPbUTTe
 ResourceId: n7KbcPbUTTe
 ResourceImport: false
 ResourceType: signals
+slug: most-companies-still-get-product-ownership-wrong
+aliases:
+- /resources/n7KbcPbUTTe
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

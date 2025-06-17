@@ -3,12 +3,12 @@ title: 'Agile Is Not Easier Than Traditional Methods: Common Misconceptions'
 description: Explains why Agile methods are often more challenging than traditional ones, highlighting common misconceptions, required discipline, and the need for true cross-functional teamwork.
 date: 2025-03-08T16:30:01+00:00
 weight: 335
-slug: agile-is-not-easier-than-traditional-methods-common-misconceptions
-aliases:
-- /resources/ZGwpGOoHHBQ
 ResourceId: ZGwpGOoHHBQ
 ResourceImport: false
 ResourceType: signals
+slug: agile-is-not-easier-than-traditional-methods-common-misconceptions
+aliases:
+- /resources/ZGwpGOoHHBQ
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

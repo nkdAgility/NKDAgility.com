@@ -3,12 +3,12 @@ title: If every release feels high-risk, you lack a true Definition of Done
 description: Releases feel risky when teams lack a clear Definition of Done. Learn how a strong DoD ensures stress-free, reliable software delivery with built-in quality and security.
 date: 2025-04-05T15:30:00+01:00
 weight: 260
-slug: if-every-release-feels-high-risk-you-lack-a-true-definition-of-done
-aliases:
-- /resources/iEdzblomyOb
 ResourceId: iEdzblomyOb
 ResourceImport: false
 ResourceType: signals
+slug: if-every-release-feels-high-risk-you-lack-a-true-definition-of-done
+aliases:
+- /resources/iEdzblomyOb
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

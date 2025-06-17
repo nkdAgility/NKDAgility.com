@@ -3,12 +3,12 @@ title: Here the dirty secret behind many agile transformations
 description: Many agile transformations restrict team autonomy, leading to control and compliance instead of true ownership, adaptability, and meaningful engagement in value delivery.
 date: 2025-05-02T15:30:32+01:00
 weight: 340
-slug: here-the-dirty-secret-behind-many-agile-transformations
-aliases:
-- /resources/6Z5I3JPMECs
 ResourceId: 6Z5I3JPMECs
 ResourceImport: false
 ResourceType: signals
+slug: here-the-dirty-secret-behind-many-agile-transformations
+aliases:
+- /resources/6Z5I3JPMECs
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

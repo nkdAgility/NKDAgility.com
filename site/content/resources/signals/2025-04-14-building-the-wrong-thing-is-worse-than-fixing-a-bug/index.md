@@ -3,12 +3,12 @@ title: Building the wrong thing is worse than fixing a bug
 description: Most features don’t deliver value. Short feedback loops and real user input help teams avoid wasted effort by ensuring they build what users actually need.
 date: 2025-04-14T15:30:31+01:00
 weight: 310
-slug: building-the-wrong-thing-is-worse-than-fixing-a-bug
-aliases:
-- /resources/HvZvnbC68go
 ResourceId: HvZvnbC68go
 ResourceImport: false
 ResourceType: signals
+slug: building-the-wrong-thing-is-worse-than-fixing-a-bug
+aliases:
+- /resources/HvZvnbC68go
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn
