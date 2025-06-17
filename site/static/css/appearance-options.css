@@ -1,5 +1,42 @@
 /* Appearance Options CSS - Text Size and Font Support */
 
+/* OpenDyslexic Font Definitions */
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/fonts/OpenDyslexic-Regular.woff2') format('woff2'),
+       url('/fonts/OpenDyslexic-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/fonts/OpenDyslexic-Bold.woff2') format('woff2'),
+       url('/fonts/OpenDyslexic-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/fonts/OpenDyslexic-Italic.woff2') format('woff2'),
+       url('/fonts/OpenDyslexic-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenDyslexic';
+  src: url('/fonts/OpenDyslexic-Bold-Italic.woff2') format('woff2'),
+       url('/fonts/OpenDyslexic-Bold-Italic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
 /* Text Size Options */
 .text-size-small {
   font-size: 0.9rem !important;
@@ -57,13 +94,13 @@
 }
 
 /* Dyslexic-friendly font option
-   Using web-safe fonts with good dyslexia support characteristics:
-   - Higher character spacing
-   - Clear distinction between similar characters
-   - Good readability
+   Using OpenDyslexic font for improved readability:
+   - Designed specifically for dyslexic readers
+   - Unique character shapes to reduce confusion
+   - Enhanced letter spacing and line height
 */
 .text-font-dyslexic {
-  font-family: "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
+  font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
   letter-spacing: 0.05em !important;
   line-height: 1.6 !important;
 }
@@ -74,20 +111,20 @@
 .text-font-dyslexic h4,
 .text-font-dyslexic h5,
 .text-font-dyslexic h6 {
-  font-family: "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
+  font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
   letter-spacing: 0.03em !important;
 }
 
 .text-font-dyslexic p,
 .text-font-dyslexic .card-text,
 .text-font-dyslexic .list-group-item {
-  font-family: "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
+  font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
   letter-spacing: 0.05em !important;
   line-height: 1.6 !important;
 }
 
 .text-font-dyslexic .btn {
-  font-family: "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
+  font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
   letter-spacing: 0.03em !important;
 }
 
