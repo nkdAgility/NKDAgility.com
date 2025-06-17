@@ -5,12 +5,12 @@
       <ul class="breadcrumb">
         <!-- Output breadcrumb trail -->
         {{- range $index, $page := $breadcrumbs }}
-          <li class="breadcrumb-item" title="{{- $page.Title }}{{ if $page.Params.shorttitle }}&nbsp;({{ $page.Params.shorttitle }}){{ end }}{{ if $page.Description }}&nbsp;-&nbsp;{{ $page.Description }}{{ end }}">
+          <li class="breadcrumb-item" title="{{- $page.Title }}{{ if $page.Params.short_title }}&nbsp;({{ $page.Params.short_title }}){{ end }}{{ if $page.Description }}&nbsp;-&nbsp;{{ $page.Description }}{{ end }}">
             {{- if eq $index (sub (len $breadcrumbs) 1) }}
               <!-- Current page (no link) -->
               <span class="active">
-                {{- if $page.Params.shorttitle }}
-                  {{- $page.Params.shorttitle }}
+                {{- if $page.Params.short_title }}
+                  {{- $page.Params.short_title }}
                 {{- else }}
                   {{- $page.Title }}
                 {{- end }}
