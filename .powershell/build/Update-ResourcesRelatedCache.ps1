@@ -13,7 +13,7 @@ $levelSwitch.MinimumLevel = 'Information'
 Start-TokenServer
 #$storageContext = New-AzStorageContext -SasToken $Env:AZURE_BLOB_STORAGE_SAS_TOKEN -StorageAccountName "nkdagilityblobs"
 $hugoMarkdownObjects = @()
-$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 20
+$hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\tags\" -YearsBack 10
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\categories\" -YearsBack 10
 $hugoMarkdownObjects += Get-RecentHugoMarkdownResources -Path ".\site\content\concepts\" -YearsBack 10
@@ -23,7 +23,14 @@ Update-EmbeddingRepository -HugoMarkdownObjects $hugoMarkdownObjects
 Write-DebugLog "--------------------------------------------------------"
 Write-DebugLog "--------------------------------------------------------"
 
+$totalCount = $hugoMarkdownObjects.Count
+$currentIndex = 0
+
 foreach ($HugoMarkdown in $hugoMarkdownObjects) {
+    $currentIndex++
+    $percentComplete = [math]::Round(($currentIndex / $totalCount) * 100, 2)
+    
+    Write-Progress -Activity "Processing Hugo Markdown Objects" -Status "Processing: $($HugoMarkdown.ReferencePath)" -PercentComplete $percentComplete -CurrentOperation "$currentIndex of $totalCount"
     Write-DebugLog "Processing $($HugoMarkdown.ReferencePath)"
     $relatedWrapper = Get-RelatedFromHugoMarkdown -HugoMarkdown $HugoMarkdown
     $filteredRelated = @()
@@ -35,9 +42,12 @@ foreach ($HugoMarkdown in $hugoMarkdownObjects) {
     if ($relatedWrapper.related.Count -gt 0) {
         $relatedLocalCache = Join-Path $HugoMarkdown.FolderPath 'data.index.related.json'
         $relatedWrapper | ConvertTo-Json -Depth 10 | Set-Content $relatedLocalCache 
-        Write-DebugLog "Processing  $($HugoMarkdown.ReferencePath) [$($relatedWrapper.related.Count) related items found.]"
+        Write-DebugLog "Processing  $($HugoMarkdown.ReferencePath) [$($relatedWrapper.related.Count) related items found.]"    
     }    
 }
+
+# Complete the progress bar
+Write-Progress -Activity "Processing Hugo Markdown Objects" -Completed
 
 #$hugoMdObj = $hugoMarkdownObjects | Select-Object -First 1
 

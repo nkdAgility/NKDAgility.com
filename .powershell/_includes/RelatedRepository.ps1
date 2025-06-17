@@ -114,7 +114,7 @@ function Get-RelatedFromHugoMarkdown {
         throw "HugoMarkdown object is required."
     }
 
-    Write-InfoLog "Building related content cache for $($HugoMarkdown.ReferencePath) (JobId: $JobId)..."
+    Write-DebugLog "Building related content cache for $($HugoMarkdown.ReferencePath) (JobId: $JobId)..."
     
     $relatedFileName = Get-RelatedResourceFileName -HugoMarkdown $HugoMarkdown
     $localFilePath = Join-Path $LocalPath $relatedFileName
