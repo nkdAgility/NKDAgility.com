@@ -1,6 +1,6 @@
 ---
 title: "What we think?"
-shorttitle: "Agentic Agility"
+short_title: "Agentic Agility"
 description: "a·gen·tic a·gil·i·ty empowers teams through autonomy and accountability, championing evidence-based practices to foster adaptive, resilient organisations driven by trust and transparency."
 trustpilot: false
 url: "/resources/"

@@ -5,7 +5,7 @@ ResourceId: _w2xgO2i3C9
 ResourceImport: true
 ResourceType: course
 ResourceContentOrigin: human
-shorttitle: Applying Professional Scrum
+short_title: Applying Professional Scrum
 date: 2017-01-01
 weight: 750
 creator: Martin Hinshelwood
@@ -141,6 +141,7 @@ events:
 events:
 
 ---
+
 Welcome to the \[wpv-post-link\] course. This transformative learning journey is designed specifically for Team Members, Scrum Masters, Product Owners, and Managers keen to grasp and infuse Scrum values and principles into their work through practical case studies leveraging the engaging medium of Minecraft.
 
 The product landscape keeps evolving, and a comprehensive understanding of Scrum is beneficial and crucial for contemporary teams. Agile practices empower organisations to be more flexible, responsive, and efficient amidst fluctuating market dynamics.

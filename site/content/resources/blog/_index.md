@@ -1,7 +1,7 @@
 ---
 title: "Agentic Agility: Blog"
 description: Thought-provoking, candid articles that challenge conventional thinking on Agile leadership, product management, and modern engineering practices. Embrace radical transparency to optimise your adaptive solutions.
-shorttitle: "Blog"
+short_title: "Blog"
 url: "/resources/blog/"
 aliases:
   - /blog/

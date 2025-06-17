@@ -4,30 +4,106 @@ syllabus:
   duration: 120
   content: |
     Participants will explore the various stances that an effective Scrum Master must take, including servant-leader, coach, facilitator, and change agent. This module helps Scrum Masters understand how to adapt their approach based on the team's needs and organizational context.
+  learningResources:
+  - title: There's value in the Scrum Values
+    link: https://guntherverheyen.com/library/the-scrum-values/
+    type: guide
+    weight: 1
+  - title: The 8 Stances of a Scrum Master
+    link: https://scrumorg-website-prod.s3.amazonaws.com/drupal/2017-05/The%208%20Stances%20of%20a%20Scrum%20Master%20Whitepaper%20v2_0.pdf
+    duration: 30
+    type: guide
+    weight: 2
 
 - id: 2
   title: Serving the Development Team
   duration: 90
   content: |
     This module focuses on how Scrum Masters can best support the Development Team, helping them become self-managing, cross-functional, and high-performing. Participants will learn techniques for removing impediments, facilitating team dynamics, and fostering collaboration.
+  learningResources:
+  - title: Scrum from the trenches - the Sprint Goal
+    link: https://www.scrum.org/resources/blog/scrum-trenches-sprint-goal
+    duration: 8
+    type: blog
+    weight: 1
+  - title: Getting to Done - Creating Good Sprint Goals
+    link: https://www.scrum.org/resources/blog/getting-done-creating-good-sprint-goals
+    duration: 8
+    type: blog
+    weight: 2
+  - title: The Daily Scrum is NOT a Status Meeting
+    link: https://youtu.be/i7_RPceEIYE
+    duration: 7
+    type: video
+    weight: 3
+  - title: Getting started with a Definition of Done (DoD)
+    duration: 5
+    type: guide
+    weight: 4
+  - title: Ethics in Scrum
+    link: https://youtu.be/Tw1gwc7rAVg
+    duration: 5
+    type: video
+    weight: 5
 
 - id: 3
   title: Serving the Product Owner
   duration: 90
   content: |
     Participants will learn how to help Product Owners maximize value by effectively managing the Product Backlog, stakeholder expectations, and product vision. This includes techniques for facilitating refinement, supporting strategic decision-making, and ensuring transparency.
+  learningResources:
+  - title: Scrum Myths - There is No Planning in Scrum
+    link: https://www.scrum.org/resources/blog/scrum-myths-there-no-planning-scrum
+    duration: 4
+    type: blog
+    weight: 1
+  - title: Evolution of the Product Owner
+    link: https://www.scrum.org/resources/blog/evolution-product-owner
+    duration: 5
+    type: blog
+    weight: 2
+  - title: 14 Stances of Highly Effective Product Owners
+    link: https://www.scrum.org/resources/blog/14-stances-highly-effective-product-owners
+    duration: 10
+    type: blog
+    weight: 3
+  - title: Kanban Guide for Scrum Teams
+    link: https://hbr.org/2007/11/a-leaders-framework-for-decision-making
+    duration: 15
+    type: guide
+    weight: 4
+  - title: When will it be Done - an introduction to probabilistic forecasting
+    link: https://youtu.be/aG5Eet6BJTc
+    duration: 60
+    type: video
+    weight: 5
 
 - id: 4
   title: Serving the Organization
   duration: 120
   content: |
     This module explores how Scrum Masters can drive organizational change and support the broader adoption of Agile practices. Participants will learn strategies for addressing systemic impediments, promoting empiricism, and coaching leadership.
+  learningResources:
+  - title: Empathy
+    duration: 5
+    type: video
+    weight: 1
+  - title: From Now to New Right Here - Change-as-Flipping
+    link: https://www2.slideshare.net/npflaeging/from-now-to-new-right-here-changeasflipping-betacodex16
+    type: learning
+    weight: 2
 
 - id: 5
   title: Advanced Facilitation Techniques
   duration: 90
   content: |
     Participants will enhance their facilitation skills with advanced techniques for managing complex group dynamics, addressing conflicts, and facilitating productive Scrum events. This includes practical approaches to improve collaboration and decision-making.
+  learningResources:
+  - title: Liberating Structures Should Be Everywhere People Interact
+    link: https://medium.com/the-liberators/liberating-structures-should-be-everywhere-people-interact-4c816ae512bb
+    duration: 5
+    type: blog
+    weight: 1
 
 - id: 6
   title: Coaching and Mentoring Skills
@@ -46,3 +122,8 @@ syllabus:
   duration: 60
   content: |
     The final module focuses on how Scrum Masters can measure effectiveness and continuously improve their practice. Participants will learn about useful metrics, feedback mechanisms, and approaches for ongoing professional development.
+  learningResources:
+  - title: The Evidence-based Management Guide
+    link: https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/
+    type: guide
+    weight: 1
