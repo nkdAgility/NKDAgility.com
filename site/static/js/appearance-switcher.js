@@ -4,7 +4,6 @@ document.addEventListener("DOMContentLoaded", function() {
   
   // Initialize all appearance settings
   initializeTheme();
-  initializeTextSize();
   initializeTextFont();
   
   // Handle theme option clicks
@@ -32,23 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
       });
     });
   }
-  
-  // Handle text size option clicks
-  const textSizeOptions = document.querySelectorAll('.text-size-option');
-  if (textSizeOptions.length > 0) {
-    console.log("Text size options found, adding event listeners");
-    textSizeOptions.forEach(option => {
-      option.addEventListener('click', (e) => {
-        const selectedSize = e.currentTarget.getAttribute('data-text-size');
-        console.log(`Text size option clicked: ${selectedSize}`);
-        
-        // Store and apply the selected text size
-        localStorage.setItem('textSize', selectedSize);
-        setTextSize(selectedSize);
-        updateTextSizeSelectionUI(selectedSize);
-      });
-    });
-  }
+
   
   // Handle text font option clicks
   const textFontOptions = document.querySelectorAll('.text-font-option');
@@ -102,12 +85,7 @@ function initializeTheme() {
   }, 500);
 }
 
-// Initialize text size settings
-function initializeTextSize() {
-  const savedTextSize = localStorage.getItem('textSize') || 'medium';
-  setTextSize(savedTextSize);
-  updateTextSizeSelectionUI(savedTextSize);
-}
+
 
 // Initialize text font settings
 function initializeTextFont() {
@@ -128,12 +106,7 @@ function setTheme(theme) {
   swapThemeImages(theme);
 }
 
-// Set text size by updating CSS classes
-function setTextSize(size) {
-  console.log(`Setting text size to: ${size}`);
-  document.body.classList.remove('text-size-small', 'text-size-medium', 'text-size-large');
-  document.body.classList.add(`text-size-${size}`);
-}
+
 
 // Set text font by updating CSS classes
 function setTextFont(font) {
@@ -157,18 +130,7 @@ function updateThemeSelectionUI(preference) {
   updateThemeIcon(document.documentElement.getAttribute('data-theme') || 'light');
 }
 
-// Update the text size selection UI
-function updateTextSizeSelectionUI(size) {
-  console.log(`Updating text size selection UI for size: ${size}`);
-  document.querySelectorAll('.text-size-check').forEach(check => {
-    check.classList.add('d-none');
-  });
-  
-  const selectedCheck = document.querySelector(`.text-size-${size}-check`);
-  if (selectedCheck) {
-    selectedCheck.classList.remove('d-none');
-  }
-}
+
 
 // Update the text font selection UI
 function updateTextFontSelectionUI(font) {

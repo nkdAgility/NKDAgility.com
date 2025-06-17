@@ -8,10 +8,6 @@
     }
     document.documentElement.setAttribute("data-theme", theme);
     
-    // Set text size
-    var textSize = localStorage.getItem("textSize") || "medium";
-    document.body.classList.add("text-size-" + textSize);
-    
     // Set text font
     var textFont = localStorage.getItem("textFont") || "default";
     document.body.classList.add("text-font-" + textFont);

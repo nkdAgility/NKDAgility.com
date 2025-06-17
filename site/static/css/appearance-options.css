@@ -40,56 +40,7 @@
   font-display: swap;
 }
 
-/* Text Size Options */
-.text-size-small {
-  font-size: 0.9rem !important;
-}
 
-.text-size-small h1,
-.text-size-small h2,
-.text-size-small h3,
-.text-size-small h4,
-.text-size-small h5,
-.text-size-small h6 {
-  font-size: calc(var(--font-size-base, 1rem) * 0.9) !important;
-}
-
-.text-size-small .btn {
-  font-size: 0.8rem !important;
-}
-
-.text-size-small .card-text,
-.text-size-small .list-group-item,
-.text-size-small p {
-  font-size: 0.85rem !important;
-}
-
-.text-size-medium {
-  font-size: 1rem;
-}
-
-.text-size-large {
-  font-size: 1.1rem !important;
-}
-
-.text-size-large h1,
-.text-size-large h2,
-.text-size-large h3,
-.text-size-large h4,
-.text-size-large h5,
-.text-size-large h6 {
-  font-size: calc(var(--font-size-base, 1rem) * 1.1) !important;
-}
-
-.text-size-large .btn {
-  font-size: 1.1rem !important;
-}
-
-.text-size-large .card-text,
-.text-size-large .list-group-item,
-.text-size-large p {
-  font-size: 1.15rem !important;
-}
 
 /* Text Font Options */
 .text-font-default {
@@ -209,22 +160,7 @@
   margin: 0.5rem 0;
 }
 
-/* Responsive adjustments for text sizes */
-@media (max-width: 768px) {
-  .text-size-small {
-    font-size: 0.85rem !important;
-  }
-  
-  .text-size-large {
-    font-size: 1.05rem !important;
-  }
-  
-  .text-size-large .card-text,
-  .text-size-large .list-group-item,
-  .text-size-large p {
-    font-size: 1.1rem !important;
-  }
-}
+
 
 /* Dark mode adjustments for dropdown headers and buttons */
 [data-theme="dark"] .dropdown-header {
@@ -233,20 +169,17 @@
 
 /* Dark mode button text visibility fixes */
 [data-theme="dark"] .theme-option,
-[data-theme="dark"] .text-size-option,
 [data-theme="dark"] .text-font-option {
   color: var(--dark-text-color) !important;
 }
 
 [data-theme="dark"] .theme-option:hover,
-[data-theme="dark"] .text-size-option:hover,
 [data-theme="dark"] .text-font-option:hover {
   background-color: rgba(255, 255, 255, 0.1) !important;
   color: var(--dark-text-color) !important;
 }
 
 [data-theme="dark"] .theme-option span,
-[data-theme="dark"] .text-size-option span,
 [data-theme="dark"] .text-font-option span {
   color: var(--dark-text-color) !important;
 }
