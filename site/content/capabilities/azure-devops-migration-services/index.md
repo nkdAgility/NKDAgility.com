@@ -1,6 +1,6 @@
 ---
 title: Azure DevOps Migration Services
-shorttitle: Azure DevOps Migration
+short_title: Azure DevOps Migration
 date: 2023-08-12
 creator: Martin Hinshelwood
 weight: 10

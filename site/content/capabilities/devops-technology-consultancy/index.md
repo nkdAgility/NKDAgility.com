@@ -1,6 +1,6 @@
 ---
 title: DevOps Technology Consultancy
-shorttitle: DevOps Technology
+short_title: DevOps Technology
 date: 2023-08-12
 creator: Martin Hinshelwood
 weight: 20

@@ -29,8 +29,8 @@
       <li class="list-group-item d-flex align-items-center">
         {{- partial "components/resources/resource-icon.html" . }}
         <a href="{{- $item.Permalink }}" class="text-decoration-none  text-nowrap text-truncate" title="{{- $item.Title }} - {{- $item.Description }}">
-          {{- if .Params.shorttitle }}
-            {{- .Params.shorttitle }}
+          {{- if .Params.short_title }}
+            {{- .Params.short_title }}
           {{- else }}
             {{- .Title }}
           {{- end }}
