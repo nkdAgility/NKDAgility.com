@@ -53,14 +53,14 @@
 
 {{- define "main" }}
   {{- if .Page.Params.introduction }}
-    <section class="container my-4" style="max-width: 900px !important">
+    <section class="container my-4 container-content-wide">
       {{- .Page.Params.introduction | markdownify }}
     </section>
   {{- else }}
     <!-- MISSING .Page.Params.introduction -->
   {{- end }}
   {{- if .Page.Params.overview }}
-    <section class="container my-4" style="max-width: 900px !important">
+    <section class="container my-4 container-content-wide">
       <h2>Course Overview</h2>
       {{- .Page.Params.overview | markdownify }}
     </section>
@@ -68,14 +68,14 @@
     <!-- MISSING .Page.Params.overview -->
   {{- end }}
   {{/*  {{- if eq hugo.Environment "development" }}
-    <section class="container my-4" style="max-width: 900px !important">
+    <section class="container my-4 container-content-wide">
       {{- partial "delivery-parts/events-schedule-single.html" . }}
     </section>
   {{- else }}
     <!-- OFF delivery-parts/events-schedule-single.html -->
   {{- end }}  */}}
   {{- if .Page.Params.outcomes }}
-    <section class="container my-4" style="max-width: 900px !important">
+    <section class="container my-4 container-content-wide">
       <h2>Course Outcomes</h2>
       {{- .Page.Params.outcomes | markdownify }}
     </section>
@@ -83,7 +83,7 @@
     <!-- MISSING .Page.Params.outcomes -->
   {{- end }}
   {{- if .Page.Params.objectives }}
-    <section class="container my-4" style="max-width: 900px !important">
+    <section class="container my-4 container-content-wide">
       <h2>Course Objectives</h2>
       {{- .Page.Params.objectives | markdownify }}
     </section>
@@ -91,7 +91,7 @@
     <!-- MISSING .Page.Params.objectives -->
   {{- end }}
   {{- if .Page.Params.audience }}
-    <section class="container my-4" style="max-width: 900px !important">
+    <section class="container my-4 container-content-wide">
       <h2>Who Should Attend this class?</h2>
       {{- .Page.Params.audience.overview | markdownify }}
     </section>
@@ -99,14 +99,14 @@
     <!-- MISSING .Page.Params.audience.overview -->
   {{- end }}
   {{- if .Page.Params.assessment }}
-    <section class="container my-4" style="max-width: 900px !important">
+    <section class="container my-4 container-content-wide">
       <h2>Assessment & Certification</h2>
       {{- .Page.Params.assessment.content | markdownify }}
     </section>
   {{- else }}
     <!-- MISSING .Page.Params.audience.overview -->
   {{- end }}
-  <section class="container my-4" style="max-width: 900px !important">
+  <section class="container my-4 container-content-wide">
     <div class="row">
       <div class="col-xl-6">
         <h2>Why Learn With NKD Agility?</h2>
@@ -121,7 +121,7 @@
       <div class="col-xl-6"></div>
     </div>
   </section>
-  <section class="container my-4" style="max-width: 900px !important">
+  <section class="container my-4 container-content-wide">
     {{- partial "delivery-parts/syllabus-single.html" . }}
   </section>
 

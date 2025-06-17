@@ -113,6 +113,19 @@ h6 {
   color: var(--primary-color-heading);
 }
 
+/* widths of pages */
+
+.container-heading {
+}
+
+.container-content {
+  max-width: 700px;
+}
+
+.container-content-wide {
+  max-width: 900px;
+}
+
 /* More specific selector */
 .nkd-heading-primary-light h1,
 .nkd-heading-primary-light h2,
@@ -1316,7 +1329,7 @@ html {
 
 /* Page Section Specific Styles */
 .site-section-outcomes {
-  max-width: 900px !important;
+  max-width: 900px;
 }
 
 /* End Page Section Specific Styles */

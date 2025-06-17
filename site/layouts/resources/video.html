@@ -1,16 +1,16 @@
 {{- define "headline" }}
   <section class="container-fluid resources-headline py-md-4">
-    <section class="container my-2" style="max-width: 900px !important">
+    <section class="container my-2 container-heading">
       {{- partial "components/pages/header.html" . }}
     </section>
   </section>
   <section class="container-fluid resources-headline-sharebar">
-    <section class="container" style="max-width: 900px !important">{{- partial "components/resources/share-bar.html" . }}</section>
+    <section class="container container-heading">{{- partial "components/resources/share-bar.html" . }}</section>
   </section>
 {{- end }}
 
 {{- define "main" }}
-  <section class="container my-5" style="max-width: 700px !important">
+  <section class="container my-5  container-content">
     <div class="ratio ratio-16x9 mb-4">
       <iframe src="https://www.youtube.com/embed/{{ .Params.videoId }}" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
     </div>
@@ -54,13 +54,13 @@
     </div>
   </section>
 
-  <section class="container my-5" style="max-width: 700px !important">
+  <section class="container my-5  container-body">
     {{- partial "components/resources/tag-cloud.html" . }}
   </section>
-  <section class="container my-5" style="max-width: 900px !important">
+  <section class="container my-5  container-body">
     {{- partial "components/resources/share-bar.html" . }}
   </section>
-  <section class="container my-5 p-2" style="max-width: 700px !important">
+  <section class="container my-5 p-2  container-body">
     {{- partial "components/resources/comments.html" . }}
   </section>
 {{- end }}
