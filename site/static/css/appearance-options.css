@@ -1,5 +1,8 @@
 /* Appearance Options CSS - Text Size and Font Support */
 
+/* Google Fonts for Accessibility */
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 /* OpenDyslexic Font Definitions */
 @font-face {
   font-family: 'OpenDyslexic';
@@ -133,6 +136,66 @@
   word-spacing: 0.1em !important;
 }
 
+/* Lexend font option - Google Font optimized for reading proficiency */
+.text-font-lexend {
+  font-family: "Lexend", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+  letter-spacing: 0.02em !important;
+  line-height: 1.5 !important;
+}
+
+.text-font-lexend h1,
+.text-font-lexend h2,
+.text-font-lexend h3,
+.text-font-lexend h4,
+.text-font-lexend h5,
+.text-font-lexend h6 {
+  font-family: "Lexend", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+  letter-spacing: 0.01em !important;
+}
+
+.text-font-lexend p,
+.text-font-lexend .card-text,
+.text-font-lexend .list-group-item {
+  font-family: "Lexend", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+  letter-spacing: 0.02em !important;
+  line-height: 1.5 !important;
+}
+
+.text-font-lexend .btn {
+  font-family: "Lexend", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+  letter-spacing: 0.01em !important;
+}
+
+/* Atkinson Hyperlegible font option - Designed for improved readability */
+.text-font-atkinson {
+  font-family: "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+  letter-spacing: 0.025em !important;
+  line-height: 1.55 !important;
+}
+
+.text-font-atkinson h1,
+.text-font-atkinson h2,
+.text-font-atkinson h3,
+.text-font-atkinson h4,
+.text-font-atkinson h5,
+.text-font-atkinson h6 {
+  font-family: "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+  letter-spacing: 0.02em !important;
+}
+
+.text-font-atkinson p,
+.text-font-atkinson .card-text,
+.text-font-atkinson .list-group-item {
+  font-family: "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+  letter-spacing: 0.025em !important;
+  line-height: 1.55 !important;
+}
+
+.text-font-atkinson .btn {
+  font-family: "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif !important;
+  letter-spacing: 0.02em !important;
+}
+
 /* Enhanced dropdown styling for better organization */
 .dropdown-header {
   font-weight: 600;
@@ -163,7 +226,27 @@
   }
 }
 
-/* Dark mode adjustments for dropdown headers */
+/* Dark mode adjustments for dropdown headers and buttons */
 [data-theme="dark"] .dropdown-header {
   color: var(--dark-text-color);
+}
+
+/* Dark mode button text visibility fixes */
+[data-theme="dark"] .theme-option,
+[data-theme="dark"] .text-size-option,
+[data-theme="dark"] .text-font-option {
+  color: var(--dark-text-color) !important;
+}
+
+[data-theme="dark"] .theme-option:hover,
+[data-theme="dark"] .text-size-option:hover,
+[data-theme="dark"] .text-font-option:hover {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  color: var(--dark-text-color) !important;
+}
+
+[data-theme="dark"] .theme-option span,
+[data-theme="dark"] .text-size-option span,
+[data-theme="dark"] .text-font-option span {
+  color: var(--dark-text-color) !important;
 }

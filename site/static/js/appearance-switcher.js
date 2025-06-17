@@ -138,7 +138,7 @@ function setTextSize(size) {
 // Set text font by updating CSS classes
 function setTextFont(font) {
   console.log(`Setting text font to: ${font}`);
-  document.body.classList.remove('text-font-default', 'text-font-dyslexic');
+  document.body.classList.remove('text-font-default', 'text-font-dyslexic', 'text-font-lexend', 'text-font-atkinson');
   document.body.classList.add(`text-font-${font}`);
 }
 
