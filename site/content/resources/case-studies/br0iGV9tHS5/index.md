@@ -1,5 +1,5 @@
 ---
-title: 'Policing for the 21st Century: How NKD Agility Enabled Organisational Change in the Ghana Police Service'
+title: "Policing for the 21st Century: How NKD Agility Enabled Organisational Change in the Ghana Police Service"
 description: NKD Agility helped the Ghana Police Service drive organisational change using Scrum, enabling continuous improvement, transparency, and local ownership across all levels.
 date: 2025-06-10
 weight: 395
@@ -9,39 +9,39 @@ ResourceType: case-studies
 short_title: Enabled Organisational Change in the Ghana Police Service
 slug: enabled-organisational-change-in-the-ghana-police-service
 aliases:
-- /resources/br0iGV9tHS5
+  - /resources/br0iGV9tHS5
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-17T09:44:06Z
 concepts:
-- Framework
+  - Framework
 categories:
-- Scrum
-- Leadership
-- Technical Leadership
+  - Scrum
+  - Leadership
+  - Technical Leadership
 tags:
-- Social Technologies
-- Agile Transformation
-- Organisational Agility
-- Agile Frameworks
-- Organisational Change
-- Change Management
-- Agile Leadership
-- Continuous Improvement
-- Empirical Process Control
-- Ability to Innovate
-- Professional Scrum
-- Agile Strategy
-- Enterprise Agility
-- Sociotechnical Systems
-- Operational Practices
-
+  - Social Technologies
+  - Agile Transformation
+  - Organisational Agility
+  - Agile Frameworks
+  - Organisational Change
+  - Change Management
+  - Agile Leadership
+  - Continuous Improvement
+  - Empirical Process Control
+  - Ability to Innovate
+  - Professional Scrum
+  - Agile Strategy
+  - Enterprise Agility
+  - Sociotechnical Systems
+  - Operational Practices
 ---
+
 ## Client Context
 
-The Ghana Police Service (GPS), one of West Africa’s largest public institutions, faced entrenched structural challenges: rising crime, limited public trust, and decades of fragmented reform efforts. With over 33,000 officers and 14,000 support personnel, modernising such a vast and hierarchical system demanded more than surface-level change.
+The [Ghana Police Service (GPS)](https://police.gov.gh/), one of West Africa’s largest public institutions, faced entrenched structural challenges: rising crime, limited public trust, and decades of fragmented reform efforts. With over 33,000 officers and 14,000 support personnel, modernising such a vast and hierarchical system demanded more than surface-level change.
 
-Under the leadership of Inspector General of Police (IGP) David Asante-Apeatu, GPS aimed to become one of the world’s top ten police forces within four years, aligned with UN Sustainable Development Goal 16. The question wasn’t just what to change, but how to change in a system optimised for command and control, not learning and adaptation.
+Under the leadership of Inspector General of Police (IGP) [David Asante-Apeatu](https://en.wikipedia.org/wiki/David_Asante-Apeatu), GPS aimed to become one of the world’s top ten police forces within four years, aligned with UN Sustainable Development Goal 16. The question wasn’t just what to change, but how to change in a system optimised for command and control, not learning and adaptation.
 
 ## The Ask: Transformation Through Scrum
 
@@ -49,7 +49,7 @@ The IGP had experienced Scrum firsthand during his time at Interpol. GPS didn’
 
 ### Diagnosis: A System Built for Control, Not Adaptation
 
-NKD Agility, working with regional partner Akaditi, quickly identified that the core dysfunction wasn’t knowledge or commitment—it was structural:
+NKD Agility, working with regional partner [Akaditi](https://akaditi.com/), quickly identified that the core dysfunction wasn’t knowledge or commitment—it was structural:
 
 - **Command-and-control practices** stifled initiative and learning.
 - **No empirical mechanism for change** meant reforms lacked follow-through.
@@ -58,11 +58,9 @@ NKD Agility, working with regional partner Akaditi, quickly identified that the 
 
 GPS needed more than Agile practices. They needed a social technology for coordinating learning and leadership across a hierarchy.
 
-Here is the revised section with your requested change:
-
 ### Approach: Embedding Empirical Change Through Professional Scrum
 
-Martin Hinshelwood from NKD Agility delivered the first-ever Professional Scrum Foundations (PSF) classes in West Africa—designed not as workshops, but as hands-on, full-sprint experiences.
+Martin Hinshelwood from NKD Agility delivered the first-ever [Applying Professional Scrum (APS)]({{< ref "/capabilities/training-courses/scrumorg-applying-professional-scrum" >}}) classes in West Africa—designed not as workshops, but as hands-on, full-sprint experiences.
 
 - **Rank-and-file officers built working software**—despite most having never written code. This forced practical, collaborative learning.
 - **Scrum was introduced as a system for organisational change**, not just product delivery.
@@ -84,7 +82,7 @@ Even officers initially skeptical of Scrum were converted through experience: no
 
 This engagement reframed change as a professional discipline.
 
-The Ghana Police Service didn’t wait for a perfect plan. With NKD Agility’s support, they created a system for learning in public, led by the IGP and backed by the President of Ghana. Their transformation wasn’t top-down, but distributed, enabled by structure and experimentation.
+The Ghana Police Service didn’t wait for a perfect plan. With Akaditi & NKD Agility’s support, they created a system for learning in public, led by the IGP and backed by the President of Ghana. Their transformation wasn’t top-down, but distributed, enabled by structure and experimentation.
 
 ## Final Takeaway
 
