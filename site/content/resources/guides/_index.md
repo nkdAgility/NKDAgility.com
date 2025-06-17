@@ -1,6 +1,6 @@
 ---
 title: "Agentic Agility: Guides"
-shorttitle: "Guides"
+short_title: "Guides"
 url: /resources/guides/
 weight: 1
 aliases:
