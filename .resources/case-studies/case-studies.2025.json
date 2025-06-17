@@ -4,7 +4,7 @@
       "title": "From Fragmentation to Flow: How NKD Agility Helped SLB Consolidate Systems and Standardize Engineering Practice Across 800+ Teams",
       "description": "NKD Agility helped SLB unify 800+ engineering teams by consolidating DevOps systems, standardizing processes, and improving visibility, collaboration, and delivery.",
       "date": "2025-06-02",
-      "weight": 1000.0,
+      "weight": 70.0,
       "slug": "from-fragmentation-to-flow-how-nkd-agility-helped-slb-consolidate-systems-and-standardize-engineering-practice-across-800-teams",
       "aliases": [
         "/resources/r77XLSf0xcr"
@@ -12,28 +12,49 @@
       "ResourceId": "r77XLSf0xcr",
       "ResourceImport": false,
       "ResourceType": "case-studies",
+      "short_title": "Standardize Engineering Practice Across 800+ Teams",
       "draft": false,
       "ResourceContentOrigin": "human",
       "Watermarks": {
         "description": "2025-06-16T11:50:55Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Capability"
       ],
-      "tags": []
+      "categories": [
+        "Engineering Excellence",
+        "Technical Leadership",
+        "Leadership"
+      ],
+      "tags": [
+        "Azure DevOps",
+        "One Engineering System",
+        "Software Development",
+        "System Configuration",
+        "Operational Practices",
+        "Pragmatic Thinking",
+        "Digital Transformation",
+        "Agile Transformation",
+        "Agile Strategy",
+        "Product Delivery",
+        "Large Scale Agility",
+        "Enterprise Agility",
+        "Scaling",
+        "Project Management",
+        "Business Agility"
+      ]
     },
     "BodyContent": "## Client Context\n\nSLB, a global energy technology company with thousands of engineers and product teams worldwide, had grown through decades of decentralized decision-making. The result? Chaos.\n\nThey had:\n\n- 27 Azure DevOps/TFS \"collections\" (or orgs)\n- Over 800 projects\n- 900+ custom processes and workflows\n\nEven teams working on the same product were using different fields, forms, and tracking systems. This made it virtually impossible for technical or business leadership to get a coherent view of delivery, performance, or investment.\n\n## The Ask: Consolidation and Standardization\n\nSLB engaged Martin Hinshelwood from NKD Agility to lead a massive transformation initiative. The ask? Standardize processes, consolidate collections, and make collaboration across teams and locations possible—all without disrupting work.\n\n### Diagnosis: Fragmented Systems, Incoherent Reporting, Organizational Friction\n\nMartin surfaced three root causes:\n\n- **Inconsistent process definitions**: Each team had tailored their DevOps process, creating a sprawl of incompatible metadata that broke dashboards, blocked rollups, and made reporting almost meaningless at the organizational level.\n- **Siloed work structures**: Funding and product decisions were tied to regional \"technology centers,\" creating duplication and misalignment across teams working on the same product.\n- **Poor visibility and governance**: Leaders could see code flowing and features emerging but had no insight into the flow of value, obstacles, or team performance across the enterprise.\n\n### Approach: Build the Tools. Lead the Migration. Enable the Change.\n\nMartin designed and delivered a multi-year transformation program:\n\n- **Built custom Azure DevOps migration tools**: The scale of the problem demanded automation. Martin built PowerShell scripts (eventually formalized as the Azure DevOps Migration Tools) to handle process standardization and data migration.\n- **Created a standard process**: A unified, organization-wide process was defined to support work item consistency, traceability, and governance—without forcing teams into rigid workflows.\n- **Led phased migrations**: 800+ teams were migrated through a combination of in-place transformations and cross-collection moves. Projects were grouped into seven primary collections, down from 27.\n- **Enabled buy-in through mandate and coaching**: Senior leadership issued a mandate for standardization, but Martin and his team negotiated with each team to ensure their needs were honored within the new system.\n- **Established a DevOps consulting unit**: NKD Agility helped build a permanent internal team to train, coach, and support teams post-migration.\n\n### Outcomes: Control, Collaboration, and Strategic Clarity\n\n- **Reduced collections from 27 to 7**: Simplified governance, administration, and license management.\n- **Standardized work item tracking**: Enabled cross-team reporting, simplified dashboards, and made organizational flow visible.\n- **Enabled inner sourcing and reuse**: By bringing projects into fewer collections, teams could now discover, reuse, and collaborate across shared tools and services.\n- **Cut infrastructure costs**: Migrating from on-premise TFS to Azure DevOps Cloud eliminated data center bottlenecks and increased uptime.\n- **Improved delivery confidence**: With consistent data and centralized visibility, CIOs, CTOs, and product leaders could now spot delivery risks early, forecast more reliably, and make more informed investment decisions.\n\n## Strategic Insight: Consolidation as a Prerequisite for Engineering Excellence\n\nThis wasn’t just a tooling change. It was a systems intervention.\n\nMartin's key lesson: \"It’s never too late to clean up. Even if you’ve got 900 custom processes and 800 projects, the right system-level thinking—paired with automation and a mandate—can bring order and momentum back to your engineering organization.\"\n\n### Why It Matters for CTOs and Engineering Leaders\n\n- **Achieving flow at scale requires architectural coherence**—in process, in tooling, in reporting.\n- **Technical leadership isn’t about enforcing rules, but enabling visibility, adaptability, and quality.**\n- **Engineering excellence depends on clean systems.** This program enabled teams to spend less time wrestling with tooling and more time delivering valuable software.\n\n## Final Takeaway\n\nIf you want technical leadership, you need system clarity. And that means consolidating where fragmentation is slowing you down.\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\from-fragmentation-to-flow-how-nkd-agility-helped-slb-consolidate-systems-and-standardize-engineering-practice-across-800-teams\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\from-fragmentation-to-flow-how-nkd-agility-helped-slb-consolidate-systems-and-standardize-engineering-practice-across-800-teams",
-    "ReferencePath": "resources/case-studies/from-fragmentation-to-flow-how-nkd-agility-helped-slb-consolidate-systems-and-standardize-engineering-practice-across-800-teams"
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\r77XLSf0xcr\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\r77XLSf0xcr",
+    "ReferencePath": "resources/case-studies/r77XLSf0xcr"
   },
   {
     "FrontMatter": {
       "title": "Engineering Excellence in Action: How NKD Agility Helped SLB Streamline Build and Release Across 90 Teams and 13 Countries",
       "description": "NKD Agility helped SLB unify build and release processes across 90 teams in 13 countries, boosting team ownership, efficiency, and engineering accountability.",
       "date": "2025-06-02",
-      "weight": 1000.0,
+      "weight": 65.0,
       "slug": "engineering-excellence-in-action-how-nkd-agility-helped-slb-streamline-build-and-release-across-90-teams-and-13-countries",
       "aliases": [
         "/resources/PMnxyczoB1K",
@@ -42,30 +63,51 @@
       "aliasesArchive": [
         "/resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility"
       ],
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Principle"
       ],
-      "tags": [],
+      "categories": [
+        "Engineering Excellence",
+        "Technical Leadership",
+        "DevOps"
+      ],
+      "tags": [
+        "Software Development",
+        "Operational Practices",
+        "Pragmatic Thinking",
+        "Technical Mastery",
+        "Team Collaboration",
+        "Team Performance",
+        "Modern Source Control",
+        "Self Organisation",
+        "Large Scale Agility",
+        "Release Management",
+        "Product Delivery",
+        "Sociotechnical Systems",
+        "Technical Excellence",
+        "One Engineering System",
+        "Agentic Agility"
+      ],
       "ResourceId": "PMnxyczoB1K",
       "ResourceImport": false,
       "ResourceType": "case-studies",
+      "short_title": "Streamline Build and Release Across 90 Teams and 13 Countries",
       "ResourceContentOrigin": "human",
       "Watermarks": {
         "description": "2025-06-16T11:50:57Z"
       }
     },
     "BodyContent": "## Client Context\n\nSLB (formerly Schlumberger), a global energy technology company, had over 90 engineering teams in 13 locations across 9 countries contributing to a single product: Petrel. Each team operated independently, choosing its own source control system, build environment, and branching strategy. Some used Git, others Team Foundation Version Control (TFVC), SVN, or even in-house tools.\n\nThe result? A sprawling mess of incompatibilities, blind spots, and inefficiencies.\n\n## The Ask: Build System Simplification and Consolidation\n\nMartin Hinshelwood from NKD Agility was asked to assess the situation and recommend a path forward. The goal: consolidate build and source control processes to enable faster, more reliable, and more autonomous development.\n\n### Diagnosis: Extreme Fragmentation and Build Fragility\n\nMartin’s assessment uncovered:\n\n- **An overloaded central build team**: Eight engineers were running 11,000 builds a day, producing 27 petabytes of data annually just to generate one working version of the product per month.\n- **Inconsistent tooling and branching**: Each team used their own tools and created custom branches, making traceability and integration nearly impossible.\n- **Lack of ownership and accountability**: The build process was treated as someone else's problem. Teams weren’t accountable for build quality or integration readiness.\n\n### Approach: Advisory Engagement Rooted in Engineering Principles\n\nMartin didn’t implement the solution directly. Instead, he provided:\n\n- **A clear architectural recommendation**: Migrate to a single source control system (initially TFVC, later Git) and adopt a consistent branching model across all teams.\n- **Branching strategy and build design consulting**: Martin guided SLB on how to design a scalable branching structure that balanced autonomy and alignment.\n- **Education on engineering accountability**: He helped reposition build and release as shared engineering responsibilities, not something delegated to a separate team.\n- **Ongoing consultation throughout implementation**: While SLB owned the execution, Martin provided iterative guidance and validation.\n\n### Outcomes: Ownership, Speed, and Significant Cost Reduction\n\n- **Shifted ownership of build and release to engineering teams**: 90+ teams began managing their own builds and branches, removing bottlenecks.\n- **Reduced central build team from 8 to 2 people**: A leaner core team focused on platform support, not firefighting.\n- **Improved developer autonomy and morale**: Teams had the tools and responsibility to manage their own work, increasing throughput and engagement.\n- **Simplified engineering processes**: With one source control system and a standard branching model, release management became predictable and transparent.\n\n## Strategic Reflection: Engineering Excellence Through Real Ownership\n\nThis case represents a core NKD Agility principle:\n\n> Real engineering excellence isn’t about tighter control—it’s about giving teams the *right structure* so they can take responsibility for quality, speed, and stability.\n\nMartin’s advice helped SLB do just that: reframe build and release as team-owned practices rather than operational burdens.\n\n### Why It Matters for CTOs and Tech Leaders\n\n- **Technical Leadership**: Empowering engineers to own build and release is a foundational move toward scalable, resilient development.\n- **Engineering Excellence**: This engagement demonstrates how structural advice—not new tooling alone—can unlock better results across distributed teams.\n- **Strategic Impact**: Simplification enabled better forecasting, reduced overhead, and made SLB’s engineering system more future-ready.\n\n## Final Takeaway\n\nWhen engineers own the system they work in, magic happens. NKD Agility helps organizations create the clarity, structure, and culture where that ownership can thrive.\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\engineering-excellence-in-action-how-nkd-agility-helped-slb-streamline-build-and-release-across-90-teams-and-13-countries\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\engineering-excellence-in-action-how-nkd-agility-helped-slb-streamline-build-and-release-across-90-teams-and-13-countries",
-    "ReferencePath": "resources/case-studies/engineering-excellence-in-action-how-nkd-agility-helped-slb-streamline-build-and-release-across-90-teams-and-13-countries"
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\PMnxyczoB1K\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\PMnxyczoB1K",
+    "ReferencePath": "resources/case-studies/PMnxyczoB1K"
   },
   {
     "FrontMatter": {
       "title": "Beyond Training: How NKD Agility’s Mentorship Model Transformed a Product Management Team Across Borders",
       "description": "A cross-border product team overcame misalignment and role confusion through immersive mentorship, boosting collaboration, engineering engagement, and agile delivery.",
       "date": "2025-06-02",
-      "weight": 1000.0,
+      "weight": 115.0,
       "slug": "beyond-training-how-nkd-agility-s-mentorship-model-transformed-a-product-management-team-across-borders",
       "aliases": [
         "/resources/L7cngB1uzW9"
@@ -73,20 +115,41 @@
       "ResourceId": "L7cngB1uzW9",
       "ResourceImport": false,
       "ResourceType": "case-studies",
+      "short_title": "Mentorship Model Transformed a Product Management Team",
       "ResourceContentOrigin": "human",
       "draft": false,
       "Watermarks": {
         "description": "2025-06-16T11:50:58Z"
       },
-      "concepts": [],
-      "categories": [
-        "Uncategorized"
+      "concepts": [
+        "Accountability"
       ],
-      "tags": []
+      "categories": [
+        "Product Management",
+        "Product Development",
+        "Technical Leadership"
+      ],
+      "tags": [
+        "Team Collaboration",
+        "Mentoring",
+        "Organisational Agility",
+        "Business Agility",
+        "Agile Transformation",
+        "Competence",
+        "Pragmatic Thinking",
+        "Agile Strategy",
+        "Software Development",
+        "Continuous Learning",
+        "Self Organisation",
+        "Social Technologies",
+        "Team Motivation",
+        "Organisational Culture",
+        "Team Performance"
+      ]
     },
     "BodyContent": "## Client Context\n\nA mid-sized UK-based insurance software company serving platforms like *ComparetheMarket* found themselves at a critical inflection point. Product management teams in the UK and engineering teams in Poland struggled to align. The challenge? Building products for a UK market that Polish engineers had no context for—combined with a broader confusion around roles, strategy, and delivery.\n\nThey had five product owners and a senior product manager, but no clarity on how to move away from top-down leadership to an agile, outcome-driven approach. Communication gaps, context loss, and fractured collaboration were stalling progress.\n\n## The Ask: Product Owner Training\n\nThe initial request was standard: product owner training. But Martin Hinshelwood, Founder of NKD Agility, saw a bigger opportunity. He proposed a Product Management Mentorship Program—an immersive, work-integrated model rooted in deliberate practice.\n\n### Diagnosis: A System Problem, Not a People Problem\n\nMartin quickly identified systemic dysfunction:\n\n- \\*\\*A lack of shared understanding about what a Product Owner actually \\*\\***_does_**: Roles had titles, but little clarity on responsibilities, decision-making rights, or how success was measured. This confusion crippled prioritization and value delivery.\n- **Engineers disconnected from the business domain**: Developers in Poland were building features for the UK insurance market without understanding its regulatory nuances or customer expectations. This lack of context led to misaligned solutions.\n- **Misaligned priorities across geographies**: Product management in the UK and development in Poland were operating on different assumptions and uncoordinated timelines, leading to delivery friction and rework.\n- **Teams stuck between command-and-control habits and agile aspirations**: The organization wanted agility but was still making centralized decisions and enforcing control structures that prevented real empowerment.\n\nThis wasn’t about introducing a new framework. It was about re-engineering how learning, decision-making, and leadership happened day to day.\n\n### Approach: Mentorship as Infrastructure\n\nOver 8 weeks, Martin delivered a customized mentorship experience combining:\n\n- **Core product management concepts from** [Scrum.org](http://scrum.org/ \"http://Scrum.org\"): Grounding the team in a shared language and foundation of modern product thinking.\n- **Real-world examples and mirrors from other organizations**: Helping participants see that their challenges weren’t unique—and that other teams had overcome them.\n- **Weekly assignments to apply new practices inside real work**: Instead of theory, the team had to apply what they learned inside their backlog, sprints, and stakeholder conversations.\n- **Live coaching and feedback loops**: Each week provided space for reflection, challenge, and iteration—not just learning, but *changing*.\n\nInstead of theory in a vacuum, teams got support applying change where it mattered: *inside their system of work*.\n\nOne week, two sub-teams were given the same assignment. One said, \"We can’t do this here.\" The other succeeded. Same org, same resources. That contrast sparked peer learning, reflection, and creative problem-solving—real agile in action.\n\n### Outcomes: Engagement, Capability, and Real Change\n\nWithin 8 weeks:\n\n- **Product owners became more confident, capable, and collaborative**: They moved from passive coordinators to active shapers of value, engaging stakeholders and engineering with greater clarity.\n- **Engineering engagement increased as context improved**: Developers began to understand *why* features mattered, not just *what* to build—resulting in better technical decisions.\n- **Communication between UK and Poland became more fluid and effective**: With aligned language, goals, and rituals, the distributed teams began working as one.\n- **Teams began solving previously intractable problems on their own**: Empowered by deliberate practice, teams stopped escalating every challenge upward and started experimenting with local solutions.\n\nThe CEO later remarked:\n\n> \"After a full day of training and a time zone shift, they were still engaged, still asking questions, still figuring out how to make this stick. That tells me we’ve got something special happening here.\"\n\n## Strategic Impact for CTOs and Tech Leaders\n\nThis case demonstrates what every CTO is seeking:\n\n- **Technical Leadership**: By clearly defining roles, empowering decision-making, and supporting mentorship, the organization unlocked a stronger product-engineering partnership.\n- **Engineering Excellence**: With better context, reduced rework, and stronger feedback loops, the engineering function was able to improve both quality and throughput.\n- **Organizational Agility**: Instead of pushing frameworks, NKD Agility helped create conditions where people could own problems and lead change from where they stood—a hallmark of resilient, adaptive organizations.\n\nMartin Hinshelwood doesn’t deliver courses. He delivers transformation—in context, in flow, and in partnership.\n\n## Final Takeaway\n\nImmersive mentorship is not a luxury. It’s the only path to sustainable, scalable change in complex environments.\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\beyond-training-how-nkd-agilitys-mentorship-model-transformed-a-product-management-team-across-borders\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\beyond-training-how-nkd-agilitys-mentorship-model-transformed-a-product-management-team-across-borders",
-    "ReferencePath": "resources/case-studies/beyond-training-how-nkd-agilitys-mentorship-model-transformed-a-product-management-team-across-borders"
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\L7cngB1uzW9\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\case-studies\\L7cngB1uzW9",
+    "ReferencePath": "resources/case-studies/L7cngB1uzW9"
   }
 ]

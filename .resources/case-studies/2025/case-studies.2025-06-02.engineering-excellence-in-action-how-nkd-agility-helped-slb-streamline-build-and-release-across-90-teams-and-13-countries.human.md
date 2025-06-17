@@ -2,20 +2,39 @@
 title: 'Engineering Excellence in Action: How NKD Agility Helped SLB Streamline Build and Release Across 90 Teams and 13 Countries'
 description: NKD Agility helped SLB unify build and release processes across 90 teams in 13 countries, boosting team ownership, efficiency, and engineering accountability.
 date: 2025-06-02
-weight: 1000
+weight: 65
 slug: engineering-excellence-in-action-how-nkd-agility-helped-slb-streamline-build-and-release-across-90-teams-and-13-countries
 aliases:
 - /resources/PMnxyczoB1K
 - /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
 aliasesArchive:
 - /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
-concepts: []
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+- Technical Leadership
+- DevOps
+tags:
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+- Technical Mastery
+- Team Collaboration
+- Team Performance
+- Modern Source Control
+- Self Organisation
+- Large Scale Agility
+- Release Management
+- Product Delivery
+- Sociotechnical Systems
+- Technical Excellence
+- One Engineering System
+- Agentic Agility
 ResourceId: PMnxyczoB1K
 ResourceImport: false
 ResourceType: case-studies
+short_title: Streamline Build and Release Across 90 Teams and 13 Countries
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-16T11:50:57Z
