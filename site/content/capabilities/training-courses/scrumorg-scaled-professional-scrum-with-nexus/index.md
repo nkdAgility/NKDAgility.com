@@ -33,7 +33,7 @@ course-topics:
 course-vendors:
 - Scrum.org
 course-learning-experiences:
-- Traditional
+- Immersive
 delivery-audiences:
 - Product Owners
 - Product Managers
@@ -56,6 +56,8 @@ card:
   title: Scaled Professional Scrum with Nexus (SPS) with Certification
   content: Scaled Professional Scrum (SPS) with Nexus is a course that is designed as an experiential workshop where students learn how to scale Scrum using the Nexus Framework.
 code: SPS
+course_length: 16
+course_sessions: 8
 level: advanced
 introduction: |2-
 
@@ -116,5 +118,9 @@ Our training is delivered as an interactive, activity-based course over half-day
 - Session 2: Team Selection & Organising Work
 - Session 3: Nexus in Action
 - Session 4: Managing the Nexus
+- Session 5: Dependency Management & Integration
+- Session 6: Scaled Planning & Coordination
+- Session 7: Quality & Technical Practices at Scale
+- Session 8: Scaling Challenges & Solutions
 
 After the conclusion of the class, we provide access to a community of peers and continued access to the trainer through office hours, quarterly catchups, and constant engagement. To maximise validated learning, all students are given a password to take the SPS assessment, and if they take it within 14 days and are unsuccessful, they will be granted a second attempt. As part of our validated learning experience, we provide a 30-minute learning review, a 1h coaching session, and access to future courses at a 30% discount on future classes.

@@ -1,0 +1,122 @@
+syllabusBefore:
+  - title: "Pre-Course Assessment"
+    description: "Complete the Scrum Master self-assessment to identify learning goals"
+    resources:
+      - type: "assessment"
+        title: "Scrum Master Competency Assessment"
+        url: "https://nkdagility.com/assessments/scrum-master"
+    timeRequired: "30 minutes"
+  - title: "Review Scrum Guide"
+    description: "Refresh your understanding of the Scrum framework"
+    resources:
+      - type: "reading"
+        title: "The Scrum Guide"
+        url: "https://scrumguides.org"
+    timeRequired: "45 minutes"
+
+syllabus:
+  - id: 1
+    title: "Scaling Scrum & Organising Teams"
+    duration: 120
+    content: "Learn the fundamentals of scaling Scrum and how to organize multiple teams working on the same product."
+    learningResources:
+      - title: "Scale Scrum to deliver a complex product with multiple Development Teams"
+        link: "https://youtu.be/oICif1DB7Yw"
+        duration: 58
+        type: "video"
+        weight: 1
+      - title: "Why Microsoft Measures Employee Thriving, Not Engagement"
+        link: "https://hbr.org/2022/06/why-microsoft-measures-employee-thriving-not-engagement?utm_source=pocket_mylist"
+        duration: 15
+        type: "article"
+        weight: 2
+    assignment:
+      title: "Assess Your Current Scaling Challenges"
+      content: "Identify and document the current scaling challenges in your organization. Create a brief assessment of where your teams struggle with coordination, dependencies, and alignment."
+      examples: "Examples might include: communication breakdowns between teams, duplicated work, integration challenges, or unclear accountability across teams."
+
+  - id: 2
+    title: "Team Selection & Organising Work"
+    duration: 120
+    content: "Understand how to select and organize teams for scaled Scrum implementation, including cross-team refinement practices."
+    learningResources:
+      - title: "Cross-Team Refinement in Nexus"
+        link: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/2016-08/Cross-Team%20Refinement%20in%20Nexus%20whitepaper_0.pdf"
+        duration: 30
+        type: "whitepaper"
+        weight: 1
+    assignment:
+      title: "Design Your Team Structure"
+      content: "Based on your current product and organization, design an optimal team structure for scaling Scrum. Consider skills, dependencies, and product architecture."
+      examples: "Consider factors like feature teams vs component teams, skill distribution, geographic distribution, and how to minimize dependencies."
+
+  - id: 3
+    title: "Nexus in Action"
+    duration: 120
+    content: "Deep dive into the Nexus framework and how to visualize and manage the Nexus Sprint Backlog effectively."
+    learningResources:
+      - title: "Visualizing the Nexus Sprint Backlog"
+        link: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/2020-06/Visualizing%20the%20Nexus%20Sprint%20Backlog.pdf"
+        duration: 25
+        type: "whitepaper"
+        weight: 1
+    assignment:
+      title: "Create Your Nexus Sprint Backlog"
+      content: "Design a visualization approach for your Nexus Sprint Backlog that works for your context. Include how you'll track dependencies and integration points."
+      examples: "Consider using tools like Azure Boards, Jira, or physical boards. Focus on making dependencies and integration work visible."
+
+  - id: 4
+    title: "Managing the Nexus"
+    duration: 120
+    content: "Learn advanced practices for managing scaled agile initiatives and the importance of architecture in scaling."
+    learningResources:
+      - title: "Whitepaper: You Can't Scale Enterprise Agility Without Architecture"
+        link: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/2022-08/Whitepaper%20YOU%20CAN%E2%80%99T%20SCALE%20ENTERPRISE%20AGILITY%20WITHOUT%20ARCHITECTURE.pdf"
+        duration: 45
+        type: "whitepaper"
+        weight: 1
+      - title: "From Now to New Right Here: Change-as-Flipping"
+        link: "https://www.slideshare.net/slideshow/from-now-to-new-right-here-changeasflipping-betacodex16/133691203"
+        duration: 30
+        type: "presentation"
+        weight: 2
+    assignment:
+      title: "Develop Your Scaling Strategy"
+      content: "Create a comprehensive strategy for implementing or improving scaled Scrum in your organization, including architectural considerations."
+      examples: "Include governance approach, architectural standards, integration practices, and change management strategies."
+
+  - id: 5
+    title: "Dependency Management & Integration"
+    duration: 120
+    content: "Master the techniques for identifying, managing, and reducing dependencies between teams in a scaled environment."
+    assignment:
+      title: "Map and Minimize Dependencies"
+      content: "Create a dependency map for your current or planned scaled implementation. Identify opportunities to reduce or eliminate dependencies."
+      examples: "Use techniques like dependency mapping, architectural refactoring suggestions, or team reorganization proposals."
+
+  - id: 6
+    title: "Scaled Planning & Coordination"
+    duration: 120
+    content: "Learn effective practices for planning and coordinating work across multiple Scrum teams working on the same product."
+    assignment:
+      title: "Design Your Coordination Approach"
+      content: "Develop a coordination framework that includes planning rhythms, communication protocols, and integration practices for your scaled teams."
+      examples: "Consider PI Planning, Scrum of Scrums, cross-team retrospectives, and integration checkpoints."
+
+  - id: 7
+    title: "Quality & Technical Practices at Scale"
+    duration: 120
+    content: "Explore the technical practices and quality measures necessary to maintain high standards when scaling Scrum."
+    assignment:
+      title: "Establish Your Quality Framework"
+      content: "Create a quality framework that ensures consistent standards across all teams in your scaled implementation."
+      examples: "Include definition of done, testing strategies, continuous integration practices, and technical debt management."
+
+  - id: 8
+    title: "Scaling Challenges & Solutions"
+    duration: 120
+    content: "Address common scaling challenges and develop solutions. Prepare for ongoing improvement and adaptation of your scaled approach."
+    assignment:
+      title: "Implementation Roadmap"
+      content: "Create a detailed roadmap for implementing the concepts learned throughout the course in your organization."
+      examples: "Include timeline, key milestones, success metrics, and strategies for overcoming anticipated obstacles."
