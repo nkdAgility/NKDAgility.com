@@ -3,12 +3,12 @@ title: Rethinking Dev-Test-Staging-Production Pipelines for Safety
 description: Explores why traditional Dev-Test-Staging-Production pipelines fall short and highlights audience-based deployment for safer, faster feedback in real production environments.
 date: 2025-02-21T16:30:30+00:00
 weight: 210
-slug: rethinking-dev-test-staging-production-pipelines-for-safety
-aliases:
-- /resources/3oUXWDsN6Qa
 ResourceId: 3oUXWDsN6Qa
 ResourceImport: false
 ResourceType: signals
+slug: rethinking-dev-test-staging-production-pipelines-for-safety
+aliases:
+- /resources/3oUXWDsN6Qa
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

@@ -3,14 +3,14 @@ title: Scrum is not an engineering process
 description: Explains why Scrum is a social framework, not just engineering, emphasizing inclusive training, alignment, collaboration, and breaking command-and-control mindsets for true agility.
 date: 2025-05-21T15:30:39+01:00
 weight: 1000
-slug: scrum-is-not-an-engineering-process
-aliases:
-- /resources/2meGTZZAPdw
 ResourceId: 2meGTZZAPdw
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
+slug: scrum-is-not-an-engineering-process
+aliases:
+- /resources/2meGTZZAPdw
 layout: signal
+ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:

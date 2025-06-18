@@ -3,12 +3,12 @@ title: Why Tracking Individual Cycle Time Distorts Team Behaviour
 description: Tracking individual cycle time can harm team performance by encouraging task cherry-picking, reduced collaboration, and lower quality, without improving overall delivery speed.
 date: 2025-03-12T16:30:03+00:00
 weight: 220
-slug: why-tracking-individual-cycle-time-distorts-team-behaviour
-aliases:
-- /resources/cbyRy2IJmM0
 ResourceId: cbyRy2IJmM0
 ResourceImport: false
 ResourceType: signals
+slug: why-tracking-individual-cycle-time-distorts-team-behaviour
+aliases:
+- /resources/cbyRy2IJmM0
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

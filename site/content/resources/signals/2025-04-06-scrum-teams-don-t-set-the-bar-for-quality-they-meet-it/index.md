@@ -3,12 +3,12 @@ title: Scrum Teams don’t set the bar for quality—they meet it
 description: Scrum Teams uphold, not lower, quality by strictly following and evolving the Definition of Done, ensuring predictable releases and reducing technical debt and risk.
 date: 2025-04-06T15:30:00+01:00
 weight: 130
-slug: scrum-teams-don-t-set-the-bar-for-quality-they-meet-it
-aliases:
-- /resources/5lIasyqT9Rm
 ResourceId: 5lIasyqT9Rm
 ResourceImport: false
 ResourceType: signals
+slug: scrum-teams-don-t-set-the-bar-for-quality-they-meet-it
+aliases:
+- /resources/5lIasyqT9Rm
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

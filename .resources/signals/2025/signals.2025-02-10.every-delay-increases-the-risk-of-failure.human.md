@@ -3,12 +3,12 @@ title: Every delay increases the risk of failure
 description: Delaying software releases increases failure risk. Frequent, small releases improve success rates, adaptability, and recovery, as shown by CHAOS Report and DORA metrics.
 date: 2025-02-10T11:00:51+00:00
 weight: 160
-slug: every-delay-increases-the-risk-of-failure
-aliases:
-- /resources/-hq1U7x2uea
 ResourceId: -hq1U7x2uea
 ResourceImport: false
 ResourceType: signals
+slug: every-delay-increases-the-risk-of-failure
+aliases:
+- /resources/-hq1U7x2uea
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

@@ -3,12 +3,12 @@ title: Why Measuring Individual Cycle Time Fails to Help Teams
 description: Measuring individual cycle time overlooks team performance and system bottlenecks. Focus on lead time, throughput, and process efficiency to improve workflow.
 date: 2025-03-15T16:30:02+00:00
 weight: 245
-slug: why-measuring-individual-cycle-time-fails-to-help-teams
-aliases:
-- /resources/ZZGeHcnIwyQ
 ResourceId: ZZGeHcnIwyQ
 ResourceImport: false
 ResourceType: signals
+slug: why-measuring-individual-cycle-time-fails-to-help-teams
+aliases:
+- /resources/ZZGeHcnIwyQ
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

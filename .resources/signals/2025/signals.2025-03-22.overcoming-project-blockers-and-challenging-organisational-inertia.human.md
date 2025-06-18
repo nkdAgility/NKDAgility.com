@@ -3,12 +3,12 @@ title: Overcoming Project Blockers and Challenging Organisational Inertia
 description: Explores how lack of authority hinders teams from removing project blockers and overcoming organisational inertia, stressing the need for real autonomy to achieve results.
 date: 2025-03-22T16:30:03+00:00
 weight: 420
-slug: overcoming-project-blockers-and-challenging-organisational-inertia
-aliases:
-- /resources/aXo_GayoCuE
 ResourceId: aXo_GayoCuE
 ResourceImport: false
 ResourceType: signals
+slug: overcoming-project-blockers-and-challenging-organisational-inertia
+aliases:
+- /resources/aXo_GayoCuE
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

@@ -3266,5 +3266,24 @@
     "reasoning": "The content critiques staging environments, promotes audience-based deployments, and focuses on real-time risk mitigation. It neither mentions nor discusses Definition of Workflow, Kanban, nor related policies or agreements. Its message is about minimizing risk by shifting deployments directly to production. Although it addresses process improvement at a high level, it fails to align with the core Definition of Workflow concepts (explicit agreements, entry/exit policies, WIP limits, or making workflow visible/legible). The intent is to critique traditional process models rather than explain or improve explicit workflows, and the target audience is practitioners concerned with deployment safety—not teams managing work through Kanban/agile workflow. The critical tone and outdated references further decrease alignment and confidence.",
     "reasoning_summary": "This content critiques staging environments and encourages incremental production releases but does not reference or align with the Definition of Workflow category. Its focus is on deployment strategy, not explicit workflow policies or Kanban principles.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "syS5yJ_GthF",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:29:12",
+    "ai_confidence": 3.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.4,
+    "ai_intent": 0.8,
+    "ai_audience": 0.9,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content does not directly reference Objective Key Results (OKRs), nor does it discuss objectives, key results, or their role within agile or outcome-driven frameworks. Instead, it critiques the limitations of staging environments and advocates for safer release practices in production. Although it aligns with DevOps and continuous delivery concepts, there is no explicit or substantive exploration of OKRs, their principles, or implementation. The discussion focuses entirely on deployment strategies with no mention of measurement frameworks, strategic alignment, outcome measurement, or the OKR philosophy. Audience is likely relevant (engineering/product), but the topic does not intersect with the theoretical or practical underpinnings of OKRs.",
+    "reasoning_summary": "The content focuses on deployment strategies and risks with staging environments, not on Objective Key Results. There are no direct mentions or conceptual links to OKRs, and none of the OKR framework's principles or practices are discussed or implied.",
+    "level": "Ignored"
   }
 }

@@ -3,12 +3,12 @@ title: What Makes an Effective Scrum Master Beyond Meeting Facilitation
 description: Explores key qualities of an effective Scrum Master, focusing on team empowerment, backlog management, collaboration, and removing organisational barriers for lasting impact.
 date: 2025-02-23T16:30:01+00:00
 weight: 380
-slug: what-makes-an-effective-scrum-master-beyond-meeting-facilitation
-aliases:
-- /resources/uTkyoIh6f3c
 ResourceId: uTkyoIh6f3c
 ResourceImport: false
 ResourceType: signals
+slug: what-makes-an-effective-scrum-master-beyond-meeting-facilitation
+aliases:
+- /resources/uTkyoIh6f3c
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

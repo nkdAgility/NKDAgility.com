@@ -3266,5 +3266,24 @@
     "reasoning": "The content focuses exclusively on the harms of technical debt, using examples and case studies to illustrate its negative impacts. It discusses technical debt's effects on productivity, system stability, and business risk but does not address, mention, or explore the Definition of Workflow or its core concepts within Kanban/agile practice. There are no explicit or implicit references to entry/exit criteria, WIP limits, workflow visualization, or policies governing the flow of work. Audience focus is on engineering teams, which somewhat aligns, but the messaging is off-category.",
     "reasoning_summary": "The content is solely about technical debt and lacks any discussion of the Definition of Workflow or related Kanban/agile workflow concepts. It is off-topic for this category and only aligns very tangentially, resulting in very low confidence.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "lLNjkL_zGQa",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:27:02",
+    "ai_confidence": 6.38,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 2.7,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content is focused exclusively on technical debt—its negative impact, warning signs, and a case study (Microsoft TFS)—with no explicit or implicit reference to OKRs. There is no mention of objectives, key results, measurable outcomes, or strategic alignment as described by John Doerr or the OKR framework. Even though some terms like 'transparency,' 'Sprints,' or tackling systemic issues may be present, these are addressed in service to reducing technical debt, not through the lens of outcome-based measurement, OKR structure, or iterative alignment. There is no discussion of setting objectives, tracking measurable key results, or strategic intent. The desired audience seems to be engineering or delivery teams, potentially aligning to an agile/DevOps context, but not in connection to OKRs. Consequently, each dimension scores near the minimum: barely any direct mention, negligible conceptual overlap, and shallow depth regarding the category. Signal-to-noise is low for OKR, as the signal is entirely about technical debt rather than outcome-driven frameworks.",
+    "reasoning_summary": "This content centers on technical debt and its effects, offering no reference or real alignment with Objective Key Results. It neither discusses OKR frameworks, measurable objectives, nor connects technical debt remediation to outcome-driven approaches described by OKRs.",
+    "level": "Ignored"
   }
 }

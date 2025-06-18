@@ -3,12 +3,12 @@ title: Executives want predictability
 description: Lack of a clear, enforced Definition of Done leads to hidden risks, unreliable forecasts, and eroded trust in delivery, undermining predictability and organisational confidence.
 date: 2025-03-31T15:30:08+01:00
 weight: 235
-slug: executives-want-predictability
-aliases:
-- /resources/sJJYz51QG0O
 ResourceId: sJJYz51QG0O
 ResourceImport: false
 ResourceType: signals
+slug: executives-want-predictability
+aliases:
+- /resources/sJJYz51QG0O
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

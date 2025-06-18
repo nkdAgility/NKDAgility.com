@@ -3266,5 +3266,24 @@
     "reasoning": "Direct mentions of 'engineering excellence' or related terminology are minimal, but the content conceptually aligns with core themes of high technical standards, proactive testing, and resilience engineering. It provides an anecdotal but substantial look at best practices for disaster recovery—a component of engineering excellence—by highlighting how regular live-testing prevents failures. The audience is technical (engineering managers or ops teams), though not exhaustively so. There is strong intent toward promoting best engineering practices. Slight limitations arise due to a focus on a single recovery strategy rather than broader software development principles, and the absence of explicit references to code, CI/CD, or common engineering metrics. However, the narrative still presents a compelling discussion of operational excellence within an engineering context.",
     "reasoning_summary": "This content aligns well with Engineering Excellence by showcasing the value of hands-on failure testing to ensure resilience. Although explicit terminology is sparse and the focus is on a single operational practice, it effectively demonstrates a key engineering principle and targets a technical audience.",
     "level": "Secondary"
+  },
+  "Objective Key Results": {
+    "resourceId": "8SSU0fALhd8",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:26:44",
+    "ai_confidence": 2.67,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.7,
+    "ai_intent": 1.2,
+    "ai_audience": 2.3,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content does not mention OKRs or Objective Key Results either directly or indirectly. Its focus is on operational resilience through regular disaster recovery drills, not on outcome-based measurement or structured goal-setting frameworks. There is no discussion of OKR theory, objectives, key results, alignment, or strategic intent as defined by John Doerr. The audience is technical, but the message centers on crisis preparedness and live exercises rather than evidence-based management or OKRs. Signal-to-noise is reasonably high for its topic, but entirely unrelated to OKRs; even a broad conceptual stretch (e.g., linking regular testing to continuous improvement) does not align with OKR principles or methodologies.",
+    "reasoning_summary": "This content is about operational resilience and live disaster recovery testing, not Objective Key Results. There are no direct or indirect references to OKRs, their theory, or implementation, and the focus is unrelated to outcome-based goal frameworks.",
+    "level": "Ignored"
   }
 }

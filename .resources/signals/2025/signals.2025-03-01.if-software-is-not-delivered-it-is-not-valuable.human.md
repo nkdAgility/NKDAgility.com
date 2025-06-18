@@ -3,12 +3,12 @@ title: If software is not delivered, it is not valuable
 description: Undelivered software provides no value. Frequent, iterative releases reduce risk, cost, and failure, enabling faster learning and real user impact in software development.
 date: 2025-03-01T16:30:03+00:00
 weight: 320
-slug: if-software-is-not-delivered-it-is-not-valuable
-aliases:
-- /resources/KMId0yk2uL1
 ResourceId: KMId0yk2uL1
 ResourceImport: false
 ResourceType: signals
+slug: if-software-is-not-delivered-it-is-not-valuable
+aliases:
+- /resources/KMId0yk2uL1
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

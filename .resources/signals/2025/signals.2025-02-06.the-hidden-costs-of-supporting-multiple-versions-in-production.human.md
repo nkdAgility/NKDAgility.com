@@ -3,12 +3,12 @@ title: The Hidden Costs of Supporting Multiple Versions in Production
 description: Maintaining multiple production versions increases bugs, merge conflicts, and technical debt, making development harder and less efficient for engineering teams.
 date: 2025-02-06T16:30:01+00:00
 weight: 190
-slug: the-hidden-costs-of-supporting-multiple-versions-in-production
-aliases:
-- /resources/un1ZqM8aYng
 ResourceId: un1ZqM8aYng
 ResourceImport: false
 ResourceType: signals
+slug: the-hidden-costs-of-supporting-multiple-versions-in-production
+aliases:
+- /resources/un1ZqM8aYng
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

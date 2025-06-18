@@ -3266,5 +3266,24 @@
     "reasoning": "The content focuses on Microsoft’s evolution in OS deployment strategy, emphasizing ring-based gradual rollouts using telemetry and feedback. While it discusses workflow improvements in a deployment context, there are no explicit mentions or descriptions of the Definition of Workflow as prescribed by Kanban, nor are key concepts like entry/exit criteria, WIP limits, or explicit policy agreements addressed. The main intent is to showcase deployment modernization, not to define or deeply explore Workflow in the Kanban or agile sense.",
     "reasoning_summary": "This piece centers on deployment strategy evolution at Microsoft, describing staged rollouts and continuous feedback. However, it does not directly address or explicate the Definition of Workflow as understood in Kanban/agile, making its fit with the category weak and largely tangential.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "6FqFYeSHQBg",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:29:15",
+    "ai_confidence": 6.1,
+    "ai_mentions": 0.4,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 1.1,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content does not directly mention OKRs or related terminology. Its focus is on release engineering (ring-based deployment, staged rollouts, telemetry in deployment). These themes relate adjacent practices in DevOps and agile, such as feedback and continuous improvement, but do not explore objectives, key results, alignment, or outcome measurement frameworks from the OKR perspective. There are no clear references to strategic goal-setting, outcome-based evidence, or OKR-facilitated transparency. The audience (release engineers, product delivery teams) could overlap with those interested in OKRs, but the content's purpose and depth remain narrowly on technical deployment migration. No penalties are necessary, as the content is not outdated nor critical of the OKR approach—it simply is not about OKRs.",
+    "reasoning_summary": "This content details Windows OS release practices with a focus on deployment, not OKRs. No direct or conceptual alignment appears with Objective Key Results, and the discussion is limited to deployment techniques, lacking exploration of strategy, outcomes, or alignment typical of OKRs.",
+    "level": "Ignored"
   }
 }

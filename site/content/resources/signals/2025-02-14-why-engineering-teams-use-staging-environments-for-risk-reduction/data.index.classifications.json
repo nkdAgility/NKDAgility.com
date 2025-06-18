@@ -3266,5 +3266,24 @@
     "reasoning": "The content focuses on the pros and cons of staging environments, alternatives like feature flags and progressive rollouts, and evaluating their effectiveness in engineering teams. It does not mention, define, or explore the Definition of Workflow in the Kanban or agile sense—there are no references to policies, entry/exit criteria, workflow visualization, WIP limits, or Kanban theory. Though it targets technical practitioners (engineers), it remains outside the category’s scope. Any alignment is purely incidental (i.e., discussing flow of work in deployment pipelines, not workflow agreements or policies).",
     "reasoning_summary": "This content is primarily about the use of staging environments and risk reduction in deployment, not about the Definition of Workflow or related Kanban/agile concepts. There’s no substantive coverage or direct relevance to the category.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "r8qUPpdsgnM",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:29:14",
+    "ai_confidence": 2.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 0.5,
+    "ai_audience": 4.2,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content strictly discusses the pros and cons of staging environments, focusing on risk reduction, cost, and deployment strategies like feature flags and progressive rollouts. It does not mention OKRs, outcome-based measurement, or any theoretical, practical, or strategic aspects tied to Objective Key Results. There is no alignment to the foundational principles, language, or intent of OKRs, nor any discussion on measurable objectives, key results, or behavior associated with OKR practice. The target audience is engineering/devops practitioners, which has some overlap with potential OKR users, but none of the main themes or outcomes are connected to OKRs or the framework described by John Doerr.",
+    "reasoning_summary": "This content addresses deployment strategies and the costs of staging environments, without reference to OKRs or outcome-based goal-setting frameworks. It is not relevant to the Objective Key Results category.",
+    "level": "Ignored"
   }
 }

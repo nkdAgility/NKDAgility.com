@@ -3,12 +3,12 @@ title: let-us do the maths
 description: Explains how slow product release cycles delay feature delivery, risk losing relevance, and create competitive disadvantages, highlighting the benefits of faster iterations.
 date: 2025-04-30T15:30:52+01:00
 weight: 265
-slug: let-us-do-the-maths
-aliases:
-- /resources/XYMN44lJp1n
 ResourceId: XYMN44lJp1n
 ResourceImport: false
 ResourceType: signals
+slug: let-us-do-the-maths
+aliases:
+- /resources/XYMN44lJp1n
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

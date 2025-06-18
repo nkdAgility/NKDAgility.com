@@ -3,12 +3,12 @@ title: Scrum Masters are not glorified meeting schedulers
 description: Scrum Masters must have technical and business expertise to guide teams, improve code quality, and drive real agility—not just schedule meetings. Coding skills are essential.
 date: 2025-03-09T16:30:01+00:00
 weight: 110
-slug: scrum-masters-are-not-glorified-meeting-schedulers
-aliases:
-- /resources/ASC0IjY5nKr
 ResourceId: ASC0IjY5nKr
 ResourceImport: false
 ResourceType: signals
+slug: scrum-masters-are-not-glorified-meeting-schedulers
+aliases:
+- /resources/ASC0IjY5nKr
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

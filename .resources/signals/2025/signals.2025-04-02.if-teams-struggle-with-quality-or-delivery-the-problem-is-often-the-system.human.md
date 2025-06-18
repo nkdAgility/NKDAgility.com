@@ -3,12 +3,12 @@ title: If teams struggle with quality or delivery, the problem is often the syst
 description: Team issues with quality or delivery often stem from weak systems, lacking clear standards, automation, and leadership support—not just team performance.
 date: 2025-04-02T15:30:05+01:00
 weight: 190
-slug: if-teams-struggle-with-quality-or-delivery-the-problem-is-often-the-system
-aliases:
-- /resources/cXJnv3y4sb7
 ResourceId: cXJnv3y4sb7
 ResourceImport: false
 ResourceType: signals
+slug: if-teams-struggle-with-quality-or-delivery-the-problem-is-often-the-system
+aliases:
+- /resources/cXJnv3y4sb7
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

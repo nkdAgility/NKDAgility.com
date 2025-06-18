@@ -3,12 +3,12 @@ title: 99% of all animal species that ever existed are now extinct
 description: Most animal species have gone extinct due to failure to adapt; similarly, businesses must evolve processes and mindsets to survive in changing markets.
 date: 2025-04-11T15:30:00+01:00
 weight: 730
-slug: 99-of-all-animal-species-that-ever-existed-are-now-extinct
-aliases:
-- /resources/qMzA_cuW2QF
 ResourceId: qMzA_cuW2QF
 ResourceImport: false
 ResourceType: signals
+slug: 99-of-all-animal-species-that-ever-existed-are-now-extinct
+aliases:
+- /resources/qMzA_cuW2QF
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

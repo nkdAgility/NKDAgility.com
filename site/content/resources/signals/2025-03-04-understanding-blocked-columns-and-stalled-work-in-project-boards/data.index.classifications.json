@@ -3266,5 +3266,24 @@
     "reasoning": "The content critiques the use of 'Blocked' columns on project boards, emphasizing their detrimental impact on workflow visibility and process integrity. It aligns (though not directly) with the Kanban concept of making work explicit and managing flow, especially by highlighting how improper workflow modeling (i.e., misplacing blocked work) obscures real process states and inflates WIP. The content implicitly references key Kanban principles (such as WIP limits and visible flow) without explicitly mentioning the 'Definition of Workflow' as a formal construct, resulting in a moderate 'Direct Mentions' score. The alignment is substantively present since the advice supports making workflow policies explicit and adaptable. However, it does not discuss entry/exit policies or provide a deep exploration of the full 'Definition of Workflow,' lowering the 'depth' score. The intended audience is practitioners familiar with boards and Kanban/team processes, which matches well. The signal is slightly reduced as the focus is on a symptom of poor workflow policy rather than the explicit definition itself.",
     "reasoning_summary": "This content advises against using 'Blocked' columns, showing partial alignment with Kanban workflow principles. While it touches on explicit workflow modeling and its impacts, it doesn't explicitly define or fully explore the 'Definition of Workflow' in Kanban, making its fit relevant but not comprehensive.",
     "level": "Tertiary"
+  },
+  "Objective Key Results": {
+    "resourceId": "6K6oGV9pRbC",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:29:08",
+    "ai_confidence": 3.25,
+    "ai_mentions": 0.0,
+    "ai_alignment": 2.9,
+    "ai_depth": 3.2,
+    "ai_intent": 5.0,
+    "ai_audience": 5.5,
+    "ai_signal": 4.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content does not mention OKRs or any related terminology. Its focus is on workflow management, specifically the pitfalls of using 'blocked' columns on project boards, which is fundamentally tied to task and workflow visualization rather than structured outcome-based goal systems like OKRs. The discussion remains squarely within Kanban or general Agile workflow patterns, with no reference to strategic alignment, measurable outcomes, or the OKR framework. Therefore, alignment and depth remain low; the intent is to improve daily workflow, not to engage with outcome-driven goal-setting as defined for OKRs. The audience overlaps minimally, as team process improvement could interest OKR practitioners, but the topic is tangential.",
+    "reasoning_summary": "This content is strictly about task flow and addressing stalled work on project boards; it does not discuss or align with Objective Key Results, focusing instead on operational issues unrelated to outcome-based goal-setting frameworks like OKRs.",
+    "level": "Ignored"
   }
 }

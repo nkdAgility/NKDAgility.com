@@ -3,12 +3,12 @@ title: Hiring a Product Owner? Avoid copying job specs from the internet
 description: Learn what makes an effective Product Owner, why generic job specs fall short, and which key responsibilities and skills are essential for true product leadership and success.
 date: 2025-04-15T15:30:50+01:00
 weight: 725
-slug: hiring-a-product-owner-avoid-copying-job-specs-from-the-internet
-aliases:
-- /resources/-p1bBjBS0bA
 ResourceId: -p1bBjBS0bA
 ResourceImport: false
 ResourceType: signals
+slug: hiring-a-product-owner-avoid-copying-job-specs-from-the-internet
+aliases:
+- /resources/-p1bBjBS0bA
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

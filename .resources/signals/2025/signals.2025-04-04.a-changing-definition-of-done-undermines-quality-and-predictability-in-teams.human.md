@@ -3,12 +3,12 @@ title: A changing Definition of Done undermines quality and predictability in te
 description: Frequent changes to the Definition of Done reduce team quality and predictability. Consistent, enforced standards are key to reliable delivery and continuous improvement.
 date: 2025-04-04T15:30:02+01:00
 weight: 255
-slug: a-changing-definition-of-done-undermines-quality-and-predictability-in-teams
-aliases:
-- /resources/lPs2C5FQ5cR
 ResourceId: lPs2C5FQ5cR
 ResourceImport: false
 ResourceType: signals
+slug: a-changing-definition-of-done-undermines-quality-and-predictability-in-teams
+aliases:
+- /resources/lPs2C5FQ5cR
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

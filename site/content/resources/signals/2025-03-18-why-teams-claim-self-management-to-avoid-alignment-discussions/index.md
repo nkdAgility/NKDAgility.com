@@ -3,12 +3,12 @@ title: Why Teams Claim Self-Management to Avoid Alignment Discussions
 description: Explores how teams misuse self-management to dodge alignment, clarifying that true autonomy requires accountability, shared goals, and adherence to frameworks like Scrum.
 date: 2025-03-18T16:30:34+00:00
 weight: 425
-slug: why-teams-claim-self-management-to-avoid-alignment-discussions
-aliases:
-- /resources/UUh2trdq4D1
 ResourceId: UUh2trdq4D1
 ResourceImport: false
 ResourceType: signals
+slug: why-teams-claim-self-management-to-avoid-alignment-discussions
+aliases:
+- /resources/UUh2trdq4D1
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

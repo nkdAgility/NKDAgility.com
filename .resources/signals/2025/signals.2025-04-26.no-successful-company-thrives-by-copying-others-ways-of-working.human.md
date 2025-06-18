@@ -3,12 +3,12 @@ title: No successful company thrives by copying others’ ways of working
 description: Successful companies thrive by creating unique ways of working, not by copying frameworks. Tailor your approach to fit your organisation’s culture, needs, and goals.
 date: 2025-04-26T15:30:29+01:00
 weight: 540
-slug: no-successful-company-thrives-by-copying-others-ways-of-working
-aliases:
-- /resources/GcanwqIp5ok
 ResourceId: GcanwqIp5ok
 ResourceImport: false
 ResourceType: signals
+slug: no-successful-company-thrives-by-copying-others-ways-of-working
+aliases:
+- /resources/GcanwqIp5ok
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

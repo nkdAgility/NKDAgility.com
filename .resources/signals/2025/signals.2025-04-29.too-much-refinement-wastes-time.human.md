@@ -3,12 +3,12 @@ title: Too much refinement wastes time
 description: Balancing backlog refinement prevents wasted effort and chaos. Aim for just enough detail so developers can plan sprints confidently without over-preparing or guessing.
 date: 2025-04-29T15:30:43+01:00
 weight: 345
-slug: too-much-refinement-wastes-time
-aliases:
-- /resources/2GV6voRFhjH
 ResourceId: 2GV6voRFhjH
 ResourceImport: false
 ResourceType: signals
+slug: too-much-refinement-wastes-time
+aliases:
+- /resources/2GV6voRFhjH
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

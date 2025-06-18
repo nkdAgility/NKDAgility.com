@@ -3,12 +3,12 @@ title: Engineering can fix technical debt, but leadership has to invest in it
 description: Technical debt requires leadership investment to resolve; without support for automation and quality improvements, continuous delivery is not achievable for engineering teams.
 date: 2025-03-03T16:30:35+00:00
 weight: 130
-slug: engineering-can-fix-technical-debt-but-leadership-has-to-invest-in-it
-aliases:
-- /resources/XRePaJiX1kj
 ResourceId: XRePaJiX1kj
 ResourceImport: false
 ResourceType: signals
+slug: engineering-can-fix-technical-debt-but-leadership-has-to-invest-in-it
+aliases:
+- /resources/XRePaJiX1kj
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

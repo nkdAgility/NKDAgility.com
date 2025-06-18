@@ -3,12 +3,12 @@ title: The majority of Scrum Masters are not fit for their position
 description: Most Scrum Masters lack essential Scrum knowledge, with only 39% meeting core standards. Poor competency threatens team success and highlights the need for better training.
 date: 2024-06-03T14:44:00Z
 weight: 705
-slug: the-majority-of-scrum-masters-are-not-fit-for-their-position
-aliases:
-- /resources/nTipEJck6ez
 ResourceId: nTipEJck6ez
 ResourceImport: false
 ResourceType: signals
+slug: the-majority-of-scrum-masters-are-not-fit-for-their-position
+aliases:
+- /resources/nTipEJck6ez
 layout: signal
 ResourceContentOrigin: Hybrid
 resourceTypes:
