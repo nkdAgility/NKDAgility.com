@@ -99,3 +99,186 @@
     column-count: 4;
   }
 }
+
+/* Custom Tooltip Styling */
+.tooltip {
+  --bs-tooltip-max-width: 50vw; /* 50% of screen width */
+}
+
+.tooltip .tooltip-inner {
+  max-width: 25vw; /* 25% of screen width */
+  text-align: left; /* Left-aligned content */
+  white-space: normal; /* Allow text wrapping */
+  padding: 0.75rem; /* More padding for better readability */
+  font-size: 0.875rem; /* Slightly smaller font size */
+  line-height: 1.4; /* Better line spacing */
+  background-color: var(--background-color);
+  color: var(--text-color);
+  border: 1px solid var(--primary-color);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.tooltip .tooltip-inner h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: var(--primary-color-text);
+  border-bottom: 1px solid var(--primary-color);
+}
+
+.tooltip .tooltip-inner p {
+  margin-bottom: 0.25rem;
+  font-size: 0.825rem;
+  color: var(--text-color);
+}
+
+.tooltip .tooltip-inner p:last-child {
+  margin-bottom: 0;
+}
+
+/* Enhanced Tooltip Content Styling */
+.tooltip .tooltip-inner .tooltip-title h6 {
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--primary-color-text);
+  border-bottom: 1px solid var(--primary-color);
+  padding-bottom: 0.25rem;
+}
+
+.tooltip .tooltip-inner .tooltip-description p {
+  margin: 0 0 0.75rem 0;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: var(--text-color);
+}
+
+.tooltip .tooltip-inner .tooltip-meta-primary {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--secondary-color);
+}
+
+.tooltip .tooltip-inner .tooltip-meta-primary small {
+  font-size: 0.75rem;
+  font-weight: 500;
+  color: var(--primary-color-text);
+  line-height: 1.3;
+}
+
+.tooltip .tooltip-inner .tooltip-meta-secondary {
+  margin-top: 0.25rem;
+}
+
+.tooltip .tooltip-inner .tooltip-meta-secondary small {
+  font-size: 0.7rem;
+  color: var(--secondary-color);
+  line-height: 1.3;
+}
+
+/* Tooltip arrow theming */
+.tooltip.bs-tooltip-top .tooltip-arrow::before {
+  border-top-color: var(--primary-color);
+}
+
+.tooltip.bs-tooltip-bottom .tooltip-arrow::before {
+  border-bottom-color: var(--primary-color);
+}
+
+.tooltip.bs-tooltip-start .tooltip-arrow::before {
+  border-left-color: var(--primary-color);
+}
+
+.tooltip.bs-tooltip-end .tooltip-arrow::before {
+  border-right-color: var(--primary-color);
+}
+
+/* Light Mode Specific Overrides */
+[data-theme="light"] .tooltip .tooltip-inner {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  border-color: var(--primary-color);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+[data-theme="light"] .tooltip .tooltip-inner h6,
+[data-theme="light"] .tooltip .tooltip-inner .tooltip-title h6 {
+  color: var(--primary-color-heading);
+  border-bottom-color: var(--primary-color);
+}
+
+[data-theme="light"] .tooltip .tooltip-inner p,
+[data-theme="light"] .tooltip .tooltip-inner .tooltip-description p {
+  color: var(--text-color);
+}
+
+[data-theme="light"] .tooltip .tooltip-inner .tooltip-meta-primary {
+  border-top-color: var(--secondary-color);
+}
+
+[data-theme="light"] .tooltip .tooltip-inner .tooltip-meta-primary small {
+  color: var(--text-color);
+}
+
+[data-theme="light"] .tooltip .tooltip-inner .tooltip-meta-secondary small {
+  color: var(--secondary-color);
+}
+
+/* Dark Mode Specific Overrides */
+[data-theme="dark"] .tooltip .tooltip-inner {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  border-color: var(--primary-color);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.4);
+}
+
+[data-theme="dark"] .tooltip .tooltip-inner h6,
+[data-theme="dark"] .tooltip .tooltip-inner .tooltip-title h6 {
+  color: var(--primary-color-heading);
+  border-bottom-color: var(--primary-color);
+}
+
+[data-theme="dark"] .tooltip .tooltip-inner p,
+[data-theme="dark"] .tooltip .tooltip-inner .tooltip-description p {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .tooltip .tooltip-inner .tooltip-meta-primary {
+  border-top-color: var(--secondary-color);
+}
+
+[data-theme="dark"] .tooltip .tooltip-inner .tooltip-meta-primary small {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .tooltip .tooltip-inner .tooltip-meta-secondary small {
+  color: var(--secondary-color);
+}
+
+/* Dark mode tooltip arrows */
+[data-theme="dark"] .tooltip.bs-tooltip-top .tooltip-arrow::before {
+  border-top-color: var(--primary-color);
+}
+
+[data-theme="dark"] .tooltip.bs-tooltip-bottom .tooltip-arrow::before {
+  border-bottom-color: var(--primary-color);
+}
+
+[data-theme="dark"] .tooltip.bs-tooltip-start .tooltip-arrow::before {
+  border-left-color: var(--primary-color);
+}
+
+[data-theme="dark"] .tooltip.bs-tooltip-end .tooltip-arrow::before {
+  border-right-color: var(--primary-color);
+}
+
+/* Responsive tooltip sizing */
+@media (max-width: 768px) {
+  .tooltip {
+    --bs-tooltip-max-width: 80vw; /* Larger on mobile */
+  }
+
+  .tooltip .tooltip-inner {
+    max-width: 80vw;
+    font-size: 0.8rem;
+  }
+}
