@@ -1,0 +1,165 @@
+syllabusBefore:
+  - title: "Pre-Course Assessment"
+    description: "Complete the Scrum Master self-assessment to identify learning goals"
+    resources:
+      - type: "assessment"
+        title: "Scrum Master Competency Assessment"
+        url: "https://nkdagility.com/assessments/scrum-master"
+    timeRequired: "30 minutes"
+  - title: "Review Scrum Guide"
+    description: "Refresh your understanding of the Scrum framework"
+    resources:
+      - type: "reading"
+        title: "The Scrum Guide"
+        url: "https://scrumguides.org"
+    timeRequired: "45 minutes"
+
+syllabus:
+  - id: 1
+    title: "Lean UX and Scrum Foundations"
+    duration: 120
+    content: |
+      Introduction to integrating UX practices with Scrum framework and understanding the empirical foundations.
+    learningResources:
+      - title: "The Three Pillars of Empiricism"
+        link: "https://hbr.org/1986/01/the-new-new-product-development-game"
+        duration: 2
+        type: "reading"
+        weight: 1
+      - title: "The Five Elements of UX"
+        link: "https://youtu.be/wFi_uGLwXuA"
+        duration: 9
+        type: "video"
+        weight: 2
+      - title: "5 Rules for Integrating UX with Agile and Scrum"
+        link: "https://medium.com/swlh/5-rules-for-integrating-ux-with-agile-scrum-b048babb9a89"
+        duration: 4
+        type: "reading"
+        weight: 3
+      - title: "Start with Why?"
+        link: "https://youtu.be/u4ZoJKF_VuA"
+        duration: 18
+        type: "video"
+        weight: 4
+
+  - id: 2
+    title: "Understanding Users and Outcomes"
+    duration: 120
+    content: |
+      Focus on user-centered design and outcome-driven development within Scrum teams.
+    learningResources:
+      - title: "UX design is team work"
+        link: "https://medium.com/design-and-develop/ux-design-is-team-work-c5543d0fa33c"
+        duration: 7
+        type: "reading"
+        weight: 1
+      - title: "Emergent Principles: A Rebel Leader's Secret to Better Team Design Decisions"
+        link: "https://articles.uie.com/emergent-principles-a-rebel-leaders-secret-to-better-team-design-decisions/"
+        duration: 10
+        type: "reading"
+        weight: 2
+      - title: "UX: Creating Proto-Personas"
+        link: "https://uxdesign.cc/ux-creating-proto-personas-76a1738401a2"
+        duration: 8
+        type: "reading"
+        weight: 3
+      - title: "Outcome over Output"
+        link: "https://youtu.be/6I7MrgjnFOc"
+        duration: 8
+        type: "video"
+        weight: 4
+
+  - id: 3
+    title: "Product Discovery and Metrics"
+    duration: 120
+    content: |
+      Learn how to implement product discovery techniques and measure success using frameworks.
+    learningResources:
+      - title: "Nordstrom Innovation Lab: What Happened Next…"
+        link: "https://web.archive.org/web/20180802023922/joshuaseiden.com/blog/2013/04/nordstrom-what-happened-next"
+        duration: 4
+        type: "reading"
+        weight: 1
+      - title: "AARRR Framework- Metrics That Let Your StartUp Sound Like A Pirate Ship"
+        link: "https://ms-mbalke.medium.com/aarrr-framework-metrics-that-let-your-startup-sound-like-a-pirate-ship-e91d4082994b"
+        duration: 11
+        type: "reading"
+        weight: 2
+      - title: "The New New Product Development Game"
+        link: "https://hbr.org/1986/01/the-new-new-product-development-game"
+        duration: 20
+        type: "reading"
+        weight: 3
+      - title: "8 Must-see UX Diagrams"
+        link: "https://uxbooth.com/articles/8-must-see-ux-diagrams/"
+        duration: 15
+        type: "reading"
+        weight: 4
+
+  - id: 4
+    title: "Agile UX Research and Investigations"
+    duration: 120
+    content: |
+      Adapting UX research methods for agile environments and sprint-based work.
+    learningResources:
+      - title: "Here is how UX Design Integrates with Agile and Scrum"
+        link: "#"
+        duration: 10
+        type: "reading"
+        weight: 1
+      - title: "Adapting Usability Investigations for Agile User-Centered Design"
+        link: "https://uxpajournal.org/adapting-usability-investigations-for-agile-user-centered-design/"
+        duration: 30
+        type: "reading"
+        weight: 2
+      - title: "Here's what to do when user research doesn't fit in a sprint"
+        link: "https://uxdesign.cc/heres-what-to-do-when-user-research-doesn-t-fit-in-a-sprint-2f8b5db7d48c"
+        duration: 5
+        type: "reading"
+        weight: 3
+
+  - id: 5
+    title: "Solutions and Hypothesis-Driven Development"
+    duration: 120
+    content: |
+      Learn to frame work as hypotheses and implement hypothesis-driven development in Scrum.
+    learningResources:
+      - title: "Scrum and Hypothesis Driven Development"
+        link: "https://www.scrum.org/resources/blog/scrum-and-hypothesis-driven-development"
+        duration: 4
+        type: "reading"
+        weight: 1
+      - title: "Dual Track Development is not Duel Track"
+        link: "https://jpattonassociates.com/dual-track-development/"
+        duration: 12
+        type: "reading"
+        weight: 2
+      - title: "The Secret to Actionable VoC and Customer Journey Mapping Programs"
+        link: "https://www.cmswire.com/customer-experience/the-secret-to-actionable-voc-and-customer-journey-mapping-programs/"
+        duration: 15
+        type: "reading"
+        weight: 3
+
+  - id: 6
+    title: "Design Maturity and Team Development"
+    duration: 120
+    content: |
+      Building design maturity within development teams and fostering UX capabilities.
+    learningResources:
+      - title: "Driving Product Teams to Become More Design Mature"
+        link: "https://articles.centercentre.com/driving-product-teams-to-become-more-design-mature/"
+        duration: 20
+        type: "reading"
+        weight: 1
+
+  - id: 7
+    title: "Learning and Experimentation"
+    duration: 120
+    content: |
+      Implementing continuous learning and experimentation practices within Scrum teams.
+
+  - id: 8
+    title: "PSU Wrap-up and Integration"
+    duration: 120
+    content: |
+      Consolidating learning and planning implementation of UX practices in your Scrum environment.
