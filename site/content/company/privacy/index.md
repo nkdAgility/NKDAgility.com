@@ -35,7 +35,7 @@ Please refer to our [Terms of Business ]({{< ref "/company/terms-of-business" >}
 We use the following third-party services for our consulting services, which process or store personal data:
 
 - **Microsoft Office 365 (Azure US)**
-  Used for email, calendar, document storage, communication, recordings, and transcriptions of meetings. Data processed in Azure datacenters located in the United States.
+  Used for email, calendar, document storage, communication, recordings, and transcriptions of meetings. Data processed in Azure datacenters located in the United States. Includes usage of **Copilot** for enhanced productivity features.
 
 - **FreshBooks (SaaS/GCP Global)**
   Used for invoicing, billing, and customer management. Data stored primarily in Google Cloud Platform data centers in the United States.
@@ -47,10 +47,15 @@ We use the following third-party services for our consulting services, which pro
   Used for software development, work item management, and migration activities. Data including project management information and personal identifiers (names, emails) is processed in Azure data centers located in the European Union and United States.
 
 - **GitHub (Global)**
-  Used for software development and collaboration. Data stored globally in GitHub's distributed infrastructure primarily located in the United States.
+  Used for software development and collaboration. Data stored globally in GitHub's distributed infrastructure primarily located in the United States. Includes usage of **GitHub Copilot** to support engineering activities.
 
 - **1Password (Global)**
   Used to securely store passwords, keys, and sensitive information. Data stored in 1Password's secure global infrastructure.
+
+- **ChatGPT (OpenAI Enterprise, EU Hosted)**
+  Used for structured analysis, summarisation, and AI-supported engineering insights. All prompts and responses are excluded from training and model improvement. OpenAI Enterprise settings ensure no prompts, files, or metadata are retained or used to retrain any models.
+
+> We do not use free-tier or consumer-grade AI services. All AI tools used in our consulting practice are enterprise-grade and configured for privacy, security, and data sovereignty. We avoid any services that cannot guarantee enterprise-grade data governance.
 
 ### Data We Collect and Process
 
@@ -107,8 +112,6 @@ When you visit our website, we may collect anonymous usage data to help us under
   Used to manage tracking scripts and third-party tags without modifying site code.
 
 No personally identifiable information is collected through these tools unless you explicitly provide it via forms or interactions.
-
----
 
 ### Consent and Data Transfers
 
