@@ -1,23 +1,14 @@
 <section class="container my-5">
   <h2>Syllabus</h2>
-  <p>
-    Our comprehensive syllabus is designed to accommodate various learning styles, whether you prefer a traditional in-depth session, a flexible immersive experience, or a structured mentor program. Each module can be delivered in the following formats:
-  </p>
+  <p>Our comprehensive syllabus is designed to accommodate various learning styles, whether you prefer a traditional in-depth session, a flexible immersive experience, or a structured mentor program. Each session can be delivered in the following formats:</p>
   <ul>
     <li><strong>Traditional Learning Experience:</strong> Engage in full-day or half-day sessions led by expert trainers in an interactive classroom setting. Perfect for those seeking an intensive, focused learning experience.</li>
-    <li>
-      <strong>Immersive Learning Experience:</strong> Enjoy a multi-week program that breaks down full-day sessions into shorter, more manageable classes, integrating real-world applications and reflections for continuous improvement. Assignments are only
-      available as part of this format, encouraging participants to apply their learning practically.
-    </li>
-    <li>
-      <strong>Mentor Programs with Immersive Experiences:</strong> Participate in a series of immersive learning sessions as part of our mentor programs, combining structured learning with personalized guidance and continuous feedback over time. For more
-      information, visit our <a href="/capabilities/mentor-programs/">Mentor Programs</a> page.
-    </li>
+    <li><strong>Immersive Learning Experience:</strong> Enjoy a multi-week program that breaks down full-day sessions into shorter, more manageable classes, integrating real-world applications and reflections for continuous improvement. Assignments are only available as part of this format, encouraging participants to apply their learning practically.</li>
+    <li><strong>Mentor Programs with Immersive Experiences:</strong> Participate in a series of immersive learning sessions as part of our mentor programs, combining structured learning with personalized guidance and continuous feedback over time. For more information, visit our <a href="/capabilities/mentor-programs/">Mentor Programs</a> page.</li>
   </ul>
   <p>
-    Our immersive programs empower growth through incremental learning, outcome-based assignments, and facilitated reflections, ensuring that the skills you gain are practical, applicable, and ready to be used in your work environment. Facilitated
-    Reflections are a cornerstone of our immersive approach, allowing participants to engage deeply with the material. In each session, you will have the opportunity to reflect on your learning, discuss challenges and successes with peers, and gain
-    actionable feedback from professional trainers. These reflective sessions enhance understanding, foster continuous improvement, and support your growth in a collaborative environment.
+    Our immersive programs empower growth through incremental learning, outcome-based assignments, and facilitated reflections, ensuring that the skills you gain are practical, applicable, and ready to be used in your work environment. Facilitated Reflections are a cornerstone of our immersive approach, allowing participants to engage deeply with the material. In each session, you will have the opportunity to reflect on your learning, discuss
+    challenges and successes with peers, and gain actionable feedback from professional trainers. These reflective sessions enhance understanding, foster continuous improvement, and support your growth in a collaborative environment.
   </p>
 
   <div class="row">
@@ -25,7 +16,7 @@
     {{- $syllabusData := partial "functions/get-syllabus-data.html" .Page }}
     {{- $syllabusBefore := index $syllabusData "syllabusBefore" }}
     {{- $syllabus := index $syllabusData "syllabus" }}
-    
+
     {{- if and (not (eq $syllabus nil)) (gt (len $syllabus) 0) }}
       <!-- --->
       {{- if eq hugo.Environment "development" }}
@@ -35,9 +26,8 @@
             <div class="card-body p-4 px-20">
               <h3 class="ttl-nkdagility h5 text-start">How it Works?</h3>
               <div class="card-text text-muted">
-                This Training is an interactive practical experience, and you will be participating in numerous exercises and collaborations during this class. Without being able to see the participants a lot of non-verbal, and visual queues are missed.
-                We therefore as that you have your cameras on as much as possible. Every discussion should feel like an invitation to a conversation, and it is up to you and your team members to facilitate conversations. Bring your A-game, and above all,
-                have fun.
+                This Training is an interactive practical experience, and you will be participating in numerous exercises and collaborations during this class. Without being able to see the participants a lot of non-verbal, and visual queues are missed. We therefore as that you have your cameras on as much as possible. Every discussion should feel like an invitation to a conversation, and it is up to you and your team members to facilitate
+                conversations. Bring your A-game, and above all, have fun.
               </div>
               <div class="m-2"></div>
               <div>
@@ -81,7 +71,7 @@
                 {{- .title }}
               </h3>
               <div>
-                <span class="badge text-bg-primary">Module {{- .id }}</span>
+                <span class="badge text-bg-primary">Session {{ .id }}</span>
                 <span class="badge text-bg-primary"> <i class="fa-light fa-clock"></i> {{- .duration }}+ </span>
               </div>
               <div class="card-text text-muted">
@@ -179,10 +169,7 @@
         <div class="m-2 card sectioncards m-3 shadow text-start flex-fill flex-grow-1 small border-0 h-100 position-relative">
           <div class="card-body p-4 px-20">
             <h3 class="ttl-nkdagility h5 text-start">Catchup & After</h3>
-            <div class="card-text text-muted">
-              Two weeks after completion, participants are invited to join a follow-up catch-up session designed to address any remaining questions, ideas, or challenges that have emerged since the training. This session provides an opportunity to reflect
-              on your experiences applying the concepts learned in the course, share insights, and receive additional support.
-            </div>
+            <div class="card-text text-muted">Two weeks after completion, participants are invited to join a follow-up catch-up session designed to address any remaining questions, ideas, or challenges that have emerged since the training. This session provides an opportunity to reflect on your experiences applying the concepts learned in the course, share insights, and receive additional support.</div>
             <div class="m-2"></div>
             <div>
               <ul class="list-group list-group-flush">
