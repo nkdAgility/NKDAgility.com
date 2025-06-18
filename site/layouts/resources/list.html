@@ -39,7 +39,12 @@
               {{ range $futureResources }}
                 {{ $duration := .Date.Sub now }}
                 {{ $days := math.Floor (div $duration.Hours 24) }}
-                <div class="text-truncate" title="{{ .Title }} - {{ .Description }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }} (in {{ $days }} days)">
+                <div class="text-truncate"  title="{{ .Title }} - {{ .Description }}"
+                   title="{{ .Title }} - {{ .Description }}"
+                   data-bs-toggle="tooltip" 
+                   data-bs-placement="top" 
+                   data-bs-html="true"
+                   data-bs-title="{{- partial "partials/functions/get-resource-tooltip.html" . -}}">
                   {{- partial "components/resources/resource-icon.html" . }}
                   <span title="in {{ $days }} days">[{{ $days }}]</span>
                   <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -61,10 +66,13 @@
         <div class="m-1">
           <h5>Most recent content</h5>
           <div class="columns-2">
-            {{ $recent := first 20 (sort $resources "Date" "desc") }}
-
-            {{ range $recent }}
-              <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}{{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}{{ end }}">
+            {{ $recent := first 20 (sort $resources "Date" "desc") }}            {{ range $recent }}
+              <div class="text-truncate" 
+                   title="{{ .Title }} - {{ .Description }}"
+                   data-bs-toggle="tooltip" 
+                   data-bs-placement="top" 
+                   data-bs-html="true"
+                   data-bs-title="{{- partial "partials/functions/get-resource-tooltip.html" . -}}">
                 {{- partial "components/resources/resource-icon.html" . }}
                 <a href="{{ .RelPermalink }}">{{if .Params.short_title }}{{ .Params.short_title }}{{else}}{{ .Title }}{{end}}</a>
               </div>
@@ -78,7 +86,11 @@
           <h5>On Engineering Excelence & Technical Leadership</h5>
           <div class="columns-2">
             {{ range first 20 $resources.ByWeight }}
-              <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}">
+              <div class=" text-truncate" title="{{ .Title }} - {{ .Description }}"
+                   data-bs-toggle="tooltip" 
+                   data-bs-placement="top" 
+                   data-bs-html="true"
+                   data-bs-title="{{- partial "partials/functions/get-resource-tooltip.html" . -}}">
                 {{- partial "components/resources/resource-icon.html" . }}
                 <a href="{{ .RelPermalink }}">{{if .Params.short_title }}{{ .Params.short_title }}{{else}}{{ .Title }}{{end}}</a>
               </div>
