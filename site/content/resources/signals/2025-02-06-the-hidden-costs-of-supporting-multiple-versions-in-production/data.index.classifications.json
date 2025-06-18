@@ -3266,5 +3266,24 @@
     "reasoning": "The content focuses on the challenges of maintaining multiple production versions, increased technical debt, risks of branch-by-customer, and encourages simplification of versioning strategies. Nowhere does it reference the Definition of Workflow, explicit workflow policies, entry/exit criteria, WIP limits, or any Kanban/agile workflow theory. The focus is strictly on branching/versioning pain for engineering teams. No penalties applied, since the content is current and the tone is neutral/instructive.",
     "reasoning_summary": "The content discusses the negative impact of supporting multiple production versions but does not address the Definition of Workflow or its principles. There is little conceptual overlap or intent to explain workflow definition as understood in Kanban/agile.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "un1ZqM8aYng",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:29:16",
+    "ai_confidence": 2.88,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 2.1,
+    "ai_audience": 3.2,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content exclusively focuses on the engineering and operational challenges inherent in supporting multiple software versions in production—context-switching, merge conflicts, reverse integration, and technical debt. Nowhere does it mention or allude to Objective Key Results (OKRs), goal-setting, outcome-based measurement, or strategic alignment using OKRs. Its audience (engineering teams) could overlap with those practicing OKRs, but OKRs are not discussed or referenced. The intent is to highlight problems with branching strategies, not to connect issues to outcomes, measure progress, or implement continuous improvement frameworks based on OKRs. No penalty was applied since the content is current and not satirical or critical of the OKR framework.",
+    "reasoning_summary": "This content discusses engineering pain points in maintaining multiple software versions and does not reference or align with the Objective Key Results framework. There is no discussion of OKRs, goal-setting, or outcome measurement strategies.",
+    "level": "Ignored"
   }
 }

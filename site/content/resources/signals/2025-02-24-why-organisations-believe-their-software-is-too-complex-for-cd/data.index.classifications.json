@@ -3266,5 +3266,24 @@
     "reasoning": "The content critically discusses misconceptions around software complexity in relation to continuous delivery, using Azure DevOps as an example. However, it never explicitly mentions or references the Definition of Workflow or its core concepts (explicit agreements, WIP limits, entry/exit policies, or Kanban/agile process transparency). The focus is on technical debt, investment in automation, and dev team ambition, not on dynamic work policies, flow visibility, or Kanban-aligned definitions. The audience (technology leaders/practitioners) is similar to that for Definition of Workflow, but the content lacks alignment, depth, and direct topical connection.",
     "reasoning_summary": "This content does not explicitly or implicitly discuss the Definition of Workflow. Its focus is on misconceptions around software complexity and barriers to continuous delivery, not on workflow definitions, policies, or Kanban principles relevant to the category.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "T-sHn-OUIvR",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:29:17",
+    "ai_confidence": 3.25,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.8,
+    "ai_intent": 0.5,
+    "ai_audience": 0.4,
+    "ai_signal": 0.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content discusses continuous delivery (CD) and organizational blockers such as technical debt, complexity, and investments in automation. There are no explicit mentions or even indirect references to OKRs, their foundational principles, theory, or practical frameworks. The discussion is focused purely on delivery enablement, using the Azure DevOps team as an example to illustrate investments required for CD. It does not address any of the core topics outlined for the Objective Key Results category (such as outcome-based measurement, alignment with 'Measure What Matters,' or integration into Agile/DevOps via OKRs), nor does it mention strategic intent, measurable results, or transparency/accountability through the OKR framework.",
+    "reasoning_summary": "This content focuses entirely on organizational challenges related to continuous delivery and technical debt, with no mentions or conceptual connection to Objective Key Results or the OKR framework.",
+    "level": "Ignored"
   }
 }

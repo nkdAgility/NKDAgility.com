@@ -3266,5 +3266,24 @@
     "reasoning": "The content focuses exclusively on the trade-offs between manual and automated testing for improving software delivery speed and quality. It does not mention, reference, or discuss the Definition of Workflow in Kanban or agile contexts. There is no discussion of explicit agreements, workflow visibility, entry/exit criteria, WIP limits, or process policies. The intended audience—software practitioners—is only tangentially aligned, as the focus is testing automation rather than workflow management. Since none of the core category signals are present and there is minimal incidental alignment, all dimensions receive extremely low scores. No penalties are needed as there is no outdated or contradictory content. Confidence is correspondingly extremely low.",
     "reasoning_summary": "This content discusses automation versus manual testing, with no reference to the Definition of Workflow or related Kanban/agile practices. It does not address explicit workflow policies, making it unrelated to the evaluated category.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "f6S9lWfTQaQ",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:27:14",
+    "ai_confidence": 3.5,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.9,
+    "ai_intent": 1.2,
+    "ai_audience": 0.2,
+    "ai_signal": 0.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "The content exclusively discusses the merits of test automation versus manual testing, focusing on release speed, regression, and workload reduction. There are no explicit or implicit references to Objective Key Results (OKRs), no mention of objectives, key results, outcome-based measurement, or alignment to anything like John Doerr's OKR framework. The intent and audience are centered on engineering and delivery practices, not strategy or outcome tracking. Minimal tangential overlap could exist if automation were discussed as a key result supporting an objective, but that is not articulated here. Thus, alignment, depth, and intent all score very low, as does any connection to OKRs.",
+    "reasoning_summary": "This content is focused on manual versus automated testing, with no explicit or implicit alignment to Objective Key Results. It does not discuss objectives, key results, or any outcome-based framework, making it a poor fit for the OKR category.",
+    "level": "Ignored"
   }
 }
