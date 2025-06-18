@@ -3,12 +3,12 @@ title: let-us be blunt
 description: Accountability in Scrum requires real agency; without the power to act, roles like Product Owner and Scrum Master become ineffective and accountability is undermined.
 date: 2025-05-10T15:30:22+01:00
 weight: 340
-slug: let-us-be-blunt
-aliases:
-- /resources/0A8ONYVbWlL
 ResourceId: 0A8ONYVbWlL
 ResourceImport: false
 ResourceType: signals
+slug: let-us-be-blunt
+aliases:
+- /resources/0A8ONYVbWlL
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

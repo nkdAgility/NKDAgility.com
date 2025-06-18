@@ -3,12 +3,12 @@ title: Scrum is built on empiricism—transparency, inspection, and adaptation
 description: Explains why consistent delivery of usable increments is essential in Scrum, highlighting the Scrum Master's accountability for ensuring transparency, inspection, and adaptation.
 date: 2025-02-24T16:30:29+00:00
 weight: 535
-slug: scrum-is-built-on-empiricism-transparency-inspection-and-adaptation
-aliases:
-- /resources/P1tjFbyeVyU
 ResourceId: P1tjFbyeVyU
 ResourceImport: false
 ResourceType: signals
+slug: scrum-is-built-on-empiricism-transparency-inspection-and-adaptation
+aliases:
+- /resources/P1tjFbyeVyU
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

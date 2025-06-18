@@ -3266,5 +3266,24 @@
     "reasoning": "The content focuses on the value of frequent software releases as a strategy for risk mitigation, feedback, and adaptability, referencing DORA research and real-world examples. Nowhere does it mention or explicitly discuss the Definition of Workflow, Kanban, or any related agile models. The theme is aligned with continuous delivery principles but not specifically with the explicit agreements, entry/exit policies, WIP limits, or process visibility discussed in the Definition of Workflow. Minimal conceptual overlap exists, as frequent releases can be enabled by a defined workflow, but this is not addressed in the content. Thus, confidence is very low, with only tangential relevance.",
     "reasoning_summary": "The content discusses the benefits of frequent releases for reducing risk and improving software delivery, but does not discuss workflow definitions, policies, or Kanban concepts. Its relevance to Definition of Workflow is only tangential and implied.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "_o_vjO--kSl",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:29:14",
+    "ai_confidence": 10.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.6,
+    "ai_intent": 1.2,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content discusses the value of frequent releases for risk mitigation and learning, referencing DORA research and an anecdote with Microsoft. However, there are no direct or indirect mentions of OKRs or their principles. The focus is on release strategy, not outcome-based measurement, objectives, or key results. While the target audience may overlap with those interested in OKR frameworks, the substance is unrelated to the OKR philosophy, measurement practices, or implementation contexts outlined in the classification definition.",
+    "reasoning_summary": "This content centers on the benefits of frequent software releases, with no explicit or implicit reference to OKRs, their theory, or practices. It is not relevant to Objective Key Results as defined.",
+    "level": "Ignored"
   }
 }

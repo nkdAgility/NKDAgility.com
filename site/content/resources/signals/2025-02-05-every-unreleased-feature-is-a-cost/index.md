@@ -3,12 +3,12 @@ title: Every unreleased feature is a cost
 description: Unreleased features create hidden costs and risks. Regular software delivery reduces failure rates, rework, and missed opportunities, ensuring real value is delivered.
 date: 2025-02-05T16:30:01+00:00
 weight: 325
-slug: every-unreleased-feature-is-a-cost
-aliases:
-- /resources/PNGuJocqSoD
 ResourceId: PNGuJocqSoD
 ResourceImport: false
 ResourceType: signals
+slug: every-unreleased-feature-is-a-cost
+aliases:
+- /resources/PNGuJocqSoD
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

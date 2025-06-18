@@ -3,12 +3,12 @@ title: “Teams are self-managing
 description: Explains how self-managing teams in Scrum need structure and leadership, clarifying the Scrum Master's role in maintaining clarity, alignment, and effective self-management.
 date: 2025-03-21T16:30:04+00:00
 weight: 395
-slug: teams-are-self-managing
-aliases:
-- /resources/8EauPhROdZq
 ResourceId: 8EauPhROdZq
 ResourceImport: false
 ResourceType: signals
+slug: teams-are-self-managing
+aliases:
+- /resources/8EauPhROdZq
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

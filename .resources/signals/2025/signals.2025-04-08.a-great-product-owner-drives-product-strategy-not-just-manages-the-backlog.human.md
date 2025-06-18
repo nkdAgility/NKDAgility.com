@@ -3,12 +3,12 @@ title: A great Product Owner drives product strategy, not just manages the backl
 description: Explains how effective Product Owners shape product strategy using accountability, awareness, acceptance, access, and adaptability, not just backlog management.
 date: 2025-04-08T15:30:02+01:00
 weight: 695
-slug: a-great-product-owner-drives-product-strategy-not-just-manages-the-backlog
-aliases:
-- /resources/FiPINXQNDQu
 ResourceId: FiPINXQNDQu
 ResourceImport: false
 ResourceType: signals
+slug: a-great-product-owner-drives-product-strategy-not-just-manages-the-backlog
+aliases:
+- /resources/FiPINXQNDQu
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

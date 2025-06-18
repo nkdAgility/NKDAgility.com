@@ -3,12 +3,12 @@ title: Understanding Blocked Columns and Stalled Work in Project Boards
 description: Explains why using blocked columns for stalled tasks on project boards harms workflow, and suggests better ways to highlight and address blocked work without losing progress.
 date: 2025-03-04T16:30:01+00:00
 weight: 305
-slug: understanding-blocked-columns-and-stalled-work-in-project-boards
-aliases:
-- /resources/6K6oGV9pRbC
 ResourceId: 6K6oGV9pRbC
 ResourceImport: false
 ResourceType: signals
+slug: understanding-blocked-columns-and-stalled-work-in-project-boards
+aliases:
+- /resources/6K6oGV9pRbC
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

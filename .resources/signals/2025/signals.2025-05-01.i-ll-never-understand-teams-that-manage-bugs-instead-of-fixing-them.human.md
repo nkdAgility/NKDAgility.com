@@ -3,12 +3,12 @@ title: I’ll never understand teams that manage bugs instead of fixing them
 description: Highlights the importance of promptly fixing software bugs instead of managing backlogs, arguing that unresolved defects harm product quality and team effectiveness.
 date: 2025-05-01T15:30:38+01:00
 weight: 255
-slug: i-ll-never-understand-teams-that-manage-bugs-instead-of-fixing-them
-aliases:
-- /resources/RwH_ozVN5om
 ResourceId: RwH_ozVN5om
 ResourceImport: false
 ResourceType: signals
+slug: i-ll-never-understand-teams-that-manage-bugs-instead-of-fixing-them
+aliases:
+- /resources/RwH_ozVN5om
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

@@ -3,12 +3,12 @@ title: Why Organisations Believe Their Software Is Too Complex for CD
 description: Many organisations cite software complexity as a barrier to continuous delivery, but real obstacles are technical debt and lack of investment in quality and automation.
 date: 2025-02-24T10:51:31+00:00
 weight: 205
-slug: why-organisations-believe-their-software-is-too-complex-for-cd
-aliases:
-- /resources/T-sHn-OUIvR
 ResourceId: T-sHn-OUIvR
 ResourceImport: false
 ResourceType: signals
+slug: why-organisations-believe-their-software-is-too-complex-for-cd
+aliases:
+- /resources/T-sHn-OUIvR
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

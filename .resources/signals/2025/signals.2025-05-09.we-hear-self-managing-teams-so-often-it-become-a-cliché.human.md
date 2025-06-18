@@ -3,12 +3,12 @@ title: We hear self-managing teams so often it become a cliché
 description: Explains how true self-management in Scrum requires active, disciplined effort from Product Owners, Scrum Masters, and Developers, not chaos or lack of structure.
 date: 2025-05-09T15:30:39+01:00
 weight: 310
-slug: we-hear-self-managing-teams-so-often-it-become-a-cliché
-aliases:
-- /resources/FqiyqqNxjFS
 ResourceId: FqiyqqNxjFS
 ResourceImport: false
 ResourceType: signals
+slug: we-hear-self-managing-teams-so-often-it-become-a-cliché
+aliases:
+- /resources/FqiyqqNxjFS
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

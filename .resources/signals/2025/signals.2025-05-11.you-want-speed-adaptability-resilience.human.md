@@ -3,12 +3,12 @@ title: You want speed, adaptability, resilience
 description: Explores why true organisational agility depends on empowering teams with agency, not just adopting frameworks like Scrum, Kanban, or DevOps, to achieve real outcomes.
 date: 2025-05-11T15:30:29+01:00
 weight: 385
-slug: you-want-speed-adaptability-resilience
-aliases:
-- /resources/5UaIfaLclWB
 ResourceId: 5UaIfaLclWB
 ResourceImport: false
 ResourceType: signals
+slug: you-want-speed-adaptability-resilience
+aliases:
+- /resources/5UaIfaLclWB
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

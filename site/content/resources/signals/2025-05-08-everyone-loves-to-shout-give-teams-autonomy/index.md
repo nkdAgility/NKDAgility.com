@@ -3,12 +3,12 @@ title: Everyone loves to shout give teams autonomy
 description: Explores why team autonomy in Scrum must be balanced with alignment to strategic goals, highlighting the role of clear objectives and leadership in achieving true agility.
 date: 2025-05-08T15:30:40+01:00
 weight: 355
-slug: everyone-loves-to-shout-give-teams-autonomy
-aliases:
-- /resources/5nkzevV2xKG
 ResourceId: 5nkzevV2xKG
 ResourceImport: false
 ResourceType: signals
+slug: everyone-loves-to-shout-give-teams-autonomy
+aliases:
+- /resources/5nkzevV2xKG
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

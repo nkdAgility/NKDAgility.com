@@ -3,12 +3,12 @@ title: Why Most Companies Fail at Adopting Agility Beyond IT
 description: Most companies struggle with agility due to rigid structures, outdated processes, and cultural barriers, not technical issues. True agility requires organisational change.
 date: 2025-03-27T16:30:04+00:00
 weight: 710
-slug: why-most-companies-fail-at-adopting-agility-beyond-it
-aliases:
-- /resources/xdKHhjboUgT
 ResourceId: xdKHhjboUgT
 ResourceImport: false
 ResourceType: signals
+slug: why-most-companies-fail-at-adopting-agility-beyond-it
+aliases:
+- /resources/xdKHhjboUgT
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

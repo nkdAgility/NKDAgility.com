@@ -3,14 +3,14 @@ title: Scrum doesn’t stop you from optimising flow
 description: Explains how Scrum supports continuous flow and agility by prioritising Sprint Goals, Done increments, CI/CD practices, and outcomes over rigid sprint boundaries.
 date: 2025-05-25T15:30:23+01:00
 weight: 1000
-slug: scrum-doesn-t-stop-you-from-optimising-flow
-aliases:
-- /resources/BD9f00po0V6
 ResourceId: BD9f00po0V6
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
+slug: scrum-doesn-t-stop-you-from-optimising-flow
+aliases:
+- /resources/BD9f00po0V6
 layout: signal
+ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:

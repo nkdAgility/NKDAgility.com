@@ -3,12 +3,12 @@ title: Technical debt cripples business agility and slows engineers down
 description: Technical debt limits business agility, slows engineering, and hinders innovation. Managing it with automation and transparency is key to staying competitive and responsive.
 date: 2025-05-06T15:30:42+01:00
 weight: 190
-slug: technical-debt-cripples-business-agility-and-slows-engineers-down
-aliases:
-- /resources/4kBTeJ1TmsW
 ResourceId: 4kBTeJ1TmsW
 ResourceImport: false
 ResourceType: signals
+slug: technical-debt-cripples-business-agility-and-slows-engineers-down
+aliases:
+- /resources/4kBTeJ1TmsW
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

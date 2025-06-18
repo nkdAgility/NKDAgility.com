@@ -3,12 +3,12 @@ title: 'Deploying Windows OS Directly to Production: Then vs Now'
 description: Explains how Windows OS updates shifted from infrequent, risky releases to safe, staged rollouts using ring-based deployment and real-time user feedback for reliability.
 date: 2025-02-22T16:30:00+00:00
 weight: 295
-slug: deploying-windows-os-directly-to-production-then-vs-now
-aliases:
-- /resources/6FqFYeSHQBg
 ResourceId: 6FqFYeSHQBg
 ResourceImport: false
 ResourceType: signals
+slug: deploying-windows-os-directly-to-production-then-vs-now
+aliases:
+- /resources/6FqFYeSHQBg
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

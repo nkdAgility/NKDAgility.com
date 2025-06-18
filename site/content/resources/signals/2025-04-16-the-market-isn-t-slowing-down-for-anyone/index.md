@@ -3,12 +3,12 @@ title: The market isn’t slowing down for anyone
 description: Explores why organisational responsiveness and real-time decision-making are crucial for staying competitive, highlighting the risks of outdated frameworks and slow adaptation.
 date: 2025-04-16T15:30:49+01:00
 weight: 635
-slug: the-market-isn-t-slowing-down-for-anyone
-aliases:
-- /resources/Szz-d1q7CG7
 ResourceId: Szz-d1q7CG7
 ResourceImport: false
 ResourceType: signals
+slug: the-market-isn-t-slowing-down-for-anyone
+aliases:
+- /resources/Szz-d1q7CG7
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

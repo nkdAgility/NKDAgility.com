@@ -3,12 +3,12 @@ title: Would you hire a Junior CISO? A Junior Financial Director
 description: Scrum Masters require proven expertise, not entry-level skills. Hiring juniors in this role risks team performance and agile success; experience is essential for effective leadership.
 date: 2025-02-17T10:06:07+00:00
 weight: 430
-slug: would-you-hire-a-junior-ciso-a-junior-financial-director
-aliases:
-- /resources/Lj-8s76yXLP
 ResourceId: Lj-8s76yXLP
 ResourceImport: false
 ResourceType: signals
+slug: would-you-hire-a-junior-ciso-a-junior-financial-director
+aliases:
+- /resources/Lj-8s76yXLP
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

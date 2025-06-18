@@ -3,12 +3,12 @@ title: Resilience is not a department
 description: Resilience must be built into products from the start, ensuring they withstand failures like outages or network loss, rather than being treated as an afterthought.
 date: 2025-05-17T15:30:21+01:00
 weight: 375
-slug: resilience-is-not-a-department
-aliases:
-- /resources/PWgzGL20QAo
 ResourceId: PWgzGL20QAo
 ResourceImport: false
 ResourceType: signals
+slug: resilience-is-not-a-department
+aliases:
+- /resources/PWgzGL20QAo
 layout: signal
 ResourceContentOrigin: human
 draft: true

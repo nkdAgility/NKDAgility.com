@@ -3,14 +3,14 @@ title: David thought he already knew Scrum
 description: Discover why experienced Scrum practitioners often misunderstand core principles, and how revisiting Scrum fundamentals restores clarity, agility, and effective practice.
 date: 2025-05-26T15:30:28+01:00
 weight: 1000
-slug: david-thought-he-already-knew-scrum
-aliases:
-- /resources/qpdjJhtaABE
 ResourceId: qpdjJhtaABE
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
+slug: david-thought-he-already-knew-scrum
+aliases:
+- /resources/qpdjJhtaABE
 layout: signal
+ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:

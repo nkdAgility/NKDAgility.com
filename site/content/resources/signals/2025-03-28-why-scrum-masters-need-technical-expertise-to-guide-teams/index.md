@@ -3,12 +3,12 @@ title: Why Scrum Masters Need Technical Expertise to Guide Teams
 description: Scrum Masters need technical expertise to effectively support teams, understand best practices, and bridge gaps between process and real-world technical challenges.
 date: 2025-03-28T16:30:04+00:00
 weight: 235
-slug: why-scrum-masters-need-technical-expertise-to-guide-teams
-aliases:
-- /resources/_0eaUkX1o1q
 ResourceId: _0eaUkX1o1q
 ResourceImport: false
 ResourceType: signals
+slug: why-scrum-masters-need-technical-expertise-to-guide-teams
+aliases:
+- /resources/_0eaUkX1o1q
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

@@ -3,14 +3,14 @@ title: AI won’t replace humans
 description: Explores how AI automates repetitive tasks, enabling humans to focus on creative, strategic, and empathetic work, and challenges fears about AI replacing human jobs.
 date: 2025-05-23T15:30:36+01:00
 weight: 1000
-slug: ai-won-t-replace-humans
-aliases:
-- /resources/ZSKQQVwpp3M
 ResourceId: ZSKQQVwpp3M
 ResourceImport: false
 ResourceType: signals
-ResourceContentOrigin: human
+slug: ai-won-t-replace-humans
+aliases:
+- /resources/ZSKQQVwpp3M
 layout: signal
+ResourceContentOrigin: human
 draft: true
 source: LinkedIn
 platform_signals:

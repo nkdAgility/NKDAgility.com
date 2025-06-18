@@ -3266,5 +3266,24 @@
     "reasoning": "The content discusses 'flow of work' in the context of measuring velocity with engineering metrics (build, test, deploy, feedback). However, it does not explicitly reference the Definition of Workflow or its core components (explicit agreements, policies, entry/exit criteria, or Kanban). Instead, the focus is on delivery speed metrics, not workflow agreements. While it targets a relevant technical audience and touches briefly on stages of work, it lacks conceptual alignment and depth on the category. The intent is more about velocity measurement than about defining or making workflow explicit.",
     "reasoning_summary": "This content addresses engineering flow metrics tied to velocity, not the explicit Definition of Workflow per Kanban. It references work stages but omits policies, agreements, or Kanban-aligned concepts, limiting alignment to the category.",
     "level": "Ignored"
+  },
+  "Objective Key Results": {
+    "resourceId": "14E6bk6Lmo4",
+    "category": "Objective Key Results",
+    "calculated_at": "2025-06-17T16:29:04",
+    "ai_confidence": 9.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 1.0,
+    "ai_audience": 3.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content discusses the concept of velocity and delivery metrics in a DevOps context. While it references measurable outcomes and metrics (such as time to build, deploy, test, and learn), it never mentions Objective Key Results, OKRs, or directly or indirectly aligns itself with OKR principles as defined by John Doerr. The main focus is on delivery flow and continuous delivery, not on the OKR goal-setting system, rationale, or methods. The content is aimed at DevOps and engineering practitioners, but its scope is confined to the measurement of software delivery velocity, unrelated to the strategic, outcome-driven intent or alignment of OKRs.",
+    "reasoning_summary": "This content addresses DevOps velocity metrics and team delivery speed, but does not mention OKRs or reflect their framework, intent, or alignment. Its focus is on flow-based engineering measurements, not structured outcome-based goal systems like Objective Key Results.",
+    "level": "Ignored"
   }
 }

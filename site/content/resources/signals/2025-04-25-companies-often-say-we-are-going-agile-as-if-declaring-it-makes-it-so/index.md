@@ -3,12 +3,12 @@ title: Companies often say "we-are going Agile!" as if declaring it makes it so
 description: Many companies mistake adopting Agile frameworks for true agility, but real success comes from customising ways of working to respond quickly to market changes.
 date: 2025-04-25T15:30:40+01:00
 weight: 500
-slug: companies-often-say-we-are-going-agile-as-if-declaring-it-makes-it-so
-aliases:
-- /resources/otmDMgDEp-i
 ResourceId: otmDMgDEp-i
 ResourceImport: false
 ResourceType: signals
+slug: companies-often-say-we-are-going-agile-as-if-declaring-it-makes-it-so
+aliases:
+- /resources/otmDMgDEp-i
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

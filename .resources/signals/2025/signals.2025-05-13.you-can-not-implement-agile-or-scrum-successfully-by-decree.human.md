@@ -3,12 +3,12 @@ title: You can not implement Agile or Scrum successfully by decree
 description: Mandating Agile or Scrum fails without cultural change; true agility requires trust, transparency, and a supportive environment, not just tools or processes.
 date: 2025-05-13T15:30:47+01:00
 weight: 345
-slug: you-can-not-implement-agile-or-scrum-successfully-by-decree
-aliases:
-- /resources/es3rfygczrI
 ResourceId: es3rfygczrI
 ResourceImport: false
 ResourceType: signals
+slug: you-can-not-implement-agile-or-scrum-successfully-by-decree
+aliases:
+- /resources/es3rfygczrI
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn

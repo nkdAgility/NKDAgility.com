@@ -3,12 +3,12 @@ title: Technical debt isn’t just messy code
 description: Technical debt includes slow feedback, fragile systems, and manual processes that hinder progress. Addressing it early with automation and testing reduces long-term costs.
 date: 2025-03-13T16:30:02+00:00
 weight: 175
-slug: technical-debt-isn-t-just-messy-code
-aliases:
-- /resources/81ZWio23ss7
 ResourceId: 81ZWio23ss7
 ResourceImport: false
 ResourceType: signals
+slug: technical-debt-isn-t-just-messy-code
+aliases:
+- /resources/81ZWio23ss7
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn
