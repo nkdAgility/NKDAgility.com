@@ -1,0 +1,157 @@
+name: 📚 Update Course Syllabus
+description: Request to update or create a course syllabus using the NKD Agility syllabus system
+title: "[SYLLABUS] Update syllabus for [COURSE NAME]"
+labels: ["syllabus", "content", "training"]
+projects: ["nkdAgility/1"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve our course content! This template will help you request syllabus updates using our standardized syllabus system.
+
+        All courses use the **immersive format** with external **syllabus.yaml** files for better maintainability.
+
+        📖 **Reference**: See [syllabus-system.md](../docs/syllabus-system.md) for detailed documentation on the syllabus system.
+
+        **Note**: Course overview, learning objectives, and target audience should be maintained in the course's front matter. This issue will also update the course front matter with `course_sessions` and `course_length` fields if provided.
+
+  - type: input
+    id: course_code
+    attributes:
+      label: Course Code
+      description: The unique Course Code of the course (found in the course's front matter, e.g., "APS", "PAL-E")
+      placeholder: "enter the course code"
+    validations:
+      required: true
+  - type: dropdown
+    id: update_type
+    attributes:
+      label: Update Type
+      description: How should the syllabus content be handled?
+      options:
+        - "Replace - Completely replace existing syllabus"
+        - "Merge - Merge with existing content (preserve existing sessions)"
+        - "Add - Add new sessions to existing syllabus"
+        - "Create - Create new syllabus file"
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: total_hours
+    attributes:
+      label: Total Course Hours
+      description: Total duration of the course in hours (will be added to course front matter as course_length)
+      placeholder: "16"
+    validations:
+      required: true
+
+  - type: input
+    id: number_sessions
+    attributes:
+      label: Number of Sessions
+      description: Total number of sessions (typically course hours / 2, will be added to course front matter as course_sessions)
+      placeholder: "8"
+    validations:
+      required: true
+
+  - type: textarea
+    id: syllabus_before
+    attributes:
+      label: Pre-Course Content (syllabusBefore)
+      description: YAML content for preparation materials shown before main syllabus
+      render: yaml
+      placeholder: |
+        - title: "Course Preparation"
+          link: "./preparation/"
+          duration: 15
+          type: page
+          weight: 1
+        - title: "Pre-reading: Scrum Guide"
+          link: "https://scrumguides.org/"
+          duration: 30
+          type: guide
+          weight: 2
+    validations:
+      required: false
+  - type: textarea
+    id: sessions_yaml
+    attributes:
+      label: Sessions YAML Content
+      description: YAML content for the main syllabus sessions. Include all sessions with id, title, duration, content, and optional learningResources/assignments
+      render: yaml
+      placeholder: |
+        - id: 1
+          title: "Session Title"
+          duration: 120
+          content: |
+            Session description and learning objectives...
+          assignment:
+            title: "Assignment Title"
+            content: |
+              Assignment description focusing on outcomes...
+            examples: |
+              - Example approach 1
+              - Example approach 2
+          learningResources:
+          - title: "Resource Title"
+            link: "https://example.com"
+            duration: 10
+            type: guide
+            weight: 1
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: assignment_requirements
+    attributes:
+      label: Assignment Design Checklist
+      description: For immersive format courses, ensure assignments follow best practices
+      options:
+        - label: "Assignments focus on outcomes rather than specific outputs"
+          required: false
+        - label: "Each assignment directly relates to session learning objectives"
+          required: false
+        - label: "Assignments can be adapted to different organizational contexts"
+          required: false
+        - label: "Reflection prompts are included to prepare for next session"
+          required: false
+        - label: "Real-world application is emphasized over theoretical exercises"
+          required: false
+        - label: "Examples provide inspiration rather than prescriptive templates"
+          required: false
+
+  - type: textarea
+    id: special_considerations
+    attributes:
+      label: Special Considerations
+      description: Any special requirements, dependencies, or considerations for this syllabus
+      placeholder: |
+        - Prerequisites: Previous course completion required
+        - Dependencies: Requires access to specific tools
+        - Notes: Custom duration for specific audience
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: validation_checklist
+    attributes:
+      label: Content Validation
+      description: Please confirm the following before submitting
+      options:
+        - label: "YAML syntax has been validated (use online YAML validator if unsure)"
+          required: true
+        - label: "All session durations add up to approximately the total course hours"
+          required: true
+        - label: "Content aligns with NKD Agility training standards"
+          required: true
+        - label: "Assignment design follows immersive format principles (if applicable)"
+          required: false
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Any other information that would help with implementing this syllabus update
+      placeholder: "Related issues, external requirements, timeline constraints..."
+    validations:
+      required: false

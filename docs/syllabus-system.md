@@ -254,3 +254,41 @@ When including examples in your assignment section, focus on:
 - **Diverse contexts**: Show how the assignment might be approached in different industries or team structures
 - **Varying complexity levels**: Include options for different experience levels and organizational maturity
 - **Outcome variations**: Demonstrate different valid approaches to achieving the learning objectives
+
+## Course Front Matter Integration
+
+NKD Agility courses store essential information in their front matter that integrates with the syllabus system:
+
+### Required Front Matter Fields
+
+- **Course Code**: Unique identifier for the course (e.g., "APS", "PAL-E")
+- **Description**: Course overview and learning objectives
+- **Delivery Audiences**: Target audience information
+- **Course Length**: Total duration in hours (stored as `course_length`)
+- **Course Sessions**: Number of sessions (stored as `course_sessions`)
+
+### Standard Implementation
+
+All NKD Agility courses follow these standards:
+
+- **Format**: Immersive delivery with assignments between sessions
+- **File Structure**: External `syllabus.yaml` files for maintainability
+- **Session Duration**: Typically 2-hour learning modules plus reflection time
+- **Assignment Integration**: Outcome-focused assignments tied to each session
+
+### Front Matter Example
+
+```yaml
+---
+title: Professional Scrum Master (PSM) Course with Certification
+description: Transform your leadership with the Professional Scrum Master course...
+course_code: PSM
+course_length: 16
+course_sessions: 8
+delivery-audiences:
+  - Scrum Masters
+  - Lean Agile Practitioners
+course-learning-experiences:
+  - Immersive
+---
+```
