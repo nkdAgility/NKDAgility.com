@@ -41,7 +41,7 @@ course-topics:
 course-vendors:
 - Scrum.org
 course-learning-experiences:
-- Traditional
+- Immersive
 delivery-audiences:
 - Teams
 - Developers
@@ -75,6 +75,8 @@ card:
   title: Applying Professional Scrum for Software Development (APS-SD) with Certification
   content: 'Experience APS-SD: Hands-on Scrum training for delivering quality software. Gain practical skills in Agile, DevOps, and Scrum principles. Free PSD I certification exam included. Enhance your software development expertise.'
 code: APS-SD
+course_length: 24
+course_sessions: 12
 level: intermediate
 introduction: |2-
 
@@ -117,7 +119,6 @@ prerequisites: |-
 audience: 
 trainers: 
 roadmap: 
-syllabus: 
 events: 
 
 ---

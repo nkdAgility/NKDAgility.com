@@ -1,0 +1,407 @@
+syllabusBefore:
+- title: "Course Preparation"
+  link: "https://github.com/proscrumdev/battleship-dotnet"
+  duration: 30
+  type: guide
+  weight: 1
+- title: "Pre-reading: The 2020 Scrum Guide"
+  link: "https://scrumguides.org"
+  duration: 60
+  type: guide
+  weight: 2
+
+syllabus:
+- id: 1
+  title: "Course Kickoff and Scrum Foundations"
+  duration: 120
+  content: |
+    **Course Overview &amp; Team Formation** – Kicking off the course, students are introduced to the immersive training format and form Scrum Teams. The .NET Battleship case study is presented, and participants ensure their development environment is set up. Through initial discussions and a quick team exercise, they explore the Agile mindset and Scrum basics (roles, events, artifacts, and values). This session lays the foundation for teamwork, emphasizes the importance of collaboration and getting to "Done," and prepares students for the hands-on sprints to follow.
+  learningResources:
+  - title: "Manifesto for Agile Software Development"
+    link: "/content/resources/guides/agile-manifesto/"
+    duration: 5
+    type: guide
+    weight: 1
+  - title: "An Introduction to the Cynefin Model"
+    link: "https://youtu.be/yjXRY0IbJw8"
+    duration: 5
+    type: video
+    weight: 2
+  assignment:
+    title: "Understand How We Work"
+    content: |
+      **Ask** _Facilitate a discussion within your organization about your current product development process and capture how work is done today. Focus on how ideas move from concept to release, and who is involved at each step._
+    examples: |
+      - Gather your team to discuss current pain points and challenges in your development process (e.g. delays, handoffs, quality issues) and document their perspectives.
+      - Create a high-level **value stream map** of how a feature request or bug fix travels from inception to deployment in your organization. Identify all teams or departments that contribute along the way.
+      - List all the roles and accountabilities on your current team (Developers, QA, Ops, etc.) and describe each person's typical responsibilities during a sprint or release cycle.
+      - Discuss how your team currently decides **what to work on next** – who sets priorities, and how work is planned or queued. Note any gaps or inconsistencies in prioritization.
+      - Identify all the regular meetings/events your team participates in (planning, stand-ups, retrospectives, handoff meetings, etc.) and what purpose each serves. Are there overlaps or missing feedback loops?
+      - Examine how your team **ensures quality** today (code reviews, testing, approvals). Is there a shared Definition of Done or quality checklist? If not, what implicit criteria are being used before software is considered "done"?
+      - If possible, visualize the workflow using a diagram or board. Share this with stakeholders and see if they agree that it reflects the current way of working.
+
+- id: 2
+  title: "Agile Principles and Scrum Framework Fundamentals"
+  duration: 120
+  content: |
+    **Scrum Theory &amp; Values** – Students delve into the core principles of Agile and the fundamentals of Scrum. The class reviews the **Agile values and principles** from the Manifesto and discusses why empirical process control is crucial for complex software development. Each element of the Scrum framework (the roles, events, artifacts, and the commitments) is introduced, emphasizing how they interrelate and the purpose they serve. By examining the **Scrum values** (Commitment, Courage, Focus, Openness, Respect), participants learn how these create an environment for trust and self-organization. This foundational session prepares students to identify how Scrum could address issues in their own projects and sets the stage for deeper exploration in subsequent sprints.
+  learningResources:
+  - title: "The Scrum Guide (Latest Edition)"
+    link: "https://scrumguides.org/scrum-guide.html"
+    duration: 60
+    type: guide
+    weight: 1
+  - title: "Empiricism: An Essential Element of Scrum"
+    link: "https://youtu.be/q603WTOSYDk"
+    duration: 4
+    type: video
+    weight: 2
+  - title: "The New New Product Development Game (HBR Article)"
+    link: "https://hbr.org/1986/01/the-new-new-product-development-game"
+    duration: 20
+    type: newspaper
+    weight: 3
+  assignment:
+    title: "Becoming More Agile"
+    content: |
+      **Ask** _Consider how Agile principles and the Scrum framework could improve your team's way of working. Identify at least one change inspired by Scrum or Agile values that you will introduce to your current process, and plan an experiment to implement it._
+    examples: |
+      - Discuss with your team a recurring problem (e.g. missed deadlines or frequent rework) and link it to a missing **Agile principle**. For instance, if requirements keep changing late, introduce more frequent feedback loops (like a Review or stakeholder demo) and observe if it helps.
+      - Share the **Scrum values** with your team and ask each member which value (Commitment, Courage, Focus, Openness, Respect) the team is strongest in and which needs improvement. Choose one weaker area (e.g. Openness) and propose a practice to strengthen it (such as a weekly informal check-in for openness).
+      - Map your current process steps against the pillars of **transparency, inspection, adaptation**. Are there stages of work that lack visibility or feedback? Implement a simple change – for example, start doing a brief Daily Scrum (if not already) for better transparency – and see what challenges or questions arise.
+      - Identify where most uncertainties lie in your project (technology, requirements, etc.) and apply an empirical approach: set up a short **experiment or spike** to gather data. For example, if you're unsure about a new tech, do a one-day proof of concept and review the results with your team.
+      - If your team isn't currently timeboxing work, try introducing a timeboxed iteration (Sprint) of two weeks for your next chunk of work. Use Sprint Planning to decide what to achieve, then after two weeks hold a review of results and a retrospective. Note any improvement in focus or predictability.
+      - Review the **12 Agile principles** with a colleague and pick one principle that your team least embodies today (for example, "continuous delivery of valuable software" or "continuous attention to technical excellence"). Devise one actionable step to move closer to that principle (like setting up a basic CI pipeline to enable frequent delivery) and plan to try it.
+      - Talk to a leader or stakeholder about enabling more agility in your project. For instance, if your process requires heavy upfront approval, discuss the value of incremental delivery and see if you can secure permission to deliver in smaller slices to get feedback faster.
+
+- id: 3
+  title: "Product Backlog Management and Slicing User Stories"
+  duration: 120
+  content: |
+    **Backlog Refinement &amp; Slicing Techniques** – In this session, students focus on efficient Product Backlog management. They learn how a well-groomed backlog supports transparency and adaptability. The class practices **story slicing** – breaking down large features or requirements into thinner vertical slices that can be completed within one Sprint. Techniques for prioritization and ordering of the backlog are discussed, including the DEEP criteria (Detailed appropriately, Estimated, Emergent, Prioritized) for a healthy backlog. Participants also explore methods like relative estimation (Story Points) and the importance of clear acceptance criteria. By the end, students can describe how to refine a backlog item to be "Sprint Ready" and have strategies to improve backlog refinement in their own teams.
+  learningResources:
+  - title: "Make the Product Backlog DEEP (Blog by Mike Cohn)"
+    link: "https://www.mountaingoatsoftware.com/blog/make-the-product-backlog-deep"
+    duration: 5
+    type: blog
+    weight: 1
+  - title: "3 Steps to Better Backlog Refinement (Scrum Tapas Video)"
+    link: "https://youtu.be/rPo6qx6afUY"
+    duration: 3
+    type: video
+    weight: 2
+  - title: "Story Slicing and Splitting in Scrum (Discussion)"
+    link: "https://www.scrum.org/forum/scrum-forum/77164/story-slicing-and-story-splitting-when-and-where-use"
+    duration: 10
+    type: forum
+    weight: 3
+  assignment:
+    title: "Improve Backlog Refinement"
+    content: |
+      **Ask** _Evaluate your team's current backlog refinement or grooming practices and implement one improvement to enhance how work is made ready for development. This could involve applying a new story-splitting technique, refining acceptance criteria, or re-prioritizing the backlog based on value. Observe and share the impact on the next Sprint's planning or outcomes._
+    examples: |
+      - Take a currently large or vague Product Backlog Item from your backlog and work with your team (including the Product Owner) to **split it into smaller stories**. Aim to slice vertically (each new story delivers end-to-end functionality). Note if the smaller stories are easier for the team to estimate and complete.
+      - During your next backlog refinement session, introduce the **DEEP** checklist for a healthy backlog. For each top item, ensure it's Detailed Appropriately (has details and acceptance criteria), Estimated (has an estimate or size), Emergent (you're ready to evolve it if needed), and Properly Prioritized. Improve any item that doesn't meet these criteria.
+      - If your team has not been doing regular backlog refinement, schedule a short **refinement meeting** this week. In that meeting, focus on one or two near-term items and collaboratively clarify requirements, write acceptance criteria, and size them. Observe in the next Sprint Planning if having refined items makes planning smoother.
+      - Identify an item in the backlog that frequently gets bumped to lower priority or "carried over." Discuss with the Product Owner its real priority and either **re-order** it appropriately or split or remove it if it's not valuable. Simplifying the backlog by removing stale or low-value items can increase focus on what matters.
+      - Try a new **estimation technique** with your team for an upcoming set of backlog items (e.g., Planning Poker if you haven't used it, or T-Shirt sizing for a quick gut-check). See if the discussion during estimation reveals any gaps in understanding, and refine the items based on that discussion (adding details or acceptance criteria as needed).
+      - Work with your Product Owner to define a clearer **Definition of Ready** for backlog items (for example: "Has a user story format, acceptance criteria, and is sized to ≤ 1/2 Sprint"). Apply this definition to the top 3 items in your backlog, and communicate any items not meeting it. Track whether items that meet this Definition of Ready result in fewer surprises during the Sprint.
+
+- id: 4
+  title: "Sprint 1 Simulation – Delivering a 'Done' Increment"
+  duration: 120
+  content: |
+    **Hands-on Sprint &amp; Self-Organization** – Students participate in Sprint 1 using the Battleship case study, experiencing the Scrum events and the pressure of delivering a potentially shippable increment. They conduct Sprint Planning to select a modest product goal (e.g. implement a basic game feature) and then collaborate to build and test it within the timebox. During this Sprint, teams encounter real-world issues like unclear requirements, integration challenges, and the need to self-organize under time constraints. After a brief Sprint Review (sharing the increment, such as a working game component) and a time-boxed Retrospective, the instructor leads a debrief. The discussion centers on what it means to get to "Done" and how **boundaries and agreements** (like a Definition of Done, coding standards, and clear roles) enable effective self-management. This sets the stage for introducing improvements in subsequent sprints.
+  learningResources:
+  - title: "Clear Boundaries Enable Self-Organization (Scrum.org Video)"
+    link: "https://youtu.be/SgI7scPR_XI"
+    duration: 4
+    type: video
+    weight: 1
+  - title: "Working Software and Done Criteria (Article)"
+    link: "https://nkdagility.com/resources/blog/2020-12-03-professional-scrum-teams-build-software-that-works/"
+    duration: 7
+    type: blog
+    weight: 2
+  assignment:
+    title: "Strengthen Self-Management"
+    content: |
+      **Ask** _Reflect on how your team currently self-manages and what minimal rules or agreements might improve its ability to organize work. Identify one change in **team working agreements** or boundaries (aligned with Scrum's framework) that you will implement to help the team self-organize more effectively, and monitor its impact._
+    examples: |
+      - If your team lacks a clear **Definition of Done**, convene the team to draft one (including criteria like code review, all tests passing, deployed to a test environment, etc.). Use this Definition of Done in your next Sprint and observe if the team collaborates more to meet it.
+      - Evaluate the clarity of **roles and responsibilities** on your team. If developers are unsure who should merge code or who speaks to stakeholders, establish a simple RACI matrix or checklist for these activities. Share it with the team so everyone knows the boundaries of each accountability (e.g. "Developers own code quality and merging; the Product Owner approves scope changes," etc.).
+      - During your next Daily Scrum, pay attention to whether team members are coordinating or just reporting status. Introduce a reminder that the Daily Scrum is for **planning together**. For one Sprint, encourage the team to explicitly identify any task-swapping or collaboration needed each day (e.g. two developers swarming on a tough problem) and note if this increases progress toward the Sprint Goal.
+      - Implement a lightweight **team agreement** for interruptions: for example, decide as a team that during Sprint execution, any new urgent work must be brought to the Scrum Master/Product Owner first (instead of individuals agreeing to extra work ad hoc). See if this boundary protects focus and brings more visibility to mid-Sprint changes.
+      - If your team doesn't hold Retrospectives regularly, schedule a short, focused **Sprint Retrospective** at the end of the current sprint. Establish the norm that the team will pick one process improvement from each Retro to carry into the next Sprint. Notice if having this cadence makes the team more proactive in addressing issues (an indicator of growing self-management).
+      - Have a conversation with your Scrum Master or a team lead about how decisions are made on your team. If decisions often wait for manager approval, propose that the team tries a Sprint where it makes more decisions autonomously (within certain boundaries), such as redesigning a component or reordering tasks, and then reviews the outcomes. This tests and potentially expands the team's self-management capability.
+      - Focus on **Sprint Goals**: Ensure that for your next Sprint, the team crafts a clear Sprint Goal in Sprint Planning. Throughout the Sprint, encourage team members to self-organize their work each day around achieving that goal (rather than just individual tasks). Observe at the Sprint's end if having a shared goal improved collaboration and outcome.
+
+- id: 5
+  title: "Ensuring Quality – Definition of Done and Technical Excellence"
+  duration: 120
+  content: |
+    **Quality and Done Criteria** – This session highlights the importance of building quality in and managing technical debt. The class discusses the **Definition of Done (DoD)** and how it acts as a quality gate for each increment. Students examine examples of DoD criteria (code review completed, all unit tests passed, integrated in main branch, deployed to test environment, etc.) and compare them with their team's current practices. The concept of **technical debt** is introduced with examples of how unchecked debt can slow teams down. Students learn modern engineering practices to maintain quality, such as continuous integration, automated testing, and refactoring techniques to pay down technical debt. By the end, they understand how a strong Definition of Done and a culture of technical excellence help Scrum Teams deliver "Done" increments consistently and sustainably.
+  learningResources:
+  - title: "Getting Started with Definition of Done (Scrum.org Blog)"
+    link: "https://www.scrum.org/resources/blog/getting-started-definition-done-dod"
+    duration: 6
+    type: blog
+    weight: 1
+  - title: "Professional Scrum Teams Build Software That Works"
+    link: "https://nkdagility.com/resources/blog/professional-scrum-teams-build-software-that-works/"
+    duration: 7
+    type: blog
+    weight: 2
+  - title: "Technical Debt – Code Quality Practices (Guide)"
+    link: "https://refactoring.guru/technical-debt"
+    duration: 5
+    type: guide
+    weight: 3
+  assignment:
+    title: "Enhance Our Definition of Done"
+    content: |
+      **Ask** _Review your team's current Definition of Done (or lack thereof) and implement at least one improvement that raises the quality bar for your product increments. This could mean establishing a new Done criterion (e.g. all critical bugs fixed, or performance test passed) or reinforcing an existing one that is often overlooked._
+    examples: |
+      - If your team does not have a written **Definition of Done**, draft one together. Include criteria such as "Code has been reviewed by a peer," "All unit tests and regression tests are passing," "Deployed to staging and passed UAT," etc. Start using this checklist immediately for each backlog item completed and discuss in the next retrospective how it affected quality.
+      - Identify one gap in your current process where defects slip through (for example, lack of testing in a certain area). Add a specific item to the Definition of Done to address it (e.g. "Security tests executed" or "Cross-browser test done" for a web app). Ensure the team explicitly checks this for the next few increments and monitor if issues in that area decrease.
+      - Ensure that code **documentation or comments** are included in your DoD if knowledge sharing is an issue. For instance, add "Public methods are commented with intended behavior" or "User help updated" to the DoD. Have team members apply this when finishing their tasks and see if new joiners or other teams can understand your product better as a result.
+      - Add a **technical debt review** step to your Sprint Done criteria: for each story completed, the team spends a short time identifying if it introduced any new tech debt or if there was existing debt touched, and logs it. By making tech debt visible as part of Done, the team can start addressing it incrementally (e.g., one debt item resolved each Sprint).
+      - If performance or scalability is a concern, expand the Definition of Done to include basic **performance testing** (e.g. "No endpoint returns slower than 500ms under normal load" or "Memory usage stays under X under scenario Y"). Implement a simple test or measurement for one increment to enforce this and evaluate results.
+      - Communicate the updated Definition of Done to all stakeholders (perhaps by posting it in your team space or sprint review). Encourage your Product Owner to only accept work that meets the DoD. Track if the number of production issues or re-opened bugs decreases once the DoD is consistently applied.
+
+- id: 6
+  title: "Agile Engineering Practices – Test-Driven Development (TDD)"
+  duration: 120
+  content: |
+    **Test-Driven Development &amp; Unit Testing** – Students are introduced to **Test-Driven Development (TDD)**, a core Agile engineering practice for ensuring quality and guiding design. The instructor demonstrates the Red-Green-Refactor cycle using .NET (for example, writing a failing unit test for a Battleship game function, writing minimal code to pass the test, then refactoring the code). Participants see how writing tests first can lead to simpler, more maintainable code and a robust suite of regression tests. The class also discusses **unit testing frameworks** (like NUnit/xUnit for .NET) and the idea of testing pyramid (unit vs integration vs end-to-end tests). Students practice writing a test case themselves in a provided code sandbox. By experiencing TDD in action, they gain confidence in applying it to their work and understand how it helps catch defects early, supports refactoring, and drives better design.
+  learningResources:
+  - title: "How TDD Works and Why It Matters (3-minute Read)"
+    link: "https://medium.com/@ahmetdegeeer/how-test-driven-development-tdd-works-and-why-your-team-should-embrace-it-8d1eac455431"
+    duration: 3
+    type: blog
+    weight: 1
+  - title: "Test-Driven Development – Martin Fowler's Guide"
+    link: "https://martinfowler.com/bliki/TestDrivenDevelopment.html"
+    duration: 5
+    type: guide
+    weight: 2
+  - title: "The Three Rules of TDD (Uncle Bob Explanation)"
+    link: "https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html"
+    duration: 5
+    type: blog
+    weight: 3
+  assignment:
+    title: "Try Test-Driven Development"
+    content: |
+      **Ask** _Apply test-driven development on a small scale in your own work. Choose a simple bug fix or new functionality and write a unit test for it **before** writing the code. Follow the Red-Green-Refactor cycle and observe how it influences your solution. Be prepared to share what you learned with your team._
+    examples: |
+      - Identify a **small bug** in your codebase. Instead of fixing it outright, first write a unit test that fails due to the bug. Then fix the code and watch the test turn green. This way, you not only fix the bug but also have a test to prevent regression.
+      - For the next tiny enhancement or function you implement, practice the TDD cycle: **Red** – write a new test in your .NET test project (for example, ensuring a Battleship board correctly identifies a hit), **Green** – write just enough application code to make that test pass, **Refactor** – clean up any duplication or poor naming in your code now that the test is passing. Note if this approach revealed any edge cases or improved your design.
+      - If your project currently has few or no unit tests, pick one module or class and write a couple of **unit tests** for its existing behavior (essentially characterizing tests). Then perform a small refactoring (like renaming a method or simplifying logic) and run the tests to gain confidence that you haven't broken existing functionality.
+      - Pair up with a teammate for an hour to do **pair programming with TDD** on a problem. One person writes a test, the other writes code to pass it, then refactor together. Swap roles. Afterwards, discuss how designing with tests first felt compared to your usual approach.
+      - Introduce the idea of TDD to your team by sharing the results of your experiment. For example, show the test you wrote and the code it drove. If the experiment went well (e.g., it caught a bug or clarified the requirement), propose trying TDD as a team on a small upcoming item and see if it improves confidence or code quality.
+      - Reflect on any difficulties you faced during this TDD trial (such as figuring out how to write the test, or the test affecting design). Consider what that indicates: do you need better dependency injection to make code testable? Was the problem perhaps too large to TDD effectively? Use these reflections to identify one improvement (maybe adopting an IoC container, or slicing stories smaller) to make future TDD easier.
+
+- id: 7
+  title: "Sprint 2 Simulation – Applying TDD and Continuous Integration"
+  duration: 120
+  content: |
+    **Hands-on Sprint with Engineering Focus** – In Sprint 2 of the case study, teams build on the lessons of TDD and start integrating code frequently. During Sprint Planning, they select the next set of game features and explicitly plan how to incorporate **test-first development** and frequent integrations into their workflow. Throughout the Sprint, teams are encouraged to write unit tests for new functionality (for example, a test to ensure ships cannot overlap on the game board), run tests often, and integrate their code changes continuously using a source control workflow (like committing to the main branch or using pull requests). They encounter real issues like merge conflicts or failing tests, which reinforce the need for CI practices. By the Sprint Review, teams deliver a more advanced increment of the game. In the Retrospective, the discussion centers on the impact of TDD and CI – teams typically notice improved confidence in changes and faster feedback on defects. This exercise reinforces how Agile engineering practices and Scrum complement each other to help teams sustain quality while delivering quickly.
+  learningResources:
+  - title: "Pair Programming: Two Heads are Better Than One"
+    link: "https://www.scrum.org/resources/blog/surprising-benefits-pair-programming-software-teams"
+    duration: 5
+    type: blog
+    weight: 1
+  - title: "Version Control and Branching Strategies (Guide)"
+    link: "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow"
+    duration: 7
+    type: guide
+    weight: 2
+  - title: "Refactoring Patterns Catalog"
+    link: "https://refactoring.guru/refactoring/catalog"
+    duration: 10
+    type: guide
+    weight: 3
+  assignment:
+    title: "Refactor a Piece of Code"
+    content: |
+      **Ask** _Choose a small section of your codebase that you suspect is poorly structured or "smelly," and perform a refactoring on it. The goal is to improve its readability or maintainability **without changing its external behavior**. Use tests (existing or newly written) to ensure you haven't broken anything. Document what you changed and why for your team._
+    examples: |
+      - Find a **long method** or God class in your project that people avoid touching. Break it up – for example, extract one or two smaller methods or classes from it that have clear responsibilities. Run your test suite (or do manual testing if needed) to confirm the application still works exactly as before. Share the before-and-after code with a teammate and note if it's easier to understand.
+      - Identify duplicate or very similar code in two places (duplication is a common code smell). Refactor by **creating a single utility** or common function that both pieces of code call, removing the duplication. Ensure all tests pass (or the application still behaves correctly). In your next team meeting, mention this refactoring so others know about the new common function.
+      - Choose a confusingly named variable, method, or class – something that tripped you or others up in the past. Use **Rename Refactoring** (a feature of most IDEs) to give it a clearer name that reflects its purpose. This is a simple change, but improves communication. Verify the project builds and works after the rename. This exercise can encourage the habit of continuously cleaning up naming.
+      - If your project lacks tests, perform a manual refactoring with extra caution: first, **manually test** the relevant feature or module thoroughly before making changes. Then do a small improvement (such as extracting a constant from magic numbers, or splitting a complex conditional into simpler pieces) and manually test again. Although not ideal, this demonstrates the value of having tests for confident refactoring.
+      - Partner with a colleague to **review and refactor** a piece of code together. One person can suggest improvements while the other makes the changes. This is a learning exercise for both: the reviewer practices spotting code smells, and the coder practices small refactoring steps. Share the final result with your team.
+      - Pick a code area where you've recently found bugs, and refactor it to be more robust (for example, add null checks, input validation, or better error handling). Re-test the scenarios where bugs occurred. This type of defensive refactoring not only improves structure but also prevents future issues.
+      - Look for an opportunity to **simplify complex logic** (nested if-else statements, complex boolean expressions, etc.). Refactor it to be more readable, perhaps using early returns, guard clauses, or boolean methods with clear names. Test that the logic still works correctly. Clean, simple code is easier to debug and extend.
+
+- id: 8
+  title: "Continuous Integration and Version Control Practices"
+  duration: 120
+  content: |
+    **CI/CD Fundamentals &amp; Source Control** – Students explore continuous integration practices that support frequent delivery of working software. The session covers **version control best practices** (branching strategies, commit messages, pull requests) and how they enable team collaboration while maintaining code quality. Participants learn about **automated build pipelines** and how they provide fast feedback on code changes. The class discusses different CI/CD tools and approaches (Azure DevOps, GitHub Actions, etc.) and examines how frequent integration reduces integration pain and supports sustainable delivery. Students also explore **feature toggles** and branching strategies that allow teams to integrate code daily without exposing incomplete features to users. By the end, they understand how CI/CD practices complement Scrum's emphasis on potentially shippable increments and frequent feedback.
+  learningResources:
+  - title: "Continuous Integration (Martin Fowler)"
+    link: "https://martinfowler.com/articles/continuousIntegration.html"
+    duration: 15
+    type: guide
+    weight: 1
+  - title: "Git Flow vs GitHub Flow vs GitLab Flow"
+    link: "https://www.atlassian.com/git/tutorials/comparing-workflows"
+    duration: 10
+    type: guide
+    weight: 2
+  - title: "Feature Toggles (Feature Flags)"
+    link: "https://martinfowler.com/articles/feature-toggles.html"
+    duration: 12
+    type: guide
+    weight: 3
+  assignment:
+    title: "Improve Integration Practices"
+    content: |
+      **Ask** _Evaluate your team's current code integration and version control practices and implement one improvement that reduces integration friction or increases deployment confidence. This might involve setting up automated builds, improving branching strategy, or establishing better commit practices._
+    examples: |
+      - If your team doesn't have **automated builds**, set up a basic CI pipeline that runs tests automatically when code is pushed to the main branch. Start simple (perhaps just compiling the code and running unit tests) and observe how having this feedback loop affects the team's confidence in changes.
+      - Review your team's **branching strategy** and commit practices. If branches live too long or merges are painful, experiment with shorter-lived feature branches and more frequent integration. For one sprint, try committing and merging to main at least daily, and note if this reduces integration conflicts.
+      - Establish **commit message standards** for your team (e.g., start with a verb like "Add," "Fix," "Update" and briefly describe what changed). If your team doesn't already, start linking commits to work items or user stories. Clear commit history makes debugging and code reviews much easier.
+      - Set up **automated deployment** to a staging environment when code is merged to main. Even a simple script that copies files or restarts a service can provide faster feedback and make releases less manual. Track if this reduces the time between "code complete" and "available for testing."
+      - If your team struggles with **long-running feature branches**, try implementing feature toggles for a new feature. This allows you to merge incomplete code to main (behind a toggle) while continuing development. Turn the toggle on when ready. Note if this approach reduces merge conflicts and enables faster feedback.
+      - Improve **code review practices** by setting up pull/merge request templates or checklists (e.g., "Are there tests for new code?" "Does this change require documentation updates?"). Ensure all team members are comfortable reviewing each other's code. Track if systematic code reviews catch more issues before production.
+      - If deployments are infrequent or manual, work on making them **more automated and frequent**. Start by documenting the current deployment process, then automate one step (like running a database migration script). The goal is to make deployment less risky and more routine.
+
+- id: 9
+  title: "Agile Testing and Quality Assurance Practices"
+  duration: 120
+  content: |
+    **Testing in Agile Teams** – This session explores how testing practices need to evolve in Agile environments where requirements emerge and software is delivered frequently. Students learn about the **testing pyramid** (unit, integration, UI tests) and how different types of tests serve different purposes. The class discusses **shift-left testing** – moving testing activities earlier in the development cycle – and how testers and developers can collaborate more effectively. Participants explore **test automation strategies**, acceptance criteria as living documentation, and how to balance manual and automated testing. The session also covers **exploratory testing** and its role in discovering edge cases and usability issues. Students understand how quality is everyone's responsibility in a Scrum Team and learn practical approaches to embed quality practices throughout the development lifecycle.
+  learningResources:
+  - title: "The Testing Pyramid (Martin Fowler)"
+    link: "https://martinfowler.com/articles/practical-test-pyramid.html"
+    duration: 15
+    type: guide
+    weight: 1
+  - title: "Shift-Left Testing in Agile"
+    link: "https://www.atlassian.com/devops/devops-tools/test-automation-pyramid"
+    duration: 8
+    type: guide
+    weight: 2
+  - title: "Exploratory Testing Explained"
+    link: "https://www.satisfice.com/download/exploratory-testing"
+    duration: 10
+    type: guide
+    weight: 3
+  assignment:
+    title: "Enhance Testing Practices"
+    content: |
+      **Ask** _Evaluate your team's current testing approach and implement one improvement that increases confidence in software quality or reduces the time to find defects. This could involve shifting testing earlier, improving test automation, or enhancing collaboration between developers and testers._
+    examples: |
+      - If testing typically happens after development is "complete," experiment with **shifting testing left**. Have testers review acceptance criteria and test cases during or immediately after Sprint Planning. Try having a tester pair with a developer during implementation to catch issues immediately. Measure if this reduces bugs found later.
+      - Analyze your team's **test automation coverage** using the testing pyramid as a guide. If you have too many slow UI tests and not enough fast unit tests, work on writing more unit tests for a recent feature. Or if you lack integration tests, create a few tests that verify critical system interactions. Track if this changes your confidence in releases.
+      - Implement **acceptance test-driven development** (ATDD) for one user story. Before development starts, have the team (including tester and Product Owner) collaborate to write concrete examples and acceptance tests. Use these tests to guide implementation and as pass/fail criteria. Observe if this improves shared understanding and reduces rework.
+      - If your team relies heavily on manual testing, **automate one frequently executed test scenario**. Start with a critical user workflow that's tested every release. Even if it takes longer initially, automation pays off over time. Monitor how much time this saves in subsequent releases.
+      - Try **exploratory testing sessions** where team members (including developers) spend dedicated time exploring the application without scripted tests. Set aside 30-60 minutes to deliberately try to "break" a feature or find usability issues. Document any insights that scripted tests missed.
+      - Improve **test documentation and reporting** by creating test results that non-technical stakeholders can understand. For example, implement living documentation where test results show business scenarios passing or failing in plain language. Share this with your Product Owner and gather feedback.
+      - Foster **quality collaboration** by having developers and testers work together on one problematic area of your application. Jointly design tests, review code for testability, and discuss quality concerns. See if this cross-functional collaboration improves both code quality and test effectiveness.
+
+- id: 10
+  title: "DevOps Integration and Deployment Practices"
+  duration: 120
+  content: |
+    **DevOps &amp; Deployment Strategies** – Students explore how DevOps practices enable Scrum Teams to deliver working software more reliably and frequently. The session covers **deployment automation**, infrastructure as code, and monitoring practices that support continuous delivery. Participants learn about different **deployment strategies** (blue-green, canary, feature flags) and how they reduce deployment risk while enabling faster feedback. The class discusses **observability practices** – logging, monitoring, and alerting – and how they help teams understand system behavior in production. Students also explore how **cross-functional collaboration** between development and operations teams enables faster problem resolution and more reliable systems. By the end, they understand how DevOps practices complement Scrum's goals of frequent delivery and empirical process control.
+  learningResources:
+  - title: "The DevOps Handbook (Key Concepts)"
+    link: "https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002"
+    duration: 20
+    type: guide
+    weight: 1
+  - title: "Blue-Green Deployment Strategy"
+    link: "https://martinfowler.com/bliki/BlueGreenDeployment.html"
+    duration: 5
+    type: guide
+    weight: 2
+  - title: "Monitoring and Observability for Agile Teams"
+    link: "https://www.atlassian.com/devops/devops-tools/devops-monitoring"
+    duration: 10
+    type: guide
+    weight: 3
+  assignment:
+    title: "Implement DevOps Practice"
+    content: |
+      **Ask** _Choose one DevOps practice that would benefit your team's ability to deploy and monitor software more effectively. Implement a simple version of this practice and observe its impact on deployment confidence, feedback loops, or incident response._
+    examples: |
+      - Set up **basic monitoring and alerting** for one critical component of your application (e.g., database connectivity, key API response times, or error rates). Configure alerts that notify the team when thresholds are exceeded. Track if having this visibility helps the team catch and resolve issues faster.
+      - Implement **automated deployment** to a staging environment. Create a simple script or use a CI/CD tool to automatically deploy code when it's merged to main. Even if production deployment remains manual, this automation provides faster feedback and reduces deployment effort for testing.
+      - Try a **blue-green deployment** or canary release for a low-risk change. Set up two identical environments and gradually shift traffic from the old version to the new version. Monitor both versions and be ready to roll back if issues arise. Note if this approach reduces deployment anxiety.
+      - Improve **environment consistency** by documenting (or better yet, scripting) how to set up development environments. If each developer's environment is different, work toward making them more similar to production. Container technology (Docker) can help here. Track if this reduces "works on my machine" issues.
+      - Establish **centralized logging** for your application if it doesn't exist. Configure logs from different components to go to a central location where they can be searched and analyzed. During the next production issue, observe if centralized logs help with faster diagnosis.
+      - Create a **runbook or incident response plan** for your most common production issues. Document the steps to diagnose and resolve these issues, and ensure all team members know where to find this information. Test the runbook during the next incident and refine it based on what you learn.
+      - Practice **infrastructure as code** by defining part of your infrastructure (database schema, server configuration, etc.) in version-controlled scripts or templates. This makes infrastructure changes more predictable and repeatable. Start small with one component and expand if successful.
+
+- id: 11
+  title: "Sprint 3 Simulation – End-to-End Integration and Delivery"
+  duration: 120
+  content: |
+    **Complete Feature Delivery** – In the final sprint simulation, teams focus on delivering a complete, integrated feature of the Battleship game. They apply all the practices learned in previous sessions: TDD, continuous integration, automated testing, and DevOps practices. During Sprint Planning, teams select ambitious goals that require good collaboration and technical practices to achieve. Throughout the Sprint, they encounter realistic challenges like performance issues, integration problems, or changing requirements. Teams must self-organize to overcome these obstacles while maintaining quality and meeting their Sprint Goal. The Sprint Review showcases not just the working software but also the engineering practices that enabled its delivery. In the final Retrospective, teams reflect on their journey and identify which practices made the biggest difference in their effectiveness. This capstone experience demonstrates how Scrum and modern engineering practices work together to enable sustainable, high-quality software delivery.
+  learningResources:
+  - title: "Sustainable Pace in Software Development"
+    link: "https://www.martinfowler.com/bliki/SustainablePace.html"
+    duration: 5
+    type: guide
+    weight: 1
+  - title: "Technical Practices That Support Scrum"
+    link: "https://www.scrum.org/resources/blog/scrum-and-technical-practices"
+    duration: 8
+    type: blog
+    weight: 2
+  - title: "Building Quality In (Lean Principles)"
+    link: "https://lean.org/lexicon-terms/built-in-quality-jidoka/"
+    duration: 6
+    type: guide
+    weight: 3
+  assignment:
+    title: "Reflect on Technical Practices"
+    content: |
+      **Ask** _Reflect on the technical practices you've experimented with during this course and identify which ones provided the most value for your team. Create a plan to systematically adopt or improve these practices in your regular work, and share your insights with colleagues._
+    examples: |
+      - Document the **biggest impact practice** you've tried during this course (e.g., TDD, automated builds, improved Definition of Done, better retrospectives). Write a brief case study explaining what you implemented, what resistance you encountered, and what benefits you observed. Share this with your team and propose making it a standard practice.
+      - Create a **technical practices adoption roadmap** for your team. List 3-5 practices you'd like to implement or improve over the next few months, prioritized by impact and ease of adoption. Include specific next steps and success criteria for each practice. Present this to your team or manager and get agreement on trying the top priority item.
+      - Conduct a **team retrospective** focused on technical practices. Ask your team which development practices are working well and which are causing friction. Use the techniques learned in this course to identify one practice to start, one to stop, and one to continue. Commit to trying the improvement for one sprint and then evaluating results.
+      - **Mentor a colleague** by teaching them one technical practice you've learned (e.g., TDD, refactoring techniques, better testing strategies). Pair with them on implementing the practice in their work. Teaching others reinforces your own learning and helps spread good practices throughout your organization.
+      - Prepare a **presentation or demo** for other teams in your organization about the benefits of integrating Scrum with modern engineering practices. Include concrete examples from your experience and offer to help other teams adopt similar practices. Measure interest and follow up with teams that want to learn more.
+      - Establish **communities of practice** around technical excellence in your organization. Start a regular meetup, brown bag session, or online forum where developers can share experiences with practices like TDD, continuous integration, or code quality. Even if it starts small, it can grow into a valuable learning resource.
+      - Create **measurement and tracking** for the technical practices your team adopts (e.g., test coverage, build success rate, deployment frequency, time to fix bugs). Use these metrics to demonstrate the business value of technical practices to stakeholders and guide continuous improvement efforts.
+
+- id: 12
+  title: "Scaling Agile Engineering Practices and Continuous Improvement"
+  duration: 120
+  content: |
+    **Organizational Agility &amp; Scaling** – The final session explores how the practices learned in the course can be scaled across larger organizations and multiple teams. Students discuss **communities of practice**, knowledge sharing, and how to spread technical excellence beyond individual teams. The class covers challenges and solutions for coordinating multiple Scrum Teams working on the same product, including shared Definition of Done, cross-team integration practices, and architectural considerations. Participants learn about **continuous improvement culture** and how to measure and track the effectiveness of engineering practices over time. The session also addresses how to overcome common organizational impediments to adopting Agile engineering practices. Students leave with actionable strategies for leading technical transformation in their organizations and becoming advocates for sustainable, high-quality software development practices.
+  learningResources:
+  - title: "Communities of Practice in Software Development"
+    link: "https://www.thoughtworks.com/insights/blog/communities-practice-software-development"
+    duration: 10
+    type: blog
+    weight: 1
+  - title: "Scaling Agile Software Development"
+    link: "https://www.scaledagileframework.com/technical-agility/"
+    duration: 15
+    type: guide
+    weight: 2
+  - title: "Leading Technical Change in Organizations"
+    link: "https://www.martinfowler.com/articles/developer-effectiveness.html"
+    duration: 12
+    type: guide
+    weight: 3
+  assignment:
+    title: "Plan Organizational Change"
+    content: |
+      **Ask** _Design a strategy for promoting technical excellence and Agile engineering practices in your broader organization. Consider how to gain support, overcome resistance, and measure progress. Start implementing one element of your strategy and track its effectiveness._
+    examples: |
+      - **Assess organizational readiness** for technical practice adoption by surveying teams about their current practices, pain points, and interest in improvement. Identify which teams are most ready for change and which practices would provide the biggest impact. Use this data to prioritize your improvement efforts and build a compelling case for change.
+      - **Create a community of practice** around a specific technical practice (e.g., testing, continuous integration, code quality). Start with interested volunteers from different teams. Organize regular meetings to share experiences, solve common problems, and spread knowledge. Track participation and measure impact on practice adoption across teams.
+      - **Pilot a practice across multiple teams** working on related products. For example, establish a shared Definition of Done or common automated testing standards for teams working on different components of the same system. Document lessons learned and use successful pilots to influence broader organizational standards.
+      - **Develop organizational metrics** that track technical practice maturity (e.g., deployment frequency, lead time for changes, test coverage, defect escape rate). Create dashboards that help teams and leaders understand the business impact of technical practices. Use these metrics to guide investment in technical improvement initiatives.
+      - **Establish technical leadership roles** such as practice leads, technical coaches, or architecture communities that can guide and support technical practice adoption across teams. Work with management to define these roles and get organizational commitment to technical excellence as a strategic priority.
+      - **Create learning pathways** for different roles (developers, testers, product owners, managers) that help them understand and support Agile engineering practices. This might include training programs, mentoring relationships, or rotation opportunities that spread knowledge and build organizational capability.
+      - **Address organizational impediments** that prevent teams from adopting good technical practices (e.g., lack of test environments, approval processes that discourage frequent deployment, reward systems that don't value quality). Work with leadership to identify and remove these systemic barriers to technical excellence.

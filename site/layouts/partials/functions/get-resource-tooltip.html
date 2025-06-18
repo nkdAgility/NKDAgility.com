@@ -1,0 +1,77 @@
+{{/* Resource Tooltip HTML Generator - Context: Resource page object - Returns: HTML string for Bootstrap tooltip */}}
+
+{{- $tooltip := "" -}}
+
+{{- /* Title Section */ -}}
+{{- if .Title -}}
+  {{- $tooltip = printf "%s<div class=\"tooltip-title\"><h6>%s</h6></div>" $tooltip .Title -}}
+{{- end -}}
+
+{{- /* Description Section */ -}}
+{{- if .Description -}}
+  {{- $tooltip = printf "%s<div class=\"tooltip-description\"><p>%s</p></div>" $tooltip .Description -}}
+{{- end -}}
+
+{{- /* Resource Type & Category */ -}}
+{{- $primaryMetaInfo := slice -}}
+
+{{- /* Reading Time */ -}}
+{{- if .ReadingTime -}}
+  {{- if eq .ReadingTime 1 -}}
+    {{- $primaryMetaInfo = $primaryMetaInfo | append "1 min read" -}}
+  {{- else -}}
+    {{- $primaryMetaInfo = $primaryMetaInfo | append (printf "%d min read" .ReadingTime) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Resource Type */ -}}
+{{- if .Params.resourceType -}}
+  {{- $primaryMetaInfo = $primaryMetaInfo | append (humanize .Params.resourceType) -}}
+{{- else if .Type -}}
+  {{- $primaryMetaInfo = $primaryMetaInfo | append (humanize .Type) -}}
+{{- end -}}
+
+{{- /* Date Information */ -}}
+{{- if gt .Date (now) -}}
+  {{- $primaryMetaInfo = $primaryMetaInfo | append (printf "Scheduled: %s" (.Date.Format "Jan 2, 2006")) -}}
+{{- else if .Date -}}
+  {{- $primaryMetaInfo = $primaryMetaInfo | append (.Date.Format "Jan 2, 2006") -}}
+{{- end -}}
+
+{{- /* Primary Meta Line */ -}}
+{{- if $primaryMetaInfo -}}
+  {{- $tooltip = printf "%s<div class=\"tooltip-meta-primary\"><small>%s</small></div>" $tooltip (delimit $primaryMetaInfo " • ") -}}
+{{- end -}}
+
+{{- /* Categories */ -}}
+{{- if .Params.categories -}}
+  {{- $categories := slice -}}
+  {{- range first 3 .Params.categories -}}
+    {{- $categories = $categories | append . -}}
+  {{- end -}}
+  {{- if $categories -}}
+    {{- $categoryString := delimit $categories ", " -}}
+    {{- if gt (len .Params.categories) 3 -}}
+      {{- $categoryString = printf "%s +%d more" $categoryString (sub (len .Params.categories) 3) -}}
+    {{- end -}}
+    {{- $tooltip = printf "%s<p><small>Categories: %s</small></p>" $tooltip $categoryString -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Tags */ -}}
+{{- if .Params.tags -}}
+  {{- $tags := slice -}}
+  {{- range first 3 .Params.tags -}}
+    {{- $tags = $tags | append . -}}
+  {{- end -}}
+  {{- if $tags -}}
+    {{- $tagString := delimit $tags ", " -}}
+    {{- if gt (len .Params.tags) 3 -}}
+      {{- $tagString = printf "%s +%d more" $tagString (sub (len .Params.tags) 3) -}}
+    {{- end -}}
+    {{- $tooltip = printf "%s<p><small>Tags: %s</small></p>" $tooltip $tagString -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Return the complete tooltip HTML */ -}}
+{{- return $tooltip -}}
