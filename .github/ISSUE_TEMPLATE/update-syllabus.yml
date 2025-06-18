@@ -15,6 +15,31 @@ body:
 
         **Note**: Course overview, learning objectives, and target audience should be maintained in the course's front matter. This issue will also update the course front matter with `course_sessions` and `course_length` fields if provided.
 
+  - type: textarea
+    id: processing_instructions
+    attributes:
+      label: "🤖 Processing Instructions"
+      description: "Instructions for AI agents and human reviewers (will be included in the issue)"
+      value: |
+        ## Processing Instructions
+
+        ### Issue Processing Workflow:
+        - [ ] **Locate Course**: Use the course code to find the course directory in `site/content/capabilities/training-courses/`
+        - [ ] **Update Front Matter**: Add/update `course_length` and `course_sessions` fields in the course's `index.md` front matter if provided
+        - [ ] **Create/Update Syllabus**: Process the provided YAML content into the course's `syllabus.yaml` file
+        - [ ] **Validate Structure**: Ensure YAML syntax is correct and session durations align with total course hours
+        - [ ] **Review Assignments**: Verify assignments follow immersive format principles (outcome-focused, adaptable, real-world application)
+        - [ ] **Quality Check**: Confirm content meets NKD Agility training standards and aligns with target delivery audiences
+
+        ### Key Validation Points:
+        - [ ] **YAML Syntax**: Must be valid and properly formatted
+        - [ ] **Duration Alignment**: Session durations should total to course hours unless specified otherwise
+        - [ ] **Assignment Quality**: Focus on outcomes rather than specific outputs
+        - [ ] **Learning Objectives**: Clear connection between sessions and course goals
+        - [ ] **Immersive Format**: Assignments emphasize real-world application and reflection
+    validations:
+      required: true
+
   - type: input
     id: course_code
     attributes:
@@ -101,25 +126,6 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
-    id: assignment_requirements
-    attributes:
-      label: Assignment Design Checklist
-      description: For immersive format courses, ensure assignments follow best practices
-      options:
-        - label: "Assignments focus on outcomes rather than specific outputs"
-          required: false
-        - label: "Each assignment directly relates to session learning objectives"
-          required: false
-        - label: "Assignments can be adapted to different organizational contexts"
-          required: false
-        - label: "Reflection prompts are included to prepare for next session"
-          required: false
-        - label: "Real-world application is emphasized over theoretical exercises"
-          required: false
-        - label: "Examples provide inspiration rather than prescriptive templates"
-          required: false
-
   - type: textarea
     id: special_considerations
     attributes:
@@ -131,21 +137,6 @@ body:
         - Notes: Custom duration for specific audience
     validations:
       required: false
-
-  - type: checkboxes
-    id: validation_checklist
-    attributes:
-      label: Content Validation
-      description: Please confirm the following before submitting
-      options:
-        - label: "YAML syntax has been validated (use online YAML validator if unsure)"
-          required: true
-        - label: "All session durations add up to approximately the total course hours"
-          required: true
-        - label: "Content aligns with NKD Agility training standards"
-          required: true
-        - label: "Assignment design follows immersive format principles (if applicable)"
-          required: false
 
   - type: textarea
     id: additional_context
