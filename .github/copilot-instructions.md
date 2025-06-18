@@ -118,3 +118,44 @@ The repository uses GitHub Actions for CI/CD:
 - Content is written in Markdown format in the `site/content` directory
 - Images are stored in subdirectories alongside content files
 - The website uses various taxonomies (tags, categories, etc.) defined in `hugo.yaml`
+
+## Course and Syllabus Management
+
+NKD Agility uses a standardized system for managing training course content:
+
+### Course Structure Standards
+
+- All courses use the **immersive format** with assignments between sessions
+- Course content uses external `syllabus.yaml` files for better maintainability
+- Course information is stored in the course's front matter
+
+### Required Course Front Matter Fields
+
+When creating or updating course content, ensure these fields are present:
+
+```yaml
+course_code: "PSM" # Unique course identifier (e.g., "APS", "PAL-E") Load from `code` field in front matter if present.
+course_length: 16 # Total course duration in hours
+course_sessions: 8 # Number of sessions (typically course_length / 2)
+description: "Course description and learning objectives..."
+delivery-audiences: # Target audience list
+  - "Scrum Masters"
+  - "Product Owners"
+course-learning-experiences:
+  - "Immersive" # Standard format for all courses
+```
+
+### Syllabus System
+
+- **File Location**: `syllabus.yaml` in the course directory
+- **Structure**: Sessions with assignments, learning resources, and reflection components
+- **Assignment Design**: Outcome-focused rather than output-focused
+- **Documentation**: See `docs/syllabus-system.md` for detailed guidance
+
+### Issue Templates
+
+Use `.github/ISSUE_TEMPLATE/update-syllabus.yml` for syllabus updates:
+
+- Automatically extracts course info from front matter using course code
+- Updates both syllabus.yaml and course front matter fields
+- Validates assignment design against immersive format principles
