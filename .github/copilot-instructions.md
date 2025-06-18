@@ -143,6 +143,7 @@ delivery-audiences: # Target audience list
   - "Product Owners"
 course-learning-experiences:
   - "Immersive" # Standard format for all courses
+  - "Traditional" # Standard format for all courses
 ```
 
 ### Syllabus System

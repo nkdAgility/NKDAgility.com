@@ -292,3 +292,100 @@ course-learning-experiences:
   - Immersive
 ---
 ```
+
+## Learning Resource Selection Guidelines
+
+When selecting learning resources for your syllabus, follow this preference order to ensure consistency and quality across NKD Agility courses:
+
+### 1. **First Preference: NKDAgility.com Content**
+
+- **Blog posts**: Use relevant articles from the NKD Agility blog that directly support the session's learning objectives
+- **Training materials**: Reference other course content, guides, or resources available on nkdagility.com
+- **Case studies**: Include real-world examples and success stories from NKD Agility's work
+- **White papers**: Use in-depth analysis and research content available on the site
+- **Video content**: Leverage recorded presentations, interviews, or educational videos hosted on the platform
+
+**Why prioritize NKD Agility content?**
+
+- Ensures brand consistency and reinforces NKD Agility's thought leadership
+- Provides content that aligns with our specific training methodologies and approaches
+- Offers learners a cohesive learning experience within our ecosystem
+- Supports our content strategy and SEO efforts
+
+### 2. **Second Preference: Scrum.org Content**
+
+- **Official Scrum Guides**: Reference the definitive Scrum framework documentation
+- **Professional Scrum articles**: Use insights from Ken Schwaber, Dave West, and other Scrum.org contributors
+- **Assessments and tools**: Include links to relevant Scrum.org assessments or resources
+- **Evidence-Based Management content**: Reference EBM materials for value-focused discussions
+- **Community blog posts**: Leverage high-quality content from the Scrum.org community
+
+**Why prioritize Scrum.org content?**
+
+- Provides authoritative source material for Scrum-related content
+- Maintains alignment with official Scrum training standards
+- Offers learners access to the most current and accurate Scrum information
+- Supports our partnership and certification relationships
+
+### 3. **Third Preference: Other Reputable Sources**
+
+Only when suitable content is not available from NKD Agility or Scrum.org, consider:
+
+- **Industry thought leaders**: Content from recognized experts in Agile, Scrum, or related fields
+- **Academic sources**: Research papers, studies, or educational institution resources
+- **Professional organizations**: Materials from PMI, Agile Alliance, or similar bodies
+- **Technology vendors**: Documentation or guides from relevant tool providers (when tool-specific)
+- **Community resources**: High-quality content from respected Agile communities
+
+**Selection criteria for external sources:**
+
+- Content must align with NKD Agility's values and methodologies
+- Source must be reputable and well-regarded in the industry
+- Information should be current and accurate
+- Content should complement, not contradict, our training approach
+
+### Resource Quality Standards
+
+Regardless of source, all learning resources should meet these criteria:
+
+- **Relevance**: Directly supports the session's learning objectives
+- **Currency**: Information is up-to-date and reflects current best practices
+- **Accessibility**: Content is easily accessible to course participants
+- **Quality**: Well-written, professionally presented, and free from errors
+- **Appropriate Duration**: Time investment aligns with the learning value provided
+
+### Implementation in Syllabus
+
+When adding learning resources to your syllabus, structure them as follows:
+
+```yaml
+learningResources:
+  - title: "NKD Agility Resource Title"
+    link: "https://nkdagility.com/relevant-article"
+    duration: 15
+    type: blog
+    weight: 1
+  - title: "Scrum.org Resource Title"
+    link: "https://scrum.org/relevant-resource"
+    duration: 10
+    type: guide
+    weight: 2
+  - title: "External Resource Title"
+    link: "https://external-site.com/resource"
+    duration: 20
+    type: video
+    weight: 3
+```
+
+Note how the `weight` values reflect the preference order, with NKD Agility content having the lowest weight (appearing first).
+
+## Syllabus Creation Best Practices
+
+1. **Use External Files for Complex Syllabi**: If your syllabus contains multiple sessions with detailed resources and assignments, use the external file method.
+2. **Maintain Consistent Structure**: Keep the structure consistent across all courses for better maintenance.
+3. **Use Markdown Formatting**: Take advantage of Markdown formatting in content and description fields.
+4. **Set Realistic Durations**: Provide accurate time estimates for sessions and resources.
+5. **Organize with Weights**: Use the weight property to control the display order of items.
+6. **Provide Comprehensive Descriptions**: Write clear and informative descriptions for each session.
+7. **Include Practical Assignments**: Where applicable, include practical assignments to enhance the learning experience.
+8. **Follow Learning Resource Preferences**: Use the established preference order (NKD Agility → Scrum.org → Other sources) when selecting learning resources.
