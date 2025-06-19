@@ -39,7 +39,7 @@
               {{ range $futureResources }}
                 {{ $duration := .Date.Sub now }}
                 {{ $days := math.Floor (div $duration.Hours 24) }}
-                <div class="resource-list-item text-truncate"  title="{{ .Title }} - {{ .Description }}"
+                <div class="resource-list-item text-truncate"
                    title="{{ .Title }} - {{ .Description }}"
                    data-bs-toggle="tooltip" 
                    data-bs-placement="top" 
