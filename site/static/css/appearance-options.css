@@ -92,12 +92,36 @@
 .text-font-dyslexic .list-group-item {
   font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
   letter-spacing: 0.02em !important;
-  line-height: 1.5 !important;
+  line-height: 1.8 !important;
 }
 
 .text-font-dyslexic .btn {
   font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
   letter-spacing: 0.01em !important;
+}
+
+.text-font-dyslexic .resource-list-item {
+  font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
+  letter-spacing: 0.02em !important;
+  line-height: 1.8 !important;
+}
+
+.text-font-dyslexic .classification-list-item {
+  font-family: "OpenDyslexic", "Comic Sans MS", "Trebuchet MS", Verdana, Arial, sans-serif !important;
+  letter-spacing: 0.02em !important;
+  line-height: 1.8 !important;
+}
+
+@media (min-width: 1400px) {
+  .text-font-dyslexic .columns-2 {
+    column-count: 1;
+  }
+  .text-font-dyslexic .columns-3 {
+    column-count: 3;
+  }
+  .text-font-dyslexic .columns-4 {
+    column-count: 2;
+  }
 }
 
 /* Lexend font option - Google Font optimized for reading proficiency */
