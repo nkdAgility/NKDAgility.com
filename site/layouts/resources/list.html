@@ -44,7 +44,7 @@
                    data-bs-toggle="tooltip" 
                    data-bs-placement="top" 
                    data-bs-html="true"
-                   data-bs-title="{{- partial "partials/functions/get-resource-tooltip.html" . -}}">
+                   data-bs-title="{{- partial "functions/get-resource-tooltip.html" . -}}">
                   {{- partial "components/resources/resource-icon.html" . }}
                   <span title="in {{ $days }} days">[{{ $days }}]</span>
                   <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -72,7 +72,7 @@
                    data-bs-toggle="tooltip" 
                    data-bs-placement="top" 
                    data-bs-html="true"
-                   data-bs-title="{{- partial "partials/functions/get-resource-tooltip.html" . -}}">
+                   data-bs-title="{{- partial "functions/get-resource-tooltip.html" . -}}">
                 {{- partial "components/resources/resource-icon.html" . }}
                 <a href="{{ .RelPermalink }}">{{if .Params.short_title }}{{ .Params.short_title }}{{else}}{{ .Title }}{{end}}</a>
               </div>
@@ -90,7 +90,7 @@
                    data-bs-toggle="tooltip" 
                    data-bs-placement="top" 
                    data-bs-html="true"
-                   data-bs-title="{{- partial "partials/functions/get-resource-tooltip.html" . -}}">
+                   data-bs-title="{{- partial "functions/get-resource-tooltip.html" . -}}">
                 {{- partial "components/resources/resource-icon.html" . }}
                 <a href="{{ .RelPermalink }}">{{if .Params.short_title }}{{ .Params.short_title }}{{else}}{{ .Title }}{{end}}</a>
               </div>
