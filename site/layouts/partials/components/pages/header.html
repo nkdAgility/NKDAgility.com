@@ -16,8 +16,8 @@
     </div>
     <div class="col-12 col-xl-8 d-flex flex-column">
       <div class="flex-grow-1">
-        <h1 class="mb-4 nkda-heading-primary">{{- .Params.short_title | markdownify }}</h1>
-        <h2 class="mb-4 nkda-heading-secondary">{{- .Title | markdownify }}</h2>
+        <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
+        <h2 class="mb-4 nkda-heading-secondary">{{- .Params.short_title | markdownify }}</h2>
         <div class="text-white">
           {{- if .Params.headline }}
             <p class="mb-4">{{- .Params.headline.content | markdownify }}</p>
