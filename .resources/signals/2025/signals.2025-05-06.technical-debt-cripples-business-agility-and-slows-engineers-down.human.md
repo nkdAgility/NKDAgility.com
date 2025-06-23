@@ -1,5 +1,6 @@
 ---
 title: Technical debt cripples business agility and slows engineers down
+short_title: How Does Technical Debt Impact Business Agility?
 description: Technical debt limits business agility, slows engineering, and hinders innovation. Managing it with automation and transparency is key to staying competitive and responsive.
 date: 2025-05-06T15:30:42+01:00
 weight: 190
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:59Z
+  short_title: 2025-06-23T12:13:40Z
 concepts: []
 categories:
 - Engineering Excellence

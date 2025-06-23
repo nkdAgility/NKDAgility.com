@@ -1,8 +1,9 @@
 ---
 title: US Department of Defence and the History of Waterfall Delivery
+short_title: Why Did the US DoD Move from Waterfall to Agile Delivery?
 description: Explores the US Department of Defence’s shift from traditional waterfall delivery to lean-agile methods, highlighting new procurement rules and the need for true agility.
 date: 2025-06-08T15:30:25+01:00
-weight: 1000
+weight: 545
 ResourceId: mlGmtc4ZqJM
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,20 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:40Z
+  short_title: 2025-06-23T12:13:13Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Product Development
+tags:
+- Pragmatic Thinking
+- Organisational Agility
+- Software Development
+- Enterprise Agility
+- Organisational Change
+- Business Agility
+- Agile Strategy
+- Agile Transformation
+- Product Delivery
 
 ---
 For years, the US Department of Defence was the poster child for waterfall delivery. Locked gates, stage-based approvals, and delivery dates that existed more on paper than in production.

@@ -1,36 +1,56 @@
 ---
 title: Scrum doesn’t stop you from optimising flow
+short_title: Does Scrum Allow Continuous Flow Optimisation?
 description: Explains how Scrum supports continuous flow and agility by prioritising Sprint Goals, Done increments, CI/CD practices, and outcomes over rigid sprint boundaries.
 date: 2025-05-25T15:30:23+01:00
-weight: 1000
+weight: 175
 ResourceId: BD9f00po0V6
 ResourceImport: false
 ResourceType: signals
 slug: scrum-doesn-t-stop-you-from-optimising-flow
 aliases:
-  - /resources/BD9f00po0V6
+- /resources/BD9f00po0V6
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7332427823237804033
-    post_id: "7332427823237804033"
-    post_date: 2025-05-25T14:30:23Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7332427823237804033
+  post_id: "7332427823237804033"
+  post_date: 2025-05-25T14:30:23Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:50Z
-concepts: []
+  short_title: 2025-06-23T12:13:24Z
+concepts:
+- Principle
 categories:
-  - Uncategorized
-tags: []
----
+- Scrum
+- Engineering Excellence
+- Product Development
+tags:
+- Software Development
+- Professional Scrum
+- Empirical Process Control
+- Product Delivery
+- Agile Planning
+- Organisational Agility
+- Engineering Practices
+- Agile Frameworks
+- Value Delivery
+- Operational Practices
+- Frequent Releases
+- Pragmatic Thinking
+- Technical Excellence
+- Team Performance
+- Continuous Delivery
 
+---
 Scrum doesn’t stop you from optimising flow. It just demands accountability: a Sprint Goal and a Done Increment.
 
 If your system of work already delivers high-quality software continuously, why impose hard delivery cuts every two weeks? Let work flow—sustainably—across Sprint boundaries.

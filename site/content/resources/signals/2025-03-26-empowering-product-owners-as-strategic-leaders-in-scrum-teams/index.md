@@ -1,5 +1,6 @@
 ---
 title: Empowering Product Owners as Strategic Leaders in Scrum Teams
+short_title: How Can Product Owners Become Strategic Leaders in Scrum?
 description: Explores how Product Owners can drive strategy, maximise value, and lead Scrum teams effectively, highlighting the need for empowerment beyond basic backlog management.
 date: 2025-03-26T16:30:33+00:00
 weight: 445
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:52Z
+  short_title: 2025-06-23T12:14:31Z
 concepts:
 - Strategy
 categories:

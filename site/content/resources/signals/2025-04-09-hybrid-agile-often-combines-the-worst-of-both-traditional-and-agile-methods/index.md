@@ -1,5 +1,6 @@
 ---
 title: Hybrid Agile often combines the worst of both traditional and Agile methods
+short_title: Does Hybrid Agile Hinder True Adaptability?
 description: Mixing Agile with traditional methods often leads to slow, inefficient processes that lack true adaptability, making it harder for organisations to respond to change effectively.
 date: 2025-04-09T15:30:02+01:00
 weight: 540
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:36Z
+  short_title: 2025-06-23T12:14:15Z
 concepts: []
 categories:
 - Uncategorized

@@ -1,5 +1,6 @@
 ---
 title: Microsoft shift from 2-year cycles to 3-week Sprints caused team anxiety
+short_title: How Does Sprint Transparency Affect Team Anxiety?
 description: Microsoft’s switch to 3-week Sprints increased team anxiety due to greater transparency, exposing inefficiencies but enabling faster, more frequent software delivery.
 date: 2025-04-23T15:30:47+01:00
 weight: 255
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:16Z
+  short_title: 2025-06-23T12:13:56Z
 concepts:
 - Practice
 categories:

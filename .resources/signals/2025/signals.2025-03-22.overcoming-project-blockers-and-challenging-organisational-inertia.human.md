@@ -1,5 +1,6 @@
 ---
 title: Overcoming Project Blockers and Challenging Organisational Inertia
+short_title: How Can Teams Overcome Blockers Without Authority?
 description: Explores how lack of authority hinders teams from removing project blockers and overcoming organisational inertia, stressing the need for real autonomy to achieve results.
 date: 2025-03-22T16:30:03+00:00
 weight: 420
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:57Z
+  short_title: 2025-06-23T12:14:36Z
 concepts: []
 categories:
 - Scrum

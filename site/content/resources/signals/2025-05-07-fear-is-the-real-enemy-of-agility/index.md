@@ -1,5 +1,6 @@
 ---
 title: Fear is the real enemy of agility
+short_title: How Does Fear Block True Agility in Teams?
 description: Explores how fear hinders true agility in teams, emphasising the need to foster courage and trust for effective Agile, Scrum, and DevOps practices and continuous improvement.
 date: 2025-05-07T15:30:42+01:00
 weight: 325
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:57Z
+  short_title: 2025-06-23T12:13:39Z
 concepts:
 - Principle
 categories:

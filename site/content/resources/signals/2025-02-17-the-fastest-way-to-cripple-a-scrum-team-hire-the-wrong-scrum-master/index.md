@@ -1,5 +1,6 @@
 ---
 title: The fastest way to cripple a Scrum Team? Hire the wrong Scrum Master
+short_title: What Happens If You Hire the Wrong Scrum Master?
 description: Hiring an unqualified Scrum Master limits team growth, reduces agility, and hinders value delivery. Effective Scrum Masters drive change, coaching, and business alignment.
 date: 2025-02-17T16:30:17+00:00
 weight: 280
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:53Z
+  short_title: 2025-06-23T12:15:24Z
 concepts:
 - Principle
 categories:

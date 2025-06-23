@@ -1,5 +1,6 @@
 ---
 title: Toyota "andon" cord lets any worker stop production to fix defects
+short_title: How Does Psychological Safety Enable True Quality Improvement?
 description: Explains how true quality improvement needs both tools and a culture of safety, using Toyota’s andon cord as a lesson for Agile and Scrum adoption in organisations.
 date: 2025-05-12T15:30:50+01:00
 weight: 225
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:49Z
+  short_title: 2025-06-23T12:13:34Z
 concepts:
 - Ethos
 categories:

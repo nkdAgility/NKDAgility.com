@@ -1,5 +1,6 @@
 ---
 title: Building the wrong thing is worse than fixing a bug
+short_title: Are you building what users actually need?
 description: Most features don’t deliver value. Short feedback loops and real user input help teams avoid wasted effort by ensuring they build what users actually need.
 date: 2025-04-14T15:30:31+01:00
 weight: 310
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:30Z
+  short_title: 2025-06-23T12:14:08Z
 concepts:
 - Practice
 categories:

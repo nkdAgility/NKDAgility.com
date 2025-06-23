@@ -1,5 +1,6 @@
 ---
 title: Realistic Expectations When Hiring Junior Scrum Masters
+short_title: Should You Hire a Junior Scrum Master?
 description: Understand the risks of hiring inexperienced junior Scrum Masters, including higher costs, team issues, and project delays, versus investing in experienced agile leadership.
 date: 2025-03-02T16:30:02+00:00
 weight: 470
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:37Z
+  short_title: 2025-06-23T12:15:05Z
 concepts: []
 categories:
 - Scrum

@@ -1,5 +1,6 @@
 ---
 title: Velocity isn’t how many story points a team burns down
+short_title: What Does Velocity Really Measure in Agile Teams?
 description: Velocity measures how quickly teams turn ideas into value, using build, test, deploy, and feedback times—not just story points—to track real delivery speed.
 date: 2025-03-10T16:30:02+00:00
 weight: 105
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:18Z
+  short_title: 2025-06-23T12:14:53Z
 concepts:
 - Practice
 categories:

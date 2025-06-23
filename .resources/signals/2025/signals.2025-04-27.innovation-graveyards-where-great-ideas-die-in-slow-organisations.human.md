@@ -1,5 +1,6 @@
 ---
 title: 'Innovation graveyards: Where great ideas die in slow organisations'
+short_title: Why Do Great Ideas Die in Slow Organisations?
 description: Explores how slow organisational processes, risk aversion, and excessive alignment cause promising ideas to stall, leading to lost innovation and unrealised potential.
 date: 2025-04-27T15:30:30+01:00
 weight: 750
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:11Z
+  short_title: 2025-06-23T12:13:51Z
 concepts: []
 categories:
 - Uncategorized

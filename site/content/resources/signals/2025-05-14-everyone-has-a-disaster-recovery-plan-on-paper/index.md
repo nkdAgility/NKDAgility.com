@@ -1,5 +1,6 @@
 ---
 title: Everyone has a disaster recovery plan—on paper
+short_title: Do Your Disaster Recovery Plans Work in Real Outages?
 description: Most disaster recovery plans fail in practice due to overlooked dependencies and lack of real-world testing, leaving organisations vulnerable when outages occur.
 date: 2025-05-14T15:30:37+01:00
 weight: 390
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:46Z
+  short_title: 2025-06-23T12:13:32Z
 concepts:
 - Ethos
 categories:

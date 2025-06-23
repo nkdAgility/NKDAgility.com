@@ -1,8 +1,9 @@
 ---
 title: Scrum doesn’t stop you from optimising flow
+short_title: Does Scrum Allow Continuous Flow Optimisation?
 description: Explains how Scrum supports continuous flow and agility by prioritising Sprint Goals, Done increments, CI/CD practices, and outcomes over rigid sprint boundaries.
 date: 2025-05-25T15:30:23+01:00
-weight: 1000
+weight: 175
 ResourceId: BD9f00po0V6
 ResourceImport: false
 ResourceType: signals
@@ -11,7 +12,6 @@ aliases:
 - /resources/BD9f00po0V6
 layout: signal
 ResourceContentOrigin: human
-draft: true
 source: LinkedIn
 platform_signals:
 - platform: LinkedIn
@@ -26,10 +26,29 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:50Z
-concepts: []
+  short_title: 2025-06-23T12:13:24Z
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Engineering Excellence
+- Product Development
+tags:
+- Software Development
+- Professional Scrum
+- Empirical Process Control
+- Product Delivery
+- Agile Planning
+- Organisational Agility
+- Engineering Practices
+- Agile Frameworks
+- Value Delivery
+- Operational Practices
+- Frequent Releases
+- Pragmatic Thinking
+- Technical Excellence
+- Team Performance
+- Continuous Delivery
 
 ---
 Scrum doesn’t stop you from optimising flow. It just demands accountability: a Sprint Goal and a Done Increment.

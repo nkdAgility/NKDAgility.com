@@ -1,8 +1,9 @@
 ---
 title: 'Design Sprints in Scrum: Common Questions and Practical Insights'
+short_title: How to Integrate Design Sprints into Scrum?
 description: Answers common questions about integrating design and UX work into Scrum Sprints, clarifying why dedicated Design Sprints aren’t needed and how to align with Scrum principles.
 date: 2025-06-04T15:31:05+01:00
-weight: 1000
+weight: 445
 ResourceId: 8mcd8y-jiFX
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,19 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:44Z
-concepts: []
+  short_title: 2025-06-23T12:13:18Z
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Pragmatic Thinking
+- Professional Scrum
+- Agile Frameworks
+- Operational Practices
+- Agile Planning
 
 ---
 I’m still surprised how often I get asked about “Design Sprints” in Scrum. Let’s be clear—there are no special Sprints. No Sprint 0. No release Sprint. No hardening Sprint. And definitely no Design Sprint.

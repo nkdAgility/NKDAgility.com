@@ -1,5 +1,6 @@
 ---
 title: Hiring a Product Owner? Avoid copying job specs from the internet
+short_title: What Makes an Effective Product Owner?
 description: Learn what makes an effective Product Owner, why generic job specs fall short, and which key responsibilities and skills are essential for true product leadership and success.
 date: 2025-04-15T15:30:50+01:00
 weight: 725
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:26Z
+  short_title: 2025-06-23T12:14:07Z
 concepts:
 - Accountability
 categories:

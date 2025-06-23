@@ -1,5 +1,6 @@
 ---
 title: No successful company thrives by copying others’ ways of working
+short_title: Should You Copy or Create Your Own Ways of Working?
 description: Successful companies thrive by creating unique ways of working, not by copying frameworks. Tailor your approach to fit your organisation’s culture, needs, and goals.
 date: 2025-04-26T15:30:29+01:00
 weight: 540
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:13Z
+  short_title: 2025-06-23T12:13:52Z
 concepts: []
 categories:
 - Leadership

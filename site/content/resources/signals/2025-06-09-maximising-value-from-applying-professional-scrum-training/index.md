@@ -1,8 +1,9 @@
 ---
 title: Maximising Value from Applying Professional Scrum Training
+short_title: How Does Professional Scrum Training Drive Real Change?
 description: Learn how Professional Scrum training empowers teams to identify organisational blockers, create actionable change backlogs, and drive real transformation in delivery.
 date: 2025-06-09T15:30:34+01:00
-weight: 1000
+weight: 470
 ResourceId: Db-LocFYG0R
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,28 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:39Z
-concepts: []
+  short_title: 2025-06-23T12:13:12Z
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Leadership
+tags:
+- Organisational Agility
+- Social Technologies
+- Professional Scrum
+- Agile Leadership
+- Organisational Culture
+- Change Management
+- Agile Transformation
+- Continuous Improvement
+- Team Performance
+- Organisational Change
+- Team Motivation
+- Software Development
+- Personal
+- Pragmatic Thinking
+- Self Organisation
 
 ---
 The best outcome of a Applying Professional Scrum class isn’t just better understanding of Scrum. It’s a backlog of change.

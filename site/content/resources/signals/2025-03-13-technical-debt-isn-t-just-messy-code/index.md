@@ -1,5 +1,6 @@
 ---
 title: Technical debt isn’t just messy code
+short_title: What Is Technical Debt Beyond Messy Code?
 description: Technical debt includes slow feedback, fragile systems, and manual processes that hinder progress. Addressing it early with automation and testing reduces long-term costs.
 date: 2025-03-13T16:30:02+00:00
 weight: 175
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:12Z
+  short_title: 2025-06-23T12:14:49Z
 concepts:
 - Practice
 categories:

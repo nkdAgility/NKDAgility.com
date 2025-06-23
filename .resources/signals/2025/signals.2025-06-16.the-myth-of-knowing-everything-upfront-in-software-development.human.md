@@ -1,8 +1,9 @@
 ---
 title: The Myth of Knowing Everything Upfront in Software Development
+short_title: Can You Know Everything Upfront in Software Development?
 description: Software development thrives on continuous discovery and adaptation; upfront planning can’t predict everything. Embrace uncertainty, deliver iteratively, and learn as you go.
 date: 2025-06-16T15:30:47+01:00
-weight: 1000
+weight: 510
 ResourceId: Zd6dcWwXJc7
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,24 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:49:59Z
-concepts: []
+  short_title: 2025-06-23T12:13:05Z
+concepts:
+- Tenet
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Pragmatic Thinking
+- Professional Scrum
+- Agile Product Management
+- Value Delivery
+- Continuous Learning
+- Empirical Process Control
+- Agile Values and Principles
+- Social Technologies
+- Product Delivery
+- Continuous Improvement
 
 ---
 One of the biggest fallacies in software is the belief that you can know everything upfront. That’s why some teams try to carve out “Design Sprints” to feel more in control.

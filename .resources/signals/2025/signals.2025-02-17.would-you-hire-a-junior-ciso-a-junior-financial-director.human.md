@@ -1,5 +1,6 @@
 ---
 title: Would you hire a Junior CISO? A Junior Financial Director
+short_title: Should You Hire a Junior Scrum Master?
 description: Scrum Masters require proven expertise, not entry-level skills. Hiring juniors in this role risks team performance and agile success; experience is essential for effective leadership.
 date: 2025-02-17T10:06:07+00:00
 weight: 430
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:54Z
+  short_title: 2025-06-23T12:15:25Z
 concepts: []
 categories:
 - Scrum

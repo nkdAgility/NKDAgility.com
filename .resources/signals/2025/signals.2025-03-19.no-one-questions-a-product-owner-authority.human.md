@@ -1,5 +1,6 @@
 ---
 title: No one questions a Product Owner authority
+short_title: Why Is Product Owner Authority Accepted but Not Scrum Master’s?
 description: Explores why Product Owners’ authority is accepted while Scrum Masters’ is questioned, highlighting the need for clear authority to ensure team effectiveness and agile success.
 date: 2025-03-19T16:30:30+00:00
 weight: 420
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:02Z
+  short_title: 2025-06-23T12:14:41Z
 concepts:
 - Accountability
 categories:

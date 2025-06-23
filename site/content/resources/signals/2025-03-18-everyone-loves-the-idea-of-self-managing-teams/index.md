@@ -1,5 +1,6 @@
 ---
 title: Everyone loves the idea of self-managing teams
+short_title: How Do Self-Managing Teams Balance Autonomy and Structure?
 description: Explains how self-managing teams thrive with autonomy balanced by structure, highlighting the need for clear goals, accountability, and alignment within frameworks like Scrum.
 date: 2025-03-18T09:51:08+00:00
 weight: 415
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:05Z
+  short_title: 2025-06-23T12:14:43Z
 concepts:
 - Principle
 categories:

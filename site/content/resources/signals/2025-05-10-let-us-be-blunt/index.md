@@ -1,5 +1,6 @@
 ---
 title: let-us be blunt
+short_title: Does Accountability in Scrum Require Real Agency?
 description: Accountability in Scrum requires real agency; without the power to act, roles like Product Owner and Scrum Master become ineffective and accountability is undermined.
 date: 2025-05-10T15:30:22+01:00
 weight: 340
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:52Z
+  short_title: 2025-06-23T12:13:36Z
 concepts:
 - Accountability
 categories:

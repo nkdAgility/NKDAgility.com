@@ -1,5 +1,6 @@
 ---
 title: How Top Scrum Masters Are Selected by Their Teams
+short_title: How Do Teams Choose Their Scrum Masters?
 description: Explains how Scrum Masters are naturally chosen by teams based on trust, experience, and leadership, highlighting the importance of peer selection over external assignment.
 date: 2025-02-19T16:30:01+00:00
 weight: 385
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:51Z
+  short_title: 2025-06-23T12:15:21Z
 concepts: []
 categories:
 - Scrum

@@ -1,5 +1,6 @@
 ---
 title: Resilience is not a department
+short_title: How Can You Build Resilience Into Your Products?
 description: Resilience must be built into products from the start, ensuring they withstand failures like outages or network loss, rather than being treated as an afterthought.
 date: 2025-05-17T15:30:21+01:00
 weight: 375
@@ -8,32 +9,33 @@ ResourceImport: false
 ResourceType: signals
 slug: resilience-is-not-a-department
 aliases:
-  - /resources/PWgzGL20QAo
+- /resources/PWgzGL20QAo
 layout: signal
 ResourceContentOrigin: human
 source: LinkedIn
 platform_signals:
-  - platform: LinkedIn
-    post_url: https://www.linkedin.com/feed/update/urn:li:share:7329528712498999296
-    post_id: "7329528712498999296"
-    post_date: 2025-05-17T14:30:21Z
-    performance:
-      impressions: 0
-      members_reached: 0
-      reactions: 0
-      comments: 0
-      reposts: 0
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7329528712498999296
+  post_id: "7329528712498999296"
+  post_date: 2025-05-17T14:30:21Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
 Watermarks:
   description: 2025-05-23T23:53:47Z
+  short_title: 2025-06-23T12:13:30Z
 concepts:
-  - Capability
+- Capability
 categories:
-  - Product Development
+- Product Development
 tags:
-  - Software Development
-  - Miscellaneous
----
+- Software Development
+- Miscellaneous
 
+---
 Resilience is not a department. It's not a project. It's not an afterthought.
 
 It is a product capability.

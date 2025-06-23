@@ -1,5 +1,6 @@
 ---
 title: Resilience is not a department
+short_title: How Can You Build Resilience Into Your Products?
 description: Resilience must be built into products from the start, ensuring they withstand failures like outages or network loss, rather than being treated as an afterthought.
 date: 2025-05-17T15:30:21+01:00
 weight: 375
@@ -11,7 +12,6 @@ aliases:
 - /resources/PWgzGL20QAo
 layout: signal
 ResourceContentOrigin: human
-draft: true
 source: LinkedIn
 platform_signals:
 - platform: LinkedIn
@@ -26,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-23T23:53:47Z
+  short_title: 2025-06-23T12:13:30Z
 concepts:
 - Capability
 categories:

@@ -1,5 +1,6 @@
 ---
 title: You can not implement Agile or Scrum successfully by decree
+short_title: Can Agile or Scrum Succeed Without Cultural Change?
 description: Mandating Agile or Scrum fails without cultural change; true agility requires trust, transparency, and a supportive environment, not just tools or processes.
 date: 2025-05-13T15:30:47+01:00
 weight: 345
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:47Z
+  short_title: 2025-06-23T12:13:33Z
 concepts:
 - Ethos
 categories:

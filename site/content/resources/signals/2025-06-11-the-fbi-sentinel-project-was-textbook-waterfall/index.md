@@ -1,8 +1,9 @@
 ---
 title: The FBI Sentinel project was textbook waterfall
+short_title: Why Did the FBI Sentinel Project Fail with Waterfall?
 description: The FBI Sentinel project failed with a waterfall approach, wasting years and budget, but succeeded rapidly after switching to Agile and iterative Scrum methods.
 date: 2025-06-11T15:30:44+01:00
-weight: 1000
+weight: 530
 ResourceId: iXdW5l5qVvR
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,20 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:37Z
+  short_title: 2025-06-23T12:13:10Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Product Development
+- Scrum
+tags:
+- Software Development
+- Pragmatic Thinking
+- Agile Frameworks
+- Organisational Agility
+- Working Software
+- Organisational Change
+- Product Delivery
+- Social Technologies
 
 ---
 The FBI's Sentinel project was textbook waterfall. Big budget. Big bang. Zero value delivered after four years and hundreds of millions spent.

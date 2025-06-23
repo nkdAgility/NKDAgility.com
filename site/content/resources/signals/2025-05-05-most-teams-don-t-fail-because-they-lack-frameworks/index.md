@@ -1,5 +1,6 @@
 ---
 title: Most teams don’t fail because they lack frameworks
+short_title: Why Do Teams Ignore Feedback From Agile Frameworks?
 description: Teams struggle not from lacking frameworks, but from ignoring feedback. Success depends on acting on signals, fostering safety, and empowering real change.
 date: 2025-05-05T15:30:43+01:00
 weight: 340
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:00Z
+  short_title: 2025-06-23T12:13:41Z
 concepts:
 - Principle
 categories:

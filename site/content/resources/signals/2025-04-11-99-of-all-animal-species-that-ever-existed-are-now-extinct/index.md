@@ -1,5 +1,6 @@
 ---
 title: 99% of all animal species that ever existed are now extinct
+short_title: Why Do Most Species—and Businesses—Fail to Survive?
 description: Most animal species have gone extinct due to failure to adapt; similarly, businesses must evolve processes and mindsets to survive in changing markets.
 date: 2025-04-11T15:30:00+01:00
 weight: 730
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:34Z
+  short_title: 2025-06-23T12:14:13Z
 concepts: []
 categories:
 - Uncategorized

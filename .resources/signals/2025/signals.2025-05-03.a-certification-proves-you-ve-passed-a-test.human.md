@@ -1,5 +1,6 @@
 ---
 title: A certification proves you’ve passed a test
+short_title: Do Certifications Prove Real-World Product Skills?
 description: Certifications show test-passing ability but don’t prove real-world product skills. Experience, judgement, and stakeholder influence matter more for true competence.
 date: 2025-05-03T15:30:21+01:00
 weight: 765
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:03Z
+  short_title: 2025-06-23T12:13:44Z
 concepts: []
 categories:
 - Product Management

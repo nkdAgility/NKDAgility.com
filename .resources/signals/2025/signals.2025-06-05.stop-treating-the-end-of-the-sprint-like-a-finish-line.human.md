@@ -1,8 +1,9 @@
 ---
 title: Stop treating the end of the Sprint like a finish line
+short_title: Is the Sprint End a Deadline or a Checkpoint?
 description: The end of a Sprint is a checkpoint for review and adaptation, not a deadline. Focus on flow, learning, and continuous improvement over strict task completion.
 date: 2025-06-05T15:30:54+01:00
-weight: 1000
+weight: 360
 ResourceId: 3N_y67L5LD9
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,23 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:43Z
-concepts: []
+  short_title: 2025-06-23T12:13:17Z
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+tags:
+- Social Technologies
+- Empirical Process Control
+- Agile Frameworks
+- Professional Scrum
+- Software Development
+- Agile Philosophy
+- Pragmatic Thinking
+- Agile Planning
+- Continuous Learning
+- Organisational Agility
 
 ---
 Stop treating the end of the Sprint like a finish line. It’s not. It’s a checkpoint for planning, inspection, and adaptation. The Increment gives us a view of what’s Done. The Sprint Goal gives us focus. That’s it.
