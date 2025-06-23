@@ -3285,5 +3285,43 @@
     "reasoning": "The content focuses on the importance of the Definition of Done (DoD) in Scrum teams for maintaining quality and managing risk. While it touches on governance and organisational control regarding quality standards, its primary focus is on team-level practices, not broader organisational transformation. Explicit mentions of 'organisational change,' frameworks, or leadership in change are absent. The audience may include managers but is primarily technical. The connection to organisational change is indirect and limited.",
     "reasoning_summary": "The content centers on Scrum team practices for quality through DoD, referencing governance but not broader organisational change frameworks, leadership, or transformation. Its relevance to 'Organisational Change' is tangential and limited.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "ZMOQD_EBE6A",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:02:44",
+    "ai_confidence": 64.9,
+    "ai_mentions": 2.7,
+    "ai_alignment": 7.3,
+    "ai_depth": 7.1,
+    "ai_intent": 5.7,
+    "ai_audience": 8.4,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 65.0,
+    "reasoning": "The content emphasizes the importance of the Definition of Done (DoD) as a non-negotiable standard, which aligns strongly with Product Developer accountability—ensuring increment quality through adherence to DoD. While 'Product Developer' as a term is not directly mentioned, the focus is on collective Scrum Team responsibility for quality, risk, and technical debt, which are core topics for Product Developers. The main audience appears to be practitioners responsible for increment creation and team quality standards (i.e., Product Developers), though the argument is somewhat general to Scrum Teams. Discussion of team behaviors around DoD deepens the alignment, but there is little explicit focus on the purpose, structure, or nuanced accountability of Product Developers beyond quality governance. The bulk of the content is relevant, but it does not directly explore the full spectrum of Product Developer role and responsibility.",
+    "reasoning_summary": "The content closely aligns with Product Developer accountability around quality via the Definition of Done, focusing on team responsibility in Scrum. However, it stops short of explicitly discussing the unique role, structure, or wider responsibilities of Product Developers, centering instead on quality and governance.",
+    "level": "Secondary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "ZMOQD_EBE6A",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:02:48",
+    "ai_confidence": 7.7,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.6,
+    "ai_depth": 2.1,
+    "ai_intent": 1.2,
+    "ai_audience": 1.7,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) in Scrum teams, focusing exclusively on human collaboration, quality, and risk management. Nowhere does it mention AI, human-AI collaboration, or any elements central to the definition of Collective Intelligence. No direct or implied references appear to human-AI partnership, shared cognition with AI, or distributed problem-solving with AI agents. All descriptions pertain strictly to human Scrum practices; thus, the content is almost entirely out of scope for Collective Intelligence.",
+    "reasoning_summary": "This content is about human-based Scrum team practices and quality standards, with no references to human-AI collaboration or the themes necessary for Collective Intelligence. Its relevance to the category is extremely low.",
+    "level": "Ignored"
   }
 }

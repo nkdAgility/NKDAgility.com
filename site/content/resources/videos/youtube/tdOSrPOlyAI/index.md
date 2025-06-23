@@ -1,8 +1,12 @@
 ---
 title: 'Transforming Engineering Excellence: The Power of Naked Agility in Quality and Leadership'
+short_title: How Does Naked Agility Improve Engineering Quality?
 description: Explores how adopting naked agility boosts engineering excellence, quality, and leadership by addressing technical debt, shifting left, and fostering a culture of improvement.
 date: 2024-11-30T06:00:00Z
 weight: 175
+ResourceId: tdOSrPOlyAI
+ResourceImport: true
+ResourceType: videos
 slug: transforming-engineering-excellence-the-power-of-naked-agility-in-quality-and-leadership
 aliases:
 - /resources/tdOSrPOlyAI
@@ -21,9 +25,6 @@ categories:
 tags:
 - Software Development
 - Technical Mastery
-ResourceId: tdOSrPOlyAI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: tdOSrPOlyAI
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:56:58Z
+  short_title: 2025-06-23T12:35:12Z
 
 ---
 Naked agility can be a transformative partner in fostering [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and cultivating [technical leadership]({{< ref "/categories/technical-leadership" >}}) within your organisation. Over the past few videos, I’ve delved into various aspects of this journey, and today, I want to share some insights that I believe are crucial for anyone looking to elevate their [engineering practices]({{< ref "/tags/engineering-practices" >}}).

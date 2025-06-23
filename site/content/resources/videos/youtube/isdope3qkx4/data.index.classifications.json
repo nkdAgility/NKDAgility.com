@@ -1870,5 +1870,43 @@
     "reasoning": "The provided content does not explicitly mention 'Objective & Key Results' (OKRs) or directly discuss their implementation, theory, or practices. The central themes focus on Agile practices for distributed team management, tool evaluations, recommendations for Agile adaptations, and principles of Agile (such as transparency, collaboration, feedback loops, and continuous improvement). While certain Agile principles such as transparency and continuous improvement are shared with OKRs, the specific OKR methodology, foundations laid by John Doerr, the use of measurable key results, strategic alignment, or outcome-based tracking are neither mentioned nor discussed explicitly. Thus, the mentions dimension scores low (0). Conceptual alignment scores low (3) because the content touches on feedback loops, continual learning, and transparency, each associated indirectly but not specifically tied to OKR principles. Depth receives a lower score (2) because even the indirectly aligned concepts are explored superficially without ties to OKR-specific methods or practices. Intent receives a somewhat low score (2.5), as the primary purpose appears to focus broadly on Agile tool selection and distributed team effectiveness, rather than explicitly exploring OKR. Audience alignment is quite strong (8.5)—the intended audience of agile and DevOps practitioners aligns well with typical audiences interested in OKRs. Finally, signal-to-noise ratio (8) reflects strong relevance to agile practices, yet remains focused mainly on scrum management techniques and related tools rather than specific OKR methods.",
     "reasoning_summary": "The content provides general insights into Agile distributed team management and tool recommendations without explicitly addressing OKRs or discussing their specific implementation or principles.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "isdope3qkx4",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:18",
+    "ai_confidence": 21.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.7,
+    "ai_intent": 2.1,
+    "ai_audience": 6.5,
+    "ai_signal": 4.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content does not mention Product Developers explicitly or discuss their specific accountabilities, behaviors, or collective responsibilities as defined in the formal sense. The focus is on distributed agility, team management, and tools, with only tangential relevance to cross-functional team concepts. There is no coverage of Product Developer structure, integration of human and automated skills, or formal accountabilities. The audience could incidentally include Product Developers, but the discussion is generic Agile/DevOps team practice, with only passing potential for overlap. Signal-to-noise is modest, as most content is about tooling and generic adaptation strategies.",
+    "reasoning_summary": "This content broadly covers Agile, distributed teamwork, and tooling, but it does not address Product Developer accountabilities, roles, or behaviors as defined in modern frameworks. Product Developer is neither directly nor conceptually central to the discussion.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "isdope3qkx4",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:21",
+    "ai_confidence": 17.809,
+    "ai_mentions": 0.9,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.1,
+    "ai_intent": 3.601,
+    "ai_audience": 4.0,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on Agile team management, tools, and strategies in distributed environments, emphasizing adaptation and collaboration but does not mention collective intelligence, human-AI partnerships, or related concepts. While collaboration is discussed, it's strictly among human team members; AI agents, human-AI collaboration, or emergent intelligence topics are absent. The main intent is to educate Agile practitioners about tools/processes—not about leveraging or fostering collective intelligence as defined. No penalty was applied, as it does not reference outdated concepts or undermine the category.",
+    "reasoning_summary": "This content centers on human collaboration and Agile tool usage in distributed teams, with no discussion of human-AI partnerships or emergent collective intelligence. It does not align with the defined category context.",
+    "level": "Ignored"
   }
 }

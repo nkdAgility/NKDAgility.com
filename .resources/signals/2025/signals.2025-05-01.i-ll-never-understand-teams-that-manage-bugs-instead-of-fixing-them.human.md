@@ -1,5 +1,6 @@
 ---
 title: I’ll never understand teams that manage bugs instead of fixing them
+short_title: Should Teams Fix Bugs Immediately or Manage Backlogs?
 description: Highlights the importance of promptly fixing software bugs instead of managing backlogs, arguing that unresolved defects harm product quality and team effectiveness.
 date: 2025-05-01T15:30:38+01:00
 weight: 255
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:06Z
+  short_title: 2025-06-23T12:13:46Z
 concepts: []
 categories:
 - Engineering Excellence

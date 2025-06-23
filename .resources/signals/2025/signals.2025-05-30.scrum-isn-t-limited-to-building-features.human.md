@@ -1,8 +1,9 @@
 ---
 title: Scrum isn’t limited to building features
+short_title: Can Scrum Drive Organisational Change Beyond Features?
 description: Scrum can drive organisational change, not just product features, by using backlogs, teams, and feedback to enable real, evidence-based agility across systems.
 date: 2025-05-30T15:30:41+01:00
-weight: 1000
+weight: 435
 ResourceId: -FDdQXKH7zt
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,27 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:47Z
-concepts: []
+  short_title: 2025-06-23T12:13:20Z
+concepts:
+- Principle
 categories:
-- Uncategorized
-tags: []
+- Scrum
+tags:
+- Social Technologies
+- Empirical Process Control
+- Continuous Improvement
+- Professional Scrum
+- Organisational Change
+- Organisational Agility
+- Pragmatic Thinking
+- Agile Planning
+- Agile Transformation
+- Change Management
+- Agile Strategy
+- Agile Frameworks
+- Decision Making
+- Business Agility
+- Metrics and Learning
 
 ---
 Scrum isn’t limited to building features. It’s a social technology for solving complex problems. That includes your internal systems of work.

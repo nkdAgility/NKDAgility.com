@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking the True Power of Agile: Embracing Change and Collaboration for Team Success'
+short_title: How Does Embracing Change Drive Agile Team Success?
 description: Explores how Agile success relies on team collaboration, embracing change, continuous improvement, and focusing on delivering real value to customers over rigid processes.
 date: 2023-07-13T07:38:00Z
 weight: 1000
+ResourceId: 3nSV-v2cK-w
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-the-true-power-of-agile-embracing-change-and-collaboration-for-team-success
 aliases:
 - /resources/3nSV-v2cK-w
@@ -28,9 +32,6 @@ tags:
 - Team Motivation
 - Agile Leadership
 - Pragmatic Thinking
-ResourceId: 3nSV-v2cK-w
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 3nSV-v2cK-w
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:50Z
+  short_title: 2025-06-23T12:42:11Z
 
 ---
 As I reflect on my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I often find myself revisiting the fundamental principles that underpin these methodologies. It’s easy to get lost in the jargon and the frameworks, but at the heart of it all lies a simple truth: Agile is about people. It’s about fostering an environment where teams can thrive, innovate, and deliver value consistently.

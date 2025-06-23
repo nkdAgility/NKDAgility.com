@@ -1,8 +1,12 @@
 ---
 title: 'The Competence Crisis in Scrum Master Roles: A Call for Excellence'
+short_title: Why Are So Many Scrum Masters Lacking True Competence?
 description: Many Scrum Masters lack essential skills and experience, leading to poor agile outcomes. True competence requires deep knowledge, practical experience, and ongoing learning.
 date: 2024-10-16T07:00:09Z
 weight: 280
+ResourceId: GJFklM1U5Pc
+ResourceImport: true
+ResourceType: videos
 slug: the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 aliases:
 - /resources/GJFklM1U5Pc
@@ -27,9 +31,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Agile Frameworks
-ResourceId: GJFklM1U5Pc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: GJFklM1U5Pc
@@ -46,6 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:29Z
+  short_title: 2025-06-23T12:35:38Z
 
 ---
 The current state of [Scrum]({{< ref "/categories/scrum" >}}) Master roles is, to put it mildly, troubling. Across organizations, there’s a significant, systemic lack of [competence]({{< ref "/tags/competence" >}}) in the [Scrum Master]({{< ref "/tags/scrum-master" >}}) accountability. This shortfall has grown from the agile boom of the past two decades, creating a demand for Scrum Masters that far outstrips the available supply. As a result, many individuals have transitioned into these roles without the necessary skills or experience to succeed.

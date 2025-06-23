@@ -1,8 +1,12 @@
 ---
 title: Addressing Systemic Issues in Agile Organizations
+short_title: Are Systemic Issues Blocking Agile Success?
 description: Explores why Agile fails without addressing systemic issues, highlighting the need for organisational change, meaningful metrics, and the courage to make bold improvements.
 date: 2024-01-24T07:00:16Z
 weight: 455
+ResourceId: QBX7dnUBzo8
+ResourceImport: true
+ResourceType: videos
 slug: addressing-systemic-issues-in-agile-organizations
 aliases:
 - /resources/QBX7dnUBzo8
@@ -34,9 +38,6 @@ tags:
 - Systems Thinking
 - Agile Strategy
 - Operational Practices
-ResourceId: QBX7dnUBzo8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: QBX7dnUBzo8
@@ -53,6 +54,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:18Z
+  short_title: 2025-06-23T12:38:20Z
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.

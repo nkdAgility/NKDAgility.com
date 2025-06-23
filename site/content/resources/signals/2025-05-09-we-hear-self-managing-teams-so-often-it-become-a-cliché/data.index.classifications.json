@@ -3285,5 +3285,43 @@
     "reasoning": "The content does not reference OKRs directly or conceptually. It exclusively discusses self-management across Scrum roles, focusing on disciplined application of Scrum rather than goal-setting, outcome measurement, or John Doerr's OKR framework. No language or themes map to OKRs’ strategic alignment, measurable outcomes, or continuous improvement cycles. While the audience (Scrum practitioners) could potentially care about OKRs, the content in this case makes no explicit or meaningful connection, thus scoring close to minimum across all dimensions.",
     "reasoning_summary": "This content strictly explores self-management in Scrum teams, with no reference or conceptual alignment to Objective Key Results or their frameworks. It does not fit the OKR category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "FqiyqqNxjFS",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:02:07",
+    "ai_confidence": 67.5,
+    "ai_mentions": 2.4,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.6,
+    "ai_intent": 7.9,
+    "ai_audience": 8.2,
+    "ai_signal": 8.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content discusses self-management as a disciplined effort of all Scrum roles, including Developers. It explicitly states that Developers must self-manage planning, execution, and delivery of the Increment, which maps strongly to Product Developer accountability. However, it doesn't refer directly to 'Product Developer' as a term, nor does it delve deeply into collective or cross-functional aspects, focusing more on the concept of self-management in general. The depth and alignment are good, with clear audience targeting, but the lack of explicit Product Developer terminology and slight generalization across roles keeps confidence moderate.",
+    "reasoning_summary": "The content is relevant as it links Developers' self-management to Scrum accountabilities, addressing behaviors expected of Product Developers. While it doesn't explicitly use the 'Product Developer' term, it aligns well with the category’s themes and intended audience, warranting a moderately strong confidence rating.",
+    "level": "Secondary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "FqiyqqNxjFS",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:02:12",
+    "ai_confidence": 12.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.1,
+    "ai_intent": 2.2,
+    "ai_audience": 3.1,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content focuses entirely on human self-management within Scrum roles, stressing discipline and structure among Product Owners, Scrum Masters, and Developers. There are no mentions of AI, human-AI collaboration, or collective intelligence as defined (i.e., no discussion of humans partnering with AI agents or sociotechnical systems). While the target audience (Agile/Scrum practitioners) overlaps with typical collective intelligence contexts, the content never addresses any form of human-AI partnership, distributed cognition with AI, or emergent collaborative outcomes involving AI. The signal-to-noise ratio is decent for human self-management in teams, but wholly unrelated to collective intelligence as specified.",
+    "reasoning_summary": "This content solely explores human self-management in Scrum teams and does not discuss human-AI collaboration or collective intelligence. Its relevance to the 'Collective Intelligence' category is minimal.",
+    "level": "Ignored"
   }
 }

@@ -1,20 +1,22 @@
 ---
 title: Ethics in Agile
+short_title: Why Does Precise Language Matter in Agile Ethics?
 description: Explores the role of precise language and transparency in Agile, highlighting why word choice and context are crucial for ethical communication in Agile teams.
 date: 2023-10-26
 weight: 1000
-slug: ethics-in-agile
-aliases:
-- /resources/hWrztsvRPAi
 ResourceId: hWrztsvRPAi
 ResourceImport: false
 ResourceType: podcast
+slug: ethics-in-agile
+aliases:
+- /resources/hWrztsvRPAi
 ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:08:21Z
+  short_title: 2025-06-23T12:40:08Z
 concepts: []
 categories:
 - Uncategorized

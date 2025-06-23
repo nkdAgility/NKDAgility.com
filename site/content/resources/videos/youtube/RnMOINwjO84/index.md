@@ -1,8 +1,12 @@
 ---
 title: 'Navigating Complexity: How to Foster Agility and Innovation in Business Decision-Making'
+short_title: How Can Businesses Foster Agility in Complex Decisions?
 description: Explores how businesses can boost agility and innovation by adapting decision-making, avoiding bureaucracy, and fostering continuous learning in complex environments.
 date: 2024-10-03T07:00:16Z
 weight: 1000
+ResourceId: RnMOINwjO84
+ResourceImport: true
+ResourceType: videos
 slug: navigating-complexity-how-to-foster-agility-and-innovation-in-business-decision-making
 aliases:
 - /resources/RnMOINwjO84
@@ -25,9 +29,6 @@ tags:
 - Organisational Agility
 - Organisational Physics
 - Decision Theory
-ResourceId: RnMOINwjO84
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: RnMOINwjO84
@@ -44,6 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:38Z
+  short_title: 2025-06-23T12:35:44Z
 
 ---
 In the ever-evolving landscape of business, one thing has become abundantly clear: there are no universal rules for making informed decisions based on the data we collect. Whether it’s evidence-based management, telemetry data, or any other form of data, the reality is that what works in one context may not work in another. This is particularly true as we navigate a world that is increasingly complex rather than merely complicated.

@@ -1,8 +1,12 @@
 ---
 title: 'Combatting Famine in Agile: How to Foster Stakeholder Engagement and Boost Team Morale'
+short_title: How Can Agile Teams Boost Stakeholder Engagement?
 description: Explores how lack of stakeholder feedback in Agile harms team morale and alignment, and offers practical ways to boost engagement and maintain effective collaboration.
 date: 2023-10-31T07:00:18Z
 weight: 665
+ResourceId: k4F9DSE99Ok
+ResourceImport: true
+ResourceType: videos
 slug: combatting-famine-in-agile-how-to-foster-stakeholder-engagement-and-boost-team-morale
 aliases:
 - /resources/k4F9DSE99Ok
@@ -22,9 +26,6 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Frameworks
-ResourceId: k4F9DSE99Ok
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: k4F9DSE99Ok
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:12Z
+  short_title: 2025-06-23T12:39:59Z
 
 ---
 In the world of Agile, we often talk about the signs of an impending apocalypse, and one of the most critical indicators is famine. Now, before you picture a dystopian future, let’s unpack what this means in the context of [Scrum]({{< ref "/categories/scrum" >}}) and Agile practices.

@@ -3285,5 +3285,43 @@
     "reasoning": "The content discusses continuous delivery (CD) and organizational blockers such as technical debt, complexity, and investments in automation. There are no explicit mentions or even indirect references to OKRs, their foundational principles, theory, or practical frameworks. The discussion is focused purely on delivery enablement, using the Azure DevOps team as an example to illustrate investments required for CD. It does not address any of the core topics outlined for the Objective Key Results category (such as outcome-based measurement, alignment with 'Measure What Matters,' or integration into Agile/DevOps via OKRs), nor does it mention strategic intent, measurable results, or transparency/accountability through the OKR framework.",
     "reasoning_summary": "This content focuses entirely on organizational challenges related to continuous delivery and technical debt, with no mentions or conceptual connection to Objective Key Results or the OKR framework.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "T-sHn-OUIvR",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:19",
+    "ai_confidence": 21.25,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.1,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 6.3,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content does not directly mention Product Developers or describe their role, accountability, or behaviors. Instead, it focuses on organizational barriers to continuous delivery, using an example about Microsoft's DevOps practices. While some concepts like quality and automation overlap with Product Developer responsibilities, the discussion is generic and does not address the Product Developer role or collective accountability. Thus, confidence is low for classification under this category.",
+    "reasoning_summary": "The content addresses software delivery barriers and organizational behavior, but does not reference Product Developer roles, accountability, or related frameworks. Its primary focus is on DevOps culture change, not Product Developers.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "T-sHn-OUIvR",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:16",
+    "ai_confidence": 7.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 2.1,
+    "ai_intent": 1.7,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses overcoming barriers to continuous delivery, emphasizing investment in technical debt reduction and quality practices using Microsoft Azure DevOps as an example. There is no mention of human-AI collaboration, complementary strengths of humans and AI, or principles of collective intelligence. The focus is exclusively on human practices, process improvement, and team willingness to invest in quality—not on emergent cognitive capabilities from human-AI partnerships or distributed cognition. The audience (likely practitioners in DevOps/Agile) overlaps with the category’s, but the content is off-purpose for Collective Intelligence.",
+    "reasoning_summary": "The content addresses organizational and technical factors enabling continuous delivery, focusing on human process improvement with no references to human-AI collaboration or collective intelligence. It does not align with the intended category.",
+    "level": "Ignored"
   }
 }

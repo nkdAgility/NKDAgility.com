@@ -1,5 +1,6 @@
 ---
-title: "From Fragmentation to Flow: How NKD Agility Helped SLB Consolidate Systems and Standardize Engineering Practice Across 800+ Teams"
+title: 'From Fragmentation to Flow: How NKD Agility Helped SLB Consolidate Systems and Standardize Engineering Practice Across 800+ Teams'
+short_title: Standardize Engineering Practice Across 800+ Teams
 description: NKD Agility helped SLB unify 800+ engineering teams by consolidating DevOps systems, standardizing processes, and improving visibility, collaboration, and delivery.
 date: 2025-06-02
 weight: 70
@@ -8,36 +9,36 @@ ResourceImport: false
 ResourceType: case-studies
 slug: standardize-engineering-practice-across-800-teams
 aliases:
-  - /resources/r77XLSf0xcr
-short_title: Standardize Engineering Practice Across 800+ Teams
+- /resources/r77XLSf0xcr
 draft: false
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-16T11:50:55Z
+  short_title: 2025-06-23T12:33:16Z
 concepts:
-  - Capability
+- Capability
 categories:
-  - Engineering Excellence
-  - Technical Leadership
-  - Leadership
+- Engineering Excellence
+- Technical Leadership
+- Leadership
 tags:
-  - Azure DevOps
-  - One Engineering System
-  - Software Development
-  - System Configuration
-  - Operational Practices
-  - Pragmatic Thinking
-  - Digital Transformation
-  - Agile Transformation
-  - Agile Strategy
-  - Product Delivery
-  - Large Scale Agility
-  - Enterprise Agility
-  - Scaling
-  - Project Management
-  - Business Agility
----
+- Azure DevOps
+- One Engineering System
+- Software Development
+- System Configuration
+- Operational Practices
+- Pragmatic Thinking
+- Digital Transformation
+- Agile Transformation
+- Agile Strategy
+- Product Delivery
+- Large Scale Agility
+- Enterprise Agility
+- Scaling
+- Project Management
+- Business Agility
 
+---
 ## Client Context
 
 [SLB](https://www.slb.com/), a global energy technology company with thousands of engineers and product teams worldwide, had grown through decades of decentralized decision-making. The result? Chaos.

@@ -1,8 +1,12 @@
 ---
 title: What is empiricism and why is it so critical to great Agile?
+short_title: Why Is Empiricism Essential for Agile Success?
 description: Explains how empiricism—continuous observation, inspection, and adaptation—drives Agile success by enabling teams to respond effectively to real project data and feedback.
 date: 2023-08-30T07:00:05Z
 weight: 590
+ResourceId: 7UZsdsD23rs
+ResourceImport: true
+ResourceType: videos
 slug: what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 aliases:
 - /resources/7UZsdsD23rs
@@ -30,9 +34,6 @@ tags:
 - Agile Planning
 - Team Performance
 - Customer Focus
-ResourceId: 7UZsdsD23rs
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 7UZsdsD23rs
@@ -49,6 +50,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:09:47Z
+  short_title: 2025-06-23T12:41:26Z
 
 ---
 ## The Keystone of [Lean]({{< ref "/categories/lean" >}})-Agile: Empiricism Unravelled 🧬 

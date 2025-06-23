@@ -1,8 +1,12 @@
 ---
 title: 'Cultivating Patience: The Secret Ingredient for Thriving Agile Teams'
+short_title: How Does Patience Improve Agile Team Success?
 description: Explores how patience fosters trust, growth, and collaboration in agile teams, offering practical steps to build a supportive, blame-free, and productive team culture.
 date: 2023-12-08T11:00:09Z
 weight: 1000
+ResourceId: 4p5xeJZXvcE
+ResourceImport: true
+ResourceType: videos
 slug: cultivating-patience-the-secret-ingredient-for-thriving-agile-teams
 aliases:
 - /resources/4p5xeJZXvcE
@@ -22,9 +26,6 @@ tags:
 - Organisational Culture
 - Team Collaboration
 - Team Performance
-ResourceId: 4p5xeJZXvcE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 4p5xeJZXvcE
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:07Z
+  short_title: 2025-06-23T12:39:01Z
 
 ---
 In my journey through the world of agile practices, one lesson has consistently stood out: the importance of patience. It’s a simple yet profound concept that can make or break the success of any team or organisation. As I reflect on my experiences, I’ve come to realise that patience is not just a virtue; it’s a necessity in fostering a healthy, productive environment.

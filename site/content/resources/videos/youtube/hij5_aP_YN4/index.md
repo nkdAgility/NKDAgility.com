@@ -1,8 +1,12 @@
 ---
 title: 'The Power of Community: Becoming an Awesome Agile Coach'
+short_title: How Does Community Help Agile Coaches Grow?
 description: Explores how Agile coaches grow by engaging with diverse communities, embracing feedback, and challenging assumptions to deliver greater value to teams and customers.
 date: 2023-11-16T11:00:37Z
 weight: 665
+ResourceId: hij5_aP_YN4
+ResourceImport: true
+ResourceType: videos
 slug: the-power-of-community-becoming-an-awesome-agile-coach
 aliases:
 - /resources/hij5_aP_YN4
@@ -24,9 +28,6 @@ tags:
 - Agile Philosophy
 - Competence
 - Social Technologies
-ResourceId: hij5_aP_YN4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: hij5_aP_YN4
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:48Z
+  short_title: 2025-06-23T12:39:40Z
 
 ---
 Being an effective Agile coach requires more than just mastering the frameworks and processes of Agile. It’s about continual growth, pushing your boundaries, and being part of a community that challenges you, not one that simply agrees with everything you say. If you're aiming to elevate your [coaching]({{< ref "/tags/coaching" >}}) game, the key lies in surrounding yourself with diverse perspectives that question, refine, and enhance your approach.

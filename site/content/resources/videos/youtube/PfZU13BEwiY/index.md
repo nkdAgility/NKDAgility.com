@@ -1,8 +1,12 @@
 ---
 title: 'Scaling Smart: How to Tackle Technical Debt for Sustainable Growth'
+short_title: How Can You Manage Technical Debt While Scaling?
 description: Learn how unmanaged technical debt can hinder growth, and discover strategies like sustainable architecture, DevOps, and automation to scale efficiently and maintain quality.
 date: 2025-02-25T06:00:28Z
 weight: 230
+ResourceId: PfZU13BEwiY
+ResourceImport: true
+ResourceType: videos
 slug: scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
 aliases:
 - /resources/PfZU13BEwiY
@@ -23,9 +27,6 @@ tags:
 - Technical Debt
 - Pragmatic Thinking
 - Software Development
-ResourceId: PfZU13BEwiY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: PfZU13BEwiY
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:49:26Z
+  short_title: 2025-06-23T12:34:11Z
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) without managing [technical debt]({{< ref "/tags/technical-debt" >}}) is a recipe for disaster. I’ve seen it time and again in my journey through various organisations. Technical debt can be a silent killer, gradually slowing everything down until it becomes a major blocker. Every quick fix or shortcut we take may seem harmless at first, but as we scale, those seemingly minor decisions can snowball into significant issues. 

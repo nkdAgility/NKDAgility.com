@@ -3138,5 +3138,43 @@
     "reasoning": "The article thoroughly explores the concept of a clear, rigorous definition of 'done' in agile teams. It emphasizes outcome-based value, delivering meaningful increments, and validating hypotheses in real-world conditions. However, there are no direct mentions of OKRs (Objectives and Key Results), nor is there explicit conceptual alignment with the strategic, measurable goal-setting structure articulated by John Doerr. The discussion centers mainly around the agile practice of a robust Definition of Done, including quality, agility, and stakeholder trust. While outcome-orientation has partial thematic overlap with OKRs' emphasis on measurable outcomes and real-world validation, this content clearly lacks depth and explicit alignment in the specific OKR methodology, principles, or terminology itself. Intent and conceptual alignment are thus minimally related, leading to very low dimension scoring. However, the target audience would partially overlap practitioners who might also leverage OKRs—hence, audience alignment and signal-to-noise are scored somewhat higher.",
     "reasoning_summary": "This content focuses on the definition of 'done' in agile delivery and outcome measurement but lacks explicit references or meaningful alignment with OKR principles as defined by John Doerr.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "lRBsJkDeKrI",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:31",
+    "ai_confidence": 69.08,
+    "ai_mentions": 1.2,
+    "ai_alignment": 7.3,
+    "ai_depth": 7.8,
+    "ai_intent": 7.5,
+    "ai_audience": 8.0,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 69.0,
+    "reasoning": "The content focuses on the concept of 'Definition of Done'—a practice highly relevant to the Product Developer accountability in Scrum and modern agile frameworks. It discusses quality, delivery, value, and collective standards, which conceptually align with the responsibilities and behaviors expected of Product Developers. However, the role is never directly named or explicitly referenced, and the content addresses 'teams' in general, not solely Product Developers. There is a strong fit for cross-functionality and professional standards, but it lacks in naming or singular focus on the Product Developer role, resulting in lower direct mention and moderate alignment. The discussion shows significant depth on the evolution of 'done', benchmarking, business value, and learning but remains generic enough for any product team rather than specifically identifying the Product Developer's accountability. No penalty points are needed, as the content is modern, supportive, and in line with current practice.",
+    "reasoning_summary": "This content thoroughly examines 'Definition of Done' in a way highly relevant to Product Developer accountability but never explicitly references the role. While the main ideas, depth, and audience strongly align, its general address to teams slightly reduces confidence for tagging as 'Product Developer'.",
+    "level": "Secondary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "lRBsJkDeKrI",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:11",
+    "ai_confidence": 11.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 1.5,
+    "ai_audience": 3.0,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content extensively discusses the importance of a clear, objective definition of 'done' in Agile/Scrum contexts and its impact on quality, agility, and trust, focusing on human team practices, standards, and shared understanding. However, there is no mention or substantive exploration of human-AI collaboration, AI agents, or collective intelligence emergent properties. All discussion relates to human team functioning, with no reference to AI involvement, making alignment very low. Some aspects of distributed cognition and shared standards are present, but they focus strictly on human teams, not on augmented intelligence or sociotechnical systems combining human and AI capacities.",
+    "reasoning_summary": "This content focuses solely on improving human team practices around the definition of 'done' in Agile contexts, with no reference to AI agents or human-AI partnership. As a result, it has minimal relevance to the Collective Intelligence category.",
+    "level": "Ignored"
   }
 }

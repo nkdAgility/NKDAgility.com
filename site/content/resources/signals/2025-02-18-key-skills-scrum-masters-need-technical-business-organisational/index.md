@@ -1,5 +1,6 @@
 ---
 title: 'Key Skills Scrum Masters Need: Technical, Business, Organisational'
+short_title: What Key Skills Do Scrum Masters Need?
 description: Scrum Masters need technical, business, and organisational skills to guide teams, remove obstacles, drive value, and lead effective agile transformation.
 date: 2025-02-18T16:30:30+00:00
 weight: 455
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:52Z
+  short_title: 2025-06-23T12:15:23Z
 concepts: []
 categories:
 - Leadership

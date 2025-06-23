@@ -1,8 +1,9 @@
 ---
 title: 'Scrum Myth Debunked: Unfinished Work is Allowed in Scrum'
+short_title: Is Unfinished Work Allowed in Scrum?
 description: Clarifies Scrum guidelines on unfinished work, explaining that items can span multiple Sprints if the Sprint Goal and Done Increment remain intact, avoiding common misconceptions.
 date: 2025-05-24T15:30:17+01:00
-weight: 1000
+weight: 445
 ResourceId: uhQlOorRmkA
 ResourceImport: false
 ResourceType: signals
@@ -11,7 +12,6 @@ aliases:
 - /resources/uhQlOorRmkA
 layout: signal
 ResourceContentOrigin: human
-draft: true
 source: LinkedIn
 platform_signals:
 - platform: LinkedIn
@@ -26,10 +26,18 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:52Z
+  short_title: 2025-06-23T12:13:25Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Product Development
+tags:
+- Software Development
+- Agile Frameworks
+- Professional Scrum
+- Increment
+- Product Delivery
+- Pragmatic Thinking
 
 ---
 For years I repeated a myth without questioning it: “You can’t have unfinished work in Scrum.” But the truth is, that’s not what the Scrum Guide says at all.

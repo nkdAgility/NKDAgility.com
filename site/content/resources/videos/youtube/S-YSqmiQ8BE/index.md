@@ -1,8 +1,12 @@
 ---
 title: 'Navigating the Legacy System Dilemma: Balancing Stability and Innovation for Modernisation Success'
+short_title: How Can You Modernise Legacy Systems Without Disruption?
 description: Learn how to modernise legacy systems by balancing stability and innovation, managing technical debt, and adopting gradual, sustainable improvements for long-term success.
 date: 2025-04-14T06:00:33Z
 weight: 480
+ResourceId: S-YSqmiQ8BE
+ResourceImport: true
+ResourceType: videos
 slug: navigating-the-legacy-system-dilemma-balancing-stability-and-innovation-for-modernisation-success
 aliases:
 - /resources/S-YSqmiQ8BE
@@ -21,9 +25,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: S-YSqmiQ8BE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: S-YSqmiQ8BE
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:49:14Z
+  short_title: 2025-06-23T12:33:49Z
 
 ---
 Modern legacy systems present a unique challenge for many organisations. It’s a delicate balancing act between maintaining what works and embracing the need for innovation. I’ve seen firsthand how this struggle can manifest in various ways, and I want to share some insights that might help you navigate this complex landscape.

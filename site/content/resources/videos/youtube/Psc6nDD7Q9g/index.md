@@ -1,8 +1,12 @@
 ---
 title: Maximizing Transparency and Improvement in Software Engineering with Kanban
+short_title: How Does Kanban Improve Transparency in Software Teams?
 description: Learn how Kanban boosts transparency in software engineering, helping teams visualise workflows, identify bottlenecks, and drive continuous improvement and delivery.
 date: 2024-07-29T06:45:02Z
 weight: 450
+ResourceId: Psc6nDD7Q9g
+ResourceImport: true
+ResourceType: videos
 slug: maximizing-transparency-and-improvement-in-software-engineering-with-kanban
 aliases:
 - /resources/Psc6nDD7Q9g
@@ -31,9 +35,6 @@ tags:
 - Throughput
 - Organisational Agility
 - Transparency
-ResourceId: Psc6nDD7Q9g
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Psc6nDD7Q9g
@@ -50,6 +51,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:27Z
+  short_title: 2025-06-23T12:36:58Z
 
 ---
 In the fast-paced world of software engineering, uncertainty is the only certainty. What we expect to happen often diverges dramatically from what actually unfolds during the process. This variance can cause significant challenges, but it also presents opportunities for teams to learn, adapt, and improve. One powerful tool for gaining clarity and creating space for [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) is **[Kanban]({{< ref "/categories/kanban" >}})**.

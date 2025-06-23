@@ -1,8 +1,12 @@
 ---
 title: 'Agile Leadership: Empowering Managers with the Right Skills'
+short_title: How Can Managers Develop Agile Leadership Skills?
 description: Explores how agile leadership and evidence-based management training help managers develop servant leadership skills, delegate effectively, and make data-driven decisions.
 date: 2023-11-29T07:00:23Z
 weight: 610
+ResourceId: W3cyrYFXDfg
+ResourceImport: true
+ResourceType: videos
 slug: agile-leadership-empowering-managers-with-the-right-skills
 aliases:
 - /resources/W3cyrYFXDfg
@@ -28,9 +32,6 @@ tags:
 - Competence
 - Organisational Change
 - Pragmatic Thinking
-ResourceId: W3cyrYFXDfg
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: W3cyrYFXDfg
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:25Z
+  short_title: 2025-06-23T12:39:20Z
 
 ---
 In today's fast-paced business world, managers are expected to not only manage but also lead. This shift can be daunting, especially when there’s little to no training or guidance provided. Most managers are left to figure out how to become leaders on their own. While some exceptional individuals thrive in this environment, many would benefit from a bit of help. That’s where agile [leadership]({{< ref "/categories/leadership" >}}) training comes into play.

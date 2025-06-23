@@ -1,8 +1,12 @@
 ---
 title: 5 tools that Scrum Masters love. Part 1
+short_title: How Can Scrum Masters Use Liberating Structures?
 description: Discover how Scrum Masters use liberating structures to boost team engagement, improve meetings, and drive effective collaboration in Agile and Scrum environments.
 date: 2023-09-14T07:00:08Z
 weight: 840
+ResourceId: Ce5pFwG5IAY
+ResourceImport: true
+ResourceType: videos
 slug: 5-tools-that-scrum-masters-love-part-1
 aliases:
 - /resources/Ce5pFwG5IAY
@@ -24,9 +28,6 @@ tags:
 - Scrum Team
 - Social Technologies
 - Software Development
-ResourceId: Ce5pFwG5IAY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Ce5pFwG5IAY
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:31Z
+  short_title: 2025-06-23T12:41:11Z
 
 ---
 **[Scrum]({{< ref "/categories/scrum" >}}) Masters: Unlocking the Power of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) 🚀** 

@@ -1,8 +1,12 @@
 ---
 title: Is Your Project Ecosystem Truly Agile?
+short_title: Is Your Project Ecosystem Agile End-to-End?
 description: Explains why true agility requires end-to-end automation and short feedback loops, not just Agile teams, to maximise value and efficiency for stakeholders in project delivery.
 date: 2024-07-31T06:45:01Z
 weight: 305
+ResourceId: cGOa0rg_L-8
+ResourceImport: true
+ResourceType: videos
 slug: is-your-project-ecosystem-truly-agile
 aliases:
 - /resources/cGOa0rg_L-8
@@ -37,9 +41,6 @@ tags:
 - Release Management
 - Agile Planning
 - Continuous Delivery
-ResourceId: cGOa0rg_L-8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: cGOa0rg_L-8
@@ -56,6 +57,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:25Z
+  short_title: 2025-06-23T12:36:57Z
 
 ---
 In today’s fast-paced world, organizations are embracing Agile practices to remain competitive and deliver value to their customers. But here’s the catch—having Agile programming teams is only part of the equation. If these Agile teams are followed by linear, bureaucratic deployment processes, then the ecosystem is far from truly Agile. This gap can lead to delays, inefficiencies, and ultimately, a failure to deliver the value that your stakeholders expect. So, how can we ensure that our entire project ecosystem is genuinely Agile from end to end?

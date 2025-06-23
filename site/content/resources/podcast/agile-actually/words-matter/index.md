@@ -1,20 +1,22 @@
 ---
 title: Words matter.
+short_title: How Does Precise Language Impact Agile Teams?
 description: Explore how precise language and transparency impact communication and effectiveness in agile teams, with insights from experienced agile coaches and consultants.
 date: 2023-06-29
 weight: 1000
-slug: words-matter
-aliases:
-- /resources/Z1FuzHOIZD5
 ResourceId: Z1FuzHOIZD5
 ResourceImport: false
 ResourceType: podcast
+slug: words-matter
+aliases:
+- /resources/Z1FuzHOIZD5
 ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:11:10Z
+  short_title: 2025-06-23T12:42:27Z
 concepts: []
 categories:
 - Uncategorized

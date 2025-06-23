@@ -1,8 +1,12 @@
 ---
 title: 'Seamless Migration to Azure DevOps: Unlocking Enhanced Collaboration and Productivity'
+short_title: How Do You Migrate Projects to Azure DevOps Successfully?
 description: Learn how to migrate projects to Azure DevOps using self-service or managed tools, ensuring accurate data transfer, improved collaboration, and streamlined development workflows.
 date: 2024-09-03T09:57:36Z
 weight: 1000
+ResourceId: 2Sal3OneFfo
+ResourceImport: true
+ResourceType: videos
 slug: seamless-migration-to-azure-devops-unlocking-enhanced-collaboration-and-productivity
 aliases:
 - /resources/2Sal3OneFfo
@@ -19,9 +23,6 @@ concepts:
 categories:
 - DevOps
 tags: []
-ResourceId: 2Sal3OneFfo
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 2Sal3OneFfo
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:58:37Z
+  short_title: 2025-06-23T12:36:20Z
 
 ---
 When it comes to migrating to Azure [DevOps]({{< ref "/categories/devops" >}}), I often find myself reflecting on the myriad of services we offer to make this transition as seamless as possible. Having been in the trenches of DevOps for quite some time, I understand the challenges that come with moving projects, especially when it involves merging work items and ensuring that nothing gets lost in the process. 

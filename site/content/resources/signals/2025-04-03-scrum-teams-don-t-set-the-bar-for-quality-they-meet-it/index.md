@@ -1,8 +1,9 @@
 ---
 title: Scrum Teams don’t set the bar for quality—they meet it
+short_title: Are Scrum Teams Meeting or Setting Quality Standards?
 description: Scrum Teams must consistently meet a clear, non-negotiable Definition of Done to ensure quality, manage risk, and prevent technical debt in every Sprint.
 date: 2025-04-03T15:30:01+01:00
-weight: 1000
+weight: 145
 ResourceId: ZMOQD_EBE6A
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,21 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:55Z
-concepts: []
+  short_title: 2025-06-23T12:14:22Z
+concepts:
+- Artifact
 categories:
-- Uncategorized
-tags: []
+- Scrum
+- Engineering Excellence
+- Technical Leadership
+tags:
+- Software Development
+- Definition of Done
+- Professional Scrum
+- Technical Mastery
+- Operational Practices
+- Team Performance
+- Working Software
 
 ---
 Scrum Teams don’t set the bar for quality—they meet it. The Definition of Done (DoD) isn’t a wishlist or a stretch goal. It’s a hard line that determines what is releasable. And if your DoD isn’t improving Sprint over Sprint, you’re accumulating risk and technical debt.

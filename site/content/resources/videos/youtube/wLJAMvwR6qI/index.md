@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Assumptions: Unlocking Success in Product Development Through Hypothesis-Driven Strategies'
+short_title: How do you test and prioritise assumptions in product development?
 description: Learn how to identify, prioritise, and test assumptions in product development using hypothesis-driven methods, experimentation, and critical analysis for better decision-making.
 date: 2024-08-20T07:06:21Z
 weight: 1000
+ResourceId: wLJAMvwR6qI
+ResourceImport: true
+ResourceType: videos
 slug: mastering-assumptions-unlocking-success-in-product-development-through-hypothesis-driven-strategies
 aliases:
 - /resources/wLJAMvwR6qI
@@ -20,9 +24,6 @@ categories:
 tags:
 - Hypothesis Driven Development
 - Experimentation
-ResourceId: wLJAMvwR6qI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: wLJAMvwR6qI
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:03Z
+  short_title: 2025-06-23T12:36:33Z
 
 ---
 In our ever-evolving landscape of [product development]({{< ref "/categories/product-development" >}}), one of the most crucial skills we can cultivate is the ability to work with assumptions. It’s a topic that I’m particularly passionate about, and I’m excited to share insights from our new class focused on this very subject. 

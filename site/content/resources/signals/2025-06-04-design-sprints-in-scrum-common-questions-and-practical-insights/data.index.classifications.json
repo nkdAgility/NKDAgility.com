@@ -3285,5 +3285,43 @@
     "reasoning": "The content primarily addresses clarifying Scrum practices regarding integrating design/UX into Sprints, emphasizing the avoidance of segregated 'Design Sprints.' There is a limited direct mention of organisational change—no explicit references to change management frameworks, leadership roles in transformation, or structured org-level agility initiatives. Conceptual alignment is moderate: it discusses moving away from Taylorist structures, implicitly touching on organisational culture and process evolution. However, the discussion stays focused on proper Scrum application rather than the broader process or strategy of enacting organisational change. The depth of change management concepts is modest; the piece centers on practical clarification for Scrum teams, with no reference to large-scale organisational transformation. The audience mainly consists of Scrum practitioners and teams seeking process clarity, providing decent overlap but narrower than the strategic focus of the category. The signal is high—most content is relevant to agile/Scrum, but mainly at the team or practice level, not the organisation. There are no penalties as the content is current and not critical in tone.",
     "reasoning_summary": "This content focuses on integrating design and UX within Scrum teams and clarifies Sprint misconceptions, referencing cultural shifts but stopping short of deeper organisational change topics. Its relevance to 'Organisational Change' is moderate, mostly through process refinement at the team level.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "8mcd8y-jiFX",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:32",
+    "ai_confidence": 46.15,
+    "ai_mentions": 1.2,
+    "ai_alignment": 5.8,
+    "ai_depth": 4.6,
+    "ai_intent": 4.7,
+    "ai_audience": 5.2,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 46.0,
+    "reasoning": "The content critiques the concept of function-specific Sprints (e.g., Design Sprints) in Scrum, advocating for integrated work aligned with Sprint Goals. While it references cross-functional, non-siloed work—core to Product Developer accountability—it does not explicitly mention the Product Developer role, responsibilities, or unique accountabilities. The post’s conceptual approach fits the Product Developer mindset (integration, anti-silo, collaboration on increments), but lacks direct depth about the role itself and instead focuses largely on process philosophy. The audience is likely practitioners in Scrum teams, consistent with the Product Developer context. There is moderate alignment but low explicitness and depth regarding the specific role, resulting in a mid-range confidence score.",
+    "reasoning_summary": "The content encourages integrated, cross-functional Sprint work and rejects siloed Design Sprints—concepts aligned with Product Developer philosophy. However, it never addresses the Product Developer role, accountability, or responsibilities directly, making its fit to the category only moderate.",
+    "level": "Tertiary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "8mcd8y-jiFX",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:38",
+    "ai_confidence": 31.55,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.3,
+    "ai_depth": 3.6,
+    "ai_intent": 4.2,
+    "ai_audience": 6.7,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content focuses on integrating UX and design work directly into Scrum Sprints and dismisses the need for functional silos like separate Design Sprints. It references Scrum as a 'social technology for solving complex problems.' However, there’s no explicit mention or substantive exploration of human-AI collaboration, human agency with AI agents, or collective intelligence themes as defined by the category. All examples and questions are framed around human team practices—there is no scenario or language about AI integration, shared human-AI cognition, or emergent capabilities via human-AI partnership. The target audience (Scrum practitioners and product teams) partially overlaps with the category, but the discussion never touches the required human-AI collaborative context.",
+    "reasoning_summary": "This content is relevant to team collaboration in Scrum but does not address human-AI partnership or collective intelligence themes. It mainly explores integrating UX and design into Sprints, focusing solely on human factors.",
+    "level": "Ignored"
   }
 }

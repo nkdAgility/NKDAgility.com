@@ -1,8 +1,12 @@
 ---
 title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
+short_title: How Is AI Transforming Productivity and Creativity at Work?
 description: Explores how AI boosts workplace productivity and creativity by automating tasks, aiding idea generation, and empowering professionals to work more efficiently.
 date: 2023-07-05T14:49:20Z
 weight: 1000
+ResourceId: fcOSewXez3I
+ResourceImport: true
+ResourceType: videos
 slug: how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
 aliases:
 - /resources/fcOSewXez3I
@@ -18,9 +22,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: fcOSewXez3I
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: fcOSewXez3I
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:03Z
+  short_title: 2025-06-23T12:42:22Z
 
 ---
 The question on everyone’s lips these days is: how is technology, particularly AI, changing the world we work in? I genuinely believe we are on the cusp of a significant revolutionary shift rather than just an evolutionary one. AI isn’t here to take your job; rather, it’s a powerful tool that acts as a sidekick or co-pilot, enhancing our capabilities as we navigate our daily tasks.

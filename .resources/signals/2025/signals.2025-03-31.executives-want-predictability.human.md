@@ -1,5 +1,6 @@
 ---
 title: Executives want predictability
+short_title: How Does Definition of Done Impact Predictability?
 description: Lack of a clear, enforced Definition of Done leads to hidden risks, unreliable forecasts, and eroded trust in delivery, undermining predictability and organisational confidence.
 date: 2025-03-31T15:30:08+01:00
 weight: 235
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:47Z
+  short_title: 2025-06-23T12:14:26Z
 concepts:
 - Principle
 categories:

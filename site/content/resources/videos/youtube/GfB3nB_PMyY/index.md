@@ -1,8 +1,12 @@
 ---
 title: 'The Power of Immersive Learning: Bridging Theory and Experience'
+short_title: How Does Immersive Learning Improve Agile and Scrum Skills?
 description: Explains how immersive learning combines Agile and Scrum theory with hands-on practice, real-world scenarios, and expert guidance to boost skills, confidence, and teamwork.
 date: 2024-02-09T07:00:06Z
 weight: 1000
+ResourceId: GfB3nB_PMyY
+ResourceImport: true
+ResourceType: videos
 slug: the-power-of-immersive-learning-bridging-theory-and-experience
 aliases:
 - /resources/GfB3nB_PMyY
@@ -21,9 +25,6 @@ categories:
 - Uncategorized
 tags:
 - Competence
-ResourceId: GfB3nB_PMyY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: GfB3nB_PMyY
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:54Z
+  short_title: 2025-06-23T12:38:00Z
 
 ---
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), training is essential for teams to stay effective and efficient. However, traditional training methods can often feel disconnected from real-world application. This is where immersive learning comes in, offering a holistic approach that integrates not only theory but also practical, hands-on experience.

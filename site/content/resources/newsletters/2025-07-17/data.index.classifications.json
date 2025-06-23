@@ -3219,5 +3219,43 @@
     "reasoning": "The content explicitly focuses on technical leadership practices such as trunk-based development, removing organizational silos, improving architectures, CI/CD practices, and application logic placement. There is no reference to Objective Key Results (OKRs), no discussions of strategic alignment through measurable outcomes, and no explicit mention of OKR concepts or principles (Objectives, Key Results, measurement strategies, strategic alignment, transparency or accountability in OKRs context). While there is minor conceptual overlap in terms of managing teams effectively and setting clear system goals, the detailed prescriptions for branching strategies, team structuring, and architectural boundaries are more about DevOps practices, technical governance and software delivery optimization rather than the structured OKR framework outlined by John Doerr. Thus, the alignment, depth, mentions, and intent relative to the 'Objective & Key Results' category are low. Audience alignment is moderate as technical and organizational leaders are a relevant but broader audience segment. Signal-to-noise is moderate-high, as content is tightly focused but on a different topic area entirely. No penalties are applied, as the content is neither outdated nor contradicting towards the OKR concept explicitly.",
     "reasoning_summary": "The content addresses technical leadership and DevOps practices without referencing OKRs. Minimal conceptual alignment exists, making it largely irrelevant to the 'Objective & Key Results' category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "AORP41zLNTi",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:08",
+    "ai_confidence": 26.9,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.5,
+    "ai_intent": 2.6,
+    "ai_audience": 5.1,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 27.0,
+    "reasoning": "The content is aimed at technical leaders (e.g., CTOs, development managers) and focuses on breaking down silos, better branching models, and leadership-driven architecture decisions. While it stresses building cross-functional product teams and system-level adaptability, it does not explicitly discuss the Product Developer role, its collective accountability, or behaviors as per modern frameworks. There is conceptual overlap around cross-functional teams and end-to-end flow, but the main themes are leadership responsibility and system design, not Product Developer accountability.",
+    "reasoning_summary": "This content targets technical leaders and addresses system design, team structure, and architectural governance. While it mentions cross-functional teams, it doesn't discuss Product Developer accountability, responsibilities, or behaviors, so alignment with the Product Developer category is limited.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "AORP41zLNTi",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:09",
+    "ai_confidence": 23.37,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.4,
+    "ai_depth": 1.8,
+    "ai_intent": 3.0,
+    "ai_audience": 7.3,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content focuses mainly on technical leadership, software team structures, and agile best practices like trunk-based development, cross-functional teams, and system design. It emphasizes leadership accountability and organizational adaptability but does not discuss human-AI partnerships, distributed cognition, or collaboration between humans and AI. No explicit references or discussion align with the definition of Collective Intelligence as human-AI teaming. Audience and signal are somewhat relevant, as the material targets technical leadership in agile contexts, but the fit is indirect and mostly about human organizational performance, not augmented by AI agents.",
+    "reasoning_summary": "The content addresses agile leadership, team structure, and software delivery, targeting technical leaders. However, it lacks any focus on human-AI collaboration or Collective Intelligence themes, making it only weakly aligned with the specified category.",
+    "level": "Ignored"
   }
 }

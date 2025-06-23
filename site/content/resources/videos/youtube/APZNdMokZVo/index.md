@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Success in Agile: Why Your Definition of Done is Essential for Quality Delivery'
+short_title: Why Is Definition of Done Crucial in Agile Teams?
 description: Explains why a clear Definition of Done is vital in Agile and Scrum for quality delivery, transparency, and risk mitigation, with tips for team alignment and improvement.
 date: 2023-11-13T06:56:47Z
 weight: 355
+ResourceId: APZNdMokZVo
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-success-in-agile-why-your-definition-of-done-is-essential-for-quality-delivery
 aliases:
 - /resources/APZNdMokZVo
@@ -29,9 +33,6 @@ tags:
 - Professional Scrum
 - Transparency
 - Agile Frameworks
-ResourceId: APZNdMokZVo
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: APZNdMokZVo
@@ -48,6 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:56Z
+  short_title: 2025-06-23T12:39:48Z
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one concept has consistently stood out as a cornerstone of success: the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD). It’s not just a checklist; it’s a commitment to quality that shapes the very essence of our work. Today, I want to share my insights on why the Definition of Done is crucial and how it can transform your team's approach to delivering value.

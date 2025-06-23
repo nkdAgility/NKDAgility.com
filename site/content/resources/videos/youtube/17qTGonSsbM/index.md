@@ -1,8 +1,12 @@
 ---
 title: 'The Importance of Evaluating Direction: Are You Heading the Right Way?'
+short_title: Are You Heading in the Right Direction?
 description: Learn why regularly evaluating your direction is vital for developers, product owners, and organisations to ensure goals, features, and strategies truly meet user and business needs.
 date: 2024-01-20T07:00:00Z
 weight: 840
+ResourceId: 17qTGonSsbM
+ResourceImport: true
+ResourceType: videos
 slug: the-importance-of-evaluating-direction-are-you-heading-the-right-way
 aliases:
 - /resources/17qTGonSsbM
@@ -21,9 +25,6 @@ categories:
 - Product Development
 tags:
 - Continuous Improvement
-ResourceId: 17qTGonSsbM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 17qTGonSsbM
@@ -40,6 +41,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:06:25Z
+  short_title: 2025-06-23T12:38:27Z
 
 ---
 As Lao Tzu wisely said, _“If you do not change direction, you may end up where you are heading.”_ This quote resonates deeply with me, both as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and a practitioner. Whether you're a developer writing code or an organization strategizing for the future, it's vital to continuously ask yourself: **Are we heading in the right direction?** 🛤️

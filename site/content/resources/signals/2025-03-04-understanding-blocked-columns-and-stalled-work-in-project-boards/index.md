@@ -1,5 +1,6 @@
 ---
 title: Understanding Blocked Columns and Stalled Work in Project Boards
+short_title: How Should Teams Handle Blocked Work on Project Boards?
 description: Explains why using blocked columns for stalled tasks on project boards harms workflow, and suggests better ways to highlight and address blocked work without losing progress.
 date: 2025-03-04T16:30:01+00:00
 weight: 305
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:34Z
+  short_title: 2025-06-23T12:15:02Z
 concepts:
 - Practice
 categories:

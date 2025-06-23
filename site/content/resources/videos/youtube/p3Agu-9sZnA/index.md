@@ -1,8 +1,12 @@
 ---
 title: 'How to Tackle Technical Debt Without Halting Progress: Smarter Ways to Keep Your Team Moving Forward'
+short_title: How Can Teams Manage Technical Debt Without Stopping Work?
 description: Struggling with technical debt? Discover practical ways to tackle legacy systems, boost team morale, and deliver value—without grinding to a halt.
 date: 2025-05-26T06:00:00Z
 weight: 115
+ResourceId: p3Agu-9sZnA
+ResourceImport: true
+ResourceType: videos
 slug: how-to-tackle-technical-debt-without-halting-progress-smarter-ways-to-keep-your-team-moving-forward
 aliases:
 - /resources/p3Agu-9sZnA
@@ -23,9 +27,6 @@ tags:
 - Technical Mastery
 - Operational Practices
 - Engineering Practices
-ResourceId: p3Agu-9sZnA
-ResourceImport: true
-ResourceType: videos
 videoId: p3Agu-9sZnA
 ResourceImportSource: Youtube
 source: youtube
@@ -39,9 +40,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T20:29:03Z
-ResourceContentOrigin: ai
+  short_title: 2025-06-23T12:33:21Z
 
 ---
 Technical debt. It’s one of those insidious things that creeps up on you—quietly, almost politely—until one day you realise you’re spending more time firefighting than actually delivering anything new. At that point, it’s not just slowing you down; it’s actively standing in your way, blocking progress, and sapping morale.

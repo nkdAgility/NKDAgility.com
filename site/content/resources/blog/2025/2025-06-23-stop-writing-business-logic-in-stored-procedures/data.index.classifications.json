@@ -2445,5 +2445,43 @@
     "reasoning": "The content focuses strictly on technical practices around software engineering, specifically discouraging placing business logic in SQL stored procedures. It emphasizes maintainability, scalability, testability, and CI/CD practices. There are no explicit mentions or references related to OKRs or any of their core principles (such as objectives, key results, strategic alignment, transparency or outcome-based measurement). The theme of iterative change and technical excellence might tangentially align conceptually with continuous improvement, but there is no meaningful exploration or direct alignment with OKR theory or practices as defined by John Doerr. Therefore, the Direct Mentions dimension scores zero points. Conceptual Alignment and Depth of Discussion dimensions receive minimal scores due to lack of clear thematic connections. The Intent dimension scores marginally higher (0.5) simply because the intent around continuous improvement and strategic engineering practice mildly overlaps OKR ideals of continual improvement and iterative refinement—but this is still weak and at most incidental. Audience Alignment is relatively higher (2.9) since OKRs and the content both address technically-inclined practitioners interested in iterative, incremental improvements, but even this alignment is weak given OKRs typically address organizational strategy and execution rather than specific technical best practices. Signal-to-Noise is moderate (3.5), as the content is high-quality and focused, but only weakly relevant to OKRs. No penalties are applied as the content doesn't actively contradict or use outdated terms specific to the OKR category.",
     "reasoning_summary": "The content deals explicitly with best practices in software architecture and avoiding business logic in stored procedures. It does not meaningfully reference, align, or connect with the OKR framework or its principles, making it largely irrelevant to this category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "utAzlIGxj7O",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:34",
+    "ai_confidence": 16.984,
+    "ai_mentions": 0.5,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.0,
+    "ai_intent": 2.2,
+    "ai_audience": 5.0,
+    "ai_signal": 3.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses on software engineering practices, specifically arguing against writing business logic in stored procedures, and advocating for refactoring such logic into testable, maintainable code. There is no direct mention of the 'Product Developer' role, its accountabilities, or related behaviors as defined in modern frameworks. Conceptual overlap is marginal—while the guidance supports general modern product practices (e.g., testability, CI/CD), it does not connect these practices to the formal accountabilities or professional focus of Product Developers. The intended audience are developers and engineers dealing with legacy code, not specifically those operating within the Product Developer accountability. The discussion is thorough regarding migration strategies but not in context of Product Developer responsibilities.",
+    "reasoning_summary": "This content addresses best practices in code maintainability and moving business logic out of stored procedures, targeting software engineers in general. It does not discuss the Product Developer role or accountability as defined in contemporary product development frameworks.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "utAzlIGxj7O",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:38",
+    "ai_confidence": 11.1205,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.5,
+    "ai_intent": 1.2,
+    "ai_audience": 4.1,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.1,
+    "ai_penalty_details": "Alignment (-0.7): No reference to human-AI collaboration, only human engineering practices. Depth (-0.7): Lacks any exploration of human-AI or AI-agent topics. Intent (-0.4): Focused solely on best practices for humans refactoring code, unrelated to collective intelligence themes. Signal (-0.3): All AI/collective intelligence content is absent.",
+    "final_score": 11.0,
+    "reasoning": "The content thoroughly argues against maintaining business logic in stored procedures, focusing on testability, maintainability, and modern software practices for human teams. It never references, describes, or implies any human-AI collaboration, AI agent participation, or hybrid team dynamics central to collective intelligence. All arguments and examples center around human agency, engineering process improvements, DevOps habits, and reducing technical debt—entirely human-centric. There is a passing mention of DevOps and technical culture, but these are not in an AI-collaborative context. No AI tools, agents, or collaborative problem-solving involving AI are mentioned or implied, nor are distributed cognition, shared understanding with AI, or new capabilities emerging from human-AI teaming explored. The content is thus conceptually and substantively unrelated to the 'Collective Intelligence' category, falling outside every topical key area described.",
+    "reasoning_summary": "This content is solely about human-driven software engineering practices and does not address human-AI collaboration, hybrid teams, or any dimension of collective intelligence. It is entirely outside the intended scope of the category.",
+    "level": "Ignored"
   }
 }

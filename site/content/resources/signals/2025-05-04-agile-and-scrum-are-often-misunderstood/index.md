@@ -1,5 +1,6 @@
 ---
 title: Agile and Scrum are often misunderstood
+short_title: What Problems Do Agile and Scrum Really Reveal?
 description: Agile and Scrum expose underlying team and workflow issues, helping organisations address real problems rather than masking dysfunction with process or tools.
 date: 2025-05-04T15:30:30+01:00
 weight: 510
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:01Z
+  short_title: 2025-06-23T12:13:43Z
 concepts:
 - Philosophy
 categories:

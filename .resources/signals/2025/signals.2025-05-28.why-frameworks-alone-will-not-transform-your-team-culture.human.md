@@ -1,5 +1,6 @@
 ---
 title: Why Frameworks Alone will-not Transform Your Team Culture
+short_title: Can Frameworks Alone Change Team Culture?
 description: Explains why frameworks alone can't shift team culture, emphasizing clear vision, leadership commitment, and empowering teams to drive meaningful organizational change.
 date: 2025-05-28T15:30:50+01:00
 weight: 480
@@ -11,7 +12,6 @@ aliases:
 - /resources/xUJ6VvudvJx
 layout: signal
 ResourceContentOrigin: human
-draft: true
 source: LinkedIn
 platform_signals:
 - platform: LinkedIn
@@ -26,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:42Z
+  short_title: 2025-06-23T12:13:21Z
 concepts:
 - Philosophy
 categories:

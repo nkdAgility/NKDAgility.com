@@ -1,17 +1,19 @@
 ---
 title: Are We Still Pretending Coding Was the Bottleneck?
+short_title: Is Coding Really the Bottleneck in Software Delivery?
 description: AI exposes that coding was never the main bottleneck in software delivery; real constraints are in system flow, team practices, and organisational culture, not code writing.
 date: 2025-09-01T09:00:00Z
 weight: 100
-slug: are-we-still-pretending-coding-was-the-bottleneck
-aliases:
-- /resources/IO5EHjiHhTf
 ResourceId: IO5EHjiHhTf
 ResourceImport: false
 ResourceType: blog
+slug: are-we-still-pretending-coding-was-the-bottleneck
+aliases:
+- /resources/IO5EHjiHhTf
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-06-06T15:13:01Z
+  short_title: 2025-06-23T12:32:41Z
 concepts:
 - Principle
 categories:

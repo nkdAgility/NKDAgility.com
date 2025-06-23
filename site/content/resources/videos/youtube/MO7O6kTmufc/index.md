@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Outcomes: How Evidence-Based Management Transforms Your Project Success'
+short_title: How Does Evidence-Based Management Improve Project Success?
 description: Learn how evidence-based management uses clear outcomes and targeted metrics to improve project success, enabling informed decisions and continuous improvement.
 date: 2024-09-12T13:46:15Z
 weight: 1000
+ResourceId: MO7O6kTmufc
+ResourceImport: true
+ResourceType: videos
 slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success
 aliases:
 - /resources/MO7O6kTmufc
@@ -24,9 +28,6 @@ tags:
 - Evidence Based Management
 - Pragmatic Thinking
 - Metrics and Learning
-ResourceId: MO7O6kTmufc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: MO7O6kTmufc
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:58:30Z
+  short_title: 2025-06-23T12:36:14Z
 
 ---
 When embarking on any journey, whether it’s a personal project or a large-scale [organisational change]({{< ref "/tags/organisational-change" >}}), clarity of outcomes is paramount. I’ve often found that once you’ve defined what success looks like, the next crucial step is determining the metrics that will guide you towards those outcomes. This is where the concept of evidence-based management comes into play, and it’s something I’ve seen make a significant difference in various contexts.

@@ -1,8 +1,12 @@
 ---
 title: Why do you trust Joanna to deliver Scrum.Org classes for NKD Agility?
+short_title: Why trust Joanna to teach Scrum.Org classes at NKD Agility?
 description: Discover how Joanna’s technical expertise, clear teaching, and real-world Agile experience make her Scrum.Org classes at NKD Agility essential for mastering Scrum and Agile.
 date: 2023-08-22T07:00:03Z
 weight: 610
+ResourceId: 8gAWNn2RQgU
+ResourceImport: true
+ResourceType: videos
 slug: why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 aliases:
 - /resources/8gAWNn2RQgU
@@ -26,9 +30,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Scrum Master
-ResourceId: 8gAWNn2RQgU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 8gAWNn2RQgU
@@ -45,6 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:57Z
+  short_title: 2025-06-23T12:41:36Z
 
 ---
 ## A Tale of Expertise and Authenticity: Meet Joanna, the Agile Maestro 🚀 

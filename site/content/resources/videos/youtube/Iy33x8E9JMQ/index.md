@@ -1,15 +1,16 @@
 ---
 title: Dogma versus Empiricism in a consulting engagement
+short_title: How Does Empiricism Improve Consulting Outcomes?
 description: Explores why rigid dogma hinders consulting, emphasising the value of empirical, flexible, and empathetic approaches for effective problem-solving and continuous learning.
 date: 2023-08-11T07:00:08Z
 weight: 1000
+ResourceId: Iy33x8E9JMQ
+ResourceImport: true
+ResourceType: videos
 slug: dogma-versus-empiricism-in-a-consulting-engagement
 aliases:
 - /resources/Iy33x8E9JMQ
 - /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement-Iy33x8E9JMQ
-ResourceId: Iy33x8E9JMQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Iy33x8E9JMQ
@@ -35,6 +36,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:14Z
+  short_title: 2025-06-23T12:41:44Z
 
 ---
 ## The Thin Line: Dogma vs Empiricism in Consulting Engagements

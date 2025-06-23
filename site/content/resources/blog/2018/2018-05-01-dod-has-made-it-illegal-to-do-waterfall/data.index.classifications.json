@@ -1951,5 +1951,43 @@
     "reasoning": "This content focuses heavily and explicitly on Agile and iterative methodologies with references predominantly to Scrum, Lean, iterative development, and the significant change in US DoD procurement rules towards Agile practices. However, it completely lacks explicit or implicit references to Objective and Key Results (OKRs), as defined by the foundational work of John Doerr, 'Measure What Matters'. The article discusses iterative delivery, reduced risk through Agile methods, incremental functionality, modularity, user involvement, and transparency, all concepts relevant to Agile, DevOps, and Lean approaches. Nevertheless, there is no clear relationship established with OKRs’ strategic value, alignment through organizational transparency, outcome-based measurement frameworks, or any key tenets involving objectives and measurable key results. Therefore, the scores for explicit mentions (0.0), alignment (0.2), depth of discussion (0.1), and intent fit (0.2) are necessarily very low. Audience alignment is moderately higher (4.7) since Agile, Scrum, DevOps, Lean, and evidence-based management practitioners often overlap audience segments that might also be interested in OKRs. The signal-to-noise ratio is mid-ranged (5.5) given its high relevance and quality to Agile software delivery practices, though still unrelated directly to OKRs.",
     "reasoning_summary": "The content extensively covers Agile methods but does not relate or align meaningfully to OKRs, lacking direct mentions, conceptual alignment, or purpose fit with Objective & Key Results as defined by John Doerr.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "dnmT3QDhGxx",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:48",
+    "ai_confidence": 13.366,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.2,
+    "ai_intent": 0.8,
+    "ai_audience": 4.9,
+    "ai_signal": 3.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content centers on recent changes to the US Department of Defence's procurement policies to mandate agile, iterative development, and discusses large government IT project failures and successes with agile approaches. However, it does not discuss Product Developer as a specific role or accountability, nor does it reference their cross-functional skills, responsibilities, or integration within product development frameworks like Scrum in a role-focused way. While the content may be of general interest to practitioners, it only tangentially relates to the designated audience and category. It lacks any material discussion or explicit naming of Product Developer accountability, roles, collective responsibilities, or professional expectations. Therefore, all core dimensions regarding relevance to the Product Developer category rate very low; only a moderate audience and focus signal are present due to the general agile-practitioner orientation.",
+    "reasoning_summary": "This content discusses agile mandates in large government IT, but it does not address Product Developer roles, accountabilities, or behaviors. It is not relevant or specific to the Product Developer category as defined, lacking direct mentions or substantive alignment.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "dnmT3QDhGxx",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:39",
+    "ai_confidence": 3.88,
+    "ai_mentions": 0.6,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.5,
+    "ai_intent": 3.2,
+    "ai_audience": 3.6,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 4.0,
+    "reasoning": "This content is narrowly focused on the shift by the US DoD from waterfall to agile, iterative processes, with heavy emphasis on governmental policy, procurement, and case history (e.g., FBI Sentinel). The discussion is about the benefits of agile (success rates, cost savings, frequent delivery), reasons for the policy change, and examples of project failures/success using different methods. There is no explicit or implicit discussion of collective intelligence as defined: no mention of human-AI partnerships, collaborative decision-making involving both humans and AI, socio-technical systems with AI agents as teammates, or any exploration of distributed shared cognition involving AI. The narrative is exclusively about human processes and organizational change, with 'collective' referring only to human organization or government/teams—AI is not mentioned or considered. Thus, there is little to no direct relevance, depth, or conceptual alignment.",
+    "reasoning_summary": "The content centers on the US DoD's shift from waterfall to agile, focusing on policy, process, and human teams. It does not reference or explore human-AI collaboration, distributed cognition with AI, or other aspects of collective intelligence as defined for this category.",
+    "level": "Ignored"
   }
 }

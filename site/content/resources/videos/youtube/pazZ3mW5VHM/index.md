@@ -1,20 +1,23 @@
 ---
-title: "Most influential people in Agile: Simon Reindl"
+title: 'Most influential people in Agile: Simon Reindl'
+short_title: How Can Product Owners Gain More Influence in Agile?
 description: Many Product Owners in PSPO courses feel a lack of control or influence. This highlights the need for greater empowerment, accountability, and active engagement in their role.
 date: 2023-07-06T14:33:51Z
 weight: 1000
-slug: most-influential-people-in-agile-simon-reindl
-aliases:
-  - /resources/pazZ3mW5VHM
-  - /resources/videos/most-influential-people-in-agile-simon-reindl
-concepts:
-  - Accountability
-categories:
-  - Uncategorized
-tags: []
 ResourceId: pazZ3mW5VHM
 ResourceImport: true
 ResourceType: videos
+slug: most-influential-people-in-agile-simon-reindl
+aliases:
+- /resources/pazZ3mW5VHM
+- /resources/videos/most-influential-people-in-agile-simon-reindl
+aliasesArchive:
+- /resources/videos/most-influential-people-in-agile-simon-reindl
+concepts:
+- Accountability
+categories:
+- Uncategorized
+tags: []
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: pazZ3mW5VHM
@@ -28,11 +31,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
-  - video
+- video
 Watermarks:
   description: 2025-05-07T13:10:59Z
----
+  short_title: 2025-06-23T12:42:19Z
 
+---
 ## Common Comments from the PSPO Course
 
 Over the years teaching the PSPO course, I've heard one recurring sentiment from many Product Owners that goes something like this: "We don't have that kind of control."

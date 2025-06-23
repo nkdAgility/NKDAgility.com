@@ -1,20 +1,22 @@
 ---
 title: Power & Politics! Communicating and Building Political Capital for Agile Transformations!
+short_title: How Does Clear Communication Build Agile Political Capital?
 description: Explores how clear, precise language and transparency help build political capital and support effective agile transformations within organisations.
 date: 2024-06-04
 weight: 1000
-slug: power-politics-communicating-and-building-political-capital-for-agile-transformations
-aliases:
-- /resources/2RYiDJ9l8wh
 ResourceId: 2RYiDJ9l8wh
 ResourceImport: false
 ResourceType: podcast
+slug: power-politics-communicating-and-building-political-capital-for-agile-transformations
+aliases:
+- /resources/2RYiDJ9l8wh
 ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:02:50Z
+  short_title: 2025-06-23T12:37:19Z
 concepts: []
 categories:
 - Uncategorized

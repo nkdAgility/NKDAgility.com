@@ -1,8 +1,12 @@
 ---
 title: 'Debunking the Top 5 Myths About Scrum: Unlocking Agile Success in Your Organisation'
+short_title: What Are the Top 5 Myths About Scrum?
 description: Explores and corrects common misconceptions about Scrum, clarifying its true principles, events, planning, and governance to help teams adopt Agile practices effectively.
 date: 2024-05-06T14:12:53Z
 weight: 665
+ResourceId: 4YixczaREUw
+ResourceImport: true
+ResourceType: videos
 slug: debunking-the-top-5-myths-about-scrum-unlocking-agile-success-in-your-organisation
 aliases:
 - /resources/4YixczaREUw
@@ -31,9 +35,6 @@ tags:
 - Transparency
 - Agile Transformation
 - Pragmatic Thinking
-ResourceId: 4YixczaREUw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 4YixczaREUw
@@ -48,8 +49,6 @@ source: youtube
 layout: video
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:05:10Z
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/scrum-does-not-work
@@ -57,6 +56,9 @@ platform_signals:
 - platform: Youtube
   post_url: https://www.youtube.com/watch?v=4YixczaREUw
   post_date: 2024-05-06
+Watermarks:
+  description: 2025-05-07T13:05:10Z
+  short_title: 2025-06-23T12:37:25Z
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) is often likened to communism, with the phrase “it doesn’t work” echoing through the halls of organisations struggling to adapt to its principles. As someone who has spent years in the trenches of Agile methodologies, I can tell you that this sentiment usually stems from a fundamental misunderstanding of what Scrum truly is. Hi, I’m Martin Hinshelwood, owner and principal consultant at Naked Agility, and today I want to debunk five common myths about Scrum that inhibit its adoption and effectiveness.

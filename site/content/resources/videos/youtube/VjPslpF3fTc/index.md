@@ -1,8 +1,12 @@
 ---
 title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
+short_title: How Does Immersive Learning Benefit Experienced Agile Pros?
 description: Discover how immersive learning empowers experienced Agile professionals to deepen skills, tackle real-world challenges, and accelerate growth through hands-on practice.
 date: 2023-08-01T07:00:19Z
 weight: 1000
+ResourceId: VjPslpF3fTc
+ResourceImport: true
+ResourceType: videos
 slug: how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-couple-of-years-experience-in-the-field
 aliases:
 - /resources/VjPslpF3fTc
@@ -19,9 +23,6 @@ categories:
 - Uncategorized
 tags:
 - Competence
-ResourceId: VjPslpF3fTc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: VjPslpF3fTc
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:30Z
+  short_title: 2025-06-23T12:41:58Z
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

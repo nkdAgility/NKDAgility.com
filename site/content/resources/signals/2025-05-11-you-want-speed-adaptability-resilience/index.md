@@ -1,5 +1,6 @@
 ---
 title: You want speed, adaptability, resilience
+short_title: Is Your Agility Failing Without Team Agency?
 description: Explores why true organisational agility depends on empowering teams with agency, not just adopting frameworks like Scrum, Kanban, or DevOps, to achieve real outcomes.
 date: 2025-05-11T15:30:29+01:00
 weight: 385
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:51Z
+  short_title: 2025-06-23T12:13:35Z
 concepts:
 - Ethos
 categories:

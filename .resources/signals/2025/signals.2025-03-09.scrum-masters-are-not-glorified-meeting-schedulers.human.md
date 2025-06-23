@@ -1,5 +1,6 @@
 ---
 title: Scrum Masters are not glorified meeting schedulers
+short_title: Do Scrum Masters Need Technical and Coding Skills?
 description: Scrum Masters must have technical and business expertise to guide teams, improve code quality, and drive real agility—not just schedule meetings. Coding skills are essential.
 date: 2025-03-09T16:30:01+00:00
 weight: 110
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:19Z
+  short_title: 2025-06-23T12:14:56Z
 concepts: []
 categories:
 - Technical Leadership

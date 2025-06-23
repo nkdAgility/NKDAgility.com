@@ -3285,5 +3285,43 @@
     "reasoning": "The content is focused exclusively on technical debt—its negative impact, warning signs, and a case study (Microsoft TFS)—with no explicit or implicit reference to OKRs. There is no mention of objectives, key results, measurable outcomes, or strategic alignment as described by John Doerr or the OKR framework. Even though some terms like 'transparency,' 'Sprints,' or tackling systemic issues may be present, these are addressed in service to reducing technical debt, not through the lens of outcome-based measurement, OKR structure, or iterative alignment. There is no discussion of setting objectives, tracking measurable key results, or strategic intent. The desired audience seems to be engineering or delivery teams, potentially aligning to an agile/DevOps context, but not in connection to OKRs. Consequently, each dimension scores near the minimum: barely any direct mention, negligible conceptual overlap, and shallow depth regarding the category. Signal-to-noise is low for OKR, as the signal is entirely about technical debt rather than outcome-driven frameworks.",
     "reasoning_summary": "This content centers on technical debt and its effects, offering no reference or real alignment with Objective Key Results. It neither discusses OKR frameworks, measurable objectives, nor connects technical debt remediation to outcome-driven approaches described by OKRs.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "lLNjkL_zGQa",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:02:21",
+    "ai_confidence": 23.6,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.9,
+    "ai_intent": 2.4,
+    "ai_audience": 8.0,
+    "ai_signal": 6.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "The content discusses technical debt broadly in engineering and product teams but never mentions Product Developers as a role or accountability, nor does it discuss their collective responsibilities. The piece focuses on general best practices, risk, and technical debt management, not on the distinct role definition, behaviors, or accountability associated with Product Developers within product development frameworks. While the audience (teams, engineers) might overlap, the primary topic is too generic and not directly linked to the formal accountability or structure of the Product Developer role.",
+    "reasoning_summary": "This content addresses technical debt and its impact on teams but doesn't directly reference or deeply explore Product Developer accountability, structure, or responsibilities. Its general focus makes alignment with the 'Product Developer' category minimal.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "lLNjkL_zGQa",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:02:25",
+    "ai_confidence": 8.83,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 1.2,
+    "ai_audience": 2.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content does not mention collective intelligence or themes of human-AI collaboration. It focuses on technical debt, team productivity, code maintainability, and historical examples involving traditional DevOps/Agile practices, without reference to AI agent collaboration, distributed cognition, or socio-technical dynamics between humans and AI. The intent is solely to advocate for rigorous attention to technical debt and process improvement in human teams, not on enhancement via AI partnership.",
+    "reasoning_summary": "The content centers on the impact and consequences of technical debt from a purely human team perspective, without addressing human-AI collaboration or collective intelligence themes.",
+    "level": "Ignored"
   }
 }

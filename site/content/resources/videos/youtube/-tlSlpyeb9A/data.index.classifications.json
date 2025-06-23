@@ -3132,5 +3132,43 @@
     "reasoning": "The content centers clearly on evolving the Definition of Done in a progressively incremental manner within Agile teams, emphasizing starting small, improving incrementally, and avoiding overwhelm. While these themes do align conceptually with agility, iterative improvement, and continuous learning, there is no explicit mention or connection to Objectives & Key Results (OKRs) as defined by John Doerr. Key OKR-specific content such as explicitly measuring outcomes, strategic alignment, key results, transparency through clearly communicated objectives, outcome-based measurement, and iterative adaptation relative to OKRs are completely absent. Although the principles of incremental improvement may indirectly relate conceptually to continuous improvement and iterative adaptation important to OKRs, there is no direct reference or deeper theoretical or practical exploration of OKRs themselves. Hence, scoring for Direct Mentions (0.0) and Intent (2.5) is very low. Conceptual alignment and depth scores are relatively low (4.0 and 2.5, respectively) because only minimal thematic overlap exists. Audience alignment (7.5) and signal-to-noise (8.0) scored higher as the agile-practitioner audience and focused discussion align more clearly with those dimensions. No penalties applied as the tone is positive and contemporary.",
     "reasoning_summary": "The content addresses iterative improvement and standards evolution in Agile teams but lacks explicit reference to OKRs or their fundamental principles, resulting in minimal category alignment.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "-tlSlpyeb9A",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:25",
+    "ai_confidence": 74.4,
+    "ai_mentions": 2.2,
+    "ai_alignment": 8.3,
+    "ai_depth": 7.9,
+    "ai_intent": 7.5,
+    "ai_audience": 8.1,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 74.0,
+    "reasoning": "The content centers on the evolution and importance of Definition of Done (DoD) within product development teams. It strongly aligns conceptually with the Product Developer category, highlighting incremental quality improvements, practical team behaviors, and the continuous raising of standards. However, it never directly references 'Product Developer' as a role/accountability, with its audience and language addressing agile delivery teams in general. Depth is reflected through concrete examples and progressive steps, but explicit links to Product Developer accountabilities or unique practices (versus generic team best practices) are implicit rather than named. The content resonates with practitioners operating as cross-functional teams responsible for Increments, but lacks direct terminology or role-specific framing required for a higher confidence score.",
+    "reasoning_summary": "This content closely aligns with the Product Developer category by emphasizing how teams incrementally strengthen their Definition of Done, reinforcing continuous improvement, technical quality, and collaboration. It targets practitioners responsible for delivery, but does so generally, without explicit reference to Product Developer accountability.",
+    "level": "Secondary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "-tlSlpyeb9A",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:31",
+    "ai_confidence": 9.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.0,
+    "ai_audience": 1.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "This content focuses on evolving the Definition of Done in Agile teams, emphasizing incremental improvement, team momentum, and continuous standards evolution. However, it makes no mention—explicit or implicit—of AI, human-AI collaboration, or collective intelligence as defined. All discussion is centered purely on human team practices and psychological safety, with no themes of distributed cognition with AI agents or leveraging AI partnership for superior outcomes. Thus, it is not conceptually aligned with 'Collective Intelligence' as defined here.",
+    "reasoning_summary": "The content is about human team practices for improving 'Definition of Done' but contains no AI or human-AI collaboration themes, so does not fit under Collective Intelligence.",
+    "level": "Ignored"
   }
 }

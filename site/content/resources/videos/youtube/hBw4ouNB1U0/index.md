@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Continuous Improvement: How Metrics and Visualisation Drive Workflow Success'
+short_title: How Do Metrics and Visualisation Improve Workflow?
 description: Explores how using metrics and visual tools enhances workflow transparency, helps identify improvement areas, and supports a culture of continuous process optimisation.
 date: 2024-08-19T06:45:02Z
 weight: 305
+ResourceId: hBw4ouNB1U0
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-continuous-improvement-how-metrics-and-visualisation-drive-workflow-success
 aliases:
 - /resources/hBw4ouNB1U0
@@ -23,9 +27,6 @@ tags:
 - Operational Practices
 - Metrics and Learning
 - Continuous Learning
-ResourceId: hBw4ouNB1U0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: hBw4ouNB1U0
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:04Z
+  short_title: 2025-06-23T12:36:34Z
 
 ---
 In my journey with Caman, I've come to realise that one of its core tenets is the relentless pursuit of improvement. It’s not just about making changes for the sake of change; it’s about implementing thoughtful adjustments to our systems and processes to genuinely enhance our outcomes. This is where metrics and visual tools come into play, serving as our guiding lights in the often murky waters of data.

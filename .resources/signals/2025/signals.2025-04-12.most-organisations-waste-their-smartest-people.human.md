@@ -1,5 +1,6 @@
 ---
 title: Most organisations waste their smartest people
+short_title: Are you wasting your smartest employees’ potential?
 description: Many organisations stifle talented employees with bureaucracy and top-down control, leading to disengagement, wasted potential, and high turnover among their smartest people.
 date: 2025-04-12T15:30:27+01:00
 weight: 765
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:32Z
+  short_title: 2025-06-23T12:14:11Z
 concepts: []
 categories:
 - Uncategorized

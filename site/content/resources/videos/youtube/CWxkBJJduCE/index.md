@@ -1,8 +1,12 @@
 ---
 title: 'Transform Your Software Architecture: The Game-Changing Impact of TDD and Pair Programming'
+short_title: How Do TDD and Pair Programming Improve Software Architecture?
 description: Explores how test-driven development and pair programming improve software architecture, code quality, team skills, and long-term productivity by reducing complexity and errors.
 date: 2024-11-19T16:55:41Z
 weight: 300
+ResourceId: CWxkBJJduCE
+ResourceImport: true
+ResourceType: videos
 slug: transform-your-software-architecture-the-game-changing-impact-of-tdd-and-pair-programming
 aliases:
 - /resources/CWxkBJJduCE
@@ -24,9 +28,6 @@ tags:
 - Technical Mastery
 - Test Driven Development
 - Technical Excellence
-ResourceId: CWxkBJJduCE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: CWxkBJJduCE
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:18Z
+  short_title: 2025-06-23T12:35:28Z
 
 ---
 When I reflect on my journey through [software development]({{< ref "/tags/software-development" >}}), one principle stands out: test-driven development (TDD) is not merely about writing better code; it’s fundamentally about crafting superior architectures. This distinction is crucial, and I want to share my insights on how TDD and pair programming can transform our approach to software design.

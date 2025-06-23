@@ -1,8 +1,12 @@
 ---
 title: The Importance of Evidence-Based Management in Agile Environments
+short_title: Why Is Evidence-Based Management Essential in Agile?
 description: Explains how evidence-based management helps Agile teams use data and key metrics to measure progress, make informed decisions, and drive continuous improvement.
 date: 2024-01-22T11:00:07Z
 weight: 690
+ResourceId: 9kZicmokyZ4
+ResourceImport: true
+ResourceType: videos
 slug: the-importance-of-evidence-based-management-in-agile-environments
 aliases:
 - /resources/9kZicmokyZ4
@@ -36,9 +40,6 @@ tags:
 - Agile Strategy
 - Current Value
 - Organisational Agility
-ResourceId: 9kZicmokyZ4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 9kZicmokyZ4
@@ -55,6 +56,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:22Z
+  short_title: 2025-06-23T12:38:23Z
 
 ---
 In today’s fast-paced, ever-evolving business world, it’s not enough to simply make changes and hope for the best. We need to understand the true impact of our actions—whether they’re improving or hindering our overall success. This is where evidence-based management comes into play. If you're working in an Agile environment, it’s essential to have the right tools in place to measure success and progress effectively.

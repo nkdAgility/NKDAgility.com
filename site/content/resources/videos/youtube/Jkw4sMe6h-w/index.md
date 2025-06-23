@@ -1,8 +1,12 @@
 ---
 title: 'From Control to Empowerment: Embracing Agile Leadership in a Complex World'
+short_title: What Is Agile Leadership and Why Does It Matter Today?
 description: Explores the shift from traditional management to agile leadership, highlighting empowerment, adaptability, and collaboration as key to navigating complex modern challenges.
 date: 2023-08-09T13:43:27Z
 weight: 790
+ResourceId: Jkw4sMe6h-w
+ResourceImport: true
+ResourceType: videos
 slug: from-control-to-empowerment-embracing-agile-leadership-in-a-complex-world
 aliases:
 - /resources/Jkw4sMe6h-w
@@ -19,9 +23,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: Jkw4sMe6h-w
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Jkw4sMe6h-w
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:20Z
+  short_title: 2025-06-23T12:41:49Z
 
 ---
 When I reflect on the evolution of management styles, I often find myself drawn to the stark contrast between traditional management and agile [leadership]({{< ref "/categories/leadership" >}}). This distinction is not merely academic; it’s deeply rooted in the context in which we operate. Context is king, and understanding it is crucial for navigating the complexities of today’s challenges.

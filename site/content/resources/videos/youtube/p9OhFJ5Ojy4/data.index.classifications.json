@@ -1932,5 +1932,43 @@
     "reasoning": "The content does not explicitly mention OKRs at all, resulting in a Direct Mentions score of 0.0. Conceptually, the primary themes discussed—continuous organisational evolution, iterative learning, and agility—align tangentially but not directly with OKRs as discussed in \"Measure What Matters.\" Therefore, a minimal alignment score of 0.3 is assigned. Depth of Discussion is nearly nonexistent regarding OKR theory, practice, or strategic value, leading to a minimal score of 0.1. Intent is slightly relevant (0.5) as the content indirectly emphasizes outcome-based organisational change and iterative inspection/adaptation, similar to OKR principles (though not explicitly referencing them). Audience Alignment is high (7.5) because the target readers are professionals involved in agile organisational practices, likely the same user base that might adopt OKRs. Signal-to-Noise is also relatively high (8.0) due to focused, professional content, even though it doesn't explicitly discuss OKRs. No penalties are applied as it neither contradicts nor references outdated OKR practices. Overall, while the material leans into themes compatible with OKRs (agile mindset, adaptability, experimentation), explicit topical linkage to Objective & Key Results is almost entirely absent, resulting in a very low weighted confidence.",
     "reasoning_summary": "The content discusses agile evolution, iterative experimentation, and change adaptation broadly but does not mention or meaningfully explore OKRs, making explicit relevance minimal despite some conceptual overlap.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:16:58",
+    "ai_confidence": 13.67,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.9,
+    "ai_intent": 2.5,
+    "ai_audience": 3.1,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on organizational agility, evolutionary change, and leadership mindsets. It discusses management practices and the impact of industrialization on workplaces but never directly addresses Product Developers as a role, their accountability, or their responsibilities within product development frameworks. There are no explicit references or substantive exploration of Product Developer topics such as collective accountability, cross-functional skills, or behaviors central to Product Developers. The audience appears to be leadership and change agents, not practitioners focused on Product Developer accountabilities. Thus, scores remain very low or minimal in all dimensions, and the overall confidence reflects this weak but not entirely absent alignment.",
+    "reasoning_summary": "This content discusses organizational change and agility at a broad level, without focusing on Product Developer roles or responsibilities. It does not address Product Developer accountability, structure, or behaviors, resulting in weak alignment with the category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "p9OhFJ5Ojy4",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:02",
+    "ai_confidence": 17.786,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 3.0,
+    "ai_audience": 5.6,
+    "ai_signal": 8.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on organizational change, agility, and management practices, explicitly referencing Agile, Scrum, and DevOps. However, there are no direct mentions or substantive exploration of Collective Intelligence as defined by human-AI collaboration, distributed cognition, or AI team members. The discussion is about human adaptability, leadership, and evolving management for change but lacks any reference to AI agency or partnership. The alignment with the category is therefore minimal, depth on Collective Intelligence is lacking, and there’s no clear indication of this being intended for an audience directly concerned with human-AI collaboration or its socio-technical implications. The excerpt is relevant for leaders and Agile professionals, but not for those specifically seeking guidance or cases about Collective Intelligence in the form defined.",
+    "reasoning_summary": "This content centers on organizational agility and continuous evolution, not the collaboration between humans and AI agents. It lacks discussion of human-AI partnerships, distributed cognition, or the emergence of collective intelligence, so alignment with the 'Collective Intelligence' category is very limited.",
+    "level": "Ignored"
   }
 }

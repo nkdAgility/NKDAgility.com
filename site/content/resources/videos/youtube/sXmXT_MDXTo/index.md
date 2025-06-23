@@ -1,8 +1,12 @@
 ---
 title: 'DevOps: Elevating Your Organization’s Performance Through Bespoke Solutions'
+short_title: How Can Tailored DevOps Improve Software Delivery?
 description: Learn how tailored DevOps strategies help organisations assess current practices, streamline processes, ensure compliance, and boost software quality and delivery frequency.
 date: 2024-08-16T07:18:10Z
 weight: 300
+ResourceId: sXmXT_MDXTo
+ResourceImport: true
+ResourceType: videos
 slug: devops-elevating-your-organization-s-performance-through-bespoke-solutions
 aliases:
 - /resources/sXmXT_MDXTo
@@ -24,9 +28,6 @@ tags:
 - Operational Practices
 - Pragmatic Thinking
 - Software Development
-ResourceId: sXmXT_MDXTo
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: sXmXT_MDXTo
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:06Z
+  short_title: 2025-06-23T12:36:35Z
 
 ---
 In the fast-evolving world of [software development]({{< ref "/tags/software-development" >}}) and operations, no two organizations are the same. Every company, every team, and every goal is unique, requiring a tailored approach to [DevOps]({{< ref "/categories/devops" >}}) that aligns with specific needs and objectives. In this post, we’ll explore how understanding your current state, streamlining practices, and adopting the right tools can lead to higher quality, more frequent deliveries, and reduced friction in your software development process.

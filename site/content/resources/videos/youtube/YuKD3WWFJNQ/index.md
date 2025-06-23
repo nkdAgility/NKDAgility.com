@@ -1,8 +1,12 @@
 ---
 title: 7 Harbingers of the Agile apocalypse - Silence
+short_title: How Can Agile Teams Overcome Silence and Boost Engagement?
 description: Explores how silence in agile teams signals disengagement, and offers strategies to boost stakeholder participation, open communication, and effective sprint reviews.
 date: 2023-10-23T11:00:23Z
 weight: 640
+ResourceId: YuKD3WWFJNQ
+ResourceImport: true
+ResourceType: videos
 slug: 7-harbingers-of-the-agile-apocalypse-silence
 aliases:
 - /resources/YuKD3WWFJNQ
@@ -36,9 +40,6 @@ tags:
 - Pragmatic Thinking
 - Agile Leadership
 - Agile Frameworks
-ResourceId: YuKD3WWFJNQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: YuKD3WWFJNQ
@@ -55,6 +56,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:28Z
+  short_title: 2025-06-23T12:40:14Z
 
 ---
 # Breaking the Silence: Sparking Engagement in Agile Teams 🚀

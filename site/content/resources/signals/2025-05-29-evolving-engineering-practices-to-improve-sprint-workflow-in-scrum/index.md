@@ -1,8 +1,9 @@
 ---
 title: Evolving Engineering Practices to Improve Sprint Workflow in Scrum
+short_title: How Can Engineering Practices Improve Scrum Sprints?
 description: Learn how evolving engineering practices like Feature Flags, TDD, and refactoring enable smoother Sprint workflows and reduce technical debt in Scrum teams.
 date: 2025-05-29T15:30:45+01:00
-weight: 1000
+weight: 220
 ResourceId: jLgGAlKQ7-O
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,21 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:48Z
-concepts: []
+  short_title: 2025-06-23T12:13:21Z
+concepts:
+- Practice
 categories:
-- Uncategorized
-tags: []
+- Engineering Excellence
+- Scrum
+tags:
+- Technical Mastery
+- Software Development
+- Engineering Practices
+- Technical Excellence
+- Pragmatic Thinking
+- Operational Practices
+- Team Performance
+- Technical Debt
 
 ---
 Want to flow work across Sprints without compromising Scrum? Then your engineering practices must evolve. The difference between “Unfinished Backlog Items” and “Undone Work” is critical.

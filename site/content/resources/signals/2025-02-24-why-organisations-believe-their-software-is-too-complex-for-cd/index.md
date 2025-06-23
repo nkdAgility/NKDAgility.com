@@ -1,5 +1,6 @@
 ---
 title: Why Organisations Believe Their Software Is Too Complex for CD
+short_title: Is Software Complexity Really Blocking Continuous Delivery?
 description: Many organisations cite software complexity as a barrier to continuous delivery, but real obstacles are technical debt and lack of investment in quality and automation.
 date: 2025-02-24T10:51:31+00:00
 weight: 205
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:45Z
+  short_title: 2025-06-23T12:15:14Z
 concepts:
 - Practice
 categories:

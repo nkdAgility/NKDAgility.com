@@ -3285,5 +3285,43 @@
     "reasoning": "The content does not mention OKRs or any of their principles, concepts, or frameworks. It centers exclusively on software branch management, continuous integration, and deployment practices—topics unrelated to OKRs in origin, scope, or implementation. There are no references to goals, measurement, alignment, outcomes, or the strategic structures central to Objective Key Results. The intended audience may overlap with those interested in organizational performance, but the content remains almost entirely irrelevant to the OKR category.",
     "reasoning_summary": "This content focuses solely on modern software delivery practices and branch management without any connection to OKRs, their principles, or practices. No references or alignment with Objective Key Results are present.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "xLVnF1dEnfO",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:43",
+    "ai_confidence": 21.7,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.7,
+    "ai_depth": 1.9,
+    "ai_intent": 3.3,
+    "ai_audience": 6.4,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content focuses on modern software delivery practices—continuous integration, feature flags, and test environments—without discussing the Product Developer role, their collective accountabilities, or behaviors. There is no explicit mention of Product Developer or detailed alignment with its accountability framework. The target audience is practitioners in software delivery, and the content is focused and relevant for that, but these are generic software engineering best practices, not insights into the Product Developer role as defined in product development frameworks. No penalties were applied because the content is not outdated or actively undermining the Product Developer concept.",
+    "reasoning_summary": "This content discusses modern software delivery tactics (e.g., CI, feature flags), but does not address Product Developer accountabilities, responsibilities, or role structure. Its focus is process-oriented and generic, not specific to the Product Developer category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "xLVnF1dEnfO",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:45",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.9,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.5,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses modern software delivery methods such as continuous integration, feature flags, and production-like testing to streamline deployments. However, there is no explicit mention or in-depth exploration of human-AI collaboration, AI agency, or collective intelligence themes. The focus is entirely on human team practices, not on emergent human-AI team capabilities or distributed cognition. While the intended audience may overlap with those interested in collective intelligence topics (Agile/DevOps practitioners), there is negligible direct or conceptual overlap, and the signal-to-noise ratio is low for this category.",
+    "reasoning_summary": "This content centers on modern DevOps practices for human teams and does not address human-AI collaboration or the emergence of collective intelligence. It lacks both explicit references and conceptual fit with the 'Collective Intelligence' category.",
+    "level": "Ignored"
   }
 }

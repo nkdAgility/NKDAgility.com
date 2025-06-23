@@ -1906,5 +1906,43 @@
     "reasoning": "The provided content contains no direct mentions or references to Objective and Key Results (OKRs). Instead, it focuses entirely on migration and synchronization solutions for migrating work items, test plans, teams, and project structures between TFS and VSTS. It mainly discusses the technical functionality and practical aspects of VSTS Sync Migration Tools without exploring any aspect of the OKR framework (definition of goals, measurable results, alignment, transparency, accountability structures, or iterative learning). There is minimal conceptual alignment as the content addresses migration and data transfer, which is unrelated to outcome-driven goal setting. The depth of discussion of OKRs is negligible since the content solely explores migration issues. Intent does not align with the core purpose of discussing OKRs as the intent clearly revolves around technical migration issues, unrelated to strategic goal-setting frameworks. The audience (DevOps and Agile practitioners) slightly overlaps with a subset of the audience for OKRs, thus receiving a moderate audience alignment score. The signal-to-noise ratio in respect to OKRs is low, as the vast majority (>95%) is off-topic towards OKRs. No penalties were applied, because although irrelevant, the content does not demonstrate outdated OKR practices or actively contradict OKR principles.",
     "reasoning_summary": "The content focuses strictly on technical migration tools (TFS/VSTS) without mentioning or aligning conceptually with OKRs. Only audience partially overlaps, everything else is off-topic for OKRs.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:18:00",
+    "ai_confidence": 6.52,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.1,
+    "ai_intent": 1.2,
+    "ai_audience": 1.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content centers on migration tooling for VSTS and TFS, focusing on technical implementation, migration requirements, and tool evolution. It does not explicitly mention Product Developers or engage with the role’s accountability, structure, or modern product development responsibilities. There are no references to professional accountability, cross-functionality, or framework integration, nor is the intended audience positioned as Product Developers. The focus is generic tooling and migration rather than role accountability, leading to very low scores across all dimensions.",
+    "reasoning_summary": "This content is about technical migration tools for VSTS/TFS data, not about Product Developer roles, accountabilities, or behaviors. It lacks direct relevance, alignment, or targeted discussion of the Product Developer category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "UjyqYjINUfp",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:52",
+    "ai_confidence": 7.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 0.6,
+    "ai_intent": 2.7,
+    "ai_audience": 1.5,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content discusses an open-source migration tool for work items in TFS/VSTS, emphasizing tool capabilities, migration nuances, and community participation via GitHub pull requests. However, there is no discussion of human-AI collaboration, collective problem-solving, or AI agents as teammates. The community aspect (accepting pull requests) is about collaborative software development, not joint human-AI cognition. No category terms or direct references appear, and none of the required conceptual or practical elements of Collective Intelligence are addressed.",
+    "reasoning_summary": "This content focuses on a migration tool's features and community development, with no discussion of human-AI collaboration or collective intelligence. It does not align with the category definition.",
+    "level": "Ignored"
   }
 }

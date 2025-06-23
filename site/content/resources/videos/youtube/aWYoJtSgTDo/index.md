@@ -1,8 +1,12 @@
 ---
 title: 'Harvesting Agility: What Mushroom Foraging Taught Me About Scrum and Team Dynamics'
+short_title: What Can Mushroom Foraging Teach Us About Agile Teams?
 description: Explores how mushroom foraging offers practical lessons for applying Agile and Scrum, highlighting environment, patience, and team dynamics for continuous improvement.
 date: 2023-08-10T13:30:01Z
 weight: 1000
+ResourceId: aWYoJtSgTDo
+ResourceImport: true
+ResourceType: videos
 slug: harvesting-agility-what-mushroom-foraging-taught-me-about-scrum-and-team-dynamics
 aliases:
 - /resources/aWYoJtSgTDo
@@ -19,9 +23,6 @@ categories:
 - Uncategorized
 tags:
 - Pragmatic Thinking
-ResourceId: aWYoJtSgTDo
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: aWYoJtSgTDo
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:17Z
+  short_title: 2025-06-23T12:41:46Z
 
 ---
 One of my friends often jokes that I see Agile and [Scrum]({{< ref "/categories/scrum" >}}) everywhere, even in the forest during one of my favourite autumn activities: mushroom foraging. And you know what? There’s a surprising amount we can learn about agility from this pastime. Let me share some insights from my experiences that might just resonate with your own journey in Agile practices.

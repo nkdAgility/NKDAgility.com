@@ -1,8 +1,12 @@
 ---
 title: 'Empowering Your Team: Why Quick Fixes in Agile and DevOps Are a Myth'
+short_title: Why Don't Quick Fixes Work in Agile and DevOps?
 description: Explains why lasting Agile and DevOps success requires empowering teams and building internal capability, not relying on quick fixes or external consultants for solutions.
 date: 2024-05-09T06:45:00Z
 weight: 610
+ResourceId: BJZdyEqHhXc
+ResourceImport: true
+ResourceType: videos
 slug: empowering-your-team-why-quick-fixes-in-agile-and-devops-are-a-myth
 aliases:
 - /resources/BJZdyEqHhXc
@@ -31,9 +35,6 @@ tags:
 - Continuous Learning
 - Organisational Culture
 - Social Technologies
-ResourceId: BJZdyEqHhXc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: BJZdyEqHhXc
@@ -50,6 +51,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:53Z
+  short_title: 2025-06-23T12:37:21Z
 
 ---
 In my journey through the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I've often encountered a common misconception: the belief that an external party can swoop in and provide a one-size-fits-all solution to an organisation's challenges. This notion is not only misguided but also detrimental to the very essence of what it means to be agile. 

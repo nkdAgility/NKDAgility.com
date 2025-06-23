@@ -1,8 +1,12 @@
 ---
 title: Unlocking the Power of Immersive Learning for Product Management
+short_title: How Does Immersive Learning Transform Product Management?
 description: Explores how immersive learning in product management blends practical assignments, evidence-based metrics, and reflection to drive real organisational change and improvement.
 date: 2024-08-12T10:03:43Z
 weight: 750
+ResourceId: KAqCTOIB4hk
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-the-power-of-immersive-learning-for-product-management
 aliases:
 - /resources/KAqCTOIB4hk
@@ -26,9 +30,6 @@ tags:
 - Continuous Learning
 - Evidence Based Leadership
 - Pragmatic Thinking
-ResourceId: KAqCTOIB4hk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: KAqCTOIB4hk
@@ -45,6 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:12Z
+  short_title: 2025-06-23T12:36:43Z
 
 ---
 In today's fast-paced business environment, [continuous learning]({{< ref "/tags/continuous-learning" >}}) is not just a luxury—it's a necessity. But how do we move beyond traditional learning methods to something that truly makes an impact? Enter **immersive learning**, a game-changing approach designed to not only impart knowledge but also drive real-world application and transformation within organizations.

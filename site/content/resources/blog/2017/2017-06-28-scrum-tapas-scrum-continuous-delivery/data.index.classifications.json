@@ -1887,5 +1887,43 @@
     "reasoning": "The provided content explicitly centers on the integration between Scrum and Continuous Delivery, specifically emphasizing Agile software development concepts. There is no direct or indirect mention or exploration of Objective and Key Results (OKRs), nor does the material align conceptually or directly relate, even implicitly, to the OKR framework. Discussions around structured goal-setting, outcome measurement, strategic alignment, or any foundational OKR principles (as outlined by John Doerr) are completely absent. While the content's Agile and DevOps context could appeal to a similar audience of practitioners, the lack of direct relevance, terminology, theoretical reference, or practical implications related to OKRs significantly reduces its confidence as fitting under the classified category. No penalties applied as no contradictions or outdated practices are present.",
     "reasoning_summary": "The content does not reference, align with, or discuss OKRs explicitly or implicitly, focusing solely on Scrum and Continuous Delivery integration methods instead.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "LoRDIqNuwD-",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:54",
+    "ai_confidence": 12.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 1.0,
+    "ai_audience": 6.1,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions (-0.5): No explicit or direct reference to Product Developer as a role or accountability. Depth (-0.5): Only generic and surface-level references to Scrum and Continuous Delivery, not about Product Developer specifics. Alignment (-1): No conceptual focus on Product Developer role. Content is from 2017, some references may be outdated (alignment).",
+    "final_score": 12.0,
+    "reasoning": "The content focuses on the relationship between Scrum and Continuous Delivery and provides practical tips for integrating the two. There is no mention, implicit or explicit, of the 'Product Developer' role, its responsibilities, or accountabilities. The emphasis is on agile practices at a process/tool level and does not describe Product Developers, their behaviors, or any relevant accountability structures. Given its 2017 date, some content may be outdated regarding current Product Developer approaches, warranting minor penalties. The scoring reflects the absence of category-specific content, with only tangential audience fit.",
+    "reasoning_summary": "This content explores integrating Scrum and Continuous Delivery, not the Product Developer role or accountability. It lacks substantive discussion about Product Developers, making category alignment low.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "LoRDIqNuwD-",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:46",
+    "ai_confidence": 10.2,
+    "ai_mentions": 0.5,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.8,
+    "ai_intent": 0.9,
+    "ai_audience": 4.9,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.7,
+    "ai_penalty_details": "mentions (-1): no direct reference to collective intelligence or human-AI partnership; alignment (-1): content only addresses human workflow, not hybrid human-AI teams; depth (-0.7): discussion is surface-level and exclusive to Scrum/CD overlap, excludes AI collaboration.",
+    "final_score": 10.0,
+    "reasoning": "The content solely discusses how Scrum and Continuous Delivery work together in agile software development. There are no explicit or implicit references to human-AI collaboration, enhanced outcomes from human-AI teamwork, or any concepts tied to collective intelligence as defined. The examples given and the overall integration tips strictly apply to human teams, and no mention is made of AI agents as team members, distributed cognition involving AI, or frameworks/tools explicitly designed to foster human-AI partnership. The content's intent and depth are outside the meaningful boundaries of this category. Penalties applied for lack of direct mention, alignment, and topic depth.",
+    "reasoning_summary": "This content is focused exclusively on Scrum and Continuous Delivery, addressing human team processes in agile development. It contains no discussion or reference to human-AI collaboration or collective intelligence themes, making it misaligned with the evaluated category.",
+    "level": "Ignored"
   }
 }

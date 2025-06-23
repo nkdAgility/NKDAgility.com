@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Continuous Delivery: How Feature Flags Transform Software Development'
+short_title: How Do Feature Flags Enable Continuous Delivery?
 description: Explains how feature flags enable safe, incremental software releases, support continuous delivery, and use user feedback to improve features before full rollout.
 date: 2025-01-16T06:45:00Z
 weight: 405
+ResourceId: YVrGU0oZmc0
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-continuous-delivery-how-feature-flags-transform-software-development
 aliases:
 - /resources/YVrGU0oZmc0
@@ -36,9 +40,6 @@ tags:
 - Continuous Improvement
 - Azure DevOps
 - Operational Practices
-ResourceId: YVrGU0oZmc0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: YVrGU0oZmc0
@@ -55,6 +56,7 @@ sitemap:
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:57Z
+  short_title: 2025-06-23T12:34:47Z
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), one practice has consistently stood out as a game changer for organisations striving for more frequent delivery: the use of feature flags. This approach not only facilitates [continuous delivery]({{< ref "/tags/continuous-delivery" >}}) but also allows teams to deploy new features to production incrementally, ensuring that they can gather valuable feedback before fully rolling out changes to all users.

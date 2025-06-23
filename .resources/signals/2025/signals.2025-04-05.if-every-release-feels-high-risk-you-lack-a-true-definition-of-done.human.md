@@ -1,5 +1,6 @@
 ---
 title: If every release feels high-risk, you lack a true Definition of Done
+short_title: Is Your Definition of Done Reducing Release Risks?
 description: Releases feel risky when teams lack a clear Definition of Done. Learn how a strong DoD ensures stress-free, reliable software delivery with built-in quality and security.
 date: 2025-04-05T15:30:00+01:00
 weight: 260
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:42Z
+  short_title: 2025-06-23T12:14:20Z
 concepts:
 - Practice
 categories:

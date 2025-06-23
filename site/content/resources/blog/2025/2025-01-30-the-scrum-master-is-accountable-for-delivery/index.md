@@ -1,8 +1,12 @@
 ---
 title: The Scrum Master is accountable for Delivery
+short_title: Is the Scrum Master Accountable for Delivery?
 description: Explains how the Scrum Master is accountable for enabling effective product delivery, fostering team success, and ensuring each sprint produces a usable, valuable increment.
 date: 2025-01-30
 weight: 220
+ResourceId: yMnia2DLI6q
+ResourceImport: false
+ResourceType: blog
 slug: the-scrum-master-is-accountable-for-delivery
 aliases:
 - /resources/yMnia2DLI6q
@@ -32,9 +36,6 @@ tags:
 - Working Software
 - Increment
 - Agile Leadership
-ResourceId: yMnia2DLI6q
-ResourceImport: false
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
@@ -50,13 +51,14 @@ contributors:
 layout: blog
 resourceTypes: blog
 preview: 2025-01-30-the-scrum-master-is-accountable-for-delivery.jpg
-Watermarks:
-  description: 2025-05-07T12:49:52Z
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/if-you-are-not-doing-test-first-then-you-are-doing-it-wrong
   post_date: 2025-06-03T09:00:00Z
   post_type: crosspost
+Watermarks:
+  description: 2025-05-07T12:49:52Z
+  short_title: 2025-06-23T12:34:42Z
 
 ---
 Ultimately, the [Scrum]({{< ref "/categories/scrum" >}}) Master is accountable for the [Scrum Team]({{< ref "/tags/scrum-team" >}})'s success. This includes [product delivery]({{< ref "/tags/product-delivery" >}}), product success, Sprint outcomes, the team's ability, and ensuring the team has the resources, skills, and ethos needed to succeed. While the entire Scrum Team shares accountability for delivery, the [Scrum Master]({{< ref "/tags/scrum-master" >}})’s role is to create the conditions for effective delivery and [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). Delivery is the minimum bar for effectiveness—without it, the team cannot measure or realise value. Without delivery, there is no [increment]({{< ref "/tags/increment" >}}), no feedback, and no way to empirically assess value. A Scrum Team that delivers without value is ineffective but still functional. A Scrum Team that fails to deliver anything cannot be considered effective under any measure.

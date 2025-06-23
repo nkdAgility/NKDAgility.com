@@ -1,8 +1,12 @@
 ---
 title: Mastering Evidence-Based Management for Agile Success
+short_title: How Does Evidence-Based Management Improve Agile Teams?
 description: Learn how Evidence-Based Management uses data to guide Agile teams, improve decision-making, track value, and boost innovation, customer satisfaction, and time to market.
 date: 2024-10-02T13:17:24Z
 weight: 360
+ResourceId: S0h_7ayLpsE
+ResourceImport: true
+ResourceType: videos
 slug: mastering-evidence-based-management-for-agile-success
 aliases:
 - /resources/S0h_7ayLpsE
@@ -36,9 +40,6 @@ tags:
 - Value Delivery
 - Current Value
 - Unrealised Value
-ResourceId: S0h_7ayLpsE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: S0h_7ayLpsE
@@ -55,6 +56,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:39Z
+  short_title: 2025-06-23T12:35:45Z
 
 ---
 In the fast-paced world of Agile, decision-making can often feel like a daunting task. How do you know if you're on the right track? How can you ensure that your product delivers value while staying competitive? This is where **Evidence-Based Management (EBM)** comes into play. By leveraging data to drive decisions, EBM helps organizations make informed choices that align with their goals.

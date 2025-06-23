@@ -1,5 +1,6 @@
 ---
 title: You don’t own your market
+short_title: Are You Listening to Your Market or Falling Behind?
 description: Explains why businesses must prioritise customer needs and agility to stay relevant, avoid missed opportunities, and remain competitive in a rapidly changing market.
 date: 2025-04-18T15:30:32+01:00
 weight: 725
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:22Z
+  short_title: 2025-06-23T12:14:03Z
 concepts: []
 categories:
 - Uncategorized

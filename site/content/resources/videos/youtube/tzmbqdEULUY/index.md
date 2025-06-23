@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Data Migration: How to Minimise Downtime and Keep Your Engineers Productive'
+short_title: How Can You Minimise Downtime During Data Migration?
 description: Learn practical strategies to minimise downtime and maintain engineer productivity during data migration, including planning, dry runs, and effective use of Git for collaboration.
 date: 2024-11-05T06:00:34Z
 weight: 790
+ResourceId: tzmbqdEULUY
+ResourceImport: true
+ResourceType: videos
 slug: mastering-data-migration-how-to-minimise-downtime-and-keep-your-engineers-productive
 aliases:
 - /resources/tzmbqdEULUY
@@ -17,9 +21,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: tzmbqdEULUY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: tzmbqdEULUY
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:24Z
+  short_title: 2025-06-23T12:35:33Z
 
 ---
 When it comes to data migration, one of the most pressing concerns for organisations is often the potential for downtime. However, I’ve learned through experience that this concern can sometimes be overstated, especially in environments with a large number of software engineers. Let me share some insights from my journey that might help you navigate this complex process.

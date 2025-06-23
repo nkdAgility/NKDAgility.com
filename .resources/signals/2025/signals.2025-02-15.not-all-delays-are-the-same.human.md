@@ -1,5 +1,6 @@
 ---
 title: Not all delays are the same
+short_title: How Do You Distinguish Waiting vs Blocked Tasks?
 description: Explains the difference between waiting and blocked tasks, why clear distinction matters in workflows, and how to track and address sources of delay for better optimisation.
 date: 2025-02-15T16:30:01+00:00
 weight: 310
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:57Z
+  short_title: 2025-06-23T12:15:27Z
 concepts:
 - Practice
 categories:

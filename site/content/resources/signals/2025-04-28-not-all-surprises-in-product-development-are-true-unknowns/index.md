@@ -1,5 +1,6 @@
 ---
 title: Not all surprises in product development are true unknowns
+short_title: How Can Better Backlog Management Prevent Surprises?
 description: Many product development surprises stem from poor backlog management, not true unknowns. Regular refinement and reflection help teams anticipate and reduce unexpected issues.
 date: 2025-04-28T15:30:55+01:00
 weight: 380
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:10Z
+  short_title: 2025-06-23T12:13:50Z
 concepts:
 - Practice
 categories:

@@ -1,8 +1,12 @@
 ---
 title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
+short_title: Are Burndown Charts Limiting Agile Team Performance?
 description: Explores why burndown charts can limit Agile teams, highlighting the drawbacks of fixed planning and advocating for adaptability, empirical work, and value flow.
 date: 2024-01-01T07:00:20Z
 weight: 1000
+ResourceId: ymKlRonlUX0
+ResourceImport: true
+ResourceType: videos
 slug: the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 aliases:
 - /resources/ymKlRonlUX0
@@ -25,9 +29,6 @@ tags:
 - Agile Planning
 - Agile Values and Principles
 - Pragmatic Thinking
-ResourceId: ymKlRonlUX0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: ymKlRonlUX0
@@ -44,6 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:44Z
+  short_title: 2025-06-23T12:38:42Z
 
 ---
 Have you ever felt something was off with burndown charts? I know I have. There's always been this nagging feeling that something wasn't quite right. Over the years, people have revered these charts as the ultimate tool for monitoring a team’s progress. But I’ve come to realize that this couldn’t be further from the truth.

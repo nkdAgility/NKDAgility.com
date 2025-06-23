@@ -1,5 +1,6 @@
 ---
-title: "Engineering Excellence in Action: How NKD Agility Helped SLB Streamline Build and Release Across 90 Teams and 13 Countries"
+title: 'Engineering Excellence in Action: How NKD Agility Helped SLB Streamline Build and Release Across 90 Teams and 13 Countries'
+short_title: Streamline Build and Release Across 90 Teams and 13 Countries
 description: NKD Agility helped SLB unify build and release processes across 90 teams in 13 countries, boosting team ownership, efficiency, and engineering accountability.
 date: 2025-06-02
 weight: 65
@@ -8,38 +9,38 @@ ResourceImport: false
 ResourceType: case-studies
 slug: streamline-build-and-release-across-90-teams-and-13-countries
 aliases:
-  - /resources/PMnxyczoB1K
-  - /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
+- /resources/PMnxyczoB1K
+- /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
 aliasesArchive:
-  - /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
+- /resources/case-studies/case-study-engineering-excellence-at-scale-slb-and-nkd-agility
 concepts:
-  - Principle
+- Principle
 categories:
-  - Engineering Excellence
-  - Technical Leadership
-  - DevOps
+- Engineering Excellence
+- Technical Leadership
+- DevOps
 tags:
-  - Software Development
-  - Operational Practices
-  - Pragmatic Thinking
-  - Technical Mastery
-  - Team Collaboration
-  - Team Performance
-  - Modern Source Control
-  - Self Organisation
-  - Large Scale Agility
-  - Release Management
-  - Product Delivery
-  - Sociotechnical Systems
-  - Technical Excellence
-  - One Engineering System
-  - Agentic Agility
-short_title: Streamline Build and Release Across 90 Teams and 13 Countries
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+- Technical Mastery
+- Team Collaboration
+- Team Performance
+- Modern Source Control
+- Self Organisation
+- Large Scale Agility
+- Release Management
+- Product Delivery
+- Sociotechnical Systems
+- Technical Excellence
+- One Engineering System
+- Agentic Agility
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-16T11:50:57Z
----
+  short_title: 2025-06-23T12:33:15Z
 
+---
 ## Client Context
 
 [SLB](https://www.slb.com/) (formerly Schlumberger), a global energy technology company, had over 90 engineering teams in 13 locations across 9 countries contributing to a single product: Petrel. Each team operated independently, choosing its own source control system, build environment, and branching strategy. Some used Git, others Team Foundation Version Control (TFVC), SVN, or even in-house tools.

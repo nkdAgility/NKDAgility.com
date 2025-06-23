@@ -3189,5 +3189,43 @@
     "reasoning": "The content contains no explicit mentions of OKRs (0.0 'mentions') and primarily focuses on capacity planning, strategic alignment, flow, and Lean concepts rather than explicitly discussing OKR methodologies. Although it deep-dives into Lean efficiency, WIP limits, throughput, and lead times—which are congruent with Agile and continuous improvement principles—it does not explicitly reference or delve into OKR-specific theory, implementation approaches, or John Doerr's core foundations such as Objectives, Key Results, stretch goals, alignment through transparency, or outcome-based progress tracking. There's weak partial alignment conceptually (4.5 'alignment') due to some high-level agreement in intent around measurable outcomes and organizational improvement; however, it never explicitly frames these topics within the OKR framework. Depth regarding OKRs is minimal (2.5 'depth') since detailed exploration of OKR principles, pitfalls, or strategic values is absent. The intent partially aligns (4.0 'intent') due to its goal of organizational clarity, strategic focus, outcome-based improvement, and leaner processes—even though indirect and not specifically OKR-aligned. Audience alignment is high (8.5 'audience') because the targeted audience likely overlaps significantly with individuals interested in OKRs—senior leadership, agile coaches, and organizational strategists. The content is focused, relevant to its topic, and predominantly free from noise (8.0 'signal') despite its indirect relevance to OKRs. No penalties were applied since content is neither outdated nor contradictory, merely indirectly related to the detailed OKR framework.",
     "reasoning_summary": "Although relevant to agile strategy and improvement, the content does not explicitly address OKRs, lacking direct mentions or deep engagement with OKR-specific principles and methodology.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "AhxlPTOD1yy",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:01",
+    "ai_confidence": 35.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 4.0,
+    "ai_intent": 2.1,
+    "ai_audience": 4.7,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content is a comprehensive argument for system-level capacity planning, strongly advocating Lean and Agile principles, and focuses on shifting organizational perception from individual resource management to systemic flow. However, it does not mention Product Developer as a role or accountability, nor does it discuss the specific purposes, structures, or responsibilities that define Product Developers in frameworks like Scrum. The discussion remains at the process, leadership, and system-optimization level, addressing team and system flow, WIP, and leadership behaviors, but does not touch on collective accountability, skillsets, technical practices, or any behavioral aspects tied directly to the Product Developer accountability. The content also lacks references to professional accountability or output/outcome definitions specific to Product Developers. While the audience (practitioners at team and leadership levels) may overlap, and there are indirect connections to topics like Sprint Backlog and teams, these are generalized and not mapped to Product Developer as defined by the classification. The signal-to-noise ratio is moderate; the content is focused, but none of the focus maps directly to the Product Developer category.",
+    "reasoning_summary": "This content advocates for Lean capacity planning and system-level flow but does not reference, describe, or align with the Product Developer role, accountability, or specific practices defined in product development frameworks. Its focus is organizational, not on Product Developers.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "AhxlPTOD1yy",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:03",
+    "ai_confidence": 17.42,
+    "ai_mentions": 0.6,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.6,
+    "ai_intent": 2.5,
+    "ai_audience": 5.2,
+    "ai_signal": 5.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content thoroughly addresses system-level flow, Lean, and Agile principles in capacity planning, focusing on moving from individual to collective team optimization. However, it never explicitly references AI, human-AI collaboration, or enhanced cognition from human-AI partnership—core requirements for the Collective Intelligence category. Human collaboration is present, but exclusively among people, not with AI agents as peers or contributors. The discussion is deep and highly relevant to organizational flow and leadership in Agile contexts but lacks all Collective Intelligence category hallmarks (e.g., human-AI teaming, distributed cognition with AI, or hybrid decision-making frameworks). The confidence score reflects this: while the content is highly relevant to collective/team dynamics, it does not fit the explicit collaboration-with-AI focus of the category.",
+    "reasoning_summary": "This content excels in system-level team capacity and flow optimization, directly serving Agile and Lean practitioners. However, it does not address human-AI collaboration or the emergent intelligence from such partnerships, so it does not align with the Collective Intelligence category as defined.",
+    "level": "Ignored"
   }
 }

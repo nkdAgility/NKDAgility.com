@@ -1,8 +1,12 @@
 ---
 title: Security by Design Building Secure Software
+short_title: How Does Shift Left Improve Software Security?
 description: Explains how integrating security and quality early in software development—using practices like TDD, pair programming, and continuous feedback—builds robust, reliable systems.
 date: 2024-11-26T13:35:33Z
 weight: 355
+ResourceId: NgoP5W5y7Gs
+ResourceImport: true
+ResourceType: videos
 slug: security-by-design-building-secure-software
 aliases:
 - /resources/NgoP5W5y7Gs
@@ -23,9 +27,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Product Delivery
-ResourceId: NgoP5W5y7Gs
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: NgoP5W5y7Gs
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:05Z
+  short_title: 2025-06-23T12:35:19Z
 
 ---
 # Shift Left: Building Quality and Security From the Start

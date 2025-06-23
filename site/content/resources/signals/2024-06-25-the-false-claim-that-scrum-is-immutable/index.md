@@ -1,5 +1,6 @@
 ---
 title: The false claim that Scrum is immutable
+short_title: Is Scrum Really Immutable or Open to Adaptation?
 description: Clarifies that Scrum is flexible and adaptable, not strictly immutable, and highlights the importance of transparency when modifying its core framework or practices.
 date: 2024-06-25T11:37:00Z
 weight: 700
@@ -48,6 +49,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-07T13:02:48Z
+  short_title: 2025-06-23T12:15:43Z
 
 ---
 The false claim that "Scrum is immutable"!

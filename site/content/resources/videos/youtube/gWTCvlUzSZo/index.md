@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Team Potential: Why Every Scrum Master Needs a Quality Camera for Effective Engagement'
+short_title: Do Scrum Masters Need Quality Cameras for Engagement?
 description: Explains how a quality camera helps Scrum Masters boost team engagement, read body language, and foster better communication in remote meetings through clear visuals.
 date: 2023-09-21T07:00:14Z
 weight: 1000
+ResourceId: gWTCvlUzSZo
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
 aliases:
 - /resources/gWTCvlUzSZo
@@ -19,9 +23,6 @@ categories:
 - Uncategorized
 tags:
 - Team Collaboration
-ResourceId: gWTCvlUzSZo
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: gWTCvlUzSZo
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:23Z
+  short_title: 2025-06-23T12:41:03Z
 
 ---
 As a [Scrum]({{< ref "/categories/scrum" >}}) Master, I’ve often found myself reflecting on the tools and techniques that enhance our interactions with teams. One of the most underrated yet impactful tools in our arsenal is, surprisingly, a good camera. You might be wondering, “What’s the big deal about cameras?” Well, let me share my thoughts and experiences on this topic.

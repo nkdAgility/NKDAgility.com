@@ -3285,5 +3285,43 @@
     "reasoning": "The content discusses branching strategies and emphasizes simplicity and flow in version control (GitHub Flow, Release Flow), but it does not mention or discuss Objective Key Results (OKRs) or their principles. There are no direct or implied OKR concepts, goals, or frameworks present. The content is focused entirely on practical DevOps branching and delivery methods. Although the audience might overlap with those interested in OKRs (as both can be relevant for agile/DevOps teams), there is no substantive or conceptual alignment with the OKR framework, nor discussion of objectives, key results, measurement, or outcome-based planning.",
     "reasoning_summary": "The content addresses branching strategies for software delivery and does not discuss Objectives and Key Results (OKRs) at any level. Concepts, intent, and terminology do not align with the OKR framework or its key principles.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "qwciWeifRRf",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:54",
+    "ai_confidence": 20.42,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.5,
+    "ai_intent": 3.7,
+    "ai_audience": 5.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on branching strategies and advocates for simplicity in version control, specifically discussing GitHub Flow and Release Flow. There is no direct mention or exploration of the 'Product Developer' role, accountability, or associated behaviors as defined by the category. The advice targets engineering teams in general and does not delve into product development frameworks or collective accountability. While the practices may be relevant for Product Developers, the intent and framing do not align closely, resulting in low scores for mentions, alignment, depth, and intent. The audience is somewhat aligned (engineering teams), and the content is focused (high signal), but it does not address the key topics or formal accountability detailed in the Product Developer tag.",
+    "reasoning_summary": "This content discusses effective branching strategies for software delivery but does not address Product Developer accountability, role definitions, or responsibilities. It targets engineering teams, not Product Developers explicitly or in the context required by the category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "qwciWeifRRf",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:53",
+    "ai_confidence": 11.93,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.0,
+    "ai_audience": 6.3,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content exclusively discusses branching strategies in software development, focusing on team productivity through simplicity (GitHub Flow, Release Flow). There is no explicit or implicit discussion of human-AI collaboration, agency, or emergent collective intelligence. The audience partially overlaps (engineering teams), but no points align with the core category definition, resulting in extremely low confidence.",
+    "reasoning_summary": "This content is strictly about human team workflow optimization in code management and does not touch on human-AI collaboration, agency, or any aspect of Collective Intelligence as defined. Alignment and relevance are minimal.",
+    "level": "Ignored"
   }
 }

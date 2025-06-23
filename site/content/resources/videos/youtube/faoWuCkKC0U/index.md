@@ -1,15 +1,16 @@
 ---
 title: Reasons to do a PSPO-A Course in 60 Seconds
+short_title: Is the PSPO-A Course Right for Product Managers?
 description: Discover how the PSPO-A course helps product managers and owners master Agile and Scrum, boost collaboration, and drive effective product management in any organisation.
 date: 2023-07-11T14:00:32Z
 weight: 1000
+ResourceId: faoWuCkKC0U
+ResourceImport: true
+ResourceType: videos
 slug: reasons-to-do-a-pspo-a-course-in-60-seconds
 aliases:
 - /resources/faoWuCkKC0U
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
-ResourceId: faoWuCkKC0U
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: faoWuCkKC0U
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:53Z
+  short_title: 2025-06-23T12:42:14Z
 
 ---
 ## Step Up Your Game with the PSPO-A Course

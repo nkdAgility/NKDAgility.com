@@ -1,8 +1,9 @@
 ---
 title: The Hidden Impact of Routine Jobs on Worker Dignity
+short_title: Do Routine Jobs Undermine Worker Dignity?
 description: Explores how routine, repetitive jobs affect worker dignity, questioning their value as automation rises and urging a shift toward meaningful, problem-solving work.
 date: 2025-06-13T15:30:38+01:00
-weight: 1000
+weight: 835
 ResourceId: Gp4e7gPmb-Q
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,12 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:34Z
+  short_title: 2025-06-23T12:13:08Z
 concepts: []
 categories:
 - Uncategorized
-tags: []
+tags:
+- Miscellaneous
 
 ---
 When we invented jobs like scanning groceries, packing boxes, or cleaning toilets, we weren’t aiming for dignity. We were optimising output. We engineered these roles to be mindless, repeatable, and replaceable.

@@ -1939,5 +1939,43 @@
     "reasoning": "The content exclusively focuses on Professional Scrum Master (PSM) and Professional Scrum Developer (PSD) training courses held in 2016 in Oslo and Kongsberg. It presents thorough details of course dates, content scope, benefits, and intended audience. However, it includes no explicit references or implicit relevance to Objective & Key Results (OKRs), nor any of their theoretical foundations, implementation specifics, or strategic intentions. It does not match any aspects of OKR methodology such as alignment with strategic goals, key results measurement, transparency, accountability, or iterative reviews. Despite targeting Agile and Scrum professionals who might show interest in topic like OKRs, the content itself does not directly or indirectly cover anything related to OKRs. Consequently, the confidence score is extremely low, reflecting the content's near-total irrelevance to the specified category.",
     "reasoning_summary": "The content describes Scrum courses and DevOps practices without addressing Objective & Key Results (OKRs) at all, making it nearly irrelevant to this category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "gS7et381AGm",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:18:00",
+    "ai_confidence": 21.73,
+    "ai_mentions": 2.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.6,
+    "ai_intent": 2.3,
+    "ai_audience": 5.1,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 22.0,
+    "reasoning": "The content primarily announces Scrum Master and Developer training courses. While 'Professional Scrum Developer' is mentioned, its description focuses on technical training (tools and practices like TDD/SOLID, Visual Studio, DevOps) without specific reference to Product Developer role, accountability, or collective responsibilities as defined in modern frameworks. There is no clear discussion of the Product Developer concept, its behaviors, cross-functional skills, or integration with Product Owner/Scrum Master roles. The mention of 'teams' and 'delivering high quality software' aligns tangentially but does not address the accountability or mindset defining Product Developers. The audience could include Product Developers, but the content as written doesn't focus on those aspects specifically.",
+    "reasoning_summary": "This content mainly lists and describes Scrum course offerings, with only superficial mention of Scrum Developers. It lacks focused discussion on Product Developer accountability, behaviors, or cross-functional responsibilities. Alignment to the Product Developer category is minimal.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "gS7et381AGm",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:18:05",
+    "ai_confidence": 7.2,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.7,
+    "ai_intent": 0.5,
+    "ai_audience": 0.9,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 4,
+    "ai_penalty_details": "All dimensions penalized by 0.9–1.0 for outdated content (2016 dates, obsolete tool focus) and complete absence of human-AI collaboration discussion; category not mentioned or aligned.",
+    "final_score": 7.0,
+    "reasoning": "The content promotes 2016 Scrum and DevOps training courses in Norway, describing curricula, logistics, and audiences. It focuses exclusively on human team collaboration, coaching, and practical skills with tools like TFS/VSTS. There is no mention of AI, human-AI collaboration, or the emergence of complementary team capabilities involving AI agents. Signals entirely revolve around advanced Scrum, DevOps, and software practices for human teams. Due to content age (2016) and no overlap in intent or substance with the Collective Intelligence category, heavy penalties are assessed across dimensions.",
+    "reasoning_summary": "This is a human-focused Scrum/DevOps training announcement with no explicit or implicit ties to human-AI collaboration or Collective Intelligence. The referenced practices and tools are outdated and do not address AI team-member dynamics.",
+    "level": "Ignored"
   }
 }

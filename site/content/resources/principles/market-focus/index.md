@@ -1,8 +1,12 @@
 ---
 title: Market Focus
+short_title: How to Quickly Adapt Projects to User Feedback?
 description: Explains how to adjust projects quickly in response to user feedback, focusing on implementing changes within timelines of less than one month.
 date: 2024-09-17
 weight: 1000
+ResourceId: T6DrE9pN0ds
+ResourceImport: false
+ResourceType: principles
 slug: market-focus
 aliases:
 - /learn/agile-delivery-kit/first-principals/market-focus/
@@ -13,9 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: T6DrE9pN0ds
-ResourceImport: false
-ResourceType: principles
 ResourceContentOrigin: Human
 recommendedContent: 
 creator: Martin Hinshelwood
@@ -29,6 +30,7 @@ card:
   title: Market Focus
 Watermarks:
   description: 2025-05-07T12:57:49Z
+  short_title: 2025-06-23T12:36:11Z
 
 ---
 Update the work based on user feedback on timelines shorter than one month

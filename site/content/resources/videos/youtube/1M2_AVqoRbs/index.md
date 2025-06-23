@@ -1,8 +1,12 @@
 ---
 title: 'Transforming Technical Debt: Unlocking Opportunities for Innovation and Value'
+short_title: How Can Addressing Technical Debt Drive Innovation?
 description: Explores how addressing technical debt boosts innovation, team morale, and value delivery by enabling agile development, better products, and proactive organisational growth.
 date: 2024-11-20T16:53:31Z
 weight: 640
+ResourceId: 1M2_AVqoRbs
+ResourceImport: true
+ResourceType: videos
 slug: transforming-technical-debt-unlocking-opportunities-for-innovation-and-value
 aliases:
 - /resources/1M2_AVqoRbs
@@ -19,9 +23,6 @@ categories:
 - Product Development
 tags:
 - Software Development
-ResourceId: 1M2_AVqoRbs
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 1M2_AVqoRbs
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:13Z
+  short_title: 2025-06-23T12:35:25Z
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is often viewed through a narrow lens, primarily as a cost that accumulates over time. However, I believe it’s crucial to shift our perspective and recognise it as a missed opportunity. Every moment we allow technical debt to linger, we’re essentially leaving money on the table. This isn’t just about the financial implications; it’s about the potential innovations and improvements we forgo because we haven’t addressed those underlying issues.

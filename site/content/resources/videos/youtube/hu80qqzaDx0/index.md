@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Team Potential: How Measurement Influences Engagement and Collaboration'
+short_title: How Do Metrics Affect Team Engagement and Collaboration?
 description: Explores how performance metrics shape team engagement and collaboration, highlighting the impact of measurement on behaviour, motivation, and organisational culture.
 date: 2024-09-11T13:45:58Z
 weight: 1000
+ResourceId: hu80qqzaDx0
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-team-potential-how-measurement-influences-engagement-and-collaboration
 aliases:
 - /resources/hu80qqzaDx0
@@ -20,9 +24,6 @@ categories:
 tags:
 - Team Motivation
 - Team Performance
-ResourceId: hu80qqzaDx0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: hu80qqzaDx0
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:58:32Z
+  short_title: 2025-06-23T12:36:16Z
 
 ---
 In my journey through various organisations, I've come to realise a fundamental truth: the way we measure people profoundly influences their behaviour. This insight has been a game-changer for me, especially when navigating the complexities of team dynamics and [organisational culture]({{< ref "/tags/organisational-culture" >}}). 

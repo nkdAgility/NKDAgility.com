@@ -1,8 +1,12 @@
 ---
 title: How Do You Know How Long It Takes to Deliver Value?
+short_title: How Can Agile Teams Measure and Improve Time to Market?
 description: Explains how Agile teams can measure and improve Time to Market using key metrics like lead time, cycle time, and time to fix to deliver value to customers faster.
 date: 2024-01-26T11:00:51Z
 weight: 475
+ResourceId: xaIDtZcoVXE
+ResourceImport: true
+ResourceType: videos
 slug: how-do-you-know-how-long-it-takes-to-deliver-value
 aliases:
 - /resources/xaIDtZcoVXE
@@ -36,9 +40,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Current Value
-ResourceId: xaIDtZcoVXE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: xaIDtZcoVXE
@@ -55,6 +56,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:10Z
+  short_title: 2025-06-23T12:38:14Z
 
 ---
 Delivering value to customers efficiently is a key goal for any Agile team. But how do you know how long it actually takes? That’s where **Evidence-Based Management (EBM)** comes into play. One of the key value areas in EBM is **[Time to Market]({{< ref "/tags/time-to-market" >}})**—a critical factor that helps organizations measure and improve how quickly they deliver valuable outcomes. This post dives into the importance of **Time to Market**, the metrics you can use to measure it, and why it’s crucial for business success. 🚀

@@ -1941,5 +1941,43 @@
     "reasoning": "The content does not explicitly mention or reference Objectives and Key Results (OKRs) at all. Instead, it exclusively critiques the Scaled Agile Framework (SAFe) as overly rigid, prescriptive, and bureaucratic. It emphasizes agility, innovation, adaptation, evolution, and critique of frameworks that prescribe exact processes and approaches. Though there is a peripheral thematic overlap in terms of agile and iterative thinking, the article never specifically discusses OKRs or related outcome-based measurement, strategic alignment, or explicit iterative review mechanisms central to the definition of OKRs provided. Given the complete absence of direct mentions and explicit conceptual engagement with OKRs, combined with a different primary intent and theme focused critically on SAFe and agile transformation, alignment and depth scores are extremely low. The audience, however, is moderately aligned—agile practitioners and executives who could also be interested in OKRs. The signal-to-noise ratio is moderate since the content is focused on agile frameworks, albeit missing OKR-specific relevance entirely. No penalties were warranted as the content is neither outdated nor explicitly contradictory towards OKR concepts.",
     "reasoning_summary": "The content strongly critiques SAFe and generally discusses agile business evolution but does not reference or align specifically with Objective & Key Results frameworks.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "kmQceaX7e-O",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:03",
+    "ai_confidence": 7.0,
+    "ai_mentions": 0.1,
+    "ai_alignment": 2.0,
+    "ai_depth": 0.6,
+    "ai_intent": 1.2,
+    "ai_audience": 1.1,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.4,
+    "ai_penalty_details": "Mentions penalized (-0.9) for lack of explicit use of 'Product Developer'; Alignment (-0.5), Depth (-0.5), Intent (-0.4), and Audience (-0.1) penalized for off-category framing—content targets broad organizational change/SAFe critique, not Product Developer accountability or role.",
+    "final_score": 7.0,
+    "reasoning": "The content focuses heavily on critiquing SAFe, organizational change, and agile transformation in large enterprises. There is no direct or indirect discussion of Product Developer as a role, its accountability, or its practices. Key signals, such as collective responsibility, integration of human and automated contributors, Sprint Goal relationships, or Definition of Done, are absent. Any tangential relevance is limited to generic references to software development and agility, which do not match the formal scope and specificity of the Product Developer category.",
+    "reasoning_summary": "This piece critiques SAFe and organizational rigidity, not the Product Developer role or its specific accountabilities. There is no substantial content on Product Developer responsibilities, structure, or behaviors, making it a poor fit for the specified category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "kmQceaX7e-O",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:03",
+    "ai_confidence": 8.1,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.8,
+    "ai_intent": 1.7,
+    "ai_audience": 1.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content critiques the adoption of SAFe, emphasizing rigidity versus genuine business agility, but at no point does it reference or discuss human-AI collaboration or partnerships. There are no explicit or implicit mentions of AI, collective intelligence, distributed cognition, or hybrid human-AI teams. Its main theme is organizational change in agile practices, targeting a management/exec audience with concerns about frameworks like SAFe becoming bureaucratic. It lacks relevance to the core definition or any topic key to the category; all dimensions are scored near the bottom.",
+    "reasoning_summary": "This content focuses on organizational agility and critiques SAFe's rigidity, with no discussion of AI, human-AI collaboration, or collective intelligence. It is not relevant to the collective intelligence category.",
+    "level": "Ignored"
   }
 }

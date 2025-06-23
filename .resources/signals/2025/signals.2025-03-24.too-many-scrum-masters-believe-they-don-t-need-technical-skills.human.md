@@ -1,5 +1,6 @@
 ---
 title: Too many Scrum Masters believe they don’t need technical skills
+short_title: Do Scrum Masters Need Technical Skills to Succeed?
 description: Highlights the importance of technical knowledge for Scrum Masters, arguing that understanding team-specific skills is essential to effectively support and enable their teams.
 date: 2025-03-24T16:30:03+00:00
 weight: 335
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:55Z
+  short_title: 2025-06-23T12:14:33Z
 concepts: []
 categories:
 - Scrum

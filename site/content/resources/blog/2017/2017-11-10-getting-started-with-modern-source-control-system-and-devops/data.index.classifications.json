@@ -1935,5 +1935,43 @@
     "reasoning": "This content primarily revolves around adopting modern source control practices, DevOps principles, release pipelines, automation, and software delivery efficiency. Objectives and Key Results (OKRs), as defined explicitly by John Doerr, are completely absent in the provided content. There are no direct or indirect mentions or discussions about the OKR framework, including goals or measurement methods that match OKR standards. There is also no reference to strategic alignment through explicitly defined measurable outcomes or iterative review and improvement characteristic of OKRs. The only slight conceptual alignment might come from the implication of measuring performance (lead/cycle time, automated tests), but this alignment is minimal and indirect, and not explicitly connected to the OKR system as specified by John Doerr's principles. Thus, direct mentions, conceptual alignment, depth of OKR-focused discussion, and intent scores are extremely low. Audience alignment and signal-to-noise ratio score reasonably higher because the content does target similar audiences (agile teams, DevOps professionals, professional software developers) and maintains relevant professional quality discussions on related process improvements, even though it lacks explicit OKR relevance. No penalty is applied since there are no contradictions, outdated practices, or negative tones towards OKRs. Hence, the overall confidence in categorizing this content under OKRs remains relatively low.",
     "reasoning_summary": "The content explores DevOps tools, automation, and software delivery practices extensively but lacks explicit mentions or conceptual connections to Objective & Key Results (OKRs), resulting in minimal category alignment.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "bkiQSbbO78R",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:42",
+    "ai_confidence": 23.8,
+    "ai_mentions": 1.1,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.0,
+    "ai_intent": 2.1,
+    "ai_audience": 6.2,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 24.0,
+    "reasoning": "Direct mention of 'Professional Scrum Developer' and 'Development Team' appear in reference to training or generic Scrum contexts, not an in-depth exploration of Product Developer accountability or mindset. The piece focuses on DevOps, source control, release pipelines, and automation best practices for modern teams but lacks explicit discussion of Product Developer roles, structures, responsibilities, or collective accountability. Mentions of quality, team responsibility, and professionalism slightly touch on relevant behaviors, but these are discussed generically, not in the specific Product Developer context. The main audience is practitioners aiming to improve engineering and DevOps capabilities, not specifically Product Developers per formal frameworks. There is minimal content signal relevant to the Product Developer definition.",
+    "reasoning_summary": "While the content makes passing references to Development Teams and Professional Scrum Developers, its focus is on modern source control and DevOps adoption, not Product Developer accountability. Only minor relevance is found, so confidence in this classification is low.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "bkiQSbbO78R",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:45",
+    "ai_confidence": 18.64,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.4,
+    "ai_intent": 2.1,
+    "ai_audience": 5.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content centers on modern source control, DevOps practices, and team collaboration focused solely on human teams and technical tools. It discusses best (and 'good') practices for software delivery, automation, testing, and tooling like VSTS, but there is no meaningful exploration of human-AI collaboration, distributed cognition between humans and AI agents, or emergence of collective intelligence as defined. Audience and relevance for practitioners are moderate, but almost all examples, advice, and scenarios explicitly exclude AI agency or partnership. The only applicable overlap is generic references to 'team collaboration', which is not in the human-AI sense, offering a faint conceptual connection but not in substance. Therefore, the scores are low for direct mentions, conceptual alignment, depth, and overall intent.",
+    "reasoning_summary": "The content focuses on human team collaboration, modern source control, and DevOps best practices without addressing human-AI collaboration or collective intelligence as defined in the category. It does not fit the category beyond very tangential and generic references to collaboration.",
+    "level": "Ignored"
   }
 }

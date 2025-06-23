@@ -1,8 +1,12 @@
 ---
 title: 'The Pitfalls of Agile Burndowns: Stop Being Agile Bandits'
+short_title: Are Agile Burndown Charts Hindering Real Progress?
 description: Explains why relying on Agile burndown charts leads to over-planning and false progress, and advocates for minimal, adaptive planning and continuous value delivery.
 date: 2024-01-09T11:00:51Z
 weight: 1000
+ResourceId: P2UnYGAqJMI
+ResourceImport: true
+ResourceType: videos
 slug: the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 aliases:
 - /resources/P2UnYGAqJMI
@@ -27,9 +31,6 @@ tags:
 - Agile Frameworks
 - Agile Values and Principles
 - Continuous Improvement
-ResourceId: P2UnYGAqJMI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: P2UnYGAqJMI
@@ -46,6 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:31Z
+  short_title: 2025-06-23T12:38:32Z
 
 ---
 Agile teams often use burndown charts to track progress throughout a sprint. It seems like a solid approach—after all, it’s a visual indicator of how much work remains. But let me be clear: **burndowns are Agile banditry**! In fact, relying too heavily on burndowns could lead your team down a treacherous path of excessive upfront planning and false security. Let’s explore why burndowns aren’t the hero of Agile, and how embracing a continuous flow mindset can lead to real value.

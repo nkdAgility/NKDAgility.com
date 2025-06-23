@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Agile’s Core: Questioning to Create Value'
+short_title: How Does Questioning Drive Value in Agile Teams?
 description: Explores how questioning, continuous improvement, and team empowerment drive Agile success, helping organisations adapt quickly, spot inefficiencies, and create lasting value.
 date: 2024-01-23T07:00:07Z
 weight: 750
+ResourceId: M4ap4uNzptg
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-agile-s-core-questioning-to-create-value
 aliases:
 - /resources/M4ap4uNzptg
@@ -38,9 +42,6 @@ tags:
 - Software Development
 - Market Adaptability
 - Business Agility
-ResourceId: M4ap4uNzptg
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: M4ap4uNzptg
@@ -57,6 +58,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:21Z
+  short_title: 2025-06-23T12:38:22Z
 
 ---
 In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:

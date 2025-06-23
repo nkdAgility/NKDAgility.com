@@ -3091,5 +3091,43 @@
     "reasoning": "The content never explicitly mentions OKRs and doesn't cover related concepts like Objectives, Key Results, alignment through transparency, iterative goal measurement, or strategic alignment—the central concepts defining OKRs according to John Doerr. Instead, it provides a detailed technical discussion around topic branches and branching strategy, emphasizing modularity, continuous integration, and team discipline, key DevOps and Agile engineering practices. While the general audience targeted by the content—software development teams and leaders practicing Agile and DevOps—does partially overlap with the audience for OKRs, the alignment to OKR-specific topics is minimal. There are marginal themes around agile development and integrating work towards broader goals, only implicitly and indirectly related to OKRs. However, these brief implied connections are insufficient for meaningful alignment and provide only minimal conceptual overlap. Penalties were not applied, as the content does not contradict or undermine the OKR framework nor present outdated information; it simply addresses a separate topic area unrelated to OKRs explicitly.",
     "reasoning_summary": "This content focuses on branching strategies, continuous delivery, and agile engineering practices. It does not explicitly, nor implicitly, address OKRs or outcome-based goal-setting and measurement practices, showing little alignment with this category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "O_VlmDj7n3V",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:06",
+    "ai_confidence": 23.48,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.8,
+    "ai_intent": 2.2,
+    "ai_audience": 7.6,
+    "ai_signal": 9.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 23.0,
+    "reasoning": "The content is focused on technical branching strategies and their impact on software quality and agility. While it references concepts like cross-team collaboration, Sprint Goals, and collaborative accountability, it does not explicitly or thoroughly discuss 'Product Developer' as a role or accountability. There are no direct mentions, and the core framing is around development practices rather than formal responsibilities or structures of Product Developers. The audience is likely practitioners (developers, technical leaders), somewhat aligned with Product Developer, but the primary substance is not tied to the specific definition or accountability of the category.",
+    "reasoning_summary": "This content centers on branching strategies for software delivery, aligning generally with agile teams but lacking explicit focus on Product Developer roles, accountabilities, or behaviors as defined in modern frameworks. The relevance is at best tangential.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "O_VlmDj7n3V",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:24",
+    "ai_confidence": 8.2,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 1.0,
+    "ai_audience": 3.0,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content exclusively discusses software branching strategies to improve code quality, modularity, and agile practices. There is strong emphasis on team collaboration within human teams but no mention or substantive discussion of human-AI collaboration, distributed cognition between people and AI, or any other hallmark of collective intelligence as defined. All collaboration examples and recommendations are about humans working together via technical process discipline—AI is neither referenced nor implied as an active team participant. Audience targeting (technical/leadership roles) slightly overlaps with possible collective intelligence audience, but otherwise, the fit is extremely weak.",
+    "reasoning_summary": "The content focuses solely on human team practices for software branching and agile delivery, without addressing human-AI collaboration, shared cognition, or collective intelligence. There is negligible relevance to the category as defined.",
+    "level": "Ignored"
   }
 }

@@ -1,8 +1,12 @@
 ---
 title: 'Transforming Waste into Value: How to Boost ROI with Agile Metrics'
+short_title: How Can Agile Metrics Reduce Waste and Boost ROI?
 description: Learn how agile metrics like innovation rate, product index, usage index, and version adoption help identify waste and improve ROI by focusing on value-driven engineering.
 date: 2024-12-17T06:00:00Z
 weight: 340
+ResourceId: Gym5-p-mNtw
+ResourceImport: true
+ResourceType: videos
 slug: transforming-waste-into-value-how-to-boost-roi-with-agile-metrics
 aliases:
 - /resources/Gym5-p-mNtw
@@ -27,9 +31,6 @@ tags:
 - Software Development
 - Market Adaptability
 - Organisational Agility
-ResourceId: Gym5-p-mNtw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Gym5-p-mNtw
@@ -46,6 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:56:40Z
+  short_title: 2025-06-23T12:35:00Z
 
 ---
 Most organisations are blissfully unaware of the sheer amount of waste lurking within their systems. It’s staggering to think about the money they’re haemorrhaging simply because they lack a focus on [engineering excellence]({{< ref "/categories/engineering-excellence" >}}). In the context of agile and [business agility]({{< ref "/tags/business-agility" >}}), we need to embrace a continuous mindset—[continuous integration]({{< ref "/tags/continuous-integration" >}}), [continuous delivery]({{< ref "/tags/continuous-delivery" >}}), continuous feedback, and continuous testing. This dynamic nature of operations allows us to identify problems sooner, which means they’re smaller and easier to address. By doing so, we not only eliminate waste but also gather valuable data and telemetry that help us understand our processes better. This understanding is crucial for pinpointing problem areas and taking action before costs spiral out of control.

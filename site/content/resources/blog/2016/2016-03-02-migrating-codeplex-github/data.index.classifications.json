@@ -1878,5 +1878,43 @@
     "reasoning": "The provided content solely explains a technical process of migrating a repository from Codeplex to Github. It details issues with GitHub's import tool, usage of Git-TF for version control migration, and converting wiki pages from HTML to Markdown. There are no explicit or implicit mentions of OKRs, objectives, key results, goal alignment, outcome measurement, or any related concept. The primary topics (tool usage, technical migration steps, troubleshooting, and repository hosting) bear no conceptual or thematic relationship to the OKR framework, as defined by John Doerr or the core category description provided. Thus, scores reflecting category mentions, conceptual alignment, and depth are determined to be zero or negligible. The content intent is tangential at best (score of 0.1 assigned due to its neutral, informative nature), and the target audience (technical practitioners) may partially overlap with agile/DevOps audiences interested in OKRs, prompting a modest audience alignment score of 0.8. Signal-to-noise ratio is very low (0.2) considering relevance to the defined category. No penalties are relevant, as content is neither outdated in relation to OKRs nor actively contradictory—the content simply addresses an unrelated topic.",
     "reasoning_summary": "The content is exclusively about technical repository migration from Codeplex to Github, with no relevance or alignment to Objective & Key Results (OKRs).",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:53",
+    "ai_confidence": 7.38,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0.2,
+    "ai_audience": 0.3,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is a technical migration guide focused on moving repositories from Codeplex to GitHub. There is no mention of the Product Developer role or accountability as defined in modern frameworks; the article targets individual developers or IT practitioners with step-by-step tool/process guidance. Concepts such as collective skills, cross-functionality, or Product Developer responsibilities are entirely absent, as are discussions of increment creation, collaborative behaviors, or product accountability. No outdated or actively critical tone is present that would warrant penalties, and the guide remains narrowly focused on repository migration tools and techniques with minimal theoretical framing.",
+    "reasoning_summary": "This guide is solely about technical repository migration between platforms, not the Product Developer role or accountability. It does not address any topics defining Product Developers or their responsibilities in modern frameworks.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "kgtNo8tGkjS",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:54",
+    "ai_confidence": 2.75,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.3,
+    "ai_intent": 2.0,
+    "ai_audience": 3.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is a step-by-step technical migration guide focusing on tools and procedures for moving a repository from Codeplex to GitHub. There are no explicit or implicit references to collective intelligence, human-AI collaboration, or any aspects of human-AI teaming. The main ideas center around tool usage and process troubleshooting without linking to socio-technical aspects or emergent cognitive capabilities between humans and AI agents. The audience is likely technical, but there is no alignment with the collective intelligence topic, making the fit extremely low.",
+    "reasoning_summary": "This content is solely a technical migration walkthrough with no discussion or relevance to collective intelligence or human-AI collaboration. It does not fit the target category.",
+    "level": "Ignored"
   }
 }

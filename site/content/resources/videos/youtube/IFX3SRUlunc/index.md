@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Success: How Lean Product Development Transforms Decision-Making and Value Creation'
+short_title: How Does Lean Product Development Improve Decision-Making?
 description: Explores how lean product development improves decision-making, reduces risk, and increases value by focusing on customer needs and efficient product ownership practices.
 date: 2023-09-28T08:29:48Z
 weight: 1000
+ResourceId: IFX3SRUlunc
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-success-how-lean-product-development-transforms-decision-making-and-value-creation
 aliases:
 - /resources/IFX3SRUlunc
@@ -23,9 +27,6 @@ tags:
 - Lean Principles
 - Lean Thinking
 - Value Delivery
-ResourceId: IFX3SRUlunc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: IFX3SRUlunc
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:14Z
+  short_title: 2025-06-23T12:40:55Z
 
 ---
 Over the past 18 months, I've noticed a significant uptick in interest and inquiries surrounding [lean]({{< ref "/categories/lean" >}}) [product development]({{< ref "/categories/product-development" >}}), particularly in the context of product ownership. This shift is not just a passing trend; it reflects a deeper desire within our industry to refine our decision-making processes regarding what we build. 

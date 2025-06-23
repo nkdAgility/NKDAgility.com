@@ -3285,5 +3285,43 @@
     "reasoning": "The content does not directly mention OKRs or related terminology. Its focus is on release engineering (ring-based deployment, staged rollouts, telemetry in deployment). These themes relate adjacent practices in DevOps and agile, such as feedback and continuous improvement, but do not explore objectives, key results, alignment, or outcome measurement frameworks from the OKR perspective. There are no clear references to strategic goal-setting, outcome-based evidence, or OKR-facilitated transparency. The audience (release engineers, product delivery teams) could overlap with those interested in OKRs, but the content's purpose and depth remain narrowly on technical deployment migration. No penalties are necessary, as the content is not outdated nor critical of the OKR approach—it simply is not about OKRs.",
     "reasoning_summary": "This content details Windows OS release practices with a focus on deployment, not OKRs. No direct or conceptual alignment appears with Objective Key Results, and the discussion is limited to deployment techniques, lacking exploration of strategy, outcomes, or alignment typical of OKRs.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "6FqFYeSHQBg",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:22",
+    "ai_confidence": 21.38,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.3,
+    "ai_intent": 3.1,
+    "ai_audience": 6.5,
+    "ai_signal": 5.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 21.0,
+    "reasoning": "The content discusses modern Windows OS deployment practices, focusing on ring-based rollout and fast feedback. While it highlights development process improvements and incremental delivery, it does not reference Product Developers as a role/accountability, nor does it explore their collective skills, responsibilities, or integration. The main audience (development/DevOps practitioners) overlaps somewhat, but the alignment with Product Developer accountability is weak and indirect. The piece lacks depth or detail on role-related behaviors or definitions central to the category.",
+    "reasoning_summary": "This content explains improvement in OS delivery through ring-based deployments but lacks any reference to the Product Developer role or its accountabilities. Its main themes and examples relate to deployment and feedback processes rather than Product Developer concepts or responsibilities.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "6FqFYeSHQBg",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:23",
+    "ai_confidence": 24.95,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.2,
+    "ai_depth": 2.7,
+    "ai_intent": 4.0,
+    "ai_audience": 5.5,
+    "ai_signal": 4.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content focuses on Microsoft's transition from monolithic OS updates to staged, ring-based deployments using real-time user telemetry. While this highlights organizational learning and rapid feedback, it frames humans and telemetry/data analytics, not explicit human-AI partnerships or agents collaborating as team members. It doesn't discuss emergent cognitive capabilities, human-AI shared decision-making, or explicitly reference any AI involvement in the process. Instead, it is centered on DevOps best practices, deployment safety, and user feedback loops, which are essential for agile development but not unique to Collective Intelligence as defined here. The scoring reflects minimal direct mention, weak alignment to human-AI collaboration themes, and moderate audience and signal relevance due to the general interest in modern deployment practices.",
+    "reasoning_summary": "This content details staged Windows OS deployment and user feedback loops, focusing on DevOps and release management best practices. It does not discuss human-AI teaming or emergent collective intelligence capabilities, so alignment with the 'Collective Intelligence' category is limited.",
+    "level": "Ignored"
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: Every delay increases the risk of failure
+short_title: Do Frequent Software Releases Reduce Failure Risk?
 description: Delaying software releases increases failure risk. Frequent, small releases improve success rates, adaptability, and recovery, as shown by CHAOS Report and DORA metrics.
 date: 2025-02-10T11:00:51+00:00
 weight: 160
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:01Z
+  short_title: 2025-06-23T12:15:33Z
 concepts:
 - Practice
 categories:

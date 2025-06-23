@@ -1,8 +1,12 @@
 ---
 title: "July 2023 NKDAgility: Introducing NKD Agility's Next Generation of Agile Practitioners: Transforming Work, Building Success, and Achieving Greatness in the 21st Century!"
+short_title: How Can NKD Agility Transform Your Agile Skills?
 description: NKD Agility offers immersive, multi-week agile training to build practical skills in Scrum, leadership, and continuous improvement for modern workplace success.
 date: 2023-06-29
 weight: 480
+ResourceId: A1Gq5rHDvzC
+ResourceImport: true
+ResourceType: newsletters
 slug: july-2023-nkdagility-introducing-nkd-agility's-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century
 aliases:
 - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/
@@ -19,15 +23,13 @@ tags:
 - Continuous Learning
 - Competence
 - Organisational Agility
-ResourceId: A1Gq5rHDvzC
-ResourceImport: true
-ResourceType: newsletters
 ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T13:11:09Z
+  short_title: 2025-06-23T12:42:28Z
 
 ---
 Dear NKD Agilists!

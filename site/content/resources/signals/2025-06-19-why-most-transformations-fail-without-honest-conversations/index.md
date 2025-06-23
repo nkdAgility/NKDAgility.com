@@ -1,0 +1,48 @@
+---
+title: Why Most Transformations Fail Without Honest Conversations
+short_title: Why Do Transformations Fail Without Honest Conversations?
+description: Most transformations fail without open, honest conversations that address real issues, making transparency and tough dialogue essential for true organisational agility.
+date: 2025-06-19T15:30:37+01:00
+weight: 1000
+ResourceId: No4y9TWFkAF
+ResourceImport: false
+ResourceType: signals
+ResourceContentOrigin: human
+slug: why-most-transformations-fail-without-honest-conversations
+aliases:
+- /resources/No4y9TWFkAF
+layout: signal
+source: LinkedIn
+platform_signals:
+- platform: LinkedIn
+  post_url: https://www.linkedin.com/feed/update/urn:li:share:7341487576299548672
+  post_id: "7341487576299548672"
+  post_date: 2025-06-19T14:30:37Z
+  performance:
+    impressions: 0
+    members_reached: 0
+    reactions: 0
+    comments: 0
+    reposts: 0
+Watermarks:
+  description: 2025-06-23T12:13:04Z
+  short_title: 2025-06-23T12:13:05Z
+concepts: []
+categories:
+- Uncategorized
+tags: []
+
+---
+Most transformation efforts fail because the hard conversations never happen.
+
+In every Applying Professional Scrum class I run, the magic is in the room, not the slides. We create a space where people speak plainly—about friction, confusion, blockers, and bad assumptions.
+
+At Backcountry, even the warehouse staff joined the training. At Healthgrades, every session was packed with real questions. Real frustrations. Real intent to improve.
+
+These are not “training sessions.” They’re catalysts.
+
+Scrum is not a framework for Developers. It’s a framework for organisational transparency. And transparency is uncomfortable—but necessary.
+
+If you’re not making space for hard truths, you’re not building agility. You’re just managing optics.
+
+What conversations still aren’t happening in your org?

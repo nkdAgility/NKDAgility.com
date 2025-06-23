@@ -2459,5 +2459,43 @@
     "reasoning": "The content focuses exclusively on resilience engineering, system design, DevOps culture, telemetry, observability, and recovery practices. No explicit or implied reference to Objective & Key Results (OKRs) or related strategic goal-setting concepts is present, meaning the 'mentions' score is zero. While there is some marginal conceptual alignment related to 'measuring customer experience directly' and 'treating incidents as feedback', this does not closely match any defining feature or foundational principles of OKRs (Focus, Alignment, Tracking, Stretching). Similarly, the depth of discussion regarding OKRs as a method of aligning strategic intent with measurable outcomes is nearly non-existent. The intent and audience, however, score somewhat higher because audiences familiar with OKRs (agile teams, product teams, DevOps practitioners) significantly overlap with those targeted by the current content's DevOps and product resilience themes. The signal-to-noise ratio is high for its intended subject (resilience), but low in relevance for OKRs. There are no penalties needed as the content is neither outdated nor directly undermines the OKR methodology.",
     "reasoning_summary": "The content extensively discusses resilience within DevOps and engineering practices but lacks explicit or meaningful alignment with Objective & Key Results methodology or principles.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "EtzHUfsWjsD",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:34",
+    "ai_confidence": 45.37,
+    "ai_mentions": 1.3,
+    "ai_alignment": 5.2,
+    "ai_depth": 5.8,
+    "ai_intent": 6.0,
+    "ai_audience": 6.4,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 45.0,
+    "reasoning": "The content focuses on resilience as a core product quality owned by those who build the product. It emphasizes collective ownership, engineering culture, and integrating resilience into the Definition of Done—areas conceptually adjacent to Product Developer accountability, especially in modern frameworks. However, it never explicitly mentions the Product Developer role or its formal accountabilities, nor does it explore their definition, structure, skills, or responsibilities. The themes align somewhat with Product Developer mindset (cross-functional teams, quality, collective ownership), and practices like Definition of Done are named, but the central focus remains on technical practices and engineering culture, not on the explicit accountabilities or behaviors of Product Developers as such. Audience fit is moderate (engineers, teams), and signal is decent, but the absence of direct references or detailed exploration of Product Developer specifics lowers overall confidence.",
+    "reasoning_summary": "The article strongly advocates for collective ownership of resilience in product engineering, aligning thematically with Product Developer accountability, but lacks explicit discussion of the role, responsibilities, or formal behaviors defined for Product Developers. The fit is conceptual and indirect, not direct.",
+    "level": "Tertiary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "EtzHUfsWjsD",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:40",
+    "ai_confidence": 14.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.5,
+    "ai_intent": 0.8,
+    "ai_audience": 7.3,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content intensely focuses on building resilience as a product feature within DevOps and engineering culture, but it makes no mention of AI, human-AI teaming, or collective intelligence. All examples are about human workflows, ownership, and learning from incidents. There is no discussion or implication of human-AI collaboration, complementary strengths, or emergent capabilities as defined in the category. The audience (engineering/DevOps practitioners) partially overlaps, and the content remains focused and clear, but there is no conceptual or thematic alignment with Collective Intelligence.",
+    "reasoning_summary": "This content is centered on human engineering practices for resilience in DevOps, with no discussion of human-AI collaboration or collective intelligence. It does not fit the category’s definition or core themes.",
+    "level": "Ignored"
   }
 }

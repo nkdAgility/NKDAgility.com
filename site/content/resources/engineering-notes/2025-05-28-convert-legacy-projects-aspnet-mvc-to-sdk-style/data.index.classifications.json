@@ -3143,5 +3143,43 @@
     "reasoning": "The provided content focuses entirely on the technical process of upgrading .NET framework and ASP.NET MVC projects to SDK-style projects. It does not contain any explicit, implicit, or tangential references to OKRs (Objectives and Key Results), nor does it engage with goal-setting, measurable outcomes, strategic alignment, or transparency as defined by John Doerr's foundational OKR principles. It specifically addresses software engineering practices, legacy upgrade strategies, tooling, debugging, project file formats, and CI/CD integrations without any conceptual or practical alignment with Objective Key Results frameworks, practices, or models. Therefore, all relevant OKR-focused scoring dimensions (mentions, alignment, depth, and intent) receive minimal scores, while the audience alignment score receives a slightly higher score as the content could potentially be relevant to technical audiences who might also be interested in OKRs. No penalties were necessary because the content is neither outdated from an OKR standpoint nor actively contradictory or undermining.",
     "reasoning_summary": "The content exclusively covers technical migration strategies for .NET projects to SDK-style and has no relevance or alignment with Objective Key Results (OKRs).",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "2mdv7QE2nIt",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:37",
+    "ai_confidence": 12.8,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.3,
+    "ai_intent": 2.5,
+    "ai_audience": 2.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is focused on technical migration of .NET and ASP.NET MVC projects to SDK-style projects—highlighting tools, migration steps, and troubleshooting. There is no direct mention or thorough conceptual coverage of the 'Product Developer' role or its associated accountabilities (roles, behaviors, responsibilities in a Scrum/product development context). The intent is not to discuss product developer role structure or cross-functional skills, but to provide practical guidance for technical migration. The target audience appears to be technical leads or engineers handling modernizations rather than those interested specifically in the Product Developer accountability. While the topic is relevant in the broader product engineering context, it fails to address the accountability, mindset, or behaviors of Product Developers as defined in modern frameworks. No penalties warranted as the content is not outdated or undermining.",
+    "reasoning_summary": "This content provides technical migration guidance for .NET projects and is not focused on Product Developer accountabilities, roles, or behaviors. Its relevance to the 'Product Developer' category is tangential and minimal.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "2mdv7QE2nIt",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:33",
+    "ai_confidence": 6.235,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.3,
+    "ai_intent": 0.4,
+    "ai_audience": 2.2,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 6.0,
+    "reasoning": "The content focuses on technical practices for upgrading legacy .NET and ASP.NET MVC projects to SDK-style projects. There are no explicit or implicit references to Collective Intelligence as defined—no mention of human-AI collaboration, partnerships, or distributed cognition. The audience is technical, matching part of the possible category audience, but the substance and intent center on code conversion and tooling rather than collaborative intelligence between humans and AI. All dimension scores are low due to the content's nearly complete misalignment with the category.",
+    "reasoning_summary": "This resource discusses technical steps for migrating .NET projects and improving build tooling but contains no content about human-AI collaboration, collective intelligence, or related topics, making it almost entirely unrelated to the category.",
+    "level": "Ignored"
   }
 }

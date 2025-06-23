@@ -1,8 +1,12 @@
 ---
 title: 7 Harbingers of the Agile Apocalypse - Famine
+short_title: How Does Resource Scarcity Undermine Agile Teams?
 description: Explores how resource scarcity—like lack of trust, funding, tools, and training—undermines Agile teams, and offers strategies to empower and support organisational success.
 date: 2023-10-19T15:00:30Z
 weight: 665
+ResourceId: W3H9z28g9R8
+ResourceImport: true
+ResourceType: videos
 slug: 7-harbingers-of-the-agile-apocalypse-famine
 aliases:
 - /resources/W3H9z28g9R8
@@ -24,9 +28,6 @@ tags:
 - Pragmatic Thinking
 - Organisational Culture
 - Beta Codex
-ResourceId: W3H9z28g9R8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: W3H9z28g9R8
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:35Z
+  short_title: 2025-06-23T12:40:19Z
 
 ---
 # Conquering Famine in Agile Organizations: A Blueprint for Success 🚀

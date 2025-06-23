@@ -1,14 +1,15 @@
 ---
 title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
+short_title: What Masteries Make a Scrum Master Truly Effective?
 description: Scrum Masters are most effective when they combine leadership skills with technical, business, and organisational mastery to support teams, Product Owners, and change.
 date: 2025-03-24T09:00:00
 weight: 175
-slug: great-scrum-masters-need-technical-business-and-organisational-mastery
-aliases:
-- /resources/dQjKsWR5qfn
 ResourceId: dQjKsWR5qfn
 ResourceImport: false
 ResourceType: blog
+slug: great-scrum-masters-need-technical-business-and-organisational-mastery
+aliases:
+- /resources/dQjKsWR5qfn
 ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
@@ -46,6 +47,7 @@ tags:
 - Market Adaptability
 Watermarks:
   description: 2025-05-07T12:49:18Z
+  short_title: 2025-06-23T12:33:56Z
 
 ---
 [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The [Scrum]({{< ref "/categories/scrum" >}}) Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.

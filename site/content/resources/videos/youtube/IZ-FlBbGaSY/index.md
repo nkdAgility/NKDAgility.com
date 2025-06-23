@@ -1,8 +1,12 @@
 ---
 title: Building a culture of Quality
+short_title: How Can You Build a Culture of Quality in Teams?
 description: Explores how fostering a culture of quality and engineering excellence across teams leads to better, safer products, highlighting the impact of leadership and shared values.
 date: 2024-11-22T07:00:08Z
 weight: 150
+ResourceId: IZ-FlBbGaSY
+ResourceImport: true
+ResourceType: videos
 slug: building-a-culture-of-quality
 aliases:
 - /resources/IZ-FlBbGaSY
@@ -26,9 +30,6 @@ tags:
 - Value Delivery
 - Working Software
 - Azure Pipelines
-ResourceId: IZ-FlBbGaSY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: IZ-FlBbGaSY
@@ -45,6 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:08Z
+  short_title: 2025-06-23T12:35:21Z
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

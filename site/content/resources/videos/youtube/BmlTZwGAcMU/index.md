@@ -1,8 +1,12 @@
 ---
 title: 'Immersive Learning in Scrum: Why Theory and Experience Must Go Hand in Hand'
+short_title: How Does Combining Theory and Practice Improve Scrum?
 description: Explores how combining theory and hands-on experience in Scrum training leads to deeper understanding, critical thinking, and continuous improvement for Agile teams.
 date: 2024-02-08T07:00:06Z
 weight: 1000
+ResourceId: BmlTZwGAcMU
+ResourceImport: true
+ResourceType: videos
 slug: immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
 aliases:
 - /resources/BmlTZwGAcMU
@@ -24,9 +28,6 @@ tags:
 - Software Development
 - Competence
 - Pragmatic Thinking
-ResourceId: BmlTZwGAcMU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: BmlTZwGAcMU
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:55Z
+  short_title: 2025-06-23T12:38:01Z
 
 ---
 One of my favorite quotes is from the legendary Peter Drucker: **"Without theory, experience has no meaning. Without theory, one has no questions to ask. Hence, without theory, there is no learning."** This profound idea resonates deeply with my approach to immersive learning, especially in the context of **[Scrum]({{< ref "/categories/scrum" >}})** and **Agile**.

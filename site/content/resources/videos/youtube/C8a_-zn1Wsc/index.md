@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive Bias'
+short_title: How Does Immersive Learning Overcome Bias in Agile?
 description: Explores how immersive learning in Agile and Scrum helps overcome cognitive bias, promotes hands-on practice, and supports continuous improvement for practitioners.
 date: 2024-02-05T07:00:03Z
 weight: 1000
+ResourceId: C8a_-zn1Wsc
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
 aliases:
 - /resources/C8a_-zn1Wsc
@@ -29,9 +33,6 @@ tags:
 - Coaching
 - Continuous Improvement
 - Agile Philosophy
-ResourceId: C8a_-zn1Wsc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: C8a_-zn1Wsc
@@ -48,6 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:59Z
+  short_title: 2025-06-23T12:38:04Z
 
 ---
 In the ever-evolving world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one of the most valuable approaches to mastering the methodologies is immersive learning. It’s a technique that not only sharpens your understanding but also combats the cognitive biases we unknowingly harbor. As Agile practitioners, we often think we know more than we do about the framework. Immersive learning helps dismantle that illusion, forcing us to confront the reality of how much we still have to discover.

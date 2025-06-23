@@ -1,8 +1,12 @@
 ---
 title: Getting started with Kanban.
+short_title: How do you start a Kanban pilot for team productivity?
 description: Learn how to launch a Kanban pilot, define workflows, use metrics like cycle time and throughput, and foster continuous improvement for better team productivity.
 date: 2024-02-14T07:00:19Z
 weight: 1000
+ResourceId: kTszGsXPLXY
+ResourceImport: true
+ResourceType: videos
 slug: getting-started-with-kanban
 aliases:
 - /resources/kTszGsXPLXY
@@ -29,9 +33,6 @@ tags:
 - Operational Practices
 - Continuous Improvement
 - Cycle Time
-ResourceId: kTszGsXPLXY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: kTszGsXPLXY
@@ -48,6 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:46Z
+  short_title: 2025-06-23T12:37:54Z
 
 ---
 ### Getting Started with [Kanban]({{< ref "/categories/kanban" >}}): A Guide to Initiating Your First Kanban Pilot

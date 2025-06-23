@@ -1,5 +1,6 @@
 ---
 title: If software is not delivered, it is not valuable
+short_title: Why Is Undelivered Software Not Valuable?
 description: Undelivered software provides no value. Frequent, iterative releases reduce risk, cost, and failure, enabling faster learning and real user impact in software development.
 date: 2025-03-01T16:30:03+00:00
 weight: 320
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:38Z
+  short_title: 2025-06-23T12:15:07Z
 concepts:
 - Principle
 categories:

@@ -1,22 +1,47 @@
 ---
 title: Is Agile Really Just a Mindset?
+short_title: Is Agile a Mindset or an Engineering Discipline?
 description: Explores Agile as a disciplined system of delivery, emphasizing engineering excellence, CI/CD, observability, and system design over mindset or behaviour alone.
 date: 2025-08-11T09:00:00Z
-slug: is-agile-really-just-a-mindset
-aliases:
-  - /resources/ABbVdMBZ5fI
+weight: 60
 ResourceId: ABbVdMBZ5fI
 ResourceImport: false
 ResourceType: blog
+slug: is-agile-really-just-a-mindset
+aliases:
+- /resources/ABbVdMBZ5fI
 ResourceContentOrigin: hybrid
-Watermarks:
-  description: 2025-05-30T15:27:52Z
 creator: Martin Hinshelwood
 contributors:
-  - name: Rikard Skelander
-    external: https://www.linkedin.com/in/rikardskelander/
----
+- name: Rikard Skelander
+  external: https://www.linkedin.com/in/rikardskelander/
+Watermarks:
+  description: 2025-05-30T15:27:52Z
+  short_title: 2025-06-23T12:32:45Z
+concepts:
+- Capability
+categories:
+- Engineering Excellence
+- Product Development
+- Technical Leadership
+tags:
+- Product Delivery
+- Value Delivery
+- Software Development
+- Operational Practices
+- Technical Mastery
+- Pragmatic Thinking
+- Team Performance
+- Engineering Practices
+- Technical Excellence
+- Market Adaptability
+- Agile Transformation
+- Sociotechnical Systems
+- Frequent Releases
+- Organisational Agility
+- Working Software
 
+---
 Let’s get one thing straight: **Agile is not a mindset.** And it’s certainly not just about behaviour. That lazy framing dilutes the discipline, ignores the engineering reality, and gives cover to incompetence.
 
 Agile for software development is a **delivery discipline grounded in technical leadership, empirical control, and engineering excellence**. If your so-called “Agile transformation” doesn’t touch your code, your infrastructure, your deployment pipelines, or your product strategy, then you’re not Agile, you’re just busy.

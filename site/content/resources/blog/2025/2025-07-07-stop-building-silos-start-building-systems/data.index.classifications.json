@@ -2474,5 +2474,43 @@
     "reasoning": "The content provided does not directly reference Objective Key Results (OKRs) at all, resulting in a mentions score of 0.0. Conceptually, the article primarily focuses on tool fragmentation, platform engineering, unified toolchains (specifically One Engineering System), DevOps, and improving software delivery workflows. It discusses means of aligning team practices, clarity, and reducing friction—all tangentially related to some of OKR's themes around alignment and transparency. However, these arguments remain firmly anchored within the DevOps and engineering systems disciplines rather than organizational outcome measurement or strategic goal-setting frameworks represented by OKRs. The depth of discussion around OKRs specifically is minimal; the text explores alignment and transparency only indirectly and superficially through technological and operational lenses rather than through strategic, measurable objectives. Its intent and purpose are clearly distinct from the OKR methodology; rather than focusing on measurable strategic outcomes or OKR implementation practices, the content advocates building reliable software delivery systems. Audience alignment scores higher due to some level of overlap in organizational leadership and management audiences, although the article more strongly targets engineering and DevOps practitioners than OKR practitioners. Lastly, the signal-to-noise ratio is high overall because the content remains mostly coherent around DevOps and Engineering Excellence; however, regarding the OKR-focused evaluation framework, most of this signal is off-topic, thus limiting overall category relevance.",
     "reasoning_summary": "The content does not explicitly discuss or align with OKR principles or practices, focusing instead on DevOps, platform engineering, and system standardisation. Though themes of alignment and clarity appear, the strategic, measurable objectives aspect central to OKRs is absent.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "zLhc3UKUWOj",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:41",
+    "ai_confidence": 18.288,
+    "ai_mentions": 0.7,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.7,
+    "ai_intent": 1.0,
+    "ai_audience": 1.6,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 18.0,
+    "reasoning": "The content focuses on unifying automation, systems, and platform engineering to reduce delivery silos and achieve scalable DevOps. While it mentions improving developer experiences and team collaboration, it does not directly discuss the Product Developer role or accountability in modern frameworks. The main ideas revolve around tooling, engineering systems, and DevOps, only touching the periphery of Product Developer concepts (e.g., via the impact on teams or self-management in Scrum). As such, direct mentions and deep alignment with Product Developer, as defined, are minimal. The primary audience is engineers and DevOps practitioners, not specifically Product Developers as a role/accountability. No penalties for being outdated or critical.",
+    "reasoning_summary": "This content is centered on platform engineering and DevOps systems, not on the Product Developer role or accountability. It only loosely references themes like team autonomy or developer experience, but doesn't align with the category’s defined scope.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "zLhc3UKUWOj",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:13",
+    "ai_confidence": 36.15,
+    "ai_mentions": 1.1,
+    "ai_alignment": 3.5,
+    "ai_depth": 3.8,
+    "ai_intent": 4.7,
+    "ai_audience": 5.3,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content focuses on eliminating silos in DevOps by consolidating tools and implementing unified platform engineering (1ES). While it emphasizes team collaboration, self-management, and system unification for improved delivery, it does not discuss human-AI collaboration or enhanced cognitive outcomes emerging from human-AI partnerships as required by the category. AI is not explicitly mentioned, nor are collective intelligence patterns involving AI. The audience aligns (DevOps/engineering practitioners), and there's strong relevance to team-scale collaboration, but no core content addresses human-AI teams or collective cognition with AI agents.",
+    "reasoning_summary": "This content strongly addresses team collaboration, unified systems, and platform engineering in DevOps, but it does not discuss human-AI partnerships or collective intelligence between AI agents and humans. Thus, relevance to 'Collective Intelligence' as defined is limited.",
+    "level": "Ignored"
   }
 }

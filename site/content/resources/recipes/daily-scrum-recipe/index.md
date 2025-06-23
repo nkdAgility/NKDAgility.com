@@ -1,8 +1,12 @@
 ---
 title: Daily Scrum Recipe
+short_title: How Can Teams Run Effective Daily Scrum Meetings?
 description: Guidance for running effective Daily Scrum meetings, focusing on collaboration, transparency, and actionable planning to help teams achieve their Sprint Goals.
 date: 2024-09-17
 weight: 505
+ResourceId: M4qDhvrXwp-
+ResourceImport: false
+ResourceType: recipes
 slug: daily-scrum-recipe
 aliases:
 - /recipes/Daily-Scrum-Recipe.html
@@ -30,9 +34,7 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Transparency
-ResourceId: M4qDhvrXwp-
-ResourceImport: false
-ResourceType: recipes
+- Product Developer
 ResourceContentOrigin: Human
 resourceTypes: recipe
 layout: recipe
@@ -62,6 +64,7 @@ card:
   title: Daily Scrum Recipe
 Watermarks:
   description: 2025-05-07T12:57:50Z
+  short_title: 2025-06-23T12:36:10Z
 
 ---
 The Daily [Scrum]({{< ref "/categories/scrum" >}}) is an essential event in the Scrum framework. It offers the

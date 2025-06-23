@@ -1,8 +1,14 @@
 ---
 title: "The Evolution of Agile Learning: Insights from Scrum.org's Webinar"
+short_title: Is Immersive Learning More Effective Than Traditional Agile Training?
 description: Explores the shift from traditional to immersive Agile learning, highlighting how ongoing, real-world practice and reflection improve knowledge retention and practical skills.
 date: 2023-12-14
 weight: 840
+ResourceId: Ax5c4JFICyO
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: the-evolution-of-agile-learning-insights-from-scrum-org's-webinar
 aliases:
 - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
@@ -25,11 +31,6 @@ categories:
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-ResourceId: Ax5c4JFICyO
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 50979
 AudioNative: true
@@ -39,6 +40,7 @@ resourceTypes: blog
 preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 Watermarks:
   description: 2025-05-07T13:06:58Z
+  short_title: 2025-06-23T12:38:54Z
 
 ---
 This week, I participated in a [Scrum.org](http://scrum.org/) Webinar hosted by Sabrina Love ([Scrum]({{< ref "/categories/scrum" >}}).org [Product Owner]({{< ref "/tags/product-owner" >}})) as well as my colleagues, [Joanna Płaskonka, Ph.D.](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) and [Alex Ballarin](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) to discuss the state of learning and how immersive learning is the future of training.

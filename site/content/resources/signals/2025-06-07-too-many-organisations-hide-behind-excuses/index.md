@@ -1,8 +1,9 @@
 ---
 title: Too many organisations hide behind excuses:"
+short_title: Can Regulated Organisations Succeed with Agile Delivery?
 description: Many organisations use excuses to avoid Agile, but even large, regulated bodies can adopt iterative delivery to reduce risk and deliver value incrementally.
 date: 2025-06-07T15:30:25+01:00
-weight: 1000
+weight: 670
 ResourceId: RJFPfh1L3bJ
 ResourceImport: false
 ResourceType: signals
@@ -25,10 +26,18 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:41Z
+  short_title: 2025-06-23T12:13:14Z
 concepts: []
 categories:
-- Uncategorized
-tags: []
+- Product Development
+tags:
+- Value Delivery
+- Product Delivery
+- Pragmatic Thinking
+- Agile Philosophy
+- Market Adaptability
+- Organisational Agility
+- Agile Values and Principles
 
 ---
 Too many organisations hide behind excuses:

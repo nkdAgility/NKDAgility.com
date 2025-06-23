@@ -3285,5 +3285,43 @@
     "reasoning": "The content focuses exclusively on version control workflow critique (Git Flow vs. alternatives), with no direct or indirect reference to OKRs, their principles, frameworks, or implementation. There is no discussion of objectives, key results, outcome-based measurement, or any concept connected to the OKR methodology. The minimal scores for 'alignment', 'intent', 'audience', and 'signal' reflect a remote, tangential connection to process improvement as valued by OKRs' intended audience, but this is not enough to suggest meaningful relevance. No penalties were applied since the content is not outdated or critical of OKRs themselves.",
     "reasoning_summary": "This content does not reference or discuss Objective Key Results. Its focus is limited to version control workflows and does not intersect with OKRs, their frameworks, or intended strategic focus.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "pAMm25X5CuE",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:53",
+    "ai_confidence": 7.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.5,
+    "ai_audience": 2.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Alignment (-1): Focuses on tooling/practices, not Product Developer accountability. Mentions (-1): No direct mention or conceptual framing of Product Developer as a role.",
+    "final_score": 8.0,
+    "reasoning": "The content critiques Git Flow as a branching strategy, labeling it outdated, and recommends alternatives. No direct or indirect references are made to Product Developer accountability, structure, or behaviors as required by the classification definition. The main concern is release management and workflow efficiency, not the responsibilities, collective accountability, or explicit role of Product Developers. Any relevance would be indirect, as optimizing workflow may impact product teams, but the discussion does not specifically address the Product Developer mindset, structures, cross-functional roles, or practices. No obsolete practices outside the critique of Git Flow, and the tone, though negative about Git Flow, is not satirical or critical of Product Developer behaviors.",
+    "reasoning_summary": "This content focuses exclusively on criticizing Git Flow and suggesting alternative branching strategies. It does not reference Product Developer roles, accountabilities, or behaviors, making its relevance to the category extremely low and mostly incidental.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "pAMm25X5CuE",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:43",
+    "ai_confidence": 2.7,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 2.0,
+    "ai_audience": 3.4,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2,
+    "ai_penalty_details": "Mentions penalized for no explicit or implicit reference; Alignment penalized for lack of human-AI collaboration context.",
+    "final_score": 3.0,
+    "reasoning": "The content focuses exclusively on criticizing Git Flow as a branching strategy and recommending simpler alternatives like GitHub Flow for faster delivery. There is no mention or discussion of human-AI collaboration, human agency in partnership with AI, or the emergence of collective capabilities involving AI agents. The audience is technical (software practitioners), but the context is version control workflows, not socio-technical systems or human-AI teaming. Overall, this content is entirely outside the defined scope for Collective Intelligence, and penalties were applied for lack of relevance and conceptual misalignment.",
+    "reasoning_summary": "This content discusses version control strategies and team workflow efficiency, not the collaboration or cognitive enhancement from combined human-AI teamwork. It doesn't address collective intelligence as defined in the category.",
+    "level": "Ignored"
   }
 }

@@ -1,8 +1,12 @@
 ---
 title: '7 deadly sins of Agile: Wrath'
+short_title: How Can Agile Teams Replace Blame with Accountability?
 description: Explores how blame and intolerance for mistakes harm Agile teams, and offers strategies to replace blame with accountability, learning, and a safer team culture.
 date: 2023-10-16T11:00:31Z
 weight: 640
+ResourceId: U18nA0YFgu0
+ResourceImport: true
+ResourceType: videos
 slug: 7-deadly-sins-of-agile-wrath
 aliases:
 - /resources/U18nA0YFgu0
@@ -28,9 +32,6 @@ tags:
 - Organisational Culture
 - Psychological Safety
 - Team Motivation
-ResourceId: U18nA0YFgu0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: U18nA0YFgu0
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:44Z
+  short_title: 2025-06-23T12:40:27Z
 
 ---
 **Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 

@@ -1,5 +1,6 @@
 ---
 title: A great Product Owner drives product strategy, not just manages the backlog
+short_title: What Makes a Product Owner Truly Strategic?
 description: Explains how effective Product Owners shape product strategy using accountability, awareness, acceptance, access, and adaptability, not just backlog management.
 date: 2025-04-08T15:30:02+01:00
 weight: 695
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:38Z
+  short_title: 2025-06-23T12:14:16Z
 concepts:
 - Strategy
 categories:

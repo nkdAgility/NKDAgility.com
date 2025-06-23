@@ -8,13 +8,14 @@ $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
 $descriptionDateWatermark = [DateTime]::Parse("2025-05-07T12:36:48Z")
+$shortTitleDateWatermark = [DateTime]::Parse("2025-05-07T12:36:48Z")
 
 # Date by which we remove all Aliases
 $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\signals" -YearsBack 10
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -50,6 +51,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     # }
 
     # Safely handle missing descriptionUpdate
+   
     $descUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.Description
     $descUpdateDate = if ($descUpdateString) { [DateTime]::Parse($descUpdateString) } else { [DateTime]::MinValue }
     if (-not $hugoMarkdown.FrontMatter.description -or $descUpdateDate -lt $descriptionDateWatermark) {
@@ -73,6 +75,32 @@ while ($hugoMarkdownQueue.Count -gt 0) {
     else {
         Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'description' -addAfter 'title'
     }
+
+    $shortTitleUpdateString = $hugoMarkdown.FrontMatter.Watermarks?.short_title
+    $shortTitleUpdateDate = if ($shortTitleUpdateString) { [DateTime]::Parse($shortTitleUpdateString) } else { Get-Date }
+    if (-not $hugoMarkdown.FrontMatter.short_title -or $shortTitleUpdateDate -lt $shortTitleDateWatermark) {
+        try {
+            # Generate a new description using OpenAI
+            $promptText = Get-Prompt -PromptName "content-short-title.md" -Parameters @{
+                title    = $hugoMarkdown.FrontMatter.Title
+                abstract = $hugoMarkdown.FrontMatter.description
+                content  = $hugoMarkdown.BodyContent
+            }
+            $shortTitle = Get-OpenAIResponse -Prompt $promptText
+            # Update the short_title in the front matter
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'short_title' -fieldValue $shortTitle -addAfter 'title' -Overwrite
+            Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.short_title' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ") -Overwrite
+        }
+        catch {
+            throw "Error generating short_title: $_"
+        }
+       
+    }
+    else {
+        Update-Field -frontMatter $hugoMarkdown.FrontMatter -fieldName 'Watermarks.short_title' -fieldValue (Get-Date -Format "yyyy-MM-ddTHH:mm:ssZ")
+        Update-FieldPosition -data $hugoMarkdown.FrontMatter -fieldName 'short_title' -addAfter 'title'
+    }
+
 
     if (-not $hugoMarkdown.FrontMatter.date) {
         $date = Get-Date -Format "yyyy-MM-ddT09:00:00Z"

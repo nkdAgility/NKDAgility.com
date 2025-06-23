@@ -1,8 +1,12 @@
 ---
 title: Navigating the Complex World of Azure DevOps Data Migration
+short_title: How Do You Migrate Data from TFS to Azure DevOps?
 description: Learn key steps, common pitfalls, and best practices for migrating data from legacy TFS systems to Azure DevOps, including identity alignment, database cleanup, and backups.
 date: 2024-07-31T12:00:49Z
 weight: 690
+ResourceId: 3jYFD-6_kZk
+ResourceImport: true
+ResourceType: videos
 slug: navigating-the-complex-world-of-azure-devops-data-migration
 aliases:
 - /resources/3jYFD-6_kZk
@@ -23,9 +27,6 @@ tags:
 - Troubleshooting
 - Pragmatic Thinking
 - Install and Configuration
-ResourceId: 3jYFD-6_kZk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 3jYFD-6_kZk
@@ -42,6 +43,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:02:21Z
+  short_title: 2025-06-23T12:36:53Z
 
 ---
 When it comes to migrating data in Azure [DevOps]({{< ref "/categories/devops" >}}), the process can be overwhelming, especially if you're dealing with legacy systems or older versions of Team Foundation Server (TFS). As someone who has been through this many times, I can tell you that there are countless pitfalls, but with careful planning and attention to detail, you can avoid most of them. In this post, I'll share some of the common issues, critical steps, and personal experiences that can help you successfully navigate the complexities of [Azure DevOps]({{< ref "/tags/azure-devops" >}}) data migration.

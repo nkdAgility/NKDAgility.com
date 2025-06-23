@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
+short_title: How Can Evidence-Based Management Improve Agile Teams?
 description: Explains how to use data in Agile management to guide decisions and behaviours, focusing on informed outcomes without letting metrics control teams or stifle value delivery.
 date: 2024-09-11T13:36:29Z
 weight: 690
+ResourceId: 66NuAjzWreY
+ResourceImport: true
+ResourceType: videos
 slug: mastering-evidence-based-management-in-agile-inform-don-t-control
 aliases:
 - /resources/66NuAjzWreY
@@ -30,9 +34,6 @@ tags:
 - Pragmatic Thinking
 - Customer Focus
 - Value Delivery
-ResourceId: 66NuAjzWreY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 66NuAjzWreY
@@ -49,6 +50,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T12:58:34Z
+  short_title: 2025-06-23T12:36:17Z
 
 ---
 ## **What is Evidence-Based Management?**

@@ -1,52 +1,54 @@
 ---
 title: Telling People What to Do Is Not Leadership. It’s a Failure of System Design.
+short_title: 'What Makes Real Leadership: System Design or Command?'
 description: Explores why real leadership means designing systems that enable team autonomy, flow, and accountability—rather than relying on command-and-control management.
 date: 2025-08-04T09:00:00Z
 weight: 30
-slug: telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design
-aliases:
-  - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
-  - /resources/W_KrTupmowf
-aliasesArchive:
-  - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
-concepts:
-  - Principle
-categories:
-  - Product Development
-  - Engineering Excellence
-  - Leadership
-tags:
-  - Lean Principles
-  - Operational Practices
-  - Self Organisation
-  - Software Development
-  - Team Performance
-  - Agile Planning
-  - Agile Product Management
-  - Empirical Process Control
-  - Organisational Agility
-  - Pragmatic Thinking
-  - Product Delivery
-  - Agile Leadership
-  - Agile Strategy
-  - Agile Transformation
-  - Continuous Improvement
 ResourceId: W_KrTupmowf
 ResourceImport: false
 ResourceType: blog
+slug: telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design
+aliases:
+- /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
+- /resources/W_KrTupmowf
+aliasesArchive:
+- /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
+concepts:
+- Principle
+categories:
+- Product Development
+- Engineering Excellence
+- Leadership
+tags:
+- Lean Principles
+- Operational Practices
+- Self Organisation
+- Software Development
+- Team Performance
+- Agile Planning
+- Agile Product Management
+- Empirical Process Control
+- Organisational Agility
+- Pragmatic Thinking
+- Product Delivery
+- Agile Leadership
+- Agile Strategy
+- Agile Transformation
+- Continuous Improvement
 ResourceContentOrigin: hybrid
-Watermarks:
-  description: 2025-05-19T07:28:14Z
 creator: Martin Hinshelwood
 contributors:
-  - name: Brett Maytom
-    external: https://www.linkedin.com/in/scrum-trainer/
-  - name: Alex Brown
-    external: https://www.linkedin.com/in/alexbrown/
-  - name: Alessandro Recca
-    external: https://www.linkedin.com/in/alessandro-recca-b9974a21a/
----
+- name: Brett Maytom
+  external: https://www.linkedin.com/in/scrum-trainer/
+- name: Alex Brown
+  external: https://www.linkedin.com/in/alexbrown/
+- name: Alessandro Recca
+  external: https://www.linkedin.com/in/alessandro-recca-b9974a21a/
+Watermarks:
+  description: 2025-05-19T07:28:14Z
+  short_title: 2025-06-23T12:32:46Z
 
+---
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.
 
 There is a stubborn, Taylorist holdover in many companies—the belief that work gets done when someone is told exactly what to do. The assumption is that certainty comes from control, clarity comes from instruction, and delivery comes from compliance.

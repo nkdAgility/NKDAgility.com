@@ -1,17 +1,19 @@
 ---
 title: Should You Use One Project to Rule Them All in Azure DevOps?
+short_title: Should You Use One or Multiple Projects in Azure DevOps?
 description: Explores when to use a single Azure DevOps project versus multiple projects, detailing impacts on flow, visibility, governance, and team collaboration at scale.
 date: 2025-08-25T09:00:00Z
 weight: 80
-slug: should-you-use-one-project-to-rule-them-all-in-azure-devops
-aliases:
-- /resources/k-kqjqSgdGx
 ResourceId: k-kqjqSgdGx
 ResourceImport: false
 ResourceType: blog
+slug: should-you-use-one-project-to-rule-them-all-in-azure-devops
+aliases:
+- /resources/k-kqjqSgdGx
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-06-06T12:34:49Z
+  short_title: 2025-06-23T12:32:42Z
 concepts:
 - Tool
 categories:

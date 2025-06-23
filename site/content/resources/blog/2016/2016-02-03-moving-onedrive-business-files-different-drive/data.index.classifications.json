@@ -1865,5 +1865,43 @@
     "reasoning": "The content presented is a detailed, technical step-by-step guide focused entirely on how to move OneDrive files to a different drive in Windows. There is absolutely no mention, explicit or implicit, of Objective & Key Results (OKRs) as described by John Doerr or any similarity to their conceptual definition. The scope is specifically about file management, storage limitations, computer settings, and troubleshooting a Windows-based technical issue. None of the key principles or guidance related to OKR—such as measurable outcomes, strategic alignment, accountability, transparency, or iterative improvement—are touched upon at all. Hence, scores are appropriately very low to zero across all dimensions except a minimal audience alignment score (since technically inclined individuals could overlap with those implementing OKRs in tech fields), and minimal signal score due to no relevant content.",
     "reasoning_summary": "The content is purely technical, focused solely on technical file management and completely unrelated to the OKR category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "qgSgXAu_d6a",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:56",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.4,
+    "ai_depth": 0.5,
+    "ai_intent": 0.2,
+    "ai_audience": 0.3,
+    "ai_signal": 0.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a user-focused technical how-to guide for moving OneDrive files to a different drive, aimed at solving storage challenges on Windows devices. There is no direct or implied discussion about the Product Developer role, its accountabilities, skills, or responsibility structures. Any mention of being a 'Developer' refers to general software tinkering, not Product Developer as defined in agile frameworks. No relevant concepts such as cross-functionality, accountability, or integration with product development practices are presented. The audience, intent, and main subjects are strictly technical end users, not product developers or those interested in product development structures or roles.",
+    "reasoning_summary": "This guide provides practical Windows file management steps and does not discuss Product Developer roles, accountabilities, or responsibilities. The content is technical and user-focused, with no relevance to the Product Developer category as formally defined.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "qgSgXAu_d6a",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:18:01",
+    "ai_confidence": 1.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.8,
+    "ai_intent": 1.0,
+    "ai_audience": 2.2,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content is a technical tutorial focused entirely on moving OneDrive files to another drive on Windows. There is no discussion of human-AI collaboration, decision-making, teamwork, or any aspect of collective intelligence as defined in the category. There are no explicit or implicit mentions of AI as a teammate, collaborative socio-technical systems, or relevant frameworks. The only minor possible link is a passing mention of business/enterprise context but not in a collective sense involving AI. Scores are set low (0–2.5 range) across all dimensions, as this is purely a solo user troubleshooting task.",
+    "reasoning_summary": "This is a practical guide for moving OneDrive files on Windows, with no discussion of human-AI partnership, team dynamics, or collective intelligence. The content does not fit the category meaning in any substantive way.",
+    "level": "Ignored"
   }
 }

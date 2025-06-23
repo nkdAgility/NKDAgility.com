@@ -1,5 +1,6 @@
 ---
 title: Branch promotion is a relic of slow, manual software delivery
+short_title: Why Do Modern Teams Avoid Branch Promotion?
 description: Explains why modern software teams avoid branch promotion, using continuous integration, feature flags, and production-like testing to streamline delivery and reduce risk.
 date: 2025-02-08T16:30:00+00:00
 weight: 300
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:04Z
+  short_title: 2025-06-23T12:15:37Z
 concepts:
 - Practice
 categories:

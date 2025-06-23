@@ -1,8 +1,12 @@
 ---
 title: The Power of Building Relationships Through Immersive Learning in Scrum
+short_title: How Does Immersive Learning Build Relationships in Scrum?
 description: Explores how immersive learning in Scrum fosters strong peer relationships, enhancing collaboration, trust, and long-term growth for practitioners beyond the classroom.
 date: 2024-02-06T07:00:03Z
 weight: 1000
+ResourceId: 7SdBfGWCG8Q
+ResourceImport: true
+ResourceType: videos
 slug: the-power-of-building-relationships-through-immersive-learning-in-scrum
 aliases:
 - /resources/7SdBfGWCG8Q
@@ -24,9 +28,6 @@ tags:
 - Scrum Team
 - Coaching
 - Social Technologies
-ResourceId: 7SdBfGWCG8Q
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 7SdBfGWCG8Q
@@ -43,6 +44,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:05:58Z
+  short_title: 2025-06-23T12:38:03Z
 
 ---
 In today’s fast-paced world, learning isn’t just about acquiring knowledge—it’s about building lasting connections. This is especially true when it comes to immersive learning, where relationships formed with fellow learners play a pivotal role in enhancing the overall experience. As a [Scrum]({{< ref "/categories/scrum" >}}) Trainer, I’ve witnessed firsthand how these connections can elevate a practitioner’s journey, allowing them to not only learn but grow alongside their peers.

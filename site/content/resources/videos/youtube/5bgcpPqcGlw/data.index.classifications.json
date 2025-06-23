@@ -1937,5 +1937,43 @@
     "reasoning": "The content provided extensively covers concepts related to site reliability engineering, transparency, automation, telemetry, incident response, and continuous improvement, especially within an Azure DevOps context. However, it does not explicitly reference Objective and Key Results (OKRs), nor does it directly discuss the structured goal-setting framework, strategic alignment, measurable outcomes, or iterative reviews foundational to OKRs. The only indirect overlap lies in the brief mentions of transparency, continuous improvement, and the alignment of teams, though these are general agile and SRE concepts, not specific to OKRs. There is no evidence of the key OKR topics such as strategic intent, measurable key results, or the superpowers of focus, tracking, alignment, or stretch. Consequently, the mentions (0.0) and depth (0.5) scores are particularly low. Minor relevance to general agile management methodologies explains the slightly higher signal-to-noise (6.0) and audience alignment (4.5) scores, as the target audience (practitioners, agile leaders, DevOps teams) overlaps in part with typical OKR-focused audiences. No penalties are warranted since content does not contradict or negatively represent OKRs; it simply doesn't reference them substantively.",
     "reasoning_summary": "The content closely relates to DevOps and site reliability but shows minimal substantive alignment to Objective & Key Results (OKRs), lacking explicit references or in-depth treatment of OKR principles or practices.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "5bgcpPqcGlw",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:09",
+    "ai_confidence": 28.82,
+    "ai_mentions": 0.5,
+    "ai_alignment": 3.6,
+    "ai_depth": 2.8,
+    "ai_intent": 4.9,
+    "ai_audience": 5.2,
+    "ai_signal": 6.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "The content primarily discusses site reliability, DevOps best practices, automation, telemetry, and cross-functional teams, referencing Azure DevOps culture. While there is mention of cross-functional teams and some allusions to modern product development, it does not explicitly discuss the Product Developer accountability, role, or collective responsibilities as defined in the category. There are no direct mentions of Product Developers, and themes specific to their accountability (e.g., Sprint Backlog ownership, Definition of Done, product-focused behaviors) are absent. The depth of discussion is centered on engineering practices rather than the role/behaviors of Product Developers in a formal sense, and the intent is more to educate about reliability and DevOps culture than to inform Product Developers about their accountability. The audience is generally technical but not targeted specifically to Product Developers as defined. Signal-to-noise is strong for SRE and DevOps, but not for Product Developer as a category.",
+    "reasoning_summary": "The content focuses on site reliability, DevOps, and team culture, with only minimal and indirect relevance to the Product Developer role and accountability. It does not address the core responsibilities or definitions required for strong alignment with the Product Developer category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "5bgcpPqcGlw",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:09",
+    "ai_confidence": 29.53,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.3,
+    "ai_intent": 2.9,
+    "ai_audience": 6.2,
+    "ai_signal": 7.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content focuses on practices and cultural aspects within Azure DevOps for building reliability, such as transparency, automation, cross-functional teams, and continuous improvement. It thoroughly discusses human teamwork and operational excellence but never directly references or explores human-AI partnerships, distributed cognition, or Collective Intelligence as defined. Its main purpose is to share human-centric SRE/DevOps best practices. There are no explicit or implicit discussions about human-AI collaboration, AI as a team member, or augmented team cognition. Audience alignment and signal are reasonable due to relevance for Agile/DevOps practitioners, but overall conceptual and discussion depth fit for Collective Intelligence is weak.",
+    "reasoning_summary": "This content centers on human team practices in DevOps and site reliability engineering at Azure. It lacks any direct or substantive discussion of human-AI collaboration or emergent collective intelligence, thus its fit with the 'Collective Intelligence' category is weak.",
+    "level": "Ignored"
   }
 }

@@ -1889,5 +1889,43 @@
     "reasoning": "The provided content exclusively addresses the UK and US governments' 'Cloud First' policy, specifically mandating public cloud solutions for government IT and discussing the general acceptance or resistance of cloud technology among public sector organizations. There is no discussion of the Objective & Key Results (OKR) framework whatsoever—no mention by name, no conceptual overlap with strategic goal-setting or measurable outcomes, no reflection on alignment and transparency mechanisms typically associated with OKRs, and no connection to John Doerr's OKR foundations. The minor conceptual alignment score (0.1) and intent score (0.1) reflect the faintest hint that adopting cloud technologies might underpin higher-level strategic goals such as agility or digital transformation indirectly relevant to OKRs, though this connection is weak at best and never explicitly articulated. Audience alignment gets a modest score since this content may still somewhat interest organizational strategists involved in outcome-driven decisions, even though the content itself is not OKR-relevant.",
     "reasoning_summary": "The content discusses cloud adoption policies without referencing or aligning with OKR theory, principles, practices, or frameworks, thus providing no clear fit with this category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:59",
+    "ai_confidence": 9.31,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.5,
+    "ai_depth": 0.3,
+    "ai_intent": 0.6,
+    "ai_audience": 1.5,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content discusses government 'Cloud First' policies, public cloud mandates, and adoption challenges. It targets organizations and practitioners in the UK/US public sector considering cloud migration and SaaS. Nowhere are Product Developers as a role or accountability, nor are their behaviors, accountabilities, or cross-functional skills discussed per the classification. There are no direct mentions, and no conceptual or practical depth related to Product Developer. The content is tangential to product development and is focused on policy and procurement strategies for public cloud, not on the structure, purpose, or responsibilities defined for Product Developers.",
+    "reasoning_summary": "This content focuses on government cloud adoption policy, not on the Product Developer role or accountability. There is virtually no alignment with Product Developer topics, responsibilities, or audience, making it minimally relevant for the category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "6VDaSknKBPu",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:53",
+    "ai_confidence": 10.02,
+    "ai_mentions": 0.0,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on government policy for cloud adoption, its history, rationale, and adoption barriers within the UK and US public sectors. There is no discussion of the interaction or collaboration between humans and AI agents, nor of human-AI partnerships or team-based socio-technical systems. All examples relate to SaaS and public cloud adoption, not Collective Intelligence as defined. No penalties applied as content is not outdated nor oppositional.",
+    "reasoning_summary": "This content is strictly about government cloud adoption policy, not about human-AI collaboration or Collective Intelligence. It doesn't touch on any of the core themes relevant to the category, thus has negligible relevance.",
+    "level": "Ignored"
   }
 }

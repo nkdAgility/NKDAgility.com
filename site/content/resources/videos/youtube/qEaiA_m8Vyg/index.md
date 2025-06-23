@@ -1,8 +1,12 @@
 ---
 title: Why have you decided to go all in on immersive learning experiences?
+short_title: Why Choose Immersive Learning for Better Engagement?
 description: Explores how immersive learning boosts engagement, retention, and understanding through hands-on practice, community support, and continuous, interactive learning.
 date: 2023-07-10T07:00:18Z
 weight: 1000
+ResourceId: qEaiA_m8Vyg
+ResourceImport: true
+ResourceType: videos
 slug: why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 aliases:
 - /resources/qEaiA_m8Vyg
@@ -16,9 +20,6 @@ categories:
 - Uncategorized
 tags:
 - Continuous Learning
-ResourceId: qEaiA_m8Vyg
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: qEaiA_m8Vyg
@@ -35,6 +36,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:56Z
+  short_title: 2025-06-23T12:42:16Z
 
 ---
 ## Why Have You Decided to Go All-In on Immersive Learning Experiences? 

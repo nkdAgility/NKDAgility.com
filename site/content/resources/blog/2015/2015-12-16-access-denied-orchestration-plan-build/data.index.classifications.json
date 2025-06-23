@@ -1923,5 +1923,43 @@
     "reasoning": "The given content entirely deals with a technical issue concerning build agent setup, permissions, and orchestration plan access within TFS (Team Foundation Server). It does not mention OKRs nor concepts like Objectives, Key Results, strategic alignment, outcome or evidence-based measurement, transparency, accountability, or any core principles defined by John Doerr in 'Measure What Matters.' The content exclusively focuses on troubleshooting build permission challenges with no conceptual linkage or mention of OKRs. Thus, scores for mentions, alignment, depth, intent are nearly zero. Minimal points were granted for audience and signal-to-noise ratio because agile/technical DevOps teams might overlap with OKR audience, and the content is focused without unrelated filler. No penalties are applicable as there's no outdated/critical tone contradicting OKRs.",
     "reasoning_summary": "The content contains no meaningful reference or conceptual alignment to Objective & Key Results and exclusively addresses technical permissions troubleshooting in TFS builds.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "l331AonWBuN",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:18:01",
+    "ai_confidence": 7.4,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.2,
+    "ai_intent": 0.9,
+    "ai_audience": 2.2,
+    "ai_signal": 1.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content is a technical troubleshooting guide for build agent permissions in TFS, focused exclusively on solving a specific infrastructure issue. There are no direct mentions of the Product Developer role, nor is there discussion of responsibilities, accountabilities, or collective behaviors typical to Product Developers. The material addresses build administrators, providing step-by-step technical fixes for service accounts and permissions in build orchestration scenarios. No aspects of Product Developer purpose, skills, or accountability as defined in modern frameworks appear—there is no mention of cross-functionality, Sprint Backlog, Definition of Done, or integration of developers (human or automated) as per the Product Developer role. Audience is likely system administrators or DevOps engineers, not Product Developer practitioners per se. The whole narrative is tightly scoped to resolving a build service permission issue and does not touch on team behaviors, professional accountability, or product focus.",
+    "reasoning_summary": "This content is a focused technical guide for resolving TFS build permission errors, with no reference or alignment to Product Developer roles, accountabilities, or behaviors. It targets build admins rather than product development practitioners, so does not fit the Product Developer category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "l331AonWBuN",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:18:03",
+    "ai_confidence": 2.89,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.0,
+    "ai_intent": 2.0,
+    "ai_audience": 3.0,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "The content is a troubleshooting guide for permission issues in TFS build orchestration. It discusses technical steps to add service accounts and configure security settings in the context of DevOps pipelines but does not discuss collective intelligence, human-AI collaboration, or the emergence of enhanced outcomes via human-AI teaming. There are no direct or implied references to AI, human agency in AI partnerships, or collective problem-solving involving both humans and AI. All focus is on technical process and permissions troubleshooting within a standard software tool setup.",
+    "reasoning_summary": "This content focuses on build permissions troubleshooting in TFS/Team City with no reference to human-AI collaboration, emergent collective intelligence, or human-AI teaming. It remains firmly outside the collective intelligence category as defined.",
+    "level": "Ignored"
   }
 }

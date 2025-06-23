@@ -1,42 +1,44 @@
 ---
 title: Getting Started with Objectives & Key Results
+short_title: How Do You Successfully Implement OKRs?
 description: Learn how to successfully implement OKRs by aligning clear strategy, fostering transparency, empowering teams, focusing on outcomes, and establishing iterative execution practices.
 date: 2025-08-18T09:00:00Z
 weight: 490
-slug: getting-started-with-objectives-key-results
-aliases:
-  - /resources/bpRR4ieKvr3
 ResourceId: bpRR4ieKvr3
 ResourceImport: false
 ResourceType: blog
+slug: getting-started-with-objectives-key-results
+aliases:
+- /resources/bpRR4ieKvr3
 ResourceContentOrigin: hybrid
 mermaid: true
 Watermarks:
   description: 2025-06-03T15:33:08Z
+  short_title: 2025-06-23T12:32:43Z
 concepts:
-  - Strategy
+- Strategy
 categories:
-  - Product Development
-  - Product Management
-  - Leadership
+- Product Development
+- Product Management
+- Leadership
 tags:
-  - Objective Key Results
-  - Common Goals
-  - Strategic Goals
-  - Agile Strategy
-  - Organisational Agility
-  - Product Strategy
-  - Continuous Improvement
-  - Empirical Process Control
-  - Organisational Change
-  - Value Delivery
-  - Organisational Culture
-  - Pragmatic Thinking
-  - Social Technologies
-  - Metrics and Learning
-  - Enterprise Agility
----
+- Objective Key Results
+- Common Goals
+- Strategic Goals
+- Agile Strategy
+- Organisational Agility
+- Product Strategy
+- Continuous Improvement
+- Empirical Process Control
+- Organisational Change
+- Value Delivery
+- Organisational Culture
+- Pragmatic Thinking
+- Social Technologies
+- Metrics and Learning
+- Enterprise Agility
 
+---
 OKRs are not plug-and-play. They’re not a magic framework you sprinkle on top of chaos and suddenly get strategy, alignment, and velocity. They are a **discipline**. A **set of practices**. And they only work when the foundations are in place.
 
 So what do you need?

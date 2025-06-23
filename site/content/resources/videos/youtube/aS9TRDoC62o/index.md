@@ -1,8 +1,12 @@
 ---
 title: If a client hasn't considered DevOps consulting as part of their Agile Consulting needs, why should they?
+short_title: Why Combine DevOps Consulting With Agile Practices?
 description: DevOps consulting enhances Agile by improving collaboration, accelerating delivery, and ensuring quality, making software development more efficient and resilient.
 date: 2023-08-21T07:00:01Z
 weight: 220
+ResourceId: aS9TRDoC62o
+ResourceImport: true
+ResourceType: videos
 slug: if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs-why-should-they
 aliases:
 - /resources/aS9TRDoC62o
@@ -28,9 +32,6 @@ tags:
 - Software Development
 - Operational Practices
 - Pragmatic Thinking
-ResourceId: aS9TRDoC62o
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: aS9TRDoC62o
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:58Z
+  short_title: 2025-06-23T12:41:37Z
 
 ---
 ## Why Agile Alone Isn't Enough Without [DevOps]({{< ref "/categories/devops" >}}) Consulting 

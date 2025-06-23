@@ -122,7 +122,7 @@ function Get-EmbeddingFromHugoMarkdown {
     }
 
     # 3. Generate embedding and upload
-    $contentText = Get-Content -Path $HugoMarkdown.FilePath -Raw
+    $contentText = Get-Content -Path $HugoMarkdown.BodyContent
     $contentHash = Get-ContentHash $contentText
     $tokens = Get-TokenCountFromServer -Content $contentText
     if ($tokens -gt 8192) {

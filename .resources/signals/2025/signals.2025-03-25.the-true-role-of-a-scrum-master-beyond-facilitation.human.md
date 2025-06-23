@@ -1,5 +1,6 @@
 ---
 title: The True Role of a Scrum Master Beyond Facilitation
+short_title: What Does a Scrum Master Really Do Beyond Facilitation?
 description: Explains how a Scrum Master drives team improvement, removes obstacles, and leads organisational change, going far beyond basic facilitation or meeting management.
 date: 2025-03-25T16:30:02+00:00
 weight: 365
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:54Z
+  short_title: 2025-06-23T12:14:32Z
 concepts:
 - Accountability
 categories:

@@ -1,8 +1,12 @@
 ---
 title: The Evolution of Product Management in the Agile Era
+short_title: How Has Agile Changed Product Management?
 description: Explores how Agile transformed product management by enabling shorter release cycles, faster feedback, continuous delivery, and a stronger focus on built-in quality.
 date: 2024-07-18T06:45:01Z
 weight: 790
+ResourceId: _FtFqnZHCjk
+ResourceImport: true
+ResourceType: videos
 slug: the-evolution-of-product-management-in-the-agile-era
 aliases:
 - /resources/_FtFqnZHCjk
@@ -32,9 +36,6 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Value Delivery
-ResourceId: _FtFqnZHCjk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: _FtFqnZHCjk
@@ -51,6 +52,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:02:33Z
+  short_title: 2025-06-23T12:37:04Z
 
 ---
 [Product management]({{< ref "/categories/product-management" >}}) has always revolved around one fundamental goal: **maximizing business value**. However, with the advent of Agile methodologies, there’s been a significant shift in how this goal is achieved. While the core tools and techniques remain largely unchanged, the approach to their application has evolved, leading to a more dynamic and responsive process.

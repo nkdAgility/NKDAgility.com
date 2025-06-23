@@ -3285,5 +3285,43 @@
     "reasoning": "The content does not explicitly mention OKRs, objectives, or key results. It focuses on system-level causes of developer productivity, citing process improvements over individual performance analysis. No reference is made to OKR practices, foundational theory, alignment, or implementation. While it hints at systemic measurement, this is rooted in general process and performance improvement, not in the formal OKR framework or its principles. The target audience aligns partially (tech leaders), but substantive connection to OKR theory, use, or context is missing.",
     "reasoning_summary": "This content centers on improving productivity through process change, not through the OKR framework. It makes no mention of OKRs, their components, or usage, so its relevance to the category is highly limited.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "CkgnD5GYbI8",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:01",
+    "ai_confidence": 27.89,
+    "ai_mentions": 1.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.5,
+    "ai_intent": 2.9,
+    "ai_audience": 7.0,
+    "ai_signal": 3.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content discusses developer productivity and the impact of systemic process inefficiencies, emphasizing that system issues—not individual shortcomings—are the root cause of performance problems. While it refers to 'developers' generically, it does not explicitly address the 'Product Developer' role or accountability as defined in modern product development frameworks. There are no discussions specifically about cross-functionality, accountability for the Sprint Backlog, or integration with frameworks like Scrum. The central themes are aligned with broader developer and process improvement topics, not the specialized focus on Product Developer as a role with collective accountability and defined behaviors. Audience alignment is higher, as practitioners and developers could overlap, but overall, the content is tangential to the category definition.",
+    "reasoning_summary": "The content focuses on systemic process issues impacting general developer performance but doesn't address the formal role, responsibilities, or behaviors of Product Developers as defined in modern frameworks. Its relevance to the Product Developer category is minimal.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "CkgnD5GYbI8",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:07",
+    "ai_confidence": 9.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 2.1,
+    "ai_audience": 2.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses exclusively on the impact of slow processes on developer productivity. There is no explicit or implicit reference to human-AI collaboration or partnership, nor to emergent cognitive capabilities from joint human-AI activity. The discussion is solely about systemic/process factors affecting humans (developers), with no mention of AI or collective intelligence concepts. The ideas of team or systemic improvement are framed purely in terms of human collaboration and process design. Scores are extremely low in all dimensions due to total absence of the category's required elements.",
+    "reasoning_summary": "This content is unrelated to 'Collective Intelligence'—it only discusses systemic process failures impacting developers, with no mention of human-AI collaboration, partnership, or emergent group cognition involving AI.",
+    "level": "Ignored"
   }
 }

@@ -1938,5 +1938,43 @@
     "reasoning": "The provided content centers on remote work practices for Agile teams, emphasizing methods of communication, tools, production metrics, team dynamics, and UX integration. It consistently references Agile and Scrum frameworks, highlighting the importance of collaboration, transparency, timely feedback loops, and continuous improvement—all relevant to agile environments. However, it shows no explicit mention or exploration of Objectives and Key Results (OKR) frameworks. There is no direct reference or implicit engagement with OKRs, their strategic alignment, measurable outcomes, or iterative goal-setting processes as outlined by John Doerr. The piece primarily addresses pragmatic guidance tailored to remote Agile and Scrum contexts, focusing more on teamwork, UX practices, value delivery, and improving software development cycles rather than structured goal-setting methodologies. Therefore, the scores for direct mentions (0.0), conceptual alignment (1.5), and depth of discussion (0.5) are quite low due to missing explicit connections to OKRs. Intent alignment is also low (1.5) because the purpose is supportive of team collaboration and agile practices but does not directly align with the OKR category. However, the intended audience (practitioners and strategists in Agile contexts) aligns moderately well with the OKR audience (score: 6.5). The signal-to-noise ratio is reasonably good (score: 6.0) since the content primarily sticks to Agile-relevant themes, albeit not strictly OKRs. No penalties are applied since the content does not violate the outlined penalty criteria.",
     "reasoning_summary": "The content offers practical strategies for agile teamwork and remote collaboration but lacks explicit references to Objectives and Key Results frameworks or relevant strategic OKR concepts, leading to weak alignment with the OKR category definition.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "A8URbBCljnQ",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:21",
+    "ai_confidence": 34.22,
+    "ai_mentions": 1.4,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.2,
+    "ai_intent": 4.1,
+    "ai_audience": 5.6,
+    "ai_signal": 4.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content discusses Agile team practices, remote work strategies, team collaboration, UX integration, and accountability within teams. However, it does not directly mention 'Product Developer' as a formal role or its specific accountabilities. While collective team responsibility and cross-functional skills are touched on, these are presented in a generic Agile context, not centering on the Product Developer as defined in modern frameworks. There is no distinction between the Product Developer's role, structure, or specific accountabilities versus general Agile team behaviors. Therefore, conceptual alignment and depth are modest. Audience is somewhat aligned (Agile practitioners), but the primary intent and overall content focus are broader and not specific to Product Developer accountability.",
+    "reasoning_summary": "The content shares Agile remote work practices, team dynamics, and integrating UX, mentioning collective accountability, but never explicitly addresses Product Developer roles or their specific responsibilities. It aligns in spirit with product teams but not with the formal Product Developer accountability.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "A8URbBCljnQ",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:18",
+    "ai_confidence": 20.38,
+    "ai_mentions": 0.6,
+    "ai_alignment": 2.2,
+    "ai_depth": 2.8,
+    "ai_intent": 2.4,
+    "ai_audience": 5.1,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses on remote Agile team practices, communication, tool selection, collaborative team dynamics, and integrating UX. While there are mentions of team collaboration, gamification, and collective accountability, the discussion is strictly about human teamwork and best practices—there is no explicit or implicit discussion about human-AI collaboration, AI agents, or human-AI partnerships. The main ideas align only partially, as themes like team dynamics, gamification, and collective responsibility mirror some aspects of collective intelligence, but exclusively in human contexts. No scoreable evidence of distributed cognition with AI, human-AI collaboration frameworks, or AI team members is present—thus, the fit is weak. The audience (Agile practitioners) is aligned, but intent and depth for the Collective Intelligence category are notably insufficient.",
+    "reasoning_summary": "The content addresses remote Agile teamwork, communication, and collaborative practices, but solely among humans. There is no discussion of human-AI partnerships, AI agents, or collective intelligence as defined. Alignment and depth for the category are low, with only tangential relevance.",
+    "level": "Ignored"
   }
 }

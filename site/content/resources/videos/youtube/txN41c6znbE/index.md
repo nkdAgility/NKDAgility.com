@@ -1,8 +1,12 @@
 ---
 title: 'Where Agile Went Wrong: Understanding the Competence Crisis'
+short_title: How Can We Solve the Agile Competence Crisis?
 description: Explores how early assumptions about competence led to Agile’s current skills gap, highlighting the need for continuous learning, better hiring, and deeper expertise in teams.
 date: 2024-10-14T07:00:38Z
 weight: 250
+ResourceId: txN41c6znbE
+ResourceImport: true
+ResourceType: videos
 slug: where-agile-went-wrong-understanding-the-competence-crisis
 aliases:
 - /resources/txN41c6znbE
@@ -33,9 +37,6 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Team Performance
-ResourceId: txN41c6znbE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: txN41c6znbE
@@ -52,6 +53,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:32Z
+  short_title: 2025-06-23T12:35:40Z
 
 ---
 Agile was supposed to revolutionize the way we build and deliver products, but it veered off track surprisingly early. The seeds of these challenges were planted during the creation of the Agile Manifesto itself. At Snowbird, a group of experienced and capable practitioners crafted a vision for agility in [software development]({{< ref "/tags/software-development" >}}). However, they made some assumptions that have come to haunt us.

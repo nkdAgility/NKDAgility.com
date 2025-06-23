@@ -1,5 +1,6 @@
 ---
 title: Scrum is built on empiricism—transparency, inspection, and adaptation
+short_title: What Happens If a Scrum Team Delivers No Increment?
 description: Explains why consistent delivery of usable increments is essential in Scrum, highlighting the Scrum Master's accountability for ensuring transparency, inspection, and adaptation.
 date: 2025-02-24T16:30:29+00:00
 weight: 535
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:44Z
+  short_title: 2025-06-23T12:15:13Z
 concepts:
 - Principle
 categories:

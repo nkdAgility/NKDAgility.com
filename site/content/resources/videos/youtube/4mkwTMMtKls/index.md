@@ -1,8 +1,12 @@
 ---
 title: '7 deadly sins of Agile: Envy'
+short_title: How Can Teams Avoid Copying Agile Models Like Spotify?
 description: Explores how envy leads teams to copy Agile models like Spotify, warns against FOMO-driven adoption, and stresses tailoring Agile practices to your team’s unique needs.
 date: 2023-10-09T11:17:10Z
 weight: 1000
+ResourceId: 4mkwTMMtKls
+ResourceImport: true
+ResourceType: videos
 slug: 7-deadly-sins-of-agile-envy
 aliases:
 - /resources/4mkwTMMtKls
@@ -21,9 +25,6 @@ categories:
 - Uncategorized
 tags:
 - Software Development
-ResourceId: 4mkwTMMtKls
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 4mkwTMMtKls
@@ -40,6 +41,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:08:57Z
+  short_title: 2025-06-23T12:40:39Z
 
 ---
 #### Steering Clear of Envy in Agile: A Roadmap for Authentic Success 🗺️✨ 

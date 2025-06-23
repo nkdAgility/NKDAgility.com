@@ -1,5 +1,6 @@
 ---
 title: Most companies still get Product Ownership wrong
+short_title: Are You Misunderstanding Product Ownership?
 description: Many organisations misunderstand Product Ownership, treating it as simple backlog management instead of a strategic, accountable role essential for product success and team alignment.
 date: 2025-04-17T15:30:37+01:00
 weight: 595
@@ -25,6 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:23Z
+  short_title: 2025-06-23T12:14:04Z
 concepts:
 - Accountability
 categories:

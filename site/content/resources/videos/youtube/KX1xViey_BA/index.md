@@ -1,8 +1,12 @@
 ---
 title: 'Quotes: In the past the man has been first; in the future the system must be first. Frederick Winslow Taylor'
+short_title: How Can We Balance Systems and People in Agile Work?
 description: Explores the shift from people to systems in work, the impact on Agile practices, and the importance of balancing efficient systems with human collaboration.
 date: 2023-10-12T11:00:15Z
 weight: 1000
+ResourceId: KX1xViey_BA
+ResourceImport: true
+ResourceType: videos
 slug: quotes-in-the-past-the-man-has-been-first-in-the-future-the-system-must-be-first-frederick-winslow-taylor
 aliases:
 - /resources/KX1xViey_BA
@@ -22,9 +26,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: KX1xViey_BA
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: KX1xViey_BA
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:49Z
+  short_title: 2025-06-23T12:40:32Z
 
 ---
 ## People, Systems, and Finding the Balance 

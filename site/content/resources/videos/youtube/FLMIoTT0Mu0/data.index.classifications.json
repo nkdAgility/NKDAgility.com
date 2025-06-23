@@ -3132,5 +3132,43 @@
     "reasoning": "The content provided explicitly focuses on automation in delivery pipelines to ensure consistent quality outcomes. It emphasizes embedding automated quality gates in continuous integration and continuous deployment (CI/CD) processes to remove the influence of human error or forgetfulness. The subject matter primarily addresses automated testing, security scans, linting, and static analysis as essential pipeline-driven measures of quality assurance. \n\nThe content does not explicitly or implicitly address or reference Objectives & Key Results (OKRs). There are no mentions of setting measurable strategic objectives, tracking key results, fostering alignment through transparency and clear communication, or iterative outcome-based inspection and adaptation, as explicitly defined in the classification criteria. Instead, the main thrust aligns closely with DevOps automation, pipeline practices, and quality engineering.\n\nAlthough the content briefly touches on concepts such as outcome reliability and consistency (which may have slight conceptual overlap with OKR practices of outcome orientation), this overlap is shallow and incidental rather than deliberate or explicit. The intended audience (agile and DevOps practitioners, engineers, and technical leads) generally aligns well with the OKR category audience, leading to a relatively high score in the audience dimension. Similarly, the signal-to-noise ratio is high because the content remains consistently focused on pipeline-oriented automated quality practices without straying into irrelevant or filler content.\n\nNo penalties are applied because the content is current, relevant to modern industry practices, and does not contain contradictions to the principles of OKRs (it merely does not directly address them).\n\nOverall, the low overall confidence score reflects the complete absence of explicit mentions or significant conceptual alignment with OKRs and indicates that this content does not belong in the 'Objective & Key Results' category.",
     "reasoning_summary": "The content focuses exclusively on automated quality gates and CI/CD pipeline practices. It lacks any explicit or implicit references to OKRs, strategic outcomes, or measurable key results, reflecting limited relevance to OKRs specifically.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "FLMIoTT0Mu0",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:48",
+    "ai_confidence": 28.13,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.6,
+    "ai_depth": 2.9,
+    "ai_intent": 2.4,
+    "ai_audience": 4.0,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses on the importance of automated pipelines, quality gates, and removing manual steps from delivery workflows. It never directly references 'Product Developer' or their accountability, structure, or behaviors. While tangentially relevant for teams practicing modern product development, its concepts are generic DevOps quality assurance rather than a focused exploration of Product Developer role, skills, or responsibilities. Audience is likely practitioners but not necessarily Product Developers per the formal accountability meaning.",
+    "reasoning_summary": "This piece argues for automated quality pipelines and process rigor, but never addresses Product Developers as a role or accountability. Its relevance is indirect, focused on general DevOps quality—not Product Developer specifics—resulting in low confidence for this specific classification.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "FLMIoTT0Mu0",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:55",
+    "ai_confidence": 16.19,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.0,
+    "ai_intent": 2.2,
+    "ai_audience": 5.2,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on automation and quality gates in CI/CD pipelines, emphasizing eliminating human error via automated checks. While it discusses human limitations and process reliability, it does not address human-AI collaborative problem-solving, agency interplay, or emergent cognitive capabilities characteristic of Collective Intelligence. No discussion of AI agents as team members or human-AI distributed cognition is present. The intent is on operational excellence via automation, not on exploiting synergies between humans and AI for superior outcomes. The audience is likely relevant (Agile/DevOps practitioners), but the core subject is automation reliability, not human-AI partnership.",
+    "reasoning_summary": "Content centers on pipeline automation and minimizing human error—topics tangential to Collective Intelligence. It lacks discussion of human-AI collaboration, AI agency, or emergent synergies, so fit with the category is minimal.",
+    "level": "Ignored"
   }
 }

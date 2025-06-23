@@ -1,8 +1,12 @@
 ---
 title: 'Transform Your Product Development: Unlock User Value, Reduce Waste, and Enhance Collaboration with Structured Learning'
+short_title: How Can Structured Learning Improve Product Development?
 description: Learn how structured learning in product development boosts user value, reduces waste, fosters collaboration, and encourages creativity through evidence-based practices.
 date: 2024-08-27T07:07:18Z
 weight: 1000
+ResourceId: OFUsZq0TKoo
+ResourceImport: true
+ResourceType: videos
 slug: transform-your-product-development-unlock-user-value-reduce-waste-and-enhance-collaboration-with-structured-learning
 aliases:
 - /resources/OFUsZq0TKoo
@@ -21,9 +25,6 @@ tags:
 - Pragmatic Thinking
 - Product Discovery
 - Value Delivery
-ResourceId: OFUsZq0TKoo
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: OFUsZq0TKoo
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:58:43Z
+  short_title: 2025-06-23T12:36:25Z
 
 ---
 As I reflect on my journey in [product development]({{< ref "/categories/product-development" >}}), I can’t help but think about the transformative power of structured learning. Recently, I had the opportunity to delve into a course that promises to change the game for anyone involved in product development. I want to share my insights on how this course can significantly enhance your approach to creating user value, reducing waste, and fostering collaboration.

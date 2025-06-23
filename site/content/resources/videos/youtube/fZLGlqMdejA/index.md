@@ -1,8 +1,12 @@
 ---
 title: '7 Deadly Sins of Agile: Greed'
+short_title: How Does Greed Impact Agile Teams and Value Delivery?
 description: Explores how greed in Agile leads to overwork and reduced value, offering strategies for value-driven delivery, balanced sprints, team trust, and effective leadership.
 date: 2023-10-11T12:00:36Z
 weight: 415
+ResourceId: fZLGlqMdejA
+ResourceImport: true
+ResourceType: videos
 slug: 7-deadly-sins-of-agile-greed
 aliases:
 - /resources/fZLGlqMdejA
@@ -34,9 +38,6 @@ tags:
 - Agile Product Management
 - Agile Leadership
 - Organisational Agility
-ResourceId: fZLGlqMdejA
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: fZLGlqMdejA
@@ -53,6 +54,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:53Z
+  short_title: 2025-06-23T12:40:36Z
 
 ---
 **Overcoming Greed in Agile: A Path to Value and Efficiency** 

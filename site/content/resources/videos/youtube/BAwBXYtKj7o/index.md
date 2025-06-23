@@ -1,8 +1,12 @@
 ---
 title: Technical Debt Management for Long-Term Quality
+short_title: How Does Managing Technical Debt Improve Software Quality?
 description: Explains how managing and repaying technical debt improves software quality, delivery speed, and long-term value by addressing both known and unknown code issues.
 date: 2024-11-21T07:00:11Z
 weight: 205
+ResourceId: BAwBXYtKj7o
+ResourceImport: true
+ResourceType: videos
 slug: technical-debt-management-for-long-term-quality
 aliases:
 - /resources/BAwBXYtKj7o
@@ -27,9 +31,6 @@ tags:
 - Engineering Practices
 - Working Software
 - Pragmatic Thinking
-ResourceId: BAwBXYtKj7o
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: BAwBXYtKj7o
@@ -46,6 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:11Z
+  short_title: 2025-06-23T12:35:24Z
 
 ---
 # [Technical Debt]({{< ref "/tags/technical-debt" >}}) Management for Long-Term Quality | Martin Hinshelwood  

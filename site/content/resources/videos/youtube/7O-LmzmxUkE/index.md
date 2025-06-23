@@ -1,8 +1,12 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 1.
+short_title: Are Scrum Events Just Pointless Meetings?
 description: Explains why Scrum events are not pointless meetings but structured opportunities for inspection, adaptation, and progress, clarifying common misconceptions about Scrum.
 date: 2023-10-24T06:50:42Z
 weight: 665
+ResourceId: 7O-LmzmxUkE
+ResourceImport: true
+ResourceType: videos
 slug: scrum-is-like-communism-it-doesn't-work-myth-1
 aliases:
 - /resources/7O-LmzmxUkE
@@ -31,9 +35,6 @@ tags:
 - Empirical Process Control
 - Agile Frameworks
 - Daily Scrum
-ResourceId: 7O-LmzmxUkE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 7O-LmzmxUkE
@@ -50,6 +51,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:08:27Z
+  short_title: 2025-06-23T12:40:13Z
 
 ---
 # Demystifying [Scrum]({{< ref "/categories/scrum" >}}): Beyond Meetings to Meaningful Events 🚀

@@ -1,8 +1,12 @@
 ---
 title: Overview of the 'scaling with portfolio Kanban' course
+short_title: How Does Portfolio Kanban Improve Workflow and Predictability?
 description: Learn how to apply Kanban at the organisational level to optimise workflow, improve predictability, and make data-driven decisions across multiple teams and projects.
 date: 2024-02-22T07:00:26Z
 weight: 750
+ResourceId: kOj-O99mUZE
+ResourceImport: true
+ResourceType: videos
 slug: overview-of-the-'scaling-with-portfolio-kanban'-course
 aliases:
 - /resources/kOj-O99mUZE
@@ -24,9 +28,6 @@ tags:
 - Scaling
 - Agile Frameworks
 - Portfolio Management
-ResourceId: kOj-O99mUZE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: kOj-O99mUZE
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:38Z
+  short_title: 2025-06-23T12:37:47Z
 
 ---
 ### [Scaling]({{< ref "/tags/scaling" >}}) Portfolio [Kanban]({{< ref "/categories/kanban" >}}): Enhancing Flow and Predictability at the Organizational Level
