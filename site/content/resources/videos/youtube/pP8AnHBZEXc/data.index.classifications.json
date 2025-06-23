@@ -1872,5 +1872,43 @@
     "reasoning": "The provided content explicitly focuses on the Professional Scrum Foundations (PSF) class and the PSM I assessment, emphasizing Scrum roles, processes, empirical control, and practical teamwork exercises. There are no direct mentions or implicit references to Objective Key Results or a structured, measurable goal-setting approach. The closely related concept here is transparency, an integral OKR principle, but it is explored exclusively within Scrum’s empirical process, roles, artifacts, and team collaboration context, without any explicit or implicit connection to OKRs. The alignment score is very low (0.5), due to a passing thematic similarity through Agile transparency. The depth of discussion score (0.1) is also extremely low, as the main content is extensively Scrum-centric, not OKR-centric. Intent alignments scores just 0.5 since the intent is purely Scrum training and learning of Agile practices rather than discussing structured goal-setting frameworks like OKR. The audience alignment is relatively high (6.5) because agile practitioners may overlap with an audience interested in OKRs, though this overlap is not explicit. The signal-to-noise ratio is also reasonably high (7.0), indicating clear focus—just on the wrong category. No penalties were applied as there were no signals qualifying for penalty discounts.",
     "reasoning_summary": "The content strictly details Professional Scrum training and assessment; it does not meaningfully address OKRs or related goal-setting frameworks, thus has negligible relevance to OKRs.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "pP8AnHBZEXc",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:11",
+    "ai_confidence": 33.95,
+    "ai_mentions": 2.4,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.2,
+    "ai_intent": 4.3,
+    "ai_audience": 4.9,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 34.0,
+    "reasoning": "The content focuses on the Professional Scrum Foundations class and its learning outcomes. Scrum roles and accountabilities are mentioned, including the Development Team, but the discussion is general and does not specifically address Product Developer as a defined role or accountability in modern frameworks. Core Product Developer topics like cross-functional skills, collective accountability, or integration with automation are not directly explored. While there is relevance due to discussion of Scrum roles and teamwork, the content mostly serves as general Agile/Scrum training guidance rather than an in-depth look at Product Developer responsibilities, behaviors, or structure. Therefore, confidence is low but not entirely absent, as the foundational elements touch on prerequisites for the Product Developer role.",
+    "reasoning_summary": "This article offers a general overview of Scrum training and roles, briefly mentioning team-based work and accountabilities. However, it does not directly focus on the Product Developer role or delve into its distinct responsibilities, making alignment with the category limited.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "pP8AnHBZEXc",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:14",
+    "ai_confidence": 9.74,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.8,
+    "ai_intent": 0.7,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content focuses on Scrum training, practical team learning, and collaborative experiences among human team members. While there is emphasis on teamwork, shared learning, and agile collaboration, there is no reference—explicit or implicit—to human-AI collaboration, AI agents, or socio-technical partnerships which are central to the 'Collective Intelligence' category definition. The discussion is limited to human agency and team-based activities in Scrum, with no conceptual alignment with collective intelligence as defined (human-AI teaming). No penalties applied since the tone is constructive and practices are current.",
+    "reasoning_summary": "This content is centered on human teamwork and Scrum education without any links to human-AI collaboration or collective intelligence principles as defined. It does not fit the Collective Intelligence category.",
+    "level": "Ignored"
   }
 }

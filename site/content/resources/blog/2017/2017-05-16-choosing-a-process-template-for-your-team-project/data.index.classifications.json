@@ -1960,5 +1960,43 @@
     "reasoning": "The content provided focuses entirely on selecting the appropriate process template (CMMI, Agile, or Scrum) within TFS/VSTS. It emphasizes reducing friction and easing Agile implementation. However, it does not reference OKRs or Objective & Key Results explicitly or implicitly. There is no discussion around goals, measurable outcomes, strategic alignment, stretch goals, or iterative reviews in the sense defined by OKR practices and theory. Given this significant gap, the dimension 'Direct Mentions' is scored at 0. Conceptual Alignment and Depth of Discussion are low, as no substantial ideas tied to OKR practices are introduced or elaborated upon. Intent/Purpose Fit is low because the primary aim seems to be around process-template friction reduction rather than outcome-based strategic alignment, even though Agile methodology might indirectly relate to iterative improvements. Audience Alignment is moderate since teams using agile processes and interested in iterative improvements potentially overlap with OKR practitioners, though still indirectly. Signal-to-Noise is moderately rated because the content, while not about OKRs, is devoid of unrelated filler and remains consistently on Agile process templates. No penalties were applied because the article neither undermines nor criticizes OKR frameworks explicitly.",
     "reasoning_summary": "The content focuses purely on TFS/VSTS process template selection and does not significantly align with Objective & Key Results (OKRs). It lacks explicit or implicit discussion of OKR principles or implementation.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "dGSGEOYRJAo",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:53",
+    "ai_confidence": 9.1,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 0.9,
+    "ai_intent": 2.1,
+    "ai_audience": 1.2,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content is a detailed comparison and recommendation regarding process templates (Scrum, Agile, CMMI) for TFS/VSTS, primarily targeted at teams and organizations setting up agile processes. While it references agile, Scrum, and related terms extensively, it does not mention the Product Developer role, its formal accountabilities, team behaviors, or responsibilities as defined in modern product development frameworks. There is no discussion of cross-functional skills, collective accountabilities, Sprint Goal ownership, integration of automated contributors, or related themes necessary for the tag. The intent, depth, and audience all center on tooling/process decisions rather than Product Developer as a distinct accountability or role. Alignment is therefore very low.",
+    "reasoning_summary": "This content focuses on process template choices for TFS/VSTS, emphasizing Scrum’s advantages for agile teams. It does not address Product Developer role definitions, responsibilities, or related accountabilities, so alignment is minimal.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "dGSGEOYRJAo",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:56",
+    "ai_confidence": 7.38,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.8,
+    "ai_depth": 1.6,
+    "ai_intent": 1.3,
+    "ai_audience": 1.1,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "There are almost no direct references to human-AI partnerships or emergent cognition in the context of collective intelligence. The content focuses solely on human team process and tooling decisions within TFS/VSTS, with extensive argument for the Scrum template over others, and critiques of MSF-based templates. There is no discussion of human-AI collaboration, AI-enabled teams, or socio-technical systems integrating AI agents. All depth and examples focus exclusively on human workflow and process adaptation, so the alignment, depth, and intent scores remain low. The audience is relevant (practitioners and Agile teams) but with no overlap with Collective Intelligence topics per the category definition. No points were deducted for penalties because there is no evidence of obsolete practices or tone issues.",
+    "reasoning_summary": "The content is strictly about selecting human-only process templates in team project tools and never discusses human-AI collaboration or collective intelligence concepts, so alignment with the category is minimal.",
+    "level": "Ignored"
   }
 }

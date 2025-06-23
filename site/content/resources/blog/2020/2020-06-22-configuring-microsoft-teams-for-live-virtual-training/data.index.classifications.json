@@ -1880,5 +1880,43 @@
     "reasoning": "The provided content has absolutely no explicit or implied references to the Objective & Key Results (OKR) framework. Its primary focus is a detailed, step-by-step technical configuration guide for Microsoft Teams used specifically for running live virtual training classes. Topics covered include Azure Active Directory setup, Microsoft 365 subscriptions, guest access, external identities, and improving remote training experiences. There is no conceptual or thematic overlap with OKRs, nor are any of John Doerr's foundational OKR principles (focus, alignment, tracking measurable outcomes, or stretch goals) mentioned or implied. Given this clear and explicit misalignment, nearly all scoring dimensions—mentions, alignment, depth, intent—receive a score of zero. The only slightly non-zero dimensions are audience alignment and signal-to-noise ratio because practitioners interested in agile training solutions may have peripheral relevance to an audience also interested in OKRs. However, this connection is minimal and indirect, justifying extremely low but non-zero scoring for audience alignment and signal-to-noise ratio. No penalties apply, as the content does not actively contradict OKRs but simply is unrelated.",
     "reasoning_summary": "The content exclusively addresses the setup of Microsoft Teams for virtual training, without any reference, alignment, or relevance to Objective & Key Results (OKRs).",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:04",
+    "ai_confidence": 2.1,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.6,
+    "ai_depth": 0.4,
+    "ai_intent": 0.3,
+    "ai_audience": 1.1,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content details configuring Microsoft Teams for virtual training, focusing on technical setup for trainers. There are no direct or indirect mentions of Product Developer accountability, roles, cross-functionality, or collective responsibilities found in modern frameworks. The subject matter, examples, and intent focus on training administration, technical tips, and platform configuration for classes. There is no indication the article targets Product Developers as a role nor discusses their purpose, skills, behaviors, or integration with frameworks such as Scrum. The minimal scores reflect extreme misalignment—the only tangential pass is the brief mention of 'Professional Scrum' in the training context, but this still falls outside the formal Product Developer accountability scope.",
+    "reasoning_summary": "This content is about technical setup for live virtual training in Microsoft Teams, aimed at trainers and class administrators. It does not discuss Product Developer roles, accountabilities, or skills, and aligns minimally with the Product Developer category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "Xc0Lh3NbXfK",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:05",
+    "ai_confidence": 13.22,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.9,
+    "ai_intent": 0.8,
+    "ai_audience": 2.2,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content is a detailed procedural guide to configuring Microsoft Teams for live training. There is no direct mention or discussion of collective intelligence, human-AI collaboration, or emergent team cognition. The focus is on setup, access control, and optimizing digital environment logistics for human users. AI is not discussed as a team member; no human-AI agency, shared decision-making, or collective outcomes are present. Some collaborative work features (Teams, OneDrive) are described, but only as tools to enable human-to-human interaction. Audience may overlap with those interested in socio-technical systems, but the core content and intent lack alignment with the collective intelligence topic.",
+    "reasoning_summary": "This is a setup guide for Microsoft Teams to deliver live, human-led virtual training. It does not discuss human-AI teamwork, agency, or emergent collective intelligence. Content relevance to the category is minimal.",
+    "level": "Ignored"
   }
 }

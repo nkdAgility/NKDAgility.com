@@ -1951,5 +1951,43 @@
     "reasoning": "The content thoroughly discusses the Definition of Done (DoD) within Scrum, focusing explicitly on ensuring product quality, completed increments, and transparency. There are no direct mentions of Objective & Key Results (OKRs), nor discussions explicitly connected to the theoretical foundations, practical implementation steps, strategic alignment, or iterative inspection and adaptation associated with the OKR framework. Although OKRs emphasize similar values such as transparency, tracking outcomes, and continuous improvement, the content does not explicitly align these elements to the OKR philosophy. Instead, the discussion remains strictly within Scrum practice, specifically dedicated to quality assurance, increment delivery, and defining standards for completeness. The intent of the content is educational around Scrum team quality management and increment definition, rather than strategic outcome-based measurement or goal setting aligned with OKRs. Thus, the conceptual alignment, mentions, depth relating to OKR discussion, and the intent towards OKRs are all assessed at very low levels. Audiences interested in agile methodologies (e.g., Agile teams, Scrum practitioners, developers) may partially overlap with OKR audiences, warranting some audience relevance and improvement in signal-to-noise ratio. No penalties were necessary since the content neither contradicts nor references obsolete practices related to OKRs.",
     "reasoning_summary": "The detailed discussion focuses solely on Scrum's Definition of Done without referencing OKRs explicitly or conceptually, resulting in minimal alignment with the OKR category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "z18IcQhlD7I",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:16:55",
+    "ai_confidence": 68.325,
+    "ai_mentions": 5.7,
+    "ai_alignment": 7.6,
+    "ai_depth": 7.2,
+    "ai_intent": 6.6,
+    "ai_audience": 6.2,
+    "ai_signal": 5.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 68.0,
+    "reasoning": "The content discusses the Definition of Done (DoD) primarily in the context of 'Developers' as defined in Scrum, focusing on their responsibility for quality, creating increments, and continuous improvement. While it references essential aspects of Product Developer accountability—collective ownership, engineering practices, integration with Sprint Increments, and collaboration in workshops—it does not use the exact 'Product Developer' terminology. The core themes and behaviors (such as defining/meeting DoD, increasing quality, professional responsibility, and teamwork with PO and stakeholders) integrate well with the formal Product Developer role per modern frameworks, but the framing is more about applying DoD effectively than a direct treatise on the Product Developer accountability. There is some blend with generic Scrum team and team improvement practices, which slightly dilutes the signal-to-noise ratio and intent fit toward the 'Product Developer' category specifically.",
+    "reasoning_summary": "The message closely aligns with Product Developer responsibilities, including quality focus, increment delivery, and teamwork. However, it centers on the Definition of Done practice rather than specifically defining or exploring the formal Product Developer accountability and role.",
+    "level": "Secondary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "z18IcQhlD7I",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:16:57",
+    "ai_confidence": 7.4,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.6,
+    "ai_intent": 1.5,
+    "ai_audience": 1.2,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content discusses Scrum best practices, specifically focusing on creating and improving a Definition of Done (DoD) in software delivery teams. It emphasizes collaboration among developers, product owners, and stakeholders, but all references are to human team members—there is no mention of human-AI partnerships, AI agents, or augmented teamwork with AI. There is no exploration of collective intelligence as defined (i.e., enhanced capabilities through human-AI collaboration). The audience, while adjacent (Agile/Scrum practitioners), is not explicitly aligned in the context of collective intelligence as per the category. No penalties applied as content is current and tone is neutral.",
+    "reasoning_summary": "This content focuses exclusively on human team collaboration and best practices in Scrum. There are no mentions or explorations of human-AI collaboration, AI agents as team members, or collective intelligence as defined by the category.",
+    "level": "Ignored"
   }
 }

@@ -3285,5 +3285,43 @@
     "reasoning": "The content focuses on the importance of frequent software releases for risk reduction, referencing the CHAOS Report and DORA metrics. There are no explicit mentions or discussion of OKRs, their principles, or implementation. While speed, adaptability, and measurement are mentioned, they are not framed in the context of Objective Key Results or John Doerr’s work, nor is there any exploration of strategic alignment, transparency, or outcome-driven practices as defined by OKRs. The content is instead centered on DevOps and release frequency best practices, not the OKR framework.",
     "reasoning_summary": "This content is about reducing risk through frequent releases— supported by DORA and CHAOS research—without referencing or aligning with Objective Key Results or related principles.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "-hq1U7x2uea",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:43",
+    "ai_confidence": 29.68,
+    "ai_mentions": 0.9,
+    "ai_alignment": 3.8,
+    "ai_depth": 2.3,
+    "ai_intent": 3.1,
+    "ai_audience": 8.2,
+    "ai_signal": 7.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 30.0,
+    "reasoning": "The content focuses on the importance of frequent, small releases backed by CHAOS Report and DORA metrics. While this is very relevant to modern product development and aligns with outcomes valued by Product Developers, it does not mention or discuss the Product Developer role, accountability, collective skillset, or explicit behaviors. The target audience is likely development practitioners, but the text is generic, with no reference to Product Developer responsibilities, structure, or integration (e.g., Sprint Backlog, collective accountability). It emphasizes adaptive delivery (which Product Developers value) but does not specifically situate these practices within the formal remit or mindset of the Product Developer role.",
+    "reasoning_summary": "This content emphasizes frequent, small software releases and cites industry metrics, aligning generally with product development best practices. However, it lacks any discussion of the Product Developer role, accountability, or their specific behaviors, making its relevance to the 'Product Developer' category indirect and limited.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "-hq1U7x2uea",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:45",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.6,
+    "ai_depth": 1.1,
+    "ai_intent": 1.4,
+    "ai_audience": 2.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses on frequent software releases and references industry metrics (CHAOS Report, DORA) supporting agile and rapid delivery. It emphasizes organizational adaptability, risk reduction, and empirical success factors connected to frequent collaboration and feedback. However, there is no explicit mention of human-AI collaboration, AI agents, or knowledge emergence resulting from combined human-AI effort. The text centers on human team practices and software delivery cadence, not on collective intelligence as defined. Thus, only a minimal alignment and surface tangential relevance can be inferred, primarily through broader connections to team performance and adaptability cited in the category, but the lack of AI context, agency, or partnership makes the fit extremely weak.",
+    "reasoning_summary": "This content discusses agile release strategies and supports frequent, adaptive delivery cycles, but it does not address human-AI collaboration or any core aspects of collective intelligence as defined in the category.",
+    "level": "Ignored"
   }
 }

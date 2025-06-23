@@ -3285,5 +3285,43 @@
     "reasoning": "The content centers on organisational change within the Ghana Police Service using Scrum, highlighting empirical improvement, sprints, and evidence-based management. It frequently mentions 'Sprint Reviews' and the delivery of 'new capabilities every Sprint,' suggesting incremental delivery. However, it emphasizes organisational transformation, transparency, and learning over the direct practice or strategy of frequent software releases typical of DevOps/Continuous Delivery. There is no detailed discussion of CI/CD, release automation, metrics for releases, or user-stakeholder deployment cadence. While Sprint-based delivery and incremental improvement are conceptually similar to frequent releases, the main focus remains on broader change management. Audience targeting is accurate (technical/practitioner/leadership), and content is relevant, but direct mentions and conceptual depth on frequent releases are moderate at best. No penalties applied, as tone and practices are up-to-date and supportive.",
     "reasoning_summary": "The content describes Scrum-based organisational change emphasizing transparency, learning, and incremental improvements, with references to Sprint-based delivery. While it touches on aspects akin to frequent releases, it doesn’t directly or deeply address software delivery frequency or CI/CD practices.",
     "level": "Tertiary"
+  },
+  "Product Developer": {
+    "resourceId": "br0iGV9tHS5",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:26",
+    "ai_confidence": 31.97,
+    "ai_mentions": 1.7,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.2,
+    "ai_intent": 2.8,
+    "ai_audience": 3.7,
+    "ai_signal": 4.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 32.0,
+    "reasoning": "The content details Scrum-based organisational change within the Ghana Police Service. While it describes Scrum teams, empirical work, and transformation practices, it never explicitly discusses the 'Product Developer' accountability or role. Concepts like cross-functional work, backlogs, or increment creation are described in organisational or transformation terms, focusing on change structures, leadership, and empirical practices. There are only indirect references to behaviors that might map to Product Developer responsibilities (e.g., officers building working software together), but the framing centers on transformation and change management—not on defining Product Developer purpose, structure, or accountability. No direct mention or focus on Product Developer as a formal role is present. Signals toward relevant behaviors (collaboration, increment delivery) are present, but these are diluted by the primary focus on organisational transformation. Audience is largely leadership or transformation management, not practitioners interested in Product Developer responsibilities.",
+    "reasoning_summary": "The content discusses Scrum-fueled transformation in a policing context, focusing on organisational change rather than Product Developer accountabilities. While team-based work and delivery are described, the core focus is transformation, not defining or discussing the Product Developer role.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "br0iGV9tHS5",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:35",
+    "ai_confidence": 34.62,
+    "ai_mentions": 0.7,
+    "ai_alignment": 4.0,
+    "ai_depth": 4.2,
+    "ai_intent": 2.2,
+    "ai_audience": 4.4,
+    "ai_signal": 3.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 35.0,
+    "reasoning": "The content focuses on large-scale organizational change in the Ghana Police Service via Agile and Scrum, emphasizing empirical learning, team adaptation, and distributed leadership. However, it describes human-only collaboration and agile practice transformation. There is no discussion of human-AI partnership, AI agent design, or cognitive synergy between humans and AI. There are no explicit or implicit references to collective intelligence as defined, nor examples of human-AI collaboration. The primary theme remains human-centric organizational and process change in a police context with no mention of AI, so alignment, depth, and intent towards the category are moderate-to-low.",
+    "reasoning_summary": "This content discusses human-driven change using Scrum within the Ghana Police Service but does not mention or explore human-AI collaboration or collective intelligence. It focuses on human team practices and organizational agility, not the category's core concept.",
+    "level": "Ignored"
   }
 }

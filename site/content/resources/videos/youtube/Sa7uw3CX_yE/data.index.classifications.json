@@ -1860,5 +1860,43 @@
     "reasoning": "The content extensively discusses the broader concepts of agile practices, transparency, and continuous improvement within the agile mindset. However, Objective & Key Results (OKRs) specifically are not explicitly mentioned or discussed. The primary focus of the content is on identifying superficial agile practices and moving towards genuine agility, referencing topics like Taylorism, retrospectives, feedback loops, product alignment, and outcome-based approaches in general terms. While aspects such as outcomes vs. outputs, strategic alignment, transparency, and continuous improvement are inherently aligned somewhat conceptually with the principles underpinning OKRs, the content does not explicitly explore OKRs as a structured goal-setting or measurement framework. Audience alignment is moderate, as readers interested in genuine agility may overlap with those who implement OKRs. However, overall explicit alignment with the formal OKR framework as articulated by John Doerr’s foundational ideas is very minimal, and there is essentially no direct mention or deeper exploration of OKRs or their principles and methodologies. Consequently, the confidence score is low, indicating minimal alignment with this category.",
     "reasoning_summary": "The content extensively covers agile principles and transparency but lacks explicit alignment to OKRs. It does not explicitly or significantly discuss OKR frameworks, theory, or practices.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "Sa7uw3CX_yE",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:16:59",
+    "ai_confidence": 32.86,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.3,
+    "ai_depth": 4.1,
+    "ai_intent": 3.8,
+    "ai_audience": 4.2,
+    "ai_signal": 5.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 33.0,
+    "reasoning": "The content broadly critiques superficial Agile adoption and Taylorism while advocating for genuine agility through transparency, feedback loops, and outcome focus. It touches on universal Agile themes—collaboration, continuous improvement, and delivering value—but never directly discusses the Product Developer role, its accountability, or its distinction from generic development teams. No references to cross-functional capability, Sprint Backlog responsibility, collective accountability, or integration of human/automated contributors are present. The audience is Agile practitioners, not specifically Product Developers. The information is general, with some relevance where it advocates mindsets and behaviors, but there is no explicit depth or focus on Product Developer as defined in the category.",
+    "reasoning_summary": "The article addresses broader Agile culture and principles, such as transparency and real outcomes, but does not directly cover Product Developer accountability, responsibilities, or role-specific themes. Its relevance to Product Developer is minimal and mostly indirect.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "Sa7uw3CX_yE",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:04",
+    "ai_confidence": 18.58,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.8,
+    "ai_intent": 1.1,
+    "ai_audience": 7.6,
+    "ai_signal": 8.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content discusses genuine agile culture versus Taylorist management, emphasizing true agility through transparency, feedback, outcomes, and collaboration. However, there is no mention or exploration of human-AI collaboration, collective intelligence, or distributed cognition involving AI agents. All key themes revolve around human team practices, culture, and philosophy without involving AI or human-AI partnership. Audience and signal ratings are high due to relevance for agile practitioners, but the absence of AI context leads to severely low scores on conceptual, depth, intent, and mention dimensions relating specifically to Collective Intelligence.",
+    "reasoning_summary": "The article is deeply aligned with Agile culture but focuses exclusively on human collaboration and organizational practices. It does not address human-AI teamwork or any forms of collective intelligence involving AI, resulting in very low relevance for this category.",
+    "level": "Ignored"
   }
 }

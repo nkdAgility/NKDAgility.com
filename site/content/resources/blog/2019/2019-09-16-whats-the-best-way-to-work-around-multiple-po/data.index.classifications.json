@@ -1946,5 +1946,43 @@
     "reasoning": "The content does not contain any direct or indirect mentions of Objective & Key Results (OKRs), hence the Direct Mentions score is zero. Conceptual alignment is minimal, because although there is some mention of accountability, value delivery, prioritization, and identifying meaningful items, the content never aligns explicitly with the OKR framework or its core principles and terminology. Depth of discussion is also very low since there is no exploration of outcome-based measurements, strategic alignment to outcomes, transparency, or iterative adaptation as defined by OKRs. Intent score is very low; the main purpose is clearly addressing challenges specific to Scrum roles (Product Owner), backlog management, and Scrum accountability rather than discussing OKRs explicitly. Audience alignment is moderate due to overlap of interest areas (agile practices, organizational improvements) but not specifically targeted to those interested explicitly in OKRs. Signal-to-noise ratio is moderate because although focused on Scrum and product ownership concerns, it remains tangentially related to outcome alignment and accountability principles that overlap slightly with OKRs. No penalties are applied, as there are no outdated or contradictory elements in the text.",
     "reasoning_summary": "The content focuses solely on Scrum roles and backlog management, with no explicit relevance or substantial alignment to OKR theory, method, or practices.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "KIG3LzjF3zK",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:35",
+    "ai_confidence": 17.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.5,
+    "ai_depth": 1.9,
+    "ai_intent": 1.4,
+    "ai_audience": 4.6,
+    "ai_signal": 2.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 17.0,
+    "reasoning": "The content focuses primarily on Product Owner accountability, specifically the challenges caused by multiple POs and lack of clear backlog ownership. While there is brief mention that everyone on the Scrum Team is responsible for the product's future, the main discussion centers around backlog ownership, market direction, and responsibilities of the Product Owner role, not those unique to the Product Developer role as defined. There is minimal discussion or explicit reference to Product Developer accountabilities, collective technical responsibilities, or cross-functional skills. The audience is Scrum practitioners, but the fit to Product Developer is weak, as few themes relate directly to Product Developer accountability or behavior.",
+    "reasoning_summary": "This content is dedicated almost entirely to Product Owner roles and backlog accountability, with little to no discussion of Product Developer responsibilities, collaboration, or skills. Alignment with the Product Developer category is minimal and indirect.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "KIG3LzjF3zK",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:30",
+    "ai_confidence": 12.45,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.2,
+    "ai_intent": 1.5,
+    "ai_audience": 4.0,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content is focused on resolving issues related to multiple Product Owners in Scrum by clarifying accountability and ownership in product development. It does not discuss human-AI collaboration, partnership, or the emergence of collective intelligence as defined in the category. There is no direct mention of AI agents, human-AI teaming, or any related socio-technical systems. The audience is Scrum practitioners, but the content firmly addresses human organizational coordination, not collective intelligence arising from human-AI collaboration. Thus, only the barest incidental alignment exists (e.g., general team collaboration), and the confidence score reflects this marginal fit.",
+    "reasoning_summary": "This content provides guidance on Product Owner roles and backlog accountability in Scrum, focusing exclusively on human collaboration and team structure. It does not address human-AI partnerships or any principle of collective intelligence as defined.",
+    "level": "Ignored"
   }
 }

@@ -3133,5 +3133,43 @@
     "reasoning": "The content is explicitly and solely focused on how DevOps practices can modernize legacy systems, specifically automation, continuous integration/deployment, and observability. It emphasizes practical and operational improvements rather than organizational strategy or goal setting frameworks. OKRs are never explicitly mentioned, described, or implied in the theoretical sense aligned with John Doerr's principles and book 'Measure What Matters.' Though the content indirectly highlights outcome-oriented improvements (simplified change management, reduction of deployment risk, faster and safer iteration), it lacks the specific structure, theoretical underpinning, goals-measurement clarity, alignment transparency, or any explicit or implicit reference to the formal Objective & Key Results methodology, its core components, or its related strategic intent as per OKR standards. Audience alignment is partially compatible as organizational leaders responsible for strategic decisions in legacy modernization contexts may overlap in audience interests with OKRs. While DevOps modernization can intersect theoretically with OKRs (both aiming at agility, transparency, and outcome measurement), this particular content does not bridge explicitly or implicitly to the OKR theoretical or practical foundations. Hence, conceptual alignment, depth, and intent scores are low, and no penalties were applied as nothing outdated or contradictory to OKR concepts was detected.",
     "reasoning_summary": "Content focuses explicitly on DevOps approaches for legacy system modernization without mentioning or substantively aligning with OKR strategies or principles.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "Tr1b0hru0zE",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:28",
+    "ai_confidence": 16.41,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.5,
+    "ai_depth": 2.2,
+    "ai_intent": 2.1,
+    "ai_audience": 5.2,
+    "ai_signal": 2.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 16.0,
+    "reasoning": "The content focuses on DevOps practices for modernising legacy systems and does not specifically address the Product Developer role, accountability, or behaviors as defined in the classification. There are no direct mentions or conceptual discussions around Product Developers, their collective accountability, cross-functionality, or their integration in product development frameworks. Any relevance to the Product Developer category is incidental—the content is more generally about technical change management and team enablement through DevOps. Depth remains low since it doesn't touch the unique responsibilities, structure, or definition of Product Developers. Audience overlap is possible only because DevOps practitioners may sometimes participate in cross-functional teams, but there is no explicit or implicit targeting of Product Developers as a conceptual entity. The signal-to-noise ratio also suffers as only a small portion of the information could be indirectly relevant to Product Developer topics, but that is not the core message.",
+    "reasoning_summary": "This content is centered on DevOps and legacy system modernisation, not on Product Developers as a role or accountability. It only loosely relates to the category through shared technical themes, with little to no alignment to Product Developer responsibilities or behaviors.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "Tr1b0hru0zE",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:36",
+    "ai_confidence": 18.525,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.2,
+    "ai_audience": 6.1,
+    "ai_signal": 5.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 19.0,
+    "reasoning": "The content discusses DevOps as an enabler for modernizing legacy systems, focusing on automation, CI/CD, observability, and team empowerment. While it emphasizes collaborative improvement and change within organizations, it does not explicitly mention or discuss human-AI collaboration, the emergence of collective intelligence, or specific human-AI partnership models. There are no references to AI agent design, distributed cognition between humans and AI, or socio-technical systems involving AI participation as team members. The target audience (those responsible for legacy modernization, likely technical and management practitioners) indirectly overlaps with potential collective intelligence topics, but the content itself does not address or exemplify collaboration between humans and AI agents, which is fundamental for this classification. Thus, confidence is very low.",
+    "reasoning_summary": "This content is focused on DevOps-driven legacy system modernization and team empowerment but lacks references or discussion of human-AI collaboration or collective intelligence concepts, resulting in a very weak fit for this category.",
+    "level": "Ignored"
   }
 }

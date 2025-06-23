@@ -1892,5 +1892,43 @@
     "reasoning": "The provided content is focused primarily on Scrum practices, professionalism, and the significance of engineering excellence for Scrum teams. There are no explicit statements or implicit references to Objectives and Key Results (OKRs), nor discussions on strategic alignment, measurable outcomes, OKR reviews or iterative improvement linked explicitly to the formal OKR framework outlined by John Doerr. The core message emphasizes professionalism and Scrum principles, without addressing OKR-specific methodology. Audience alignment for agile/Scrum practitioners partially matches the OKR audience, but content intent remains off target. Additionally, the content contains an outdated reference (event date from 2017), thus incurring a one-point deduction in depth.",
     "reasoning_summary": "Content emphasizes Scrum professionalism without meaningful reference or alignment to OKR principles or practice. Overall relevance to OKRs is minimal.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "sdlfWR5wHx7",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:53",
+    "ai_confidence": 34.1,
+    "ai_mentions": 1.2,
+    "ai_alignment": 3.7,
+    "ai_depth": 3.2,
+    "ai_intent": 4.1,
+    "ai_audience": 6.8,
+    "ai_signal": 5.3,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.5,
+    "ai_penalty_details": "Penalized -0.5 on 'mentions' and -1.0 on 'depth' for referencing outdated events (2017), with no explicit mention of Product Developer accountability. No criticism or satirical tone detected.",
+    "final_score": 34.0,
+    "reasoning": "The content stresses professionalism and engineering excellence in Scrum teams but never explicitly references the Product Developer role or accountability as defined in modern frameworks. Messages about 'Professional Teams' and 'amateur Teams' overlap somewhat with Product Developer themes (such as professionalism and quality), but they remain generic and not specific to Product Developer structure, collective accountability, or the relationship with Sprint Backlog/Sprint Goals. Depth is limited and scattered, mostly consisting of a brief opinion and promotional links, with minimal substantive discussion. The audience is loosely aligned (Scrum practitioners), but much content is off-topic (event promotion, video links), and the resource is partly outdated. Penalties were applied for outdated practices and insufficient explicitness.",
+    "reasoning_summary": "This content focuses on team professionalism within Scrum but lacks specific references to the Product Developer role or accountability, making its alignment with the category partial at best. Most discussion remains generic or off-topic, with only tangential relevance to Product Developer concepts.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "sdlfWR5wHx7",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:57",
+    "ai_confidence": 6.35,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.2,
+    "ai_penalty_details": "All dimensions penalized by 0.8–1.0 due to the content being outdated (references 2017 event) and fully lacking any human-AI collaboration context; the tone is supportive of professionalization but does not address the Collective Intelligence category as defined.",
+    "final_score": 6.0,
+    "reasoning": "The content centers on professionalism within Scrum teams and the importance of engineering excellence, as well as addressing pitfalls of amateur practices. Nowhere does it reference, discuss, or even imply human-AI collaboration, complementary strengths of humans and AI, or team cognition involving AI agents. The discussion is purely about human teams, professionalism, and Scrum, with no connection to decision-making or socio-technical systems involving AI. It does reference team collaboration in a broad sense but excludes any mention of AI. Content is also slightly outdated (2017), thus a penalty is applied to each dimension for timeliness and misalignment. Given no substantive alignment and strong exclusion as per the strict instructions, the confidence that this content fits under 'Collective Intelligence' is very low.",
+    "reasoning_summary": "The content focuses solely on professionalism in human Scrum teams, without any mention of AI or human-AI collaboration. There is no alignment with the definition of 'Collective Intelligence'; all dimensions are minimal and penalized for outdatedness.",
+    "level": "Ignored"
   }
 }

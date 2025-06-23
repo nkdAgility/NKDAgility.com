@@ -2458,5 +2458,43 @@
     "reasoning": "The content explicitly and deeply discusses operational agency, feedback loops, developer empowerment, telemetry ownership, and continuous delivery. It emphasizes implementing genuine continuous delivery practices through developer autonomy and production-controlled feedback loops. Although deeply relevant for agile, DevOps, and continuous delivery concepts, the content never directly mentions Objective & Key Results (OKRs), nor implicitly aligns with their strategic intent, theoretical foundations, or practical use. The explicit OKR components (objectives, key results, strategic alignment, transparent tracking, stretch goals, or iterative OKR-driven reviews) are not present. Therefore, scores for Direct Mentions, Conceptual Alignment, Depth of Discussion, and Intent/Purpose Fit are very low. Audience Alignment is relatively high, as the same practitioner-level audience interested in DevOps, Agile, and continuous improvement could potentially engage with OKRs. Signal-to-Noise is generally good within its context, though largely off-topic concerning OKRs. No penalties applied for outdated or contradictory content.",
     "reasoning_summary": "Content discusses operational agency and continuous delivery practices extensively, with no meaningful reference or conceptual alignment to Objective & Key Results (OKRs). Its relevance to OKRs is negligible.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "AgIU1SK-3pE",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:17",
+    "ai_confidence": 54.79,
+    "ai_mentions": 3.6,
+    "ai_alignment": 6.7,
+    "ai_depth": 6.8,
+    "ai_intent": 6.6,
+    "ai_audience": 5.9,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 55.0,
+    "reasoning": "The content discusses developer agency in DevOps, emphasizing the need for operational control, telemetry ownership, and delivery autonomy—important aspects of modern product development. However, 'Product Developer' as a formal role/accountability is never directly named. The focus is on 'developers' and their needs for feedback, quality, and learning, which aligns with many expectations of Product Developers but doesn't use Agile or Product Developer language explicitly. The piece advocates practices that overlap with Product Developer accountability (Definition of Done, cross-skilling, operational ownership), yet does not contextualize these within a Scrum or product development role framework. Audience is practicing developers, and signal is generally focused, though framed in DevOps language and principles rather than product accountability.",
+    "reasoning_summary": "While the content strongly emphasizes developer ownership and practices aligned with modern Product Developer accountability, it frames its argument in DevOps terms and does not directly discuss Product Developer as a defined role, limiting its fit to the category.",
+    "level": "Tertiary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "AgIU1SK-3pE",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:23",
+    "ai_confidence": 24.7,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.6,
+    "ai_intent": 2.7,
+    "ai_audience": 7.6,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content is a passionate argument for developer agency in DevOps. While it emphasizes the importance of human agency and feedback loops, it never addresses human-AI collaboration, distributed cognition with AI, or any role for AI agents as active team members. The discussion is strictly about giving humans more control within DevOps processes. There is no mention of collective intelligence per the category definition, nor are there references to human-AI decision-making, emergent capabilities, or collaborative frameworks involving AI. It targets technical leadership and practitioner audiences in DevOps—compatible with the category’s audience—but is focused entirely on human (developer) empowerment and process ownership.",
+    "reasoning_summary": "This content sharply promotes human agency and feedback in DevOps, but does not mention or discuss AI as an active collaborator, nor any aspects of human-AI collective intelligence. The topic and examples are solely about empowering humans within socio-technical systems, not about collective intelligence as defined.",
+    "level": "Ignored"
   }
 }

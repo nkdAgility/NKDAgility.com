@@ -3285,5 +3285,43 @@
     "reasoning": "The content focuses extensively on unifying engineering processes across many distributed teams, emphasizing greater team autonomy and ownership. However, it does not explicitly discuss the formation, structure, or management of cross-functional teams, nor characteristics such as skill diversity and holistic collaboration—which are central to the category definition. Collaboration and end-to-end ownership are discussed, but only in the context of engineering teams working more independently within a unified framework. The case highlights leadership and culture shifts, but largely remains at the process and autonomy level for engineering teams, not at the cross-functional practices or team composition dimension. The intended audience (CTOs, tech leaders) matches the category. The content is focused, but cross-functional elements are only indirectly touched via references to ownership and responsibility. No penalties applied, as there is no obsolete advice or negative framing.",
     "reasoning_summary": "While the case highlights team ownership and engineering autonomy, it does not prominently address cross-functional team structure or skill diversity. Its alignment with the 'Cross Functional Teams' category is moderate and mostly indirect.",
     "level": "Tertiary"
+  },
+  "Product Developer": {
+    "resourceId": "PMnxyczoB1K",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:42",
+    "ai_confidence": 54.67,
+    "ai_mentions": 1.3,
+    "ai_alignment": 5.1,
+    "ai_depth": 5.6,
+    "ai_intent": 5.2,
+    "ai_audience": 8.4,
+    "ai_signal": 6.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 55.0,
+    "reasoning": "Direct mention of 'Product Developer' or equivalent accountability is absent; the content focuses on engineering teams, their ownership over build/release, and improving accountability. There's alignment on collective technical responsibility, but not on the specific formal role or behaviors of Product Developers per frameworks like Scrum. The main thrust is team autonomy and engineering excellence, not a deep exposition of Product Developer as a role or accountability. The technical audience is appropriate, but the tie to the Product Developer accountability (as defined) is indirect and incidental.",
+    "reasoning_summary": "Content emphasizes engineering team ownership and accountability, aligning partially with Product Developer principles, but it doesn't explicitly discuss or define Product Developer accountability or behaviors as a formal role. Relevance is moderate but indirect.",
+    "level": "Tertiary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "PMnxyczoB1K",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:47",
+    "ai_confidence": 14.76,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.9,
+    "ai_intent": 2.3,
+    "ai_audience": 8.0,
+    "ai_signal": 8.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content focuses on human engineering teams improving processes, accountability, and efficiency through structural changes and coaching. There is a strong discussion of distributed human ownership, autonomy, and organizational excellence—topics adjacent to collective intelligence, but it lacks any mention or exploration of human-AI partnerships or collaboration, either explicit or implicit. No AI involvement, agent partnership, or human-AI teaming is referenced, and all examples involve humans only. While audience and relevance to engineering leadership are high, the content does not address any core concepts from the category definition.",
+    "reasoning_summary": "This case study centers on distributed human engineering excellence and accountability in process improvement, but contains no discussion or reference to AI, human-AI teams, or collaborative socio-technical systems. Content fit with Collective Intelligence is therefore very low.",
+    "level": "Ignored"
   }
 }

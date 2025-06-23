@@ -1949,5 +1949,43 @@
     "reasoning": "The content focuses entirely on Scrum methodology and specifically addresses the topic of Design Sprints within Scrum by promoting the integration of UX and design work into regular Scrum practices. It explicitly challenges the concept of unique sprints (including design sprints), advocating against specialist or separate activities. There are absolutely no mentions or references to the Objectives & Key Results (OKR) framework as described by John Doerr or related strategic, alignment, or outcome-driven measurement practices. The content aligns minimally (0.5) conceptually due to slight thematic overlap in iterative improvement and continuous refinement, but these references are superficial and not directly aligned to OKRs. Depth (0.2) and intent (0.4) are also low because the article's scope, intent, and detailed discussion are entirely about Scrum and UX integration, not OKRs. Audience alignment (5.0) and signal-to-noise ratio (4.5) score moderate due to some shared Agile audience and consistent topic focus, but these scores don't significantly affect the low overall confidence, as explicitly required by the weighting scheme. No penalties are applied as there are no overt contradictions or outdated references; it's simply off-topic for OKRs.",
     "reasoning_summary": "This content discusses using Design Sprints within Scrum, emphasizing design integration into regular sprints, without meaningful relevance or alignment to Objective & Key Results (OKRs). The thematic overlap is minimal and superficial; hence, alignment is weak.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "MHeGFYrasBx",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:46",
+    "ai_confidence": 82.4,
+    "ai_mentions": 6.2,
+    "ai_alignment": 8.7,
+    "ai_depth": 8.3,
+    "ai_intent": 7.1,
+    "ai_audience": 7.8,
+    "ai_signal": 8.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 82.0,
+    "reasoning": "The content rejects specialist-only teams, emphasizing that all work—design, UX, coding—should be integrated into the Scrum team’s responsibilities and completed within the Sprint or via refinement, aligning closely with the cross-functional, collective accountability expected of Product Developers. It addresses integrating UX into 'Development Team' work, dismisses the need for separate design sprints, underscores collaboration, and refers to the community of practice for skill dissemination. While it uses 'Development Team' (a pre-2020 Scrum term), the context consistently maps to the Product Developer role as defined in modern frameworks. It thoroughly explores team structure, integration of skills, and accountable delivery, though it stops short of directly naming the Product Developer role or accountability explicitly and doesn't touch much on learning via Definition of Outcome Done or automated contributors.",
+    "reasoning_summary": "This content strongly aligns with the Product Developer category by describing how cross-functional Scrum teams—including UX—collectively deliver product work, reflecting the essence of Product Developer accountability, though it rarely uses the specific term.",
+    "level": "Primary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "MHeGFYrasBx",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:40",
+    "ai_confidence": 24.91,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.6,
+    "ai_intent": 2.5,
+    "ai_audience": 9.2,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content discusses team collaboration, cross-functional work, and eliminating siloed specialist teams (e.g., UX) in Scrum, promoting integrated work for complex problem-solving. However, there is no mention of AI, human-AI partnerships, or technology-mediated collective intelligence as defined by the classification. Arguments focus solely on human teams and practices within Scrum. While topics like 'Communities of Practice' hint at distributed collaboration, there is no exploration of the human-AI collective intelligence space. This results in very weak alignment and low depth for this specific category.",
+    "reasoning_summary": "The content focuses on cross-functional human team integration in Scrum, omitting any discussion of human-AI collaboration or collective intelligence as defined. Its themes pertain only to human teamwork within Agile, not to socio-technical or collective intelligence topics involving AI.",
+    "level": "Ignored"
   }
 }

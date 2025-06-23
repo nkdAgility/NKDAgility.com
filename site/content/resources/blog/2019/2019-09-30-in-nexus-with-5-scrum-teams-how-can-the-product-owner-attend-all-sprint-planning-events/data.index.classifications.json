@@ -1942,5 +1942,43 @@
     "reasoning": "This content deals exclusively with Scrum scaling (Nexus framework) and the role and organizational practices of managing multiple Scrum teams. It specifically discusses how a Product Owner might manage attendance and accountability across Sprint Planning events in a scaled Scrum context using concepts such as area owners or team owners. The content provides examples regarding Azure DevOps engineering teams' management structure but at no point explicitly references OKRs or the philosophy behind OKRs. There is no discussion surrounding Objectives and Key Results, areas of strategic alignment, outcome-based measurement, transparency and accountability explicitly related to OKRs, iterative inspection and adaptation via OKRs, or any strategic intent associated with OKRs principles or practices. The lack of direct and conceptual alignment, as well as the absence of meaningful depth and intent in line with Objective & Key Results, results in very low scores for mentions, alignment, depth, and intent. Audience and signal-to-noise receive moderate scores as there is some overlap with the Agile-oriented audience interested in organizational structures and leadership methods. No penalty adjustments are required as it neither contradicts nor mentions outdated OKR practices.",
     "reasoning_summary": "The content specifically addresses Scrum team scaling and the Product Owner role in Nexus without any direct or conceptual reference to Objectives and Key Results (OKRs). Thus, it aligns poorly with the OKR category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "As4R5dKsJtU",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:37",
+    "ai_confidence": 3.13,
+    "ai_mentions": 0.6,
+    "ai_alignment": 3.4,
+    "ai_depth": 2.2,
+    "ai_intent": 2.8,
+    "ai_audience": 4.1,
+    "ai_signal": 3.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 3.0,
+    "reasoning": "Direct mentions of Product Developer are entirely absent, with all focus on Product Owner, Area Owner, and Team Owner roles regarding backlog management and Sprint Planning in a Nexus context. While there is indirect reference to Scrum Teams, accountability, and communication, the discussion does not define or deeply discuss the Product Developer role, its cross-functional skills, or specific accountabilities. Audience is somewhat aligned, as practitioners of Scrum would be interested, but the primary target is Product Owners and organizational structure, not Product Developers in the sense of the definition provided.",
+    "reasoning_summary": "This content centers on the Product Owner's role in scaled Scrum, not the Product Developer accountability or responsibilities. There are scant indirect ties with Product Developers, but not enough alignment or depth for meaningful category association.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "As4R5dKsJtU",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:29",
+    "ai_confidence": 9.75,
+    "ai_mentions": 0.0,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.8,
+    "ai_intent": 4.5,
+    "ai_audience": 6.8,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content addresses collaborative practices, distributed ownership, and communication within large Nexus Scrum environments, emphasizing human-to-human delegation, area ownership, and information flow. It discusses socio-technical structures in scaling Agile, but the entire context is about human team coordination—there is no discussion, direct or inferred, of humans collaborating with AI agents or jointly leveraging AI cognitive strengths. The solution patterns (flat hierarchies, communication, role distribution) are applicable to collective human collaboration, but not human-AI. No mention or implication of AI partnership, hybrid teams, or enhancements stemming from human-AI interaction, so even indirect conceptual alignment is minimal.",
+    "reasoning_summary": "This content is exclusively about human collaboration and role adaptation in scaled Scrum environments, with no discussion or implication of human-AI partnership or collective intelligence in the sense defined by the category.",
+    "level": "Ignored"
   }
 }

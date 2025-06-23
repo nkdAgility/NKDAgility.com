@@ -1950,5 +1950,43 @@
     "reasoning": "The content does not explicitly mention OKRs at all, resulting in a score of 0.000 for direct mentions. The conceptual alignment score is low (1.100) because the primary focus is exclusively around Scrum Master responsibilities and impediment removal practices, rather than clearly addressing goal definition, measurement, or strategic alignment inherent to OKRs. Depth of discussion around OKR-related topics is minimal (0.500) as there is no direct exploration or application of OKR theory, strategic outcome measurement, or iterative improvement based on key results. The main intent of the content is to clarify Scrum practices around impediments rather than promote or explain OKRs explicitly, resulting in low intent fit (0.600). While the audience targeted—Scrum professionals—are similar to those who might implement OKRs, audience alignment is moderate (5.500) because the audience might overlap even though the specific content purpose differs. The signal-to-noise is moderate (5.000) as the content remains focused and free of unrelated filler, but still unrelated explicitly to OKRs. No penalty adjustments were applicable, as the content neither undermines nor contradicts the OKR category, nor is it outdated.",
     "reasoning_summary": "The content focuses solely on Scrum Master impediment management responsibilities, with no direct mention or substantial alignment with OKR methods, strategic intent, or principles defined by John Doerr.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:37",
+    "ai_confidence": 24.8,
+    "ai_mentions": 1.0,
+    "ai_alignment": 2.0,
+    "ai_depth": 2.5,
+    "ai_intent": 2.0,
+    "ai_audience": 4.3,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 25.0,
+    "reasoning": "The content is focused almost entirely on the Scrum Master’s responsibilities regarding impediment removal. Product Developers are only mentioned generically as 'Scrum Team' members, with no discussion of their unique accountability, skills, or collective behaviors. The main theme is Scrum Master conduct, not Product Developer role clarity, making conceptual alignment, depth, and intent low for this category. The intended audience is closer to Scrum Masters and team facilitators.",
+    "reasoning_summary": "This content centers on the Scrum Master's role in removing impediments, with minimal relevance to Product Developer-specific responsibilities, skills, or accountabilities as defined in modern frameworks.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "xPJL0I4sjDJ",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:30",
+    "ai_confidence": 9.7,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 1.0,
+    "ai_intent": 1.1,
+    "ai_audience": 7.3,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content exclusively discusses Scrum Master responsibilities in impediment removal within human Scrum teams, focusing on building team self-sufficiency and facilitating team learning. There is no mention of AI, human-AI collaboration, or the emergence of collective intelligence in a socio-technical sense. The main topics and examples center solely on human team behaviors and growth. It fits the Scrum audience but is off-target with respect to the Collective Intelligence category definition. The signal-to-noise ratio and audience fit are higher, but low direct mention and alignment lead to a very low confidence score.",
+    "reasoning_summary": "This content centers on human Scrum team practices with no reference to human-AI collaboration or collective intelligence principles. It does not fit the intended category and is focused entirely on team dynamics within Scrum.",
+    "level": "Ignored"
   }
 }

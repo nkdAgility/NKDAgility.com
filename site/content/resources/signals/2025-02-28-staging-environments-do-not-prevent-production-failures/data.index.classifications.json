@@ -3285,5 +3285,43 @@
     "reasoning": "The content does not directly reference Objective Key Results (OKRs), nor does it discuss objectives, key results, or their role within agile or outcome-driven frameworks. Instead, it critiques the limitations of staging environments and advocates for safer release practices in production. Although it aligns with DevOps and continuous delivery concepts, there is no explicit or substantive exploration of OKRs, their principles, or implementation. The discussion focuses entirely on deployment strategies with no mention of measurement frameworks, strategic alignment, outcome measurement, or the OKR philosophy. Audience is likely relevant (engineering/product), but the topic does not intersect with the theoretical or practical underpinnings of OKRs.",
     "reasoning_summary": "The content focuses on deployment strategies and risks with staging environments, not on Objective Key Results. There are no direct mentions or conceptual links to OKRs, and none of the OKR framework's principles or practices are discussed or implied.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "syS5yJ_GthF",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:10",
+    "ai_confidence": 13.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.7,
+    "ai_intent": 1.3,
+    "ai_audience": 3.4,
+    "ai_signal": 2.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content focuses on deployment strategies and argues against reliance on staging environments, advocating for incremental releases to production. There are no direct mentions of 'Product Developer', nor is the role or its accountability discussed. The discussion centers on DevOps practices and risk management—not the responsibilities, behaviors, or collective accountabilities of Product Developers as defined in modern frameworks. While the target audience may overlap with Product Developers (engineering, cross-functional teams), the content is not explicitly or meaningfully aligned to the Product Developer role. Concepts such as Sprint Backlog accountability, cross-functional skill sets, or Definition of Done are entirely absent.",
+    "reasoning_summary": "This content discusses deployment practices and risk reduction, not the Product Developer role or accountability. There’s no substantive alignment, mention, or exploration of Product Developers, so relevance to the category is low.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "syS5yJ_GthF",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:11",
+    "ai_confidence": 8.55,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.05,
+    "ai_depth": 0.95,
+    "ai_intent": 1.1,
+    "ai_audience": 2.0,
+    "ai_signal": 1.25,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content discusses deployment safety and the limitations of staging environments, advocating for incremental releases and observability. However, it never addresses human-AI collaboration, collective cognition, or enhanced team intelligence that emerges from human-AI partnerships. Audience-based deployment and modern DevOps practices may be adjacent to collective intelligence, but the article solely frames these as team or process improvements, not as outcomes of human-AI partnerships. There are no explicit or implicit references to shared cognition with AI, the role of AI agents as team members, or decision-making frameworks that involve both humans and AI. Thus, alignment, depth, and mentions scores are extremely low—reflecting only the faintest tangential relationship via DevOps context. No penalties were applied, as the content was not outdated or counter to the category, but its fit is fundamentally weak.",
+    "reasoning_summary": "This content focuses on DevOps deployment strategies and risks of staging environments, without any discussion of human-AI collaboration or collective intelligence. It aligns weakly with the category, as it does not address enhanced outcomes from human-AI partnerships.",
+    "level": "Ignored"
   }
 }

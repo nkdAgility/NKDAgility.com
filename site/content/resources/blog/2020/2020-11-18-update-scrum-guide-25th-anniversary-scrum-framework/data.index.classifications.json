@@ -1925,5 +1925,43 @@
     "reasoning": "The content does not directly or explicitly mention OKRs (Objectives & Key Results) at all. The core topic revolves around the updates in the Scrum guide, primarily about Scrum roles, commitments (Product Goal, Sprint Goal, Definition of Done), and self-managing teams. There is a brief conceptual overlap on strategic alignment and clarity of goals when mentioning the Product Goal and Sprint Goal—both describing goal setting and alignment—but these are Scrum-specific terms, not explicitly OKRs. It doesn't explicitly address measurable outcomes or specify Key Results as defined in the category of OKRs as per John Doerr's Measure What Matters. Audience alignment is somewhat high because both OKR and Scrum frameworks target agile practitioners, though this alignment alone does not strongly support categorization. Signal remains relatively high because of relevant agile discussion, but does not strongly align to OKRs specifically.",
     "reasoning_summary": "The content focuses solely on updates in Scrum practices, mentioning Scrum-specific goal-setting without explicitly referencing or aligning conceptually with the OKR framework.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "7CqdvOa9t4c",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:16:57",
+    "ai_confidence": 72.6,
+    "ai_mentions": 3.2,
+    "ai_alignment": 8.9,
+    "ai_depth": 7.4,
+    "ai_intent": 8.2,
+    "ai_audience": 8.0,
+    "ai_signal": 7.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 73.0,
+    "reasoning": "The content provides a summary of the 2020 Scrum Guide update. It directly references the role of 'Developers' as a formal accountability within the Scrum Team, explicitly describing their responsibility for meeting the Sprint Goal, achieving the Definition of Done, and cross-functional self-management. It covers dimensions like collective ownership, accountability, and the relationship to Sprint and Product Goals, all of which align with the formal Product Developer concept. However, the term 'Product Developer' is not directly used, and some discussion leans to the overall Scrum Team, slightly diluting the focus. The discussion is primarily informative and targets practitioners, described with focused and mostly on-target content.",
+    "reasoning_summary": "This summary of the 2020 Scrum Guide update aligns strongly with the 'Product Developer' category by emphasizing the Developers’ accountability, cross-functional skills, collective ownership of the Increment, and relationship with Sprint Goals, even though the explicit term appears infrequently.",
+    "level": "Secondary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "7CqdvOa9t4c",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:03",
+    "ai_confidence": 11.04,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 0.8,
+    "ai_intent": 1.2,
+    "ai_audience": 2.1,
+    "ai_signal": 2.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 11.0,
+    "reasoning": "The content is a summary of the 2020 Scrum Guide update, focusing on changes to Scrum terminology (e.g., self-managing teams, roles, goals, and artifacts). There is no direct mention, discussion, or exploration of human-AI collaboration, hybrid cognition, emergent intelligence, or the partnership necessary for Collective Intelligence. The discussion is exclusively about human team dynamics and updated Scrum roles, with AI not referenced or implied. While the concept of self-management and teams could be tangential to enabling collective intelligence, the content does not explore any collaborative mechanisms between humans and AI or socio-technical systems, so conceptual and depth scores remain very low. The audience is Scrum/Agile practitioners, which may overlap with the Collective Intelligence audience but does not address them regarding human-AI teaming.",
+    "reasoning_summary": "This content describes changes to Scrum practices for human teams and does not reference human-AI collaboration or any principles of Collective Intelligence. Its fit with the category is minimal and largely incidental.",
+    "level": "Ignored"
   }
 }

@@ -3132,5 +3132,43 @@
     "reasoning": "The provided content focuses entirely on improving software quality and delivery efficiency by adopting 'shift left' practices. This practice emphasizes detecting and correcting defects early in the development pipeline, embedding higher quality standards, automated testing, more rigorous definitions of 'Done,' and early-stage validation measures. Although closely related to Agile, Scrum, and DevOps best practices, the content does not reference or align explicitly with the Objectives & Key Results (OKRs) framework. There were no direct mentions of OKRs, the theoretical foundations of John Doerr's work, nor a conceptually aligned effort to discuss measurable strategic outcomes using Objectives or Key Results. The content primarily addresses tactical quality practices—code reviews, telemetry, security checks, automated testing—not the strategic clarity, alignment, tracking, or stretch emphasis articulated by the OKR methodology. The minor alignment (0.5) and depth (0.3) scores reflect the minimal conceptual connections—such as continuous improvement and outcome-driven impact—but these connections remain weak and implicit. No penalties were applied as the content does not negatively or critically address OKRs or present outdated practices. Therefore, overall confidence in categorizing this content under OKRs is quite low.",
     "reasoning_summary": "The content emphasizes quality management and 'shifting left' to reduce late-stage defects; however, it lacks explicit mentions and clear alignment with OKR principles or methodologies.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "cgZVYLmyyH0",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:02:00",
+    "ai_confidence": 52.2,
+    "ai_mentions": 1.2,
+    "ai_alignment": 6.6,
+    "ai_depth": 5.7,
+    "ai_intent": 6.4,
+    "ai_audience": 6.8,
+    "ai_signal": 7.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "The content strongly advocates for 'shift left' quality practices, emphasizing early validation, improved Definition of Done, and collective accountability for quality—all relevant to modern Product Developer responsibilities. However, it never explicitly mentions the 'Product Developer' role nor does it explore its formal accountabilities, collective behaviors, or structure as a defined role. The primary themes overlap with Product Developer accountability (quality built into increments, proactive collaboration), but they are presented more as general advice for teams. The intent fits practitioners in modern product teams, but the audience is broad and not strictly targeted to Product Developers as an accountable role. While the discussion of Definition of Done and cross-functional collaboration aligns conceptually, the lack of direct references and the general framing limit alignment and depth.",
+    "reasoning_summary": "This piece promotes practices that align with Product Developer accountability—like shifting left, strengthening Definition of Done, and embedding quality early—but does so from a general team perspective without explicitly referencing the Product Developer role or its defined accountabilities.",
+    "level": "Tertiary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "cgZVYLmyyH0",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:02:07",
+    "ai_confidence": 9.3,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 0.7,
+    "ai_intent": 0.6,
+    "ai_audience": 2.0,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content exclusively discusses software quality and process improvements through 'shift left' practices, emphasizing earlier testing, validation, and embedding quality into workflows. There is no mention of human-AI collaboration, AI agents, or collective intelligence concepts. The focus is entirely on human team practices, automation, and best practices for defect prevention, which is unrelated to the required collective intelligence framing involving agency-partnered human-AI teams or socio-technical collaboration. Mentions of automation or telemetry are about tools, not collaboration with AI agents as team members.",
+    "reasoning_summary": "This content solely addresses human-focused software quality practices using automation and early validation. It does not mention, imply, or align with collective intelligence, human-AI collaboration, or related socio-technical systems.",
+    "level": "Ignored"
   }
 }

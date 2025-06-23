@@ -3285,5 +3285,43 @@
     "reasoning": "The content does not reference OKRs or their foundational principles and is solely focused on staging environments, deployment risk, and software quality practices. No direct or indirect discussion of objectives, measurable key results, strategic intent, or outcome-driven frameworks occurs. The audience and themes are tangentially aligned only where engineering excellence overlaps with iterative improvement, but this connection stops well short of the OKR framework, yielding an extremely low confidence for classification here.",
     "reasoning_summary": "This content strictly covers deployment risk, staging environments, and quality engineering, without referencing or aligning with the OKR framework or its principles. No meaningful connection to Objective Key Results is present.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "6VmmXorMZZW",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:11",
+    "ai_confidence": 13.85,
+    "ai_mentions": 0.3,
+    "ai_alignment": 2.1,
+    "ai_depth": 1.8,
+    "ai_intent": 2.2,
+    "ai_audience": 3.2,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content does not explicitly mention Product Developer as a role or accountability, nor does it discuss their unique responsibilities or behaviors. Its focus is on software delivery practices and engineering excellence, arguing against reliance on staging environments and advocating for automated testing and CI/CD. These are related to modern product development, but not specific to Product Developers as defined in the classification. It addresses practitioners generically, with only peripheral alignment to Product Developer concepts (e.g., professionalism and quality). No dimensions warranted penalties, as there is no satirical tone or outdated advice.",
+    "reasoning_summary": "This content is about general engineering practices and deployment risk, not the Product Developer role or its specific accountabilities. It aligns peripherally via modern delivery standards but lacks direct relevance to Product Developer as defined.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "6VmmXorMZZW",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:12",
+    "ai_confidence": 8.6,
+    "ai_mentions": 0.1,
+    "ai_alignment": 0.3,
+    "ai_depth": 0.2,
+    "ai_intent": 0.4,
+    "ai_audience": 2.5,
+    "ai_signal": 0.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 9.0,
+    "reasoning": "The content focuses exclusively on engineering best practices—emphasizing CI/CD, test automation, and risk reduction by quality processes instead of staging environments. There is no mention or discussion of human-AI collaboration, human agency, distributed cognition, AI agent roles, or team-based problem solving involving both humans and AI. The message addresses software delivery professionals, but lacks any alignment to Collective Intelligence as defined (human-AI team cognitive synergy). No content is outdated or contrarian to the category, so no penalties are applied. Scores are minimal across all dimensions except for audience, which has some overlap due to technical practitioners, though the content itself does not target the Collective Intelligence context.",
+    "reasoning_summary": "The content addresses deployment risk through engineering practices without involving AI or human-AI collaboration. It does not fit the Collective Intelligence category, as it focuses on process quality and automation in software delivery, not human-AI team capabilities.",
+    "level": "Ignored"
   }
 }

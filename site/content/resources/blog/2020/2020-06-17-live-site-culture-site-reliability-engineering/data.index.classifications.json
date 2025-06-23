@@ -1950,5 +1950,43 @@
     "reasoning": "The content is primarily focused on DevOps practices, Continuous Delivery, and Site Reliability Engineering with specific focus on Microsoft's Azure DevOps product team. There is no direct mention or exploration of Objective Key Results (OKRs), objectives, key results measurement, or related goal alignment and accountability concepts covered by OKR frameworks. This indicates very limited conceptual alignment and depth of discussion related explicitly to OKRs. While there might be indirect relevance if OKRs are used for outcomes measurement, this is not explicitly stated or discussed. The audience targeted, however, agile teams adopting DevOps practices, does overlap significantly with OKR practitioners in product and technology fields. Direct mentions and explicit discussions being entirely absent results in very low dimension scores for mentions, alignment, depth, and intent. Audience alignment scores moderately high due to overlapping agile team interests, and signal moderately due to clear relevance and minimal off-topic content. No penalties applied as content tone and currency do not violate any penalty guidelines.",
     "reasoning_summary": "Content emphasizes DevOps, Continuous Delivery, and Site Reliability Engineering without explicitly mentioning or aligning with OKR principles or practices.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "c_gS0nlQD9E",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:12",
+    "ai_confidence": 21.375,
+    "ai_mentions": 0.4,
+    "ai_alignment": 2.7,
+    "ai_depth": 2.3,
+    "ai_intent": 1.0,
+    "ai_audience": 7.5,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.2,
+    "ai_penalty_details": "Penalties applied for 'depth' (-1.0) and 'intent' (-1.2) due to partial obsolescence (content reflects 2018 practices) and some lack of focus on the Product Developer accountability; content is primarily framed around DevOps/engineering culture, not Product Developers as a formal accountability.",
+    "final_score": 21.0,
+    "reasoning": "The content centers on agile DevOps and Site Reliability Engineering, highlighting rapid delivery, feedback loops, and responsibility within engineering teams (e.g., the Azure DevOps team). While mentioning team structure, collective responsibility, and continuous delivery, it never directly references the 'Product Developer' role or that accountability in modern frameworks. Discussion is primarily about how engineers deliver value using DevOps principles, not the specific role, behaviors, or responsibilities of Product Developers. There is some tangential relevance (discussion of operational and delivery responsibility, collaboration, quality), but it is neither the focus nor discussed in the context of Product Developer accountability. The content is drawn from 2018, causing some (minor) relevance penalties, and the main audience is technical practitioners rather than those focusing on Product Developer accountability as defined. Minimal overlap with Product Developer core topics results in a low confidence rating.",
+    "reasoning_summary": "This content primarily discusses agile DevOps and SRE practices, not the Product Developer role or accountability. While related themes like team responsibility and delivery exist, there is little alignment with the specific Product Developer category definition.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "c_gS0nlQD9E",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:07",
+    "ai_confidence": 31.65,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.8,
+    "ai_depth": 3.5,
+    "ai_intent": 3.9,
+    "ai_audience": 8.7,
+    "ai_signal": 5.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 1.0,
+    "ai_penalty_details": "1 point deducted from depth: Content refers to 2018 practices and emphasizes a point-in-time snapshot, possibly lacking current best practices; rest is unaffected.",
+    "final_score": 32.0,
+    "reasoning": "The content focuses on DevOps, agile transformation, site reliability, and high-performing software teams using modern engineering models. However, it does not explicitly discuss human-AI teaming or the emergence of collective intelligence as defined here. While collaboration and distributed engineering models are present, the focus is on human teams and operational excellence rather than human-AI partnerships or socio-technical collective intelligence. The only slightly relevant area is the emphasis on collaboration and evolution of team practices, but AI agents or their integration as team members are not explored. Alignment, depth, intent, and direct mention scores are low. One penalty point is applied for referencing potentially outdated (2018) practices.",
+    "reasoning_summary": "The content discusses agile, DevOps, and team evolution for software delivery, focusing on human collaboration and operational improvements. It lacks any substantial coverage of human-AI partnership, so its alignment to Collective Intelligence is minimal.",
+    "level": "Ignored"
   }
 }

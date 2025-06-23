@@ -1956,5 +1956,43 @@
     "reasoning": "The provided content does not explicitly mention Objectives, Key Results, or the OKR framework at all. The central theme is about a misconception of rejecting individual backlog items at the Sprint Review within a Scrum methodology, focusing specifically on Scrum principles, the concept of Done, technical dependencies, flexibility in delivering software increments, and Scrum team collaboration. Although there are indirect overlaps with OKR principles, such as transparency, inspect-and-adapt loops, feedback mechanisms, empirical learning, and possibly alignment to strategic goals, these references remain predominantly grounded within Scrum terminology and practice. The primary intent is clarifying a misunderstanding within Scrum rather than exploring OKR-specific goal-setting methodologies or strategic alignment. Depth and alignment scores are low due to limited explicit and substantial relevance to the core principles and concepts underpinning the OKR category. Audience score is high, however, because Scrum practitioners, Agile or DevOps professionals who commonly utilize OKRs might still find some relevance. Signal-to-noise is moderately strong because, while it stays focused around Scrum practices, it does not veer significantly into unrelated areas, yet the topic is fundamentally different from OKRs and strategic goal-setting.",
     "reasoning_summary": "The content is focused on Scrum practices around Product Backlog and Sprint Review clarity, without direct reference or substantial relevance to Objectives and Key Results or OKR frameworks, resulting in low alignment with this category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "Ewu5coIz9qm",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:10",
+    "ai_confidence": 65.85,
+    "ai_mentions": 4.3,
+    "ai_alignment": 7.7,
+    "ai_depth": 7.1,
+    "ai_intent": 6.6,
+    "ai_audience": 7.8,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content explicitly discusses the 'Development Team' (the Scrum term for Product Developers as of Scrum Guide 2017), focusing on their accountability for the Done Increment, quality, and collaborative work toward the Sprint Goal. While the term 'Product Developer' is not used directly, the responsibility for defining Done, delivering a cohesive Increment, and facilitating Sprint Review learning aligns with the category. The content delves into collective accountability, technical quality, and professional behaviors in product creation, though it does so from a Scrum 2017 perspective, referring to 'Development Team' instead of more modern, role-inclusive terminology. Audience targeting is closely aligned, as the post is aimed at practitioners familiar with Scrum roles, and the signal-to-noise ratio is strong, with minimal off-topic content. Mentioning and intent are slightly reduced since the core term 'Product Developer' isn't named, and the depth is marginally less than maximum as it doesn't explore automation, cross-functionality in depth, or update vocabulary to reflect the latest frameworks.",
+    "reasoning_summary": "This article addresses the Scrum Development Team's role and accountability, mapping closely to the Product Developer category in its discussion of increment quality, Sprint Goals, and collaborative behaviors, though it uses older terminology and doesn't address all aspects of modern frameworks explicitly.",
+    "level": "Secondary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "Ewu5coIz9qm",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:02",
+    "ai_confidence": 14.968,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.4,
+    "ai_depth": 1.7,
+    "ai_intent": 0.9,
+    "ai_audience": 7.1,
+    "ai_signal": 7.4,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 15.0,
+    "reasoning": "The content mainly focuses on Scrum practices, particularly clarifying misconceptions about rejecting backlog items during Sprint Review. While it addresses team collaboration, inspection, and adaptation, there is no substantial discussion of human-AI partnerships, emergent cognition with AI, or any aspect of Collective Intelligence as defined. The audience (Agile practitioners) aligns, but almost all main points revolve around Scrum ceremonies, human team dynamics, and process learning, not teaming with AI. No direct mentions of collective intelligence or related concepts exist, and depth of discussion stays at best tangential to the core category.",
+    "reasoning_summary": "This content discusses team learning, transparency, and Scrum reviews in product development without addressing human-AI collaboration or collective intelligence as defined. The focus stays strictly on human teamwork in Agile, making it a poor fit for the category.",
+    "level": "Ignored"
   }
 }

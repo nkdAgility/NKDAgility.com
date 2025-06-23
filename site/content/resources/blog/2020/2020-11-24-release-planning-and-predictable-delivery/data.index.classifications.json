@@ -1948,5 +1948,43 @@
     "reasoning": "The content provided does not explicitly mention 'Objectives & Key Results' (OKRs) nor does it meaningfully explore the theoretical foundation, strategic alignment, tracking measurable outcomes, or OKR implementation practices. Instead, it heavily focuses on Agile and Scrum practices related to release planning, predictability, continuous improvement, technical debt management, and quality in software development. While there is mild conceptual overlap in terms of iterative inspection, adaptation, transparency, and continuous improvement common to Agile and OKR philosophies, the content remains squarely within the Agile delivery and product management domain without explicit linkage to OKR methodology principles defined explicitly by John Doerr. Additionally, the primary intent appears to address predictability in agile software delivery rather than strategic goal-setting systems inherent to OKRs. The content audience alignments are likely similar (Agile/DevOps practitioners who may overlap with OKR practitioners), but this is not sufficiently strong to meaningfully raise scores in other dimensions. Overall, due to the lack of direct mentions, lack of explicit or implicit alignment to the OKR theoretical foundations, minimal depth in discussing any strategic alignment or outcome-measurement relevant to OKRs, and primary emphasis elsewhere (Agile delivery and technical management), the content has low confidence for this category.",
     "reasoning_summary": "The content focuses exclusively on Agile release planning, predictable delivery, and software quality without mentioning or meaningfully aligning with Objective & Key Results (OKRs). It is not conceptually or intentionally relevant to OKRs as defined by John Doerr.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "2cOXevMnGb_",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:16:55",
+    "ai_confidence": 66.02,
+    "ai_mentions": 4.6,
+    "ai_alignment": 7.8,
+    "ai_depth": 7.5,
+    "ai_intent": 6.0,
+    "ai_audience": 7.4,
+    "ai_signal": 7.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 66.0,
+    "reasoning": "The content references Developers repeatedly as per the 2020 Scrum Guide and discusses their role in delivering quality increments, owning the Definition of Done, and being accountable for the Sprint Backlog. These are core Product Developer accountabilities. However, the content’s main focus is on agile release planning and delivery predictability. While Product Developer responsibilities are detailed, they're woven in as examples of good practices and not the sole focus. The discussion includes surrounding practices (quality, source control, team structure), which are relevant but somewhat dilutive. The audience is agile practitioners who benefit from a Product Developer mindset, but the writing isn't exclusively for or about the formal Product Developer accountability.",
+    "reasoning_summary": "While the article covers Product Developer accountabilities—like owning quality, working as a cross-functional team, and applying Definition of Done—it does so in the context of broader agile and release practices. Product Developer themes are present but not the central topic.",
+    "level": "Secondary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "2cOXevMnGb_",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:00",
+    "ai_confidence": 7.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.3,
+    "ai_intent": 0.9,
+    "ai_audience": 2.0,
+    "ai_signal": 2.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is focused entirely on release planning, quality, estimation, and delivery within agile teams, primarily emphasizing human team dynamics, technical practices, and organizational cultural shifts. There is no significant discussion or even mention of collaboration with AI agents, human-AI partnerships, or any aspect of socio-technical systems involving AI. The only possible indirect overlap is minor: general references to DevOps and modern source control systems—which can, in broader discussions, include automation or AI enhancements—but in this article, they do not. The primary themes align with agile best practices and continuous improvement for predictability, without addressing the emergence of collective intelligence as defined by human-AI collaboration. The content's sole focus on human agility, quality, and workflow, absent any AI element, places it far outside the category.",
+    "reasoning_summary": "This content focuses on Agile team practices, quality, and release planning for predictable software delivery. It does not address human-AI collaboration or any form of collective intelligence involving AI agents, making it a poor fit for the 'Collective Intelligence' category.",
+    "level": "Ignored"
   }
 }

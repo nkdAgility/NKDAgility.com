@@ -3285,5 +3285,43 @@
     "reasoning": "Direct mentions of 'cross-functional teams' are absent, but the article narrates a case involving distributed product management and engineering teams needing stronger collaboration across skills and geography. The focus is on cross-role mentorship, clarifying responsibilities, removing silos, and fostering shared understanding—close conceptual alignment with cross-functional teams, though the explicit label isn't used. The discussion is fairly in-depth, recounting challenges, interventions, and measurable outcomes relevant to building more effective, integrated teams. Intent, audience, and signal stay tightly mapped to agile leaders and practitioners, discussing end-to-end value delivery and team enablement. However, the lack of direct labeling and slightly more emphasis on mentorship as an intervention (rather than team structure per se) curtail perfect scores.",
     "reasoning_summary": "While not explicitly referencing cross-functional teams, the content closely aligns by showing how mentorship enabled diverse, distributed teams to break silos and collaborate towards shared goals. The narrative supports the spirit of cross-functional teams in agile, warranting a high confidence of fit.",
     "level": "Secondary"
+  },
+  "Product Developer": {
+    "resourceId": "L7cngB1uzW9",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:29",
+    "ai_confidence": 52.13,
+    "ai_mentions": 1.8,
+    "ai_alignment": 5.9,
+    "ai_depth": 6.2,
+    "ai_intent": 5.7,
+    "ai_audience": 8.2,
+    "ai_signal": 7.5,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 52.0,
+    "reasoning": "Direct mentions of 'Product Developer' are absent. Content focuses mainly on Product Owner, product management, and team transformation—there are partial intersections with Product Developer accountability via themes of cross-functional collaboration, clarity of roles, shared learning, and technical/engineering engagement. However, the text does not explicitly explore the Product Developer role as a unique, accountable entity as defined in modern frameworks; Product Developer concepts (e.g., collective accountability for creating Increments) are at best implied in team outcomes rather than examined directly. The discussion is deep for product management agility and cross-team effectiveness, yet Product Developer's specific purpose, structure, integration (e.g., with Scrum artifacts or Definition of Done) is not addressed. Audience is largely technical and product/engineering leaders, which fits. Most of the signal is relevant to topics adjacent to Product Developer but not precise to the tag’s required accountability definition.",
+    "reasoning_summary": "The content focuses on improving Product Owner and product management clarity and team collaboration. While it touches on cross-functional teamwork and role alignment relevant to Product Developer accountability, it does not directly discuss or deeply explore the Product Developer role as defined in modern frameworks.",
+    "level": "Tertiary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "L7cngB1uzW9",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:35",
+    "ai_confidence": 36.07,
+    "ai_mentions": 0.8,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.7,
+    "ai_intent": 2.7,
+    "ai_audience": 7.9,
+    "ai_signal": 9.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 36.0,
+    "reasoning": "The content describes a cross-border product and engineering team transforming through mentorship and agile practices. It emphasizes distributed learning, shared understanding, and improved collaboration between human team members. However, there are no references—explicit, implicit, or by example—to human-AI partnership, AI agent collaboration, or augmented cognition with AI. While terms like 'system problem,' 'real agile in action,' and 'collaborative problem-solving' appear, the scope is exclusively about human agency, mentorship, and organizational transformation—unaligned with the category's core meaning of human-AI co-intelligence. Audience and focus on tech leaders and practitioners is strong, but no elements of human-AI collaboration are present.",
+    "reasoning_summary": "The content centers on human mentorship and collaborative agile transformation in product teams, lacking any reference to human-AI partnerships or collective intelligence as defined. While collaborative and distributed cognition themes exist, they do not involve AI, resulting in low category alignment.",
+    "level": "Ignored"
   }
 }

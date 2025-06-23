@@ -3285,5 +3285,43 @@
     "reasoning": "The content focuses exclusively on workflow management in Azure DevOps, specifically around handling 'blocked' work items. It does not mention or reference Objective Key Results (OKRs) directly or indirectly, nor does it discuss structured goal-setting, measurable outcomes, or the OKR system as defined by John Doerr. The advice offered relates to visual management and process improvement but is not conceptually aligned with OKR frameworks or principles like transparency of strategic objectives, outcome-driven measurement, or alignment. The primary audience is technical practitioners in DevOps and workflow management rather than those seeking OKR-related frameworks. Overall, any tangential alignment is minimal, warranting a very low confidence score for this category.",
     "reasoning_summary": "This content is unrelated to OKRs, focusing solely on process improvement and workflow visibility in Azure DevOps. It lacks references to OKR concepts, strategy, or measurable outcomes, making it a poor fit for the Objective Key Results category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "H8CRQrD64JY",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:24",
+    "ai_confidence": 11.9,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.7,
+    "ai_depth": 1.1,
+    "ai_intent": 1.3,
+    "ai_audience": 4.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content discusses workflow practices in Azure DevOps, specifically how teams should visualize and manage blocked work items. While the advice is directed at practitioners working on product development teams, it does not reference Product Developer accountability, collective behaviors, or formal roles as defined in the prompt. There are no explicit mentions or in-depth conceptual exploration related to Product Developers. The focus is on a practical tooling tip rather than role structure, cross-functional capabilities, or responsibilities unique to Product Developers, missing both the role and accountability context central to the 'Product Developer' category.",
+    "reasoning_summary": "This content offers workflow tips for managing blocked work in Azure DevOps. It is generally relevant to teams working on products but does not address the Product Developer role, accountability, or responsibilities as defined by the category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "H8CRQrD64JY",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:24",
+    "ai_confidence": 7.4,
+    "ai_mentions": 0.3,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 0.7,
+    "ai_audience": 1.1,
+    "ai_signal": 0.8,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on workflow management in Azure DevOps, specifically the handling of 'blocked' work items. There are no direct mentions of collective intelligence, human-AI collaboration, or emergent socio-technical outcomes. The advice is aimed at improving team visibility and action upon workflow impediments, but it frames everything in human team dynamics and usage of DevOps tooling—AI or collaborative human-AI agency are not present. The intent is practical for practitioners, and the audience is technical (DevOps teams), but it is entirely unrelated to the category’s core: human-AI partnership and emergent cognitive outcomes. Thus, all six dimensions receive low, non-zero scores for mild conceptual overlap with team collaboration practice. No penalties are applied as the content is not outdated nor contrarian.",
+    "reasoning_summary": "This content discusses human workflow optimization in Azure DevOps but does not address human-AI collaboration or collective intelligence concepts. Its focus is on improving human team practices, not on emergent cognitive outcomes from human-AI partnerships, thus bearing little relevance to the category.",
+    "level": "Ignored"
   }
 }

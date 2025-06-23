@@ -1962,5 +1962,43 @@
     "reasoning": "The content aims explicitly to support trainers facilitating professional Scrum courses using Microsoft Teams and Mural. It thoroughly covers practical tips on tool usage, setup, facilitation strategies, creating safe environments, self-organizing teams, and bounded environments. However, there are zero mentions or even indirect references to Objective Key Results (OKRs) throughout the entire material. The discussion remains strictly within facilitation methods, tool guidance for virtual classrooms and reinforcing Scrum values such as Focus, Openness, Commitment, and Respect. The focus is primarily on Scrum training delivery, student engagement, technical setup, and facilitation techniques. It does not reference setting measurable goals, strategic alignment, tracking progress, iterative goal reviews, or the theoretical or practical implementation of OKRs. Hence, while the audience partially overlaps (agile practitioners), and there's slight conceptual overlap around self-organization and agility relevant to OKRs, the content itself has minimal conceptual alignment, no direct mentions, negligible depth regarding OKRs specifically, and thus receives a low confidence score for the OKR category.",
     "reasoning_summary": "The content focuses exclusively on facilitating virtual Scrum classes with Teams and Mural. It has no explicit references or conceptual alignment to OKRs, hence it does not fit the OKR category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "fyJ8PxhOEZz",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:05",
+    "ai_confidence": 29.17,
+    "ai_mentions": 0.4,
+    "ai_alignment": 3.2,
+    "ai_depth": 3.8,
+    "ai_intent": 3.1,
+    "ai_audience": 5.6,
+    "ai_signal": 4.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 29.0,
+    "reasoning": "Direct mentions of 'Product Developer' or their accountability are absent; content focuses on facilitating virtual Scrum training via Microsoft Teams and Mural. While it discusses self-organizing teams, collaboration, and the role of trainers in creating bounded environments, these references are generalized to Scrum learning contexts—not specific to the Product Developer role as a formal accountability in product frameworks. Discussions of team setup, values, and tools support cross-functionality and self-organization—somewhat adjacent to Product Developer concepts—but do not examine the formal purpose, structure, or specific responsibilities of Product Developers in the creation of increments, nor do they explore their collective accountability, professional practices, or integration with other Scrum roles in Sprint Backlog work. The content targets trainers and facilitators, not Product Developers as defined. Thus, scores reflect only minor conceptual overlap rather than direct alignment.",
+    "reasoning_summary": "The content centers on virtual Scrum training, emphasizing tech setup, safe collaboration, and team self-organization. While tangentially touching on cross-functional teams, it does not address Product Developer accountabilities, structure, or behaviors. Alignment with the 'Product Developer' category is minimal.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "fyJ8PxhOEZz",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:06",
+    "ai_confidence": 1.95,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.7,
+    "ai_intent": 2.1,
+    "ai_audience": 3.8,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 2.0,
+    "reasoning": "The content discusses collaboration and self-organizing teams in virtual Scrum classes using Microsoft Teams and Mural. However, it focuses on human collaboration mediated by technology platforms, not on human-AI partnership. There are no direct mentions or implicit discussions of AI agents, human-AI teaming, or emergence of collective intelligence through human/AI complementarity. The audience (Scrum/Agile practitioners) is related, but the substance does not fit the provided category definition, as the central tenets (AI-enabled collective cognition, human-AI distributed decision-making) are entirely absent. Only very low scores are warranted for the classification criteria.",
+    "reasoning_summary": "This content describes techniques for facilitating self-organizing human teams in virtual Scrum classes using collaboration tools, but it does not discuss AI-human partnership or collective intelligence as defined. Its focus is purely on human collaboration and technology enablement.",
+    "level": "Ignored"
   }
 }

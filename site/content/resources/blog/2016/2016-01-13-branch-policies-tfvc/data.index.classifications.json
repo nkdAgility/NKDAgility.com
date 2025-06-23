@@ -1908,5 +1908,43 @@
     "reasoning": "The provided content exclusively addresses Technical Foundation Version Control (TFVC) policies, explicitly focusing on implementation specifics such as branch locking, code reviews, and work item requirements. There is no mentioning, explicit nor implicit, of Objective & Key Results (OKRs), their principles, components, strategic intent, alignment practices, or outcome measurement philosophies. The content strictly pertains to technical configuration management rather than strategic outcome measurement or agile goal-setting frameworks represented by OKRs. Consequently, the score across mentions, alignment, depth, and intent dimensions is exceptionally low, as it does not resonate with any OKR concept or align to the theoretical foundations as described by John Doerr. Audience and Signal-to-Noise scores are slightly higher, since the content's technical audience (practitioners in agile/DevOps contexts) may partially overlap with OKRs audience, but the inclusion is tangential at most. Overall, confidence is appropriately minimal, reflecting a practically non-existent alignment to the Objective & Key Results category.",
     "reasoning_summary": "The content addresses TFVC branch management policies without referencing or aligning with OKRs concepts, making its relevance to Objective & Key Results negligible.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "_26VFOA-vCe",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:18:00",
+    "ai_confidence": 10.167,
+    "ai_mentions": 0.4,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.0,
+    "ai_intent": 1.0,
+    "ai_audience": 4.2,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 10.0,
+    "reasoning": "The content is a technical guide about configuring branch policies in TFVC, targeting developers and technical leads. It does not mention the Product Developer role/accountability, nor explore related responsibilities, skills, or behaviors as defined in modern frameworks. There is no substantive discussion of Product Developers’ purpose, structure, or accountability, nor focus on collective behaviors, outcomes, or integration with Scrum/Product Owner roles. While developers are referenced generically, and the audience is technical, the content is about tool usage and workflow practice, not the defined role or its specific accountability, so alignment and depth are very low.",
+    "reasoning_summary": "This post details setting up branch policies in TFVC and is aimed at developers. However, it does not address Product Developer role, accountability, or behaviors as defined by modern frameworks, making it a poor fit for the Product Developer category.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "_26VFOA-vCe",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:58",
+    "ai_confidence": 7.8,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.3,
+    "ai_audience": 2.4,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is a practical, tool-focused article on managing TFVC branch policies. No mention or discussion exists of collective intelligence, human-AI collaboration, or even AI involvement of any sort. The focus is purely on process automation, policy implementation, and developer enablement within source control contexts. There are no themes or examples on human-AI partnership, distributed cognition, or shared decision-making, and no references to AI agents. The audience is technical but primarily interested in VCS operations, not collective problem-solving with AI.",
+    "reasoning_summary": "This content strictly explains source control policy management, without references or alignment to collective intelligence or human-AI collaboration. It is out of scope for the specified category.",
+    "level": "Ignored"
   }
 }

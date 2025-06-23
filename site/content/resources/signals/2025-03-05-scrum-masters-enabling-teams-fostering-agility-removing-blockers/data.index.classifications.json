@@ -3285,5 +3285,43 @@
     "reasoning": "The content is focused on the role and accountability of Scrum Masters regarding team effectiveness and delivery. There are no references—direct or indirect—to Objective Key Results, OKRs, or their principles. Concepts of alignment, measurable outcomes, or strategic objectives central to OKRs are absent. The audience and context relate to Scrum practice rather than structured outcome frameworks. All dimensions score low due to lack of relevance, and no penalties were needed.",
     "reasoning_summary": "This content centers on Scrum Master accountability and team delivery, without mentioning or addressing Objective Key Results or OKR-related principles. Its scope is unrelated to OKRs, yielding a very low confidence for this classification.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "IrDYI5d-kXv",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:03:04",
+    "ai_confidence": 11.5,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.0,
+    "ai_depth": 1.2,
+    "ai_intent": 1.5,
+    "ai_audience": 4.2,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content centers exclusively on the Scrum Master role, focusing on enabling delivery, fostering agility, and ensuring team effectiveness. There are no direct or implicit mentions of Product Developers or their unique accountabilities, purposes, or behaviors. While there is generic reference to 'teams' delivering, it is always in the context of what the Scrum Master enables, not about the collective skills, accountability, or work of Product Developers. No part of the content discusses Product Developer structure, role integration, or responsibility per the category definition. Therefore, the confidence is very low, reflecting almost no alignment except a tangential relationship through shared product delivery outcomes.",
+    "reasoning_summary": "This content focuses on the role and accountability of Scrum Masters, not Product Developers. It does not discuss Product Developer purpose, structure, or responsibilities as defined by the category, resulting in very low relevance.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "IrDYI5d-kXv",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:03:05",
+    "ai_confidence": 6.53,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.7,
+    "ai_depth": 0.6,
+    "ai_intent": 1.1,
+    "ai_audience": 1.8,
+    "ai_signal": 1.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses exclusively on the role of Scrum Masters in enabling team effectiveness, fostering agility, and accountability for team delivery. There is no direct mention, exploration, or implication of human-AI collaboration, partnership, or any AI-related augmentation—only human team processes and Scrum roles are discussed. The themes and insights center solely on traditional team facilitation and improvement without reference to collective intelligence as defined (i.e., emergent results from partnerships between humans and AI agents), nor do they discuss distributed cognition or socio-technical systems involving AI. Therefore, this content does not conceptually align with the category, its core purpose, or its targeted audience—even though it discusses teamwork and effectiveness, it lacks any collective intelligence dimension. All scoring dimensions are just above the minimum because the content is peripherally relevant to team collaboration, but not to Collective Intelligence as defined.",
+    "reasoning_summary": "This content solely addresses human teamwork, agility, and Scrum Master accountability without discussing human-AI collaboration or collective intelligence. It does not fit the Collective Intelligence category.",
+    "level": "Ignored"
   }
 }

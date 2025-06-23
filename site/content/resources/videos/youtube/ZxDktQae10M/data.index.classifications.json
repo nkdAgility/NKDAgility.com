@@ -1871,5 +1871,43 @@
     "reasoning": "The content explicitly focuses on tools and methods for migrating work items and projects from TFS to VSTS, alongside configuration and installation instructions for migration tools. There is no mention, direct or indirect, of the Objectives & Key Results (OKR) framework. None of the core OKR topics such as strategic alignment, measurable outcomes, transparency, accountability, or iterative goal-setting are addressed. The audience (Agile, DevOps practitioners familiar with TFS/VSTS) may overlap slightly with typical OKR users, accounting for a low audience alignment score. However, because no connection or relevance to the OKR framework is presented, all other relevance scores remain at or close to 0. No penalties apply, as content is neither outdated nor contradictory to the OKR paradigm—simply unrelated.",
     "reasoning_summary": "The content is exclusively about migration tools and methodologies from TFS to VSTS and lacks any reference or alignment with OKR principles or practices.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "ZxDktQae10M",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:53",
+    "ai_confidence": 13.98,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.9,
+    "ai_depth": 2.2,
+    "ai_intent": 2.3,
+    "ai_audience": 3.6,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 14.0,
+    "reasoning": "The content is a technical guide on TFS to VSTS migration tools, covering setup, configuration, usage, and field mapping. There are no direct or indirect references to Product Developer roles, accountability, or behaviors as defined. The primary audience is IT practitioners and DevOps specialists, not specifically Product Developers in the modern sense. Depth of discussion and intent are entirely tool/process-focused, not on the role, mindset, or collective accountability of Product Developers. No references are made to Sprint Backlog, product accountability, cross-functional skills, or product-centric professional practices. Minimal audience overlap; the content would only indirectly benefit Product Developers if they happened to be responsible for such migrations, but this is neither stated nor implied.",
+    "reasoning_summary": "This guide thoroughly addresses VSTS migration tool usage but lacks any discussion of the Product Developer role, accountability, or relevant behaviors. Its focus is technical migration processes for IT and DevOps professionals, not Product Developer-specific themes.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "ZxDktQae10M",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:44",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.9,
+    "ai_depth": 1.8,
+    "ai_intent": 1.0,
+    "ai_audience": 1.2,
+    "ai_signal": 1.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content is a practical guide focused on migration tooling from TFS to VSTS, with only minor indirect relevance to the Collective Intelligence category. While it mentions community support and collaboration among consultants and MVPs, there is no explicit or substantive discussion of human-AI collaboration, distributed cognition, or the emergence of hybrid human-AI capabilities central to the category. The discussion remains tightly scoped to technical installation, setup, and tool usage. No significant obsolete practices or tone contradictions are present, so no penalties are applied. Very little, if any, of the content meaningfully aligns with the Collective Intelligence criteria.",
+    "reasoning_summary": "The content is a technical walkthrough of migration tools, with only fleeting, indirect references to community involvement. It lacks any discussion or examples of human-AI collaboration or cognitive synergy, and does not fit the Collective Intelligence category.",
+    "level": "Ignored"
   }
 }

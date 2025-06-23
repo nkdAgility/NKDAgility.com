@@ -3285,5 +3285,43 @@
     "reasoning": "The content focuses solely on leadership's role in software quality decisions, emphasizing accountability and risk but does not mention OKRs, goal-setting, measurable outcomes, or related frameworks. No explicit or implicit discussion ties the material to Objective Key Results' theory, practices, or strategic alignment. There is no reference to measurement, outcomes, alignment, or inspection/adaptation cycles related to OKRs, nor does the audience targeting indicate an OKR-focused readership. All dimensions score near the bottom range due to the absence of direct connection.",
     "reasoning_summary": "This content is about leadership accountability for software quality and does not discuss, reference, or align with OKRs or their principles. It has minimal to no relevance to the Objective Key Results category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "3YDTlhSlU4A",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:02:38",
+    "ai_confidence": 42.9,
+    "ai_mentions": 2.9,
+    "ai_alignment": 4.7,
+    "ai_depth": 4.2,
+    "ai_intent": 5.1,
+    "ai_audience": 5.7,
+    "ai_signal": 4.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 43.0,
+    "reasoning": "The content focuses on software quality and the role of leadership in decisions about quality standards. It references the 'Definition of Done'—a concept highly relevant to Product Developers in Scrum and Agile contexts—as the mechanism ensuring quality, but does not explicitly discuss Product Developer accountability, structure, or role beyond implying teams shouldn't lower quality. There is no direct mention of 'Product Developer' or its defined accountability. Some concepts (quality, Definition of Done, decision authority) intersect with Product Developer responsibilities in modern frameworks, but the main thrust is about leadership owning the business risk of compromising quality, not about Product Developers' collective accountability or their unique behaviors, skills, or structure. The audience is mostly practitioners and leaders, not narrowly Product Developers. The post is on-point for quality practices but only indirectly touching the Product Developer category.",
+    "reasoning_summary": "This content primarily addresses leadership's role in setting and approving software quality standards, touching on Definition of Done as a safeguard. It only indirectly references Product Developer responsibilities, making it tangential rather than directly relevant to the defined category.",
+    "level": "Tertiary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "3YDTlhSlU4A",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:02:44",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.2,
+    "ai_alignment": 0.8,
+    "ai_depth": 0.9,
+    "ai_intent": 1.0,
+    "ai_audience": 2.1,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses strictly on leadership responsibility for software quality and the role of a Definition of Done in Scrum. There is no mention—direct or conceptual—of human-AI partnerships, distributed cognition, or emergent capabilities from human-AI collaboration. The main ideas remain entirely about human-driven decision-making regarding software quality, with no reference whatsoever to AI agents, collaboration between humans and AI, or the enhancement of outcomes through such means. Audience is likely Agile or software leaders, yet the topic fits quality/leadership within Scrum, not collective intelligence. The signal is high for its own topic but nearly absent for the given category.",
+    "reasoning_summary": "The content strictly discusses leadership decisions in managing software quality within Scrum teams, focusing solely on human roles and standards, and does not address collective intelligence or human-AI collaboration in any way.",
+    "level": "Ignored"
   }
 }

@@ -3118,5 +3118,43 @@
     "reasoning": "The content discusses Scrum Master competency and the need for better training, referencing Scrum and agile leadership standards. However, there are no mentions of OKRs, their principles, methodology, or use as a framework. The discussion centers on capability assessment via ScrumMatch and does not connect to outcome-based measurement (OKRs), their strategic intent, or implementation. There's no exploration of setting goals using OKRs, tracking measurable results, or the foundational principles from John Doerr. Thus, alignment, depth, and intent with the OKR category are minimal, with the only tangential relevance being the mention of 'continuous improvement'—a general agile value not tied here to OKRs. High signal comes from focused discussion about Scrum, but it is not relevant to OKRs.",
     "reasoning_summary": "This content is focused on Scrum Master competence and team effectiveness, without referencing or aligning with Objective Key Results principles or practices. It does not discuss OKRs or related frameworks, making its fit with the category very low.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "nTipEJck6ez",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:06:58",
+    "ai_confidence": 7.6,
+    "ai_mentions": 0.3,
+    "ai_alignment": 1.1,
+    "ai_depth": 0.6,
+    "ai_intent": 1.4,
+    "ai_audience": 1.8,
+    "ai_signal": 0.9,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 8.0,
+    "reasoning": "The content focuses on the competence of Scrum Masters and how a majority lack essential Scrum knowledge, using statistics to highlight poor accountability in this role. There are no explicit references to Product Developers, their roles, responsibilities, or accountability as defined by product development frameworks. The discussion revolves around Scrum Master skill and leadership, not the collective skills or purpose of Product Developers. Thus, the content neither aligns conceptually nor explores issues pertinent to Product Developers beyond a passing reference to 'Scrum Team member' as a basic skill benchmark. The audience may overlap marginally with practitioners interested in Scrum, but the direct and detailed relevance to Product Developers is negligible.",
+    "reasoning_summary": "This content critiques Scrum Master competency and does not address Product Developer roles, responsibilities, or accountability. There is no substantive connection to the Product Developer category, making any alignment extremely minimal.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "nTipEJck6ez",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:07:01",
+    "ai_confidence": 10.3,
+    "ai_mentions": 0.1,
+    "ai_alignment": 1.2,
+    "ai_depth": 1.0,
+    "ai_intent": 1.0,
+    "ai_audience": 3.5,
+    "ai_signal": 2.0,
+    "ai_penalties_applied": true,
+    "ai_penalty_points": 2.2,
+    "ai_penalty_details": "Alignment (-0.8): Focuses on human competency, excludes AI. Depth (-1.0): No discussion of human-AI collaboration. Intent (-0.4): Solely about human roles.",
+    "final_score": 10.0,
+    "reasoning": "The content is entirely about Scrum Master competency and team leadership, with no reference to AI, human-AI partnerships, or collective intelligence involving both. It strictly discusses shortcomings among humans, not socio-technical collaboration or distributed cognition between humans and AI. The target audience is practitioners in Agile/Scrum, which generally overlaps, but the content is irrelevant to collective intelligence as defined. Penalties are applied for lack of category relevance, conceptual misalignment, and absence of any AI context.",
+    "reasoning_summary": "This content exclusively addresses human capability issues among Scrum Masters, offering no discussion of human-AI collaboration, collective intelligence, or related socio-technical factors, and is not aligned with the intended category.",
+    "level": "Ignored"
   }
 }

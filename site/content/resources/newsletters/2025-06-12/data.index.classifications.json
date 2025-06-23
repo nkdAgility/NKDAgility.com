@@ -2329,5 +2329,43 @@
     "reasoning": "The content primarily focuses on organisational resilience from a technical, engineering, and Agile delivery perspective. It emphasizes sustainable delivery practices, automated testing, robust CI/CD pipelines, and disciplined architecture. There are no direct or even indirect mentions of Objective & Key Results (OKRs). Although the themes of continuous improvement and empirical measurement partially align conceptually with aspects of OKR philosophy (such as evidence-based and iterative improvement), they are exclusively discussed through technical practices and operational resilience lenses. The absence of explicit reference to goal-setting frameworks, strategic outcomes, measurable key results, or aligned accountability structures diminishes conceptual alignment drastically. Audience alignment received a moderate score, as the target readers (Agile, Scrum, technical leadership roles) largely overlap with potential OKR-focused readership. Depth of discussion and intent/purpose aligned poorly with OKRs, as objectives, key result measurement, tracking, or strategic outcomes concepts are not substantively explored or even tangentially covered. Signal-to-noise is moderate because the content is focused, but its relevance to OKRs is minimal at best. No penalties applied, as content tone is neither obsolete nor contradictory directly to OKRs.",
     "reasoning_summary": "Content addresses technical and operational resilience through Agile engineering practices, lacking explicit OKR concepts. Little to no relevance to OKR philosophy or strategic outcome measurement is evident.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "X2BzJPMloRw",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:15",
+    "ai_confidence": 38.22,
+    "ai_mentions": 1.3,
+    "ai_alignment": 4.6,
+    "ai_depth": 4.1,
+    "ai_intent": 3.7,
+    "ai_audience": 2.8,
+    "ai_signal": 2.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 38.0,
+    "reasoning": "The content discusses technical health, resilience, and Agile practices, focusing on team behaviors (e.g., regular delivery, engineering discipline). However, it never explicitly references the Product Developer role or its unique accountabilities. The themes overlap with areas the Product Developer is responsible for—like building increments, technical quality, and continuous improvement—but are addressed generally to organizational teams, leaders, Product Owners, and Scrum Masters. There is minimal, indirect alignment to the definition of Product Developer, with little depth regarding cross-functional skills or collective accountability. The audience appears broader (leadership, teams) and not specifically Product Developers as a formal accountability.",
+    "reasoning_summary": "While the content touches on relevant technical and Agile practices, it does not specify Product Developer accountability or responsibilities. The fit with the Product Developer category is mostly indirect and low-confidence.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "X2BzJPMloRw",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:21",
+    "ai_confidence": 11.65,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.6,
+    "ai_intent": 2.1,
+    "ai_audience": 3.2,
+    "ai_signal": 2.3,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 12.0,
+    "reasoning": "The content centers on technical resilience, engineering discipline, and agile/team roles, but never discusses or implies human-AI collaboration, hybrid problem-solving, or AI agents as team members. No direct or indirect references to collective intelligence concepts are present. Audience relevance is partial due to an Agile/DevOps focus, but absence of collective cognition or technology partnership keeps alignment and depth low.",
+    "reasoning_summary": "This content focuses on technical resilience and Agile practices but doesn't address human-AI collaboration or collective intelligence. It emphasizes teams, leadership, and engineering health, lacking any exploration of AI partnership or emergent team outcomes involving AI.",
+    "level": "Ignored"
   }
 }

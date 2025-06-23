@@ -1859,5 +1859,43 @@
     "reasoning": "The content provides an extensive discussion about agile methodologies, specifically criticising and re-evaluating traditional practices like story points, suggesting alternative metrics like throughput and cycle time, rethinking team sizes beyond standard norms, and exploring the adoption of emergent architecture. However, the content does not mention OKRs once, nor does it conceptually align with the foundational underpinnings or thematic focus of the OKR category definition as articulated by John Doerr. There is no discussion about goal-setting frameworks, outcome-based measurement connected explicitly to strategic alignment and OKR practices. It exclusively focuses on team operational practices, estimation, agile team composition, and architectural adaptability, none of which are explicitly linked to OKR. The alignment and depth scores are set minimally above zero to signal minor conceptual overlap with certain agile values (continuous improvement, adaptability), but without explicit reference to OKRs. No penalties were applied because the content isn't outdated or explicitly contradictory—it simply falls outside of this precise classification.",
     "reasoning_summary": "The content extensively addresses agile methodologies, team structures, and emergent architecture but does not discuss or relate explicitly to OKRs, their practice, or strategic intent, resulting in minimal alignment with this category.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "jCqRHt8LLgw",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:17:12",
+    "ai_confidence": 27.84,
+    "ai_mentions": 0.8,
+    "ai_alignment": 2.3,
+    "ai_depth": 2.1,
+    "ai_intent": 2.6,
+    "ai_audience": 8.2,
+    "ai_signal": 8.7,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 28.0,
+    "reasoning": "The content focuses on agile practices—story points, team size, and emergent architecture—but does not directly discuss Product Developers as an accountability, role, or their specific behaviors. There is no explicit mention of Product Developers, their collective responsibilities, or the skills and mindsets unique to the Product Developer category. While it does address cross-functional teams and agile contexts, the discussion remains generalised to team effectiveness and process improvement, not the structure, purpose, or responsibilities of Product Developers as defined in modern product development frameworks.",
+    "reasoning_summary": "This content discusses team-level agile practices but does not directly address Product Developer accountabilities, responsibilities, or specific behaviors. Its relevance to the 'Product Developer' category is incidental and largely tangential.",
+    "level": "Ignored"
+  },
+  "Collective Intelligence": {
+    "resourceId": "jCqRHt8LLgw",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:17:12",
+    "ai_confidence": 13.37,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.3,
+    "ai_depth": 1.5,
+    "ai_intent": 1.0,
+    "ai_audience": 4.8,
+    "ai_signal": 1.2,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 13.0,
+    "reasoning": "The content discusses agile topics such as story points, team sizes, and emergent architecture, aimed at improving team performance and adaptability. However, there are no direct or indirect discussions of human-AI collaboration, human-AI agency, or collective intelligence as defined. All focus is on human practices and team structures, with no mention of AI agents or human-AI synergies. The audience is in the relevant field (Agile, DevOps), but the content is only tangentially or potentially relevant to collective intelligence if those concepts were recontextualized—nothing in the text does so. The relevance is extremely low across all scoring dimensions; no penalties are needed.",
+    "reasoning_summary": "This content focuses on human-centric agile practices without any discussion of human-AI collaboration or collective intelligence. It is not relevant to the defined category, aside from overlapping organizational audiences.",
+    "level": "Ignored"
   }
 }

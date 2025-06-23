@@ -1949,5 +1949,43 @@
     "reasoning": "The content primarily focuses on the responsibilities and accountability of Scrum teams, especially Developers, for delivering working software and ensuring quality. The discussion is strongly anchored in Scrum principles, team accountability, technical debt, software quality, and empirical processes such as Inspect and Adapt. While these themes strongly align with Agile and Scrum methodologies, they do not explicitly touch on any OKR-related discussion such as strategic alignment, measurable key results, transparency of objectives, stretch goals, outcome-based metrics, or iterative OKR reviews. There is no explicit mention of Objective and Key Results framework (OKRs), nor implicit addressing of OKR principles. Alignment scored low as the topics discussed (Quality, Scrum accountability, technical practices) only indirectly connect to the results-oriented mindset advocated within OKRs. Depth is also minimal related to the OKR concept since the content extensively discusses Scrum practices but not OKRs explicitly. Intent dimension is not particularly fitting since the text does not appear intended towards an audience looking for goal-setting frameworks like OKRs, instead directly targeting practitioners concerned with technical quality, Scrum implementation, and DevOps practices. Audience alignment is moderately higher due to the possibility of overlapping audiences interested broadly in Agile and similar frameworks, but not specifically OKR audiences. Signal-to-noise ratio is moderate, as the content remains coherent and focused within the Agile/Scrum domain, though not directly relevant to OKR specifically.",
     "reasoning_summary": "The content is highly aligned to Scrum, software quality, and team accountability practices but lacks explicit or implicit connection to the Objective and Key Results (OKR) framework, limiting relevance under the OKR classification.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "vCeqzJIgF1F",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:16:59",
+    "ai_confidence": 93.64,
+    "ai_mentions": 9.1,
+    "ai_alignment": 9.6,
+    "ai_depth": 9.7,
+    "ai_intent": 9.2,
+    "ai_audience": 8.8,
+    "ai_signal": 9.0,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 94.0,
+    "reasoning": "The content directly addresses 'Developers' in the sense of formal Scrum roles, repeatedly referencing the 2020 Scrum Guide's accountability for Increments—aligning well to modern Product Developer definitions. It goes beyond surface-level, detailing cross-functional skills, technical and quality responsibilities, and collective accountability for Definition of Done and value delivery. The discussion of automation, DevOps, and continuous improvement further connects to Product Developer capabilities. Its primary intent is informative and perspective-shaping for Scrum practitioners, matching the category's audience. It remains highly focused—almost all content is on role accountability and professionalism in product development. No outdated or contradictory tone was found, and no penalties are necessary. Slightly lower mention and audience scores reflect some indirectness in using traditional “Developers” terminology and slight broadening to quality practices, but all major dimensions are substantively covered.",
+    "reasoning_summary": "This content thoroughly discusses the formal accountabilities, expectations, and behaviors of 'Developers' as defined in Scrum, which matches the Product Developer category. It covers both the mindset and practices associated with professional, cross-functional product development teams.",
+    "level": "Primary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "vCeqzJIgF1F",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:16:54",
+    "ai_confidence": 6.833,
+    "ai_mentions": 0.2,
+    "ai_alignment": 1.5,
+    "ai_depth": 1.3,
+    "ai_intent": 1.0,
+    "ai_audience": 1.2,
+    "ai_signal": 1.1,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 7.0,
+    "reasoning": "The content focuses extensively on quality, accountability, DevOps, and professional Scrum practices. It describes how Scrum teams work together, but exclusively in human terms—there is no mention or implied concept of AI agents collaborating, human-AI teams, or emergent collective intelligence as defined. Topics like distributed cognition, human-AI partnership, or leveraging complementary strengths between humans and AI are wholly absent. The audience (Scrum teams, developers, leaders) is similar to the category but the content is not about human-AI collaboration. No penalties were warranted, as content is current and earnest—but there is no relevant signal for this category.",
+    "reasoning_summary": "This content is about human Scrum teams practicing quality and accountability. It does not involve or discuss human-AI collaboration, AI agents, or collective intelligence in the specified sense, so alignment and confidence are appropriately very low.",
+    "level": "Ignored"
   }
 }

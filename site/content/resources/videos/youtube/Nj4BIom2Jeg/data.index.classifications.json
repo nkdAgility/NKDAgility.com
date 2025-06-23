@@ -3132,5 +3132,43 @@
     "reasoning": "The content provided does not explicitly mention Objectives and Key Results or OKRs at all, resulting in a 'mentions' score of 0. Conceptually, the primary emphasis here is telemetry—collecting data and feedback to inform product decisions. While telemetry may play a supporting role within an OKR framework (as a tool for tracking and measuring Key Results), this article does not frame telemetry explicitly in the context of OKRs, nor does it discuss OKR-aligned concepts like strategic alignment or goal-setting. Instead, the discussion revolves around telemetry practices related to Definition of Done, Agile delivery practices, and continuous feedback for incremental software improvement. The depth of discussion concerning OKRs specifically is also negligible, addressing only indirectly the practices of feedback loops or data-driven decisions, not the structured OKR system. The intent of the article (advocating telemetry practices within Agile software development) is tangential, at best, to the strategic intent and theoretical frameworks central to OKRs. Audience alignment scores moderately, as the Agile and DevOps teams discussed may overlap significantly with OKR-practicing teams, though not directly addressed. Signal-to-noise is moderate since the topic itself (telemetry for incremental product delivery feedback) could be data-supportive in a very broad interpretation relevant to OKRs, but no explicit or meaningful direct relevance exists. No penalties were applied as the tone or practices mentioned are current and do not actively contradict OKR framing explicitly, they simply ignore it altogether.",
     "reasoning_summary": "The content clearly emphasizes telemetry as part of Agile software delivery, not referencing or aligning explicitly with OKRs. Its focus remains telemetry-related practice and broader Agile concepts without direct relevance or significant conceptual overlap with the OKR framework.",
     "level": "Ignored"
+  },
+  "Product Developer": {
+    "resourceId": "Nj4BIom2Jeg",
+    "category": "Product Developer",
+    "calculated_at": "2025-06-23T09:01:17",
+    "ai_confidence": 61.15,
+    "ai_mentions": 2.2,
+    "ai_alignment": 7.9,
+    "ai_depth": 7.0,
+    "ai_intent": 7.4,
+    "ai_audience": 7.1,
+    "ai_signal": 7.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 61.0,
+    "reasoning": "The content focuses on embedding telemetry in the Definition of Done, a core practice for modern product teams. It emphasizes collective team learning, value delivery, and process improvement aligned with Product Developer accountability—particularly around quality, learning, and feedback loops. However, it does not directly reference the formal 'Product Developer' role or its responsibilities, nor does it explicitly discuss their accountability structure or collective ownership. It assumes a broad team audience and modern Scrum-like delivery practices, with strong conceptual overlap but lacks explicit role-specific framing. Thus, clarity on formal Product Developer roles is limited, and much of the discussion could apply to cross-functional teams in general.",
+    "reasoning_summary": "The content strongly supports team-based practices around quality and learning, central to Product Developer accountability, but does not directly discuss the Product Developer role, purpose, or formal responsibilities. Alignment is high for behaviors but limited for explicit role framing.",
+    "level": "Secondary"
+  },
+  "Collective Intelligence": {
+    "resourceId": "Nj4BIom2Jeg",
+    "category": "Collective Intelligence",
+    "calculated_at": "2025-06-23T09:01:16",
+    "ai_confidence": 19.85,
+    "ai_mentions": 0.2,
+    "ai_alignment": 2.8,
+    "ai_depth": 2.3,
+    "ai_intent": 2.7,
+    "ai_audience": 4.5,
+    "ai_signal": 3.6,
+    "ai_penalties_applied": false,
+    "ai_penalty_points": 0,
+    "ai_penalty_details": "none",
+    "final_score": 20.0,
+    "reasoning": "The content focuses entirely on integrating telemetry and feedback loops into software teams’ workflow for better learning and improvement. While it addresses evidence-driven development and team-level learning, there is no discussion of human-AI collaboration, AI agents, or collective intelligence concepts involving both human and artificial cognitive contribution. All examples concern teams learning from user data, not collaborative outcomes between humans and AI. The intended audience is generally technical Agile teams, slightly more aligned with the collective intelligence audience than non-technical readers, but there’s no explicit conceptual or direct mention of collective intelligence or its key features.",
+    "reasoning_summary": "This article is about using telemetry to improve learning and decision-making in Agile teams, but it does not discuss human-AI collaboration, AI agents, or collective intelligence topics. Its focus is on data-driven improvement–not on emergent cognitive capabilities from human-AI teamwork.",
+    "level": "Ignored"
   }
 }
