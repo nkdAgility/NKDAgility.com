@@ -1,8 +1,12 @@
 ---
 title: 'Transforming Leadership: Embrace the Immersive Journey to Agile Mastery'
+short_title: How Can Immersive Training Improve Agile Leadership?
 description: Explores a shift from intensive workshops to ongoing, immersive agile leadership training, enabling leaders to apply skills, build relationships, and drive team success.
 date: 2023-07-13T12:06:17Z
 weight: 665
+ResourceId: OWvCS3xb7pQ
+ResourceImport: true
+ResourceType: videos
 slug: transforming-leadership-embrace-the-immersive-journey-to-agile-mastery
 aliases:
 - /resources/OWvCS3xb7pQ
@@ -24,9 +28,6 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - Organisational Change
-ResourceId: OWvCS3xb7pQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: OWvCS3xb7pQ
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:41Z
+  short_title: 2025-06-23T12:42:08Z
 
 ---
 As I reflect on my journey in agile [leadership]({{< ref "/categories/leadership" >}}), I often find myself pondering the pivotal role that effective training plays in shaping the leaders of tomorrow. Recently, I had the opportunity to delve into the Professional [Agile Leadership]({{< ref "/tags/agile-leadership" >}}) Essentials course, which serves as a crucial stepping stone for managers and leaders transitioning from traditional management styles to agile leadership. This course is designed to empower [Scrum]({{< ref "/categories/scrum" >}}) teams and agile practitioners, helping them flourish and create exceptional products.

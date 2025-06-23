@@ -1,8 +1,12 @@
 ---
 title: How to Discover Unrealized Value in Your Product
+short_title: How can you identify unrealized value in your product?
 description: Learn how to identify and measure unrealised value in your product using Evidence-Based Management, key metrics, and actionable steps to improve customer satisfaction and growth.
 date: 2024-01-24T11:00:29Z
 weight: 1000
+ResourceId: cbLd-wstv3o
+ResourceImport: true
+ResourceType: videos
 slug: how-to-discover-unrealized-value-in-your-product
 aliases:
 - /resources/cbLd-wstv3o
@@ -35,9 +39,6 @@ tags:
 - Product Backlog
 - Customer Satisfaction
 - Working Software
-ResourceId: cbLd-wstv3o
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: cbLd-wstv3o
@@ -54,6 +55,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:16Z
+  short_title: 2025-06-23T12:38:19Z
 
 ---
 When developing a product, it’s natural to focus on delivering value as efficiently as possible. But have you ever wondered what additional value you could be achieving but haven’t yet? How do you uncover those hidden opportunities to take your product to the next level? That’s where Evidence-Based Management (EBM) comes into play.

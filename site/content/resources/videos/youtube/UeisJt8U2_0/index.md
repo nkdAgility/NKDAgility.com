@@ -1,8 +1,12 @@
 ---
 title: 7 Harbingers of the Agile Apocalypse - Plague
+short_title: How Can We Fix Incompetence in Agile Coaching?
 description: Explores the widespread issue of incompetent Agile coaches and Scrum Masters, its impact on teams and organisations, and practical steps to restore true Agile values.
 date: 2023-10-20T07:00:23Z
 weight: 640
+ResourceId: UeisJt8U2_0
+ResourceImport: true
+ResourceType: videos
 slug: 7-harbingers-of-the-agile-apocalypse-plague
 aliases:
 - /resources/UeisJt8U2_0
@@ -25,9 +29,6 @@ tags:
 - Competence
 - Agile Transformation
 - Agile Philosophy
-ResourceId: UeisJt8U2_0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: UeisJt8U2_0
@@ -44,6 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:34Z
+  short_title: 2025-06-23T12:40:19Z
 
 ---
 # Navigating the Plague of Incompetence in Agile [Coaching]({{< ref "/tags/coaching" >}}) 🚧

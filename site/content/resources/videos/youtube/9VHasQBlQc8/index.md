@@ -1,8 +1,12 @@
 ---
 title: The Importance of Patience and Trust in Building Agile Organizations
+short_title: How Do Patience and Trust Build Effective Agile Teams?
 description: Explores how patience and trust foster effective Agile teams, support learning from failure, prevent blame culture, and enable innovation through empiricism and collaboration.
 date: 2023-12-08T07:00:06Z
 weight: 665
+ResourceId: 9VHasQBlQc8
+ResourceImport: true
+ResourceType: videos
 slug: the-importance-of-patience-and-trust-in-building-agile-organizations
 aliases:
 - /resources/9VHasQBlQc8
@@ -29,9 +33,6 @@ tags:
 - Agile Strategy
 - Business Agility
 - Psychological Safety
-ResourceId: 9VHasQBlQc8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 9VHasQBlQc8
@@ -48,6 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:09Z
+  short_title: 2025-06-23T12:39:02Z
 
 ---
 In order for organizations to succeed, they must cultivate trust. Trust doesn't happen overnight; it's built on the foundation of patience. Patience with people, processes, and, most importantly, patience with outcomes that may not always align with expectations.

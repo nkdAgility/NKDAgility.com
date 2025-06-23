@@ -1,8 +1,12 @@
 ---
 title: Understanding the True Role of a Scrum Master
+short_title: What Is the True Role of a Scrum Master?
 description: Explains the true responsibilities of a Scrum Master, how to maximise team effectiveness, teach Scrum principles, and address organisational challenges for better outcomes.
 date: 2023-11-28T07:00:15Z
 weight: 610
+ResourceId: U0h7N5xpAfY
+ResourceImport: true
+ResourceType: videos
 slug: understanding-the-true-role-of-a-scrum-master
 aliases:
 - /resources/U0h7N5xpAfY
@@ -30,9 +34,6 @@ tags:
 - Professional Scrum
 - Agile Frameworks
 - Team Performance
-ResourceId: U0h7N5xpAfY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: U0h7N5xpAfY
@@ -49,6 +50,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:28Z
+  short_title: 2025-06-23T12:39:22Z
 
 ---
 Many [Scrum]({{< ref "/categories/scrum" >}}) Masters step into their role without fully understanding what it entails. Often, the title of [Scrum Master]({{< ref "/tags/scrum-master" >}}) is simply handed to them by their organization, and the expectations within the organization can be quite different from the true accountability of the role within the framework of Scrum.

@@ -1,17 +1,19 @@
 ---
 title: 'Building a Resilient Token Server: Engineering for Flow, Fault Tolerance, and Speed'
+short_title: How Do You Build a Resilient, Fault-Tolerant Token Server?
 description: Explains how to engineer a robust, fault-tolerant token counting server using FastAPI and PowerShell, covering error handling, retries, fallbacks, and resilient workflows.
 date: 2025-05-08T09:00:00Z
 weight: 260
-slug: building-a-resilient-token-server-engineering-for-flow-fault-tolerance-and-speed
-aliases:
-- /resources/mjsboLP-N9P
 ResourceId: mjsboLP-N9P
 ResourceImport: false
 ResourceType: engineering-notes
+slug: building-a-resilient-token-server-engineering-for-flow-fault-tolerance-and-speed
+aliases:
+- /resources/mjsboLP-N9P
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-05-07T12:49:10Z
+  short_title: 2025-06-23T12:33:37Z
 concepts:
 - Tool
 categories:

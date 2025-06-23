@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Azure DevOps Migration: A Step-by-Step Guide for Seamless Project Transfers'
+short_title: How Do You Migrate Azure DevOps Projects Step by Step?
 description: Learn how to migrate Azure DevOps projects step by step, including tool setup, configuration, handling common issues, and ensuring a smooth transfer of work items.
 date: 2023-11-16T12:47:09Z
 weight: 1000
+ResourceId: Qt1Ywu_KLrc
+ResourceImport: true
+ResourceType: videos
 slug: mastering-azure-devops-migration-a-step-by-step-guide-for-seamless-project-transfers
 aliases:
 - /resources/Qt1Ywu_KLrc
@@ -21,9 +25,6 @@ tags:
 - Azure DevOps
 - Install and Configuration
 - Software Development
-ResourceId: Qt1Ywu_KLrc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Qt1Ywu_KLrc
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:46Z
+  short_title: 2025-06-23T12:39:39Z
 
 ---
 When it comes to migrating projects within Azure [DevOps]({{< ref "/categories/devops" >}}), I often find that the process can seem daunting, especially for those who are new to the platform. However, I’m here to share my personal experience and guide you through a straightforward migration using the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) migration tools. I’ll also address some common exceptions and issues that may arise along the way. So, let’s dive in!

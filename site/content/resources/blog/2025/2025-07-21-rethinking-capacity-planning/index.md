@@ -1,14 +1,15 @@
 ---
 title: Rethinking Capacity Planning
+short_title: How Can System-Level Flow Improve Capacity Planning?
 description: Explores how effective capacity planning shifts focus from individual hours to system-level flow, using Lean and Agile principles to improve predictability and value delivery.
 date: 2025-07-21T09:00:00Z
 weight: 245
-slug: rethinking-capacity-planning
-aliases:
-- /resources/AhxlPTOD1yy
 ResourceId: AhxlPTOD1yy
 ResourceImport: false
 ResourceType: blog
+slug: rethinking-capacity-planning
+aliases:
+- /resources/AhxlPTOD1yy
 creator: Martin Hinshelwood
 contributors:
 - name: Nigel Thurlow
@@ -18,6 +19,7 @@ contributors:
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-07T12:48:54Z
+  short_title: 2025-06-23T12:32:49Z
 concepts:
 - Principle
 categories:

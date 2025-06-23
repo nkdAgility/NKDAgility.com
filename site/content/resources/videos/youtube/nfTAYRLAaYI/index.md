@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Kanban: A Simple Guide to Its Core Principles'
+short_title: What Are the 3 Core Principles of Kanban?
 description: Learn the three core Kanban principles—visualising workflow, actively managing tasks, and continuous improvement—to boost team efficiency, transparency, and collaboration.
 date: 2024-07-01T07:00:24Z
 weight: 1000
+ResourceId: nfTAYRLAaYI
+ResourceImport: true
+ResourceType: videos
 slug: mastering-kanban-a-simple-guide-to-its-core-principles
 aliases:
 - /resources/nfTAYRLAaYI
@@ -27,9 +31,6 @@ tags:
 - Operational Practices
 - Definition of Workflow
 - Transparency
-ResourceId: nfTAYRLAaYI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: nfTAYRLAaYI
@@ -46,6 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:44Z
+  short_title: 2025-06-23T12:37:14Z
 
 ---
 In the fast-paced world of Agile, many teams find themselves searching for frameworks that help them improve efficiency, [transparency]({{< ref "/tags/transparency" >}}), and collaboration. One such method that stands out is **[Kanban]({{< ref "/categories/kanban" >}})**. Known for its simplicity and effectiveness, Kanban helps teams visualize their work, manage their flow, and continuously improve. In this post, we’ll dive into the three core principles of Kanban and explore how you can implement them to boost your team’s productivity.

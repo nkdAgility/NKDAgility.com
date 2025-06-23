@@ -1,8 +1,12 @@
 ---
 title: Scrum doesn't solve problems, it reveals them. How, and why is that valuable?
+short_title: How does Scrum reveal problems and why does it matter?
 description: Explains how Scrum exposes hidden organisational problems through transparency and feedback, enabling teams to identify issues, improve processes, and drive real change.
 date: 2023-09-27T07:00:29Z
 weight: 590
+ResourceId: Ys0dWfKVSeA
+ResourceImport: true
+ResourceType: videos
 slug: scrum-doesn't-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 aliases:
 - /resources/Ys0dWfKVSeA
@@ -34,9 +38,6 @@ tags:
 - Team Collaboration
 - Agile Transformation
 - Empirical Process Control
-ResourceId: Ys0dWfKVSeA
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Ys0dWfKVSeA
@@ -53,6 +54,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:17Z
+  short_title: 2025-06-23T12:40:58Z
 
 ---
 ## Reflecting on [Scrum]({{< ref "/categories/scrum" >}})'s Mirror  

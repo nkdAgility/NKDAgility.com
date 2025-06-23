@@ -1,8 +1,12 @@
 ---
 title: 'Avoiding the Local Optimisation Trap: How to Ensure Your Governance Drives Organisational Success'
+short_title: How Can Governance Avoid the Local Optimisation Trap?
 description: Explains how focusing on isolated improvements in governance can harm overall organisational success, and offers strategies for integrated, system-wide optimisation.
 date: 2025-02-08T07:49:38Z
 weight: 1000
+ResourceId: ACZWkkvKEnw
+ResourceImport: true
+ResourceType: videos
 slug: avoiding-the-local-optimisation-trap-how-to-ensure-your-governance-drives-organisational-success
 aliases:
 - /resources/ACZWkkvKEnw
@@ -23,9 +27,6 @@ categories:
 - Uncategorized
 tags:
 - Systems Thinking
-ResourceId: ACZWkkvKEnw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: ACZWkkvKEnw
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:49:43Z
+  short_title: 2025-06-23T12:34:29Z
 
 ---
 In my journey through the realms of agile and organisational efficiency, I've often encountered a rather amusing yet telling analogy that perfectly encapsulates a common pitfall in our approach to governance and optimisation. Picture this: a cog in a machine, struggling to turn because it’s bogged down by the other cogs around it. Now, if we were to take a drastic step and remove all the teeth from this cog, it would spin freely, right? But here’s the catch—it would no longer serve its purpose in driving the entire system forward. 

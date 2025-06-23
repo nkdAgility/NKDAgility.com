@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Potential: How Immersive Learning Transforms Careers and Organisations'
+short_title: How Does Immersive Learning Boost Careers and Organisations?
 description: Explores how immersive learning boosts practical skills, career growth, and organisational improvement through real-world application, coaching, and continuous development.
 date: 2023-07-13T12:16:15Z
 weight: 1000
+ResourceId: NKQr8oGO8lg
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-potential-how-immersive-learning-transforms-careers-and-organisations
 aliases:
 - /resources/NKQr8oGO8lg
@@ -18,9 +22,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: NKQr8oGO8lg
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: NKQr8oGO8lg
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:39Z
+  short_title: 2025-06-23T12:42:07Z
 
 ---
 When it comes to professional development, the value of immersive learning cannot be overstated. As someone who has been deeply involved in training and [coaching]({{< ref "/tags/coaching" >}}), I’ve seen firsthand how transformative these experiences can be—not just for individuals, but for entire organisations. 

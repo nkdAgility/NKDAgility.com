@@ -1,8 +1,12 @@
 ---
 title: 'Cultivating a Culture of Quality: Lessons from Boeing and Volkswagen for Engineering Excellence'
+short_title: How Can Organisations Build a Culture of Quality?
 description: Explores how fostering a culture of quality and engineering excellence prevents failures, using Boeing and Volkswagen as examples, and highlights the impact on software development.
 date: 2024-11-29T07:00:17Z
 weight: 175
+ResourceId: HmAIUiR8QSo
+ResourceImport: true
+ResourceType: videos
 slug: cultivating-a-culture-of-quality-lessons-from-boeing-and-volkswagen-for-engineering-excellence
 aliases:
 - /resources/HmAIUiR8QSo
@@ -19,9 +23,6 @@ categories:
 - Technical Leadership
 tags:
 - Organisational Culture
-ResourceId: HmAIUiR8QSo
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: HmAIUiR8QSo
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:00Z
+  short_title: 2025-06-23T12:35:13Z
 
 ---
 Building a culture of quality within your organisation is not a solo endeavour; it requires a collective commitment from every individual involved. Each person must demonstrate their own [technical excellence]({{< ref "/tags/technical-excellence" >}}), [leadership]({{< ref "/categories/leadership" >}}), and engineering capability. When individuals embody these qualities, they set a standard that others are likely to emulate. The more people in your organisation adopt this mindset, the quicker it becomes the norm.

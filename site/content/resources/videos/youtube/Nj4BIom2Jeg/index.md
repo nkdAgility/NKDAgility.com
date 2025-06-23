@@ -1,8 +1,12 @@
 ---
 title: 'Stop Flying Blind: Why Telemetry Belongs in Your Definition of Done'
+short_title: Why Include Telemetry in Your Definition of Done?
 description: Stop flying blind after release—learn why telemetry is vital to your Definition of Done and how real feedback drives better software, value, and team success.
 date: 2025-06-11T06:45:00Z
 weight: 225
+ResourceId: Nj4BIom2Jeg
+ResourceImport: true
+ResourceType: videos
 slug: stop-flying-blind-why-telemetry-belongs-in-your-definition-of-done
 aliases:
 - /resources/Nj4BIom2Jeg
@@ -28,9 +32,6 @@ tags:
 - Technical Mastery
 - Product Delivery
 - Current Value
-ResourceId: Nj4BIom2Jeg
-ResourceImport: true
-ResourceType: videos
 videoId: Nj4BIom2Jeg
 ResourceImportSource: Youtube
 source: youtube
@@ -44,9 +45,10 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T19:44:58Z
-ResourceContentOrigin: ai
+  short_title: 2025-06-23T12:33:06Z
 
 ---
 There’s a phrase I keep coming back to: shipping without telemetry is flying blind. It’s astonishing how often I see teams pour their energy into building and releasing features, only to have no idea what happens next. Did it work? Did it break? Is anyone even using it? Without logs, metrics, or any meaningful feedback, you’re left guessing. And guessing is not a strategy.

@@ -1,8 +1,12 @@
 ---
 title: What has the initial response been to the immersive learning experiences, how do you see that evolving?
+short_title: How Are Immersive Learning Experiences Evolving?
 description: Immersive learning is transforming professional development with ongoing, interactive sessions that boost engagement, retention, real-world application, and tailored growth.
 date: 2023-08-28T07:00:05Z
 weight: 1000
+ResourceId: 6D6QTjSrJ14
+ResourceImport: true
+ResourceType: videos
 slug: what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 aliases:
 - /resources/6D6QTjSrJ14
@@ -21,9 +25,6 @@ categories:
 - Product Development
 tags:
 - Continuous Learning
-ResourceId: 6D6QTjSrJ14
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 6D6QTjSrJ14
@@ -40,6 +41,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:09:49Z
+  short_title: 2025-06-23T12:41:28Z
 
 ---
 ## Embracing the Shift: Why Immersive Learning is the Future of Professional Development 

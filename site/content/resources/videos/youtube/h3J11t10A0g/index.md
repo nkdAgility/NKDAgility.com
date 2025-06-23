@@ -1,8 +1,12 @@
 ---
 title: 'Navigating the Unpredictability of Software Development: Embrace Agile for Success'
+short_title: How Can Agile Help Manage Software Development Uncertainty?
 description: Explores how Agile principles, technical leadership, and engineering excellence help teams manage unpredictability, adapt to change, and deliver quality software projects.
 date: 2024-12-02T06:00:00Z
 weight: 220
+ResourceId: h3J11t10A0g
+ResourceImport: true
+ResourceType: videos
 slug: navigating-the-unpredictability-of-software-development-embrace-agile-for-success
 aliases:
 - /resources/h3J11t10A0g
@@ -22,9 +26,6 @@ categories:
 tags:
 - Software Development
 - Pragmatic Thinking
-ResourceId: h3J11t10A0g
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: h3J11t10A0g
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:56:57Z
+  short_title: 2025-06-23T12:35:11Z
 
 ---
 In my experience working with various organisations, one of the most prevalent issues I encounter is the struggle with missed deadlines and budget overruns in software projects. It’s a challenge that seems to plague many, and it often feels like you’re holding onto a bag that’s slowly melting away, spilling its contents all over the street. This unpredictability is a fundamental reality of navigating complexity in [software development]({{< ref "/tags/software-development" >}}).

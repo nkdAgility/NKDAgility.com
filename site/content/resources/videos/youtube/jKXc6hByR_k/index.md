@@ -1,8 +1,12 @@
 ---
 title: 'Maximising ROI in Software Development: Unlocking Value Through Quality and Expertise'
+short_title: How Can You Maximise ROI in Software Development?
 description: Learn how quality, technical expertise, and regular reviews in software development can maximise ROI and ensure your organisation delivers lasting business value.
 date: 2024-12-13T06:30:00Z
 weight: 325
+ResourceId: jKXc6hByR_k
+ResourceImport: true
+ResourceType: videos
 slug: maximising-roi-in-software-development-unlocking-value-through-quality-and-expertise
 aliases:
 - /resources/jKXc6hByR_k
@@ -18,9 +22,6 @@ concepts: []
 categories:
 - Product Development
 tags: []
-ResourceId: jKXc6hByR_k
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: jKXc6hByR_k
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:56:43Z
+  short_title: 2025-06-23T12:35:02Z
 
 ---
 If you’re looking to build teams and an organisation that can deliver the highest possible value for your investment, then Naked Agility is here to help. Whether you’re a team member immersed in [engineering practices]({{< ref "/tags/engineering-practices" >}}) or a CTO or CEO grappling with hypothesis-driven methodologies, we can provide the [coaching]({{< ref "/tags/coaching" >}}) and advice you need to maximise your return on investment.

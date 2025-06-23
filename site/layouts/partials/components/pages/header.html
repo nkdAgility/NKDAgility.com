@@ -16,16 +16,19 @@
     </div>
     <div class="col-12 col-xl-8 d-flex flex-column">
       <div class="flex-grow-1">
-        <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
-        {{- if .Params.headline }}
-          <h2 class="mb-4 nkda-heading-secondary">{{- .Params.headline.content | markdownify }}</h2>
-        {{ else }}
-          {{- if .Params.subtitle }}
-            <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
+        <h1 class="mb-4 nkda-heading-primary">{{- .Params.short_title | markdownify }}</h1>
+        <h2 class="mb-4 nkda-heading-secondary">{{- .Title | markdownify }}</h2>
+        <div class="text-white">
+          {{- if .Params.headline }}
+            <p class="mb-4">{{- .Params.headline.content | markdownify }}</p>
           {{ else }}
-            <h2 class="mb-4 nkda-heading-secondary">{{- .Description | markdownify }}</h2>
+            {{- if .Params.subtitle }}
+              <p class="mb-4 ">{{- .Params.subtitle | markdownify }}</p>
+            {{ else }}
+              <p class="mb-4">{{- .Description | markdownify }}</p>
+            {{- end }}
           {{- end }}
-        {{- end }}
+        </div>
       </div>
       {{ if and (eq .Type "resources") (ne .Kind "section") }}
         <div class="mt-auto">{{- partial "components/resources/craft.html" . }}</div>

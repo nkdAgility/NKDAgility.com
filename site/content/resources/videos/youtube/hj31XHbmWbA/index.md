@@ -1,8 +1,12 @@
 ---
 title: "Quotes: You can't connect the dots looking forward; you can only connect them looking backwards. Steve Jobs"
+short_title: How Can Reflecting on the Past Improve Agile Teams?
 description: Explores how reflecting on past experiences, as Steve Jobs advised, guides Agile teams in making informed, adaptive decisions and continuous improvements.
 date: 2023-10-13T11:00:40Z
 weight: 1000
+ResourceId: hj31XHbmWbA
+ResourceImport: true
+ResourceType: videos
 slug: quotes-you-can't-connect-the-dots-looking-forward-you-can-only-connect-them-looking-backwards-steve-jobs
 aliases:
 - /resources/hj31XHbmWbA
@@ -23,9 +27,6 @@ concepts:
 categories:
 - Product Development
 tags: []
-ResourceId: hj31XHbmWbA
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: hj31XHbmWbA
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:47Z
+  short_title: 2025-06-23T12:40:30Z
 
 ---
 **Steve Jobs and the Art of Connecting Dots in Agile Environments** 

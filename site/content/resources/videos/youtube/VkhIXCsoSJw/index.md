@@ -1,8 +1,12 @@
 ---
 title: 'Embracing Automation: The Key to Transforming Your Development Process and Boosting Confidence'
+short_title: How Does Automation Transform Software Development?
 description: Explores how automation in testing, deployment, and validation streamlines development, reduces technical debt, and builds confidence for teams and customers alike.
 date: 2025-01-14T06:45:00Z
 weight: 315
+ResourceId: VkhIXCsoSJw
+ResourceImport: true
+ResourceType: videos
 slug: embracing-automation-the-key-to-transforming-your-development-process-and-boosting-confidence
 aliases:
 - /resources/VkhIXCsoSJw
@@ -34,9 +38,6 @@ tags:
 - Market Adaptability
 - Flow Efficiency
 - Value Delivery
-ResourceId: VkhIXCsoSJw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: VkhIXCsoSJw
@@ -53,6 +54,7 @@ sitemap:
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:59Z
+  short_title: 2025-06-23T12:34:49Z
 
 ---
 When it comes to developing complex products, one of the most significant steps we can take as developers and engineering teams is to embrace automation. In my experience, this is not just a best practice; it’s essential for success. Alongside reducing the size of our backlog—essentially making our deliverables smaller so we can iterate more frequently—automation becomes a cornerstone of our development process.

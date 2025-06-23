@@ -1,8 +1,12 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 5.
+short_title: Does Scrum Mean No Governance?
 description: Explains why Scrum does not mean a lack of governance, highlighting the need for regulatory compliance and internal standards while maintaining Agile flexibility.
 date: 2023-10-26T07:00:29Z
 weight: 690
+ResourceId: kORUKHu-64A
+ResourceImport: true
+ResourceType: videos
 slug: scrum-is-like-communism-it-doesn't-work-myth-5
 aliases:
 - /resources/kORUKHu-64A
@@ -24,9 +28,6 @@ concepts: []
 categories:
 - Product Development
 tags: []
-ResourceId: kORUKHu-64A
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: kORUKHu-64A
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:20Z
+  short_title: 2025-06-23T12:40:05Z
 
 ---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Governance: Navigating the Balance for Agile Success 🚀

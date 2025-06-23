@@ -1,8 +1,12 @@
 ---
 title: 'Empowering Leadership: Driving Cultural Change for Agile Success'
+short_title: How Can Leadership Drive Agile Cultural Change?
 description: Explores how effective leadership drives cultural change, supports agile practices, and fosters collaboration through vision, automation, learning, and breaking down silos.
 date: 2025-02-07T06:00:27Z
 weight: 400
+ResourceId: XyprV8F_es4
+ResourceImport: true
+ResourceType: videos
 slug: empowering-leadership-driving-cultural-change-for-agile-success
 aliases:
 - /resources/XyprV8F_es4
@@ -32,9 +36,6 @@ tags:
 - Organisational Culture
 - Sociotechnical Systems
 - Value Delivery
-ResourceId: XyprV8F_es4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: XyprV8F_es4
@@ -51,6 +52,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:49:46Z
+  short_title: 2025-06-23T12:34:34Z
 
 ---
 In my journey through various organisations, I've come to realise that [leadership]({{< ref "/categories/leadership" >}}) plays a pivotal role in driving cultural and [organisational change]({{< ref "/tags/organisational-change" >}}). This change is essential for supporting frequent and reliable deployments across multiple teams. Today, I want to share some insights on how leaders can effectively facilitate this transformation, drawing from my experiences and observations.

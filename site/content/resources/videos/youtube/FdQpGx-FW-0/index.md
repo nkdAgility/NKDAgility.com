@@ -1,8 +1,12 @@
 ---
 title: 7 harbingers of the Agile apocalypse - Judgement
+short_title: How Can Principle-Driven Agile Prevent Rigid Judgment?
 description: Explores how rigid, judgmental Agile practices stifle creativity and innovation, and advocates for principle-driven, adaptable approaches to foster true business agility.
 date: 2023-10-20T11:00:13Z
 weight: 665
+ResourceId: FdQpGx-FW-0
+ResourceImport: true
+ResourceType: videos
 slug: 7-harbingers-of-the-agile-apocalypse-judgement
 aliases:
 - /resources/FdQpGx-FW-0
@@ -31,9 +35,6 @@ tags:
 - Pragmatic Thinking
 - Organisational Agility
 - Beta Codex
-ResourceId: FdQpGx-FW-0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: FdQpGx-FW-0
@@ -50,6 +51,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:33Z
+  short_title: 2025-06-23T12:40:17Z
 
 ---
 # Escaping the Judgment Trap in [Agile Transformation]({{< ref "/tags/agile-transformation" >}}) 🚀

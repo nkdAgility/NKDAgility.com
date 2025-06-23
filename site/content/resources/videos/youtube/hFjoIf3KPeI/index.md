@@ -1,8 +1,12 @@
 ---
 title: How does a Scrum Master or Agile coach motivate a Scrum Team?
+short_title: How Do Scrum Masters Motivate Agile Teams?
 description: Explains how Scrum Masters and Agile coaches boost team motivation by setting clear goals, fostering engagement, recognising achievements, and promoting continuous improvement.
 date: 2023-09-11T07:00:17Z
 weight: 610
+ResourceId: hFjoIf3KPeI
+ResourceImport: true
+ResourceType: videos
 slug: how-does-a-scrum-master-or-agile-coach-motivate-a-scrum-team
 aliases:
 - /resources/hFjoIf3KPeI
@@ -33,9 +37,6 @@ tags:
 - Agile Frameworks
 - Agile Transformation
 - Team Collaboration
-ResourceId: hFjoIf3KPeI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: hFjoIf3KPeI
@@ -52,6 +53,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:35Z
+  short_title: 2025-06-23T12:41:13Z
 
 ---
 ## Reinvigorating Your [Scrum]({{< ref "/categories/scrum" >}}) Team: The Agile Coach's Playbook 🚀 

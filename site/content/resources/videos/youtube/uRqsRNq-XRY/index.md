@@ -1,8 +1,12 @@
 ---
 title: 'Navigating the Judgment Trap: How to Foster a Healthy Agile Environment'
+short_title: How Can Agile Teams Avoid the Judgment Trap?
 description: Explores how judgment in Agile teams harms morale and innovation, and offers practical steps to create a supportive, collaborative, and growth-focused Agile environment.
 date: 2023-11-09T06:45:04Z
 weight: 455
+ResourceId: uRqsRNq-XRY
+ResourceImport: true
+ResourceType: videos
 slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
 aliases:
 - /resources/uRqsRNq-XRY
@@ -21,9 +25,6 @@ tags:
 - Agile Philosophy
 - Organisational Culture
 - Team Performance
-ResourceId: uRqsRNq-XRY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: uRqsRNq-XRY
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:59Z
+  short_title: 2025-06-23T12:39:51Z
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call the "judgment trap." This is one of the seven signs of the agile apocalypse, and it’s something that can derail even the most well-intentioned teams. Today, I want to share my thoughts on how judgment manifests in Agile environments and how we can navigate this challenge to foster a healthier, more productive atmosphere.

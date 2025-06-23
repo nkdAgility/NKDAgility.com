@@ -1,8 +1,12 @@
 ---
 title: Why is the Professional Agile Leadership - Essentials course a natural evolution for an experienced Scrum Master?
+short_title: Why Should Scrum Masters Take the Agile Leadership Course?
 description: Explains how the Professional Agile Leadership – Essentials course helps experienced Scrum Masters gain leadership skills, understand organisational challenges, and broaden their impact.
 date: 2023-07-27T07:00:04Z
 weight: 640
+ResourceId: 7R9_bYOswhk
+ResourceImport: true
+ResourceType: videos
 slug: why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 aliases:
 - /resources/7R9_bYOswhk
@@ -21,9 +25,6 @@ categories:
 - Scrum
 tags:
 - Scrum Master
-ResourceId: 7R9_bYOswhk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 7R9_bYOswhk
@@ -40,6 +41,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:10:33Z
+  short_title: 2025-06-23T12:42:01Z
 
 ---
 ## Ascending the [Leadership]({{< ref "/categories/leadership" >}}) Ladder

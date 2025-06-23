@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Negotiation: Essential Skills Every Product Owner Needs from *Never Split the Difference*'
+short_title: What Negotiation Skills Do Product Owners Need?
 description: Learn key negotiation skills for product owners, including empathy, active listening, and strategic questioning, inspired by *Never Split the Difference* by Chris Voss.
 date: 2023-12-13T11:00:08Z
 weight: 1000
+ResourceId: BR9vIRsQfGI
+ResourceImport: true
+ResourceType: videos
 slug: mastering-negotiation-essential-skills-every-product-owner-needs-from-never-split-the-difference
 aliases:
 - /resources/BR9vIRsQfGI
@@ -20,9 +24,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: BR9vIRsQfGI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: BR9vIRsQfGI
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:59Z
+  short_title: 2025-06-23T12:38:55Z
 
 ---
 Negotiation is a skill that often gets overlooked in the realm of product ownership, yet it is absolutely crucial. As I reflect on my journey, I can’t stress enough how vital it is to master this art, whether you’re negotiating with stakeholders, team members, or even your children about bedtime. 

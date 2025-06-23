@@ -1,8 +1,12 @@
 ---
 title: How effectively does an APS prepare a team to do a solid, professional Scrum?
+short_title: Does APS Effectively Prepare Teams for Professional Scrum?
 description: Explains how Applied Professional Scrum (APS) helps teams master Scrum by focusing on fundamentals, removing unhelpful practices, and enabling effective agile transformation.
 date: 2023-08-12T07:00:10Z
 weight: 665
+ResourceId: QI3oE9IUc6E
+ResourceImport: true
+ResourceType: videos
 slug: how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 aliases:
 - /resources/QI3oE9IUc6E
@@ -25,9 +29,6 @@ tags:
 - Agile Frameworks
 - Software Development
 - Professional Scrum
-ResourceId: QI3oE9IUc6E
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: QI3oE9IUc6E
@@ -44,6 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:13Z
+  short_title: 2025-06-23T12:41:43Z
 
 ---
 ## The APS Advantage: Exploring Professional [Scrum]({{< ref "/categories/scrum" >}}) Mastery

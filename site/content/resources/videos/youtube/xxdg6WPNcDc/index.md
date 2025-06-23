@@ -1,8 +1,12 @@
 ---
 title: 'Stop Paying the Hidden Costs of Weak Delivery: Why a Strong Definition of Done Transforms Your Team’s Results'
+short_title: How Does a Strong Definition of Done Improve Delivery?
 description: Stop paying the hidden costs of weak delivery. Discover how a strong, shared definition of done builds trust, quality, and real agility in your team.
 date: 2025-05-21T06:00:00Z
 weight: 130
+ResourceId: xxdg6WPNcDc
+ResourceImport: true
+ResourceType: videos
 slug: stop-paying-the-hidden-costs-of-weak-delivery-why-a-strong-definition-of-done-transforms-your-team-s-results
 aliases:
 - /resources/xxdg6WPNcDc
@@ -33,9 +37,6 @@ tags:
 - Organisational Agility
 - Working Software
 - Increment
-ResourceId: xxdg6WPNcDc
-ResourceImport: true
-ResourceType: videos
 videoId: xxdg6WPNcDc
 ResourceImportSource: Youtube
 source: youtube
@@ -49,9 +50,10 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T20:36:57Z
-ResourceContentOrigin: ai
+  short_title: 2025-06-23T12:33:23Z
 
 ---
 Every shortcut adds to your technical debt. I see it time and again: teams under pressure, deadlines looming, and the temptation to cut corners becomes almost irresistible. But let me be clear—every time you skip quality standards, every time you fudge what “done” means, you’re not saving time. You’re simply deferring the pain. You’re creating future rework, and that bill always comes due.

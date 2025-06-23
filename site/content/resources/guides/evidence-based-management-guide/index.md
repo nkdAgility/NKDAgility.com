@@ -1,44 +1,44 @@
 ---
-title: "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty"
+title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
 short_title: Evidence-Based Management Guide 2024
 description: A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.
 date: 2024-09-17
 weight: 390
-slug: the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty
-aliases:
-  - /learn/agile-delivery-kit/guides/evidence-based-management-guide
-  - /resources/ltc7lzhy14U
-aliasesArchive:
-  - /learn/agile-delivery-kit/guides/evidence-based-management-guide
-concepts:
-  - Principle
-categories:
-  - Product Development
-  - Product Management
-tags:
-  - Customer Focus
-  - Strategic Goals
-  - Decision Making
-  - Evidence Based Leadership
-  - Evidence Based Management
-  - Metrics and Learning
-  - Value Delivery
-  - Agile Product Management
-  - Agile Strategy
-  - Business Agility
-  - Organisational Agility
-  - Product Strategy
-  - Software Development
-  - Enterprise Agility
-  - Common Goals
 ResourceId: ltc7lzhy14U
 ResourceImport: false
 ResourceType: guides
+slug: the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty
+aliases:
+- /learn/agile-delivery-kit/guides/evidence-based-management-guide
+- /resources/ltc7lzhy14U
+aliasesArchive:
+- /learn/agile-delivery-kit/guides/evidence-based-management-guide
+concepts:
+- Principle
+categories:
+- Product Development
+- Product Management
+tags:
+- Customer Focus
+- Strategic Goals
+- Decision Making
+- Evidence Based Leadership
+- Evidence Based Management
+- Metrics and Learning
+- Value Delivery
+- Agile Product Management
+- Agile Strategy
+- Business Agility
+- Organisational Agility
+- Product Strategy
+- Software Development
+- Enterprise Agility
+- Common Goals
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
-recommendedContent:
-videos:
+recommendedContent: 
+videos: 
 creator: Martin Hinshelwood
 card:
   button:
@@ -47,8 +47,9 @@ card:
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
 Watermarks:
   description: 2025-05-07T12:57:55Z
----
+  short_title: 2025-06-23T12:35:57Z
 
+---
 ### May 2024
 
 Organizations exist for a reason: to achieve something that they think they, uniquely, can achieve. They often express this purpose in different ways, at different levels, to create purpose

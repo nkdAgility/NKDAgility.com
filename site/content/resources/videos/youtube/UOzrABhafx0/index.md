@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Product Backlog Management: Insights from the New Scrum.org Course'
+short_title: How Can You Master Product Backlog Management in Scrum?
 description: Learn practical skills for effective product backlog management, including item creation, prioritisation, breakdown, and alignment with business goals to boost Agile team success.
 date: 2023-11-30T07:00:11Z
 weight: 1000
+ResourceId: UOzrABhafx0
+ResourceImport: true
+ResourceType: videos
 slug: mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 aliases:
 - /resources/UOzrABhafx0
@@ -31,9 +35,6 @@ tags:
 - Agile Product Management
 - Software Development
 - Operational Practices
-ResourceId: UOzrABhafx0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: UOzrABhafx0
@@ -50,6 +51,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:23Z
+  short_title: 2025-06-23T12:39:18Z
 
 ---
 In today's fast-paced Agile environments, effective [product backlog]({{< ref "/tags/product-backlog" >}}) management is key to ensuring teams stay focused, aligned, and efficient. [Scrum]({{< ref "/categories/scrum" >}}).org has recently launched a new **Product Backlog Management** course, and it’s shaping up to be an exciting addition to their offerings. Having worked with countless teams and seen firsthand how backlog mismanagement can derail progress, this course offers practical, actionable skills that every [Scrum team]({{< ref "/tags/scrum-team" >}}) can benefit from.

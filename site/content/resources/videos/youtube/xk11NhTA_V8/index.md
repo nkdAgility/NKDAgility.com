@@ -1,8 +1,12 @@
 ---
 title: 'Navigating the Agile Apocalypse: How to Combat Judgment and Foster Team Growth'
+short_title: How Can Agile Teams Reduce Judgment and Foster Growth?
 description: Explores how judgment in Agile teams—via metrics like velocity and bug counts—can harm collaboration, and offers strategies to foster growth and psychological safety.
 date: 2023-11-01T11:30:27Z
 weight: 665
+ResourceId: xk11NhTA_V8
+ResourceImport: true
+ResourceType: videos
 slug: navigating-the-agile-apocalypse-how-to-combat-judgment-and-foster-team-growth
 aliases:
 - /resources/xk11NhTA_V8
@@ -18,9 +22,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: xk11NhTA_V8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: xk11NhTA_V8
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:10Z
+  short_title: 2025-06-23T12:39:57Z
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call one of the seven signs of the Agile apocalypse: judgment. This isn't just a passing concern; it's a pervasive issue that can undermine the very principles of agility we strive to uphold. 

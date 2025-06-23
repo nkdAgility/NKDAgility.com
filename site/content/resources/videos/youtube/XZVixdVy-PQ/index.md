@@ -1,8 +1,12 @@
 ---
 title: 'Redefining Agile’s Core: Beyond Rituals and Procedures'
+short_title: Is Agile About Rituals or Delivering Real Value?
 description: Explores how Agile’s true value lies in delivering outcomes and adapting to change, not just following rituals or procedures, and highlights the need for human judgement in complex systems.
 date: 2024-01-22T07:00:11Z
 weight: 665
+ResourceId: XZVixdVy-PQ
+ResourceImport: true
+ResourceType: videos
 slug: redefining-agile-s-core-beyond-rituals-and-procedures
 aliases:
 - /resources/XZVixdVy-PQ
@@ -30,9 +34,6 @@ tags:
 - Agile Product Management
 - Software Development
 - Agile Strategy
-ResourceId: XZVixdVy-PQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: XZVixdVy-PQ
@@ -49,6 +50,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:23Z
+  short_title: 2025-06-23T12:38:25Z
 
 ---
 There’s a quote from Ken Schwaber, one of the co-creators of [Scrum]({{< ref "/categories/scrum" >}}), that goes:

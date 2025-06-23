@@ -1,8 +1,12 @@
 ---
 title: 'Why “Done” Only Counts When It’s Live: Moving Beyond Fake Finishes to Real Value in Software Delivery'
+short_title: What Does "Done" Really Mean in Software Delivery?
 description: Discover why “done” means live in production—not just code complete. Learn to deliver real value, close feedback loops, and drive outcomes that matter.
 date: 2025-05-07T11:46:58Z
 weight: 95
+ResourceId: 9nnnOYDoMu8
+ResourceImport: true
+ResourceType: videos
 slug: why-done-only-counts-when-it-s-live-moving-beyond-fake-finishes-to-real-value-in-software-delivery
 aliases:
 - /resources/9nnnOYDoMu8
@@ -35,9 +39,6 @@ tags:
 - Increment
 - Metrics and Learning
 - Deployment Frequency
-ResourceId: 9nnnOYDoMu8
-ResourceImport: true
-ResourceType: videos
 videoId: 9nnnOYDoMu8
 ResourceImportSource: Youtube
 source: youtube
@@ -51,9 +52,10 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-10T14:13:51Z
-ResourceContentOrigin: ai
+  short_title: 2025-06-23T12:33:38Z
 
 ---
 If it’s not in the hands of users, it’s not done. I’ve said this countless times in workshops, coaching sessions, and retrospectives, and yet it still bears repeating. Writing code isn’t done. Testing code isn’t done. Demoing something in a meeting isn’t done. Done means that the increment is live in production, gathering telemetry, and delivering real evidence against real goals.

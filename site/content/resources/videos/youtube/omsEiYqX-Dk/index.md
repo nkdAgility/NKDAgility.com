@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Organisational Agility: How to Empower Your Team for Rapid Market Response'
+short_title: How can teams be empowered for rapid market response?
 description: Learn how empowering teams, streamlining communication, and providing context enable organisations to respond rapidly to market changes and gain a competitive edge.
 date: 2023-09-01T07:00:18Z
 weight: 665
+ResourceId: omsEiYqX-Dk
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-organisational-agility-how-to-empower-your-team-for-rapid-market-response
 aliases:
 - /resources/omsEiYqX-Dk
@@ -32,9 +36,6 @@ tags:
 - Pragmatic Thinking
 - Sociotechnical Systems
 - Value Delivery
-ResourceId: omsEiYqX-Dk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: omsEiYqX-Dk
@@ -51,6 +52,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:44Z
+  short_title: 2025-06-23T12:41:21Z
 
 ---
 [Organisational agility]({{< ref "/tags/organisational-agility" >}}) is not just a buzzword; it’s a competitive advantage that can make or break a business in today’s fast-paced market. I’ve seen firsthand how many agile transformations stumble because organisations mistakenly place agile itself at the centre of their focus, rather than using it as a tool to achieve a vital outcome: the ability to respond swiftly to market changes.

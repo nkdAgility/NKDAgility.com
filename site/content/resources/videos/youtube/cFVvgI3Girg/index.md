@@ -1,8 +1,12 @@
 ---
 title: 'From Product Owner to Systemic Leader: Embracing the Evolution in Agile Leadership'
+short_title: How Do Product Owners Become Agile Systemic Leaders?
 description: Explores how experienced Product Owners transition into systemic leaders, focusing on increased accountability, organisational impact, and fostering Agile team culture.
 date: 2023-07-28T07:00:14Z
 weight: 640
+ResourceId: cFVvgI3Girg
+ResourceImport: true
+ResourceType: videos
 slug: from-product-owner-to-systemic-leader-embracing-the-evolution-in-agile-leadership
 aliases:
 - /resources/cFVvgI3Girg
@@ -21,9 +25,6 @@ tags:
 - Agile Product Management
 - Agile Leadership
 - Organisational Agility
-ResourceId: cFVvgI3Girg
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: cFVvgI3Girg
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:31Z
+  short_title: 2025-06-23T12:42:00Z
 
 ---
 As I reflect on my journey in the world of Agile, I often find myself considering the natural evolution of roles within our organisations. One role that stands out in this evolution is that of the [Product Owner]({{< ref "/tags/product-owner" >}}), particularly as they transition into more significant [leadership]({{< ref "/categories/leadership" >}}) positions. This shift is not just a change in title; it represents a deeper understanding of [product management]({{< ref "/categories/product-management" >}}) and a broader organisational perspective.

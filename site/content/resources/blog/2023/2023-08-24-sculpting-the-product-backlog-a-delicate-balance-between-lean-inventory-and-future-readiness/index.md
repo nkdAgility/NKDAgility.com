@@ -1,8 +1,14 @@
 ---
 title: 'Sculpting the Product Backlog: A Delicate Balance Between Lean Inventory and Future Readiness'
+short_title: How Can You Keep a Lean Yet Future-Ready Product Backlog?
 description: Explores how to maintain a lean, transparent product backlog that balances current needs with future readiness, enabling teams to adapt and maximise product value.
 date: 2023-08-24
 weight: 1000
+ResourceId: wXQXA_aHLS1
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 aliases:
 - /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
@@ -30,11 +36,6 @@ tags:
 - Pragmatic Thinking
 - Product Owner
 - Product Delivery
-ResourceId: wXQXA_aHLS1
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 49523
 AudioNative: true
@@ -44,6 +45,7 @@ resourceTypes: blog
 preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:54Z
+  short_title: 2025-06-23T12:41:34Z
 
 ---
 In the realm of [product development]({{< ref "/categories/product-development" >}}), crafting an efficient [Product Backlog]({{< ref "/tags/product-backlog" >}}) is an endeavour akin to sculpting a masterpiece. Just as sculptors chisel away the excess marble to reveal the form within, product managers must carefully mould their backlog, ensuring it's a [lean]({{< ref "/categories/lean" >}}) inventory that reflects the unrealized value of the product. The Product Backlog must encapsulate our current aspirations for the product while being transparent and understandable to all stakeholders. It’s a living artefact that dynamically evolves with the product. However, we must also resist the temptation to create an overwhelming catalogue that loses its sharpness and becomes a weight dangling around the team's neck.

@@ -1,8 +1,12 @@
 ---
 title: 7 harbingers of the Agile apocalypse- War
+short_title: How Can Agile Teams Manage and Resolve Conflict?
 description: Explores how unmanaged conflict in agile teams can escalate from healthy debate to destructive division, and offers strategies for resolving disputes and fostering collaboration.
 date: 2023-10-19T13:00:46Z
 weight: 610
+ResourceId: wHGw1vmudNA
+ResourceImport: true
+ResourceType: videos
 slug: 7-harbingers-of-the-agile-apocalypse-war
 aliases:
 - /resources/wHGw1vmudNA
@@ -25,9 +29,6 @@ tags:
 - Agile Leadership
 - Organisational Agility
 - Social Technologies
-ResourceId: wHGw1vmudNA
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: wHGw1vmudNA
@@ -44,6 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:37Z
+  short_title: 2025-06-23T12:40:20Z
 
 ---
 # Navigating the Treacherous Waters of Conflict: The Second Harbinger of the Agile Apocalypse

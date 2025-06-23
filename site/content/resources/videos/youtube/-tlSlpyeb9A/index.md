@@ -1,15 +1,16 @@
 ---
 title: 'How to Evolve Your Definition of Done: Start Small, Grow Smarter, and Build Lasting Momentum'
+short_title: How Can Teams Evolve Their Definition of Done?
 description: Unlock a smarter Definition of Done—start small, evolve standards, and build team momentum without overwhelm. Discover how progress drives excellence.
 date: 2025-06-25T06:45:00Z
 weight: 150
+ResourceId: -tlSlpyeb9A
+ResourceImport: true
+ResourceType: videos
 slug: how-to-evolve-your-definition-of-done-start-small-grow-smarter-and-build-lasting-momentum
 aliases:
 - /resources/-tlSlpyeb9A
 - /resources/videos/8-evolving-the-definition-of-done-over-time--tlSlpyeb9A
-ResourceId: -tlSlpyeb9A
-ResourceImport: true
-ResourceType: videos
 videoId: -tlSlpyeb9A
 ResourceImportSource: Youtube
 source: youtube
@@ -48,9 +49,10 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T19:27:32Z
-ResourceContentOrigin: ai
+  short_title: 2025-06-23T12:32:59Z
 
 ---
 Start small, grow smarter. That’s a phrase I find myself repeating often, especially when I’m working with teams who are wrestling with the elusive “perfect” Definition of Done. There’s a common misconception that you need to have it all figured out from day one—that your Definition of Done must be comprehensive, bulletproof, and all-encompassing before you can even begin. But in reality, nothing could be further from the truth.

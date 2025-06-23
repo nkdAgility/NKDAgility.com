@@ -1,8 +1,12 @@
 ---
 title: Why Immersive Learning Keeps Scrum Students Excited and Engaged
+short_title: How Does Immersive Learning Boost Scrum Engagement?
 description: Explores how immersive, hands-on learning keeps Scrum students engaged and excited, supporting continuous improvement, real-world application, and ongoing team growth.
 date: 2024-02-01T07:00:09Z
 weight: 1000
+ResourceId: OyeZgnqESKE
+ResourceImport: true
+ResourceType: videos
 slug: why-immersive-learning-keeps-scrum-students-excited-and-engaged
 aliases:
 - /resources/OyeZgnqESKE
@@ -20,9 +24,6 @@ categories:
 - Product Development
 tags:
 - Team Motivation
-ResourceId: OyeZgnqESKE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: OyeZgnqESKE
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:03Z
+  short_title: 2025-06-23T12:38:08Z
 
 ---
 One of the main reasons I absolutely love the immersive learning experience for [Scrum]({{< ref "/categories/scrum" >}}) students is its ability to maintain a high level of **excitement** and **engagement**. It’s not just about passing knowledge from one person to another; it's about creating an atmosphere of **discovery**. Each session brings something fresh, something new, and that keeps people coming back for more. This blog post will delve into how immersive learning creates excitement, the importance of [continuous learning]({{< ref "/tags/continuous-learning" >}}), and how these principles can be applied in your own organization.

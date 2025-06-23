@@ -1,8 +1,12 @@
 ---
 title: Why Your Definition of Done Is the Secret Weapon Your Team Needs to Win
+short_title: Why Is a Strong Definition of Done Critical for Teams?
 description: Unlock your team's true potential—discover why a powerful definition of done drives real business impact, customer value, and lasting competitive advantage.
 date: 2025-07-16T06:45:00Z
 weight: 150
+ResourceId: LHqjlId0SiU
+ResourceImport: true
+ResourceType: videos
 slug: why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
 aliases:
 - /resources/LHqjlId0SiU
@@ -32,9 +36,6 @@ tags:
 - Social Technologies
 - Agile Product Management
 - Agile Transformation
-ResourceId: LHqjlId0SiU
-ResourceImport: true
-ResourceType: videos
 videoId: LHqjlId0SiU
 ResourceImportSource: Youtube
 source: youtube
@@ -48,9 +49,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T18:57:16Z
-ResourceContentOrigin: ai
+  short_title: 2025-06-23T12:32:52Z
 
 ---
 Most teams don’t fail because they can’t build. They fail because they don’t finish the right way. This is something I’ve seen time and again, whether I’m working with a start-up finding its feet or a global enterprise wrestling with legacy systems. The technical ability to build is rarely the problem. The real challenge is in finishing—properly, consistently, and in a way that actually moves the needle for the business.

@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Success: How Small Experiments Transformed Feature Delivery from 25 to 150 in Software Development'
+short_title: How Do Small Experiments Boost Software Feature Delivery?
 description: Explores how breaking features into small experiments boosts software delivery, enabling teams to deliver more features, reduce risk, and improve customer-focused products.
 date: 2024-11-20T08:02:36Z
 weight: 790
+ResourceId: WEYf9jWG9wk
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-success-how-small-experiments-transformed-feature-delivery-from-25-to-150-in-software-development
 aliases:
 - /resources/WEYf9jWG9wk
@@ -30,9 +34,6 @@ tags:
 - Agile Philosophy
 - Agile Values and Principles
 - Metrics and Learning
-ResourceId: WEYf9jWG9wk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: WEYf9jWG9wk
@@ -49,6 +50,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:14Z
+  short_title: 2025-06-23T12:35:26Z
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've witnessed a remarkable transformation in how teams approach feature delivery. A recent case study I came across highlighted a team that evolved from delivering a mere 25 features to production each year to an astonishing 150 features, all while maintaining the same headcount. This leap didn’t happen overnight; it took them four years to refine their processes and embrace a new mindset. But the results speak for themselves—who wouldn’t prefer 800 features over 25?

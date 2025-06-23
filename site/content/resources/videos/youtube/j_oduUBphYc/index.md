@@ -1,8 +1,12 @@
 ---
 title: 'Modernising Legacy Systems: How to Tackle Security Risks Without Breaking Your Business'
+short_title: How Can You Modernise Legacy Systems Without Security Risks?
 description: Struggling with legacy systems? Discover how to modernise securely, reduce risk, and build resilience—without trading old problems for new ones.
 date: 2025-05-12T06:00:00Z
 weight: 480
+ResourceId: j_oduUBphYc
+ResourceImport: true
+ResourceType: videos
 slug: modernising-legacy-systems-how-to-tackle-security-risks-without-breaking-your-business
 aliases:
 - /resources/j_oduUBphYc
@@ -16,9 +20,6 @@ categories:
 - Uncategorized
 tags:
 - Software Development
-ResourceId: j_oduUBphYc
-ResourceImport: true
-ResourceType: videos
 videoId: j_oduUBphYc
 ResourceImportSource: Youtube
 source: youtube
@@ -32,9 +33,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T20:59:00Z
-ResourceContentOrigin: ai
+  short_title: 2025-06-23T12:33:35Z
 
 ---
 Legacy systems are a security nightmare. Let’s not sugar-coat it. I’ve seen it time and again: outdated protocols, compliance failures lurking in the shadows, and systems so fragile that nobody dares to touch them for fear of what might break next. If you’re reading this, you probably know exactly what I mean.

@@ -1,8 +1,12 @@
 ---
 title: Definition of Done - Objective vs Subjective
+short_title: What’s the Difference Between Definition of Done and Goals?
 description: Explains the difference between subjective goals and the objective Definition of Done in Scrum, highlighting how clear, measurable criteria ensure consistent product quality.
 date: 2025-01-03
 weight: 180
+ResourceId: -Z5GGUOjc-d
+ResourceImport: false
+ResourceType: blog
 slug: definition-of-done-objective-vs-subjective
 aliases:
 - /resources/-Z5GGUOjc-d
@@ -37,22 +41,20 @@ tags:
 - Technical Excellence
 - Team Performance
 - Working Software
-ResourceId: -Z5GGUOjc-d
-ResourceImport: false
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
 layout: blog
 resourceTypes: blog
 preview: 2025-01-03-definition-of-done-objective-vs-subjective.jpg
-Watermarks:
-  description: 2025-05-07T12:50:03Z
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/definition-done-objective-vs-subjective
   post_date: 2025-05-27T09:00:00Z
   post_type: crosspost
+Watermarks:
+  description: 2025-05-07T12:50:03Z
+  short_title: 2025-06-23T12:34:52Z
 
 ---
 In countless teams, there’s a recurring mix-up between “what” we’re building, “how” it aligns with business objectives, and the objective quality criteria by which it should be measured. The result? Chaos masquerading as agility. To clear the air: in [Scrum]({{< ref "/categories/scrum" >}}), the “what” and “how” are driven by Product and Sprint Goals. These provide directional clarity but remain inherently subjective—a north star guiding your path, not a litmus test of quality.

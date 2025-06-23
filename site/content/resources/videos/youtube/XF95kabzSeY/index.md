@@ -1,8 +1,12 @@
 ---
 title: "Filling the Understanding Gap: A Product Owner's Guide to Vision, Engagement, and Value"
+short_title: How Can Product Owners Bridge the Understanding Gap?
 description: Guidance for Product Owners on clarifying product vision, engaging teams, and ensuring value delivery to bridge understanding gaps in product development and leadership.
 date: 2023-12-14T11:00:22Z
 weight: 1000
+ResourceId: XF95kabzSeY
+ResourceImport: true
+ResourceType: videos
 slug: filling-the-understanding-gap-a-product-owner's-guide-to-vision-engagement-and-value
 aliases:
 - /resources/XF95kabzSeY
@@ -23,9 +27,6 @@ categories:
 - Product Management
 tags:
 - Product Owner
-ResourceId: XF95kabzSeY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: XF95kabzSeY
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:55Z
+  short_title: 2025-06-23T12:38:53Z
 
 ---
 As I step into the role of a new [Product Owner]({{< ref "/tags/product-owner" >}}), I often reflect on the pivotal moments that define our journey in [product development]({{< ref "/categories/product-development" >}}). One of the most crucial aspects I’ve learned is the importance of filling the vacuum of understanding within our teams and across the organisation. This is not just a task; it’s a responsibility that can make or break the success of our product.

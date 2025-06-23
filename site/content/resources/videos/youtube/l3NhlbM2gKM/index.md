@@ -1,8 +1,12 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 2.
+short_title: Are Story Points Misunderstood in Scrum?
 description: Explains why story points are often misunderstood in Scrum, clarifies their intended use, and offers practical advice for more effective Agile estimation and team collaboration.
 date: 2023-10-24T11:00:39Z
 weight: 1000
+ResourceId: l3NhlbM2gKM
+ResourceImport: true
+ResourceType: videos
 slug: scrum-is-like-communism-it-doesn't-work-myth-2
 aliases:
 - /resources/l3NhlbM2gKM
@@ -22,9 +26,6 @@ concepts: []
 categories:
 - Product Development
 tags: []
-ResourceId: l3NhlbM2gKM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: l3NhlbM2gKM
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:26Z
+  short_title: 2025-06-23T12:40:12Z
 
 ---
 # Unraveling the Story Point Myth in [Scrum]({{< ref "/categories/scrum" >}}): A Path to Clarity 🚀

@@ -1,8 +1,12 @@
 ---
 title: Emergant Practices
+short_title: How Do Effective Practices Emerge in Evolving Teams?
 description: Explores how effective processes, practices, and tools naturally develop through hands-on work and collaboration in evolving environments.
 date: 2024-09-17
 weight: 1000
+ResourceId: _MbvqRG_XNM
+ResourceImport: false
+ResourceType: principles
 slug: emergant-practices
 aliases:
 - /learn/agile-delivery-kit/first-principals/emergant-practices/
@@ -13,9 +17,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: _MbvqRG_XNM
-ResourceImport: false
-ResourceType: principles
 ResourceContentOrigin: Human
 resourceTypes: principles
 layout: principles
@@ -28,6 +29,7 @@ card:
   title: Emergant Practices
 Watermarks:
   description: 2025-05-07T12:58:23Z
+  short_title: 2025-06-23T12:35:50Z
 
 ---
 Processes, practices and tools necessary will emerge as we do the work and help others do it

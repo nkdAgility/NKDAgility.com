@@ -1,8 +1,12 @@
 ---
 title: Agile Kata and a whole lot more with facilitation, backlog management, and evidence based management!
+short_title: What Is Agile Kata, Facilitation, Backlog, and EBM?
 description: Explore upcoming Agile and Scrum training covering Agile Kata, facilitation, backlog management, and evidence-based management to boost team performance and leadership skills.
 date: 2024-02-13
 weight: 665
+ResourceId: hz-iCoxHxxa
+ResourceImport: true
+ResourceType: newsletters
 slug: agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management
 aliases:
 - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
@@ -16,9 +20,6 @@ categories:
 - Uncategorized
 tags:
 - Software Development
-ResourceId: hz-iCoxHxxa
-ResourceImport: true
-ResourceType: newsletters
 ResourceContentOrigin: Human
 preview: naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg
 author: MrHinsh
@@ -26,6 +27,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T13:05:48Z
+  short_title: 2025-06-23T12:37:57Z
 
 ---
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from [Scrum]({{< ref "/categories/scrum" >}}).org as well as the new Agile Kata class and we have them all.

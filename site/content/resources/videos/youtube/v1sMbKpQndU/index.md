@@ -1,8 +1,12 @@
 ---
 title: What are the top 3 things a Scrum Master needs to bear in mind when adopting the coaching stance?
+short_title: What should Scrum Masters focus on when coaching teams?
 description: 'Summarises the top considerations for Scrum Masters adopting a coaching stance: building trust, understanding team context, and leading through influence, not authority.'
 date: 2023-09-18T07:00:32Z
 weight: 565
+ResourceId: v1sMbKpQndU
+ResourceImport: true
+ResourceType: videos
 slug: what-are-the-top-3-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance
 aliases:
 - /resources/v1sMbKpQndU
@@ -34,9 +38,6 @@ tags:
 - Organisational Agility
 - Social Technologies
 - Team Motivation
-ResourceId: v1sMbKpQndU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: v1sMbKpQndU
@@ -53,6 +54,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:29Z
+  short_title: 2025-06-23T12:41:09Z
 
 ---
 ## The Agile Landscape: A Guide to Effective [Coaching]({{< ref "/tags/coaching" >}}) and [Leadership]({{< ref "/categories/leadership" >}}) 

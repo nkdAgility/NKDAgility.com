@@ -1,8 +1,12 @@
 ---
 title: 'The Power of Metrics: Why PAL-EBM is Essential for Your Organization'
+short_title: Why Are Evidence-Based Metrics Essential for Leaders?
 description: Learn how evidence-based metrics drive organisational success, avoid negative behaviours, and enable transparent, data-driven decisions for leaders and teams at all levels.
 date: 2024-01-27T07:00:19Z
 weight: 430
+ResourceId: m2Z4UV4OQlI
+ResourceImport: true
+ResourceType: videos
 slug: the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 aliases:
 - /resources/m2Z4UV4OQlI
@@ -31,9 +35,6 @@ tags:
 - Operational Practices
 - Agile Leadership
 - Organisational Agility
-ResourceId: m2Z4UV4OQlI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: m2Z4UV4OQlI
@@ -50,6 +51,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:09Z
+  short_title: 2025-06-23T12:38:13Z
 
 ---
 In today's fast-paced world, organizations often struggle to find the right metrics that drive success. Whether you're a manager, [product owner]({{< ref "/tags/product-owner" >}}), [Scrum]({{< ref "/categories/scrum" >}}) Master, or CEO, the **Professional Agile [Leadership]({{< ref "/categories/leadership" >}}) - Evidence-Based Management (PAL-EBM)** class provides valuable insights into how to navigate this critical aspect of your leadership journey.

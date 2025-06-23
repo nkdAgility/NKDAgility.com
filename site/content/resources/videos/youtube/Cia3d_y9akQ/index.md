@@ -1,8 +1,12 @@
 ---
 title: 'Unpacking the Scrum Master Role: Moving Beyond Misconceptions to True Accountability'
+short_title: What Are the True Accountabilities of a Scrum Master?
 description: Explores common misconceptions about Scrum Masters, clarifies their true accountabilities, and highlights the importance of principles, competence, and organisational impact.
 date: 2024-10-25T07:02:17Z
 weight: 640
+ResourceId: Cia3d_y9akQ
+ResourceImport: true
+ResourceType: videos
 slug: unpacking-the-scrum-master-role-moving-beyond-misconceptions-to-true-accountability
 aliases:
 - /resources/Cia3d_y9akQ
@@ -28,9 +32,6 @@ tags:
 - Competence
 - Pragmatic Thinking
 - Team Performance
-ResourceId: Cia3d_y9akQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Cia3d_y9akQ
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:26Z
+  short_title: 2025-06-23T12:35:35Z
 
 ---
 When it comes to the role of a [Scrum]({{< ref "/categories/scrum" >}}) Master, there are a plethora of misconceptions that can cloud our understanding of what this position truly entails. Having navigated the complexities of Scrum and Agile for many years, I’ve seen firsthand how these misunderstandings can lead to dysfunction within teams and organisations. Today, I want to share my insights on the true accountabilities of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) and how we can move beyond the common pitfalls.

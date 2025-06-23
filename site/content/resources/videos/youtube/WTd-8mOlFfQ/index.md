@@ -1,8 +1,12 @@
 ---
 title: 'Part 2: Common Mistakes that Scrum Masters Make'
+short_title: Are Scrum Masters Doing Too Many Admin Tasks?
 description: Explains why Scrum Masters should avoid taking on administrative tasks, highlighting the importance of focusing on team effectiveness rather than acting as a team secretary.
 date: 2023-07-07T14:00:33Z
 weight: 790
+ResourceId: WTd-8mOlFfQ
+ResourceImport: true
+ResourceType: videos
 slug: part-2-common-mistakes-that-scrum-masters-make
 aliases:
 - /resources/WTd-8mOlFfQ
@@ -24,9 +28,6 @@ categories:
 - Scrum
 tags:
 - Scrum Master
-ResourceId: WTd-8mOlFfQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: WTd-8mOlFfQ
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:57Z
+  short_title: 2025-06-23T12:42:17Z
 
 ---
 ## Escaping the Administrative Vortex: Insights for [Scrum]({{< ref "/categories/scrum" >}}) Masters - Part 2

@@ -1,8 +1,12 @@
 ---
 title: 'DevOps: The Practical Path to Modernising Legacy Systems Without Starting Over'
+short_title: How Can DevOps Modernise Legacy Systems Without Rewriting?
 description: Unlock legacy system agility—discover how DevOps transforms slow, brittle tech into fast, scalable, and change-ready platforms without starting from scratch.
 date: 2025-06-02T06:00:00Z
 weight: 190
+ResourceId: Tr1b0hru0zE
+ResourceImport: true
+ResourceType: videos
 slug: devops-the-practical-path-to-modernising-legacy-systems-without-starting-over
 aliases:
 - /resources/Tr1b0hru0zE
@@ -24,9 +28,6 @@ tags:
 - Product Delivery
 - Digital Transformation
 - Market Adaptability
-ResourceId: Tr1b0hru0zE
-ResourceImport: true
-ResourceType: videos
 videoId: Tr1b0hru0zE
 ResourceImportSource: Youtube
 source: youtube
@@ -40,9 +41,10 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T20:13:52Z
-ResourceContentOrigin: ai
+  short_title: 2025-06-23T12:33:15Z
 
 ---
 When I walk into organisations wrestling with legacy systems, I see the same story play out time and again. There’s a desire to move faster, to be more responsive, to scale with confidence—but the weight of decades-old decisions drags everything down. These decisions, made with the best intentions and the knowledge available at the time, have become anchors. The risk of change feels insurmountable, and so inertia sets in.

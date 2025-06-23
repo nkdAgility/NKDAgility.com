@@ -1,15 +1,16 @@
 ---
 title: 'Stop Hoping for Quality: Why Automated Pipelines Are the Only Way to Deliver with Confidence'
+short_title: Why Are Automated Pipelines Essential for Quality Delivery?
 description: Stop relying on memory for quality. Discover why automated pipelines beat manual checks, and how embedding quality gates ensures trust, speed, and consistency.
 date: 2025-05-28T07:00:00Z
 weight: 195
+ResourceId: FLMIoTT0Mu0
+ResourceImport: true
+ResourceType: videos
 slug: stop-hoping-for-quality-why-automated-pipelines-are-the-only-way-to-deliver-with-confidence
 aliases:
 - /resources/FLMIoTT0Mu0
 - /resources/videos/4-automate-the-quality-gate-FLMIoTT0Mu0
-ResourceId: FLMIoTT0Mu0
-ResourceImport: true
-ResourceType: videos
 videoId: FLMIoTT0Mu0
 ResourceImportSource: Youtube
 source: youtube
@@ -43,9 +44,10 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
+ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T20:21:40Z
-ResourceContentOrigin: ai
+  short_title: 2025-06-23T12:33:18Z
 
 ---
 If it’s not in the pipeline, it’s not in your process. I’ve seen this time and again—organisations with the best intentions, armed with standards, checklists, and policies, but still falling short when it comes to real, consistent quality. Why? Because if you rely on people to remember, to manually tick the boxes, you’re building your process on hope rather than certainty.

@@ -1,8 +1,12 @@
 ---
 title: Why Azure DevOps is the Ultimate Game Changer for Scrum Masters and Agile Teams
+short_title: How Does Azure DevOps Benefit Scrum Masters and Agile Teams?
 description: Explains how Azure DevOps streamlines agile workflows for Scrum Masters and teams, offering simplicity, integrated tools, real-time insights, and improved collaboration.
 date: 2023-09-28T07:00:22Z
 weight: 1000
+ResourceId: Zegnsk2Nl0Y
+ResourceImport: true
+ResourceType: videos
 slug: why-azure-devops-is-the-ultimate-game-changer-for-scrum-masters-and-agile-teams
 aliases:
 - /resources/Zegnsk2Nl0Y
@@ -22,9 +26,6 @@ tags:
 - Software Development
 - Scrum Master
 - Collaboration Tools
-ResourceId: Zegnsk2Nl0Y
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Zegnsk2Nl0Y
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:15Z
+  short_title: 2025-06-23T12:40:56Z
 
 ---
 As a [Scrum]({{< ref "/categories/scrum" >}}) Master, I’ve often found myself reflecting on the tools that truly enhance our agile practices. One tool that consistently stands out in my experience is Azure [DevOps]({{< ref "/categories/devops" >}}). It’s not just a tool; it’s a game changer for Scrum Masters and teams alike. Let me share why I believe [Azure DevOps]({{< ref "/tags/azure-devops" >}}) is a favourite among Scrum Masters and how it can elevate your agile journey.

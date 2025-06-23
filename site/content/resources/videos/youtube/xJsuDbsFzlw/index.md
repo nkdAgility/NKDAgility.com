@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking the Power of Sprint Planning: Transform Your Agile Approach for Success'
+short_title: How Can Effective Sprint Planning Improve Agile Teams?
 description: Learn how effective Sprint planning boosts Agile team performance, with practical workshops, coaching, feedback, and adaptable methods for continuous improvement.
 date: 2023-06-29T07:00:19Z
 weight: 610
+ResourceId: xJsuDbsFzlw
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-the-power-of-sprint-planning-transform-your-agile-approach-for-success
 aliases:
 - /resources/xJsuDbsFzlw
@@ -26,9 +30,6 @@ tags:
 - Agile Planning Tools
 - Software Development
 - Agile Planning
-ResourceId: xJsuDbsFzlw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: xJsuDbsFzlw
@@ -45,6 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:06Z
+  short_title: 2025-06-23T12:42:25Z
 
 ---
 When it comes to Sprint planning, I often find that organisations struggle to grasp its true potential. Having facilitated numerous workshops, I’ve seen firsthand how a well-structured Sprint planning session can transform a team's approach to Agile. Today, I want to share my insights on how we can make Sprint planning not just a routine, but a powerful tool for success.

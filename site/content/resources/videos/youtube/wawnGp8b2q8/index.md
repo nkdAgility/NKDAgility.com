@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Growth: The Transformative Power of Poly Immersive Learning Experiences'
+short_title: How Do Poly Immersive Learning Experiences Drive Growth?
 description: Explores how poly immersive learning enhances professional growth through real-world feedback, reflection, collaboration, and practical application for lasting impact.
 date: 2023-07-13T12:20:07Z
 weight: 1000
+ResourceId: wawnGp8b2q8
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-growth-the-transformative-power-of-poly-immersive-learning-experiences
 aliases:
 - /resources/wawnGp8b2q8
@@ -19,9 +23,6 @@ categories:
 - Uncategorized
 tags:
 - Continuous Learning
-ResourceId: wawnGp8b2q8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: wawnGp8b2q8
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:38Z
+  short_title: 2025-06-23T12:42:06Z
 
 ---
 In my journey through the world of learning and development, I've come to appreciate the profound impact that poly immersive learning experiences can have. Today, I want to share three key benefits that stand out to me, particularly in our complex and ever-evolving environment.

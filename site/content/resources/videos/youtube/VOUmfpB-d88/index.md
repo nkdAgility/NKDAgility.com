@@ -1,8 +1,12 @@
 ---
 title: 'Transforming Training: The Power of Immersive Learning in Scrum'
+short_title: How Does Immersive Learning Improve Scrum Training?
 description: Explores how immersive, hands-on learning in Scrum boosts knowledge retention, practical skills, and continuous improvement compared to traditional training methods.
 date: 2024-05-08T06:45:02Z
 weight: 590
+ResourceId: VOUmfpB-d88
+ResourceImport: true
+ResourceType: videos
 slug: transforming-training-the-power-of-immersive-learning-in-scrum
 aliases:
 - /resources/VOUmfpB-d88
@@ -29,9 +33,6 @@ tags:
 - Continuous Improvement
 - Team Collaboration
 - Competence
-ResourceId: VOUmfpB-d88
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: VOUmfpB-d88
@@ -48,6 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:55Z
+  short_title: 2025-06-23T12:37:22Z
 
 ---
 ## **The Shift from Traditional to Immersive Learning**

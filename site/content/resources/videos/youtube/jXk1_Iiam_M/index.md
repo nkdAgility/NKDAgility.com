@@ -1,8 +1,12 @@
 ---
 title: 'The Power of Immersive Learning: Elevating Scrum Mastery in Your Organization'
+short_title: How Does Immersive Learning Improve Scrum Mastery?
 description: Explains how immersive learning helps Scrum Masters apply knowledge through real-world practice, feedback, and collaboration, leading to lasting skills and team improvement.
 date: 2023-11-22T07:00:18Z
 weight: 750
+ResourceId: jXk1_Iiam_M
+ResourceImport: true
+ResourceType: videos
 slug: the-power-of-immersive-learning-elevating-scrum-mastery-in-your-organization
 aliases:
 - /resources/jXk1_Iiam_M
@@ -27,9 +31,6 @@ tags:
 - Scrum Master
 - Team Performance
 - Team Collaboration
-ResourceId: jXk1_Iiam_M
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: jXk1_Iiam_M
@@ -46,6 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:39Z
+  short_title: 2025-06-23T12:39:33Z
 
 ---
 If you're an organization that invests heavily in training—especially if you're supporting a large number of people trying to step into the [Scrum]({{< ref "/categories/scrum" >}}) Master role—then immersive learning should be at the top of your list. It’s an investment that can dramatically increase your team's effectiveness. Unlike traditional training, where learning can quickly fade, immersive learning helps people **internalize** the knowledge and put it into practice immediately.

@@ -1,8 +1,12 @@
 ---
 title: The Importance of Batch to Optimise Flow
+short_title: How Does Batch Size Impact Workflow and Delivery Speed?
 description: Explains how breaking large tasks into smaller batches improves workflow, predictability, and delivery speed, using hands-on exercises based on queuing theory principles.
 date: 2024-09-17
 weight: 580
+ResourceId: kwS9oPiz-Ny
+ResourceImport: false
+ResourceType: workshops
 slug: the-importance-of-batch-to-optimise-flow
 aliases:
 - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
@@ -22,9 +26,6 @@ tags:
 - Operational Practices
 - Lean Principles
 - Lean Thinking
-ResourceId: kwS9oPiz-Ny
-ResourceImport: false
-ResourceType: workshops
 ResourceContentOrigin: Human
 resourceTypes: workshop
 layout: workshop
@@ -36,6 +37,7 @@ card:
   title: The Importance of Batch to Optimise Flow
 Watermarks:
   description: 2025-05-07T12:58:27Z
+  short_title: 2025-06-23T12:36:07Z
 
 ---
 ## Duration

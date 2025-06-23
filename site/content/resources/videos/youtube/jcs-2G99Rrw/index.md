@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Azure DevOps: Avoiding Common Pitfalls for Agile Success'
+short_title: How Can You Avoid Common Azure DevOps Mistakes?
 description: Learn how to avoid common mistakes in Azure DevOps, improve agile workflows, maintain traceability, and simplify processes for better team productivity and project success.
 date: 2024-04-09T08:00:20Z
 weight: 690
+ResourceId: jcs-2G99Rrw
+ResourceImport: true
+ResourceType: videos
 slug: mastering-azure-devops-avoiding-common-pitfalls-for-agile-success
 aliases:
 - /resources/jcs-2G99Rrw
@@ -23,9 +27,6 @@ tags:
 - Pragmatic Thinking
 - Product Delivery
 - Operational Practices
-ResourceId: jcs-2G99Rrw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: jcs-2G99Rrw
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:18Z
+  short_title: 2025-06-23T12:37:29Z
 
 ---
 I work with many enterprise organisations that utilise Azure [DevOps]({{< ref "/categories/devops" >}}), and I often encounter practices that either diminish the effectiveness of its features or, in some cases, break them entirely. Recently, I had the opportunity to speak with Dan Helm, the principal product manager for [Azure DevOps]({{< ref "/tags/azure-devops" >}}), about the top issues that users face. Today, I want to share those insights with you, drawing from my extensive experience as a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer and Microsoft MVP in [GitHub]({{< ref "/tags/github" >}}) and Azure DevOps.

@@ -1,8 +1,12 @@
 ---
 title: The Power of Immersive Learning in Scrum Training
+short_title: How Does Immersive Learning Improve Scrum Training?
 description: Explores how immersive learning in Scrum training reduces cognitive load, boosts engagement, and improves retention through shorter, interactive, hands-on sessions.
 date: 2024-02-02T07:00:16Z
 weight: 1000
+ResourceId: bXb00GxJiCY
+ResourceImport: true
+ResourceType: videos
 slug: the-power-of-immersive-learning-in-scrum-training
 aliases:
 - /resources/bXb00GxJiCY
@@ -19,9 +23,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: bXb00GxJiCY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: bXb00GxJiCY
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:02Z
+  short_title: 2025-06-23T12:38:07Z
 
 ---
 One of the greatest benefits of immersive learning, particularly in [Scrum]({{< ref "/categories/scrum" >}}) training, is the reduced cognitive load and the increase in overall engagement. Traditional learning methods, like long video conferencing sessions, often lead to fatigue and burnout, which impacts how much participants can absorb. By contrast, immersive learning methods allow for shorter, focused sessions, creating a more exciting and engaging experience.

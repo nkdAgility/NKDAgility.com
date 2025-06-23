@@ -1,8 +1,12 @@
 ---
 title: 'The Importance of Validation in Product Development: A Strategic Approach'
+short_title: How Can Product Feature Validation Maximise Value?
 description: Explains why validating product features is essential, highlighting hypothesis-driven development, data collection, and evidence-based decisions to maximise long-term product value.
 date: 2024-09-02T15:30:15Z
 weight: 640
+ResourceId: roWCOkmtfDs
+ResourceImport: true
+ResourceType: videos
 slug: the-importance-of-validation-in-product-development-a-strategic-approach
 aliases:
 - /resources/roWCOkmtfDs
@@ -34,9 +38,6 @@ tags:
 - Product Delivery
 - Pragmatic Thinking
 - Product Strategy
-ResourceId: roWCOkmtfDs
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: roWCOkmtfDs
@@ -53,6 +54,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:58:40Z
+  short_title: 2025-06-23T12:36:22Z
 
 ---
 When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue—sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.

@@ -1,8 +1,12 @@
 ---
 title: 'Navigating the Balance: How Lean Governance Can Boost Agility and Innovation in Your Organisation'
+short_title: How Can Lean Governance Improve Agility and Innovation?
 description: Explores how lean governance reduces unnecessary processes, enabling organisations to stay agile, meet compliance, and foster innovation without excess bureaucracy.
 date: 2025-02-09T22:00:37Z
 weight: 840
+ResourceId: yvIanYh3bcQ
+ResourceImport: true
+ResourceType: videos
 slug: navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
 aliases:
 - /resources/yvIanYh3bcQ
@@ -28,9 +32,6 @@ tags:
 - Operational Practices
 - Organisational Agility
 - Pragmatic Thinking
-ResourceId: yvIanYh3bcQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: yvIanYh3bcQ
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:49:42Z
+  short_title: 2025-06-23T12:34:27Z
 
 ---
 Governance is a critical aspect of any organisation, ensuring that we operate safely and effectively. However, I’ve observed that excessive governance can often hinder our ability to seize opportunities and respond to unexpected challenges. When surprises arise—be it a market shift, a product issue, or an internal complication—the time and cost to rectify these problems can escalate dramatically. 

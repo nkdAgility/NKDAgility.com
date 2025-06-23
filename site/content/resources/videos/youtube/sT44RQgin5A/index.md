@@ -1,8 +1,12 @@
 ---
 title: 'Evidence-Based Management: The Four Key Value Areas in Scrum'
+short_title: What Are Scrum’s Four Key Value Areas?
 description: Explains Scrum’s four key value areas—current value, unrealised value, ability to innovate, and time to market—for data-driven product and organisational improvement.
 date: 2024-09-13T07:00:34Z
 weight: 315
+ResourceId: sT44RQgin5A
+ResourceImport: true
+ResourceType: videos
 slug: evidence-based-management-the-four-key-value-areas-in-scrum
 aliases:
 - /resources/sT44RQgin5A
@@ -36,9 +40,6 @@ tags:
 - Current Value
 - Time to Market
 - Unrealised Value
-ResourceId: sT44RQgin5A
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: sT44RQgin5A
@@ -55,6 +56,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:58:29Z
+  short_title: 2025-06-23T12:36:13Z
 
 ---
 When we talk about _evidence-based management_ in [Scrum]({{< ref "/categories/scrum" >}}), we're focusing on making decisions grounded in data rather than gut feeling. A core element of this approach involves evaluating our work through four **key value areas**. These areas ensure a holistic view, covering different aspects of the system instead of focusing narrowly on specific metrics. This allows for a more strategic understanding and avoids suboptimal optimizations.

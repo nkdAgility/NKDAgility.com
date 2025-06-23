@@ -1,8 +1,12 @@
 ---
 title: How will the immersive learning experience help coach people on the job?
+short_title: How Does Immersive Learning Improve On-the-Job Coaching?
 description: Immersive learning enables on-the-job coaching by combining real-world assignments, collaborative feedback, and practical application for deeper, sustained Agile skill development.
 date: 2023-08-08T07:00:22Z
 weight: 790
+ResourceId: pU57BrP94-8
+ResourceImport: true
+ResourceType: videos
 slug: how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 aliases:
 - /resources/pU57BrP94-8
@@ -18,9 +22,6 @@ categories:
 tags:
 - Continuous Learning
 - Pragmatic Thinking
-ResourceId: pU57BrP94-8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: pU57BrP94-8
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:22Z
+  short_title: 2025-06-23T12:41:51Z
 
 ---
 ## Immersive Learning: Revolutionising On-the-Job Agile Learning

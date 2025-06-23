@@ -1,8 +1,12 @@
 ---
 title: Unlocking the Power of Immersive Learning in Agile
+short_title: How Does Immersive Learning Accelerate Agile Transformation?
 description: Explores how immersive, hands-on learning helps teams internalise Agile principles, shift mindsets, and drive lasting Agile transformation through real-world experience.
 date: 2024-02-03T07:00:12Z
 weight: 690
+ResourceId: OlzXHZihQzI
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-the-power-of-immersive-learning-in-agile
 aliases:
 - /resources/OlzXHZihQzI
@@ -26,9 +30,6 @@ tags:
 - Agile Philosophy
 - Pragmatic Thinking
 - Agile Values and Principles
-ResourceId: OlzXHZihQzI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: OlzXHZihQzI
@@ -45,6 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:01Z
+  short_title: 2025-06-23T12:38:06Z
 
 ---
 In today’s fast-paced, ever-evolving workplace, Agile practices are becoming a cornerstone for teams looking to deliver value, adapt, and innovate quickly. But how do we ensure that teams and individuals truly _internalize_ Agile principles? How do we create an environment where Agile becomes second nature, rather than just a series of rituals to follow? This is where **immersive learning** shines.

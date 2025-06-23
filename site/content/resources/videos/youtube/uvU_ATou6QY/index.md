@@ -1,8 +1,12 @@
 ---
 title: "Signs You're Failing as a Product Owner: How to Take Control and Deliver Real Value"
+short_title: Are You Failing as a Product Owner? Key Signs and Fixes
 description: Learn key signs of failing as a product owner, including poor product quality, lack of vision, and inconsistent delivery, plus practical steps to regain control and deliver value.
 date: 2023-09-22T07:00:32Z
 weight: 1000
+ResourceId: uvU_ATou6QY
+ResourceImport: true
+ResourceType: videos
 slug: signs-you're-failing-as-a-product-owner-how-to-take-control-and-deliver-real-value
 aliases:
 - /resources/uvU_ATou6QY
@@ -23,9 +27,6 @@ categories:
 tags:
 - Product Owner
 - Agile Product Management
-ResourceId: uvU_ATou6QY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: uvU_ATou6QY
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:21Z
+  short_title: 2025-06-23T12:41:02Z
 
 ---
 As a [product owner]({{< ref "/tags/product-owner" >}}), I often reflect on what failure truly looks like in our role. It’s a topic that resonates deeply with me, and I believe it’s essential for anyone in this position to understand the signs of a failing product owner. 

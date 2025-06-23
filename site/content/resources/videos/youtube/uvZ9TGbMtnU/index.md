@@ -1,8 +1,12 @@
 ---
 title: 'Ditching the Myth of Special Sprints: Embrace True Agile Practices for Usable Products'
+short_title: Are Special Sprints Undermining True Agile Delivery?
 description: Explains why relying on special Sprints undermines Agile, and advocates for continuous improvement, accountability, and delivering usable products each Sprint.
 date: 2024-01-04T12:14:45Z
 weight: 1000
+ResourceId: uvZ9TGbMtnU
+ResourceImport: true
+ResourceType: videos
 slug: ditching-the-myth-of-special-sprints-embrace-true-agile-practices-for-usable-products
 aliases:
 - /resources/uvZ9TGbMtnU
@@ -28,9 +32,6 @@ tags:
 - Pragmatic Thinking
 - Agile Planning
 - Agile Values and Principles
-ResourceId: uvZ9TGbMtnU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: uvZ9TGbMtnU
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:38Z
+  short_title: 2025-06-23T12:38:37Z
 
 ---
 In my journey through the world of Agile, I've often encountered a myriad of misconceptions that can hinder our progress. One of the most persistent myths is the idea of special Sprints—those elusive Sprint Zeros, hardening Sprints, and bug fix Sprints. Today, I want to share my thoughts on why these concepts can be detrimental to our Agile practices and how we can focus on delivering usable, working products instead.

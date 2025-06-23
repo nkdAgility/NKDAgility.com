@@ -1,8 +1,12 @@
 ---
 title: When is an APS course appropriate for a scrum team?
+short_title: When should a Scrum team take an APS course?
 description: Explains when an Applied Professional Scrum (APS) course benefits Scrum teams, helping them identify and remove ineffective practices to improve Agile performance.
 date: 2023-10-12T08:32:45Z
 weight: 750
+ResourceId: HrJMsZZQl_g
+ResourceImport: true
+ResourceType: videos
 slug: when-is-an-aps-course-appropriate-for-a-scrum-team
 aliases:
 - /resources/HrJMsZZQl_g
@@ -21,9 +25,6 @@ tags:
 - Agile Frameworks
 - Software Development
 - Pragmatic Thinking
-ResourceId: HrJMsZZQl_g
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: HrJMsZZQl_g
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:50Z
+  short_title: 2025-06-23T12:40:33Z
 
 ---
 ## Empowering Teams with the APS Approach: Elevating Your [Scrum]({{< ref "/categories/scrum" >}}) Journey

@@ -1,8 +1,12 @@
 ---
 title: 7 Harbingers of the Agile apocalypse - Organizational Structure
+short_title: How Can Organizations Overcome Rigid Hierarchies for Agility?
 description: Explores how rigid, hierarchical structures hinder organisational agility and offers practical strategies for shifting to decentralised, empowered, agile teams.
 date: 2023-10-19T11:00:06Z
 weight: 1000
+ResourceId: 56hWAHhbrvs
+ResourceImport: true
+ResourceType: videos
 slug: 7-harbingers-of-the-agile-apocalypse-organizational-structure
 aliases:
 - /resources/56hWAHhbrvs
@@ -29,9 +33,6 @@ tags:
 - Pragmatic Thinking
 - Social Technologies
 - Sociotechnical Systems
-ResourceId: 56hWAHhbrvs
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 56hWAHhbrvs
@@ -48,6 +49,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:08:38Z
+  short_title: 2025-06-23T12:40:22Z
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

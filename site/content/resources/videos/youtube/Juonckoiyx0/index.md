@@ -1,8 +1,12 @@
 ---
 title: What should be top of mind when a Scrum team prepare for a Sprint review?
+short_title: How can Scrum teams engage stakeholders in Sprint reviews?
 description: Learn how Scrum teams can boost Sprint review success by engaging stakeholders, tailoring communication, and focusing on value, transparency, and active participation.
 date: 2023-09-04T07:00:13Z
 weight: 690
+ResourceId: Juonckoiyx0
+ResourceImport: true
+ResourceType: videos
 slug: what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 aliases:
 - /resources/Juonckoiyx0
@@ -26,9 +30,6 @@ tags:
 - Agile Planning
 - Agile Frameworks
 - Product Delivery
-ResourceId: Juonckoiyx0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Juonckoiyx0
@@ -45,6 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:43Z
+  short_title: 2025-06-23T12:41:20Z
 
 ---
 ## Unleashing the Power of Stakeholder Engagement in Sprint Reviews 💡**🔍** 

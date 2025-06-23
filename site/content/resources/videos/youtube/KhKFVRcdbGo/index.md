@@ -1,8 +1,12 @@
 ---
 title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
+short_title: How Can System Optimisation Drive Engineering Excellence?
 description: Explores how understanding and optimising organisational systems can drive engineering excellence, improve value delivery, and foster a culture of technical leadership.
 date: 2024-12-21T06:00:00Z
 weight: 305
+ResourceId: KhKFVRcdbGo
+ResourceImport: true
+ResourceType: videos
 slug: transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
 aliases:
 - /resources/KhKFVRcdbGo
@@ -17,9 +21,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: KhKFVRcdbGo
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: KhKFVRcdbGo
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:56:35Z
+  short_title: 2025-06-23T12:34:54Z
 
 ---
 Creating a culture of [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.

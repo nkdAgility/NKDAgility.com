@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Unrealised Value: The Key to Elevating Your Product Development Strategy'
+short_title: How Can Identifying Unrealised Value Improve Products?
 description: Explains how identifying and validating unrealised value, understanding user needs, and rapid feedback loops can enhance product development and maximise user impact.
 date: 2025-02-11T06:00:40Z
 weight: 750
+ResourceId: ynIqkNbDN8I
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-unrealised-value-the-key-to-elevating-your-product-development-strategy
 aliases:
 - /resources/ynIqkNbDN8I
@@ -33,9 +37,6 @@ tags:
 - Hypothesis Driven Development
 - Market Adaptability
 - Metrics and Learning
-ResourceId: ynIqkNbDN8I
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: ynIqkNbDN8I
@@ -52,6 +53,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:49:39Z
+  short_title: 2025-06-23T12:34:24Z
 
 ---
 In the realm of evidence-based management, we often discuss various areas of focus, but one key value area that frequently slips under the radar is [unrealised value]({{< ref "/tags/unrealised-value" >}}). This aspect is just as crucial as the others, yet it tends to be overlooked by many organisations and teams. Today, I want to delve into what unrealised value means and why it’s essential for your [product development]({{< ref "/categories/product-development" >}}) strategy.

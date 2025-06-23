@@ -1,8 +1,12 @@
 ---
 title: 'Temperance in Agile: Why Less is More'
+short_title: How Does Practising Moderation Improve Agile Teams?
 description: Explores how practising moderation in Agile—by keeping backlogs lean, limiting work in progress, and focusing on value—boosts team efficiency and reduces waste.
 date: 2023-12-05T07:00:10Z
 weight: 1000
+ResourceId: SMgKAk-qPMM
+ResourceImport: true
+ResourceType: videos
 slug: temperance-in-agile-why-less-is-more
 aliases:
 - /resources/SMgKAk-qPMM
@@ -29,9 +33,6 @@ tags:
 - Value Delivery
 - Product Delivery
 - Agile Values and Principles
-ResourceId: SMgKAk-qPMM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: SMgKAk-qPMM
@@ -48,6 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:16Z
+  short_title: 2025-06-23T12:39:13Z
 
 ---
 In the fast-paced world of Agile, it's easy to fall into the trap of doing too much. Whether it's overloading your backlog, over-refining, or over-planning, too much of anything can be a bad thing. One of the key virtues that we embrace in Agile is **temperance**—the art of taking everything in moderation.

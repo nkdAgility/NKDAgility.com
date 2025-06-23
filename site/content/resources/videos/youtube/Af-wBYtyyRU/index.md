@@ -1,8 +1,12 @@
 ---
 title: 'Mastering Evidence-Based Management (EBM) for Product Owners: Maximizing Value Delivery'
+short_title: How Can Product Owners Use EBM to Maximise Value Delivery?
 description: Learn how product owners use Evidence-Based Management (EBM) to make data-driven decisions, track key value metrics, and maximise product value and team engagement.
 date: 2024-01-29T07:00:07Z
 weight: 1000
+ResourceId: Af-wBYtyyRU
+ResourceImport: true
+ResourceType: videos
 slug: mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 aliases:
 - /resources/Af-wBYtyyRU
@@ -36,9 +40,6 @@ tags:
 - Software Development
 - Operational Practices
 - Product Delivery
-ResourceId: Af-wBYtyyRU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Af-wBYtyyRU
@@ -55,6 +56,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:07Z
+  short_title: 2025-06-23T12:38:12Z
 
 ---
 As a [product owner]({{< ref "/tags/product-owner" >}}), you’re essentially the mini-CEO of your product. You make critical decisions about which features to build and when, driving the success of your product. But how do you know which bets will pay off? How do you make informed decisions that steer your product toward success? This is where Evidence-Based Management (EBM) comes into play. It's a framework that helps product owners use real data to guide their decision-making and ensure they’re delivering maximum value.

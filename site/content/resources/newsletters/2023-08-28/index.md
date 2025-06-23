@@ -1,8 +1,12 @@
 ---
 title: 'September 2023 NKDAgility: Empower Your Learning Journey with Our Referral Programme'
+short_title: How Does the NKDAgility Referral Programme Work?
 description: Earn credits towards future training by referring others to NKDAgility courses. Referrals get a 20% discount; you receive up to 100% credit for your next class.
 date: 2023-08-28
 weight: 1000
+ResourceId: TJDLWyX3cZt
+ResourceImport: true
+ResourceType: newsletters
 slug: september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme
 aliases:
 - /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/
@@ -15,9 +19,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: TJDLWyX3cZt
-ResourceImport: true
-ResourceType: newsletters
 ResourceContentOrigin: Human
 preview: naked-agility-technically-agile-1280×720-September-2023.jpg
 author: MrHinsh
@@ -25,6 +26,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T13:09:50Z
+  short_title: 2025-06-23T12:41:29Z
 
 ---
 Greetings,

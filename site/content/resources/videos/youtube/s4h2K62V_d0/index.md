@@ -1,27 +1,30 @@
 ---
 title: Shifting Left. Quality from the Start
+short_title: How Can Shifting Left Improve Code Quality Early?
 description: Explores code review practices for quality assurance, highlighting automation, pull requests, and early defect detection to ensure high-quality, reliable software delivery.
 date: 2024-11-20T07:00:26Z
 weight: 380
-slug: shifting-left-quality-from-the-start
-aliases:
-  - /resources/s4h2K62V_d0
-  - /resources/videos/shifting-left-quality-from-the-start
-aliasesArchive:
-  - /resources/videos/shifting-left-quality-from-the-start
-  - /resources/shifting-left-quality-from-the-start
-concepts: []
-categories:
-  - Engineering Excellence
-tags:
-  - Software Development
-  - Technical Excellence
-  - Working Software
-  - Engineering Practices
-  - Product Delivery
 ResourceId: s4h2K62V_d0
 ResourceImport: true
 ResourceType: videos
+slug: shifting-left-quality-from-the-start
+aliases:
+- /resources/s4h2K62V_d0
+- /resources/videos/shifting-left-quality-from-the-start
+- /resources/videos/shifting-left.-quality-from-the-start
+aliasesArchive:
+- /resources/videos/shifting-left-quality-from-the-start
+- /resources/shifting-left-quality-from-the-start
+- /resources/videos/shifting-left.-quality-from-the-start
+concepts: []
+categories:
+- Engineering Excellence
+tags:
+- Software Development
+- Technical Excellence
+- Working Software
+- Engineering Practices
+- Product Delivery
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: s4h2K62V_d0
@@ -35,11 +38,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
-  - video
+- video
 Watermarks:
   description: 2025-05-07T12:57:15Z
----
+  short_title: 2025-06-23T12:35:27Z
 
+---
 # Code reviews for quality assurance | Martin Hinshelwood
 
 📍 📍 Are multiple schools of thought. One school of thought is that code reviews help us improve our code quality, help reduce defects because we get multiple eyes looking at the product. But I think that's only part of the story. As we shift left, another school of thought starts to come to the forefront, which is our code should be pre reviewed.
