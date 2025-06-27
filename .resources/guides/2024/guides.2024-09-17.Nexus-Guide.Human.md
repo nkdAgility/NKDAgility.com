@@ -1,8 +1,12 @@
 ---
 title: Nexus Guide
+short_title: What Is the Nexus Framework for Scaling Scrum?
 description: Explains the Nexus framework for scaling Scrum with multiple teams, detailing roles, events, and artefacts to coordinate product delivery and manage cross-team dependencies.
 date: 2024-09-17
 weight: 750
+ResourceId: iC8MlA3TE7S
+ResourceImport: false
+ResourceType: guides
 slug: nexus-guide
 aliases:
 - guides/Nexus-Framework/
@@ -34,9 +38,6 @@ tags:
 - Working Software
 - Scrum Team
 - Agile Transformation
-ResourceId: iC8MlA3TE7S
-ResourceImport: false
-ResourceType: guides
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
@@ -61,6 +62,7 @@ card:
   title: Nexus Guide
 Watermarks:
   description: 2025-05-07T12:58:25Z
+  short_title: 2025-06-23T12:35:55Z
 
 ---
 The Definitive Guide to [Scaling]({{< ref "/tags/scaling" >}}) [Scrum]({{< ref "/categories/scrum" >}}) with Nexus

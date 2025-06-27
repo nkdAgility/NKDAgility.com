@@ -1,8 +1,12 @@
 ---
 title: Detecting Agile BS
+short_title: How Can You Spot Fake Agile in Software Projects?
 description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
 date: 2024-09-17
 weight: 360
+ResourceId: Tt8SPr3xJER
+ResourceImport: false
+ResourceType: guides
 slug: detecting-agile-bs
 aliases:
 - /Guides/Detecting-Agile-BS.html
@@ -21,9 +25,6 @@ tags:
 - Software Development
 - Operational Practices
 - Product Delivery
-ResourceId: Tt8SPr3xJER
-ResourceImport: false
-ResourceType: guides
 ResourceContentOrigin: Human
 resourceTypes: guide
 layout: guide
@@ -52,6 +53,7 @@ card:
   title: Detecting Agile BS
 Watermarks:
   description: 2025-05-07T12:58:02Z
+  short_title: 2025-06-23T12:35:58Z
 
 ---
 Agile is a buzzword of [software development]({{< ref "/tags/software-development" >}}), and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-[scrum]({{< ref "/categories/scrum" >}})-fall”).
