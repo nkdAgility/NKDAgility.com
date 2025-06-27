@@ -10,7 +10,6 @@ date: 2017-01-01
 weight: 750
 creator: Martin Hinshelwood
 type: course
-kind: page
 slug: applying-professional-scrum-aps-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 cascade:
