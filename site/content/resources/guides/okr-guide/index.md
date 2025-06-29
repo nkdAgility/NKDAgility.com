@@ -1,5 +1,5 @@
 ---
-title: OKR Guide - A Social and Quantitative Technology for Outcome-Oriented Alignment
+title: OKR Guide - A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning
 short_title: OKR Guide
 description: A practical guide to OKRs, covering principles, roles, events, and best practices for outcome-focused alignment, measurable goals, and effective organisational execution.
 date: 2025-06-26
