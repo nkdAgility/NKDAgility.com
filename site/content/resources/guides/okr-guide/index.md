@@ -102,12 +102,6 @@ The OKR Coach supports the adoption and evolution of OKRs across the organisatio
 - Provoking thoughtful challenge to rigid patterns that inhibit learning or ownership
 - Cultivating feedback loops that promote organisational learning
 - Making invisible blockers and organisational constraints visible
-- Mentoring OKR Leads and Champions in sense-making and adaptive OKR use
-- Supporting teams in writing, reviewing, and evolving effective OKRs
-- Facilitating systemic reflection across cycles and domains
-- Challenging rigid or compliance-driven OKR behaviours
-- Cultivating feedback loops that promote organisational learning
-- Making invisible blockers and organisational constraints visible
 
 ### OKR Lead
 
@@ -121,12 +115,6 @@ The OKR Lead drives implementation of OKRs as a shared tool for strategic clarit
 - Ensuring visibility into whether OKRs align with strategy and expose system-level gaps
 - Identifying systemic misalignments and constraints using OKRs as signals
 - Turning OKR results into strategy-shaping insight through deliberate feedback mechanisms
-- Supporting cross-team and executive alignment of strategic themes
-- Coordinating the OKR planning and review cadence
-- Enabling OKR Champions through training, guidance, tools, and coaching
-- Monitoring organisational OKR coherence and health
-- Identifying systemic misalignments and constraints using OKRs as signals
-- Facilitating learning loops that connect outcomes to strategy
 
 ### OKR Champion
 
@@ -139,11 +127,6 @@ The OKR Champion owns the OKR process at the team or department level. They faci
 - Helping the team continuously use OKRs to guide decisions and focus
 - Escalating unresolved impediments or misalignments
 - Supporting the team in interpreting OKRs as shared direction, not assigned targets
-- Facilitating the team’s OKR cadence, including workshops and reviews
-- Supporting teams in writing and refining OKRs
-- Keeping OKRs visible and relevant throughout the cycle
-- Escalating unresolved impediments or misalignments
-- Reinforcing alignment and ownership across the team
 
 ### Team Leader
 
@@ -156,11 +139,6 @@ Team Leaders provide the strategic direction for their teams. They ensure that t
 - Coaching team members in goal definition and alignment
 - Removing blockers that inhibit OKR delivery
 - Demonstrating use of OKRs as a personal and team accountability tool
-- Ensuring team-level OKRs align with organisational intent
-- Integrating OKRs into regular planning, delivery, and learning rhythms
-- Coaching team members in goal definition and alignment
-- Removing blockers that inhibit OKR delivery
-- Modelling transparency and discipline by maintaining their own OKRs
 
 ### Team Member
 
@@ -172,11 +150,6 @@ Team Members contribute actively to defining and delivering OKRs. They participa
 - Proactively communicating OKR progress to support shared visibility and adaptation
 - Taking initiative to surface issues that affect team outcomes
 - Using reviews to understand impact and improve personal and team contribution
-- Taking ownership of individual and shared OKR outcomes
-- Contributing to the creation of meaningful and measurable OKRs
-- Providing regular and honest updates on key result progress
-- Identifying and raising blockers or risks to delivery
-- Participating in reviews and retrospectives with insight and feedback
 - Taking ownership of individual and shared OKR outcomes
 
 ## Events in the OKR Cycle
