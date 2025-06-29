@@ -1,6 +1,7 @@
 ---
 title: OKR Guide - A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning
 short_title: OKR Guide
+slug: okr-guide
 description: A practical guide to OKRs, covering principles, roles, events, and best practices for outcome-focused alignment, measurable goals, and effective organisational execution.
 date: 2025-06-26
 author: Martin Hinshelwood
