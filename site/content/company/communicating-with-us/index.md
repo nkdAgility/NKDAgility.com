@@ -56,6 +56,8 @@ To establish a trusted relationship between your organisation and nkdagility.com
   - Select nkdagility.com from your list of external organisations.
   - Under **Inbound access**, select **B2B collaboration** and choose **Customize settings**.
   - In the **External users and groups** section, select **Allow access** and specify the users or groups from nkdagility.com permitted to access your resources.
+    - **For most organisations**: It's perfectly safe to select "All naked Agility with Martin Hinshelwood users and groups" as the B2B collaboration does not give users in the configured tenant any permissions to access data, only to message those in your organisation via Teams.
+    - **For companies with stringent security requirements**: You can specify individual users by their object ID. Martin Hinshelwood's object ID is: `ea9573be-3654-4a29-8abd-43d300baa351`
   - In the **Applications** section, select **Allow access** and specify the applications (e.g., Microsoft Teams) that these external users can access.
   - Click **Save** to apply the inbound settings.
 
