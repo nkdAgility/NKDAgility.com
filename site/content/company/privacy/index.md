@@ -78,6 +78,14 @@ Your personal information is used solely for providing consulting services, mana
 
 All our infrastructure uses encryption at rest, leveraging the latest hardware equipped with Trusted Platform Module (TPM) technology. All systems are regularly updated with the latest operating system and application patches to minimize security risks and ensure data protection.
 
+#### Security Tooling and Hygiene
+
+We maintain a comprehensive security posture through:
+
+- **Automated Patching:** We rely on operating system and third-party application auto-patching mechanisms to ensure timely security updates
+- **Endpoint Protection:** Microsoft Defender provides real-time threat protection, malware detection, and behavioral analysis across all systems
+- **Security Hygiene:** Ongoing security practices include regular system health monitoring, access review, and adherence to secure configuration baselines
+
 ---
 
 ## Azure DevOps Migration Tools Privacy
