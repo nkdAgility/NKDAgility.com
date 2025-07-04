@@ -223,6 +223,10 @@ We use AI tools responsibly to accelerate insight, explore ideas, and support co
 
 We are committed to ethically sound and practically grounded use of AI in every engagement.
 
+## Security Incident Response Commitment
+
+All incidents affecting client systems or data will be disclosed within 24 hours of discovery, with follow-up reporting as investigation continues.
+
 ## Health, Safety & Duty of Care
 
 We’re committed to safe and respectful collaboration, onsite and online.

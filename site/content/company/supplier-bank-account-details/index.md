@@ -96,3 +96,13 @@ This section contains essential information regarding company registration, tax 
 - **Contact Email:** clientservices [at] [nkdagility].com
 - **Contact Phone Number:** +44 141 343 9621
 - **Address:** naked Agility Limited, 47 Ballantrae Crescent, Newton Mearns, Glasgow, G77 5TX
+
+### Information Security & Privacy
+
+We follow a fit-for-purpose information security model tailored to the nature and scale of consulting engagements.
+
+- **Information Security Responsibility:** Martin Hinshelwood, Managing Director is directly and solely responsible for all aspects of information security
+- **Privacy Officer:** Martin Hinshelwood, Managing Director
+- **Confidentiality:** All engagements are covered by mutual confidentiality terms; subcontractors, if used, are bound by equivalent agreements
+- **Hardware Security:** All consulting access is limited to a single hardened, encrypted device under sole control of the consultant. No unmanaged hardware is used
+- **Access Control:** Least privilege is enforced through role boundaries, access scope, and system isolation — not through redundant user account separation, which offers no additional benefit in a professionally-managed setup
