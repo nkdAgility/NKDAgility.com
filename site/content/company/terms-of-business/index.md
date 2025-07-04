@@ -223,6 +223,10 @@ We use AI tools responsibly to accelerate insight, explore ideas, and support co
 
 We are committed to ethically sound and practically grounded use of AI in every engagement.
 
+## Security Incident Response Commitment
+
+All incidents affecting client systems or data will be disclosed within 24 hours of discovery, with follow-up reporting as investigation continues.
+
 ## Health, Safety & Duty of Care
 
 We’re committed to safe and respectful collaboration, onsite and online.
@@ -249,5 +253,6 @@ If an issue arises, we commit to open, respectful dialogue to resolve it quickly
 
 - All services are governed by the terms on this page.
 - These terms are subject to change. The latest version is always available at [nkdagility.com/terms](https://nkdagility.com/terms).
+- AI tools may assist legal and policy comparisons under strict privacy controls. No content is used for training or retained by the provider.
 
 If you have any questions, contact **[clientservices@nkdagility.com](mailto:clientservices@nkdagility.com)**.

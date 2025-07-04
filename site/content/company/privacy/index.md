@@ -24,6 +24,8 @@ headline:
 
 naked Agility Ltd is committed to protecting your privacy and ensuring transparency in how we handle personal information. This Privacy Statement outlines the services and tools we use, the regions where data is processed or stored, and how your personal information is managed.
 
+We follow a fit-for-purpose information security model tailored to the nature and scale of consulting engagements. Our privacy and security practices align with the intent of ISO/IEC 27001 and NIST CSF standards appropriate to our consulting model.
+
 Please refer to our [Terms of Business ]({{< ref "/company/terms-of-business" >}}) and [working with us]({{< ref "/company/working-with-us" >}}) for additional information on our practices.
 
 ---
@@ -75,6 +77,31 @@ Your personal information is used solely for providing consulting services, mana
 ### Infrastructure and Data Security
 
 All our infrastructure uses encryption at rest, leveraging the latest hardware equipped with Trusted Platform Module (TPM) technology. All systems are regularly updated with the latest operating system and application patches to minimize security risks and ensure data protection.
+
+#### Security Tooling and Hygiene
+
+We maintain a comprehensive security posture through:
+
+- **Automated Patching:** We rely on operating system and third-party application auto-patching mechanisms to ensure timely security updates
+- **Endpoint Protection:** Microsoft Defender provides real-time threat protection, malware detection, and behavioral analysis across all systems
+- **Security Hygiene:** Ongoing security practices include regular system health monitoring, access review, and adherence to secure configuration baselines
+
+### Use of AI for Legal Document Review
+
+To support efficient and accurate legal and policy comparison, naked Agility Ltd may use OpenAI's Enterprise platform to review and analyse customer-submitted legal documents (e.g. Data Processing Agreements, Information Security questionnaires, Master Service Agreements).
+
+This includes:
+- Comparing customer terms to our published Terms of Business, Privacy Policy, and engagement model
+- Identifying potential conflicts, gaps, or redlines for discussion
+- Drafting suggested responses or clarifications to customer-supplied clauses
+
+We use **OpenAI Enterprise**, hosted in the **European Union**, with the following guarantees:
+- **No data is used for training** any AI models  
+- **No inputs or outputs are retained** by OpenAI  
+- Data is encrypted in transit and processed securely within the enterprise platform  
+- We do **not share these inputs with any unauthorised parties**
+
+We do not process sensitive personal data (e.g. health, financial, or identity documents) through AI, and redact or anonymise any sensitive content before use.
 
 ---
 
