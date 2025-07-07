@@ -1,6 +1,6 @@
 ---
 title: 'The Crucial Role of Competence: How Knowledgeable Scrum Masters Drive Team Success'
-short_title: How Does Scrum Master Competence Impact Team Success?
+short_title: Competence in Scrum Masters Drives Team Success
 description: Scrum Masters with deep knowledge and competence enable teams to deliver better products, drive business outcomes, and foster real improvement in software development.
 date: 2024-10-21T05:32:11Z
 weight: 250
@@ -46,7 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:28Z
-  short_title: 2025-06-23T12:35:37Z
+  short_title: 2025-07-07T17:47:46Z
 
 ---
 When I reflect on my experiences as a [Scrum]({{< ref "/categories/scrum" >}}) Master, one thing becomes abundantly clear: the effectiveness of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) hinges on their understanding of the philosophies, theories, and practices relevant to the team they support. Without this foundational knowledge, the impact on both the team and the organisation can be profound. 

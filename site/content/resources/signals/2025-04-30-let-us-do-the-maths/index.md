@@ -1,6 +1,6 @@
 ---
 title: let-us do the maths
-short_title: How Does Slow Delivery Impact Product Success?
+short_title: The Cost of Slow Product Release Cycles
 description: Explains how slow product release cycles delay feature delivery, risk losing relevance, and create competitive disadvantages, highlighting the benefits of faster iterations.
 date: 2025-04-30T15:30:52+01:00
 weight: 265
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:07Z
-  short_title: 2025-06-23T12:13:47Z
+  short_title: 2025-07-07T16:44:35Z
 concepts:
 - Practice
 categories:

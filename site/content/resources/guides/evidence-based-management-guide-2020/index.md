@@ -40,7 +40,7 @@ card:
   title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
 Watermarks:
   description: 2025-05-07T12:58:05Z
-  short_title: 2025-06-23T12:35:55Z
+  short_title: 2025-07-07T16:40:39Z
 concepts:
 - Model
 categories:

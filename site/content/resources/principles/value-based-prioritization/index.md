@@ -1,6 +1,6 @@
 ---
 title: Value-based Prioritization
-short_title: How to Prioritize Backlogs by Stakeholder Value?
+short_title: Value-based Prioritization
 description: Explains how to prioritise product backlogs by stakeholder value, guiding Scrum teams to focus on high-impact tasks and balance value creation with revenue goals.
 date: 2024-09-17
 weight: 1000
@@ -33,7 +33,7 @@ card:
   title: Value-based Prioritization
 Watermarks:
   description: 2025-05-07T12:57:53Z
-  short_title: 2025-06-23T12:36:08Z
+  short_title: 2025-07-07T17:48:08Z
 
 ---
 Value-based Prioritization: Focus on delivering value to the stakeholders. The [product backlog]({{< ref "/tags/product-backlog" >}}) is prioritized based on the value it delivers, and the [Scrum]({{< ref "/categories/scrum" >}}) team works on the highest-priority items first.

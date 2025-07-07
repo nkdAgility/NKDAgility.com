@@ -1,6 +1,6 @@
 ---
 title: During a massive flood in London, nearly every datacentre went down."
-short_title: How Can Live Failure Testing Build True Resilience?
+short_title: 'London Flood: Datacentre Resilience Lessons'
 description: A London flood shut down most datacentres, but Rackspace stayed online by regularly live-testing failures, proving true resilience comes from practising real-world recovery.
 date: 2025-05-16T15:30:31+01:00
 weight: 335
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-23T23:53:48Z
-  short_title: 2025-06-23T12:13:31Z
+  short_title: 2025-07-07T16:44:09Z
 concepts:
 - Practice
 categories:

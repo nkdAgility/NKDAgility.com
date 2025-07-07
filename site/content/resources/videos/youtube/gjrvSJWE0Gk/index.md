@@ -1,6 +1,6 @@
 ---
 title: Overview of 'applying metrics for predictability' Kanban course.
-short_title: How Can Kanban Metrics Improve Team Predictability?
+short_title: Applying Metrics for Predictability in Kanban
 description: Learn how to use Kanban metrics like cycle time and throughput to improve team predictability, make accurate forecasts, and deliver consistent project outcomes.
 date: 2024-02-20T07:00:27Z
 weight: 1000
@@ -44,7 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:41Z
-  short_title: 2025-06-23T12:37:50Z
+  short_title: 2025-07-07T17:49:41Z
 
 ---
 ### Enhancing Team Predictability with [Kanban]({{< ref "/categories/kanban" >}}): The "Applying Metrics for Predictability" Course

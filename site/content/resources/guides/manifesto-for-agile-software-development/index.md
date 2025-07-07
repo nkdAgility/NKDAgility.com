@@ -1,6 +1,6 @@
 ---
 title: Manifesto for Agile Software Development
-short_title: What Are the Core Values of the Agile Manifesto?
+short_title: Manifesto for Agile Software Development
 description: Outlines core Agile values and principles for software development, emphasising collaboration, adaptability, working software, customer focus, and continuous improvement.
 date: 2024-09-17
 weight: 505
@@ -45,7 +45,7 @@ card:
   title: Manifesto for Agile Software Development
 Watermarks:
   description: 2025-05-07T12:58:11Z
-  short_title: 2025-06-23T12:36:03Z
+  short_title: 2025-07-07T16:40:34Z
 
 ---
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

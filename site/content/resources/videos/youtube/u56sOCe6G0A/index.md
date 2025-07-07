@@ -1,6 +1,6 @@
 ---
 title: 3 core practices of Kanban. Actively managing work items in a workflow.
-short_title: How Do You Actively Manage Work in Kanban?
+short_title: Actively Managing Work in Kanban Workflows
 description: Explains how to actively manage Kanban workflows by monitoring work in progress, resolving bottlenecks, and optimising flow for greater efficiency and value delivery.
 date: 2024-02-26T14:06:47Z
 weight: 1000
@@ -52,7 +52,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:35Z
-  short_title: 2025-06-23T12:37:45Z
+  short_title: 2025-07-07T17:49:37Z
 
 ---
 ### Actively Managing Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy

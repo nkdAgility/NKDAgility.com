@@ -1,6 +1,6 @@
 ---
 title: Definition of Done
-short_title: What Is the Definition of Done in Agile?
+short_title: Definition of Done in Agile Projects
 description: Explains the Definition of Done, its purpose, key steps, and how to assess when work is complete in agile projects, including practical exercises and takeaways.
 date: 2024-09-17
 weight: 1000
@@ -34,7 +34,7 @@ card:
   title: 
 Watermarks:
   description: 2025-05-07T12:58:00Z
-  short_title: 2025-06-23T12:36:01Z
+  short_title: 2025-07-07T17:48:12Z
 
 ---
 # What is the [Definition of Done]({{< ref "/tags/definition-of-done" >}}) (DoD)

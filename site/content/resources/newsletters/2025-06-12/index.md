@@ -1,6 +1,6 @@
 ---
 title: Why Resilience Demands More Than Survival
-short_title: What Makes True Organisational Resilience?
+short_title: Why Resilience Demands More Than Survival
 description: True organisational resilience means improving technical health—like testing, automation, and architecture—beyond just surviving incidents or following Agile rituals.
 date: 2025-06-12
 weight: 215
@@ -16,7 +16,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T12:49:02Z
-  short_title: 2025-06-23T12:33:05Z
+  short_title: 2025-07-07T16:43:31Z
 concepts: []
 categories:
 - Engineering Excellence

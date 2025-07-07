@@ -1,6 +1,6 @@
 ---
 title: David thought he already knew Scrum
-short_title: Do Experienced Scrum Practitioners Misunderstand Scrum?
+short_title: Relearning Scrum Fundamentals
 description: Discover why experienced Scrum practitioners often misunderstand core principles, and how revisiting Scrum fundamentals restores clarity, agility, and effective practice.
 date: 2025-05-26T15:30:28+01:00
 weight: 500
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:47Z
-  short_title: 2025-06-23T12:13:23Z
+  short_title: 2025-07-07T16:43:57Z
 concepts:
 - Principle
 categories:

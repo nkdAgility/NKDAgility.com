@@ -1,6 +1,6 @@
 ---
 title: 'Building a High-Performance Delivery Engine: Unlocking Success Through Competence and Collaboration'
-short_title: How Can Teams Build a High-Performance Delivery Engine?
+short_title: High-Performance Delivery Through Competence
 description: Explores how competence, collaboration, and agile philosophies drive high-performance software delivery, focusing on business value, continuous improvement, and team empowerment.
 date: 2024-12-03T06:30:00Z
 weight: 305
@@ -42,7 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:56:55Z
-  short_title: 2025-06-23T12:35:10Z
+  short_title: 2025-07-07T17:47:19Z
 
 ---
 Building a high-performance delivery engine within an organisation is no small feat. From my experience, it requires a deep understanding of various contexts and a level of [competence]({{< ref "/tags/competence" >}}) that is often underestimated. Many organisations focus primarily on technical skills, but to truly excel in software delivery, we need to broaden our perspective.

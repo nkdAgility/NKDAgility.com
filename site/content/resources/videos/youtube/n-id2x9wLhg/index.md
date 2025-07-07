@@ -1,6 +1,6 @@
 ---
 title: Why a Shared Definition of Done Is the Secret to Consistent, Predictable Quality in Agile Teams
-short_title: Why Is a Shared Definition of Done Crucial in Agile?
+short_title: Shared Definition of Done in Agile Teams
 description: Struggling with inconsistent delivery? Discover why a shared definition of done is key to predictable, high-quality results your teams—and stakeholders—can trust.
 date: 2025-05-14T07:00:00Z
 weight: 145
@@ -48,7 +48,7 @@ sitemap:
 ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T20:51:36Z
-  short_title: 2025-06-23T12:33:32Z
+  short_title: 2025-07-07T16:44:14Z
 
 ---
 Without shared standards, quality is a coin toss. I’ve seen it time and again: when every team defines “done” in their own way, you don’t get value—you get uncertainty and risk. Different interpretations of what “done” means don’t just create confusion; they breed chaos, introduce production risks, and leave you with invisible liabilities lurking in your product. In short, you can’t trust the increment.

@@ -1,6 +1,6 @@
 ---
 title: How Lack of Agency is Killing Your DevOps Initiatives
-short_title: Do Developers Have Enough Agency in Your DevOps Process?
+short_title: Lack of Developer Agency in DevOps
 description: Explores how lacking developer control over production, telemetry, and deployments undermines DevOps, leading to fragile automation and failed continuous delivery.
 date: 2025-06-16T09:00:00Z
 weight: 285
@@ -33,7 +33,7 @@ tags:
 - Technical Excellence
 Watermarks:
   description: 2025-05-07T12:49:01Z
-  short_title: 2025-06-23T12:33:03Z
+  short_title: 2025-07-07T16:43:27Z
 
 ---
 [DevOps]({{< ref "/categories/devops" >}}) is not automation. It is not pipelines. It is not "shifting left" while locking decision-making into ancient [release management]({{< ref "/tags/release-management" >}}) bureaucracies.  

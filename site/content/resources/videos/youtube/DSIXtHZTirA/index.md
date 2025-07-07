@@ -1,6 +1,6 @@
 ---
 title: 'NKD Agility: Your partner in developing engineering excellence'
-short_title: How Can Organisations Achieve Engineering Excellence?
+short_title: Engineering Excellence with NKD Agility
 description: Learn how NKD Agility supports organisations in building engineering excellence through modern practices like performance engineering, testing in production, and leadership.
 date: 2024-11-23T07:00:12Z
 weight: 205
@@ -43,7 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:06Z
-  short_title: 2025-06-23T12:35:20Z
+  short_title: 2025-07-07T17:47:28Z
 
 ---
 # Performance Engineering and Testing in Production: A Modern Approach | Martin Hinshelwood  

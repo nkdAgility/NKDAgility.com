@@ -1,6 +1,6 @@
 ---
 title: 'Confronting Incompetence: How to Stop Shipping Bad Code and Tackle Technical Debt Effectively'
-short_title: How Can You Prevent Bad Code and Manage Technical Debt?
+short_title: Stop Shipping Bad Code and Tackle Technical Debt
 description: Learn how to prevent bad code, distinguish technical debt from incompetence, and apply practical strategies like code reviews, testing, and prioritisation for healthier software.
 date: 2024-11-26T13:55:20Z
 weight: 640
@@ -40,7 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:04Z
-  short_title: 2025-06-23T12:35:18Z
+  short_title: 2025-07-07T17:47:26Z
 
 ---
 I've been in the trenches of [software development]({{< ref "/tags/software-development" >}}) long enough to know that we all have our moments of weakness. I’ve written bad code and shipped it. And let’s be clear: that’s not just [technical debt]({{< ref "/tags/technical-debt" >}}); that’s incompetence. It’s a hard truth, but one that we must confront if we want to grow as developers and as teams.

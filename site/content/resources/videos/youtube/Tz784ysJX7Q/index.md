@@ -1,6 +1,6 @@
 ---
 title: 'Balancing Speed and Stability: Why Quality Should Always Come First in Delivery Management'
-short_title: Should Quality Take Priority Over Speed in Delivery Management?
+short_title: Balancing Speed vs Quality in Delivery
 description: Explores why prioritising quality and stability over speed in delivery management leads to better long-term outcomes, even when facing tight deadlines or external pressure.
 date: 2025-01-24T06:30:21Z
 weight: 450
@@ -40,7 +40,7 @@ sitemap:
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:49:54Z
-  short_title: 2025-06-23T12:34:44Z
+  short_title: 2025-07-07T17:46:55Z
 
 ---
 One of the questions I often encounter as a delivery manager is how to balance speed and stability, especially when we're under pressure from tight deadlines. However, I would argue that there's a fundamental issue with the premise of this question: why are we under such tight deadlines in the first place? More often than not, these deadlines exist because stakeholders lack confidence in our ability to meet them. This is the absurdity of deadlines.

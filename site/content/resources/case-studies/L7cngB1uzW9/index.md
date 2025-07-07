@@ -1,6 +1,6 @@
 ---
 title: 'Beyond Training: How NKD Agility’s Mentorship Model Transformed a Product Management Team Across Borders'
-short_title: Mentorship Model Transformed a Product Management Team
+short_title: Mentorship Model Transformed Product Team
 description: A cross-border product team overcame misalignment and role confusion through immersive mentorship, boosting collaboration, engineering engagement, and agile delivery.
 date: 2025-06-02
 weight: 115
@@ -14,7 +14,7 @@ ResourceContentOrigin: human
 draft: false
 Watermarks:
   description: 2025-06-16T11:50:58Z
-  short_title: 2025-06-23T12:33:15Z
+  short_title: 2025-07-07T16:43:48Z
 concepts:
 - Accountability
 categories:

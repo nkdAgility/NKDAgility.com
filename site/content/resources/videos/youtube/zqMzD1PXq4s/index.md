@@ -1,6 +1,6 @@
 ---
 title: 'Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence'
-short_title: How Can System Optimisation Improve Engineering Excellence?
+short_title: Optimising Systems for Engineering Excellence
 description: Explores how optimising systems, reducing technical debt, and strong leadership improve engineering quality, productivity, and innovation while minimising chaos.
 date: 2024-12-16T06:00:00Z
 weight: 175
@@ -42,7 +42,7 @@ sitemap:
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:41Z
-  short_title: 2025-06-23T12:35:01Z
+  short_title: 2025-07-07T17:47:09Z
 
 ---
 Chaos costs money. In my experience working with various organisations, I've seen firsthand how they struggle to manage the chaos that often surrounds the delivery of usable, working products to their customers. The result? Substandard work, a barrage of bugs hitting production, and a frustrating cycle of rework because things simply don’t meet the minimum standards we expect. It’s a familiar tale, and one that I’ve encountered time and again.

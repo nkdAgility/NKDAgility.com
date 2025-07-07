@@ -1,6 +1,6 @@
 ---
 title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
-short_title: How Can Challenging Assumptions Improve Product Development?
+short_title: Unpacking Assumptions in Product Development
 description: Learn how to identify and challenge assumptions in product development, avoid the feature factory trap, and use discovery, experimentation, and validation to meet real user needs.
 date: 2024-08-13T07:14:40Z
 weight: 680
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:11Z
-  short_title: 2025-06-23T12:36:42Z
+  short_title: 2025-07-07T17:48:36Z
 
 ---
 Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in [product development]({{< ref "/categories/product-development" >}}). As I’ve observed in various organisations, there’s often a heavy focus on delivery—specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.

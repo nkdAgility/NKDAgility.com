@@ -1,6 +1,6 @@
 ---
 title: Why the Concept of a "Junior Scrum Master" is a Misguided Myth
-short_title: Is There Really Such a Thing as a Junior Scrum Master?
+short_title: The Myth of the Junior Scrum Master
 description: Explains why the Scrum Master role requires experience and competence, debunking the myth of a "junior" Scrum Master and highlighting the need for proven skills in Agile teams.
 date: 2025-02-24T07:26:46Z
 weight: 600
@@ -53,7 +53,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:49:31Z
-  short_title: 2025-06-23T12:34:14Z
+  short_title: 2025-07-07T17:46:12Z
 
 ---
 In the world of Agile, one of the most common misconceptions I encounter is the idea that there exists such a thing as a "junior [Scrum]({{< ref "/categories/scrum" >}}) Master." This notion is not only misleading but also detrimental to both the individual and the organisation. I’ve seen organisations mistakenly believe that the [Scrum Master]({{< ref "/tags/scrum-master" >}}) role can be filled by anyone on the team, often selecting the least productive member to take on this responsibility. This approach does a disservice to the individual and undermines the entire Scrum process. 

@@ -1,6 +1,6 @@
 ---
 title: Is Agile Really Just a Mindset?
-short_title: Is Agile a Mindset or an Engineering Discipline?
+short_title: Agile as a Delivery Discipline, Not Mindset
 description: Explores Agile as a disciplined system of delivery, emphasizing engineering excellence, CI/CD, observability, and system design over mindset or behaviour alone.
 date: 2025-08-11T09:00:00Z
 weight: 60
@@ -17,7 +17,7 @@ contributors:
   external: https://www.linkedin.com/in/rikardskelander/
 Watermarks:
   description: 2025-05-30T15:27:52Z
-  short_title: 2025-06-23T12:32:45Z
+  short_title: 2025-07-07T16:43:10Z
 concepts:
 - Capability
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Everyone loves to shout give teams autonomy
-short_title: How Can Teams Balance Autonomy and Alignment in Scrum?
+short_title: Team Autonomy and Alignment in Scrum
 description: Explores why team autonomy in Scrum must be balanced with alignment to strategic goals, highlighting the role of clear objectives and leadership in achieving true agility.
 date: 2025-05-08T15:30:40+01:00
 weight: 355
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:56Z
-  short_title: 2025-06-23T12:13:38Z
+  short_title: 2025-07-07T16:44:23Z
 concepts:
 - Strategy
 categories:

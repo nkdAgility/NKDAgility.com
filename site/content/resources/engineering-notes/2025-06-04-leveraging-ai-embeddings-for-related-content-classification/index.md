@@ -1,6 +1,6 @@
 ---
 title: Leveraging AI Embeddings for Related Content Classification
-short_title: How Can AI Embeddings Improve Related Content in Hugo?
+short_title: AI Embeddings for Related Content in Hugo
 description: Explores using AI embeddings and cosine similarity to improve related content recommendations in Hugo, enhancing semantic relevance, user navigation, and AI discoverability efficiently.
 date: 2025-06-04T09:00:00Z
 weight: 565
@@ -13,7 +13,7 @@ aliases:
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-05-28T11:53:29Z
-  short_title: 2025-06-23T12:33:12Z
+  short_title: 2025-07-07T16:43:44Z
 concepts:
 - Tool
 categories:

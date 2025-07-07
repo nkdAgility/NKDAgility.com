@@ -1,6 +1,6 @@
 ---
 title: 'The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty'
-short_title: Evidence-Based Management Guide 2024
+short_title: Evidence-Based Management Guide for Value Delivery
 description: A practical guide to Evidence-Based Management, showing how organisations use experiments, feedback, and key value areas to improve value delivery amid uncertainty.
 date: 2024-09-17
 weight: 390
@@ -47,7 +47,7 @@ card:
   title: The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty
 Watermarks:
   description: 2025-05-07T12:57:55Z
-  short_title: 2025-06-23T12:35:57Z
+  short_title: 2025-07-07T16:40:37Z
 
 ---
 ### May 2024

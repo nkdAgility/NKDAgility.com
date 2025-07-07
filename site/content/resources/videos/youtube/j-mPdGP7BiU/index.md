@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Product Development: From Assumptions to Hypotheses'
-short_title: How Do You Turn Product Assumptions Into Testable Hypotheses?
+short_title: Mastering Product Development Hypotheses
 description: Learn to identify, prioritise, and test assumptions in product development by turning them into hypotheses, managing experimentation costs, and making data-driven decisions.
 date: 2024-08-10T07:00:32Z
 weight: 1000
@@ -44,7 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:14Z
-  short_title: 2025-06-23T12:36:46Z
+  short_title: 2025-07-07T17:48:39Z
 
 ---
 In the fast-paced world of [product development]({{< ref "/categories/product-development" >}}), assumptions can often be our greatest blind spots. Yet, they are also essential stepping stones that guide our decisions and strategies. In our new class, we dive deep into the art of working with assumptions, transforming them from potential pitfalls into powerful tools for innovation.

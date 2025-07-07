@@ -1,6 +1,6 @@
 ---
 title: Why is Kanban becoming increasingly popular in creative industries?
-short_title: Why Is Kanban Gaining Popularity in Creative Industries?
+short_title: Kanban’s Rise in Creative Industries
 description: Explains how Kanban helps creative industries optimise workflows with flexibility, personalisation, and continuous improvement, contrasting it with Scrum’s limitations.
 date: 2024-02-13T07:00:14Z
 weight: 1000
@@ -40,7 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:47Z
-  short_title: 2025-06-23T12:37:55Z
+  short_title: 2025-07-07T17:49:47Z
 
 ---
 ### Embracing [Kanban]({{< ref "/categories/kanban" >}}): A Creative Approach to Workflow Optimization

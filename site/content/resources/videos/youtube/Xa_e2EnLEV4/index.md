@@ -1,6 +1,6 @@
 ---
 title: 3 best ways to wreck Kanban. Sweep problems under the rug.
-short_title: Are You Ignoring Problems in Your Kanban Workflow?
+short_title: '3 Best Ways to Wreck Kanban: Ignoring Problems'
 description: Ignoring problems in Kanban leads to workflow blockages, technical debt, and crises. Learn why prompt issue resolution and transparency are vital for effective Kanban.
 date: 2024-03-04T07:00:13Z
 weight: 1000
@@ -46,7 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:30Z
-  short_title: 2025-06-23T12:37:40Z
+  short_title: 2025-07-07T17:49:32Z
 
 ---
 ### The Danger of Ignoring Problems in Your [Kanban]({{< ref "/categories/kanban" >}}) Strategy

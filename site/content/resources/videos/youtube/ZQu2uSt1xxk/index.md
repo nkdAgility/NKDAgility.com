@@ -1,6 +1,6 @@
 ---
 title: Overview of Applying Professional Kanban course.
-short_title: How Can You Apply Professional Kanban to Any Workflow?
+short_title: Applying Professional Kanban Course Overview
 description: Learn how to implement Kanban in any workflow, use key metrics and visualisations, and drive continuous improvement for better project management and value delivery.
 date: 2024-02-21T07:00:11Z
 weight: 1000
@@ -45,7 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:40Z
-  short_title: 2025-06-23T12:37:49Z
+  short_title: 2025-07-07T17:49:40Z
 
 ---
 ### Understanding and Applying [Kanban]({{< ref "/categories/kanban" >}}): The Professional Kanban Course

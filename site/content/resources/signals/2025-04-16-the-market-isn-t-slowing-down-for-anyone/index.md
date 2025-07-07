@@ -1,6 +1,6 @@
 ---
 title: The market isn’t slowing down for anyone
-short_title: Are You Adapting Fast Enough to Stay Competitive?
+short_title: The Market Isn’t Slowing Down for Anyone
 description: Explores why organisational responsiveness and real-time decision-making are crucial for staying competitive, highlighting the risks of outdated frameworks and slow adaptation.
 date: 2025-04-16T15:30:49+01:00
 weight: 635
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:25Z
-  short_title: 2025-06-23T12:14:05Z
+  short_title: 2025-07-07T16:44:50Z
 concepts: []
 categories:
 - Product Development

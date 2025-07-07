@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Kanban: The Essential Guide to Defining and Visualising Your Workflow for Maximum Efficiency'
-short_title: How Do You Define and Visualise Workflow in Kanban?
+short_title: Defining and Visualising Kanban Workflows
 description: Learn how to define and visualise workflows in Kanban to boost team clarity, alignment, and efficiency, with practical steps for stable processes and effective task management.
 date: 2024-02-27T07:00:31Z
 weight: 1000
@@ -42,7 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:34Z
-  short_title: 2025-06-23T12:37:44Z
+  short_title: 2025-07-07T17:49:35Z
 
 ---
 One of the core practices of [Kanban]({{< ref "/categories/kanban" >}}) that I’ve come to appreciate deeply is the importance of defining and visualising our workflow. This practice is not just a procedural step; it lays the groundwork for everyone involved in the work system to agree on what we do and how we currently operate. 

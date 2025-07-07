@@ -1,6 +1,6 @@
 ---
 title: 'Maximising Product Value: The Power of Hypothesis-Driven Engineering'
-short_title: How Does Hypothesis-Driven Engineering Maximise Product Value?
+short_title: Maximising Product Value with Hypothesis-Driven Engineering
 description: Explores how hypothesis-driven engineering helps teams maximise product value by testing ideas, measuring outcomes, and learning from failure to guide investment decisions.
 date: 2024-12-11T06:30:00Z
 weight: 390
@@ -50,7 +50,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:56:46Z
-  short_title: 2025-06-23T12:35:03Z
+  short_title: 2025-07-07T17:47:12Z
 
 ---
 When it comes to managing product investments, I’ve shifted my perspective significantly over the years. The phrase "stay within budget" doesn’t resonate with me anymore. Instead, I view it as having a pool of money that I can allocate strategically to maximise value. This approach requires a solid understanding of the data at hand and a clear vision of what we aim to achieve.

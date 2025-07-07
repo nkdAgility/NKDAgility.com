@@ -1,6 +1,6 @@
 ---
 title: Telling People What to Do Is Not Leadership. It’s a Failure of System Design.
-short_title: 'What Makes Real Leadership: System Design or Command?'
+short_title: Leadership Is System Design, Not Command
 description: Explores why real leadership means designing systems that enable team autonomy, flow, and accountability—rather than relying on command-and-control management.
 date: 2025-08-04T09:00:00Z
 weight: 30
@@ -46,7 +46,7 @@ contributors:
   external: https://www.linkedin.com/in/alessandro-recca-b9974a21a/
 Watermarks:
   description: 2025-05-19T07:28:14Z
-  short_title: 2025-06-23T12:32:46Z
+  short_title: 2025-07-07T16:43:11Z
 
 ---
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.

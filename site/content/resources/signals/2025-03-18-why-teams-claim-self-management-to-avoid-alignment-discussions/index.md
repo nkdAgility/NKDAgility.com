@@ -1,6 +1,6 @@
 ---
 title: Why Teams Claim Self-Management to Avoid Alignment Discussions
-short_title: Is Your Team Using Self-Management to Avoid Alignment?
+short_title: Self-Management vs Alignment in Teams
 description: Explores how teams misuse self-management to dodge alignment, clarifying that true autonomy requires accountability, shared goals, and adherence to frameworks like Scrum.
 date: 2025-03-18T16:30:34+00:00
 weight: 425
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:04Z
-  short_title: 2025-06-23T12:14:42Z
+  short_title: 2025-07-07T16:45:21Z
 concepts:
 - Accountability
 categories:

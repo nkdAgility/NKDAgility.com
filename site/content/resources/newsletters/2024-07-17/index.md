@@ -1,6 +1,6 @@
 ---
 title: Introducing the Professional Product Validation and Discovery Workshop from Scrum.org
-short_title: What is the Scrum.org Product Validation & Discovery Workshop?
+short_title: Professional Product Validation Workshop
 description: Learn practical skills in product validation, customer discovery, and team collaboration to create customer-focused products, guided by an expert Scrum.org trainer.
 date: 2024-07-17
 weight: 840
@@ -32,7 +32,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T13:02:35Z
-  short_title: 2025-06-23T12:37:05Z
+  short_title: 2025-07-07T17:49:00Z
 
 ---
 **Dear Innovators and Product Enthusiasts,**

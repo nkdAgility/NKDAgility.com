@@ -1,6 +1,6 @@
 ---
 title: Mindset Versus Philosophy
-short_title: Why Does Language Matter in Agile Communication?
+short_title: Mindset vs Philosophy in Agile Language
 description: Explores how precise language and context shape transparency and understanding in Agile, highlighting why word choice matters for effective communication and collaboration.
 date: 2024-02-22
 weight: 1000
@@ -16,7 +16,7 @@ resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:05:39Z
-  short_title: 2025-06-23T12:37:48Z
+  short_title: 2025-07-07T17:49:39Z
 concepts: []
 categories:
 - Uncategorized

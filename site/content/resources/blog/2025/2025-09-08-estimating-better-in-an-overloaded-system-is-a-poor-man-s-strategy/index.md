@@ -1,6 +1,6 @@
 ---
 title: Estimating Better in an Overloaded System Is a Poor Man’s Strategy
-short_title: How Does Limiting WIP Improve Delivery Predictability?
+short_title: Why Limiting WIP Beats Better Estimation
 description: High work in progress (WIP) causes delays and unpredictability; improving estimates won’t help. Limiting WIP and focusing on flow is key to reliable delivery.
 date: 2025-09-08T09:00:00Z
 weight: 235
@@ -13,7 +13,7 @@ aliases:
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-06-18T18:22:38Z
-  short_title: 2025-06-23T12:32:39Z
+  short_title: 2025-07-07T16:43:05Z
 concepts:
 - Practice
 categories:

@@ -1,6 +1,6 @@
 ---
 title: The Common Challenges of Adopting DevOps Practices
-short_title: What Are the Biggest Challenges in Adopting DevOps?
+short_title: Common Challenges in Adopting DevOps Practices
 description: Explores key challenges in adopting DevOps, including managing evolving risks and closing feedback loops, with strategies for rapid iteration, feedback, and continuous improvement.
 date: 2024-08-20T08:04:38Z
 weight: 305
@@ -45,7 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:01:59Z
-  short_title: 2025-06-23T12:36:32Z
+  short_title: 2025-07-07T17:48:28Z
 
 ---
 When organizations embark on the journey of adopting [DevOps]({{< ref "/categories/devops" >}}) practices, they often encounter significant challenges. One of the most common is what I like to call "regression" – the frustrating experience of making two steps forward only to fall five steps back. Let's dive into these challenges and explore how to effectively navigate them.

@@ -1,6 +1,6 @@
 ---
 title: What is Kanban?
-short_title: What is Kanban and How Does It Improve Workflow?
+short_title: What is Kanban?
 description: Explains Kanban as a flexible strategy for visualising, analysing, and improving workflows, enabling continuous improvement and efficiency across any team or process.
 date: 2024-02-12T07:00:11Z
 weight: 1000
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:53Z
-  short_title: 2025-06-23T12:37:59Z
+  short_title: 2025-07-07T17:49:50Z
 
 ---
 ### Demystifying [Kanban]({{< ref "/categories/kanban" >}}): A Strategy for [Continuous Improvement]({{< ref "/tags/continuous-improvement" >}})

@@ -1,6 +1,6 @@
 ---
 title: Advanced PSM II Immersive Learning Classes
-short_title: How Can Advanced Scrum Master Classes Improve Teams?
+short_title: Advanced PSM II Immersive Learning Classes
 description: Private advanced Scrum Master classes offering immersive learning to improve team outcomes and agile skills, tailored for organisations seeking better Scrum results.
 date: 2024-09-20T11:04:29Z
 weight: 1000
@@ -36,7 +36,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:40Z
-  short_title: 2025-06-23T12:35:46Z
+  short_title: 2025-07-07T17:47:54Z
 
 ---
  If your organization KNOW that you should be getting better outcomes from their #scrummaster now is a great time to invest in a private Advanced Professional Scrum Master immersive learning experience. Visit https://www.nkdagility.com to explore how we can help you. #agile #scrum 

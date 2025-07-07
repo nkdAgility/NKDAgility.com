@@ -1,6 +1,6 @@
 ---
 title: The Importance of Delivering Working Software Every Iteration
-short_title: Why Deliver Working Software Every Iteration in Agile?
+short_title: Delivering Working Software Every Iteration
 description: Explains why delivering working software to users every iteration is vital in Agile, highlighting feedback, value, and practical steps for continuous improvement and success.
 date: 2024-06-26T06:45:00Z
 weight: 355
@@ -56,7 +56,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:02:47Z
-  short_title: 2025-06-23T12:37:16Z
+  short_title: 2025-07-07T17:49:09Z
 
 ---
 In the ever-evolving world of Agile, the ability to deliver [working software]({{< ref "/tags/working-software" >}}) to real users every iteration, including the very first one, is crucial. If your team isn't doing that, you may not be as Agile as you think. The heart of Agile lies in closing feedback loops and fostering tight interactions with customers. In this blog post, we'll dive into why delivering working software early and often is essential for true agility, how it impacts your product's success, and practical advice to help your team excel in this area.

@@ -1,6 +1,6 @@
 ---
 title: Stop treating the end of the Sprint like a finish line
-short_title: Is the Sprint End a Deadline or a Checkpoint?
+short_title: Stop Treating Sprint End as a Deadline
 description: The end of a Sprint is a checkpoint for review and adaptation, not a deadline. Focus on flow, learning, and continuous improvement over strict task completion.
 date: 2025-06-05T15:30:54+01:00
 weight: 360
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:43Z
-  short_title: 2025-06-23T12:13:17Z
+  short_title: 2025-07-07T16:43:42Z
 concepts:
 - Principle
 categories:

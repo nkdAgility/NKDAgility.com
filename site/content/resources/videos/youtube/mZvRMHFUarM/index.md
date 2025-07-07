@@ -1,6 +1,6 @@
 ---
 title: 'Rethinking Software Estimation: Embrace Probabilistic Forecasting for Agile Success'
-short_title: How Can Probabilistic Forecasting Improve Agile Estimation?
+short_title: Probabilistic Forecasting in Agile Estimation
 description: Explores how probabilistic forecasting improves software project planning by replacing traditional estimation with data-driven confidence levels for agile delivery.
 date: 2024-12-05T06:30:00Z
 weight: 790
@@ -42,7 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:56:53Z
-  short_title: 2025-06-23T12:35:08Z
+  short_title: 2025-07-07T17:47:17Z
 
 ---
 One of the most significant challenges I encounter in the realm of software projects is the perennial struggle with [estimation]({{< ref "/tags/estimation" >}}). It’s a topic that seems to generate endless debate and confusion. Many organisations feel compelled to engage in some form of estimation, whether that’s through absolute estimation—which often leads to errors—or by employing relative estimation tools. The reality, however, is that we often feel we need these estimates to chart our course forward. But do we really?

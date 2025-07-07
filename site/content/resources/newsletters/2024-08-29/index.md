@@ -1,6 +1,6 @@
 ---
 title: Professional Product Discovery and Validation Skills (PPDV) with a friend in September!
-short_title: How Can You Master Product Discovery and Validation?
+short_title: Professional Product Discovery & Validation
 description: Learn practical skills in product discovery, validation, and customer-centric development to create successful products, with expert-led training and team collaboration strategies.
 date: 2024-08-29
 weight: 1000
@@ -29,7 +29,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T12:58:42Z
-  short_title: 2025-06-23T12:36:24Z
+  short_title: 2025-07-07T17:48:22Z
 
 ---
 **Dear Innovators and Product Enthusiasts,**

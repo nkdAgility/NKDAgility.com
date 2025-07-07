@@ -1,6 +1,6 @@
 ---
 title: Great Scrum Masters and Product Owners don’t micromanage
-short_title: How Can Scrum Leaders Balance Autonomy and Structure?
+short_title: Great Scrum Masters and Product Owners
 description: Effective Scrum Masters and Product Owners empower teams with clear goals and autonomy, balancing structure and flexibility to promote accountability and true agility.
 date: 2025-03-23T16:30:01+00:00
 weight: 390
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:56Z
-  short_title: 2025-06-23T12:14:34Z
+  short_title: 2025-07-07T16:45:16Z
 concepts:
 - Accountability
 categories:

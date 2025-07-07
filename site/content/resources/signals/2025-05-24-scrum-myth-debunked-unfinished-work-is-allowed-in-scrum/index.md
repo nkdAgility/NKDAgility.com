@@ -1,6 +1,6 @@
 ---
 title: 'Scrum Myth Debunked: Unfinished Work is Allowed in Scrum'
-short_title: Is Unfinished Work Allowed in Scrum?
+short_title: 'Unfinished Work in Scrum: Myth vs Reality'
 description: Clarifies Scrum guidelines on unfinished work, explaining that items can span multiple Sprints if the Sprint Goal and Done Increment remain intact, avoiding common misconceptions.
 date: 2025-05-24T15:30:17+01:00
 weight: 445
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:52Z
-  short_title: 2025-06-23T12:13:25Z
+  short_title: 2025-07-07T16:44:01Z
 concepts: []
 categories:
 - Scrum

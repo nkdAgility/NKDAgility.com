@@ -1,6 +1,6 @@
 ---
 title: Testing in Production Maximises Quality and Value
-short_title: How Does Audience-Based Deployment Improve Software Quality?
+short_title: Testing in Production for Quality and Value
 description: Explains how audience-based deployment and testing in production enable faster feedback, safer rollouts, and higher software quality by targeting real users and reducing risk.
 date: 2025-02-13T09:00:00
 weight: 145
@@ -51,7 +51,7 @@ preview: 2025-02-06-testing-in-production-maximises-quality-and-value.jpg
 marketing: []
 Watermarks:
   description: 2025-05-07T12:49:38Z
-  short_title: 2025-06-23T12:34:23Z
+  short_title: 2025-07-07T17:46:34Z
 
 ---
 Testing in production, is about structured, observable releases that allow for fast feedback, controlled exposure, and rapid course correction, ensuring quality without sacrificing speed.

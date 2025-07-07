@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Objectives & Key Results
-short_title: How Do You Successfully Implement OKRs?
+short_title: Getting Started with Objectives & Key Results
 description: Learn how to successfully implement OKRs by aligning clear strategy, fostering transparency, empowering teams, focusing on outcomes, and establishing iterative execution practices.
 date: 2025-08-18T09:00:00Z
 weight: 490
@@ -14,7 +14,7 @@ ResourceContentOrigin: hybrid
 mermaid: true
 Watermarks:
   description: 2025-06-03T15:33:08Z
-  short_title: 2025-06-23T12:32:43Z
+  short_title: 2025-07-07T16:43:08Z
 concepts:
 - Strategy
 categories:

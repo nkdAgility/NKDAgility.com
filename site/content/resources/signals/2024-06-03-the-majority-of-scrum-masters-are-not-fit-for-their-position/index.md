@@ -1,6 +1,6 @@
 ---
 title: The majority of Scrum Masters are not fit for their position
-short_title: Are Most Scrum Masters Lacking Essential Skills?
+short_title: The Majority of Scrum Masters Lack Competency
 description: Most Scrum Masters lack essential Scrum knowledge, with only 39% meeting core standards. Poor competency threatens team success and highlights the need for better training.
 date: 2024-06-03T14:44:00Z
 weight: 705
@@ -43,7 +43,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-07T13:02:52Z
-  short_title: 2025-06-23T12:15:44Z
+  short_title: 2025-07-07T17:49:13Z
 concepts: []
 categories:
 - Uncategorized

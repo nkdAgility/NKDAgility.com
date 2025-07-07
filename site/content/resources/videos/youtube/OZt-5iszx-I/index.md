@@ -1,6 +1,6 @@
 ---
 title: 'Turning User Feedback into Actionable Work: A Guide to Maximizing Product Value'
-short_title: How Can Agile Teams Turn User Feedback into Action Fast?
+short_title: Turning User Feedback into Actionable Work
 description: Learn how to quickly turn user feedback into actionable work items in Agile teams, improving product value through fast feedback loops, prioritisation, and continuous improvement.
 date: 2024-07-10T06:45:01Z
 weight: 1000
@@ -57,7 +57,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:39Z
-  short_title: 2025-06-23T12:37:09Z
+  short_title: 2025-07-07T17:49:02Z
 
 ---
 In the fast-paced world of Agile development, one of the most critical aspects of delivering value is how effectively we turn user feedback into concrete work items. It’s not just about listening to what our users have to say; it's about taking that feedback and quickly transforming it into actions that improve our product. If your feedback loop is slow, your product’s value might be diminishing. Let's explore how to shorten that timeline, ensuring that user feedback fuels [continuous improvement]({{< ref "/tags/continuous-improvement" >}}) and high-[value delivery]({{< ref "/tags/value-delivery" >}}).

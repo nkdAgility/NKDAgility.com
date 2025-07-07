@@ -1,6 +1,6 @@
 ---
 title: Kanban Guide
-short_title: What Is Kanban and How Does It Optimize Workflow?
+short_title: Kanban Guide
 description: Comprehensive reference outlining Kanban principles, practices, and metrics for optimising workflow, value delivery, and continuous improvement in knowledge work.
 date: 2025-05-01
 weight: 840
@@ -46,7 +46,7 @@ card:
   title: Kanban Guide
 Watermarks:
   description: 2025-05-16T10:06:25Z
-  short_title: 2025-06-23T12:33:42Z
+  short_title: 2025-07-07T16:40:30Z
 
 ---
 This document aims to be a unifying reference for the community by offering the minimal guidance for Kanban. Depending on the context, various approaches can complement Kanban, allowing it to accommodate the full spectrum of value delivery and organizational challenges.

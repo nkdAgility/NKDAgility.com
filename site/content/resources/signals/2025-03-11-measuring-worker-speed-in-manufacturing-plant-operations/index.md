@@ -1,6 +1,6 @@
 ---
 title: Measuring Worker Speed in Manufacturing Plant Operations
-short_title: Does Measuring Individual Worker Speed Improve Efficiency?
+short_title: Measuring Worker Speed in Manufacturing
 description: Measuring individual worker speed in manufacturing or knowledge work can create bottlenecks; true efficiency comes from improving the whole system, not just individuals.
 date: 2025-03-11T16:30:01+00:00
 weight: 705
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:17Z
-  short_title: 2025-06-23T12:14:52Z
+  short_title: 2025-07-07T16:45:29Z
 concepts: []
 categories:
 - Uncategorized

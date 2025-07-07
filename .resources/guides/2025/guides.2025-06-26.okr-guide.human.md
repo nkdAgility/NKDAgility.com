@@ -1,6 +1,6 @@
 ---
 title: OKR Guide - A Social Discipline for Shared Focus, Measurable Contribution, and Strategic Learning
-short_title: OKR Guide
+short_title: 'OKR Guide: Shared Focus, Measurable Outcomes'
 description: Comprehensive guide to using OKRs for shared focus, measurable outcomes, and strategic learning, including roles, events, best practices, and common pitfalls.
 date: 2025-06-26
 weight: 610
@@ -14,7 +14,7 @@ author: Martin Hinshelwood
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-30T00:28:38Z
-  short_title: 2025-06-27T19:43:08Z
+  short_title: 2025-07-07T16:40:29Z
 concepts:
 - Strategy
 categories:

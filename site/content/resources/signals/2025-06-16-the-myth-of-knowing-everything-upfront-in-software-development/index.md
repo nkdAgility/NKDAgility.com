@@ -1,6 +1,6 @@
 ---
 title: The Myth of Knowing Everything Upfront in Software Development
-short_title: Can You Know Everything Upfront in Software Development?
+short_title: The Myth of Upfront Certainty in Software
 description: Software development thrives on continuous discovery and adaptation; upfront planning can’t predict everything. Embrace uncertainty, deliver iteratively, and learn as you go.
 date: 2025-06-16T15:30:47+01:00
 weight: 510
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:49:59Z
-  short_title: 2025-06-23T12:13:05Z
+  short_title: 2025-07-07T16:43:26Z
 concepts:
 - Tenet
 categories:

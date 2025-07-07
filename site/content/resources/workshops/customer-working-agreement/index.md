@@ -1,6 +1,6 @@
 ---
 title: Customer Working Agreement
-short_title: What Is a Customer Working Agreement Workshop?
+short_title: Customer Working Agreement Workshop
 description: Defines a collaborative workshop to create a Statement of Work and clarify customer and provider responsibilities, agility level, and key commitments for project success.
 date: 2024-09-17
 weight: 840
@@ -35,7 +35,7 @@ card:
   title: 
 Watermarks:
   description: 2025-05-07T12:58:01Z
-  short_title: 2025-06-23T12:36:00Z
+  short_title: 2025-07-07T17:48:11Z
 
 ---
 ## Customer Working Agreement

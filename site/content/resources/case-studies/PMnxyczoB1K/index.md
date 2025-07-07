@@ -1,6 +1,6 @@
 ---
 title: 'Engineering Excellence in Action: How NKD Agility Helped SLB Streamline Build and Release Across 90 Teams and 13 Countries'
-short_title: Streamline Build and Release Across 90 Teams and 13 Countries
+short_title: Streamlining Build & Release Across 90 Teams
 description: NKD Agility helped SLB unify build and release processes across 90 teams in 13 countries, boosting team ownership, efficiency, and engineering accountability.
 date: 2025-06-02
 weight: 65
@@ -38,7 +38,7 @@ tags:
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-16T11:50:57Z
-  short_title: 2025-06-23T12:33:15Z
+  short_title: 2025-07-07T16:43:48Z
 
 ---
 ## Client Context

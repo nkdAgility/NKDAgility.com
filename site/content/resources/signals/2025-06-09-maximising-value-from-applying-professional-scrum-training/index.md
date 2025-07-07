@@ -1,6 +1,6 @@
 ---
 title: Maximising Value from Applying Professional Scrum Training
-short_title: How Does Professional Scrum Training Drive Real Change?
+short_title: Maximising Value from Professional Scrum Training
 description: Learn how Professional Scrum training empowers teams to identify organisational blockers, create actionable change backlogs, and drive real transformation in delivery.
 date: 2025-06-09T15:30:34+01:00
 weight: 470
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:39Z
-  short_title: 2025-06-23T12:13:12Z
+  short_title: 2025-07-07T16:43:36Z
 concepts:
 - Principle
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Avoiding the Seven Deadly Sins of Agile: Transform Your Organisation for True Agility'
-short_title: What Are the Seven Deadly Sins of Agile?
+short_title: Seven Deadly Sins of Agile and Solutions
 description: Identifies seven common Agile pitfalls—quick fixes, backlog overload, resource focus, lack of accountability, blame, imitation, and pride—and offers practical solutions for true agility.
 date: 2024-04-14T12:17:16Z
 weight: 530
@@ -46,7 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:17Z
-  short_title: 2025-06-23T12:37:28Z
+  short_title: 2025-07-07T17:49:20Z
 
 ---
 Agile is hard, and it’s designed for complex environments. Over the years, I’ve encountered numerous behaviours in organisations that can only be described as suboptimal. Today, I want to share my insights on what I call the "Seven Deadly Sins of Agile." These are pitfalls that can hinder your [Agile transformation]({{< ref "/tags/agile-transformation" >}}) and prevent you from achieving true agility.
