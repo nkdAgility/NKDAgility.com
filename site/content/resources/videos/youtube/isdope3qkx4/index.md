@@ -1,14 +1,15 @@
 ---
 title: 'Mastering Agile in a Distributed World: Tools and Strategies for Effective Team Management'
+short_title: Mastering Agile for Distributed Teams
 description: Explore practical tools and strategies for managing Agile teams in distributed environments, including communication tips, tool comparisons, and adaptation best practices.
 date: 2020-04-10T18:35:30Z
 weight: 1000
-slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
-aliases:
-- /resources/isdope3qkx4
 ResourceId: isdope3qkx4
 ResourceImport: true
 ResourceType: videos
+slug: mastering-agile-in-a-distributed-world-tools-and-strategies-for-effective-team-management
+aliases:
+- /resources/isdope3qkx4
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: isdope3qkx4
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:15:50Z
+  short_title: 2025-07-07T17:58:11Z
 
 ---
 Hello, I’m Martin Hinshelwood, and today I want to share some insights from my recent experiences in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}). Over the past few weeks, I’ve been engaging in live sessions, and it’s been fascinating to see how many of you are actively inspecting and adapting your practices. This is a testament to the Agile mindset, and I’m excited to continue these discussions regularly.

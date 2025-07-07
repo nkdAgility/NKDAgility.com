@@ -1,8 +1,12 @@
 ---
 title: 'Transforming Agile Training into Action: Experimentation and Engagement in the Workplace'
+short_title: Transforming Agile Training into Action
 description: Explores practical ways to apply agile training at work, using experimentation, group engagement techniques, and virtual tools to boost collaboration and real-world impact.
 date: 2023-04-24T07:00:03Z
 weight: 1000
+ResourceId: BRRQ1JWsHpQ
+ResourceImport: true
+ResourceType: videos
 slug: transforming-agile-training-into-action-experimentation-and-engagement-in-the-workplace
 aliases:
 - /resources/BRRQ1JWsHpQ
@@ -21,9 +25,6 @@ tags:
 - Team Collaboration
 - Pragmatic Thinking
 - Continuous Learning
-ResourceId: BRRQ1JWsHpQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: BRRQ1JWsHpQ
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:06Z
+  short_title: 2025-07-07T17:55:48Z
 
 ---
 When it comes to training in agile methodologies, one of the most pressing questions I often encounter is: how do we effectively transfer our training experiences into our day-to-day jobs? The answer lies in [experimentation]({{< ref "/tags/experimentation" >}}). I always encourage participants to try things out, to take the tools and techniques we discuss in class and apply them in their own environments. 

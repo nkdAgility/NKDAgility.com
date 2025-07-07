@@ -1,8 +1,12 @@
 ---
 title: How good is the APSPO course in helping leaders determine product direction and Why?
+short_title: APSPOA Course for Product Direction & Leadership
 description: Explores how the APSPOA course equips product owners and leaders with tools and techniques to shape product direction and develop key Agile leadership skills.
 date: 2023-03-22T07:00:17Z
 weight: 690
+ResourceId: nTxn_izPBFQ
+ResourceImport: true
+ResourceType: videos
 slug: how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
 aliases:
 - /resources/nTxn_izPBFQ
@@ -22,9 +26,6 @@ categories:
 - Product Management
 tags:
 - Product Owner
-ResourceId: nTxn_izPBFQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: nTxn_izPBFQ
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:35Z
+  short_title: 2025-07-07T17:56:19Z
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

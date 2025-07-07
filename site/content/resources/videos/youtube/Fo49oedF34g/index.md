@@ -1,6 +1,6 @@
 ---
 title: Czym różni się zwinne przywództwo od tradycyjnego zarządzania
-short_title: How Does Agile Leadership Differ from Traditional Management?
+short_title: Różnice między zwinnym a tradycyjnym zarządzaniem
 description: Explains the key differences between agile leadership and traditional management, focusing on team collaboration, adaptability, and continuous improvement in organisations.
 date: 2023-08-09T14:59:44Z
 weight: 1000
@@ -39,7 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:19Z
-  short_title: 2025-06-23T12:41:48Z
+  short_title: 2025-07-07T17:53:38Z
 
 ---
  Czym różni się zwinne przywództwo od tradycyjnego zarządzania?

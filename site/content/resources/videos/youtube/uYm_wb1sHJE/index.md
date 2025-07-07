@@ -1,6 +1,6 @@
 ---
 title: What is the Sprint Review workshop and how will it help organisations?
-short_title: What Is a Sprint Review Workshop and Why Use It?
+short_title: Sprint Review Workshop Explained
 description: Explains the Sprint Review workshop, detailing its role in Agile teams for stakeholder engagement, market alignment, and continuous product improvement through practical guidance.
 date: 2023-06-30T07:00:18Z
 weight: 665
@@ -47,7 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:04Z
-  short_title: 2025-06-23T12:42:23Z
+  short_title: 2025-07-07T17:54:12Z
 
 ---
 ## 🚀 Demystifying the [Sprint Review]({{< ref "/tags/sprint-review" >}}) Workshop 

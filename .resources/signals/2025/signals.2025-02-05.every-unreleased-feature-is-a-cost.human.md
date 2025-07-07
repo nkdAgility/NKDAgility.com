@@ -1,6 +1,6 @@
 ---
 title: Every unreleased feature is a cost
-short_title: Are Unreleased Features Costing Your Team Value?
+short_title: Every Unreleased Feature Is a Cost
 description: Unreleased features create hidden costs and risks. Regular software delivery reduces failure rates, rework, and missed opportunities, ensuring real value is delivered.
 date: 2025-02-05T16:30:01+00:00
 weight: 325
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:08Z
-  short_title: 2025-06-23T12:15:42Z
+  short_title: 2025-07-07T17:46:50Z
 concepts:
 - Tenet
 categories:

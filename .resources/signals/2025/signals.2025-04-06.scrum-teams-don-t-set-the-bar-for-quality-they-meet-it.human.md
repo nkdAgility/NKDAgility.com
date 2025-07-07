@@ -1,6 +1,6 @@
 ---
 title: Scrum Teams don’t set the bar for quality—they meet it
-short_title: How Does Scrum Ensure Consistent Quality Standards?
+short_title: Scrum Teams Meet Quality with Definition of Done
 description: Scrum Teams uphold, not lower, quality by strictly following and evolving the Definition of Done, ensuring predictable releases and reducing technical debt and risk.
 date: 2025-04-06T15:30:00+01:00
 weight: 130
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:40Z
-  short_title: 2025-06-23T12:14:19Z
+  short_title: 2025-07-07T16:45:02Z
 concepts:
 - Artifact
 categories:

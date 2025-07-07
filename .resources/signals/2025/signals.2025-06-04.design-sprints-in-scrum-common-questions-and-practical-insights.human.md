@@ -1,6 +1,6 @@
 ---
 title: 'Design Sprints in Scrum: Common Questions and Practical Insights'
-short_title: How to Integrate Design Sprints into Scrum?
+short_title: Design and UX Integration in Scrum Sprints
 description: Answers common questions about integrating design and UX work into Scrum Sprints, clarifying why dedicated Design Sprints aren’t needed and how to align with Scrum principles.
 date: 2025-06-04T15:31:05+01:00
 weight: 445
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:44Z
-  short_title: 2025-06-23T12:13:18Z
+  short_title: 2025-07-07T16:43:43Z
 concepts:
 - Principle
 categories:

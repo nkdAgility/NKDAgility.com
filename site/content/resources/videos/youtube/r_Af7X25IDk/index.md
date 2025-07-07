@@ -1,14 +1,15 @@
 ---
 title: 'Navigating Agile Transformation: Empowering Teams for Success in a Rapidly Changing Landscape'
+short_title: Navigating Agile Transformation for Teams
 description: Explores effective Agile transformation by empowering teams, improving collaboration, focusing on value delivery, and fostering continuous improvement in fast-changing environments.
 date: 2020-04-17T18:57:11Z
 weight: 590
-slug: navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
-aliases:
-- /resources/r_Af7X25IDk
 ResourceId: r_Af7X25IDk
 ResourceImport: true
 ResourceType: videos
+slug: navigating-agile-transformation-empowering-teams-for-success-in-a-rapidly-changing-landscape
+aliases:
+- /resources/r_Af7X25IDk
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: r_Af7X25IDk
@@ -48,6 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:15:47Z
+  short_title: 2025-07-07T17:58:09Z
 
 ---
 In my journey through the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I've often found myself reflecting on the profound changes that have swept through our industries over the past decade and a half. Today, I want to share some insights from my recent presentation on leading Agile change, particularly in the context of the challenges we face in adapting to a rapidly evolving landscape.

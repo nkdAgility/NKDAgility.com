@@ -1,8 +1,12 @@
 ---
 title: What is Your Peeve in DevOps
+short_title: What is Your Peeve in DevOps
 description: Explores common DevOps frustrations, debunks the myth that continuous delivery is unattainable, and highlights the importance of empowering developers in agile teams.
 date: 2023-04-27T09:30:06Z
 weight: 515
+ResourceId: TNnpe02_RiU
+ResourceImport: true
+ResourceType: videos
 slug: what-is-your-peeve-in-devops
 aliases:
 - /resources/TNnpe02_RiU
@@ -19,9 +23,6 @@ concepts: []
 categories:
 - DevOps
 tags: []
-ResourceId: TNnpe02_RiU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: TNnpe02_RiU
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:57Z
+  short_title: 2025-07-07T17:55:41Z
 
 ---
 **What is Your Peeve in [DevOps]({{< ref "/categories/devops" >}})**

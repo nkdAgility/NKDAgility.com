@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Business Value: The Power of Evidence-Based Management for Effective Leadership'
-short_title: How Does Evidence-Based Management Drive Business Value?
+short_title: Evidence-Based Management for Business Value
 description: Explains how evidence-based management uses data-driven decisions and tailored metrics to boost business value, leadership effectiveness, and organisational innovation.
 date: 2024-01-25T07:00:13Z
 weight: 1000
@@ -45,7 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:14Z
-  short_title: 2025-06-23T12:38:17Z
+  short_title: 2025-07-07T17:50:07Z
 
 ---
 When I think about evidence-based management, I can't help but reflect on how crucial it is to bring a scientific approach to [leadership]({{< ref "/categories/leadership" >}}). In my experience, many organisations still rely heavily on gut feelings or vanity metrics—those numbers that make us look good but don’t actually drive meaningful change. This is where evidence-based management steps in, helping us focus on delivering real business value.

@@ -1,6 +1,6 @@
 ---
 title: Why do you trust Russell to deliver the PSPO course for NKD Agility?
-short_title: Why trust Russell to teach the PSPO course at NKD Agility?
+short_title: Why Trust Russell to Teach PSPO at NKD Agility
 description: Discover how Russell’s extensive product development experience and practical teaching approach make his PSPO course ideal for mastering Product Ownership at NKD Agility.
 date: 2023-08-24T07:00:31Z
 weight: 1000
@@ -37,7 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:53Z
-  short_title: 2025-06-23T12:41:32Z
+  short_title: 2025-07-07T17:53:23Z
 
 ---
 ## Why Russell is the Go-To PSPO Trainer for NKD Agility 🏆 

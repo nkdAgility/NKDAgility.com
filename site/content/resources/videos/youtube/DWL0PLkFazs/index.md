@@ -1,14 +1,15 @@
 ---
 title: 'Unlocking Human Potential: How Health and Perspective Fuel Innovation in Tech'
+short_title: Health, Perspective, and Innovation in Tech
 description: Explores how health, mindset, and diverse perspectives drive innovation and effective leadership in tech, highlighting the link between well-being and creative problem-solving.
 date: 2017-07-28T12:40:03Z
 weight: 1000
-slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
-aliases:
-- /resources/DWL0PLkFazs
 ResourceId: DWL0PLkFazs
 ResourceImport: true
 ResourceType: videos
+slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+aliases:
+- /resources/DWL0PLkFazs
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: DWL0PLkFazs
@@ -34,6 +35,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:16:29Z
+  short_title: 2025-07-07T17:58:44Z
 
 ---
 As I reflect on my journey in the tech industry, I often find myself inspired by the stories and experiences of others. Recently, I had the pleasure of listening to Kathryn Maddox, a remarkable individual who embodies the essence of health and vitality. Her insights resonated deeply with me, particularly her perspective on the intersection of technology and human potential.

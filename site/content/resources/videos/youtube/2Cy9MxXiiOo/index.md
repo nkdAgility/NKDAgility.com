@@ -1,11 +1,12 @@
 ---
 title: What is a sprint goal?
+short_title: What Is a Sprint Goal in Scrum?
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
 date: 2023-05-31T11:00:01Z
 weight: 1000
-slug: what-is-a-sprint-goal-short
+slug: what-is-a-sprint-goal
 aliases:
-  - /resources/2Cy9MxXiiOo
+- /resources/2Cy9MxXiiOo
 ResourceId: 2Cy9MxXiiOo
 ResourceImport: true
 ResourceType: videos
@@ -18,27 +19,28 @@ preview: https://i.ytimg.com/vi/2Cy9MxXiiOo/maxresdefault.jpg
 duration: 47
 isShort: true
 aliasesArchive:
-  - /resources/videos/what-is-a-sprint-goal
-  - /resources/what-is-a-sprint-goal-2
-  - /resources/videos/what-is-a-sprint-goal-
-  - /resources/what-is-a-sprint-goal-
+- /resources/videos/what-is-a-sprint-goal
+- /resources/what-is-a-sprint-goal-2
+- /resources/videos/what-is-a-sprint-goal-
+- /resources/what-is-a-sprint-goal-
 concepts: []
 categories:
-  - Product Development
-  - Scrum
+- Product Development
+- Scrum
 tags:
-  - Software Development
-  - Agile Product Management
+- Software Development
+- Agile Product Management
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
-  - video
+- video
 layout: video
 Watermarks:
   description: 2025-05-07T13:12:00Z
----
+  short_title: 2025-07-07T17:54:56Z
 
+---
 ## What's a Sprint Goal and Why Does It Matter?
 
 I think it's essential to ask what a sprint goal is and look deeper into why it matters.

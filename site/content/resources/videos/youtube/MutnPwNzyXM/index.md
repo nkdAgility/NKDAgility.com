@@ -1,8 +1,12 @@
 ---
 title: 'Rethinking the Statement of Work: How to Truly Meet Client Needs Beyond the Contract'
+short_title: Rethinking the Statement of Work
 description: Explores why focusing solely on contracts can miss client needs, and how flexible, value-driven consulting builds stronger relationships and delivers lasting results.
 date: 2023-06-22T07:00:15Z
 weight: 1000
+ResourceId: MutnPwNzyXM
+ResourceImport: true
+ResourceType: videos
 slug: rethinking-the-statement-of-work-how-to-truly-meet-client-needs-beyond-the-contract
 aliases:
 - /resources/MutnPwNzyXM
@@ -20,9 +24,6 @@ tags:
 - Customer Focus
 - Pragmatic Thinking
 - Personal
-ResourceId: MutnPwNzyXM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: MutnPwNzyXM
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:22Z
+  short_title: 2025-07-07T17:54:26Z
 
 ---
 As an agile consultant, I've learned a multitude of lessons over the years, but one stands out above the rest: the statement of work (SoW) often bears little resemblance to the actual problems my clients face. This insight transcends the realm of agile consulting; it applies to any consulting role. 

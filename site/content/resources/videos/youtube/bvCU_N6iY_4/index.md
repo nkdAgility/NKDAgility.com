@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Business Agility: Join Our Dynamic Monthly Discussions for Real-World Insights'
+short_title: Business Agility Monthly Discussion Sessions
 description: Join monthly interactive sessions to discuss real-world business agility challenges, share insights, and learn from diverse peers using a collaborative Lean Coffee format.
 date: 2022-07-27T18:45:14Z
 weight: 840
+ResourceId: bvCU_N6iY_4
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-business-agility-join-our-dynamic-monthly-discussions-for-real-world-insights
 aliases:
 - /resources/bvCU_N6iY_4
@@ -20,9 +24,6 @@ categories:
 - Uncategorized
 tags:
 - Business Agility
-ResourceId: bvCU_N6iY_4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: bvCU_N6iY_4
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:49Z
+  short_title: 2025-07-07T17:57:25Z
 
 ---
 As I sit down to write this post, I’m reminded of the vibrant discussions that take place during our monthly [Business Agility]({{< ref "/tags/business-agility" >}}) Raw sessions. If you haven’t joined us yet, I highly encourage you to mark your calendars for the fourth Wednesday of every month. It’s a fantastic opportunity to engage with like-minded individuals and explore the pressing topics that matter most to us in the realm of business agility.

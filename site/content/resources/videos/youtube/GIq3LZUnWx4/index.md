@@ -1,8 +1,12 @@
 ---
 title: What is the one thing a PSPO course forces you to focus on?
+short_title: 'PSPO Course Focus: Defining Value'
 description: Explains how the PSPO course centres on understanding and defining value, highlighting its importance for Product Owners in guiding decisions and organisational success.
 date: 2023-05-15T14:00:13Z
 weight: 790
+ResourceId: GIq3LZUnWx4
+ResourceImport: true
+ResourceType: videos
 slug: what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 aliases:
 - /resources/GIq3LZUnWx4
@@ -21,9 +25,6 @@ tags:
 - Agile Product Management
 - Value Delivery
 - Product Owner
-ResourceId: GIq3LZUnWx4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: GIq3LZUnWx4
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:28Z
+  short_title: 2025-07-07T17:55:16Z
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value

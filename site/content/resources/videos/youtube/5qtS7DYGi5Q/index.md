@@ -1,6 +1,6 @@
 ---
 title: How Do You Know the Value Currently Delivered in Your Organization?
-short_title: How Can You Measure Value Delivered in Your Organization?
+short_title: Measuring Value Delivered with Evidence-Based Management
 description: Learn how Evidence-Based Management helps organisations measure delivered value using key metrics like customer satisfaction, employee engagement, and product usage data.
 date: 2024-01-23T11:00:05Z
 weight: 1000
@@ -53,7 +53,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:06:19Z
-  short_title: 2025-06-23T12:38:21Z
+  short_title: 2025-07-07T17:50:11Z
 
 ---
 In today's fast-paced world, organizations must understand their value to make informed decisions and drive [continuous improvement]({{< ref "/tags/continuous-improvement" >}}). But how do you know the value that’s currently being delivered in your organization? 🤔 This is where **Evidence-Based Management (EBM)** comes into play, offering a clear path to evaluate and enhance your organizational outcomes. In this blog post, we'll explore how EBM can help you gauge your organization's value, optimize performance, and make data-driven decisions.

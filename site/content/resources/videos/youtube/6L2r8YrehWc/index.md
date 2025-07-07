@@ -1,6 +1,6 @@
 ---
 title: Why the Scrum Master’s True Power Lies in Influence, Not Authority
-short_title: Why Does a Scrum Master Lead by Influence, Not Authority?
+short_title: Scrum Master Influence vs Authority
 description: Explains why a Scrum Master leads through influence, not authority, focusing on building trust, fostering team effectiveness, and supporting agile collaboration.
 date: 2023-09-15T07:00:06Z
 weight: 610
@@ -48,7 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:30Z
-  short_title: 2025-06-23T12:41:10Z
+  short_title: 2025-07-07T17:53:04Z
 
 ---
 In the world of [Scrum]({{< ref "/categories/scrum" >}}), a common question arises: why isn’t the [Scrum Master]({{< ref "/tags/scrum-master" >}}) endowed with any real power or authority as outlined in the Scrum Guide? This is a thought-provoking inquiry, and I’d like to share my perspective based on my experiences in the field.

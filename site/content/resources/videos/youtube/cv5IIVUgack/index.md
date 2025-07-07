@@ -1,15 +1,16 @@
 ---
 title: How Hard is it to Transition from Being a Developer to a Scrum developer?
+short_title: Transitioning from Developer to Scrum Developer
 description: Explores the challenges and skills needed to shift from traditional development to Scrum, focusing on continuous learning, Agile practices, and adapting to new workflows.
 date: 2023-06-22T11:00:25Z
 weight: 405
+ResourceId: cv5IIVUgack
+ResourceImport: true
+ResourceType: videos
 slug: how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 aliases:
 - /resources/cv5IIVUgack
 - /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-cv5IIVUgack
-ResourceId: cv5IIVUgack
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: cv5IIVUgack
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:21Z
+  short_title: 2025-07-07T17:54:25Z
 
 ---
 ## From Developer to [Scrum]({{< ref "/categories/scrum" >}}) Developer: A Journey of [Continuous Learning]({{< ref "/tags/continuous-learning" >}})

@@ -1,6 +1,6 @@
 ---
 title: Are there any Scrum courses that teach you how to scale Scrum?
-short_title: How Can You Effectively Scale Scrum in Your Organization?
+short_title: Scrum Courses for Scaling Agile Frameworks
 description: Learn how to scale Scrum by tailoring frameworks to your organisation, focusing on dependency management, alignment, and iterative improvement for effective agile delivery.
 date: 2023-10-18T07:00:23Z
 weight: 640
@@ -43,7 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:40Z
-  short_title: 2025-06-23T12:40:23Z
+  short_title: 2025-07-07T17:52:20Z
 
 ---
 # Tailoring [Scrum]({{< ref "/categories/scrum" >}}) to Scale: Building Your Own Framework for Success

@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Agility: How Decentralisation Empowers Teams to Maximise Value in Any Organisation'
-short_title: How Does Decentralisation Boost Team Agility and Value?
+short_title: Decentralising Teams to Maximise Agility & Value
 description: Explores how decentralising decision-making boosts team agility, engagement, and innovation, helping organisations of any size maximise value and adapt to change.
 date: 2023-09-28T11:09:12Z
 weight: 1000
@@ -48,7 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:11Z
-  short_title: 2025-06-23T12:40:51Z
+  short_title: 2025-07-07T17:52:46Z
 
 ---
 In my experience working with organisations of all sizes, one thing has become abundantly clear: the struggle to maximise value from our work is not exclusive to large enterprises. In fact, I would argue that smaller organisations often have a distinct advantage in this area. Why? Because they possess the agility to adapt their business practices more readily than their larger counterparts.

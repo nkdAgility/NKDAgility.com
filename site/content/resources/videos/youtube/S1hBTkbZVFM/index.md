@@ -1,6 +1,6 @@
 ---
 title: 'The Key to Hiring the Right Agile Coach: Building Credibility with Teams and Leadership'
-short_title: How Do You Hire an Agile Coach Who Builds Credibility?
+short_title: 'Hiring an Agile Coach: Building Credibility'
 description: Learn how to choose an Agile coach who builds trust with teams and leadership, combining technical expertise, communication skills, and empathy for effective transformation.
 date: 2023-11-20T11:00:30Z
 weight: 640
@@ -43,7 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:43Z
-  short_title: 2025-06-23T12:39:36Z
+  short_title: 2025-07-07T17:51:39Z
 
 ---
 Hiring an Agile coach can be a game changer for organizations striving to embrace agility. However, finding the right fit for your organization isn't just about credentials and buzzwords. One of the most critical factors when selecting an Agile coach is their ability to **engage and gain credibility with teams and [leadership]({{< ref "/categories/leadership" >}})**. Let's dive into why this is so essential and how you can make the best hiring decision.

@@ -1,8 +1,12 @@
 ---
 title: 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
+short_title: How to Succeed in a Tough 2023
 description: 'Guidance for 2023: Succeed by clarifying strategy, boosting product development, investing in people, and using agile methods to gain competitive advantage and improve performance.'
 date: 2023-02-13T22:00:04Z
 weight: 540
+ResourceId: 9PBpgfsojQI
+ResourceImport: true
+ResourceType: videos
 slug: 2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve
 aliases:
 - /resources/9PBpgfsojQI
@@ -22,9 +26,6 @@ categories:
 - Product Management
 tags:
 - Pragmatic Thinking
-ResourceId: 9PBpgfsojQI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 9PBpgfsojQI
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:06Z
+  short_title: 2025-07-07T17:56:47Z
 
 ---
 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?

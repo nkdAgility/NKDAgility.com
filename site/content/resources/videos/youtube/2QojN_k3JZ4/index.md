@@ -1,6 +1,6 @@
 ---
 title: 'Bridging the Gap: Understanding the True Meaning of "Done" in Agile Teams'
-short_title: What Does "Done" Really Mean in Agile Teams?
+short_title: Definition of Done in Agile Teams
 description: Explores how Agile teams can clarify and align on the true meaning of "done" to ensure quality, reduce rework, and meet leadership expectations through clear definitions.
 date: 2023-12-07T11:00:05Z
 weight: 640
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:10Z
-  short_title: 2025-06-23T12:39:03Z
+  short_title: 2025-07-07T17:51:13Z
 
 ---
 In my experience working with various organisations, I've often noticed a significant gap between expectation and reality when it comes to the concept of "done." It’s a term that gets thrown around in Agile circles, yet its true meaning can often be lost in translation. 

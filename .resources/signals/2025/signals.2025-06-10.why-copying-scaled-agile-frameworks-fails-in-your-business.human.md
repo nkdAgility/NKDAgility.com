@@ -1,6 +1,6 @@
 ---
 title: Why Copying Scaled Agile Frameworks Fails in Your Business
-short_title: Why Do Scaled Agile Frameworks Fail When Copied?
+short_title: Why Copying Scaled Agile Frameworks Fails
 description: Copying scaled agile frameworks fails because each business needs a tailored, evidence-based approach to agility that fits its unique culture, constraints, and challenges.
 date: 2025-06-10T15:30:38+01:00
 weight: 520
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:38Z
-  short_title: 2025-06-23T12:13:11Z
+  short_title: 2025-07-07T16:43:34Z
 concepts:
 - Strategy
 categories:

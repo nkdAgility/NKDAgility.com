@@ -1,6 +1,6 @@
 ---
 title: Scrum doesn't solve problems, it reveals them. How, and why is that valuable?
-short_title: How does Scrum reveal problems and why does it matter?
+short_title: Scrum Reveals Organisational Problems
 description: Explains how Scrum exposes hidden organisational problems through transparency and feedback, enabling teams to identify issues, improve processes, and drive real change.
 date: 2023-09-27T07:00:29Z
 weight: 590
@@ -54,7 +54,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:17Z
-  short_title: 2025-06-23T12:40:58Z
+  short_title: 2025-07-07T17:52:52Z
 
 ---
 ## Reflecting on [Scrum]({{< ref "/categories/scrum" >}})'s Mirror  

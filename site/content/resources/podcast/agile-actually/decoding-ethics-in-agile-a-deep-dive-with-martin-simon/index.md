@@ -1,6 +1,6 @@
 ---
 title: 'Decoding Ethics in Agile: A Deep Dive with Martin & Simon'
-short_title: How Does Language Influence Ethics in Agile?
+short_title: Decoding Ethics in Agile
 description: Explore how language, transparency, and precision shape ethical practices in Agile, with insights from experienced Agile coaches and consultants Martin and Simon.
 date: 2023-10-26
 weight: 1000
@@ -16,7 +16,7 @@ resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:08:22Z
-  short_title: 2025-06-23T12:40:06Z
+  short_title: 2025-07-07T17:52:07Z
 concepts: []
 categories:
 - Uncategorized

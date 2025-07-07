@@ -1,6 +1,6 @@
 ---
 title: 'Harnessing the Power of Empiricism: Transform Your Decision-Making with Data-Driven Insights'
-short_title: How Can Empiricism Improve Data-Driven Decision Making?
+short_title: Data-Driven Decision Making with Empiricism
 description: Learn how using empirical, data-driven methods can improve decision-making, foster continuous improvement, and build trust through transparent, evidence-based actions.
 date: 2023-08-17T07:00:09Z
 weight: 1000
@@ -47,7 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:09Z
-  short_title: 2025-06-23T12:41:39Z
+  short_title: 2025-07-07T17:53:30Z
 
 ---
 Empiricism is an interesting beast, isn’t it? At its core, empiricism is the idea that all knowledge stems from observable data. This principle is the foundation of science, and it has found a comfortable home within the agile way of working, as well as in various other business methodologies. 

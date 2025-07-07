@@ -1,6 +1,6 @@
 ---
 title: Why is Kanban such a popular approach for people in creative industries?
-short_title: Why Is Kanban Effective for Creative Teams?
+short_title: 'Kanban for Creative Teams: Workflow & Efficiency'
 description: Explains how Kanban helps creative teams organise workflows, reduce chaos, prioritise tasks, and improve efficiency without stifling creativity, using real-world examples.
 date: 2023-08-25T07:00:00Z
 weight: 1000
@@ -40,7 +40,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:09:51Z
-  short_title: 2025-06-23T12:41:30Z
+  short_title: 2025-07-07T17:53:22Z
 
 ---
 Creativity, with its boundless landscape, where every spark of inspiration has the potential to morph into a magnum opus, often thrives in a state of organised chaos.  

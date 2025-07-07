@@ -1,6 +1,6 @@
 ---
 title: Hardest part of becoming a professional Scrum Master?
-short_title: What Is the Hardest Part of Becoming a Scrum Master?
+short_title: Hardest Part of Becoming a Professional Scrum Master
 description: Explores why embracing true professionalism is the hardest part of becoming a Scrum Master, highlighting the importance of deep understanding, mastery, and continuous learning.
 date: 2023-08-02T07:00:12Z
 weight: 1000
@@ -43,7 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:29Z
-  short_title: 2025-06-23T12:41:56Z
+  short_title: 2025-07-07T17:53:46Z
 
 ---
 ## Navigating the Journey to Professionalism in the Agile World

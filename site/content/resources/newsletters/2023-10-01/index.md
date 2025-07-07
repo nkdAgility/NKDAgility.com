@@ -1,6 +1,6 @@
 ---
 title: 'Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood'
-short_title: How Can Leaders Drive Successful Agile Transformation?
+short_title: Agile Leadership and Transformation Webcast
 description: Learn practical Agile leadership and transformation strategies from Dr. Joanna Płaskonka and Martin Hinshelwood, including expert insights, Q&A, and actionable guidance.
 date: 2023-10-01
 weight: 665
@@ -28,7 +28,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T13:09:07Z
-  short_title: 2025-06-23T12:40:48Z
+  short_title: 2025-07-07T17:52:43Z
 
 ---
 **🌟 Exclusive Webcast #2: "Agile [Leadership]({{< ref "/categories/leadership" >}}) & [Agile Transformation]({{< ref "/tags/agile-transformation" >}})" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**

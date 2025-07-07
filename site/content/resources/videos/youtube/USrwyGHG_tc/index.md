@@ -1,40 +1,41 @@
 ---
 title: Is a Scrum Master an Agile micromanager?
+short_title: Is a Scrum Master an Agile Micromanager?
 description: Explains why a Scrum Master should facilitate and empower agile teams, not micromanage, highlighting the importance of trust, autonomy, and effective team dynamics.
 date: 2023-04-24T07:00:18Z
 weight: 590
-slug: is-a-scrum-master-an-agile-micromanager-short
+slug: is-a-scrum-master-an-agile-micromanager
 aliases:
-  - /resources/USrwyGHG_tc
-  - /resources/videos/is-a-scrum-master-an-agile-micromanager
+- /resources/USrwyGHG_tc
+- /resources/videos/is-a-scrum-master-an-agile-micromanager
 aliasesArchive:
-  - /resources/videos/is-a-scrum-master-an-agile-micromanager
-  - /resources/is-a-scrum-master-an-agile-micromanager-2
-  - /resources/is-a-scrum-master-an-agile-micro-manager
-  - /resources/videos/is-a-scrum-master-an-agile-micro-manager-
-  - /resources/is-a-scrum-master-an-agile-micro-manager-
-  - /resources/videos/is-a-scrum-master-an-agile-micro-manager
-  - is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc
+- /resources/videos/is-a-scrum-master-an-agile-micromanager
+- /resources/is-a-scrum-master-an-agile-micromanager-2
+- /resources/is-a-scrum-master-an-agile-micro-manager
+- /resources/videos/is-a-scrum-master-an-agile-micro-manager-
+- /resources/is-a-scrum-master-an-agile-micro-manager-
+- /resources/videos/is-a-scrum-master-an-agile-micro-manager
+- is-a-scrum-master-an-agile-micromanager-USrwyGHG_tc
 concepts: []
 categories:
-  - Technical Leadership
-  - Scrum
-  - Product Development
+- Technical Leadership
+- Scrum
+- Product Development
 tags:
-  - Coaching
-  - Scrum Team
-  - Scrum Master
-  - Software Development
-  - Team Performance
-  - Agile Leadership
-  - Agile Frameworks
-  - Agile Product Management
-  - Agile Transformation
-  - Self Organisation
-  - Team Collaboration
-  - Pragmatic Thinking
-  - Professional Scrum
-  - Team Motivation
+- Coaching
+- Scrum Team
+- Scrum Master
+- Software Development
+- Team Performance
+- Agile Leadership
+- Agile Frameworks
+- Agile Product Management
+- Agile Transformation
+- Self Organisation
+- Team Collaboration
+- Pragmatic Thinking
+- Professional Scrum
+- Team Motivation
 ResourceId: USrwyGHG_tc
 ResourceImport: true
 ResourceType: videos
@@ -51,11 +52,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
-  - video
+- video
 Watermarks:
   description: 2025-05-07T13:13:05Z
----
+  short_title: 2025-07-07T17:55:47Z
 
+---
 ## Introduction: Facilitating, Not Dictating 🕵️‍♂️ 
 
 Picture this: a [Scrum]({{< ref "/categories/scrum" >}}) Master hovering over the development team, controlling each move they make, dictating every line of code.

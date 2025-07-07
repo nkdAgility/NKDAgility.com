@@ -1,6 +1,6 @@
 ---
 title: Scrum is like communism, it doesn't work. Myth 3.
-short_title: Does Scrum Lead to Micromanagement?
+short_title: Scrum and the Myth of Micromanagement
 description: Explores the myth that Scrum leads to micromanagement, clarifying that true Scrum empowers teams with autonomy, collaboration, and trust, not top-down control.
 date: 2023-10-25T07:00:09Z
 weight: 330
@@ -48,7 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:24Z
-  short_title: 2025-06-23T12:40:10Z
+  short_title: 2025-07-07T17:52:09Z
 
 ---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Micromanagement: Dispelling the Myth 🚀

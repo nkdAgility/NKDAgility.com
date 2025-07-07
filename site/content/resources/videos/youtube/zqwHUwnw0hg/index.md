@@ -1,8 +1,12 @@
 ---
 title: What will you learn on the professional scrum master course?
+short_title: What You Learn on the Professional Scrum Master Course
 description: Gain practical skills and deep understanding of the scrum master role, scrum theory, empiricism, team dynamics, and delivering value in agile product development.
 date: 2023-01-19T07:00:14Z
 weight: 750
+ResourceId: zqwHUwnw0hg
+ResourceImport: true
+ResourceType: videos
 slug: what-will-you-learn-on-the-professional-scrum-master-course
 aliases:
 - /resources/zqwHUwnw0hg
@@ -25,9 +29,6 @@ tags:
 - Scrum Master
 - Scrum Team
 - Software Development
-ResourceId: zqwHUwnw0hg
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: zqwHUwnw0hg
@@ -44,6 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:30Z
+  short_title: 2025-07-07T17:57:07Z
 
 ---
 What will you learn on the professional [scrum]({{< ref "/categories/scrum" >}}) master course?

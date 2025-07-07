@@ -1,6 +1,6 @@
 ---
 title: 'Avoiding Agile Banditry: Why Story Points and Velocity Are Misleading Metrics'
-short_title: Are Story Points and Velocity Misleading Agile Metrics?
+short_title: Why Story Points and Velocity Mislead Agile Teams
 description: Explains why story points and velocity can mislead Agile teams, and recommends focusing on throughput, cycle time, and customer value for effective performance measurement.
 date: 2024-01-08T07:00:06Z
 weight: 840
@@ -49,7 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:35Z
-  short_title: 2025-06-23T12:38:34Z
+  short_title: 2025-07-07T17:50:24Z
 
 ---
 **Introduction to Agile Metrics: The Pitfall of Story Points and Velocity**

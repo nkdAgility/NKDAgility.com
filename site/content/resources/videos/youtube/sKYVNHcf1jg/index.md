@@ -1,8 +1,12 @@
 ---
 title: 'Navigating My Most Memorable Challenge as an Agile Consultant: Lessons in Readiness and Engagement'
+short_title: Lessons in Agile Consulting Readiness
 description: A personal account highlighting the importance of organisational readiness, engagement, and listening for successful agile consulting and meaningful change in teams.
 date: 2023-04-04T07:00:16Z
 weight: 1000
+ResourceId: sKYVNHcf1jg
+ResourceImport: true
+ResourceType: videos
 slug: navigating-my-most-memorable-challenge-as-an-agile-consultant-lessons-in-readiness-and-engagement
 aliases:
 - /resources/sKYVNHcf1jg
@@ -20,9 +24,6 @@ categories:
 - Uncategorized
 tags:
 - Personal
-ResourceId: sKYVNHcf1jg
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: sKYVNHcf1jg
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:23Z
+  short_title: 2025-07-07T17:56:05Z
 
 ---
 Reflecting on My Worst Day as an Agile Consultant

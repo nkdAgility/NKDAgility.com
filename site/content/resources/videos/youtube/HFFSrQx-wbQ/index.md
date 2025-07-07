@@ -1,6 +1,6 @@
 ---
 title: 'Breaking Free from the Plagues of Agility: How to Cultivate Flexibility and Innovation in Your Team'
-short_title: How Can Teams Avoid Rigidity and Foster Agile Innovation?
+short_title: Cultivating Flexibility and Innovation in Agile
 description: Explores how rigid adherence to Agile tools and processes can hinder flexibility, and offers strategies to foster team innovation, adaptability, and continuous improvement.
 date: 2023-11-01T09:42:43Z
 weight: 665
@@ -40,7 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:11Z
-  short_title: 2025-06-23T12:39:58Z
+  short_title: 2025-07-07T17:51:59Z
 
 ---
 In my journey through the world of Agile, I've often encountered what I like to call the "plagues" of agility. One of the most insidious of these is the tendency for teams to become overly attached to their tools and processes. This fixation can be detrimental, stifling the very essence of what it means to be agile. 

@@ -1,6 +1,6 @@
 ---
 title: Git Flow should have died years ago
-short_title: Is Git Flow Still Relevant for Modern Software Development?
+short_title: Why Git Flow Is Obsolete for Modern Dev Teams
 description: Explains why Git Flow is outdated for modern software, highlighting its drawbacks and recommending simpler workflows like GitHub Flow for faster, continuous delivery.
 date: 2025-02-09T16:30:00+00:00
 weight: 470
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:02Z
-  short_title: 2025-06-23T12:15:36Z
+  short_title: 2025-07-07T17:46:39Z
 concepts: []
 categories:
 - DevOps

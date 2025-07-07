@@ -1,14 +1,15 @@
 ---
 title: Without Delivery, There Is No Value
+short_title: Without Delivery, There Is No Value
 description: Value in software is only realised through delivery. Frequent releases validate assumptions, reduce risk, and enable rapid feedback, adaptation, and continuous improvement.
 date: 2025-02-10T09:00:00
 weight: 180
-slug: without-delivery-there-is-no-value
-aliases:
-- /resources/UfdnQrxv5iF
 ResourceId: UfdnQrxv5iF
 ResourceImport: false
 ResourceType: blog
+slug: without-delivery-there-is-no-value
+aliases:
+- /resources/UfdnQrxv5iF
 ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
@@ -43,13 +44,14 @@ tags:
 - Increment
 preview: 2025-02-10-without-delivery-no-value.jpg
 marketing: []
-Watermarks:
-  description: 2025-05-07T12:49:40Z
 platform_signals:
 - platform: Scrumorg
   post_url: https://www.scrum.org/resources/blog/without-delivery-there-no-value
   post_date: 2025-06-17T09:00:00Z
   post_type: crosspost
+Watermarks:
+  description: 2025-05-07T12:49:40Z
+  short_title: 2025-07-07T17:46:37Z
 
 ---
 Before delivery, all ideas and strategies remain theoretical. They are assumptions - educated guesses that may or may not align with actual needs or expectations. **Delivery is the only mechanism** through which these assumptions are validated, transforming theory into tangible outcomes that can be measured, tested, and improved.

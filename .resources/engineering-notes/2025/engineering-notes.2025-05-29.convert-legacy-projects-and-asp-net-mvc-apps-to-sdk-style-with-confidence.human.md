@@ -1,17 +1,19 @@
 ---
 title: Convert Legacy Projects and ASP.NET MVC Apps to SDK-Style with Confidence
+short_title: Convert Legacy .NET and ASP.NET MVC to SDK-Style
 description: Learn how to upgrade legacy .NET and ASP.NET MVC projects to SDK-style for easier builds, modern tooling, and future readiness, including tips for class libraries and web apps.
 date: 2025-05-29T09:00:00Z
 weight: 345
-slug: convert-legacy-projects-and-asp-net-mvc-apps-to-sdk-style-with-confidence
-aliases:
-- /resources/2mdv7QE2nIt
 ResourceId: 2mdv7QE2nIt
 ResourceImport: false
 ResourceType: engineering-notes
+slug: convert-legacy-projects-and-asp-net-mvc-apps-to-sdk-style-with-confidence
+aliases:
+- /resources/2mdv7QE2nIt
+ResourceContentOrigin: human
 Watermarks:
   description: 2025-05-07T15:00:14Z
-ResourceContentOrigin: human
+  short_title: 2025-07-07T16:43:54Z
 concepts:
 - Tool
 categories:

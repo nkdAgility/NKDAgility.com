@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Organisational Potential: The Transformative Power of a Great Consultant'
+short_title: Unlocking Organisational Potential
 description: Explores how skilled consultants drive rapid, impactful organisational change by identifying core issues, bridging leadership gaps, and fostering agile transformation.
 date: 2023-01-24T07:30:02Z
 weight: 840
+ResourceId: 8vu-AXJwwYk
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-organisational-potential-the-transformative-power-of-a-great-consultant
 aliases:
 - /resources/8vu-AXJwwYk
@@ -18,9 +22,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: 8vu-AXJwwYk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 8vu-AXJwwYk
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:27Z
+  short_title: 2025-07-07T17:57:04Z
 
 ---
 When I reflect on my experiences as a consultant, I often find myself pondering the profound impact a great consultant can have on an organisation. It’s a topic that resonates deeply with me, especially when I consider the distinction between consulting and [coaching]({{< ref "/tags/coaching" >}}). 

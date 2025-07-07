@@ -1,14 +1,15 @@
 ---
 title: 'Working from Paradise: A Quick Update'
+short_title: 'Working Remotely from Cancun: Time Zone Update'
 description: Working remotely from Cancun until 23 Jan 2025; available as usual, but now on EST. Meeting times may shift due to time zone change. Contact details remain unchanged.
 date: 2024-12-10
 weight: 1000
-slug: working-from-paradise-a-quick-update
-aliases:
-- /resources/I3QFLrCOXnN
 ResourceId: I3QFLrCOXnN
 ResourceImport: false
 ResourceType: newsletters
+slug: working-from-paradise-a-quick-update
+aliases:
+- /resources/I3QFLrCOXnN
 ResourceContentOrigin: Human
 preview: class-marketing-Q32021.jpg
 author: MrHinsh
@@ -16,6 +17,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T12:56:49Z
+  short_title: 2025-07-07T17:47:14Z
 concepts: []
 categories:
 - Uncategorized

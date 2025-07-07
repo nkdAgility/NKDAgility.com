@@ -1,6 +1,6 @@
 ---
 title: '7 deadly sins of Agile: Pride'
-short_title: How Does Pride Impact Agile Team Success?
+short_title: '7 Deadly Sins of Agile: Pride'
 description: Explores how unchecked pride can harm Agile teams, stressing data-driven decisions, learning from failure, and balancing confidence with humility for real customer value.
 date: 2023-10-13T07:00:05Z
 weight: 1000
@@ -43,7 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:48Z
-  short_title: 2025-06-23T12:40:31Z
+  short_title: 2025-07-07T17:52:26Z
 
 ---
 **The Peril of Pride in Agile: A Cautionary Tale** 

@@ -1,17 +1,19 @@
 ---
 title: Why Topic Branches Drive High-Quality Delivery
+short_title: Why Topic Branches Improve Software Quality
 description: Explains how short-lived topic branches in source control improve software quality, enable modularity, speed up integration, and support agile, continuous delivery practices.
 date: 2025-07-14T09:00:00Z
 weight: 115
-slug: why-topic-branches-drive-high-quality-delivery
-aliases:
-- /resources/O_VlmDj7n3V
 ResourceId: O_VlmDj7n3V
 ResourceImport: false
 ResourceType: blog
+slug: why-topic-branches-drive-high-quality-delivery
+aliases:
+- /resources/O_VlmDj7n3V
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-07T12:48:56Z
+  short_title: 2025-07-07T16:43:16Z
 concepts:
 - Tenet
 categories:

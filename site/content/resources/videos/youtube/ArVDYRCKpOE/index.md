@@ -1,6 +1,6 @@
 ---
 title: 'Quotes: Fake it until you make it'
-short_title: Should You "Fake It Till You Make It" in Agile Teams?
+short_title: Fake It Till You Make It in Agile Teams
 description: Explores when "fake it till you make it" works or fails in Agile teams, stressing the need for real expertise, coaching, and continuous learning over mere pretence.
 date: 2023-10-11T15:00:13Z
 weight: 1000
@@ -37,7 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:52Z
-  short_title: 2025-06-23T12:40:35Z
+  short_title: 2025-07-07T17:52:30Z
 
 ---
 ## Navigating its Limits in Agile Work Environments 

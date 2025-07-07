@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Organisational Value: The Transformative Power of Engagement in Agile Teams'
-short_title: How Does Team Engagement Drive Value in Agile Organisations?
+short_title: Engagement Drives Value in Agile Teams
 description: Explores how decentralising decision-making, fostering autonomy, and building a shared vision in agile teams can boost engagement and unlock greater organisational value.
 date: 2023-09-28T10:27:47Z
 weight: 690
@@ -52,7 +52,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:12Z
-  short_title: 2025-06-23T12:40:52Z
+  short_title: 2025-07-07T17:52:47Z
 
 ---
 In my journey through the world of agile and organisational effectiveness, I've often found myself pondering a critical question: If even large organisations struggle to deliver value and determine which products to build, what hope do smaller organisations have? With tighter budgets and fewer hands on deck, the challenge can seem insurmountable. However, I firmly believe that the issue isn't about scale; it's about engagement.

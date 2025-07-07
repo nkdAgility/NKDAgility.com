@@ -1,14 +1,15 @@
 ---
 title: Great Scrum Masters Need Technical, Business, and Organisational Mastery
+short_title: 'Scrum Mastery: Technical, Business, Organisational'
 description: Scrum Masters are most effective when they combine leadership skills with technical, business, and organisational mastery to support teams, Product Owners, and change.
 date: 2025-03-24T09:00:00
 weight: 175
-slug: great-scrum-masters-need-technical-business-and-organisational-mastery
-aliases:
-- /resources/dQjKsWR5qfn
 ResourceId: dQjKsWR5qfn
 ResourceImport: false
 ResourceType: blog
+slug: great-scrum-masters-need-technical-business-and-organisational-mastery
+aliases:
+- /resources/dQjKsWR5qfn
 ResourceContentOrigin: Hybrid
 AudioNative: true
 creator: Martin Hinshelwood
@@ -46,17 +47,18 @@ tags:
 - Market Adaptability
 Watermarks:
   description: 2025-05-07T12:49:18Z
+  short_title: 2025-07-07T16:45:15Z
 
 ---
 [Scrum Masters]({{< ref "/tags/scrum-master" >}}) don’t need to be subject-matter experts in the way traditional management once required. We’re no longer in an era where managers direct unskilled labour; modern teams are intelligent, capable, and cross-functional. The [Scrum]({{< ref "/categories/scrum" >}}) Master’s responsibility is not to do the work, but to enable others to do it better. They are leaders.
 
 [Leadership]({{< ref "/categories/leadership" >}}) requires a different kind of expertise—expertise in change, collaboration, [coaching]({{< ref "/tags/coaching" >}}), facilitation, conflict navigation, communication, team development, [personal]({{< ref "/tags/personal" >}}) growth, and a [ballance of leadership with control]({{< ref "/resources/blog/2025/2025-03-12-balance-of-leadership-and-control-in-scrum" >}}). These are non-negotiable.
 
-But these skills alone are not enough; we should recognise that for leaders to be successful, domain-specific mastery matters too. A Scrum Master who understands the *technical, business, and organisational* context their team operates in can better remove impediments, facilitate learning, and support adaptation.
+But these skills alone are not enough; we should recognise that for leaders to be successful, domain-specific mastery matters too. A Scrum Master who understands the _technical, business, and organisational_ context their team operates in can better remove impediments, facilitate learning, and support adaptation.
 
 This idea doesn’t replace the core leadership capabilities. It **builds on them**.
 
-For a Scrum Master to be an effective *Teacher, Mentor, Coach, and Facilitator*, they require a deep understanding, or mastery, of the team's work, the business they operate in, and the organisation they are navigating.
+For a Scrum Master to be an effective _Teacher, Mentor, Coach, and Facilitator_, they require a deep understanding, or mastery, of the team's work, the business they operate in, and the organisation they are navigating.
 
 Mastery in this context means knowledge and understanding of the philosophies, methods, practices, and techniques relevant to the domain in which the team operates. If a team is developing medical devices, the Scrum Master should understand that field's regulatory and quality requirements. If they are working in industrial design, they need familiarity with prototyping, material constraints, and production processes. If they are developing software, they should understand [software development]({{< ref "/tags/software-development" >}}) practices, including [Continuous Delivery]({{< ref "/tags/continuous-delivery" >}}), [Test First]({{< ref "/tags/test-first-development" >}}), and [DevOps]({{< ref "/categories/devops" >}}) principles.
 

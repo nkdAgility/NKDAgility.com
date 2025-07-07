@@ -1,6 +1,6 @@
 ---
 title: '7 deadly sins of Agile: Lust'
-short_title: Is Agile a Quick Fix or a Commitment to Change?
+short_title: '7 Deadly Sins of Agile: Lust'
 description: Explores why Agile transformation requires genuine commitment and adaptation, warning against quick fixes and emphasising the need for a tailored, organisation-specific approach.
 date: 2023-10-12T07:00:12Z
 weight: 1000
@@ -43,7 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:51Z
-  short_title: 2025-06-23T12:40:34Z
+  short_title: 2025-07-07T17:52:29Z
 
 ---
 **Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 

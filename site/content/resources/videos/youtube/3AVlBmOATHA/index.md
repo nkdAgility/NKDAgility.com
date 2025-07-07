@@ -1,8 +1,12 @@
 ---
 title: How would you help organizations pitch the opportunity of agile internally?
+short_title: Pitching Agile Adoption Internally
 description: Learn how to build a compelling business case for agile adoption by aligning benefits with key metrics, stakeholder goals, and inclusive change management strategies.
 date: 2023-02-08T07:15:00Z
 weight: 665
+ResourceId: 3AVlBmOATHA
+ResourceImport: true
+ResourceType: videos
 slug: how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally
 aliases:
 - /resources/3AVlBmOATHA
@@ -23,9 +27,6 @@ tags:
 - Software Development
 - Agile Strategy
 - Value Delivery
-ResourceId: 3AVlBmOATHA
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 3AVlBmOATHA
@@ -42,6 +43,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:14:11Z
+  short_title: 2025-07-07T17:56:51Z
 
 ---
 How would you help organizations pitch the opportunity of agile internally?

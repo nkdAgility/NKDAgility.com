@@ -1,8 +1,12 @@
 ---
 title: What is Sprint Planning?
+short_title: What is Sprint Planning?
 description: Sprint planning is a collaborative session where teams define and align on goals, tasks, and priorities for the next sprint, ensuring clarity and focus for effective delivery.
 date: 2023-05-24T14:00:36Z
 weight: 690
+ResourceId: nMkit8zBxG0
+ResourceImport: true
+ResourceType: videos
 slug: what-is-sprint-planning
 aliases:
 - /resources/nMkit8zBxG0
@@ -25,9 +29,6 @@ tags:
 - Agile Planning
 - Agile Product Management
 - Product Delivery
-ResourceId: nMkit8zBxG0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: nMkit8zBxG0
@@ -44,6 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:13Z
+  short_title: 2025-07-07T17:55:04Z
 
 ---
 ## Setting the Tone for Success

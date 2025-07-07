@@ -1,8 +1,12 @@
 ---
 title: What is the most interesting outcome you have achieved as an agile consultant?
+short_title: Agile Consulting Outcomes and Success Stories
 description: Real-world examples of agile consulting outcomes, highlighting both challenges and successes in agile transformation, DevOps adoption, and holistic Scrum training.
 date: 2023-03-20T07:00:20Z
 weight: 590
+ResourceId: zoAhqsEqShs
+ResourceImport: true
+ResourceType: videos
 slug: what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 aliases:
 - /resources/zoAhqsEqShs
@@ -19,9 +23,6 @@ categories:
 - Product Development
 tags:
 - Agile Transformation
-ResourceId: zoAhqsEqShs
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: zoAhqsEqShs
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:37Z
+  short_title: 2025-07-07T17:56:21Z
 
 ---
 **What is the most interesting outcome you have achieved as an agile consultant?**

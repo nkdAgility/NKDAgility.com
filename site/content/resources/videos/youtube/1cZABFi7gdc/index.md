@@ -1,6 +1,6 @@
 ---
 title: 'Hiring the Right Agile Coach: What You Need to Know'
-short_title: How Do You Choose the Right Agile Coach?
+short_title: Hiring the Right Agile Coach
 description: Learn how to choose an Agile coach by assessing experience, track record, cultural fit, and adaptability to ensure effective, tailored Agile transformation for your organisation.
 date: 2023-11-23T11:00:01Z
 weight: 840
@@ -42,7 +42,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:07:34Z
-  short_title: 2025-06-23T12:39:27Z
+  short_title: 2025-07-07T17:51:33Z
 
 ---
 Finding the right Agile coach can make or break your organization's journey toward greater agility. While the Agile landscape is filled with talented coaches, not all will suit your organization’s unique needs. Whether you're a small startup looking to scale or a large enterprise seeking to enhance its agility, finding the right coach is essential.

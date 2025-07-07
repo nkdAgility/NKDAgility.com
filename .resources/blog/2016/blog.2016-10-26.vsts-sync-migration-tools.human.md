@@ -1,16 +1,17 @@
 ---
 title: VSTS Sync Migration Tools
+short_title: VSTS Sync Migration Tools
 description: Open-source tools for migrating work items, test plans, teams, and project structures between TFS and VSTS, supporting consolidation and flexible data transfer.
 date: 2016-10-26
 weight: 840
-slug: vsts-sync-migration-tools
-aliases:
-- /resources/UjyqYjINUfp
 ResourceId: UjyqYjINUfp
 ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 ResourceType: blog
+slug: vsts-sync-migration-tools
+aliases:
+- /resources/UjyqYjINUfp
 ResourceContentOrigin: Human
 ResourceImportId: 11634
 creator: Martin Hinshelwood
@@ -28,6 +29,7 @@ tags: []
 preview: image_thumb-1-1.png
 Watermarks:
   description: 2025-05-07T13:16:41Z
+  short_title: 2025-07-07T17:58:57Z
 
 ---
 I have been working with a number of customers in the last year that want to move to VSTS. While many of them want to do the full Collection import, many do not.

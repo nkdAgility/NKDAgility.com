@@ -1,8 +1,12 @@
 ---
 title: Would you recommend the APS course to a newbie scrum team, and Why?
+short_title: 'APS Course for New Scrum Teams: Benefits & Impact'
 description: Explains why the Agile Practitioner Series course is ideal for new Scrum teams, focusing on practical Scrum skills, organisational change, and team empowerment.
 date: 2023-03-23T07:00:15Z
 weight: 790
+ResourceId: rPxverzgPz0
+ResourceImport: true
+ResourceType: videos
 slug: would-you-recommend-the-aps-course-to-a-newbie-scrum-team-and-why
 aliases:
 - /resources/rPxverzgPz0
@@ -24,9 +28,6 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Agile Frameworks
-ResourceId: rPxverzgPz0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: rPxverzgPz0
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:33Z
+  short_title: 2025-07-07T17:56:18Z
 
 ---
 **Would you recommend the APS course to a newbie [scrum]({{< ref "/categories/scrum" >}}) team, and Why?**

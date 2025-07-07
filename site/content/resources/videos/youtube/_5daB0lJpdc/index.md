@@ -1,6 +1,6 @@
 ---
 title: 'Introduction to Agility’s Ghosts: Shedding Dogma and Embracing Pragmatism'
-short_title: How Can Agile Teams Balance Flexibility and Dogma?
+short_title: Pragmatism Over Dogma in Agile Teams
 description: Explores the dangers of dogmatism in Agile, highlighting the need for flexibility, pragmatism, and people-focused adaptation over rigid rule-following in teams.
 date: 2023-12-28T08:40:54Z
 weight: 1000
@@ -45,7 +45,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:06:46Z
-  short_title: 2025-06-23T12:38:44Z
+  short_title: 2025-07-07T17:50:35Z
 
 ---
 In the world of Agile, one ghost that haunts us is dogma. If you've been in Agile long enough, you've probably encountered those dogmatic individuals who cling to a rigid set of beliefs, refusing to adapt or consider the actual data, feedback, or experiences of the people around them. These folks? They need to be shown the door 🚪. Agile is about flexibility, adaptation, and collaboration—dogma has no place here.

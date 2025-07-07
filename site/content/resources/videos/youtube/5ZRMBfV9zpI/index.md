@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Your Potential: Transformative Training for Aspiring Scrum Masters'
+short_title: Scrum Master Training for Aspiring Leaders
 description: Comprehensive Scrum Master training offering interactive workshops, practical activities, community support, and assessment to build Agile skills and foster continuous improvement.
 date: 2022-07-27T18:45:17Z
 weight: 665
+ResourceId: 5ZRMBfV9zpI
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-your-potential-transformative-training-for-aspiring-scrum-masters
 aliases:
 - /resources/5ZRMBfV9zpI
@@ -22,9 +26,6 @@ tags:
 - Scrum Master
 - Software Development
 - Competence
-ResourceId: 5ZRMBfV9zpI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 5ZRMBfV9zpI
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:48Z
+  short_title: 2025-07-07T17:57:24Z
 
 ---
 As I reflect on my journey in the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I often find myself drawn back to the transformative power of effective training. Recently, I had the pleasure of facilitating a workshop designed for those eager to embark on or enhance their careers as Scrum Masters. This experience reinforced my belief in the importance of a solid foundation in Scrum theory and principles.

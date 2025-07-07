@@ -1,8 +1,14 @@
 ---
 title: 'Evidence-based Management: Gathering the metrics'
+short_title: 'Evidence-Based Management: Key Metrics Guide'
 description: Explains how to gather key metrics for evidence-based management in software organisations, focusing on value delivery, time to market, and ability to innovate.
 date: 2020-12-30
 weight: 360
+ResourceId: mK5twHwVcIg
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: evidence-based-management-gathering-the-metrics
 aliases:
 - /blog/evidence-based-management-gathering-metrics
@@ -39,11 +45,6 @@ tags:
 - Current Value
 - Time to Market
 - Agile Frameworks
-ResourceId: mK5twHwVcIg
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 10528
 AudioNative: true
@@ -53,6 +54,7 @@ resourceTypes: blog
 preview: naked-agility-evidence-based-management-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:15:07Z
+  short_title: 2025-07-07T17:57:39Z
 
 ---
 Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and I have a number of customers that are fretting on what to collect and from where. Here I try to create an understanding of the 'what' that we need to collect.

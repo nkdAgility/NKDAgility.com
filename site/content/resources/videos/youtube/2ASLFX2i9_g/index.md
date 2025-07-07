@@ -1,6 +1,6 @@
 ---
 title: '7 deadly sins of Agile: Gluttony'
-short_title: How Can Agile Teams Avoid Overloading Backlogs and Sprints?
+short_title: '7 Deadly Sins of Agile: Gluttony'
 description: Explores how Agile teams can avoid overloading backlogs, Sprints, and products by focusing on prioritisation, value delivery, and lean, effective practices.
 date: 2023-10-11T11:35:09Z
 weight: 505
@@ -51,7 +51,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:08:54Z
-  short_title: 2025-06-23T12:40:37Z
+  short_title: 2025-07-07T17:52:32Z
 
 ---
 ## Mastering Agility: Steering Clear of the Gluttony Trap in Agile and [Scrum]({{< ref "/categories/scrum" >}}) 🌟 

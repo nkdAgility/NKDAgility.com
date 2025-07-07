@@ -1,6 +1,6 @@
 ---
 title: How do you decide whether to pivot or stay the course? (Nokia story)
-short_title: How do Product Owners decide to pivot or persevere?
+short_title: Deciding to Pivot or Persevere in Agile
 description: Explores how product owners make critical decisions to pivot or persevere in Agile projects, balancing data, instinct, feedback, and adaptability for success.
 date: 2023-09-13T13:59:54Z
 weight: 690
@@ -43,7 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:34Z
-  short_title: 2025-06-23T12:41:12Z
+  short_title: 2025-07-07T17:53:06Z
 
 ---
 ## The Role of the [Product Owner]({{< ref "/tags/product-owner" >}}): Navigating the Agile Seas 🌊 

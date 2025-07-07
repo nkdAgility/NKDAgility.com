@@ -1,6 +1,6 @@
 ---
 title: Every delay in decision-making taxes your organisation future
-short_title: Is Slow Decision-Making Hurting Your Organisation?
+short_title: Decision-Making Delays Hurt Organisations
 description: Delays in decision-making hinder organisational growth, reduce competitiveness, and allow opportunities to slip away due to bureaucracy and slow approval processes.
 date: 2025-04-22T15:30:43+01:00
 weight: 725
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:17Z
-  short_title: 2025-06-23T12:13:57Z
+  short_title: 2025-07-07T16:44:43Z
 concepts: []
 categories:
 - Leadership

@@ -1,6 +1,6 @@
 ---
 title: How to Tackle the Challenge of an Ineffective Product Owner in Agile Teams
-short_title: How Can Agile Teams Address an Ineffective Product Owner?
+short_title: Dealing with Ineffective Product Owners in Agile
 description: Learn practical steps for Agile teams to address ineffective Product Owners, including support, education, relationship-building, and fostering team excellence for better outcomes.
 date: 2023-10-27T14:30:10Z
 weight: 665
@@ -44,7 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:16Z
-  short_title: 2025-06-23T12:40:02Z
+  short_title: 2025-07-07T17:52:03Z
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've encountered a recurring challenge: what to do when the [Product Owner]({{< ref "/tags/product-owner" >}}) is ineffective or, dare I say, incompetent. It’s a strong word, but I’ve met many Product Owners who fit this description, either because they lack the necessary skills or because their organisation doesn’t empower them to fulfil their role effectively. The outcomes are often the same: a team struggling to deliver value and a product that misses the mark.

@@ -1,31 +1,32 @@
 ---
 title: What is the most common mistake in sprint planning?
+short_title: Most Common Mistake in Sprint Planning
 description: Explains the sprint goal in Scrum as a clear, tactical objective for each sprint, guiding team focus, enabling actionable feedback, and linking daily work to product vision.
 date: 2023-05-25T14:00:20Z
 weight: 840
-slug: what-is-the-most-common-mistake-in-sprint-planning
-aliases:
-  - /resources/JVZzJZ5q0Hw
-  - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
-aliasesArchive:
-  - /resources/what-is-the-most-common-mistake-in-sprint-planning
-  - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
-  - /resources/what-is-the-most-common-mistake-in-sprint-planning-
-  - /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
-concepts:
-  - Framework
-categories:
-  - Scrum
-  - Product Development
-tags:
-  - Agile Product Management
-  - Professional Scrum
-  - Software Development
-  - Agile Frameworks
-  - Product Delivery
 ResourceId: JVZzJZ5q0Hw
 ResourceImport: true
 ResourceType: videos
+slug: what-is-the-most-common-mistake-in-sprint-planning
+aliases:
+- /resources/JVZzJZ5q0Hw
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+aliasesArchive:
+- /resources/what-is-the-most-common-mistake-in-sprint-planning
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
+- /resources/what-is-the-most-common-mistake-in-sprint-planning-
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning
+concepts:
+- Framework
+categories:
+- Scrum
+- Product Development
+tags:
+- Agile Product Management
+- Professional Scrum
+- Software Development
+- Agile Frameworks
+- Product Delivery
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: JVZzJZ5q0Hw
@@ -39,11 +40,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
-  - video
+- video
 Watermarks:
   description: 2025-05-07T13:12:11Z
----
+  short_title: 2025-07-07T17:55:03Z
 
+---
 ## What's a Sprint Goal and Why Does It Matter?
 
 I think it's essential to ask what a sprint goal is and look deeper into why it matters.

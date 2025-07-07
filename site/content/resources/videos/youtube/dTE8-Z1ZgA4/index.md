@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Agile Mastery: How the Minecraft Case Study Transforms Training and Team Dynamics'
-short_title: How Does Minecraft Improve Agile Training and Teamwork?
+short_title: Agile Training with Minecraft Case Study
 description: Discover how using a Minecraft-based case study enhances Agile training by boosting engagement, illustrating complexity, and improving team collaboration in real-world scenarios.
 date: 2023-08-29T07:00:14Z
 weight: 1000
@@ -39,7 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:48Z
-  short_title: 2025-06-23T12:41:27Z
+  short_title: 2025-07-07T17:53:19Z
 
 ---
 When it comes to Agile training, I’ve had the privilege of working with some truly exceptional trainers, but Simon stands out as one of the best in the field. His dedication to delivering high-quality training in Agile [Product Strategy]({{< ref "/tags/product-strategy" >}}) (APS) is evident in everything he does. One of his standout contributions is the Minecraft case study he developed for the Enterprise Product Strategy (EPS) programme. 

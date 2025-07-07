@@ -1,8 +1,12 @@
 ---
 title: What is the hardest part of working with a brand-new scrum team?
+short_title: Hardest Part of Working With New Scrum Teams
 description: The biggest challenge with new scrum teams is overcoming misconceptions about scrum and shifting focus from process mechanics to core agile principles and empirical learning.
 date: 2023-02-03T07:00:00Z
 weight: 450
+ResourceId: -xMY9Heanjk
+ResourceImport: true
+ResourceType: videos
 slug: what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 aliases:
 - /resources/-xMY9Heanjk
@@ -30,9 +34,6 @@ tags:
 - Scrum Master
 - Scrum Team
 - Coaching
-ResourceId: -xMY9Heanjk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: -xMY9Heanjk
@@ -49,6 +50,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:14:15Z
+  short_title: 2025-07-07T17:56:54Z
 
 ---
 What is the hardest part of working with a brand-new [scrum]({{< ref "/categories/scrum" >}}) team?

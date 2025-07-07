@@ -1,8 +1,12 @@
 ---
 title: What is the Single Most Valuable Outcome a Consulting Engagement Can Produce?
+short_title: Systemic Change as the Key Consulting Outcome
 description: The most valuable outcome of a consulting engagement is achieving systemic change—transforming organisational behaviours, systems, and culture for lasting business impact.
 date: 2023-06-20T07:00:10Z
 weight: 1000
+ResourceId: RLxGdd7nEZE
+ResourceImport: true
+ResourceType: videos
 slug: what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 aliases:
 - /resources/RLxGdd7nEZE
@@ -17,9 +21,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: RLxGdd7nEZE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: RLxGdd7nEZE
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:28Z
+  short_title: 2025-07-07T17:54:31Z
 
 ---
 ## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change

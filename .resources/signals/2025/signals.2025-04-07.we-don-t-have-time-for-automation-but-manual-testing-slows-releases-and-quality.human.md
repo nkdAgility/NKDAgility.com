@@ -1,6 +1,6 @@
 ---
 title: We don’t have time for automation—but manual testing slows releases and quality
-short_title: Is Manual Testing Slowing Your Releases and Quality?
+short_title: Manual Testing vs Automation in Releases
 description: Manual testing limits release speed and quality, while automation enables faster, more reliable software delivery by reducing regressions and tester workload.
 date: 2025-04-07T15:30:01+01:00
 weight: 310
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:39Z
-  short_title: 2025-06-23T12:14:17Z
+  short_title: 2025-07-07T16:45:00Z
 concepts:
 - Practice
 categories:

@@ -1,6 +1,6 @@
 ---
 title: A great backlog isn’t just a list of tasks
-short_title: Is Your Backlog Driving Product Strategy or Just Tasks?
+short_title: A Great Backlog Is More Than Task Lists
 description: Learn how an effective backlog guides product strategy, prioritises value, and supports decision-making, rather than serving as a simple list of tasks or ideas.
 date: 2025-04-13T15:30:17+01:00
 weight: 670
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:31Z
-  short_title: 2025-06-23T12:14:10Z
+  short_title: 2025-07-07T16:44:54Z
 concepts:
 - Strategy
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'Say-Do Metrics: Avoiding Agile Banditry in Your Organization'
-short_title: Are Say-Do Metrics Harming Agile Outcomes?
+short_title: 'Say-Do Metrics: Risks and Outcome Focus in Agile'
 description: Explains the risks of using say-do metrics in Agile, highlighting how they encourage vanity metrics, harm psychological safety, and shift focus from outcomes to outputs.
 date: 2024-01-05T07:00:28Z
 weight: 480
@@ -53,7 +53,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:37Z
-  short_title: 2025-06-23T12:38:36Z
+  short_title: 2025-07-07T17:50:26Z
 
 ---
 In Agile environments, there’s often a temptation to rely on metrics that seem to offer clarity and control over a project’s progress. One such metric is the "say-do" metric, which measures what a team says they will do versus what they actually accomplish. While this may appear useful on the surface, it's often a slippery slope that leads to vanity metrics, reduced [psychological safety]({{< ref "/tags/psychological-safety" >}}), and, ultimately, a focus on outputs rather than outcomes.

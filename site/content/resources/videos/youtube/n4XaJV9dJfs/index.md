@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Complexity in Scrum: Transform Your Team with Agile Product Strategy Insights'
-short_title: How Can Scrum Teams Master Complexity and Adaptation?
+short_title: Mastering Complexity in Scrum and Agile Strategy
 description: Learn how understanding complexity, empiricism, and key Scrum principles like transparency, inspection, and adaptation can boost Agile team effectiveness and product strategy.
 date: 2023-11-15T07:00:28Z
 weight: 690
@@ -46,7 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:51Z
-  short_title: 2025-06-23T12:39:43Z
+  short_title: 2025-07-07T17:51:45Z
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one of the most enlightening experiences has been teaching the Agile [Product Strategy]({{< ref "/tags/product-strategy" >}}) (APS) class to beginner Scrum teams. The most valuable takeaway for these teams is undoubtedly the grounding in understanding complexity and empiricism. Today, I want to share my insights on why these concepts are crucial and how they can transform your approach to Scrum.

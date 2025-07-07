@@ -1,6 +1,6 @@
 ---
 title: What are the barriers that prevent developers from fully accepting a Product Owner as the final decision maker?
-short_title: What Stops Developers Accepting Product Owner Authority?
+short_title: Barriers to Accepting Product Owner Authority
 description: Explores key barriers preventing developers from accepting Product Owners’ authority, including accountability gaps, stakeholder interference, and trust issues.
 date: 2023-10-03T07:00:08Z
 weight: 790
@@ -40,7 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:03Z
-  short_title: 2025-06-23T12:40:45Z
+  short_title: 2025-07-07T17:52:37Z
 
 ---
 ## Bridging the Gap Between Developers and Product Owners 🌉 

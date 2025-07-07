@@ -1,8 +1,14 @@
 ---
 title: Hiring a Professional Product Owner
+short_title: Hiring a Professional Product Owner
 description: Explains the key accountabilities, skills, and behaviours required for a Scrum Product Owner, including hiring trends, role requirements, and practical job specifications.
 date: 2021-05-17
 weight: 750
+ResourceId: Stln5As7Fof
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: hiring-a-professional-product-owner
 aliases:
 - /blog/hiring-a-professional-product-owner
@@ -28,11 +34,6 @@ tags:
 - Product Delivery
 - Value Delivery
 - Pragmatic Thinking
-ResourceId: Stln5As7Fof
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 46138
 AudioNative: true
@@ -57,6 +58,7 @@ resourceTypes: blog
 preview: image-3-3.png
 Watermarks:
   description: 2025-05-07T13:14:56Z
+  short_title: 2025-07-07T17:57:30Z
 
 ---
 One of my customers is asking me about the accountabilities of a [Product Owner]({{< ref "/tags/product-owner" >}}) and how they break down. While I had seen many things around the [Scrum]({{< ref "/categories/scrum" >}}) Master for my post on [Hiring a Professional Scrum Master](https://nkdagility.com/blog/hiring-a-professional-scrum-master/), this was a little bit more of a discovery session, which is why I asked some of my trusted colleagues at Scrum.org to help out.

@@ -1,6 +1,6 @@
 ---
 title: 'Scrum Masters: Enabling Teams, Fostering Agility, Removing Blockers'
-short_title: What Is the Scrum Master’s Accountability for Delivery?
+short_title: 'Scrum Masters: Enabling Teams & Agility'
 description: Explains the Scrum Master's role in ensuring team delivery by fostering agility, removing blockers, and being accountable for improving team effectiveness each sprint.
 date: 2025-03-05T16:30:00+00:00
 weight: 345
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:31Z
-  short_title: 2025-06-23T12:15:00Z
+  short_title: 2025-07-07T16:45:36Z
 concepts:
 - Accountability
 categories:

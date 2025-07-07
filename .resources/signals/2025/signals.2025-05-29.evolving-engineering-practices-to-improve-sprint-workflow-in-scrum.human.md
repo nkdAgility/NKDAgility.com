@@ -1,6 +1,6 @@
 ---
 title: Evolving Engineering Practices to Improve Sprint Workflow in Scrum
-short_title: How Can Engineering Practices Improve Scrum Sprints?
+short_title: Evolving Engineering Practices in Scrum
 description: Learn how evolving engineering practices like Feature Flags, TDD, and refactoring enable smoother Sprint workflows and reduce technical debt in Scrum teams.
 date: 2025-05-29T15:30:45+01:00
 weight: 220
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:48Z
-  short_title: 2025-06-23T12:13:21Z
+  short_title: 2025-07-07T16:43:53Z
 concepts:
 - Practice
 categories:

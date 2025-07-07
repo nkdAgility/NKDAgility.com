@@ -1,8 +1,12 @@
 ---
 title: What Does an Ineffective Scrum Master's Day Look Like?
+short_title: Ineffective Scrum Master Daily Behaviours
 description: Describes common behaviours of an ineffective Scrum Master, including excessive reporting, poor team engagement, misusing daily Scrums, and blocking team communication.
 date: 2023-06-20T12:00:28Z
 weight: 1000
+ResourceId: KjSRjkK6OL0
+ResourceImport: true
+ResourceType: videos
 slug: what-does-an-ineffective-scrum-master's-day-look-like
 aliases:
 - /resources/KjSRjkK6OL0
@@ -19,9 +23,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: KjSRjkK6OL0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: KjSRjkK6OL0
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:26Z
+  short_title: 2025-07-07T17:54:30Z
 
 ---
 ## Spotting an Ineffective [Scrum]({{< ref "/categories/scrum" >}}) Master's Day

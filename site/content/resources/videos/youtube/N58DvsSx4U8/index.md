@@ -1,8 +1,12 @@
 ---
 title: What is your favourite DevOps consulting outcome?
+short_title: 'DevOps Transformation: Unifying 80+ Teams Globally'
 description: A complex software project unified 80+ teams across 9 countries by adopting Azure DevOps, streamlining processes, and achieving a single engineering system.
 date: 2023-04-18T07:00:08Z
 weight: 390
+ResourceId: N58DvsSx4U8
+ResourceImport: true
+ResourceType: videos
 slug: what-is-your-favourite-devops-consulting-outcome
 aliases:
 - /resources/N58DvsSx4U8
@@ -21,9 +25,6 @@ tags:
 - Pragmatic Thinking
 - One Engineering System
 - Software Development
-ResourceId: N58DvsSx4U8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: N58DvsSx4U8
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:12Z
+  short_title: 2025-07-07T17:55:53Z
 
 ---
 ## A Journey to [DevOps]({{< ref "/categories/devops" >}}) Success

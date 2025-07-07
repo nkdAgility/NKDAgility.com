@@ -1,6 +1,6 @@
 ---
 title: How to Set and Achieve Effective Sprint Goals
-short_title: How do you set and achieve effective Sprint Goals in Scrum?
+short_title: Effective Sprint Goals in Scrum
 description: Learn how to define, craft, and achieve effective Sprint Goals in Scrum, using frameworks like SMART and OKR to align teams, deliver value, and improve accountability.
 date: 2023-09-29
 weight: 665
@@ -49,7 +49,7 @@ resourceTypes: blog
 preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:09:09Z
-  short_title: 2025-06-23T12:40:50Z
+  short_title: 2025-07-07T17:52:45Z
 
 ---
 Many teams grapple with the intricacies of [Scrum]({{< ref "/categories/scrum" >}}), and one of the most pivotal components is the Sprint Goal. It's not just a fleeting thought or a mere list of tasks; it's a commitment, a promise, and a clear direction.

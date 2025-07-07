@@ -1,6 +1,6 @@
 ---
 title: Most Common Thing You Hear in a PSM 1 Course?
-short_title: How Do Real-World Pressures Affect Scrum Integrity?
+short_title: Most Common Phrase in PSM 1 Courses
 description: Explores the common challenge in PSM 1 courses of balancing real-world pressures with maintaining honesty, transparency, and moral integrity in Agile and Scrum practices.
 date: 2023-06-28T11:00:24Z
 weight: 1000
@@ -40,7 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:11Z
-  short_title: 2025-06-23T12:42:29Z
+  short_title: 2025-07-07T17:54:17Z
 
 ---
 ## "But in the Real World..."

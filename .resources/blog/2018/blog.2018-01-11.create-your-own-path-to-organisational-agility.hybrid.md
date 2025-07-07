@@ -1,16 +1,17 @@
 ---
 title: Create your own path to Organisational Agility
+short_title: Create Your Own Path to Organisational Agility
 description: Learn how to achieve organisational agility by tailoring change to your unique context, building a guiding coalition, and engaging all stakeholders in continuous improvement.
 date: 2018-01-11
 weight: 290
-slug: create-your-own-path-to-organisational-agility
-aliases:
-- /resources/RdwxVidD26i
 ResourceId: RdwxVidD26i
 ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 ResourceType: blog
+slug: create-your-own-path-to-organisational-agility
+aliases:
+- /resources/RdwxVidD26i
 ResourceContentOrigin: Hybrid
 ResourceImportId: 11214
 creator: Martin Hinshelwood
@@ -47,6 +48,7 @@ tags:
 preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 Watermarks:
   description: 2025-05-07T13:16:22Z
+  short_title: 2025-07-07T17:58:38Z
 
 ---
 Other scaled [agile frameworks]({{< ref "/tags/agile-frameworks" >}}) employ a cookie-cutter approach to [organisational agility]({{< ref "/tags/organisational-agility" >}}). While I accept that they may have worked somewhere once, the likelihood that the same approach will work in your organisation is small. They were created to get a unique company from their existing state to their personal vision of where they wanted to be. To increase the likelihood of success you need a framework that guides you to change your organisation in an incremental and custom fashion towards your own vision. Cookie-cutter approaches will not work for you.

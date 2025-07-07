@@ -1,6 +1,6 @@
 ---
 title: Where is consensus valuable and where does it kill great product development?
-short_title: When Does Consensus Help or Hinder Product Development?
+short_title: 'Consensus in Product Development: When It Helps or Hurts'
 description: Explores when consensus helps or hinders product development, highlighting the need to balance collaboration, leadership, trust, and timely decision-making.
 date: 2023-09-25T07:00:08Z
 weight: 840
@@ -42,7 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:20Z
-  short_title: 2025-06-23T12:41:01Z
+  short_title: 2025-07-07T17:52:55Z
 
 ---
 ## Understanding the Dynamics of Consensus 🤔 

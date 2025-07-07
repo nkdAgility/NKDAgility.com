@@ -1,6 +1,6 @@
 ---
 title: 'Transform Your Career: How to Become a Confident Scrum Master Through Real-World Learning and Community Support'
-short_title: How Can You Build Confidence as a Scrum Master?
+short_title: How to Become a Confident Scrum Master
 description: Learn how practical training, real-world application, and community support help you build confidence and skills to succeed as a Scrum Master in Agile environments.
 date: 2023-07-13T07:41:01Z
 weight: 690
@@ -48,7 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:49Z
-  short_title: 2025-06-23T12:42:10Z
+  short_title: 2025-07-07T17:53:59Z
 
 ---
 When I think about the journey of becoming a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often reflect on the transformative experiences that shape our understanding and application of Agile principles. One of the most significant aspects of this journey is the immediate ability to put theory into practice. From the very first session of my training, participants are not just passive learners; they are actively engaged in identifying and addressing real issues within their organisations. 

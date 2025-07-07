@@ -1,8 +1,12 @@
 ---
 title: How does scrum help leadership teams pick the most valuable work to focus on?
+short_title: How Scrum Supports Leadership Decision-Making
 description: Scrum highlights issues and provides feedback for leadership teams but does not select valuable work; leaders must set priorities and use scrum to validate decisions.
 date: 2023-02-10T07:15:02Z
 weight: 665
+ResourceId: bpBhREVX85o
+ResourceImport: true
+ResourceType: videos
 slug: how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 aliases:
 - /resources/bpBhREVX85o
@@ -17,9 +21,6 @@ concepts: []
 categories:
 - Product Development
 tags: []
-ResourceId: bpBhREVX85o
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: bpBhREVX85o
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:09Z
+  short_title: 2025-07-07T17:56:50Z
 
 ---
 How does [scrum]({{< ref "/categories/scrum" >}}) help [leadership]({{< ref "/categories/leadership" >}}) teams pick the most valuable work to focus on?

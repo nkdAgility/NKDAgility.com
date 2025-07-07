@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Product Ownership: Unlocking the Secrets to Effective Product Management in Agile Teams'
-short_title: What Makes an Effective Product Owner in Agile Teams?
+short_title: Mastering Product Ownership in Agile Teams
 description: Explores the vital role of product ownership in agile teams, highlighting key skills, challenges, and strategies for effective product management and team success.
 date: 2023-09-05T07:00:12Z
 weight: 1000
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:41Z
-  short_title: 2025-06-23T12:41:18Z
+  short_title: 2025-07-07T17:53:12Z
 
 ---
 One of my favourite classes to teach is the [Product Owner]({{< ref "/tags/product-owner" >}}) class. It used to be known as the APS class, but I felt a change was necessary. The reason for this shift is simple: I’ve observed that the most significant gap in organisations and teams today is effective [product management]({{< ref "/categories/product-management" >}}). 

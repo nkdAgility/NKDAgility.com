@@ -1,8 +1,12 @@
 ---
 title: What would you advise a scrum team to do in their first 4 weeks?
+short_title: Scrum Team Best Practices for First 4 Weeks
 description: Guidance for new scrum teams on establishing effective practices, learning from experience, experimenting, and improving during their first four weeks with scrum.
 date: 2023-02-16T07:00:01Z
 weight: 640
+ResourceId: 2I3S32Sk8-c
+ResourceImport: true
+ResourceType: videos
 slug: what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 aliases:
 - /resources/2I3S32Sk8-c
@@ -27,9 +31,6 @@ tags:
 - Scrum Team
 - Scrum Master
 - Agile Frameworks
-ResourceId: 2I3S32Sk8-c
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 2I3S32Sk8-c
@@ -46,6 +47,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:14:04Z
+  short_title: 2025-07-07T17:56:45Z
 
 ---
 What would you advise a [scrum]({{< ref "/categories/scrum" >}}) team to do in their first 4 weeks?

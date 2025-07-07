@@ -1,8 +1,12 @@
 ---
 title: 'Debunking the Scrum Myth: Why "Twice the Work in Half the Time" is a Misleading Promise'
+short_title: Debunking the Scrum "Twice the Work" Myth
 description: Explores why Scrum's "twice the work in half the time" claim is misleading, emphasising value over output and the importance of realistic expectations in Agile teams.
 date: 2023-02-02T07:00:13Z
 weight: 1000
+ResourceId: e7L0NFYUFSw
+ResourceImport: true
+ResourceType: videos
 slug: debunking-the-scrum-myth-why-twice-the-work-in-half-the-time-is-a-misleading-promise
 aliases:
 - /resources/e7L0NFYUFSw
@@ -21,9 +25,6 @@ categories:
 tags:
 - Agile Product Management
 - Customer Focus
-ResourceId: e7L0NFYUFSw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: e7L0NFYUFSw
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:17Z
+  short_title: 2025-07-07T17:56:55Z
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) and the Myth of "Twice the Work in Half the Time"

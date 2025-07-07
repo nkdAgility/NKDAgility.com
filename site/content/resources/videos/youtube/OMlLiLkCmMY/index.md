@@ -1,6 +1,6 @@
 ---
 title: 'Engaging Your Team: The Secret to Successful Organisational Change'
-short_title: How Does Team Engagement Drive Organisational Change?
+short_title: Engaging Teams for Organisational Change
 description: Learn how involving, empowering, and communicating with your team drives successful organisational change by fostering shared goals, trust, and a culture of engagement.
 date: 2023-12-04T11:00:23Z
 weight: 1000
@@ -44,7 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:18Z
-  short_title: 2025-06-23T12:39:15Z
+  short_title: 2025-07-07T17:51:20Z
 
 ---
 In my journey through [organisational change]({{< ref "/tags/organisational-change" >}}), I've come to realise that the key to success lies not just in the strategies we implement, but in how we engage the people within our organisations. Change can be daunting, and if we want to navigate it effectively, we must involve our teams in the narrative. 

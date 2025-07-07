@@ -1,13 +1,15 @@
 ---
 title: 'Mastering Site Reliability: Insights from Azure DevOps on Building a Resilient Live Site Culture'
+short_title: Mastering Site Reliability with Azure DevOps
 description: Explore proven strategies from Azure DevOps for building resilient, reliable software systems—covering transparency, automation, telemetry, incident response, and team culture.
 date: 2020-06-04T02:05:28Z
 weight: 165
+ResourceId: 5bgcpPqcGlw
+ResourceImport: true
+ResourceType: videos
 slug: mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 aliases:
 - /resources/5bgcpPqcGlw
-- /resources/videos/mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
-- /resources/videos/agile-evolution-live-site-culture-site-reliability-at-azure-devops
 aliasesArchive:
 - /resources/videos/mastering-site-reliability-insights-from-azure-devops-on-building-a-resilient-live-site-culture
 - /resources/videos/agile-evolution-live-site-culture-&-site-reliability-at-azure-devops
@@ -36,9 +38,6 @@ tags:
 - Sociotechnical Systems
 - Technical Debt
 - Technical Excellence
-ResourceId: 5bgcpPqcGlw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 5bgcpPqcGlw
@@ -55,6 +54,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:15:41Z
+  short_title: 2025-07-07T17:58:04Z
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}) and [site reliability engineering]({{< ref "/tags/site-reliability-engineering" >}}), I've come to appreciate the delicate balance between engineering and operations. Today, I want to share insights from my experiences with the Azure [DevOps]({{< ref "/categories/devops" >}}) team at Microsoft, particularly how they foster a live site culture that prioritises reliability while delivering value to customers.

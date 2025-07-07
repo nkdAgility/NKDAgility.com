@@ -1,14 +1,15 @@
 ---
 title: 'Transforming Enterprises: How DevOps Drives Collaboration and Continuous Improvement'
+short_title: How DevOps Transforms Enterprise Collaboration
 description: Explores how DevOps enhances enterprise collaboration, continuous improvement, automation, and customer focus to drive cultural and operational transformation.
 date: 2020-06-16T12:16:52Z
 weight: 1000
+ResourceId: kOgKt8w_hWY
+ResourceImport: true
+ResourceType: videos
 slug: transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
 aliases:
 - /resources/kOgKt8w_hWY
-- /resources/videos/transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement-kOgKt8w_hWY
-- /resources/videos/transforming-enterprises-how-devops-drives-collaboration-and-continuous-improvement
-- /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 aliasesArchive:
 - /resources/videos/live-event-an-enterprise-evolution-that-shows-that-you-can-too
 - /resources/live-event-an-enterprise-evolution-that-shows-that-you-can-too
@@ -20,9 +21,6 @@ categories:
 - DevOps
 tags:
 - Social Technologies
-ResourceId: kOgKt8w_hWY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: kOgKt8w_hWY
@@ -39,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:15:39Z
+  short_title: 2025-07-07T17:58:02Z
 
 ---
 As I prepare for my upcoming talk at Stack Kampf, I find myself reflecting on the transformative power of [DevOps]({{< ref "/categories/devops" >}}) in enterprise environments. It’s a topic that resonates deeply with me, not just because of the technical aspects, but due to the profound impact it can have on [organisational culture]({{< ref "/tags/organisational-culture" >}}) and efficiency.

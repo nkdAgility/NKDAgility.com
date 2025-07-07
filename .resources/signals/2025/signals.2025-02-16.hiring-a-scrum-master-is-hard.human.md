@@ -1,6 +1,6 @@
 ---
 title: Hiring a Scrum Master is hard
-short_title: How do you find and hire an effective Scrum Master?
+short_title: Hiring a Scrum Master is hard
 description: Finding a skilled Scrum Master is challenging; true effectiveness requires deep Scrum knowledge, coaching ability, and alignment with your team's business and technical needs.
 date: 2025-02-16T16:30:01+00:00
 weight: 390
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:56Z
-  short_title: 2025-06-23T12:15:26Z
+  short_title: 2025-07-07T17:46:28Z
 concepts:
 - Accountability
 categories:

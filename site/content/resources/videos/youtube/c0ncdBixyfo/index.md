@@ -1,6 +1,6 @@
 ---
 title: What is the one thing that no Agile team can survive?
-short_title: How Does Contempt Undermine Agile Team Success?
+short_title: Culture of Contempt in Agile Teams
 description: Explores how a culture of contempt undermines Agile teams, its causes, impact on morale and productivity, and practical steps leaders can take to build a positive, inclusive culture.
 date: 2023-10-17T11:00:23Z
 weight: 665
@@ -43,7 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:41Z
-  short_title: 2025-06-23T12:40:25Z
+  short_title: 2025-07-07T17:52:21Z
 
 ---
 # Overcoming the Culture of Contempt in Agile Teams

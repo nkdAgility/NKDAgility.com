@@ -1,8 +1,12 @@
 ---
 title: "Unlocking the Scrum Master's Potential: Embracing Broader Responsibilities for Agile Success"
+short_title: 'Scrum Master: Expanding Organisational Impact'
 description: Explores how Scrum Masters can expand their impact by embracing wider organisational responsibilities, challenging outdated practices, and fostering agile team growth.
 date: 2023-04-27T07:00:00Z
 weight: 640
+ResourceId: 1TaIjFL-0o8
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-the-scrum-master's-potential-embracing-broader-responsibilities-for-agile-success
 aliases:
 - /resources/1TaIjFL-0o8
@@ -26,9 +30,6 @@ tags:
 - Scrum Team
 - Agile Frameworks
 - Software Development
-ResourceId: 1TaIjFL-0o8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 1TaIjFL-0o8
@@ -45,6 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:59Z
+  short_title: 2025-07-07T17:55:43Z
 
 ---
 In my experience teaching the Professional [Scrum]({{< ref "/categories/scrum" >}}) Master II (PSM2) course, I've encountered a recurring theme that resonates deeply with participants: the epiphanies that emerge during our discussions. While there are several insights that attendees gain, the most common epiphany often revolves around the role of the [Scrum Master]({{< ref "/tags/scrum-master" >}}) and the broader implications of their responsibilities.

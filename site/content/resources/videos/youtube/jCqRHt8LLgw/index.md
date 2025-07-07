@@ -1,14 +1,15 @@
 ---
 title: 'Rethinking Agile: Why Story Points, Team Sizes, and Emergent Architecture Need a Fresh Perspective'
+short_title: Rethinking Story Points, Team Size & Architecture
 description: Explores the limitations of story points, optimal team sizes, and the benefits of emergent architecture for improving agile practices and team performance.
 date: 2020-05-13T05:03:57Z
 weight: 1000
-slug: rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
-aliases:
-- /resources/jCqRHt8LLgw
 ResourceId: jCqRHt8LLgw
 ResourceImport: true
 ResourceType: videos
+slug: rethinking-agile-why-story-points-team-sizes-and-emergent-architecture-need-a-fresh-perspective
+aliases:
+- /resources/jCqRHt8LLgw
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: jCqRHt8LLgw
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:15:44Z
+  short_title: 2025-07-07T17:58:06Z
 
 ---
 Welcome back to my blog! Today, I want to share some insights from my recent office hours, where I tackled a few pressing questions about agile practices, particularly around story points, team sizes, and emergent architecture. These topics are crucial for anyone looking to enhance their understanding of agile methodologies and improve their team's performance.

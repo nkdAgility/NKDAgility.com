@@ -1,6 +1,6 @@
 ---
 title: Agile Training versus Agile Consulting
-short_title: 'Agile Training vs Consulting: What’s the Key Difference?'
+short_title: Agile Training vs Agile Consulting
 description: Compares Agile training, which builds broad organisational knowledge, with Agile consulting, which delivers targeted solutions to specific business challenges.
 date: 2023-09-07T07:00:08Z
 weight: 1000
@@ -35,7 +35,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:37Z
-  short_title: 2025-06-23T12:41:16Z
+  short_title: 2025-07-07T17:53:09Z
 
 ---
 ## Why Both Are Hard-Hitting but in Different Ways

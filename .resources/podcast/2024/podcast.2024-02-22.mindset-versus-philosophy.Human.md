@@ -1,20 +1,22 @@
 ---
 title: Mindset Versus Philosophy
+short_title: Mindset vs Philosophy in Agile Language
 description: Explores how precise language and context shape transparency and understanding in Agile, highlighting why word choice matters for effective communication and collaboration.
 date: 2024-02-22
 weight: 1000
-slug: mindset-versus-philosophy
-aliases:
-- /resources/G2XUaCtiq8w
 ResourceId: G2XUaCtiq8w
 ResourceImport: false
 ResourceType: podcast
+slug: mindset-versus-philosophy
+aliases:
+- /resources/G2XUaCtiq8w
 ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:05:39Z
+  short_title: 2025-07-07T17:49:39Z
 concepts: []
 categories:
 - Uncategorized

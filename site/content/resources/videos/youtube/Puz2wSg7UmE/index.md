@@ -1,6 +1,6 @@
 ---
 title: How to Measure Your Organization's Ability to Improve Value Through Innovation
-short_title: How Can You Measure and Improve Organizational Innovation?
+short_title: Measuring and Improving Innovation Capability
 description: Learn how to assess and improve your organisation’s innovation capability using evidence-based management and key metrics like technical debt, innovation rate, and complexity.
 date: 2024-01-25T11:00:18Z
 weight: 355
@@ -51,7 +51,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:13Z
-  short_title: 2025-06-23T12:38:16Z
+  short_title: 2025-07-07T17:50:06Z
 
 ---
 In today's fast-paced business environment, organizations are constantly seeking ways to improve the value they deliver. But how can you truly know if your organization is effective at doing so? The answer lies in understanding your **organizational capability** and, more specifically, your **[ability to innovate]({{< ref "/tags/ability-to-innovate" >}})**. In this blog post, we’ll explore how you can leverage evidence-based management to measure and improve your organization's capacity for innovation. We’ll also dive into some key metrics that can help you gauge your progress.

@@ -1,6 +1,6 @@
 ---
 title: 'Rethinking Sprint Planning: Why Burndown Charts Are Agile Banditry and What to Do Instead'
-short_title: Are Burndown Charts Hindering Agile Sprint Planning?
+short_title: Rethinking Sprint Planning Without Burndowns
 description: Explains why burndown charts hinder agile teams, highlighting the pitfalls of detailed upfront planning and advocating for minimal, adaptive Sprint planning and continuous flow.
 date: 2024-01-09T07:00:05Z
 weight: 665
@@ -42,7 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:32Z
-  short_title: 2025-06-23T12:38:32Z
+  short_title: 2025-07-07T17:50:22Z
 
 ---
 A common practice I observe among agile teams is the reliance on burndown charts to gauge progress throughout a Sprint. However, I must confess, I view burndowns as a form of agile banditry. The premise of a burndown chart is that for it to move smoothly from the top left to the bottom right, you must have meticulously planned the entire Sprint upfront. But let’s be honest—when we’re developing products that don’t yet exist, this approach is fundamentally flawed.

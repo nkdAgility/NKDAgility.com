@@ -1,8 +1,12 @@
 ---
 title: What is a Sprint Backlog?
+short_title: What is a Sprint Backlog?
 description: Explains the Sprint Backlog as a transparent, flexible plan in Scrum, combining goals, tasks, and strategy to help teams stay focused, adaptable, and successful in Agile work.
 date: 2023-05-29T12:01:04Z
 weight: 1000
+ResourceId: T-K7HC-ZGjM
+ResourceImport: true
+ResourceType: videos
 slug: what-is-a-sprint-backlog
 aliases:
 - /resources/T-K7HC-ZGjM
@@ -23,9 +27,6 @@ tags:
 - Professional Scrum
 - Software Development
 - Agile Frameworks
-ResourceId: T-K7HC-ZGjM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: T-K7HC-ZGjM
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:08Z
+  short_title: 2025-07-07T17:55:00Z
 
 ---
 ## Interpreting the Sprint Backlog

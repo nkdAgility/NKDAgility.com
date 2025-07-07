@@ -1,8 +1,12 @@
 ---
 title: Biggest contribution from a Product Owner that you know of
+short_title: Product Owner Impact on Agile at Microsoft
 description: Explores how visionary Product Owners at Microsoft drove Agile transformation, shortened feedback cycles, and reshaped product development culture and industry standards.
 date: 2023-06-13T11:32:18Z
 weight: 480
+ResourceId: 2IuL2Qvvbfk
+ResourceImport: true
+ResourceType: videos
 slug: biggest-contribution-from-a-product-owner-that-you-know-of
 aliases:
 - /resources/2IuL2Qvvbfk
@@ -30,9 +34,6 @@ tags:
 - Product Owner
 - Organisational Culture
 - Sociotechnical Systems
-ResourceId: 2IuL2Qvvbfk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 2IuL2Qvvbfk
@@ -49,6 +50,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:11:41Z
+  short_title: 2025-07-07T17:54:42Z
 
 ---
 When discussing the impactful role of Product Owners in Agile development, we often cite examples of those who've significantly turned the tide in their organisations. I'm talking about not just fulfilling roles but altering the very fabric of [product management]({{< ref "/categories/product-management" >}}) - these are the MVPs who redefine the game. 🌟 

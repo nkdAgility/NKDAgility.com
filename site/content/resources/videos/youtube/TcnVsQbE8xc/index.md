@@ -1,6 +1,6 @@
 ---
 title: Reasons to do a PSM II Course in 60 seconds
-short_title: Why Take the PSM II Course? Key Benefits Explained
+short_title: Reasons to Do a PSM II Course in 60 Seconds
 description: Discover how the PSM II course deepens Scrum Master skills, boosts team performance, supports product owners, and advances agile careers with practical, real-world benefits.
 date: 2023-07-12T14:00:30Z
 weight: 665
@@ -38,7 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:52Z
-  short_title: 2025-06-23T12:42:13Z
+  short_title: 2025-07-07T17:54:02Z
 
 ---
 ## 🕒 Think a Minute Isn’t Much?  

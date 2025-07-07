@@ -1,24 +1,26 @@
 ---
 title: What does your dream agile consulting week look like?
+short_title: Dream Agile Consulting Week with APS
+description: Discover how the Applied Professional Scrum (APS) approach helps teams identify and remove ineffective practices, strengthen core Scrum principles, and drive agile transformation.
 date: 2023-04-11T07:00:00Z
 weight: 1000
-slug: what-does-your-dream-agile-consulting-week-look-like
-aliases:
-  - /resources/aathsp3IMfg
-  - /resources/videos/what-does-your-dream-agile-consulting-week-look-like
-aliasesArchive:
-  - /resources/what-does-your-dream-agile-consulting-week-look-like
-  - /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
-  - /resources/what-does-your-dream-agile-consulting-week-look-like-
-  - /resources/videos/what-does-your-dream-agile-consulting-week-look-like
-concepts: []
-categories:
-  - Product Development
-tags:
-  - Scrum Master
 ResourceId: aathsp3IMfg
 ResourceImport: true
 ResourceType: videos
+slug: what-does-your-dream-agile-consulting-week-look-like
+aliases:
+- /resources/aathsp3IMfg
+- /resources/videos/what-does-your-dream-agile-consulting-week-look-like
+aliasesArchive:
+- /resources/what-does-your-dream-agile-consulting-week-look-like
+- /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
+- /resources/what-does-your-dream-agile-consulting-week-look-like-
+- /resources/videos/what-does-your-dream-agile-consulting-week-look-like
+concepts: []
+categories:
+- Product Development
+tags:
+- Scrum Master
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: aathsp3IMfg
@@ -32,11 +34,12 @@ sitemap:
   filename: sitemap.xml
   priority: 0.6
 resourceTypes:
-  - video
+- video
 Watermarks:
-  description: 2025-05-07T13:13:16Z
----
+  description: 2025-07-07T17:55:57Z
+  short_title: 2025-07-07T17:55:58Z
 
+---
 ## Empowering Teams with the APS Approach: Elevating Your [Scrum]({{< ref "/categories/scrum" >}}) Journey
 
 In the dynamic and ever-evolving realm of Scrum, where teams and organisations strive to harness their full potential, the Applied [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) (APS) stands out as a guiding light for authentic Scrum Mastery.  💡

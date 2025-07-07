@@ -1,6 +1,6 @@
 ---
 title: Why is Lego a shit idea for a Scrum Trainer - Part 1
-short_title: Is Using Lego Effective in Scrum Training?
+short_title: Why Lego Fails in Scrum Training
 description: Explores why using Lego in Scrum training can undermine professionalism, dilute key concepts, and disengage senior participants, urging more context-appropriate methods.
 date: 2023-10-02T11:00:28Z
 weight: 1000
@@ -36,7 +36,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:04Z
-  short_title: 2025-06-23T12:40:46Z
+  short_title: 2025-07-07T17:52:38Z
 
 ---
 ## Debunking the Lego Approach 

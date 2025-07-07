@@ -1,8 +1,12 @@
 ---
 title: How would you like to be remembered as a Professional Scrum Trainer?  What 3 things matter most to you?
+short_title: 'Professional Scrum Trainer: Values & Legacy'
 description: 'Shares the top three values guiding a Professional Scrum Trainer: integrity, honesty, and approachability, with a focus on transparency, truth, and helpful support.'
 date: 2023-04-19T07:00:06Z
 weight: 1000
+ResourceId: Dl5v4j1f-WE
+ResourceImport: true
+ResourceType: videos
 slug: how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-what-3-things-matter-most-to-you
 aliases:
 - /resources/Dl5v4j1f-WE
@@ -22,9 +26,6 @@ categories:
 - Scrum
 tags:
 - Personal
-ResourceId: Dl5v4j1f-WE
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Dl5v4j1f-WE
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:11Z
+  short_title: 2025-07-07T17:55:52Z
 
 ---
 ## My Professional [Scrum]({{< ref "/categories/scrum" >}}) Trainer Legacy: What Matters Most to Me?

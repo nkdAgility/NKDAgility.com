@@ -1,5 +1,6 @@
 ---
 title: 'Beyond Training: How NKD Agility’s Mentorship Model Transformed a Product Management Team Across Borders'
+short_title: Mentorship Model Transformed Product Team
 description: A cross-border product team overcame misalignment and role confusion through immersive mentorship, boosting collaboration, engineering engagement, and agile delivery.
 date: 2025-06-02
 weight: 115
@@ -9,11 +10,11 @@ ResourceType: case-studies
 slug: mentorship-model-transformed-a-product-management-team
 aliases:
 - /resources/L7cngB1uzW9
-short_title: Mentorship Model Transformed a Product Management Team
 ResourceContentOrigin: human
 draft: false
 Watermarks:
   description: 2025-06-16T11:50:58Z
+  short_title: 2025-07-07T16:43:48Z
 concepts:
 - Accountability
 categories:
@@ -52,7 +53,7 @@ The initial request was standard: product owner training. But Martin Hinshelwood
 
 Martin quickly identified systemic dysfunction:
 
-- \*\*A lack of shared understanding about what a Product Owner actually \*\***_does_**: Roles had titles, but little clarity on responsibilities, decision-making rights, or how success was measured. This confusion crippled prioritization and value delivery.
+- **A lack of shared understanding about what a Product Owner actually _does_**: Roles had titles, but little clarity on responsibilities, decision-making rights, or how success was measured. This confusion crippled prioritization and value delivery.
 - **Engineers disconnected from the business domain**: Developers in Poland were building features for the UK insurance market without understanding its regulatory nuances or customer expectations. This lack of context led to misaligned solutions.
 - **Misaligned priorities across geographies**: Product management in the UK and development in Poland were operating on different assumptions and uncoordinated timelines, leading to delivery friction and rework.
 - **Teams stuck between command-and-control habits and agile aspirations**: The organization wanted agility but was still making centralized decisions and enforcing control structures that prevented real empowerment.
@@ -63,7 +64,7 @@ This wasn’t about introducing a new framework. It was about re-engineering how
 
 Over 8 weeks, Martin delivered a customized mentorship experience combining:
 
-- **Core product management concepts from** [Scrum.org](http://scrum.org/ "http://Scrum.org"): Grounding the team in a shared language and foundation of modern product thinking.
+- **Core product management concepts from** [Scrum.org](http://Scrum.org): Grounding the team in a shared language and foundation of modern product thinking.
 - **Real-world examples and mirrors from other organizations**: Helping participants see that their challenges weren’t unique—and that other teams had overcome them.
 - **Weekly assignments to apply new practices inside real work**: Instead of theory, the team had to apply what they learned inside their backlog, sprints, and stakeholder conversations.
 - **Live coaching and feedback loops**: Each week provided space for reflection, challenge, and iteration—not just learning, but *changing*.

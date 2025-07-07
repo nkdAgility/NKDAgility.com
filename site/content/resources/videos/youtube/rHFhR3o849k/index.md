@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Greatness: How the Right Scrum Master Transforms Teams and Organisations'
+short_title: How the Right Scrum Master Transforms Teams
 description: Explores how an effective Scrum Master drives team success by fostering team fit, addressing organisational barriers, and building relationships to enable lasting change.
 date: 2023-03-13T07:00:19Z
 weight: 665
+ResourceId: rHFhR3o849k
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-greatness-how-the-right-scrum-master-transforms-teams-and-organisations
 aliases:
 - /resources/rHFhR3o849k
@@ -25,9 +29,6 @@ tags:
 - Scrum Team
 - Sociotechnical Systems
 - Pragmatic Thinking
-ResourceId: rHFhR3o849k
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: rHFhR3o849k
@@ -44,6 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:43Z
+  short_title: 2025-07-07T17:56:26Z
 
 ---
 When it comes to defining what makes a truly great [Scrum]({{< ref "/categories/scrum" >}}) Master, I find myself grappling with a rather complex question. The answer is not straightforward; it’s deeply circumstantial. The effectiveness of a [Scrum Master]({{< ref "/tags/scrum-master" >}}) can vary significantly depending on the organisation and the team dynamics. You might have an individual who excels in one environment but struggles in another simply because the fit isn’t right. 

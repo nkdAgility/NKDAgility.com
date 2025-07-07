@@ -1,8 +1,14 @@
 ---
 title: Become the leader that you were meant to to be
+short_title: Become the Leader You Were Meant to Be
 description: Explores the shift from traditional management to leadership focused on inspiration, effectiveness, and servant leadership, with insights for Scrum Masters and modern organisations.
 date: 2021-02-04
 weight: 640
+ResourceId: -Oo9b3G-8Zw
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: become-the-leader-that-you-were-meant-to-to-be
 aliases:
 - /blog/become-the-leader-that-you-were-meant-to-to-be
@@ -17,11 +23,6 @@ concepts: []
 categories:
 - Leadership
 tags: []
-ResourceId: -Oo9b3G-8Zw
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 45806
 AudioNative: true
@@ -31,6 +32,7 @@ resourceTypes: blog
 preview: image-2-2.png
 Watermarks:
   description: 2025-05-07T13:15:00Z
+  short_title: 2025-07-07T17:57:34Z
 
 ---
 [Leadership]({{< ref "/categories/leadership" >}}) is not about control, but about inspiring those around you.

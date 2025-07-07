@@ -1,6 +1,6 @@
 ---
 title: Scrum is not an engineering process
-short_title: Is Scrum an Engineering Process or a Social Framework?
+short_title: Scrum Is Not an Engineering Process
 description: Explains why Scrum is a social framework, not just engineering, emphasizing inclusive training, alignment, collaboration, and breaking command-and-control mindsets for true agility.
 date: 2025-05-21T15:30:39+01:00
 weight: 550
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:56Z
-  short_title: 2025-06-23T12:13:27Z
+  short_title: 2025-07-07T16:44:03Z
 concepts:
 - Framework
 categories:

@@ -1,14 +1,15 @@
 ---
 title: How to Build for Business Resilience and Continuity
+short_title: How to Build for Business Resilience
 description: Learn key strategies for building business resilience and continuity, including observability, system decoupling, routine deployments, team empowerment, and rapid recovery.
 date: 2025-05-26T09:00:00Z
 weight: 165
-slug: how-to-build-for-business-resilience-and-continuity
-aliases:
-- /resources/VThLnxVapgJ
 ResourceId: VThLnxVapgJ
 ResourceImport: false
 ResourceType: blog
+slug: how-to-build-for-business-resilience-and-continuity
+aliases:
+- /resources/VThLnxVapgJ
 ResourceContentOrigin: hybrid
 aliasesArchive:
 - /how-to-build-for-business-resilience-and-continuity
@@ -31,6 +32,7 @@ tags:
 - Continuous Delivery
 Watermarks:
   description: 2025-05-07T12:49:05Z
+  short_title: 2025-07-07T16:43:58Z
 
 ---
 Business resilience is not an accident. It is the deliberate outcome of intelligent systems design, pragmatic decision-making, and organisational discipline. If you want resilience, you must build for it—**upfront, consistently, and aggressively**.

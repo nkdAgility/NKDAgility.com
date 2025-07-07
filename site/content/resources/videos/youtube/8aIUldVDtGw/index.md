@@ -1,6 +1,6 @@
 ---
 title: 'Stop Starting and Start Finishing: The Key to Team Success'
-short_title: How Does Limiting Work in Progress Boost Team Productivity?
+short_title: Stop Starting, Start Finishing for Teams
 description: Multitasking reduces team productivity. Learn how focusing on finishing tasks, limiting work in progress, and value-based prioritisation boosts efficiency and business value.
 date: 2024-01-31T14:26:11Z
 weight: 440
@@ -54,7 +54,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:05Z
-  short_title: 2025-06-23T12:38:10Z
+  short_title: 2025-07-07T17:50:02Z
 
 ---
 In today's fast-paced business environment, there's often a misconception that the more tasks we juggle, the more productive we are. However, as many successful teams have realized, this couldn't be further from the truth. A popular quote from [Lean]({{< ref "/categories/lean" >}}) methodology sums it up perfectly: **"Stop starting and start finishing."** This philosophy emphasizes the importance of focusing on completing work, rather than constantly starting new tasks.

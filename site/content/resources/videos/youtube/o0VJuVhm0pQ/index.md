@@ -1,8 +1,12 @@
 ---
 title: In high competition markets, how does scrum product development help acquire and retain customers?
+short_title: Scrum for Customer Acquisition and Retention
 description: Explains how Scrum supports customer acquisition and retention in competitive markets by enabling rapid delivery, feedback, and continuous improvement, but not guaranteeing success.
 date: 2023-02-13T07:00:21Z
 weight: 540
+ResourceId: o0VJuVhm0pQ
+ResourceImport: true
+ResourceType: videos
 slug: in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
 aliases:
 - /resources/o0VJuVhm0pQ
@@ -24,9 +28,6 @@ tags:
 - Empirical Process Control
 - Software Development
 - Pragmatic Thinking
-ResourceId: o0VJuVhm0pQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: o0VJuVhm0pQ
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:08Z
+  short_title: 2025-07-07T17:56:48Z
 
 ---
 In high competition markets, how does [scrum]({{< ref "/categories/scrum" >}}) [product development]({{< ref "/categories/product-development" >}}) help acquire and retain customers?

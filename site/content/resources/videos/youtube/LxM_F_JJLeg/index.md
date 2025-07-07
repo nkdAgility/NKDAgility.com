@@ -1,6 +1,6 @@
 ---
 title: 'Transforming Agile: How to Shift from Blame to Systemic Solutions for Better Team Dynamics'
-short_title: How Can Shifting from Blame to Systems Improve Agile Teams?
+short_title: Shifting from Blame to Systemic Solutions in Agile
 description: Explores how shifting from blame to addressing systemic issues and measurement systems can improve team dynamics, collaboration, and agility in software development.
 date: 2023-09-29T07:00:14Z
 weight: 665
@@ -48,7 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:08Z
-  short_title: 2025-06-23T12:40:49Z
+  short_title: 2025-07-07T17:52:44Z
 
 ---
 I often find myself reflecting on a saying that resonates deeply with my experiences in the agile world: "Don't attribute to malevolence what can be explained by incompetence." This phrase has become a guiding principle for me, especially when navigating the complexities of organisational dynamics as an agile coach, [Scrum]({{< ref "/categories/scrum" >}}) Master, or [product owner]({{< ref "/tags/product-owner" >}}).

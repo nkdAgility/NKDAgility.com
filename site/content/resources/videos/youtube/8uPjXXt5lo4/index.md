@@ -1,8 +1,12 @@
 ---
 title: What is the most valuable thing you have learned through training people?
+short_title: Universal Challenges in Agile and Scrum Training
 description: Training people worldwide reveals that organisations face similar challenges when adopting agile and scrum, highlighting the universal nature of change and shared solutions.
 date: 2023-02-07T07:00:06Z
 weight: 1000
+ResourceId: 8uPjXXt5lo4
+ResourceImport: true
+ResourceType: videos
 slug: what-is-the-most-valuable-thing-you-have-learned-through-training-people
 aliases:
 - /resources/8uPjXXt5lo4
@@ -22,9 +26,6 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 - Personal
-ResourceId: 8uPjXXt5lo4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 8uPjXXt5lo4
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:13Z
+  short_title: 2025-07-07T17:56:52Z
 
 ---
 What is the most valuable thing you have learned through training people?

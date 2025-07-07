@@ -1,15 +1,16 @@
 ---
 title: Most Rewarding Part of Being a Scrum Developer?
+short_title: Most Rewarding Part of Being a Scrum Developer
 description: Scrum developers find the most reward in creating meaningful, impactful solutions that matter to people, driving passion, creativity, and purpose in their work.
 date: 2023-06-23T11:00:09Z
 weight: 1000
+ResourceId: F0jOj6ql330
+ResourceImport: true
+ResourceType: videos
 slug: most-rewarding-part-of-being-a-scrum-developer
 aliases:
 - /resources/F0jOj6ql330
 - /resources/videos/most-rewarding-part-of-being-a-scrum-developer-F0jOj6ql330
-ResourceId: F0jOj6ql330
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: F0jOj6ql330
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:19Z
+  short_title: 2025-07-07T17:54:22Z
 
 ---
 ## The Joy of Being a [Scrum]({{< ref "/categories/scrum" >}}) Developer

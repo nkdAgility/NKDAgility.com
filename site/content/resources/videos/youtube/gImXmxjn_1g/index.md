@@ -1,8 +1,12 @@
 ---
 title: 'Essential Skills Every Agile Consultant Needs: Mastering Domain Knowledge, Active Listening, and Honest Communication'
+short_title: Essential Skills for Agile Consultants
 description: 'Covers key skills for agile consultants: mastering domain knowledge, practising active listening, and communicating honestly to drive transparency and effective organisational change.'
 date: 2023-04-14T07:00:24Z
 weight: 1000
+ResourceId: gImXmxjn_1g
+ResourceImport: true
+ResourceType: videos
 slug: essential-skills-every-agile-consultant-needs-mastering-domain-knowledge-active-listening-and-honest-communication
 aliases:
 - /resources/gImXmxjn_1g
@@ -20,9 +24,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: gImXmxjn_1g
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: gImXmxjn_1g
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:14Z
+  short_title: 2025-07-07T17:55:55Z
 
 ---
 As I reflect on my journey as an agile consultant, I often find myself thinking about the essential skills that can make or break your effectiveness in this role. Whether you're just starting out or looking to refine your approach, here are my top three tips for new agile consultants that I believe can set you on the right path.
