@@ -1,6 +1,6 @@
 ---
 title: 'Understanding the Difference: Traditional Management vs. Evidence-Based Management'
-short_title: 'Traditional vs. Evidence-Based Management: What’s the Difference?'
+short_title: Traditional vs. Evidence-Based Management
 description: Explains how traditional management relies on authority and intuition, while evidence-based management uses data, analysis, and meaningful metrics for better decisions.
 date: 2024-09-12T07:00:02Z
 weight: 1000
@@ -44,7 +44,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T12:58:31Z
-  short_title: 2025-06-23T12:36:15Z
+  short_title: 2025-07-07T17:48:14Z
 
 ---
 ## **What Is Traditional Management?**

@@ -1,6 +1,6 @@
 ---
 title: Why is Lego a shit idea for a Scrum trainer - Part 2
-short_title: Does Using Lego Oversimplify Scrum Training Complexity?
+short_title: Why Lego Fails in Scrum Training (Part 2)
 description: Explains why using Lego in Scrum training oversimplifies real-world software complexity, leading to unrealistic expectations and missing key integration challenges.
 date: 2023-10-04T11:24:58Z
 weight: 1000
@@ -36,7 +36,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:02Z
-  short_title: 2025-06-23T12:40:44Z
+  short_title: 2025-07-07T17:52:37Z
 
 ---
 ## Confronting Complexity 

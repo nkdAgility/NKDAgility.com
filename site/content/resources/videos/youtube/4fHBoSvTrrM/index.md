@@ -1,8 +1,12 @@
 ---
 title: How will a PSM II course challenge your assumptions the most?
+short_title: How PSM II Challenges Scrum Master Assumptions
 description: Explores how the PSM II course challenges common misconceptions about Scrum Masters, emphasising advanced skills, team empowerment, and evolving Scrum practices.
 date: 2023-04-03T07:00:03Z
 weight: 665
+ResourceId: 4fHBoSvTrrM
+ResourceImport: true
+ResourceType: videos
 slug: how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 aliases:
 - /resources/4fHBoSvTrrM
@@ -22,9 +26,6 @@ categories:
 tags:
 - Scrum Master
 - Professional Scrum
-ResourceId: 4fHBoSvTrrM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 4fHBoSvTrrM
@@ -41,6 +42,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:13:24Z
+  short_title: 2025-07-07T17:56:06Z
 
 ---
 ## PSM II: The Game-Changer for [Scrum]({{< ref "/categories/scrum" >}}) Masters

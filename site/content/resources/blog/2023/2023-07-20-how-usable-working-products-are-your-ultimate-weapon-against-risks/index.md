@@ -1,6 +1,6 @@
 ---
 title: How Usable Working Products Are Your Ultimate Weapon Against Risks
-short_title: How Does Delivering Usable Products Reduce Agile Risk?
+short_title: Usable Working Products Reduce Agile Risks
 description: Delivering usable, working products frequently is key to reducing risk in Agile. Focus on feedback, automation, and lean practices over excessive documentation.
 date: 2023-07-20
 weight: 360
@@ -46,7 +46,7 @@ resourceTypes: blog
 preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:36Z
-  short_title: 2025-06-23T12:42:05Z
+  short_title: 2025-07-07T17:53:53Z
 
 ---
 It baffles me how some agile teams, who claim to be the pioneers of modernity, are living in archaic times where usable working products are as rare as unicorns! Just a heads-up, my dear agile practitioners: the linchpin of Agile is a Usable Working Product. Yes, you read it right!

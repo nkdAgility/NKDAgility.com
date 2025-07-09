@@ -8,14 +8,14 @@ $categoriesCatalog = Get-CatalogHashtable -Classification "categories"
 $tagsCatalog = Get-CatalogHashtable -Classification "tags"
 
 $descriptionDateWatermark = [DateTime]::Parse("2025-05-07T12:36:48Z")
-$shortTitleDateWatermark = [DateTime]::Parse("2025-05-07T12:36:48Z")
+$shortTitleDateWatermark = [DateTime]::Parse("2025-07-06T09:00:00Z")
 
 # Date by which we remove all Aliases
 $ResourceAliasExpiryDate = (Get-Date).Date.AddYears(-5)
 
 Start-TokenServer
 
-$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\guides" -YearsBack 10
+$hugoMarkdownObjects = Get-RecentHugoMarkdownResources -Path ".\site\content\resources\" -YearsBack 10
 
 Write-InformationLog "Processing ({count}) HugoMarkdown Objects." -PropertyValues ($hugoMarkdownObjects.Count)
 ### /FILTER hugoMarkdownObjects
@@ -84,6 +84,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
             $promptText = Get-Prompt -PromptName "content-short-title.md" -Parameters @{
                 title    = $hugoMarkdown.FrontMatter.Title
                 abstract = $hugoMarkdown.FrontMatter.description
+                slug     = $hugoMarkdown.FrontMatter.slug
                 content  = $hugoMarkdown.BodyContent
             }
             $shortTitle = Get-OpenAIResponse -Prompt $promptText

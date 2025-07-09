@@ -1,6 +1,6 @@
 ---
 title: 'Quotes: "I estimate that 75% of those organisations using Scrum will not succeed in getting the benefits that they hope for from it." - Ken Schwaber'
-short_title: Why Do Most Organisations Fail With Scrum Adoption?
+short_title: Why Most Organisations Fail with Scrum
 description: Most organisations fail to achieve Scrum’s promised benefits due to focusing on team processes over holistic, organisation-wide change and an agile mindset.
 date: 2023-10-06T07:00:16Z
 weight: 690
@@ -45,7 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:00Z
-  short_title: 2025-06-23T12:40:41Z
+  short_title: 2025-07-07T17:52:35Z
 
 ---
 ## The Reality of [Scrum]({{< ref "/categories/scrum" >}}) Adoption 🤔  

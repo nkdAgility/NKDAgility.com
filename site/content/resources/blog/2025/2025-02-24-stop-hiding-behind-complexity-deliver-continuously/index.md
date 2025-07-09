@@ -1,6 +1,6 @@
 ---
 title: Stop Hiding Behind Complexity and Start Delivering Continuously
-short_title: Can Any Software Team Achieve Continuous Delivery?
+short_title: Continuous Delivery for Complex Software
 description: Continuous delivery is achievable for any software, regardless of complexity. Success depends on investment in automation, quality, and process improvement—not technical barriers.
 date: 2025-02-24T09:00:00
 weight: 155
@@ -55,7 +55,7 @@ platform_signals:
   post_type: crosspost
 Watermarks:
   description: 2025-05-07T12:49:30Z
-  short_title: 2025-06-23T12:34:13Z
+  short_title: 2025-07-07T17:46:10Z
 
 ---
 Every organisation says their software is 'too complex' for [continuous delivery]({{< ref "/tags/continuous-delivery" >}}). That's nonsense. Complexity is an excuse, not a blocker. [Azure DevOps]({{< ref "/tags/azure-devops" >}}), Starbucks, and countless others proved it wrong. The only real obstacle is the resistance to invest in fixing what’s broken. Complexity is an excuse, not a blocker. Microsoft proved it. Starbucks proved it. You can too; if you’re willing to put in the time, effort, and money.

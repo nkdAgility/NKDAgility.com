@@ -1,6 +1,6 @@
 ---
 title: Building a culture of Quality
-short_title: How Can You Build a Culture of Quality in Teams?
+short_title: Building a Culture of Quality
 description: Explores how fostering a culture of quality and engineering excellence across teams leads to better, safer products, highlighting the impact of leadership and shared values.
 date: 2024-11-22T07:00:08Z
 weight: 150
@@ -46,7 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:08Z
-  short_title: 2025-06-23T12:35:21Z
+  short_title: 2025-07-07T17:47:30Z
 
 ---
 # Building a culture of quality | Martin Hinshelwood  

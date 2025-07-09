@@ -1,6 +1,6 @@
 ---
 title: 'Rethinking Budgeting: How to Break Free from Traditional Constraints and Maximise Value'
-short_title: How Can Beyond Budgeting Improve Agility and Value?
+short_title: Rethinking Budgeting to Maximise Value
 description: Explores the limitations of traditional budgeting and explains how flexible, value-driven approaches like Beyond Budgeting can improve agility, innovation, and resource use.
 date: 2024-12-09T06:30:00Z
 weight: 1000
@@ -46,7 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:56:51Z
-  short_title: 2025-06-23T12:35:06Z
+  short_title: 2025-07-07T17:47:15Z
 
 ---
 In the world of traditional budgeting, we often find ourselves entrenched in a cycle that feels more like a battleground than a strategic planning session. Each year, we gather around the table, armed with our spreadsheets and projections, ready to fight for our share of the budget pie. It’s a familiar scene: departments squabbling over funds, each vying for the largest slice, knowing that if they don’t spend their allocated budget, they risk losing it the following year. 

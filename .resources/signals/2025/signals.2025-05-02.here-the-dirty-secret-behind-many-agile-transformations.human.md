@@ -1,6 +1,6 @@
 ---
 title: Here the dirty secret behind many agile transformations
-short_title: Are Agile Transformations Limiting Team Autonomy?
+short_title: The Dirty Secret of Agile Transformations
 description: Many agile transformations restrict team autonomy, leading to control and compliance instead of true ownership, adaptability, and meaningful engagement in value delivery.
 date: 2025-05-02T15:30:32+01:00
 weight: 340
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:04Z
-  short_title: 2025-06-23T12:13:45Z
+  short_title: 2025-07-07T16:44:31Z
 concepts:
 - Principle
 categories:

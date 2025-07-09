@@ -1,6 +1,6 @@
 ---
 title: 'Ditch the Agile Bandit Mentality: How to Prioritise Value Over Estimates for Team Success'
-short_title: How Can Agile Teams Prioritise Value Over Estimates?
+short_title: Prioritising Value Over Estimates in Agile
 description: Explores why focusing on value delivery and psychological safety leads to better Agile team outcomes than fixating on estimates, output metrics, or blame culture.
 date: 2024-01-05T11:00:32Z
 weight: 665
@@ -53,7 +53,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:36Z
-  short_title: 2025-06-23T12:38:35Z
+  short_title: 2025-07-07T17:50:25Z
 
 ---
 In the world of Agile, I often encounter a troubling trend that I like to call the "Agile Bandit" mentality. If you find yourself fixated on metrics such as original estimates versus actuals, it’s time for a serious rethink. This approach not only undermines the very principles of Agile but also diminishes the [psychological safety]({{< ref "/tags/psychological-safety" >}}) of your team. 

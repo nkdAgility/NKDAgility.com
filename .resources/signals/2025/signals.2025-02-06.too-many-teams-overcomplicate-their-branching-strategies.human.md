@@ -1,6 +1,6 @@
 ---
 title: Too many teams overcomplicate their branching strategies
-short_title: How Can Simple Branching Strategies Improve Delivery?
+short_title: Simplifying Branching Strategies for Teams
 description: Learn why simple branching strategies like GitHub Flow and Release Flow help teams deliver faster, reduce risk, and avoid the pitfalls of complex version control.
 date: 2025-02-06T09:38:01+00:00
 weight: 305
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:07Z
-  short_title: 2025-06-23T12:15:40Z
+  short_title: 2025-07-07T17:46:48Z
 concepts:
 - Practice
 categories:

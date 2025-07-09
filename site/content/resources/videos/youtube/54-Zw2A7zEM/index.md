@@ -1,15 +1,16 @@
 ---
 title: Scrum Master versus seasoned Agile Coach?
+short_title: Scrum Master vs Seasoned Agile Coach
 description: Compares the roles of Scrum Master and seasoned Agile Coach, highlighting differences in experience, responsibilities, and impact on organisational Agile adoption.
 date: 2023-06-27T11:00:03Z
 weight: 690
+ResourceId: 54-Zw2A7zEM
+ResourceImport: true
+ResourceType: videos
 slug: scrum-master-versus-seasoned-agile-coach
 aliases:
 - /resources/54-Zw2A7zEM
 - /resources/videos/scrum-master-versus-seasoned-agile-coach-54-Zw2A7zEM
-ResourceId: 54-Zw2A7zEM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 54-Zw2A7zEM
@@ -36,6 +37,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:11:14Z
+  short_title: 2025-07-07T17:54:19Z
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}}) Master vs. Seasoned Agile Coach: What Sets Them Apart?

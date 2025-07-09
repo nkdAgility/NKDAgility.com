@@ -1,20 +1,22 @@
 ---
 title: Agile Alchemy
+short_title: 'Agile Alchemy: Language and Transparency'
 description: This podcast discusses why precise language and transparency are essential in agile practices, highlighting how word choice impacts communication and team effectiveness.
 date: 2023-12-19
 weight: 1000
-slug: agile-alchemy
-aliases:
-- /resources/i2XYfDpX46l
 ResourceId: i2XYfDpX46l
 ResourceImport: false
 ResourceType: podcast
+slug: agile-alchemy
+aliases:
+- /resources/i2XYfDpX46l
 ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:06:50Z
+  short_title: 2025-07-07T17:50:39Z
 concepts: []
 categories:
 - Uncategorized

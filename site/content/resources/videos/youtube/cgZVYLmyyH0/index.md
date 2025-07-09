@@ -1,6 +1,6 @@
 ---
 title: 'Stop Firefighting Bugs: Why Shifting Left Saves Time, Money, and Your Reputation'
-short_title: How Does Shifting Left Prevent Costly Late-Stage Bugs?
+short_title: Shift Left to Prevent Costly Late-Stage Bugs
 description: Stop firefighting late-stage bugs—discover how shifting left saves time, money, and reputation by building quality in from the start. Learn the smarter way.
 date: 2025-06-04T06:00:00Z
 weight: 165
@@ -47,7 +47,7 @@ sitemap:
 ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T20:06:02Z
-  short_title: 2025-06-23T12:33:13Z
+  short_title: 2025-07-07T16:43:45Z
 
 ---
 Patching Defects at the End? You’re Already Too Late

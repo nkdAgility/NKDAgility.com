@@ -1,6 +1,6 @@
 ---
 title: If teams struggle with quality or delivery, the problem is often the system
-short_title: Are team delivery issues caused by system or leadership?
+short_title: System Issues Cause Team Quality Problems
 description: Team issues with quality or delivery often stem from weak systems, lacking clear standards, automation, and leadership support—not just team performance.
 date: 2025-04-02T15:30:05+01:00
 weight: 190
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:45Z
-  short_title: 2025-06-23T12:14:24Z
+  short_title: 2025-07-07T16:45:05Z
 concepts: []
 categories:
 - Engineering Excellence

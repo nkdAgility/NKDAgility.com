@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Caman Strategy: How to Leverage Azure DevOps for Effective Visualisation in Hybrid Work Environments'
-short_title: How Can Azure DevOps Improve Caman Visualisation for Hybrid Teams?
+short_title: Azure DevOps Caman Boards for Hybrid Teams
 description: Learn how to use Azure DevOps to set up and customise Caman boards for clear workflow visualisation, shared rules, and effective work management in hybrid teams.
 date: 2024-03-29T16:42:17Z
 weight: 840
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:22Z
-  short_title: 2025-06-23T12:37:33Z
+  short_title: 2025-07-07T17:49:25Z
 
 ---
 Creating an effective Caman strategy is no small feat, especially in our current hybrid work environment. As we navigate this new landscape, the need for digital tools to share our visualisations has never been more critical. One such tool that I find invaluable is Azure [DevOps]({{< ref "/categories/devops" >}}). Today, I want to share my insights on how to leverage [Azure DevOps]({{< ref "/tags/azure-devops" >}}) to visualise your work as part of a Caman strategy.

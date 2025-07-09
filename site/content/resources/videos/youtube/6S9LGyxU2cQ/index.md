@@ -1,6 +1,6 @@
 ---
 title: "Unlocking Agility: How EPS Immersive Learning Transforms Your Team's Performance"
-short_title: How Does EPS Immersive Learning Boost Team Agility?
+short_title: EPS Immersive Learning for Agile Teams
 description: Discover how EPS immersive learning boosts team agility with structured feedback, coaching, and tailored sessions, driving continuous improvement in real-world settings.
 date: 2023-08-16T07:00:03Z
 weight: 640
@@ -47,7 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:11Z
-  short_title: 2025-06-23T12:41:41Z
+  short_title: 2025-07-07T17:53:32Z
 
 ---
 When it comes to enhancing your team's agility, the question often arises: is the EPS immersive learning experience akin to having a hands-on [Scrum]({{< ref "/categories/scrum" >}}) coach? My answer? Not quite, but it’s pretty close. Let me explain why I believe this immersive approach can be a game-changer for your organisation.

@@ -1,6 +1,6 @@
 ---
 title: Why is Lego a shit idea for a scrum trainer - Part 3
-short_title: Is Lego Effective for Scrum Training or Is Minecraft Better?
+short_title: Lego vs Minecraft for Realistic Scrum Training
 description: Explores why Lego may oversimplify Scrum training, contrasting it with Minecraft’s ability to reflect real-world complexity and collaboration in agile learning environments.
 date: 2023-10-05T07:00:04Z
 weight: 1000
@@ -36,7 +36,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:01Z
-  short_title: 2025-06-23T12:40:42Z
+  short_title: 2025-07-07T17:52:36Z
 
 ---
 ## Finding the Right Balance between Simplicity and Complexity 🧱 

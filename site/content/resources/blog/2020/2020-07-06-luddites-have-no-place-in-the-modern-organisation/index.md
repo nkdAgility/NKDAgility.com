@@ -1,14 +1,17 @@
 ---
 title: Luddites have no place in the modern organisation
+short_title: Luddites and Organisational Agility
 description: Explores how resistance to change and outdated mindsets hinder organisational agility, stressing the need for adaptable, forward-thinking teams in modern business.
 date: 2020-07-06
 weight: 665
+ResourceId: dyxqF7lrHmn
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: luddites-have-no-place-in-the-modern-organisation
 aliases:
-- /blog/luddites-have-no-place-in-the-modern-organisation
-- /luddites-have-no-place-in-the-modern-organisation
 - /resources/dyxqF7lrHmn
-- /resources/blog/luddites-have-no-place-in-the-modern-organisation
 aliasesArchive:
 - /blog/luddites-have-no-place-in-the-modern-organisation
 - /luddites-have-no-place-in-the-modern-organisation
@@ -20,11 +23,6 @@ tags:
 - Organisational Change
 - Organisational Agility
 - Organisational Culture
-ResourceId: dyxqF7lrHmn
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 44507
 creator: Martin Hinshelwood
@@ -33,6 +31,7 @@ resourceTypes: blog
 preview: image-3-3-3.png
 Watermarks:
   description: 2025-05-07T13:15:31Z
+  short_title: 2025-07-07T17:57:55Z
 
 ---
 In our [Professional Agile Leadership training](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-training/), we talk about changing your organisations hiring practices to hire more of the right sort of people to create the company that you want, not the company that you have. Hire the right people also implies that you will have to, within your cultural constraints, de-hire the wrong people.

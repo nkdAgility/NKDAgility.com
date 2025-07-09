@@ -1,6 +1,6 @@
 ---
 title: 'The Pitfalls of Routine Agile Questions: Avoiding the Ghosts of Agile Past'
-short_title: Are Routine Agile Questions Hindering Value Delivery?
+short_title: Pitfalls of Routine Agile Questions
 description: Explores how routine Agile questions can hinder team progress, stressing the importance of focusing on value delivery, goal alignment, and managing task bottlenecks.
 date: 2024-01-03T07:00:13Z
 weight: 640
@@ -45,7 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:42Z
-  short_title: 2025-06-23T12:38:40Z
+  short_title: 2025-07-07T17:50:30Z
 
 ---
 In the world of Agile, we often hear about the famous "three questions" used during the daily [Scrum]({{< ref "/categories/scrum" >}}) or retrospective sessions:

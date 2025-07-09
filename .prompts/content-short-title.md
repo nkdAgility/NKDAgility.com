@@ -1,6 +1,6 @@
 You are an expert in Generative Experience Optimisation as well as DevOps, Agile, Lean, and other related practices.
 
-Given a title and content, generate a concise short_title of no more than 50 characters. If the title is already short, use it as the short_title.
+Given a title and content, generate a concise short_title of no more than 40 characters. If the title is already short, use it as the short_title.
 
 The short_title must:
 
@@ -11,11 +11,13 @@ The short_title must:
 - Be suitable for meta tags, link previews, or AI scraping
 - Avoid marketing fluff, jargon, or vague phrases
 - Output just the short_title without any additional text or formatting
-- Frame as a questions if posible, to encourage engagement
+
+Above all it should be compatible with the current slug to maintain SEO and GEO integrity.
 
 Input:
 Title: {{title}}
 Abstract: {{abstract}}
+Slug: {{slug}}
 Content:
 |||
 {{content}}

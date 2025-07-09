@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Prioritisation: How Product Owners Can Drive Value and Accountability'
-short_title: How Can Product Owners Prioritise for Value and Accountability?
+short_title: Mastering Prioritisation for Product Owners
 description: Explains how Product Owners can use effective prioritisation to maximise value, manage budgets, and build accountability through clear communication and stakeholder engagement.
 date: 2023-11-27T11:00:56Z
 weight: 1000
@@ -43,7 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:29Z
-  short_title: 2025-06-23T12:39:23Z
+  short_title: 2025-07-07T17:51:28Z
 
 ---
 As a [Product Owner]({{< ref "/tags/product-owner" >}}), I often find myself reflecting on the immense responsibility that comes with the role. It’s not just about managing a backlog or prioritising tasks; it’s about being accountable for spending the money wisely. This accountability is a cornerstone of effective product ownership, and it’s something I take very seriously.

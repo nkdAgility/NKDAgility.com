@@ -1,10 +1,69 @@
 [
   {
     "FrontMatter": {
+      "title": "The Importance of Batch to Optimise Flow",
+      "short_title": "Batch Size and Flow Optimisation",
+      "description": "Explains how breaking large tasks into smaller batches improves workflow, predictability, and delivery speed, using hands-on exercises based on queuing theory principles.",
+      "date": "2024-09-17",
+      "weight": 580.0,
+      "ResourceId": "kwS9oPiz-Ny",
+      "ResourceImport": false,
+      "ResourceType": "workshops",
+      "slug": "the-importance-of-batch-to-optimise-flow",
+      "aliases": [
+        "workshops/The-Importance-of-Batch-to-Optimise-Flow.html",
+        "/learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow",
+        "/learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/",
+        "/resources/kwS9oPiz-Ny"
+      ],
+      "aliasesArchive": [
+        "workshops/The-Importance-of-Batch-to-Optimise-Flow.html",
+        "/learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow",
+        "/learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/"
+      ],
+      "concepts": [
+        "Method"
+      ],
+      "categories": [
+        "Product Development"
+      ],
+      "tags": [
+        "Flow Efficiency",
+        "Operational Practices",
+        "Lean Principles",
+        "Lean Thinking"
+      ],
+      "ResourceContentOrigin": "Human",
+      "resourceTypes": "workshop",
+      "layout": "workshop",
+      "creator": "Martin Hinshelwood",
+      "card": {
+        "button": {
+          "content": "Learn More"
+        },
+        "content": "Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!",
+        "title": "The Importance of Batch to Optimise Flow"
+      },
+      "Watermarks": {
+        "description": "2025-05-07T12:58:27Z",
+        "short_title": "2025-07-07T17:48:10Z"
+      }
+    },
+    "BodyContent": "## Duration\n\n60 Minutes\n\n## Purpose\n\nThis workshop is designed to help groups of people realise the effect of breaking down large Backlog Items into smaller pieces of value has on the ability to deliver. This is part of queuing theory!\n\n## Prepared Materials\n\nRead the instructions carefully in the Mural.\n\n- Mural Template: https://app.mural.co/template/19dff71c-2bba-4202-aae0-0662f6310329/ad063642-f4db-4b1f-a23a-c773b3d06083\n\n## Facilitation Steps\n\n### Part 1: A [Scrum]({{< ref \"/categories/scrum\" >}}) Team\n\nFeel free to show your real data, this is a visualization of a typical [scrum team]({{< ref \"/tags/scrum-team\" >}}). Walkthrough each day, asking people what they see, what stands out.\n\n- Day 1: Last two items are leftover from the previous sprint.\n- Day 2: Everything has started\n- Day 4: Everything started, nothing done\n- Day 6: Still everything started, nothing done\n- Day 8: Still everything started, nothing done\n- Day 10: Just in time! Magic\n- Burndown: Looks good, but was it...\n\n### Part 2: Coin Game\n\n- **Round 1 Instructions**\n\n  1.  When the customer starts the timer, the first team member changes the colour of each coin individually to their colour.\n  2.  Once all coins have changed to the relevant colour, then the first team member can move the whole batch to the second team member. The second team member changes the colour of each coin individually to their colour and once all coins have changed, move the coins over to the third team member, and so on.\n  3.  When the last team member is done changing the colour of each coin, he/she passes the full batch back to the customer.\n  4.  The customer stops the time when he/she has received the full batch and add the 'score' to the board on the right.\n\nNote: Before you start, estimate how long it will take to get the full batch of coins from the first team member all the way to the customer. Add your estimate to the board on the right\n\n- **Round 2 Instructions - work in batches of 5**\n\n  1.  When the customer starts the timer, the first team member changes the colour of each coin individually to their colour.\n  2.  Once 5 coins have been changed to the relevant colour, then the first team member can move those 5 coins to the second team member, and starts the next batch of 5 coins and so on. The second team member changes the colour of each coin individually to their colour, and once they have a batch of 5 coins changed, they can move to the third team member, and so on.\n  3.  When the last team member passes the first batch of 5 coins to the customer, the customer writes down the time of arrival of that first batch on the board.\n  4.  When the last team member has passed all the coins to the customer, the customer writes down the time of arrival of the full batch on the board\n\nNote: before you start estimate how long it will take to get the first batch of 5 coins from the first team member all the way to the customer. Additionally, estimate how long you think it will take for the customer to receive all the coins.\n\n- **Round 3 instructions**\n  Make one (and only one) change to the process to make it better (with some exceptions\\*). The goal is to improve the time it takes for the 1st batch to get back to the customer as well as improve the time it takes for all coins to be done. The customer can be a part of the discussion and still tracks two times in this round: time for the first batch and time for all coins.\n\n> \\*Coins can only have their colour changed when in a \"workstation\" square and can only be changed to the colour of that workstation\n> Coin colour can still only be changed one at a time\n> Coins must still pass through each workstation and progress through all the colours\n\n### Part 3: Flow Exercise Debrief & Explore Implications of Batch Size\n\n- Step 1: Debrief the groups.\n- Step 1: Explore Implications of Batch Size\n\n## Takeaways\n\n- Smaller Batches increase your flow which increases your predictability.\n\n## Facilitation Tips\n\n- In-person use coins.\n\n## Useful Files\n\nn/a\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\the-importance-of-batch-to-optimise-flow\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\the-importance-of-batch-to-optimise-flow",
+    "ReferencePath": "resources/workshops/the-importance-of-batch-to-optimise-flow"
+  },
+  {
+    "FrontMatter": {
       "title": "Customer Working Agreement",
+      "short_title": "Customer Working Agreement Workshop",
       "description": "Defines a collaborative workshop to create a Statement of Work and clarify customer and provider responsibilities, agility level, and key commitments for project success.",
       "date": "2024-09-17",
       "weight": 840.0,
+      "ResourceId": "hjlKdneL4t8",
+      "ResourceImport": false,
+      "ResourceType": "workshops",
       "slug": "customer-working-agreement",
       "aliases": [
         "workshops/Customer-Working-Agreement.html",
@@ -25,9 +84,6 @@
         "Scrum"
       ],
       "tags": [],
-      "ResourceId": "hjlKdneL4t8",
-      "ResourceImport": false,
-      "ResourceType": "workshops",
       "ResourceContentOrigin": "Human",
       "resourceTypes": "workshop",
       "layout": "workshop",
@@ -41,68 +97,25 @@
         "title": null
       },
       "Watermarks": {
-        "description": "2025-05-07T12:58:01Z"
+        "description": "2025-05-07T12:58:01Z",
+        "short_title": "2025-07-07T17:48:11Z"
       }
     },
     "BodyContent": "## Customer Working Agreement\n\n### Duration\n\n~60 Minutes\n\n### Purpose\n\nThe Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.\n\n### Prepared Materials\n\n- Item 1\n\n### Facilitation Steps\n\n#### Part 1: [name]\n\n- Step 1\n\n### Takeaways\n\n- Take away 1\n\n### Facilitation Tips\n\n- Tip 1\n\n### Useful Files\n\n# NOTES\n\nDuration\n\nThe Working Agreement would result in both a Statement of Work and agreement on how much agility will be applied to the work. Explicit and transparent options should be presented so that the customer clearly understands what they need to do for us to be successful.\n\nWhile the working agreement should be run as a workshop\n\n- New Signature Promises\n  - Usable [Increment]({{< ref \"/tags/increment\" >}}) - Unable Increment of every Sprint, including the first\n  - Dedicated Team - Dedicated Team of Developers that can turn the requested value into a usable increment\n- Customer promises to:\n  - Provide a [Product Owner]({{< ref \"/tags/product-owner\" >}}): The customer will provide an individual with appropriate expertise and accountability to; develop and explicitly communicating the Product Goal; create and clearly communicate [Product Backlog]({{< ref \"/tags/product-backlog\" >}}) items; order Product Backlog items; and, Ensuring that the Product Backlog is transparent, visible and understood.\n  - Provide Goals – The customer commits to provide; a Product Vision as the Strategic goal, a Product Goal as an Intermediate Strategic Goal, and each sprint a Sprint Goal as an Intermediate Tactical Goal.\n  - Attend a [Sprint Review]({{< ref \"/tags/sprint-review\" >}}) – The Customer agrees that they will provide the necessary attendees for the Sprint Review to allow a Review regarding What has been created and not, Progress towards the Product Goal, Likely release dates, Budget and Progress.\n\nPerhaps we need to look at an early conversation with customers around a working agreement to understand the trade-offs and ramifications…\n\n### Working Agreement Workshop\n\n1. **Agree Type of Work** - Present the Cynefin model and ask customers to specify what sort of work they do.\n2.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\customer-working-agreement\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\customer-working-agreement"
-  },
-  {
-    "FrontMatter": {
-      "title": "Definition of Done",
-      "description": "Explains the Definition of Done, its purpose, key steps, and how to assess when work is complete in agile projects, including practical exercises and takeaways.",
-      "date": "2024-09-17",
-      "weight": 1000.0,
-      "slug": "definition-of-done",
-      "aliases": [
-        "/workshops/Definition-Of-Done.html",
-        "/learn/agile-delivery-kit/workshops/Definition-Of-Done",
-        "/learn/agile-delivery-kit/workshops/definition-of-done/",
-        "/resources/IgRDk1wrh65"
-      ],
-      "aliasesArchive": [
-        "/workshops/Definition-Of-Done.html",
-        "/learn/agile-delivery-kit/workshops/Definition-Of-Done",
-        "/learn/agile-delivery-kit/workshops/definition-of-done/"
-      ],
-      "concepts": [
-        "Method"
-      ],
-      "categories": [
-        "Uncategorized"
-      ],
-      "tags": [
-        "Definition of Done"
-      ],
-      "ResourceId": "IgRDk1wrh65",
-      "ResourceImport": false,
-      "ResourceType": "workshops",
-      "ResourceContentOrigin": "Human",
-      "resourceTypes": "workshop",
-      "layout": "workshop",
-      "creator": "Martin Hinshelwood",
-      "card": {
-        "button": {
-          "content": "Learn More"
-        },
-        "content": "Discover more about  and how it can help you in your Agile journey!",
-        "title": null
-      },
-      "Watermarks": {
-        "description": "2025-05-07T12:58:00Z"
-      }
-    },
-    "BodyContent": "# What is the [Definition of Done]({{< ref \"/tags/definition-of-done\" >}}) (DoD)\n\n## Duration\n\n4h\n\n## Purpose\n\n## Steps\n\n1. Definition of Done Icebreaker - Exercise 10 minutes\n2. What is a Definition of Done? - Teaching Block 10 minutes\n3. How \"Done\" is an [increment]({{< ref \"/tags/increment\" >}})? - Exercise 45 minutes\n4.\n\n## Takeaways\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\definition-of-done\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\definition-of-done"
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\customer-working-agreement",
+    "ReferencePath": "resources/workshops/customer-working-agreement"
   },
   {
     "FrontMatter": {
       "title": "Sprint Review #1",
+      "short_title": "Sprint Review Workshop with Liberating Structures",
       "description": "Guides a 160-minute Sprint Review workshop using Liberating Structures to inspect product progress, gather feedback, and plan next steps for Scrum teams and stakeholders.",
       "date": "2024-09-17",
       "weight": 640.0,
+      "ResourceId": "8gWwC3tvV_f",
+      "ResourceImport": false,
+      "ResourceType": "workshops",
       "slug": "sprint-review-1",
       "aliases": [
         "/workshops/Sprint-Review-1.html",
@@ -139,9 +152,6 @@
         "Value Delivery",
         "Agile Transformation"
       ],
-      "ResourceId": "8gWwC3tvV_f",
-      "ResourceImport": false,
-      "ResourceType": "workshops",
       "resourceTypes": "workshop",
       "layout": "workshop",
       "ResourceContentOrigin": "Human",
@@ -187,46 +197,46 @@
         "title": "Sprint Review #1"
       },
       "Watermarks": {
-        "description": "2025-05-07T12:57:58Z"
+        "description": "2025-05-07T12:57:58Z",
+        "short_title": "2025-07-07T17:48:11Z"
       }
     },
     "BodyContent": "While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).\n\n# Duration\n\n160 Minutes\n\n# Purpose\n\nThe purpose of the [Sprint Review]({{< ref \"/tags/sprint-review\" >}}) is to maintain [transparency]({{< ref \"/tags/transparency\" >}}) of the [Product Backlog]({{< ref \"/tags/product-backlog\" >}}) and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review. Any insights insights, ideas, and changes that result from this inspection should be immediately reflected in the Product Backlog.\n\nThe Sprint Review is about answering the question: “Based on what we learned this Sprint, and what happened in the business, what are the next steps?”. This provides valuable input for Sprint Planning.\n\n# Overview of Flow\n\nThis workshop leverages [Liberating Structures](../_technologies/liberating-structures.md) and consists of the following string:\n\n- After the opening, we'll use [Impromptu Networking](../_technologies/liberating-structures/impromptu-networking.md) to clarify what people are expecting and hoping for during this Sprint Review;\n- We then create an opportunity for inspection of the [increment]({{< ref \"/tags/increment\" >}}) and other relevant topics, together with stakeholders, during a [Shift & Share](../_technologies/liberating-structures/shift-share.md)\n- We use [What, So What, Now What](../_technologies/liberating-structures/what-so-what-now-what.md) to debrief insights from the inspection and identify important adjustments that need to be made;\n- Based on the insights and adjustments resulting from the earlier steps, each person is given the opportunity to formulate personal next steps for how they will support the [Scrum]({{< ref \"/categories/scrum\" >}}) Team during the next Sprint as well as their work together;\n\nAlthough Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the [Product Owner]({{< ref \"/tags/product-owner\" >}}), as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role;\n\n# Prepared Materials\n\n- [Sprint Review 1 Mural Template v0.9](https://app.mural.co/template/3f03d083-58f5-4516-8b1c-052e0fa9e5e1/7af3d399-b077-46c3-9469-0666b0143881)\n\nCreate an instance of the Mural template above and add to it **Product Vision**, **Product Goal**, **[Working Agreements]({{< ref \"/tags/working-agreements\" >}})**, **[Definition of Done]({{< ref \"/tags/definition-of-done\" >}})**, & the **Sprint Goal**.\n\n# Facilitation Steps\n\n## Part 1: Introduction & Working Agreement [20 min] _(Optional)_\n\nWhenever you bring a group of people together, make sure to start by clarifying the purpose of your time together. While also making sure to announce this up front (in invitations and e-mails), start by reiterating the purpose of the Sprint Review (see above) as well as the purpose of this Sprint as captured in a Sprint Goal.\n\n## Part 2: Impromptu Networking [15 min]\n\nIn order to maximize the opportunities for shared learning, we want to the Sprint Review to be a highly interactive and engaging event. That is why we're going to start with Impromptu Networking. This is an excellent Liberating Structure to get the thinking started and clearly signal that interaction is both encouraged and necessary.\n\nIn three rounds, participants partner up with someone else and take 2-minute turns to respond to the following invitation:\n\n**_\"Based on the Sprint Goal, what questions, expectations, and considerations come to mind? What else?\"_**\n\nAs the rounds progress, invite participants to note patterns, similarities, and differences. After the three rounds are completed, ask the group to briefly share the most important patterns they noticed.\n\nThe invitation for [Impromptu Networking](../_technologies/liberating-structures/impromptu-networking.md) specifically ties the conversation to the Sprint Goal. If you find yourself in a [Scrum Team]({{< ref \"/tags/scrum-team\" >}}) without Sprint Goals, you can also ask ‘Based on the Sprint'. But keep in mind that working without Sprint Goals makes it very hard to work empirically and effectively as a Scrum Team.\n\n## Part 3: Shift & Share [40 min]\n\nNow that everyone has had the opportunity to get their thinking started about what they are looking for in the Sprint Review, we can start the inspection. Instead of a presentation or a demo by the Development Team, we instead use a Liberating Structure called Shift & Share.\n\nThere are 3 to 7 stations — depending on the number of participants. Each station focuses on a relevant area of the Increment to be inspected — like a related set of PBI's — or other relevant topics — like release planning, market conditions or product vision. Stations are equipped with whatever devices are helpful to perform an inspection of the product on, like smartphones, tablets, laptops, and specialized hardware. Each station has a host who takes responsibility for starting the conversation, guiding inspection and gathering feedback. Other participants distribute evenly across the stations. Every 7 minutes, the groups rotate to the next station while the hosts remain with their station. Continue until all groups have visited all stations.\n\nThe 7-minute timeboxes are based on our experience. You can increase the time-box if you have fewer stations or when the group agrees that this allows for better inspection, but we recommend against changing the timeboxes in between. A variation you can experiment with is to allow participants to pick a selection of the stations they'd like to visit in a limited number of rounds.\n\n[Shift & Share](../_technologies/technologies/liberating-structures/shift-share.md) is a good approach to shift from statically presenting a “Done”-increment to a more hands-on approach where stakeholders actually explore [working software]({{< ref \"/tags/working-software\" >}}). We usually invite stakeholders to write feedback on special ‘feedback cards' that are available at each station — but this is just one idea on how to gather feedback.\n\n## Part 4: What, So What, Now What [30 min]\n\nAfter inspecting the increment and other relevant topics during the [Shift & Share](../_technologies/technologies/liberating-structures/shift-share.md), now is a good time to make sense of the insights that emerged from this. Instead of a group conversation, we're structuring this interaction with a Liberating Structure that is tailored for debriefing a shared experience; [What, So What, Now What](../_technologies/liberating-structures/what-so-what-now-what.md).\n\nIn small groups, ranging between 4 and 6, participants reflect on what they learned from the Shift & Share and what this means for the Product Backlog and the next Sprint. This is done during three consecutive rounds of sense-making, each starting with a moment of individual reflection followed by a brief 5-minute conversation in the small groups. The invitations for each round are:\n\nRound 1: “What have you seen, heard or observed during the Shift & Share? What facts or patterns stood out the most?”\nRound 2: “So, what does this mean to our work together in this and future Sprints?”\nRound 3: “Now, what adaptations to the Product Backlog or our release plan make sense? What needs to be added, removed or re-ordered?”;\n\nThe invitations for What, So What, Now What are structured so that they focus first on gathering the facts (round 1), then trying to make sense of what they mean (round 2) and finally deciding on the next steps (round 3). This allows our decision to be more based on actual experience and data, and less on personal opinions and judgments. After three rounds, invite the small groups to share their most important findings with the whole group. The Product Owner can adjust the Product Backlog transparently based on insights or capture objectives for the next Sprint. If you have the time, you can do an intermediate debrief with the whole group in between rounds. We do recommend keeping these short to prevent it from turning into a group conversation that goes on-and-on.\n\nIf big topics emerge, you can use 1–2–4-ALL to dig deeper. Or schedule a time during the coming Sprints to work on them if they are not urgent enough to impact the Sprint Review.\n\n## Part 5: 15% Solutions [20 min]\n\nNow that we have identified important objectives for the next Sprint, as well as made necessary adjustments to the Product Backlog, it is time to close with what each participant can contribute individually to their work together. For this, we use a Liberating Structure called [15% Solutions](../_technologies/liberating-structures/15-solutions.md).\n\nIndividually, people take a couple of minutes to write down their action steps according to the following invitation:\n\n“What is your 15% Solution to help advance our work together on this product? What is something you can do without needing approval from someone else or resources you don't have access to?”\n\nWhen everyone is done, give participants the opportunity to briefly share and refine their personal 15% Solutions in small groups of 2–4 participants. We have often found that, by actively engaging everyone with [Liberating Structures]({{< ref \"/tags/liberating-structures\" >}}) like this, people are better able to formulate how they can contribute. Stakeholders may offer to invite other stakeholders, join a refinement workshop with developers or be available for feedback. Optionally, you can collect the 15% Solutions and make them transparent somewhere — for example, next to a Scrum Board.\n\n## Part 6: Closing\n\nClose the Sprint Review by reiterating the purpose as well as the highlights that emerged. This is also an excellent opportunity to thank everyone who participated in the inspection and encourage them to join again for the next Sprint Review.\n",
     "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\sprint-review-1\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\sprint-review-1"
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\sprint-review-1",
+    "ReferencePath": "resources/workshops/sprint-review-1"
   },
   {
     "FrontMatter": {
-      "title": "The Importance of Batch to Optimise Flow",
-      "description": "Explains how breaking large tasks into smaller batches improves workflow, predictability, and delivery speed, using hands-on exercises based on queuing theory principles.",
+      "title": "Definition of Done",
+      "short_title": "Definition of Done in Agile Projects",
+      "description": "Explains the Definition of Done, its purpose, key steps, and how to assess when work is complete in agile projects, including practical exercises and takeaways.",
       "date": "2024-09-17",
-      "weight": 580.0,
-      "slug": "the-importance-of-batch-to-optimise-flow",
+      "weight": 1000.0,
+      "ResourceId": "IgRDk1wrh65",
+      "ResourceImport": false,
+      "ResourceType": "workshops",
+      "slug": "definition-of-done",
       "aliases": [
-        "workshops/The-Importance-of-Batch-to-Optimise-Flow.html",
-        "/learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow",
-        "/learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/",
-        "/resources/kwS9oPiz-Ny"
+        "/workshops/Definition-Of-Done.html",
+        "/learn/agile-delivery-kit/workshops/Definition-Of-Done",
+        "/learn/agile-delivery-kit/workshops/definition-of-done/",
+        "/resources/IgRDk1wrh65"
       ],
       "aliasesArchive": [
-        "workshops/The-Importance-of-Batch-to-Optimise-Flow.html",
-        "/learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow",
-        "/learn/agile-delivery-kit/workshops/the-importance-of-batch-to-optimise-flow/"
+        "/workshops/Definition-Of-Done.html",
+        "/learn/agile-delivery-kit/workshops/Definition-Of-Done",
+        "/learn/agile-delivery-kit/workshops/definition-of-done/"
       ],
       "concepts": [
         "Method"
       ],
       "categories": [
-        "Product Development"
+        "Uncategorized"
       ],
       "tags": [
-        "Flow Efficiency",
-        "Operational Practices",
-        "Lean Principles",
-        "Lean Thinking"
+        "Definition of Done"
       ],
-      "ResourceId": "kwS9oPiz-Ny",
-      "ResourceImport": false,
-      "ResourceType": "workshops",
       "ResourceContentOrigin": "Human",
       "resourceTypes": "workshop",
       "layout": "workshop",
@@ -235,15 +245,17 @@
         "button": {
           "content": "Learn More"
         },
-        "content": "Discover more about The Importance of Batch to Optimise Flow and how it can help you in your Agile journey!",
-        "title": "The Importance of Batch to Optimise Flow"
+        "content": "Discover more about  and how it can help you in your Agile journey!",
+        "title": null
       },
       "Watermarks": {
-        "description": "2025-05-07T12:58:27Z"
+        "description": "2025-05-07T12:58:00Z",
+        "short_title": "2025-07-07T17:48:12Z"
       }
     },
-    "BodyContent": "## Duration\n\n60 Minutes\n\n## Purpose\n\nThis workshop is designed to help groups of people realise the effect of breaking down large Backlog Items into smaller pieces of value has on the ability to deliver. This is part of queuing theory!\n\n## Prepared Materials\n\nRead the instructions carefully in the Mural.\n\n- Mural Template: https://app.mural.co/template/19dff71c-2bba-4202-aae0-0662f6310329/ad063642-f4db-4b1f-a23a-c773b3d06083\n\n## Facilitation Steps\n\n### Part 1: A [Scrum]({{< ref \"/categories/scrum\" >}}) Team\n\nFeel free to show your real data, this is a visualization of a typical [scrum team]({{< ref \"/tags/scrum-team\" >}}). Walkthrough each day, asking people what they see, what stands out.\n\n- Day 1: Last two items are leftover from the previous sprint.\n- Day 2: Everything has started\n- Day 4: Everything started, nothing done\n- Day 6: Still everything started, nothing done\n- Day 8: Still everything started, nothing done\n- Day 10: Just in time! Magic\n- Burndown: Looks good, but was it...\n\n### Part 2: Coin Game\n\n- **Round 1 Instructions**\n\n  1.  When the customer starts the timer, the first team member changes the colour of each coin individually to their colour.\n  2.  Once all coins have changed to the relevant colour, then the first team member can move the whole batch to the second team member. The second team member changes the colour of each coin individually to their colour and once all coins have changed, move the coins over to the third team member, and so on.\n  3.  When the last team member is done changing the colour of each coin, he/she passes the full batch back to the customer.\n  4.  The customer stops the time when he/she has received the full batch and add the 'score' to the board on the right.\n\nNote: Before you start, estimate how long it will take to get the full batch of coins from the first team member all the way to the customer. Add your estimate to the board on the right\n\n- **Round 2 Instructions - work in batches of 5**\n\n  1.  When the customer starts the timer, the first team member changes the colour of each coin individually to their colour.\n  2.  Once 5 coins have been changed to the relevant colour, then the first team member can move those 5 coins to the second team member, and starts the next batch of 5 coins and so on. The second team member changes the colour of each coin individually to their colour, and once they have a batch of 5 coins changed, they can move to the third team member, and so on.\n  3.  When the last team member passes the first batch of 5 coins to the customer, the customer writes down the time of arrival of that first batch on the board.\n  4.  When the last team member has passed all the coins to the customer, the customer writes down the time of arrival of the full batch on the board\n\nNote: before you start estimate how long it will take to get the first batch of 5 coins from the first team member all the way to the customer. Additionally, estimate how long you think it will take for the customer to receive all the coins.\n\n- **Round 3 instructions**\n  Make one (and only one) change to the process to make it better (with some exceptions\\*). The goal is to improve the time it takes for the 1st batch to get back to the customer as well as improve the time it takes for all coins to be done. The customer can be a part of the discussion and still tracks two times in this round: time for the first batch and time for all coins.\n\n> \\*Coins can only have their colour changed when in a \"workstation\" square and can only be changed to the colour of that workstation\n> Coin colour can still only be changed one at a time\n> Coins must still pass through each workstation and progress through all the colours\n\n### Part 3: Flow Exercise Debrief & Explore Implications of Batch Size\n\n- Step 1: Debrief the groups.\n- Step 1: Explore Implications of Batch Size\n\n## Takeaways\n\n- Smaller Batches increase your flow which increases your predictability.\n\n## Facilitation Tips\n\n- In-person use coins.\n\n## Useful Files\n\nn/a\n",
-    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\the-importance-of-batch-to-optimise-flow\\index.md",
-    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\the-importance-of-batch-to-optimise-flow"
+    "BodyContent": "# What is the [Definition of Done]({{< ref \"/tags/definition-of-done\" >}}) (DoD)\n\n## Duration\n\n4h\n\n## Purpose\n\n## Steps\n\n1. Definition of Done Icebreaker - Exercise 10 minutes\n2. What is a Definition of Done? - Teaching Block 10 minutes\n3. How \"Done\" is an [increment]({{< ref \"/tags/increment\" >}})? - Exercise 45 minutes\n4.\n\n## Takeaways\n",
+    "FilePath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\definition-of-done\\index.md",
+    "FolderPath": "C:\\Users\\MartinHinshelwoodNKD\\source\\repos\\NKDAgility.com\\site\\content\\resources\\workshops\\definition-of-done",
+    "ReferencePath": "resources/workshops/definition-of-done"
   }
 ]

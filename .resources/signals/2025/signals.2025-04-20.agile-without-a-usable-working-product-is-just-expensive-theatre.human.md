@@ -1,6 +1,6 @@
 ---
 title: Agile without a usable working product is just expensive theatre
-short_title: Are You Delivering a Usable Product Every Sprint?
+short_title: Agile Requires a Usable Product Every Sprint
 description: Highlights the importance of delivering a usable product each sprint in Agile, warning against focusing on process over outcomes and emphasising real value over rituals.
 date: 2025-04-20T15:30:27+01:00
 weight: 400
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:20Z
-  short_title: 2025-06-23T12:14:00Z
+  short_title: 2025-07-07T16:44:46Z
 concepts: []
 categories:
 - Product Development

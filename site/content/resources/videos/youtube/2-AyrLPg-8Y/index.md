@@ -1,6 +1,6 @@
 ---
 title: 'Transform Your Leadership: The Power of Evidence-Based Management in Agile'
-short_title: How Can Evidence-Based Management Improve Agile Leadership?
+short_title: Evidence-Based Management for Agile Leaders
 description: Discover how evidence-based management empowers Agile leaders to make data-driven decisions, foster continuous improvement, and boost team performance and collaboration.
 date: 2023-11-29T11:00:03Z
 weight: 665
@@ -49,7 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:24Z
-  short_title: 2025-06-23T12:39:19Z
+  short_title: 2025-07-07T17:51:25Z
 
 ---
 As I reflect on my journey through the world of Agile, I often find myself thinking about the importance of [continuous learning]({{< ref "/tags/continuous-learning" >}}) and skill enhancement. Recently, I had the opportunity to participate in an evidence-based management class, and I can’t help but share how transformative this experience was for me and how it can be for you too.

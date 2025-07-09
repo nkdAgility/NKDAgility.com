@@ -1,8 +1,12 @@
 ---
 title: 'From Developer to Agile Advocate: How My Journey Unveiled the Power of Scrum and DevOps'
+short_title: From Developer to Agile Advocate
 description: A personal account of moving from traditional project management to Agile, highlighting lessons learned with Scrum and DevOps to improve teamwork, processes, and culture.
 date: 2023-03-02T07:00:01Z
 weight: 455
+ResourceId: 4FTEJ4tDQqU
+ResourceImport: true
+ResourceType: videos
 slug: from-developer-to-agile-advocate-how-my-journey-unveiled-the-power-of-scrum-and-devops
 aliases:
 - /resources/4FTEJ4tDQqU
@@ -23,9 +27,6 @@ tags:
 - Pragmatic Thinking
 - Agile Transformation
 - Agile Philosophy
-ResourceId: 4FTEJ4tDQqU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 4FTEJ4tDQqU
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:51Z
+  short_title: 2025-07-07T17:56:33Z
 
 ---
 When I reflect on my journey from a developer to an advocate for Agile practices, I often find myself pondering the question: why did I embrace Agile over traditional [project management]({{< ref "/tags/project-management" >}})? The truth is, during my time as a developer, I didn’t consciously choose Agile; rather, it was a reaction to the limitations I experienced with conventional project management methods.

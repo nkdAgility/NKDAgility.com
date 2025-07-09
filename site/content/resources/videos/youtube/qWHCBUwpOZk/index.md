@@ -1,6 +1,6 @@
 ---
 title: 3 core practices of Kanban. Improving a workflow.
-short_title: How Can You Improve Workflow Efficiency in Kanban?
+short_title: Kanban Workflow Improvement Practices
 description: Learn how to improve Kanban workflows by identifying blockages, reducing waiting times, and making continuous changes to boost efficiency and value delivery in your process.
 date: 2024-02-28T07:00:19Z
 weight: 1000
@@ -49,7 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:33Z
-  short_title: 2025-06-23T12:37:43Z
+  short_title: 2025-07-07T17:49:34Z
 
 ---
 ### Improving Your Workflow in a [Kanban]({{< ref "/categories/kanban" >}}) Strategy

@@ -1,6 +1,6 @@
 ---
 title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
-short_title: Can Scrum Be Scaled Successfully?
+short_title: 'Scaling Scrum: Pragmatic or Defeatist?'
 description: Examines whether the belief that Scrum can't scale is practical or defeatist, highlighting Nexus as a proven approach for scaling Scrum to deliver greater value.
 date: 2023-10-09T14:30:08Z
 weight: 790
@@ -42,7 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:55Z
-  short_title: 2025-06-23T12:40:38Z
+  short_title: 2025-07-07T17:52:33Z
 
 ---
 ## "Don't scale [scrum]({{< ref "/categories/scrum" >}})" - A Common Refrain 

@@ -1,14 +1,15 @@
 ---
 title: 'Mastering Agility: Balancing Engineering Excellence and Effective Processes in a Rapidly Changing Business Landscape'
+short_title: Balancing Engineering Excellence and Agile
 description: Explores how to balance engineering excellence and effective Agile processes, highlighting the need for technical skills, continuous improvement, and outcome-focused metrics.
 date: 2020-03-25T21:07:01Z
 weight: 1000
-slug: mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
-aliases:
-- /resources/i_DglXgaePM
 ResourceId: i_DglXgaePM
 ResourceImport: true
 ResourceType: videos
+slug: mastering-agility-balancing-engineering-excellence-and-effective-processes-in-a-rapidly-changing-business-landscape
+aliases:
+- /resources/i_DglXgaePM
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: i_DglXgaePM
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:16:00Z
+  short_title: 2025-07-07T17:58:19Z
 
 ---
 As I sit down to reflect on my recent experiences in the world of Agile and [DevOps]({{< ref "/categories/devops" >}}), I can't help but think about the rapid changes we are witnessing in the business landscape. The velocity of change is staggering, and it’s not just about adopting new processes; it’s about mastering the balance between [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) and effective processes. 

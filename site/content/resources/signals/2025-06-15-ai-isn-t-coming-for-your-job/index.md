@@ -1,6 +1,6 @@
 ---
 title: AI isn’t coming for your job
-short_title: Is AI Replacing Jobs or Transforming Work?
+short_title: AI Isn’t Coming for Your Job
 description: AI is automating repetitive tasks, freeing people to focus on creative, strategic, and empathetic work that technology can’t replace. It’s a shift, not a threat.
 date: 2025-06-15T15:30:31+01:00
 weight: 790
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:32Z
-  short_title: 2025-06-23T12:13:06Z
+  short_title: 2025-07-07T16:43:28Z
 concepts: []
 categories:
 - Uncategorized

@@ -1,6 +1,6 @@
 ---
 title: 1 thing you wish you knew at the start of your Scrum journey?
-short_title: How Can Lean Principles Improve Your Scrum Journey?
+short_title: Lean Principles to Boost Your Scrum Journey
 description: Learn why combining Lean principles with Scrum from the start boosts team efficiency, collaboration, and insight, leading to a more successful and informed Agile journey.
 date: 2023-08-04T07:00:03Z
 weight: 1000
@@ -37,7 +37,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:10:24Z
-  short_title: 2025-06-23T12:41:53Z
+  short_title: 2025-07-07T17:53:43Z
 
 ---
 ## The Missing Piece in My Initial [Scrum]({{< ref "/categories/scrum" >}}) Journey

@@ -1,16 +1,17 @@
 ---
 title: How do you make a good Forecast?
+short_title: How to Make Reliable Agile Forecasts
 description: Explains how to create reliable forecasts in agile projects by using flow metrics like cycle time and throughput, and shifting from project-based to team-based budgeting.
 date: 2019-09-09
 weight: 540
-slug: how-do-you-make-a-good-forecast
-aliases:
-- /resources/fm9Rt6R7JZz
 ResourceId: fm9Rt6R7JZz
 ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 ResourceType: blog
+slug: how-do-you-make-a-good-forecast
+aliases:
+- /resources/fm9Rt6R7JZz
 ResourceContentOrigin: Hybrid
 ResourceImportId: 39852
 creator: Martin Hinshelwood
@@ -36,6 +37,7 @@ tags:
 preview: 993957510-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:12Z
+  short_title: 2025-07-07T17:58:29Z
 
 ---
 As part of the [Scrum]({{< ref "/categories/scrum" >}}).org webinar “Ask a [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

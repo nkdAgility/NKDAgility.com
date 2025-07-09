@@ -1,14 +1,15 @@
 ---
 title: 'Transforming Scrum Training: How Real-World Insights Empower Agile Teams at Great Calm'
+short_title: Real-World Scrum Training at Great Calm
 description: Explores how practical, real-world Scrum training at Great Calm improved team collaboration, alignment, and continuous improvement across the organisation.
 date: 2017-07-27T18:16:30Z
 weight: 610
-slug: transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
-aliases:
-- /resources/Fm24oKNN--w
 ResourceId: Fm24oKNN--w
 ResourceImport: true
 ResourceType: videos
+slug: transforming-scrum-training-how-real-world-insights-empower-agile-teams-at-great-calm
+aliases:
+- /resources/Fm24oKNN--w
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Fm24oKNN--w
@@ -44,6 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:16:32Z
+  short_title: 2025-07-07T17:58:47Z
 
 ---
 As the CTO at Great Calm, I’ve had the privilege of witnessing the transformative power of effective training in [Scrum]({{< ref "/categories/scrum" >}}). Recently, we undertook a significant initiative to baseline our understanding of Scrum across the organisation. This decision stemmed from a recognition that, in a rapidly evolving environment, everyone brings their own flavour and understanding of what Scrum and Agile mean. This diversity can create dissonance, which is why we chose to engage with Martin Hinshelwood for our training sessions.

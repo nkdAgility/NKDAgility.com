@@ -1,6 +1,6 @@
 ---
 title: 'Sprint Review #1'
-short_title: How Can We Run an Effective Sprint Review Workshop?
+short_title: Sprint Review Workshop with Liberating Structures
 description: Guides a 160-minute Sprint Review workshop using Liberating Structures to inspect product progress, gather feedback, and plan next steps for Scrum teams and stakeholders.
 date: 2024-09-17
 weight: 640
@@ -66,7 +66,7 @@ card:
   title: 'Sprint Review #1'
 Watermarks:
   description: 2025-05-07T12:57:58Z
-  short_title: 2025-06-23T12:36:02Z
+  short_title: 2025-07-07T17:48:11Z
 
 ---
 While this workshop can be used on its own, it was designed to be used as part of the [Sprint Review Recipe](../_recipes/sprint-review-recipe.md).

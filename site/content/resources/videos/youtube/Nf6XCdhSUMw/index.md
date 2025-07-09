@@ -1,6 +1,6 @@
 ---
 title: 'Harnessing Evidence-Based Management: Transform Your Decision-Making with Data-Driven Insights'
-short_title: How Can Evidence-Based Management Improve Decisions?
+short_title: Harnessing Evidence-Based Management
 description: Learn how evidence-based management uses data and purposeful metrics to inform decisions, shape behaviours, and drive continuous improvement in organisations.
 date: 2024-08-14T07:12:45Z
 weight: 1000
@@ -44,7 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:09Z
-  short_title: 2025-06-23T12:36:40Z
+  short_title: 2025-07-07T17:48:34Z
 
 ---
 In my journey through the world of agile and organisational management, I've come to appreciate the profound impact that evidence-based management can have on our decision-making processes. It’s not just a buzzword; it’s a strategic approach that can transform how we operate at both tactical and strategic levels. Today, I want to share my insights on this topic, drawing from my experiences and the lessons I've learned along the way.

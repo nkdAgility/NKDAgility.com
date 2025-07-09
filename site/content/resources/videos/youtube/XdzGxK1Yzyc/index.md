@@ -1,8 +1,12 @@
 ---
 title: What is a product owner?    Why are they essential?
+short_title: What Is a Product Owner and Why They Matter
 description: Explains the product owner's role in Scrum, focusing on accountability for maximising value, aligning teams with strategy, and ensuring unified direction for product success.
 date: 2023-05-23T14:00:19Z
 weight: 840
+ResourceId: XdzGxK1Yzyc
+ResourceImport: true
+ResourceType: videos
 slug: what-is-a-product-owner-why-are-they-essential
 aliases:
 - /resources/XdzGxK1Yzyc
@@ -24,9 +28,6 @@ tags:
 - Agile Product Management
 - Product Owner
 - Professional Scrum
-ResourceId: XdzGxK1Yzyc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: XdzGxK1Yzyc
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:16Z
+  short_title: 2025-07-07T17:55:06Z
 
 ---
 ## Decoding the Role of the [Product Owner]({{< ref "/tags/product-owner" >}})

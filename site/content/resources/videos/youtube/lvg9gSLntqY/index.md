@@ -1,15 +1,16 @@
 ---
 title: Why does project management not work in complex environments?
+short_title: Project Management Limits in Complex Environments
 description: Traditional project management struggles in complex environments due to high uncertainty and variance, making adaptive approaches like Agile more effective for such situations.
 date: 2023-05-23T07:00:30Z
 weight: 840
+ResourceId: lvg9gSLntqY
+ResourceImport: true
+ResourceType: videos
 slug: why-does-project-management-not-work-in-complex-environments
 aliases:
 - /resources/lvg9gSLntqY
 - /resources/videos/why-does-project-management-not-work-in-complex-environments-lvg9gSLntqY
-ResourceId: lvg9gSLntqY
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: lvg9gSLntqY
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:17Z
+  short_title: 2025-07-07T17:55:07Z
 
 ---
 ## [Project Management]({{< ref "/tags/project-management" >}}) in Intricate Environments

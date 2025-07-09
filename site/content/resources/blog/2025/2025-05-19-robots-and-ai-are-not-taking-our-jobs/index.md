@@ -1,6 +1,6 @@
 ---
 title: Robots and AI Are Not Taking Our Jobs They Are Giving Us Our Dignity Back
-short_title: Is AI Replacing Jobs or Restoring Human Dignity?
+short_title: How Robots and AI Restore Human Dignity
 description: Explores how robots and AI automate repetitive work, challenging outdated job structures and enabling humans to focus on creativity, problem-solving, and meaningful tasks.
 date: 2025-05-19T09:00:00Z
 weight: 645
@@ -22,7 +22,7 @@ tags:
 - Organisational Agility
 Watermarks:
   description: 2025-05-07T12:49:06Z
-  short_title: 2025-06-23T12:33:24Z
+  short_title: 2025-07-07T16:44:06Z
 
 ---
 The future is not about humans fighting to keep soul-crushing work. It is about letting go of the roles we invented to dehumanise ourselves.

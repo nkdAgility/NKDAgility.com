@@ -1,6 +1,6 @@
 ---
 title: Most Common Thing You Hear in a PSPO Course?
-short_title: Why Do Product Owners Feel Limited in PSPO Courses?
+short_title: Common Challenges for Product Owners in PSPO
 description: Product Owners often feel limited in control and influence. This article explores common challenges and offers steps to boost empowerment and accountability in the role.
 date: 2023-06-29T11:00:18Z
 weight: 840
@@ -39,7 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:05Z
-  short_title: 2025-06-23T12:42:24Z
+  short_title: 2025-07-07T17:54:13Z
 
 ---
 ## Common Comments from the PSPO Course

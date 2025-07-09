@@ -1,16 +1,17 @@
 ---
 title: Can the Definition of Done change per Sprint?
+short_title: Can the Definition of Done Change per Sprint?
 description: The Definition of Done can evolve to improve quality but should not be weakened or vary per backlog item. Consistency ensures transparency and reliable product increments.
 date: 2019-10-14
 weight: 360
-slug: can-the-definition-of-done-change-per-sprint
-aliases:
-- /resources/LdmZbBlwgM-
 ResourceId: LdmZbBlwgM-
 ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 ResourceType: blog
+slug: can-the-definition-of-done-change-per-sprint
+aliases:
+- /resources/LdmZbBlwgM-
 ResourceContentOrigin: Hybrid
 ResourceImportId: 40168
 creator: Martin Hinshelwood
@@ -44,6 +45,7 @@ tags:
 preview: 20190906_152025-2-2.gif
 Watermarks:
   description: 2025-05-07T13:16:06Z
+  short_title: 2025-07-07T17:58:24Z
 
 ---
 I was asked this question today and I think there is a clear answer, however it may change depending on the context of the question.

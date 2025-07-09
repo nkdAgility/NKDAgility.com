@@ -1,8 +1,12 @@
 ---
 title: 'Redefining the Scrum Master: From Boss to Empowering Facilitator'
+short_title: Redefining the Scrum Master Role
 description: Explains how effective Scrum Masters empower teams through facilitation, support, and coaching, moving away from authority and micromanagement to foster self-organisation.
 date: 2023-04-28T07:00:08Z
 weight: 590
+ResourceId: DNCDdWjYis8
+ResourceImport: true
+ResourceType: videos
 slug: redefining-the-scrum-master-from-boss-to-empowering-facilitator
 aliases:
 - /resources/DNCDdWjYis8
@@ -34,9 +38,6 @@ tags:
 - Agile Frameworks
 - Agile Product Management
 - Agile Transformation
-ResourceId: DNCDdWjYis8
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: DNCDdWjYis8
@@ -53,6 +54,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:54Z
+  short_title: 2025-07-07T17:55:40Z
 
 ---
 As I reflect on my journey in the world of [Scrum]({{< ref "/categories/scrum" >}}), one of the most glaring issues I've encountered is the misconception surrounding the role of a [Scrum Master]({{< ref "/tags/scrum-master" >}}). It’s a topic that often stirs up passionate discussions, and for good reason. The worst trait I see in unskilled Scrum Masters is their misguided belief that they are the boss of everyone. This notion is not just incorrect; it’s detrimental to the very essence of what it means to be a Scrum Master.

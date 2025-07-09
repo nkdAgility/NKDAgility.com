@@ -1,6 +1,6 @@
 ---
 title: Bonuses are not incentives
-short_title: Do Bonuses Really Motivate Knowledge Workers?
+short_title: Bonuses Are Not Incentives
 description: Bonuses reflect mistrust, not motivation. True engagement in knowledge work comes from purpose, autonomy, and meaningful challenges—not financial rewards.
 date: 2025-06-21T08:30:44+01:00
 weight: 1000
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-23T12:13:02Z
-  short_title: 2025-06-23T12:13:03Z
+  short_title: 2025-07-07T16:43:24Z
 concepts: []
 categories:
 - Uncategorized

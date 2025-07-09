@@ -1,6 +1,6 @@
 ---
 title: Stop Writing Business Logic in Stored Procedures
-short_title: Why Avoid Business Logic in Stored Procedures?
+short_title: Stop Writing Business Logic in Stored Procedures
 description: Explains why business logic should not be written in stored procedures, highlighting testability, maintainability, scalability, and strategies for gradual code refactoring.
 date: 2025-06-23T09:00:00Z
 weight: 240
@@ -25,7 +25,7 @@ tags:
 - Technical Debt
 Watermarks:
   description: 2025-05-07T12:49:00Z
-  short_title: 2025-06-23T12:33:00Z
+  short_title: 2025-07-07T16:43:23Z
 
 ---
 Over the years, I've encountered many companies that have maintained their business logic in stored procedures, but the practice of doing so has died out, for good reasons ill hilight below. However, many codebases have been around for 10+ years, and may still have large amounts of business logic in them.

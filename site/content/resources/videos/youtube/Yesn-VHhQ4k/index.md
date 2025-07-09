@@ -1,8 +1,12 @@
 ---
 title: Why does Agile focus on values and principles rather than a prescribed set of steps?
+short_title: Why Agile Focuses on Values and Principles
 description: Agile emphasises values and principles to guide teams through complex, uncertain work, enabling adaptation and improvement where fixed steps cannot guarantee success.
 date: 2023-01-23T07:00:14Z
 weight: 540
+ResourceId: Yesn-VHhQ4k
+ResourceImport: true
+ResourceType: videos
 slug: why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps
 aliases:
 - /resources/Yesn-VHhQ4k
@@ -23,9 +27,6 @@ tags:
 - Agile Transformation
 - Organisational Agility
 - Pragmatic Thinking
-ResourceId: Yesn-VHhQ4k
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: Yesn-VHhQ4k
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:28Z
+  short_title: 2025-07-07T17:57:05Z
 
 ---
 Agile exists to address the idea that no predetermined set of steps will lead to a predefined outcome. The problem has never been solved, nor has the solution ever been created, so you don’t know what you don’t know. No formula is going to guarantee a desired outcome.

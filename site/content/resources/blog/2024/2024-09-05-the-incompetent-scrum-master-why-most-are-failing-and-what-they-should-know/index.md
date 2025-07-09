@@ -1,6 +1,6 @@
 ---
 title: Why Most Scrum Masters Are Failing and What They Should Know
-short_title: Why Are Most Scrum Masters Failing Today?
+short_title: Why Most Scrum Masters Are Failing
 description: Many Scrum Masters lack core Scrum knowledge and technical skills, leading to poor team support. Learn key competencies needed for effective, measurable impact.
 date: 2024-09-05
 weight: 190
@@ -49,7 +49,7 @@ sameAs:
 preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 Watermarks:
   description: 2025-05-07T12:58:35Z
-  short_title: 2025-06-23T12:36:18Z
+  short_title: 2025-07-07T17:48:17Z
 
 ---
 As a [DevOps]({{< ref "/categories/devops" >}}) consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software [product development]({{< ref "/categories/product-development" >}}). It’s astonishing how many [Scrum]({{< ref "/categories/scrum" >}}) Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.

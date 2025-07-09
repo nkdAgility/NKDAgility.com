@@ -1,8 +1,12 @@
 ---
 title: In what circumstances is agile consulting appropriate?
+short_title: When to Use Agile Consulting
 description: Explains when agile consulting is best used, highlighting its role in building internal leadership, rapid problem-solving, and sustainable organisational transformation.
 date: 2023-01-06T04:52:40Z
 weight: 640
+ResourceId: rX258aqTf_w
+ResourceImport: true
+ResourceType: videos
 slug: in-what-circumstances-is-agile-consulting-appropriate
 aliases:
 - /resources/rX258aqTf_w
@@ -19,9 +23,6 @@ categories:
 - Leadership
 tags:
 - Pragmatic Thinking
-ResourceId: rX258aqTf_w
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: rX258aqTf_w
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:36Z
+  short_title: 2025-07-07T17:57:13Z
 
 ---
 In what circumstances is agile consulting appropriate?

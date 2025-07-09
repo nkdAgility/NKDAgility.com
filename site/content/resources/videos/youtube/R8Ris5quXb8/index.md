@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Product Backlog Management: Key Strategies for Agile Success'
-short_title: How Can You Effectively Manage an Agile Product Backlog?
+short_title: Product Backlog Management Strategies
 description: Learn practical strategies for effective product backlog management in Agile, including prioritisation, refinement, stakeholder engagement, and tools to maximise team value.
 date: 2023-11-30T11:00:31Z
 weight: 1000
@@ -48,7 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:22Z
-  short_title: 2025-06-23T12:39:18Z
+  short_title: 2025-07-07T17:51:22Z
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often found myself reflecting on the intricacies of [product backlog]({{< ref "/tags/product-backlog" >}}) management. It’s a topic that, while seemingly straightforward, is laden with nuances that can significantly impact the value we derive from our work. Today, I want to share some insights from a recent class I attended that delved into these subtleties and how we can effectively manage our product backlogs.

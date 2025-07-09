@@ -1,8 +1,12 @@
 ---
 title: 'Navigating Client Needs: How Agile Consultants Can Uncover True Value Beyond Initial Requests'
+short_title: Uncovering True Client Needs in Agile Consulting
 description: Explores how agile consultants identify clients' real needs, avoid common pitfalls, and deliver lasting value by looking beyond initial requests and surface-level solutions.
 date: 2023-03-01T07:00:00Z
 weight: 690
+ResourceId: -Mz9cH0uiTQ
+ResourceImport: true
+ResourceType: videos
 slug: navigating-client-needs-how-agile-consultants-can-uncover-true-value-beyond-initial-requests
 aliases:
 - /resources/-Mz9cH0uiTQ
@@ -19,9 +23,6 @@ categories:
 - Product Development
 tags:
 - Pragmatic Thinking
-ResourceId: -Mz9cH0uiTQ
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: -Mz9cH0uiTQ
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:52Z
+  short_title: 2025-07-07T17:56:35Z
 
 ---
 When I’m engaged as an agile consultant, I often find myself pondering a fundamental question: does the client dictate what they need, or is it my role to guide them towards the right solutions? My experience has led me to believe that it’s the latter, but the reality is often more nuanced.

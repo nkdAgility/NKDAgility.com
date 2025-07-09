@@ -1,8 +1,14 @@
 ---
 title: Announcing Professional Agile Leadership with Evidence-Based Management Training  (PAL-EBM) from Scrum.org
+short_title: Professional Agile Leadership with EBM Training
 description: Learn about Scrum.org’s new PAL-EBM training, which helps leaders use evidence-based management and custom metrics to align teams with organisational vision and goals.
 date: 2021-07-21
 weight: 750
+ResourceId: XuePm2RAZa0
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: announcing-professional-agile-leadership-with-evidence-based-management-training-pal-ebm-from-scrum-org
 aliases:
 - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
@@ -30,11 +36,6 @@ tags:
 - Evidence Based Leadership
 - Evidence Based Management
 - Decision Making
-ResourceId: XuePm2RAZa0
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 46257
 creator: Martin Hinshelwood
@@ -43,6 +44,7 @@ resourceTypes: blog
 preview: images/Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 Watermarks:
   description: 2025-05-07T13:14:55Z
+  short_title: 2025-07-07T17:57:29Z
 
 ---
 I have been an [accredited Evidence-based Management Expert with Scrum.org](https://www.scrum.org/ebm-experts) for the last 7 years and I have been using the [Evidence-based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) to encourage leaders to make decisions based on evidence instead of gut feel.

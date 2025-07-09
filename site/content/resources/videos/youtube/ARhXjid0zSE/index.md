@@ -1,6 +1,6 @@
 ---
 title: 'Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback and Engagement'
-short_title: How Can Agile Teams Boost Feedback and Engagement?
+short_title: Overcoming Feedback Gaps in Agile Teams
 description: Explores the impact of lacking feedback and engagement in Agile teams, highlighting risks and offering strategies to boost stakeholder involvement and team motivation.
 date: 2023-11-08T06:45:00Z
 weight: 1000
@@ -48,7 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:01Z
-  short_title: 2025-06-23T12:39:53Z
+  short_title: 2025-07-07T17:51:53Z
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement—particularly with stakeholders and, crucially, with your [product owner]({{< ref "/tags/product-owner" >}}).

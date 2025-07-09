@@ -1,6 +1,6 @@
 ---
 title: Does Kanban integrate into a Scrum environment?
-short_title: How does Kanban integrate with Scrum for better workflow?
+short_title: Kanban Integration in Scrum Workflows
 description: Explains how Kanban can be integrated with Scrum to improve workflow visibility, provide key metrics, and enable continuous improvement in agile teams.
 date: 2024-02-15T07:00:31Z
 weight: 1000
@@ -48,7 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:45Z
-  short_title: 2025-06-23T12:37:53Z
+  short_title: 2025-07-07T17:49:45Z
 
 ---
 ### Integrating [Kanban]({{< ref "/categories/kanban" >}}) with [Scrum]({{< ref "/categories/scrum" >}}): Enhancing Your Workflow

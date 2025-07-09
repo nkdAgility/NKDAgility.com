@@ -1,6 +1,6 @@
 ---
 title: In Scrum, we don’t do UX separately
-short_title: Should UX Be Integrated Into Scrum Sprints?
+short_title: UX Integration in Scrum Sprints
 description: UX is integrated into Scrum, not handled separately. Design and validation happen within Sprints and backlog refinement, supporting continuous, team-based delivery.
 date: 2025-06-12T15:30:39+01:00
 weight: 600
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:35Z
-  short_title: 2025-06-23T12:13:09Z
+  short_title: 2025-07-07T16:43:30Z
 concepts:
 - Method
 categories:

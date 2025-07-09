@@ -1,6 +1,6 @@
 ---
 title: 'Mastering the Art of Scaling Agile: Strategies to Maintain Agility Across Multiple Teams'
-short_title: How Can You Effectively Scale Agile Across Multiple Teams?
+short_title: Scaling Agile Across Multiple Teams
 description: Learn effective strategies for scaling agile across multiple teams, managing dependencies, avoiding common pitfalls, and maintaining agility as your organisation grows.
 date: 2025-02-26T06:00:08Z
 weight: 630
@@ -46,7 +46,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:49:25Z
-  short_title: 2025-06-23T12:34:09Z
+  short_title: 2025-07-07T16:45:48Z
 
 ---
 Agile works exceptionally well when it’s just one team, doesn’t it? The simplicity of interactions, the fluidity of communication, and the ability to pivot quickly are all hallmarks of a well-functioning agile team. However, what happens when you scale up to ten or more teams? Suddenly, those straightforward interactions become a tangled web of dependencies, and before you know it, everything slows down to a crawl. Does this scenario resonate with you?

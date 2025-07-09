@@ -1,6 +1,6 @@
 ---
 title: Continuous Delivery
-short_title: Why Does Precise Language Matter in Agile Delivery?
+short_title: Continuous Delivery
 description: This podcast discusses the role of precise language and transparency in Agile, highlighting how word choice impacts communication, delivery, and team effectiveness.
 date: 2023-11-23
 weight: 1000
@@ -16,7 +16,7 @@ resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:07:37Z
-  short_title: 2025-06-23T12:39:31Z
+  short_title: 2025-07-07T17:51:34Z
 concepts: []
 categories:
 - Uncategorized

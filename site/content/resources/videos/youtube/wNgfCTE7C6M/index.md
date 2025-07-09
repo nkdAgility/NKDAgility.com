@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Effective Product Development: How a Hypothesis-Driven Approach Transforms User Experience'
+short_title: Hypothesis-Driven Product Development for UX
 description: Explains how a hypothesis-driven approach, small experiments, and cross-team collaboration improve product development, user experience, and continuous delivery outcomes.
 date: 2023-04-10T07:00:18Z
 weight: 790
+ResourceId: wNgfCTE7C6M
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-effective-product-development-how-a-hypothesis-driven-approach-transforms-user-experience
 aliases:
 - /resources/wNgfCTE7C6M
@@ -27,9 +31,6 @@ tags:
 - Decision Making
 - Software Development
 - Value Delivery
-ResourceId: wNgfCTE7C6M
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: wNgfCTE7C6M
@@ -46,6 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:17Z
+  short_title: 2025-07-07T17:55:59Z
 
 ---
 In my journey through the world of [product development]({{< ref "/categories/product-development" >}}), I've often found myself reflecting on the importance of making informed decisions that truly benefit our users. Recently, I had the opportunity to delve into the Professional [Scrum]({{< ref "/categories/scrum" >}}) with User Experience (PSU) course, and I can confidently say that it has profoundly shaped my understanding of effective product development. 

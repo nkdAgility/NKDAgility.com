@@ -1,8 +1,12 @@
 ---
 title: Why do you think the PSU course has become so popular for product development?
+short_title: Why the PSU Course Is Popular in Product Dev
 description: The PSU course bridges the gap in product development by integrating user experience and design into Scrum, enabling teams to deliver more valuable, user-focused products.
 date: 2023-02-21T07:00:07Z
 weight: 540
+ResourceId: S7Xr1-qONmM
+ResourceImport: true
+ResourceType: videos
 slug: why-do-you-think-the-psu-course-has-become-so-popular-for-product-development
 aliases:
 - /resources/S7Xr1-qONmM
@@ -22,9 +26,6 @@ tags:
 - Software Development
 - Pragmatic Thinking
 - Customer Focus
-ResourceId: S7Xr1-qONmM
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: S7Xr1-qONmM
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:01Z
+  short_title: 2025-07-07T17:56:42Z
 
 ---
 Why do you think the PSU course has become so popular for [product development]({{< ref "/categories/product-development" >}})?

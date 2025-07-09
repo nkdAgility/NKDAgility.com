@@ -1,6 +1,6 @@
 ---
 title: Why is Johanna a great teacher for the Professional Agile Leadership - Essentials course?
-short_title: What Makes Johanna an Effective Agile Leadership Teacher?
+short_title: Why Johanna Excels in Agile Leadership Training
 description: Highlights Johanna’s passion, deep experience, and engaging teaching style in the Professional Agile Leadership course, fostering dynamic learning for leaders and decision-makers.
 date: 2023-07-26T04:03:17Z
 weight: 765
@@ -38,7 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:35Z
-  short_title: 2025-06-23T12:42:03Z
+  short_title: 2025-07-07T17:53:52Z
 
 ---
 ## Power of Passion

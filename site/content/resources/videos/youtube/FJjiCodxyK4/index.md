@@ -1,8 +1,12 @@
 ---
 title: Why do you prefer agile consulting over agile coaching?
+short_title: Why Prefer Agile Consulting Over Coaching
 description: Explains why agile consulting is preferred over coaching, focusing on empowering internal leadership, fostering self-reliant teams, and enabling sustainable organisational change.
 date: 2023-03-14T07:00:05Z
 weight: 665
+ResourceId: FJjiCodxyK4
+ResourceImport: true
+ResourceType: videos
 slug: why-do-you-prefer-agile-consulting-over-agile-coaching
 aliases:
 - /resources/FJjiCodxyK4
@@ -17,9 +21,6 @@ concepts: []
 categories:
 - Leadership
 tags: []
-ResourceId: FJjiCodxyK4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: FJjiCodxyK4
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:42Z
+  short_title: 2025-07-07T17:56:25Z
 
 ---
 **Why do you prefer agile consulting over agile [coaching]({{< ref "/tags/coaching" >}})?**

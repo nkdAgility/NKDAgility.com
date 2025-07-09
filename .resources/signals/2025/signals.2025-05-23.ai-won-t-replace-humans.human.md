@@ -1,6 +1,6 @@
 ---
 title: AI won’t replace humans
-short_title: Will AI Replace Human Jobs or Transform Human Work?
+short_title: AI Won’t Replace Humans
 description: Explores how AI automates repetitive tasks, enabling humans to focus on creative, strategic, and empathetic work, and challenges fears about AI replacing human jobs.
 date: 2025-05-23T15:30:36+01:00
 weight: 835
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:54Z
-  short_title: 2025-06-23T12:13:26Z
+  short_title: 2025-07-07T16:44:02Z
 concepts: []
 categories:
 - Uncategorized

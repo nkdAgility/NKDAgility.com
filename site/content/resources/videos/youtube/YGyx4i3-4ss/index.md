@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking User Insights: The Key to Meaningful Software Development'
-short_title: How Can Deeper User Insights Improve Software Development?
+short_title: Unlocking User Insights in Software Development
 description: Explores how deeper user understanding, data-driven decisions, and stakeholder collaboration lead to more effective, user-centred software development and strategic planning.
 date: 2024-08-09T05:39:57Z
 weight: 1000
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:15Z
-  short_title: 2025-06-23T12:36:47Z
+  short_title: 2025-07-07T17:48:40Z
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've often found myself reflecting on the fundamental question: do we truly understand our users? It’s a question that seems simple on the surface, yet it unravels a complex web of assumptions, data, and collaboration that can make or break our projects.

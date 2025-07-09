@@ -1,6 +1,6 @@
 ---
 title: There a common belief that rollback is the ultimate safety net
-short_title: Is Rollback Really the Safest Deployment Strategy?
+short_title: Rollback Is Not the Ultimate Safety Net
 description: Rollback is often riskier than rolling forward, especially for stateful apps. Safer deployment relies on progressive delivery and fail-forward strategies, not reversals.
 date: 2025-02-13T15:53:38+00:00
 weight: 270
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:00Z
-  short_title: 2025-06-23T12:15:31Z
+  short_title: 2025-07-07T17:46:33Z
 concepts:
 - Practice
 categories:

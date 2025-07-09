@@ -1,8 +1,12 @@
 ---
 title: How is agile product development different to waterfall project management?
+short_title: 'Agile vs Waterfall: Key Differences Explained'
 description: Compares agile product development and waterfall project management, highlighting differences in decision-making, delivery, customer collaboration, and adaptability.
 date: 2023-01-11T07:00:02Z
 weight: 840
+ResourceId: BE6E5tV8130
+ResourceImport: true
+ResourceType: videos
 slug: how-is-agile-product-development-different-to-waterfall-project-management
 aliases:
 - /resources/BE6E5tV8130
@@ -24,9 +28,6 @@ tags:
 - Agile Values and Principles
 - Agile Transformation
 - Pragmatic Thinking
-ResourceId: BE6E5tV8130
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: BE6E5tV8130
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:33Z
+  short_title: 2025-07-07T17:57:09Z
 
 ---
 How is agile [product development]({{< ref "/categories/product-development" >}}) different to waterfall [project management]({{< ref "/tags/project-management" >}})?

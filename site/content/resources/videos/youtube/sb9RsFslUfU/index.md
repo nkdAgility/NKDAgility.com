@@ -1,8 +1,12 @@
 ---
 title: How did you know you were ready to transition from DevOps practitioner to DevOps Consultant?
+short_title: Transitioning from DevOps Practitioner to Consultant
 description: Explores the journey from DevOps practitioner to consultant, highlighting key signals, external recognition, and practical tips for building influence and expertise in the field.
 date: 2023-05-04T07:00:19Z
 weight: 840
+ResourceId: sb9RsFslUfU
+ResourceImport: true
+ResourceType: videos
 slug: how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant
 aliases:
 - /resources/sb9RsFslUfU
@@ -17,9 +21,6 @@ concepts: []
 categories:
 - Uncategorized
 tags: []
-ResourceId: sb9RsFslUfU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: sb9RsFslUfU
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:42Z
+  short_title: 2025-07-07T17:55:27Z
 
 ---
 ## From Practitioner to Consultant

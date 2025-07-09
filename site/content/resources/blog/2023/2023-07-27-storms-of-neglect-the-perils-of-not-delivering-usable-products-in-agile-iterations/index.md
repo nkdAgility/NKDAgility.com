@@ -1,6 +1,6 @@
 ---
 title: Storms of Neglect The Perils of Not Delivering Usable Products in Agile Iterations
-short_title: What Happens If Agile Teams Don’t Deliver Usable Products?
+short_title: Perils of Not Delivering Usable Agile Products
 description: Failing to deliver a usable product each agile iteration leads to lost trust, technical debt, poor adaptability, misaligned expectations, low morale, and lack of feedback.
 date: 2023-07-27
 weight: 305
@@ -48,7 +48,7 @@ resourceTypes: blog
 preview: image-1.jpg
 Watermarks:
   description: 2025-05-07T13:10:34Z
-  short_title: 2025-06-23T12:42:02Z
+  short_title: 2025-07-07T17:53:51Z
 
 ---
 In light of the importance professional teams place on delivering usable, working products, I find myself compelled to address the woes that befall teams that need to adhere to this crucial tenet. We understand the need for working products; now, let us dissect the perils of straying from this righteous path.

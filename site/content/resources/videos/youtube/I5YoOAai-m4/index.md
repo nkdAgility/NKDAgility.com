@@ -1,15 +1,16 @@
 ---
 title: Agile Coach Versus Professional Coach
+short_title: Agile Coach vs Professional Coach Explained
 description: Compares Agile coaches, who offer deep expertise in Agile methods and drive team innovation, with professional coaches, who focus on guiding teams using existing knowledge.
 date: 2023-06-26T11:00:14Z
 weight: 665
+ResourceId: I5YoOAai-m4
+ResourceImport: true
+ResourceType: videos
 slug: agile-coach-versus-professional-coach
 aliases:
 - /resources/I5YoOAai-m4
 - /resources/videos/agile-coach-versus-professional-coach-I5YoOAai-m4
-ResourceId: I5YoOAai-m4
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: I5YoOAai-m4
@@ -35,6 +36,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:16Z
+  short_title: 2025-07-07T17:54:20Z
 
 ---
 ## Agile Coach vs. Professional Coach

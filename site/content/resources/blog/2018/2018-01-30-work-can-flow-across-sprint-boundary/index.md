@@ -1,16 +1,17 @@
 ---
 title: Work can flow across the Sprint boundary
+short_title: Work Can Flow Across the Sprint Boundary
 description: Explains how Scrum teams can strategically allow unfinished work to flow across Sprint boundaries, enhancing throughput, responsiveness, and continuous delivery without compromising goals.
 date: 2018-01-30
 weight: 270
-slug: work-can-flow-across-the-sprint-boundary
-aliases:
-- /resources/a7UMLdZeVYq
 ResourceId: a7UMLdZeVYq
 ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 ResourceType: blog
+slug: work-can-flow-across-the-sprint-boundary
+aliases:
+- /resources/a7UMLdZeVYq
 ResourceContentOrigin: Hybrid
 ResourceImportId: 38300
 AudioNative: true
@@ -30,24 +31,25 @@ categories:
 - Scrum
 - Product Management
 tags:
+- Engineering Practices
+- Software Development
 - Pragmatic Thinking
 - Product Delivery
+- Agile Frameworks
 - Value Delivery
 - Operational Practices
 - Professional Scrum
 - Agile Planning
+- Throughput
 - Flow Efficiency
 - Market Adaptability
 - Team Performance
 - Agile Product Management
 - Organisational Agility
-- Common Goals
-- Working Software
-- Continuous Improvement
-- Agile Product Operating Model
 preview: nkdagility-cross-sprint-boundary-2-1.png
 Watermarks:
   description: 2025-05-24T23:43:41Z
+  short_title: 2025-07-07T17:58:36Z
 
 ---
 There is nothing in the [Scrum]({{< ref "/categories/scrum" >}}) Guide that explicitly prevents work from flowing across the Sprint boundary. In fact, allowing flow across Sprints—without compromising the Sprint Goal—is a pragmatic strategy that enhances delivery, throughput, and responsiveness to customer feedback.

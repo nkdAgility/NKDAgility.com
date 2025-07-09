@@ -1,6 +1,6 @@
 ---
 title: 7 Harbingers of the Agile apocalypse - Organizational Structure
-short_title: How Can Organizations Overcome Rigid Hierarchies for Agility?
+short_title: 'Agile Barriers: Overcoming Hierarchical Structures'
 description: Explores how rigid, hierarchical structures hinder organisational agility and offers practical strategies for shifting to decentralised, empowered, agile teams.
 date: 2023-10-19T11:00:06Z
 weight: 1000
@@ -49,7 +49,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:08:38Z
-  short_title: 2025-06-23T12:40:22Z
+  short_title: 2025-07-07T17:52:18Z
 
 ---
 # Navigating the Agile Apocalypse: Overcoming the Alpha Organizational Structure

@@ -1,6 +1,6 @@
 ---
 title: 3 best ways to wreck Kanban. Don't have a working agreement.
-short_title: Why Is a Working Agreement Essential in Kanban Teams?
+short_title: 'Kanban Failure: No Working Agreement'
 description: Not having a working agreement in Kanban leads to team misalignment, inefficiency, and conflict. Clear agreements ensure roles, goals, and processes are understood by all.
 date: 2024-03-01T07:00:17Z
 weight: 690
@@ -49,7 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:31Z
-  short_title: 2025-06-23T12:37:41Z
+  short_title: 2025-07-07T17:49:33Z
 
 ---
 ### Achieving Team Alignment with [Kanban]({{< ref "/categories/kanban" >}}): The Importance of a Working Agreement

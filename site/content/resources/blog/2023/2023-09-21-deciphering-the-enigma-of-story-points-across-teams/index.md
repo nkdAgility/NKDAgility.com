@@ -1,6 +1,6 @@
 ---
 title: Deciphering the Enigma of Story Points Across Teams
-short_title: Should Teams Compare Story Points or Use Objective Metrics?
+short_title: Story Points vs Throughput for Team Comparison
 description: Explains why Story Points are subjective and unsuitable for comparing teams, and highlights objective metrics like throughput and value for measuring and improving team performance.
 date: 2023-09-21
 weight: 330
@@ -40,7 +40,7 @@ resourceTypes: blog
 preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 Watermarks:
   description: 2025-05-07T13:09:25Z
-  short_title: 2025-06-23T12:41:04Z
+  short_title: 2025-07-07T17:52:59Z
 
 ---
 Over the past decade, a recurring query has been echoing in my ears: "How can we normalise Story Points across teams so that we can look across and maybe compare teams?" It's high time we address this.

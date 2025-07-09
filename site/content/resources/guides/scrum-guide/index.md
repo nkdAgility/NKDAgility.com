@@ -1,6 +1,6 @@
 ---
 title: The Scrum Guide
-short_title: What Is Scrum and How Does the Scrum Framework Work?
+short_title: The Scrum Guide
 description: A clear summary of Scrum’s framework, roles, events, artefacts, and values, explaining how teams use Scrum to deliver value and adapt to complex problems.
 date: 2024-09-17
 weight: 690
@@ -14,11 +14,13 @@ aliases:
 - /learn/agile-delivery-kit/guides/scrum-guide
 - /resources/guides/_guides/scrum-guide.md
 - /resources/59gcHh1fYtC
+- /the-2020-scrum-guide/
 aliasesArchive:
 - /guides/Scrum-Guide/
 - /guides/Scrum-Guide.html
 - /learn/agile-delivery-kit/guides/scrum-guide
 - /resources/guides/_guides/scrum-guide.md
+- /the-2020-scrum-guide/
 concepts:
 - Framework
 categories:
@@ -84,7 +86,7 @@ card:
   title: The Scrum Guide
 Watermarks:
   description: 2025-05-07T12:58:15Z
-  short_title: 2025-06-23T12:35:53Z
+  short_title: 2025-07-07T16:40:32Z
 
 ---
 The [Scrum]({{< ref "/categories/scrum" >}}) Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.

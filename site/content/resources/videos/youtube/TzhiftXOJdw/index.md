@@ -1,6 +1,6 @@
 ---
 title: What more needs to happen before traditional organisations consider Agile?
-short_title: What Must Change for Traditional Organisations to Adopt Agile?
+short_title: What Traditional Organisations Need for Agile
 description: Explores what traditional organisations must change—beyond adopting Agile tools—to achieve true agility, cultural transformation, and sustained competitive advantage.
 date: 2023-07-06T07:08:30Z
 weight: 790
@@ -52,7 +52,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:01Z
-  short_title: 2025-06-23T12:42:20Z
+  short_title: 2025-07-07T17:54:09Z
 
 ---
 ## The Agile Imperative: How Traditional Organisations Can Embrace Change 

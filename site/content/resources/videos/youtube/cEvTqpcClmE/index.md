@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Legacy Systems: How to Embrace Automation and Drive Innovation'
-short_title: How Can You Automate and Modernise Legacy Systems?
+short_title: Unlocking Legacy Systems with Automation
 description: Learn how to automate legacy systems by shifting organisational mindset, adopting DevOps practices, and making incremental improvements to boost efficiency and innovation.
 date: 2025-04-28T06:00:34Z
 weight: 500
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:49:12Z
-  short_title: 2025-06-23T12:33:44Z
+  short_title: 2025-07-07T16:44:37Z
 
 ---
 Think legacy systems can't be automated? Think again. I’ve encountered this misconception time and again in my journey through the tech landscape. Many organisations assume that because a system is old, it’s untouchable; that automation is only for modern, cloud-native systems. This couldn’t be further from the truth. In fact, I’ve found that the most significant efficiency gains often come from tackling those outdated, cumbersome processes that everyone else has written off.

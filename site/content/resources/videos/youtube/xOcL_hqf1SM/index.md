@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking Agile Success: The Essential Knowledge Every Coach Needs'
-short_title: What Knowledge Do Agile Coaches Need to Succeed?
+short_title: Essential Knowledge for Agile Coaches
 description: Discover the essential knowledge areas for Agile coaches, including frameworks, principles, technical skills, and practical steps to support and guide Agile teams effectively.
 date: 2023-11-15T11:01:00Z
 weight: 665
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:50Z
-  short_title: 2025-06-23T12:39:42Z
+  short_title: 2025-07-07T17:51:44Z
 
 ---
 As I reflect on my journey as an Agile coach, I often find myself returning to a fundamental truth: knowledge is the cornerstone of effective [coaching]({{< ref "/tags/coaching" >}}). It’s not just about knowing the processes, practices, and tools; it’s about understanding the underlying principles that drive them. This understanding is what enables us to guide teams effectively, helping them navigate the complexities of Agile methodologies.

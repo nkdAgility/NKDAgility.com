@@ -1,6 +1,6 @@
 ---
 title: Empowering Teams to Maximize Value and Return on Investment
-short_title: How Does Team Empowerment Boost Agile ROI?
+short_title: Empowering Teams to Maximize Value and ROI
 description: Explores how empowering Agile teams to adapt their processes boosts flexibility, continuous improvement, collaboration, and maximises value and return on investment.
 date: 2024-07-24T06:45:04Z
 weight: 340
@@ -57,7 +57,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:30Z
-  short_title: 2025-06-23T12:37:01Z
+  short_title: 2025-07-07T17:48:55Z
 
 ---
 In the fast-paced world of Agile, the key to success lies in the ability of teams to adapt and evolve. But are your teams truly empowered to change their processes based on what they learn? If they aren't, then they might not be as agile as you think. 🚀

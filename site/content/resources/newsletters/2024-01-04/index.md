@@ -1,6 +1,6 @@
 ---
 title: 'Unlock Your Potential in 2024: Master Scrum with NKDAgility - Exclusive 20% Discount!'
-short_title: How Can You Master Scrum in 2024 With a 20% Discount?
+short_title: Master Scrum in 2024 with NKDAgility – 20% Off
 description: Advance your Agile skills in 2024 with expert-led Scrum training, hands-on practice, and a 20% discount. Suitable for Product Owners, Scrum Masters, and Agile leaders.
 date: 2024-01-04
 weight: 690
@@ -28,7 +28,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T13:06:41Z
-  short_title: 2025-06-23T12:38:39Z
+  short_title: 2025-07-07T17:50:30Z
 
 ---
 As we enter the promising year of 2024, it's time to turn our aspirations into actions and truly master our craft. At NKDAgility, we're committed to fueling your journey toward excellence with our immersive learning [scrum]({{< ref "/categories/scrum" >}}) training courses. It's not just about learning; it's about transforming and leading in an agile world.

@@ -1,6 +1,6 @@
 ---
 title: A two-day Scrum Master certification doesn’t make you a Scrum Master
-short_title: Does Scrum Master Certification Alone Ensure Readiness?
+short_title: Certification Alone Doesn’t Make a Scrum Master
 description: Practical experience is essential for effective Scrum Masters; certification alone is insufficient. True expertise comes from guiding teams, solving challenges, and delivering value.
 date: 2025-02-27T16:30:31+00:00
 weight: 320
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:41Z
-  short_title: 2025-06-23T12:15:10Z
+  short_title: 2025-07-07T16:45:45Z
 concepts: []
 categories:
 - Product Development

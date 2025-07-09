@@ -1,8 +1,14 @@
 ---
 title: Professional Kanban Trainer for Applying Professional Kanban
+short_title: Professional Kanban Trainer & Certification
 description: Learn about becoming a Professional Kanban Trainer, the Applying Professional Kanban course, certification process, and key Kanban principles for effective workflow management.
 date: 2021-01-19
 weight: 1000
+ResourceId: ZQi3U9gnXj3
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: professional-kanban-trainer-for-applying-professional-kanban
 aliases:
 - /blog/professional-kanban-trainer-for-applying-professional-kanban
@@ -18,11 +24,6 @@ categories:
 - Kanban
 tags:
 - Software Development
-ResourceId: ZQi3U9gnXj3
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 45694
 AudioNative: true
@@ -32,6 +33,7 @@ resourceTypes: blog
 preview: applying-professional-kanban-background-logo-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:15:02Z
+  short_title: 2025-07-07T17:57:36Z
 
 ---
 The [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) only contains the minimum necessary to create an e**mpirical process control system for managing risk**. The new [Kanban Guide](https://nkdagility.com/the-kanban-guide/) reflects the minimum that you need to do to create a **strategy for optimizing the flow of value through a visual, pull-based system**.

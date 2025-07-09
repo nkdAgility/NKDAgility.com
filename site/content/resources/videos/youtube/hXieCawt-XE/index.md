@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Kanban: Creating a Pull-Based System for Workflow Efficiency'
-short_title: How Does Kanban Improve Workflow Efficiency?
+short_title: Mastering Kanban for Workflow Efficiency
 description: Learn how Kanban’s pull-based system boosts workflow efficiency by visualising tasks, setting WIP limits, managing bottlenecks, and enabling continuous process improvement.
 date: 2024-03-05T07:00:18Z
 weight: 1000
@@ -50,7 +50,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:29Z
-  short_title: 2025-06-23T12:37:39Z
+  short_title: 2025-07-07T17:49:31Z
 
 ---
 When implementing a [Kanban]({{< ref "/categories/kanban" >}}) strategy, we're essentially creating a pull-based system of work. This methodology, which originated in [lean]({{< ref "/categories/lean" >}}) manufacturing, offers teams a structured way to visualize, manage, and improve their workflow. If you're struggling with bottlenecks, work piling up, or inefficiencies in your process, Kanban might be exactly what you need.

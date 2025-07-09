@@ -1,8 +1,12 @@
 ---
 title: What is a common mistake made by rookie agile consultants?
+short_title: Common Mistakes by Rookie Agile Consultants
 description: Rookie agile consultants often mistake strict adherence to frameworks like Scrum for success, overlooking the need for context, team buy-in, and empirical adaptation.
 date: 2023-02-17T07:00:30Z
 weight: 590
+ResourceId: y0dg0Sqs4xw
+ResourceImport: true
+ResourceType: videos
 slug: what-is-a-common-mistake-made-by-rookie-agile-consultants
 aliases:
 - /resources/y0dg0Sqs4xw
@@ -18,9 +22,6 @@ categories:
 - Scrum
 tags:
 - Pragmatic Thinking
-ResourceId: y0dg0Sqs4xw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: y0dg0Sqs4xw
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:03Z
+  short_title: 2025-07-07T17:56:44Z
 
 ---
 What is a common mistake made by rookie agile consultants?

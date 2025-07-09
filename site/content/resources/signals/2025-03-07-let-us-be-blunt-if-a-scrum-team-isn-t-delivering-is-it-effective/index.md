@@ -1,6 +1,6 @@
 ---
 title: let-us be blunt—if a Scrum Team isn’t delivering, is it effective
-short_title: Is a Non-Delivering Scrum Team Truly Effective?
+short_title: Scrum Team Effectiveness and Delivery
 description: Explores Scrum Team effectiveness, emphasising that consistent delivery is essential and highlighting the Scrum Master's accountability for enabling successful outcomes.
 date: 2025-03-07T16:30:00+00:00
 weight: 385
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:23Z
-  short_title: 2025-06-23T12:14:58Z
+  short_title: 2025-07-07T16:45:34Z
 concepts:
 - Accountability
 categories:

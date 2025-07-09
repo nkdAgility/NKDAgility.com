@@ -1,6 +1,6 @@
 ---
 title: Why Most Transformations Fail Without Honest Conversations
-short_title: Why Do Transformations Fail Without Honest Conversations?
+short_title: Why Transformations Fail Without Honesty
 description: Most transformations fail without open, honest conversations that address real issues, making transparency and tough dialogue essential for true organisational agility.
 date: 2025-06-19T15:30:37+01:00
 weight: 1000
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-23T12:13:04Z
-  short_title: 2025-06-23T12:13:05Z
+  short_title: 2025-07-07T16:43:24Z
 concepts: []
 categories:
 - Uncategorized

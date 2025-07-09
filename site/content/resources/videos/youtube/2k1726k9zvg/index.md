@@ -1,8 +1,12 @@
 ---
 title: 'The Truth About Newbie vs Professional Scrum Masters: Bridging the Experience Gap'
+short_title: Newbie vs Professional Scrum Masters Explained
 description: Explores the real differences between new and experienced Scrum Masters, challenging common myths and highlighting the importance of accountability, value, and mindset.
 date: 2023-03-31T07:00:03Z
 weight: 690
+ResourceId: 2k1726k9zvg
+ResourceImport: true
+ResourceType: videos
 slug: the-truth-about-newbie-vs-professional-scrum-masters-bridging-the-experience-gap
 aliases:
 - /resources/2k1726k9zvg
@@ -22,9 +26,6 @@ tags:
 - Software Development
 - Scrum Master
 - Professional Scrum
-ResourceId: 2k1726k9zvg
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: 2k1726k9zvg
@@ -41,6 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:27Z
+  short_title: 2025-07-07T17:56:07Z
 
 ---
 When I’m asked about the difference between a newbie [Scrum]({{< ref "/categories/scrum" >}}) Master and a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master, I can’t help but feel that neither of those labels truly captures the essence of what it means to be a [Scrum Master]({{< ref "/tags/scrum-master" >}}). In my experience, the term "newbie" implies a lack of [competence]({{< ref "/tags/competence" >}}), but that’s simply not the case. When you step into the role of a Scrum Master, you’ve already demonstrated a level of effectiveness within your team. You’re not just a novice; you’re taking on an important accountability that requires skill and understanding.

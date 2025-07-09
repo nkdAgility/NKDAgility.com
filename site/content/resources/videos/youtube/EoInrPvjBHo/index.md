@@ -1,6 +1,6 @@
 ---
 title: 'How to Overcome Agile Banditry: A Product Owner’s Journey'
-short_title: How Can Product Owners Avoid Micromanagement in Agile?
+short_title: Overcoming Agile Banditry for Product Owners
 description: Explains the pitfalls of micromanagement in Agile, showing Product Owners how to avoid "Agile Banditry" by focusing on vision, value, and empowering their teams.
 date: 2024-01-10T07:00:11Z
 weight: 1000
@@ -53,7 +53,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:30Z
-  short_title: 2025-06-23T12:38:31Z
+  short_title: 2025-07-07T17:50:20Z
 
 ---
 In Agile, there's a common misconception that leads to what I like to call "Agile Banditry." Product Owners, when misguided, can fall into the trap of treating their role as a project manager, dictating every step of the team’s progress like an overbearing taskmaster. This often leads to disengagement, frustration, and ultimately, a failed product. In this blog, we’ll explore the dangers of Agile Banditry and how Product Owners can avoid this trap, enabling their teams to thrive.

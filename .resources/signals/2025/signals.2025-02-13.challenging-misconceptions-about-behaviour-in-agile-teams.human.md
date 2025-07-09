@@ -1,6 +1,6 @@
 ---
 title: Challenging Misconceptions About Behaviour in Agile Teams
-short_title: What Are Common Misconceptions About Agile Team Behaviour?
+short_title: Challenging Misconceptions in Agile Teams
 description: Explores common misconceptions about Agile teams, clarifying that true agility demands discipline, planning, and professionalism—not chaos or lack of accountability.
 date: 2025-02-13T16:30:02+00:00
 weight: 380
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:59Z
-  short_title: 2025-06-23T12:15:30Z
+  short_title: 2025-07-07T17:46:32Z
 concepts:
 - Accountability
 categories:

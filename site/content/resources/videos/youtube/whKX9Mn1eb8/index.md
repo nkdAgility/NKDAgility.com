@@ -1,6 +1,6 @@
 ---
 title: 'Unlocking the Superpower of Software Development: How Shifting Left Transforms Quality Assurance'
-short_title: How Does Shift Left Improve Software Quality and Delivery?
+short_title: How Shifting Left Improves Software Quality
 description: Explains how adopting a shift-left approach in software development improves quality, speeds up delivery, reduces costs, and fosters collaboration by involving QA early.
 date: 2024-11-22T14:04:14Z
 weight: 610
@@ -45,7 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:07Z
-  short_title: 2025-06-23T12:35:20Z
+  short_title: 2025-07-07T17:47:29Z
 
 ---
 In my journey through the world of software engineering, I've come to realise that having a high-quality, usable, and working product delivered on a regular cadence is nothing short of a superpower for both teams and organisations. This principle is at the heart of delivering real value, and it’s something I’m passionate about sharing.

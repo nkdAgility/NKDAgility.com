@@ -1,6 +1,6 @@
 ---
 title: The Sprint Review
-short_title: What Is a Sprint Review in Agile?
+short_title: The Sprint Review
 description: Overview of the Sprint Review, its purpose in Agile development, key activities, and how teams assess progress and gather feedback at the end of each sprint.
 date: 2024-09-17
 weight: 1000
@@ -40,7 +40,7 @@ card:
   title: The Sprint Review
 Watermarks:
   description: 2025-05-07T12:58:17Z
-  short_title: 2025-06-23T12:35:52Z
+  short_title: 2025-07-07T17:48:01Z
 concepts: []
 categories:
 - Uncategorized

@@ -1,6 +1,6 @@
 ---
 title: How will the Immersive Learning experience change the game for people with a couple of years experience in the field?
-short_title: How Does Immersive Learning Benefit Experienced Agile Pros?
+short_title: Immersive Learning for Experienced Agile Pros
 description: Discover how immersive learning empowers experienced Agile professionals to deepen skills, tackle real-world challenges, and accelerate growth through hands-on practice.
 date: 2023-08-01T07:00:19Z
 weight: 1000
@@ -39,7 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:30Z
-  short_title: 2025-06-23T12:41:58Z
+  short_title: 2025-07-07T17:53:47Z
 
 ---
 ## Elevating Experienced Agile Practitioners with Immersive Learning 

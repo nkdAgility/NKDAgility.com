@@ -1,6 +1,6 @@
 ---
 title: When Heathrow went down, they blamed the power supplier.
-short_title: 'What Caused the Heathrow Outage: Power or DR Failure?'
+short_title: 'Heathrow Outage: Disaster Recovery Failure'
 description: Heathrow’s outage was caused by an over-sensitive disaster recovery system, not a power loss, highlighting the risks of untested resilience and flawed infrastructure assumptions.
 date: 2025-05-15T15:30:30+01:00
 weight: 405
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-19T13:39:42Z
-  short_title: 2025-06-23T12:13:31Z
+  short_title: 2025-07-07T16:44:10Z
 concepts: []
 categories:
 - Uncategorized

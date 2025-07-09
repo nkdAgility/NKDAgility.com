@@ -1,8 +1,12 @@
 ---
 title: "Embracing Process Improvement: How Understanding Scrum Transformed a Developer's Mindset"
+short_title: How Scrum Mindset Shift Improves Developers
 description: Explores how learning Scrum and process improvement can shift developer mindsets, boost collaboration, and enhance software delivery in Agile teams.
 date: 2017-07-27T19:14:11Z
 weight: 1000
+ResourceId: F8a6gtXxLe0
+ResourceImport: true
+ResourceType: videos
 slug: embracing-process-improvement-how-understanding-scrum-transformed-a-developer's-mindset
 aliases:
 - /resources/videos/embracing-process-improvement-how-understanding-scrum-transformed-a-developer-s-mindset
@@ -18,9 +22,6 @@ categories:
 - Product Development
 - Scrum
 tags: []
-ResourceId: F8a6gtXxLe0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: F8a6gtXxLe0
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:16:31Z
+  short_title: 2025-07-07T17:58:46Z
 
 ---
 As I reflect on my journey in the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I can't help but think about the transformative power of understanding the processes that underpin our work. Recently, I had the pleasure of speaking with Dave Fresh, a developer at Health Grades, who shared his initial resistance to a Scrum course. His story resonated with me, as it highlights a common misconception many professionals have about stepping away from their daily tasks to focus on process improvement.

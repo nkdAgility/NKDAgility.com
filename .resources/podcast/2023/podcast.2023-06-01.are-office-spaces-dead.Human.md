@@ -1,20 +1,22 @@
 ---
 title: Are office spaces dead
+short_title: Are Office Spaces Dead? Remote Work Impact
 description: Explores how remote work is changing office life, training, coaching, and consulting, with insights from experienced agile coaches and professional Scrum trainers.
 date: 2023-06-01
 weight: 1000
-slug: are-office-spaces-dead
-aliases:
-- /resources/HRq1a_8gAJF
 ResourceId: HRq1a_8gAJF
 ResourceImport: false
 ResourceType: podcast
+slug: are-office-spaces-dead
+aliases:
+- /resources/HRq1a_8gAJF
 ResourceContentOrigin: Human
 author: MrHinsh
 resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:11:59Z
+  short_title: 2025-07-07T17:54:55Z
 concepts: []
 categories:
 - Uncategorized

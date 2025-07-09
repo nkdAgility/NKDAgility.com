@@ -1,6 +1,6 @@
 ---
 title: "Mastering Scrum: Essential Insights for New Teams from a Scrum Master's Journey"
-short_title: How Can New Teams Succeed with Scrum Principles?
+short_title: 'Mastering Scrum: Insights for New Teams'
 description: Guidance for new Scrum teams on building strong foundations, embracing empiricism, Scrum values, continuous learning, and the Scrum Master's role in fostering team growth.
 date: 2023-11-28T11:00:49Z
 weight: 610
@@ -52,7 +52,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:07:27Z
-  short_title: 2025-06-23T12:39:21Z
+  short_title: 2025-07-07T17:51:27Z
 
 ---
 As I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself returning to the foundational elements that are crucial for any new [Scrum team]({{< ref "/tags/scrum-team" >}}). When a team is just starting out, it’s essential to recognise that their understanding of Scrum, empiricism, and the [Scrum values]({{< ref "/tags/scrum-values" >}}) will significantly influence their effectiveness. 

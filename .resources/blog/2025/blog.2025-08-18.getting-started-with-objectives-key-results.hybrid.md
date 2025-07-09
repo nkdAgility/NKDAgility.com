@@ -1,17 +1,20 @@
 ---
 title: Getting Started with Objectives & Key Results
+short_title: Getting Started with Objectives & Key Results
 description: Learn how to successfully implement OKRs by aligning clear strategy, fostering transparency, empowering teams, focusing on outcomes, and establishing iterative execution practices.
 date: 2025-08-18T09:00:00Z
 weight: 490
-slug: getting-started-with-objectives-key-results
-aliases:
-- /resources/bpRR4ieKvr3
 ResourceId: bpRR4ieKvr3
 ResourceImport: false
 ResourceType: blog
+slug: getting-started-with-objectives-key-results
+aliases:
+- /resources/bpRR4ieKvr3
 ResourceContentOrigin: hybrid
+mermaid: true
 Watermarks:
   description: 2025-06-03T15:33:08Z
+  short_title: 2025-07-07T16:43:08Z
 concepts:
 - Strategy
 categories:
@@ -19,7 +22,7 @@ categories:
 - Product Management
 - Leadership
 tags:
-- Objective & Key Results
+- Objective Key Results
 - Common Goals
 - Strategic Goals
 - Agile Strategy
@@ -146,15 +149,15 @@ That’s fine.
 
 OKRs are a **practice**. You refine them over time. The point isn’t perfection. The point is progress. Use a retrospective on your OKRs and refactor your goals. Treat them as living artefacts. That’s how you get better.
 
-```mermaid
+{{< mermaid width="400px" >}}
 flowchart TD
-    VMV["Vision, Mission, Values\n(5 to 20 years)"]
-    STR["Strategies\n(1 to 5 years)"]
-    OBJ["Objectives\n(Quarterly to Yearly)"]
-    KR["Key Results\n(Quarterly to Yearly)"]
-    ACT["Activities (Execution)\n(Day to Day)"]
-    MEA["Measure\n(Day to Day)"]
-    LEA["Learn\n(Weekly to Quarterly)"]
+VMV["Vision, Mission, Values\n(5 to 20 years)"]
+STR["Strategies\n(1 to 5 years)"]
+OBJ["Objectives\n(Quarterly to Yearly)"]
+KR["Key Results\n(Quarterly to Yearly)"]
+ACT["Activities (Execution)\n(Day to Day)"]
+MEA["Measure\n(Day to Day)"]
+LEA["Learn\n(Weekly to Quarterly)"]
 
     VMV --> STR
     STR --> OBJ
@@ -170,7 +173,8 @@ flowchart TD
     class OBJ yellow
     class KR green
     class ACT,MEA,LEA blue
-```
+
+{{< /mermaid >}}
 
 This is what OKRs make possible: a living connection from strategy to execution, and back again. This is the cadence that drives organisational agility. This is why OKRs matter.
 

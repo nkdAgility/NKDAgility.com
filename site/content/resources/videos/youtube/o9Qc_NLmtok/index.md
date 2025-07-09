@@ -1,15 +1,16 @@
 ---
 title: 8-Week Immersive Learning Course in 60 Seconds
+short_title: 8-Week Immersive Scrum Learning Overview
 description: Discover the structure and benefits of an 8-week immersive Scrum learning course, featuring blended lessons, practical tasks, and collaborative feedback for real-world impact.
 date: 2023-06-05T11:00:38Z
 weight: 840
+ResourceId: o9Qc_NLmtok
+ResourceImport: true
+ResourceType: videos
 slug: 8-week-immersive-learning-course-in-60-seconds
 aliases:
 - /resources/o9Qc_NLmtok
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds-o9Qc_NLmtok
-ResourceId: o9Qc_NLmtok
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: o9Qc_NLmtok
@@ -35,6 +36,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:52Z
+  short_title: 2025-07-07T17:54:50Z
 
 ---
 ## Immersive Learning: 8 Weeks of Deep Engagement

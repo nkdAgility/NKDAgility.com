@@ -1,8 +1,12 @@
 ---
 title: 'Transform Your Team with Flipped Learning: Unlocking Agility at Naked Agility Limited'
+short_title: Flipped Learning for Agile Teams at Naked Agility
 description: Discover how flipped learning at Naked Agility Limited combines self-study and interactive workshops to build agile, people-first teams and support continuous improvement.
 date: 2022-09-09T14:17:04Z
 weight: 790
+ResourceId: vY0hXTm-wgk
+ResourceImport: true
+ResourceType: videos
 slug: transform-your-team-with-flipped-learning-unlocking-agility-at-naked-agility-limited
 aliases:
 - /resources/vY0hXTm-wgk
@@ -19,9 +23,6 @@ categories:
 tags:
 - Continuous Learning
 - Coaching
-ResourceId: vY0hXTm-wgk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: vY0hXTm-wgk
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:45Z
+  short_title: 2025-07-07T17:57:21Z
 
 ---
 At Naked Agility Limited, we are passionate about fostering an environment where individuals and teams can evolve, integrate, and continuously improve. Our approach to training is designed to reflect this ethos, and I want to share how we do it.

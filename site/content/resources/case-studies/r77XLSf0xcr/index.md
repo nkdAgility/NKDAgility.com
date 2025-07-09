@@ -1,6 +1,6 @@
 ---
 title: 'From Fragmentation to Flow: How NKD Agility Helped SLB Consolidate Systems and Standardize Engineering Practice Across 800+ Teams'
-short_title: Standardize Engineering Practice Across 800+ Teams
+short_title: Standardize Engineering Practice Across 800 Teams
 description: NKD Agility helped SLB unify 800+ engineering teams by consolidating DevOps systems, standardizing processes, and improving visibility, collaboration, and delivery.
 date: 2025-06-02
 weight: 70
@@ -14,7 +14,7 @@ draft: false
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-16T11:50:55Z
-  short_title: 2025-06-23T12:33:16Z
+  short_title: 2025-07-07T16:43:50Z
 concepts:
 - Capability
 categories:

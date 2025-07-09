@@ -1,8 +1,12 @@
 ---
 title: 'From Software Engineer to Scrum Trainer: How My Journey Shapes Effective DevOps Training'
+short_title: From Engineer to Scrum Trainer in DevOps
 description: Explores how hands-on software engineering and DevOps experience informs practical, relatable Scrum training, emphasising real-world lessons and continuous improvement.
 date: 2023-01-20T07:00:08Z
 weight: 690
+ResourceId: N0Ci9PQQRLc
+ResourceImport: true
+ResourceType: videos
 slug: from-software-engineer-to-scrum-trainer-how-my-journey-shapes-effective-devops-training
 aliases:
 - /resources/N0Ci9PQQRLc
@@ -20,9 +24,6 @@ categories:
 tags:
 - Software Development
 - Pragmatic Thinking
-ResourceId: N0Ci9PQQRLc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: N0Ci9PQQRLc
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:29Z
+  short_title: 2025-07-07T17:57:06Z
 
 ---
 When I reflect on how my real-world experience shapes my training style, I realise just how pivotal my journey has been. I began my career as a software engineer, diving into the world of coding just before .NET emerged. My first year was spent with ASP, but once .NET came along, I found my sweet spot. This foundation has been instrumental in my understanding of [software development]({{< ref "/tags/software-development" >}}) and the intricacies of the industry.

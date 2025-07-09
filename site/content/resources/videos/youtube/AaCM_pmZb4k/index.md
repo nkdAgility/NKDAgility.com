@@ -1,8 +1,12 @@
 ---
 title: What are the hierarchies of competence vs control?  Why does this matter?
+short_title: Hierarchies of Competence vs Control Explained
 description: Explains the differences between competence-based and control-based hierarchies, their impact on decision-making, and why competence-driven models suit today’s fast-changing markets.
 date: 2023-04-13T14:25:06Z
 weight: 1000
+ResourceId: AaCM_pmZb4k
+ResourceImport: true
+ResourceType: videos
 slug: what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 aliases:
 - /resources/AaCM_pmZb4k
@@ -23,9 +27,6 @@ tags:
 - Competence
 - Sociotechnical Systems
 - Organisational Agility
-ResourceId: AaCM_pmZb4k
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: AaCM_pmZb4k
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:15Z
+  short_title: 2025-07-07T17:55:56Z
 
 ---
 ## Hierarchies of [Competence]({{< ref "/tags/competence" >}}) Vs Control: Insights & Relevance

@@ -1,6 +1,6 @@
 ---
 title: FBI Launched Outdated Criminal Records System in 1995
-short_title: Why Did the FBI’s 1995 System Fail at Launch?
+short_title: FBI’s Outdated 1995 Criminal Records System
 description: The FBI’s 1995 criminal records system was outdated at launch, showing how slow, waterfall methods can leave technology obsolete and users behind. Agile avoids this trap.
 date: 2025-06-06T15:30:50+01:00
 weight: 640
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:42Z
-  short_title: 2025-06-23T12:13:15Z
+  short_title: 2025-07-07T16:43:41Z
 concepts: []
 categories:
 - Uncategorized

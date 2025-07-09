@@ -1,8 +1,12 @@
 ---
 title: What was your best day as an Agile consultant?
+short_title: Best Day as an Agile Consultant
 description: A personal story highlighting how Agile consulting and Scrum workshops sparked lasting transformation for a development team, with impact felt years after the engagement.
 date: 2023-03-27T07:00:30Z
 weight: 1000
+ResourceId: iT7ZtgNJbT0
+ResourceImport: true
+ResourceType: videos
 slug: what-was-your-best-day-as-an-agile-consultant
 aliases:
 - /resources/iT7ZtgNJbT0
@@ -19,9 +23,6 @@ categories:
 - Uncategorized
 tags:
 - Personal
-ResourceId: iT7ZtgNJbT0
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: iT7ZtgNJbT0
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:31Z
+  short_title: 2025-07-07T17:56:15Z
 
 ---
 **What was your best day as an Agile consultant?**

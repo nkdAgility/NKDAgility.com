@@ -1,6 +1,6 @@
 ---
 title: 'Mastering the Migration: Seamlessly Transitioning from TFS to Azure DevOps'
-short_title: How Do You Migrate from TFS to Azure DevOps?
+short_title: TFS to Azure DevOps Migration Guide
 description: Step-by-step guide to migrating from Team Foundation Server (TFS) to Azure DevOps, covering tools, validation, common issues, account alignment, and best practices.
 date: 2024-07-31T11:58:11Z
 weight: 1000
@@ -42,7 +42,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:22Z
-  short_title: 2025-06-23T12:36:54Z
+  short_title: 2025-07-07T17:48:48Z
 
 ---
 In today’s fast-paced tech landscape, staying ahead often means making strategic moves that streamline processes and enhance collaboration. For organizations still utilizing Team Foundation Server (TFS), migrating to Azure [DevOps]({{< ref "/categories/devops" >}}) is one such strategic move that promises enhanced agility and efficiency. However, this migration is not always straightforward. Let’s dive into the intricacies of this transition and explore how to do it seamlessly, leveraging the right tools and expertise.

@@ -1,6 +1,6 @@
 ---
 title: A changing Definition of Done undermines quality and predictability in teams
-short_title: Is Your Team’s Definition of Done Consistent?
+short_title: Changing Definition of Done Hurts Team Quality
 description: Frequent changes to the Definition of Done reduce team quality and predictability. Consistent, enforced standards are key to reliable delivery and continuous improvement.
 date: 2025-04-04T15:30:02+01:00
 weight: 255
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:43Z
-  short_title: 2025-06-23T12:14:21Z
+  short_title: 2025-07-07T16:45:04Z
 concepts:
 - Practice
 categories:

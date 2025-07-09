@@ -1,6 +1,6 @@
 ---
 title: You can’t deliver change through memos
-short_title: How does broad Scrum training drive real change?
+short_title: Change Requires Broad Scrum Training
 description: Change succeeds when everyone understands and engages with it. Broad Scrum training empowers all roles to identify blockers and drive real, lasting improvements.
 date: 2025-05-31T15:30:23+01:00
 weight: 535
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-06-17T17:50:45Z
-  short_title: 2025-06-23T12:13:19Z
+  short_title: 2025-07-07T16:43:51Z
 concepts:
 - Principle
 categories:

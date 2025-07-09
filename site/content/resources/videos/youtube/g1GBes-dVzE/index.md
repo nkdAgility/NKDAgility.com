@@ -1,6 +1,6 @@
 ---
 title: One thing an Agile Coach MUST do to be successful?
-short_title: What Must an Agile Coach Understand to Succeed?
+short_title: Key Skill for Agile Coach Success
 description: Agile Coaches must deeply understand their team's tools, practices, and technologies to effectively guide, challenge, and help teams improve and reach their goals.
 date: 2023-08-31T07:00:17Z
 weight: 665
@@ -38,7 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:09:45Z
-  short_title: 2025-06-23T12:41:22Z
+  short_title: 2025-07-07T17:53:16Z
 
 ---
 ## Why a Deep Understanding is Non-Negotiable

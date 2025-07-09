@@ -1,6 +1,6 @@
 ---
 title: Do you think we are on the slope of enlightenment in Gartner's Hype Cycle?
-short_title: Are We Reaching Agile Enlightenment in the Hype Cycle?
+short_title: Agile’s Journey on Gartner’s Slope of Enlightenment
 description: Explores whether organisations are moving past Agile disillusionment towards true understanding, highlighting the shift from hype to people-focused, effective Agile practices.
 date: 2023-07-07T07:00:03Z
 weight: 1000
@@ -40,7 +40,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:10:58Z
-  short_title: 2025-06-23T12:42:18Z
+  short_title: 2025-07-07T17:54:07Z
 
 ---
 Are we collectively ascending the slope of enlightenment, or are we still mired in the trough of disillusionment?  

@@ -1,6 +1,6 @@
 ---
 title: 'Policing for the 21st Century: How NKD Agility Enabled Organisational Change in the Ghana Police Service'
-short_title: Enabled Organisational Change in the Ghana Police Service
+short_title: Organisational Change in the Ghana Police Service
 description: NKD Agility helped the Ghana Police Service drive organisational change using Scrum, enabling continuous improvement, transparency, and local ownership across all levels.
 date: 2025-06-10
 weight: 395
@@ -13,7 +13,7 @@ aliases:
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-06-17T09:44:06Z
-  short_title: 2025-06-23T12:33:06Z
+  short_title: 2025-07-07T16:43:35Z
 concepts:
 - Framework
 categories:

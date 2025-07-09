@@ -1,6 +1,6 @@
 ---
 title: What are 3 key takeaways for a scrum team after attending an APS immersive learning experience course?
-short_title: What Are the 3 Key Takeaways from an APS Scrum Course?
+short_title: 3 Key Takeaways from APS Scrum Course
 description: 'Discover three essential lessons for Scrum teams after an APS immersive course: deepening core understanding, overcoming early challenges, and distinguishing true Scrum practices.'
 date: 2023-08-14T07:00:01Z
 weight: 790
@@ -44,7 +44,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:10:12Z
-  short_title: 2025-06-23T12:41:42Z
+  short_title: 2025-07-07T17:53:33Z
 
 ---
 ## [Scrum]({{< ref "/categories/scrum" >}})'s True Potential: A Journey Through the APS Immersive Class

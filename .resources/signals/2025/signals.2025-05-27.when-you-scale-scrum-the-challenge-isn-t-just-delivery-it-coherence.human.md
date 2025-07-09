@@ -1,6 +1,6 @@
 ---
 title: When you scale Scrum, the challenge isn’t just delivery—it coherence
-short_title: How Can You Achieve UX Coherence When Scaling Scrum?
+short_title: 'Scaling Scrum: Achieving UX Coherence'
 description: Explains how scaling Scrum requires UX coherence through Communities of Practice, shared frameworks, and collaboration—not central control—to ensure consistency without bottlenecks.
 date: 2025-05-27T15:30:33+01:00
 weight: 415
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-29T18:10:45Z
-  short_title: 2025-06-23T12:13:22Z
+  short_title: 2025-07-07T16:43:56Z
 concepts:
 - Framework
 categories:

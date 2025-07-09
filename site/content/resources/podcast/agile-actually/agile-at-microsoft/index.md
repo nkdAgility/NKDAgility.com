@@ -1,6 +1,6 @@
 ---
 title: Agile at Microsoft
-short_title: Why Does Precise Language Matter in Agile at Microsoft?
+short_title: Agile Practices and Transparency at Microsoft
 description: Simon Reindl and Martin Hinshelwood discuss the role of precise language and transparency in Agile practices at Microsoft, highlighting why clarity in communication matters.
 date: 2024-04-25
 weight: 1000
@@ -16,7 +16,7 @@ resourceTypes: podcast
 layout: podcast
 Watermarks:
   description: 2025-05-07T13:05:14Z
-  short_title: 2025-06-23T12:37:27Z
+  short_title: 2025-07-07T17:49:19Z
 concepts: []
 categories:
 - Uncategorized

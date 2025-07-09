@@ -1,16 +1,17 @@
 ---
 title: Professional Scrum Courses for 2016 in Oslo, Norway
+short_title: Professional Scrum Courses 2016 Oslo Norway
 description: Details 2016 Professional Scrum Master and Developer courses in Oslo and Kongsberg, covering advanced Scrum, coaching, DevOps, and Agile practices for teams and organisations.
 date: 2016-01-06
 weight: 480
-slug: professional-scrum-courses-for-2016-in-oslo-norway
-aliases:
-- /resources/gS7et381AGm
 ResourceId: gS7et381AGm
 ResourceImport: true
 ResourceImportSource: Wordpress
 ResourceImportOriginalSource: Wordpress
 ResourceType: blog
+slug: professional-scrum-courses-for-2016-in-oslo-norway
+aliases:
+- /resources/gS7et381AGm
 ResourceContentOrigin: Human
 ResourceImportId: 11426
 creator: Martin Hinshelwood
@@ -32,6 +33,7 @@ tags:
 preview: clip_image001-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:16:52Z
+  short_title: 2025-07-07T17:59:04Z
 
 ---
 Just before the end of the year I taught my [first Professional Scrum Master course in Norway](http://nkdagility.com/training/courses/professional-scrum-master/) and it was a resounding success. We had 30 students from some of the largest and most successful companies in Norway. The feedback was incredible and I had an awesome time teaching it.

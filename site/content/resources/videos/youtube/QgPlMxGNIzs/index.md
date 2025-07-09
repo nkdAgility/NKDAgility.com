@@ -1,8 +1,12 @@
 ---
 title: How do you think Agile is evolving since its inception in 2001?
+short_title: How Agile Is Evolving Since 2001
 description: Explores how Agile has shifted from top-down management to decentralised decision-making, highlighting ongoing challenges and the move towards true organisational agility.
 date: 2023-02-15T07:00:07Z
 weight: 665
+ResourceId: QgPlMxGNIzs
+ResourceImport: true
+ResourceType: videos
 slug: how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 aliases:
 - /resources/QgPlMxGNIzs
@@ -23,9 +27,6 @@ tags:
 - Organisational Agility
 - Agile Philosophy
 - Agile Values and Principles
-ResourceId: QgPlMxGNIzs
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: QgPlMxGNIzs
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:05Z
+  short_title: 2025-07-07T17:56:46Z
 
 ---
 How do you think Agile is evolving since its inception in 2001?

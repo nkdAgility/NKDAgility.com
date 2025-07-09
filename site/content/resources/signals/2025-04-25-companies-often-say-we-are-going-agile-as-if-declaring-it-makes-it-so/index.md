@@ -1,6 +1,6 @@
 ---
 title: Companies often say "we-are going Agile!" as if declaring it makes it so
-short_title: Are You Truly Agile or Just Following a Framework?
+short_title: True Agility vs. Superficial Agile Adoption
 description: Many companies mistake adopting Agile frameworks for true agility, but real success comes from customising ways of working to respond quickly to market changes.
 date: 2025-04-25T15:30:40+01:00
 weight: 500
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:14Z
-  short_title: 2025-06-23T12:13:53Z
+  short_title: 2025-07-07T16:44:40Z
 concepts:
 - Ethos
 categories:

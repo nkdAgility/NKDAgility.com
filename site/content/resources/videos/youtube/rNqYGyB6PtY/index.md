@@ -1,6 +1,6 @@
 ---
 title: What Should a Product Owner Do with an Incompetent Team?
-short_title: How Should Product Owners Handle Incompetent Teams?
+short_title: Product Owner Actions for Incompetent Teams
 description: Guidance for product owners on handling underperforming teams, distinguishing incompetence from knowledge gaps, and knowing when to support, train, or let them go.
 date: 2023-10-26T14:30:26Z
 weight: 630
@@ -39,7 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:18Z
-  short_title: 2025-06-23T12:40:04Z
+  short_title: 2025-07-07T17:52:04Z
 
 ---
 As a [product owner]({{< ref "/tags/product-owner" >}}), you might sometimes face the challenge of working with a team that isn't meeting expectations. Incompetence in a team can be frustrating, but it’s essential to approach the situation thoughtfully and strategically before taking any drastic steps. So, what should you do if you find yourself in this predicament? Let’s dive into it.

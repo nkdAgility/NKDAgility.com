@@ -1,6 +1,6 @@
 ---
 title: At the end of the day, Kanban is about improving flow
-short_title: How Does Kanban Improve Workflow Efficiency?
+short_title: Kanban Is About Improving Flow
 description: Kanban focuses on improving workflow by removing bottlenecks and constraints, reducing work in progress, and increasing process efficiency—not by overworking people.
 date: 2025-03-03T15:46:26+00:00
 weight: 470
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:36Z
-  short_title: 2025-06-23T12:15:04Z
+  short_title: 2025-07-07T16:45:39Z
 concepts:
 - Practice
 categories:

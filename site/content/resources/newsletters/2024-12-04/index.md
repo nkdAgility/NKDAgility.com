@@ -1,6 +1,6 @@
 ---
 title: 'Working from Paradise: A Quick Update'
-short_title: How Will My Remote Work from Cancun Affect Meetings?
+short_title: 'Working Remotely from Cancun: Time Zone Update'
 description: Working remotely from Cancun until 23 Jan 2025; available as usual, but now on EST. Meeting times may shift due to time zone change. Contact details remain unchanged.
 date: 2024-12-10
 weight: 1000
@@ -17,7 +17,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T12:56:49Z
-  short_title: 2025-06-23T12:35:05Z
+  short_title: 2025-07-07T17:47:14Z
 concepts: []
 categories:
 - Uncategorized

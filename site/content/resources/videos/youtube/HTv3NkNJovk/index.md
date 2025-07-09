@@ -1,8 +1,12 @@
 ---
 title: Why is Satya Nadella a better example of agile leadership than Steve Jobs?
+short_title: 'Satya Nadella vs Steve Jobs: Agile Leadership'
 description: Compares Satya Nadella’s and Steve Jobs’s leadership, highlighting Nadella’s agile approach that fosters innovation, decentralised decision-making, and lasting organisational change.
 date: 2023-02-01T07:00:10Z
 weight: 465
+ResourceId: HTv3NkNJovk
+ResourceImport: true
+ResourceType: videos
 slug: why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 aliases:
 - /resources/HTv3NkNJovk
@@ -28,9 +32,6 @@ tags:
 - Agile Philosophy
 - Organisational Culture
 - Organisational Change
-ResourceId: HTv3NkNJovk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: HTv3NkNJovk
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:18Z
+  short_title: 2025-07-07T17:56:56Z
 
 ---
 This is a great question, although I imagine I might pick up a bit of flack because of the hordes of people who love [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and think of him as one of the most iconic leaders of the past century.

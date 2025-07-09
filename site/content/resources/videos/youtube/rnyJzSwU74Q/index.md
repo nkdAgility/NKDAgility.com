@@ -1,8 +1,12 @@
 ---
 title: 'Unlocking Agile Success: How Empirical Models Transform Project Outcomes'
+short_title: Empirical Models for Agile Project Success
 description: Explains how empirical Agile models improve project outcomes by increasing visibility, enabling change, reducing risk, and delivering value incrementally throughout development.
 date: 2022-10-12T17:08:59Z
 weight: 1000
+ResourceId: rnyJzSwU74Q
+ResourceImport: true
+ResourceType: videos
 slug: unlocking-agile-success-how-empirical-models-transform-project-outcomes
 aliases:
 - /resources/rnyJzSwU74Q
@@ -27,9 +31,6 @@ tags:
 - Working Software
 - Agile Transformation
 - Agile Frameworks
-ResourceId: rnyJzSwU74Q
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: rnyJzSwU74Q
@@ -46,6 +47,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:42Z
+  short_title: 2025-07-07T17:57:19Z
 
 ---
 In the world of Agile, the statistics speak volumes. According to the Standish Group's Chaos Report, small projects with fewer than 50 participants are 30% more likely to succeed when employing Agile practices. Even more striking, larger projects with over 50 people see a staggering 200% increase in their chances of success. This data underscores the transformative power of Agile methodologies, and today, I want to delve into the key differences that make this possible.

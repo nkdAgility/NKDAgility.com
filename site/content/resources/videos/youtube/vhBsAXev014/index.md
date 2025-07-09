@@ -1,6 +1,6 @@
 ---
 title: 7 Harbingers of the Agile apocalypse - Chaos
-short_title: How Can Agile Teams Overcome Chaos and Misalignment?
+short_title: 'Agile Chaos: Causes and Solutions'
 description: Explores how chaos arises in agile transformations due to unclear vision and poor communication, and offers strategies for restoring alignment, clarity, and effective teamwork.
 date: 2023-10-23T07:00:21Z
 weight: 665
@@ -48,7 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:30Z
-  short_title: 2025-06-23T12:40:15Z
+  short_title: 2025-07-07T17:52:13Z
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

@@ -1,6 +1,6 @@
 ---
 title: “Teams are self-managing
-short_title: How Do Scrum Masters Support Self-Managing Teams?
+short_title: Teams Are Self-Managing in Scrum
 description: Explains how self-managing teams in Scrum need structure and leadership, clarifying the Scrum Master's role in maintaining clarity, alignment, and effective self-management.
 date: 2025-03-21T16:30:04+00:00
 weight: 395
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:59Z
-  short_title: 2025-06-23T12:14:37Z
+  short_title: 2025-07-07T16:45:17Z
 concepts:
 - Principle
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'The Agile Bandit: How to Spot and Combat Project Management Mindsets in Product Owners'
-short_title: How Can You Spot and Fix Project Manager Mindsets in POs?
+short_title: Spotting Project Management Mindsets in Product Owners
 description: Explains how project management mindsets in Product Owners can harm Agile teams, and offers practical strategies to promote value-driven, collaborative team environments.
 date: 2024-01-10T11:00:01Z
 weight: 1000
@@ -45,7 +45,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:06:29Z
-  short_title: 2025-06-23T12:38:29Z
+  short_title: 2025-07-07T17:50:19Z
 
 ---
 I’ve often found myself reflecting on the dynamics within Agile teams, particularly when it comes to the role of the [Product Owner]({{< ref "/tags/product-owner" >}}). Have you ever worked with a Product Owner who seemed more like a project manager? You know the type—fixated on work breakdown structures, timelines, and Gantt charts. If you have, then you’ve likely encountered what I like to call an “agile bandit” Product Owner. 

@@ -1,8 +1,14 @@
 ---
 title: There is no place like production
+short_title: There Is No Place Like Production
 description: Validating product value requires releasing features to real users in production, gathering feedback, and measuring usage, satisfaction, and business impact for improvement.
 date: 2020-12-28
 weight: 440
+ResourceId: KUJ7jHOGqP7
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: there-is-no-place-like-production
 aliases:
 - /blog/there-is-no-place-like-production
@@ -30,11 +36,6 @@ tags:
 - Product Discovery
 - Agile Philosophy
 - Product Delivery
-ResourceId: KUJ7jHOGqP7
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 45324
 AudioNative: true
@@ -44,6 +45,7 @@ resourceTypes: blog
 preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:15:08Z
+  short_title: 2025-07-07T17:57:40Z
 
 ---
 Value is such a subjective thing that we will often be wrong, and there is no way around that wrongness. In order to minimise the wrongness and maximise the amount of value that we deliver we need to have a clear understanding of what our users need, how they are using the product, and validate our new value as soon as we can. Without validation we only have assumptions and assumptions can be dangerous.

@@ -1,6 +1,6 @@
 ---
 title: 'Empowering Teams to Tailor Their Processes: A Path to True Agility'
-short_title: How Does Empowering Teams Drive True Agility?
+short_title: Empowering Teams to Tailor Processes
 description: Explains why empowering teams to adapt their processes boosts agility, reduces waste, and fosters innovation, using real-world examples and practical steps for organisations.
 date: 2024-07-26T06:45:00Z
 weight: 330
@@ -57,7 +57,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:02:28Z
-  short_title: 2025-06-23T12:36:59Z
+  short_title: 2025-07-07T17:48:53Z
 
 ---
 In today's fast-paced and ever-changing business environment, agility is more than just a buzzword—it's a necessity. Yet, many organizations fall into the trap of enforcing rigid, one-size-fits-all processes that stifle creativity, innovation, and efficiency. Let's explore why it's crucial to empower teams to tailor their processes to their unique contexts, even if it means deviating from company-wide standards.

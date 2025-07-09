@@ -1,8 +1,12 @@
 ---
 title: 'Transform Your Scrum Master Journey: Key Insights from the Advanced PSM Course'
+short_title: Advanced PSM Insights for Scrum Masters
 description: Discover how the Advanced PSM course helps Scrum Masters shift from admin tasks to empowering teams, supporting Product Owners, and tackling organisational challenges.
 date: 2023-03-06T07:00:14Z
 weight: 665
+ResourceId: QGXlCm_B5zA
+ResourceImport: true
+ResourceType: videos
 slug: transform-your-scrum-master-journey-key-insights-from-the-advanced-psm-course
 aliases:
 - /resources/QGXlCm_B5zA
@@ -24,9 +28,6 @@ tags:
 - Professional Scrum
 - Scrum Master
 - Software Development
-ResourceId: QGXlCm_B5zA
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: QGXlCm_B5zA
@@ -43,6 +44,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:49Z
+  short_title: 2025-07-07T17:56:32Z
 
 ---
 When I reflect on my journey as a [Scrum]({{< ref "/categories/scrum" >}}) Master, I often find myself revisiting the question: what will you truly learn on the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) course? This is a question I get asked frequently, and I believe there are two main insights that emerge from the Advanced PSM course that can significantly reshape your understanding and practice of Scrum.

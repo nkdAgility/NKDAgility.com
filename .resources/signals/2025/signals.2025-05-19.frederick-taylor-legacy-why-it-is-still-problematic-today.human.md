@@ -1,6 +1,6 @@
 ---
 title: 'Frederick Taylor Legacy: Why it-is Still Problematic Today'
-short_title: Is Frederick Taylor’s Management Still Holding Us Back?
+short_title: Frederick Taylor’s Impact on Modern Work
 description: Examines how Frederick Taylor’s management ideas still shape workplaces today, highlighting their impact on motivation, job design, and the challenges posed by AI.
 date: 2025-05-19T15:30:58+01:00
 weight: 765
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-23T23:53:45Z
-  short_title: 2025-06-23T12:13:28Z
+  short_title: 2025-07-07T16:44:05Z
 concepts: []
 categories:
 - Uncategorized

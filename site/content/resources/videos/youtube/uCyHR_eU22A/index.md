@@ -1,8 +1,12 @@
 ---
 title: How do you select the most valuable items for the sprint backlog?
+short_title: Selecting Valuable Sprint Backlog Items
 description: Learn how Agile teams collaboratively select high-value sprint backlog items by balancing business needs, technical priorities, and stakeholder input for effective sprint planning.
 date: 2023-05-30T07:00:18Z
 weight: 640
+ResourceId: uCyHR_eU22A
+ResourceImport: true
+ResourceType: videos
 slug: how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 aliases:
 - /resources/uCyHR_eU22A
@@ -23,9 +27,6 @@ tags:
 - Software Development
 - Agile Frameworks
 - Agile Product Management
-ResourceId: uCyHR_eU22A
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: uCyHR_eU22A
@@ -42,6 +43,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:04Z
+  short_title: 2025-07-07T17:54:58Z
 
 ---
 ## Navigating Sprint Backlog Selection

@@ -1,8 +1,12 @@
 ---
 title: Best Scrum advice you ever received?
+short_title: 'Best Scrum Advice: Be Flexible, Not Dogmatic'
 description: Emphasises the importance of flexibility and pragmatism in Scrum, encouraging teams to adapt frameworks to their context rather than rigidly following prescribed rules.
 date: 2023-06-05T07:00:20Z
 weight: 690
+ResourceId: YUlpnyN2IeI
+ResourceImport: true
+ResourceType: videos
 slug: best-scrum-advice-you-ever-received
 aliases:
 - /resources/YUlpnyN2IeI
@@ -28,9 +32,6 @@ tags:
 - Organisational Agility
 - Agile Frameworks
 - Agile Transformation
-ResourceId: YUlpnyN2IeI
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: YUlpnyN2IeI
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:53Z
+  short_title: 2025-07-07T17:54:51Z
 
 ---
 ## The Golden Nugget of [Scrum]({{< ref "/categories/scrum" >}}) Advice I've Ever Received

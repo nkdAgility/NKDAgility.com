@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Cloud Migration: How to Leverage Microsoft’s Tool for a Seamless Transition'
-short_title: How Can Microsoft’s Tool Simplify Cloud Migration?
+short_title: Mastering Cloud Migration with Microsoft Tool
 description: Learn how to use Microsoft’s migration tool to identify issues, review customisations, and plan for a smooth, risk-free transition of systems to the cloud.
 date: 2024-09-18T11:59:33Z
 weight: 1000
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T12:57:43Z
-  short_title: 2025-06-23T12:35:49Z
+  short_title: 2025-07-07T17:47:57Z
 
 ---
 When it comes to migrating to the cloud, one of the most significant challenges we face is ensuring that our existing systems and customisations will function seamlessly in the new environment. I’ve been through this process multiple times, and I can tell you that preparation is key. 

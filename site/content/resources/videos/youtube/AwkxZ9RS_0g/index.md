@@ -1,8 +1,12 @@
 ---
 title: How Does Your Consulting Experience Manifest in the Training Environment?
+short_title: Consulting Experience in Training Effectiveness
 description: Explains how real consulting experience enhances training by providing practical examples, bridging theory and practice, and making learning more relevant and impactful.
 date: 2023-06-21T07:00:03Z
 weight: 840
+ResourceId: AwkxZ9RS_0g
+ResourceImport: true
+ResourceType: videos
 slug: how-does-your-consulting-experience-manifest-in-the-training-environment
 aliases:
 - /resources/AwkxZ9RS_0g
@@ -18,9 +22,6 @@ categories:
 - Uncategorized
 tags:
 - Pragmatic Thinking
-ResourceId: AwkxZ9RS_0g
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: AwkxZ9RS_0g
@@ -37,6 +38,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:24Z
+  short_title: 2025-07-07T17:54:28Z
 
 ---
 ## Synergy Between Consulting and Training

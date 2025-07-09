@@ -1,6 +1,6 @@
 ---
 title: Overview of 'applying flow metrics for Scrum' course.
-short_title: How Can Kanban Flow Metrics Improve Scrum Teams?
+short_title: Applying Flow Metrics for Scrum Course Overview
 description: Learn how to use Kanban flow metrics in Scrum to improve value delivery, track progress, identify bottlenecks, and drive continuous improvement in agile teams.
 date: 2024-02-19T07:00:09Z
 weight: 665
@@ -53,7 +53,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:05:42Z
-  short_title: 2025-06-23T12:37:51Z
+  short_title: 2025-07-07T17:49:43Z
 
 ---
 ### Applying Flow Metrics for [Scrum]({{< ref "/categories/scrum" >}}): Enhancing [Value Delivery]({{< ref "/tags/value-delivery" >}}) with [Kanban]({{< ref "/categories/kanban" >}})

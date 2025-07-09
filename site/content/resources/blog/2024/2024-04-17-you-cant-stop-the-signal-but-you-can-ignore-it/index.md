@@ -1,6 +1,6 @@
 ---
 title: You can't stop the signal! But you can ignore it!
-short_title: Why Do Teams Ignore Agile and Scrum Improvement Signals?
+short_title: Why Teams Ignore Agile and Scrum Signals
 description: Explores why teams ignore clear signals from Agile and Scrum, highlighting how culture and fear hinder continuous improvement and effective problem-solving in organisations.
 date: 2024-04-17
 weight: 330
@@ -52,7 +52,7 @@ resourceTypes: blog
 preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 Watermarks:
   description: 2025-05-07T13:05:16Z
-  short_title: 2025-06-23T12:37:27Z
+  short_title: 2025-07-07T17:49:20Z
 
 ---
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and [Scrum]({{< ref "/categories/scrum" >}}) (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

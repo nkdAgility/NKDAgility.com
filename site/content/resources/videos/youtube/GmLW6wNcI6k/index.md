@@ -1,8 +1,12 @@
 ---
 title: What Does the Assessment Phase of a Consulting Engagement Look and Feel Like?
+short_title: Consulting Assessment Phase Explained
 description: Explains the assessment phase in consulting, highlighting continuous learning, agile adaptation, and the value of hands-on engagement over rigid upfront analysis.
 date: 2023-06-19T10:00:25Z
 weight: 790
+ResourceId: GmLW6wNcI6k
+ResourceImport: true
+ResourceType: videos
 slug: what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
 aliases:
 - /resources/GmLW6wNcI6k
@@ -21,9 +25,6 @@ categories:
 - Uncategorized
 tags:
 - Pragmatic Thinking
-ResourceId: GmLW6wNcI6k
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: GmLW6wNcI6k
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:30Z
+  short_title: 2025-07-07T17:54:33Z
 
 ---
 ## The Reality of the Assessment Phase in a Consulting Engagement

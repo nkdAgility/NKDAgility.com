@@ -1,6 +1,6 @@
 ---
 title: 'Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development!'
-short_title: What Is Product Ownership and Lean Product Development?
+short_title: Product Ownership & Lean Product Development Webcast
 description: Explore expert insights on product ownership and lean product development, featuring real-world examples, practical strategies, and an interactive Q&A session.
 date: 2023-09-28
 weight: 1000
@@ -27,7 +27,7 @@ resourceTypes: newsletter
 layout: newsletter
 Watermarks:
   description: 2025-05-07T13:09:16Z
-  short_title: 2025-06-23T12:40:57Z
+  short_title: 2025-07-07T17:52:50Z
 
 ---
 Join us for an enlightening 18-minute journey with two of the industry's leading experts, Dr. Joanna Płaskonka and Martin Hinshelwood, as they unravel the intricacies of Product Ownership and [Lean]({{< ref "/categories/lean" >}}) [Product Development]({{< ref "/categories/product-development" >}}).

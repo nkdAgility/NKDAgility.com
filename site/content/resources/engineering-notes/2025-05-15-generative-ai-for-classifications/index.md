@@ -1,6 +1,6 @@
 ---
 title: How I Used Generative AI to Transform Site Tagging and Categories
-short_title: How Can Generative AI Improve Blog Tagging and Categories?
+short_title: Generative AI for Automated Site Tagging
 description: Explains how generative AI and PowerShell scripts automate and improve blog post tagging and categorisation in Hugo, with human oversight and transparent audit trails.
 date: 2025-05-15T09:00:00Z
 weight: 400
@@ -13,7 +13,7 @@ aliases:
 ResourceContentOrigin: human
 Watermarks:
   description: 2025-05-07T13:48:01Z
-  short_title: 2025-06-23T12:33:27Z
+  short_title: 2025-07-07T16:44:11Z
 concepts:
 - Tool
 categories:

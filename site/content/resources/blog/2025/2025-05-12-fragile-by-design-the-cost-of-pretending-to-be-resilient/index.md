@@ -1,6 +1,6 @@
 ---
 title: 'Fragile by Design: The Cost of Pretending to Be Resilient'
-short_title: How Can Organisations Build True Resilience in Systems?
+short_title: 'Fragile by Design: The Cost of Fake Resilience'
 description: Explores how poor engineering, shallow product thinking, and organisational denial lead to fragile systems, stressing that true resilience requires rigorous, real-world testing.
 date: 2025-05-12T09:00:00Z
 weight: 165
@@ -27,7 +27,7 @@ tags:
 - Site Reliability Engineering
 Watermarks:
   description: 2025-05-07T12:49:09Z
-  short_title: 2025-06-23T12:33:34Z
+  short_title: 2025-07-07T16:44:17Z
 
 ---
 Most systems are not resilient. They are fragile by design—propped up by a fantasy of "continuity" that vanishes the moment real pressure hits.

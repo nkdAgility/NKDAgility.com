@@ -1,15 +1,16 @@
 ---
 title: Discipline versus motivation?
+short_title: Discipline vs Motivation in Agile and Scrum
 description: Explores the roles of discipline and motivation in Agile and Scrum, highlighting how both drive successful Agile transformation and sustained team performance.
 date: 2023-05-15T07:00:21Z
 weight: 790
+ResourceId: sidTi_uSsdc
+ResourceImport: true
+ResourceType: videos
 slug: discipline-versus-motivation
 aliases:
 - /resources/sidTi_uSsdc
 - /resources/videos/discipline-versus-motivation-sidTi_uSsdc
-ResourceId: sidTi_uSsdc
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: sidTi_uSsdc
@@ -34,6 +35,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:12:29Z
+  short_title: 2025-07-07T17:55:17Z
 
 ---
 **Discipline versus motivation?**

@@ -1,6 +1,6 @@
 ---
 title: Understand the true risk of technical debt in your business
-short_title: Is Technical Debt a Hidden Risk in Your Business?
+short_title: The True Risk of Technical Debt in Business
 description: Technical debt poses significant business risks, reducing agility, slowing innovation, and causing lost opportunities. Addressing it is crucial for long-term organisational success.
 date: 2025-04-24T15:30:48+01:00
 weight: 240
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:15Z
-  short_title: 2025-06-23T12:13:55Z
+  short_title: 2025-07-07T16:44:41Z
 concepts: []
 categories:
 - Engineering Excellence

@@ -1,8 +1,12 @@
 ---
 title: DevOps Consulting Overview
+short_title: DevOps Consulting Overview
 description: Explore how expert DevOps consulting drives cultural change, process improvement, technical troubleshooting, and tailored solutions for efficient, reliable software delivery.
 date: 2023-06-16T07:00:14Z
 weight: 630
+ResourceId: QQA9coiM4fk
+ResourceImport: true
+ResourceType: videos
 slug: devops-consulting-overview
 aliases:
 - /resources/QQA9coiM4fk
@@ -17,9 +21,6 @@ concepts: []
 categories:
 - DevOps
 tags: []
-ResourceId: QQA9coiM4fk
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: QQA9coiM4fk
@@ -36,6 +37,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:11:34Z
+  short_title: 2025-07-07T17:54:36Z
 
 ---
 ## Navigating the Complexities with Expert Guidance 

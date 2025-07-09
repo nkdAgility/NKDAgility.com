@@ -1,8 +1,12 @@
 ---
 title: 'Why Many Scrum Masters Stall at PSM1: The Crucial Role of Passion in Professional Growth'
+short_title: Why Scrum Masters Stall at PSM1
 description: Many Scrum Masters stop at PSM1 due to lack of passion. Ongoing learning, genuine interest, and active engagement are key to advancing and excelling in the Scrum Master role.
 date: 2023-04-07T07:00:20Z
 weight: 1000
+ResourceId: vWfebO_pwIU
+ResourceImport: true
+ResourceType: videos
 slug: why-many-scrum-masters-stall-at-psm1-the-crucial-role-of-passion-in-professional-growth
 aliases:
 - /resources/vWfebO_pwIU
@@ -20,9 +24,6 @@ categories:
 - Uncategorized
 tags:
 - Scrum Master
-ResourceId: vWfebO_pwIU
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: vWfebO_pwIU
@@ -39,6 +40,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:19Z
+  short_title: 2025-07-07T17:56:00Z
 
 ---
 As I reflect on the journey of [Scrum]({{< ref "/categories/scrum" >}}) Masters and their progression through the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master (PSM) certifications, I can't help but notice a troubling trend: many Scrum Masters never advance beyond the PSM1 level. This observation leads me to a crucial question: why is that? 

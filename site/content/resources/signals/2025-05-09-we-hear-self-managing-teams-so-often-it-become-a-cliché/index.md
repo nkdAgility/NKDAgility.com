@@ -1,6 +1,6 @@
 ---
 title: We hear self-managing teams so often it become a cliché
-short_title: What Does True Self-Management in Scrum Look Like?
+short_title: Self-Management in Scrum Teams Explained
 description: Explains how true self-management in Scrum requires active, disciplined effort from Product Owners, Scrum Masters, and Developers, not chaos or lack of structure.
 date: 2025-05-09T15:30:39+01:00
 weight: 310
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:54:54Z
-  short_title: 2025-06-23T12:13:37Z
+  short_title: 2025-07-07T16:44:22Z
 concepts:
 - Principle
 categories:

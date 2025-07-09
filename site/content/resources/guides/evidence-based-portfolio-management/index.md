@@ -1,6 +1,6 @@
 ---
 title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
-short_title: Evidence-based Portfolio Management
+short_title: Evidence-Based Portfolio Management
 description: Explains how evidence-based portfolio management helps organisations extend agile practices beyond teams, enabling greater responsiveness and improved business outcomes.
 date: 2024-09-17
 weight: 1000
@@ -31,7 +31,7 @@ card:
   title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
 Watermarks:
   description: 2025-05-07T12:58:06Z
-  short_title: 2025-06-23T12:35:57Z
+  short_title: 2025-07-07T16:40:35Z
 
 ---
 Organizations who seek to improve their competitiveness by being more responsive to change often turn to agile approaches to improve their responsiveness. While many organizations have reaped the rewards of agility at the team level, their traditional management practices impede deeper change that would enable true [business agility]({{< ref "/tags/business-agility" >}}). Agile principles and practices must spread beyond the [Scrum]({{< ref "/categories/scrum" >}}) Team in order for organizations to achieve the dramatic improvement that they seek in their business results.

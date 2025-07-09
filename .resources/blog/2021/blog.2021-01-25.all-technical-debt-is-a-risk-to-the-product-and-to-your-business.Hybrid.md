@@ -1,8 +1,14 @@
 ---
 title: All technical debt is a risk to the product and to your business.
+short_title: Technical Debt Is a Risk to Products and Business
 description: Technical debt increases risk to products and businesses, leading to hidden costs, reduced quality, and slower delivery. Ignoring it can harm long-term value and growth.
 date: 2021-01-25
 weight: 340
+ResourceId: ZSqNF7v9vSR
+ResourceImport: true
+ResourceImportSource: Wordpress
+ResourceImportOriginalSource: Wordpress
+ResourceType: blog
 slug: all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 aliases:
 - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
@@ -27,11 +33,6 @@ tags:
 - Technical Mastery
 - Technical Debt
 - Pragmatic Thinking
-ResourceId: ZSqNF7v9vSR
-ResourceImport: true
-ResourceImportSource: Wordpress
-ResourceImportOriginalSource: Wordpress
-ResourceType: blog
 ResourceContentOrigin: Hybrid
 ResourceImportId: 45521
 AudioNative: true
@@ -41,6 +42,7 @@ resourceTypes: blog
 preview: All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg
 Watermarks:
   description: 2025-05-07T13:15:01Z
+  short_title: 2025-07-07T17:57:35Z
 
 ---
 If you were buying a car, or a TV, you as the purchaser would do your best to understand the product that you are buying, the quality tradeoffs, and the capabilities.

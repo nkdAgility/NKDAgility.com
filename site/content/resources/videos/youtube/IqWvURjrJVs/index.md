@@ -1,6 +1,6 @@
 ---
 title: Znaczenie znajomości terenu
-short_title: How Does Terrain Knowledge Improve Agile Team Agility?
+short_title: Znaczenie znajomości terenu
 description: Explores how knowledge of terrain, using mushroom picking as an example, can teach agility and adaptability in agile teams and project management environments.
 date: 2023-08-10T14:45:00Z
 weight: 1000
@@ -39,7 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:10:16Z
-  short_title: 2025-06-23T12:41:45Z
+  short_title: 2025-07-07T17:53:35Z
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?

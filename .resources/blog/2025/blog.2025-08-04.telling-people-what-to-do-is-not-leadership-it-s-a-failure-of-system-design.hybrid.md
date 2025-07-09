@@ -1,8 +1,12 @@
 ---
 title: Telling People What to Do Is Not Leadership. It’s a Failure of System Design.
+short_title: Leadership Is System Design, Not Command
 description: Explores why real leadership means designing systems that enable team autonomy, flow, and accountability—rather than relying on command-and-control management.
 date: 2025-08-04T09:00:00Z
 weight: 30
+ResourceId: W_KrTupmowf
+ResourceImport: false
+ResourceType: blog
 slug: telling-people-what-to-do-is-not-leadership-it-s-a-failure-of-system-design
 aliases:
 - /resources/blog/telling-people-what-to-do-is-not-leadership.-it-s-a-failure-of-system-design.
@@ -31,18 +35,18 @@ tags:
 - Agile Strategy
 - Agile Transformation
 - Continuous Improvement
-ResourceId: W_KrTupmowf
-ResourceImport: false
-ResourceType: blog
 ResourceContentOrigin: hybrid
-Watermarks:
-  description: 2025-05-19T07:28:14Z
 creator: Martin Hinshelwood
 contributors:
 - name: Brett Maytom
   external: https://www.linkedin.com/in/scrum-trainer/
 - name: Alex Brown
   external: https://www.linkedin.com/in/alexbrown/
+- name: Alessandro Recca
+  external: https://www.linkedin.com/in/alessandro-recca-b9974a21a/
+Watermarks:
+  description: 2025-05-19T07:28:14Z
+  short_title: 2025-07-07T16:43:11Z
 
 ---
 If your organisation still measures leadership by how many decisions a manager makes, you are not leading. You are leaking value.
@@ -60,6 +64,8 @@ In organisations grounded in empirical process control, leadership isn’t about
 Modern management is not about allocating tasks. It’s about removing the need for anyone to allocate tasks in the first place.
 
 When teams are working against clear goals, with shared understanding, visibility of work-in-progress, and constraints that enable—not restrict—decision-making, they don’t need instructions. They need clarity, context, and trust.
+
+Great systems aren’t static. They evolve through structured feedback loops—Sprint Reviews, Retrospectives, operational telemetry, and small experiments. Inspection and adaptation are what make systems empirical, not just idealistic.
 
 ## Taylorism Is for Factories. You Run a Cognitive Organisation.
 
@@ -84,6 +90,8 @@ This is the ethos behind Scrum, Kanban, and DevOps:
 - **DevOps** ensures the loop from idea to value is short, safe, and inspectable.
 
 Together, they form a coherent strategy for managing systems of work without resorting to micromanagement. When teams understand their constraints, have the tools to respond to change, and are accountable for outcomes, not just activity, they no longer need to be told what to do.
+
+Speed is not the goal, but it is a critical capability. In a competitive environment, reducing time-to-market isn’t just about efficiency—it’s how organisations learn faster, respond sooner, and stay ahead of disruption. For a deeper dive into why frequent delivery is a competitive advantage, read [There Is No Place Like Production]({{< ref "/resources/blog/2020/2020-12-28-there-is-no-place-like-production" >}}).
 
 ## Telling People What to Do is an Expensive Workaround
 
@@ -185,6 +193,8 @@ Most Scrum Masters and Product Owners are either appointed without preparation o
 - **Action**: Hire or develop Scrum Masters and Product Owners who demonstrate competence across three domains: technical fluency, business acumen, and organisational change leadership.
 - **How**: Provide structured learning journeys that combine high quality training with hands-on mentorship from experienced practitioners. Assess candidates or internal staff on their ability to enable delivery systems, not just facilitate meetings or write stories. Require evidence of contribution to system improvement, cross-team alignment, and customer impact.
 - **Why**: Competent SMs and POs anchor the Scrum Team in purpose and delivery. The Scrum Master builds capability, encourages flow, and fosters empiricism, and modern engineering practices. The [Product Owner sets the tone for product leadership]({{< ref "/resources/blog/2021/2021-05-17-hiring-a-professional-product-owner" >}}) and modern product development practices. When these roles function well, the team no longer needs daily direction from management—because the system is aligned, and delivery is deliberate.
+
+Scrum Masters are not passive facilitators. They are system stewards—accountable for enabling transparency, optimising flow, and coaching both teams and managers to operate within an empirical system. If they’re not improving the system, they’re part of the dysfunction. If you want to understand what separates a competent Scrum Master from a glorified coordinator, read [Why Most Scrum Masters Are Failing—and What They Should Know]({{< ref "/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know" >}}).
 
 The problem isn’t Scrum. The problem is that [we keep filling these roles with people who aren’t ready]({{< ref "/resources/blog/2024/2024-09-05-the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know" >}}) or worse never will be. Raise the bar, or get out of the way.
 

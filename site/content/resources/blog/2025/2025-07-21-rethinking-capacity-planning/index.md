@@ -1,6 +1,6 @@
 ---
 title: Rethinking Capacity Planning
-short_title: How Can System-Level Flow Improve Capacity Planning?
+short_title: Rethinking Capacity Planning
 description: Explores how effective capacity planning shifts focus from individual hours to system-level flow, using Lean and Agile principles to improve predictability and value delivery.
 date: 2025-07-21T09:00:00Z
 weight: 245
@@ -19,7 +19,7 @@ contributors:
 ResourceContentOrigin: hybrid
 Watermarks:
   description: 2025-05-07T12:48:54Z
-  short_title: 2025-06-23T12:32:49Z
+  short_title: 2025-07-07T16:43:13Z
 concepts:
 - Principle
 categories:
@@ -140,7 +140,6 @@ To right-size effectively:
 - Make right-sizing part of your working agreements and backlog preparation, ensuring teams only pull work that meets clear, shared readiness standards.
 
 The issue isn't estimation itself—it's turning estimation into something it was never meant to be. Right-sizing is still estimation, just done in a simpler and more honest way. This is not about squeezing people harder; it is about designing a steady, sustainable system where predictability is built directly into the shape and handling of the work.
-
 
 ### Apply WIP Limits and Enforce Pull
 

@@ -1,6 +1,6 @@
 ---
 title: Detecting Agile BS
-short_title: How Can You Spot Fake Agile in Software Projects?
+short_title: Detecting Agile BS
 description: Guidance for identifying genuine agile software development in DoD projects, including key principles, warning signs, essential tools, and critical evaluation questions.
 date: 2024-09-17
 weight: 360
@@ -53,7 +53,7 @@ card:
   title: Detecting Agile BS
 Watermarks:
   description: 2025-05-07T12:58:02Z
-  short_title: 2025-06-23T12:35:58Z
+  short_title: 2025-07-07T16:40:40Z
 
 ---
 Agile is a buzzword of [software development]({{< ref "/tags/software-development" >}}), and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-[scrum]({{< ref "/categories/scrum" >}})-fall”).
@@ -66,12 +66,12 @@ Experts and devotees profess certain key “values” to characterize the cultur
 agile development. In its work, the DIB has developed its own guiding maxims that roughly map
 to these true agile values:
 
-| Agile value                                           | DIB maxim                                                                                             |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| Individuals and interactions over processes and tools | “[Competence]({{< ref "/tags/competence" >}}) trumps process”                                                                           |
-| [Working software]({{< ref "/tags/working-software" >}}) over comprehensive documentation     | “Minimize time from program launch to deployment of simplest useful functionality”                    |
-| Customer collaboration over contract negotiation      | “Adopt a DevSecOps culture for software systems”                                                      |
-| Responding to change over following a plan            | “Software programs should start small, be iterative, and build on success ‒ or be terminated quickly” |
+| Agile value                                                                               | DIB maxim                                                                                             |
+| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Individuals and interactions over processes and tools                                     | “[Competence]({{< ref "/tags/competence" >}}) trumps process”                                         |
+| [Working software]({{< ref "/tags/working-software" >}}) over comprehensive documentation | “Minimize time from program launch to deployment of simplest useful functionality”                    |
+| Customer collaboration over contract negotiation                                          | “Adopt a DevSecOps culture for software systems”                                                      |
+| Responding to change over following a plan                                                | “Software programs should start small, be iterative, and build on success ‒ or be terminated quickly” |
 
 {: .table .table-striped .table-bordered .d-none .d-md-block}
 

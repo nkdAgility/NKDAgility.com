@@ -1,8 +1,12 @@
 ---
 title: How does the APS course help people apply scrum effectively?
+short_title: Applying Professional Scrum (APS) Course Guide
 description: Explains how the APS course uses practical exercises and simulations to help people understand, apply, and improve scrum practices in real-world organisational settings.
 date: 2023-01-18T08:57:16Z
 weight: 640
+ResourceId: grJFd9-R5Pw
+ResourceImport: true
+ResourceType: videos
 slug: how-does-the-aps-course-help-people-apply-scrum-effectively
 aliases:
 - /resources/grJFd9-R5Pw
@@ -28,9 +32,6 @@ tags:
 - Agile Transformation
 - Agile Planning
 - Scrum Master
-ResourceId: grJFd9-R5Pw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: grJFd9-R5Pw
@@ -47,6 +48,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:14:32Z
+  short_title: 2025-07-07T17:57:08Z
 
 ---
 How does the APS course help people apply [scrum]({{< ref "/categories/scrum" >}}) effectively?

@@ -1,6 +1,6 @@
 ---
 title: Why Your Definition of “Done” Is Holding Back Quality, Agility, and Trust—And How to Raise the Bar
-short_title: Is Your Definition of Done Hurting Quality and Agility?
+short_title: 'Definition of Done: Boosting Quality and Trust'
 description: Is your team’s “done” really done? Discover how a clear, objective definition of done boosts quality, agility, and trust in product delivery.
 date: 2025-07-09T06:45:00Z
 weight: 165
@@ -54,7 +54,7 @@ sitemap:
 ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T19:08:27Z
-  short_title: 2025-06-23T12:32:54Z
+  short_title: 2025-07-07T16:43:17Z
 
 ---
 Can Your Product Pass the Done Test?

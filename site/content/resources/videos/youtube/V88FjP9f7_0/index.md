@@ -1,6 +1,6 @@
 ---
 title: 'Quotes: Less is More. True or False?'
-short_title: Does 'Less Is More' Improve Agile Productivity?
+short_title: 'Less Is More in Agile: Boosting Value'
 description: Explores how applying 'less is more' in Agile boosts productivity and quality by focusing on high-value tasks, reducing waste, and streamlining team workflows.
 date: 2023-10-14T07:00:13Z
 weight: 1000
@@ -49,7 +49,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:08:45Z
-  short_title: 2025-06-23T12:40:29Z
+  short_title: 2025-07-07T17:52:25Z
 
 ---
 **Embracing 'Less is More' in Agile: Maximising Value, Minimising Waste 🚀🌟** 

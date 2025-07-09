@@ -1,14 +1,15 @@
 ---
 title: 'Empowering Development Teams: Cultivating an Agile Mindset for Lasting Quality'
+short_title: Empowering Teams to Build an Agile Mindset
 description: Explores how leaders can foster an agile mindset in development teams by promoting autonomy, mastery, purpose, and a culture of quality and continuous improvement.
 date: 2020-04-07T20:33:45Z
 weight: 1000
-slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
-aliases:
-- /resources/iCDEX6oHy7A
 ResourceId: iCDEX6oHy7A
 ResourceImport: true
 ResourceType: videos
+slug: empowering-development-teams-cultivating-an-agile-mindset-for-lasting-quality
+aliases:
+- /resources/iCDEX6oHy7A
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: iCDEX6oHy7A
@@ -38,6 +39,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:15:54Z
+  short_title: 2025-07-07T17:58:14Z
 
 ---
 As I sit here in Scotland, reflecting on a recent conversation with my good friend Jim from the Midwest, I can’t help but think about the challenges many organisations face on their agile journey. Jim reached out to me with a pressing question: how do we train development teams to embrace an agile mindset? This is a topic that resonates deeply with me, and I believe it’s crucial for the success of any [agile transformation]({{< ref "/tags/agile-transformation" >}}).

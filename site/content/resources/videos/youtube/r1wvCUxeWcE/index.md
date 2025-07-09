@@ -1,6 +1,6 @@
 ---
 title: 'Mastering Your Kanban Board: A Practical Guide to Visualising and Optimising Your Workflow'
-short_title: How Can You Optimise and Adapt Your Kanban Board?
+short_title: Mastering Your Kanban Board
 description: Learn how to design, review, and adapt Kanban boards to accurately visualise workflows, identify bottlenecks, and support continuous improvement in team processes.
 date: 2024-08-16T07:04:15Z
 weight: 1000
@@ -41,7 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:02:07Z
-  short_title: 2025-06-23T12:36:37Z
+  short_title: 2025-07-07T17:48:33Z
 
 ---
 When it comes to visualising work in a [Kanban]({{< ref "/categories/kanban" >}}) system, one of the most crucial elements is the Kanban board itself. I can’t stress enough how important it is to have a clear representation of your workflow. It’s not just about aesthetics; it’s about understanding how your system operates and how work moves through it.

@@ -1,8 +1,12 @@
 ---
 title: Why did you choose the Scrum.Org track rather than the Scrum Alliance track?
+short_title: Choosing Scrum.Org vs Scrum Alliance
 description: Explains choosing Scrum.Org over Scrum Alliance, focusing on values, certification costs, flexibility, community support, and alignment with agile and scrum principles.
 date: 2023-02-24T07:00:14Z
 weight: 1000
+ResourceId: jhpy9Hy8uEw
+ResourceImport: true
+ResourceType: videos
 slug: why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 aliases:
 - /resources/jhpy9Hy8uEw
@@ -21,9 +25,6 @@ concepts: []
 categories:
 - Scrum
 tags: []
-ResourceId: jhpy9Hy8uEw
-ResourceImport: true
-ResourceType: videos
 ResourceContentOrigin: AI
 ResourceImportSource: Youtube
 videoId: jhpy9Hy8uEw
@@ -40,6 +41,7 @@ resourceTypes:
 - video
 Watermarks:
   description: 2025-05-07T13:13:57Z
+  short_title: 2025-07-07T17:56:39Z
 
 ---
 Why did you choose the [Scrum]({{< ref "/categories/scrum" >}}).Org track rather than the Scrum Alliance track?

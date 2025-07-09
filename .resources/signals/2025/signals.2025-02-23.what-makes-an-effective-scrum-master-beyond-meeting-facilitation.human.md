@@ -1,6 +1,6 @@
 ---
 title: What Makes an Effective Scrum Master Beyond Meeting Facilitation
-short_title: What Makes a Scrum Master Truly Effective?
+short_title: Qualities of an Effective Scrum Master
 description: Explores key qualities of an effective Scrum Master, focusing on team empowerment, backlog management, collaboration, and removing organisational barriers for lasting impact.
 date: 2025-02-23T16:30:01+00:00
 weight: 380
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:56:46Z
-  short_title: 2025-06-23T12:15:15Z
+  short_title: 2025-07-07T17:46:14Z
 concepts:
 - Principle
 categories:

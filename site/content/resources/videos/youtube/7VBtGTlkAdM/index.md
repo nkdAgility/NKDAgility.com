@@ -1,6 +1,6 @@
 ---
 title: 1 thing that sinks a consulting engagement before it starts gaining traction?
-short_title: Are Overly Detailed Contracts Hurting Consulting Success?
+short_title: Overly Detailed Consulting Contracts Kill Traction
 description: Overly detailed consulting contracts can hinder project success by limiting flexibility; focus on outcomes and value to adapt to changing client needs and product goals.
 date: 2023-08-19T07:00:06Z
 weight: 1000
@@ -38,7 +38,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T13:10:07Z
-  short_title: 2025-06-23T12:41:38Z
+  short_title: 2025-07-07T17:53:29Z
 
 ---
 ## The Double-Edged Sword of Consulting Contracts

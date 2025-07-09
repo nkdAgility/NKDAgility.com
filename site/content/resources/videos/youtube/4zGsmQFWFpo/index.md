@@ -1,6 +1,6 @@
 ---
 title: 'Focusing Beyond "Agile": Building True Capability in Organizations'
-short_title: How Can Organizations Build True Capability Beyond Agile?
+short_title: Building Organizational Capability Beyond Agile
 description: Explores why building organisational capability, competence, and continuous learning is more effective than focusing solely on Agile roles, frameworks, or labels.
 date: 2024-10-11T06:45:00Z
 weight: 400
@@ -46,7 +46,7 @@ resourceTypes:
 layout: video
 Watermarks:
   description: 2025-05-07T12:57:33Z
-  short_title: 2025-06-23T12:35:41Z
+  short_title: 2025-07-07T17:47:50Z
 
 ---
 In today’s rapidly evolving landscape, focusing solely on _Agile_ as a label can be limiting. Instead, the goal should be to increase our organization’s **capability**, **maximize value**, and **enhance effectiveness**. It's not about the moniker; it’s about achieving outcomes that matter. 🏆

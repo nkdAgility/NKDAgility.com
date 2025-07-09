@@ -1,6 +1,6 @@
 ---
 title: Too much refinement wastes time
-short_title: How Much Backlog Refinement Is Enough in Scrum?
+short_title: Too Much Backlog Refinement Wastes Time
 description: Balancing backlog refinement prevents wasted effort and chaos. Aim for just enough detail so developers can plan sprints confidently without over-preparing or guessing.
 date: 2025-04-29T15:30:43+01:00
 weight: 345
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:55:09Z
-  short_title: 2025-06-23T12:13:49Z
+  short_title: 2025-07-07T16:44:36Z
 concepts:
 - Method
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Frequent releases are not just a technical strategy
-short_title: Why Are Frequent Software Releases Essential?
+short_title: Frequent Releases Reduce Risk and Improve Feedback
 description: Frequent software releases reduce risk, enable faster feedback, and help teams adapt to user needs, preventing costly mistakes and improving overall performance.
 date: 2025-02-07T16:30:01+00:00
 weight: 300
@@ -26,7 +26,7 @@ platform_signals:
     reposts: 0
 Watermarks:
   description: 2025-05-16T15:57:05Z
-  short_title: 2025-06-23T12:15:38Z
+  short_title: 2025-07-07T17:46:42Z
 concepts:
 - Practice
 categories:
