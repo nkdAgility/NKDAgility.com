@@ -4,13 +4,12 @@
       {{- partial "components/pages/header.html" . }}
     </section>
   </section>
-  <section class="container-fluid resources-headline-sharebar">
-    <section class="container container-heading">{{- partial "components/resources/share-bar.html" . }}</section>
-  </section>
 {{- end }}
 
 {{- define "main" }}
-
+  <section class="container-fluid resources-headline-sharebar">
+    <section class="container container-heading">{{- partial "components/resources/share-bar.html" . }}</section>
+  </section>
   <!-- Change this date as needed -->
   {{ if .Params.AudioNative }}
     <section class="container my-5  container-content">

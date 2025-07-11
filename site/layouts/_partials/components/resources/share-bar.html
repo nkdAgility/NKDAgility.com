@@ -1,4 +1,4 @@
-<div class="publications-share-bar d-flex justify-content-between align-items-center py-2 border-1">
+<div class="resources-share-bar d-flex justify-content-between align-items-center py-2 border-1">
   <!-- Left-aligned buttons -->
   <div class="d-inline-flex gap-2">
     <!-- TOC Dropdown -->
@@ -26,86 +26,6 @@
   <div class="d-inline-flex gap-2">
     {{- partial "components/share-dropdown.html" . }}
     {{- partial "components/admin-dropdown.html" . }}
-    <a href="#" class="btn btn-sm btn-outline-secondary text-nowrap" title="Sign up for more posts" data-bs-toggle="modal" data-bs-target="#followModal"><span class="d-none d-xl-inline">Subscribe </span>{{ partial "components/site-icon.html" (dict "icon" "fa-cowbell-circle-plus") }}</a>
-  </div>
-</div>
-
-<div class="modal fade" id="followModal" tabindex="-1" aria-labelledby="followModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="followModalLabel">Subscribe to Email Notifications</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <!-- Begin Mailchimp Signup Form -->
-        <div id="mc_embed_shell">
-          <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css" />
-          <div id="mc_embed_signup">
-            <form action="https://nkdagility.us6.list-manage.com/subscribe/post?u=8f1debed5aa20a5cfafd20918&amp;id=94de9849c1&amp;f_id=0013d3e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-              <div id="mc_embed_signup_scroll">
-                <h2>Subscribe or Update</h2>
-                <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-                <div class="mc-field-group">
-                  <label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label
-                  ><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" />
-                </div>
-                <div class="mc-field-group input-group">
-                  <strong>Notify me of </strong>
-                  <ul>
-                    <li>
-                      <input type="checkbox" name="group[18025][4]" id="mce-group[18025]-18025-0" value="" /><label for="mce-group[18025]-18025-0"> Blog Posts<span class="text-muted"> - usually weekly on Mondays</span></label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="group[18025][32]" id="mce-group[18025]-18025-1" value="" /><label for="mce-group[18025]-18025-1"> Engineering Notes <span class="text-muted"> - Technical Tuesday</span></label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="group[18025][16]" id="mce-group[18025]-18025-2" value="" /><label for="mce-group[18025]-18025-2"> Newsletters <span class="text-muted"> - monthly updates</span></label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="group[18025][8]" id="mce-group[18025]-18025-3" value="" /><label for="mce-group[18025]-18025-3"> Events <span class="text-muted"> - class or mentoring events</span></label>
-                    </li>
-                    <li>
-                      <input type="checkbox" name="group[18025][64]" id="mce-group[18025]-18025-4" value="" /><label for="mce-group[18025]-18025-4"> Videos <span class="text-muted"> - videos, tutorials, and webinars</span></label>
-                    </li>
-                  </ul>
-                </div>
-                <div hidden=""><input type="hidden" name="tags" value="4057081" /></div>
-                <div id="mce-responses" class="clear">
-                  <div class="response" id="mce-error-response" style="display: none;"></div>
-                  <div class="response" id="mce-success-response" style="display: none;"></div>
-                </div>
-                <div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_8f1debed5aa20a5cfafd20918_94de9849c1" tabindex="-1" value="" /></div>
-                <div class="clear"><input type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe" /></div>
-                <p>If you are already subscribed this will update your preferences.</p>
-              </div>
-            </form>
-          </div>
-          <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-          <script type="text/javascript">
-            (function ($) {
-              window.fnames = new Array();
-              window.ftypes = new Array();
-              fnames[0] = "EMAIL";
-              ftypes[0] = "email";
-              fnames[1] = "FNAME";
-              ftypes[1] = "text";
-              fnames[2] = "LNAME";
-              ftypes[2] = "text";
-              fnames[3] = "CNAME";
-              ftypes[3] = "text";
-              fnames[4] = "MMERGE4";
-              ftypes[4] = "address";
-            })(jQuery);
-            var $mcj = jQuery.noConflict(true);
-          </script>
-        </div>
-
-        <!--End mc_embed_signup-->
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-      </div>
-    </div>
+    {{- partial "components/subscribe-button.html" . }}
   </div>
 </div>
