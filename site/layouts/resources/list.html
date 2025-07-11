@@ -12,21 +12,9 @@
 {{- define "main" }}
   {{ $ResourceTypeFilter := .Params.ResourceType }}
   <section class="container my-2">
-    {{- $resources := .Site.GetPage "section" "resources" }}
-    {{- $sortedPages := sort $resources.Pages ".Pages" "desc" }}
+    {{- partial "components/resources/filter-bar.html" . }}
     <div class="row">
-      <div class="col-md-2">
-        <ul class="list-group">
-          <li class="list-group-item"><a href="/resources">Overview </a></li>
-          {{- range $sortedPages }}
-            {{- $count :=  len (where .Pages "Draft" "!=" true) }}
-            {{- if gt $count 0 }}
-              <li class="list-group-item"><a href="{{- .Permalink }}">{{- .Params.short_title }} </a> <span class="ms-1">({{- $count }})</span></li>
-            {{- end }}
-          {{- end }}
-        </ul>
-      </div>
-      <div class="col-md-10">
+      <div class="col-12">
         {{- if ne hugo.Environment "production" }}
           <div class="m-1">
             {{ $futureResources := where (where .Site.RegularPages "Type" "resources") "Date" "ge" now }}
