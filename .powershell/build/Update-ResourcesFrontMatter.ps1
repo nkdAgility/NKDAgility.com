@@ -82,6 +82,7 @@ while ($hugoMarkdownQueue.Count -gt 0) {
         try {
             # Generate a new description using OpenAI
             $promptText = Get-Prompt -PromptName "content-short-title.md" -Parameters @{
+                maxchars = 40
                 title    = $hugoMarkdown.FrontMatter.Title
                 abstract = $hugoMarkdown.FrontMatter.description
                 slug     = $hugoMarkdown.FrontMatter.slug
