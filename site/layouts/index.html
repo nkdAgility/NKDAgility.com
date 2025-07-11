@@ -34,7 +34,7 @@
                     <div class="col-md-12 d-flex align-items-center">
                       <span class="mr-1"><i class="fa-solid fa-newspaper pe-1"></i></span>
                       <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Title }} - {{ .Description }}">
-                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                        <a href="{{ .Permalink }}">{{ .Params.short_title | default .Title }}</a>
                       </span>
                     </div>
                   {{ end }}
