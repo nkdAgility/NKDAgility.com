@@ -1,0 +1,28 @@
+{{- $resources := .Site.GetPage "section" "resources" }}
+{{- $sortedPages := sort $resources.Pages ".Pages" "desc" }}
+{{- $currentFilter := .Params.ResourceType }}
+<div class="dropdown">
+  <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="resourceFilterDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+    {{- if $currentFilter }}
+      {{- range $sortedPages }}
+        {{- if eq .Params.ResourceType $currentFilter }}
+          {{- .Params.short_title }}
+        {{- end }}
+      {{- end }}
+    {{- else }}
+      Resource Type
+    {{- end }}
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="resourceFilterDropdown">
+    <li><a class="dropdown-item" href="/resources/#filters">All Resources</a></li>
+    <li><hr class="dropdown-divider" /></li>
+    {{- range $sortedPages }}
+      {{- $count :=  len (where .Pages "Draft" "!=" true) }}
+      {{- if gt $count 0 }}
+        <li>
+          <a class="dropdown-item" href="{{- .Permalink }}/#filters">{{- .Params.short_title }} <span class="text-muted">({{- $count }})</span></a>
+        </li>
+      {{- end }}
+    {{- end }}
+  </ul>
+</div>

@@ -7,21 +7,15 @@
 {{- end }}
 
 {{- define "main" }}
-  {{ $ResourceTypeFilter := .Params.ResourceType }}
   <section class="container-fluid resources-headline-sharebar">
     <section class="container container-heading">{{- partial "components/resources/filter-bar.html" . }}</section>
   </section>
   <section class="container my-2">
     {{ $resources := where .Site.RegularPages "Type" "resources" }}
-    {{ if ne $ResourceTypeFilter "signals" }}
-      {{ $resources = where $resources "Params.ResourceType" "ne" "signals" }}
-    {{ end }}
-    {{ if $ResourceTypeFilter }}
-      {{ $resources = where $resources "Params.ResourceType" $ResourceTypeFilter }}
-    {{ end }}
-    {{- partial "components/resources/resource-list-paged.html" (dict "context" . "resources" $resources) }}
+    {{ $resources = where $resources "Params.ResourceType" "ne" "signals" }}
+    {{/* {{- partial "components/resources/resource-list-paged.html" (dict "context" . "resources" $resources.ByWeight) }} */}}
   </section>
 {{- end }}
 {{- define "template" }}
-  resources/list.html
+  resources/affinity.html
 {{- end }}

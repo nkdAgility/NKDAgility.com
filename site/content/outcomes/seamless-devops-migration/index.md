@@ -1,5 +1,6 @@
 ---
 title: "Seamless DevOps Migration"
+description: "Modernise legacy systems with secure, scalable DevOps migration that accelerates delivery and preserves business continuity."
 date: 2025-06-03
 creator: Martin Hinshelwood
 sitemap:

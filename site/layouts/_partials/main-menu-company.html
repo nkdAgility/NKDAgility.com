@@ -6,63 +6,121 @@
     <div class="mega-content px-4">
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-2">
             <h5>{{- $company.Title }}</h5>
             <p>{{- $company.Description }}</p>
-            <ul class="list-group">
-              <li class="list-group-item">
-                <a href="{{- $company.Permalink }}">Overview</a>
-              </li>
-              {{- range $company.Pages }}
-                {{- if not .Draft }}
-                  <li class="list-group-item">
-                    <a href="{{- .Permalink }}">{{- .Title }}</a>
-                  </li>
-                {{- end }}
-              {{- end }}
-            </ul>
+            <a href="{{- $company.Permalink }}" class="btn btn-outline-primary btn-sm">Overview</a>
           </div>
-          <div class="col-md-8">
-            <h5>Principle Consultants</h5>
-            <div class="row">
-              {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Principle") }}
-              {{- range $filtered }}
-                <div class="col-lg-4 col-sm-12 col-md-12 p-2 d-flex">
-                  <a href="{{- .Permalink }}" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">{{- .Params.card.title }}</a>
-                </div>
-              {{- end }}
+          <div class="col-md-10">
+            <div class="m-1">
+              <h5>Company Pages</h5>
+              <div class="row g-2 mb-4">
+                {{- range $company.Pages }}
+                  {{- if not .Draft }}
+                    <div class="col-12 col-md-4">
+                      <div class="company-list-item h-100">
+                        <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Title }} - {{ .Description }}">
+                          <div class="d-flex align-items-center mb-1">
+                            <span class="fw-semibold">{{- .Title }}</span>
+                          </div>
+                          {{ if .Description }}
+                            <div class="company-description text-muted small d-none d-md-block">{{ .Description }}</div>
+                          {{ end }}
+                        </a>
+                      </div>
+                    </div>
+                  {{- end }}
+                {{- end }}
+              </div>
             </div>
-            <h5>Consultants & Trainers</h5>
-            <div class="row">
-              {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Consultant" "Trainer") }}
-              {{- range $filtered }}
-                {{- if and (not (index .Params "people-abilities" | intersect (slice "Associate" "Principle") | len)) (not .Draft) }}
-                  <div class="col-lg-4 col-sm-12 col-md-12 p-2 d-flex">
-                    <a href="{{- .Permalink }}" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">{{- .Params.card.title }}</a>
+
+            <div class="m-1">
+              <h5>Principle Consultants</h5>
+              <div class="row g-2 mb-4">
+                {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Principle") }}
+                {{- range $filtered }}
+                  <div class="col-12 col-md-4">
+                    <div class="people-list-item h-100">
+                      <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">
+                        <div class="d-flex align-items-center mb-1">
+                          <span class="fw-semibold">{{- .Params.card.title }}</span>
+                        </div>
+                        {{ if .Params.card.content }}
+                          <div class="people-description text-muted small d-none d-md-block">{{ .Params.card.content | plainify | truncate 100 }}</div>
+                        {{ end }}
+                      </a>
+                    </div>
                   </div>
                 {{- end }}
-              {{- end }}
+              </div>
             </div>
-            <h5>Staff</h5>
-            <div class="row">
-              {{- range (where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Business")) }}
-                {{- if not .Draft }}
-                  <div class="col-lg-4 col-sm-12 col-md-12 p-2">
-                    <a href="{{- .Permalink }}">{{- .Params.card.title }}</a>
-                  </div>
+
+            <div class="m-1">
+              <h5>Consultants & Trainers</h5>
+              <div class="row g-2 mb-4">
+                {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Consultant" "Trainer") }}
+                {{- range $filtered }}
+                  {{- if and (not (index .Params "people-abilities" | intersect (slice "Associate" "Principle") | len)) (not .Draft) }}
+                    <div class="col-12 col-md-4">
+                      <div class="people-list-item h-100">
+                        <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">
+                          <div class="d-flex align-items-center mb-1">
+                            <span class="fw-semibold">{{- .Params.card.title }}</span>
+                          </div>
+                          {{ if .Params.card.content }}
+                            <div class="people-description text-muted small">{{ .Params.card.content | plainify | truncate 100 }}</div>
+                          {{ end }}
+                        </a>
+                      </div>
+                    </div>
+                  {{- end }}
                 {{- end }}
-              {{- end }}
+              </div>
             </div>
-            <h5>Associates</h5>
-            <div class="row">
-              {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Associate" ) }}
-              {{- range $filtered }}
-                {{- if not .Draft }}
-                  <div class="col-lg-4 col-sm-12 col-md-12 p-2">
-                    <a href="{{- .Permalink }}" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">{{- .Params.card.title }}</a>
-                  </div>
+
+            <div class="m-1">
+              <h5>Staff</h5>
+              <div class="row g-2 mb-4">
+                {{- range (where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Business")) }}
+                  {{- if not .Draft }}
+                    <div class="col-12 col-md-4">
+                      <div class="people-list-item h-100">
+                        <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">
+                          <div class="d-flex align-items-center mb-1">
+                            <span class="fw-semibold">{{- .Params.card.title }}</span>
+                          </div>
+                          {{ if .Params.card.content }}
+                            <div class="people-description text-muted small">{{ .Params.card.content | plainify | truncate 100 }}</div>
+                          {{ end }}
+                        </a>
+                      </div>
+                    </div>
+                  {{- end }}
                 {{- end }}
-              {{- end }}
+              </div>
+            </div>
+
+            <div class="m-1">
+              <h5>Associates</h5>
+              <div class="row g-2">
+                {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Associate" ) }}
+                {{- range $filtered }}
+                  {{- if not .Draft }}
+                    <div class="col-12 col-md-4">
+                      <div class="people-list-item h-100">
+                        <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">
+                          <div class="d-flex align-items-center mb-1">
+                            <span class="fw-semibold">{{- .Params.card.title }}</span>
+                          </div>
+                          {{ if .Params.card.content }}
+                            <div class="people-description text-muted small">{{ .Params.card.content | plainify | truncate 100 }}</div>
+                          {{ end }}
+                        </a>
+                      </div>
+                    </div>
+                  {{- end }}
+                {{- end }}
+              </div>
             </div>
           </div>
         </div>

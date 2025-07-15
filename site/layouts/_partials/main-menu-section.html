@@ -7,20 +7,32 @@
       <div class="mega-content px-4">
         <div class="container-fluid">
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-3">
               <h5>{{- $section.Title }}</h5>
               <p>{{- $section.Description }}</p>
               <a href="{{- $section.Permalink }}">Overview</a>
             </div>
-            <div class="col-md-8">
-              <div class="row">
-                {{- range $section.Pages }}
-                  <div class="col-lg-4 col-sm-12 col-md-12 p-2">
-                    {{ if .Draft }}
-                      <i class="fa-brands fa-firstdraft pe-1"></i>
-                    {{ end }} <a href="{{- .Permalink }}">{{- .Params.card.title }}</a>
-                  </div>
-                {{- end }}
+            <div class="col-md-9">
+              <div class="m-1">
+                <div class="row g-2">
+                  {{- range $section.Pages.ByWeight }}
+                    <div class="col-12 col-md-4">
+                      <div class="section-list-item h-100">
+                        <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.card.title | default .Title }} - {{ .Description }}">
+                          <div class="d-flex align-items-center mb-1">
+                            {{ if .Draft }}
+                              <i class="fa-brands fa-firstdraft pe-1 text-muted"></i>
+                            {{ end }}
+                            <span class="fw-semibold">{{- .Params.card.title | default .Title }}</span>
+                          </div>
+                          {{ if .Description }}
+                            <div class="section-description text-muted small d-none d-md-block">{{ .Description }}</div>
+                          {{ end }}
+                        </a>
+                      </div>
+                    </div>
+                  {{- end }}
+                </div>
               </div>
             </div>
           </div>

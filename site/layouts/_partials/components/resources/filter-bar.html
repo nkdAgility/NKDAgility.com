@@ -1,0 +1,22 @@
+{{- $resources := .Site.GetPage "section" "resources" }}
+{{- $sortedPages := sort $resources.Pages ".Pages" "desc" }}
+{{- $currentFilter := .Params.ResourceType }}
+
+
+<div id="filters" class="resources-share-bar d-flex justify-content-between align-items-center py-2 border-1">
+  <!-- Left-aligned filter dropdown -->
+
+  <div class="d-inline-flex gap-2">
+    <span class="text-white">Views:</span>
+    {{- partial "components/resources/filter-bar-resource-type.html" . }}
+    {{- partial "components/resources/filter-bar-combined-taxonomy.html" . }}
+
+  </div>
+
+  <!-- Right-aligned 'Share' dropdown buttons -->
+  <div class="d-inline-flex gap-2">
+    {{- partial "components/share-dropdown.html" . }}
+    {{- partial "components/admin-dropdown.html" . }}
+    {{- partial "components/subscribe-button.html" . }}
+  </div>
+</div>
