@@ -11,101 +11,27 @@
           <div class="col-md-2">
             <h5>{{- $resources.Title }}</h5>
             <p>{{- $resources.Description }}</p>
-            <ul class="list-group">
-              <li class="list-group-item"><a href="/resources">Overview </a></li>
-              {{- range $sortedPages }}
-                {{- $count :=  len .Pages }}
-                {{- if gt $count 0 }}
-                  <li class="list-group-item"><a href="{{- .Permalink }}">{{- .Params.short_title }} </a> <span class="ms-1">({{- $count }})</span></li>
-                {{- end }}
-              {{- end }}
-            </ul>
           </div>
           <div class="col-md-10">
             <div class="m-1">
-              <h5>Recent</h5>
-              <div class="columns-2">
-                {{ $published := where (where .Site.RegularPages "Type" "resources") "Date" "le" now }}
-                {{ $published = where $published "Params.ResourceType" "ne" "signals" }}
-                {{ range first 6 (sort $published "Date" "desc") }}
-                  <div class="resource-list-item text-truncate" title="{{ .Title }} - {{ .Description }}">
-                    {{- partial "components/resources/resource-icon.html" . }}
-                    {{ if .Draft }}
-                      <i class="fa-brands fa-firstdraft"></i>
-                    {{ end }}
-                    <a href="{{ .RelPermalink }}">{{ if .Params.short_title }}{{ .Params.short_title }}{{ else }}{{ .Title }}{{ end }}</a>
-                  </div>
-                {{ end }}
+              <div class="row g-2">
+                {{- range $sortedPages }}
+                  {{- $count :=  len .Pages }}
+                  {{- if gt $count 0 }}
+                    <div class="col-md-6">
+                      <div class="resource-list-item h-100">
+                        <a href="{{- .Permalink }}" class="text-decoration-none d-block p-2 rounded hover-highlight h-100" title="{{- .Params.short_title | default .Title }} - {{ .Description }}">
+                          <div class="d-flex align-items-center mb-1">
+                            <span class="fw-semibold">{{- .Params.short_title }}</span>
+                            <span class="ms-2 badge bg-secondary">({{- $count }})</span>
+                          </div>
+                          <div class="resource-description text-muted small">{{ .Description }}</div>
+                        </a>
+                      </div>
+                    </div>
+                  {{- end }}
+                {{- end }}
               </div>
-              <a href="/resources/" class="btn btn-sm btn-outline-secondary">See all</a>
-              <hr />
-            </div>
-            <div class="m-1">
-              <h5>Important</h5>
-              <div class="columns-2">
-                {{ $publishedByWeight := where (where .Site.RegularPages.ByWeight "Type" "resources") "Date" "le" now }}
-                {{ $publishedByWeight = where $publishedByWeight "Params.ResourceType" "ne" "signals" }}
-                {{ range first 6 $publishedByWeight }}
-                  <div class="resource-list-item text-truncate" title="{{ .Title }} - {{ .Description }}{{ if gt .Date (now) }}&#10;&#10;Scheduled: {{ .Date.Format "2006-01-02 15:04" }}{{ end }}">
-                    {{- partial "components/resources/resource-icon.html" . }}
-                    <a href="{{ .RelPermalink }}">{{ if .Params.short_title }}{{ .Params.short_title }}{{ else }}{{ .Title }}{{ end }}</a>
-                  </div>
-                {{ end }}
-              </div>
-              <a href="/resources/" class="btn btn-sm btn-outline-secondary">See all</a>
-              <hr />
-            </div>
-            <div class="m-1 small">
-              <h5>Concepts</h5>
-              <div class="columns-4">
-                {{ range $category, $pages := .Site.Taxonomies.concepts }}
-                  <div class="classification-list-item d-flex align-items-center">
-                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}"><a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a> </span>
-                    {{- $count :=  len (where $pages "Draft" "!=" true) }}
-                    <span class="ms-1">({{ $count }})</span>
-                  </div>
-                {{ end }}
-              </div>
-              <hr />
-            </div>
-            <div class="m-1 small">
-              <h5>Categories</h5>
-              <div class="columns-4">
-                {{ range $category, $pages := .Site.Taxonomies.categories }}
-                  <div class="classification-list-item d-flex align-items-center">
-                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .Page.Title }}"><a href="{{ .Page.Permalink }}" title="{{ .Page.Title }} - {{ .Page.Description }}">{{ .Page.Title }}</a> </span>
-                    {{- $count :=  len (where $pages "Draft" "!=" true) }}
-                    <span class="ms-1">({{ $count }})</span>
-                  </div>
-                {{ end }}
-              </div>
-              <hr />
-            </div>
-            <div class="m-1 small">
-              <h6>Tags</h6>
-              <div class="columns-4">
-                {{ $tags := slice }}
-                {{ range $name, $pages := .Site.Taxonomies.tags }}
-                  {{ $count := len (where $pages "Draft" "!=" true) }}
-                  {{ $tags = $tags | append (dict "name" $name "count" $count "pages" $pages "page" .Page) }}
-                {{ end }}
-
-                {{ $sorted := sort $tags "page.Weight" "asc" }}
-                {{ range first 20 $sorted }}
-                  <div class="classification-list-item d-flex align-items-center">
-                    <span class="text-truncate d-inline-block" style="max-width: 100%;" title="{{ .name }}"><a href="{{ .page.Permalink }}" title="{{ .page.Title }} - {{ .page.Description }}">{{ .page.Title }}</a> </span>
-                    <span class="ms-1">({{ .count }})</span>
-                  </div>
-                {{ end }}
-                <br />
-              </div>
-              <br />
-              <div class="d-flex align-items-center">
-                <span class="text-truncate d-inline-block" style="max-width: 100%;" title="">
-                  <a href="/resources/tags/" title="">There are {{ len ($tags) }} more Tags...</a>
-                </span>
-              </div>
-              <hr />
             </div>
           </div>
         </div>
