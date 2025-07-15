@@ -1,17 +1,18 @@
-{{ $ResourceTypeFilter := .Params.ResourceType }}
-{{ $resources := where .Site.RegularPages "Type" "resources" }}
-{{ if ne $ResourceTypeFilter "signals" }}
-  {{ $resources = where $resources "Params.ResourceType" "ne" "signals" }}
-{{ end }}
-{{ if $ResourceTypeFilter }}
-  {{ $resources = where $resources "Params.ResourceType" $ResourceTypeFilter }}
-{{ end }}
-
-{{ $paginator := .Paginate $resources.ByDate.Reverse 50 }}
+{{ $resources := .resources }}
+{{ $page := .context }}
+{{ $paginator := $page.Paginate ($resources.ByDate.Reverse) 50 }}
 <div class="row g-4 ">
   {{ range $paginator.Pages }}
+    {{ $isFuture := (.Date.After now) }}
     <div class="col-12 col-md-6 col-lg-4">
       <div class="card h-100">
+        {{ if $isFuture }}
+          {{ $duration := .Date.Sub now }}
+          {{ $days := math.Floor (div $duration.Hours 24) }}
+          <div class="card-header bg-warning text-dark py-1 px-2">
+            <small><strong>Publishes in {{ $days }} days</strong></small>
+          </div>
+        {{ end }}
         <div class="card-body d-flex flex-column position-relative">
           <small class="text-muted mb-2"> {{ partial "components/resources/functions/get-first-classification.html" . }} • {{ .Date.Format "Jan 2, 2006" }}</small>
           <h5 class="card-title"><a href="{{ .Permalink }}" class="text-decoration-none text-reset">{{ .Title }}</a></h5>
@@ -38,15 +39,47 @@
         </li>
       {{ end }}
 
+      {{ $currentPage := $paginator.PageNumber }}
+      {{ $totalPages := $paginator.TotalPages }}
+      {{ $showRange := 2 }}
+
+      {{/* Always show first page if we're not close to it */}}
+      {{ if gt $currentPage (add $showRange 2) }}
+        <li class="page-item">
+          <a class="page-link" href="{{ (index $paginator.Pagers 0).URL }}#filters">1</a>
+        </li>
+        {{ if gt $currentPage (add $showRange 3) }}
+          <li class="page-item disabled">
+            <span class="page-link">...</span>
+          </li>
+        {{ end }}
+      {{ end }}
+
+      {{/* Show pages around current page */}}
       {{ range $paginator.Pagers }}
-        <li class="page-item {{ if eq . $paginator }}active{{ end }}">
-          <a class="page-link" href="{{ .URL }}#learnMore">{{ .PageNumber }}</a>
+        {{ $pageNum := .PageNumber }}
+        {{ if and (ge $pageNum (sub $currentPage $showRange)) (le $pageNum (add $currentPage $showRange)) }}
+          <li class="page-item {{ if eq . $paginator }}active{{ end }}">
+            <a class="page-link" href="{{ .URL }}#filters">{{ .PageNumber }}</a>
+          </li>
+        {{ end }}
+      {{ end }}
+
+      {{/* Always show last page if we're not close to it */}}
+      {{ if lt $currentPage (sub $totalPages (add $showRange 1)) }}
+        {{ if lt $currentPage (sub $totalPages (add $showRange 2)) }}
+          <li class="page-item disabled">
+            <span class="page-link">...</span>
+          </li>
+        {{ end }}
+        <li class="page-item">
+          <a class="page-link" href="{{ (index $paginator.Pagers (sub $totalPages 1)).URL }}#learnMore">{{ $totalPages }}</a>
         </li>
       {{ end }}
 
       {{ if $paginator.HasNext }}
         <li class="page-item">
-          <a class="page-link" href="{{ $paginator.Next.URL }}#learnMore">Next</a>
+          <a class="page-link" href="{{ $paginator.Next.URL }}#filters">Next</a>
         </li>
       {{ end }}
     </ul>

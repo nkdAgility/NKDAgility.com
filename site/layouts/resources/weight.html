@@ -19,9 +19,9 @@
     {{ if $ResourceTypeFilter }}
       {{ $resources = where $resources "Params.ResourceType" $ResourceTypeFilter }}
     {{ end }}
-    {{- partial "components/resources/resource-list-paged.html" (dict "context" . "resources" $resources) }}
+    {{- partial "components/resources/resource-list-paged.html" (dict "context" . "resources" $resources.ByWeight) }}
   </section>
 {{- end }}
 {{- define "template" }}
-  resources/list.html
+  resources/weight.html
 {{- end }}
