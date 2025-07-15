@@ -1,6 +1,6 @@
+
 # Helpers
-. ./.powershell/_includes/LoggingHelper.ps1
-. ./.powershell/_includes/YoutubeAPI.ps1
+. ./.powershell/_includes/IncludesForAll.ps1
 
 Write-Host "Running v4"
 

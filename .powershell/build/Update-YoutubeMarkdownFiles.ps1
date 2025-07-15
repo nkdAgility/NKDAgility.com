@@ -1,6 +1,6 @@
+
 # Helpers
-. ./.powershell/_includes/OpenAI.ps1
-. ./.powershell/_includes/HugoHelpers.ps1
+. ./.powershell/_includes/IncludesForAll.ps1
 
 $outputDir = "site\content\resources\videos\youtube\"
 # $excludedTags = @("martin hinshelwood", "nkd agility")  # List of tags to exclude
@@ -70,7 +70,7 @@ function Update-YoutubeMarkdownFiles {
             }
             else {
                 $frontMatter = [ordered]@{}
-                $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "", $markdownFile, $videoDir )
+                $hugoMarkdown = [HugoMarkdown]::new($frontMatter, "", $markdownFile )
                 $source = "youtube"
             }  
 

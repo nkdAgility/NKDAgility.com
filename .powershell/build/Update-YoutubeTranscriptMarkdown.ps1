@@ -1,7 +1,8 @@
+
 # Helpers
-. ./.powershell/_includes/LoggingHelper.ps1
-. ./.powershell/_includes/OpenAI.ps1
-. ./.powershell/_includes/HugoHelpers.ps1
+. ./.powershell/_includes/IncludesForAll.ps1
+
+Start-TokenServer
 
 $outputDir = "site\content\resources\videos\youtube"
 
