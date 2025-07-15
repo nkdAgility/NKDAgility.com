@@ -1,24 +1,12 @@
 ---
-title: Addressing Systemic Issues in Agile Organizations
 short_title: Addressing Systemic Issues in Agile
 description: Explores why Agile fails without addressing systemic issues, highlighting the need for organisational change, meaningful metrics, and the courage to make bold improvements.
 date: 2024-01-24T07:00:16Z
-weight: 455
 ResourceId: QBX7dnUBzo8
-ResourceImport: true
 ResourceType: videos
-slug: addressing-systemic-issues-in-agile-organizations
-aliases:
-- /resources/QBX7dnUBzo8
-- /resources/videos/addressing-systemic-issues-in-agile-organizations
-- /resources/videos/agile-techniques-that-boost-startups
-aliasesArchive:
-- /resources/videos/addressing-systemic-issues-in-agile-organizations
-- /resources/addressing-systemic-issues-in-agile-organizations
-- /resources/videos/agile-techniques-that-boost-startups!
-- /resources/agile-techniques-that-boost-startups!
-- /resources/videos/agile-techniques-that-boost-startups
-- addressing-systemic-issues-in-agile-organizations
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 455
 concepts:
 - Ethos
 categories:
@@ -39,22 +27,34 @@ tags:
 - Agile Strategy
 - Operational Practices
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: QBX7dnUBzo8
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
-duration: 349
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:18Z
   short_title: 2025-07-07T17:50:10Z
+title: Addressing Systemic Issues in Agile Organizations
+videoId: QBX7dnUBzo8
+source: internal
+url: /resources/videos/:slug
+slug: addressing-systemic-issues-in-agile-organizations
+layout: video
+aliases:
+- /resources/QBX7dnUBzo8
+- /resources/videos/addressing-systemic-issues-in-agile-organizations
+- /resources/videos/agile-techniques-that-boost-startups
+aliasesArchive:
+- /resources/videos/addressing-systemic-issues-in-agile-organizations
+- /resources/addressing-systemic-issues-in-agile-organizations
+- /resources/videos/agile-techniques-that-boost-startups!
+- /resources/agile-techniques-that-boost-startups!
+- /resources/videos/agile-techniques-that-boost-startups
+- addressing-systemic-issues-in-agile-organizations
+preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
+duration: 349
+resourceTypes:
+- video
+isShort: false
 
 ---
 Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.

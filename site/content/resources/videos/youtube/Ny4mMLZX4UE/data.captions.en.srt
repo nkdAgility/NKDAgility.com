@@ -1,0 +1,901 @@
+1
+00:00:00,160 --> 00:00:05,520
+In many organizations that I work with,
+
+2
+00:00:03,600 --> 00:00:09,280
+uh, teams
+
+3
+00:00:05,520 --> 00:00:11,840
+test quality in, they don't build it
+
+4
+00:00:09,280 --> 00:00:17,279
+into their product. And that has a a
+
+5
+00:00:11,840 --> 00:00:19,920
+very specific um impact on engineering
+
+6
+00:00:17,279 --> 00:00:24,960
+excellence within your organization. So
+
+7
+00:00:19,920 --> 00:00:28,640
+when when you test quality in you allow
+
+8
+00:00:24,960 --> 00:00:32,719
+you're effectively allowing engineers
+
+9
+00:00:28,640 --> 00:00:35,920
+to to say well it's okay the testers
+
+10
+00:00:32,719 --> 00:00:38,079
+will catch that in the next piece. But
+
+11
+00:00:35,920 --> 00:00:40,960
+the problem with that is the further you
+
+12
+00:00:38,079 --> 00:00:43,680
+get from the engineer writing the code
+
+13
+00:00:40,960 --> 00:00:45,360
+the more expensive it is to fix right
+
+14
+00:00:43,680 --> 00:00:46,640
+with production finding something in
+
+15
+00:00:45,360 --> 00:00:50,800
+production being the most expensive
+
+16
+00:00:46,640 --> 00:00:52,879
+thing to fix. So even waiting until QA
+
+17
+00:00:50,800 --> 00:00:54,480
+validation where you've already gone
+
+18
+00:00:52,879 --> 00:00:56,800
+through
+
+19
+00:00:54,480 --> 00:00:59,680
+you might have uh working with a
+
+20
+00:00:56,800 --> 00:01:02,239
+customer at the moment and they have uh
+
+21
+00:00:59,680 --> 00:01:05,439
+uh working in a in a team environment.
+
+22
+00:01:02,239 --> 00:01:08,880
+They then push that into uh a pre a
+
+23
+00:01:05,439 --> 00:01:10,880
+preview environment. Um and that preview
+
+24
+00:01:08,880 --> 00:01:13,520
+environment is where the the the testers
+
+25
+00:01:10,880 --> 00:01:15,280
+run. But that's is already in Maine.
+
+26
+00:01:13,520 --> 00:01:17,280
+it's already polluting main by the time
+
+27
+00:01:15,280 --> 00:01:21,600
+the testers are getting a hold of the
+
+28
+00:01:17,280 --> 00:01:25,119
+the content. So if we find a problem
+
+29
+00:01:21,600 --> 00:01:27,600
+there, that's another branch, another
+
+30
+00:01:25,119 --> 00:01:30,560
+pull request, another uh change coming
+
+31
+00:01:27,600 --> 00:01:32,479
+into the system. Now, we do need those
+
+32
+00:01:30,560 --> 00:01:35,040
+testers to find those problems if we've
+
+33
+00:01:32,479 --> 00:01:37,840
+got them, but we would rather those
+
+34
+00:01:35,040 --> 00:01:40,000
+testers didn't find any problems. We
+
+35
+00:01:37,840 --> 00:01:42,479
+would rather find them sooner. And in
+
+36
+00:01:40,000 --> 00:01:44,320
+order to do that, you need automation.
+
+37
+00:01:42,479 --> 00:01:47,360
+you need integration, you need
+
+38
+00:01:44,320 --> 00:01:51,040
+continuous build, you need CI/CD, you
+
+39
+00:01:47,360 --> 00:01:54,960
+need all of those things. So, great way
+
+40
+00:01:51,040 --> 00:01:58,079
+um to validate your architecture right
+
+41
+00:01:54,960 --> 00:02:01,840
+from the start that you're making code
+
+42
+00:01:58,079 --> 00:02:03,840
+that is testable, that is just the code
+
+43
+00:02:01,840 --> 00:02:07,759
+that you need, that it does what you
+
+44
+00:02:03,840 --> 00:02:10,479
+expect it to do is TDD. Um testdriven
+
+45
+00:02:07,759 --> 00:02:13,840
+development is not a testing strategy.
+
+46
+00:02:10,479 --> 00:02:16,879
+It's not a replacement for for QA, TDD
+
+47
+00:02:13,840 --> 00:02:19,120
+is an architectural and design strategy.
+
+48
+00:02:16,879 --> 00:02:21,840
+Um, but you can also add on to that
+
+49
+00:02:19,120 --> 00:02:23,520
+things like static code analysis, right?
+
+50
+00:02:21,840 --> 00:02:25,760
+And although
+
+51
+00:02:23,520 --> 00:02:27,440
+you don't want to take a existing legacy
+
+52
+00:02:25,760 --> 00:02:28,640
+app and turn on all the static code
+
+53
+00:02:27,440 --> 00:02:30,640
+analysis because you'll just get a
+
+54
+00:02:28,640 --> 00:02:32,400
+million errors and error overload and
+
+55
+00:02:30,640 --> 00:02:36,800
+nobody will want to do anything with it.
+
+56
+00:02:32,400 --> 00:02:38,319
+But what you can do is turn on specific
+
+57
+00:02:36,800 --> 00:02:40,800
+things
+
+58
+00:02:38,319 --> 00:02:43,200
+and go fix those things through your
+
+59
+00:02:40,800 --> 00:02:45,519
+product. Do a little refactor every now
+
+60
+00:02:43,200 --> 00:02:47,840
+and again to get rid of one thing. Okay,
+
+61
+00:02:45,519 --> 00:02:49,120
+now that's turned on. If people get a
+
+62
+00:02:47,840 --> 00:02:51,120
+warning, it's cuz they're doing
+
+63
+00:02:49,120 --> 00:02:54,480
+something that we've gone through and
+
+64
+00:02:51,120 --> 00:02:56,560
+fixed in our codebase. And then keep
+
+65
+00:02:54,480 --> 00:02:58,560
+doing it a little bit at a time. turning
+
+66
+00:02:56,560 --> 00:03:00,720
+something on in static analysis that you
+
+67
+00:02:58,560 --> 00:03:03,040
+want to make sure that your engineers
+
+68
+00:03:00,720 --> 00:03:06,400
+aren't doing, fixing it throughout your
+
+69
+00:03:03,040 --> 00:03:09,040
+application and then having that enabled
+
+70
+00:03:06,400 --> 00:03:13,280
+so that developers get those warnings.
+
+71
+00:03:09,040 --> 00:03:15,680
+Um, also code review policies. Now
+
+72
+00:03:13,280 --> 00:03:20,720
+although and this is this is where we we
+
+73
+00:03:15,680 --> 00:03:25,280
+we I favor trunkbased development right
+
+74
+00:03:20,720 --> 00:03:27,599
+and long code reviews
+
+75
+00:03:25,280 --> 00:03:29,280
+are the antithesis of trunk based
+
+76
+00:03:27,599 --> 00:03:31,360
+development. You want to get things into
+
+77
+00:03:29,280 --> 00:03:33,519
+into that trunk as quickly as possible.
+
+78
+00:03:31,360 --> 00:03:36,720
+Whatever you call it maybe main might be
+
+79
+00:03:33,519 --> 00:03:38,000
+um might be trunk right but whatever you
+
+80
+00:03:36,720 --> 00:03:40,400
+call it you want to get things in there
+
+81
+00:03:38,000 --> 00:03:42,560
+as quickly as possible. Um so you want
+
+82
+00:03:40,400 --> 00:03:45,599
+to automate as much as possible. I use
+
+83
+00:03:42,560 --> 00:03:48,400
+pull requests um as part of the code
+
+84
+00:03:45,599 --> 00:03:50,400
+review policies to apply the policies
+
+85
+00:03:48,400 --> 00:03:54,560
+and those policies are generally
+
+86
+00:03:50,400 --> 00:03:57,920
+automated. So most of the time um a a a
+
+87
+00:03:54,560 --> 00:04:00,720
+pull request is automatically approved
+
+88
+00:03:57,920 --> 00:04:03,360
+and automatically merged into the system
+
+89
+00:04:00,720 --> 00:04:06,720
+and it's only not merged if there are
+
+90
+00:04:03,360 --> 00:04:08,879
+infractions um which need to be fixed.
+
+91
+00:04:06,720 --> 00:04:13,040
+And one of those checks that I do have
+
+92
+00:04:08,879 --> 00:04:17,040
+is an AI check. Um, so AI is checking
+
+93
+00:04:13,040 --> 00:04:20,239
+the code that we're writing against the
+
+94
+00:04:17,040 --> 00:04:24,000
+policies that we've written as a team.
+
+95
+00:04:20,239 --> 00:04:27,199
+Um, and flagging things that don't meet
+
+96
+00:04:24,000 --> 00:04:29,360
+those policies, right? So that then we
+
+97
+00:04:27,199 --> 00:04:30,800
+have to respond to those those things
+
+98
+00:04:29,360 --> 00:04:32,080
+and either we ignore them, which
+
+99
+00:04:30,800 --> 00:04:34,400
+sometimes we do cuz it's a little bit
+
+100
+00:04:32,080 --> 00:04:36,560
+overzealous sometimes, but a lot of the
+
+101
+00:04:34,400 --> 00:04:39,759
+times it catches things. But it means
+
+102
+00:04:36,560 --> 00:04:42,639
+that we don't stop at the pull request
+
+103
+00:04:39,759 --> 00:04:44,320
+unless um there's an actual thing that
+
+104
+00:04:42,639 --> 00:04:47,600
+we need to go look at, right? An
+
+105
+00:04:44,320 --> 00:04:50,720
+interrupt. So um that gives us that
+
+106
+00:04:47,600 --> 00:04:52,880
+balance between getting things into
+
+107
+00:04:50,720 --> 00:04:56,000
+Maine as quickly as possible and
+
+108
+00:04:52,880 --> 00:04:58,880
+validating that Maine is the right
+
+109
+00:04:56,000 --> 00:05:02,880
+thing, that we're we're we're that it's
+
+110
+00:04:58,880 --> 00:05:05,199
+good, that it's high quality. Um, and
+
+111
+00:05:02,880 --> 00:05:08,320
+for your team, you would need to decide
+
+112
+00:05:05,199 --> 00:05:11,280
+what that level is. But even catching
+
+113
+00:05:08,320 --> 00:05:13,520
+things going into main at the pull
+
+114
+00:05:11,280 --> 00:05:15,840
+request level is is too late. We want to
+
+115
+00:05:13,520 --> 00:05:19,120
+be catching them at the engineer level.
+
+116
+00:05:15,840 --> 00:05:21,520
+Shift left. Get as many things that
+
+117
+00:05:19,120 --> 00:05:26,000
+you're doing as close to the software
+
+118
+00:05:21,520 --> 00:05:30,560
+engineers and as fast as possible. I I I
+
+119
+00:05:26,000 --> 00:05:32,320
+love the story of the Azure DevOps team
+
+120
+00:05:30,560 --> 00:05:35,440
+when they were building Azure DevOps
+
+121
+00:05:32,320 --> 00:05:37,360
+when they first moved from a a 2-yearly
+
+122
+00:05:35,440 --> 00:05:40,639
+release cycle to a 3-w week release
+
+123
+00:05:37,360 --> 00:05:43,199
+cycle. One of their biggest blockers was
+
+124
+00:05:40,639 --> 00:05:45,600
+that their their full regression, their
+
+125
+00:05:43,199 --> 00:05:49,600
+their their tests, their equivalent of
+
+126
+00:05:45,600 --> 00:05:52,320
+selenium tests, um we're taking 24 to 48
+
+127
+00:05:49,600 --> 00:05:54,560
+hours to tell them whether they've been
+
+128
+00:05:52,320 --> 00:05:56,160
+successful. you can only run so many of
+
+129
+00:05:54,560 --> 00:05:58,880
+them at once. So now you're doing
+
+130
+00:05:56,160 --> 00:06:02,160
+rolling builds and bulking up developers
+
+131
+00:05:58,880 --> 00:06:05,039
+changes into this rolling uh uh uh uh
+
+132
+00:06:02,160 --> 00:06:07,280
+test enterprise, which means that there
+
+133
+00:06:05,039 --> 00:06:11,120
+it could be 48 hours for a developer to
+
+134
+00:06:07,280 --> 00:06:12,479
+find out that they've uh uh uh got a
+
+135
+00:06:11,120 --> 00:06:14,000
+problem or it could could be more,
+
+136
+00:06:12,479 --> 00:06:16,319
+right? It could be double that if you
+
+137
+00:06:14,000 --> 00:06:19,120
+just get a change in just after the
+
+138
+00:06:16,319 --> 00:06:21,759
+rolling build uh finished. it picked up
+
+139
+00:06:19,120 --> 00:06:24,400
+the changes before yours and now uh
+
+140
+00:06:21,759 --> 00:06:26,400
+you've got to wait for that 48 hours to
+
+141
+00:06:24,400 --> 00:06:28,240
+finish and then your changes are picked
+
+142
+00:06:26,400 --> 00:06:30,160
+up and a further 48 hours before you
+
+143
+00:06:28,240 --> 00:06:33,840
+find out um that you've got something
+
+144
+00:06:30,160 --> 00:06:36,560
+wrong. So those types of longunning
+
+145
+00:06:33,840 --> 00:06:38,400
+tests are not building quality and
+
+146
+00:06:36,560 --> 00:06:40,560
+they're testing quality and still it's a
+
+147
+00:06:38,400 --> 00:06:42,160
+that's a that's a lagging severely
+
+148
+00:06:40,560 --> 00:06:45,680
+lagging indicator from the engineers
+
+149
+00:06:42,160 --> 00:06:47,199
+perspective. So they had 36,000
+
+150
+00:06:45,680 --> 00:06:49,759
+something like that something like
+
+151
+00:06:47,199 --> 00:06:53,919
+36,000 of these longunning system tests
+
+152
+00:06:49,759 --> 00:06:55,680
+that they would run. Um and they worked
+
+153
+00:06:53,919 --> 00:06:58,479
+over a long period of time. It was over
+
+154
+00:06:55,680 --> 00:07:01,680
+four years paying back a little bit at a
+
+155
+00:06:58,479 --> 00:07:04,639
+time to slowly move those tests from
+
+156
+00:07:01,680 --> 00:07:07,120
+longunning system tests to fast running
+
+157
+00:07:04,639 --> 00:07:08,960
+unit tests with stubbing out with
+
+158
+00:07:07,120 --> 00:07:10,960
+mocking with all of all of the tools
+
+159
+00:07:08,960 --> 00:07:14,160
+that you would expect to use at that
+
+160
+00:07:10,960 --> 00:07:16,560
+level. And some of that is using if you
+
+161
+00:07:14,160 --> 00:07:18,960
+build products with solid principles
+
+162
+00:07:16,560 --> 00:07:21,759
+with good engineering practices then it
+
+163
+00:07:18,960 --> 00:07:23,440
+makes it more testable easier to do
+
+164
+00:07:21,759 --> 00:07:27,120
+those things with. So they they started
+
+165
+00:07:23,440 --> 00:07:29,199
+doing that and over that four years they
+
+166
+00:07:27,120 --> 00:07:36,160
+took it from
+
+167
+00:07:29,199 --> 00:07:41,280
+36 hours 48 hours sorry for um 36,000
+
+168
+00:07:36,160 --> 00:07:45,120
+tests um to 3 1/2 minutes for 80,000
+
+169
+00:07:41,280 --> 00:07:47,280
+unit tests and that gave them the same
+
+170
+00:07:45,120 --> 00:07:49,199
+level of security. I'm going to put it
+
+171
+00:07:47,280 --> 00:07:50,880
+that way. They designed it that way.
+
+172
+00:07:49,199 --> 00:07:52,479
+gave them the same level of security
+
+173
+00:07:50,880 --> 00:07:54,720
+that they had with the with the other
+
+174
+00:07:52,479 --> 00:07:56,319
+tests, the same level of confidence that
+
+175
+00:07:54,720 --> 00:07:57,440
+they that they'd not broken anything,
+
+176
+00:07:56,319 --> 00:08:00,400
+that they were doing the right thing,
+
+177
+00:07:57,440 --> 00:08:03,120
+that they had uh uh uh that in there. So
+
+178
+00:08:00,400 --> 00:08:05,840
+that means that fewer things were caught
+
+179
+00:08:03,120 --> 00:08:08,240
+by that longunning tests and eventually
+
+180
+00:08:05,840 --> 00:08:11,199
+they could just be removed um and they
+
+181
+00:08:08,240 --> 00:08:13,440
+no longer do that long long step of
+
+182
+00:08:11,199 --> 00:08:16,000
+tests because they're confident in their
+
+183
+00:08:13,440 --> 00:08:18,160
+in their shift left test infrastructure.
+
+184
+00:08:16,000 --> 00:08:22,080
+That that's what we all need to do. We
+
+185
+00:08:18,160 --> 00:08:25,199
+all need to move uh h these these tests
+
+186
+00:08:22,080 --> 00:08:27,199
+as far left as we can and then we need
+
+187
+00:08:25,199 --> 00:08:29,840
+to figure out which of these things are
+
+188
+00:08:27,199 --> 00:08:31,680
+taking too long and figure out for our
+
+189
+00:08:29,840 --> 00:08:34,560
+application and our context how do we
+
+190
+00:08:31,680 --> 00:08:37,279
+shorten those feedback loops and that's
+
+191
+00:08:34,560 --> 00:08:39,039
+the fundamental premise of of of agile
+
+192
+00:08:37,279 --> 00:08:42,719
+fundamental premise of scrum fundamental
+
+193
+00:08:39,039 --> 00:08:47,360
+premise of DevOps within all of these
+
+194
+00:08:42,719 --> 00:08:49,440
+contexts and Azure DevOps is a tool
+
+195
+00:08:47,360 --> 00:08:53,120
+designed ed by a team that went through
+
+196
+00:08:49,440 --> 00:08:55,440
+this journey for teams that go through
+
+197
+00:08:53,120 --> 00:08:58,240
+and have gone through this journey. So
+
+198
+00:08:55,440 --> 00:09:00,880
+it provides
+
+199
+00:08:58,240 --> 00:09:03,519
+capabilities that enable those practices
+
+200
+00:09:00,880 --> 00:09:06,399
+and enables those practices at scale.
+
+201
+00:09:03,519 --> 00:09:07,680
+And the Windows team use this. That's I
+
+202
+00:09:06,399 --> 00:09:10,480
+think it's 4 and a half thousand
+
+203
+00:09:07,680 --> 00:09:12,640
+software engineers, 15,000 people
+
+204
+00:09:10,480 --> 00:09:15,279
+working on a git repository that's over
+
+205
+00:09:12,640 --> 00:09:17,680
+350 gig at the tip. Right? These are
+
+206
+00:09:15,279 --> 00:09:19,600
+these are massive projects. all the way
+
+207
+00:09:17,680 --> 00:09:21,200
+down to
+
+208
+00:09:19,600 --> 00:09:23,200
+I've got a little repo, I'm doing a
+
+209
+00:09:21,200 --> 00:09:25,519
+little build, and everything can be done
+
+210
+00:09:23,200 --> 00:09:28,000
+in a few minutes. I have a a project I'm
+
+211
+00:09:25,519 --> 00:09:31,839
+working at on at the moment that my time
+
+212
+00:09:28,000 --> 00:09:33,519
+from uh uh cutting code to automated
+
+213
+00:09:31,839 --> 00:09:35,440
+build with a pull request is about a
+
+214
+00:09:33,519 --> 00:09:37,200
+minute and a half. Um, and then if
+
+215
+00:09:35,440 --> 00:09:39,440
+that's approved, another minute and a
+
+216
+00:09:37,200 --> 00:09:40,480
+half into preview. If that's good,
+
+217
+00:09:39,440 --> 00:09:43,680
+another minute and a half into
+
+218
+00:09:40,480 --> 00:09:45,839
+production. Right? That that that really
+
+219
+00:09:43,680 --> 00:09:48,959
+shortens that feedback loop. you have
+
+220
+00:09:45,839 --> 00:09:51,920
+those repeated cycles figuring out
+
+221
+00:09:48,959 --> 00:09:55,040
+earlier that we've messed it up. So if
+
+222
+00:09:51,920 --> 00:09:58,800
+you want to build quality into your
+
+223
+00:09:55,040 --> 00:10:02,080
+process rather than testing it in,
+
+224
+00:09:58,800 --> 00:10:06,000
+let's help you design an engineering
+
+225
+00:10:02,080 --> 00:10:06,000
+workflow that works for
+
+

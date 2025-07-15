@@ -1,23 +1,12 @@
 ---
-title: 'Breaking the Silence: How to Combat Communication Gaps in Agile Teams'
 short_title: Combatting Communication Gaps in Agile Teams
 description: Explores the impact of communication gaps in Agile teams, their causes and consequences, and offers practical strategies to foster open, effective team dialogue.
 date: 2023-11-02T11:30:10Z
-weight: 640
 ResourceId: KHcSWD2tV6M
-ResourceImport: true
 ResourceType: videos
-slug: breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
-aliases:
-- /resources/KHcSWD2tV6M
-- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
-- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
-aliasesArchive:
-- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
-- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
-- /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
-- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
-- breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
 concepts: []
 categories:
 - Product Development
@@ -30,22 +19,33 @@ tags:
 - Organisational Agility
 - Organisational Culture
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: KHcSWD2tV6M
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
-duration: 67
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:08:09Z
   short_title: 2025-07-07T17:51:57Z
+title: 'Breaking the Silence: How to Combat Communication Gaps in Agile Teams'
+videoId: KHcSWD2tV6M
+source: youtube
+url: /resources/videos/:slug
+slug: breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+layout: video
+aliases:
+- /resources/KHcSWD2tV6M
+- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
+aliasesArchive:
+- /resources/videos/breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
+- /resources/silence-7-signs-of-the-agile-apocalypse-but-shorter!
+- /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter
+- breaking-the-silence-how-to-combat-communication-gaps-in-agile-teams
+preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
+duration: 67
+resourceTypes:
+- video
+isShort: false
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I believe is one of the seven signs of the Agile apocalypse: silence. This silence isn't just a lack of noise; it’s a deafening absence of communication that can have dire consequences for teams and organisations striving for agility.

@@ -1,13 +1,34 @@
 ---
-title: Understanding the Power of Kanban in Scrum
 short_title: Kanban Integration in Scrum Explained
 description: Explains how integrating Kanban with Scrum boosts transparency, limits work in progress, and improves workflow, helping teams identify bottlenecks and deliver value efficiently.
 date: 2024-08-05T06:45:00Z
-weight: 1000
 ResourceId: PaUciBmqCsU
-ResourceImport: true
 ResourceType: videos
-slug: understanding-the-power-of-kanban-in-scrum
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts:
+- Method
+categories:
+- Product Development
+tags:
+- Transparency
+- Agile Frameworks
+- Operational Practices
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:18Z
+  short_title: 2025-07-07T17:48:44Z
+title: Understanding the Power of Kanban in Scrum
+videoId: PaUciBmqCsU
+source: internal
+url: /resources/videos/:slug
+slug: understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
+layout: video
 aliases:
 - /resources/PaUciBmqCsU
 - /resources/videos/understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
@@ -20,32 +41,11 @@ aliasesArchive:
 - /resources/kanban-vs-scrum-you're-asking-the-wrong-question!
 - /resources/videos/kanban-vs-scrum-youre-asking-the-wrong-question
 - understanding-the-power-of-kanban-in-scrum-PaUciBmqCsU
-concepts:
-- Method
-categories:
-- Product Development
-tags:
-- Transparency
-- Agile Frameworks
-- Operational Practices
-- Software Development
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: PaUciBmqCsU
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg
 duration: 50
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:02:18Z
-  short_title: 2025-07-07T17:48:44Z
+isShort: true
 
 ---
 If you're talking about [Kanban]({{< ref "/categories/kanban" >}}) versus [Scrum]({{< ref "/categories/scrum" >}}), chances are you might not fully understand what Kanban is all about. Kanban isn’t a rival or alternative to Scrum—it’s a strategy that can complement any system or process. Whether you’re working with Scrum or any other system, integrating Kanban can help you gain deeper insights and improve the overall flow of value.

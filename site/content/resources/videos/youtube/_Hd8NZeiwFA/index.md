@@ -1,28 +1,12 @@
 ---
-title: Why the Concept of a "Junior Scrum Master" is a Misguided Myth
 short_title: The Myth of the Junior Scrum Master
 description: Explains why the Scrum Master role requires experience and competence, debunking the myth of a "junior" Scrum Master and highlighting the need for proven skills in Agile teams.
 date: 2025-02-24T07:26:46Z
-weight: 600
 ResourceId: _Hd8NZeiwFA
-ResourceImport: true
 ResourceType: videos
-slug: why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
-aliases:
-- /resources/_Hd8NZeiwFA
-- /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
-- /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
-aliasesArchive:
-- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
-- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
-- /resources/_gyzx59-AJk
-- /resources/videos/_gyzx59-AJk
-- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
-- /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
-- /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
-- why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 600
 concepts: []
 categories:
 - Scrum
@@ -38,22 +22,38 @@ tags:
 - Software Development
 - Team Performance
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: _Hd8NZeiwFA
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/_Hd8NZeiwFA/maxresdefault.jpg
-duration: 618
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-layout: video
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:49:31Z
   short_title: 2025-07-07T17:46:12Z
+title: Why the Concept of a "Junior Scrum Master" is a Misguided Myth
+videoId: _Hd8NZeiwFA
+source: youtube
+url: /resources/videos/:slug
+slug: why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+layout: video
+aliases:
+- /resources/_Hd8NZeiwFA
+- /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+- /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
+aliasesArchive:
+- /resources/videos/transforming-agility-how-azure-devops-went-from-twoyear-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-deployments
+- /resources/videos/transforming-agility-how-azure-devops-went-from-two-year-releases-to-880000-deployments
+- /resources/_gyzx59-AJk
+- /resources/videos/_gyzx59-AJk
+- /resources/videos/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+- /resources/the-need-for-speed-why-high-deployment-frequencies-matter-in-a-changing-market
+- /resources/videos/why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+- /resources/videos/why-i-wrote-there-is-no-such-thing-as-a-junior-scrum-master
+- why-the-concept-of-a-junior-scrum-master-is-a-misguided-myth
+preview: https://i.ytimg.com/vi/_Hd8NZeiwFA/maxresdefault.jpg
+duration: 618
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the world of Agile, one of the most common misconceptions I encounter is the idea that there exists such a thing as a "junior [Scrum]({{< ref "/categories/scrum" >}}) Master." This notion is not only misleading but also detrimental to both the individual and the organisation. I’ve seen organisations mistakenly believe that the [Scrum Master]({{< ref "/tags/scrum-master" >}}) role can be filled by anyone on the team, often selecting the least productive member to take on this responsibility. This approach does a disservice to the individual and undermines the entire Scrum process. 

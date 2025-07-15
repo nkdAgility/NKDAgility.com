@@ -1,13 +1,31 @@
 ---
-title: How to Choose the Right Agile Coach for Your Business Success
 short_title: How to Choose the Right Agile Coach
 description: Learn how to select an Agile coach who is adaptable, experienced across frameworks, and focused on your business needs, ensuring tailored solutions and continuous improvement.
 date: 2023-11-24T11:00:52Z
-weight: 840
 ResourceId: vXCIf3eBJfs
-ResourceImport: true
 ResourceType: videos
-slug: how-to-choose-the-right-agile-coach-for-your-business-success
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 840
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Agnostic Agile
+- Agile Transformation
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:32Z
+  short_title: 2025-07-07T17:51:30Z
+title: How to Choose the Right Agile Coach for Your Business Success
+videoId: vXCIf3eBJfs
+source: internal
+url: /resources/videos/:slug
+slug: how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
+layout: video
 aliases:
 - /resources/vXCIf3eBJfs
 - /resources/videos/how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
@@ -19,29 +37,11 @@ aliasesArchive:
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-5
 - /resources/5-things-to-consider-before-hiring-an-agilecoach-part-5
 - how-to-choose-the-right-agile-coach-for-your-business-success-vXCIf3eBJfs
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Agnostic Agile
-- Agile Transformation
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: vXCIf3eBJfs
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/vXCIf3eBJfs/maxresdefault.jpg
 duration: 35
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:07:32Z
-  short_title: 2025-07-07T17:51:30Z
+isShort: true
 
 ---
 In the ever-evolving world of Agile, selecting the right coach for your team or organization can make a profound difference in achieving success. With so many frameworks and approaches available, it’s crucial to find someone who brings more than just one method to the table. But how do you know if the Agile coach you're considering is the right fit? Let's dive into some key factors you should consider, especially when evaluating their approach and versatility.

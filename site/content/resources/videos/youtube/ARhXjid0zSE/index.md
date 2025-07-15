@@ -1,23 +1,12 @@
 ---
-title: 'Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback and Engagement'
 short_title: Overcoming Feedback Gaps in Agile Teams
 description: Explores the impact of lacking feedback and engagement in Agile teams, highlighting risks and offering strategies to boost stakeholder involvement and team motivation.
 date: 2023-11-08T06:45:00Z
-weight: 1000
 ResourceId: ARhXjid0zSE
-ResourceImport: true
 ResourceType: videos
-slug: combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
-aliases:
-- /resources/ARhXjid0zSE
-- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
-- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
-- /resources/videos/7-signs-of-the-agile-apocalypse-famine
-aliasesArchive:
-- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
-- /resources/videos/7-signs-of-the-agile-apocalypse-famine
-- /resources/7-signs-of-the-agile-apocalypse-famine
-- combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Development
@@ -33,22 +22,33 @@ tags:
 - Team Performance
 - Value Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: ARhXjid0zSE
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
-duration: 32
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:08:01Z
   short_title: 2025-07-07T17:51:53Z
+title: 'Combatting the Agile Apocalypse: How to Overcome the Famine of Feedback and Engagement'
+videoId: ARhXjid0zSE
+source: youtube
+url: /resources/videos/:slug
+slug: combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
+layout: video
+aliases:
+- /resources/ARhXjid0zSE
+- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
+- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
+- /resources/videos/7-signs-of-the-agile-apocalypse-famine
+aliasesArchive:
+- /resources/videos/combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement
+- /resources/videos/7-signs-of-the-agile-apocalypse-famine
+- /resources/7-signs-of-the-agile-apocalypse-famine
+- combatting-the-agile-apocalypse-how-to-overcome-the-famine-of-feedback-and-engagement-ARhXjid0zSE
+preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
+duration: 32
+resourceTypes:
+- video
+isShort: true
 
 ---
 In my journey through the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), I've often encountered what I like to call the "seven signs of the agile apocalypse." One of the most alarming signs is famine. Now, you might be wondering how famine relates to Agile practices, but let me explain. In our context, this famine manifests as a significant lack of feedback and engagement—particularly with stakeholders and, crucially, with your [product owner]({{< ref "/tags/product-owner" >}}).

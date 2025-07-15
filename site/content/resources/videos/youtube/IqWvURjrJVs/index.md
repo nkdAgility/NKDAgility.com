@@ -1,45 +1,44 @@
 ---
-title: Znaczenie znajomości terenu
 short_title: Znaczenie znajomości terenu
 description: Explores how knowledge of terrain, using mushroom picking as an example, can teach agility and adaptability in agile teams and project management environments.
 date: 2023-08-10T14:45:00Z
-weight: 1000
 ResourceId: IqWvURjrJVs
-ResourceImport: true
 ResourceType: videos
-slug: znaczenie-znajomości-terenu
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
+Watermarks:
+  description: 2025-05-07T13:10:16Z
+  short_title: 2025-07-07T17:53:35Z
+title: Znaczenie znajomości terenu
+videoId: IqWvURjrJVs
+source: youtube
+url: /resources/videos/:slug
+slug: znaczenie-znajomoci-terenu
+layout: video
+canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 aliases:
 - /resources/IqWvURjrJVs
 - /resources/videos/znaczenie-znajomoci-terenu
-- /resources/videos/znaczenie-znajomo-ci-terenu
 aliasesArchive:
 - /resources/videos/znaczenie-znajomoci-terenu
 - /resources/videos/znaczenie-znajomości-terenu
 - /resources/znaczenie-znajomości-terenu
 - znaczenie-znajomoci-terenu
 - /resources/videos/znaczenie-znajomo-ci-terenu
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: IqWvURjrJVs
-url: /resources/videos/:slug
-layout: video
-canonicalUrl: https://www.youtube.com/watch?v=IqWvURjrJVs
 preview: https://i.ytimg.com/vi/IqWvURjrJVs/maxresdefault.jpg
 duration: 255
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.4
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:16Z
-  short_title: 2025-07-07T17:53:35Z
+isShort: false
 
 ---
  Znaczenie znajomości terenu. Czego możemy się nauczyć o zwinności na podstawie narodowego polskiego sportu, czyli zbierania grzybów?

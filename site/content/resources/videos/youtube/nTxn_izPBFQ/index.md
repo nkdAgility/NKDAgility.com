@@ -1,13 +1,31 @@
 ---
-title: How good is the APSPO course in helping leaders determine product direction and Why?
 short_title: APSPOA Course for Product Direction & Leadership
 description: Explores how the APSPOA course equips product owners and leaders with tools and techniques to shape product direction and develop key Agile leadership skills.
 date: 2023-03-22T07:00:17Z
-weight: 690
 ResourceId: nTxn_izPBFQ
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 690
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Product Owner
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:35Z
+  short_title: 2025-07-07T17:56:19Z
+title: How good is the APSPO course in helping leaders determine product direction and Why?
+videoId: nTxn_izPBFQ
+source: internal
+url: /resources/videos/:slug
 slug: how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
+layout: video
 aliases:
 - /resources/nTxn_izPBFQ
 - /resources/videos/how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
@@ -20,29 +38,11 @@ aliasesArchive:
 - /resources/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 - /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction
 - how-good-is-the-apspo-course-in-helping-leaders-determine-product-direction-and-why
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Product Owner
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: nTxn_izPBFQ
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
 duration: 378
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:13:35Z
-  short_title: 2025-07-07T17:56:19Z
+isShort: false
 
 ---
 **How good is the APSPO course in helping leaders determine product direction and Why?**

@@ -1,30 +1,13 @@
 ---
-title: Worst trait in unskilled scrum masters?
 short_title: Worst Traits in Unskilled Scrum Masters
 description: Highlights the most damaging traits of unskilled Scrum Masters, such as micromanagement and bossiness, and contrasts them with effective, facilitative Scrum leadership.
 date: 2023-04-26T07:00:00Z
-weight: 690
 ResourceId: -pW6YDYEO20
-ResourceImport: true
 ResourceType: videos
-slug: worst-trait-in-unskilled-scrum-masters
-aliases:
-- /resources/-pW6YDYEO20
-- /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: -pW6YDYEO20
-source: internal
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
-duration: 54
-isShort: true
-aliasesArchive:
-- /resources/videos/worst-trait-in-unskilled-scrum-masters
-- /resources/worst-trait-in-unskilled-scrum-masters
-- /resources/videos/worst-trait-in-unskilled-scrum-masters-
-- /resources/worst-trait-in-unskilled-scrum-masters-
-- worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+weight: 690
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Scrum
@@ -33,12 +16,29 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
-layout: video
 Watermarks:
   description: 2025-05-07T13:13:01Z
   short_title: 2025-07-07T17:55:44Z
+title: Worst trait in unskilled scrum masters?
+videoId: -pW6YDYEO20
+source: internal
+url: /resources/videos/:slug
+slug: worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+layout: video
+aliases:
+- /resources/-pW6YDYEO20
+- /resources/videos/worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+aliasesArchive:
+- /resources/videos/worst-trait-in-unskilled-scrum-masters
+- /resources/worst-trait-in-unskilled-scrum-masters
+- /resources/videos/worst-trait-in-unskilled-scrum-masters-
+- /resources/worst-trait-in-unskilled-scrum-masters-
+- worst-trait-in-unskilled-scrum-masters--pW6YDYEO20
+preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
+duration: 54
+resourceTypes:
+- video
+isShort: true
 
 ---
 **Worst trait in unskilled [scrum]({{< ref "/categories/scrum" >}}) masters?**

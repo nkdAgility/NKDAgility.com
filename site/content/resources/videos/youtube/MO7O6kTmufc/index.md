@@ -1,23 +1,12 @@
 ---
-title: 'Mastering Outcomes: How Evidence-Based Management Transforms Your Project Success'
 short_title: Evidence-Based Management for Project Success
 description: Learn how evidence-based management uses clear outcomes and targeted metrics to improve project success, enabling informed decisions and continuous improvement.
 date: 2024-09-12T13:46:15Z
-weight: 1000
 ResourceId: MO7O6kTmufc
-ResourceImport: true
 ResourceType: videos
-slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success
-aliases:
-- /resources/MO7O6kTmufc
-- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
-- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success
-- /resources/videos/introduction-to-evidence-based-management-excerpt-2
-aliasesArchive:
-- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success
-- /resources/videos/introduction-to-evidence-based-management-excerpt-2
-- /resources/introduction-to-evidence-based-management-excerpt-2
-- mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Development
@@ -29,22 +18,33 @@ tags:
 - Pragmatic Thinking
 - Metrics and Learning
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: MO7O6kTmufc
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
-duration: 36
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:58:30Z
   short_title: 2025-07-07T17:48:14Z
+title: 'Mastering Outcomes: How Evidence-Based Management Transforms Your Project Success'
+videoId: MO7O6kTmufc
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
+layout: video
+aliases:
+- /resources/MO7O6kTmufc
+- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
+- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success
+- /resources/videos/introduction-to-evidence-based-management-excerpt-2
+aliasesArchive:
+- /resources/videos/mastering-outcomes-how-evidence-based-management-transforms-your-project-success
+- /resources/videos/introduction-to-evidence-based-management-excerpt-2
+- /resources/introduction-to-evidence-based-management-excerpt-2
+- mastering-outcomes-how-evidence-based-management-transforms-your-project-success-MO7O6kTmufc
+preview: https://i.ytimg.com/vi/MO7O6kTmufc/maxresdefault.jpg
+duration: 36
+resourceTypes:
+- video
+isShort: true
 
 ---
 When embarking on any journey, whether it’s a personal project or a large-scale [organisational change]({{< ref "/tags/organisational-change" >}}), clarity of outcomes is paramount. I’ve often found that once you’ve defined what success looks like, the next crucial step is determining the metrics that will guide you towards those outcomes. This is where the concept of evidence-based management comes into play, and it’s something I’ve seen make a significant difference in various contexts.

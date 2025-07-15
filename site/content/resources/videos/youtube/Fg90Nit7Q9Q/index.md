@@ -1,29 +1,13 @@
 ---
-title: Can you align DevOps and Software Engineering Teams Through Scrum?
 short_title: Aligning DevOps and Engineering Teams with Scrum
 description: Explores how Scrum can align DevOps and software engineering teams by fostering transparency, feedback, and engineering excellence in Agile software development.
 date: 2023-06-16T14:30:05Z
-weight: 330
 ResourceId: Fg90Nit7Q9Q
-ResourceImport: true
 ResourceType: videos
-slug: can-you-align-devops-and-software-engineering-teams-through-scrum
-aliases:
-- /resources/Fg90Nit7Q9Q
-- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: Fg90Nit7Q9Q
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/Fg90Nit7Q9Q/maxresdefault.jpg
-duration: 36
-isShort: true
-aliasesArchive:
-- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
-- /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
-- can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
+weight: 330
+ResourceContentOrigin: AI
 concepts:
 - Framework
 categories:
@@ -33,11 +17,27 @@ tags:
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:11:33Z
   short_title: 2025-07-07T17:54:35Z
+title: Can you align DevOps and Software Engineering Teams Through Scrum?
+videoId: Fg90Nit7Q9Q
+source: internal
+url: /resources/videos/:slug
+slug: can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
+layout: video
+aliases:
+- /resources/Fg90Nit7Q9Q
+- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
+aliasesArchive:
+- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
+- /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
+- can-you-align-devops-and-software-engineering-teams-through-scrum-Fg90Nit7Q9Q
+preview: https://i.ytimg.com/vi/Fg90Nit7Q9Q/maxresdefault.jpg
+duration: 36
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## Bridging [DevOps]({{< ref "/categories/devops" >}}) & Software Engineering Through [Scrum]({{< ref "/categories/scrum" >}})! 🔥

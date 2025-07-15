@@ -1,22 +1,12 @@
 ---
-title: 'Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence'
 short_title: Optimising Systems for Engineering Excellence
 description: Explores how optimising systems, reducing technical debt, and strong leadership improve engineering quality, productivity, and innovation while minimising chaos.
 date: 2024-12-16T06:00:00Z
-weight: 175
 ResourceId: zqMzD1PXq4s
-ResourceImport: true
 ResourceType: videos
-slug: transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
-aliases:
-- /resources/zqMzD1PXq4s
-- /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
-- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
-aliasesArchive:
-- /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
-- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
-- /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
-- transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 175
 concepts: []
 categories:
 - Engineering Excellence
@@ -29,20 +19,32 @@ tags:
 - Software Development
 - Technical Excellence
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: zqMzD1PXq4s
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCCJvxRnT7rlMn8MlnyQgBfNMJTrg
-duration: 413
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 Watermarks:
   description: 2025-05-07T12:56:41Z
   short_title: 2025-07-07T17:47:09Z
+title: 'Transforming Chaos into Clarity: How Optimising Systems Fuels Engineering Excellence'
+videoId: zqMzD1PXq4s
+source: youtube
+url: /resources/videos/:slug
+slug: transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
+layout: video
+aliases:
+- /resources/zqMzD1PXq4s
+- /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
+- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
+aliasesArchive:
+- /resources/videos/transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
+- /resources/videos/the-cost-of-chaos-the-impact-of-poor-technical-leadership
+- /resources/the-cost-of-chaos-the-impact-of-poor-technical-leadership
+- transforming-chaos-into-clarity-how-optimising-systems-fuels-engineering-excellence
+preview: https://i9.ytimg.com/vi/zqMzD1PXq4s/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCCJvxRnT7rlMn8MlnyQgBfNMJTrg
+duration: 413
+resourceTypes:
+- video
+isShort: false
 
 ---
 Chaos costs money. In my experience working with various organisations, I've seen firsthand how they struggle to manage the chaos that often surrounds the delivery of usable, working products to their customers. The result? Substandard work, a barrage of bugs hitting production, and a frustrating cycle of rework because things simply don’t meet the minimum standards we expect. It’s a familiar tale, and one that I’ve encountered time and again.

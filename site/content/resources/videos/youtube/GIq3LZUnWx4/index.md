@@ -1,22 +1,12 @@
 ---
-title: What is the one thing a PSPO course forces you to focus on?
 short_title: 'PSPO Course Focus: Defining Value'
 description: Explains how the PSPO course centres on understanding and defining value, highlighting its importance for Product Owners in guiding decisions and organisational success.
 date: 2023-05-15T14:00:13Z
-weight: 790
 ResourceId: GIq3LZUnWx4
-ResourceImport: true
 ResourceType: videos
-slug: what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
-aliases:
-- /resources/GIq3LZUnWx4
-- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
-aliasesArchive:
-- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
-- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
-- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
-- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
-- what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
 concepts: []
 categories:
 - Product Management
@@ -26,22 +16,32 @@ tags:
 - Value Delivery
 - Product Owner
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: GIq3LZUnWx4
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/GIq3LZUnWx4/maxresdefault.jpg
-duration: 116
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:12:28Z
   short_title: 2025-07-07T17:55:16Z
+title: What is the one thing a PSPO course forces you to focus on?
+videoId: GIq3LZUnWx4
+source: internal
+url: /resources/videos/:slug
+slug: what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+layout: video
+aliases:
+- /resources/GIq3LZUnWx4
+- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+aliasesArchive:
+- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+- /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
+- /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
+- what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
+preview: https://i.ytimg.com/vi/GIq3LZUnWx4/maxresdefault.jpg
+duration: 116
+resourceTypes:
+- video
+isShort: false
 
 ---
 ## The Core of PSPO: Unearthing the Essence of Value

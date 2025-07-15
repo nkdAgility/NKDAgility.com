@@ -1,13 +1,29 @@
 ---
-title: 'Part 2: Most influential people in Agile'
 short_title: 'Most Influential People in Agile: Simon Randell'
 description: Highlights Simon Randell’s significant influence on Agile practices, focusing on his facilitation skills, communication style, and impact on Agile learning and leadership.
 date: 2023-08-09T07:00:14Z
-weight: 1000
 ResourceId: eykcZoUdVO8
-ResourceImport: true
 ResourceType: videos
-slug: part-2-most-influential-people-in-agile
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:21Z
+  short_title: 2025-07-07T17:53:40Z
+title: 'Part 2: Most influential people in Agile'
+videoId: eykcZoUdVO8
+source: internal
+url: /resources/videos/:slug
+slug: part-2-most-influential-people-in-agile-eykcZoUdVO8
+layout: video
 aliases:
 - /resources/eykcZoUdVO8
 - /resources/videos/part-2-most-influential-people-in-agile-eykcZoUdVO8
@@ -22,27 +38,11 @@ aliasesArchive:
 - /resources/most-influential-person-in-agile-for-you-personally-
 - /resources/videos/most-influential-person-in-agile-for-you-personally
 - part-2-most-influential-people-in-agile-eykcZoUdVO8
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: eykcZoUdVO8
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/eykcZoUdVO8/maxresdefault.jpg
 duration: 39
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:21Z
-  short_title: 2025-07-07T17:53:40Z
+isShort: true
 
 ---
 ## Spotlight on Agile Influencers: The Simon Randell Effect

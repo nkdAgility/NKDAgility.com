@@ -1,31 +1,13 @@
 ---
-title: Reasons to do a PSPO-A Course in 60 Seconds
 short_title: Reasons to Do a PSPO-A Course in 60 Seconds
 description: Discover how the PSPO-A course helps product managers and owners master Agile and Scrum, boost collaboration, and drive effective product management in any organisation.
 date: 2023-07-11T14:00:32Z
-weight: 1000
 ResourceId: faoWuCkKC0U
-ResourceImport: true
 ResourceType: videos
-slug: reasons-to-do-a-pspo-a-course-in-60-seconds
-aliases:
-- /resources/faoWuCkKC0U
-- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: faoWuCkKC0U
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg
-duration: 46
-isShort: true
-aliasesArchive:
-- /resources/videos/reasons-to-do-a-pspo-a-course-in-seconds
-- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
-- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
-- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds
-- reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
+weight: 1000
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Product Development
@@ -34,11 +16,29 @@ tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:10:53Z
   short_title: 2025-07-07T17:54:03Z
+title: Reasons to do a PSPO-A Course in 60 Seconds
+videoId: faoWuCkKC0U
+source: internal
+url: /resources/videos/:slug
+slug: reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
+layout: video
+aliases:
+- /resources/faoWuCkKC0U
+- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
+aliasesArchive:
+- /resources/videos/reasons-to-do-a-pspo-a-course-in-seconds
+- /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
+- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
+- /resources/reasons-to-do-a-pspo-a-course-in-60-seconds
+- reasons-to-do-a-pspo-a-course-in-60-seconds-faoWuCkKC0U
+preview: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg
+duration: 46
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## Step Up Your Game with the PSPO-A Course

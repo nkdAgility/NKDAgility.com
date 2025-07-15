@@ -1,13 +1,32 @@
 ---
-title: 'Transform Your Agile Training: The Power of Immersive Learning for Lasting Impact'
 short_title: Immersive Learning for Agile and Scrum Training
 description: Explores how immersive learning in Agile and Scrum boosts retention and real-world application by using spaced sessions, practical assignments, and collaborative feedback.
 date: 2023-06-08T07:00:30Z
-weight: 790
 ResourceId: qrEqX_5FWM8
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
+concepts: []
+categories:
+- Product Development
+tags:
+- Pragmatic Thinking
+- Continuous Learning
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:47Z
+  short_title: 2025-07-07T17:54:46Z
+title: 'Transform Your Agile Training: The Power of Immersive Learning for Lasting Impact'
+videoId: qrEqX_5FWM8
+source: youtube
+url: /resources/videos/:slug
 slug: transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
+layout: video
 aliases:
 - /resources/qrEqX_5FWM8
 - /resources/videos/transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
@@ -17,30 +36,11 @@ aliasesArchive:
 - /resources/videos/overview-of-the-8-week-immersive-learning-experience
 - /resources/overview-of-the-8-week-immersive-learning-experience
 - transform-your-agile-training-the-power-of-immersive-learning-for-lasting-impact
-concepts: []
-categories:
-- Product Development
-tags:
-- Pragmatic Thinking
-- Continuous Learning
-- Software Development
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: qrEqX_5FWM8
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:47Z
-  short_title: 2025-07-07T17:54:46Z
+isShort: false
 
 ---
 When it comes to learning, especially in the realm of Agile and [Scrum]({{< ref "/categories/scrum" >}}), the traditional classroom model often leaves much to be desired. I’ve seen it time and again: participants leave with their heads filled with information, yet only retain about ten per cent of it two weeks later. This is where immersive learning comes into play, and I’m excited to share my thoughts on this transformative approach.

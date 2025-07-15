@@ -1,13 +1,31 @@
 ---
-title: 'The Power of Immersive Learning: Bridging Theory and Experience'
 short_title: Immersive Learning in Agile and Scrum Training
 description: Explains how immersive learning combines Agile and Scrum theory with hands-on practice, real-world scenarios, and expert guidance to boost skills, confidence, and teamwork.
 date: 2024-02-09T07:00:06Z
-weight: 1000
 ResourceId: GfB3nB_PMyY
-ResourceImport: true
 ResourceType: videos
-slug: the-power-of-immersive-learning-bridging-theory-and-experience
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts:
+- Method
+categories:
+- Uncategorized
+tags:
+- Competence
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:05:54Z
+  short_title: 2025-07-07T17:49:51Z
+title: 'The Power of Immersive Learning: Bridging Theory and Experience'
+videoId: GfB3nB_PMyY
+source: internal
+url: /resources/videos/:slug
+slug: the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
+layout: video
 aliases:
 - /resources/GfB3nB_PMyY
 - /resources/videos/the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
@@ -19,29 +37,11 @@ aliasesArchive:
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
 - the-power-of-immersive-learning-bridging-theory-and-experience-GfB3nB_PMyY
-concepts:
-- Method
-categories:
-- Uncategorized
-tags:
-- Competence
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: GfB3nB_PMyY
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/GfB3nB_PMyY/maxresdefault.jpg
 duration: 50
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:05:54Z
-  short_title: 2025-07-07T17:49:51Z
+isShort: true
 
 ---
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), training is essential for teams to stay effective and efficient. However, traditional training methods can often feel disconnected from real-world application. This is where immersive learning comes in, offering a holistic approach that integrates not only theory but also practical, hands-on experience.

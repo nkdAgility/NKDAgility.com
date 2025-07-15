@@ -1,25 +1,12 @@
 ---
-title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
 short_title: The Hidden Costs of Poor Quality Code
 description: Explores the financial, productivity, and reputational impacts of poor-quality code, and offers practical steps to turn code quality into a competitive advantage.
 date: 2024-11-19T09:58:28Z
-weight: 230
 ResourceId: 1AO6FFBlE4Y
-ResourceImport: true
 ResourceType: videos
-slug: the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
-aliases:
-- /resources/1AO6FFBlE4Y
-- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
-- /resources/videos/the-high-cost-of-poor-quality-code
-- /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
-aliasesArchive:
-- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
-- /resources/videos/the-high-cost-of-poor-quality-code-
-- /resources/the-high-cost-of-poor-quality-code-
-- the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
-- /resources/videos/the-high-cost-of-poor-quality-code
-- /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 230
 concepts: []
 categories:
 - Engineering Excellence
@@ -35,22 +22,34 @@ tags:
 - Working Software
 - Product Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 1AO6FFBlE4Y
-source: internal
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
-duration: 600
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-layout: video
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:19Z
   short_title: 2025-07-07T17:47:38Z
+title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
+videoId: 1AO6FFBlE4Y
+source: internal
+url: /resources/videos/:slug
+slug: the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+layout: video
+aliases:
+- /resources/1AO6FFBlE4Y
+- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+- /resources/videos/the-high-cost-of-poor-quality-code
+aliasesArchive:
+- /resources/videos/the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+- /resources/videos/the-high-cost-of-poor-quality-code-
+- /resources/the-high-cost-of-poor-quality-code-
+- the-hidden-costs-of-poor-quality-codeand-how-to-turn-it-into-a-superpower
+- /resources/videos/the-high-cost-of-poor-quality-code
+- /resources/videos/the-hidden-costs-of-poor-quality-code-and-how-to-turn-it-into-a-superpower
+preview: https://i.ytimg.com/vi/1AO6FFBlE4Y/maxresdefault.jpg
+duration: 600
+resourceTypes:
+- video
+isShort: false
 
 ---
 # The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower

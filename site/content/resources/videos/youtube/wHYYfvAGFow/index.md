@@ -1,13 +1,29 @@
 ---
-title: What is Taylorism and how did it influence project management?
 short_title: Taylorism’s Impact on Project Management
 description: Explains how Taylorism shaped project management through standardised processes, command-and-control structures, and its impact on efficiency, hierarchy, and modern practices.
 date: 2023-02-22T07:00:28Z
-weight: 1000
 ResourceId: wHYYfvAGFow
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:14:00Z
+  short_title: 2025-07-07T17:56:41Z
+title: What is Taylorism and how did it influence project management?
+videoId: wHYYfvAGFow
+source: internal
+url: /resources/videos/:slug
 slug: what-is-taylorism-and-how-did-it-influence-project-management
+layout: video
 aliases:
 - /resources/wHYYfvAGFow
 - /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management
@@ -17,27 +33,11 @@ aliasesArchive:
 - /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management-
 - /resources/what-is-taylorism-and-how-did-it-influence-project-management-
 - what-is-taylorism-and-how-did-it-influence-project-management
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: wHYYfvAGFow
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/wHYYfvAGFow/maxresdefault.jpg
 duration: 483
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:14:00Z
-  short_title: 2025-07-07T17:56:41Z
+isShort: false
 
 ---
 What is Taylorism and how did it influence [project management]({{< ref "/tags/project-management" >}})?

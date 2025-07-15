@@ -1,22 +1,12 @@
 ---
-title: What is Sprint Planning?
 short_title: What is Sprint Planning?
 description: Sprint planning is a collaborative session where teams define and align on goals, tasks, and priorities for the next sprint, ensuring clarity and focus for effective delivery.
 date: 2023-05-24T14:00:36Z
-weight: 690
 ResourceId: nMkit8zBxG0
-ResourceImport: true
 ResourceType: videos
-slug: what-is-sprint-planning
-aliases:
-- /resources/nMkit8zBxG0
-- /resources/videos/what-is-sprint-planning
-aliasesArchive:
-- /resources/videos/what-is-sprint-planning
-- /resources/what-is-sprint-planning
-- /resources/videos/what-is-sprint-planning-
-- /resources/what-is-sprint-planning-
-- what-is-sprint-planning
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 690
 concepts:
 - Method
 categories:
@@ -30,22 +20,32 @@ tags:
 - Agile Product Management
 - Product Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: nMkit8zBxG0
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg
-duration: 464
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:12:13Z
   short_title: 2025-07-07T17:55:04Z
+title: What is Sprint Planning?
+videoId: nMkit8zBxG0
+source: internal
+url: /resources/videos/:slug
+slug: what-is-sprint-planning
+layout: video
+aliases:
+- /resources/nMkit8zBxG0
+- /resources/videos/what-is-sprint-planning
+aliasesArchive:
+- /resources/videos/what-is-sprint-planning
+- /resources/what-is-sprint-planning
+- /resources/videos/what-is-sprint-planning-
+- /resources/what-is-sprint-planning-
+- what-is-sprint-planning
+preview: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg
+duration: 464
+resourceTypes:
+- video
+isShort: false
 
 ---
 ## Setting the Tone for Success

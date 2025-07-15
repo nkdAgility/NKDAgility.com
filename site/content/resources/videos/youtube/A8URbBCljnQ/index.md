@@ -1,25 +1,13 @@
 ---
-title: 'Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World'
 short_title: Mastering Remote Work for Agile Teams
 description: Practical strategies for remote Agile teams, covering communication, tool selection, value delivery, team dynamics, gamification, and integrating UX into software development.
 date: 2020-04-10T18:30:42Z
-weight: 330
 ResourceId: A8URbBCljnQ
-ResourceImport: true
 ResourceType: videos
-slug: mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
-aliases:
-- /resources/A8URbBCljnQ
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: A8URbBCljnQ
-url: /resources/videos/:slug
-layout: video
-aliasesArchive:
-- /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
-- /resources/videos/27th-march-2020-office-hours-ask-me-anything
-- /resources/27th-march-2020-office-hours-ask-me-anything
-- mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
+weight: 330
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Product Development
@@ -34,18 +22,32 @@ tags:
 - Market Adaptability
 - Product Delivery
 - Scrum Team
-preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg
-duration: 1506
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:15:53Z
   short_title: 2025-07-07T17:58:13Z
+title: 'Mastering Remote Work: Key Insights for Agile Teams to Thrive in a Digital World'
+videoId: A8URbBCljnQ
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
+layout: video
+aliases:
+- /resources/A8URbBCljnQ
+- /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
+- /resources/videos/27th-march-2020-office-hours-ask-me-anything
+aliasesArchive:
+- /resources/videos/mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
+- /resources/videos/27th-march-2020-office-hours-ask-me-anything
+- /resources/27th-march-2020-office-hours-ask-me-anything
+- mastering-remote-work-key-insights-for-agile-teams-to-thrive-in-a-digital-world
+preview: https://i.ytimg.com/vi/A8URbBCljnQ/hqdefault.jpg
+duration: 1506
+resourceTypes:
+- video
+isShort: false
 
 ---
 Hello, I’m Martin Hinshelwood, the owner of Naked Agility based in Glasgow, Scotland. Today, I want to share some insights and experiences that have come up in recent discussions, particularly around [remote working]({{< ref "/tags/remote-working" >}}), the integration of UX in Agile practices, and the importance of team dynamics. 

@@ -1,21 +1,12 @@
 ---
-title: 'Mastering Scrum: Key Insights on Definition of Done, Spikes, and Managing Ad Hoc Work'
 short_title: 'Scrum: Definition of Done, Spikes, Ad Hoc Work'
 description: 'Explains key Scrum concepts: distinguishing Definition of Done from acceptance criteria, using spikes vs. refinement, and strategies for managing ad hoc work in sprints.'
 date: 2020-06-04T05:33:42Z
-weight: 1000
 ResourceId: gc8Pq_5CepY
-ResourceImport: true
 ResourceType: videos
-slug: mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
-aliases:
-- /resources/gc8Pq_5CepY
-aliasesArchive:
-- /resources/videos/rd-june-office-hours-ask-me-anything
-- /resources/videos/3rd-june-2020-office-hours-ask-me-anything
-- /resources/3rd-june-2020-office-hours-ask-me-anything
-- /resources/videos/mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
-- mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Artifact
 categories:
@@ -25,22 +16,33 @@ tags:
 - Software Development
 - Professional Scrum
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: gc8Pq_5CepY
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg
-duration: 1686
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:15:40Z
   short_title: 2025-07-07T17:58:03Z
+title: 'Mastering Scrum: Key Insights on Definition of Done, Spikes, and Managing Ad Hoc Work'
+videoId: gc8Pq_5CepY
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
+layout: video
+aliases:
+- /resources/gc8Pq_5CepY
+- /resources/videos/mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
+- /resources/videos/3rd-june-2020-office-hours-ask-me-anything
+aliasesArchive:
+- /resources/videos/rd-june-office-hours-ask-me-anything
+- /resources/videos/3rd-june-2020-office-hours-ask-me-anything
+- /resources/3rd-june-2020-office-hours-ask-me-anything
+- /resources/videos/mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
+- mastering-scrum-key-insights-on-definition-of-done-spikes-and-managing-ad-hoc-work
+preview: https://i.ytimg.com/vi/gc8Pq_5CepY/maxresdefault.jpg
+duration: 1686
+resourceTypes:
+- video
+isShort: false
 
 ---
 Hello everyone, and welcome back to my office hours! Today, I’m excited to dive into some of the questions that have come up over the past week. As always, I host this event every Wednesday at 6 p.m. UK time, where I gather interesting queries and do my best to provide insightful answers. So, let’s get started!

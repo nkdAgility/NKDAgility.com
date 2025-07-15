@@ -1,13 +1,35 @@
 ---
-title: 'Navigating the Balance: How Lean Governance Can Boost Agility and Innovation in Your Organisation'
 short_title: Lean Governance for Agility and Innovation
 description: Explores how lean governance reduces unnecessary processes, enabling organisations to stay agile, meet compliance, and foster innovation without excess bureaucracy.
 date: 2025-02-09T22:00:37Z
-weight: 840
 ResourceId: yvIanYh3bcQ
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 840
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Business Agility
+- Lean Principles
+- Lean Thinking
+- Operational Practices
+- Organisational Agility
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:42Z
+  short_title: 2025-07-07T17:46:38Z
+title: 'Navigating the Balance: How Lean Governance Can Boost Agility and Innovation in Your Organisation'
+videoId: yvIanYh3bcQ
+source: internal
+url: /resources/videos/:slug
 slug: navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
+layout: video
 aliases:
 - /resources/yvIanYh3bcQ
 - /resources/videos/navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
@@ -22,33 +44,11 @@ aliasesArchive:
 - /resources/what-governance-models-are-best-suited-for-organizations-adopting-high-frequency-deployment-practice
 - /resources/videos/navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
 - navigating-the-balance-how-lean-governance-can-boost-agility-and-innovation-in-your-organisation
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Business Agility
-- Lean Principles
-- Lean Thinking
-- Operational Practices
-- Organisational Agility
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: yvIanYh3bcQ
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/yvIanYh3bcQ/maxresdefault.jpg
 duration: 497
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:49:42Z
-  short_title: 2025-07-07T17:46:38Z
+isShort: false
 
 ---
 Governance is a critical aspect of any organisation, ensuring that we operate safely and effectively. However, I’ve observed that excessive governance can often hinder our ability to seize opportunities and respond to unexpected challenges. When surprises arise—be it a market shift, a product issue, or an internal complication—the time and cost to rectify these problems can escalate dramatically. 

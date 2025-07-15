@@ -1,22 +1,12 @@
 ---
-title: 'Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist'
 short_title: Fund Your Product Like a Venture Capitalist
 description: Learn how to fund product development by thinking like a venture capitalist—run small experiments, validate ideas, manage risk, and balance data with creative vision.
 date: 2024-12-10T06:30:00Z
-weight: 840
 ResourceId: vbY6LUq81uY
-ResourceImport: true
 ResourceType: videos
-slug: navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
-aliases:
-- /resources/vbY6LUq81uY
-- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
-aliasesArchive:
-- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
-- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
-- /resources/maximizing-value-with-minimum-viable-products-mvps
-- navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 840
 concepts: []
 categories:
 - Product Development
@@ -28,22 +18,32 @@ tags:
 - Lean Startup
 - Hypothesis Driven Development
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: vbY6LUq81uY
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg
-duration: 437
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:56:48Z
   short_title: 2025-07-07T17:47:13Z
+title: 'Navigating the Unknown: How to Fund Your Product Like a Venture Capitalist'
+videoId: vbY6LUq81uY
+source: youtube
+url: /resources/videos/:slug
+slug: navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+layout: video
+aliases:
+- /resources/vbY6LUq81uY
+- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
+aliasesArchive:
+- /resources/videos/navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+- /resources/videos/maximizing-value-with-minimum-viable-products-mvps
+- /resources/maximizing-value-with-minimum-viable-products-mvps
+- navigating-the-unknown-how-to-fund-your-product-like-a-venture-capitalist
+preview: https://i9.ytimg.com/vi/vbY6LUq81uY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLA7AhAQKNTt8wyFKqaI0PiC-7jbHg
+duration: 437
+resourceTypes:
+- video
+isShort: false
 
 ---
 Building products is an exhilarating journey into the unknown. Every time I sit down with a team to write code, I’m reminded that we’re embarking on a venture that has never been done before. If we weren’t, we wouldn’t be coding; we’d simply be purchasing a ready-made solution. This inherent uncertainty is what gives software engineering its unique character, and it’s also why we experience such a high degree of variance in our projects.

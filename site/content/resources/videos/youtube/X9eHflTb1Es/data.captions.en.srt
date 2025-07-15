@@ -1,0 +1,337 @@
+1
+00:00:00,160 --> 00:00:06,400
+One of the the big stories around Azure
+
+2
+00:00:03,919 --> 00:00:08,720
+DevOps is around governance, security,
+
+3
+00:00:06,400 --> 00:00:12,080
+compliance, and scalability. And it's
+
+4
+00:00:08,720 --> 00:00:13,599
+one of those things that um actually for
+
+5
+00:00:12,080 --> 00:00:16,240
+me is one of the massive value
+
+6
+00:00:13,599 --> 00:00:18,400
+propositions of Azure DevOps that a lot
+
+7
+00:00:16,240 --> 00:00:21,039
+of those things you just get out of the
+
+8
+00:00:18,400 --> 00:00:24,320
+box, right? And that's a really powerful
+
+9
+00:00:21,039 --> 00:00:27,519
+story. So I I I
+
+10
+00:00:24,320 --> 00:00:29,199
+it's it's a little bit anecdotal but um
+
+11
+00:00:27,519 --> 00:00:33,120
+I
+
+12
+00:00:29,199 --> 00:00:37,520
+teach the um applying professional scrum
+
+13
+00:00:33,120 --> 00:00:40,399
+for software developers um and it's a
+
+14
+00:00:37,520 --> 00:00:43,280
+program a a a training class where we
+
+15
+00:00:40,399 --> 00:00:45,760
+actually set up and use um DevOps
+
+16
+00:00:43,280 --> 00:00:47,760
+tooling within the context of of of the
+
+17
+00:00:45,760 --> 00:00:50,320
+class and the people participating in
+
+18
+00:00:47,760 --> 00:00:52,239
+the class actually work on a on a
+
+19
+00:00:50,320 --> 00:00:54,719
+product uh that paper that's very
+
+20
+00:00:52,239 --> 00:00:56,320
+dissolial, right? Um, and they have to
+
+21
+00:00:54,719 --> 00:00:59,120
+make changes and they have to do stuff
+
+22
+00:00:56,320 --> 00:01:00,800
+and and and ship product within within a
+
+23
+00:00:59,120 --> 00:01:02,239
+short space of time, think 45 minutes,
+
+24
+00:01:00,800 --> 00:01:04,720
+they have to make changes and ship
+
+25
+00:01:02,239 --> 00:01:06,240
+product. And there's two there's two
+
+26
+00:01:04,720 --> 00:01:08,000
+there's two flavors of that class.
+
+27
+00:01:06,240 --> 00:01:11,439
+There's the net flavor of the class
+
+28
+00:01:08,000 --> 00:01:13,360
+which effectively uses uh um Azure
+
+29
+00:01:11,439 --> 00:01:16,159
+DevOps as the back end and then there's
+
+30
+00:01:13,360 --> 00:01:19,600
+the open source flavor which you can use
+
+31
+00:01:16,159 --> 00:01:24,159
+whatever tools you want but the the the
+
+32
+00:01:19,600 --> 00:01:25,680
+the preset up tooling um it takes the
+
+33
+00:01:24,159 --> 00:01:29,759
+trainer
+
+34
+00:01:25,680 --> 00:01:32,159
+hours and hours to set up and validate
+
+35
+00:01:29,759 --> 00:01:34,720
+the environments that they need in order
+
+36
+00:01:32,159 --> 00:01:36,479
+to facilitate the open source class
+
+37
+00:01:34,720 --> 00:01:38,880
+because all of the tools don't actually
+
+38
+00:01:36,479 --> 00:01:41,280
+talk to each other, right? They don't
+
+39
+00:01:38,880 --> 00:01:44,720
+they aren't actually integrated. And
+
+40
+00:01:41,280 --> 00:01:47,759
+while in lots of contexts, open- source
+
+41
+00:01:44,720 --> 00:01:50,000
+is a great solution to your problem,
+
+42
+00:01:47,759 --> 00:01:53,680
+sometimes it's the worst solution to
+
+43
+00:01:50,000 --> 00:01:58,000
+your problem. Um, Azure DevOps is
+
+44
+00:01:53,680 --> 00:02:00,240
+totally integrated. Um, all the way from
+
+45
+00:01:58,000 --> 00:02:02,320
+your automated builds, updating your
+
+46
+00:02:00,240 --> 00:02:05,200
+work items so you know which work items
+
+47
+00:02:02,320 --> 00:02:07,600
+are in which build output. Um these kind
+
+48
+00:02:05,200 --> 00:02:10,720
+of things are invaluable when it comes
+
+49
+00:02:07,600 --> 00:02:13,840
+to to traceability. Um inside of Azure
+
+50
+00:02:10,720 --> 00:02:15,520
+DevOps, you can turn on it. It has
+
+51
+00:02:13,840 --> 00:02:18,720
+logging out of the box, but you could
+
+52
+00:02:15,520 --> 00:02:20,879
+turn on additional audit logging and it
+
+53
+00:02:18,720 --> 00:02:22,720
+will tell you exactly who's done what
+
+54
+00:02:20,879 --> 00:02:24,160
+action within the context of Azure
+
+55
+00:02:22,720 --> 00:02:26,319
+DevOps. So somebody's changing your
+
+56
+00:02:24,160 --> 00:02:29,200
+process, adding fields, removing fields,
+
+57
+00:02:26,319 --> 00:02:31,840
+you'll be able to see uh uh who who did
+
+58
+00:02:29,200 --> 00:02:34,480
+all of that. So that that governance,
+
+59
+00:02:31,840 --> 00:02:38,080
+security, compliance and scalability.
+
+60
+00:02:34,480 --> 00:02:42,080
+Again, the Windows team used this with
+
+61
+00:02:38,080 --> 00:02:44,319
+15,000 people in one project in uh Azure
+
+62
+00:02:42,080 --> 00:02:47,599
+DevOps. Um the Azure DevOps team
+
+63
+00:02:44,319 --> 00:02:49,440
+themselves are I think they were 900
+
+64
+00:02:47,599 --> 00:02:51,519
+people at one point and the developer
+
+65
+00:02:49,440 --> 00:02:54,720
+division at Microsoft is about 5,000
+
+66
+00:02:51,519 --> 00:02:57,440
+people. So the these tools have been
+
+67
+00:02:54,720 --> 00:03:00,959
+designed to work at scale. While the
+
+68
+00:02:57,440 --> 00:03:03,840
+most git repos in the world are in
+
+69
+00:03:00,959 --> 00:03:06,720
+GitHub, the largest get repos in the
+
+70
+00:03:03,840 --> 00:03:09,280
+world are in Azure DevOps. um as it's
+
+71
+00:03:06,720 --> 00:03:11,280
+the only thing that really um supports
+
+72
+00:03:09,280 --> 00:03:15,040
+that type of scale and because it
+
+73
+00:03:11,280 --> 00:03:18,959
+integrates fully um with Entra ID um
+
+74
+00:03:15,040 --> 00:03:21,840
+because it was designed that way
+
+75
+00:03:18,959 --> 00:03:25,280
+that security compliance and scalability
+
+76
+00:03:21,840 --> 00:03:27,440
+is just there out of the box, right? So
+
+77
+00:03:25,280 --> 00:03:29,200
+you can use all of the things you would
+
+78
+00:03:27,440 --> 00:03:31,599
+expect to be able to use within that
+
+79
+00:03:29,200 --> 00:03:35,280
+within that context.
+
+80
+00:03:31,599 --> 00:03:38,799
+So if you need scalability, security and
+
+81
+00:03:35,280 --> 00:03:42,400
+compliance built in,
+
+82
+00:03:38,799 --> 00:03:44,799
+let me help you build that in with Azure
+
+83
+00:03:42,400 --> 00:03:49,040
+DevOps and apply governance within the
+
+84
+00:03:44,799 --> 00:03:49,040
+context of your DevOps strategy.
+
+

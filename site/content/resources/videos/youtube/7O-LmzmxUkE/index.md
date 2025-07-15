@@ -1,27 +1,12 @@
 ---
-title: Scrum is like communism, it doesn't work. Myth 1.
 short_title: 'Scrum Events: Myths vs. Meaningful Practice'
 description: Explains why Scrum events are not pointless meetings but structured opportunities for inspection, adaptation, and progress, clarifying common misconceptions about Scrum.
 date: 2023-10-24T06:50:42Z
-weight: 665
 ResourceId: 7O-LmzmxUkE
-ResourceImport: true
 ResourceType: videos
-slug: scrum-is-like-communism-it-doesn't-work-myth-1
-aliases:
-- /resources/7O-LmzmxUkE
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-1.
-aliasesArchive:
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1-
-- /resources/scrum-is-like-communism-it-doesnt-work-myth-1
-- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
-- /resources/scrum-is-like-communism-it-doesn't-work-myth-1
-- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
-- scrum-is-like-communism-it-doesnt-work-myth-1-
-- scrum-is-like-communism-it-doesnt-work-myth-1
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-1.
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 665
 concepts:
 - Method
 categories:
@@ -36,22 +21,36 @@ tags:
 - Agile Frameworks
 - Daily Scrum
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 7O-LmzmxUkE
-source: internal
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/7O-LmzmxUkE/maxresdefault.jpg
-duration: 255
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
-layout: video
 Watermarks:
   description: 2025-05-07T13:08:27Z
   short_title: 2025-07-07T17:52:11Z
+title: Scrum is like communism, it doesn't work. Myth 1.
+videoId: 7O-LmzmxUkE
+source: internal
+url: /resources/videos/:slug
+slug: scrum-is-like-communism-it-doesnt-work-myth-1
+layout: video
+aliases:
+- /resources/7O-LmzmxUkE
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
+aliasesArchive:
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1-
+- /resources/scrum-is-like-communism-it-doesnt-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
+- /resources/scrum-is-like-communism-it-doesn't-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-1
+- scrum-is-like-communism-it-doesnt-work-myth-1-
+- scrum-is-like-communism-it-doesnt-work-myth-1
+- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-1.
+preview: https://i.ytimg.com/vi/7O-LmzmxUkE/maxresdefault.jpg
+duration: 255
+resourceTypes:
+- video
+isShort: false
 
 ---
 # Demystifying [Scrum]({{< ref "/categories/scrum" >}}): Beyond Meetings to Meaningful Events 🚀

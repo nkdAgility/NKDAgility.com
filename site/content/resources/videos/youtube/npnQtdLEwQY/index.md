@@ -1,22 +1,12 @@
 ---
-title: 'Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency'
 short_title: Navigating Technical Debt for Quality & Efficiency
 description: Explains how managing technical debt and distinguishing it from poor quality can boost product efficiency, reduce costs, and support sustainable software development.
 date: 2024-12-19T06:00:00Z
-weight: 205
 ResourceId: npnQtdLEwQY
-ResourceImport: true
 ResourceType: videos
-slug: navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
-aliases:
-- /resources/npnQtdLEwQY
-- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
-- /resources/videos/managing-technical-debt-to-minimize-costs
-aliasesArchive:
-- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
-- /resources/videos/managing-technical-debt-to-minimize-costs
-- /resources/managing-technical-debt-to-minimize-costs
-- navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 205
 concepts: []
 categories:
 - Engineering Excellence
@@ -28,22 +18,32 @@ tags:
 - Technical Mastery
 - Engineering Practices
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: npnQtdLEwQY
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
-duration: 668
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:56:38Z
   short_title: 2025-07-07T17:47:06Z
+title: 'Navigating Technical Debt: How to Transform Challenges into Opportunities for Quality and Efficiency'
+videoId: npnQtdLEwQY
+source: youtube
+url: /resources/videos/:slug
+slug: navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+layout: video
+aliases:
+- /resources/npnQtdLEwQY
+- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+- /resources/videos/managing-technical-debt-to-minimize-costs
+aliasesArchive:
+- /resources/videos/navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+- /resources/videos/managing-technical-debt-to-minimize-costs
+- /resources/managing-technical-debt-to-minimize-costs
+- navigating-technical-debt-how-to-transform-challenges-into-opportunities-for-quality-and-efficiency
+preview: https://i9.ytimg.com/vi/npnQtdLEwQY/maxresdefault.jpg?sqp=COymp7oG&rs=AOn4CLCooGMBAXQSDwgAA6cFb5Rfe35F_A
+duration: 668
+resourceTypes:
+- video
+isShort: false
 
 ---
 [Technical debt]({{< ref "/tags/technical-debt" >}}) is a term that often gets thrown around in our industry, but I want to clarify what it really means and how it impacts our products and processes. From my experience, technical debt is not just a buzzword; it represents a significant cost that can accumulate over time if not managed properly. 

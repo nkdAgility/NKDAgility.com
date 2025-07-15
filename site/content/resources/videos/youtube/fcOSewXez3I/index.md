@@ -1,13 +1,29 @@
 ---
-title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
 short_title: How AI Is Revolutionising Our Work
 description: Explores how AI boosts workplace productivity and creativity by automating tasks, aiding idea generation, and empowering professionals to work more efficiently.
 date: 2023-07-05T14:49:20Z
-weight: 1000
 ResourceId: fcOSewXez3I
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:03Z
+  short_title: 2025-07-07T17:54:11Z
+title: 'How AI is Revolutionising Our Work: Embrace the Future of Productivity and Creativity'
+videoId: fcOSewXez3I
+source: youtube
+url: /resources/videos/:slug
 slug: how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
+layout: video
 aliases:
 - /resources/fcOSewXez3I
 - /resources/videos/how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
@@ -18,27 +34,11 @@ aliasesArchive:
 - /resources/how-is-technology-like-ai-changing-the-world-we-work-in-
 - /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in
 - how-ai-is-revolutionising-our-work-embrace-the-future-of-productivity-and-creativity
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: fcOSewXez3I
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:03Z
-  short_title: 2025-07-07T17:54:11Z
+isShort: false
 
 ---
 The question on everyone’s lips these days is: how is technology, particularly AI, changing the world we work in? I genuinely believe we are on the cusp of a significant revolutionary shift rather than just an evolutionary one. AI isn’t here to take your job; rather, it’s a powerful tool that acts as a sidekick or co-pilot, enhancing our capabilities as we navigate our daily tasks.

@@ -1,23 +1,12 @@
 ---
-title: 'Special Sprints: Agile Banditry or Risk Management?'
 short_title: Special Sprints Undermine Agile Delivery
 description: Explores why special sprints like Sprint Zero or hardening sprints undermine Agile by delaying work, increasing risk, and reducing continuous delivery of usable products.
 date: 2024-01-04T11:09:15Z
-weight: 330
 ResourceId: rEqytRyOHGI
-ResourceImport: true
 ResourceType: videos
-slug: special-sprints-agile-banditry-or-risk-management
-aliases:
-- /resources/rEqytRyOHGI
-- /resources/videos/special-sprints-agile-banditry-or-risk-management
-- /resources/videos/5-kinds-of-agile-bandits-special-sprints
-aliasesArchive:
-- /resources/videos/special-sprints-agile-banditry-or-risk-management
-- /resources/special-sprints-agile-banditry-or-risk-management
-- /resources/videos/5-kinds-of-agile-bandits-special-sprints
-- /resources/5-kinds-of-agile-bandits-special-sprints
-- special-sprints-agile-banditry-or-risk-management
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 330
 concepts:
 - Ethos
 categories:
@@ -38,22 +27,33 @@ tags:
 - Team Performance
 - Product Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: rEqytRyOHGI
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
-duration: 291
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:40Z
   short_title: 2025-07-07T17:50:29Z
+title: 'Special Sprints: Agile Banditry or Risk Management?'
+videoId: rEqytRyOHGI
+source: internal
+url: /resources/videos/:slug
+slug: special-sprints-agile-banditry-or-risk-management
+layout: video
+aliases:
+- /resources/rEqytRyOHGI
+- /resources/videos/special-sprints-agile-banditry-or-risk-management
+- /resources/videos/5-kinds-of-agile-bandits-special-sprints
+aliasesArchive:
+- /resources/videos/special-sprints-agile-banditry-or-risk-management
+- /resources/special-sprints-agile-banditry-or-risk-management
+- /resources/videos/5-kinds-of-agile-bandits-special-sprints
+- /resources/5-kinds-of-agile-bandits-special-sprints
+- special-sprints-agile-banditry-or-risk-management
+preview: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
+duration: 291
+resourceTypes:
+- video
+isShort: false
 
 ---
 You can't spend much time in the Agile space without encountering teams doing some kind of special sprints. Whether it's Sprint Zero, refactoring sprints, bug-fix sprints, or hardening sprints, these so-called "special sprints" are quite common. However, let’s cut to the chase: **special sprints are agile banditry**, and those practicing them are bandits in disguise. Here's why they dilute your team's ability to deliver usable, working products, and how you can avoid falling into the same trap.

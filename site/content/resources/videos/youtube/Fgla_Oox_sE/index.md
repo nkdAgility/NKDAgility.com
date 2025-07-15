@@ -1,13 +1,31 @@
 ---
-title: 'Mastering the Art of Product Ownership: The Power of Marketing Your Vision'
 short_title: 'Product Ownership: Marketing Your Vision'
 description: Explores how Product Owners can use marketing skills to communicate vision, boost team and stakeholder engagement, and align feedback for successful product delivery.
 date: 2023-12-15T07:00:05Z
-weight: 1000
 ResourceId: Fgla_Oox_sE
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Product Development
+- Product Management
+tags:
+- Product Owner
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:54Z
+  short_title: 2025-07-07T17:50:43Z
+title: 'Mastering the Art of Product Ownership: The Power of Marketing Your Vision'
+videoId: Fgla_Oox_sE
+source: internal
+url: /resources/videos/:slug
 slug: mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
+layout: video
 aliases:
 - /resources/Fgla_Oox_sE
 - /resources/videos/mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
@@ -18,29 +36,11 @@ aliasesArchive:
 - /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
 - /resources/5-things-you-would-teach-a-productowner-apprentice-part-3
 - mastering-the-art-of-product-ownership-the-power-of-marketing-your-vision
-concepts: []
-categories:
-- Product Development
-- Product Management
-tags:
-- Product Owner
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Fgla_Oox_sE
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/Fgla_Oox_sE/maxresdefault.jpg
 duration: 227
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:06:54Z
-  short_title: 2025-07-07T17:50:43Z
+isShort: false
 
 ---
 As a [Product Owner]({{< ref "/tags/product-owner" >}}), one of the most crucial yet often overlooked aspects of your role is marketing. Yes, you read that right. You’re not just managing a [product backlog]({{< ref "/tags/product-backlog" >}}) or guiding a development team—you’re marketing a vision. Whether you're a new Product Owner or seasoned in the role, this skill is vital for success. You need to effectively communicate that vision to various audiences: the team building the product, the stakeholders consuming it, and the customers paying for it. Each group may have different priorities, but they all need to be aligned and engaged with your story.

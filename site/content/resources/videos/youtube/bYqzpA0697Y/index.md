@@ -1,13 +1,30 @@
 ---
-title: 'Mastering Sustainable Scaling: Overcoming Product Development Challenges with Naked Agility'
 short_title: Sustainable Scaling in Product Development
 description: Learn how to overcome scaling challenges in product development by reducing technical debt, improving team alignment, and building sustainable, growth-ready systems.
 date: 2025-02-28T06:00:27Z
-weight: 355
 ResourceId: bYqzpA0697Y
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 355
+concepts: []
+categories:
+- Product Development
+tags:
+- Scaling
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:21Z
+  short_title: 2025-07-07T16:45:44Z
+title: 'Mastering Sustainable Scaling: Overcoming Product Development Challenges with Naked Agility'
+videoId: bYqzpA0697Y
+source: internal
+url: /resources/videos/:slug
 slug: mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
+layout: video
 aliases:
 - /resources/bYqzpA0697Y
 - /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
@@ -22,28 +39,11 @@ aliasesArchive:
 - the-power-of-immersive-learning-in-scrum-training
 - /resources/videos/mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
 - mastering-sustainable-scaling-overcoming-product-development-challenges-with-naked-agility
-concepts: []
-categories:
-- Product Development
-tags:
-- Scaling
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: bYqzpA0697Y
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/bYqzpA0697Y/maxresdefault.jpg
 duration: 87
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:49:21Z
-  short_title: 2025-07-07T16:45:44Z
+isShort: false
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) [product development]({{< ref "/categories/product-development" >}}) is a challenge that many organisations face, and I can tell you from experience that it’s never as simple as just adding more people to the mix. At Naked Agility, we’ve learned that true scaling involves creating systems that allow teams to expand seamlessly without sacrificing speed or quality. 

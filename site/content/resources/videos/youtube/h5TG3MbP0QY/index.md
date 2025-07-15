@@ -1,33 +1,13 @@
 ---
-title: Most Common Thing You Hear in a PSM 1 Course?
 short_title: Most Common Phrase in PSM 1 Courses
 description: Explores the common challenge in PSM 1 courses of balancing real-world pressures with maintaining honesty, transparency, and moral integrity in Agile and Scrum practices.
 date: 2023-06-28T11:00:24Z
-weight: 1000
 ResourceId: h5TG3MbP0QY
-ResourceImport: true
 ResourceType: videos
-slug: most-common-thing-you-hear-in-a-psm-1-course
-aliases:
-- /resources/h5TG3MbP0QY
-- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: h5TG3MbP0QY
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
-duration: 56
-isShort: true
-aliasesArchive:
-- /resources/videos/most-common-thing-you-hear-in-a-psm-course
-- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course
-- /resources/most-common-thing-you-hear-in-a-psm-1-course-2
-- /resources/most-common-thing-you-hear-in-a-psm-1-course
-- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
-- /resources/most-common-thing-you-hear-in-a-psm-1-course-
-- most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
+weight: 1000
+ResourceContentOrigin: AI
 concepts:
 - Ethos
 categories:
@@ -36,11 +16,31 @@ tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:11:11Z
   short_title: 2025-07-07T17:54:17Z
+title: Most Common Thing You Hear in a PSM 1 Course?
+videoId: h5TG3MbP0QY
+source: internal
+url: /resources/videos/:slug
+slug: most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
+layout: video
+aliases:
+- /resources/h5TG3MbP0QY
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
+aliasesArchive:
+- /resources/videos/most-common-thing-you-hear-in-a-psm-course
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course
+- /resources/most-common-thing-you-hear-in-a-psm-1-course-2
+- /resources/most-common-thing-you-hear-in-a-psm-1-course
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
+- /resources/most-common-thing-you-hear-in-a-psm-1-course-
+- most-common-thing-you-hear-in-a-psm-1-course-h5TG3MbP0QY
+preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
+duration: 56
+resourceTypes:
+- video
+isShort: true
 
 ---
 ## "But in the Real World..."

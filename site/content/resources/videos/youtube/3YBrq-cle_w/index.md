@@ -1,23 +1,12 @@
 ---
-title: 'Redefining the Scrum Master: From Misconceptions to Empowering Leadership'
 short_title: Redefining the Scrum Master Role
 description: Explores common misconceptions about the Scrum Master role, highlighting the shift from tool admin to empowering leader who fosters team autonomy, growth, and self-organisation.
 date: 2023-05-12T14:00:02Z
-weight: 610
 ResourceId: 3YBrq-cle_w
-ResourceImport: true
 ResourceType: videos
-slug: redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
-aliases:
-- /resources/3YBrq-cle_w
-- /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
-- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
-aliasesArchive:
-- /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
-- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
-- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
-- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
-- redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 610
 concepts:
 - Principle
 categories:
@@ -35,22 +24,33 @@ tags:
 - Coaching
 - Self Organisation
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 3YBrq-cle_w
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
-duration: 132
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-layout: video
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:12:30Z
   short_title: 2025-07-07T17:55:18Z
+title: 'Redefining the Scrum Master: From Misconceptions to Empowering Leadership'
+videoId: 3YBrq-cle_w
+source: youtube
+url: /resources/videos/:slug
+slug: redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
+layout: video
+aliases:
+- /resources/3YBrq-cle_w
+- /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+aliasesArchive:
+- /resources/videos/redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
+- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
+- /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+- redefining-the-scrum-master-from-misconceptions-to-empowering-leadership
+preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
+duration: 132
+resourceTypes:
+- video
+isShort: false
 
 ---
 As I reflect on my journey through the world of [Scrum]({{< ref "/categories/scrum" >}}), one of the most profound challenges I've encountered is the way we perceive the role of the [Scrum Master]({{< ref "/tags/scrum-master" >}}). This was particularly highlighted during my experience with the [Professional Scrum]({{< ref "/tags/professional-scrum" >}}) Master II (PSM-2) class. It’s a transformative experience that forces us to confront and reassess our assumptions about what it means to be a Scrum Master.

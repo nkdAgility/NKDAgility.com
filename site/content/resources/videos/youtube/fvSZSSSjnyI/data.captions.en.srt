@@ -1,0 +1,749 @@
+1
+00:00:00,080 --> 00:00:04,720
+If you're building products um at any
+
+2
+00:00:02,639 --> 00:00:07,839
+scale, whether it's small scale or large
+
+3
+00:00:04,720 --> 00:00:10,880
+scale, it's really important to make
+
+4
+00:00:07,839 --> 00:00:12,719
+decisions based on actual evidence. And
+
+5
+00:00:10,880 --> 00:00:14,639
+that evidence can come in the form of
+
+6
+00:00:12,719 --> 00:00:17,119
+hypothesisdriven practices at the
+
+7
+00:00:14,639 --> 00:00:20,000
+business level, at the value level, or
+
+8
+00:00:17,119 --> 00:00:22,880
+it can come all the way down to to flow
+
+9
+00:00:20,000 --> 00:00:26,160
+metrics at the delivery level. And
+
+10
+00:00:22,880 --> 00:00:28,800
+that's one thing that I I would probably
+
+11
+00:00:26,160 --> 00:00:31,519
+say Azure DevOps is a little bit
+
+12
+00:00:28,800 --> 00:00:34,239
+rudimentary in that space out of the
+
+13
+00:00:31,519 --> 00:00:39,440
+box, but we can absolutely get those
+
+14
+00:00:34,239 --> 00:00:43,440
+things and augment those things. Um so
+
+15
+00:00:39,440 --> 00:00:46,879
+one of the fundamental um
+
+16
+00:00:43,440 --> 00:00:49,520
+understandings that I've gained over
+
+17
+00:00:46,879 --> 00:00:52,320
+many years of building software and
+
+18
+00:00:49,520 --> 00:00:54,239
+helping teams build software is without
+
+19
+00:00:52,320 --> 00:00:56,559
+visibility, you can't see what's going
+
+20
+00:00:54,239 --> 00:00:58,079
+on. And without being able to see what's
+
+21
+00:00:56,559 --> 00:01:00,480
+going on, you can't make effective
+
+22
+00:00:58,079 --> 00:01:02,160
+changes. And you also can't see the
+
+23
+00:01:00,480 --> 00:01:04,320
+impact
+
+24
+00:01:02,160 --> 00:01:06,000
+and effect of those changes on the way
+
+25
+00:01:04,320 --> 00:01:09,840
+that you work.
+
+26
+00:01:06,000 --> 00:01:12,560
+So we need telemetry. We need data. Does
+
+27
+00:01:09,840 --> 00:01:15,360
+some of that telemetry comes from your
+
+28
+00:01:12,560 --> 00:01:18,000
+product, right? Building uh um open
+
+29
+00:01:15,360 --> 00:01:19,840
+telemetry into your product, collecting
+
+30
+00:01:18,000 --> 00:01:23,360
+specific and deliberate telemetry from
+
+31
+00:01:19,840 --> 00:01:25,920
+your product. Um but we can also use
+
+32
+00:01:23,360 --> 00:01:28,560
+telemetry on the way that we work and
+
+33
+00:01:25,920 --> 00:01:31,680
+Azure DevOps is a fantastic system for
+
+34
+00:01:28,560 --> 00:01:35,520
+gathering gathering that telemetry. Um
+
+35
+00:01:31,680 --> 00:01:38,560
+so in Azure DevOps um every value of
+
+36
+00:01:35,520 --> 00:01:41,360
+every variable that ever was inside of
+
+37
+00:01:38,560 --> 00:01:44,000
+your work items is collected and stored.
+
+38
+00:01:41,360 --> 00:01:46,320
+Okay. So um it doesn't matter what field
+
+39
+00:01:44,000 --> 00:01:49,680
+it is. If you add a custom field, no
+
+40
+00:01:46,320 --> 00:01:52,000
+problem. The full history of that field
+
+41
+00:01:49,680 --> 00:01:55,119
+um is available uh within the context.
+
+42
+00:01:52,000 --> 00:01:57,759
+So that allows you to pull and collect
+
+43
+00:01:55,119 --> 00:02:00,640
+any sort of data you like in any way you
+
+44
+00:01:57,759 --> 00:02:03,439
+like. Okay. Uh that's the powerful part,
+
+45
+00:02:00,640 --> 00:02:05,920
+right? All of that data is there. Um the
+
+46
+00:02:03,439 --> 00:02:08,879
+visualizations that are built into Azure
+
+47
+00:02:05,920 --> 00:02:10,800
+DevOps, we can they're they're a little
+
+48
+00:02:08,879 --> 00:02:13,280
+bit rudimentary, but that's that's
+
+49
+00:02:10,800 --> 00:02:15,440
+fundamentally Microsoft's premise,
+
+50
+00:02:13,280 --> 00:02:18,000
+right? Microsoft's premise is we're not
+
+51
+00:02:15,440 --> 00:02:21,120
+going to build everything for you. We're
+
+52
+00:02:18,000 --> 00:02:23,440
+going to build the data layer, the API
+
+53
+00:02:21,120 --> 00:02:25,599
+layer, and then we'll build some
+
+54
+00:02:23,440 --> 00:02:28,800
+examples of here's what you can do with
+
+55
+00:02:25,599 --> 00:02:31,360
+that data that that that meet the table
+
+56
+00:02:28,800 --> 00:02:36,319
+stakes. We'll build the table stakes and
+
+57
+00:02:31,360 --> 00:02:38,080
+then let partners um build the the the
+
+58
+00:02:36,319 --> 00:02:41,440
+value ads that are specific to your
+
+59
+00:02:38,080 --> 00:02:46,480
+organization. So I work with customers
+
+60
+00:02:41,440 --> 00:02:48,160
+that have a large internal ecosystem of
+
+61
+00:02:46,480 --> 00:02:51,360
+custom
+
+62
+00:02:48,160 --> 00:02:53,760
+boards, controls, dashboards that they
+
+63
+00:02:51,360 --> 00:02:55,760
+build internally and ship around the
+
+64
+00:02:53,760 --> 00:02:57,360
+organization. So they have an
+
+65
+00:02:55,760 --> 00:02:59,599
+engineering team who builds
+
+66
+00:02:57,360 --> 00:03:01,680
+augmentations for Azure DevOps. They
+
+67
+00:02:59,599 --> 00:03:03,440
+support other teams who build
+
+68
+00:03:01,680 --> 00:03:05,200
+augmentations for themselves in Azure
+
+69
+00:03:03,440 --> 00:03:06,640
+DevOps and allow those to be shared
+
+70
+00:03:05,200 --> 00:03:08,480
+across the organization. And Azure
+
+71
+00:03:06,640 --> 00:03:10,640
+DevOps has has capabilities for that as
+
+72
+00:03:08,480 --> 00:03:12,720
+well, right? That's for people that are
+
+73
+00:03:10,640 --> 00:03:14,000
+really big. If you're really big, you
+
+74
+00:03:12,720 --> 00:03:15,599
+can absolutely do that. If you're really
+
+75
+00:03:14,000 --> 00:03:18,159
+small, you don't want to have to do
+
+76
+00:03:15,599 --> 00:03:21,440
+that. You want some vendor uh uh to do
+
+77
+00:03:18,159 --> 00:03:23,440
+that for you and you you absolutely um
+
+78
+00:03:21,440 --> 00:03:25,120
+have that capability. So there's a
+
+79
+00:03:23,440 --> 00:03:27,440
+couple of things that you can do within
+
+80
+00:03:25,120 --> 00:03:31,360
+the context of of Azure DevOps. So out
+
+81
+00:03:27,440 --> 00:03:33,760
+of the box, it does have h lead time and
+
+82
+00:03:31,360 --> 00:03:36,319
+cycle time. Okay. And there's a little
+
+83
+00:03:33,760 --> 00:03:40,080
+bit of work in process. So, at the top
+
+84
+00:03:36,319 --> 00:03:42,239
+of your columns on your your boards,
+
+85
+00:03:40,080 --> 00:03:43,840
+uh the board uh the I guess they're
+
+86
+00:03:42,239 --> 00:03:45,280
+called Carban boards, right? But they're
+
+87
+00:03:43,840 --> 00:03:46,959
+not really they're just boards. The on
+
+88
+00:03:45,280 --> 00:03:50,080
+the top of the boards, they have a a
+
+89
+00:03:46,959 --> 00:03:52,080
+whip limit. It is not enforced. It will
+
+90
+00:03:50,080 --> 00:03:54,080
+just go red if you go over the limit.
+
+91
+00:03:52,080 --> 00:03:56,159
+And the limit is for each column. They
+
+92
+00:03:54,080 --> 00:03:57,200
+don't have a system limit, right? So,
+
+93
+00:03:56,159 --> 00:03:58,720
+that's a limitation. They don't have a
+
+94
+00:03:57,200 --> 00:04:00,159
+system limit, just a limit for the for
+
+95
+00:03:58,720 --> 00:04:03,519
+each column.
+
+96
+00:04:00,159 --> 00:04:07,680
+uh you can add uh cycle time and lead
+
+97
+00:04:03,519 --> 00:04:10,959
+time to the the dashboards and it will
+
+98
+00:04:07,680 --> 00:04:14,080
+give you a hover over uh view of your
+
+99
+00:04:10,959 --> 00:04:16,400
+average just the average uh cycle time
+
+100
+00:04:14,080 --> 00:04:18,239
+and lead time. Um I don't like the
+
+101
+00:04:16,400 --> 00:04:19,759
+average. I like the 85th percentile and
+
+102
+00:04:18,239 --> 00:04:21,359
+it should have all of them but it
+
+103
+00:04:19,759 --> 00:04:22,639
+doesn't. So that's what I mean by
+
+104
+00:04:21,359 --> 00:04:24,479
+sometimes it's a little bit basic and
+
+105
+00:04:22,639 --> 00:04:27,520
+rudimentary. It's opinionated. They pick
+
+106
+00:04:24,479 --> 00:04:29,040
+one thing. Uh so they have they have uh
+
+107
+00:04:27,520 --> 00:04:31,360
+that but you can hover over individual
+
+108
+00:04:29,040 --> 00:04:33,600
+items and see see where they are and
+
+109
+00:04:31,360 --> 00:04:35,600
+then they have a cumulative flow right
+
+110
+00:04:33,600 --> 00:04:38,240
+which is again straightforward just
+
+111
+00:04:35,600 --> 00:04:40,400
+visualizes the the cumulative flow
+
+112
+00:04:38,240 --> 00:04:43,280
+that's out of the box you get that for
+
+113
+00:04:40,400 --> 00:04:45,199
+free uh Microsoft is opinionated on when
+
+114
+00:04:43,280 --> 00:04:47,360
+work items start and when work items
+
+115
+00:04:45,199 --> 00:04:49,600
+finish. That's beyond the scope of this
+
+116
+00:04:47,360 --> 00:04:52,240
+but um we can we can definitely talk
+
+117
+00:04:49,600 --> 00:04:55,360
+about that in another another video. Um
+
+118
+00:04:52,240 --> 00:04:58,400
+but there are all of all of that data
+
+119
+00:04:55,360 --> 00:05:02,400
+that they use to make that is stored in
+
+120
+00:04:58,400 --> 00:05:05,680
+the system. So you can access the APIs
+
+121
+00:05:02,400 --> 00:05:08,000
+and access the PowerBI the analytics. So
+
+122
+00:05:05,680 --> 00:05:10,240
+everything be loaded into PowerBI and
+
+123
+00:05:08,000 --> 00:05:11,840
+build whatever graphs you want. Right?
+
+124
+00:05:10,240 --> 00:05:12,880
+So that's one. But if you're small
+
+125
+00:05:11,840 --> 00:05:16,800
+enough, you don't want to build it
+
+126
+00:05:12,880 --> 00:05:20,000
+yourself. Um, I recommend two, there's
+
+127
+00:05:16,800 --> 00:05:22,479
+two, um, tools that I definitely
+
+128
+00:05:20,000 --> 00:05:26,560
+recommend taking a look at. Uh, one is
+
+129
+00:05:22,479 --> 00:05:29,280
+called Flow Viz, and that's effectively
+
+130
+00:05:26,560 --> 00:05:31,919
+some pre-built PowerBI reports that you
+
+131
+00:05:29,280 --> 00:05:33,759
+can load in to your to your PowerBI
+
+132
+00:05:31,919 --> 00:05:35,840
+environment. It connects to Azure DevOps
+
+133
+00:05:33,759 --> 00:05:38,240
+and pulls your data and displays all of
+
+134
+00:05:35,840 --> 00:05:41,199
+the cool stuff. And it's free, right?
+
+135
+00:05:38,240 --> 00:05:43,600
+Flow Viz uh, gives you that capability.
+
+136
+00:05:41,199 --> 00:05:46,400
+Great. Go try it out. uh download it,
+
+137
+00:05:43,600 --> 00:05:48,240
+install it. The other one is actionable
+
+138
+00:05:46,400 --> 00:05:50,720
+agile metrics for predictability. So
+
+139
+00:05:48,240 --> 00:05:53,440
+actionable actual is a plugin, an
+
+140
+00:05:50,720 --> 00:05:56,160
+interactive javascriptbased, no data
+
+141
+00:05:53,440 --> 00:05:59,280
+goes anywhere but your system uh uh
+
+142
+00:05:56,160 --> 00:06:02,160
+plugin, but it's $20 per user per month.
+
+143
+00:05:59,280 --> 00:06:04,880
+I recommend that one, too. That's what I
+
+144
+00:06:02,160 --> 00:06:07,199
+use because I just want an easy visual
+
+145
+00:06:04,880 --> 00:06:10,560
+indication uh that I can just add a
+
+146
+00:06:07,199 --> 00:06:14,240
+plugin to to Azure DevOps and go spelunk
+
+147
+00:06:10,560 --> 00:06:17,360
+people's uh people's data. So um that
+
+148
+00:06:14,240 --> 00:06:19,840
+get both of those tools give you much
+
+149
+00:06:17,360 --> 00:06:22,160
+more accurate accurate is probably the
+
+150
+00:06:19,840 --> 00:06:25,520
+wrong word but much much better much
+
+151
+00:06:22,160 --> 00:06:28,479
+more more features many more features uh
+
+152
+00:06:25,520 --> 00:06:30,000
+for for lead time cycle time for
+
+153
+00:06:28,479 --> 00:06:32,400
+percentiles
+
+154
+00:06:30,000 --> 00:06:35,120
+um for seeing your work in process
+
+155
+00:06:32,400 --> 00:06:38,160
+seeing your your flow. I particularly
+
+156
+00:06:35,120 --> 00:06:41,039
+like in actionable agile it has a view
+
+157
+00:06:38,160 --> 00:06:44,639
+uh which is work in progress and you can
+
+158
+00:06:41,039 --> 00:06:46,400
+see the overlay of your percentiles on
+
+159
+00:06:44,639 --> 00:06:49,199
+your work in process. So you can see the
+
+160
+00:06:46,400 --> 00:06:51,840
+things that are much
+
+161
+00:06:49,199 --> 00:06:55,840
+which are most likely to be in danger uh
+
+162
+00:06:51,840 --> 00:06:58,960
+within that context. So using Azure
+
+163
+00:06:55,840 --> 00:07:02,479
+DevOps you get all access to all of the
+
+164
+00:06:58,960 --> 00:07:05,440
+data and some visualizations. then
+
+165
+00:07:02,479 --> 00:07:08,800
+bringing in some third party tools. Uh
+
+166
+00:07:05,440 --> 00:07:11,680
+on top of that, you can make it really
+
+167
+00:07:08,800 --> 00:07:13,680
+light up and create any sort of data
+
+168
+00:07:11,680 --> 00:07:17,039
+visualizations you want. If you're a
+
+169
+00:07:13,680 --> 00:07:21,120
+coder, uh Ben also has a I think it's
+
+170
+00:07:17,039 --> 00:07:23,919
+called the um Azure DevOps admin tools.
+
+171
+00:07:21,120 --> 00:07:25,520
+He has a little uh command line toolkit
+
+172
+00:07:23,919 --> 00:07:27,759
+uh that you can run that will get you
+
+173
+00:07:25,520 --> 00:07:29,360
+most of the data as well and give you
+
+174
+00:07:27,759 --> 00:07:31,039
+your cycle time, leak time, build your
+
+175
+00:07:29,360 --> 00:07:33,120
+graphs, all of those things from the
+
+176
+00:07:31,039 --> 00:07:34,960
+from the command line. Um so if you're
+
+177
+00:07:33,120 --> 00:07:37,120
+developer, you can you can use that, but
+
+178
+00:07:34,960 --> 00:07:39,680
+it's not as friendly for for everybody
+
+179
+00:07:37,120 --> 00:07:42,160
+else that might be using the system. So
+
+180
+00:07:39,680 --> 00:07:44,080
+I if if
+
+181
+00:07:42,160 --> 00:07:46,160
+with all of these options, it can be a
+
+182
+00:07:44,080 --> 00:07:48,720
+little bit difficult to navigate. So if
+
+183
+00:07:46,160 --> 00:07:51,919
+you're ready to move from making
+
+184
+00:07:48,720 --> 00:07:55,759
+decisions based on gut feel to more of a
+
+185
+00:07:51,919 --> 00:07:58,960
+data delivery data driven delivery story
+
+186
+00:07:55,759 --> 00:08:02,080
+um give me a call and let's uh make your
+
+187
+00:07:58,960 --> 00:08:02,080
+work visible.
+
+

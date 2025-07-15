@@ -1,29 +1,13 @@
 ---
-title: Must have trait in an Agile Consultant
 short_title: Must Have Trait in an Agile Consultant
 description: Tenacity is essential for Agile Consultants, enabling them to persistently drive meaningful change, overcome obstacles, and maintain focus throughout the Agile journey.
 date: 2023-05-01T09:30:00Z
-weight: 1000
 ResourceId: agPLmBdXdbk
-ResourceImport: true
 ResourceType: videos
-slug: must-have-trait-in-an-agile-consultant
-aliases:
-- /resources/agPLmBdXdbk
-- /resources/videos/must-have-trait-in-an-agile-consultant-agPLmBdXdbk
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: agPLmBdXdbk
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
-duration: 39
-isShort: true
-aliasesArchive:
-- /resources/videos/must-have-trait-in-an-agile-consultant
-- /resources/must-have-trait-in-an-agile-consultant
-- must-have-trait-in-an-agile-consultant-agPLmBdXdbk
+weight: 1000
+ResourceContentOrigin: AI
 concepts: []
 categories:
 - Uncategorized
@@ -31,11 +15,27 @@ tags: []
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:12:50Z
   short_title: 2025-07-07T17:55:35Z
+title: Must have trait in an Agile Consultant
+videoId: agPLmBdXdbk
+source: internal
+url: /resources/videos/:slug
+slug: must-have-trait-in-an-agile-consultant-agPLmBdXdbk
+layout: video
+aliases:
+- /resources/agPLmBdXdbk
+- /resources/videos/must-have-trait-in-an-agile-consultant-agPLmBdXdbk
+aliasesArchive:
+- /resources/videos/must-have-trait-in-an-agile-consultant
+- /resources/must-have-trait-in-an-agile-consultant
+- must-have-trait-in-an-agile-consultant-agPLmBdXdbk
+preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
+duration: 39
+resourceTypes:
+- video
+isShort: true
 
 ---
 **Must have trait in an Agile Consultant**

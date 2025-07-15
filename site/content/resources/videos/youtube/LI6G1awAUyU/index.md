@@ -1,13 +1,33 @@
 ---
-title: 'Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success'
 short_title: Overcoming DevOps Challenges for Agile Delivery
 description: Explores common DevOps challenges to rapid delivery, highlighting automation, feedback loops, mindset shifts, and compliance for achieving agile, efficient software delivery.
 date: 2023-04-21T07:00:06Z
-weight: 665
 ResourceId: LI6G1awAUyU
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 665
+concepts: []
+categories:
+- DevOps
+- Product Development
+tags:
+- Software Development
+- Operational Practices
+- Pragmatic Thinking
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:13:09Z
+  short_title: 2025-07-07T17:55:50Z
+title: 'Unlocking Rapid Delivery: Overcoming Common DevOps Challenges for Agile Success'
+videoId: LI6G1awAUyU
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
+layout: video
 aliases:
 - /resources/LI6G1awAUyU
 - /resources/videos/unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
@@ -19,31 +39,11 @@ aliasesArchive:
 - what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig
 - /resources/videos/unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
 - unlocking-rapid-delivery-overcoming-common-devops-challenges-for-agile-success
-concepts: []
-categories:
-- DevOps
-- Product Development
-tags:
-- Software Development
-- Operational Practices
-- Pragmatic Thinking
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: LI6G1awAUyU
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:13:09Z
-  short_title: 2025-07-07T17:55:50Z
+isShort: false
 
 ---
 In my journey as a [DevOps]({{< ref "/categories/devops" >}}) consultant, I often find myself facing a set of challenges that, while unique to each organisation, share a common thread. Much like my experiences in agile consulting, the primary issue I encounter is the struggle to deliver working products quickly. It’s a frustrating reality when teams are unable to see their ideas come to life in a timely manner, and it’s a problem that can stifle innovation and growth.

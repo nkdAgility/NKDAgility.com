@@ -1,23 +1,12 @@
 ---
-title: 'The Real Scope of a Product Owner: Beyond the Backlog'
 short_title: The Real Scope of a Product Owner
 description: Explores the full responsibilities of a Product Owner in Agile, highlighting strategic decision-making, value maximisation, and the importance of market insight and relationships.
 date: 2023-11-27T06:46:47Z
-weight: 1000
 ResourceId: 2_CowcUpzAA
-ResourceImport: true
 ResourceType: videos
-slug: the-real-scope-of-a-product-owner-beyond-the-backlog
-aliases:
-- /resources/2_CowcUpzAA
-- /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
-- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
-aliasesArchive:
-- /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
-- /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
-- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
-- /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
-- the-real-scope-of-a-product-owner-beyond-the-backlog
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Management
@@ -29,22 +18,33 @@ tags:
 - Pragmatic Thinking
 - Software Development
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 2_CowcUpzAA
-source: internal
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/2_CowcUpzAA/maxresdefault.jpg
-duration: 317
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
-layout: video
 Watermarks:
   description: 2025-05-07T13:07:30Z
   short_title: 2025-07-07T17:51:29Z
+title: 'The Real Scope of a Product Owner: Beyond the Backlog'
+videoId: 2_CowcUpzAA
+source: internal
+url: /resources/videos/:slug
+slug: the-real-scope-of-a-product-owner-beyond-the-backlog
+layout: video
+aliases:
+- /resources/2_CowcUpzAA
+- /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
+- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+aliasesArchive:
+- /resources/videos/the-real-scope-of-a-product-owner-beyond-the-backlog
+- /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
+- /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+- /resources/why-is-training-such-a-critical-element-in-a-product-owner-journey
+- the-real-scope-of-a-product-owner-beyond-the-backlog
+preview: https://i.ytimg.com/vi/2_CowcUpzAA/maxresdefault.jpg
+duration: 317
+resourceTypes:
+- video
+isShort: false
 
 ---
 When most people hear the term "[Product Owner]({{< ref "/tags/product-owner" >}})," they typically think about managing a [product backlog]({{< ref "/tags/product-backlog" >}}) and making sure the team works through it. While this is part of the job, it’s a very small piece of the puzzle. In reality, the Product Owner role is far more significant, with broader responsibilities and accountability. Let’s dive deeper into what it means to be a true Product Owner in an Agile environment, and why many who take on the role often find themselves surprised by its complexity.

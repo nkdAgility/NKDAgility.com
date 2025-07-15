@@ -1,13 +1,32 @@
 ---
-title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agile Consultants is Key to Success'
 short_title: Embracing Difficult Conversations in Agile
 description: Explores how open, challenging conversations with agile consultants drive organisational change, foster learning, and support continuous improvement and accountability.
 date: 2023-05-01T07:00:05Z
-weight: 1000
 ResourceId: DceVQ5JQaUw
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts:
+- Ethos
+categories:
+- Uncategorized
+tags:
+- Change Management
+- Organisational Culture
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:51Z
+  short_title: 2025-07-07T17:55:36Z
+title: 'Unlocking Transformation: Why Embracing Difficult Conversations with Agile Consultants is Key to Success'
+videoId: DceVQ5JQaUw
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
+layout: video
 aliases:
 - /resources/DceVQ5JQaUw
 - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
@@ -18,30 +37,11 @@ aliasesArchive:
 - /resources/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 - /resources/videos/unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
 - unlocking-transformation-why-embracing-difficult-conversations-with-agile-consultants-is-key-to-success
-concepts:
-- Ethos
-categories:
-- Uncategorized
-tags:
-- Change Management
-- Organisational Culture
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: DceVQ5JQaUw
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:12:51Z
-  short_title: 2025-07-07T17:55:36Z
+isShort: false
 
 ---
 In my journey as an agile consultant, I've often encountered a recurring theme that can make or break the effectiveness of our work: the willingness of clients to engage in meaningful dialogue. The most destructive thing a client can do is to shut down that dialogue. When clients restrict consultants from engaging, speaking, and interacting with their teams, they inadvertently stifle the very change they seek.

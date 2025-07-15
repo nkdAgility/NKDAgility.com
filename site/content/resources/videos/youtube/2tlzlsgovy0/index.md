@@ -1,24 +1,12 @@
 ---
-title: 'Empowering Agile Teams: Why Understanding Product Vision is Key to Success'
 short_title: Empowering Agile Teams Through Product Vision
 description: Explains why agile teams need a clear understanding of product vision and strategic goals to boost alignment, ownership, decision-making, and adaptability.
 date: 2024-07-03T06:45:00Z
-weight: 640
 ResourceId: 2tlzlsgovy0
-ResourceImport: true
 ResourceType: videos
-slug: empowering-agile-teams-why-understanding-product-vision-is-key-to-success
-aliases:
-- /resources/2tlzlsgovy0
-- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
-- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
-aliasesArchive:
-- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
-- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
-- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
-- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
-- empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
 concepts:
 - Strategy
 categories:
@@ -37,22 +25,34 @@ tags:
 - Agile Values and Principles
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 2tlzlsgovy0
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
-duration: 56
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-layout: video
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:43Z
   short_title: 2025-07-07T17:49:05Z
+title: 'Empowering Agile Teams: Why Understanding Product Vision is Key to Success'
+videoId: 2tlzlsgovy0
+source: youtube
+url: /resources/videos/:slug
+slug: empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
+layout: video
+aliases:
+- /resources/2tlzlsgovy0
+- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
+- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
+aliasesArchive:
+- /resources/videos/empowering-agile-teams-why-understanding-product-vision-is-key-to-success
+- /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
+- /resources/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
+- /resources/videos/6-things-you-didnt-know-about-agile-product-management-but-really-should-part-2
+- empowering-agile-teams-why-understanding-product-vision-is-key-to-success-2tlzlsgovy0
+preview: https://i.ytimg.com/vi/2tlzlsgovy0/maxresdefault.jpg
+duration: 56
+resourceTypes:
+- video
+isShort: true
 
 ---
 In my journey through the world of Agile, one question consistently arises: **Does your team truly understand the product vision and [strategic goals]({{< ref "/tags/strategic-goals" >}})?** This isn't just a rhetorical question; it's a fundamental aspect of fostering an agile mindset within any organisation. 

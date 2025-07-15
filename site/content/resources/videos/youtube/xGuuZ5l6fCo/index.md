@@ -1,24 +1,12 @@
 ---
-title: 'Empowering Agile Teams: The Critical Role of User Feedback in Requirement Changes'
 short_title: Empowering Agile Teams with User Feedback
 description: Explains how empowering Agile teams to act on user feedback enables rapid requirement changes, improves product relevance, and overcomes barriers like rigid contracts.
 date: 2024-07-19T06:45:03Z
-weight: 750
 ResourceId: xGuuZ5l6fCo
-ResourceImport: true
 ResourceType: videos
-slug: empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
-aliases:
-- /resources/xGuuZ5l6fCo
-- /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
-- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
-aliasesArchive:
-- /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
-- /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
-- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
-- /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
-- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
-- empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 750
 concepts:
 - Tenet
 categories:
@@ -41,22 +29,34 @@ tags:
 - Product Validation
 - Value Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: xGuuZ5l6fCo
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/xGuuZ5l6fCo/maxresdefault.jpg
-duration: 412
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:32Z
   short_title: 2025-07-07T17:48:57Z
+title: 'Empowering Agile Teams: The Critical Role of User Feedback in Requirement Changes'
+videoId: xGuuZ5l6fCo
+source: internal
+url: /resources/videos/:slug
+slug: empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+layout: video
+aliases:
+- /resources/xGuuZ5l6fCo
+- /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
+aliasesArchive:
+- /resources/videos/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+- /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
+- /resources/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
+- /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-56
+- empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
+preview: https://i.ytimg.com/vi/xGuuZ5l6fCo/maxresdefault.jpg
+duration: 412
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the world of Agile, the ability to adapt and evolve based on real-time user feedback is a cornerstone of success. Yet, many organizations miss the mark when it comes to empowering their teams to make meaningful changes to requirements based on this feedback. In this post, we'll explore why this is a crucial aspect of Agile that often gets overlooked, and how you can ensure your teams are truly Agile by enabling them to close feedback loops and adjust requirements as needed.

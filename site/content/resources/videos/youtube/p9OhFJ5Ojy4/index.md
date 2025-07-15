@@ -1,23 +1,12 @@
 ---
-title: 'Embracing Change: Why Agile Evolution is the Key to Thriving in a Rapidly Shifting World'
 short_title: Agile Evolution for Thriving in Rapid Change
 description: Explores why continuous organisational evolution, not fixed transformations, is essential for adapting to rapid change, fostering agility, and enabling sustainable growth.
 date: 2020-07-22T10:08:06Z
-weight: 1000
 ResourceId: p9OhFJ5Ojy4
-ResourceImport: true
 ResourceType: videos
-slug: embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-aliases:
-- /resources/p9OhFJ5Ojy4
-- /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-- /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
-aliasesArchive:
-- /resources/videos/agile-in-nigeria-the-inevitability-of-change
-- /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
-- /resources/agile-in-nigeria-2020-the-inevitability-of-change
-- /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
-- embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Ethos
 categories:
@@ -29,22 +18,33 @@ tags:
 - Business Agility
 - Change Management
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: p9OhFJ5Ojy4
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
-duration: 2977
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:15:26Z
   short_title: 2025-07-07T17:57:51Z
+title: 'Embracing Change: Why Agile Evolution is the Key to Thriving in a Rapidly Shifting World'
+videoId: p9OhFJ5Ojy4
+source: youtube
+url: /resources/videos/:slug
+slug: embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
+layout: video
+aliases:
+- /resources/p9OhFJ5Ojy4
+- /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
+- /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
+aliasesArchive:
+- /resources/videos/agile-in-nigeria-the-inevitability-of-change
+- /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
+- /resources/agile-in-nigeria-2020-the-inevitability-of-change
+- /resources/videos/embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
+- embracing-change-why-agile-evolution-is-the-key-to-thriving-in-a-rapidly-shifting-world
+preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
+duration: 2977
+resourceTypes:
+- video
+isShort: false
 
 ---
 Oh hi, my name is Martin Hinshelwood, and I’m the owner of Naked Agility. As a professional [Scrum]({{< ref "/categories/scrum" >}}) trainer with Scrum.org and a Microsoft MVP, I’ve been delivering software for about 20 years and working in [organisational change]({{< ref "/tags/organisational-change" >}}) for over a decade. Today, I want to share some insights on the inevitability of change, a topic that resonates deeply with my experiences in various markets, particularly in Ghana and Nigeria.

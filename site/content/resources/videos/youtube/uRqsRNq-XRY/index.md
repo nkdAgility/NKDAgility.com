@@ -1,13 +1,32 @@
 ---
-title: 'Navigating the Judgment Trap: How to Foster a Healthy Agile Environment'
 short_title: Fostering a Healthy, Judgment-Free Agile Team
 description: Explores how judgment in Agile teams harms morale and innovation, and offers practical steps to create a supportive, collaborative, and growth-focused Agile environment.
 date: 2023-11-09T06:45:04Z
-weight: 455
 ResourceId: uRqsRNq-XRY
-ResourceImport: true
 ResourceType: videos
-slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 455
+concepts: []
+categories:
+- Product Development
+tags:
+- Agile Philosophy
+- Organisational Culture
+- Team Performance
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:59Z
+  short_title: 2025-07-07T17:51:52Z
+title: 'Navigating the Judgment Trap: How to Foster a Healthy Agile Environment'
+videoId: uRqsRNq-XRY
+source: youtube
+url: /resources/videos/:slug
+slug: navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
+layout: video
 aliases:
 - /resources/uRqsRNq-XRY
 - /resources/videos/navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
@@ -18,30 +37,11 @@ aliasesArchive:
 - /resources/videos/7-signs-of-the-agile-apocalypse-judgement
 - /resources/7-signs-of-the-agile-apocalypse-judgement
 - navigating-the-judgment-trap-how-to-foster-a-healthy-agile-environment-uRqsRNq-XRY
-concepts: []
-categories:
-- Product Development
-tags:
-- Agile Philosophy
-- Organisational Culture
-- Team Performance
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: uRqsRNq-XRY
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:07:59Z
-  short_title: 2025-07-07T17:51:52Z
+isShort: true
 
 ---
 In my journey through the world of Agile, I've often encountered a troubling phenomenon that I like to call the "judgment trap." This is one of the seven signs of the agile apocalypse, and it’s something that can derail even the most well-intentioned teams. Today, I want to share my thoughts on how judgment manifests in Agile environments and how we can navigate this challenge to foster a healthier, more productive atmosphere.

@@ -1,13 +1,32 @@
 ---
-title: 'Unlocking User Insights: The Key to Meaningful Software Development'
 short_title: Unlocking User Insights in Software Development
 description: Explores how deeper user understanding, data-driven decisions, and stakeholder collaboration lead to more effective, user-centred software development and strategic planning.
 date: 2024-08-09T05:39:57Z
-weight: 1000
 ResourceId: YGyx4i3-4ss
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-user-insights-the-key-to-meaningful-software-development
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts:
+- Strategy
+categories:
+- Product Development
+tags:
+- Customer Focus
+- Product Discovery
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:02:15Z
+  short_title: 2025-07-07T17:48:40Z
+title: 'Unlocking User Insights: The Key to Meaningful Software Development'
+videoId: YGyx4i3-4ss
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
+layout: video
 aliases:
 - /resources/YGyx4i3-4ss
 - /resources/videos/unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
@@ -18,30 +37,11 @@ aliasesArchive:
 - /resources/videos/ppdv-course-overview
 - /resources/ppdv-course-overview
 - unlocking-user-insights-the-key-to-meaningful-software-development-YGyx4i3-4ss
-concepts:
-- Strategy
-categories:
-- Product Development
-tags:
-- Customer Focus
-- Product Discovery
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: YGyx4i3-4ss
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:02:15Z
-  short_title: 2025-07-07T17:48:40Z
+isShort: true
 
 ---
 In my journey through the world of [software development]({{< ref "/tags/software-development" >}}), I've often found myself reflecting on the fundamental question: do we truly understand our users? It’s a question that seems simple on the surface, yet it unravels a complex web of assumptions, data, and collaboration that can make or break our projects.

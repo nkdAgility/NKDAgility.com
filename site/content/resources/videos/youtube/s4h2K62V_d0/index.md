@@ -1,21 +1,12 @@
 ---
-title: Shifting Left. Quality from the Start
 short_title: 'Shifting Left: Early Code Quality Assurance'
 description: Explores code review practices for quality assurance, highlighting automation, pull requests, and early defect detection to ensure high-quality, reliable software delivery.
 date: 2024-11-20T07:00:26Z
-weight: 380
 ResourceId: s4h2K62V_d0
-ResourceImport: true
 ResourceType: videos
-slug: shifting-left-quality-from-the-start
-aliases:
-- /resources/s4h2K62V_d0
-- /resources/videos/shifting-left-quality-from-the-start
-- /resources/videos/shifting-left.-quality-from-the-start
-aliasesArchive:
-- /resources/videos/shifting-left-quality-from-the-start
-- /resources/shifting-left-quality-from-the-start
-- /resources/videos/shifting-left.-quality-from-the-start
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 380
 concepts: []
 categories:
 - Engineering Excellence
@@ -26,22 +17,31 @@ tags:
 - Engineering Practices
 - Product Delivery
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: s4h2K62V_d0
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
-duration: 600
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T12:57:15Z
   short_title: 2025-07-07T17:47:35Z
+title: Shifting Left. Quality from the Start
+videoId: s4h2K62V_d0
+source: internal
+url: /resources/videos/:slug
+slug: shifting-left-quality-from-the-start
+layout: video
+aliases:
+- /resources/s4h2K62V_d0
+- /resources/videos/shifting-left-quality-from-the-start
+aliasesArchive:
+- /resources/videos/shifting-left-quality-from-the-start
+- /resources/shifting-left-quality-from-the-start
+- /resources/videos/shifting-left.-quality-from-the-start
+- shifting-left-quality-from-the-start
+preview: https://i.ytimg.com/vi/s4h2K62V_d0/maxresdefault.jpg
+duration: 600
+resourceTypes:
+- video
+isShort: false
 
 ---
 # Code reviews for quality assurance | Martin Hinshelwood

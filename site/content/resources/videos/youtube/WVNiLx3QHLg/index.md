@@ -1,13 +1,30 @@
 ---
-title: Why I love heirarchies of competence
 short_title: Hierarchies of Competence in Leadership
 description: Explores how competence-based hierarchies foster effective leadership and decision-making by valuing expertise over authority, leading to more informed, holistic outcomes.
 date: 2023-05-03T09:30:08Z
-weight: 840
 ResourceId: WVNiLx3QHLg
-ResourceImport: true
 ResourceType: videos
-slug: why-i-love-heirarchies-of-competence
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 840
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Competence
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:46Z
+  short_title: 2025-07-07T17:55:31Z
+title: Why I love heirarchies of competence
+videoId: WVNiLx3QHLg
+source: internal
+url: /resources/videos/:slug
+slug: why-i-love-heirarchies-of-competence-WVNiLx3QHLg
+layout: video
 aliases:
 - /resources/WVNiLx3QHLg
 - /resources/videos/why-i-love-heirarchies-of-competence-WVNiLx3QHLg
@@ -20,28 +37,11 @@ aliasesArchive:
 - /resources/videos/why-i-love-hierarchies-of-competence
 - /resources/why-i-love-hierarchies-of-competence
 - why-i-love-heirarchies-of-competence-WVNiLx3QHLg
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Competence
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: WVNiLx3QHLg
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/WVNiLx3QHLg/maxresdefault.jpg
 duration: 57
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:12:46Z
-  short_title: 2025-07-07T17:55:31Z
+isShort: true
 
 ---
 **Why I love heirarchies of [competence]({{< ref "/tags/competence" >}})**

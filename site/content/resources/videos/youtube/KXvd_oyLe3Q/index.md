@@ -1,23 +1,12 @@
 ---
-title: 'The Crucible of Learning: Transforming Organizational Effectiveness Through DevOps'
 short_title: Transforming Organizational Effectiveness with DevOps
 description: Explores how DevOps transformation, refactoring, and ownership reduce technical debt, streamline development, and boost efficiency, team satisfaction, and business value.
 date: 2024-08-21T07:00:19Z
-weight: 175
 ResourceId: KXvd_oyLe3Q
-ResourceImport: true
 ResourceType: videos
-slug: the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-aliases:
-- /resources/KXvd_oyLe3Q
-- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
-aliasesArchive:
-- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-- /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
-- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
-- /resources/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
-- the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 175
 concepts: []
 categories:
 - DevOps
@@ -34,22 +23,33 @@ tags:
 - Value Delivery
 - Engineering Practices
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: KXvd_oyLe3Q
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg
-duration: 832
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:01:45Z
   short_title: 2025-07-07T17:48:27Z
+title: 'The Crucible of Learning: Transforming Organizational Effectiveness Through DevOps'
+videoId: KXvd_oyLe3Q
+source: internal
+url: /resources/videos/:slug
+slug: the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+layout: video
+aliases:
+- /resources/KXvd_oyLe3Q
+- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+aliasesArchive:
+- /resources/videos/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+- /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+- /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+- /resources/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+- the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+preview: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg
+duration: 832
+resourceTypes:
+- video
+isShort: false
 
 ---
 When organizations engage with us for [DevOps]({{< ref "/categories/devops" >}}) consulting, it's rarely by chance. Typically, they've identified a problem—a problem that's grown too big to ignore, a problem that requires expertise beyond their current capabilities. As a DevOps consultant, I’ve seen this scenario play out many times. One of the most significant engagements I’ve experienced involved a large organization in the oil and gas industry. This case illustrates the complexity and challenges organizations face when they try to implement DevOps, and the transformational impact that a well-executed DevOps strategy can have.

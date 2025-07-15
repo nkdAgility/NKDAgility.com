@@ -1,23 +1,12 @@
 ---
-title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
 short_title: 'Azure DevOps Migration: Lessons & Insights'
 description: Personal experiences and lessons on using Azure DevOps, covering its evolution, migration strategies, custom tools, and practical advice for optimising DevOps workflows.
 date: 2024-07-31T09:21:03Z
-weight: 665
 ResourceId: isU2kPc5HFw
-ResourceImport: true
 ResourceType: videos
-slug: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-aliases:
-- /resources/isU2kPc5HFw
-- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/videos/talk-us-through-your-experience-with-azure-devops
-aliasesArchive:
-- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
-- /resources/videos/talk-us-through-your-experience-with-azure-devops
-- /resources/talk-us-through-your-experience-with-azure-devops
-- the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 665
 concepts:
 - Tool
 categories:
@@ -28,22 +17,33 @@ tags:
 - Pragmatic Thinking
 - Personal
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: isU2kPc5HFw
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
-duration: 998
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:24Z
   short_title: 2025-07-07T17:48:50Z
+title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
+videoId: isU2kPc5HFw
+source: internal
+url: /resources/videos/:slug
+slug: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+layout: video
+aliases:
+- /resources/isU2kPc5HFw
+- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+- /resources/videos/talk-us-through-your-experience-with-azure-devops
+aliasesArchive:
+- /resources/videos/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+- /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+- /resources/videos/talk-us-through-your-experience-with-azure-devops
+- /resources/talk-us-through-your-experience-with-azure-devops
+- the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
+duration: 998
+resourceTypes:
+- video
+isShort: false
 
 ---
 When I first encountered Azure [DevOps]({{< ref "/categories/devops" >}}) back in 2006, it wasn't even called [Azure DevOps]({{< ref "/tags/azure-devops" >}}). Back then, it was known as Visual Studio Team Services (VSTS), and before that, Team Foundation Server (TFS). Over the years, the name has changed several times, but the core intent has remained consistent: empowering teams to enhance their capabilities through powerful tools. In this blog post, I want to take you through my journey with Azure DevOps, from my early days as a software engineer to becoming a Microsoft MVP and a DevOps consultant. I'll share personal experiences, lessons learned, and practical advice on leveraging Azure DevOps to its full potential.

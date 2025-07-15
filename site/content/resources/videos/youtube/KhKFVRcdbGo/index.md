@@ -1,13 +1,29 @@
 ---
-title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
 short_title: Transforming Organisational Culture for Engineering Excellence
 description: Explores how understanding and optimising organisational systems can drive engineering excellence, improve value delivery, and foster a culture of technical leadership.
 date: 2024-12-21T06:00:00Z
-weight: 305
 ResourceId: KhKFVRcdbGo
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 305
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:56:35Z
+  short_title: 2025-07-07T17:47:04Z
+title: 'Transforming Organisational Culture: Unlocking Engineering Excellence Through System Optimisation'
+videoId: KhKFVRcdbGo
+source: youtube
+url: /resources/videos/:slug
 slug: transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
+layout: video
 aliases:
 - /resources/KhKFVRcdbGo
 - /resources/videos/transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
@@ -17,27 +33,11 @@ aliasesArchive:
 - /resources/videos/nkd-agility-your-partner-in-cost-effective-software-development
 - /resources/nkd-agility-your-partner-in-cost-effective-software-development
 - transforming-organisational-culture-unlocking-engineering-excellence-through-system-optimisation
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: KhKFVRcdbGo
-source: youtube
-url: /resources/videos/:slug
-layout: video
 preview: https://i9.ytimg.com/vi/KhKFVRcdbGo/maxresdefault.jpg?sqp=CKzMp7oG&rs=AOn4CLCRuKU6K3gPE5C6uZZipWu40oSNPg
 duration: 150
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:56:35Z
-  short_title: 2025-07-07T17:47:04Z
+isShort: false
 
 ---
 Creating a culture of [engineering excellence]({{< ref "/categories/engineering-excellence" >}}) within an organisation is a topic that often stirs up a fair bit of debate. I find myself grappling with the concept of culture itself. After all, culture is essentially the embodiment of what exists within an organisation. It’s like the shadow on the wall; to change the shadow, we must first alter the shape of the object casting it. This is where Naked Agility comes into play.

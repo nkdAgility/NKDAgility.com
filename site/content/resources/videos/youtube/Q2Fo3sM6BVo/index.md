@@ -1,23 +1,12 @@
 ---
-title: 'Unlocking Scrum Success: A Comprehensive Guide to Values, Roles, Artifacts, and Events'
 short_title: Scrum Values, Roles, Artifacts, and Events
 description: Explains Scrum’s core values, roles, artifacts, and events, highlighting how they support teamwork, transparency, and adaptability in managing complex projects.
 date: 2022-10-18T16:13:02Z
-weight: 690
 ResourceId: Q2Fo3sM6BVo
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
-aliases:
-- /resources/Q2Fo3sM6BVo
-- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
-- /resources/videos/the-scrum-framework
-aliasesArchive:
-- /resources/videos/the-scrum-framework
-- /resources/videos/the-scrum-framework!
-- /resources/the-scrum-framework!
-- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
-- unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 690
 concepts:
 - Framework
 categories:
@@ -31,22 +20,33 @@ tags:
 - Team Performance
 - Agile Planning
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Q2Fo3sM6BVo
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
-duration: 891
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:14:41Z
   short_title: 2025-07-07T17:57:19Z
+title: 'Unlocking Scrum Success: A Comprehensive Guide to Values, Roles, Artifacts, and Events'
+videoId: Q2Fo3sM6BVo
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+layout: video
+aliases:
+- /resources/Q2Fo3sM6BVo
+- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+- /resources/videos/the-scrum-framework
+aliasesArchive:
+- /resources/videos/the-scrum-framework
+- /resources/videos/the-scrum-framework!
+- /resources/the-scrum-framework!
+- /resources/videos/unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+- unlocking-scrum-success-a-comprehensive-guide-to-values-roles-artifacts-and-events
+preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
+duration: 891
+resourceTypes:
+- video
+isShort: false
 
 ---
 [Scrum]({{< ref "/categories/scrum" >}}) is a lightweight framework that empowers teams and organisations to generate value through adaptive solutions for complex problems. Over my 12 years as a [professional Scrum]({{< ref "/tags/professional-scrum" >}}) trainer, I’ve seen firsthand how this framework can transform the way we work. Today, I want to share an overview of Scrum, breaking down its core components: five values, three accountabilities, three artifacts, and five events. 

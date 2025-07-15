@@ -1,13 +1,31 @@
 ---
-title: Overcoming the Ghost of Agile Certifications
 short_title: Overcoming the Ghost of Agile Certifications
 description: Explores the limits of Agile certifications, emphasising real-world experience, continuous learning, and team validation over credentials for true professional growth.
 date: 2024-01-02T07:00:20Z
-weight: 790
 ResourceId: eLkJ_YEhMB0
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
+concepts: []
+categories:
+- Scrum
+tags:
+- Software Development
+- Personal
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:06:43Z
+  short_title: 2025-07-07T17:50:32Z
+title: Overcoming the Ghost of Agile Certifications
+videoId: eLkJ_YEhMB0
+source: internal
+url: /resources/videos/:slug
 slug: overcoming-the-ghost-of-agile-certifications
+layout: video
 aliases:
 - /resources/eLkJ_YEhMB0
 - /resources/videos/overcoming-the-ghost-of-agile-certifications
@@ -18,29 +36,11 @@ aliasesArchive:
 - /resources/videos/5-ghosts-of-agile-past-3-questions
 - /resources/5-ghosts-of-agile-past-3-questions
 - overcoming-the-ghost-of-agile-certifications
-concepts: []
-categories:
-- Scrum
-tags:
-- Software Development
-- Personal
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: eLkJ_YEhMB0
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:06:43Z
-  short_title: 2025-07-07T17:50:32Z
+isShort: false
 
 ---
 In the world of Agile, certifications have long been a point of contention. Lately, there's been a growing trend of dismissiveness toward certifications, with many expressing skepticism about their value. As someone who has spent years in the Agile and [Scrum]({{< ref "/categories/scrum" >}}) space, I understand the frustration that certifications often evoke. While I agree with some of the criticism, I also see their value, but only when approached correctly.

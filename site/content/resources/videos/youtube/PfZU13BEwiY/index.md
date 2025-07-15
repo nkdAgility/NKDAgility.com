@@ -1,13 +1,33 @@
 ---
-title: 'Scaling Smart: How to Tackle Technical Debt for Sustainable Growth'
 short_title: 'Scaling Smart: Managing Technical Debt'
 description: Learn how unmanaged technical debt can hinder growth, and discover strategies like sustainable architecture, DevOps, and automation to scale efficiently and maintain quality.
 date: 2025-02-25T06:00:28Z
-weight: 230
 ResourceId: PfZU13BEwiY
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 230
+concepts: []
+categories:
+- Engineering Excellence
+- DevOps
+tags:
+- Technical Debt
+- Pragmatic Thinking
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T12:49:26Z
+  short_title: 2025-07-07T16:45:51Z
+title: 'Scaling Smart: How to Tackle Technical Debt for Sustainable Growth'
+videoId: PfZU13BEwiY
+source: youtube
+url: /resources/videos/:slug
 slug: scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
+layout: video
 aliases:
 - /resources/PfZU13BEwiY
 - /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
@@ -19,31 +39,11 @@ aliasesArchive:
 - /resources/videos/scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
 - /resources/videos/technical-debt-the-silent-scalability-killer
 - scaling-smart-how-to-tackle-technical-debt-for-sustainable-growth
-concepts: []
-categories:
-- Engineering Excellence
-- DevOps
-tags:
-- Technical Debt
-- Pragmatic Thinking
-- Software Development
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: PfZU13BEwiY
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/PfZU13BEwiY/maxresdefault.jpg
 duration: 61
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T12:49:26Z
-  short_title: 2025-07-07T16:45:51Z
+isShort: false
 
 ---
 [Scaling]({{< ref "/tags/scaling" >}}) without managing [technical debt]({{< ref "/tags/technical-debt" >}}) is a recipe for disaster. I’ve seen it time and again in my journey through various organisations. Technical debt can be a silent killer, gradually slowing everything down until it becomes a major blocker. Every quick fix or shortcut we take may seem harmless at first, but as we scale, those seemingly minor decisions can snowball into significant issues. 

@@ -1,22 +1,12 @@
 ---
-title: What is your favourite DevOps consulting outcome?
 short_title: 'DevOps Transformation: Unifying 80+ Teams Globally'
 description: A complex software project unified 80+ teams across 9 countries by adopting Azure DevOps, streamlining processes, and achieving a single engineering system.
 date: 2023-04-18T07:00:08Z
-weight: 390
 ResourceId: N58DvsSx4U8
-ResourceImport: true
 ResourceType: videos
-slug: what-is-your-favourite-devops-consulting-outcome
-aliases:
-- /resources/N58DvsSx4U8
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome
-aliasesArchive:
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome
-- /resources/what-is-your-favourite-devops-consulting-outcome
-- /resources/videos/what-is-your-favourite-devops-consulting-outcome-
-- /resources/what-is-your-favourite-devops-consulting-outcome-
-- what-is-your-favourite-devops-consulting-outcome
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 390
 concepts: []
 categories:
 - DevOps
@@ -26,22 +16,32 @@ tags:
 - One Engineering System
 - Software Development
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: N58DvsSx4U8
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
-duration: 497
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:13:12Z
   short_title: 2025-07-07T17:55:53Z
+title: What is your favourite DevOps consulting outcome?
+videoId: N58DvsSx4U8
+source: internal
+url: /resources/videos/:slug
+slug: what-is-your-favourite-devops-consulting-outcome
+layout: video
+aliases:
+- /resources/N58DvsSx4U8
+- /resources/videos/what-is-your-favourite-devops-consulting-outcome
+aliasesArchive:
+- /resources/videos/what-is-your-favourite-devops-consulting-outcome
+- /resources/what-is-your-favourite-devops-consulting-outcome
+- /resources/videos/what-is-your-favourite-devops-consulting-outcome-
+- /resources/what-is-your-favourite-devops-consulting-outcome-
+- what-is-your-favourite-devops-consulting-outcome
+preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
+duration: 497
+resourceTypes:
+- video
+isShort: false
 
 ---
 ## A Journey to [DevOps]({{< ref "/categories/devops" >}}) Success

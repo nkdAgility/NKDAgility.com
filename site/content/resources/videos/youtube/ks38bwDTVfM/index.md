@@ -1,26 +1,12 @@
 ---
-title: "Mastering Agile: 3 Essential Strategies to Boost Your Team's Sprint Success"
 short_title: 3 Essential Agile Strategies for Sprint Success
 description: 'Learn three key Agile strategies: define clear completion criteria, avoid overcommitting in Sprints, and prioritise backlog refinement for better team productivity.'
 date: 2023-11-16T07:00:16Z
-weight: 330
 ResourceId: ks38bwDTVfM
-ResourceImport: true
 ResourceType: videos
-slug: mastering-agile-3-essential-strategies-to-boost-your-team's-sprint-success
-aliases:
-- /resources/ks38bwDTVfM
-- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
-- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
-- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-team-s-sprint-success
-aliasesArchive:
-- /resources/videos/mastering-agile-essential-strategies-to-boost-your-teams-sprint-success
-- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
-- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
-- /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
-- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
-- mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
-- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-team-s-sprint-success
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 330
 concepts:
 - Method
 categories:
@@ -36,22 +22,35 @@ tags:
 - Agile Product Management
 - Team Collaboration
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: ks38bwDTVfM
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
-duration: 344
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:07:49Z
   short_title: 2025-07-07T17:51:44Z
+title: "Mastering Agile: 3 Essential Strategies to Boost Your Team's Sprint Success"
+videoId: ks38bwDTVfM
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+layout: video
+aliases:
+- /resources/ks38bwDTVfM
+- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
+aliasesArchive:
+- /resources/videos/mastering-agile-essential-strategies-to-boost-your-teams-sprint-success
+- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+- /resources/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed-
+- /resources/videos/what-are-3-things-you-would-recommend-for-a-scrum-team-who-are-struggling-to-get-work-completed
+- mastering-agile-3-essential-strategies-to-boost-your-teams-sprint-success
+- /resources/videos/mastering-agile-3-essential-strategies-to-boost-your-team-s-sprint-success
+preview: https://i.ytimg.com/vi/ks38bwDTVfM/maxresdefault.jpg
+duration: 344
+resourceTypes:
+- video
+isShort: false
 
 ---
 When it comes to successfully navigating the complexities of Agile and [Scrum]({{< ref "/categories/scrum" >}}), there are a few key principles that I’ve found to be absolutely essential. Drawing from my experiences, I want to share three critical strategies that can help your team not only complete work within a Sprint but also enhance overall productivity and satisfaction.

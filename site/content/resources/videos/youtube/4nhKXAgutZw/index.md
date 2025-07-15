@@ -1,13 +1,33 @@
 ---
-title: 'The Power of Kindness in Agile: A Core Virtue for Success'
 short_title: Kindness and Empathy in Agile Success
 description: Explores how kindness, empathy, and compassion in Agile foster trust, improve team collaboration, and enhance customer focus for long-term organisational success.
 date: 2023-12-11T07:00:01Z
-weight: 1000
 ResourceId: 4nhKXAgutZw
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Agile Philosophy
+- Team Collaboration
+- Agile Values and Principles
+- Organisational Culture
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:06Z
+  short_title: 2025-07-07T17:51:10Z
+title: 'The Power of Kindness in Agile: A Core Virtue for Success'
+videoId: 4nhKXAgutZw
+source: internal
+url: /resources/videos/:slug
 slug: the-power-of-kindness-in-agile-a-core-virtue-for-success
+layout: video
 aliases:
 - /resources/4nhKXAgutZw
 - /resources/videos/the-power-of-kindness-in-agile-a-core-virtue-for-success
@@ -18,31 +38,11 @@ aliasesArchive:
 - /resources/videos/7-virtues-of-agile-kindness
 - /resources/7-virtues-of-agile-kindness
 - the-power-of-kindness-in-agile-a-core-virtue-for-success
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Agile Philosophy
-- Team Collaboration
-- Agile Values and Principles
-- Organisational Culture
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 4nhKXAgutZw
-source: internal
-url: /resources/videos/:slug
 preview: https://i.ytimg.com/vi/4nhKXAgutZw/maxresdefault.jpg
 duration: 252
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-layout: video
-Watermarks:
-  description: 2025-05-07T13:07:06Z
-  short_title: 2025-07-07T17:51:10Z
+isShort: false
 
 ---
 When we talk about **kindness** in Agile, we're referring to something deeper than just being nice. Kindness can take many forms—**compassion, benevolence, empathy**—and it can be directed toward different parts of our organization. It’s about how we treat our customers, our teams, and even ourselves in the way we work. Agile isn't just about delivering software; it's about creating environments where people can thrive, feel valued, and succeed together.

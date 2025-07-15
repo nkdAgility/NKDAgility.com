@@ -1,29 +1,12 @@
 ---
-title: Overview of 'applying flow metrics for Scrum' course.
 short_title: Applying Flow Metrics for Scrum Course Overview
 description: Learn how to use Kanban flow metrics in Scrum to improve value delivery, track progress, identify bottlenecks, and drive continuous improvement in agile teams.
 date: 2024-02-19T07:00:09Z
-weight: 665
 ResourceId: NeGch-lQkPA
-ResourceImport: true
 ResourceType: videos
-slug: overview-of-'applying-flow-metrics-for-scrum'-course
-aliases:
-- /resources/NeGch-lQkPA
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
-aliasesArchive:
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
-- /resources/overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
-- /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course-
-- overview-of-applying-flow-metrics-for-scrum-course-
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
-- overview-of-applying-flow-metrics-for-scrum-course
-- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 665
 concepts:
 - Practice
 categories:
@@ -38,22 +21,38 @@ tags:
 - Value Delivery
 - Agile Frameworks
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: NeGch-lQkPA
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg
-duration: 125
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:42Z
   short_title: 2025-07-07T17:49:43Z
+title: Overview of 'applying flow metrics for Scrum' course.
+videoId: NeGch-lQkPA
+source: internal
+url: /resources/videos/:slug
+slug: overview-of-applying-flow-metrics-for-scrum-course
+layout: video
+aliases:
+- /resources/NeGch-lQkPA
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+aliasesArchive:
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course-
+- /resources/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
+- /resources/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course-
+- overview-of-applying-flow-metrics-for-scrum-course-
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-kanban-course
+- overview-of-applying-flow-metrics-for-scrum-course
+- /resources/videos/overview-of-applying-flow-metrics-for-scrum-course.
+preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg
+duration: 125
+resourceTypes:
+- video
+isShort: false
 
 ---
 ### Applying Flow Metrics for [Scrum]({{< ref "/categories/scrum" >}}): Enhancing [Value Delivery]({{< ref "/tags/value-delivery" >}}) with [Kanban]({{< ref "/categories/kanban" >}})

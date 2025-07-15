@@ -1,41 +1,43 @@
 ---
-title: 'Unlocking Human Potential: How Health and Perspective Fuel Innovation in Tech'
 short_title: Health, Perspective, and Innovation in Tech
 description: Explores how health, mindset, and diverse perspectives drive innovation and effective leadership in tech, highlighting the link between well-being and creative problem-solving.
 date: 2017-07-28T12:40:03Z
-weight: 1000
 ResourceId: DWL0PLkFazs
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+ResourceContentOrigin: AI
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:16:29Z
+  short_title: 2025-07-07T17:58:44Z
+title: 'Unlocking Human Potential: How Health and Perspective Fuel Innovation in Tech'
+videoId: DWL0PLkFazs
+source: youtube
+url: /resources/videos/:slug
 slug: unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+layout: video
 aliases:
 - /resources/DWL0PLkFazs
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: DWL0PLkFazs
-url: /resources/videos/:slug
-layout: video
+- /resources/videos/unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
+- /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
 aliasesArchive:
 - /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
 - /resources/why-did-healthgrades-choose-martin-hinshelwood
 - /resources/videos/unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
 - unlocking-human-potential-how-health-and-perspective-fuel-innovation-in-tech
-concepts: []
-categories:
-- Uncategorized
-tags: []
 preview: https://i.ytimg.com/vi/DWL0PLkFazs/maxresdefault.jpg
 duration: 85
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:16:29Z
-  short_title: 2025-07-07T17:58:44Z
+isShort: false
 
 ---
 As I reflect on my journey in the tech industry, I often find myself inspired by the stories and experiences of others. Recently, I had the pleasure of listening to Kathryn Maddox, a remarkable individual who embodies the essence of health and vitality. Her insights resonated deeply with me, particularly her perspective on the intersection of technology and human potential.

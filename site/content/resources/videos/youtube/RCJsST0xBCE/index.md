@@ -1,25 +1,13 @@
 ---
-title: 'Mastering Azure DevOps Migration Tools: Your Ultimate Guide to Seamless Migrations'
 short_title: Azure DevOps Migration Tools Guide
 description: Learn how to use Azure DevOps Migration Tools for efficient, large-scale migrations, including setup, configuration, best practices, and community support for troubleshooting.
 date: 2019-10-17T19:16:03Z
-weight: 1000
 ResourceId: RCJsST0xBCE
-ResourceImport: true
 ResourceType: videos
-slug: mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
-aliases:
-- /resources/RCJsST0xBCE
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: RCJsST0xBCE
-url: /resources/videos/:slug
-layout: video
-aliasesArchive:
-- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
-- /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
-- mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+weight: 1000
+ResourceContentOrigin: AI
 concepts:
 - Tool
 categories:
@@ -29,18 +17,32 @@ tags:
 - Install and Configuration
 - Software Development
 - System Configuration
-preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
-duration: 2399
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:16:04Z
   short_title: 2025-07-07T17:58:23Z
+title: 'Mastering Azure DevOps Migration Tools: Your Ultimate Guide to Seamless Migrations'
+videoId: RCJsST0xBCE
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+layout: video
+aliases:
+- /resources/RCJsST0xBCE
+- /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+aliasesArchive:
+- /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+- /resources/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
+- /resources/videos/mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+- mastering-azure-devops-migration-tools-your-ultimate-guide-to-seamless-migrations
+preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
+duration: 2399
+resourceTypes:
+- video
+isShort: false
 
 ---
 As many of you know, I’m Martin Hinshelwood, and I’ve dedicated a significant portion of my career to developing tools that facilitate seamless migrations within Azure [DevOps]({{< ref "/categories/devops" >}}). Today, I want to share my insights and experiences with the [Azure DevOps]({{< ref "/tags/azure-devops" >}}) Migration Tools, which you can find on the Visual Studio Marketplace. With over 50,000 migration sessions per month and a staggering 340,000 work items migrated in just the last 30 days, it’s clear that these tools are making a substantial impact.

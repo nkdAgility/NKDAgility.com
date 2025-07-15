@@ -1,0 +1,1153 @@
+1
+00:00:00,000 --> 00:00:06,640
+Azure DevOps isn't isn't just a a a tool
+
+2
+00:00:03,600 --> 00:00:08,880
+set. It's designed as a platform for
+
+3
+00:00:06,640 --> 00:00:12,000
+excellence. It's designed as a a
+
+4
+00:00:08,880 --> 00:00:13,360
+platform engineering capability,
+
+5
+00:00:12,000 --> 00:00:17,600
+something that you can use within that
+
+6
+00:00:13,360 --> 00:00:20,800
+context. And the reason I mean Azure
+
+7
+00:00:17,600 --> 00:00:22,560
+DevOps is is the brainchild is probably
+
+8
+00:00:20,800 --> 00:00:24,480
+the way you describe that. The visionary
+
+9
+00:00:22,560 --> 00:00:26,960
+behind Azure DevOps was a gentleman
+
+10
+00:00:24,480 --> 00:00:28,960
+called Sam Gubenheimr and he'd been
+
+11
+00:00:26,960 --> 00:00:31,039
+around for for for quite some time in
+
+12
+00:00:28,960 --> 00:00:35,600
+the ALM application life cycle
+
+13
+00:00:31,039 --> 00:00:38,559
+management space. Um and she
+
+14
+00:00:35,600 --> 00:00:42,079
+envisaged this world
+
+15
+00:00:38,559 --> 00:00:44,239
+where we as
+
+16
+00:00:42,079 --> 00:00:46,960
+builders of products, software
+
+17
+00:00:44,239 --> 00:00:49,600
+engineers, uh managers, all the people
+
+18
+00:00:46,960 --> 00:00:53,440
+involved in build building products were
+
+19
+00:00:49,600 --> 00:00:56,399
+able to see what's going on
+
+20
+00:00:53,440 --> 00:00:58,640
+really well. I want to be able to I want
+
+21
+00:00:56,399 --> 00:01:00,960
+to be able to see if if I've if I if I'm
+
+22
+00:00:58,640 --> 00:01:04,239
+if I'm in if I'm a manager, product
+
+23
+00:01:00,960 --> 00:01:09,520
+owner, if I'm um in product management,
+
+24
+00:01:04,239 --> 00:01:14,000
+and I want to be able to see where my
+
+25
+00:01:09,520 --> 00:01:17,280
+feature is, what state it's in, not only
+
+26
+00:01:14,000 --> 00:01:20,000
+are the bits finished, but in what
+
+27
+00:01:17,280 --> 00:01:21,520
+environments those bits have gotten to,
+
+28
+00:01:20,000 --> 00:01:23,200
+right? So if you're doing a ring based
+
+29
+00:01:21,520 --> 00:01:24,479
+deployment model, are they in are they
+
+30
+00:01:23,200 --> 00:01:26,799
+have they have they are they still in
+
+31
+00:01:24,479 --> 00:01:30,080
+the canary environments or have they
+
+32
+00:01:26,799 --> 00:01:32,000
+moved up to the preview environment or
+
+33
+00:01:30,080 --> 00:01:33,439
+are they in production? How how do I
+
+34
+00:01:32,000 --> 00:01:35,280
+know how do I get that visibility
+
+35
+00:01:33,439 --> 00:01:37,439
+without just going and asking people and
+
+36
+00:01:35,280 --> 00:01:38,799
+and and
+
+37
+00:01:37,439 --> 00:01:40,479
+I want to be able to see that
+
+38
+00:01:38,799 --> 00:01:42,079
+information so that I can ask more
+
+39
+00:01:40,479 --> 00:01:44,320
+interesting questions than where's my
+
+40
+00:01:42,079 --> 00:01:46,320
+stuff, right? Where's my stuff is not an
+
+41
+00:01:44,320 --> 00:01:50,000
+interesting question.
+
+42
+00:01:46,320 --> 00:01:53,439
+So that that his idea was to create a
+
+43
+00:01:50,000 --> 00:01:55,920
+system like that and Brian Harry in the
+
+44
+00:01:53,439 --> 00:02:00,159
+good old days um was the product unit
+
+45
+00:01:55,920 --> 00:02:03,520
+manager. He was the delivery manager for
+
+46
+00:02:00,159 --> 00:02:06,479
+for that vision. And a lot of those
+
+47
+00:02:03,520 --> 00:02:09,599
+things that that we we would like Azure
+
+48
+00:02:06,479 --> 00:02:11,599
+DevOps to do are are are in there.
+
+49
+00:02:09,599 --> 00:02:16,879
+they're in there and they're usable and
+
+50
+00:02:11,599 --> 00:02:19,680
+they really bring um capabilities to for
+
+51
+00:02:16,879 --> 00:02:22,400
+our our our developers that perhaps you
+
+52
+00:02:19,680 --> 00:02:25,680
+don't even realize are there. Right?
+
+53
+00:02:22,400 --> 00:02:27,920
+I've been using Azure DevOps um since
+
+54
+00:02:25,680 --> 00:02:30,160
+2006
+
+55
+00:02:27,920 --> 00:02:32,959
+7 2007
+
+56
+00:02:30,160 --> 00:02:35,519
+uh when the preview was launched. So
+
+57
+00:02:32,959 --> 00:02:37,040
+very long time. And Azure DevOps has a
+
+58
+00:02:35,519 --> 00:02:40,239
+bunch of capabilities that most people
+
+59
+00:02:37,040 --> 00:02:43,599
+have no idea are in there. So for
+
+60
+00:02:40,239 --> 00:02:45,599
+example, you can get full traceability
+
+61
+00:02:43,599 --> 00:02:47,519
+from the work that you're doing, the
+
+62
+00:02:45,599 --> 00:02:49,920
+work items that you're working on, all
+
+63
+00:02:47,519 --> 00:02:52,560
+the way down through
+
+64
+00:02:49,920 --> 00:02:55,120
+to the lines of code that were changed
+
+65
+00:02:52,560 --> 00:02:58,000
+to fulfill that
+
+66
+00:02:55,120 --> 00:03:01,599
+capability. And that can be at the task
+
+67
+00:02:58,000 --> 00:03:03,519
+level, at the
+
+68
+00:03:01,599 --> 00:03:06,000
+backlog item level, at the feature
+
+69
+00:03:03,519 --> 00:03:09,519
+level, or at the epic level. And Azure
+
+70
+00:03:06,000 --> 00:03:13,360
+DevOps has that hierarchy because it
+
+71
+00:03:09,519 --> 00:03:14,879
+does this clever thing that as long as
+
+72
+00:03:13,360 --> 00:03:16,800
+you're well your developers have to do
+
+73
+00:03:14,879 --> 00:03:18,720
+something. They have to associate the
+
+74
+00:03:16,800 --> 00:03:20,400
+code that they are working on with the
+
+75
+00:03:18,720 --> 00:03:22,159
+work item. So they tag it in the
+
+76
+00:03:20,400 --> 00:03:25,120
+comment. This is what I'm working on or
+
+77
+00:03:22,159 --> 00:03:26,879
+this closes this item, right? And then
+
+78
+00:03:25,120 --> 00:03:29,280
+the automated build system inside of
+
+79
+00:03:26,879 --> 00:03:33,280
+Azure DevOps picks up all of that
+
+80
+00:03:29,280 --> 00:03:38,879
+awesome uh uh data and then it goes and
+
+81
+00:03:33,280 --> 00:03:40,959
+writes onto the um work the work items.
+
+82
+00:03:38,879 --> 00:03:43,200
+They have a hidden field called the
+
+83
+00:03:40,959 --> 00:03:45,120
+integrated in field. They go right into
+
+84
+00:03:43,200 --> 00:03:48,159
+those work items. This this the build
+
+85
+00:03:45,120 --> 00:03:50,799
+number right all the way up the chain.
+
+86
+00:03:48,159 --> 00:03:53,519
+So then the epic will always have the
+
+87
+00:03:50,799 --> 00:03:56,159
+latest build number that it has things
+
+88
+00:03:53,519 --> 00:03:58,000
+in. And then you drill down to the next
+
+89
+00:03:56,159 --> 00:03:59,840
+level and you've got a set of features
+
+90
+00:03:58,000 --> 00:04:03,760
+and each of those features have the
+
+91
+00:03:59,840 --> 00:04:06,159
+latest build number that has stuff from
+
+92
+00:04:03,760 --> 00:04:08,400
+that feature in it. And then all the way
+
+93
+00:04:06,159 --> 00:04:10,720
+down and you can see
+
+94
+00:04:08,400 --> 00:04:12,959
+with that build number you can then look
+
+95
+00:04:10,720 --> 00:04:17,280
+at your environments
+
+96
+00:04:12,959 --> 00:04:19,280
+and see well where is this
+
+97
+00:04:17,280 --> 00:04:20,799
+version? what version is in what
+
+98
+00:04:19,280 --> 00:04:23,440
+environment.
+
+99
+00:04:20,799 --> 00:04:25,199
+Now, that would be a pain in the butt if
+
+100
+00:04:23,440 --> 00:04:27,919
+we had to manually go figure out all
+
+101
+00:04:25,199 --> 00:04:30,400
+that stuff. So, nicely, you can open up
+
+102
+00:04:27,919 --> 00:04:32,479
+the environment and you can basically
+
+103
+00:04:30,400 --> 00:04:35,520
+say what features are in this
+
+104
+00:04:32,479 --> 00:04:38,639
+environment. what code has been changed
+
+105
+00:04:35,520 --> 00:04:41,840
+in this environment from the previous
+
+106
+00:04:38,639 --> 00:04:44,160
+environment or because you've got a
+
+107
+00:04:41,840 --> 00:04:46,080
+build that's deployed a build ID and
+
+108
+00:04:44,160 --> 00:04:48,800
+Azure DevOps is able to do those diffing
+
+109
+00:04:46,080 --> 00:04:52,400
+between any two builds right what's the
+
+110
+00:04:48,800 --> 00:04:56,800
+difference between these in features in
+
+111
+00:04:52,400 --> 00:04:58,800
+uh uh source code changes so
+
+112
+00:04:56,800 --> 00:05:02,479
+think about the value proposition of
+
+113
+00:04:58,800 --> 00:05:04,880
+that from a business perspective you
+
+114
+00:05:02,479 --> 00:05:06,560
+might be looking at risk analysis. You
+
+115
+00:05:04,880 --> 00:05:09,039
+might be looking at, well, we're about
+
+116
+00:05:06,560 --> 00:05:10,560
+to do a new release of this version.
+
+117
+00:05:09,039 --> 00:05:13,600
+This is the version we were on before.
+
+118
+00:05:10,560 --> 00:05:17,440
+What's changed between these two? Here's
+
+119
+00:05:13,600 --> 00:05:20,000
+all of the tasks, all of the backlog
+
+120
+00:05:17,440 --> 00:05:21,680
+items, the stories, all of the features,
+
+121
+00:05:20,000 --> 00:05:23,840
+all of the epics that have been impacted
+
+122
+00:05:21,680 --> 00:05:26,000
+by these changes. And then for the
+
+123
+00:05:23,840 --> 00:05:27,440
+technical folks, here's a list of all of
+
+124
+00:05:26,000 --> 00:05:30,080
+the changes, all of the code changes
+
+125
+00:05:27,440 --> 00:05:32,400
+that have been made. Audit audit
+
+126
+00:05:30,080 --> 00:05:34,800
+problems solved, right? all of your
+
+127
+00:05:32,400 --> 00:05:37,520
+audit problems are solved um um with
+
+128
+00:05:34,800 --> 00:05:40,160
+that story. And that's just one of the
+
+129
+00:05:37,520 --> 00:05:41,680
+capabilities inside of Azure DevOps
+
+130
+00:05:40,160 --> 00:05:43,919
+that's actually they're called the
+
+131
+00:05:41,680 --> 00:05:47,360
+DevOps features. They're there
+
+132
+00:05:43,919 --> 00:05:50,000
+specifically to support a DevOps story.
+
+133
+00:05:47,360 --> 00:05:53,919
+So this integrates the the the Azure
+
+134
+00:05:50,000 --> 00:05:56,720
+boards for planning with the Azure repos
+
+135
+00:05:53,919 --> 00:05:59,919
+for source control and Azure pipelines
+
+136
+00:05:56,720 --> 00:06:02,479
+for automated builds and maintains a
+
+137
+00:05:59,919 --> 00:06:05,600
+level of traceability. across all of
+
+138
+00:06:02,479 --> 00:06:08,080
+these these items. Then you bring in
+
+139
+00:06:05,600 --> 00:06:11,440
+things like the test tools. So hopefully
+
+140
+00:06:08,080 --> 00:06:13,759
+you're doing automated tests. Automated
+
+141
+00:06:11,440 --> 00:06:15,120
+tests are already associated with your
+
+142
+00:06:13,759 --> 00:06:17,440
+build, right? Because you're running
+
+143
+00:06:15,120 --> 00:06:19,199
+them within the context of your build.
+
+144
+00:06:17,440 --> 00:06:21,440
+But then you can also bring in manual
+
+145
+00:06:19,199 --> 00:06:23,600
+tests, right? We we may there's two
+
+146
+00:06:21,440 --> 00:06:26,080
+there's two types of I'm going to I'm
+
+147
+00:06:23,600 --> 00:06:28,400
+going to be flippant and say there's two
+
+148
+00:06:26,080 --> 00:06:30,639
+types of manual tests. There's the old
+
+149
+00:06:28,400 --> 00:06:32,479
+school manual tests which should really
+
+150
+00:06:30,639 --> 00:06:35,520
+be automations
+
+151
+00:06:32,479 --> 00:06:39,120
+um that are are are test scripts, test
+
+152
+00:06:35,520 --> 00:06:41,120
+cases, right? You have a test case, you
+
+153
+00:06:39,120 --> 00:06:43,199
+you work through it. There's reasons why
+
+154
+00:06:41,120 --> 00:06:44,639
+you might definitely have test cases for
+
+155
+00:06:43,199 --> 00:06:47,759
+sure. I can think of a couple of
+
+156
+00:06:44,639 --> 00:06:51,199
+scenarios. I might mention one. Um and
+
+157
+00:06:47,759 --> 00:06:53,680
+then you've got
+
+158
+00:06:51,199 --> 00:06:55,199
+explor things like exploratory testing
+
+159
+00:06:53,680 --> 00:06:56,639
+where you're you're looking through the
+
+160
+00:06:55,199 --> 00:06:58,880
+system and you want to find it. And both
+
+161
+00:06:56,639 --> 00:07:00,639
+of those are supported by the test tools
+
+162
+00:06:58,880 --> 00:07:01,919
+in Azure DevOps. Al although one of them
+
+163
+00:07:00,639 --> 00:07:03,280
+is completely free. You can use the
+
+164
+00:07:01,919 --> 00:07:04,880
+feedback tool for free. You've probably
+
+165
+00:07:03,280 --> 00:07:06,960
+not not seen that tool. It's a feedback
+
+166
+00:07:04,880 --> 00:07:10,160
+tool in it plugs into your browser and
+
+167
+00:07:06,960 --> 00:07:14,000
+let you you record and create tests.
+
+168
+00:07:10,160 --> 00:07:18,240
+It's awesome. Um validate tests as well.
+
+169
+00:07:14,000 --> 00:07:20,080
+So that that test those tests are run
+
+170
+00:07:18,240 --> 00:07:24,560
+against a specific version of your
+
+171
+00:07:20,080 --> 00:07:26,080
+product. Right? So now when you create a
+
+172
+00:07:24,560 --> 00:07:28,319
+bug,
+
+173
+00:07:26,080 --> 00:07:32,280
+the bug is associated with the version
+
+174
+00:07:28,319 --> 00:07:32,280
+of the product that you're testing.
+
+175
+00:07:33,360 --> 00:07:37,440
+You know what codes changed between that
+
+176
+00:07:36,080 --> 00:07:40,080
+version and a previous version that
+
+177
+00:07:37,440 --> 00:07:42,560
+didn't have the bug. It's much easier
+
+178
+00:07:40,080 --> 00:07:45,599
+for the developers to find the bug and
+
+179
+00:07:42,560 --> 00:07:48,479
+fix it. Once the bug is fixed, the bug
+
+180
+00:07:45,599 --> 00:07:50,080
+has the build number on it
+
+181
+00:07:48,479 --> 00:07:52,880
+that tells you which build it's been
+
+182
+00:07:50,080 --> 00:07:55,039
+fixed in. So you don't have that problem
+
+183
+00:07:52,880 --> 00:07:58,800
+of the develop the the testers finding
+
+184
+00:07:55,039 --> 00:08:01,280
+that bug again because
+
+185
+00:07:58,800 --> 00:08:02,800
+they can see that that bug has been
+
+186
+00:08:01,280 --> 00:08:04,400
+fixed in a newer build than the one
+
+187
+00:08:02,800 --> 00:08:06,000
+they're testing right now. So it's it's
+
+188
+00:08:04,400 --> 00:08:08,240
+been fixed. It's just not fixed in the
+
+189
+00:08:06,000 --> 00:08:09,840
+version we're using and we can see that
+
+190
+00:08:08,240 --> 00:08:12,800
+information.
+
+191
+00:08:09,840 --> 00:08:15,840
+This this reduces
+
+192
+00:08:12,800 --> 00:08:17,599
+that I I would call it bug pingpong,
+
+193
+00:08:15,840 --> 00:08:20,639
+right? The developers say it's fixed,
+
+194
+00:08:17,599 --> 00:08:23,759
+the testers say it's not. it is fixed
+
+195
+00:08:20,639 --> 00:08:26,240
+but also it's not right. So it reduces
+
+196
+00:08:23,759 --> 00:08:28,720
+that big bug ping pong. It increases the
+
+197
+00:08:26,240 --> 00:08:32,320
+levels of traceability. It increases the
+
+198
+00:08:28,720 --> 00:08:34,560
+levels of transparency between the the
+
+199
+00:08:32,320 --> 00:08:36,320
+the the people that are working on the
+
+200
+00:08:34,560 --> 00:08:37,839
+product. Ideally you've just got
+
+201
+00:08:36,320 --> 00:08:39,200
+everybody working together in one team
+
+202
+00:08:37,839 --> 00:08:41,279
+but the realities of lots of
+
+203
+00:08:39,200 --> 00:08:43,360
+organizations are not there yet. We want
+
+204
+00:08:41,279 --> 00:08:45,120
+to work towards that but we're not
+
+205
+00:08:43,360 --> 00:08:48,560
+there. So how do we we do that in the
+
+206
+00:08:45,120 --> 00:08:53,360
+interim? Um, and it has this this really
+
+207
+00:08:48,560 --> 00:08:56,160
+a really compelling story is the the for
+
+208
+00:08:53,360 --> 00:08:58,800
+the test tools, a valid story for the
+
+209
+00:08:56,160 --> 00:09:02,480
+test tools. This is this is my agile
+
+210
+00:08:58,800 --> 00:09:04,640
+story for the test tools is that you
+
+211
+00:09:02,480 --> 00:09:08,880
+you're going to find a problem. You're
+
+212
+00:09:04,640 --> 00:09:11,200
+using the feedback tool on the app um
+
+213
+00:09:08,880 --> 00:09:14,880
+and you you find a problem, right? So
+
+214
+00:09:11,200 --> 00:09:18,160
+you provide feedback and that feedback
+
+215
+00:09:14,880 --> 00:09:19,680
+um is or or a user provides feedback and
+
+216
+00:09:18,160 --> 00:09:22,080
+then a tester needs to go in and
+
+217
+00:09:19,680 --> 00:09:24,720
+validate that feedback. So they go in
+
+218
+00:09:22,080 --> 00:09:27,040
+and create the steps to reproduce in a
+
+219
+00:09:24,720 --> 00:09:29,200
+test case. Right? So that's a test case
+
+220
+00:09:27,040 --> 00:09:30,880
+work item type. You test case with a set
+
+221
+00:09:29,200 --> 00:09:32,399
+of steps. You can automatically generate
+
+222
+00:09:30,880 --> 00:09:35,680
+that from the feedback tool but test
+
+223
+00:09:32,399 --> 00:09:38,000
+case in in in steps. And then you run
+
+224
+00:09:35,680 --> 00:09:40,720
+that test case
+
+225
+00:09:38,000 --> 00:09:42,399
+collecting whatever data you want around
+
+226
+00:09:40,720 --> 00:09:45,399
+that
+
+227
+00:09:42,399 --> 00:09:45,399
+and
+
+228
+00:09:45,519 --> 00:09:48,880
+create
+
+229
+00:09:47,040 --> 00:09:51,200
+the bug.
+
+230
+00:09:48,880 --> 00:09:54,320
+So the bug is associated with a test
+
+231
+00:09:51,200 --> 00:09:57,360
+case that proves that that bug exists.
+
+232
+00:09:54,320 --> 00:09:59,839
+So when the developers go to work on
+
+233
+00:09:57,360 --> 00:10:02,080
+that bug, they can see the test case,
+
+234
+00:09:59,839 --> 00:10:04,880
+they can see the test steps, they can
+
+235
+00:10:02,080 --> 00:10:09,040
+run those test steps to validate that
+
+236
+00:10:04,880 --> 00:10:11,200
+they fixed the bug, right? So you've got
+
+237
+00:10:09,040 --> 00:10:13,519
+that full life cycle and then when they
+
+238
+00:10:11,200 --> 00:10:15,360
+close off the bug
+
+239
+00:10:13,519 --> 00:10:16,800
+that this not bug ping pong, it goes
+
+240
+00:10:15,360 --> 00:10:19,279
+back to the tester and the tester says
+
+241
+00:10:16,800 --> 00:10:22,800
+it's still there.
+
+242
+00:10:19,279 --> 00:10:26,079
+They've run the test case.
+
+243
+00:10:22,800 --> 00:10:27,839
+the bug is gone. Give that back to the
+
+244
+00:10:26,079 --> 00:10:29,680
+testers and the testers can then
+
+245
+00:10:27,839 --> 00:10:31,920
+validate in an environment where the bug
+
+246
+00:10:29,680 --> 00:10:34,320
+is fixed so they don't false positive
+
+247
+00:10:31,920 --> 00:10:36,800
+it's still broken.
+
+248
+00:10:34,320 --> 00:10:38,560
+Those types of traceability features are
+
+249
+00:10:36,800 --> 00:10:40,399
+really powerful. Those are just
+
+250
+00:10:38,560 --> 00:10:43,680
+examples, a couple of examples of things
+
+251
+00:10:40,399 --> 00:10:46,160
+within the tool that allow you if you're
+
+252
+00:10:43,680 --> 00:10:48,640
+using the tools,
+
+253
+00:10:46,160 --> 00:10:50,240
+if you're delivering engineering
+
+254
+00:10:48,640 --> 00:10:53,519
+excellence within the context of the
+
+255
+00:10:50,240 --> 00:10:56,959
+tools, if you build a story around
+
+256
+00:10:53,519 --> 00:11:01,440
+platform engineering where you're
+
+257
+00:10:56,959 --> 00:11:04,720
+talking to the developers and the um
+
+258
+00:11:01,440 --> 00:11:07,040
+coders and the testers and management
+
+259
+00:11:04,720 --> 00:11:09,920
+and everybody about the capabilities of
+
+260
+00:11:07,040 --> 00:11:11,680
+the tools. and building a developer
+
+261
+00:11:09,920 --> 00:11:15,200
+experience. What is the product
+
+262
+00:11:11,680 --> 00:11:17,680
+developer experience for for your
+
+263
+00:11:15,200 --> 00:11:22,399
+engineers within your organization? You
+
+264
+00:11:17,680 --> 00:11:26,480
+can really pull out and simplify the
+
+265
+00:11:22,399 --> 00:11:29,120
+story that you have with traceability
+
+266
+00:11:26,480 --> 00:11:31,360
+um and observability around your
+
+267
+00:11:29,120 --> 00:11:33,600
+building of the product. Same as you
+
+268
+00:11:31,360 --> 00:11:35,760
+would within the context of your product
+
+269
+00:11:33,600 --> 00:11:37,839
+with telemetry coming from your product.
+
+270
+00:11:35,760 --> 00:11:40,240
+This is telemetry and data and
+
+271
+00:11:37,839 --> 00:11:43,040
+transparency coming from your
+
+272
+00:11:40,240 --> 00:11:45,680
+engineering platform. Um, which in this
+
+273
+00:11:43,040 --> 00:11:47,360
+case we're talking about Azure DevOps.
+
+274
+00:11:45,680 --> 00:11:48,640
+Um, you can also integrate that with
+
+275
+00:11:47,360 --> 00:11:50,640
+GitHub as well. So you can have your
+
+276
+00:11:48,640 --> 00:11:52,640
+code on GitHub and do all these cool
+
+277
+00:11:50,640 --> 00:11:55,839
+things within the context of of Azure
+
+278
+00:11:52,640 --> 00:11:59,760
+DevOps integrated with with GitHub. So
+
+279
+00:11:55,839 --> 00:12:02,240
+if if you want a platform
+
+280
+00:11:59,760 --> 00:12:04,800
+that you can build across your
+
+281
+00:12:02,240 --> 00:12:07,279
+organization that that improves your
+
+282
+00:12:04,800 --> 00:12:09,839
+developers experience and encourages
+
+283
+00:12:07,279 --> 00:12:11,519
+developers to use those features, you
+
+284
+00:12:09,839 --> 00:12:14,639
+need to tell them about those features
+
+285
+00:12:11,519 --> 00:12:16,720
+and explain them and educate and
+
+286
+00:12:14,639 --> 00:12:19,760
+they'll want to use the platform.
+
+287
+00:12:16,720 --> 00:12:22,639
+They'll want to use those features.
+
+288
+00:12:19,760 --> 00:12:22,639
+DevOps.
+
+

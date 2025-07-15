@@ -1,23 +1,12 @@
 ---
-title: 'Taming the Chaos: How to Align Your Agile Team for Success'
 short_title: Aligning Agile Teams for Success
 description: Learn how to reduce chaos in Agile teams by improving alignment, setting clear goals, fostering open communication, and using visual tools for better collaboration and efficiency.
 date: 2023-11-03T05:11:45Z
-weight: 640
 ResourceId: X4QzM00onL4
-ResourceImport: true
 ResourceType: videos
-slug: taming-the-chaos-how-to-align-your-agile-team-for-success
-aliases:
-- /resources/X4QzM00onL4
-- /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
-- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter
-aliasesArchive:
-- /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
-- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/chaos-7-harbingers-agile-apocalypse-but-shorter!
-- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter
-- taming-the-chaos-how-to-align-your-agile-team-for-success
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
 concepts:
 - Strategy
 categories:
@@ -29,22 +18,33 @@ tags:
 - Agile Strategy
 - Organisational Agility
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: X4QzM00onL4
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
-duration: 66
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:08:08Z
   short_title: 2025-07-07T17:51:56Z
+title: 'Taming the Chaos: How to Align Your Agile Team for Success'
+videoId: X4QzM00onL4
+source: youtube
+url: /resources/videos/:slug
+slug: taming-the-chaos-how-to-align-your-agile-team-for-success
+layout: video
+aliases:
+- /resources/X4QzM00onL4
+- /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
+- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter
+aliasesArchive:
+- /resources/videos/taming-the-chaos-how-to-align-your-agile-team-for-success
+- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/chaos-7-harbingers-agile-apocalypse-but-shorter!
+- /resources/videos/chaos-7-harbingers-agile-apocalypse-but-shorter
+- taming-the-chaos-how-to-align-your-agile-team-for-success
+preview: https://i.ytimg.com/vi/X4QzM00onL4/maxresdefault.jpg
+duration: 66
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the world of Agile, chaos is an all-too-familiar spectre that haunts many teams. I often find myself reflecting on the sheer magnitude of this chaos, which can manifest in various ways—most notably, a lack of direction and clarity. When teams are not aligned, when they don’t share a common goal, it’s no surprise that confusion reigns. 

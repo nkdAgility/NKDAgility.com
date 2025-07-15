@@ -1,24 +1,12 @@
 ---
-title: 'Evidence-Based Management: The Key to Agile Success'
 short_title: Evidence-Based Management for Agile Success
 description: Evidence-based management uses data-driven decisions to help organisations achieve business outcomes, adapt to market changes, and maximise value beyond agile processes.
 date: 2024-01-26T07:00:25Z
-weight: 790
 ResourceId: VkTnZmJGf98
-ResourceImport: true
 ResourceType: videos
-slug: evidence-based-management-the-key-to-agile-success
-aliases:
-- /resources/VkTnZmJGf98
-- /resources/videos/evidence-based-management-the-key-to-agile-success
-- /resources/videos/why-evidence-based-management-how-has-it-improved-agile
-aliasesArchive:
-- /resources/videos/evidence-based-management-the-key-to-agile-success
-- /resources/evidence-based-management-the-key-to-agile-success
-- /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
-- /resources/why-evidence-based-management-how-has-it-improved-agile-
-- /resources/videos/why-evidence-based-management-how-has-it-improved-agile
-- evidence-based-management-the-key-to-agile-success
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
 concepts:
 - Tenet
 categories:
@@ -39,22 +27,34 @@ tags:
 - Agile Transformation
 - Enterprise Agility
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: VkTnZmJGf98
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/VkTnZmJGf98/maxresdefault.jpg
-duration: 323
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:12Z
   short_title: 2025-07-07T17:50:05Z
+title: 'Evidence-Based Management: The Key to Agile Success'
+videoId: VkTnZmJGf98
+source: internal
+url: /resources/videos/:slug
+slug: evidence-based-management-the-key-to-agile-success
+layout: video
+aliases:
+- /resources/VkTnZmJGf98
+- /resources/videos/evidence-based-management-the-key-to-agile-success
+- /resources/videos/why-evidence-based-management-how-has-it-improved-agile
+aliasesArchive:
+- /resources/videos/evidence-based-management-the-key-to-agile-success
+- /resources/evidence-based-management-the-key-to-agile-success
+- /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
+- /resources/why-evidence-based-management-how-has-it-improved-agile-
+- /resources/videos/why-evidence-based-management-how-has-it-improved-agile
+- evidence-based-management-the-key-to-agile-success
+preview: https://i.ytimg.com/vi/VkTnZmJGf98/maxresdefault.jpg
+duration: 323
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the world of [agile transformation]({{< ref "/tags/agile-transformation" >}}), it’s easy to get caught up in the methods, frameworks, and terminology. But the real question is: Are these changes actually making your organization more successful? That’s where evidence-based management (EBM) comes in. Instead of focusing on delivering agile for the sake of agile, we need to turn our attention to **achieving business success**—with agile as a tool to help us get there.

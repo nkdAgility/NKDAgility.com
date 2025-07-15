@@ -1,13 +1,31 @@
 ---
-title: "Navigating Team Conflict: How Scrum Masters Can Prevent 'War' in Agile Projects"
 short_title: Scrum Master Strategies for Team Conflict
 description: Explores how Scrum Masters can identify, manage, and prevent destructive team conflict in Agile projects, promoting healthy collaboration and effective communication.
 date: 2023-10-30T14:30:10Z
-weight: 640
 ResourceId: Wk0no7MB0AM
-ResourceImport: true
 ResourceType: videos
-slug: navigating-team-conflict-how-scrum-masters-can-prevent-'war'-in-agile-projects
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Scrum Master
+- Scrum Team
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:14Z
+  short_title: 2025-07-07T17:52:00Z
+title: "Navigating Team Conflict: How Scrum Masters Can Prevent 'War' in Agile Projects"
+videoId: Wk0no7MB0AM
+source: youtube
+url: /resources/videos/:slug
+slug: navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
+layout: video
 aliases:
 - /resources/Wk0no7MB0AM
 - /resources/videos/navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
@@ -19,29 +37,11 @@ aliasesArchive:
 - /resources/war!-7-harbingers-agile-apocalypse-but-shorter!
 - /resources/videos/war-7-harbingers-agile-apocalypse-but-shorter
 - navigating-team-conflict-how-scrum-masters-can-prevent-war-in-agile-projects-Wk0no7MB0AM
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Scrum Master
-- Scrum Team
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Wk0no7MB0AM
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:08:14Z
-  short_title: 2025-07-07T17:52:00Z
+isShort: true
 
 ---
 In my journey through the world of Agile, I've often encountered various signs that indicate when teams are veering off course. One of the most alarming of these signs is what I like to call "war"—a manifestation of team conflict that can derail even the most promising projects. 

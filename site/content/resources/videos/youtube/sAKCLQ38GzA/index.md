@@ -1,22 +1,12 @@
 ---
-title: Does 'starting with why' - Simon Sinek - really matter?
 short_title: Does 'Starting with Why' Matter in Agile?
 description: Explores how defining purpose and starting with 'why' boosts motivation, engagement, and success in Agile teams, drawing on insights from Simon Sinek and Dan Pink.
 date: 2023-10-19T08:22:23Z
-weight: 1000
 ResourceId: sAKCLQ38GzA
-ResourceImport: true
 ResourceType: videos
-slug: does-'starting-with-why'-simon-sinek-really-matter
-aliases:
-- /resources/sAKCLQ38GzA
-- /resources/videos/does-starting-with-why-simon-sinek-really-matter
-aliasesArchive:
-- /resources/videos/does-starting-with-why-simon-sinek-really-matter
-- /resources/does-starting-with-why-simon-sinek-really-matter
-- /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
-- /resources/does-'starting-with-why'-simon-sinek-really-matter-
-- does-starting-with-why-simon-sinek-really-matter
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Strategy
 categories:
@@ -26,22 +16,32 @@ tags:
 - Agile Philosophy
 - Organisational Agility
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: sAKCLQ38GzA
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/sAKCLQ38GzA/maxresdefault.jpg
-duration: 602
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:08:39Z
   short_title: 2025-07-07T17:52:19Z
+title: Does 'starting with why' - Simon Sinek - really matter?
+videoId: sAKCLQ38GzA
+source: internal
+url: /resources/videos/:slug
+slug: does-starting-with-why-simon-sinek-really-matter
+layout: video
+aliases:
+- /resources/sAKCLQ38GzA
+- /resources/videos/does-starting-with-why-simon-sinek-really-matter
+aliasesArchive:
+- /resources/videos/does-starting-with-why-simon-sinek-really-matter
+- /resources/does-starting-with-why-simon-sinek-really-matter
+- /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
+- /resources/does-'starting-with-why'-simon-sinek-really-matter-
+- does-starting-with-why-simon-sinek-really-matter
+preview: https://i.ytimg.com/vi/sAKCLQ38GzA/maxresdefault.jpg
+duration: 602
+resourceTypes:
+- video
+isShort: false
 
 ---
 **The Power of Purpose: How 'Start with Why' Drives Agile Success** 

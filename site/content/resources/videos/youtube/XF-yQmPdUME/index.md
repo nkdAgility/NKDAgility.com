@@ -1,26 +1,12 @@
 ---
-title: "Product Ownership vs. Product Management: Busting the Myth That They're Separate Roles"
 short_title: Product Ownership vs Product Management Explained
 description: Explains why product ownership and product management are deeply connected in Scrum, clarifying their roles, focus on value delivery, and the need for agile adaptation.
 date: 2024-08-01T06:45:01Z
-weight: 750
 ResourceId: XF-yQmPdUME
-ResourceImport: true
 ResourceType: videos
-slug: product-ownership-vs-product-management-busting-the-myth-that-they're-separate-roles
-aliases:
-- /resources/XF-yQmPdUME
-- /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
-- /resources/videos/the-product-owners-role-in-maximizing-value
-- /resources/videos/product-ownership-vs.-product-management-busting-the-myth-that-they-re-separate-roles
-aliasesArchive:
-- /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
-- /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
-- /resources/videos/the-product-owner's-role-in-maximizing-value
-- /resources/the-product-owner's-role-in-maximizing-value
-- /resources/videos/the-product-owners-role-in-maximizing-value
-- product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
-- /resources/videos/product-ownership-vs.-product-management-busting-the-myth-that-they-re-separate-roles
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 750
 concepts:
 - Strategy
 categories:
@@ -40,22 +26,35 @@ tags:
 - Organisational Agility
 - Agile Strategy
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: XF-yQmPdUME
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/XF-yQmPdUME/maxresdefault.jpg
-duration: 601
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:20Z
   short_title: 2025-07-07T17:48:46Z
+title: "Product Ownership vs. Product Management: Busting the Myth That They're Separate Roles"
+videoId: XF-yQmPdUME
+source: internal
+url: /resources/videos/:slug
+slug: product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+layout: video
+aliases:
+- /resources/XF-yQmPdUME
+- /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+- /resources/videos/the-product-owners-role-in-maximizing-value
+aliasesArchive:
+- /resources/videos/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+- /resources/product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+- /resources/videos/the-product-owner's-role-in-maximizing-value
+- /resources/the-product-owner's-role-in-maximizing-value
+- /resources/videos/the-product-owners-role-in-maximizing-value
+- product-ownership-vs-product-management-busting-the-myth-that-theyre-separate-roles
+- /resources/videos/product-ownership-vs.-product-management-busting-the-myth-that-they-re-separate-roles
+preview: https://i.ytimg.com/vi/XF-yQmPdUME/maxresdefault.jpg
+duration: 601
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), there’s often a misconception that product ownership and [product management]({{< ref "/categories/product-management" >}}) are two distinct roles. This idea couldn’t be further from the truth. In reality, effective product ownership is fundamentally a form of product management. Let’s dive deeper into why these roles are intertwined and how understanding this can maximize the value delivered by your Scrum teams.

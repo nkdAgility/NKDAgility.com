@@ -1,24 +1,12 @@
 ---
-title: 'The Key to a Kanban Strategy: Understanding WIP Limits'
 short_title: 'Kanban WIP Limits: Managing Workflow Effectively'
 description: Explains how setting and adjusting Work-In-Progress (WIP) limits in Kanban helps teams manage workflow, prevent bottlenecks, and improve productivity and collaboration.
 date: 2024-03-06T07:00:17Z
-weight: 1000
 ResourceId: Ir8QiX7eAHU
-ResourceImport: true
 ResourceType: videos
-slug: the-key-to-a-kanban-strategy-understanding-wip-limits
-aliases:
-- /resources/Ir8QiX7eAHU
-- /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
-- /resources/videos/wip-limits-what-critical-factors-affect-them
-aliasesArchive:
-- /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
-- /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
-- /resources/videos/wip-limits!-what-critical-factors-affect-them-
-- /resources/wip-limits!-what-critical-factors-affect-them-
-- /resources/videos/wip-limits-what-critical-factors-affect-them
-- the-key-to-a-kanban-strategy-understanding-wip-limits
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Practice
 categories:
@@ -30,22 +18,34 @@ tags:
 - Throughput
 - Agile Frameworks
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Ir8QiX7eAHU
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/Ir8QiX7eAHU/maxresdefault.jpg
-duration: 464
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:27Z
   short_title: 2025-07-07T17:49:30Z
+title: 'The Key to a Kanban Strategy: Understanding WIP Limits'
+videoId: Ir8QiX7eAHU
+source: internal
+url: /resources/videos/:slug
+slug: the-key-to-a-kanban-strategy-understanding-wip-limits
+layout: video
+aliases:
+- /resources/Ir8QiX7eAHU
+- /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
+- /resources/videos/wip-limits-what-critical-factors-affect-them
+aliasesArchive:
+- /resources/videos/the-key-to-a-kanban-strategy-understanding-wip-limits
+- /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
+- /resources/videos/wip-limits!-what-critical-factors-affect-them-
+- /resources/wip-limits!-what-critical-factors-affect-them-
+- /resources/videos/wip-limits-what-critical-factors-affect-them
+- the-key-to-a-kanban-strategy-understanding-wip-limits
+preview: https://i.ytimg.com/vi/Ir8QiX7eAHU/maxresdefault.jpg
+duration: 464
+resourceTypes:
+- video
+isShort: false
 
 ---
 One of the most critical components of a successful **[Kanban]({{< ref "/categories/kanban" >}}) strategy** is setting **Work-In-Progress (WIP) limits**. Without WIP limits, you simply do not have a proper Kanban strategy. In this post, we'll explore the importance of WIP limits, how to determine the right limits for your team, and share some personal experiences and advice to help you optimize your workflow.

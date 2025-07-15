@@ -1,18 +1,34 @@
 ---
-title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
 short_title: 'DevOps Is More Than Tools: Embracing Its Value'
 description: Explains why DevOps is a mindset focused on collaboration and continuous improvement, not just tools, and highlights its true value in modern software development practices.
 date: 2023-06-07T07:00:02Z
-weight: 480
 ResourceId: BhGThHrOc8Y
-ResourceImport: true
 ResourceType: videos
-slug: devops-demystified-why-it's-more-than-just-tools-and-how-to-embrace-its-true-value
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 480
+concepts: []
+categories:
+- DevOps
+tags:
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:11:49Z
+  short_title: 2025-07-07T17:54:48Z
+title: "DevOps Demystified: Why It's More Than Just Tools and How to Embrace Its True Value"
+videoId: BhGThHrOc8Y
+source: youtube
+url: /resources/videos/:slug
+slug: devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
+layout: video
 aliases:
 - /resources/BhGThHrOc8Y
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
-- /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
 aliasesArchive:
 - /resources/videos/devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
@@ -21,28 +37,11 @@ aliasesArchive:
 - devops-demystified-why-its-more-than-just-tools-and-how-to-embrace-its-true-value
 - /resources/videos/people-drive-solutions-tools-just-pave-the-way-agile-and-devops-are-about-people-not-tools
 - /resources/videos/devops-demystified-why-it-s-more-than-just-tools-and-how-to-embrace-its-true-value
-concepts: []
-categories:
-- DevOps
-tags:
-- Software Development
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: BhGThHrOc8Y
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:11:49Z
-  short_title: 2025-07-07T17:54:48Z
+isShort: false
 
 ---
 When I think about [DevOps]({{< ref "/categories/devops" >}}), I often find myself reflecting on the misconceptions that surround it. As someone who has been a Microsoft MVP in [Azure DevOps]({{< ref "/tags/azure-devops" >}}) for 14 years, I’ve seen firsthand how the term "DevOps" can be misinterpreted. Many people, when they mention DevOps in my presence, are actually referring to Azure DevOps—the tools that come with it. But let me be clear: the tool is not the value. The tool is merely a means to surface or leverage the value that comes from the underlying idea of DevOps.

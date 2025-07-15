@@ -1,23 +1,12 @@
 ---
-title: 5 tools that Scrum Masters love. Part 1
 short_title: '5 Tools Scrum Masters Love: Liberating Structures'
 description: Discover how Scrum Masters use liberating structures to boost team engagement, improve meetings, and drive effective collaboration in Agile and Scrum environments.
 date: 2023-09-14T07:00:08Z
-weight: 840
 ResourceId: Ce5pFwG5IAY
-ResourceImport: true
 ResourceType: videos
-slug: 5-tools-that-scrum-masters-love-part-1
-aliases:
-- /resources/Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love.-part-1
-aliasesArchive:
-- /resources/videos/-tools-that-scrum-masters-love-part-
-- /resources/videos/5-tools-that-scrum-masters-love-part-1
-- /resources/5-tools-that-scrum-masters-love-part-1
-- 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
-- /resources/videos/5-tools-that-scrum-masters-love.-part-1
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 840
 concepts:
 - Tool
 categories:
@@ -29,22 +18,32 @@ tags:
 - Social Technologies
 - Software Development
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Ce5pFwG5IAY
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg
-duration: 43
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:09:31Z
   short_title: 2025-07-07T17:53:04Z
+title: 5 tools that Scrum Masters love. Part 1
+videoId: Ce5pFwG5IAY
+source: internal
+url: /resources/videos/:slug
+slug: 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+layout: video
+aliases:
+- /resources/Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+aliasesArchive:
+- /resources/videos/-tools-that-scrum-masters-love-part-
+- /resources/videos/5-tools-that-scrum-masters-love-part-1
+- /resources/5-tools-that-scrum-masters-love-part-1
+- 5-tools-that-scrum-masters-love-part-1-Ce5pFwG5IAY
+- /resources/videos/5-tools-that-scrum-masters-love.-part-1
+preview: https://i.ytimg.com/vi/Ce5pFwG5IAY/maxresdefault.jpg
+duration: 43
+resourceTypes:
+- video
+isShort: true
 
 ---
 **[Scrum]({{< ref "/categories/scrum" >}}) Masters: Unlocking the Power of [Liberating Structures]({{< ref "/tags/liberating-structures" >}}) 🚀** 

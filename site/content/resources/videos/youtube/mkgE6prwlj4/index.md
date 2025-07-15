@@ -1,13 +1,30 @@
 ---
-title: What is the best application of Scrum in the world?
 short_title: 'Best Scrum Application: Microsoft Azure DevOps'
 description: Highlights how Microsoft’s Azure DevOps team used Scrum to transform their workflow, cut build times from 20 hours to 3.5 minutes, and deliver greater customer value.
 date: 2023-05-26T07:00:16Z
-weight: 630
 ResourceId: mkgE6prwlj4
-ResourceImport: true
 ResourceType: videos
-slug: what-is-the-best-application-of-scrum-in-the-world
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 630
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Software Development
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:10Z
+  short_title: 2025-07-07T17:55:02Z
+title: What is the best application of Scrum in the world?
+videoId: mkgE6prwlj4
+source: internal
+url: /resources/videos/:slug
+slug: what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
+layout: video
 aliases:
 - /resources/mkgE6prwlj4
 - /resources/videos/what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
@@ -21,28 +38,11 @@ aliasesArchive:
 - /resources/best-application-of-scrum-in-the-world-
 - /resources/videos/best-application-of-scrum-in-the-world
 - what-is-the-best-application-of-scrum-in-the-world-mkgE6prwlj4
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Software Development
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: mkgE6prwlj4
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/mkgE6prwlj4/maxresdefault.jpg
 duration: 55
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:12:10Z
-  short_title: 2025-07-07T17:55:02Z
+isShort: true
 
 ---
 ## Spotlight on Outstanding [Scrum]({{< ref "/categories/scrum" >}}) Application

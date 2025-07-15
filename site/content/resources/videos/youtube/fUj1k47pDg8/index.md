@@ -1,22 +1,12 @@
 ---
-title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
 short_title: Unpacking Assumptions in Product Development
 description: Learn how to identify and challenge assumptions in product development, avoid the feature factory trap, and use discovery, experimentation, and validation to meet real user needs.
 date: 2024-08-13T07:14:40Z
-weight: 680
 ResourceId: fUj1k47pDg8
-ResourceImport: true
 ResourceType: videos
-slug: unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
-aliases:
-- /resources/fUj1k47pDg8
-- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
-- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
-aliasesArchive:
-- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
-- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
-- /resources/ppdv-course-overview-with-dr-joanna-plaskonka
-- unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 680
 concepts: []
 categories:
 - Product Development
@@ -26,22 +16,32 @@ tags:
 - Product Discovery
 - Product Validation
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: fUj1k47pDg8
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
-duration: 355
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:02:11Z
   short_title: 2025-07-07T17:48:36Z
+title: 'Unpacking Assumptions: How to Elevate Your Product Development Beyond the Feature Factory'
+videoId: fUj1k47pDg8
+source: youtube
+url: /resources/videos/:slug
+slug: unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+layout: video
+aliases:
+- /resources/fUj1k47pDg8
+- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
+aliasesArchive:
+- /resources/videos/unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+- /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
+- /resources/ppdv-course-overview-with-dr-joanna-plaskonka
+- unpacking-assumptions-how-to-elevate-your-product-development-beyond-the-feature-factory
+preview: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
+duration: 355
+resourceTypes:
+- video
+isShort: false
 
 ---
 Let’s dive into a topic that’s been on my mind lately: the importance of addressing assumptions in [product development]({{< ref "/categories/product-development" >}}). As I’ve observed in various organisations, there’s often a heavy focus on delivery—specifically, the creation of product increments. While this is undoubtedly a crucial goal, I believe we’re missing a vital piece of the puzzle: the complex problems we’re trying to solve along the way.

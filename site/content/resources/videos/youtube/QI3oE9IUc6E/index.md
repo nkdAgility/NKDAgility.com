@@ -1,13 +1,33 @@
 ---
-title: How effectively does an APS prepare a team to do a solid, professional Scrum?
 short_title: How APS Prepares Teams for Professional Scrum
 description: Explains how Applied Professional Scrum (APS) helps teams master Scrum by focusing on fundamentals, removing unhelpful practices, and enabling effective agile transformation.
 date: 2023-08-12T07:00:10Z
-weight: 665
 ResourceId: QI3oE9IUc6E
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 665
+concepts: []
+categories:
+- Scrum
+- Product Development
+tags:
+- Agile Frameworks
+- Software Development
+- Professional Scrum
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:10:13Z
+  short_title: 2025-07-07T17:53:33Z
+title: How effectively does an APS prepare a team to do a solid, professional Scrum?
+videoId: QI3oE9IUc6E
+source: internal
+url: /resources/videos/:slug
 slug: how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
+layout: video
 aliases:
 - /resources/QI3oE9IUc6E
 - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
@@ -21,31 +41,11 @@ aliasesArchive:
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
 - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
 - how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
-concepts: []
-categories:
-- Scrum
-- Product Development
-tags:
-- Agile Frameworks
-- Software Development
-- Professional Scrum
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: QI3oE9IUc6E
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/QI3oE9IUc6E/maxresdefault.jpg
 duration: 315
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:10:13Z
-  short_title: 2025-07-07T17:53:33Z
+isShort: false
 
 ---
 ## The APS Advantage: Exploring Professional [Scrum]({{< ref "/categories/scrum" >}}) Mastery

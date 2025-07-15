@@ -1,26 +1,13 @@
 ---
-title: 'Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions'
 short_title: VSTS Sync Migration Tools for TFS to VSTS
 description: Learn how to use VSTS sync migration tools for flexible, selective TFS to VSTS migrations, including setup, configuration, field mapping, and community support.
 date: 2017-12-30T18:57:40Z
-weight: 1000
 ResourceId: ZxDktQae10M
-ResourceImport: true
 ResourceType: videos
-slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
-aliases:
-- /resources/ZxDktQae10M
-ResourceContentOrigin: AI
+ResourceImport: true
 ResourceImportSource: Youtube
-videoId: ZxDktQae10M
-url: /resources/videos/:slug
-layout: video
-aliasesArchive:
-- /resources/videos/-vsts-sync-migration-tools-overview
-- /resources/videos/2018-vsts-sync-migration-tools-overview
-- /resources/2018-vsts-sync-migration-tools-overview
-- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
-- mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+weight: 1000
+ResourceContentOrigin: AI
 concepts:
 - Tool
 categories:
@@ -28,18 +15,33 @@ categories:
 tags:
 - Install and Configuration
 - Azure DevOps
-preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
-duration: 1977
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:16:23Z
   short_title: 2025-07-07T17:58:39Z
+title: 'Mastering VSTS Sync Migration Tools: Your Ultimate Guide to Seamless TFS to VSTS Transitions'
+videoId: ZxDktQae10M
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+layout: video
+aliases:
+- /resources/ZxDktQae10M
+- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+- /resources/videos/2018-vsts-sync-migration-tools-overview
+aliasesArchive:
+- /resources/videos/-vsts-sync-migration-tools-overview
+- /resources/videos/2018-vsts-sync-migration-tools-overview
+- /resources/2018-vsts-sync-migration-tools-overview
+- /resources/videos/mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+- mastering-vsts-sync-migration-tools-your-ultimate-guide-to-seamless-tfs-to-vsts-transitions
+preview: https://i.ytimg.com/vi/ZxDktQae10M/maxresdefault.jpg
+duration: 1977
+resourceTypes:
+- video
+isShort: false
 
 ---
 My name is Martin Hinshelwood, and I work for Naked Agility in Scotland, where we specialise in digital transformations, [DevOps]({{< ref "/categories/devops" >}}), and agile methodologies for a variety of clients. Today, I want to share my insights on the VSTS sync migration tools, a topic that has garnered much interest in our community. 

@@ -1,22 +1,12 @@
 ---
-title: What is the most common Aha moment people have in a scrum course?
 short_title: Most Common Aha Moment in Scrum Courses
 description: Most people in scrum courses realise the true value of empiricism and purpose behind scrum’s events and artefacts, shifting from rote process to meaningful, high-performance teamwork.
 date: 2023-03-03T07:15:03Z
-weight: 790
 ResourceId: klBiNFvxuy0
-ResourceImport: true
 ResourceType: videos
-slug: what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
-aliases:
-- /resources/klBiNFvxuy0
-- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
-aliasesArchive:
-- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
-- /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
-- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
-- /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
-- what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
 concepts:
 - Principle
 categories:
@@ -26,22 +16,32 @@ tags:
 - Professional Scrum
 - Agile Frameworks
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: klBiNFvxuy0
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg
-duration: 301
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:13:50Z
   short_title: 2025-07-07T17:56:33Z
+title: What is the most common Aha moment people have in a scrum course?
+videoId: klBiNFvxuy0
+source: internal
+url: /resources/videos/:slug
+slug: what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+layout: video
+aliases:
+- /resources/klBiNFvxuy0
+- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+aliasesArchive:
+- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+- /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+- /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
+- /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
+- what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
+preview: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg
+duration: 301
+resourceTypes:
+- video
+isShort: false
 
 ---
 What is the most common Aha moment people have in a [scrum]({{< ref "/categories/scrum" >}}) course?

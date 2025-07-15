@@ -1,13 +1,34 @@
 ---
-title: Why 'Definition of Done' is Crucial for Success in Scrum
 short_title: 'Definition of Done in Scrum: Importance & Benefits'
 description: Explains how a clear Definition of Done in Scrum ensures consistent quality, team alignment, and customer satisfaction across all projects, regardless of the solution.
 date: 2023-11-14T07:00:30Z
-weight: 840
 ResourceId: syzFdEP1Eso
-ResourceImport: true
 ResourceType: videos
-slug: why-'definition-of-done'-is-crucial-for-success-in-scrum
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 840
+concepts:
+- Artifact
+categories:
+- Product Development
+- Scrum
+tags:
+- Definition of Done
+- Working Software
+- Product Delivery
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:07:54Z
+  short_title: 2025-07-07T17:51:47Z
+title: Why 'Definition of Done' is Crucial for Success in Scrum
+videoId: syzFdEP1Eso
+source: internal
+url: /resources/videos/:slug
+slug: why-definition-of-done-is-crucial-for-success-in-scrum
+layout: video
 aliases:
 - /resources/syzFdEP1Eso
 - /resources/videos/why-definition-of-done-is-crucial-for-success-in-scrum
@@ -19,32 +40,11 @@ aliasesArchive:
 - /resources/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 - /resources/videos/how-do-you-define-a-definition-of-done-if-you-arent-100-sure-what-the-solution-is
 - why-definition-of-done-is-crucial-for-success-in-scrum
-concepts:
-- Artifact
-categories:
-- Product Development
-- Scrum
-tags:
-- Definition of Done
-- Working Software
-- Product Delivery
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: syzFdEP1Eso
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/syzFdEP1Eso/maxresdefault.jpg
 duration: 352
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:07:54Z
-  short_title: 2025-07-07T17:51:47Z
+isShort: false
 
 ---
 When we talk about [Scrum]({{< ref "/categories/scrum" >}}), one of the most critical elements that often gets overlooked is the **[Definition of Done]({{< ref "/tags/definition-of-done" >}})**. It's one of those terms that seem straightforward on the surface, but once you dig into it, there's a lot more than meets the eye. Today, we’ll explore why the Definition of Done is crucial, how it’s independent of the solution you're working on, and how it can be applied universally to different projects—whether you're developing software or running a bakery!

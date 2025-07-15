@@ -1,22 +1,12 @@
 ---
-title: Why did so many of the early agile transformations fail?
 short_title: Why Early Agile Transformations Failed
 description: Early agile transformations often failed due to top-down decisions, lack of team involvement, and misalignment between leadership and those doing the work.
 date: 2023-02-06T07:00:02Z
-weight: 750
 ResourceId: 8nQ0VJ1CdqU
-ResourceImport: true
 ResourceType: videos
-slug: why-did-so-many-of-the-early-agile-transformations-fail
-aliases:
-- /resources/8nQ0VJ1CdqU
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
-aliasesArchive:
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail
-- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
-- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
-- why-did-so-many-of-the-early-agile-transformations-fail
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 750
 concepts: []
 categories:
 - Product Development
@@ -34,22 +24,32 @@ tags:
 - Sociotechnical Systems
 - Beta Codex
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 8nQ0VJ1CdqU
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
-duration: 231
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:14:14Z
   short_title: 2025-07-07T17:56:53Z
+title: Why did so many of the early agile transformations fail?
+videoId: 8nQ0VJ1CdqU
+source: internal
+url: /resources/videos/:slug
+slug: why-did-so-many-of-the-early-agile-transformations-fail
+layout: video
+aliases:
+- /resources/8nQ0VJ1CdqU
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
+aliasesArchive:
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail
+- /resources/why-did-so-many-of-the-early-agile-transformations-fail
+- /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
+- /resources/why-did-so-many-of-the-early-agile-transformations-fail-
+- why-did-so-many-of-the-early-agile-transformations-fail
+preview: https://i.ytimg.com/vi/8nQ0VJ1CdqU/maxresdefault.jpg
+duration: 231
+resourceTypes:
+- video
+isShort: false
 
 ---
 Why did so many of the early agile transformations fail?

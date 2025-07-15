@@ -1,13 +1,30 @@
 ---
-title: 'Unlocking Team Potential: Why Every Scrum Master Needs a Quality Camera for Effective Engagement'
 short_title: Why Scrum Masters Need Quality Cameras
 description: Explains how a quality camera helps Scrum Masters boost team engagement, read body language, and foster better communication in remote meetings through clear visuals.
 date: 2023-09-21T07:00:14Z
-weight: 1000
 ResourceId: gWTCvlUzSZo
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Uncategorized
+tags:
+- Team Collaboration
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:23Z
+  short_title: 2025-07-07T17:52:58Z
+title: 'Unlocking Team Potential: Why Every Scrum Master Needs a Quality Camera for Effective Engagement'
+videoId: gWTCvlUzSZo
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
+layout: video
 aliases:
 - /resources/gWTCvlUzSZo
 - /resources/videos/unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
@@ -18,28 +35,11 @@ aliasesArchive:
 - /resources/videos/5-tools-that-scrum-masters-love-part-3
 - /resources/5-tools-that-scrum-masters-love-part-3
 - unlocking-team-potential-why-every-scrum-master-needs-a-quality-camera-for-effective-engagement-gWTCvlUzSZo
-concepts: []
-categories:
-- Uncategorized
-tags:
-- Team Collaboration
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: gWTCvlUzSZo
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/gWTCvlUzSZo/maxresdefault.jpg
 duration: 45
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:09:23Z
-  short_title: 2025-07-07T17:52:58Z
+isShort: true
 
 ---
 As a [Scrum]({{< ref "/categories/scrum" >}}) Master, I’ve often found myself reflecting on the tools and techniques that enhance our interactions with teams. One of the most underrated yet impactful tools in our arsenal is, surprisingly, a good camera. You might be wondering, “What’s the big deal about cameras?” Well, let me share my thoughts and experiences on this topic.

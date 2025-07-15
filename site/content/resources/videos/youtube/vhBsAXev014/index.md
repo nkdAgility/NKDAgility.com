@@ -1,25 +1,12 @@
 ---
-title: 7 Harbingers of the Agile apocalypse - Chaos
 short_title: 'Agile Chaos: Causes and Solutions'
 description: Explores how chaos arises in agile transformations due to unclear vision and poor communication, and offers strategies for restoring alignment, clarity, and effective teamwork.
 date: 2023-10-23T07:00:21Z
-weight: 665
 ResourceId: vhBsAXev014
-ResourceImport: true
 ResourceType: videos
-slug: 7-harbingers-of-the-agile-apocalypse-chaos
-aliases:
-- /resources/vhBsAXev014
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-chaos
-- /resources/videos/chaos-7-harbingers-agile-apocalypse
-aliasesArchive:
-- /resources/videos/-harbingers-of-the-agile-apocalypse-chaos
-- /resources/videos/7-harbingers-of-the-agile-apocalypse-chaos
-- /resources/7-harbingers-of-the-agile-apocalypse-chaos
-- /resources/videos/chaos!-7-harbingers-agile-apocalypse
-- /resources/chaos!-7-harbingers-agile-apocalypse
-- /resources/videos/chaos-7-harbingers-agile-apocalypse
-- 7-harbingers-of-the-agile-apocalypse-chaos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 665
 concepts:
 - Ethos
 categories:
@@ -33,22 +20,35 @@ tags:
 - Organisational Agility
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: vhBsAXev014
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg
-duration: 525
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:08:30Z
   short_title: 2025-07-07T17:52:13Z
+title: 7 Harbingers of the Agile apocalypse - Chaos
+videoId: vhBsAXev014
+source: internal
+url: /resources/videos/:slug
+slug: 7-harbingers-of-the-agile-apocalypse-chaos
+layout: video
+aliases:
+- /resources/vhBsAXev014
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-chaos
+- /resources/videos/chaos-7-harbingers-agile-apocalypse
+aliasesArchive:
+- /resources/videos/-harbingers-of-the-agile-apocalypse-chaos
+- /resources/videos/7-harbingers-of-the-agile-apocalypse-chaos
+- /resources/7-harbingers-of-the-agile-apocalypse-chaos
+- /resources/videos/chaos!-7-harbingers-agile-apocalypse
+- /resources/chaos!-7-harbingers-agile-apocalypse
+- /resources/videos/chaos-7-harbingers-agile-apocalypse
+- 7-harbingers-of-the-agile-apocalypse-chaos
+preview: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg
+duration: 525
+resourceTypes:
+- video
+isShort: false
 
 ---
 # Steering Through the Agile Apocalypse: Navigating Chaos 🌪️

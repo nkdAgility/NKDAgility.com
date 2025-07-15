@@ -1,24 +1,12 @@
 ---
-title: 'Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive Bias'
 short_title: Immersive Learning in Agile to Overcome Bias
 description: Explores how immersive learning in Agile and Scrum helps overcome cognitive bias, promotes hands-on practice, and supports continuous improvement for practitioners.
 date: 2024-02-05T07:00:03Z
-weight: 1000
 ResourceId: C8a_-zn1Wsc
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
-aliases:
-- /resources/C8a_-zn1Wsc
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias-C8a_-zn1Wsc
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
-aliasesArchive:
-- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
-- /resources/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
-- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
-- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
-- unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias-C8a_-zn1Wsc
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Product Development
@@ -34,22 +22,34 @@ tags:
 - Continuous Improvement
 - Agile Philosophy
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: C8a_-zn1Wsc
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/C8a_-zn1Wsc/maxresdefault.jpg
-duration: 48
-isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:59Z
   short_title: 2025-07-07T17:49:56Z
+title: 'Unlocking the Power of Immersive Learning in Agile: Overcoming Cognitive Bias'
+videoId: C8a_-zn1Wsc
+source: internal
+url: /resources/videos/:slug
+slug: unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias-C8a_-zn1Wsc
+layout: video
+aliases:
+- /resources/C8a_-zn1Wsc
+- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias-C8a_-zn1Wsc
+- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
+aliasesArchive:
+- /resources/videos/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
+- /resources/unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias
+- /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
+- /resources/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-1
+- unlocking-the-power-of-immersive-learning-in-agile-overcoming-cognitive-bias-C8a_-zn1Wsc
+preview: https://i.ytimg.com/vi/C8a_-zn1Wsc/maxresdefault.jpg
+duration: 48
+resourceTypes:
+- video
+isShort: true
 
 ---
 In the ever-evolving world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one of the most valuable approaches to mastering the methodologies is immersive learning. It’s a technique that not only sharpens your understanding but also combats the cognitive biases we unknowingly harbor. As Agile practitioners, we often think we know more than we do about the framework. Immersive learning helps dismantle that illusion, forcing us to confront the reality of how much we still have to discover.

@@ -1,22 +1,12 @@
 ---
-title: How is agile product development different to waterfall project management?
 short_title: 'Agile vs Waterfall: Key Differences Explained'
 description: Compares agile product development and waterfall project management, highlighting differences in decision-making, delivery, customer collaboration, and adaptability.
 date: 2023-01-11T07:00:02Z
-weight: 840
 ResourceId: BE6E5tV8130
-ResourceImport: true
 ResourceType: videos
-slug: how-is-agile-product-development-different-to-waterfall-project-management
-aliases:
-- /resources/BE6E5tV8130
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
-aliasesArchive:
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management
-- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
-- /resources/how-is-agile-product-development-different-to-waterfall-project-management-
-- how-is-agile-product-development-different-to-waterfall-project-management
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 840
 concepts:
 - Principle
 categories:
@@ -29,22 +19,32 @@ tags:
 - Agile Transformation
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: BE6E5tV8130
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg
-duration: 385
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:14:33Z
   short_title: 2025-07-07T17:57:09Z
+title: How is agile product development different to waterfall project management?
+videoId: BE6E5tV8130
+source: internal
+url: /resources/videos/:slug
+slug: how-is-agile-product-development-different-to-waterfall-project-management
+layout: video
+aliases:
+- /resources/BE6E5tV8130
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
+aliasesArchive:
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management
+- /resources/how-is-agile-product-development-different-to-waterfall-project-management
+- /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
+- /resources/how-is-agile-product-development-different-to-waterfall-project-management-
+- how-is-agile-product-development-different-to-waterfall-project-management
+preview: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg
+duration: 385
+resourceTypes:
+- video
+isShort: false
 
 ---
 How is agile [product development]({{< ref "/categories/product-development" >}}) different to waterfall [project management]({{< ref "/tags/project-management" >}})?

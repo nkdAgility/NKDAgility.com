@@ -1,42 +1,44 @@
 ---
-title: 'Navigating Agile Learning: Embrace Change and Community in Uncertain Times'
 short_title: Navigating Agile Learning in Uncertain Times
 description: Explores adapting agile learning to remote environments, emphasising flexibility, flow, gamification, and community support during uncertain times.
 date: 2020-04-01T16:26:05Z
-weight: 1000
 ResourceId: xaLNCbr9o3Y
-ResourceImport: true
 ResourceType: videos
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+ResourceContentOrigin: AI
+concepts: []
+categories:
+- Uncategorized
+tags: []
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:15:55Z
+  short_title: 2025-07-07T17:58:15Z
+title: 'Navigating Agile Learning: Embrace Change and Community in Uncertain Times'
+videoId: xaLNCbr9o3Y
+source: youtube
+url: /resources/videos/:slug
 slug: navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+layout: video
 aliases:
 - /resources/xaLNCbr9o3Y
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: xaLNCbr9o3Y
-url: /resources/videos/:slug
-layout: video
+- /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
+- /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 aliasesArchive:
 - /resources/videos/ep-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/videos/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/ep-003-daniel-vacanti-on-live-online-psk-in-edinburgh
 - /resources/videos/navigating-agile-learning-embrace-change-and-community-in-uncertain-times
 - navigating-agile-learning-embrace-change-and-community-in-uncertain-times
-concepts: []
-categories:
-- Uncategorized
-tags: []
 preview: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg
 duration: 1162
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:15:55Z
-  short_title: 2025-07-07T17:58:15Z
+isShort: false
 
 ---
 As I sit down to write this post, I can't help but reflect on the current state of our world. With the ongoing pandemic, many of us find ourselves confined to our homes, grappling with the challenges of remote work and social distancing. It's a strange time, but it also presents an opportunity for growth and learning. Recently, I had the pleasure of chatting with Daniel Vacanti, a prominent figure in the [Kanban]({{< ref "/categories/kanban" >}}) community, about our upcoming Professional [Scrum]({{< ref "/categories/scrum" >}}) with Kanban class. I wanted to share some insights from our conversation and how they relate to the broader context of agile practices.

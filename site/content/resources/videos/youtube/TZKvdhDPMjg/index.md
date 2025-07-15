@@ -1,13 +1,29 @@
 ---
-title: One thing a client can do to ensure a successful Agile consulting engagement
 short_title: Ensuring Success in Agile Consulting Engagements
 description: Encouraging clients to embrace provocation and critical questioning helps drive mindset shifts, enabling more effective Agile consulting and lasting organisational change.
 date: 2023-05-05T07:00:10Z
-weight: 790
 ResourceId: TZKvdhDPMjg
-ResourceImport: true
 ResourceType: videos
-slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
+concepts: []
+categories:
+- Uncategorized
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:12:40Z
+  short_title: 2025-07-07T17:55:25Z
+title: One thing a client can do to ensure a successful Agile consulting engagement
+videoId: TZKvdhDPMjg
+source: internal
+url: /resources/videos/:slug
+slug: one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
+layout: video
 aliases:
 - /resources/TZKvdhDPMjg
 - /resources/videos/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
@@ -21,27 +37,11 @@ aliasesArchive:
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 - one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement-TZKvdhDPMjg
 - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
-concepts: []
-categories:
-- Uncategorized
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: TZKvdhDPMjg
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
 duration: 56
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:12:40Z
-  short_title: 2025-07-07T17:55:25Z
+isShort: true
 
 ---
 **One thing a client can do to ensure a successful Agile consulting engagement**

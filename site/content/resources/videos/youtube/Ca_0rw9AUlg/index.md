@@ -1,26 +1,12 @@
 ---
-title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus on the System, Not the Culture'
 short_title: Focus on System Change, Not Agile Transformation
 description: Explains why lasting organisational change comes from adjusting systems—rules, processes, and structures—rather than trying to directly transform culture.
 date: 2024-01-21T07:00:06Z
-weight: 1000
 ResourceId: Ca_0rw9AUlg
-ResourceImport: true
 ResourceType: videos
-slug: there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-aliases:
-- /resources/Ca_0rw9AUlg
-- /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
-- /resources/videos/there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-aliasesArchive:
-- /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
-- /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
-- /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
-- theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
-- /resources/videos/there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts: []
 categories:
 - Uncategorized
@@ -32,22 +18,35 @@ tags:
 - Sociotechnical Systems
 - Agile Philosophy
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: Ca_0rw9AUlg
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg
-duration: 195
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:06:24Z
   short_title: 2025-07-07T17:50:15Z
+title: 'There’s No Such Thing as an Agile Transformation: Why You Should Focus on the System, Not the Culture'
+videoId: Ca_0rw9AUlg
+source: internal
+url: /resources/videos/:slug
+slug: theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+layout: video
+aliases:
+- /resources/Ca_0rw9AUlg
+- /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+- /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
+aliasesArchive:
+- /resources/videos/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+- /resources/theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+- /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
+- /resources/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
+- /resources/videos/theres-no-such-thing-as-an-agile-transformation-its-a-culture-transformation-michael-sahota
+- theres-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+- /resources/videos/there-s-no-such-thing-as-an-agile-transformation-why-you-should-focus-on-the-system-not-the-culture
+preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg
+duration: 195
+resourceTypes:
+- video
+isShort: false
 
 ---
 Agile transformations are often heralded as the magical solution to organizational dysfunction, promising faster delivery, happier teams, and better outcomes. However, there's a quote that resonates deeply with many Agile professionals: “There’s no such thing as an [Agile transformation]({{< ref "/tags/agile-transformation" >}}), it’s a cultural transformation.”

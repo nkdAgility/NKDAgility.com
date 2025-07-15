@@ -1,22 +1,12 @@
 ---
-title: Are there any Scrum courses that teach you how to scale Scrum?
 short_title: Scrum Courses for Scaling Agile Frameworks
 description: Learn how to scale Scrum by tailoring frameworks to your organisation, focusing on dependency management, alignment, and iterative improvement for effective agile delivery.
 date: 2023-10-18T07:00:23Z
-weight: 640
 ResourceId: vubnDXYXiL0
-ResourceImport: true
 ResourceType: videos
-slug: are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
-aliases:
-- /resources/vubnDXYXiL0
-- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
-aliasesArchive:
-- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
-- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
-- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
-- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
-- are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 640
 concepts:
 - Method
 categories:
@@ -28,22 +18,32 @@ tags:
 - Software Development
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: vubnDXYXiL0
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg
-duration: 328
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:08:40Z
   short_title: 2025-07-07T17:52:20Z
+title: Are there any Scrum courses that teach you how to scale Scrum?
+videoId: vubnDXYXiL0
+source: internal
+url: /resources/videos/:slug
+slug: are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+layout: video
+aliases:
+- /resources/vubnDXYXiL0
+- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+aliasesArchive:
+- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
+- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
+- are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+preview: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg
+duration: 328
+resourceTypes:
+- video
+isShort: false
 
 ---
 # Tailoring [Scrum]({{< ref "/categories/scrum" >}}) to Scale: Building Your Own Framework for Success

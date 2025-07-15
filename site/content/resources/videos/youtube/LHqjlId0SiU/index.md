@@ -1,19 +1,12 @@
 ---
-title: Why Your Definition of Done Is the Secret Weapon Your Team Needs to Win
 short_title: Definition of Done as a Competitive Advantage
 description: Unlock your team's true potential—discover why a powerful definition of done drives real business impact, customer value, and lasting competitive advantage.
 date: 2025-07-16T06:45:00Z
-weight: 150
 ResourceId: LHqjlId0SiU
-ResourceImport: true
 ResourceType: videos
-slug: why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
-aliases:
-- /resources/LHqjlId0SiU
-- /resources/videos/11-redefining-done-why-it-changes-everything
-aliasesArchive:
-- /resources/videos/11-redefining-done-why-it-changes-everything
-- 11-redefining-done-why-it-changes-everything
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 150
 concepts:
 - Artifact
 categories:
@@ -36,16 +29,6 @@ tags:
 - Social Technologies
 - Agile Product Management
 - Agile Transformation
-videoId: LHqjlId0SiU
-ResourceImportSource: Youtube
-source: youtube
-url: /resources/videos/:slug
-layout: video
-preview: https://i9.ytimg.com/vi/LHqjlId0SiU/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBJllDiEgFFcBqbQftEd3ihBxtwMg
-duration: 66
-resourceTypes:
-- video
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
@@ -53,6 +36,26 @@ ResourceContentOrigin: ai
 Watermarks:
   description: 2025-05-07T18:57:16Z
   short_title: 2025-07-07T16:43:15Z
+title: Why Your Definition of Done Is the Secret Weapon Your Team Needs to Win
+videoId: LHqjlId0SiU
+source: youtube
+url: /resources/videos/:slug
+slug: why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
+layout: video
+aliases:
+- /resources/LHqjlId0SiU
+- /resources/videos/why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
+- /resources/videos/11-redefining-done-why-it-changes-everything
+aliasesArchive:
+- /resources/videos/11-redefining-done-why-it-changes-everything
+- 11-redefining-done-why-it-changes-everything
+- /resources/videos/why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
+- why-your-definition-of-done-is-the-secret-weapon-your-team-needs-to-win
+preview: https://i9.ytimg.com/vi/LHqjlId0SiU/maxresdefault.jpg?sqp=CJy47sAG&rs=AOn4CLBJllDiEgFFcBqbQftEd3ihBxtwMg
+duration: 66
+resourceTypes:
+- video
+isShort: false
 
 ---
 Most teams don’t fail because they can’t build. They fail because they don’t finish the right way. This is something I’ve seen time and again, whether I’m working with a start-up finding its feet or a global enterprise wrestling with legacy systems. The technical ability to build is rarely the problem. The real challenge is in finishing—properly, consistently, and in a way that actually moves the needle for the business.

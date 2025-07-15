@@ -1,23 +1,12 @@
 ---
-title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
 short_title: 'Product Owner Role: Bridging Theory & Practice'
 description: Explores the real-world challenges and expanded responsibilities of product owners, highlighting practical skills, agile leadership, and collaborative learning in organisations.
 date: 2023-06-09T07:00:27Z
-weight: 790
 ResourceId: vQBYdfLwJ3g
-ResourceImport: true
 ResourceType: videos
-slug: unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
-aliases:
-- /resources/vQBYdfLwJ3g
-- /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
-- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
-aliasesArchive:
-- /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
-- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
-- /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
-- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
-- unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
 concepts: []
 categories:
 - Product Development
@@ -28,22 +17,33 @@ tags:
 - Pragmatic Thinking
 - Product Owner
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: vQBYdfLwJ3g
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
-duration: 268
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-source: youtube
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:11:45Z
   short_title: 2025-07-07T17:54:44Z
+title: 'Unlocking the Product Owner Potential: Bridging Theory and Practice in Agile Leadership'
+videoId: vQBYdfLwJ3g
+source: youtube
+url: /resources/videos/:slug
+slug: unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+layout: video
+aliases:
+- /resources/vQBYdfLwJ3g
+- /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
+aliasesArchive:
+- /resources/videos/unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+- /resources/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
+- /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience
+- unlocking-the-product-owner-potential-bridging-theory-and-practice-in-agile-leadership
+preview: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg
+duration: 268
+resourceTypes:
+- video
+isShort: false
 
 ---
 As I reflect on the immersive learning experience of the [Product Owner]({{< ref "/tags/product-owner" >}}) (PO) role, I can't help but feel that it’s a perfect fit for the eight-week programme. Why? Because there’s a significant disconnect between how we teach the breadth of what a product owner is and does, and what people are actually trying to achieve in their organisations. 

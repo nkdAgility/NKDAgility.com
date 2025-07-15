@@ -1,18 +1,33 @@
 ---
-title: Scrum is like communism, it doesn't work. Myth 5.
 short_title: 'Scrum and Governance: Debunking the Myth'
 description: Explains why Scrum does not mean a lack of governance, highlighting the need for regulatory compliance and internal standards while maintaining Agile flexibility.
 date: 2023-10-26T07:00:29Z
-weight: 690
 ResourceId: kORUKHu-64A
-ResourceImport: true
 ResourceType: videos
-slug: scrum-is-like-communism-it-doesn't-work-myth-5
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 690
+concepts: []
+categories:
+- Product Development
+tags: []
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:08:20Z
+  short_title: 2025-07-07T17:52:05Z
+title: Scrum is like communism, it doesn't work. Myth 5.
+videoId: kORUKHu-64A
+source: internal
+url: /resources/videos/:slug
+slug: scrum-is-like-communism-it-doesnt-work-myth-5
+layout: video
 aliases:
 - /resources/kORUKHu-64A
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-balance-between-flexibility-compliance
-- /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
 aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5-
@@ -24,27 +39,11 @@ aliasesArchive:
 - /resources/videos/scrum-is-like-communism-it-doesnt-work-myth-5
 - scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesn-t-work.-myth-5.
-concepts: []
-categories:
-- Product Development
-tags: []
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: kORUKHu-64A
-source: internal
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
 duration: 235
-isShort: false
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:08:20Z
-  short_title: 2025-07-07T17:52:05Z
+isShort: false
 
 ---
 # [Scrum]({{< ref "/categories/scrum" >}}) and Governance: Navigating the Balance for Agile Success 🚀

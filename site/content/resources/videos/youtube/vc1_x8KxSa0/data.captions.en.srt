@@ -1,0 +1,557 @@
+1
+00:00:00,160 --> 00:00:08,000
+Moving from a legacy mindset to modern
+
+2
+00:00:04,000 --> 00:00:10,320
+engineering practices is is more than
+
+3
+00:00:08,000 --> 00:00:14,480
+just technical, right? Engineering
+
+4
+00:00:10,320 --> 00:00:16,560
+excellence isn't just technical. It's a
+
+5
+00:00:14,480 --> 00:00:19,039
+cultural thing within the context of of
+
+6
+00:00:16,560 --> 00:00:25,600
+of your teams.
+
+7
+00:00:19,039 --> 00:00:28,720
+If if there isn't a a a a culture of
+
+8
+00:00:25,600 --> 00:00:30,720
+absorbing change, rolling with the
+
+9
+00:00:28,720 --> 00:00:32,719
+punches, if there isn't a culture of
+
+10
+00:00:30,720 --> 00:00:35,200
+continuous learning, of continuous
+
+11
+00:00:32,719 --> 00:00:37,760
+improvement, if there isn't a culture of
+
+12
+00:00:35,200 --> 00:00:39,760
+continuously adapting your processes to
+
+13
+00:00:37,760 --> 00:00:41,360
+what you learn, continuously adapting
+
+14
+00:00:39,760 --> 00:00:44,239
+your products and your vision to what
+
+15
+00:00:41,360 --> 00:00:47,440
+you learn, continuously adapting the
+
+16
+00:00:44,239 --> 00:00:50,160
+work items that you have based on what
+
+17
+00:00:47,440 --> 00:00:52,320
+you learn and how users engage with it,
+
+18
+00:00:50,160 --> 00:00:54,640
+then it's going to be very difficult to
+
+19
+00:00:52,320 --> 00:00:57,680
+move from from a from a a legacy
+
+20
+00:00:54,640 --> 00:01:00,719
+mindset, which is write it once and it
+
+21
+00:00:57,680 --> 00:01:02,960
+it's it's there for posterity. Um, to a
+
+22
+00:01:00,719 --> 00:01:06,560
+a continuously
+
+23
+00:01:02,960 --> 00:01:09,600
+refactored code base that adapts to your
+
+24
+00:01:06,560 --> 00:01:12,000
+business's needs in the same way uh uh
+
+25
+00:01:09,600 --> 00:01:14,560
+that your business's needs adapt, right?
+
+26
+00:01:12,000 --> 00:01:17,200
+Or at least as close behind as you
+
+27
+00:01:14,560 --> 00:01:20,960
+possibly can. Um, and that that
+
+28
+00:01:17,200 --> 00:01:24,000
+migration from um
+
+29
+00:01:20,960 --> 00:01:27,680
+I've got a legacy system because the the
+
+30
+00:01:24,000 --> 00:01:31,840
+reality the reality is that the Big Bang
+
+31
+00:01:27,680 --> 00:01:35,360
+rewrite is a complete fallacy. It hardly
+
+32
+00:01:31,840 --> 00:01:36,799
+ever works out and it hardly ever costs
+
+33
+00:01:35,360 --> 00:01:39,920
+what you think it's going to cost. It's
+
+34
+00:01:36,799 --> 00:01:43,200
+it's usually the most expensive way um
+
+35
+00:01:39,920 --> 00:01:45,200
+to to rebuild your software. And worse,
+
+36
+00:01:43,200 --> 00:01:48,320
+if you take all the software engineers
+
+37
+00:01:45,200 --> 00:01:50,880
+that built your existing legacy, poorly
+
+38
+00:01:48,320 --> 00:01:54,079
+coded, poorly architected product and
+
+39
+00:01:50,880 --> 00:01:56,320
+you have them rebuild a new product, why
+
+40
+00:01:54,079 --> 00:01:58,320
+would you think the outcome uh would be
+
+41
+00:01:56,320 --> 00:02:02,719
+any different? Why would the new product
+
+42
+00:01:58,320 --> 00:02:05,520
+be any more um um scalable, sustainable,
+
+43
+00:02:02,719 --> 00:02:09,039
+um adaptable, testable, maintainable,
+
+44
+00:02:05,520 --> 00:02:10,879
+right? All the ables. Um why would it be
+
+45
+00:02:09,039 --> 00:02:12,239
+more of those things than the old one? I
+
+46
+00:02:10,879 --> 00:02:14,400
+mean, it may be a a little bit more
+
+47
+00:02:12,239 --> 00:02:16,640
+because people learn over time, but it's
+
+48
+00:02:14,400 --> 00:02:20,959
+not going to be stick with it more. So,
+
+49
+00:02:16,640 --> 00:02:22,720
+the way it does work is you you need to
+
+50
+00:02:20,959 --> 00:02:25,040
+do you need you need to change your
+
+51
+00:02:22,720 --> 00:02:26,640
+product in place. You don't replace your
+
+52
+00:02:25,040 --> 00:02:29,360
+product wholesale. You don't build a new
+
+53
+00:02:26,640 --> 00:02:31,599
+version off on the side. I I see teams,
+
+54
+00:02:29,360 --> 00:02:32,959
+organizations do that all the time. I I
+
+55
+00:02:31,599 --> 00:02:34,800
+worked with an organization quite a few
+
+56
+00:02:32,959 --> 00:02:38,319
+years ago would be years ago and they
+
+57
+00:02:34,800 --> 00:02:40,879
+were on their fifth attempt at big bang
+
+58
+00:02:38,319 --> 00:02:42,400
+rewrite of this one product but they
+
+59
+00:02:40,879 --> 00:02:45,840
+were on their fifth attempt of it. Every
+
+60
+00:02:42,400 --> 00:02:47,440
+few years they had another attempt and
+
+61
+00:02:45,840 --> 00:02:49,120
+usually when times are good we're making
+
+62
+00:02:47,440 --> 00:02:51,200
+a lot of money and then something
+
+63
+00:02:49,120 --> 00:02:52,640
+happens in the market or whatever and
+
+64
+00:02:51,200 --> 00:02:54,640
+we're not making so much money. So
+
+65
+00:02:52,640 --> 00:02:56,879
+what's the project that we cut? this
+
+66
+00:02:54,640 --> 00:03:00,160
+this current existing product that's
+
+67
+00:02:56,879 --> 00:03:03,200
+providing us value and and cash flow or
+
+68
+00:03:00,160 --> 00:03:05,120
+this cost sync of a of an attempted
+
+69
+00:03:03,200 --> 00:03:08,480
+rewrite that is not providing any value
+
+70
+00:03:05,120 --> 00:03:10,080
+right now it's it's a total no-brainer
+
+71
+00:03:08,480 --> 00:03:13,040
+business decision you cancel the new
+
+72
+00:03:10,080 --> 00:03:15,760
+thing you and they been through six
+
+73
+00:03:13,040 --> 00:03:18,560
+attempts of it right this is super
+
+74
+00:03:15,760 --> 00:03:22,080
+common so what we do is we fix our
+
+75
+00:03:18,560 --> 00:03:27,040
+application in place
+
+76
+00:03:22,080 --> 00:03:28,720
+yes that's harder Yes, that costs more,
+
+77
+00:03:27,040 --> 00:03:31,760
+but it doesn't cost more than six
+
+78
+00:03:28,720 --> 00:03:36,080
+attempts at rewriting because you you
+
+79
+00:03:31,760 --> 00:03:40,319
+you do each thing right. You you've got
+
+80
+00:03:36,080 --> 00:03:42,879
+your application, you build a new piece,
+
+81
+00:03:40,319 --> 00:03:44,640
+you hook it in to the main application,
+
+82
+00:03:42,879 --> 00:03:46,640
+you do all the testing, validation.
+
+83
+00:03:44,640 --> 00:03:49,120
+Awesome. We've replaced that piece.
+
+84
+00:03:46,640 --> 00:03:51,519
+We've added value to the system. The
+
+85
+00:03:49,120 --> 00:03:53,280
+system is now faster, more scalable,
+
+86
+00:03:51,519 --> 00:03:56,080
+more sustainable because we've added
+
+87
+00:03:53,280 --> 00:03:57,920
+this new piece in and we designed it in
+
+88
+00:03:56,080 --> 00:03:59,439
+the way that solid principles that it's
+
+89
+00:03:57,920 --> 00:04:01,519
+adaptable and all those kind of things.
+
+90
+00:03:59,439 --> 00:04:03,599
+So we've got a new piece in but the rest
+
+91
+00:04:01,519 --> 00:04:05,840
+of our application is still legacy.
+
+92
+00:04:03,599 --> 00:04:07,840
+What's the next piece we need to go fix
+
+93
+00:04:05,840 --> 00:04:10,000
+and the piece after that? And if you
+
+94
+00:04:07,840 --> 00:04:14,080
+have many teams, you can tackle many
+
+95
+00:04:10,000 --> 00:04:17,120
+pieces at once and continuously
+
+96
+00:04:14,080 --> 00:04:21,040
+progress your um your your new
+
+97
+00:04:17,120 --> 00:04:24,240
+application emerges from the old one,
+
+98
+00:04:21,040 --> 00:04:28,080
+right? Um your new capabilities emerge
+
+99
+00:04:24,240 --> 00:04:30,080
+from the old one. And that's how you
+
+100
+00:04:28,080 --> 00:04:33,840
+build sustainable that's how you build
+
+101
+00:04:30,080 --> 00:04:36,960
+sustainable change. That's how you build
+
+102
+00:04:33,840 --> 00:04:38,800
+a sustainability mindset into your
+
+103
+00:04:36,960 --> 00:04:40,320
+teams, into the culture of your
+
+104
+00:04:38,800 --> 00:04:42,720
+organization,
+
+105
+00:04:40,320 --> 00:04:44,479
+that you're fixing things as you go,
+
+106
+00:04:42,720 --> 00:04:46,639
+that you're adapting things as you go,
+
+107
+00:04:44,479 --> 00:04:49,680
+that you're having to go back and clean
+
+108
+00:04:46,639 --> 00:04:53,199
+up your own messes, so don't make the
+
+109
+00:04:49,680 --> 00:04:57,199
+next mess. And that work to do that is
+
+110
+00:04:53,199 --> 00:05:00,479
+what teaches us, right, to to do it
+
+111
+00:04:57,199 --> 00:05:02,720
+better the first time, the second time,
+
+112
+00:05:00,479 --> 00:05:05,120
+right? when we're when we're
+
+113
+00:05:02,720 --> 00:05:07,039
+refactoring. Oh no, now now I now I've
+
+114
+00:05:05,120 --> 00:05:09,120
+built this thing. I realize how I should
+
+115
+00:05:07,039 --> 00:05:11,440
+have built it and I get a chance to
+
+116
+00:05:09,120 --> 00:05:13,120
+refactor it. I get a chance to change it
+
+117
+00:05:11,440 --> 00:05:15,199
+and do that continuously for your
+
+118
+00:05:13,120 --> 00:05:16,960
+application within the context of we're
+
+119
+00:05:15,199 --> 00:05:19,919
+still adding new features to our
+
+120
+00:05:16,960 --> 00:05:22,400
+application and you'll get to where you
+
+121
+00:05:19,919 --> 00:05:25,199
+need to be. It will take time. It will
+
+122
+00:05:22,400 --> 00:05:27,680
+probably take um longer than just
+
+123
+00:05:25,199 --> 00:05:29,680
+focusing on a big bang rewrite, but it's
+
+124
+00:05:27,680 --> 00:05:34,479
+less risky,
+
+125
+00:05:29,680 --> 00:05:37,840
+less chance of cancelling. Um and you do
+
+126
+00:05:34,479 --> 00:05:40,240
+both things. You rebuild your product
+
+127
+00:05:37,840 --> 00:05:42,400
+and you rebuild the culture of your
+
+128
+00:05:40,240 --> 00:05:44,720
+organization and the mindset from a
+
+129
+00:05:42,400 --> 00:05:48,240
+legacy mindset towards one of
+
+130
+00:05:44,720 --> 00:05:53,199
+engineering excellence. Um, and that's
+
+131
+00:05:48,240 --> 00:05:56,560
+something that I work with teams often
+
+132
+00:05:53,199 --> 00:06:01,520
+on the
+
+133
+00:05:56,560 --> 00:06:04,400
+that that idea of fixing things in
+
+134
+00:06:01,520 --> 00:06:06,720
+place, of adapting the things that we
+
+135
+00:06:04,400 --> 00:06:11,680
+already have. So, we're adding value,
+
+136
+00:06:06,720 --> 00:06:14,720
+not cost. And if you want your people to
+
+137
+00:06:11,680 --> 00:06:17,840
+be as ready as you need your platforms
+
+138
+00:06:14,720 --> 00:06:20,720
+to be, let us help you make that change
+
+139
+00:06:17,840 --> 00:06:20,720
+stick.
+
+

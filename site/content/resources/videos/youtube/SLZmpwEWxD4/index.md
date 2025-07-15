@@ -1,24 +1,12 @@
 ---
-title: The Importance of Visualizing Your Work in a Kanban Strategy
 short_title: Visualizing Work in Kanban for Team Alignment
 description: Explains how visualising work in Kanban boosts team clarity, transparency, and alignment, and offers steps to define workflows, avoid misalignment, and improve collaboration.
 date: 2024-03-07T07:00:10Z
-weight: 1000
 ResourceId: SLZmpwEWxD4
-ResourceImport: true
 ResourceType: videos
-slug: the-importance-of-visualizing-your-work-in-a-kanban-strategy
-aliases:
-- /resources/SLZmpwEWxD4
-- /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
-- /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
-aliasesArchive:
-- /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
-- /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
-- /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
-- /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
-- /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
-- the-importance-of-visualizing-your-work-in-a-kanban-strategy
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
 concepts:
 - Practice
 categories:
@@ -31,22 +19,34 @@ tags:
 - Agile Frameworks
 - Pragmatic Thinking
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: SLZmpwEWxD4
-source: internal
-url: /resources/videos/:slug
-layout: video
-preview: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
-duration: 267
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
 Watermarks:
   description: 2025-05-07T13:05:26Z
   short_title: 2025-07-07T17:49:29Z
+title: The Importance of Visualizing Your Work in a Kanban Strategy
+videoId: SLZmpwEWxD4
+source: internal
+url: /resources/videos/:slug
+slug: the-importance-of-visualizing-your-work-in-a-kanban-strategy
+layout: video
+aliases:
+- /resources/SLZmpwEWxD4
+- /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+- /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
+aliasesArchive:
+- /resources/videos/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+- /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
+- /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
+- /resources/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
+- /resources/videos/kanban-visualisation-practices-stratagies-or-best-practices-for-effectively-visualizing-workflow
+- the-importance-of-visualizing-your-work-in-a-kanban-strategy
+preview: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
+duration: 267
+resourceTypes:
+- video
+isShort: false
 
 ---
 In the world of Agile and [Scrum]({{< ref "/categories/scrum" >}}), one crucial element often overlooked is the **visualization of work**. It’s not just about getting things done; it’s about understanding the flow of value within your system. As a [Scrum Master]({{< ref "/tags/scrum-master" >}}) or Agile practitioner, the ability to visualize your work will empower your team to be more effective, transparent, and aligned. Today, we’ll explore how visualization can transform your [Kanban]({{< ref "/categories/kanban" >}}) strategy, improve collaboration, and streamline processes for better results.

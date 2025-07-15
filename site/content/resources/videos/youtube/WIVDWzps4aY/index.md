@@ -1,13 +1,31 @@
 ---
-title: 'Mastering Product Ownership: Unlocking the Secrets to Effective Product Management in Agile Teams'
 short_title: Mastering Product Ownership in Agile Teams
 description: Explores the vital role of product ownership in agile teams, highlighting key skills, challenges, and strategies for effective product management and team success.
 date: 2023-09-05T07:00:12Z
-weight: 1000
 ResourceId: WIVDWzps4aY
-ResourceImport: true
 ResourceType: videos
-slug: mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 1000
+concepts: []
+categories:
+- Product Development
+tags:
+- Agile Product Management
+- Product Owner
+ResourceContentOrigin: AI
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
+Watermarks:
+  description: 2025-05-07T13:09:41Z
+  short_title: 2025-07-07T17:53:12Z
+title: 'Mastering Product Ownership: Unlocking the Secrets to Effective Product Management in Agile Teams'
+videoId: WIVDWzps4aY
+source: youtube
+url: /resources/videos/:slug
+slug: mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
+layout: video
 aliases:
 - /resources/WIVDWzps4aY
 - /resources/videos/mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
@@ -19,29 +37,11 @@ aliasesArchive:
 - /resources/favourite-scrum-course-to-teach-and-why-
 - /resources/videos/favourite-scrum-course-to-teach-and-why
 - mastering-product-ownership-unlocking-the-secrets-to-effective-product-management-in-agile-teams-WIVDWzps4aY
-concepts: []
-categories:
-- Product Development
-tags:
-- Agile Product Management
-- Product Owner
-ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: WIVDWzps4aY
-url: /resources/videos/:slug
-layout: video
 preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
-isShort: true
-sitemap:
-  filename: sitemap.xml
-  priority: 0.6
-source: youtube
 resourceTypes:
 - video
-Watermarks:
-  description: 2025-05-07T13:09:41Z
-  short_title: 2025-07-07T17:53:12Z
+isShort: true
 
 ---
 One of my favourite classes to teach is the [Product Owner]({{< ref "/tags/product-owner" >}}) class. It used to be known as the APS class, but I felt a change was necessary. The reason for this shift is simple: I’ve observed that the most significant gap in organisations and teams today is effective [product management]({{< ref "/categories/product-management" >}}). 

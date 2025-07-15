@@ -1,23 +1,12 @@
 ---
-title: 'The Power of Humility in Agile: A Core Virtue for Success'
 short_title: Humility in Agile Teams for Success
 description: Explores how humility strengthens Agile teams by fostering trust, collaboration, openness to feedback, and better decision-making through reduced bias and data-driven insights.
 date: 2023-12-12T07:00:02Z
-weight: 790
 ResourceId: 4scE4acfewk
-ResourceImport: true
 ResourceType: videos
-slug: the-power-of-humility-in-agile-a-core-virtue-for-success
-aliases:
-- /resources/4scE4acfewk
-- /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
-- /resources/videos/7-virtues-of-agile-humility
-aliasesArchive:
-- /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
-- /resources/the-power-of-humility-in-agile-a-core-virtue-for-success
-- /resources/videos/7-virtues-of-agile-humility
-- /resources/7-virtues-of-agile-humility
-- the-power-of-humility-in-agile-a-core-virtue-for-success
+ResourceImport: true
+ResourceImportSource: Youtube
+weight: 790
 concepts: []
 categories:
 - Product Development
@@ -29,22 +18,33 @@ tags:
 - Agile Product Management
 - Social Technologies
 ResourceContentOrigin: AI
-ResourceImportSource: Youtube
-videoId: 4scE4acfewk
-source: internal
-url: /resources/videos/:slug
-preview: https://i.ytimg.com/vi/4scE4acfewk/maxresdefault.jpg
-duration: 212
-isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.6
-resourceTypes:
-- video
-layout: video
 Watermarks:
   description: 2025-05-07T13:07:04Z
   short_title: 2025-07-07T17:50:50Z
+title: 'The Power of Humility in Agile: A Core Virtue for Success'
+videoId: 4scE4acfewk
+source: internal
+url: /resources/videos/:slug
+slug: the-power-of-humility-in-agile-a-core-virtue-for-success
+layout: video
+aliases:
+- /resources/4scE4acfewk
+- /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
+- /resources/videos/7-virtues-of-agile-humility
+aliasesArchive:
+- /resources/videos/the-power-of-humility-in-agile-a-core-virtue-for-success
+- /resources/the-power-of-humility-in-agile-a-core-virtue-for-success
+- /resources/videos/7-virtues-of-agile-humility
+- /resources/7-virtues-of-agile-humility
+- the-power-of-humility-in-agile-a-core-virtue-for-success
+preview: https://i.ytimg.com/vi/4scE4acfewk/maxresdefault.jpg
+duration: 212
+resourceTypes:
+- video
+isShort: false
 
 ---
 When we talk about the **Seven Virtues of Agility**, one that often stands out is humility. It's an essential ingredient for effective collaboration and success within Agile teams. Whether you're a [product owner]({{< ref "/tags/product-owner" >}}), product manager, or a developer, embracing humility can dramatically impact the quality of your work and the strength of your team.

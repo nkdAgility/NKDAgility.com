@@ -1,0 +1,405 @@
+1
+00:00:00,160 --> 00:00:07,759
+huge mistake that organizations make
+
+2
+00:00:03,439 --> 00:00:10,240
+when they're trying to move towards
+
+3
+00:00:07,759 --> 00:00:15,679
+having a DevOps strategy, having
+
+4
+00:00:10,240 --> 00:00:18,000
+engineering excellence, having that that
+
+5
+00:00:15,679 --> 00:00:19,840
+better suite of modern engineering
+
+6
+00:00:18,000 --> 00:00:22,800
+practices within their organization is
+
+7
+00:00:19,840 --> 00:00:25,519
+they outsource it to a vendor.
+
+8
+00:00:22,800 --> 00:00:28,800
+That is that is probably the least
+
+9
+00:00:25,519 --> 00:00:31,519
+likely way to result in a positive
+
+10
+00:00:28,800 --> 00:00:34,559
+outcome for your business because you're
+
+11
+00:00:31,519 --> 00:00:37,600
+you're giving the engineers in your
+
+12
+00:00:34,559 --> 00:00:40,800
+business a bunch of new stuff that they
+
+13
+00:00:37,600 --> 00:00:42,879
+don't understand very well that they
+
+14
+00:00:40,800 --> 00:00:45,680
+perhaps don't understand at all. Black
+
+15
+00:00:42,879 --> 00:00:47,520
+boxes that this vendor's created and
+
+16
+00:00:45,680 --> 00:00:49,200
+you're probably going to end up with a
+
+17
+00:00:47,520 --> 00:00:51,280
+lot of vendor lock in. and you're going
+
+18
+00:00:49,200 --> 00:00:54,079
+to need that vendor to come back and
+
+19
+00:00:51,280 --> 00:00:55,680
+redo things on a regular cadence and
+
+20
+00:00:54,079 --> 00:00:57,680
+it's going to be very expensive and
+
+21
+00:00:55,680 --> 00:00:59,440
+you're probably going to find that
+
+22
+00:00:57,680 --> 00:01:01,600
+there's going to be a long time between
+
+23
+00:00:59,440 --> 00:01:03,199
+those things, right? It's why you end up
+
+24
+00:01:01,600 --> 00:01:07,520
+on old versions of your product in the
+
+25
+00:01:03,199 --> 00:01:11,680
+first place. So instead of a vendor,
+
+26
+00:01:07,520 --> 00:01:14,880
+you need somebody somebody's
+
+27
+00:01:11,680 --> 00:01:16,960
+who are going to come in and help you
+
+28
+00:01:14,880 --> 00:01:19,520
+change that mindset within your
+
+29
+00:01:16,960 --> 00:01:22,080
+organization of of start moving people
+
+30
+00:01:19,520 --> 00:01:26,159
+towards engineering excellence. Helping
+
+31
+00:01:22,080 --> 00:01:27,439
+your people rebuild their workflows in a
+
+32
+00:01:26,159 --> 00:01:30,799
+way that makes sense in a modern
+
+33
+00:01:27,439 --> 00:01:33,680
+engineering context. Have them help your
+
+34
+00:01:30,799 --> 00:01:36,799
+people fix their problems. Um, and
+
+35
+00:01:33,680 --> 00:01:39,200
+that's something that I do with most
+
+36
+00:01:36,799 --> 00:01:41,600
+organizations that I work with is I'm
+
+37
+00:01:39,200 --> 00:01:44,000
+coming in and I'm helping their people
+
+38
+00:01:41,600 --> 00:01:47,520
+do it. I often don't even have
+
+39
+00:01:44,000 --> 00:01:51,119
+credentials in their system, right? I I
+
+40
+00:01:47,520 --> 00:01:53,040
+I'm not making changes for them. I'm
+
+41
+00:01:51,119 --> 00:01:55,600
+helping them make changes. I'm
+
+42
+00:01:53,040 --> 00:01:57,360
+encouraging them to refactor the things
+
+43
+00:01:55,600 --> 00:01:59,439
+that they're working on. I'm encouraging
+
+44
+00:01:57,360 --> 00:02:02,960
+them to break it down. we're talking
+
+45
+00:01:59,439 --> 00:02:05,600
+about the theory and uh uh philosophies
+
+46
+00:02:02,960 --> 00:02:08,560
+on like why would you want to move in
+
+47
+00:02:05,600 --> 00:02:11,599
+this direction and then I'm helping them
+
+48
+00:02:08,560 --> 00:02:13,200
+implement those things um as they start
+
+49
+00:02:11,599 --> 00:02:16,879
+hitting problems in the actual
+
+50
+00:02:13,200 --> 00:02:20,319
+technology right um just working with a
+
+51
+00:02:16,879 --> 00:02:23,280
+customer at the moment that's on TFVC
+
+52
+00:02:20,319 --> 00:02:25,680
+and we need to move them to git they
+
+53
+00:02:23,280 --> 00:02:27,120
+have SDN and TFVC and they need to go to
+
+54
+00:02:25,680 --> 00:02:29,040
+a modern source control system a
+
+55
+00:02:27,120 --> 00:02:32,239
+distributed source control
+
+56
+00:02:29,040 --> 00:02:37,599
+Um they're they're on they have stuff on
+
+57
+00:02:32,239 --> 00:02:41,280
+.NET 3 um yeah .NET 35. Um they have
+
+58
+00:02:37,599 --> 00:02:43,760
+stuff on old versions of of of
+
+59
+00:02:41,280 --> 00:02:46,720
+everything. And h how how do you tackle
+
+60
+00:02:43,760 --> 00:02:49,280
+that upgrade? How do you even get
+
+61
+00:02:46,720 --> 00:02:51,360
+started? How do you make that
+
+62
+00:02:49,280 --> 00:02:53,200
+progression towards the smallest piece
+
+63
+00:02:51,360 --> 00:02:55,760
+you can bite off and figure out how to
+
+64
+00:02:53,200 --> 00:02:58,239
+do that first? What are the implications
+
+65
+00:02:55,760 --> 00:03:01,280
+of making certain changes? Right.
+
+66
+00:02:58,239 --> 00:03:04,080
+There's a massive implication of moving
+
+67
+00:03:01,280 --> 00:03:06,959
+from a a serverbased source control
+
+68
+00:03:04,080 --> 00:03:09,200
+system like TFVC or subversion and then
+
+69
+00:03:06,959 --> 00:03:12,239
+adapting over to a distributed source
+
+70
+00:03:09,200 --> 00:03:14,480
+control system like uh like like git
+
+71
+00:03:12,239 --> 00:03:16,239
+which has a lot of implications of
+
+72
+00:03:14,480 --> 00:03:17,920
+branching strategy. It has implications
+
+73
+00:03:16,239 --> 00:03:20,720
+of what you put in your source code. It
+
+74
+00:03:17,920 --> 00:03:23,200
+has implications of how do you manage
+
+75
+00:03:20,720 --> 00:03:25,120
+your product towards production. It has
+
+76
+00:03:23,200 --> 00:03:27,519
+loads of implications down the line that
+
+77
+00:03:25,120 --> 00:03:29,840
+are part of modernizing your engineering
+
+78
+00:03:27,519 --> 00:03:32,799
+practices. And that requires
+
+79
+00:03:29,840 --> 00:03:35,360
+partnership, not a vendor. A vendor is
+
+80
+00:03:32,799 --> 00:03:38,799
+going to do the stuff for you. And your
+
+81
+00:03:35,360 --> 00:03:42,480
+people aren't going to learn anything.
+
+82
+00:03:38,799 --> 00:03:46,239
+You need a partner who can teach,
+
+83
+00:03:42,480 --> 00:03:48,720
+mentor, coach, and engineering
+
+84
+00:03:46,239 --> 00:03:51,120
+transformational experience within your
+
+85
+00:03:48,720 --> 00:03:54,560
+organization. That's something that we
+
+86
+00:03:51,120 --> 00:03:57,840
+can help you with. My background is
+
+87
+00:03:54,560 --> 00:04:00,560
+software engineering, not coaching and
+
+88
+00:03:57,840 --> 00:04:05,599
+training, software engineering. I'm a
+
+89
+00:04:00,560 --> 00:04:07,920
+Microsoft MVP in DevOps and GitHub.
+
+90
+00:04:05,599 --> 00:04:10,159
+I have uh engineering experience in
+
+91
+00:04:07,920 --> 00:04:14,000
+building out DevOps pipelines. I was a
+
+92
+00:04:10,159 --> 00:04:18,959
+DevOps consultant uh for many years and
+
+93
+00:04:14,000 --> 00:04:21,280
+helping teams get better at building out
+
+94
+00:04:18,959 --> 00:04:23,600
+um these modern engineering practices
+
+95
+00:04:21,280 --> 00:04:25,680
+and the implications of these modern
+
+96
+00:04:23,600 --> 00:04:28,160
+engineering practices for their existing
+
+97
+00:04:25,680 --> 00:04:32,080
+pract practices and building a strategy
+
+98
+00:04:28,160 --> 00:04:37,199
+to get between them is where I bring my
+
+99
+00:04:32,080 --> 00:04:40,720
+expertise and let's get you to
+
+100
+00:04:37,199 --> 00:04:45,639
+engineering excellence on Your terms at
+
+101
+00:04:40,720 --> 00:04:45,639
+your pace with expert guidance.
+
+
