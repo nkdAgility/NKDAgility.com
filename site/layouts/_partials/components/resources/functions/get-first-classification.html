@@ -1,0 +1,7 @@
+{{ $category := "Agentic Agility" }}{{ with .Params.categories }}
+  {{ $firstCat := index . 0 }}{{ if eq $firstCat "Uncategorized" }}{{ with $.Params.concepts }}{{ $category = index . 0 | title }}{{ else }}{{ with $.Params.tags }}{{ $category = index . 0 | title }}{{ end }}{{ end }}{{ else }}{{ $category = $firstCat | title }}{{ end }}
+{{ else }}
+  {{ with .Params.concepts }}{{ $category = index . 0 | title }}{{ else }}{{ with .Params.tags }}{{ $category = index . 0 | title }}{{ end }}{{ end }}
+{{ end }}
+
+{{ return $category }}
