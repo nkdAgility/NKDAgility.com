@@ -5,27 +5,29 @@
   {{ range $paginator.Pages }}
     {{ $isFuture := (.Date.After now) }}
     <div class="col-12 col-md-6 col-lg-4">
-      <div class="card h-100">
+      <article class="card h-100">
         {{ if $isFuture }}
           {{ $duration := .Date.Sub now }}
           {{ $days := math.Floor (div $duration.Hours 24) }}
-          <div class="card-header bg-warning text-dark py-1 px-2">
+          <header class="card-header bg-warning text-dark py-1 px-2">
             <small><strong>Publishes in {{ $days }} days</strong></small>
-          </div>
+          </header>
         {{ end }}
         <div class="card-body d-flex flex-column position-relative">
-          <small class="text-muted mb-2"> {{ partial "components/resources/functions/get-first-classification.html" . }} • {{ .Date.Format "Jan 2, 2006" }}</small>
-          <h5 class="card-title"><a href="{{ .Permalink }}" class="text-decoration-none text-reset">{{ .Title }}</a></h5>
+          <small class="text-muted mb-2"> {{ partial "components/resources/functions/get-first-classification.html" . }} • <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time></small>
+          <header>
+            <h5 class="card-title"><a href="{{ .Permalink }}" class="text-decoration-none text-reset">{{ .Title }}</a></h5>
+          </header>
           <p class="card-text flex-grow-1">{{ .Description | default .Summary  | truncate 150 }}</p>
-          <div class="d-flex justify-content-between align-items-end mt-auto">
+          <footer class="d-flex justify-content-between align-items-end mt-auto">
             <div class="resource-icon">
               {{- partial "components/resources/resource-icon.html" . }}
               {{- .Params.ResourceType | title }}
             </div>
             <a href="{{ .Permalink }}" class="text-decoration-none">Read More</a>
-          </div>
+          </footer>
         </div>
-      </div>
+      </article>
     </div>
   {{ end }}
 </div>
