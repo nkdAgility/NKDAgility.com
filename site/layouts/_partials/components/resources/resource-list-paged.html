@@ -1,6 +1,6 @@
 {{ $resources := .resources }}
 {{ $page := .context }}
-{{ $paginator := $page.Paginate ($resources.ByDate.Reverse) 50 }}
+{{ $paginator := $page.Paginate ($resources.ByDate.Reverse) 60 }}
 <div class="row g-4 ">
   {{ range $paginator.Pages }}
     {{ $isFuture := (.Date.After now) }}
