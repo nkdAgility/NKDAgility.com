@@ -1,4 +1,0 @@
----
-title: "Affinity"
-layout: affinity
----
