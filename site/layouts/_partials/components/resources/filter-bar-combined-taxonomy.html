@@ -3,7 +3,7 @@
 
 <div class="dropdown">
   <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="combinedTaxonomyDropdown" data-bs-toggle="dropdown" aria-expanded="false">Classifications</button>
-  <ul class="dropdown-menu dropdown-menu-scrollable" aria-labelledby="combinedTaxonomyDropdown" style="max-height: 500px; overflow-y: auto; overflow-x: hidden; width: 90vw; max-width: 800px;">
+  <ul class="dropdown-menu dropdown-menu-scrollable" aria-labelledby="combinedTaxonomyDropdown" style="overflow-x: hidden; width: 90vw; max-width: 800px;">
     <li><a class="dropdown-item" href="/resources#filters">All Resources</a></li>
     <li><hr class="dropdown-divider" /></li>
 
@@ -54,7 +54,7 @@
             <div class="mb-2">
               <input type="text" class="form-control form-control-sm" id="tagSearch" placeholder="Search tags..." onkeyup="filterTags()" />
             </div>
-            <div id="tagsContainer" class="taxonomy-column" style="max-height: 250px; overflow-y: auto;">
+            <div id="tagsContainer" class="taxonomy-column tags-adaptive-height" style="overflow-y: auto;">
               {{ range $tag, $pages := $tags }}
                 {{- $count := len ($pages) -}}
                 {{- if gt $count 0 }}
@@ -92,14 +92,32 @@
     document.getElementById("tagSearch").value = "";
     filterTags(); // Reset filter
   });
+
+  // Adjust tags column height to match other columns
+  document.getElementById("combinedTaxonomyDropdown").addEventListener("shown.bs.dropdown", function () {
+    adjustTagsHeight();
+  });
+
+  function adjustTagsHeight() {
+    const conceptsColumn = document.querySelector(".col-4:nth-child(1) .taxonomy-column");
+    const categoriesColumn = document.querySelector(".col-4:nth-child(2) .taxonomy-column");
+    const tagsContainer = document.getElementById("tagsContainer");
+
+    if (conceptsColumn && categoriesColumn && tagsContainer) {
+      const conceptsHeight = conceptsColumn.scrollHeight;
+      const categoriesHeight = categoriesColumn.scrollHeight;
+      const maxHeight = Math.max(conceptsHeight, categoriesHeight);
+
+      // Set a reasonable max height, but allow it to grow with the other columns
+      if (maxHeight > 100) {
+        // Only apply if there's meaningful content
+        tagsContainer.style.maxHeight = maxHeight + "px";
+      }
+    }
+  }
 </script>
 
 <style>
-  .dropdown-menu-scrollable {
-    max-height: 500px;
-    overflow-y: auto;
-  }
-
   .dropdown-header {
     color: #6c757d;
     font-weight: 600;
@@ -116,6 +134,11 @@
 
   .taxonomy-column:last-child {
     border-right: none;
+  }
+
+  .tags-adaptive-height {
+    max-height: 300px; /* Fallback max height */
+    min-height: 150px; /* Minimum height to ensure usability */
   }
 
   .taxonomy-item {
