@@ -12,6 +12,12 @@
     <section class="container container-heading">{{- partial "components/resources/filter-bar.html" . }}</section>
   </section>
   <section class="container my-2">
+
+    {{- partial "components/resources/resource-list-paged.html" . }}
+  </section>
+
+
+  <section class="container my-2">
     
     <div class="row">
       <div class="col-12">
@@ -54,7 +60,8 @@
         <div class="m-1">
           <h5>Most recent content</h5>
           <div class="columns-2">
-            {{ $recent := first 20 (sort $resources "Date" "desc") }}            {{ range $recent }}
+            {{ $recent := first 20 (sort $resources "Date" "desc") }}          
+              {{ range $recent }}
               <div class="resource-list-item text-truncate" 
                    title="{{ .Title }} - {{ .Description }}"
                    data-bs-toggle="tooltip" 
