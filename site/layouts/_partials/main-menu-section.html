@@ -26,7 +26,7 @@
                             <span class="fw-semibold">{{- .Params.card.title | default .Title }}</span>
                           </div>
                           {{ if .Description }}
-                            <div class="section-description text-muted small">{{ .Description }}</div>
+                            <div class="section-description text-muted small d-none d-md-block">{{ .Description }}</div>
                           {{ end }}
                         </a>
                       </div>

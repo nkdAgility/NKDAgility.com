@@ -24,7 +24,7 @@
                             <span class="fw-semibold">{{- .Title }}</span>
                           </div>
                           {{ if .Description }}
-                            <div class="company-description text-muted small">{{ .Description }}</div>
+                            <div class="company-description text-muted small d-none d-md-block">{{ .Description }}</div>
                           {{ end }}
                         </a>
                       </div>
@@ -46,7 +46,7 @@
                           <span class="fw-semibold">{{- .Params.card.title }}</span>
                         </div>
                         {{ if .Params.card.content }}
-                          <div class="people-description text-muted small">{{ .Params.card.content | plainify | truncate 100 }}</div>
+                          <div class="people-description text-muted small d-none d-md-block">{{ .Params.card.content | plainify | truncate 100 }}</div>
                         {{ end }}
                       </a>
                     </div>
