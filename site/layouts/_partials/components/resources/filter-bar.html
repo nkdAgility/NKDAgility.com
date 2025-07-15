@@ -3,35 +3,16 @@
 {{- $currentFilter := .Params.ResourceType }}
 
 
-<div class="resources-share-bar d-flex justify-content-between align-items-center py-2 border-1">
+<div id="filters" class="resources-share-bar d-flex justify-content-between align-items-center py-2 border-1">
   <!-- Left-aligned filter dropdown -->
+
   <div class="d-inline-flex gap-2">
     <span class="text-white">Filters:</span>
-    <div class="dropdown">
-      <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="resourceFilterDropdown" data-bs-toggle="dropdown" aria-expanded="false">
-        {{- if $currentFilter }}
-          {{- range $sortedPages }}
-            {{- if eq .Params.ResourceType $currentFilter }}
-              {{- .Params.short_title }}
-            {{- end }}
-          {{- end }}
-        {{- else }}
-          Filter by Resource Type
-        {{- end }}
-      </button>
-      <ul class="dropdown-menu" aria-labelledby="resourceFilterDropdown">
-        <li><a class="dropdown-item" href="/resources">All Resources</a></li>
-        <li><hr class="dropdown-divider" /></li>
-        {{- range $sortedPages }}
-          {{- $count :=  len (where .Pages "Draft" "!=" true) }}
-          {{- if gt $count 0 }}
-            <li>
-              <a class="dropdown-item" href="{{- .Permalink }}">{{- .Params.short_title }} <span class="text-muted">({{- $count }})</span></a>
-            </li>
-          {{- end }}
-        {{- end }}
-      </ul>
-    </div>
+    {{- partial "components/resources/filter-bar-resource-type.html" . }}
+    {{- partial "components/resources/filter-bar-taxonomy.html" (dict "context" . "taxonomy" "concepts") }}
+    {{- partial "components/resources/filter-bar-taxonomy.html" (dict "context" . "taxonomy" "categories") }}
+    {{- partial "components/resources/filter-bar-taxonomy.html" (dict "context" . "taxonomy" "tags") }}
+
   </div>
 
   <!-- Right-aligned 'Share' dropdown buttons -->

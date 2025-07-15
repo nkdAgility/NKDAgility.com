@@ -1,0 +1,22 @@
+{{- $taxonomy:= .taxonomy }}
+{{- $context := .context }}
+
+
+<div class="dropdown">
+  <button class="btn btn-sm btn-outline-secondary dropdown-toggle" type="button" id="resourceFilterDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+    {{- $taxonomy | title }}
+  </button>
+  <ul class="dropdown-menu" aria-labelledby="resourceFilterDropdown">
+    <li><a class="dropdown-item" href="/resources#filters">All Resources</a></li>
+    <li><hr class="dropdown-divider" /></li>
+    {{ .Site.Taxonomies }}
+    {{ range $category, $pages := (index .context.Site.Taxonomies $taxonomy) }}
+      {{- $count := len ($pages) -}}
+      {{- if gt $count 0 }}
+        <li>
+          <a class="dropdown-item" href="{{ .Page.Permalink }}#filters" title="{{ .Page.Title }} - {{ .Page.Description }}"> {{ .Page.Title }} <span class="text-muted">({{ $count }})</span></a>
+        </li>
+      {{ end }}
+    {{- end }}
+  </ul>
+</div>
