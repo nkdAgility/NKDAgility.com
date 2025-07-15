@@ -136,3 +136,25 @@
     </ul>
   </nav>
 </section>
+
+{{/* Add structured data for article lists */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {{ range $index, $page := $paginator.Pages }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $index 1 }},
+      "item": {
+        "@type": "Article",
+        "name": {{ $page.Title | jsonify }},
+        "url": {{ $page.Permalink | jsonify }},
+        "datePublished": {{ $page.Date.Format "2006-01-02" | jsonify }}
+      }
+    }{{ if ne $index (sub (len $paginator.Pages) 1) }},{{ end }}
+    {{ end }}
+  ]
+}
+</script>
